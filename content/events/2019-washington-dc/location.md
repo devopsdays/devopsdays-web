@@ -4,24 +4,26 @@ Type = "event"
 Description = "Location for DevOpsDays Washington, DC 2019"
 +++
 
-We are currently in search of a location.  Selection criteria are listed below.
-Contact the organizers ({{< email_organizers >}}) if you are able to help secure
-a location for the event or if you have ideas for a location.
+DevOpsDays DC 2019 will be held at the
+[Ronald Reagan Building and International Trade Center](https://itcdc.com/) at 1300 Pennsylvania Ave NW, Washington, DC 20004.
 
-* Space for 450 - 600 people
-* One room set theatre-style for the keynotes and ignite sessions large enough
-  to accomodate all attendees.
-* One room set in a large circle, large enough to hold all attendees.
-* 8-10 breakout rooms with space to accommodate all attendees during the open 
-  spaces.
-* Space for sponsors to set-up tables
-* Space for breakfast and lunch
-* Preferably in the District, must be metro rail accessible
-* Accessible to all attendees
-* Good WiFi
-* Prefer free or inexpensive location
-* Onsite staff for things like security, set-up, clean-up, furniture, etc.
-* Good flow throughout the venue for easy access to sponsors and food
+{{< event_map >}}
 
-<!-- Uncomment this only if you have set the coordinates for your location in the config yaml. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html -->
-<!-- {{< event_map >}} -->
+<p>
+  &nbsp;
+</p>
+
+## Hotel
+
+We have secured a special rate for DevOpsDays DC attendees at the **W Washington, D.C.**, a six minute walk from the Ronald Reagan Building.
+
+The [discounted rate of $259 per night is available until **June 25, 2019**](https://www.marriott.com/event-reservations/reservation-link.mi?id=1560455935877&key=GRP&app=resvlink).
+
+[Book your stay now](https://www.marriott.com/event-reservations/reservation-link.mi?id=1560455935877&key=GRP&app=resvlink)!
+
+[W Washington, D.C.](https://www.marriott.com/hotels/travel/waswh-w-washington-dc/)<br />
+515 15th Street NW<br />
+Washington, District Of Columbia 20004<br />
+202-661-2400
+
+<img src="../w-washington-dc.png" width="600px" height="465px" alt="W Washington, D.C." title="W Washington, D.C." />

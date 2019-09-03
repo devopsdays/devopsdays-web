@@ -83,7 +83,7 @@ sponsors:
     level: gold
   - id: chef
     level: gold
-  - id: appdynamics
+  - id: appdynamics-before-20190121
     level: gold
   - id: opsgenie
     level: gold
@@ -97,7 +97,7 @@ sponsors:
     level: gold
   - id: mailchimp
     level: gold
-  - id: sonatype
+  - id: sonatype-before-20190121
     level: silver
   - id: sjtechcorp
     level: silver

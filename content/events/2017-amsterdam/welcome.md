@@ -19,7 +19,7 @@ Description = "devopsdays Amsterdam 2017"
 **Thank you for coming to devopsdays Amsterdam 2017!**
 **We'll see you next year June 27, 2018!!**
 
-## Visit our {{< event_link page="postevent" text="post event" >}} page for links to this years slides & videos!
+Visit our {{< event_link page="postevent" text="post event" >}} page for links to this years slides & videos!
 
 <div class = "row">
   <div class = "col-md-2">

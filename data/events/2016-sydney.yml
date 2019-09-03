@@ -4,12 +4,12 @@ city: "Sydney" # The displayed city name of the event. Capitalize it.
 event_group: "Down Under"
 
 # All dates are in unquoted 2016-MM-DD, like this:   variable: 2016-01-05
-startdate: 2016-12-01  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2016-12-02  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2016-12-01T00:00:00+11:00  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2016-12-02T23:59:59+11:00  # The end date of your event. Leave blank if you don't have a venue reserved yet.
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2016-08-29 # start accepting talk proposals.
-cfp_date_end: 2016-10-23 # close your call for proposals.
-cfp_date_announce:  2016-10-31 # inform proposers of status
+cfp_date_start: 2016-08-29T00:00:00+10:00 # start accepting talk proposals.
+cfp_date_end: 2016-10-23T23:59:59+11:00 # close your call for proposals.
+cfp_date_announce:  2016-10-31T23:59:59+11:00 # inform proposers of status
 
 # Location
 #

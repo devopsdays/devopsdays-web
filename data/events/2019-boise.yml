@@ -5,20 +5,24 @@ event_twitter: "DevOpsDaysBoise" # Change this to the twitter handle for your ev
 description: "Devopsdays is coming to Boise!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
-# All dates are in unquoted 2019-MM-DD or YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T23:59:59+02:00
-startdate: "2019-05-30"  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: "2019-05-30" # The end date of your event. Leave blank if you don't have a venue reserved yet.
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2019-05-30T00:00:00-06:00  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2019-05-30T23:59:59-06:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2019-01-22T00:00:00-07:00  # start accepting talk proposals.
+cfp_date_end: 2019-03-31T23:59:59-06:00 # close your call for proposals.
+cfp_date_announce: 2019-04-15T23:59:59-06:00  # inform proposers of status
 
-cfp_open: "false"
+cfp_open: "true"
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2018-12-01T00:00:00-07:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2019-05-30T23:59:59-06:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -31,11 +35,11 @@ location: "Jack's Urban Meeting Place (JUMP)" # Defaults to city, but you can ma
 location_address: "1000 W Myrtle St, Boise, ID 83702" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  # - name: propose
   - name: location
- # - name: registration
- # - name: program
- # - name: speakers
+  - name: registration
+  # - name: program
+  # - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -47,7 +51,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Julie Gunderson"
-    employer: "Taos"
+    employer: "Pager Duty"
     twitter: "Julie_Gund"
   - name: "Stephen Spector"
     twitter: "SpectorID"
@@ -60,6 +64,7 @@ team_members: # Name is the only required field for team members.
   - name: "Robert Meyer"
     employer: "Taos"
     twitter: "BDArcholite"
+    github: "Robert-R-Meyer"
   - name: "Paul Remeis"
     employer: "In Time Tec"
     twitter: PaulRemeis
@@ -75,9 +80,53 @@ sponsors:
   - id: arresteddevops
     level: community
   - id: taos
-    level: platinum
+    level: gold
   - id: 2016-intimetec
     level: platinum
+  - id: sonatype
+    level: silver
+  - id: hp
+    level: silver
+  - id: signalfx
+    level: silver
+  - id: microsoft
+    level: silver
+  - id: redhat
+    level: silver
+  - id: clearwater
+    level: silver
+  - id: new-context
+    level: silver
+  - id: cradlepoint
+    level: gold
+  - id: chef
+    level: hh
+  - id: chef
+    level: silver
+  - id: microsoft
+    level: hh
+  - id: elastic
+    level: silver
+  - id: dynatrace
+    level: silver
+  - id: pagerduty
+    level: bronze
+  - id: balsam-brands
+    level: silver
+  - id: gitlab
+    level: gold
+  - id: involta
+    level: silver
+  - id: truckstopdotcom
+    level: silver
+  - id: simplot
+    level: silver
+  - id: kount
+    level: silver
+  - id: healthwise
+    level: platinum
+  - id: rubrik
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -88,6 +137,9 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: platinum
     label: Platinum
+  - id: hh
+    label: Happy Hour
+    max: 1
   - id: gold
     label: Gold
   - id: silver

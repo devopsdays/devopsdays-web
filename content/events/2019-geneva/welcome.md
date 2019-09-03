@@ -39,9 +39,7 @@ Dans un contexte d’évolution et de changements permanents, les entreprises do
 <br/><br/>
 Les intervenants DevOpsDays Geneva présenteront non seulement des applications concrètes de la culture DevOps en entreprise, mais aussi les enjeux d’intégration de la sécurité au DevOps (DevSecOps) et la conduite du changement nécessaire au sein des équipes pour assurer le succès de ces nouvelles pratiques.
 <br/><br/>
-<strong>SPONSORS</strong> : Si vous souhaitez devenir l’un de nos sponsors, contactez-nous à l’adresse suivante afin de recevoir le dossier de sponsoring : {{< email_organizers >}}
-<br/><br/>
-<strong>SPEAKERS</strong> : Si vous souhaitez partager votre expérience autour du DevOps et animer l’une de nos conférences ou workshops, merci de remplir ce <a href='https://goo.gl/forms/3Rstd0c1PJR1kDcl2' target='_blank'>Google Form</a>.
+<strong>PROGRAMME</strong> : Le programme est disponible ici => <a href='/events/2019-geneva/program/'>Programme</a>.
 <br/><br/>
 <strong>VISITEURS</strong> : pour assister à ces deux journées et tout savoir sur le DevOps, vous pouvez vous inscrire sur <a href='https://www.eventbrite.fr/e/devopsdays-geneva-2019-tickets-51449144777' target='_blank'>cette page</a> et bénéficier de tarifs avantageux pour les premiers inscrits !
 <br/><br/>
@@ -58,9 +56,7 @@ In the current context of constant evolution and change, companies must adapt an
 <br/><br/>
 DevOpsDays Geneva speakers will present not only practical applications of the DevOps culture in business, but also DevOps security integration challenges (DevSecOps) and the necessary change to be driven within teams to ensure the success of these new practices.
 <br/><br/>
-<strong>SPONSORS</strong>: If you wish to become a sponsor, contact us at the following email to receive the sponsorship application form: {{< email_organizers >}}
-<br/><br/>
-<strong>SPEAKERS</strong>: If you would like to share your DevOps experience and host one of our conferences or workshops, please fill this <a href='https://goo.gl/forms/3Rstd0c1PJR1kDcl2' target='_blank'>Google Form</a>.
+<strong>PROGRAM</strong>: The program is available here => <a href='/events/2019-geneva/program/'>Program</a>.
 <br/><br/>
 <strong>VISITORS</strong>: To attend these two days and know everything about DevOps, please register on <a href='https://www.eventbrite.fr/e/devopsdays-geneva-2019-tickets-51449144777' target='_blank'>this page</a> and benefit early registration preferential rates !
 <br/><br/>
@@ -113,31 +109,32 @@ DevOpsDays Geneva speakers will present not only practical applications of the D
 </div>
 TOBE DEFINED -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
+    <a href='/events/2019-geneva/program/'>See the program !</a>
   </div>
-</div> -->
+</div>
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
     <a href='/events/2019-geneva/speakers/'>Want to talk ?</a>
   </div>
-</div>
+</div> -->
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>
   </div>
   <div class = "col-md-8">
     <a href='/events/2019-geneva/sponsor/'>We need you !</a>
   </div>
-</div>
+</div> -->
 
 <div class = "row">
   <div class = "col-md-2">

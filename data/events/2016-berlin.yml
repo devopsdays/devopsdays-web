@@ -3,11 +3,12 @@ year: "2016" # The year of the event. Make sure it is in quotes.
 city: "Berlin" # The city name of the event. Capitalize it.
 friendly: "2016-berlin" # Four digit year and the city name in lower-case. Don't forget the dash!
 status: "current" # Options are "past" or "current".
-startdate: 2016-11-16 # The start date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
-enddate: 2016-11-17 # The end date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
-cfp_date_start: 2016-07-15
-cfp_date_end: 2016-09-01
-cfp_date_announce: 2016-09-15
+startdate: 2016-11-16T00:00:00+02:00
+enddate: 2016-11-17T23:59:59+02:00
+
+cfp_date_start: 2016-07-15T00:00:00+02:00
+cfp_date_end: 2016-09-01T23:59:59+02:00
+cfp_date_announce: 2016-09-15T23:59:59+02:00
 coordinates: "52.524332,13.389849" # The corrodinates of your venue. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Kalkscheune Berlin" # The name of your location
 

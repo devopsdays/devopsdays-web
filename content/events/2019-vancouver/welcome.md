@@ -5,9 +5,14 @@ aliases = ["/events/2019-vancouver"]
 Description = "Welcome | devopsdays Vancouver 2019"
 +++
 
-<!-- <div style="text-align:center;">
+
+<strong>
+  Email us at: <a href="mailto:organizers-vancouver-2019@devopsdays.org?subject=devopsdays Vancouver - 2019">organizers-vancouver-2019@devopsdays.org</a>
+</strong>
+
+<div style="text-align:center;">
   {{< event_logo >}}
-</div> -->
+</div>
 
 
 <div class = "row">
@@ -28,14 +33,14 @@ Description = "Welcome | devopsdays Vancouver 2019"
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    <a href = "https://www.eventbrite.ca/e/devops-days-vancouver-2019-apr-20th-21st-tickets-41596196343?aff=es2">Register to attend the conference!</a>
+    <a href = "https://www.eventbrite.ca/e/devops-days-vancouver-2019-mar-29th-30th-tickets-53622560522">Register to attend the conference!</a>
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -46,32 +51,32 @@ Description = "Welcome | devopsdays Vancouver 2019"
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="program" text="View the program." >}}
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
-</div> -->
+</div>
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>CFP</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link url-key="cfp_link" text="Propose a talk!" >}}
   </div>
-</div>
+</div> -->
 
 <div class = "row">
   <div class = "col-md-2">

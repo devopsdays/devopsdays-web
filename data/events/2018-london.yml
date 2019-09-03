@@ -78,7 +78,7 @@ proposal_email: "proposals-london-2018@devopsdays.org" # Put your proposal email
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
     # Gold
-  - id: appdynamics
+  - id: appdynamics-before-20190121
     level: gold
   - id: chef
     level: gold
@@ -101,7 +101,7 @@ sponsors:
     level: silver
   - id: engineerbetter
     level: silver
-  - id: googlecloud
+  - id: googlecloud-before-20190402
     level: silver
   - id: gov-digital
     level: silver
@@ -120,12 +120,12 @@ sponsors:
     # Bronze
   - id: altostack
     level: bronze
-  - id: skybettingandgaming
+  - id: skybettingandgaming-before-20190830
     level: bronze
   - id: yelp
     level: bronze
     # Community
-  - id: leeds-devops
+  - id: leeds-devops-before-20190830
     level: community
   - id: manc-devops
     level: community
@@ -141,7 +141,7 @@ sponsors:
     level: community
   - id: northeast-devops
     level: community
-  - id: sheffield-devops
+  - id: sheffield-devops-before-20190519
     level: community
   - id: arresteddevops
     level: community

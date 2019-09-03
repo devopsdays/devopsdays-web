@@ -6,7 +6,7 @@ Description = "Sponsor devopsdays Charlotte 2019"
 
 <hr>
 
-## <strong>We greatly value sponsors for this open event. We can't do this without you! If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].</strong>
+<strong>We greatly value sponsors for this open event. We can't do this without you! If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].</strong>
 
 <hr>
 

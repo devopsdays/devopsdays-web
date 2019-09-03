@@ -16,7 +16,7 @@ Baltimore, MD  21202
 ### Parking
 
 Parking is available at [Pier V Garage](http://www.pierfivegarage.com/) which
-is next to the IMET.
+is next to the IMET. We will have validation for discounted rates
 
 <img src="/img/pier_v_parking.jpg" width="580" height="295" alt="Pier V Parking" />
 

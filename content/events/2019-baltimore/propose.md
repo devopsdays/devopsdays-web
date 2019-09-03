@@ -8,7 +8,7 @@ Description = "Propose a talk for DevOpsDays Baltimore 2019"
 <hr>
 
 <strong>
-  Proposals are now open! Please submit proposals here: https://devopsdaysbaltimore2019.busyconf.com/proposals. Please email {{< email_proposals >}} with any questions you may have.
+  Proposals are closed for 2019. Please consider sending a proposal in 2020!
 </strong>
 
 There are three ways to propose a topic at devopsdays:
@@ -61,7 +61,3 @@ that, as a speaker, you are distant from the process.
 going to accept a talk that appears to be a pitch for your product.
 
 <hr>
-
-<strong>
-  Proposals are now open! Please submit proposals here: https://devopsdaysbaltimore2019.busyconf.com/proposals. Please email {{< email_proposals >}} with any questions you may have.
-</strong>

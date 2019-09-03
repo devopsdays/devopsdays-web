@@ -1,31 +1,30 @@
 # Reference for devopsdays-theme
-
 # Table of contents
 <!-- MDTOC maxdepth:6 firsth1:0 numbering:0 flatten:0 bullets:0 updateOnSave:1 -->
 
-[Fields in YYYY-CITY.yml](#fields-in-yyyy-cityyml)   
-&emsp;[General Fields](#general-fields)   
-&emsp;[Date-related Fields](#date-related-fields)   
-&emsp;[Branding Fields](#branding-fields)   
-&emsp;[Location Fields](#location-fields)   
-&emsp;[Navigation Fields](#navigation-fields)   
-&emsp;[Organizer Fields](#organizer-fields)   
-&emsp;&emsp;[Team Members](#team-members)   
-&emsp;&emsp;[Organizer Emails](#organizer-emails)   
-&emsp;[Sponsor fields](#sponsor-fields)   
-&emsp;&emsp;[Sponsor Levels](#sponsor-levels)   
-&emsp;[Program Fields](#program-fields)   
-&emsp;&emsp;[Program Items](#program-items)   
-&emsp;&emsp;&emsp;[Program Element Colors](#program-element-colors)   
-&emsp;&emsp;[Ignite Fields](#ignite-fields)   
-[Pages and Frontmatter](#pages-and-frontmatter)   
-&emsp;[General Page Fields](#general-page-fields)   
-&emsp;[Talk Page Fields](#talk-page-fields)   
-&emsp;[Speaker Page Fields](#speaker-page-fields)  
-&emsp;[Program Page Fields](#program-page-fields)  
-&emsp;[Blog Post Fields](#blog-post-fields)   
-[Shortcodes](#shortcodes)   
-&emsp;[google_form](#google_form)   
+[Fields in YYYY-CITY.yml](#fields-in-yyyy-cityyml)
+&emsp;[General Fields](#general-fields)
+&emsp;[Date-related Fields](#date-related-fields)
+&emsp;[Branding Fields](#branding-fields)
+&emsp;[Location Fields](#location-fields)
+&emsp;[Navigation Fields](#navigation-fields)
+&emsp;[Organizer Fields](#organizer-fields)
+&emsp;&emsp;[Team Members](#team-members)
+&emsp;&emsp;[Organizer Emails](#organizer-emails)
+&emsp;[Sponsor fields](#sponsor-fields)
+&emsp;&emsp;[Sponsor Levels](#sponsor-levels)
+&emsp;[Program Fields](#program-fields)
+&emsp;&emsp;[Program Items](#program-items)
+&emsp;&emsp;&emsp;[Program Element Colors](#program-element-colors)
+&emsp;&emsp;[Ignite Fields](#ignite-fields)
+[Pages and Frontmatter](#pages-and-frontmatter)
+&emsp;[General Page Fields](#general-page-fields)
+&emsp;[Talk Page Fields](#talk-page-fields)
+&emsp;[Speaker Page Fields](#speaker-page-fields)
+&emsp;[Program Page Fields](#program-page-fields)
+&emsp;[Blog Post Fields](#blog-post-fields)
+[Shortcodes](#shortcodes)
+&emsp;[google_form](#google_form)
 
 <!-- /MDTOC -->
 
@@ -56,11 +55,12 @@ All dates are in unquoted YYYY-MM-DD, like this: `variable: 2016-01-05`, or like
 | `cfp_date_end`            | YYYY-MM-DD | No       | The date you will close your call for proposals. Can be a blank value. If you set the full datetime string with correct TZ, CFP will display as open until local close time.                                                  | 2016-01-05T23:59:00-06:00                             |
 | `cfp_date_announce`       | YYYY-MM-DD | No       | The date you will inform proposers of status. Can be a blank value.                                                                                                                                                           | 2016-01-05                                            |
 | `cfp_open`                | String     | No       | Either "true" or "false". Can be blank. This controls whether or not the "propose" button shows on your event page. *Deprecated field; if you have set `cfp_date_start` and `cfp_date_end` they will serve the same purpose.* | "true"                                                |
-| `cfp_link`                | String     | No       | If you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.                                                                                     | "https://myurlhere" |
+| `cfp_link`                | String     | No       | If you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.                                                                                     | "https://myurlhere" - reference it like "{{< event_link url-key="cfp_link" text="Propose a talk!" >}}" |
 | `registration_date_start` | YYYY-MM-DD | No       | The date you will start accepting registration. Can be a blank value.                                                                                                                                                         | 2016-01-05                                            |
 | `registration_date_end`   | YYYY-MM-DD | No       | The date you will close registration. Can be a blank value.                                                                                                                                                                   | 2016-01-05                                            |
 | `registration_closed`     | String     | No       | Set this to "true" if you need to manually close registration before your registration end date.                                                                                                                              | "true"                                                |
-| `registration_link`       | String     | No       | If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.                                                                                         | "https://myurlhere"  |                                                                                   |
+| `registration_link`       | String     | No       | If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.                                                                                         | "https://myurlhere" reference it like {{< event_link url-key="registration_link" text="Register to attend the conference!" >}} |                                                                                   |
+| `sponsor_link`       | String     | No       | If you have a custom sponsorship link, enter it here. This will control the "Become an X Sponsor!" links. It does NOT change the "Sponsor" button.                                                                                         | "https://myurlhere"  |                                                                                   |
 
 ### Branding Fields
 
@@ -260,10 +260,12 @@ Pages of the type `talk` (which can include workshops, ignites, or talks) have a
 | `speakers`    | Yes      | An array of the names of the speakers (relative to the filenames for the speaker in your `content/events/YYYY-CITY/speakers` directory). Even if there is only one speaker, it should be formatted as an array. | speakers = ["fluttershy", "spike"]                                                  |
 | `youtube`     | No       | The ID of the YouTube video (not the full URL).                                                                                                                                                                 | "8ClZXJsgpHY"                                                                       |
 | `vimeo`       | No       | The ID of the Vimeo video (not the full URL).                                                                                                                                                                   | "219025568"                                                                         |
+| `slideslive`  | No       | The ID of the presentation on SlidesLive                          | "12345678" |
 | `speakerdeck` | No       | The URL to the talk on Speakerdeck. Use the full URL.                                                                                                                                                           | "https://speakerdeck.com/mattstratton/shifting-left-securely"                       |
 | `slideshare`  | No       | The URL to the talk on Slideshare. Use the full URL                                                                                                                                                             | "http://www.slideshare.net/mattstratton/the-five-love-languages-of-devops-54549536" |
 | `googleslides` | No      | The ID of the talk on Google Slides (not the full URL).                                                                                                                                                         | "1QnakgUC8AaNydPZCmKGYYja8gs2WoHbHRSjioIVdD9g" |
 | `pdf`          | No      | The URL to the PDF. Use the full URL.                                                                                                                                                                           | "http://www.mattstratton.com/my-slides.pdf" |
+| `notist`      | No      | The ID of the deck on Notist, including the username. | "mattstratton/jLwszn" |
 | `slides`      | No       | If the slides are available on a service other than Speakerdeck or Slideshare, enter the URL here.                                                                                                              | "http://www.mattstratton.com/my-slides"                                             |
 
 ### Speaker Page Fields
@@ -305,4 +307,24 @@ Shortcodes can be used in any of your content (i.e., ".md" files. They provide e
 This shortcode allows for the embedding of a Google form on a page, in a manner that maintains the responsive, mobile-friendly design of the site. To use it, you only need the URL of your form (not the full embed code) and enter this on your page (substituting the proper URL):
 ```
 {{< google_form "https://docs.google.com/forms/d/e/1FAIpQLScvv-ty_wEBlYkJaEC1OU0qqqbIHjf9JVa-Ptdo5TcHqz5EDA/viewform?usp=sf_link" >}}
+```
+
+### tito_widget
+
+Using the tito shortcode enables the embedding of the tito sales widget described on their documentation (https://ti.to/docs/widget). To use it you just need to enter to event path of your tito event which will follow the URL of your event page. For example, if the URL is `https://ti.to/devopsdays-london/2019` your event path would be `devlopsdays-london/2019`. The shortcode also enables the other features described such as the ability to show specific tickets using the examples shown below
+
+```
+{{< tito_widget event="devopsdays-london/2019" >}}
+```
+
+To show only a specific ticket within the widget:
+
+```
+{{< tito_widget event="devopsdays-london/2019" releases="fiaurhghf2k">}}
+```
+
+To show discounted tickets on the page (they display as a striked through full-price along with the new price):
+
+```
+{{< tito_widget event="devopsdays-london/2019" discount-code="examplediscount" >}}
 ```

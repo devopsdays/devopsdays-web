@@ -27,8 +27,8 @@ Our sponsorship packages are constructed to offer our partners lead generation, 
 <tr><td>Price</td><td>6000 EUR</td><td>4000 EUR</td><td>2000 EUR</td></tr>
 <tr><td>Tickets included</td><td> 6 </td><td>4</td><td>2</td></tr>
 <tr><td>Additional ticket discount</td><td> 20% </td><td>15%</td><td>n/a</td></tr>
-<tr><td>Sponsor booth</td><td> Full table </td><td>Shared table</td><td>n/a</td></tr>
-<tr><td>1-minute sponsor pitch</td><td>Yes</td><td>Yes</td><td>n/a</td></tr>
+<tr><td>Sponsor booth (incl. table & power)</td><td> 3 meter-wide </td><td> 1 meter-wide </td><td>n/a</td></tr>
+<tr><td>One-minute sponsor pitch</td><td>Yes</td><td>Yes</td><td>n/a</td></tr>
 
 <tr><td>Logo on website</td><td>Yes</td><td>Yes</td><td>Yes</td></tr>
 <tr><td>Logo on email communication</td><td>Yes</td><td>Yes</td><td>Yes</td></tr>
@@ -42,10 +42,11 @@ Our sponsorship packages are constructed to offer our partners lead generation, 
 - Dinner Sponsor for 2700 EUR <br/>
 - Party Sponsor for 2000 EUR <br/>
 - Lunch Sponsor for 2000 EUR <br/>
-- Breakfast Sponsor for 1400 EUR <br/>
-- Cake Sponsor (logo on top) for 1400 EUR <br/>
-- Lanyard sponsor for 1400 EUR <br/>
-
+- Breakfast Sponsor for 1500 EUR <br/>
+- Cake Sponsor (logo on top) for 1500 EUR <br/>
+- Lanyard sponsor for 1500 EUR <br/>
+- Popcorn sponsor for 1.500 EUR (the venue is a cinema) <br/>
+- Get your logo on a matrix light frame at the venue for 1.500 EUR <br/>
 
 If you are interested in sponsorship add-ons, or have a creative idea about how you can support the event, please send us an email at {{< email_organizers >}}.
 

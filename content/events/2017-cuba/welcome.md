@@ -9,10 +9,10 @@ description = "The same local group of organizers that brought you DevOpsDays Cu
 
 ¡DevOpsDays regresa a Cuba! / <i>DevOpsDays is returning to Cuba!</i>
 
-Participe y comparta en 4 días de conferencias, charlas, workshops intercambiando experiencias con practicantes del DevOps y de los principios <a href="http://devopsdictionary.com/wiki/CAMS">C.A.M.S.</a>!!! El evento será auspiciado por la <a href="http://www.uclv.edu.cu/"> Universidad Central Martha Abreu de Las Villas</a> desde el lunes, 23 de octubre hasta viernes, 27 de octubre, 2017.
+Participe y comparta en 4 días de conferencias, charlas, workshops intercambiando experiencias con practicantes del DevOps y de los principios <a href="http://devopsdictionary.com/wiki/CAMS">C.A.M.S.</a>!!! El evento será auspiciado por la <a href="http://www.uclv.edu.cu/"> Universidad Central Marta Abreu de Las Villas</a> desde el lunes, 23 de octubre hasta viernes, 27 de octubre, 2017.
 
 
-*Come join us for a 4 day conference of presentations, talks, workshops to share experiences with other DevOps practitioners and keep the <a href="http://devopsdictionary.com/wiki/CAMS">C.A.M.S.</a> principles!!! The event will be hosted at the <a href="http://www.uclv.edu.cu/">Central University Martha Abreu of Las Villas</a> on {{< event_start >}} till {{< event_end  >}}.*
+*Come join us for a 4 day conference of presentations, talks, workshops to share experiences with other DevOps practitioners and keep the <a href="http://devopsdictionary.com/wiki/CAMS">C.A.M.S.</a> principles!!! The event will be hosted at the <a href="http://www.uclv.edu.cu/">Central University Marta Abreu of Las Villas</a> on {{< event_start >}} till {{< event_end  >}}.*
 
 **NOTA / NOTE:** Descuento de vuelo si viaja con la aereolinea COPA. / Fly discount if you use COPA Airlines*<a href="/events/2017-cuba/discount"> Más... / More...</a>*
 

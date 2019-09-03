@@ -32,43 +32,36 @@ Description = "devopsdays Minneapolis 2019"
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
+
+Ticket sales have ended, but you can watch our <a href="https://youtu.be/TxSX_uXDSR8">livestream</a>! 
+
   </div>
 </div>
 
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Propose</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
-  </div>
-</div> -->
-
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
-    View the {{< event_link page="program" text="program." >}}
+    View the {{< event_link page="program" text="program" >}} or check out <a href="https://docs.google.com/spreadsheets/d/1kbQUJeV_La28xA2tLSnEWtVKFfWqD7MwXm9hiI08K_8/edit#gid=2100858314">Open Space</a>.
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="sponsor" text="Sponsor the conference!" >}}
+Sponsorships have closed; please join us in 2020!
   </div>
 </div>
 

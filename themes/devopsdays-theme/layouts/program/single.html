@@ -34,6 +34,12 @@
     {{- with .Params.pdf -}}
       {{- $.Scratch.Set (printf "%s-slides_link" ($.Scratch.Get "base_file_name")) . }}
     {{- end -}}
+    {{- with .Params.notist -}}
+      {{- $.Scratch.Set (printf "%s-slides_link" ($.Scratch.Get "base_file_name")) (printf "https://noti.st/%s" .) }}
+    {{- end -}}
+    {{- with .Params.slideslive -}}
+      {{- $.Scratch.Set (printf "%s-slides_link" ($.Scratch.Get "base_file_name")) . }}
+    {{- end -}}
     {{- with .Params.slides -}}
       {{- $.Scratch.Set (printf "%s-slides_link" ($.Scratch.Get "base_file_name")) . }}
     {{- end -}}
@@ -117,7 +123,7 @@
                               {{- if .custom_url -}}
                                 <a href="{{ .custom_url | safeURL }}">{{ $.Scratch.Get (printf "%s-speaker" .title) }} - {{ $.Scratch.Get .title }}</a><br/>
                               {{- else -}}
-                                <a href="{{ (printf "events/%s/program/%s" $e.name .title) | absURL }}">{{ $.Scratch.Get (printf "%s-speaker" .title) }} - {{ $.Scratch.Get .title }}</a><br/>
+                                <a href="{{ (printf "/events/%s/program/%s" $e.name .title) }}">{{ $.Scratch.Get (printf "%s-speaker" .title) }} - {{ $.Scratch.Get .title }}</a><br/>
                               {{- end -}}
                               {{- if eq  ($.Scratch.Get "icons")  "TRUE" -}}
                                 {{- with ($.Scratch.Get (printf "%s-video_link" .title)) -}}&nbsp;<a href="{{ . }}"><i class="fa fa-video-camera" aria-hidden="true"></i></a>&nbsp;{{- end -}}
@@ -161,7 +167,7 @@
                                 {{- if .custom_url -}}
                                   <a href="{{ .custom_url | safeURL }}">{{ .title }}</a><br/>
                                 {{- else -}}
-                                  <a href="{{ "open-space-format/" | absURL }}">{{ .title }}</a><br/>
+                                  <a href="{{ "/open-space-format/" }}">{{ .title }}</a><br/>
                                 {{- end -}}
                               {{- else -}}
                                 {{ .title }}

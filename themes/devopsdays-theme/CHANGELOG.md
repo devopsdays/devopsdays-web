@@ -1,5 +1,19 @@
 # Change Log
 
+## [1.27.0](https://github.com/devopsdays/devopsdays-theme/tree/1.27.0) (2019-03-05)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.26.0...1.27.0)
+
+**Closed issues:**
+
+- Look into replacing TravisCI [\#686](https://github.com/devopsdays/devopsdays-theme/issues/686)
+
+## [1.26.0](https://github.com/devopsdays/devopsdays-theme/tree/1.26.0) (2018-12-21)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.25.0...1.26.0)
+
+**Closed issues:**
+
+- \[Enhancement\] Allow for custom sponsor sign up links [\#680](https://github.com/devopsdays/devopsdays-theme/issues/680)
+
 ## [1.25.0](https://github.com/devopsdays/devopsdays-theme/tree/1.25.0) (2018-11-28)
 [Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.24.1...1.25.0)
 

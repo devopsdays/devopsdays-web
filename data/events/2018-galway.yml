@@ -6,19 +6,19 @@ description: "Devopsdays is coming to Galway!" # Edit this to suit your preferen
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
-startdate: 2018-11-19
-enddate: 2018-11-20
+startdate: 2018-11-19T00:00:00+00:00
+enddate: 2018-11-20T23:59:59+00:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2018-08-01 # start accepting talk proposals.
-cfp_date_end: 2018-09-09 # close your call for proposals.
-cfp_date_announce: 2018-10-05  # inform proposers of status
+cfp_date_start: 2018-08-01T00:00:00+01:00 # start accepting talk proposals.
+cfp_date_end: 2018-09-09T23:59:59+01:00 # close your call for proposals.
+cfp_date_announce: 2018-10-05T23:59:59+01:00  # inform proposers of status
 
 cfp_open: "true"
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: 2018-09-06 # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: 2018-11-16 # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2018-09-06T00:00:00+01:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2018-11-16T23:59:59+01:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -163,7 +163,7 @@ sponsors:
     level: silver
   - id: smartbear
     level: silver
-  - id: googlecloud
+  - id: googlecloud-before-20190402
     level: silver
   - id: genesys
     level: silver
