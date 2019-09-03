@@ -3,7 +3,7 @@ Title = "Propose"
 Type = "event"
 Description = "Propose a talk for devopsdays Charlotte 2020"
 +++
-  <!-- {{< cfp_dates >}} -->
+  {{< cfp_dates >}}
  
 <hr>
 
