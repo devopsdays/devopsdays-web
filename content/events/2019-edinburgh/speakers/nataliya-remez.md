@@ -2,7 +2,7 @@
 Title = "Nataliya Remez"
 Twitter = "nat_remez"
 type = "speaker"
-image = ""
+image = "nataliya-remez.jpg"
 linktitle = "nataliya-remez"
 
 +++
