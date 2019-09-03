@@ -26,7 +26,7 @@ gulp.task('responsive-images-logos', function() {
             progressive: true,
             silent: true,
             withMetadata: false,
-            ignoreAspectRatio: true,
+            crop: true,
         }))
         .pipe(gulp.dest('dist'));
 });
@@ -46,7 +46,7 @@ gulp.task('responsive-organizer-images', function() {
       progressive: true,
       silent: true,
       withMetadata: false,
-      ignoreAspectRatio: true,
+      crop: true,
     }))
     .pipe(gulp.dest('dist'));
 });
