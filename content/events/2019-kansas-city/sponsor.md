@@ -175,7 +175,7 @@ All special sponsors will have their logo displayed on the DevOpsDays Kansas Cit
       <td>$4,000</td>
       <td>Pay for drinks, food, and entertainment - get an exclusive space for the night.</td>
       <td>4</td>
-      <td><a href="mailto:organizers-kansas-city-2019@devopsdays.org?subject=DevOpsDays%20Kansas%20City%202019%20Sponsorship"><b>Contact us for availability!</b></a></td>
+      <td>SOLD OUT</td>
     </tr>
   </tbody>
 </table>

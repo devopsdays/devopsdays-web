@@ -196,6 +196,8 @@ sponsors:
     url: https://stackoverflow.com/jobs/companies/c2fo#jobs-items
   - id: stackify
     level: premium
+  - id: new-context
+    level: social
   
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
