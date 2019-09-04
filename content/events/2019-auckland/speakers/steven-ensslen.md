@@ -1,7 +1,7 @@
 +++
 Title = "Steven Ensslen"
 Twitter = ""
-image = "default-male.jpg"
+image = "steven-ensslen.jpg"
 type = "speaker"
 linktitle = "steven-ensslen"
 

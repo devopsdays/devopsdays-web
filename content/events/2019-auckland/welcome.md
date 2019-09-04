@@ -51,6 +51,14 @@ Description = "DevOpsDays Auckland 2019"
       {{< event_link page="registration" text="Register to attend the conference!" >}}
     </div>
   </div>
+    <div class="row">
+    <div class="col-md-2">
+      <strong>Program</strong>
+    </div>
+    <div class="col-md-6">
+      {{< event_link page="program" text="Check out the program!" >}}
+    </div>
+  </div>
   <div class="row">
     <div class="col-md-2">
       <strong>Propose</strong>
