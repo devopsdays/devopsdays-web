@@ -2,10 +2,9 @@
 Title = "Tom Riley"
 Twitter = "therealriley"
 type = "speaker"
-image = ""
+image = "tom-riley.jpg"
 linktitle = "tom-riley"
 
 +++
 
-I am a Platform Engineer working in Manchester who is passionate about all things Cloud, in particular the monitoring and observability of infrastructure and services. I have spent the last two years working with Kubernetes and containerisation and I absolutely love learning about new things, which happens pretty often when working with Kubernetes!
-I am also a co-organiser of Cloud Native + Kubernetes Manchester and have spoken at several local tech meet-ups in Manchester. I really enjoy talking about my learnings working with Kubernetes, monitoring and observability. I am looking to speak at conferences to share with the wider community and also develop my skills in this space!
+Tom Riley is a Senior Architect at Nuance Communications. Tom comes from an operational background and is passionate about all things infrastructure in particular the monitoring and observability domain. Having spent the last few years working with Kubernetes he is passionate about sharing his learnings. In his spare time Tom is known to be a bit of a petrol head and spends far too much time cleaning and polishing his car!

@@ -1,8 +1,8 @@
 +++
 Title = "Fernando Barbosa"
 Twitter = "fbcbarbosa"
-linkedin = ""
-image = ""
+linkedin = "http://linkedin.com/in/fbcbarbosa"
+image = "fernando-barbosa.jpg"
 type = "speaker"
 linktitle = "fernando-barbosa"
 website = "https://github.com/fbcbarbosa"

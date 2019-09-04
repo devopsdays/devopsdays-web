@@ -70,6 +70,7 @@ gulp.task('responsive-speaker-images', function() {
             progressive: true,
             silent: true,
             withMetadata: false,
+            ignoreAspectRatio: true,
         }))
         .pipe(gulp.dest('dist'));
 });

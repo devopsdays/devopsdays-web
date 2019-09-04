@@ -2,7 +2,7 @@
 Title = "Carol Valencia"
 Twitter = "smkrol"
 linkedin = "https://www.linkedin.com/in/carolgv/"
-image = ""
+image = "carol-valencia.png"
 type = "speaker"
 linktitle = "carol-valencia"
 website = ""
