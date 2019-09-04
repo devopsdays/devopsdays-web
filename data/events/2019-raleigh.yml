@@ -138,6 +138,8 @@ sponsors:
     level: gold
   - id: stackrox
     level: gold
+  - id: nctechorg
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -439,6 +441,8 @@ ignites:
   - title: "waldo-grunenwald"
     date: 2019-10-01
   - title: "jessica-repka"
+    date: 2019-10-02
+  - title: "ravi-lachhman"
     date: 2019-10-02
   - title: "wendy-rashke"
     date: 2019-10-02

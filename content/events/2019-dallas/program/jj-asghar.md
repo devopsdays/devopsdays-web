@@ -5,10 +5,10 @@ Talk_end_time = ""
 Title = "Everything you need to know about Kubernetes in 5 mins"
 Type = "talk"
 Speakers = ["jj-asghar"]
-Youtube = ""
+Youtube = "tcq1-kNQd2Q"
 Vimeo = ""
 Speakerdeck = ""
-Slideshare = ""
+Slideshare = "https://www.slideshare.net/DevOpsDaysDFW/jj-asghar-everything-you-need-to-know-about-kubernetes-in-5-mins"
 Slides = ""
 Website = "http://jjasghar.github.io/"
 +++

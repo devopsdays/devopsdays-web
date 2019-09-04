@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Cloud Incident Response: DevSecOps Style"
+Title = "Cloud Incident Response: DevSecOps Style (Room 1K)"
 Type = "talk"
 Speakers = ["rich-mogull"]
 +++

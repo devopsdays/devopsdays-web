@@ -41,7 +41,7 @@ Description = "devopsdays Montreal 2019"
     <strong>Propose - Proposer</strong>
   </div>
   <div class = "col-md-8">
-    <A href=https://dodmtl.ca/dodmtl19/ target="_blank">Submit a talk / Soumettre une présentation</A>
+    <A href=https://www.papercall.io/cfps/2551/submissions/new target="_blank">Submit a talk / Soumettre une présentation</A>
   </div>
 </div>
 

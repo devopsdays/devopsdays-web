@@ -5,10 +5,10 @@ Talk_end_time = ""
 Title = "DevOps - Do the Math"
 Type = "talk"
 Speakers = ["dana-finster"]
-Youtube = ""
+Youtube = "SuzabBFLIR4"
 Vimeo = ""
 Speakerdeck = ""
-Slideshare = ""
+Slideshare = "https://www.slideshare.net/DevOpsDaysDFW/dana-finster-devops-do-the-math"
 Slides = ""
 Website = "https://www.linkedin.com/in/dana-finster-2b831097/"
 +++

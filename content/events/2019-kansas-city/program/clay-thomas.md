@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Automating the boring stuff with Kubernetes"
+Title = "Automating the boring stuff with Kubernetes (Room 1M)"
 Type = "talk"
 Speakers = ["clay-thomas", "austin-heiman", "cullen-mcdermott"]
 +++

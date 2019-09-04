@@ -120,12 +120,12 @@ sponsors:
     # Bronze
   - id: altostack
     level: bronze
-  - id: skybettingandgaming
+  - id: skybettingandgaming-before-20190830
     level: bronze
   - id: yelp
     level: bronze
     # Community
-  - id: leeds-devops
+  - id: leeds-devops-before-20190830
     level: community
   - id: manc-devops
     level: community

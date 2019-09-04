@@ -5,10 +5,10 @@ Talk_end_time = ""
 Title = "The Unreasonable Effectiveness of Combining and Correlating Logs, Metrics, and Traces"
 Type = "talk"
 Speakers = ["steve-shangguan"]
-Youtube = ""
+Youtube = "2LLDPNGMsro"
 Vimeo = ""
 Speakerdeck = ""
-Slideshare = ""
+Slideshare = "https://www.slideshare.net/DevOpsDaysDFW/steve-shangguan-the-unreasonable-effectiveness-of-combining-and-correlating-logs-metrics-and-traces"
 Slides = ""
 Website = "https://www.linkedin.com/in/shangz/"
 +++

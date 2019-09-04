@@ -89,4 +89,4 @@ You can help us make this conference accessible to under-represented groups (inc
 You can offer to cover for several tickets (anonymously or not). If you choose to have your name known, we will display your name and logo on our website, as well as let the beneficiary(ies) know.
 <hr>
 The information provided above is for reference only.
-For furhter questions, please contact us at {{< email_organizers >}}
+For further questions, please contact us at {{< email_organizers >}}

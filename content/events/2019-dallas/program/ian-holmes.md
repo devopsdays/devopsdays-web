@@ -5,10 +5,10 @@ Talk_end_time = ""
 Title = "Panoptes -- My Story as a Remote Junior Engineer"
 Type = "talk"
 Speakers = ["ian-holmes"]
-Youtube = ""
+Youtube = "pfV5EqslCTU"
 Vimeo = ""
 Speakerdeck = ""
-Slideshare = ""
+Slideshare = "https://www.slideshare.net/DevOpsDaysDFW/ian-holmes-panoptes-my-story-as-a-remote-junior-engineer"
 Slides = ""
 Website = "https://www.linkedin.com/in/ian-holmes-6375a540"
 +++

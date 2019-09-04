@@ -5,10 +5,10 @@ Talk_end_time = ""
 Title = "The Continuous Improvement Toolbox: Post-Mortems"
 Type = "talk"
 Speakers = ["aaron-mell"]
-Youtube = ""
+Youtube = "uWfFQOSxkEQ"
 Vimeo = ""
 Speakerdeck = ""
-Slideshare = ""
+Slideshare = "https://www.slideshare.net/DevOpsDaysDFW/aaron-mell-the-continuous-improvement-toolbox-postmortems"
 Slides = ""
 Website = "https://lumindigital.com/"
 +++

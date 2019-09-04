@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Ghost in the Machine: The Consequences of Bias in AI"
 Type = "talk"
 Speakers = ["nivia-henry"]
+youtube = "XvLFOYnrYLI"
 +++
 
 What if the code you’ve written alienated some of its users? Or what if it caused a group of people real-life harm? If you're a responsible engineer, these should be among your biggest concerns.

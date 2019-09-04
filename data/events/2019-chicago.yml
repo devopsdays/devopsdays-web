@@ -24,7 +24,7 @@ cfp_link: "" #if you have a custom link for submitting proposals, add it here. T
 registration_date_start: 2019-06-14T00:00:00-06:00 # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: 2019-08-26T00:00:00-06:00 # close registration. Leave blank if registration is not open yet.
 
-registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_closed: "true" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 masthead_background: "skyline-night.jpg"
@@ -39,7 +39,7 @@ location_address: "725 West Roosevelt Road, Chicago, Illinois 60608" #Optional -
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
   - name: location
-  - name: registration
+  #- name: registration
   - name: program
   - name: speakers
   - name: sponsor
@@ -188,6 +188,7 @@ sponsors:
     level: silver
   - id: objective
     level: wifi
+    url: http://bit.ly/objectiveTDD
   - id: opploans
     level: silver
   - id: logdna
@@ -387,7 +388,7 @@ program:
     type: custom
     date: 2019-08-27
     start_time: "17:00"
-    end_time: "20:30"
+    end_time: "20:00"
     comments: "UIC Forum. Badge Required."
   - title: "Registration, Breakfast, Sponsors"
     type: custom
