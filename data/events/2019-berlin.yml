@@ -240,6 +240,11 @@ program:
     date: 2019-11-27
     start_time: "17:00"
     end_time: "17:45"
+  - title: "steffen-siering"
+    type: talk
+    date: 2019-11-27
+    start_time: "17:00"
+    end_time: "17:45"
   - title: "Closing Day 1"
     type: custom
     date: 2019-11-27
