@@ -140,6 +140,8 @@ sponsors:
     level: gold
   - id: nctechorg
     level: community
+  - id: split-software
+    level: platinum
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
