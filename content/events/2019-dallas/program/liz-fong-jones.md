@@ -2,13 +2,13 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Cultivating Production Excellence"
+Title = "Detangling complex systems with compassion & production excellence"
 Type = "talk"
 Speakers = ["liz-fong-jones"]
-Youtube = ""
+Youtube = "A6Sv12UmXck"
 Vimeo = ""
 Speakerdeck = ""
-Slideshare = ""
+Slideshare = "https://www.slideshare.net/DevOpsDaysDFW/detangling-complex-systems-with-compassion-production-excellence"
 Slides = ""
 Website = "https://www.linkedin.com/in/efong/"
 +++

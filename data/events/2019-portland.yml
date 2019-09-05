@@ -134,9 +134,15 @@ sponsors:
     level: silver
   - id: netapp
     level: silver
-  - id: hashicorp
+  - id: hashicorp-and-redapt
     level: silver
   - id: ignw
+    level: silver
+  - id: redislabs
+    level: silver
+  - id: invoca
+    level: silver
+  - id: circleci
     level: silver
 # Bronze
   - id: compuware
@@ -152,6 +158,8 @@ sponsors:
     level: on-call-table
   - id: ignw
     level: donut
+  - id: puppet
+    level: evening
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -195,7 +203,17 @@ program:
   - title: "jj-asghar"
     type: talk
     date: 2019-09-10
-    start_time: "12:00"
+    start_time: "13:00"
+    end_time: "TBD"
+  - title: "blameless-postmortems"
+    type: talk
+    date: 2019-09-10
+    start_time: "13:00"
+    end_time: "TBD"
+  - title: "stacy-watts"
+    type: talk
+    date: 2019-09-10
+    start_time: "13:00"
     end_time: "TBD"
   - title: "Registration, Breakfast, Sponsors"
     type: custom

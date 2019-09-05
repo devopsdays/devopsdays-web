@@ -5,10 +5,10 @@ Talk_end_time = ""
 Title = "Unquantified Serendipity: Diversity in Development"
 Type = "talk"
 Speakers = ["quintessence-anx"]
-Youtube = ""
+Youtube = "xhyjjZ8QsCs"
 Vimeo = ""
 Speakerdeck = ""
-Slideshare = ""
+Slideshare = "https://www.slideshare.net/DevOpsDaysDFW/unquantified-serendipity-diversity-in-development"
 Slides = ""
 Website = "https://www.linkedin.com/in/quintessenceanx/"
 +++

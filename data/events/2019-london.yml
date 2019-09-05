@@ -55,7 +55,6 @@ team_members: # Name is the only required field for team members.
     twitter: "rjw1"
     website: "https://randomness.org.uk"
   - name: "Chris Mills"
-    twitter: "millscj01"
   - name: "Dan Webb"
     twitter: "dan_webb"
   - name: "Dawn Foster"
@@ -95,9 +94,11 @@ sponsors:
     level: gold
   - id: chef
     level: gold
-  - id: google-cloud
+  - id: googlecloud
     level: gold
   - id: influxdata
+    level: gold
+  - id: jfrog
     level: gold
   - id: pivotal
     level: gold
@@ -112,13 +113,19 @@ sponsors:
     level: silver
   - id: globalknowledge
     level: silver
+  - id: microsoft
+    level: silver
   - id: pagerduty
     level: silver
   - id: plumbr
     level: silver
   - id: octopus-deploy
     level: silver
+  - id: oracle-linux
+    level: silver
   - id: tecknuovo
+    level: silver
+  - id: xmatters
     level: silver
     # Bronze
   - id: buildkite
@@ -129,7 +136,7 @@ sponsors:
     level: bronze
   - id: pikselgroup
     level: bronze
-  - id: skybet
+  - id: skybettingandgaming
     level: bronze
   - id: veracode
     level: bronze
@@ -175,9 +182,9 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: platinum
-    label: Platinum
-    max: 3
+  # - id: platinum
+    # label: Platinum
+    # max: 3
   - id: evening
     label: Evening Event
     max: 1
@@ -192,7 +199,7 @@ sponsor_levels:
     max: 5
   - id: charity
     label: Charity
-    max: 5
+    max: 2
   - id: community
     label: Community
 
@@ -299,7 +306,7 @@ ignites:
     date: 2019-09-26T00:00:00+01:00
   - title: "emanuil-tolev"
     date: 2019-09-26T00:00:00+01:00
-  - title: "dominique-top-margo-gantner"
+  - title: "dominique-top-kat-paines"
     date: 2019-09-26T00:00:00+01:00
   - title: "jon-vines"
     date: 2019-09-26T00:00:00+01:00

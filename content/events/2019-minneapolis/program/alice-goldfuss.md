@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "The Container Operator’s Manual (Closing Keynote)"
 Type = "talk"
 Speakers = ["alice-goldfuss"]
+youtube = "q1BnNRId0R4"
 +++
 
 Containers have been the future for five years now, featured on the stage of every major distributed systems conference in the world. But beyond the hype and the swag is a real technical solution, with real technical challenges, used for real problems at scale. And for the companies and engineers looking to adopt this solution, there’s little content on what awaits them.

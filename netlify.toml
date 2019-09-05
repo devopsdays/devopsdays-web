@@ -2,7 +2,7 @@
 # repository branch will inherit these settings.
 [context.production]
  command = "bin/netlify-production.sh"
- publish = "dist/"
+ publish = "public/"
 
  [context.deploy-preview]
   command = "bin/netlify.sh"

@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "All The World’s A Staging Server"
 Type = "talk"
 Speakers = ["heidi-waterhouse"]
+googleslides = "13glzciQLT_9sU0n0uhpYsEdnGwm34MscSWnyze7iBNA"
 +++
 
 I have sad news - staging is a lie and will never be identical to production, because production is unknowable. Trying to replicate it is often prohibitively expensive.

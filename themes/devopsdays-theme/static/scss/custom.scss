@@ -217,6 +217,15 @@ a.sponsor-cta {
   color: #0082AB;
 }
 
+img.sponsor {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 200x;
+  height: 200x;
+   max-width: 100%;
+   height: auto;
+}
+
 /* Homepage */
 
 .homepage-grid-col {
@@ -416,6 +425,14 @@ h3.speaker-page {
   font-weight: 300;
   text-transform: capitalize;
 }
+img.speaker-page {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 600px;
+  height: 600px;
+  max-width: 100%;
+  object-fit: cover;
+}
 
 .speaker-bio-talks {
   padding-top: 15px;
@@ -440,6 +457,10 @@ h3.speakers-page {
 img.speakers-page {
   margin-top: 20px;
   margin-bottom: 20px;
+  width: 300px;
+  height: 300px;
+  max-width: 100%;
+  object-fit: cover;
 }
 
 // talk page
@@ -519,6 +540,16 @@ a:hover.welcome-page-masthead-link {
 
 .organizer-card {
   padding-bottom: 20px;
+}
+
+img.organizer-image {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 300px;
+  height: 300px;
+  max-width: 100%;
+  object-fit: cover;
+  // height: auto;
 }
 
 .event-page-nav-home{

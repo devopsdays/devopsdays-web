@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "What I Learned From A Dress, an On-Call Nightmare"
 Type = "talk"
 Speakers = ["jay-gordon"]
+pdf = "https://assets.devopsdays.org/events/2019/chicago/JayGordon.pdf"
 +++
 
 In 2015 the viral internet moment of "The Dress" occurred that completely changed what I knew about deploying production web servers.  As the on-call resource over the evening I saw web traffic that peaked at 670,000 active visitors on BuzzFeed.com. In this talk, I share lessons on the moment.

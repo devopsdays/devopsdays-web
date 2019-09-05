@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Principles of Collaborative Automation"
 Type = "talk"
 Speakers = ["jessica-kerr"]
+youtube = "JY4HPhXuWFg"
 +++
 
 How can we make our tools work with our team? Like a good team member, great tools keep us informed, implement our decisions, and help us understand errors. Drawing from aviation, medicine, and software, here are strategies for choosing and building tools that enhance us and do not frustrate us.

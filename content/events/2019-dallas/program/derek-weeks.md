@@ -5,10 +5,10 @@ Talk_end_time = ""
 Title = "Exemplars, Laggards, and The Cautious: a data-driven look at high-velocity software development practices"
 Type = "talk"
 Speakers = ["derek-weeks"]
-Youtube = ""
+Youtube = "18nr6_MPX8Y"
 Vimeo = ""
 Speakerdeck = ""
-Slideshare = ""
+Slideshare = "https://www.slideshare.net/DevOpsDaysDFW/exemplars-laggards-and-the-cautious-a-datadriven-look-at-highvelocity-software-development-practices"
 Slides = ""
 Website = "https://www.linkedin.com/in/derekeweeks/"
 +++

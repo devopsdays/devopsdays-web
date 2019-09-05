@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "CI/CD for Machine Learning"
+Title = "CI/CD for Machine Learning (Room 1L)"
 Type = "talk"
 Speakers = ["sasha-rosenbaum"]
 +++

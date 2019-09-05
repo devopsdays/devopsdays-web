@@ -26,10 +26,16 @@ location_address: "488 George St, Sydney NSW 2000" #Optional - use the street ad
 nav_elements: # List of pages you want to show up in the navigation of your page.
  - name: registration
  - name: location
- - name: propose
+# - name: propose
+ - name: program
+   url: https://www.devopsdayssydney.org/agenda/
+ - name: speakers
+   url: https://www.devopsdayssydney.org/speakers/
  - name: sponsor
  - name: contact
  - name: conduct
+ - name: devopsdayssydney.org
+   url: https://www.devopsdayssydney.org/
 
 team_members:
   - name: "Artem Yakimenko"

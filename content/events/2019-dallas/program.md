@@ -2,6 +2,7 @@
 Title = "Program"
 Type = "program"
 Description = "Program for devopsdays Dallas 2019" 
+icons = "true"
 +++
 <!--- <img alt="Work In Progress" src="/events/2019-dallas/wip.gif" style="max-width: 15%;">
 <div class = "row">

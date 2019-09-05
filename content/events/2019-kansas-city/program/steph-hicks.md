@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Go Go Deepracer!"
+Title = "Go Go Deepracer! (Room 1N)"
 Type = "talk"
 Speakers = ["steph-hicks"]
 +++

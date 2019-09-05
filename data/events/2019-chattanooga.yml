@@ -34,7 +34,7 @@ registration_link: "https://ti.to/chattanooga-devopsdays/chattanooga-devopsdays-
 coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Chattanooga" # Defaults to city, but you can make it the venue name.
 #
-location_address: "1150 Carter St, Chattanooga, TN 37402" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "1201 Broad St, Chattanooga, TN 37402" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
@@ -85,6 +85,8 @@ sponsors:
   - id: tva
     level: gold
   - id: bcbst
+    level: gold
+  - id: unum
     level: gold
   - id: saucelabs
     level: silver
