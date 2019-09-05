@@ -198,6 +198,8 @@ sponsors:
     level: premium
   - id: new-context
     level: social
+  - id: newrelic
+    level: premium
   
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -301,7 +303,7 @@ program:
     date: 2019-10-24
     start_time: "14:30"
     end_time: "16:30"
-  - title: "rhia-dixon"
+  - title: "paul-meharg"
     type: talk
     date: 2019-10-24
     start_time: "14:30"
