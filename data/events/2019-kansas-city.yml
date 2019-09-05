@@ -183,7 +183,7 @@ sponsors:
   - id: circleci
     level: premium
   - id: tgs
-    level: special
+    level: breakfast
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
@@ -194,6 +194,11 @@ sponsors:
   - id: c2fo
     level: premium
     url: https://stackoverflow.com/jobs/companies/c2fo#jobs-items
+  - id: stackify
+    level: premium
+  - id: new-context
+    level: social
+  
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -205,9 +210,16 @@ sponsor_levels:
   - id: premium
     label: Premium
 #    max: 10
-  - id: special
-    label: Special
-    max: 0 # This is the same as omitting the max limit.
+  - id: lanyard
+    label: Lanyard
+  - id: breakfast
+    label: Breakfast
+  - id: lunch
+    label: Lunch
+  - id: social
+    label: Evening Social
+  - id: coffee
+    label: Coffee
   - id: supporting
     label: Supporting
   - id: community

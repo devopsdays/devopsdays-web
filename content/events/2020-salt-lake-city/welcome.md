@@ -9,8 +9,11 @@ Description = "devopsdays Salt Lake City 2020"
   {{< event_logo >}}
 </div> -->
 
-<h2>DevOpsDays is returning to Salt Lake City in June! We're just getting started with planning, so please check back for updates!</h2>
-
+<h2>DevOpsDays is returning to Salt Lake City in June!</h2>
+<h3>More information to come as we get everything planned out - stay tuned!</h3>
+<br><br>
+<h4>Our CFP is now open! Check it out here: https://www.papercall.io/slcdod2020</h4>
+<br><hr><br>
 <div class="row">
     <div class="col-md-6">
         <div class="row">
@@ -25,10 +28,10 @@ Description = "devopsdays Salt Lake City 2020"
             <div class="col-md-2"><strong>Location</strong></div>
             <div class="col-md-8">{{< event_location >}}</div>
         </div>
-        <!-- <div class="row">
+        <div class="row">
           <div class="col-md-2"><strong>Propose</strong></div>
           <div class="col-md-8">{{< event_link page="propose" text="Propose a talk!" >}}</div>
-        </div>-->
+        </div>
         <!--<div class="row">
           <div class="col-md-2"><strong>Register</strong></div>
           <div class="col-md-8">{{< event_link page="registration" text="Register to attend the conference!" >}}</div>

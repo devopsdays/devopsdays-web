@@ -151,13 +151,13 @@ program:
     date: 2019-09-05
     start_time: "11:00"
     end_time: "11:30"
-    background_color: "#90ee90"
+    background_color: "#ffcccb"
   - title: "rory-preddy"
     type: talk
     date: 2019-09-05
     start_time: "11:30"
     end_time: "12:15"
-  - title: "devi-moodley"
+  - title: "gareth-mccumskey"
     type: talk
     date: 2019-09-05
     start_time: "12:15"
@@ -167,8 +167,8 @@ program:
     date: 2019-09-05
     start_time: "13:00"
     end_time: "14:30"
-  - title: "gareth-mccumskey"
-    type: talk
+  - title: "Ignites"
+    type: ignite
     date: 2019-09-05
     start_time: "14:30"
     end_time: "15:15"
@@ -190,7 +190,7 @@ program:
   - title: "azure-workshops"
     type: workshop
     date: 2019-09-05
-    background_color: "#90ee90"
+    background_color: "#ffcccb"
     start_time: "16:00"
     end_time: "16:45"
     comments: "Azure Labs"
@@ -202,7 +202,7 @@ program:
   - title: "azure-workshops"
     type: workshop
     date: 2019-09-05
-    background_color: "#90ee90"
+    background_color: "#ffcccb"
     start_time: "16:45"
     end_time: "17:30"
     comments: "Azure Labs"
@@ -232,7 +232,7 @@ program:
     date: 2019-09-06
     start_time: "09:55"
     end_time: "10:00"
-  - title: "kingori-maina"
+  - title: "devi-moodley"
     type: talk
     date: 2019-09-06
     start_time: "10:00"
@@ -247,8 +247,8 @@ program:
     date: 2019-09-06
     start_time: "11:15"
     end_time: "12:00"
-  - title: "Speaker to be confirmed"
-    type: custom
+  - title: "kingori-maina"
+    type: talk
     date: 2019-09-06
     start_time: "12:00"
     end_time: "12:45"
@@ -290,7 +290,7 @@ program:
   - title: "azure-workshops"
     type: workshop
     date: 2019-09-06
-    background_color: "#90ee90"
+    background_color: "#ffcccb"
     start_time: "16:00"
     end_time: "16:45"
     comments: "Azure Demos"
@@ -302,7 +302,7 @@ program:
   - title: "azure-workshops"
     type: workshop
     date: 2019-09-06
-    background_color: "#90ee90"
+    background_color: "#ffcccb"
     start_time: "16:45"
     end_time: "17:30"
     comments: "Azure Demos"
@@ -311,3 +311,9 @@ program:
     date: 2019-09-06
     start_time: "17:30"
     end_time: "19:00"
+
+ignites:
+  - title: "keegan-carruthers-smith"
+    date: 2019-09-05
+  - title: "wade-catlyn"
+    date: 2019-09-05

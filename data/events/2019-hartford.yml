@@ -27,7 +27,7 @@ registration_closed: "" #set this to true if you need to manually close registra
 registration_link: "https://devopsdayshfd.org/registration" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
-#
+
 coordinates: "41.762842,-72.6709113"
 location: "Infinity Music Hall & Bistro" # Defaults to city, but you can make it the venue name.
 location_address: "32 Front St. Hartford, CT 06103" #Optional - use the street address of your venue. This will show up on the welcome page if set.
@@ -95,6 +95,9 @@ proposal_email: "proposals-hartford-2019@devopsdays.org" # Put your proposal ema
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: gitlab
+    level: gold
+    url: "https://about.gitlab.com"
   - id: dynatrace
     level: silver
   - id: eliassen-group
@@ -105,6 +108,8 @@ sponsors:
     level: community
   - id: signalfx
     level: silver
+  - id: cgi
+    level: bronze
   - id: newhavenio
     level: community
 
@@ -232,7 +237,7 @@ program:
       date: 2019-10-03T23:59:59-04:00
       start_time: "10:30"
       end_time: "10:45"
-    - title: "sara-zelechoski"
+    - title: "sarah-zelechoski"
       type: talk
       date: 2019-10-03T23:59:59-04:00
       start_time: "10:45"

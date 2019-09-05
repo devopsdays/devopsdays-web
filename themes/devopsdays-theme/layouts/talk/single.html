@@ -32,8 +32,25 @@
           </div>
         {{- end -}}
     {{- end -}}
+    <br />
 
-
+    {{- if isset .Params "slideslive" -}}
+      {{- if ne .Params.slideslive "" -}}
+        <div class = "row">
+          <div class = "col">
+            <div id="presentation-embed-{{ .Params.slideslive }}"></div>
+            <script src='https://slideslive.com/embed_presentation.js'></script>
+            <script>
+              embed = new SlidesLiveEmbed('presentation-embed-{{ .Params.slideslive }}', {
+              presentationId: '{{ .Params.slideslive }}',
+              autoPlay: false // change to true to autoplay the embedded presentation
+              });
+            </script>
+          </div>
+        </div>
+      {{- end -}}
+    {{- end -}}
+    <br />
 
       <span class="talk-page content-text">
         {{ .Content }}

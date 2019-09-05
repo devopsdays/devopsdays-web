@@ -2,7 +2,7 @@
 Title = "PJ Hagerty"
 Twitter = "aspleenic"
 type = "speaker"
-image = ""
+image = "pj-hagerty.jpg"
 linktitle = "pj-hagerty"
 
 +++
