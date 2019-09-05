@@ -1,5 +1,5 @@
 +++
-Title = "Centralized Logging Patterns"
+Title = "Workshop: Centralized Logging Patterns"
 Type = "talk"
 Speakers = ["steffen-siering"]
 +++
