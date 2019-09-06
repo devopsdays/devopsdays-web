@@ -107,6 +107,11 @@ team_members: # Name is the only required field for team members.
     employer: "IT Process Analyst"
     twitter: ""
     bio: "IT Process Analyst - Administrative and Quality - Performed functions from management assistance, support and service to internal and external customers, IT training, creation of standard operating procedures. Evolving career in the administrative area in support of contract management aimed at the quality of service provided."
+  - name: "Dennis Braga"
+    employer: "Web Developer"
+    linkedin: "https://www.linkedin.com/in/dennis-braga/"
+    github: "bragadennis"
+    bio: "Web developer for over 7 years using mainly PHP/Laravel Framework and Javascript Frameworks, passionate about programming, believes that automation is the key to  empowering teams to build and delivery quality software. Also spends sometime researching Blockchain technology and Neural Networks."
 organizer_email: "organizers-fortaleza-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-fortaleza-2019@devopsdays.org" # Put your proposal email address here
 
