@@ -53,16 +53,9 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
-  - name: "John Doe"
-  - name: "Jane Smith"
-    twitter: "devopsdays"
-  - name: "Sally Fields"
-    employer: "Acme Anvil Co."
-    github: "devopsdays"
-    facebook: "https://www.facebook.com/sally.fields"
-    linkedin: "https://www.linkedin.com/in/sallyfields"
-    website: "https://mattstratton.com"
-    image: "sally-fields.jpg"
+  - name: "Lindomar Góes Ferreira"
+  - name: "Felipe Ferreira"
+  - name: "Júnior G. SIlva"
 
 organizer_email: "lindomar@proesc.com" # Put your organizer email address here
 
