@@ -1,5 +1,5 @@
 +++
-Title = "From Developers and Operatons to DevOps and Autonomous Teams"
+Title = "From Developers and Operations to DevOps and Autonomous Teams"
 Type = "talk"
 Speakers = ["jessica-anderson"]
 +++
