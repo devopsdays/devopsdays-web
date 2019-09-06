@@ -7,7 +7,7 @@ type = "event"
 
 <hr>
 
-    Check out <a href="https://sessionize.com/devopsdays-tokyo-2020/">Proposals at Sessionize</a> to see our most up-to-date proposals and how to submit your own.
+    Check out <a href="https://sessionize.com/devopsdays-tokyo-2020/"> Proposals at Sessionize </a> to see our most up-to-date proposals and how to submit your own.
 <hr>
 
 ## Call for Proposals Description
