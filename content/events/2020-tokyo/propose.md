@@ -5,10 +5,10 @@ type = "event"
 +++
   {{< cfp_dates >}}
 
-<!--<hr>
+<hr>
 
-    Check out <a href="https://confengine.com/devopsdays-tokyo-2018/proposals">Proposals at Confengine</a> to see our most up-to-date proposals and how to submit your own.
-<hr>-->
+    Check out <a href="https://sessionize.com/devopsdays-tokyo-2020/">Proposals at Sessionize</a> to see our most up-to-date proposals and how to submit your own.
+<hr>
 
 ## Call for Proposals Description
 
@@ -18,9 +18,21 @@ We’re looking for a mix of technical and cultural talks that relate to the cen
 
 ## Day & Theme / 各日のテーマについて
 
-DevOpsDays Tokyoは、各日ともに異なったテーマで2日間にわたって開催されるコンファレンスです。テーマについて不確かな場合や両日の申し込みをご希望の場合は、お申込み時にその旨をお伝え頂けます様、よろしくお願い致します。
+DevOpsDays は世界中で開催されているカンファレンスです。
+ソフトウェア開発、ITインフラ運用、そしてその境界線上にあるトピックをカバーし、特にDevOpsを実現するための自動化、テスト、セキュリティ、組織文化にフォーカスします。
 
-DevOpsDays Tokyo is a two-day conference, with each day having a different theme and a potentially different audience. If you’re unsure of the theme, or if you think it can apply to both days, just let us know that when you submit the talk.
+IT技術を駆使して変化に強いビジネスインフラを実現するスキルを身に着けるために、国内外の最先端の事例とプラクティスを結集します。
+海外から第一人者を直接招き、ここでしか手に入らない最新情報をリアルタイムで入手出来ます。
+
+最先端のテクノロジの活用法はもちろん、先進企業で必要とされてきた背景までも理解し、正しく組織内に展開するための洗練された知見を得られます。
+
+このイベントが日本のみならず、世界のDevOpsプラクティスを共有できる、意義のあるイベントになれるよう、願っております。
+
+DevOpsDays Tokyo is a local conference to share technology trends, case studies, and knowledge from IT professionals who have been working to improve their product and processes through DevOps practices, both in Japan and abroad.
+
+With content in both Japanese and English, our community strives to improve processes and outcomes by not only bridging the gap between Dev and Ops, but between Japanese and western IT cultures.
+
+Although Japanese will be the primary language of the conference, about half of the talks will be in English (with simultaneous translation to Japanese available).
 
 ## Session Type / セッション・タイプ
 
@@ -36,18 +48,9 @@ There are two types of sessions planned:
 
 ## Language / 言語
 
-日本語がメインの言語となりますが、半分ほどのトークは英語でおこなわれる予定です。
+本イベントは日本語、英語の両方で開催し、英語圏の企業や組織にも積極的に参加を募ります。（日本語同時通訳も用意致します）
 
-Why DevOpsがテーマの初日は、全ての英語でのトークが日本語で同時通訳されます。現在、2日目のトークも日本語で同時通訳が提供できるように調整中です。
-
-英語でのトークをご希望の場合は使用するスライドを事前にご提出下さい。同時通訳の事前準備に利用致します。日本語を話されない方も、事前にご本人の日本語レベルをお知らせ下さい。
-
-Although Japanese will be the primary language of the conference, we we’re striving for about half of the talks to be in English.
-
-Day 1 (Why DevOps) English-language talks will be simultaneous translated to Japanese. Depending on the budget, we may also simultaneously translate Day 2 talks.
-
-If you’re planning on submitting an English talk, please note that it will be very important to prepare the slides well in advance, so that we can prepare for simultaneous translation. While you won’t be required to speak or understand Japanese, please note your Japanese language-level.
-
+Although Japanese will be the primary language of the conference, about half of the talks will be in English (with simultaneous translation to Japanese available).
 
 <!--
 Although the primary audience for this conference is engineers, we’re looking for a mix of technical and cultural talks that relate to the central conference theme: DevOps for Japan.
