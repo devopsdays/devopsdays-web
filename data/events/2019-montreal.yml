@@ -105,14 +105,20 @@ sponsors:
      level: gold
    - id: cloudops
      level: gold
+   - id: cohesity
+     level: bronze
    - id: containersolutions
      level: gold
    - id: dynatrace
      level: silver
    - id: gitlab
      level: gold
+   - id: microsoft
+     level: silver
    - id: netapp
      level: gold
+   - id: ovh
+     level: silver
    - id: rancher-before-20190812
      level: silver
    - id: signalfx
