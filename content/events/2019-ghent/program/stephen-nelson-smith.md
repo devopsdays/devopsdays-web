@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Don't Build Igloos in the Desert: When Following The Rules No Longer Works"
 Type = "talk"
-Speakers = ["stephen-nelsonsmith"]
+Speakers = ["stephen-nelson-smith"]
 +++
 
 Our personal and professional success depends on psychological flexibility. But nobody is teaching how to develop this. Until now.
