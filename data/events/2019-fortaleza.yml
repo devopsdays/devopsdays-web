@@ -112,6 +112,10 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/dennis-braga/"
     github: "bragadennis"
     bio: "Web developer for over 7 years using mainly PHP/Laravel Framework and Javascript Frameworks, passionate about programming, believes that automation is the key to  empowering teams to build and delivery quality software. Also spends sometime researching Blockchain technology and Neural Networks."
+  - name: "Wanderson Lopes"
+    employer: "IT Analyst"
+    twitter: ""
+    bio: "Graduated in Systems Analysis and Development, Currently Infrastructure Analyst at CRC, responsible for creating virtualized environments and managing various operating systems, always seeking to innovate and automate processes in IT services."
 organizer_email: "organizers-fortaleza-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-fortaleza-2019@devopsdays.org" # Put your proposal email address here
 
