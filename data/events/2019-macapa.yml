@@ -57,7 +57,7 @@ team_members: # Name is the only required field for team members.
   - name: "Felipe Ferreira"
   - name: "Júnior G. SIlva"
 
-organizer_email: "lindomar@proesc.com" # Put your organizer email address here
+organizer_email: "macapa@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
