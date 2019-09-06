@@ -116,6 +116,10 @@ team_members: # Name is the only required field for team members.
     employer: "IT Analyst"
     twitter: ""
     bio: "Graduated in Systems Analysis and Development, Currently Infrastructure Analyst at CRC, responsible for creating virtualized environments and managing various operating systems, always seeking to innovate and automate processes in IT services."
+  - name: "Lorena Queiroz"
+    employer: "Infrastructure Analyst"
+    linkedin: "https://www.linkedin.com/in/lorena-queiroz-0694aa4b/"
+    bio: "Graduated in Information Systems, Postgraduate in Computer System Administration and Security and Forensic Computing and Digital Expertise. Focus on Infrastructure, Information Security, Servers, Computer Forensics, IT Service Management."
 organizer_email: "organizers-fortaleza-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-fortaleza-2019@devopsdays.org" # Put your proposal email address here
 
