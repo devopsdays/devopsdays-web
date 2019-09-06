@@ -25,6 +25,15 @@
 &emsp;[Blog Post Fields](#blog-post-fields)
 [Shortcodes](#shortcodes)
 &emsp;[google_form](#google_form)
+&emsp;[tito_widget](#tito_widget)
+&emsp;[cfp_dates](#cfp_dates)
+&emsp;[email_organizers](#email_organizers)
+&emsp;[event_start](#event_start)
+&emsp;[event_end](#event_end)
+&emsp;[event_logo](#event_logo)
+&emsp;[event_twitter](#event_twitter)
+&emsp;[registration_start](#registration_start)
+&emsp;[registration_end](#registration_end)
 
 <!-- /MDTOC -->
 
@@ -327,4 +336,57 @@ To show discounted tickets on the page (they display as a striked through full-p
 
 ```
 {{< tito_widget event="devopsdays-london/2019" discount-code="examplediscount" >}}
+```
+
+### cfp_dates
+This shortcode displays the dates for the CFP. It is used in the default `propose.md` that is generated from the script. 
+```
+{{< cfp_dates >}}
+```
+
+### email_organizers
+This shortcode will generate a `mailto` link to the organizer email address. 
+```
+{{< email_organizers >}}
+```
+
+To add a subject to the `mailto` link:
+```
+{{< email_organizers subject= "Your Subject Here">}}
+```
+
+### event_start
+Returns the start date of your event
+```
+{{< event_start >}}
+```
+
+### event_end
+Returns the end date of your event
+```
+{{< event_end >}}
+```
+
+### event_logo
+If you have a `logo.png` or `logo.jpg` in your `static/events/city-yyyy` directory, this will return the HTML for the image. This is mostly suited for use on your `welcome.md` page.
+```
+{{< event_logo >}}
+```
+
+### event_twitter
+This returns a twitter follow link, set to either `@devopsdays` if you have not set a Twitter handle in your data file, or whatever is set as your event's Twitter handle in your data file. 
+```
+{{< event_twitter >}}
+```
+
+### registration_start
+Returns the start date of registration for your event
+```
+{{< registration_start >}}
+```
+
+### registration_end
+Returns the end date of registration for your event
+```
+{{< registration_end >}}
 ```
