@@ -402,8 +402,8 @@ program:
     end_time: "17:00"
 
 ignites:
-  - title: "allie-richards"
-    date: 2019-09-11
+#  - title: "allie-richards"
+#    date: 2019-09-11
   - title: "matty-stratton"
     date: 2019-09-11
   - title: "ashina-sipiora"
