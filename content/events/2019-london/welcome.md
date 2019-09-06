@@ -4,6 +4,7 @@ Type = "welcome"
 aliases = ["/events/2019-london/"]
 Description = "devopsdays London 2019"
 +++
+
 <div class="row">
   <div class="col-md-4">
     <img alt="DevOpsDays London 2019" src="/events/2019-london/logo.png" class="img-fluid">
