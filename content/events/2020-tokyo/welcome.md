@@ -1,9 +1,9 @@
 +++
-date = "2018-08-29T11:01:20-05:00"
+date = "2019-09-03T11:01:20-05:00"
 title = "welcome"
 type = "event"
-aliases = ["/events/2019-tokyo"]
-Description = "devopsdays Tokyo 2019"
+aliases = ["/events/2020-tokyo"]
+Description = "devopsdays Tokyo 2020"
 
 +++
 
@@ -34,14 +34,14 @@ Description = "devopsdays Tokyo 2019"
   </div>
 </div>
 
-<div class = "row">
+  <!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
-  </div>
+</div>
   <div class = "col-md-8">
     <a href="https://www.eventbrite.com/e/devopsdays-tokyo-2019-tickets-52857940523">Register to attend the conference!</a>
   </div>
-</div>
+</div> -->
 
 <div class = "row">
   <div class = "col-md-2">
