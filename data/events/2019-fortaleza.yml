@@ -100,7 +100,7 @@ team_members: # Name is the only required field for team members.
     image: "cassio-moreira.jpg"
   - name: "Renata Lima"
     linkedin: "https://www.linkedin.com/in/renata-lima-bb401aa4/"
-    employer: ""
+    employer: "Psychologist"
     twitter: ""
     bio: "Psychologist, post graduated in Organizational and Labor Psychology. Professional with over 4 years of experience at a multinational company working as Talent Engagement Analyst and HR Business Partner."
 organizer_email: "organizers-fortaleza-2019@devopsdays.org" # Put your organizer email address here
