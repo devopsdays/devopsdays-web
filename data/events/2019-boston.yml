@@ -163,6 +163,14 @@ sponsors:
     level: startup
   - id: cryptomove
     level: startup
+  - id: smartronix
+    level: gold
+  - id: toast
+    level: gold
+  - id: scalyr
+    level: gold
+  - id: atlassian
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

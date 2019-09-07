@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "An Evolutionary Approach to DevOps"
 Type = "talk"
 Speakers = ["kevin-harriss"]
+speakerdeck = "https://speakerdeck.com/specialkevin/an-evolutionary-approach-to-devops"
 +++
 
 The story of how a Chicago finance company avoided a radical shift and took a more evolutionary approach to its DevOps transformation. I will share the lessons we learned along the way to hopefully ease your DevOps transformation.

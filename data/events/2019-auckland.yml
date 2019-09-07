@@ -44,7 +44,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # - name: propose
  - name: location
  - name: registration
-#  - name: program
+ - name: program
  - name: speakers
  - name: sponsor
  - name: contact
@@ -149,6 +149,8 @@ sponsors:
     level: silver
   - id: countdown
     level: silver
+  - id: 2019-clearpoint
+    level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
  # - id: arresteddevops
  #   level: community platinum gold silver lanyard media community
@@ -179,11 +181,247 @@ sponsor_levels:
     label: Community
     max: 1
 
-#program:
-#  - title: "Registration, Coffee/Tea, and Sponsors"
-#    type: custom
-#    date: 2019-MM-DD
-#    start_time: "08:00"
-#    end_time: "09:00"
+program:
+  - title: "Registration, Coffee/Tea, and Sponsor Booths Open"
+    type: custom
+    date: 2019-10-21
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2019-10-21
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "brooke-treadgold"
+    type: talk
+    date: 2019-10-21
+    start_time: "09:10"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-10-21
+    start_time: "09:45"
+    end_time: "09:50"
+  - title: "charles-korn"
+    type: talk
+    date: 2019-10-21
+    start_time: "09:50"
+    end_time: "10:25"
+  - title: "Break (catered)"
+    type: custom
+    date: 2019-10-21
+    start_time: "10:25"
+    end_time: "10:50"
+  - title: "kiwi-ingenuity"
+    type: talk
+    date: 2019-10-21
+    start_time: "10:50"
+    end_time: "11:25"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-10-21
+    start_time: "11:25"
+    end_time: "11:30"
+  - title: "craig-box"
+    type: talk
+    date: 2019-10-21
+    start_time: "11:30"
+    end_time: "12:05"
+  - title: "Open Space Intro & Proposals"
+    type: open-space
+    date: 2019-10-21
+    start_time: "12:05"
+    end_time: "12:30"
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2019-10-21
+    start_time: "12:30"
+    end_time: "13:30"
+  - title: "Open space & workshop room assignments"
+    type: open-space
+    date: 2019-10-21
+    start_time: "13:30"
+    end_time: "13:35"
+  - title: "david-white"
+    type: workshop
+    date: 2019-10-21
+    start_time: "13:35"
+    end_time: "14:15"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2019-10-21
+    start_time: "13:35"
+    end_time: "14:15"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2019-10-21
+    start_time: "14:20"
+    end_time: "15:00"
+  - title: "shahid-iqbal"
+    type: workshop
+    date: 2019-10-21
+    start_time: "15:05"
+    end_time: "15:45"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2019-10-21
+    start_time: "15:05"
+    end_time: "15:45"
+  - title: "Break (catered)"
+    type: custom
+    date: 2019-10-21
+    start_time: "15:45"
+    end_time: "16:10"
+  - title: "Ignites"
+    type: ignite
+    date: 2019-10-21
+    start_time: "16:10"
+    end_time: "16:35"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-10-21
+    start_time: "16:35"
+    end_time: "16:40"
+  - title: "julie-gunderson"
+    type: talk
+    date: 2019-10-21
+    start_time: "16:40"
+    end_time: "17:25"
+  - title: "Close Day & Logistics"
+    type: custom
+    date: 2019-10-21
+    start_time: "17:25"
+    end_time: "17:35"
+  - title: "Evening event"
+    type: custom
+    date: 2019-10-21
+    start_time: "17:35"
+    end_time: "21:00"
+    comments: "TBA"
 
-# Watch Triggered
+  - title: "Registration, Coffee/Tea, and Sponsor Booths Open"
+    type: custom
+    date: 2019-10-22
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2019-10-22
+    start_time: "09:00"
+    end_time: "09:05"
+  - title: "cath-jones"
+    type: talk
+    date: 2019-10-22
+    start_time: "09:05"
+    end_time: "09:40"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-10-22
+    start_time: "09:40"
+    end_time: "09:45"
+  - title: "piyush-verma"
+    type: talk
+    date: 2019-10-22
+    start_time: "09:45"
+    end_time: "10:20"
+  - title: "Break (catered)"
+    type: custom
+    date: 2019-10-22
+    start_time: "10:20"
+    end_time: "10:45"
+  - title: "jane-miceli"
+    type: talk
+    date: 2019-10-22
+    start_time: "10:45"
+    end_time: "11:20"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-10-22
+    start_time: "11:20"
+    end_time: "11:25"
+  - title: "cameron-huysmans"
+    type: talk
+    date: 2019-10-22
+    start_time: "11:25"
+    end_time: "12:00"
+  - title: "Open Space Proposals"
+    type: open-space
+    date: 2019-10-22
+    start_time: "12:00"
+    end_time: "12:10"
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2019-10-22
+    start_time: "12:10"
+    end_time: "13:10"
+  - title: "Open space & workshop room assignments"
+    type: open-space
+    date: 2019-10-22
+    start_time: "13:10"
+    end_time: "13:15"
+  - title: "joshua-king-workshop"
+    type: workshop
+    date: 2019-10-22
+    start_time: "13:15"
+    end_time: "13:55"
+  - title: "Open Space #4"
+    type: open-space
+    date: 2019-10-22
+    start_time: "13:15"
+    end_time: "13:55"
+  - title: "Open Space #5"
+    type: open-space
+    date: 2019-10-22
+    start_time: "14:00"
+    end_time: "14:40"
+  - title: "corneile-britz"
+    type: workshop
+    date: 2019-10-22
+    start_time: "14:45"
+    end_time: "15:25"
+  - title: "Open Space #6"
+    type: open-space
+    date: 2019-10-22
+    start_time: "14:45"
+    end_time: "15:25"
+  - title: "Break (catered)"
+    type: custom
+    date: 2019-10-22
+    start_time: "15:25"
+    end_time: "15:50"
+  - title: "Ignites"
+    type: ignite
+    date: 2019-10-22
+    start_time: "15:50"
+    end_time: "16:15"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-10-22
+    start_time: "16:15"
+    end_time: "16:20"
+  - title: "laura-bell"
+    type: talk
+    date: 2019-10-22
+    start_time: "16:20"
+    end_time: "17:05"
+  - title: "Closing Remarks & Giveaways"
+    type: custom
+    date: 2019-10-22
+    start_time: "17:05"
+    end_time: "17:15"
+ignites:
+  - title: "gleidson-nascimento"
+    date: 2019-10-21
+  - title: "joshua-king"
+    date: 2019-10-21
+  - title: "srdan-dukic"
+    date: 2019-10-21
+  - title: "everett-toews"
+    date: 2019-10-22
+  - title: "joel-wiramu-pauling"
+    date: 2019-10-22
+  - title: "steven-ensslen"
+    date: 2019-10-22
+  - title: "mandi-buswell"
+    date: 2019-10-22
+

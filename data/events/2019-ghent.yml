@@ -36,11 +36,11 @@ location: "Vooruit" # Defaults to city, but you can make it the venue name.
 location_address: "Sint-Pietersnieuwstraat 23, 9000 Gent" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+#  - name: propose
   - name: location
   - name: registration
  # - name: program
- # - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -113,12 +113,18 @@ sponsors:
     level: gold
   - id: elastic
     level: gold
+  - id: chef
+    level: gold
+  - id: atlassian
+    level: gold
   # silver
   - id: dpg-media
     level: silver
   - id: gitlab
     level: silver
   - id: cloudar
+    level: silver
+  - id: netways
     level: silver
   # bronze
   - id: inuits

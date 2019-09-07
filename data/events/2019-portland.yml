@@ -134,7 +134,7 @@ sponsors:
     level: silver
   - id: netapp
     level: silver
-  - id: hashicorp
+  - id: hashicorp-and-redapt
     level: silver
   - id: ignw
     level: silver
@@ -203,17 +203,17 @@ program:
   - title: "jj-asghar"
     type: talk
     date: 2019-09-10
-    start_time: "12:00"
+    start_time: "13:00"
     end_time: "TBD"
-  - title: "lilia-gutnik"
+  - title: "blameless-postmortems"
     type: talk
     date: 2019-09-10
-    start_time: "12:00"
+    start_time: "13:00"
     end_time: "TBD"
   - title: "stacy-watts"
     type: talk
     date: 2019-09-10
-    start_time: "12:00"
+    start_time: "13:00"
     end_time: "TBD"
   - title: "Registration, Breakfast, Sponsors"
     type: custom
@@ -402,8 +402,8 @@ program:
     end_time: "17:00"
 
 ignites:
-  - title: "allie-richards"
-    date: 2019-09-11
+#  - title: "allie-richards"
+#    date: 2019-09-11
   - title: "matty-stratton"
     date: 2019-09-11
   - title: "ashina-sipiora"

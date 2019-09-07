@@ -91,6 +91,18 @@ sponsors:
    level: community
  - id: f5-ni
    level: gold
+ - id: gizasystems
+   level: exclusive
+ - id: wuzzuf
+   level: gold
+ - id: sumerge
+   level: gold
+ - id: get
+   level: gold
+ - id: incorta
+   level: gold
+ - id: cegedim
+   level: silver
  #- id: amecse
  #  level: community
  #- id: egyptinnovate
@@ -109,7 +121,7 @@ sponsor_levels:
     max: 1
   - id: gold
     label: Gold
-    max: 5
+    max: 10
   - id: silver
     label: Silver
     max: 0 # This is the same as omitting the max limit.

@@ -27,7 +27,7 @@ registration_closed: "" #set this to true if you need to manually close registra
 registration_link: "https://devopsdayshfd.org/registration" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
-#
+
 coordinates: "41.762842,-72.6709113"
 location: "Infinity Music Hall & Bistro" # Defaults to city, but you can make it the venue name.
 location_address: "32 Front St. Hartford, CT 06103" #Optional - use the street address of your venue. This will show up on the welcome page if set.
@@ -36,8 +36,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   # - name: propose
   - name: location
   - name: registration
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -95,6 +95,9 @@ proposal_email: "proposals-hartford-2019@devopsdays.org" # Put your proposal ema
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: gitlab
+    level: gold
+    url: "https://about.gitlab.com"
   - id: dynatrace
     level: silver
   - id: eliassen-group
@@ -102,6 +105,12 @@ sponsors:
   - id: compuware
     level: silver
   - id: arresteddevops
+    level: community
+  - id: signalfx
+    level: silver
+  - id: cgi
+    level: bronze
+  - id: newhavenio
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -121,3 +130,178 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+
+program:
+    - title: "Registration, Breakfast, Sponsors"
+      type: custom
+      date: 2019-10-02T00:00:00-04:00
+      start_time: "08:00"
+      end_time: "09:00"
+    - title: "Opening Welcome"
+      type: break
+      date: 2019-10-02T00:00:00-04:00
+      start_time: "09:00"
+      end_time: "09:15"
+    - title: "emily-freeman"
+      type: talk
+      date: 2019-10-02T00:00:00-04:00
+      start_time: "09:15"
+      end_time: "10:00"
+    - title: "anthony-barbieri"
+      type: talk
+      date: 2019-10-02T00:00:00-04:00
+      start_time: "10:00"
+      end_time: "10:30"
+    - title: "Morning Break"
+      type: break
+      date: 2019-10-02T00:00:00-04:00
+      start_time: "10:30"
+      end_time: "10:45"
+    - title: "jason-yee"
+      type: talk
+      date: 2019-10-02T00:00:00-04:00
+      start_time: "10:45"
+      end_time: "11:15"
+    - title: "serhat-can"
+      type: talk
+      date: 2019-10-02T00:00:00-04:00
+      start_time: "11:15"
+      end_time: "11:45"
+    - title: "Lunch"
+      type: break
+      date: 2019-10-02T00:00:00-04:00
+      start_time: "11:45"
+      end_time: "13:00"
+    - title: "Ignites"
+      type: ignite
+      date: 2019-10-02T00:00:00-04:00
+      start_time: "13:00"
+      end_time: "13:30"
+    - title: "Open Spaces Kickoff & Organization"
+      type: custom
+      date: 2019-10-02T00:00:00-04:00
+      start_time: "13:30"
+      end_time: "14:15"
+    - title: "Open Space #1"
+      type: open-space
+      date: 2019-10-02T00:00:00-04:00
+      start_time: "14:15"
+      end_time: "15:00"
+    - title: "Afternoon Break"
+      type: break
+      date: 2019-10-02T00:00:00-04:00
+      start_time: "15:00"
+      end_time: "15:15"
+    - title: "Open Space #2"
+      type: open-space
+      date: 2019-10-02T00:00:00-04:00
+      start_time: "15:15"
+      end_time: "16:00"
+    - title: "Open Space #3"
+      type: open-space
+      date: 2019-10-02T00:00:00-04:00
+      start_time: "16:05"
+      end_time: "16:50"
+    - title: "Closing and Day 1 Recap"
+      type: custom
+      date: 2019-10-02T00:00:00-04:00
+      start_time: "16:50"
+      end_time: "17:00"
+    - title: "Happy Hour"
+      type: custom
+      date: 2019-10-02T00:00:00-04:00
+      start_time: "17:00"
+      end_time: "19:00"
+    - title: "Registration, Breakfast, Sponsors"
+      type: break
+      date: 2019-10-03T23:59:59-04:00
+      start_time: "08:00"
+      end_time: "09:00"
+    - title: "Day 2 Kickoff"
+      type: custom
+      date: 2019-10-03T23:59:59-04:00
+      start_time: "09:00"
+      end_time: "09:15"
+    - title: "matty-stratton"
+      type: talk
+      date: 2019-10-03T23:59:59-04:00
+      start_time: "09:15"
+      end_time: "10:00"
+    - title: "mottaqui-karim"
+      type: talk
+      date: 2019-10-03T23:59:59-04:00
+      start_time: "10:00"
+      end_time: "10:30"
+    - title: "Break"
+      type: break
+      date: 2019-10-03T23:59:59-04:00
+      start_time: "10:30"
+      end_time: "10:45"
+    - title: "sarah-zelechoski"
+      type: talk
+      date: 2019-10-03T23:59:59-04:00
+      start_time: "10:45"
+      end_time: "11:15"
+    - title: "james-meickle"
+      type: talk
+      date: 2019-10-03T23:59:59-04:00
+      start_time: "11:15"
+      end_time: "11:45"
+    - title: "Lunch"
+      type: break
+      date: 2019-10-03T23:59:59-04:00
+      start_time: "11:45"
+      end_time: "13:00"
+    - title: "Ignites"
+      type: ignite
+      date: 2019-10-03T23:59:59-04:00
+      start_time: "13:00"
+      end_time: "13:30"
+    - title: "Open Space Organization"
+      type: custom
+      date: 2019-10-03T23:59:59-04:00
+      start_time: "13:30"
+      end_time: "14:15"
+    - title: "Open Space #1"
+      type: open-space
+      date: 2019-10-03T23:59:59-04:00
+      start_time: "14:15"
+      end_time: "15:00"
+    - title: "Afternoon Break"
+      type: break
+      date: 2019-10-03T23:59:59-04:00
+      start_time: "15:00"
+      end_time: "15:15"
+    - title: "Open Space #2"
+      type: open-space
+      date: 2019-10-03T23:59:59-04:00
+      start_time: "15:15"
+      end_time: "16:00"
+    - title: "Open Space #3"
+      type: open-space
+      date: 2019-10-03T23:59:59-04:00
+      start_time: "16:00"
+      end_time: "16:45"
+    - title: "Conference Closing & Giveaways"
+      type: custom
+      date: 2019-10-03T23:59:59-04:00
+      start_time: "16:50"
+      end_time: "17:20"
+
+ignites:
+  - title: "tommy-adams"
+    date: 2019-10-02T00:00:00-04:00
+  - title: "priyanka-rao"
+    date: 2019-10-02T00:00:00-04:00
+  - title: "henry-quinn"
+    date: 2019-10-02T00:00:00-04:00
+  - title: "Ignite Karoke!"
+    date: 2019-10-02T00:00:00-04:00
+  - title: "dave-karow"
+    date: 2019-10-03T23:59:59-04:00
+  - title: "jj-asghar"
+    date: 2019-10-03T23:59:59-04:00
+  - title: "michael-mccliment"
+    date: 2019-10-03T23:59:59-04:00
+  - title: "Ignite Karaoke!"
+    date: 2019-10-03T23:59:59-04:00

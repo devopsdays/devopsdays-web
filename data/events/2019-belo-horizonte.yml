@@ -102,9 +102,15 @@ sponsors:
     level: platina
   - id: vanhack
     level: platina
+  - id: localiza
+    level: platina
   - id: grupomult
     level: ouro
+  - id: totvs
+    level: ouro
   - id: smarttbot
+    level: prata
+  - id: nuvemshop
     level: prata
   - id: 4yousee
     level: bronze
@@ -121,6 +127,10 @@ sponsors:
   - id: devopsbh
     level: community
   - id: devops-bootcamp
+    level: community
+  - id: 4linux-2019
+    level: community
+  - id: altabooks
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

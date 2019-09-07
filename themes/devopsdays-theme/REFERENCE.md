@@ -25,6 +25,15 @@
 &emsp;[Blog Post Fields](#blog-post-fields)
 [Shortcodes](#shortcodes)
 &emsp;[google_form](#google_form)
+&emsp;[tito_widget](#tito_widget)
+&emsp;[cfp_dates](#cfp_dates)
+&emsp;[email_organizers](#email_organizers)
+&emsp;[event_start](#event_start)
+&emsp;[event_end](#event_end)
+&emsp;[event_logo](#event_logo)
+&emsp;[event_twitter](#event_twitter)
+&emsp;[registration_start](#registration_start)
+&emsp;[registration_end](#registration_end)
 
 <!-- /MDTOC -->
 
@@ -260,10 +269,12 @@ Pages of the type `talk` (which can include workshops, ignites, or talks) have a
 | `speakers`    | Yes      | An array of the names of the speakers (relative to the filenames for the speaker in your `content/events/YYYY-CITY/speakers` directory). Even if there is only one speaker, it should be formatted as an array. | speakers = ["fluttershy", "spike"]                                                  |
 | `youtube`     | No       | The ID of the YouTube video (not the full URL).                                                                                                                                                                 | "8ClZXJsgpHY"                                                                       |
 | `vimeo`       | No       | The ID of the Vimeo video (not the full URL).                                                                                                                                                                   | "219025568"                                                                         |
+| `slideslive`  | No       | The ID of the presentation on SlidesLive                          | "12345678" |
 | `speakerdeck` | No       | The URL to the talk on Speakerdeck. Use the full URL.                                                                                                                                                           | "https://speakerdeck.com/mattstratton/shifting-left-securely"                       |
 | `slideshare`  | No       | The URL to the talk on Slideshare. Use the full URL                                                                                                                                                             | "http://www.slideshare.net/mattstratton/the-five-love-languages-of-devops-54549536" |
 | `googleslides` | No      | The ID of the talk on Google Slides (not the full URL).                                                                                                                                                         | "1QnakgUC8AaNydPZCmKGYYja8gs2WoHbHRSjioIVdD9g" |
 | `pdf`          | No      | The URL to the PDF. Use the full URL.                                                                                                                                                                           | "http://www.mattstratton.com/my-slides.pdf" |
+| `notist`      | No      | The ID of the deck on Notist, including the username. | "mattstratton/jLwszn" |
 | `slides`      | No       | If the slides are available on a service other than Speakerdeck or Slideshare, enter the URL here.                                                                                                              | "http://www.mattstratton.com/my-slides"                                             |
 
 ### Speaker Page Fields
@@ -325,4 +336,57 @@ To show discounted tickets on the page (they display as a striked through full-p
 
 ```
 {{< tito_widget event="devopsdays-london/2019" discount-code="examplediscount" >}}
+```
+
+### cfp_dates
+This shortcode displays the dates for the CFP. It is used in the default `propose.md` that is generated from the script. 
+```
+{{< cfp_dates >}}
+```
+
+### email_organizers
+This shortcode will generate a `mailto` link to the organizer email address. 
+```
+{{< email_organizers >}}
+```
+
+To add a subject to the `mailto` link:
+```
+{{< email_organizers subject= "Your Subject Here">}}
+```
+
+### event_start
+Returns the start date of your event
+```
+{{< event_start >}}
+```
+
+### event_end
+Returns the end date of your event
+```
+{{< event_end >}}
+```
+
+### event_logo
+If you have a `logo.png` or `logo.jpg` in your `static/events/city-yyyy` directory, this will return the HTML for the image. This is mostly suited for use on your `welcome.md` page.
+```
+{{< event_logo >}}
+```
+
+### event_twitter
+This returns a twitter follow link, set to either `@devopsdays` if you have not set a Twitter handle in your data file, or whatever is set as your event's Twitter handle in your data file. 
+```
+{{< event_twitter >}}
+```
+
+### registration_start
+Returns the start date of registration for your event
+```
+{{< registration_start >}}
+```
+
+### registration_end
+Returns the end date of registration for your event
+```
+{{< registration_end >}}
 ```

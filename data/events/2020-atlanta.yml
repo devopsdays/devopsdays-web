@@ -77,7 +77,7 @@ team_members: # Name is the only required field for team members.
     image: "chris-donnelly.jpg"
     twitter: "distractable"
 
-  - name: "Ravi Lachman"
+  - name: "Ravi Lachhman"
     image: "ravi-lachhman.jpg"
     twitter: "ravilach"
 

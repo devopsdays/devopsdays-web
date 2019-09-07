@@ -44,7 +44,7 @@ in promotional materials. The preferred file formats are EPS or AI.
     <tr>
       <th><i>packages</i></th>
       <th><center><b><u><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5LCE8CR2ZUH8J">Supporting</a></u></b></center><center><b>$1,000</b></center></th>
-      <th><center><b><u><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KUJUTPDCQ3MXS">Premium</a></u></b></center><center><b>$6,000</b></center></th>
+      <th><center><b><u><a href="mailto:organizers-kansas-city-2019@devopsdays.org?subject=DevOpsDays%20Kansas%20City%202019%20Sponsorship">Premium</a></u></b></center><center><b>$6,000</b></center></th>
       <th><center><b><u><a href="#special">Special Sponsorships</a></u></b></center><center><b>$1,500 - $4,000</b></center></th>
     </tr>
     </thead>
@@ -62,12 +62,7 @@ in promotional materials. The preferred file formats are EPS or AI.
       </td>
       <td style="padding: 4px 5px 0px 5px;">
         <!-- Premium Paypal button  -->
-        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-          <input type="hidden" name="cmd" value="_s-xclick">
-          <input type="hidden" name="hosted_button_id" value="KUJUTPDCQ3MXS">
-          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-          <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-        </form>
+        <a href="mailto:organizers-kansas-city-2019@devopsdays.org?subject=DevOpsDays%20Kansas%20City%202019%20Sponsorship"><b>Contact us for availability!</b></a>
       </td>
       <td style="padding: 4px 5px 0px 5px;">
           <center>      </td>
@@ -156,7 +151,7 @@ All special sponsors will have their logo displayed on the DevOpsDays Kansas Cit
       <td>$1,500</td>
       <td>Your logo on buffet lines and a dedicated space in buffet area from lunch to evening.</td>
       <td>1</td>
-      <td>2</td>
+      <td><a href="mailto:organizers-kansas-city-2019@devopsdays.org?subject=DevOpsDays%20Kansas%20City%202019%20Sponsorship"><b>Contact us for availability!</b></a></td>
     </tr>
     <tr>
       <td align="center"><i class="fa fa-coffee fa-4x"></i></td>
@@ -164,7 +159,7 @@ All special sponsors will have their logo displayed on the DevOpsDays Kansas Cit
       <td>$1,500</td>
       <td>Your logo stamped on coffee sleeves.</td>
       <td>1</td>
-      <td>2</td>
+      <td><a href="mailto:organizers-kansas-city-2019@devopsdays.org?subject=DevOpsDays%20Kansas%20City%202019%20Sponsorship"><b>Contact us for availability!</b></a></td>
     </tr>
     <tr>
       <td align="center"><i class="fa fa-id-badge fa-4x"></i></td>
@@ -172,7 +167,7 @@ All special sponsors will have their logo displayed on the DevOpsDays Kansas Cit
       <td>$4,000</td>
       <td>Your logo and company colors. Typically provided by the sponsoring company.</td>
       <td>2</td>
-      <td>1</td>
+      <td><a href="mailto:organizers-kansas-city-2019@devopsdays.org?subject=DevOpsDays%20Kansas%20City%202019%20Sponsorship"><b>Contact us for availability!</b></a></td>
     </tr>
     <tr>
       <td align="center"><i class="fa fa-music fa-4x"></i></td>
@@ -180,7 +175,7 @@ All special sponsors will have their logo displayed on the DevOpsDays Kansas Cit
       <td>$4,000</td>
       <td>Pay for drinks, food, and entertainment - get an exclusive space for the night.</td>
       <td>4</td>
-      <td>1</td>
+      <td>SOLD OUT</td>
     </tr>
   </tbody>
 </table>
