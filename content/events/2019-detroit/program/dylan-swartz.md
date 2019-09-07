@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "How Solve The Worlds Hardest Problems"
+Title = "How to Solve The World's Hardest Problems"
 Type = "talk"
 Speakers = ["dylan-swartz"]
 +++
