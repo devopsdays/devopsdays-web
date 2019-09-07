@@ -1,7 +1,7 @@
 +++
 Title = "Erin Maturen"
 Twitter = ""
-image = "erin-maturen.png"
+image = ""
 type = "speaker"
 linktitle = "erin-maturen"
 
