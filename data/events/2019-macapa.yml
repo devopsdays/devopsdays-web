@@ -54,17 +54,95 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Lindomar Góes Ferreira"
+#    employer: ""
+#    role: ""
+#    bio: ""
+#    twitter: ""
+#    linkedin: "https://"
+#    facebook:
+#    website: ""
+#    github: ""
+#    image: ".jpg"  
   - name: "Felipe Ferreira"
-  - name: "Júnior G. SIlva"
+#    employer: ""
+#    role: ""
+#    bio: ""
+#    twitter: ""
+#    linkedin: "https://"
+#    facebook:
+#    website: ""
+#    github: ""
+#    image: ".jpg" 
+  - name: "Júnior G. Silva"
+#    employer: ""
+#    role: ""
+#    bio: ""
+#    twitter: ""
+#    linkedin: "https://"
+#    facebook:
+#    website: ""
+#    github: ""
+#    image: ".jpg" 
+  - name: "Josseli Pantoja"
+#    employer: ""
+#    role: ""
+#    bio: ""
+#    twitter: ""
+#    linkedin: "https://"
+#    facebook:
+#    website: ""
+#    github: ""
+#    image: ".jpg" 
+  - name: "Evelyn Alzier"
+#    employer: ""
+#    role: ""
+#    bio: ""
+#    twitter: ""
+#    linkedin: "https://"
+#    facebook:
+#    website: ""
+#    github: ""
+#    image: ".jpg" 
+  - name: "Vitor Santis"
+#    employer: ""
+#    role: ""
+#    bio: ""
+#    twitter: ""
+#    linkedin: "https://"
+#    facebook:
+#    website: ""
+#    github: ""
+#    image: ".jpg" 
+  - name: "Antônio Fascio"
+#    employer: ""
+#    role: ""
+#    bio: ""
+#    twitter: ""
+#    linkedin: "https://"
+#    facebook:
+#    website: ""
+#    github: ""
+#    image: ".jpg" 
+
+#  - name: ""
+#    employer: ""
+#    role: ""
+#    bio: ""
+#    twitter: ""
+#    linkedin: "https://"
+#    facebook:
+#    website: ""
+#    github: ""
+#    image: ".jpg" 
 
 organizer_email: "macapa@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: samplesponsorname
-    level: gold
-  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+#  - id: samplesponsorname
+#    level: gold
+#    url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
 
