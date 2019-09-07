@@ -11,7 +11,7 @@ Ryan Lockard is an executive leader, recognized globally for his impact to organ
 
 Ryan is well respected as an international keynote speaker on topics within the cloud, DevOps, DevSecOps, SRE, Agile and Lean communities. Many of his talks and written works have been cited in various ways, including a doctoral thesis, various industry association publications and even as part of post-graduate curriculum at a major university.
 
-Ryan currently works as an executive consultant advising the worlds largest, heavily regulated, enterprises on how to securely adopt modern ways of working. As a trusted advisor at the highest level, he has partnered on
+Ryan currently works as an executive consultant advising the worlds largest, heavily regulated, enterprises on how to securely adopt modern ways of working.
 
 A finalist for the 2016 Philadelphia Tech Leader of the Year, Ryan also serves as a coach and mentor to emerging delivery professionals. He was also a member of the Harrisburg University corporate faculty teaching inaugural post-graduate lean/agile courses, and a founding member and former board member of the Agile Uprising.
 
