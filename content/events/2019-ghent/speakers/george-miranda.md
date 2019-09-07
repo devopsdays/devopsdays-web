@@ -7,4 +7,4 @@ linktitle = "george-miranda"
 
 +++
 
-Tech+Culture+Science+Art. Speaker. Author. Talky person @PagerDuty. Alum: @BuoyantIO, @Chef, @ElectronicArts, SPEAKERBIO misc distributed systems jaunts.
+Tech+Culture+Science+Art. Speaker. Author. Talky person @PagerDuty. Alum: @BuoyantIO, @Chef, @ElectronicArts, & misc distributed systems jaunts.
