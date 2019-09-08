@@ -31,21 +31,13 @@ The technical details on how to set up your local development environment for ma
 
 ## Dev Setup
 
-Working with a Hugo theme outside of a content-based repo has a few challenges. The `devopsdays-theme` repo contains a directory called `exampleSite`, which is what is used for testing theme development. The `config.toml` for the `exampleSite` contains the following value:
+One of the more important things to know is that if you are going to make changes to CSS or JavaScript, you will need to be able to run the scripts that compile the SCSS files to CSS, and also concatenate and minifiy the JavaScript we use. In order to do this, you need the following installed on your local machine:
 
-```
-themesdir = "../.."
-```
+- [node](https://nodejs.org/en/)
+- [npm](https://www.npmjs.com/get-npm)
+- [gulp](https://gulpjs.com/)
 
-This tells Hugo where to look for its theme directories.
-
-You will need to run your watch command from the `exampleSite` directory; use something like this:
-
-```
-hugo server -w --baseUrl="http://localhost:1313"
-```
-
-NOTE: If you also load the existing `devopsdays-web` project, it is highly suggested that you use the `-p` flag on `hugo server` to load this theme on a different port. This will prevent your browser from caching assets like stylesheets, etc, from the other instance.
+Once you have these install, navigate to the root of `devopsdays-web` in a terminal, and run `npm install` to get all the pieces installed into `devopsdays-web`. The `node_modules` directory is not committed to source control, so you will have to run `npm install` any time you are setting up a new copy of the repo on a workstation.
 
 ## How can I help?
 
@@ -55,7 +47,7 @@ Sort the existing GitHub issues for the tag of `ready`. These are issues that ca
 
 ### Frameworks
 
-We use [Boostrap v4 Alpha](http://v4-alpha.getbootstrap.com/) as our basic framework.
+We use [Boostrap v4.3](https://getbootstrap.com/docs/4.3/getting-started/introduction/) as our basic framework.
 
 ### Blocks
 All page templates should make use of the `layouts/_default/baseof.html` file. This file contains all wrappers for the content. Anything within the `{{- block "main" . }} {{- end -}}` section is what will be displayed on a sub-template. Include a `{{ define "main" }}` block in your template to include what should be rendered.
@@ -81,28 +73,29 @@ The `devopsdays-theme` repo has hooks into Travis, Appveyor, and Netlify. Curren
 All changes are built by Netlify to https://dev.devopsdays.org once merged to master.
 
 ### Asset Pipeline
-Peruse the `gulpfile.js` to see what is processed for the asset pipeline. Gulp is only called when changes are merged to master. Pull requests, and local changes will not trigger gulp.
+If you make changes to SCSS files, or the `themes/devopsdays-theme/static/js/devopsdays.js` file, you will need to run a `gulp` task to compile the SCSS to CSS and to concatenate and minify the Javascript files.
 
-If you are manipulating JavaScript or SCSS files, please be sure to use Gulp. If you run `gulp dev` inside the repo, it will build the CSS and JS files, and also start a `watch` task for you.
+To run this, navigate to the root of `devopsdays-web` in your terminal, and run `gulp dev`. If you get errors, you likely don't have `node`, `npm`, and/or `gulp` installed. You also may not have run `npm install`.
 
-If you need help with this, ask @mattstratton.
+The output of `gulp dev` should look something like this:
+
+```
+[12:31:47] Using gulpfile ~/src/github.com/devopsdays/devopsdays-web/gulpfile.js
+[12:31:47] Starting 'dev'...
+[12:31:47] Starting 'js-concat'...
+[12:31:50] Finished 'js-concat' after 3.51 s
+[12:31:50] Starting 'sass'...
+[12:31:51] Finished 'sass' after 652 ms
+[12:31:51] Finished 'dev' after 4.16 s
+```
+
+After running, you should see updates to the following files in `themes/devopsdays-theme/static`:
+- `css/site.css`
+- `css/site.css.map`
+- `js/devopsdays-min.js`
+- `js/devopsdays-min.js.map`
 
 ## Workflow
-
-Our workflow is inspired by [Ian Bickering's guide to using GitHub Issues](http://www.ianbicking.org/blog/2014/03/use-github-issues-to-organize-a-project.html).
-
-### Milestones
-
-**Stuff we are doing right now:** this is the “main” milestone. We give it a minor SemVer name (like 1.2 or 2.3). We create a new milestone when we have released a new minor version.
-
-**Stuff we’ll probably do soon:** this is the standing [“Next Tasks” milestone](https://github.com/devopsdays/devopsdays-theme/milestone/4). We never change or rename this milestone.
-
-**Stuff we probably won’t do soon:** this is the standing [“Blue Sky” milestone](https://github.com/devopsdays/devopsdays-theme/milestone/3). We refer to these tickets and sometimes look through them, but they are easy to ignore, somewhat intentionally ignored.
-
-**What aren’t we sure about?:** issues with no milestone.
-
-There should be no other milestones; issues that are logged as `bug` or `enhancement` will be prioritized into the milestone when we are ready to work on them. Only issues with the tag of `ready` should be worked on.
-
 
 ### Issues
 
@@ -134,7 +127,3 @@ These are the labels we use, and what they mean:
 ### Pull Requests
 
 Please submit your proposed changes as a Pull Request against this repository. If the PR will resolve an issue, please add `Fixes #123` to the PR.
-
-## Releasing
-
-See [utils/README](https://github.com/devopsdays/devopsdays-theme/blob/master/utils/README.md) for instructions.
