@@ -11,7 +11,7 @@ Speakerdeck = ""
 Slideshare = "https://www.slideshare.net/DevOpsDaysDFW/detangling-complex-systems-with-compassion-production-excellence"
 Slides = ""
 Website = "https://www.linkedin.com/in/efong/"
-sharing_url = "liz-fong-jones-card.png"
+sharing_image = "liz-fong-jones-card.png"
 +++
 
 ##### KEYNOTE TALK ABSTRACT

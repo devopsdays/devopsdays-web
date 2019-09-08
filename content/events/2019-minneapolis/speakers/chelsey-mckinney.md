@@ -2,7 +2,7 @@
 Title = "Chelsey McKinney"
 Twitter = "techchelsey"
 image = "chelsey-mckinney.png"
-sharing_url = "chelsey-mckinney-card.png"
+sharing_image = "chelsey-mckinney-card.png"
 type = "speaker"
 linktitle = "chelsey-mckinney"
 
