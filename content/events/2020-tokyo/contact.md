@@ -1,10 +1,9 @@
 +++
-date = "2019-08-29T11:01:20-05:00"
-title = "contact"
-type = "event"
-
-
+Title = "Contact"
+Type = "event"
+Description = "Contact information for devopsdays Tokyo 2020"
 +++
+
 
 If you'd like to contact us by email: {{< email_organizers >}}
 
