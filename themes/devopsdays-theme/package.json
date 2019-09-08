@@ -1,0 +1,18 @@
+{
+  "name": "codekit-project",
+  "version": "1.0.0",
+  "description": "CodeKit created this starter package.json file. You should customize it appropriately.",
+  "scripts": {},
+  "author": "",
+  "license": "UNLICENSED",
+  "repository": {},
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.4.1",
+    "jssocials": "^1.5.0",
+    "moment": "^2.24.0",
+    "popper.js": "^1.15.0",
+    "tether": "^1.4.7"
+  }
+}

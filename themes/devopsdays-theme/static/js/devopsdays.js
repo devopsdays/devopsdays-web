@@ -1,10 +1,10 @@
-// @codekit-prepend '../../bower_components/jquery/dist/jquery.js'
-// @codekit-prepend '../../bower_components/tether/dist/js/tether.js'
-// @codekit-prepend '../../bower_components/bootstrap/dist/js/bootstrap.js'
-// @codekit-prepend '../../bower_components/jquery-oembed-all/jquery.oembed.js'
-// @codekit-prepend '../../bower_components/bootstrap-sortable/Scripts/bootstrap-sortable.js'
-// @codekit-prepend '../../bower_components/moment/moment.js'
-// @codekit-prepend '../../bower_components/jssocials/dist/jssocials.js'
+// @codekit-prepend '../../node_modules/jquery/dist/jquery.js'
+// @codekit-prepend '../../node_modules/tether/dist/js/tether.js'
+// @codekit-prepend '../../node_modules/bootstrap/dist/js/bootstrap.js'
+// @codekit-prepend '../components/jquery-oembed-all/jquery.oembed.js'
+// @codekit-prepend '../components/bootstrap-sortable/Scripts/bootstrap-sortable.js'
+// @codekit-prepend '../../node_modules/moment/moment.js'
+// @codekit-prepend '../components/jssocials/dist/jssocials.js'
 
 
 // accordion
