@@ -1,9 +1,9 @@
 +++
-date = "2019-08-29T11:01:20-05:00"
-title = "location"
-type = "event"
-
+Title = "Location"
+Type = "event"
+Description = "Location for devopsdays Tokyo 2020"
 +++
+
 
 [大崎ブライトコアホール (Osaki Bright Core Hall)](http://osaki-hall.jp/)  
 東京都品川区北品川5丁目5-15
