@@ -42,8 +42,9 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
   - name: local
   - name: registration
-#  - name: program
-#  - name: speakers
+  - name: program
+    url: https://www.secc.org.eg/DevopsDays-Cairo-2019-Agenda.pdf
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
