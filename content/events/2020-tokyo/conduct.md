@@ -1,9 +1,9 @@
 +++
-date = "2019-08-29T11:01:20-05:00"
-title = "conduct"
-type = "event"
-
+Title = "Conduct"
+Type = "event"
+Description = "Code of conduct for devopsdays Tokyo 2020"
 +++
+
 
 ## ANTI-HARASSMENT POLICY
 
