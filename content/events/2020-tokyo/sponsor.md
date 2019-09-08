@@ -1,9 +1,9 @@
 +++
-date = "2019-08-29T11:01:20-05:00"
-title = "sponsor"
-type = "event"
-
+Title = "Sponsor"
+Type = "event"
+Description = "Sponsor devopsdays Tokyo 2020"
 +++
+
 
 Sponsoring Tokyo DevOpsDays will not only show that you support DevOps in Japan, but will give you the opportunity to network and build relationships with developers, IT executives, Ops, DevOps, and managers within the Japanese IT community.
 
