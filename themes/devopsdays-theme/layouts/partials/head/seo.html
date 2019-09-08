@@ -23,6 +23,10 @@
   {{- if (where (readDir "static/events") "Name" $e.name) -}}
     {{- if (where (readDir ($.Scratch.Get "contentdir")) "Name" "sharing.jpg") -}}
       {{- $.Scratch.Set "sharing_url" ((printf "https://www.devopsdays.org/events/%s/sharing.jpg" $e.name ) ) -}}
+    {{- else if .Params.sharing_url -}}
+      {{- with .Params.sharing_url -}}
+        {{- $.Scratch.Set "sharing_url" (printf "/events/%s/speakers/%s" $e.name .) -}}
+      {{- end -}}
     {{- else -}}
       {{- $.Scratch.Set "sharing_url" ("https://www.devopsdays.org/img/sharing.jpg" ) -}}
     {{- end -}}
