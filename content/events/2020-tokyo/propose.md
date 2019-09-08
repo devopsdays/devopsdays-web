@@ -1,8 +1,9 @@
 +++
-date = "2019-08-29T11:01:20-05:00"
-title = "propose"
-type = "event"
+Title = "Propose"
+Type = "event"
+Description = "Propose a talk for devopsdays Tokyo 2020"
 +++
+
   {{< cfp_dates >}}
 
 <hr>
