@@ -29,7 +29,7 @@
     <meta name="twitter:data2" value="{{ dateFormat "January 2" $e.startdate }} - {{ dateFormat "2, 2006" $e.enddate }}" />
     {{- else -}}
     <meta name="twitter:label2" value="Date" />
-     <meta name="twitter:data2" value="{{ dateFormat "January 2, 2006" $e.startdate }}" />
+    <meta name="twitter:data2" value="{{ dateFormat "January 2, 2006" $e.startdate }}" />
     {{- end -}}
   {{- end -}}
   {{- if (where (readDir "static/events") "Name" $e.name) -}}
