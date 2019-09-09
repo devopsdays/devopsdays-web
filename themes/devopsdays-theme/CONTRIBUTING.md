@@ -1,6 +1,6 @@
 # Contributing to devopsdays-theme
 
-The technical details on how to set up your local development environment for making changes to the `devopsdays-theme` [Hugo](https://gohugo.io/) theme for the [Devopsdays](http://www.devopsdays.org/) website.
+The technical details on how to set up your local development environment for making changes to the `devopsdays-theme` [Hugo](https://gohugo.io/) theme for the [devopsdays](http://www.devopsdays.org/) website.
 
 # Table of contents
 <!-- MDTOC maxdepth:6 firsth1:1 numbering:0 flatten:0 bullets:1 updateOnSave:1 -->
@@ -8,7 +8,6 @@ The technical details on how to set up your local development environment for ma
 - [Contributing to devopsdays-theme](#contributing-to-devopsdays-theme)
 - [Table of contents](#table-of-contents)
    - [Dev Setup](#dev-setup)
-   - [How can I help?](#how-can-i-help)
    - [Design Principles](#design-principles)
       - [Frameworks](#frameworks)
       - [Blocks](#blocks)
@@ -17,10 +16,8 @@ The technical details on how to set up your local development environment for ma
          - [`custom-variables.scss`](#custom-variablesscss)
          - [`custom.scss`](#customscss)
       - [Colors and Layout](#colors-and-layout)
-   - [Continuous Integration](#continuous-integration)
-      - [Asset Pipeline](#asset-pipeline)
+   - [Asset Pipeline](#asset-pipeline)
    - [Workflow](#workflow)
-      - [Milestones](#milestones)
       - [Issues](#issues)
          - [Collection of issues](#collection-of-issues)
       - [GitHub Labels](#github-labels)
@@ -38,10 +35,6 @@ One of the more important things to know is that if you are going to make change
 - [gulp](https://gulpjs.com/)
 
 Once you have these install, navigate to the root of `devopsdays-web` in a terminal, and run `npm install` to get all the pieces installed into `devopsdays-web`. The `node_modules` directory is not committed to source control, so you will have to run `npm install` any time you are setting up a new copy of the repo on a workstation.
-
-## How can I help?
-
-Sort the existing GitHub issues for the tag of `ready`. These are issues that can be worked on. If they are already assigned to someone, please consult with that person before starting work. If you are going to work on an issue, please assign it to yourself.
 
 ## Design Principles
 
@@ -67,12 +60,7 @@ This is the only place you should declare custom SCSS or CSS code.
 ### Colors and Layout
 The design and layout can be found in [here](https://drive.google.com/file/d/0BzljU_vIF4BoOHhLV2Yzd2xicEk/view?usp=sharing). Please refer to the [Style Guide](https://github.com/devopsdays/devopsdays-theme/blob/master/STYLE.md) for all colors, fonts, and sizes of text elements, etc.
 
-## Continuous Integration
-The `devopsdays-theme` repo has hooks into Travis, Appveyor, and Netlify. Currently, the Travis build doesn’t do very much (the intent is to add some testing using Casper.js for web testing, but no tests have been written). The Appveyor tests ensure that the site can build with Windows.
-
-All changes are built by Netlify to https://dev.devopsdays.org once merged to master.
-
-### Asset Pipeline
+## Asset Pipeline
 If you make changes to SCSS files, or the `themes/devopsdays-theme/static/js/devopsdays.js` file, you will need to run a `gulp` task to compile the SCSS to CSS and to concatenate and minify the Javascript files.
 
 To run this, navigate to the root of `devopsdays-web` in your terminal, and run `gulp dev`. If you get errors, you likely don't have `node`, `npm`, and/or `gulp` installed. You also may not have run `npm install`.
@@ -120,9 +108,7 @@ These are the labels we use, and what they mean:
 - `do-not-merge`: Only used by pull requests; means that this PR is a work in progress and not ready for merging.
 - `duplicate`: This issue is handled by another issue. When marking an issue "duplicate", please link to the tracked issue.
 - `help wanted`: This is a label for issues where the main contributors are actively seeking outside help.
-- `needs-review`: Only used by pull requests; indicates that a review is required prior to merging.
 - `rfc`: Issues where feedback is needed before moving forward on how to best address.
-- `ready`: This issue can/should be worked on. Issues not marked as "ready" means they haven't been prioritized.
 
 ### Pull Requests
 
