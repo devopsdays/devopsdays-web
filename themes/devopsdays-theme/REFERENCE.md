@@ -23,6 +23,8 @@
 &emsp;[Speaker Page Fields](#speaker-page-fields)
 &emsp;[Program Page Fields](#program-page-fields)
 &emsp;[Blog Post Fields](#blog-post-fields)
+[Other Settings](#other-settings)
+&emsp;[Social Sharing Image](#social-sharing-image)
 [Shortcodes](#shortcodes)
 &emsp;[google_form](#google_form)
 &emsp;[tito_widget](#tito_widget)
@@ -307,6 +309,11 @@ The page of type `program` has one additional frontmatter element.
 | `Author`        | No       | The name of the person who wrote the blog post.                                                                                                                                     | "Matt Stratton"                                                                                                                                                                                                                                                                                      |
 | `title`         | Yes      | The title for the blog post.                                                                                                                                                        | "Chicago 2016 In Review"                                                                                                                                                                                                                                                                             |
 | `sharing_image` | No       | The image to use for social sharing. This is a path relative to the `static` directory.                                                                                             | "img/blog/chicago-2016-sharing.jpg"                                                                                                                                                                                                                                                                  |
+
+## Other Settings
+
+### Social Sharing Image
+An event can create a sharing image for use on social media (when the url is shared on Facebook, for instance). This image must be named `sharing.jpg` and located in the `static/events/YYYY-CITY/` directory. It should be a minimum 1200 x 630px, and use ratio: 1.91:1.
 
 ## Shortcodes
 
