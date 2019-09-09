@@ -1,18 +1,3 @@
-// @codekit-prepend '../../node_modules/jquery/dist/jquery.js'
-// @codekit-prepend '../../node_modules/tether/dist/js/tether.js'
-// @codekit-prepend '../../node_modules/bootstrap/dist/js/bootstrap.js'
-// @codekit-prepend '../components/jquery-oembed-all/jquery.oembed.js'
-// @codekit-prepend '../components/bootstrap-sortable/Scripts/bootstrap-sortable.js'
-// @codekit-prepend '../../node_modules/moment/moment.js'
-// @codekit-prepend '../components/jssocials/dist/jssocials.js'
-
-
-// accordion
-
-// $( function() {
-//   $( "#accordion" ).accordion();
-// } );
-
 var acc = document.getElementsByClassName("accordion");
 var i;
 
