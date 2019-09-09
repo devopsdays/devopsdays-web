@@ -82,9 +82,9 @@ team_members: # Name is the only required field for team members.
     bio: "<p>I am an enthusiast for everything visual:photography, movies and animations, pictograms, infofraphics, visual design, graphical recordings, UX-Design. I also like to combine these skills in crossfunctional teams to enable app development, transformation processes and last but not least communicate and teach DevOps practices in large federal organizations</p>"
     image: "selina-reist.jpg"
   - name: "Lorena Dütsch"
-    bio: "<p>TBD</p>"
+    bio: ""
     Website: 
-    image: "lorena-dutsch.jpg"
+    image: ""
   - name: "Tobias Weinmann"
     bio: "Having worked as a developer, systems engineer and team lead in IT operations, the ideas and concepts behind DevOps are very close to my heart. As I am passionate about coding since my teenage years, I am fascinated by concepts like Infrastructure as Code, Social Coding, and cloud native technologies trying to get hands-on whenever possible. I enjoy lateral thinking and my basic premise is that \"we cannot solve our problems with the same thinking we used when we created them\" (Albert Einstein). In my current role I dedicate all my energy to introducing and spreading DevOps principles and practices in the broader organization."
     linkedin: "https://www.linkedin.com/in/tobias-weinmann"
