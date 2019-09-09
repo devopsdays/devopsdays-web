@@ -2,7 +2,7 @@
 # See https://github.com/spf13/hugoThemes#themetoml for an example
 
 name = "devopsdays Theme"
-license = "MIT"
+license = "Apache2"
 licenselink = "https://github.com/devopsdays/devopsdays-web/blob/master/LICENSE.md"
 description = "Theme for devopsdays.org"
 homepage = "https://github.com/devopsdays/devopsdays-web/"
