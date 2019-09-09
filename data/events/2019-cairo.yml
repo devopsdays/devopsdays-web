@@ -43,7 +43,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: local
   - name: registration
   - name: program
-    url: https://www.secc.org.eg/DevopsDays-Cairo-2019-Agenda.pdf
+    url: https://assets.devopsdays.org/events/2019/cairo/DevopsDays-Cairo-2019-Agenda.pdf
   - name: speakers
   - name: sponsor
   - name: contact
