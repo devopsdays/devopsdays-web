@@ -16,19 +16,19 @@
                   {{- block "main" . }} {{- end -}}
               </div>
             {{- else -}}
-              <div class="col-md-8 push-md-2">
+              <div class="col-md-8 order-md-12">
                   {{- block "main" . }} {{- end -}}
               </div>
-              <div class="col-md-2 pull-md-8">
+              <div class="col-md-2 order-md-1">
                   <a href = "{{ "/events" }}" class="left-nav-navs">PAST EVENTS</a><br />
                   {{- partial "future.html" . -}}
               </div>
             {{- end -}}
           {{- else -}}
-            <div class="col-md-8 push-md-2">
+            <div class="col-md-8 order-md-12">
                 {{- block "main" . }} {{- end -}}
             </div>
-            <div class="col-md-2 pull-md-8">
+            <div class="col-md-2 order-md-1">
                 <a href = "{{ "/events"}}" class="left-nav-navs">PAST EVENTS</a><br />
                 {{- partial "future.html" . -}}
             </div>

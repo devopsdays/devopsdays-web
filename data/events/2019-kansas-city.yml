@@ -200,6 +200,8 @@ sponsors:
     level: social
   - id: newrelic
     level: premium
+  - id: hrblock
+    level: supporting
   
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

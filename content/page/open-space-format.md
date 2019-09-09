@@ -41,6 +41,8 @@ Since the meeting is supposed to be self-organizing, the conveners put their ene
 	<li>Sponsor  introduces the theme. Briefly. One or two minutes max. Long openings  drain the energy of the meeting quickly. Get participants to work ASAP.</li>
 	<li>Facilitators introduce the principles and the format. Explain how the marketplace of ideas works.</li>
 </ol>
+Dan Maher has a <a href="https://github.com/phrawzty/open_spaces.deckset">slidedeck to help explain how the open spaces work.</a>
+
 <strong>Marketplace of ideas</strong>:
 <ol>
 	<li>Participants write ‘issues’ on pieces of paper. Preferably with bold markers, so they are easy to read from a distance.</li>

@@ -130,6 +130,8 @@ sponsors:
     level: community
   - id: 4linux-2019
     level: community
+  - id: altabooks
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

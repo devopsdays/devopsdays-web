@@ -262,54 +262,49 @@ program:
     date: 2019-09-06
     start_time: "14:15"
     end_time: "15:00"
-  - title: "Closing & Draws"
+  - title: "Closing, Draws and Open Space Opening"
     type: custom
     date: 2019-09-06
     start_time: "15:00"
     end_time: "15:15"
-  - title: "Open Space Opening"
-    type: open-space
-    date: 2019-09-06
-    start_time: "15:15"
-    end_time: "15:30"
   - title: "Coffee / Snacks Break"
     type: custom
     date: 2019-09-06
-    start_time: "15:30"
-    end_time: "16:00"
+    start_time: "15:15"
+    end_time: "15:30"
   - title: "herman-lintvelt"
     type: workshop
     date: 2019-09-06
-    start_time: "16:00"
-    end_time: "17:30"
+    start_time: "15:30"
+    end_time: "16:15"
   - title: "Open Space #1"
     type: open-space
     date: 2019-09-06
-    start_time: "16:00"
-    end_time: "16:45"
+    start_time: "15:30"
+    end_time: "16:15"
   - title: "azure-workshops"
     type: workshop
     date: 2019-09-06
     background_color: "#ffcccb"
-    start_time: "16:00"
-    end_time: "16:45"
+    start_time: "15:30"
+    end_time: "16:15"
     comments: "Azure Demos"
   - title: "Open Space #2"
     type: open-space
     date: 2019-09-06
-    start_time: "16:45"
-    end_time: "17:30"
+    start_time: "16:15"
+    end_time: "17:00"
   - title: "azure-workshops"
     type: workshop
     date: 2019-09-06
     background_color: "#ffcccb"
-    start_time: "16:45"
-    end_time: "17:30"
+    start_time: "16:15"
+    end_time: "17:00"
     comments: "Azure Demos"
   - title: "Closing drinks & snacks at hotel bar"
     type: custom
     date: 2019-09-06
-    start_time: "17:30"
+    start_time: "17:00"
     end_time: "19:00"
 
 ignites:
