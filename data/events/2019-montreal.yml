@@ -103,6 +103,8 @@ proposal_email: "proposals-montreal-2019@devopsdays.org" # Put your proposal ema
 sponsors:
    - id: aws
      level: gold
+   - id: cfs-consulting-bmc-mtl
+     level: silver
    - id: cloudops
      level: gold
    - id: cohesity

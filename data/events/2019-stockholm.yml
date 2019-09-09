@@ -130,6 +130,8 @@ sponsors:
     level: silver
   - id: gitlab
     level: silver
+  - id: valtech
+    level: bronze
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
