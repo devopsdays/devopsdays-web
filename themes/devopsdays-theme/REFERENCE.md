@@ -113,7 +113,7 @@ nav_elements
 ```
 The above example would create a new menu item called "Volunteer" which linked to `devopsdays/events/YYYY-CITY/volunteer`, and another menu item called "party" which would link to `http://www.google.com`
 
-The menu items also take an optional parameter of `icon` where you can set the font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/. Example:
+The menu items also take an optional parameter of `icon` where you can set the font-awesome icon that will display on small screens. *Note: This feature is currently deprecated, but it won't break anything if you use this setting* Choose at http://fontawesome.io/icons/. Example:
 
 ```
 nav_elements
