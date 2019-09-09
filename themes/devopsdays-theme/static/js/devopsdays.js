@@ -34,18 +34,6 @@ $(function(){
    $("a.embed").oembed();
 });
 
-// google maps
-(function() {
-  "use strict";
-    var cx = '008769174023796316711:pj3syggtkz0';
-    var gcse = document.createElement('script');
-    gcse.type = 'text/javascript';
-    gcse.async = true;
-    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(gcse, s);
-})();
-
 function getMonth(d) {
   "use strict";
     var dt = new Date(d);
