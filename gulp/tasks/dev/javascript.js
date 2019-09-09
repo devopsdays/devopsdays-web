@@ -6,11 +6,8 @@ var gulp = require('gulp'),
 
 var scripts = [
     'node_modules/jquery/dist/jquery.js',
-    'node_modules/tether/dist/js/tether.js',
     'node_modules/bootstrap/dist/js/bootstrap.js',
     'themes/devopsdays-theme/static/components/jquery-oembed-all/jquery.oembed.js',
-    'themes/devopsdays-theme/static/components/bootstrap-sortable/Scripts/bootstrap-sortable.js',
-    'node_modules/moment/moment.js',
     'node_modules/jssocials/dist/jssocials.js',
     'themes/devopsdays-theme/static/js/devopsdays.js'
 ]
