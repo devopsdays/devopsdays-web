@@ -19,7 +19,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
 <a name="FAQ"><h2>Sponsor FAQ</h2><a/>
 <dl>
 <dt>What exactly will the sponsors have available to them in the sponsors’ room?</dt>
-<dd>For silver sponsors we will provide a high standing table (cocktail table). Gold and platinum sponsors will get the following space allocated to them: 2.5m x 2.5m x 2.5m.  We can provide two tables (70x120 cm) and 4 chairs. Or you you can bring your booth as long as it fits inside the allocated space. We would love it if you would bring your own posters, table signes, rollup banners, etc to spice up your booth. (Birthday ballons anyone?) We have one requirement: it must fit in the allocated space. We can't make any exceptions as that wouldn't be fair for the other sponsors.  We can't promise you will have the posibility to hang banners behind you so it is better to bring rollup banners.
+<dd>For silver sponsors we will provide a high standing table (cocktail table). Gold and platinum sponsors will get the following space allocated to them: 2m x 2m x 2m.  We can provide two tables and 4 chairs. Or you you can bring your booth as long as it fits inside the allocated space. We would love it if you would bring your own posters, table signes, rollup banners, etc to spice up your booth. (Birthday balloons anyone?) We have one requirement: it must fit in the allocated space. We can't make any exceptions as that wouldn't be fair for the other sponsors.  We can't promise you will have the posibility to hang banners behind you so it is better to bring rollup banners. Please let us know which option you pick.
 </dd>
 
 <dt>Where will the sponsors be located?</dt>
@@ -29,10 +29,10 @@ The best thing to do is send engineers to interact with the experts at devopsday
 <dd>The code of conduct applies to all participants of the conference. That includes the sponsors too. Please make sure that your employees have read and understood the {{< event_link page="conduct" text="code of conduct" >}}.</dd>
 
 <dt>What dates/times can we set up and tear down?</dt>
-<dd>Sponsors can access the rooms on October 28, 6pm-8pm or on October 29, starting at 7am. Platinum sponsors will get to pick the location of their booth first. Gold sponsors booth spaces will be first come first served. Tear down must be done before October 30 7pm.</dd>
+<dd>Sponsors can access the rooms on October 29, starting at 7:30am. Platinum sponsors will get to pick the location of their booth first. Gold sponsors booth spaces will be first come first served. Tear down must be done before October 30 7pm.</dd>
 
 <dt>How do we ship to the venue?</dt>
-<dd>Please coordinate all shipping needs with Maarten Dingens from Vooruit. NEED DETAILS HERE</dd>
+<dd>Please coordinate all shipping needs with <a href="mailto:maarten@vooruit.be">Maarten Dings</a> from Vooruit.</dd>
 
 <dt>What should we expect regarding electricity? (how much, any fees, etc)</dt>
 <dd>There are no fees. Your table will be located along the wall with a number of power outlets. We will provide power dividers so you can connect a laptop or screen. </dd>
@@ -56,10 +56,10 @@ The best thing to do is send engineers to interact with the experts at devopsday
 <dd>We are working on a program schedule, please keep checking the program for updates.</dd>
 
 <dt>Can we bring small giveaways, stickers, mugs, pens, etc.?</dt>
-<dd>Of course.</dd>
+<dd>Of course. However we ask you to make it as environment friendly as possible.</dd>
 
 <dt>Can we raffle off stuff (Lego sets, gift cards, iPads, etc.)?</dt>
-<dd>Yes.</dd>
+<dd>Yes. We will do this on the second day just before the closing of the conference. Please reach out to use if you plan on doing this. Here we also ask you to make an environment friendly choice.</dd>
 
 <dt>Will be able to get/scan attendees' details?</dt>
 <dd>Unfortunately for privacy reasons we don't share such details. The name badges will not be scannable. We suggest to ask for our attendees business cards.</dd>
