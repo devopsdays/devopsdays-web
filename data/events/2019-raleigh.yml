@@ -297,11 +297,11 @@ program:
     date: 2019-10-01
     start_time: "16:45"
     end_time: "17:00"
-  - title: "Evening event at Boxcar"
+  - title: "Happy Hour Sponsored by CaddieTech"
     type: custom
     date: 2019-10-01
-    start_time: "17:30"
-    end_time: "19:30"
+    start_time: "17:00"
+    end_time: "19:00"
   - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2019-10-02
@@ -427,7 +427,7 @@ program:
     date: 2019-10-02
     start_time: "15:50"
     end_time: "16:10"
-  - title: "Closing Remarks, Raffle, and Happy Hour"
+  - title: "Closing Happy Hour, Remarks, Raffle"
     type: custom
     date: 2019-10-02
     start_time: "16:10"
