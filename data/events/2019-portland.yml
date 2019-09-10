@@ -88,12 +88,8 @@ proposal_email: "" # Put your proposal email address here
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
 # Platinum
-#  - id: ignw
-#    level: platinum
-#  - id: columbia
-#    level: gold
-#  - id: ignw
-#    level: platinum
+  - id: puppet
+    level: platinum
 # Gold
   - id: datadog
     level: gold
@@ -402,8 +398,8 @@ program:
     end_time: "17:00"
 
 ignites:
-  - title: "allie-richards"
-    date: 2019-09-11
+#  - title: "allie-richards"
+#    date: 2019-09-11
   - title: "matty-stratton"
     date: 2019-09-11
   - title: "ashina-sipiora"

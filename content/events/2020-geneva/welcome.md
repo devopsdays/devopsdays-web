@@ -136,6 +136,14 @@ TOBE DEFINED -->
     {{< event_link page="contact" text="Get in touch with the organisers" >}}
   </div>
 </div>
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Newsletter</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_link page="newsletter" text="Subscribe to our newsletter" >}}
+  </div>
+</div>
 
 <br />
 {{< event_twitter >}}
