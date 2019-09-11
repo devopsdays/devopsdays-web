@@ -20,8 +20,12 @@ It's happening this year .. The 10th year Aniversary edition  <br>
 Come join us in Gent on october 29 and 30.<br>
 And if you have been part of a team organising  a devopsdays  anywhere in the world, U are also welcome to  join us on the 28th !<br>
 
-
 </h5>
+
+<h4>
+Check out the {{< event_link page="speakers" text="speakers!" >}}<br>
+</h4>
+
 <br><br><br>
 </center>
 <div style="text-align:center;">
@@ -77,14 +81,14 @@ And if you have been part of a team organising  a devopsdays  anywhere in the wo
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">

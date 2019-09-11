@@ -1,7 +1,7 @@
 +++
-Title = "Mottaqui Karim"
-Twitter = "the_taqquikarim"
-image = ""
+Title = "Taq Karim"
+Twitter = "taqkarim"
+image = "taq-karim.jpg"
 type = "speaker"
 linktitle = "mottaqui-karim"
 

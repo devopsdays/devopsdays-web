@@ -1,7 +1,9 @@
 {{ partial "google_analytics.html" . }}
 <link href="{{ "/css/site.css" }}" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400,700" rel="stylesheet">
-<link href="{{ "/css/googlemaps.css" }}" rel="stylesheet">
+{{- if eq .Type "speaking" -}}
+  <link href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css" rel="stylesheet">
+{{- end -}}
 
 <link rel="apple-touch-icon" sizes="57x57" href="{{"/apple-icon-57x57.png" }}">
 <link rel="apple-touch-icon" sizes="60x60" href="{{"/apple-icon-60x60.png" }}">
@@ -38,3 +40,22 @@
   <link href="{{ "/events/index.xml" }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
   <link href="{{ "/events/index.xml" }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
 {{ end }}
+
+<script src={{"/js/devopsdays-min.js"}}></script>
+
+{{- if eq .Type "speaking" -}}
+  <script src={{"https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"}}></script>
+
+  <script>
+  $(document).ready(function () {
+
+    $('#cfp-list').DataTable( {
+        "paging":   false,
+        "searching": false,
+        "info":     false,
+        "autoWidth": false,
+        "order": [[ 1, "asc" ]]
+    } );
+  });
+  </script>
+{{- end -}}

@@ -6,7 +6,7 @@ Description = "DevOpsDays Cape Town 2019 will take place September 5-6, 2019!"
 +++
 
 <div class="row">
-  <div class = "col-md-6 push-md-6">
+  <div class = "col-md-6 order-md-12">
     As a community-run event, DevOpsDays Cape Town strives to build awareness and spread lean, collaborative practises to organisations and individuals.
     <br><br>
     Cape Town has a thriving technology sector, respected globally, and bringing this international event here helps bridge local specialists with their global counterparts and broaden the community.
@@ -38,7 +38,7 @@ Description = "DevOpsDays Cape Town 2019 will take place September 5-6, 2019!"
     </div><!-- end a content element -->
 
   </div>
-  <div class = "col-md-6 pull-md-6">
+  <div class = "col-md-6 order-md-1">
      <div class = "row"><!-- begin a content element -->
       <div class = "col-md-12">
       <div class = "row justify-content-center">
