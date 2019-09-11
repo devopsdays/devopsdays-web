@@ -141,8 +141,6 @@ sponsors:
   - id: circleci
     level: silver
 # Bronze
-  - id: compuware
-    level: bronze
   - id: manage-engine
     level: silver
 # Custom
