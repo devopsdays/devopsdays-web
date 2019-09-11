@@ -43,7 +43,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
   - name: registration
     url: https://dodfortaleza2019.eventize.com.br/
- # - name: program
+  - name: program
   - name: speakers
   - name: sponsor
   - name: contact
