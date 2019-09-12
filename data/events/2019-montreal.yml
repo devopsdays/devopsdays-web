@@ -107,6 +107,8 @@ sponsors:
      level: silver
    - id: cloudops
      level: gold
+   - id: cn
+     level: silver
    - id: cohesity
      level: bronze
    - id: containersolutions
