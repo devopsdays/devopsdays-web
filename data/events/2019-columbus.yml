@@ -145,6 +145,8 @@ sponsors:
     level: bronze
   - id: trendmicro
     level: bronze
+  - id: callibrity
+    level: bronze
   - id: compuware
     level: bronze
   - id: stickermule
@@ -324,7 +326,7 @@ program:
   start_time: "9:15"
   end_time: "9:45"
 
-- title: "maarika-krumhansl"
+- title: "maarika-krumhansl-keynote"
   type: talk
   date: 2019-09-19
   start_time: "9:45"
