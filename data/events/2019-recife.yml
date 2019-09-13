@@ -36,15 +36,16 @@ location_address: "Av. Rio Branco, 23 - Recife, PE" #Optional - use the street a
 
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
+#   icon: "" deprecated - This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
  - name: local
    url: /events/2019-recife/local
-   icon: "map-o"
+#   icon: "map-o"
  - name: código de conduta
    url: /events/2019-recife/conduct
-   icon: "handshake-o"
+#   icon: "handshake-o"
  - name: contato
    url: /events/2019-recife/contact
-   icon: "envelope-o"
+#   icon: "envelope-o"
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
