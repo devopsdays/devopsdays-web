@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Attempting to Bring Blamelessness to Traffic Court"
 Type = "talk"
 Speakers = ["j-paul-reed"]
+youtube = "y30n8FY3oVo"
 +++
 
 The new interest in the ideas surrounding blameless retrospective culture and examining the deep role human factors play in our work is changing the way the technology industry understands and responds to service-impacting incidents.
