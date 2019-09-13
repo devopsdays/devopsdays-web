@@ -57,8 +57,8 @@ For question about sponsorship, please email the organizers at [{{< email_organi
     <tr>
       <td>Logo on print banners</td>
       <td>&nbsp;</td>
-      <td>X</td>
-      <td>X</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>Mention on social media</td>
