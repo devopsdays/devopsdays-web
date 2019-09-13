@@ -104,9 +104,13 @@ sponsors:
     level: platina
   - id: localiza
     level: platina
+  - id: picpay
+    level: platina
   - id: grupomult
     level: ouro
   - id: totvs
+    level: ouro
+  - id: mercantildobrasil
     level: ouro
   - id: smarttbot
     level: prata
@@ -121,6 +125,8 @@ sponsors:
   - id: dti
     level: bronze
   - id: elastic
+    level: bronze
+  - id: groovetech
     level: bronze
   - id: vidadeprogramador
     level: community
