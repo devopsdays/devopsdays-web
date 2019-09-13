@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Going Serverless with Java and AWS - Workshop"
 Type = "talk"
 Speakers = ["herman-lintvelt"]
+Slides = "https://github.com/hermanlintvelt/aws-java-serverless"
 +++
 
 How do we design, implement, deploy and operate a backend using a AWS serverless architecture? Come learn in a hands-on way how to implement and managing a real-life backend system that use AWS Lambda, Java, Serverless.com and other serverless tech. Tips and tricks included.

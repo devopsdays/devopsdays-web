@@ -120,6 +120,8 @@ sponsors:
     level: bronze
   - id: dti
     level: bronze
+  - id: elastic
+    level: bronze
   - id: vidadeprogramador
     level: community
   - id: digitalocean
@@ -158,12 +160,14 @@ program:
     date: 2019-09-28
     start_time: "08:00"
     end_time: "09:50"
+    background_color: "#9a81e3"
 
   - title: "Abertura e boas vindas"
     type: custom
     date: 2019-09-28
     start_time: "08:50"
     end_time: "09:00"
+    background_color: "#9a81e3"
 
   - title: "Keynote da Manha - A definir" #arquivo, caso talk
     type: custom # talk
@@ -171,6 +175,7 @@ program:
     date: 2019-09-28
     start_time: "09:00"
     end_time: "09:40"
+    background_color: "#98f095"
 
   - title: "Patrocinadores" #arquivo, caso talk
     type: custom # talk
@@ -206,18 +211,21 @@ program:
     date: 2019-09-28
     start_time: "10:30"
     end_time: "11:00"
+    background_color: "#ff8282"
 
   - title: "Sala Devops 360"
     type: custom
     date: 2019-09-28
     start_time: "10:30"
     end_time: "12:00"
+    background_color: "#e3b464"
     
   - title: "Sala Devops Carreira"
     type: custom
     date: 2019-09-28
     start_time: "10:30"
     end_time: "12:00"
+    background_color: "#e3b464"
 
   - title: "gustavo-pantuza"
     type: talk
@@ -232,6 +240,7 @@ program:
     date: 2019-09-28
     start_time: "11:00"
     end_time: "11:30"
+    background_color: "#ff8282"
 
   - title: "izael-effemberg"
     type: talk
@@ -259,6 +268,7 @@ program:
     date: 2019-09-28
     start_time: "13:00"
     end_time: "15:00"
+    background_color: "#e3b464"
 
   - title: "carol-valencia"
     type: talk
@@ -267,11 +277,19 @@ program:
     start_time: "13:00"
     end_time: "13:30"
 
+  - title: "andre-almar"
+    type: talk
+    comments: Auditorio principal
+    date: 2019-09-28
+    start_time: "14:30"
+    end_time: "15:00"
+
   - title: "Sala Devops Carreira"
     type: custom
     date: 2019-09-28
     start_time: "14:00"
     end_time: "15:00"
+    background_color: "#e3b464"
 
   - title: "Coffee Break" #arquivo, caso talk
     type: custom # talk
@@ -307,6 +325,7 @@ program:
     date: 2019-09-28
     start_time: "17:00"
     end_time: "17:40"
+    background_color: "#98f095"
 
   - title: "Encerramento, patrocinadores e sorteio de brindes" #arquivo, caso talk
     type: custom # talk
@@ -314,3 +333,4 @@ program:
     date: 2019-09-28
     start_time: "17:40"
     end_time: "18:00"
+    background_color: "#9a81e3"

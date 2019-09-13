@@ -139,7 +139,15 @@ sponsors:
     level: silver
   - id: ahead
     level: silver
+  - id: rancher
+    level: silver
   - id: checkpoint
+    level: bronze
+  - id: trendmicro
+    level: bronze
+  - id: callibrity
+    level: bronze
+  - id: compuware
     level: bronze
   - id: stickermule
     level: community
@@ -288,7 +296,7 @@ program:
   end_time: "4:45"
 
 - title: "peter-nijenhuis"
-  type: custom
+  type: talk
   date: 2019-09-18
   start_time: "4:50"
   end_time: "5:30"
@@ -318,7 +326,7 @@ program:
   start_time: "9:15"
   end_time: "9:45"
 
-- title: "maarika-krumhansl"
+- title: "maarika-krumhansl-keynote"
   type: talk
   date: 2019-09-19
   start_time: "9:45"
