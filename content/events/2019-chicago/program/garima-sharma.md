@@ -6,6 +6,7 @@ Title = "Let's play a real life Dungeon and Dragons"
 Type = "talk"
 Speakers = ["garima-sharma"]
 speakerdeck = "https://speakerdeck.com/devopsdayschi/lets-play-a-real-life-dungeon-and-dragons-garima-sharma-devopsdays-chicago-2019"
+youtube = "LKXV8GeFpLs"
 +++
 
 Does your team struggle with context and is scared of going on-call? New team members take a lot of time to get on-boarded? Are you looking for a fun way to increase the knowledge of your team?
