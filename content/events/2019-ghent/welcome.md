@@ -6,7 +6,7 @@ Description = "devopsdays Ghent 2019"
 +++
 
 <div style="text-align:center;">
-  <img alt="DevOpsDays Ghent 2019" src="/events/2019-ghent/logo-square-09.png" style="max-width: 20rem;margin-right:auto;margin-left: auto;"/>
+  {{< event_logo >}}
 </div>
 
 <br><br><br>
