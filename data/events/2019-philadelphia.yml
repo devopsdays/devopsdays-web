@@ -147,7 +147,7 @@ program:
     date: 2019-10-22
     start_time: "10:25"
     end_time: "10:40"
-  - title: "steve-ross"
+  - title: "jearvon-dharrie"
     type: talk
     date: 2019-10-22
     start_time: "10:40"
@@ -243,7 +243,7 @@ program:
     date: 2019-10-23
     start_time: "10:25"
     end_time: "10:40"
-  - title: "TBA"
+  - title: "marco-coulter"
     type: talk
     date: 2019-10-23
     start_time: "10:40"
@@ -307,11 +307,11 @@ program:
 ignites:
   - title: "alan-s-koch"
     date: 2019-10-22
-  - title: "TBA"
+  - title: "steve-ross"
     date: 2019-10-22
-  - title: "TBA"
+  - title: "marco-coulter"
     date: 2019-10-22
-  - title: "TBA"
+  - title: "rachel-sweeney"
     date: 2019-10-22
   - title: "TBA"
     date: 2019-10-23
