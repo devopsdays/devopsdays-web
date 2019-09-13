@@ -202,6 +202,10 @@ sponsors:
     level: premium
   - id: hrblock
     level: supporting
+  - id: azulsystems
+    level: premium
+  - id: teksystems
+    level: lanyard
   
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
