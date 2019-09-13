@@ -263,8 +263,8 @@ program:
     date: 2019-10-23
     start_time: "11:50"
     end_time: "13:00"
-  - title: "Ignites"
-    type: ignite
+  - title: ""
+    type: talk
     date: 2019-10-23
     start_time: "13:00"
     end_time: "13:30"
@@ -309,13 +309,7 @@ ignites:
     date: 2019-10-22
   - title: "steve-ross"
     date: 2019-10-22
-  - title: "marco-coulter"
+  - title: "quantum-computing"
     date: 2019-10-22
   - title: "rachel-sweeney"
     date: 2019-10-22
-  - title: "TBA"
-    date: 2019-10-23
-  - title: "TBA"
-    date: 2019-10-23
-  - title: "TBA"
-    date: 2019-10-23
