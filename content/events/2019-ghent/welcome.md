@@ -5,6 +5,10 @@ aliases = ["/events/2019-ghent/"]
 Description = "devopsdays Ghent 2019"
 +++
 
+<div style="text-align:center;">
+  <img alt="DevOpsDays Ghent 2019" src="/events/2019-ghent/logo-square-09.png" style="max-width: 20rem;margin-right:auto;margin-left: auto;"/>
+</div>
+
 <br><br><br>
 <center>
 <h5>
@@ -16,7 +20,7 @@ After 10 years it is time to come back to where we started the movement<br>
 Time to come back to Ghent  and reflect on  our journey<br>
 Time to look back and forward.<br>
 
-It's happening this year .. The 10th year Aniversary edition  <br>
+It's happening this year .. The 10th year Anniversary edition  <br>
 Come join us in Gent on october 29 and 30.<br>
 And if you have been part of a team organising  a devopsdays  anywhere in the world, U are also welcome to  join us on the 28th !<br>
 
@@ -28,11 +32,6 @@ Check out the {{< event_link page="speakers" text="speakers!" >}}<br>
 
 <br><br><br>
 </center>
-<div style="text-align:center;">
-  {{< event_logo >}}
-</div> 
-
-
 
 
 <div class = "row">
