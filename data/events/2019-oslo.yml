@@ -93,6 +93,11 @@ proposal_email: "proposals-oslo-2019@devopsdays.org" # Put your proposal email a
 # #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 #  - id: arresteddevops
 #    level: community
+sponsors:
+  - id: bekk
+    level: partner
+  - id: capra
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
