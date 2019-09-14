@@ -9,7 +9,7 @@ sponsoring, please drop us an email at [{{< email_organizers >}}].
 
 <hr>
 
-<b>DevOps Days Tampa Bay</b> is a one day conference that
+<b>DevOps Days Tampa Bay</b> is a conference that
 will be held in the Tampa Bay, FL, area. This
 conference hopes to promote awareness of
 bridging the gaps and breaking down silos
@@ -26,13 +26,5 @@ DevOps Community. Your company will be
 recognized as a leader in the Tech community,
 exposing your brand, products, and services
 to Tampa Bay’s Top Tech Talent. We expect
-200 attendees for this event.DevOpsDays
-goal is to bring the highest quality speakers,
-experts and contributors together for two days
-of “Teaching and Learning”. As an event sponsor, you will be branding your company as
-ambassadors to the Tampa Bay DevOps Community. Your company will be recognized as a
-leader in the Tech community, exposing your
-brand, products, and services to Tampa Bay’s
-Top Tech Talent. We expect 200 attendees for
-this event.
+400+ attendees for this event.
 <hr/>
