@@ -94,15 +94,31 @@ sponsors:
     level: gold
   - id: vngrs
     level: gold
+  - id: getir
+    level: gold
   - id: logo-yazilim
     level: silver
   - id: pixery
     level: silver
   - id: f5-nginx
     level: silver
+  - id: bestcloudforme
+    level: silver
+  - id: trlogic
+    level: silver
+  - id: hepsiexpress
+    level: silver
   - id: serverlessturkey
     level: community
   - id: kodcu
+    level: community
+  - id: sliconf
+    level: supporter
+  - id: scotty
+    level: transfer
+  - id: velvet
+    level: bronze
+  - id: mshowto
     level: community
 
 
@@ -125,3 +141,8 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+  - id: supporter
+    label: Supporter
+  - id: transfer
+    label: Transfer
+
