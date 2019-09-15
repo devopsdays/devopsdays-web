@@ -16,16 +16,13 @@
                   {{- block "main" . }} {{- end -}}
               </div>
             {{- else if (eq (index (split (.Permalink | relURL) "/") 1) "organizing") -}}
-              <div class="col-md-8 order-md-6 order-2">
+              <div class="col-md-8 order-md-12">
                   {{- block "main" . }} {{- end -}}
               </div>
-              <div class="col-md-2 order-md-1 order-3">
-                  <a href = "{{ "/events" }}" class="left-nav-navs">PAST EVENTS</a><br />
-                  {{- partial "future.html" . -}}
-              </div>
-             <div class="col-md-2 order-md-12 order-1">
-                 {{.TableOfContents}}
-              </div>
+               <div class="col-md-2 order-md-1">
+                  <a href = "{{ "/events" }}" class="left-nav-navs">Table of Contents</a><br />
+                  {{- partial "toc.html" . -}}
+               </div>
 	    {{- else -}}
               <div class="col-md-8 order-md-12">
                   {{- block "main" . }} {{- end -}}
