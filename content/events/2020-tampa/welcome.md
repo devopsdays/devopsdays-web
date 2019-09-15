@@ -7,10 +7,6 @@ Description = "devopsdays Tampa Bay 2020"
 
 DevOpsDays is coming back to Tampa Bay in 2020! We'll announce dates early 2020.
 
-<!-- <div style="text-align:center;">
-  {{< event_logo >}}
-</div> -->
-
 <div class = "row">
   <div class = "col-md-2">
     <strong>Dates</strong>
@@ -83,8 +79,9 @@ DevOpsDays is coming back to Tampa Bay in 2020! We'll announce dates early 2020.
   </div>
 </div>
 
-<!-- Uncomment if you added your city twitter name -->
-<!--
 {{< event_twitter >}}
--->
+
+<div style="text-align:left;">
+  {{< event_logo >}}
+</div> 
 
