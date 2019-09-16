@@ -115,6 +115,8 @@ sponsors:
     level: gold
   - id: cubos
     level: bronze
+  - id: solutis
+    level: gold
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
