@@ -1,8 +1,8 @@
 +++
 Title = "Chantée Boykin"
-image = "chantée-boykin.jpg"
+image = "chantee-boykin.jpg"
 type = "speaker"
-linktitle = "chantée-boykin"
+linktitle = "chantee-boykin"
 
 +++
 
