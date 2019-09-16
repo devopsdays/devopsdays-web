@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Practical Capacity Planning using Prometheus"
 Type = "talk"
 Speakers = ["andrew-newdigate"]
+Speakerdeck = "https://speakerdeck.com/suprememoocow/devopsdays-cape-town-resource-saturation-monitoring-and-capacity-planning-on-gitlab-dot-com"
 +++
 
 GitLab.com’s monolithic Rails application experiences high week-on-week traffic growth. To ensure availability, GitLab’s Infrastructure team track and plan ahead in order to avoid hitting capacity limits in the application, whether these limits be CPU, database connection pools, memory, storage or any number of other finite resources. Hitting these limits could result in hours, or days, of degraded service while workarounds are put in place.

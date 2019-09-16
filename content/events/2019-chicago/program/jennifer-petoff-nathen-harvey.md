@@ -6,6 +6,7 @@ Title = "Site Reliability Engineering (SRE) and the Art of SLOs"
 Type = "talk"
 Speakers = ["jennifer-petoff", "nathen-harvey"]
 googleslides = "1XP5T5Xtgo7Dn1WffkWMqf_Eo6B7fSm63Pih0rpsU9Mk"
+youtube = "Dfnbw5dJQ5I"
 +++
 
 Site Reliability Engineering (SRE) is a set of principles, practices, and organizational constructs that seek to balance the reliability of a service with the need to continually deliver new features. An error budget is the primary construct used to help balance these seemingly competing goals.

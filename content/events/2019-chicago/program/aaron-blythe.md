@@ -5,7 +5,8 @@ Talk_end_time = ""
 Title = "Failure and the Third Way"
 Type = "talk"
 Speakers = ["aaron-blythe"]
-pdf = "http://aaronblythe.com/images/presentations/third_way_chicago.pdf"
+speakerdeck = "https://speakerdeck.com/devopsdayschi/failure-and-the-third-way-aaron-blythe-devopsdays-chicago-2019"
+youtube = "ahcUma80Rn8"
 +++
 
 From *The Phoenix Project* there are three ways.  This short talk is about the all important third way, which focuses on continual improvement and taking risks.

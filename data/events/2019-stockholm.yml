@@ -50,14 +50,16 @@ team_members: # Name is the only required field for team members.
     twitter: "bruvik"
     image: "anders-bruvik.jpg"
     employer: "Safespring"
-  - name: "Jan Ivar Beddari"
-    twitter: "beddari"
-    image: "jan-ivar-beddari.jpg"
-    employer: "Safespring"
   - name: "Jasmine Crozier"
     twitter: "jasminecph"
     image: "jasmine-crozier.jpg"
     employer: Praqma
+  - name: "Jessica Brown"
+    twitter: "jessalyn"
+    image: "jessica-brown.png"
+    website: "http://jessabe.com/"
+    linkedin: "https://www.linkedin.com/in/jessica-b-6b76b755/"
+    employer: Gin & Juice
   - name: "Johan Virtanen"
     twitter: "Jo_Virtanen"
     employer: Praqma
@@ -235,7 +237,7 @@ program:
     type: custom
     date: 2019-09-17
     start_time: "17:30"
-    end_time: "23:00"
+    end_time: "21:00"
 
   - title: "Breakfast & Sponsors"
     type: custom
@@ -300,7 +302,7 @@ program:
     date: 2019-09-18
     start_time: "15:00"
     end_time: "15:40"
-  - title: "kris-buytaert"
+  - title: "daniel-maher-2"
     type: talk
     date: 2019-09-18
     start_time: "15:50"

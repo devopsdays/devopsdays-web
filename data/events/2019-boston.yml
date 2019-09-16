@@ -171,6 +171,10 @@ sponsors:
     level: gold
   - id: atlassian
     level: gold
+  - id: resilientcoders
+    level: academic
+  - id: vmware
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -191,6 +195,8 @@ sponsor_levels:
     label: a la carte (badges, lanyards, coffee, evening event)
   - id: startup
     label: start-up alley
+  - id: academic
+    label: Academic
 
 program:
   - title: "Registration, Breakfast, Sponsors"

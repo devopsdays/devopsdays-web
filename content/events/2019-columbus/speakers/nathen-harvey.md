@@ -7,4 +7,4 @@ image = "nathen-harvey.jpg"
 type = "speaker"
 linktitle = "nathen-harvey"
 +++
-Nathen Harvey, Cloud Developer Advocate at Google, helps the community understand and apply DevOps and SRE practices in the cloud. Nathen is a co-host of the Food Fight Show, a podcast about Chef and DevOps, and is part of the DevOps Days conferences global organizing committee.
+Nathen Harvey, Cloud Developer Advocate at Google, helps the community understand and apply DevOps and SRE practices in the cloud. Nathen is part of the DevOps Days conferences global organizing committee.
