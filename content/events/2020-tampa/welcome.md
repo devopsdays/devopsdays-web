@@ -68,7 +68,7 @@ DevOpsDays is coming back to Tampa Bay in 2020! We'll announce dates early 2020.
     <strong>Mailing Lists</strong>
   </div>
   <div class = "col-md-8">
-    <a href="http://eepurl.com/dNJbhA">General</a>
+    <a href="https://eepurl.com/dNJbhA">General</a>
   </div>
 </div> 
 <div class = "row">
@@ -76,7 +76,7 @@ DevOpsDays is coming back to Tampa Bay in 2020! We'll announce dates early 2020.
     <strong></strong>
   </div>
   <div class = "col-md-8">
-    <a href="http://eepurl.com/dNIFQQ">Volunteer</a>
+    <a href="https://eepurl.com/dNIFQQ">Volunteer</a>
   </div>
 </div> 
 <div class = "row">
@@ -84,7 +84,7 @@ DevOpsDays is coming back to Tampa Bay in 2020! We'll announce dates early 2020.
     <strong></strong>
   </div>
   <div class = "col-md-8">
-    <a href="http://eepurl.com/dNKngY">Sponsor</a>
+    <a href="https://eepurl.com/dNKngY">Sponsor</a>
   </div>
 </div> 
 <div class = "row">
