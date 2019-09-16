@@ -104,7 +104,6 @@ DevOpsDays is coming back to Tampa Bay in 2020! We'll announce dates early 2020.
   </div>
 </div>
 
-
 <div style="text-align:left;">
   {{< event_logo >}}
 </div> 

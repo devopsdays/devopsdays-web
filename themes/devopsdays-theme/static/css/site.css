@@ -10299,4 +10299,32 @@ h3.program-page {
   font-size: 1.5em;
   font-weight: 300; }
 
+article .article__body nav#toc {
+  background: #f8f9fa;
+  border: 1px solid #a2a9b1;
+  padding: 7px 15px 7px 15px; }
+  article .article__body nav#toc .toc-heading {
+    margin-bottom: 10px; }
+  article .article__body nav#toc .toc {
+    margin-left: 0;
+    margin-bottom: 10px;
+    font-size: 15px;
+    font-weight: 600;
+    list-style: none; }
+    article .article__body nav#toc .toc ol {
+      list-style: none; }
+    article .article__body nav#toc .toc li {
+      margin-top: 15px;
+      line-height: 1.3em;
+      padding: 0; }
+      article .article__body nav#toc .toc li a {
+        display: inline-block; }
+    article .article__body nav#toc .toc li > ol {
+      margin-left: 30px;
+      font-size: inherit; }
+
+@media (max-width: 767.98px) {
+  article .article__body .toc {
+    font-size: 13px; } }
+
 /*# sourceMappingURL=site.css.map */

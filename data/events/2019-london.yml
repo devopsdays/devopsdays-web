@@ -134,11 +134,15 @@ sponsors:
     level: bronze
   - id: enginetransformation
     level: bronze
+  - id: instruqt
+    level: bronze
   - id: pikselgroup
     level: bronze
   - id: skybettingandgaming
     level: bronze
   - id: veracode
+    level: bronze
+  - id: which
     level: bronze
     # Charity
   - id: osmi
