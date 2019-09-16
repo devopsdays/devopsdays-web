@@ -296,8 +296,8 @@ program:
     date: 2019-09-28
     start_time: "13:30"
     end_time: "14:00"
-
-      - title: "gustavo-pantuza"
+    
+  - title: "gustavo-pantuza"
     type: talk
     comments: Auditorio Liberdade
     date: 2019-09-28
