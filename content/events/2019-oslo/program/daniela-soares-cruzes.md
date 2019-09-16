@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Do you even Champion"
+Title = "Do you even Champion?"
 Type = "talk"
 Speakers = ["daniela-soares-cruzes"]
 +++
