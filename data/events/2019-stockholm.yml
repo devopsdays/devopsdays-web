@@ -237,7 +237,7 @@ program:
     type: custom
     date: 2019-09-17
     start_time: "17:30"
-    end_time: "23:00"
+    end_time: "21:00"
 
   - title: "Breakfast & Sponsors"
     type: custom

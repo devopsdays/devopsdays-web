@@ -30,7 +30,7 @@
     "require-dir": "~1.2.0"
   },
   "dependencies": {
-    "netlify-cli": "^2.13.1",
+    "netlify-cli": "^2.15.0",
     "bootstrap": "^4.3.1",
     "font-awesome": "^4.7.0",
     "jquery": "^3.4.1",
