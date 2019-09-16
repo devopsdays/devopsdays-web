@@ -175,7 +175,7 @@ program:
     end_time: "09:00"
     background_color: "#9a81e3"
 
-  - title: "Keynote da Manha - A definir" #arquivo, caso talk
+  - title: "Keynote da Manha - Sergio Passos" #arquivo, caso talk
     type: custom # talk
     comments: Keynote da manhã
     date: 2019-09-28
@@ -197,6 +197,20 @@ program:
     start_time: "10:00"
     end_time: "10:30"
 
+  - title: "armando-jr"
+    type: talk
+    comments: Auditorio sexto andar
+    date: 2019-09-28
+    start_time: "10:30"
+    end_time: "11:00"
+
+  - title: "carol-valencia"
+    type: talk
+    comments: Auditorio Liberdade
+    date: 2019-09-28
+    start_time: "10:30"
+    end_time: "11:00"
+
   - title: "paulo-mendonca"
     comments: Workshop
     type: workshop
@@ -204,41 +218,27 @@ program:
     start_time: "10:30"
     end_time: "12:00"
 
-  - title: "eduardo-ximenes"
-    type: talk
-    comments: Auditorio principal
-    date: 2019-09-28
-    start_time: "10:30"
-    end_time: "11:00"
-
   - title: "mateus-prado"
     type: talk
-    comments: Auditorio sexto andar
+    comments: Auditorio Liberdade
     date: 2019-09-28
-    start_time: "10:30"
-    end_time: "11:00"
+    start_time: "11:00"
+    end_time: "11:30"
     background_color: "#ff8282"
 
-  - title: "Sala Devops 360"
+  - title: "Sala 360 Devops"
     type: custom
     date: 2019-09-28
     start_time: "10:30"
     end_time: "12:00"
     background_color: "#e3b464"
     
-  - title: "Sala Devops Carreira"
+  - title: "Sala Carreira Devops"
     type: custom
     date: 2019-09-28
     start_time: "10:30"
     end_time: "12:00"
     background_color: "#e3b464"
-
-  - title: "gustavo-pantuza"
-    type: talk
-    comments: Auditorio principal
-    date: 2019-09-28
-    start_time: "11:00"
-    end_time: "11:30"
 
   - title: "osanam-junior"
     type: talk
@@ -250,7 +250,14 @@ program:
 
   - title: "izael-effemberg"
     type: talk
-    comments: Auditorio principal
+    comments: Auditorio Liberdade
+    date: 2019-09-28
+    start_time: "11:30"
+    end_time: "12:00"
+
+  - title: "zandler-oliveira"
+    type: talk
+    comments: Auditorio sexto andar
     date: 2019-09-28
     start_time: "11:30"
     end_time: "12:00"
@@ -269,28 +276,56 @@ program:
     start_time: "13:00"
     end_time: "15:00"
 
-  - title: "Sala Devops 360"
+  - title: "Sala 360 Devops"
     type: custom
     date: 2019-09-28
     start_time: "13:00"
     end_time: "15:00"
     background_color: "#e3b464"
 
-  - title: "carol-valencia"
+  - title: "eduardo-ximenes"
     type: talk
-    comments: Auditorio principal
+    comments: Auditorio Liberdade
     date: 2019-09-28
-    start_time: "13:00"
-    end_time: "13:30"
+    start_time: "13:30"
+    end_time: "14:00"
+
+  - title: "bernardo-vale"
+    type: talk
+    comments: Auditorio sexto andar
+    date: 2019-09-28
+    start_time: "13:30"
+    end_time: "14:00"
+
+      - title: "gustavo-pantuza"
+    type: talk
+    comments: Auditorio Liberdade
+    date: 2019-09-28
+    start_time: "14:00"
+    end_time: "14:30"
+
+  - title: "albert-tanure"
+    type: talk
+    comments: Auditorio sexto andar
+    date: 2019-09-28
+    start_time: "13:30"
+    end_time: "14:00"
 
   - title: "andre-almar"
     type: talk
-    comments: Auditorio principal
+    comments: Auditorio Liberdade
     date: 2019-09-28
     start_time: "14:30"
     end_time: "15:00"
 
-  - title: "Sala Devops Carreira"
+  - title: "juliano-silveira"
+    type: talk
+    comments: Auditorio sexto andar
+    date: 2019-09-28
+    start_time: "13:30"
+    end_time: "14:00"
+
+  - title: "Sala Carreira Devops"
     type: custom
     date: 2019-09-28
     start_time: "14:00"
@@ -306,21 +341,35 @@ program:
 
   - title: "alexandre-borges"
     type: talk
-    comments: Auditorio principal
+    comments: Auditorio Liberdade
+    date: 2019-09-28
+    start_time: "15:30"
+    end_time: "16:00"
+
+  - title: "marco-mendes"
+    type: talk
+    comments: Auditorio sexto andar
     date: 2019-09-28
     start_time: "15:30"
     end_time: "16:00"
 
   - title: "joao-brito"
     type: talk
-    comments: Auditorio principal
+    comments: Auditorio Liberdade
     date: 2019-09-28
     start_time: "16:00"
     end_time: "16:30"
 
+  - title: "diego-duarte"
+    type: talk
+    comments: Auditorio sexto andar
+    date: 2019-09-28
+    start_time: "16:30"
+    end_time: "16:30"
+
   - title: "yago-bruno"
     type: talk
-    comments: Auditorio principal
+    comments: Auditorio Liberdade
     date: 2019-09-28
     start_time: "16:30"
     end_time: "17:00"
