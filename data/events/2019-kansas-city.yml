@@ -354,8 +354,8 @@ program:
     date: 2019-10-25
     start_time: "09:00"
     end_time: "09:15"
-  - title: "sonia-gupta"
-    type: talk
+  - title: "Talk Placeholder"
+    type: custom
     date: 2019-10-25
     start_time: "09:15"
     end_time: "09:45"
