@@ -10,7 +10,6 @@ Description = "DevOpsDays Moscow 2019"
 </div>
 
 <br>
-<div style="font-weight: bold;">All Information will be available soon.</div>
 
 <div class = "row">
   <div class = "col-md-2">
