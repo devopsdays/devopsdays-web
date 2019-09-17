@@ -206,6 +206,10 @@ sponsors:
     level: premium
   - id: teksystems
     level: lanyard
+  - id: wistemm
+    level: community
+  - id: tricomts
+    level: supporting
   
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
