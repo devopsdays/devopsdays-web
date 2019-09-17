@@ -94,7 +94,7 @@ Any PRs adding a new local organizer will need to be accompanied by an email to 
 
 ## Social sharing image
 
-A sharing image is added to the Open Graph tags for your event pages, to improve the sharing on social networks such as Facebook (or in Slack). This image must be named `sharing.jpg` and located in `static/events/yyyy-city`. It should be a minimum 1200px x 630px, and use ratio: 1.91:1.
+A sharing image is added to the Open Graph tags for your event pages, to improve the sharing on social networks such as Facebook (or in Slack). This image must be named `sharing.jpg` and located in `static/events/yyyy-city/sharing/`. It should be a minimum 1200px x 630px, and use ratio: 1.91:1.
 
 If no image is provided, then the meta tag will not be created. Facebook might try to infer it, but the links shared will just likely have no images.
 
