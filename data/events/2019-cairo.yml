@@ -38,12 +38,13 @@ location: "Royal Maxim Palace Kempinski Cairo" # Defaults to city, but you can m
 location_address: "Royal Maxim Palace Kempinski Cairo" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+#  - name: propose
   - name: location
   - name: local
   - name: registration
-#  - name: program
-#  - name: speakers
+  - name: program
+    url: https://assets.devopsdays.org/events/2019/cairo/DevopsDays-Cairo-2019-Agenda.pdf
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -93,6 +94,16 @@ sponsors:
    level: gold
  - id: gizasystems
    level: exclusive
+ - id: wuzzuf
+   level: gold
+ - id: sumerge
+   level: gold
+ - id: get
+   level: gold
+ - id: incorta
+   level: gold
+ - id: cegedim
+   level: silver
  #- id: amecse
  #  level: community
  #- id: egyptinnovate
@@ -111,7 +122,7 @@ sponsor_levels:
     max: 1
   - id: gold
     label: Gold
-    max: 5
+    max: 10
   - id: silver
     label: Silver
     max: 0 # This is the same as omitting the max limit.

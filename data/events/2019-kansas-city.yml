@@ -194,6 +194,19 @@ sponsors:
   - id: c2fo
     level: premium
     url: https://stackoverflow.com/jobs/companies/c2fo#jobs-items
+  - id: stackify
+    level: premium
+  - id: new-context
+    level: social
+  - id: newrelic
+    level: premium
+  - id: hrblock
+    level: supporting
+  - id: azulsystems
+    level: premium
+  - id: teksystems
+    level: lanyard
+  
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -296,7 +309,7 @@ program:
     date: 2019-10-24
     start_time: "14:30"
     end_time: "16:30"
-  - title: "rhia-dixon"
+  - title: "paul-meharg"
     type: talk
     date: 2019-10-24
     start_time: "14:30"

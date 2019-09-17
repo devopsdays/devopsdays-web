@@ -6,22 +6,22 @@
   "alwaysNotifyForPaths": [
     {
       "name": "mattstratton",
-      "files": [".gitignore","config.toml","config-windows.toml", "gulpfile.js", "utilities/**/*", "themes/**/*", "content/page/**/*", "static/_redirects", "data/core.toml", ".circleci/config.yml"], 
+      "files": [".gitignore","config.toml","config-windows.toml", "netlify.toml", "gulpfile.js", "utilities/**/*", "themes/**/*", "content/page/**/*", "static/_redirects", "data/core.toml", ".circleci/config.yml"], 
       "skipTeamPrs": true 
     },
         {
       "name": "MikeRosTX",
-      "files": [".gitignore","config.toml","config-windows.toml", "themes/**/*", "content/page/**/*"], 
+      "files": [".gitignore","config.toml","config-windows.toml", "netlify.toml", "themes/**/*", "content/page/**/*"], 
       "skipTeamPrs": true 
     },
         {
       "name": "phrawzty",
-      "files": [".gitignore","config.toml","config-windows.toml",  "themes/**/*", "content/page/**/*"], 
+      "files": [".gitignore","config.toml","config-windows.toml", "netlify.toml",  "themes/**/*", "content/page/**/*"], 
       "skipTeamPrs": true 
     },
     {
       "name": "bridgetkromhout",
-      "files": [".gitignore","config.toml","config-windows.toml", "utilities/**/*", "themes/**/*", "content/page/**/*", "data/core.toml"],
+      "files": [".gitignore","config.toml","config-windows.toml", "netlify.toml", "utilities/**/*", "themes/**/*", "content/page/**/*", "data/core.toml"],
       "skipTeamPrs": false
      }
   ],

@@ -3,9 +3,9 @@ Title = "Sponsor"
 Type = "event"
 Description = "Sponsor devopsdays Montreal 2019"
 +++
-Nous apprécions beaucoup les commandiatires de notre événement. Si vous aimeriez contribuer, <b>lisez les informations <a href="https://objects-qc.cloud.ca/v1/5ef827605f884961b94881e928e7a250/Julia/DevOps%20Days%20Sponsorship%20Deck%202019.pdf" target="_blank">ici</a></b> et envoyez-nous un courriel: [{{< email_organizers >}}].
+Nous apprécions beaucoup les commandiatires de notre événement. Si vous aimeriez contribuer, <b>lisez les informations <a href="https://objects-qc.cloud.ca/v1/5ef827605f884961b94881e928e7a250/Julia/SponsorshipDeck2019%20FREN.pdf" target="_blank">ici</a></b> et envoyez-nous un courriel: [{{< email_organizers >}}].
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please <b>check out the <a href="https://objects-qc.cloud.ca/v1/5ef827605f884961b94881e928e7a250/Julia/DevOps%20Days%20Sponsorship%20Deck%202019.pdf" target="_blank">prospectus</a></b> and  email us at [{{< email_organizers >}}].
+We greatly value sponsors for this open event.  If you are interested in sponsoring, please <b>check out the <a href="https://objects-qc.cloud.ca/v1/5ef827605f884961b94881e928e7a250/Julia/SponsorshipDeck2019%20FREN.pdf" target="_blank">prospectus</a></b> and  email us at [{{< email_organizers >}}].
 
 <hr>
 devopsdays est une conférence organisée pour les praticiens par la communauté et nous dépendons sur les commandites. Nous avons des kiosques pour les commanditaires, mais nous ne faisons pas de présentations de produits et nous ne distribuons pas les listes de contacts des participants. Certains commanditaires ont la possibilité d'avoir de courtes pitch pendant la conférence et seront reconnus sur le site Web et sur les médias sociaux avant, pendant et après l'événement. Les commanditaires sont encouragés à se représenter en participant activement et en engageant avec les participants. Tout participant a également la possibilité de faire la démonstration de produits / projets dans le cadre d'une session en espace ouvert.
