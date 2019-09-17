@@ -1,12 +1,11 @@
 +++
-Title = "devopsdays Medellín 2019"
+Title = "devopsdays Medellín 2020"
 Type = "welcome"
-aliases = ["/events/2019-medellin/"]
-Description = "devopsdays Medellín 2019"
+aliases = ["/events/2020-medellin/"]
+Description = "devopsdays Medellín 2020"
 +++
 
-¡La conferencia inaugural de DevOpsDays llegará a Medellín, Colombia en 2019! <br>
-Anunciaremos las fechas en los próximos meses del 2019.
+¡La conferencia inaugural de DevOpsDays llegará a Medellín, Colombia en 2020! <br>
 
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
