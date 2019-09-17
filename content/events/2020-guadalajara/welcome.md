@@ -9,9 +9,9 @@ Description = "devopsdays Guadalajara 2020"
   {{< event_logo >}}
 </div>
 
-¡La conferencia inaugural de DevOpsDays llegará a Guadalajara en febrero de 2020! <br>
-Anunciaremos las fechas en los próximos meses del 2019.
-The Devopsdays conference arrives to Guadalajara, and it'll be on February 2020!
+¡La conferencia de DevOpsDays llegará a Guadalajara en febrero de 2020!
+<br>
+The DevOpsDays conference arrives to Guadalajara, and it'll be on February 2020!
 
 
 
