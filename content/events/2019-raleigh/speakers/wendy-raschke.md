@@ -1,9 +1,9 @@
 +++
-Title = "Wendy Rashke"
+Title = "Wendy Raschke"
 Twitter = ""
-image = ""
+image = "wendy-raschke.png"
 type = "speaker"
-linktitle = "wendy-rashke"
+linktitle = "wendy-raschke"
 
 +++
 
