@@ -7,8 +7,6 @@ linktitle = "denys-vasyliev"
 
 +++
 
-
-# Lead Software Engineer Globallogic
 Focused on Cloud Native Solutions Architecture, Development and Operations
 
 15+ years in Telecom industry. Certified Kubernetes Administrator (CKA-1900-001601-0100). Network engineer, technical manager, operation team and unit lead, CTO. IP transit operators, Internet Providers and Mobile Network Operators: Beeline, Kyivstar, MTS , Velcom, Mobicom, Azerfon, Azercell, Astelit

@@ -6,10 +6,6 @@ type = "speaker"
 linktitle = "leonardo-di-donato"
 
 +++
-
-
-# Open Source Software Engineer @ Sysdig
-
 Leonardo is an Open Source Software Engineer at Sysdig in the Office of the CTO.
 He is in charge of the Open Source methodologies and projects of Sysdig.
 At the same time he mainly takes care of Falco, a Container Native Runtime security project sandboxed by the CNCF.

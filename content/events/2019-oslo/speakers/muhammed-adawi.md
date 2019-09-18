@@ -6,10 +6,6 @@ type = "speaker"
 linktitle = "muhammed-adawi"
 
 +++
-
-
-# DevOps Consultant at IBM
-
 Muhammad Adawi is a DevOps consultant at IBM with over 7 years of experience. He started his professional career at Hewlett-Packard back in 2011.
 
 His main focus is DevOps, application support and software delivery. During his career, Muhammad helped many customers enable continuous integration and DevOps.
