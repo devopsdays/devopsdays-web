@@ -32,30 +32,30 @@ industry practitioners and taste-makers.
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Dates</strong>
+    <strong>Date</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_start >}} - {{< event_end >}}
+    {{< event_start >}}
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_location >}}
+    <a href="https://2019.devopsrex.fr/content/informations-pratiques">Cité des Sciences et de l'Industrie</a> (Paris, France)
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
+    <a href="https://2019.devopsrex.fr/registration/purchase">Participer à l'évènement</a>
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -84,25 +84,23 @@ industry practitioners and taste-makers.
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="sponsor" text="Sponsor the conference!" >}}
+    <a href="https://2019.devopsrex.fr/registration/devenir-sponsor">Devenir Sponsor</a>
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
     <strong>Contact</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="contact" text="Get in touch with the organizers" >}}
+    <a href="https://2019.devopsrex.fr/content/les-organisateurs">Les organisateurs</a>
   </div>
 </div>
 
 <!-- Uncomment if you added your city twitter name -->
-<!--
 {{< event_twitter >}}
--->

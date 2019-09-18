@@ -37,12 +37,12 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: Informações
     icon: "map-o"
     url: /events/2019-campinas/location
-  # - name: Palestrantes
-  #   icon: "microphone"
-  #   url: /events/2019-campinas/speakers
-  # - name: Programação
-  #   icon: "book"
-  #   url: /events/2019-campinas/program
+  - name: Palestrantes
+    icon: "microphone"
+    url: /events/2019-campinas/speakers
+  - name: Programação
+    icon: "book"
+    url: /events/2019-campinas/program
   # - name: Local
   #   icon: "map-o"
   #   url: /events/2019-campinas/location
@@ -104,8 +104,14 @@ proposal_email: "proposals-campinas-2019@devopsdays.org" # Put your proposal ema
 sponsors:
   - id: aws
     level: gold
+  - id: newrelic
+    level: gold
+  - id: globo
+    level: bronze
   - id: infoq
     level: community
+  - id: elastic
+    level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -126,3 +132,80 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+
+program:
+  - title: "Credenciamento e breakfast"
+    type: custom
+    date: 2019-10-25
+    start_time: "08:00"
+    end_time: "08:30"
+  - title: "tbd"
+    type: talk
+    date: 2019-10-25
+    start_time: "08:30"
+    end_time: "08:40"
+  - title: "tbd"
+    type: talk
+    date: 2019-10-25
+    start_time: "08:40"
+    end_time: "09:25"
+  - title: "tbd"
+    type: talk
+    date: 2019-10-25
+    start_time: "09:25"
+    end_time: "10:00"
+  - title: "tbd"
+    type: talk
+    date: 2019-10-25
+    start_time: "10:00"
+    end_time: "10:35"
+  - title: "tbd"
+    type: talk
+    date: 2019-10-25
+    start_time: "10:35"
+    end_time: "11:10"
+  - title: "tbd"
+    type: talk
+    date: 2019-10-25
+    start_time: "11:10"
+    end_time: "11:45"
+  - title: "tbd"
+    type: custom
+    date: 2019-10-25
+    start_time: "11:45"
+    end_time: "13:45"
+  - title: "tbd"
+    type: talk
+    date: 2019-10-25
+    start_time: "13:50"
+    end_time: "14:25"
+  - title: "tbd"
+    type: talk
+    date: 2019-10-25
+    start_time: "14:25"
+    end_time: "15:00"
+  - title: "tbd"
+    type: talk
+    date: 2019-10-25
+    start_time: "15:00"
+    end_time: "15:55"
+  - title: "tbd"
+    type: talk
+    date: 2019-10-25
+    start_time: "15:55"
+    end_time: "16:30"
+  - title: "tbd"
+    type: custom
+    date: 2019-10-25
+    start_time: "16:30"
+    end_time: "17:00"
+  - title: "tbd"
+    type: talk
+    date: 2019-10-25
+    start_time: "17:00"
+    end_time: "17:45"
+  - title: "Encerramento"
+    type: custom
+    date: 2019-10-25
+    start_time: "17:45"
+    end_time: "17:55"

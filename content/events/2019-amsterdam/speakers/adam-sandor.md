@@ -8,4 +8,4 @@ type = "speaker"
 linktitle = "Adam Sandor"
 +++
 
-Adam moved from application development to a consultancy career in cloud native computing. He currently works at Amsterdam-based consultancy Container Solutions. He is helping companies succeed in improving their delivery of business critical software by combining his application development experience with knowledge of container-base infrastructure.
+After long years of building software and throwing it over the wall, I happily dived into Cloud Native to break that wall down for good. Now I'm spreading the word about Kubernetes, Continuous Delivery and Docker to all who are willing to listen. I mainly do this in my job as a Cloud Native Consultant at Container Solutions.

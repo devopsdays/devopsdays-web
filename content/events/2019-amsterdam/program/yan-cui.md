@@ -7,8 +7,8 @@ Type = "talk"
 Speakers = ["yan-cui"]
 aliases = ["/events/2019-amsterdam/program/yan-cui/"]
 youtube = ""
-slideshare = ""
-slides = ""
+slideshare = "https://www.slideshare.net/theburningmonk/serverless-is-more-findev-than-devops-152220364"
+slides = "https://www.slideshare.net/theburningmonk/serverless-is-more-findev-than-devops-152220364"
 +++
 The pay-per-invocation model of serverless is such an under-appreciated superpower. It lets you work out the cost of each user transaction and understand the return on investment of features. It can even open the door for new business models and pricing strategies once you embrace it.
 

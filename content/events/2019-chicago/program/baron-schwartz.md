@@ -5,6 +5,8 @@ Talk_end_time = ""
 Title = "Bringing DevOps To The Database"
 Type = "talk"
 Speakers = ["baron-schwartz"]
+slides = "https://www.xaprb.com/slides/devopsdays-chicago-2019-devops-database/"
+youtube = "z1PFtlNQivI"
 +++
 
 Most teams find it hard to "do DevOps" in the DB for several reasons. This talk summarizes what I've learned over the last decade, studying teams that succeeded as well as those that tried. I've distilled it all into concrete, practical steps you can take to improve.

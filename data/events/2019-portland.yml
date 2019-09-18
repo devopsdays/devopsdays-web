@@ -11,7 +11,7 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 # Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
 startdate: 2019-09-10T00:00:00-07:00
-enddate: 2019-09-11T23:59:59-07:00
+enddate: 2019-09-12T23:59:59-07:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2019-03-07T00:00:00-07:00 # start accepting talk proposals.
@@ -87,12 +87,10 @@ proposal_email: "" # Put your proposal email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-#  - id: ignw
-#    level: platinum
-#  - id: columbia
-#    level: gold
-#  - id: ignw
-#    level: platinum
+# Platinum
+  - id: puppet
+    level: platinum
+# Gold
   - id: datadog
     level: gold
   - id: sensu
@@ -111,14 +109,51 @@ sponsors:
     level: gold
   - id: gitlab
     level: gold
-  - id: rancher
+  - id: rancher-before-20190812
     level: gold
-  - id: signalfx
-    level: silver
-  - id: googlecloud
-    level: quiet-room
   - id: xmatters
     level: gold
+  - id: chef
+    level: gold
+  - id: instana
+    level: gold
+  - id: dynatrace
+    level: gold
+  - id: sonatype
+    level: gold
+  - id: redhat
+    level: gold
+  - id: vmware
+    level: gold
+# Silver
+  - id: signalfx
+    level: silver
+  - id: netapp
+    level: silver
+  - id: hashicorp-and-redapt
+    level: silver
+  - id: ignw
+    level: silver
+  - id: redislabs
+    level: silver
+  - id: invoca
+    level: silver
+  - id: circleci
+    level: silver
+# Bronze
+  - id: manage-engine
+    level: silver
+# Custom
+  - id: googlecloud
+    level: quiet-room
+  - id: netapp
+    level: lanyard
+  - id: vacasa
+    level: on-call-table
+  - id: ignw
+    level: donut
+  - id: puppet
+    level: evening
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -129,27 +164,51 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: platinum
     label: Platinum
+    max: 1
   - id: gold
     label: Gold
+    max: 16
   - id: silver
     label: Silver
+    max: 12
   - id: bronze
     label: Bronze
   - id: evening
     label: Evening Event
+    max: 2
   - id: specialty
     label: Specialty
   - id: quiet-room
     label: Quiet Room
+    max: 1
+  - id: lanyard
+    label: Lanyard
+    max: 1
+  - id: on-call-table
+    label: On-call Table
+    max: 1
+  - id: donut
+    label: Donut
+    max: 1
   - id: community
     label: Community
 
 program:
-  - title: "Hack day! Bring yourself, some code, and a friend!"
-    type: custom
+  - title: "jj-asghar"
+    type: talk
     date: 2019-09-10
-    start_time: "Noon"
-    end_time: "17:00"
+    start_time: "13:00"
+    end_time: "TBD"
+  - title: "blameless-postmortems"
+    type: talk
+    date: 2019-09-10
+    start_time: "13:00"
+    end_time: "TBD"
+  - title: "stacy-watts"
+    type: talk
+    date: 2019-09-10
+    start_time: "13:00"
+    end_time: "TBD"
   - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2019-09-11
@@ -240,7 +299,7 @@ program:
     date: 2019-09-11
     start_time: "16:50"
     end_time: "17:00"
-  - title: "Evening event"
+  - title: "Evening event - come party at the Puppet offices, 308 SW 2nd Ave!"
     type: custom
     date: 2019-09-11
     start_time: "18:00"
@@ -337,15 +396,15 @@ program:
     end_time: "17:00"
 
 ignites:
-  - title: "allie-richards"
-    date: 2019-09-11
+#  - title: "allie-richards"
+#    date: 2019-09-11
   - title: "matty-stratton"
     date: 2019-09-11
   - title: "ashina-sipiora"
     date: 2019-09-11
   - title: "aaron-aldrich-ignite"
     date: 2019-09-11
-  - title: "nell-shamrellharrington"
+  - title: "terri-haber"
     date: 2019-09-11
 
   - title: "dawn-parzych"

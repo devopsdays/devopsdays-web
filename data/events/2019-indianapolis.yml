@@ -62,24 +62,17 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Garrett Honeycutt"
-    employer: "LearnPuppet.com"
-    twitter: "learnpuppet"
+    employer: "Tailored Automation"
+    twitter: "_ghoneycutt"
     github: "ghoneycutt"
     linkedin: "https://www.linkedin.com/in/garretthoneycutt"
-    website: "http://learnpuppet.com"
+    website: "https://tailoredautomation.io"
     image: "garrett-honeycutt.jpg"
 
   - name: "Andrew Poland"
     employer: ""
     twitter: "fiznarp"
     image: "andrew-poland.jpg"
-
-  - name: "Byron Schaller"
-    employer: "Roundtower"
-    twitter: "byronschaller"
-    github: "byronschaller"
-    linkedin: "https://www.linkedin.com/in/byronschaller"
-    image: "byron-schaller.jpg"
 
   - name: "Bryan Smith"
     employer: "Tacit Labs"
@@ -128,6 +121,26 @@ sponsors:
     level: community
   - id: victorops
     level: gold
+  - id: redhat
+    level: gold
+  - id: nutanix
+    level: gold
+  - id: oraclecloud
+    level: alacarte
+  - id: gitlab
+    level: silver
+  - id: cleanslate
+    level: silver
+  - id: sonatype
+    level: silver
+  - id: newrelic
+    level: platinum
+  - id: kerauno
+    level: silver
+  - id: tailored-automation
+    level: gold
+  - id: mongodb
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -165,12 +178,17 @@ program:
     date: 2019-07-24
     start_time: "13:00"
     end_time: "17:00"
+  - title: "Training - Navigating Your DevOps Journey by John Esser of Veracity Solutions"
+    type: custom
+    date: 2019-07-24
+    start_time: "13:00"
+    end_time: "17:00"
   - title: "Happy hour appetizers"
     type: custom
     date: 2019-07-24
     start_time: "17:00"
     end_time: "18:00"
-  - title: "Registration, Breakfast, Sponsors"
+  - title: "Registration and Breakfast"
     type: custom
     date: 2019-07-25
     start_time: "08:00"
@@ -200,7 +218,7 @@ program:
     date: 2019-07-25
     start_time: "10:25"
     end_time: "10:40"
-  - title: "gerie-owen"
+  - title: "peter-varhol"
     type: talk
     date: 2019-07-25
     start_time: "10:40"
@@ -265,7 +283,7 @@ program:
     date: 2019-07-25
     start_time: "18:00"
     end_time: "late"
-  - title: "Registration, Breakfast, Sponsors"
+  - title: "Registration and Breakfast"
     type: custom
     date: 2019-07-26
     start_time: "08:00"
@@ -359,7 +377,7 @@ program:
 ignites:
   - title: "tiffany-longworth"
     date: 2019-07-25
-  - title: "prabhu-barathi"
+  - title: "martez-reed-intelligentpipelines"
     date: 2019-07-25
   - title: "allie-richards-goldengirls"
     date: 2019-07-25
@@ -376,4 +394,6 @@ ignites:
   - title: "jesse-butler"
     date: 2019-07-26
   - title: "ryan-feiock"
+    date: 2019-07-26
+  - title: "tiffany-longworth-devopspreppers"
     date: 2019-07-26

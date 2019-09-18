@@ -5,6 +5,8 @@ Talk_end_time = ""
 Title = "Deploying Radically, Democratizing Release"
 Type = "talk"
 Speakers = ["heidi-waterhouse"]
+pdf = "https://assets.devopsdays.org/events/2019/chicago/HeidiWaterhouse.pdf"
+youtube = "-ddce0fxfzs"
 +++
 
 The best practice we know is driving to get software out the door more quickly, at an ever-accelerating pace. We admire companies doing Continuous Integration and Continuous Deployment, even if we aren't there ourselves. What can you do to make your software ready for the world more quickly?

@@ -57,8 +57,8 @@ For question about sponsorship, please email the organizers at [{{< email_organi
     <tr>
       <td>Logo on print banners</td>
       <td>&nbsp;</td>
-      <td>X</td>
-      <td>X</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>Mention on social media</td>
@@ -102,6 +102,33 @@ For question about sponsorship, please email the organizers at [{{< email_organi
       <td>&nbsp;</td>
       <td>X</td>
     </tr>
+    <tr>
+      <td>Become a Sponsor now!</td>
+      <td>
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+          <input type="hidden" name="cmd" value="_s-xclick">
+          <input type="hidden" name="hosted_button_id" value="DUXVRH3NHTNW2">
+          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+          <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+        </form>
+      </td>
+      <td>
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+          <input type="hidden" name="cmd" value="_s-xclick">
+          <input type="hidden" name="hosted_button_id" value="MWFBL6YZGPCV6">
+          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+          <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+        </form>
+      </td>
+      <td>
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+          <input type="hidden" name="cmd" value="_s-xclick">
+          <input type="hidden" name="hosted_button_id" value="6Z4NB9QD4Y3LS">
+          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+          <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+        </form>
+      </td>
+    </tr>
   </tbody>
 </table>
 
@@ -121,6 +148,7 @@ All special sponsors will have their logo displayed on the DevOpsDays Hartford w
       <th>Description</th>
       <th>Tickets</th>
       <th>Available</th>
+      <th>Become a Sponsor now!</th>
     </tr>
   </thead>
   <tbody>
@@ -130,13 +158,14 @@ All special sponsors will have their logo displayed on the DevOpsDays Hartford w
       <td>Your logo and company colors</td>
       <td>2</td>
       <td>1</td>
-    </tr>
-    <tr>
-      <td>Live Transcription</td>
-      <td>$4,000</td>
-      <td>Shout-out during opening remarks</td>
-      <td>2</td>
-      <td>1</td>
+      <td>
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+          <input type="hidden" name="cmd" value="_s-xclick">
+          <input type="hidden" name="hosted_button_id" value="EGE46297WL32W">
+          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+          <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+        </form>
+      </td>
     </tr>
     <tr>
       <td>Coffee</td>
@@ -144,6 +173,14 @@ All special sponsors will have their logo displayed on the DevOpsDays Hartford w
       <td>Sign near coffee, "Coffee provided by: $You"</td>
       <td>1</td>
       <td>1</td>
+      <td>
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+          <input type="hidden" name="cmd" value="_s-xclick">
+          <input type="hidden" name="hosted_button_id" value="W53R984WHGXD4">
+          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+          <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+        </form>
+      </td>
     </tr>
   </tbody>
 </table>

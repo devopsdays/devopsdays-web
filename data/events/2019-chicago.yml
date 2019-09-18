@@ -24,7 +24,7 @@ cfp_link: "" #if you have a custom link for submitting proposals, add it here. T
 registration_date_start: 2019-06-14T00:00:00-06:00 # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: 2019-08-26T00:00:00-06:00 # close registration. Leave blank if registration is not open yet.
 
-registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_closed: "true" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 masthead_background: "skyline-night.jpg"
@@ -39,11 +39,11 @@ location_address: "725 West Roosevelt Road, Chicago, Illinois 60608" #Optional -
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
   - name: location
-  - name: registration
+  #- name: registration
   - name: program
   - name: speakers
   - name: sponsor
-  - name: volunteer
+  # - name: volunteer
   - name: contact
   - name: conduct
 # - name: example
@@ -89,11 +89,11 @@ team_members:
   - name: "Christian Herro"
     twitter: "christianherro"
     image: "christian-herro.jpg"
-    employer: "Nextpoint"
+    employer: "Morningstar"
     twitter: "christianherro"
     linkedin: "https://www.linkedin.com/in/christianherro/"
     github : "christianherro"
-    bio: "Christian Herro is the senior infrastructure engineer at Nextpoint, where he does all the infra/sec/etc. things. He co-founded the Madison WI devops meetup and devopsdays MSN. In his free time, he enjoys dancing, board games, live music, eating all of the foods, and spending far too much time thinking about Babylon 5."
+    bio: "Christian Herro is a Lead DevOps Engineer at Morningstar. He co-founded the Madison WI devops meetup and devopsdays MSN. In his free time, he enjoys dancing, board games, live music, eating all of the foods, and spending far too much time thinking about Babylon 5."
   - name: "Trevor Hess"
     twitter: "trevorghess"
     image: "trevor-hess.jpg"
@@ -188,10 +188,62 @@ sponsors:
     level: silver
   - id: objective
     level: wifi
+    url: http://bit.ly/objectiveTDD
   - id: opploans
     level: silver
   - id: logdna
     level: silver
+  - id: zoro
+    level: silver
+  - id: instana
+    level: silver
+  - id: circleci
+    level: silver
+  - id: activecampaign
+    level: lanyard
+  - id: jumpcloud
+    level: gold 
+  - id: morpheus_data
+    level: silver
+  - id: mongodb
+    level: gold
+  - id: tempus
+    level: silver
+  - id: activecampaign
+    level: silver
+  - id: discover
+    level: lunch
+  - id: oraclecloud
+    level: transcription
+  - id: microsoftazure
+    level: gold
+  - id: wavefront
+    level: gold
+  - id: workiva
+    level: gold
+  - id: newrelic
+    level: gold 
+  - id: heroku
+    level: bronze
+  - id: mavenwave
+    level: gold 
+  - id: launch-darkly
+    level: silver
+  - id: chicago-devops
+    level: community
+  - id: blacksintechnology
+    level: community 
+  - id: datadog
+    level: silver
+  - id: redhat
+    level: bronze 
+  - id: bevsechops
+    level: community
+  - id: checkpoint
+    level: bronze
+  - id: centro
+    level: scholarship 
+
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -202,16 +254,28 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Gold
-    max: 0
+    max: 10
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    max: 10 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
   - id: community
     label: Community
   - id: wifi
     label: Wifi
+    max: 1
+  - id: lanyard
+    label: Lanyard
+    max: 1
+  - id: transcription
+    label: Live Transcription
+    max: 1
+  - id: lunch
+    label: Lunch
+    max: 2
+  - id: scholarship
+    label: scholarship
     max: 1
 
 program:
@@ -235,7 +299,7 @@ program:
     date: 2019-08-27
     start_time: "09:45"
     end_time: "09:55"
-  - title: "kylie-schleicher"
+  - title: "heidi-waterhouse-2"
     type: talk
     date: 2019-08-27
     start_time: "09:55"
@@ -272,7 +336,7 @@ program:
     end_time: "13:30"
   - title: "Sponsors"
     type: custom
-    date: 2019-08-28
+    date: 2019-08-27
     start_time: "13:30"
     end_time: "13:40"
   - title: "Open Space Opening"
@@ -323,8 +387,9 @@ program:
   - title: "Evening event"
     type: custom
     date: 2019-08-27
-    start_time: "19:00"
-    end_time: "late"
+    start_time: "17:00"
+    end_time: "20:00"
+    comments: "UIC Forum. Badge Required."
   - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2019-08-28
@@ -370,25 +435,30 @@ program:
     date: 2019-08-28
     start_time: "11:20"
     end_time: "11:50"
-  - title: "Lunch"
+  - title: "Sponsors"
     type: custom
     date: 2019-08-28
     start_time: "11:50"
+    end_time: "12:00"
+  - title: "Lunch"
+    type: custom
+    date: 2019-08-28
+    start_time: "12:00"
     end_time: "13:00"
   - title: "Ignites"
     type: ignite
     date: 2019-08-28
     start_time: "13:00"
     end_time: "13:30"
-  - title: "Sponsors"
-    type: custom
-    date: 2019-08-28
-    start_time: "13:30"
-    end_time: "13:40"
   - title: "Open Space Opening"
     type: open-space
     date: 2019-08-28
-    start_time: "13:40"
+    start_time: "13:30"
+    end_time: "13:50"
+  - title: "Sponsor Giveaways"
+    type: "custom"
+    date: 2019-08-28
+    start_time: "13:50"
     end_time: "14:15"
   - title: "attendee-suggested breakout discussions - Open Space #1"
     type: open-space
@@ -415,7 +485,7 @@ program:
     date: 2019-08-28
     start_time: "15:15"
     end_time: "16:00"
-  - title: "Raffles and Closing Ceremony"
+  - title: "Closing Ceremony"
     type: custom
     date: 2019-08-28
     start_time: "16:00"

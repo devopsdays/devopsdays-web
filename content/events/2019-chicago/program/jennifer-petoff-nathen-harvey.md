@@ -5,6 +5,8 @@ Talk_end_time = ""
 Title = "Site Reliability Engineering (SRE) and the Art of SLOs"
 Type = "talk"
 Speakers = ["jennifer-petoff", "nathen-harvey"]
+googleslides = "1XP5T5Xtgo7Dn1WffkWMqf_Eo6B7fSm63Pih0rpsU9Mk"
+youtube = "Dfnbw5dJQ5I"
 +++
 
 Site Reliability Engineering (SRE) is a set of principles, practices, and organizational constructs that seek to balance the reliability of a service with the need to continually deliver new features. An error budget is the primary construct used to help balance these seemingly competing goals.
@@ -13,7 +15,8 @@ This workshop introduces error budgets and their components: service level indic
 
 By the end of this workshop, participants will be able to:
 
-- Describe the key concepts, namely, Error Budget, Service Level Indicator (SLIs), and Service Level Objectives (SLOs) - Create an error budget for a sample application or service 
+- Describe the key concepts, namely, Error Budget, Service Level Indicator (SLIs), and Service Level Objectives (SLOs)
+- Create an error budget for a sample application or service
 - Create an error budget for their own application or service 
 - Recommend actions to take when the error budget is over consumed
 - Recommend actions to take when excess error budget remains

@@ -1,4 +1,4 @@
-Copyright [2016] [devopsdays]
+Copyright [2016-2019] [devopsdays]
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -16,14 +16,13 @@ This project includes bootstrap and which is available under a 'MIT' License.
 For details, see:
 /LICENSES/BOOTSTRAP-MIT-LICENSE
 
-This project includes bootstrap-sortable and which is available under a 'MIT' License.
+This project includes jssocials, which is available under a 'MIT' License.
 For details, see:
-/LICENSES/BOOTSTRAP-SORTABLE-LICENSE
+/LICENSES/JSSOCIALS-MIT-LICENSE
 
-This project includes hugo-snippets and which is available under a 'MIT' License.
-For details, see:
-/LICENSES/HUGO-SNIPPETS-MIT-LICENSE
+This project includes fonts from Font Awesome, which are available under 'MIT', 'SIL OFL', and 'CC BY' licenses.
+For details, see http://fontawesome.io/license/
 
-This project includes moment and which is available under a 'MIT' License.
-For details, see:
-/LICENSES/MOMENT-MIT-LICENSE
+This project includes jquery, which is available under a 'MIT' license.
+For details, see
+/LICENSES/JQUERY-MIT-LICENSE

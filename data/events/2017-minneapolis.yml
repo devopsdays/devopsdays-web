@@ -144,7 +144,7 @@ sponsors:
     level: gold
   - id: joyent
     level: silver
-  - id: rancher
+  - id: rancher-before-20190812
     level: silver
   - id: platform9
     level: silver
@@ -178,7 +178,7 @@ sponsors:
     level: bronze
   - id: servicenow-before-20180620
     level: bronze
-  - id: checkmarx
+  - id: checkmarx-before-20190621
     level: bronze
   - id: elastic
     level: bronze

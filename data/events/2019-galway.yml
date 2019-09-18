@@ -14,15 +14,15 @@ startdate: "2019-11-18"  # The start date of your event. Leave blank if you don'
 enddate:  "2019-11-19"  # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: "2019-07-01T04:00:00+01:00" # start accepting talk proposals.
+cfp_date_end: "2019-09-01T23:59:59+01:00" # close your call for proposals.
+cfp_date_announce: "2019-09-13T23:59:59+01:00" # inform proposers of status
 
-cfp_open: "false"
+cfp_open: "true"
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: "2019-06-27" # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: "2019-11-16" # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -35,9 +35,9 @@ location: "Galmont Hotel and Spa" # Defaults to city, but you can make it the ve
 location_address: "Galmont Hotel and Spa, Lough Atalia Rd, Galway, Ireland"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
   - name: location
- # - name: registration
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -96,12 +96,12 @@ team_members: # Name is the only required field for team members.
       a keyboard and looking at an LCD screen. When not in front of a computer
       you can find him cycling, swimming or walking around.
   - name: "Coleman Corrigan"
-    employer: "OpenJaw"
+    employer: "Supplychainformulae"
     twitter: "ColemanCorrigan"
     linkedin: "https://www.linkedin.com/in/coleman-corrigan-869a62"
     image: "coleman-corrigan.jpg"
     bio: |
-      Coleman is a Cloud Systems Architect for Openjaw Technologies. He is a long
+      Coleman is a Cloud Systems Architect for Supplychainformulae. He is a long
       time advocate for open source and an engineer at heart, who spends his days
       migrating customer environments onto AWS.
   - name: "Alan Duggan"
@@ -150,10 +150,6 @@ team_members: # Name is the only required field for team members.
       and operations roles. He recently joined Genesys AI lab in Galway as a
       principal engineer working on data engineering and machine learning
       infrastructure.
-  - name: "Joseph Keenan"
-    employer: "Cisco"
-  - name: "Duncan Thomas"
-    employer: "Groupon"
 
 organizer_email: "organizers-galway-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-galway-2019@devopsdays.org" # Put your proposal email address here
@@ -164,6 +160,18 @@ sponsors:
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
  # - id: arresteddevops
  #   level: community
+  - id: ibm
+    level: gold
+  - id: genesys
+    level: gold
+  - id: hpe
+    level: gold
+  - id: googlecloud
+    level: gold
+  - id: avaya
+    level: silver
+  - id: aspect
+    level: silver
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
