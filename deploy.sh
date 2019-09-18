@@ -2,8 +2,8 @@ hugo -v # command to build your site
 cd public # cd into folder containing your built site
 
 git init
-git config user.name "Matt Stratton"
-git config user.email "matt.stratton@gmail.com"
+git config user.name "Giovani Balarini"
+git config user.email "giovani.balarini@spiritlinux.com.br"
 
 echo "www.devopsdays.org" > CNAME # domain your site will live at
 git add .
