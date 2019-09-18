@@ -29,10 +29,10 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 # Location
 #
-coordinates: "25.041082, 121.521024" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "NTUH International Convention Center" # Defaults to city, but you can make it the venue name.
+coordinates: "25.044744, 121.561431" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Taipei New Horizon" # Defaults to city, but you can make it the venue name.
 #
-location_address: "No. 2, Xuzhou Road, Zhongzheng District 100, Taipei City" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "6F., No. 88, Yanchang Rd., Xinyi Dist., Taipei City 110, Taiwan (R.O.C.)" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
