@@ -8,7 +8,7 @@ Description = "devopsdays Oslo 2019"
 
 <div class="row">
   <div class="col-md-4 push-md-2">
-    <img alt="DevOpsDays Hartford 2019" src="/events/2019-hartford/logo.png" class="img-fluid">
+    <img alt="DevOpsDays Oslo 2019" src="/events/2019-oslo/logo.png" class="img-fluid">
   </div>
   <div class="col-md-6 push-md-2" style="display: flex; align-items: center; flex-direction: row;">
     <div class="col-md-12">
