@@ -122,7 +122,7 @@ program:
     date: 2019-10-22T00:00:00+02:00
     start_time: "09:00"
     end_time: "09:15"
-  - title: "c"
+  - title: "TBA"
     type: talk
     date: 2019-10-22T00:00:00+02:00
     start_time: "09:15"
@@ -152,7 +152,7 @@ program:
     date: 2019-10-22T00:00:00+02:00
     start_time: "11:10"
     end_time: "11:20"
-  - title: "denys-vasyliev"
+  - title: "TBA"
     type: talk
     date: 2019-10-22T00:00:00+02:00
     start_time: "11:20"
@@ -207,7 +207,7 @@ program:
     date: 2019-10-23T23:59:59+02:00
     start_time: "09:00"
     end_time: "09:15"
-  - title: "krikor-maroukian"
+  - title: "TBA"
     type: talk
     date: 2019-10-23T23:59:59+02:00
     start_time: "09:15"
@@ -217,7 +217,7 @@ program:
     date: 2019-10-23T23:59:59+02:00
     start_time: "09:45"
     end_time: "09:55"
-  - title: "leonardo-di-donato"
+  - title: "TBA"
     type: talk
     date: 2019-10-23T23:59:59+02:00
     start_time: "09:55"
@@ -227,7 +227,7 @@ program:
     date: 2019-10-23T23:59:59+02:00
     start_time: "10:25"
     end_time: "10:40"
-  - title: "marta-paciorkowska"
+  - title: "TBA"
     type: talk
     date: 2019-10-23T23:59:59+02:00
     start_time: "10:40"
@@ -237,7 +237,7 @@ program:
     date: 2019-10-23T23:59:59+02:00
     start_time: "11:10"
     end_time: "11:20"
-  - title: "muhammed-adawi"
+  - title: "TBA"
     type: talk
     date: 2019-10-23T23:59:59+02:00
     start_time: "11:20"
