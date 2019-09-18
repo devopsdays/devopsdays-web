@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "DevOps challenges in an offshore / onshore distriputed project"
+Title = "DevOps challenges in an offshore / onshore distributed project"
 Type = "talk"
 Speakers = ["muhammed-adawi"]
 +++
