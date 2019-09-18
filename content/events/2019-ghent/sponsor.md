@@ -29,7 +29,8 @@ The best thing to do is send engineers to interact with the experts at devopsday
 <dd>The code of conduct applies to all participants of the conference. That includes the sponsors too. Please make sure that your employees have read and understood the {{< event_link page="conduct" text="code of conduct" >}}.</dd>
 
 <dt>What dates/times can we set up and tear down?</dt>
-<dd>Sponsors can access the rooms on October 29, starting at 7:30am. Platinum sponsors will get to pick the location of their booth first. Gold sponsors booth spaces will be first come first served. Tear down must be done before October 30 7pm.</dd>
+<dd>Sponsors can access the rooms on October 29, starting at 7:30am. Platinum sponsors will be individually contacted to chose their booth. Gold and silver sponsors will be assigned by the organizers. Sponsors will be notified approximately 2 weeks before the event on their booth locations.
+We will make sure your table has the equipment that was shipped. Tear down must be done before October 30 7pm.</dd>
 
 <dt>How do we ship to the venue?</dt>
 <dd>Please coordinate all shipping needs with <a href="mailto:maarten@vooruit.be">Maarten Dings</a> from Vooruit.</dd>
@@ -72,6 +73,15 @@ The best thing to do is send engineers to interact with the experts at devopsday
 
 <dt>How can we reach out to the attendees through Twitter & LinkedIn Announcements</dt>
 <dd>Please tweet with the hashtags #devopsdaysghent and #devopsdays. Before, during and after the event you can get announcments and stay in touch with us by following us on Twitter {{< event_twitter >}}</dd>
+
+<dt>Our sponsor package includes tickets for the speaker dinner, how do we distribute those tickets?</dt>
+<dd>You can choose who to send to the speaker dinner. Once you have have decided who can attend please mail mail their names to [{{< email_organizers >}}] and we will add them to our list.</dd>
+
+<dt>Can we have our booth also on Monday October 28?<dt>
+<dd>Monday October 28 is reserved for the devopsdays organizers from over the world. There are no sponsors booths then.</dd>
+
+<dt>Which hotels can we stay in?</dt>
+<dd><a href="https://visit.gent.be/en/accommodation">This page has a nice selection.</a></dd>
 </dl>
 
 <!--
