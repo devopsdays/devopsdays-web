@@ -5,10 +5,10 @@ Talk_end_time = ""
 Title = "'TECH-LIVES MATTER, HANDS UP, DON'T REBOOT'"
 Type = "talk"
 Speakers = ["crux-conception"]
-Youtube = ""
+Youtube = "cS0MZfk2wz4"
 Vimeo = ""
 Speakerdeck = ""
-Slideshare = ""
+Slideshare = "https://www.slideshare.net/DevOpsDaysDFW/crux-conception-techlives-matter-hands-up-dont-reboot"
 Slides = ""
 Website = "https://www.linkedin.com/in/crux-conception/"
 +++

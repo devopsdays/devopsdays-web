@@ -5,10 +5,10 @@ Talk_end_time = ""
 Title = "Understanding Risk Can Fund Transformation"
 Type = "talk"
 Speakers = ["dan-barker"]
-Youtube = ""
+Youtube = "wMf3YNTqDFc"
 Vimeo = ""
 Speakerdeck = ""
-Slideshare = ""
+Slideshare = "https://www.slideshare.net/DevOpsDaysDFW/dan-barker-understanding-risk-can-fund-transformation"
 Slides = ""
 Website = "https://www.linkedin.com/in/dan-barker/"
 +++

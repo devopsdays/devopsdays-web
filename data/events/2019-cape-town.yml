@@ -112,8 +112,6 @@ sponsor_levels:
     label: Silver
   - id: basic
     label: Basic
-  - id: starter
-    label: Starter
   - id: community
     label: Community
 
@@ -148,12 +146,18 @@ program:
     date: 2019-09-05
     start_time: "11:00"
     end_time: "11:30"
+  - title: Azure DevOps Introduction
+    type: custom
+    date: 2019-09-05
+    start_time: "11:00"
+    end_time: "11:30"
+    background_color: "#ffcccb"
   - title: "rory-preddy"
     type: talk
     date: 2019-09-05
     start_time: "11:30"
     end_time: "12:15"
-  - title: "devi-moodley"
+  - title: "gareth-mccumskey"
     type: talk
     date: 2019-09-05
     start_time: "12:15"
@@ -163,40 +167,49 @@ program:
     date: 2019-09-05
     start_time: "13:00"
     end_time: "14:30"
-  - title: "Speaker to be confirmed"
-    type: custom
+  - title: "Ignites"
+    type: ignite
     date: 2019-09-05
     start_time: "14:30"
     end_time: "15:15"
-  - title: "gareth-mccumskey"
-    type: talk
-    date: 2019-09-05
-    start_time: "15:15"
-    end_time: "16:00"
   - title: "Open Space Opening"
     type: open-space
     date: 2019-09-05
-    start_time: "16:00"
-    end_time: "16:15"
+    start_time: "15:15"
+    end_time: "15:30"
   - title: "Coffee / Snacks Break"
     type: custom
     date: 2019-09-05
-    start_time: "16:15"
-    end_time: "16:45"
+    start_time: "15:30"
+    end_time: "16:00"
   - title: "Open Space #1"
+    type: open-space
+    date: 2019-09-05
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "azure-workshops"
+    type: workshop
+    date: 2019-09-05
+    background_color: "#ffcccb"
+    start_time: "16:00"
+    end_time: "16:45"
+    comments: "Azure Labs"
+  - title: "Open Space #2"
     type: open-space
     date: 2019-09-05
     start_time: "16:45"
     end_time: "17:30"
-  - title: "Open Space #2"
-    type: open-space
+  - title: "azure-workshops"
+    type: workshop
     date: 2019-09-05
-    start_time: "17:30"
-    end_time: "18:15"
+    background_color: "#ffcccb"
+    start_time: "16:45"
+    end_time: "17:30"
+    comments: "Azure Labs"
   - title: "Evening Event at Woodstock Lounge"
     type: custom
     date: 2019-09-05
-    start_time: "18:15"
+    start_time: "17:30"
     end_time: "late"
 
   - title: "Registration, Breakfast, Sponsors"
@@ -219,7 +232,7 @@ program:
     date: 2019-09-06
     start_time: "09:55"
     end_time: "10:00"
-  - title: "kingori-maina"
+  - title: "devi-moodley"
     type: talk
     date: 2019-09-06
     start_time: "10:00"
@@ -234,8 +247,8 @@ program:
     date: 2019-09-06
     start_time: "11:15"
     end_time: "12:00"
-  - title: "Speaker to be confirmed"
-    type: custom
+  - title: "kingori-maina"
+    type: talk
     date: 2019-09-06
     start_time: "12:00"
     end_time: "12:45"
@@ -244,48 +257,58 @@ program:
     date: 2019-09-06
     start_time: "12:45"
     end_time: "14:15"
-  - title: "Speaker to be confirmed"
-    type: custom
-    date: 2019-09-06
-    start_time: "14:15"
-    end_time: "15:00"
   - title: "karl-fischer"
     type: talk
     date: 2019-09-06
-    start_time: "15:00"
-    end_time: "15:45"
-  - title: "Closing & Draws"
+    start_time: "14:15"
+    end_time: "15:00"
+  - title: "Closing, Draws and Open Space Opening"
     type: custom
     date: 2019-09-06
-    start_time: "15:45"
-    end_time: "16:00"
-  - title: "Open Space Opening"
-    type: open-space
-    date: 2019-09-06
-    start_time: "16:00"
-    end_time: "16:15"
+    start_time: "15:00"
+    end_time: "15:15"
   - title: "Coffee / Snacks Break"
     type: custom
     date: 2019-09-06
-    start_time: "16:15"
-    end_time: "16:45"
+    start_time: "15:15"
+    end_time: "15:30"
   - title: "herman-lintvelt"
     type: workshop
     date: 2019-09-06
-    start_time: "16:45"
-    end_time: "18:15"
+    start_time: "15:30"
+    end_time: "16:15"
   - title: "Open Space #1"
     type: open-space
     date: 2019-09-06
-    start_time: "16:45"
-    end_time: "17:30"
+    start_time: "15:30"
+    end_time: "16:15"
+  - title: "azure-workshops"
+    type: workshop
+    date: 2019-09-06
+    background_color: "#ffcccb"
+    start_time: "15:30"
+    end_time: "16:15"
+    comments: "Azure Demos"
   - title: "Open Space #2"
     type: open-space
     date: 2019-09-06
-    start_time: "17:30"
-    end_time: "18:15"
+    start_time: "16:15"
+    end_time: "17:00"
+  - title: "azure-workshops"
+    type: workshop
+    date: 2019-09-06
+    background_color: "#ffcccb"
+    start_time: "16:15"
+    end_time: "17:00"
+    comments: "Azure Demos"
   - title: "Closing drinks & snacks at hotel bar"
     type: custom
     date: 2019-09-06
-    start_time: "18:15"
+    start_time: "17:00"
     end_time: "19:00"
+
+ignites:
+  - title: "keegan-carruthers-smith"
+    date: 2019-09-05
+  - title: "wade-catlyn"
+    date: 2019-09-05

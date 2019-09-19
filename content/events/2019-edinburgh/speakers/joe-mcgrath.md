@@ -2,7 +2,7 @@
 Title = "Joe McGrath"
 Twitter = "JoeMcGrathTech"
 type = "speaker"
-image = ""
+image = "joe-mcgrath.jpg"
 linktitle = "joe-mcgrath"
 
 +++

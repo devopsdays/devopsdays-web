@@ -94,9 +94,11 @@ sponsors:
     level: gold
   - id: chef
     level: gold
-  - id: google-cloud
+  - id: googlecloud
     level: gold
   - id: influxdata
+    level: gold
+  - id: jfrog
     level: gold
   - id: pivotal
     level: gold
@@ -119,7 +121,11 @@ sponsors:
     level: silver
   - id: octopus-deploy
     level: silver
+  - id: oracle-linux
+    level: silver
   - id: tecknuovo
+    level: silver
+  - id: xmatters
     level: silver
     # Bronze
   - id: buildkite
@@ -128,11 +134,15 @@ sponsors:
     level: bronze
   - id: enginetransformation
     level: bronze
+  - id: instruqt
+    level: bronze
   - id: pikselgroup
     level: bronze
-  - id: skybet
+  - id: skybettingandgaming
     level: bronze
   - id: veracode
+    level: bronze
+  - id: which
     level: bronze
     # Charity
   - id: osmi

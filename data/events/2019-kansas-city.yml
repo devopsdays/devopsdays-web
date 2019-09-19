@@ -183,10 +183,34 @@ sponsors:
   - id: circleci
     level: premium
   - id: tgs
-    level: supporting
+    level: breakfast
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
+  - id: plexpod
+    level: premium
+  - id: sumologic
+    level: premium
+  - id: c2fo
+    level: premium
+    url: https://stackoverflow.com/jobs/companies/c2fo#jobs-items
+  - id: stackify
+    level: premium
+  - id: new-context
+    level: social
+  - id: newrelic
+    level: premium
+  - id: hrblock
+    level: supporting
+  - id: azulsystems
+    level: premium
+  - id: teksystems
+    level: lanyard
+  - id: wistemm
+    level: community
+  - id: tricomts
+    level: supporting
+  
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -198,9 +222,16 @@ sponsor_levels:
   - id: premium
     label: Premium
 #    max: 10
-  - id: special
-    label: Special
-    max: 0 # This is the same as omitting the max limit.
+  - id: lanyard
+    label: Lanyard
+  - id: breakfast
+    label: Breakfast
+  - id: lunch
+    label: Lunch
+  - id: social
+    label: Evening Social
+  - id: coffee
+    label: Coffee
   - id: supporting
     label: Supporting
   - id: community
@@ -282,7 +313,7 @@ program:
     date: 2019-10-24
     start_time: "14:30"
     end_time: "16:30"
-  - title: "rhia-dixon"
+  - title: "paul-meharg"
     type: talk
     date: 2019-10-24
     start_time: "14:30"
@@ -323,16 +354,16 @@ program:
     date: 2019-10-25
     start_time: "09:00"
     end_time: "09:15"
-  - title: "sonia-gupta"
-    type: talk
+  - title: "Talk Placeholder"
+    type: custom
     date: 2019-10-25
     start_time: "09:15"
     end_time: "09:45"
   - title: "Sponsors + Open Space Kickoff"
     type: custom
     date: 2019-10-25
-    start_time: "09:40"
-    end_time: "09:45"
+    start_time: "09:45"
+    end_time: "10:00"
   - title: "attendee-suggested breakout discussions - Open Spaces"
     type: open-space
     date: 2019-10-25

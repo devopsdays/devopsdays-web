@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Lessons from failure: the Mark 14"
 Type = "talk"
 Speakers = ["jason-yee"]
+youtube = "i-YDWx4jLoY"
 +++
 
 At the beginning of the second world war, the US Navy faced a drastic shortage of torpedoes. With the war rapidly escalating, they needed to build their supply quickly and under a tight budget. But given the old adage, “fast, good, cheap: pick two,” this resulted in a torpedo plagued with problems.

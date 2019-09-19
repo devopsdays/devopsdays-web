@@ -163,6 +163,18 @@ sponsors:
     level: startup
   - id: cryptomove
     level: startup
+  - id: smartronix
+    level: gold
+  - id: toast
+    level: gold
+  - id: scalyr
+    level: gold
+  - id: atlassian
+    level: gold
+  - id: resilientcoders
+    level: academic
+  - id: vmware
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -183,6 +195,8 @@ sponsor_levels:
     label: a la carte (badges, lanyards, coffee, evening event)
   - id: startup
     label: start-up alley
+  - id: academic
+    label: Academic
 
 program:
   - title: "Registration, Breakfast, Sponsors"
@@ -195,7 +209,7 @@ program:
     date: 2019-09-23
     start_time: "09:00"
     end_time: "09:30"
-  - title: "sonia-gupta"
+  - title: "arthur-maltson"
     type: talk
     date: 2019-09-23
     start_time: "09:30"
@@ -255,8 +269,8 @@ program:
     date: 2019-09-23
     start_time: "13:00"
     end_time: "13:30"
-  - title: "arthur-maltson"
-    type: talk
+  - title: "Community Lightning Talks"
+    type: custom
     date: 2019-09-23
     start_time: "13:35"
     end_time: "14:05"

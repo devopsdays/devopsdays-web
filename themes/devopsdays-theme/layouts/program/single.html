@@ -34,6 +34,12 @@
     {{- with .Params.pdf -}}
       {{- $.Scratch.Set (printf "%s-slides_link" ($.Scratch.Get "base_file_name")) . }}
     {{- end -}}
+    {{- with .Params.notist -}}
+      {{- $.Scratch.Set (printf "%s-slides_link" ($.Scratch.Get "base_file_name")) (printf "https://noti.st/%s" .) }}
+    {{- end -}}
+    {{- with .Params.slideslive -}}
+      {{- $.Scratch.Set (printf "%s-slides_link" ($.Scratch.Get "base_file_name")) . }}
+    {{- end -}}
     {{- with .Params.slides -}}
       {{- $.Scratch.Set (printf "%s-slides_link" ($.Scratch.Get "base_file_name")) . }}
     {{- end -}}

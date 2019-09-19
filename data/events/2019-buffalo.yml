@@ -49,11 +49,28 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Quintessence Anx"
-    employer: "Logz.io"
+    bio: "Quintessence has worked in the IT community for over 10 years, including as a database administrator and a DevOps / Cloud / Infrastructure engineer. She was also a core contributor to Stark & Wayne’s SHIELD project, which adds backup functionality to Cloud Foundry, as well as a technical reviewer for Learning Go Programming published by Packt Publishing. Currently she is a Technical Evangelist, focusing on community engagement related to DevOps. Outside of work she is a leader and co-founder of Inclusive Tech Buffalo to help underrepresented groups in tech launch careers in development. Headshot by [Olga Nelioubov](https://www.olganelioubov.com/)"
+    twitter: "QuintessenceAnx"
+    image: "quintessence.jpg"
+    linkedin: "https://www.linkedin.com/in/quintessenceanx/"
   - name: "PJ Hagerty"
     employer: "DevRelate.io"
+    twitter: "aspleenic"
+    bio: "Developer, writer, speaker, musician, and Community Advocate, PJ is the founder of DevRelate.io. He is known to travel the world speaking about programming and the way people think and interact.  He is also known for wearing hats."
+    website: "http://www.devrelate.io/"
+    image: "pj.jpg"
+    linkedin: "https://linkedin.com/in/pjhagerty/"
+    github: "https://github.com/aspleenic/"
   - name: "Tyler Poland"
     employer: "Stark & Wayne"
+    bio: "Technical Director at Stark & Wayne and an organizer and speaker of the @BuffaloData meetup group. He has almost 20 years experience in Information Technology which is heavily influenced by more than decade focusing on Cloud Operations, Application Support, and Database Technologies."
+    twitter: "tylerpoland"
+    image: "tylerp.jpg"
+  - name: "Stephanie Danielsson"
+    employer: "Kaleidoscope Ads"
+    bio: "Stephanie Danielsson is a Marketing & Communications Consultant who specializes in strategic marketing plans, content marketing & branding. She is passionate about helping people & companies tell their stories in meaningful ways to engage with their communities. She is also a fitness nut & amateur coffee snob."
+    twitter: "kaleidoscopeads"
+    image: "stephanie.jpg"
 
 organizer_email: "organizers-buffalo-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-buffalo-2019@devopsdays.org" # Put your proposal email address here
@@ -103,6 +120,8 @@ sponsors:
     level: community
   - id: quickbrownfoxlabs
     level: bronze
+  - id: storjlabs
+    level: bronze
 
 
 
@@ -136,7 +155,7 @@ program:
     date: 2019-09-26T00:00:00-04:00
     start_time: "08:45"
     end_time: "09:00"
-  - title: "bryan-liles"
+  - title: "ken-mugrage"
     type: talk
     date: 2019-09-26T00:00:00-04:00
     start_time: "09:00"
@@ -146,7 +165,7 @@ program:
     date: 2019-09-26T00:00:00-04:00
     start_time: "09:40"
     end_time: "10:10"
-  - title: "chris-van-tuin"
+  - title: "stacey-jenkins"
     type: talk
     date: 2019-09-26T00:00:00-04:00
     start_time: "10:20"
@@ -186,7 +205,7 @@ program:
     date: 2019-09-26T00:00:00-04:00
     start_time: "16:10"
     end_time: "16:40"
-  - title: "stacey-jenkins"
+  - title: "chris-van-tuin"
     type: talk
     date: 2019-09-26T00:00:00-04:00
     start_time: "16:45"
@@ -196,7 +215,7 @@ program:
     date: 2019-09-26T00:00:00-04:00
     start_time: "17:15"
     end_time: "17:30"
-  - title: "Evening event"
+  - title: "Evening event - Karaoke Party at the Savoy!"
     type: custom
     date: 2019-09-26T00:00:00-04:00
     start_time: "19:00"
@@ -211,12 +230,12 @@ program:
     date: 2019-09-27T23:59:59-04:00
     start_time: "08:45"
     end_time: "09:00"
-  - title: "ken-mugrage"
+  - title: "nell-shamrell-harrington"
     type: talk
     date: 2019-09-27T23:59:59-04:00
     start_time: "09:00"
     end_time: "09:30"
-  - title: "nell-shamrell-harrington"
+  - title: "ralph-bankston"
     type: talk
     date: 2019-09-27T23:59:59-04:00
     start_time: "09:40"

@@ -110,7 +110,26 @@ proposal_email: "proposals-edinburgh-2019@devopsdays.org" # Put your proposal em
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-
+  - id: chef
+    level: gold
+  - id: freeagent
+    level: gold
+  - id: ncredinburgh
+    level: bronze
+  - id: stv.tv
+    level: bronze
+  - id: wood-mackenzie
+    level: gold
+#  - id: ecs-digital
+#    level: gold
+#  - id: skyscanner
+#    level: gold
+#  - id: nhs
+#    level: gold
+#  - id: exceptionuk
+#    level: bronze
+#  - id: woodmck
+#    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -139,7 +158,7 @@ program:
     date: 2019-10-17
     start_time: "09:05"
     end_time: "09:15"
-  - title: "ali-hill"
+  - title: "-"
     type: talk
     date: 2019-10-17
     start_time: "09:15"
@@ -277,7 +296,7 @@ program:
     date: 2019-10-18
     start_time: "10:15"
     end_time: "10:45"
-  - title: "-"
+  - title: "adarsh-shah-and-priyanka-rao"
     type: talk
     date: 2019-10-18
     start_time: "10:45"
@@ -287,12 +306,12 @@ program:
     date: 2019-10-18
     start_time: "11:15"
     end_time: "11:30"
-  - title: "-"
+  - title: "ali-hill"
     type: talk
     date: 2019-10-18
     start_time: "11:30"
     end_time: "12:00"
-  - title: "-"
+  - title: "nataliya-remez"
     type: talk
     date: 2019-10-18
     start_time: "12:00"

@@ -18,7 +18,7 @@ cfp_date_start: 2019-07-25T00:00:00-04:00 # start accepting talk proposals.
 cfp_date_end: 2019-09-15T23:59:59-04:00 # close your call for proposals.
 cfp_date_announce: 2019-10-01T00:00:00-04:00 # inform proposers of status
 
-cfp_link: "https://dodmtl.ca/dodmtl19/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://www.papercall.io/cfps/2551/submissions/new" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2019-07-29T00:00:00-04:00# start accepting registration. Leave blank if registration is not open yet
 registration_date_end: 2019-11-04T20:00:00-04:00# close registration. Leave blank if registration is not open yet.
@@ -75,8 +75,6 @@ team_members: # Name is the only required field for team members.
     employer: "purpleidea.com"
     github: "purpleidea"
     twitter: "purpleidea"
-  - name: "Eric Charpentier"
-    employer: "eStruxture Data Centers"
   - name: "Carol Trang"
     employer: "CloudOps"
   - name: "Carine Daoust"
@@ -87,6 +85,7 @@ team_members: # Name is the only required field for team members.
   - name: "Michael McCliment"
     employer: "Ubisoft"
     github: "cornazano"
+    linkedin: "https://www.linkedin.com/in/michael-mccliment-77b8939b"
     twitter: "cornazano"
 #  Template - name: "Sally Fields"
  #   employer: "Acme Anvil Co."
@@ -101,18 +100,36 @@ proposal_email: "proposals-montreal-2019@devopsdays.org" # Put your proposal ema
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-   - id: rancher-before-20190812
-     level: silver
-   - id: treeptik
-     level: silver
-   - id: netapp
+   - id: aws
      level: gold
-   - id: signalfx
+   - id: cfs-consulting-bmc-mtl
      level: silver
    - id: cloudops
      level: gold
+   - id: cn
+     level: silver
+   - id: cohesity
+     level: bronze
    - id: containersolutions
      level: gold
+   - id: dynatrace
+     level: silver
+   - id: gitlab
+     level: gold
+   - id: microsoft
+     level: silver
+   - id: netapp
+     level: gold
+   - id: ovh
+     level: silver
+   - id: rancher-before-20190812
+     level: silver
+   - id: signalfx
+     level: silver
+   - id: sonatype
+     level: gold
+   - id: treeptik
+     level: silver
  # - id: samplesponsorname
  #   level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.

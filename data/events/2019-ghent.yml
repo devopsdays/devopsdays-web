@@ -36,11 +36,11 @@ location: "Vooruit" # Defaults to city, but you can make it the venue name.
 location_address: "Sint-Pietersnieuwstraat 23, 9000 Gent" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+#  - name: propose
   - name: location
   - name: registration
  # - name: program
- # - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -113,17 +113,38 @@ sponsors:
     level: gold
   - id: elastic
     level: gold
+  - id: chef
+    level: gold
+  - id: atlassian
+    level: gold
+  - id: jfrog
+    level: gold
+  # lanyard
+  - id: sysdig
+    level: lanyard
   # silver
   - id: dpg-media
     level: silver
   - id: gitlab
+    level: silver
+  - id: cloudar
+    level: silver
+  - id: netways
+    level: silver
+  - id: sysdig
+    level: silver
+  - id: olindata
     level: silver
   # bronze
   - id: inuits
     level: bronze
   - id: s0l1dheroes
     level: bronze
+  - id: skyscrapers
+    level: bronze
   # community
+  - id: devops-amsterdam
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -140,6 +161,9 @@ sponsor_levels:
   - id: gold
     label: Gold
     max: 8
+  - id: lanyard
+    label: Lanyard
+    max: 1
   - id: silver
     label: Silver
     max: 8
