@@ -11,3 +11,4 @@ git commit -m "Deploy from CircleCI" # this will always be the only commit in yo
 
 # use --quiet to avoid printing token in build logs
 git push --force --quiet "https://${GH_TOKEN}@github.com/devopsdays/devopsdays-web.git" master:gh-pages # path to your repo on GitHub, using token for authentication
+
