@@ -6,85 +6,107 @@ Description = "Sponsor devopsdays Charlotte 2020"
 
 <hr>
 
-<strong>We greatly value sponsors for this open event. We can't do this without you! If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].</strong>
-
-<hr>
-
 devopsdays is a self-organizing conference for practitioners that depends on sponsorships. We do not sell product presentations, or distribute attendee contact lists. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space/breakout session.
 <p>
 
-<strong>Gold Sponsorship ($5,000)</strong>
+<br>
+<center>
+# View our Sponsorship Prospectus [here](https://docs.google.com/document/d/1gT0Iqz8P6MwRhSHY5avCvXH9enxjU_fehISbkO6Fhec/edit?usp=sharing) or view the packages below. 
 
- - 4 tickets to the event
+Get in touch with any questions or to request an invoice for a sponsorship package at [{{< email_organizers >}}]
+</center>
+<br>
+
+<h2>Platinum Sponsorship ($10,000)</h2>
+
+ - 8 tickets to the event
+ - Dedicated booth/table with premium placement
+ - Brochures/stickers or other materials in attendee swag bags
+ - Promoted thank you tweet from @devopsdays_clt ($50 budget with Charlotte target market)
+ - Choice of 1 a la carte sponsorship to be included at no extra charge
  - 1 minute pitch to full audience
  - Logo on event website
- - Logo on all email communication
- - Logo on Eventbrite registration page
- - Logo on slides during breaks
- - Booth/Table space with prime location
+ - Logo on attendee email communications
+ - Logo on dedicated slide during breaks
  - Logo on conference t-shirt
+ - Social media mentions
+ - Shout-out during opening comments
 
-<strong>Silver Sponsorship ($3,000)</strong>
 
- - 3 tickets to the event
+<h2>Gold Sponsorship ($6,000)</h2>
+
+ - 5 tickets to the event
+ - Dedicated booth/table
+ - 1 minute pitch to full audience
  - Logo on event website
- - Logo on slides during breaks
- - Booth/Table space
+ - Logo on attendee email communications
+ - Logo on shared sponsor slide during breaks
  - Logo on conference t-shirt
+ - Social media mentions
+ - Shout-out during opening comments
 
-<strong>Bronze Sponsorship ($1,000)</strong>
+
+<h2>Silver Sponsorship ($4,000)</h2>
 
  - 2 tickets to the event
+ - Shared booth/table
  - Logo on event website
+ - Logo on shared sponsor slide during breaks
  - Logo on conference t-shirt
+ - Social media mentions
 <p>
 
-<!--
-<hr/>
+<h2><a id="special">A La Carte Sponsorships</a></h2>
 
-<div style="width:590px">
-<table border=1 cellspacing=1>
-  <tr>
-    <th><i>packages</i></th>
-    <th><center><b><u>Bronze<br />1000 usd</u></center></b></th>
-    <th><center><b><u>Silver<br />3000 usd</u></center></b></th>
-    <th><center><b><u>Gold<br />5000 usd</u></center></b></th>
-    <th></th>
-  </tr>
-<tr><td>2 included tickets</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on event website</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on shared slide, rotating during breaks</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on all email communication</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on its own slide, rotating during breaks</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>1 minute pitch to full audience (including streaming audience)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr></tr>
-<tr><td>2 additional tickets (4 in total)</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td>4 additional tickets (6 in total)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>shared table for swag</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td>booth/table space</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
+All a la carte sponsors will receive a tweet before the conference, and one ticket to the conference. These sponsorships do not come with any additional perks or table/booth space.
+<br/><br/>
+
+<table class = "table table-bordered table-responsive">
+  <thead>
+    <tr>
+      <th scope="col"></th>
+      <th scope="col">Sponsorship</th>
+      <th scope="col">Price</th>
+      <th scope="col">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><i class="fa fa-cutlery fa-4x"></i></td>
+      <td>Day 1 Lunch</td>
+      <td>$2,500</td>
+      <td>Your company signage prominently displayed during lunch (you must provide signage).</td>
+    </tr>
+    <tr>
+      <td align="center"><i class="fa fa-cutlery fa-4x"></i></td>
+      <td>Day 2 Lunch</td>
+      <td>$2,500</td>
+      <td>Your company signage prominently displayed during lunch (you must provide signage).</td>
+    </tr>
+    <tr>
+      <td align="center"><i class="fa fa-coffee fa-4x"></i></td>
+      <td>Day 1 Breakfast</td>
+      <td>$1,500</td>
+      <td>Your company signage prominently displayed during breakfast (you must provide signage).</td>
+    </tr>
+    <tr>
+      <td align="center"><i class="fa fa-coffee fa-4x"></i></td>
+      <td>Day 2 Breakfast</td>
+      <td>$1,500</td>
+      <td>Your company signage prominently displayed during breakfast (you must provide signage).</td>
+    </tr>
+    <tr>
+      <td align="center"><i class="fa fa-id-badge fa-4x"></i></td>
+      <td>Conference Badges</td>
+      <td>$2,000</td>
+      <td>Your company logo on all conference badges.</td>
+    </tr>
+    <tr>
+      <td align="center"><i class="fa fa-music fa-4x"></i></td>
+      <td>Evening Event</td>
+      <td>$4,000</td>
+      <td>Pay for drinks, food, and entertainment - get your company signage prominently displayed during the evening event (you must provide signage).</td>
+    </tr>
+  </tbody>
 </table>
-<hr/>
-There are also opportunities for exclusive special sponsorships. We'll have sponsors for various events with special privileges for the sponsors of these events. If you are interested in special sponsorships or have a creative idea about how you can support the event, send us an email.
-<br/>
-<br/>
-
-<br>
-<br>
-<table border=1 cellspacing=1>
-  <tr>
-    <th><i>Sponsor FAQ</i></th>
-    <th><center><b>Answers to questions frequently asked by sponsors&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</center></b></th>
-    <th></th>
-  </tr>
-<tr><td>What dates/times can we set up and tear down?</td><td></td></tr>
-<tr><td>How do we ship to the venue?</td><td></td></tr>
-<tr><td>How do we ship from the venue?</td><td></td></tr>
-<tr><td>Whom should we send?</td><td></td></tr>
-<tr><td>What should we expect regarding electricity? (how much, any fees, etc)</td><td></td></tr>
-<tr><td>What should we expect regarding WiFi? (how much, any fees, etc)</td><td></td></tr>
-<tr><td>How do we order additional A/V equipment?</td><td></td></tr>
-<tr><td>Additional important details</td><td></td></tr>
-</table>
-</div>
-
--->
 <hr/>

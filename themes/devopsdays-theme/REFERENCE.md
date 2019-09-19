@@ -314,7 +314,7 @@ The page of type `program` has one additional frontmatter element.
 ## Other Settings
 
 ### Social Sharing Image
-An event can create a sharing image for use on social media (when the url is shared on Facebook, for instance). This image must be named `sharing.jpg` and located in the `static/events/YYYY-CITY/` directory. It should be a minimum 1200 x 630px, and use ratio: 1.91:1.
+An event can create a sharing image for use on social media (when the url is shared on Facebook, for instance). This image must be named `sharing.jpg` and located in the `static/events/YYYY-CITY/sharing/` directory. It should be a minimum 1200 x 630px, and use ratio: 1.91:1.
 
 ## Shortcodes
 
