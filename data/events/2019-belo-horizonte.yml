@@ -175,7 +175,7 @@ program:
     end_time: "09:00"
     background_color: "#9a81e3"
 
-  - title: "Keynote da Manha - A definir" #arquivo, caso talk
+  - title: "Keynote da Manha - Sergio Passos" #arquivo, caso talk
     type: custom # talk
     comments: Keynote da manhã
     date: 2019-09-28
@@ -282,6 +282,14 @@ program:
     date: 2019-09-28
     start_time: "13:00"
     end_time: "13:30"
+
+  - title: "albert-tanure"
+    type: talk
+    comments: Auditorio sexto andar
+    date: 2019-09-28
+    start_time: "14:00"
+    end_time: "14:30"
+    background_color: "#ff8282"
 
   - title: "andre-almar"
     type: talk
