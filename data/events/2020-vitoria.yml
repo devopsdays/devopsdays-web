@@ -94,7 +94,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/rafaella-mazioli-558bb2111"
     website: ""
     image: "rafaelamazioli.jpg"
-  - name: "Vinicius Camata"
+  - name: "Vinicius Camata Stein"
     twitter: ""
     employer: "Executive Manager"
     bio: ""
@@ -103,6 +103,15 @@ team_members: # Name is the only required field for team members.
     linkedin: ""
     website: ""
     image: "viniciuscamata.jpg"
+  - name: "Hendrio Fernandes"
+    twitter: ""
+    employer: "Network Analyst"
+    bio: ""
+    github: ""
+    facebook: ""
+    linkedin: ""
+    website: ""
+    image: ""
 
 organizer_email: "vitoria@devopsdays.org" # Put your organizer email address here
 
