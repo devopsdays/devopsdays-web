@@ -189,7 +189,7 @@ program:
     date: 2019-10-01
     start_time: "09:40"
     end_time: "09:50"
-  - title: "ann-marie-fred"
+  - title: "anne-hungate"
     type: talk
     date: 2019-10-01
     start_time: "09:50"
@@ -354,7 +354,7 @@ program:
     date: 2019-10-02
     start_time: "10:30"
     end_time: "12:00"
-  - title: "anne-hungate"
+  - title: "ann-marie-fred"
     type: talk
     date: 2019-10-02
     start_time: "10:30"
