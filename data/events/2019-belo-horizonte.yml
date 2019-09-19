@@ -311,6 +311,14 @@ program:
     start_time: "13:30"
     end_time: "14:00"
 
+  - title: "albert-tanure"
+    type: talk
+    comments: Auditorio sexto andar
+    date: 2019-09-28
+    start_time: "14:00"
+    end_time: "14:30"
+    background_color: "#ff8282"
+
   - title: "andre-almar"
     type: talk
     comments: Auditorio Liberdade
