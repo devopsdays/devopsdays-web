@@ -216,7 +216,7 @@ program:
   date: 2019-10-29
   start_time: '10:50'
   end_time: '11:05'
-- title: ken-mugrage
+- title: ken-mugrage-2
   type: talk
   date: 2019-10-29
   start_time: '11:05'
@@ -360,12 +360,12 @@ program:
   start_time: '11:50'
   end_time: '12:10'
 
-- title: bridget-kromhout
+- title: jabe-bloom
   type: talk
   date: 2019-10-30
   start_time: '12:15'
   end_time: '12:30'
-- title: jabe-bloom
+- title: bridget-kromhout
   type: talk
   date: 2019-10-30
   start_time: '12:30'
