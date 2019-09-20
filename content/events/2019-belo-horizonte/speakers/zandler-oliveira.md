@@ -1,6 +1,6 @@
 +++
 Title = "Zandler Oliveira"
-image = "zandler-oliveira.jpg"
+image = ""
 type = "speaker"
 linktitle = ""
 
