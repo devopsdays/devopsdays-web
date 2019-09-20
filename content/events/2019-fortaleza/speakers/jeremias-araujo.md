@@ -1,7 +1,7 @@
 +++
 Title = "Jeremias Araujo"
 Twitter = ""
-image = ""
+image = "jeremias-araujo.png"
 type = "speaker"
 linktitle = "jeremias-araujo"
 
