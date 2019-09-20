@@ -118,6 +118,10 @@ sponsors:
     level: bronze
   - id: stv.tv
     level: bronze
+  - id: wood-mackenzie
+    level: gold
+  - id: cloudreach
+    level: gold
 #  - id: ecs-digital
 #    level: gold
 #  - id: skyscanner

@@ -99,6 +99,10 @@ sponsors:
     level: gold
   - id: victorops
     level: gold
+  - id: lightstep
+    level: gold
+  - id: ithaka
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

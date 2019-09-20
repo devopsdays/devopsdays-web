@@ -120,6 +120,8 @@ sponsors:
     level: community
   - id: quickbrownfoxlabs
     level: bronze
+  - id: storjlabs
+    level: bronze
 
 
 
@@ -168,11 +170,16 @@ program:
     date: 2019-09-26T00:00:00-04:00
     start_time: "10:20"
     end_time: "10:50"
-  - title: "Sponsors - M&T Technology"
+  - title: "Sponsors - Blue Cross Blue Shield of WNYy"
     type: custom
     date: 2019-09-26T00:00:00-04:00
     start_time: "10:50"
     end_time: "10:55"
+  - title: "Sponsors - M&T Technology"
+    type: custom
+    date: 2019-09-26T00:00:00-04:00
+    start_time: "10:55"
+    end_time: "11:00"
   - title: "jameson-hampton"
     type: talk
     date: 2019-09-26T00:00:00-04:00
@@ -187,6 +194,11 @@ program:
     type: custom
     date: 2019-09-26T00:00:00-04:00
     start_time: "12:10"
+    end_time: "13:25"
+  - title: "Sponsors - New Relic, Dynatrace"
+    type: custom
+    date: 2019-09-26T00:00:00-04:00
+    start_time: "13:25"
     end_time: "13:30"
   - title: "aaron-aldrich"
     type: talk
@@ -268,7 +280,7 @@ program:
     date: 2019-09-27T23:59:59-04:00
     start_time: "12:10"
     end_time: "13:25"
-  - title: "Sponsors - Blue Cross Blue Shield of WNY"
+  - title: "Sponsors - App Dynamics, Utilant, DataDog"
     date: 2019-09-27T23:59:59-04:00
     type: custom
     start_time: "13:25"
