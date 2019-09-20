@@ -203,6 +203,7 @@ program:
     date: 2019-09-28
     start_time: "10:30"
     end_time: "11:00"
+    background_color: "#ff8282"
 
   - title: "carol-valencia"
     type: talk
@@ -224,7 +225,6 @@ program:
     date: 2019-09-28
     start_time: "11:00"
     end_time: "11:30"
-    background_color: "#ff8282"
 
   - title: "Sala 360 Devops"
     type: custom
@@ -261,6 +261,7 @@ program:
     date: 2019-09-28
     start_time: "11:30"
     end_time: "12:00"
+    background_color: "#ff8282"
 
   - title: "Almoço" #arquivo, caso talk
     type: custom # talk
@@ -296,6 +297,7 @@ program:
     date: 2019-09-28
     start_time: "13:30"
     end_time: "14:00"
+    background_color: "#ff8282"
     
   - title: "gustavo-pantuza"
     type: talk
@@ -310,6 +312,7 @@ program:
     date: 2019-09-28
     start_time: "13:30"
     end_time: "14:00"
+    background_color: "#ff8282"
 
   - title: "albert-tanure"
     type: talk
@@ -332,6 +335,7 @@ program:
     date: 2019-09-28
     start_time: "13:30"
     end_time: "14:00"
+    background_color: "#ff8282"
 
   - title: "Sala Carreira Devops"
     type: custom
@@ -360,6 +364,7 @@ program:
     date: 2019-09-28
     start_time: "15:30"
     end_time: "16:00"
+    background_color: "#ff8282"
 
   - title: "joao-brito"
     type: talk
@@ -374,6 +379,7 @@ program:
     date: 2019-09-28
     start_time: "16:30"
     end_time: "16:30"
+    background_color: "#ff8282"
 
   - title: "yago-bruno"
     type: talk
