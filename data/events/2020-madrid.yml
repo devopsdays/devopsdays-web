@@ -11,6 +11,8 @@ event_group: "Madrid"
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
+masthead_background: "welcome-banner.jpg"
+
 startdate: 2020-02-21T00:00:00+01:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
 enddate:  2020-02-21T23:59:59+01:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
