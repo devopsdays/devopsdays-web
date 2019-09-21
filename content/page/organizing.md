@@ -189,7 +189,7 @@ Once you have a time and place, you can announce your event to the world! It's g
 
 ### Website
 
-Update your data file for your event to add your start & end dates; this adds your event to the map on the front page!
+Update your data file for your event to add your start & end dates; this adds your event to the front page!
 
 ### Twitter
 
@@ -227,17 +227,17 @@ Set an official theme if one beyond "devops" is desired. Within the context of t
 
 Events usually have 4 30-min talks per day + ignite talks. Open space sessions are scheduled during the conference, not ahead of time.
 
-For people to respond to the call for proposals we create a specific address (proposals-yourlocation-year@devopsdays.org). You can also use a third-party CFP tool.
+For people to respond to the call for proposals you can use your city@devopsdays.org address, a web form, a third-party CFP tool, etc.
 
 Keep in mind that under-represented people in tech are much less likely to respond to your CFP. If you would like to encourage diverse viewpoints from voices other than those you hear the most often, you will need to reach out into those communities and encourage participation.
 
 When looking for the best selection of speakers for your event, consider that expensive paid speakers are usually not the right fit for devopsdays, not because they are paid but because you're looking for speakers who will connect with your community throughout and beyond your event (not just show up for their talk). While paying directly often can bring with it complex issues around taxes, visas, and conflict of interest/employment agreements, covering speaker expenses through direct payment or with reimbursements is a good use of funds if available.
 
-Talk selection doesn't have to be finished when you announce a schedule; it's ok to leave to space until the end. Still, we found that a finished schedule helps for attendees to make the case for them to attend. Remember that announcing only a few speakers can lead to unwarranted assumptions about your demographics.
+Talk selection doesn't have to be finished when you announce a schedule; it's ok to leave some space until the end. Still, we found that a finished schedule helps for attendees to make the case for them to attend. Remember that announcing only a few speakers can lead to unwarranted assumptions about your demographics.
 
 Don't be surprised if proposals don't flow in quickly at first. People usually wait a bit before sending them in and need some extra calls. It's good to have a backup plan and contact individual speakers as well. You're not required to create your schedule solely from responses to your CFP. You should also provide speaker support according to your budget; at a minimum, all speakers should receive a free event ticket.
 
-It works best if you dedicate a person/pair to respond to proposals/speakers and handle communication. This is best for both ignite and conference talks. While your local team is going to select your event's talks, the core organizers may weigh in to help you make a more balanced schedule having less overlap with other devopsdays.
+It works best if you dedicate a person/pair to respond to proposals/speakers and handle communication. This is best for both ignite and conference talks. Your local team is going to select your event's talks; you may ask other cities and/or the core organizers to weigh in to help you make a more balanced schedule having less overlap with other devopsdays, but that is up to you.
 
 ---
 
@@ -251,13 +251,14 @@ Overall [guidelines for sponsorship](http://www.devopsdays.org/sponsor/) are ava
 - Bronze (around 1000 Euro/USD): 2 included tickets, sometimes can leave stickers/flyers/etc in public spaces
 - Community Sponsor: get logo on the site and acknowledgement on social media. Used for media outlets and other conferences that are interested in cross-promotion with you. Sometimes they'll provide giveaways; usually you will not ask them to provide cash.
 
-We want to avoid the traditional high-priced model for sponsors. We believe that the more companies that sponsor, the better: it amplifies the ideas and shows that many companies subscribe to the devops idea.
+Devopsdays sponsorship prices are lower than at many other events. We want to avoid the traditional high-priced model for sponsors. We believe that the more companies that sponsor, the better: it amplifies the ideas and shows that many companies subscribe to the devops idea.
 
-We believe the pricing is low compared to the value sponsors get compared to what other conferences are charging. Also, you may want to refrain from deviations from the standard package. Exceptions take extra CPU cycles. Best to be avoided.
+We believe the pricing is low compared to the value sponsors get. With that said, you may want to refrain from deviations from whatever standard package you publish in your sponsor prospectus. Exceptions take extra CPU cycles for your busy organizing team.
 
 Other offerings might be:
 
 - A lanyard sponsor
+- A captioning sponsor
 - An evening event sponsor
 - A lunch or breaks sponsor
 
@@ -282,33 +283,32 @@ Sponsors will usually ask you the following; best to have this information ready
 
 - Projected number of attendees
 - Industries/Companies represented (share only in aggregate)
-- What they get with what level of sponsorship (refer them to your sponsor page)
-- If they can buy a speaker spot (NO, but they can submit a talk, ignite or open space topic)
+- What they get with what level of sponsorship (refer them to your sponsor page or prospectus)
+- If they can buy a speaker spot (NO, but they can submit a talk and they can suggest open space topics onsite)
 - If you provide a badge-scanning mechanism (no)
-- If they will have electricity & network at the venue
+- If they will have electricity & network at the venue (you should make sure the answer here is yes)
 - If they can get a monitor (let them bring their own or rent one themselves)
 - Where to ship their stuff and pick it up (don't take responsibility and let them handle that directly with venue)
-- What size of table they have? Find out from the venue and say it has to fit behind the one table
-- Where their table will be located (produce a map and let them choose in the order they signed up)
+- What size of table they have? (find out from the venue and say they have to fit behind the one table)
+- Where their table will be located (produce a map and optionally let them choose in the order they signed up)
 
-From experience, we found that it helps to have a single local organizer act as the contact with the sponsors to track prospects, payment, and giving them discount codes.
+From experience, we found that it helps to have a dedicated local organizer or two act as the contact with the sponsors to track prospects, payment, and giving them discount codes.
 
 When they sponsor they need to supply:
 
-- a logo for the website
-- a URL to link it to
+- a logo for the website & a URL to link it to (if they're a new sponsor)
 - an email address of a contact you can reach
 - a Twitter handle for you to thank (optionally)
 - the invoice details (including VAT in Europe)
 
 In return you'll :
 
-- put the logo online
-- link it on the website
 - send the official invoice (as applicable)
 - once payment has been received, provide the registration discount code
+- put the logo online (adding it if it's new) once they've paid
+- link this sponsor from your page on the website once they've paid
 
-On the registration page, have them select the special sponsor ticket with their discount. Many of the sponsor contacts are traveling from event to event, you'll have to follow up with them a bit so they sign up their crew in time for your badge printing. Make sure you make the invoices "due on receipt" or provide Paypal links so sponsors don't wait months to pay you.
+On the registration page, have them select the special sponsor ticket with their discount. Many of the sponsor contacts are traveling from event to event, so you may have to follow up with them a bit so they sign up their crew in time for your badge printing. Make sure you make the invoices "due on receipt" or provide Paypal links so sponsors don't wait months to pay you.
 
 ---
 
@@ -318,7 +318,7 @@ We want to ensure that anyone who's interested in attending a devopsdays is able
 
 ### Free registration
 
-Experience has taught us that 'free' events come with a cost:
+We do not recommend making your event free. Experience has taught us that 'free' events come with a cost:
 
 - about 30-40% of the people 'grabbing' a free ticket don't show up in the end
 - this makes it harder to plan logistically: how many people will actually show up?
@@ -326,12 +326,12 @@ Experience has taught us that 'free' events come with a cost:
 
 ### Minimal Cost
 
-Asking a minimal fee (covering about food cost for two days - about 100USD or 100 Euro) gives us the best of both worlds:
+Asking a minimal fee (covering about food cost for two days - about 200USD or 200 Euro) gives us the best of both worlds:
 
 - The numbers are more accurate that way and more people feel happy about it.
-- The financial risk for venue/catering cost is spread
+- The financial risk for venue/catering cost is spread out
 
-The downside is that this will require 'official' invoices:
+The downside is that this will require 'official' payment (sometimes with invoices):
 
 - It requires time to create the invoices (although it's pretty much automated if you use [http://eventbrite.com](http://eventbrite.com))
 - It might cost some accounting time because of the administration
@@ -350,7 +350,7 @@ Because getting time away from work may already be a barrier for under-represent
 ## Setting up registration
 
 Once pricing has been decided you're ready to set up registration. We've had good experiences with [Eventbrite](http://www.eventbrite.com) integrated with [PayPal](http://paypal.com) payments. The paypal account for payment needs to be linked directly to the company that does the invoicing.
-(Note: if using Eventbrite, use Paypal, not "Eventbrite payment processing", or you'll have to wait for Eventbrite to disperse funds after your event.)
+(Note: if using Eventbrite, use Paypal, not "Eventbrite payment processing", or configure Eventbrite to disperse funds frequently so you don't have to wait until after your event.)
 
 The core organizers will not run registration for you, but we can suggest things that will be useful to you in your registration process.
 
@@ -366,7 +366,7 @@ Specifically on eventbrite we usually:
 - set up hidden ticket types for sponsors, organizers, speakers, etc
 - create access codes for hidden ticket types
 
-*Attendee email or direct-contact information should never be visible on the website or given out to vendors.* We value privacy and anti-spam a lot!
+*Attendee email or direct-contact information should never be visible on the website or given out to vendors.* We value privacy and do not want attendees to be spammed.
 
 ---
 
@@ -400,6 +400,7 @@ A few words of advice:
 
 - No sponsor should be able to buy their way into the program. The schedule should be decided by your local organizers.
 - Usually you will receive more tools talks vs cultural talks. We believe it's important to keep the balance right.
+- Experience reports from local organizations are very helpful to attendees
 - Tool talks should be at the conceptual level, not at the individual day-to-day level
 - We prefer new speakers to come on board
 - We prefer new content that was not presented yet (or was already recorded)
@@ -477,11 +478,10 @@ Whether or not you're able to livestream, it's important to record all the talks
 
 If you're going to livestream, rehearse ahead of time, and then assign at least one person to run it during the event.
 
-- For past events we have used [livestream](https://new.livestream.com/live-video-tools#mobile-broadcasting). The software can be installed on Windows or OS X.
-- You may need [producer software](https://new.livestream.com/producer/software).
-- You can create a free account at livestream to experiment. Create it as **new.livestream.com** and NOT at livestream.com.
-- We have mainly used it on a Mac; there, it will read any video device supported and record it both on your local computer + stream.
-- Find out if you can hook up your camera equipment directly to a computer and have the software detect it.
+- Some events stream directly to YouTube. Be very careful not to accidentally include any background music, or YouTube will take your stream down.
+- For some past events we have also used [livestream](https://new.livestream.com/live-video-tools#mobile-broadcasting).
+
+Some services exist to record and stream; check with others in your region to see what they're using.
 
 ---
 
@@ -521,7 +521,7 @@ Running Ignites can be a challenge: people tend to submit them last minute, or t
 
 ## Running Open Space
 
-There is a wealth of detail on the [Open Space format page](/open-space-format/). Consider both a physical schedule grid and an easily-updated shared spreadsheet you can link from your event page. Also consider posting the open space choices for a specific room outside that room.
+There is a wealth of detail on the [Open Space format page](/open-space-format/). Consider both a physical schedule grid (often assembled via a whiteboard and oversized sticky notes) and an easily-updated shared spreadsheet you can link from your event page. Also consider posting the open space choices for a specific room outside that room.
 
 ---
 
