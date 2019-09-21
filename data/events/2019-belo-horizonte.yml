@@ -106,11 +106,17 @@ sponsors:
     level: platina
   - id: picpay
     level: platina
+  - id: vmware
+    level: platina
   - id: grupomult
     level: ouro
   - id: totvs
     level: ouro
   - id: mercantildobrasil
+    level: ouro
+  - id: signalfx
+    level: ouro
+  - id: bancointer
     level: ouro
   - id: smarttbot
     level: prata
@@ -127,6 +133,8 @@ sponsors:
   - id: elastic
     level: bronze
   - id: groovetech
+    level: bronze
+  - id: getrak
     level: bronze
   - id: vidadeprogramador
     level: community
@@ -205,7 +213,7 @@ program:
     end_time: "11:00"
     background_color: "#ff8282"
 
-  - title: "carol-valencia"
+  - title: "mateus-prado"
     type: talk
     comments: Auditorio Liberdade
     date: 2019-09-28
@@ -219,7 +227,7 @@ program:
     start_time: "10:30"
     end_time: "12:00"
 
-  - title: "mateus-prado"
+  - title: "gustavo-pantuza"
     type: talk
     comments: Auditorio Liberdade
     date: 2019-09-28
@@ -290,23 +298,15 @@ program:
     date: 2019-09-28
     start_time: "13:30"
     end_time: "14:00"
-
-  - title: "bernardo-vale"
-    type: talk
-    comments: Auditorio sexto andar
-    date: 2019-09-28
-    start_time: "13:30"
-    end_time: "14:00"
-    background_color: "#ff8282"
     
-  - title: "gustavo-pantuza"
+  - title: "carol-valencia"
     type: talk
     comments: Auditorio Liberdade
     date: 2019-09-28
     start_time: "14:00"
     end_time: "14:30"
 
-  - title: "albert-tanure"
+  - title: "bernardo-vale"
     type: talk
     comments: Auditorio sexto andar
     date: 2019-09-28
@@ -333,8 +333,8 @@ program:
     type: talk
     comments: Auditorio sexto andar
     date: 2019-09-28
-    start_time: "13:30"
-    end_time: "14:00"
+    start_time: "14:30"
+    end_time: "15:00"
     background_color: "#ff8282"
 
   - title: "Sala Carreira Devops"
@@ -377,7 +377,7 @@ program:
     type: talk
     comments: Auditorio sexto andar
     date: 2019-09-28
-    start_time: "16:30"
+    start_time: "16:00"
     end_time: "16:30"
     background_color: "#ff8282"
 
@@ -387,6 +387,14 @@ program:
     date: 2019-09-28
     start_time: "16:30"
     end_time: "17:00"
+
+  - title: "adriano-tavares"
+    type: talk
+    comments: Auditorio sexto andar
+    date: 2019-09-28
+    start_time: "16:30"
+    end_time: "17:00"
+    background_color: "#ff8282"
 
   - title: "Keynote de encerramento - Henrique bastos" #arquivo, caso talk
     type: custom # talk
