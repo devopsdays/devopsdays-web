@@ -292,6 +292,13 @@ program:
     end_time: "15:00"
     background_color: "#e3b464"
 
+  - title: "Sala Aprendizado 3.0"
+    type: custom
+    date: 2019-09-28
+    start_time: "13:00"
+    end_time: "15:00"
+    background_color: "#cd853f"
+
   - title: "eduardo-ximenes"
     type: talk
     comments: Auditorio Liberdade
