@@ -114,7 +114,7 @@ Description = "Sponsor DevopsDays Madrid 2020"
       </table>
 <div>
 
-<p>Sponsoring DevOpsDays MAdrid will expose your brand to practitioners, managers, and executives
+<p>Sponsoring DevOpsDays Madrid will expose your brand to practitioners, managers, and executives
 from companies of all sizes and industries including retail, banking, manufacturing, medical technology,
 education, government, and consulting.</p>
 
