@@ -89,6 +89,8 @@ sponsors:
     level: gold
   - id: sonatype
     level: gold
+  - id: xmatters
+    level: gold
   - id: overops
     level: silver
   - id: instana
@@ -96,6 +98,8 @@ sponsors:
   - id: signalfx
     level: silver
   - id: socketlabs
+    level: silver
+  - id: rancher
     level: silver
   - id: arresteddevops
     level: community
