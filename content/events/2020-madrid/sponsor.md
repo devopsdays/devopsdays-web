@@ -122,7 +122,7 @@ education, government, and consulting.</p>
 
 <p>To ensure that your logo is included on our banners during the event we have a deadline for payment of the 31st of November 2019 for your sponsorship</p>
 
-<p>Location: DevOpsDays Madrid will be returning to the CEU San Pablo Monteprincipe University.</p>
+<p>Location: DevOpsDays Madrid will be held at the CEU San Pablo Monteprincipe University.</p>
 </div>
     </div>
     </div>
