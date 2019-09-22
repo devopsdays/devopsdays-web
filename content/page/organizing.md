@@ -142,7 +142,7 @@ Examples of reasonable expenses for organizers:
 Examples of unreasonable expenses for organizers:
 
 - Gifts not given to attendees and / or speakers
-- Extravagant food and beverage for meetings. 
+- Extravagant food and beverage for meetings
 
 ---
 
