@@ -118,7 +118,7 @@ Expenses:
 
 - Venue for talks & open space discussions
 - Internet for attendees
-- Livestream/recording of talks
+- Livestream/recording/captioning of talks
 - Catering for breakfast/coffee breaks/lunches (some venues require the use of their caterer)
 - Evening event
 - T-shirts/other swag
@@ -129,21 +129,23 @@ Expenses:
 - Insurance/taxes
 - Payment for accounting services
 
-**Important Reminder:** As you've seen in the rules above, these events are not for individual or corporate profit. This includes extravagant expenses for the benefit of organizers. We can't give precise numbers as to what qualifies as extravagant since that would vary widely. A good rule of thumb might be, would you be OK with a charity you donated to having this expense? What about a politician that you don't support?
+**Important Reminder:** As you've seen in the rules above, these events are not intended for individual or corporate profit. This includes unnecessary high personal expenditures for the benefit of organizers. We can't give precise numbers as to what qualifies as large amounts, since that would vary widely. Consider typical appropriate pricing for your region, and determine if you would find it to be unusually expensive.
 
-Incomplete list of examples of reasonable expenses for organizers:
+Reasonable expenses for organizers:
 
-- Economy travel / lodging to and from your event
-- Economy travel / lodging to and from other DevOpsDays events for the purpose of making yours better
-- Local transportation to from the event or planning meetings
+- Travel & lodging to participate in your event
+- Travel & lodging to participate in other DevOpsDays events for the purpose of making yours better
+- Local transportation to & from your devopsdays event or planning meetings
 - Clothing such as shirts to make the team stand out during the event
-- **Reasonable** food and beverage for meetings before and after the event
+- Food and beverage for meetings before and after the event (at typical prices for the region)
 
-Incomplete list of examples of unreasonable expenses for organizers:
+Expenses for organizers which may be inappropriate:
 
-- Gifts not given to attendees and / or speakers
-- Extravagant food and beverage for meetings
-- Business / First class travel
+- Gifts for organizers which are not given to attendees and/or speakers
+- Expensive food and beverage for organizer meetings (outside of typical prices for your region)
+- Travel outside of devopsdays participation needs (including luxury packages, travel to other events, etc).
+
+When deciding on appropriate expenditures, check with your local team and reach out to the core team if you'd like guidance. Remember, these funds are intended to serve your community!
 
 ---
 
