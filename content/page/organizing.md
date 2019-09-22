@@ -129,6 +129,21 @@ Expenses:
 - Insurance/taxes
 - Payment for accounting services
 
+**Important Reminder:** As you've seen in the rules above, these events are not for individual or corporate profit. This includes extravagant expenses for the benefit of organizers. A good rule of thumb might be, would you be OK with a charity you donated to having this expense? What about a politician that you don't support?
+
+Examples of reasonable expenses for organizers:
+
+- Travel / lodging to and from your event
+- Travel / lodging at other DevOpsDays events for the purpose of making yours better
+- Local transportation to from the event or planning meetings
+- Clothing such as shirts to make the team stand out during the event
+- **Reasonable** food and beverage for meetings before and after the event
+
+Examples of unreasonable expenses for organizers:
+
+- Gifts not given to attendees and / or speakers
+- Extravagant food and beverage for meetings. 
+
 ---
 
 ## Selecting a venue
