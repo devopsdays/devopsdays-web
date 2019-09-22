@@ -133,7 +133,7 @@ Expenses:
 
 Incomplete list of examples of reasonable expenses for organizers:
 
-- Travel / lodging to and from your event
+- Economy travel / lodging to and from your event
 - Economy travel / lodging to and from other DevOpsDays events for the purpose of making yours better
 - Local transportation to from the event or planning meetings
 - Clothing such as shirts to make the team stand out during the event
