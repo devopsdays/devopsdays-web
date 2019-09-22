@@ -1,7 +1,7 @@
 +++
 Title = "Eduardo Cavalcanti"
 Twitter = ""
-image = ""
+image = "eduardo-cavalcanti.png"
 type = "speaker"
 linktitle = "eduardo-cavalcanti"
 
