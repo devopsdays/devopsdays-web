@@ -96,6 +96,10 @@ proposal_email: "proposals-oslo-2019@devopsdays.org" # Put your proposal email a
 sponsors:
   - id: bekk
     level: partner
+  - id: finn
+    level: partner
+  - id: cgi
+    level: partner
   - id: capra
     level: community
 
