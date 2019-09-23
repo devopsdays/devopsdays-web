@@ -162,8 +162,8 @@ sponsors:
     url: https://www.uni7.edu.br/ # Use this if you need to over-ride a sponsor URL.
   - id: osf
     level: bronze
-  - id: jaguah
-    level: silver
+  - id: 4linux
+    level: community
   - id: aws
     level: gold
   - id: hostweb
