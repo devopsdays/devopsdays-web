@@ -164,7 +164,7 @@ program:
     end_time: "13:00"
   - title: "Ignites"
     type: ignite
-    date: 2019-10-22T00:00:00+02:00
+    date: 2019-10-22
     start_time: "13:00"
     end_time: "13:30"
   - title: "Open Space Opening"
@@ -249,7 +249,7 @@ program:
     end_time: "13:00"
   - title: "Ignites"
     type: ignite
-    date: 2019-10-23T23:59:59+02:00
+    date: 2019-10-23
     start_time: "13:00"
     end_time: "13:30"
   - title: "Open Space Opening"
