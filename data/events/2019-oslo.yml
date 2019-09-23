@@ -164,7 +164,7 @@ program:
     end_time: "13:00"
   - title: "Ignites"
     type: ignite
-    date: 2019-10-22
+    date: 2019-10-22T00:00:00+02:00
     start_time: "13:00"
     end_time: "13:30"
   - title: "Open Space Opening"
@@ -249,7 +249,7 @@ program:
     end_time: "13:00"
   - title: "Ignites"
     type: ignite
-    date: 2019-10-23
+    date: 2019-10-23T23:59:59+02:00
     start_time: "13:00"
     end_time: "13:30"
   - title: "Open Space Opening"
@@ -279,18 +279,18 @@ program:
     end_time: "17:00"
 ignites:
   - title: "henrik-stene"
-    date: 2019-10-22
+    date: 2019-10-22T00:00:00+02:00
   - title: "pia-fak-sunnabo"
-    date: 2019-10-22
+    date: 2019-10-22T00:00:00+02:00
   - title: "mike-long"
-    date: 2019-10-22
+    date: 2019-10-22T00:00:00+02:00
   - title: "muhammed-adawi"
-    date: 2019-10-22
+    date: 2019-10-22T00:00:00+02:00
   - title: "renata-rocha"
-    date: 2019-10-22
+    date: 2019-10-22T00:00:00+02:00
   - title: "nora-romas"
-    date: 2019-10-23
+    date: 2019-10-23T23:59:59+02:00
   - title: "rafal-malanij"
-    date: 2019-10-23
+    date: 2019-10-23T23:59:59+02:00
   - title: "johan-abildskov"
-    date: 2019-10-23
+    date: 2019-10-23T23:59:59+02:00
