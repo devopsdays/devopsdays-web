@@ -269,7 +269,7 @@ program:
     date: 2019-10-23
     start_time: "11:50"
     end_time: "13:00"
-  - title: ""
+  - title: "arrested-devops"
     type: talk
     date: 2019-10-23
     start_time: "13:00"
