@@ -344,7 +344,7 @@ We do not recommend making your event free. Experience has taught us that 'free'
 
 ### Minimal Cost
 
-Asking a minimal fee (covering about food cost for two days - about 200USD or 200 Euro) gives us the best of both worlds:
+We recommend charging a minimal fee. This will keep your event accessible by making it cost a fraction of a typical high-priced conference ticket (so, perhaps 10%-20% of what someone might pay to attend a commercial tech event in your region). This gives us the best of both worlds:
 
 - The numbers are more accurate that way and more people feel happy about it.
 - The financial risk for venue/catering cost is spread out
