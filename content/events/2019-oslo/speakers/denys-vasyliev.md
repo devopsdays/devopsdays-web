@@ -1,6 +1,6 @@
 +++
 Title = "Denys Vasyliev"
-Twitter = "DevOps Types and Antipatterns"
+Twitter = ""
 image = "Denys_Vasyliev.jpg"
 type = "speaker"
 linktitle = "denys-vasyliev"
