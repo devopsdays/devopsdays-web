@@ -1,6 +1,6 @@
 +++
 Title = "Sergio Passos"
-image = ""
+image = "sergio-passos.jpg"
 type = "speaker"
 linktitle = ""
 
