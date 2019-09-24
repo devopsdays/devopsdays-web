@@ -284,7 +284,7 @@ program:
   #   date: 2019-09-27T23:59:59+01:00
   #   start_time: "11:25"
   #   end_time: "12:00"
-    title: "helen-joy"
+  - title: "helen-joy"
     type: talk
     date: 2019-09-27T23:59:59+01:00
     start_time: "11:25"
