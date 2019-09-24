@@ -2,7 +2,7 @@
 Title = "Sergio Passos"
 image = "sergio-passos.jpg"
 type = "speaker"
-linktitle = ""
+linktitle = "sergio-passos"
 
 +++
 

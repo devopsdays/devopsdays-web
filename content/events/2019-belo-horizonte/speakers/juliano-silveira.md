@@ -2,7 +2,7 @@
 Title = "Juliano Silveira"
 image = ""
 type = "speaker"
-linktitle = ""
+linktitle = "juliano-silveira"
 
 +++
 

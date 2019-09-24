@@ -2,6 +2,6 @@
 Title = "Bráulio Scarpelli"
 image = ""
 type = "speaker"
-linktitle = ""
+linktitle = "adriano-tavares"
 
 +++

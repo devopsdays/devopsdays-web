@@ -2,6 +2,6 @@
 Title = "Adriano Tavares"
 image = "adriano-tavares.jpg"
 type = "speaker"
-linktitle = ""
+linktitle = "adriano-tavares"
 
 +++

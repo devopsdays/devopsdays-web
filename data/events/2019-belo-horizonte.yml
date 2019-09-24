@@ -75,10 +75,6 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/danielreisp/"
     bio: ""
     image: "daniel-reis.jpg"
-  - name: "Diego F. Duarte"
-    linkedin: "https://www.linkedin.com/in/diego-f-duarte-926aa723/"
-    bio: ""
-    image: "diego-f-duarte.jpg"
   - name: "Gustavo Fagundes"
     linkedin: "https://www.linkedin.com/in/gustavofagundes/"
     image: "gustavo-fagundes.jpg"
@@ -394,7 +390,7 @@ program:
     start_time: "16:00"
     end_time: "16:30"
 
-  - title: "diego-duarte"
+  - title: "fernando-medeiros"
     type: talk
     comments: Auditorio sexto andar
     date: 2019-09-28
