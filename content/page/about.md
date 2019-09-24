@@ -22,7 +22,12 @@ The devopsdays global core team guides local organizers in hosting their own dev
 
 **Core Organizers**
 
+<em>Active</em><br>
 {{< list_core >}}
+
+
+<em>Emeritus</em><br>
+Patrick Debois (founder), Damon Edwards, Anthony Goddard, Lindsay Holmwood, Gildas Le Nadan, Stephen Nelson-Smith, Julian Simpson, Christian Trabold, John Vincent, James Wickett
 
 If you have questions about hosting your own event or about potential future events you don't see listed, [email the core organizers](mailto:info@devopsdays.org). The core organizers cannot answer questions about sponsorships or registration for individual cities.
 
