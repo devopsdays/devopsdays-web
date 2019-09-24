@@ -136,6 +136,8 @@ sponsors:
     level: silver
   - id: olindata
     level: silver
+  - id: showpad
+    level: silver
   # bronze
   - id: inuits
     level: bronze
