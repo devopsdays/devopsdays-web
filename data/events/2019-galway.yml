@@ -175,6 +175,11 @@ sponsors:
     level: silver
   - id: guruteam
     level: bronze
+  - id: compustaff
+    level: support
+  - id: stickermule
+    level: support
+    url: http://stickermule.com/supports/devopsdaygalway19-sponsorship
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
@@ -191,5 +196,7 @@ sponsor_levels:
     max: 0 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
+  - id: support
+    label: Support
   - id: community
     label: Community
