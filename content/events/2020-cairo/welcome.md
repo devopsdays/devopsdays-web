@@ -12,7 +12,7 @@ Description = "DevOpsDays Cairo 2020"
 DevOpsDays Cairo is a one-day event.  You can learn and share your knowledge with the people from all around the world while enjoying great culture in Egypt.  This year, SECC/ITIDA are organizing DevOpsDays Cairo 2020 in cooperation with DXC Technology, IBM Egypt and Orange Labs. </p> 
 <p>
   We are pleased to announce that our Keynote speaker will be <strong>Andrew Clay Shafer</strong>. 
-  <img src="https://assets.podomatic.net/ts/7e/ff/df/jaydestro73507/640x640_13381982.jpg" height="200" align="right" border="0">
+  <img src="./static/speakers/andrew-clay-shafer.jpg" height="200" align="right" border="0">
 </p>
   <p>
   Andrew Clay Shafer was devopsing before devops was a word.
