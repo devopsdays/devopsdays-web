@@ -122,8 +122,8 @@ sponsors:
     level: gold
   - id: cloudreach
     level: gold
- - id: exceptionuk
-   level: bronze
+  - id: exceptionuk
+    level: bronze
 #  - id: ecs-digital
 #    level: gold
 #  - id: skyscanner
