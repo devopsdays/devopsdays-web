@@ -17,3 +17,5 @@ This talk is an experience report on my learnings:
 - Decisions made in other departements impact devops and vice-versa
 - How to improve relationships/feedback beyond dev & ops
 - Optimize for the whole system , not just the part between dev and ops
+
+p.s. by other departements I don't mean devsecops , but parts like sales, marketing, legal, hr, finance ... To infinity and beyond !
