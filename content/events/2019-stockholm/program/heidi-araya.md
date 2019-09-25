@@ -8,3 +8,5 @@ Speakers = ["heidi-araya"]
 +++
 
 Managers usually want to hire the "10x developer." But on an Agile team, is being a technical high performer the most important thing to consider? Heidi discusses the skills & mindset required to grow development teams & will leave attendees with tips on finding great additions to your agile teams.
+
+[slides](https://assets.devopsdays.org/events/2019/stockholm/Hiring-Agile-Talent.pdf)
