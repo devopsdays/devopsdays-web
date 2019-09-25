@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "How and why we lowered our SLO"
+Title = "How and why we lowered our SLO, and other SRE life-lessons"
 Type = "talk"
 Speakers = ["deborah-wood"]
 +++

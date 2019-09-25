@@ -1,4 +1,4 @@
-name: "2019-oslo" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+name: "2019-oslo" # The name of the event. Four digit year with the city name in lower-case, with no spaces
 year: "2019" # The year of the event. Make sure it is in quotes.
 city: "Oslo" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysoslo" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
@@ -96,6 +96,12 @@ proposal_email: "proposals-oslo-2019@devopsdays.org" # Put your proposal email a
 sponsors:
   - id: bekk
     level: partner
+  - id: finn
+    level: partner
+  - id: cgi
+    level: partner
+  - id: gitlab
+    level: partner
   - id: capra
     level: community
 
@@ -163,27 +169,27 @@ program:
     start_time: "11:50"
     end_time: "13:00"
   - title: "Ignites"
-    type: custom
+    type: ignite
     date: 2019-10-22T00:00:00+02:00
     start_time: "13:00"
     end_time: "13:30"
   - title: "Open Space Opening"
-    type: custom
+    type: open-space
     date: 2019-10-22T00:00:00+02:00
     start_time: "13:30"
     end_time: "14:00"
   - title: "Open Space #1"
-    type: custom
+    type: open-space
     date: 2019-10-22T00:00:00+02:00
     start_time: "14:00"
     end_time: "14:45"
   - title: "Open Space #2"
-    type: custom
+    type: open-space
     date: 2019-10-22T00:00:00+02:00
     start_time: "15:00"
     end_time: "15:45"
   - title: "Open Space #3"
-    type: custom
+    type: open-space
     date: 2019-10-22T00:00:00+02:00
     start_time: "16:00"
     end_time: "16:45"
@@ -248,27 +254,27 @@ program:
     start_time: "11:50"
     end_time: "13:00"
   - title: "Ignites"
-    type: custom
+    type: ignite
     date: 2019-10-23T23:59:59+02:00
     start_time: "13:00"
     end_time: "13:30"
   - title: "Open Space Opening"
-    type: custom
+    type: open-space
     date: 2019-10-23T23:59:59+02:00
     start_time: "13:30"
     end_time: "14:00"
   - title: "Open Space #1"
-    type: custom
+    type: open-space
     date: 2019-10-23T23:59:59+02:00
     start_time: "14:00"
     end_time: "14:45"
   - title: "Open Space #2"
-    type: custom
+    type: open-space
     date: 2019-10-23T23:59:59+02:00
     start_time: "15:00"
     end_time: "15:45"
   - title: "Open Space #3"
-    type: custom
+    type: open-space
     date: 2019-10-23T23:59:59+02:00
     start_time: "16:00"
     end_time: "16:45"
@@ -277,3 +283,20 @@ program:
     date: 2019-10-23T23:59:59+02:00
     start_time: "16:45"
     end_time: "17:00"
+ignites:
+  - title: "nora-tomas"
+    date: 2019-10-22T00:00:00+02:00
+  - title: "pia-fak-sunnanbo"
+    date: 2019-10-22T00:00:00+02:00
+  - title: "mike-long"
+    date: 2019-10-22T00:00:00+02:00
+  - title: "muhammed-adawi"
+    date: 2019-10-22T00:00:00+02:00
+  - title: "renata-rocha"
+    date: 2019-10-22T00:00:00+02:00
+  - title: "henrik-stene"
+    date: 2019-10-23T23:59:59+02:00
+  - title: "rafal-malanij"
+    date: 2019-10-23T23:59:59+02:00
+  - title: "johan-abildskov"
+    date: 2019-10-23T23:59:59+02:00

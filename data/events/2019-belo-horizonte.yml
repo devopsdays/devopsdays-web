@@ -106,11 +106,17 @@ sponsors:
     level: platina
   - id: picpay
     level: platina
+  - id: vmware
+    level: platina
   - id: grupomult
     level: ouro
   - id: totvs
     level: ouro
   - id: mercantildobrasil
+    level: ouro
+  - id: signalfx
+    level: ouro
+  - id: bancointer
     level: ouro
   - id: smarttbot
     level: prata
@@ -127,6 +133,8 @@ sponsors:
   - id: elastic
     level: bronze
   - id: groovetech
+    level: bronze
+  - id: getrak
     level: bronze
   - id: vidadeprogramador
     level: community
@@ -165,13 +173,13 @@ program:
     type: custom
     date: 2019-09-28
     start_time: "08:00"
-    end_time: "09:50"
+    end_time: "08:45"
     background_color: "#9a81e3"
 
   - title: "Abertura e boas vindas"
     type: custom
     date: 2019-09-28
-    start_time: "08:50"
+    start_time: "08:45"
     end_time: "09:00"
     background_color: "#9a81e3"
 
@@ -205,7 +213,7 @@ program:
     end_time: "11:00"
     background_color: "#ff8282"
 
-  - title: "carol-valencia"
+  - title: "mateus-prado"
     type: talk
     comments: Auditorio Liberdade
     date: 2019-09-28
@@ -215,29 +223,30 @@ program:
   - title: "paulo-mendonca"
     comments: Workshop
     type: workshop
+    comments: Sala Workshop Kubernetes
     date: 2019-09-28
     start_time: "10:30"
     end_time: "12:00"
 
-  - title: "mateus-prado"
+  - title: "gustavo-pantuza"
     type: talk
     comments: Auditorio Liberdade
     date: 2019-09-28
     start_time: "11:00"
     end_time: "11:30"
 
-  - title: "Sala 360 Devops"
+  - title: "Sala 360 DevOps"
     type: custom
     date: 2019-09-28
     start_time: "10:30"
     end_time: "12:00"
     background_color: "#e3b464"
     
-  - title: "Sala Carreira Devops"
+  - title: "Sala Carreira DevOps"
     type: custom
     date: 2019-09-28
     start_time: "10:30"
-    end_time: "12:00"
+    end_time: "11:30"
     background_color: "#e3b464"
 
   - title: "osanam-junior"
@@ -270,19 +279,46 @@ program:
     start_time: "12:00"
     end_time: "13:00"
 
+  - title: "SORTEIO DE BRINDES E PATROCINADORES"
+    type: custom # talk
+    date: 2019-09-28
+    start_time: "13:10"
+    end_time: "13:40"
+
   - title: "jefferson-otoni"
-    comments: Workshop
+    comments: Sala workshop GO
     type: workshop
     date: 2019-09-28
-    start_time: "13:00"
+    start_time: "13:10"
     end_time: "15:00"
 
-  - title: "Sala 360 Devops"
+  - title: "luiz-henrique"
+    comments: Sala Workshop Aprendizado 3.0
+    type: workshop
+    date: 2019-09-28
+    start_time: "13:10"
+    end_time: "15:00"
+
+  - title: "daniel-reis"
+    comments: Sala Workshop Logs WAF
+    type: workshop
+    date: 2019-09-28
+    start_time: "16:00"
+    end_time: "17:40"
+
+  - title: "Sala 360 DevOps"
+    type: custom
+    date: 2019-09-28
+    start_time: "13:30"
+    end_time: "15:00"
+    background_color: "#e3b464"
+
+  - title: "Sala Aprendizado 3.0"
     type: custom
     date: 2019-09-28
     start_time: "13:00"
     end_time: "15:00"
-    background_color: "#e3b464"
+    background_color: "#cd853f"
 
   - title: "eduardo-ximenes"
     type: talk
@@ -290,23 +326,15 @@ program:
     date: 2019-09-28
     start_time: "13:30"
     end_time: "14:00"
-
-  - title: "bernardo-vale"
-    type: talk
-    comments: Auditorio sexto andar
-    date: 2019-09-28
-    start_time: "13:30"
-    end_time: "14:00"
-    background_color: "#ff8282"
     
-  - title: "gustavo-pantuza"
+  - title: "carol-valencia"
     type: talk
     comments: Auditorio Liberdade
     date: 2019-09-28
     start_time: "14:00"
     end_time: "14:30"
 
-  - title: "albert-tanure"
+  - title: "bernardo-vale"
     type: talk
     comments: Auditorio sexto andar
     date: 2019-09-28
@@ -333,11 +361,11 @@ program:
     type: talk
     comments: Auditorio sexto andar
     date: 2019-09-28
-    start_time: "13:30"
-    end_time: "14:00"
+    start_time: "14:30"
+    end_time: "15:00"
     background_color: "#ff8282"
 
-  - title: "Sala Carreira Devops"
+  - title: "Sala Carreira DevOps"
     type: custom
     date: 2019-09-28
     start_time: "14:00"
@@ -377,7 +405,7 @@ program:
     type: talk
     comments: Auditorio sexto andar
     date: 2019-09-28
-    start_time: "16:30"
+    start_time: "16:00"
     end_time: "16:30"
     background_color: "#ff8282"
 
@@ -387,6 +415,14 @@ program:
     date: 2019-09-28
     start_time: "16:30"
     end_time: "17:00"
+
+  - title: "adriano-tavares"
+    type: talk
+    comments: Auditorio sexto andar
+    date: 2019-09-28
+    start_time: "16:30"
+    end_time: "17:00"
+    background_color: "#ff8282"
 
   - title: "Keynote de encerramento - Henrique bastos" #arquivo, caso talk
     type: custom # talk
