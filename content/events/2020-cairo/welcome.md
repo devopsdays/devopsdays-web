@@ -24,9 +24,9 @@ He is often referenced as a foundational voice in the devops movement with a lot
 <p>The event is for <strong>FREE</strong></p>
   
 </div>
-<!-- <div style="text-align:center;">
+<div style="text-align:center;">
   {{< event_logo >}}
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
