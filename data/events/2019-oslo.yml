@@ -233,7 +233,7 @@ program:
     date: 2019-10-23T23:59:59+02:00
     start_time: "10:25"
     end_time: "10:40"
-  - title: "TBA"
+  - title: "denys-vasyliev"
     type: talk
     date: 2019-10-23T23:59:59+02:00
     start_time: "10:40"
@@ -243,7 +243,7 @@ program:
     date: 2019-10-23T23:59:59+02:00
     start_time: "11:10"
     end_time: "11:20"
-  - title: "TBA"
+  - title: "ulf-mansson"
     type: talk
     date: 2019-10-23T23:59:59+02:00
     start_time: "11:20"
