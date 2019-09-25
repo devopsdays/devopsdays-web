@@ -1,6 +1,6 @@
 +++
 Title = "Bráulio Scarpelli"
-image = ""
+image = "braulio-scarpelli.jpg"
 type = "speaker"
 linktitle = "adriano-tavares"
 
