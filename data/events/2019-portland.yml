@@ -88,12 +88,8 @@ proposal_email: "" # Put your proposal email address here
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
 # Platinum
-#  - id: ignw
-#    level: platinum
-#  - id: columbia
-#    level: gold
-#  - id: ignw
-#    level: platinum
+  - id: puppet
+    level: platinum
 # Gold
   - id: datadog
     level: gold
@@ -145,8 +141,6 @@ sponsors:
   - id: circleci
     level: silver
 # Bronze
-  - id: compuware
-    level: bronze
   - id: manage-engine
     level: silver
 # Custom
@@ -305,7 +299,7 @@ program:
     date: 2019-09-11
     start_time: "16:50"
     end_time: "17:00"
-  - title: "Evening event"
+  - title: "Evening event - come party at the Puppet offices, 308 SW 2nd Ave!"
     type: custom
     date: 2019-09-11
     start_time: "18:00"
@@ -402,8 +396,8 @@ program:
     end_time: "17:00"
 
 ignites:
-  - title: "allie-richards"
-    date: 2019-09-11
+#  - title: "allie-richards"
+#    date: 2019-09-11
   - title: "matty-stratton"
     date: 2019-09-11
   - title: "ashina-sipiora"

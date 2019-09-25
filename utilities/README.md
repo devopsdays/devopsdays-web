@@ -53,11 +53,45 @@ sponsors:
     level: gold
 ```
 
-### Updating a sponsor
+### Updating a sponsor image or data
 
-If you want to update a sponsor, keep in mind that we don't want to retroactively change history for past events. See this [previous discussion](https://github.com/devopsdays/devopsdays-web/pull/503) for guidance. Basically you need to preserve past history before defining a changed default.
+If you want to update a sponsor's info, keep in mind that we don't want to retroactively change history for past events. See this [previous discussion](https://github.com/devopsdays/devopsdays-web/pull/503) for guidance. We want to preserve past history before defining a changed default.
 
-Note that if a sponsor asks for an update affecting all future events, the shared sponsor entry will be changed for all events without any intervention needed from local organizers who have listed that sponsor. This is a benefit to using the shared sponsor entry.
+Determine which sponsor is being discussed. For this example, we'll use Pivotal.
+
+First, we'll do filename updates. Existing sponsors have an image and a data file:
+
+```
+static/img/sponsors/pivotal.png
+data/sponsors/pivotal.yml
+```
+
+- When a sponsor wants an update to the image, data file, or both, first you copy the current files to a new filename containing the current date:
+
+```
+cp static/img/sponsors/pivotal.png static/img/sponsors/pivotal-before-20190307.png
+cp data/sponsors/pivotal.yml data/sponsors/pivotal-before-20190307.yml
+```
+
+Do this even if you're only changing one of them.
+
+Then, make sure all events in the past get the update. Edit the "- id: pivotal" line for any past events:
+
+```
+$ grep "id: pivotal" data/events/*
+[...]
+data/events/2015-minneapolis.yml:  - id: pivotal-before-20190307
+data/events/2016-atlanta.yml:  - id: pivotal-before-20190307
+data/events/2019-minneapolis.yml:  - id: pivotal
+```
+
+For the current year, you only want to make the edits if the event has already happened.
+
+This means that if a sponsor asks for an update affecting all future events, the shared sponsor entry will be changed for all events without any intervention needed from local organizers who have listed that sponsor. This is a benefit to using the shared sponsor entry.
+
+Finally, make whatever changes are requested to the image and data file.
+
+See [Pivotal logo update](https://github.com/devopsdays/devopsdays-web/pull/6501) for the pull request that inspired this example.
 
 
 ### Adding a new sponsor
@@ -94,7 +128,7 @@ Any PRs adding a new local organizer will need to be accompanied by an email to 
 
 ## Social sharing image
 
-A sharing image is added to the Open Graph tags for your event pages, to improve the sharing on social networks such as Facebook (or in Slack). This image must be named `sharing.jpg` and located in `static/events/yyyy-city`. It should be a minimum 1200px x 630px, and use ratio: 1.91:1.
+A sharing image is added to the Open Graph tags for your event pages, to improve the sharing on social networks such as Facebook (or in Slack). This image must be named `sharing.jpg` and located in `static/events/yyyy-city/sharing/`. It should be a minimum 1200px x 630px, and use ratio: 1.91:1.
 
 If no image is provided, then the meta tag will not be created. Facebook might try to infer it, but the links shared will just likely have no images.
 

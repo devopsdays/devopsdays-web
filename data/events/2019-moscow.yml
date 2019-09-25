@@ -5,8 +5,8 @@ event_twitter: "DevOpsDaysMSK"
 description: "DevOpsDays is coming to Moscow!"
 #ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
-# startdate: 2019-12-06T10:00:00+03:00 # The start date of your event
-# enddate: 2019-12-06T22:00:00+03:00 # The end date of your event
+startdate: 2019-12-07T00:00:00+03:00 # The start date of your event
+enddate: 2019-12-07T23:59:59+03:00 # The end date of your event
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 # cfp_date_start: 2019-08-01T00:00:00+03:00
@@ -17,22 +17,22 @@ description: "DevOpsDays is coming to Moscow!"
 # cfp_link: "https://todo/fill-cfp-link"
 
 registration_date_start: 2019-09-01T00:00:00+03:00 # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: 2019-10-15T23:59:59+03:00 # close registration. Leave blank if registration is not open yet.
+registration_date_end: 2019-12-06T23:59:59+03:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "https://todo/fill-some-registration-link/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://devopsdays.ru/#ticketscloud:event=5d639f9cd3ab824c62798797&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6InRpY2tldHNjbG91ZC5ydSJ9.eyJwIjoiNWQ1ZmQ3NjM0ODZiODE5MjY3MDJkN2VjIn0.e5JFXoBinX5Lm_oVEysHtLmwdduM-BOjZVOnITaed6M" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
 coordinates: "55.787932,37.680616" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Moscow" # Defaults to city, but you can make it the venue name.
 #
-location_address: "We are looking for best place for best community conference in this year" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "Technopolis Moscow, Volgogradsky pr., 42, building 13" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: devopsdays.ru
     icon: "globe"
-    url: http://devopsdays.ru
+    url: https://devopsdays.ru
   - name: conduct
   - name: contact
 
@@ -93,11 +93,11 @@ sponsor_levels:
 
 
 # Program
-program:
+#program:
 
 # day 1
-  - title: "РЕГИСТРАЦИЯ, ПРИВЕТСТВЕННЫЙ КОФЕ"
-    type: custom
-    date: 2019-12-06
-    start_time: "09:00"
-    end_time: "09:30"
+#  - title: "РЕГИСТРАЦИЯ, ПРИВЕТСТВЕННЫЙ КОФЕ"
+#    type: custom
+#    date: 2019-12-07
+#    start_time: "09:00"
+#    end_time: "09:30"

@@ -1,7 +1,7 @@
 +++
 Title = "Priyanka Rao"
 Twitter = "pri_posterous"
-image = ""
+image = "priyanka-rao.jpg"
 type = "speaker"
 linktitle = "priyanka-rao"
 

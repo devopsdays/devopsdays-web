@@ -7,10 +7,12 @@
  [context.deploy-preview]
   command = "bin/netlify.sh"
   publish = "public/"
+  skip_processing = true
 
  [context.branch-deploy]
   command = "bin/netlify.sh"
   publish = "public/"
+  skip_processing = true
 
   
 

@@ -21,14 +21,14 @@ Description = "devopsdays London 2019"
     <div class="d-flex flex-row">
       <div class="col-md-12">
         <div class="p-2">
-          <a class="btn btn-secondary btn-block" href="/events/2019-london/sponsor"> <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference</a>
-        </div>
-        <div class="p-2">
           <a class="btn btn-secondary btn-block" href="/events/2019-london/program" rel="noopener"> <i class="fa fa-file-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Program</a>
         </div>
         <div class="p-2">
-          <a class="btn btn-secondary btn-block" href="/events/2019-london/registration" rel="noopener"> <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Buy a ticket</a>
+          <a class="btn btn-secondary btn-block" href="/events/2019-london/sponsor"> <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference</a>
         </div>
+        <!--<div class="p-2">
+          <a class="btn btn-secondary btn-block" href="/events/2019-london/registration" rel="noopener"> <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Buy a ticket</a>
+        </div>-->
         <div class="p-2">
           <a class="btn btn-secondary btn-block" href="/events/2019-london/contact"> <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Contact the Organizers</a>
         </div>
