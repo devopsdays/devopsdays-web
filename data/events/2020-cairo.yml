@@ -78,8 +78,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/sherine-faragallah-06a998189/"
 
 
-organizer_email: "organizers-cairo-2020@devopsdays.org" # Put your organizer email address here
-proposal_email: "proposals-cairo-2020@devopsdays.org" # Put your proposal email address here
+organizer_email: "cairo@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
