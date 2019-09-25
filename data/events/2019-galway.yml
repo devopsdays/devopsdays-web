@@ -106,6 +106,7 @@ team_members: # Name is the only required field for team members.
       migrating customer environments onto AWS.
   - name: "Alan Duggan"
     employer: "HPE"
+    linkedin: "https://www.linkedin.com/in/alan-duggan-41581b30"
     image: "alan-duggan.jpg"
     bio: |
       Alan is a Multidimensional Engineer working for HPE. Working with people,
@@ -172,6 +173,8 @@ sponsors:
     level: silver
   - id: aspect
     level: silver
+  - id: guruteam
+    level: bronze
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
