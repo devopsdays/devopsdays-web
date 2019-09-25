@@ -12,6 +12,7 @@ After switching many different roles over the past years , I've been running my 
 Given my background, "doing" devops I assumed would be the least of my worries. I wanted to learn how devops could make a difference on business level.
 
 This talk is an experience report on my learnings:
+
 - Devops is not so special in a company context
 - Decisions made in other departements impact devops and vice-versa
 - How to improve relationships/feedback beyond dev & ops
