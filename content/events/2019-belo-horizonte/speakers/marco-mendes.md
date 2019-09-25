@@ -1,8 +1,8 @@
 +++
 Title = "Marco Mendes"
-image = ""
+image = "marco-mendes.jpg"
 type = "speaker"
-linktitle = ""
+linktitle = "marco-mendes"
 
 +++
 

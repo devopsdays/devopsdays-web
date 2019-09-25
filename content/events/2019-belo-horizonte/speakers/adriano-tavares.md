@@ -1,7 +1,7 @@
 +++
 Title = "Adriano Tavares"
-image = ""
+image = "adriano-tavares.jpg"
 type = "speaker"
-linktitle = ""
+linktitle = "adriano-tavares"
 
 +++

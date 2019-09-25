@@ -2,11 +2,18 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Connect all the business pipelines"
+Title = "Devops beyond dev and ops"
 Type = "talk"
 Speakers = ["patrick-debois"]
 +++
 
-Over the last years I learned about seeing more pipelines then just dev & ops.
-Sales, Marketing, HR, Support they all have their pipeline.
-This talk will show the interdependencies between <b>ALL</b> the pipelines.
+After switching many different roles over the past years , I've been running my own business over the past 5 years.
+
+Given my background, "doing" devops I assumed would be the least of my worries. I wanted to learn how devops could make a difference on business level.
+
+This talk is an experience report on my learnings:
+
+- Devops is not so special in a company context
+- Decisions made in other departements impact devops and vice-versa
+- How to improve relationships/feedback beyond dev & ops
+- Optimize for the whole system , not just the part between dev and ops
