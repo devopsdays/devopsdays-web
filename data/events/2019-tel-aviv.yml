@@ -155,11 +155,17 @@ sponsors:
     level: gold
   - id: mondaycom
     level: gold
+  - id: synopsys
+    level: gold
+  - id: digitalocean
+    level: gold
   - id: yotpo
     level: silver
   - id: aerospike
     level: silver
   - id: wework
+    level: silver
+  - id: minute-media
     level: silver
   - id: yotpo
     level: coffee
@@ -185,12 +191,13 @@ sponsor_levels:
     label: Organizer
   - id: platinum
     label: Platinum
-    max: 2
+    max: 3
   - id: gold
     label: Gold
-    max: 12
+    max: 10
   - id: silver
     label: Silver
+    max: 10
   - id: happy hour
     label: Happy Hour
   - id: coffee

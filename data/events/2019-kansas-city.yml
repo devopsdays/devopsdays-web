@@ -84,12 +84,12 @@ team_members: # Name is the only required field for team members.
   - name: "Ryan McNair"
     employer: RSA
     image: ryan-mcnair.jpg
-    bio: "Ryan McNair is currently helping improve access to Digital Risk Management services at RSA Security, 
-    a Dell Technologies company. Previously, Ryan held multiple engineering and leadership positions at Cerner Corp, 
-    a provider of Electronic Health Record software and services to hospitals, and SMRxT, a Medication Adherence 
-    company focused on software and IoT devices to monitor when patients do and don’t take their medicine.  
-    Ryan is focused on successful technology implementations and sees DevOps as a powerful tool in the business 
-    value stream for all SaaS products. Outside the office, you’ll find Ryan tearing up the local mountain bike trails 
+    bio: "Ryan McNair is currently helping improve access to Digital Risk Management services at RSA Security,
+    a Dell Technologies company. Previously, Ryan held multiple engineering and leadership positions at Cerner Corp,
+    a provider of Electronic Health Record software and services to hospitals, and SMRxT, a Medication Adherence
+    company focused on software and IoT devices to monitor when patients do and don’t take their medicine.
+    Ryan is focused on successful technology implementations and sees DevOps as a powerful tool in the business
+    value stream for all SaaS products. Outside the office, you’ll find Ryan tearing up the local mountain bike trails
     and making sawdust in his basement workshop."
     linkedin: https://www.linkedin.com/in/ryanmcnair/
   - name: "Tom Martin"
@@ -210,7 +210,13 @@ sponsors:
     level: community
   - id: tricomts
     level: supporting
-  
+  - id: appdynamics
+    level: premium
+  - id: googlecloud
+    level: premium
+  - id: signalfx
+    level: premium
+
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -433,7 +439,7 @@ program:
     type: custom
     date: 2019-10-25
     start_time: "16:00"
-    end_time: "16:30" 
+    end_time: "16:30"
 
 ignites:
   - title: "waldo-g"

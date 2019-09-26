@@ -89,6 +89,10 @@ sponsors:
     level: gold
   - id: sonatype
     level: gold
+  - id: xmatters
+    level: gold
+  - id: 2nd-watch
+    level: gold
   - id: overops
     level: silver
   - id: instana
@@ -96,6 +100,8 @@ sponsors:
   - id: signalfx
     level: silver
   - id: socketlabs
+    level: silver
+  - id: rancher
     level: silver
   - id: arresteddevops
     level: community
@@ -127,7 +133,7 @@ program:
     date: 2019-10-22
     start_time: "09:00"
     end_time: "09:15"
-  - title: "lanice-sims"
+  - title: "jocelyn-harper"
     type: talk
     date: 2019-10-22
     start_time: "09:15"
@@ -137,7 +143,7 @@ program:
     date: 2019-10-22
     start_time: "09:45"
     end_time: "09:55"
-  - title: "seth-vargo"
+  - title: "marco-coulter"
     type: talk
     date: 2019-10-22
     start_time: "09:55"
@@ -243,7 +249,7 @@ program:
     date: 2019-10-23
     start_time: "10:25"
     end_time: "10:40"
-  - title: "marco-coulter"
+  - title: "seth-vargo"
     type: talk
     date: 2019-10-23
     start_time: "10:40"
@@ -263,7 +269,7 @@ program:
     date: 2019-10-23
     start_time: "11:50"
     end_time: "13:00"
-  - title: ""
+  - title: "arrested-devops"
     type: talk
     date: 2019-10-23
     start_time: "13:00"
