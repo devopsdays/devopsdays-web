@@ -158,14 +158,14 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
   - id: diamond
-    label: DIAMOND SPONSORS
+    label: DIAMOND
   - id: platinum 
-    label: PLATINUM SPONSORS
+    label: PLATINUM
   - id: gold
-    label: GOLD SPONSORS
+    label: GOLD
 #    max: 10
   - id: patrons
-    label: PATRONS
+    label: PATRON
     #max: 0 # This is the same as omitting the max limit.
   - id: communitys
-    label: COMMUNITY SPONSORS
+    label: COMMUNITY
