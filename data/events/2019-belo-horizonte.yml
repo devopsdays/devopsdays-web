@@ -299,13 +299,6 @@ program:
     start_time: "13:10"
     end_time: "15:00"
 
-  - title: "daniel-reis"
-    comments: Sala Workshop Logs WAF
-    type: workshop
-    date: 2019-09-28
-    start_time: "16:00"
-    end_time: "17:40"
-
   - title: "Sala 360 DevOps"
     type: custom
     date: 2019-09-28
@@ -408,6 +401,13 @@ program:
     start_time: "16:00"
     end_time: "16:30"
     background_color: "#ff8282"
+
+  - title: "daniel-reis"
+    comments: Sala Workshop Logs WAF
+    type: workshop
+    date: 2019-09-28
+    start_time: "16:00"
+    end_time: "17:40"
 
   - title: "yago-bruno"
     type: talk
