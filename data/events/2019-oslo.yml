@@ -115,10 +115,11 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
   - id: partner
-    label: ""
+    label: Gold
     max: 12
   - id: community
     label: Community
+
 program:
   - title: "Registration, Breakfast, Sponsors"
     type: custom
