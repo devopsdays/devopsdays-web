@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Pronouncing `kubectl`: The Definitive Guide"
 Type = "talk"
 Speakers = ["waldo-g"]
+pdf = "https://assets.devopsdays.org/events/2019/stockholm/Pronouncing-kubectl-The-Definitive-Guide.pdf"
 +++
 
 **Lightning Talk**

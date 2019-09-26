@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Quick—what time is it!?"
 Type = "talk"
 Speakers = ["daniel-maher"]
+pdf = "https://assets.devopsdays.org/events/2019/stockholm/Quick-what-time-is-it.pdf"
 +++
 
 **Ignite Talk**

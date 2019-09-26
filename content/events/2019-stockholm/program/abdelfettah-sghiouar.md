@@ -2,6 +2,7 @@
 Title = "What the H** is Istio?"
 Type = "talk"
 Speakers = ["abdelfettah-sghiouar"]
+pdf = "https://assets.devopsdays.org/events/2019/stockholm/What-the-H_-is-ISTIO.pdf"
 +++
 
 **Ignite Talk**

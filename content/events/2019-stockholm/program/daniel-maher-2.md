@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "What MMA taught me about working in tech"
 Type = "talk"
 Speakers = ["daniel-maher"]
+slides = "https://speaking.dark.ca/G3JgYA/what-mma-taught-me-about-working-in-tech"
 +++
 
 At first it might not seem like mixed martial arts has much to do with working as professional computer person. As somebody who’s been hospitalised as a result of both, I assure you that there are interesting and enlightening parallels. Poor work-life balance? Weird sleeping schedules? Difficulties with nutrition and diet? Toxic hero culture? Check and check.

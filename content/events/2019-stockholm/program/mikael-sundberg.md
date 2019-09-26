@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "How a team of 4 wrote, maintained and operated 50+ services"
 Type = "talk"
 Speakers = ["mikael-sundberg"]
+pdf = "https://assets.devopsdays.org/events/2019/stockholm/How-a-team-of-4-wrote-maintained-and-operated-50+-services.pdf"
 +++
 
 **Ignite Talk**
