@@ -15,7 +15,7 @@ Description = "devopsdays kansas city 2019"
 
 This conference is hosted by DevOpsKC, make sure to checkout our [monthly meetup](https://meetup.devopskc.com) and our [website](https://devopskc.com).
 
-<b>Learning</b> <br> At DevOpsDays we discuss the culture and tools that can make organizations run better, deliver faster, and improve quality.  This year, we have a fantastic lineup of over 34 speakers and facilitators from around the country. There are 10 interactive workshops that will let you dive deeper into the domain of your choice. With a mix of in-depth talks, tech-focused workshops, and laser-focused Ignite talks, you are sure to learn something new!
+<b>Learning</b> <br> At DevOpsDays we discuss the culture and tools that can make organizations run better, deliver faster, and improve quality.  This year, we have a fantastic lineup of over 30 speakers and facilitators from around the country. There are 10 interactive workshops that will let you dive deeper into the domain of your choice. With a mix of in-depth talks, tech-focused workshops, and laser-focused Ignite talks, you are sure to learn something new!
 
 
 <b>Sharing</b> <br> We've heightened focus on Open Spaces, a DevOpsDays staple, by removing conflicts from the schedule to ensure everyone can participate. These round-table discussions ensure attendees can contribute to topics in small discussions with other passionate collaborators. Space to break out and share success and failure, get feedback on creative solutions, and ask for help solving real-world problems, provides an immeasurable opportunity to grow yourself, and ultimately, your tech teams back at work.
