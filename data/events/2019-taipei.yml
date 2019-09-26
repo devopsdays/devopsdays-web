@@ -168,4 +168,4 @@ sponsor_levels:
     label: PATRONS
     #max: 0 # This is the same as omitting the max limit.
   - id: communitys
-    label: COMMUNITY SPONSORSB
+    label: COMMUNITY SPONSORS
