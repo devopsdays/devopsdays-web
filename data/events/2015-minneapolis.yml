@@ -20,7 +20,7 @@ location: "Minneapolis" # Defaults to city, but you can make it the venue name.
 #
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- 
+
   - name: program
   - name: location
   - name: registration
@@ -56,7 +56,7 @@ sponsors:
     level: gold
   - id: pagerduty
     level: gold
-  - id: docker
+  - id: docker-before-20190926
     level: gold
   - id: target
     level: gold
