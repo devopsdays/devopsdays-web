@@ -148,6 +148,9 @@ sponsors:
   # community
   - id: devops-amsterdam
     level: community
+  # stickers
+  - id: stickermule
+    level: sticker
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -173,6 +176,8 @@ sponsor_levels:
     max: 10
   - id: community
     label: Community
+  - id: sticker
+    label: Stickers
 
 program:
 - title: Registration & Check In

@@ -102,6 +102,8 @@ sponsors:
     level: partner
   - id: gitlab
     level: partner
+  - id: entur
+    level: partner
   - id: capra
     level: community
 
@@ -113,10 +115,11 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
   - id: partner
-    label: ""
+    label: Gold
     max: 12
   - id: community
     label: Community
+
 program:
   - title: "Registration, Breakfast, Sponsors"
     type: custom
@@ -233,7 +236,7 @@ program:
     date: 2019-10-23T23:59:59+02:00
     start_time: "10:25"
     end_time: "10:40"
-  - title: "TBA"
+  - title: "denys-vasyliev"
     type: talk
     date: 2019-10-23T23:59:59+02:00
     start_time: "10:40"
@@ -243,7 +246,7 @@ program:
     date: 2019-10-23T23:59:59+02:00
     start_time: "11:10"
     end_time: "11:20"
-  - title: "TBA"
+  - title: "ulf-mansson"
     type: talk
     date: 2019-10-23T23:59:59+02:00
     start_time: "11:20"
@@ -295,8 +298,6 @@ ignites:
   - title: "renata-rocha"
     date: 2019-10-22T00:00:00+02:00
   - title: "henrik-stene"
-    date: 2019-10-23T23:59:59+02:00
-  - title: "rafal-malanij"
     date: 2019-10-23T23:59:59+02:00
   - title: "johan-abildskov"
     date: 2019-10-23T23:59:59+02:00

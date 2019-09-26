@@ -1,7 +1,7 @@
 +++
 Title = "Ambreen Sheikh"
 Twitter = "anbreensh"
-image = "Ambreen_Sheikh.jpg"
+image = "Ambreen_Sheikh.png"
 type = "speaker"
 linktitle = "ambreen-sheikh"
 

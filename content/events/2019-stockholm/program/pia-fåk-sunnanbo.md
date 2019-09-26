@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Is your website guilty of climate change?"
 Type = "talk"
 Speakers = ["pia-fåk-sunnanbo"]
+pdf = "https://assets.devopsdays.org/events/2019/stockholm/Is_your_website_guilty_of_climate_change.pdf"
 +++
 
 **Ignite Talk**
