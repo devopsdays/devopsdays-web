@@ -86,6 +86,8 @@ sponsors:
     level: gold
   - id: bcbst
     level: gold
+  - id: redhat-silex
+    level: gold
   - id: unum
     level: gold
   - id: saucelabs
