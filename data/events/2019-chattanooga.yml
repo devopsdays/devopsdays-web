@@ -86,12 +86,18 @@ sponsors:
     level: gold
   - id: bcbst
     level: gold
+  - id: redhat-silex
+    level: gold
   - id: unum
     level: gold
+  - id: infosystems
+    level: silver
   - id: saucelabs
     level: silver
   - id: compuware
     level: bronze
+  - id: societyofwork
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
