@@ -247,12 +247,17 @@ program:
     type: ignite
     date: 2019-10-01
     start_time: "13:00"
-    end_time: "13:40"
+    end_time: "13:30"
   - title: "Ignite Karaoke"
     type: custom
     date: 2019-10-01
+    start_time: "13:30"
+    end_time: "13:40"
+  - title: "Break"
+    type: custom
+    date: 2019-10-01
     start_time: "13:40"
-    end_time: "13:45"
+    end_time: "13:50"
   - title: "Open Spaces"
     type: open-space
     date: 2019-10-01
@@ -382,62 +387,72 @@ program:
     type: ignite
     date: 2019-10-02
     start_time: "13:00"
-    end_time: "13:40"
+    end_time: "13:30"
   - title: "Ignite Karaoke"
     type: custom
     date: 2019-10-02
-    start_time: "13:40"
-    end_time: "13:45"
-  - title: "Open Spaces"
-    type: open-space
-    date: 2019-10-02
-    start_time: "13:50"
-    end_time: "15:50"
-  - title: "Escape Room Experience"
-    type: custom
-    date: 2019-10-02
-    start_time: "13:50"
-    end_time: "15:50"
-  - title: "daniel-oh"
-    type: talk
-    date: 2019-10-02
-    start_time: "13:50"
-    end_time: "14:20"
-  - title: "Sponsors"
-    type: custom
-    date: 2019-10-02
-    start_time: "14:20"
-    end_time: "14:30"
-  - title: "kirk-kaiser"
-    type: talk
-    date: 2019-10-02
-    start_time: "14:30"
-    end_time: "15:00"
+    start_time: "13:30"
+    end_time: "13:40"
   - title: "Break"
     type: custom
     date: 2019-10-02
-    start_time: "15:00"
-    end_time: "15:10"
-  - title: "martez-reed"
+    start_time: "13:40"
+    end_time: "14:00"
+  - title: "Open Spaces"
+    type: open-space
+    date: 2019-10-02
+    start_time: "14:00"
+    end_time: "16:10"
+  - title: "Escape Room Experience"
+    type: custom
+    date: 2019-10-02
+    start_time: "14:00"
+    end_time: "16:10"
+  - title: "daniel-oh"
     type: talk
     date: 2019-10-02
-    start_time: "15:10"
-    end_time: "15:40"
+    start_time: "14:00"
+    end_time: "14:30"
   - title: "Sponsors"
     type: custom
     date: 2019-10-02
-    start_time: "15:40"
-    end_time: "15:50"
+    start_time: "14:30"
+    end_time: "14:40"
+  - title: "kirk-kaiser"
+    type: talk
+    date: 2019-10-02
+    start_time: "14:40"
+    end_time: "15:10"
+  - title: "Break"
+    type: custom
+    date: 2019-10-02
+    start_time: "15:10"
+    end_time: "15:30"
+  - title: "martez-reed"
+    type: talk
+    date: 2019-10-02
+    start_time: "15:30"
+    end_time: "16:00"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-10-02
+    start_time: "16:00"
+    end_time: "16:10"
   - title: "julie-gunderson"
     type: talk
     date: 2019-10-02
-    start_time: "15:50"
-    end_time: "16:20"
-  - title: "Closing Happy Hour, Remarks, Raffle"
+    start_time: "16:10"
+    end_time: "16:40"
+  - title: "Closing Remarks and Raffle !"
     type: custom
     date: 2019-10-02
-    start_time: "16:20"
-    end_time: "17:20"
+    start_time: "16:40"
+    end_time: "17:00"
+  - title: "Happy Hour"
+    type: custom
+    date: 2019-10-02
+    start_time: "17:00"
+    end_time: "18:00"
 
 ignites:
   - title: "ethan-fritz"
