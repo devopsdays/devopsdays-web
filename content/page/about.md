@@ -22,6 +22,7 @@ The devopsdays global core team guides local organizers in hosting their own dev
 
 **Core Organizers**
 
+<em>Active</em><br>
 {{< list_core >}}
 
 {{< list_core_advisory >}}
