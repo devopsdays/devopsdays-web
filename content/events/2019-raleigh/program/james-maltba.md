@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "DevOps and K8s: Delivering Cloud Native Anywhere"
 Type = "talk"
-Speakers = ["christopher-merz"]
+Speakers = ["james-maltba"]
 +++
 Microservices and Containers have revolutionized application development and have offered drastic simplifications to how we implement CI/CD. The Orchestrator Wars are over, and Kubernetes has emerged the ubiquitous victor. How do we, as DevOps professionals, embrace and leverage Kubernetes to further simplify and automate our processes and platforms to reduce time to value in our organizations?
 

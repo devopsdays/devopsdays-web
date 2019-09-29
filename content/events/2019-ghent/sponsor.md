@@ -68,8 +68,8 @@ We will make sure your table has the equipment that was shipped. Tear down must 
 <dt>We want to rent 'x' for our booth.</dt>
 <dd>We suggest you make use of <a href="https://www.levipartyrental.be/">Levi Party Rental</a> for party equipment and <a href="https://www.swingverkoop.be">Swing verkoop</a> for AV equipment. When contacting them please mention DevOpsDays Ghent so they can arrange a single shipment for all sponsors.  Please be reminded that everything you rent should fit in the space allocated to you.</dd>
 
-<dt>Can we offer the attendees food/coffee?</dt>
-<dd>It's very kind to offer our attendees extra food but we will provide excellent foods and drinks during the full course of the conference. For safety reasons and to make sure the electric circuit can handle the load we don't allow any kind of food making/heating machines.</dd>
+<dt>Can we offer the attendees food/beverages?</dt>
+<dd>It's very kind to offer our attendees extra food and/or beverages (including alcohol) but we will provide excellent foods and drinks during the full course of the conference.</dd>
 
 <dt>How can we reach out to the attendees through Twitter & LinkedIn Announcements</dt>
 <dd>Please tweet with the hashtags #devopsdaysghent and #devopsdays. Before, during and after the event you can get announcments and stay in touch with us by following us on Twitter {{< event_twitter >}}</dd>

@@ -6,7 +6,7 @@ linktitle = "chantee-boykin"
 
 +++
 
-Chantée can give you a good recipe on how to bake a fulfilling IT career from scratch. Her journey evolved from her start as a website developer, to troubleshooting as technical support, to IT process and service delivery, and now DevOps management.  It is her hope to share my experiences and lessons learned to embolden people, especially young women, to pursue technical careers and a future in IT and leadership. 
+Chantée can give you a good recipe on how to bake a fulfilling IT career from scratch. Her journey evolved from her start as a website developer, to troubleshooting as technical support, to IT process and service delivery, and now DevOps management.  It is her hope to share her experiences and lessons learned to embolden people, especially young women, to pursue technical careers and a future in IT and leadership. 
 
 Currently she manages a team of developers at Science Applications International Corporation (SAIC).  She is the IT product owner operating on the ServiceNow platform in support of their client, the Environmental Protection Agency (EPA).
 
