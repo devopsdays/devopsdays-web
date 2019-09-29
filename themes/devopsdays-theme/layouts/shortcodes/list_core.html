@@ -1,9 +1,1 @@
-{{- $len := (len $.Site.Data.core.active) -}}
-{{- range $index, $organizer := $.Site.Data.core.active -}}
-  {{- if ne (add $index 1) $len -}}
-    {{ $organizer }},&nbsp;
-  {{- else -}}
-    {{ $organizer }}
-  {{- end -}}
-{{- end -}}
-<br>
+<em>The global <a href="/about/">core organizers</a> support local teams.</em>
