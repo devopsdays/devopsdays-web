@@ -7,7 +7,6 @@ active = [
 "Rafael Gomes",
 "Nathen Harvey",
 "Mine Heck",
-"Matthew Jones",
 "Dan Maher",
 "Adrian Moisey",
 "Ken Mugrage",
@@ -18,7 +17,11 @@ active = [
 "John Willis"
 ]
 
-historic = [
+advisory = [
+"Matthew Jones"
+]
+
+emeritus = [
 "Patrick Debois (founder)",
 "Damon Edwards",
 "Anthony Goddard",
