@@ -77,9 +77,13 @@ organizer_email: "baku@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: pashabank
+    level: platinium
   - id: atltech
     level: gold
   - id: innoland
+    level: gold
+  - id: sup
     level: gold
   #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: techacademy
@@ -92,6 +96,8 @@ sponsors_accepted: "no" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: platinium
+    label: Platinium
   - id: gold
     label: Gold
   - id: silver
