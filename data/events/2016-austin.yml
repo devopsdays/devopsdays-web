@@ -91,7 +91,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: happyhour
   - id: ca
     level: lanyard
-  - id: pagerduty
+  - id: pagerduty-before-20190930
     level: silver
   - id: jiraservicedesk
     level: silver
