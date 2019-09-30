@@ -166,16 +166,21 @@ program:
     date: 2019-10-22T00:00:00+02:00
     start_time: "11:20"
     end_time: "11:50"
+  - title: "kat-liu"
+    type: talk
+    date: 2019-10-22T00:00:00+02:00
+    start_time: "11:55"
+    end_time: "12:25"
   - title: "Lunch"
     type: custom
     date: 2019-10-22T00:00:00+02:00
-    start_time: "11:50"
+    start_time: "12:25"
     end_time: "13:00"
   - title: "Ignites"
     type: ignite
     date: 2019-10-22T00:00:00+02:00
-    start_time: "13:00"
-    end_time: "13:30"
+    start_time: "13:35"
+    end_time: "14:30"
   - title: "Open Space Opening"
     type: open-space
     date: 2019-10-22T00:00:00+02:00
@@ -251,10 +256,15 @@ program:
     date: 2019-10-23T23:59:59+02:00
     start_time: "11:20"
     end_time: "11:50"
+  - title: "ambreen-sheikh"
+    type: talk
+    date: 2019-10-23T23:59:59+02:00
+    start_time: "11:55"
+    end_time: "12:25"
   - title: "Lunch"
     type: custom
     date: 2019-10-23T23:59:59+02:00
-    start_time: "11:50"
+    start_time: "12:25"
     end_time: "13:00"
   - title: "Ignites"
     type: ignite
@@ -292,8 +302,6 @@ ignites:
   - title: "pia-fak-sunnanbo"
     date: 2019-10-22T00:00:00+02:00
   - title: "mike-long"
-    date: 2019-10-22T00:00:00+02:00
-  - title: "muhammed-adawi"
     date: 2019-10-22T00:00:00+02:00
   - title: "renata-rocha"
     date: 2019-10-22T00:00:00+02:00
