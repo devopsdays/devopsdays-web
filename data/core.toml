@@ -18,11 +18,11 @@ active = [
 ]
 
 advisory = [
+"Patrick Debois (founder)",
 "Matthew Jones"
 ]
 
 emeritus = [
-"Patrick Debois (founder)",
 "Damon Edwards",
 "Anthony Goddard",
 "Lindsay Holmwood",
