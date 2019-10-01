@@ -72,11 +72,6 @@ team_members: # Name is the only required field for team members.
     github: "christiano-linuxmen"
     bio: "Digital Influencer e Evangelista de Tecnologia no Papo de Sysadmin, comunidade com o propósito de engajar, fomentar e esclarecer as demais organizações e empresas sobre DevOps, Cloud Computing, Arquitetura de Software, Segurança da Informação entre outros temas correlatos.
     Atualmente é Community Leader da OWASP Chapter São Paulo, criador do Time Regional do Ubuntu em São Paulo, e coordena a área Cloud no TheDevConf que envolve as trilhas DevOps, DevOps Tools, Cloud, Containers e Software Security."
-  - name: "Daniel Gines"
-    role: "Organizer"
-    linkedin: "https://www.linkedin.com/in/danielgines/"
-    image: "daniel-gines.jpeg"
-    github: "danielgines"
   - name: "Eduardo Ximenes"
     role: "Organizer"
     linkedin: "https://www.linkedin.com/in/ximenesit/"
@@ -104,11 +99,17 @@ proposal_email: "proposals-campinas-2019@devopsdays.org" # Put your proposal ema
 sponsors:
   - id: aws
     level: gold
+  - id: signalfx
+    level: gold
   - id: newrelic
     level: gold
   - id: globo
     level: bronze
   - id: infoq
+    level: community
+  - id: papo-de-sysadmin
+    level: community
+  - id: devcamp
     level: community
   - id: elastic
     level: bronze
