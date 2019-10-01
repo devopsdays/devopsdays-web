@@ -333,7 +333,7 @@ program:
     date: 2019-10-22
     start_time: "09:40"
     end_time: "09:45"
-  - title: "piyush-verma"
+  - title: "katie-mclaughlin"
     type: talk
     date: 2019-10-22
     start_time: "09:45"
@@ -343,7 +343,7 @@ program:
     date: 2019-10-22
     start_time: "10:20"
     end_time: "10:45"
-  - title: "jane-miceli"
+  - title: "diagnose-devops"
     type: talk
     date: 2019-10-22
     start_time: "10:45"
