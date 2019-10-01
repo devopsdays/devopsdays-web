@@ -1,5 +1,5 @@
 +++
-Title = "Nota sobre mudança de local"
+Title = "Nota sobre mudança de local do DevOpsDays Salvador 2019"
 Date = "2019-10-01T09:00:00-03:00"
 Tags = ["announcement"]
 Author = "devopsdays Salvador 2019"
