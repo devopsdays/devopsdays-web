@@ -25,7 +25,7 @@
                </div>
 	    {{- else -}}
               <div class="col-md-8 order-md-12">
-                  {{- block "main" . }} {{- end -}}
+                  {{- partial "heading_link.html" .Content -}}
               </div>
               <div class="col-md-2 order-md-1">
                   <a href = "{{ "/events" }}" class="left-nav-navs">ALL EVENTS</a><br />
