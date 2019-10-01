@@ -118,6 +118,11 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/kayjohnsonagiledevopscloud"
     image: "default-female.jpg"
     bio: "Kay is a principal consultant and cloud architect who focuses on helping clients understand the value that Business Agility, Agile and DevOps can bring to their business."
+  - name: "Will Robertson"
+    twitter: "mexisme"
+    linkedin: "https://www.linkedin.com/in/willjr0"
+    github: "mexisme"
+    image: "will-robertson.jpg"
 
 organizer_email:  "organisers-auckland-2019@devopsdays.org" # Put your organizer email address here
 proposal_email:   "proposals-auckland-2019@devopsdays.org" # Put your proposal email address here
