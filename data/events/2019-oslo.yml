@@ -169,48 +169,58 @@ program:
   - title: "kat-liu"
     type: talk
     date: 2019-10-22T00:00:00+02:00
-    start_time: "11:55"
-    end_time: "12:25"
+    start_time: "11:50"
+    end_time: "12:20"
   - title: "Lunch"
     type: custom
     date: 2019-10-22T00:00:00+02:00
-    start_time: "12:25"
-    end_time: "13:00"
+    start_time: "12:20"
+    end_time: "13:30"
   - title: "Ignites"
     type: ignite
     date: 2019-10-22T00:00:00+02:00
-    start_time: "13:35"
-    end_time: "14:30"
+    start_time: "13:30"
+    end_time: "14:00"
   - title: "Open Space Opening"
     type: open-space
     date: 2019-10-22T00:00:00+02:00
-    start_time: "13:30"
-    end_time: "14:00"
+    start_time: "14:00"
+    end_time: "14:30"
   - title: "Open Space #1"
     type: open-space
     date: 2019-10-22T00:00:00+02:00
-    start_time: "14:00"
-    end_time: "14:45"
+    start_time: "14:30"
+    end_time: "15:15"
+  - title: "Break"
+    type: custom
+    date: 2019-10-22T00:00:00+02:00
+    start_time: "15:15"
+    end_time: "15:30"
   - title: "Open Space #2"
     type: open-space
     date: 2019-10-22T00:00:00+02:00
-    start_time: "15:00"
-    end_time: "15:45"
+    start_time: "15:30"
+    end_time: "16:15"
+  - title: "Break"
+    type: custom
+    date: 2019-10-22T00:00:00+02:00
+    start_time: "16:15"
+    end_time: "16:30"
   - title: "Open Space #3"
     type: open-space
     date: 2019-10-22T00:00:00+02:00
-    start_time: "16:00"
-    end_time: "16:45"
+    start_time: "16:30"
+    end_time: "17:15"
   - title: "Close Day"
     type: custom
     date: 2019-10-22T00:00:00+02:00
-    start_time: "16:45"
-    end_time: "17:00"
+    start_time: "17:15"
+    end_time: "17:30"
   - title: "Evening event"
     type: custom
     date: 2019-10-22T00:00:00+02:00
-    start_time: "19:00"
-    end_time: "late"
+    start_time: "17:30"
+    end_time: "23:00"
   - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2019-10-23T23:59:59+02:00
@@ -259,43 +269,53 @@ program:
   - title: "ambreen-sheikh"
     type: talk
     date: 2019-10-23T23:59:59+02:00
-    start_time: "11:55"
-    end_time: "12:25"
+    start_time: "11:50"
+    end_time: "12:20"
   - title: "Lunch"
     type: custom
     date: 2019-10-23T23:59:59+02:00
-    start_time: "12:25"
-    end_time: "13:00"
+    start_time: "12:20"
+    end_time: "13:30"
   - title: "Ignites"
     type: ignite
     date: 2019-10-23T23:59:59+02:00
-    start_time: "13:00"
-    end_time: "13:30"
+    start_time: "13:30"
+    end_time: "14:00"
   - title: "Open Space Opening"
     type: open-space
     date: 2019-10-23T23:59:59+02:00
-    start_time: "13:30"
-    end_time: "14:00"
+    start_time: "14:00"
+    end_time: "14:15"
   - title: "Open Space #1"
     type: open-space
     date: 2019-10-23T23:59:59+02:00
-    start_time: "14:00"
-    end_time: "14:45"
+    start_time: "14:15"
+    end_time: "15:00"
+  - title: "Break"
+    type: custom
+    date: 2019-10-23T23:59:59+02:00
+    start_time: "15:00"
+    end_time: "15:15"
   - title: "Open Space #2"
     type: open-space
     date: 2019-10-23T23:59:59+02:00
-    start_time: "15:00"
-    end_time: "15:45"
+    start_time: "15:15"
+    end_time: "16:00"
+  - title: "Break"
+    type: custom
+    date: 2019-10-23T23:59:59+02:00
+    start_time: "16:00"
+    end_time: "16:15"
   - title: "Open Space #3"
     type: open-space
     date: 2019-10-23T23:59:59+02:00
-    start_time: "16:00"
-    end_time: "16:45"
+    start_time: "16:15"
+    end_time: "17:00"
   - title: "Closing"
     type: custom
     date: 2019-10-23T23:59:59+02:00
-    start_time: "16:45"
-    end_time: "17:00"
+    start_time: "17:00"
+    end_time: "17:15"
 ignites:
   - title: "nora-tomas"
     date: 2019-10-22T00:00:00+02:00
