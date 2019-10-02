@@ -104,6 +104,12 @@ sponsors:
     level: partner
   - id: entur
     level: partner
+  - id: praqma
+    level: partner
+  - id: xebialabs
+    level: partner
+  - id: microsoft
+    level: community
   - id: capra
     level: community
 
