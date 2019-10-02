@@ -1,6 +1,6 @@
 +++
 Title = "Inscrição"
-Type = "registration"
+Type = "event"
 Description = "Inscreva-se!"
 icons = "true"
 +++

@@ -119,6 +119,16 @@ team_members: # Name is the only required field for team members.
     website: "http://www.researchgate.net/profile/Reisel_Gonzalez_Perez"
     github: ""
     image: "reisel.jpg"
+  - name: "André Da Silva"
+    employer: "Oracle"
+    role: ""
+    bio: ""
+    twitter: ""
+    linkedin: "https://www.linkedin.com/in/andre-eduardo-da-silva-8a004a1b/"
+    facebook: ""
+    website: ""
+    github: ""
+    image: "andre.jpg"
 
 organizer_email: "santiago@devopsdays.org" # Put your organizer email address here
 
