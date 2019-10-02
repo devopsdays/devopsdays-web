@@ -11,7 +11,7 @@ Description = "devopsdays Belém 2019"
 <br/>
 <div>
     <div style="padding-left: 10px">
-      <p>A segunda edição do DevOpsDays Belém vai ser no dia <b>07 de Dezembro</b>!</p>
+      <p>A segunda edição do DevOpsDays Belém vai ser no dia <b>14 de Dezembro</b>!</p>
       <p>Nessa segunda edição do DevOpsDays Belém esperamos repetir o sucesso que foi a primeira edição. Se você não participou da primeira edição não perca essa oportunidade de trocar experiências, levar novos ensinamentos para casa, conhecer novas pessoas e quem sabe futuros colegas de trabalho. Você é o nosso diferencial, não deixe de participar!</p>
       <p>Os links abaixo tem outras informações, e algumas serão atualizadas a medida que fomos fechando a chamada de palestras pra compor a programação.</p>
       <p>Estamos contanto com você para fazer dessa segunda edição um sucesso ainda maior!</p>
