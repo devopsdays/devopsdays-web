@@ -24,7 +24,7 @@ Description = "devopsdays London 2019"
           <a class="btn btn-secondary btn-block disabled" href=""> <i class="fa fa-video-camera fa-lg"></i>&nbsp;&nbsp;&nbsp;Recordings Coming Soon</a>
         </div>
         <div class="p-2">
-          <a class="btn btn-secondary btn-block" href="/events/2018-london/contact"> <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Contact the Organizers</a>
+          <a class="btn btn-secondary btn-block" href="/events/2019-london/contact"> <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Contact the Organizers</a>
         </div>
       </div>
     </div>
