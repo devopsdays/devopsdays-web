@@ -5,9 +5,11 @@ aliases = ["/events/2019-raleigh/"]
 Description = "devopsdays Raleigh 2019"
 +++
 
-<!-- <div style="text-align:center;">
+# **Thank you for making Devops Days Raleigh an amazing event!**
+
+<div style="text-align:center;">
   {{< event_logo >}}
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -15,6 +17,15 @@ Description = "devopsdays Raleigh 2019"
   </div>
   <div class = "col-md-8">
     {{< event_start >}} - {{< event_end >}}
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Presentations</strong>
+  </div>
+  <div class = "col-md-8">
+    [Presentation slides are here!](https://drive.google.com/drive/folders/1RK2Q7aH1_KYVhGSTdURmo8VN0kZ1JJ_7?usp=sharing)
   </div>
 </div>
 
@@ -45,30 +56,31 @@ Description = "devopsdays Raleigh 2019"
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
     View the {{< event_link page="program" text="program." >}}
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="sponsor" text="Sponsor the conference!" >}}
+    Sponsorship is closed for this event. Checkout the Raleigh 2020 page (TBD) for next years sponsorship information. 
+    <!-- {{< event_link page="sponsor" text="Sponsor the conference!" >}} -->
   </div>
 </div>
 
@@ -82,6 +94,6 @@ Description = "devopsdays Raleigh 2019"
 </div>
 
 <!-- Uncomment if you added your city twitter name -->
-<!--
+
 {{< event_twitter >}}
--->
+
