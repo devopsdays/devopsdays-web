@@ -7,9 +7,14 @@ Description = "devopsdays Raleigh 2019"
 
 # **Thank you for making Devops Days Raleigh an amazing event!**
 
+## Keep the DevOpsDays Raleigh conversation going and join our LinkedIn group for updates. 
+
+<a href="http://ow.ly/wVAo30pEo9C">DevOpsDays Raleigh LinkedIn group</a>
+
+<!-- 
 <div style="text-align:center;">
   {{< event_logo >}}
-</div>
+</div> -->
 
 <div class = "row">
   <div class = "col-md-2">
@@ -25,7 +30,7 @@ Description = "devopsdays Raleigh 2019"
     <strong>Presentations</strong>
   </div>
   <div class = "col-md-8">
-    [Presentation slides are here!](https://drive.google.com/drive/folders/1RK2Q7aH1_KYVhGSTdURmo8VN0kZ1JJ_7?usp=sharing)
+    <a href="https://drive.google.com/drive/folders/1RK2Q7aH1_KYVhGSTdURmo8VN0kZ1JJ_7?usp=sharing">Check out the presentation slides here!</a>
   </div>
 </div>
 
