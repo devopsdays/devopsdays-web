@@ -1,7 +1,7 @@
 +++
 Title = "Erik Zaadi"
 Twitter = "erikzaadi"
-image = "erik-zaadi.jpg"
+image = "erik-zaadi.png"
 type = "speaker"
 linktitle = "erik-zaadi"
 
