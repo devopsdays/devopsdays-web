@@ -38,10 +38,11 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: location
  # - name: registration
  # - name: program
+ # - name: sponsor
+
 - name: speakers
 - name: registration
-- name: sponsor
-- name: propose
+- name: location
 - name: contact
 - name: conduct
 # - name: example
@@ -183,7 +184,7 @@ sponsors:
   - id: devopsloft
     level: community
 
-sponsors_accepted : "" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
