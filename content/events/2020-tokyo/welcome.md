@@ -13,7 +13,7 @@ Description = "devopsdays Tokyo 2020"
 **devopsdays is coming to {{< event_location >}}!**
 
 <div style="text-align:center;">
-    <img alt="DevOpsDays Tokyo 2020" src="/events/2020-tokyo/logo.png" style="max-width: 90%;">
+    {{< event_logo >}}
 </div>
 
 <div class = "row">
