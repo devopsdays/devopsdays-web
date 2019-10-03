@@ -25,7 +25,7 @@ Description = "devopsdays Raleigh 2019"
     <strong>Presentations</strong>
   </div>
   <div class = "col-md-8">
-    [Presentation slides are here!](https://drive.google.com/drive/folders/1RK2Q7aH1_KYVhGSTdURmo8VN0kZ1JJ_7?usp=sharing)
+    <a href="https://drive.google.com/drive/folders/1RK2Q7aH1_KYVhGSTdURmo8VN0kZ1JJ_7?usp=sharing">Check out the presentation slides here!</a>
   </div>
 </div>
 
