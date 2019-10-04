@@ -109,8 +109,14 @@ sponsors:
     level: gold
   - id: d2iq
     level: gold
+  - id: datadog
+    level: gold
+  - id: solace
+    level: silver
+  - id: azulsystems
+    level: silver
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
