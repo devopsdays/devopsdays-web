@@ -210,6 +210,8 @@ sponsors:
     level: community
   - id: tricomts
     level: supporting
+  - id: kairos
+    level: supporting
   - id: appdynamics
     level: premium
   - id: googlecloud
