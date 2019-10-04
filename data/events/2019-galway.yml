@@ -171,6 +171,8 @@ sponsors:
     level: gold
   - id: suse
     level: gold
+  - id: redhat
+    level: gold
   - id: avaya
     level: silver
   - id: aspect
