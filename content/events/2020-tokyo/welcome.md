@@ -13,7 +13,7 @@ Description = "devopsdays Tokyo 2020"
 **devopsdays is coming to {{< event_location >}}!**
 
 <div style="text-align:center;">
-  {{< event_logo >}}
+    {{< event_logo >}}
 </div>
 
 <div class = "row">
