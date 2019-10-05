@@ -58,6 +58,12 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/cmeza99"
     website: "https://www.digitalr00ts.com"
   - name: "Bryna Kirzner"
+    employer: ""
+    twitter: "brynak"
+    bio: "Co-Chair DevOpsDayLA"
+    github: "brynak"
+    linkedin: "https://www.linkedin.com/in/brynak"
+    image: "bryna-kirzner.jpg"
   - name: "Chris Webber"
   - name: "Jordan Schwartz"
 
