@@ -28,9 +28,9 @@ registration_closed: "" #set this to true if you need to manually close registra
 registration_link: "https://www.sympla.com.br/devopsdays-belem-2019__666901" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
-coordinates: "-1.458380,-48.482040" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Ed. Metropolitan Tower" # Defaults to city, but you can make it the venue name.
-location_address: "Rua dos Mundurucus, 3100, Cremação, Belém, PA" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+coordinates: "-1.453256,-48.494592" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Auditório do Banco da Amazônia" # Defaults to city, but you can make it the venue name.
+location_address: "Avenida Presidente Vargas, 800, Campina, Belém, PA" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: Local
@@ -116,6 +116,18 @@ sponsors:
 
   - id: cognita
     level: community
+
+  - id: sql-norte
+    level: community
+
+  - id: vue-norte
+    level: community
+
+  - id: banco-amazonia
+    level: platinum
+
+  - id: adaptworks
+    level: gold
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
