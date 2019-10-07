@@ -226,8 +226,6 @@ sponsors:
     level: lunch
   - id: kudelskisecurity-f5
     level: premium
-  - id: vml
-    level: premium
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
