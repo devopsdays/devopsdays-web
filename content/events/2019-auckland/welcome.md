@@ -75,7 +75,7 @@ Description = "DevOpsDays Auckland 2019"
       <strong>Sponsors</strong>
     </div>
     <div class="col-md-6">
-      {{< event_link page="sponsor" text="Sponsor DevOps Auckland 2019!" >}}
+      All our sponsorship slots have been filled
     </div>
   </div>
   <!-- <div class="row">
