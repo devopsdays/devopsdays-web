@@ -140,9 +140,13 @@ sponsors:
     level: silver
   - id: sysdig
     level: silver
-  - id: olindata
-    level: silver
   - id: showpad
+    level: silver
+  - id: logz
+    level: silver
+  - id: hashicorp
+    level: silver
+  - id: pulumi
     level: silver
   # bronze
   - id: inuits
@@ -150,6 +154,8 @@ sponsors:
   - id: s0l1dheroes
     level: bronze
   - id: skyscrapers
+    level: bronze
+  - id: olindata
     level: bronze
   # community
   - id: devops-amsterdam
