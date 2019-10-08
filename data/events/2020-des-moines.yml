@@ -28,7 +28,7 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 # Location
 #
-coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+coordinates: "41.5916,-93.6225" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Iowa Events Center" # Defaults to city, but you can make it the venue name.
 #
 location_address: "730 3rd Street, Des Moines, IA 50309" #Optional - use the street address of your venue. This will show up on the welcome page if set.
