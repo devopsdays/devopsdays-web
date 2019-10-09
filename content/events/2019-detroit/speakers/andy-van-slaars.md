@@ -1,7 +1,7 @@
 +++
 Title = "Andy Van Slaars"
 Twitter = "avanslaars"
-image = "andy-van-slaars.png"
+image = ""
 type = "speaker"
 linktitle = "andy-van-slaars"
 
