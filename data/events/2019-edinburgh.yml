@@ -112,26 +112,27 @@ proposal_email: "proposals-edinburgh-2019@devopsdays.org" # Put your proposal em
 sponsors:
   - id: chef
     level: gold
+  - id: cloudreach
+    level: gold
+  - id: ecs-digital
+    level: gold
   - id: freeagent
     level: gold
+  - id: skyscanner-2019
+    level: gold
+  - id: wood-mackenzie
+    level: gold
+  - id: exceptionuk
+    level: bronze
+  - id: izettle
+    level: bronze
   - id: ncredinburgh
     level: bronze
   - id: stv.tv
     level: bronze
-  - id: wood-mackenzie
-    level: gold
-  - id: cloudreach
-    level: gold
-  - id: exceptionuk
-    level: bronze
-#  - id: ecs-digital
-#    level: gold
-#  - id: skyscanner
-#    level: gold
 #  - id: nhs
 #    level: gold
-#  - id: woodmck
-#    level: gold
+
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
