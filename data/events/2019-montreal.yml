@@ -33,17 +33,17 @@ location: "Montreal, DoubleTree Hilton hotel" # Defaults to city, but you can ma
 location_address: "Double Tree Hilton in Montreal: 1255 Jeanne-Mance St, Montreal, QC H5B 1E5" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: Propose - Proposer
-    url: "/events/2019-montreal/propose/"
-    icon: "lightbulb-o"
+  # - name: Propose - Proposer
+  #   url: "/events/2019-montreal/propose/"
+  #   icon: "lightbulb-o"
   - name: Registration - Inscription
     url: "https://www.eiseverywhere.com/devopsdaysmontreal2019"
     icon: "user-plus"
   - name: Sponsor - Sponsoriser
     url: "/events/2019-montreal/sponsor/"
     icon: "money"
-#  - name: Speakers - Conférencier
-#    url: "/events/2019-montreal/speakers/"
+  - name: Speakers - Conférencier
+    url: "/events/2019-montreal/speakers/"
   - name: Contact - Contacter
     url: "/events/2019-montreal/contact/"
     icon: "envelope-o"
