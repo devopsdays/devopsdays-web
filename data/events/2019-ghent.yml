@@ -218,35 +218,28 @@ program:
   date: 2019-10-29
   start_time: '9:50'
   end_time: '10:05'
-
-- title: Break
-  type: custom
+- title: ken-mugrage2
+  type: talk
   date: 2019-10-29
-  start_time: '10:05'
-  end_time: '10:30'
-
+  start_time: '10:10'
+  end_time: '10:25'
 - title: chris-corriere
   type: talk
   date: 2019-10-29
-  start_time: '10:35'
-  end_time: '10:50'
-- title: ramon-van-alteren
-  type: talk
-  date: 2019-10-29
-  start_time: '10:50'
-  end_time: '11:05'
-- title: ken-mugrage-2
-  type: talk
-  date: 2019-10-29
-  start_time: '11:05'
-  end_time: '11:20'
+  start_time: '10:30'
+  end_time: '10:45'
 
 - title: Break
   type: custom
   date: 2019-10-29
-  start_time: '11:20'
-  end_time: '11:45'
+  start_time: '10:45'
+  end_time: '11:15'
 
+- title: ramon-van-alteren
+  type: talk
+  date: 2019-10-29
+  start_time: '11:15'
+  end_time: '11:30'
 - title: julie-gunderson
   type: talk
   date: 2019-10-29
@@ -255,44 +248,44 @@ program:
 - title: daniel-maher
   type: talk
   date: 2019-10-29
-  start_time: '12:00'
-  end_time: '12:15'
+  start_time: '12:05'
+  end_time: '12:20'
 - title: sasha-rosenbaum
   type: talk
   date: 2019-10-29
-  start_time: '12:15'
-  end_time: '12:30'
+  start_time: '12:25'
+  end_time: '12:40'
 
 - title: Lunch
   type: custom
   date: 2019-10-29
-  start_time: '12:30'
-  end_time: '13:30'
-
-- title: ant-stanley
-  type: talk
-  background_color: "#C4FFD7"
-  date: 2019-10-29
-  start_time: '13:30'
+  start_time: '12:40'
   end_time: '13:35'
-- title: emanuil-tolev
-  type: talk
+
+- title: matt-stratton
   background_color: "#C4FFD7"
-  date: 2019-10-29
-  start_time: '13:35'
-  end_time: '13:40'
-- title: matty-stratton
   type: talk
-  background_color: "#C4FFD7"
   date: 2019-10-29
   start_time: '13:40'
   end_time: '13:45'
 - title: ken-mugrage
-  type: talk
   background_color: "#C4FFD7"
+  type: talk
   date: 2019-10-29
   start_time: '13:45'
   end_time: '13:50'
+- title: emanuil-tolev
+  background_color: "#C4FFD7"
+  type: talk
+  date: 2019-10-29
+  start_time: '13:50'
+  end_time: '13:55'
+- title: ant-stanley
+  background_color: "#C4FFD7"
+  type: talk
+  date: 2019-10-29
+  start_time: '13:55'
+  end_time: '14:00'
 
 - title: "Open Space Planning"
   type: open-space
@@ -348,78 +341,72 @@ program:
 - title: stephen-nelson-smith
   type: talk
   date: 2019-10-30
-  start_time: '10:15'
-  end_time: '10:30'
-
-- title: Break
-  type: custom
-  date: 2019-10-30
-  start_time: '10:30'
-  end_time: '10:55'
-
+  start_time: '10:10'
+  end_time: '10:25'
 - title: michael-ducy
   type: talk
   date: 2019-10-30
-  start_time: '11:00'
-  end_time: '11:15'
-- title: george-miranda
-  type: talk
-  date: 2019-10-30
-  start_time: '11:20'
-  end_time: '11:35'
-- title: bryan-liles
-  type: talk
-  date: 2019-10-30
-  start_time: '11:35'
-  end_time: '11:50'
+  start_time: '10:30'
+  end_time: '10:45'
 
 - title: Break
   type: custom
   date: 2019-10-30
-  start_time: '11:50'
-  end_time: '12:10'
+  start_time: '10:40'
+  end_time: '11:10'
 
+- title: george-miranda
+  type: talk
+  date: 2019-10-30
+  start_time: '11:10'
+  end_time: '11:25'
+- title: bryan-liles
+  type: talk
+  date: 2019-10-30
+  start_time: '11:30'
+  end_time: '11:45'
 - title: jabe-bloom
   type: talk
   date: 2019-10-30
-  start_time: '12:15'
-  end_time: '12:30'
+  start_time: '11:50'
+  end_time: '12:05'
 - title: bridget-kromhout
   type: talk
   date: 2019-10-30
-  start_time: '12:30'
-  end_time: '12:45'
+  start_time: '12:10'
+  end_time: '12:25'
 
 - title: Lunch
   type: custom
   date: 2019-10-30
-  start_time: '12:45'
+  start_time: '12:30'
   end_time: '13:25'
 
 - title: jason-yee
-  type: talk
   background_color: "#C4FFD7"
+  type: talk
   date: 2019-10-30
   start_time: '13:30'
   end_time: '13:35'
 - title: blerim-sheqa
-  type: talk
   background_color: "#C4FFD7"
+  type: talk
   date: 2019-10-30
   start_time: '13:35'
   end_time: '13:40'
-- title: eric-keller
-  type: talk
+- title: éric-keller
   background_color: "#C4FFD7"
+  type: talk
   date: 2019-10-30
   start_time: '13:40'
   end_time: '13:45'
 - title: jj-asghar
-  type: talk
   background_color: "#C4FFD7"
+  type: talk
   date: 2019-10-30
-  start_time: '13:50'
-  end_time: '13:55'
+  start_time: '13:45'
+  end_time: '13:50'
+
 
 - title: "Open Space Planning"
   type: open-space
@@ -446,6 +433,6 @@ program:
   type: talk
   date: 2019-10-30
   start_time: '16:45'
-  end_time: '17:15'
+  end_time: '17:00'
 
 
