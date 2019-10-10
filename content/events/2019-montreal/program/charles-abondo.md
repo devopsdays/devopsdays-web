@@ -20,4 +20,3 @@ How do we mobilize our organization and talent to deliver?
 How do we find the right service integrator to partner with?
 
 From design, through the development process to production support, this paper will walk you through CN’s DevSecOps modernization journey and provide fundamental learnings along the way.
-To enable screen reader support, press ⌘+Option+Z To learn about keyboard shortcuts, press ⌘slash
