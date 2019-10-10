@@ -112,26 +112,27 @@ proposal_email: "proposals-edinburgh-2019@devopsdays.org" # Put your proposal em
 sponsors:
   - id: chef
     level: gold
+  - id: cloudreach
+    level: gold
+  - id: ecs-digital
+    level: gold
   - id: freeagent
     level: gold
+  - id: skyscanner-2019
+    level: gold
+  - id: wood-mackenzie
+    level: gold
+  - id: exceptionuk
+    level: bronze
+  - id: izettle
+    level: bronze
   - id: ncredinburgh
     level: bronze
   - id: stv.tv
     level: bronze
-  - id: wood-mackenzie
-    level: gold
-  - id: cloudreach
-    level: gold
-  - id: exceptionuk
-    level: bronze
-#  - id: ecs-digital
-#    level: gold
-#  - id: skyscanner
-#    level: gold
 #  - id: nhs
 #    level: gold
-#  - id: woodmck
-#    level: gold
+
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -160,7 +161,7 @@ program:
     date: 2019-10-17
     start_time: "09:05"
     end_time: "09:15"
-  - title: "-"
+  - title: "stuart-davidson"
     type: talk
     date: 2019-10-17
     start_time: "09:15"
@@ -387,9 +388,9 @@ ignites:
     date: 2019-10-17
   - title: "emanuil-tolev"
     date: 2019-10-17
-  - title: "-"
+  - title: "adrian-mouat"
     date: 2019-10-17
-  - title: "-"
+  - title: "nik-knight"
     date: 2019-10-18
   - title: "-"
     date: 2019-10-18

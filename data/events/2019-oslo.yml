@@ -167,7 +167,7 @@ program:
     date: 2019-10-22T00:00:00+02:00
     start_time: "11:10"
     end_time: "11:20"
-  - title: "krikor-maroukian"
+  - title: "denys-vasyliev"
     type: talk
     date: 2019-10-22T00:00:00+02:00
     start_time: "11:20"
@@ -257,7 +257,7 @@ program:
     date: 2019-10-23T23:59:59+02:00
     start_time: "10:25"
     end_time: "10:40"
-  - title: "denys-vasyliev"
+  - title: "krikor-maroukian"
     type: talk
     date: 2019-10-23T23:59:59+02:00
     start_time: "10:40"
@@ -333,5 +333,5 @@ ignites:
     date: 2019-10-22T00:00:00+02:00
   - title: "henrik-stene"
     date: 2019-10-23T23:59:59+02:00
-  - title: "muhammed-adawi"
+  - title: "erik-wendel"
     date: 2019-10-23T23:59:59+02:00

@@ -137,7 +137,7 @@ sponsors:
   - id: microsoftnz
     level: platinum
   - id: buildkite
-    level: gold
+    level: platinum
   - id: section6
     level: gold
   - id: rancher
@@ -164,11 +164,13 @@ sponsors:
     level: gold
   - id: iag
     level: silver
+  - id: workday
+    level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
  # - id: arresteddevops
  #   level: community platinum gold silver lanyard media community
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
