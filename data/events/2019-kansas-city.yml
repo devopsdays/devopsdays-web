@@ -222,11 +222,14 @@ sponsors:
     level: premium
   - id: googlecloud
     level: coffee
+  - id: equipmentshare
+    level: lunch
   - id: capstonec
     level: lunch
   - id: kudelskisecurity-f5
     level: premium
-
+  - id: vmlyr
+    level: premium
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
