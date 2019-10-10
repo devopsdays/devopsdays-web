@@ -247,7 +247,7 @@ program:
     date: 2019-10-23T23:59:59+02:00
     start_time: "09:45"
     end_time: "09:55"
-  - title: "marta-paciorkowska"
+  - title: "serhat-can"
     type: talk
     date: 2019-10-23T23:59:59+02:00
     start_time: "09:55"
@@ -272,7 +272,7 @@ program:
     date: 2019-10-23T23:59:59+02:00
     start_time: "11:20"
     end_time: "11:50"
-  - title: "ambreen-sheikh"
+  - title: "marta-paciorkowska"
     type: talk
     date: 2019-10-23T23:59:59+02:00
     start_time: "11:50"
