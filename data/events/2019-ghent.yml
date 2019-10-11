@@ -192,7 +192,8 @@ sponsor_levels:
     label: Stickers
 
 program:
-- title: Registration & Check In
+# Day 1
+- title: Registration, Check In & Breakfast
   type: custom
   date: 2019-10-29
   start_time: '8:00'
@@ -262,7 +263,7 @@ program:
   start_time: '12:40'
   end_time: '13:35'
 
-- title: matt-stratton
+- title: matty-stratton
   background_color: "#C4FFD7"
   type: talk
   date: 2019-10-29
@@ -321,8 +322,8 @@ program:
   end_time: "20:00"
 
 
-# Day 2
-- title: Registration & Check In
+  # Day 2
+- title: Registration, Check In & Breakfast
   type: custom
   date: 2019-10-30
   start_time: '9:00'
@@ -394,7 +395,7 @@ program:
   date: 2019-10-30
   start_time: '13:35'
   end_time: '13:40'
-- title: éric-keller
+- title: eric-keller
   background_color: "#C4FFD7"
   type: talk
   date: 2019-10-30
