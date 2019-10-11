@@ -9,6 +9,7 @@ Speakers = ["sasha-rosenbaum"]
 
 
 In my 14 years in the industry, I watched the technology landscape become more and more complex, with new tools and methodologies emerging and fading away every year.  Yet I see "thought leaders" get up on stage every day, promising they can teach you the 3 easy steps to:
+
 - Achieve full software testability (a subset of the Halting Problem, which is undecidable)
 - Remediate 20 years of legacy code
 - Migrate your entire data center to the cloud
