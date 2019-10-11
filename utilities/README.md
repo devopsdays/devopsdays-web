@@ -92,7 +92,7 @@ grep -r "sponsors\/pivotal.png" static/events/*
 [...]
 static/events/2016-chicago/contact/index.html:<img src="/img/sponsors/pivotal.png" alt="Pivotal" title="Pivotal" class="img-fluid">
 ```
-:warning: The above will require you to be comfortable with search & replace utilities as you'd potentially be modifying hundreds of files. 
+:warning: The above will require you to be comfortable with search & replace utilities as you'd potentially be modifying hundreds of files. Please ask for assistance if desired. 
 
 For the current year, you only want to make the edits if the event has already happened.
 
