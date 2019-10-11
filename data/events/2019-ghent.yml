@@ -157,6 +157,10 @@ sponsors:
     level: bronze
   - id: olindata
     level: bronze
+  - id: axxes
+    level: bronze
+  - id: rudder
+    level: bronze
   # community
   - id: devops-amsterdam
     level: community

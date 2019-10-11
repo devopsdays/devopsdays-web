@@ -85,6 +85,15 @@ data/events/2016-atlanta.yml:  - id: pivotal-before-20190307
 data/events/2019-minneapolis.yml:  - id: pivotal
 ```
 
+It is possible that the previous city has already been archived and static items have already been created. You will have to update the image source for these pages
+
+```
+grep -r "sponsors\/pivotal.png" static/events/*
+[...]
+static/events/2016-chicago/contact/index.html:<img src="/img/sponsors/pivotal.png" alt="Pivotal" title="Pivotal" class="img-fluid">
+```
+:warning: The above will require you to be comfortable with search & replace utilities as you'd potentially be modifying hundreds of files. Please ask for assistance if desired. 
+
 For the current year, you only want to make the edits if the event has already happened.
 
 This means that if a sponsor asks for an update affecting all future events, the shared sponsor entry will be changed for all events without any intervention needed from local organizers who have listed that sponsor. This is a benefit to using the shared sponsor entry.
