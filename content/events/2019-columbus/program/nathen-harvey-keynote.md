@@ -4,7 +4,7 @@ Talk_start_time = "09:15"
 Talk_end_time = "09:45"
 Title = "Becoming an Elite Performer - Applying Lessons from the 2019 Accelerate State of DevOps Report"
 Type = "talk"
-Speakers = ["nathen-harvey"]
+Speakers = ["dave-stanke"]
 +++
 
 The [2019 Accelerate State of DevOps Report](https://cloud.google.com/devops/) represents six years of research and data from over 31,000 professionals worldwide. It is the largest and longest running research of its kind, providing an independent view into the practices and capabilities that drive high performance.

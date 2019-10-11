@@ -84,7 +84,7 @@
       {{- if isset .Params "googleslides" -}}
         {{- if ne .Params.googleslides "" -}}
         <div class="row">
-          <div class = "col" style="max-width:100%">
+          <div class = "embed-responsive embed-responsive-16by9">
             <iframe src="https://docs.google.com/presentation/d/{{ .Params.googleslides }}/embed?start=false&loop=false" allowfullscreen="true">
             </iframe>
           </div>

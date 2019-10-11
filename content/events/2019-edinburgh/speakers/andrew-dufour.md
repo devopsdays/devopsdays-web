@@ -1,12 +1,10 @@
 +++
-Title = "Andrew"
+Title = "Andrew Dufour"
 Twitter = "andrewdufour"
 type = "speaker"
-image = ""
+image = "andrew-dufour.jpg"
 linktitle = "andrew-dufour"
 
 +++
 
-I'm a DevOps engineer / architect who's been working for Chef for the past 3+ years. Husband. Father. Dog owner. Technology enthusiast. PC Gamer.
-
-I've held many roles in my time in IT from a helpdesk agent to technical lead of a team managing applications with tens of millions of users. I now hold a lead role at Chef, and had stops everywhere in between including government contracting and startups.
+Andrew's an Architect from Canada who has spent the last 15 years building a career out of laziness. If you do something twice, automate it! Through his career he's worked for the Government, Nuclear and telecom industries. Now he's a DevOps evangelist helping Chef spread the love of DevOps and help our customers use Chef to become faster, more efficient software driven organizations.

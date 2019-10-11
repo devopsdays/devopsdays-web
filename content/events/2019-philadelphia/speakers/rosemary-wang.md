@@ -1,7 +1,7 @@
 +++
 Title = "Rosemary Wang"
 Twitter = "joatmon08"
-image = ""
+image = "rosemary-wang.png"
 type = "speaker"
 linktitle = "rosemary-wang"
 

@@ -286,17 +286,17 @@ program:
     type: talk
     date: 2019-10-01
     start_time: "15:50"
-    end_time: "16:10"
+    end_time: "16:20"
   - title: "Wake STEM Kids"
     type: custom
     date: 2019-10-01
-    start_time: "16:15"
-    end_time: "16:45"
+    start_time: "16:30"
+    end_time: "17:00"
   - title: "Recap Day 1 and Closing Remarks"
     type: custom
     date: 2019-10-01
-    start_time: "16:45"
-    end_time: "17:00"
+    start_time: "17:00"
+    end_time: "17:05"
   - title: "Happy Hour Sponsored by CaddieTech"
     type: custom
     date: 2019-10-01
@@ -322,7 +322,7 @@ program:
     date: 2019-10-02
     start_time: "09:40"
     end_time: "09:50"
-  - title: "andy-naumann"
+  - title: "wendy-raschke-talk"
     type: talk
     date: 2019-10-02
     start_time: "09:50"
@@ -426,12 +426,12 @@ program:
     type: talk
     date: 2019-10-02
     start_time: "15:50"
-    end_time: "16:10"
+    end_time: "16:20"
   - title: "Closing Happy Hour, Remarks, Raffle"
     type: custom
     date: 2019-10-02
-    start_time: "16:10"
-    end_time: "17:10"
+    start_time: "16:20"
+    end_time: "17:20"
 
 ignites:
   - title: "ethan-fritz"
@@ -448,7 +448,7 @@ ignites:
     date: 2019-10-02
   - title: "ravi-lachhman"
     date: 2019-10-02
-  - title: "wendy-rashke"
+  - title: "wendy-raschke"
     date: 2019-10-02
   - title: "adam-lefkowitz"
     date: 2019-10-02
