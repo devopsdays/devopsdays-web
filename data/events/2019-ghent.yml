@@ -192,7 +192,8 @@ sponsor_levels:
     label: Stickers
 
 program:
-- title: Registration & Check In
+# Day 1
+- title: Registration, Check In & Breakfast
   type: custom
   date: 2019-10-29
   start_time: '8:00'
@@ -321,8 +322,8 @@ program:
   end_time: "20:00"
 
 
-# Day 2
-- title: Registration & Check In
+  # Day 2
+- title: Registration, Check In & Breakfast
   type: custom
   date: 2019-10-30
   start_time: '9:00'
