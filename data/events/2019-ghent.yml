@@ -262,7 +262,7 @@ program:
   start_time: '12:40'
   end_time: '13:35'
 
-- title: matt-stratton
+- title: matty-stratton
   background_color: "#C4FFD7"
   type: talk
   date: 2019-10-29
@@ -394,7 +394,7 @@ program:
   date: 2019-10-30
   start_time: '13:35'
   end_time: '13:40'
-- title: éric-keller
+- title: eric-keller
   background_color: "#C4FFD7"
   type: talk
   date: 2019-10-30
