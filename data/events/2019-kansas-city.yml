@@ -230,6 +230,8 @@ sponsors:
     level: premium
   - id: vmlyr
     level: premium
+  - id: delltechnologies
+    level: premium
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
