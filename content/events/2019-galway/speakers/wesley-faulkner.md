@@ -1,7 +1,7 @@
 +++
 Title = "Wesley Faulkner"
-Twitter = ""
-Linkedin = ""
+Twitter = "wesley83"
+Linkedin = "https://www.linkedin.com/in/wesley83"
 Github = ""
 image = "wesley-faulkner.jpg"
 type = "speaker"
