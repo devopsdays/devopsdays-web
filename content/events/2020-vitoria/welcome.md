@@ -15,9 +15,6 @@ Description = "devopsdays Vitoria 2020"
   </div>
   <div class="col-md-6">
     <p>DevOpsDays in Vitoria!</p>
-    <p>
-      Representing the community, with pride, will be hosted the DevopsDays in Vitoria.
-    </p>
     <hr/>
     <div class="row">
       <div class="col-md-2">
