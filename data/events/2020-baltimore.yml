@@ -81,7 +81,7 @@ team_members: # Name is the only required field for team members.
     website: "https://fearless.tech"
   - name: "Chris Stone"
 
-organizer_email: "organizers-baltimore-2020@devopsdays.org"
+organizer_email: "baltimore@devopsdays.org"
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
