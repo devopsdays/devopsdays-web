@@ -127,8 +127,14 @@ sponsors:
      level: silver
    - id: sonatype
      level: gold
-   - id: treeptik
+   - id: 2018-agile-montreal
+     level: community
+   - id: linkbynet
      level: silver
+   - id: newrelic
+     level: silver
+   - id: pulumi
+     level: bronze
  # - id: samplesponsorname
  #   level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
