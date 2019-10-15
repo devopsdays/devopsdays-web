@@ -6,11 +6,10 @@ Description = "Sponsor DevOpsDays Baltimore 2020"
 DevOpsDays is a self-organizing conference for DevOps practitioners that depends on your sponsorships. DevOpsDays Baltimore does not have vendor booths, sell product presentations, or distribute attendee contact lists.
 Sponsors have the opportunity to have short elevator pitches during the program and get recognition on this website and via social media before and during the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. We recommend sending practitioners to interact with their peers on their own terms.
 All attendees are welcome to propose any subject they want during the Open Space sessions. All attendees have the opportunity to suggest a product or project demonstration as part of an Open Space session, including sponsor attendees. Keep in mind: DevOpsDays Baltimore is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
-<!--
-## [Become A Sponsor For DevOpsDays 2019 Now!](https://devopsdaysbaltimore2019.busyconf.com/bookings/new?discount=SPONSOR)
--->
+
+<!-- ## [Become A Sponsor For DevOpsDays 2019 Now!](https://devopsdaysbaltimore2019.busyconf.com/bookings/new?discount=SPONSOR) -->
 We will open sponsorships online by October 31, 2019. Please email the organizers at {{< email_organizers >}} with any questions you may have about sponsoring the event or if you know you would like to secure a sponsorship space.
-Have questions about sponsoring or about your organization's sponsorship? Checkout out our [sponsor FAQ](https://docs.google.com/document/d/1TpSm6KL9IPQah7EW2hs_QsibTgIFshpB9JxQMMbyVi0/edit?usp=sharing).
+Have questions about sponsoring or about your organization's sponsorship? Check out our [sponsor FAQ](https://docs.google.com/document/d/1TpSm6KL9IPQah7EW2hs_QsibTgIFshpB9JxQMMbyVi0/edit?usp=sharing).
 The following chart outlines our sponsorship packages at a high level, which are further detailed below. Iif you are interested in sponsoring and have a new idea of how you can contribute to the conference, email the organizers and we’re happy to consider your request!
 <style>
   table.sponsorship            { border-collapse: collapse; }
