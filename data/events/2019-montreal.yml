@@ -190,7 +190,7 @@ program:
   - title: "Break"
     type: break
     date: 2019-11-05
-    start_time: "10:55"
+    start_time: "10:50"
     end_time: "11:20"
     background_color: "#ff8282"
 
