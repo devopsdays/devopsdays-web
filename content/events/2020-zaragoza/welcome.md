@@ -11,7 +11,7 @@ Description = "devopsdays Zaragoza 2020"
 
 <div class="row">
   <div class="col-md-2">
-      <img alt="DevOpsDays zaragoza 2020" src="/events/2020-zaragoza/event.png" style="width:100%">
+      <img alt="DevOpsDays zaragoza 2020" src="/events/2020-zaragoza/eventlogo.png" style="width:100%">
   </div>
   <div class="col-md-6">
     <p>DevOpsDays in Zaragoza!</p>
