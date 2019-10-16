@@ -51,8 +51,8 @@ Description = "devopsdays Zaragoza 2020"
       </div>-->
     </div>
   </div>
-  <div class="col-md-4 embed-responsive">
+  <!--<div class="col-md-4 embed-responsive">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/CZ_r_yGWT_A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+</div>-->
 </div>
 
