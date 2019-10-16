@@ -2,7 +2,7 @@
 title = "Fabiana Florentin"
 Twitter = ""
 linkedin = ""
-image = "fabiana-florentin.jpg"
+image = "fabiana-florentin.jpeg"
 type = "speaker"
 linktitle = "fabiana-florentin"
 +++
