@@ -109,6 +109,10 @@ sponsors:
     level: silver
   - id: rancher
     level: silver
+  - id: vanguard
+    level: silver
+  - id: gitlab
+    level: silver
   - id: cerner
     level: silver
   - id: arresteddevops
