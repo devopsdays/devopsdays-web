@@ -169,11 +169,19 @@ sponsors:
     level: gold
   - id: googlecloud
     level: gold
+  - id: suse
+    level: gold
+  - id: redhat
+    level: gold
   - id: avaya
     level: silver
   - id: aspect
     level: silver
   - id: guruteam
+    level: bronze
+  - id: itag-skillnet
+    level: bronze
+  - id: cisco
     level: bronze
   - id: compustaff
     level: support

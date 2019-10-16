@@ -77,6 +77,8 @@ proposal_email: "proposals-philadelphia-2019@devopsdays.org"
 sponsors:
   - id: contrast_security
     level: platinum
+  - id: googlecloud
+    level: platinum
   - id: appdynamics
     level: gold
   - id: circleci
@@ -93,6 +95,10 @@ sponsors:
     level: gold
   - id: 2nd-watch
     level: gold
+  - id: aspe
+    level: gold
+  - id: comcast
+    level: gold
   - id: overops
     level: silver
   - id: instana
@@ -102,6 +108,8 @@ sponsors:
   - id: socketlabs
     level: silver
   - id: rancher
+    level: silver
+  - id: cerner
     level: silver
   - id: arresteddevops
     level: community

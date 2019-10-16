@@ -210,6 +210,8 @@ sponsors:
     level: community
   - id: tricomts
     level: supporting
+  - id: kairos
+    level: supporting
   - id: appdynamics
     level: premium
   - id: googlecloud
@@ -220,7 +222,16 @@ sponsors:
     level: premium
   - id: googlecloud
     level: coffee
-
+  - id: equipmentshare
+    level: lunch
+  - id: capstonec
+    level: lunch
+  - id: kudelskisecurity-f5
+    level: premium
+  - id: vmlyr
+    level: premium
+  - id: delltechnologies
+    level: premium
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -364,8 +375,8 @@ program:
     date: 2019-10-25
     start_time: "09:00"
     end_time: "09:15"
-  - title: "Talk Placeholder"
-    type: custom
+  - title: "kylie-schleicher"
+    type: talk
     date: 2019-10-25
     start_time: "09:15"
     end_time: "09:45"

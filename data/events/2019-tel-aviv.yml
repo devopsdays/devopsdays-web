@@ -20,11 +20,11 @@ cfp_date_announce:  2019-10-01T23:00:00+02:00
 
 cfp_link: "https://devopsdaystlv.com/submit/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2019-10-01T09:00:00+02:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2019-12-18T09:00:00+02:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://devopsdaystlv.com/registration" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -38,9 +38,11 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: location
  # - name: registration
  # - name: program
+ # - name: sponsor
+
 - name: speakers
-- name: sponsor
-- name: propose
+- name: registration
+- name: location
 - name: contact
 - name: conduct
 # - name: example
@@ -139,6 +141,8 @@ sponsors:
     level: platinum
   - id: aws
     level: platinum
+  - id: facebook
+    level: platinum
   - id: elastic
     level: gold
   - id: bigpanda
@@ -163,7 +167,7 @@ sponsors:
     level: silver
   - id: aerospike
     level: silver
-  - id: wework
+  - id: KubeMQ
     level: silver
   - id: minute-media
     level: silver
