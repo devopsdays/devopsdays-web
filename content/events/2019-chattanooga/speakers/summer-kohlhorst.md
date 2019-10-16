@@ -3,7 +3,7 @@ Title = "Summer Kohlhorst"
 Twitter = "summerkohlhorst"
 image = "summer-kohlhorst.jpg"
 type = "speaker"
-linktitle = ""
+linktitle = "summer-kohlhorst"
 
 +++
 
