@@ -28,9 +28,9 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 # Location
 #
 coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Seattle" # Defaults to city, but you can make it the venue name.
+location: "Conference Center at Washington State Convention Center." # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "705 Pike St, Seattle, WA 98101" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
@@ -38,7 +38,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: registration
  # - name: program
  # - name: speakers
- # - name: sponsor
+  - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
