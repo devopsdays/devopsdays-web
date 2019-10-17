@@ -364,38 +364,38 @@ program:
     type: open-space
     date: 2019-11-06
     start_time: "14:35"
-    end_time: "15:00"
+    end_time: "14:50"
 
   - title: "Break"
     type: break
     date: 2019-11-06
-    start_time: "15:00"
-    end_time: "15:30"
+    start_time: "14:50"
+    end_time: "15:20"
     background_color: "#ff8282"
 
   - title: "Open Spaces #1"
     type: open-space
     date: 2019-11-06
-    start_time: "15:30"
-    end_time: "16:10"
+    start_time: "15:20"
+    end_time: "16:00"
 
   - title: "Open Spaces #2"
     type: open-space
     date: 2019-11-06
-    start_time: "16:20"
+    start_time: "16:10"
     end_time: "16:50"
 
   - title: "christian-couder-ws"
     type: workshop
     date: 2019-11-06
     start_time: "14:35"
-    end_time: "16:40"
+    end_time: "16:35"
 
   - title: "steve-pereira-ws"
     type: workshop
     date: 2019-11-06
     start_time: "14:35"
-    end_time: "16:40"
+    end_time: "16:35"
 
   - title: "Closing Statement & Contest Draw"
     type: custom
