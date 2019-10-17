@@ -135,6 +135,9 @@ sponsors:
      level: silver
    - id: pulumi
      level: bronze
+   - id: cloud_ca
+     level: lanyard
+
  # - id: samplesponsorname
  #   level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
@@ -160,6 +163,8 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+  - id: lanyard
+    label: Lanyard - Dragonne
 
 program:
   - title: "Registration, Breakfast & Sponsor Setup"
@@ -231,7 +236,7 @@ program:
     start_time: "13:50"
     end_time: "13:55"
 
-  - title: "TBD"
+  - title: "martin-deslongchamps"
     type: talk
     date: 2019-11-05
     start_time: "14:00"
@@ -265,13 +270,13 @@ program:
   - title: "james-shubin"
     type: workshop
     date: 2019-11-05
-    start_time: "14:00"
+    start_time: "14:35"
     end_time: "17:00"
 
   - title: "gareth-greenaway"
     type: workshop
     date: 2019-11-05
-    start_time: "14:00"
+    start_time: "14:35"
     end_time: "17:00"
 
   - title: "Drinks & Entertainment"
@@ -355,48 +360,42 @@ program:
     start_time: "14:00"
     end_time: "14:25"
 
-  - title: "martin-deslongchamps"
-    type: talk
-    date: 2019-11-06
-    start_time: "14:30"
-    end_time: "14:55"
-
   - title: "Open Space Opening"
     type: open-space
     date: 2019-11-06
-    start_time: "14:55"
-    end_time: "15:05"
+    start_time: "14:35"
+    end_time: "15:00"
 
   - title: "Break"
     type: break
     date: 2019-11-06
-    start_time: "15:05"
-    end_time: "15:35"
+    start_time: "15:00"
+    end_time: "15:30"
     background_color: "#ff8282"
 
   - title: "Open Spaces #1"
     type: open-space
     date: 2019-11-06
-    start_time: "15:35"
+    start_time: "15:30"
     end_time: "16:10"
 
   - title: "Open Spaces #2"
     type: open-space
     date: 2019-11-06
-    start_time: "16:15"
+    start_time: "16:20"
     end_time: "16:50"
 
   - title: "christian-couder-ws"
     type: workshop
     date: 2019-11-06
-    start_time: "14:30"
-    end_time: "16:30"
+    start_time: "14:35"
+    end_time: "16:40"
 
   - title: "steve-pereira-ws"
     type: workshop
     date: 2019-11-06
-    start_time: "14:30"
-    end_time: "16:30"
+    start_time: "14:35"
+    end_time: "16:40"
 
   - title: "Closing Statement & Contest Draw"
     type: custom
