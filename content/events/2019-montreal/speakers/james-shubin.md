@@ -1,5 +1,5 @@
 +++
-Title = "James Shubin"
+Title = "James (purpleidea)"
 Twitter = "purpleidea"
 image = "james-shubin.jpg"
 type = "speaker"
