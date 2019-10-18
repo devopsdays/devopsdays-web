@@ -101,6 +101,8 @@ team_members:
     image: "andy-domeier.jpg"
   - name: "Ace Oubaha"
     twitter: "AceOubaha"
+    bio: "Ace Oubaha will soon be a recent CS graduate of the University of Minnesota. They got into DevOps because they're interested in systems of all kinds. When Ace is not busy thinking about processes, they're either biking around or doing their best MacGyver impression."
+    image: "ace-oubaha.jpg"
 
 organizer_email: "minneapolis@devopsdays.org" # Put your organizer email address here
 
