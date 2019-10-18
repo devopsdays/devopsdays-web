@@ -230,15 +230,15 @@ program:
     end_time: "18:30"
 
 ignites:
+- title: summer-kohlhorst
+  date: 2019-11-12T00:00:00-05:00
 - title: jamie-phillips
+  date: 2019-11-12T00:00:00-05:00
+- title: chantee-boykin
   date: 2019-11-12T00:00:00-05:00
 - title: dave-karow
   date: 2019-11-12T00:00:00-05:00
 - title: john-cotton
   date: 2019-11-12T00:00:00-05:00
-- title: chantee-boykin
-  date: 2019-11-12T00:00:00-05:00
-- title: TBA
-  date: 2019-11-12T00:00:00-05:00
-- title: TBA
+- title: sierra-watkins
   date: 2019-11-12T00:00:00-05:00
