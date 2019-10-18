@@ -1,7 +1,7 @@
 +++
 Title = "Steve Pereira"
-Twitter = ""
-image = ""
+Twitter = "SteveElsewhere"
+image = "steve-pereira.jpg"
 type = "speaker"
 linktitle = "steve-pereira"
 

@@ -1,7 +1,7 @@
 +++
 Title = "Yannick Brosseau"
-Twitter = ""
-image = ""
+Twitter = "greenscientist"
+image = "yannick-brosseau.jpg"
 type = "speaker"
 linktitle = "yannick-brosseau"
 

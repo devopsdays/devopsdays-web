@@ -39,6 +39,11 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: Registration - Inscription
     url: "https://www.eiseverywhere.com/devopsdaysmontreal2019"
     icon: "user-plus"
+  - name: Program - Programme
+    url: "/events/2019-montreal/program/"
+  - name: Location - Localisation
+    url: "/events/2019-montreal/location/"
+    icon: "map-o"
   - name: Sponsor - Sponsoriser
     url: "/events/2019-montreal/sponsor/"
     icon: "money"
@@ -50,11 +55,6 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: Conduct - Conduite
     url: "/events/2019-montreal/conduct/"
     icon: "handshake-o"
-  - name: Program - Programme
-    url: "/events/2019-montreal/program/"
-  - name: Location - Localisation
-    url: "/events/2019-montreal/location/"
-    icon: "map-o"
 
 
 # These are the same people you have on the mailing list and Slack channel.
@@ -137,6 +137,8 @@ sponsors:
      level: bronze
    - id: cloud_ca
      level: lanyard
+   - id: appdynamics
+     level: coffee
 
  # - id: samplesponsorname
  #   level: gold
@@ -151,20 +153,22 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
   - id: platinum
-    label: Platinum
+    label: Platinum - Platine
     max: 2
   - id: gold
-    label: Gold
+    label: Gold - Or
     max: 4
   - id: silver
-    label: Silver
+    label: Silver - Argent
     max: 0 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
   - id: community
-    label: Community
+    label: Community - Communauté
   - id: lanyard
     label: Lanyard - Dragonne
+  - id: coffee
+    label: Coffee breaks - Pauses-café
 
 program:
   - title: "Registration, Breakfast & Sponsor Setup"
@@ -402,3 +406,15 @@ program:
     date: 2019-11-06
     start_time: "16:50"
     end_time: "17:00"
+
+ignites:
+  - title: "wael"
+    date: 2019-11-06
+  - title: "maxime-boivert"
+    date: 2019-11-06
+  - title: "alex-gervais"
+    date: 2019-11-06
+  - title: "michael-mccliment"
+    date: 2019-11-06
+  - title: "rider-damen"
+    date: 2019-11-06

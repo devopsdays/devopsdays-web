@@ -1,7 +1,7 @@
 +++
 Title = "Christian Couder"
-Twitter = ""
-image = ""
+Twitter = "ChristianCouder"
+image = "christian-couder.jpg"
 type = "speaker"
 linktitle = "christian-couder"
 
