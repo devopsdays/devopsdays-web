@@ -1,7 +1,7 @@
 +++
 Title = "James (purpleidea)"
-Twitter = ""
-image = ""
+Twitter = "purpleidea"
+image = "james-shubin.jpg"
 type = "speaker"
 linktitle = "james-shubin"
 

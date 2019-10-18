@@ -1,7 +1,7 @@
 +++
 Title = "Charles Abondo"
 Twitter = ""
-image = ""
+image = "charles-abondo.jpg"
 type = "speaker"
 linktitle = "charles-abondo"
 

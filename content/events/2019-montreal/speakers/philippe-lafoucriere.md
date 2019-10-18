@@ -1,7 +1,7 @@
 +++
 Title = "Philippe Lafoucrière"
-Twitter = ""
-image = ""
+Twitter = "plafoucriere"
+image = "philippe-lafoucriere.jpg"
 type = "speaker"
 linktitle = "philippe-lafoucriere"
 

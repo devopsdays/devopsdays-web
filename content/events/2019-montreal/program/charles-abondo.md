@@ -2,10 +2,12 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Technology in Motion: The DevSecOps journey at CN"
+Title = "Technology in Motion: The DevSecOps journey at CN (FR)"
 Type = "talk"
 Speakers = ["charles-abondo"]
 +++
+
+*Cette presentation sera en Français.*
 
 Celebrating 100 years of operational excellence, CN is a world-class transportation leader and the only transcontinental railway in North America. Our 19,500 mile network spans Canada and Mid-America, connecting three coasts. A true backbone of the economy, CN handles over $250 billion worth of goods, hauls about 20% of Canada’s exports and carries more than 300 million tons of cargo annually.
 
