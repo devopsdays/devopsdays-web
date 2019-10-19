@@ -39,6 +39,11 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: Registration - Inscription
     url: "https://www.eiseverywhere.com/devopsdaysmontreal2019"
     icon: "user-plus"
+  - name: Program - Programme
+    url: "/events/2019-montreal/program/"
+  - name: Location - Localisation
+    url: "/events/2019-montreal/location/"
+    icon: "map-o"
   - name: Sponsor - Sponsoriser
     url: "/events/2019-montreal/sponsor/"
     icon: "money"
@@ -50,11 +55,6 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: Conduct - Conduite
     url: "/events/2019-montreal/conduct/"
     icon: "handshake-o"
-  - name: Program - Programme
-    url: "/events/2019-montreal/program/"
-  - name: Location - Localisation
-    url: "/events/2019-montreal/location/"
-    icon: "map-o"
 
 
 # These are the same people you have on the mailing list and Slack channel.
@@ -127,8 +127,19 @@ sponsors:
      level: silver
    - id: sonatype
      level: gold
-   - id: treeptik
+   - id: 2018-agile-montreal
+     level: community
+   - id: linkbynet
      level: silver
+   - id: newrelic
+     level: silver
+   - id: pulumi
+     level: bronze
+   - id: cloud_ca
+     level: lanyard
+   - id: appdynamics
+     level: coffee
+
  # - id: samplesponsorname
  #   level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
@@ -142,18 +153,22 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
   - id: platinum
-    label: Platinum
+    label: Platinum - Platine
     max: 2
   - id: gold
-    label: Gold
+    label: Gold - Or
     max: 4
   - id: silver
-    label: Silver
+    label: Silver - Argent
     max: 0 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
   - id: community
-    label: Community
+    label: Community - Communauté
+  - id: lanyard
+    label: Lanyard - Dragonne
+  - id: coffee
+    label: Coffee breaks - Pauses-café
 
 program:
   - title: "Registration, Breakfast & Sponsor Setup"
@@ -190,7 +205,7 @@ program:
   - title: "Break"
     type: break
     date: 2019-11-05
-    start_time: "10:55"
+    start_time: "10:50"
     end_time: "11:20"
     background_color: "#ff8282"
 
@@ -225,7 +240,7 @@ program:
     start_time: "13:50"
     end_time: "13:55"
 
-  - title: "TBD"
+  - title: "martin-deslongchamps"
     type: talk
     date: 2019-11-05
     start_time: "14:00"
@@ -259,13 +274,13 @@ program:
   - title: "james-shubin"
     type: workshop
     date: 2019-11-05
-    start_time: "14:00"
+    start_time: "14:35"
     end_time: "17:00"
 
   - title: "gareth-greenaway"
     type: workshop
     date: 2019-11-05
-    start_time: "14:00"
+    start_time: "14:35"
     end_time: "17:00"
 
   - title: "Drinks & Entertainment"
@@ -349,51 +364,57 @@ program:
     start_time: "14:00"
     end_time: "14:25"
 
-  - title: "martin-deslongchamps"
-    type: talk
-    date: 2019-11-06
-    start_time: "14:30"
-    end_time: "14:55"
-
   - title: "Open Space Opening"
     type: open-space
     date: 2019-11-06
-    start_time: "14:55"
-    end_time: "15:05"
+    start_time: "14:35"
+    end_time: "14:50"
 
   - title: "Break"
     type: break
     date: 2019-11-06
-    start_time: "15:05"
-    end_time: "15:35"
+    start_time: "14:50"
+    end_time: "15:20"
     background_color: "#ff8282"
 
   - title: "Open Spaces #1"
     type: open-space
     date: 2019-11-06
-    start_time: "15:35"
-    end_time: "16:10"
+    start_time: "15:20"
+    end_time: "16:00"
 
   - title: "Open Spaces #2"
     type: open-space
     date: 2019-11-06
-    start_time: "16:15"
+    start_time: "16:10"
     end_time: "16:50"
 
   - title: "christian-couder-ws"
     type: workshop
     date: 2019-11-06
-    start_time: "14:30"
-    end_time: "16:30"
+    start_time: "14:35"
+    end_time: "16:35"
 
   - title: "steve-pereira-ws"
     type: workshop
     date: 2019-11-06
-    start_time: "14:30"
-    end_time: "16:30"
+    start_time: "14:35"
+    end_time: "16:35"
 
   - title: "Closing Statement & Contest Draw"
     type: custom
     date: 2019-11-06
     start_time: "16:50"
     end_time: "17:00"
+
+ignites:
+  - title: "wael"
+    date: 2019-11-06
+  - title: "maxime-boivert"
+    date: 2019-11-06
+  - title: "alex-gervais"
+    date: 2019-11-06
+  - title: "michael-mccliment"
+    date: 2019-11-06
+  - title: "rider-damen"
+    date: 2019-11-06

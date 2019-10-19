@@ -1,7 +1,7 @@
 +++
 Title = "Chuck Mountz Jr"
-Twitter = ""
-image = ""
+Twitter = "mountzcjr"
+image = "chuck-mountz.jpg"
 type = "speaker"
 linktitle = "chuck-mountz-jr"
 

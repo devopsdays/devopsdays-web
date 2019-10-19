@@ -1,7 +1,7 @@
 +++
 Title = "Martin Deslongchamps"
-Twitter = ""
-image = ""
+Twitter = "thefutureofcode"
+image = "martin-deslongchamps.jpg"
 type = "speaker"
 linktitle = "martin-deslongchamps"
 

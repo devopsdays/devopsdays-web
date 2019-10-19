@@ -14,10 +14,11 @@ startdate: 2019-11-22T00:00:00+04:00 # The start date of your event. Leave blank
 enddate: 2019-11-23T00:00:00+04:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2019-10-01T00:00:00+04:00 # start accepting talk proposals.
+cfp_date_end: 2019-11-21T00:00:00+04:00 # close your call for proposals.
+cfp_date_announce: 2019-11-21T00:00:00+04:00 # inform proposers of status
 
+cfp_open: "true"
 cfp_link: "https://www.papercall.io/devopsdays-baku" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
@@ -61,6 +62,9 @@ team_members: # Name is the only required field for team members.
   - name: "Ismayil Musayev"
     linkedin: "https://www.linkedin.com/in/ismail-musayev-57470414b/"
     image: "ismayil.jpeg"
+  - name: "Naseh Badalov"
+    linkedin: "https://www.linkedin.com/in/nasehbadalov/"
+    image: "naseh.jpg"
   - name: "Zaur Baghirov"
     linkedin: "https://www.linkedin.com/in/zaur-baghirov-7b020117/"
     image: "zaur.jpg"

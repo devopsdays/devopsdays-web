@@ -203,7 +203,7 @@ program:
     type: ignite
     date: 2019-10-23
     start_time: "02:45 PM"
-    end_time: "02:45 PM"
+    end_time: "03:00 PM"
   - title: "Open Space Planning"
     type: custom
     date: 2019-10-23
@@ -316,7 +316,7 @@ program:
     end_time: "05:05 PM"
 
 ignites:
-  - title: "rahul-gupta"
+  - title: "charlotte-waterhouse"
     date: 2019-10-23
   - title: "dave-karow"
     date: 2019-10-23

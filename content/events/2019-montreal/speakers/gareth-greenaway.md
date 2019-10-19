@@ -1,7 +1,7 @@
 +++
 Title = "Gareth Greenaway"
 Twitter = ""
-image = ""
+image = "gareth-greenaway.jpg"
 type = "speaker"
 linktitle = "gareth-greenaway"
 

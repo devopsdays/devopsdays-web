@@ -102,6 +102,10 @@ team_members: # Name is the only required field for team members.
     employer: arc-net
     bio: "Cloud Infrastructure Engineer at arc-net working to improve all the DevOps things involved in delivering software services from the cloud."
     image: "kevin.jpg"
+  - name: "Angus Neil"
+    employer: Skyscanner
+    bio: "Engineering Manager at Skyscanner leading the global transformation of production platform modernization."
+    image: "angus-neil.jpg"
  
  
 organizer_email: "organizers-edinburgh-2019@devopsdays.org" # Put your organizer email address here
@@ -294,7 +298,7 @@ program:
     date: 2019-10-18
     start_time: "10:00"
     end_time: "10:15"
-  - title: "vlatko-ivanovski"
+  - title: "andy-burgin-big-talk"
     type: talk
     date: 2019-10-18
     start_time: "10:15"
@@ -389,11 +393,9 @@ ignites:
   - title: "emanuil-tolev"
     date: 2019-10-17
   - title: "adrian-mouat"
-    date: 2019-10-17
+    date: 2019-10-18
   - title: "nik-knight"
     date: 2019-10-18
-  - title: "-"
-    date: 2019-10-18
-  - title: "-"
+  - title: "andy-burgin"
     date: 2019-10-18
 
