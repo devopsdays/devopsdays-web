@@ -114,7 +114,7 @@ sponsors:
     level: gold
   - id: hpe
     level: gold
-  - id: rancher-before-20190812
+  - id: rancher
     level: gold
   - id: sentia
     level: gold
@@ -125,6 +125,8 @@ sponsors:
   - id: atlassian
     level: gold
   - id: jfrog
+    level: gold
+  - id: devoteam
     level: gold
   # lanyard
   - id: sysdig
