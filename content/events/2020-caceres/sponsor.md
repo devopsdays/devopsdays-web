@@ -402,7 +402,7 @@ Description = "Sponsor devopsdays Caceres 2020"
         </div>
       </div>
     <div class="col-md-3 col-sm-12">
-      <a target="_blank" href="https://devopsdays.cc/wp-content/uploads/2019/10/dossier.pdf"><img style='height: 222px; width: 310px' src="/events/2020-caceres/sponsorship-information.png"</a>
+      <a target="_blank" href="https://devopsdays.cc/wp-content/uploads/2019/10/dossier.pdf"><img style='height: 222px; width: 310px' src="/events/2020-caceres/sponsorship-information.png"></a>
     </div>
   </div>
         
