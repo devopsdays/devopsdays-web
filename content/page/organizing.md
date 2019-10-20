@@ -95,7 +95,7 @@ Now that you have assembled your team, the next step is choosing a date. We usua
 
 - Avoid overlapping dates with other devopsdays, especially nearby. We want to spread the events out; think of it as loadbalancing. All devopsdays events with their dates scheduled will be shown on the front page of [devopsdays.org](/).
 - Avoid overlap in dates with other important local events: with other events happening at the same time, your attendance rate might be affected negatively
-- 'Piggyback' after/before other events: it's a great way to get started, and as people might have traveled already, they can be potentially be interested in a pre or post event conference
+- 'Piggyback' after/before other events: it's a great way to get started, and as people might have traveled already, they can potentially be interested in a pre or post event conference
 - Keep on eye on other major industry events so as to avoid accidentally scheduling during a time when it may be more challenging to get the speakers and sponsors you want.
 - You cannot announce a date until you have two things: an agreement with a venue, and a way to handle money.
 - Look at a few two-day choices you can accept. When talking to a venue, you might find that they can accommodate you better during some parts of the week than others. Sometimes they may be fully booked a given week, but available the next.
