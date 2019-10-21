@@ -131,7 +131,7 @@ Description = "Sponsor devopsdays Caceres 2020"
                   <center>100x100</center>
                 </td>
                 <td style="border-left: transparent; border-right: transparent;">
-                  <center>100x100</center>
+                  <center></center>
                 </td>
                 <td style="border-left: transparent; border-right: transparent;">
                   <center> </center>
