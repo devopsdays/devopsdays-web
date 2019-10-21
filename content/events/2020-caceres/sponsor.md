@@ -381,7 +381,7 @@ Description = "Sponsor devopsdays Caceres 2020"
                   Room Names
                 </td>
                 <td style="border-left: transparent; border-right: transparent;">
-                  <center><i class="fa fa-check fa-lg"></i>&nbsp;&nbsp;x3*</center>
+                  <center><i class="fa fa-check fa-lg"></i>&nbsp;&nbsp;x2</center>
                 </td>
                 <td style="border-left: transparent; border-right: transparent;">
                   <center> </center>
@@ -398,7 +398,6 @@ Description = "Sponsor devopsdays Caceres 2020"
               </tr>
             </tbody>
           </table>
-          <span><center>* this will be possible for first three sponsors</center></span>
         </div>
       </div>
     <div class="col-md-3 col-sm-12">
