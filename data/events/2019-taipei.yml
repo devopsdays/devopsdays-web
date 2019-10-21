@@ -100,7 +100,10 @@ sponsors:
     url: https://devopsdays.tw/job.html#s6667    
   - id: 91app
     level: gold
-    url: https://devopsdays.tw/job.html#s6555    
+    url: https://devopsdays.tw/job.html#s6555
+  - id: esun-commercial-bank
+    level: gold
+    url: https://devopsdays.tw/job.html#s6962   
   - id: f5
     level: gold
     url: https://devopsdays.tw/job.html#s6949    
@@ -110,6 +113,9 @@ sponsors:
   - id: 17media
     level: gold
     url: https://devopsdays.tw/job.html#s6951    
+  - id: moxa-inc
+    level: gold
+    url: https://devopsdays.tw/job.html#s6961
   - id: nutanix
     level: gold
     url: https://devopsdays.tw/job.html#s6711    
@@ -119,6 +125,9 @@ sponsors:
   - id: chungyo
     level: patrons
     url: https://devopsdays.tw/job.html#s6764    
+  - id: ctbc-bank
+    level: patrons
+    url: https://devopsdays.tw/job.html#s6968    
   - id: kkbox
     level: patrons
     url: https://devopsdays.tw/job.html#s6959    
@@ -150,7 +159,7 @@ sponsors:
     level: communitys
     url: https://devopsdays.tw/job.html#s6346    
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "No" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
