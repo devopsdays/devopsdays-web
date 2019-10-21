@@ -35,6 +35,8 @@ location: "ADA University, Ahmadbey Aghaoglu str. 11 Baku, 1008" # Defaults to c
 location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: devopsdays.pl
+    url: https://devopsdays.az/
   # - name: propose
   - name: location
   # - name: registration
