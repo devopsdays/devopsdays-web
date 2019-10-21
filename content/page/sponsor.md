@@ -4,6 +4,7 @@ Description = ""
 Tags = []
 Date = "2016-05-03T13:04:25-05:00"
 Title = "Sponsor devopsdays"
+type = "sponsor"
 
 +++
 
