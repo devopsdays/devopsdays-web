@@ -148,7 +148,7 @@ sponsors:
     level: gold
   - id: rancher
     level: silver
-  - id: pagerduty
+  - id: pagerduty-before-20190930
     level: gold
   - id: saucelabs
     level: silver

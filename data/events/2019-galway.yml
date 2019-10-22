@@ -39,7 +39,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
   - name: registration
  # - name: program
- # - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -141,16 +141,6 @@ team_members: # Name is the only required field for team members.
       and volunteering. He fills every breath of spare time with learning the Celtic
       harp, diligently studying Irish, being an apprentice potter, knitting, and
       tinkering with his 1959 Austin Mini among many other activities.
-  - name: "Steve McConville"
-    image: "steve-mcconville.jpg"
-    employer: "Genesys"
-    twitter: "daikaiju"
-    linkedin: "https://www.linkedin.com/in/stevemcconville/"
-    bio: |
-      Steve is a technologist with 15 years experience performing both development
-      and operations roles. He recently joined Genesys AI lab in Galway as a
-      principal engineer working on data engineering and machine learning
-      infrastructure.
 
 organizer_email: "organizers-galway-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-galway-2019@devopsdays.org" # Put your proposal email address here
@@ -169,11 +159,21 @@ sponsors:
     level: gold
   - id: googlecloud
     level: gold
+  - id: suse
+    level: gold
+  - id: redhat
+    level: gold
   - id: avaya
     level: silver
   - id: aspect
     level: silver
+  - id: galway-technology-centre
+    level: silver
   - id: guruteam
+    level: bronze
+  - id: itag-skillnet
+    level: bronze
+  - id: cisco
     level: bronze
   - id: compustaff
     level: support

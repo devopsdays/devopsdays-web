@@ -78,16 +78,17 @@ sponsors:
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: social
-    label: Social Hour Event
-    max: 1
   - id: gold
     label: Gold
-    max: 8
+    max: 1
   - id: silver
     label: Silver
-    max: 8 # This is the same as omitting the max limit.
+    max: 8
   - id: bronze
     label: Bronze
+    max: 8
+  - id: supporter
+    label: Supporter
+    max: 4
   - id: community
     label: Community
