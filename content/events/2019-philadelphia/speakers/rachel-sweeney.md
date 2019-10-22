@@ -1,7 +1,7 @@
 +++
 Title = "Rachel Sweeney"
 Twitter = ""
-image = ""
+image = "rachel-sweeney.png"
 type = "speaker"
 linktitle = "rachel-sweeney"
 

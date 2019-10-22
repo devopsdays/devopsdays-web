@@ -23,7 +23,7 @@ hugo server -w --baseUrl="http://localhost:1313"
 
 Now open `http://localhost:1313` in a browser and navigate to the content that you're editing - voilà!
 
-#### Mac OS X Specific Issues
+#### macOS Specific Issues
 
 When running the `hugo server -w` command listed above, you may get an error about "too many open files". To solve this, run the following commands in your terminal:
 

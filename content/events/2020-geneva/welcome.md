@@ -77,27 +77,23 @@ DevOpsDays Geneva speakers and sponsors will present not only practical applicat
     {{< event_location >}}
   </div>
 </div>
-<!--
 <div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    <a href='https://www.eventbrite.fr/e/devopsdays-geneva-2019-tickets-51449144777' target='blank'>Eventbrite</a>
+    <a href='/events/2020-geneva/registration/'>Register here !</a>
   </div>
 </div>
--->
-<!-- TOBE DEFINED
 
 <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
-  <div class = "col-md-8">
-
+  <div class = "col-md-8">  
+    <a href='/events/2020-geneva/propose/'>Submit a proposal</a>
   </div>
 </div>
-TOBE DEFINED -->
 
 <div class = "row">
   <div class = "col-md-2">
@@ -119,14 +115,14 @@ TOBE DEFINED -->
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>
   </div>
   <div class = "col-md-8">
-    <a href='/events/2019-geneva/sponsor/'>We need you !</a>
+    <a href='/events/2020-geneva/sponsor/'>We need you !</a>
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -134,6 +130,14 @@ TOBE DEFINED -->
   </div>
   <div class = "col-md-8">
     {{< event_link page="contact" text="Get in touch with the organisers" >}}
+  </div>
+</div>
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Newsletter</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_link page="newsletter" text="Subscribe to our newsletter" >}}
   </div>
 </div>
 

@@ -142,6 +142,14 @@ sponsors:
     level: community
   - id: split-software
     level: platinum
+  - id: caddietech
+    level: happyhour
+  - id: contrast_security
+    level: gold
+  - id: docker
+    level: gold
+  - id: newrelic
+    level: platinum
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -185,7 +193,7 @@ program:
     date: 2019-10-01
     start_time: "09:40"
     end_time: "09:50"
-  - title: "ann-marie-fred"
+  - title: "anne-hungate"
     type: talk
     date: 2019-10-01
     start_time: "09:50"
@@ -215,21 +223,16 @@ program:
     date: 2019-10-01
     start_time: "10:30"
     end_time: "12:00"
-  - title: "christopher-merz"
-    type: talk
-    date: 2019-10-01
-    start_time: "10:30"
-    end_time: "11:00"
-  - title: "logan-daigle"
-    type: talk
-    date: 2019-10-01
-    start_time: "11:00"
-    end_time: "11:30"
   - title: "cory-watson"
     type: talk
     date: 2019-10-01
-    start_time: "11:30"
-    end_time: "12:00"
+    start_time: "10:45"
+    end_time: "11:15"
+  - title: "chris-bailey"
+    type: talk
+    date: 2019-10-01
+    start_time: "11:15"
+    end_time: "11:45"
   - title: "Lunch"
     type: custom
     date: 2019-10-01
@@ -239,12 +242,17 @@ program:
     type: ignite
     date: 2019-10-01
     start_time: "13:00"
-    end_time: "13:40"
+    end_time: "13:30"
   - title: "Ignite Karaoke"
     type: custom
     date: 2019-10-01
+    start_time: "13:30"
+    end_time: "13:40"
+  - title: "Break"
+    type: custom
+    date: 2019-10-01
     start_time: "13:40"
-    end_time: "13:45"
+    end_time: "13:50"
   - title: "Open Spaces"
     type: open-space
     date: 2019-10-01
@@ -284,22 +292,22 @@ program:
     type: talk
     date: 2019-10-01
     start_time: "15:50"
-    end_time: "16:10"
+    end_time: "16:20"
   - title: "Wake STEM Kids"
     type: custom
     date: 2019-10-01
-    start_time: "16:15"
-    end_time: "16:45"
+    start_time: "16:30"
+    end_time: "17:00"
   - title: "Recap Day 1 and Closing Remarks"
     type: custom
     date: 2019-10-01
-    start_time: "16:45"
-    end_time: "17:00"
-  - title: "Evening event at Boxcar"
+    start_time: "17:00"
+    end_time: "17:05"
+  - title: "Happy Hour Sponsored by CaddieTech"
     type: custom
     date: 2019-10-01
-    start_time: "17:30"
-    end_time: "19:30"
+    start_time: "17:00"
+    end_time: "19:00"
   - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2019-10-02
@@ -320,7 +328,7 @@ program:
     date: 2019-10-02
     start_time: "09:40"
     end_time: "09:50"
-  - title: "andy-naumann"
+  - title: "wendy-raschke-talk"
     type: talk
     date: 2019-10-02
     start_time: "09:50"
@@ -350,7 +358,7 @@ program:
     date: 2019-10-02
     start_time: "10:30"
     end_time: "12:00"
-  - title: "anne-hungate"
+  - title: "ann-marie-fred"
     type: talk
     date: 2019-10-02
     start_time: "10:30"
@@ -374,62 +382,72 @@ program:
     type: ignite
     date: 2019-10-02
     start_time: "13:00"
-    end_time: "13:40"
+    end_time: "13:30"
   - title: "Ignite Karaoke"
     type: custom
     date: 2019-10-02
-    start_time: "13:40"
-    end_time: "13:45"
-  - title: "Open Spaces"
-    type: open-space
-    date: 2019-10-02
-    start_time: "13:50"
-    end_time: "15:50"
-  - title: "Escape Room Experience"
-    type: custom
-    date: 2019-10-02
-    start_time: "13:50"
-    end_time: "15:50"
-  - title: "daniel-oh"
-    type: talk
-    date: 2019-10-02
-    start_time: "13:50"
-    end_time: "14:20"
-  - title: "Sponsors"
-    type: custom
-    date: 2019-10-02
-    start_time: "14:20"
-    end_time: "14:30"
-  - title: "kirk-kaiser"
-    type: talk
-    date: 2019-10-02
-    start_time: "14:30"
-    end_time: "15:00"
+    start_time: "13:30"
+    end_time: "13:40"
   - title: "Break"
     type: custom
     date: 2019-10-02
-    start_time: "15:00"
-    end_time: "15:10"
-  - title: "martez-reed"
+    start_time: "13:40"
+    end_time: "14:00"
+  - title: "Open Spaces"
+    type: open-space
+    date: 2019-10-02
+    start_time: "14:00"
+    end_time: "16:10"
+  - title: "Escape Room Experience"
+    type: custom
+    date: 2019-10-02
+    start_time: "14:00"
+    end_time: "16:10"
+  - title: "daniel-oh"
     type: talk
     date: 2019-10-02
-    start_time: "15:10"
-    end_time: "15:40"
+    start_time: "14:00"
+    end_time: "14:30"
   - title: "Sponsors"
     type: custom
     date: 2019-10-02
-    start_time: "15:40"
-    end_time: "15:50"
+    start_time: "14:30"
+    end_time: "14:40"
+  - title: "kirk-kaiser"
+    type: talk
+    date: 2019-10-02
+    start_time: "14:40"
+    end_time: "15:10"
+  - title: "Break"
+    type: custom
+    date: 2019-10-02
+    start_time: "15:10"
+    end_time: "15:30"
+  - title: "martez-reed"
+    type: talk
+    date: 2019-10-02
+    start_time: "15:30"
+    end_time: "16:00"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-10-02
+    start_time: "16:00"
+    end_time: "16:10"
   - title: "julie-gunderson"
     type: talk
     date: 2019-10-02
-    start_time: "15:50"
-    end_time: "16:10"
-  - title: "Closing Remarks, Raffle, and Happy Hour"
+    start_time: "16:10"
+    end_time: "16:40"
+  - title: "Closing Remarks and Raffle !"
     type: custom
     date: 2019-10-02
-    start_time: "16:10"
-    end_time: "17:10"
+    start_time: "16:40"
+    end_time: "17:00"
+  - title: "Happy Hour"
+    type: custom
+    date: 2019-10-02
+    start_time: "17:00"
+    end_time: "18:00"
 
 ignites:
   - title: "ethan-fritz"
@@ -438,7 +456,7 @@ ignites:
     date: 2019-10-01
   - title: "matt-lavin"
     date: 2019-10-01
-  - title: "paige-cote"
+  - title: "craig-cook"
     date: 2019-10-01
   - title: "waldo-grunenwald"
     date: 2019-10-01
@@ -446,9 +464,7 @@ ignites:
     date: 2019-10-02
   - title: "ravi-lachhman"
     date: 2019-10-02
-  - title: "wendy-rashke"
-    date: 2019-10-02
-  - title: "craig-cook"
+  - title: "wendy-raschke"
     date: 2019-10-02
   - title: "adam-lefkowitz"
     date: 2019-10-02

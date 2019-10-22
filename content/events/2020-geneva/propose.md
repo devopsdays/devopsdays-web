@@ -7,20 +7,14 @@ Description = "Propose a talk for DevOpsDays Geneva 2020"
 {{< cfp_dates >}}
 <br>
 
-<!--
-<hr>
-
-
-<strong>How to submit a proposal:</strong> Fill the <a href='https://forms.gle/fxgk1xuZZUajkKmY6' target='_blank'>Google Form</a> or send an e-mail to {{< email_organizers >}} with the following information:
+<strong>How to submit a proposal:</strong> Fill the <a href='https://forms.gle/fxgk1xuZZUajkKmY6' target='_blank'>Google Form</a> or send an e-mail to {{< email_organizers subject="Talk proposal - DevOpsDays Geneva 2020">}} with the following information:
 <ol>
 <li>A title of less than 250 characters (can be tweeted)</li>
 <li>A summary of 100-150 words max. (will be in the program and the website)</li>
 <li>A sentence about you (will serve to introduce you)</li>
 <li>A photo of you (to be on social networks) - with your agreement of use (optional)</li>
 </ol>
-Soon we will publish our CFP
 <hr>
--->
 Choosing talks is part art, part science; here are some factors we consider when trying to assemble the best possible program for our local audience:
 
 - _broad appeal_: How will your talk play out in a room of people with a variety of backgrounds? Technical deep dives need more levels to provide value for the whole room, some of whom might not use your specific tool.

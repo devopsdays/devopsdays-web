@@ -1,0 +1,11 @@
+<em>Emeritus</em><br>
+{{- $len := (len $.Site.Data.core.emeritus) -}}
+{{- range $index, $organizer := $.Site.Data.core.emeritus -}}
+  {{- if ne (add $index 1) $len -}}
+    {{ $organizer }},&nbsp;
+  {{- else -}}
+    {{ $organizer }}
+  {{- end -}}
+{{- end -}}
+<br>
+<br>

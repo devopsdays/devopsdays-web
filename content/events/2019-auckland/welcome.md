@@ -27,6 +27,9 @@ Description = "DevOpsDays Auckland 2019"
     <p> Come share, learn, laugh and be encouraged by the many great things happening in the technology sector over two days at the newly refurbished Aotea Centre, located in the heart of Auckland city. DevOpsDays Auckland includes contributors from across the software delivery, QA, security, operations and management spectrum.</p>
     <p>Celebrating diversity and inclusiveness is important to us. Free tickets are available for those from minority groups and unwaged/students who do not have funds to attend. Fill out this <a href="https://docs.google.com/forms/d/e/1FAIpQLSfL52g6gM5kETifyqSpJs9FU3hQi8aMIaL9a_RmOHNEBAg2Aw/viewform?vc=0&c=0&w=1">form</a> to apply for the scholarship.</p>
     <hr/>
+    <h5>Measles Outbreak</h5>
+    <p>Keeping you and your families safe is our top priority. Please check out the <a href="https://www.health.govt.nz/your-health/conditions-and-treatments/diseases-and-illnesses/measles/2019-measles-outbreak-information">Ministry of Health</a> guidelines.</p>
+    <hr/>
     <div class="row">
     <div class="col-md-2">
       <strong>Dates</strong>
@@ -72,7 +75,7 @@ Description = "DevOpsDays Auckland 2019"
       <strong>Sponsors</strong>
     </div>
     <div class="col-md-6">
-      {{< event_link page="sponsor" text="Sponsor DevOps Auckland 2019!" >}}
+      All our sponsorship slots have been filled
     </div>
   </div>
   <!-- <div class="row">

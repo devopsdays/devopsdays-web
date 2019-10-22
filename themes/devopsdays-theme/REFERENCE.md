@@ -23,6 +23,8 @@
 &emsp;[Speaker Page Fields](#speaker-page-fields)
 &emsp;[Program Page Fields](#program-page-fields)
 &emsp;[Blog Post Fields](#blog-post-fields)
+[Other Settings](#other-settings)
+&emsp;[Social Sharing Image](#social-sharing-image)
 [Shortcodes](#shortcodes)
 &emsp;[google_form](#google_form)
 &emsp;[tito_widget](#tito_widget)
@@ -111,7 +113,7 @@ nav_elements
 ```
 The above example would create a new menu item called "Volunteer" which linked to `devopsdays/events/YYYY-CITY/volunteer`, and another menu item called "party" which would link to `http://www.google.com`
 
-The menu items also take an optional parameter of `icon` where you can set the font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/. Example:
+The menu items also take an optional parameter of `icon` where you can set the font-awesome icon that will display on small screens. *Note: This feature is currently deprecated, but it won't break anything if you use this setting* Choose at http://fontawesome.io/icons/. Example:
 
 ```
 nav_elements
@@ -253,12 +255,13 @@ The content is everything following the last `+++`.
 
 All pages have some common frontmatter elements that they share. These include:
 
-| Field Name    | Required | Description                                                                                                                                                                               | Example                                                                                          |
-|---------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
-| `Description` | No       | The summary, or description, of the content of the page. It is highly recommended that this is populated on every page, as it is used in social sharing, as well as for SEO purposes.     | "DevOpsDays Ponyville is back for 2017! We will be hanging out and showing off our awesomeness." |
-| `Title`       | Yes      | The title of the page. This is usually prepopulated for you, but it is highly recommended that you do NOT use the default titles; add some flair to set your event apart.                 | "devopsdays Ponyville 2017"                                                                      |
-| `Type`        | Yes      | This is required, but is usually pre-populated. Valid types are "event", "welcome", "program", "speaker", "speakers", and "talk". The type you should use for "regular" pages is "event". | "talk"                                                                                           |
-| `aliases`     | No       | This creates aliases to the page. For example, if you want your index page to also be accessible as `/welcome` under your event, you would add the alias here.                            | ["/events/2017-ponyville/welcome"]                                                               |
+| Field Name      | Required | Description                                                                                                                                                                                                                                                                                                  | Example                                                                                          |
+|-----------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| `Description`   | No       | The summary, or description, of the content of the page. It is highly recommended that this is populated on every page, as it is used in social sharing, as well as for SEO purposes.                                                                                                                        | "DevOpsDays Ponyville is back for 2017! We will be hanging out and showing off our awesomeness." |
+| `Title`         | Yes      | The title of the page. This is usually prepopulated for you, but it is highly recommended that you do NOT use the default titles; add some flair to set your event apart.                                                                                                                                    | "devopsdays Ponyville 2017"                                                                      |
+| `Type`          | Yes      | This is required, but is usually pre-populated. Valid types are "event", "welcome", "program", "speaker", "speakers", and "talk". The type you should use for "regular" pages is "event".                                                                                                                    | "talk"                                                                                           |
+| `aliases`       | No       | This creates aliases to the page. For example, if you want your index page to also be accessible as `/welcome` under your event, you would add the alias here.                                                                                                                                               | ["/events/2017-ponyville/welcome"]                                                               |
+| `sharing_image` | No       | This allows you to set an image that is displayed when posting on social sites (eg: Slack, Twitter, Facebook). This image is used in the `og:image` meta tag field. This image is relative to the `static/events/YYYY-CITY/sharing` directory. It can be either .png or .jpg. Recommened size is 1200 × 630. | "matt-stratton-card.jpg"                                                                         |
 
 ### Talk Page Fields
 
@@ -307,6 +310,11 @@ The page of type `program` has one additional frontmatter element.
 | `Author`        | No       | The name of the person who wrote the blog post.                                                                                                                                     | "Matt Stratton"                                                                                                                                                                                                                                                                                      |
 | `title`         | Yes      | The title for the blog post.                                                                                                                                                        | "Chicago 2016 In Review"                                                                                                                                                                                                                                                                             |
 | `sharing_image` | No       | The image to use for social sharing. This is a path relative to the `static` directory.                                                                                             | "img/blog/chicago-2016-sharing.jpg"                                                                                                                                                                                                                                                                  |
+
+## Other Settings
+
+### Social Sharing Image
+An event can create a sharing image for use on social media (when the url is shared on Facebook, for instance). This image must be named `sharing.jpg` and located in the `static/events/YYYY-CITY/sharing/` directory. It should be a minimum 1200 x 630px, and use ratio: 1.91:1.
 
 ## Shortcodes
 

@@ -67,7 +67,7 @@ sponsors:
     level: platinum
   - id: chef
     level: gold
-  - id: docker
+  - id: docker-before-20190926
     level: gold
   - id: ibm
     level: gold

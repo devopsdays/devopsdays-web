@@ -6,17 +6,23 @@ active = [
 "Bernd Erk",
 "Rafael Gomes",
 "Nathen Harvey",
-"Matthew Jones",
+"Mine Heck",
 "Dan Maher",
+"Adrian Moisey",
 "Ken Mugrage",
 "Mike Rosado",
 "Andrew Clay Shafer",
 "Matt Stratton (web team lead)",
+"Yvo van Doorn",
 "John Willis"
 ]
 
-historic = [
+advisory = [
 "Patrick Debois (founder)",
+"Matthew Jones"
+]
+
+emeritus = [
 "Damon Edwards",
 "Anthony Goddard",
 "Lindsay Holmwood",
