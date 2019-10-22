@@ -150,8 +150,6 @@ sponsors:
     level: silver
   - id: pulumi
     level: silver
-  - id: microsoft
-    level: silver
   # bronze
   - id: inuits
     level: bronze
