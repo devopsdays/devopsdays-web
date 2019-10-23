@@ -22,7 +22,7 @@ This conference is hosted by DevOpsKC, make sure to checkout our [monthly meetup
 
 <b>Fun</b>
 <br>
-• Don't miss the Thursday evening networking social; we'll announce the location soon!
+• Don't miss the <a target="_blank" href= "/events/2019-kansas-city/social">Thursday evening networking social sponsored by New Context at No Other Pub!</a>
 <br>
 • Get excited about food from KC treats - Waypoint Coffee, Hurts Donuts, Joe's Kansas City Bar-B-Que, and Hawaiian Bros Island Grill.
 <br>
@@ -52,12 +52,21 @@ This conference is hosted by DevOpsKC, make sure to checkout our [monthly meetup
 
 <div class = "row">
   <div class = "col-md-2">
+    <strong>Conference map</strong>
+  </div>
+  <div class = "col-md-8">
+    <a target="_blank" href= "/events/2019-kansas-city/DevOpsDays2019-MAP-Westport-Commons-Plexpod.pdf">View a map of venue!</a>
+  </div>
+</div>
+
+<!-- <div class = "row">
+  <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
     <a href = "https://devopsdayskc.eventbrite.com">Register to attend the conference!</a>
   </div>
-</div>
+</div> -->
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -86,14 +95,14 @@ This conference is hosted by DevOpsKC, make sure to checkout our [monthly meetup
   </div>
 </div>
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="sponsor" text="Sponsor the conference!" >}}
   </div>
-</div>
+</div> -->
 
 <div class = "row">
   <div class = "col-md-2">
