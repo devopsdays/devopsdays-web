@@ -342,7 +342,7 @@ program:
     date: 2019-10-24
     start_time: "14:30"
     end_time: "15:00"
-  - title: "Sponsors + Break"
+  - title: "Break"
     type: custom
     date: 2019-10-24
     start_time: "15:00"
@@ -439,7 +439,7 @@ program:
     date: 2019-10-25
     start_time: "14:00"
     end_time: "14:30"
-  - title: "Sponsors + Break"
+  - title: "Break"
     type: custom
     date: 2019-10-25
     start_time: "14:30"
