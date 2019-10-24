@@ -1,10 +1,12 @@
 +++
 Title = "Giulio Vian"
 Twitter = ""
-image = ""
+image = "giulio-vian.jpg"
 type = "speaker"
 linktitle = "giulio-vian"
 
 +++
 
-Giulio is a veteran of IT industry and an internationally recognised expert on DevOps with awards like Microsoft Most Valuable Professional. He shares at conferences and user groups his experience, gained by working on international projects for a variety of industries, with a predilection for the banking and financial sectors, and currently works at BuildIt@Wipro Digital helping customers in succeeding on their Digital Transformation initiatives.
+Giulio started automating builds using NMake and currently he is designing cloud solutions and improving delivery processes for customers at **BuildIt @ Wipro Digital**. In between, he programmed in many different languages, architected different systems, worked in a few countries and consulted dozens of disparate customers.
+
+Microsoft MVP 2016-2020 on Azure DevOps, he speaks at local and international events for fun and passion.
