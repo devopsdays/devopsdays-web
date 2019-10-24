@@ -66,6 +66,7 @@ team_members: # Name is the only required field for team members.
     image: "bryna-kirzner.jpg"
   - name: "Chris Webber"
   - name: "Jordan Schwartz"
+  - name: "Ilan Rabinovitch"
 
 organizer_email: "los-angeles@devopsdays.org" # Put your organizer email address here
 
