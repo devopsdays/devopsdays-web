@@ -50,6 +50,17 @@ Description = "devopsdays Los Angeles 2020"
   </div>
 </div> -->
 
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Call For Papers</strong>
+  </div>
+  <div class = "col-md-8">
+    <a href="https://www.socallinuxexpo.org/scale/18x/cfp">
+      Propose a talk!
+    </a>
+  </div>
+</div>
+
 <!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
