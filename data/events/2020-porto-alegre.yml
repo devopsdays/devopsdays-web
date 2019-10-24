@@ -61,6 +61,7 @@ team_members: # Name is the only required field for team members.
   #   image: "sally-fields.jpg"
   - name: "Ana Ferreira"
     linkedin: "https://www.linkedin.com/in/anapaulaaranda/"
+    image: "ana-ferreira.jpg"
   - name: "Camila Mello de Freitas"
     twitter: "kmilapoa"
     image: "camila-freitas.jpg"
