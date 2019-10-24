@@ -1,5 +1,5 @@
 +++
-Title = "devopsdays Los Angeles 2020"
+Title = "DevOps Day Los Angeles 2020"
 Type = "welcome"
 aliases = ["/events/2020-los-angeles/"]
 Description = "devopsdays Los Angeles 2020"
@@ -18,23 +18,28 @@ Description = "devopsdays Los Angeles 2020"
   </div>
 </div>
 
-<!-- <div class = "row">
+
+<div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_location >}}
+    <a href="https://www.socallinuxexpo.org/scale/18x/venue">
+      Pasadena Convention Center
+    </a>
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
+    <a href="https://register.socallinuxexpo.org/reg6/">
+      Register to attend the conference!
+    </a>
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -44,6 +49,17 @@ Description = "devopsdays Los Angeles 2020"
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
 </div> -->
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Call For Papers</strong>
+  </div>
+  <div class = "col-md-8">
+    <a href="https://www.socallinuxexpo.org/scale/18x/cfp">
+      Propose a talk!
+    </a>
+  </div>
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -62,6 +78,15 @@ Description = "devopsdays Los Angeles 2020"
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
 </div> -->
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Volunteer</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_link page="volunteer" text="Get involved!" >}}
+  </div>
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
