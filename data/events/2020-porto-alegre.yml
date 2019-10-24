@@ -78,6 +78,7 @@ team_members: # Name is the only required field for team members.
     image: "cristiano-diedrich.jpg"
   - name: "Fabricia Doria"
   - name: "Elisa Diel"
+    image: "elisa-diel.jpg"
   - name: "Guilherme Elias"
     employer: "Umov.me"
     twitter: "guilhermelias"
