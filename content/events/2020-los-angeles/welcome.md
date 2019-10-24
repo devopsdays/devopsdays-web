@@ -18,14 +18,17 @@ Description = "devopsdays Los Angeles 2020"
   </div>
 </div>
 
-<!-- <div class = "row">
+
+<div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_location >}}
+    <a href="https://www.socallinuxexpo.org/scale/18x/venue">
+      Pasadena Convention Center
+    </a>
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">

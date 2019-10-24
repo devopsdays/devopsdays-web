@@ -35,7 +35,8 @@ location_address: "300 E Green St, Pasadena, CA 91101" #Optional - use the stree
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
- # - name: location
+  - name: venue
+    url: https://www.socallinuxexpo.org/scale/18x/venue
  # - name: registration
  # - name: program
  # - name: speakers
