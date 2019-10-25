@@ -139,6 +139,8 @@ sponsors:
      level: lanyard
    - id: appdynamics
      level: coffee
+   - id: datadog
+     level: silver
 
  # - id: samplesponsorname
  #   level: gold
