@@ -98,6 +98,8 @@ proposal_email: "proposals-ghent-2019@devopsdays.org" # Put your proposal email 
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
   # platinum
+  - id: redhat
+    level: platinum
   - id: puppet
     level: platinum
   - id: sonatype
