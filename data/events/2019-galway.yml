@@ -339,7 +339,7 @@ program:
     date: 2019-11-19
     start_time:  "11:55"
     end_time: "12:05"
-  - title: ""
+  - title: "michele-pegoraro"
     type: talk
     date: 2019-11-19
     start_time: "12:10"
@@ -351,7 +351,7 @@ program:
     start_time: "12:40"
     end_time: "13:50"
 
-  - title: "jj-asghar"
+  - title: "jorge-dionisio"
     type: talk
     date: 2019-11-19
     start_time: "13:50"
