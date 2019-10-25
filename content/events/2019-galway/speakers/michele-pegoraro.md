@@ -1,7 +1,7 @@
 +++
 Title = "Michele Pegoraro"
 Twitter = ""
-image = ""
+image = "michele-pegoraro.jpg"
 type = "speaker"
 linktitle = "michele-pegoraro"
 
