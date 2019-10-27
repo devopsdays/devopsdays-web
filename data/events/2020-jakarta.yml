@@ -93,6 +93,14 @@ team_members: # Name is the only required field for team members.
     role: "Advisor"
     linkedin: "https://id.linkedin.com/in/iwan-teguh-santoso-31a88a54"
     image: "iwan_teguh_santoso.jpg"
+  - name: "Made Mulia"
+    role: "Advisor"
+    linkedin: "https://www.linkedin.com/in/mademulia/"
+  - name: "Stefan Streichsbier"
+    role: "Advisor"
+    github: "streichsbaer"
+    twitter: "s_streichsbier"
+    linkedin: "https://www.linkedin.com/in/sstreichsbier"
 organizer_email: "jakarta@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
