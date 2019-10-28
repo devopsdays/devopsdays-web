@@ -140,7 +140,7 @@ sponsors:
    - id: appdynamics
      level: coffee
    - id: datadog
-     level: silver
+     level: bronze
 
  # - id: samplesponsorname
  #   level: gold
