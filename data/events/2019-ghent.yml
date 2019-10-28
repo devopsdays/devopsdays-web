@@ -347,21 +347,16 @@ program:
   date: 2019-10-30
   start_time: '9:50'
   end_time: '10:05'
-- title: stephen-nelson-smith
+- title: michael-ducy
   type: talk
   date: 2019-10-30
   start_time: '10:10'
   end_time: '10:25'
-- title: michael-ducy
-  type: talk
-  date: 2019-10-30
-  start_time: '10:30'
-  end_time: '10:45'
 
 - title: Break
   type: custom
   date: 2019-10-30
-  start_time: '10:40'
+  start_time: '10:30'
   end_time: '11:10'
 
 - title: george-miranda
