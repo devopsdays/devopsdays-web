@@ -113,3 +113,7 @@ sponsor_levels:
 sponsors:
   - id: in-loco
     level: platinum
+  - id: aws
+    level: platinum
+  - id: sudocast
+    level: comunity
