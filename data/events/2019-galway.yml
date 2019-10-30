@@ -180,6 +180,8 @@ sponsors:
   - id: stickermule
     level: support
     url: http://stickermule.com/supports/devopsdaygalway19-sponsorship
+  - id: coding-grace
+    level: community
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
