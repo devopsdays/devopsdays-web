@@ -47,7 +47,19 @@ Description = "devopsdays Vitoria 2020"
         <strong>Inscreva-se</strong>
       </div>
       <div class="col-md-6">
-        <a href="https://www.sympla.com.br/devopsdays-vitoria-2020__672804" target="_blank">aqui</a>
+        <a href="https://www.sympla.com.br/devopsdays-vitoria-2020__672804" target="_blank">
+          <i class="fa fa-sign-in fa-lg"></i>&nbsp; Aqui
+        </a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-2">
+        <strong>Meetups</strong>
+      </div>
+      <div class="col-md-6">
+        <a href="https://www.meetup.com/pt-BR/DevOps-Vix/events/" target="_blank">
+        <i class="fa fa-meetup fa-lg"></i>&nbsp; Meetups DevopsVix
+        </a>
       </div>
     </div>
   </div>
