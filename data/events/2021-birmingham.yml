@@ -62,6 +62,10 @@ team_members: # Name is the only required field for team members.
   - name: "Shaun McLernon"
     employer: "Independent consultant"
     twitter: "@mclernon"
+  - name: "Nik Knight"
+    employer: "JHC Financial"
+    image: "nik-knight.jpg"
+    twitter: "@kninki"
 organizer_email: "birmingham@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
