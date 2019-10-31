@@ -100,10 +100,12 @@ sponsors:
   - id: cross-systems
     level: gold
     url: https://www.cross-systems.ch
-#  - id: dbi-services
+  - id: dbi-services
     level: silver
   - id: camptocamp
     level: silver
+  - id: oracle
+    level: gold
 
   #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 
