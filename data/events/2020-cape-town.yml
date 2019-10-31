@@ -74,8 +74,8 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/tombamford"
     bio: "Tom helps organizations to self-integrate and move faster. Blaster of red tape and pointing/clicking. Mediator by day, automaton by night."
 
-organizer_email: "organizers-cape-town-2020@devopsdays.org"
-proposal_email: "proposals-cape-town-2020@devopsdays.org"
+organizer_email: "cape-town@devopsdays.org"
+proposal_email: "cape-town@devopsdays.org"
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
