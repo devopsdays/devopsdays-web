@@ -1,7 +1,7 @@
 +++
 Title = "Emanuil Tolev"
 Twitter = ""
-image = ""
+image = "emanuil-tolev.png"
 type = "speaker"
 linktitle = "emanuil-tolev"
 
