@@ -1,6 +1,5 @@
 active = [
 "Bridget Kromhout (lead)",
-"Kris Buytaert",
 "Serhat Can",
 "Jennifer Davis",
 "Bernd Erk",
@@ -10,6 +9,7 @@ active = [
 "Dan Maher",
 "Adrian Moisey",
 "Ken Mugrage",
+"Marco Júnior",
 "Mike Rosado",
 "Andrew Clay Shafer",
 "Matt Stratton (web team lead)",
@@ -19,6 +19,7 @@ active = [
 
 advisory = [
 "Patrick Debois (founder)",
+"Kris Buytaert",
 "Matthew Jones"
 ]
 
