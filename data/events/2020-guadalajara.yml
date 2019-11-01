@@ -38,7 +38,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: registration
  # - name: program
  # - name: speakers
- # - name: sponsor
+  - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
@@ -57,6 +57,7 @@ team_members: # Name is the only required field for team members.
   - name: "Sergio Lopez"
   - name: "Rodrigo Gaos"
   - name: "Raul Esquivel"
+  - name: "Leon Garcia"
 organizer_email: "guadalajara@devopsdays.org" # Put your organizer email address here
 proposal_email: "guadalajara@devopsdays.org" # Put your proposal email address here
 

@@ -8,7 +8,7 @@ image = "ross-brunson.jpg"
 +++
 Ross has a long history in the world of Training, Certification and Career Enhancement. He began in the US Army and quickly began making applications in CPM, then MS-DOS and various Unices.
 
-He is currently a Technical Evangelist on the Community Team for DataDog, the company and product that lets you monitor all your systems, applications and services across the entire DevOps stack.
+He is currently a Linux Training Architect II for LinuxAcademy, creating the next generation of online courses with the best hands-on labs around.
 
 Ross recently spent a tour of duty at SUSE Inc. as their Certification Architect, remaking their Certification Program to modern standards, putting 10+ hands-on certifications into the market and inaugurating the first SUSE Enterprise Architects into the world.
 
