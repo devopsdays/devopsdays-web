@@ -9,6 +9,13 @@ Description = "devopsdays zurich 2020"
   {{< event_logo >}}
 </div> -->
 
+<img src="/events/2020-zurich/logo.png" style="float:center"/>
+
+<strong>
+  Harder, Better, Faster, Stronger. <br>Welcome to the fourth round of DevOpsDays 2020!
+</strong>
+
+<!--
 <div class = "row">
   <div class = "col-md-2">
     <strong>Dates</strong>
@@ -17,15 +24,25 @@ Description = "devopsdays zurich 2020"
     {{< event_start >}} - {{< event_end >}}
   </div>
 </div>
+-->
 
-<!-- <div class = "row">
+<div class = "row">
+  <div class = "col-md-12">
+    <p>First time here? Check out our last events and get hyped!</p>
+    <a href="https://www.devopsdays.org/events/2017-zurich/welcome/">DevOpsDays 2017 - Where it all started</a></br>
+    <a href="https://www.devopsdays.org/events/2018-zurich/welcome/">DevOpsDays 2018 - The Continuation</a></br>
+    <a href="https://www.devopsdays.org/events/2019-zurich/welcome/">DevOpsDays 2019 - The Rising</a></br>
+  </div>
+</div>
+
+<div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div> -->
+</div> 
 
 <!-- <div class = "row">
   <div class = "col-md-2">
