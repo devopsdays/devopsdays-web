@@ -11,7 +11,7 @@ Description = "DevOpsDays Toronto 2020"
 
 </br>
 
-DevOpsDays Toronto is back for its sevth year. We'll be announcing the dates and venue soon as well as opening the CFP.</br>
+DevOpsDays Toronto is back for its seventh year. We'll be announcing the dates and venue soon as well as opening the CFP.</br>
 
 <div class = "row">
   <div class = "col-md-2">
