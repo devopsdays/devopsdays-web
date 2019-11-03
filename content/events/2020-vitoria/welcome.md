@@ -12,6 +12,7 @@ Description = "devopsdays Vitoria 2020"
 <div class="row">
   <div class="col-md-2">
       <img alt="DevOpsDays vitoria 2020" src="/events/2020-vitoria/event.png" style="width:100%">
+      {{< event_twitter >}}
   </div>
   <div class="col-md-6">
     <h3>DevOpsDays in Vitoria!</h3>
@@ -62,6 +63,17 @@ Description = "devopsdays Vitoria 2020"
         </a>
       </div>
     </div>
+    <div class="row">
+      <div class="col-md-2">
+        <strong>CFP</strong>
+      </div>
+      <div class="col-md-6">
+        <a href="https://www.papercall.io/devopsdaysvix20/" target="_blank">
+        <i class="fa fa-hand-paper-o fa-lg"></i>&nbsp; Seje um palestrante no Devopsdaysvix
+        </a>
+      </div>
+    </div>
+
   </div>
   <div class="col-md-4 embed-responsive">
     <iframe width="853" height="480" src="https://www.youtube.com/embed/hLrNckEmcAc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
