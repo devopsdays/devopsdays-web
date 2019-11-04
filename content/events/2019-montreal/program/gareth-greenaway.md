@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Dr SaltStack: or How I Stopped Worrying And Replaced All The Crons"
+Title = "Dr SaltStack: Replaced All The Crons Workshop"
 Type = "talk"
 Speakers = ["gareth-greenaway"]
 +++
