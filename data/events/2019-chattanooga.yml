@@ -94,15 +94,9 @@ sponsors:
     level: gold
   - id: redhat-silex
     level: gold
-  - id: datadog
-    level: gold
-  - id: nutanix
-    level: gold
   - id: worldwide_technologies_dell
     level: gold
   - id: unum
-    level: gold
-  - id: worldwide-technologies-dell
     level: gold
   - id: infosystems
     level: silver
@@ -261,5 +255,5 @@ ignites:
   date: 2019-11-12T00:00:00-05:00
 - title: john-cotton
   date: 2019-11-12T00:00:00-05:00
-- title: sierra-watkins
+- title: TBA
   date: 2019-11-12T00:00:00-05:00
