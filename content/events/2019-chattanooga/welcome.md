@@ -69,6 +69,7 @@ Description = "DevOpsDays is returning to Chattanooga  on November 12, 2019 at t
   </div>
 </div> 
 
+<!--
 <div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>
@@ -77,6 +78,7 @@ Description = "DevOpsDays is returning to Chattanooga  on November 12, 2019 at t
     {{< event_link page="sponsor" text="Sponsor the conference!" >}}
   </div>
 </div>
+-->
 
 <div class = "row">
   <div class = "col-md-2">
