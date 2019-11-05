@@ -2,6 +2,7 @@
 Title = "Putting CAKE into your CI"
 Type = "talk"
 Speakers = ["mark-baker"]
+pdf = "https://assets.devopsdays.org/events/2019/stockholm/Putting-CAKE-into-your-CI.pdf"
 +++
 
 **Ignite Talk**

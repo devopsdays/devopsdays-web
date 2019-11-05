@@ -98,19 +98,29 @@ sponsors:
   - id: gitlab
     level: gold
     url: "https://about.gitlab.com"
+  - id: xmatters
+    level: gold
+  - id: travelers
+    level: gold
   - id: dynatrace
     level: silver
   - id: eliassen-group
     level: silver
   - id: compuware
     level: silver
-  - id: arresteddevops
-    level: community
   - id: signalfx
+    level: silver
+  - id: microsoft
+    level: silver
+  - id: tasktop
     level: silver
   - id: cgi
     level: bronze
+  - id: arresteddevops
+    level: community
   - id: newhavenio
+    level: community
+  - id: upward-hartford
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

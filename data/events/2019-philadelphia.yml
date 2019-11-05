@@ -77,6 +77,8 @@ proposal_email: "proposals-philadelphia-2019@devopsdays.org"
 sponsors:
   - id: contrast_security
     level: platinum
+  - id: googlecloud
+    level: platinum
   - id: appdynamics
     level: gold
   - id: circleci
@@ -89,6 +91,14 @@ sponsors:
     level: gold
   - id: sonatype
     level: gold
+  - id: xmatters
+    level: gold
+  - id: 2nd-watch
+    level: gold
+  - id: aspe
+    level: gold
+  - id: comcast
+    level: gold
   - id: overops
     level: silver
   - id: instana
@@ -96,6 +106,14 @@ sponsors:
   - id: signalfx
     level: silver
   - id: socketlabs
+    level: silver
+  - id: rancher
+    level: silver
+  - id: vanguard
+    level: silver
+  - id: gitlab
+    level: silver
+  - id: cerner
     level: silver
   - id: arresteddevops
     level: community
@@ -127,7 +145,7 @@ program:
     date: 2019-10-22
     start_time: "09:00"
     end_time: "09:15"
-  - title: "lanice-sims"
+  - title: "jocelyn-harper"
     type: talk
     date: 2019-10-22
     start_time: "09:15"
@@ -137,7 +155,7 @@ program:
     date: 2019-10-22
     start_time: "09:45"
     end_time: "09:55"
-  - title: "seth-vargo"
+  - title: "marco-coulter"
     type: talk
     date: 2019-10-22
     start_time: "09:55"
@@ -147,7 +165,7 @@ program:
     date: 2019-10-22
     start_time: "10:25"
     end_time: "10:40"
-  - title: "TBA"
+  - title: "jearvon-dharrie"
     type: talk
     date: 2019-10-22
     start_time: "10:40"
@@ -243,7 +261,7 @@ program:
     date: 2019-10-23
     start_time: "10:25"
     end_time: "10:40"
-  - title: "TBA"
+  - title: "seth-vargo"
     type: talk
     date: 2019-10-23
     start_time: "10:40"
@@ -263,8 +281,8 @@ program:
     date: 2019-10-23
     start_time: "11:50"
     end_time: "13:00"
-  - title: "Ignites"
-    type: ignite
+  - title: "arrested-devops"
+    type: talk
     date: 2019-10-23
     start_time: "13:00"
     end_time: "13:30"
@@ -307,15 +325,9 @@ program:
 ignites:
   - title: "alan-s-koch"
     date: 2019-10-22
-  - title: "TBA"
+  - title: "steve-ross"
     date: 2019-10-22
-  - title: "TBA"
+  - title: "quantum-computing"
     date: 2019-10-22
-  - title: "TBA"
+  - title: "rachel-sweeney"
     date: 2019-10-22
-  - title: "TBA"
-    date: 2019-10-23
-  - title: "TBA"
-    date: 2019-10-23
-  - title: "TBA"
-    date: 2019-10-23

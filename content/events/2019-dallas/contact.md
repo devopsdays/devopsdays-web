@@ -19,7 +19,10 @@ If you'd like to contact us by email: {{< email_organizers >}}
 
 **The core devopsdays organizer group**
 
+<i>Volunteers</i><br>
+John Paul Herold, Dev Reddy, Dharmesh Bambhrolia, Adam Fitzgerald, Larry Dolinar, Paul Nozell, Alok Bhaskar, Daniel Oviedo, Jim Baldwin, Grant Boykin, Corina Dunca, Travis Mims, Grant Boykin, Seth Carroll, Marius Golici, Megan Bohl, Emaan Haseem, Imad Balute, Michael Mucciarone
+
 <i>Emeritus Local Organizers</i><br>
-Mike Rosado, John Jelinek, Ben Johnson, Annie Hedgpeth, Michael Hedgepeth, Megan Bohl, Carlos Nuñez
+John Jelinek, Ben Johnson, Annie Hedgpeth, Michael Hedgepeth, Megan Bohl, Carlos Nuñez
 
 {{< list_core >}}

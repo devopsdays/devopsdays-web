@@ -89,27 +89,66 @@ sponsors:
   - id: microsoft
     level: platinum
     url: https://2019.devopsrex.fr/partners/3b9f2de4-66a1-e911-abc4-281878325d51
+  - id: rudder
+    level: platinum
+    url: https://2019.devopsrex.fr/partners/6c62b5df-1f8d-e911-abc4-28187832c656
+  - id: theodo-padok
+    level: platinum
+    url: https://2019.devopsrex.fr/partners/27e9c37a-24cf-e911-a40a-501ac5066b5e
   - id: aneo
     level: gold
     url: https://2019.devopsrex.fr/partners/f53d7222-208d-e911-abc4-28187832c656
   - id: its-group
     level: gold
     url: https://2019.devopsrex.fr/partners/88fe796d-228d-e911-abc4-28187832c656
+  - id: jfrog
+    level: gold
+    url: https://2019.devopsrex.fr/partners/fc7267df-cebc-e911-bcd0-28187866b6f1
   - id: objectif-libre
     level: gold
     url: https://2019.devopsrex.fr/partners/c2dc4288-228d-e911-abc4-28187832c656
+  - id: rudder
+    level: gold
+    url: https://2019.devopsrex.fr/partners/6c62b5df-1f8d-e911-abc4-28187832c656
+  - id: securecodewarrior
+    level: gold
+    url: https://2019.devopsrex.fr/partners/a9c65c70-4ec2-e911-bcd0-28187866b6f1
   - id: sonatype
     level: gold
     url: https://2019.devopsrex.fr/partners/e8bb66ac-208d-e911-abc4-28187832c656
   - id: atlassian
     level: silver
     url: https://2019.devopsrex.fr/partners/143365d1-218d-e911-abc4-28187832c656
+  - id: eleven-labs
+    level: silver
+    url: https://2019.devopsrex.fr/partners/c5d8583b-298d-e911-abc4-28187832c656
+  - id: micro-focus
+    level: silver
+    url: https://2019.devopsrex.fr/partners/097a3411-5e9e-e911-abc4-281878325d51
+  - id: sweagle
+    level: silver
+    url: https://2019.devopsrex.fr/partners/2a807583-85db-e911-a40a-501ac518e196
+  - id: synalabs
+    level: silver
+    url: https://2019.devopsrex.fr/partners/b5c3b1a2-80db-e911-a40a-501ac518e196
   - id: talentio
     level: silver
     url: https://2019.devopsrex.fr/partners/f2fb99ac-238d-e911-abc4-28187832c656
+  - id: whitesource
+    level: silver
+    url: https://2019.devopsrex.fr/partners/7eac5e6d-1cb9-e911-bcd0-28187866b6f1
   - id: xebialabs
     level: silver
     url: https://2019.devopsrex.fr/partners/2cb0b236-248d-e911-abc4-28187832c656
+  - id: infodsi
+    level: media
+    url: https://2019.devopsrex.fr/partners/0da9f0a9-9be6-e911-a40a-501ac5397e3b
+  - id: linux-magazine-france
+    level: media
+    url: https://2019.devopsrex.fr/partners/cb458e8f-52c2-e911-bcd0-28187866b6f1
+  - id: misc-online
+    level: media
+    url: https://2019.devopsrex.fr/partners/beed542f-d6c8-e911-a40a-501ac518ad0f
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
@@ -126,7 +165,7 @@ sponsor_levels:
   - id: silver
     label: Silver
 #    max: 0 # This is the same as omitting the max limit.
-  - id: bronze
-    label: Bronze
-#  - id: media
-#    label: Média
+#  - id: bronze
+#    label: Bronze
+  - id: media
+    label: Média

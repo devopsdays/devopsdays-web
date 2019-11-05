@@ -15,13 +15,13 @@ cfp_date_start: 2019-04-15T00:00:00-03:00 # start accepting talk proposals.
 cfp_date_end: 2019-09-20T23:59:00-03:00 # close your call for proposals.
 cfp_date_announce: 2019-10-01T23:59:00-03:00 # inform proposers of status
 
-cfp_open: "true"
+cfp_open: "false"
 cfp_link: "https://www.papercall.io/devopsdays-campinas-2019" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 masthead_background: "dod-cps-horizontal.jpg"
 
 registration_date_start: 2019-05-16T00:00:00-03:00 # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: 2019-10-21T00:00:00-03:00 # close registration. Leave blank if registration is not open yet.
+registration_date_end: 2019-10-24T00:00:00-03:00 # close registration. Leave blank if registration is not open yet.
 
 # registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://www.sympla.com.br/devopsdays-campinas__530045" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -72,11 +72,6 @@ team_members: # Name is the only required field for team members.
     github: "christiano-linuxmen"
     bio: "Digital Influencer e Evangelista de Tecnologia no Papo de Sysadmin, comunidade com o propósito de engajar, fomentar e esclarecer as demais organizações e empresas sobre DevOps, Cloud Computing, Arquitetura de Software, Segurança da Informação entre outros temas correlatos.
     Atualmente é Community Leader da OWASP Chapter São Paulo, criador do Time Regional do Ubuntu em São Paulo, e coordena a área Cloud no TheDevConf que envolve as trilhas DevOps, DevOps Tools, Cloud, Containers e Software Security."
-  - name: "Daniel Gines"
-    role: "Organizer"
-    linkedin: "https://www.linkedin.com/in/danielgines/"
-    image: "daniel-gines.jpeg"
-    github: "danielgines"
   - name: "Eduardo Ximenes"
     role: "Organizer"
     linkedin: "https://www.linkedin.com/in/ximenesit/"
@@ -104,14 +99,28 @@ proposal_email: "proposals-campinas-2019@devopsdays.org" # Put your proposal ema
 sponsors:
   - id: aws
     level: gold
+  - id: signalfx
+    level: gold
   - id: newrelic
+    level: gold
+  - id: dextra
     level: gold
   - id: globo
     level: bronze
   - id: infoq
     level: community
+  - id: papo-de-sysadmin
+    level: community
+  - id: devcamp
+    level: community
   - id: elastic
     level: bronze
+  - id: netbr
+    level: gold
+  - id: cyber_security_girls
+    level: community
+  - id: citic-unicamp
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -134,78 +143,98 @@ sponsor_levels:
     label: Community
 
 program:
-  - title: "Credenciamento e breakfast"
+  - title: "Credenciamento"
     type: custom
     date: 2019-10-25
     start_time: "08:00"
-    end_time: "08:30"
-  - title: "tbd"
-    type: talk
+    end_time: "09:00"
+  - title: "Abertura"
+    type: custom
     date: 2019-10-25
-    start_time: "08:30"
-    end_time: "08:40"
-  - title: "tbd"
-    type: talk
-    date: 2019-10-25
-    start_time: "08:40"
+    start_time: "09:00"
     end_time: "09:25"
-  - title: "tbd"
+  - title: "fernando-mattoso"
     type: talk
     date: 2019-10-25
     start_time: "09:25"
-    end_time: "10:00"
-  - title: "tbd"
-    type: talk
-    date: 2019-10-25
-    start_time: "10:00"
-    end_time: "10:35"
-  - title: "tbd"
-    type: talk
-    date: 2019-10-25
-    start_time: "10:35"
-    end_time: "11:10"
-  - title: "tbd"
-    type: talk
-    date: 2019-10-25
-    start_time: "11:10"
-    end_time: "11:45"
-  - title: "tbd"
+    end_time: "10:05"
+  - title: "Coffee Break"
     type: custom
     date: 2019-10-25
-    start_time: "11:45"
-    end_time: "13:45"
-  - title: "tbd"
+    start_time: "10:05"
+    end_time: "10:30"
+  - title: "wellington-silva"
     type: talk
     date: 2019-10-25
-    start_time: "13:50"
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "thiago-luiz"
+    type: talk
+    date: 2019-10-25
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "thiago-dias"
+    type: talk
+    date: 2019-10-25
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "fernando-ike"
+    type: talk
+    date: 2019-10-25
+    start_time: "12:00"
+    end_time: "12:30"
+  - title: "Almoço"
+    type: custom
+    date: 2019-10-25
+    start_time: "12:30"
+    end_time: "13:55"
+  - title: "mateus-prado"
+    type: talk
+    date: 2019-10-25
+    start_time: "13:55"
     end_time: "14:25"
-  - title: "tbd"
+  - title: "sheimy-rahman"
     type: talk
     date: 2019-10-25
     start_time: "14:25"
-    end_time: "15:00"
-  - title: "tbd"
+    end_time: "14:55"
+  - title: "heinz-nevermann"
     type: talk
     date: 2019-10-25
-    start_time: "15:00"
+    start_time: "14:55"
+    end_time: "15:25"
+  - title: "william-lino"
+    type: talk
+    date: 2019-10-25
+    start_time: "15:25"
     end_time: "15:55"
-  - title: "tbd"
-    type: talk
-    date: 2019-10-25
-    start_time: "15:55"
-    end_time: "16:30"
-  - title: "tbd"
+  - title: "Coffee break"
     type: custom
     date: 2019-10-25
-    start_time: "16:30"
-    end_time: "17:00"
-  - title: "tbd"
+    start_time: "15:55"
+    end_time: "16:20"
+  - title: "fabiana-florentin"
     type: talk
     date: 2019-10-25
-    start_time: "17:00"
+    start_time: "16:20"
+    end_time: "16:45"
+  - title: "gabriela-dias"
+    type: talk
+    date: 2019-10-25
+    start_time: "16:45"
+    end_time: "17:15"
+  - title: "alessandra-monteiro"
+    type: talk
+    date: 2019-10-25
+    start_time: "17:15"
     end_time: "17:45"
+  - title: "rafael-benevides"
+    type: talk
+    date: 2019-10-25
+    start_time: "17:45"
+    end_time: "18:25"
   - title: "Encerramento"
     type: custom
     date: 2019-10-25
-    start_time: "17:45"
-    end_time: "17:55"
+    start_time: "18:25"
+    end_time: "18:35"
