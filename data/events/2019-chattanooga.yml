@@ -224,7 +224,7 @@ program:
     start_time: "15:55"
     end_time: "16:00"
   - title: "Sponsor Giveaway"
-    type: talk
+    type: custom
     date: 2019-11-12T00:00:00-05:00
     start_time: "16:00"
     end_time: "16:15"
