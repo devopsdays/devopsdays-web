@@ -184,6 +184,8 @@ sponsors:
     url: http://stickermule.com/supports/devopsdaygalway19-sponsorship
   - id: coding-grace
     level: community
+  - id: wwcodebelfast
+    level: community
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
