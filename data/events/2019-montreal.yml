@@ -360,7 +360,7 @@ program:
     start_time: "13:30"
     end_time: "13:35"
 
-  - title: "General Announcements"
+  - title: "General Announcements & Contest Draw"
     type: custom
     date: 2019-11-06
     start_time: "13:35"
@@ -415,7 +415,7 @@ program:
     start_time: "14:35"
     end_time: "16:35"
 
-  - title: "Closing Statement & Contest Draw"
+  - title: "Closing Statement"
     type: custom
     date: 2019-11-06
     start_time: "16:50"
