@@ -69,7 +69,7 @@ Description = "devopsdays Vitoria 2020"
       </div>
       <div class="col-md-6">
         <a href="https://www.papercall.io/devopsdaysvix20/" target="_blank">
-        <i class="fa fa-hand-paper-o fa-lg"></i>&nbsp; Seje um palestrante no Devopsdaysvix
+        <i class="fa fa-hand-paper-o fa-lg"></i>&nbsp; Seja um palestrante no Devopsdaysvix
         </a>
       </div>
     </div>
