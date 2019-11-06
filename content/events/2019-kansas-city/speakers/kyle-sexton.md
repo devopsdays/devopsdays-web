@@ -8,4 +8,4 @@ image = "kyle-sexton.jpg"
 +++
 *Your Friendly Neighborhood Emacs User*
 
-Kyle Sexton is an Engineering Manager at New Context, where he works with clients to help them address technical, cultural and organizational challenges. He is an active member of the Kansas City technology community, giving talks at meetups and starting the Kubernetes and Cloud Native Kansas City user group.
+Kyle Sexton is the Chief Enterprise Architect at the NAIC, a non-profit focused on consumer protection in the insurance industry. He is an active member of the Kansas City technology community, giving talks at meetups and running the Kubernetes and Cloud Native Kansas City user group.

@@ -95,7 +95,7 @@ Now that you have assembled your team, the next step is choosing a date. We usua
 
 - Avoid overlapping dates with other devopsdays, especially nearby. We want to spread the events out; think of it as loadbalancing. All devopsdays events with their dates scheduled will be shown on the front page of [devopsdays.org](/).
 - Avoid overlap in dates with other important local events: with other events happening at the same time, your attendance rate might be affected negatively
-- 'Piggyback' after/before other events: it's a great way to get started, and as people might have traveled already, they can be potentially be interested in a pre or post event conference
+- 'Piggyback' after/before other events: it's a great way to get started, and as people might have traveled already, they can potentially be interested in a pre or post event conference
 - Keep on eye on other major industry events so as to avoid accidentally scheduling during a time when it may be more challenging to get the speakers and sponsors you want.
 - You cannot announce a date until you have two things: an agreement with a venue, and a way to handle money.
 - Look at a few two-day choices you can accept. When talking to a venue, you might find that they can accommodate you better during some parts of the week than others. Sometimes they may be fully booked a given week, but available the next.
@@ -306,7 +306,7 @@ Sponsors will usually ask you the following; best to have this information ready
 - If you provide a badge-scanning mechanism (no)
 - If they will have electricity & network at the venue (you should make sure the answer here is yes)
 - If they can get a monitor (let them bring their own or rent one themselves)
-- Where to ship their stuff and pick it up (don't take responsibility and let them handle that directly with venue)
+- Where to ship their stuff and pick it up (don't take responsibility and let them handle that directly with the venue)
 - What size of table they have? (find out from the venue and say they have to fit behind the one table)
 - Where their table will be located (produce a map and optionally let them choose in the order they signed up)
 
@@ -514,7 +514,7 @@ Some services exist to record and stream; check with others in your region to se
 
 ## Running Ignites
 
-Running Ignites can be a challenge: people tend to submit them last minute, or they didn't understand the format too well. Here are few tips on making this process run more smoothly:
+Running Ignites can be a challenge: people tend to submit them last minute, or they didn't understand the format too well. Here are a few tips on making this process run more smoothly:
 
 - Require the Ignite presenters to send the slides ahead of time
 - Inform the Ignite presenters that there are no presenter notes during their talks
@@ -523,7 +523,7 @@ Running Ignites can be a challenge: people tend to submit them last minute, or t
   - An option is to use a Dropbox shared directory
 - You can run either :
   - `impressive -a 15` [http://impressive.sourceforge.net/](http://impressive.sourceforge.net/)
-  - Adobe Acrobat Reader in [auto-advance mode](http://malektips.com/adobe_reader_7_0019.html); ask presenters to add empty slide to the end as Reader doesn't exit after last slide
+  - Adobe Acrobat Reader in [auto-advance mode](http://malektips.com/adobe_reader_7_0019.html); ask presenters to add empty slide to the end as Reader doesn't exit after the last slide
 - Don't let them run on their own laptops
 - Use a dedicated laptop (avoid any popups etc...)
 - Mention again on the day itself.

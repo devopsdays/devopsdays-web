@@ -1,11 +1,11 @@
 +++
 Title = "Local"
 Type = "event"
-Description = "Ed. Metropolitan Tower - Rua dos Mundurucus, 3100, Cremação, Belém, PA."
+Description = "Banco da Amazônia - Av. Presidente Vargas 800"
 +++
 
 <hr/>
-### <b>Ed. Metropolitan Tower</b>
-### Rua dos Mundurucus, 3100, Cremação, Belém, PA.
+### <b>Banco da Amazônia</b>
+### Av. Presidente Vargas, 800, Campina, Belém, PA.
 
 {{< event_map >}}

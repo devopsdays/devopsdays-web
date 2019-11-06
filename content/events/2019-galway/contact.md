@@ -17,3 +17,4 @@ If you'd like to contact us by email: {{< email_organizers >}}
 **Organizers emeritus**
 
 [Duncan Thomas](https://www.linkedin.com/in/duncanthomas/)
+[Steve McConville](https://www.linkedin.com/in/stevemcconville/)

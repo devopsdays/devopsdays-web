@@ -5,7 +5,9 @@ aliases = ["/events/2020-seattle/"]
 Description = "devopsdays Seattle 2020"
 +++
 
-DevOpsDays is coming back to Seattle in 2020! We'll announce dates in the summer of 2019.
+DevOpsDays is coming back to Seattle! Join us on April 14th and 15th at The Washington State Conference Center.
+
+Our CFP is open now!
 
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
@@ -20,14 +22,14 @@ DevOpsDays is coming back to Seattle in 2020! We'll announce dates in the summer
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -38,14 +40,14 @@ DevOpsDays is coming back to Seattle in 2020! We'll announce dates in the summer
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
+    <a href="https://sessionize.com/devopsdays-seattle-2020">Propose a talk!</a>
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -65,14 +67,14 @@ DevOpsDays is coming back to Seattle in 2020! We'll announce dates in the summer
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="sponsor" text="Sponsor the conference!" >}}
   </div>
-</div> -->
+</div> 
 
 <div class = "row">
   <div class = "col-md-2">

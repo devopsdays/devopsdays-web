@@ -113,6 +113,8 @@ sponsors:
     level: partner
   - id: sparheld
     level: partner
+  - id: redgate
+    level: platinum
   - id: oracle-linux
     level: platinum
   - id: polarsquad
@@ -120,6 +122,8 @@ sponsors:
   - id: 2016-idealo
     level: platinum
   - id: talentio
+    level: platinum
+  - id: chef
     level: platinum
   - id: 2016-norisnetwork
     level: eveningevent
@@ -146,7 +150,7 @@ sponsor_levels:
 
 program:
   - title: "Registration, Breakfast, Sponsors"
-    type: custom   
+    type: custom
     date: 2019-11-27
     start_time: "08:00"
     end_time: "09:00"
@@ -336,11 +340,6 @@ program:
     end_time: "15:45"
   - title: "Open Space #3"
     type: open-space
-    date: 2019-11-28
-    start_time: "16:00"
-    end_time: "16:45"
-  - title: "anand-tiwari"
-    type: talk
     date: 2019-11-28
     start_time: "16:00"
     end_time: "16:45"
