@@ -341,11 +341,6 @@ program:
     date: 2019-11-28
     start_time: "16:00"
     end_time: "16:45"
-  - title: "anand-tiwari"
-    type: talk
-    date: 2019-11-28
-    start_time: "16:00"
-    end_time: "16:45"
   - title: "henrik-stene"
     type: talk
     date: 2019-11-28

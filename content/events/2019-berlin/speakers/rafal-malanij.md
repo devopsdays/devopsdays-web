@@ -3,7 +3,7 @@ title = "Rafał Małanij"
 twitter = "elgravel"
 linkedin = ""
 website = ""
-image = ""
+image = "rafal-malanij.png"
 type = "speaker"
 linktitle = ["rafal-malanij"]
 +++
