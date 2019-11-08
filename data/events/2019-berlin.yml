@@ -254,12 +254,12 @@ program:
     date: 2019-11-27
     start_time: "17:45"
     end_time: "18:00"
-  - title: "Evening Event"
+  - title: "Evening event"
     type: custom
     date: 2019-11-27
     start_time: "19:00"
     end_time: "late"
-    comments: "The location for the evening event will be announced in time for the conference"
+    comments: "The evening event will take place at [Puro Sky Lounge](https://goo.gl/maps/Xkt2CBwWpYE2) in the Europa Center, Tauentzienstraße 9-12, 10789 Berlin. You can reach it from the venue by taking any [S-Bahn from S-Bahnhof Friedrichstraße that goes west](http://fahrinfo.bvg.de/Fahrinfo/bin/query.bin/dn?SID=A%3D1%40O%3DS%2BU%20Friedrichstr.%20Bhf%20(Berlin)%40X%3D13387149%40Y%3D52520268%40U%3D86%40L%3D900100001%40B%3D1%40p%3D1573128608%40%26to=10789%20Berlin-Charlottenburg,%20Tauentzienstr.%209!%26REQ0JourneyStopsZA1=2%26getstop=1%26)"
 
     # Day 2
 
@@ -359,8 +359,6 @@ ignites:
   - title: "mario-konschake"
     date: 2019-11-27
   - title: "emrah-samdan"
-    date: 2019-11-27
-  - title: "rafal-malanij"
     date: 2019-11-27
   - title: "leonardo-di-donato"
     date: 2019-11-28
