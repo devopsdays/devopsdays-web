@@ -12,6 +12,7 @@ Description = "devopsdays Vitoria 2020"
 <div class="row">
   <div class="col-md-2">
       <img alt="DevOpsDays vitoria 2020" src="/events/2020-vitoria/event.png" style="width:100%">
+      {{< event_twitter >}}
   </div>
   <div class="col-md-6">
     <h3>DevOpsDays in Vitoria!</h3>
@@ -47,9 +48,32 @@ Description = "devopsdays Vitoria 2020"
         <strong>Inscreva-se</strong>
       </div>
       <div class="col-md-6">
-        <a href="https://www.sympla.com.br/devopsdays-vitoria-2020__672804" target="_blank">aqui</a>
+        <a href="https://www.sympla.com.br/devopsdays-vitoria-2020__672804" target="_blank">
+          <i class="fa fa-sign-in fa-lg"></i>&nbsp; Aqui
+        </a>
       </div>
     </div>
+    <div class="row">
+      <div class="col-md-2">
+        <strong>Meetups</strong>
+      </div>
+      <div class="col-md-6">
+        <a href="https://www.meetup.com/pt-BR/DevOps-Vix/events/" target="_blank">
+        <i class="fa fa-meetup fa-lg"></i>&nbsp; Meetups DevopsVix
+        </a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-2">
+        <strong>CFP</strong>
+      </div>
+      <div class="col-md-6">
+        <a href="https://www.papercall.io/devopsdaysvix20/" target="_blank">
+        <i class="fa fa-hand-paper-o fa-lg"></i>&nbsp; Seja um palestrante no Devopsdaysvix
+        </a>
+      </div>
+    </div>
+
   </div>
   <div class="col-md-4 embed-responsive">
     <iframe width="853" height="480" src="https://www.youtube.com/embed/hLrNckEmcAc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  

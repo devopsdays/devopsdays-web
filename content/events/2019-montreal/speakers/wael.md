@@ -1,7 +1,7 @@
 +++
 Title = "Wael El Ghazzawi"
 Twitter = ""
-image = ""
+image = "waelelghazzawi.png"
 type = "speaker"
 linktitle = "wael"
 

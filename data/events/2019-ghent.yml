@@ -98,6 +98,8 @@ proposal_email: "proposals-ghent-2019@devopsdays.org" # Put your proposal email 
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
   # platinum
+  - id: redhat
+    level: platinum
   - id: puppet
     level: platinum
   - id: sonatype
@@ -149,8 +151,6 @@ sponsors:
   - id: hashicorp
     level: silver
   - id: pulumi
-    level: silver
-  - id: microsoft
     level: silver
   # bronze
   - id: inuits
@@ -247,8 +247,8 @@ program:
 - title: ramon-van-alteren
   type: talk
   date: 2019-10-29
-  start_time: '11:15'
-  end_time: '11:30'
+  start_time: '11:25'
+  end_time: '11:40'
 - title: julie-gunderson
   type: talk
   date: 2019-10-29
@@ -347,21 +347,16 @@ program:
   date: 2019-10-30
   start_time: '9:50'
   end_time: '10:05'
-- title: stephen-nelson-smith
+- title: michael-ducy
   type: talk
   date: 2019-10-30
   start_time: '10:10'
   end_time: '10:25'
-- title: michael-ducy
-  type: talk
-  date: 2019-10-30
-  start_time: '10:30'
-  end_time: '10:45'
 
 - title: Break
   type: custom
   date: 2019-10-30
-  start_time: '10:40'
+  start_time: '10:30'
   end_time: '11:10'
 
 - title: george-miranda

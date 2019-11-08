@@ -63,6 +63,7 @@ Description = "devopsdays Caceres 2020"
     </br>
     <div class="d-flex flex-row">
       <div class="col-md-12">
+        <div><p style="font-weight: bold; font-size: 1.5em;">Call for talks ends on January 6th</p></div>
         <div class="d-flex p-2">
           <a class="btn btn-secondary btn-block" style= "background-color: #96bfe6; border-color: #96bfe6;" href="/events/2020-caceres/sponsor"> <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference</a>
         </div>

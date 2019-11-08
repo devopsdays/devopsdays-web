@@ -139,6 +139,8 @@ sponsors:
      level: lanyard
    - id: appdynamics
      level: coffee
+   - id: datadog
+     level: bronze
 
  # - id: samplesponsorname
  #   level: gold
@@ -225,20 +227,26 @@ program:
     type: break
     date: 2019-11-05
     start_time: "12:25"
-    end_time: "13:45"
+    end_time: "13:30"
     background_color: "#ff8282"
 
   - title: "Sponsor"
     type: sponsor
     date: 2019-11-05
-    start_time: "13:45"
-    end_time: "13:50"
+    start_time: "13:30"
+    end_time: "13:35"
 
   - title: "General Announcements"
     type: custom
     date: 2019-11-05
-    start_time: "13:50"
-    end_time: "13:55"
+    start_time: "13:35"
+    end_time: "13:40"
+
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2019-11-05
+    start_time: "13:40"
+    end_time: "14:00"
 
   - title: "martin-deslongchamps"
     type: talk
@@ -246,30 +254,30 @@ program:
     start_time: "14:00"
     end_time: "14:25"
 
-  - title: "Open Space Opening"
+  - title: "Open Spaces #1"
     type: open-space
     date: 2019-11-05
     start_time: "14:35"
-    end_time: "15:00"
+    end_time: "15:10"
 
   - title: "Break"
     type: break
     date: 2019-11-05
-    start_time: "15:00"
-    end_time: "15:30"
+    start_time: "15:10"
+    end_time: "15:40"
     background_color: "#ff8282"
-
-  - title: "Open Spaces #1"
-    type: open-space
-    date: 2019-11-05
-    start_time: "15:30"
-    end_time: "16:10"
 
   - title: "Open Spaces #2"
     type: open-space
     date: 2019-11-05
+    start_time: "15:40"
+    end_time: "16:15"
+
+  - title: "Open Spaces #3"
+    type: open-space
+    date: 2019-11-05
     start_time: "16:20"
-    end_time: "17:00"
+    end_time: "16:55"
 
   - title: "james-shubin"
     type: workshop
@@ -343,20 +351,26 @@ program:
     type: break
     date: 2019-11-06
     start_time: "12:25"
-    end_time: "13:45"
+    end_time: "13:30"
     background_color: "#ff8282"
 
   - title: "Sponsor"
     type: sponsor
     date: 2019-11-06
-    start_time: "13:45"
-    end_time: "13:50"
+    start_time: "13:30"
+    end_time: "13:35"
 
-  - title: "General Announcements"
+  - title: "General Announcements & Contest Draw"
     type: custom
     date: 2019-11-06
-    start_time: "13:50"
-    end_time: "13:55"
+    start_time: "13:35"
+    end_time: "13:40"
+
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2019-11-06
+    start_time: "13:40"
+    end_time: "14:00"
 
   - title: "charles-abondo"
     type: talk
@@ -364,30 +378,30 @@ program:
     start_time: "14:00"
     end_time: "14:25"
 
-  - title: "Open Space Opening"
+  - title: "Open Spaces #4"
     type: open-space
     date: 2019-11-06
     start_time: "14:35"
-    end_time: "14:50"
+    end_time: "15:10"
 
   - title: "Break"
     type: break
     date: 2019-11-06
-    start_time: "14:50"
-    end_time: "15:20"
+    start_time: "15:10"
+    end_time: "15:40"
     background_color: "#ff8282"
 
-  - title: "Open Spaces #1"
+  - title: "Open Spaces #5"
     type: open-space
     date: 2019-11-06
-    start_time: "15:20"
-    end_time: "16:00"
+    start_time: "15:40"
+    end_time: "16:10"
 
-  - title: "Open Spaces #2"
+  - title: "Open Spaces #6"
     type: open-space
     date: 2019-11-06
-    start_time: "16:10"
-    end_time: "16:50"
+    start_time: "16:15"
+    end_time: "16:45"
 
   - title: "christian-couder-ws"
     type: workshop
@@ -401,7 +415,7 @@ program:
     start_time: "14:35"
     end_time: "16:35"
 
-  - title: "Closing Statement & Contest Draw"
+  - title: "Closing Statement"
     type: custom
     date: 2019-11-06
     start_time: "16:50"

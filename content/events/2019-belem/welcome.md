@@ -36,7 +36,7 @@ Description = "devopsdays Belém 2019"
     <strong>Localização</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="local" text="Ed. Metropolitan Tower" >}}
+    {{< event_link page="local" text="Banco da Amazônia" >}}
   </div>
 </div>
 

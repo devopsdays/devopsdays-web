@@ -2,7 +2,7 @@ name: "2020-los-angeles" # The name of the event. Four digit year with the city 
 year: "2020" # The year of the event. Make sure it is in quotes.
 city: "Los Angeles" # The displayed city name of the event. Capitalize it.
 event_twitter: "" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "DevOps Day is coming to Los Angeles!" # Edit this to suit your preferences
+description: "DevOps Day is returning to Los Angeles!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2020-MM-DDTHH:MM:SS+TZ:TZ, like this:
@@ -14,11 +14,11 @@ startdate: 2020-03-06T00:00:00-08:00 # The start date of your event. Leave blank
 enddate: 2020-03-06T23:59:59-08:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: # 2019-10-01T00:00:00-08:00 # start accepting talk proposals.
-cfp_date_end: # 2019-12-15T00:00:00-08:00 # close your call for proposals.
+cfp_date_start: 2019-09-14T00:00:00-08:00 # start accepting talk proposals.
+cfp_date_end: 2019-11-30T00:00:00-08:00 # close your call for proposals.
 cfp_date_announce: # 2020-01-15T00:00:00-08:00 # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://www.socallinuxexpo.org/scale/18x/cfp" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: # close registration. Leave blank if registration is not open yet.
@@ -35,10 +35,15 @@ location_address: "300 E Green St, Pasadena, CA 91101" #Optional - use the stree
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
- # - name: location
- # - name: registration
+  - name: venue
+    url: https://www.socallinuxexpo.org/scale/18x/venue
+  - name: registration
+    url: https://register.socallinuxexpo.org/reg6/
+  - name: CFP
+    url: https://www.socallinuxexpo.org/scale/18x/cfp
  # - name: program
  # - name: speakers
+  - name: volunteer
   - name: sponsor
   - name: contact
   - name: conduct
@@ -66,6 +71,7 @@ team_members: # Name is the only required field for team members.
     image: "bryna-kirzner.jpg"
   - name: "Chris Webber"
   - name: "Jordan Schwartz"
+  - name: "Ilan Rabinovitch"
 
 organizer_email: "los-angeles@devopsdays.org" # Put your organizer email address here
 

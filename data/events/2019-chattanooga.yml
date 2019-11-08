@@ -37,7 +37,7 @@ location: "Chattanooga" # Defaults to city, but you can make it the venue name.
 location_address: "1201 Broad St, Chattanooga, TN 37402" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+#  - name: propose
   - name: registration
   - name: program
   - name: speakers
@@ -86,7 +86,15 @@ sponsors:
     level: gold
   - id: bcbst
     level: gold
+  - id: datadog
+    level: gold
+  - id: chatech
+    level: gold
+  - id: nutanix
+    level: gold
   - id: redhat-silex
+    level: gold
+  - id: worldwide_technologies_dell
     level: gold
   - id: unum
     level: gold
@@ -96,10 +104,12 @@ sponsors:
     level: silver
   - id: compuware
     level: bronze
+  - id: sensu
+    level: bronze
   - id: societyofwork
     level: community
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -213,21 +223,26 @@ program:
     date: 2019-11-12T00:00:00-05:00
     start_time: "15:55"
     end_time: "16:00"
+  - title: "Sponsor Giveaway"
+    type: custom
+    date: 2019-11-12T00:00:00-05:00
+    start_time: "16:00"
+    end_time: "16:15"
   - title: "chris-rimondi"
     type: talk
     date: 2019-11-12T00:00:00-05:00
-    start_time: "16:00"
-    end_time: "16:45"
+    start_time: "16:15"
+    end_time: "17:00"
   - title: "Closing Remarks"
     type: custom
     date: 2019-11-12T00:00:00-05:00
-    start_time: "16:45"
-    end_time: "17:00"
+    start_time: "17:00"
+    end_time: "17:15"
   - title: "After Party"
     type: custom
     date: 2019-11-12T00:00:00-05:00
-    start_time: "17:00"
-    end_time: "18:30"
+    start_time: "17:30"
+    end_time: "19:00"
 
 ignites:
 - title: summer-kohlhorst
@@ -242,3 +257,4 @@ ignites:
   date: 2019-11-12T00:00:00-05:00
 - title: TBA
   date: 2019-11-12T00:00:00-05:00
+  
