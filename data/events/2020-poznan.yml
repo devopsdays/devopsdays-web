@@ -103,7 +103,7 @@ team_members: # Name is the only required field for team members.
   - name: "Klaudia Nawrot"
     employer: "JCommerce"
     linkedin: "https://www.linkedin.com/in/klaudia-nawrot-ja%C5%9Bniak-97283180/"
-     image: klaudia-nawrot.jpg
+    image: klaudia-nawrot.jpg
   - name: "Artur Szott"
     employer: "HolidayCheck AG"
     linkedin: "https://www.linkedin.com/in/arturszott/"
