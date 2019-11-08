@@ -107,6 +107,7 @@ team_members: # Name is the only required field for team members.
   - name: "Artur Szott"
     employer: "HolidayCheck AG"
     linkedin: "https://www.linkedin.com/in/arturszott/"
+    image: artur-szott.jpg
 
 
 organizer_email: "poznan@devopsdays.org" # Put your organizer email address here
