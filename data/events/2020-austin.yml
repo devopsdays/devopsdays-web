@@ -124,8 +124,7 @@ team_members: # Name is the only required field for team members.
   - name: "Peco Karayanev"
   - name: "Asif Ahmad"
   - name: "Bailey Moore"
-organizer_email: "organizers-austin-2020@devopsdays.org" # Put your organizer email address here
-proposal_email: "proposals-austin-2020@devopsdays.org" # Put your proposal email address here
+organizer_email: "austin@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
