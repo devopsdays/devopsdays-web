@@ -9,6 +9,7 @@ Description = "devopsdays Vitoria 2020"
   {{< event_logo >}}
 </div> -->
 
+
 <div class="row">
   <div class="col-md-2">
       <img alt="DevOpsDays vitoria 2020" src="/events/2020-vitoria/event.png" style="width:100%">
