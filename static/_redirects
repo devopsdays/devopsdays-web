@@ -32,4 +32,4 @@
 /events/2016-vancouver/proposals/* http://legacy.devopsdays.org/events/2016-vancouver/proposals/:splat     301!
 /presentations/2011-goteborg/* http://legacy.devopsdays.org/presentations/2011-goteborg/:splat     301!
 /presentations/2009-ghent/* http://legacy.devopsdays.org/presentations/2009-ghent/:splat     301!
-/minneapolis	/events/2020-minneapolis	302
+/minneapolis/*	/events/2020-minneapolis/:splat	302
