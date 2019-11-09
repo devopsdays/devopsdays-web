@@ -5,7 +5,6 @@ event_twitter: "devopsdaysoslo" # Change this to the twitter handle for your eve
 description: "Devopsdays is coming to Oslo!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 event_logo: "logo.png"
-event_group: "Oslo"
 
 # All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00

@@ -4,7 +4,6 @@ city: "Florianópolis"
 event_twitter: "devopsdaysfln"
 description: "A revolução já começou!"
 ga_tracking_id: ""
-event_group: "Florianópolis"
 
 # All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T01:02:03-05:00
 startdate: 2019-07-27T00:00:00-03:00
