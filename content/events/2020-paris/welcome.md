@@ -5,9 +5,9 @@ aliases = ["/events/2020-paris/"]
 Description = "devopsdays Paris 2020"
 +++
 
-<div style="text-align:center;">
+<!-- <div style="text-align:center;">
   {{< event_logo >}}
-</div>
+</div> -->
 
 ## Pour plus d'informations, veuillez visiter notre site principal : https://www.devopsrex.fr/
 
