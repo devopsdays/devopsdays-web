@@ -91,7 +91,7 @@ Profissionais de tecnologia irão participar do evento. Esta é uma ótima oport
         <td><center>-</center></td>
       </tr>
       <tr>
-        <th scope="row">Logo nos materiais de marketing</th>
+        <th scope="row">Material de marketing nos kits</th>
         <td><center>-</center></td>
         <td><center>-</center></td>
         <td><center>&#10003;</center></td>
