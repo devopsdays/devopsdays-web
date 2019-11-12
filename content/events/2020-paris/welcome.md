@@ -99,7 +99,7 @@ industry practitioners and taste-makers.
     <strong>Contacter</strong>
   </div>
   <div class = "col-md-8">
-    <a href="mailto:hello@devopsrex.fr">hello@devopsrex.fr</a>
+    <a href="mailto:paris@devopsdays.org">paris@devopsdays.org</a>
   </div>
 </div>
 
