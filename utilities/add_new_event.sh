@@ -50,7 +50,7 @@ twitter=$(echo $twitter | sed 's/@//')
 event_slug=$year-$city_slug
 
 # Update the redirection for a previous year of this event to the desired year
-if grep -q $city_slug "../static/_redirects";
+if grep -q "^/$city_slug" "../static/_redirects";
 then
     SEDCMD "s/.\{4\}-$city_slug/$event_slug/" "../static/_redirects"
 else
