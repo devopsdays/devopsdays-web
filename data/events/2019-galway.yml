@@ -190,6 +190,10 @@ sponsors:
     level: community
   - id: gdg-galway
     level: community
+  - id: docker-dublin
+    level: community
+  - id: inog
+    level: community
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
