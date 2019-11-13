@@ -59,9 +59,9 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   # - name: Ingressos
   #   icon: "user-plus"
   #   url: ""
-  # - name: Patrocinio
-  #   icon: "money"
-  #   url: /events/2020-natal/patrocinio
+  - name: Patrocinio
+    icon: "money"
+    url: /events/2020-natal/patrocinio
   - name: Contato
     icon: "envelope-o"
     url: /events/2020-natal/contato
