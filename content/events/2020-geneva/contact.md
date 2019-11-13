@@ -10,6 +10,5 @@ If you'd like to contact us by email: {{< email_organizers subject="Info - DevOp
 
 {{< list_organizers >}}
 
-**The core devopsdays organizer group**
 
 {{< list_core >}}

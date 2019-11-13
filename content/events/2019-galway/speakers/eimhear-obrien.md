@@ -1,7 +1,7 @@
 +++
 Title = "Eimhear O'Brien"
 Twitter = ""
-image = ""
+image = "eimhear-obrien.jpg"
 type = "speaker"
 linktitle = "eimhear-obrien"
 
