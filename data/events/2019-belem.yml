@@ -129,14 +129,14 @@ sponsors:
   - id: adaptworks
     level: gold
 
-  - id: eguatech
-    level: community
-
   - id: paramais
     level: community
 
   - id: aws
     level: platinum
+
+  - id: vibe
+    level: gold
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
