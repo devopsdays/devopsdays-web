@@ -106,7 +106,7 @@ sponsors:
     level: community
 
   - id: idopterlabs
-    level: community
+    level: silver
 
   - id: hub728
     level: community
@@ -129,8 +129,14 @@ sponsors:
   - id: adaptworks
     level: gold
 
-  - id: eguatech
+  - id: paramais
     level: community
+
+  - id: aws
+    level: platinum
+
+  - id: vibe
+    level: gold
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 

@@ -97,7 +97,19 @@ sponsors:
   - id: hidora
     level: gold
     url: https://hidora.com/
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: cross-systems
+    level: gold
+    url: https://www.cross-systems.ch
+  - id: dbi-services
+    level: silver
+  - id: camptocamp
+    level: silver
+  - id: oracle
+    level: gold
+  - id: serial
+    level: silver
+
+  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -106,12 +118,14 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+#  - id: event
+#    label: Event
+#    max: 1
   - id: gold
     label: Gold
-    max: 6
+    max: 8
   - id: silver
     label: Silver
-    # max: 0 # This is the same as omitting the max limit.
     max: 8
   - id: bronze
     label: Bronze

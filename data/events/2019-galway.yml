@@ -175,12 +175,26 @@ sponsors:
     level: bronze
   - id: cisco
     level: bronze
+  - id: microsoftazure
+    level: bronze
   - id: compustaff
     level: support
   - id: stickermule
     level: support
     url: http://stickermule.com/supports/devopsdaygalway19-sponsorship
   - id: coding-grace
+    level: community
+  - id: wwcodebelfast
+    level: community
+  - id: devops-galway
+    level: community
+  - id: gdg-galway
+    level: community
+  - id: docker-dublin
+    level: community
+  - id: inog
+    level: community
+  - id: wwcodedublin
     level: community
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
@@ -331,7 +345,7 @@ program:
     start_time: "11:05"
     end_time: "11:20"
 
-  - title: "philip-otoole"
+  - title: "jorge-dionisio"
     type: talk
     date: 2019-11-19
     start_time: "11:20"
@@ -341,7 +355,7 @@ program:
     date: 2019-11-19
     start_time:  "11:55"
     end_time: "12:05"
-  - title: "michele-pegoraro"
+  - title: "philip-otoole"
     type: talk
     date: 2019-11-19
     start_time: "12:10"
@@ -353,7 +367,7 @@ program:
     start_time: "12:40"
     end_time: "13:50"
 
-  - title: "jorge-dionisio"
+  - title: "michele-pegoraro"
     type: talk
     date: 2019-11-19
     start_time: "13:50"
@@ -404,13 +418,13 @@ ignites:
     date: 2019-11-18
   - title: "emanuil-tolev"
     date: 2019-11-18
-  - title: "wesley-faulkner"
+  - title: "eoin-nugent"
     date: 2019-11-18
   - title: "alan-burke"
     date: 2019-11-19
   - title: "eimhear-obrien"
     date: 2019-11-19
-  - title: "hugh-hamill"
+  - title: "frank-farrell"
     date: 2019-11-19
-  - title: ""
+  - title: "bryan-solan"
     date: 2019-11-19

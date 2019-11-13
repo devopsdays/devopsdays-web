@@ -7,7 +7,7 @@ Description = "devopsdays Poznań 2020"
 
 <h3> {{< event_start >}} </h3>
 
-**DevOpsDays is coming to Poznań, Poland!**
+**DevOpsDays is coming to Poznań, Poland again!**
 
 <div style="text-align:center;">
   {{< event_logo >}}

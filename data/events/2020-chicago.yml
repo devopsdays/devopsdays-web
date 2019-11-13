@@ -121,6 +121,12 @@ team_members:
     linkedin: "https://www.linkedin.com/in/hariv82"
     twitter: "HariVedam"
     github: "harushimo"
+  - name: "Chris Read"
+    bio: "I help developers understand the environments they are developing for, and helps infrastructure people build better systems. Specialties are Unix (any flavour), scripting and networking. I've done time as a Developer and as a Sys Admin, but now I am both..."
+    image: "chris-read.jpg"
+    linkedin: "https://www.linkedin.com/in/devopscread/"
+    twitter: "cread"
+    github: "cread"
 
 organizer_email: "chicago@devopsdays.org" # Put your organizer email address here
 proposal_email: "chicago-proposals@devopsdays.org"
@@ -129,6 +135,10 @@ proposal_email: "chicago-proposals@devopsdays.org"
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
   - id: arresteddevops
+    level: community
+  - id: awschicago_ugroup
+    level: community
+  - id: chicago-devops
     level: community
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link

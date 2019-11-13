@@ -14,11 +14,12 @@ startdate:  2020-04-14T00:00:00-05:00 # The start date of your event. Leave blan
 enddate:  2020-04-15T23:59:59-05:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start:  2019-10-01T00:00:00-06:00 # start accepting talk proposals.
+cfp_date_end:  2020-01-15T00:00:00-06:00 # close your call for proposals.
+cfp_date_announce:  2020-02-15T00:00:00-06:00 # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_open: "true"
+cfp_link: "https://www.papercall.io/devopsdayshouston2020" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: "2019-09-15T00:00:00-06:00" # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: "2020-04-14T00:00:00-05:00" # close registration. Leave blank if registration is not open yet.
@@ -34,7 +35,8 @@ location: "Houston - CityCentre - Norris Conference Centers" # Defaults to city,
 location_address: "816 Town and Country Blvd #210, Houston, TX 77024" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
+    url: "https://www.papercall.io/devopsdayshouston2020"
   - name: location
   - name: registration
  # - name: program
@@ -86,17 +88,17 @@ team_members: # Name is the only required field for team members.
     bio: "Keegan is an Senior Account Executive at Datadog.  Both a West Point graduate and London Business School alumnus, Keegan has a 20 year track record as a catalyst for both large and small organizations - helping them grow into new markets across several continents.  Keegan has led organizations both in and out of uniform, and helped those organizations refine and execute on their business technology strategies.  Native Texan.  DevOps enthusiast.  Avid learner.  Proud father and husband."
   - name: "Reggie Davis"
     employer: "Schlumberger"
-    twitter: "madblkman"
+    twitter: "coolblknerd"
     image: "reginald-davis.jpg"
     linkedin: "https://www.linkedin.com/in/reginald-j-davis/"
     bio: "Reggie is SRE for Schlumberger who has a passion for cloud-native application development through the use of tools like Kubernetes and Golang, as well as, improving the culture of technology by creating highly collaborative environments. Co-host of 'Coolest Nerds in the Room' podcast and co-founder of the meetup group, 'Tech for the Culture'"
-  - name: "Ryan Hillard" 
-    employer: "U.S. Small Business Administration"
-    linkedin: "https://www.linkedin.com/in/ryanhillard/"
-    github: "rchillard"
-    image: "hillard-ryan.jpg"
-    website: "https://rchillard.com/"
-    bio: "Ryan is a design thinking agile geek and DevOps enthusiast obsessed with wicked problems.  He also loves buzzwords."
+  # - name: "Ryan Hillard" 
+  #   employer: "U.S. Small Business Administration"
+  #   linkedin: "https://www.linkedin.com/in/ryanhillard/"
+  #   github: "rchillard"
+  #   image: "hillard-ryan.jpg"
+  #   website: "https://rchillard.com/"
+  #   bio: "Ryan is a design thinking agile geek and DevOps enthusiast obsessed with wicked problems.  He also loves buzzwords."
 #  - name: "Shravan Arra"
 #    employer: "The Altus Group"
 #    linkedin: "https://www.linkedin.com/in/shravanarra/"
@@ -109,6 +111,12 @@ team_members: # Name is the only required field for team members.
     github: "skryukova"
     image: "svetlana-kryukova.jpg"
     bio: "Svetlana is a software development leader with over 20 years of experience in enterprise software. Passionate about building teams, creating new products and solving problems. Co-organizer of Houston DevOps Meetup since June 2018."
+  - name: "Sagar Karmarkar"
+    employer: "cPrime"
+    linkedin: "http://www.linkedin.com/in/vnvdevops"
+    twitter: "https://twitter.com/sagarvnvdevops"
+    image: "sagar-karmarkar.jpg"
+    bio: "Sagar Karmarkar is an Enterprise DevOps Evangelist with over 24 years of experience in Software Engineering, Software Change/Release Management, Software Testing, and IT Operations. Sagar has held senior technology roles at large enterprises such as Compuware, GE Healthcare, JP Morgan, Fidelity Investments, Home Depot, JCPenney and AIG. Sagar is currently a DevOps Architect at cPrime. He provides guidance to clients looking to move towards a DevOps or DevSecOps model. He is also a SAFe Program Consultant and provides training and guidance to technology teams around scaling Agile practices. He has lived in Katy, TX for the last 14 years and has two children that keep him on his toes."
 
 organizer_email: "houston@devopsdays.org" # Put your organizer email address here
 
