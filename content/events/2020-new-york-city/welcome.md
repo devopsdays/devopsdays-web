@@ -5,7 +5,7 @@ aliases = ["/events/2020-new-york-city/"]
 Description = "devopsdays New York City 2020"
 +++
 
-DevOpsDays is coming back to New York City in 2020! We'll announce dates in the summer of 2019.
+DevOpsDays is coming back to New York City March 3rd and 4th 2020!
 
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
@@ -20,14 +20,14 @@ DevOpsDays is coming back to New York City in 2020! We'll announce dates in the 
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -38,14 +38,14 @@ DevOpsDays is coming back to New York City in 2020! We'll announce dates in the 
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -65,14 +65,14 @@ DevOpsDays is coming back to New York City in 2020! We'll announce dates in the 
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="sponsor" text="Sponsor the conference!" >}}
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
