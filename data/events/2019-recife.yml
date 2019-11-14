@@ -41,8 +41,6 @@ nav_elements: # List of pages you want to show up in the navigation of your page
    url: /events/2019-recife/local
  - name: inscricao
    url: https://www.sympla.com.br/devopsdays-recife__660075
- - name: propostas(C4P)
-   url: https://www.papercall.io/devopsdays-recife-2019
  - name: código de conduta
    url: /events/2019-recife/conduct
  - name: contato
