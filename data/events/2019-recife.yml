@@ -100,11 +100,6 @@ sponsor_levels:
     label: Platina
   - id: gold
     label: Gold
-  - id: silver
-    label: Silver
-    max: 0 # This is the same as omitting the max limit.
-  - id: bronze
-    label: Bronze
   - id: community
     label: Community
 
@@ -113,5 +108,9 @@ sponsors:
     level: platinum
   - id: aws
     level: platinum
+  - id: vtex
+    level: gold
   - id: sudocast
-    level: comunity
+    level: community
+  - id: meetup-devops-recife
+    level: community
