@@ -5,7 +5,7 @@ aliases = ["/events/2020-new-york-city/"]
 Description = "devopsdays New York City 2020"
 +++
 
-DevOpsDays is coming back to New York City in 2020!
+DevOpsDays is coming back to New York City March 3rd and 4th 2020!
 
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
