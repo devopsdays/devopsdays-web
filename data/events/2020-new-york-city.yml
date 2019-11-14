@@ -11,8 +11,8 @@ event_group: "New York City"
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2020-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: 2020-03-3T00:00:00-05:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2020-03-4T00:00:00-05:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2020-03-03T00:00:00-05:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2020-03-04T00:00:00-05:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2019-11-13T00:00:00-05:00 # start accepting talk proposals.
