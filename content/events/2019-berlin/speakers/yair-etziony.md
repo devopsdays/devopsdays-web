@@ -1,5 +1,5 @@
 +++
-title = "Yair Etziony""
+title = "Yair Etziony"
 twitter = "EtzionyYair"
 linkedin = ""
 website = ""
