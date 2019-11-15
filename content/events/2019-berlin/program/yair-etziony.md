@@ -1,5 +1,5 @@
 +++
-Title = "When will DevOps die?""
+Title = "When will DevOps die?"
 Type = "talk"
 Speakers = ["yair-etziony"]
 +++
