@@ -14,7 +14,9 @@ Description = "Sponsor devopsdays portugal 2020"
 * **Associate your company brand with a DevOps global brand**
 * **Contribute to the local DevOps reality promotion and growth**
 * **Learn from experts and practitioners**
-* **Direct contact and networking with a growing DevOps community**  
+* **Direct contact and networking with a growing DevOps community** 
+
+**IMPORTANT INFO: THE DEADLINE FOR THE CALL FOR SPONSORS IS 12/05/2020.** 
 
 <p>As a not-for-profit conference organized by a team of volunteers, the sponsorship will be used to support the conference expenses. The goal is to provide the best experience to attendees, speakers and sponsors.</p>
 
