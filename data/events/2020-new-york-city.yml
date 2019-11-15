@@ -74,6 +74,7 @@ team_members: # Name is the only required field for team members.
     employer: "The Farmer's Dog"
     image: "matt-kuritz.jpg"
     github: "kuritz"
+    twitter: "_kuritz"
   - name: "Jerome Moore"
     image: "jerome-moore.jpg"
     employer: "WeBuildBlack"
