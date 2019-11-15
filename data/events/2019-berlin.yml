@@ -116,6 +116,10 @@ sponsors:
     level: partner
   - id: sparheld
     level: partner
+  - id: stickermule
+    level: partner
+  - id: xmatters
+    level: platinum
   - id: redgate
     level: platinum
   - id: oracle-linux
@@ -127,7 +131,7 @@ sponsors:
   - id: talentio
     level: platinum
   - id: chef
-    level: platinum
+    level: gold
   - id: 2016-norisnetwork
     level: eveningevent
 
