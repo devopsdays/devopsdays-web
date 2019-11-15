@@ -58,6 +58,7 @@ team_members: # Name is the only required field for team members.
   - name: "Rodrigo Gaos"
   - name: "Raul Esquivel"
   - name: "Leon Garcia"
+  - name: "Maria Pinedo"
 organizer_email: "guadalajara@devopsdays.org" # Put your organizer email address here
 proposal_email: "guadalajara@devopsdays.org" # Put your proposal email address here
 
