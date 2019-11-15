@@ -43,7 +43,7 @@ DevOpsDays is coming back to New York City March 3rd and 4th 2020!
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
+    {{< event_link url-key="cfp_link" text="Propose a talk!" >}}
   </div>
 </div>
 
