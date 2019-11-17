@@ -123,7 +123,9 @@ organizer_email: "houston@devopsdays.org" # Put your organizer email address her
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: samplesponsorname
+  - id: gitlab
+    level: gold
+  - id: launch-darkly
     level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
@@ -138,13 +140,15 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: platinum
     label: Platinum
+    max: 4
   - id: gold
     label: Gold
-#    max: 10
+    max: 15
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    max: 4 
   - id: bronze
     label: Bronze
+    max: 0 # This is the same as omitting the max limit.
   - id: community
     label: Community
