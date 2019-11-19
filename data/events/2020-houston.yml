@@ -127,6 +127,8 @@ sponsors:
     level: gold
   - id: launch-darkly
     level: gold
+  - id: twosigma
+    level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
