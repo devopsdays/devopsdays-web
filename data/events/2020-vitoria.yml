@@ -133,15 +133,6 @@ team_members: # Name is the only required field for team members.
     website: ""
     image: "hackin.png"
 
-#  - name: "Hendrio Fernandes"
-#    twitter: ""
-#    employer: "Network Analyst"
-#    bio: ""
-#    github: ""
-#    facebook: ""
-#    linkedin: ""
-#    website: ""
-#    image: ""
 
 organizer_email: "vitoria@devopsdays.org" # Put your organizer email address here
 
