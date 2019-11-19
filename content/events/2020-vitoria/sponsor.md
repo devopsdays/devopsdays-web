@@ -4,19 +4,139 @@ Type = "event"
 Description = "Sponsor devopsdays Vitoria 2020"
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
+Valorizamos muito os patrocinadores deste evento aberto. Se você estiver interessado em patrocinar, envie um e-mail para [{{< email_organizers >}}].
 
 
-<!--
+
 <hr>
+<div>
+<h2>Proposta de Apoio</h2>
+<p>
+Os nossos parceiros são encorajados a assumirem uma postura de participação atvia, se engajarem com os participantes e a sugerirem temas para os
+open spaces, sessões auto organizadas abertas para discussões revelantes. <b>Queremos que nossos parceiros se envolvam no evento!</b>
+</p>
+<p>
+Entendemos que uma maior quantidade de parceirias é benéfica para o evento, proporcionando uma ótima oportunidade para "mergulhos" mais profundos
+no mundo DevOps, assim como "networking" e afins, por conta disso optamos por trabalhar com cotas com valores mais acessíveis para esse evento.
+</p>
+<p>
+Visando valorizar a participação de instituições na realização do evento, foram organizados grupos de parcerias. Cada grupo proporciona uma série 
+de vantagens aos parceiros oficiais, obedecidos os requisitos definidos estabelecendo a contrapartida correspondente, conforme demonstado na
+tabela 1 abaixo.
+</p>
+</div>
+<br>
+<div>
+<style>
+#customers {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
 
-devopsdays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
-<p>
-Gold sponsors get a full table and Silver sponsors a shared table where they can interact with those interested to come visit during breaks. All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
-<p>
-The best thing to do is send engineers to interact with the experts at devopsdays on their own terms.
-<p>
--->
+#customers td, #customers th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#customers tr:nth-child(even){background-color: #f2f2f2;}
+
+#customers tr:hover {background-color: #ddd;}
+
+#customers th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #00b8e6;
+  color: white;
+}
+</style>
+</head>
+<body>
+
+<table id="customers">
+  <tr>
+    <th>BENEFICIOS</th>
+    <th>BRONZE</th>
+    <th>PRATA</th>
+    <th>OURO</th>
+    <th>PLATINA</th>
+  </tr>
+  <tr>
+    <td>Estande no local</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><i class="fa fa-check"></i></td>
+  </tr>
+  <tr>
+    <td>Oportunidade de distribuirpanfletos nas pastas dosparticipantes</td>
+    <td></td>
+    <td></td>
+    <td><i class="fa fa-check"></i></td>
+    <td><i class="fa fa-check"></i></td>
+  </tr>
+  <tr>
+    <td>Logo nos materiais de marketing</td>
+    <td></td>
+    <td></td>
+    <td><i class="fa fa-check"></i></td>
+    <td><i class="fa fa-check"></i></td>
+  </tr>
+  <tr>
+    <td>Oportunidade de receberagradecimento formal no início decada sessão de apresentação</td>
+    <td></td>
+    <td><i class="fa fa-check"></i></td>
+    <td><i class="fa fa-check"></i></td>
+    <td><i class="fa fa-check"></i></td>
+  </tr>
+  <tr>
+    <td>Divulgação de releases no sitesmantidos pela comunidade,referente a participação doapoiador no evento</td>
+    <td></td>
+    <td><i class="fa fa-check"></i></td>
+    <td><i class="fa fa-check"></i></td>
+    <td><i class="fa fa-check"></i></td>
+  </tr>
+  <tr>
+    <td>Destaque no Banner</td>
+    <td></td>
+    <td>Tamanho ½U</td>
+    <td>Tamanho ¾U</td>
+    <td>Tamanho 1U</td>
+  </tr>
+  <tr>
+    <td>Logo no site do evento/releases</td>
+    <td><i class="fa fa-check"></i></td>
+    <td><i class="fa fa-check"></i></td>
+    <td><i class="fa fa-check"></i></td>
+    <td><i class="fa fa-check"></i></td>
+  </tr>
+  <tr>
+    <td>Divulgação nas Redes Sociais</td>
+    <td><i class="fa fa-check"></i></td>
+    <td><i class="fa fa-check"></i></td>
+    <td><i class="fa fa-check"></i></td>
+    <td><i class="fa fa-check"></i></td>
+  </tr>
+  <tr>
+    <td>Inscrições para o evento</td>
+    <td>2</td>
+    <td>4</td>
+    <td>8</td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td><b>Contribuição</b></td>
+    <td><b>R$ 1.000,00</b></td>
+    <td><b>R$ 2.500,00</b></td>
+    <td><b>R$ 5.000,00</b></td>
+    <td><b>R$ 7.000,00</b></td>
+  </tr>
+</table>
+<br>
+<p>Veja mais no documento completo clicando <a href="https://github.com/sprt-michelle/devopsdaysvix/blob/master/Proposta%20de%20Apoio%20-%20DevOpsDays%20Vix.pdf">aqui</a></p>
+</div>
+
 <!--
 <hr/>
 
