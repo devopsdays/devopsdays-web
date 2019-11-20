@@ -145,9 +145,12 @@ sponsors:
   - id: linuxtips
     level: community
     url: https://www.linuxtips.io/
-#  - id: spiritsec
-#    level: gold
-#    url: https://www.spiritsec.com/en/
+  - id: spiritsec
+    level: gold
+    url: https://www.spiritsec.com/en/
+  - id: guiafoca
+    level: community
+    url: https://guiafoca.org/
 #  - id: moveissimonetti
 #    level: community
 #  - id: pag
@@ -166,8 +169,8 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-#  - id: gold
-#    label: Gold
+  - id: gold
+    label: Gold
 ##    max: 10
 #  - id: silver
 #    label: Silver
