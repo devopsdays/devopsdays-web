@@ -108,6 +108,10 @@ sponsors:
     level: gold
   - id: serial
     level: silver
+  - id: smartwave
+    level: gold
+  - id: docker
+    level: gold
 
   #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 
