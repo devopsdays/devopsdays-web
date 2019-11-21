@@ -7,7 +7,7 @@ Description = "Propose a talk for DevOpsDays Geneva 2020"
 {{< cfp_dates >}}
 <br>
 
-<strong>How to submit a proposal:</strong> Fill the <a href='https://forms.gle/fxgk1xuZZUajkKmY6' target='_blank'>Google Form</a> or send an e-mail to {{< email_organizers subject="Talk proposal - DevOpsDays Geneva 2020">}} with the following information:
+<strong>How to submit a proposal:</strong> Fill the <a href='https://forms.gle/fxgk1xuZZUajkKmY6' target='_blank'>Google Form</a> Only if cannot use the form send an e-mail to {{< email_organizers subject="Talk proposal - DevOpsDays Geneva 2020">}} with the following information:
 <ol>
 <li>A title of less than 250 characters (can be tweeted)</li>
 <li>A summary of 100-150 words max. (will be in the program and the website)</li>
