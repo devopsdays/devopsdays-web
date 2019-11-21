@@ -6,6 +6,7 @@ Title = "Programming for Accessibility"
 Type = "talk"
 Speakers = ["rory-preddy"]
 Slides = "https://aka.ms/devopsdaycpt"
+Youtube = "EGtfIifen0I"
 +++
 
 My life is a hilarious roller coaster of miss-intended programming bugs because at 4 foot tall and 65 kilograms I completely fall off your radar.
