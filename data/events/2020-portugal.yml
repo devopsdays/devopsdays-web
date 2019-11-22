@@ -53,9 +53,9 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 team_members: # Name is the only required field for team members.
   - name: "Diana Martins"
     employer: "Farfetch"
-    bio: 
+    bio: "Infrastructure Engineer @ Farfetch, focusing on cloud automation. Highly motivated by the DevOps culture, automation, and distributed systems." 
     linkedin: "https://www.linkedin.com/in/dianacmartins/"
-    twitter: 
+    twitter: "dianasmartins"
     github: 
     website: 
     image: diana-martins.jpg
