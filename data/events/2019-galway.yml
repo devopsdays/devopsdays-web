@@ -196,6 +196,8 @@ sponsors:
     level: community
   - id: wwcodedublin
     level: community
+  - id: pyladies-dublin
+    level: community
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
