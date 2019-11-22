@@ -110,6 +110,7 @@ team_members: # Name is the only required field for team members.
     bio: "Peão as a Service, entusiasta da cultura DevOps, organizador do meetup DevOps/SRE Porto Alegre, Docker community leader (Porto Alegre), fuçador convicto, roda praticamente tudo em containers, jogador noob sempre que posso."
     image: "marco-junior.jpg"
   - name: "Rachel Bins"
+    image: "rachel-bins.jpg"
   - name: "Rafael Gomes (Gomex)"
     employer: "PayCertify"
     twitter: "gomex"
