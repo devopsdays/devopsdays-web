@@ -104,15 +104,15 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/susil%C3%A9a-abreu-20981124"
     website: ""
     image: "susileaabreu.jpg"
-  - name: "João Victor Rocon Maia"
-    twitter: "jvrmaia"
-    employer: "Software Engineer and Informatic Master Degree candidate"
-    bio: ""
-    github: "jvrmaia"
-    facebook: ""
-    linkedin: "https://www.linkedin.com/in/jvrmaia/"
-    website: ""
-    image: "joaomaia.jpg"
+#  - name: "Vinicius Camata"
+#    twitter: ""
+#    employer: "Head of Innovation at Viprede"
+#    bio: ""
+#    github: ""
+#    facebook: ""
+#    linkedin: "https://www.linkedin.com/in/vinicius-camatta-stein-3a73203a/"
+#    website: ""
+#    image: "viniciuscamata.jpg"
   - name: "Jakson Galeti"
     twitter: "JaksonGaleti"
     employer: "Head of Cloud Infrastructure"
@@ -122,7 +122,15 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/jaksongaleti/"
     website: ""
     image: "jacksongaleti.jpg"
-
+  - name: "João Victor Rocon Maia"
+    twitter: "jvrmaia"
+    employer: "Software Engineer and Informatic Master Degree candidate"
+    bio: ""
+    github: "jvrmaia"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/jvrmaia/"
+    website: ""
+    image: "joaomaia.jpg"
   - name: "Léo Hackin"
     twitter: ""
     employer: "Chief Visionary Officer"
@@ -154,6 +162,9 @@ sponsors:
   - id: viprede
     level: platinum
     url: http://viprede.com.br/
+  - id: aws
+    level: silver
+    url: https://aws.amazon.com/
 #  - id: moveissimonetti
 #    level: community
 #  - id: pag
@@ -177,8 +188,8 @@ sponsor_levels:
   - id: gold
     label: Gold
 ##    max: 10
-#  - id: silver
-#    label: Silver
+  - id: silver
+    label: Silver
 #    max: 0 # This is the same as omitting the max limit.
 #  - id: bronze
 #    label: Bronze
