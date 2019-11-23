@@ -4,7 +4,7 @@ Type = "event"
 Description = "Sponsor devopsdays zurich 2020"
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
+We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at <a href="mailto:organizer@devopsdays.ch">organizer@devopsdays.ch</a>.
 
 <a href="https://landing.devopsdays.ch/wp-content/uploads/2019/11/Sponsorship-Kit-2020.pdf">Download Sponsoring Kit</a>
 
