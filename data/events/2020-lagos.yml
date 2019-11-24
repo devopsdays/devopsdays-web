@@ -1,7 +1,7 @@
 name: "2020-lagos" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2020" # The year of the event. Make sure it is in quotes.
 city: "Lagos" # The displayed city name of the event. Capitalize it.
-event_twitter: "devopsdayslagos" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+event_twitter: "devopsdayslag" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "Devopsdays is coming to Lagos!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
@@ -28,7 +28,7 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 # Location
 #
-coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+coordinates: "6.5244° N, 3.3792° E" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Lagos" # Defaults to city, but you can make it the venue name.
 #
 location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
@@ -49,29 +49,35 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
-  - name: "John Doe"
-  - name: "Jane Smith"
-    twitter: "devopsdays"
-  - name: "Sally Fields"
-    employer: "Acme Anvil Co."
+  - name: "Adedayo Akinpelu"
+    twitter: "@haroldsphinx"
+    employer: "Quidax Technologies"
+    linkedin: "https://linkedin.com/haroldsphinx"
+    github: "haroldsphinx"
+    image: "adedayo.jpg"
+  - name: "Ewere Diagboya"
+    twitter: "@nimboya"
+    employer: "Seamfix"
+    github: "nimboya"
+    image: "ewere.jpg"
+  - name: "Idowu Emehinola"
+    employer: "Deimos Technology"
+    twitter: "@_hydeenoble"
     github: "devopsdays"
-    facebook: "https://www.facebook.com/sally.fields"
-    linkedin: "https://www.linkedin.com/in/sallyfields"
-    website: "https://mattstratton.com"
-    image: "sally-fields.jpg"
+    image: "idowu.jpg"
 
 organizer_email: "lagos@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
-sponsors:
-  - id: samplesponsorname
-    level: gold
+#sponsors:
+# - id: samplesponsorname
+#    level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  - id: arresteddevops
-    level: community
+#  - id: arresteddevops
+#    level: community
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
