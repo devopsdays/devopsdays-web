@@ -124,3 +124,216 @@ sponsor_levels:
     label: Silver
   - id: community
     label: Community
+
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2019-08-27
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2019-08-27
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "jeff-smith"
+    type: talk
+    date: 2019-08-27
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-08-27
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "heidi-waterhouse-2"
+    type: talk
+    date: 2019-08-27
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2019-08-27
+    start_time: "10:25"
+    end_time: "10:40"
+  - title: "kevin-harriss"
+    type: talk
+    date: 2019-08-27
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-08-27
+    start_time: "11:10"
+    end_time: "11:20"
+  - title: "lakshmi-baskaran"
+    type: talk
+    date: 2019-08-27
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Lunch"
+    type: custom
+    date: 2019-08-27
+    start_time: "11:50"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2019-08-27
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-08-27
+    start_time: "13:30"
+    end_time: "13:40"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2019-08-27
+    start_time: "13:40"
+    end_time: "14:15"
+  - title: "attendee-suggested breakout discussions - Open Space #1"
+    type: open-space
+    date: 2019-08-27
+    start_time: "14:15"
+    end_time: "15:00"
+  - title: "jessie-frazelle"
+    type: workshop
+    date: 2019-08-27
+    start_time: "14:15"
+    end_time: "15:00"
+  - title: "Break"
+    type: custom
+    date: 2019-08-27
+    start_time: "15:00"
+    end_time: "15:15"
+  - title: "attendee-suggested breakout discussions - Open Space #2"
+    type: open-space
+    date: 2019-08-27
+    start_time: "15:15"
+    end_time: "16:00"
+  - title: "garima-sharma"
+    type: workshop
+    date: 2019-08-27
+    start_time: "15:15"
+    end_time: "16:00"
+  - title: "attendee-suggested breakout discussions - Open Space #3"
+    type: open-space
+    date: 2019-08-27
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Arrested DevOps LIVE!"
+    type: custom
+    date: 2019-08-27
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Close Day"
+    type: custom
+    date: 2019-08-27
+    start_time: "16:45"
+    end_time: "17:00"
+  - title: "Evening event"
+    type: custom
+    date: 2019-08-27
+    start_time: "17:00"
+    end_time: "20:00"
+    comments: "UIC Forum. Badge Required."
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2019-08-28
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2019-08-28
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "pete-cheslock"
+    type: talk
+    date: 2019-08-28
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-08-28
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "holly-allen"
+    type: talk
+    date: 2019-08-28
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2019-08-28
+    start_time: "10:25"
+    end_time: "10:40"
+  - title: "baron-schwartz"
+    type: talk
+    date: 2019-08-28
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-08-28
+    start_time: "11:10"
+    end_time: "11:20"
+  - title: "karissa-peth"
+    type: talk
+    date: 2019-08-28
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-08-28
+    start_time: "11:50"
+    end_time: "12:00"
+  - title: "Lunch"
+    type: custom
+    date: 2019-08-28
+    start_time: "12:00"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2019-08-28
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2019-08-28
+    start_time: "13:30"
+    end_time: "13:50"
+  - title: "Sponsor Giveaways"
+    type: "custom"
+    date: 2019-08-28
+    start_time: "13:50"
+    end_time: "14:15"
+  - title: "attendee-suggested breakout discussions - Open Space #1"
+    type: open-space
+    date: 2019-08-28
+    start_time: "14:15"
+    end_time: "15:00"
+  - title: "jennifer-petoff-nathen-harvey"
+    type: workshop
+    date: 2019-08-28
+    start_time: "14:15"
+    end_time: "15:00"
+  - title: "Break"
+    type: custom
+    date: 2019-08-28
+    start_time: "15:00"
+    end_time: "15:15"
+  - title: "attendee-suggested breakout discussions - Open Space #2"
+    type: open-space
+    date: 2019-08-28
+    start_time: "15:15"
+    end_time: "16:00"
+  - title: "nick-petrovits-allen-nelson"
+    type: workshop
+    date: 2019-08-28
+    start_time: "15:15"
+    end_time: "16:00"
+  - title: "Closing Ceremony"
+    type: custom
+    date: 2019-08-28
+    start_time: "16:00"
+    end_time: "16:45"
