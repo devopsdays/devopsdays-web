@@ -3,7 +3,7 @@ title = "Mario Konschake"
 twitter = "infinite_monkey"
 linkedin = ""
 website = "https://medium.com/@Infinite_Monkey"
-image = ""
+image = "mario-konschake.jpg"
 type = "speaker"
 linktitle = ["mario-konschake"]
 +++
