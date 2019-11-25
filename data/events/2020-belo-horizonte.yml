@@ -28,10 +28,9 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 # Location
 #
-coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "belo-horizonte" # Defaults to city, but you can make it the venue name.
-#
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+coordinates: "-19.923461,-43.991190" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Belo Horizonte - Minas Gerais" # Defaults to city, but you can make it the venue name.
+location_address: "R. Dom José Gaspar, 500 - Coração Eucarístico, Belo Horizonte - MG, 30535-901" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
