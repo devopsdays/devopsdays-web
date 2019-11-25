@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "Sarcasm-as-a-Service: the latest software trend"
-Type = "lightning"
+Type = "talk"
 Speakers = ["theo-salvo"]
 +++
 

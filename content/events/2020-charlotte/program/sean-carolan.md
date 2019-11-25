@@ -2,8 +2,8 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Service Discovery with Consul"
-Type = "workshop"
+Title = "Service Discovery with Consul [Workshop]"
+Type = "talk"
 Speakers = ["sean-carolan"]
 +++
 

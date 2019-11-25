@@ -2,8 +2,8 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Infrastructure as Code 101 Workshop"
-Type = "workshop"
+Title = "Infrastructure as Code 101 [Workshop]"
+Type = "talk"
 Speakers = ["angel-rivera"]
 +++
 

@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "Open Mind Open Doors, Change your narrative and achieve what is possible."
-Type = "lightning"
+Type = "talk"
 Speakers = ["farrah-campbell"]
 +++
 

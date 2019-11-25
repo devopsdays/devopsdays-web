@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "Monorepos & Reproducible Build Systems: Tips & Tricks"
-Type = "lightning"
+Type = "talk"
 Speakers = ["austin-burdine"]
 +++
 

@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "The Case For Human-Centric Observability"
 Type = "talk"
-Speakers = "austin-parker"
+Speakers = ["austin-parker"]
 +++
 
 Modern systems have resulted in an explosion of complexity for organizations of every size, shape, and purpose. In an effort to create more resilient and reliable software, we’ve cast around for solutions to tame and manage this complexity. Observability practices have come to be seen as essential for operating systems at scale, but in practice they’re often seen as technical solutions to what is ultimately a social problem: Software, at the end of the day, is built and run by people.

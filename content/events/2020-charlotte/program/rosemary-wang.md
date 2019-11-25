@@ -2,8 +2,8 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Secrets (Management on Kubernetes) can be Fun"
-Type = "workshop"
+Title = "Secrets (Management on Kubernetes) can be Fun [Workshop]"
+Type = "talk"
 Speakers = ["rosemary-wang"]
 +++
 
