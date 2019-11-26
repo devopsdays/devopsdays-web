@@ -67,42 +67,12 @@ organizer_email: "charlotte@devopsdays.org" # Put your organizer email address h
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  # - id: rundeck
-  #   level: gold
-  # - id: gitlab
-  #   level: silver
   - id: red-ventures
     level: gold
-  # - id: victorops
-  #   level: gold
-  # - id: signalfx
-  #   level: silver
-  # - id: diamanti
-  #   level: gold
-  # - id: influxdata
-  #   level: gold
-  # - id: sumologic
-  #   level: gold
-  # - id: vividcortex
-  #   level: silver
-  # - id: dynatrace
-  #   level: gold
-  # - id: softed
-  #   level: silver
-  # - id: sonatype-before-20190405
-  #   level: gold
-  # - id: mongodb
-  #   level: bronze
-  # - id: redhat-before-20190528
-  #   level: gold
-  # - id: cloudbees-codeship
-  #   level: bronze
-  # - id: servicenow
-  #   level: silver
-  # - id: jfrog
-  #   level: silver
-  # - id: ahead-appdynamics
-  #   level: gold
+  - id: f5
+    level: gold
+  - id: launch-darkly
+    level: gold
   - id: arresteddevops
     level: community
 #  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
