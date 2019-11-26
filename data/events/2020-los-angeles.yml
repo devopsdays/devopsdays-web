@@ -78,6 +78,10 @@ organizer_email: "los-angeles@devopsdays.org" # Put your organizer email address
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: launch-darkly
+    level: gold
+  - id: xmatters
+    level: gold
   - id: scale
     level: community
     url: https://www.socallinuxexpo.org/scale/18x
