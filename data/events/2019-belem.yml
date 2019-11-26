@@ -193,8 +193,8 @@ program:
     date: 2019-12-14
     start_time: "10:50"
     end_time: "11:25"
-  - title: "TBD"
-    type: custom
+  - title: "paulo-alexandre-costa"
+    type: talk
     date: 2019-12-14
     start_time: "11:25"
     end_time: "12:00"
