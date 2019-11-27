@@ -140,6 +140,15 @@ Enabling organisations to achieve outstanding and sustainable results that excee
   - name: "Julia Faust"
     bio: "<p>Julia loves to communicate and to bring people and solutions together. As a Financial Controller for the IT development department of a Swiss Telco, she accompanies the transformation into an agile setup from the beginning.</p><p>DevOps principles such as \"build it, run it\", autonomy of the team, as well as short and reasonable planning processes motivate her a lot. Julia is thrilled by discussing the basic ideas and causes of agility and to inspire others.</p>"
     image: "julia-faust.jpg"
+  - name: "Selina Reist"
+    twitter: ""
+    employer: ""
+    bio: "I am an enthusiast for everything visual:photography, movies and animations, pictograms, infofraphics, visual design, graphical recordings, UX-Design. I also like to combine these skills in crossfunctional teams to enable app development, transformation processes and last but not least communicate and teach DevOps practices in large federal organizations."
+    github: ""
+    facebook: ""
+    linkedin: ""
+    website: ""
+    image: "" 
   - name: "Vittorio Boccone"
     twitter: "drbokko"
     employer: "Dectris Ltd."
@@ -149,6 +158,7 @@ Enabling organisations to achieve outstanding and sustainable results that excee
     linkedin: "https://www.linkedin.com/in/vittorio-boccone-1998a94/"
     website: ""
     image: "vittorio-boccone.jpg"
+    
 organizer_email: "zurich@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
