@@ -43,6 +43,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: sponsor
   - name: contact
   - name: conduct
+  - name: meetups
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -104,7 +105,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/susil%C3%A9a-abreu-20981124"
     website: ""
     image: "susileaabreu.jpg"
-  - name: "Vinicius Camata"
+  - name: "Vinicius Camatta"
     twitter: ""
     employer: "Head of Innovation at Viprede"
     bio: ""
@@ -165,6 +166,9 @@ sponsors:
   - id: aws
     level: silver
     url: https://aws.amazon.com/
+#  - id: inflor
+#    level: silver
+#    url: https://www.inflor.com.br/
 #  - id: moveissimonetti
 #    level: community
 #  - id: pag
