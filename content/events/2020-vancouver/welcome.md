@@ -82,6 +82,6 @@ Description = "devopsdays Vancouver 2020"
 </div>
 
 <!-- Uncomment if you added your city twitter name -->
-<!--
+
 {{< event_twitter >}}
--->
+
