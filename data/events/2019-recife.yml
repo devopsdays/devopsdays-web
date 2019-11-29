@@ -155,7 +155,7 @@ program:
     start_time: "10:20"
     end_time: "10:50"
 
-  - title: "isabela-pimentel-e-felipe-lopes"
+  - title: "isabella-pimentel-e-felipe-lopes"
     type: talk
     date: 2019-12-14T00:09:00-03:00
     start_time: "10:50"
@@ -238,5 +238,3 @@ program:
     date: 2019-12-14T18:00:00-03:00
     start_time: "19:00"
     end_time: "22:00"
-
-
