@@ -4,9 +4,9 @@ Type = "event"
 Description = "Contact information for devopsdays belo-horizonte 2020"
 +++
 
-If you'd like to contact us by email: {{< email_organizers >}}
+Se desejar nos contactar, escreva-nos em: {{< email_organizers >}}
 
-**Our local team**
+**Nosso time local**
 
 {{< list_organizers >}}
 
@@ -15,7 +15,5 @@ If you'd like to contact us by email: {{< email_organizers >}}
 Linkedin: https://www.linkedin.com/company/devopsdaysbh/
 Instagram: https://www.instagram.com/devopsdaysbh/
 Facebook: https://www.facebook.com/devOpsdaysbh/
-
-**The core devopsdays organizer group**
 
 {{< list_core >}}
