@@ -191,7 +191,7 @@ program:
     start_time: "14:30"
     end_time: "15:00"
 
-  - title: "Coffe Break"
+  - title: "Coffe Break ☕️"
     type: custom
     date: 2019-12-14T18:00:00-03:00
     start_time: "15:30"
@@ -203,7 +203,7 @@ program:
     start_time: "15:50"
     end_time: "16:30"
 
-  - title: "matheus-prado"
+  - title: "devops-behind-the-scenes"
     type: talk
     date: 2019-12-14T18:00:00-03:00
     start_time: "16:30"
