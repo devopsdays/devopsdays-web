@@ -7,4 +7,7 @@ Type = "talk"
 Speakers = ["bruno-schaefer", "denis-isidoro"]
 +++
 
-A ideia é mostrar como foi feita a migração do Nubank para o Kubernetes. Hoje nos temos 14 clusters com mais de 300 aplicações e 300 desenvolvedores. A migração levou cerca de 1 ano e não teve nenhum downtime.
+Nessa palestra você ira descobrir as lições aprendidas durante a migração da infraestrutura do nubank de cloudformation para kubernetes.
+
+Será apresentado: - Arquitetura com cloudformation e com kubernetes; - Ferramentas internas que tornaram a migração transparente para os desenvolvedores; - Estrategia de migração; - Beneficios e liçoes aprendidas.
+
