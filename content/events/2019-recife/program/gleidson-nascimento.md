@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Gerenciando Aplicações em Containers usando Operadores para Kubernetes"
 Type = "talk"
-Speakers = ["geidson-nascimento"]
+Speakers = ["gleidson-nascimento"]
 +++
 
 Gerenciamento de estado em uma aplicação é uma disciplina importante e leva tempo aprender a executá-la. Com a criação do Framework de Operadores para Kubernetes, o sistema de orquestração de containers mais adotado do mundo, agora temos uma solução nativa para delegar esta disciplina para o próprio Kubernetes.
