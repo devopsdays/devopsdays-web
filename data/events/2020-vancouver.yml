@@ -70,6 +70,7 @@ team_members: # Name is the only required field for team members.
   - name: "Kyle Young"
     twitter: "ksgyoung"
   - name: "Alicja Raszkowska"
+    twitter: "mamrotynka"
     #  - name: "John Doe"
     # - name: "Jane Smith"
     # twitter: "devopsdays"
