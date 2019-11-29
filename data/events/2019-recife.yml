@@ -177,66 +177,66 @@ program:
 
   - title: "em-terra-de-iac"
     type: talk
-    date: 2019-12-14T18:00:00-03:00
+    date: 2019-12-14T00:09:00-03:00
     start_time: "13:30"
     end_time: "14:00"
 
   - title: "napoleon-ike-jones"
     type: talk
-    date: 2019-12-14T18:00:00-03:00
+    date: 2019-12-14T00:09:00-03:00
     start_time: "14:00"
     end_time: "14:30"
 
   - title: "gleidson-nascimento"
     type: talk
-    date: 2019-12-14T18:00:00-03:00
+    date: 2019-12-14T00:09:00-03:00
     start_time: "14:30"
     end_time: "15:00"
 
   - title: "Coffe Break ☕️"
     type: custom
-    date: 2019-12-14T18:00:00-03:00
+    date: 2019-12-14T00:09:00-03:00
     start_time: "15:30"
     end_time: "15:50"
 
   - title: "Open Space"
     type: custom
-    date: 2019-12-14T18:00:00-03:00
+    date: 2019-12-14T00:09:00-03:00
     start_time: "15:50"
     end_time: "16:30"
 
   - title: "devops-behind-the-scenes"
     type: talk
-    date: 2019-12-14T18:00:00-03:00
+    date: 2019-12-14T00:09:00-03:00
     start_time: "16:30"
     end_time: "17:00"
 
   - title: "bruno-schaefer-e-denis-isidoro"
     type: talk
-    date: 2019-12-14T18:00:00-03:00
+    date: 2019-12-14T00:09:00-03:00
     start_time: "17:00"
     end_time: "17:30"
 
   - title: "marcelo-andrade"
     type: talk
-    date: 2019-12-14T18:00:00-03:00
+    date: 2019-12-14T00:09:00-03:00
     start_time: "17:30"
     end_time: "18:00"
 
   - title: "Palestra"
     type: custom
-    date: 2019-12-14T18:00:00-03:00
+    date: 2019-12-14T00:09:00-03:00
     start_time: "18:00"
     end_time: "18:30"
 
   - title: "Encerramento"
     type: custom
-    date: 2019-12-14T18:00:00-03:00
+    date: 2019-12-14T00:09:00-03:00
     start_time: "18:30"
     end_time: "19:00"
 
   - title: "Happy Hour"
     type: custom
-    date: 2019-12-14T18:00:00-03:00
+    date: 2019-12-14T00:09:00-03:00
     start_time: "19:00"
     end_time: "22:00"
