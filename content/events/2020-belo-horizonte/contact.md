@@ -1,7 +1,7 @@
 +++
 Title = "Contact"
 Type = "event"
-Description = "Contact information for devopsdays belo-horizonte 2020"
+Description = "Contact information for devopsdays Belo Horizonte 2020"
 +++
 
 Se desejar nos contactar, escreva-nos em: {{< email_organizers >}}
