@@ -1,8 +1,8 @@
 +++
-Title = "devopsdays belo-horizonte 2020"
+Title = "devopsdays Belo Horizonte 2020"
 Type = "welcome"
 aliases = ["/events/2020-belo-horizonte/"]
-Description = "devopsdays belo-horizonte 2020"
+Description = "devopsdays Belo Horizonte 2020"
 +++
 
 <!-- <div style="text-align:center;">
