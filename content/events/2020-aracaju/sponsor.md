@@ -1,85 +1,125 @@
 +++
-Title = "Sponsor"
+Title = "Patrocinio"
 Type = "event"
-Description = "Sponsor devopsdays austin 2019"
+Description = "Patrocinio DevOpsDays Aracaju 2020"
 +++
 
+Nós valorizamos muito os patrocinadores deste evento. Caso esteja interessado em alguma cota de patrocinio, entre em contato pelo email [{{< email_organizers >}}].
+<hr>
+
+DevOpsDays é uma conferência auto organizada que depende de patrocinadores. Nós não temos palestras de venda de produtos ou distribuição de lista de contatos dos participantes. Patrocinadores terão a oportunidade de falar brevemente durante o evento e terão o reconhecimento no site e mídias sociais antes, durante e depois do evento. Patrocinadores são encorajados a se representarem pela participação ativa e se engajarem com os participantes como pares. Qualquer participante também tem a oportunidade de demonstrar produtos/projetos como parte de uma seção Open Space.
+
+<p>
+Patrocinadores Ouro e Platina recebem uma mesa onde podem interagir com aqueles interessados em visitar durante os intervalos. Todos os participantes são bem-vindos a propor qualquer assunto que quiserem durante os Open Spaces, mas como esta conferência é focada na comunidade propaganda pesada irá provavelmente trabalhar contra você ao tentar causa uma boa impressão nos participantes.
+
+<p>
+Provavelmente a melhor coisa a se fazer é enviar seus especialistas técnicos para interagir com os participantes do evento.
+<p>
+
+## Benefícios
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-cpu2{border-color:#000000;vertical-align:top}
+.tg .tg-mqa1{font-weight:bold;border-color:#000000;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-mqa1">BENEFÍCIOS PREVISTOS</th>
+    <th class="tg-mqa1" colspan="4">GRUPOS DE PARCERIA</th>
+  </tr>
+  <tr>
+    <td align="center" class="tg-cpu2"></td>
+    <td align="center" class="tg-cpu2">Bronze</td>
+    <td align="center" class="tg-cpu2">Prata</td>
+    <td align="center" class="tg-cpu2">Ouro</td>
+    <td align="center" class="tg-cpu2">Platina</td>
+  </tr>
+  <tr>
+    <td class="tg-cpu2">Número máximo de parceiros no grupo</td>
+    <td align="center" class="tg-cpu2">Ilimitado</td>
+    <td align="center" class="tg-cpu2">8</td>
+    <td align="center" class="tg-cpu2">5</td>
+    <td align="center" class="tg-cpu2">2</td>
+  </tr>
+  <tr>
+    <td class="tg-cpu2">Recebimento de agradecimentos durante o evento</td>
+    <td align="center" class="tg-cpu2">Sim</td>
+    <td align="center" class="tg-cpu2">Sim</td>
+    <td align="center" class="tg-cpu2">Sim</td>
+    <td align="center" class="tg-cpu2">Sim</td>
+  </tr>
+  <tr>
+    <td class="tg-cpu2">Exibição do logotipo da empresa no site, cartazes,<br> banners, mochilas e camisetas</td>
+    <td align="center" class="tg-cpu2">½U <br> Site e Banners</td>
+    <td align="center" class="tg-cpu2">⅔U <br> Site, Cartazes e<br>Banners</td>
+    <td align="center" class="tg-cpu2">¾U <br> Site, Banners,<br> Cartazes e Mochilas</td>
+    <td align="center" class="tg-cpu2">1U <br> Todas as mídias</td>
+  </tr>
+  <tr>
+    <td class="tg-cpu2">Inscrições para o evento</td>
+    <td align="center" class="tg-cpu2">2</td>
+    <td align="center" class="tg-cpu2">4</td>
+    <td align="center" class="tg-cpu2">7</td>
+    <td align="center" class="tg-cpu2">10</td>
+  </tr>
+  <tr>
+    <td class="tg-cpu2">Distribuição de brindes durante o evento</td>
+    <td align="center" class="tg-cpu2">Sim</td>
+    <td align="center" class="tg-cpu2">Sim</td>
+    <td align="center" class="tg-cpu2">Sim</td>
+    <td align="center" class="tg-cpu2">Sim</td>
+  </tr>
+  <tr>
+    <td class="tg-cpu2">Tempo para auto-apresentação (1x manhã + 1x tarde)</td>
+    <td align="center" class="tg-cpu2">Não</td>
+    <td align="center" class="tg-cpu2">30 segundos</td>
+    <td align="center" class="tg-cpu2">45 segundos</td>
+    <td align="center" class="tg-cpu2">1 minuto</td>
+  </tr>
+  <tr>
+    <td class="tg-cpu2">Distribuição de panfletos na pasta/mochila do participante <br> e/ou durante o evento *</td>
+    <td align="center" class="tg-cpu2">Não</td>
+    <td align="center" class="tg-cpu2">Somente na pasta</td>
+    <td align="center" class="tg-cpu2">Ambos</td>
+    <td align="center" class="tg-cpu2">Ambos</td>
+  </tr>
+  <tr>
+    <td class="tg-cpu2">Divulgação do patrocinador em releases nos sites mantidos <br> pela comunidade referente participação do patrocinador no evento * </td>
+    <td align="center" class="tg-cpu2">Não</td>
+    <td align="center" class="tg-cpu2">Não</td>
+    <td align="center" class="tg-cpu2">Sim</td>
+    <td align="center" class="tg-cpu2">Sim</td>
+  </tr>
+  <tr>
+    <td class="tg-cpu2">Estande para exposição, entrega de brindes e interação com os participantes *</td>
+    <td align="center" class="tg-cpu2">Não</td>
+    <td align="center" class="tg-cpu2">Não</td>
+    <td align="center" class="tg-cpu2">Não</td>
+    <td align="center" class="tg-cpu2">Sim</td>
+  </tr>
+  <tr>
+    <td class="tg-cpu2">Cota de patrocínio</td>
+    <td align="center" class="tg-cpu2">R$ 750</td>
+    <td align="center" class="tg-cpu2">R$ 1.500</td>
+    <td align="center" class="tg-cpu2">R$ 3.000</td>
+    <td align="center" class="tg-cpu2">R$ 6.000</td>
+  </tr>
+</table>
 
 
-### Sponsorship Info Coming Soon
+#### Requisitos definidos:
 
-<!--
-<a href="https://drive.google.com/file/d/136ifKhcqWX8pfKsOryN4Kh4MkNpdYzM-/view" class="btn btn-info">Download the DevOpsDays Austin Summit 2019 Sponsor Prospectus</a>
+- **Releases nos sites**:  Cabe a organização do evento definir a quantidade de releases.
+- **Panfletos para distribuir**: O material para compor as pastas distribuídas aos participantes deverá ser entregue em até 5 dias úteis antes do evento e não poderá exceder o tamanho A4 e o volume equivalente a 10 páginas em 75 g/m2;
+- **Logotipos**: Os logotipos deverão ser entregues em formato vetorial ou em alta resolução em até 2 meses antes da realização do evento. O não envio até esta data poderá inviabilizar a produção do material impresso com o logo. Não inclui a produção de crachás, pastas e demais materiais de divulgação distribuídos ou vendidos no evento;
+- **Inscrições**: A organização irá emitir códigos promocionais em até 30 dias antes do evento. Os patrocinadores deverão orientar as pessoas a se inscrever normalmente no evento utilizando os códigos promocionais.
+- **Estandes**: Os patrocinadores platinum podem montar um estande com espaço limite de 6 m2 (seis metros quadrados). Se o patrocinador desejar, serão fornecidos uma mesa de 2 m X 0,7 m e duas cadeiras. Demais materiais para a montagem de estande deverão ser providenciados pelo próprio patrocinador. Haverá Internet com acesso sem fio irradiado no local. Cada estande poderá contar com até 3 expositores concomitantes que deverão ser cadastrados previamente, além do número de ingressos cedidos de acordo com a categoria do patrocínio. Os expositores não terão acesso às palestras, sala VIP e coffee break. Se o próprio expositor desejar fazer parte do evento, deverá utilizar suas inscrições para ter acesso total ao evento;
 
-Event dates: {{< event_start >}} - {{< event_end >}}
+A cota de patrocínio para empresas com sede fora do Brasil, preferencialmente deverá ser feito por meio de parceiro ou filial da empresa localizado no Brasil; aquisição de passagens aéreas de palestrantes internacionais; envio de material promocional como livros, camisetas, pendrives, pins, etc.
 
-Austin hosts one of the leading annual DevOpsDays events, now in its **eighth** year. Every year Austin is one of the best attended and reviewed DevOpsDays events. Sponsoring DevOpsDays connects your company to local technical and business minds who influence decisions in security, monitoring, operations, engineering, quality, and product development.
+**ATENÇÃO**: Não vendemos slots de palestra/ignite em troca por patrocínio, também não repassamos dados dos participantes.
 
-Feel free to contact us at [{{< email_organizers >}}] with any questions.
-
-![Sponsor Matrix 2019](sponsor-matrix-2019.png "DevOpsDays Austin Sponsor Matrix 2019")
-
-### Happy Hour ($8000)
-
-**Sold out!**
-
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VWDJU8D6SF3DC" class="btn btn-info" style="display:none">Pay Now to Sponsor the Happy Hour!</a>
-
-This year, DevOpsDays Austin is planning a special Happy Hour at the end of Day 1. The Happy Hour event will be hosted on the main level of the event and will have food and alcoholic beverages. We have opportunities for two sponsors to have signage and space specifically dedicated to them for the duration of the happy hour and the opportunity to make announcements at the happy hour.
-
-### Platinum Sponsor ($7000)
-
-**Sold out!**
-
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=E7JGQEEB6XTRU" class="btn btn-info" style="display:none">Pay Now to be a Plantinum Sponsor!</a>
-
-In past years, sponsors have inquired about using the luxury boxes within the venue for discussion areas, consulting / solution areas, and similar uses. This year, we are opening up opportunities for sponsors to utilize the rooms. These boxes are located upstairs of the main stage area - in the same "loft" space as the Open Spaces part of the program. 
-
-The rooms will be set up with tables and chairs. Sponsors can put standup signage around the outside and set up tables for demos / displays. Everything must fit and be free-standing - nothing can go on the walls / ceilings.
-
-Platinum sponsors will have access to the rooms all day on both days and are free to schedule activities at any time during - as long as those events stay within their room and are publicized by sponsors themselves.
-
-Open Spaces events and Happy Hour are scheduled in other rooms in the same upstairs area, but there are no DevOpsDays Austin events scheduled in the upstairs area during keynotes, talks, or meals.
-
-### Lanyard Sponsor ($5000)
-
-**Sold out!**
-
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NDK4B5PHD99LN" class="btn btn-info" style="display:none">Pay Now to Put Your Logo on the Lanyard!</a>
-
-What better way to get your branding in front of attendees than to have everyone carrying it around attached to the one thing they absolutely must have, their badge?  We only have one lanyard sponsor, and they get their logo (co-branded with the DevOpsDays logo) on all the lanyards for the event.  DevOpsDays Austin takes care of making and distributing the lanyard.
-
-Lanyard sponsorships come with two complimentary event tickets.
-
-### Gold Sponsor ($5000)
-
-**Sold out!**
-
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZUXRLSZNKH7GG" class="btn btn-info" style="display:none">Pay Now to be a Gold Sponsor!</a>
-
-Gold packages are the most popular DevOpsDays Austin sponsorship package.This is the package with a table in the vendor area of our event. We locate food service in the sponsor area and otherwise take effort to drive attendee foot traffic into and through the area.
-
-Please be aware these are not full conference booths like at a major tech conference - no backdrops, things fastened to the ceiling, etc. can be accommodated.  You can bring a tablecloth / table cover and will have room behind your table for a couple people and stand-up sign banner or two.  Each table has a power strip to it and a couple chairs. The Gold sponsorship comes with four tickets.
-
-Gold sponsors also get comprehensive branding and shout-outs throughout the show, and have the opportunity to do one minute pitches to the full conference audience between the all-hands sessions.
-
-### Silver Sponsor ($3000)
-
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MEANYQYT9UBQA" class="btn btn-info">Pay Now to be a Silver Sponsor!</a>
-
-Silver sponsorship packages are designed for sponsors who do not want to staff a table, but who would still like to sponsor the event and have prominent branding. The silver sponsorship receives access to put materials on unattended tables shared with the other Silver level sponsors of the event along with brand inclusion on conference slides, signs, website, and social media.
-
-A Silver sponsorship comes with two complimentary event tickets.
-
-### Meal/Snack Add-On (+$1000)
-
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=M8EJUXHNAUMPE" class="btn btn-info" style="display:none">Pay Now for a Meal/Snack Add-On!</a>
-
-The "Meal/Snack" sponsorship options are opportunities to show attendees that you sponsored the event by providing the opportunity to associate your brand with a high-visibility, food-centered activity during the event. There will be signage on the food tables, up-front announcements of these events, social media and website promotion.
-
-View the [sponsor prospectus](https://drive.google.com/file/d/136ifKhcqWX8pfKsOryN4Kh4MkNpdYzM-/view) for more details about the meal/snack add-on.
-
-![Sponsor Add-Ons 2019](sponsor-add-on-2019.png "DevOpsDays Austin Sponsor Add-Ons 2019")
-
-Sponsors can optionally extend their visibility at the event by sponsoring individual meals or snacktimes. These are available to all levels of sponsorship. Please contact us at {{< email_organizers >}} if you are interested.
--->
+<hr/>

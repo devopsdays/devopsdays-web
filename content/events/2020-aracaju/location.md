@@ -1,10 +1,10 @@
 +++
 Title = "Location"
 Type = "event"
-Description = "Location for DevOpsDays Aracaju 2019"
+Description = "Location for DevOpsDays Aracaju 2020"
 +++
 
-O evento acontecerá no Auditório A do Bloco G, Campus Farolândia, da UNIT
+O evento acontecerá no Auditório UNIT, Campus Farolândia
 ## UNIT - Universidade Tiradentes
 *Av. Murilo Dantas, 300 - Farolândia, Aracaju/SE*
 
