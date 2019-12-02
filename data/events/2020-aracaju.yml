@@ -53,7 +53,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     url: /events/2020-aracaju/contact
   - name: Conduta
     icon: "handshake-o"
-    url: /events/2020-aracaju/condut
+    url: /events/2020-aracaju/conduct
  # - name: schedule
  # - name: registration
  # - name: program
