@@ -118,6 +118,8 @@ sponsors:
     level: partner
   - id: stickermule
     level: partner
+  - id: olxgroup
+    level: platinum
   - id: xmatters
     level: platinum
   - id: redgate
@@ -191,8 +193,8 @@ program:
     date: 2019-11-27
     start_time: "11:10"
     end_time: "11:15"
-  - title: "TALK - to be announced"
-    type: custom
+  - title: "yair-etziony"
+    type: talk
     date: 2019-11-27
     start_time: "11:15"
     end_time: "11:45"
@@ -247,11 +249,6 @@ program:
     start_time: "17:00"
     end_time: "17:45"
   - title: "ivan-culjak"
-    type: talk
-    date: 2019-11-27
-    start_time: "17:00"
-    end_time: "17:45"
-  - title: "steffen-siering"
     type: talk
     date: 2019-11-27
     start_time: "17:00"
@@ -345,7 +342,7 @@ program:
     date: 2019-11-28
     start_time: "16:00"
     end_time: "16:45"
-  - title: "henrik-stene"
+  - title: "steffen-siering"
     type: talk
     date: 2019-11-28
     start_time: "16:00"
@@ -357,9 +354,9 @@ ignites:
     date: 2019-11-27
   - title: "emrah-samdan"
     date: 2019-11-27
-  - title: "leonardo-di-donato"
-    date: 2019-11-28
   - title: "stevan-cvetkovic"
     date: 2019-11-28
-  - title: "mohammed-salah-adawi"
+  - title: "toshaan-bharvani"
+    date: 2019-11-28
+  - title: "marius-gebert"
     date: 2019-11-28

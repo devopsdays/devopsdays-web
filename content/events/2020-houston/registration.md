@@ -4,5 +4,23 @@ Type = "event"
 Description = "Registration for devopsdays Houston 2020"
 +++
 
-<div style="width:100%; text-align:left;"><iframe src="https://eventbrite.com/tickets-external?eid=54629883452&ref=etckt" frameborder="0" height="433" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="https://www.eventbrite.com/">Powered by Eventbrite</a></div></div>
+<div id="eventbrite-widget-container-71596353621"></div>
 
+<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+
+<script type="text/javascript">
+    var exampleCallback = function() {
+        console.log('Order complete!');
+    };
+
+    window.EBWidgets.createWidget({
+        // Required
+        widgetType: 'checkout',
+        eventId: '71596353621',
+        iframeContainerId: 'eventbrite-widget-container-71596353621',
+
+        // Optional
+        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+    });
+</script>

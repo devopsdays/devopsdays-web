@@ -5,8 +5,6 @@ Description = "Sponsor devopsdays Houston 2020"
 +++
 
 We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
-<br/>
-<span class="btn btn-danger btn-sm">NOTE</span>: The sponsorship levels below are a "work in progress". Our PDF prospectus is coming soon.
 <hr>
 
 devopsdays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
@@ -193,14 +191,14 @@ There are also opportunities for exclusive special sponsorships. We'll have spon
     <dt>What dates/times can we set up and tear down?</dt>
     <dd>TBD</dd>
     <dt>How do we ship to the venue?</dt>
-    <dd>Please coordinate all shipping needs with Norris Conference Center. You will get contact information via email in early March.</dd>
+    <dd>Please coordinate all shipping needs with Norris Conference Center. You will get contact information via email in February/March.</dd>
     <dt>What should we expect regarding electricity? (how much, any fees, etc)</dt>
     <dd>There are no fees. Your table will be located along the wall with a number of power outlets. However, we suggest that you bring a few extension cords, as there may not be enough power outlets or they may not be close enough to your table to be reachable by a laptop/monitor cable.</dd>
     <dt>What should we expect regarding WiFi? (how much, any fees, etc)</dt>
     <dd>There will be a free WiFi, but wired connections will not be provided.</dd>
     <dt>Whom should we send?</dt>
     <dd>This is a community event, so it is better to send engineers rather than sales people.</dd>
-    <dt>As a Platinum , and we supposed to have 5-minute slot to address the attendees. When will that be? How will it work?</dt>
+    <dt>As a Platinum we are supposed to have 5-minute slot to address the attendees. When will that be? How will it work?</dt>
     <dd>An email in early March will provide additional details.</dd>
     <dt>How do we get our free tickets to the event?</dt>
     <dd>An access code will be emailed to you in early March.</dd>

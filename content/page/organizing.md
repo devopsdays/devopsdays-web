@@ -374,6 +374,7 @@ The core organizers will not run registration for you, but we can suggest things
 
 Specifically on eventbrite we usually:
 
+- require information for each attendee (rather than for the buyer only)
 - ask for employer name (optional) if people want it printed on their badge
 - ask for Twitter handle (optional) to help attendees connect with one another
 - ask for T-shirt sizes (make sure you offer more than S-M-L-XL "unisex")

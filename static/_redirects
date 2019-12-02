@@ -94,7 +94,7 @@
 /salvador/*		/events/2019-salvador/:splat		302
 /santa-maria/*		/events/2018-santa-maria/:splat		302
 /santiago/*		/events/2020-santiago/:splat		302
-/sao-paulo/*		/events/2019-sao-paulo/:splat		302
+/sao-paulo/*		/events/2020-sao-paulo/:splat		302
 /seattle/*		/events/2020-seattle/:splat		302
 /shanghai/*		/events/2019-shanghai/:splat		302
 /shenzhen/*		/events/2018-shenzhen/:splat		302
@@ -106,7 +106,7 @@
 /tel-aviv/*		/events/2019-tel-aviv/:splat		302
 /tokyo/*		/events/2020-tokyo/:splat		302
 /toronto/*		/events/2020-toronto/:splat		302
-/vancouver/*		/events/2019-vancouver/:splat		302
+/vancouver/*		/events/2020-vancouver/:splat		302
 /victoria/*		/events/2019-victoria/:splat		302
 /vitoria/*		/events/2020-vitoria/:splat		302
 /warsaw/*		/events/2019-warsaw/:splat		302
@@ -144,6 +144,6 @@
 /events/2016-oslo/proposals/* http://legacy.devopsdays.org/events/2016-oslo/proposals/:splat     301!
 /events/2016-saltlakecity/proposals/* http://legacy.devopsdays.org/events/2016-saltlakecity/proposals/:splat     301!
 /events/2016-toronto/proposals/* http://legacy.devopsdays.org/events/2016-toronto/proposals/:splat     301!
-/events/2016-vancouver/proposals/* http://legacy.devopsdays.org/events/2016-vancouver/proposals/:splat     301!
+/events/2020-vancouver/proposals/* http://legacy.devopsdays.org/events/2016-vancouver/proposals/:splat     301!
 /presentations/2011-goteborg/* http://legacy.devopsdays.org/presentations/2011-goteborg/:splat     301!
 /presentations/2009-ghent/* http://legacy.devopsdays.org/presentations/2009-ghent/:splat     301!

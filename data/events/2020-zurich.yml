@@ -2,8 +2,9 @@ name: "2020-zurich" # The name of the event. Four digit year with the city name 
 year: "2020" # The year of the event. Make sure it is in quotes.
 city: "Zürich (Winterthur)" # The displayed city name of the event. Capitalize it.
 event_twitter: "DevOpsZH" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "Devopsdays is coming to Zürich!" # Edit this to suit your preferences
+description: "DevOpsDays is coming to Zürich!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+event_group: "Zürich"
 
 # All dates are in unquoted 2020-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2020-09-08T00:00:00+02:00
@@ -11,14 +12,15 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 # Note: we allow 2020-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
 startdate:  2020-09-08T00:00:00+02:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  2020-09-09T23:59:59+02:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  2020-09-09T23:59:59+02:00 # The end date of your event. Leave blank if you don't have a venue reserved yet. 
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start:  2019-11-18T00:00:00+02:00 # start accepting talk proposals.
+cfp_date_end:  2020-03-15T23:59:59+02:00 # close your call for proposals.
+cfp_date_announce: 2020-04-30T00:00:00+02:00 # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_open: "true"
+cfp_link: "https://sessionize.com/devopsdayszh-2020/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: # close registration. Leave blank if registration is not open yet.
@@ -34,8 +36,8 @@ location: "Alte Kaserne Winterthur" # Defaults to city, but you can make it the 
 location_address: "Technikumstrasse 8, 8400 Winterthur, Switzerland" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
- # - name: location
+  - name: propose
+  - name: location
  # - name: registration
  # - name: program
  # - name: speakers
@@ -85,37 +87,23 @@ team_members: # Name is the only required field for team members.
     facebook: ""
     linkedin: "https://www.linkedin.com/in/romanoroth/"
     image: "carsten-plum.jpg"
-  - name: "Selina Reist"
-    employer: "Federal Office of Information Technology"
-    bio: "<p>I am an enthusiast for everything visual:photography, movies and animations, pictograms, infofraphics, visual design, graphical recordings, UX-Design. I also like to combine these skills in crossfunctional teams to enable app development, transformation processes and last but not least communicate and teach DevOps practices in large federal organizations</p>"
-    image: "selina-reist.jpg"
-    name: "Lorena Dütsch"
-    employer: "Swisscom AG"
-    bio: "<p>I love to create visual design, UX & UI Design, infographics, pictograms and so on. With my creativity I will participate in marketing and social media for DevOpsDays 2020.</p>"
-    linkedin: "https://www.linkedin.com/in/lorenadütsch"
-    image: "lorena-duetsch.png"
   - name: "Tobias Weinmann"
     bio: "<p>Having worked as a developer, systems engineer and team lead in IT operations, the ideas and concepts behind DevOps are very close to my heart. As I am passionate about coding since my teenage years, I am fascinated by concepts like Infrastructure as Code, Social Coding, and cloud native technologies trying to get hands-on whenever possible. I enjoy lateral thinking and my basic premise is that we cannot solve our problems with the same thinking we used when we created them (Albert Einstein). In my current role I dedicate all my energy to introducing and spreading DevOps principles and practices in the broader organization.</p>"
     linkedin: "https://www.linkedin.com/in/tobias-weinmann"
     twitter: "Wankinobi75"
     github: "tweinmann"
     image: "tobias-weinmann.jpg"
+  - name: "Lorena Dütsch"
+    employer: "Swisscom AG"
+    bio: "<p>I love to create visual design, UX & UI Design, infographics, pictograms and so on. With my creativity I will participate in marketing and social media for DevOpsDays 2020.</p>"
+    linkedin: "https://www.linkedin.com/in/lorenadütsch"
+    image: "lorena-duetsch.png"
   - name: "Sebastian Zillessen"
     bio: "<p>I am a Senior Software Engineer. Since 2016 I am focusing on agile software development processes, clean code, infrastructure as code and DevOps specific development and release processes. My passion lies in Full stack enterprise application development which I approach with an entrepreneurial mindset.</p>"
     image: "sebastian-zillessen.jpeg"
     employer: "Zühlke"
     twitter: "sebzill"
     linkedin: "https://www.linkedin.com/in/sebastianzillessen/"
-  - name: "Noëmi Kruesi"
-    twitter: ""
-    employer: "Swisscom AG"
-    bio: "<p>It is a well-known fact that girls just wanna have fun. It is also known that companies that incorporate DevOps get more done. How do these two facts relate, you ask?</p>
-<p>Meet Noëmi Krüsi, a girl who gets stuff done. Her strengths and talents lie in design and administration. As a creative allrounder she will be assisting with the design and social media of the DevOpsDays 2018.</p>"
-    github: ""
-    facebook: ""
-    linkedin: "https://www.linkedin.com/in/noëmi-krüsi-992436127/"
-    website: ""
-    image: "noemi-krusi.jpg"
   - name: "Matías E. Fernández"
     twitter: "matiasfrndz"
     employer: "Swisscom AG"
@@ -127,6 +115,15 @@ Enabling organisations to achieve outstanding and sustainable results that excee
     linkedin: "https://www.linkedin.com/in/matiasfrndz/"
     website: "https://matiasfrndz.ch/"
     image: "matias-e-fernandez.jpg"
+  - name: "Vittorio Boccone"
+    twitter: "drbokko"
+    employer: "Dectris Ltd."
+    bio: "Vittorio grew up in the a world where hardware and software are in perfect equilibrium. At 8 he started customizing and modifying anything with an engine or a CPU. Curious about the nature of things he later became a detector and accelerator physicist. After 13 years at CERN, he's now often seen at Dectris happily developing Dectris X-ray detectors. He's comfortable with any lab equipment, programming language or particle accelerator."
+    github: "https://github.com/drbokko"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/vittorio-boccone-1998a94/"
+    website: ""
+    image: "vittorio-boccone.jpg"
   - name: "Tobias Brunner"
     twitter: "tobruzh"
     employer: "VSHN AG"
@@ -139,15 +136,29 @@ Enabling organisations to achieve outstanding and sustainable results that excee
   - name: "Julia Faust"
     bio: "<p>Julia loves to communicate and to bring people and solutions together. As a Financial Controller for the IT development department of a Swiss Telco, she accompanies the transformation into an agile setup from the beginning.</p><p>DevOps principles such as \"build it, run it\", autonomy of the team, as well as short and reasonable planning processes motivate her a lot. Julia is thrilled by discussing the basic ideas and causes of agility and to inspire others.</p>"
     image: "julia-faust.jpg"
-  - name: "Vittorio Boccone"
-    twitter: "drbokko"
-    employer: "Dectris Ltd."
-    bio: "Vittorio grew up in the a world where hardware and software are in perfect equilibrium. At 8 he started customizing and modifying anything with an engine or a CPU. Curious about the nature of things he later became a detector and accelerator physicist. After 13 years at CERN, he's now often seen at Dectris happily developing Dectris X-ray detectors. He's comfortable with any lab equipment, programming language or particle accelerator."
-    github: "https://github.com/drbokko"
+  - name: "David Kilchenmann"
+    twitter: "@DKilchenmann"
+    employer: "Puzzle"
+    bio: TBD
+    github: ""
     facebook: ""
-    linkedin: "https://www.linkedin.com/in/vittorio-boccone-1998a94/"
+    linkedin: "https://www.linkedin.com/in/david-kilchenmann-004aaa68/"
     website: ""
-    image: "vittorio-boccone.jpg"
+    image: "david-kilchenmann.jpeg"
+  - name: "Selina Reist"
+    employer: "Federal Office of Information Technology"
+    bio: "<p>I am an enthusiast for everything visual:photography, movies and animations, pictograms, infofraphics, visual design, graphical recordings, UX-Design. I also like to combine these skills in crossfunctional teams to enable app development, transformation processes and last but not least communicate and teach DevOps practices in large federal organizations</p>"
+    image: "selina-reist.jpg"
+  - name: "Noëmi Kruesi"
+    twitter: ""
+    employer: "Swisscom AG"
+    bio: "<p>It is a well-known fact that girls just wanna have fun. It is also known that companies that incorporate DevOps get more done. How do these two facts relate, you ask?</p>
+<p>Meet Noëmi Krüsi, a girl who gets stuff done. Her strengths and talents lie in design and administration. As a creative allrounder she will be assisting with the design and social media of the DevOpsDays 2018.</p>"
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/noëmi-krüsi-992436127/"
+    website: ""
+    image: "noemi-krusi.jpg"
 organizer_email: "zurich@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.

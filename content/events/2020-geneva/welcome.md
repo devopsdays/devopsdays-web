@@ -85,7 +85,7 @@ DevOpsDays Geneva speakers and sponsors will present not only practical applicat
     <a href='/events/2020-geneva/registration/'>Register here !</a>
   </div>
 </div>
-
+<!-- 
 <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
@@ -94,7 +94,7 @@ DevOpsDays Geneva speakers and sponsors will present not only practical applicat
     <a href='/events/2020-geneva/propose/'>Submit a proposal</a>
   </div>
 </div>
-
+-->
 <div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
