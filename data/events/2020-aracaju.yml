@@ -18,9 +18,9 @@ cfp_date_start: 2019-11-25T00:00:00-03:00 # start accepting talk proposals.
 cfp_date_end: 2020-03-20T23:59:59-03:00 # close your call for proposals.
 cfp_date_announce: 2019-03-25T23:59:59-03:00 # inform proposers of status
 
-cfp_open: "false"
-# https://www.papercall.io/devopsdays-austin-2019
-cfp_link: "https://www.papercall.io/devopsday-aracaju-2020" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_open: "true"
+#cfp_link: "https://www.papercall.io/devopsday-aracaju-2020" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://cfp.devopsdays.com.br/aju2020/"
 
 registration_date_start: 2020-01-05T00:00:00-03:00 # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: 2020-04-25T23:59:59-03:00 # close registration. Leave blank if registration is not open yet.
@@ -35,15 +35,34 @@ location: "UNIT - Campus Farolândia" # Defaults to city, but you can make it th
 location_address: "Av. Murilo Dantas, 300 - Farolândia, Aracaju/SE" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: location
+#  - name: location
+  - name: Palestre (CFP)
+    icon: "user-plus"
+    url: "https://cfp.devopsdays.com.br/aju2020/"
+  - name: Ingressos
+    icon: "user-plus"
+    url: "https://devopsdaysaracaju.eventize.com.br/"
+  - name: Local
+    icon: "map-o"
+    url: /events/2020-aracaju/location
+  - name: Patrocinio
+    icon: "money"
+    url: /events/2020-aracaju/sponsor
+  - name: Contato
+    icon: "envelope-o"
+    url: /events/2020-aracaju/contact
+  - name: Conduta
+    icon: "handshake-o"
+    url: /events/2020-aracaju/condut
  # - name: schedule
  # - name: registration
  # - name: program
  # - name: speakers
  # - name: sponsor
-  - name: contact
-  - name: conduct
- # - name: propose
+#  - name: contact
+#  - name: conduct
+#  - name: propose
+
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
