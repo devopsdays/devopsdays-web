@@ -83,6 +83,7 @@ team_members: # Name is the only required field for team members.
   - name: "Carsten Plum"
     bio: "<p>I am passionate about everything agile and human centered. Having started my career in an old school waterfall environment more than 20 years ago as a software engineer and project manager, I am now happy to enable teams and large organisations to establish agile methods and DevOps. I specifically like the combination (and challenges) of technical and cultural aspects.</p>"
     Website: https://www.xing.com/profile/Carsten_Plum2/
+    employer: "Federal Office of Information Technology"
     github: ""
     facebook: ""
     linkedin: "https://www.linkedin.com/in/romanoroth/"
@@ -138,8 +139,8 @@ Enabling organisations to achieve outstanding and sustainable results that excee
     image: "julia-faust.jpg"
   - name: "David Kilchenmann"
     twitter: "@DKilchenmann"
-    employer: "Puzzle"
-    bio: TBD
+    employer: "Puzzle ITC"
+    bio: "<p>David is Key Account Manager at Puzzle ITC, an open-source IT company based in Bern, Zurich, Basel & Tübingen(DE). He loves how container technologies changed the way software is developed and run, but still sees a lot of potential within other organizations to adopt a DevOps mindset. At Puzzle he is working in the account  management and assists the product development of several open source solutions like Hitobito, APPUiO, PuzzleTime & Liima.  Before Puzzle he was leading the Swisscom Software Day for two iterations and promoting the Swisscom software culture within the company.</p>"
     github: ""
     facebook: ""
     linkedin: "https://www.linkedin.com/in/david-kilchenmann-004aaa68/"
