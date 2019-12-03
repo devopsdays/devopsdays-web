@@ -51,16 +51,16 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 
 team_members: # Name is the only required field for team members.
-  - name: "Adam Kozłowski"
-  - name: "Jacek Suchenia"
   - name: "Jakub Barć"
+  - name: "Piotr Godowski"
   - name: "Konrad Gądek"
+  - name: "Adam Kozłowski"
   - name: "Marcin Lewandowski"
   - name: "Michał Różycki"
-  - name: "Paulina Wędrychowska"
-  - name: "Piotr Godowski"
-  - name: "Sylwia Zając"
+  - name: "Jacek Suchenia"
   - name: "Tomasz Szymański"
+  - name: "Paulina Wędrychowska"
+  - name: "Sylwia Zając"
 
 organizer_email: "krakow@devopsdays.org" # Put your organizer email address here
 
