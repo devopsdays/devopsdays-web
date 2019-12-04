@@ -122,15 +122,3 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
-for a specific level, it is best to remove the level.
-sponsor_levels:
-  - id: gold
-    label: Gold
-#    max: 10
-  - id: silver
-    label: Silver
-    max: 0 # This is the same as omitting the max limit.
-  - id: bronze
-    label: Bronze
-  - id: community
-    label: Community
