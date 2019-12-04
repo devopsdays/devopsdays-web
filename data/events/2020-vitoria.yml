@@ -132,15 +132,6 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/jvrmaia/"
     website: ""
     image: "joaomaia.jpg"
-#  - name: "Léo Hackin"
-#    twitter: ""
-#    employer: "Chief Visionary Officer"
-#    bio: ""
-#    github: "leohackin"
-#    facebook: ""
-#    linkedin: "https://www.linkedin.com/in/leohackin/"
-#    website: ""
-#    image: "hackin.png"
 
 
 organizer_email: "vitoria@devopsdays.org" # Put your organizer email address here
