@@ -154,9 +154,9 @@ sponsors:
   - id: viprede
     level: platinum
     url: http://viprede.com.br/
-#  - id: globalsys
-#    level: platinum
-#    url: http://www.globalsys.com.br/
+  - id: globalsys
+    level: platinum
+    url: http://www.globalsys.com.br/
 #  - id: picpay
 #    level: platinum
 #    url: https://www.picpay.com/
