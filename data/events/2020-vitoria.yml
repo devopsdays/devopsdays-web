@@ -132,15 +132,6 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/jvrmaia/"
     website: ""
     image: "joaomaia.jpg"
-  - name: "Léo Hackin"
-    twitter: ""
-    employer: "Chief Visionary Officer"
-    bio: ""
-    github: "leohackin"
-    facebook: ""
-    linkedin: "https://www.linkedin.com/in/leohackin/"
-    website: ""
-    image: "hackin.png"
 
 
 organizer_email: "vitoria@devopsdays.org" # Put your organizer email address here
@@ -163,12 +154,21 @@ sponsors:
   - id: viprede
     level: platinum
     url: http://viprede.com.br/
+#  - id: globalsys
+#    level: platinum
+#    url: http://www.globalsys.com.br/
+#  - id: picpay
+#    level: platinum
+#    url: https://www.picpay.com/
   - id: aws
     level: silver
     url: https://aws.amazon.com/
   - id: inflor
     level: silver
     url: https://www.inflor.com.br/
+#  - id: liftbank
+#    level: silver
+#    url: https://liftbank.com.br/
 #  - id: moveissimonetti
 #    level: community
 #  - id: pag
