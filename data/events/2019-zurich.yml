@@ -2,6 +2,7 @@ name: "2019-zurich" # The name of the event. Four digit year with the city name 
 year: "2019" # The year of the event. Make sure it is in quotes.
 city: "Zürich" # The city name of the event. Capitalize it.
 event_twitter: "DevOpsZH"
+event_group: "Zürich"
 
 # All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00
@@ -16,7 +17,7 @@ cfp_date_start: 2018-10-11T00:00:00+02:00 # start accepting talk proposals.
 cfp_date_end: 2019-01-10T23:59:59+01:00 # close your call for proposals.
 cfp_date_announce: 2019-03-01T23:59:59+01:00 # inform proposers of status
 cfp_link: https://cfp.devopsdays.ch
-registration_open: "true"
+registration_open: "false"
 
 # Location
 #
@@ -30,8 +31,6 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: program
   - name: location
   - name: registration
-  - name: propose
-    url: https://cfp.devopsdays.ch
   - name: sponsor
   - name: contact
   - name: conduct
@@ -170,7 +169,7 @@ sponsors:
   level: community
 - id: swiss-perl-workshop
   level: community
-- id: vshn
+- id: appuio
   level: platinum
 - id: swiss-re
   level: gold
@@ -206,6 +205,8 @@ sponsors:
   level: bronze
 - id: cloudbees
   level: silver
+- id: applause
+  level: gold
 sponsors_accepted : "true" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
 - id: platinum
@@ -306,7 +307,7 @@ program:
     type: custom
     date: 2019-05-14
     start_time: "17:30"
-    end_time: "opes end"
+    end_time: "21:00"
     comments: "The evening event will take place at the conference location."
   - title: "Registration & Welcome Coffe"
     type: custom

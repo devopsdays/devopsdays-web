@@ -87,7 +87,7 @@ proposal_email: "proposals-cuba-2016@devopsdays.org" # Put your proposal email a
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: vliruos 
+  - id: vliruos
     level: gold
   - id: belgiandevcorp
     level: gold
@@ -95,9 +95,9 @@ sponsors:
     level: gold
   - id: vlired
     level: gold
-  - id: kartar 
+  - id: kartar
     level: honorary
-  - id: oreilly
+  - id: oreilly-before-20190725
     level: honorary
   - id: itrevolution
     level: honorary
@@ -105,7 +105,7 @@ sponsors:
     level: honorary
   - id: seekatv
     level: honorary
-  - id: docker
+  - id: docker-before-20190926
     level: honorary
   - id: gitlab
     level: honorary
@@ -392,4 +392,3 @@ ignites:
     date: 2016-10-21
   - title: "ignite-yadier"
     date: 2016-10-21
-

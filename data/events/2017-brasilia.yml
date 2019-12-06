@@ -75,9 +75,9 @@ sponsors:
     level: platinum
   - id: samplesponsorname
     level: gold
-  - id: rancher
+  - id: rancher-before-20190812
     level: gold
-  - id: redhat
+  - id: redhat-before-20190528
     level: gold
   - id: microsoft
     level: gold

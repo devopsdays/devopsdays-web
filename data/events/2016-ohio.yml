@@ -44,7 +44,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: chef
     level: gold
-  - id: redhat
+  - id: redhat-before-20190528
     level: gold
   - id: ahead
     level: gold

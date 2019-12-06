@@ -4,20 +4,21 @@ Description = ""
 Tags = []
 Date = "2016-05-03T13:04:25-05:00"
 Title = "Sponsor devopsdays"
+type = "sponsor"
 
 +++
 
-Devopsdays is a community-organized not-for-profit conference series for practitioners. It began in Ghent, Belgium with one conference in 2009, and has grown to more than 40 events worldwide in 2016.
+Devopsdays is a community-organized not-for-profit conference series for practitioners. It began in Ghent, Belgium with one conference in 2009, and has grown to more than 73 events worldwide in 2019.
 
 Sponsoring devopsdays conferences gives your organization an opportunity to speak with practitioners, managers, and executives from companies of all sizes and industries. Whether your goals include recruiting new talent, opening new markets, or connecting with your existing customers, this event will be the place to have those conversations with experts and leaders in tech innovation.
 
 
-**Code of Conduct**
+## Code of Conduct
 
 All devopsdays events have a code of conduct and require sponsors to follow it. This applies to giveaways, items and images at your table, behavior of your staff, etc. See the specific city's site for the details of their code of conduct.
 
 
-**How to sponsor**
+## How to sponsor
 
 All devopsdays events are independently organized. No multi-city sponsorships are available; when you decide which cities to sponsor, you need to contact each city's organizing team individually.
 
@@ -28,7 +29,7 @@ The vast majority of events do not have a legal tax-deductible status. Most spon
 No sponsors will be listed on the website or receive any other sponsorship benefits until the sponsorship fees are paid in full.
 
 
-**Staffing & participation onsite**
+## Staffing & participation onsite
 
 Most sponsorship packages include a number of conference tickets for you to send employees. If you're sponsoring at a level which comes with a table presence, you'll need to line up people to staff it. Since traffic at the table is minimal during the single track of talks in the morning, they can attend the talks and then take turns staffing the table versus attending participatory breakout sessions in the afternoon.
 
@@ -43,7 +44,7 @@ Demos at your table are one good way to show off your org. It's usually possible
 You don't need to ship your own booth or tables; devopsdays will provide table and chairs corresponding to your sponsorship level. You'll likely want to ship a table cloth, banner/background, giveaways, etc.
 
 
-**Speaking & Attendee contact info**
+## Speaking & Attendee contact info
 
 Devopsdays does not sell conference speaking slots; sponsors' employees are welcome to submit talk proposals in the same call for proposals as anyone else. The talks are usually videorecorded and freely available online after the fact, and occasionally livestreamed, which is a great takeaway for the speakers and their orgs. Most events have an opportunity for sponsors to make a short elevator pitch for their services (generally in the order of a minute or two); this makes it to the livestream but usually not into the edited recordings.
 
@@ -52,8 +53,13 @@ Devopsdays does not ever distribute attendee contact information. Do not expect 
 If you want to collect leads, you'll have to talk directly with individuals and request their contact info. Vendors also often raffle off prizes ranging from large Lego sets to tablets and other desirable items, collecting contact info in the process.
 
 
-**When will a devopsdays conference happen in some specific place?**
+## When will a devopsdays conference happen in some specific place?
 
 New cities start a devopsdays event each year, and some cities run regularly. When planning out your sponsorship budget for the year, it's a good idea to assume that at least one or two must-sponsor devopsdays will crop up after you've already starting reaching out and sponsoring the early announcers.
 
 If one hasn't happened near you, and you wish it would, you can always look into [running your own event](/pages/organizing)!
+
+## Which events have sponsorship opportunities available right now?
+
+These upcoming events are advertising that sponsorships are accepted. Check their pages for a prospectus. (This list may be incomplete/inaccurate, as not every event may have updated their details.)
+

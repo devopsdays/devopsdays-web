@@ -15,10 +15,10 @@ enddate:  2019-07-09T23:59:59-04:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  2019-04-01T00:00:00-04:00
-cfp_date_end:  2019-05-01T23:59:59-04:00
+cfp_date_end:  2019-05-04T23:59:59-04:00
 cfp_date_announce:  2019-05-15T23:59:59-04:00
 
-cfp_open: "true"
+cfp_open: "false"
 cfp_link: "https://devopsdaysdc2019.busyconf.com/proposals/new"
 
 registration_date_start: 2019-04-01T00:00:00-04:00
@@ -34,11 +34,9 @@ location: "Ronald Reagan Building and International Trade Center, Washington, D.
 location_address: "1300 Pennsylvania Ave NW, Washington, D.C. 20004"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
   - name: location
-  - name: registration
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -82,23 +80,24 @@ team_members: # Name is the only required field for team members.
     linkedin: ""
 
   - name: "Trevor Bryant"
+    image: "trevor-bryant.jpg"
     employer: "Epigen Technology"
     twitter: "apporima"
     bio: "I'm a Senior Information Security Architect specializing in the Risk Management Framework. I work with technology executives to ensure security practices are usable through cost-effective risk-based actions. I believe in not just modernizing, but delivering secured services."
     github: "https://github.com/trevorbryant"
     facebook: ""
-    website: "https://keybase.io/trevorbryant"
+    website: "apporima.com"
     linkedin: "https://www.linkedin.com/in/bryanttn/"
 
-  - name: "Sue Chand"
-    employer: ""
-    twitter: ""
-    bio: ""
-    image: ""
-    github: ""
+  - name: "Peter Burkholder"
+    employer: "18F"
+    twitter: "@pburkholder"
+    bio: "Geophysicist turned DevOps"
+    image: "peter-burkholder.jpg"
+    github: "https://github.com/pburkholder"
     facebook: ""
+    linkedin: "https://www.linkedin.com/in/pburkholder/"
     website: ""
-    linkedin: ""
 
   - name: "Derek Daczewitz"
     employer: "Spaceflight Industries"
@@ -189,26 +188,17 @@ team_members: # Name is the only required field for team members.
 
   - name: "Chuck Mountz"
     employer: "Comcast"
-    twitter: ""
-    bio: ""
+    twitter: "mountzcjr"
+    bio: "Chuck is a Sr Manager of Product Engineering at Comcast. He leads a platform services team focused on delivering services and tools to help accelerate delivery for the greater Network Services Engineering organization. Chuck is passionate about people. Specifically organizational culture, developing talent, fostering partnerships, and building enterprise-wide communities. He co-founded, along with Holly Bazemore, the internal Comcast DevOps events at Comcast. Chuck is proud that these events have brought together over 900 employees in one of the largest tech communities at Comcast. He is delighted that over 40 employees have had the opportunity to refine their communication skills by presenting at these events."
     image: ""
     github: ""
     facebook: ""
-    linkedin: ""
+    linkedin: "https://www.linkedin.com/in/chuckmountzjr/"
     website: ""
 
   - name: "Ramez Mourad"
     employer: "Cvent"
     twitter: "ramezjm"
-    bio: ""
-    github: ""
-    facebook: ""
-    website: ""
-    linkedin: ""
-
-  - name: "Jake Vanderdray"
-    employer: "Cvent"
-    twitter: ""
     bio: ""
     github: ""
     facebook: ""
@@ -247,12 +237,21 @@ team_members: # Name is the only required field for team members.
   - name: "Robert Treat"
     employer: "credativ"
     twitter: "robtreat2"
-    bio: ""
+    bio: "Having spent his early years building data-intensive, real-time systems within the Fortune 500, Robert now runs U.S. operations for credativ, a technical services firm providing open source based web application development and infrastructure management. Author and speaker at conferences worldwide, Robert is a recognized industry expert on topics including databases, DevOps, and Open Source. He occasionally blogs at https://xzilla.net."
     image: "robert-treat.jpg"
     github: "xzilla"
     facebook: ""
     linkedin: "https://www.linkedin.com/in/robtreat/"
     website: "https://www.linkedin.com/company/credativ-llc/"
+
+  - name: "Jake Vanderdray"
+    employer: "Cvent"
+    twitter: ""
+    bio: ""
+    github: ""
+    facebook: ""
+    website: ""
+    linkedin: ""
 
   - name: "Shawn Wells"
     employer: "Red Hat"
@@ -264,38 +263,33 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/shawndwells/"
     website: "https://medium.com/shawndwells"
 
-  - name: "Peter Burkholder"
-    employer: "18F"
-    twitter: "@pburkholder"
-    bio: "Geophysicist turned DevOps"
-    image: "peter-burkholder.jpg"
-    github: "https://github.com/pburkholder"
-    facebook: ""
-    linkedin: "https://www.linkedin.com/in/pburkholder/"
+  - name: "Dayton Williams"
+    employer: "GovReady PBC"
+    twitter: ""
+    bio: ""
+    image: "dayton-williams.jpg"
+    github: ""
+    linkedin: "https://www.linkedin.com/in/dayton-williams/"
     website: ""
+    facebook: ""
 
 organizer_email: "organizers-washington-dc-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "organizers-washington-dc-2019@devopsdays.org" # Put your proposal email address here
 
-# List all of your sponsors here along with what level of sponsorship they have.
-# Check data/sponsors/ to use sponsors already added by others.
-sponsors:
-  - id: arresteddevops
-    level: community
+# Sponsoring!
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsor_link: "https://devopsdaysdc2019.busyconf.com/bookings/new?discount=SPONSOR"
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: happyhour
-    label: Happy Hour
-  - id: captioning
-    label: Live Caption
   - id: platinum
     label: Platinum
+  - id: captioning
+    label: Live Caption
   - id: gold
     label: Gold
   - id: silver
@@ -305,6 +299,8 @@ sponsor_levels:
   - id: media
     label: Media
 
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
 sponsors:
   - id: pyramid-systems
     level: platinum
@@ -313,16 +309,225 @@ sponsors:
   - id: redhatgov
     level: platinum
     url: "https://go.redhat.com/public-sector?sc_cid=701f2000001OIyfAAG"
-  - id: dlt
+  - id: checkmarx
     level: platinum
   - id: chef
     level: platinum
     url: "https://chef.io/?utm_source=doddc"
+  - id: stsi
+    level: platinum
+  - id: validatek
+    level: platinum
+  - id: onyx-point
+    level: platinum
+  - id: cloudbees
+    level: platinum
+  - id: palantir
+    level: platinum
+  - id: googlecloud
+    level: platinum
+  - id: signalfx
+    level: platinum
+  - id: split-software
+    level: platinum
+  - id: capitalone
+    level: platinum
+  - id: appdynamics
+    level: platinum
   - id: circleci
     level: gold
+  - id: govready
+    level: captioning
+  - id: dynatrace
+    level: gold
+  - id: sts
+    level: gold
+  - id: gitlab
+    level: gold
+    url: "https://about.gitlab.com/"
+  - id: newrelic
+    level: gold
+  - id: collabnet-versionone
+    level: gold
+  - id: comcast
+    level: silver
   - id: devopsdc-meetup
+    level: community
+  - id: black-code-collective
+    level: community
+  - id: womenwhocodedc
+    level: community
+  - id: techwell
     level: community
   - id: arresteddevops
     level: media
   - id: foodfight
     level: media
+  - id: cybersecurity-magazine
+    level: media
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2019-07-08T00:00:00-04:00
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2019-07-08T00:00:00-04:00
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "john-allspaw"
+    type: talk
+    date: 2019-07-08T00:00:00-04:00
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-07-08T00:00:00-04:00
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "emmanuel-apau"
+    type: talk
+    date: 2019-07-08T00:00:00-04:00
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2019-07-08T00:00:00-04:00
+    start_time: "10:25"
+    end_time: "10:40"
+  - title: "laurie-barth"
+    type: talk
+    date: 2019-07-08T00:00:00-04:00
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-07-08T00:00:00-04:00
+    start_time: "11:10"
+    end_time: "11:20"
+  - title: "latha-nagaraj"
+    type: talk
+    date: 2019-07-08T00:00:00-04:00
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Lunch"
+    type: custom
+    date: 2019-07-08T00:00:00-04:00
+    start_time: "11:50"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: custom
+    date: 2019-07-08T00:00:00-04:00
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2019-07-08T00:00:00-04:00
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space #1"
+    type: custom
+    date: 2019-07-08T00:00:00-04:00
+    start_time: "14:00"
+    end_time: "14:45"
+  - title: "Open Space #2"
+    type: custom
+    date: 2019-07-08T00:00:00-04:00
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "Open Space #3"
+    type: custom
+    date: 2019-07-08T00:00:00-04:00
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Close Day"
+    type: custom
+    date: 2019-07-08T00:00:00-04:00
+    start_time: "16:45"
+    end_time: "17:00"
+  - title: "Evening event"
+    type: custom
+    date: 2019-07-08T00:00:00-04:00
+    start_time: "19:00"
+    end_time: "late"
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2019-07-09T23:59:59-04:00
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2019-07-09T23:59:59-04:00
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "martin-folkoff"
+    type: talk
+    date: 2019-07-09T23:59:59-04:00
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-07-09T23:59:59-04:00
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "jameson-hampton"
+    type: talk
+    date: 2019-07-09T23:59:59-04:00
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2019-07-09T23:59:59-04:00
+    start_time: "10:25"
+    end_time: "10:40"
+  - title: "gaurav-pal"
+    type: talk
+    date: 2019-07-09T23:59:59-04:00
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-07-09T23:59:59-04:00
+    start_time: "11:10"
+    end_time: "11:20"
+  - title: "marianne-bellotti"
+    type: talk
+    date: 2019-07-09T23:59:59-04:00
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Lunch"
+    type: custom
+    date: 2019-07-09T23:59:59-04:00
+    start_time: "11:50"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: custom
+    date: 2019-07-09T23:59:59-04:00
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2019-07-09T23:59:59-04:00
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space #1"
+    type: custom
+    date: 2019-07-09T23:59:59-04:00
+    start_time: "14:00"
+    end_time: "14:45"
+  - title: "Open Space #2"
+    type: custom
+    date: 2019-07-09T23:59:59-04:00
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "Open Space #3"
+    type: custom
+    date: 2019-07-09T23:59:59-04:00
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Closing"
+    type: custom
+    date: 2019-07-09T23:59:59-04:00
+    start_time: "16:45"
+    end_time: "17:00"

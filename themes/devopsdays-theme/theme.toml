@@ -2,15 +2,15 @@
 # See https://github.com/spf13/hugoThemes#themetoml for an example
 
 name = "devopsdays Theme"
-license = "MIT"
-licenselink = "https://github.com/devopsdays/devopsdays-theme/blob/master/LICENSE.md"
-description = ""
-homepage = "https://github.com/devopsdays/devopsdays-theme/"
+license = "Apache2"
+licenselink = "https://github.com/devopsdays/devopsdays-web/blob/master/LICENSE.md"
+description = "Theme for devopsdays.org"
+homepage = "https://github.com/devopsdays/devopsdays-web/"
 tags = ["", ""]
 features = ["", ""]
-min_version = 0.18
+min_version = "0.57.1"
 theme_version = "1.28.0"
 
 [author]
   name = "Matt Stratton"
-  homepage = "https://www.mattstratton.io"
+  homepage = "https://www.mattstratton.com"

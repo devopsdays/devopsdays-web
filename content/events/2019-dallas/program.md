@@ -2,25 +2,26 @@
 Title = "Program"
 Type = "program"
 Description = "Program for devopsdays Dallas 2019" 
+icons = "true"
 +++
-<img alt="Work In Progress" src="/events/2019-dallas/wip.gif" style="max-width: 15%;">
+<!--- <img alt="Work In Progress" src="/events/2019-dallas/wip.gif" style="max-width: 15%;">
 <div class = "row">
   <div class = "col">
-    <hr />
+    <hr /> -->
 <h5>If Open Space is new to you, you may be interested in <a href="/pages/open-space-format">more details about Open Space</a>.<br>
 <p><p>
-Our <img alt="DoDDFW Slack" src="/events/2019-dallas/slack.png" style="max-width: 100%;"><strong>Slack</strong> team is:<strong> <a href="https://doddfw.slack.com/">doddfw.slack.com</a></strong>.  Click <strong><a href="https://join.slack.com/t/doddfw/shared_invite/enQtNDE0MDkzODE5MDU4LTUwNWFkYTBmNTE2MDIxZWNmN2IwNTBmNjFmZjk3ZjdlZGI2MTk4ZWZkMThkZDkxMzQ2NzNiYjY1YjlmZjZiM2Q">here</a></strong> to join.<br>
+Our <img alt="DoDDFW Slack" src="/events/2019-dallas/slack.png" style="max-width: 100%;"><strong>Slack</strong> team is:<strong> <a href="https://doddfw.slack.com/">doddfw.slack.com</a></strong>.  Click <strong><a href="https://join.slack.com/t/doddfw/shared_invite/enQtNDE0MDkzODE5MDU4LTRmOTRiMjc2YTdlZmU2OTZmZDhmNzFlNWVlMmQyNDIwYTE5Y2JiMDg0OWVlYmM4YmJkMTc4N2I1NjFkZjdkMDY">here</a></strong> to join.<br>
 Click <strong><a href="https://www.youtube.com/c/DevOpsDaysDFW/playlists"> here</a></strong> to see the<a href="https://www.youtube.com/c/DevOpsDaysDFW/playlists"><img alt="DoDDFW YouTube Playlists" src="/events/2019-dallas/youtube.png" style="max-width: 50%;">YouTube</a> video playlists for DevOpsDays DFW.<br>
 <!-- B4CON Photo Gallery - click <strong><a href="https://photos.app.goo.gl/2jXp7dpkvmnQjUad9">here</a></strong> to see pictures.<br>
 Leadership Summit Photo Gallery - click <strong><a href="https://photos.app.goo.gl/V4yBoeq9aaHD1okG7">here</a></strong> to see pictures.<br> -->
-DevOpsDays DFW Photo Gallery - click <strong><a href="https://photos.app.goo.gl/vvG5EDPyFkrq7ESK6">here</a></strong> to see pictures.</h5><hr />
+DevOpsDays DFW Photo Gallery - click <strong><a href="https://photos.app.goo.gl/NXxho6hTobdegQhNA">here</a></strong> to see pictures.</h5><hr />
   </div>
 </div>
 <div>
 <b>Color Keys:</b>
-<div class="col-lg-4 col-md-3 program-element program-talk">Talk</div>
-<div class="col-lg-4 col-md-3 program-element program-ignite">Ignite</div>
-<div class="col-lg-4 col-md-3 program-element program-open-space">Open Space</div>
+<div class="col-lg-2 col-md-3 program-element program-talk">Talk</div>
+<div class="col-lg-2 col-md-3 program-element program-ignite">Ignite</div>
+<div class="col-lg-2 col-md-3 program-element program-open-space">Open Space</div>
 <!-- <div class="col-lg-4 col-md-3 program-element program-workshop">Workshop<br>(Leadership Summit - <strong>Nominations Only</strong>)</div> -->
 <br />
 <!-- <h3><b>NOTE:</b> <strong><a href="/events/2018-dallas/b4con/">B4CON</a></strong> is on Aug 29th, 2018 from 3:00pm - 7:30pm and will be hosted at the:<br> 

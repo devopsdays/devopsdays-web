@@ -5,9 +5,9 @@ aliases = ["/events/2019-washington-dc/"]
 Description = "DevOpsDays Washington, DC 2019"
 +++
 
-<!-- <div style="text-align:center;">
-  {{< event_logo >}}
-</div> -->
+<div style="text-align:right; float:right; padding-left:20px;">
+  <img src="/events/2019-washington-dc/logo.png" width="140px;" height="140px;" />
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -38,21 +38,12 @@ Description = "DevOpsDays Washington, DC 2019"
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Propose</strong>
-  </div>
-  <div class = "col-md-8">
-    <a href="https://devopsdaysdc2019.busyconf.com/proposals/new">Share your story, propose a talk!</a>
-  </div>
-</div>
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
-    View the {{< event_link page="program" text="program." >}}
+    <a href="https://devopsdaysdc2019.busyconf.com/schedule">View the program</a>.
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -118,16 +109,32 @@ Description = "DevOpsDays Washington, DC 2019"
   </ul>
 
   <p>
-    DevOpsDays are a mix of keynote sessions and
+    DevOpsDays are a mix of <a href="https://devopsdaysdc2019.busyconf.com/schedule">keynote sessions</a> and
     <a href="http://en.wikipedia.org/wiki/Open_Space_Technology"
     target="_wikipedia">open spaces</a>.
   </p>
 
+  <h2>Who has attended?</h2>
+
+  <p>
+  This is the fifth year for DevOpsDays DC.  You may be wondering who typically attends.  We see a mix of public- (~25%) and private- (~75%) sector professionals.
+  </p>
+
+  <p>
+    <span style="text-align:left; padding-right:10px;">
+      Job titles include:
+      <a href="/events/2019-washington-dc/devopsdaysdc-titles.png" target="_blank"><img src="/events/2019-washington-dc/devopsdaysdc-titles.png" width="300px;" height="371px;" /></a>
+    </span>
+    <span style="text-align:right; padding-left:10px;">
+      Companies include:
+      <a href="/events/2019-washington-dc/devopsdaysdc-companies.png" target="_blank"><img src="/events/2019-washington-dc/devopsdaysdc-companies.png" width="300px;" height="371px;" /></a>
+    </span>
+  </p> 
+
   <h2>About Washington, DC</h2>
 
   <p>
-    If all you know of Washington, DC is what you see on C-SPAN or <em>House
-    of Cards</em>, you are missing out. While its importance as the Nation's
+    If all you know of Washington, DC is what you see on C-SPAN or the news, you are missing out. While its importance as the Nation's
     Capital and center of government is undisputed, the "DMV" (District,
     Maryland, and Virginia) is also home to innovative startups, leading
     universities, and world-class arts and culture.

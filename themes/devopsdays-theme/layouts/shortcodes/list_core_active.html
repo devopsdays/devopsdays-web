@@ -1,0 +1,11 @@
+<em>Active</em><br>
+{{- $len := (len $.Site.Data.core.active) -}}
+{{- range $index, $organizer := $.Site.Data.core.active -}}
+  {{- if ne (add $index 1) $len -}}
+    {{ $organizer }},&nbsp;
+  {{- else -}}
+    {{ $organizer }}
+  {{- end -}}
+{{- end -}}
+<br>
+<br>
