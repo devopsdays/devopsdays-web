@@ -7,8 +7,8 @@ DevOpsDays is a self-organizing conference for DevOps practitioners that depends
 Sponsors have the opportunity to have short elevator pitches during the program and get recognition on this website and via social media before and during the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. We recommend sending practitioners to interact with their peers on their own terms.
 All attendees are welcome to propose any subject they want during the Open Space sessions. All attendees have the opportunity to suggest a product or project demonstration as part of an Open Space session, including sponsor attendees. Keep in mind: DevOpsDays Baltimore is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
 
-## [Become A Sponsor For DevOpsDays 2020 Now!](https://forms.gle/WxDtvfcauc1ew9999)
-Have questions about sponsoring or about your organization's sponsorship? Check out our [sponsor FAQ](https://docs.google.com/document/d/1O7SJsQJ5wRxVFgsN1hkA7M-3gD3IyeFOJdvsHsRx7Lo/edit?usp=sharing).
+## {{< event_link url-key="sponsor_faq_link" text="Become A Sponsor For DevOpsDays 2020 Now!" >}}
+Have questions about sponsoring or about your organization's sponsorship? Check out our {{< event_link url-key="sponsor_faq_link" text="sponsor FAQ" >}}.
 The following chart outlines our sponsorship packages at a high level, which are further detailed below. Iif you are interested in sponsoring and have a new idea of how you can contribute to the conference, email the organizers and we’re happy to consider your request!
 <style>
   table.sponsorship            { border-collapse: collapse; }
