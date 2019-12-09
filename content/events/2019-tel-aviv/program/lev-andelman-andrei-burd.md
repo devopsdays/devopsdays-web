@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Zen and the art of multi-cloud maintenance (Terraform, Consul, Vault and Nomad)"
 Type = "talk"
-Speakers = ["lev-andelman-andrei-burd"]
+Speakers = ["lev-andelman","andrei-burd"]
 +++
 
 The goal of this master class is to show how it's possible to get consistent workflow for any applications on any platform, and through this making your R&D life easier.
