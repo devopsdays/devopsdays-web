@@ -1,7 +1,7 @@
 +++
 Title = "Eran Harel"
 Twitter = "eran_ha"
-image = ""
+image = "eran-harel.jpeg"
 type = "speaker"
 linktitle = "eran-harel"
 +++

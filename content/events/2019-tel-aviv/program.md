@@ -168,7 +168,7 @@ heading = "devopsdays Tel Aviv - Program"
     Ignites: <br/>
     <a href="/events/2019-tel-aviv/program/gil-zellner">Why you should start public speaking and why ignites are the right place to start | <strong>Gil Zellner</strong></a><br/>
     <a href="/events/2019-tel-aviv/program/philip-krenn-ignite">YAML Considered Harmful | <strong>Philip Krenn</strong> </a><br/>
-    How Does Data Science Revolutionize the World of Machines  <strong>Victoriya Kalmanovich | </strong><br/>
+    How Does Data Science Revolutionize the World of Machines | <strong>Victoriya Kalmanovich  </strong><br/>
     <a href="/events/2019-tel-aviv/program/florian-haas-ignite">5 is good — a case for small teams | <strong>Florian Haas</strong></a><br/>
     <a href="/events/2019-tel-aviv/program/matty-stratton-ignite">Hot Takes, Myths, And Falsehoods - Why Everyone Is Wrong About DevOps Except For Me | <strong>Matty Stratton</strong></a><br/>
     </div>
@@ -328,7 +328,7 @@ heading = "devopsdays Tel Aviv - Program"
 <div class = "col-md-4 col-md-offset-3 box">
    <a href="/pages/open-space-format">15:20-16:00 | OPEN SPACES<br/></div>
 <div class = "col-md-4 col-md-offset-6 box">
-    <a href="/events/2019-tel-aviv/program/#"> <strong>Masterclass Continued</strong></a></div>
+    <a href="/events/2019-tel-aviv/program/events/2019-tel-aviv/program/michael-arenzon-avishai-ishshalom"> <strong>Masterclass Continued</strong></a></div>
 </div> 
 <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
@@ -340,7 +340,7 @@ heading = "devopsdays Tel Aviv - Program"
     Ignites: <br/>
     <a href="/events/2019-tel-aviv/program/allison-mcmillan-ignite">Baby Driven Development | <strong>Allison McMillan</strong></a><br/>
     From Zero to Hero: Container Security | <strong>Karni Wolf</strong> <br/>
-    <a href="/events/2019-tel-aviv/program/allison-mcmillan-ignite">What can you learn from the biggest automation company in the world? | <strong>Elad Leev  </strong></a><br/>
+    <a href="/events/2019-tel-aviv/program/elad-leev">What can you learn from the biggest automation company in the world? | <strong>Elad Leev  </strong></a><br/>
     <a href="/events/2019-tel-aviv/program/gil-bahat">Email - a transaction by any other name | <strong>Gil Bahat</strong></a><br/>
     <a href="/events/2019-tel-aviv/program/ronen-botzer">That Garbage Benchmark is Useless | <strong>Ronen Botzer</strong></a><br/>
     </div>
