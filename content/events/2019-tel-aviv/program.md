@@ -55,7 +55,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>09:20-10:00</time>
   </div>
   <div class = "col-md-8 col-md-offset-2 box">
-  <a href="/events/2019-tel-aviv/program/nicole-forsgren">Keynote: <strong>Nicole Forsgren</strong> Tips & Trips to Make Your DevOps Awesome</a></div>
+  <a href="/events/2019-tel-aviv/program/nicole-forsgren">Keynote: <strong>Nicole Forsgren</strong> Tips & Tricks to Make Your DevOps Awesome</a></div>
 </div> 
 <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
@@ -167,8 +167,8 @@ heading = "devopsdays Tel Aviv - Program"
   <div class = "col-md-8 col-md-offset-3 box">
     Ignites: <br/>
     <a href="/events/2019-tel-aviv/program/gil-zellner">Why you should start public speaking and why ignites are the right place to start | <strong>Gil Zellner</strong></a><br/>
-    <a href="/events/2019-tel-aviv/program/philip-krenn-ignite">YAML Considered Harmful | <strong>Philip Krenn</strong> </a><br/>
-    How Does Data Science Revolutionize the World of Machines | <strong>Victoriya Kalmanovich  </strong><br/>
+    <a href="/events/2019-tel-aviv/program/philipp-krenn-ignite">YAML Considered Harmful | <strong>Philipp Krenn</strong> </a><br/>
+    <a href="/events/2019-tel-aviv/program/victoriya-kalmanovich">How Does Data Science Revolutionize the World of Machines | <strong>Victoriya Kalmanovich  </strong></a><br/>
     <a href="/events/2019-tel-aviv/program/florian-haas-ignite">5 is good — a case for small teams | <strong>Florian Haas</strong></a><br/>
     <a href="/events/2019-tel-aviv/program/matty-stratton-ignite">Hot Takes, Myths, And Falsehoods - Why Everyone Is Wrong About DevOps Except For Me | <strong>Matty Stratton</strong></a><br/>
     </div>
@@ -244,10 +244,10 @@ heading = "devopsdays Tel Aviv - Program"
     <time>10:20-11:00</time>
 </div>
 <div class = "col-md-2 col-md-offset-3 box">
-   <a href="/events/2018-tel-aviv/program/daphna-regev">git: Behind the Scenes<strong><br/>Daphna Regev</strong></a>
+   <a href="/events/2019-tel-aviv/program/daphna-regev">git: Behind the Scenes<strong><br/>Daphna Regev</strong></a>
 </div>
 <div class = "col-md-3 col-md-offset-6 box">
-    <a href="/events/2018-tel-aviv/program/florian-haas"> No, really, don't chuck everything in Slack: communications for distributed teams<strong><br/>Florian Haas</strong></a>
+    <a href="/events/2019-tel-aviv/program/florian-haas"> No, really, don't chuck everything in Slack: communications for distributed teams<strong><br/>Florian Haas</strong></a>
 </div>
 <div class = "col-md-3 col-md-offset-9 box">
     <a href="/events/2019-tel-aviv/program/michael-arenzon-avishai-ishshalom"> <strong>Masterclass:</strong> HTTP Fundamentals Workshop<strong><br/>Michael Arenzon & Avishai Ish-Shalom</strong></a></div>
@@ -259,9 +259,9 @@ heading = "devopsdays Tel Aviv - Program"
     <time>11:00-11:40</time>
 </div>
 <div class = "col-md-2 col-md-offset-3 box">
-    <a href="/events/2019-tel-aviv/program/dan-yelovich">  Monorepo - The Zip way <br/> <strong>Dan Yelovich & Alon Becker</strong>  </a></div>
+    <a href="/events/2019-tel-aviv/program/dan-yelovitch">  Monorepo - The Zip way <br/> <strong>Dan Yelovitch & Alon Becker</strong>  </a></div>
 <div class = "col-md-3 col-md-offset-6 box">
-    <a href="/events/2019-tel-aviv/program/philip-krenn">11:00-11:20 | Observability is More than Logs, Metrics & Traces<br/> <strong>Philip Krenn</strong></a><br/>
+    <a href="/events/2019-tel-aviv/program/philipp-krenn">11:00-11:20 | Observability is More than Logs, Metrics & Traces<br/> <strong>Philipp Krenn</strong></a><br/>
     <a href="/events/2019-tel-aviv/program/anna-bankirer">11:20-11:40 | Object-oriented design for infrastructure-as-a-code<br/> <strong>Anna Bankirer</strong></a></div>
 <div class = "col-md-3 col-md-offset-9 box">
     <a href="/events/2019-tel-aviv/program/michael-arenzon-avishai-ishshalom"> <strong>Masterclass Continued</strong></a></div>
@@ -339,7 +339,7 @@ heading = "devopsdays Tel Aviv - Program"
   <div class = "col-md-8 col-md-offset-3 box">
     Ignites: <br/>
     <a href="/events/2019-tel-aviv/program/allison-mcmillan-ignite">Baby Driven Development | <strong>Allison McMillan</strong></a><br/>
-    From Zero to Hero: Container Security | <strong>Karni Wolf</strong> <br/>
+    <a href="/events/2019-tel-aviv/program/karni-wolf">From Zero to Hero: Container Security | <strong>Karni Wolf</strong></a><br/>
     <a href="/events/2019-tel-aviv/program/elad-leev">What can you learn from the biggest automation company in the world? | <strong>Elad Leev  </strong></a><br/>
     <a href="/events/2019-tel-aviv/program/gil-bahat">Email - a transaction by any other name | <strong>Gil Bahat</strong></a><br/>
     <a href="/events/2019-tel-aviv/program/ronen-botzer">That Garbage Benchmark is Useless | <strong>Ronen Botzer</strong></a><br/>
