@@ -55,7 +55,7 @@ proposal_email: "proposals-detroit-2017@devopsdays.org" # Put your proposal emai
 sponsors:
   - id: pivotal-before-20190307
     level: gold
-  - id: ithaka
+  - id: ithaka-before-20190920
     level: gold
   - id: opsgenie
     level: gold

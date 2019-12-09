@@ -1,0 +1,11 @@
+{{ define "main" }}
+
+<h1>{{ .Title }}</h1>
+
+<div>
+    {{- partial "heading_link.html" .Content -}}
+</div>
+
+{{- partial "sponsors-accepted.html" . -}}
+
+{{  end }}

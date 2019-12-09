@@ -13,7 +13,7 @@ Description = "devopsdays Tokyo 2020"
 **devopsdays is coming to {{< event_location >}}!**
 
 <div style="text-align:center;">
-  {{< event_logo >}}
+    {{< event_logo >}}
 </div>
 
 <div class = "row">
@@ -34,14 +34,14 @@ Description = "devopsdays Tokyo 2020"
   </div>
 </div>
 
-  <!-- <div class = "row">
+  <div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
 </div>
   <div class = "col-md-8">
-    <a href="https://www.eventbrite.com/e/devopsdays-tokyo-2019-tickets-52857940523">Register to attend the conference!</a>
+    <a href="https://www.eventbrite.com/e/devopsdays-tokyo-2020-tickets-78136842399">Register to attend the conference!</a>
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">

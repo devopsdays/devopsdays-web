@@ -34,11 +34,11 @@ location_address: "QEII Centre, Broad Sanctuary, Westminster"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   # - name: propose (CFP closed)
- # - name: location
-  - name: registration
+  # - name: location
+  # - name: registration
   - name: program
   - name: speakers
-  - name: sponsor
+  #- name: sponsor
   - name: accessibility
   - name: contact
   - name: conduct
@@ -115,7 +115,7 @@ sponsors:
     level: silver
   - id: microsoft
     level: silver
-  - id: pagerduty
+  - id: pagerduty-before-20190930
     level: silver
   - id: plumbr
     level: silver
@@ -156,6 +156,8 @@ sponsors:
     level: community
   - id: manc-devops
     level: community
+  - id: meetup-mates
+    level: community
   - id: doxlon
     level: community
   - id: belfast-devops
@@ -179,7 +181,7 @@ sponsors:
   - id: docker-london
     level: community
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -279,7 +281,12 @@ program:
     date: 2019-09-27T23:59:59+01:00
     start_time: "10:35"
     end_time: "11:05"
-  - title: "ricardo-castro"
+  # - title: "ricardo-castro"
+  #   type: talk
+  #   date: 2019-09-27T23:59:59+01:00
+  #   start_time: "11:25"
+  #   end_time: "12:00"
+  - title: "helen-joy"
     type: talk
     date: 2019-09-27T23:59:59+01:00
     start_time: "11:25"
@@ -306,8 +313,8 @@ program:
     end_time: "17:00"
 
 ignites:
-  - title: "helen-joy"
-    date: 2019-09-26T00:00:00+01:00
+  # - title: "helen-joy"
+  #   date: 2019-09-26T00:00:00+01:00
   - title: "emanuil-tolev"
     date: 2019-09-26T00:00:00+01:00
   - title: "dominique-top-kat-paines"

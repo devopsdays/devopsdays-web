@@ -28,9 +28,9 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 # Location
 #
-coordinates: "-12.972218, -38.501414" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+coordinates: "-12.985858, -38.515227" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Salvador" # Defaults to city, but you can make it the venue name.
-location_address: "UFBA Campus Ondina - Auditório do Instituto de Matemática na Av. Adhemar de Barros, s/nº - Ondina, Salvador - BA, 40170-110" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "Fundação Visconde de Cairu - R. do Salete, 50 - Barris, Salvador - BA, 40070-200" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   #  - name: propose
@@ -104,7 +104,7 @@ sponsors:
     level: silver
   - id: sanar
     level: platinum
-  - id: ufba
+  - id: cairu
     level: institutional
   #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
@@ -117,6 +117,8 @@ sponsors:
     level: bronze
   - id: solutis
     level: gold
+  - id: vmware
+    level: platinum
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -166,7 +168,7 @@ program:
     start_time: "10:00"
     end_time: "10:15"
 
-  - title: "ronald-lima"
+  - title: "eduardo-santos"
     type: talk
     date: "2019-10-05"
     start_time: "10:20"

@@ -23,8 +23,8 @@ Equal access and diversity are important to us at the DevOpsDays Auckland confer
 
 ### Eligibility
 <p>Applicants must be from a traditionally underrepresented and/or marginalized group in the technology and/or open source communities including, but not limited to: persons identifying as LGBTQ, women, persons of colour, students, persons with disabilities; and be unable to attend without some financial assistance.</p>
- 
+
 ### How to Apply
-Fill out this <a href="https://docs.google.com/forms/d/e/1FAIpQLSfL52g6gM5kETifyqSpJs9FU3hQi8aMIaL9a_RmOHNEBAg2Aw/viewform?vc=0&c=0&w=1">form</a> to apply for the scholarship.
+The application for the scholarship has now closed.
 
 <hr/>

@@ -21,9 +21,9 @@ To watch for changes and rebuild on the fly, open a new terminal, change directo
 hugo server -w --baseUrl="http://localhost:1313"
 ```
 
-Now open `http://localhost:1313` in a browser and navigate to the content that you're editing - voilà!
+Now open `http://localhost:1313` in a browser and navigate to the content that you're editing - voilà! Note: hugo's `watch` is not going to catch every change, so if you're making structural/file or date changes, consider Control-C and restart of the `watch` command.
 
-#### Mac OS X Specific Issues
+#### macOS Specific Issues
 
 When running the `hugo server -w` command listed above, you may get an error about "too many open files". To solve this, run the following commands in your terminal:
 
@@ -75,7 +75,7 @@ This confirms you are on the master branch locally, and then applies the changes
   (Replace `fix_that_thing` with a quick description of your *actual* change.)
 
 
-3. Make your changes, test them locally (see above), then push that branch up to `origin` on your fork.
+3. Make your changes, test them locally (see above - the `watch` command sometimes needs a restart), then push that branch up to `origin` on your fork.
 
   ```
   $ git push origin fix_that_thing

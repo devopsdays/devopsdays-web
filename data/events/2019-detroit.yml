@@ -103,8 +103,20 @@ sponsors:
     level: gold
   - id: ithaka
     level: gold
+  - id: gitlab
+    level: gold
+  - id: micro-focus
+    level: gold
+  - id: d2iq
+    level: gold
+  - id: datadog
+    level: gold
+  - id: solace
+    level: silver
+  - id: azulsystems
+    level: silver
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -130,12 +142,12 @@ program:
   - title: "Breakfast"
     type: custom
     date: 2019-10-23
-    start_time: "8:30"
-    end_time: "9:30"
+    start_time: "08:30 AM"
+    end_time: "09:30 AM"
   - title: "ryan-lockard"
     type: talk
     date: 2019-10-23
-    start_time: "9:30 AM"
+    start_time: "09:30 AM"
     end_time: "10:15 AM"
   - title: "Sponsors"
     type: custom
@@ -146,167 +158,167 @@ program:
     type: talk
     date: 2019-10-23
     start_time: "10:30 AM"
-    end_time: "11:00 AM"
+    end_time: "10:45 AM"
+  - title: "paul-meharg"
+    type: talk
+    date: 2019-10-23
+    start_time: "10:45 AM"
+    end_time: "11:15 AM"
   - title: "Break"
     type: custom
     date: 2019-10-23
-    start_time: "11:00 AM"
-    end_time: "11:15 AM"
+    start_time: "11:15 AM"
+    end_time: "11:30 AM"
   - title: "quintessence-anx"
     type: talk
     date: 2019-10-23
-    start_time: "11:15 AM"
-    end_time: "11:45 AM"
+    start_time: "11:30 AM"
+    end_time: "12:00 PM"
   - title: "Lunch"
     type: custom
     date: 2019-10-23
-    start_time: "11:45 AM"
-    end_time: "1:00 PM"
+    start_time: "12:00 PM"
+    end_time: "01:15 PM"
   - title: "chris-short"
     type: talk
     date: 2019-10-23
-    start_time: "1:00 PM"
-    end_time: "1:30 PM"
+    start_time: "01:15 PM"
+    end_time: "01:45 PM"
   - title: "Sponsors"
     type: custom
     date: 2019-10-23
-    start_time: "1:30 PM"
-    end_time: "1:45 PM"
+    start_time: "01:45 PM"
+    end_time: "02:00 PM"
   - title: "derek-dejonghe"
     type: talk
     date: 2019-10-23
-    start_time: "1:45 PM"
-    end_time: "2:15 PM"
+    start_time: "02:00 PM"
+    end_time: "02:30 PM"
   - title: "Break"
     type: custom
     date: 2019-10-23
-    start_time: "2:15 PM"
-    end_time: "2:30 PM"
+    start_time: "02:30 PM"
+    end_time: "02:45 PM"
   - title: "Ignites"
     type: ignite
     date: 2019-10-23
-    start_time: "2:30 PM"
-    end_time: "3:00 PM"
+    start_time: "02:45 PM"
+    end_time: "03:00 PM"
   - title: "Open Space Planning"
     type: custom
     date: 2019-10-23
-    start_time: "3:00 PM"
-    end_time: "3:30 PM"
+    start_time: "03:00 PM"
+    end_time: "03:30 PM"
   - title: "Open Space #1"
     type: open-space
     date: 2019-10-23
-    start_time: "3:30 PM"
-    end_time: "4:15 PM"
+    start_time: "03:30 PM"
+    end_time: "04:15 PM"
   - title: "Open Space #2"
     type: open-space
     date: 2019-10-23
-    start_time: "4:15 PM"
-    end_time: "5:00 PM"
+    start_time: "04:15 PM"
+    end_time: "05:00 PM"
   - title: "Open Space #3"
     type: open-space
     date: 2019-10-23
-    start_time: "5:00 PM"
-    end_time: "5:45 PM"
+    start_time: "05:00 PM"
+    end_time: "05:45 PM"
   - title: "Closing Remarks"
     type: custom
     date: 2019-10-23
-    start_time: "5:45 PM"
-    end_time: "5:50 PM"
+    start_time: "05:45 PM"
+    end_time: "05:50 PM"
   - title: "Party"
     type: custom
     date: 2019-10-23
-    start_time: "5:50 PM"
-    end_time: "8:50 PM"
+    start_time: "05:50 PM"
+    end_time: "08:50 PM"
   - title: "Breakfast"
     type: custom
     date: 2019-10-24
-    start_time: "8:30 AM"
-    end_time: "9:30 AM"
+    start_time: "08:30 AM"
+    end_time: "09:30 AM"
   - title: "george-miranda"
     type: talk
     date: 2019-10-24
-    start_time: "9:30 AM"
+    start_time: "09:30 AM"
     end_time: "10:00 AM"
   - title: "Sponsors"
     type: custom
     date: 2019-10-24
     start_time: "10:00 AM"
     end_time: "10:15 AM"
-  - title: "paul-meharg"
-    type: talk
-    date: 2019-10-24
-    start_time: "10:15 AM"
-    end_time: "10:45 AM"
   - title: "Break"
     type: custom
     date: 2019-10-24
-    start_time: "10:45 AM"
-    end_time: "11:00 AM"
+    start_time: "10:15 AM"
+    end_time: "10:30 AM"
   - title: "ramin-keene"
     type: talk
     date: 2019-10-24
-    start_time: "11:00 AM"
-    end_time: "11:30 AM"
+    start_time: "10:30 AM"
+    end_time: "11:00 AM"
   - title: "Lunch"
     type: custom
     date: 2019-10-24
-    start_time: "11:30 AM"
-    end_time: "12:45 PM"
+    start_time: "11:00 AM"
+    end_time: "12:15 PM"
   - title: "dan-garfield"
     type: talk
     date: 2019-10-24
-    start_time: "12:45 PM"
-    end_time: "1:15 PM"
-  - title: "Sponsors"
-    type: custom
-    date: 2019-10-24
-    start_time: "1:15 PM"
-    end_time: "1:30 PM"
+    start_time: "12:15 PM"
+    end_time: "12:45 PM"
   - title: "daniel-sauble"
     type: talk
     date: 2019-10-24
-    start_time: "1:30 PM"
-    end_time: "2:00 PM"
+    start_time: "12:45 PM"
+    end_time: "01:15 PM"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-10-24
+    start_time: "01:15 PM"
+    end_time: "01:30 PM"
   - title: "steve-ross"
     type: talk
     date: 2019-10-24
-    start_time: "2:00 PM"
-    end_time: "2:30 PM"
+    start_time: "01:30 PM"
+    end_time: "02:00 PM"
   - title: "Break"
     type: custom
     date: 2019-10-24
-    start_time: "2:30 PM"
-    end_time: "2:45 PM"
+    start_time: "02:00 PM"
+    end_time: "02:15 PM"
   - title: "Open Space Planning"
     type: custom
     date: 2019-10-24
-    start_time: "2:45 PM"
-    end_time: "3:15 PM"
+    start_time: "02:15 PM"
+    end_time: "02:45 PM"
   - title: "Open Space #1"
     type: open-space
     date: 2019-10-24
-    start_time: "3:15 PM"
-    end_time: "4:00 PM"
+    start_time: "02:45 PM"
+    end_time: "03:30 PM"
   - title: "Open Space #2"
     type: open-space
     date: 2019-10-24
-    start_time: "4:00 PM"
-    end_time: "4:45 PM"
+    start_time: "03:30 PM"
+    end_time: "04:15 PM"
   - title: "Open Space #3"
     type: open-space
     date: 2019-10-24
-    start_time: "4:45 PM"
-    end_time: "5:30 PM"
+    start_time: "04:15 PM"
+    end_time: "05:00 PM"
   - title: "Closing & Sponsor Raffle"
     type: custom
     date: 2019-10-24
-    start_time: "5:30 PM"
-    end_time: "5:35 PM"
+    start_time: "05:00 PM"
+    end_time: "05:05 PM"
 
 ignites:
-  - title: "dylan-swartz"
-    date: 2019-10-23
-  - title: "rahul-gupta"
+  - title: "charlotte-waterhouse"
     date: 2019-10-23
   - title: "dave-karow"
+    date: 2019-10-23
+  - title: "andy-van-slaars"
     date: 2019-10-23

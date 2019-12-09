@@ -19,7 +19,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
 <a name="FAQ"><h2>Sponsor FAQ</h2><a/>
 <dl>
 <dt>What exactly will the sponsors have available to them in the sponsors’ room?</dt>
-<dd>For silver sponsors we will provide a high standing table (cocktail table). Gold and platinum sponsors will get the following space allocated to them: 2m x 2m x 2m.  We can provide two tables and 4 chairs. Or you you can bring your booth as long as it fits inside the allocated space. We would love it if you would bring your own posters, table signes, rollup banners, etc to spice up your booth. (Birthday balloons anyone?) We have one requirement: it must fit in the allocated space. We can't make any exceptions as that wouldn't be fair for the other sponsors.  We can't promise you will have the posibility to hang banners behind you so it is better to bring rollup banners. Please let us know which option you pick.
+<dd>For silver sponsors we will provide a high standing table (cocktail table). Gold and platinum sponsors will get the following space allocated to them: 2m x 2m x 2m. We can provide two tables and 4 chairs. Or you you can bring your booth as long as it fits inside the allocated space. Please email organizers if you have anything higher than 2m so they can check if this is possible. We would love it if you would bring your own posters, table signes, rollup banners, etc to spice up your booth. (Birthday balloons anyone?) We have one requirement: it must fit in the allocated space. We can't make any exceptions as that wouldn't be fair for the other sponsors.  We can't promise you will have the posibility to hang banners behind you so it is better to bring rollup banners. Please let us know which option you pick.
 </dd>
 
 <dt>Where will the sponsors be located?</dt>
@@ -68,8 +68,8 @@ We will make sure your table has the equipment that was shipped. Tear down must 
 <dt>We want to rent 'x' for our booth.</dt>
 <dd>We suggest you make use of <a href="https://www.levipartyrental.be/">Levi Party Rental</a> for party equipment and <a href="https://www.swingverkoop.be">Swing verkoop</a> for AV equipment. When contacting them please mention DevOpsDays Ghent so they can arrange a single shipment for all sponsors.  Please be reminded that everything you rent should fit in the space allocated to you.</dd>
 
-<dt>Can we offer the attendees food/coffee?</dt>
-<dd>It's very kind to offer our attendees extra food but we will provide excellent foods and drinks during the full course of the conference. For safety reasons and to make sure the electric circuit can handle the load we don't allow any kind of food making/heating machines.</dd>
+<dt>Can we offer the attendees food/beverages?</dt>
+<dd>It's very kind to offer our attendees extra food and/or beverages (including alcohol) but we will provide excellent foods and drinks during the full course of the conference.</dd>
 
 <dt>How can we reach out to the attendees through Twitter & LinkedIn Announcements</dt>
 <dd>Please tweet with the hashtags #devopsdaysghent and #devopsdays. Before, during and after the event you can get announcments and stay in touch with us by following us on Twitter {{< event_twitter >}}</dd>

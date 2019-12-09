@@ -36,32 +36,32 @@ Description = "devopsdays Montreal 2019"
   </div>
 </div>
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Propose - Proposer</strong>
   </div>
   <div class = "col-md-8">
     <A href=https://www.papercall.io/cfps/2551/submissions/new target="_blank">Submit a talk / Soumettre une présentation</A>
   </div>
-</div>
+</div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
     View the {{< event_link page="program" text="program." >}}
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -83,10 +83,7 @@ Description = "devopsdays Montreal 2019"
 
 <!-- Uncomment if you added your city twitter name -->
 {{< event_twitter >}}
-
-
-----
-{{< cfp_dates >}}
+<!-- {{< cfp_dates >}} -->
 
 ----
  <div style="text-align:center;">
