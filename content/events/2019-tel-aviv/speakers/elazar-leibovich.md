@@ -1,7 +1,7 @@
 +++
 Title = "Elazar Leibovich"
 Twitter = ""
-image = "HeadShot_Placeholder.png"
+image = "elazar-leibovich.png"
 type = "speaker"
 linktitle = "elazar-leibovich"
 
