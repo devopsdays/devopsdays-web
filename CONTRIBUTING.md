@@ -23,6 +23,19 @@ hugo server -w --baseUrl="http://localhost:1313"
 
 Now open `http://localhost:1313` in a browser and navigate to the content that you're editing - voilà!
 
+#### Mac OS X Specific Issues
+
+When running the `hugo server -w` command listed above, you may get an error about "too many open files". To solve this, run the following commands in your terminal:
+
+```
+hugo check ulimit
+sudo sysctl -w kern.maxfiles=65536
+sudo sysctl -w kern.maxfilesperproc=65536
+ulimit -n 65536 65536
+```
+
+Note that these changes will not persist past a reboot of your computer, so you'll need to run them again if you restart.
+
 ## Pull requests
 
 ### Setting your fork up the first time

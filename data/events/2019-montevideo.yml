@@ -123,6 +123,16 @@ sponsors:
   - id: pyxis
     level: platinum
 
+  - id: lenovo
+    level: platinum
+
+  - id: oracle-linux-before-20190829
+    level: platinum
+
+  - id: oracle-mysql
+    level: platinum
+
+
 # Oro
 # ------------------------------------------------------------------------------
   - id: jpos
@@ -137,6 +147,12 @@ sponsors:
     level: gold
 
   - id: redhat
+    level: gold
+
+  - id: sabre
+    level: gold
+
+  - id: atvmware
     level: gold
 
 # Plata
@@ -157,6 +173,12 @@ sponsors:
     level: silver
 
   - id: accsa
+    level: silver
+
+  - id: netlabs
+    level: silver
+
+  - id: igv
     level: silver
 
 
@@ -202,9 +224,20 @@ sponsors:
   - id: itrevolution
     level: community
 
+  - id: testinguy
+    level: community
+
+  - id: auy
+    level: community
+
   - id: stickermule
     level: sticker
     url: "https://www.stickermule.com/supports/devopsdaysmvd"
+
+# Social Event
+# ------------------------------------------------------------------------------
+  - id: microsoft
+    level: socialevent
 
 # Media
 # ------------------------------------------------------------------------------
@@ -224,9 +257,6 @@ sponsors:
 # TBD sponsors
 # ------------------------------------------------------------------------------
   #- id: at-uruguay
-  #- id: arnaldocastro
-  #- id: microsoft
-
   #- id: lenovo
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -250,6 +280,8 @@ sponsor_levels:
   - id: community
     label: Community
     # max: 0 # This is the same as omitting the max limit.
+  - id: socialevent
+    label: Social Event
   - id: sticker
     label: Sticker
   - id: media
@@ -268,8 +300,8 @@ program:
     start_time: "08:00"
     end_time: "09:00"
 
-  - title: "Opening & Welcome Panel"
-    type: custom
+  - title: "opening"
+    type: talk
     date: 2019-08-21
     start_time: "09:00"
     end_time: "09:40"
@@ -309,6 +341,12 @@ program:
     date: 2019-08-21
     start_time: "12:15"
     end_time: "12:45"
+
+  - title: "Ignites - Sesión 1"
+    type: ignite
+    date: 2019-08-21
+    start_time: "12:50"
+    end_time: "13:00"
 
   - title: "Lunch"
     type: lunch
@@ -432,11 +470,17 @@ program:
     start_time: "15:30"
     end_time: "16:00"
 
-  - title: "Open Spaces + Ignites"
+  - title: "Open Spaces"
     type: open-space
     date: 2019-08-22
     start_time: "16:00"
     end_time: "16:45"
+
+  - title: "Ignites - Sesión 2"
+    type: ignite
+    date: 2019-08-22
+    start_time: "16:00"
+    end_time: "16:15"
 
   - title: "guillermo-chao"
     type: talk
@@ -455,3 +499,15 @@ program:
     date: 2019-08-22
     start_time: "18:00"
     end_time: "18:15"
+
+ignites:
+  - title: "gaston-larranaga"
+    date: 2019-08-21
+  - title: "rodolfo-pilas"
+    date: 2019-08-21
+  - title: "lucia-bustamante"
+    date: 2019-08-22
+  - title: "maemilia-irrazabal"
+    date: 2019-08-22
+  - title: "johana-rios"
+    date: 2019-08-22

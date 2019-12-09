@@ -94,7 +94,7 @@ Any PRs adding a new local organizer will need to be accompanied by an email to 
 
 ## Social sharing image
 
-A sharing image is added to the Open Graph tags for your event pages, to improve the sharing on social networks such as Facebook (or in Slack). This image must be named `sharing.jpg` and located in `static/events/yyyy-city`. It should be a minimum 1200px x 630px, and use ratio: 1.91:1.
+A sharing image is added to the Open Graph tags for your event pages, to improve the sharing on social networks such as Facebook (or in Slack). This image must be named `sharing.jpg` and located in `static/events/yyyy-city/sharing/`. It should be a minimum 1200px x 630px, and use ratio: 1.91:1.
 
 If no image is provided, then the meta tag will not be created. Facebook might try to infer it, but the links shared will just likely have no images.
 
@@ -131,7 +131,7 @@ If you start working on the program before you have all your speakers, by defaul
 
 ### Speaker Images
 
-The headshots for your speaker images can be either .png or .jpg. They must be square, preferably 600px square. If they are not square, they will be cropped at build time to the production site (note; image processing does not occur when running Hugo locally or in a deploy preview)
+The headshots for your speaker images can be either .png or .jpg. They should be square, preferably 600px square. If they are not square, they will be automatically cropped at build time for the production site. (Note: image processing does not occur when running Hugo locally or in a deploy preview.)
 
 
 # Adding slides and video

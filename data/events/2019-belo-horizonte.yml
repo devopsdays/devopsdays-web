@@ -15,15 +15,20 @@ startdate: 2019-09-28T00:00:00-03:00 # The start date of your event. Leave blank
 enddate: 2019-09-28T23:59:59-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: # start accepting talk proposals.
-cfp_date_end: # close your call for proposals.
+cfp_date_start: 2019-07-01 # start accepting talk proposals.
+cfp_date_end: 2019-09-02 # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
 
-# cfp_open: ""
-# cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_open: "true"
+cfp_link: "https://papercall.io/devopsdaysbh2019" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-# registration_date_start: "" # start accepting registration. Leave blank if registration is not open yet
-# registration_date_end: "" # close registration. Leave blank if registration is not open yet.
+registration_date_start: "2019-07-01" # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: "2019-09-28" # close registration. Leave blank if registration is not open yet.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://www.sympla.com.br/devops-days-bh-2019__589216" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+
 
 # Location
 #
@@ -82,21 +87,10 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/luiz-henrique-g-jr-0725241a/"
     image: "luiz-henrique.jpg"
     bio: ""
-  - name: "Marco Antonio M. Junior (Somatório)"
-    linkedin: "https://www.linkedin.com/in/somatorio/"
-    bio: ""
-    image: "marco-antonio.jpg"
-  - name: "Rafael Gomes (Gomex)"
-    linkedin: "https://www.linkedin.com/in/rbgomes"
-    bio: ""
-    image: "rafael-gomes.jpg"
   - name: "Zandler Oliveira"
     linkedin: "https://www.linkedin.com/in/zandler-oliveira/"
     bio: ""
     image: "zandler-oliveira.jpg"
-#   facebook: ""
-#   linkedin: ""
-#   website: ""
 
 organizer_email: "organizers-belo-horizonte-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-belo-horizonte-2019@devopsdays.org" # Put your proposal email address here
@@ -104,7 +98,47 @@ proposal_email: "proposals-belo-horizonte-2019@devopsdays.org" # Put your propos
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: arresteddevops
+  - id: pucminas
+    level: platina
+  - id: vanhack
+    level: platina
+  - id: localiza
+    level: platina
+  - id: picpay
+    level: platina
+  - id: grupomult
+    level: ouro
+  - id: totvs
+    level: ouro
+  - id: mercantildobrasil
+    level: ouro
+  - id: smarttbot
+    level: prata
+  - id: nuvemshop
+    level: prata
+  - id: 4yousee
+    level: bronze
+  - id: bhs
+    level: bronze
+  - id: izap
+    level: bronze
+  - id: dti
+    level: bronze
+  - id: elastic
+    level: bronze
+  - id: groovetech
+    level: bronze
+  - id: vidadeprogramador
+    level: community
+  - id: digitalocean
+    level: community
+  - id: devopsbh
+    level: community
+  - id: devops-bootcamp
+    level: community
+  - id: 4linux-2019
+    level: community
+  - id: altabooks
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -114,6 +148,252 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: platina
+    label: Platina
+  - id: ouro
+    label: Ouro
+  - id: prata
+    label: Prata
+  - id: bronze
+    label: Bronze
   - id: community
     label: Community
 
+program:
+  ## Periodo da Manha
+  - title: "Credenciamento e registro"
+    type: custom
+    date: 2019-09-28
+    start_time: "08:00"
+    end_time: "09:50"
+    background_color: "#9a81e3"
+
+  - title: "Abertura e boas vindas"
+    type: custom
+    date: 2019-09-28
+    start_time: "08:50"
+    end_time: "09:00"
+    background_color: "#9a81e3"
+
+  - title: "Keynote da Manha - Sergio Passos" #arquivo, caso talk
+    type: custom # talk
+    comments: Keynote da manhã
+    date: 2019-09-28
+    start_time: "09:00"
+    end_time: "09:40"
+    background_color: "#98f095"
+
+  - title: "Patrocinadores" #arquivo, caso talk
+    type: custom # talk
+    comments: Palavrinha dos patrocinadores
+    date: 2019-09-28
+    start_time: "09:40"
+    end_time: "10:00"
+
+  - title: "Coffee Break" #arquivo, caso talk
+    type: custom # talk
+    comments: Intervalo
+    date: 2019-09-28
+    start_time: "10:00"
+    end_time: "10:30"
+
+  - title: "armando-jr"
+    type: talk
+    comments: Auditorio sexto andar
+    date: 2019-09-28
+    start_time: "10:30"
+    end_time: "11:00"
+
+  - title: "carol-valencia"
+    type: talk
+    comments: Auditorio Liberdade
+    date: 2019-09-28
+    start_time: "10:30"
+    end_time: "11:00"
+
+  - title: "paulo-mendonca"
+    comments: Workshop
+    type: workshop
+    date: 2019-09-28
+    start_time: "10:30"
+    end_time: "12:00"
+
+  - title: "mateus-prado"
+    type: talk
+    comments: Auditorio Liberdade
+    date: 2019-09-28
+    start_time: "11:00"
+    end_time: "11:30"
+    background_color: "#ff8282"
+
+  - title: "Sala 360 Devops"
+    type: custom
+    date: 2019-09-28
+    start_time: "10:30"
+    end_time: "12:00"
+    background_color: "#e3b464"
+    
+  - title: "Sala Carreira Devops"
+    type: custom
+    date: 2019-09-28
+    start_time: "10:30"
+    end_time: "12:00"
+    background_color: "#e3b464"
+
+  - title: "osanam-junior"
+    type: talk
+    comments: Auditorio sexto andar
+    date: 2019-09-28
+    start_time: "11:00"
+    end_time: "11:30"
+    background_color: "#ff8282"
+
+  - title: "izael-effemberg"
+    type: talk
+    comments: Auditorio Liberdade
+    date: 2019-09-28
+    start_time: "11:30"
+    end_time: "12:00"
+
+  - title: "zandler-oliveira"
+    type: talk
+    comments: Auditorio sexto andar
+    date: 2019-09-28
+    start_time: "11:30"
+    end_time: "12:00"
+
+  - title: "Almoço" #arquivo, caso talk
+    type: custom # talk
+    comments: Almoço
+    date: 2019-09-28
+    start_time: "12:00"
+    end_time: "13:00"
+
+  - title: "jefferson-otoni"
+    comments: Workshop
+    type: workshop
+    date: 2019-09-28
+    start_time: "13:00"
+    end_time: "15:00"
+
+  - title: "Sala 360 Devops"
+    type: custom
+    date: 2019-09-28
+    start_time: "13:00"
+    end_time: "15:00"
+    background_color: "#e3b464"
+
+  - title: "eduardo-ximenes"
+    type: talk
+    comments: Auditorio Liberdade
+    date: 2019-09-28
+    start_time: "13:30"
+    end_time: "14:00"
+
+  - title: "bernardo-vale"
+    type: talk
+    comments: Auditorio sexto andar
+    date: 2019-09-28
+    start_time: "13:30"
+    end_time: "14:00"
+    
+  - title: "gustavo-pantuza"
+    type: talk
+    comments: Auditorio Liberdade
+    date: 2019-09-28
+    start_time: "14:00"
+    end_time: "14:30"
+
+  - title: "albert-tanure"
+    type: talk
+    comments: Auditorio sexto andar
+    date: 2019-09-28
+    start_time: "13:30"
+    end_time: "14:00"
+
+  - title: "albert-tanure"
+    type: talk
+    comments: Auditorio sexto andar
+    date: 2019-09-28
+    start_time: "14:00"
+    end_time: "14:30"
+    background_color: "#ff8282"
+
+  - title: "andre-almar"
+    type: talk
+    comments: Auditorio Liberdade
+    date: 2019-09-28
+    start_time: "14:30"
+    end_time: "15:00"
+
+  - title: "juliano-silveira"
+    type: talk
+    comments: Auditorio sexto andar
+    date: 2019-09-28
+    start_time: "13:30"
+    end_time: "14:00"
+
+  - title: "Sala Carreira Devops"
+    type: custom
+    date: 2019-09-28
+    start_time: "14:00"
+    end_time: "15:00"
+    background_color: "#e3b464"
+
+  - title: "Coffee Break" #arquivo, caso talk
+    type: custom # talk
+    comments: Intervalo
+    date: 2019-09-28
+    start_time: "15:00"
+    end_time: "15:30"
+
+  - title: "alexandre-borges"
+    type: talk
+    comments: Auditorio Liberdade
+    date: 2019-09-28
+    start_time: "15:30"
+    end_time: "16:00"
+
+  - title: "marco-mendes"
+    type: talk
+    comments: Auditorio sexto andar
+    date: 2019-09-28
+    start_time: "15:30"
+    end_time: "16:00"
+
+  - title: "joao-brito"
+    type: talk
+    comments: Auditorio Liberdade
+    date: 2019-09-28
+    start_time: "16:00"
+    end_time: "16:30"
+
+  - title: "diego-duarte"
+    type: talk
+    comments: Auditorio sexto andar
+    date: 2019-09-28
+    start_time: "16:30"
+    end_time: "16:30"
+
+  - title: "yago-bruno"
+    type: talk
+    comments: Auditorio Liberdade
+    date: 2019-09-28
+    start_time: "16:30"
+    end_time: "17:00"
+
+  - title: "Keynote de encerramento - Henrique bastos" #arquivo, caso talk
+    type: custom # talk
+    comments: Keynote da tarde
+    date: 2019-09-28
+    start_time: "17:00"
+    end_time: "17:40"
+    background_color: "#98f095"
+
+  - title: "Encerramento, patrocinadores e sorteio de brindes" #arquivo, caso talk
+    type: custom # talk
+    comments: Encerramento, patrocinadores e sorteio de brindes
+    date: 2019-09-28
+    start_time: "17:40"
+    end_time: "18:00"
+    background_color: "#9a81e3"

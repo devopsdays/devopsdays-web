@@ -104,7 +104,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: community
   - id: recompiler
     level: community
-  - id: oreilly
+  - id: oreilly-before-20190725
     level: community
   - id: bsidespdx
     level: community

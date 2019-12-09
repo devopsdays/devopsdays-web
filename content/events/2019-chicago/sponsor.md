@@ -57,25 +57,10 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
     <tr>
       <td></td>
       <td>
-        <!-- gold Paypal button  -->
-        <!-- form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-          <input type="hidden" name="cmd" value="_s-xclick">
-          <input type="hidden" name="hosted_button_id" value="S9SCLZP3USU7L">
-          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-          <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-        </form>
-         
-        <a href="mailto:sponsors-chicago-2019@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Chicago%202019">Contact us</a> -->
+        SOLD OUT
       </td>
       <td>
-        <!-- silver Paypal button  -->
-        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-          <input type="hidden" name="cmd" value="_s-xclick">
-          <input type="hidden" name="hosted_button_id" value="LUSEMWLZ7MKKW">
-          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-          <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-        </form>
-        <!-- <a href="mailto:sponsors-chicago-2019@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Chicago%202019">Contact us</a> -->
+      SOLD OUT
       </td>
       <td>
         <!-- bronze Paypal button  -->
@@ -86,7 +71,8 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
           <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
         </form>
       </td>
-      <td><a href="mailto:sponsors-chicago-2019@devopsdays.org?subject=Interested%20in%20Community%20Sponsorship%20DevOpsDays%20Chicago%202019">Contact us</a></td>
+      <td><a href="mailto:sponsors-chicago-2019@devopsdays.org?subject=Interested%20in%20Community%20Sponsorship%20DevOpsDays%20Chicago%202019">Contact us</a>
+      </td>
     </tr>
     <tr>
       <td>Tickets Included</td>
@@ -206,14 +192,6 @@ All special sponsors will have their logo displayed on the DevOpsDays Chicago we
       <td>Pay for drinks, food and entertainment - get an exclusive space for the night. Can be split by two sponsors</td>
       <td>4</td>
       <td>2</td>
-    </tr>
-    <tr>
-      <td align="center"><i class="fa fa-pencil-square-o fa-4x"></i></td>
-      <td>Live Transcription</td>
-      <td>$2,000</td>
-      <td>Shout-out during opening remarks</td>
-      <td>2</td>
-      <td>1</td>
     </tr>
     <tr>
       <td align="center"><i class="fa fa-video-camera fa-4x"></i></td>

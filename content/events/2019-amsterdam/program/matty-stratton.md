@@ -9,6 +9,7 @@ aliases = ["/events/2019-amsterdam/program/matty-stratton/"]
 youtube = ""
 slideshare = ""
 slides = ""
+notist = "mattstratton/YzIC3T"
 +++
 When humans are faced with a traumatic experience, our brains kick in with survival mechanisms. These mechanisms are the familiar fight or flight response, but can also include the freeze response - which occurs when we are terrified or feel that there is no chance of escape.
 

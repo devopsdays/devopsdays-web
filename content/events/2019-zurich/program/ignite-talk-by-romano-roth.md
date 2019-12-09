@@ -8,8 +8,8 @@ title = "What is the Business Case of DevOps?"
 type = "talk"
 speakers = ["romano-roth"]
 youtube = ""
-vimeo = ""
-speakerdeck = ""
+vimeo = "344516688"
+speakerdeck = "https://speakerdeck.com/dodzh/why-do-we-want-to-introduce-devops-romano-roth"
 slideshare = ""
 slides = ""
 +++

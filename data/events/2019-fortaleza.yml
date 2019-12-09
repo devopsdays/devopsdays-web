@@ -43,7 +43,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
   - name: registration
     url: https://dodfortaleza2019.eventize.com.br/
- # - name: program
+  - name: program
   - name: speakers
   - name: sponsor
   - name: contact
@@ -98,8 +98,50 @@ team_members: # Name is the only required field for team members.
     website: "https://cassioliveiram.com.br/"
     github: "cassioliveiram"
     image: "cassio-moreira.jpg"
-organizer_email: "organizers-fortaleza-2019@devopsdays.org" # Put your organizer email address here
-proposal_email: "proposals-fortaleza-2019@devopsdays.org" # Put your proposal email address here
+  - name: "Renata Lima"
+    linkedin: "https://www.linkedin.com/in/renata-lima-bb401aa4/"
+    role: "Psychologist"
+    twitter: ""
+    bio: "Psychologist, post graduated in Organizational and Labor Psychology. Professional with over 4 years of experience at a multinational company working as Talent Engagement Analyst and HR Business Partner."
+    image: "renata-lima.jpg"
+  - name: "Marjorie Lima"
+    role: "IT Process Analyst"
+    twitter: ""
+    bio: "IT Process Analyst - Administrative and Quality - Performed functions from management assistance, support and service to internal and external customers, IT training, creation of standard operating procedures. Evolving career in the administrative area in support of contract management aimed at the quality of service provided."
+    image: "marjorie-lima.jpg"
+  - name: "Dennis Braga"
+    role: "Web Developer"
+    linkedin: "https://www.linkedin.com/in/dennis-braga/"
+    github: "bragadennis"
+    bio: "Web developer for over 7 years using mainly PHP/Laravel Framework and Javascript Frameworks, passionate about programming, believes that automation is the key to  empowering teams to build and delivery quality software. Also spends sometime researching Blockchain technology and Neural Networks."
+    image: "dennis-braga.jpg"
+  - name: "Wanderson Lopes"
+    role: "IT Analyst"
+    twitter: ""
+    bio: "Graduated in Systems Analysis and Development, Currently Infrastructure Analyst at CRC, responsible for creating virtualized environments and managing various operating systems, always seeking to innovate and automate processes in IT services."
+    image: "wanderson-lopes.jpg"
+  - name: "Lorena Queiroz"
+    role: "Infrastructure Analyst"
+    linkedin: "https://www.linkedin.com/in/lorena-queiroz-0694aa4b/"
+    bio: "Graduated in Information Systems, Postgraduate in Computer System Administration and Security and Forensic Computing and Digital Expertise. Focus on Infrastructure, Information Security, Servers, Computer Forensics, IT Service Management."
+    image: "lorena-queiroz.jpg"  
+  - name: "Rebecca Farias"
+    role: "QA Analyst"
+    linkedin: "https://www.linkedin.com/in/rebecca-vitoria-598aa5124/"
+    bio: "A mechatronics engineering student that jumped into IT world and fell in love completely. Quality Assurance Analyst at OSF GLobal Services, Certified Tester Foundation Level Professional (CTFL) and a young Padawan on Automated tests. Looking forward to new challenges and always searching for new ways to do things."
+    image: "rebecca-farias.jpg"
+  - name: "Edvaldo Junior"
+    role: "Support Technician"
+    bio: "Graduated in Computer Networks, Itil Foundation, Devops Essentials, Linux enthusiast and opensource world. Responsible for the implementation of Grafana running in docker at ADAGRI (Agência de Defesa Agropecuária do Estado do Ceará)."
+    linkedin: "https://www.linkedin.com/in/edvaldo-junior/"
+    image: "edvaldo-junior.jpg"
+  - name: "Ana Paula Oliveira"
+    role: "QA Analyst"
+    bio: "Graduate in Analysis and systems development. Certified CTFL and ITIL Foundations. Passionate about everything in Technology, with experience in IT Support and now as a Test Analyst."
+    linkedin: "https://www.linkedin.com/in/anaoliveira5/"
+    image: "ana-paula.jpg"
+organizer_email: "fortaleza@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-fortaleza@devopsdays.org" # Put your proposal email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
@@ -118,10 +160,38 @@ sponsors:
   - id: uni7
     level: gold
     url: https://www.uni7.edu.br/ # Use this if you need to over-ride a sponsor URL.
+  - id: osf
+    level: bronze
+  - id: jaguah
+    level: silver
+  - id: aws
+    level: gold
+  - id: hostweb
+    level: silver
+  - id: linuxtips
+    level: community
+  - id: estabilis
+    level: community
+  - id: portfolio
+    level: gold
+  - id: platformbuilders
+    level: silver
+  - id: atlantico
+    level: silver
+  - id: alura
+    level: community
+  - id: redhat
+    level: gold
+  - id: wiser
+    level: bronze
+  - id: elastic
+    level: silver
+  - id: pmgt
+    level: silver
+  - id: edna-nogueira
+    level: community
 
-
-
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -138,3 +208,99 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+program:
+  - title: "Credenciamento, Breakfast e abertura do evento"
+    type: open-space
+    date: 2019-09-28
+    start_time: "08:00"
+    end_time: "08:40"
+  - title: "rafael-gomex"
+    type: talk
+    date: 2019-09-28
+    start_time: "08:40"
+    end_time: "09:05"
+  - title: "virginia-rodrigues"
+    type: talk
+    date: 2019-09-28
+    start_time: "09:10"
+    end_time: "09:35"
+  - title: "valdomiro-bilharvas"
+    type: talk
+    date: 2019-09-28
+    start_time: "09:40"
+    end_time: "10:05"
+  - title: "marcelo-andre"
+    type: talk
+    date: 2019-09-28
+    start_time: "10:10"
+    end_time: "10:45"
+  - title: "diego-cavalcanti"
+    type: talk
+    date: 2019-09-28
+    start_time: "10:50"
+    end_time: "11:15"
+  - title: "tatiane-paya"
+    type: talk
+    date: 2019-09-28
+    start_time: "11:20"
+    end_time: "11:45" 
+  - title: "Almoço"
+    type: open-space
+    date: 2019-09-28
+    start_time: "11:45"
+    end_time: "13:00"
+  - title: "monica-cachoni"
+    type: talk
+    date: 2019-09-28
+    start_time: "13:00"
+    end_time: "13:25"
+  - title: "cicilia-pinto"
+    type: talk
+    date: 2019-09-28
+    start_time: "13:30"
+    end_time: "14:05"
+  - title: "lanay-marques"
+    type: talk
+    date: 2019-09-28
+    start_time: "14:10"
+    end_time: "14:35"
+  - title: "gabriel-policante"
+    type: talk
+    date: 2019-09-28
+    start_time: "14:40"
+    end_time: "15:05"
+  - title: "gabriela-dias"
+    type: talk
+    date: 2019-09-28
+    start_time: "15:10"
+    end_time: "15:45"
+  - title: "Coffee-Break"
+    type: open-space
+    date: 2019-09-28
+    start_time: "15:50"
+    end_time: "16:30"
+  - title: "shara-shami"
+    type: talk
+    date: 2019-09-28
+    start_time: "16:30"
+    end_time: "16:55"
+  - title: "jeremias-araujo"
+    type: talk
+    date: 2019-09-28
+    start_time: "17:00"
+    end_time: "17:25"
+  - title: ""
+    type: talk
+    date: 2019-09-28
+    start_time: "17:30"
+    end_time: "17:55"
+  - title: "jeferson-noronha"
+    type: talk
+    date: 2019-09-28
+    start_time: "18:00"
+    end_time: "18:35"
+  - title: "Papo com palestrantes e Encerramento"
+    type: open-space
+    date: 2019-09-28
+    start_time: "18:40"
+    end_time: "19:00"

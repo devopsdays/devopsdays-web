@@ -20,12 +20,15 @@ Description = "DevOpsDays Auckland 2019"
       <div class="col-md-6">
         <div class = "d-flex p-2">
           <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px;   background-color: #418ede; border-color: #418ede;" href="https://devopsdays-auckland.lilregie.com/">
-          <i class="fa fa-ticket"></i>&nbsp;&nbsp;&nbsp;Early Bird Tickets now available - Book Now!</a>
+          <i class="fa fa-ticket"></i>&nbsp;&nbsp;&nbsp;Book now - limited tickets available!</a>
         </div>
       </div>
     </div>
     <p> Come share, learn, laugh and be encouraged by the many great things happening in the technology sector over two days at the newly refurbished Aotea Centre, located in the heart of Auckland city. DevOpsDays Auckland includes contributors from across the software delivery, QA, security, operations and management spectrum.</p>
     <p>Celebrating diversity and inclusiveness is important to us. Free tickets are available for those from minority groups and unwaged/students who do not have funds to attend. Fill out this <a href="https://docs.google.com/forms/d/e/1FAIpQLSfL52g6gM5kETifyqSpJs9FU3hQi8aMIaL9a_RmOHNEBAg2Aw/viewform?vc=0&c=0&w=1">form</a> to apply for the scholarship.</p>
+    <hr/>
+    <h5>Measles Outbreak</h5>
+    <p>Keeping you and your families safe is our top priority. Please check out the <a href="https://www.health.govt.nz/your-health/conditions-and-treatments/diseases-and-illnesses/measles/2019-measles-outbreak-information">Ministry of Health</a> guidelines.</p>
     <hr/>
     <div class="row">
     <div class="col-md-2">
@@ -51,12 +54,20 @@ Description = "DevOpsDays Auckland 2019"
       {{< event_link page="registration" text="Register to attend the conference!" >}}
     </div>
   </div>
+    <div class="row">
+    <div class="col-md-2">
+      <strong>Program</strong>
+    </div>
+    <div class="col-md-6">
+      {{< event_link page="program" text="Check out the program!" >}}
+    </div>
+  </div>
   <div class="row">
     <div class="col-md-2">
       <strong>Propose</strong>
     </div>
     <div class="col-md-6">
-      {{< event_link page="propose" text="Submit your Proposal!" >}}
+      The CFP has now closed
     </div>
   </div>
   <div class="row">

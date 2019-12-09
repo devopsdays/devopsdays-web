@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Hot Takes, Myths, And Fake News - Why Everyone Is Wrong About DevOps Except For Me"
 Type = "talk"
 Speakers = ["matt-stratton"]
+notist = "mattstratton/BrkiXj"
 +++
 
 Everyone has an opinion about DevOps. The problem is, most people’s

@@ -5,6 +5,8 @@ Talk_end_time = ""
 Title = "Service Ownership @Slack"
 Type = "talk"
 Speakers = ["holly-allen"]
+pdf = "https://assets.devopsdays.org/events/2019/chicago/DevOpsDaysChicago-HollyAllen-Slack-Aug2019.pdf"
+youtube = "USB4QyiOXvY"
 +++
 
 Last year the Slack development team and operations teams were living in different worlds. Development teams deployed to production over a hundred times a day, and a centralized operations team tried to fix things when they broke. The operations teams struggled to support systems they had not written. Heros and knowledge islands saved the day over and over. Post-incident meetings were poorly attended and did not encourage learning. 
