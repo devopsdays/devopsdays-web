@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = " HTTP Fundamentals Workshop"
 Type = "talk"
-Speakers = ["michael-arenzon","avishai-ishshalom"]
+Speakers = ["michael-arenzon","avishai-ish-shalom"]
 +++
 
 HTTP is the de-facto standard protocol of the internet and heavily used in almost all systems - in depth understanding of HTTP is crucial for design, performance scaling and day to day operations.

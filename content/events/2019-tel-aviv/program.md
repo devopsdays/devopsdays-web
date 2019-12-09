@@ -339,7 +339,7 @@ heading = "devopsdays Tel Aviv - Program"
   <div class = "col-md-8 col-md-offset-3 box">
     Ignites: <br/>
     <a href="/events/2019-tel-aviv/program/allison-mcmillan-ignite">Baby Driven Development | <strong>Allison McMillan</strong></a><br/>
-    From Zero to Hero: Container Security | <strong>Karni Wolf</strong> <br/>
+    <a href="/events/2019-tel-aviv/program/karni-wolf">From Zero to Hero: Container Security | <strong>Karni Wolf</strong></a><br/>
     <a href="/events/2019-tel-aviv/program/elad-leev">What can you learn from the biggest automation company in the world? | <strong>Elad Leev  </strong></a><br/>
     <a href="/events/2019-tel-aviv/program/gil-bahat">Email - a transaction by any other name | <strong>Gil Bahat</strong></a><br/>
     <a href="/events/2019-tel-aviv/program/ronen-botzer">That Garbage Benchmark is Useless | <strong>Ronen Botzer</strong></a><br/>

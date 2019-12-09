@@ -4,7 +4,8 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Rick and (Post)Morty"
 Type = "talk"
-Speakers = ["erik-zaadi"]
+Speakers = ["erik-zaadi","daniel-korn"]
+aliases = ["/events/2019-tel-aviv/program/erik-zaadi"]
 +++
 
 Whether you’ve watched the show or not, you are probably aware of the phenomenon that is called Rick and Morty.
