@@ -42,7 +42,7 @@ Note that these changes will not persist past a reboot of your computer, so you'
 
 Make your own [fork](https://help.github.com/articles/fork-a-repo/) of the `devopsdays-web` repository.
 
-Add the source repository as a remote called "upstream":
+Add the source repository as a [remote called "upstream"](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/configuring-a-remote-for-a-fork):
 
 ```
 git remote add upstream git@github.com:devopsdays/devopsdays-web.git
