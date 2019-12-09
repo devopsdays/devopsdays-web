@@ -1,9 +1,9 @@
 +++
-Title = "Brian C. Murphy"
+Title = "Brian D. Murphy"
 Twitter = ""
 image = "brian-murphy.jpg"
 type = "speaker"
-linktitle = "brian-c-murphy"
+linktitle = "brian-murphy"
 
 +++
 
