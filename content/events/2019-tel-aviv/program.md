@@ -76,7 +76,7 @@ heading = "devopsdays Tel Aviv - Program"
    <a href="/events/2018-tel-aviv/program/eran-harel">Reactive Programming by Example<strong><br/>Eran Harel</strong></a>
 </div>
 <div class = "col-md-3 col-md-offset-6 box">
-    <a href="/events/2018-tel-aviv/program/omer-lev-hevroni"> Solving trust issues at scale<strong><br/>Omer Levi Hevroni</strong></a>
+    <a href="/events/2018-tel-aviv/program/omer-levi-hevroni"> Solving trust issues at scale<strong><br/>Omer Levi Hevroni</strong></a>
 </div>
 <div class = "col-md-3 col-md-offset-9 box">
     <a href="/events/2019-tel-aviv/program/lev-andelman-andrei-burd"> <strong>Masterclass:</strong> Zen and the art of multi-cloud maintenance (Terraform, Consul, Vault and Nomad)<strong><br/>Lev Andelman & Andrei Burd</strong></a></div>
@@ -340,7 +340,7 @@ heading = "devopsdays Tel Aviv - Program"
     Ignites: <br/>
     <a href="/events/2019-tel-aviv/program/allison-mcmillan-ignite">Baby Driven Development | <strong>Allison McMillan</strong></a><br/>
     From Zero to Hero: Container Security | <strong>Karni Wolf</strong> <br/>
-    What can you learn from the biggest automation company in the world? | <strong>Elad Leev  </strong><br/>
+    <a href="/events/2019-tel-aviv/program/allison-mcmillan-ignite">What can you learn from the biggest automation company in the world? | <strong>Elad Leev  </strong></a><br/>
     <a href="/events/2019-tel-aviv/program/gil-bahat">Email - a transaction by any other name | <strong>Gil Bahat</strong></a><br/>
     <a href="/events/2019-tel-aviv/program/ronen-botzer">That Garbage Benchmark is Useless | <strong>Ronen Botzer</strong></a><br/>
     </div>
@@ -354,7 +354,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>16:45-17:30</time>
   </div>
   <div class = "col-md-8 col-md-offset-2 box">
-  <a href="/events/2019-tel-aviv/program/gwen-shapira">Spotlight Talk: <strong>Robert Barron</strong> 50 Years After: Resiliency Lessons from the Apollo Missions to the Moon</a></div>
+  <a href="/events/2019-tel-aviv/program/robert-barron">Spotlight Talk: <strong>Robert Barron</strong> 50 Years After: Resiliency Lessons from the Apollo Missions to the Moon</a></div>
 </div> 
 <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
