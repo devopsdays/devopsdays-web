@@ -73,10 +73,10 @@ heading = "devopsdays Tel Aviv - Program"
     <time>10:20-11:00</time>
 </div>
 <div class = "col-md-2 col-md-offset-3 box">
-   <a href="/events/2018-tel-aviv/program/eran-harel">Reactive Programming by Example<strong><br/>Eran Harel</strong></a>
+   <a href="/events/2019-tel-aviv/program/eran-harel">Reactive Programming by Example<strong><br/>Eran Harel</strong></a>
 </div>
 <div class = "col-md-3 col-md-offset-6 box">
-    <a href="/events/2018-tel-aviv/program/omer-levi-hevroni"> Solving trust issues at scale<strong><br/>Omer Levi Hevroni</strong></a>
+    <a href="/events/2019-tel-aviv/program/omer-levi-hevroni"> Solving trust issues at scale<strong><br/>Omer Levi Hevroni</strong></a>
 </div>
 <div class = "col-md-3 col-md-offset-9 box">
     <a href="/events/2019-tel-aviv/program/lev-andelman-andrei-burd"> <strong>Masterclass:</strong> Zen and the art of multi-cloud maintenance (Terraform, Consul, Vault and Nomad)<strong><br/>Lev Andelman & Andrei Burd</strong></a></div>
@@ -154,7 +154,7 @@ heading = "devopsdays Tel Aviv - Program"
 </div>
 <div class = "col-md-4 col-md-offset-3 box">
    <a href="#">15:00-15:20 | Tell Me Something I Don't Know - <strong><em>Sponsored by Namogoo!</em></strong><br/>
-   <a href="#">15:20-16:00 | OPEN SPACES<br/></div>
+   <a href="/pages/open-space-format">15:20-16:00 | OPEN SPACES<br/></div>
 <div class = "col-md-4 col-md-offset-6 box">
     <a href="/events/2019-tel-aviv/program/lev-andelman-andrei-burd"> <strong>Masterclass Continued</strong></a></div>
 </div> 
@@ -326,7 +326,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>15:00-16:00</time>
 </div>
 <div class = "col-md-4 col-md-offset-3 box">
-   <a href="#">15:20-16:00 | OPEN SPACES<br/></div>
+   <a href="/pages/open-space-format">15:20-16:00 | OPEN SPACES<br/></div>
 <div class = "col-md-4 col-md-offset-6 box">
     <a href="/events/2019-tel-aviv/program/#"> <strong>Masterclass Continued</strong></a></div>
 </div> 

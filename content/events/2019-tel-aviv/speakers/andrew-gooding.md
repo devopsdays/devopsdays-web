@@ -1,10 +1,9 @@
 +++
 Title = "Andrew Gooding"
 Twitter = ""
-image = ""
+image = "andrew-gooding.jpg"
 type = "speaker"
 linktitle = "andrew-gooding"
-
 +++
 
 VP of Engineering at Aerospike, formerly Chief Software Architect at Aerospike.

@@ -1,7 +1,7 @@
 +++
 Title = "Allison McMillan"
 Twitter = ""
-image = ""
+image = "allison-mcmillan.jpg"
 type = "speaker"
 linktitle = "allison-mcmillan"
 
