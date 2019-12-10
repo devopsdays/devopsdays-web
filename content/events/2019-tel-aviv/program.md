@@ -307,7 +307,7 @@ heading = "devopsdays Tel Aviv - Program"
     <a href="/events/2019-tel-aviv/program/amir-shevat"> Building a DevOpsLESS Platform <br/> <strong>Amir Shevat</strong>  </a></div>
 <div class = "col-md-3 col-md-offset-6 box">
     <a href="/events/2019-tel-aviv/program/natan-silnitsy">14:00-14:20 | Exactly Once Delivery is a Harsh Mistress <br/> <strong>Natan Silnitsy</strong></a><br/>
-    <a href="/events/2019-tel-aviv/program/erik-zaadi">14:20-14:40 | Fight, Flight, or Freeze — Releasing Organizational Trauma<br/> <strong>Matty Stratton</a></strong></a></div>
+    <a href="/events/2019-tel-aviv/program/matt-stratton">14:20-14:40 | Fight, Flight, or Freeze — Releasing Organizational Trauma<br/> <strong>Matty Stratton</a></strong></a></div>
 <div class = "col-md-3 col-md-offset-9 box"><a href="/events/2019-tel-aviv/program/michael-arenzon-avishai-ishshalom"> <strong>Masterclass Continued</strong></a></div>
 </div>
 <!-- end timeslot div -->
