@@ -12,14 +12,20 @@ Description = "devopsdays Des Moines 2020"
 <div class = "row">
   <div class = "col-md-4">
     <div class = "row justify-content-center">
-      <!-- <div class = "d-flex p-2">
-        <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="/events/2020-des-moines/sponsor">
-          <i class="fa fa-dollar fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference
-        </a>
-      </div> -->
       <div class = "d-flex p-2">
-        <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="/events/2020-des-moines/contact">
-          <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Contact the Organizers
+        <a class="btn btn-primary btn-block"  style = "background-color: #96bfe6; border-color: #96bfe6;" href="https://www.papercall.io/devopsdaysdesmoines2020">
+          <i class="fa fa-bullhorn fa-lg"></i>&nbsp;&nbsp;&nbsp;Propose a Talk
+        </a>
+      </div>
+      <!-- <div class = "d-flex p-2">
+        <a class="btn btn-primary btn-block"  style = "background-color: #96bfe6; border-color: #96bfe6;" href="/events/2020-des-moines/program">
+          <i class="fa fa-book fa-lg"></i>&nbsp;&nbsp;&nbsp;View the Program
+        </a>
+      </div>
+      -->
+      <div class = "d-flex p-2">
+        <a class="btn btn-primary btn-block"  style = "background-color: #96bfe6; border-color: #96bfe6;" href="/events/2020-des-moines/sponsor">
+          <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference
         </a>
       </div>
       <img src = "/events/2020-des-moines/logo.png" height="400px">
@@ -45,6 +51,11 @@ Description = "devopsdays Des Moines 2020"
               <i class="fa fa-linkedin-square fa-lg"></i>&nbsp;&nbsp;&nbsp;Follow Us On LinkedIn
             </a>
           </div>
+          <div class = "d-flex p-2">
+          <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="/events/2020-des-moines/contact">
+          <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Contact the Organizers
+        </a>
+        </div>
       </div>
     </div>
 </div>
