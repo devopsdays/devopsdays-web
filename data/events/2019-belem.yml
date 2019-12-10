@@ -210,8 +210,8 @@ program:
     start_time: "12:00"
     end_time: "13:00"
     background_color: "#EDBB99"
-  - title: "TBD"
-    type: custom
+  - title: "diemisom-melo"
+    type: talk
     date: 2019-12-14
     start_time: "13:00"
     end_time: "13:35"

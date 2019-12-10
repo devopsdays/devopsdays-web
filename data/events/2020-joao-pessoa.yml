@@ -68,14 +68,14 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
-  - name: "Marcelo Freire"
+  - name: "Daniela Pitta"
     role: "Organizer"
     bio: ""
-    linkedin: "https://www.linkedin.com/in/marcelofreire88/"
-    website: ""
-    github: "MarceloFreire88"
-    twitter: "@MarceloFreire88"
-    image: "marcelo-fernandes.jpg"
+    linkedin: "http://linkedin.com/in/dlpitta"
+    website: "https://www.dlpitta.me/"
+    github: "dlpitta"
+    twitter: "@dlpitta"
+    image: "daniela.jpg"
 
   - name: "Jefferson Soares"
     role: "Organizer"
@@ -85,6 +85,16 @@ team_members: # Name is the only required field for team members.
     github: "jeffersonmss"
     twitter: "@jeffersonmss"
     image: "jefferson.jpg"
+
+  - name: "Marcelo Freire"
+    role: "Organizer"
+    bio: ""
+    linkedin: "https://www.linkedin.com/in/marcelofreire88/"
+    website: ""
+    github: "MarceloFreire88"
+    twitter: "@MarceloFreire88"
+    image: "marcelo-fernandes.jpg"
+
 
   - name: "Diego Cananea"    
     role: "Organizer"

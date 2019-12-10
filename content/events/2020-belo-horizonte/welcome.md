@@ -1,13 +1,13 @@
 +++
-Title = "devopsdays Belo Horizonte 2020"
+Title = "Devopsdays in Belo Horizonte 2020"
 Type = "welcome"
 aliases = ["/events/2020-belo-horizonte/"]
-Description = "devopsdays Belo Horizonte 2020"
+Description = "Devopsdays in Belo Horizonte 2020"
 +++
 
-<!-- <div style="text-align:center;">
+<div style="text-align:center;">
   {{< event_logo >}}
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
