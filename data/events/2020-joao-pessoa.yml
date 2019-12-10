@@ -11,8 +11,8 @@ description: "Em 2020 irá acontecer a primeira edição do DevOpsDays João Pes
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: 2020-06-06T08:00:00-03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2020-06-06T18:30:00-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+#startdate: 2020-06-06T08:00:00-03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+#enddate: 2020-06-06T18:30:00-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 #cfp_date_start: 2019-12-24T00:00:00-03:00 # start accepting talk proposals.
@@ -32,24 +32,24 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 # Location
 #
-coordinates: "-7.159213,--34.854557" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Auditório do UNIPÊ" # Defaults to city, but you can make it the venue name.
+#coordinates: "-7.159213,--34.854557" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+#location: "Auditório do UNIPÊ" # Defaults to city, but you can make it the venue name.
 #
-location_address: "Rodovia BR-230,km 22, s/n - Água Fria, João Pessoa - PB," #Optional - use the street address of your venue. This will show up on the welcome page if set.
+#location_address: "Rodovia BR-230,km 22, s/n - Água Fria, João Pessoa - PB," #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: Informações
-    icon: "map-o"
-    url: /events/2020-joao-pessoa/location
+  #- name: Informações
+  #  icon: "map-o"
+  #  url: /events/2020-joao-pessoa/location
   # - name: Palestrantes
   #   icon: "microphone"
-  #   url: /events/2020-natal/speakers
+  #   url: /events/2020-joao-pessoa/speakers
   # - name: Programação
   #   icon: "book"
-  #   url: /events/2020-natal/program
+  #   url: /events/2020-joao-pessoa/program
   # - name: Local
   #   icon: "map-o"
-  #   url: /events/2020-natal/location
+  #   url: /events/2020-joao-pessoa/location
   # - name: Palestre (CFP)
   #   icon: "user-plus"
   #   url: ""
@@ -106,7 +106,7 @@ team_members: # Name is the only required field for team members.
 
 
 organizer_email: "" # Put your organizer email address here
-#proposal_email: "proposals-natal-2019@devopsdays.org" # Put your proposal email address here
+
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
@@ -117,7 +117,7 @@ organizer_email: "" # Put your organizer email address here
 #     url: https://xxxx/ # Use this if you need to over-ride a sponsor URL.
 sponsors:
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "No" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -138,6 +138,6 @@ sponsor_levels:
 program:
   - title: "DevOpsDays"
     type: custom
-    date: 2020-03-28
+    date: 2020-06-06
     start_time: "08:00"
     end_time: "18:30"
