@@ -5,6 +5,12 @@ aliases = ["/events/2020-vancouver/"]
 Description = "devopsdays Vancouver 2020"
 +++
 
+<strong>
+  Email us at: <a href="mailto:vancouver@devopsdays.org?subject=devopsdays Vancouver">vancouver@devopsdays.org</a>
+</strong>
+<br/>
+{{< event_twitter >}}
+
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
 </div> -->
@@ -18,14 +24,14 @@ Description = "devopsdays Vancouver 2020"
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -36,14 +42,14 @@ Description = "devopsdays Vancouver 2020"
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -72,6 +78,7 @@ Description = "devopsdays Vancouver 2020"
   </div>
 </div>
 
+
 <div class = "row">
   <div class = "col-md-2">
     <strong>Contact</strong>
@@ -81,7 +88,4 @@ Description = "devopsdays Vancouver 2020"
   </div>
 </div>
 
-<!-- Uncomment if you added your city twitter name -->
-
-{{< event_twitter >}}
 
