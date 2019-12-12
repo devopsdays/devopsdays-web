@@ -14,11 +14,11 @@ startdate: 2020-09-17T00:00:00+02:00
 enddate: 2020-09-18T23:59:59+02:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2019-12-05T00:00:00+02:00 # start accepting talk proposals.
+cfp_date_end: 2020-05-31T23:59:59+02:00 # close your call for proposals.
+cfp_date_announce:  2020-06-14T18:00:00+02:00 # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://sessionize.com/devopsdays-cape-town-2020" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: # close registration. Leave blank if registration is not open yet.
@@ -35,9 +35,9 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #  - name: program
   - name: location
 #  - name: registration
-#  - name: sponsor
+  - name: sponsor
 #  - name: speakers
-#  - name: propose
+  - name: propose
   - name: contact
   - name: conduct
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
