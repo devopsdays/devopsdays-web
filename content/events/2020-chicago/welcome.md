@@ -14,14 +14,14 @@ DevOpsDays Chicago brings development, operations, QA, InfoSec, management, and 
 <br><br>
 The format of DevOpsDays Chicago includes a single track of 30 minute talks in the morning of each day, followed by Ignite talks (5 minute lightning talks). We spend the rest of the afternoon in Open Spaces, which are considered a key portion of the event.
 <br><br>
-<b>Dates for the 2020 event are not yet finalized. Subscribe to our mailing list below to be the first to know when dates are announced!</b>
+<b>Subscribe to our mailing list below to be the first to know more updates!</b>
 <div class = "row">
   <div class = "col-md-12">
   <div class = "row justify-content-center">
     <div class = "d-flex p-2">
-      <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://www.linkedin.com/groups/7052023/">
-        <i class="fa fa-linkedin-square fa-lg"></i>&nbsp;&nbsp;&nbsp;Join Our LinkedIn Group
-      </a>
+         <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="/events/2020-chicago/sponsor">
+            <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference
+          </a>
     </div>
     <div class = "d-flex p-2">
       <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://www.instagram.com/devopsdayschi/">

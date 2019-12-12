@@ -43,6 +43,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: sponsor
   - name: contact
   - name: conduct
+  - name: meetups
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -95,15 +96,6 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/rafaella-mazioli-558bb2111"
     website: ""
     image: "rafaelamazioli.jpg"
-  - name: "Vinicius Camata Stein"
-    twitter: ""
-    employer: "Executive Manager"
-    bio: ""
-    github: ""
-    facebook: ""
-    linkedin: ""
-    website: ""
-    image: "viniciuscamata.jpg"
   - name: "Susilea Abreu"
     twitter: ""
     employer: "Information Systems and Computer Science Courses Coordinator"
@@ -113,15 +105,15 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/susil%C3%A9a-abreu-20981124"
     website: ""
     image: "susileaabreu.jpg"
-  - name: "João Victor Rocon Maia"
-    twitter: "jvrmaia"
-    employer: "Software Engineer and Informatic Master Degree candidate"
+  - name: "Vinicius Camatta"
+    twitter: ""
+    employer: "Head of Innovation at Viprede"
     bio: ""
-    github: "jvrmaia"
+    github: ""
     facebook: ""
-    linkedin: "https://www.linkedin.com/in/jvrmaia/"
+    linkedin: "https://www.linkedin.com/in/vinicius-camatta-stein-3a73203a/"
     website: ""
-    image: "joaomaia.jpg"
+    image: "viniciuscamata.jpg"
   - name: "Jakson Galeti"
     twitter: "JaksonGaleti"
     employer: "Head of Cloud Infrastructure"
@@ -131,37 +123,52 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/jaksongaleti/"
     website: ""
     image: "jacksongaleti.jpg"
-
-  - name: "Léo Hackin"
-    twitter: ""
-    employer: "Chief Visionary Officer"
+  - name: "João Victor Rocon Maia"
+    twitter: "jvrmaia"
+    employer: "Software Engineer and Informatic Master Degree candidate"
     bio: ""
-    github: "leohackin"
+    github: "jvrmaia"
     facebook: ""
-    linkedin: "https://www.linkedin.com/in/leohackin/"
+    linkedin: "https://www.linkedin.com/in/jvrmaia/"
     website: ""
-    image: "hackin.png"
+    image: "joaomaia.jpg"
 
-#  - name: "Hendrio Fernandes"
-#    twitter: ""
-#    employer: "Network Analyst"
-#    bio: ""
-#    github: ""
-#    facebook: ""
-#    linkedin: ""
-#    website: ""
-#    image: ""
 
 organizer_email: "vitoria@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
-#sponsors:
+sponsors:
 #  - id: samplesponsorname
 #    level: gold
 # #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-#  - id: spiritsec
-#    level: community
+  - id: linuxtips
+    level: community
+    url: https://www.linuxtips.io/
+  - id: spiritsec
+    level: gold
+    url: https://www.spiritsec.com/en/
+  - id: guiafoca
+    level: community
+    url: https://guiafoca.org/
+  - id: viprede
+    level: platinum
+    url: http://viprede.com.br/
+  - id: globalsys
+    level: platinum
+    url: http://www.globalsys.com.br/
+#  - id: picpay
+#    level: platinum
+#    url: https://www.picpay.com/
+  - id: aws
+    level: silver
+    url: https://aws.amazon.com/
+  - id: inflor
+    level: silver
+    url: https://www.inflor.com.br/
+#  - id: liftbank
+#    level: silver
+#    url: https://liftbank.com.br/
 #  - id: moveissimonetti
 #    level: community
 #  - id: pag
@@ -173,20 +180,22 @@ organizer_email: "vitoria@devopsdays.org" # Put your organizer email address her
 #  - id: viprede
 #    level: community
 
-#sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
-#sponsor_levels:
-#  - id: gold
-#    label: Gold
+sponsor_levels:
+  - id: platinum
+    label: Platinum
+  - id: gold
+    label: Gold
 ##    max: 10
-#  - id: silver
-#    label: Silver
+  - id: silver
+    label: Silver
 #    max: 0 # This is the same as omitting the max limit.
 #  - id: bronze
 #    label: Bronze
-#  - id: community
-#    label: Community
+  - id: community
+    label: Community

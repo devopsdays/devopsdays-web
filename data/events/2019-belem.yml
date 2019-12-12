@@ -39,12 +39,12 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     url: https://www.papercall.io/devopsdaysbelem2019
   - name: Inscreva-se
     url: https://www.sympla.com.br/devopsdays-belem-2019__666901
-  # - name: Programa
-  #   url: /events/2019-belem/programa
-  # - name: Palestrantes
-  #   url: /events/2019-belem/speakers
+  - name: Programa
+    url: /events/2019-belem/programa
+  - name: Palestrantes
+    url: /events/2019-belem/speakers
   - name: Patrocínio
-    url: /events/2019-belem/patrocinio
+    url: /events/2019-belem/sponsor
   - name: Código de Conduta
     url: /events/2019-belem/conduta
   # - name: Certificados
@@ -109,13 +109,13 @@ sponsors:
     level: silver
 
   - id: hub728
-    level: community
+    level: support
 
   - id: beloffice
-    level: community
+    level: support
 
   - id: cognita
-    level: community
+    level: support
 
   - id: sql-norte
     level: community
@@ -124,19 +124,31 @@ sponsors:
     level: community
 
   - id: banco-amazonia
-    level: platinum
+    level: support
 
   - id: adaptworks
     level: gold
 
-  - id: eguatech
-    level: community
-
   - id: paramais
-    level: community
+    level: support
 
   - id: aws
     level: platinum
+
+  - id: vibe
+    level: gold
+
+  - id: sucesupa
+    level: community
+
+  - id: w3as
+    level: platinum
+
+  - id: voxdata
+    level: platinum
+
+  - id: sofintech
+    level: gold
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -157,85 +169,86 @@ sponsor_levels:
     label: Safo
   - id: community
     label: Comunidade
-# program:
-#   - title: "Credenciamento / Coffee-break ☕️"
-#     type: custom
-#     date: 2018-11-24
-#     start_time: "08:30"
-#     end_time: "09:00"
-#     background_color: "#FDF2E9"
-#   - title: "Abertura"
-#     type: custom
-#     date: 2018-11-24
-#     start_time: "09:00"
-#     end_time: "09:15"
-#   - title: "rafael-gomex"
-#     type: talk
-#     date: 2018-11-24
-#     start_time: "09:15"
-#     end_time: "10:15"
-#     background_color: "#AED6F1"
-#   - title: "camilla-martins"
-#     type: talk
-#     date: 2018-11-24
-#     start_time: "10:15"
-#     end_time: "10:50"
-#   - title: "iago-cavalcante"
-#     type: talk
-#     date: 2018-11-24
-#     start_time: "10:50"
-#     end_time: "11:25"
-#   - title: "lucas-mousinho"
-#     type: talk
-#     date: 2018-11-24
-#     start_time: "11:25"
-#     end_time: "12:00"
-#   - title: "Intervalo para almoço"
-#     type: custom
-#     date: 2018-11-24
-#     start_time: "12:00"
-#     end_time: "13:00"
-#     background_color: "#EDBB99"
-#   - title: "carlos-souza"
-#     type: talk
-#     date: 2018-11-24
-#     start_time: "13:00"
-#     end_time: "14:00"
-#     background_color: "#AED6F1"
-#   - title: "alessandra-martins"
-#     type: talk
-#     date: 2018-11-24
-#     start_time: "14:00"
-#     end_time: "14:35"
-#   - title: "thomaz-leite"
-#     type: talk
-#     date: 2018-11-24
-#     start_time: "14:35"
-#     end_time: "15:10"
-#   - title: "leandro-pantoja"
-#     type: talk
-#     date: 2018-11-24
-#     start_time: "15:10"
-#     end_time: "15:40"
-#   - title: "Coffee-break ☕️"
-#     type: custom
-#     date: 2018-11-24
-#     start_time: "15:40"
-#     end_time: "16:00"
-#     background_color: "#FDF2E9"
-#   - title: "FishBowl"
-#     type: fish-bowl
-#     date: 2018-11-24
-#     start_time: "16:00"
-#     end_time: "17:00"
-#   - title: "artur-tupiassu"
-#     type: talk
-#     date: 2018-11-24
-#     start_time: "17:00"
-#     end_time: "18:00"
-#     background_color: "#AED6F1"
-#   - title: "Encerramento"
-#     type: custom
-#     date: 2018-11-24
-#     start_time: "18:00"
-#     end_time: "18:15"
+  - id: support
+    label: Apoio
+
+program:
+  - title: "Credenciamento / Café da Manhã ☕️"
+    type: custom
+    date: 2019-12-14
+    start_time: "08:30"
+    end_time: "09:10"
+    background_color: "#FDF2E9"
+  - title: "Abertura"
+    type: custom
+    date: 2019-12-14
+    start_time: "09:10"
+    end_time: "09:40"
+  - title: "raffael-mendes"
+    type: talk
+    date: 2019-12-14
+    start_time: "09:40"
+    end_time: "10:15"
+  - title: "renato-borges"
+    type: talk
+    date: 2019-12-14
+    start_time: "10:15"
+    end_time: "10:50"
+  - title: "valdomiro-bilharvas"
+    type: talk
+    date: 2019-12-14
+    start_time: "10:50"
+    end_time: "11:25"
+  - title: "paulo-alexandre-costa"
+    type: talk
+    date: 2019-12-14
+    start_time: "11:25"
+    end_time: "12:00"
+  - title: "Intervalo para almoço"
+    type: custom
+    date: 2019-12-14
+    start_time: "12:00"
+    end_time: "13:00"
+    background_color: "#EDBB99"
+  - title: "diemisom-melo"
+    type: talk
+    date: 2019-12-14
+    start_time: "13:00"
+    end_time: "13:35"
+  - title: "leandro-pantoja"
+    type: talk
+    date: 2019-12-14
+    start_time: "13:35"
+    end_time: "14:10"
+  - title: "carlos-oeiras"
+    type: talk
+    date: 2019-12-14
+    start_time: "14:10"
+    end_time: "14:45"
+  - title: "alexsander-melo"
+    type: talk
+    date: 2019-12-14
+    start_time: "14:45"
+    end_time: "15:20"
+  - title: "Coffee-break ☕️"
+    type: custom
+    date: 2019-12-14
+    start_time: "15:20"
+    end_time: "16:00"
+    background_color: "#FDF2E9"
+  - title: "FishBowl"
+    type: fish-bowl
+    date: 2019-12-14
+    start_time: "16:00"
+    end_time: "17:00"
+  - title: "vinicius-senger"
+    type: talk
+    date: 2019-12-14
+    start_time: "17:00"
+    end_time: "18:00"
+    background_color: "#AED6F1"
+  - title: "Encerramento"
+    type: custom
+    date: 2019-12-14
+    start_time: "18:00"
+    end_time: "19:00"
