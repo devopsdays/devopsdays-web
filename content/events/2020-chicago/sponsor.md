@@ -11,19 +11,10 @@ We greatly value sponsors for this community event. If you are interested in spo
 
 <hr>
 
-DevOpsDays is a self-organizing conference for practitioners that
-depends on sponsorships. We do not have large vendor booths or sell product
-presentations. Sponsors have the opportunity to have short elevator
-pitches during the program and will get recognition on the website
-and social media before, during and after the event. Sponsors are
-encouraged to represent themselves by actively participating and
-engaging with the attendees as peers. Any attendee also has the
-opportunity to demo products/projects as part of an open space
-session, but this is not 'that kind of conference' and heavy
-marketing will probably work against you when trying to make a good
-impression on the attendees.
-<br><br>
-The best thing to do is send engineers to interact with the experts at DevOpsDays on their own terms.
+DevOpsDays is a worldwide series of community-led events covering topics of software development, IT infrastructure operations, and the intersection between them. Sponsors support the local event and build the community. 
+Recruit talent, generate brand awareness, distribute stickers, and support the Chicago DevOps community.<br><br>
+Sponsors are encouraged to represent themselves by actively participating and engaging with participants as peers. 
+All sponsors will have their logo displayed on the DevOpsDays Chicago website, a tweet before the conference, and a thank you during the conference. All sponsors get 20% discount on tickets.
 <br><br>
 <h2>Sponsorship Packages</h2>
 
@@ -150,7 +141,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <td></td>
     </tr>
     <tr>
-      <td>Shout-out from MC's at kickoff and again at breaks</td>
+      <td>Shout-out from MCs at kickoff and again at breaks</td>
       <td><img src = "/events/2020-chicago/yak-head.png"></td>
       <td></td>
       <td></td>
@@ -171,7 +162,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <td></td>
     </tr>
     <tr>
-      <td>One-minute pitch between talks (includes live-stream audience)</td>
+      <td>One-minute pitch between talks</td>
       <td><img src = "/events/2020-chicago/yak-head.png"></td>
       <td></td>
       <td></td>
@@ -201,15 +192,15 @@ All special sponsors will have their logo displayed on the DevOpsDays Chicago we
       <td align="center"><i class="fa fa-music fa-4x"></i></td>
       <td>Evening Event</td>
       <td>$15,000</td>
-      <td>Pay for drinks, food and entertainment - get an exclusive space for the night. Can be split by two sponsors</td>
+      <td>Prime booth location at the evening event with options to customize activities, food, and drink</td>
       <td>4</td>
-      <td>2</td>
+      <td>1</td>
     </tr>
     <tr>
       <td align="center"><i class="fa fa-video-camera fa-4x"></i></td>
       <td>Video</td>
       <td>$7,000</td>
-      <td>Your logo on each video recording</td>
+      <td>Your logo on each talk recording</td>
       <td>2</td>
       <td>1</td>
     </tr>
@@ -217,7 +208,7 @@ All special sponsors will have their logo displayed on the DevOpsDays Chicago we
       <td align="center"><i class="fa fa-car fa-4x"></i></td>
       <td>Transportation</td>
       <td>$3,000</td>
-      <td>Sponsor a custom Lyft code for participants</td>
+      <td>Custom Lyft code for participants to and from the event</td>
       <td>0</td>
       <td>1</td>
     </tr>
@@ -225,17 +216,25 @@ All special sponsors will have their logo displayed on the DevOpsDays Chicago we
       <td align="center"><i class="fa fa-cutlery fa-4x"></i></td>
       <td>Lunch</td>
       <td>$6,000</td>
-      <td>Sponsor 1 day and get 1min talk before lunch</td>
-      <td>6</td>
+      <td>Prime booth location and 1min pitch for 1 day of lunch</td>
+      <td>4</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td align="center"><i class="fa fa-commenting fa-4x"></i></td>
+      <td>Live Transcription</td>
+      <td>$2,000</td>
+      <td>Logo on slides at each breach and MC shout outs</td>
+      <td>2</td>
       <td>1</td>
     </tr>
     <tr>
-      <td align="center"><i class="fa fa-heart fa-4x"></i></td>
-      <td>Scholarships</td>
-      <td>Varies</td>
-      <td>Provide tickets for under-indexed groups to attend</td>
-      <td>5</td>
-      <td></td>
+      <td align="center"><i class="fa  fa-address-card fa-4x"></i></td>
+      <td>Lanyards</td>
+      <td>$4,500</td>
+      <td>Custom logo on all participant lanyards</td>
+      <td>2</td>
+      <td>1</td>
     </tr>
   </tbody>
 </table>
