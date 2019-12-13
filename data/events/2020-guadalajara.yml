@@ -101,6 +101,10 @@ proposal_email: "guadalajara@devopsdays.org" # Put your proposal email address h
 sponsors:
   - id: meetup-docker-guadalajara
     level: community
+  - id: itrevolution
+    level: community
+  - id: meetup-docker-mexico-city
+    level: community
 # - id: arresteddevops
 #  level: community
 
