@@ -118,6 +118,8 @@ sponsors:
     level: partner
   - id: stickermule
     level: partner
+  - id: olxgroup
+    level: platinum
   - id: xmatters
     level: platinum
   - id: redgate
@@ -353,4 +355,8 @@ ignites:
   - title: "emrah-samdan"
     date: 2019-11-27
   - title: "stevan-cvetkovic"
+    date: 2019-11-28
+  - title: "toshaan-bharvani"
+    date: 2019-11-28
+  - title: "marius-gebert"
     date: 2019-11-28

@@ -74,4 +74,4 @@ Participe da 2ª Edição do DevOpsDays Aracaju!
 ===
 
 DevOpsDays acontecerá em Aracaju no dia 25 de Abril de 2020, em seu segundo ano seguido!
-Em breve atualizaremos o portal com datas de submissão de talks e propostas de patrocínio.
+CFP e apoiadores já são bem vindos!!!
