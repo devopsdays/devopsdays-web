@@ -163,9 +163,9 @@ sponsors:
   - id: aws
     level: silver
     url: https://aws.amazon.com/
-  - id: inflor
-    level: silver
-    url: https://www.inflor.com.br/
+#  - id: inflor
+#    level: silver
+#    url: https://www.inflor.com.br/
 #  - id: liftbank
 #    level: silver
 #    url: https://liftbank.com.br/
