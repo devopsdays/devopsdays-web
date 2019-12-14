@@ -24,7 +24,7 @@ Description = "devopsdays Dallas 2020"
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
-    TBD - TBD <!-- {{< event_location >}} -->
+    {{< event_location >}}
   </div>
 </div>
 <!-- <div class = "row">

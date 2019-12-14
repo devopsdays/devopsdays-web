@@ -3,15 +3,15 @@ year: "2020" # The year of the event. Make sure it is in quotes.
 city: "Dallas" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysdfw" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "" # Edit this to suit your preferences
-ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+ga_tracking_id: "UA-154602010-1" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2020-08-26T00:00:00-05:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2020-08-27T23:59:59-05:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  # start accepting talk proposals.
@@ -20,7 +20,7 @@ cfp_date_announce:  # inform proposers of status
 
 # cfp_link: "https://www.papercall.io/dod-dfw-2020" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-# masthead_background: "PlanoEventCenter.jpg"
+masthead_background: "PlanoEventCenter.jpg"
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: # close registration. Leave blank if registration is not open yet.
@@ -30,9 +30,9 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 # Location
 #
-# coordinates: "33.0543213, -96.6867001" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-# location: "Plano Event Center" # Defaults to city, but you can make it the venue name.
-# location_address: "2000 East Spring Creek Parkway, Plano, TX 75074" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+coordinates: "33.0543213, -96.6867001" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Plano Event Center" # Defaults to city, but you can make it the venue name.
+location_address: "2000 East Spring Creek Parkway, Plano, TX 75074" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
