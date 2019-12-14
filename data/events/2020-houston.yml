@@ -129,6 +129,10 @@ sponsors:
     level: gold
   - id: twosigma
     level: gold
+ # - id: abs
+ #   level: corporate
+  - id: influxdata
+    level: platinum
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
@@ -152,5 +156,7 @@ sponsor_levels:
   - id: bronze
     label: Bronze
     max: 0 # This is the same as omitting the max limit.
+  - id: corporate
+    label: Corporate 
   - id: community
     label: Community
