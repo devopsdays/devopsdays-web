@@ -75,6 +75,8 @@ sponsors:
     level: gold
   - id: virtru
     level: gold
+  - id: influxdata
+    level: gold
   - id: arresteddevops
     level: community
 #  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
