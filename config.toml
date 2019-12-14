@@ -35,6 +35,8 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   name = "about"
   url = "/about"
   weight = -100
+[markup.goldmark.renderer]
+unsafe= true
 
 [permalinks]
   page = "/:filename/"
