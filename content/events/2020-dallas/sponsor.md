@@ -5,10 +5,10 @@ description = "Interested in sponsoring DevOpsDays Dallas 2020? We greatly value
 
 
 +++
-<!-- <div style="float:left;">
+<div style="float:left;">
   <img alt="DevOpsDays Dallas 2020" src="/events/2020-dallas/sponsorship.png" style="max-width: 65%;">
 <div class = "row">
-<div class = "col-md-8 col-sm-12"> -->
+<div class = "col-md-8 col-sm-12">
 <br>
 We greatly value sponsors for this community event. If you are interested in sponsoring, please check out our prospectus below. If you need a hard copy with more details, <!-- click here to <a href="https://assets.devopsdays.org/events/2020/dallas/DevOpsDaysDallas2020ponsorships.pdf" target="_blank"><strong>download PDF</strong></a> or --> <a href="mailto:dallas@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Dallas%202020"><strong>send us an email</strong></a>.
 
