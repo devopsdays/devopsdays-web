@@ -90,7 +90,7 @@ heading = "devopsdays Tel Aviv - Program"
 <div class = "col-md-2 col-md-offset-3 box">
     <a href="/events/2019-tel-aviv/program/andrew-gooding"> Strong Consistency in Databases. What does it actually guarantee? <br/> <strong>Andrew Gooding</strong>  </a></div>
 <div class = "col-md-3 col-md-offset-6 box">
-    <a href="/events/2019-tel-aviv/program/allison-mcmillan">11:00-11:20 | Experiential Learning for Developers<br/> <strong>Allison McMillan</strong></a><br/>
+    <a href="/events/2019-tel-aviv/program/gil-tayar">11:00-11:20 | Egoprogramophobia, or fear of one's own code: how testing can change your life<br/> <strong> Gil Tayar</strong></a><br/>
     <a href="/events/2019-tel-aviv/program/dana-borinski">11:20-11:40 | How to Support SSL for 10K+ Customers<br/> <strong>Dana Borinski</a> & <a href="/events/2019-tel-aviv/program/eli-zilbershtein">Eli Zilbershtein</strong></a></div>
 <div class = "col-md-3 col-md-offset-9 box">
     <a href="/events/2019-tel-aviv/program/lev-andelman-andrei-burd"> <strong>Masterclass Continued</strong></a></div>
@@ -285,7 +285,7 @@ heading = "devopsdays Tel Aviv - Program"
     <a href="/events/2019-tel-aviv/program/shlomi-noach"> Why Does (My) Monitoring Suck? <br/> <strong>Todd Palino</strong>  </a></div>
   <div class = "col-md-3 col-md-offset-6 box">
     <a href="/events/2019-tel-aviv/program/elazar-leibovich">12:20-12:40 | How Linux processes your network packet <br/> <strong>Elazar Leibovich</strong></a><br/>
-    <a href="/events/2019-tel-aviv/program/#">12:40-13:00 | TBA<br/> <strong> TBA</strong></a></div>
+    <a href="/events/2019-tel-aviv/program/tomer-gabel">12:40-13:00 | Five NEINs of availability<br/> <strong>  Tomer Gabel</strong></a></div>
     <div class = "col-md-3 col-md-offset-9 box"><a href="/events/2019-tel-aviv/program/michael-arenzon-avishai-ishshalom"> <strong>Masterclass Continued</strong></a></div> 
 </div>    
     <!-- end timeslot div -->
