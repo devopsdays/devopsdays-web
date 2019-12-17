@@ -116,6 +116,12 @@ organizer_email: "new-york-city@devopsdays.org" # Put your organizer email addre
 sponsors:
   - id: launch-darkly
     level: silver
+  - id: 2nd-watch
+    level: silver
+  - id: akeyless
+    level: silver
+  - id: contino
+    level: silver
   - id: arresteddevops
     level: community
 
