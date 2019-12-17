@@ -12,7 +12,7 @@ Description = "Propose a talk for devopsdays Singapore 2020"
 <a href="https://www.papercall.io/dodsin20" target="_blank" class="btn btn-primary btn-lg">Click here to submit your  proposal!</a>
 </center>
 
-You can still send an email to [{{< email_proposals >}}] with the following information
+You can still send an email to [{{< email_organizers >}}] with the following information
  <ol>
  	<li>Type (presentation, panel discussion, ignite)</li>
  	<li>Proposal Title (can be changed later)</li>
@@ -51,7 +51,7 @@ You are also welcome to submit proposals that you feel fall outside this theme.
 
 DevOpsDays Singapore 2020 is committed to creating a diverse environment and is proud to invite people of all backgrounds and profiles to submit presentation proposals. All potential speakers will receive consideration without regard to race, colour, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, ability or age.
 
-We also encourage those who have not presented before and can offer support to anyone who would like to submit a proposal. Please email us {{< email_proposals >}} with any questions.  Even better, just submit your proposal and let us know it’s your first presentation. We can offer support that includes review of your CFP content, speaking and presentation coaching/tips, travel, and accommodation assistance.
+We also encourage those who have not presented before and can offer support to anyone who would like to submit a proposal. Please email us {{< email_organizers >}} with any questions.  Even better, just submit your proposal and let us know it’s your first presentation. We can offer support that includes review of your CFP content, speaking and presentation coaching/tips, travel, and accommodation assistance.
 
 ### Submit
 
@@ -64,4 +64,4 @@ We also encourage those who have not presented before and can offer support to a
 
 <hr>
 
-__Support__ If you have any questions about the CFP, please feel free to send an email to the organising team {{< email_proposals >}}
+__Support__ If you have any questions about the CFP, please feel free to send an email to the organising team {{< email_organizers >}}
