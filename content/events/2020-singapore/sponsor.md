@@ -223,16 +223,16 @@ We are focusing on people who are architecting and building distributed applicat
 
 ### Do you have media partners who will cover the conference
 
-No; however, if you have an idea to support the event in the media, please <a href="mailto:organizers-singapore-2020@devopsdays.org?subject=Sponsor DevOpsDays Singapore 2020">let us know</a>!
+No; however, if you have an idea to support the event in the media, please <a href="mailto:singapore@devopsdays.org?subject=Sponsor DevOpsDays Singapore 2020">let us know</a>!
 
 ### Can we ship stuff ahead
 
-Yes. Please <a href="mailto:organizers-singapore-2020@devopsdays.org?subject=Shipping to DevOpsDays Singapore 2020">send us an email</a> so we can work out the details.
+Yes. Please <a href="mailto:singapore@devopsdays.org?subject=Shipping to DevOpsDays Singapore 2020">send us an email</a> so we can work out the details.
 
 ### Can we lock things at the venue during the event
 
-Yes. There is a shared room where you can stash stuff. Please <a href="mailto:organizers-singapore-2020@devopsdays.org?subject=Shipping to DevOpsDays Singapore 2020">send us an email</a> so we can work out the details.
+Yes. There is a shared room where you can stash stuff. Please <a href="mailto:singapore@devopsdays.org?subject=Shipping to DevOpsDays Singapore 2020">send us an email</a> so we can work out the details.
 
 ### My question is not covered here. What can I do
 
-If you have any questions not answered above, please do not hesitate to send us an email at <a href="mailto:organizers-singapore-2020@devopsdays.org">organizers-singapore-2020@devopsdays.org</a>.
+If you have any questions not answered above, please do not hesitate to send us an email at <a href="mailto:singapore@devopsdays.org">singapore@devopsdays.org</a>.
