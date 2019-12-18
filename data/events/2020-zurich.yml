@@ -171,6 +171,14 @@ sponsors:
     level: bronze
   - id: avega
     level: silver
+  - id: jazoon
+    level: community
+  - id: swiss-perl-workshop
+    level: community
+  - id: devops-meetup-zurich
+    level: community
+  - id: devops-meetup-bern
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
