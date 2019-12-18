@@ -4,7 +4,7 @@ Type = "event"
 Description = "Sponsor devopsdays Singapore 2020"
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}] or [download the prospectus](https://drive.google.com/open?id=TBC) right away.
+We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
 
 DevOpsDays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute the attendee contact lists.
 
@@ -12,7 +12,7 @@ Sponsors are encouraged to represent themselves by actively participating and en
 
 The best thing to do is send engineers to interact with the experts at DevOpsDays on their own terms.
 
-<div style="margin: 1.4em 0 2.4em 0;"><center><a href="https://drive.google.com/open?id=TBC" target="_blank" class="btn btn-primary btn-lg">Download Sponsorship Prospectus</a></center></div>
+<div style="margin: 1.4em 0 2.4em 0;"><center>Download Sponsorship Prospectus</center></div>
 
 ## Why Sponsor Us
 
@@ -55,13 +55,13 @@ Our sponsorship packages are structured around how you can help be part of the c
         <strong>unlimited</strong>
       </td>
       <td style="text-align: center">
-        <strong>5</strong>
+        <strong>10</strong>
         <!--
         <span style="color: red">SOLD OUT</a>
         -->
       </td>
       <td style="text-align: center">
-        <strong>1</strong>
+        <strong>2</strong>
         <!--
         <span style="color: red">SOLD OUT</a>
         -->
@@ -135,8 +135,6 @@ Our sponsorship packages are structured around how you can help be part of the c
     </tr>
   </table>
 </div>
-
-<div style="margin: 1.4em 0 2.4em 0;"><center><a href="https://drive.google.com/open?id=TBC" target="_blank" class="btn btn-primary btn-lg">Download Sponsorship Prospectus</a></center></div>
 
 ## THE SMALL PRINT
 
@@ -215,7 +213,7 @@ Once payment is complete, we will send you an email requesting registration deta
 
 ### How many people do you expect
 
-We are planning for 200 attendees.
+We are planning for 300 attendees.
 
 ### What kind of attendees will come to the conference
 
@@ -223,16 +221,16 @@ We are focusing on people who are architecting and building distributed applicat
 
 ### Do you have media partners who will cover the conference
 
-No; however, if you have an idea to support the event in the media, please <a href="mailto:organizers-singapore-2020@devopsdays.org?subject=Sponsor DevOpsDays Singapore 2020">let us know</a>!
+No; however, if you have an idea to support the event in the media, please send us an email at [{{< email_organizers >}}]!
 
 ### Can we ship stuff ahead
 
-Yes. Please <a href="mailto:organizers-singapore-2020@devopsdays.org?subject=Shipping to DevOpsDays Singapore 2020">send us an email</a> so we can work out the details.
+Yes. Please send us an email at [{{< email_organizers >}}] so we can work out the details.
 
 ### Can we lock things at the venue during the event
 
-Yes. There is a shared room where you can stash stuff. Please <a href="mailto:organizers-singapore-2020@devopsdays.org?subject=Shipping to DevOpsDays Singapore 2020">send us an email</a> so we can work out the details.
+Yes. There is a shared room where you can stash stuff. Please <a href="mailto:singapore@devopsdays.org?subject=Shipping to DevOpsDays Singapore 2020">send us an email</a> so we can work out the details.
 
 ### My question is not covered here. What can I do
 
-If you have any questions not answered above, please do not hesitate to send us an email at <a href="mailto:organizers-singapore-2020@devopsdays.org">organizers-singapore-2020@devopsdays.org</a>.
+If you have any questions not answered above, please do not hesitate to send us an email at [{{< email_organizers >}}].
