@@ -229,7 +229,7 @@ Yes. Please send us an email at [{{< email_organizers >}}] so we can work out th
 
 ### Can we lock things at the venue during the event
 
-Yes. There is a shared room where you can stash stuff. Please <a href="mailto:singapore@devopsdays.org?subject=Shipping to DevOpsDays Singapore 2020">send us an email</a> so we can work out the details.
+Yes. There is a shared room where you can stash stuff. Please send us an email at [{{< email_organizers >}}] so we can work out the details.
 
 ### My question is not covered here. What can I do
 

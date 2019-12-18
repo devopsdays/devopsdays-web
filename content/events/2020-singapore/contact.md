@@ -19,7 +19,5 @@ Big THANK YOU to [Wenshu Kwek](https://twitter.com/wenshukwek) for designing the
 
 {{< list_organizers >}}
 
-**The core devopsdays organizer group**
-
 {{< list_core >}}
 
