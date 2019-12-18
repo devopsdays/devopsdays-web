@@ -167,10 +167,17 @@ organizer_email: "zurich@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: samplesponsorname
-    level: gold
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  - id: arresteddevops
+  - id: zhlke
+    level: bronze
+  - id: avega
+    level: silver
+  - id: jazoon
+    level: community
+  - id: swiss-perl-workshop
+    level: community
+  - id: devops-meetup-zurich
+    level: community
+  - id: devops-meetup-bern
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -181,12 +188,10 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
   - id: gold
-    label: Gold
-#    max: 10
+    label: Enterprise / Plenum 
   - id: silver
-    label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    label: Startup / Foyer / Evening Event / Meals & Coffee
   - id: bronze
-    label: Bronze
+    label: Jobboard / Freinds
   - id: community
     label: Community
