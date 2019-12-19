@@ -1,7 +1,7 @@
 +++
 title = "Sponsorship"
 type = "event"
-description = "Interested in sponsoring DevOpsDays Dallas 2020? We greatly value sponsors for this open event."
+description = "Interested in sponsoring DevOpsDays Dallas 2019? We greatly value sponsors for this open event."
 
 
 +++
@@ -10,7 +10,7 @@ description = "Interested in sponsoring DevOpsDays Dallas 2020? We greatly value
 <div class = "row">
 <div class = "col-md-8 col-sm-12">
 <br>
-We greatly value sponsors for this community event. If you are interested in sponsoring, please check out our prospectus below. If you need a hard copy with more details, <!-- click here to <a href="https://assets.devopsdays.org/events/2020/dallas/DevOpsDaysDallas2020ponsorships.pdf" target="_blank"><strong>download PDF</strong></a> or --> <a href="mailto:dallas@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Dallas%202020"><strong>send us an email</strong></a>.
+We greatly value sponsors for this community event. If you are interested in sponsoring, please check out our prospectus below. If you need a hard copy with more details, click here to <a href="https://assets.devopsdays.org/events/2019/dallas/DevOpsDaysDallas2019Sponsorships.pdf" target="_blank"><strong>download PDF</strong></a> or <a href="mailto:organizers-dallas-2020@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Dallas%202019"><strong>send us an email</strong></a>.
 
 <hr>
 
@@ -20,15 +20,14 @@ Any attendee also has the opportunity to demonstrate products or projects as par
 <br><br>
 The best thing to do is send engineers to interact with the experts at DevOpsDays on their own terms.
 <br><br>
-Please email the organizers at <a href="mailto:dallas@devopsdays.org?subject=General%20Questions%20Regarding%20Sponsorship%20of%20DevOpsDays%20Dallas%202020"><strong>dallas@devopsdays.org</strong></a> with any questions you may have about sponsoring the event.
+Please email the organizers at <a href="mailto:organizers-dallas-2020@devopsdays.org?subject=General%20Questions%20Regarding%20Sponsorship%20of%20DevOpsDays%20Dallas%202020"><strong>organizers-dallas-2019@devopsdays.org</strong></a> with any questions you may have about sponsoring the event.
+<br><br>
+<h2>Sponsorship Packages</h2>
 
-<!-- <h2>Sponsorship Packages</h2> -->
-
-<!-- <table class="table table-bordered table-hover">
+<table class="table table-bordered table-hover">
   <thead>
     <tr>
       <th scope="col" colspan="2">THE GOODS</th>
-      <th scope="col" colspan="2"><s>DIAMOND</s></th>
       <th scope="col">PLATINUM</th>
       <th scope="col">GOLD</th>
       <th scope="col">SILVER</th>
@@ -37,7 +36,6 @@ Please email the organizers at <a href="mailto:dallas@devopsdays.org?subject=Gen
   <tbody>
     <tr>
       <td colspan="2">Price</td>
-      <td colspan="2"><s>$45,000</s></td>
       <td>$12,000</td>
       <td>$8,000</td>
       <td>$4,000</td>
@@ -47,34 +45,34 @@ Please email the organizers at <a href="mailto:dallas@devopsdays.org?subject=Gen
       <td colspan="5"><small>
       Note: PayPal payments include 3% service charge.
       <br>
-      <a href="mailto:sponsors-dallas-2019@devopsdays.org?subject=DevOpsDays%20Dallas%202019%20Sponsorship">Email us</a> if you prefer to pay by check
+      <a href="mailto:sponsors-dallas-2020@devopsdays.org?subject=DevOpsDays%20Dallas%202019%20Sponsorship">Email us</a> if you prefer to pay by check
       </small></td>
     </tr>
     <tr>
       <td colspan="2"></td>
       <td colspan="2"><img src = "/events/2019-dallas/not_available.png"></td>
       <td>
-         platinum Paypal button 
+        <!-- platinum Paypal button --> 
         <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
           <input type="hidden" name="cmd" value="_s-xclick">
           <input type="hidden" name="hosted_button_id" value="GNR4HVH2BR4UA">
           <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
           <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
         </form>
-         <a href="mailto:sponsors-dallas-2019@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Dallas%202019">Contact us</a> 
+        <!-- <a href="mailto:sponsors-dallas-2019@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Dallas%202019">Contact us</a> -->
       </td>
       <td>
-         gold Paypal button 
+        <!-- gold Paypal button -->
         <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
           <input type="hidden" name="cmd" value="_s-xclick">
           <input type="hidden" name="hosted_button_id" value="QGEFGDR6XFRP2">
           <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
           <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
         </form>
-         <a href="mailto:sponsors-dallas-2019@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20dDallas%202019">Contact us</a> 
+        <!-- <a href="mailto:sponsors-dallas-2019@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20dDallas%202019">Contact us</a> -->
       </td>
       <td>
-         silver Paypal button 
+        <!-- silver Paypal button -->
         <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
           <input type="hidden" name="cmd" value="_s-xclick">
           <input type="hidden" name="hosted_button_id" value="MCC6ADNWPHTGC">
@@ -173,7 +171,7 @@ Please email the organizers at <a href="mailto:dallas@devopsdays.org?subject=Gen
     </tr>
   </tbody>
 </table>
-<br>
+<br/>
 <h2>Media / Community Sponsorships</h2>
 
 All Media / Community sponsors are entities we value as pillars of continuous learning in our community. If you would like to discuss these sponsorships with us, just ask! Email us at: <a href="mailto:organizers-dallas-2019@devopsdays.org?subject=General%20Questions%20Regarding%20Sponsorship%20of%20DevOpsDays%20Dallas%202019">organizers-dallas-2019@devopsdays.org</a>.
@@ -299,7 +297,7 @@ All Media / Community sponsors are entities we value as pillars of continuous le
             <li><i class="fa-li fa fa-check-square"></i>Charging stations are not provided and not included in the price.</li></td>
       <td>5</td>
     </tr>
-  <tr>
+<!--  <tr>
       <td align="center"><i class="fa fa-car fa-4x"></i></td>
       <td>Transportation</td>
       <td>$3,000</td>
@@ -322,10 +320,10 @@ All Media / Community sponsors are entities we value as pillars of continuous le
       <td>Provide tickets for under-indexed groups to attend</td>
       <td>5</td>
       <td></td>
-    </tr>  
+    </tr>  -->
   </tbody>
 </table>
-  <br>
+  <br/>
 <h2>Refund Policy</h2>
 We are excited to have you sponsor our event. We also understand that there are sometimes circumstances that may cause you to need to withdraw that sponsorship. Refunds for sponsorships are available according to the following schedule:
 <br><br>
@@ -335,10 +333,10 @@ We are excited to have you sponsor our event. We also understand that there are 
 <h4>All other sponsorship levels</h4>
  <li><i class="fa-li fa fa-check-square"></i>Before June 1, 2019 - 80% refund is available.</li>
  <li><i class="fa-li fa fa-check-square"></i>Between June 2 and July 31, 2019 - 75% refund is available.</li>
- <li><i class="fa-li fa fa-check-square"></i>After August 1, 2019 - No refund is available.</li> 
-<br> 
-Please email the organizers at <a href="mailto:dallas@devopsdays.org?subject=General%20Questions%20Regarding%20Sponsorship%20of%20DevOpsDays%20Dallas%202020">dallas@devopsdays.org</a> with any questions you may have about sponsoring the event or requesting a refund.
-<br><br> -->
+ <li><i class="fa-li fa fa-check-square"></i>After August 1, 2019 - No refund is available.</li>
+<br>
+Please email the organizers at <a href="mailto:organizers-dallas-2019@devopsdays.org?subject=General%20Questions%20Regarding%20Sponsorship%20of%20DevOpsDays%20Dallas%202019">organizers-dallas-2019@devopsdays.org</a> with any questions you may have about sponsoring the event or requesting a refund.
+<br><br>
 Sponsors are responsible for providing high-res logos for use on the website and in promotional materials.  The preferred file formats are EPS or AI.
 <br><br>
 <b>All sponsors attendees must be registered to attend</b>. We offer sponsors 20% off for any additional sponsor registration requests after <i>Tickets Included</i> have been consumed.
