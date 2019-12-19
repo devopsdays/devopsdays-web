@@ -85,6 +85,15 @@ sponsors:
   - id: epam
     level: titanium
     url: "https://en.careers.epam-czech.cz/"
+  - id: showmax
+    level: bronze
+    url: "https://www.showmax.com"
+  - id: digitalocean
+    level: starter
+    url: "https://www.digitalocean.com/"
+  - id: inuits
+    level: community
+    url: "https://inuits.eu/"            
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -103,3 +112,5 @@ sponsor_levels:
     label: Bronze
   - id: starter
     label: Starter
+  - id: community
+    label: Community

@@ -68,7 +68,7 @@ Description = "devopsdays Caceres 2020"
           <a class="btn btn-secondary btn-block" style= "background-color: #96bfe6; border-color: #96bfe6;" href="/events/2020-caceres/sponsor"> <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference</a>
         </div>
         <div class="d-flex p-2">
-          <a class="btn btn-secondary btn-block" style= "background-color: #96bfe6; border-color: #96bfe6;" href="https://forms.gle/6PJgqZqLbdMB664f8" rel="noopener"> <i class="fa fa-file-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Propose</a>
+          <a class="btn btn-secondary btn-block" style= "background-color: #96bfe6; border-color: #96bfe6;" href="https://forms.gle/4R7LFmCMG675GvUA9" rel="noopener"> <i class="fa fa-file-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Propose</a>
         </div>
         <div class="d-flex p-2">
           <a class="btn btn-secondary btn-block" style= "background-color: #96bfe6; border-color: #96bfe6;" href="/events/2020-caceres/contact"> <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Contact the Organizers</a>

@@ -20,7 +20,7 @@ cfp_date_end: 2020-01-06T00:00:00+01:00 # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
 
 cfp_open: "true"
-cfp_link: "https://forms.gle/6PJgqZqLbdMB664f8" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://forms.gle/4R7LFmCMG675GvUA9" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: # close registration. Leave blank if registration is not open yet.
@@ -102,6 +102,10 @@ sponsors:
   - id: caceresdevops
     level: community
   - id: caceresjs 
+    level: community
+  - id: madriddevops
+    level: community
+  - id: todoestamal
     level: community
 
 
