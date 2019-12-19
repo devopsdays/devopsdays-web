@@ -6,7 +6,7 @@ description = "Interested in sponsoring DevOpsDays Dallas 2019? We greatly value
 
 +++
 <div style="float:left;">
-  <img alt="DevOpsDays Dallas 2020" src="/events/2019-dallas/sponsorship.png" style="max-width: 65%;">
+  <img alt="DevOpsDays Dallas 2020" src="/events/2020-dallas/sponsorship.png" style="max-width: 65%;">
 <div class = "row">
 <div class = "col-md-8 col-sm-12">
 <br>
