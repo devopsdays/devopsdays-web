@@ -122,6 +122,8 @@ sponsors:
     level: silver
   - id: contino
     level: silver
+  - id: datadog
+    level: gold
   - id: arresteddevops
     level: community
 
