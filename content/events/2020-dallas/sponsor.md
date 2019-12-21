@@ -202,7 +202,7 @@ All Media / Community sponsors are entities we value as pillars of continuous le
 <br>
 <h2>À La Carte Sponsorships</h2>
 
-À La Carte sponsorships will be available after May 26th if no Diamond sponsorship is sold. À La Carte items are only available to Platinum or Gold sponsors.  We can be creative with these sponsorships, so just ask! Email us: <a href="mailto:dallas@devopsdays.org?subject=General%20Questions%20Regarding%20Sponsorship%20of%20DevOpsDays%20Dallas%202020">dallas@devopsdays.org</a>.
+ À La Carte items are only available to Platinum or Gold sponsors.  We can be creative with these sponsorships, so just ask! Email us: <a href="mailto:dallas@devopsdays.org?subject=General%20Questions%20Regarding%20Sponsorship%20of%20DevOpsDays%20Dallas%202020">dallas@devopsdays.org</a>.
 <br/>
 
 <table class="table table-bordered table-hover">
@@ -245,17 +245,17 @@ All Media / Community sponsors are entities we value as pillars of continuous le
     </tr>
         <tr>
       <td align="center"><i class="fa fa-coffee fa-4x"></i></td>
-      <td><s>Coffee Bar</s></td>
-      <td><s>$6,000</s></td>
-      <td><s>A custom high-end coffee bar will be available in a large lounge area during the event. All conference attendees will be invited to receive a coffee. The attendees must get a ticket by interacting with a vendor to receive a free coffee.</s>
+      <td>Coffee Bar</td>
+      <td>$6,000</td>
+      <td>A custom high-end coffee bar will be available in a large lounge area during the event. All conference attendees will be invited to receive a coffee. The attendees must get a ticket by interacting with a vendor to receive a free coffee.
           <ul class="fa-ul">
-            <li><i class="fa-li fa fa-check-square"></i><s>One sponsorship available for each day of the conference.</s></li>
-            <li><i class="fa-li fa fa-check-square"></i><s>Recognition and logo on a shared slide, rotating during breaks.</s></li>
-            <li><i class="fa-li fa fa-check-square"></i><s>Logo and branding recognizing the sponsorship of the Happy Hour.</s></li>
-            <li><i class="fa-li fa fa-check-square"></i><s>Recognition and logo on the DevOpsDays Dallas 2020 event website.</s></li>
-            <li><i class="fa-li fa fa-check-square"></i><s>Recognition and logo on all email communication.</s></li>
-            <li><i class="fa-li fa fa-check-square"></i><s>All beverages to be served are included in the price.</s></li></td>
-      <td><s>2</s>&nbsp;&nbsp;&nbsp;&nbsp;<strong>0</strong></td>
+            <li><i class="fa-li fa fa-check-square"></i>One sponsorship available for each day of the conference.</li>
+            <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on a shared slide, rotating during breaks.</li>
+            <li><i class="fa-li fa fa-check-square"></i>Logo and branding recognizing the sponsorship of the Happy Hour.</li>
+            <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on the DevOpsDays Dallas 2020 event website.</li>
+            <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on all email communication.</li>
+            <li><i class="fa-li fa fa-check-square"></i>All beverages to be served are included in the price.</li></td>
+      <td>2</td>
     </tr>
     <tr>
       <td align="center"><i class="fa fa-id-badge fa-4x"></i></td>
@@ -313,8 +313,8 @@ All Media / Community sponsors are entities we value as pillars of continuous le
 <h2>Refund Policy</h2>
 We are excited to have you sponsor our event. We also understand that there are sometimes circumstances that may cause you to need to withdraw that sponsorship. Refunds for sponsorships are available according to the following schedule:
 <br><br>
-<h4>Diamond level and À La Carte sponsorships</h4>
- <li><i class="fa-li fa fa-check-square"></i>No refunds are available for Diamond sponsorships or À La Carte sponsorships.</li>
+<h4>À La Carte sponsorships</h4>
+ <li><i class="fa-li fa fa-check-square"></i>No refunds are available for À La Carte sponsorships.</li>
  <br>
 <h4>All other sponsorship levels</h4>
  <li><i class="fa-li fa fa-check-square"></i>Before June 1, 2020 - 80% refund is available.</li>
