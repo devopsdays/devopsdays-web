@@ -10,7 +10,7 @@ description = "Interested in sponsoring DevOpsDays Dallas 2020? We greatly value
 <div class = "row">
 <div class = "col-md-8 col-sm-12">
 <br>
-We greatly value sponsors for this community event. If you are interested in sponsoring, please check out our prospectus below. If you need a hard copy with more details, click here to <a href="https://assets.devopsdays.org/events/2020/dallas/DevOpsDaysDallas2020Sponsorships.pdf" target="_blank"><strong>download PDF</strong></a> or <a href="mailto:organizers-dallas-2020@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Dallas%202020"><strong>send us an email</strong></a>.
+We greatly value sponsors for this community event. If you are interested in sponsoring, please check out our prospectus below. If you need a hard copy with more details, click here to <a href="https://assets.devopsdays.org/events/2020/dallas/DevOpsDaysDallas2020Sponsorships.pdf" target="_blank"><strong>download PDF</strong></a> or <a href="mailto:dallas@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Dallas%202020"><strong>send us an email</strong></a>.
 
 <hr>
 
@@ -45,7 +45,7 @@ Please email the organizers at <a href="mailto:dallas@devopsdays.org?subject=Gen
       <td colspan="5"><small>
       Note: PayPal payments include 3% service charge.
       <br>
-      <a href="mailto:sponsors-dallas-2020@devopsdays.org?subject=DevOpsDays%20Dallas%202020%20Sponsorship">Email us</a> if you prefer to pay by check
+      <a href="mailto:dallas@devopsdays.org?subject=DevOpsDays%20Dallas%202020%20Sponsorship">Email us</a> if you prefer to pay by check
       </small></td>
     </tr>
     <tr>
