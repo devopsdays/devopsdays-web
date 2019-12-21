@@ -50,7 +50,6 @@ Please email the organizers at <a href="mailto:dallas@devopsdays.org?subject=Gen
     </tr>
     <tr>
       <td colspan="2"></td>
-      <td colspan="2"><img src = "/events/2020-dallas/not_available.png"></td>
       <td>
         <!-- platinum Paypal button --> 
         <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -82,89 +81,76 @@ Please email the organizers at <a href="mailto:dallas@devopsdays.org?subject=Gen
       </td>
     <tr>
       <td colspan="2">Tickets Included</td>
-      <td colspan="2"><s>25</s></td>
       <td>4</td>
       <td>2</td>
       <td>1</td>      
     </tr>
     <tr>
       <td colspan="2">Logo on DevOpsDays Dallas 2020 event website</td>
-      <td colspan="2"><img src = ""></td>
       <td><img src = "/events/2020-dallas/boot.png"></td>
       <td><img src = "/events/2020-dallas/boot.png"></td>
       <td><img src = "/events/2020-dallas/boot.png"></td>
     </tr>
     <tr>
       <td colspan="2">Social Media recognition on Twitter, LinkedIn, Facebook, amoung others.</td>
-      <td colspan="2"><img src = ""></td>
       <td><img src = "/events/2020-dallas/boot.png"></td>
       <td><img src = "/events/2020-dallas/boot.png"></td>
       <td><img src = "/events/2020-dallas/boot.png"></td>
     </tr>
     <tr>
       <td colspan="2">Shout-out from MC's at kickoff and again at breaks</td>
-      <td colspan="2"><img src = ""></td>
       <td><img src = "/events/2020-dallas/boot.png"></td>
       <td><img src = "/events/2020-dallas/boot.png"></td>
       <td><img src = "/events/2020-dallas/boot.png"></td>
     </tr>
       <td colspan="2">Logo on displayed in sponsor area & Social Networking Event</td>
-      <td colspan="2"><img src = ""></td>
       <td><img src = "/events/2020-dallas/boot.png"></td>
       <td><img src = "/events/2020-dallas/boot.png"></td>
       <td><img src = "/events/2020-dallas/boot.png"></td>
     </tr>
     <tr>
       <td colspan="2">Dedicated table for swag/marketing/staffing</td>
-      <td colspan="2"><img src = ""></td>
       <td><img src = "/events/2020-dallas/boot.png"></td>
       <td><img src = "/events/2020-dallas/boot.png"></td>
       <td><img src = "/events/2020-dallas/half-boot.png"></td>
     </tr>
     <tr>
       <td colspan="2">Logo on a slide, rotating during breaks</td>
-      <td colspan="2"><img src = ""><br><strong></strong></td>
       <td><img src = "/events/2020-dallas/boot.png"><br><strong>DEDICATED</strong></td>
       <td><img src = "/events/2020-dallas/half-boot.png"><br><strong>shared</strong></td>
       <td><img src = "/events/2020-dallas/half-boot.png"><br><strong>shared</strong></td>
     </tr>
       <td colspan="2">Pitch to full audience, including streaming audience <br>(provided we are able to stream the videos)</td>
-      <td colspan="2"><img src = ""><strong><br></strong></td>
       <td><strong><img src = "/events/2020-dallas/half-boot.png"><strong><br>1-minute</strong></td>
       <td><img src = "/events/2020-dallas/half-boot.png"><strong><br>1-minute</strong></td>
       <td><img src = "/events/2020-dallas/half-boot.png"><strong><br>1-minute</strong></td>
     </tr>
     <tr>
       <td colspan="2">20% Discount code provided to share with your client community</td>
-      <td colspan="2"><img src = ""><strong><br></strong></td>
       <td><strong><img src = "/events/2020-dallas/half-boot.png"><strong><br>(10) tickets</strong></td>
       <td><img src = "/events/2020-dallas/half-boot.png"><strong><br>(10) tickets</strong></td>
       <td><img src = "/events/2020-dallas/half-boot.png"><strong><br>(10) tickets</strong></td>
     </tr>
     <tr>
       <td colspan="2">Logo on participant emails</td>
-      <td colspan="2"><img src = ""></td>
       <td><img src = "/events/2020-dallas/boot.png"></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td colspan="2">Dedicated demo room for customer presentations, workshops, etc.</td>
-      <td colspan="2"><img src = ""></td>
       <td><img src = "/events/2020-dallas/boot.png"></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td colspan="2">Five (5) minute greeting and introduction during the <strong>opening session each day</strong></td>
-      <td colspan="2"><img src = ""><strong></td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td colspan="2">Two (2) VIP backstage passes <strong>($1,000 value)</strong></td>
-      <td colspan="2"><img src = ""><strong></td>
       <td></td>
       <td></td>
       <td></td>
