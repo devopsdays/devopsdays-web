@@ -10,7 +10,7 @@ description = "Interested in sponsoring DevOpsDays Dallas 2020? We greatly value
 <div class = "row">
 <div class = "col-md-8 col-sm-12">
 <br>
-We greatly value sponsors for this community event. If you are interested in sponsoring, please check out our prospectus below. If you need a hard copy with more details, click here to <a href="https://assets.devopsdays.org/events/2020/dallas/DevOpsDaysDallas2020Sponsorships.pdf" target="_blank"><strong>download PDF</strong></a> or <a href="mailto:dallas@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Dallas%202020"><strong>send us an email</strong></a>.
+We greatly value sponsors for this community event. If you are interested in sponsoring, please check out our prospectus below. If you need a hard copy with more details, <a href="mailto:dallas@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Dallas%202020"><strong>send us an email</strong></a>.
 
 <hr>
 
@@ -140,18 +140,6 @@ Please email the organizers at <a href="mailto:dallas@devopsdays.org?subject=Gen
     <tr>
       <td colspan="2">Dedicated demo room for customer presentations, workshops, etc.</td>
       <td><img src = "/events/2020-dallas/boot.png"></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td colspan="2">Five (5) minute greeting and introduction during the <strong>opening session each day</strong></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td colspan="2">Two (2) VIP backstage passes <strong>($1,000 value)</strong></td>
-      <td></td>
       <td></td>
       <td></td>
     </tr>
