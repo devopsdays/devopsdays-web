@@ -36,6 +36,21 @@ Description = "Sponsor DevopsDays Madrid 2020"
         </thead>
         <tbody>
           <tr>
+            <th scope="row">Max</th>
+            <td>
+              <center>&nbsp;</center>
+            </td>
+            <td>
+              <center>10</center>
+            </td>
+            <td>
+              <center>5</center>
+            </td>
+            <td>
+              <center>5</center>
+            </td>
+          </tr>
+          <tr>
             <th scope="row">Pricing</th>
             <td>
               <center>0€</center>
