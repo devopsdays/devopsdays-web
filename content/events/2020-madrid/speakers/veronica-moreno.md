@@ -1,6 +1,6 @@
 +++
 Title = "Verónica Moreno"
-image = "veronica-moreno.jfif"
+image = "veronica-moreno.jpg"
 type = "speaker"
 linktitle = "veronica-moreno"
 

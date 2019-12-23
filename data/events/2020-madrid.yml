@@ -53,7 +53,7 @@ team_members: # Name is the only required field for team members.
     twitter: "xavidop"
     website: "https://xavierportillaedo.github.io/"
     linkedin: "https://www.linkedin.com/in/xavierportillaedo/"
-    image: xavi.png
+    image: xavi.jpg
     bio: "He works as a software engineer at top global companies. He have more than 5 years of experience with coding with a focus on Java, DevOps, Q&A and microservices. In his spare time, he enjoys music, beer and friends."
 
   - name: "Christian Melendez"
@@ -81,11 +81,11 @@ team_members: # Name is the only required field for team members.
     bio: "Passionate about technology since he was a child. He enjoys working at STR Sistemas every day where he try to do all those things that he loves related to cloud systems and architectures mainly on Linux environments and that were not viable in consulting world. Learning and innovating every day."
 
   - name: "Sergio Hernandez"
-    employes: "Encamina"
+    employer: "Encamina"
     twitter: "shmancebo"
     website: "https://mvp.microsoft.com/en-us/PublicProfile/5003193?fullName=Sergio%20%20Hern%C3%A1ndez%20Mancebo"
     linkedin: "https://www.linkedin.com/in/sergio-hernandez-mancebo-369b6560/"
-    image: sergio.jfif
+    image: sergio.jpg
     bio: "Technical Engineer in Computer Science from the Complutense University of Madrid. Principal Team Leader team at Encamina. He define and improve the work methodology and monitor the status of the projects. He also has extensive experience leading projects as a Team Leader, software project development in Microsoft cloud environments on Azure and SharePoint 0365"
 
   - name: "Antonio Peña"
@@ -93,7 +93,7 @@ team_members: # Name is the only required field for team members.
     twitter: "apenav"
     website: "https://about.me/apenav"
     linkedin: "https://www.linkedin.com/in/apenav/"
-    image: antonio.jpeg
+    image: antonio.jpg
     bio: "Software engineer, with more than ten years experience in Open Source and system administration (GNU/Linux & FreeBSD), three years on IT management and two years on IT project management. With advanced knowledge on Open Source and Unix related technologies."
 
   - name: "Alberto Diaz"
@@ -101,7 +101,7 @@ team_members: # Name is the only required field for team members.
     twitter: "adiazcan"
     website: "https://adiazcan.github.io/"
     linkedin: "https://www.linkedin.com/in/albertodiazmartin/"
-    image: alberto.jfif
+    image: alberto.jpg
     bio: "He has more than 15 years of experience in the IT Industry, all of them working with Microsoft technologies. He is currently Chief Technology Innovation Officer at ENCAMINA, leading the development of software with Microsoft technology, and a member of the Management team."
 
 

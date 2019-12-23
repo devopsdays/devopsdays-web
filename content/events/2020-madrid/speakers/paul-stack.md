@@ -1,6 +1,6 @@
 +++
 Title = "Paul Stack"
-image = "paul-stack.jfif"
+image = "paul-stack.jpg"
 type = "speaker"
 linktitle = "paul-stack"
 Twitter = "stack72"

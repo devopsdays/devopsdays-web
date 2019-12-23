@@ -1,6 +1,6 @@
 +++
 Title = "Antonio García"
-image = "antonio-garcia.jfif"
+image = "antonio-garcia.jpg"
 type = "speaker"
 linktitle = "antonio-garcia"
 Twitter = "agcandil"

@@ -1,6 +1,6 @@
 +++
 Title = "Daiany Palacios"
-image = "diany-palacios.jpeg"
+image = "diany-palacios.jpg"
 type = "speaker"
 linktitle = "diany-palacios"
 Twitter = "DaianyMargarita"

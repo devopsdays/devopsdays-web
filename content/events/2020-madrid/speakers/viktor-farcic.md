@@ -1,6 +1,6 @@
 +++
 Title = "Viktor Farcic"
-image = "viktor-farcic.jfif"
+image = "viktor-farcic.jpg"
 type = "speaker"
 linktitle = "viktor-farcic"
 Twitter = "vfarcic"
