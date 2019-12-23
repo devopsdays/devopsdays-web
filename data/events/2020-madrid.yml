@@ -62,7 +62,7 @@ team_members: # Name is the only required field for team members.
     website: "https://cmelendeztech.com/"
     linkedin: "https://www.linkedin.com/in/christian-melendez-6174454a/?originalSubdomain=gt"
     image: christian.jpg
-    bio: "Christian is a technologist that started as a software developer and has more recently become a cloud architect focused on helping companies to implement continuous delivery pipelines. Christian's also a technical writer for topics around Kubernetes, containers, cloud, and DevOps. He's contributed to the community and specific companies with talks and workshops too."
+    bio: "He is a technologist that started as a software developer and has more recently become a cloud architect focused on helping companies to implement continuous delivery pipelines. Christian's also a technical writer for topics around Kubernetes, containers, cloud, and DevOps. He's contributed to the community and specific companies with talks and workshops too."
 
   - name: "Juan Vicente Herrera"
     employer: "Orange"
