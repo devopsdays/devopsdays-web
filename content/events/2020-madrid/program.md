@@ -40,7 +40,7 @@ Type = "program"
               <center><a href="/events/2020-madrid/program/andrey-devyatkin">HashiCorp Vault configuration as code via HashiCorp Terraform: stories from trenches</a></center>
             </td>
             <td>
-              <center><a href="/events/2020-madrid/speakers/andrey-devyatkin">Andrey-Devyatkin</a></center>
+              <center><a href="/events/2020-madrid/speakers/andrey-devyatkin">Andrey Devyatkin</a></center>
             </td>
           </tr>
           <tr>
