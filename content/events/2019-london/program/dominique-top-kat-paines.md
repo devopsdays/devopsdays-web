@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "All aboard, Meetup Mates! How we’ve set sail towards making the Meetup scene in London fun for everyone."
 Type = "talk"
 Speakers = ["dominique-top", "kat-paines"]
+Youtube = "J4lqz2Suh7I"
 +++
 
 Keeping up with the rate of change in the technology landscape is hard and attending local Meetups are often the best, easiest, and most cost-effective way to learn and interact with people who are trying to solve the same problems as you. They’re also a great way to socialise with people with similar interests. 

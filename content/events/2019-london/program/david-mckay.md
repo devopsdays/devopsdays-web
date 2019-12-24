@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "The DShell Pattern"
 Type = "talk"
 Speakers = ["david-mckay"]
+Youtube = "wOXNrfLBEHA"
 +++
 
 Docker isn't the answer. Docker is a means to an end.
