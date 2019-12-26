@@ -49,15 +49,16 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
-  - name: "Manuel García"
-  - name: "Liliana Ramos"
+  - name: "John Doe"
+  - name: "Jane Smith"
     twitter: "devopsdays"
-    employer: "Global Lynx"
+  - name: "Sally Fields"
+    employer: "Acme Anvil Co."
     github: "devopsdays"
-    facebook: "https://www.facebook.com/profile.php?id=100000112913688"
-    linkedin: "https://www.linkedin.com/in/liliana-ramos"
-    website: "https://globallynx.com.mx"
-    image: "liliana-ramos.jpg"
+    facebook: "https://www.facebook.com/sally.fields"
+    linkedin: "https://www.linkedin.com/in/sallyfields"
+    website: "https://mattstratton.com"
+    image: "sally-fields.jpg"
 
 organizer_email: "ciudad-de-mxico@devopsdays.org" # Put your organizer email address here
 
