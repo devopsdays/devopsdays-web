@@ -120,7 +120,7 @@ Type = "program"
               <center><a href="/events/2020-madrid/program/pablo-chico">Ephemeral Environments for Developers in Kubernetes</a></center>
             </td>
             <td>
-              <center><a href="/events/2020-madrid/speakers/pablo-chico">Pablo Chico</a></center>
+              <center><a href="/events/2020-madrid/speakers/pablo-chico">Pablo Chico de Guzmán</a></center>
             </td>
           </tr>
           <tr>
