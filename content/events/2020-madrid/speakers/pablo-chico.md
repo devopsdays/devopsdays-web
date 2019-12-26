@@ -1,5 +1,5 @@
 +++
-Title = "Pablo Chico"
+Title = "Pablo Chico de Guzmán"
 image = "pablo-chico.jpg"
 type = "speaker"
 linktitle = "pablo-chico"
