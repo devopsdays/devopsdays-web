@@ -59,6 +59,8 @@ team_members: # Name is the only required field for team members.
   - name: "Elizabeth White"
   - name: "Amy Mansell"
     twitter: "ae_mansell"
+  - name: "Wasim Hossain"
+    twitter: "wascloud"
 
 organizer_email: "toronto@devopsdays.org" # Put your organizer email address here
 
