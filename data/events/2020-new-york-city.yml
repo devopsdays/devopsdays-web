@@ -124,6 +124,10 @@ sponsors:
     level: silver
   - id: datadog
     level: gold
+  - id: microsoft
+    level: gold
+  - id: twosigma
+    level: captioning
   - id: arresteddevops
     level: community
 
@@ -143,5 +147,7 @@ sponsor_levels:
     max: 0 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
+  - id: captioning
+    label: Live Captioning
   - id: community
     label: Community
