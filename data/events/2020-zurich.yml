@@ -190,6 +190,6 @@ sponsor_levels:
   - id: silver
     label: Startup / Foyer / Evening Event / Meals & Coffee
   - id: bronze
-    label: Jobboard / Freinds
+    label: Jobboard / Friends
   - id: community
     label: Community
