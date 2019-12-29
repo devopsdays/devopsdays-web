@@ -187,9 +187,13 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Enterprise / Plenum 
+    max: 6
   - id: silver
     label: Startup / Foyer / Evening Event / Meals & Coffee
+    max: 7
   - id: bronze
-    label: Jobboard / Freinds
+    label: Jobboard / Friends
+    max: 0
   - id: community
     label: Community
+    max: 0
