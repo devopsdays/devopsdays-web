@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Building and Growing an Agile Team"
 Type = "talk"
 Speakers = ["tom-hoyland"]
+Youtube = "v-fZfiVxX6Q"
 +++
 
 How would you build a team from scratch? What techniques would you use? What metrics should you respond to? 

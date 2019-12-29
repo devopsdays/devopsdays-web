@@ -21,7 +21,7 @@ Description = "devopsdays Baltimore 2020"
 | **Location**               | {{< event_location >}}                                           |
 | **Sponsors**               | {{< event_link page="sponsor" text="Sponsor the conference!" >}} |
 | **Be a Speaker**           | {{< event_link url-key="cfp_link" text="Propose a talk!" >}}     |
-| **Register to Attend**     | Coming soon! <!-- {{< event_link page="registration" text="Register to attend the conference!" >}} --> |
+| **Register to Attend**     | {{< event_link page="registration" text="Register to attend the conference!" >}} |
 | **Contact the Organizers** | {{< event_link page="contact" text="Get in touch with us" >}}    |
 | **Community Slack**        | {{< event_link url-key="slack_link" text="Join our slack for pre-event communication and Volunteering opportunities" >}} |
 

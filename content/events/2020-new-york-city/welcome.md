@@ -55,7 +55,7 @@ Description = "devopsdays New York City 2020"
     <h4 class="my-3"><strong>Propose</strong></h4>
   </div>
   <div class = "col-md-9">
-    <h4 class="my-3"><small>{{< event_link url-key="cfp_link" text="Propose a talk!" >}}</small></h4>
+    <h4 class="my-3"><small>Our CFP is now closed. Sorry, we can't accept late submissions.</small></h4>
   </div>
 </div>
 

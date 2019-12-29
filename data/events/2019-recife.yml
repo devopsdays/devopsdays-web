@@ -121,9 +121,13 @@ sponsors:
     level: gold
   - id: acqio
     level: gold
+  - id: blue-digital
+    level: gold
   - id: sudocast
     level: community
   - id: meetup-devops-recife
+    level: community
+  - id: isi-senai
     level: community
 
 program:

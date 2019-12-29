@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "How and why we lowered our SLO, and other SRE life-lessons"
 Type = "talk"
 Speakers = ["deborah-wood"]
+Youtube = "qL8ZXpiWaes"
 +++
 
 Real world life lessons on successfully implementing SLIs and SLOs.

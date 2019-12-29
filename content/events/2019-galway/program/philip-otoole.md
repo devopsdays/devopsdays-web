@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Observing Observability"
 Type = "talk"
 Speakers = ["philip-otoole"]
+Slideshare = "https://www.slideshare.net/PhilipOToole/observing-observability-devopsdays-galway-2019"
 +++
 
 The complexity of the systems we are responsible for has grown significantly over the last decade.  High performing teams use monitoring and observability to increase the reliability of these systems.  Come along one practitioner's journey and let his observations guide the way you think about, and change, observability practices in your company.
