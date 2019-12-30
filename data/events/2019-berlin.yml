@@ -19,7 +19,7 @@ cfp_date_start: 2019-02-12T00:00:00+01:00
 cfp_date_end: 2019-07-31T23:59:59+02:00
 cfp_date_announce: 2019-08-15T23:59:59+02:00
 
-cfp_open: "true"
+cfp_open: "false"
 cfp_link: "https://www.papercall.io/2019-berlin" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2018-12-01T00:00:00+01:00
@@ -39,10 +39,10 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #  - name: propose
   - name: conduct
   - name: location
-  - name: registration
+#  - name: registration
   - name: program
   - name: speakers
-  - name: sponsor
+#  - name: sponsor
   - name: contact
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
@@ -137,7 +137,7 @@ sponsors:
   - id: 2016-norisnetwork
     level: eveningevent
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
