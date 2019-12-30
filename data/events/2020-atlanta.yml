@@ -84,9 +84,13 @@ team_members: # Name is the only required field for team members.
   - name: "Rebecca Wheeler"
     image: "rebecca-wheeler.jpg"
     twitter: "beckycaret"
-    
+
   - name: "Jonette Jones"
-    linkedin: "https://www.linkedin.com/in/jonettejones/"    
+    linkedin: "https://www.linkedin.com/in/jonettejones/"
+
+  - name: "Franklin Mosely"
+    image: "franklin-mosely.jpg"
+    twitter: "fpmosley3"      
 
 organizer_email: "atlanta@devopsdays.org" # Put your organizer email address here
 
