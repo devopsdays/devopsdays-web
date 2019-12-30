@@ -147,4 +147,3 @@
 /events/2020-vancouver/proposals/* http://legacy.devopsdays.org/events/2016-vancouver/proposals/:splat     301!
 /presentations/2011-goteborg/* http://legacy.devopsdays.org/presentations/2011-goteborg/:splat     301!
 /presentations/2009-ghent/* http://legacy.devopsdays.org/presentations/2009-ghent/:splat     301!
-/ciudad-de-mxico/*            /events/2020-ciudad-de-mxico/:splat           302
