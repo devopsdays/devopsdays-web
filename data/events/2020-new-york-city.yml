@@ -126,6 +126,8 @@ sponsors:
     level: gold
   - id: microsoft
     level: gold
+  - id: firehydrant
+    level: silver
   - id: twosigma
     level: captioning
   - id: arresteddevops
