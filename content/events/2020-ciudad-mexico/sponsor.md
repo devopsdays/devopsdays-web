@@ -1,7 +1,7 @@
 +++
 Title = "Sponsor"
 Type = "event"
-Description = "Sponsor devopsdays Ciudad Mexico 2020"
+Description = "Sponsor devopsdays Ciudad de México 2020"
 +++
 
 We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
