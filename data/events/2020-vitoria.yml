@@ -29,10 +29,10 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 # Location
 #
-coordinates: "-20.3532742, -40.3063625" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "UVV Universidade de Vila Velha" # Defaults to city, but you can make it the venue name.
+coordinates: "-20.2923283, -40.3018722" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Vitoria Grand Hall" # Defaults to city, but you can make it the venue name.
 #
-location_address: "Avenida Comissário José Dantas de Melo, 21 - Boa Vista II, Vila Velha - ES, 29102-920" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "R. Dr. João Carlos de Souza, 55 - Santa Luíza, Vitória - ES, 29045-410" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
