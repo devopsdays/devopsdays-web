@@ -56,9 +56,6 @@ team_members: # Name is the only required field for team members.
     employer: "NETWAYS"
   - name: "Jessica Ulyate"
     twitter: "JulyAte"
-  - name: "Marco Woitschitzky"
-    employer: "DB Systel GmbH"
-    github: "Woi"
   - name: "Martin Alfke"
     twitter: "tuxmea"
     employer: "Example42"
@@ -67,7 +64,8 @@ team_members: # Name is the only required field for team members.
     employer: "NETWAYS"
   - name: "Norman Messtorff"
     twitter: "nmesstorff"
-    employer: "Deutsche Post E-POST Development"
+    github: "nmesstorff"
+    employer: "Deutsche Post IT Services"
     website: "https://normes.org"
   - name: "Oliver Seemann"
     twitter: "oseemann"
@@ -91,6 +89,8 @@ team_members: # Name is the only required field for team members.
   - name: "Kat Liu"
     twitter: "kaatloo"
     employer: "Klar GmbH"
+  - name: "Alexander Wolff"
+
 
 organizer_email: "berlin@devopsdays.org" # Put your organizer email address here
 
