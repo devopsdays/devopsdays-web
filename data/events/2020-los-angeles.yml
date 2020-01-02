@@ -84,6 +84,10 @@ sponsors:
     level: gold
   - id: launch-darkly
     level: gold
+  - id: logz
+    level: silver
+  - id: phoenixNAP
+    level: silver
   - id: xmatters
     level: gold
   - id: scale
