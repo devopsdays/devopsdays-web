@@ -160,6 +160,9 @@ sponsors:
   - id: manning
     level: community
     url: https://www.manning.com/
+  - id: digitalocean
+    level: community
+    url: https://www.digitalocean.com/
 #  - id: picpay
 #    level: platinum
 #    url: https://www.picpay.com/
