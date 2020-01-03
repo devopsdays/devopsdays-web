@@ -41,7 +41,7 @@ Description = "devopsdays Boise 2020"
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    <a href="https://www.papercall.io/devopsdaysboise">Propose a talk!</a>
+    {{< event_link url-key="cfp_link" text="Propose a talk" >}}
   </div>
 </div>
 
