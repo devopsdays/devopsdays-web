@@ -41,7 +41,7 @@ All sponsors will have their logo displayed on the DevOpsDays Chicago website, a
       <td colspan="3"><small>
       Note: Paypal payments include 3% service charge.
       <br>
-      <a href="mailto:chicago-sponsors@devopsdays.org@devopsdays.org?subject=DevOpsDays%20Chicago%202020%20Sponsorship">Email us</a> if you prefer to pay by check
+      <a href="mailto:chicago-sponsors@devopsdays.org?subject=DevOpsDays%20Chicago%202020%20Sponsorship">Email us</a> if you prefer to pay by check
       </small></td>
       <td></td>
     </tr>
@@ -173,7 +173,7 @@ All sponsors will have their logo displayed on the DevOpsDays Chicago website, a
 
 <h2>Special Sponsorships</h2>
 
-All special sponsors will have their logo displayed on the DevOpsDays Chicago website, a tweet before the conference, and a thank you during the conference. We do have some flexabilities with these sponsorships, so just ask! Email us: <a href="mailto:chicago-sponsors@devopsdays.org@devopsdays.org">chicago-sponsors@devopsdays.org@devopsdays.org</a>.
+All special sponsors will have their logo displayed on the DevOpsDays Chicago website, a tweet before the conference, and a thank you during the conference. We do have some flexabilities with these sponsorships, so just ask! Email us: <a href="mailto:chicago-sponsors@devopsdays.org@devopsdays.org">chicago-sponsors@devopsdays.org</a>.
 <br/><br/>
 
 <table class="table table-bordered table-hover">
