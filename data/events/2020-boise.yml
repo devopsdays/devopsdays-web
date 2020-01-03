@@ -34,7 +34,8 @@ location: "Boise Center" # Defaults to city, but you can make it the venue name.
 location_address: "850 W Front St, Boise, ID 83702" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
+    url: https://www.papercall.io/devopsdaysboise
   - name: location
  # - name: registration
  # - name: program
@@ -68,7 +69,6 @@ team_members: # Name is the only required field for team members.
     employer: "In Time Tec"
     twitter: PaulRemeis
   - name: "Jane Miceli"
-    employer: Micron Technology
     linkedin: https://www.linkedin.com/in/janemiceli/
     twitter: janemiceli
     github: janemiceli
@@ -80,6 +80,8 @@ organizer_email: "boise@devopsdays.org" # Put your organizer email address here
 sponsors:
   - id: arresteddevops
     level: community
+  - id: simplot
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
