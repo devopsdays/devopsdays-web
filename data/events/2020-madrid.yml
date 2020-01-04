@@ -122,6 +122,8 @@ sponsors:
    level: bronze
  - id: madriddevops
    level: community
+ - id: commit
+   level: community
  - id: womenindevopses
    level: community
  - id: crossdvlup
