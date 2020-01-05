@@ -132,6 +132,12 @@ sponsors:
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
+  - id: docker-porto-alegre
+    level: community
+  - id: linuxforall
+    level: community
+#  - id: thoughtworks-services
+#    level: platinum
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
