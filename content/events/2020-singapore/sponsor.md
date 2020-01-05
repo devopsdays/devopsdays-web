@@ -12,7 +12,6 @@ Sponsors are encouraged to represent themselves by actively participating and en
 
 The best thing to do is send engineers to interact with the experts at DevOpsDays on their own terms.
 
-<div style="margin: 1.4em 0 2.4em 0;"><center>Download Sponsorship Prospectus</center></div>
 
 ## Why Sponsor Us
 
