@@ -9,6 +9,6 @@ Description = "Registration for devopsdays portugal 2019"
     <tito-widget event="devopsdays-portugal/2019"></tito-widget>
     <link rel="stylesheet" type="text/css" href='https://css.tito.io/v1.1' />
 </div>
-</br>
+<br/>
 
 You can always use the following link: [http://ti.to/devopsdays-portugal/2019](https://ti.to/devopsdays-portugal/2019)
