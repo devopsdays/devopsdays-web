@@ -85,6 +85,9 @@ sponsors:
   - id: epam
     level: titanium
     url: "https://en.careers.epam-czech.cz/"
+  - id: kb
+    level: gold
+    url: "https://www.kb.cz/"    
   - id: showmax
     level: bronze
     url: "https://www.showmax.com"
@@ -94,6 +97,9 @@ sponsors:
   - id: inuits
     level: community
     url: "https://inuits.eu/"            
+  - id: cloudinfrastack
+    level: community
+    url: "https://www.cloudinfrastack.com/" 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
