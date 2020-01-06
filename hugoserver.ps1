@@ -1,4 +1,5 @@
 # You will need to make sure you have your C drive (or whatever drive you have the devopsdays code on) shared in Docker
+# NOTE: The docker image provided by jojomi is not managed or audited by devopsdays
 
 $MyPath = $PSScriptRoot
 
