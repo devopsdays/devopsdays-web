@@ -11,4 +11,4 @@ Description = "Registration for devopsdays portugal 2019"
 </div>
 <br/>
 
-You can always use the following link: [http://ti.to/devopsdays-portugal/2019](https://ti.to/devopsdays-portugal/2019)
+You can always use the following link: [https://ti.to/devopsdays-portugal/2019](https://ti.to/devopsdays-portugal/2019)
