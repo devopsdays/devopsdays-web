@@ -1,5 +1,0 @@
-+++
-Title = ""
-Type = "talk"
-Speakers = [""]
-+++
