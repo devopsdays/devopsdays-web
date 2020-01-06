@@ -177,7 +177,7 @@ program:
     date: "2020-02-24"
     start_time: "12:00"
     end_time: "13:30"
-  - title: "Launch"
+  - title: "Lunch"
     type: custom
     date: "2020-02-24"
     start_time: "13:00"
