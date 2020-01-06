@@ -5,6 +5,8 @@
 # Purpose: Run the Hugo container as a local server
 #
 # This requires Docker 17.06.0-ce or above.
+#
+# NOTE: The docker image provided by jojomi is not managed or audited by devopsdays
 
 
 docker stop hugo-server
