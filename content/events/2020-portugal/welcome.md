@@ -14,8 +14,6 @@ Description = "devopsdays portugal 2020"
   </div>
 </div>
 
-
-
 <!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
@@ -94,10 +92,7 @@ Description = "devopsdays portugal 2020"
       </div>
     </div>
     <div class="col-sm-6">
-      <p><b>DevOpsDays Portugal 2020 it's the second edition and it's powered by <a href="https://www.meetup.com/pt-BR/DevOps-Lisbon/">DevOps Lisbon</a>, <a href="https://www.meetup.com/devopsporto/">DevOps Porto</a> and <a href="https://www.meetup.com/DevOps-Braga/">DevOps Braga</a>, the three main communities dedicated to DevOps in Portugal.</b></p>
-
-      <p><b>For this edition we climbed north and have chosen Porto as the city that will host DevOpsDays Portugal second edition. More details ahead.</b></p>
-
+      <p><b>DevOpsDays Portugal 2020 it's the second edition and it's powered by <a href="https://www.meetup.com/pt-BR/DevOps-Lisbon/">DevOps Lisbon</a>, <a href="https://www.meetup.com/devopsporto/">DevOps Porto</a> and <a href="https://www.meetup.com/DevOps-Braga/">DevOps Braga</a>, the three main communities dedicated to DevOps in Portugal.</b></p><p><b>For this edition we climbed north and have chosen Porto as the city that will host DevOpsDays Portugal second edition. More details ahead.</b></p>
       <!--<p><b> The conference this year will focus on real world experience reports from diverse organizations in Portugal and abroad. Covered topics will include Culture, Automation, Lean, Measurement, and Sharing (CALMS), and others. </b></p>-->
     </div>
     <div class="col-sm-6">
