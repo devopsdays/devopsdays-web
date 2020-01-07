@@ -63,15 +63,14 @@ Description = "devopsdays Caceres 2020"
     </br>
     <div class="d-flex flex-row">
       <div class="col-md-12">
-        <div><p style="font-weight: bold; font-size: 1.5em;">Call for talks ends on January 6th</p></div>
         <div class="d-flex p-2">
           <a class="btn btn-secondary btn-block" style= "background-color: #96bfe6; border-color: #96bfe6;" href="/events/2020-caceres/sponsor"> <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference</a>
         </div>
         <div class="d-flex p-2">
-          <a class="btn btn-secondary btn-block" style= "background-color: #96bfe6; border-color: #96bfe6;" href="https://forms.gle/4R7LFmCMG675GvUA9" rel="noopener"> <i class="fa fa-file-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Propose</a>
+          <a class="btn btn-secondary btn-block" style= "background-color: #96bfe6; border-color: #96bfe6;" href="/events/2020-caceres/contact"> <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Contact the Organizers</a>
         </div>
         <div class="d-flex p-2">
-          <a class="btn btn-secondary btn-block" style= "background-color: #96bfe6; border-color: #96bfe6;" href="/events/2020-caceres/contact"> <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Contact the Organizers</a>
+          <a class="btn btn-secondary btn-block" style= "background-color: #00263C; border-color: #00263C;" href="https://devopsdays.cc" rel="noopener"> <i class="fa fa-file-code-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Link to DevOpsDays Cáceres web</a>
         </div>
       </div>
     </div>
@@ -106,14 +105,14 @@ Description = "devopsdays Caceres 2020"
   </div>
 </div> -->
 
-<div class = "row">
+<!--<div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     <a href="https://forms.gle/6PJgqZqLbdMB664f8" rel="noopener">Propose a talk!</a>
   </div>
-</div>
+</div> -->
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -154,4 +153,3 @@ Description = "devopsdays Caceres 2020"
 <!-- Uncomment if you added your city twitter name -->
 
 {{< event_twitter >}}
-
