@@ -73,6 +73,10 @@ sponsors_accepted: "true"
 sponsors:
   - id: arresteddevops
     level: community
+  - id: circleci
+    level: gold
+  - id: influxdata
+    level: gold
 
 sponsor_levels:
   - id: gold
