@@ -110,6 +110,7 @@ sponsors:
     level: silver
   - id: pure-storage
     level: gold
+
   #- id: docker
   #level: gold
 
@@ -140,7 +141,7 @@ program:
   - title: "Registration & Breakfast"
     type: custom
     date: "2020-02-24"
-    start_time: "08:00"
+    start_time: "08:30"
     end_time: "09:10"
   - title: "Welcome Speech"
     type: custom
