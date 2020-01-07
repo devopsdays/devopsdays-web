@@ -19,7 +19,8 @@ advisory = [
 "Patrick Debois (founder)",
 "Kris Buytaert",
 "Matthew Jones",
-"Andrew Clay Shafer"
+"Andrew Clay Shafer",
+"John Willis"
 ]
 
 emeritus = [
@@ -31,6 +32,5 @@ emeritus = [
 "Julian Simpson",
 "Christian Trabold",
 "John Vincent",
-"James Wickett",
-"John Willis"
+"James Wickett"
 ]
