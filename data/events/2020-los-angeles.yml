@@ -80,6 +80,8 @@ organizer_email: "los-angeles@devopsdays.org" # Put your organizer email address
 sponsors:
   - id: appdynamics
     level: gold
+  - id: codefresh
+    level: gold
   - id: influxdata
     level: gold
   - id: launch-darkly
