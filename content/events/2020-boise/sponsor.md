@@ -33,10 +33,10 @@ a.payment:link, a.payment:visited, a.payment:hover, a.payment:active { text-deco
   </tr>
   <tr>
     <td>Price (USD)</td>
-    <td>$1,000</td>
-    <td>$3,000</td>
-    <td>$5,000</td>
-    <td>$7,000</td>
+    <td>$2,000</td>
+    <td>$4,000</td>
+    <td>$6,000</td>
+    <td>$8,000</td>
   </tr>
   <tr>
     <td>included tickets</td>
