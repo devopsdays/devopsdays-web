@@ -36,7 +36,7 @@ location_address: "R. Dr. João Carlos de Souza, 55 - Santa Luíza, Vitória - E
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
- # - name: location
+  - name: location
  # - name: registration
  # - name: program
   - name: speakers
@@ -152,6 +152,8 @@ sponsors:
     level: gold
   - id: AtmanSystems
     level: gold
+  - id: LPI
+    level: gold
   - id: guiafoca
     level: community
   - id: viprede
@@ -170,6 +172,8 @@ sponsors:
   - id: inflor
     level: silver
   - id: flexa
+    level: silver
+  - id: pag!
     level: silver
 #  - id: liftbank
 #    level: silver
