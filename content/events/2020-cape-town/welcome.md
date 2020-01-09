@@ -1,4 +1,4 @@
-20+++
++++
 Title = "DevOpsDays Cape Town 2020"
 Type = "welcome"
 aliases = ["/events/2020-cape-town/"]
