@@ -11,7 +11,7 @@ Description = "DevOpsDays Toronto 2020"
 
 </br>
 
-DevOpsDays Toronto is back for its seventh year. We'll be announcing the dates and venue soon as well as opening the CFP.</br>
+DevOpsDays Toronto is back for its seventh year. The conference is April 16 and 17 at {{< event_location >}}. The CFP opens on December 1, 2019.</br>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -22,32 +22,32 @@ DevOpsDays Toronto is back for its seventh year. We'll be announcing the dates a
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="registration" text="Register to attend the conference!" >}}
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">

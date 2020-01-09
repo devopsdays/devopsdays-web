@@ -1,7 +1,7 @@
 +++
 Title = "Daniel Mittelman"
 Twitter = ""
-image = "daniel-mittleman.jpeg"
+image = "daniel-mittleman.jpg"
 type = "speaker"
 linktitle = "daniel-mittelman"
 

@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Fighting toxic working environments"
 Type = "talk"
 Speakers = ["alex-stanhope"]
+Youtube = "Em-PLyI_VDI"
 +++
 
 Unhealthy working cultures can creep into all kinds of organisations, from start-ups to large enterprises.  Tech teams are sometimes composed from a limited demographic, with newly-skilled practitioners ready to change the world: they're often male, young and ambitious.

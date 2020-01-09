@@ -12,11 +12,11 @@ There are three sponsorship levels.
 ## Bronze Sponsor (¥100,000)
 
 Your logo will be on the website and in printed materials that show sponsors (like, banners or brochures). This gives you an opportunity to get your name in front of the audience as support DevOps in Japan.
-## Silver Sponsorship (¥300,000)
+## Silver Sponsorship (¥350,000)
 
 In addition to the bronze benefits, a table will be provided in the foyer. This will give you the opportunity to talk to attendees.
 
-## Gold Sponsorship (¥600,000)
+## Gold Sponsorship (¥900,000)
 
 As the top-billing sponsorship, the above benefits will be included as well as a 5-minute company introduction. But it mostly shows attendees you are strongly supporting DevOps in Japan.
 

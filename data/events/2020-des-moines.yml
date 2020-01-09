@@ -14,11 +14,11 @@ startdate:  2020-05-14T00:01:00-05:00
 enddate:  2020-05-15T00:01:00-05:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start:  2019-12-10T00:00:00-06:00
+cfp_date_end:  2020-01-10T23:59:59-06:00
+cfp_date_announce:  2020-01-31T00:00:00-06:00
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://www.papercall.io/devopsdaysdesmoines2020" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: # close registration. Leave blank if registration is not open yet.
@@ -34,12 +34,12 @@ location: "Iowa Events Center" # Defaults to city, but you can make it the venue
 location_address: "730 3rd Street, Des Moines, IA 50309" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements:
- # - name: propose
+  - name: propose
   - name: location
  # - name: registration
  # - name: program
  # - name: speakers
-  # - name: sponsor
+  - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
@@ -85,12 +85,16 @@ organizer_email: "des-moines@devopsdays.org" # Put your organizer email address 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: samplesponsorname
+  - id: trility
     level: gold
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  - id: arresteddevops
-    level: community
-
+  - id: sourceallies
+    level: lanyard
+  - id: sidegarage
+    level: community   
+  # - id: ahead
+  #   level: gold
+  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+ 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -100,11 +104,12 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Gold
-#    max: 10
-  - id: silver
-    label: Silver
-    max: 0 # This is the same as omitting the max limit.
-  - id: bronze
-    label: Bronze
+    max: 10
+  - id: social
+    label: Social
+    max: 1
+  - id: lanyard
+    label: Lanyard
+    max: 1  
   - id: community
     label: Community

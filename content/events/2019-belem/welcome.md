@@ -63,7 +63,7 @@ Description = "devopsdays Belém 2019"
     <strong>Patrocinadores</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="patrocinio" text="Patrocine o evento!" >}}
+    {{< event_link page="sponsor" text="Patrocine o evento!" >}}
   </div>
 </div>
 

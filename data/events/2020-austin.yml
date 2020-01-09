@@ -4,6 +4,8 @@ city: "Austin" # The displayed city name of the event. Capitalize it.
 event_twitter: "DoDAustin" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "DevOpsDays Austin's 9th Year!" # Edit this to suit your preferences
 
+masthead_background: "austin-skyline.jpg"
+
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
@@ -41,7 +43,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: registration
  # - name: program
  # - name: speakers
- # - name: sponsor
+  - name: sponsor
   - name: contact
   - name: conduct
  # - name: propose
@@ -53,85 +55,151 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 team_members: # Name is the only required field for team members.
   - name: "Ernest Mueller"
     twitter: "ernestmueller"
-    employer: "AlienVault"
-    bio: "Ernest Mueller is Lean Systems Manager at AlienVault in Austin, TX. He organizes the CloudAustin user group, the Agile Austin DevOps SIG, and the DevOpsDays Austin conference, now in its sixth year. Along with his coauthor James, he wrote the DevOps Fundamentals course on lynda.com."
+    employer: "Precision Autonomy"
+    bio: "Ernest is Head of Engineering at Precision Autonomy in Austin, TX. He's been in tech for 25 years and organizes various Austin area user groups and conferences. He also authors a series of DevOps courses on LinkedIn Learning."
     github: "ernestm"
     facebook: ""
     linkedin: "https://www.linkedin.com/in/ernestmueller/"
-    image: ""
+    image: "ernest.jpg"
   - name: "James Wickett"
     twitter: "wickett"
-    employer: "Signal Sciences"
-    bio: ""
+    employer: "Verica"
+    bio: "James is at Verica (verica.io), a leader in Continuous Verification and Chaos Engineering. You can find out more about James at https://wickett.me"
     github: "wickett"
     facebook: ""
-    linkedin: "https://www.linkedin.com/in/wickett/"
-    image: ""
+    linkedin: "https://www.linkedin.com/in/wickett"
+    image: "james.jpg"
   - name: "Karthik Gaekwad"
     twitter: "iteration1"
     employer: "Oracle"
-    bio: "I live in Austin, write @golang, and know stuff about burgers, containers and cloud. I organize @dodaustin, @container_days, @cloud_austin and DockerAustin."
+    bio: "Karthik is a Principal Developer Advocate for Oracle Cloud. He's a leader in the cloudnative and devops space, and wants to make Austin a tolerant, inviting tech community."
     github: "karthequian"
     facebook: ""
     linkedin: "https://www.linkedin.com/in/kgaekwad/"
-    image: ""
-  - name: "Ian Richardson"
-  - name: "Scott Baldwin"
-    twitter: "scottsbaldwin"
-    employer: "Oracle"
-    bio: "Scott has helped organize DevOps Days Austin since it started in 2012. His primary responsibility is the web site, although he has helped with sponsors in the past. He is currently hacking on Kubernetes at Oracle. He loves teams that care about happiness, vulnerability, and empathy. And he loves tennis."
-    github: "scottsbaldwin"
-    facebook: ""
-    linkedin: "https://www.linkedin.com/in/scottsbaldwin/"
-    image: ""
+    image: "karthik.jpg"
   - name: "Dan Zentgraf"
     twitter: "danzentgraf"
     employer: "Datical"
-    bio: "Dan is a long time DevOps evangelist working with very large enterprises. He has been involved in the Agile / Lean / DevOps movement in a number of management, product management, and process consulting roles. In addition to the work stuff, he is active in the Austin community as a DevOpsDays organizer for the last 4 years as well as with the AgileAustin community as a program lead."
+    bio: "Dan is a technology professional focused on bringing DevOps practices to enterprises. He has over 20 years in the IT space and has served in a variety of capacities including Product Management, Agile/DevOps consulting & coaching, and Solution Engineering. An active member of the Austin technology community, Dan ran the first regular DevOps meetup for the Agile Austin community, and has been an organizer for DevOps Days Austin for most of its nine years."
     github: ""
     facebook: ""
     linkedin: "https://www.linkedin.com/in/zentgraf/"
-    image: ""
-  - name: "Chris Casey"
+    image: "dan.jpg"
   - name: "Boyd Hemphill"
     twitter: "behemphi"
-    employer: "Victory CTO"
-    bio: "Boyd Hemphill is a DevOps raconteur and thought leader in the silicon hills of Austin Texas. Boyd founded Austin DevOps when he learned this thing he was doing had a name. Boyd also assists with the organization of DevOps Days Austin. In his professional life, Boyd has been a developer (PL/SQL and PHP), DBA (Oracle and MySQL), and system administrator.  He has even been a Director of DevOps and would enjoy you coming to poke fun at him for it."
+    employer: "Contrast Security"
+    bio: "Paying my karmic debts to the Austin tech community a bit at a time. Supported in those endeavors by my employer and leadership team at Contrast Security."
     github: "behemphi"
     facebook: ""
     linkedin: "https://www.linkedin.com/in/boydhemphill/"
-    image: ""
-  - name: "Lee Thompson"
-    twitter: "stagr_lee"
-    employer: "Precision Autonomy"
-    bio: "Lee has been an organizer/volunteer for DevOpsDays Austin since its founding and participated in the organization of the first US DevOpsDays event in Mountain View in 2010.  He keeps coming back to DevOpsDays because he still hasn't figured it all out yet.  When not messing with distributed applications, he's messing around with 240Z's and Airstreams."
-    github: "stagrlee"
-    facebook: ""
-    linkedin: "https://www.linkedin.com/in/leewthompson/"
-    image: ""
+    image: "boyd.jpg"
   - name: "Richard Boyd"
     twitter: "richardboydii"
     employer: "Amazon Web Services"
-    bio: "Richard is active in the Austin DevOps community and speaks at Meetups and conferences. In his spare time he enjoys camping and the checking out the local brewery scene."
+    bio: "Richard is a Senior Solutions Architect for Amazon Web Services in Austin, TX. As a part of the Well-Architected Team, he works with AWS Partners to optimize Workloads according to the Well-Architected Framework. In his spare time he loves organizing technology conferences and Meetups and is always looking for something new to learn from others."
     github: "richardboydii"
     facebook: ""
     linkedin: "https://www.linkedin.com/in/richardboydii/"
-    image: ""
-  - name: "Laura Wickett"
-  - name: "Carl Perry"
+    image: "rich.jpg"
+  - name: "Scott Baldwin"
+    twitter: "scottsbaldwin"
+    employer: "Oracle"
+    bio: "Scott is a Program Manager for the Kubernetes service at Oracle Cloud Infrastructure. He has helped organize DevOpsDays Austin since it started in 2012. He loves teams that care about happiness, vulnerability, and empathy. And he loves tennis."
+    github: "scottsbaldwin"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/scottsbaldwin/"
+    image: "scott.jpg"
+  - name: "Lee Thompson"
+    twitter: "stagr_lee"
+    employer: "Precision Autonomy"
+    bio: "CTO Precision Autonomy.  Long time DoD organizer.  Still trying to get DevOps right."
+    github: "stagrlee"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/leewthompson/"
+    image: "lee.jpg"
   - name: "Daria Ilic"
+    twitter: "dariailic"
+    employer: "The Zebra"
+    bio: "Daria is the Lead Technical Recruiter at the Zebra. She is passionate about technology, recruiting & helping people find their dream job."
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/dariailic/"
+    image: "daria.png"
+  - name: "JJ Asghar"
+    twitter: "jjasghar"
+    employer: "IBM"
+    bio: "JJ works at IBM on the IBM cloud as a Developer Advocate. He’s focusing on the IBM Kubernetes Service trying to make companies and users have a successful on boarding to the Cloud Native ecosystem."
+    github: "jjasghar"
+    facebook: ""
+    linkedin: ""
+    image: "jj.jpg"
   - name: "Tom Hall"
-  - name: "Peco Karayanev"
+    twitter: "tmhall99"
+    employer: "Silvercar by Audi"
+    bio: "Tom was a Novell CNE in the 90's and a VMware VCP in the late 00's. For the past six years he has been doing the Devops, currently at Silvercar by Audi."
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/tmhall99/"
+    image: "tom.jpg"
+  - name: "Ian Richardson"
+    twitter: "@ianrichardson"
+    employer: "Reflexion Health"
+    bio: "Ian Richardson is a Director of Engineering at Reflexion Health and has specialized in Healthcare IT for over 12 years. Ian has been a DevOpsDays Austin organizer since 2015. He loves talking about technology, video games, and cars."
+    github: "https://github.com/ianrichardson"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/ianrichardson"
+    image: "ian.jpg"
+  - name: "Chris Casey"
+    twitter: ""
+    employer: "Solarwinds"
+    bio: "Chris is SRE Lead for AppOptics at Solarwinds. Organizer since 2013."
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/chris-casey-021a2750/"
+    image: "chris.jpg"
+  - name: "Carl Perry"
+    twitter: "edolnx"
+    employer: "Sphere Cube LLC"
+    bio: "Director of Server Housing, Interconnects, Electrical, and Logistics Division at a tiny hosting company you've never heard of. AV and Racing nerd. Has many horror stories of HDMI and HDCP."
+    github: "edolnx"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/carl-perry-9a0380a"
+    image: "carl.jpg"
   - name: "Asif Ahmad"
-  - name: "Bailey Moore"
+    twitter: "dabrownkid84"
+    employer: "National Instruments"
+    bio: "Asif is a Cloud Infrastructure Engineer at National Instruments. He has volunteered at numerous conferences around the Austin area and has a passion for making relationships. He also has over 10 years of IT experience and is an individual with a strong desire to keep learning and a strong hunger to eat delicious burgers."
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/asifahmad1/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BkbJM%2BXNLSDu4SlknC%2FPh3A%3D%3D"
+    image: "asif.jpg"
+  - name: "Laura Wickett"
+    twitter: "conference_ops"
+    employer: "Conference Ops"
+    bio: "Laura is the founder of Conference Ops, the financial solution partner for community-driven tech conferences"
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/laurawickett/"
+    image: "laura.jpg"
+  - name: "Shaun Mouton"
+    twitter: "sdmouton"
+    employer: "Chef"
+    bio: "Shaun isn't a devops but can help sprinkle some on your infrastructure, apps, and/or culture. Friendgineering 4 lyfe, hugops not harm, tirefi.re benevolent underlord."
+    github: "moutons"
+    facebook: "http://tirefi.re/facebook/"
+    linkedin: "https://www.linkedin.com/in/sdmouton/"
+    image: "shaun.jpg"
 organizer_email: "austin@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  
+  - id: circleci
+    level: gold
+  - id: xmatters
+    level: gold
 
-sponsors_accepted : "false" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "true" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -140,22 +208,19 @@ sponsors_accepted : "false" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: happyhour
     label: Happy Hour
-    max: 2
+    max: 1
   - id: platinum
     label: Platinum
-    max: 3
+    max: 10
+  - id: gold
+    label: Gold
+    max: 24
   - id: lanyard
     label: Lanyard
     max: 1
-  - id: gold
-    label: Gold
-    max: 20
-  - id: silver
-    label: Silver
+  - id: oncall
+    label: On-call Room
     max: 10
-  - id: media
-    label: Media
-    max: 1
   - id: mealandsnack
     label: Meal and Snack
-    max: 10
+    max: 8
