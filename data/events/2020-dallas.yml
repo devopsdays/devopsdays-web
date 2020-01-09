@@ -50,14 +50,6 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
-  # - name: "Franklin Mosley"
-  #   employer: "PagerDuty"
-  #   bio: "As a young child, I was introduced to computers, and they became my passion. I began writing programs, and by the age of 10, I knew what I wanted to do when I “grew up” without understanding how computers and technology would influence our world in the future. <br><br>Fast forward to present times, and we live in a digitally connected world. Innovations have improved business and personal technology while increasing productivity. Unfortunately, this has also lead to opportunities for, and an increase in, cyber threats. According to a 2013 report, over 552 million identities were exposed via breaches, and there was a 62% increase in the number of breaches over the previous year. <br><br>As a 16-year experienced Information Security professional, I have helped businesses counter threats. I have assessed applications for security risks, and implemented security controls. Having also been a software engineer, in an earlier part of my career, as well as still writing code for fun and the challenges, my focus on application security is a natural place for me to practice, and has become my passion. <br><br>In recent years, I’ve become involved with, and very interested in, DevOps/DevSecOps. This way of software delivery has me looking for ways to improve processes, while still ensuring that teams are delivering secure software."
-  #   twitter: "fpmosley3"
-  #   linkedin: "https://www.linkedin.com/in/franklinmosley/"
-  #   website: ""
-  #   github: "https://github.com/fpmosley"
-  #   image: "franklin.jpg"
 
   - name: "Gokul Sridharan"
     employer: "Micro Focus"
@@ -103,8 +95,10 @@ team_members: # Name is the only required field for team members.
 
   - name: "Katie Uebele"
     employer: "InfoVision, Inc."
+    bio: "Katie has been in the IT consulting industry for 10 years based in Dallas, Texas.  She prides herself in establishing close relationships with her customers and staying on top of the latest technologies.  DevOps has been an area of interest that has been helping her grow within her career, which is why she has joined the organizing committee for Dallas DevOpsDays 2020.  When she is not working you can find her traveling around the world.  Before entering her career path in IT she spent three years living abroad in Europe, Asia and Australia teaching English, scuba diving and getting involved in the local culture."
     twitter: "KT_InfoVision"
     linkedin: "https://www.linkedin.com/in/katieuebele/"
+    image: katie.jpg
 
   - name: "Lee Herrin"
     employer: "Dell EMC"
@@ -115,20 +109,12 @@ team_members: # Name is the only required field for team members.
 
   - name: "Mark Andersen"
     employer: "Capital One"
-    bio: "Mark loves DevOps and the cloud and has spend the last 2 years with Capital One going all in on DevOps and the Cloud. Mark leads DevOps for Capital One Auto Finance and is the Cloud Lead for public cloud accounts in Plano. Previously Mark has spent 14 years at Southwest Airlines in various software development and leadership roles."
+    bio: "Mark loves DevOps and the cloud and has spent the last 2 years with Capital One going all in on DevOps and the Cloud. Mark leads DevOps for Capital One Auto Finance and is the Cloud Lead for public cloud accounts in Plano. Previously Mark has spent 14 years at Southwest Airlines in various software development and leadership roles."
     twitter: "mandersen94"
     linkedin: "https://www.linkedin.com/in/markandersen94/"
     website: "https://www.capitalone.com/"
     github: "https://github.com/mandersen94/"
     image: "mark-andersen.jpg"
-
-  - name: "Mark Saum"
-    employer: "Fidelis Consulting"
-    bio: "20+ years advising large corporations and fast growth startups in IT architecture and security. <br><br>Mark Saum currently serves as the Chief Information Security Officer of DirectStream, LLC. DirectStream was founded by supercomputing pioneer Seymour Cray and provides a breakthrough supercomputing system and a secure cloud platform. DirectStream's goal is to provide the fastest, most secure computing platform on the planet. In this role, Mr. Saum has overall responsibility for the company’s corporate, hardware and cloud platform security. <br><br>Mr. Saum joined DirectStream from ModoPayments, where he was a co-founder and served as the CIO and CISO.  While at ModoPayments, he was co-inventor of US Patent US20120101887, A System and Method for Managing Merchant-Customer Interactions. He remains as an investor and advisor to ModoPayments. <br><br>Mr. Saum has provided IT consulting through Fidelis Consulting Corporation since 1997. His customers have included IBM, AT&T, General Motors, Sun Microsystems, JPMorganChase, Lucent Technologies, the Intelligence Community, US Cellular, GameStop,  and Verizon Wireless. <br><br>Mr. Saum is an AWS Certified Solutions Architect and holds a B. B. A. in Business Analysis/Management Information Systems from Texas A&M University, College Station."
-    twitter: "msaum"
-    linkedin: "https://www.linkedin.com/in/marksaum/"
-    website: "http://www.fideliscorp.com/"
-    image: "mark-saum.jpg"
 
   - name: "Megan Bohl"
     employer: "NCR Corporation"
@@ -139,7 +125,7 @@ team_members: # Name is the only required field for team members.
 
   - name: "Mike Rosado"
     employer: "Independent Consultant"
-    bio: "Mike who is a DevOps Enthusiast and Technical Evangelist works as an Independent Consultant with customers in the United States and throughout Latin America. Mike enjoys sharing his views as it relates to the cultural movement of DevOps and technologies that contribute to the continuous improvement. He enjoys it so much, that he became one of the integral local organizers of DevOpsDays Dallas, [DevOps Live Meetup](https://www.meetup.com/DevOpsLive/), and active Global Core Organizer of [devopsday.org](https://www.devopsdays.org/about). <br><br> As a recognized leader in the DevOps space with exemplary recommendations in the LinkedIn community groups, Mike’s passion in this field shines as he mentors others and enjoys tackling challenges. Mike's vast experience in helping Enterprise customers for 22+ years at Microsoft in various capacity serves as a base as he continues to evolve in this DevOps journey. "
+    bio: "Mike who is a DevOps Enthusiast and Technical Evangelist works as an Independent Consultant with customers in the United States and throughout Latin America. Mike enjoys sharing his views as it relates to the cultural movement of DevOps and technologies that contribute to the continuous improvement. He enjoys it so much, that he became one of the integral local organizers of DevOpsDays Dallas, [DevOps Live Meetup](https://www.meetup.com/DevOpsLive/), and active Global Core Organizer of [devopsday.org](https://www.devopsdays.org/about).<br><br>As a recognized leader in the DevOps space with exemplary recommendations in the LinkedIn community groups, Mike’s passion in this field shines as he mentors others and enjoys tackling challenges. Mike's vast experience in helping Enterprise customers for 22+ years at Microsoft in various capacity serves as a base as he continues to evolve in this DevOps journey. "
     twitter: "MikeRosTX"
     linkedin: "https://www.linkedin.com/in/mikerostx/"
     github: "mikerostx"
