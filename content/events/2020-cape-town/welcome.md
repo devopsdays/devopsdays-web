@@ -1,4 +1,4 @@
-+++
+20+++
 Title = "DevOpsDays Cape Town 2020"
 Type = "welcome"
 aliases = ["/events/2020-cape-town/"]
@@ -57,7 +57,7 @@ Description = "DevOpsDays Cape Town 2020 will take place September 17-18, 2020!"
     <div class = "row">
       <div class = "col-12">
         <div class="text-center">
-        <img src = "/events/2019-cape-town/logo.png" class = "img-fluid" style="width: 50%">
+        <img src = "/events/2020-cape-town/logo.png" class = "img-fluid" style="width: 50%">
         </div>
       </div>
     </div>
