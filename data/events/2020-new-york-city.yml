@@ -132,6 +132,8 @@ sponsors:
     level: silver
   - id: timescale
     level: gold
+  - id: gitlab
+    level: gold
   - id: twosigma
     level: captioning
   - id: arresteddevops
