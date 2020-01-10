@@ -95,6 +95,6 @@ General inquiries and sponorships:  [{{< email_organizers >}}]
   </tr>
   <tr>
     <td></td>
-    <td style="text-align: right; color: #bbb;" colspan=5>Online payments include a service charge.<a href="mailto:organizers-detroit-2019@devopsdays.org?subject=DevOpsDays%20Detroit%202019%20Sponsorship">Email us</a> for alternative payment information.</td>
+    <td style="text-align: right; color: #bbb;" colspan=5>Online payments include a service charge.<a href="mailto:detroit@devopsdays.org?subject=DevOpsDays%20Detroit%202020%20Sponsorship">Email us</a> for alternative payment information.</td>
   </tr>
 </table>
