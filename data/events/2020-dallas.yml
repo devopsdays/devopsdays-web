@@ -155,13 +155,6 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/scott-purgerson-5858224"
     website: "https://www.automationanywhere.com/"
     image: "scott.jpg"
-
-  - name: "Tim Williams"
-    employer: "Fearless Information Security, LLC"
-    bio: "Tim has spent over 15 years as an Information Security professional, working for the US Government, Fortune 500, and as acting CISO for a large SaaS company. He now manages his own Information Security Consulting firm, which covers a wide-range of services from Compliance, SaaS security, vCISO and sales support, Privacy issues such as GDPR, to specializing in providing Application Security within a DevOps environment."
-    linkedin: "https://www.linkedin.com/in/securitytimwilliams/"
-    website: "http://www.fearlessinfosec.com/"
-    image: "tim.jpg" 
     
 # - name: ""
 #   employer: "Organizer Role - "
