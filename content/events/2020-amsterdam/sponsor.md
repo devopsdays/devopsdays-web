@@ -6,7 +6,7 @@ Description = "Sponsor devopsdays Amsterdam 2020"
 
 <h5>
 <p>We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].</p>
-<p><a href="https://assets.devopsdays.org/events/2019/amsterdam/devopsdays-amsterdam-prospectus-2019.pdf">A downloadable version of our prospectus is available here.</a></p>
+<p><a href="https://assets.devopsdays.org/events/2020/amsterdam/devopsdays-amsterdam-prospectus-2020.pdf">A downloadable version of our prospectus is available here.</a></p>
 </h5>
 
 <hr>
