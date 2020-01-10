@@ -7,13 +7,8 @@ Description = "Patrocinio DevOpsDays Aracaju 2020"
 Nós valorizamos muito os patrocinadores deste evento. Caso esteja interessado em alguma cota de patrocinio, entre em contato pelo email [{{< email_organizers >}}].
 <hr>
 
-DevOpsDays é uma conferência auto organizada que depende de patrocinadores. Nós não temos palestras de venda de produtos ou distribuição de lista de contatos dos participantes. Patrocinadores terão a oportunidade de falar brevemente durante o evento e terão o reconhecimento no site e mídias sociais antes, durante e depois do evento. Patrocinadores são encorajados a se representarem pela participação ativa e se engajarem com os participantes como pares. Qualquer participante também tem a oportunidade de demonstrar produtos/projetos como parte de uma seção Open Space.
+DevOpsDays é uma conferência auto organizada que depende de patrocinadores. Nós não temos palestras de venda de produtos ou distribuição de lista de contatos dos participantes. Patrocinadores terão a oportunidade de falar brevemente durante o evento e terão o reconhecimento no site e mídias sociais antes, durante e depois do evento. Patrocinadores são encorajados a se representarem pela participação ativa e se engajarem com os participantes como pares. Provavelmente a melhor coisa a se fazer é enviar seus especialistas técnicos para interagir com os participantes do evento. Qualquer participante também tem a oportunidade de demonstrar produtos/projetos como parte de uma seção Open Space.
 
-<p>
-Patrocinadores Ouro e Platina recebem uma mesa onde podem interagir com aqueles interessados em visitar durante os intervalos. Todos os participantes são bem-vindos a propor qualquer assunto que quiserem durante os Open Spaces, mas como esta conferência é focada na comunidade propaganda pesada irá provavelmente trabalhar contra você ao tentar causa uma boa impressão nos participantes.
-
-<p>
-Provavelmente a melhor coisa a se fazer é enviar seus especialistas técnicos para interagir com os participantes do evento.
 <p>
 
 ## Benefícios
