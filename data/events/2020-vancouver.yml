@@ -101,11 +101,20 @@ organizer_email: "vancouver@devopsdays.org" # Put your organizer email address h
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-        # - id: samplesponsorname
-        # level: gold
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
- #  - id: arresteddevops
- #   level: community
+  - id: xmatters
+    level: gold
+  - id: microsoft
+    level: gold
+  - id: influxdata
+    level: gold
+  - id: site24x7
+    level: gold
+  - id: newrelic
+    level: gold
+  - id: dynatrace
+    level: gold
+  - id: appdynamics
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -116,7 +125,7 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Gold
-#    max: 10
+    max: 10
   - id: silver
     label: Silver
     max: 0 # This is the same as omitting the max limit.
