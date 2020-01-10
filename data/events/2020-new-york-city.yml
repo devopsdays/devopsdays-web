@@ -134,6 +134,8 @@ sponsors:
     level: gold
   - id: gitlab
     level: gold
+  - id: facebook
+    level: gold
   - id: twosigma
     level: captioning
   - id: arresteddevops
