@@ -55,8 +55,6 @@ team_members: # Name is the only required field for team members.
   - name: "Chris Mills"
   - name: "Dan Webb"
     twitter: "dan_webb"
-  - name: "Dawn Foster"
-    twitter: "geekygirldawn"
   - name: "Dominique Top"
     twitter: "devopsdom"
   - name: "Hannah Foxwell"
