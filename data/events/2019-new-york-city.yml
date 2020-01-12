@@ -185,9 +185,9 @@ sponsors:
     level: silver
   - id: logz
     level: bronze
-  - id: pure-storage
+  - id: pure-storage-before-20200112
     level: bronze
-  - id: pure-storage
+  - id: pure-storage-before-20200112
     level: registration
   - id: cloudbees-codeship
     level: bronze
