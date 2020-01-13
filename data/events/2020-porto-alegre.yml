@@ -135,12 +135,16 @@ sponsors:
     level: community
   - id: docker-porto-alegre
     level: community
+  - id: pycaxias
+    level: community
   - id: linuxforall
     level: community
   - id: 2015-thoughtworks
     level: platinum
   - id: adentro-cloud
     level: bronze
+  - id: faculdade-dom-bosco
+    level: institutional
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -149,6 +153,9 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: institutional
+    label: institutional
+    max: 1
   - id: platinum
     label: Platinum
   - id: gold
