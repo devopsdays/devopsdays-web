@@ -17,7 +17,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
 We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at {{< email_organizers >}}. You can download a copy of the <a href="https://docs.google.com/presentation/d/1h3gP3IQy_PMuz6pG9N6lHupRdwpscqIj8JBvLw44uKg/export/pdf" target="_blank">prospectus</a> in pt-br or <a href="https://docs.google.com/presentation/d/1o3EqLowyVWzXRh5guh5ai35AbhhwRqCNtrQO07OD_Gs/export/pdf" target="_blank">prospectus</a> in en-us.
 
 <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTN_EPKQ8DOLjdHWbtF3AXjpBANFlOIBQjA_6hOorIg0-P7ktVA10hA8Tp5lrPw5kE-dhFmoXjhuI9B/embed?start=false&loop=false&delayms=3000" frameborder="0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTucz8wH7MASWCmWdZE6Szp87eNOhxMQ1ZC1BLj7hWlEfCJkRDoNCM0ZkOcBkIlAw/embed?start=false&loop=false&delayms=15000" frameborder="0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
 
