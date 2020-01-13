@@ -51,14 +51,14 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
-  - name: "Gillian Gunson"
-    role: "Primary Organizer"
-    twitter: "giflian"
-    image: "gillian-gunson.png"
   - name: "Tyler Mauthe"
     role: "Primary Organizer"
     twitter: "tylermauthe"
     image: "tyler-mauthe.png"
+  - name: "Kyle Young"
+    role: "Primary Organizer"
+    twitter: "ksgyoung"
+    image: "kyle_young-square.jpg"
   - name: "Ronald Bow"
     twitter: "rmkbow"
     image: "ronaldbow-square.png"
@@ -79,9 +79,6 @@ team_members: # Name is the only required field for team members.
     image: "kelly-shkuratoff.png"
   - name: "Samantha Toner"
     image: "sam-square.jpg"
-  - name: "Kyle Young"
-    twitter: "ksgyoung"
-    image: "kyle_young-square.jpg"
   - name: "Alicja Raszkowska"
     twitter: "mamrotynka"
     image: "alicja.jpg"
