@@ -47,7 +47,7 @@ Description = "devopsdays Vancouver 2020"
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    <a href="https://www.papercall.io/devopsdays-vancouver-2020">Propose a talk!</a>
+    <a href="https://www.papercall.io/devopsdays-vancouver-2020">Accepting talk proposals until: February 15, 2020</a>
   </div>
 </div>
 
