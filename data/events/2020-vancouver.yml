@@ -100,8 +100,6 @@ organizer_email: "vancouver@devopsdays.org" # Put your organizer email address h
 sponsors:
   - id: xmatters
     level: gold
-  - id: microsoft
-    level: gold
   - id: influxdata
     level: gold
   - id: site24x7
