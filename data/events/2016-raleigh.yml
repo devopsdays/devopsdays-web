@@ -61,7 +61,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: netapp
     level: platinum
-  - id: pagerduty
+  - id: pagerduty-before-20190930
     level: platinum
   - id: sumologic-before-20181203
     level: platinum

@@ -5,7 +5,6 @@ aliases = ["/events/2019-seattle/"]
 Description = "DevOpsDays Seattle 2019"
 +++
 
-
 For the fourth year, DevOpsDays is returning to Seattle. We have a great program this year including talks from industry leaders on topics like... 
 
 * Kubernetes

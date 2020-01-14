@@ -1,7 +1,7 @@
 +++
 Title = "Patrocinio"
 Type = "event"
-Description = "Patrocinio devopsdays Fortaleza 2018"
+Description = "Patrocinio devopsdays Fortaleza 2019"
 +++
 
 Nós valorizamos muito os patrocinadores deste evento. Caso esteja interessado em alguma cota de patrocinio, entre em contato pelo email [{{< email_organizers >}}].
@@ -35,7 +35,7 @@ Estande no local
 
 SILVER:
 
-Patrocinadores que contribuíram com quantias de R$ 1.000,00 à R$ 2.000,00
+Patrocinadores que contribuíram com quantias de R$ 1.000,00 à R$ 1.999,00
 
 
 BENEFÍCIOS:
@@ -53,9 +53,9 @@ Oportunidade de receber agradecimento formal no início de cada sessão de apres
 Estande
 
 
-BONZE:
+BRONZE:
 
-Patrocinadores que contribuíram com quantias de R$ 500,00 à R$ 1.000,00
+Patrocinadores que contribuíram com quantias de R$ 500,00 à R$ 999,00
 
 
 BENEFÍCIOS:

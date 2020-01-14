@@ -124,7 +124,7 @@ sponsors:
     level: gold
   - id: sonatype
     level: gold
-  - id: pagerduty
+  - id: pagerduty-before-20190930
     level: gold
   - id: site24x7
     level: gold
@@ -140,7 +140,7 @@ sponsors:
     level: silver
   - id: signalfx
     level: silver
-  - id: redhat
+  - id: redhat-before-20190528
     level: silver
   - id: vmware
     level: silver

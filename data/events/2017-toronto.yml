@@ -95,11 +95,11 @@ sponsors:
     level: gold
   - id: cgi
     level: gold
-  - id: redhat
+  - id: redhat-before-20190528
     level: silver
   - id: pure-storage-before-20190114
     level: lunch
-  - id: pagerduty
+  - id: pagerduty-before-20190930
     level: gold
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link

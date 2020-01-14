@@ -87,7 +87,7 @@ sponsors:
     level: gold
   - id: elastic
     level: gold
-  - id: pagerduty
+  - id: pagerduty-before-20190930
     level: gold
   - id: logdna
     level: gold
@@ -136,6 +136,12 @@ sponsors:
     level: gold
   - id: ontario-teachers-pension-plan
     level: gold
+  - id: cmd
+    level: charging
+  - id: codefresh
+    level: gold
+  - id: actifio
+    level: supporter
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
@@ -162,3 +168,239 @@ sponsor_levels:
   - id: charging
     label: Charging Stations
     max: 1
+  - id: supporter
+    label: Supporting
+    max: 1
+
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2019-05-29
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2019-05-29
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "emily-freeman"
+    type: talk
+    date: 2019-05-29
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-05-29
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "courtney-eckhardt"
+    type: talk
+    date: 2019-05-29
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2019-05-29
+    start_time: "10:25"
+    end_time: "10:50"
+  - title: "matthew-chum"
+    type: talk
+    date: 2019-05-29
+    start_time: "10:50"
+    end_time: "11:20"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-05-29
+    start_time: "11:20"
+    end_time: "11:30"
+  - title: "austen-novis"
+    type: talk
+    date: 2019-05-29
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2019-05-29
+    start_time: "12:00"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2019-05-29
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "hany-fahim"
+    type: talk
+    date: 2019-05-29
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2019-05-29
+    start_time: "14:00"
+    end_time: "14:20"
+  - title: "Break"
+    type: custom
+    date: 2019-05-29
+    start_time: "14:20"
+    end_time: "14:45"
+  - title: "attendee-suggested breakout discussions - Open Space #1"
+    type: open-space
+    date: 2019-05-29
+    start_time: "14:45"
+    end_time: "15:30"
+  - title: "david-stanke"
+    type: workshop
+    date: 2019-05-29
+    start_time: "14:45"
+    end_time: "15:30"
+  - title: "Break"
+    type: custom
+    date: 2019-05-29
+    start_time: "15:30"
+    end_time: "16:00"
+  - title: "attendee-suggested breakout discussions - Open Space #2"
+    type: open-space
+    date: 2019-05-29
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "greg-szabo"
+    type: workshop
+    date: 2019-05-29
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "attendee-suggested breakout discussions - Open Space #3"
+    type: open-space
+    date: 2019-05-29
+    start_time: "16:45"
+    end_time: "17:30"
+  - title: "Evening Event - The Brickworks After Dark"
+    type: custom
+    date: 2019-05-29
+    start_time: "17:30"
+    end_time: "20:30"
+    comments: "We've got plenty of entertainment planned for the first evening of the conference - join us in the Pavilion for some excellent drinks, incredible food, our photo booth, a giant Jenga, board games, chat-friendly music, and a few great surprises
+If you've ever snuck into the brickworks under cover of darkness, being here for legitimate reasons should be an interesting, nostalgic experience :)"
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2019-05-30
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2019-05-30
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "dominica-degrandis"
+    type: talk
+    date: 2019-05-30
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-05-30
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "wasim-hossain"
+    type: talk
+    date: 2019-05-30
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2019-05-30
+    start_time: "10:25"
+    end_time: "10:50"
+  - title: "bozhidar-lenchov"
+    type: talk
+    date: 2019-05-30
+    start_time: "10:50"
+    end_time: "11:20"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-05-30
+    start_time: "11:20"
+    end_time: "11:30"
+  - title: "quintessence-anx"
+    type: talk
+    date: 2019-05-30
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2019-05-30
+    start_time: "12:00"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2019-05-30
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "jacquelyne-grindrod"
+    type: talk
+    date: 2019-05-30
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2019-05-30
+    start_time: "14:00"
+    end_time: "14:20"
+  - title: "Break"
+    type: custom
+    date: 2019-05-30
+    start_time: "14:20"
+    end_time: "14:45"
+  - title: "attendee-suggested breakout discussions - Open Space #4"
+    type: open-space
+    date: 2019-05-30
+    start_time: "14:45"
+    end_time: "15:30"
+  - title: "andrew-kirkpatrick"
+    type: workshop
+    date: 2019-05-30
+    start_time: "14:45"
+    end_time: "15:30"
+  - title: "Break and 3:45 pm raffle in main ballroom"
+    type: custom
+    date: 2019-05-30
+    start_time: "15:30"
+    end_time: "16:00"
+  - title: "attendee-suggested breakout discussions - Open Space #5"
+    type: open-space
+    date: 2019-05-30
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "jason-harley"
+    type: workshop
+    date: 2019-05-30
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "attendee-suggested breakout discussions - Open Space #6"
+    type: open-space
+    date: 2019-05-30
+    start_time: "16:45"
+    end_time: "17:30"
+
+ignites:
+  - title: "denise-yu"
+    date: 2019-05-29
+  - title: "zach-koncir"
+    date: 2019-05-29
+  - title: "chris-trotter"
+    date: 2019-05-29
+  - title: "max-timchenko"
+    date: 2019-05-29
+  - title: "jay-gordon"
+    date: 2019-05-29
+  - title: "suzan-mahboob"
+    date: 2019-05-29
+  - title: "renata-rocha"
+    date: 2019-05-30
+  - title: "mark-hopson"
+    date: 2019-05-30
+  - title: "lilia-gutnik"
+    date: 2019-05-30
+  - title: "purvi-kanal"
+    date: 2019-05-30
+  - title: "chaiti-banerjee"
+    date: 2019-05-30

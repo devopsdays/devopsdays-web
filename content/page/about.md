@@ -18,13 +18,17 @@ The first devopsdays was held in Ghent, Belgium in 2009. Since then, devopsdays 
 
 
 ### About the organization
-The devopsdays global core team guides local organizers in hosting their own devopsdays events worldwide.
+The devopsdays global core team guides local organizers in hosting their own devopsdays events worldwide. Active core organizers onboard and guide events, answer questions, and maintain the website. Advisory core organizers are less involved day-to-day but weigh in on important matters and assist as needed. Emeritus core organizers are no longer involved in the core team; we thank them for their past efforts.
 
 **Core Organizers**
 
-{{< list_core >}}
+{{< list_core_active >}}
 
-If you have questions about hosting your own event or about potential future events you don't see listed, [email the core organizers](mailto:info@devopsdays.org). The core organizers cannot answer questions about sponsorships or registration for individual cities.
+{{< list_core_advisory >}}
+
+{{< list_core_emeritus >}}
+
+If you have questions about hosting your own event or about potential future events you don't see listed, [email the active and advisory core organizers](mailto:info@devopsdays.org). The core organizers cannot answer questions about sponsorships or registration for individual cities.
 
 ### Contact a specific event
 

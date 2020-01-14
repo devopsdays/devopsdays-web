@@ -70,9 +70,9 @@ sponsors:
     level: gold
   - id: newrelic
     level: gold
-  - id: redhat
+  - id: redhat-before-20190528
     level: gold
-  - id: pagerduty
+  - id: pagerduty-before-20190930
     level: gold
   - id: thoughtworks-gocd-before-20190213
     level: gold

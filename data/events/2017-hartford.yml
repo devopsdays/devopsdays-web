@@ -58,7 +58,7 @@ sponsors:
     level: gold
   - id: chef
     level: gold
-  - id: pagerduty
+  - id: pagerduty-before-20190930
     level: gold
   - id: opsgenie
     level: gold
@@ -78,7 +78,7 @@ sponsors:
     level: bronze
   - id: sonatype-before-20190121
     level: bronze
-  - id: checkmarx
+  - id: checkmarx-before-20190621
     level: bronze
   - id: newrelic
     level: bronze

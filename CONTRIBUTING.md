@@ -21,7 +21,20 @@ To watch for changes and rebuild on the fly, open a new terminal, change directo
 hugo server -w --baseUrl="http://localhost:1313"
 ```
 
-Now open `http://localhost:1313` in a browser and navigate to the content that you're editing - voilà!
+Now open `http://localhost:1313` in a browser and navigate to the content that you're editing - voilà! Note: hugo's `watch` is not going to catch every change, so if you're making structural/file or date changes, consider Control-C and restart of the `watch` command.
+
+#### macOS Specific Issues
+
+When running the `hugo server -w` command listed above, you may get an error about "too many open files". To solve this, run the following commands in your terminal:
+
+```
+hugo check ulimit
+sudo sysctl -w kern.maxfiles=65536
+sudo sysctl -w kern.maxfilesperproc=65536
+ulimit -n 65536 65536
+```
+
+Note that these changes will not persist past a reboot of your computer, so you'll need to run them again if you restart.
 
 ## Pull requests
 
@@ -29,7 +42,7 @@ Now open `http://localhost:1313` in a browser and navigate to the content that y
 
 Make your own [fork](https://help.github.com/articles/fork-a-repo/) of the `devopsdays-web` repository.
 
-Add the source repository as a remote called "upstream":
+Add the source repository as a [remote called "upstream"](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/configuring-a-remote-for-a-fork):
 
 ```
 git remote add upstream git@github.com:devopsdays/devopsdays-web.git
@@ -62,7 +75,7 @@ This confirms you are on the master branch locally, and then applies the changes
   (Replace `fix_that_thing` with a quick description of your *actual* change.)
 
 
-3. Make your changes, test them locally (see above), then push that branch up to `origin` on your fork.
+3. Make your changes, test them locally (see above - the `watch` command sometimes needs a restart), then push that branch up to `origin` on your fork.
 
   ```
   $ git push origin fix_that_thing

@@ -1,7 +1,7 @@
 +++
 Title = "Timothy Adams"
 Twitter = "tsadams1973"
-image = ""
+image = "timothy-adams.jpg"
 type = "speaker"
 linktitle = "timothy-adams"
 +++

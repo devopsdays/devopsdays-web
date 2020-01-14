@@ -8,8 +8,8 @@ title = "Continuously Delivering Infrastructure"
 type = "talk"
 speakers = ["matthias-fritschi"]
 youtube = ""
-vimeo = ""
-speakerdeck = ""
+vimeo = "344515378"
+speakerdeck = "https://speakerdeck.com/matf/continuously-delivering-infrastructure-devops-days-zh-2019"
 slideshare = ""
 slides = ""
 +++

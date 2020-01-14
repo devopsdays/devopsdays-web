@@ -30,9 +30,6 @@ Description = "Sponsor DevOpsDays London 2019"
             <th scope="col">
               <center>Gold</center>
             </th>
-            <th scope="col">
-              <center>Platinum</center>
-            </th>
           </tr>
         </thead>
         <tbody>
@@ -47,9 +44,6 @@ Description = "Sponsor DevOpsDays London 2019"
             <td>
               <center>£6,000</center>
             </td>
-            <td>
-              <center>£10,000</center>
-            </td>
           </tr>
           <tr>
             <th scope="row">&nbsp;</th>
@@ -57,13 +51,10 @@ Description = "Sponsor DevOpsDays London 2019"
               <center><span class="badge badge-success">Available</span></center>
             </th>
             <th>
-              <center><span class="badge badge-success">Available</span></center>
+              <center><span class="badge badge-warning">Limited</span></center>
             </th>
             <th>
-              <center><span class="badge badge-success">Available</span></center>
-            </th>
-            <th>
-              <center><span class="badge badge-success">Available</span></center>
+              <center><span class="badge badge-warning">Limited</span></center>
             </th>
           </tr>
           <tr>
@@ -77,9 +68,6 @@ Description = "Sponsor DevOpsDays London 2019"
             <td>
               <center>5</center>
             </td>
-            <td>
-              <center>10</center>
-            </td>
           </tr>
           <tr>
             <th scope="row">Stand Size</th>
@@ -92,10 +80,6 @@ Description = "Sponsor DevOpsDays London 2019"
             <td>
               <center>Large</center>
             </td>
-            <td>
-              <center>Very Large</center>
-            </td>
-
           </tr>
           <tr>
             <th scope="row">Delegate Address</th>
@@ -104,9 +88,6 @@ Description = "Sponsor DevOpsDays London 2019"
             </td>
             <td class="table-warning">
               <center>&nbsp;</center>
-            </td>
-            <td>
-              <center>1 Minute</center>
             </td>
             <td>
               <center>1 Minute</center>
@@ -122,6 +103,7 @@ education, government, and consulting.</p>
 
 <p>If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].</p>
 
+<p>To ensure that your logo is included on our banners during the event we have a deadline for payment of the 26th of August 2019 for your sponsorship</p>
 
 <p>Location: DevOpsDays London will be returning to the QEII Centre in London.</p>
 </div>
@@ -130,5 +112,4 @@ education, government, and consulting.</p>
     <div class="col-md-3 col-sm-12">
       <a href="https://assets.devopsdays.org/events/2019/london/devopsdays-london-2019-brochure.pdf"><img src="https://assets.devopsdays.org/events/2019/london/thumbnail.jpg" class="img-fluid"></a>
     </div>
-
   </div>

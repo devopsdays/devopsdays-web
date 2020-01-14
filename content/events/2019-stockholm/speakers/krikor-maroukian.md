@@ -2,7 +2,7 @@
 title = "Krikor Maroukian"
 twitter = ""
 image = "krikor-maroukian.jpg"
-website = "https://www.linkedin.com/in/krikormaroukian"
+linkedin = "https://www.linkedin.com/in/krikormaroukian/"
 type = "speaker"
 linktitle = "krikor-maroukian"
 +++

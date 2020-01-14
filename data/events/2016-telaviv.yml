@@ -89,7 +89,7 @@ sponsors:
   - id: smartx
     level: silver
   # silver
-  - id: appsflyer
+  - id: appsflyer-before-20180801
     level: bronze
   - id: elastic
     level: bronze
@@ -105,7 +105,7 @@ sponsors:
   - id: taboola
     level: lunch_and_wifi
   # media
-  - id: oreilly
+  - id: oreilly-before-20190725
     level: media
   - id: igtcloud
     level: media

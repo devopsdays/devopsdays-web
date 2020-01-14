@@ -6,10 +6,8 @@ html {
 
 body {
   font-size: 1em;
-  // font-family: 'Roboto', sans-serif;
   font-weight: 300;
   color: #000000;
-  // padding-top: 105px;
 }
 
 .fixed-top-2 {
@@ -87,10 +85,8 @@ b, strong {
   font-family: 'Roboto Condensed', sans-serif;
   font-weight: 300;
   font-size: 9pt;
-  // color: #000000;
   color: green;
   text-transform: uppercase;
-
 }
 
 .event-navigation-icon {
@@ -184,34 +180,19 @@ a.footer-content {
   background-color: #f7f7f7;
   padding-top: 20px;
   border-top: 2px solid #0082AB;
-  // background-color: desaturate( #0082AB, 80% );
   padding-left:40px;
   padding-right:40px;
 }
 
- .footer-nav-col {
-   padding-bottom: 30px;
- }
- //
- // .footer-nav-col:first-child {
- //  //  margin-left: 50 !important;
- //   border-top-width:thick;
- //   border-top-color:red;
- // }
- //
- // .footer-nav-col:last-child {
- //   margin-right: 0 !important;
- // }
+.footer-nav-col {
+  padding-bottom: 30px;
+}
 
 .footer-nav-row {
   margin-top:20px;
 }
 
 /* Sponsors */
-
-.sponsor-image {
-
-}
 
 .sponsor-row {
   display: flex;
@@ -234,7 +215,15 @@ a.footer-content {
 
 a.sponsor-cta {
   color: #0082AB;
-  // color: #fff;
+}
+
+img.sponsor {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 200x;
+  height: 200x;
+   max-width: 100%;
+   height: auto;
 }
 
 /* Homepage */
@@ -266,7 +255,6 @@ a.sponsor-cta {
   width: 100%;
   margin: auto;
   text-align: center;
-
 }
 
 .homepage-grid-city a {
@@ -306,121 +294,6 @@ div.panel {
     transition: max-height 0.2s ease-out;
 }
 
-// old googlemaps.css content
-.labels {
-  color: black;
-  background-color: white;
-  font-family: "Lucida Grande", "Arial", sans-serif;
-  font-size: 8px;
-  font-weight: bold;
-  text-align: center;
-
-  border: 1px solid gray;
-  white-space: nowrap;
-}
-
-// from bootstrap-sortable
-table.sortable span.sign {
-    display: block;
-    position: absolute;
-    top: 50%;
-    right: 5px;
-    font-size: 12px;
-    margin-top: -10px;
-    color: #bfbfc1;
-}
-
-table.sortable th:after {
-    display: block;
-    position: absolute;
-    top: 50%;
-    right: 5px;
-    font-size: 12px;
-    margin-top: -10px;
-    color: #bfbfc1;
-}
-
-table.sortable th.arrow:after {
-    content: '';
-}
-
-table.sortable span.arrow, span.reversed, th.arrow.down:after, th.reversedarrow.down:after, th.arrow.up:after, th.reversedarrow.up:after {
-    border-style: solid;
-    border-width: 5px;
-    font-size: 0;
-    border-color: #ccc transparent transparent transparent;
-    line-height: 0;
-    height: 0;
-    width: 0;
-    margin-top: -2px;
-}
-
-    table.sortable span.arrow.up, th.arrow.up:after {
-        border-color: transparent transparent #ccc transparent;
-        margin-top: -7px;
-    }
-
-table.sortable span.reversed, th.reversedarrow.down:after {
-    border-color: transparent transparent #ccc transparent;
-    margin-top: -7px;
-}
-
-    table.sortable span.reversed.up, th.reversedarrow.up:after {
-        border-color: #ccc transparent transparent transparent;
-        margin-top: -2px;
-    }
-
-table.sortable span.az:before, th.az.down:after {
-    content: "a .. z";
-}
-
-table.sortable span.az.up:before, th.az.up:after {
-    content: "z .. a";
-}
-
-table.sortable th.az.nosort:after, th.AZ.nosort:after, th._19.nosort:after, th.month.nosort:after {
-    content: "..";
-}
-
-table.sortable span.AZ:before, th.AZ.down:after {
-    content: "A .. Z";
-}
-
-table.sortable span.AZ.up:before, th.AZ.up:after {
-    content: "Z .. A";
-}
-
-table.sortable span._19:before, th._19.down:after {
-    content: "1 .. 9";
-}
-
-table.sortable span._19.up:before, th._19.up:after {
-    content: "9 .. 1";
-}
-
-table.sortable span.month:before, th.month.down:after {
-    content: "jan .. dec";
-}
-
-table.sortable span.month.up:before, th.month.up:after {
-    content: "dec .. jan";
-}
-
-table.sortable>thead th:not([data-defaultsort=disabled]) {
-    cursor: pointer;
-    position: relative;
-    top: 0;
-    left: 0;
-}
-
-table.sortable>thead th:hover:not([data-defaultsort=disabled]) {
-    background: #efefef;
-}
-
-table.sortable>thead th div.mozilla {
-    position: relative;
-}
-
 // speaker page
 .speaker-page {
   font-family: 'Roboto', sans-serif;
@@ -436,6 +309,14 @@ h3.speaker-page {
   font-size: 1.5em;
   font-weight: 300;
   text-transform: capitalize;
+}
+img.speaker-page {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 600px;
+  height: 600px;
+  max-width: 100%;
+  object-fit: cover;
 }
 
 .speaker-bio-talks {
@@ -461,6 +342,10 @@ h3.speakers-page {
 img.speakers-page {
   margin-top: 20px;
   margin-bottom: 20px;
+  width: 300px;
+  height: 300px;
+  max-width: 100%;
+  object-fit: cover;
 }
 
 // talk page
@@ -474,7 +359,6 @@ color: #000000;
 h2.talk-page {
   font-size: 2em;
   font-weight: 700;
-  // text-transform: capitalize;
 }
 h3.talk-page {
   font-size: 1.5em;
@@ -484,8 +368,6 @@ h3.talk-page {
 
 h1.welcome-page {
   color: #FFF;
-  // text-shadow: 1px 1px 2px #000000;
-  // text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 
 .welcome-page-date {
@@ -514,9 +396,8 @@ a:hover.welcome-page-masthead-link {
   text-decoration: none;
 }
 
-.welecome-page-masthead-venue {
+.welcome-page-masthead-venue {
   font-size: 1.2em;
-
 }
 
 .welcome-page-cta {
@@ -532,21 +413,28 @@ a:hover.welcome-page-masthead-link {
 }
 
 @media only screen and (min-width: 768px) {
-
   .welcome-page-cta:first-child {
     margin-left: 0px;
     margin-right: 5px;
   }
-
 }
 
 .welcome-page-event-logo {
   max-width: 50%;
 }
 
-
 .organizer-card {
   padding-bottom: 20px;
+}
+
+img.organizer-image {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 300px;
+  height: 300px;
+  max-width: 100%;
+  object-fit: cover;
+  // height: auto;
 }
 
 .event-page-nav-home{
@@ -555,12 +443,9 @@ a:hover.welcome-page-masthead-link {
 }
 
 @media only screen and (min-width: 1024px) {
-
   .event-page-nav-home {
     padding-left: 1.25rem;
-
   }
-
 }
 
 .events-page-col {
@@ -586,9 +471,6 @@ a:hover.welcome-page-masthead-link {
   margin-left: 0px;
 }
 
-// .event-cta-button:last-child {
-//   margin-left: 5px;
-// }
 .event-cta-button {
   margin-left: 5px;
 }
@@ -596,9 +478,6 @@ a:hover.welcome-page-masthead-link {
 
 // Program page items
 
-.program-page {
-
-}
 h3.program-page {
   margin-top:8px;
 }
@@ -610,17 +489,14 @@ h3.program-page {
 .program-element {
   overflow: hidden;
   height: 1%
-
 }
 
 @media only screen and (min-width: 768px) {
-
   .program-element {
     border-radius: 5px;
     margin-right: 5px;
     overflow: hidden;
     height: 1%
-
   }
 }
 

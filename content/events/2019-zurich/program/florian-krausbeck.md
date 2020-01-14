@@ -8,8 +8,8 @@ title = "AIOps Leveraged by Deep Learning and Knowledge Graph Data Representatio
 type = "talk"
 speakers = ["florian-krausbeck"]
 youtube = ""
-vimeo = ""
-speakerdeck = ""
+vimeo = "344513834"
+speakerdeck = "https://speakerdeck.com/dodzh/aiops-leveraged-by-deep-learning-and-knowledge-graph-data-representations-florian-krausbeck"
 slideshare = ""
 slides = ""
 +++

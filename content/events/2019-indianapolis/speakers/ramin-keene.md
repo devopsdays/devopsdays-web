@@ -4,7 +4,7 @@ Twitter = "rmn"
 image = "ramin-keene.png"
 type = "speaker"
 linktitle = "ramin-keene"
-Website = "https://fuzzboz.io"
+Website = "https://fuzzbox.io"
 Linkedin = "https://www.linkedin.com/in/raminkeene/"
 Github = "ramin"
 

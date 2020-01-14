@@ -10,4 +10,16 @@ slideshare = ""
 slides = ""
 +++
 
-Many organizations have started the DevOps journey and are now looking to mature and move to a centralized self service platform. This talk is to discuss how and why organizations have started to move to this model and show an example of how a large organization supporting 450K people is doing this today at an enterprise level. Demonstration will show an accelerated view of not only provisioning the tools needed for a team to start using DevOps but also applying a technology stack with complete automation stack using a reference architecture apply Jenkins CloudBees CI\CD, Code Quality, Unit Testing, DevSecOps, Artifact Repository, and deployment to a scalable infrastructure.
+Chat bots/integrations have been around since the IRC days. Now more known as ChatOps, these integrations have found a place in the DevOps world. Many organizations of all sizes have integrated chat integrations to aid in everyday tasks, such as deployments. With today’s trend of migrating applications to cloud and serverless, why should our chat bots and integrations be left behind?
+
+Malwarebytes began to raise Shiba during the mid 2018’s to address growing pains and feature requests to a legacy chat integration. Shiba has since introduced a much more reliable integration as well as saving the organization loads in operation costs.
+
+This talk will go over the following points:
+
+Benefits of ChatOps
+Pains of traditional chat integration implementations
+How Shiba solves these pains
+Challenges/Limitations with serverless bots
+Shiba’s serverless architecture
+Featured functionality
+Maintaining and Developing for Shiba
