@@ -30,7 +30,7 @@
 /dallas/*		/events/2020-dallas/:splat		302
 /denver/*		/events/2020-denver/:splat		302
 /des-moines/*		/events/2020-des-moines/:splat		302
-/detroit/*		/events/2019-detroit/:splat		302
+/detroit/*		/events/2020-detroit/:splat		302
 /down-under/*		/events/2019-sydney/:splat		302
 /edinburgh/*		/events/2020-edinburgh/:splat		302
 /feira-de-santana/*	/events/2019-feira-de-santana/:splat	302
@@ -148,3 +148,4 @@
 /presentations/2011-goteborg/* http://legacy.devopsdays.org/presentations/2011-goteborg/:splat     301!
 /presentations/2009-ghent/* http://legacy.devopsdays.org/presentations/2009-ghent/:splat     301!
 /ciudad-mexico/*            /events/2020-ciudad-mexico/:splat           302
+/eindhoven/*            /events/2020-eindhoven/:splat           302

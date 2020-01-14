@@ -52,6 +52,7 @@ team_members: # Name is the only required field for team members.
   - name: "Julie Gunderson"
     employer: "Pager Duty"
     twitter: "Julie_Gund"
+    linkedin: "https://www.linkedin.com/in/juliegunderson/"
 #  - name: "Stephen Spector"
 #    twitter: "SpectorID"
 #    employer: "RackN"
@@ -64,13 +65,16 @@ team_members: # Name is the only required field for team members.
     employer: "Taos"
     twitter: "BDArcholite"
     github: "Robert-R-Meyer"
+    linkedin: "https://www.linkedin.com/in/robertrmeyer/"
   - name: "Paul Remeis"
     employer: "In Time Tec"
-    twitter: PaulRemeis
+    twitter: "PaulRemeis"
+    linkedin: "https://www.linkedin.com/in/paulremeis/"
   - name: "Jane Miceli"
-    linkedin: https://www.linkedin.com/in/janemiceli/
-    twitter: janemiceli
-    github: janemiceli
+    employer: "Taos"
+    linkedin: "https://www.linkedin.com/in/janemiceli/"
+    twitter: "janemiceli"
+    github: "janemiceli"
 
 organizer_email: "boise@devopsdays.org" # Put your organizer email address here
 

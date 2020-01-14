@@ -7,6 +7,10 @@ Description = "Propose a talk for devopsdays London 2020"
 
 <hr>
 
+<center><h2><a href="https://forms.gle/rQgf46WtD8U7rVx97">Submit a Talk</a></h2></center>
+
+<hr>
+
 There are three ways to propose a topic at devopsdays:
 <ol>
   <li><strong><em>A 30-minute talk</em></strong> presented during the conference, usually in the mornings.</li>
@@ -26,10 +30,21 @@ Choosing talks is part art, part science; here are some factors we consider when
 - _no vendor pitches_: As much as we value vendors and sponsors, we are not going to accept a talk that appears to be a pitch for your product.
 
 <hr>
+As a speaker we will provide you with:
 
-<strong>How to submit a proposal:</strong> Send an email to [{{< email_organizers >}}] with the following information
-<ol>
-	<li>Type (presentation, panel discussion, ignite)</li>
-	<li>Proposal Title (can be changed later)</li>
-	<li>Description (several sentences explaining what attendees will learn)</li>
-</ol>
+- a free ticket to the conference
+- free tickets for 2 other people and some discount codes
+- an invite to the speakers dinner the night before the conference starts
+
+in addition, if you are personally funding your attendance we have some budget to cover reasonable travel and accommodation costs.
+
+<hr>
+<h3>Help with your talk</h3>
+
+If you are a first time speaker and/or from an under represented group in technology
+we would like to help you with your talk.
+
+Several of the committee are veteran speakers and can provide help and suggestions
+to make your talk better should it be selected.
+
+<center><h2><a href="https://forms.gle/rQgf46WtD8U7rVx97">Submit a Talk</a></h2></center>

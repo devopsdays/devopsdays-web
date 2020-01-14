@@ -160,6 +160,8 @@ sponsors:
     level: platinum
   - id: globalsys
     level: platinum
+  - id: picpay
+    level: platinum
   - id: manning
     level: community
   - id: digitalocean
@@ -173,7 +175,11 @@ sponsors:
     level: silver
   - id: flexa
     level: silver
-  - id: pag!
+  - id: pag
+    level: silver
+  - id: clickativo
+    level: silver
+  - id: wine
     level: silver
 #  - id: liftbank
 #    level: silver
