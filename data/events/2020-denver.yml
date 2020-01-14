@@ -78,7 +78,7 @@ sponsors:
   - id: influxdata
     level: gold
   - id: epsagon
-    level: gold
+    level: silver
 
 sponsor_levels:
   - id: gold
