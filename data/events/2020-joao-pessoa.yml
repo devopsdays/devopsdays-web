@@ -1,7 +1,7 @@
 name: "2020-joao-pessoa" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2020" # The year of the event. Make sure it is in quotes.
 city: "João Pessoa" # The displayed city name of the event. Capitalize it.
-#event_twitter: "devopsdaysjoaopessoa" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+event_twitter: "devopsdaysjpa" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 event_logo: "logo-square.jpg"
 description: "Em 2020 irá acontecer a primeira edição do DevOpsDays João Pessoa!" # Edit this to suit your preferences
 #ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
@@ -11,8 +11,8 @@ description: "Em 2020 irá acontecer a primeira edição do DevOpsDays João Pes
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-#startdate: 2020-06-06T08:00:00-03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-#enddate: 2020-06-06T18:30:00-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2020-06-06T08:00:00-03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2020-06-06T18:30:00-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 #cfp_date_start: 2019-12-24T00:00:00-03:00 # start accepting talk proposals.
@@ -32,15 +32,15 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 # Location
 #
-#coordinates: "-7.159213,--34.854557" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-#location: "Auditório do UNIPÊ" # Defaults to city, but you can make it the venue name.
+coordinates: "-7.159213,--34.854557" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Auditório do UNIPÊ" # Defaults to city, but you can make it the venue name.
 #
-#location_address: "Rodovia BR-230,km 22, s/n - Água Fria, João Pessoa - PB," #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "Rodovia BR-230,km 22, s/n - Água Fria, João Pessoa - PB," #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  #- name: Informações
-  #  icon: "map-o"
-  #  url: /events/2020-joao-pessoa/location
+  - name: Informações
+    icon: "map-o"
+    url: /events/2020-joao-pessoa/location
   # - name: Palestrantes
   #   icon: "microphone"
   #   url: /events/2020-joao-pessoa/speakers
@@ -116,8 +116,14 @@ organizer_email: "joao-pessoa@devopsdays.org" # Put your organizer email address
 #     level: gold
 #     url: https://xxxx/ # Use this if you need to over-ride a sponsor URL.
 sponsors:
+  - id: unipe
+    level: community
+    url: https://unipe.edu.br/
+  - id: grudepb
+    level: community
+    url: https://grudepb.info/
 
-sponsors_accepted : "No" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
