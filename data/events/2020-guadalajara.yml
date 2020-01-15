@@ -102,6 +102,8 @@ proposal_email: "guadalajara@devopsdays.org" # Put your proposal email address h
 sponsors:
   - id: wizeline
     level: gold
+  - id: iteso-university
+    level: gold
   - id: meetup-docker-guadalajara
     level: community
   - id: itrevolution
