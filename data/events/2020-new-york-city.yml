@@ -136,6 +136,10 @@ sponsors:
     level: gold
   - id: facebook
     level: gold
+  - id: instana
+    level: silver
+  - id: solarwinds
+    level: gold
   - id: twosigma
     level: captioning
   - id: arresteddevops
