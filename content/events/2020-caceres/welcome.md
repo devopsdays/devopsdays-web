@@ -72,6 +72,14 @@ Description = "devopsdays Caceres 2020"
         <div class="d-flex p-2">
           <a class="btn btn-secondary btn-block" style= "background-color: #00263C; border-color: #00263C;" href="https://devopsdays.cc" rel="noopener"> <i class="fa fa-file-code-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Link to DevOpsDays Cáceres web</a>
         </div>
+        <div class="col-md-8">
+          <p></p>
+        </div>
+        <div class="col-md-8">
+          <a href="https://www.meetup.com/es-ES/caceres-devops" target="_blank">
+              <i class="fa fa-meetup fa-lg"></i>&nbsp; Cáceres Devops
+            </a>
+        </div>
       </div>
     </div>
     </br>
@@ -153,3 +161,4 @@ Description = "devopsdays Caceres 2020"
 <!-- Uncomment if you added your city twitter name -->
 
 {{< event_twitter >}}
+

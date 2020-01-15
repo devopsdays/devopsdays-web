@@ -125,20 +125,32 @@ sponsors:
     level: community
   - id: todoestamal
     level: community
+  - id: gdgcaceres
+    level: community
+  - id: phpcaceres
+    level: community
+  - id: drupalcaceres
+    level: community
+  - id: wpextremadura
+    level: community
+  - id: caceresjava
+    level: community
+  - id: edd
+    level: collaborators
   - id: ayuntamientocc
     level: collaborators
-  # id: unex
-  #  level: collaborators
   - id: diputacioncc
     level: collaborators
   - id: jetbrains
     level: collaborators
   - id: homeria
     level: bronze
-# - id: aspgems
-#   level: bronze
+  - id: aspgems
+    level: bronze
 # - id: mobbeel
 #   level: bronze
+  - id: wordline
+    level: bronze
   - id: kodify
     level: silver
 # - id: viewnext
@@ -153,12 +165,12 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: platinum
-    label: Platinum
-    max: 2
-  - id: gold
-    label: Gold
-    max: 6
+#  - id: platinum
+#    label: Platinum
+#    max: 2
+#  - id: gold
+#    label: Gold
+#    max: 6
   - id: silver
     label: Silver
     max: 15
