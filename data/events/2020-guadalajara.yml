@@ -100,6 +100,12 @@ proposal_email: "guadalajara@devopsdays.org" # Put your proposal email address h
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: wizeline
+    level: gold
+  - id: iteso-university
+    level: gold
+  - id: startup-gdl
+    level: gold
   - id: meetup-docker-guadalajara
     level: community
   - id: itrevolution
