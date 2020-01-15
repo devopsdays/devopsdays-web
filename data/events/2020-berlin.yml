@@ -22,7 +22,7 @@ cfp_date_announce:
 cfp_open: "false"
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: 
+registration_date_start:
 registration_date_end: # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
@@ -96,9 +96,13 @@ organizer_email: "berlin@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
-#sponsors:
-    # - id: some_sponsor
-    #   level: gold
+sponsors:
+  - id: netways
+    level: partner
+  - id: linuxmagazin
+    level: partner
+  - id: admin-magazine
+    level: partner
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -119,6 +123,7 @@ sponsor_levels:
     label: Silver
   - id: partner
     label: Partner
+    max: 3
 
 # program:
 #   # Day 1
