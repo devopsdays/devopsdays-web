@@ -40,12 +40,15 @@ location: "Complejo Cultural San Francisco" # Defaults to city, but you can make
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
   - name: location
- # - name: registration
+  - name: registration
+    url: https://www.conferize.com/devopsdays-caceres/2020/p/tickets
  # - name: program
- # - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
+  - name: faq
+    url: https://devopsdays.cc/preguntas-frecuentes/
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -143,18 +146,22 @@ sponsors:
     level: collaborators
   - id: jetbrains
     level: collaborators
+  - id: manning
+    level: collaborators
   - id: homeria
     level: bronze
   - id: aspgems
     level: bronze
-# - id: mobbeel
-#   level: bronze
+  - id: mobbeel
+    level: bronze
   - id: wordline
     level: bronze
   - id: kodify
     level: silver
 # - id: viewnext
 #   level: silver
+# - id: sngular
+#   level: bronze
 
 
 
