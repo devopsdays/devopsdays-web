@@ -199,8 +199,8 @@ program:
     date: "2020-03-03"
     start_time: "10:30"
     end_time: "11:15"
-  - title: "angel-rivera"
-    type: talk
+  - title: "Ignite Talks:"
+    type: ignite
     date: "2020-03-03"
     start_time: "11:15"
     end_time: "11:45"
@@ -244,8 +244,8 @@ program:
     date: "2020-03-03"
     start_time: "15:05"
     end_time: "15:15"
-  - title: "Ignite Talks:"
-    type: ignite
+  - title: "angel-rivera"
+    type: talk
     date: "2020-03-03"
     start_time: "15:15"
     end_time: "15:45"
@@ -295,8 +295,8 @@ program:
     date: "2020-03-04"
     start_time: "10:15"
     end_time: "11:00"
-  - title: "jessica-fredican"
-    type: talk
+  - title: "Ignite Talks:"
+    type: ignite
     date: "2020-03-04"
     start_time: "11:00"
     end_time: "11:30"
@@ -340,8 +340,8 @@ program:
     date: "2020-03-04"
     start_time: "14:50"
     end_time: "15:00"
-  - title: "Ignite Talks:"
-    type: ignite
+  - title: "jessica-fredican"
+    type: talk
     date: "2020-03-04"
     start_time: "15:00"
     end_time: "15:30"
