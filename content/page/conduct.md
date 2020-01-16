@@ -2,7 +2,7 @@
 date = "2016-08-19T00:00:00-06:00"
 title = "devopsdays code of conduct"
 
-+++
++++++
 
 Respect and empathy are core devops values. Devopsdays is dedicated to providing an environment where everyone in the devops community can learn and share in respectful, considerate collaboration.
 
