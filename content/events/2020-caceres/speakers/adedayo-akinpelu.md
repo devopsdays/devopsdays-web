@@ -4,11 +4,17 @@ image = "adedayo-akinpelu.jpg"
 type = "speaker"
 linktitle = "adedayo-akinpelu"
 Twitter = "Haroldsphinx"
+Linkedin= "https://www.linkedin.com/haroldsphinx"
+Github = "haroldsphinx"
 +++
 
-Works as Infrastructure Engineer at Quidax Technologies, Lead Organizer at DevOps Nigeria and DevOpsDays Lagos
+Lives in Nigeria and helps companies and startups develop modern applications, build scalable multi-tenant cloud infrastructures, improve systems reliability and security while also helping drive the business goals. He is also the community lead for DevOpsNG & DevOpsDays in Nigeria,  His interest lies in creating DevOps and Blockchain solutions, He loves traveling, reading and an coffee lover.
 
 <h3>Test Driven Infrastructure with Serverspec & Kitchen CI</h3>
+<p></p>
+<i class="fa fa-language fa-lg"></i><h5 style="display: inline-block; margin-left: 10px;">English</h5>
+<i class="fa fa-bar-chart fa-lg" style="margin-left: 15px;"></i><h5 style="display: inline-block; margin-left: 10px;">Intermediate</h5>
+<p></p>
 CDescription
 
 Automated Testing cannot be overemphasized in good DevOps practice but it seems that less attention is paid to it when it comes to Automating infrastructure provisioning, By working with automated RSpec testing of our real infrastructure systems, I have been able to reduce the uncertainty around the operating environments, and also reduce the amount of manual correctness while provisioning new infrastructures and I will like to share this knowledge amongst other DevOps engineer out there, because I realize it is not a common practice 

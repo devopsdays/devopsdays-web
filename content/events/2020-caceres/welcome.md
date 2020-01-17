@@ -63,6 +63,9 @@ Description = "devopsdays Caceres 2020"
     </br>
     <div class="d-flex flex-row">
       <div class="col-md-12">
+      <div class="d-flex p-2">
+          <a class="btn btn-secondary btn-block" style= "background-color: #00263C; border-color: #00263C;" href="https://www.conferize.com/devopsdays-caceres/2020/p/tickets"> <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;BUY TICKETS HERE!</a>
+        </div>
         <div class="d-flex p-2">
           <a class="btn btn-secondary btn-block" style= "background-color: #96bfe6; border-color: #96bfe6;" href="/events/2020-caceres/sponsor"> <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference</a>
         </div>
@@ -70,7 +73,7 @@ Description = "devopsdays Caceres 2020"
           <a class="btn btn-secondary btn-block" style= "background-color: #96bfe6; border-color: #96bfe6;" href="/events/2020-caceres/contact"> <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Contact the Organizers</a>
         </div>
         <div class="d-flex p-2">
-          <a class="btn btn-secondary btn-block" style= "background-color: #00263C; border-color: #00263C;" href="https://devopsdays.cc" rel="noopener"> <i class="fa fa-file-code-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Link to DevOpsDays Cáceres web</a>
+          <a class="btn btn-secondary btn-block" style= "background-color: #96bfe6; border-color: #96bfe6;" href="https://devopsdays.cc" rel="noopener"> <i class="fa fa-file-code-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Link to DevOpsDays Cáceres web</a>
         </div>
         <div class="col-md-8">
           <p></p>

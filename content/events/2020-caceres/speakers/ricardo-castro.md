@@ -6,9 +6,13 @@ linktitle = "ricardo-castro"
 Twitter = "mccricardo"
 +++
 
-Senior Cloud Engineer at Veniam building highly performance, reliable and scalable systems. Strong believer in culture and teamwork. Open source passionate, taekwondo amateur and metal lover.
+Senior Cloud Engineer at Veniam building highly performance, reliable and scalable systems. DevOps Porto meetup co-organizer and DevOpsDays Portugal co-organizer. Strong believer in culture and teamwork. Open source passionate, taekwondo amateur and metal lover.
 
 <h3>What the Service Mesh?!</h3>
+<p></p>
+<i class="fa fa-language fa-lg"></i><h5 style="display: inline-block; margin-left: 10px;">English</h5>
+<i class="fa fa-bar-chart fa-lg" style="margin-left: 15px;"></i><h5 style="display: inline-block; margin-left: 10px;">Intermediate</h5>
+<p></p>
 Cloud platforms provide a wealth of benefits for the organizations that use them. There’s no denying, however, that adopting the cloud can put strains on DevOps teams. Developers must use microservices to architect for portability, meanwhile operators are managing extremely large hybrid and multi-cloud deployments.
 
 A service mesh is a dedicated infrastructure layer for making service-to-service communication safe, fast, and reliable. If you’re building a cloud native application, you need a service mesh. It can help connect, secure, control, and observe services. At a high level, a service mesh helps reduce the complexity of these deployments, and ease the strain on your development teams.
