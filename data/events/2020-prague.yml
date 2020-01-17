@@ -85,18 +85,24 @@ sponsors:
   - id: epam
     level: titanium
     url: "https://en.careers.epam-czech.cz/"
+  - id: gitlab
+    level: titanium
   - id: kb
     level: gold
-    url: "https://www.kb.cz/"    
+    url: "https://www.kb.cz/"
+  - id: revolgy
+    level: gold
   - id: showmax
     level: bronze
     url: "https://www.showmax.com"
+  - id: elastic
+    level: bronze
   - id: digitalocean
     level: starter
     url: "https://www.digitalocean.com/"
   - id: inuits
     level: community
-    url: "https://inuits.eu/"            
+    url: "https://inuits.eu/"
   - id: cloudinfrastack
     level: community
     url: "https://www.cloudinfrastack.com/" 
