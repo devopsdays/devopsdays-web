@@ -142,6 +142,10 @@ sponsors:
     level: gold
   - id: appdynamics
     level: gold
+  - id: stackrox
+    level: silver
+  - id: pagerduty
+    level: silver
   - id: twosigma
     level: captioning
   - id: arresteddevops
