@@ -83,6 +83,8 @@ sponsors:
     level: gold
   - id: instana
     level: gold
+  - id: newrelic
+    level: gold
   - id: arresteddevops
     level: community
   - id: manning
