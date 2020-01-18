@@ -27,34 +27,12 @@ tabela 1 abaixo.
 </div>
 <br>
 <div>
-<style>
-#customers {
-  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-}
-
-#customers td, #customers th {
-  border: 1px solid #ddd;
-  padding: 8px;
-}
-
-#customers tr:nth-child(even){background-color: #f2f2f2;}
-
-#customers tr:hover {background-color: #ddd;}
-
-#customers th {
-  padding-top: 12px;
-  padding-bottom: 12px;
-  text-align: left;
-  background-color: #00b8e6;
-  color: white;
-}
-</style>
 </head>
 <body>
-
-<table id="customers">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+ <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+<table class="table table-striped">
   <tr>
     <th>BENEFICIOS</th>
     <th>BRONZE</th>
@@ -134,7 +112,7 @@ tabela 1 abaixo.
   </tr>
 </table>
 <br>
-<p>Veja mais no documento completo clicando <a href="https://github.com/sprt-michelle/devopsdaysvix/blob/master/Proposta%20de%20Apoio%20-%20DevOpsDays%20Vix.pdf">aqui</a></p>
+<p>Veja mais no documento completo clicando <a class="btn btn-primary btn-sm active" href="https://github.com/sprt-michelle/devopsdaysvix/blob/master/Proposta%20de%20Apoio%20-%20DevOpsDays%20Vix.pdf">aqui</a></p>
 </div>
 
 <!--
