@@ -1,7 +1,7 @@
 +++
 Title = "Jameson Hampton"
-Twitter = ""
-image = ""
+Twitter = "jameybash"
+image = "james-hampton.png"
 type = "speaker"
 linktitle = "jameson-hampton"
 

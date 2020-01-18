@@ -1,7 +1,7 @@
 +++
 Title = "Angel Rivera"
-Twitter = ""
-image = ""
+Twitter = "punkdata"
+image = "angel-rivera.png"
 type = "speaker"
 linktitle = "angel-rivera"
 

@@ -1,9 +1,9 @@
 +++
-Title = "Tom Elliot"
-Twitter = ""
-image = ""
+Title = "Tom Elliott"
+Twitter = "theotherelliott"
+image = "tom-elliott.jpg"
 type = "speaker"
-linktitle = "tom-elliot"
+linktitle = "tom-elliott"
 
 +++
 Tom is an engineer at Yext, leading the Production Engineering group, responsible for SRE and developer tooling, among other things. A full-time Go developer, he is also known to work on iOS apps in his spare time.

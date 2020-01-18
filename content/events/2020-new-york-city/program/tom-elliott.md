@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Keeping Calm When the Sky is Falling: Reducing Stress around Software Incidents"
 Type = "talk"
-Speakers = ["tom-elliot"]
+Speakers = ["tom-elliott"]
 +++
 Many of us have experienced at least one big outage of services we’re responsible for, and it’s never a fun experience. With customers, executives and other teams all yelling at the same time, it’s easy to freak out and not know where to begin.
 

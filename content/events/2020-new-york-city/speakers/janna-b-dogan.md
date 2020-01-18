@@ -1,7 +1,7 @@
 +++
 Title = "Janna B. Dogan"
-Twitter = ""
-image = ""
+Twitter = "rakyll"
+image = "jana-dogan.jpg"
 type = "speaker"
 linktitle = "janna-b-dogan"
 

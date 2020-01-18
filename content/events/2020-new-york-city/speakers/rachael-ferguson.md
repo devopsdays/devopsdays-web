@@ -1,6 +1,6 @@
 +++
 Title = "Rachael Ferguson"
-Twitter = ""
+Twitter = "flubberfroot"
 image = ""
 type = "speaker"
 linktitle = "rachael-ferguson"
