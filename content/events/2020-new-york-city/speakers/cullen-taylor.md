@@ -1,7 +1,7 @@
 +++
 Title = "Cullen Taylor"
-Twitter = ""
-image = ""
+Twitter = "eggshellcullen"
+image = "cullen-taylor.jpg"
 type = "speaker"
 linktitle = "cullen-taylor"
 

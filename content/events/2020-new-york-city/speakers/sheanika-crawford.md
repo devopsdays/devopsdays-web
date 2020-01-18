@@ -1,7 +1,7 @@
 +++
 Title = "Sheanika Crawford"
-Twitter = ""
-image = ""
+Twitter = "yellowshea22"
+image = "sheanika-crawford.jpg"
 type = "speaker"
 linktitle = "sheanika-crawford"
 

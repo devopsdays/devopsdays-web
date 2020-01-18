@@ -1,6 +1,6 @@
 +++
 Title = "James Meickle"
-Twitter = ""
+Twitter = "jmeickle"
 image = ""
 type = "speaker"
 linktitle = "james-meickle"

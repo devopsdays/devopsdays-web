@@ -1,7 +1,7 @@
 +++
 Title = "Kris Buytaert"
-Twitter = ""
-image = ""
+Twitter = "krisbuytaert"
+image = "kris-buytaert.jpg"
 type = "speaker"
 linktitle = "kris-buytaert"
 
