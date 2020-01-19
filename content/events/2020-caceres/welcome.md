@@ -163,5 +163,19 @@ Description = "devopsdays Caceres 2020"
 
 <!-- Uncomment if you added your city twitter name -->
 
-{{< event_twitter >}}
+<div class = "row">
+  <div class = "col-md-12">
+    <div class = "row justify-content-center">
+      <div class = "d-flex p-2">
+        <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px;   background-color: #418ede; border-color: #418ede;" href="https://twitter.com/DevOpsDaysCC">
+        <i class="fa fa-twitter fa-lg"></i>&nbsp;&nbsp;&nbsp;Follow @DevOpsDaysCC</a>
+      </div>
+      <div class = "d-flex p-2">
+        <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #418ede; border-color: #96b418edefe6;" href="https://www.facebook.com/events/478212639473527/">
+        <i class="fa fa-facebook-square fa-lg"></i>&nbsp;&nbsp;&nbsp;Like Us On Facebook</a>
+      </div>
+    </div>
+  </div>
+</div>
+
 
