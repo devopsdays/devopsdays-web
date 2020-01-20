@@ -38,7 +38,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: propose
   - name: location
  # - name: registration
- # - name: program
+  - name: program
   - name: speakers
   - name: sponsor
   - name: contact
@@ -218,3 +218,113 @@ sponsor_levels:
 #    label: Bronze
   - id: community
     label: Community
+program:
+  - title: "Rock at the Beach - Barlavento (evento não oficial. Ingressos e consumação não inclusos no ingresso do DevOpsDays Vitória"
+    type: custom
+    date: 2020-02-07T08:00:00-03:00
+    start_time: "20:00"
+    end_time: "23:00"
+  - title: "Credenciamento"
+    type: custom
+    date: 2020-02-08T08:00:00-03:00
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Abertura"
+    type: custom
+    date: 2020-02-08T08:00:00-03:00
+    start_time: "09:00"
+    end_time: "09:30"
+  - title: "sasha-rosenbaum"
+    type: talk
+    date: 2020-02-08T08:00:00-03:00
+    start_time: "09:30"
+    end_time: "10:00"
+    background_color: "#AED6F1"
+  - title: "fernando-ike"
+    type: talk
+    date: 2020-02-08T08:00:00-03:00
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Coffee Break"
+    type: custom
+    date: 2020-02-08T08:00:00-03:00
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "monica-cachoni"
+    type: talk
+    date: 2020-02-08T08:00:00-03:00
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "camilla-martins"
+    type: talk
+    date: 2020-02-08T08:00:00-03:00
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "gleydson-mazioli"
+    type: talk
+    date: 2020-02-08T08:00:00-03:00
+    start_time: "12:00"
+    end_time: "12:30"
+  - title: "TBC"
+    type: custom
+    date: 2020-02-08T08:00:00-03:00
+    start_time: "12:30"
+    end_time: "13:00"
+    background_color: "#abebff"
+  - title: "Almoço"
+    type: custom
+    date: 2020-02-08T08:00:00-03:00
+    start_time: "13:00"
+    end_time: "14:30"
+  - title: "Open Spaces"
+    type: custom
+    date: 2020-02-08T08:00:00-03:00
+    start_time: "14:30"
+    end_time: "15:30"
+  - title: "Coffee Break"
+    type: custom
+    date: 2020-02-08T08:00:00-03:00
+    start_time: "15:30"
+    end_time: "16:00"
+  - title: "rafael-gomes-gomex"
+    type: talk
+    date: 2020-02-08T08:00:00-03:00
+    start_time: "16:00"
+    end_time: "16:30"
+    background_color: "#AED6F1"
+  - title: "samanta-santos"
+    type: talk
+    date: 2020-02-08T08:00:00-03:00
+    start_time: "16:30"
+    end_time: "17:00"
+  - title: "yago-nobre"
+    type: talk
+    date: 2020-02-08T08:00:00-03:00
+    start_time: "17:00"
+    end_time: "17:30"
+  - title: "moises-margotto"
+    type: talk
+    date: 2020-02-08T08:00:00-03:00
+    start_time: "17:30"
+    end_time: "18:00"
+  - title: "jeferson-fernando"
+    type: talk
+    date: 2020-02-08T08:00:00-03:00
+    start_time: "18:00"
+    end_time: "18:30"
+    background_color: "#AED6F1"
+  - title: "Closing"
+    type: custom
+    date: 2020-02-08T08:00:00-03:00
+    start_time: "18:30"
+    end_time: "19:30"
+  - title: "Open Party"
+    type: custom
+    date: 2020-02-08T08:00:00-03:00
+    start_time: "20:00"
+    end_time: "22:00"
+  - title: "Praiana (Curva da Sereia, Praia da Costa)"
+    type: custom
+    date: 2020-02-09T08:00:00-03:00
+    start_time: "08:00"
+    end_time: "11:00"
