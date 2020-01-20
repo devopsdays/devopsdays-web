@@ -192,7 +192,7 @@ team_members: # Name is the only required field for team members.
   - name: "Bailey Moore"
     twitter: ""
     employer: "Netspend"
-    bio: ""
+    bio: "Bailey is a DevSecOps Engineer at Netspend focused on securing automation and automating security."
     github: ""
     facebook: ""
     linkedin: "https://www.linkedin.com/in/bailey-moore-95120914/"
@@ -210,6 +210,8 @@ organizer_email: "austin@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: chaossearch
+    level: platinum
   - id: circleci
     level: gold
   - id: xmatters
