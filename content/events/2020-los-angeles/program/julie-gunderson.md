@@ -1,7 +1,7 @@
 +++
 Talk_date = "2020-03-06"
-Talk_start_time = "14:00"
-Talk_end_time = "14:20"
+Talk_start_time = "14:10"
+Talk_end_time = "14:30"
 Title = "You Can’t Buy DevOps"
 Type = "talk"
 Speakers = ["julie-gunderson"]

@@ -1,7 +1,7 @@
 +++
 Talk_date = "2020-03-06"
-Talk_start_time = "1:00"
-Talk_end_time = "1:20"
+Talk_start_time = "13:30"
+Talk_end_time = "13:50"
 Title = "The DevOps Roast"
 Type = "talk"
 Speakers = ["clint-byrum"]
