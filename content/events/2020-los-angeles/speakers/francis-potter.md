@@ -1,6 +1,8 @@
 +++
 Title = "Francis Potter"
 Twitter = "francispotter"
+Github = "francispotter"
+Linkedin = "https://www.linkedin.com/in/francispotter/"
 image = "francis-potter.png"
 type = "speaker"
 linktitle = "francis-potter"

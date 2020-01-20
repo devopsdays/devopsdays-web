@@ -1,6 +1,8 @@
 +++
 Title = "Laura Santamaria"
 Twitter = "nimbinatus"
+Github = "nimbinatus"
+Linkedin = "https://www.linkedin.com/in/lauraasantamaria/"
 image = "laura-santamaria.png"
 type = "speaker"
 linktitle = "laura-santamaria"

@@ -1,7 +1,9 @@
 +++
 Title = "Clint Byrum"
-Twitter = "spamaps"
 image = "clint-byrum.jpg"
+Twitter = "spamaps"
+Linkedin = "https://www.linkedin.com/in/clintbyrum/"
+Github = "SpamapS"
 type = "speaker"
 linktitle = "clint-byrum"
 

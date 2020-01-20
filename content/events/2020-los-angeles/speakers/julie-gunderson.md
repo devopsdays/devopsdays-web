@@ -1,6 +1,8 @@
 +++
 Title = "Julie Gunderson"
 Twitter = "Julie_Gund"
+Github = "juliegund"
+Linkedin = "https://www.linkedin.com/in/juliegunderson/"
 image = "julie-gunderson.png"
 type = "speaker"
 linktitle = "julie-gunderson"
