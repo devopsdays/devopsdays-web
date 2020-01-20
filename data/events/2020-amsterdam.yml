@@ -93,8 +93,9 @@ sponsors:
   # golds
   - id: wemanity
     level: gold
-  
   # silvers
+  - id: cyso
+    level: silver
   # bronzes
 
 
