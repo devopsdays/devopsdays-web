@@ -3,7 +3,7 @@ Title = "Mike Rosado"
 Twitter = "mikerostx"
 Github = "MikeRosTX"
 LinkedIn = "https://www.linkedin.com/in/mikerostx/"
-image = "mike-rosado.png"
+image = "mike-rosado.jpg"
 type = "speaker"
 linktitle = "mike-rosado"
 
