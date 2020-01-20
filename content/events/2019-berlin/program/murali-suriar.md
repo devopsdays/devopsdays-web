@@ -2,6 +2,7 @@
 Title = "Blameless Postmortem Culture"
 Type = "talk"
 Speakers = ["murali-suriar"]
+slides = "https://drive.google.com/open?id=1k_jOs_JLWVXy4_0EBpEvkEMRRrM7LMKY"
 +++
 A talk on postmortem incident analysis and its relationship to organisational culture.
 
