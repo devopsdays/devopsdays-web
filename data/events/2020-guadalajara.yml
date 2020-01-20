@@ -107,14 +107,18 @@ sponsors:
   - id: wizeline
     level: gold
   - id: iteso-university
-    level: gold
+    level: venue
   - id: startup-gdl
     level: gold
+  - id: tinkerwave
+    level: silver
   - id: meetup-docker-guadalajara
     level: community
   - id: itrevolution
     level: community
   - id: meetup-docker-mexico-city
+    level: community
+  - id: wizeops
     level: community
 # - id: arresteddevops
 #  level: community
@@ -126,6 +130,9 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: venue
+    label: Venue
+    max: 1
   - id: platinum
     label: Platinum
     max: 4
