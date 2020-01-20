@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Compliance-as-Code par la pratique"
+Title = "Compliance as Code, gardez le contrôle de votre infrastructure"
 Type = "talk"
 Speakers = ["jerome-van-der-linden","bashar-al-fallouji"]
 +++
@@ -13,4 +13,4 @@ Mais, comment s'assurer ensuite que cette infrastructure est conforme aux standa
  
 C'est là que la compliance-as-code entre en jeu. Les règles et contrôles qui régissent une entreprise sont décrites en code. Cela permet de scruter en continue l’infrastructure afin de détecter et de réagir aux situations non conformes: un port SSH ouvert sur une VM, des données sensibles accessibles au grand public, un volume non encrypté, une base de données non sauvegardée, etc.
  
-Lors de cette session, nous présenterons les concepts clés du « Compliance-as-code » avec démonstration à l’appui. Les participants pourront ensuite mettre en pratique leurs nouveaux acquis au travers d'un lab simulant des situations réelles vécues en entreprise.
+Lors de cette session, nous présenterons les concepts clés du « Compliance-as-code » avec démonstration à l’appui.
