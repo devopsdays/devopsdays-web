@@ -82,12 +82,20 @@ sponsors:
     level: gold
   - id: codefresh
     level: gold
+  - id: d2iq
+    level: gold
+  - id: eliassen-group
+    level: gold
+  - id: harness
+    level: gold
   - id: influxdata
     level: gold
   - id: launch-darkly
     level: gold
   - id: logz
     level: silver
+  - id: sonatype
+    level: gold
   - id: phoenixNAP
     level: silver
   - id: xmatters
