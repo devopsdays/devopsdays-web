@@ -1,7 +1,8 @@
 +++
 Title = "Alvaro Leiva"
 Twitter = "aleivag"
-image = ""
+Linkedin = "https://www.linkedin.com/in/aleivag/"
+Github = "aleivag"
 type = "speaker"
 linktitle = "alvaro-leiva"
 

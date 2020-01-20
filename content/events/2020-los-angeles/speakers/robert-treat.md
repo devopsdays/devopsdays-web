@@ -1,6 +1,8 @@
 +++
 Title = "Robert Treat"
 Twitter = "robtreat2"
+Github = "xzilla"
+Linkedin = "https://www.linkedin.com/in/robtreat/"
 image = "robert-treat.jpg"
 type = "speaker"
 linktitle = "robert-treat"

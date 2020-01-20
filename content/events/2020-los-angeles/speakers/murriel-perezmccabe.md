@@ -1,6 +1,7 @@
 +++
 Title = "Murriel Perez-McCabe"
 Twitter = "xmurriel"
+Linkedin = "https://www.linkedin.com/in/murrielperez/"
 image = "murriel-perezmccabe.png"
 type = "speaker"
 linktitle = "murriel-perezmccabe"
