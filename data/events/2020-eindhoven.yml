@@ -49,24 +49,36 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
-  - name: "Harm Boertien"
-    twitter: "Harm_Ops"
-    github: "HarmB"
-    linkedin: "https://nl.linkedin.com/in/harmboertien"
+# locals first, sorted by primary last name
+  - name: "Koen Aben"
+    linkedin: "https://www.linkedin.com/in/koenaben/"
+    twitter: "koenusTweets"
+  - name: "Thiago de Faria"
+    github: "thiagoavadore"
+    linkedin: "https://www.linkedin.com/in/thiagoavadore/"
+    twitter: "thiagoavadore"
   - name: "Rudy Gevaert"
     twitter: "rgevaert"
     github: "rgevaert"
-    linkedin: "https://be.linkedin.com/in/rudygevaert/"
+    linkedin: "https://www.linkedin.com/in/rudygevaert/"
   - name: "Jelmer Graafstra"
     linkedin: "https://www.linkedin.com/in/jelmer-graafstra-083abb4"
-  - name: "Peter Nijenhuis"
-    twitter: "Peter_Nijenhuis"
+  - name: "Fabian Met"
+    linkedin: "https://www.linkedin.com/in/fabianmet/"
+  - name: "Joep Piscaer"
+    linkedin: "https://www.linkedin.com/in/jpiscaer"
+# not-local to Eindhoven but also helping Eindhoven.
+  - name: "Harm Boertien"
+    twitter: "Harm_Ops"
+    github: "HarmB"
+    linkedin: "https://www.linkedin.com/in/harmboertien"
   - name: "Yvo van Doorn"
     twitter: "yvov"
     github: "yvovandoorn"
-    linkedin: "https://nl.linkedin.com/in/yvovandoorn"
-  - name: "Joep Piscaer"
-    linkedin: "https://www.linkedin.com/in/jpiscaer"
+    linkedin: "https://www.linkedin.com/in/yvovandoorn"
+  - name: "Peter Nijenhuis"
+    twitter: "Peter_Nijenhuis"
+
 
 organizer_email: "eindhoven@devopsdays.org" # Put your organizer email address here
 
