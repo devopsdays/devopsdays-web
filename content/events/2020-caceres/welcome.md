@@ -2,7 +2,7 @@
 Title = "devopsdays Caceres 2020"
 Type = "welcome"
 aliases = ["/events/2020-caceres/"]
-Description = "devopsdays Caceres 2020"
+Description = "devopsdays Cáceres 2020"
 +++
 
 <div class = "row">
