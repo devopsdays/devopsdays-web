@@ -110,6 +110,8 @@ sponsors:
     level: venue
   - id: startup-gdl
     level: gold
+  - id: linux-professional-institute
+    level: silver
   - id: tinkerwave
     level: silver
   - id: meetup-docker-guadalajara
@@ -120,8 +122,10 @@ sponsors:
     level: community
   - id: wizeops
     level: community
-# - id: arresteddevops
-#  level: community
+  - id: software-guru
+    level: community
+  - id: ijalti
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
