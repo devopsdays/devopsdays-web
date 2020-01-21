@@ -166,7 +166,14 @@ sponsors:
 #   level: silver
 # - id: sngular
 #   level: bronze
-
+#  - id: deiser
+#    level: silver
+#  - id: kairosds
+#    level: silver
+  - id: bitnami
+    level: bronze
+#  - id: gloin
+#    level: bronze
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -293,12 +300,12 @@ program:
     date: 2020-03-06
     start_time: "11:30"
     end_time: "12:15"
-  - title: "eduardo-ferro-fran-ortiz"
+  - title: "borja-rosco"
     type: talk
     date: 2020-03-06
     start_time: "12:30"
     end_time: "13:15"
-  - title: "borja-rosco"
+  - title: "eduardo-ferro-fran-ortiz"
     type: talk
     date: 2020-03-06
     start_time: "13:30"
