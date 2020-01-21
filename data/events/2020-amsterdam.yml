@@ -84,12 +84,14 @@ organizer_email: "amsterdam@devopsdays.org" # Put your organizer email address h
 sponsors:
   # BBQ
   # beer
-  # water
+  # Pre-event
   # coffee
+  # t-shirt
+  # water
   # arcade
+  # lanyard
   # recharge
   # foodtrucks
-  # lanyard
   # golds
   - id: wemanity
     level: gold
@@ -112,14 +114,23 @@ sponsor_levels:
   - id: beer
     label: Beer
     max: "1"
-  - id: water
-    label: "Waterbottle"
+  - id: event
+    label: "Pre Event"
     max: "1"
   - id: coffee
     label: Coffee
     max: "1"
+  - id: t-shirt
+    label: T-shirt
+    max: "1"
+  - id: water
+    label: "Waterbottle"
+    max: "1"
   - id: arcade
     label: Arcade Games
+    max: "1"
+  - id: lanyard
+    label: Lanyard
     max: "1"
   - id: recharge
     label: "Power recharge"
@@ -127,9 +138,6 @@ sponsor_levels:
   - id: foodtrucks
     label: "Food Trucks"
     max: "4"
-  - id: lanyard
-    label: Lanyard
-    max: "1"
   - id: gold
     label: Gold
     max: "8"
