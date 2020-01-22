@@ -2,6 +2,7 @@
 Title = "Julián Limón Núñez"
 Twitter = "julianlimon"
 LinkedIn = "https://www.linkedin.com/in/julianlimon/"
+Github = "julianlimon"
 image = "julian-limon.png"
 type = "speaker"
 linktitle = "julian-limon"
