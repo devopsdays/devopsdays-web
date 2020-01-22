@@ -110,6 +110,18 @@ sponsors:
     level: silver
   - id: pure-storage
     level: gold
+  - id: nutanix
+    level: gold
+  - id: smartwave-xebialabs
+    level: gold
+  - id: cisel
+    level: bronze
+  - id: net4all
+    level: bronze
+  - id: globaz
+    level: bronze
+  - id: d2iq
+    level: silver
 
   #- id: docker
   #level: gold
