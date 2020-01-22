@@ -126,6 +126,8 @@ sponsors:
     level: community
   - id: ijalti
     level: community
+  - id: ieee
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
