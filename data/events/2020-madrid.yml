@@ -325,8 +325,8 @@ program:
     end_time: "17:00"
     comments: "Track 2"
     background_color: "#99E6FF"
-  - title: "miguel-angel-garcia"
-    type: talk
+  - title: "-"
+    type: custom
     date: "2020-02-21"
     start_time: "16:15"
     end_time: "17:00"
@@ -347,8 +347,8 @@ program:
     end_time: "18:00"
     comments: "Track 2"
     background_color: "#99E6FF"
-  - title: "-"
-    type: custom
+  - title: "miguel-angel-garcia"
+    type: talk
     date: "2020-02-21"
     start_time: "17:15"
     end_time: "18:00"
