@@ -5,7 +5,7 @@ Description = "Propose a talk for devopsdays aarhus 2020"
 +++
   {{< cfp_dates >}}
 
-The CFP is not open yet, but will open as soon as the dates are set.
+The CFP is open and we look forward to seeing your proposals.
 <hr>
 
 There are three ways to propose a topic at devopsdays:
