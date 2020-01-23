@@ -6,7 +6,7 @@ Description = "devopsdays Guadalajara 2020"
 +++
 <div class = "row">
   <div class="col-md-4">
-    <img alt="DevOpsDays Cáceres 2020" src="/events/2020-guadalajara/logo.png" class="img-fluid">
+    <img alt="DevOpsDays Guadalajara 2020" src="/events/2020-guadalajara/logo.png" class="img-fluid">
   </div>
   <div class="col-md-7">
     <h2>¡La conferencia de DevOpsDays llegará a Guadalajara en febrero de 2020!</h2>
