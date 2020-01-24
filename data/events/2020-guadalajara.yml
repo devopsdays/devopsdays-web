@@ -105,6 +105,8 @@ proposal_email: "guadalajara@devopsdays.org" # Put your proposal email address h
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: newrelic
+    level: platinum
   - id: wizeline
     level: gold
   - id: iteso-university
