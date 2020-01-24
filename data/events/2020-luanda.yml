@@ -68,7 +68,7 @@ team_members: # Name is the only required field for team members.
     bio: "I've been working as a DevOps and as an Linux instructor at @BukaApp. Co-organizer DevOps Luanda Meetup, Jovany is passionate about DevOps, company culture and collaboration in IT teams."
     github: "JovanyNegocio"
   - name: "Divaldo Hady da Cruz"
-    linkedin: ""
+    linkedin: "https://www.linkedin.com/in/divaldo-costa-536563112/"
     image: "divaldocosta.jpg"
     twitter: ""
     employer: "Angola Telecom"
