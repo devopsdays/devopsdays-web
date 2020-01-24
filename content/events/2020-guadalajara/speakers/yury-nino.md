@@ -1,11 +1,11 @@
 +++
-Title = "Yuri Niño Roa"
+Title = "Yury Niño Roa"
 Twitter = "yurynino"
 Github = "yurynino"
 LinkedIn = "https://www.linkedin.com/in/yurynino/"
-image = "yuri-nino.jpeg"
+image = "yury-nino.jpeg"
 type = "speaker"
-linktitle = "yuri-nino"
+linktitle = "yury-nino"
 
 +++
 
