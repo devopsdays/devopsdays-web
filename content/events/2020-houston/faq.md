@@ -51,7 +51,7 @@ Book your group rate for DevOpsDays <a href="https://www.marriott.com/event-rese
 <a name="Bring"><h3>5. What to bring</h3></a>
 There will be keynote addresses, lightning talks, workshops, and open spaces, so make sure you bring your listening ears for talks, laptops for workshops, and bright ideas for open spaces! Also, breakfast and lunch will be provided<br/>
 
-Check the <a href="/events/2020-houston/program/">final event program</a>. <br/>
+<!-- Check the <a href="/events/2020-houston/program/">final event program</a>. <br/> -->
  
 <h5>Workshops</h5>
 
