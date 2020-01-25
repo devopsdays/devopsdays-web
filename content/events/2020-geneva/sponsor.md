@@ -3,7 +3,11 @@ Title = "Sponsor"
 Type = "event"
 Description = "Sponsor DevOpsDays Geneva 2020"
 +++
-
+<style type="text/css">
+ div.sponsor-row img.img-fluid{
+    max-height: 50px;
+  }
+</style>
 <style>
   thead th:not(:first-child) {
     padding: 0 2.5rem;
