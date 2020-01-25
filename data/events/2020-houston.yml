@@ -142,8 +142,8 @@ sponsors:
     level: platinum
   - id: flightaware
     level: bronze
-#  - id: arundo
-#    level: corporate
+  - id: arundo
+    level: corporate
   - id: improving  
     level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
