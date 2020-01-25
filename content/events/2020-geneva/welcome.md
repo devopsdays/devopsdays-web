@@ -23,7 +23,27 @@ Description = "DevOpsDays Geneva 2020"
   .text h2 {
     margin-bottom: 2rem;
   }
+  
+  div.sponsor-row img.img-fluid{
+    max-height: 50px;
+  }
 </style>
+
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '482366815866214');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=482366815866214&ev=PageView&noscript=1"
+/></noscript>
 
 <div style='width:100%;text-align:center;margin-bottom:2rem;'>
   <img alt="DevOpsDays Geneva 2020" src="/events/2020-geneva/logo.png" style="max-width: 20rem;margin-right:auto;margin-left: auto;"/>
