@@ -114,10 +114,6 @@ sponsors:
    level: gold
  - id: elastic
    level: gold
- - id: orange
-   level: gold
- #- id: accenture-es
- #  level: gold
  - id: encamina
    level: gold
 
@@ -126,8 +122,10 @@ sponsors:
 
  - id: altran
    level: silver
- #- id: cloudflare
- #  level: silver
+ - id: cloudflare
+   level: silver
+ - id: tecnofor
+   level: silver
 
  - id: intelygenz
    level: bronze
@@ -145,6 +143,8 @@ sponsors:
  - id: ceu
    level: community
  - id: ironhack
+   level: community
+ - id: malt
    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
