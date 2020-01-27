@@ -181,7 +181,7 @@ sponsors:
     level: premium
   - id: sonatype
     level: premium
-  - id: nutanix
+  - id: nutanix-before-20200127
     level: premium
   - id: circleci
     level: premium

@@ -123,7 +123,7 @@ sponsors:
     level: gold
   - id: redhat
     level: gold
-  - id: nutanix
+  - id: nutanix-before-20200127
     level: gold
   - id: oraclecloud
     level: alacarte
