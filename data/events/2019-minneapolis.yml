@@ -163,7 +163,7 @@ sponsors:
     level: community
   - id: countryfinancial
     level: alacarte
-  - id: nutanix
+  - id: nutanix-before-20200127
     level: gold
   - id: oraclecloud
     level: silver
