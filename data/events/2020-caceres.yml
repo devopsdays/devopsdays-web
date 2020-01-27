@@ -160,20 +160,20 @@ sponsors:
     level: bronze
   - id: kodify
     level: silver
-# - id: ebury
-#   level: silver
+  - id: ebury
+    level: silver
 # - id: viewnext
 #   level: silver
 # - id: sngular
 #   level: bronze
-#  - id: deiser
-#    level: silver
+  - id: deiser
+    level: silver
 #  - id: kairosds
 #    level: silver
   - id: bitnami
     level: bronze
-#  - id: gloin
-#    level: bronze
+  - id: gloin
+    level: bronze
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
