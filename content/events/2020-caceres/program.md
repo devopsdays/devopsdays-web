@@ -8,6 +8,9 @@ icons = "TRUE"
 <hr />
 If Open Space is new to you, you may be interested in <a href="/pages/open-space-format">more details about Open Space</a>.
 <hr />
+<hr>
+<b>Although Spanish will be the primary language of the conference, we will have some of the talks in English.</b>
+</hr>
 
 <div>
 <h3>Color Keys:</h3>
