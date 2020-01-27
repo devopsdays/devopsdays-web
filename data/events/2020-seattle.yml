@@ -128,8 +128,6 @@ sponsors:
     level: gold    
   - id: scalyr
     level: gold
-  - id: skykick
-    level: bronze
   - id: timescale
     level: gold
 
