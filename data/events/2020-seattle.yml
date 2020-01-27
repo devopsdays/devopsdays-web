@@ -118,6 +118,8 @@ sponsors:
     level: gold
   - id: launch-darkly
     level: gold
+  - id: mattermost
+    level: gold
   - id: microsoft
     level: gold
   - id: salesforce
