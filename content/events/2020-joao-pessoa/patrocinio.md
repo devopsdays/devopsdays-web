@@ -1,10 +1,10 @@
 +++
-Title = "Patrocinio"
+Title = "Patrocínio"
 Type = "event"
-	Description = "Patrocinio DevOpsDays João Pessoa 2020"
+	Description = "Patrocínio DevOpsDays João Pessoa 2020"
 +++
 
-Nós valorizamos muito os patrocinadores deste evento. Caso esteja interessado em alguma cota de patrocinio, entre em contato pelo email [{{< email_organizers >}}].
+Nós valorizamos muito os patrocinadores deste evento. Caso esteja interessado em alguma cota de patrocínio, entre em contato pelo email [{{< email_organizers >}}].
 
 <hr>
 

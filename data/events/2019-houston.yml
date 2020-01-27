@@ -25,7 +25,7 @@ registration_date_start: "2019-01-21T00:00:00-06:00" # start accepting registrat
 registration_date_end: "2019-04-15T23:59:59-05:00" # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "https://www.eventbrite.com/e/devopsdays-houston-2019-tickets-54629883452" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -127,7 +127,7 @@ sponsors:
     level: gold
   - id: chef
     level: gold
-  - id: solarwinds
+  - id: solarwinds-before-20200114
     level: gold
   - id: cloudbees
     level: gold

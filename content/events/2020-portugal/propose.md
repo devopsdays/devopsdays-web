@@ -27,5 +27,5 @@ Choosing talks is part art, part science; here are some factors we consider when
 
 <hr>
 
-<strong>How to submit a proposal:</strong> We are using <i>sessionize.com</i> to manage proposals. Please go to <a href="https://sessionize.com/devopsdaysportugal2020/">https://sessionize.com/devopsdaysportugal2020/</a> and fill out the submission form.
+**How to submit a proposal:** We are using _sessionize.com_ to manage proposals. Please go to [https://sessionize.com/devopsdaysportugal2020/](https://sessionize.com/devopsdaysportugal2020/) and fill out the submission form.
 

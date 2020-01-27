@@ -20,11 +20,11 @@ cfp_date_announce: 2020-01-25T12:00:00-03:00 # inform proposers of status
 
 cfp_link: "https://cfp.devopsdays.com.br/poa2020/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start:  2019-12-1T00:00:00-05:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2020-04-15T23:59:59-03:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://devopsdayspoa.eventize.com.br" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 masthead_background: "panoramaanoite.jpg"
 
@@ -35,10 +35,11 @@ location: "Faculdade Dom Bosco" # Defaults to city, but you can make it the venu
 #
 location_address: "R. Mal. José Inácio da Silva, 355 - Passo d'Areia, Porto Alegre - RS, 90520-280" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
+
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
   - name: location
- # - name: registration
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -132,6 +133,18 @@ sponsors:
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
+  - id: docker-porto-alegre
+    level: community
+  - id: pycaxias
+    level: community
+  - id: linuxforall
+    level: community
+  - id: 2015-thoughtworks
+    level: platinum
+  - id: adentro-cloud
+    level: bronze
+  - id: faculdade-dom-bosco
+    level: institutional
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -140,6 +153,9 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: institutional
+    label: institutional
+    max: 1
   - id: platinum
     label: Platinum
   - id: gold

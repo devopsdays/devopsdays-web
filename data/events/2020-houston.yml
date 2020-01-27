@@ -39,11 +39,12 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     url: "https://www.papercall.io/devopsdayshouston2020"
   - name: location
   - name: registration
- # - name: program
- # - name: speakers
+# - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
+  - name: faq
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -129,10 +130,22 @@ sponsors:
     level: gold
   - id: twosigma
     level: gold
- # - id: abs
- #   level: corporate
+  - id: abs
+    level: corporate
   - id: influxdata
     level: platinum
+  - id: appdynamics
+    level: gold
+  - id: datadog
+    level: gold
+  - id: microsoft
+    level: platinum
+  - id: flightaware
+    level: bronze
+  - id: arundo
+    level: corporate
+  - id: improving  
+    level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
@@ -160,3 +173,4 @@ sponsor_levels:
     label: Corporate 
   - id: community
     label: Community
+

@@ -149,4 +149,4 @@
 /presentations/2009-ghent/* http://legacy.devopsdays.org/presentations/2009-ghent/:splat     301!
 /ciudad-mexico/*            /events/2020-ciudad-mexico/:splat           302
 /eindhoven/*            /events/2020-eindhoven/:splat           302
-/luanda/*            /events/2020-luanda/:splat           302
+/luanda/*            /events/2020-luanda/:splat           302!

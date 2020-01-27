@@ -77,7 +77,25 @@ sponsors:
     level: gold
   - id: influxdata
     level: gold
+  - id: appdynamics
+    level: gold
+  - id: gitlab
+    level: gold
+  - id: instana
+    level: gold
+  - id: newrelic
+    level: gold
+  - id: site24x7
+    level: gold
+  - id: sonatype
+    level: gold
+  - id: hcl
+    level: silver
+  - id: delphix
+    level: silver
   - id: arresteddevops
+    level: community
+  - id: manning
     level: community
 #  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 
@@ -125,7 +143,7 @@ program:
     date: 2020-02-27
     start_time: "10:30"
     end_time: "10:50"
-  - title: "julie-gunderson"
+  - title: "jeremy-hayes"
     type: talk
     date: 2020-02-27
     start_time: "10:50"
@@ -210,7 +228,7 @@ program:
     date: 2020-02-28
     start_time: "09:00"
     end_time: "09:30"
-  - title: "jeremy-hayes"
+  - title: "josh-stella"
     type: talk
     date: 2020-02-28
     start_time: "09:30"
@@ -245,45 +263,45 @@ program:
     date: 2020-02-28
     start_time: "12:15"
     end_time: "13:00"
-  - title: "logan-daigle"
+  - title: "julie-gunderson"
     type: talk
     date: 2020-02-28
     start_time: "13:00"
-    end_time: "13:10"
-  - title: "henry-quinn"
-    type: talk
-    date: 2020-02-28
-    start_time: "13:10"
-    end_time: "13:20"
-  - title: "austin-burdine"
-    type: talk
-    date: 2020-02-28
-    start_time: "13:20"
     end_time: "13:30"
-  - title: "theo-salvo"
+  - title: "logan-daigle"
     type: talk
     date: 2020-02-28
     start_time: "13:30"
     end_time: "13:40"
-  - title: "baruch-sadogursky"
+  - title: "henry-quinn"
     type: talk
     date: 2020-02-28
     start_time: "13:40"
     end_time: "13:50"
-  - title: "aaron-aldrich-lightning"
+  - title: "austin-burdine"
     type: talk
     date: 2020-02-28
     start_time: "13:50"
-    end_time: "13:55"
-  - title: "Ignite Karaoke"
-    type: custom
+    end_time: "14:00"
+  - title: "theo-salvo"
+    type: talk
     date: 2020-02-28
-    start_time: "13:55"
-    end_time: "14:15"
+    start_time: "14:00"
+    end_time: "14:10"
+  - title: "baruch-sadogursky"
+    type: talk
+    date: 2020-02-28
+    start_time: "14:10"
+    end_time: "14:20"
+  - title: "aaron-aldrich-lightning"
+    type: talk
+    date: 2020-02-28
+    start_time: "14:20"
+    end_time: "14:25"
   - title: "Sponsors, Open Spaces Topics & Break"
     type: custom
     date: 2020-02-28
-    start_time: "14:15"
+    start_time: "14:25"
     end_time: "14:45"
   - title: "Open Space #1"
     type: open-space
