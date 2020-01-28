@@ -1,5 +1,11 @@
 <header>
   <h2><a href='{{ .Permalink }}'> {{ .Title }}</a> </h2>
+       {{- if isset .Params "author" -}}
+         <h2 class="footer-heading">by {{ .Params.author }} - {{ dateFormat "02 January, 2006" .Date }}</h2>
+       {{- else -}}
+         <h2 class="footer-heading">{{ dateFormat "02 January, 2006" .Date }}</h2>
+       {{- end -}}
+
 </header>
 {{ if isset .Params "description" }}
   {{ if ne .Params.descripton "" }}
@@ -11,3 +17,4 @@
 <footer>
   <a href='{{ .Permalink }}'><nobr>Read more →</nobr></a>
 </footer>
+<br>
