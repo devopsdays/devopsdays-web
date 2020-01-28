@@ -103,6 +103,14 @@ sponsors:
     level: gold
   - id: instana
     level: gold
+  - id: pagerduty
+    level: gold
+  - id: fullstory
+    level: gold
+  - id: contrast_security
+    level: gold
+  - id: appdynamics
+    level: gold
   - id: gitlab
     level: silver
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
