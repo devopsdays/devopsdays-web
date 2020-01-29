@@ -61,7 +61,7 @@ team_members: # Name is the only required field for team members.
   - name: "Michał Różycki"
   - name: "Jacek Suchenia"
   - name: "Tomasz Szymański"
-  - name: "Paulina Wędrychowska"
+  - name: "Paulina Tomaszewska"
   - name: "Sylwia Zając"
 
 organizer_email: "krakow@devopsdays.org" # Put your organizer email address here
