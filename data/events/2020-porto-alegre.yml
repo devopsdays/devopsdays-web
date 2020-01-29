@@ -141,6 +141,11 @@ sponsors:
     level: community
   - id: django-girls-taquara
     level: community
+  - id: afropython
+    level: community
+    url: "http://afropythonconf.org"
+  - id: linuxtips
+    level: community
   - id: 2015-thoughtworks
     level: platinum
   - id: adentro-cloud
@@ -208,7 +213,7 @@ program:
     start_time: "11:10"
     end_time: "11:30"
 
-  - title: "kenzie"
+  - title: "luis-laimer"
     type: talk
     date: "2020-05-22"
     start_time: "11:40"

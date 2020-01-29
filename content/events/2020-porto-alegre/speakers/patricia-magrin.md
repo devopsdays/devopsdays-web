@@ -2,7 +2,7 @@
 title = "Patricia Magrin Leonardelli" 
 Twitter = "" 
 linkedin = "" 
-image = "" 
+image = "patricia-magrin.png" 
 type = "speaker" 
 linktitle = "patricia-magrin" 
 +++
