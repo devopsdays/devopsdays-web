@@ -69,6 +69,9 @@ organizer_email: "toronto@devopsdays.org" # Put your organizer email address her
 sponsors:
   - id: pagerduty
     level: gold
+  - id: trendmicro
+    level: gold
+
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
