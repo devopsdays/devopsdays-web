@@ -112,24 +112,26 @@ sponsors:
 #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 # - id: arresteddevops
 #  level: community
-  - id: influxdata
-    level: gold
-  - id: instana
-    level: gold
   - id: launch-darkly
     level: gold
-  - id: mattermost
+  - id: influxdata
     level: gold
   - id: microsoft
     level: gold
-  - id: pulumi
-    level: silver
-  - id: salesforce
-    level: gold    
-  - id: scalyr
-    level: gold
   - id: timescale
     level: gold
+  - id: salesforce
+    level: gold    
+  - id: instana
+    level: gold
+  - id: skykick
+    level: bronze
+  - id: mattermost
+    level: gold
+  - id: scalyr
+    level: gold
+  - id: pulumi
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
