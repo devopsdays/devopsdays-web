@@ -2,7 +2,7 @@
 title = "Luis Laimer" 
 Twitter = "" 
 linkedin = "" 
-image = "" 
+image = "luis-laimer.jpg" 
 type = "speaker" 
 linktitle = "luis-laimer" 
 +++ 
