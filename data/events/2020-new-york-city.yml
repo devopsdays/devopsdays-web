@@ -161,10 +161,10 @@ sponsors:
     level: silver
   - id: twosigma
     level: captioning
+  - id: ssc
+    level: lunch
   - id: arresteddevops
     level: community
-  - id: ssctech 
-    level: lunch
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -184,10 +184,10 @@ sponsor_levels:
     label: Bronze
   - id: captioning
     label: Live Captioning
-  - id: community
-    label: Community
   - id: lunch
     label: Lunch
+  - id: community
+    label: Community
 
 program:
   - title: "Registration, Breakfast, Sponsor Booths Open"
