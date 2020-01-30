@@ -30,7 +30,7 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 # Location
 #
-coordinates: "52.524332,13.389849" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+coordinates: "52.524322,13.389810" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Kalkscheune Berlin" # Defaults to city, but you can make it the venue name.
 #
 location_address: "Johannisstr. 2, 10117 Berlin" #Optional - use the street address of your venue. This will show up on the welcome page if set.
