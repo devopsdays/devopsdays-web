@@ -155,6 +155,10 @@ sponsors:
     level: silver
   - id: site24x7
     level: silver
+  - id: honeycomb
+    level: silver
+  - id: codefresh
+    level: silver
   - id: twosigma
     level: captioning
   - id: arresteddevops
