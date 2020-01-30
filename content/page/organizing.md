@@ -439,6 +439,13 @@ If you're ordering shirts a few weeks before your event, consider padding the co
 
 You may also want to order stickers or other items. Give yourself plenty of lead time.
 
+### Swag vendor recommendations
+Below are some *personal* vendor recommendations based on good past experience.
+
+**T-shirts, hats, jackets etc.**: https://www.lock-promo.com/. Good quality, reliable delivery, very affordable. Used in: Chicago, Seattle 
+
+**Stickers and other printed materials**: https://www.minutemanpress.com/. Good quality, affordable pricing, VERY quick turnaround. Used in: Chicago, Seattle 
+
 ---
 
 ## A word on hotels
