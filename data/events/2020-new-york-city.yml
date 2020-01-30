@@ -155,12 +155,16 @@ sponsors:
     level: silver
   - id: site24x7
     level: silver
+  - id: honeycomb
+    level: silver
+  - id: codefresh
+    level: silver
   - id: twosigma
     level: captioning
+  - id: ssc
+    level: lunch
   - id: arresteddevops
     level: community
-  - id: ssctech 
-    level: lunch
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -170,20 +174,24 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: social
+    label: Evening Social
   - id: gold
     label: Gold
-#    max: 10
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
-  - id: bronze
-    label: Bronze
+  # - id: bronze
+  #   label: Bronze
+  - id: video
+    label: Video
   - id: captioning
     label: Live Captioning
-  - id: community
-    label: Community
   - id: lunch
     label: Lunch
+  - id: breakfast
+    label: Breakfast
+  - id: community
+    label: Community
 
 program:
   - title: "Registration, Breakfast, Sponsor Booths Open"
