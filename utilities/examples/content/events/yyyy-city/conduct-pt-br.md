@@ -13,7 +13,7 @@ Nossa conferência é dedicada a prover um uma experiência de conferência sem 
 
 ### A versão não tão rápida
 
-Assédio inclui comentários verbais ofensivos relacionados a gênero, identidade de gênero, idade, orientação sexual, deficiência, aparência física, tamanho corporal, raça, etinia, religião (ou a falta dela) ou escolhas de tecnologias, imagens sexuais em espaços públicos, intimidação deliberada, stalking, perseguição, fotografias ou filmagens constrangedoras, interrupção contínua das apresentações ou outros eventos, contato físico inapropriado e atenção sexual indesejada. Participantes que receberem uma solicitação para interromper qualquer comportamento de assédio devem fazer isso imediatamente.
+Assédio inclui comentários verbais ofensivos relacionados a gênero, identidade de gênero e expressão, idade, orientação sexual, deficiência, aparência física, tamanho corporal, raça, etinia, religião (ou a falta dela) ou escolhas de tecnologias, imagens sexuais em espaços públicos, intimidação deliberada, stalking, perseguição, fotografias ou filmagens constrangedoras, interrupção contínua das apresentações ou outros eventos, contato físico inapropriado e atenção sexual indesejada. Participantes que receberem uma solicitação para interromper qualquer comportamento de assédio devem fazer isso imediatamente.
 
 As políticas antiassédio também se aplicam a representantes de empresas patrocinadoras. Em particular, não devem usar imagens, atividades ou outro material de cunho sexual. As equipes de estandes e tendas (incluindo pessoas voluntárias) não devem utilizar roupas, uniformes ou trajes sexualizados ou criar um ambiente sexualizado de quaisquer formas.
 
