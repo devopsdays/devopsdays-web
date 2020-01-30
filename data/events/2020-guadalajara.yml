@@ -43,6 +43,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: sponsor
   - name: contact
   - name: conduct
+  - name: justify
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -107,6 +108,8 @@ proposal_email: "guadalajara@devopsdays.org" # Put your proposal email address h
 sponsors:
   - id: newrelic
     level: platinum
+  - id: experis
+    level: platinum
   - id: wizeline
     level: gold
   - id: iteso-university
@@ -116,6 +119,8 @@ sponsors:
   - id: linux-professional-institute
     level: silver
   - id: tinkerwave
+    level: silver
+  - id: bedu
     level: silver
   - id: meetup-docker-guadalajara
     level: community
