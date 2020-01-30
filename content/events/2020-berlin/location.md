@@ -5,11 +5,10 @@ Description = "Location for devopsdays Berlin 2019"
 +++
 
 ## Kalkscheune Berlin
-Watch this space for information about the venue including address, map/direction, parking/transit, and any hotel details.
 
 <div style="text-align:left;"> <a href="http://www.kalkscheune.de/en"
 target="_blank"> <img width="550px" alt="DevOpsDays Berlin 2018"
-src="/events/2019-berlin/kalkscheune.jpg"/> </a> </div>
+src="/events/2020-berlin/kalkscheune.jpg"/> </a> </div>
 <br/>
 
 
