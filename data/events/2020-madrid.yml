@@ -116,7 +116,9 @@ sponsors:
    level: gold
  - id: encamina
    level: gold
-
+ - id: deiser
+   level: gold
+   
  - id: autentia
    level: gold-media
 
@@ -125,6 +127,8 @@ sponsors:
  - id: cloudflare
    level: silver
  - id: tecnofor
+   level: silver
+ - id: openbank
    level: silver
 
  - id: intelygenz
