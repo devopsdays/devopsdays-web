@@ -144,7 +144,7 @@ sponsors:
     level: platinum
   - id: sensu
     level: platinum
-  - id: instana
+  - id: instana-before-20200127
     level: platinum
   - id: dynatrace
     level: gold
