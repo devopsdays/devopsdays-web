@@ -19,11 +19,11 @@ cfp_date_start: 2020-01-24T00:12:00+01:00
 cfp_date_end: 2020-02-29T23:59:00+01:00
 cfp_date_announce: 2020-03-15T12:00:00+01:00
 
-cfp_open: "false"
+cfp_open: "true"
 cfp_link: "https://www.papercall.io/devopsdaysaarhus-2020" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start:  2020-01-24T00:12:00+01:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2020-06-10T00:12:00+01:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
