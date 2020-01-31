@@ -75,6 +75,8 @@ sponsors:
     level: gold
   - id: rundeck
     level: gold
+  - id: shuttleops
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
