@@ -14,7 +14,7 @@ Description = "devopsdays aarhus 2020"
     <strong>Dates</strong>
   </div>
   <div class = "col-md-8">
-    Devopsdays will come to Aarhus, June 2020
+    Devopsdays will come to Aarhus, June 10th and 11th 2020
     {{< event_start >}} - {{< event_end >}}
   </div>
 </div>
