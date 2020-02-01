@@ -69,7 +69,7 @@ organizer_email: "charlotte@devopsdays.org" # Put your organizer email address h
 sponsors:
   - id: red-ventures
     level: gold
-  - id: f5
+  - id: f5-nginx
     level: gold
   - id: launch-darkly
     level: gold
