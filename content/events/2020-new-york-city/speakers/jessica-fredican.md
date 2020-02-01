@@ -1,7 +1,7 @@
 +++
 Title = "Jessica Fredican"
 Twitter = "jessicafredican"
-image = ""
+image = "jessica-fredican.png"
 type = "speaker"
 linktitle = "jessica-fredican"
 
