@@ -39,11 +39,11 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: program
  # - name: speakers
   - name: patrocinio
-    url: /events/2019-belo-horizonte/sponsor
+    url: /events/2020-belo-horizonte/sponsor
   - name: contato
-    url: /events/2019-belo-horizonte/contact
+    url: /events/2020-belo-horizonte/contact
   - name: conduta
-    url: /events/2019-belo-horizonte/conduct
+    url: /events/2020-belo-horizonte/conduct
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
