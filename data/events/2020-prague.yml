@@ -87,16 +87,22 @@ sponsors:
     url: "https://en.careers.epam-czech.cz/"
   - id: gitlab
     level: titanium
+    url: "https://about.gitlab.com/"
   - id: kb
     level: gold
     url: "https://www.kb.cz/"
-  - id: revolgy
-    level: gold
+  - id: citrix
+    level: silver
+    url: "https://www.citrix.com/"
+  - id: flowtraders
+    level: silver
+    url: "https://www.flowtraders.com/"
   - id: showmax
     level: bronze
-    url: "https://www.showmax.com"
+    url: "https://www.showmax.com/"   
   - id: elastic
     level: bronze
+    url: "https://www.elastic.co/"      
   - id: digitalocean
     level: starter
     url: "https://www.digitalocean.com/"
@@ -106,6 +112,12 @@ sponsors:
   - id: cloudinfrastack
     level: community
     url: "https://www.cloudinfrastack.com/" 
+  - id: lmc
+    level: community
+    url: "https://www.lmc.eu/en/"
+  - id: czechitas
+    level: community
+    url: "https://www.czechitas.cz/en/"     
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
