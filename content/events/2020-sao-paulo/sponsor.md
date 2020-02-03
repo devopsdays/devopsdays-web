@@ -136,4 +136,4 @@ O nossa recomendação é enviar seus especialistas técnicos para interagir com
     </div>
 </div>
 <p>
-Há também oportunidades para patrocínios especiais exclusivos. Se você está interessado em um patrocínio especial ou tem uma ideia criativa sobre como pode apoiar o evento, <a href="mailto:organizers-sao-paulo-2020@devopsdays.org?subject=DevOpsDays S&atilde;o Paulo - Patroc&iacute;nio">mande um email para nós</a>.</p>
+Há também oportunidades para patrocínios especiais exclusivos. Se você está interessado em um patrocínio especial ou tem uma ideia criativa sobre como pode apoiar o evento, <a href="mailto:sao-paulo@devopsdays.org?subject=DevOpsDays S&atilde;o Paulo - Patroc&iacute;nio">mande um email para nós</a>.</p>
