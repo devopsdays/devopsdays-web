@@ -89,6 +89,8 @@ sponsors:
     level: gold
   - id: sonatype
     level: gold
+  - id: paloaltonetworks
+    level: gold
   - id: hcl
     level: silver
   - id: delphix
