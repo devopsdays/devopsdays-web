@@ -40,6 +40,9 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: registration
  # - name: program
  # - name: speakers
+  - name: local
+    url: /events/2020-sao-paulo/local
+    icon: "map-o" 
   - name: patrocínio
     url: /events/2020-sao-paulo/sponsor
     icon: "money"
