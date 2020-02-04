@@ -99,6 +99,8 @@ sponsors:
   # golds
   - id: wemanity
     level: gold
+  - id: kpn-ict
+    level: gold
   # silvers
   - id: cyso
     level: silver
