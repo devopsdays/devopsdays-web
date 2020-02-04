@@ -163,7 +163,7 @@ sponsor_levels:
     label: Community
 
 program:
-  - title: "Registration, Breakfast, Sponsor Booths Open"
+  - title: "Registration and Booths Open"
     type: custom
     date: "2020-02-20"
     start_time: "08:00"
@@ -183,7 +183,7 @@ program:
     date: "2020-02-20"
     start_time: "09:45"
     end_time: "10:00"
-  - title: "Words from ITESO"
+  - title: "Words from Organizers"
     type: words
     date: "2020-02-20"
     start_time: "10:00"
@@ -269,7 +269,7 @@ program:
     start_time: "18:45"
     end_time: "20:00"
 
-  - title: "Registration, Breakfast, Sponsor Booths Open"
+  - title: "Registration and Booths Open"
     type: custom
     date: "2020-02-21"
     start_time: "08:00"
