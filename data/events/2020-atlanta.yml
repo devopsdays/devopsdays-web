@@ -111,6 +111,10 @@ sponsors:
     level: gold
   - id: appdynamics
     level: gold
+  - id: chef
+    level: gold
+  - id: vmware
+    level: gold
   - id: gitlab
     level: silver
   - id: armory
