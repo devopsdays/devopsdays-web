@@ -2,6 +2,7 @@ name: "2020-melbourne" # The name of the event. Four digit year with the city na
 year: "2020" # The year of the event. Make sure it is in quotes.
 city: "Melbourne" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdownunder" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+event_group: "Down Under"
 description: "Devopsdays is returning to Melbourne!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
@@ -50,29 +51,18 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Amanda Brown"
-    email: "amanda.brown@digio.com.au"
   - name: "Andy Kelk"
     twitter: "andykelk"
-    email: "andy@andykelk.net"
   - name: "Arjen Schwarz"
-    email: "arjen.schwarz@digio.com.au"
   - name: "Celica Rowley"
-    email: "celica.rowley@gmail.com"
   - name: "Fabian Iannarella"
-    email: "fab@frizbi.com.au"
   - name: "James Pettigrove"
-    email: "dxpetti@gmail.com"
   - name: "Jordan Kueh"
-    email: "jordan@zerocu.be"
   - name: "Mike Berry"
-    email: "zelph0@gmail.com"
   - name: "Peter Hall"
     twitter: "peterkh"
-    email: "peter.hall@digio.com.au"
   - name: "Radu Borsaru"
-    email: "radu.borsaru@gmail.com"
   - name: "Simon Richards"
-    email: "simon.richards@digio.com.au"
 
 organizer_email: "melbourne@devopsdays.org" # Put your organizer email address here
 
