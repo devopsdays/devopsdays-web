@@ -74,7 +74,7 @@ Description = "Sponsor devopsdays London 2020"
          <center>5</center>
        </td>
        <td>
-         <center>2</center>
+         <center>5</center>
        </td>
      </tr>
      <tr>
@@ -99,12 +99,12 @@ Description = "Sponsor devopsdays London 2020"
        </td>
        <td class="table-warning">
          <center>&nbsp;</center>
-  </td>
+       </td>
        <td>
          <center>1 Minute</center>
        </td>
-       <td class="table-warning">
-         <center>&nbsp;</center>
+       <td>
+         <center>1 Minute</center>
        </td>
      </tr>
    </tbody>
