@@ -159,6 +159,12 @@ sponsors:
     level: silver
   - id: codefresh
     level: silver
+  - id: splunk
+    level: gold
+  - id: chef
+    level: silver
+  - id: sysdig
+    level: silver 
   - id: twosigma
     level: captioning
   - id: ssc
