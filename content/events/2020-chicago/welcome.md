@@ -15,6 +15,8 @@ DevOpsDays Chicago brings development, operations, QA, InfoSec, management, and 
 <br><br>
 The format of DevOpsDays Chicago includes a single track of 30 minute talks in the morning of each day, followed by Ignite talks (5 minute lightning talks). We spend the rest of the afternoon in Open Spaces, which are considered a key portion of the event.
 <br><br>
+{{< cfp_dates >}}
+<br><br>
 <b>Subscribe to our mailing list below to be the first to know more updates!</b>
 <div class = "row">
   <div class = "col-md-12">
