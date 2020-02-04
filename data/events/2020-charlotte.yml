@@ -95,6 +95,8 @@ sponsors:
     level: silver
   - id: delphix
     level: silver
+  - id: rancher
+    level: silver
   - id: arresteddevops
     level: community
   - id: manning
