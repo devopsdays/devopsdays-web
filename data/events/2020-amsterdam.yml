@@ -92,6 +92,8 @@ sponsors:
   # water
   # arcade
   # lanyard
+  - id: securecodewarrior
+    level: lanyard
   # recharge
   # foodtrucks
   # golds
@@ -99,6 +101,8 @@ sponsors:
     level: gold
   # silvers
   - id: cyso
+    level: silver
+  - id: securecodewarrior
     level: silver
   # bronzes
 
