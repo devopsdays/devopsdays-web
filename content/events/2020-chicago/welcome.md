@@ -8,6 +8,7 @@ Description = "DevOpsDays Chicago is coming back in 2020! The group that brought
 <div class = "row">
   <div class = "col-md-6 push-md-6">
 
+<h2>A Decade of DevOps</h2>
 From fledgling startups to established industry, the Midwest is home to a large, vibrant technology community. Chicago, in particular, has been a flurry of activity in the past several years, drawing attention from around the globe.
 <br><br>
 DevOpsDays Chicago brings development, operations, QA, InfoSec, management, and leadership together to discuss the culture and tools to make better organizations and products. The 2020 event will be the seventh time we have held DevOpsDays Chicago, and it should be bigger and better than ever before!
