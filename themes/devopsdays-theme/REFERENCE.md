@@ -78,6 +78,7 @@ All dates are in unquoted YYYY-MM-DD, like this: `variable: 2016-01-05`, or like
 | Field Name            | Type   | Required | Description                                                                                                     | Example             |
 |-----------------------|--------|----------|-----------------------------------------------------------------------------------------------------------------|---------------------|
 | `masthead_background` | String | No       | The image, relative to `static/events/YYYY-CITY` that you want to be the background of the header on your page. | `skyline-night.jpg` |
+| `sharing_image` | String | No       | This allows you to set an image that is displayed when posting on social sites (eg: Slack, Twitter, Facebook). This image is used in the `og:image` meta tag field. This image is relative to the `static/events/YYYY-CITY/sharing` directory. It can be either .png or .jpg. Recommended size is 1200 × 630. | `sharing.jpg` |
 
 ### Location Fields
 
@@ -261,7 +262,7 @@ All pages have some common frontmatter elements that they share. These include:
 | `Title`         | Yes      | The title of the page. This is usually prepopulated for you, but it is highly recommended that you do NOT use the default titles; add some flair to set your event apart.                                                                                                                                    | "devopsdays Ponyville 2017"                                                                      |
 | `Type`          | Yes      | This is required, but is usually pre-populated. Valid types are "event", "welcome", "program", "speaker", "speakers", and "talk". The type you should use for "regular" pages is "event".                                                                                                                    | "talk"                                                                                           |
 | `aliases`       | No       | This creates aliases to the page. For example, if you want your index page to also be accessible as `/welcome` under your event, you would add the alias here.                                                                                                                                               | ["/events/2017-ponyville/welcome"]                                                               |
-| `sharing_image` | No       | This allows you to set an image that is displayed when posting on social sites (eg: Slack, Twitter, Facebook). This image is used in the `og:image` meta tag field. This image is relative to the `static/events/YYYY-CITY/sharing` directory. It can be either .png or .jpg. Recommened size is 1200 × 630. | "matt-stratton-card.jpg"                                                                         |
+| `sharing_image` | No       | This allows you to set an image that is displayed when posting on social sites (eg: Slack, Twitter, Facebook). This image is used in the `og:image` meta tag field. This image is relative to the `static/events/YYYY-CITY/sharing` directory. It can be either .png or .jpg. Recommended size is 1200 × 630. | "matt-stratton-card.jpg"                                                                         |
 
 ### Talk Page Fields
 
