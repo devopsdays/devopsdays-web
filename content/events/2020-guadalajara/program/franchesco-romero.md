@@ -6,4 +6,4 @@ Title = "A hitchhikers guide to setting up a successful DevOps journey"
 Type = "talk"
 Speakers = ["franchesco-romero"]
 +++
-Voy a hablar como de como las empresas pueden iniciar su propia iniciativa devops, cuales son las cosas de valor en las que enfocarse independientemente si son una startup o un corporate y are un breakdown de las actividades necesarias para que suceda.
+Getting DevOps right is no easy task, many companies ranging from Startups to Enterprise struggle on starting and following their DevOps initiatives. During this talk, I will break down the top components to get you started on a successful DevOps journey and move forward with your transformation.
