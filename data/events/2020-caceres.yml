@@ -150,6 +150,10 @@ sponsors:
     level: collaborators
   - id: keepcoding
     level: collaborators
+  - id: conferize
+    level: collaborators
+#  - id: unex
+#    level: collaborators
   - id: homeria
     level: bronze
   - id: aspgems
@@ -164,8 +168,8 @@ sponsors:
     level: silver
 # - id: viewnext
 #   level: silver
-# - id: sngular
-#   level: bronze
+  - id: sngular
+    level: silver
   - id: deiser
     level: silver
 #  - id: kairosds
