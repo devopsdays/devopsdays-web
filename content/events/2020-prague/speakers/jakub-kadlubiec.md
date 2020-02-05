@@ -1,8 +1,11 @@
 +++
 Title = "Jakub Kadlubiec"
-Linkedin = ""
+Linkedin = "https://www.linkedin.com/in/jkadlubiec/"
 Website = ""
-Twitter = ""
+Twitter = "jakubkad"
 type = "speaker"
+image = "jakub-kadlubiec.jpg"
 linktitle = "jakub-kadlubiec"
 +++
+
+Lead software developer at Pipedrive Prague. DDD, DevOps, agile and lean enthusiast

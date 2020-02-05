@@ -97,6 +97,9 @@ sponsors:
   - id: flowtraders
     level: silver
     url: "https://www.flowtraders.com/"
+  - id: googlecloud
+    level: silver
+    url: "https://cloud.google.com/gcp/"
   - id: showmax
     level: bronze
     url: "https://www.showmax.com/"   
@@ -106,6 +109,9 @@ sponsors:
   - id: digitalocean
     level: starter
     url: "https://www.digitalocean.com/"
+  - id: geekyants
+    level: starter
+    url: "https://geekyants.com/"    
   - id: inuits
     level: community
     url: "https://inuits.eu/"
