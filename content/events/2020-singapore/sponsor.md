@@ -4,7 +4,7 @@ Type = "event"
 Description = "Sponsor devopsdays Singapore 2020"
 +++
 
-We greatly value sponsors for this open event. If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}] or [download the prospectus](https://drive.google.com/open?id=0B07tYym-SQCFaG03WmJ3ZVFkbG8) right away.
+We greatly value sponsors for this open event. If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}] or [download the prospectus](https://drive.google.com/open?id=1qpQLC7FMU28NEKP4E-1lxPGfJdJaH_H9) right away.
 
 DevOpsDays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute the attendee contact lists.
 
@@ -24,9 +24,9 @@ Sponsoring DevOpsDays Singapore connects your company to some of the greatest te
 
 ## The Venue
 
-DevOpsDays Singapore 2020 venue TBC shortly
+DevOpsDays Singapore 2020 venue will be [Hotel Fort Canning](http://devopsdays.org/events/2020-singapore/location/) located 11 Canning Walk, Singapore 178881
 
-Many attractions are within walking distance and the location is well connected with public transport ([map](https://goo.gl/maps/6nFrCeDDUuJ2)).
+Many attractions are within walking distance and the location is well connected with public transport ([map](https://goo.gl/maps/A9HUqLBiCXJCg2Ua7)).
 
 ## Booth Space
 
