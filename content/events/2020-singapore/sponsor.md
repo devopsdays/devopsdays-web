@@ -4,14 +4,13 @@ Type = "event"
 Description = "Sponsor devopsdays Singapore 2020"
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
+We greatly value sponsors for this open event. If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}] or [download the prospectus](https://drive.google.com/open?id=0B07tYym-SQCFaG03WmJ3ZVFkbG8) right away.
 
 DevOpsDays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute the attendee contact lists.
 
 Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
 
 The best thing to do is send engineers to interact with the experts at DevOpsDays on their own terms.
-
 
 ## Why Sponsor Us
 
@@ -36,6 +35,7 @@ Gold and Platinum sponsors receive dedicated booth space at the event. Silver sp
 Large displays and oversized marketing material are not allowed in the exhibitor space. Please check with the organizers if your items fall under the restricted category. You may ship your booth materials to the venue prior to the event day.
 
 <a name="packages"></a>
+
 # SPONSORSHIP PACKAGES
 
 Our sponsorship packages are structured around how you can help be part of the conference.
@@ -44,9 +44,9 @@ Our sponsorship packages are structured around how you can help be part of the c
   <table class="table table-hover table-condensed">
     <tr>
       <th><i>Packages</i></th>
-      <th><center><b>Silver<br />TBC&nbsp;SGD</center></b></th>
-      <th><center><b>Gold<br />TBC&nbsp;SGD</center></b></th>
-      <th><center><b>Platinum<br />TBC&nbsp;SGD</center></b></th>
+      <th><center><b>Silver<br />3,000&nbsp;SGD</center></b></th>
+      <th><center><b>Gold<br />7,000&nbsp;SGD</center></b></th>
+      <th><center><b>Platinum<br />15,000&nbsp;SGD</center></b></th>
     </tr>
     <tr>
       <td># available</td>
@@ -54,7 +54,7 @@ Our sponsorship packages are structured around how you can help be part of the c
         <strong>unlimited</strong>
       </td>
       <td style="text-align: center">
-        <strong>10</strong>
+        <strong>8</strong>
         <!--
         <span style="color: red">SOLD OUT</a>
         -->
@@ -80,9 +80,9 @@ Our sponsorship packages are structured around how you can help be part of the c
     </tr>
     <tr>
       <td>Complimentary attendee tickets (workshops not included*)</td>
-      <td><center><strong>2</strong></center></td>
       <td><center><strong>3</strong></center></td>
       <td><center><strong>6</strong></center></td>
+      <td><center><strong>12</strong></center></td>
     </tr>
     <tr>
       <td>Logo on shared slide, rotating during breaks</td>
@@ -137,11 +137,12 @@ Our sponsorship packages are structured around how you can help be part of the c
 
 ## THE SMALL PRINT
 
-WE CANNOT RELEASE ATTENDEE INFORMATION; SIZE & PLACEMENT OF LOGOS VARY ACCORDING TO SPONSORSHIP; PLEASE PROVIDE US WITH A VECTOR / HIGH RESOLUTION LOGO FOR THE PRINT PROGRAM. ALL EXCLUDING <a href="https://en.wikipedia.org/wiki/Goods_and_Services_Tax_Singapore" target="_blank">GST</a>.
+WE CANNOT RELEASE ATTENDEE INFORMATION; SIZE & PLACEMENT OF LOGOS VARY ACCORDING TO SPONSORSHIP; PLEASE PROVIDE US WITH A VECTOR / HIGH RESOLUTION LOGO FOR THE PRINT PROGRAM.
 
 TO ALLOW US SUFFICIENT TIME TO PREPARE FOR AND ORGANISE THE MARKETING AND OTHER RELEVANT ACTIVITIES, PLEASE PROVIDE IN A TIMELY MANNER YOUR LOGO AND OTHER RELEVANT MATERIALS OR INFORMATION REQUIRED FOR SUCH PURPOSES.
 
 <a name="faq"></a>
+
 ## Sponsor FAQ
 
 ### How big is our booth space?

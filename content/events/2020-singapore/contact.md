@@ -6,7 +6,7 @@ Description = "Contact information for devopsdays Singapore 2020"
 
 ## Important addresses
 
-* Email address for organizers: {{< email_organizers >}}
+* If you'd like to contact us by email:  {{< email_organizers >}}
 * Singapore Emergency Contact list: [https://www.gov.sg/being-prepared/home/](https://www.gov.sg/being-prepared/home/)
 * Local law enforcement: Singapore Police Force - call 999
 * Sexual assault hotline: 1800 774 5935
@@ -18,6 +18,4 @@ Big THANK YOU to [Wenshu Kwek](https://twitter.com/wenshukwek) for designing the
 **Our local team**
 
 {{< list_organizers >}}
-
-{{< list_core >}}
 
