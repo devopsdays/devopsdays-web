@@ -12,7 +12,7 @@
   <meta itemprop="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ end }}{{ end }}">
 {{- end -}}
 <meta name="twitter:site" content="@devopsdays">
-<meta property="og:type" content="{{ if .Params.type }}{{ .Params.type }}{{ else }}website{{ end }}" />
+<meta property="og:type" content="website" />
 <meta property="og:url" content="{{ .Permalink | absURL }}" />
 {{- if or (eq .Type "welcome") (eq .Type "event") (eq .Type "speaker") (eq .Type "speakers") (eq .Type "talk") (eq .Type "program") -}}
   {{- $e := (index $.Site.Data.events (index (split (.Permalink | relURL) "/") 2)) -}}
