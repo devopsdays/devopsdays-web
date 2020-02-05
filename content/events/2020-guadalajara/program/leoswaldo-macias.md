@@ -6,3 +6,4 @@ Title = "Protecting your App in the Cloud"
 Type = "talk"
 Speakers = ["leoswaldo-macias"]
 +++
+An express talk about the requirements that applications should have in place in the cloud in order protect your application infrastructure from attacks as well as to trace and mitigate impacts.
