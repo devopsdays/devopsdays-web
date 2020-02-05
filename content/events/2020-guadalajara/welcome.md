@@ -84,6 +84,16 @@ Description = "devopsdays Guadalajara 2020"
         <div class="p-2">
           <a
             class="btn btn-secondary btn-block"
+            href="/events/2020-guadalajara/program"
+            style="background-color:#329cae; border-color:#72c1cd" onMouseOver="this.style.backgroundColor='#23738e'"
+            onMouseOut="this.style.backgroundColor='#329cae'"
+          >
+            <i class="fa fa-calendar fa-lg"></i>&nbsp;&nbsp;&nbsp;Check The Program
+          </a>
+        </div>
+        <div class="p-2">
+          <a
+            class="btn btn-secondary btn-block"
             href="/events/2020-guadalajara/sponsor"
             style="background-color:#329cae; border-color:#72c1cd" onMouseOver="this.style.backgroundColor='#23738e'"
             onMouseOut="this.style.backgroundColor='#329cae'"
