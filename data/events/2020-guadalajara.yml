@@ -173,7 +173,7 @@ program:
     date: "2020-02-20"
     start_time: "09:00"
     end_time: "09:15"
-  - title: "liz-fong-jones"
+  - title: "mike-rosado"
     type: talk
     date: "2020-02-20"
     start_time: "09:15"
@@ -279,7 +279,7 @@ program:
     date: "2020-02-21"
     start_time: "09:00"
     end_time: "09:15"
-  - title: "mike-rosado"
+  - title: "liz-fong-jones"
     type: talk
     date: "2020-02-21"
     start_time: "09:15"
@@ -329,7 +329,7 @@ program:
     date: "2020-02-21"
     start_time: "14:00"
     end_time: "14:30"
-  - title: "Open Space"
+  - title: "Open Space Openning"
     type: open-space
     date: "2020-02-21"
     start_time: "14:30"
