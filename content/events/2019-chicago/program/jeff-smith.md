@@ -7,6 +7,7 @@ Type = "talk"
 Speakers = ["jeff-smith"]
 speakerdeck = "https://speakerdeck.com/devopsdayschi/ethics-in-computing-when-right-and-wrong-stop-being-obvious-jeff-smith-devopsdays-chicago-2019"
 youtube = "kv2c8iAmfP0"
+sharing_image = "jeff-smith.png"
 +++
 
 Ethics in computing sounds like a fairly straight forward proposition at first glance. But when you begin to peel back the complicated layers at which technology and its implementation converge, its anything but simple. In this talk we'll discuss some of the ethical and morale frameworks that we can apply to the computing industry. As we do that we'll discuss and ask ourselves the questions
