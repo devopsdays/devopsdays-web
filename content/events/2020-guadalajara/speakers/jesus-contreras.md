@@ -1,9 +1,9 @@
 +++
-Title = "Jesus Humberto"
+Title = "Jesús Contreras"
 LinkedIn = "https://www.linkedin.com/in/jesus-humberto-contreras-rancurello-23186b2a"
-image = "jesus-humberto.jpg"
+image = "jesus-contreras.jpg"
 type = "speaker"
-linktitle = "jesus-humberto"
+linktitle = "jesus-contreras"
 
 +++
 
