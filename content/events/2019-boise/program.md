@@ -161,7 +161,7 @@ div.program-element {
   <div class = "col-md-2">
   <div class = "program-element program-talk">
   Chaos Engineering: Breaking Your Systems to make them Unbreakable<br>
-  <small>Jason Yee, DataDog</small>
+  <small>Jason Yee, Datadog</small>
   </div>
   </div>
   <div class = "col-md-2">
