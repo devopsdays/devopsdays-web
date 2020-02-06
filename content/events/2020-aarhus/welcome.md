@@ -6,6 +6,9 @@ Description = "devopsdays aarhus 2020"
 +++
 
 <div style="text-align:center;">
+  DevOpsDays is about learning from each other and sharing our stories. We'd love to hear your story at DevOpsDays Aarhus 2020. <br />
+  {{< event_link page="propose" text="Send us your pitch!" >}}<br />
+
   {{< event_logo >}}
 </div>
 
@@ -37,14 +40,14 @@ Description = "devopsdays aarhus 2020"
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
