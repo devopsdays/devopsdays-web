@@ -4,8 +4,10 @@ Type = "event"
 Description = "Propose a talk for devopsdays aarhus 2020"
 +++
   {{< cfp_dates >}}
-
-The CFP is open and we look forward to seeing your proposals.
+<hr>
+The CFP is open and we look forward to seeing your proposals.<br />
+You can find the CFP at <a href="https://www.papercall.io/devopsdaysaarhus-2020">Papercall</a>. <br />
+If you have any questions do not hesitate to <a href="mailto:aarhus@devopsdays.org?subject=Speaking%20at%20DevOpsDays%20Aarhus%202020">send us an email</a>.
 <hr>
 
 There are three ways to propose a topic at devopsdays:
