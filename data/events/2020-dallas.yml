@@ -74,7 +74,7 @@ team_members: # Name is the only required field for team members.
 
   - name: "Jessica Sabugo"
     employer: "Estech Systems, Inc. (ESI)"
-    bio: "Jessica is an automation engineer. She has a deep interest in the DevOps culture and she keeps continuously learning. Her dream is to travel all over the world. She is currently leading the automation and QA team, trying to get help her team get involved in the DevOps world."
+    bio: "Jessica is an automation engineer. She has a deep interest in the DevOps culture and she keeps continuously learning. Her dream is to travel all over the world. She is currently leading the automation and QA team, trying to help her team get involved in the DevOps world."
     twitter: "jessica_sabugo"
     linkedin: "https://www.linkedin.com/in/jessica-sabugo-581ab658/"
     image: "jessica-sabugo.jpg"
