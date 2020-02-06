@@ -109,6 +109,8 @@ sponsors:
     level: platinum
   - id: experis
     level: platinum
+  - id: vmware
+    level: platinum
   - id: wizeline
     level: gold
   - id: iteso-university
@@ -116,6 +118,10 @@ sponsors:
   - id: startup-gdl
     level: gold
   - id: gitlab
+    level: gold
+  - id: terminal
+    level: gold
+  - id: brightcove
     level: gold
   - id: linux-professional-institute
     level: silver
