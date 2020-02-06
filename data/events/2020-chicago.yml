@@ -37,7 +37,7 @@ location_address: "725 West Roosevelt Road, Chicago, Illinois 60608" #Optional -
 
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
   - name: location
  # - name: registration
  # - name: program
