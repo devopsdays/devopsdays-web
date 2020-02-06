@@ -125,7 +125,7 @@ program:
     date: 2020-02-27
     start_time: "10:30"
     end_time: "10:50"
-  - title: "julie-gunderson"
+  - title: "jeremy-hayes"
     type: talk
     date: 2020-02-27
     start_time: "10:50"
@@ -245,7 +245,7 @@ program:
     date: 2020-02-28
     start_time: "12:15"
     end_time: "13:00"
-  - title: "jeremy-hayes"
+  - title: "julie-gunderson"
     type: talk
     date: 2020-02-28
     start_time: "13:00"
