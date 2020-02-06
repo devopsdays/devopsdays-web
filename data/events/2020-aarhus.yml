@@ -95,7 +95,7 @@ proposal_email: "aarhus@devopsdays.org" # Put your proposal email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: praqma
+  - id: eficode-praqma
     level: gold
 
 
