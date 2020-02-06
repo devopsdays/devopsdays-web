@@ -37,7 +37,7 @@ location_address: Østergade 10, Arhus, 8000, Denmark
 
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-#  - name: propose
+  - name: propose
   - name: location
   - name: registration
   - name: program
@@ -95,7 +95,7 @@ proposal_email: "aarhus@devopsdays.org" # Put your proposal email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: praqma
+  - id: eficode-praqma
     level: gold
 
 
