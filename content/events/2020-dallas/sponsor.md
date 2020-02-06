@@ -44,7 +44,7 @@ Please email the organizers at <a href="mailto:dallas@devopsdays.org?subject=Gen
       <td colspan="2"></td>
       <td colspan="5">
       <!-- Note: PayPal payments include 3% service charge. -->
-      <a href="mailto:dallas@devopsdays.org?subject=DevOpsDays%20Dallas%202020%20Sponsorship">Email us</a> if you prefer to pay by check
+      <strong><a href="mailto:dallas@devopsdays.org?subject=DevOpsDays%20Dallas%202020%20Sponsorship">Email us</a> if you prefer to pay by check.</strong>
       </td>
     </tr>
     <tr>
