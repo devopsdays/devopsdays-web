@@ -122,7 +122,7 @@ Please email the organizers at <a href="mailto:dallas@devopsdays.org?subject=Gen
       <td colspan="2">Pitch to full audience, including streaming audience <br>(provided we are able to stream the videos)</td>
       <td><strong><img src = "/events/2020-dallas/half-boot.png"><strong><br>1-minute</strong></td>
       <td><img src = "/events/2020-dallas/half-boot.png"><strong><br>1-minute</strong></td>
-      <td><img src = "/events/2020-dallas/half-boot.png"></td>
+      <td></td>
     </tr>
     <tr>
       <td colspan="2">20% Discount code provided to share with your client community</td>
