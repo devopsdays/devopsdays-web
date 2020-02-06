@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Maintenant que mon delivery pipeline est en place, que faire de mon organisation?"
 Type = "talk"
-Speakers = ["joseph-glorieux"]
+Speakers = ["joseph-glorieux","mathieu-brun"]
 +++
 
 On réduit souvent DevOps au déploiement d’outils permettant le provisionning automatique de l’infrastructure et le déploiement rapide de nouvelles fonctionnalités. Cependant, ces nouvelles possibilités, couplées à l’introduction de nouvelles pratiques comme l’IaC, permettent de donner de l’ampleur à notre transformation DevOps.
