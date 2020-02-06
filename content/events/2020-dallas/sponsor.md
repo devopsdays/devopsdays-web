@@ -112,7 +112,7 @@ Please email the organizers at <a href="mailto:dallas@devopsdays.org?subject=Gen
       <td colspan="2">Dedicated table for swag/marketing/staffing</td>
       <td><img src = "/events/2020-dallas/boot.png"></td>
       <td><img src = "/events/2020-dallas/boot.png"></td>
-      <td><img src = "/events/2020-dallas/half-boot.png"></td>
+      <td><img src = "/events/2020-dallas/half-boot.png"><br><strong>shared</strong></td>
     </tr>
     <tr>
       <td colspan="2">Logo on a slide, rotating during breaks</td>
@@ -123,7 +123,7 @@ Please email the organizers at <a href="mailto:dallas@devopsdays.org?subject=Gen
       <td colspan="2">Pitch to full audience, including streaming audience <br>(provided we are able to stream the videos)</td>
       <td><strong><img src = "/events/2020-dallas/half-boot.png"><strong><br>1-minute</strong></td>
       <td><img src = "/events/2020-dallas/half-boot.png"><strong><br>1-minute</strong></td>
-      <td><img src = "/events/2020-dallas/half-boot.png"><strong><br>1-minute</strong></td>
+      <td><img src = "/events/2020-dallas/half-boot.png"></td>
     </tr>
     <tr>
       <td colspan="2">20% Discount code provided to share with your client community</td>
