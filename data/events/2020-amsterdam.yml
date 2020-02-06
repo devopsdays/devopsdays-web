@@ -86,6 +86,8 @@ sponsors:
   # beer
   # Pre-event
   # coffee
+  - id: sentia
+    level: coffee
   # t-shirt
   - id: fullstaq
     level: t-shirt
