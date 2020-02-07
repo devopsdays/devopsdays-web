@@ -132,6 +132,10 @@ sponsors:
     level: gold
   - id: pulumi
     level: silver
+  - id: dynatrace
+    level: gold
+  - id: catchpoint
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
