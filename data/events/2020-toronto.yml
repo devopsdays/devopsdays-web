@@ -78,6 +78,10 @@ sponsors:
     level: gold
   - id: shuttleops
     level: gold
+  - id: sps_commerce
+    level: gold
+  - id: sps_commerce
+    level: lanyard
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
