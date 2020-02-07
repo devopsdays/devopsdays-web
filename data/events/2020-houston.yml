@@ -155,7 +155,8 @@ sponsors:
     level: community
   - id: solarwinds
     level: platinum
-  
+  - id: 42lines
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
