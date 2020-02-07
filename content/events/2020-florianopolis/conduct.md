@@ -1,7 +1,7 @@
 +++
 Title = "Código de Conduta"
 Type = "event"
-Description = "Code of conduct for devopsdays Florianópolis 2019"
+Description = "Code of conduct for devopsdays Florianópolis 2020"
 +++
 
 <div class = "row">
