@@ -10,7 +10,7 @@ Description = "Sponsor devopsdays São Paulo 2020"
 <br />
 <br />
 <b>
-Valorizamos muito a importância dos patrocinadores para este evento. Se você está interessado em patrocinar, leia abaixo sobre as nossas cotas ou em nosso nosso prospecto <a href="">EM BREVE!</a>. Se tiver alguma dúvida, esclarecimento ou sugestão, envie um email para [{{< email_organizers >}}].
+Valorizamos muito a importância dos patrocinadores para este evento. Se você está interessado em patrocinar, leia abaixo sobre as nossas cotas ou em nosso nosso prospecto <a href="">https://drive.google.com/file/d/1AB8a3e44zTVIcZliB44xF7gnK9945M_p/view?usp=sharing</a>. Se tiver alguma dúvida, esclarecimento ou sugestão, envie um email para [{{< email_organizers >}}].
 </b>
 
 <hr>
