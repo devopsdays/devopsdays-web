@@ -1,8 +1,8 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
-Title = " Did we reinvent the wheel? Why we eschewed existing infrastructure as code and CI/CD tools"
+Talk_date = "2020-04-14"
+Talk_start_time = "11:30"
+Talk_end_time = "12:00"
+Title = "Did we reinvent the wheel? Why we eschewed existing infrastructure as code and CI/CD tools"
 Type = "talk"
 Speakers = ["bella-guo"]
 +++

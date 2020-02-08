@@ -1,7 +1,7 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_date = "2020-04-14"
+Talk_start_time = "10:05"
+Talk_end_time = "10:35"
 Title = "Long Distance DevOps"
 Type = "talk"
 Speakers = ["pauly-comtois"]

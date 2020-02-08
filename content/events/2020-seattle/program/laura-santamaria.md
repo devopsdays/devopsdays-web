@@ -1,7 +1,7 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_date = "2020-04-14"
+Talk_start_time = "10:50"
+Talk_end_time = "11:20"
 Title = "Logging is a Team Sport: How to Work within Your Org to Log Well"
 Type = "talk"
 Speakers = ["laura-santamaria"]
