@@ -110,10 +110,12 @@ sponsors:
     level: gold
   - id: appdynamics
     level: gold
-  - id: sensu
-    level: gold
   - id: safesoftware
     level: streaming
+  - id: hootsuite
+    level: silver
+  - id: elastic
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
