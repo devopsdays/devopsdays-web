@@ -1,6 +1,6 @@
 +++
 Talk_date = "2020-04-14"
-Talk_start_time = "13:10 "
+Talk_start_time = "13:10"
 Talk_end_time = "13:40"
 Title = "The Universe is Infinite, But We Are Not: The Unsupportable Futility of “Trying Harder”"
 Type = "talk"

@@ -1,7 +1,7 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_date = "2020-04-14"
+Talk_start_time = "14:50"
+Talk_end_time = "15:30"
 Title = "Argue Better with Active Listening"
 Type = "talk"
 Speakers = ["waldo-g"]
