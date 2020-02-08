@@ -12,10 +12,10 @@ masthead_background: "seattle-skyline.jpg"
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2020-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 startdate: 2020-04-14T00:00:00-07:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  2020-04-15T23:59:59-07:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2020-04-15T23:59:59-07:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  2019-10-15T00:00:00-07:00 # start accepting talk proposals.
+cfp_date_start: 2019-10-15T00:00:00-07:00 # start accepting talk proposals.
 cfp_date_end: 2020-01-06T23:59:59-07:00 # close your call for proposals.
 cfp_date_announce: 2020-02-01T23:59:59-07:00 # inform proposers of status
 
@@ -35,11 +35,11 @@ location: "Conference Center at Washington State Convention Center." # Defaults 
 location_address: "705 Pike St, Seattle, WA 98101" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+  #  - name: propose
   - name: location
   - name: registration
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -47,19 +47,19 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
 
-
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Alina Anderson"
     twitter: "justmealina"
     image: "alina-anderson.jpg"
   - name: "Amanda Edades"
-  - name: "Anna Yates" 
+  - name: "Anna Yates"
     image: "anna-yates.jpg"
   - name: "Craig Barrett"
     twitter: "ctbarrett"
     image: "craig-barrett.jpg"
   - name: "Dave Nash"
+    twitter: dave_nash
   - name: "Dawn Parzych"
     twitter: "dparzych"
     image: "dawn-parzych.jpg"
@@ -94,10 +94,10 @@ team_members: # Name is the only required field for team members.
     image: "rob-cummings.jpg"
   - name: "Sarah Shewell"
     twitter: "sarah_shewell"
-    image: "sarah-shewell.jpg"  
+    image: "sarah-shewell.jpg"
   - name: "Saransh Lamba"
     twitter: "saranshlamba"
-    image: "saransh-lamba.jpg" 
+    image: "saransh-lamba.jpg"
   - name: "Todd Seesz"
     twitter: "toddseesz"
     image: "todd-seesz.jpg"
@@ -107,11 +107,11 @@ proposal_email: "seattle@devopsdays.org" # Put your proposal email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-#  - id: samplesponsorname
-#    level: gold
-#  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-# - id: arresteddevops
-#  level: community
+  #  - id: samplesponsorname
+  #    level: gold
+  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  # - id: arresteddevops
+  #  level: community
   - id: launch-darkly
     level: gold
   - id: influxdata
@@ -121,7 +121,7 @@ sponsors:
   - id: timescale
     level: gold
   - id: salesforce
-    level: gold    
+    level: gold
   - id: instana
     level: gold
   - id: skykick
@@ -137,7 +137,7 @@ sponsors:
   - id: catchpoint
     level: gold
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -146,7 +146,7 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Gold
-#    max: 10
+  #    max: 10
   - id: silver
     label: Silver
     max: 0 # This is the same as omitting the max limit.
