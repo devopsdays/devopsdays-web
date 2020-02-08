@@ -5,15 +5,15 @@ aliases = ["/events/2020-vancouver/"]
 Description = "devopsdays Vancouver 2020"
 +++
 
+<div style="text-align:center;">
+  {{< event_logo >}}
+</div>
+
 <strong>
   Email us at: <a href="mailto:vancouver@devopsdays.org?subject=devopsdays Vancouver">vancouver@devopsdays.org</a>
 </strong>
 <br/>
 {{< event_twitter >}}
-
-<!-- <div style="text-align:center;">
-  {{< event_logo >}}
-</div> -->
 
 <div class = "row">
   <div class = "col-md-2">
