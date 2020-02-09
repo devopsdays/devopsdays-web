@@ -5,11 +5,11 @@ aliases = ["/events/2020-dallas/"]
 Description = "devopsdays Dallas 2020"
 +++
 
-<!-- <div style="text-align:left;">
+<div style="text-align:center;" style="max-width:120%;">
   {{< event_logo >}}
-</div> -->
+</div> 
 <br>
-<h5>The same group of seasoned organizers that brought you DevOpsDays DFW several years in a row will be back again another year in 2020 planning what they believe will be an even more awesome event. They were encouraged and motivated by the feedback received from previous year's events, which is why they are determined to bring an even better experience this year and improve the DevOps conversation throughout the DFW Metroplex.</h5>
+<h5>The same group of seasoned organizers that brought you DevOpsDays DFW several years in a row are back again another year in 2020 to celebrate our 5th Anniversary. We were encouraged and motivated by the feedback received from previous year's events, which is why they are determined to bring an even better experience this year and improve the DevOps conversation throughout the DFW Metroplex.</h5>
 <br>
 <div class = "row">
   <div class = "col-md-2">
@@ -27,14 +27,14 @@ Description = "devopsdays Dallas 2020"
     {{< event_location >}}
   </div>
 </div>
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="registration" text="Register to attend the conference!" >}}
   </div>
-</div> -->
+</div> 
 <!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
