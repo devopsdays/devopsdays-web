@@ -26,7 +26,7 @@ registration_date_end: "2020-04-14T00:00:00-05:00" # close registration. Leave b
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://www.eventbrite.com/e/devopsdays-houston-2020-tickets-71596353621" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
-
+sharing_image: "sharing.jpg"
 # Location
 #
 coordinates: "29.780910, -95.560937" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
@@ -39,11 +39,12 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     url: "https://www.papercall.io/devopsdayshouston2020"
   - name: location
   - name: registration
- # - name: program
- # - name: speakers
+# - name: program
+#  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
+  - name: faq
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -137,9 +138,27 @@ sponsors:
     level: gold
   - id: datadog
     level: gold
+  - id: microsoft
+    level: platinum
+  - id: flightaware
+    level: bronze
+  - id: arundo
+    level: corporate
+  - id: improving  
+    level: gold
+  - id: corva
+    level: corporate
+  - id: mongodb
+    level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
+  - id: solarwinds
+    level: platinum
+  - id: 42lines
+    level: gold
+  - id: decisiohealth
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -164,3 +183,4 @@ sponsor_levels:
     label: Corporate 
   - id: community
     label: Community
+

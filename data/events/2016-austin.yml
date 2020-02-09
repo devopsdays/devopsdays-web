@@ -63,7 +63,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: sumologic-before-20181203
     level: gold
-  - id: solarwinds
+  - id: solarwinds-before-20200114
     level: gold
   - id: gcp
     level: gold

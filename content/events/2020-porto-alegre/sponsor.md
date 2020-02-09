@@ -8,11 +8,19 @@ We greatly value sponsors for this open event.  If you are interested in sponsor
 
 <hr>
 
-devopsdays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
+Devopsdays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
 <p>
-Gold sponsors get a full table and Silver sponsors a shared table where they can interact with those interested to come visit during breaks. All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
+Platinum sponsors get a full table and Gold sponsors a shared table where they can interact with those interested to come visit during breaks. All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
 <p>
 The best thing to do is send engineers to interact with the experts at devopsdays on their own terms.
+
+We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at {{< email_organizers >}}. You can download a copy of the <a href="https://docs.google.com/presentation/d/1h3gP3IQy_PMuz6pG9N6lHupRdwpscqIj8JBvLw44uKg/export/pdf" target="_blank">prospectus</a> in pt-br or <a href="https://docs.google.com/presentation/d/1o3EqLowyVWzXRh5guh5ai35AbhhwRqCNtrQO07OD_Gs/export/pdf" target="_blank">prospectus</a> in en-us.
+
+<div style="position: relative; overflow: hidden; padding-top: 56.25%;">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTucz8wH7MASWCmWdZE6Szp87eNOhxMQ1ZC1BLj7hWlEfCJkRDoNCM0ZkOcBkIlAw/embed?start=false&loop=false&delayms=15000" frameborder="0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
+
+
 <p>
 
 <!--

@@ -6,8 +6,17 @@ Description = "devopsdays Atlanta 2020"
 +++
 
 <div style="text-align:center;">
+<h1>The "Just" Basics.</h1>
+with keynotes from <a href="https://twitter.com/catswetel">Cat Swetel</a> &amp; <a href="https://twitter.com/coderinheels">Gen Ashley</a>
+<br/><br/>
+<strong>Epistemic justification</strong>, a concept related to <strong>observability</strong>, aims to help us know when our beliefs are justified. 
+<br/><br/>
+<strong>What's a basic introduction to devOps in 2020? Is our introduction justified?</strong>
+<br/><br/>
+<a href="https://medium.com/@cacorriere/devopsdays-atlanta-2020-the-just-basics-8b1068873a7a?source=friends_link&sk=a23c4b04437818132149f2ef6d6677e4">Read more about our theme here!</a>
+<br/><br/>
   {{< event_logo >}}
-  <h1>The Just Basics.</h1>
+  
 
 </div> 
 

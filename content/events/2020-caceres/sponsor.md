@@ -1,7 +1,7 @@
 +++
 Title = "Sponsor"
 Type = "event"
-Description = "Sponsor devopsdays Caceres 2020"
+Description = "Sponsor devopsdays Cáceres 2020"
 +++
 
 <hr>
@@ -29,9 +29,7 @@ Description = "Sponsor devopsdays Caceres 2020"
           Increase awareness of you brand with decision makers and practitioners at organisations large and small.
         </li>
       </ul>
-
       <h2>Sponsors benefits</h2>
-
       <div class="table-responsive">
           <table class="table table-bordered table-hover table-responsive-md" style="font-size: 0.8em;">
             <thead class="thead-light">

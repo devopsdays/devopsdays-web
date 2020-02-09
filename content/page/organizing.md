@@ -43,7 +43,7 @@ We prefer the city name for the actual email and site. Wider regional terms are 
 
 It's fine if you just list the organizers, the city, and say "coming soon". You don't need to have selected the date and venue yet; however, we won't merge a PR with dates unless it also has a venue listed. You also do not need to open registration or open the CFP right away.
 
-The [devopsdays code of conduct](/conduct) is based on the one from the [Geek Feminism Wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy) as well additions by Andrew Clay Shafer for [devopsdaysPGH 2014](/events/2014-pittsburgh/conduct/). You will need to have a code of conduct before your initial pull request will be merged.
+The [devopsdays code of conduct](/conduct) for the overall organization is based on the template from [Conference Code of Conduct](https://confcodeofconduct.com/). You will need to have a code of conduct for each event before your initial pull request will be merged; you can use or adapt [the provided template](https://github.com/devopsdays/devopsdays-web/blob/master/utilities/examples/content/events/yyyy-city/conduct.md) as desired. (You can add local numbers, email addresses, and contacts as needed.)
 
 We'll set up the `cityname@devopsdays.org` mail alias for your team. This will let you have a standard email listed as a public-facing organizer point of contact. All organizers on your team need to be on this alias individually, and the global core team is also on this email alias. It's fine to use other email lists, chat programs, and other tools for your internal coordination and outgoing announcements, but we require that your event's published `organizer_email:` field be set to this for consistency and problem prevention.
 
@@ -187,7 +187,7 @@ If you have some legal entity created for the event, have the details at hand (l
 
 ---
 
-## Designing a local event's devopsdays logo
+## Designing a local event devopsdays logo
 
 The devopsdays logo with the gears in the brain has become recognizable for the overall devopsdays brand. For each individual devopsdays event you can take elements from the devopsdays brand logo. This is optional, but recommended. The goal should be to design something that denotes your city specifically.
 
@@ -438,6 +438,13 @@ Keep in mind that you want your design to be appealing on a wide range of humans
 If you're ordering shirts a few weeks before your event, consider padding the counts by up to 30% of each size/style. Having a few extra shirts is way better than anyone going home sad.
 
 You may also want to order stickers or other items. Give yourself plenty of lead time.
+
+### Swag vendor recommendations
+Below are some *personal* vendor recommendations based on good past experience.
+
+**T-shirts, hats, jackets etc.**: https://www.lock-promo.com/. Good quality, reliable delivery, very affordable. Used in: Chicago, Seattle 
+
+**Stickers and other printed materials**: https://www.minutemanpress.com/. Good quality, affordable pricing, VERY quick turnaround. Used in: Chicago, Seattle 
 
 ---
 

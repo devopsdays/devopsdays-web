@@ -69,7 +69,7 @@ organizer_email: "charlotte@devopsdays.org" # Put your organizer email address h
 sponsors:
   - id: red-ventures
     level: gold
-  - id: f5
+  - id: f5-nginx
     level: gold
   - id: launch-darkly
     level: gold
@@ -77,7 +77,33 @@ sponsors:
     level: gold
   - id: influxdata
     level: gold
+  - id: appdynamics
+    level: gold
+  - id: gitlab
+    level: gold
+  - id: instana
+    level: gold
+  - id: newrelic
+    level: gold
+  - id: site24x7
+    level: gold
+  - id: sonatype
+    level: gold
+  - id: paloaltonetworks
+    level: gold
+  - id: mattermost
+    level: gold
+  - id: hcl
+    level: silver
+  - id: delphix
+    level: silver
+  - id: rancher
+    level: silver
+  - id: eliassen-group
+    level: silver
   - id: arresteddevops
+    level: community
+  - id: manning
     level: community
 #  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 

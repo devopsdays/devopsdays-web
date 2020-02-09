@@ -10,7 +10,6 @@ Description = "Sponsor DevopsDays Madrid 2020"
       <div>
       <h3>Join the community</h3>
 <p>DevOpsDays Madrid is run as a single track of curated talks in the morning and in the afternoon. As a sponsor of DevOpsDays Madrid you are encouraged to participate in the event. We want you to attend the talks - We want you to get involved!</p>
-
       </div>
       <h3>Sponsorship Packages</h3>
       <div class="table-responsive">
@@ -35,6 +34,21 @@ Description = "Sponsor DevopsDays Madrid 2020"
           </tr>
         </thead>
         <tbody>
+          <tr>
+            <th scope="row">Max</th>
+            <td>
+              <center>&nbsp;</center>
+            </td>
+            <td>
+              <center>10</center>
+            </td>
+            <td>
+              <center>5</center>
+            </td>
+            <td>
+              <center>5</center>
+            </td>
+          </tr>
           <tr>
             <th scope="row">Pricing</th>
             <td>
@@ -113,15 +127,11 @@ Description = "Sponsor DevopsDays Madrid 2020"
         </tbody>
       </table>
 <div>
-
 <p>Sponsoring DevOpsDays Madrid will expose your brand to practitioners, managers, and executives
 from companies of all sizes and industries including retail, banking, manufacturing, medical technology,
 education, government, and consulting.</p>
-
 <p>If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].</p>
-
 <p>To ensure that your logo is included on our banners during the event we have a deadline for payment of the 31st of November 2019 for your sponsorship</p>
-
 <p>Location: DevOpsDays Madrid will be held at the CEU San Pablo Monteprincipe University.</p>
 </div>
     </div>

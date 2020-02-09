@@ -2,6 +2,7 @@
 Title = "When will DevOps die?"
 Type = "talk"
 Speakers = ["yair-etziony"]
+slides = "https://drive.google.com/open?id=1VzjMWRxniAUk-EUsKkrqN2JrgRuYPpSR"
 +++
 I would like to ask, what would be the future of DevOps as a movement and practice following specific trends I sense in our scene. I would argue that DevOps is on its way to oblivion For that, I would use theory from Water Benjamin, a Berliner thinker who lived in the early 20th century.
 

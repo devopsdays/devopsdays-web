@@ -5,15 +5,15 @@ aliases = ["/events/2020-vancouver/"]
 Description = "devopsdays Vancouver 2020"
 +++
 
+<div style="text-align:center;">
+  {{< event_logo >}}
+</div>
+
 <strong>
   Email us at: <a href="mailto:vancouver@devopsdays.org?subject=devopsdays Vancouver">vancouver@devopsdays.org</a>
 </strong>
 <br/>
 {{< event_twitter >}}
-
-<!-- <div style="text-align:center;">
-  {{< event_logo >}}
-</div> -->
 
 <div class = "row">
   <div class = "col-md-2">
@@ -38,7 +38,7 @@ Description = "devopsdays Vancouver 2020"
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    <a href="https://www.eventbrite.ca/e/86086255307">Register to attend the conference!</a>
+    <a href="https://www.eventbrite.ca/e/86086255307">Register to attend the conference!</a> Payment accepted via both PayPal or credit card through PayPal.
   </div>
 </div>
 
@@ -47,7 +47,7 @@ Description = "devopsdays Vancouver 2020"
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    <a href="https://www.papercall.io/devopsdays-vancouver-2020">Propose a talk!</a>
+    <a href="https://www.papercall.io/devopsdays-vancouver-2020">Accepting talk proposals until: February 15, 2020</a>
   </div>
 </div>
 

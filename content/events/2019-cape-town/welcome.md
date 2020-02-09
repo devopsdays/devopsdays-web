@@ -14,7 +14,6 @@ Description = "DevOpsDays Cape Town 2019 will take place September 5-6, 2019!"
     We expect 200-300 people this year and will be holding the event on September 5-6, 2019 at the <a href="/events/2019-cape-town/location">Hilton Doubletree</a> in Woodstock, Cape Town.
     <br><br>
     The format of DevOpsDays Cape Town includes a single track of 45 minute talks in the morning of each event, followed by shorter talks (5-15 minutes). We spend the rest of the afternoon in Open Spaces, which are considered a key portion of the event.
-
     <div class = "row"><!-- begin a content element -->
       <div class = "col-md-12">
         <div class = "row justify-content-center">
@@ -55,7 +54,6 @@ Description = "DevOpsDays Cape Town 2019 will take place September 5-6, 2019!"
         </div>
       </div>
     </div><!-- end a content element -->
-
     <div class = "row">
       <div class = "col-12">
         <img src = "/events/2019-cape-town/logo.png" class = "img-fluid">
