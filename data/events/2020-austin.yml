@@ -224,6 +224,10 @@ sponsors:
     level: gold
   - id: appdynamics
     level: gold
+  - id: 42lines
+    level: gold
+  - id: lightstep
+    level: gold
 
 sponsors_accepted : "true" # Whether you want "Become a XXX Sponsor!" link
 
