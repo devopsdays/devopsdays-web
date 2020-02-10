@@ -2,7 +2,7 @@
 title = "Thiago Finardi" 
 Twitter = "" 
 linkedin = "" 
-image = "thiago-finardi.png" 
+image = "thiago-finardi.jpg" 
 type = "speaker" 
 linktitle = "thiago-finardi" 
 +++ 
