@@ -27,6 +27,8 @@ registration_closed: "" #set this to true if you need to manually close registra
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 masthead_background: "skyline-night.jpg"
+sharing_image: "sharing.png"
+
 
 # Location
 #
