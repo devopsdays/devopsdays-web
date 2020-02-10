@@ -139,10 +139,10 @@ sponsor_levels:
     label: Platina
 #    max: 10  
   - id: gold
-    label: OURO
+    label: Ouro
 #    max: 10
   - id: silver
-    label: PRATA
+    label: Prata
     max: 0 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
