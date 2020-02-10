@@ -144,7 +144,7 @@ sponsors:
     level: silver
   - id: vmware
     level: silver
-  - id: sysdig
+  - id: sysdig-before-20200210
     level: bronze
   - id: macstadium
     level: bronze
