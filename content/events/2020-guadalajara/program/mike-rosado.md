@@ -6,8 +6,8 @@ Title = "La Historia de DevOps Y Cambios Estructurales"
 Type = "talk"
 Speakers = ["mike-rosado"]
 +++
-En el manual del “DevOps Handbook”, Gene Kim presenta la tercera vía: las prácticas técnicas del aprendizaje continuo. Ingrese al DevOps Dojo, un entorno inmersivo donde equipos enteros se reúnen para aprender y practicar sus habilidades mientras resuelven problemas reales de negocios.
+Theodore Roosevelt una vez citó: <strong><i>~~ "Cuanto más sepa sobre su pasado, mejor preparado estará para el futuro."</i></strong>
 
-Los señores Joel Tosi y Dion Stewart de la compañía Dojo and Co., dicen que los equipos aprenden mejor en el ecosistema inmersivo de Dojos que utilizando las formas tradicionales de entrenamiento. Explican por qué y cómo los Dojos ayudan a los equipos a vincularse con el producto, fomentan la experimentación rápida y replantean los pequeños fracasos como aprendizaje.
+La primera pregunta que muchas personas me han hecho es, <i>“¿Que herramientas necesito saber para hacer DevOps?”</i> Muchos creen que, porque conocen algunas de las herramientas que se utilizan para automatizar, hacer prueba, seguridad, y otras, que ellos están implementando los conceptos DevOps.
 
-En esta sesión, vamos a enmarcar la necesidad de dojos. A partir de ahí, guiaremos a los asistentes a través del formato de dojo, incluidas las cosas en las que deben pensar al crear el suyo. Terminamos con simples llamadas a acciones para que las personas realicen el aprendizaje.
+En esta presentación le hablaremos un poco de la historia, cambios estructurales, y la visión detrás de DevOps para que entiendan que las herramientas son una pequeña parte del movimiento cultural de DevOps.
