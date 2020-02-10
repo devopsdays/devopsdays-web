@@ -132,7 +132,7 @@ sponsors:
   - id: devoteam
     level: gold
   # lanyard
-  - id: sysdig
+  - id: sysdig-before-20200210
     level: lanyard
   # silver
   - id: dpg-media
@@ -143,7 +143,7 @@ sponsors:
     level: silver
   - id: netways
     level: silver
-  - id: sysdig
+  - id: sysdig-before-20200210
     level: silver
   - id: showpad
     level: silver
