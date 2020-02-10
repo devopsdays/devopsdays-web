@@ -38,7 +38,7 @@ location_address: "Technikumstrasse 8, 8400 Winterthur, Switzerland" #Optional -
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
   - name: location
- # - name: registration
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
