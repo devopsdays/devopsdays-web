@@ -11,7 +11,7 @@ Description = "devopsdays Eindhoven 2020"
     <p>
       <b>{{< event_start >}} - {{< event_end >}}</b>
     </p>
-    <img alt="devopsdays Eindhoven 2020" src="/events/2020-eindhoven/logo-square.png" class="img-fluid">
+    <img alt="devopsdays Eindhoven 2020" src="/events/2020-eindhoven/logo.png" class="img-fluid">
     <!-- {{< event_twitter >}} -->
     <h3>CFP dates</h3>
     <p>
