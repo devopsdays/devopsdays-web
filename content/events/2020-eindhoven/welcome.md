@@ -69,7 +69,7 @@ Description = "devopsdays Eindhoven 2020"
           Openspaces in the afternoon.
         </li>
         <li>
-          Although Spanish will be the primary language of the conference, we will have some of the talks in English.
+          English will be the primary language of the conference.
         </li>
       </ul>
     </p>
