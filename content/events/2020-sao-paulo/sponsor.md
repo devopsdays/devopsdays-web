@@ -5,7 +5,7 @@ Description = "Sponsor devopsdays São Paulo 2020"
 +++
 
 <b>
-**ENGLISH**: The most Sao Paulo event pages is portuguese. If you wish to sponsor our event, take look our sponsor prospect in English version <a href="https://drive.google.com/open?id=17G3njpNFKAKA-CCOkiHIbpso4itZW-XH" target="_blank">here</a>. Please, let us know whether you have any question, to request information or suggestion, send email to [{{< email_organizers >}}].
+**ENGLISH**: For the most part, all of the Sao Paulo event pages are in portuguese. If you wish to sponsor our event, take look our sponsor prospect in English version <a href="https://drive.google.com/open?id=17G3njpNFKAKA-CCOkiHIbpso4itZW-XH" target="_blank">here</a>. Please, let us know whether you have any question, to request information or suggestion, send email to [{{< email_organizers >}}].
 </b>
 <br />
 <br />
