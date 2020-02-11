@@ -183,7 +183,7 @@ sponsors:
     level: bronze
   - id: wavefront
     level: silver
-  - id: logz
+  - id: logz-before20200211
     level: bronze
   - id: pure-storage-before-20200112
     level: bronze
