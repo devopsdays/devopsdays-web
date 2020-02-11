@@ -1,7 +1,7 @@
 +++
 Talk_date = "2020-04-15"
-Talk_start_time = "10:50"
-Talk_end_time = "11:20"
+Talk_start_time = "11:30"
+Talk_end_time = "12:00"
 Title = "Cloud Native Security - A Cultural Shift"
 Type = "talk"
 Speakers = ["steve-white"]
