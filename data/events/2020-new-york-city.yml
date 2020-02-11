@@ -177,8 +177,8 @@ sponsors:
     level: captioning
   - id: ssc
     level: lunch
-  # - id: kintaba
-  #   level: breakfast
+  - id: kintaba
+    level: breakfast
   - id: arresteddevops
     level: community
 
