@@ -151,3 +151,4 @@
 /eindhoven/*            /events/2020-eindhoven/:splat           302
 /luanda/*            /events/2020-luanda/:splat           302!
 /criciuma/*            /events/2020-criciuma/:splat           302
+/cricima/*            /events/2020-cricima/:splat           302
