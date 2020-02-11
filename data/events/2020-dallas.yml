@@ -95,13 +95,6 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/johnpaulherold/"
     image: "herold.jpg"
 
-  - name: "Katie Uebele"
-    employer: "InfoVision, Inc."
-    bio: "Katie has been in the IT consulting industry for 10 years based in Dallas, Texas.  She prides herself in establishing close relationships with her customers and staying on top of the latest technologies.  DevOps has been an area of interest that has been helping her grow within her career, which is why she has joined the organizing committee for Dallas DevOpsDays 2020.  When she is not working you can find her traveling around the world.  Before entering her career path in IT she spent three years living abroad in Europe, Asia and Australia teaching English, scuba diving and getting involved in the local culture."
-    twitter: "KT_InfoVision"
-    linkedin: "https://www.linkedin.com/in/katieuebele/"
-    image: katie.jpg
-
   - name: "Lee Herrin"
     employer: "Dell EMC"
     bio: "Lee is an experienced technologist with a passion for solving problems. Whether technical, logistical, organizational - in every endeavor, Lee brings with him a high-level of integrity and an effective leadership style. His experience spans multiple disciplines including Employee Engagement, Distribution, IT Solutions Architecture, Virtual and Physical IT Infrastructure, and Cyber-security.<br><br>Lee is a volunteer for DevOpsDays DFW as a result of his passionate interest in DevOps (and DevSecOps) and the associated community of talented professionals.<br><br>Lee works with Ancilla LLC - As a Consultant and Project Director. Ancilla LLC provides consulting services for Cloud, CyberSecurity, Application Security and Organizational Excellence. Providing Organizations with Proven, Documented & Published Outcomes.<br><br>Lee also volunteers his time acting as Prayer Team Chair for the DFW Technology Prayer Breakfast - a local faith-based nonprofit."
