@@ -169,14 +169,16 @@ sponsors:
     level: silver
   - id: vmware
     level: gold
+  - id: googlecloud
+    level: silver
   - id: circleci
     level: social
   - id: twosigma
     level: captioning
   - id: ssc
     level: lunch
-  # - id: kintaba
-  #   level: breakfast
+  - id: kintaba
+    level: breakfast
   - id: arresteddevops
     level: community
 
