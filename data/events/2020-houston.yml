@@ -26,7 +26,7 @@ registration_date_end: "2020-04-14T00:00:00-05:00" # close registration. Leave b
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://www.eventbrite.com/e/devopsdays-houston-2020-tickets-71596353621" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
-
+sharing_image: "sharing.jpg"
 # Location
 #
 coordinates: "29.780910, -95.560937" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
@@ -148,9 +148,17 @@ sponsors:
     level: gold
   - id: corva
     level: corporate
+  - id: mongodb
+    level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
+  - id: solarwinds
+    level: platinum
+  - id: 42lines
+    level: gold
+  - id: decisiohealth
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

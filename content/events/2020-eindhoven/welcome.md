@@ -5,83 +5,95 @@ aliases = ["/events/2020-eindhoven/"]
 Description = "devopsdays Eindhoven 2020"
 +++
 
-<!-- <div style="text-align:center;">
-  {{< event_logo >}}
-</div> -->
-
 <div class = "row">
-  <div class = "col-md-2">
-    <strong>Dates</strong>
+  <div class="col-md-4">
+    <h3>Event dates</h3>
+    <p>
+      <b>{{< event_start >}} - {{< event_end >}}</b>
+    </p>
+    <img alt="devopsdays Eindhoven 2020" src="/events/2020-eindhoven/logo.png" class="img-fluid">
+    <!-- {{< event_twitter >}} -->
+    <h3>CFP dates</h3>
+    <p>
+      {{< cfp_dates >}}
+    </p>
   </div>
-  <div class = "col-md-8">
-    {{< event_start >}} - {{< event_end >}}
+
+  <div class="col-md-7">
+    <h2>What is devopsdays Eindhoven</h2>
+    <p>
+      From fledgling startups to established industry, the Netherlands is home to a large, vibrant technology community. Eindhoven, in particular thanks to the fantastic Eindhoven University of Technology, the birth place of Philips and home of ASML, is drawing attention from around the globe.
+    </p>
+    <p>
+      devopsdays Eindhoven brings development, operations, QA, InfoSec, management, and leadership together to discuss the culture and tools to make better organizations and products. The 2020 event will be the first time we have held devopsdays Eindhoven.
+    </p>
+    <h2>Statistics</h2>
+    <p>
+      <ul>
+        <li>
+          70+ events in 2019
+        </li>
+        <li>
+          Across 5 continents
+        </li>
+        <li>
+          Dozens of local communities
+        </li>
+        <li>
+          More than 20000 conference attendees
+        </li>
+        <li>
+          14 core organizers
+        </li>
+        <li>
+          100% nonprofit
+        </li>
+      </ul>
+    </p>
+    <h2>Conference format</h2>
+    <p>
+      <ul>
+        <li>
+          Starting keynote from the organizers.
+        </li>
+        <li>
+          Talks in the morning: this follows the traditional  format of a speaker or panel.
+        </li>
+        <li>
+          30-45 minutes.
+        </li>
+        <li>
+          Set of several ignite talks.
+        </li>
+        <li>
+          Openspaces in the afternoon.
+        </li>
+        <li>
+          English will be the primary language of the conference.
+        </li>
+      </ul>
+    </p>
+    </br>
+    <div class="d-flex flex-row">
+      <div class="col-md-12">
+        <!-- <div class="d-flex p-2">
+          <a class="btn btn-secondary btn-block" style= "background-color: #00263C; border-color: #00263C;" href="URLHERE"> <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;BUY TICKETS HERE!</a>
+        </div> -->
+        <div class="d-flex p-2">
+          <a class="btn btn-secondary btn-block" style= "background-color: #96bfe6; border-color: #96bfe6;" href="/events/2020-eindhoven/sponsor"> <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference</a>
+        </div>
+        <div class="d-flex p-2">
+          <a class="btn btn-secondary btn-block" style= "background-color: #96bfe6; border-color: #96bfe6;" href="/events/2020-eindhoven/contact"> <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Contact the Organizers</a>
+        </div>
+        <div class="col-md-8">
+          <p></p>
+        </div>
+        <div class="col-md-8">
+        </div>
+      </div>
+    </div>
+    </br>
   </div>
 </div>
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Location</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_location >}}
-  </div>
-</div> -->
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Register</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
-  </div>
-</div> -->
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Propose</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
-  </div>
-</div> -->
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Program</strong>
-  </div>
-  <div class = "col-md-8">
-    View the {{< event_link page="program" text="program." >}}
-  </div>
-</div> -->
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Speakers</strong>
-  </div>
-  <div class = "col-md-8">
-    Check out the {{< event_link page="speakers" text="speakers!" >}}
-  </div>
-</div> -->
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Sponsors</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="sponsor" text="Sponsor the conference!" >}}
-  </div>
-</div>
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Contact</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="contact" text="Get in touch with the organizers" >}}
-  </div>
-</div>
-
 <!-- Uncomment if you added your city twitter name -->
-<!--
-{{< event_twitter >}}
--->
+

@@ -22,8 +22,8 @@ cfp_date_announce:  # inform proposers of status
 
 masthead_background: "PlanoEventCenter.jpg"
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2020-02-09T00:00:00-05:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2020-08-27T23:59:59-05:00 #close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -38,7 +38,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
 # - name: propose
 #  - name: program
-# - name: registration
+  - name: registration
 # - name: speakers
   - name: sponsor
   - name: contact
@@ -74,6 +74,7 @@ team_members: # Name is the only required field for team members.
 
   - name: "Jessica Sabugo"
     employer: "Estech Systems, Inc. (ESI)"
+    bio: "Jessica is an automation engineer. She has a deep interest in the DevOps culture and she keeps continuously learning. Her dream is to travel all over the world. She is currently leading the automation and QA team, trying to help her team get involved in the DevOps world."
     twitter: "jessica_sabugo"
     linkedin: "https://www.linkedin.com/in/jessica-sabugo-581ab658/"
     image: "jessica-sabugo.jpg"
@@ -176,6 +177,10 @@ sponsors:
 # - id: samplesponsorname
 #  level: gold
 #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: appdynamics
+    level: gold
+  - id: chef
+    level: gold
   - id: arresteddevops
     level: media
   - id: devopslive

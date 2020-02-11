@@ -86,21 +86,31 @@ sponsors:
   # beer
   # Pre-event
   # coffee
+  - id: sentia
+    level: coffee
   # t-shirt
   - id: fullstaq
     level: t-shirt
   # water
   # arcade
   # lanyard
+  - id: securecodewarrior
+    level: lanyard
   # recharge
   # foodtrucks
   # golds
   - id: wemanity
     level: gold
+  - id: kpn-ict
+    level: gold
   # silvers
   - id: cyso
     level: silver
+  - id: securecodewarrior
+    level: silver
   # bronzes
+  - id: s0l1dheroes
+    level: bronze
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

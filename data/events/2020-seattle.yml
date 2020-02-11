@@ -132,6 +132,22 @@ sponsors:
     level: gold
   - id: pulumi
     level: silver
+  - id: dynatrace
+    level: gold
+  - id: catchpoint
+    level: gold
+  - id: chef
+    level: gold
+  - id: vmware
+    level: gold
+  - id: appdynamics
+    level: gold
+  - id: stackrox
+    level: gold
+  - id: d2iq
+    level: silver
+  - id: codefresh
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
