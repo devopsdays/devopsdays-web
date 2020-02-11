@@ -150,3 +150,4 @@
 /ciudad-mexico/*            /events/2020-ciudad-mexico/:splat           302
 /eindhoven/*            /events/2020-eindhoven/:splat           302
 /luanda/*            /events/2020-luanda/:splat           302!
+/criciuma/*            /events/2020-criciuma/:splat           302
