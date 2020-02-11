@@ -169,6 +169,8 @@ sponsors:
     level: silver
   - id: vmware
     level: gold
+  - id: google
+    level: silver
   - id: circleci
     level: social
   - id: twosigma
