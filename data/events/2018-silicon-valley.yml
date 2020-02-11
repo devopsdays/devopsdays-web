@@ -71,7 +71,7 @@ proposal_email: "proposals-silicon-valley-2018@devopsdays.org" # Put your propos
  #   level: community
 
 sponsors:
-  - id: logz
+  - id: logz-before-20200211
     level: gold
   - id: xmatters
     level: gold
@@ -95,7 +95,7 @@ sponsors:
     level: gold
   - id: kaizenops-before-20181008
     level: silver
-  - id: redislabs
+  - id: redislabs-before-20200211
     level: silver
   - id: chef
     level: absponsor

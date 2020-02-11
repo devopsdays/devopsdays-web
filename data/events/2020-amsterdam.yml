@@ -109,6 +109,8 @@ sponsors:
   - id: securecodewarrior
     level: silver
   # bronzes
+  - id: s0l1dheroes
+    level: bronze
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

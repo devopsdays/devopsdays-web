@@ -5,12 +5,12 @@ Description = "Sponsor devopsdays São Paulo 2020"
 +++
 
 <b>
-**ENGLISH**: The most Sao Paulo event pages is portuguese. If you wish to sponsor our event, take look our sponsor prospect in English version <a href="">SOON!</a>. Please, let us know whether you have any question, to request information or suggestion, send email to [{{< email_organizers >}}].
+**ENGLISH**: For the most part, all of the Sao Paulo event pages are in portuguese. If you wish to sponsor our event, take look our sponsor prospect in English version <a href="https://drive.google.com/open?id=17G3njpNFKAKA-CCOkiHIbpso4itZW-XH" target="_blank">here</a>. Please, let us know whether you have any question, to request information or suggestion, send email to [{{< email_organizers >}}].
 </b>
 <br />
 <br />
 <b>
-Valorizamos muito a importância dos patrocinadores para este evento. Se você está interessado em patrocinar, leia abaixo sobre as nossas cotas ou em nosso nosso prospecto <a href="">https://drive.google.com/file/d/1AB8a3e44zTVIcZliB44xF7gnK9945M_p/view?usp=sharing</a>. Se tiver alguma dúvida, esclarecimento ou sugestão, envie um email para [{{< email_organizers >}}].
+Valorizamos muito a importância dos patrocinadores para este evento. Se você está interessado em patrocinar, leia abaixo sobre as nossas cotas ou em nosso nosso prospecto <a href="https://drive.google.com/open?id=1AB8a3e44zTVIcZliB44xF7gnK9945M_p" target="_blank">aqui</a>. Se tiver alguma dúvida, esclarecimento ou sugestão, envie um email para [{{< email_organizers >}}].
 </b>
 
 <hr>

@@ -2,7 +2,7 @@
 title = "Leonardo Matsumota" 
 Twitter = "" 
 linkedin = "" 
-image = "" 
+image = "leonardo.jpg" 
 type = "speaker" 
 linktitle = "leonardo" 
 +++ 

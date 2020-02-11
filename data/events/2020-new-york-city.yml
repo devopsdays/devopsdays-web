@@ -169,14 +169,16 @@ sponsors:
     level: silver
   - id: vmware
     level: gold
+  - id: googlecloud
+    level: silver
   - id: circleci
     level: social
   - id: twosigma
     level: captioning
   - id: ssc
     level: lunch
-  # - id: kintaba
-  #   level: breakfast
+  - id: kintaba
+    level: breakfast
   - id: arresteddevops
     level: community
 
@@ -314,7 +316,7 @@ program:
     date: "2020-03-04"
     start_time: "08:00"
     end_time: "09:00"
-  - title: "tom-limoncelli"
+  - title: "kris-buytaert"
     type: talk
     date: "2020-03-04"
     start_time: "09:00"
@@ -394,7 +396,7 @@ program:
     date: "2020-03-04"
     start_time: "15:45"
     end_time: "16:15"
-  - title: "kris-buytaert"
+  - title: "tom-limoncelli"
     type: talk
     date: "2020-03-04"
     start_time: "16:15"

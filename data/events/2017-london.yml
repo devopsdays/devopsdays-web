@@ -86,7 +86,7 @@ sponsors:
     level: silver    
   - id: gov-digital
     level: silver
-  - id: sysdig
+  - id: sysdig-before-20200210
     level: silver
   - id: mq
     level: charity
