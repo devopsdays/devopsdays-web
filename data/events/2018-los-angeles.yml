@@ -76,7 +76,7 @@ sponsors:
     level: sponsor
   - id: sensu
     level: startup
-  - id: sysdig
+  - id: sysdig-before-20200210
     level: sponsor
   - id: vdms
     level: sponsor
