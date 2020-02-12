@@ -171,6 +171,8 @@ sponsors:
     level: gold
   - id: googlecloud
     level: silver
+  - id: fastly
+    level: silver
   - id: circleci
     level: social
   - id: twosigma
