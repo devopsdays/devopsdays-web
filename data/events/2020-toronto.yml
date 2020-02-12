@@ -86,6 +86,8 @@ sponsors:
     level: gold
   - id: appdynamics
     level: gold
+  - id: codefresh
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
