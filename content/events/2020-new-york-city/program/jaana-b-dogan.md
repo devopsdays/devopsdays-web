@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Are you ready for production?"
 Type = "talk"
-Speakers = ["janna-b-dogan"]
+Speakers = ["jaana-b-dogan"]
 +++
 
 Maintaining production systems can be a burden, especially for those who haven’t been doing it for a long time. Knowledge is lost when people leave, practices are only put in place when needed, and onboarding new people can take a long time. In this talk, we will go through production readiness principles and cover the recent technical and organization shift in various organizations when it comes to pushing new components to production systems. Production readiness sometimes requires collaboration from several teams and it influences change from design to late-time operational practices. This talk will examine practices from design & development, configuration management, observability, release management, capacity planning, security and compliance. After this talk, you will have better practical skills to keep your production happy and your engineers more stress-free when they are deploying production services.
