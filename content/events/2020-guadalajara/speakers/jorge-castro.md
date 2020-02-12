@@ -2,6 +2,7 @@
 Title = "Jorge Castro"
 image = "jorge-castro.jpeg"
 type = "speaker"
+LinkedIn = "https://www.linkedin.com/in/jorgeluiscastrotoribio/"
 linktitle = "jorge-castro"
 
 +++
