@@ -76,9 +76,12 @@ Description = "devopsdays Eindhoven 2020"
     </br>
     <div class="d-flex flex-row">
       <div class="col-md-12">
-        <!-- <div class="d-flex p-2">
-          <a class="btn btn-secondary btn-block" style= "background-color: #00263C; border-color: #00263C;" href="URLHERE"> <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;BUY TICKETS HERE!</a>
-        </div> -->
+        <div class="d-flex p-2">
+          <a class="btn btn-secondary btn-block" style= "color: #ffffff; background-color: #CC112F; border-color: #CC112F;" href="/events/2020-eindhoven/registration"> <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;BUY TICKETS HERE!</a>
+        </div>
+        <div class="d-flex p-2">
+          <a class="btn btn-secondary btn-block" style= "color: #ffffff; background-color: #a8862d; border-color: #a8862d;" href="https://sessionize.com/devopsdays-eindhoven-2020/" target="_blank"> <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;SUBMIT A PROPOSAL HERE!</a>
+        </div>
         <div class="d-flex p-2">
           <a class="btn btn-secondary btn-block" style= "background-color: #96bfe6; border-color: #96bfe6;" href="/events/2020-eindhoven/sponsor"> <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference</a>
         </div>
