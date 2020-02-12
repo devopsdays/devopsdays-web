@@ -88,6 +88,8 @@ sponsors:
     level: gold
   - id: codefresh
     level: gold
+  - id: harness
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
