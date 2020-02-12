@@ -7,7 +7,7 @@ Description = "Registration for devopsdays Amsterdam 2020"
 <div class="container-fluid">
     <div class="row justify-content-start">
         <div class="col-md-8">
-            If you or your company is interested in paying us directly via an invoice for a bulk ticket order, please <a href="mailto:amsterdam@devopsdays.org?subject=devopsdays%20Amsterdam%202020%20-%20Pay%20Direct%20with%20Invoice">contact us by sending us an email @ eindhoven@devopsdays.org</a>
+            If you or your company is interested in paying us directly via an invoice for a bulk ticket order, please <a href="mailto:amsterdam@devopsdays.org?subject=devopsdays%20Amsterdam%202020%20-%20Pay%20Direct%20with%20Invoice">contact us by sending us an email @ amsterdam@devopsdays.org</a>
         </div>
         <br />
         <br />

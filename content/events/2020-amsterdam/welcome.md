@@ -23,12 +23,12 @@ Description = "devopsdays Amsterdam 2020"
   <div class="col-md-7">
     <div class="col-sm-12">
       <h2>What is devopsdays Amsterdam</h2>
-      From fledgling startups to established industry, the The Netherlands is home to a large, vibrant technology
+      From fledgling startups to established industry, The Netherlands is home to a large, vibrant technology
       community. Amsterdam, in particular, has been a flurry of activity in the past several years, drawing attention from
       around the globe.
       <br><br>
       devopsdays Amsterdam brings development, operations, QA, InfoSec, management, and leadership together to discuss the
-      culture and tools to make better organizations and products. The 2020 event will be the eight time we have held
+      culture and tools to make better organizations and products. The 2020 event will be the eighth time we have held
       devopsdays Amsterdam, and it should be bigger and better than ever before!
       <br><br>
       We expect 500 people this year and will be holding the event on June 17-19, 2020 at the <a
