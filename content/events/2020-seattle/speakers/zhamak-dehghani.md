@@ -1,7 +1,7 @@
 +++
 Title = "Zhamak Dehghani"
 Twitter = "TBD"
-image = ""
+image = "zhamak-dehghani.jpeg"
 type = "speaker"
 linktitle = "zhamak-dehghani"
 
