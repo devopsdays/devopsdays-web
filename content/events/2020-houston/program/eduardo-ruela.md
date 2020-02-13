@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Enter speaker talk title (return for none): Build the next generation CICD pipelines using Tekton and Kubernetes"
+Title = "Build the next generation CICD pipelines using Tekton and Kubernetes"
 Type = "talk"
 Speakers = ["eduardo-ruela"]
 +++
