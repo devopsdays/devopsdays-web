@@ -6,8 +6,9 @@ description: "A revolução já começou!"
 ga_tracking_id: ""
 
 # All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T01:02:03-05:00
-startdate: 2020-09-12T00:00:00-03:00
-enddate: 2020-09-12T23:59:59-03:00
+startdate: # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  
@@ -30,27 +31,27 @@ location_address: Florianópolis, SC
 
 masthead_background: "header.jpeg"
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: Chamadas (CFP)
-    icon: "microphone"
-    url: /events/2020-florianopolis
+#  - name: Chamadas (CFP)
+#    icon: "microphone"
+#    url: /events/2020-florianopolis
 
   - name: local
     icon: "map-o"
     url: /events/2020-florianopolis/location
 
-  - name: ingressos
-    url: /events/2020-florianopolis/registration
+#  - name: ingressos
+#    url: /events/2020-florianopolis/registration
 
-  - name: programação
-    url: /events/2020-florianopolis/program
+#  - name: programação
+#    url: /events/2020-florianopolis/program
 
-  - name: palestrantes
-    icon: "microphone"
-    url: /events/2020-florianopolis/speakers
+#  - name: palestrantes
+#    icon: "microphone"
+#    url: /events/2020-florianopolis/speakers
 
-  - name: patrocínio
-    icon: "money"
-    url: /events/2020-florianopolis/sponsor
+# - name: patrocínio
+#   icon: "money"
+#   url: /events/2020-florianopolis/sponsor
 
   - name: contato
     icon: "envelope-o"
@@ -113,14 +114,13 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://br.linkedin.com/in/octavio-richter"
     image: "octavio-richter.jpg"
 
-organizer_email: "organizers-floripa-2020@devopsdays.org" # Put your organizer email address here
-proposal_email: "proposals-floripa-2020@devopsdays.org" # Put your proposal email address here
+organizer_email: "floripa@devopsdays.org" # Put your organizer email address here
+# proposal_email:  # (DEPRECATED - No longer used) Put your proposal email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 # sponsors:
-#   - id: 
-#     level: platinum
+#
 #   - id: 
 #     level: platinum
 #   - id: 
