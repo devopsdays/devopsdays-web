@@ -57,12 +57,18 @@ Description = "DevOpsDays Aracaju 2020"
           <div class="col-md-8">{{< event_link page="sponsor" text="Become a sponsor!" >}}</div>
         </div> -->
         <div class="row">
-          <div class="col-md-2"><strong>Contact</strong></div>
-          <div class="col-md-8">{{< event_link page="contact" text="Get in touch with the organizers" >}}</div>
+            <div class="col-md-2"><strong>Contact</strong></div>
+            <div class="col-md-8">{{< event_link page="contact" text="Get in touch with the organizers" >}}</div>
         </div>
         <div class="row">
           <div class="col-md-2"></div>
           <div class="col-md-8">{{< event_twitter >}}</div>
+          <br>
+          <div class="col-md-8">
+              <a href="https://t.me/joinchat/CkJdh1eXt_sDdzHPacoIww" target="_blank">
+                  <i class="fa fa-telegram fa-lg"></i> Grupo do Telegram
+              </a>
+          </div>
         </div>
     </div>
 </div>
@@ -74,4 +80,4 @@ Participe da 2ª Edição do DevOpsDays Aracaju!
 ===
 
 DevOpsDays acontecerá em Aracaju no dia 25 de Abril de 2020, em seu segundo ano seguido!
-CFP e apoiadores já são bem vindos!!!
+CFP e apoiadores são bem vindos!!!
