@@ -167,7 +167,7 @@ sponsors:
     level: silver
   - id: logz
     level: silver
-  - id: vmware
+  - id: vmware-tanzu
     level: gold
   - id: googlecloud
     level: silver
