@@ -86,6 +86,12 @@ sponsors:
     level: gold
   - id: appdynamics
     level: gold
+  - id: codefresh
+    level: gold
+  - id: harness
+    level: silver
+  - id: dynatrace
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -100,6 +106,9 @@ sponsor_levels:
   - id: gold
     label: Gold
     max: 40
+  - id: silver
+    label: Silver
+    max: 10
   - id: lanyard
     label: Lanyard
     max: 1
