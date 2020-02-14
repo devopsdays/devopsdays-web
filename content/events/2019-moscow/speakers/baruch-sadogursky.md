@@ -1,6 +1,6 @@
 +++
-title = "Baruch Sadogursky"
 type = "speaker"
+title = "Baruch Sadogursky"
 
 +++
 

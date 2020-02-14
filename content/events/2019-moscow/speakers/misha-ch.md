@@ -1,6 +1,6 @@
 +++
-title = "Michael Chinkov"
 type = "speaker"
+title = "Michael Chinkov"
 
 +++
 
