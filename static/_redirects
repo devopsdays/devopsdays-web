@@ -151,3 +151,4 @@
 /eindhoven/*            /events/2020-eindhoven/:splat           302
 /luanda/*            /events/2020-luanda/:splat           302!
 /melbourne/*            /events/2020-melbourne/:splat           302
+/ankara/*            /events/2020-ankara/:splat           302
