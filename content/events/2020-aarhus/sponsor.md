@@ -7,7 +7,8 @@ description = "Interested in sponsoring DevOpsDays Aarhus 2020? We greatly value
 +++
 <div class = "row">
 <div class = "col-md-8 col-sm-12">
-We greatly value sponsors for this community event. If you are interested in sponsoring, please <a href="mailto:aarhus@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Aarhus%202020">send us an email</a>.
+We greatly value sponsors for this community event. If you are interested in sponsoring, please
+please check out our <a href="https://assets.devopsdays.org/events/events/2020/aarhus/DEVOPSDAYS_TECHSPONSOR_v6.pdf" target="_blank">prospectus</a> or <a href="mailto:aarhus@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Aarhus%202020">send us an email</a>.
 
 <hr>
 
@@ -72,8 +73,8 @@ All sponsors will have their logo displayed on the DevOpsDays Aarhus website, a 
     </tr>
     <tr>
       <td>Booth space in sponsor area (with chair, table & power)</td>
-      <td><img src = "/events/2020-aarhus/logo-square-tiny.jpg"><br />4 meters wide</td>
-      <td><img src = "/events/2020-aarhus/logo-square-tiny.jpg"><br />2 meters wide</td>
+      <td><img src = "/events/2020-aarhus/logo-square-tiny.jpg"><br />3 meters wide</td>
+      <td><img src = "/events/2020-aarhus/logo-square-tiny.jpg"><br />1.5 meters wide</td>
       <td></td>
     </tr>
     <tr>
