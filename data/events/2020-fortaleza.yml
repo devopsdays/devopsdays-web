@@ -38,13 +38,11 @@ location: "Centro Universitário 7 de Setembro" # Defaults to city, but you can 
 location_address: "Av. Almirante Maximiniano da Fonseca, 1395 - Eng. Luciano Cavalcante" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
-    url:  
+# - name: propose
   - name: location
-  - name: registration
-    url: 
-  - name: program
-  - name: speakers
+# - name: registration
+# - name: program
+# - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
