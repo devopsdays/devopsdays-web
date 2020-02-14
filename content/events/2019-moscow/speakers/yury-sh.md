@@ -1,6 +1,6 @@
 +++
-title = "Yuriy Shabalin"
 type = "speaker"
+title = "Yuriy Shabalin"
 
 +++
 
