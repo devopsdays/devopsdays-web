@@ -100,8 +100,8 @@ sponsors:
   # recharge
   # foodtrucks
   # golds
-  # - id: wemanity # On hold NET30 overdue
-  #   level: gold
+  - id: wemanity
+    level: gold
   - id: kpn-ict
     level: gold
   # silvers
