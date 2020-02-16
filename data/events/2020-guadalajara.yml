@@ -111,6 +111,10 @@ sponsors:
     level: platinum
   - id: vmware
     level: platinum
+  - id: elastic
+    level: platinum
+  - id: kueski
+    level: platinum
   - id: wizeline
     level: gold
   - id: iteso-university
@@ -125,12 +129,18 @@ sponsors:
     level: gold
   - id: redis-labs
     level: gold
+  - id: logicalis
+    level: gold
   - id: linux-professional-institute
     level: silver
   - id: tinkerwave
     level: silver
   - id: bedu
     level: silver
+  - id: cp-boosters
+    level: silver
+  - id: liferay
+    level: bronze
   - id: meetup-docker-guadalajara
     level: community
   - id: itrevolution
@@ -166,6 +176,8 @@ sponsor_levels:
 #    max: 10
   - id: silver
     label: Silver
+  - id: bronze
+    label: Bronze
     max: 0 # This is the same as omitting the max limit.
   - id: community
     label: Community
