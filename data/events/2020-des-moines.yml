@@ -87,6 +87,8 @@ organizer_email: "des-moines@devopsdays.org" # Put your organizer email address 
 sponsors:
   - id: trility
     level: gold
+  - id: launch-darkly
+    level: gold
   - id: sourceallies
     level: lanyard
   - id: sidegarage

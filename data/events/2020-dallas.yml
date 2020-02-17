@@ -21,6 +21,7 @@ cfp_date_announce:  # inform proposers of status
 # cfp_link: "https://www.papercall.io/dod-dfw-2020" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 masthead_background: "PlanoEventCenter.jpg"
+sharing_image: "dallas2020.png"
 
 registration_date_start: 2020-02-09T00:00:00-05:00 # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: 2020-08-27T23:59:59-05:00 #close registration. Leave blank if registration is not open yet.
@@ -93,13 +94,6 @@ team_members: # Name is the only required field for team members.
     twitter: "thedailyherold"
     linkedin: "https://www.linkedin.com/in/johnpaulherold/"
     image: "herold.jpg"
-
-  - name: "Katie Uebele"
-    employer: "InfoVision, Inc."
-    bio: "Katie has been in the IT consulting industry for 10 years based in Dallas, Texas.  She prides herself in establishing close relationships with her customers and staying on top of the latest technologies.  DevOps has been an area of interest that has been helping her grow within her career, which is why she has joined the organizing committee for Dallas DevOpsDays 2020.  When she is not working you can find her traveling around the world.  Before entering her career path in IT she spent three years living abroad in Europe, Asia and Australia teaching English, scuba diving and getting involved in the local culture."
-    twitter: "KT_InfoVision"
-    linkedin: "https://www.linkedin.com/in/katieuebele/"
-    image: katie.jpg
 
   - name: "Lee Herrin"
     employer: "Dell EMC"

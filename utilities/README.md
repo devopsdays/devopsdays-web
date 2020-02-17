@@ -175,7 +175,7 @@ If you start working on the program before you have all your speakers, by defaul
 
 ### Speaker Images
 
-The headshots for your speaker images can be either .png or .jpg. They should be square, preferably 600px square. If they are not square, they will be automatically cropped at build time for the production site. (Note: image processing does not occur when running Hugo locally or in a deploy preview.)
+The headshots for your speaker images can be either .png or .jpg. They should be square, preferably 600px square. If they are not square, the page listing all speakers will crop them to square, but the individual speaker and talk pages will not crop the image). 
 
 
 # Adding slides and video

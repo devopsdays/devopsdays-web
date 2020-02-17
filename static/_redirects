@@ -69,7 +69,7 @@
 /moscow/*		/events/2019-moscow/:splat		302
 /nairobi/*		/events/2014-nairobi/:splat		302
 /nashville/*		/events/2019-nashville/:splat		302
-/natal/*		/events/2019-natal/:splat		302
+/natal/*		/events/2020-natal/:splat		302
 /new-york-city/*	/events/2020-new-york-city/:splat	302
 /new-zealand/*		/events/2019-auckland/:splat		302
 /newcastle/*		/events/2018-newcastle/:splat		302
@@ -152,3 +152,4 @@
 /luanda/*            /events/2020-luanda/:splat           302
 /criciuma/*            /events/2020-criciuma/:splat           302
 /melbourne/*            /events/2020-melbourne/:splat           302
+/ankara/*            /events/2020-ankara/:splat           302
