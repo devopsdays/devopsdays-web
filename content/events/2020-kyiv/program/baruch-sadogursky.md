@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Influencing DevOps without Authoritiy - how \"DevOps engineer\" can advance real DevOps"
+Title = "Influencing DevOps without Authority - how \"DevOps engineer\" can advance real DevOps"
 Type = "talk"
 Speakers = ["baruch-sadogursky"]
 +++
