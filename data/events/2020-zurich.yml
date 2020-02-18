@@ -186,6 +186,8 @@ sponsors:
     level: bronze
   - id: googlecloud
     level: gold
+  - id: Locatee
+    level: bronze   
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
