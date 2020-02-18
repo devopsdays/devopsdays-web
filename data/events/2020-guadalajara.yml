@@ -34,11 +34,10 @@ location: "ITESO, Guadalajara" # Defaults to city, but you can make it the venue
 location_address: "Anillo Perif. Sur Manuel Gómez Morín 8585, Santa María Tequepexpan, 45604 San Pedro Tlaquepaque, Jal." #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
   - name: location
   - name: registration
     url: "https://ticketcontrol.mx/evento/605"
- # - name: program
+  - name: program
   - name: speakers
   - name: sponsor
   - name: contact
@@ -110,11 +109,27 @@ sponsors:
     level: platinum
   - id: experis
     level: platinum
+  - id: vmware
+    level: platinum
+  - id: elastic
+    level: platinum
+  - id: kueski
+    level: platinum
   - id: wizeline
     level: gold
   - id: iteso-university
     level: venue
   - id: startup-gdl
+    level: gold
+  - id: gitlab
+    level: gold
+  - id: terminal
+    level: gold
+  - id: brightcove
+    level: gold
+  - id: redis-labs
+    level: gold
+  - id: logicalis
     level: gold
   - id: linux-professional-institute
     level: silver
@@ -122,6 +137,10 @@ sponsors:
     level: silver
   - id: bedu
     level: silver
+  - id: cp-boosters
+    level: silver
+  - id: liferay
+    level: bronze
   - id: meetup-docker-guadalajara
     level: community
   - id: itrevolution
@@ -137,6 +156,8 @@ sponsors:
   - id: ieee
     level: community
   - id: enchiladas-devops
+    level: community
+  - id: makersgdl
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -157,6 +178,231 @@ sponsor_levels:
 #    max: 10
   - id: silver
     label: Silver
+  - id: bronze
+    label: Bronze
     max: 0 # This is the same as omitting the max limit.
   - id: community
     label: Community
+
+program:
+  - title: "Registration and Booths Open"
+    type: custom
+    date: "2020-02-20"
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening"
+    type: custom
+    date: "2020-02-20"
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "mike-rosado"
+    type: talk
+    date: "2020-02-20"
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: "2020-02-20"
+    start_time: "09:45"
+    end_time: "10:00"
+  - title: "Words from Organizers"
+    type: words
+    date: "2020-02-20"
+    start_time: "10:00"
+    end_time: "10:15"
+  - title: "jose-leitao"
+    type: talk
+    date: "2020-02-20"
+    start_time: "10:15"
+    end_time: "10:45"
+  - title: "Break"
+    type: custom
+    date: "2020-02-20"
+    start_time: "10:45"
+    end_time: "11:00"
+  - title: "franchesco-romero"
+    type: talk
+    date: "2020-02-20"
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "Sponsors"
+    type: custom
+    date: "2020-02-20"
+    start_time: "11:30"
+    end_time: "11:45"
+  - title: "sasha-rosenbaum"
+    type: talk
+    date: "2020-02-20"
+    start_time: "11:45"
+    end_time: "12:15"
+  - title: "Lunch"
+    type: custom
+    date: "2020-02-20"
+    start_time: "12:15"
+    end_time: "13:30"
+  - title: "Ignite Talks:"
+    type: ignite
+    date: "2020-02-20"
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "francisco-rodriguez"
+    type: talk
+    date: "2020-02-20"
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: "Open Space Openning"
+    type: open-space
+    date: "2020-02-20"
+    start_time: "14:30"
+    end_time: "14:45"
+  - title: "Break"
+    type: custom
+    date: "2020-02-20"
+    start_time: "14:45"
+    end_time: "15:00"
+  - title: "Open Space"
+    type: open-space
+    date: "2020-02-20"
+    start_time: "15:00"
+    end_time: "17:00"
+  - title: "Break"
+    type: custom
+    date: "2020-02-20"
+    start_time: "17:00"
+    end_time: "17:30"
+  - title: "napoleon-jones"
+    type: talk
+    date: "2020-02-20"
+    start_time: "17:30"
+    end_time: "18:00"
+  - title: "manuel-gutierrez"
+    type: talk
+    date: "2020-02-20"
+    start_time: "18:00"
+    end_time: "18:30"
+  - title: "Closing"
+    type: custom
+    date: "2020-02-20"
+    start_time: "18:30"
+    end_time: "18:45"
+  - title: "Evening Social Event"
+    type: custom
+    date: "2020-02-20"
+    start_time: "18:45"
+    end_time: "20:00"
+
+  - title: "Registration and Booths Open"
+    type: custom
+    date: "2020-02-21"
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening"
+    type: custom
+    date: "2020-02-21"
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "liz-fong-jones"
+    type: talk
+    date: "2020-02-21"
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: "2020-02-21"
+    start_time: "09:45"
+    end_time: "10:00"
+  - title: "yury-nino"
+    type: talk
+    date: "2020-02-21"
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Break"
+    type: custom
+    date: "2020-02-21"
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "taylor-thomas"
+    type: talk
+    date: "2020-02-21"
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "Sponsors"
+    type: custom
+    date: "2020-02-21"
+    start_time: "11:30"
+    end_time: "11:45"
+  - title: "mofizur-rahman"
+    type: talk
+    date: "2020-02-21"
+    start_time: "11:45"
+    end_time: "12:15"
+  - title: "Lunch"
+    type: custom
+    date: "2020-02-21"
+    start_time: "12:15"
+    end_time: "13:30"
+  - title: "Ignite Talks:"
+    type: ignite
+    date: "2020-02-21"
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "jesus-contreras"
+    type: talk
+    date: "2020-02-21"
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: "Open Space Openning"
+    type: open-space
+    date: "2020-02-21"
+    start_time: "14:30"
+    end_time: "14:45"
+  - title: "Break"
+    type: custom
+    date: "2020-02-21"
+    start_time: "14:45"
+    end_time: "15:00"
+  - title: "Open Space"
+    type: open-space
+    date: "2020-02-21"
+    start_time: "15:00"
+    end_time: "17:00"
+  - title: "Break"
+    type: custom
+    date: "2020-02-21"
+    start_time: "17:00"
+    end_time: "17:30"
+  - title: "ra-acosta"
+    type: talk
+    date: "2020-02-21"
+    start_time: "17:30"
+    end_time: "18:00"
+  - title: "cameron-motevasselani"
+    type: talk
+    date: "2020-02-21"
+    start_time: "18:00"
+    end_time: "18:30"
+  - title: "Closing"
+    type: custom
+    date: "2020-02-21"
+    start_time: "18:30"
+    end_time: "18:45"
+
+ignites:
+  - title: "rex-roof"
+    date: "2020-02-20"
+  - title: "edwin-moedano"
+    date: "2020-02-20"
+  - title: "daniel-cortes"
+    date: "2020-02-20"
+  - title: "mofizur-rahman-ignite"
+    date: "2020-02-20"
+  - title: "julian-limon"
+    date: "2020-02-21"
+  - title: "jorge-castro"
+    date: "2020-02-21"
+  - title: "salvador-elizarraras"
+    date: "2020-02-21"
+  - title: "thomas-adams"
+    date: "2020-02-21"
+  - title: "leoswaldo-macias"
+    date: "2020-02-21"

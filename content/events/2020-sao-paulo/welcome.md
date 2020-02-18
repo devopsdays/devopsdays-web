@@ -18,11 +18,10 @@ Description = "devopsdays São Paulo 2020"
     </div>
 </div>
 
-<!--
 <div style="text-align:center;">
   {{< event_logo >}}
 </div>
--->
+
 <div class = "row">
   <div class = "col-md-2">
     <strong>Datas</strong>

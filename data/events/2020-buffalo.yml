@@ -100,7 +100,12 @@ sponsors:
     level: community
   - id: gitlab
     level: silver
-
+  - id: torchio
+    level: silver
+  - id: starkandwayne
+    level: gold
+  - id: bcbswny
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

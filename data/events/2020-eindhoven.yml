@@ -5,6 +5,7 @@ event_twitter: "devopsdaysEHV" # Change this to the twitter handle for your even
 description: "Devopsdays is coming to Eindhoven for the FIRST TIME!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 masthead_background: "skyline-eindhoven.jpg"
+sharing_image: "logo-rectangle.png"
 
 
 # All dates are in unquoted 2020-MM-DDTHH:MM:SS+TZ:TZ, like this:
@@ -16,13 +17,13 @@ startdate:  2020-10-21T00:00:00+01:00 # The start date of your event. Leave blan
 enddate:  2020-10-23T23:59:59+01:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2020-03-02T00:00:00+01:00   # start accepting talk proposals.
+cfp_date_start: 2020-02-12T00:00:00+01:00   # start accepting talk proposals.
 cfp_date_end: 2020-07-01T00:00:00+01:00  # close your call for proposals.
 cfp_date_announce: 2020-07-16T00:00:00+01:00  # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://sessionize.com/devopsdays-eindhoven-2020/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: 2020-03-02T00:00:00+01:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_start: 2020-02-12T00:00:00+01:00 # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: 2020-10-22T00:00:00+01:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "true" #set this to true if you need to manually close registration before your registration end date
@@ -36,12 +37,12 @@ location: "Eindhoven" # Defaults to city, but you can make it the venue name.
 location_address: "High Tech Campus 1b, 5656 AE Eindhoven, The Netherlands" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
  # - name: location
- # - name: registration
+  - name: registration
  # - name: program
  # - name: speakers
-#  - name: sponsor
+  - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
@@ -59,21 +60,25 @@ team_members: # Name is the only required field for team members.
     github: "thiagoavadore"
     linkedin: "https://www.linkedin.com/in/thiagoavadore/"
     twitter: "thiagoavadore"
-  - name: "Rudy Gevaert"
-    twitter: "rgevaert"
-    github: "rgevaert"
-    linkedin: "https://www.linkedin.com/in/rudygevaert/"
   - name: "Jelmer Graafstra"
     linkedin: "https://www.linkedin.com/in/jelmer-graafstra-083abb4"
   - name: "Fabian Met"
     linkedin: "https://www.linkedin.com/in/fabianmet/"
   - name: "Joep Piscaer"
     linkedin: "https://www.linkedin.com/in/jpiscaer"
+    twitter: "jpiscaer"
+  - name: "Jos van Schouten"
+    linkedin: "https://www.linkedin.com/in/josvanschouten"
+    twitter: "josvanschouten"
 # not-local to Eindhoven but also helping Eindhoven.
   - name: "Harm Boertien"
     twitter: "Harm_Ops"
     github: "HarmB"
     linkedin: "https://www.linkedin.com/in/harmboertien"
+  - name: "Rudy Gevaert"
+    twitter: "rgevaert"
+    github: "rgevaert"
+    linkedin: "https://www.linkedin.com/in/rudygevaert/"
   - name: "Yvo van Doorn"
     twitter: "yvov"
     github: "yvovandoorn"
@@ -81,19 +86,20 @@ team_members: # Name is the only required field for team members.
   - name: "Peter Nijenhuis"
     twitter: "Peter_Nijenhuis"
 
-
 organizer_email: "eindhoven@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-#  - id: samplesponsorname
-#    level: gold
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  - id: arresteddevops
-    level: community
+# gold
+# silver
+# lanyard
+# bronze
+  - id: s0l1dheroes
+    level: bronze
+# community
 
-sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For

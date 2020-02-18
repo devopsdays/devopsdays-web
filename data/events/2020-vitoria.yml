@@ -267,18 +267,17 @@ program:
     date: 2020-02-08T08:00:00-03:00
     start_time: "12:00"
     end_time: "12:30"
-  - title: "TBC"
-    type: custom
-    date: 2020-02-08T08:00:00-03:00
-    start_time: "12:30"
-    end_time: "13:00"
-    background_color: "#abebff"
   - title: "Almoço"
     type: custom
     date: 2020-02-08T08:00:00-03:00
-    start_time: "13:00"
+    start_time: "12:30"
+    end_time: "14:00"
+  - title: "marco-junior"
+    type: talk
+    date: 2020-02-08T08:00:00-03:00
+    start_time: "14:00"
     end_time: "14:30"
-  - title: "Open Spaces"
+  - title: "OpenSpace na prática"
     type: custom
     date: 2020-02-08T08:00:00-03:00
     start_time: "14:30"

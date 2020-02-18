@@ -24,7 +24,7 @@ registration_date_end: 2019-11-27T00:00:00+00:00 # close registration. Leave bla
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
-
+sharing_image: "sharing.jpg"
 # Location
 #
 coordinates: "51.507351, -0.127758" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html

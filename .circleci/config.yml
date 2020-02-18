@@ -2,7 +2,7 @@ version: 2
 jobs:
   production:
     docker:
-      - image: cibuilds/hugo:0.62.1
+      - image: cibuilds/hugo:0.64.1
     steps:
       - checkout
       - run:
@@ -11,7 +11,7 @@ jobs:
 
   build:
     docker:
-      - image: cibuilds/hugo:0.62.1
+      - image: cibuilds/hugo:0.64.1
     working_directory: ~/devopsdays
     steps:
       - checkout

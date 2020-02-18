@@ -18,6 +18,6 @@ If you'd like to contact us by email: {{< email_organizers >}}
 {{< list_organizers >}}
 
 <strong><i>Local Emeritus Organizers</i></strong><br>
-John Jelinek, Ben Johnson, Annie Hedgpeth, Michael Hedgepeth, Carlos Nuñez
+John Jelinek, Ben Johnson, Annie Hedgpeth, Michael Hedgepeth, Carlos Nuñez. Mark Saum
 
 {{< list_core >}}
