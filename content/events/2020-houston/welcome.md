@@ -23,12 +23,10 @@ Description = "devopsdays Houston 2020"
       <div class = "col-md-8">{{< event_link page="propose" text="Propose a talk!" >}}</div>
     </div>
 	-->
-	<!--
 	<div class = "row">
 		<div class = "col-md-2"><strong>Speakers</strong></div>
         <div class = "col-md-8">Check out the {{< event_link page="speakers" text="speakers!" >}}</div>
     </div>
-	-->
     <div class="row">
       <div class="col-md-2"><strong>Register</strong></div>
       <div class="col-md-8">{{< event_link page="registration" text="Register to attend the conference!" >}}</div>
