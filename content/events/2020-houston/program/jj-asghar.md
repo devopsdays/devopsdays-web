@@ -2,24 +2,14 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Lessons Learned from Cultivating Open Source Projects and Communities"
+Title = "VMware Template Management, Reimagined for the 21st Century"
 Type = "talk"
 Speakers = ["jj-asghar"]
 +++
 
-Over the last decade, I’ve had the privilege professionally of building and cultivating some Open Source projects and communities. To start off this isn’t a tools talk, this is a talk about the soft skills you have to have to be able to succeed as a leader in an Open Source project. My journey started tending the frequently asked questions for a small Linux Distribution called CRUX, and then years later professionally moved to the OpenStack-Chef project to build OpenStack clouds. I’ve grown other projects along the way helped build tooling and communities some successful and still running today, others were just flashes in the pan.  I’ve learned a ton on this journey; honestly still am, but I have some lessons that are hard learned and hopefully I warn pitfalls that can cause wasted cycles and pain.
+In the modern day SDDC, the ability to create a VM or template consistent, repeatable, and streamlined is a requirement. Using open source projects like Packer, Ansible, and InSpec you can build this nirvana. Using Packer to create a template, Ansible to do your configuration management, and then trigger InSpec scanning of your compliance policies all on vSphere. In this talk, we will walk through the required foundational knowledge to build this pipeline. In this talk you’ll learn:
 
-I’ll be going over:
-* This isn’t a tools talk
-* Scoping your project
-   * Personally-backed
-   * Corporate-backed
-* Empathy and audience is important
-   * Celebrations
-   * Defeats
-* Successful traits of Open Source projects
-   * Trust
-   * Clear Vision
-   * Have a plan to move on if needed
-* Honestly, is it even worth this hassle?
-
+* Overview of why creating pipelines is Important
+* Overview of Packer, Ansible, and Inspec
+* A demo of using the pipeline on the VMware on IBM Cloud
+* Resources to start learning implementing portions for yourself
