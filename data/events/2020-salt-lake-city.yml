@@ -56,7 +56,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 team_members: # Name is the only required field for team members.
     - name: "Jason Vance"
       twitter: "jasonsvance"
-      employer: "Accela, Inc."
+      employer: "Coinzoom"
       linkedin: "https://www.linkedin.com/in/jason-s-vance/"
     - name: "Allia DeAngelis"
       twitter: "adeangelis"
@@ -70,10 +70,6 @@ team_members: # Name is the only required field for team members.
       employer: "Virtustream, A Dell Technologies Business"
       twitter: "rmawhinnie"
       linkedin: "https://www.linkedin.com/in/rmawhinnie/"
-    - name: "Lindley White"
-      employer: "WeWork"
-      twitter: "lindleywhite"
-      linkedin: "https://www.linkedin.com/in/lindleywhite/"
     - name: "Brett Palmer"
       twitter: "brettgpalmer"
       employer: "Department of Workforce Services"
@@ -97,7 +93,7 @@ team_members: # Name is the only required field for team members.
       linkedin: "https://www.linkedin.com/in/lewis-andrea/"
       twitter: "AndreasiweL"
     - name: "Crystal Roberts"
-      employer: "Visible Supply Chain Management"
+      employer: "Netflix"
       linkedin: "linkedin.com/in/crystal-roberts-17a3853b"
       twitter: "CtheRoberts"
     - name: "Dan Petersen"
@@ -108,7 +104,7 @@ team_members: # Name is the only required field for team members.
       employer: "FranklinCovey"       # "Agile Coach"
       linkedin: "https://www.linkedin.com/in/katrinabrinkley/"
     - name: "Kollin Prince"
-      employer: "Virtustream"         # SRE
+      employer: "Moogsoft"         # SRE
       linkedin: "https://www.linkedin.com/in/kollin-prince/"
 organizer_email: "salt-lake-city@devopsdays.org" # Put your organizer email address here
 
