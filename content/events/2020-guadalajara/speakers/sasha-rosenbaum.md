@@ -9,4 +9,6 @@ linktitle = "sasha-rosenbaum"
 
 +++
 
-Sasha is a Program Manager on the Azure DevOps engineering team, focused on improving the alignment of the product with open source software. Sasha is a co-organizer of the DevOps Days Chicago conference, and recently published a book on Serverless computing in Azure with .NET.
+Sasha is a Sr. Program Manager at GitHub, focused on helping engineers be successful with using GitHub for work as well as for open source.
+
+Sasha is a chair of the new DeliveryConf, a co-organizer of DevOps Days Chicago, and an author of a book on Serverless Computing in Azure.

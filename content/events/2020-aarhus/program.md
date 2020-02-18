@@ -8,7 +8,7 @@ The program will be announced as soon as it is available, but you can expect two
 <div class = "row">
   <div class = "col">
     <hr />
-    TDB</a>.
+    TBD</a>.
     <hr />
   </div>
 </div>

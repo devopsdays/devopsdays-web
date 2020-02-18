@@ -91,8 +91,10 @@ sponsors:
     level: gold
   - id: d2iq
     level: gold
-  - id: eliassen-group
+  - id: datree
     level: gold
+  - id: eliassen-group
+    level: silver
   - id: gitlab
     level: gold
   - id: harness
@@ -103,11 +105,13 @@ sponsors:
     level: gold
   - id: logz
     level: silver  
-  - id: phoenixNAP
+  - id: phoenixnap
     level: silver
   - id: site24x7
     level: gold
   - id: sonatype
+    level: gold
+  - id: splunk
     level: gold
   - id: spotinst
     level: gold
