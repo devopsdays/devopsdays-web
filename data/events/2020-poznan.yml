@@ -39,7 +39,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
   - name: propose
   - name: registration
-#  - name: program
+  - name: program
 #  - name: speakers
   - name: sponsor
   - name: contact
@@ -171,3 +171,146 @@ sponsor_levels:
 #    label: Social Event
 #  - id: workshop
 #    label: Workshop
+
+program:
+  - title: "Registration"
+    type: custom
+    date: 2020-05-18
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening day #1"
+    type: custom
+    date: 2020-05-18
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "piotr-holubowicz"
+    type: talk
+    date: 2020-05-18
+    start_time: "09:15"
+    end_time: "10:00"
+  - title: "denis-rosa"
+    type: talk
+    date: 2020-05-18
+    start_time: "10:05"
+    end_time: "10:50"
+  - title: "Coffee break"
+    type: custom
+    date: 2020-05-18
+    start_time: "10:50"
+    end_time: "11:00"
+  - title: "Talk - TBD"
+    type: custom
+    date: 2020-05-18
+    start_time: "11:00"
+    end_time: "11:45"
+    background_color: "#abebff"
+  - title: "rafal-leszko"
+    type: talk
+    date: 2020-05-18
+    start_time: "11:50"
+    end_time: "12:35"
+  - title: "Lunch break"
+    type: custom
+    date: 2020-05-18
+    start_time: "12:45"
+    end_time: "13:30"
+  - title: "Ignite talks"
+    type: ignite
+    date: 2020-05-18
+    start_time: "13:30"
+    end_time: "13:45"
+  - title: "sebastian-grodzicki"
+    type: talk
+    date: 2020-05-18
+    start_time: "13:45"
+    end_time: "14:30"
+  - title: "Coffee break"
+    type: custom
+    date: 2020-05-18
+    start_time: "14:35"
+    end_time: "14:45"
+  - title: "Openspace"
+    type: open-space
+    date: 2020-05-18
+    start_time: "15:00"
+    end_time: "17:00"
+  - title: "Day finale and party invite"
+    type: custom
+    date: 2020-05-18
+    start_time: "17:00"
+    end_time: "17:15"
+  - title: "Evening party"
+    type: custom
+    date: 2020-05-18
+    start_time: "19:30"
+    end_time: "23:59"
+  - title: "Opening day #2"
+    type: custom
+    date: 2020-05-19
+    start_time: "9:00"
+    end_time: "9:15"
+  - title: "pini-reznik"
+    type: talk
+    date: 2020-05-19
+    start_time: "9:15"
+    end_time: "10:00"
+  - title: "richard-boyd"
+    type: talk
+    date: 2020-05-19
+    start_time: "10:05"
+    end_time: "10:50"
+  - title: "Coffee break"
+    type: custom
+    date: 2020-05-19
+    start_time: "10:50"
+    end_time: "11:00"
+  - title: "luis-herrera-armando-collazo"
+    type: talk
+    date: 2020-05-19
+    start_time: "11:00"
+    end_time: "11:45"
+  - title: "michal-el-fartas"
+    type: talk
+    date: 2020-05-19
+    start_time: "11:50"
+    end_time: "12:35"
+  - title: "Lunch break"
+    type: custom
+    date: 2020-05-19
+    start_time: "12:45"
+    end_time: "13:30"
+  - title: "Ignite talks"
+    type: ignite
+    date: 2020-05-19
+    start_time: "13:30"
+    end_time: "13:45"
+  - title: "renato-losio"
+    type: talk
+    date: 2020-05-19
+    start_time: "13:45"
+    end_time: "14:30"
+  - title: "Coffee break"
+    type: custom
+    date: 2020-05-19
+    start_time: "14:35"
+    end_time: "14:45"
+  - title: "Openspace"
+    type: open-space
+    date: 2020-05-19
+    start_time: "15:00"
+    end_time: "16:45"
+  - title: "Closing ceremony"
+    type: custom
+    date: 2020-05-19
+    start_time: "16:45"
+    end_time: "17:00"
+
+ignites:
+  - title: "lukasz-garczewski"
+    date: 2020-05-18
+  - title: "jagoda-sateja"
+    date: 2020-05-18
+  - title: "bartlomiej-sliwinski"
+    date: 2020-05-18
+  - title: "bob-walker"
+    date: 2020-05-19
