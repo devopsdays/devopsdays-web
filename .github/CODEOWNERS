@@ -16,3 +16,4 @@ package.json    @devopsdays/core-infra
 /.circleci/ @devopsdays/core-infra
 /bin/   @devopsdays/core-infra
 /.github/   @devopsdays/core-infra
+/static/robots.txt @devopsdays/core-infra
