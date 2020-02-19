@@ -1,9 +1,9 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_date = "2020-04-14"
+Talk_start_time = "12:50"
+Talk_end_time = "13:45"
 Title = "Chaos Engineering Bootcamp"
-Type = "talk"
+Type = "workshop"
 Speakers = ["ana-margarita-medina"]
 +++
 

@@ -1,7 +1,7 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_date = "2020-04-15"
+Talk_start_time = "13:40"
+Talk_end_time = "14:10"
 Title = "Lessons Learned from Cultivating Open Source Projects and Communities"
 Type = "talk"
 Speakers = ["jj-asghar"]

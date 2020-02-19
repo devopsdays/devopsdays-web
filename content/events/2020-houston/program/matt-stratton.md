@@ -1,9 +1,9 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_date = "2020-04-14"
+Talk_start_time = "15:20"
+Talk_end_time = "16:15"
 Title = "Blameless Postmortems: How to Actually Do Them"
-Type = "talk"
+Type = "workshop"
 Speakers = ["matt-stratton"]
 +++
 
