@@ -38,13 +38,13 @@ location: "Westin Hotel and Conference Center at the Domain" # Defaults to city,
 location_address: "11301 Domain Drive, Austin, Texas 78758" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+# - name: propose
   - name: registration
   - name: sponsor
   - name: location
- # - name: schedule
- # - name: program
- # - name: speakers
+# - name: schedule
+# - name: program
+# - name: speakers
   - name: contact
   - name: conduct
 # - name: example
