@@ -1,5 +1,6 @@
 # Production context: All deploys to the main
 # repository branch will inherit these settings.
+# this is a fake comment
 [context.production]
  command = "bin/netlify-production.sh"
  publish = "public/"
