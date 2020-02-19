@@ -1,18 +1,18 @@
 # This file identifies who needs to review pull requests that touch certain parts of the repo.
 # Each line is a file pattern followed by one or more owners.
 
-.gitignore  @mattstratton @bridgetkromhout @phrawzty @MikeRosTX
-config.toml @mattstratton @bridgetkromhout @phrawzty @MikeRosTX
-netlify.toml    @mattstratton @bridgetkromhout @phrawzty @MikeRosTX
-gulpfile.js @mattstratton @bridgetkromhout
-hugoserver.sh   @mattstratton @bridgetkromhout @phrawzty @MikeRosTX
-hugoserver.ps1  @mattstratton @bridgetkromhout @phrawzty @MikeRosTX
-package-lock.json   @mattstratton @bridgetkromhout
-package.json    @mattstratton @bridgetkromhout
-/data/core.toml @mattstratton @bridgetkromhout
-/utilities/ @mattstratton @bridgetkromhout @phrawzty @MikeRosTX
-/themes/devopsdays-theme/   @mattstratton @bridgetkromhout @phrawzty @MikeRosTX
-/content/page/  @mattstratton @bridgetkromhout @phrawzty @MikeRosTX
-/.circleci/ @mattstratton @bridgetkromhout 
-/bin/   @mattstratton @bridgetkromhout
-/.github/   @mattstratton @bridgetkromhout
+.gitignore  @devopsdays/core-infra
+config.toml @devopsdays/code-reviewers
+netlify.toml    @devopsdays/core-infra
+gulpfile.js @@devopsdays/core-infra
+hugoserver.sh   @devopsdays/core-infra
+hugoserver.ps1  @devopsdays/core-infra
+package-lock.json   @devopsdays/core-infra
+package.json    @devopsdays/core-infra
+/data/core.toml @devopsdays/code-reviewers
+/utilities/ @devopsdays/code-reviewers
+/themes/devopsdays-theme/   @devopsdays/theme-maintainers
+/content/page/  @devopsdays/code-reviewers
+/.circleci/ @devopsdays/core-infra
+/bin/   @devopsdays/core-infra
+/.github/   @devopsdays/core-infra
