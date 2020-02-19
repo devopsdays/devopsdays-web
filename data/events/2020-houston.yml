@@ -6,8 +6,8 @@ description: "Devopsdays is returning to Houston!" # Edit this to suit your pref
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2020-MM-DDTHH:MM:SS+TZ:TZ, like this:
-#   variable: 2019-01-04T00:00:00+02:00
-#   variable: 2019-01-05T23:59:59+02:00
+#   variable: 2020-01-04T00:00:00+02:00
+#   variable: 2020-01-05T23:59:59+02:00
 # Note: we allow 2020-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
 startdate:  2020-04-14T00:00:00-05:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
@@ -183,4 +183,228 @@ sponsor_levels:
     label: Corporate 
   - id: community
     label: Community
+program:
+  - title: "Registration, Breakfast, Sponsor Booths Open"
+    type: custom
+    date: 2020-04-14
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2020-04-14
+    start_time: "09:00"
+    end_time: "09:15"
+    background_color: "#D0D0D0"
+  - title: "ernest-mueller"
+    type: talk
+    date: 2020-04-14
+    start_time: "09:15"
+    end_time: "10:00"
+  - title: "Sponsors"
+    type: custom
+    date: 2020-04-14
+    start_time: "10:00"
+    end_time: "10:15"
+    background_color: "#D0D0D0"
+  - title: "dan-zentgraf"
+    type: talk
+    date: 2020-04-14
+    start_time: "10:25"
+    end_time: "10:55"
+  - title: "patrick-poulin"
+    type: talk
+    date: 2020-04-14
+    start_time: "11:00"
+    end_time: "11:35"
+  - title: "angel-rivera"
+    type: workshop
+    date: 2020-04-14
+    start_time: "10:20"
+    end_time: "11:20"
+    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill<br/>  
+      &nbsp; &nbsp; *Required*: Laptop, and accounts on GitHub, CircleCI, DockerHub."
+  - title: "Open Spaces Topic Selection"
+    type: custom
+    date: 2020-04-16
+    start_time: "11:40"
+    end_time: "12:00"
+  - title: "Lunch, Visit Sponsor Booths"
+    type: "custom"
+    date: 2020-04-14
+    start_time: "12:00"
+    end_time: "13:00"
+  - title: "mark-scott"
+    type: talk
+    date: 2020-04-14
+    start_time: "12:40"
+    end_time: "13:10"
+  - title: "dan-lorenc"
+    type: talk
+    date: 2020-04-14
+    start_time: "13:20"
+    end_time: "13:50"
+  - title: "margarita-medina"
+    type: workshop
+    date: 2020-04-14
+    start_time: "12:50"
+    end_time: "13:45"
+  - title: "Open Space Session #1"
+    type: open-space
+    date: 2020-04-14
+    start_time: "14:00"
+    end_time: "14:35"
+  - title: "Open Space Session #2"
+    type: open-space
+    date: 2020-04-14
+    start_time: "14:40"
+    end_time: "15:10"
+  - title: "dan-lorenc"
+    type: talk
+    date: 2020-04-14
+    start_time: "13:20"
+    end_time: "13:50"
+  - title: "sabine-khan"
+    type: talk
+    date: 2020-04-14
+    start_time: "16:00"
+    end_time: "16:30"
+  - title: "matty-stratton"
+    type: workshop
+    date: 2020-04-14
+    start_time: "15:20"
+    end_time: "16:15"
+  - title: "Ignite Talks:"
+    type: ignite
+    date: 2020-04-14
+    start_time: "14:40"
+    end_time: "15:25"
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2020-04-15
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2020-04-15
+    start_time: "09:00"
+    end_time: "09:15"
+    background_color: "#D0D0D0"
+  - title: "robert-reeves"
+    type: talk
+    date: 2020-04-15
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2020-04-15
+    start_time: "09:45"
+    end_time: "10:00"
+    background_color: "#D0D0D0"
+  - title: "biswajit-das"
+    type: talk
+    date: 2020-04-15
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Break, Visit Sponsor Booths"
+    type: custom
+    date: 2020-04-15
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "brad-dausses"
+    type: workshop
+    date: 2020-04-15
+    start_time: "10:45"
+    end_time: "12:00"
+    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill<br/>  
+      &nbsp; &nbsp; *Required*: Laptop with RDP"
+  - title: "shaun-ladewig"
+    type: talk
+    date: 2020-04-15
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "oleg-atamanenko"
+    type: talk
+    date: 2020-04-15
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch, Visit Sponsor Booths"
+    type: "custom"
+    date: 2020-04-15
+    start_time: "12:00"
+    end_time: "13:00"
+  - title: "kevin-crawley"
+    type: talk
+    date: 2020-04-15
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Open Space (Attendee Led Breakout Session) Organizing"
+    type: open-space
+    date: 2020-04-15
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Break, Visit Sponsor Booths"
+    type: "custom"
+    date: 2020-04-15
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: "eddie-zaneski"
+    type: workshop
+    date: 2020-04-15
+    start_time: "14:15"
+    end_time: "15:30"
+    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill<br/>  
+      &nbsp; &nbsp; *Required*: Laptop with Kubernetes, kubectl, Helm, and accounts on GCP, Azure, AWS, or DO"
+  - title: "john-esser"
+    type: talk
+    date: 2020-04-15
+    start_time: "14:30"
+    end_time: "15:00"
+  - title: "lee-barnes"
+    type: talk
+    date: 2020-04-15
+    start_time: "15:00"
+    end_time: "15:30"
+  - title: "Open Space (Attendee Led Breakout Session) Break"
+    type: custom
+    date: 2020-04-15
+    start_time: "15:30"
+    end_time: "15:40"
+  - title: "Open Space (Attendee Led Breakout Session) #1"
+    type: open-space
+    date: 2020-04-15
+    start_time: "15:40"
+    end_time: "16:10"
+  - title: "Open Space (Attendee Led Breakout Session) Break"
+    type: custom
+    date: 2020-04-15
+    start_time: "16:10"
+    end_time: "16:20"
+  - title: "Open Space (Attendee Led Breakout Session) #2"
+    type: open-space
+    date: 2020-04-15
+    start_time: "16:20"
+    end_time: "16:50"
+  - title: "Open Space (Attendee Led Breakout Session) Break"
+    type: custom
+    date: 2020-04-15
+    start_time: "16:50"
+    end_time: "17:00"
+  - title: "Open Space (Attendee Led Breakout Session) #3"
+    type: open-space
+    date: 2020-04-15
+    start_time: "17:00"
+    end_time: "17:30"
+  - title: "Closing"
+    type: custom
+    date: 2020-04-15
+    start_time: "17:30"
+    end_time: "17:45"
+    background_color: "#D0D0D0"
 
+ignites:
+  - title: "margaret-valtierra"
+    date: "2020-04-16"
+  - title: "jj-asghar"
+    date: "2020-04-16"
+
+    
