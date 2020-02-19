@@ -34,11 +34,11 @@ location: "Iowa Events Center" # Defaults to city, but you can make it the venue
 location_address: "730 3rd Street, Des Moines, IA 50309" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements:
-  - name: propose
+#  - name: propose
   - name: location
  # - name: registration
  # - name: program
- # - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -86,6 +86,8 @@ organizer_email: "des-moines@devopsdays.org" # Put your organizer email address 
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
   - id: trility
+    level: gold
+  - id: launch-darkly
     level: gold
   - id: sourceallies
     level: lanyard

@@ -34,14 +34,14 @@ coordinates: "52.403698, 16.909210" # The coordinates of your city. Get Latitude
 location: "Iglica MTP" # Defaults to city, but you can make it the venue name.
 #
 location_address: "East Gate MTP, ul Głogowska 14, Poznań" #Optional - use the street address of your venue. This will show up on the welcome page if set.
-
+sharing_image: "sharing.jpg"
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
   - name: propose
   - name: registration
 #  - name: program
 #  - name: speakers
-#  - name: sponsor
+  - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
@@ -105,10 +105,13 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/klaudia-nawrot-ja%C5%9Bniak-97283180/"
     image: klaudia-nawrot.jpg
   - name: "Artur Szott"
-    employer: "HolidayCheck AG"
+    employer: "Bitnoise"
     linkedin: "https://www.linkedin.com/in/arturszott/"
     image: artur-szott.jpg
-
+  - name: "Adam Nowak"
+    employer: "Netguru S.A."
+    linkedin: "https://www.linkedin.com/in/lubieniebieski/"
+    image: adam-nowak.jpg
 
 organizer_email: "poznan@devopsdays.org" # Put your organizer email address here
 #proposal_email: "proposals-poznan-2019@devopsdays.org" # Put your proposal email address here

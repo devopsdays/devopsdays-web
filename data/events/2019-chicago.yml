@@ -28,6 +28,7 @@ registration_closed: "true" #set this to true if you need to manually close regi
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 masthead_background: "skyline-night.jpg"
+sharing_image: "sharing.jpg"
 
 # Location
 #
@@ -162,7 +163,7 @@ sponsors:
     level: gold
   - id: gitlab
     level: silver
-  - id: solarwinds
+  - id: solarwinds-before-20200114
     level: gold 
   - id: netapp
     level: silver
@@ -195,7 +196,7 @@ sponsors:
     level: silver
   - id: zoro
     level: silver
-  - id: instana
+  - id: instana-before-20200127
     level: silver
   - id: circleci
     level: silver

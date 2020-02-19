@@ -45,10 +45,10 @@ We greatly value sponsors for this open event.  If you are interested in sponsor
     <td bgcolor="#FCDEBB"><center>1</center></td>
     <td bgcolor="#FCDEBB"><center>2</center></td>
     <td bgcolor="#FCDEBB"><center>unlimited</center></td>
-    <td bgcolor="#B3DEC7"><center>5</center></td>
+    <td bgcolor="#B3DEC7"><center>4</center></td>
     <td bgcolor="#B3DEC7"><center>3</center></td>
     <td bgcolor="#B3DEC7"><center>unlimited</center></td>
-    <td bgcolor="#E2B3CE"><center>1</center></td>
+    <td bgcolor="#E2B3CE"><center><b><font color=red>SOLD OUT</font></b></center></td>
     <td bgcolor="#E2B3CE"><center><b><font color=red>SOLD OUT</font></b></center></td>
   </tr>
   <tr>

@@ -34,10 +34,10 @@
   <div class = "col-md-3 offset-md-1">
     {{- with .Params.image -}}
       {{- if ne . "" -}}
-        <img src = "{{ (printf "/events/%s/speakers/%s" $e.name .) }}" class="speaker-page" alt="{{ $.Title }}"/><br />
+        <img src = "{{ (printf "/events/%s/speakers/%s" $e.name .) }}" class="img-fluid" alt="{{ $.Title }}"/><br />
       {{- end -}}
       {{- else -}}
-        <img src = {{ "/img/speaker-default.jpg"}} class="speaker-page"  alt="{{ .Title }}"/><br />
+        <img src = {{ "/img/speaker-default.jpg"}} class="img-fluid"  alt="{{ .Title }}"/><br />
     {{- end -}}
     {{- if isset .Params "twitter" -}}
       {{- if ne .Params.twitter "" -}}

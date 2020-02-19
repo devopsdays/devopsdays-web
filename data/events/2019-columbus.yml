@@ -95,7 +95,7 @@ proposal_email: "proposals-columbus-2019@devopsdays.org" # Put your proposal ema
 sponsors:
   - id: f5
     level: gold
-  - id: sysdig
+  - id: sysdig-before-20200210
     level: gold
   - id: 2015-covermymeds
     level: gold
@@ -115,7 +115,7 @@ sponsors:
     level: gold
   - id: newrelic
     level: gold
-  - id: hcl
+  - id: hcl-before-20200120
     level: gold
   - id: gitlab
     level: gold
@@ -131,7 +131,7 @@ sponsors:
     level: silver
   - id: liatrio
     level: silver
-  - id: instana
+  - id: instana-before-20200127
     level: silver
   - id: signalfx
     level: silver

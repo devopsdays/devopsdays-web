@@ -120,12 +120,18 @@ proposal_email: "aracaju@devopsdays.org" # Put your proposal email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: arresteddevops
+#  - id: arresteddevops
+#    level: community
+  - id: guiafoca
     level: community
   - id: tipolight
     level: community
   - id: liquet
     level: community
+  - id: unit
+    level: institutional
+  - id: db1
+    level: gold
   
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -135,9 +141,9 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: happyhour
-    label: Happy Hour
-    max: 2
+#  - id: happyhour
+#    label: Happy Hour
+#    max: 2
   - id: platinum
     label: Platinum
     max: 3
@@ -150,9 +156,12 @@ sponsor_levels:
   - id: bronze
     label: bronze
     max: 10
-  - id: mealandsnack
-    label: Meal and Snack
-    max: 10
+  - id: institutional
+    label: Institutional
+    max: 1
+#  - id: mealandsnack
+#    label: Meal and Snack
+#    max: 10
   - id: community
     label: Community
     max: 10

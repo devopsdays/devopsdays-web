@@ -186,13 +186,13 @@ sponsors:
     level: platinum
   - id: gitlab
     level: platinum
-  - id: instana
+  - id: instana-before-20200127
     level: platinum
   - id: devopsdaysdc
     level: platinum
   - id: usds-before-20180516
     level: platinum
-  - id: nutanix
+  - id: nutanix-before-20200127
     level: platinum
   - id: onyx-point
     level: happyhour

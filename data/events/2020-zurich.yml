@@ -22,11 +22,11 @@ cfp_date_announce: 2020-04-30T00:00:00+02:00 # inform proposers of status
 cfp_open: "true"
 cfp_link: "https://sessionize.com/devopsdayszh-2020/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2020-02-10T00:00:00+02:00
+registration_date_end: 2020-09-07T00:00:00+02:00
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://ti.to/dod/dodzh2020" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -38,7 +38,7 @@ location_address: "Technikumstrasse 8, 8400 Winterthur, Switzerland" #Optional -
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
   - name: location
- # - name: registration
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -77,8 +77,9 @@ team_members: # Name is the only required field for team members.
     twitter: "RomanoRoth"
     employer: "Zühlke Engineering AG"
     bio: "<p>I'm an experienced software consultant and DevOps enthusiast working at Zühlke. My passion lies in radically transforming monolithic waterfall IT organizations into scalable agile teams doing DevOps.</p>"
-    github: ""
-    facebook: ""
+    github: "https://github.com/RomanoRoth"
+    facebook: "https://www.facebook.com/romanoroth/"
+    website: "https://www.romanoroth.com"
     linkedin: "https://www.linkedin.com/in/romanoroth/"
     image: "romano-roth.jpg"
   - name: "Carsten Plum"
@@ -169,12 +170,22 @@ organizer_email: "zurich@devopsdays.org" # Put your organizer email address here
 sponsors:
   - id: zhlke
     level: bronze
+  - id: nine
+    level: silver
   - id: avega
     level: silver
   - id: devops-meetup-zurich
     level: community
   - id: devops-meetup-bern
     level: community
+  - id: swiss-cloud-native-day
+    level: community
+  - id: vshn
+    level: bronze
+  - id: sap
+    level: bronze
+  - id: googlecloud
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -185,9 +196,13 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Enterprise / Plenum 
+    max: 6
   - id: silver
     label: Startup / Foyer / Evening Event / Meals & Coffee
+    max: 7
   - id: bronze
-    label: Jobboard / Freinds
+    label: Jobboard / Friends
+    max: 0
   - id: community
     label: Community
+    max: 0

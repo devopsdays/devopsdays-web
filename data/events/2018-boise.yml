@@ -63,7 +63,7 @@ sponsors:
     level: bronze
   - id: redhat-before-20190528
     level: gold
-  - id: nutanix
+  - id: nutanix-before-20200127
     level: silver
   - id: idahotechcouncil
     level: community

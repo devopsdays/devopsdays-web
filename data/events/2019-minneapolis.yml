@@ -123,7 +123,7 @@ sponsors:
     level: community
   - id: softwaredefinedtalk
     level: community
-  - id: instana
+  - id: instana-before-20200127
     level: silver
   - id: minnestar
     level: community
@@ -141,7 +141,7 @@ sponsors:
     level: platinum
   - id: ahead
     level: platinum
-  - id: sysdig
+  - id: sysdig-before-20200210
     level: silver
   - id: sps_commerce
     level: platinum
@@ -163,7 +163,7 @@ sponsors:
     level: community
   - id: countryfinancial
     level: alacarte
-  - id: nutanix
+  - id: nutanix-before-20200127
     level: gold
   - id: oraclecloud
     level: silver

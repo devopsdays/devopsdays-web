@@ -14,9 +14,9 @@ startdate: 2020-09-01T00:08:00-06:00 # The start date of your event. Leave blank
 enddate: 2020-09-02T00:17:00-06:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start:  2020-02-07T00:07:00-06:00 # start accepting talk proposals.
+cfp_date_end:  2020-05-01T00:23:00-06:00 # close your call for proposals.
+cfp_date_announce:  2020-06-01T00:08:00-06:00 # inform proposers of status
 
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
@@ -27,6 +27,8 @@ registration_closed: "" #set this to true if you need to manually close registra
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 masthead_background: "skyline-night.jpg"
+sharing_image: "sharing.png"
+
 
 # Location
 #
@@ -37,7 +39,7 @@ location_address: "725 West Roosevelt Road, Chicago, Illinois 60608" #Optional -
 
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
   - name: location
  # - name: registration
  # - name: program
@@ -59,11 +61,11 @@ team_members:
     linkedin: "https://www.linkedin.com/in/jerrycattell"
   - name: "Sasha Rosenbaum"
     image: "sasha-rosenbaum.jpg"
-    employer: "Microsoft"
+    employer: "GitHub"
     twitter: "DivineOps"
-    website: "http://divineops.net"
+    website: "https://www.sasharosenbaum.com/"
     linkedin: "https://www.linkedin.com/in/sasha-rosenbaum"
-    bio: "Sasha Rosenbaum is a Program Manager on the Azure DevOps engineering team, focused on making the technology better aligned with open source software projects. Sasha is passionate about DevOps, company culture and collaboration in IT teams."
+    bio: "Sasha is a Program Manager at GitHub, focused on helping engineers be successful with using GitHub for work as well as for open source. In addition to co-organizing DevOpsDays Chicago, Sasha is a chair of the new DeliveryConf, and an author of a book on Serverless Computing in Azure."
     github: "DivineOps"
   - name: "Albert Cheung"
     linkedin: "http://www.linkedin.com/in/albcheung"
@@ -141,6 +143,10 @@ sponsors:
     level: community
   - id: chicago-devops
     level: community
+  - id: launch-darkly
+    level: gold
+  - id: appdynamics
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

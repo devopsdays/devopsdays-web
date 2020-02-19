@@ -26,8 +26,8 @@ location: "大崎ブライトコアホール" # Defaults to city, but you can ma
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: devopsdaystokyo.org
     url: https://www.devopsdaystokyo.org/
-  #- name: program
-  #  url: https://confengine.com/devopsdays-tokyo-2018/schedule
+  - name: program
+    url: https://sessionize.com/devopsdays-tokyo-2020/
   - name: location
   - name: registration
     url: https://www.eventbrite.com/e/devopsdays-tokyo-2020-tickets-78136842399

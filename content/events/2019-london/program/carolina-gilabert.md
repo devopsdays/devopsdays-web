@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Panic Driven Development"
 Type = "talk"
 Speakers = ["carolina-gilabert"]
+Youtube = "yVWNuv_j05k"
 +++
 
 We often think of our automated testing and build pipelines as something important to our stakeholders, to assert the stability of our system. Some developers think of testing as a chore, or something that slows you down.

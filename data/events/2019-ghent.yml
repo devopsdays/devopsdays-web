@@ -107,7 +107,7 @@ sponsors:
     level: platinum
   - id: vmware
     level: platinum
-  - id: nutanix
+  - id: nutanix-before-20200127
     level: platinum
   # social
   # gold
@@ -132,7 +132,7 @@ sponsors:
   - id: devoteam
     level: gold
   # lanyard
-  - id: sysdig
+  - id: sysdig-before-20200210
     level: lanyard
   # silver
   - id: dpg-media
@@ -143,11 +143,11 @@ sponsors:
     level: silver
   - id: netways
     level: silver
-  - id: sysdig
+  - id: sysdig-before-20200210
     level: silver
   - id: showpad
     level: silver
-  - id: logz
+  - id: logz-before-20200211
     level: silver
   - id: hashicorp
     level: silver

@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Git Top Tips"
 Type = "talk"
 Speakers = ["edward-thomson"]
+Youtube = "V8ToS8_wWQw"
 +++
 
 Git is universal, used by nearly every developer and software team. Despite its

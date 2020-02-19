@@ -4,7 +4,8 @@ Type = "event"
 Description = "Sponsor devopsdays Houston 2020"
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
+##### We greatly value sponsors for this open event. Please see our <a href="/events/2020-houston/sponsorship-prospectus.pdf">Sponsorship Prospectus</a> for details about the event and sponsorship levels. If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
+
 <hr>
 
 devopsdays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
@@ -18,6 +19,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
 
 <div style="width:800px">
 <h2>Sponsorship Levels</h2>
+Please see our <a href="/events/2020-houston/sponsorship-prospectus.pdf">Sponsorship Prospectus</a> for more details about the event and sponsorship levels.
 <h3>Standard Sponsorships</h3>
 <table border=1 cellspacing=1>
 <style>
@@ -72,12 +74,13 @@ The best thing to do is send engineers to interact with the experts at devopsday
 </form>
         </center></th>
         <th valign="top"><center>
-        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+		<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="3ZWKAEXK26UPW">
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
+	<span class="btn btn-danger btn-sm" style="width:80%">Just 1 left</span>
         </center></th>
     </tr>
     <tr>
@@ -90,7 +93,6 @@ The best thing to do is send engineers to interact with the experts at devopsday
         <td bgcolor="gold"><center>3</center></td>
         <td bgcolor="gold"><center>4</center></td>
     </tr>
-
     <tr>
         <td class="l">Logo on event website</td>
         <td bgcolor="gold">&#x2714;</td>
@@ -98,7 +100,6 @@ The best thing to do is send engineers to interact with the experts at devopsday
         <td bgcolor="gold">&#x2714;</td>
         <td bgcolor="gold">&#x2714;</td>
     </tr>
-
     <tr>
         <td class="l">Logo on room signage</td>
         <td bgcolor="gold">Small</td>
@@ -106,7 +107,6 @@ The best thing to do is send engineers to interact with the experts at devopsday
         <td bgcolor="gold">Medium</td>
         <td bgcolor="gold">Large</td>
     </tr>
-    
     <tr>
         <td class="l">Logo on all email communication</td>
         <td>&nbsp;</td>
@@ -114,7 +114,6 @@ The best thing to do is send engineers to interact with the experts at devopsday
         <td bgcolor="gold">&#x2714;</td>
         <td bgcolor="gold">&#x2714;</td>
     </tr>
-    
     <tr>
         <td class="l">Logo on shared slide, rotating during breaks</td>
         <td>&nbsp;</td>
@@ -122,7 +121,6 @@ The best thing to do is send engineers to interact with the experts at devopsday
         <td bgcolor="gold">&#x2714;</td>
         <td>&nbsp;</td>
     </tr>
-
     <tr>
         <td class="l">Logo on dedicated slide, rotating during breaks</td>
         <td>&nbsp;</td>
@@ -130,7 +128,6 @@ The best thing to do is send engineers to interact with the experts at devopsday
         <td>&nbsp;</td>
         <td bgcolor="gold">&#x2714;</td>
     </tr>
-    
     <tr>
         <td class="l">Shared (half of) 6' table</td>
         <td>&nbsp;</td>
@@ -138,7 +135,6 @@ The best thing to do is send engineers to interact with the experts at devopsday
         <td>&nbsp;</td>
         <td>&nbsp;</td>
     </tr>
-
     <tr>
         <td class="l">Full 6' table</td>
         <td>&nbsp;</td>
@@ -146,7 +142,6 @@ The best thing to do is send engineers to interact with the experts at devopsday
         <td bgcolor="gold">&#x2714;</td>
         <td bgcolor="gold">&#x2714;</td>
     </tr>
-    
     <tr>
         <td class="l">Choice of table location</td>
         <td>&nbsp;</td>

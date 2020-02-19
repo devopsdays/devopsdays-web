@@ -9,7 +9,7 @@ Description = "Propose a talk for devopsdays Porto Alegre 2020"
 
 There are three ways to propose a topic at devopsdays:
 <ol>
-  <li><strong><em>A 30-minute talk</em></strong> presented during the conference, usually in the mornings.</li>
+  <li><strong><em>A 15-minute talk</em></strong> presented during the conference, usually in the mornings.</li>
   <li><strong><em>An Ignite talk</em></strong> presented during the <a href="/pages/ignite-talks-format">Ignite sessions</a> (scheduling varies). These are 5 minutes slots with slides changing every 15 seconds (20 slides total).</li>
   <li><strong><em>Open Space</em></strong>: If you'd like to lead a group discussion during the attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout sessions, it is not necessary to propose it ahead of time. Those topics are suggested in person at the conference. If you'd like to demo your product or service, you should <a href="../sponsor">sponsor the event</a> and demo it at your table.
 </ol>
@@ -27,9 +27,4 @@ Choosing talks is part art, part science; here are some factors we consider when
 
 <hr>
 
-<strong>How to submit a proposal:</strong> Send an email to [{{< email_organizers >}}] with the following information
-<ol>
-	<li>Type (presentation, panel discussion, ignite)</li>
-	<li>Proposal Title (can be changed later)</li>
-	<li>Description (several sentences explaining what attendees will learn)</li>
-</ol>
+<strong>How to submit a proposal:</strong> Visit https://cfp.devopsdays.com.br/poa2020 and submit your proposal.

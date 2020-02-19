@@ -230,7 +230,7 @@ sponsors:
     level: gold
   - id: liatrio
     level: silver
-  - id: instana
+  - id: instana-before-20200127
     level: silver
   - id: signalfx
     level: platinum
@@ -246,7 +246,7 @@ sponsors:
     level: silver
   - id: logdna
     level: silver
-  - id: sysdig
+  - id: sysdig-before-20200210
     level: silver
   - id: chef
     level: gold

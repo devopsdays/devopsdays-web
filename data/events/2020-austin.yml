@@ -17,16 +17,16 @@ startdate: 2020-05-04T00:00:00-05:00 # The start date of your event. Leave blank
 enddate:  2020-05-05T23:59:59-05:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2020-01-13T00:00:00-05:00 # start accepting talk proposals.
+cfp_date_end: 2020-02-14T23:59:59-05:00 # close your call for proposals.
+cfp_date_announce: 2020-02-28T23:59:59-05:00 # inform proposers of status
 
 cfp_open: "false"
 # https://www.papercall.io/devopsdays-austin-2019
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2020-01-13T00:00:00-05:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2020-05-05T23:59:59-05:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -38,15 +38,15 @@ location: "Westin Hotel and Conference Center at the Domain" # Defaults to city,
 location_address: "11301 Domain Drive, Austin, Texas 78758" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: propose
+  - name: registration
+  - name: sponsor
   - name: location
  # - name: schedule
- # - name: registration
  # - name: program
  # - name: speakers
-  - name: sponsor
   - name: contact
   - name: conduct
- # - name: propose
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -142,12 +142,12 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/tmhall99/"
     image: "tom.jpg"
   - name: "Ian Richardson"
-    twitter: ""
-    employer: ""
-    bio: ""
-    github: ""
+    twitter: "@ianrichardson"
+    employer: "Reflexion Health"
+    bio: "Ian Richardson is a Director of Engineering at Reflexion Health and has specialized in Healthcare IT for over 12 years. Ian has been a DevOpsDays Austin organizer since 2015. He loves talking about technology, video games, and cars."
+    github: "https://github.com/ianrichardson"
     facebook: ""
-    linkedin: ""
+    linkedin: "https://www.linkedin.com/in/ianrichardson"
     image: "ian.jpg"
   - name: "Chris Casey"
     twitter: ""
@@ -157,14 +157,6 @@ team_members: # Name is the only required field for team members.
     facebook: ""
     linkedin: "https://www.linkedin.com/in/chris-casey-021a2750/"
     image: "chris.jpg"
-  - name: "Carl Perry"
-    twitter: "edolnx"
-    employer: "Sphere Cube LLC"
-    bio: "Director of Server Housing, Interconnects, Electrical, and Logistics Division at a tiny hosting company you've never heard of. AV and Racing nerd. Has many horror stories of HDMI and HDCP."
-    github: "edolnx"
-    facebook: ""
-    linkedin: "https://www.linkedin.com/in/carl-perry-9a0380a"
-    image: "carl.jpg"
   - name: "Asif Ahmad"
     twitter: "dabrownkid84"
     employer: "National Instruments"
@@ -189,14 +181,51 @@ team_members: # Name is the only required field for team members.
     facebook: "http://tirefi.re/facebook/"
     linkedin: "https://www.linkedin.com/in/sdmouton/"
     image: "shaun.jpg"
+  - name: "Bailey Moore"
+    twitter: ""
+    employer: "Netspend"
+    bio: "Bailey is a DevSecOps Engineer at Netspend focused on securing automation and automating security."
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/bailey-moore-95120914/"
+    image: "bailey.jpg"
+  - name: "Marisa Sawatphadungkij"
+    twitter: ""
+    employer: "Enverus"
+    bio: "Marisa has been in the tech industry for over 20 years. Yes, I'm aging myself but I've had the privilege to develop my leadership and tech skills through various roles. Currently I'm part of HR as the HR Operations Engineer. This gives me an opportunity to bring the DevOps mindset to the HR team."
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/mar1sa/"
+    image: "marisa.jpg"
 organizer_email: "austin@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  
+  - id: chaossearch
+    level: platinum
+  - id: site24x7
+    level: platinum
+  - id: contrast_security
+    level: platinum
+  - id: codefresh
+    level: platinum
+  - id: circleci
+    level: gold
+  - id: xmatters
+    level: gold
+  - id: instana
+    level: gold
+  - id: appdynamics
+    level: gold
+  - id: 42lines
+    level: gold
+  - id: lightstep
+    level: gold
+  - id: launch-darkly
+    level: gold
 
-sponsors_accepted : "false" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "true" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For

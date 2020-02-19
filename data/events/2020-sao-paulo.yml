@@ -12,15 +12,16 @@ event_group: "São Paulo"
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2020-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate:  2020-07-02T00:09:00-03:00
+enddate:  2020-07-03T18:00:00-03:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2020-02-14T23:59:59-03:00 # start accepting talk proposals.
+cfp_date_end: 2020-04-20T23:59:59-03:00 # close your call for proposals.
+cfp_date_announce: 2020-05-04T23:59:59-03:00 # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_open: "true"
+cfp_link: "https://forms.gle/NyK893S3bYoo7Ykd7" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: # close registration. Leave blank if registration is not open yet.
@@ -30,10 +31,9 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 # Location
 #
-coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Sao Paulo" # Defaults to city, but you can make it the venue name.
-#
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+coordinates: -23.572149, -46.653225 # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Hotel Pestana São Paulo " # Defaults to city, but you can make it the venue name.
+location_address: "R. Tutóia, 77 - Paraíso - São Paulo" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
@@ -41,13 +41,20 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: registration
  # - name: program
  # - name: speakers
-  - name: sponsor
+  - name: local
+    url: /events/2020-sao-paulo/local
+    icon: "map-o" 
+  - name: patrocínio
+    url: /events/2020-sao-paulo/sponsor
+    icon: "money"
   - name: contato
     url: /events/2020-sao-paulo/contato
     icon: "envelope-o"
   - name: código de conduta
     url: /events/2020-sao-paulo/conduta
     icon: "handshake-o"
+  - name: Chamadas (CFP)
+    url: /events/2020-sao-paulo/cfp    
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -62,12 +69,14 @@ team_members: # Name is the only required field for team members.
     bio: "Some years working as IT Manager, sysadmin and pseudo-developer, Co-host of 10Deploys podcast and zombie hunter."
     linkedin: "https://www.linkedin.com/in/fernandoike/"
 
-  - name: "Rafel Zago"
+  - name: "Rafael Zago"
     employer: "IBM"
     image: "rafael-zago.jpg"
     twitter: "rafaelvzago"
-    bio: "A bearded open source evangelist SysAdmin who has lived long enough to realize that I have much to learn"
+    bio: "A bearded open source evangelist SysAdmin and cloud architect who has lived long enough to realize that I have much to learn"
     linkedin: "https://www.linkedin.com/in/rafaelvzago"
+    github: "rafaelvzago"
+    website: "http://rafaelvzago.com"
 
   - name: "Lisandra Rocha"
     employer: "GFT"
@@ -78,9 +87,37 @@ team_members: # Name is the only required field for team members.
   - name: "Camila Santos"
     employer: "C6 Bank"
     image: "camila-santos.jpg"
-    bio: "Software Test Analyst Senior, enthusiast DevOps and Agile culture, mother of a wonderful boy and don't dispense a good cold beer."
+    bio: "QA, entusiasta das culturas Dev&Ops e Ágil, mãe do menino mais lindo que conheço e completamente apaixonada por tecnologia!"
     linkedin: "https://www.linkedin.com/in/camilafrasan/"
 
+  - name: "Wellington F. Silva"
+    employer: "Easy"
+    image: "wsilva.jpg"
+    twitter: "_wsilva"
+    bio: "IT guy, used to be a drummer, loves to fly, father, speaker, author, coffee and Pizza addicted"
+    linkedin: "https://www.linkedin.com/in/wfsilva/"
+  
+  - name: "Diego de Souza"
+    employer: "TV Globo"
+    image: "diego-souza.jpg"
+    bio: "A passionate supporter of devops culture, learning more and more with this community!"
+    linkedin: "https://www.linkedin.com/in/dsouzasccp/"
+  
+  - name: "Taiana Nunes"
+    employer: "SOMOS Educacao"
+    image: "taiana-nunes.jpg"
+    bio: "QA analyst, learning automation, mother, Candy Crush addict and beer lover."
+    linkedin: "https://www.linkedin.com/in/taiananunes/"
+    
+  - name: "Marco Antonio Martins Junior (Somatório)"
+    employer: "Compasso"
+    image: "marco-junior.jpg"
+    twitter: "somatorio"
+    bio: "Peão as a Service, entusiasta da cultura DevOps, Docker community leader (Porto Alegre), fuçador convicto, roda praticamente tudo em containers, jogador noob (sim, tudo no easy) sempre que tem a chance"
+    linkedin: "https://www.linkedin.com/in/somatorio/"
+    github: "somatorio"
+    facebook: "https://facebook.com/osomatorio"
+    website: "http://somatorio.org"
 
 organizer_email: "sao-paulo@devopsdays.org" # NEW email format. Put your organizer email address here
 # proposal_email: "proposals-sao-paulo-2020@devopsdays.org" # DEPRECATED, no longer used. Put your proposal email address here
@@ -101,11 +138,14 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: platinum
+    label: Platina
+#    max: 10  
   - id: gold
-    label: Gold
+    label: Ouro
 #    max: 10
   - id: silver
-    label: Silver
+    label: Prata
     max: 0 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
