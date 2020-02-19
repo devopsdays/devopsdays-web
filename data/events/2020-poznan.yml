@@ -197,48 +197,48 @@ program:
     type: custom
     date: 2020-05-18
     start_time: "10:50"
-    end_time: "11:00"
+    end_time: "11:10"
   - title: "Talk - TBD"
     type: custom
     date: 2020-05-18
-    start_time: "11:00"
-    end_time: "11:45"
+    start_time: "11:10"
+    end_time: "11:55"
     background_color: "#abebff"
   - title: "rafal-leszko"
     type: talk
     date: 2020-05-18
-    start_time: "11:50"
-    end_time: "12:35"
+    start_time: "12:00"
+    end_time: "12:45"
   - title: "Lunch break"
     type: custom
     date: 2020-05-18
     start_time: "12:45"
-    end_time: "13:30"
+    end_time: "13:45"
   - title: "Ignite talks"
     type: ignite
     date: 2020-05-18
-    start_time: "13:30"
-    end_time: "13:45"
+    start_time: "13:45"
+    end_time: "14:00"
   - title: "sebastian-grodzicki"
     type: talk
     date: 2020-05-18
-    start_time: "13:45"
-    end_time: "14:30"
+    start_time: "14:05"
+    end_time: "14:50"
   - title: "Coffee break"
     type: custom
     date: 2020-05-18
-    start_time: "14:35"
-    end_time: "14:45"
+    start_time: "14:50"
+    end_time: "15:10"
   - title: "Openspace"
     type: open-space
     date: 2020-05-18
-    start_time: "15:00"
-    end_time: "17:00"
+    start_time: "15:10"
+    end_time: "16:45"
   - title: "Day finale and party invite"
     type: custom
     date: 2020-05-18
-    start_time: "17:00"
-    end_time: "17:15"
+    start_time: "16:45"
+    end_time: "17:00"
   - title: "Evening party"
     type: custom
     date: 2020-05-18
@@ -264,41 +264,41 @@ program:
     type: custom
     date: 2020-05-19
     start_time: "10:50"
-    end_time: "11:00"
+    end_time: "11:10"
   - title: "luis-herrera-armando-collazo"
     type: talk
     date: 2020-05-19
-    start_time: "11:00"
-    end_time: "11:45"
+    start_time: "11:10"
+    end_time: "11:55"
   - title: "michal-el-fartas"
     type: talk
     date: 2020-05-19
-    start_time: "11:50"
-    end_time: "12:35"
+    start_time: "12:00"
+    end_time: "12:45"
   - title: "Lunch break"
     type: custom
     date: 2020-05-19
     start_time: "12:45"
-    end_time: "13:30"
+    end_time: "13:45"
   - title: "Ignite talks"
     type: ignite
     date: 2020-05-19
-    start_time: "13:30"
-    end_time: "13:45"
+    start_time: "13:45"
+    end_time: "14:00"
   - title: "renato-losio"
     type: talk
     date: 2020-05-19
-    start_time: "13:45"
-    end_time: "14:30"
+    start_time: "14:05"
+    end_time: "14:50"
   - title: "Coffee break"
     type: custom
     date: 2020-05-19
-    start_time: "14:35"
-    end_time: "14:45"
+    start_time: "14:50"
+    end_time: "15:10"
   - title: "Openspace"
     type: open-space
     date: 2020-05-19
-    start_time: "15:00"
+    start_time: "15:10"
     end_time: "16:45"
   - title: "Closing ceremony"
     type: custom
