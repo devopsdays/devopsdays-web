@@ -4,7 +4,7 @@
 .gitignore  @devopsdays/core-infra
 config.toml @devopsdays/code-reviewers
 netlify.toml    @devopsdays/core-infra
-gulpfile.js @@devopsdays/core-infra
+gulpfile.js @devopsdays/core-infra
 hugoserver.sh   @devopsdays/core-infra
 hugoserver.ps1  @devopsdays/core-infra
 package-lock.json   @devopsdays/core-infra
