@@ -3,7 +3,7 @@ Talk_date = "2020-04-14"
 Talk_start_time = "15:20"
 Talk_end_time = "16:15"
 Title = "Blameless Postmortems: How to Actually Do Them"
-Type = "workshop"
+Type = "talk"
 Speakers = ["matt-stratton"]
 +++
 

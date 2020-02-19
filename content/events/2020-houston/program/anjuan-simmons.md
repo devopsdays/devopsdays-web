@@ -1,5 +1,5 @@
 +++
-Talk_date = "2020-04-14"
+Talk_date = "2020-04-15"
 Talk_start_time = "13:00"
 Talk_end_time = "13:30"
 Title = "Leadership Lessons from the Agile Manifesto"

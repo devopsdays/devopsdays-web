@@ -3,7 +3,7 @@ Talk_date = "2020-04-15"
 Talk_start_time = "15:40"
 Talk_end_time = "16:35"
 Title = "Secure Your Load: Continuous Security and Compliance in a DevSecOps World"
-Type = "workshop"
+Type = "talk"
 Speakers = ["jody-wolfborn"]
 +++
 

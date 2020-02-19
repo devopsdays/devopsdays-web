@@ -3,7 +3,7 @@ Talk_date = "2020-04-14"
 Talk_start_time = "12:50"
 Talk_end_time = "13:45"
 Title = "Chaos Engineering Bootcamp"
-Type = "workshop"
+Type = "talk"
 Speakers = ["ana-margarita-medina"]
 +++
 

@@ -3,7 +3,7 @@ Talk_date = "2020-04-15"
 Talk_start_time = "13:10"
 Talk_end_time = "14:05"
 Title = "Navigating the seas of DevOps for Kubernetes"
-Type = "workshop"
+Type = "talk"
 Speakers = ["john-eldridge"]
 +++
 
