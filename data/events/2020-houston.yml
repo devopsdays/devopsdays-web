@@ -268,7 +268,7 @@ program:
     date: 2020-04-14
     start_time: "16:00"
     end_time: "16:30"
-  - title: "matty-stratton"
+  - title: "matt-stratton"
     type: workshop
     date: 2020-04-14
     start_time: "15:20"
@@ -289,7 +289,7 @@ program:
     start_time: "09:00"
     end_time: "09:15"
     background_color: "#D0D0D0"
-  - title: "maria-oneill"
+  - title: "maria-f-oneill"
     type: talk
     date: 2020-04-15
     start_time: "09:15"
@@ -305,7 +305,7 @@ program:
     date: 2020-04-15
     start_time: "10:20"
     end_time: "10:50"
-  - title: "paul-meharg"
+  - title: "paul-mehard"
     type: talk
     date: 2020-04-15
     start_time: "11:00"
