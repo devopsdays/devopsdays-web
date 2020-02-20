@@ -14,10 +14,9 @@ Description = "DevOpsDays Austin 2020"
     <div class="col-md-4">
       <h3>Your DevOpsDays Austin Experience</h3>
       <p>Each day starts with two keynotes and then three content tracks of expert talks in technology and tech culture. This year we've added two tracks of hands-on workshops as well. After lunch we have a series of lightning talks and then self-organize a series of small groups called openspaces. In these openspaces, attendees share and discuss their knowledge on a specific point topic of interest.  You’ll find many opportunities to participate, engage, and discuss with your peers at DevOpsDays Austin!</p>
-      <p><a href="../propose" class="btn btn-primary btn-block"><i class="fa fa-file-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Propose a Talk!</a></p>
+      <p><a href="../registration" class="btn btn-primary btn-block"><i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Register now!</a>
       <p>Expect talks and discussions from diverse voices on topics like developing resilient applications, monitoring and observability, building application security in via continuous integration, culture hacks, kubernetes tips, hiring good engineers, and many other subjects around modern challenges in dev, ops, QA, data, and management. Check out some talks from previous years on <a href="https://www.youtube.com/channel/UCK65QYThGym3D6eNxw3rn_A">YouTube</a> or follow us at <a href="https://twitter.com/DoDAustin">@DodAustin on Twitter</a>.</p>
       <p>We'd love for you to attend and to consider speaking or sponsoring. Your support is what makes DevOpsDays Austin possible!</p>
-      <p><a href="../registration" class="btn btn-primary btn-block"><i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Register now!</a>
       <a href="../sponsor" class="btn btn-primary btn-block"><i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor DevOpsDays Austin!</a></p>
     </div>
     <div class="col-md-4">

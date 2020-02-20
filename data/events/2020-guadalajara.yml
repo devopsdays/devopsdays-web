@@ -141,6 +141,8 @@ sponsors:
     level: silver
   - id: liferay
     level: bronze
+  - id: puppet
+    level: bronze
   - id: meetup-docker-guadalajara
     level: community
   - id: itrevolution
@@ -200,7 +202,7 @@ program:
     date: "2020-02-20"
     start_time: "09:15"
     end_time: "09:45"
-  - title: "Sponsors"
+  - title: "Sponsors - Experis, New Relic, and Elastic"
     type: custom
     date: "2020-02-20"
     start_time: "09:45"
@@ -225,7 +227,7 @@ program:
     date: "2020-02-20"
     start_time: "11:00"
     end_time: "11:30"
-  - title: "Sponsors"
+  - title: "Sponsors - ITESO, Wizeline, Startup GDL, and Gitlab"
     type: custom
     date: "2020-02-20"
     start_time: "11:30"
@@ -306,7 +308,7 @@ program:
     date: "2020-02-21"
     start_time: "09:15"
     end_time: "09:45"
-  - title: "Sponsors"
+  - title: "Sponsors - VMware, Kueski"
     type: custom
     date: "2020-02-21"
     start_time: "09:45"
@@ -326,7 +328,7 @@ program:
     date: "2020-02-21"
     start_time: "11:00"
     end_time: "11:30"
-  - title: "Sponsors"
+  - title: "Sponsors - Redis Labs, Logicalis, Terminal, and BrightCove"
     type: custom
     date: "2020-02-21"
     start_time: "11:30"
@@ -381,7 +383,7 @@ program:
     date: "2020-02-21"
     start_time: "18:00"
     end_time: "18:30"
-  - title: "Closing"
+  - title: "Raffle & Closing"
     type: custom
     date: "2020-02-21"
     start_time: "18:30"
