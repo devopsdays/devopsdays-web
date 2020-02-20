@@ -126,6 +126,18 @@ sponsors:
     level: community
   - id: saucelabs
     level: silver
+  - id: chef
+    level: gold
+  - id: vmware-tanzu
+    level: gold
+  - id: minnestar
+    level: community
+  - id: fastly
+    level: gold
+  - id: technovation-mn
+    level: community
+  - id: launch-darkly
+    level: silver
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

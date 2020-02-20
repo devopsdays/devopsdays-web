@@ -27,7 +27,7 @@ registration_date_end: 2020-04-22T17:00:00-04:00 # close registration. Leave bla
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
-
+sharing_image: "sharing.jpg"
 # Custom Links
 slack_link: "http://slack.baltimoretech.org"
 sponsor_faq_link: "https://docs.google.com/document/d/1O7SJsQJ5wRxVFgsN1hkA7M-3gD3IyeFOJdvsHsRx7Lo/edit?usp=sharing"

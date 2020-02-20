@@ -1,7 +1,7 @@
 +++
 Title = "Location"
 Type = "event"
-Description = "Location for DevOpsDays Austin 2019"
+Description = "Location for DevOpsDays Austin 2020"
 +++
 
 <style>
@@ -31,3 +31,14 @@ The [Westin Austin](https://www.marriott.com/hotels/travel/ausdw-the-westin-aust
 <p><strong>Westin Austin</strong><br/>
 11301 Domain Drive, Austin, Texas 78758 USA</p>
 {{< event_map >}}
+
+### Accommodations at Nearby Hotels
+
+If you're looking for a hotel near the event, consider these nearby options:
+
+* [Westin at the Domain](https://www.marriott.com/hotels/travel/ausdw-the-westin-austin-at-the-domain/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2)
+* [Residence Inn at the Domain](https://www.marriott.com/hotels/travel/ausnb-residence-inn-austin-northwest-the-domain-area/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2)
+* [Home2 Suites Domain](https://www.hilton.com/en/hotels/austdht-home2-suites-austin-north-near-the-domain/?SEO_id=GMB-HT-AUSTDHT)
+* [Archer Hotel](https://archerhotel.com/austin)
+* [Aloft Austin Domain](https://www.marriott.com/hotels/travel/ausal-aloft-austin-at-the-domain/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2)
+* [Lone Star Court](https://www.lonestarcourt.com/)
