@@ -4,7 +4,7 @@ Type = "event"
 Description = "Sponsor devopsdays Kraków 2020"
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
+We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [<a href="mailto:karolina.murdza@proidea.pl">karolina.murdza@proidea.pl</a>].
 
 <hr>
 
