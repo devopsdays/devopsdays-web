@@ -40,10 +40,9 @@ Description = "devopsdays Kraków 2020"
   </div>
   <div class="text">
     <a href="https://evenea.pl/event/dodkrakow2020/" type="button" class="btn btn-danger btn-lg btn-block">REGISTRATION</a>
-    <a href="mailto:karolina.murdza@proidea.pl" type="button" class="btn btn-danger btn-lg btn-block">SPONSOR</a>
+    <a href="/events/2020-krakow/contact" type="button" class="btn btn-danger btn-lg btn-block">SPONSOR & CONTACT</a>
     <a href="https://dodkrakow.pl/schedule/" type="button" class="btn btn-danger btn-lg btn-block">PROGRAM</a>
     <a href="https://dodkrakow.pl/speakers/" type="button" class="btn btn-danger btn-lg btn-block">SPEAKERS</a>
-    <a href="/events/2020-krakow/contact" type="button" class="btn btn-danger btn-lg btn-block">CONTACT</a>
   </div>
 </div>
 <br />
