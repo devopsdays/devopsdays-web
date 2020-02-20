@@ -1,7 +1,7 @@
 +++
 Type = "talk"
 Title = "1000 days of devops in bloody enterprise"
-Speakers = ["rosbank-team"]
+Speakers = ["yury-bulich", "dina-maltseva", "evgeny-pankov"]
 +++
 
 We would share our experience about solving problems durig devops-transformation in big company.
