@@ -75,7 +75,7 @@ Description = "DevOpsDays Singapore will take place April 23-24, 2020! We're enc
 <div class="row">
     <div class="col-md-4">
       <p><img alt="DevOpsDays Singapore 2020" src="/events/2020-singapore/logo.png" class="img-fluid"></p>
-      <p>DevOpsDays is a network of local, practitioner-focused, not-for-profit event covering topics of software development, IT infrastructure operations, and the intersection between them.  DevOpsDays Austin is in its fifth year, and will be held on <strong>April 23-24, 2020</strong>, at the <a href="../location">Fort Canning Hotel</a> in Singapore. We expect <strong>over 250 attendees</strong> this year.</p>
+      <p>DevOpsDays is a network of local, practitioner-focused, not-for-profit event covering topics of software development, IT infrastructure operations, and the intersection between them.  DevOpsDays Singapore is in its fifth year, and will be held on <strong>April 23-24, 2020</strong>, at the <a href="../location">Fort Canning Hotel</a> in Singapore. We expect <strong>over 250 attendees</strong> this year.</p>
       <p><a href="../contact">Contact the Organizers</a></p>
       <p><a href="../location">Look for Nearby Hotels</a></p>
       <p><a href="../program">Look for our Program</a></p>
