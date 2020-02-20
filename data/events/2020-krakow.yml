@@ -36,11 +36,11 @@ location: "Krakowski Teatr VARIETE"
 location_address: "Grzegórzecka 71, Kraków, Poland"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
  # - name: location
- # - name: registration
- # - name: program
- # - name: speakers
+  - name: registration
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -69,11 +69,12 @@ organizer_email: "krakow@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-#  - id: samplesponsorname
-#    level: gold
-# #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-#  - id: arresteddevops
-#    level: community
+  - id: ccie
+    level: community
+  - id: berlin-baltic-nordic-net
+    level: community
+  - id: sysopspolska
+    level: community
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
@@ -82,13 +83,6 @@ sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-#  - id: gold
-#    label: Gold
-##    max: 10
-#  - id: silver
-#    label: Silver
-#    max: 0 # This is the same as omitting the max limit.
-#  - id: bronze
-#    label: Bronze
-#  - id: community
-#    label: Community
+  - id: community
+    label: Community
+    max: 0
