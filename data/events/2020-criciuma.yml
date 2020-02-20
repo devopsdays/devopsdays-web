@@ -49,11 +49,6 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
-  - name: "Diovan Leal"
-    employer: "FEBACAPITAL"
-    bio: ""
-    image: "diovanleal.jpg"
-    twitter: ""
   - name: "Elinton Assis"
     employer: "Sysdata Tecnologia"
     bio: ""
@@ -73,16 +68,6 @@ team_members: # Name is the only required field for team members.
     employer: "LabTrack"
     bio: ""
     image: "jhonnystein.jpg"
-    twitter: ""
-  - name: "Joel da Rosa"
-    employer: "Page Interim"
-    bio: ""
-    image: "joelrosa.jpg"
-    twitter: ""
-  - name: "Priscila Santana"
-    employer: "PS Consultoria"
-    bio: ""
-    image: "priscilasantana.jpg"
     twitter: ""
 organizer_email: "criciuma@devopsdays.org" # Put your organizer email address here
 
