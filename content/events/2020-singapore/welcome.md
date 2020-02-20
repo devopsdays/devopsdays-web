@@ -5,73 +5,6 @@ aliases = ["/events/2020-singapore/"]
 Description = "DevOpsDays Singapore will take place April 23-24, 2020! We're encouraged by the feedback from previous year's events and are determined to bring an improved experience and continue the DevOps conversation for 2020 in Singapore."
 +++
 
-<div style="text-align:center;">
-  {{< event_logo >}}
-</div>
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Dates</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_start >}} - {{< event_end >}}
-  </div>
-</div>
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Location</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_location >}}
-  </div>
-</div>
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Register</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
-  </div>
-</div>
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Propose</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
-  </div>
-</div>
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Program</strong>
-  </div>
-  <div class = "col-md-8">
-    View the {{< event_link page="program" text="program." >}}
-  </div>
-</div>
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Sponsors</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="sponsor" text="Sponsor the conference!" >}}
-  </div>
-</div>
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Contact</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="contact" text="Get in touch with the organizers" >}}
-  </div>
-</div>
-
 <div class="row">
     <div class="col-md-4">
       <p><img alt="DevOpsDays Singapore 2020" src="/events/2020-singapore/logo.png" class="img-fluid"></p>
@@ -79,14 +12,15 @@ Description = "DevOpsDays Singapore will take place April 23-24, 2020! We're enc
       <p><a href="../contact">Contact the Organizers</a></p>
       <p><a href="../location">Look for Nearby Hotels</a></p>
       <p><a href="../program">Look for our Program</a></p>
+      <p><a href="../volunteer">Want to Volunteer?</a></p>
+      <p>We'd love for you to attend and to consider speaking or sponsoring. Your support is what makes DevOpsDays Singapore possible!</p>
+      <a href="../sponsor" class="btn btn-primary btn-block"><i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor DevOpsDays Singapore!</a></p>
     </div>
     <div class="col-md-4">
       <h3>Your DevOpsDays Singapore Experience</h3>
       <p>Each day starts with two keynotes and then three content tracks of expert talks in technology and tech culture. After lunch we have a series of lightning talks and then self-organize a series of small groups called openspaces. In these openspaces, attendees share and discuss their knowledge on a specific point topic of interest.  You’ll find many opportunities to participate, engage, and discuss with your peers at DevOpsDays Singapore!</p>
       <p><a href="../registration" class="btn btn-primary btn-block"><i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Register now!</a>
       <p>Expect talks and discussions from diverse voices on topics like developing resilient applications, monitoring and observability, building application security in via continuous integration, culture hacks, kubernetes tips, hiring good engineers, and many other subjects. Check out some talks from previous years on <a href="https://www.youtube.com/channel/UCvKd52G5RaLAWVugTdY4pBA">YouTube</a> or follow us at <a href="https://twitter.com/DevOpsDaysSG">@DevOpsDaysSG on Twitter</a>.</p>
-      <p>We'd love for you to attend and to consider speaking or sponsoring. Your support is what makes DevOpsDays Singapore possible!</p>
-      <a href="../sponsor" class="btn btn-primary btn-block"><i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor DevOpsDays Singapore!</a></p>
       <p>Our theme this year is the Cloud Operations. As more teams build and host applications and infrastructure in the cloud, the term <strong>CloudOps</strong> has gained traction. IT operations professionals have always been responsible for the monitoring, maintenance and installation of servers, networks and other IT infrastructure. With proliferation of API for cloud we have seen more automation services for change management and chargeback, maintaining compliance and configuration.</p>
       <a href="../propose" class="btn btn-primary btn-block"><i class="fa fa-book fa-lg"></i>&nbsp;&nbsp;&nbsp;Propose a Talk, Ignite or Workshop!</a></p>
     </div>
