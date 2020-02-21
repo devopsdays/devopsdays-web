@@ -20,11 +20,11 @@ cfp_date_announce:  2020-01-31T00:00:00-06:00
 
 cfp_link: "https://www.papercall.io/devopsdaysdesmoines2020" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
+registration_date_start: 2020-02-21T14:00:00-06:00 # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.eventbrite.com/e/devopsdays-des-moines-2020-tickets-94480984167" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -36,7 +36,7 @@ location_address: "730 3rd Street, Des Moines, IA 50309" #Optional - use the str
 nav_elements:
 #  - name: propose
   - name: location
- # - name: registration
+  - name: registration
  # - name: program
   - name: speakers
   - name: sponsor
@@ -88,6 +88,8 @@ sponsors:
   - id: trility
     level: gold
   - id: launch-darkly
+    level: gold
+  - id: alphaserve
     level: gold
   - id: sourceallies
     level: lanyard
