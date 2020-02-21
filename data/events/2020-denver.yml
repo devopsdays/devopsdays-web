@@ -87,6 +87,10 @@ sponsors:
     level: silver
   - id: elastic
     level: silver
+  - id: armory
+    level: silver
+  - id: vmware
+    level: silver
 sponsor_levels:
   - id: gold
     label: Gold
