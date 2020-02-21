@@ -20,4 +20,4 @@ We will provide you with a volunteer badge and a volunteer tshirt which should b
 
 Please feel free to attend the conference when you are not on shift.
 
-{{< google_form "https://forms.gle/zQdGdtsydtQHkbQf8" >}}
+{{< google_form "https://docs.google.com/forms/d/e/1FAIpQLSczlwHVo_zpBe1NxQjubchmrRKegEu3Z0983sY_Y9T3CcUn5A/viewform" >}}
