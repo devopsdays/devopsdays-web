@@ -130,8 +130,8 @@ sponsors:
     level: silver
   - id: deiser
     level: silver
-  # - id: kairosds
-  #    level: silver
+  - id: kairosds
+    level: silver
   - id: homeria
     level: bronze
   - id: aspgems
@@ -140,8 +140,8 @@ sponsors:
     level: bronze
   - id: wordline
     level: bronze
-  # - id: viewnext
-  #   level: bronze
+  - id: viewnext
+    level: bronze
   - id: bitnami
     level: bronze
   - id: gloin

@@ -54,8 +54,14 @@
 
     {{- if $e.startdate -}}
       {{- if or (ne (time $e.startdate).Month (time $e.enddate).Month) (ne (time $e.startdate).Day (time $e.enddate).Day) -}}
+        
+        
             <span class="welcome-page-date">
-            {{ dateFormat "January 2" $e.startdate }} - {{ dateFormat "2, 2006" $e.enddate }}<br />
+                {{- if eq (time $e.startdate).Month (time $e.enddate).Month -}}
+                    {{ dateFormat "January 2" $e.startdate }} - {{ dateFormat "2, 2006" $e.enddate }}<br />
+                {{- else -}}
+                    {{ dateFormat "Jan 2" $e.startdate }} - {{ dateFormat "Jan 2" $e.enddate }}<br />
+                {{- end -}}
             </span>
       {{- else -}}
             <span class="welcome-page-date">

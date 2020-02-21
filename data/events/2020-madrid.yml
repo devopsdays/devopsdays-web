@@ -299,11 +299,11 @@ program:
     type: custom
     date: "2020-02-21"
     start_time: "14:15"
-    end_time: "15:15"
+    end_time: "15:00"
   - title: "jessica-deen"
     type: talk
     date: "2020-02-21"
-    start_time: "15:15"
+    start_time: "15:00"
     end_time: "16:00"
     comments: "Main Track"
     background_color: "#0082AB"
@@ -363,10 +363,16 @@ program:
     type: talk
     date: "2020-02-21"
     start_time: "18:15"
-    end_time: "19:00"
+    end_time: "19:15"
     comments: "Main Track"
     background_color: "#0082AB"
-
+  - title: "Closing"
+    type: custom
+    date: "2020-02-21"
+    start_time: "19:15"
+    end_time: "19:30"
+    comments: "Main Track"
+    background_color: "#0082AB"
 
 ignites:
 #- title: "laura-maguire-ignite"

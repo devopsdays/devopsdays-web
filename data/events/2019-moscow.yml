@@ -33,33 +33,89 @@ nav_elements:
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
 
-# Custom reusables
-day_one_date: &day_one 2019-12-07
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
-  - name: "Vitaly Rybnikov"
-    employer: "Tinkoff.ru"
-  - name: "Valeria Pilia"
-    employer: ""
-  - name: "Dmitry Zaytsev"
-    employer: ""
-  - name: "Alexander Titov"
-    employer: "Express42"
-  - name: "Ivan Evtukhovich"
-    employer: "Express42"
-  - name: "Alexander Akilin"
-    employer: ""
-  - name: "Ekaterina Akilina"
-    employer: ""
-  - name: "Mikhail Leonov"
-    employer: ""
-  - name: "Vladimir Utratenko"
-    employer: "X5 Retail Group"
-  - name: "Andrey Levkin"
-    employer: ""
-  - name: "Michael Kluev"
-    employer: "Avito.tech"
+  - name: Vitaly Rybnikov
+    bio: DevOps advocate
+    employer: Tinkoff.ru
+    twitter: Frod0x
+    facebook: https://www.facebook.com/vitaly.rybnikov
+    linkedin: https://www.linkedin.com/in/vitaly-rybnikov/
+    github: Frodox
+    image: vitalyrybnikov.jpg
+
+  - name: Valeriya Pilia
+    bio: Engineer
+    employer: RTC DB
+    facebook: https://www.facebook.com/sarcasticsoq
+    linkedin: https://www.linkedin.com/in/valeriya-pilia/
+    image: valeriya.jpg
+
+  - name: Dmitry Zaytsev
+    bio: Head of SRE
+    employer: Flocktory
+    twitter: bhavenger
+    facebook: https://www.facebook.com/bhavenger
+    linkedin: https://www.linkedin.com/in/bhavenger/
+    image: dima.jpg
+
+  - name: Alexander Titov
+    bio: Partner
+    employer: Express42
+    twitter: osminog
+    facebook: https://www.facebook.com/alex.o.titov
+    linkedin: https://www.linkedin.com/in/alexander-titov-a6881971/
+    image: atitov.jpg
+
+  - name: Ivan Evtukhovich
+    bio: Partner
+    employer: Express42
+    twitter: evtuhovich
+    facebook: https://www.facebook.com/evtuhovich
+    linkedin: https://www.linkedin.com/in/evtuhovich/
+    website: http://evtuhovich.ru/
+    image: evtukhovich.jpg
+
+  - name: Alexander Akilin
+    bio: Systems Engineer
+    employer: Aquiva Labs
+    twitter: AkilinAlexander
+    facebook: https://www.facebook.com/asomirl
+    linkedin: https://www.linkedin.com/in/alexander-akilin-73182981/
+    github: asomir
+    image: asomir.jpg
+
+  - name: Ekaterina Akilina
+    bio: Designer
+    website: https://www.behance.net/katyaartli07fd
+    image: eakilina.jpg
+
+  - name: Mikhail Leonov
+    bio: System engineer
+    employer: Kodix automotive
+    facebook: https://facebook.com/bobrebyc
+    image: mikhail-leonov.jpg
+
+  - name: Vladimir Utratenko
+    bio: SRE Team Lead
+    employer: X5 Retail Group
+    facebook: https://www.facebook.com/vladimir.utratenko
+    linkedin: https://www.linkedin.com/in/vutratenko/
+    image: vladimir.jpg
+
+  - name: Andrey Levkin
+    bio: DevOps Engineer
+    employer: MixBytes
+    facebook: https://www.facebook.com/levkin
+    linkedin: https://www.linkedin.com/in/alevkin/
+    image: andrey.jpg
+
+  - name: Michael Kluev
+    bio: Developer relations manager
+    employer: Avito
+    facebook: https://www.facebook.com/oldtuna
+    image: oldtuna.jpg
 
 organizer_email: "organizers-moscow-2019@devopsdays.org"
 proposal_email: "proposals-moscow-2019@devopsdays.org"
@@ -77,12 +133,14 @@ sponsors:
     level: bronze
   - id: orangeocean
     level: orangeocean
-  - id: express42
+  - id: Express42
     level: afterparty
-  - id: avito.tech
+  - id: avito-tech
+    level: partner
+  - id: technopolis
     level: partner
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For

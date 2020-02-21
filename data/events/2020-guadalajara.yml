@@ -111,6 +111,10 @@ sponsors:
     level: platinum
   - id: vmware
     level: platinum
+  - id: elastic
+    level: platinum
+  - id: kueski
+    level: platinum
   - id: wizeline
     level: gold
   - id: iteso-university
@@ -125,12 +129,20 @@ sponsors:
     level: gold
   - id: redis-labs
     level: gold
+  - id: logicalis
+    level: gold
   - id: linux-professional-institute
     level: silver
   - id: tinkerwave
     level: silver
   - id: bedu
     level: silver
+  - id: cp-boosters
+    level: silver
+  - id: liferay
+    level: bronze
+  - id: puppet
+    level: bronze
   - id: meetup-docker-guadalajara
     level: community
   - id: itrevolution
@@ -146,6 +158,8 @@ sponsors:
   - id: ieee
     level: community
   - id: enchiladas-devops
+    level: community
+  - id: makersgdl
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -166,6 +180,8 @@ sponsor_levels:
 #    max: 10
   - id: silver
     label: Silver
+  - id: bronze
+    label: Bronze
     max: 0 # This is the same as omitting the max limit.
   - id: community
     label: Community
@@ -186,7 +202,7 @@ program:
     date: "2020-02-20"
     start_time: "09:15"
     end_time: "09:45"
-  - title: "Sponsors"
+  - title: "Sponsors - Experis, New Relic, and Elastic"
     type: custom
     date: "2020-02-20"
     start_time: "09:45"
@@ -211,7 +227,7 @@ program:
     date: "2020-02-20"
     start_time: "11:00"
     end_time: "11:30"
-  - title: "Sponsors"
+  - title: "Sponsors - ITESO, Wizeline, Startup GDL, and Gitlab"
     type: custom
     date: "2020-02-20"
     start_time: "11:30"
@@ -292,7 +308,7 @@ program:
     date: "2020-02-21"
     start_time: "09:15"
     end_time: "09:45"
-  - title: "Sponsors"
+  - title: "Sponsors - VMware, Kueski"
     type: custom
     date: "2020-02-21"
     start_time: "09:45"
@@ -312,7 +328,7 @@ program:
     date: "2020-02-21"
     start_time: "11:00"
     end_time: "11:30"
-  - title: "Sponsors"
+  - title: "Sponsors - Redis Labs, Logicalis, Terminal, and BrightCove"
     type: custom
     date: "2020-02-21"
     start_time: "11:30"
@@ -367,7 +383,7 @@ program:
     date: "2020-02-21"
     start_time: "18:00"
     end_time: "18:30"
-  - title: "Closing"
+  - title: "Raffle & Closing"
     type: custom
     date: "2020-02-21"
     start_time: "18:30"

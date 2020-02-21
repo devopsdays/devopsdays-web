@@ -113,7 +113,9 @@ sponsors:
     level: gold
   - id: chef
     level: gold
-  - id: vmware
+  - id: vmware-tanzu
+    level: gold
+  - id: fastly
     level: gold
   - id: gitlab
     level: silver
