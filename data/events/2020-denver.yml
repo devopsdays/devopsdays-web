@@ -89,7 +89,7 @@ sponsors:
     level: silver
   - id: armory
     level: silver
-  - id: vmware
+  - id: vmware-tanzu
     level: silver
 sponsor_levels:
   - id: gold
