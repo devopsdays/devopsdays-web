@@ -85,6 +85,8 @@ sponsors:
     level: silver
   - id: harness
     level: silver
+  - id: elastic
+    level: silver
 sponsor_levels:
   - id: gold
     label: Gold
