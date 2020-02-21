@@ -10,8 +10,8 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2020-07-30T08:00:00-06:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2020-07-31T08:00:00-06:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  # start accepting talk proposals.
@@ -29,9 +29,9 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 # Location
 #
 coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Medellín, Colombia" # Defaults to city, but you can make it the venue name.
+location: "Medellín, Colombia, Premium Plaza" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "Auditorio del Premium Plaza" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
@@ -58,9 +58,22 @@ team_members: # Name is the only required field for team members.
 #   facebook: ""
 #   website: ""
 #   github: ""
-#   image: ".jpg"  
+#   image: "zapata.png"  
   - name: "Carlos Zapata"
-    employer: "Globant"
+    employer: "Gorilla Logic"
+    linkedin: "https://www.linkedin.com/in/carlos-zapata-96479275/"
+#    bio: "Ingeniero electrónico con una experiencia laboral de más de 20 años en el sector tecnológico y en Gestión de Proyectos. Formador en marcos, técnicas y prácticas de la transformación ágil organizacional, forjando estrategias de crecimiento orgánico en áreas de TI, innovación, diseño, implementacion de sistemas, riesgos, transformación digital, entre otros." 
+    image: "zapata.png"    
+#   role: "Maestro del Universo"
+#   bio: ""
+#   twitter: ""
+#   linkedin: "https://www.linkedin.com/in/carlos-zapata-96479275/"
+#   facebook: ""
+#   website: ""
+#   github: ""
+#   image: ".jpg"  
+#  - name: "Camilo Torres"
+#   employer: "Accenture"
 #   role: ""
 #   bio: ""
 #   twitter: ""
@@ -69,8 +82,9 @@ team_members: # Name is the only required field for team members.
 #   website: ""
 #   github: ""
 #   image: ".jpg"  
-  - name: "Camilo Torres"
-    employer: "Accenture"
+  - name: "Miguelangel Pineda"
+    employer: "Agile Consulting"
+    image: "miguelangel.png"  
 #   role: ""
 #   bio: ""
 #   twitter: ""
@@ -78,9 +92,19 @@ team_members: # Name is the only required field for team members.
 #   facebook: ""
 #   website: ""
 #   github: ""
-#   image: ".jpg"  
-  - name: "Tomas Arismendy"
+  - name: "Camila Gallego"
+    employer: "Agile Consulting"
+    image: "camila.png" 
+#   role: ""
+#   bio: ""
+#   twitter: ""
+#   linkedin: "https://"
+#   facebook: ""
+#   website: ""
+#   github: "" 
+  - name: "Tomás Arismendy"
     employer: "Bancolombia"
+    image: "tomas.png"  
 #   role: ""
 #   bio: ""
 #   twitter: ""
@@ -89,9 +113,10 @@ team_members: # Name is the only required field for team members.
 #   website: ""
 #   github: ""
 #   image: ".jpg"  
-  - name: "Sirley Gutierrez"
-    employer: "TodoEnBienRaiz MS"
-#   role: ""
+  - name: "Miguel Teheran"
+    employer: "Gorilla Logic"
+    image: "miguel.png" 
+    #   role: ""
 #   bio: ""
 #   twitter: ""
 #   linkedin: "https://"
@@ -99,8 +124,8 @@ team_members: # Name is the only required field for team members.
 #   website: ""
 #   github: ""
 #   image: ".jpg"  
-  - name: "Joaquin Molina Perez"
-    employer: "EPM"
+#  - name: "Camila Gallego"
+#    employer: "Agile Consulting"
 #   role: ""
 #   bio: ""
 #   twitter: ""
@@ -128,15 +153,18 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: diamond
+    label: Diamond
+  - id: platinum
+    label: Platinum
   - id: gold
     label: Gold
 #    max: 10
   - id: silver
     label: Silver
     max: 0 # This is the same as omitting the max limit.
-  - id: bronze
-    label: Bronze
-  - id: media
-    label: Media    
   - id: community
     label: Community
+  - id: supporters
+    label: Supporters    
+
