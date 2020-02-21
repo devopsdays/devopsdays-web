@@ -128,8 +128,12 @@ sponsors:
     level: community
   - id: liquet
     level: community
+  - id: infonet
+    level: community
   - id: unit
     level: institutional
+  - id: bktelecom
+    level: silver
   - id: db1
     level: gold
   
