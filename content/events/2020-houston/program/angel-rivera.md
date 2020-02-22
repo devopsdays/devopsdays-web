@@ -1,7 +1,7 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_date = "2020-04-14"
+Talk_start_time = "10:25"
+Talk_end_time = "11:20"
 Title = "Infrastructure as Code 101 Workshop"
 Type = "talk"
 Speakers = ["angel-rivera"]

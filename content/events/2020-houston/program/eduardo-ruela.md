@@ -1,7 +1,7 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_date = "2020-04-15"
+Talk_start_time = "11:30"
+Talk_end_time = "12:20"
 Title = "Build the next generation CICD pipelines using Tekton and Kubernetes"
 Type = "talk"
 Speakers = ["eduardo-ruela"]

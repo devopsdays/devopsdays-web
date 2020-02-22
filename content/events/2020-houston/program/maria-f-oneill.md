@@ -1,7 +1,7 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_date = "2020-04-15"
+Talk_start_time = "09:15"
+Talk_end_time = "09:55"
 Title = "How to Talk to the CSuite about DevOps"
 Type = "talk"
 Speakers = ["maria-f-oneill"]

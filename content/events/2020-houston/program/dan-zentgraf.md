@@ -1,7 +1,7 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_date = "2020-04-14"
+Talk_start_time = "10:25"
+Talk_end_time = "10:55"
 Title = "Beyond Duct Tape - Engineering your Database into your CICD Pipeline"
 Type = "talk"
 Speakers = ["dan-zentgraf"]
