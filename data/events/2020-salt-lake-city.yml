@@ -115,6 +115,8 @@ sponsors:
       level: gold
     - id: splunk
       level: gold
+    - id: gitlab
+      level: silver
     # - id: codefresh
     #   level: gold
     # - id: dynatrace
