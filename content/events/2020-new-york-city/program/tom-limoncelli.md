@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Ending knowledge frustration: Creating a low-context DevOps culture to encourage learning and make DevOps work more enjoyable!"
+Title = "Low-Context DevOps: Helping DevOps find answers faster"
 Type = "talk"
 Speakers = ["tom-limoncelli"]
 +++

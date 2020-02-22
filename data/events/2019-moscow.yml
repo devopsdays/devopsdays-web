@@ -45,9 +45,12 @@ team_members: # Name is the only required field for team members.
     github: Frodox
     image: vitalyrybnikov.jpg
 
-  - name: Valeria Pilia
-    employer: Deutsche Bank
+  - name: Valeriya Pilia
+    bio: Engineer
+    employer: RTC DB
     facebook: https://www.facebook.com/sarcasticsoq
+    linkedin: https://www.linkedin.com/in/valeriya-pilia/
+    image: valeriya.jpg
 
   - name: Dmitry Zaytsev
     bio: Head of SRE
@@ -61,6 +64,7 @@ team_members: # Name is the only required field for team members.
     bio: Partner
     employer: Express42
     twitter: osminog
+    facebook: https://www.facebook.com/alex.o.titov
     linkedin: https://www.linkedin.com/in/alexander-titov-a6881971/
     image: atitov.jpg
 
@@ -68,7 +72,9 @@ team_members: # Name is the only required field for team members.
     bio: Partner
     employer: Express42
     twitter: evtuhovich
+    facebook: https://www.facebook.com/evtuhovich
     linkedin: https://www.linkedin.com/in/evtuhovich/
+    website: http://evtuhovich.ru/
     image: evtukhovich.jpg
 
   - name: Alexander Akilin
@@ -80,8 +86,10 @@ team_members: # Name is the only required field for team members.
     github: asomir
     image: asomir.jpg
 
-  - name: "Ekaterina Akilina"
-    employer: ""
+  - name: Ekaterina Akilina
+    bio: Designer
+    website: https://www.behance.net/katyaartli07fd
+    image: eakilina.jpg
 
   - name: Mikhail Leonov
     bio: System engineer
@@ -107,6 +115,7 @@ team_members: # Name is the only required field for team members.
     bio: Developer relations manager
     employer: Avito
     facebook: https://www.facebook.com/oldtuna
+    image: oldtuna.jpg
 
 organizer_email: "organizers-moscow-2019@devopsdays.org"
 proposal_email: "proposals-moscow-2019@devopsdays.org"

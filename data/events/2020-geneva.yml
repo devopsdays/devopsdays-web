@@ -126,6 +126,8 @@ sponsors:
     level: silver
   - id: sword
     level: silver
+  - id: techfirm
+    level: gold
   - id: swissdevjobs
     level: community
   - id: heg-geneva

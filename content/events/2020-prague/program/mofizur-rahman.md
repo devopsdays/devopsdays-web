@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "How Convenience Is Killing Open Standards"
+Title = "How to convince your management to get Kubernetes"
 Type = "talk"
 Speakers = ["mofizur-rahman"]
 youtube = ""
