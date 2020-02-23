@@ -38,9 +38,11 @@ Description = "devopsdays Medellín 2020"
         <li>
           <h3>Speakers</h3>
         </li>
+<!--  
         <li style="margin-left:15px;">
           Check out our amazing {{< event_link page="speakers" text="speakers!" >}}
         </li>
+-->
       </ul>
     </p>
     <h2>Conference format</h2>
