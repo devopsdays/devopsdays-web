@@ -129,7 +129,7 @@ team_members: # Name is the only required field for team members.
 #   facebook: ""
 #   website: ""
 #   github: ""
-#   image: ".jpg"  
+    image: "camila.png"  
   - name: "Shirley Gutiérrez"
     employer: "Independent Consultant"
 #   role: ""
