@@ -111,7 +111,13 @@ sponsors:
     url: "https://www.elastic.co/"      
   - id: iteraio
     level: bronze
-    url: "http://itera.io/"   
+    url: "https://itera.io/"   
+  - id: seznam
+    level: bronze
+    url: "https://www.seznam.cz/"  
+  - id: kiwicom
+    level: bronze
+    url: "https://www.kiwi.com"  
   - id: digitalocean
     level: starter
     url: "https://www.digitalocean.com/"
@@ -121,6 +127,9 @@ sponsors:
   - id: vistaprint
     level: starter
     url: "https://www.vistaprint.com/"  
+  - id: microsoftazure
+    level: starter
+    url: "https://azure.microsoft.com/"  
   - id: inuits
     level: community
     url: "https://inuits.eu/"
@@ -133,6 +142,9 @@ sponsors:
   - id: czechitas
     level: community
     url: "https://www.czechitas.cz/en/"     
+  - id: prague-software-craftsmanship
+    level: community
+    url: "https://www.meetup.com/Prague-Software-Craftsmanship/"  
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -315,6 +327,4 @@ ignites:
   - title: "mofizur-rahman"
     date: 2020-03-19
   - title: "marek-bartik"
-    date: 2020-03-19  
-  - title: "jakub-kadlubiec"
-    date: 2020-03-19             
+    date: 2020-03-19              
