@@ -120,16 +120,18 @@ proposal_email: "aracaju@devopsdays.org" # Put your proposal email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-#  - id: arresteddevops
-#    level: community
   - id: guiafoca
     level: community
   - id: tipolight
     level: community
   - id: liquet
     level: community
+  - id: infonet
+    level: community
   - id: unit
     level: institutional
+  - id: bktelecom
+    level: silver
   - id: db1
     level: gold
   

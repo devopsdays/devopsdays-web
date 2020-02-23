@@ -77,9 +77,20 @@ sponsors:
     level: gold
   - id: influxdata
     level: gold
-  - id: epsagon
+  - id: codefresh
     level: silver
-
+  - id: site24x7
+    level: silver
+  - id: appdynamics
+    level: silver
+  - id: harness
+    level: silver
+  - id: elastic
+    level: silver
+  - id: armory
+    level: silver
+  - id: vmware-tanzu
+    level: silver
 sponsor_levels:
   - id: gold
     label: Gold

@@ -18,10 +18,10 @@ cfp_date_start: 2020-01-28T09:00:00-07:00 # start accepting talk proposals.
 cfp_date_end: 2020-05-15T23:59:59-07:00 # close your call for proposals.
 cfp_date_announce: # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://devopsdayspdx2020.busyconf.com/proposals/new" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2020-01-28T09:00:00-07:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2020-09-10T23:59:59-07:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -34,9 +34,9 @@ location: "Oregon Convention Center" # Defaults to city, but you can make it the
 location_address: "777 NE Martin Luther King Jr Blvd, Portland, OR 97232" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
- # - name: location
- # - name: registration
+  - name: propose
+  - name: location
+  - name: registration
  # - name: program
  # - name: speakers
  # - name: sponsor
