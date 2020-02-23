@@ -175,6 +175,10 @@ sponsors:
     level: gold
   - id: chef
     level: gold
+  - id: xmatters
+    level: gold
+  - id: launch-darkly
+    level: gold
   - id: arresteddevops
     level: media
   - id: devopslive
