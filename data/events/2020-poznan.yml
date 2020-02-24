@@ -249,12 +249,11 @@ program:
     date: 2020-05-19
     start_time: "9:00"
     end_time: "9:15"
-  - title: "TBD"
-    type: custom
+  - title: "pini-reznik"
+    type: talk
     date: 2020-05-19
     start_time: "9:15"
     end_time: "10:00"
-    background_color: "#abebff"
   - title: "richard-boyd"
     type: talk
     date: 2020-05-19
