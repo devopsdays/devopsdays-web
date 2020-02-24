@@ -1,7 +1,7 @@
 +++
 Title = "Patrick Poulin"
 Twitter = "apifortress"
-image = "patrick-poulin.jpg"
+image = ""
 type = "speaker"
 linktitle = "patrick-poulin"
 LinkedIn = "https://www.linkedin.com/company/5045150/admin/"

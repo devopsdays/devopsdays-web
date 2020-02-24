@@ -218,17 +218,18 @@ program:
   - title: "patrick-poulin"
     type: talk
     date: 2020-04-14
-    start_time: "11:05"
+    start_time: "11:00"
     end_time: "11:35"
   - title: "angel-rivera"
     type: workshop
     date: 2020-04-14
     start_time: "10:20"
     end_time: "11:20"
-    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill"
+    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill<br/>  
+      &nbsp; &nbsp; *Required*: Laptop, and accounts on GitHub, CircleCI, DockerHub."
   - title: "Open Spaces Topic Selection"
-    type: open-space
-    date: 2020-04-14
+    type: custom
+    date: 2020-04-16
     start_time: "11:40"
     end_time: "12:00"
   - title: "Lunch, Visit Sponsor Booths"
@@ -239,50 +240,48 @@ program:
   - title: "mark-scott"
     type: talk
     date: 2020-04-14
-    start_time: "13:00"
-    end_time: "13:30"
+    start_time: "12:40"
+    end_time: "13:10"
   - title: "dan-lorenc"
     type: talk
     date: 2020-04-14
-    start_time: "13:40"
-    end_time: "14:10"
-  - title: "ana-margarita-medina"
+    start_time: "13:20"
+    end_time: "13:50"
+  - title: "margarita-medina"
     type: workshop
     date: 2020-04-14
-    start_time: "13:10"
-    end_time: "14:10"
-    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill"
-  - title: "Open Space Intro"
-    type: open-space
-    date: 2020-04-14
-    start_time: "14:20"
-    end_time: "14:25"
+    start_time: "12:50"
+    end_time: "13:45"
   - title: "Open Space Session #1"
     type: open-space
     date: 2020-04-14
-    start_time: "14:25"
-    end_time: "14:55"
+    start_time: "14:00"
+    end_time: "14:35"
   - title: "Open Space Session #2"
     type: open-space
     date: 2020-04-14
-    start_time: "15:00"
-    end_time: "15:30"
+    start_time: "14:40"
+    end_time: "15:10"
+  - title: "dan-lorenc"
+    type: talk
+    date: 2020-04-14
+    start_time: "13:20"
+    end_time: "13:50"
   - title: "sabine-khan"
     type: talk
     date: 2020-04-14
-    start_time: "15:35"
-    end_time: "16:05"
+    start_time: "16:00"
+    end_time: "16:30"
   - title: "matt-stratton"
     type: workshop
     date: 2020-04-14
-    start_time: "15:35"
-    end_time: "16:35"
-    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill"
+    start_time: "15:20"
+    end_time: "16:15"
   - title: "Ignite Talks:"
     type: ignite
     date: 2020-04-14
-    start_time: "16:45"
-    end_time: "17:30"
+    start_time: "14:40"
+    end_time: "15:25"
   - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2020-04-15
@@ -310,18 +309,19 @@ program:
     date: 2020-04-15
     start_time: "10:20"
     end_time: "10:50"
-  - title: "jay-gordon"
-    type: workshop
-    date: 2020-04-15
-    start_time: "10:20"
-    end_time: "11:15"
-    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill"
   - title: "paul-mehard"
     type: talk
     date: 2020-04-15
     start_time: "11:00"
     end_time: "11:30"
-  - title: "sarjeel-yusuf"
+  - title: "jay-gordon"
+    type: workshop
+    date: 2020-04-15
+    start_time: "10:20"
+    end_time: "11:15"
+    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill<br/>  
+      &nbsp; &nbsp; *Required*: Laptop with RDP"
+  - title: "sarjeel-yusef"
     type: talk
     date: 2020-04-15
     start_time: "11:40"
@@ -331,80 +331,68 @@ program:
     date: 2020-04-15
     start_time: "11:30"
     end_time: "12:20"
-    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill"
+    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill<br/>  
+      &nbsp; &nbsp; *Required*: Laptop with RDP"
   - title: "Open Space Topic Selection"
     type: open-space
     date: 2020-04-15
-    start_time: "12:25"
-    end_time: "12:45"
+    start_time: "12:30"
+    end_time: "12:50"
   - title: "Lunch, Visit Sponsor Booths"
     type: "custom"
     date: 2020-04-15
-    start_time: "12:45"
-    end_time: "13:30"
+    start_time: "12:00"
+    end_time: "13:00"
   - title: "anjuan-simmons"
     type: talk
     date: 2020-04-15
-    start_time: "13:30"
-    end_time: "14:00"
+    start_time: "13:00"
+    end_time: "13:30"
   - title: "jj-asghar"
     type: talk
     date: 2020-04-15
-    start_time: "14:10"
-    end_time: "14:40"
+    start_time: "13:40"
+    end_time: "14:10"
   - title: "john-eldridge"
     type: workshop
     date: 2020-04-15
-    start_time: "13:40"
-    end_time: "14:40"
-    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill"
+    start_time: "13:10"
+    end_time: "14:05"
+    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill<br/>  
+      &nbsp; &nbsp; *Required*: Laptop with RDP"
   - title: "Open Space Intro"
     type: open-space
     date: 2020-04-15
-    start_time: "14:50"
+    start_time: "14:20"
     end_time: "14:55"
   - title: "Open Space Session #3"
     type: open-space
     date: 2020-04-15
-    start_time: "14:55"
-    end_time: "15:25"
+    start_time: "14:25"
+    end_time: "14:55"
   - title: "Open Space Session #4"
     type: open-space
     date: 2020-04-15
-    start_time: "15:30"
-    end_time: "16:00"
+    start_time: "15:00"
+    end_time: "15:30"
   - title: "jody-wolfborn"
     type: workshop
     date: 2020-04-15
-    start_time: "16:05"
-    end_time: "17:05"
-    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill"
+    start_time: "15:40"
+    end_time: "16:40"
+    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill<br/>  
+      &nbsp; &nbsp; *Required*: Laptop with Kubernetes, kubectl, Helm, and accounts on GCP, Azure, AWS, or DO"
   - title: "Closing"
     type: custom
     date: 2020-04-15
-    start_time: "17:15"
-    end_time: "17:30"
+    start_time: "16:40"
+    end_time: "16:50"
     background_color: "#D0D0D0"
-    
-ignites:
-  - title: "tommy-adams"
-    date: "2020-04-14"
-  - title: "jeremy-meiss"
-    date: "2020-04-14"
-  - title: "dave-karow"
-    date: "2020-04-14"
-  - title: "diorge-tavares"
-    date: "2020-04-14"
-  - title: "joshua-kerchner"
-    date: "2020-04-14"
-  - title: "shaun-mouton"
-    date: "2020-04-14"
-  - title: "mathew-joshua"
-    date: "2020-04-14"
-  - title: "mark-hahn"
-    date: "2020-04-14"  
 
-  
-  
+# ignites:
+#   - title: "margaret-valtierra"
+#     date: "2020-04-16"
+#   - title: "jj-asghar"
+#     date: "2020-04-16"
 
     
