@@ -10,7 +10,7 @@ description = "Interested in sponsoring DevOpsDays Dallas 2020? We greatly value
 <div class = "row">
 <div class = "col-md-8 col-sm-12">
 <br>
-We greatly value sponsors for this community event. If you are interested in sponsoring, please check out our prospectus below. If you need a hard copy with more details, <a href="mailto:dallas@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Dallas%202020"><strong>send us an email</strong></a>.
+We greatly value sponsors for this community event. If you are interested in sponsoring, please check out our prospectus below. If you need a hard copy of our prospectus, click here to <a href="https://assets.devopsdays.org/events/2020/dallas/devopsdays_dallas_2020_sponsorships.pdf" target="_blank"><strong>download PDF</strong></a> or <a href="mailto:dallas@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Dallas%202020"><strong>send us an email</strong></a>.
 
 <hr>
 
@@ -258,16 +258,15 @@ All Media / Community sponsors are entities we value as pillars of continuous le
     </tr>
     <tr>
       <td align="center"><i class="fa fa-plug fa-4x"></i></td>
-      <td>Bring Your Own Charging Station</td>
-      <td>$1,000</td>
-      <td>A vendor may provide their own mobile device charging stations with company logos to place in the lounge area during the event.
+      <td>Branded Charging Kiosk with Lockers (Locker Power)</td>
+      <td>$1,500</td>
+      <td>A vendor may rent from DevOpsDays DFW their own secure charging kiosk tower for mobile devices with company logos to place in the lounge area during the event.  
           <ul class="fa-ul">
-            <li><i class="fa-li fa fa-check-square"></i>One sponsorship available for each charging station deployed.</li>
-            <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on a shared slide, rotating during breaks.</li>
-            <li><i class="fa-li fa fa-check-square"></i>Logo and branding will be placed on the conference backpacks that are provided to all attendees.</li>
+            <li><i class="fa-li fa fa-check-square"></i>One sponsorship available for each charging station deployed throughout the venue.</li>
+            <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on a shared slide, rotating during breaks. Also on the kiosk screen.</li>
             <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on the DevOpsDays Dallas 2020 event website.</li>
             <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on all email communication.</li>
-            <li><i class="fa-li fa fa-check-square"></i>Charging stations are not provided and not included in the price.</li></td>
+            <li><i class="fa-li fa fa-check-square"></i>Secure Charging Kiosk with Lockers (8 bays Locker Power) is provided and included in the price.</li></td>
       <td>5</td>
     </tr>
 <!--  <tr>
