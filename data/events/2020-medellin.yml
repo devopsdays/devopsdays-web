@@ -132,6 +132,7 @@ team_members: # Name is the only required field for team members.
     image: "camila.png"  
   - name: "Shirley Gutiérrez"
     employer: "Independent Consultant"
+    image: "sirley.png"  
 #   role: ""
 #   bio: ""
 #   twitter: ""
