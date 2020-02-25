@@ -106,7 +106,7 @@ sponsors:
   - id: launch-darkly
     level: gold
   - id: logz
-    level: silver  
+    level: gold  
   - id: phoenixnap
     level: gold
   - id: pulumi
