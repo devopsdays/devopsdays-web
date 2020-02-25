@@ -33,7 +33,7 @@ registration_link: "https://www.slcdevopsdays.org/purchase-tickets/" # If you ha
 coordinates: "40.574494, -111.9022692" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Miller Conference Center"  # Defaults to city, but you can make it the venue name.
 #
-location_address: "39750 S 300 W Sandy UT 84070" # Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "9750 S 300 W Sandy UT 84070" # Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: slcdevopsdays.org
