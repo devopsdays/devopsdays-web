@@ -130,8 +130,8 @@ sponsors:
     level: silver
   - id: deiser
     level: silver
-  # - id: kairosds
-  #    level: silver
+  - id: kairosds
+    level: silver
   - id: homeria
     level: bronze
   - id: aspgems
@@ -140,13 +140,17 @@ sponsors:
     level: bronze
   - id: wordline
     level: bronze
-  # - id: viewnext
-  #   level: bronze
+  - id: viewnext
+    level: bronze
   - id: bitnami
     level: bronze
   - id: gloin
     level: bronze
   - id: tego
+    level: bronze
+  - id: epcc
+    level: bronze
+  - id: oeste-digital
     level: bronze
   - id: diputacioncc
     level: collaborators
@@ -163,6 +167,8 @@ sponsors:
   - id: conferize
     level: collaborators
   - id: unex
+    level: collaborators
+  - id: camaracc
     level: collaborators
   - id: caceresdevops
     level: community

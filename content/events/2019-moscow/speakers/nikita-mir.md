@@ -1,7 +1,7 @@
 +++
 type = "speaker"
-title = "SPEAKERNAME"
+title = "Nikita Miropolsky"
 
 +++
 
-
+System administrator

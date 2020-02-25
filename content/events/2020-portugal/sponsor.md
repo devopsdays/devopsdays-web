@@ -76,7 +76,7 @@ All benefits from Bronze level sponsors PLUS:
     </tr>
     <tr>
       <td>Max sponsors</td>
-      <td>5</td>
+      <td>4</td>
       <td>6</td>
       <td>10</td>
       <td>unlimited</td>

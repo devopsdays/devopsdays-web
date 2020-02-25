@@ -27,4 +27,4 @@ Choosing talks is part art, part science; here are some factors we consider when
 
 <hr>
 
-The CFP is not yet open. Please keep an eye on this page for updated information on how to submit a session.
+<a href="https://devopsdayspdx2020.busyconf.com/proposals/new">Submit your proposal!</a>

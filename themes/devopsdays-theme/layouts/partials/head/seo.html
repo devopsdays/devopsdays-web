@@ -25,8 +25,12 @@
   <meta name="twitter:data1" value="{{ $.Scratch.Get "event" }}" />
   {{- if $e.startdate -}}
     {{- if or (ne (time $e.startdate).Month (time $e.enddate).Month) (ne (time $e.startdate).Day (time $e.enddate).Day) -}}
-    <meta name="twitter:label2" value="Dates" />
-    <meta name="twitter:data2" value="{{ dateFormat "January 2" $e.startdate }} - {{ dateFormat "2, 2006" $e.enddate }}" />
+        <meta name="twitter:label2" value="Dates" />
+        {{- if eq (time $e.startdate).Month (time $e.enddate).Month -}}
+            <meta name="twitter:data2" value="{{ dateFormat "January 2" $e.startdate }} - {{ dateFormat "2, 2006" $e.enddate }}" />
+        {{- else -}}
+            <meta name="twitter:data2" value="{{ dateFormat "Jan 2" $e.startdate }} - {{ dateFormat "Jan 2" $e.enddate }}" />
+        {{- end -}}
     {{- else -}}
     <meta name="twitter:label2" value="Date" />
     <meta name="twitter:data2" value="{{ dateFormat "January 2, 2006" $e.startdate }}" />

@@ -6,8 +6,8 @@ description: "Devopsdays is returning to Houston!" # Edit this to suit your pref
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2020-MM-DDTHH:MM:SS+TZ:TZ, like this:
-#   variable: 2019-01-04T00:00:00+02:00
-#   variable: 2019-01-05T23:59:59+02:00
+#   variable: 2020-01-04T00:00:00+02:00
+#   variable: 2020-01-05T23:59:59+02:00
 # Note: we allow 2020-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
 startdate:  2020-04-14T00:00:00-05:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
@@ -39,8 +39,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     url: "https://www.papercall.io/devopsdayshouston2020"
   - name: location
   - name: registration
-# - name: program
-#  - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -159,7 +159,11 @@ sponsors:
     level: gold
   - id: decisiohealth
     level: silver
-
+  - id: elastic
+    level: gold
+  - id: xmatters
+    level: platinum
+    
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -183,4 +187,224 @@ sponsor_levels:
     label: Corporate 
   - id: community
     label: Community
+program:
+  - title: "Registration, Breakfast, Sponsor Booths Open"
+    type: custom
+    date: 2020-04-14
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2020-04-14
+    start_time: "09:00"
+    end_time: "09:15"
+    background_color: "#D0D0D0"
+  - title: "ernest-mueller"
+    type: talk
+    date: 2020-04-14
+    start_time: "09:15"
+    end_time: "10:00"
+  - title: "Sponsors"
+    type: custom
+    date: 2020-04-14
+    start_time: "10:00"
+    end_time: "10:15"
+    background_color: "#D0D0D0"
+  - title: "dan-zentgraf"
+    type: talk
+    date: 2020-04-14
+    start_time: "10:25"
+    end_time: "10:55"
+  - title: "patrick-poulin"
+    type: talk
+    date: 2020-04-14
+    start_time: "11:05"
+    end_time: "11:35"
+  - title: "angel-rivera"
+    type: workshop
+    date: 2020-04-14
+    start_time: "10:20"
+    end_time: "11:20"
+    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill"
+  - title: "Open Spaces Topic Selection"
+    type: open-space
+    date: 2020-04-14
+    start_time: "11:40"
+    end_time: "12:00"
+  - title: "Lunch, Visit Sponsor Booths"
+    type: "custom"
+    date: 2020-04-14
+    start_time: "12:00"
+    end_time: "13:00"
+  - title: "mark-scott"
+    type: talk
+    date: 2020-04-14
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "dan-lorenc"
+    type: talk
+    date: 2020-04-14
+    start_time: "13:40"
+    end_time: "14:10"
+  - title: "ana-margarita-medina"
+    type: workshop
+    date: 2020-04-14
+    start_time: "13:10"
+    end_time: "14:10"
+    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill"
+  - title: "Open Space Intro"
+    type: open-space
+    date: 2020-04-14
+    start_time: "14:20"
+    end_time: "14:25"
+  - title: "Open Space Session #1"
+    type: open-space
+    date: 2020-04-14
+    start_time: "14:25"
+    end_time: "14:55"
+  - title: "Open Space Session #2"
+    type: open-space
+    date: 2020-04-14
+    start_time: "15:00"
+    end_time: "15:30"
+  - title: "sabine-khan"
+    type: talk
+    date: 2020-04-14
+    start_time: "15:35"
+    end_time: "16:05"
+  - title: "matt-stratton"
+    type: workshop
+    date: 2020-04-14
+    start_time: "15:35"
+    end_time: "16:35"
+    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill"
+  - title: "Ignite Talks:"
+    type: ignite
+    date: 2020-04-14
+    start_time: "16:45"
+    end_time: "17:30"
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2020-04-15
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome Day 2"
+    type: custom
+    date: 2020-04-15
+    start_time: "09:00"
+    end_time: "09:15"
+    background_color: "#D0D0D0"
+  - title: "maria-f-oneill"
+    type: talk
+    date: 2020-04-15
+    start_time: "09:15"
+    end_time: "09:55"
+  - title: "Sponsors"
+    type: custom
+    date: 2020-04-15
+    start_time: "09:55"
+    end_time: "10:10"
+    background_color: "#D0D0D0"
+  - title: "michael-nir"
+    type: talk
+    date: 2020-04-15
+    start_time: "10:20"
+    end_time: "10:50"
+  - title: "jay-gordon"
+    type: workshop
+    date: 2020-04-15
+    start_time: "10:20"
+    end_time: "11:15"
+    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill"
+  - title: "paul-mehard"
+    type: talk
+    date: 2020-04-15
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "sarjeel-yusuf"
+    type: talk
+    date: 2020-04-15
+    start_time: "11:40"
+    end_time: "12:05"
+  - title: "eduardo-ruela"
+    type: workshop
+    date: 2020-04-15
+    start_time: "11:30"
+    end_time: "12:20"
+    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill"
+  - title: "Open Space Topic Selection"
+    type: open-space
+    date: 2020-04-15
+    start_time: "12:25"
+    end_time: "12:45"
+  - title: "Lunch, Visit Sponsor Booths"
+    type: "custom"
+    date: 2020-04-15
+    start_time: "12:45"
+    end_time: "13:30"
+  - title: "anjuan-simmons"
+    type: talk
+    date: 2020-04-15
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "jj-asghar"
+    type: talk
+    date: 2020-04-15
+    start_time: "14:10"
+    end_time: "14:40"
+  - title: "john-eldridge"
+    type: workshop
+    date: 2020-04-15
+    start_time: "13:40"
+    end_time: "14:40"
+    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill"
+  - title: "Open Space Intro"
+    type: open-space
+    date: 2020-04-15
+    start_time: "14:50"
+    end_time: "14:55"
+  - title: "Open Space Session #3"
+    type: open-space
+    date: 2020-04-15
+    start_time: "14:55"
+    end_time: "15:25"
+  - title: "Open Space Session #4"
+    type: open-space
+    date: 2020-04-15
+    start_time: "15:30"
+    end_time: "16:00"
+  - title: "jody-wolfborn"
+    type: workshop
+    date: 2020-04-15
+    start_time: "16:05"
+    end_time: "17:05"
+    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill"
+  - title: "Closing"
+    type: custom
+    date: 2020-04-15
+    start_time: "17:15"
+    end_time: "17:30"
+    background_color: "#D0D0D0"
+    
+ignites:
+  - title: "tommy-adams"
+    date: "2020-04-14"
+  - title: "jeremy-meiss"
+    date: "2020-04-14"
+  - title: "dave-karow"
+    date: "2020-04-14"
+  - title: "diorge-tavares"
+    date: "2020-04-14"
+  - title: "joshua-kerchner"
+    date: "2020-04-14"
+  - title: "shaun-mouton"
+    date: "2020-04-14"
+  - title: "mathew-joshua"
+    date: "2020-04-14"
+  - title: "mark-hahn"
+    date: "2020-04-14"  
 
+  
+  
+
+    

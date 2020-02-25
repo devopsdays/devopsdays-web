@@ -93,6 +93,8 @@ sponsors:
     level: gold
   - id: datree
     level: gold
+  - id: effx
+    level: gold
   - id: eliassen-group
     level: silver
   - id: gitlab
@@ -104,9 +106,11 @@ sponsors:
   - id: launch-darkly
     level: gold
   - id: logz
-    level: silver  
+    level: gold  
   - id: phoenixnap
-    level: silver
+    level: gold
+  - id: pulumi
+    level: gold
   - id: site24x7
     level: gold
   - id: sonatype

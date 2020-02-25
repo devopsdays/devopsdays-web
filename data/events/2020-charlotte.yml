@@ -171,30 +171,25 @@ program:
     date: 2020-02-27
     start_time: "13:00"
     end_time: "13:10"
-  - title: "farrah-campbell-ignite"
+  - title: "chris-diaz"
     type: talk
     date: 2020-02-27
     start_time: "13:10"
     end_time: "13:20"
-  - title: "chris-diaz"
+  - title: "amber-vaidya"
     type: talk
     date: 2020-02-27
     start_time: "13:20"
     end_time: "13:30"
-  - title: "amber-vaidya"
-    type: talk
-    date: 2020-02-27
-    start_time: "13:30"
-    end_time: "13:40"
   - title: "Ignite Karaoke"
     type: custom
     date: 2020-02-27
-    start_time: "13:40"
-    end_time: "14:00"
+    start_time: "13:30"
+    end_time: "13:45"
   - title: "Sponsors, Open Spaces Topics & Break"
     type: custom
     date: 2020-02-27
-    start_time: "14:00"
+    start_time: "13:45"
     end_time: "14:30"
   - title: "Open Space #1"
     type: open-space
@@ -221,7 +216,7 @@ program:
     date: 2020-02-27
     start_time: "16:00"
     end_time: "16:15"
-  - title: "Social Event - Offsite"
+  - title: "Social Event - The Office Restaurant"
     type: custom
     date: 2020-02-27
     start_time: "16:30"
@@ -241,7 +236,7 @@ program:
     date: 2020-02-28
     start_time: "09:30"
     end_time: "10:00"
-  - title: "farrah-campbell-talk"
+  - title: "austin-burdine"
     type: talk
     date: 2020-02-28
     start_time: "10:00"
@@ -281,53 +276,38 @@ program:
     date: 2020-02-28
     start_time: "13:30"
     end_time: "13:40"
-  - title: "henry-quinn"
+  - title: "baruch-sadogursky"
     type: talk
     date: 2020-02-28
     start_time: "13:40"
     end_time: "13:50"
-  - title: "austin-burdine"
-    type: talk
-    date: 2020-02-28
-    start_time: "13:50"
-    end_time: "14:00"
-  - title: "theo-salvo"
-    type: talk
-    date: 2020-02-28
-    start_time: "14:00"
-    end_time: "14:10"
-  - title: "baruch-sadogursky"
-    type: talk
-    date: 2020-02-28
-    start_time: "14:10"
-    end_time: "14:20"
   - title: "aaron-aldrich-lightning"
     type: talk
     date: 2020-02-28
-    start_time: "14:20"
-    end_time: "14:25"
+    start_time: "13:50"
+    end_time: "13:55"
   - title: "Sponsors, Open Spaces Topics & Break"
     type: custom
     date: 2020-02-28
-    start_time: "14:25"
-    end_time: "14:45"
+    start_time: "13:55"
+    end_time: "14:30"
   - title: "Open Space #1"
     type: open-space
     date: 2020-02-28
-    start_time: "14:45"
-    end_time: "15:15"
+    start_time: "14:30"
+    end_time: "15:00"
   - title: "rosemary-wang"
     type: talk
     date: 2020-02-28
-    start_time: "14:45"
-    end_time: "15:45"
+    start_time: "14:30"
+    end_time: "15:30"
   - title: "Open Space #2"
     type: open-space
     date: 2020-02-28
-    start_time: "15:15"
-    end_time: "15:45"
+    start_time: "15:00"
+    end_time: "15:30"
   - title: "Closing Ceremony"
     type: custom
     date: 2020-02-28
-    start_time: "15:45"
-    end_time: "16:00"
+    start_time: "15:30"
+    end_time: "15:45"

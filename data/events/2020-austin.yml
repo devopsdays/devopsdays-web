@@ -38,13 +38,13 @@ location: "Westin Hotel and Conference Center at the Domain" # Defaults to city,
 location_address: "11301 Domain Drive, Austin, Texas 78758" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+# - name: propose
   - name: registration
   - name: sponsor
   - name: location
- # - name: schedule
- # - name: program
- # - name: speakers
+# - name: schedule
+# - name: program
+# - name: speakers
   - name: contact
   - name: conduct
 # - name: example
@@ -157,14 +157,6 @@ team_members: # Name is the only required field for team members.
     facebook: ""
     linkedin: "https://www.linkedin.com/in/chris-casey-021a2750/"
     image: "chris.jpg"
-  - name: "Carl Perry"
-    twitter: "edolnx"
-    employer: "Sphere Cube LLC"
-    bio: "Director of Server Housing, Interconnects, Electrical, and Logistics Division at a tiny hosting company you've never heard of. AV and Racing nerd. Has many horror stories of HDMI and HDCP."
-    github: "edolnx"
-    facebook: ""
-    linkedin: "https://www.linkedin.com/in/carl-perry-9a0380a"
-    image: "carl.jpg"
   - name: "Asif Ahmad"
     twitter: "dabrownkid84"
     employer: "National Instruments"
@@ -216,6 +208,8 @@ sponsors:
     level: platinum
   - id: contrast_security
     level: platinum
+  - id: codefresh
+    level: platinum
   - id: circleci
     level: gold
   - id: xmatters
@@ -227,6 +221,8 @@ sponsors:
   - id: 42lines
     level: gold
   - id: lightstep
+    level: gold
+  - id: launch-darkly
     level: gold
 
 sponsors_accepted : "true" # Whether you want "Become a XXX Sponsor!" link

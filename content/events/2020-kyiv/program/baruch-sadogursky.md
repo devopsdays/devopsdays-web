@@ -2,10 +2,11 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = ""
+Title = "Influencing DevOps without Authority - how \"DevOps engineer\" can advance real DevOps"
 Type = "talk"
 Speakers = ["baruch-sadogursky"]
-image = "baruch-sadogursky.jpg"
 +++
 
-Baruch Sadogursky (a.k.a JBaruch) is the Head of Developer Relations and a Developer Advocate at JFrog. His passion is speaking about technology. Well, speaking in general, but doing it about technology makes him look smart, and 18 years of hi-tech experience sure helps. When he’s not on stage (or on a plane to get there), he learns about technology, people and how they work, or more precisely, don’t work together.
+You know about DevOps, you know DevOps is right for your organization, but hey, what can you do? As an individual contributor or a team leader, your authority to transform your organization to DevOps is limited. But your influence is not!
+In this talk, Baruch will show how some proven influencing and negotiating techniques can be used to convince critical stakeholders in your organization in the necessity of DevOps.
+We look at the arguments, the techniques, and the small tricks, which work in particular situations with particular engineering and business leadership positions and will prepare you to deliver the message of DevOps most convincingly to each.

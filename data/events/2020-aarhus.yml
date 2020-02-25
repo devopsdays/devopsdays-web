@@ -16,8 +16,8 @@ enddate:  2020-06-11T23:59:59+01:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2020-01-24T00:12:00+01:00
-cfp_date_end: 2020-02-29T23:59:00+01:00
-cfp_date_announce: 2020-03-15T12:00:00+01:00
+cfp_date_end: 2020-03-07T23:59:00+01:00
+cfp_date_announce: 2020-03-22T12:00:00+01:00
 
 cfp_open: "true"
 cfp_link: "https://www.papercall.io/devopsdaysaarhus-2020" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
