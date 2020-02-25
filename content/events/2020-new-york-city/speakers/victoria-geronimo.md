@@ -1,7 +1,7 @@
 +++
 Title = "Victoria Geronimo"
 Twitter = ""
-image = ""
+image = "victoria-geronimo.jpg"
 type = "speaker"
 linktitle = "victoria-geronimo"
 

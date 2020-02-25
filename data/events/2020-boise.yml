@@ -25,7 +25,7 @@ registration_date_end: 2020-05-15 # close registration. Leave blank if registrat
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
-
+sharing_image: "sharing.jpg"
 # Location
 #
 coordinates: "43.614893,-116.205161" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
@@ -89,6 +89,8 @@ sponsors:
     level: platinum
   - id: chef
     level: silver
+  - id: balsam-brands
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

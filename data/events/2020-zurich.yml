@@ -22,11 +22,11 @@ cfp_date_announce: 2020-04-30T00:00:00+02:00 # inform proposers of status
 cfp_open: "true"
 cfp_link: "https://sessionize.com/devopsdayszh-2020/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2020-02-10T00:00:00+02:00
+registration_date_end: 2020-09-07T00:00:00+02:00
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://ti.to/dod/dodzh2020" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -38,7 +38,7 @@ location_address: "Technikumstrasse 8, 8400 Winterthur, Switzerland" #Optional -
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
   - name: location
- # - name: registration
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -184,6 +184,8 @@ sponsors:
     level: bronze
   - id: sap
     level: bronze
+  - id: googlecloud
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

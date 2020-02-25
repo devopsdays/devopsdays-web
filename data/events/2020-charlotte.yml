@@ -91,11 +91,15 @@ sponsors:
     level: gold
   - id: paloaltonetworks
     level: gold
+  - id: mattermost
+    level: gold
   - id: hcl
     level: silver
   - id: delphix
     level: silver
   - id: rancher
+    level: silver
+  - id: eliassen-group
     level: silver
   - id: arresteddevops
     level: community

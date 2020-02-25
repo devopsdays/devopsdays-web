@@ -4,6 +4,8 @@ city: "Amsterdam" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsams" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "devopsdays Amsterdam is back for the 8th time!" # Edit this to suit your preferences
 ga_tracking_id: "UA-38891729-3" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+masthead_background: "skyline-ams.jpg"
+sharing_image: "logo-rectangle.png"
 
 # All dates are in unquoted 2020-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00
@@ -33,12 +35,11 @@ coordinates: "52.376862, 4.922078" # The coordinates of your city. Get Latitude 
 location: "Pakhuis de Zwijger - Amsterdam" # Defaults to city, but you can make it the venue name.
 #
 location_address: "Piet Heinkade 179, 1019 HC Amsterdam" #Optional - use the street address of your venue. This will show up on the welcome page if set.
-masthead_background: "skyline-ams.jpg"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
  # - name: location
- # - name: registration
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -86,6 +87,8 @@ sponsors:
   # beer
   # Pre-event
   # coffee
+  - id: sentia
+    level: coffee
   # t-shirt
   - id: fullstaq
     level: t-shirt
@@ -107,6 +110,8 @@ sponsors:
   - id: securecodewarrior
     level: silver
   # bronzes
+  - id: s0l1dheroes
+    level: bronze
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

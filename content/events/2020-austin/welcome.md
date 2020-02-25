@@ -15,6 +15,7 @@ Description = "DevOpsDays Austin 2020"
       <a href="../registration" class="btn btn-primary btn-block"><i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Register now!</a> 
       <a href="../sponsor" class="btn btn-primary btn-block"><i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor DevOpsDays Austin!</a>
       <a href="../contact" class="btn btn-primary btn-block"><i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Contact the Organizers</a>
+      <a href="../location" class="btn btn-primary btn-block"><i class="fa fa-bed fa-lg"></i>&nbsp;&nbsp;&nbsp;Nearby Hotels</a>
     </div>
     <div class="col-md-4">
       <h3>Get a Taste of DevOpsDays Austin</h3>
