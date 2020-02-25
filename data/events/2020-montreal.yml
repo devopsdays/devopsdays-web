@@ -35,7 +35,7 @@ location_address: "Palais des congrès de Montréal: 1001 Jean Paul Riopelle Pl,
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
- # - name: location
+   - name: location
  # - name: registration
  # - name: program
  # - name: speakers
