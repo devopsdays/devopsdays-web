@@ -67,6 +67,6 @@ Description = "devopsdays Salt Lake City 2020"
 <h3>Join us for our 5th year in the Silicon Slopes!</h3>
 <h4>The conference for organizational excellence</h4>
 <a href="../registration" class="btn btn-info">Register!</a> <a href="../sponsor" class="btn btn-info">Sponsor DevOpsDays SLC!</a><br>
-Come join us on June 2 - 3, 2020 and find out how to level your expertise with those of us who strive for operational nirvana.
+Come join us on June 1 - 2, 2020 and find out how to level your expertise with those of us who strive for operational nirvana.
 <br>
 <br>
