@@ -118,8 +118,8 @@ sponsors:
     level: platinum
   ## Gold
   ## Silver
-  - id: plex
-    level: silver
+  #- id: plexsolutions ## Awaiting Payment
+  #  level: silver
   ## Community
   - id: agilecharm
     level: community

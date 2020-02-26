@@ -100,7 +100,7 @@ The following chart outlines our sponsorship packages at a high level, which are
       <td class="yes">✅****</td>
     </tr>
     <tr>
-      <td>Complimentary Tickets Included</td>
+      <td>Complementary Tickets Included</td>
       <td class="yes">1</td>
       <td class="yes">1</td>
       <td class="yes">2</td>
@@ -124,7 +124,7 @@ members in order to become a Community Sponsor.
 
 * Discount code to share with your Community members (10% off General Admission
   tickets)
-* 1 Complimentary ticket to the conference (redeemable after sharing about
+* 1 Complementary ticket to the conference (redeemable after sharing about
   DevOpsDays on at least one medium: social media, email, Meetup.com, etc.)
 * Logo on shared slide, rotating during breaks
 * Logo on DevOpsDays Baltimore event website
@@ -138,14 +138,14 @@ Media Sponsor.
 
 * Discount code to share with your Audience members (10% off General Admission
   tickets)
-* 1 Complimentary ticket to the conference (redeemable after sharing about
+* 1 Complementary ticket to the conference (redeemable after sharing about
   DevOpsDays on at least one medium: social media, email, Meetup.com, etc.)
 * Logo on shared slide, rotating during breaks
 * Logo on DevOpsDays Baltimore event website
 * [**Become a Media Sponsor**](https://docs.google.com/forms/d/e/1FAIpQLScVccx6EPwNQ5OyMOYomheKYD-5VfrCzOEE0Tz2SM0uiTFUzQ/viewform?usp=pp_url&entry.510613015=Media+-+Free).
 
 ### Silver Sponsors
-* 2 Complimentary tickets to the conference
+* 2 Complementary tickets to the conference
 * Logo on shared slide, rotating during breaks
 * Logo on DevOpsDays Baltimore event website
 * [**Become a Silver Sponsor**](https://docs.google.com/forms/d/e/1FAIpQLScVccx6EPwNQ5OyMOYomheKYD-5VfrCzOEE0Tz2SM0uiTFUzQ/viewform?usp=pp_url&entry.510613015=Silver+-+$1,200).
@@ -169,7 +169,7 @@ Conference attendees are invited to stick around for Happy Hour (food and
 drinks) after the first day of the conference. We will invite other members of
 the Baltimore Tech Community to join us, space permitting.
 
-* 3 additional Complimentary tickets to the conference
+* 3 additional Complementary tickets to the conference
 * Logo on shared slide, rotating during breaks
 * Logo on DevOpsDays Baltimore event website
 * Full Table during Happy Hour for Swag/Marketing
