@@ -5,7 +5,7 @@ Description = "Location for devopsdays Detroit 2020"
 +++
 
 <h2>Conference Location</h2>
-<p>devopsdays Detroit 2019 is being held on the <strong>11th floor</strong> at the College for Creative Studies, A. Alfred Taubman Center for Design Education. The building address is: 460 W. Baltimore Ave, Detroit, MI 48202. <a href="http://www.collegeforcreativestudies.edu/contact-us/maps-and-directions" target="_blank">Maps and Directions</a></p>
+<p>devopsdays Detroit 2020 is being held on the <strong>11th floor</strong> at the College for Creative Studies, A. Alfred Taubman Center for Design Education. The building address is: 460 W. Baltimore Ave, Detroit, MI 48202. <a href="http://www.collegeforcreativestudies.edu/contact-us/maps-and-directions" target="_blank">Maps and Directions</a></p>
 
 <p>
 The location is approximately 30 minutes via car from <a href="http://www.metroairport.com/" target="_blank">Detroit Metropolitan Wayne County Airport (DTW)</a><p/>
