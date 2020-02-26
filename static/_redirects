@@ -65,7 +65,7 @@
 /medellin/*		/events/2020-medellin/:splat		302
 /minneapolis/*		/events/2020-minneapolis/:splat		302
 /montevideo/*		/events/2019-montevideo/:splat		302
-/montreal/*		/events/2019-montreal/:splat		302
+/montreal/*		/events/2020-montreal/:splat		302
 /moscow/*		/events/2019-moscow/:splat		302
 /nairobi/*		/events/2014-nairobi/:splat		302
 /nashville/*		/events/2020-nashville/:splat		302

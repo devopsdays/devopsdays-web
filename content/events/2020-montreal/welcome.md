@@ -1,8 +1,8 @@
 +++
-Title = "devopsdays Buffalo 2020"
+Title = "devopsdays Montreal 2020"
 Type = "welcome"
-aliases = ["/events/2020-buffalo/"]
-Description = "devopsdays Buffalo 2020"
+aliases = ["/events/2020-montreal/"]
+Description = "devopsdays Montreal 2020"
 +++
 
 <!-- <div style="text-align:center;">
@@ -18,32 +18,32 @@ Description = "devopsdays Buffalo 2020"
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div> -->
+</div> 
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="registration" text="Register to attend the conference!" >}}
   </div>
-</div>
+</div> -->
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
-</div>
+</div> -->
 
 <!-- <div class = "row">
   <div class = "col-md-2">
