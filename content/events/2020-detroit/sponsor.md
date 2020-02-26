@@ -1,7 +1,7 @@
 +++
-title = "propose"
+title = "sponsor"
 type = "event"
-Description = "Propose a talk for DevOpsDays Detroit 2020"
+Description = "Sponsor DevOpsDays Detroit 2020"
 +++
 
 We greatly value sponsors for this open event. See a <a href="https://assets.devopsdays.org/events/2020/detroit/prospectus.pdf">PDF of our prospectus</a> for more sponsorship details, or see below.
@@ -42,6 +42,7 @@ General inquiries and sponorships:  [{{< email_organizers >}}]
 <h3 style="padding-top: 2em;">Sponsorship Packages</h3>
 <table style="border: 1px solid rgba(0,0,0,0.1); border-spacing: 10px;border-collapse: separate;">
   <tr>
+    <td></td>
     <td style="font-weight: bold; text-align: center">Gold</td>
     <td style="font-weight: bold; text-align: center">Community</td>
   </tr>
@@ -82,8 +83,8 @@ General inquiries and sponorships:  [{{< email_organizers >}}]
   </tr>
   <tr>
     <td style="font-weight: bold">Cost</td>
-    <td style="font-weight: bold; text-align: center">$10,000 USD</td>
-    <td style="font-weight: bold; text-align: center">$1,000 USD</td>
+    <td style="font-weight: bold; text-align: center">$6,000 USD</td>
+    <td style="font-weight: bold; text-align: center">N/A</td>
   </tr>
   <tr>
     <td></td>
