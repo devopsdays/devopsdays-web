@@ -114,7 +114,7 @@ sponsors:
     level: platinum
   - id: blendedperspectives
     level: gold
-  - id: redislabs
+  - id: redis-labs
     level: gold
   - id: splunk
     level: gold
