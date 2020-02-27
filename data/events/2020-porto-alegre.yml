@@ -170,8 +170,10 @@ sponsors:
     level: courses
   - id: alura2020
     level: courses
+    url: "https://cursos.alura.com.br/formacao-devops"
   - id: casadocodigo
     level: courses
+    url: "https://www.casadocodigo.com.br"
   - id: faculdade-dom-bosco
     level: institutional
 
