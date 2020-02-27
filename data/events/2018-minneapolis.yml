@@ -110,7 +110,7 @@ sponsors:
     level: silver
   - id: victorops-before-20180823
     level: gold
-  - id: instana
+  - id: instana-before-20200127
     level: silver
   - id: pivotal-before-20190307
     level: gold
@@ -150,7 +150,7 @@ sponsors:
     level: gold
   - id: signalfx
     level: platinum
-  - id: pagerduty
+  - id: pagerduty-before-20190930
     level: gold
   - id: morpheus
     level: gold
@@ -190,7 +190,7 @@ sponsors:
     level: community
   - id: cloudability
     level: alacarte
-  - id: docker
+  - id: docker-before-20190926
     level: silver
   - id: bluematador
     level: silver

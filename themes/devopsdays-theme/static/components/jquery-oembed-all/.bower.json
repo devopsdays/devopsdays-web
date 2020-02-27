@@ -1,0 +1,27 @@
+{
+  "name": "jquery-oembed-all",
+  "homepage": "https://github.com/nfl/jquery-oembed-all",
+  "authors": [
+    "National Football League <engineers@nfl.com>"
+  ],
+  "description": "Use native oEmbed services when possible.",
+  "main": "jquery.oembed.js",
+  "license": "MIT",
+  "ignore": [
+    "examples",
+    "*.md",
+    "CHANGELOG"
+  ],
+  "dependencies": {
+    "jquery": ">=1.4.3"
+  },
+  "_release": "fbc982e76c",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "fbc982e76c7fadad29a8ceee1ee32079ff1eaee0"
+  },
+  "_source": "https://github.com/nfl/jquery-oembed-all.git",
+  "_target": "*",
+  "_originalSource": "jquery-oembed-all"
+}

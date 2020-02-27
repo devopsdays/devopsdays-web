@@ -6,7 +6,7 @@ Description = "DevOpsDays Cape Town 2019 will take place September 5-6, 2019!"
 +++
 
 <div class="row">
-  <div class = "col-md-6 push-md-6">
+  <div class = "col-md-6 order-md-12">
     As a community-run event, DevOpsDays Cape Town strives to build awareness and spread lean, collaborative practises to organisations and individuals.
     <br><br>
     Cape Town has a thriving technology sector, respected globally, and bringing this international event here helps bridge local specialists with their global counterparts and broaden the community.
@@ -14,7 +14,6 @@ Description = "DevOpsDays Cape Town 2019 will take place September 5-6, 2019!"
     We expect 200-300 people this year and will be holding the event on September 5-6, 2019 at the <a href="/events/2019-cape-town/location">Hilton Doubletree</a> in Woodstock, Cape Town.
     <br><br>
     The format of DevOpsDays Cape Town includes a single track of 45 minute talks in the morning of each event, followed by shorter talks (5-15 minutes). We spend the rest of the afternoon in Open Spaces, which are considered a key portion of the event.
-
     <div class = "row"><!-- begin a content element -->
       <div class = "col-md-12">
         <div class = "row justify-content-center">
@@ -38,40 +37,23 @@ Description = "DevOpsDays Cape Town 2019 will take place September 5-6, 2019!"
     </div><!-- end a content element -->
 
   </div>
-  <div class = "col-md-6 pull-md-6">
+  <div class = "col-md-6 order-md-1">
      <div class = "row"><!-- begin a content element -->
       <div class = "col-md-12">
       <div class = "row justify-content-center">
+          <div class = "d-flex p-2">
+            <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="http://qkt.io/dodcpt2019">
+             <i class="fa fa-user-circle fa-lg"></i>&nbsp;&nbsp;&nbsp;Register to Attend
+            </a>
+          </div>
         <div class = "d-flex p-2">
-          <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="/events/2019-cape-town/sponsor">
-            <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference
-          </a>
-        </div>
-        <div class = "d-flex p-2">
-          <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="/events/2019-cape-town/contact">
-            <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Contact the Organizers
+          <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="/events/2019-cape-town/program">
+            <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;&nbsp;View the program
           </a>
         </div>
         </div>
       </div>
     </div><!-- end a content element -->
-
-    <div class = "row">
-      <div class = "col-md-12">
-        <div class = "row justify-content-center">
-          <div class = "d-flex p-2">
-            <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://www.papercall.io/devopsdayscpt2019">
-              <i class="fa fa-book fa-lg"></i>&nbsp;&nbsp;&nbsp;Propose to talk
-            </a>
-          </div>
-          <!-- <div class = "d-flex p-2">
-            <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="http://qkt.io/dodcpt2018">
-             <i class="fa fa-user-circle fa-lg"></i>&nbsp;&nbsp;&nbsp;Register to Attend
-            </a>
-          </div> -->
-       </div>
-     </div>
-    </div>
     <div class = "row">
       <div class = "col-12">
         <img src = "/events/2019-cape-town/logo.png" class = "img-fluid">

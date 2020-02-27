@@ -116,7 +116,7 @@ sponsors:
     level: gold
   - id: chef
     level: gold
-  - id: pagerduty
+  - id: pagerduty-before-20190930
     level: gold
   - id: dynatrace
     level: gold
@@ -132,7 +132,7 @@ sponsors:
     level: gold
   - id: sumologic-before-20181203
     level: gold
-  - id: instana
+  - id: instana-before-20200127
     level: gold
   - id: appdynamics-before-20190121
     level: gold
@@ -162,7 +162,7 @@ sponsors:
     level: silver
   - id: kaizenops-before-20181008
     level: silver
-  - id: rancher
+  - id: rancher-before-20190812
     level: silver
   - id: cmegroup
     level: silver
@@ -218,7 +218,7 @@ sponsors:
     level: community
   - id: wwcchicago
     level: community
-  - id: oreilly
+  - id: oreilly-before-20190725
     level: community
   - id: chicktech
     level: community

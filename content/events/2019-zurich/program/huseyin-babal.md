@@ -8,8 +8,8 @@ title = "Microservice Architecture on Kubernetes"
 type = "talk"
 speakers = ["huseyin-babal"]
 youtube = ""
-vimeo = ""
-speakerdeck = ""
+vimeo = "344514060"
+speakerdeck = "https://speakerdeck.com/dodzh/microservice-architecture-on-kubernetes-huseyin-babal"
 slideshare = ""
 slides = ""
 +++

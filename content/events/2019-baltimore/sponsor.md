@@ -175,7 +175,12 @@ The following chart outlines our sponsorship packages at a high level, which are
 
 [Become a Platinum Sponsor](https://devopsdaysbaltimore2019.busyconf.com/bookings/new?discount=SPONSOR).
 
+<<<<<<< HEAD
 ### Happy Hour - Price TBD
+=======
+### Happy Hour - Inquire
+(Contact {{< email_organizers >}} for details)
+>>>>>>> upstream/master
 
 Conference attendees will be invited to stick around for happy hour on the first day of the conference. Additionally, we will invite other members of the Baltimore technical community to join us, space permitting. The Happy Hour sponsorship includes some special perks not listed in the table above.
 

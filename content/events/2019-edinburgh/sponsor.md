@@ -23,8 +23,8 @@ If you are interested in one of the packages below, offering a special sponsorsh
 <table border=1 cellspacing=1 cellpadding=3 style="color:#003CB6" bordercolor="003CB6">
   <tr>
     <th><i>Sponsorship medal packages</i></th>
-    <th><center><b>Bronze<br />£TBC<br />(gbp)</center></b></th>
-    <th><center><b>Gold<br />£TBC<br />(gbp)</center></b></th>
+    <th><center><b>Bronze<br />£500<br />(gbp)</center></b></th>
+    <th><center><b>Gold<br />£3500<br />(gbp)</center></b></th>
   </tr>
 <tr>
   <td>Total Packages Available</td>
@@ -38,7 +38,7 @@ If you are interested in one of the packages below, offering a special sponsorsh
 </tr>
 <tr>
   <td>Number of tickets included in package</td>
-  <td bgcolor="005EB8" style="color:white" ><center><i>1</i></center></td>
+  <td bgcolor="005EB8" style="color:white" ><center><i>2</i></center></td>
   <td bgcolor="005EB8" style="color:white" ><center><i>4</i></center></td>
 </tr>
 <tr>

@@ -1,0 +1,91 @@
+{{ $headers := findRE "<h[2-4].*?>(.|\n])+?</h[2-4]>" .Content }}
+{{ $numHeaders := len $headers }}
+{{ $hasHeaders := ge $numHeaders 1 }}
+
+{{ if $hasHeaders }}
+<nav id="toc" data-toggle="toc">
+  <!-- TOC header -->
+  <ol class="toc">
+    {{ range $i, $header := $headers }}
+      {{ $currentHeaderLevelString := index (findRE "[2-4]" $header 1) 0 }}
+      {{ $currentHeaderLevel := len (seq $currentHeaderLevelString) }}
+      {{ $anchorId := (replaceRE  "[’/_]" "-" ($header | htmlUnescape | plainify | htmlEscape)) | urlize }}
+      {{ $listItemTitle := $header | htmlUnescape | plainify | htmlEscape }}
+      {{ $listItemOpen := safeHTML (printf "<li><a href='#%s'>%s</a>" $anchorId $listItemTitle) }}
+      {{ $lastItemIndex := sub $numHeaders 1 }}
+
+      {{/* case: there is only one header */}}
+      {{ if lt $numHeaders 2 }}
+        {{ $listItemOpen }}</li>
+
+      {{ else }}
+
+        {{/* case: more than 1 header, first header */}}
+        {{ if lt $i 1 }}
+          {{ $listItemOpen }}
+
+        {{/* case: more than 1 header, not first header */}}
+        {{ else }}
+          {{ $previousHeader := index $headers (sub $i 1) }}
+          {{ $previousHeaderLevelString := index (findRE "[2-4]" $previousHeader 1) 0 }}
+          {{ $previousHeaderLevel := len (seq $previousHeaderLevelString) }}
+
+          {{/* case: header is at the same level as the previous header */}}
+          {{ if eq $currentHeaderLevel $previousHeaderLevel }}
+            </li>
+            {{ $listItemOpen }}
+
+          {{/* case: header is higher than the previous header (e.g. h3 where previous header is h2) */}}
+          {{/* a header should never be more than 1 higher than the previous h2 -> h3 -> h4 */}}
+          {{ else if gt $currentHeaderLevel $previousHeaderLevel }}
+            <ol>
+              {{ $listItemOpen }}
+
+          {{/* case: header level is lower than the previous header (e.g. h2 where previous header is h4) */}}
+          {{/* the previous header may be multiple levels different, h2 can legitimately follow a h4 */}}
+          {{ else if lt $currentHeaderLevel $previousHeaderLevel }}
+            {{/* close the <li> of the previous header */}}
+            </li>
+
+            {{/* close the <ol>s and <li>s of the previous headers */}}
+            {{ $headerLevelDifference := sub $previousHeaderLevel $currentHeaderLevel }}
+            {{ range (seq $headerLevelDifference) }}
+              </ol></li>
+            {{ end }}
+
+            {{ $listItemOpen }}
+
+          {{ end }}
+
+        {{ end }}
+        {{/* end if based on first or not first header */}}
+
+        {{/* case: last header, time to close any open <li> and <ol> */}}
+        {{ if eq $i $lastItemIndex }}
+          {{ $firstHeader := index $headers 0 }}
+          {{ $firstHeaderLevelString := index (findRE "[2-4]" $firstHeader 1) 0 }}
+          {{ $firstHeaderLevel := len (seq $firstHeaderLevelString) }}
+
+          {{/* close the <li> of the previous header */}}
+          </li>
+
+          {{/* close the <ol>s and <li>s of the previous headers */}}
+          {{ $differenceWithFirstHeader := sub $firstHeaderLevel $currentHeaderLevel }}
+          {{ range (seq $differenceWithFirstHeader) }}
+            </ol></li>
+          {{ end }}
+        {{ end }}
+        {{/* end if last item */}}
+
+      {{ end }}
+      {{/* end if numhHeaders > 1 */}}
+
+    {{ end }}
+    {{/* end range headers */}}
+    {{ if isset .Params "comments_uuid" }}
+      <li><a href='#comments'>Comments</a></li>
+    {{ end }}
+  </ol>
+</nav>
+{{ end }}
+{{/* end if has headers */}}

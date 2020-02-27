@@ -38,7 +38,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: chef-before-20160714
     level: gold
-  - id: pagerduty
+  - id: pagerduty-before-20190930
     level: gold
   - id: logicmonitor
     level: gold
@@ -94,7 +94,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: silver
   - id: fortrust
     level: host
-  - id: oreilly
+  - id: oreilly-before-20190725
     level: media
   - id: arresteddevops
     level: media

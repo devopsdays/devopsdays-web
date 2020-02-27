@@ -83,7 +83,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: ubuntu-before-20160929
     level: silver
-  - id: pagerduty
+  - id: pagerduty-before-20190930
     level: gold
   - id: sps_commerce
     level: gold
@@ -113,7 +113,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: silver
   - id: arresteddevops
     level: community
-  - id: oreilly
+  - id: oreilly-before-20190725
     level: community
   - id: softwaredefinedtalk
     level: community

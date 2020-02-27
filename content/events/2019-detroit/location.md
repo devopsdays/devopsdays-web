@@ -18,4 +18,7 @@ The location is approximately 30 minutes via car from <a href="http://www.metroa
 <a href="http://www.collegeforcreativestudies.edu/support-ccs/capital-campaign-advancing-the-creative-spirit/a-alfred-taubman-center-for-design-education">The A. Alfred Taubman Center for Design Education</a> is an educational complex devoted to creativity. It houses a learning community, focused on art and design, extending from middle school through graduate school and beyond into the professional realm. It houses several departments for the College of Creative Studies, a library, dormitory, gymnasium, book store, cafe, and conference space. The building, formerly known as the Argonaut building, was designed by Albert Kahn for General Motors.
 </p>
 
+<h4>Parking</h4>
+Free event parking is located at the lot across the street. In event that the lot fills up, additional parking can be found at the Cass Garage (6540 Cass Ave) for a small daily fee. 
+
 <!-- {{< event_map >}} -->

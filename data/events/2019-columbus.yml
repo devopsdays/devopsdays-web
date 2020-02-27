@@ -22,8 +22,13 @@ cfp_date_announce: 2019-08-13T00:00:00-04:00 # inform proposers of status
 cfp_open: "false"
 cfp_link: "https://www.papercall.io/devopsdayscolumbus2019" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
+<<<<<<< HEAD
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: # close registration. Leave blank if registration is not open yet.
+=======
+registration_date_start: 2018-04-11T00:00:00-04:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2019-09-19T23:59:59-04:00 # close registration. Leave blank if registration is not open yet.
+>>>>>>> upstream/master
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -36,6 +41,12 @@ location_address: "2400 Olentangy River Rd, Columbus, OH 43210" #Optional - use 
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
+<<<<<<< HEAD
+=======
+  - name: speakers
+  - name: program
+  - name: registration
+>>>>>>> upstream/master
   - name: sponsor
   - name: contact
   - name: conduct
@@ -49,6 +60,7 @@ team_members: # Name is the only required field for team members.
     <br/><br/>David has been a member of the DevOpsDays Ohio organizing committee since it's inception. He's also Co-Organizer of the DevOps Columbus Meetup."
     twitter: "dlaulusa"
     linkedin: "https://www.linkedin.com/in/davidlaulusa/"
+  - name: "Jack Maher"
   - name: "J.D. Santen"
     bio: "J.D. Santen is a developer who has been working in the telecommunications industry for over 18 years.  In that time, he’s seen network growth explode and the requirements to support it become more complicated.  J.D. has had a hand in building IT systems that are as resilient as the network they support."
     linkedin: "https://www.linkedin.com/in/jdsanten"
@@ -79,10 +91,73 @@ proposal_email: "proposals-columbus-2019@devopsdays.org" # Put your proposal ema
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+<<<<<<< HEAD
 #  - id: sumologic-before-20181203
 #    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+=======
+  - id: f5
+    level: gold
+  - id: sysdig-before-20200210
+    level: gold
+  - id: 2015-covermymeds
+    level: gold
+  - id: morpheus
+    level: gold
+  - id: dynatrace
+    level: gold
+  - id: chef
+    level: gold
+  - id: contrast_security
+    level: gold
+  - id: redhat
+    level: gold
+  - id: jpmc
+    level: gold
+  - id: datarobot
+    level: gold
+  - id: newrelic
+    level: gold
+  - id: hcl-before-20200120
+    level: gold
+  - id: gitlab
+    level: gold
+  - id: appdynamics
+    level: gold
+  - id: vmware
+    level: gold
+  - id: confluent
+    level: gold
+  - id: tasktop
+    level: silver
+  - id: upstart
+    level: silver
+  - id: liatrio
+    level: silver
+  - id: instana-before-20200127
+    level: silver
+  - id: signalfx
+    level: silver
+  - id: netjets
+    level: silver
+  - id: ahead
+    level: silver
+  - id: rancher
+    level: silver
+  - id: checkpoint
+    level: bronze
+  - id: trendmicro
+    level: bronze
+  - id: callibrity
+    level: bronze
+  - id: compuware
+    level: bronze
+  - id: stickermule
+    level: community
+
+sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
+>>>>>>> upstream/master
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -99,18 +174,276 @@ sponsor_levels:
     label: Community
 
 program:
-#- title: "Registration and Breakfast" # Day 1 Start
-#  type: custom
-#  date: 2018-09-19
-#  start_time: "8:00"
-#  end_time: "9:00"
-#
-#- title: "Opening Welcome"
-#  type: custom
-#  date: 2018-09-19
-#  start_time: "9:00"
-#  end_time: "9:15"
+- title: "Registration and Breakfast" # Day 1 Start
+  type: custom
+  date: 2019-09-18
+  start_time: "8:00"
+  end_time: "9:00"
+
+- title: "Opening Welcome"
+  type: custom
+  date: 2019-09-18
+  start_time: "9:00"
+  end_time: "9:15"
+
+- title: "courtney-kissler"
+  type: talk
+  date: 2019-09-18
+  start_time: "9:15"
+  end_time: "9:45"
+
+- title: "jeremy-hayes"
+  type: talk
+  date: 2019-09-18
+  start_time: "9:45"
+  end_time: "10:15"
+
+- title: "Break"
+  type: custom
+  date: 2019-09-18
+  start_time: "10:15"
+  end_time: "10:30"
+
+- title: "charles-hepner"
+  type: talk
+  date: 2019-09-18
+  start_time: "10:30"
+  end_time: "11:00"
+
+- title: "kristen-biddulph"
+  type: talk
+  date: 2019-09-18
+  start_time: "11:00"
+  end_time: "11:30"
+
+- title: "Open Spaces Prep"
+  type: custom
+  date: 2019-09-18
+  start_time: "11:30"
+  end_time: "12:00"
+
+- title: "Lunch"
+  type: custom
+  date: 2019-09-18
+  start_time: "12:00"
+  end_time: "1:00"
+
+- title: "Ignites"
+  type: ignite
+  date: 2019-09-18
+  start_time: "12:50"
+  end_time: "1:20"
+
+- title: "Breakout Sessions"
+  type: custom
+  date: 2019-09-18
+  start_time: "1:30"
+  end_time: "4:45"
+
+- title: "Open Spaces"
+  type: open-space
+  date: 2019-09-18
+  start_time: "1:30"
+  end_time: "4:45"
+
+- title: "angel-rivera"
+  type: workshop
+  date: 2019-09-18
+  start_time: "1:30"
+  end_time: "3:00"
+
+- title: "kate-wardin"
+  type: workshop
+  date: 2019-09-18
+  start_time: "1:30"
+  end_time: "3:00"
+
+- title: "james-odonnell"
+  type: talk
+  date: 2019-09-18
+  start_time: "1:30"
+  end_time: "2:15"
+
+- title: "derek-dejonghe"
+  type: talk
+  date: 2019-09-18
+  start_time: "2:15"
+  end_time: "3:00"
+
+- title: "Break"
+  type: custom
+  date: 2019-09-18
+  start_time: "3:00"
+  end_time: "3:15"
+
+- title: "mofizur-rahman"
+  type: workshop
+  date: 2019-09-18
+  start_time: "3:15"
+  end_time: "4:45"
+
+- title: "matty-stratton"
+  type: workshop
+  date: 2019-09-18
+  start_time: "3:15"
+  end_time: "4:45"
+
+- title: "jeff-mckenzie"
+  type: talk
+  date: 2019-09-18
+  start_time: "3:15"
+  end_time: "4:00"
+
+- title: "maarika-krumhansl"
+  type: talk
+  date: 2019-09-18
+  start_time: "4:00"
+  end_time: "4:45"
+
+- title: "peter-nijenhuis"
+  type: talk
+  date: 2019-09-18
+  start_time: "4:50"
+  end_time: "5:30"
+
+- title: "After Party/Happy Hour"
+  type: custom
+  date: 2019-09-18
+  start_time: "5:30"
+  end_time: "7:00"
+
+
+- title: "Registration and Breakfast" # Day 2 start
+  type: custom
+  date: 2019-09-19
+  start_time: "8:00"
+  end_time: "9:00"
+
+- title: "Prior Day Recap" # Day 2 start
+  type: custom
+  date: 2019-09-19
+  start_time: "9:00"
+  end_time: "9:15"
+
+- title: "nathen-harvey-keynote"
+  type: talk
+  date: 2019-09-19
+  start_time: "9:15"
+  end_time: "9:45"
+
+- title: "maarika-krumhansl-keynote"
+  type: talk
+  date: 2019-09-19
+  start_time: "9:45"
+  end_time: "10:15"
+
+- title: "Break"
+  type: custom
+  date: 2019-09-19
+  start_time: "10:15"
+  end_time: "10:30"
+
+- title: "bill-horvath"
+  type: talk
+  date: 2019-09-19
+  start_time: "10:30"
+  end_time: "11:00"
+
+- title: "derek-weeks"
+  type: talk
+  date: 2019-09-19
+  start_time: "11:00"
+  end_time: "11:30"
+
+- title: "Open Spaces Prep"
+  type: custom
+  date: 2019-09-19
+  start_time: "11:30"
+  end_time: "12:00"
+
+- title: "Lunch"
+  type: custom
+  date: 2019-09-19
+  start_time: "12:00"
+  end_time: "1:00"
+
+- title: "Ignites"
+  type: ignite
+  date: 2019-09-19
+  start_time: "12:50"
+  end_time: "1:05"
+
+- title: "Ignite Karaoke"
+  type: custom
+  date: 2019-09-19
+  start_time: "1:05"
+  end_time: "1:25"
+  background_color: "#c3ffd7"
+
+- title: "Breakout Sessions"
+  type: custom
+  date: 2019-09-19
+  start_time: "1:30"
+  end_time: "3:00"
+
+- title: "Open Spaces"
+  type: open-space
+  date: 2019-09-19
+  start_time: "1:30"
+  end_time: "3:00"
+
+- title: "eddie-zaneski"
+  type: workshop
+  date: 2019-09-19
+  start_time: "1:30"
+  end_time: "3:00"
+
+- title: "michael-ducy"
+  type: workshop
+  date: 2019-09-19
+  start_time: "1:30"
+  end_time: "3:00"
+
+- title: "leon-stigter"
+  type: talk
+  date: 2019-09-19
+  start_time: "1:30"
+  end_time: "2:15"
+
+- title: "dave-stanke"
+  type: talk
+  date: 2019-09-19
+  start_time: "2:15"
+  end_time: "3:00"
+
+- title: "Break"
+  type: custom
+  date: 2019-09-19
+  start_time: "3:00"
+  end_time: "3:15"
+
+- title: "josh-atwell"
+  type: talk
+  date: 2019-09-19
+  start_time: "3:15"
+  end_time: "3:45"
+
+- title: "Close of Event"
+  type: custom
+  date: 2019-09-19
+  start_time: "3:45"
+  end_time: "4:00"
 
 ignites:
-#- title: "laura-maguire-ignite"
-#  date: 2018-09-19
+  - title: "jeff-turner"
+    date: 2019-09-18
+  - title: "renata-rocha"
+    date: 2019-09-18
+  - title: "josh-atwell-ignite"
+    date: 2019-09-18
+  - title: "dave-stanke-ignite"
+    date: 2019-09-18
+  - title: "marisa-grayson"
+    date: 2019-09-19
+  - title: "ed-legault"
+    date: 2019-09-19

@@ -133,7 +133,7 @@ sponsors:
     level: media
   - id: devopsdotcom
     level: media
-  - id: oreilly
+  - id: oreilly-before-20190725
     level: media
   - id: saltstack
     level: media
@@ -147,7 +147,7 @@ sponsors:
     level: community
   - id: devopslinks
     level: community
-  - id: docker
+  - id: docker-before-20190926
     level: community
   - id: stickermule
     level: sticker

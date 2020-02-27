@@ -1,9 +1,9 @@
-@import "../../bower_components/bootstrap/scss/bootstrap.scss";
-@import "../../bower_components/font-awesome/scss/font-awesome.scss";
-@import "../../bower_components/jssocials/styles/_shares.scss";
-@import "../../bower_components/jssocials/styles/jssocials.scss";
-@import "../../bower_components/jssocials/styles/jssocials-theme-plain.scss";
-@import "../../bower_components/jquery-oembed-all/jquery.oembed";
-@import "googlemaps";
+@import "../../../../node_modules/bootstrap/scss/bootstrap.scss";
+@import "../../../../node_modules/font-awesome/scss/font-awesome.scss";
+@import "../../../../node_modules/jssocials/styles/_shares.scss";
+@import "../../../../node_modules/jssocials/styles/jssocials.scss";
+@import "../../../../node_modules/jssocials/styles/jssocials-theme-plain.scss";
+@import "../components/jquery-oembed-all/jquery.oembed";
 @import "custom-variables";
 @import "custom";
+@import "_toc";

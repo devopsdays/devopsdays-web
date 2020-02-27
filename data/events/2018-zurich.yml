@@ -2,6 +2,7 @@ name: "2018-zurich" # The name of the event. Four digit year with the city name 
 year: "2018" # The year of the event. Make sure it is in quotes.
 city: "Zürich" # The city name of the event. Capitalize it.
 event_twitter: "DevOpsZH"
+event_group: "Zürich"
 
 # All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
 startdate: 2018-05-02T00:00:00+02:00

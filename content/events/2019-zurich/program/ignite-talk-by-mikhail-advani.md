@@ -8,9 +8,9 @@ title = "Implementing IAM for Kubernetes pods in AWS"
 type = "talk"
 speakers = ["mikhail-advani"]
 youtube = ""
-vimeo = ""
+vimeo = "344515420"
 speakerdeck = ""
-slideshare = ""
+slideshare = "https://www.slideshare.net/mikhailadvani/implementing-iam-for-k8s-pods-in-aws"
 slides = ""
 +++
 

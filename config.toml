@@ -11,6 +11,12 @@ PaginatePath = "blog"
 buildDrafts = false
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+    unsafe = true
+
+
 [[menu.main]]
   name = "events"
   url = "/events"

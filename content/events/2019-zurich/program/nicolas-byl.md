@@ -8,8 +8,8 @@ title = "Securing the “other” supply chain"
 type = "talk"
 speakers = ["nicolas-byl"]
 youtube = ""
-vimeo = ""
-speakerdeck = ""
+vimeo = "344515465"
+speakerdeck = "https://speakerdeck.com/nbyl/securing-the-other-supply-chain"
 slideshare = ""
 slides = ""
 +++

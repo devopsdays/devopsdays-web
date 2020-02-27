@@ -20,8 +20,8 @@ cfp_date_announce:  # inform proposers of status
 
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -59,8 +59,8 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/sallyfields"
     website: "https://mattstratton.com"
     image: "sally-fields.jpg"
-organizer_email: "organizers-city-year@devopsdays.org" # Put your organizer email address here
-proposal_email: "proposals-city-year@devopsdays.org" # Put your proposal email address here
+
+organizer_email: "city_email@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.

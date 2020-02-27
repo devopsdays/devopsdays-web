@@ -90,7 +90,19 @@ sponsors:
     level: bronze
   - id: insight
     level: silver
+<<<<<<< HEAD
   - id: redhat
+=======
+  - id: aws
+    level: bronze
+  - id: rancher-before-20190812
+    level: silver
+  - id: eventbrite
+    level: bronze
+  - id: diamanti
+    level: gold
+  - id: redhat-before-20190528
+>>>>>>> upstream/master
     level: community
   - id: shadow-soft
     level: community

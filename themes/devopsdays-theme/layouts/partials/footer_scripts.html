@@ -1,11 +1,9 @@
 {{- if .IsHome -}}
-  {{- partial "map.html" . -}}
   {{-  $.Scratch.Set "twitter_handle" "devopsdays" -}}
   {{-  $.Scratch.Set "sharing_title" "devopsdays" -}}
 {{- end -}}
 
 <!-- end metadata -->
-<script src={{"/js/devopsdays-min.js"}}></script>
 {{- if .IsPage -}}
 
   {{ if eq (index (split (.Permalink | relURL) "/") 1) "events" }}

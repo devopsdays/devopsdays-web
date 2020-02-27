@@ -2,13 +2,23 @@
 Title = "devopsdays Chattanooga 2019"
 Type = "welcome"
 aliases = ["/events/2019-chattanooga/"]
+<<<<<<< HEAD
 Description = "devopsdays Chattanooga 2019"
+=======
+Description = "DevOpsDays is returning to Chattanooga  on November 12, 2019 at the Chattanoogan Hotel."
+>>>>>>> upstream/master
 +++
 
-<!-- <div style="text-align:center;">
+<div style="text-align:center;">
   {{< event_logo >}}
-</div> -->
-
+</div>
+<br>
+<br>
+<div style="text-align:center;">
+  <iframe src="https://player.vimeo.com/video/361814505" width="1080" height="608" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
+<br>
+<br>
 <div class = "row">
   <div class = "col-md-2">
     <strong>Date</strong>
@@ -45,24 +55,25 @@ Description = "devopsdays Chattanooga 2019"
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
     View the {{< event_link page="program" text="program." >}}
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
-</div> -->
+</div> 
 
+<!--
 <div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>
@@ -71,6 +82,7 @@ Description = "devopsdays Chattanooga 2019"
     {{< event_link page="sponsor" text="Sponsor the conference!" >}}
   </div>
 </div>
+-->
 
 <div class = "row">
   <div class = "col-md-2">
@@ -81,7 +93,6 @@ Description = "devopsdays Chattanooga 2019"
   </div>
 </div>
 
-<!-- Uncomment if you added your city twitter name -->
-<!--
+
 {{< event_twitter >}}
--->
+

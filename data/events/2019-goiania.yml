@@ -1,0 +1,240 @@
+name: "2019-goiania" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2019" # The year of the event. Make sure it is in quotes.
+city: "Goiânia" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaysgyn" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "DevOpsDays está chegando em Goiânia!" # Edit this to suit your preferences
+ga_tracking_id: "UA-139150829-1" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2019-MM-DD, like this:   variable: 2016-01-05
+startdate: 2019-08-03T08:00:00-03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2019-08-03T18:00:00-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2019-05-27T00:00:00-03:00 # start accepting talk proposals.
+cfp_date_end: 2019-06-23T23:06:00-03:00 # close your call for proposals.
+cfp_date_announce: 2019-07-01T21:00:00-03:00 # inform proposers of status
+
+cfp_open: "false"
+cfp_link: "https://www.papercall.io/devopsdaysgyn2019" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: 2019-05-27T00:00:00-03:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2019-08-02T23:59:59-03:00 # close registration. Leave blank if registration is not open yet.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://www.sympla.com.br/devopsdays-goiania-2019__537592" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "-16.687634, 49.260604" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "ACIEG" # Defaults to city, but you can make it the venue name.
+location_address: "Rua 14, 50 - Setor Oeste, Goiânia/GO" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+ - name: Chamadas (CFP)
+   icon: "paper-plane-o"
+   url: /events/2019-goiania/cfp
+
+ - name: local
+   icon: "map-o"
+   url: /events/2019-goiania/local
+
+ - name: inscrições
+   icon: "ticket"
+   url: /events/2019-goiania/registration
+
+ - name: programação
+   icon: "calendar"
+   url: /events/2019-goiania/programacao
+
+ - name: palestrantes
+   icon: "microphone"
+   url: /events/2019-goiania/speakers
+
+ - name: patrocínio
+   icon: "money"
+   url: /events/2019-goiania/patrocinio
+
+ - name: código de conduta
+   icon: "handshake-o"
+   url: /events/2019-goiania/conduta
+   
+ - name: contato
+   icon: "envelope-o"
+
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Bezaleel Silva"
+    employer: "Onx Solutions - Monitoração e Devops"
+    github: "bezarsnba"
+    twitter: "http://www.twitter.com/bezarsnba"
+    linkedin: "https://www.linkedin.com/in/bezarsnba/"
+    website: "onxsolutions.net"
+    image: "bezaleel-silva.jpg"
+  - name: "Bruno Rodrigues"
+    employer: "LifeApps"
+    github: "brunocroh"
+    twitter: "brunocroh"
+    linkedin: "https://www.linkedin.com/in/brunocroh/"
+    image: "bruno-rodrigues.jpg"
+  - name: "Franzwagner Ternus"
+    email: franzwagner.str@gmail.com
+    github: "strund3r"
+    twitter: "strund3r"
+    linkedin: "https://www.linkedin.com/in/franzwagner-ternus/"
+    website: "https://about.me/franzwagner.str"
+    image: "franzwagner-ternus.jpg"
+  - name: "Jonata Weber"
+    employer: "Impulso Network"
+    github: "https://github.com/jonataa"
+    twitter: "http://www.twitter.com/jonataweber"
+    linkedin: "https://www.linkedin.com/in/jonata.weber/"
+    image: "jonata-weber.jpg"
+  - name: "Rodrigo Kono"
+    github: "rodrigokono"
+    twitter: "rodrigokono"
+    facebook: "https://facebook.com/rodrigokono.hub"
+    linkedin: "https://www.linkedin.com/in/rodrigokono"
+    website: "https://about.me/rkono"
+    image: "rodrigo-kono.jpg"
+
+organizer_email: "organizers-goiania-2019@devopsdays.org" # Put your organizer email address here
+#proposal_email: "proposals-goiania-2019@devopsdays.org" # Put your proposal email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: totvs
+    level: platinum
+  - id: senai-go
+    level: silver
+  - id: cocoa-design
+    level: bronze
+  - id: onx-solutions
+    level: bronze
+  - id: devopsgo
+    level: community
+  - id: docker-goiania
+    level: community
+  - id: gdg-goiania
+    level: community
+  - id: override
+    level: community
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: platinum
+    label: Diamante
+    max: 1
+  - id: gold
+    label: Ouro
+#    max: 5
+  - id: silver
+    label: Prata
+  - id: bronze
+    label: Bronze
+#    max: 10
+  - id: community
+    label: Comunidade
+
+program:
+  - title: "Credenciamento & Coffee-Break"
+    type: custom
+    date: 2019-08-03T08:00:00-03:00
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Abertura"
+    type: custom
+    date: 2019-08-03T08:00:00-03:00
+    start_time: "09:00"
+    end_time: "09:15"
+    background_color: "#0082AB"
+  # - title: "Keynote"
+  #   type: talk
+  #   date: 2019-08-03T08:00:00-03:00
+  #   start_time: "09:15"
+  #   end_time: "10:00"
+  - title: "guto-carvalho"
+    type: talk
+    date: 2019-08-03T08:00:00-03:00
+    start_time: "09:15"
+    end_time: "10:00"
+    background_color: "#FF8300"
+  - title: "barbara-cabral"
+    type: talk
+    date: 2019-08-03T08:00:00-03:00
+    start_time: "10:00"
+    end_time: "10:30"
+    background_color: "#99E6FF"
+  - title: "rafael-braga"
+    type: talk
+    date: 2019-08-03T08:00:00-03:00
+    start_time: "10:30"
+    end_time: "11:00"
+    background_color: "#99E6FF"
+  - title: "rafael-barbosa"
+    type: talk
+    date: 2019-08-03T08:00:00-03:00
+    start_time: "11:00"
+    end_time: "11:45"
+    background_color: "#99E6FF"
+  - title: "Almoço"
+    type: custom
+    date: 2019-08-03T08:00:00-03:00
+    start_time: "11:45"
+    end_time: "13:30"
+  - title: "marcelo-paiva"
+    type: talk
+    date: 2019-08-03T08:00:00-03:00
+    start_time: "13:30"
+    end_time: "14:00"
+    background_color: "#99E6FF"
+  - title: "raphael-moura"
+    type: talk
+    date: 2019-08-03T08:00:00-03:00
+    start_time: "14:00"
+    end_time: "14:30"
+    background_color: "#99E6FF"
+  - title: "sidney-cirqueira"
+    type: talk
+    date: 2019-08-03T08:00:00-03:00
+    start_time: "14:30"
+    end_time: "15:00"
+    background_color: "#99E6FF"
+  - title: "alline-oliveira"
+    type: talk
+    date: 2019-08-03T08:00:00-03:00
+    start_time: "15:00"
+    end_time: "15:30"
+    background_color: "#99E6FF"
+  - title: "Coffee-Break"
+    type: custom
+    date: 2019-08-03T08:00:00-03:00
+    start_time: "15:30"
+    end_time: "16:00"
+  - title: "joao-neto"
+    type: talk
+    date: 2019-08-03T08:00:00-03:00
+    start_time: "16:00"
+    end_time: "16:30"
+    background_color: "#99E6FF"
+  - title: "Fishbowl"
+    type: custom
+    date: 2019-08-03T08:00:00-03:00
+    start_time: "16:30"
+    end_time: "17:00"
+    background_color: "#00C342"
+  - title: "Encerramento"
+    type: custom
+    date: 2019-08-03T08:00:00-03:00
+    start_time: "17:00"
+    end_time: "17:30"
+    background_color: "#0082AB"

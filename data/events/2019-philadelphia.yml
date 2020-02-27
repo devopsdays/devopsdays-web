@@ -19,7 +19,11 @@ cfp_date_end:
 cfp_date_announce:
 
 cfp_open: "false"
+<<<<<<< HEAD
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+=======
+cfp_link: "https://www.papercall.io/devopsdaysphilly2019" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+>>>>>>> upstream/master
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: # close registration. Leave blank if registration is not open yet.
@@ -33,11 +37,15 @@ location: "Science History Institute"
 location_address: "315 Chestnut St, Philadelphia, PA 19106"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
+<<<<<<< HEAD
 #  - name: propose
+=======
+#- name: propose
+>>>>>>> upstream/master
   - name: location
-#  - name: registration
-#  - name: program
-#  - name: speakers
+  - name: registration
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -75,12 +83,53 @@ proposal_email: "proposals-philadelphia-2019@devopsdays.org"
 sponsors:
   - id: contrast_security
     level: platinum
+  - id: googlecloud
+    level: platinum
   - id: appdynamics
     level: gold
+<<<<<<< HEAD
   - id: logz
     level: gold
+=======
+  - id: circleci
+    level: gold
+  - id: victorops
+    level: gold
+  - id: dynatrace
+    level: gold
+  - id: netapp
+    level: gold
+  - id: sonatype
+    level: gold
+  - id: xmatters
+    level: gold
+  - id: 2nd-watch
+    level: gold
+  - id: aspe
+    level: gold
+  - id: comcast
+    level: gold
+  - id: overops
+    level: silver
+  - id: instana-before-20200127
+    level: silver
+  - id: signalfx
+    level: silver
+  - id: socketlabs
+    level: silver
+  - id: rancher
+    level: silver
+  - id: vanguard
+    level: silver
+  - id: gitlab
+    level: silver
+  - id: cerner
+    level: silver
+>>>>>>> upstream/master
   - id: arresteddevops
     level: community
+  - id: linode
+    level: lanyard
 
 sponsors_accepted : "yes"
 
@@ -91,9 +140,205 @@ sponsor_levels:
     label: Gold
   - id: silver
     label: Silver
+  - id: lanyard
+    label: Lanyard
   - id: community
     label: Community
 
 program:
+  - title: "Registration, Breakfast, Sponsors Booths Open"
+    type: custom
+    date: 2019-10-22
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2019-10-22
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "jocelyn-harper"
+    type: talk
+    date: 2019-10-22
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-10-22
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "marco-coulter"
+    type: talk
+    date: 2019-10-22
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2019-10-22
+    start_time: "10:25"
+    end_time: "10:40"
+  - title: "jearvon-dharrie"
+    type: talk
+    date: 2019-10-22
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-10-22
+    start_time: "11:10"
+    end_time: "11:20"
+  - title: "jeremy-hayes"
+    type: talk
+    date: 2019-10-22
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Lunch"
+    type: custom
+    date: 2019-10-22
+    start_time: "11:50"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2019-10-22
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "zero-to-hero"
+    type: workshop
+    date: 2019-10-22
+    start_time: "13:30"
+    end_time: "16:00"
+  - title: "tim-gross"
+    type: workshop
+    date: 2019-10-22
+    start_time: "13:30"
+    end_time: "15:30"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2019-10-22
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space #1"
+    type: custom
+    date: 2019-10-22
+    start_time: "14:00"
+    end_time: "14:45"
+  - title: "Open Space #2"
+    type: custom
+    date: 2019-10-22
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "Open Space #3"
+    type: custom
+    date: 2019-10-22
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Close Day"
+    type: custom
+    date: 2019-10-22
+    start_time: "16:45"
+    end_time: "17:00"
+  - title: "Evening event - food, drink, and socializing onsite"
+    type: custom
+    date: 2019-10-22
+    start_time: "17:00"
+    end_time: "19:00"
+
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2019-10-23
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2019-10-23
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "jon-moore"
+    type: talk
+    date: 2019-10-23
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-10-23
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "rosemary-wang"
+    type: talk
+    date: 2019-10-23
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2019-10-23
+    start_time: "10:25"
+    end_time: "10:40"
+  - title: "seth-vargo"
+    type: talk
+    date: 2019-10-23
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-10-23
+    start_time: "11:10"
+    end_time: "11:20"
+  - title: "bridget-kromhout"
+    type: talk
+    date: 2019-10-23
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Lunch"
+    type: custom
+    date: 2019-10-23
+    start_time: "11:50"
+    end_time: "13:00"
+  - title: "arrested-devops"
+    type: talk
+    date: 2019-10-23
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "zero-to-hero"
+    type: workshop
+    date: 2019-10-23
+    start_time: "13:30"
+    end_time: "16:00"
+  - title: "tim-gross"
+    type: workshop
+    date: 2019-10-23
+    start_time: "13:30"
+    end_time: "15:30"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2019-10-23
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space #1"
+    type: custom
+    date: 2019-10-23
+    start_time: "14:00"
+    end_time: "14:45"
+  - title: "Open Space #2"
+    type: custom
+    date: 2019-10-23
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "Open Space #3"
+    type: custom
+    date: 2019-10-23
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Closing"
+    type: custom
+    date: 2019-10-23
+    start_time: "16:45"
+    end_time: "17:00"
 
 ignites:
+  - title: "alan-s-koch"
+    date: 2019-10-22
+  - title: "steve-ross"
+    date: 2019-10-22
+  - title: "quantum-computing"
+    date: 2019-10-22
+  - title: "rachel-sweeney"
+    date: 2019-10-22

@@ -4,6 +4,7 @@ city: "Portland" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdayspdx" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "DevOpsDays is coming to Portland!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+event_group: "Portland, OR"
 
 # All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00
@@ -88,12 +89,10 @@ proposal_email: "" # Put your proposal email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-#  - id: ignw
-#    level: platinum
-#  - id: columbia
-#    level: gold
-#  - id: ignw
-#    level: platinum
+# Platinum
+  - id: puppet
+    level: platinum
+# Gold
   - id: datadog
     level: gold
   - id: sensu
@@ -102,10 +101,60 @@ sponsors:
     level: gold
   - id: cloudbolt
     level: gold
+<<<<<<< HEAD
   - id: influxdata
+=======
+  - id: gitlab
     level: gold
+  - id: rancher-before-20190812
+>>>>>>> upstream/master
+    level: gold
+  - id: xmatters
+    level: gold
+  - id: chef
+    level: gold
+  - id: instana-before-20200127
+    level: gold
+  - id: dynatrace
+    level: gold
+  - id: sonatype
+    level: gold
+  - id: redhat
+    level: gold
+  - id: vmware
+    level: gold
+# Silver
   - id: signalfx
     level: silver
+<<<<<<< HEAD
+=======
+  - id: netapp
+    level: silver
+  - id: hashicorp-and-redapt
+    level: silver
+  - id: ignw
+    level: silver
+  - id: redislabs-before-20200211
+    level: silver
+  - id: invoca
+    level: silver
+  - id: circleci
+    level: silver
+# Bronze
+  - id: manage-engine
+    level: silver
+# Custom
+  - id: googlecloud
+    level: quiet-room
+  - id: netapp
+    level: lanyard
+  - id: vacasa
+    level: on-call-table
+  - id: ignw
+    level: donut
+  - id: puppet
+    level: evening
+>>>>>>> upstream/master
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -116,20 +165,40 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: platinum
     label: Platinum
+    max: 1
   - id: gold
     label: Gold
+    max: 16
   - id: silver
     label: Silver
+    max: 12
   - id: bronze
     label: Bronze
   - id: evening
     label: Evening Event
+    max: 2
   - id: specialty
     label: Specialty
+<<<<<<< HEAD
+=======
+  - id: quiet-room
+    label: Quiet Room
+    max: 1
+  - id: lanyard
+    label: Lanyard
+    max: 1
+  - id: on-call-table
+    label: On-call Table
+    max: 1
+  - id: donut
+    label: Donut
+    max: 1
+>>>>>>> upstream/master
   - id: community
     label: Community
 
 program:
+<<<<<<< HEAD
 #  - title: "Hack day! Bring yourself, some code, and a friend! Light snacks will be provided."
 #    type: custom
 #    date: 2018-09-11
@@ -146,3 +215,228 @@ ignites:
 #    date: 2018-09-12
 #  - title: "maarika-krumhansl"
 #    date: 2018-09-12
+=======
+  - title: "jj-asghar"
+    type: talk
+    date: 2019-09-10
+    start_time: "13:00"
+    end_time: "TBD"
+  - title: "blameless-postmortems"
+    type: talk
+    date: 2019-09-10
+    start_time: "13:00"
+    end_time: "TBD"
+  - title: "stacy-watts"
+    type: talk
+    date: 2019-09-10
+    start_time: "13:00"
+    end_time: "TBD"
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2019-09-11
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2019-09-11
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "gene-kim"
+    type: talk
+    date: 2019-09-11
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-09-11
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "kenzie-woodbridge"
+    type: talk
+    date: 2019-09-11
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2019-09-11
+    start_time: "10:25"
+    end_time: "10:40"
+  - title: "thai-wood"
+    type: talk
+    date: 2019-09-11
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-09-11
+    start_time: "11:10"
+    end_time: "11:20"
+  - title: "andy-fleener"
+    type: talk
+    date: 2019-09-11
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2019-09-11
+    start_time: "11:50"
+    end_time: "12:10"
+  - title: "Lunch"
+    type: custom
+    date: 2019-09-11
+    start_time: "12:10"
+    end_time: "13:30"
+  - title: "Ignites"
+    type: ignite
+    date: 2019-09-11
+    start_time: "13:30"
+    end_time: "14:10"
+  - title: "Open Space #1"
+    type: custom
+    date: 2019-09-11
+    start_time: "14:20"
+    end_time: "14:50"
+  - title: "Open Space #2"
+    type: custom
+    date: 2019-09-11
+    start_time: "14:55"
+    end_time: "15:25"
+  - title: "Open Space #3"
+    type: custom
+    date: 2019-09-11
+    start_time: "15:30"
+    end_time: "16:00"
+  - title: "Break"
+    type: custom
+    date: 2019-09-11
+    start_time: "16:00"
+    end_time: "16:20"
+  - title: "jennifer-davis"
+    type: talk
+    date: 2019-09-11
+    start_time: "16:20"
+    end_time: "16:50"
+  - title: "Close Day"
+    type: custom
+    date: 2019-09-11
+    start_time: "16:50"
+    end_time: "17:00"
+  - title: "Evening event - come party at the Puppet offices, 308 SW 2nd Ave!"
+    type: custom
+    date: 2019-09-11
+    start_time: "18:00"
+    end_time: "late"
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2019-09-12
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2019-09-12
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "courtney-eckhardt"
+    type: talk
+    date: 2019-09-12
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-09-12
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "dave-stanke"
+    type: talk
+    date: 2019-09-12
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2019-09-12
+    start_time: "10:25"
+    end_time: "10:40"
+  - title: "paige-bernier"
+    type: talk
+    date: 2019-09-12
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-09-12
+    start_time: "11:10"
+    end_time: "11:20"
+  - title: "aaron-aldrich"
+    type: talk
+    date: 2019-09-12
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2019-09-12
+    start_time: "11:50"
+    end_time: "12:10"
+  - title: "Lunch"
+    type: custom
+    date: 2019-09-12
+    start_time: "12:10"
+    end_time: "13:30"
+  - title: "Ignites"
+    type: ignite
+    date: 2019-09-12
+    start_time: "13:30"
+    end_time: "14:10"
+  - title: "Open Space #1"
+    type: custom
+    date: 2019-09-12
+    start_time: "14:20"
+    end_time: "14:50"
+  - title: "Open Space #2"
+    type: custom
+    date: 2019-09-12
+    start_time: "14:55"
+    end_time: "15:25"
+  - title: "Open Space #3"
+    type: custom
+    date: 2019-09-12
+    start_time: "15:30"
+    end_time: "16:00"
+  - title: "Break"
+    type: custom
+    date: 2019-09-12
+    start_time: "16:00"
+    end_time: "16:20"
+  - title: "deepak-giridharagopal"
+    type: talk
+    date: 2019-09-12
+    start_time: "16:20"
+    end_time: "16:50"
+  - title: "Closing"
+    type: custom
+    date: 2019-09-12
+    start_time: "16:50"
+    end_time: "17:00"
+
+ignites:
+#  - title: "allie-richards"
+#    date: 2019-09-11
+  - title: "matty-stratton"
+    date: 2019-09-11
+  - title: "ashina-sipiora"
+    date: 2019-09-11
+  - title: "aaron-aldrich-ignite"
+    date: 2019-09-11
+  - title: "terri-haber"
+    date: 2019-09-11
+
+  - title: "dawn-parzych"
+    date: 2019-09-12
+  - title: "josh-berkus"
+    date: 2019-09-12
+  - title: "matt-busche"
+    date: 2019-09-12
+  - title: "jay-gordon"
+    date: 2019-09-12
+  - title: "laura-janusek"
+    date: 2019-09-12
+>>>>>>> upstream/master

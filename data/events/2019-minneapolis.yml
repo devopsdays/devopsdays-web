@@ -36,10 +36,17 @@ location_address: "1001 Marquette Avenue South, Minneapolis, Minnesota, 55403-24
 nav_elements: # List of pages you want to show up in the navigation of your page.
 #  - name: propose
   - name: location
+<<<<<<< HEAD
   - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
+=======
+#  - name: registration
+  - name: program
+  - name: speakers
+#  - name: sponsor
+>>>>>>> upstream/master
   - name: contact
   - name: conduct
 # - name: example
@@ -87,7 +94,7 @@ team_members:
   - name: "Bridget Kromhout"
     employer: "Microsoft"
     twitter: "bridgetkromhout"
-    bio: "Bridget Kromhout is a Principal Cloud Developer Advocate at Microsoft. Her CS degree emphasis was in theory, but she now deals with the concrete (if 'cloud' can be considered tangible). After 15 years as an operations engineer, she traded being on call for being on a plane. A frequent speaker and program committee member for tech conferences, she leads the devopsdays organization globally and the devops community at home in Minneapolis. She podcasts with Arrested DevOps, blogs at bridgetkromhout.com, and is active in a Twitterverse near you."
+    bio: "Bridget Kromhout is a Principal Program Manager at Microsoft, focusing on the open source Kubernetes ecosystem. Her CS degree emphasis was in theory, but she now deals with the concrete (if 'cloud' can be considered tangible). After 15 years as an operations engineer, she traded being on call for being on a plane. A frequent speaker and program committee member for tech conferences, she leads the devopsdays organization globally and the devops community at home in Minneapolis. She podcasts with Arrested DevOps, blogs at bridgetkromhout.com, and is active in a Twitterverse near you."
     image: "bridget-kromhout.jpg"
   - name: "Andy Fleener"
     employer: "SportsEngine"
@@ -100,8 +107,7 @@ team_members:
     bio: "Andy has been in Technology Operations leadership at SPS Commerce since 2005 and currently leads their System Operations, Reliability Engineering, and Continuous Improvement teams. SPS grows aggressively, creating a zany yet fun environment of persistent growth challenges. Andy spends many mental cycles collaborating to solve effective patterns for monitoring and operating complex changing systems."
     image: "andy-domeier.jpg"
 
-organizer_email: "organizers-minneapolis-2019@devopsdays.org" # Put your organizer email address here
-proposal_email: "proposals-minneapolis-2019@devopsdays.org" # Put your proposal email address here
+organizer_email: "minneapolis@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
@@ -124,7 +130,7 @@ sponsors:
     level: community
   - id: softwaredefinedtalk
     level: community
-  - id: instana
+  - id: instana-before-20200127
     level: silver
   - id: minnestar
     level: community
@@ -142,7 +148,7 @@ sponsors:
     level: platinum
   - id: ahead
     level: platinum
-  - id: sysdig
+  - id: sysdig-before-20200210
     level: silver
   - id: sps_commerce
     level: platinum
@@ -154,9 +160,9 @@ sponsors:
     level: gold
   - id: pivotal
     level: gold
-  - id: pagerduty
+  - id: pagerduty-before-20190930
     level: gold
-  - id: rancher
+  - id: rancher-before-20190812
     level: silver
   - id: dynatrace
     level: platinum
@@ -164,18 +170,63 @@ sponsors:
     level: community
   - id: countryfinancial
     level: alacarte
-  - id: nutanix
+  - id: nutanix-before-20200127
     level: gold
   - id: oraclecloud
     level: silver
   - id: keyva
     level: silver
+<<<<<<< HEAD
+=======
+  - id: gitlab
+    level: gold
+  - id: mesosphere
+    level: gold
+  - id: merrill
+    level: gold
+  - id: victorops
+    level: gold
+  - id: netapp
+    level: silver
+  - id: netapp
+    level: alacarte
+  - id: talend
+    level: silver
+  - id: codefresh
+    level: gold
+>>>>>>> upstream/master
   - id: googlecloud
     level: gold
   - id: googlecloud
     level: alacarte
   - id: logzio
     level: gold
+  - id: sumologic
+    level: gold
+  - id: pepperdata
+    level: gold
+  - id: logdna
+    level: silver
+  - id: jumpcloud
+    level: gold
+  - id: chef
+    level: gold
+  - id: mnclude
+    level: community
+  - id: newrelic
+    level: gold
+  - id: newrelic
+    level: alacarte
+  - id: atomist
+    level: silver
+  - id: wwcodetc
+    level: community
+  - id: microsoftazure
+    level: gold
+  - id: blacksintechnology
+    level: community
+  - id: oreilly
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

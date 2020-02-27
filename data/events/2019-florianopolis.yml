@@ -4,7 +4,6 @@ city: "Florianópolis"
 event_twitter: "devopsdaysfln"
 description: "A revolução já começou!"
 ga_tracking_id: ""
-event_group: "Florianópolis"
 
 # All dates are in unquoted 2019-MM-DD, like this:   variable: 2016-01-05
 startdate: 2019-07-27
@@ -152,4 +151,101 @@ sponsor_levels:
   - id: support
     label: Support
 program:
+<<<<<<< HEAD
   
+=======
+  - title: "Recepção / Cadastramento dos participantes"
+    type: custom
+    date: 2019-07-27
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Abertura do evento e boas-vindas"
+    type: custom
+    date: 2019-07-27
+    start_time: "09:00"
+    end_time: "09:20"
+  - title: "alexandre-cisneiros-diego-beato"
+    type: talk
+    date: 2019-07-27
+    start_time: "09:20"
+    end_time: "09:55"
+    background_color: "#cc99ff"
+  - title: "Coffee break matutino"
+    type: custom
+    date: 2019-07-27
+    start_time: "9:55"
+    end_time: "10:30"
+  - title: "diogo-giassi-marcelo-aymone"
+    type: talk
+    date: 2019-07-27
+    start_time: "10:30"
+    end_time: "11:05"
+  - title: "fernando-barbosa"
+    type: talk
+    date: 2019-07-27
+    start_time: "11:05"
+    end_time: "11:40"
+  - title: "thaissa-falbo"
+    type: talk
+    date: 2019-07-27
+    start_time: "11:40"
+    end_time: "12:05"
+  - title: "Almoço"
+    type: custom
+    date: 2019-07-27
+    start_time: "12:15"
+    end_time: "13:35"
+  - title: "Retorno almoço / Reabertura do evento"
+    type: custom
+    date: 2019-07-27
+    start_time: "13:35"
+    end_time: "13:40"
+  - title: "rodolpho-eckhardt"
+    type: talk
+    date: 2019-07-27
+    start_time: "13:40"
+    end_time: "14:30"
+    background_color: "#cc99ff"
+  - title: "rafael-barbosa"
+    type: talk
+    date: 2019-07-27
+    start_time: "14:30"
+    end_time: "15:05"
+  - title: "Coffee break vespertino"
+    type: custom
+    date: 2019-07-27
+    start_time: "15:05"
+    end_time: "15:40"
+  - title: "Open spaces"
+    type: open-space
+    date: 2019-07-27
+    start_time: "15:40"
+    end_time: "16:30"
+    backgroud_color: "#ffb566"
+  - title: "tatiane-paya"
+    type: talk
+    date: 2019-07-27
+    start_time: "16:30"
+    end_time: "17:05"
+  - title: "yago-nobre"
+    type: talk
+    date: 2019-07-27
+    start_time: "17:05"
+    end_time: "17:40"
+  - title: "rafael-gomes-igor-souza"
+    type: talk
+    date: 2019-07-27
+    start_time: "17:40"
+    end_time: "18:15"
+  - title: "Sorteio de Brindes"
+    type: custom
+    date: 2019-07-27
+    start_time: "18:20"
+    end_time: "18:30"
+  - title: "Encerramento / Happy Hour"
+    type: custom
+    date: 2019-07-27
+    start_time: "18:30"
+    comments: "Location: Restaurante Barió - Sapiens Park"
+  
+>>>>>>> upstream/master

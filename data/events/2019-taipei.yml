@@ -14,12 +14,12 @@ startdate:  2019-10-16T14:00:00+08:00
 enddate: 2019-10-18T18:00:00+08:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2019-06-04T00:00:00+08:00 # start accepting talk proposals.
+cfp_date_end: 2019-08-03T00:00:00+08:00 # close your call for proposals.
+cfp_date_announce: 2019-08-19T00:00:00+08:00 # inform proposers of status
 
-cfp_open: "false"
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_open: "true"
+cfp_link: "https://docs.google.com/forms/d/e/1FAIpQLSfWpGX1Bu17gyfaxtqllFKPmwgzzenC6vQ_BwQTXuNGVYeclQ/viewform" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: # close registration. Leave blank if registration is not open yet.
@@ -29,13 +29,13 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 # Location
 #
-coordinates: "25.041082, 121.521024" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "NTUH International Convention Center" # Defaults to city, but you can make it the venue name.
+coordinates: "25.044744, 121.561431" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Taipei New Horizon" # Defaults to city, but you can make it the venue name.
 #
-location_address: "No. 2, Xuzhou Road, Zhongzheng District 100, Taipei City" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "6F., No. 88, Yanchang Rd., Xinyi Dist., Taipei City 110, Taiwan (R.O.C.)" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
  # - name: location
  # - name: registration
  # - name: program
@@ -77,8 +77,89 @@ sponsors:
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   
  #- id: arresteddevops
  #    level: community
+  - id: aws
+    level: diamond
+    url: https://devopsdays.tw/job.html#s6744    
+  - id: cathayholdings
+    level: diamond
+    url: https://devopsdays.tw/job.html#s6952    
+  - id: microsoft
+    level: diamond
+    url: https://devopsdays.tw/job.html#s6797    
+  - id: trendmicro
+    level: diamond
+    url: https://devopsdays.tw/job.html#s6946    
+  - id: netapp
+    level: platinum
+    url: https://devopsdays.tw/job.html#s6606    
+  - id: titansoft
+    level: platinum
+    url: https://devopsdays.tw/job.html#s6763    
+  - id: 104corporation
+    level: gold
+    url: https://devopsdays.tw/job.html#s6667    
+  - id: 91app
+    level: gold
+    url: https://devopsdays.tw/job.html#s6555
+  - id: esun-commercial-bank
+    level: gold
+    url: https://devopsdays.tw/job.html#s6962   
+  - id: f5
+    level: gold
+    url: https://devopsdays.tw/job.html#s6949    
+  - id: gitlab
+    level: gold
+    url: https://devopsdays.tw/job.html#s6810    
+  - id: 17media
+    level: gold
+    url: https://devopsdays.tw/job.html#s6951    
+  - id: moxa-inc
+    level: gold
+    url: https://devopsdays.tw/job.html#s6961
+  - id: nutanix-before-20200127
+    level: gold
+    url: https://devopsdays.tw/job.html#s6711    
+  - id: tcghl
+    level: gold
+    url: https://devopsdays.tw/job.html#s6947    
+  - id: chungyo
+    level: patrons
+    url: https://devopsdays.tw/job.html#s6764    
+  - id: ctbc-bank
+    level: patrons
+    url: https://devopsdays.tw/job.html#s6968    
+  - id: kkbox
+    level: patrons
+    url: https://devopsdays.tw/job.html#s6959    
+  - id: kkstream
+    level: patrons
+    url: https://devopsdays.tw/job.html#s6960    
+  - id: simbo
+    level: patrons
+    url: https://devopsdays.tw/job.html#s6950     
+  - id: devopstimes
+    level: communitys
+    url: https://devopsdays.tw/job.html#s6794    
+  - id: chinadevopsdays 
+    level: communitys
+    url: https://devopsdays.tw/job.html#s6793    
+  - id: devopsdaystokyo
+    level: communitys
+    url: https://devopsdays.tw/job.html#s6669    
+  - id: hackmd
+    level: communitys
+    url: https://devopsdays.tw/job.html#s6345    
+  - id: opensourcehk
+    level: communitys
+    url: https://devopsdays.tw/job.html#s6948    
+  - id: revdebug
+    level: communitys
+    url: https://devopsdays.tw/job.html#s6457    
+  - id: tenlong
+    level: communitys
+    url: https://devopsdays.tw/job.html#s6346    
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "No" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -86,12 +167,14 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
   - id: diamond
-    label: Diamond
+    label: DIAMOND
+  - id: platinum 
+    label: PLATINUM
   - id: gold
-    label: Gold
+    label: GOLD
 #    max: 10
-  - id: silver
-    label: Silver
+  - id: patrons
+    label: PATRON
     #max: 0 # This is the same as omitting the max limit.
-  - id: bronze
-    label: Bronze
+  - id: communitys
+    label: COMMUNITY

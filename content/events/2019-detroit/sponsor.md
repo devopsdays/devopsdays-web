@@ -23,6 +23,19 @@ People in all stages of their career will be present from university students, t
 Being a sponsor of this conference is of mutual benefit to sponsor and attendee. Not only are attendees able to enjoy the
 variety of products and services offered by sponsors, but sponsors also get the opportunity to interact with their audience in
 a friendly environment. devopsdays Detroit 2018 attracted over 300 attendees, a 20% increase from the previous year. 
+<h3>Community Sponsorships</h3>
+<p>
+We are excited to offer community sponsorships. This is not a paid sponsorship.
+Instead, this sponsorship is extended to conference, media and meetups in the Southeastern 
+Michigan area who wish to exchange a spot on our banner for a spot on
+their own. Building community in the area is a worthwhile goal and we're all in
+this together! Community sponsors must be:</p>
+<ul>
+<li> Part of the mission to help promote technology and/or technology education in Southeastern Michigan.</li>
+<li> Willing to help promote, in kind, devops days detroit. </li>
+<li> Willing to adhere to our code of conduct</li>
+</ul>
+<p>We reserve the right to limit the number of community sponsorships.</p>
 <h3>Contact</h3>
 General inquiries and sponorships:  [{{< email_organizers >}}]
 <hr>

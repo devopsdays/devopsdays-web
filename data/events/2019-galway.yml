@@ -10,19 +10,19 @@ startdate:  # The start date of your event. Leave blank if you don't have a venu
 enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: "2019-07-01T04:00:00+01:00" # start accepting talk proposals.
+cfp_date_end: "2019-09-01T23:59:59+01:00" # close your call for proposals.
+cfp_date_announce: "2019-09-13T23:59:59+01:00" # inform proposers of status
 
-cfp_open: "false"
+cfp_open: "true"
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: "2019-06-27" # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: "2019-11-16" # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
-
+sharing_image: "sharing.jpg"
 # Location
 #
 coordinates: "53.274193,-9.043818" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
@@ -31,11 +31,19 @@ location: "Galway" # Defaults to city, but you can make it the venue name.
 location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
+<<<<<<< HEAD
  # - name: propose
  # - name: location
  # - name: registration
  # - name: program
  # - name: speakers
+=======
+  - name: propose
+  - name: location
+  - name: registration
+  - name: program
+  - name: speakers
+>>>>>>> upstream/master
   - name: sponsor
   - name: contact
   - name: conduct
@@ -92,16 +100,17 @@ team_members: # Name is the only required field for team members.
       a keyboard and looking at an LCD screen. When not in front of a computer
       you can find him cycling, swimming or walking around.
   - name: "Coleman Corrigan"
-    employer: "OpenJaw"
+    employer: "Supplychainformulae"
     twitter: "ColemanCorrigan"
     linkedin: "https://www.linkedin.com/in/coleman-corrigan-869a62"
     image: "coleman-corrigan.jpg"
     bio: |
-      Coleman is a Cloud Systems Architect for Openjaw Technologies. He is a long
+      Coleman is a Cloud Systems Architect for Supplychainformulae. He is a long
       time advocate for open source and an engineer at heart, who spends his days
       migrating customer environments onto AWS.
   - name: "Alan Duggan"
     employer: "HPE"
+    linkedin: "https://www.linkedin.com/in/alan-duggan-41581b30"
     image: "alan-duggan.jpg"
     bio: |
       Alan is a Multidimensional Engineer working for HPE. Working with people,
@@ -136,12 +145,15 @@ team_members: # Name is the only required field for team members.
       and volunteering. He fills every breath of spare time with learning the Celtic
       harp, diligently studying Irish, being an apprentice potter, knitting, and
       tinkering with his 1959 Austin Mini among many other activities.
+<<<<<<< HEAD
   - name: "Steve McConville"
     employer: "Genesys"
   - name: "Joseph Keenan"
     employer: "Cisco"
   - name: "Duncan Thomas"
     employer: "Groupon"
+=======
+>>>>>>> upstream/master
 
 organizer_email: "organizers-galway-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-galway-2019@devopsdays.org" # Put your proposal email address here
@@ -152,6 +164,53 @@ sponsors:
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
  # - id: arresteddevops
  #   level: community
+  - id: ibm
+    level: gold
+  - id: genesys
+    level: gold
+  - id: hpe
+    level: gold
+  - id: googlecloud
+    level: gold
+  - id: suse
+    level: gold
+  - id: redhat
+    level: gold
+  - id: avaya
+    level: silver
+  - id: aspect
+    level: silver
+  - id: galway-technology-centre
+    level: silver
+  - id: guruteam
+    level: bronze
+  - id: itag-skillnet
+    level: bronze
+  - id: cisco
+    level: bronze
+  - id: microsoftazure
+    level: bronze
+  - id: compustaff
+    level: support
+  - id: stickermule
+    level: support
+    url: http://stickermule.com/supports/devopsdaygalway19-sponsorship
+  - id: coding-grace
+    level: community
+  - id: wwcodebelfast
+    level: community
+  - id: devops-galway
+    level: community
+  - id: gdg-galway
+    level: community
+  - id: docker-dublin
+    level: community
+  - id: inog
+    level: community
+  - id: wwcodedublin
+    level: community
+  - id: pyladies-dublin
+    level: community
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
@@ -168,5 +227,219 @@ sponsor_levels:
     max: 0 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
+  - id: support
+    label: Support
   - id: community
     label: Community
+
+program:
+  # Day one
+  - title: "Registration, Breakfast, and Sponsor Booths Open"
+    type: custom
+    date: 2019-11-18
+    start_time: "08:30"
+    end_time: "09:30"
+  - title: "Opening of the Conference"
+    type: custom
+    date: 2019-11-18
+    start_time: "09:30"
+    end_time: "10:00"
+  - title: "danese-cooper"
+    type: talk
+    date: 2019-11-18
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "pierre-vincent"
+    type: talk
+    date: 2019-11-18
+    start_time: "10:35"
+    end_time: "11:05"
+
+  - title: "Break"
+    type: custom
+    date: 2019-11-18
+    start_time: "11:05"
+    end_time: "11:20"
+
+  - title: "giulio-vian"
+    type: talk
+    date: 2019-11-18
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "sponsors"
+    type: custom
+    date: 2019-11-18
+    start_time:  "11:55"
+    end_time: "12:05"
+  - title: "riona-macnamara"
+    type: talk
+    date: 2019-11-18
+    start_time: "12:10"
+    end_time: "12:40"
+
+  - title: "Lunch"
+    type: custom
+    date: 2019-11-18
+    start_time: "12:40"
+    end_time: "13:50"
+
+  - title: "how-chaos-monkey-went-from-feared-foe-to-trusted-friend"
+    type: talk
+    date: 2019-11-18
+    start_time: "13:50"
+    end_time: "14:20"
+  - title: "Ignites"
+    type: ignite
+    date: 2019-11-18
+    start_time: "14:25"
+    end_time: "14:45"
+  - title: "Openspace Opening and Voting"
+    type: open-space
+    date: 2019-11-18
+    start_time: "14:50"
+    end_time: "15:30"
+
+  - title: "Break"
+    type: custom
+    date: 2019-11-18
+    start_time: "15:30"
+    end_time: "16:00"
+
+  - title: "Openspace 1"
+    type: open-space
+    date: 2019-11-18
+    start_time: "16:00"
+    end_time: "16:30"
+  - title: "Openspace 2"
+    type: open-space
+    date: 2019-11-18
+    start_time: "16:35"
+    end_time: "17:05"
+  - title: "Openspace 3"
+    type: open-space
+    date: 2019-11-18
+    start_time: "17:10"
+    end_time: "17:40"
+
+  - title: "Close Day & Announcements"
+    type: custom
+    date: 2019-11-18
+    start_time: "17:45"
+    end_time: "18:00"
+
+  - title: "Evening Event - Networking ChillOps @ TBC"
+    type: custom
+    date: 2019-11-18
+    start_time: "18:00"
+
+  # Day two
+  - title: "Registration, Breakfast, and Sponsor Booths Open"
+    type: custom
+    date: 2019-11-19
+    start_time: "09:00"
+    end_time: "09:45"
+  - title: "Day 2 - Opening Welcome"
+    type: custom
+    date: 2019-11-19
+    start_time: "09:45"
+    end_time: "10:00"
+  - title: "nathen-harvey"
+    type: talk
+    date: 2019-11-19
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "katrina-novakovic"
+    type: talk
+    date: 2019-11-19
+    start_time: "10:35"
+    end_time: "11:05"
+
+  - title: "Break"
+    type: custom
+    date: 2019-11-19
+    start_time: "11:05"
+    end_time: "11:20"
+
+  - title: "jorge-dionisio"
+    type: talk
+    date: 2019-11-19
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "sponsors"
+    type: custom
+    date: 2019-11-19
+    start_time:  "11:55"
+    end_time: "12:05"
+  - title: "philip-otoole"
+    type: talk
+    date: 2019-11-19
+    start_time: "12:10"
+    end_time: "12:40"
+
+  - title: "Lunch"
+    type: custom
+    date: 2019-11-19
+    start_time: "12:40"
+    end_time: "13:50"
+
+  - title: "michele-pegoraro"
+    type: talk
+    date: 2019-11-19
+    start_time: "13:50"
+    end_time: "14:20"
+  - title: "Ignites"
+    type: ignite
+    date: 2019-11-19
+    start_time: "14:25"
+    end_time: "14:45"
+  - title: "Openspace Opening and Voting"
+    type: open-space
+    date: 2019-11-19
+    start_time: "14:50"
+    end_time: "15:30"
+
+  - title: "Break"
+    type: custom
+    date: 2019-11-19
+    start_time: "15:30"
+    end_time: "16:00"
+
+  - title: "Openspace 1"
+    type: open-space
+    date: 2019-11-19
+    start_time: "16:00"
+    end_time: "16:30"
+  - title: "Openspace 2"
+    type: open-space
+    date: 2019-11-19
+    start_time: "16:35"
+    end_time: "17:05"
+  - title: "Openspace 3"
+    type: open-space
+    date: 2019-11-19
+    start_time: "17:10"
+    end_time: "17:40"
+
+  - title: "Closing Day and Farewell"
+    type: custom
+    date: 2019-11-19
+    start_time: "17:45"
+    end_time: "18:00"
+
+ignites:
+  - title: "james-hunter"
+    date: 2019-11-18
+  - title: "brendan-o-reilly"
+    date: 2019-11-18
+  - title: "emanuil-tolev"
+    date: 2019-11-18
+  - title: "eoin-nugent"
+    date: 2019-11-18
+  - title: "alan-burke"
+    date: 2019-11-19
+  - title: "eimhear-obrien"
+    date: 2019-11-19
+  - title: "frank-farrell"
+    date: 2019-11-19
+  - title: "bryan-solan"
+    date: 2019-11-19

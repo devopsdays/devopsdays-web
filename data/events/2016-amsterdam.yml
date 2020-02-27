@@ -82,7 +82,7 @@ sponsors:
   - id: redhat
     level: beer
   # Community
-  - id: oreilly
+  - id: oreilly-before-20190725
     level: community
   # Pre-event Sponsor (a Harm special)
   - id: microsoft

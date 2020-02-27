@@ -84,7 +84,7 @@ sponsors:
     level: gold
   - id: 2018-contino
     level: gold
-  - id: instana
+  - id: instana-before-20200127
     level: gold
     # Silver
   - id: accenture
@@ -105,7 +105,7 @@ sponsors:
     level: silver
   - id: gov-digital
     level: silver
-  - id: logz
+  - id: logz-before-20200211
     level: silver
   - id: opsview
     level: silver
@@ -120,12 +120,12 @@ sponsors:
     # Bronze
   - id: altostack
     level: bronze
-  - id: skybettingandgaming
+  - id: skybettingandgaming-before-20190830
     level: bronze
   - id: yelp
     level: bronze
     # Community
-  - id: leeds-devops
+  - id: leeds-devops-before-20190830
     level: community
   - id: manc-devops
     level: community

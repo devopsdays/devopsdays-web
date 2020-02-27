@@ -144,9 +144,9 @@ sponsors:
     level: gold
   - id:  c6bank 
     level: gold
-  - id: instana
+  - id: instana-before-20200127
     level: gold
-  - id: rancher
+  - id: rancher-before-20190812
     level: gold
   - id: globalweb
     level: gold
@@ -163,7 +163,7 @@ sponsors:
     level: community
   - id: vbrownbagbrasil
     level: community
-  - id: estabilis
+  - id: estabilis-before-20190722
     level: community
     url: https://www.estabil.is/?utm_source=devopsdaysp&utm_medium=sitedevopsday&utm_campaign=devopsdaysp
   - id: test-girls

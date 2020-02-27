@@ -86,7 +86,7 @@ sponsors:
     level: platinum
   - id: cloudzero
     level: gold
-  - id: pagerduty
+  - id: pagerduty-before-20190930
     level: gold
     url: https://www.pagerduty.com/?utm_medium=event&utm_source=devopsdays&utm_campaign=atl-sponsorship # Use this if you need to over-ride a sponsor URL.
   - id: appdynamics
@@ -121,11 +121,11 @@ sponsors:
     level: gold
   - id: newrelic
     level: gold
-  - id: rancher
+  - id: rancher-before-20190812
     level: gold
   - id: diamanti
     level: gold
-  - id: sysdig
+  - id: sysdig-before-20200210
     level: gold
   - id: victorops
     level: gold

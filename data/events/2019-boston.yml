@@ -4,7 +4,7 @@ city: "Boston" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysbos" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "Devopsdays is coming to Boston!" # Edit this to suit your preferences
 ga_tracking_id: "UA-137417319-1" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
- 
+
 # All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00
 #   variable: 2019-01-05T23:59:59+02:00
@@ -15,7 +15,7 @@ enddate: 2019-09-24T23:59:59-04:00 # The end date of your event. Leave blank if 
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2019-04-02T00:00:00-04:00 # start accepting talk proposals.
-cfp_date_end: 2019-06-22T23:59:59-04:00 # close your call for proposals.
+cfp_date_end: 2019-06-16T23:59:59-04:00 # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
 
 cfp_link: "https://www.papercall.io/devopsdays-boston-2019" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
@@ -37,12 +37,12 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   # - name: propose
   - name: location
   - name: registration
-  # - name: program
-  # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
- 
+
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
 
@@ -55,7 +55,7 @@ team_members: # Name is the only required field for team members.
     bio: "Michael is a veteran systems management professional. He has worked across multiple industry verticals as a software trainer, a front-line technician, a back-office engineer, an enterprise architect, and a manager of large-scale, global computing environments. His passions encompass envisioning, designing, building, and improving business and organizational systems of all varieties and at every scale. He is particularly passionate about helping systems professionals develop better ways to work together, improve the products they deliver, and most importantly, the culture of the workplaces in which we all labor."
     image: "michaelclark.jpg"
     employer: "Renaissance Tech & Media"
-  
+
   - name: "Laura Stone"
     bio: "Hi, I'm Laura. I believe that done is better than perfect, that iteration, simplicity, and customer feedback are keys to success, and that community-driven efforts lead to powerful change. When I'm not working (Senior Site Reliability Engineer at Klaviyo) or organizing the PyLadies Boston and Boston Devops meetups, I enjoy a nice cup of tea and board games with friends."
     twitter: "tyrostone"
@@ -92,11 +92,97 @@ proposal_email: "proposals-boston-2019@devopsdays.org" # Put your proposal email
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+<<<<<<< HEAD
  # - id: samplesponsorname
  #   level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
+=======
+  - id: f5
+    level: platinum
+  - id: f5
+    level: alacarte
+  - id: irobot
+    level: platinum
+  - id: victorops
+    level: platinum
+  - id: influxdata
+    level: platinum
+  - id: klaviyo
+    level: platinum
+ #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: pegasystems
+    level: gold
+  - id: rancher-before-20190812
+    level: gold
+  - id: arresteddevops
+    level: community
+  - id: googlecloud
+    level: platinum
+  - id: appdynamics
+    level: platinum
+  - id: cloudbees
+    level: platinum
+  - id: logzio
+    level: gold
+  - id: circleci
+    level: platinum
+  - id: verizon
+    level: platinum
+  - id: logdna
+    level: gold
+  - id: signalfx
+    level: gold
+  - id: overops
+    level: gold
+  - id: jumpcloud
+    level: platinum
+  - id: netapp
+    level: gold
+  - id: chaossearch-before-20200120
+    level: platinum
+  - id: chef
+    level: platinum
+  - id: slalom-build
+    level: platinum
+  - id: facebook
+    level: platinum
+  - id: atomiccoffeeroasters
+    level: alacarte
+  - id: cyberark
+    level: platinum
+  - id: threatstack
+    level: gold
+  - id: sweagle
+    level: startup
+  - id: instana-before-20200127
+    level: gold
+  - id: athenahealth
+    level: gold
+  - id: oracle
+    level: alacarte
+  - id: stackrox
+    level: gold
+  - id: klaviyo
+    level: alacarte
+  - id: dtonomy
+    level: startup
+  - id: cryptomove
+    level: startup
+  - id: smartronix
+    level: gold
+  - id: toast
+    level: gold
+  - id: scalyr
+    level: gold
+  - id: atlassian
+    level: gold
+  - id: resilientcoders
+    level: academic
+  - id: vmware
+    level: gold
+>>>>>>> upstream/master
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -113,3 +199,227 @@ sponsor_levels:
     max: 0 # This is the same as omitting the max limit.
   - id: community
     label: Community
+  - id: alacarte
+    label: a la carte (badges, lanyards, coffee, evening event)
+  - id: startup
+    label: start-up alley
+  - id: academic
+    label: Academic
+
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2019-09-23
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Introduction"
+    type: custom
+    date: 2019-09-23
+    start_time: "09:00"
+    end_time: "09:30"
+  - title: "arthur-maltson"
+    type: talk
+    date: 2019-09-23
+    start_time: "09:30"
+    end_time: "10:00"
+  - title: "Open Spaces"
+    type: open-space
+    date: 2019-09-23
+    start_time: "10:00"
+    end_time: "17:00"
+  - title: "dan-zentgraf"
+    type: talk
+    date: 2019-09-23
+    start_time: "10:05"
+    end_time: "10:35"
+  - title: "serhat-can"
+    type: talk
+    date: 2019-09-23
+    start_time: "10:05"
+    end_time: "10:35"
+  - title: "Break"
+    type: custom
+    date: 2019-09-23
+    start_time: "10:35"
+    end_time: "10:50"
+  - title: "tobias-macey"
+    type: talk
+    date: 2019-09-23
+    start_time: "10:50"
+    end_time: "11:20"
+  - title: "andrew-kirkpatrick"
+    type: talk
+    date: 2019-09-23
+    start_time: "10:50"
+    end_time: "11:20"
+  - title: "suzan-mahboob"
+    type: talk
+    date: 2019-09-23
+    start_time: "11:25"
+    end_time: "11:55"
+  - title: "jonathan-maltz"
+    type: talk
+    date: 2019-09-23
+    start_time: "11:25"
+    end_time: "11:55"
+  - title: "Lunch"
+    type: custom
+    date: 2019-09-23
+    start_time: "11:55"
+    end_time: "13:00"
+  - title: "jan-kleinert"
+    type: talk
+    date: 2019-09-23
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "ben-kehoe"
+    type: talk
+    date: 2019-09-23
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Community Lightning Talks"
+    type: custom
+    date: 2019-09-23
+    start_time: "13:35"
+    end_time: "14:05"
+  - title: "john-esser"
+    type: talk
+    date: 2019-09-23
+    start_time: "13:35"
+    end_time: "14:05"
+  - title: "dave-fredricks"
+    type: talk
+    date: 2019-09-23
+    start_time: "14:10"
+    end_time: "14:40"
+  - title: "michael-miles"
+    type: talk
+    date: 2019-09-23
+    start_time: "14:10"
+    end_time: "14:40"
+  - title: "Break"
+    type: custom
+    date: 2019-09-23
+    start_time: "14:40"
+    end_time: "14:55"
+  - title: "anand-tiwari"
+    type: workshop
+    date: 2019-09-23
+    start_time: "15:30"
+    end_time: "17:00"
+  - title: "Day One Wrap Up"
+    type: custom
+    date: 2019-09-23
+    start_time: "17:00"
+    end_time: "17:15"
+  - title: "Special Evening Event, Banyon Bar + Refuge, 553 Tremont St (just a few doors west of the Cyclorama)"
+    type: custom
+    date: 2019-09-23
+    start_time: "17:30"
+    end_time: "21:00"
+
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2019-09-24
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Introduction"
+    type: custom
+    date: 2019-09-24
+    start_time: "09:00"
+    end_time: "09:30"
+  - title: "taylor-joann"
+    type: talk
+    date: 2019-09-24
+    start_time: "09:30"
+    end_time: "10:00"
+  - title: "Open Spaces"
+    type: open-space
+    date: 2019-09-24
+    start_time: "10:00"
+    end_time: "17:00"
+  - title: "james-meickle"
+    type: talk
+    date: 2019-09-24
+    start_time: "10:05"
+    end_time: "10:35"
+  - title: "ian-crosby"
+    type: talk
+    date: 2019-09-24
+    start_time: "10:05"
+    end_time: "10:35"
+  - title: "Break"
+    type: custom
+    date: 2019-09-24
+    start_time: "10:35"
+    end_time: "10:50"
+  - title: "angel-rivera"
+    type: talk
+    date: 2019-09-24
+    start_time: "10:50"
+    end_time: "11:20"
+  - title: "doran-smestad"
+    type: talk
+    date: 2019-09-24
+    start_time: "10:50"
+    end_time: "11:20"
+  - title: "joel-tosi"
+    type: talk
+    date: 2019-09-24
+    start_time: "11:25"
+    end_time: "11:55"
+  - title: "thomas-haver"
+    type: talk
+    date: 2019-09-24
+    start_time: "11:25"
+    end_time: "11:55"
+  - title: "Lunch"
+    type: custom
+    date: 2019-09-24
+    start_time: "11:55"
+    end_time: "13:00"
+  - title: "quintessence-anx"
+    type: talk
+    date: 2019-09-24
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "dave-mcallister"
+    type: talk
+    date: 2019-09-24
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "jeremy-hayes"
+    type: talk
+    date: 2019-09-24
+    start_time: "13:35"
+    end_time: "14:05"
+  - title: "jesse-butler"
+    type: talk
+    date: 2019-09-24
+    start_time: "13:35"
+    end_time: "14:05"
+  - title: "joseph-marhee"
+    type: talk
+    date: 2019-09-24
+    start_time: "14:10"
+    end_time: "14:40"
+  - title: "dave-stanke"
+    type: talk
+    date: 2019-09-24
+    start_time: "14:10"
+    end_time: "14:40"
+  - title: "Break"
+    type: custom
+    date: 2019-09-24
+    start_time: "14:40"
+    end_time: "14:55"
+  - title: "richard-boyd"
+    type: workshop
+    date: 2019-09-24
+    start_time: "15:30"
+    end_time: "17:00"
+  - title: "Day Two Wrap Up"
+    type: custom
+    date: 2019-09-24
+    start_time: "17:00"
+    end_time: "17:15"

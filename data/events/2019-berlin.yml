@@ -19,7 +19,7 @@ cfp_date_start: 2019-02-12T00:00:00+01:00
 cfp_date_end: 2019-07-31T23:59:59+02:00
 cfp_date_announce: 2019-08-15T23:59:59+02:00
 
-cfp_open: "true"
+cfp_open: "false"
 cfp_link: "https://www.papercall.io/2019-berlin" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2018-12-01T00:00:00+01:00
@@ -36,13 +36,13 @@ location: "Kalkscheune Berlin" # Defaults to city, but you can make it the venue
 location_address: "Johannisstr. 2, 10117 Berlin" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+#  - name: propose
   - name: conduct
   - name: location
-  - name: registration
- # - name: program
- # - name: speakers
-  - name: sponsor
+#  - name: registration
+  - name: program
+  - name: speakers
+#  - name: sponsor
   - name: contact
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
@@ -56,18 +56,12 @@ team_members: # Name is the only required field for team members.
     employer: "NETWAYS"
   - name: "Jessica Ulyate"
     twitter: "JulyAte"
-  - name: "Marco Woitschitzky"
-    employer: "DB Systel GmbH"
-    github: "Woi"
-  - name: "Martin Alfke"
-    twitter: "tuxmea"
-    employer: "Example42"
   - name: "Markus Neder"
     twitter: "markusneder"
     employer: "NETWAYS"
   - name: "Norman Messtorff"
     twitter: "nmesstorff"
-    employer: "Deutsche Post E-POST Development"
+    employer: "Deutsche Post IT Services"
     website: "https://normes.org"
   - name: "Oliver Seemann"
     twitter: "oseemann"
@@ -75,13 +69,8 @@ team_members: # Name is the only required field for team members.
     twitter: "lestighaniker"
     employer: "Scout24"
     github: "range"
-  - name: "Ravi Yadav"
-    twitter: "ravi_yadav_de"
-    employer: "ImmobilienScout24"
   - name: "Sabrina Voigt"
     twitter: "sakiddo"
-  - name: "Simon Hoenscheid"
-    twitter: "simonhoenscheid"
   - name: "Travis Theune"
     twitter: "tenminutesout"
   - name: "Carlos Tadeu Panato Jr"
@@ -111,12 +100,33 @@ sponsors:
     level: partner
   - id: admin-magazine
     level: partner
+<<<<<<< HEAD
+=======
+  - id: sparheld
+    level: partner
+  - id: stickermule
+    level: partner
+  - id: olxgroup
+    level: platinum
+  - id: xmatters
+    level: platinum
+  - id: redgate
+    level: platinum
+  - id: oracle-linux
+    level: platinum
+  - id: polarsquad
+    level: platinum
+>>>>>>> upstream/master
   - id: 2016-idealo
     level: platinum
   - id: talentio
     level: platinum
+  - id: chef
+    level: gold
+  - id: 2016-norisnetwork
+    level: eveningevent
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -135,3 +145,207 @@ sponsor_levels:
     label: Silver
   - id: partner
     label: Partner
+
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2019-11-27
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2019-11-27
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "murali-suriar"
+    type: talk
+    date: 2019-11-27
+    start_time: "09:10"
+    end_time: "09:40"
+  - title: "daniel-loeffelholz"
+    type: talk
+    date: 2019-11-27
+    start_time: "09:40"
+    end_time: "10:10"
+  - title: "Break"
+    type: custom
+    date: 2019-11-27
+    start_time: "10:10"
+    end_time: "10:40"
+  - title: "monica-sarbu"
+    type: talk
+    date: 2019-11-27
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-11-27
+    start_time: "11:10"
+    end_time: "11:15"
+  - title: "yair-etziony"
+    type: talk
+    date: 2019-11-27
+    start_time: "11:15"
+    end_time: "11:45"
+  - title: "Open Space: Explained"
+    type: open-space
+    date: 2019-11-27
+    start_time: "11:45"
+    end_time: "12:15"
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2019-11-27
+    start_time: "12:15"
+    end_time: "13:30"
+  - title: "konstantin-diener"
+    type: talk
+    date: 2019-11-27
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2019-11-27
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: "Open Space Topics"
+    type: open-space
+    date: 2019-11-27
+    start_time: "14:30"
+    end_time: "15:00"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2019-11-27
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "abdessamad-temmar"
+    type: talk
+    date: 2019-11-27
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2019-11-27
+    start_time: "16:00"
+    end_time:  "16:45"
+  - title: "justina-nguyen"
+    type: talk
+    date: 2019-11-27
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2019-11-27
+    start_time: "17:00"
+    end_time: "17:45"
+  - title: "ivan-culjak"
+    type: talk
+    date: 2019-11-27
+    start_time: "17:00"
+    end_time: "17:45"
+  - title: "Evening event"
+    type: custom
+    date: 2019-11-27
+    start_time: "18:00"
+    end_time: "late"
+    comments: "The evening event will take place at [Puro Sky Lounge](https://goo.gl/maps/Xkt2CBwWpYE2) in the Europa Center, Tauentzienstraße 9-12, 10789 Berlin. You can reach it from the venue by taking any [S-Bahn from S-Bahnhof Friedrichstraße that goes west](http://fahrinfo.bvg.de/Fahrinfo/bin/query.bin/dn?SID=A%3D1%40O%3DS%2BU%20Friedrichstr.%20Bhf%20(Berlin)%40X%3D13387149%40Y%3D52520268%40U%3D86%40L%3D900100001%40B%3D1%40p%3D1573128608%40%26to=10789%20Berlin-Charlottenburg,%20Tauentzienstr.%209!%26REQ0JourneyStopsZA1=2%26getstop=1%26)"
+
+    # Day 2
+
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2019-11-28
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2019-11-28
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "lukas-pradel"
+    type: talk
+    date: 2019-11-28
+    start_time: "09:10"
+    end_time: "09:40"
+  - title: "beth-north"
+    type: talk
+    date: 2019-11-28
+    start_time: "09:40"
+    end_time: "10:10"
+  - title: "Break"
+    type: custom
+    date: 2019-11-28
+    start_time: "10:10"
+    end_time: "10:40"
+  - title: "jessica-anderson"
+    type: talk
+    date: 2019-11-28
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-11-28
+    start_time: "11:10"
+    end_time: "11:15"
+  - title: "piyush-verma"
+    type: talk
+    date: 2019-11-28
+    start_time: "11:15"
+    end_time: "11:45"
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2019-11-28
+    start_time: "11:50"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2019-11-28
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Open Space Topics"
+    type: open-space
+    date: 2019-11-28
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2019-11-28
+    start_time: "14:00"
+    end_time: "14:45"
+  - title: "daniel-maher"
+    type: talk
+    date: 2019-11-28
+    start_time: "14:00"
+    end_time: "14:45"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2019-11-28
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "eddie-zaneski"
+    type: talk
+    date: 2019-11-28
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2019-11-28
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "steffen-siering"
+    type: talk
+    date: 2019-11-28
+    start_time: "16:00"
+    end_time: "16:45"
+ignites:
+  - title: "daniel-maher-ignite"
+    date: 2019-11-27
+  - title: "mario-konschake"
+    date: 2019-11-27
+  - title: "emrah-samdan"
+    date: 2019-11-27
+  - title: "stevan-cvetkovic"
+    date: 2019-11-28
+  - title: "toshaan-bharvani"
+    date: 2019-11-28
+  - title: "marius-gebert"
+    date: 2019-11-28

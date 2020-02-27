@@ -108,7 +108,7 @@ sponsors:
     level: premium
   - id: maxmilhas
     level: premium
-  - id: estabilis
+  - id: estabilis-before-20190722
     level: premium
   - id: dataminders
     level: premium
@@ -120,7 +120,7 @@ sponsors:
     level: educational
   - id: adaptnow
     level: educational
-  - id: devopsbh
+  - id: devopsbh-before-20190921
     level: community
   - id: arresteddevops
     level: community

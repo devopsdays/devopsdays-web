@@ -23,8 +23,19 @@
 &emsp;[Speaker Page Fields](#speaker-page-fields)
 &emsp;[Program Page Fields](#program-page-fields)
 &emsp;[Blog Post Fields](#blog-post-fields)
+[Other Settings](#other-settings)
+&emsp;[Social Sharing Image](#social-sharing-image)
 [Shortcodes](#shortcodes)
 &emsp;[google_form](#google_form)
+&emsp;[tito_widget](#tito_widget)
+&emsp;[cfp_dates](#cfp_dates)
+&emsp;[email_organizers](#email_organizers)
+&emsp;[event_start](#event_start)
+&emsp;[event_end](#event_end)
+&emsp;[event_logo](#event_logo)
+&emsp;[event_twitter](#event_twitter)
+&emsp;[registration_start](#registration_start)
+&emsp;[registration_end](#registration_end)
 
 <!-- /MDTOC -->
 
@@ -56,8 +67,8 @@ All dates are in unquoted YYYY-MM-DD, like this: `variable: 2016-01-05`, or like
 | `cfp_date_announce`       | YYYY-MM-DD | No       | The date you will inform proposers of status. Can be a blank value.                                                                                                                                                           | 2016-01-05                                            |
 | `cfp_open`                | String     | No       | Either "true" or "false". Can be blank. This controls whether or not the "propose" button shows on your event page. *Deprecated field; if you have set `cfp_date_start` and `cfp_date_end` they will serve the same purpose.* | "true"                                                |
 | `cfp_link`                | String     | No       | If you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.                                                                                     | "https://myurlhere" - reference it like "{{< event_link url-key="cfp_link" text="Propose a talk!" >}}" |
-| `registration_date_start` | YYYY-MM-DD | No       | The date you will start accepting registration. Can be a blank value.                                                                                                                                                         | 2016-01-05                                            |
-| `registration_date_end`   | YYYY-MM-DD | No       | The date you will close registration. Can be a blank value.                                                                                                                                                                   | 2016-01-05                                            |
+| `registration_date_start` | YYYY-MM-DD | No       | The date you will start accepting registration. If this is set, will make the "Register" button appear on the event's "Welcome" page. Can be a blank value.                                                                                                                                                         | 2016-01-05                                            |
+| `registration_date_end`   | YYYY-MM-DD | No       | The date you will close registration. Controls the appearance of the "Register" button on the "Welcome" page. If you set `registration_date_start` you must set `registration_date_end`. Can be a blank value (unless `registration_date_start` has been set).                                                                                                                                                                   | 2016-01-05                                            |
 | `registration_closed`     | String     | No       | Set this to "true" if you need to manually close registration before your registration end date.                                                                                                                              | "true"                                                |
 | `registration_link`       | String     | No       | If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.                                                                                         | "https://myurlhere"  |                                                                                   |
 | `sponsor_link`       | String     | No       | If you have a custom sponsorship link, enter it here. This will control the "Become an X Sponsor!" links. It does NOT change the "Sponsor" button.                                                                                         | "https://myurlhere"  |                                                                                   |
@@ -67,6 +78,7 @@ All dates are in unquoted YYYY-MM-DD, like this: `variable: 2016-01-05`, or like
 | Field Name            | Type   | Required | Description                                                                                                     | Example             |
 |-----------------------|--------|----------|-----------------------------------------------------------------------------------------------------------------|---------------------|
 | `masthead_background` | String | No       | The image, relative to `static/events/YYYY-CITY` that you want to be the background of the header on your page. | `skyline-night.jpg` |
+| `sharing_image` | String | No       | This allows you to set an image that is displayed when posting on social sites (eg: Slack, Twitter, Facebook). This image is used in the `og:image` meta tag field. This image is relative to the `static/events/YYYY-CITY/sharing` directory. It can be either .png or .jpg. Recommended size is 1200 × 630. | `sharing.jpg` |
 
 ### Location Fields
 
@@ -102,7 +114,7 @@ nav_elements
 ```
 The above example would create a new menu item called "Volunteer" which linked to `devopsdays/events/YYYY-CITY/volunteer`, and another menu item called "party" which would link to `http://www.google.com`
 
-The menu items also take an optional parameter of `icon` where you can set the font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/. Example:
+The menu items also take an optional parameter of `icon` where you can set the font-awesome icon that will display on small screens. *Note: This feature is currently deprecated, but it won't break anything if you use this setting* Choose at http://fontawesome.io/icons/. Example:
 
 ```
 nav_elements
@@ -128,7 +140,7 @@ Each team member is an element of `team_members`.
 | `facebook` | String | No       | The full URL to the person's Facebook page                                                                                                                 | "https://www.facebook.com/sally.fields"                                                                                                                                                                                                                                                                             |
 | `linkedin` | String | No       | The full URL to the person's LinkedIn page                                                                                                                 | "https://www.linkedin.com/in/sallyfields"                                                                                                                                                                                                                                                                           |
 | `website`  | String | No       | The full URL to the person's webpage                                                                                                                       | "https://mattstratton.com"                                                                                                                                                                                                                                                                                          |
-| `image`    | String | No       | The name of the image for this user, located in `static/events/YYYY-CITY/organizers/`. This image must be a JPEG, either 300px square or (optimally) 600px square. | "sally-fields.jpg"                                                                                                                                                                                                                                                                                                  |
+| `image`    | String | No       | The name of the image for this user, located in `static/events/YYYY-CITY/organizers/`. This image must be a JPEG, and should be either 300px square or (optimally) 600px square. | "sally-fields.jpg"                                                                                                                                                                                                                                                                                                  |
 | `bio`      | String | No       | The bio for the user. Markdown is supported. Quotation marks must be escaped.                                                                              | "Thought leader paradigm affordances physical computing quantitative vs. qualitative disrupt thought leader disrupt. Venture capital Steve Jobs pitch deck moleskine sticky note agile Steve Jobs pivot disrupt grok driven. Human-centered design bootstrapping agile driven grok food-truck ship it long shadow." |
 
 #### Organizer Emails
@@ -244,12 +256,13 @@ The content is everything following the last `+++`.
 
 All pages have some common frontmatter elements that they share. These include:
 
-| Field Name    | Required | Description                                                                                                                                                                               | Example                                                                                          |
-|---------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
-| `Description` | No       | The summary, or description, of the content of the page. It is highly recommended that this is populated on every page, as it is used in social sharing, as well as for SEO purposes.     | "DevOpsDays Ponyville is back for 2017! We will be hanging out and showing off our awesomeness." |
-| `Title`       | Yes      | The title of the page. This is usually prepopulated for you, but it is highly recommended that you do NOT use the default titles; add some flair to set your event apart.                 | "devopsdays Ponyville 2017"                                                                      |
-| `Type`        | Yes      | This is required, but is usually pre-populated. Valid types are "event", "welcome", "program", "speaker", "speakers", and "talk". The type you should use for "regular" pages is "event". | "talk"                                                                                           |
-| `aliases`     | No       | This creates aliases to the page. For example, if you want your index page to also be accessible as `/welcome` under your event, you would add the alias here.                            | ["/events/2017-ponyville/welcome"]                                                               |
+| Field Name      | Required | Description                                                                                                                                                                                                                                                                                                  | Example                                                                                          |
+|-----------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| `Description`   | No       | The summary, or description, of the content of the page. It is highly recommended that this is populated on every page, as it is used in social sharing, as well as for SEO purposes.                                                                                                                        | "DevOpsDays Ponyville is back for 2017! We will be hanging out and showing off our awesomeness." |
+| `Title`         | Yes      | The title of the page. This is usually prepopulated for you, but it is highly recommended that you do NOT use the default titles; add some flair to set your event apart.                                                                                                                                    | "devopsdays Ponyville 2017"                                                                      |
+| `Type`          | Yes      | This is required, but is usually pre-populated. Valid types are "event", "welcome", "program", "speaker", "speakers", and "talk". The type you should use for "regular" pages is "event".                                                                                                                    | "talk"                                                                                           |
+| `aliases`       | No       | This creates aliases to the page. For example, if you want your index page to also be accessible as `/welcome` under your event, you would add the alias here.                                                                                                                                               | ["/events/2017-ponyville/welcome"]                                                               |
+| `sharing_image` | No       | This allows you to set an image that is displayed when posting on social sites (eg: Slack, Twitter, Facebook). This image is used in the `og:image` meta tag field. This image is relative to the `static/events/YYYY-CITY/sharing` directory. It can be either .png or .jpg. Recommended size is 1200 × 630. | "matt-stratton-card.jpg"                                                                         |
 
 ### Talk Page Fields
 
@@ -260,10 +273,12 @@ Pages of the type `talk` (which can include workshops, ignites, or talks) have a
 | `speakers`    | Yes      | An array of the names of the speakers (relative to the filenames for the speaker in your `content/events/YYYY-CITY/speakers` directory). Even if there is only one speaker, it should be formatted as an array. | speakers = ["fluttershy", "spike"]                                                  |
 | `youtube`     | No       | The ID of the YouTube video (not the full URL).                                                                                                                                                                 | "8ClZXJsgpHY"                                                                       |
 | `vimeo`       | No       | The ID of the Vimeo video (not the full URL).                                                                                                                                                                   | "219025568"                                                                         |
+| `slideslive`  | No       | The ID of the presentation on SlidesLive                          | "12345678" |
 | `speakerdeck` | No       | The URL to the talk on Speakerdeck. Use the full URL.                                                                                                                                                           | "https://speakerdeck.com/mattstratton/shifting-left-securely"                       |
 | `slideshare`  | No       | The URL to the talk on Slideshare. Use the full URL                                                                                                                                                             | "http://www.slideshare.net/mattstratton/the-five-love-languages-of-devops-54549536" |
 | `googleslides` | No      | The ID of the talk on Google Slides (not the full URL).                                                                                                                                                         | "1QnakgUC8AaNydPZCmKGYYja8gs2WoHbHRSjioIVdD9g" |
 | `pdf`          | No      | The URL to the PDF. Use the full URL.                                                                                                                                                                           | "http://www.mattstratton.com/my-slides.pdf" |
+| `notist`      | No      | The ID of the deck on Notist, including the username. | "mattstratton/jLwszn" |
 | `slides`      | No       | If the slides are available on a service other than Speakerdeck or Slideshare, enter the URL here.                                                                                                              | "http://www.mattstratton.com/my-slides"                                             |
 
 ### Speaker Page Fields
@@ -278,7 +293,7 @@ Pages of the type `speaker` have a few additional frontmatter elements available
 | `linkedin` | No       | Speaker's LinkedIn URL                                                                                                                                                                                     | "https://www.linkedin.com/in/mattstratton/" |
 | `github`   | No       | Speakers' GitHub username.                                                                                                                                                                                 | "mattstratton"                              |
 | `gitlab`   | No       | Speakers' GitLab username.                                                                                                                                                                                 | "mattstratton"                              |
-| `image`    | No       | The image for the speaker. This image is relative to the `static/events/YYYY-CITY/speakers` directory. It can be either .png or .jpg. It must be square, and 300px square, 600px square, or 900px square.  | "matt-stratton.jpg"                         |
+| `image`    | No       | The image for the speaker. This image is relative to the `static/events/YYYY-CITY/speakers` directory. It can be either .png or .jpg. It is recommended to be 600px square.  | "matt-stratton.jpg"                         |
 
 ### Program Page Fields
 
@@ -296,6 +311,11 @@ The page of type `program` has one additional frontmatter element.
 | `Author`        | No       | The name of the person who wrote the blog post.                                                                                                                                     | "Matt Stratton"                                                                                                                                                                                                                                                                                      |
 | `title`         | Yes      | The title for the blog post.                                                                                                                                                        | "Chicago 2016 In Review"                                                                                                                                                                                                                                                                             |
 | `sharing_image` | No       | The image to use for social sharing. This is a path relative to the `static` directory.                                                                                             | "img/blog/chicago-2016-sharing.jpg"                                                                                                                                                                                                                                                                  |
+
+## Other Settings
+
+### Social Sharing Image
+An event can create a sharing image for use on social media (when the url is shared on Facebook, for instance). This image can be either PNG or JPG and must be located in the `static/events/YYYY-CITY/sharing/` directory. It should be a minimum 1200 x 630px, and use ratio: 1.91:1. To set the overall sharing image for the event, set the `sharing_image` field in the `YYYY-CITY.yml` data file. To set a custom sharing image on a per-page basis (for example, on an individual speaker's page), set the `sharing_image` field in the page's frontmatter. 
 
 ## Shortcodes
 
@@ -327,4 +347,59 @@ To show discounted tickets on the page (they display as a striked through full-p
 {{< tito_widget event="devopsdays-london/2019" discount-code="examplediscount" >}}
 ```
 
+<<<<<<< HEAD
 
+=======
+### cfp_dates
+This shortcode displays the dates for the CFP. It is used in the default `propose.md` that is generated from the script. 
+```
+{{< cfp_dates >}}
+```
+
+### email_organizers
+This shortcode will generate a `mailto` link to the organizer email address. 
+```
+{{< email_organizers >}}
+```
+
+To add a subject to the `mailto` link:
+```
+{{< email_organizers subject= "Your Subject Here">}}
+```
+
+### event_start
+Returns the start date of your event
+```
+{{< event_start >}}
+```
+
+### event_end
+Returns the end date of your event
+```
+{{< event_end >}}
+```
+
+### event_logo
+If you have a `logo.png` or `logo.jpg` in your `static/events/city-yyyy` directory, this will return the HTML for the image. This is mostly suited for use on your `welcome.md` page.
+```
+{{< event_logo >}}
+```
+
+### event_twitter
+This returns a twitter follow link, set to either `@devopsdays` if you have not set a Twitter handle in your data file, or whatever is set as your event's Twitter handle in your data file. 
+```
+{{< event_twitter >}}
+```
+
+### registration_start
+Returns the start date of registration for your event
+```
+{{< registration_start >}}
+```
+
+### registration_end
+Returns the end date of registration for your event
+```
+{{< registration_end >}}
+```
+>>>>>>> upstream/master

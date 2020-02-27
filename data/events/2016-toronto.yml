@@ -44,7 +44,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: blendedperspectives-before-20190221
     level: gold
-  - id: pagerduty
+  - id: pagerduty-before-20190930
     level: gold
   - id: github
     level: gold
@@ -60,7 +60,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: telus
     level: lunch
-  - id: oreilly
+  - id: oreilly-before-20190725
     level: community
   - id: sonatype-before-20190121
     level: lunch

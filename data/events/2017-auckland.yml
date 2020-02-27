@@ -79,7 +79,7 @@ sponsors:
     level: gold
   - id: pivotal-before-20190307
     level: gold
-  - id: SECTION6
+  - id: section6-before-20190725
     level: gold
   - id: redhat
     level: gold
@@ -105,9 +105,9 @@ sponsors:
     level: silver
   - id: fairfax
     level: silver
-  - id: datacom
+  - id: datacom-before-20190912
     level: bronze
-  - id: SECTION6
+  - id: section6-before-20190725
     level: evening
   - id: icagile
     level: bronze
@@ -115,7 +115,7 @@ sponsors:
     level: venue
   - id: techday
     level: media
-  - id: microsoftnz
+  - id: microsoftnz-before-20190912
     level: bronze
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
  # - id: arresteddevops

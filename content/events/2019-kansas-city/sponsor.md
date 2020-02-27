@@ -17,6 +17,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
 
 <!--
 <hr/>
+<<<<<<< HEAD
 
 <div style="width:590px">
 <table border=1 cellspacing=1>
@@ -37,6 +38,139 @@ The best thing to do is send engineers to interact with the experts at devopsday
 <tr><td>4 additional tickets (6 in total)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
 <tr><td>shared table for swag</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
 <tr><td>booth/table space</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
+=======
+<h2>Sponsorship Packages</h2>
+<div class = "row">
+<div class = "col-sm-12">
+  <table class = "table table-bordered table-responsive">
+  <thead>
+    <tr>
+      <th><i>packages</i></th>
+      <th><center><b>Supporting</a></b></center><center><b>$1,000</b></center></th>
+      <th><center><b>Premium</b></center><center><b>$6,000</b></center></th>
+      <th><center><b>Special Sponsorships</b></center><center><b>$1,500 - $4,000</b></center></th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+      <td style="border-bottom: 0; border-top: 0;"></td>
+      <td style="padding: 4px 5px 0px 5px;">
+        <!-- Supporting Paypal button  -->
+        <b><center>SOLD OUT</center></b>
+      </td>
+      <td style="padding: 4px 5px 0px 5px;">
+        <!-- Premium Paypal button  -->
+        <b><center>SOLD OUT</center></b>
+      </td>
+      <td style="padding: 4px 5px 0px 5px;">
+        <!-- Special Sponsorships  -->
+        <b><center>SOLD OUT</center></b>
+      </td>
+    </tr>
+    <tr>
+      <td>Included tickets</td>
+      <td bgcolor="8DB3D4"><center><strong style="color:white;">1</strong></center></td>
+      <td bgcolor="004784"><center><strong style="color:white;">4</strong></center></td>
+      <td rowspan=9 bgcolor="002E62" style="text-align:center;vertical-align:middle;"><strong style="color:white;">See Below</strong></td>
+    </tr>
+    <tr>
+      <td>Acknowledgement during opening and closing ceremonies</td>
+      <td bgcolor="8DB3D4">&nbsp;</td>
+      <td bgcolor="004784">&nbsp;</td>
+    </tr>
+    <tr>
+      <td>Logo on DevOpsDays KC event website</td>
+      <td bgcolor="8DB3D4">&nbsp;</td>
+      <td bgcolor="004784">&nbsp;</td>
+    </tr>
+    <tr>
+      <td>Logo on all email communication and mentions in social media</td>
+      <td bgcolor="8DB3D4">&nbsp;</td>
+      <td bgcolor="004784">&nbsp;</td>
+    </tr>
+    <tr>
+      <td>logo on shared slide during breaks</td>
+      <td bgcolor="8DB3D4">&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+    <tr>
+      <td>Logo on dedicated slide during breaks</td>
+      <td>&nbsp;</td>
+      <td bgcolor="004784">&nbsp;</td>
+    </tr>
+    <tr>
+      <td>Dedicated table (6')</td>
+      <td>&nbsp;</td>
+      <td bgcolor="004784">&nbsp;</td>
+    </tr>
+    <tr>
+      <td>1 minute pitch to full audience </td>
+      <td>&nbsp;</td>
+      <td bgcolor="004784">&nbsp;</td>
+    </tr>
+    </tbody>
+  </table>
+
+<h2><a id="special">Special Sponsorships</a></h2>
+
+All special sponsors will have their logo displayed on the DevOpsDays Kansas City website, a tweet before the conference, and a thank you during the conference. We do have some flexibilities with these sponsorships, so just ask! Email us at [{{< email_organizers >}}].
+<br/><br/>
+
+<table class = "table table-bordered table-responsive">
+  <thead>
+    <tr>
+      <th scope="col"></th>
+      <th scope="col">Sponsorship</th>
+      <th scope="col">Price</th>
+      <th scope="col">Description</th>
+      <th scope="col">Tickets Included</th>
+      <th scope="col">Number Available</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><i class="fa fa-cutlery fa-4x"></i></td>
+      <td>Breakfast</td>
+      <td>$1,500</td>
+      <td>Your logo on buffet lines and a dedicated space in buffet area from morning to lunch.</td>
+      <td>1</td>
+      <td><b>SOLD OUT</b></td>
+    </tr>
+    <tr>
+      <td align="center"><i class="fa fa-cutlery fa-4x"></i></td>
+      <td>Lunch</td>
+      <td>$1,500</td>
+      <td>Your logo on buffet lines and a dedicated space in buffet area from lunch to evening.</td>
+      <td>1</td>
+      <td><b>SOLD OUT</b></td>
+    </tr>
+    <tr>
+      <td align="center"><i class="fa fa-coffee fa-4x"></i></td>
+      <td>All-day coffee</td>
+      <td>$1,500</td>
+      <td>Your logo stamped on coffee sleeves.</td>
+      <td>1</td>
+      <td><b>SOLD OUT</b></td>
+    </tr>
+    <tr>
+      <td align="center"><i class="fa fa-id-badge fa-4x"></i></td>
+      <td>Lanyard</td>
+      <td>$4,000</td>
+      <td>Your logo and company colors. Typically provided by the sponsoring company.</td>
+      <td>2</td>
+      <td><b>SOLD OUT</b></td>
+    </tr>
+    <tr>
+      <td align="center"><i class="fa fa-music fa-4x"></i></td>
+      <td>Evening Event</td>
+      <td>$4,000</td>
+      <td>Pay for drinks, food, and entertainment - get an exclusive space for the night.</td>
+      <td>4</td>
+      <td><b>SOLD OUT</b></td>
+    </tr>
+  </tbody>
+>>>>>>> upstream/master
 </table>
 <hr/>
 There are also opportunities for exclusive special sponsorships. We'll have sponsors for various events with special privileges for the sponsors of these events. If you are interested in special sponsorships or have a creative idea about how you can support the event, send us an email.

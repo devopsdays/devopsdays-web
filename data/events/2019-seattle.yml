@@ -124,7 +124,7 @@ sponsors:
     level: gold
   - id: sonatype
     level: gold
-  - id: pagerduty
+  - id: pagerduty-before-20190930
     level: gold
   - id: site24x7
     level: gold
@@ -144,7 +144,7 @@ sponsors:
     level: silver
   - id: vmware
     level: silver
-  - id: sysdig
+  - id: sysdig-before-20200210
     level: bronze
   - id: macstadium
     level: bronze

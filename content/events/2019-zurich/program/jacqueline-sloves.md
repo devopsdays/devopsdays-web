@@ -8,8 +8,8 @@ title = "Retros are the New Black: How to Cultivate Continuous Improvement Acros
 type = "talk"
 speakers = ["jacqueline-sloves"]
 youtube = ""
-vimeo = ""
-speakerdeck = ""
+vimeo = "344514221"
+speakerdeck = "https://speakerdeck.com/jacquelion/retros-are-the-new-black-how-to-cultivate-continuous-improvement-across-teams"
 slideshare = ""
 slides = ""
 +++

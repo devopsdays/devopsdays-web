@@ -18,13 +18,23 @@ cfp_date_start:  # start accepting talk proposals.
 cfp_date_end:  # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
 
+<<<<<<< HEAD
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+=======
+cfp_open: "false"
+cfp_link: "https://cfp.devopsdayskc.org" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+>>>>>>> upstream/master
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: # close registration. Leave blank if registration is not open yet.
 
+<<<<<<< HEAD
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+=======
+registration_closed: "yes" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://tickets.devopsdayskc.org/?aff=website" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+>>>>>>> upstream/master
 
 # Location
 #
@@ -34,14 +44,27 @@ location: "Kansas City" # Defaults to city, but you can make it the venue name.
 location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
+<<<<<<< HEAD
  # - name: propose
  # - name: location
  # - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
+=======
+#   - name: propose
+  - name: location
+  - name: map
+  # - name: registration
+  - name: program
+  - name: social
+  - name: speakers
+  # - name: sponsor
+>>>>>>> upstream/master
   - name: contact
   - name: conduct
+  # - name: justification
+    # url: https://docs.google.com/document/d/1_bxlAO8Q2le-hSVYaoEbBQ1nG3ftT838NM5xAoeZ0h8/edit?usp=sharing
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -79,15 +102,15 @@ team_members: # Name is the only required field for team members.
     considered an advocate for developing the DevOps culture throughout the Bank.  He is also actively
     involved in the Kansas City eSports scene as a co-owner of Good Game Kansas City."
   - name: "Ryan McNair"
-    employer: SMRxT
+    employer: RSA
     image: ryan-mcnair.jpg
-    bio: "Ryan McNair is currently the Technical Product Owner for SMRxT Inc, a Medication Adherence
-    company focused on software and IoT devices to monitor when patients do and don't take their medicine.
-    Previously, Ryan held multiple engineering and leadership positions at Cerner Corp, a provider of
-    Electronic Health Record software and services to hospitals. Ryan is focused on successful technology
-    implementations across the healthcare sector and sees DevOps as a powerful tool in the business value
-    stream for all SaaS products. Outside the office, you'll find Ryan tearing up the local mountain bike
-    trails and making sawdust in his basement workshop."
+    bio: "Ryan McNair is currently helping improve access to Digital Risk Management services at RSA Security,
+    a Dell Technologies company. Previously, Ryan held multiple engineering and leadership positions at Cerner Corp,
+    a provider of Electronic Health Record software and services to hospitals, and SMRxT, a Medication Adherence
+    company focused on software and IoT devices to monitor when patients do and don’t take their medicine.
+    Ryan is focused on successful technology implementations and sees DevOps as a powerful tool in the business
+    value stream for all SaaS products. Outside the office, you’ll find Ryan tearing up the local mountain bike trails
+    and making sawdust in his basement workshop."
     linkedin: https://www.linkedin.com/in/ryanmcnair/
   - name: "Tom Martin"
     employer: 27global
@@ -99,6 +122,7 @@ team_members: # Name is the only required field for team members.
   - name: "Chris Stein"
     employer: C2FO
     image: chris-stein.jpg
+    github: bksteiny
     linkedin: https://LinkedIn.com/in/cdstein
     website: http://chrisstein.io
     bio: "Chris has spent most of his career focusing on infrastructure automation. He's interested in
@@ -165,13 +189,77 @@ organizer_email: "organizers-kansas-city-2019@devopsdays.org" # Put your organiz
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+<<<<<<< HEAD
   - id: samplesponsorname
     level: gold
+=======
+  - id: gitlab
+    level: premium
+  - id: dynatrace
+    level: premium
+  - id: contrast_security
+    level: premium
+  - id: chef
+    level: premium
+  - id: sonatype
+    level: premium
+  - id: nutanix-before-20200127
+    level: premium
+  - id: circleci
+    level: premium
+  - id: tgs
+    level: breakfast
+>>>>>>> upstream/master
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
+  - id: plexpod
+    level: premium
+  - id: sumologic
+    level: premium
+  - id: c2fo
+    level: premium
+    url: https://stackoverflow.com/jobs/companies/c2fo#jobs-items
+  - id: stackify
+    level: premium
+  - id: new-context
+    level: social
+  - id: newrelic
+    level: premium
+  - id: hrblock
+    level: supporting
+  - id: azulsystems
+    level: premium
+  - id: teksystems
+    level: lanyard
+  - id: wistemm
+    level: community
+  - id: tricomts
+    level: supporting
+  - id: kairos
+    level: supporting
+  - id: appdynamics
+    level: premium
+  - id: googlecloud
+    level: premium
+  - id: signalfx
+    level: premium
+  - id: stackrox
+    level: premium
+  - id: googlecloud
+    level: coffee
+  - id: equipmentshare
+    level: lunch
+  - id: capstonec
+    level: lunch
+  - id: kudelskisecurity-f5
+    level: premium
+  - id: vmlyr
+    level: premium
+  - id: delltechnologies
+    level: premium
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -181,10 +269,246 @@ sponsor_levels:
   - id: gold
     label: Gold
 #    max: 10
+<<<<<<< HEAD
   - id: silver
     label: Silver
     max: 0 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
+=======
+  - id: lanyard
+    label: Lanyard
+  - id: breakfast
+    label: Breakfast
+  - id: lunch
+    label: Lunch
+  - id: social
+    label: Evening Social
+  - id: coffee
+    label: Coffee
+  - id: supporting
+    label: Supporting
+>>>>>>> upstream/master
   - id: community
     label: Community
+
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2019-10-24
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2019-10-24
+    start_time: "09:00"
+    end_time: "09:25"
+  - title: "jennifer-davis"
+    type: talk
+    date: 2019-10-24
+    start_time: "09:30"
+    end_time: "10:00"
+  - title: "paul-snider"
+    type: talk
+    date: 2019-10-24
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Sponsors + Break"
+    type: custom
+    date: 2019-10-24
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "piotr-holubowicz"
+    type: talk
+    date: 2019-10-24
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "dan-zentgraf"
+    type: talk
+    date: 2019-10-24
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Sponsors + Catered Lunch (sponsored by EquipmentShare)"
+    type: custom
+    date: 2019-10-24
+    start_time: "12:00"
+    end_time: "13:30"
+  - title: "Ignites"
+    type: ignite
+    date: 2019-10-24
+    start_time: "13:30"
+    end_time: "14:15"
+  - title: "Sponsors + Announcements / Workshop Logistics"
+    type: custom
+    date: 2019-10-24
+    start_time: "14:15"
+    end_time: "14:30"
+  - title: "sasha-rosenbaum"
+    type: workshop
+    date: 2019-10-24
+    start_time: "14:30"
+    end_time: "16:30"
+  - title: "joel-tosi"
+    type: workshop
+    date: 2019-10-24
+    start_time: "14:30"
+    end_time: "16:30"
+  - title: "clay-thomas"
+    type: workshop
+    date: 2019-10-24
+    start_time: "14:30"
+    end_time: "16:30"
+  - title: "tom-cudd"
+    type: workshop
+    date: 2019-10-24
+    start_time: "14:30"
+    end_time: "16:30"
+  - title: "steph-hicks"
+    type: workshop
+    date: 2019-10-24
+    start_time: "14:30"
+    end_time: "16:30"
+  - title: "paul-meharg"
+    type: talk
+    date: 2019-10-24
+    start_time: "14:30"
+    end_time: "15:00"
+  - title: "Break"
+    type: custom
+    date: 2019-10-24
+    start_time: "15:00"
+    end_time: "15:30"
+  - title: "simon-yost"
+    type: talk
+    date: 2019-10-24
+    start_time: "15:30"
+    end_time: "16:00"
+  - title: "ross-brunson"
+    type: talk
+    date: 2019-10-24
+    start_time: "16:00"
+    end_time: "16:30"
+  - title: "Close Day & Logistics"
+    type: custom
+    date: 2019-10-24
+    start_time: "16:45"
+    end_time: "17:00"
+  - title: "Evening Social"
+    type: custom
+    date: 2019-10-24
+    start_time: "17:00"
+    end_time: "21:00"
+    comments: "No Other Pub - 1370 Grand Blvd"
+    custom_url: /events/2019-kansas-city/social
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2019-10-25
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2019-10-25
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "kylie-schleicher"
+    type: talk
+    date: 2019-10-25
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors + Open Space Kickoff"
+    type: custom
+    date: 2019-10-25
+    start_time: "09:45"
+    end_time: "10:00"
+  - title: "attendee-suggested breakout discussions - Open Spaces"
+    type: open-space
+    date: 2019-10-25
+    start_time: "10:00"
+    end_time: "12:00"
+  - title: "Catered Lunch (sponsored by Capstone IT)"
+    type: custom
+    date: 2019-10-25
+    start_time: "11:30"
+    end_time: "13:00"
+  - title: "Sponsors + Ignites"
+    type: ignite
+    date: 2019-10-25
+    start_time: "13:00"
+    end_time: "13:45"
+  - title: "Sponsors + Announcements / Workshop Logistics"
+    type: custom
+    date: 2019-10-25
+    start_time: "13:45"
+    end_time: "14:00"
+  - title: "rich-mogull"
+    type: workshop
+    date: 2019-10-25
+    start_time: "14:00"
+    end_time: "16:00"
+  - title: "justin-james"
+    type: workshop
+    date: 2019-10-25
+    start_time: "14:00"
+    end_time: "16:00"
+  - title: "kate-wardin"
+    type: workshop
+    date: 2019-10-25
+    start_time: "14:00"
+    end_time: "16:00"
+  - title: "mofizur-rahman"
+    type: workshop
+    date: 2019-10-25
+    start_time: "14:00"
+    end_time: "16:00"
+  - title: "steve-grossman"
+    type: workshop
+    date: 2019-10-25
+    start_time: "14:00"
+    end_time: "16:00"
+  - title: "kyle-harper"
+    type: talk
+    date: 2019-10-25
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: "Break"
+    type: custom
+    date: 2019-10-25
+    start_time: "14:30"
+    end_time: "15:00"
+  - title: "amber-vanderburg"
+    type: talk
+    date: 2019-10-25
+    start_time: "15:00"
+    end_time: "15:30"
+  - title: "seth-thoenen"
+    type: talk
+    date: 2019-10-25
+    start_time: "15:30"
+    end_time: "16:00"
+  - title: "Close Day & Logistics"
+    type: custom
+    date: 2019-10-25
+    start_time: "16:00"
+    end_time: "16:30"
+
+ignites:
+  - title: "waldo-g"
+    date: 2019-10-24
+  - title: "kyle-sexton"
+    date: 2019-10-24
+  - title: "matt-blasinski"
+    date: 2019-10-24
+  - title: "kevin-reedy"
+    date: 2019-10-24
+  - title: "Ignite Karaoke!"
+    date: 2019-10-24
+  - title: "curtis-blackthorne"
+    date: 2019-10-25
+  - title: "jj-asghar"
+    date: 2019-10-25
+  - title: "douglas-heller"
+    date: 2019-10-25
+  - title: "roger-noah"
+    date: 2019-10-25
+  - title: "Ignite Karaoke!"
+    date: 2019-10-25

@@ -27,10 +27,8 @@ Description = "devopsdays Amsterdam will take place June 26-28, 2019! The group 
     </div>
   </div>
   <div class="row">
-    <div class="col-12">
-      <div class="row justify-content-center">
-        <img src="/events/2019-amsterdam/logo.png" class="img-fluid mx-auto">
-      </div>
+    <div class="col-12 justify-content-center">
+      <img src="/events/2019-amsterdam/logo.png" class="img-fluid mx-auto">
     </div>
     <div class="col-sm-6">
       From fledgling startups to established industry, the The Netherlands is home to a large, vibrant technology

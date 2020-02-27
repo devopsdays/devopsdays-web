@@ -6,7 +6,7 @@
       {{ $.Scratch.Set "title" "devopsdays" }}
     {{- else -}}
       {{- if .IsPage -}}
-        {{- if or (eq .Type "welcome") (eq .Type "event") (eq .Type "speakers") (eq .Type "talk") (eq .Type "speaker") -}}
+        {{- if or (eq .Type "welcome") (eq .Type "event") (eq .Type "speakers") (eq .Type "talk") (eq .Type "speaker") (eq .Type "program") -}}
           {{- $e := (index $.Site.Data.events (index (split (.Permalink | relURL) "/") 2)) -}}
           {{- if eq (lower .Title) "welcome" -}}
             {{- $.Scratch.Set "title" (printf "devopsdays %s %s" $e.city (chomp $e.year)) -}}

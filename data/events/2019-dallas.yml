@@ -37,9 +37,16 @@ location_address: "2000 East Spring Creek Parkway, Plano, TX 75074" #Optional - 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
   - name: location
+<<<<<<< HEAD
  # - name: registration
  # - name: program
  # - name: speakers
+=======
+# - name: propose
+  - name: program
+  - name: registration
+  - name: speakers
+>>>>>>> upstream/master
   - name: sponsor
   - name: contact
   - name: conduct
@@ -80,16 +87,16 @@ team_members: # Name is the only required field for team members.
     website: "https://www.capitalone.com/"
     github: "https://github.com/mandersen94/"
     image: "mark-andersen.jpg" 
-  - name: "Carlos Nuñez"
-    employer: "Organizer Role - CFP / Paper Review / Program Schedule"
-    role: "RoundTower Technologies, LLC"
-    bio: "Carlos is a Engineer at RoundTower Technologies, LLC which is a systems integrator that provides innovative solutions and services in the areas of data center infrastructure, converged platforms, cloud automation and orchestration, DevOps, and data analytics. His mission is to use the DevOps metholodogy and Agile delivery to enable every company in the Midwest and Southwest to be software-first tech companies through modern infrastructure, faster and safer software delivery and more transparent and influential IT organizations. <br><br>He's passionate about enabling faster, leaner businesses by breaking down silos between development, operations, marketing, sales and business development/operations. <br><br>Carlos is the Founder Organizer for HashiCorp Users Group of Dallas. On his off time, he enjoys road biking, working out, writing, visiting new breweries and doing badly at trivia."
-    twitter: "easiestnameever"
-    linkedin: "https://www.linkedin.com/in/carlosindfw/"
-#   facebook: ""
-    website: ""
-    github: "https://github.com/carlosonunez"
-    image: "carlos.jpg"
+#  - name: "Carlos Nuñez"
+#    employer: "Organizer Role - CFP / Paper Review / Program Schedule"
+#    role: "RoundTower Technologies, LLC"
+#    bio: "Carlos is a Engineer at RoundTower Technologies, LLC which is a systems integrator that provides innovative solutions and services in the areas of data center infrastructure, converged platforms, cloud automation and orchestration, DevOps, and data analytics. His mission is to use the DevOps metholodogy and Agile delivery to enable every company in the Midwest and Southwest to be software-first tech companies through modern infrastructure, faster and safer software delivery and more transparent and influential IT organizations. <br><br>He's passionate about enabling faster, leaner businesses by breaking down silos between development, operations, marketing, sales and business development/operations. <br><br>Carlos is the Founder Organizer for HashiCorp Users Group of Dallas. On his off time, he enjoys road biking, working out, writing, visiting new breweries and doing badly at trivia."
+#    twitter: "easiestnameever"
+#    linkedin: "https://www.linkedin.com/in/carlosindfw/"
+#    facebook: ""
+#    website: ""
+#    github: "https://github.com/carlosonunez"
+#    image: "carlos.jpg"
   - name: "Franklin Mosley"
     employer: "Organizer Role - CFP (Lead) / Paper Review / Program Schedule"
     role: "PagerDuty"
@@ -112,7 +119,7 @@ team_members: # Name is the only required field for team members.
     image: "gokul.jpg" 
   - name: "Jack Teoh"
     employer: "Organizer Role - Volunteers / Eventbrite Registration"
-    role: "Snowfall Technologies LLC"
+    role: "Vizient, Inc."
     bio: "Jack Teoh started his DevOps journey by actively volunteering for DevOpsDays Austin since 2015 and participates in multiple user group in the DevOps space. He also started volunteering for DevOpsDays Dallas when it was just starting in 2016, then become one of the core local organizer. He enjoys helping out both at DevOpsDays Austin and DevOpsDays Dallas, because he gets to meet and interact with people who are liked minded sharing a common interest which is DevOps."
     twitter: "jaxteoh"
     linkedin: "https://www.linkedin.com/in/jackteoh/"
@@ -140,28 +147,22 @@ team_members: # Name is the only required field for team members.
 #   website:
 #   github:
     image: "roger.jpg"
-  - name: "Charles Humphrey"
-    role: ""
-    employer: "Organizer Role - Backup Leadership Summit"
-    bio: "Charles is a senior technology leader with extensive experience designing and implementing business-focused IT strategies that drive organizational transformation. He can provide you advice based on his proven expertise in the design, development, delivery, and integration of emerging technologies and enterprise applications for stakeholders in the US and International markets. 
-<br><br>
-Throughout his career, he has provided strategic direction to meet organizational objectives and facilitated long-term gains in revenue, product development, and market leadership through innovative technology solutions. Additionally, he possess a record of building and leading high-performance teams that execute on global business strategies and customized solutions for complex business challenges."
-    twitter: ""
-    linkedin: "https://www.linkedin.com/in/ryandymek/"
+#  - name: "Charles Humphrey"
+#    role: ""
+#    employer: "Organizer Role - Backup Leadership Summit"
+#    bio: "Charles is a senior technology leader with extensive experience designing and implementing business-focused IT strategies that drive organizational transformation. He can provide you advice based on his proven expertise in the design, development, delivery, and integration of emerging technologies and enterprise applications for stakeholders in the US and International markets. 
+#<br><br>
+#Throughout his career, he has provided strategic direction to meet organizational objectives and facilitated long-term gains in revenue, product development, and market leadership through innovative technology solutions. Additionally, he possess a record of building and leading high-performance teams that execute on global business strategies and customized solutions for complex business challenges."
+#    twitter: ""
+#   linkedin: ""
 #   facebook:
-    website: "http://www.talonmartialarts.com/"
+#   website: "http://www.talonmartialarts.com/"
 #   github:
-    image: "charles.jpg"
-  - name: "Ryan Dymek"
-    role: "Dymek Solutions, Inc."
-    employer: ""
-    bio: ""
-    twitter: "RyanDymek"
-    linkedin: "https://www.linkedin.com/in/ryandymek/"
-#   facebook:
-    website: "https://www.dymekonline.com/"
-#   github:
-    image: "ryan.jpg"
+#   image: "charles.jpg"
+# - name: "Ryan Dymek"
+#   role: "Dymek Solutions, Inc."
+#   employer: ""
+#   bio: ""
 # - name: "Mike Rosado"
 #   employer: "Organizer Role - Website / devopsdays.org Global Core Organizer"
 #   role: "Independent Consultant"
@@ -183,6 +184,17 @@ Throughout his career, he has provided strategic direction to meet organizationa
 #   website: ""
 #   github: ""
     image: "rameshv.jpg"
+  - name: "Scott Purgerson"
+#   employer: "Organizer Role - "
+    role: "Automation Anywhere"
+#   bio: ""
+    twitter: "PurgersonScott"
+    linkedin: "https://www.linkedin.com/in/scott-purgerson-5858224"
+#   facebook:
+#   website: ""
+#   github: ""
+    image: "scott.jpg"  
+
 # - name: ""
 #   employer: "Organizer Role - "
 #   role: ""
@@ -192,7 +204,7 @@ Throughout his career, he has provided strategic direction to meet organizationa
 #   facebook:
 #   website: ""
 #   github: ""
-#   image: ".jpg"  
+#   image: ".jpg"
 
 organizer_email: "organizers-dallas-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-dallas-2019@devopsdays.org" # Put your proposal email address here
@@ -205,6 +217,79 @@ sponsors:
 #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
+<<<<<<< HEAD
+=======
+  - id: addo
+    level: community
+  - id: ansible-dallas
+    level: community
+  - id: ansible-fw
+    level: community
+  - id: devops-dfw
+    level: community
+  - id: dfwpug
+    level: community
+  - id: dynatrace
+    level: silver
+  - id: stackrox
+    level: gold
+  - id: victorops
+    level: gold
+  - id: liatrio
+    level: silver
+  - id: instana-before-20200127
+    level: silver
+  - id: signalfx
+    level: platinum
+  - id: statefarm
+    level: platinum
+  - id: securecodewarrior
+    level: gold
+  - id: pagerduty-before-20190930
+    level: silver
+  - id: verizon
+    level: gold
+  - id: usaa
+    level: silver
+  - id: logdna
+    level: silver
+  - id: sysdig-before-20200210
+    level: silver
+  - id: chef
+    level: gold
+  - id: rundeck
+    level: gold      
+  - id: azulsystems
+    level: silver
+  - id: circleci
+    level: gold
+  - id: splitio
+    level: gold    
+  - id: newrelic
+    level: gold
+  - id: beyondsoft
+    level: gold    
+  - id: d2iq
+    level: gold
+  - id: vmware
+    level: gold    
+  - id: sonatype
+    level: gold
+  - id: gitlab
+    level: silver
+  - id: awsdeepdives
+    level: community
+  - id: kudo
+    level: community
+  - id: capitalone
+    level: gold
+  - id: capitalone
+    level: coffee 
+  - id: kudelskisecurity-f5
+    level: gold
+  - id: quali
+    level: gold    
+>>>>>>> upstream/master
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -216,6 +301,7 @@ sponsor_levels:
   - id: location_and_diamond
     label: Location & Diamond
     max: 1
+<<<<<<< HEAD
   - id: leadership
     label: Leadership Summit
   - id: b4con
@@ -229,6 +315,19 @@ sponsor_levels:
 #   max: 10
 # - id: workshop
 #   label: Workshop
+=======
+  - id: platinum
+    label: Platinum
+    max: 10
+  - id: gold
+    label: Gold
+    max: 10
+  - id: silver
+    label: Silver
+    max: 10
+  - id: coffee
+    label: Coffee Bar
+>>>>>>> upstream/master
 #   max: 3
 # - id: bronze
 #   label: Bronze
@@ -237,4 +336,209 @@ sponsor_levels:
     label: Media
   - id: community
     label: Community
+<<<<<<< HEAD
     max: 5
+=======
+    max: 10
+
+program:
+  - title: "Registration & Breakfast"
+    type: custom
+    date: 2019-08-20
+    start_time: "08:00"
+    end_time: "08:45"
+  - title: "Intro and Code of Conduct - Mark Saum (Organizer)"
+    type: custom
+    date: 2019-08-20
+    start_time: "08:45"
+    end_time: "09:00"
+  - title: "adrian-cockcroft"
+    type: talk
+    date: 2019-08-20
+    start_time: "09:00"
+    end_time: "09:45"
+  - title: "damon-edwards"
+    type: talk
+    date: 2019-08-20
+    start_time: "09:45"
+    end_time: "10:15"
+  - title: "Break"
+    type: custom
+    date: 2019-08-20
+    start_time: "10:15"
+    end_time: "10:25"
+  - title: "quintessence-anx"
+    type: talk
+    date: 2019-08-20
+    start_time: "10:25"
+    end_time: "10:55"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-08-20
+    start_time: "10:55"
+    end_time: "11:30"
+  - title: "dan-barker"
+    type: talk
+    date: 2019-08-20
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch (catered) | Open Space - Overview"
+    type: custom
+    date: 2019-08-20
+    start_time: "12:00"
+    end_time: "12:45"
+  - title: "liz-fong-jones"
+    type: talk
+    date: 2019-08-20
+    start_time: "12:45"
+    end_time: "13:30"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-08-20
+    start_time: "13:30"
+    end_time: "13:50"
+  - title: "vijay-challa"
+    type: talk
+    date: 2019-08-20
+    start_time: "13:50"
+    end_time: "14:20"  
+  - title: "Open Space - Topic Proposals & Selection"
+    type: open-space
+    date: 2019-08-20
+    start_time: "14:20"
+    end_time: "14:30"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2019-08-20
+    start_time: "14:30"
+    end_time: "15:15"
+  - title: "Break"
+    type: custom
+    date: 2019-08-20
+    start_time: "15:15"
+    end_time: "15:30"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2019-08-20
+    start_time: "15:30"
+    end_time: "16:15"
+  - title: "Show & Tell what will be raffled on the 21st."
+    type: custom
+    date: 2019-08-20
+    start_time: "16:15"
+    end_time: "16:20"
+  - title: "Close Day & Logistics"
+    type: custom
+    date: 2019-08-20
+    start_time: "16:20"
+    end_time: "16:30"
+  - title: "Social Networking - Happy Hour"
+    type: custom
+    date: 2019-08-20
+    start_time: "16:30"
+    end_time: "19:00"
+
+  - title: "Registration & Breakfast"
+    type: custom
+    date: 2019-08-21
+    start_time: "08:00"
+    end_time: "08:45"
+  - title: "Welcome - Mark Andersen (Organizer)"
+    type: custom
+    date: 2019-08-21
+    start_time: "08:45"
+    end_time: "09:00"
+  - title: "ross-clanton"
+    type: talk
+    date: 2019-08-21
+    start_time: "09:00"
+    end_time: "09:45"
+  - title: "derek-weeks"
+    type: talk
+    date: 2019-08-21
+    start_time: "09:45"
+    end_time: "10:15"
+  - title: "Break"
+    type: custom
+    date: 2019-08-21
+    start_time: "10:15"
+    end_time: "10:30"  
+  - title: "crux-conception"
+    type: talk
+    date: 2019-08-21
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "Ignite Talks"
+    type: ignite
+    date: 2019-08-21
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "dana-finster"
+    type: talk
+    date: 2019-08-21
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch (catered) | Open Space - Overview"
+    type: custom
+    date: 2019-08-21
+    start_time: "12:00"
+    end_time: "12:45"
+  - title: "michael-nygard"
+    type: talk
+    date: 2019-08-21
+    start_time: "12:45"
+    end_time: "13:30"
+  - title: "Open Space - Topic Proposals & Selection"
+    type: open-space
+    date: 2019-08-21
+    start_time: "13:30"
+    end_time: "13:45"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2019-08-21
+    start_time: "13:45"
+    end_time: "14:30"
+  - title: "Break"
+    type: custom
+    date: 2019-08-21
+    start_time: "14:30"
+    end_time: "14:45"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2019-08-21
+    start_time: "14:45"
+    end_time: "15:30"
+  - title: "SPEAKER DISCUSSION PANEL (Click here for video)"
+    type: custom
+    date: 2019-08-21
+    start_time: "15:30"
+    end_time: "16:15"
+    custom_url: "https://youtu.be/zlwOBFHT4X8"
+  - title: "Organizers Recognition"
+    type: custom
+    date: 2019-08-21
+    start_time: "16:15"
+    end_time: "16:20"  
+  - title: "Closing, Raffle Giveaway, & Farewell"
+    type: custom
+    date: 2019-08-21
+    start_time: "16:20"
+    end_time: "17:00"
+
+ignites:
+#  - title: "ignite-talks"
+#    date: 2019-08-21
+  - title: "jj-asghar"
+    date: 2019-08-21
+  - title: "bjorn-edwin"
+    date: 2019-08-21
+  - title: "ian-holmes"
+    date: 2019-08-21
+  - title: "farrah-campbell"
+    date: 2019-08-21
+  - title: "steve-shangguan"
+    date: 2019-08-21
+  - title: "aaron-mell"
+    date: 2019-08-21
+
+>>>>>>> upstream/master

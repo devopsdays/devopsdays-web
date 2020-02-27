@@ -39,7 +39,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: silver
   - id: extrahop
     level: silver
-  - id: pagerduty
+  - id: pagerduty-before-20190930
     level: silver
   - id: wavefront
     level: silver

@@ -85,7 +85,7 @@ sponsors:
     level: silver    
   - id: gov-digital
     level: silver
-  - id: sysdig
+  - id: sysdig-before-20200210
     level: silver
   - id: mq
     level: charity
@@ -109,7 +109,7 @@ sponsors:
     level: gold 
   - id: ticketmaster
     level: bronze 
-  - id: rancher
+  - id: rancher-before-20190812
     level: bronze 
   - id: elastic
     level: bronze 
@@ -117,7 +117,7 @@ sponsors:
     level: bronze
   - id: microsoft
     level: gold
-  - id: oreilly
+  - id: oreilly-before-20190725
     level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

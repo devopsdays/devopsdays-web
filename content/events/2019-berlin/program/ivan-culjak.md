@@ -1,0 +1,7 @@
++++
+Title = "Workshop: Provisioning and deploying to serverless"
+Type = "talk"
+Speakers = ["ivan-culjak"]
++++
+
+Fear not… whatever you can do by using Infrastructure as Code can be done by hand through a GUI, given enough time… but there are probably better things to spend time on. There is plenty Infrastructure as Code solutions out there, but there’s a relatively „new kid on the block“ that plays extremely well with serverless and allows you to perform wonders in minutes/hours rather than days. Please welcome Pulumi. Serverless stuff is charged per usage so there’s no penalty if you’ve deployed five function apps instead of just one. The reason why we need five or fifty or five hundred of them are the limits on how fast, and how big can your function app scale. Pulumi will take care of that, but we also need to deploy some software to those functions / containers / PaaS / etc. Not only that, but before deploying we need to fetch connection strings for DBs / storage / cache that we’ve just provisioned, and that’s where the fun start. Trust me, you don’t want to set up a release definition for five hundred function apps by hand, especially if they’re scattered across multiple clouds. That’s where the fun starts and where you start connecting Pulumi with some scripts that handle you CI/CD. My tool of preference is Azure DevOps, and you’re welcome to join this half demo half mumbling talk.

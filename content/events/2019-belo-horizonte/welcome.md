@@ -77,7 +77,7 @@ Description = "DevOpsDays Belo Horizonte 2019"
     <strong>Contato</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="contact" text="Entre em contato com os organizadores" >}}
+    {{< event_link page="contact" text="Entre em contato com os organizadores e acesse nossas redes sociais" >}}
   </div>
 </div>
 

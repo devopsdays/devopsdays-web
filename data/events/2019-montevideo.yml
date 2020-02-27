@@ -18,11 +18,11 @@ cfp_open: "true"
 cfp_link: "https://www.papercall.io/devopsdaysmvd2019" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2019-06-01T00:00:00-03:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2019-08-20T00:00:00-03:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://redtickets.uy/servlet/com.redtickets2.verevento?1711" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -35,9 +35,15 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: propose
     icon: "microphone"
   - name: location
+<<<<<<< HEAD
  # - name: registration
  # - name: program
  # - name: speakers
+=======
+  - name: registration
+  - name: program
+  - name: speakers
+>>>>>>> upstream/master
   - name: sponsor
   - name: logo contest
     icon: "pen"
@@ -123,6 +129,16 @@ sponsors:
   - id: pyxis
     level: platinum
 
+  - id: lenovo
+    level: platinum
+
+  - id: oracle-linux-before-20190829
+    level: platinum
+
+  - id: oracle-mysql
+    level: platinum
+
+
 # Oro
 # ------------------------------------------------------------------------------
   - id: jpos
@@ -133,11 +149,64 @@ sponsors:
     level: gold
   #  url: "http://netascom.com/" # Use this if you need to over-ride a sponsor URL.
 
+<<<<<<< HEAD
+=======
+  - id: elastic
+    level: gold
+
+  - id: redhat
+    level: gold
+
+  - id: sabre
+    level: gold
+
+  - id: atvmware
+    level: gold
+
+>>>>>>> upstream/master
 # Plata
 # ------------------------------------------------------------------------------
   - id: arkano
     level: silver
 
+<<<<<<< HEAD
+=======
+  - id: overactive
+    level: silver
+
+  - id: pedidosya
+    level: silver
+
+  - id: genexus
+    level: silver
+
+  - id: stb
+    level: silver
+
+  - id: accsa
+    level: silver
+
+  - id: netlabs
+    level: silver
+
+  - id: igv
+    level: silver
+
+
+# Bronze
+# ------------------------------------------------------------------------------
+  - id: deloitte
+    level: bronze
+    url: http://www.deloitte.com/uy
+
+  - id: intrados
+    level: bronze
+
+  - id: nexa
+    level: bronze
+
+
+>>>>>>> upstream/master
 # Comunidad
 # ------------------------------------------------------------------------------
   - id: cuti
@@ -153,18 +222,52 @@ sponsors:
     level: community
 
 
+<<<<<<< HEAD
 
+=======
+  - id: testinguy
+    level: community
+
+  - id: auy
+    level: community
+
+  - id: stickermule
+    level: sticker
+    url: "https://www.stickermule.com/supports/devopsdaysmvd"
+
+# Social Event
+# ------------------------------------------------------------------------------
+  - id: microsoft
+    level: socialevent
+
+# Media
+# ------------------------------------------------------------------------------
+  - id: montevideocomm
+    level: media
+
+  - id: deployandome
+    level: media
+>>>>>>> upstream/master
+
+
+# Social Wall
+# ------------------------------------------------------------------------------
+  - id: idatha
+    level: socialwall
 
 
 # TBD sponsors
 # ------------------------------------------------------------------------------
   #- id: at-uruguay
+<<<<<<< HEAD
   #- id: arnaldocastro
   #- id: elastic
   #- id: microsoft
   #- id: deloitte
   #- id: dlocal
   #- id: redhat
+=======
+>>>>>>> upstream/master
   #- id: lenovo
   #- id: mercadolibre
   #- id: arkano
@@ -191,3 +294,237 @@ sponsor_levels:
   - id: community
     label: Community
     # max: 0 # This is the same as omitting the max limit.
+<<<<<<< HEAD
+=======
+  - id: socialevent
+    label: Social Event
+  - id: sticker
+    label: Sticker
+  - id: media
+    label: Media
+  - id: socialwall
+    label: Social Wall
+
+# Program
+# ------------------------------------------------------------------------------
+
+# Day 1
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2019-08-21
+    start_time: "08:00"
+    end_time: "09:00"
+
+  - title: "opening"
+    type: talk
+    date: 2019-08-21
+    start_time: "09:00"
+    end_time: "09:40"
+
+  - title: "Sponsors"
+    type: sponsor
+    date: 2019-08-21
+    start_time: "09:40"
+    end_time: "09:50"
+
+  - title: "donovan-brown"
+    type: talk
+    date: 2019-08-21
+    start_time: "09:50"
+    end_time: "10:30"
+
+  - title: "Coffee Break - Sponsor Hall"
+    type: break
+    date: 2019-08-21
+    start_time: "10:30"
+    end_time: "11:15"
+
+  - title: "ernesto-r-corona"
+    type: talk
+    date: 2019-08-21
+    start_time: "11:15"
+    end_time: "11:45"
+
+  - title: "federico-dadalt"
+    type: talk
+    date: 2019-08-21
+    start_time: "11:45"
+    end_time: "12:15"
+
+  - title: "fernando-maidana"
+    type: talk
+    date: 2019-08-21
+    start_time: "12:15"
+    end_time: "12:45"
+
+  - title: "Ignites - Sesión 1"
+    type: ignite
+    date: 2019-08-21
+    start_time: "12:50"
+    end_time: "13:00"
+
+  - title: "Lunch"
+    type: lunch
+    date: 2019-08-21
+    start_time: "13:00"
+    end_time: "14:30"
+
+  - title: "andres-plaza"
+    type: talk
+    date: 2019-08-21
+    start_time: "14:30"
+    end_time: "15:00"
+
+  - title: "adrian-toledo"
+    type: talk
+    date: 2019-08-21
+    start_time: "15:00"
+    end_time: "15:30"
+
+  - title: "Coffee Break - Sponsor Hall"
+    type: break
+    date: 2019-08-21
+    start_time: "15:30"
+    end_time: "16:15"
+
+  - title: "ricardo-medina"
+    type: talk
+    date: 2019-08-21
+    start_time: "16:15"
+    end_time: "16:45"
+
+  - title: "bruno-gurgel"
+    type: talk
+    date: 2019-08-21
+    start_time: "16:45"
+    end_time: "17:15"
+
+  - title: "shlomo-swidler"
+    type: talk
+    date: 2019-08-21
+    start_time: "17:15"
+    end_time: "18:00"
+
+  - title: "Sponsor Hall"
+    type: sponsor
+    date: 2019-08-21
+    start_time: "18:00"
+    end_time: "18:30"
+
+
+# Day 2
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2019-08-22
+    start_time: "08:00"
+    end_time: "09:00"
+
+  - title: "karthik-gaekwad"
+    type: talk
+    date: 2019-08-22
+    start_time: "09:00"
+    end_time: "09:40"
+
+  - title: "Sponsors"
+    type: sponsor
+    date: 2019-08-22
+    start_time: "09:40"
+    end_time: "10:00"
+
+  - title: "abel-quintana-lopez"
+    type: talk
+    date: 2019-08-22
+    start_time: "10:00"
+    end_time: "10:30"
+
+  - title: "Coffee Break - Sponsor Hall"
+    type: break
+    date: 2019-08-22
+    start_time: "10:30"
+    end_time: "11:15"
+
+  - title: "camila-serena"
+    type: talk
+    date: 2019-08-22
+    start_time: "11:15"
+    end_time: "11:45"
+
+  - title: "gabriel-moskovicz"
+    type: talk
+    date: 2019-08-22
+    start_time: "11:45"
+    end_time: "12:15"
+
+  - title: "gaston-milano"
+    type: talk
+    date: 2019-08-22
+    start_time: "12:15"
+    end_time: "12:45"
+
+  - title: "Lunch"
+    type: lunch
+    date: 2019-08-22
+    start_time: "13:00"
+    end_time: "14:30"
+
+  - title: "gonzalo-lopez-grassi"
+    type: talk
+    date: 2019-08-22
+    start_time: "14:30"
+    end_time: "15:00"
+
+  - title: "enrique-carbonell"
+    type: talk
+    date: 2019-08-22
+    start_time: "15:00"
+    end_time: "15:30"
+
+  - title: "Coffee Break - Sponsor Hall"
+    type: break
+    date: 2019-08-22
+    start_time: "15:30"
+    end_time: "16:00"
+
+  - title: "Open Spaces"
+    type: open-space
+    date: 2019-08-22
+    start_time: "16:00"
+    end_time: "16:45"
+
+  - title: "Ignites - Sesión 2"
+    type: ignite
+    date: 2019-08-22
+    start_time: "16:00"
+    end_time: "16:15"
+
+  - title: "guillermo-chao"
+    type: talk
+    date: 2019-08-22
+    start_time: "16:45"
+    end_time: "17:15"
+
+  - title: "jessica-deen"
+    type: talk
+    date: 2019-08-22
+    start_time: "17:15"
+    end_time: "18:00"
+
+  - title: "Closing"
+    type: custom
+    date: 2019-08-22
+    start_time: "18:00"
+    end_time: "18:15"
+
+ignites:
+  - title: "gaston-larranaga"
+    date: 2019-08-21
+  - title: "rodolfo-pilas"
+    date: 2019-08-21
+  - title: "lucia-bustamante"
+    date: 2019-08-22
+  - title: "maemilia-irrazabal"
+    date: 2019-08-22
+  - title: "johana-rios"
+    date: 2019-08-22
+>>>>>>> upstream/master

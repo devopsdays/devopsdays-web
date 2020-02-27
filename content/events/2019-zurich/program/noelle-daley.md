@@ -8,8 +8,8 @@ title = "What Colocated Teams Can Learn From Remote Teams"
 type = "talk"
 speakers = ["noelle-daley"]
 youtube = ""
-vimeo = ""
-speakerdeck = ""
+vimeo = "344515972"
+speakerdeck = "https://speakerdeck.com/noelledaley/what-colocated-teams-can-learn-from-remote-teams"
 slideshare = ""
 slides = ""
 +++

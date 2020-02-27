@@ -2,13 +2,22 @@
 # repository branch will inherit these settings.
 [context.production]
  command = "bin/netlify-production.sh"
- publish = "dist/"
+ publish = "public/"
 
  [context.deploy-preview]
   command = "bin/netlify.sh"
   publish = "public/"
+  skip_processing = true
+
+ [context.branch-deploy]
+  command = "bin/netlify.sh"
+  publish = "public/"
+  skip_processing = true
+
+  
 
 [context.production.environment]
+<<<<<<< HEAD
    HUGO_VERSION = "0.53"
 
 [context.deploy-preview.environment]
@@ -16,3 +25,12 @@
 
 [context.branch-deploy.environment]
   HUGO_VERSION = "0.53"
+=======
+   HUGO_VERSION = "0.64.1"
+
+[context.deploy-preview.environment]
+  HUGO_VERSION = "0.64.1"
+
+[context.branch-deploy.environment]
+  HUGO_VERSION = "0.64.1"
+>>>>>>> upstream/master

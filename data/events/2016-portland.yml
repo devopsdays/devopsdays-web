@@ -1,17 +1,23 @@
 name: 2016-portland # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: 2016 # The year of the event. Make sure it is in quotes.
 city: "Portland" # The city name of the event. Capitalize it.
+<<<<<<< HEAD
 friendly: "2016-portland" # Four digit year and the city name in lower-case. Don't forget the dash!
 status: "past" # Options are "past" or "current".
 startdate: 2016-08-09 # The start date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
 enddate: 2016-08-10 # The end date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
+=======
+event_group: "Portland, OR"
+
+startdate: 2016-08-09T00:00:00-07:00
+enddate: 2016-08-10T23:59:59-07:00
+>>>>>>> upstream/master
 cfp_date_start: 2016-03-15
 cfp_date_end: 2016-05-23
 cfp_date_announce: 2016-07-01
 coordinates: "45.528562, -122.663028" # The corrodinates of your venue. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "The Oregon Convention Center" # The name of your location
 nav_elements:
- 
   - name: location
   - name: registration
     url: https://devopsdayspdx2016.busyconf.com/bookings/new
@@ -78,7 +84,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: sumologic-before-20181203
     level: gold
-  - id: pagerduty
+  - id: pagerduty-before-20190930
     level: gold
   - id: pure-storage-before-20190114
     level: gold
@@ -104,7 +110,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: community
   - id: recompiler
     level: community
-  - id: oreilly
+  - id: oreilly-before-20190725
     level: community
   - id: bsidespdx
     level: community

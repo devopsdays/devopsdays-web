@@ -102,7 +102,7 @@ sponsors:
     level: gold
   - id: mongodb
     level: gold
-  - id: pagerduty
+  - id: pagerduty-before-20190930
     level: gold
   - id: puppet
     level: gold
@@ -112,7 +112,7 @@ sponsors:
     level: silver
   - id: appdynamics-before-20180316
     level: silver
-  - id: instana
+  - id: instana-before-20200127
     level: silver
   - id: signalfx-before-20180508
     level: silver

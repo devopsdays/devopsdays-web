@@ -237,6 +237,15 @@ a.sponsor-cta {
   // color: #fff;
 }
 
+img.sponsor {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 200x;
+  height: 200x;
+   max-width: 100%;
+   height: auto;
+}
+
 /* Homepage */
 
 .homepage-grid-col {
@@ -306,121 +315,6 @@ div.panel {
     transition: max-height 0.2s ease-out;
 }
 
-// old googlemaps.css content
-.labels {
-  color: black;
-  background-color: white;
-  font-family: "Lucida Grande", "Arial", sans-serif;
-  font-size: 8px;
-  font-weight: bold;
-  text-align: center;
-
-  border: 1px solid gray;
-  white-space: nowrap;
-}
-
-// from bootstrap-sortable
-table.sortable span.sign {
-    display: block;
-    position: absolute;
-    top: 50%;
-    right: 5px;
-    font-size: 12px;
-    margin-top: -10px;
-    color: #bfbfc1;
-}
-
-table.sortable th:after {
-    display: block;
-    position: absolute;
-    top: 50%;
-    right: 5px;
-    font-size: 12px;
-    margin-top: -10px;
-    color: #bfbfc1;
-}
-
-table.sortable th.arrow:after {
-    content: '';
-}
-
-table.sortable span.arrow, span.reversed, th.arrow.down:after, th.reversedarrow.down:after, th.arrow.up:after, th.reversedarrow.up:after {
-    border-style: solid;
-    border-width: 5px;
-    font-size: 0;
-    border-color: #ccc transparent transparent transparent;
-    line-height: 0;
-    height: 0;
-    width: 0;
-    margin-top: -2px;
-}
-
-    table.sortable span.arrow.up, th.arrow.up:after {
-        border-color: transparent transparent #ccc transparent;
-        margin-top: -7px;
-    }
-
-table.sortable span.reversed, th.reversedarrow.down:after {
-    border-color: transparent transparent #ccc transparent;
-    margin-top: -7px;
-}
-
-    table.sortable span.reversed.up, th.reversedarrow.up:after {
-        border-color: #ccc transparent transparent transparent;
-        margin-top: -2px;
-    }
-
-table.sortable span.az:before, th.az.down:after {
-    content: "a .. z";
-}
-
-table.sortable span.az.up:before, th.az.up:after {
-    content: "z .. a";
-}
-
-table.sortable th.az.nosort:after, th.AZ.nosort:after, th._19.nosort:after, th.month.nosort:after {
-    content: "..";
-}
-
-table.sortable span.AZ:before, th.AZ.down:after {
-    content: "A .. Z";
-}
-
-table.sortable span.AZ.up:before, th.AZ.up:after {
-    content: "Z .. A";
-}
-
-table.sortable span._19:before, th._19.down:after {
-    content: "1 .. 9";
-}
-
-table.sortable span._19.up:before, th._19.up:after {
-    content: "9 .. 1";
-}
-
-table.sortable span.month:before, th.month.down:after {
-    content: "jan .. dec";
-}
-
-table.sortable span.month.up:before, th.month.up:after {
-    content: "dec .. jan";
-}
-
-table.sortable>thead th:not([data-defaultsort=disabled]) {
-    cursor: pointer;
-    position: relative;
-    top: 0;
-    left: 0;
-}
-
-table.sortable>thead th:hover:not([data-defaultsort=disabled]) {
-    background: #efefef;
-}
-
-table.sortable>thead th div.mozilla {
-    position: relative;
-}
-
 // speaker page
 .speaker-page {
   font-family: 'Roboto', sans-serif;
@@ -436,6 +330,14 @@ h3.speaker-page {
   font-size: 1.5em;
   font-weight: 300;
   text-transform: capitalize;
+}
+img.speaker-page {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 600px;
+  height: 600px;
+  max-width: 100%;
+  object-fit: cover;
 }
 
 .speaker-bio-talks {
@@ -461,6 +363,10 @@ h3.speakers-page {
 img.speakers-page {
   margin-top: 20px;
   margin-bottom: 20px;
+  width: 300px;
+  height: 300px;
+  max-width: 100%;
+  object-fit: cover;
 }
 
 // talk page
@@ -514,7 +420,7 @@ a:hover.welcome-page-masthead-link {
   text-decoration: none;
 }
 
-.welecome-page-masthead-venue {
+.welcome-page-masthead-venue {
   font-size: 1.2em;
 
 }
@@ -547,6 +453,16 @@ a:hover.welcome-page-masthead-link {
 
 .organizer-card {
   padding-bottom: 20px;
+}
+
+img.organizer-image {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 300px;
+  height: 300px;
+  max-width: 100%;
+  object-fit: cover;
+  // height: auto;
 }
 
 .event-page-nav-home{

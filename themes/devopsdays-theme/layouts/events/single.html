@@ -5,7 +5,7 @@
 </div>
 <div class = "row">
   <div class = "col-md-12">
-    <h2>Future</h2>
+    <h2>Upcoming</h2>
   </div>
 </div>
 <div class = "row">
@@ -17,8 +17,8 @@
         {{- $.Scratch.Set "year" (dateFormat "2006" .startdate) -}}
         {{- $.Scratch.Set "year-displayed" "false" -}}
       {{- end -}}
-      {{- if ne ($.Scratch.Get "month") (dateFormat "January" .startdate ) -}}
-        {{- $.Scratch.Set "month" (dateFormat "January" .startdate ) -}}
+      {{- if ne ($.Scratch.Get "month") (dateFormat "January 2006" .startdate ) -}}
+        {{- $.Scratch.Set "month" (dateFormat "January 2006" .startdate ) -}}
         {{- $.Scratch.Set "month-displayed" "false" -}}
       {{- end -}}
       {{- if ne ($.Scratch.Get "month-displayed") "true" -}}
@@ -26,7 +26,7 @@
         </div>
       {{- end -}}
       <div class = "col-md-6 col-lg-3 events-page-col">
-        <h4 class="events-page-months">{{ dateFormat "January" .startdate }}</h4>
+        <h4 class="events-page-months">{{ dateFormat "January 2006" .startdate }}</h4>
         {{- $.Scratch.Set "month-displayed" "true" -}}
         {{- $.Scratch.Set "close-tag" "true" -}}
       {{- end -}}

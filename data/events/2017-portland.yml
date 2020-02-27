@@ -2,7 +2,8 @@ name: "2017-portland" # The name of the event. Four digit year with the city nam
 year: "2017" # The year of the event. Make sure it is in quotes.
 city: "Portland" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdayspdx"
-friendly: "2017-portland"
+event_group: "Portland, OR"
+
 
 # All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
 startdate: 2017-08-01 # The start date of your event. Leave blank if you don't have a venue reserved yet.
@@ -106,7 +107,7 @@ sponsors:
       level: gold
     - id: opsgenie
       level: gold
-    - id: nutanix
+    - id: nutanix-before-20200127
       level: gold
     - id: extrahop
       level: gold
@@ -128,7 +129,7 @@ sponsors:
       level: bronze
     - id: thoughtworks-gocd-before-20190213
       level: silver
-    - id: pagerduty
+    - id: pagerduty-before-20190930
       level: gold
     - id: newrelic
       level: gold

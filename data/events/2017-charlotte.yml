@@ -70,7 +70,7 @@ sponsors:
     level: silver
   - id: netapp
     level: silver
-  - id: honeycomb
+  - id: honeycomb-before-20200129
     level: silver
   - id: actifio
     level: silver

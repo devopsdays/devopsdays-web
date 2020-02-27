@@ -4,6 +4,7 @@ Type = "event"
 Description = "Sponsor devopsdays Minneapolis 2019"
 +++
 
+<<<<<<< HEAD
 We greatly value sponsors for this community event. <s>Platinum</s><i> (sold out)</i>, Gold, and Silver sponsorship packages are detailed in our <a href="https://assets.devopsdays.org/events/2019/minneapolis/devopsdays-minneapolis-2019-prospectus.pdf">prospectus</a>. If you are interested in sponsoring, please fill out our <a href="https://docs.google.com/forms/d/e/1FAIpQLScKW7QgmFrb7_1q0QbUxqrcy5AbBFL9AmlkmRlfEfpaz60eFA/viewform">sponsorship form</a> or drop us an email at [{{< email_organizers >}}].
 
 Additional à la carte sponsorships are available:
@@ -72,3 +73,7 @@ Sponsors have the opportunity to have short elevator pitches during the program 
 </div>
 
 <hr/>
+=======
+Sponsorships have closed for our 2019 event. Please consider sponsoring other cities, and we look forward to 2020!
+
+>>>>>>> upstream/master

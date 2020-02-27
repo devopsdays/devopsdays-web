@@ -158,7 +158,7 @@ sponsors:
     level: silver
   - id: signal-before-20180815
     level: silver
-  - id: checkmarx
+  - id: checkmarx-before-20190621
     level: gold
   - id: redhat
     level: gold
@@ -170,7 +170,7 @@ sponsors:
     level: gold
   - id: vividseats
     level: gold
-  - id: pagerduty
+  - id: pagerduty-before-20190930
     level: gold
   - id: appdynamics-before-20180316
     level: gold

@@ -4,7 +4,10 @@ Type = "event"
 Description = "Proponha uma talk para o DevOpsDays Belo Horizonte 2019"
 +++
 
-<center>Link para submissões: https://www.papercall.io/devopsdaysbh</center>
+# <center>Link para submissões: https://www.papercall.io/devopsdaysbh2019</center>
+
+<center>Link para submissões: EM BREVE!</center>
+
 
 <hr>
 

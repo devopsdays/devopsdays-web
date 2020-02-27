@@ -69,7 +69,7 @@ sponsors:
     level: gold
   - id: signifai
     level: gold
-  - id: nutanix
+  - id: nutanix-before-20200127
     level: gold
   - id: linode
     level: gold
@@ -85,7 +85,7 @@ sponsors:
     level: gold
   - id: capitalone
     level: gold
-  - id: checkmarx
+  - id: checkmarx-before-20190621
     level: gold
   - id: cloudbolt
     level: gold

@@ -8,9 +8,9 @@ title = "Used and Abused Figures of DevOps"
 type = "talk"
 speakers = ["johan-abildskov"]
 youtube = ""
-vimeo = ""
+vimeo = "344514964"
 speakerdeck = ""
-slideshare = ""
+slideshare = "https://www.slideshare.net/JohanAbildskov/misused-figures-of-dev-ops"
 slides = ""
 +++
 

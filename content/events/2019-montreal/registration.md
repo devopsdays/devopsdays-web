@@ -1,5 +1,5 @@
 +++
-Title = "Registration"
+Title = "Registration / Inscription"
 Type = "event"
 Description = "Registration for devopsdays Montreal 2019"
 +++

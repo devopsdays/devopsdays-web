@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Fight, Flight, or Freeze — Releasing Organizational Trauma"
 Type = "talk"
 Speakers = ["matty-stratton"]
+notist = "mattstratton/z91QcD"
 +++
 
 When humans are faced with a traumatic experience, our brains kick in with survival mechanisms. These mechanisms are the familiar fight or flight response, but can also include the freeze response - which occurs when we are terrified or feel that there is no chance of escape.

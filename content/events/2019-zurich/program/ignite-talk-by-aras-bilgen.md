@@ -8,8 +8,8 @@ title = "Why do we want to introduce DevOps?"
 type = "talk"
 speakers = ["aras-bilgen"]
 youtube = ""
-vimeo = ""
-speakerdeck = ""
+vimeo = "344504960"
+speakerdeck = "https://speakerdeck.com/dodzh/using-design-methods-to-establish-healthy-devops-practices-aras-bilgen"
 slideshare = ""
 slides = ""
 +++

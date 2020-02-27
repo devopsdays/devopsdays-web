@@ -2,6 +2,7 @@ name: "2019-chattanooga" # The name of the event. Four digit year with the city 
 year: "2019" # The year of the event. Make sure it is in quotes.
 city: "Chattanooga" # The displayed city name of the event. Capitalize it.
 event_twitter: "ChaDevOpsDays" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+event_logo: "logo-square.jpg"
 description: "Devopsdays is returning to Chattanooga, Tennessee!" # Edit this to suit your preferences
 ga_tracking_id: "UA-122945114-1" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
@@ -33,13 +34,20 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Chattanooga" # Defaults to city, but you can make it the venue name.
 #
-location_address: "1150 Carter St, Chattanooga, TN 37402" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "1201 Broad St, Chattanooga, TN 37402" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
+<<<<<<< HEAD
  # - name: propose
  # - name: registration
  # - name: program
  # - name: speakers
+=======
+#  - name: propose
+  - name: registration
+  - name: program
+  - name: speakers
+>>>>>>> upstream/master
   - name: sponsor
   - name: location
   - name: contact
@@ -55,10 +63,13 @@ team_members: # Name is the only required field for team members.
     image: "alex-herweyer.jpg"
     linkedin: "https://www.linkedin.com/in/alex-herweyer-93374519"
     github: "alexherweyer"
+<<<<<<< HEAD
   - name: "Rob Scott"
     image: "rob-scott.jpg"
     twitter: "robertjscott"
     github: "robscott"
+=======
+>>>>>>> upstream/master
   - name: "Chris Hurst"
     image: "chris-hurst.jpg"
   - name: "Aaron Sachs"
@@ -66,6 +77,19 @@ team_members: # Name is the only required field for team members.
     github: "asachs01"
     twitter: "asachs01"
     linkedin: "https://www.linkedin.com/in/asachs01"
+<<<<<<< HEAD
+=======
+  - name: "Taelar Bybee"
+    image: "taelar-bybee.jpg"
+    linkedin: "https://www.linkedin.com/in/taelar-bybee-6b5984176"
+  - name: "Tony Harper"
+    image: "tony-harper.jpg"
+    linkedin: "https://www.linkedin.com/in/trharper/"
+    twitter: "https://twitter.com/agileexplorer"
+  - name: "Jonathan Hoskins"
+    image: "jonathan-hoskins.jpg"
+    
+>>>>>>> upstream/master
 
 organizer_email: "organizers-chattanooga-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-chattanooga-2019@devopsdays.org" # Put your proposal email address here
@@ -73,18 +97,49 @@ proposal_email: "proposals-chattanooga-2019@devopsdays.org" # Put your proposal 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+<<<<<<< HEAD
   - id: samplesponsorname
     level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
+=======
+  - id: appdynamics
+    level: gold
+  - id: tva
+    level: gold
+  - id: bcbst
+    level: gold
+  - id: datadog
+    level: gold
+  - id: chatech
+    level: gold
+  - id: nutanix-before-20200127
+    level: gold
+  - id: redhat-silex
+    level: gold
+  - id: worldwide_technologies_dell
+    level: gold
+  - id: unum
+    level: gold
+  - id: infosystems
+    level: silver
+  - id: saucelabs
+    level: silver
+  - id: compuware
+    level: bronze
+  - id: sensu
+    level: bronze
+  - id: societyofwork
+>>>>>>> upstream/master
     level: community
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
+<<<<<<< HEAD
 #sponsor_levels:
 #  - id: diamond
 #    label: Diamond
@@ -101,3 +156,148 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 #    label: Bronze
 #  - id: community
 #    label: Community
+=======
+sponsor_levels:
+  - id: gold
+    label: Gold
+    max: 8
+  - id: silver
+    label: Silver
+    max: 10
+  - id: bronze
+    label: Bronze
+  - id: community
+    label: Community
+
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2019-11-12T00:00:00-05:00
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2019-11-12T00:00:00-05:00
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "jennifer-davis"
+    type: talk
+    date: 2019-11-12T00:00:00-05:00
+    start_time: "09:15"
+    end_time: "10:00"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-11-12T00:00:00-05:00
+    start_time: "10:00"
+    end_time: "10:05"
+  - title: "michael-jolley"
+    type: talk
+    date: 2019-11-12T00:00:00-05:00
+    start_time: "10:05"
+    end_time: "10:35"
+  - title: "Break"
+    type: custom
+    date: 2019-11-12T00:00:00-05:00
+    start_time: "10:35"
+    end_time: "10:50"
+  - title: "dion-stewart"
+    type: talk
+    date: 2019-11-12T00:00:00-05:00
+    start_time: "10:50"
+    end_time: "11:20"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-11-12T00:00:00-05:00
+    start_time: "11:20"
+    end_time: "11:25"
+  - title: "mike-rothman"
+    type: talk
+    date: 2019-11-12T00:00:00-05:00
+    start_time: "11:25"
+    end_time: "11:55"
+  - title: "Open Space Intro"
+    type: custom
+    date: 2019-11-12T00:00:00-05:00
+    start_time: "11:55"
+    end_time: "12:10"
+  - title: "Lunch"
+    type: custom
+    date: 2019-11-12T00:00:00-05:00
+    start_time: "12:10"
+    end_time: "13:20"
+  - title: "Lightning Talks"
+    type: ignite
+    date: 2019-11-12T00:00:00-05:00
+    start_time: "13:20"
+    end_time: "14:00"
+  - title: "veer-muchandi"
+    type: talk
+    date: 2019-11-12T00:00:00-05:00
+    start_time: "14:00"
+    end_time: "14:35"
+  - title: "Open Space #1"
+    type: custom
+    date: 2019-11-12T00:00:00-05:00
+    start_time: "14:00"
+    end_time: "14:35"
+  - title: "jj-asghar"
+    type: talk
+    date: 2019-11-12T00:00:00-05:00
+    start_time: "14:35"
+    end_time: "15:10"
+  - title: "Open Space #2"
+    type: custom
+    date: 2019-11-12T00:00:00-05:00
+    start_time: "14:35"
+    end_time: "15:10"
+  - title: "Break"
+    type: custom
+    date: 2019-11-12T00:00:00-05:00
+    start_time: "15:10"
+    end_time: "15:25"
+  - title: "james-wen"
+    type: talk
+    date: 2019-11-12T00:00:00-05:00
+    start_time: "15:25"
+    end_time: "15:55"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-11-12T00:00:00-05:00
+    start_time: "15:55"
+    end_time: "16:00"
+  - title: "Sponsor Giveaway"
+    type: custom
+    date: 2019-11-12T00:00:00-05:00
+    start_time: "16:00"
+    end_time: "16:15"
+  - title: "chris-rimondi"
+    type: talk
+    date: 2019-11-12T00:00:00-05:00
+    start_time: "16:15"
+    end_time: "17:00"
+  - title: "Closing Remarks"
+    type: custom
+    date: 2019-11-12T00:00:00-05:00
+    start_time: "17:00"
+    end_time: "17:15"
+  - title: "After Party"
+    type: custom
+    date: 2019-11-12T00:00:00-05:00
+    start_time: "17:30"
+    end_time: "19:00"
+
+ignites:
+- title: summer-kohlhorst
+  date: 2019-11-12T00:00:00-05:00
+- title: jamie-phillips
+  date: 2019-11-12T00:00:00-05:00
+- title: chantee-boykin
+  date: 2019-11-12T00:00:00-05:00
+- title: dave-karow
+  date: 2019-11-12T00:00:00-05:00
+- title: john-cotton
+  date: 2019-11-12T00:00:00-05:00
+- title: TBA
+  date: 2019-11-12T00:00:00-05:00
+  
+>>>>>>> upstream/master

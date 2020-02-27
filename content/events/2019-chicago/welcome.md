@@ -22,7 +22,7 @@ The format of DevOpsDays Chicago includes a single track of 30 minute talks in t
       </a>
     </div>
     <div class = "d-flex p-2">
-      <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="http://www.devopsdayschi.org/linkedin">
+      <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://www.linkedin.com/groups/7052023/">
         <i class="fa fa-linkedin-square fa-lg"></i>&nbsp;&nbsp;&nbsp;Join Our LinkedIn Group
       </a>
     </div>
@@ -79,6 +79,20 @@ The format of DevOpsDays Chicago includes a single track of 30 minute talks in t
         </div>
       </div>
     </div> <!-- end a content element -->
+<<<<<<< HEAD
+=======
+        <div class = "row"><!-- begin a content element -->
+      <div class = "col-md-12">
+      <div class = "row justify-content-center">
+        <div class = "d-flex p-2">
+          <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="/events/2019-chicago/program">
+            <i class="fa fa-book fa-lg"></i>&nbsp;&nbsp;&nbsp;View the Program
+          </a>
+        </div>
+        </div>
+      </div>
+    </div> <!-- end a content element -->
+>>>>>>> upstream/master
 <h2>The DevOps Yak is Back!</h2>
 <img src = "/events/2019-chicago/yak.png" class = "img-fluid">
 
