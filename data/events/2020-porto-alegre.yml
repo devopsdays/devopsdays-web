@@ -146,12 +146,32 @@ sponsors:
     url: "http://afropythonconf.org"
   - id: linuxtips
     level: community
+  - id: devsjavagirl
+    level: community
   - id: 2015-thoughtworks
     level: platinum
   - id: adentro-cloud
     level: bronze
   - id: interop
     level: bronze
+  - id: globotv
+    level: bronze
+    url: "https://www.vempraglobo.com.br"
+  - id: globo
+    level: bronze
+    url: "https://talentos.globo.com"
+  #- id: kinghost
+  #  level: bronze
+  - id: azion
+    level: silver
+  - id: datacentrics
+    level: silver
+  - id: 4linux-2019
+    level: courses
+  - id: alura2020
+    level: courses
+  - id: casadocodigo
+    level: courses
   - id: faculdade-dom-bosco
     level: institutional
 
@@ -175,6 +195,8 @@ sponsor_levels:
     max: 0 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
+  - id: courses
+    label: courses
   - id: community
     label: Community
 
