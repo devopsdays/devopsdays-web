@@ -5,7 +5,7 @@ Description = "Location for Devopsdays Vancouver 2020"
 +++
 
 <p>
-Devopsdays Vancouver will be held in UBC Robson Square, 800 Robson St, Vancouver BC.
+Devopsdays Vancouver will be held in UBC Robson Square, 800 Robson St, Vancouver BC. If you have any accessibility needs, please reach out!
 </p>
 
 <h3>Accessibility Information</h3>
