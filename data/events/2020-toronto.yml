@@ -92,6 +92,39 @@ sponsors:
     level: silver
   - id: dynatrace
     level: gold
+  - id: logzio
+    level: silver
+  - id: elastic
+    level: gold
+  - id: googlecloud
+    level: gold
+  - id: chef
+    level: gold
+  - id: microsoft
+    level: gold
+  - id: vmware
+    level: gold
+  - id: newrelic
+    level: silver
+  - id: redhat
+    level: gold
+  - id: gitlab
+    level: silver
+  - id: splitio
+    level: platinum
+  - id: blendedperspectives
+    level: gold
+  - id: redis-labs
+    level: gold
+  - id: splunk
+    level: gold
+  - id: splunk
+    level: chargingstation
+  - id: deloitte
+    level: gold
+  - id: hashicorp
+    level: gold
+
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -111,6 +144,9 @@ sponsor_levels:
     max: 10
   - id: lanyard
     label: Lanyard
+    max: 1
+  - id: chargingstation
+    label: Charging Station
     max: 1
   - id: lunch
     label: Lunch
