@@ -87,6 +87,8 @@ organizer_email: "los-angeles@devopsdays.org" # Put your organizer email address
 sponsors:
   - id: appdynamics
     level: gold
+  - id: confluent
+    level: gold
   - id: codefresh
     level: gold
   - id: d2iq
