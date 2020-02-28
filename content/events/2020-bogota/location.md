@@ -18,9 +18,7 @@ Description = "Location for devopsdays Bogotá 2020"
 Bogotá, Cundinamarca<br> 
 Colombia<br>(https://goo.gl/maps/nLkZZEf7VuFFcwKLA)<br>
 <strong>Phone:</strong> +57 1 3830300
-<br><br><br><br>
+<br><br>
 <p>
-<!--
-<br>
- Uncomment this only if you have set the coordinates for your location in the config yaml. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html--> 
+<!-- Uncomment this only if you have set the coordinates for your location in the config yaml. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html--> 
 {{< event_map >}} 
