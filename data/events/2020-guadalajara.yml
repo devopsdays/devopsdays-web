@@ -35,8 +35,8 @@ location_address: "Anillo Perif. Sur Manuel Gómez Morín 8585, Santa María Teq
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
-  - name: registration
-    url: "https://ticketcontrol.mx/evento/605"
+  # - name: registration
+  #   url: "https://ticketcontrol.mx/evento/605"
   - name: program
   - name: speakers
   - name: sponsor
