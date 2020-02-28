@@ -112,7 +112,7 @@ organizer_email: "baltimore@devopsdays.org"
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
   ## Platinum
-  - id: tenable
+  - id: tenable-long
     level: platinum
   - id: appdynamics
     level: platinum
