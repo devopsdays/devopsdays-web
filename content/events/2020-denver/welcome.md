@@ -11,7 +11,7 @@ Description = "DevOpsDays Denver 2020"
 
 <div class = "row">
   <p>
-    DevOpsDays is back for its 6th annual event in the Rocky Mountains {{< event_start >}} - {{< event_end >}}! We're excited to return to  {{< event_link page="location" text="Mile High Station">}} again this year.
+    DevOpsDays is back for its 6th annual event in the Rocky Mountains {{< event_start >}} - {{< event_end >}}! Our pre-registration event will be the evening of Sunday, Apr 26, 2020. We're excited to return to  {{< event_link page="location" text="Mile High Station">}} again this year.
   </p>
 </div>
 <div class = "row">
@@ -19,7 +19,8 @@ Description = "DevOpsDays Denver 2020"
     <strong>Dates</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_start >}} - {{< event_end >}}
+    Sunday, Apr 26, 2020 (Pre-registration Party)<br>
+    {{< event_start >}} - {{< event_end >}} (Conference)
   </div>
 </div>
 
