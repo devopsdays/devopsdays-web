@@ -177,6 +177,10 @@ Description = "devopsdays Cáceres 2020"
         <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #418ede; border-color: #96b418edefe6;" href="https://www.facebook.com/events/478212639473527/">
         <i class="fa fa-facebook-square fa-lg"></i>&nbsp;&nbsp;&nbsp;Like Us On Facebook</a>
       </div>
+      <div class = "d-flex p-2">
+        <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #418ede; border-color: #96b418edefe6;" href="https://www.linkedin.com/company/devopsdayscc/">
+        <i class="fa fa-linkedin fa-lg"></i>&nbsp;&nbsp;&nbsp;Like Us On LinkedIn</a>
+      </div>
     </div>
   </div>
 </div>

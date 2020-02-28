@@ -111,7 +111,15 @@ sponsors:
     level: gold
   - id: appdynamics
     level: gold
+  - id: chef
+    level: gold
+  - id: vmware-tanzu
+    level: gold
+  - id: fastly
+    level: gold
   - id: gitlab
+    level: silver
+  - id: armory
     level: silver
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops

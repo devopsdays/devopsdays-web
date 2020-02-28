@@ -49,8 +49,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: conduct
   - name: faq
     url: https://devopsdays.cc/preguntas-frecuentes/
-  - name: volunteer
-    url: https://devopsdays.cc/contacto/
+  # - name: volunteer
+  #   url: https://devopsdays.cc/contacto/
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -122,6 +122,48 @@ sponsors:
 #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 # - id: arresteddevops
 #  level: community
+  - id: kodify
+    level: silver
+  - id: ebury
+    level: silver
+  - id: sngular
+    level: silver
+  - id: deiser
+    level: silver
+  - id: kairosds
+    level: silver
+  - id: homeria
+    level: bronze
+  - id: aspgems
+    level: bronze
+  - id: mobbeel
+    level: bronze
+  - id: wordline
+    level: bronze
+  - id: viewnext
+    level: bronze
+  - id: bitnami
+    level: bronze
+  - id: gloin
+    level: bronze
+  - id: tego
+    level: bronze
+  - id: diputacioncc
+    level: collaborators
+  - id: ayuntamientocc
+    level: collaborators
+  - id: edd
+    level: collaborators
+  - id: jetbrains
+    level: collaborators
+  - id: manning
+    level: collaborators
+  - id: keepcoding
+    level: collaborators
+  - id: conferize
+    level: collaborators
+  - id: unex
+    level: collaborators
   - id: caceresdevops
     level: community
   - id: caceresjs 
@@ -138,42 +180,6 @@ sponsors:
     level: community
   - id: caceresjava
     level: community
-  - id: diputacioncc
-    level: collaborators
-  - id: ayuntamientocc
-    level: collaborators
-  - id: edd
-    level: collaborators
-  - id: jetbrains
-    level: collaborators
-  - id: manning
-    level: collaborators
-  - id: keepcoding
-    level: collaborators
-  - id: homeria
-    level: bronze
-  - id: aspgems
-    level: bronze
-  - id: mobbeel
-    level: bronze
-  - id: wordline
-    level: bronze
-  - id: kodify
-    level: silver
-  - id: ebury
-    level: silver
-# - id: viewnext
-#   level: silver
-# - id: sngular
-#   level: bronze
-  - id: deiser
-    level: silver
-#  - id: kairosds
-#    level: silver
-  - id: bitnami
-    level: bronze
-  - id: gloin
-    level: bronze
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -194,10 +200,10 @@ sponsor_levels:
     max: 15
   - id: bronze
     label: Bronze
-  - id: community
-    label: Community
   - id: collaborators
     label: Collaborators
+  - id: community
+    label: Community
 
 program:
   - title: "Registration/Coffee"

@@ -159,10 +159,28 @@ sponsors:
     level: silver
   - id: codefresh
     level: silver
+  - id: splunk
+    level: gold
+  - id: chef
+    level: silver
+  - id: sysdig
+    level: silver
+  - id: logz
+    level: silver
+  - id: vmware-tanzu
+    level: gold
+  - id: googlecloud
+    level: silver
+  - id: fastly
+    level: silver
+  - id: circleci
+    level: social
   - id: twosigma
     level: captioning
   - id: ssc
     level: lunch
+  - id: kintaba
+    level: breakfast
   - id: arresteddevops
     level: community
 
@@ -204,7 +222,7 @@ program:
     date: "2020-03-03"
     start_time: "09:00"
     end_time: "09:15"
-  - title: "janna-b-dogan"
+  - title: "jaana-b-dogan"
     type: talk 
     date: "2020-03-03"
     start_time: "09:15"
@@ -300,7 +318,7 @@ program:
     date: "2020-03-04"
     start_time: "08:00"
     end_time: "09:00"
-  - title: "tom-limoncelli"
+  - title: "kris-buytaert"
     type: talk
     date: "2020-03-04"
     start_time: "09:00"
@@ -380,7 +398,7 @@ program:
     date: "2020-03-04"
     start_time: "15:45"
     end_time: "16:15"
-  - title: "kris-buytaert"
+  - title: "tom-limoncelli"
     type: talk
     date: "2020-03-04"
     start_time: "16:15"
@@ -399,7 +417,7 @@ ignites:
     date: "2020-03-03"
   - title: "sheanika-crawford"
     date: "2020-03-04"
-  - title: "cullen-taylor"
+  - title: "quintessence-anx"
     date: "2020-03-04"
   - title: "mofizur-rahman"
     date: "2020-03-04"

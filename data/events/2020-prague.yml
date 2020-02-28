@@ -87,25 +87,52 @@ sponsors:
     url: "https://en.careers.epam-czech.cz/"
   - id: gitlab
     level: titanium
+    url: "https://about.gitlab.com/"
   - id: kb
     level: gold
     url: "https://www.kb.cz/"
-  - id: revolgy
-    level: gold
+  - id: citrix
+    level: silver
+    url: "https://www.citrix.com/"
+  - id: flowtraders
+    level: silver
+    url: "https://www.flowtraders.com/"
+  - id: googlecloud
+    level: silver
+    url: "https://cloud.google.com/gcp/"
+  - id: avast
+    level: silver
+    url: "https://www.avast.com/"    
   - id: showmax
     level: bronze
-    url: "https://www.showmax.com"
+    url: "https://www.showmax.com/"   
   - id: elastic
     level: bronze
+    url: "https://www.elastic.co/"      
+  - id: iteraio
+    level: bronze
+    url: "http://itera.io/"   
   - id: digitalocean
     level: starter
     url: "https://www.digitalocean.com/"
+  - id: geekyants
+    level: starter
+    url: "https://geekyants.com/"    
+  - id: vistaprint
+    level: starter
+    url: "https://www.vistaprint.com/"  
   - id: inuits
     level: community
     url: "https://inuits.eu/"
   - id: cloudinfrastack
     level: community
     url: "https://www.cloudinfrastack.com/" 
+  - id: lmc
+    level: community
+    url: "https://www.lmc.eu/en/"
+  - id: czechitas
+    level: community
+    url: "https://www.czechitas.cz/en/"     
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -139,12 +166,12 @@ program:
     date: 2020-03-18
     start_time: "09:00"
     end_time: "09:10"
-  - title: ""
+  - title: "kris-buytaert"
     type: talk
     date: 2020-03-18
     start_time: "09:10"
     end_time: "09:45"
-  - title: ""
+  - title: "malini-valliath"
     type: talk
     date: 2020-03-18
     start_time: "09:45"
@@ -154,50 +181,55 @@ program:
     date: 2020-03-18
     start_time: "10:20"
     end_time: "10:40"
-  - title: ""
+  - title: "edward-pearson"
     type: talk
     date: 2020-03-18
     start_time: "10:40"
     end_time: "11:15"
-  - title: ""
+  - title: "tomas-kubica"
     type: talk
     date: 2020-03-18
-    start_time: "11:15"
-    end_time: "11:50"
+    start_time: "11:20"
+    end_time: "11:55"
   - title: "Lunch"
     type: custom
     date: 2020-03-18
-    start_time: "11:50"
-    end_time: "13:00"
+    start_time: "11:55"
+    end_time: "13:15"
   - title: "Ignites"
     type: ignite
     date: 2020-03-18
-    start_time: "13:00"
-    end_time: "13:30"
+    start_time: "13:15"
+    end_time: "13:45"
   - title: "Open Space Opening"
     type: open-space
     date: 2020-03-18
-    start_time: "13:30"
-    end_time: "14:00"
+    start_time: "13:45"
+    end_time: "14:30"
   - title: "attendee-suggested breakout discussions - Open Space #1"
     type: open-space
     date: 2020-03-18
-    start_time: "14:00"
-    end_time: "14:45"
+    start_time: "14:30"
+    end_time: "15:15"
   - title: "attendee-suggested breakout discussions - Open Space #2"
     type: open-space
     date: 2020-03-18
-    start_time: "15:00"
-    end_time: "15:45"
+    start_time: "15:25"
+    end_time: "16:10"
   - title: "attendee-suggested breakout discussions - Open Space #3"
     type: open-space
     date: 2020-03-18
-    start_time: "16:00"
-    end_time: "16:45"
+    start_time: "16:20"
+    end_time: "17:05"
+  - title: "First day summary"
+    type: custom
+    date: 2020-03-18
+    start_time: "17:10"
+    end_time: "17:20"    
   - title: "Evening event"
     type: custom
     date: 2020-03-18
-    start_time: "17:00"
+    start_time: "17:25"
     end_time: "late"
   - title: "Registration, Breakfast, Sponsors"
     type: custom
@@ -209,12 +241,12 @@ program:
     date: 2020-03-19
     start_time: "09:00"
     end_time: "09:10"
-  - title: ""
+  - title: "vaishali-anand"
     type: talk
     date: 2020-03-19
     start_time: "09:10"
     end_time: "09:45"
-  - title: ""
+  - title: "ivo-klimsa"
     type: talk
     date: 2020-03-19
     start_time: "09:45"
@@ -224,48 +256,65 @@ program:
     date: 2020-03-19
     start_time: "10:20"
     end_time: "10:40"
-  - title: ""
+  - title: "bernd-erk"
     type: talk
     date: 2020-03-19
     start_time: "10:40"
     end_time: "11:15"
-  - title: ""
+  - title: "eduardo-piairo"
     type: talk
     date: 2020-03-19
-    start_time: "11:15"
-    end_time: "11:50"
+    start_time: "11:20"
+    end_time: "11:55"
   - title: "Lunch"
     type: custom
     date: 2020-03-19
-    start_time: "11:50"
-    end_time: "13:00"
+    start_time: "11:55"
+    end_time: "13:15"
   - title: "Ignites"
     type: ignite
     date: 2020-03-19
-    start_time: "13:00"
-    end_time: "13:30"
+    start_time: "13:15"
+    end_time: "13:45"
   - title: "Open Space Opening"
     type: open-space
     date: 2020-03-19
-    start_time: "13:30"
-    end_time: "14:00"
+    start_time: "13:45"
+    end_time: "14:20"
   - title: "attendee-suggested breakout discussions - Open Space #1"
     type: open-space
     date: 2020-03-19
-    start_time: "14:00"
-    end_time: "14:45"
+    start_time: "14:20"
+    end_time: "15:05"
   - title: "attendee-suggested breakout discussions - Open Space #2"
     type: open-space
     date: 2020-03-19
-    start_time: "15:00"
-    end_time: "15:45"
+    start_time: "15:15"
+    end_time: "16:00"
   - title: "attendee-suggested breakout discussions - Open Space #3"
     type: open-space
     date: 2020-03-19
-    start_time: "16:00"
-    end_time: "16:45"
+    start_time: "16:10"
+    end_time: "16:55"
   - title: "Closing Ceremony"
     type: custom
     date: 2020-03-19
-    start_time: "16:45"
-    end_time: "17:00"
+    start_time: "17:00"
+    end_time: "17:15"
+ignites:
+  - title: "axel-kohler"
+    date: 2020-03-18
+  - title: "jiri-brunclik"
+    date: 2020-03-18
+  - title: "philipp-krenn"
+    date: 2020-03-18   
+  - title: "stepan-vrany"
+    date: 2020-03-18
+  - title: "radek-zajic"
+    date: 2020-03-19  
+  - title: "mofizur-rahman"
+    date: 2020-03-19
+  - title: "marek-bartik"
+    date: 2020-03-19  
+  - title: "jakub-kadlubiec"
+    date: 2020-03-19             
