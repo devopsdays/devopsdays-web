@@ -5,6 +5,10 @@ Talk_end_time = "09:45"
 Title = "Packet loss triangulation with a Network Fault Finding System"
 Type = "talk"
 Speakers = ["jose-leitao"]
+Youtube = ""
+Vimeo = ""
+Speakerdeck = ""
+Website = ""
 +++
 Most network monitoring relies upon the network devices themselves providing the signal that they are healthy or unhealthy via syslog messages, SNMP, telemetry or custom APIs.
 

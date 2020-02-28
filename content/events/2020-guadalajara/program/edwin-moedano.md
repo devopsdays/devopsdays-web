@@ -5,6 +5,10 @@ Talk_end_time = "09:45"
 Title = "The Perks of CI/CD automation in version control platforms for building and deploying dockerized applications"
 Type = "talk"
 Speakers = ["edwin-moedano"]
+Youtube = ""
+Vimeo = ""
+Speakerdeck = "https://speakerdeck.com/devopsdaysgdl/cd-automation-in-version-control-platforms-for-building-and-deploying-dockerized-applications"
+Website = ""
 +++
 In times when delivery automation matters, many solutions raise to solve this issue but sometimes these solutions requires time to implement or some background in cloud platforms. In this talk we explore the perks and limitations of implementing version control platforms to simplify CI/CD for anyone
 
