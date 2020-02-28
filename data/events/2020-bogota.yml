@@ -14,7 +14,7 @@ startdate: 2020-08-28T08:00:00-05:00 # The start date of your event. Leave blank
 enddate: 2020-08-29T18:00:00-05:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2020-11-30T17:30:00-05:00 # start accepting talk proposals.
+cfp_date_start: 2020-02-27T17:30:00-05:00 # start accepting talk proposals.
 cfp_date_end: 2020-06-30T23:59:00-05:00 # close your call for proposals.
 cfp_date_announce: 2020-07-15T23:59:00-05:00 # inform proposers of status
 
