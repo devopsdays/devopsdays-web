@@ -91,6 +91,8 @@ sponsors:
     level: silver
   - id: vmware-tanzu
     level: silver
+  - id: logz
+    level: silver
 sponsor_levels:
   - id: gold
     label: Gold
