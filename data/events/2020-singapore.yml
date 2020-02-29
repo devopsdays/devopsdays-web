@@ -84,8 +84,10 @@ team_members: # Name is the only required field for team members.
     employer: "Standard Chartered"
     twitter: "mudrii"
 
-  - name: "Goh Jiaying"
+  - name: "Goh Jia Ying"
     employer: "Amazon Web Services"
+    image: "goh-jia-ying.jpeg"
+    bio: "Jia Ying is a cloud architect at Amazon Web Services cloud architect at Amazon Web Services. She hopes to help grow the DevOps community!"
 
 organizer_email: "singapore@devopsdays.org" # Put your organizer email address here
 proposal_email: "singapore@devopsdays.org" # Put your proposal email address here
