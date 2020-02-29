@@ -181,6 +181,8 @@ sponsors:
     level: silver
   - id: twosigma
     level: captioning
+  - id: lightstep
+    level: silver
   - id: ssc
     level: lunch
   - id: kintaba
