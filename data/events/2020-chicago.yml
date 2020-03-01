@@ -130,6 +130,11 @@ team_members:
     linkedin: "https://www.linkedin.com/in/devopscread/"
     twitter: "cread"
     github: "cread"
+  - name: "Brian Andersen"
+    employer: "NextCapital"
+    bio: "Brian Andersen is a Senior DevOps Engineer at NextCapital.  Prior to joining NextCapital, he made a living as production support for a large, multinational bank and an Atlassian consultant for a small local firm.  In his free time he plays (possibly) an unhealthy amount of games, both of the video and board variety. He also has really enjoys visiting cities with zoos in them."
+    linkedin: "https://www.linkedin.com/in/brian-andersen-9a16587"
+    image: "brian-anderse.jpg"
 
 organizer_email: "chicago@devopsdays.org" # Put your organizer email address here
 proposal_email: "chicago-proposals@devopsdays.org"
