@@ -5,7 +5,7 @@ aliases = ["/events/2020-prague/"]
 Description = "Devopsdays Prague 2020"
 +++
 
-DevOpsDays is coming to Prague in 2020!
+<h1> DevOpsDays Prague is Sold Out! </h1>
 
 <div style="text-align:center;">
   {{< event_logo >}}
