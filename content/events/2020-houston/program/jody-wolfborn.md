@@ -11,3 +11,6 @@ As the practices and benefits of DevOps have spread over the years, we’ve seen
 By including Security and Compliance engineers in the DevOps discussion, organizations can shift security reviews to the left in their development pipeline. By codifying security and compliance regulations, teams can develop a common language and common goals to bring Security into the DevOps age. And by working together toward a common goal, engineers can increase the rate of innovation they’re shipping while simultaneously decreasing the rate of risk!
 
 In this workshop, I’ll walk through using the Chef InSpec language to do this, but the concepts and practices are applicable regardless of the testing Language you’re using.
+
+<b>Location</b>: Studio Movie Grill<br/>
+<b>Required</b>: Laptop, and accounts on GitHub, CircleCI, DockerHub.<br/>
