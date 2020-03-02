@@ -20,20 +20,22 @@ cfp_date_announce:  # inform proposers of status
 
 cfp_link: "https://www.papercall.io/devopsdaysmedellin"
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2020-03-01T08:00:00-06:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2020-07-3-T08:00:00-06:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.ticketopolis.com/medellindevopsdays2020/tickets.aspx" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
-coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Medellín, Colombia, Premium Plaza" # Defaults to city, but you can make it the venue name.
+coordinates: "6.2339363,-75.5887074" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Auditorio del Premium Plaza" # Defaults to city, but you can make it the venue name.
 #
-location_address: "Auditorio del Premium Plaza" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "Carrera 43A (Av. El Poblado) con Calle 30, Medellín, Antioquia, Colombia" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: Spanish
+    url: "https://devopsdays.io/"
  # - name: propose
  # - name: location
  # - name: registration
