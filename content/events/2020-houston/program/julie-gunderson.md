@@ -17,3 +17,4 @@ In this workshop, attendees will:
 * Understand the difference between “blame” and “accountability”
 * Participate in interactive exercises to practice these techniques
 
+<b>Location</b>: Studio Movie Grill<br/>

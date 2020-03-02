@@ -13,4 +13,3 @@ By including Security and Compliance engineers in the DevOps discussion, organiz
 In this workshop, I’ll walk through using the Chef InSpec language to do this, but the concepts and practices are applicable regardless of the testing Language you’re using.
 
 <b>Location</b>: Studio Movie Grill<br/>
-<b>Required</b>: Laptop, and accounts on GitHub, CircleCI, DockerHub.<br/>
