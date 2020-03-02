@@ -20,8 +20,8 @@ cfp_date_announce:  # inform proposers of status
 
 cfp_link: "https://www.papercall.io/devopsdaysmedellin"
 
-registration_date_start: 2020-03-01T08:00:00-06:00 # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: 2020-07-3-T08:00:00-06:00 # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2020-03-01T00:00:00-06:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2020-07-30-T08:00:00-06:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://www.ticketopolis.com/medellindevopsdays2020/tickets.aspx" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -36,9 +36,11 @@ location_address: "Carrera 43A (Av. El Poblado) con Calle 30, Medellín, Antioqu
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: Spanish
     url: "https://devopsdays.io/"
- # - name: propose
- # - name: location
- # - name: registration
+  - name: propose
+    url: "https://www.papercall.io/devopsdaysmedellin"
+  - name: location
+  - name: registration
+    url: "https://www.ticketopolis.com/medellindevopsdays2020"
  # - name: program
  # - name: speakers
   - name: sponsor
