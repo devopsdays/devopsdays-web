@@ -15,24 +15,25 @@ startdate: 2020-06-06T08:00:00-03:00 # The start date of your event. Leave blank
 enddate: 2020-06-06T18:30:00-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-#cfp_date_start: 2019-12-24T00:00:00-03:00 # start accepting talk proposals.
-#cfp_date_end: 2020-03-20T23:59:59-03:00 # close your call for proposals.
-#cfp_date_announce: 2020-05-01T23:59:59-03:00 # inform proposers of status
+cfp_date_start: 2020-03-01T23:59:59-03:00 # start accepting talk proposals.
+cfp_date_end: 2020-04-29T23:59:59-03:00 # close your call for proposals.
+#cfp_date_announce: 2020-05-05T23:59:59-03:00 # inform proposers of status
 
-cfp_open: "false"
-cfp_link: "" # if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_open: "true"
+#cfp_link: "https://www.papercall.io/joao-pessoa-2020" # if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://www.papercall.io/joao-pessoa-2020"
 
-masthead_background: ""
+#masthead_background: ""
 
-registration_date_start:  # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2020-03-02T00:00:00-03:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2020-06-03T00:00:00-03:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" # set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://devopsdaysjoaopessoa.eventize.com.br/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
-coordinates: "-7.159213,--34.854557" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+coordinates: "-7.159213,-34.854557" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Auditório do UNIPÊ" # Defaults to city, but you can make it the venue name.
 #
 location_address: "Rodovia BR-230,km 22, s/n - Água Fria, João Pessoa - PB," #Optional - use the street address of your venue. This will show up on the welcome page if set.
