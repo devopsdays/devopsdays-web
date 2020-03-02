@@ -26,13 +26,13 @@ location: "大崎ブライトコアホール" # Defaults to city, but you can ma
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: devopsdaystokyo.org
     url: https://www.devopsdaystokyo.org/
-  - name: program
-    url: https://sessionize.com/devopsdays-tokyo-2020/
-  - name: location
-  - name: registration
-    url: https://www.eventbrite.com/e/devopsdays-tokyo-2020-tickets-78136842399
-  - name: sponsor
-  - name: contact
+#  - name: program
+#    url: https://sessionize.com/devopsdays-tokyo-2020/
+#  - name: location
+#  - name: registration
+#    url: https://www.eventbrite.com/e/devopsdays-tokyo-2020-tickets-78136842399
+#  - name: sponsor
+#  - name: contact
   - name: conduct
 
 # These are the same people you have on the mailing list and Slack channel.
@@ -94,16 +94,16 @@ organizer_email: "tokyo@devopsdays.org" # Put your organizer email address here
 #  - id: yappli
 #    level: bronze
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
 # unlimitted sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
-sponsor_levels:
-  - id: gold
-    label: Gold
-  - id: silver
-    label: Silver
-  - id: bronze
-    label: Bronze
+#sponsor_levels:
+#  - id: gold
+#    label: Gold
+#  - id: silver
+#    label: Silver
+#  - id: bronze
+#    label: Bronze
