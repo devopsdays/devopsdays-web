@@ -36,7 +36,7 @@ Description = "Sponsor devopsdays austin 2020"
 
 ### Prospectus
 
-<a href="https://docs.google.com/presentation/d/1SHM2hGgWvFeuGxVpoxWiI27vOoXlueUBY5kzo2vKuGA/edit?usp=sharing" class="btn btn-primary"><i class="fa fa-folder fa-lg"></i>&nbsp;&nbsp;&nbsp;View the DevOpsDays Austin 2020 Sponsor Prospectus</a> <a href="https://docs.google.com/document/d/1yL9B4YjECX4nV8tadbyWduQBfgy6gb_M7WtZFhFv724/edit?usp=sharing" class="btn btn-primary"><i class="fa fa-question fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor FAQ</a>
+<a href="https://docs.google.com/presentation/d/1SHM2hGgWvFeuGxVpoxWiI27vOoXlueUBY5kzo2vKuGA/edit?usp=sharing" class="btn btn-primary"><i class="fa fa-folder fa-lg"></i>&nbsp;&nbsp;&nbsp;View the DevOpsDays Austin 2020 Sponsor Prospectus</a> <a href="https://docs.google.com/document/d/1yL9B4YjECX4nV8tadbyWduQBfgy6gb_M7WtZFhFv724/edit?usp=sharing" class="btn btn-primary"><i class="fa fa-question fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor FAQ</a> <a href="https://docs.google.com/document/d/1TUm_wo7UPyyQ77TRAEjR49n8Z5QGa6sBCVroMSRN6ys/edit?usp=sharing" class="btn btn-primary"><i class="fa fa-info-circle fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsorship Expectations</a>
 
 ### Sponsorship Package Comparison
 
