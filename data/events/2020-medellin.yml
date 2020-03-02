@@ -36,9 +36,9 @@ location_address: "Carrera 43A (Av. El Poblado) con Calle 30, Medellín, Antioqu
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: Spanish
     url: "https://devopsdays.io/"
+  - name: location
   - name: propose
     url: "https://www.papercall.io/devopsdaysmedellin"
-  - name: location
   - name: registration
     url: "https://www.ticketopolis.com/medellindevopsdays2020"
  # - name: program
