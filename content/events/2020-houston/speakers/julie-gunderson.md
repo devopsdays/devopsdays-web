@@ -1,5 +1,5 @@
 +++
-Title = "Matt Stratton"
+Title = "Julie Gunderson"
 Twitter = "julie_gund"
 image = ""
 type = "speaker"
