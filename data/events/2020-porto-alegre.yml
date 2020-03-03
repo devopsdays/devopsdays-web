@@ -45,6 +45,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: sponsor
   - name: contact
   - name: conduct
+  
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -166,6 +167,8 @@ sponsors:
     level: silver
   - id: datacentrics
     level: silver
+  - id: southsystem
+    level: gold
   - id: 4linux-2019
     level: courses
   - id: alura2020
@@ -312,7 +315,7 @@ program:
     start_time: "9:00"
     end_time: "9:30"
 
-  - title: ""
+  - title: "dani-monteiro"
     type: talk
     date: "2020-05-23"
     start_time: "9:40"
