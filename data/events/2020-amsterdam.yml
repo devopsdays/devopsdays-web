@@ -104,8 +104,8 @@ sponsors:
   - id: kpn-ict
     level: gold
   # silvers
-  #- id: cyso # NET30 expired
-  #  level: silver
+  - id: cyso
+    level: silver
   - id: securecodewarrior
     level: silver
   # bronzes

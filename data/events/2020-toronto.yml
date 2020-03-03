@@ -92,7 +92,7 @@ sponsors:
     level: silver
   - id: dynatrace
     level: gold
-  - id: logzio
+  - id: logz
     level: silver
   - id: elastic
     level: gold

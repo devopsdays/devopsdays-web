@@ -5,6 +5,10 @@ Talk_end_time = "09:45"
 Title = "La Historia de DevOps Y Cambios Estructurales"
 Type = "talk"
 Speakers = ["mike-rosado"]
+Youtube = ""
+Vimeo = ""
+Speakerdeck = "https://speakerdeck.com/devopsdaysgdl/mike-rosado-la-historia-de-devops-y-cambios-estructurales"
+Website = ""
 +++
 Theodore Roosevelt una vez citó: <strong><i>~~ "Cuanto más sepa sobre su pasado, mejor preparado estará para el futuro."</i></strong>
 

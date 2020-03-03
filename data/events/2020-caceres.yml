@@ -133,10 +133,10 @@ sponsors:
   - id: kairosds
     level: silver
   - id: homeria
-    level: bronze
-  - id: aspgems
-    level: bronze
+    level: bronze-fruit
   - id: mobbeel
+    level: bronze-water
+  - id: aspgems
     level: bronze
   - id: wordline
     level: bronze
@@ -204,6 +204,10 @@ sponsor_levels:
   - id: silver
     label: Silver
     max: 15
+  - id: bronze-fruit
+    label: Bronze fruit
+  - id: bronze-water
+    label: Bronze water
   - id: bronze
     label: Bronze
   - id: collaborators
@@ -227,7 +231,7 @@ program:
     date: 2020-03-05
     start_time: "09:15"
     end_time: "10:00"
-  - title: "adedayo-akinpelu"
+  - title: "carlos-cobo"
     type: talk
     date: 2020-03-05
     start_time: "10:15"

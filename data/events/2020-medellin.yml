@@ -1,7 +1,7 @@
 name: "2020-medellin" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2020" # The year of the event. Make sure it is in quotes.
 city: "Medellín" # The displayed city name of the event. Capitalize it.
-event_twitter: "devopsdaysMDE" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+event_twitter: "DevopsdaysMed" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "DevOpsDays is coming to Medellín! More updates will be available soon." # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
@@ -14,29 +14,33 @@ startdate: 2020-07-30T08:00:00-06:00 # The start date of your event. Leave blank
 enddate: 2020-07-31T08:00:00-06:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
+cfp_date_start:  2020-01-23T08:00:00-06:00 # start accepting talk proposals.
+cfp_date_end:  2020-04-18T08:00:00-06:00 # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://www.papercall.io/devopsdaysmedellin"
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2020-03-01T00:00:00-06:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2020-07-30-T08:00:00-06:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.ticketopolis.com/medellindevopsdays2020/tickets.aspx" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
-coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Medellín, Colombia, Premium Plaza" # Defaults to city, but you can make it the venue name.
+coordinates: "6.2339363,-75.5887074" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Auditorio del Premium Plaza" # Defaults to city, but you can make it the venue name.
 #
-location_address: "Auditorio del Premium Plaza" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "Carrera 43A (Av. El Poblado) con Calle 30, Medellín, Antioquia, Colombia" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
- # - name: location
- # - name: registration
+  - name: Spanish
+    url: "https://devopsdays.io/"
+  - name: location
+  - name: propose
+    url: "https://www.papercall.io/devopsdaysmedellin"
+  - name: registration
+    url: "https://www.ticketopolis.com/medellindevopsdays2020"
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -174,4 +178,3 @@ sponsor_levels:
     label: Community
   - id: supporters
     label: Supporters    
-

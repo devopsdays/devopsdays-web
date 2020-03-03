@@ -210,6 +210,8 @@ sponsors:
     level: platinum
   - id: codefresh
     level: platinum
+  - id: vulk
+    level: platinum
   - id: circleci
     level: gold
   - id: xmatters

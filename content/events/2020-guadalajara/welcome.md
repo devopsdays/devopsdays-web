@@ -69,7 +69,7 @@ Description = "devopsdays Guadalajara 2020"
     </br>
     <div class="d-flex flex-row">
       <div class="col-md-12">
-        <div class="p-2">
+        <!-- <div class="p-2">
           <a
             rel="noopener"
             target="_blank"
@@ -80,34 +80,31 @@ Description = "devopsdays Guadalajara 2020"
           >
             <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Buy your Tickets Now!
           </a>
-        </div>
+        </div> -->
         <div class="p-2">
           <a
             class="btn btn-secondary btn-block"
             href="/events/2020-guadalajara/program"
             style="background-color:#329cae; border-color:#72c1cd" onMouseOver="this.style.backgroundColor='#23738e'"
-            onMouseOut="this.style.backgroundColor='#329cae'"
-          >
+            onMouseOut="this.style.backgroundColor='#329cae'">
             <i class="fa fa-calendar fa-lg"></i>&nbsp;&nbsp;&nbsp;Check The Program
           </a>
         </div>
-        <div class="p-2">
+        <!-- <div class="p-2">
           <a
             class="btn btn-secondary btn-block"
             href="/events/2020-guadalajara/sponsor"
             style="background-color:#329cae; border-color:#72c1cd" onMouseOver="this.style.backgroundColor='#23738e'"
-            onMouseOut="this.style.backgroundColor='#329cae'"
-          >
+            onMouseOut="this.style.backgroundColor='#329cae'">
             <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference
           </a>
-        </div>
+        </div> -->
         <div class="p-2">
           <a
             class="btn btn-secondary btn-block"
             href="/events/2020-guadalajara/contact"
             style="background-color:#329cae; border-color:#72c1cd" onMouseOver="this.style.backgroundColor='#23738e'"
-            onMouseOut="this.style.backgroundColor='#329cae'"
-          >
+            onMouseOut="this.style.backgroundColor='#329cae'">
             <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Contact the Organizers
           </a>
         </div>
