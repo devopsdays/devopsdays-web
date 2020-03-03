@@ -79,21 +79,18 @@ team_members: # Name is the only required field for team members.
     github: "edsoncelio"
     twitter: "tuxpilgrim"
     image: "edson-celio.jpg"
-
   - name: "Isac Cavalcante"
   role: "DevOps Analyst"
     bio: "Studied Computer Network at Federal University of Ceará in early 2014. Started working in 2017 managing both local and cloud infrastructure. Loves to automate boring tasks. Played around with Google Cloud and AWS, installing Kubernetes, Jenkins, Elasticsearch, Prometheus, Grafana and now tries to turn everything into Terraform code. Also, a cybersecurity enthusiast who likes to hack systems whenever is possible."
     linkedin: "https://www.linkedin.com/in/isaccavalcante/"
     github: "isaccavalcante"
     image: "isac-cavalcante.jpg"
-
   - name: "Pedro Azevedo"
   role: "Systems Developer"
     bio: "Sysadmin for almost a decade! Focused on open source solutions, working for datacenter providers. I worked with Backup, Network, Webhosting, Dabatases, all top virtualizers, it's hard to say how many techonologies I've been working with among the years. I'm a python fan, DevOps enthusiastic, automation fanatic and I seek for contribute and evolve our local community, difunding kwownledge and organizating meetups every month for experience sharing"
     linkedin: "https://www.linkedin.com/in/phlimaazevedo/"
     github: "phwebcloud"
     image: "pedro-cavalcante.png"
-
   - name: "Kleber Cabral"  
   role: "Systems Developer"
     bio: "Linux Administrator at Banco do Nordeste do Brasil, father of “Isadora“ and french bulldog “Tux”, in love with opensource since 1996"
