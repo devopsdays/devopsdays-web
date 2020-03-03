@@ -14,11 +14,11 @@ startdate: 2020-06-09T09:00:00-03:00 # The start date of your event. Leave blank
 enddate: 2020-06-10T19:00:00-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2020-03-03T00:00:00-03:00 # start accepting talk proposals.
+cfp_date_end: 2020-05-01T15:00:00-03:00 # close your call for proposals.
+cfp_date_announce: 2020-05-17T23:59:00-03:00 # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://www.papercall.io/devopsdaysba" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: # close registration. Leave blank if registration is not open yet.
@@ -34,10 +34,11 @@ location: "Teatro General San Martin" # Defaults to city, but you can make it th
 location_address: "C1042AAO, Av. Corrientes 1530, C1042 AAO, Buenos Aires, Argentina" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
   - name: location
  # - name: registration
  # - name: program
+  - name: propose
+    url: "https://www.papercall.io/devopsdaysba"
  # - name: speakers
   - name: sponsor
   - name: contact
