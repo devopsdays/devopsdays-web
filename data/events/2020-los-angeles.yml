@@ -153,7 +153,7 @@ program:
   - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2020-03-06T00:00:00-08:00
-    start_time: "08:00"
+    start_time: "09:00"
     end_time: "10:00"
   - title: "alvaro-leiva"
     type: talk
@@ -185,7 +185,7 @@ program:
     date: 2020-03-06T23:59:59-08:00
     start_time: "14:10"
     end_time: "14:30"
-  - title: "tyler-auerbeck"
+  - title: "galen-emery"
     type: talk
     date: 2020-03-06T23:59:59-08:00
     start_time: "14:45"
