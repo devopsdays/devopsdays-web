@@ -20,7 +20,7 @@ If we reschedule the event for the fall and it works with your schedule we would
 #### Sponsors
 We are happy to transfer your sponsorship to a future event (either in the fall or 2021) or issue a complete refund. Please let us know your preference. 
 
-If you have any questions please don’t hesitate to reach out to us at seattle@devopdays.org
+If you have any questions please don’t hesitate to reach out to us at seattle@devopsdays.org
 
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
