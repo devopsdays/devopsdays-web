@@ -136,6 +136,9 @@ sponsors:
   - id: lineupr
     level: starter
     url: "https://lineupr.com/"  
+  - id: sessionm
+    level: starter
+    url: "https://www.sessionm.com/"      
   - id: inuits
     level: community
     url: "https://inuits.eu/"
@@ -189,7 +192,7 @@ program:
     date: 2020-03-18
     start_time: "09:10"
     end_time: "09:45"
-  - title: "malini-valliath"
+  - title: ""
     type: talk
     date: 2020-03-18
     start_time: "09:45"
