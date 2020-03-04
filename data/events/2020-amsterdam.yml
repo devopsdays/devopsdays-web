@@ -85,6 +85,8 @@ sponsors:
   # BBQ
   # beer
   # Pre-event
+  - id: microsoft
+    level: event
   # coffee
   - id: sentia
     level: coffee
