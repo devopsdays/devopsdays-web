@@ -187,7 +187,9 @@ sponsors:
   - id: googlecloud
     level: gold
   - id: locatee
-    level: bronze   
+    level: bronze  
+  - id: youstream
+    level: partner    
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -207,4 +209,7 @@ sponsor_levels:
     max: 0
   - id: community
     label: Community
+    max: 0
+  - id: partner
+    label: Partner
     max: 0
