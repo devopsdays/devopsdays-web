@@ -2,7 +2,7 @@ name: "2020-los-angeles" # The name of the event. Four digit year with the city 
 year: "2020" # The year of the event. Make sure it is in quotes.
 city: "Los Angeles" # The displayed city name of the event. Capitalize it.
 event_twitter: "socaldevops" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "DevOps Day is returning to Los Angeles!" # Edit this to suit your preferences
+description: "<span style='font-size:2em;'><strong>DevOps Day LA is still on!<br /><br />We are actively monitoring the situation with COVID-19 and will update folks through all channels available if things change.<br /><br />See: <a href='https://www.socallinuxexpo.org/blog/covid-19-and-scale-18x'>https://www.socallinuxexpo.org/blog/covid-19-and-scale-18x</a> for more info and the latest status.</strong></span>" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2020-MM-DDTHH:MM:SS+TZ:TZ, like this:
