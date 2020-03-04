@@ -1,5 +1,5 @@
 +++
-Title = "Dr. Aneika Simmons and Anjuan Simmons"
+Title = "Anjuan Simmons"
 Twitter = "anjuan"
 image = "anjuan-simmons.jpg"
 type = "speaker"

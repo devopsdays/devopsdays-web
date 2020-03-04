@@ -4,7 +4,7 @@ Talk_start_time = "11:00"
 Talk_end_time = "11:30"
 Title = "10 Attributes of Elite DevSecOps Programs"
 Type = "talk"
-Speakers = ["paul-mehard"]
+Speakers = ["paul-meharg"]
 +++
 
 We’ve spent six years studying secure coding practices of DevOps and Continuous Delivery organizations by surveying over 15,000 IT professionals. We’ve analyzed their staffing practices, educational priorities, automation choices, and process improvements that improve their cybersecurity preparedness. Our study has also uncovered details of where automation fails, awareness falls short and breaches happen.
