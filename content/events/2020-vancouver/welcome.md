@@ -29,7 +29,7 @@ Description = "devopsdays Vancouver 2020"
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_location >}}
+    {{< event_location >}}‏‏‎ ‎‏‏‎ ‎ ‏‏‎ ‎‎‎‎‎If you have any accessibility needs, please reach out!
   </div>
 </div>
 
@@ -38,7 +38,7 @@ Description = "devopsdays Vancouver 2020"
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    <a href="https://www.eventbrite.ca/e/86086255307">Register to attend the conference!</a> Payment accepted via both PayPal or credit card through PayPal.
+    <a href="https://www.eventbrite.ca/e/86086255307">Register to attend the conference!</a>‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎‏‏‎ ‎‏‏‎ ‎ ‏‏‎ ‎‏‏‎ ‎‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎Payment accepted via both PayPal or credit card through PayPal.
   </div>
 </div>
 

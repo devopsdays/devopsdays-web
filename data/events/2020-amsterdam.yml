@@ -38,17 +38,16 @@ location_address: "Piet Heinkade 179, 1019 HC Amsterdam" #Optional - use the str
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
- # - name: location
+  # - name: location
   - name: registration
- # - name: program
- # - name: speakers
+  # - name: program
+  # - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
-
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
@@ -112,9 +111,10 @@ sponsors:
   # bronzes
   - id: s0l1dheroes
     level: bronze
+  - id: monkeyswithbuttons
+    level: bronze
 
-
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For

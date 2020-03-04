@@ -163,6 +163,8 @@ sponsors:
     level: gold
   - id: xmatters
     level: platinum
+  - id: houston-devops-meetup
+    level: community
     
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -192,11 +194,11 @@ program:
     type: custom
     date: 2020-04-14
     start_time: "08:00"
-    end_time: "09:00"
+    end_time: "08:45"
   - title: "Opening Welcome"
     type: custom
     date: 2020-04-14
-    start_time: "09:00"
+    start_time: "08:45"
     end_time: "09:15"
     background_color: "#D0D0D0"
   - title: "ernest-mueller"
@@ -214,7 +216,7 @@ program:
     type: talk
     date: 2020-04-14
     start_time: "10:25"
-    end_time: "10:55"
+    end_time: "11:00"
   - title: "patrick-poulin"
     type: talk
     date: 2020-04-14
@@ -227,6 +229,9 @@ program:
     end_time: "11:20"
     comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill<br/>  
       &nbsp; &nbsp; *Required*: Laptop, and accounts on GitHub, CircleCI, DockerHub."
+    start_time: "10:25"
+    end_time: "11:25"
+    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill"
   - title: "Open Spaces Topic Selection"
     type: custom
     date: 2020-04-16
@@ -248,6 +253,14 @@ program:
     start_time: "13:20"
     end_time: "13:50"
   - title: "margarita-medina"
+    start_time: "13:00"
+    end_time: "13:35"
+  - title: "dan-lorenc"
+    type: talk
+    date: 2020-04-14
+    start_time: "13:40"
+    end_time: "14:15"
+  - title: "ana-margarita-medina"
     type: workshop
     date: 2020-04-14
     start_time: "12:50"
@@ -273,6 +286,9 @@ program:
     start_time: "16:00"
     end_time: "16:30"
   - title: "matt-stratton"
+    start_time: "15:35"
+    end_time: "16:10"
+  - title: "julie-gunderson"
     type: workshop
     date: 2020-04-14
     start_time: "15:20"
@@ -282,27 +298,29 @@ program:
     date: 2020-04-14
     start_time: "14:40"
     end_time: "15:25"
+    start_time: "16:45"
+    end_time: "17:15"
   - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2020-04-15
     start_time: "08:00"
-    end_time: "09:00"
+    end_time: "08:45"
   - title: "Opening Welcome Day 2"
     type: custom
     date: 2020-04-15
-    start_time: "09:00"
+    start_time: "08:45"
     end_time: "09:15"
     background_color: "#D0D0D0"
   - title: "maria-f-oneill"
     type: talk
     date: 2020-04-15
     start_time: "09:15"
-    end_time: "09:55"
+    end_time: "10:00"
   - title: "Sponsors"
     type: custom
     date: 2020-04-15
-    start_time: "09:55"
-    end_time: "10:10"
+    start_time: "10:00"
+    end_time: "10:15"
     background_color: "#D0D0D0"
   - title: "michael-nir"
     type: talk
@@ -322,10 +340,24 @@ program:
     comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill<br/>  
       &nbsp; &nbsp; *Required*: Laptop with RDP"
   - title: "sarjeel-yusef"
+    start_time: "10:25"
+    end_time: "11:00"
+  - title: "jay-gordon"
+    type: workshop
+    date: 2020-04-15
+    start_time: "10:25"
+    end_time: "11:25"
+    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill"
+  - title: "paul-mehard"
     type: talk
     date: 2020-04-15
-    start_time: "11:40"
-    end_time: "12:05"
+    start_time: "11:05"
+    end_time: "11:35"
+  - title: "sarjeel-yusuf"
+    type: talk
+    date: 2020-04-15
+    start_time: "11:45"
+    end_time: "12:20"
   - title: "eduardo-ruela"
     type: workshop
     date: 2020-04-15
@@ -333,6 +365,9 @@ program:
     end_time: "12:20"
     comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill<br/>  
       &nbsp; &nbsp; *Required*: Laptop with RDP"
+    start_time: "11:35"
+    end_time: "12:35"
+    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill"
   - title: "Open Space Topic Selection"
     type: open-space
     date: 2020-04-15
@@ -348,6 +383,13 @@ program:
     date: 2020-04-15
     start_time: "13:00"
     end_time: "13:30"
+    start_time: "12:50"
+    end_time: "13:35"
+  - title: "anjuan-simmons"
+    type: talk
+    date: 2020-04-15
+    start_time: "13:35"
+    end_time: "14:10"
   - title: "jj-asghar"
     type: talk
     date: 2020-04-15
@@ -387,8 +429,36 @@ program:
     date: 2020-04-15
     start_time: "16:40"
     end_time: "16:50"
+    start_time: "13:45"
+    end_time: "14:45"
+    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill"
+  - title: "Open Space Intro"
+    type: open-space
+    date: 2020-04-15
+    start_time: "14:55"
+    end_time: "15:00"
+  - title: "Open Space Session #3"
+    type: open-space
+    date: 2020-04-15
+    start_time: "15:00"
+    end_time: "15:30"
+  - title: "Open Space Session #4"
+    type: open-space
+    date: 2020-04-15
+    start_time: "15:35"
+    end_time: "16:05"
+  - title: "jody-wolfborn"
+    type: workshop
+    date: 2020-04-15
+    start_time: "16:10"
+    end_time: "17:10"
+    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill"
+  - title: "Closing"
+    type: custom
+    date: 2020-04-15
+    start_time: "17:10"
+    end_time: "17:20"
     background_color: "#D0D0D0"
-
 # ignites:
 #   - title: "margaret-valtierra"
 #     date: "2020-04-16"

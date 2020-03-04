@@ -50,10 +50,10 @@ All packages contain:
   <tr>
     <th></th>
     <th><center>Starter<br />1000&nbsp;EUR</center></th>
-    <th><center>Bronze<br />2500&nbsp;EUR</center></th>
-    <th><center>Silver<br />3500&nbsp;EUR</center></th>
-    <th><center>Gold<br />6000&nbsp;EUR</center></th>
-    <th><center>Titanium<br />8000&nbsp;EUR</center></th>
+    <th><center><s>Bronze</s><br />SOLD OUT<br />2500&nbsp;EUR</center></th>
+    <th><center><s>Silver</s><br />SOLD OUT<br />3500&nbsp;EUR</center></th>
+    <th><center><s>Gold</s><br />SOLD OUT<br />6000&nbsp;EUR</center></th>
+    <th><center><s>Titanium</s><br />SOLD OUT<br />8000&nbsp;EUR</center></th>
   </tr>
   <tr>
     <td>Tickets</td>

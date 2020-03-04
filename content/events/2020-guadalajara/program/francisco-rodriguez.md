@@ -5,6 +5,10 @@ Talk_end_time = "09:45"
 Title = "Patterns for Infrastructure as Code at Scale"
 Type = "talk"
 Speakers = ["francisco-rodriguez"]
+Youtube = ""
+Vimeo = ""
+Speakerdeck = "https://speakerdeck.com/devopsdaysgdl/francisco-rodriguez-patterns-of-iac-at-scale"
+Website = ""
 +++
 IAC​ is the Engine at the heart of DevOps it gives the posiblility to create infrastructure from scratch, configure it, use it, and later destroy it when it’s not longer used. For example when you
 

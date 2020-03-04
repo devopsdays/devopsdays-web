@@ -110,11 +110,25 @@ sponsors:
     level: gold
   - id: appdynamics
     level: gold
+  - id: tigera
+    level: gold
+  - id: cisco
+    level: gold
+  - id: sumologic
+    level: gold
+  - id: microsoft
+    level: gold
   - id: safesoftware
     level: streaming
   - id: hootsuite
     level: silver
   - id: elastic
+    level: silver
+  - id: slack
+    level: silver
+  - id: realtor-dot-com
+    level: silver
+  - id: clio
     level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

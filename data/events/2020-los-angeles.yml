@@ -87,6 +87,8 @@ organizer_email: "los-angeles@devopsdays.org" # Put your organizer email address
 sponsors:
   - id: appdynamics
     level: gold
+  - id: confluent
+    level: gold
   - id: codefresh
     level: gold
   - id: d2iq
@@ -106,10 +108,12 @@ sponsors:
   - id: launch-darkly
     level: gold
   - id: logz
-    level: silver  
+    level: gold  
   - id: phoenixnap
     level: gold
   - id: pulumi
+    level: gold
+  - id: scout
     level: gold
   - id: site24x7
     level: gold
@@ -149,7 +153,7 @@ program:
   - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2020-03-06T00:00:00-08:00
-    start_time: "08:00"
+    start_time: "09:00"
     end_time: "10:00"
   - title: "alvaro-leiva"
     type: talk
@@ -181,7 +185,7 @@ program:
     date: 2020-03-06T23:59:59-08:00
     start_time: "14:10"
     end_time: "14:30"
-  - title: "tyler-auerbeck"
+  - title: "galen-emery"
     type: talk
     date: 2020-03-06T23:59:59-08:00
     start_time: "14:45"
