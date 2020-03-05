@@ -35,7 +35,7 @@ location_address: "Vasagatan 28, Stockholm" #Optional - use the street address o
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
- # - name: location
+  - name: location
  # - name: registration
  # - name: program
  # - name: speakers
