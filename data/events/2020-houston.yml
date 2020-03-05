@@ -165,6 +165,8 @@ sponsors:
     level: platinum
   - id: houston-devops-meetup
     level: community
+  - id: redis-labs
+    level: gold
   - id: vmware-tanzu
     level: gold
     
