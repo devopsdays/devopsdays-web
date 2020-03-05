@@ -169,6 +169,8 @@ sponsors:
     level: gold
   - id: vmware-tanzu
     level: gold
+  - id: dynatrace
+    level: gold
     
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -179,7 +181,7 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: platinum
     label: Platinum
-    max: 4
+    max: 2
   - id: gold
     label: Gold
     max: 15
