@@ -5,7 +5,7 @@ aliases = ["/events/2020-prague/"]
 Description = "Devopsdays Prague 2020"
 +++
 
-DevOpsDays is coming to Prague in 2020!
+<h1> DevOpsDays Prague is Sold Out! </h1>
 
 <div style="text-align:center;">
   {{< event_logo >}}
@@ -29,14 +29,14 @@ DevOpsDays is coming to Prague in 2020!
   </div>
 </div>
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
     <a href="https://www.eventbrite.com/e/devopsdays-prague-2020-tickets-69329736107">Register to attend the conference!</a>
   </div>
-</div>
+</div> -->
 
 <!-- <div class = "row">
   <div class = "col-md-2">

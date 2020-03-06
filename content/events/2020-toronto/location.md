@@ -12,6 +12,10 @@ For its seventh year, DevOpsDays Toronto is moving to Sheraton Centre Toronto.
 
 </br>
 
+### Where to Stay
+
+If you or your colleagues need a place to stay while attending the conference, we have negotiated a special rate at the <a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1576522350128&key=GRP&app=resvlink" target="_blank">Sheraton Centre Toronto</a>.
+
 ### Public Transporation
 
 The venue is easily accessible using public transit. It is a short walk from the Osgoode and Queen subway stations. Visit the <a href="http://www.ttc.ca/Trip_planner/index.jsp" target="_blank">Toronto Transit Commission</a> (TTC) or <a href="http://www.gotransit.com/publicroot/en/default.aspx" target="_blank">GO Transit</a> websites for transit directions or use Google Maps as a starting point for finding transit information.</p>

@@ -6,5 +6,3 @@ type = "speaker"
 linktitle = "fernando-ike"
 
 +++
-
-

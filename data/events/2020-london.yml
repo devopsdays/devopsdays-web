@@ -19,8 +19,8 @@ cfp_date_end:  2020-05-24T23:59:59+01:00 # close your call for proposals.
 cfp_date_announce:  2020-07-03T00:00:00+01:00 # inform proposers of status
 
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2020-02-24T00:00:00+01:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2020-09-24T00:00:00+01:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -33,9 +33,10 @@ location_address: "QEII Centre, Broad Sanctuary, Westminster"
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
   - name: location
- # - name: registration
+  - name: registration
  # - name: program
  # - name: speakers
+  - name: accessibility
   - name: sponsor
   - name: contact
   - name: conduct

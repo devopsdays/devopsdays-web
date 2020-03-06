@@ -109,7 +109,7 @@ organizer_email: "jakarta@devopsdays.org" # Put your organizer email address her
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
   - id:  bri
-    level: platinum
+    level: track
   - id:  naradacode
     level: platinum
   - id:  netpoleon
@@ -118,7 +118,13 @@ sponsors:
     level: gold
   - id:  dynatrace
     level: gold
-  - id:  allianz
+  - id:  allianz_in
+    level: gold
+  - id:  pagerduty
+    level: gold
+  - id:  itg
+    level: gold
+  - id:  f5
     level: gold
   - id:  shopee
     level: silver
@@ -136,12 +142,24 @@ sponsors:
     level: community
   - id: bncc
     level: community
+  - id: geekhunter
+    level: community
+  - id: isqa
+    level: community
   - id: infokomputer
     level: media
   - id: filemagz
     level: media
   - id: intisari
     level: media
+  - id: joblike
+    level: media
+  - id: universitasindonesia
+    level: university
+  - id: binanusantara
+    level: university
+  - id: securecodewarrior
+    level: tournament
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -150,9 +168,9 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-#  - id: track
-#    label: Track
-#    max: 1
+  - id: track
+    label: Track
+    max: 1
   - id: platinum
     label: Platinum
     max: 3 
@@ -163,8 +181,12 @@ sponsor_levels:
     label: Silver
   - id: evening
     label: Main Community
-  - id: community
-    label: Community
+  - id: tournament
+    label: Tournament
+  - id: university
+    label: University
   - id: media
     label: Media
+  - id: community
+    label: Community
     

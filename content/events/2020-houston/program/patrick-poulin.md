@@ -1,7 +1,7 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_date = "2020-04-14"
+Talk_start_time = "11:05"
+Talk_end_time = "11:35"
 Title = "API Monitors: A False Sense of Security"
 Type = "talk"
 Speakers = ["patrick-poulin"]

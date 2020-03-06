@@ -69,7 +69,7 @@ sponsors:
     level: gold
   - id: xmatters
     level: gold
-  - id: blendedperspectives
+  - id: blendedperspectives-before-20200305
     level: platinum
   - id: sourcedgroup
     level: gold
@@ -130,7 +130,7 @@ sponsors:
     level: party
   - id: signalfx
     level: gold
-  - id: logzio
+  - id: logz-before-20200211
     level: gold
   - id: index-exchange
     level: gold

@@ -44,7 +44,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
 # - name: schedule
 # - name: program
-# - name: speakers
+  - name: speakers
   - name: contact
   - name: conduct
 # - name: example
@@ -209,6 +209,8 @@ sponsors:
   - id: contrast_security
     level: platinum
   - id: codefresh
+    level: platinum
+  - id: vulk
     level: platinum
   - id: circleci
     level: gold

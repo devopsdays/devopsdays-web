@@ -1,7 +1,7 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_date = "2020-04-14"
+Talk_start_time = "9:15"
+Talk_end_time = "10:00"
 Title = "Problems DevOps Can Help You Solve"
 Type = "talk"
 Speakers = ["ernest-mueller"]

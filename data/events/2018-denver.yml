@@ -71,7 +71,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: silver
   - id: wwt_asynchrony_labs
     level: silver
-  - id: logzio
+  - id: logz-before-20200211
     level: silver
   - id: gtri
     level: bronze
