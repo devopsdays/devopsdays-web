@@ -1,7 +1,7 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_date = "2020-04-15"
+Talk_start_time = "10:20"
+Talk_end_time = "10:50"
 Title = "My Quest for Business Agility – the good bad and ugly of lean agile and DevOps transformations"
 Type = "talk"
 Speakers = ["michael-nir"]

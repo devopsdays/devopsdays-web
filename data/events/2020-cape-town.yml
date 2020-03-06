@@ -96,6 +96,8 @@ proposal_email: "cape-town@devopsdays.org"
 sponsors:
   - id: rapiddeploy
     level: gold
+  - id: zappi
+    level: gold
   - id: arresteddevops
     level: community
   - id: devops-meetup-capetown

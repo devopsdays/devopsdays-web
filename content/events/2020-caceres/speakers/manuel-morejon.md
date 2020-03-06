@@ -8,4 +8,4 @@ Github = "mmorejon"
 Linkedin = "https://www.linkedin.com/in/manuelmorejon"
 +++
 
-Ingeniero Cloud y Capitán de Docker. Cuenta con habilidades técnicas y de comunicación para mejorar flujos de trabajo y reducir los tiempos de despliegues. El objetivo siempre es maximizar la productividad minimizando errores. Entusiasta para enseñar y compartir los conocimientos con la Comunidad.
+Manuel Morejón trabaja como Ingeniero Cloud en Sngular y forma parte del grupo Capitanes de Docker. Se interesa mucho por las temáticas de CI/CD, Arquitecturas nativas de la nube y Microservicios. Le apasiona compartir el conocimiento e interactuar con las comunidades. Es el autor del libro Érase una vez Kubernetes y del curso Integrando Docker a su infraestructura y servicios.

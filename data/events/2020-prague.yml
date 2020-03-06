@@ -23,7 +23,7 @@ cfp_link: "" #if you have a custom link for submitting proposals, add it here. T
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: # close registration. Leave blank if registration is not open yet.
 
-registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_closed: "true" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://www.eventbrite.com/e/devopsdays-prague-2020-tickets-69329736107" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
@@ -36,7 +36,7 @@ location_address: "Na Strži 65/1702, Prague 4, 140 00" #Optional - use the stre
 nav_elements: # List of pages you want to show up in the navigation of your page.
 #  - name: propose
   - name: location
-  - name: registration
+#  - name: registration
   - name: program
   - name: speakers
   - name: sponsor
@@ -111,7 +111,16 @@ sponsors:
     url: "https://www.elastic.co/"      
   - id: iteraio
     level: bronze
-    url: "http://itera.io/"   
+    url: "https://itera.io/"   
+  - id: seznam
+    level: bronze
+    url: "https://www.seznam.cz/"  
+  - id: kiwicom
+    level: bronze
+    url: "https://www.kiwi.com"  
+  - id: cisco
+    level: bronze
+    url: "https://www.cisco.com/"  
   - id: digitalocean
     level: starter
     url: "https://www.digitalocean.com/"
@@ -121,6 +130,15 @@ sponsors:
   - id: vistaprint
     level: starter
     url: "https://www.vistaprint.com/"  
+  - id: microsoftazure
+    level: starter
+    url: "https://azure.microsoft.com/"  
+  - id: lineupr
+    level: starter
+    url: "https://lineupr.com/"  
+  - id: sessionm
+    level: starter
+    url: "https://www.sessionm.com/"      
   - id: inuits
     level: community
     url: "https://inuits.eu/"
@@ -133,6 +151,9 @@ sponsors:
   - id: czechitas
     level: community
     url: "https://www.czechitas.cz/en/"     
+  - id: prague-software-craftsmanship
+    level: community
+    url: "https://www.meetup.com/Prague-Software-Craftsmanship/"  
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -171,7 +192,7 @@ program:
     date: 2020-03-18
     start_time: "09:10"
     end_time: "09:45"
-  - title: "malini-valliath"
+  - title: ""
     type: talk
     date: 2020-03-18
     start_time: "09:45"
@@ -304,17 +325,17 @@ program:
 ignites:
   - title: "axel-kohler"
     date: 2020-03-18
-  - title: "jiri-brunclik"
+  - title: "stepan-vrany"
     date: 2020-03-18
   - title: "philipp-krenn"
     date: 2020-03-18   
-  - title: "stepan-vrany"
+  - title: "jiri-brunclik"
     date: 2020-03-18
   - title: "radek-zajic"
     date: 2020-03-19  
   - title: "mofizur-rahman"
     date: 2020-03-19
   - title: "marek-bartik"
-    date: 2020-03-19  
-  - title: "jakub-kadlubiec"
-    date: 2020-03-19             
+    date: 2020-03-19
+  - title: "nicolai-antiferov"
+    date: 2020-03-19         

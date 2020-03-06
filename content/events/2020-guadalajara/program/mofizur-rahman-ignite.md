@@ -5,6 +5,10 @@ Talk_end_time = "09:45"
 Title = "You Probably Don't Need Kubernetes"
 Type = "talk"
 Speakers = ["mofizur-rahman"]
+Youtube = ""
+Vimeo = ""
+Speakerdeck = "https://speakerdeck.com/devopsdaysgdl/mofizur-rahman-you-probably-dont-need-kubernetes"
+Website = ""
 +++
 Kubernetes is a great piece of technology. It is probably the de-facto container orchestrator for most people using container orchestrators. There is a huge demand for it as well as a lot of interest from businesses to move to Kubernetes.
 

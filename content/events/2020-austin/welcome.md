@@ -13,6 +13,7 @@ Description = "DevOpsDays Austin 2020"
     </div>
     <div class="col-md-4">
       <h3>Your DevOpsDays Austin Experience</h3>
+      <p><a href="http://bit.ly/corona-austin" class="btn btn-danger btn-block">Devopsdays Austin Health Statement</a></p>
       <p>Each day starts with two keynotes and then three content tracks of expert talks in technology and tech culture. This year we've added two tracks of hands-on workshops as well. After lunch we have a series of lightning talks and then self-organize a series of small groups called openspaces. In these openspaces, attendees share and discuss their knowledge on a specific point topic of interest.  You’ll find many opportunities to participate, engage, and discuss with your peers at DevOpsDays Austin!</p>
       <p><a href="../registration" class="btn btn-primary btn-block"><i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Register now!</a>
       <p>Expect talks and discussions from diverse voices on topics like developing resilient applications, monitoring and observability, building application security in via continuous integration, culture hacks, kubernetes tips, hiring good engineers, and many other subjects around modern challenges in dev, ops, QA, data, and management. Check out some talks from previous years on <a href="https://www.youtube.com/channel/UCK65QYThGym3D6eNxw3rn_A">YouTube</a> or follow us at <a href="https://twitter.com/DoDAustin">@DodAustin on Twitter</a>.</p>

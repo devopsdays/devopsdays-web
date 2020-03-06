@@ -1,7 +1,7 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_date = "2020-04-14"
+Talk_start_time = "13:20"
+Talk_end_time = "13:50"
 Title = "Progressive Delivery Lessons From The Trenches"
 Type = "talk"
 Speakers = ["dan-lorenc"]

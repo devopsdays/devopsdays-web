@@ -133,10 +133,10 @@ sponsors:
   - id: kairosds
     level: silver
   - id: homeria
-    level: bronze
-  - id: aspgems
-    level: bronze
+    level: bronze-fruit
   - id: mobbeel
+    level: bronze-water
+  - id: aspgems
     level: bronze
   - id: wordline
     level: bronze
@@ -147,6 +147,10 @@ sponsors:
   - id: gloin
     level: bronze
   - id: tego
+    level: bronze
+  - id: epcc
+    level: bronze
+  - id: oeste-digital
     level: bronze
   - id: diputacioncc
     level: collaborators
@@ -163,6 +167,8 @@ sponsors:
   - id: conferize
     level: collaborators
   - id: unex
+    level: collaborators
+  - id: camaracc
     level: collaborators
   - id: caceresdevops
     level: community
@@ -198,6 +204,10 @@ sponsor_levels:
   - id: silver
     label: Silver
     max: 15
+  - id: bronze-fruit
+    label: Bronze fruit
+  - id: bronze-water
+    label: Bronze water
   - id: bronze
     label: Bronze
   - id: collaborators
@@ -221,7 +231,7 @@ program:
     date: 2020-03-05
     start_time: "09:15"
     end_time: "10:00"
-  - title: "adedayo-akinpelu"
+  - title: "carlos-cobo"
     type: talk
     date: 2020-03-05
     start_time: "10:15"

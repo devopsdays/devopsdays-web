@@ -1,7 +1,7 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_date = "2020-04-15"
+Talk_start_time = "13:40"
+Talk_end_time = "14:10"
 Title = "VMware Template Management, Reimagined for the 21st Century"
 Type = "talk"
 Speakers = ["jj-asghar"]

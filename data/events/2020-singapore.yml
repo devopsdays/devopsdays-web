@@ -44,6 +44,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: sponsor
   - name: contact
   - name: conduct
+  - name: volunteer
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -92,6 +93,10 @@ proposal_email: "singapore@devopsdays.org" # Put your proposal email address her
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: cldcvr
+    level: gold
+  - id: elastic
+    level: gold
   - id: singapore-devops-community
     level: community
   - id: singapore-devsecops-community

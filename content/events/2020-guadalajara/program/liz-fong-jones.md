@@ -5,6 +5,10 @@ Talk_end_time = "09:45"
 Title = "Detangling complex systems with compassion & production excellence"
 Type = "talk"
 Speakers = ["liz-fong-jones"]
+Youtube = ""
+Vimeo = ""
+Speakerdeck = "https://speakerdeck.com/devopsdaysgdl/liz-fong-jones-production-excellence"
+Website = ""
 +++
 Production ownership, putting teams who develop components or services on call for those services, is a best practice for ensuring high-quality software and tightening development feedback loops. Done well, ownership can provide engineers with the power and autonomy that feed our natural desire for agency and high-impact work and can deliver a better experience for users.
 
