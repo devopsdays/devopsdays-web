@@ -18,7 +18,7 @@ cfp_date_start: 2019-11-25T00:00:00-03:00 # start accepting talk proposals.
 cfp_date_end: 2020-03-20T23:59:59-03:00 # close your call for proposals.
 cfp_date_announce: 2019-03-25T23:59:59-03:00 # inform proposers of status
 
-cfp_open: "true"
+cfp_open: "false"
 #cfp_link: "https://www.papercall.io/devopsday-aracaju-2020" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 cfp_link: "https://cfp.devopsdays.com.br/aju2020/"
 
@@ -133,6 +133,8 @@ sponsors:
   - id: unit
     level: institutional
   - id: bktelecom
+    level: silver
+  - id: cio-se
     level: silver
   - id: db1
     level: gold

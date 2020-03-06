@@ -115,6 +115,6 @@ DevOpsDays é uma conferência auto organizada que depende de patrocinadores. N�
 
 A cota de patrocínio para empresas com sede fora do Brasil, preferencialmente deverá ser feito por meio de parceiro ou filial da empresa localizado no Brasil; aquisição de passagens aéreas de palestrantes internacionais; envio de material promocional como livros, camisetas, pendrives, pins, etc.
 
-**ATENÇÃO**: Não vendemos slots de palestra/ignite em troca por patrocínio, também não repassamos dados dos participantes.
+**ATENÇÃO**: O apoio ao evento NÃo é reembolsável em nenhuma hipótese. Caso o evento seja ADIADO por quaisquer motivos, todas as promoções aos apoiadores serão mantidas e cumpridas, até a realização do evento.
 
 <hr/>
