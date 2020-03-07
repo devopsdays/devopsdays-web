@@ -34,8 +34,8 @@ location: "Raleigh Convention Center" # Defaults to city, but you can make it th
 location_address: "500 S Salisbury St, Raleigh, NC 27601" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-   - name: propose
-   - name: location
+  - name: propose
+  - name: location
 # - name: registration
 # - name: program
 # - name: speakers
