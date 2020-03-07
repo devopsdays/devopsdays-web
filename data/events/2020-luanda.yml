@@ -2,7 +2,8 @@ name: "2020-luanda" # The name of the event. Four digit year with the city name 
 year: "2020" # The year of the event. Make sure it is in quotes.
 city: "Luanda" # The displayed city name of the event. Capitalize it.
 event_twitter: "DevopsdaysL" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "Devopsdays is coming to Luanda!" # Edit this to suit your preferences
+description: "Desde startups iniciantes até indústria estabelecida, Luanda tem sido um canteiro de startups e eventos e comunidades tecnológicas. Luanda, tem tido uma grande agitação de atividades tecnológicas nos últimos tempos, queremos chamar a atenção de todo o mundo. O DevOpsDays Luanda reúne desenvolvimento, Infraestrutura (operações), controle de qualidade, Segurança de informação, gerenciamento e liderança para discutir a cultura e as ferramentas para criar e melhorar empresas, startups e produtos.
+O evento 2020 será a primeira vez que realizaremos o DevOpsDays Luanda e esperamos ser memorável do que nunca!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2020-MM-DDTHH:MM:SS+TZ:TZ, like this:
