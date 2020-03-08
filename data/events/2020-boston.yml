@@ -90,6 +90,11 @@ team_members: # Name is the only required field for team members.
     github: "acnagy"
     image: "annanagy.jpg"
 
+  - name: "Derek Buckley"
+    bio: "Derek is a Linux System Administrator with a passion for reducing waste and toil. With a background as a Lean certified Quality Inspector in manufacturing, he found a way to bring the joy of the Kaizen method to his passion of Linux and technological systems. He now works for PerkinElmer in the BioPharmacuitcal space to help accelerate the Scientists' research through making computational resources easy to obtain and use. Outside of the computer world he can be found doing photography with the Boston Area Photography group, cooking, or listening to a veriety of music."
+    gitlab: "dbuckley"
+    image: "derekbuckley.jpg"
+
 organizer_email: "boston@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
