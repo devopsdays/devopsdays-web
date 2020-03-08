@@ -22,7 +22,7 @@ cfp_date_announce:
 cfp_open: "false"
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: 
+registration_date_start:
 registration_date_end: # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
@@ -30,7 +30,7 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 # Location
 #
-coordinates: "52.524332,13.389849" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+coordinates: "52.524322,13.389810" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Kalkscheune Berlin" # Defaults to city, but you can make it the venue name.
 #
 location_address: "Johannisstr. 2, 10117 Berlin" #Optional - use the street address of your venue. This will show up on the welcome page if set.
@@ -39,7 +39,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #  - name: propose
   - name: conduct
   - name: location
-#  - name: registration
+  - name: registration
 #  - name: program
 #  - name: speakers
   - name: sponsor
@@ -56,9 +56,6 @@ team_members: # Name is the only required field for team members.
     employer: "NETWAYS"
   - name: "Jessica Ulyate"
     twitter: "JulyAte"
-  - name: "Marco Woitschitzky"
-    employer: "DB Systel GmbH"
-    github: "Woi"
   - name: "Martin Alfke"
     twitter: "tuxmea"
     employer: "Example42"
@@ -67,7 +64,8 @@ team_members: # Name is the only required field for team members.
     employer: "NETWAYS"
   - name: "Norman Messtorff"
     twitter: "nmesstorff"
-    employer: "Deutsche Post E-POST Development"
+    github: "nmesstorff"
+    employer: "Deutsche Post IT Services"
     website: "https://normes.org"
   - name: "Oliver Seemann"
     twitter: "oseemann"
@@ -91,14 +89,22 @@ team_members: # Name is the only required field for team members.
   - name: "Kat Liu"
     twitter: "kaatloo"
     employer: "Klar GmbH"
+  - name: "Alexander Wolff"
+
 
 organizer_email: "berlin@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
-#sponsors:
-    # - id: some_sponsor
-    #   level: gold
+sponsors:
+  - id: vmware-tanzu
+    level: platinum
+  - id: netways
+    level: partner
+  - id: linuxmagazin
+    level: partner
+  - id: admin-magazine
+    level: partner
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -119,6 +125,7 @@ sponsor_levels:
     label: Silver
   - id: partner
     label: Partner
+    max: 3
 
 # program:
 #   # Day 1

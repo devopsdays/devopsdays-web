@@ -89,7 +89,7 @@ proposal_email: "proposals-salt-lake-city-2018@devopsdays.org" # Put your propos
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: instana
+  - id: instana-before-20200127
     level: gold
   - id: opsgenie
     level: gold

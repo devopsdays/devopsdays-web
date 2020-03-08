@@ -11,7 +11,6 @@ Description = "DevopsDays Madrid 2020"
   </div>
 
   <div class="col-md-7">
-    <h1><p>Tickets available!</p></h1>
     <p>The first DevOpsDays was held in Ghent, Belgium in 2009. Since then, DevOpsDays events have multiplied and expanded globally with over 55 events in for 2018.</p>
     <p>DevOpsDays is a worldwide series of community run technical conferences covering topics of software development, IT infrastructure operations, and the intersection between them. It is run by volunteers from community, for the benefit of the community.
       We are not a commercial conference and we believe that our focus on serving the community creates a truly unique experience for both delegates and sponsors.

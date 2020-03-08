@@ -20,11 +20,11 @@ cfp_date_announce: 2020-01-25T12:00:00-03:00 # inform proposers of status
 
 cfp_link: "https://cfp.devopsdays.com.br/poa2020/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start:  2019-12-1T00:00:00-05:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2020-04-15T23:59:59-03:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://devopsdayspoa.eventize.com.br" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 masthead_background: "panoramaanoite.jpg"
 
@@ -35,15 +35,17 @@ location: "Faculdade Dom Bosco" # Defaults to city, but you can make it the venu
 #
 location_address: "R. Mal. José Inácio da Silva, 355 - Passo d'Areia, Porto Alegre - RS, 90520-280" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
+
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+#  - name: propose
   - name: location
- # - name: registration
- # - name: program
- # - name: speakers
+  - name: registration
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
+  
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -72,11 +74,11 @@ team_members: # Name is the only required field for team members.
     twitter: "bayerndadepres"
     image: "camilla-martins.jpg"
   - name: "Cristiano Diedrich"
-    employer: "Umov.me"
+    employer: "uMov.me"
     twitter: "omatofino"
     facebook: "cristiano.diedrich"
     linkedin: "https://www.linkedin.com/in/cristianodiedrich"
-    bio: "Formado em sistemas de informação, trabalho atualmente como Chapter Leader de Infraestrutura na Umbler, uma startup de hosting sob demanda, atuo na pesquisa e desenvolvimento de soluções para hosting e PaaS. Sou apaixonado por linux e tecnologias open-source, áreas que conheço a muitos anos."
+    bio: "Formado em sistemas de informação, sou SRE na uMov.me, uma plataforma no code para aplicativos B2B, atuo na pesquisa, desenvolvimento e melhorias de soluções para a plataforma. Sou apaixonado por linux e tecnologias open-source, áreas que conheço a muitos anos."
     image: "cristiano-diedrich.jpg"
   - name: "Fabricia Doria"
     image: "fabricia-doria.jpg"
@@ -84,7 +86,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/elisa-diel-69b95349/"
     image: "elisa-diel.jpg"
   - name: "Guilherme Elias"
-    employer: "Umov.me"
+    employer: "uMov.me"
     twitter: "guilhermelias"
     image: "guilherme-elias.jpg"
   - name: "Julia Lamenza"
@@ -132,6 +134,51 @@ sponsors:
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
+  - id: docker-porto-alegre
+    level: community
+  - id: pycaxias
+    level: community
+  - id: linuxforall
+    level: community
+  - id: django-girls-taquara
+    level: community
+  - id: afropython
+    level: community
+    url: "http://afropythonconf.org"
+  - id: linuxtips
+    level: community
+  - id: devsjavagirl
+    level: community
+  - id: 2015-thoughtworks
+    level: platinum
+  - id: adentro-cloud
+    level: bronze
+  - id: interop
+    level: bronze
+  - id: globotv
+    level: bronze
+    url: "https://www.vempraglobo.com.br"
+  - id: globo
+    level: bronze
+    url: "https://talentos.globo.com"
+  #- id: kinghost
+  #  level: bronze
+  - id: azion
+    level: silver
+  - id: datacentrics
+    level: silver
+  - id: southsystem
+    level: gold
+  - id: 4linux-2019
+    level: courses
+  - id: alura2020
+    level: courses
+    url: "https://cursos.alura.com.br/formacao-devops"
+  - id: casadocodigo
+    level: courses
+    url: "https://www.casadocodigo.com.br"
+  - id: faculdade-dom-bosco
+    level: institutional
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -140,6 +187,9 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: institutional
+    label: institutional
+    max: 1
   - id: platinum
     label: Platinum
   - id: gold
@@ -150,5 +200,214 @@ sponsor_levels:
     max: 0 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
+  - id: courses
+    label: courses
   - id: community
     label: Community
+
+program:
+  - title: "Credenciamento e coffee"
+    type: custom
+    date: "2020-05-22"
+    start_time: "8:00"
+    end_time: "9:00"
+
+  - title: "Abertura"
+    type: custom
+    date: "2020-05-22"
+    start_time: "9:00"
+    end_time: "9:30"
+
+  - title: "barbara-cabral"
+    type: talk
+    date: "2020-05-22"
+    start_time: "9:40"
+    end_time: "10:20"
+
+  - title: "Coffee Break"
+    type: custom
+    date: "2020-05-22"
+    start_time: "10:30"
+    end_time: "10:50"
+
+  - title: "wellington-silva"
+    type: talk
+    date: "2020-05-22"
+    start_time: "10:50"
+    end_time: "11:10"
+
+  - title: "thiago-finardi"
+    type: talk
+    date: "2020-05-22"
+    start_time: "11:10"
+    end_time: "11:30"
+
+  - title: "luis-laimer"
+    type: talk
+    date: "2020-05-22"
+    start_time: "11:40"
+    end_time: "12:00"
+
+  - title: "Almoço"
+    type: custom
+    date: "2020-05-22"
+    start_time: "12:00"
+    end_time: "13:30"
+
+  - title: "Ignite Talks"
+    type: ignite
+    date: "2020-05-22"
+    start_time: "13:30"
+    end_time: "13:50"
+
+  - title: "ken-mugrage"
+    type: talk
+    date: "2020-05-22"
+    start_time: "14:00"
+    end_time: "14:40"
+  
+  - title: "patricia-magrin"
+    type: talk
+    date: "2020-05-22"
+    start_time: "14:50"
+    end_time: "15:20"
+
+  - title: "daniela-pitta"
+    type: talk
+    date: "2020-05-22"
+    start_time: "15:20"
+    end_time: "15:40"
+
+  - title: "Coffee Break"
+    type: custom
+    date: "2020-05-22"
+    start_time: "15:40"
+    end_time: "16:00"
+  
+  - title: "leonardo"
+    type: talk
+    date: "2020-05-22"
+    start_time: "16:00"
+    end_time: "16:20"
+
+  - title: "Open Spaces"
+    type: open-space
+    date: "2020-05-22"
+    start_time: "16:20"
+    end_time: "18:20"
+
+  - title: "Encerramento Dia 1"
+    type: custom
+    date: "2020-05-22"
+    start_time: "18:20"
+    end_time: "18:40"
+  
+  - title: "Happy Hour"
+    type: custom
+    date: "2020-05-22"
+    start_time: "18:40"
+    end_time: "22:00"
+
+
+  - title: "Abertura"
+    type: custom
+    date: "2020-05-23"
+    start_time: "9:00"
+    end_time: "9:30"
+
+  - title: "dani-monteiro"
+    type: talk
+    date: "2020-05-23"
+    start_time: "9:40"
+    end_time: "10:20"
+
+  - title: "Coffee Break"
+    type: custom
+    date: "2020-05-23"
+    start_time: "10:30"
+    end_time: "10:50"
+
+  - title: "antonio-moraes"
+    type: talk
+    date: "2020-05-23"
+    start_time: "10:50"
+    end_time: "11:10"
+
+  - title: "deise"
+    type: talk
+    date: "2020-05-23"
+    start_time: "11:10"
+    end_time: "11:30"
+
+  - title: "jefferson-schwantes"
+    type: talk
+    date: "2020-05-23"
+    start_time: "11:40"
+    end_time: "12:00"
+
+  - title: "Almoço"
+    type: custom
+    date: "2020-05-23"
+    start_time: "12:00"
+    end_time: "13:30"
+
+  - title: "Ignite Karaoke"
+    type: ignite
+    date: "2020-05-23"
+    start_time: "13:30"
+    end_time: "13:45"
+
+  - title: "jeferson-noronha"
+    type: talk
+    date: "2020-05-23"
+    start_time: "13:55"
+    end_time: "14:35"
+  
+  - title: "pery"
+    type: talk
+    date: "2020-05-23"
+    start_time: "14:45"
+    end_time: "15:05"
+
+  - title: "vanessa-cristian"
+    type: talk
+    date: "2020-05-23"
+    start_time: "15:15"
+    end_time: "15:35"
+
+  - title: "Coffee Break"
+    type: custom
+    date: "2020-05-23"
+    start_time: "15:35"
+    end_time: "16:00"
+
+  - title: "camilla-martins"
+    type: talk
+    date: "2020-05-23"
+    start_time: "16:00"
+    end_time: "16:20"
+
+  - title: "Fishbowl"
+    type: open-space
+    date: "2020-05-23"
+    start_time: "16:20"
+    end_time: "18:20"
+
+  - title: "Encerramento Dia 2"
+    type: custom
+    date: "2020-05-23"
+    start_time: "18:20"
+    end_time: "18:40"
+
+ignites:
+  - title: "bruno-brasil"
+    date: "2020-05-22"
+
+  - title: "igor-oliveira"
+    date: "2020-05-22"
+
+  - title: "leonardo-ieggli"
+    date: "2020-05-22"
+
+  - title: "daniel-lara"
+    date: "2020-05-22"

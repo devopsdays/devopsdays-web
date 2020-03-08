@@ -14,16 +14,17 @@ startdate: 2020-08-26T00:00:00-05:00 # The start date of your event. Leave blank
 enddate: 2020-08-27T23:59:59-05:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2020-02-25T21:00:00-05:00 # start accepting talk proposals.
+cfp_date_end: 2020-05-25T18:00:00-05:00 # close your call for proposals.
+cfp_date_announce: 2020-07-06T18:00:00-05:00 # inform proposers of status
 
-# cfp_link: "https://www.papercall.io/dod-dfw-2020" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://www.papercall.io/dod-dfw-2020" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 masthead_background: "PlanoEventCenter.jpg"
+sharing_image: "dallas2020.png"
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2020-02-09T00:00:00-05:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2020-08-27T23:59:59-05:00 #close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -36,9 +37,9 @@ location_address: "2000 East Spring Creek Parkway, Plano, TX 75074" #Optional - 
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
-# - name: propose
+  - name: propose
 #  - name: program
-# - name: registration
+  - name: registration
 # - name: speakers
   - name: sponsor
   - name: contact
@@ -50,14 +51,6 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
-  - name: "Franklin Mosley"
-    employer: "PagerDuty"
-    bio: "As a young child, I was introduced to computers, and they became my passion. I began writing programs, and by the age of 10, I knew what I wanted to do when I “grew up” without understanding how computers and technology would influence our world in the future. <br><br>Fast forward to present times, and we live in a digitally connected world. Innovations have improved business and personal technology while increasing productivity. Unfortunately, this has also lead to opportunities for, and an increase in, cyber threats. According to a 2013 report, over 552 million identities were exposed via breaches, and there was a 62% increase in the number of breaches over the previous year. <br><br>As a 16-year experienced Information Security professional, I have helped businesses counter threats. I have assessed applications for security risks, and implemented security controls. Having also been a software engineer, in an earlier part of my career, as well as still writing code for fun and the challenges, my focus on application security is a natural place for me to practice, and has become my passion. <br><br>In recent years, I’ve become involved with, and very interested in, DevOps/DevSecOps. This way of software delivery has me looking for ways to improve processes, while still ensuring that teams are delivering secure software."
-    twitter: "fpmosley3"
-    linkedin: "https://www.linkedin.com/in/franklinmosley/"
-    website: ""
-    github: "https://github.com/fpmosley"
-    image: "franklin.jpg"
 
   - name: "Gokul Sridharan"
     employer: "Micro Focus"
@@ -82,6 +75,7 @@ team_members: # Name is the only required field for team members.
 
   - name: "Jessica Sabugo"
     employer: "Estech Systems, Inc. (ESI)"
+    bio: "Jessica is an automation engineer. She has a deep interest in the DevOps culture and she keeps continuously learning. Her dream is to travel all over the world. She is currently leading the automation and QA team, trying to help her team get involved in the DevOps world."
     twitter: "jessica_sabugo"
     linkedin: "https://www.linkedin.com/in/jessica-sabugo-581ab658/"
     image: "jessica-sabugo.jpg"
@@ -96,13 +90,10 @@ team_members: # Name is the only required field for team members.
 
   - name: "John-Paul Herold"
     employer: "Southwest Airlines"
+    bio: "John-Paul Herold is an engineer focusing on cloud architectures, tooling for more frequent deployments, container orchestration, improving observability, and building great teams. John-Paul was previously a Java developer, made the transition to Cloud Engineer 6 years ago, and is currently a Tech Lead for Southwest Airlines.<br><br>His path with DevOpsDays started in 2015 when he attended both Dallas and Austin, and has continued every year since. He volunteered for Dallas the first time in 2019, and Dallas 2020 will be his first time as an organizer. <br><br>John-Paul is based in Dallas and has a CSE degree from Southern Methodist University. In his off time he enjoys playing soccer, listening to music, running a homelab, reading tech books, and working on projects in his garage."
     twitter: "thedailyherold"
     linkedin: "https://www.linkedin.com/in/johnpaulherold/"
-
-  - name: "Katie Uebele"
-    employer: "InfoVision, Inc."
-    twitter: "KT_InfoVision"
-    linkedin: "https://www.linkedin.com/in/katieuebele/"
+    image: "herold.jpg"
 
   - name: "Lee Herrin"
     employer: "Dell EMC"
@@ -113,20 +104,12 @@ team_members: # Name is the only required field for team members.
 
   - name: "Mark Andersen"
     employer: "Capital One"
-    bio: "Mark loves DevOps and the cloud and has spend the last 2 years with Capital One going all in on DevOps and the Cloud. Mark leads DevOps for Capital One Auto Finance and is the Cloud Lead for public cloud accounts in Plano. Previously Mark has spent 14 years at Southwest Airlines in various software development and leadership roles."
+    bio: "Mark loves DevOps and the cloud and has spent the last 2 years with Capital One going all in on DevOps and the Cloud. Mark leads DevOps for Capital One Auto Finance and is the Cloud Lead for public cloud accounts in Plano. Previously Mark has spent 14 years at Southwest Airlines in various software development and leadership roles."
     twitter: "mandersen94"
     linkedin: "https://www.linkedin.com/in/markandersen94/"
     website: "https://www.capitalone.com/"
     github: "https://github.com/mandersen94/"
     image: "mark-andersen.jpg"
-
-  - name: "Mark Saum"
-    employer: "Fidelis Consulting"
-    bio: "20+ years advising large corporations and fast growth startups in IT architecture and security. <br><br>Mark Saum currently serves as the Chief Information Security Officer of DirectStream, LLC. DirectStream was founded by supercomputing pioneer Seymour Cray and provides a breakthrough supercomputing system and a secure cloud platform. DirectStream's goal is to provide the fastest, most secure computing platform on the planet. In this role, Mr. Saum has overall responsibility for the company’s corporate, hardware and cloud platform security. <br><br>Mr. Saum joined DirectStream from ModoPayments, where he was a co-founder and served as the CIO and CISO.  While at ModoPayments, he was co-inventor of US Patent US20120101887, A System and Method for Managing Merchant-Customer Interactions. He remains as an investor and advisor to ModoPayments. <br><br>Mr. Saum has provided IT consulting through Fidelis Consulting Corporation since 1997. His customers have included IBM, AT&T, General Motors, Sun Microsystems, JPMorganChase, Lucent Technologies, the Intelligence Community, US Cellular, GameStop,  and Verizon Wireless. <br><br>Mr. Saum is an AWS Certified Solutions Architect and holds a B. B. A. in Business Analysis/Management Information Systems from Texas A&M University, College Station."
-    twitter: "msaum"
-    linkedin: "https://www.linkedin.com/in/marksaum/"
-    website: "http://www.fideliscorp.com/"
-    image: "mark-saum.jpg"
 
   - name: "Megan Bohl"
     employer: "NCR Corporation"
@@ -137,7 +120,7 @@ team_members: # Name is the only required field for team members.
 
   - name: "Mike Rosado"
     employer: "Independent Consultant"
-    bio: "Mike who is a DevOps Enthusiast and Technical Evangelist works as an Independent Consultant with customers in the United States and throughout Latin America. Mike enjoys sharing his views as it relates to the cultural movement of DevOps and technologies that contribute to the continuous improvement. He enjoys it so much, that he became one of the integral local organizers of DevOpsDays Dallas, [DevOps Live Meetup](https://www.meetup.com/DevOpsLive/), and active Global Core Organizer of [devopsday.org](https://www.devopsdays.org/about). <br><br> As a recognized leader in the DevOps space with exemplary recommendations in the LinkedIn community groups, Mike’s passion in this field shines as he mentors others and enjoys tackling challenges. Mike's vast experience in helping Enterprise customers for 22+ years at Microsoft in various capacity serves as a base as he continues to evolve in this DevOps journey. "
+    bio: "Mike who is a DevOps Enthusiast and Technical Evangelist works as an Independent Consultant with customers in the United States and throughout Latin America. Mike enjoys sharing his views as it relates to the cultural movement of DevOps and technologies that contribute to the continuous improvement. He enjoys it so much, that he became one of the integral local organizers of DevOpsDays Dallas, [DevOps Live Meetup](https://www.meetup.com/DevOpsLive/), and active Global Core Organizer of [devopsday.org](https://www.devopsdays.org/about).<br><br>As a recognized leader in the DevOps space with exemplary recommendations in the LinkedIn community groups, Mike’s passion in this field shines as he mentors others and enjoys tackling challenges. Mike's vast experience in helping Enterprise customers for 22+ years at Microsoft in various capacity serves as a base as he continues to evolve in this DevOps journey. "
     twitter: "MikeRosTX"
     linkedin: "https://www.linkedin.com/in/mikerostx/"
     github: "mikerostx"
@@ -156,7 +139,7 @@ team_members: # Name is the only required field for team members.
 
   - name: "Russell W. Black"
     employer:  "Independent DevOps Consultant"
-    bio: "Russell has over 25 years of IT experience. Starting as a Web Developer, then moving into IT Leadership Russell was introduced to DevOps 5 years ago while managing platform and systems that ran the Verizon Global Website (www.verizon.com). He learned and adopted Agile and Cloud-First methologies from some of the most knowledgeable DevOps authorities.  For most of the past 10 years, he has managaged multi-cultural teams responsible for software development and delivery, production support, Operations, and end-user support of startegic enterprise business processes.  Currently Russell is an Independent Consultant working with IT Leadership of international industry leaders to help them adopt and foster a culture of DevOps; to help them keep their business ahead of the competition."
+    bio: "Russell has over 25 years of IT experience. Starting as a Web Developer, then moving into IT Leadership Russell was introduced to DevOps 5 years ago while managing platform and systems that ran the Verizon Global Website (www.verizon.com). He learned and adopted Agile and Cloud-First methologies from some of the most knowledgeable DevOps authorities.<br><br>For most of the past 10 years, he has managaged multi-cultural teams responsible for software development and delivery, production support, Operations, and end-user support of startegic enterprise business processes.<br><br>Currently Russell is an Independent Consultant working with IT Leadership of international industry leaders to help them adopt and foster a culture of DevOps; to help them keep their business ahead of the competition."
     linkedin: "https://www.linkedin.com/in/russellblack/"
     image: "russell.jpg"
 
@@ -167,13 +150,6 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/scott-purgerson-5858224"
     website: "https://www.automationanywhere.com/"
     image: "scott.jpg"
-
-  - name: "Tim Williams"
-    employer: "Fearless Information Security, LLC"
-    bio: "Tim has spent over 15 years as an Information Security professional, working for the US Government, Fortune 500, and as acting CISO for a large SaaS company. He now manages his own Information Security Consulting firm, which covers a wide-range of services from Compliance, SaaS security, vCISO and sales support, Privacy issues such as GDPR, to specializing in providing Application Security within a DevOps environment."
-    linkedin: "https://www.linkedin.com/in/securitytimwilliams/"
-    website: "http://www.fearlessinfosec.com/"
-    image: "tim.jpg" 
     
 # - name: ""
 #   employer: "Organizer Role - "
@@ -195,6 +171,16 @@ sponsors:
 # - id: samplesponsorname
 #  level: gold
 #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: solarwinds
+    level: platinum
+  - id: appdynamics
+    level: gold
+  - id: chef
+    level: gold
+  - id: xmatters
+    level: gold
+  - id: launch-darkly
+    level: gold
   - id: arresteddevops
     level: media
   - id: devopslive

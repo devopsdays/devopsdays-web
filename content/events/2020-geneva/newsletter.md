@@ -3,7 +3,11 @@ Title = "Newsletter"
 Type = "event"
 Description = "Newsletter devopsdays Geneva 2020"
 +++
-
+<style type="text/css">
+ div.sponsor-row img.img-fluid{
+    max-height: 50px;
+  }
+</style>
 **Subscribe to our newsletter for the next news !**
 
 <!-- Begin Mailchimp Signup Form -->

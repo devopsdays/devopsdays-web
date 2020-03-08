@@ -7,7 +7,7 @@ description: "DevOpsDays Denver Coming Up!"
 friendly: "2020-denver"
 ga_tracking_id: "UA-146926657-1"
 
-startdate: 2020-04-26T00:00:00-06:00
+startdate: 2020-04-27T00:00:00-06:00
 enddate: 2020-04-28T23:59:59-06:00
 
 # Custom reusables
@@ -20,7 +20,7 @@ cfp_date_start: 2019-11-27T00:00:00-07:00  # start accepting talk proposals.
 cfp_date_end: 2020-01-25T23:59:59-07:00  # close your call for proposals.
 cfp_date_announce: 2020-02-11T23:59:59-06:00  # inform proposers of status
 
-cfp_open: "true"
+cfp_open: "false"
 
 cfp_link: "https://dodrockies2020.busyconf.com/proposals/new"
 
@@ -73,7 +73,28 @@ sponsors_accepted: "true"
 sponsors:
   - id: arresteddevops
     level: community
-
+  - id: circleci
+    level: gold
+  - id: influxdata
+    level: gold
+  - id: codefresh
+    level: silver
+  - id: site24x7
+    level: silver
+  - id: appdynamics
+    level: silver
+  - id: harness
+    level: silver
+  - id: elastic
+    level: silver
+  - id: armory
+    level: silver
+  - id: vmware-tanzu
+    level: silver
+  - id: logz
+    level: silver
+  - id: redis-labs
+    level: silver
 sponsor_levels:
   - id: gold
     label: Gold

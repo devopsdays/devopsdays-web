@@ -14,17 +14,17 @@ startdate: 2020-09-30T00:08:00-04:00 # The start date of your event. Leave blank
 enddate: 2020-10-01T00:17:00-04:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start:  2020-01-10T23:59:59-05:00 # start accepting talk proposals.
+cfp_date_end:  2020-04-15T23:59:59-05:00 # close your call for proposals.
+cfp_date_announce:  2020-05-01T23:59:59-05:00 # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://www.papercall.io/dodbuf2020" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2020-02-25T12:00:00-05:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2020-09-30T08:59:59-05:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://ti.to/devops-days-buffalo/2020" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -34,12 +34,12 @@ location: "Hotel Henry" # Defaults to city, but you can make it the venue name.
 location_address: "444 Forrest Avenue, BUFFALO, NY, 14213" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
   - name: location
- # - name: registration
+  - name: registration
  # - name: program
  # - name: speakers
- # - name: sponsor
+  - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
@@ -96,14 +96,16 @@ organizer_email: "buffalo@devopsdays.org" # Put your organizer email address her
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: samplesponsorname
-    level: gold
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  - id: arresteddevops
-    level: community
   - id: devrelate
     level: community
-
+  - id: gitlab
+    level: silver
+  - id: torchio
+    level: silver
+  - id: starkandwayne
+    level: gold
+  - id: bcbswny
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

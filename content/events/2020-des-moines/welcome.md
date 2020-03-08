@@ -6,15 +6,15 @@ Description = "devopsdays Des Moines 2020"
 +++
 <div class="row">
   <div class='col-12 text-center' style="padding-bottom:25px">
-    <h1>DevopsDays Des Moines is back for 2020!</h1>
+    <h1>Early Bird Tickets Available!</h1>
   </div>
 </div>
 <div class = "row">
   <div class = "col-md-4">
     <div class = "row justify-content-center">
       <div class = "d-flex p-2">
-        <a class="btn btn-primary btn-block"  style = "background-color: #96bfe6; border-color: #96bfe6;" href="https://www.papercall.io/devopsdaysdesmoines2020">
-          <i class="fa fa-bullhorn fa-lg"></i>&nbsp;&nbsp;&nbsp;Propose a Talk
+        <a class="btn btn-primary btn-block"  style = "background-color: #96bfe6; border-color: #96bfe6;" href="https://www.eventbrite.com/e/devopsdays-des-moines-2020-tickets-94480984167">
+          <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Get Tickets
         </a>
       </div>
       <!-- <div class = "d-flex p-2">
@@ -34,6 +34,7 @@ Description = "devopsdays Des Moines 2020"
   <div class="col-1"></div>
   <div class = "col-md-7">
     <div class="row">
+      <p>We have a limited number of early bird tickets available. <a href="https://www.eventbrite.com/e/devopsdays-des-moines-2020-tickets-94480984167">Get yours now</a> before they're gone!</p>
       <p>Last year the conference sold out. As a result of the demand, we have expanded to accommodate more attendees. We still expect to sell out again this year, so don’t delay getting your ticket.</p>
       <p>Help us spread the word: We’d love your help in making this a successful event. If you enjoyed the conference last year and are willing to recommend it to others, please share this with your teammates and colleagues. Follow us on twitter and linkedin for updates on the event including program and speaker announcements.</p>
       <p>Thanks, and we look forward to seeing you at the conference this year!</p>

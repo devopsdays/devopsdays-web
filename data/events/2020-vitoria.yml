@@ -29,16 +29,16 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 # Location
 #
-coordinates: "-20.3532742, -40.3063625" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "UVV Universidade de Vila Velha" # Defaults to city, but you can make it the venue name.
+coordinates: "-20.2923283, -40.3018722" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Vitoria Grand Hall" # Defaults to city, but you can make it the venue name.
 #
-location_address: "Avenida Comissário José Dantas de Melo, 21 - Boa Vista II, Vila Velha - ES, 29102-920" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "R. Dr. João Carlos de Souza, 55 - Santa Luíza, Vitória - ES, 29045-410" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
- # - name: location
+  - name: location
  # - name: registration
- # - name: program
+  - name: program
   - name: speakers
   - name: sponsor
   - name: contact
@@ -148,27 +148,45 @@ sponsors:
   - id: spiritsec
     level: gold
     url: https://www.spiritsec.com/en/
+  - id: autoglass
+    level: gold
+  - id: AtmanSystems
+    level: gold
+  - id: LPI
+    level: gold
+  - id: redevitoria
+    level: gold
   - id: guiafoca
     level: community
-    url: https://guiafoca.org/
   - id: viprede
     level: platinum
-    url: http://viprede.com.br/
   - id: globalsys
     level: platinum
-    url: http://www.globalsys.com.br/
+  - id: picpay
+    level: platinum
+  - id: msazure
+    level: platinum
+  - id: manning
+    level: community
+  - id: digitalocean
+    level: community
 #  - id: picpay
 #    level: platinum
 #    url: https://www.picpay.com/
   - id: aws
     level: silver
-    url: https://aws.amazon.com/
   - id: inflor
     level: silver
-    url: https://www.inflor.com.br/
   - id: flexa
     level: silver
-    url: https://flexa.cloud/
+  - id: pag
+    level: silver
+  - id: clickativo
+    level: silver
+  - id: wine
+    level: silver
+  - id: globocom
+    level: silver
 #  - id: liftbank
 #    level: silver
 #    url: https://liftbank.com.br/
@@ -202,3 +220,112 @@ sponsor_levels:
 #    label: Bronze
   - id: community
     label: Community
+program:
+  - title: "Rock at the Beach - Barlavento (evento não oficial. Ingressos e consumação não inclusos no ingresso do DevOpsDays Vitória"
+    type: custom
+    date: 2020-02-07T08:00:00-03:00
+    start_time: "20:00"
+    end_time: "23:00"
+  - title: "Credenciamento"
+    type: custom
+    date: 2020-02-08T08:00:00-03:00
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Abertura"
+    type: custom
+    date: 2020-02-08T08:00:00-03:00
+    start_time: "09:00"
+    end_time: "09:30"
+  - title: "sasha-rosenbaum"
+    type: talk
+    date: 2020-02-08T08:00:00-03:00
+    start_time: "09:30"
+    end_time: "10:00"
+    background_color: "#AED6F1"
+  - title: "fernando-ike"
+    type: talk
+    date: 2020-02-08T08:00:00-03:00
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Coffee Break"
+    type: custom
+    date: 2020-02-08T08:00:00-03:00
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "monica-cachoni"
+    type: talk
+    date: 2020-02-08T08:00:00-03:00
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "camilla-martins"
+    type: talk
+    date: 2020-02-08T08:00:00-03:00
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "gleydson-mazioli"
+    type: talk
+    date: 2020-02-08T08:00:00-03:00
+    start_time: "12:00"
+    end_time: "12:30"
+  - title: "Almoço"
+    type: custom
+    date: 2020-02-08T08:00:00-03:00
+    start_time: "12:30"
+    end_time: "14:00"
+  - title: "marco-junior"
+    type: talk
+    date: 2020-02-08T08:00:00-03:00
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: "OpenSpace na prática"
+    type: custom
+    date: 2020-02-08T08:00:00-03:00
+    start_time: "14:30"
+    end_time: "15:30"
+  - title: "Coffee Break"
+    type: custom
+    date: 2020-02-08T08:00:00-03:00
+    start_time: "15:30"
+    end_time: "16:00"
+  - title: "rafael-gomes-gomex"
+    type: talk
+    date: 2020-02-08T08:00:00-03:00
+    start_time: "16:00"
+    end_time: "16:30"
+    background_color: "#AED6F1"
+  - title: "samanta-santos"
+    type: talk
+    date: 2020-02-08T08:00:00-03:00
+    start_time: "16:30"
+    end_time: "17:00"
+  - title: "yago-nobre"
+    type: talk
+    date: 2020-02-08T08:00:00-03:00
+    start_time: "17:00"
+    end_time: "17:30"
+  - title: "moises-margotto"
+    type: talk
+    date: 2020-02-08T08:00:00-03:00
+    start_time: "17:30"
+    end_time: "18:00"
+  - title: "jeferson-fernando"
+    type: talk
+    date: 2020-02-08T08:00:00-03:00
+    start_time: "18:00"
+    end_time: "18:30"
+    background_color: "#AED6F1"
+  - title: "Closing"
+    type: custom
+    date: 2020-02-08T08:00:00-03:00
+    start_time: "18:30"
+    end_time: "19:30"
+  - title: "Open Party"
+    type: custom
+    date: 2020-02-08T08:00:00-03:00
+    start_time: "20:00"
+    end_time: "22:00"
+  - title: "Praiana (Curva da Sereia, Praia da Costa)"
+    type: custom
+    date: 2020-02-09T08:00:00-03:00
+    start_time: "08:00"
+    end_time: "11:00"

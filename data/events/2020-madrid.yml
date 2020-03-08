@@ -114,13 +114,31 @@ sponsors:
    level: gold
  - id: elastic
    level: gold
+ - id: encamina
+   level: gold
+ - id: deiser
+   level: gold
+   
+ - id: autentia
+   level: gold-media
+
  - id: altran
    level: silver
+ - id: cloudflare
+   level: silver
+ - id: tecnofor
+   level: silver
+ - id: openbank
+   level: silver
+
  - id: intelygenz
    level: bronze
  - id: tokiota
    level: bronze
+
  - id: madriddevops
+   level: community
+ - id: commit
    level: community
  - id: womenindevopses
    level: community
@@ -129,6 +147,8 @@ sponsors:
  - id: ceu
    level: community
  - id: ironhack
+   level: community
+ - id: malt
    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -140,6 +160,10 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Gold
+    max: 5
+
+  - id: gold-media
+    label: Gold (Media)
     max: 5
 
   - id: silver
@@ -154,17 +178,201 @@ sponsor_levels:
     label: Community
 
 program:
-#- title: "Registration and Breakfast" # Day 1 Start
-#  type: custom
-#  date: 2018-09-19
-#  start_time: "8:00"
-#  end_time: "9:00"
-#
-#- title: "Opening Welcome"
-#  type: custom
-#  date: 2018-09-19
-#  start_time: "9:00"
-#  end_time: "9:15"
+  #   Day 1
+  - title: "Registration"
+    type: custom
+    date: "2020-02-21"
+    start_time: "08:00"
+    end_time: "09:00"
+    background_color: "#FFFFFF"
+  - title: "Welcome Speech"
+    type: custom
+    date: "2020-02-21"
+    start_time: "09:00"
+    end_time: "09:15"
+    comments: "Main Track"
+    background_color: "#0082AB"
+  - title: "manuel-pais"
+    type: talk
+    date: "2020-02-21"
+    start_time: "09:15"
+    end_time: "10:00"
+    comments: "Main Track"
+    background_color: "#0082AB"
+
+
+  - title: "nicolas-frankel"
+    type: talk
+    date: "2020-02-21"
+    start_time: "10:15"
+    end_time: "11:00"
+    comments: "Track 1"
+    background_color: "#00C342"
+  - title: "russell-kaehler"
+    type: talk
+    date: "2020-02-21"
+    start_time: "10:15"
+    end_time: "11:00"
+    comments: "Track 2"
+    background_color: "#99E6FF"
+  - title: "paolo-minardi"
+    type: talk
+    date: "2020-02-21"
+    start_time: "10:15"
+    end_time: "11:00"
+    comments: "Track 3"
+    background_color: "#FF8300"
+
+  - title: "Coffee Break"
+    type: custom
+    date: "2020-02-21"
+    start_time: "11:00"
+    end_time: "11:30"
+
+  - title: "paul-stack"
+    type: talk
+    date: "2020-02-21"
+    start_time: "11:30"
+    end_time: "12:15"
+    comments: "Track 1"
+    background_color: "#00C342"
+  - title: "diany-palacios"
+    type: talk
+    date: "2020-02-21"
+    start_time: "11:30"
+    end_time: "12:15"
+    comments: "Track 2"
+    background_color: "#99E6FF"
+  - title: "sergio-navarro"
+    type: talk
+    date: "2020-02-21"
+    start_time: "11:30"
+    end_time: "12:15"
+    comments: "Track 3"
+    background_color: "#FF8300"
+
+  - title: "txetxu-velayos"
+    type: talk
+    date: "2020-02-21"
+    start_time: "12:30"
+    end_time: "13:15"
+    comments: "Track 1"
+    background_color: "#00C342"
+  - title: "thorsten-jakoby"
+    type: talk
+    date: "2020-02-21"
+    start_time: "12:30"
+    end_time: "13:15"
+    comments: "Track 2"
+    background_color: "#99E6FF"
+  - title: "dirk-lehmann"
+    type: talk
+    date: "2020-02-21"
+    start_time: "12:30"
+    end_time: "13:15"
+    comments: "Track 3"
+    background_color: "#FF8300"
+
+  - title: "giacomo-bagnoli"
+    type: talk
+    date: "2020-02-21"
+    start_time: "13:30"
+    end_time: "14:15"
+    comments: "Track 1"
+    background_color: "#00C342"
+  - title: "alejandro-garcia"
+    type: talk
+    date: "2020-02-21"
+    start_time: "13:30"
+    end_time: "14:15"
+    comments: "Track 2"
+    background_color: "#99E6FF"
+  - title: "andrey-devyatkin"
+    type: talk
+    date: "2020-02-21"
+    start_time: "13:30"
+    end_time: "14:15"
+    comments: "Track 3"
+    background_color: "#FF8300"
+
+  - title: "Lunch"
+    type: custom
+    date: "2020-02-21"
+    start_time: "14:15"
+    end_time: "15:00"
+  - title: "jessica-deen"
+    type: talk
+    date: "2020-02-21"
+    start_time: "15:00"
+    end_time: "16:00"
+    comments: "Main Track"
+    background_color: "#0082AB"
+  - title: "Open Spaces"
+    type: custom
+    date: "2020-02-21"
+    start_time: "16:00"
+    end_time: "19:00"
+    comments: "Room for Open Spaces"
+    background_color: "#ff3300"
+
+  - title: "juampy-nr"
+    type: talk
+    date: "2020-02-21"
+    start_time: "16:15"
+    end_time: "17:00"
+    comments: "Track 1"
+    background_color: "#00C342"
+  - title: "veronica-moreno"
+    type: talk
+    date: "2020-02-21"
+    start_time: "16:15"
+    end_time: "17:00"
+    comments: "Track 2"
+    background_color: "#99E6FF"
+  - title: "-"
+    type: custom
+    date: "2020-02-21"
+    start_time: "16:15"
+    end_time: "17:00"
+    comments: "Track 3"
+    background_color: "#FF8300"
+
+  - title: "pablo-chico"
+    type: talk
+    date: "2020-02-21"
+    start_time: "17:15"
+    end_time: "18:00"
+    comments: "Track 1"
+    background_color: "#00C342"
+  - title: "dave-macallister"
+    type: talk
+    date: "2020-02-21"
+    start_time: "17:15"
+    end_time: "18:00"
+    comments: "Track 2"
+    background_color: "#99E6FF"
+  - title: "miguel-angel-garcia"
+    type: talk
+    date: "2020-02-21"
+    start_time: "17:15"
+    end_time: "18:00"
+    comments: "Track 3"
+    background_color: "#FF8300"
+
+  - title: "viktor-farcic"
+    type: talk
+    date: "2020-02-21"
+    start_time: "18:15"
+    end_time: "19:15"
+    comments: "Main Track"
+    background_color: "#0082AB"
+  - title: "Closing"
+    type: custom
+    date: "2020-02-21"
+    start_time: "19:15"
+    end_time: "19:30"
+    comments: "Main Track"
+    background_color: "#0082AB"
 
 ignites:
 #- title: "laura-maguire-ignite"

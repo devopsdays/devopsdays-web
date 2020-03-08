@@ -159,9 +159,9 @@ sponsors:
     level: gold
   - id: verizon
     level: gold
-  - id: nutanix
+  - id: nutanix-before-20200127
     level: gold
-  - id: instana
+  - id: instana-before-20200127
     level: gold
   - id: mabl
     level: gold
@@ -177,7 +177,7 @@ sponsors:
     level: gold
   - id: herzum
     level: gold
-  - id: logz
+  - id: logz-before-20200211
     level: platinum
   - id: victorops-before-20180823
     level: platinum

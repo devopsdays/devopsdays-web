@@ -3,7 +3,7 @@ year: "2020" # The year of the event. Make sure it is in quotes.
 city: "Baltimore" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysbmore" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "Devopsdays is coming back to Baltimore!" # Edit this to suit your preferences
-ga_tracking_id: "UA-154571978-1" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+ga_tracking_id: "UA-158845020-1" # Google Analytics for DevOpsDays Baltimore
 
 masthead_background: "bmore_skyline_inner_harbor.jpg"
 # All dates are in unquoted 2020-MM-DDTHH:MM:SS+TZ:TZ, like this:
@@ -27,7 +27,7 @@ registration_date_end: 2020-04-22T17:00:00-04:00 # close registration. Leave bla
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
-
+sharing_image: "sharing.jpg"
 # Custom Links
 slack_link: "http://slack.baltimoretech.org"
 sponsor_faq_link: "https://docs.google.com/document/d/1O7SJsQJ5wRxVFgsN1hkA7M-3gD3IyeFOJdvsHsRx7Lo/edit?usp=sharing"
@@ -111,8 +111,21 @@ organizer_email: "baltimore@devopsdays.org"
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
- #  - id: samplesponsorname
- #    level: gold
+  ## Platinum
+  - id: tenable
+    level: platinum
+  - id: appdynamics
+    level: platinum
+  ## Gold
+  ## Silver
+  #- id: plexsolutions ## Awaiting Payment
+  #  level: silver
+  ## Community
+  - id: agilecharm
+    level: community
+  ## Media
+  - id: mastermnd
+    level: media
  # #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
  #  - id: arresteddevops
  #    level: community

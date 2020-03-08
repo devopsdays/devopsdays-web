@@ -137,7 +137,7 @@ sponsors:
     level: venue
   - id: contino
     level: silver
-  - id: instana
+  - id: instana-before-20200127
     level: gold
   - id: influxdata
     level: gold
@@ -155,7 +155,7 @@ sponsors:
     level: gold
   - id: chef
     level: gold
-  - id: chaossearch
+  - id: chaossearch-before-20200120
     level: silver
   - id: rancher-before-20190812
     level: silver
@@ -183,11 +183,11 @@ sponsors:
     level: bronze
   - id: wavefront
     level: silver
-  - id: logz
+  - id: logz-before-20200211
     level: bronze
-  - id: pure-storage
+  - id: pure-storage-before-20200112
     level: bronze
-  - id: pure-storage
+  - id: pure-storage-before-20200112
     level: registration
   - id: cloudbees-codeship
     level: bronze

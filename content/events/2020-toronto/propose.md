@@ -31,6 +31,27 @@ Choosing talks is part art, part science; here are some factors we consider when
 - __No third-party submissions__: If a PR firm or your marketing department is proposing the talk, you've already shown that as a speaker you're distant from the process. This is a small community-driven event, and speakers need to be directly engaged with the organizers and attendees.
 - __No vendor pitches__: As much as we value vendors and sponsors, we are not going to accept a talk that appears to be a pitch for your product.
 
+### Why Speak?
+
+Check out a recap of last year's event!
+
+<div class="row">
+  <div class="col col-md-6">
+    <div class="embed-responsive embed-responsive-16by9">
+    <iframe
+      class="embed-responsive-item"  
+      src="https://www.youtube.com/embed/videoseries?list=PLOL4f8-CmvcLFLKOK7Hb6Uc76YL3nGJGK"
+      allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen
+    ></iframe>
+    </div>
+  </div>
+</div>
+
+
+
+<p></p>
+
 ### Submit
 
 To submit a talk visit our <a href="https://www.papercall.io/dodto2020" target="_blank">Papercall</a> site.

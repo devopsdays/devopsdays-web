@@ -69,7 +69,7 @@ organizer_email: "charlotte@devopsdays.org" # Put your organizer email address h
 sponsors:
   - id: red-ventures
     level: gold
-  - id: f5
+  - id: f5-nginx
     level: gold
   - id: launch-darkly
     level: gold
@@ -79,7 +79,31 @@ sponsors:
     level: gold
   - id: appdynamics
     level: gold
+  - id: gitlab
+    level: gold
+  - id: instana
+    level: gold
+  - id: newrelic
+    level: gold
+  - id: site24x7
+    level: gold
+  - id: sonatype
+    level: gold
+  - id: paloaltonetworks
+    level: gold
+  - id: mattermost
+    level: gold
+  - id: hcl
+    level: silver
+  - id: delphix
+    level: silver
+  - id: rancher
+    level: silver
+  - id: eliassen-group
+    level: silver
   - id: arresteddevops
+    level: community
+  - id: manning
     level: community
 #  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 
@@ -147,30 +171,25 @@ program:
     date: 2020-02-27
     start_time: "13:00"
     end_time: "13:10"
-  - title: "farrah-campbell-ignite"
+  - title: "chris-diaz"
     type: talk
     date: 2020-02-27
     start_time: "13:10"
     end_time: "13:20"
-  - title: "chris-diaz"
+  - title: "amber-vaidya"
     type: talk
     date: 2020-02-27
     start_time: "13:20"
     end_time: "13:30"
-  - title: "amber-vaidya"
-    type: talk
-    date: 2020-02-27
-    start_time: "13:30"
-    end_time: "13:40"
   - title: "Ignite Karaoke"
     type: custom
     date: 2020-02-27
-    start_time: "13:40"
-    end_time: "14:00"
+    start_time: "13:30"
+    end_time: "13:45"
   - title: "Sponsors, Open Spaces Topics & Break"
     type: custom
     date: 2020-02-27
-    start_time: "14:00"
+    start_time: "13:45"
     end_time: "14:30"
   - title: "Open Space #1"
     type: open-space
@@ -197,7 +216,7 @@ program:
     date: 2020-02-27
     start_time: "16:00"
     end_time: "16:15"
-  - title: "Social Event - Offsite"
+  - title: "Social Event - The Office Restaurant"
     type: custom
     date: 2020-02-27
     start_time: "16:30"
@@ -207,7 +226,7 @@ program:
     date: 2020-02-28
     start_time: "08:15"
     end_time: "09:00"
-  - title: "brittney-ball"
+  - title: "julie-gunderson"
     type: talk
     date: 2020-02-28
     start_time: "09:00"
@@ -217,7 +236,7 @@ program:
     date: 2020-02-28
     start_time: "09:30"
     end_time: "10:00"
-  - title: "farrah-campbell-talk"
+  - title: "austin-burdine"
     type: talk
     date: 2020-02-28
     start_time: "10:00"
@@ -247,63 +266,38 @@ program:
     date: 2020-02-28
     start_time: "12:15"
     end_time: "13:00"
-  - title: "julie-gunderson"
-    type: talk
-    date: 2020-02-28
-    start_time: "13:00"
-    end_time: "13:30"
-  - title: "logan-daigle"
-    type: talk
-    date: 2020-02-28
-    start_time: "13:30"
-    end_time: "13:40"
-  - title: "henry-quinn"
-    type: talk
-    date: 2020-02-28
-    start_time: "13:40"
-    end_time: "13:50"
-  - title: "austin-burdine"
-    type: talk
-    date: 2020-02-28
-    start_time: "13:50"
-    end_time: "14:00"
-  - title: "theo-salvo"
-    type: talk
-    date: 2020-02-28
-    start_time: "14:00"
-    end_time: "14:10"
   - title: "baruch-sadogursky"
     type: talk
     date: 2020-02-28
-    start_time: "14:10"
-    end_time: "14:20"
+    start_time: "13:00"
+    end_time: "13:10"
   - title: "aaron-aldrich-lightning"
     type: talk
     date: 2020-02-28
-    start_time: "14:20"
-    end_time: "14:25"
+    start_time: "13:10"
+    end_time: "13:20"
   - title: "Sponsors, Open Spaces Topics & Break"
     type: custom
     date: 2020-02-28
-    start_time: "14:25"
-    end_time: "14:45"
+    start_time: "13:20"
+    end_time: "14:00"
   - title: "Open Space #1"
     type: open-space
     date: 2020-02-28
-    start_time: "14:45"
-    end_time: "15:15"
+    start_time: "14:00"
+    end_time: "14:30"
   - title: "rosemary-wang"
     type: talk
     date: 2020-02-28
-    start_time: "14:45"
-    end_time: "15:45"
+    start_time: "14:00"
+    end_time: "15:00"
   - title: "Open Space #2"
     type: open-space
     date: 2020-02-28
-    start_time: "15:15"
-    end_time: "15:45"
+    start_time: "14:30"
+    end_time: "15:00"
   - title: "Closing Ceremony"
     type: custom
     date: 2020-02-28
-    start_time: "15:45"
-    end_time: "16:00"
+    start_time: "15:00"
+    end_time: "15:10"

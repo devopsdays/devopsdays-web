@@ -1,6 +1,6 @@
 +++
 Title = "Mofizur Rahman"
-Linkedin = ""
+Linkedin = "https://www.linkedin.com/in/moficodes/"
 Website = "https://dev.to/moficodes"
 Twitter = "moficodes"
 image = "mofizur-rahman.jpg"

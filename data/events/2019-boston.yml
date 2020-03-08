@@ -117,7 +117,7 @@ sponsors:
     level: platinum
   - id: cloudbees
     level: platinum
-  - id: logzio
+  - id: logz-before-20200211
     level: gold
   - id: circleci
     level: platinum
@@ -133,7 +133,7 @@ sponsors:
     level: platinum
   - id: netapp
     level: gold
-  - id: chaossearch
+  - id: chaossearch-before-20200120
     level: platinum
   - id: chef
     level: platinum
@@ -149,7 +149,7 @@ sponsors:
     level: gold
   - id: sweagle
     level: startup
-  - id: instana
+  - id: instana-before-20200127
     level: gold
   - id: athenahealth
     level: gold

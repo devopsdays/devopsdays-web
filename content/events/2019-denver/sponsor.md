@@ -6,6 +6,8 @@ Type = "event"
 Description = "Sponsor DevopsDays Denver!"
 +++
 
+<div style="background-color: red;">This event has passed. Please visit the <a href="https://devopsdays.org/events/2020-denver/">DevOpsDays Denver 2020 page</a> for updated event information.</div>
+
 <div style="font-size: 2em; font-weight: bold;">
   Sold Out!
 </div>

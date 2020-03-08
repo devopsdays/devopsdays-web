@@ -1,17 +1,21 @@
 +++
 Title = "Conduct"
 Type = "event"
-Description = "Code of conduct for devopsdays portugal 2020"
+Description = "Code of conduct for devopsdays Portugal 2020"
 +++
 
-All participants (including speakers, sponsors, exhibitors, staff and volunteers) at our events are required to abide by the following Code of Conduct to help us achieve a safe and positive event experience for everyone.
+All participants (including speakers, sponsors, exhibitors, staff and volunteers) at devopsdays Portugal are required to abide by the following Code of Conduct. Organisers will enforce this code throughout the event. We are expecting cooperation from all participants to help us achieve a safe and positive event experience for everyone.
 
-DevOpsDays Portugal is committed to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, marriage and civil partnership, pregnancy and maternity, religion or lack thereof. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate at any conference venue, including talks. Organisers will enforce this code throughout the event.
+### The Quick Version
+
+Our conference is committed to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, marriage and civil partnership, pregnancy and maternity, religion or lack thereof, or technology choices. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate at any conference venue, including talks, workshops, parties, Twitter, and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organisers.
+
+### The Less Quick Version
 
 Unacceptable behaviour includes (but is not limited to):
 
 * offensive verbal comments related to; 
-* gender or gender identity, age, sexual orientation, race, religion, disability, professional ability, appearance, education, financial background,
+* gender, gender identity and expression, age, sexual orientation, race, ethnicity, religion, disability, professional ability, physical appearance, body size, education, financial background, technology choices,
 * sexual images in public spaces,
 * deliberate intimidation, bullying, harassment,
 * stalking, following,
@@ -20,9 +24,9 @@ Unacceptable behaviour includes (but is not limited to):
 * inappropriate physical contact,
 * unwelcome sexual attention.
 
-Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.
-
 Participants asked to stop any harassing behavior are expected to comply immediately.
+
+Sponsors are also subject to the anti-harassment policy. In particular, sponsors should not use sexualized images, activities, or other material. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.
 
 If any participant or group of participants engages in behaviour that violates this Code of Conduct, the event organisers will take the appropriate action, including warning or expulsion from the conference with no refund or contacting the appropriate authorities.
 
@@ -44,16 +48,5 @@ To find out more about ableism and replacement terms please [read this guide](ht
 
 Using gendered terms like "dude" or "guys" to address a group of people of varying genders contributes to furthering exclusion of underrepresented individuals. We strongly advise avoiding gendered pronouns as well as gendered terms.
 
-## CODE OF CONDUCT
+_The devopsdays Portugal 2020 Code of Conduct is based on [confcodeofconduct.com](https://confcodeofconduct.com)._
 
-I. I am an attendee at devopsdays, learning from and sharing with other devopsdays attendees in an effort to better myself and my industry. I co-create the experience with fellow attendees. I am prepared to give my energy, presence and sensitivity to creating the best possible experience for myself and others.
-
-II. I am coming to devopsdays to interact with people. I understand that imagery and language which is suggestive or derogatory will offend and make people uncomfortable. I also understand that people may have boundaries and sensibilities different from my own. I will accept without question when informed that something is offensive or unacceptable in the context of the devopsdays event.
-
-III. I will never intentionally harass or offend another attendee regardless of gender, sexual orientation, disability, appearance, size, race or religion and will not abide another attendee being harassed or offended. If I am aware that anyone is uncomfortable or unsafe, I will notify those giving offense and the devopsdays event organizers.
-
-IV. If I am offended or harassed, I will inform people around me who make me feel safe and the event organizers. If I feel safe, at my discretion, I will inform those giving offense of the specific actions with the hope that the other party is well-intentioned and ignorant, but I am under no obligation to do so.
-
-V. I understand that people are different and I attempt to be forgiving of others actions at the level of their sincere intent, but my priority is protecting my safety and the safety of others. I will act without hesitation or reservation until there are no question of the safety of all parties.
-
-VI. I trust the devopsdays organizers and attendees will co-create the best possible experience for everyone involved, as I will. I believe devopsdays is about empowering people and I will not forget I am empowered to create a safe and nurturing environment. If I or any other attendee violates this aspect of the event, I expect the conference organizers to protect the attendees by direct action, including expelling those in violation and contacting the proper authorities.
