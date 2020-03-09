@@ -27,9 +27,9 @@ location: "Science History Institute"
 location_address: "315 Chestnut St, Philadelphia, PA 19106"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
- # - name: location
- # - name: registration
+  - name: propose
+  - name: location
+  - name: registration
  # - name: program
   - name: speakers
   - name: sponsor
@@ -48,7 +48,7 @@ team_members:
     github: "peterjshan"
 
   - name: "Sarah Gray"
-    employer: "PromptWorks"
+    employer: "Linode"
 
   - name: "Clinton Wolfe"
     employer: "Chef"
