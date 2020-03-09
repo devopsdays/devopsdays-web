@@ -30,7 +30,6 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 #
 coordinates: "59.332246, 18.058171" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "7A Posthuset" # Defaults to city, but you can make it the venue name.
-#
 location_address: "Vasagatan 28, Stockholm" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
