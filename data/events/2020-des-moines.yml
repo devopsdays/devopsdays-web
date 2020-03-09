@@ -91,7 +91,11 @@ sponsors:
     level: gold
   - id: alphaserve
     level: gold
-  - id: dynatrace
+#  - id: dynatrace
+#    level: gold
+  - id: principal
+    level: gold
+  - id: appdynamics
     level: gold
   - id: sourceallies
     level: lanyard
