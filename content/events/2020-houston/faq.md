@@ -18,6 +18,7 @@ If you don't see an answer there, please drop us an email at [{{< email_organize
 
 <h3>Frequently Asked Questions</h3>
 <ol>
+<li><a href="#CoronaVirus">Is the conference still on, given COVID-19 situation?</a></li>
 <li><a href="#DressCode">What is the dress code?</a></li>
 <li><a href="#Directions">Where is the conference center?</a></li>
 <li><a href="#Parking">Where to park</a></li>
@@ -28,11 +29,13 @@ If you don't see an answer there, please drop us an email at [{{< email_organize
 
 <hr/>
 
+<a name="CoronaVirus"><h3>1. Is the conference still on, given COVID-19 situation?</h3></a>
+Please check <a href="/events/2020-houston/dodh-health-and-safety-update.pdf">DevOpsDays Houston Health Statement</a> for the latest information.
 
-<a name="DressCode"><h3>1. What is the dress code?</h3></a>
+<a name="DressCode"><h3>2. What is the dress code?</h3></a>
 The conference does not have a dress code. We suggest business casual or casual, as long as it is appropriate for a professional gathering.
 
-<a name="Directions"><h3>2. Where is the conference center?</h3></a>
+<a name="Directions"><h3>3. Where is the conference center?</h3></a>
 The conference will take place at the Norris Conference Centers, Houston/CityCenter. <br/>
 <div style="margin-left:30px">
 816 Town and Country Blvd #210<br/>
@@ -40,15 +43,15 @@ Houston, TX 77024
 </div>
 Check out <a href="/events/2020-houston/location">Location</a> page for direction, parking situation and tips, and best parking garage to use.
 
-<a name="Parking"><h3>3. What is the parking situation?</h3></a>
+<a name="Parking"><h3>4. What is the parking situation?</h3></a>
 The Houston / CityCentre facility is located at the corner of intersection of IH-10 West and Beltway 8. The location features plenty of complimentary parking.  For your convenience, we encourage you to park on the upper floors of the garage attached to the Norris Centers location (paralleling Beltway 8). You will see signs with the Norris name and logo directing you to the correct floors to park.  <a href="https://citycentrehouston.com/parking/">Parking instructions are available here</a>.
 
-<a name="Hotel"><h3>4. Accomodations</h3></a>
+<a name="Hotel"><h3>5. Accomodations</h3></a>
 Book your group rate for DevOpsDays <a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1579727895142&key=GRP&app=resvlink">here</a>
 
 
 
-<a name="Bring"><h3>5. What to bring</h3></a>
+<a name="Bring"><h3>6. What to bring</h3></a>
 There will be keynote addresses, lightning talks, workshops, and open spaces, so make sure you bring your listening ears for talks, laptops for workshops, and bright ideas for open spaces! Also, breakfast and lunch will be provided<br/>
 
 <!-- Check the <a href="/events/2020-houston/program/">final event program</a>. <br/> -->
