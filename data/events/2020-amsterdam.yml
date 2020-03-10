@@ -105,6 +105,8 @@ sponsors:
     level: gold
   - id: kpn-ict
     level: gold
+  - id: elastic
+    level: gold
   # silvers
   - id: cyso
     level: silver
