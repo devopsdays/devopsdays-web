@@ -5,7 +5,8 @@ aliases = ["/events/2020-prague/"]
 Description = "Devopsdays Prague 2020"
 +++
 
-<h1> DevOpsDays Prague is Sold Out! </h1>
+<h1> Due to the COVID-19 outbrake we have been forced to postpone the event and move it from March to September. </h1>
+<h2> DevOpsDays Prague is currently Sold Out! But you can still email {{< email_organizers >}} to be added to waiting list. </h2>
 
 <div style="text-align:center;">
   {{< event_logo >}}
