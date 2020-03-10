@@ -36,9 +36,9 @@ location_address: "Av. Murilo Dantas, 300 - Farolândia, Aracaju/SE" #Optional -
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
 #  - name: location
-  - name: Palestre (CFP)
-    icon: "user-plus"
-    url: "https://cfp.devopsdays.com.br/aju2020/"
+  # - name: Palestre (CFP)
+  #   icon: "user-plus"
+  #   url: "https://cfp.devopsdays.com.br/aju2020/"
   - name: Ingressos
     icon: "user-plus"
     url: "https://devopsdaysaracaju.eventize.com.br/"
@@ -73,7 +73,7 @@ team_members: # Name is the only required field for team members.
     role: "Sysadmin no Banco do Estado de Sergipe (BANESE)"
     bio: ""
     linkedin: "https://www.linkedin.com/in/igor-macedo/"
-    website: "letsdoit.ilem.info"
+    website: "blog.ilem.me"
     github: ""
     twitter: "@dodaracaju"
     image: "igor-macedo.jpg"

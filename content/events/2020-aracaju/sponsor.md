@@ -54,42 +54,42 @@ DevOpsDays é uma conferência auto organizada que depende de patrocinadores. N�
     <td align="center" class="tg-cpu2">1U <br> Todas as mídias</td>
   </tr>
   <tr>
-    <td class="tg-cpu2">Inscrições para o evento</td>
+    <td class="tg-cpu2">Inscrições para o evento *</td>
     <td align="center" class="tg-cpu2">2</td>
     <td align="center" class="tg-cpu2">4</td>
     <td align="center" class="tg-cpu2">7</td>
     <td align="center" class="tg-cpu2">10</td>
   </tr>
   <tr>
-    <td class="tg-cpu2">Distribuição de brindes durante o evento</td>
+    <td class="tg-cpu2">Distribuição de brindes durante o evento **</td>
     <td align="center" class="tg-cpu2">Sim</td>
     <td align="center" class="tg-cpu2">Sim</td>
     <td align="center" class="tg-cpu2">Sim</td>
     <td align="center" class="tg-cpu2">Sim</td>
   </tr>
   <tr>
-    <td class="tg-cpu2">Tempo para auto-apresentação (1x manhã + 1x tarde)</td>
+    <td class="tg-cpu2">Tempo para auto-apresentação (1x manhã + 1x tarde) ***</td>
     <td align="center" class="tg-cpu2">Não</td>
     <td align="center" class="tg-cpu2">30 segundos</td>
-    <td align="center" class="tg-cpu2">45 segundos</td>
     <td align="center" class="tg-cpu2">1 minuto</td>
+    <td align="center" class="tg-cpu2">2 minutos</td>
   </tr>
   <tr>
-    <td class="tg-cpu2">Distribuição de panfletos na pasta/mochila do participante <br> e/ou durante o evento *</td>
+    <td class="tg-cpu2">Distribuição de panfletos na pasta/mochila do participante <br> e/ou durante o evento ****</td>
     <td align="center" class="tg-cpu2">Não</td>
     <td align="center" class="tg-cpu2">Somente na pasta</td>
     <td align="center" class="tg-cpu2">Ambos</td>
     <td align="center" class="tg-cpu2">Ambos</td>
   </tr>
   <tr>
-    <td class="tg-cpu2">Divulgação do patrocinador em releases nos sites mantidos <br> pela comunidade referente participação do patrocinador no evento * </td>
+    <td class="tg-cpu2">Divulgação do patrocinador em releases nos sites mantidos <br> pela comunidade referente participação do patrocinador no evento</td>
     <td align="center" class="tg-cpu2">Não</td>
     <td align="center" class="tg-cpu2">Não</td>
     <td align="center" class="tg-cpu2">Sim</td>
     <td align="center" class="tg-cpu2">Sim</td>
   </tr>
   <tr>
-    <td class="tg-cpu2">Estande para exposição, entrega de brindes e interação com os participantes *</td>
+    <td class="tg-cpu2">Estande para exposição, entrega de brindes e interação com os participantes *****</td>
     <td align="center" class="tg-cpu2">Não</td>
     <td align="center" class="tg-cpu2">Não</td>
     <td align="center" class="tg-cpu2">Não</td>
@@ -106,12 +106,13 @@ DevOpsDays é uma conferência auto organizada que depende de patrocinadores. N�
 
 
 #### Requisitos definidos:
-
+- **Distribuição de brindes \*\***: Será permitido aos apoiadores a entrega de brindes diretamente aos participantes, durante todo o evento, desde que a interação seja mútua.
+- **Tempo de auto-apresentação \*\*\***: Os apoiadores serão convidados a subir no palco, de forma programada pela organização do evento, podendo aproveitar o seu tempo como entenderem ser mais coerentes, sempre respeitando o código de conduta do evento!
+- **Panfletos para distribuir \*\*\*\***: O material para compor as pastas/kits distribuídas aos participantes deverá ser entregue em até 5 dias úteis antes do evento e não poderá exceder o tamanho A4 e o volume equivalente a 10 páginas em 75 g/m2. Também será permitido ao apoiador a entrega de material de propaganda aos participantes, durante todo o evento, desde que a interação seja mútua.
 - **Releases nos sites**:  Cabe a organização do evento definir a quantidade de releases.
-- **Panfletos para distribuir**: O material para compor as pastas distribuídas aos participantes deverá ser entregue em até 5 dias úteis antes do evento e não poderá exceder o tamanho A4 e o volume equivalente a 10 páginas em 75 g/m2;
 - **Logotipos**: Os logotipos deverão ser entregues em formato vetorial ou em alta resolução em até 2 meses antes da realização do evento. O não envio até esta data poderá inviabilizar a produção do material impresso com o logo. Não inclui a produção de crachás, pastas e demais materiais de divulgação distribuídos ou vendidos no evento;
-- **Inscrições**: A organização irá emitir códigos promocionais em até 30 dias antes do evento. Os patrocinadores deverão orientar as pessoas a se inscrever normalmente no evento utilizando os códigos promocionais.
-- **Estandes**: Os patrocinadores platinum podem montar um estande com espaço limite de 6 m2 (seis metros quadrados). Se o patrocinador desejar, serão fornecidos uma mesa de 2 m X 0,7 m e duas cadeiras. Demais materiais para a montagem de estande deverão ser providenciados pelo próprio patrocinador. Haverá Internet com acesso sem fio irradiado no local. Cada estande poderá contar com até 3 expositores concomitantes que deverão ser cadastrados previamente, além do número de ingressos cedidos de acordo com a categoria do patrocínio. Os expositores não terão acesso às palestras, sala VIP e coffee break. Se o próprio expositor desejar fazer parte do evento, deverá utilizar suas inscrições para ter acesso total ao evento;
+- **Inscrições \***: A organização irá emitir códigos promocionais em até 30 dias antes do evento. Os patrocinadores deverão orientar as pessoas a se inscrever normalmente no evento utilizando os códigos promocionais.
+- **Estandes \*\*\*\*\***: Os patrocinadores platinum podem montar um estande com espaço limite de 6 m2 (seis metros quadrados). Se o patrocinador desejar, serão fornecidos uma mesa de 2 m X 0,7 m e duas cadeiras. Demais materiais para a montagem de estande deverão ser providenciados pelo próprio patrocinador. Haverá Internet com acesso sem fio irradiado no local. Cada estande poderá contar com até 3 expositores concomitantes que deverão ser cadastrados previamente, além do número de ingressos cedidos de acordo com a categoria do patrocínio. Os expositores não terão acesso às palestras, sala VIP e coffee break. Se o próprio expositor desejar fazer parte do evento, deverá utilizar suas inscrições para ter acesso total ao evento. Apoiadores que não aderirem ao pacote promocional com direito a estande, NÃO terá direito a estampar sua marca em local fixo, dentro do espaço utilizado pelo evento!
 
 A cota de patrocínio para empresas com sede fora do Brasil, preferencialmente deverá ser feito por meio de parceiro ou filial da empresa localizado no Brasil; aquisição de passagens aéreas de palestrantes internacionais; envio de material promocional como livros, camisetas, pendrives, pins, etc.
 
