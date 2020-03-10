@@ -212,6 +212,8 @@ sponsors:
     level: platinum
   - id: vulk
     level: platinum
+  - id: stackrox
+    level: platinum
   - id: circleci
     level: gold
   - id: xmatters
@@ -225,6 +227,8 @@ sponsors:
   - id: lightstep
     level: gold
   - id: launch-darkly
+    level: gold
+  - id: dynatrace
     level: gold
 
 sponsors_accepted : "true" # Whether you want "Become a XXX Sponsor!" link

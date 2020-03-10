@@ -5,9 +5,18 @@ aliases = ["/events/2020-houston/"]
 Description = "devopsdays Houston 2020"
 +++
 
+<div style="width:300px;text-align:center">
+<p>
+</p>
+</div>
+
 <div class="row">
   <div class="col-md-3">
-      <div style="text-align:center;">{{< event_logo >}}</div>
+	<div style="text-align:center;">{{< event_logo >}}</div>
+	<div class = "row">
+	<a href="/events/2020-houston/dodh-health-and-safety-update.pdf" class="btn btn-danger btn-block">DevOpsDays Houston Health Statement</a>
+	</div>
+	
   </div>
   <div class="col-md-6">
     <div class = "row">
