@@ -114,8 +114,6 @@ sponsors:
     level: gold
   - id: cisco
     level: gold
-  - id: sumologic
-    level: gold
   - id: microsoft
     level: gold
   - id: safesoftware
@@ -129,6 +127,8 @@ sponsors:
   - id: realtor-dot-com
     level: silver
   - id: clio
+    level: silver
+  - id: gitlab
     level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

@@ -17,6 +17,9 @@ The format of DevOpsDays Chicago includes a single track of 30 minute talks in t
 <br><br>
 {{< cfp_dates >}}
 <br><br>
+
+<p><a href="http://bit.ly/corona-chicago" class="btn btn-danger btn-block">DevOpsDays Chicago Health Statement</a></p>
+<br><br>
 <b>Subscribe to our mailing list below to be the first to know more updates!</b>
 <div class = "row">
   <div class = "col-md-12">
