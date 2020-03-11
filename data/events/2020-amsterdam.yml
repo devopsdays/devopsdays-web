@@ -112,6 +112,8 @@ sponsors:
     level: silver
   - id: securecodewarrior
     level: silver
+  - id: linkit
+    level: silver
   # bronzes
   - id: s0l1dheroes
     level: bronze
