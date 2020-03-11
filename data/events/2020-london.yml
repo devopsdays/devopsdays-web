@@ -111,7 +111,7 @@ sponsors:
   - id: site24x7
     level: silver
   # Gold
-  - id: elasticsearch
+  - id: elastic
     level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
