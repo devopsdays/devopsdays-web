@@ -83,7 +83,7 @@ team_members: # Name is the only required field for team members.
   - name: "Jim Baldwin"
     employer: "Slalom Consulting"
     bio: "Jim Baldwin has over 20 years in the IT field holding various positions from Systems Administration and Infrastructure Engineering to DevOps and Cloud Computing.  After attending DevOpsDays in Austin in 2015 and becoming DevOps awakened, Jim has spent his time honing his DevOps and Agile skills.  He is an advocate for Agile and Lean technologies and certified in SAFe and ITIL practices. <br><br>
-    Jim is currently a VP of Reliability Engineering at JP Morgan Chase in the Asset and Wealth Management division.  His responsibilities include maturing and mentoring other divisions in building their SRE teams and looking for opportunities to implement automation and lean practices.  He is also involved in JP Morgan's strategy to move to the public cloud and embrace a more modern DevOps tool chain."
+    Jim is currently a Consultant at Slalom Consulting." 
     twitter: "BaldwinJim"
     linkedin: "https://www.linkedin.com/in/jimbaldwin469/"
     image: "jim.jpg"
