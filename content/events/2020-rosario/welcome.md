@@ -82,13 +82,8 @@ Description = "devopsdays Rosario 2020"
 </div>
 
 <!-- Uncomment if you added your city twitter name -->
-<<<<<<< HEAD
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
 <!-- <div class="addthis_horizontal_follow_toolbox"></div> -->
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
 <!-- <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5e6848b705b61889"></script>-->
 {{< event_twitter >}}
-=======
-
-{{< event_twitter >}}
->>>>>>> 1bce5b513bf7288e9bf8aafe3083e5ff9fadd837
