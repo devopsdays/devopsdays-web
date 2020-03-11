@@ -130,9 +130,13 @@ sponsors:
     level: community
   - id: unit
     level: institutional
+  - id: LPI
+    level: institutional
   - id: bktelecom
     level: silver
   - id: cio-se
+    level: silver
+  - id: 4linux
     level: silver
   - id: db1
     level: gold
