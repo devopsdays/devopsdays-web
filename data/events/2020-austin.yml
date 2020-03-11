@@ -42,7 +42,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: registration
   - name: sponsor
   - name: location
-# - name: schedule
+  - name: schedule
 # - name: program
   - name: speakers
   - name: contact
