@@ -16,7 +16,10 @@ Description = "devopsdays Berlin 2020"
 <div style="text-align:center;">
   {{< event_logo >}}
 </div>
-
+<div style="text-align:center;">
+  {{< cfp_dates >}}
+</div>
+<p></p>
 <div class = "row">
   <div class = "col-md-2">
     <strong>Dates</strong>
@@ -49,7 +52,7 @@ Description = "devopsdays Berlin 2020"
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    <a href="https://cfp.devopsdays.berlin/2020/">Propose a talk!</a>
+    <a href="https://cfp.devopsdays.berlin/2020/">Propose a talk!</a>.
   </div>
 </div>
 
