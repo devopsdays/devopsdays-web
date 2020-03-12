@@ -105,10 +105,14 @@ sponsors:
     level: gold
   - id: kpn-ict
     level: gold
+  - id: elastic
+    level: gold
   # silvers
   - id: cyso
     level: silver
   - id: securecodewarrior
+    level: silver
+  - id: linkit
     level: silver
   # bronzes
   - id: s0l1dheroes
