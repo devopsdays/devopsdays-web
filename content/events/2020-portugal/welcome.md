@@ -7,6 +7,16 @@ Description = "devopsdays portugal 2020"
 
 <div class = "row">
   <div class = "col-md-2">
+    <strong>Announcement</strong>
+  </div>
+  <div class = "col-md-8">
+    <h4><strong>Due to the COVID-19 situation in Portugal (and Europe) the team organizing DevOpsDays Portugal 2020 have decided that the most responsible action we can do at this time is to postpone our event.</strong></h4>
+    <h4><strong>The organizing team is right now working on a new date to ensure the necessary safety and health conditions so the conference can run in its fullness.</strong></h4>
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-2">
     <strong>Dates</strong>
   </div>
   <div class = "col-md-8">
@@ -32,14 +42,14 @@ Description = "devopsdays portugal 2020"
   </div>
 </div> -->
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     <h5><strong>{{< event_link page="propose" text="CFP OPEN - Propose a talk!" >}}</strong></h5>
   </div>
-</div>
+</div> -->
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -59,14 +69,14 @@ Description = "devopsdays portugal 2020"
   </div>
 </div> -->
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>
   </div>
   <div class = "col-md-8">
      <h5><strong>{{< event_link page="sponsor" text="Sponsor the conference!" >}}</strong></h5>
   </div>
-</div>
+</div> -->
 
 <div class = "row">
   <div class = "col-md-2">
