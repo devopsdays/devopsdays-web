@@ -21,7 +21,7 @@ cfp_date_end: 2020-02-15T10:47:00-07:00  # close your call for proposals.
 cfp_link: "https://www.papercall.io/devopsdays-vancouver-2020" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2019-14-11T00:00:00-07:00
-registration_date_end: 2020-03-31T00:00:00-07:00
+registration_date_end: 2020-02-31T00:00:00-07:00
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://www.eventbrite.ca/e/86086255307" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -34,14 +34,8 @@ location: "UBC Robson Square, Vancouver, Canada" # Defaults to city, but you can
 location_address: "800 Robson St, Vancouver, BC V6Z 3B7" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
- # - name: location
  # - name: registration
- # - name: program
- # - name: speakers
-  - name: location 
-  - name: propose
-  - name: sponsor
+ # - name: location 
   - name: contact
   - name: conduct
 # - name: example
@@ -103,8 +97,6 @@ sponsors:
   - id: influxdata
     level: gold
   - id: site24x7
-    level: gold
-  - id: newrelic
     level: gold
   - id: dynatrace
     level: gold
