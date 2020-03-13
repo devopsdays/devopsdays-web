@@ -5,10 +5,21 @@ aliases = ["/events/2020-berlin/"]
 Description = "devopsdays Berlin 2020"
 +++
 
-<!-- <div style="text-align:center;">
-  {{< event_logo >}}
-</div> -->
+<div class = "row">
+  <div class = "col-md-8">
+        <small> 
+            <a href="https://de.wikipedia.org/wiki/Datei:Berlin_Panorama_Teufelsberg.jpg">Berlin Skyline</a> by <a href="https://de.wikipedia.org/wiki/Benutzer:Fred3rik">Fred3rik in Wikipedia</a> licensed under <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.de">CC BY-SA 3.0</a>
+        </small>
+  </div>
+</div>
 
+<div style="text-align:center;">
+  {{< event_logo >}}
+</div>
+<div style="text-align:center;">
+  {{< cfp_dates >}}
+</div>
+<p></p>
 <div class = "row">
   <div class = "col-md-2">
     <strong>Dates</strong>
@@ -36,14 +47,14 @@ Description = "devopsdays Berlin 2020"
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
+    <a href="https://cfp.devopsdays.berlin/2020/">Propose a talk!</a>.
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -82,6 +93,4 @@ Description = "devopsdays Berlin 2020"
 </div>
 
 <!-- Uncomment if you added your city twitter name -->
-<!--
 {{< event_twitter >}}
--->

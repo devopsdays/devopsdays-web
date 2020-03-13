@@ -50,32 +50,40 @@ nav_elements:
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Tim Gifford"
+    image: "tim-gifford.jpg"
     github: "timgifford"
     linkedin: "https://www.linkedin.com/in/timgifford"
     twitter: "timgifford"
   - name: "Jodi Jones"
+    image: "jodi-jones.jpg"
     github: "jodimj"
     linkedin: "https://linkedin.com/in/jodi-jones-4a50ab17"
     twitter: "jodimj"
   - name: "Amy Lindberg"
+    image: 'amy-lindberg.jpg'
     linkedin: "https://www.linkedin.com/in/amyvanwesten-lindberg"
     twitter: "LindbergAmy"
   - name: "John Mickey"
+    image: 'john-mickey.jpg'
     linkedin: "https://www.linkedin.com/in/john-mickey-308bb85/"
     twitter: "jsmickey"
   - name: "Jessie Puls"
+    image: "jessie-puls.png"
     github: "jessiepuls"
     linkedin: "https://www.linkedin.com/in/jessiepuls"
     twitter: "jessiepuls"
   - name: "Bo Schatzberg"
+    image: 'bo-schatzberg.jpg'
     github: "BoSchatzberg"
     linkedin: "https://www.linkedin.com/in/BoSchatzberg/"
     twitter: "BoSchatzberg"
   - name: "John Sonneville"
+    image: 'john-sonneville.jpg'
     github: "SonnevilleJ"
     linkedin: "https://www.linkedin.com/in/sonnevillej/"
     twitter: "agile_johnville"
   - name: "Ethan Spoelstra"
+    image: 'ethan-spoelstra.jpg'
     github: "espoelstra"
     linkedin: "https://www.linkedin.com/in/ethanspoelstra"
     twitter: "ewspoelstra"
@@ -91,7 +99,11 @@ sponsors:
     level: gold
   - id: alphaserve
     level: gold
-  - id: dynatrace
+#  - id: dynatrace
+#    level: gold
+  - id: principal
+    level: gold
+  - id: appdynamics
     level: gold
   - id: sourceallies
     level: lanyard
