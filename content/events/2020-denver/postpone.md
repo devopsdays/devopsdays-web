@@ -12,7 +12,7 @@ Description = "DevOpsDays Denver 2020"
 <div>
 Dear DevOpsDays Rockies Community,<br><br>
 
-We know many of you are closely monitoring the situation around COVID-19, due to the progress and growing concern over the spread of the disease, we have decided it is against the best interest of our community to hold DevOpsDays Rockies in April as originally planned.<br>
+We know many of you are closely monitoring the situation around COVID-19, due to the progress and growing concern over the spread of the disease, we have decided it is in best interest of our community to move DevOpsDays Rockies to a later date instead of April as originally planned.<br>
  
 We have already secured new dates (<b>August 10, 11, and 12th</b>) with Mile High Station/Iron Works and are currently working out all of the details to ensure we have a successful conference later in the year.<br>
 
