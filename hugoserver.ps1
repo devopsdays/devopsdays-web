@@ -4,5 +4,5 @@
 $MyPath = $PSScriptRoot
 
 docker stop hugo-server
-docker rm hugo-server 
-docker run -tip 1313:1313 -v ${MyPath}:/src:cached -e HUGO_THEME=devopsdays-theme -e HUGO_WATCH=1 -e HUGO_BASEURL="http://localhost:1313" --name hugo-server jojomi/hugo:0.64.1
+docker rm hugo-server
+docker run -tip 1313:1313 -v ${MyPath}:/src:cached -e HUGO_THEME=devopsdays-theme -e HUGO_WATCH=1 -e HUGO_BASEURL="http://localhost:1313" --name hugo-server jojomi/hugo:0.67.0
