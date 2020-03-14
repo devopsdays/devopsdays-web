@@ -39,6 +39,15 @@ Description = "devopsdays Des Moines 2020"
       <p>Help us spread the word: We’d love your help in making this a successful event. If you enjoyed the conference last year and are willing to recommend it to others, please share this with your teammates and colleagues. Follow us on twitter and linkedin for updates on the event including program and speaker announcements.</p>
       <p>Thanks, and we look forward to seeing you at the conference this year!</p>
     </div>
+    <div class="row">
+      <div class = "col-md-12">
+        <div class = "row justify-content-center">
+          <div class = "d-flex p-2">
+            <p><a href="http://bit.ly/corona-dsm" class="btn btn-danger btn-block">Devopsdays Des Moines Health Statement</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
     <div class = "row">
       <div class = "col-md-12">
         <div class = "row justify-content-center">
