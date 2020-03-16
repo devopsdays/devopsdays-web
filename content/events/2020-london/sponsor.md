@@ -7,8 +7,6 @@ Description = "Sponsor devopsdays London 2020"
 
 <p>DevOpsDays London is run as a single track of curated talks in the morning and in the afternoon we host self organized conversations. The self organized content is known as “open spaces”. As a sponsor of DevOpsDays London you are encouraged to participate in the event. We want you to attend the talks and to take part in the open spaces - We want you to get involved!</p>
 
-<p>We are currently offering a 5% discount if you pay for your sponsorship before March 15th</p>
-
  <h3>Sponsorship Packages</h3>
  <div class="table-responsive">
  <table class="table table-bordered table-hover table-responsive-md">
