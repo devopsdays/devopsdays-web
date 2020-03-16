@@ -91,6 +91,10 @@ sponsors:
     level: silver
   - id: balsam-brands
     level: gold
+  - id: 2016-intimetec
+    level: platinum
+  - id: intuit
+    level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
