@@ -39,7 +39,7 @@ Please see our <a href="/events/2020-houston/sponsorship-prospectus.pdf">Sponsor
         <th>Bronze<br/>&nbsp;</th>
         <th>Silver<br/>(Limit 4 <sup>&dagger;</sup>)</th>
         <th>Gold<br/>(Limit 15 <sup>&dagger;</sup>)</th>
-        <th>Platinum<br/>(Limit 4)</th>
+        <th>Platinum<br/>(Limit 5)</th>
     </tr>
     <tr>
         <th style="text-align:left">Pricing</th>
