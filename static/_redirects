@@ -46,7 +46,7 @@
 /hartford/*		/events/2019-hartford/:splat		302
 /helsinki/*		/events/2014-helsinki/:splat		302
 /houston/*		/events/2020-houston/:splat		302
-/indianapolis/*		/events/2019-indianapolis/:splat	302
+/indianapolis/*		/events/2020-indianapolis/:splat	302
 /istanbul/*		/events/2020-istanbul/:splat		302
 /jakarta/*		/events/2020-jakarta/:splat		302
 /kansas-city/*		/events/2019-kansas-city/:splat		302
@@ -110,7 +110,7 @@
 /victoria/*		/events/2019-victoria/:splat		302
 /vitoria/*		/events/2020-vitoria/:splat		302
 /warsaw/*		/events/2019-warsaw/:splat		302
-/washington-dc/*	/events/2019-washington-dc/:splat	302
+/washington-dc/*	/events/2020-washington-dc/:splat	302
 /zaragoza/*		/events/2020-zaragoza/:splat		302
 /zurich/*		/events/2020-zurich/:splat		302
 /events/2009-ghent/*          http://legacy.devopsdays.org/events/2009-ghent/:splat     301!

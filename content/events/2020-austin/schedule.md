@@ -1,7 +1,11 @@
 +++
 Title = "Schedule"
 Type = "event"
-Description = "Speakers, sessions, ignites, meals"
+Description = "Schedule for DevOpsDays Austin 2020"
 +++
 
-<iframe src="https://devopsdaysaustin2019.sched.com" frameborder="0" height="3000" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
+<div class="row">
+    <div class="col-md-12">
+        <script type="text/javascript" src="https://sessionize.com/api/v2/ymp6s22l/view/GridSmart"></script>
+    </div>
+</div>

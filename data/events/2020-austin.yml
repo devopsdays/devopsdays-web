@@ -42,7 +42,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: registration
   - name: sponsor
   - name: location
-# - name: schedule
+  - name: schedule
 # - name: program
   - name: speakers
   - name: contact
@@ -229,6 +229,8 @@ sponsors:
   - id: launch-darkly
     level: gold
   - id: dynatrace
+    level: gold
+  - id: vmware-tanzu
     level: gold
 
 sponsors_accepted : "true" # Whether you want "Become a XXX Sponsor!" link
