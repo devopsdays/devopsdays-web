@@ -15,11 +15,11 @@ startdate: 2020-09-14T00:00:00-04:00
 enddate: 2020-09-15T23:59:59-04:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2020-01-13T00:00:00-05:00 # start accepting talk proposals.
-cfp_date_end: 2020-05-22T23:59:59-04:00 # close your call for proposals.
-cfp_date_announce: 2020-06-07T23:59:59-04:00 # inform proposers of status
+cfp_date_start: 2020-03-16T21:00:00-05:00 # start accepting talk proposals.
+cfp_date_end: 2020-06-12T23:59:59-05:00 # close your call for proposals.
+cfp_date_announce: 2020-07-02T21:00:00-05:00 # inform proposers of status
 
-#cfp_link: "https://www.papercall.io/devopsdaysindy2020" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://www.papercall.io/devopsdaysindy2020" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: # close registration. Leave blank if registration is not open yet.
@@ -35,7 +35,7 @@ location: "Indiana Landmarks" # Defaults to city, but you can make it the venue 
 location_address: "1201 Central Ave, Indianapolis, IN 46202" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
   - name: location
  # - name: registration
  # - name: program
