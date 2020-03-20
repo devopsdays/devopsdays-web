@@ -4,7 +4,7 @@ Type = "event"
 Description = "Statement on what's next"
 +++
 
-With a heavy heart, the organizers of Amsterdam would like to inform you that we have - at this time - decided to cancel devopsdays Eindhoven for 2020. We did not take this decision lightly, and we took a large number of variables into account. However, ultimately, the health and well-being of all of our attendees, speakers and organizers are our top priority.   
+With a heavy heart, the organizers of Amsterdam would like to inform you that we have - at this time - decided to cancel devopsdays Amsterdam for 2020. We did not take this decision lightly, and we took a large number of variables into account. However, ultimately, the health and well-being of all of our attendees, speakers and organizers are our top priority.   
 
 ### What does this mean for you? 
 
