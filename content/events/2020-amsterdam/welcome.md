@@ -6,7 +6,7 @@ Description = "devopsdays Amsterdam 2020"
 +++
 
 <div class="alert alert-danger" role="alert">
-  Due to the global situation around COVID-19, devopsdays Amsterdam has been cancelled for 2020. Please stay tuned for more information. Please click on <a href="/events/2020-amsterdam/covid-19" class="alert-link">here for more information</a>.
+  Due to the global situation around COVID-19, devopsdays Amsterdam has been cancelled for 2020. Please stay tuned for more information. Please click on <a href="/events/2020-amsterdam/cancellation" class="alert-link">here for more information</a>.
 </div>
 
 <div class = "row">
@@ -73,5 +73,5 @@ Description = "devopsdays Amsterdam 2020"
 </div>
 
 <div class="alert alert-danger" role="alert">
-  Due to the global situation around COVID-19, devopsdays Amsterdam has been cancelled for 2020. Please stay tuned for more information. Please click on <a href="#" class="alert-link">here for more information</a>.
+  Due to the global situation around COVID-19, devopsdays Amsterdam has been cancelled for 2020. Please stay tuned for more information. Please click on <a href="/events/2020-amsterdam/cancellation" class="alert-link">here for more information</a>.
 </div>
