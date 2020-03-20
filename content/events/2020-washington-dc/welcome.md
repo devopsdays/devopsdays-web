@@ -85,6 +85,7 @@ Description = "devopsdays Washington, D.C. 2020"
   </div>
 </div> -->
 
+<!-- No sponsors while we are paused.
 <div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>
@@ -93,6 +94,7 @@ Description = "devopsdays Washington, D.C. 2020"
     {{< event_link page="sponsor" text="Sponsor the conference!" >}}
   </div>
 </div>
+-->
 
 <div class = "row">
   <div class = "col-md-2">
