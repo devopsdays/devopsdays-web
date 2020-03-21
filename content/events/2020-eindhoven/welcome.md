@@ -5,18 +5,22 @@ aliases = ["/events/2020-eindhoven/"]
 Description = "devopsdays Eindhoven 2020"
 +++
 
+<div class="alert alert-danger" role="alert">
+  Due to the global situation around COVID-19, devopsdays Eindhoven has been cancelled for 2020. Please stay tuned for more information. Please click on <a href="/events/2020-eindhoven/cancellation" class="alert-link">here for more information</a>.
+</div>
+
 <div class = "row">
   <div class="col-md-4">
-    <h3>Event dates</h3>
+    <!-- <h3>Event dates</h3>
     <p>
       <b>{{< event_start >}} - {{< event_end >}}</b>
-    </p>
+    </p> -->
     <img alt="devopsdays Eindhoven 2020" src="/events/2020-eindhoven/logo.png" class="img-fluid">
     <!-- {{< event_twitter >}} -->
-    <h3>CFP dates</h3>
+    <!-- <h3>CFP dates</h3>
     <p>
       {{< cfp_dates >}}
-    </p>
+    </p> -->
   </div>
 
   <div class="col-md-7">
@@ -27,7 +31,7 @@ Description = "devopsdays Eindhoven 2020"
     <p>
       devopsdays Eindhoven brings development, operations, QA, InfoSec, management, and leadership together to discuss the culture and tools to make better organizations and products. The 2020 event will be the first time we have held devopsdays Eindhoven.
     </p>
-    <h2>Statistics</h2>
+    <!-- <h2>Statistics</h2>
     <p>
       <ul>
         <li>
@@ -72,11 +76,11 @@ Description = "devopsdays Eindhoven 2020"
           English will be the primary language of the conference.
         </li>
       </ul>
-    </p>
+    </p> -->
     </br>
     <div class="d-flex flex-row">
       <div class="col-md-12">
-        <div class="d-flex p-2">
+        <!-- <div class="d-flex p-2">
           <a class="btn btn-secondary btn-block" style= "color: #ffffff; background-color: #CC112F; border-color: #CC112F;" href="/events/2020-eindhoven/registration"> <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;BUY TICKETS HERE!</a>
         </div>
         <div class="d-flex p-2">
@@ -84,6 +88,9 @@ Description = "devopsdays Eindhoven 2020"
         </div>
         <div class="d-flex p-2">
           <a class="btn btn-secondary btn-block" style= "background-color: #96bfe6; border-color: #96bfe6;" href="/events/2020-eindhoven/sponsor"> <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference</a>
+        </div> -->
+        <div class="d-flex p-2">
+          <a class="btn btn-secondary btn-block" style= "color: #ffffff; background-color: #CC112F; border-color: #CC112F;" href="/events/2020-eindhoven/cancellation"> <i class="fa fa-bullhorn fa-lg"></i>&nbsp;&nbsp;&nbsp;Statement on Cancellation</a>
         </div>
         <div class="d-flex p-2">
           <a class="btn btn-secondary btn-block" style= "background-color: #96bfe6; border-color: #96bfe6;" href="/events/2020-eindhoven/contact"> <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Contact the Organizers</a>
@@ -98,5 +105,7 @@ Description = "devopsdays Eindhoven 2020"
     </br>
   </div>
 </div>
-<!-- Uncomment if you added your city twitter name -->
 
+<div class="alert alert-danger" role="alert">
+  Due to the global situation around COVID-19, devopsdays Eindhoven has been cancelled for 2020. Please stay tuned for more information. Please click on <a href="/events/2020-eindhoven/cancellation" class="alert-link">here for more information</a>.
+</div>
