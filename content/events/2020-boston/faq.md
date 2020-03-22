@@ -24,4 +24,4 @@ If you don't see an answer there, please drop us an email at [{{< email_organize
 <hr/>
 
 <a name="CoronaVirus"><h3>1. Is the conference still on, given COVID-19 situation?</h3></a>
-As of March 15th, yes! However, please check <a href="/events/2020-boston/dodb-health-and-safety-update.pdf">DevOpsDays Boston Health Statement</a> for the latest information.
+As of March 15th, yes! However, please check <a href="https://assets.devopsdays.org/events/2020/boston/dodb-health-and-safety-update.pdf" target="blank">DevOpsDays Boston Health Statement</a> for the latest information.
