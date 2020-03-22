@@ -14,7 +14,7 @@ h1.welcome-page { text-transform: initial; }
 <div class="row">
   <div class="col-md-3">
     <div style="text-align:center;">{{< event_logo >}}</div>
-  	<div class=row">
+  	<div class="row">
   	   <a href="/events/2020-boston/dodb-health-and-safety-update.pdf" target="blank" class="btn btn-info btn-block">DevOpsDays Boston Safety Update</a>
   	</div>
   </div>
