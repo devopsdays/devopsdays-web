@@ -5,18 +5,27 @@ aliases = ["/events/2020-sao-paulo"]
 Description = "devopsdays São Paulo 2020"
 +++
 
-<div>
+<!-- <div>
 <h2>DevOpsDays São Paulo 2020</h2>
-</div>
+</div> -->
 
 <div>
-    <!--<p style="font-size:large;">Date: TBD 2018</p>
-    <p style="font-size:large;">Location: TBD</p>-->
+<h2>Adiamento do evento para Dezembro</h2>
+</div>
+<div>
+ <div style="padding-left: 10px">
+  Nós estamos adiando o DevOpsDays São Paulo 2020 para os dias 03 e 04 de dezembro devido ao avanço do COVID19 no mundo e no Brasil, sendo assim, optamos alterar a data do evento. A <a href="https://twitter.com/who/status/1237777021742338049" target="_blank">declaração</a> da  <a href="https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020" target="_blank"> Organização Mundial da Saúde </a>de pandemia e as ações do  <a href="https://www.saopaulo.sp.gov.br/spnoticias/saude-e-centro-de-contingencia-atualizam-cenario-sobre-novo-coronavirus-em-sp/" target="_blank"> governo</a> e <a href="https://www.capital.sp.gov.br/noticia/prefeitura-de-sp-suspende-eventos-publicos-e-promove-interrupcao-gradual-das-aulas" target=_blank>prefeitura</a> de São Paulo demonstram a gravidade da situação que apesar da data do evento ser em Julho, acreditamos ser prudente adiar o evento para dezembro. 
+  </div>
+</div>
+
+<!-- <div>
+    <p style="font-size:large;">Date: TBD 2018</p>
+    <p style="font-size:large;">Location: TBD</p>
     <div style="padding-left: 10px">
       <p>O DevOpsDays virá para São Paulo em 2020!</p>
       <p>Teremos de volta em São Paulo o DevOpsDays. Será uma ótima oportunidade de compartilhar conhecimento e histórias, de socializar, rever colegas, fazer novos amigos, aprender, ensinar e promover nossa grande e crescente comunidade.</p>
     </div>
-</div>
+</div> -->
 
 <div style="text-align:center;">
   {{< event_logo >}}
