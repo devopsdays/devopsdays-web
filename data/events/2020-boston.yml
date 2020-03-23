@@ -3,7 +3,7 @@ year: "2020" # The year of the event. Make sure it is in quotes.
 city: "Boston" # The displayed city name of the event. Capitalize it.
 event_logo: "logo-square.png"
 event_twitter: "devopsdaysbos" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "Devopsdays is coming to Boston!" # Edit this to suit your preferences
+description: "DevOpsDays is returning to Boston!" # Edit this to suit your preferences
 ga_tracking_id: "UA-137417319-4" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
@@ -39,6 +39,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: sponsor
   - name: contact
   - name: conduct
+  - name: faq
 
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -73,7 +74,7 @@ team_members: # Name is the only required field for team members.
     image: "michaelbio.jpg"
 
   - name: "Paul Bruce"
-    bio: "Paul Bruce is a DevOps Advisor, helping to transform enterprise software teams and delivery practices. He currently serves in the role of Founder at Growgistics, is a working group member of IEEE 2675, daylights with the Neotys team as a Sr. Performance Engineer, moonlights as a Papa of two, and lives as a friend to all. He loves meat pies, picklebacks, and community work. His technical research wheelhouse includes cloud management, high availability service architecture, API design and experience, continuous testing at scale, and organizational learning frameworks. He writes, listens, and teaches about software delivery patterns in enterprises and key industries around the world. You can learn more at: http://paulsbruce.io"
+    bio: "Paul Bruce is a DevOps Advisor, helping to transform enterprise software teams and delivery practices. He currently serves in the role of Founder at Growgistics, is a working group member of IEEE P2675, daylights with the Neotys team as Dir. of Customer Engineer, moonlights as a Papa of two, and lives as a friend to all. He loves meat pies, picklebacks, and community work. His technical research wheelhouse includes cloud management, high availability service architecture, API design and experience, continuous testing at scale, and organizational learning frameworks. He writes, listens, and teaches about software delivery patterns in enterprises and key industries and F1000s around the world. You can learn more at: http://paulsbruce.io"
     website: "http://paulsbruce.io"
     image: "paulsbruce.jpg"
 
@@ -94,7 +95,7 @@ team_members: # Name is the only required field for team members.
     bio: "Derek is a Linux System Administrator with a passion for reducing waste and toil. With a background as a Lean certified Quality Inspector in manufacturing, he found a way to bring the joy of the Kaizen method to his passion of Linux and technological systems. He now works for PerkinElmer in the BioPharmacuitcal space to help accelerate the Scientists' research through making computational resources easy to obtain and use. Outside of the computer world he can be found doing photography with the Boston Area Photography group, cooking, or listening to a veriety of music."
     gitlab: "dbuckley"
     image: "derekbuckley.jpg"
-    
+
 organizer_email: "boston@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
