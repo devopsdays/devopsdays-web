@@ -19,7 +19,7 @@ cfp_date_start: 2020-03-23T00:00:00-04:00 # start accepting talk proposals.
 cfp_date_end: 2020-06-01T00:00:00-04:00 # close your call for proposals.
 cfp_date_announce: 2020-03-23T00:00:00-04:00 # inform proposers of status
 
-cfp_link: https://bit.ly/dodbos2020cfp #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://bit.ly/dodbos2020cfp" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2020-03-23T00:00:00-04:00 # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: 2020-09-28T00:00:00-04:00 # close registration. Leave blank if registration is not open yet.
