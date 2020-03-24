@@ -32,6 +32,10 @@ h1.welcome-page { text-transform: initial; }
       <div class="col-md-2"><strong>Propose</strong></div>
       <div class="col-md-8"><a href="https://bit.ly/dodbos2020cfp">Propose a talk!</a></div>
     </div>
+    <div class="row">
+      <div class="col-md-2"><strong>Register</strong></div>
+      <div class="col-md-8"><a href="https://ti.to/devopsdaysbos/2020">Register to attend the conference!</a></div>
+    </div>
   	<!-- <div class="row">
   		<div class="col-md-2"><strong>Program</strong></div>
       <div class="col-md-8">View the {{< event_link page="program" text="program." >}}</div>
@@ -39,10 +43,6 @@ h1.welcome-page { text-transform: initial; }
   	<div class="row">
   		<div class="col-md-2"><strong>Speakers</strong></div>
       <div class="col-md-8">Check out the {{< event_link page="speakers" text="speakers!" >}}</div>
-    </div>
-    <div class="row">
-      <div class="col-md-2"><strong>Register</strong></div>
-      <div class="col-md-8">{{< event_link page="registration" text="Register to attend the conference!" >}}</div>
     </div>
     -->
     <div class="row">
