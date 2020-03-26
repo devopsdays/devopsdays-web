@@ -6,6 +6,12 @@ Description = "DevOpsDays Cape Town 2020 will take place September 17-18, 2020!"
 +++
 
 <div class="row">
+  <div class="alert alert-warning" role="alert">
+    <h4>COVID-19 Update</h4>
+    <p>Due to the current situation with the worldwide outbreak of COVID-19, we are currently evaluating whether DevOpsDays Cape Town 2020 should go ahead as planned. Along with the rest of the world, we have been closely watching the latest developments and a decision is likely to be made in the coming weeks. Should any changes be made to the event, including potential cancellation or postponement, we will notify everyone on our mailing list and via all our communication channels, including this page. Please check back again for further updates.</p>
+  </div>
+</div>
+<div class="row">
   <div class = "col-md-6 order-md-12">
     As a community-run event, DevOpsDays Cape Town strives to build awareness and spread lean, collaborative practises to organisations and individuals.
     <br><br>
