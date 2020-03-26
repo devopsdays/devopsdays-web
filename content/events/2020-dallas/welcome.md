@@ -4,7 +4,15 @@ Type = "welcome"
 aliases = ["/events/2020-dallas/"]
 Description = "devopsdays Dallas 2020"
 +++
-
+<div class="row">
+  <div class="alert alert-warning" role="alert">
+    <h2>*** COVID-19 Update ***</h2>
+    <p>Due to the current situation regarding the worldwide outbreak of COVID-19, we are currently monitoring, and evaluating how this situation will affect our DevOpsDays DFW 2020 event as we continue with plans on moving forward. Along with the rest of the world, day by day we have been closely watching the latest development updates posted by the <strong><a href="https://dallascityhall.com/Pages/Corona-Virus.aspx">City of Dallas</a></strong>, because our first and foremost concern is the health of all the attendee's lives and the well-being of our community.
+    <br><br>
+    During the month of June 2020, we will inform everyone via this page, and all our social media communication channels of any decision changes that will be made regarding this event. Whether that be having the event as originally scheduled, potential postponement, or cancellation. Please check back again for further updates, or feel free to email us at: <strong> {{< email_organizers >}}</strong>.</p>
+  </div>
+</div>
+<br>
 <div style="text-align:center;" style="max-width:120%;">
   {{< event_logo >}}
 </div> 
