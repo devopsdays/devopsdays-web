@@ -82,6 +82,5 @@ Description = "devopsdays Boise 2021"
 </div>
 
 <!-- Uncomment if you added your city twitter name -->
-<!--
 {{< event_twitter >}}
--->
+
