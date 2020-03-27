@@ -108,17 +108,6 @@ team_members: # Name is the only required field for team members.
     employer: "Zühlke Engineering AG"
     twitter: "sebzill"
     linkedin: "https://www.linkedin.com/in/sebastianzillessen/"
-  - name: "Matías E. Fernández"
-    twitter: "matiasfrndz"
-    employer: "Swisscom AG"
-    bio: "DevOps evangelist, Kanban practitioner, Lean Startup advocate, Linux and OSS afficionado.<p>
-Keen learner and challenger of the status quo.<p>
-Enabling organisations to achieve outstanding and sustainable results that exceed customers’ expectations is his passion."
-    github: "matiasfrndz"
-    facebook: ""
-    linkedin: "https://www.linkedin.com/in/matiasfrndz/"
-    website: "https://matiasfrndz.ch/"
-    image: "matias-e-fernandez.jpg"
   - name: "Noëmi Kruesi"
     twitter: ""
     employer: "Swisscom AG"
