@@ -6,6 +6,10 @@ Description = "DevOpsDays Natal 2020"
 +++
 
 <div class = "row">
+  <strong>ATENÇÃO: Devido ao surto do Novo Coronavírus, o evento teve sua data alterada. A nova data é 14 de Novembro de 2020, e o local continua o mesmo. Se já comprou seu ingresso, sua entrada já está garantida! Se não comprou, prorrogamos o 1º lote por alguns meses.</strong>
+</div>
+
+<div class = "row">
   <div class = "col-md-2">
     <strong>Dates</strong>
   </div>
