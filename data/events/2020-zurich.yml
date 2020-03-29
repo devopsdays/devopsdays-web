@@ -180,7 +180,8 @@ sponsors:
   - id: youstream
     level: partner     
   - id: swisscom
-    level: gold   
+    level: gold
+    url: "https://www.swisscom.ch/jobs/"
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
