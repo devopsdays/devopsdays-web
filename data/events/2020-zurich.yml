@@ -178,7 +178,9 @@ sponsors:
   - id: locatee
     level: bronze  
   - id: youstream
-    level: partner    
+    level: partner     
+  - id: swisscom
+    level: gold   
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
