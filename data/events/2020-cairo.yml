@@ -38,13 +38,13 @@ location_address: "Royal Maxim Palace Kempinski Cairo" #Optional - use the stree
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
 #  - name: propose
-  - name: location
-  - name: local
+#  - name: location
+#  - name: local
 #  - name: registration
 #  - name: program
 #    url: https://assets.devopsdays.org/events/2020/cairo/DevopsDays-Cairo-2020-Agenda.pdf
 #  - name: speakers
-  - name: sponsor
+#  - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
