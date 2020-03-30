@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "An Engineer's Guide to a Good Night's Sleep"
 Type = "talk"
 Speakers = ["nicky-wrightson"]
+Youtube = "p6nqp20MOp8"
 +++
 
 As organisations look to empower engineers more, and embrace devops practices, we have seen the support role change quite a bit too. Developers are moving from being purely third line support, to working more collaboratively with engineers and operational staff. Also as we move to cloud native microservice solutions, the increased complexity and diversity of our production landscape means operational staff may well rely more heavily on the engineers, in particular out of hours.

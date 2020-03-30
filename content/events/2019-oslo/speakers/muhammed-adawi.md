@@ -1,7 +1,7 @@
 +++
 Title = "Muhammed Adawi"
-Twitter = ""
-image = "Muhammed_Adawi.jpg"
+Twitter = "muhammed_adawi"
+image = "muhammed-adawi.jpg"
 type = "speaker"
 linktitle = "muhammed-adawi"
 
@@ -12,4 +12,4 @@ His main focus is DevOps, application support and software delivery. During his 
 
 Mohamed is so passionate about automation and has a very solid background in linux / unix Operating systems.
 
-Muhammad received his B.S. in Computer Science from Mansoura University back in 2008. He also gained his technical diploma from the Information Technology Institute (AKA ITI) in 2011. 
+Muhammad received his B.S. in Computer Science from Mansoura University back in 2008. He also gained his technical diploma from the Information Technology Institute (AKA ITI) in 2011.

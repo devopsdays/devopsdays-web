@@ -5,7 +5,6 @@ event_twitter: "devopsdaysoslo" # Change this to the twitter handle for your eve
 description: "Devopsdays is coming to Oslo!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 event_logo: "logo.png"
-event_group: "Oslo"
 
 # All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00
@@ -38,8 +37,9 @@ location_address: "Sentralen, Øvre Slottsgate 3, 0157 Oslo" #Optional - use the
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
 #  - name: propose
+#  - name: livestream
   - name: location
-  - name: registration
+#  - name: registration
   - name: program
   - name: speakers
   - name: sponsor
@@ -102,6 +102,18 @@ sponsors:
     level: partner
   - id: gitlab
     level: partner
+  - id: entur
+    level: partner
+  - id: praqma
+    level: partner
+  - id: xebialabs
+    level: partner
+  - id: enonic
+    level: partner
+  - id: techwomenno
+    level: partner
+  - id: microsoft
+    level: community
   - id: capra
     level: community
 
@@ -113,10 +125,11 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
   - id: partner
-    label: ""
+    label: Gold
     max: 12
   - id: community
     label: Community
+
 program:
   - title: "Registration, Breakfast, Sponsors"
     type: custom
@@ -138,7 +151,7 @@ program:
     date: 2019-10-22T00:00:00+02:00
     start_time: "09:45"
     end_time: "09:55"
-  - title: "ramez-hanna"
+  - title: "krikor-maroukian"
     type: talk
     date: 2019-10-22T00:00:00+02:00
     start_time: "09:55"
@@ -158,51 +171,66 @@ program:
     date: 2019-10-22T00:00:00+02:00
     start_time: "11:10"
     end_time: "11:20"
-  - title: "krikor-maroukian"
+  - title: "denys-vasyliev"
     type: talk
     date: 2019-10-22T00:00:00+02:00
     start_time: "11:20"
     end_time: "11:50"
+  - title: "kat-liu"
+    type: talk
+    date: 2019-10-22T00:00:00+02:00
+    start_time: "11:50"
+    end_time: "12:20"
   - title: "Lunch"
     type: custom
     date: 2019-10-22T00:00:00+02:00
-    start_time: "11:50"
-    end_time: "13:00"
+    start_time: "12:20"
+    end_time: "13:30"
   - title: "Ignites"
     type: ignite
     date: 2019-10-22T00:00:00+02:00
-    start_time: "13:00"
-    end_time: "13:30"
+    start_time: "13:30"
+    end_time: "14:00"
   - title: "Open Space Opening"
     type: open-space
     date: 2019-10-22T00:00:00+02:00
-    start_time: "13:30"
-    end_time: "14:00"
+    start_time: "14:00"
+    end_time: "14:30"
   - title: "Open Space #1"
     type: open-space
     date: 2019-10-22T00:00:00+02:00
-    start_time: "14:00"
-    end_time: "14:45"
+    start_time: "14:30"
+    end_time: "15:15"
+  - title: "Break"
+    type: custom
+    date: 2019-10-22T00:00:00+02:00
+    start_time: "15:15"
+    end_time: "15:30"
   - title: "Open Space #2"
     type: open-space
     date: 2019-10-22T00:00:00+02:00
-    start_time: "15:00"
-    end_time: "15:45"
+    start_time: "15:30"
+    end_time: "16:15"
+  - title: "Break"
+    type: custom
+    date: 2019-10-22T00:00:00+02:00
+    start_time: "16:15"
+    end_time: "16:30"
   - title: "Open Space #3"
     type: open-space
     date: 2019-10-22T00:00:00+02:00
-    start_time: "16:00"
-    end_time: "16:45"
+    start_time: "16:30"
+    end_time: "17:15"
   - title: "Close Day"
     type: custom
     date: 2019-10-22T00:00:00+02:00
-    start_time: "16:45"
-    end_time: "17:00"
+    start_time: "17:15"
+    end_time: "17:30"
   - title: "Evening event"
     type: custom
     date: 2019-10-22T00:00:00+02:00
-    start_time: "19:00"
-    end_time: "late"
+    start_time: "17:30"
+    end_time: "23:00"
   - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2019-10-23T23:59:59+02:00
@@ -223,7 +251,7 @@ program:
     date: 2019-10-23T23:59:59+02:00
     start_time: "09:45"
     end_time: "09:55"
-  - title: "marta-paciorkowska"
+  - title: "serhat-can"
     type: talk
     date: 2019-10-23T23:59:59+02:00
     start_time: "09:55"
@@ -233,7 +261,7 @@ program:
     date: 2019-10-23T23:59:59+02:00
     start_time: "10:25"
     end_time: "10:40"
-  - title: "denys-vasyliev"
+  - title: "ramez-hanna"
     type: talk
     date: 2019-10-23T23:59:59+02:00
     start_time: "10:40"
@@ -248,41 +276,56 @@ program:
     date: 2019-10-23T23:59:59+02:00
     start_time: "11:20"
     end_time: "11:50"
+  - title: "marta-paciorkowska"
+    type: talk
+    date: 2019-10-23T23:59:59+02:00
+    start_time: "11:50"
+    end_time: "12:20"
   - title: "Lunch"
     type: custom
     date: 2019-10-23T23:59:59+02:00
-    start_time: "11:50"
-    end_time: "13:00"
+    start_time: "12:20"
+    end_time: "13:30"
   - title: "Ignites"
     type: ignite
     date: 2019-10-23T23:59:59+02:00
-    start_time: "13:00"
-    end_time: "13:30"
+    start_time: "13:30"
+    end_time: "14:00"
   - title: "Open Space Opening"
     type: open-space
     date: 2019-10-23T23:59:59+02:00
-    start_time: "13:30"
-    end_time: "14:00"
+    start_time: "14:00"
+    end_time: "14:15"
   - title: "Open Space #1"
     type: open-space
     date: 2019-10-23T23:59:59+02:00
-    start_time: "14:00"
-    end_time: "14:45"
+    start_time: "14:15"
+    end_time: "15:00"
+  - title: "Break"
+    type: custom
+    date: 2019-10-23T23:59:59+02:00
+    start_time: "15:00"
+    end_time: "15:15"
   - title: "Open Space #2"
     type: open-space
     date: 2019-10-23T23:59:59+02:00
-    start_time: "15:00"
-    end_time: "15:45"
+    start_time: "15:15"
+    end_time: "16:00"
+  - title: "Break"
+    type: custom
+    date: 2019-10-23T23:59:59+02:00
+    start_time: "16:00"
+    end_time: "16:15"
   - title: "Open Space #3"
     type: open-space
     date: 2019-10-23T23:59:59+02:00
-    start_time: "16:00"
-    end_time: "16:45"
+    start_time: "16:15"
+    end_time: "17:00"
   - title: "Closing"
     type: custom
     date: 2019-10-23T23:59:59+02:00
-    start_time: "16:45"
-    end_time: "17:00"
+    start_time: "17:00"
+    end_time: "17:15"
 ignites:
   - title: "nora-tomas"
     date: 2019-10-22T00:00:00+02:00
@@ -290,11 +333,9 @@ ignites:
     date: 2019-10-22T00:00:00+02:00
   - title: "mike-long"
     date: 2019-10-22T00:00:00+02:00
-  - title: "muhammed-adawi"
-    date: 2019-10-22T00:00:00+02:00
   - title: "renata-rocha"
     date: 2019-10-22T00:00:00+02:00
   - title: "henrik-stene"
     date: 2019-10-23T23:59:59+02:00
-  - title: "johan-abildskov"
+  - title: "erik-wendel"
     date: 2019-10-23T23:59:59+02:00

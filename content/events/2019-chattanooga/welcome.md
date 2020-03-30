@@ -8,7 +8,13 @@ Description = "DevOpsDays is returning to Chattanooga  on November 12, 2019 at t
 <div style="text-align:center;">
   {{< event_logo >}}
 </div>
-
+<br>
+<br>
+<div style="text-align:center;">
+  <iframe src="https://player.vimeo.com/video/361814505" width="1080" height="608" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
+<br>
+<br>
 <div class = "row">
   <div class = "col-md-2">
     <strong>Date</strong>
@@ -45,24 +51,25 @@ Description = "DevOpsDays is returning to Chattanooga  on November 12, 2019 at t
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
     View the {{< event_link page="program" text="program." >}}
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
-</div> -->
+</div> 
 
+<!--
 <div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>
@@ -71,6 +78,7 @@ Description = "DevOpsDays is returning to Chattanooga  on November 12, 2019 at t
     {{< event_link page="sponsor" text="Sponsor the conference!" >}}
   </div>
 </div>
+-->
 
 <div class = "row">
   <div class = "col-md-2">

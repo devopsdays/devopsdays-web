@@ -95,10 +95,3 @@ Description = "devopsdays Philadelphia 2019"
 </br>
 </br>
 
-<hr>
-<div style="text-align:center;font-weight:bold;font-size:175%;margin-bottom:1em">
-<a href="https://goo.gl/forms/7djTTELCzXPWMfdN2">Submit a Session Proposal</a>
-</div>
-
-{{< cfp_dates >}}
-<hr>

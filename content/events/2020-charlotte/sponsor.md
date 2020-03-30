@@ -23,7 +23,7 @@ Get in touch with any questions or to request an invoice for a sponsorship packa
  - Dedicated booth/table with premium placement
  - Brochures/stickers or other materials in attendee swag bags
  - Promoted thank you tweet from @devopsdays_clt ($50 budget with Charlotte target market)
- - Choice of 1 a la carte sponsorship to be included at no extra charge
+ - Choice of 1 a la carte sponsorship to be included at no extra charge (first come first serve)
  - 1 minute pitch to full audience
  - Logo on event website
  - Logo on attendee email communications

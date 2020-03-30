@@ -4,6 +4,7 @@ city: "Portland" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdayspdx" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "DevOpsDays is coming to Portland!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+event_group: "Portland, OR"
 
 # All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T01:02:03-05:00
 startdate: 2018-09-11T00:00:00-07:00
@@ -119,7 +120,7 @@ sponsors:
     level: silver
   - id: overops
     level: silver
-  - id: nutanix
+  - id: nutanix-before-20200127
     level: silver
   - id: redhat-before-20190528
     level: silver

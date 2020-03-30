@@ -106,13 +106,13 @@ sponsors:
     level: gold
   - id: chef
     level: gold
-  - id: instana
+  - id: instana-before-20200127
     level: gold
   - id: umbrio
     level: gold
   - id: xebia
     level: gold
-  - id: sysdig
+  - id: sysdig-before-20200210
     level: gold
   - id: mesosphere
     level: gold

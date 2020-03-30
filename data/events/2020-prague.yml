@@ -10,8 +10,8 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2020-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: 2020-03-18T00:00:00+02:00  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2020-03-19T23:59:59+02:00  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2020-09-29T00:00:00+02:00  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2020-09-30T23:59:59+02:00  # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2019-08-12T00:00:00+02:00 # start accepting talk proposals.
@@ -23,8 +23,8 @@ cfp_link: "" #if you have a custom link for submitting proposals, add it here. T
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: # close registration. Leave blank if registration is not open yet.
 
-registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_closed: "true" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://www.eventbrite.com/e/devopsdays-prague-2020-tickets-69329736107" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -34,11 +34,11 @@ location: "City Conference Center (KCC), Prague, Czech Republic" # Defaults to c
 location_address: "Na Strži 65/1702, Prague 4, 140 00" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+#  - name: propose
   - name: location
- # - name: registration
- # - name: program
- # - name: speakers
+#  - name: registration
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -58,9 +58,10 @@ team_members: # Name is the only required field for team members.
   - name: "Karolína Strejčková"
     bio: "I have covered a number of different fields over the past 8 years; ranging from marketing and brand management through sales and key accounting to recruiting & HR. I am passionate about fast-paced start-up environment and helping companies grow rapidly. My last working experience brought me to a DevOps company; where I have started to actively build DevOps community via meetups, knowledge sharing and networking as well as had the opportunity to get involved in agile software development."
     image: "k_strejckova.jpg"
-  - name: "Zdeněk Janda"
-    bio: "I am DevOps and Cloud enthusiast. I have more than 20 years of experience with system administration, automation, development and cloud technologies. I am currently  focusing on DevOps consultancy and working with Openstack, Kubernetes and Ceph to create Edge clouds"
-    image: "z_janda.jpg"
+  - name: "Ladislav Prskavec"
+    bio: "I've been working in Software Development for more than 15 years. I prefer work in product companies. I'm organizing GoLang Prague Meetup. Last 5 years I'm leading SRE team in Apiary (acquired by Oracle). Now we are part OCI (Oracle Cloud Infrastructure) and I'm working on API Services."
+    image: "l_prskavec.jpg"
+    twitter: "abtris"
   - name: "Štefan Šafár"
     bio: "I like security, networks, monitoring and cloud native software. At Showmax, I help the CDN team do in-depth monitoring so we can spot bottlenecks and deliver more content faster."
     image: "s_safar.jpg"
@@ -84,6 +85,78 @@ sponsors:
   - id: epam
     level: titanium
     url: "https://en.careers.epam-czech.cz/"
+  - id: gitlab
+    level: silver
+    url: "https://about.gitlab.com/"
+  - id: kb
+    level: gold
+    url: "https://www.kb.cz/"
+  - id: citrix
+    level: silver
+    url: "https://www.citrix.com/"
+  - id: flowtraders
+    level: silver
+    url: "https://www.flowtraders.com/"
+  - id: googlecloud
+    level: silver
+    url: "https://cloud.google.com/gcp/"
+  - id: avast
+    level: silver
+    url: "https://www.avast.com/"    
+  - id: f5-ni
+    level: silver
+    url: "https://www.f5.com/"  
+  - id: showmax
+    level: bronze
+    url: "https://www.showmax.com/"   
+  - id: elastic
+    level: bronze
+    url: "https://www.elastic.co/"      
+  - id: iteraio
+    level: bronze
+    url: "https://itera.io/"   
+  - id: seznam
+    level: bronze
+    url: "https://www.seznam.cz/"  
+  - id: kiwicom
+    level: bronze
+    url: "https://www.kiwi.com"  
+  - id: cisco
+    level: bronze
+    url: "https://www.cisco.com/"  
+  - id: digitalocean
+    level: starter
+    url: "https://www.digitalocean.com/"
+  - id: geekyants
+    level: starter
+    url: "https://geekyants.com/"    
+  - id: vistaprint
+    level: starter
+    url: "https://www.vistaprint.com/"  
+  - id: microsoftazure
+    level: starter
+    url: "https://azure.microsoft.com/"  
+  - id: lineupr
+    level: starter
+    url: "https://lineupr.com/"  
+  - id: sessionm
+    level: starter
+    url: "https://www.sessionm.com/"      
+  - id: inuits
+    level: community
+    url: "https://inuits.eu/"
+  - id: cloudinfrastack
+    level: community
+    url: "https://www.cloudinfrastack.com/" 
+  - id: lmc
+    level: community
+    url: "https://www.lmc.eu/en/"
+  - id: czechitas
+    level: community
+    url: "https://www.czechitas.cz/en/"     
+  - id: prague-software-craftsmanship
+    level: community
+    url: "https://www.meetup.com/Prague-Software-Craftsmanship/"  
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -102,3 +175,170 @@ sponsor_levels:
     label: Bronze
   - id: starter
     label: Starter
+  - id: community
+    label: Community
+
+
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2020-03-18
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2020-03-18
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "kris-buytaert"
+    type: talk
+    date: 2020-03-18
+    start_time: "09:10"
+    end_time: "09:45"
+  - title: ""
+    type: talk
+    date: 2020-03-18
+    start_time: "09:45"
+    end_time: "10:20"
+  - title: "Coffee Break"
+    type: custom
+    date: 2020-03-18
+    start_time: "10:20"
+    end_time: "10:40"
+  - title: "edward-pearson"
+    type: talk
+    date: 2020-03-18
+    start_time: "10:40"
+    end_time: "11:15"
+  - title: "tomas-kubica"
+    type: talk
+    date: 2020-03-18
+    start_time: "11:20"
+    end_time: "11:55"
+  - title: "Lunch"
+    type: custom
+    date: 2020-03-18
+    start_time: "11:55"
+    end_time: "13:15"
+  - title: "Ignites"
+    type: ignite
+    date: 2020-03-18
+    start_time: "13:15"
+    end_time: "13:45"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2020-03-18
+    start_time: "13:45"
+    end_time: "14:30"
+  - title: "attendee-suggested breakout discussions - Open Space #1"
+    type: open-space
+    date: 2020-03-18
+    start_time: "14:30"
+    end_time: "15:15"
+  - title: "attendee-suggested breakout discussions - Open Space #2"
+    type: open-space
+    date: 2020-03-18
+    start_time: "15:25"
+    end_time: "16:10"
+  - title: "attendee-suggested breakout discussions - Open Space #3"
+    type: open-space
+    date: 2020-03-18
+    start_time: "16:20"
+    end_time: "17:05"
+  - title: "First day summary"
+    type: custom
+    date: 2020-03-18
+    start_time: "17:10"
+    end_time: "17:20"    
+  - title: "Evening event"
+    type: custom
+    date: 2020-03-18
+    start_time: "17:25"
+    end_time: "late"
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2020-03-19
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2020-03-19
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "vaishali-anand"
+    type: talk
+    date: 2020-03-19
+    start_time: "09:10"
+    end_time: "09:45"
+  - title: "ivo-klimsa"
+    type: talk
+    date: 2020-03-19
+    start_time: "09:45"
+    end_time: "10:20"
+  - title: "Break"
+    type: custom
+    date: 2020-03-19
+    start_time: "10:20"
+    end_time: "10:40"
+  - title: "bernd-erk"
+    type: talk
+    date: 2020-03-19
+    start_time: "10:40"
+    end_time: "11:15"
+  - title: "eduardo-piairo"
+    type: talk
+    date: 2020-03-19
+    start_time: "11:20"
+    end_time: "11:55"
+  - title: "Lunch"
+    type: custom
+    date: 2020-03-19
+    start_time: "11:55"
+    end_time: "13:15"
+  - title: "Ignites"
+    type: ignite
+    date: 2020-03-19
+    start_time: "13:15"
+    end_time: "13:45"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2020-03-19
+    start_time: "13:45"
+    end_time: "14:20"
+  - title: "attendee-suggested breakout discussions - Open Space #1"
+    type: open-space
+    date: 2020-03-19
+    start_time: "14:20"
+    end_time: "15:05"
+  - title: "attendee-suggested breakout discussions - Open Space #2"
+    type: open-space
+    date: 2020-03-19
+    start_time: "15:15"
+    end_time: "16:00"
+  - title: "attendee-suggested breakout discussions - Open Space #3"
+    type: open-space
+    date: 2020-03-19
+    start_time: "16:10"
+    end_time: "16:55"
+  - title: "Closing Ceremony"
+    type: custom
+    date: 2020-03-19
+    start_time: "17:00"
+    end_time: "17:15"
+ignites:
+  - title: "axel-kohler"
+    date: 2020-03-18
+  - title: "stepan-vrany"
+    date: 2020-03-18
+  - title: "philipp-krenn"
+    date: 2020-03-18   
+  - title: "jiri-brunclik"
+    date: 2020-03-18
+  - title: "radek-zajic"
+    date: 2020-03-19  
+  - title: "mofizur-rahman"
+    date: 2020-03-19
+  - title: "marek-bartik"
+    date: 2020-03-19
+  - title: "nicolai-antiferov"
+    date: 2020-03-19         

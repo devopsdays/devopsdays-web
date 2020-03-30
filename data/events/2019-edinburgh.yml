@@ -43,6 +43,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: sponsor
   - name: contact
   - name: conduct
+  - name: postevent
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -102,6 +103,10 @@ team_members: # Name is the only required field for team members.
     employer: arc-net
     bio: "Cloud Infrastructure Engineer at arc-net working to improve all the DevOps things involved in delivering software services from the cloud."
     image: "kevin.jpg"
+  - name: "Angus Neil"
+    employer: Skyscanner
+    bio: "Engineering Manager at Skyscanner leading the global transformation of production platform modernization."
+    image: "angus-neil.jpg"
  
  
 organizer_email: "organizers-edinburgh-2019@devopsdays.org" # Put your organizer email address here
@@ -112,26 +117,27 @@ proposal_email: "proposals-edinburgh-2019@devopsdays.org" # Put your proposal em
 sponsors:
   - id: chef
     level: gold
+  - id: cloudreach
+    level: gold
+  - id: ecs-digital
+    level: gold
   - id: freeagent
     level: gold
+  - id: skyscanner
+    level: gold
+  - id: wood-mackenzie
+    level: gold
+  - id: exceptionuk
+    level: bronze
+  - id: izettle
+    level: bronze
   - id: ncredinburgh
     level: bronze
   - id: stv.tv
     level: bronze
-  - id: wood-mackenzie
-    level: gold
-  - id: cloudreach
-    level: gold
-  - id: exceptionuk
-    level: bronze
-#  - id: ecs-digital
-#    level: gold
-#  - id: skyscanner
-#    level: gold
 #  - id: nhs
 #    level: gold
-#  - id: woodmck
-#    level: gold
+
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -160,7 +166,7 @@ program:
     date: 2019-10-17
     start_time: "09:05"
     end_time: "09:15"
-  - title: "-"
+  - title: "stuart-davidson"
     type: talk
     date: 2019-10-17
     start_time: "09:15"
@@ -293,7 +299,7 @@ program:
     date: 2019-10-18
     start_time: "10:00"
     end_time: "10:15"
-  - title: "vlatko-ivanovski"
+  - title: "andy-burgin-big-talk"
     type: talk
     date: 2019-10-18
     start_time: "10:15"
@@ -387,12 +393,10 @@ ignites:
     date: 2019-10-17
   - title: "emanuil-tolev"
     date: 2019-10-17
-  - title: "-"
-    date: 2019-10-17
-  - title: "-"
+  - title: "adrian-mouat"
     date: 2019-10-18
-  - title: "-"
+  - title: "nik-knight"
     date: 2019-10-18
-  - title: "-"
+  - title: "andy-burgin"
     date: 2019-10-18
 

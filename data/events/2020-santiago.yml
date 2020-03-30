@@ -4,6 +4,7 @@ city: "Santiago" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysSCL" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "DevOpsDays is coming to Santiago in March/April of 2020! More updates will be available soon." # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+masthead_background: "santiago-chile.jpg"
 
 # All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00
@@ -119,6 +120,16 @@ team_members: # Name is the only required field for team members.
     website: "http://www.researchgate.net/profile/Reisel_Gonzalez_Perez"
     github: ""
     image: "reisel.jpg"
+  - name: "André Da Silva"
+    employer: "Oracle"
+    role: ""
+    bio: ""
+    twitter: ""
+    linkedin: "https://www.linkedin.com/in/andre-eduardo-da-silva-8a004a1b/"
+    facebook: ""
+    website: ""
+    github: ""
+    image: "andre.jpg"
 
 organizer_email: "santiago@devopsdays.org" # Put your organizer email address here
 

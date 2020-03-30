@@ -20,7 +20,7 @@ cfp_date_start: 2019-04-25T00:00:00+01:00 # start accepting talk proposals.
 cfp_date_end: 2019-07-14T23:59:59+01:00 # close your call for proposals.
 cfp_date_announce: 2019-07-31T23:59:59+01:00  # inform proposers of status
 
-cfp_open: "true"
+cfp_open: "false"
 cfp_link: "https://cfp.devopsdays.gent/2019/cfp" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2019-05-01T00:00:00+01:00 # start accepting registration. Leave blank if registration is not open yet
@@ -45,6 +45,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: sponsor
   - name: contact
   - name: conduct
+  - name: pictures
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -98,7 +99,15 @@ proposal_email: "proposals-ghent-2019@devopsdays.org" # Put your proposal email 
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
   # platinum
+  - id: redhat
+    level: platinum
   - id: puppet
+    level: platinum
+  - id: sonatype
+    level: platinum
+  - id: vmware
+    level: platinum
+  - id: nutanix-before-20200127
     level: platinum
   # social
   # gold
@@ -108,7 +117,7 @@ sponsors:
     level: gold
   - id: hpe
     level: gold
-  - id: rancher-before-20190812
+  - id: rancher
     level: gold
   - id: sentia
     level: gold
@@ -120,8 +129,10 @@ sponsors:
     level: gold
   - id: jfrog
     level: gold
+  - id: devoteam
+    level: gold
   # lanyard
-  - id: sysdig
+  - id: sysdig-before-20200210
     level: lanyard
   # silver
   - id: dpg-media
@@ -132,11 +143,15 @@ sponsors:
     level: silver
   - id: netways
     level: silver
-  - id: sysdig
-    level: silver
-  - id: olindata
+  - id: sysdig-before-20200210
     level: silver
   - id: showpad
+    level: silver
+  - id: logz-before-20200211
+    level: silver
+  - id: hashicorp
+    level: silver
+  - id: pulumi
     level: silver
   # bronze
   - id: inuits
@@ -145,9 +160,18 @@ sponsors:
     level: bronze
   - id: skyscrapers
     level: bronze
+  - id: olindata
+    level: bronze
+  - id: axxes
+    level: bronze
+  - id: rudder
+    level: bronze
   # community
   - id: devops-amsterdam
     level: community
+  # stickers
+  - id: stickermule
+    level: sticker
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -173,9 +197,12 @@ sponsor_levels:
     max: 10
   - id: community
     label: Community
+  - id: sticker
+    label: Stickers
 
 program:
-- title: Registration & Check In
+# Day 1
+- title: Registration, Check In & Breakfast
   type: custom
   date: 2019-10-29
   start_time: '8:00'
@@ -201,35 +228,28 @@ program:
   date: 2019-10-29
   start_time: '9:50'
   end_time: '10:05'
-
-- title: Break
-  type: custom
-  date: 2019-10-29
-  start_time: '10:05'
-  end_time: '10:30'
-
-- title: chris-corriere
-  type: talk
-  date: 2019-10-29
-  start_time: '10:35'
-  end_time: '10:50'
-- title: ramon-van-alteren
-  type: talk
-  date: 2019-10-29
-  start_time: '10:50'
-  end_time: '11:05'
 - title: ken-mugrage-2
   type: talk
   date: 2019-10-29
-  start_time: '11:05'
-  end_time: '11:20'
+  start_time: '10:10'
+  end_time: '10:25'
+- title: chris-corriere
+  type: talk
+  date: 2019-10-29
+  start_time: '10:30'
+  end_time: '10:45'
 
 - title: Break
   type: custom
   date: 2019-10-29
-  start_time: '11:20'
-  end_time: '11:45'
+  start_time: '10:45'
+  end_time: '11:15'
 
+- title: ramon-van-alteren
+  type: talk
+  date: 2019-10-29
+  start_time: '11:25'
+  end_time: '11:40'
 - title: julie-gunderson
   type: talk
   date: 2019-10-29
@@ -238,44 +258,44 @@ program:
 - title: daniel-maher
   type: talk
   date: 2019-10-29
-  start_time: '12:00'
-  end_time: '12:15'
+  start_time: '12:05'
+  end_time: '12:20'
 - title: sasha-rosenbaum
   type: talk
   date: 2019-10-29
-  start_time: '12:15'
-  end_time: '12:30'
+  start_time: '12:25'
+  end_time: '12:40'
 
 - title: Lunch
   type: custom
   date: 2019-10-29
-  start_time: '12:30'
-  end_time: '13:30'
-
-- title: ant-stanley
-  type: talk
-  background_color: "#C4FFD7"
-  date: 2019-10-29
-  start_time: '13:30'
+  start_time: '12:40'
   end_time: '13:35'
-- title: emanuil-tolev
-  type: talk
-  background_color: "#C4FFD7"
-  date: 2019-10-29
-  start_time: '13:35'
-  end_time: '13:40'
+
 - title: matty-stratton
-  type: talk
   background_color: "#C4FFD7"
+  type: talk
   date: 2019-10-29
   start_time: '13:40'
   end_time: '13:45'
 - title: ken-mugrage
-  type: talk
   background_color: "#C4FFD7"
+  type: talk
   date: 2019-10-29
   start_time: '13:45'
   end_time: '13:50'
+- title: emanuil-tolev
+  background_color: "#C4FFD7"
+  type: talk
+  date: 2019-10-29
+  start_time: '13:50'
+  end_time: '13:55'
+- title: ant-stanley
+  background_color: "#C4FFD7"
+  type: talk
+  date: 2019-10-29
+  start_time: '13:55'
+  end_time: '14:00'
 
 - title: "Open Space Planning"
   type: open-space
@@ -311,8 +331,8 @@ program:
   end_time: "20:00"
 
 
-# Day 2
-- title: Registration & Check In
+  # Day 2
+- title: Registration, Check In & Breakfast
   type: custom
   date: 2019-10-30
   start_time: '9:00'
@@ -328,81 +348,70 @@ program:
   date: 2019-10-30
   start_time: '9:50'
   end_time: '10:05'
-- title: stephen-nelson-smith
+- title: michael-ducy
   type: talk
   date: 2019-10-30
-  start_time: '10:15'
-  end_time: '10:30'
+  start_time: '10:10'
+  end_time: '10:25'
 
 - title: Break
   type: custom
   date: 2019-10-30
   start_time: '10:30'
-  end_time: '10:55'
+  end_time: '11:10'
 
-- title: michael-ducy
-  type: talk
-  date: 2019-10-30
-  start_time: '11:00'
-  end_time: '11:15'
 - title: george-miranda
   type: talk
   date: 2019-10-30
-  start_time: '11:20'
-  end_time: '11:35'
+  start_time: '11:10'
+  end_time: '11:25'
 - title: bryan-liles
   type: talk
   date: 2019-10-30
-  start_time: '11:35'
-  end_time: '11:50'
-
-- title: Break
-  type: custom
-  date: 2019-10-30
-  start_time: '11:50'
-  end_time: '12:10'
-
+  start_time: '11:30'
+  end_time: '11:45'
 - title: jabe-bloom
   type: talk
   date: 2019-10-30
-  start_time: '12:15'
-  end_time: '12:30'
+  start_time: '11:50'
+  end_time: '12:05'
 - title: bridget-kromhout
   type: talk
   date: 2019-10-30
-  start_time: '12:30'
-  end_time: '12:45'
+  start_time: '12:10'
+  end_time: '12:25'
 
 - title: Lunch
   type: custom
   date: 2019-10-30
-  start_time: '12:45'
+  start_time: '12:30'
   end_time: '13:25'
 
 - title: jason-yee
-  type: talk
   background_color: "#C4FFD7"
+  type: talk
   date: 2019-10-30
   start_time: '13:30'
   end_time: '13:35'
 - title: blerim-sheqa
-  type: talk
   background_color: "#C4FFD7"
+  type: talk
   date: 2019-10-30
   start_time: '13:35'
   end_time: '13:40'
 - title: eric-keller
-  type: talk
   background_color: "#C4FFD7"
+  type: talk
   date: 2019-10-30
   start_time: '13:40'
   end_time: '13:45'
 - title: jj-asghar
-  type: talk
   background_color: "#C4FFD7"
+  type: talk
   date: 2019-10-30
-  start_time: '13:50'
-  end_time: '13:55'
+  start_time: '13:45'
+  end_time: '13:50'
+
 
 - title: "Open Space Planning"
   type: open-space
@@ -429,6 +438,6 @@ program:
   type: talk
   date: 2019-10-30
   start_time: '16:45'
-  end_time: '17:15'
+  end_time: '17:00'
 
 

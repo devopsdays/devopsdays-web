@@ -268,7 +268,7 @@ program:
     date: 2019-09-18
     start_time: "10:55"
     end_time: "11.25"
-  - title: "aubrey-stearn"
+  - title: "daniel-maher-2"
     type: talk
     date: 2019-09-18
     start_time: "11:30"
@@ -302,7 +302,7 @@ program:
     date: 2019-09-18
     start_time: "15:00"
     end_time: "15:40"
-  - title: "daniel-maher-2"
+  - title: "aubrey-stearn"
     type: talk
     date: 2019-09-18
     start_time: "15:50"

@@ -2,33 +2,10 @@
 Title = "Blameless Postmortem Culture"
 Type = "talk"
 Speakers = ["murali-suriar"]
+slides = "https://drive.google.com/open?id=1k_jOs_JLWVXy4_0EBpEvkEMRRrM7LMKY"
 +++
+A talk on postmortem incident analysis and its relationship to organisational culture.
 
-Introduction to Postmortem Culture
-
-* Goal: System shouldn’t break in the same way again.
-* Growth mindset.
-* Learn from mistakes.
-* Document everything for posterity!
-
-What does a postmortem look like?
-
-* Various sections.
-* All sections for a reason.
-* Best practices for each section.
-* When does it make sense to write one?
-
-Psychological safety & Blamelessness
-
-* Postmortems, if not written well can be counterproductive to your culture.
-* Why is blamelessness important? The most important?
-* Leadership and promoting this culture.
-* Celebrating failure!
-* Going beyond technology.
-
-Ok, I wrote one, what next?
-
-* Going above and beyond just writing some documents.
-* Making things run like a clockwork, while self sustaining!
-
-
+* ... why is writing postmortems valuable?
+* ... what makes a good postmortem?
+* ... how do postmortems (and how they're written) relate to culture?

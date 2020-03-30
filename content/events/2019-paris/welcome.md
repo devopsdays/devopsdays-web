@@ -11,6 +11,8 @@ Description = "devopsdays Paris 2019"
 
 <!-- ## Date : {{< event_start >}} -->
 
+## Pour plus d'informations, veuillez visiter notre site principal : https://www.devopsrex.fr/
+
 L'équipe derrière DevOpsDays Paris et devops REX, ainsi
 que les meetups Paris DevOps, présente **devops REX 2019** : une conférence
 d'un jour, remplis des retours d'expériences concrets du terrain, comprenant
@@ -26,7 +28,7 @@ industry practitioners and taste-makers.
 
 **The principal language of this conference will be French.**
 
-## Pour plus d'informations, veuillez visiter notre site principal : https://www.devopsrex.fr/
+## Regardez les [vidéos de cette édition](https://www.youtube.com/playlist?list=PL7l-zOgt89E47NaQSApaT2xi6vIDH0Fvf) sur YouTube ! 
 
 <br />
 
@@ -48,14 +50,14 @@ industry practitioners and taste-makers.
   </div>
 </div>
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
     <a href="https://2019.devopsrex.fr/registration/purchase">Participer à l'évènement</a>
   </div>
-</div>
+</div> -->
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -84,14 +86,14 @@ industry practitioners and taste-makers.
   </div>
 </div> -->
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>
   </div>
   <div class = "col-md-8">
     <a href="https://2019.devopsrex.fr/registration/devenir-sponsor">Devenir Sponsor</a>
   </div>
-</div>
+</div> -->
 
 <div class = "row">
   <div class = "col-md-2">

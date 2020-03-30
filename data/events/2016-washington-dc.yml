@@ -14,7 +14,6 @@ coordinates: "38.8011545,-77.0659376" # The corrodinates of your venue. Get Lati
 location: "US Patent and Trademark Office" # The name of your location
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- 
   - name: register
     url: https://devopsdaysdc2016.busyconf.com/bookings/new
   # - name: propose
@@ -87,17 +86,17 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: platinum
   - id: excella-before-20180314
     level: platinum
-  - id: solarwinds
+  - id: solarwinds-before-20200114
     level: platinum
   - id: csra
     level: platinum
-  - id: docker
+  - id: docker-before-20190926
     level: platinum
   - id: chef
     level: platinum
   - id: thoughtworks-products-before-20160908
     level: platinum
-  - id: pagerduty
+  - id: pagerduty-before-20190930
     level: platinum
   - id: github
     level: platinum

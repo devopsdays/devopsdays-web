@@ -15,18 +15,18 @@ enddate: 2019-12-14T18:00:00-03:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2019-09-17T00:09:00-03:00 # start accepting talk proposals.
-cfp_date_end:  2019-10-18T00:09:00-03:00 # close your call for proposals.
+cfp_date_end:  2019-10-25T00:09:00-03:00 # close your call for proposals.
 cfp_date_announce: 2019-10-20T00:09:00-03:00 # inform proposers of status
 
 
 cfp_open: "true"
 cfp_link: "https://www.papercall.io/devopsdays-recife-2019" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start:  # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2019-10-01T00:09:00-03:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2019-10-31T00:09:00-03:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.sympla.com.br/devopsdays-recife__660075" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -39,49 +39,55 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #   icon: "" deprecated - This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
  - name: local
    url: /events/2019-recife/local
-#   icon: "map-o"
+ - name: inscricao
+   url: https://www.sympla.com.br/devopsdays-recife__660075
  - name: código de conduta
    url: /events/2019-recife/conduct
-#   icon: "handshake-o"
  - name: contato
    url: /events/2019-recife/contact
-#   icon: "envelope-o"
+ - name: Programação
+   url: /events/2019-recife/program
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Alexandre Cisneiros"
     employer: "Nubank"
-    image: "" 
+    image: "alexandre-cisneiros.jpg" 
     twitter: "cisneiros"
     bio: ""
     linkedin: "https://www.linkedin.com/in/alexandrecisneiros/"
+
   - name: "Fabio Correia"
     employer: "Instituto SENAI de Inovação para Tecnologias da Informação e Comunicação"
-    image: "" 
+    image: "fabio-correia.jpg" 
     twitter: "fabioqcorreia"
     bio: ""
     linkedin: "https://www.linkedin.com/in/fabioqcorreia"
+
   - name: "Luís Medeiros"
     employer: "In Loco"
-    image: "" 
+    image: "luis-medeiros.jpg" 
     twitter: ""
     bio: ""
     linkedin: "https://www.linkedin.com/in/luismedeiros/"
+
   - name: "Renato Martins"
     employer: "Blue Digital"
-    image: "" 
+    image: "renato-martins.jpg" 
     twitter: "striketheanswer"
     bio: ""
     linkedin: "https://www.linkedin.com/in/renato-martins-99a3078a"
+
   - name: "Ronald Miranda"
     employer: "Acqio"
-    image: "" 
+    image: "ronald-miranda.jpg" 
     twitter: ""
     bio: ""
     linkedin: "https://www.linkedin.com/in/rmirandaa/"
+
   - name: "Yago Nobre"
     employer: "Nubank"
-    image: "" 
+    image: "yago-nobre.jpg" 
     twitter: "yagoyns"
     bio: ""
     linkedin: "https://www.linkedin.com/in/yagonobre"
@@ -101,10 +107,140 @@ sponsor_levels:
     label: Platina
   - id: gold
     label: Gold
-  - id: silver
-    label: Silver
-    max: 0 # This is the same as omitting the max limit.
-  - id: bronze
-    label: Bronze
   - id: community
-    label: Community
+    label: Comunidade
+
+sponsors:
+  - id: in-loco
+    level: platinum
+  - id: aws
+    level: platinum
+  - id: vtex
+    level: gold
+  - id: concrete-2019
+    level: gold
+  - id: acqio
+    level: gold
+  - id: blue-digital
+    level: gold
+  - id: sudocast
+    level: community
+  - id: meetup-devops-recife
+    level: community
+  - id: isi-senai
+    level: community
+
+program:
+  - title: "Credenciamento"
+    type: custom
+    date: 2019-12-14T00:09:00-03:00
+    start_time: "08:00"
+    end_time: "09:00"
+
+  - title: "Abertura"
+    type: custom
+    date: 2019-12-14T00:09:00-03:00
+    start_time: "09:00"
+    end_time: "09:30"
+
+  - title: "gleicon-moraes"
+    type: talk
+    date: 2019-12-14T00:09:00-03:00
+    start_time: "09:30"
+    end_time: "10:00"
+
+  - title: "Coffee Break ☕️"
+    type: custom
+    date: 2019-12-14T00:09:00-03:00
+    start_time: "10:00"
+    end_time: "10:20"
+
+  - title: "wellington-figueira-da-silva"
+    type: talk
+    date: 2019-12-14T00:09:00-03:00
+    start_time: "10:20"
+    end_time: "10:50"
+
+  - title: "isabella-pimentel-e-felipe-lopes"
+    type: talk
+    date: 2019-12-14T00:09:00-03:00
+    start_time: "10:50"
+    end_time: "11:20"
+
+  - title: "izael-effemberg-e-paula-ferreira"
+    type: talk
+    date: 2019-12-14T00:09:00-03:00
+    start_time: "11:20"
+    end_time: "11:50"
+
+  - title: "Almoço"
+    type: custom
+    date: 2019-12-14T00:09:00-03:00
+    start_time: "11:50"
+    end_time: "13:30"
+
+  - title: "em-terra-de-iac"
+    type: talk
+    date: 2019-12-14T00:09:00-03:00
+    start_time: "13:30"
+    end_time: "14:00"
+
+  - title: "napoleon-ike-jones"
+    type: talk
+    date: 2019-12-14T00:09:00-03:00
+    start_time: "14:00"
+    end_time: "14:30"
+
+  - title: "gleidson-nascimento"
+    type: talk
+    date: 2019-12-14T00:09:00-03:00
+    start_time: "14:30"
+    end_time: "15:00"
+
+  - title: "Coffe Break ☕️"
+    type: custom
+    date: 2019-12-14T00:09:00-03:00
+    start_time: "15:30"
+    end_time: "15:50"
+
+  - title: "Open Space"
+    type: custom
+    date: 2019-12-14T00:09:00-03:00
+    start_time: "15:50"
+    end_time: "16:30"
+
+  - title: "devops-behind-the-scenes"
+    type: talk
+    date: 2019-12-14T00:09:00-03:00
+    start_time: "16:30"
+    end_time: "17:00"
+
+  - title: "bruno-schaefer-e-denis-isidoro"
+    type: talk
+    date: 2019-12-14T00:09:00-03:00
+    start_time: "17:00"
+    end_time: "17:30"
+
+  - title: "marcelo-andrade"
+    type: talk
+    date: 2019-12-14T00:09:00-03:00
+    start_time: "17:30"
+    end_time: "18:00"
+
+  - title: "Palestra"
+    type: custom
+    date: 2019-12-14T00:09:00-03:00
+    start_time: "18:00"
+    end_time: "18:30"
+
+  - title: "Encerramento"
+    type: custom
+    date: 2019-12-14T00:09:00-03:00
+    start_time: "18:30"
+    end_time: "19:00"
+
+  - title: "Happy Hour"
+    type: custom
+    date: 2019-12-14T00:09:00-03:00
+    start_time: "19:00"
+    end_time: "22:00"

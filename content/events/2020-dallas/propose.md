@@ -23,7 +23,7 @@ Our main criteria to make it to the top selection are:
 
 <strong>How to submit a proposal:</strong> Go to the following website and follow the instructions on that site.<br> 
 ## <a href="https://www.papercall.io/dod-dfw-2020">devopsdays DFW 2020 - PaperCall.io</a><br>
-If you run into any problems, please don't hesitate to contact us by email at [{{< email_proposals >}}].
+If you run into any problems, please don't hesitate to contact us by email at [{{< email_organizers >}}].
 
 <strong>Rules:</strong>
 <ul>

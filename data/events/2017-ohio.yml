@@ -83,7 +83,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: silver
   - id: dynatrace
     level: silver
-  - id: pagerduty
+  - id: pagerduty-before-20190930
     level: silver
   - id: stickermule
     level: support

@@ -5,7 +5,9 @@ aliases = ["/events/2020-prague/"]
 Description = "Devopsdays Prague 2020"
 +++
 
-DevOpsDays is coming to Prague in 2020!
+<h1> Due to circumstances beyond our control related to the COVID-19 outbrake, the organizing team reached an agreement to postpone the event by moving it from March to September. </h1>
+<br>
+<h2> DevOpsDays Prague is currently Sold Out! But you can still email {{< email_organizers >}} to be added to waiting list. </h2>
 
 <div style="text-align:center;">
   {{< event_logo >}}
@@ -34,18 +36,18 @@ DevOpsDays is coming to Prague in 2020!
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
+    <a href="https://www.eventbrite.com/e/devopsdays-prague-2020-tickets-69329736107">Register to attend the conference!</a>
   </div>
 </div> -->
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     <a href="https://www.papercall.io/dev-ops-days-prague">Propose a talk!</a>
   </div>
-</div>
+</div> -->
 
 <!-- <div class = "row">
   <div class = "col-md-2">

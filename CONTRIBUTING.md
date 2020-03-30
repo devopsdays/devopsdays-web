@@ -21,9 +21,9 @@ To watch for changes and rebuild on the fly, open a new terminal, change directo
 hugo server -w --baseUrl="http://localhost:1313"
 ```
 
-Now open `http://localhost:1313` in a browser and navigate to the content that you're editing - voilà!
+Now open `http://localhost:1313` in a browser and navigate to the content that you're editing - voilà! Note: hugo's `watch` is not going to catch every change, so if you're making structural/file or date changes, consider Control-C and restart of the `watch` command.
 
-#### Mac OS X Specific Issues
+#### macOS Specific Issues
 
 When running the `hugo server -w` command listed above, you may get an error about "too many open files". To solve this, run the following commands in your terminal:
 
@@ -42,7 +42,7 @@ Note that these changes will not persist past a reboot of your computer, so you'
 
 Make your own [fork](https://help.github.com/articles/fork-a-repo/) of the `devopsdays-web` repository.
 
-Add the source repository as a remote called "upstream":
+Add the source repository as a [remote called "upstream"](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/configuring-a-remote-for-a-fork):
 
 ```
 git remote add upstream git@github.com:devopsdays/devopsdays-web.git
@@ -75,7 +75,7 @@ This confirms you are on the master branch locally, and then applies the changes
   (Replace `fix_that_thing` with a quick description of your *actual* change.)
 
 
-3. Make your changes, test them locally (see above), then push that branch up to `origin` on your fork.
+3. Make your changes, test them locally (see above - the `watch` command sometimes needs a restart), then push that branch up to `origin` on your fork.
 
   ```
   $ git push origin fix_that_thing
@@ -119,7 +119,7 @@ Generally speaking, you should avoid storing any files other than logos or small
 If you have permissions to merge PRs on this repo, here are a few guidelines to consider:
 
 1. Is the requestor authorized to make changes for that event? They need to appear on the contact list for the year and city they're editing.
-1. Do not allow any PRs that change files outside of the above-mentioned "content" directories. Especially watch out for `.gitignore`, `config.toml`, `config-windows.toml`, and anything in the `themes` directory. Our bot will notify maintainers for any changes to non-event-content files and assign the PRs to the maintainers, so that should help.
+1. Do not allow any PRs that change files outside of the above-mentioned "content" directories. Especially watch out for `.gitignore`, `config.toml`, `config-windows.toml`, and anything in the `themes` directory. GitHub will require a review from certain maintainers/admins if specific non-content files/directories are included. See [CODEOWNERS](https://github.com/devopsdays/devopsdays-web/blob/master/.github/CODEOWNERS) for specifics.
 1. Check to see if the tests pass, but use your judgement on merging something that fails (see "PR Tests" below for guidance)
 1. If you are unsure about merging a PR, please use the "request a review" button on the PR to request one from other maintainers.
 1. If you're reviewing all the details of a PR before merging or are communicating with the *Submitter*, add yourself to *Assignees* so that others know someone is waiting on a response or reviewing all the details of the PR thoroughly. Be sure to also add a comment into the PR that you are reviewing it, and if you need a change from the *Submitter* prior to merge, be sure to label the PR as `do-not-merge`.

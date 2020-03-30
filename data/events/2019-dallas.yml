@@ -112,7 +112,7 @@ team_members: # Name is the only required field for team members.
     image: "gokul.jpg" 
   - name: "Jack Teoh"
     employer: "Organizer Role - Volunteers / Eventbrite Registration"
-    role: "Snowfall Technologies LLC"
+    role: "Vizient, Inc."
     bio: "Jack Teoh started his DevOps journey by actively volunteering for DevOpsDays Austin since 2015 and participates in multiple user group in the DevOps space. He also started volunteering for DevOpsDays Dallas when it was just starting in 2016, then become one of the core local organizer. He enjoys helping out both at DevOpsDays Austin and DevOpsDays Dallas, because he gets to meet and interact with people who are liked minded sharing a common interest which is DevOps."
     twitter: "jaxteoh"
     linkedin: "https://www.linkedin.com/in/jackteoh/"
@@ -156,12 +156,6 @@ team_members: # Name is the only required field for team members.
 #   role: "Dymek Solutions, Inc."
 #   employer: ""
 #   bio: ""
-#   twitter: "RyanDymek"
-#   linkedin: "https://www.linkedin.com/in/ryandymek/"
-#   facebook:
-#   website: "https://www.dymekonline.com/"
-#   github:
-#   image: "ryan.jpg"
 # - name: "Mike Rosado"
 #   employer: "Organizer Role - Website / devopsdays.org Global Core Organizer"
 #   role: "Independent Consultant"
@@ -236,7 +230,7 @@ sponsors:
     level: gold
   - id: liatrio
     level: silver
-  - id: instana
+  - id: instana-before-20200127
     level: silver
   - id: signalfx
     level: platinum
@@ -244,7 +238,7 @@ sponsors:
     level: platinum
   - id: securecodewarrior
     level: gold
-  - id: pagerduty
+  - id: pagerduty-before-20190930
     level: silver
   - id: verizon
     level: gold
@@ -252,7 +246,7 @@ sponsors:
     level: silver
   - id: logdna
     level: silver
-  - id: sysdig
+  - id: sysdig-before-20200210
     level: silver
   - id: chef
     level: gold

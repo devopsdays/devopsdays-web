@@ -18,7 +18,7 @@ cfp_date_start: 2019-04-19T00:00:00-04:00
 cfp_date_end: 2019-07-14T23:59:59-04:00
 cfp_date_announce: 2019-08-14T23:59:59-04:00
 
-cfp_open: "true"
+cfp_open: "false"
 cfp_link: "https://www.papercall.io/devopsdaysphilly2019" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
@@ -77,6 +77,8 @@ proposal_email: "proposals-philadelphia-2019@devopsdays.org"
 sponsors:
   - id: contrast_security
     level: platinum
+  - id: googlecloud
+    level: platinum
   - id: appdynamics
     level: gold
   - id: circleci
@@ -93,15 +95,25 @@ sponsors:
     level: gold
   - id: 2nd-watch
     level: gold
+  - id: aspe
+    level: gold
+  - id: comcast
+    level: gold
   - id: overops
     level: silver
-  - id: instana
+  - id: instana-before-20200127
     level: silver
   - id: signalfx
     level: silver
   - id: socketlabs
     level: silver
   - id: rancher
+    level: silver
+  - id: vanguard
+    level: silver
+  - id: gitlab
+    level: silver
+  - id: cerner
     level: silver
   - id: arresteddevops
     level: community

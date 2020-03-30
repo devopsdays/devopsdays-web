@@ -14,13 +14,11 @@
   publish = "public/"
   skip_processing = true
 
-  
-
 [context.production.environment]
-   HUGO_VERSION = "0.57.1"
+   HUGO_VERSION = "0.67.1"
 
 [context.deploy-preview.environment]
-  HUGO_VERSION = "0.57.1"
+  HUGO_VERSION = "0.67.1"
 
 [context.branch-deploy.environment]
-  HUGO_VERSION = "0.57.1"
+  HUGO_VERSION = "0.67.1"

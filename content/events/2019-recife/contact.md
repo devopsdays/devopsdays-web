@@ -11,6 +11,5 @@ Se você quiser entrar em contato conosco: {{< email_organizers >}}
 
 {{< list_organizers >}}
 
-**The core devopsdays organizer group**
 
 {{< list_core >}}

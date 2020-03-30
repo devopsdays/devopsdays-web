@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Lead Your DevOps Transformation"
 Type = "talk"
 Speakers = ["krikor-maroukian"]
+pdf = "https://assets.devopsdays.org/events/2019/stockholm/Lead-Your-DevOps-Transformation.pdf"
 +++
 
 **Ignite Talk**

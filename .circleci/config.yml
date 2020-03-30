@@ -2,7 +2,7 @@ version: 2
 jobs:
   production:
     docker:
-      - image: cibuilds/hugo:0.57.1
+      - image: cibuilds/hugo:0.67.1
     steps:
       - checkout
       - run:
@@ -11,7 +11,7 @@ jobs:
 
   build:
     docker:
-      - image: cibuilds/hugo:0.57.1
+      - image: cibuilds/hugo:0.67.1
     working_directory: ~/devopsdays
     steps:
       - checkout
@@ -20,7 +20,7 @@ jobs:
           command: HUGO_ENV=production hugo -v -d workspace/public
       - persist_to_workspace:
           root: workspace
-          paths: 
+          paths:
             - public
 
   test:
@@ -37,7 +37,7 @@ jobs:
       - run:
           name: npm-version
           command: 'npm version'
-      - run: 
+      - run:
           name: install-gulp
           command: 'sudo npm install -g gulp'
       # - restore_cache:

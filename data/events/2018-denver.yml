@@ -40,8 +40,8 @@ team_members: # Name is the only required field for team members.
   - name: "Joe Thompson"
   - name: "Nick Huanca"
     twitter: "NickHuanca"
-  - name: "Ryan Koch"
-    twitter: "ryanckoch"
+  - name: "Lilith Moon Cohen"
+    twitter: "lilithmooncohen"
   - name: "Matt Knox"
     twitter: "mknox42"
 
@@ -71,7 +71,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: silver
   - id: wwt_asynchrony_labs
     level: silver
-  - id: logzio
+  - id: logz-before-20200211
     level: silver
   - id: gtri
     level: bronze

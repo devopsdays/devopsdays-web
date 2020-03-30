@@ -10,33 +10,34 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2020-08-28T08:00:00-05:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2020-08-29T18:00:00-05:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2020-02-27T17:30:00-05:00 # start accepting talk proposals.
+cfp_date_end: 2020-06-30T23:59:00-05:00 # close your call for proposals.
+cfp_date_announce: 2020-07-15T23:59:00-05:00 # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_open: "true"
+cfp_link: "https://www.papercall.io/devopsdaysbogota2020" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2020-02-01T17:30:00-06:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2020-08-24T17:30:00-06:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.eventbrite.es/e/entradas-devopsdays-bogota-2020-94898302377" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
-coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Bogotá, Colombia" # Defaults to city, but you can make it the venue name.
+coordinates: "4.657037, -74.106832" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Camara de Comercio-Centro Empresarial Salitre" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "Avenida El Dorado # 68 D-35" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
- # - name: location
- # - name: registration
+  - name: propose
+  - name: location
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -51,27 +52,22 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 team_members: # Name is the only required field for team members.
   - name: "Laura Caceres"
     employer: ""
-    bio: ""
+    bio: "Laura Caceres es CEO en DEVOPS LATAM. tiene una amplia experiencia en la gestión de proyectos de transformación digital y adopción de DevOps, Le gusta investigar, sobre tendencias relacionadas con el rendimiento de las aplicaciones, la percepción del usuario y cómo impactan en la experiencia digital. hizo parte del equipo organizador del primer DevOpsDays en Latinoamérica para la cuidad de Bogotá y este año también hará parte del equipo organizador DevOpsDays Bogotá 2020."
     image: "laura.jpg"
-    twitter: ""
+    twitter: "@amapolita177"
   - name: "Rafael Martinez"
     employer: ""
-    bio: ""
+    bio: "Rafael Martinez es CTO en DEVOPS LATAM. ferviente defensor de las prácticas DevOps e instructor líder en DevOps y eventos relacionados con la tecnología, Rafael es responsable de desarrollar estrategias para la automatización de la cadena de suministro de software, hizo parte del equipo organizador del primer DevOpsDays en Latinoamérica para la cuidad de Bogotá y este año también hará parte del equipo organizador DevOpsDays Bogotá 2020."
     image: "rafael.jpg"
-    twitter: ""
-  - name: "Camilo Caceres"
-    employer: ""
-    bio: ""
-    image: "camilo.jpg"
-    twitter: ""
+    twitter: "@rafaelMartAng"
   - name: "Carlos Sanchez"
     employer: ""
-    bio: ""
+    bio: "Seleccionado entre los 100 Gerentes más Exitosos del año por la Revista Gerente y entre los 25 Mejores Gerentes de Tecnología de Información del año por la Revista IT Manager, con 25 años de experiencia profesional, Especialista en el Uso Estratégico de la Tecnología de Información. Stanford University, California, hace parte de una nueva firma de consultoría tecnológica enfocada en el lado de desarrollo de DevOps, Cloud, Quality y Application Development. este año hará parte del equipo organizador DevOpsDays Bogotá 2020."
     image: "carlos.jpg"
-    twitter: ""
+    twitter: "@cxgolding"
   - name: "Lorena Cano"
     employer: ""
-    bio: ""
+    bio: "Profesional en lenguas modernas y administración, Fiel seguidora y entusiasta de la cultura DevOps y metodologías ágiles dentro de las organizaciones, equipos y proyectos. fue voluntaria en el equipo organizador del primer DevOpsDays en Latinoamérica para la cuidad de Bogotá y este año hará parte del equipo organizador DevOpsDays Bogotá 2020."
     image: "lorena.jpg"
     twitter: ""
 organizer_email: "bogota@devopsdays.org" # Put your organizer email address here
@@ -92,13 +88,14 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: diamond
+    label: diamond
+    max: 3
+  - id: platinum
+    label: platinum
+    max: 10 
   - id: gold
-    label: Gold
-#    max: 10
-  - id: silver
-    label: Silver
-    max: 0 # This is the same as omitting the max limit.
-  - id: bronze
-    label: Bronze
-  - id: community
-    label: Community
+    label: gold
+    max: 15
+  #- id: community
+  #  label: Community

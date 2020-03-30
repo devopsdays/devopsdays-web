@@ -3,7 +3,7 @@ title = "Justina Nguyen"
 twitter = ""
 linkedin = "JustinaEats"
 website = "https://www.optimizely.com/"
-image = ""
+image = "justina-nguyen.png"
 type = "speaker"
 linktitle = ["justina-nguyen"]
 +++

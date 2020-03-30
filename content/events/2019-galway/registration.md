@@ -108,7 +108,7 @@ local knowledge to help you decide.
 
 Selection of hotels close by:
 
-- The Galmont Hotel and Spa \(conference venue\)<!--[^1]-->
+- The Galmont Hotel and Spa \(conference venue\)[^1]
 - Park House (2 mins walk)
 - Foster Court Hotel (3 mins walk)
 - Merrick (5 mins walk)
@@ -125,9 +125,7 @@ Also some nearby hostels with private rooms:
 
 Galway is also well serviced by a number of Bed & Breakfast venues on College Road, less than 10 minutes walking distance from the venue.
 
-<!--
 [^1]: For those wishing to stay at The Galmont Hotel and Spa, just mention that you are attending the conference to avail of a special rate.
--->
 
 <!-- some custom styles to tailor the tickets and register interest form -->
 

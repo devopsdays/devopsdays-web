@@ -1,7 +1,7 @@
 +++
 Title = "Michael McCliment"
 Twitter = "cornazano"
-image = ""
+image = "michael-mccliment.jpg"
 type = "speaker"
 linktitle = "michael-mccliment"
 

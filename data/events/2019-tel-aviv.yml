@@ -20,11 +20,11 @@ cfp_date_announce:  2019-10-01T23:00:00+02:00
 
 cfp_link: "https://devopsdaystlv.com/submit/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2019-10-01T09:00:00+02:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2019-12-18T09:00:00+02:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://devopsdaystlv.com/registration" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -38,9 +38,12 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: location
  # - name: registration
  # - name: program
+ # - name: sponsor
+
 - name: speakers
-- name: sponsor
-- name: propose
+- name: registration
+- name: program
+- name: location
 - name: contact
 - name: conduct
 # - name: example
@@ -135,9 +138,11 @@ proposal_email: "proposals-tel-aviv-2019@devopsdays.org" # Put your proposal ema
 sponsors:
   - id: appsflyer
     level: organizer
-  - id: spotinst
+  - id: spotinst-before-20200201
     level: platinum
   - id: aws
+    level: platinum
+  - id: facebook
     level: platinum
   - id: elastic
     level: gold
@@ -145,7 +150,7 @@ sponsors:
     level: gold
   - id: skywiz
     level: gold
-  - id: logz
+  - id: logz-before-20200211
     level: gold
   - id: jfrog
     level: gold
@@ -163,15 +168,25 @@ sponsors:
     level: silver
   - id: aerospike
     level: silver
-  - id: wework
+  - id: kubemq
     level: silver
   - id: minute-media
     level: silver
   - id: yotpo
     level: coffee
+  - id: microsoft
+    level: coffee
+  - id: IBM
+    level: lunch
+  - id: facebook
+    level: happy hour
+  - id: weissbeerger
+    level: happy hour
   - id: aerospike
     level: swag
   - id: jfrog
+    level: swag
+  - id: namogoo
     level: swag
   - id: statscraft
     level: community

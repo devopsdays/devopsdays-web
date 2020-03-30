@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Implementing DevOps Metrics at enterprise level"
 Type = "talk"
 Speakers = ["wade-catlyn"]
+Youtube = "neW76rCNzdo"
 +++
 
 Launching a DevOps program in a large corporate environment can be a daunting undertaking. 

@@ -17,9 +17,7 @@ If you'd like to contact us by email: {{< email_organizers >}}
 
 {{< list_organizers >}}
 
-<i>**The core devopsdays organizer group**</i>
+<strong><i>Local Emeritus Organizers</i></strong><br>
+John Jelinek, Ben Johnson, Annie Hedgpeth, Michael Hedgepeth, Carlos Nuñez. Mark Saum
 
 {{< list_core >}}
-
-<strong><i>Emeritus Local Organizers</i></strong><br>
-Mike Rosado, John Jelinek, Ben Johnson, Annie Hedgpeth, Michael Hedgepeth, Megan Bohl, Carlos Nuñez

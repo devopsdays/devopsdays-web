@@ -1,13 +1,30 @@
 +++
-Title = "devopsdays zurich 2020"
+Title = "DevOpsDays Zürich 2020"
 Type = "welcome"
 aliases = ["/events/2020-zurich/"]
-Description = "devopsdays zurich 2020"
+Description = "DevOpsDays Zürich 2020"
 +++
 
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
 </div> -->
+
+<img src="/events/2020-zurich/logo.png" style="float:center"/>
+
+<strong>
+  Harder, Better, Faster, Stronger. <br>Welcome to the fourth round of DevOpsDays 2020!
+</strong>
+
+<div class = "row">
+  <div class = "col-md-12">
+    <p>First time here? Check out our last events and get hyped!</p>
+    <a href="https://www.devopsdays.org/events/2017-zurich/welcome/">DevOpsDays 2017 - Where it all started</a></br>
+    <a href="https://www.devopsdays.org/events/2018-zurich/welcome/">DevOpsDays 2018 - The Continuation</a></br>
+    <a href="https://www.devopsdays.org/events/2019-zurich/welcome/">DevOpsDays 2019 - The Rising</a></br>
+  </div>
+</div>
+
+<br/>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -18,32 +35,32 @@ Description = "devopsdays zurich 2020"
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="registration" text="Register to attend the conference!" >}}
   </div>
-</div> -->
+</div> 
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
-</div> -->
+</div> 
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -78,6 +95,15 @@ Description = "devopsdays zurich 2020"
   </div>
   <div class = "col-md-8">
     {{< event_link page="contact" text="Get in touch with the organizers" >}}
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Homepage</strong>
+  </div>
+  <div class = "col-md-8">
+    <a href="https://landing.devopsdays.ch/">DevOpsDays.ch</a>
   </div>
 </div>
 

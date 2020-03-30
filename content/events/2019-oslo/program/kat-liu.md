@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Trials and Tribulations of Multi-Region Continuous Deployments"
+Title = "Building Multi-region CI/CD Pipelines with a DevOps Mindset"
 Type = "talk"
 Speakers = ["kat-liu"]
 +++

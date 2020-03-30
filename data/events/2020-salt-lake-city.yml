@@ -3,7 +3,7 @@ year: "2020" # The year of the event. Make sure it is in quotes.
 city: "Salt Lake City" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysslc" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 event_logo: "logo-square.jpg"
-description: "Devopsdays is returning to Salt Lake City!" # Edit this to suit your preferences
+description: "Salt Lake City DevOpsDays" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
@@ -11,29 +11,29 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2020-01-05T23:59:59+02:00
 # Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: 2020-06-02T08:00:00-06:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2020-06-03T18:00:00-06:00   # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:   # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2019-08-30T07:01:00-06:00  # start accepting talk proposals.
 cfp_date_end: 2020-01-07T07:01:00-06:00 # close your call for proposals.
-cfp_date_announce:  2020-02-10T07:01:00-06:00 # inform proposers of status
+cfp_date_announce:  2020-03-04T07:01:00-06:00 # inform proposers of status
 
-cfp_open: "true"
-cfp_link: "https://www.papercall.io/slcdod2020" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_open: "false"
+cfp_link:  #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: 2020-01-28T07:01:00-06:00  # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: 2020-06-01T23:59:59-06:00    # close registration. Leave blank if registration is not open yet.
+registration_date_start:    # start accepting registration. Leave blank if registration is not open yet
+registration_date_end:     # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "https://www.slcdevopsdays.org/purchase-tickets/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link:  # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
-coordinates: "40.552756, -111.901249" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Noah's Event Venue" # Defaults to city, but you can make it the venue name.
+coordinates: "40.574494, -111.9022692" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Miller Conference Center"  # Defaults to city, but you can make it the venue name.
 #
-location_address: "322 11000 S, South Jordan, UT 84095" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "9750 S 300 W Sandy UT 84070" # Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: slcdevopsdays.org
@@ -56,7 +56,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 team_members: # Name is the only required field for team members.
     - name: "Jason Vance"
       twitter: "jasonsvance"
-      employer: "Accela, Inc."
+      employer: "CoinZoom"
       linkedin: "https://www.linkedin.com/in/jason-s-vance/"
     - name: "Allia DeAngelis"
       twitter: "adeangelis"
@@ -70,10 +70,6 @@ team_members: # Name is the only required field for team members.
       employer: "Virtustream, A Dell Technologies Business"
       twitter: "rmawhinnie"
       linkedin: "https://www.linkedin.com/in/rmawhinnie/"
-    - name: "Lindley White"
-      employer: "WeWork"
-      twitter: "lindleywhite"
-      linkedin: "https://www.linkedin.com/in/lindleywhite/"
     - name: "Brett Palmer"
       twitter: "brettgpalmer"
       employer: "Department of Workforce Services"
@@ -97,7 +93,7 @@ team_members: # Name is the only required field for team members.
       linkedin: "https://www.linkedin.com/in/lewis-andrea/"
       twitter: "AndreasiweL"
     - name: "Crystal Roberts"
-      employer: "Visible Supply Chain Management"
+      employer: "Netflix"
       linkedin: "linkedin.com/in/crystal-roberts-17a3853b"
       twitter: "CtheRoberts"
     - name: "Dan Petersen"
@@ -108,19 +104,19 @@ team_members: # Name is the only required field for team members.
       employer: "FranklinCovey"       # "Agile Coach"
       linkedin: "https://www.linkedin.com/in/katrinabrinkley/"
     - name: "Kollin Prince"
-      employer: "Virtustream"         # SRE
+      employer: "Moogsoft"            # SRE
       linkedin: "https://www.linkedin.com/in/kollin-prince/"
 organizer_email: "salt-lake-city@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-    - id: accela
+    - id: launch-darkly
       level: gold
-    # - id: appdynamics
-    #   level: gold
-    # - id: chef
-    #   level: gold
+    - id: splunk
+      level: gold
+    - id: gitlab
+      level: silver
     # - id: codefresh
     #   level: gold
     # - id: dynatrace

@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Bringing Product thinking to DevOps"
 Type = "talk"
 Speakers = ["neha-datt", "marcel-britsch"]
+Youtube = "qT27f3ycdGo"
 +++
 
 With the advent of the DevOps movement we have seen an immense improvement in software delivery by closely linking software engineering with deployment and infrastructure. We have also seen an increase in complexity of options: what is needed for one organisation is not what another organisation requires or can even stomach.

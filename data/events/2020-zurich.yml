@@ -1,42 +1,44 @@
 name: "2020-zurich" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2020" # The year of the event. Make sure it is in quotes.
-city: "Zürich" # The displayed city name of the event. Capitalize it.
+city: "Zürich (Winterthur)" # The displayed city name of the event. Capitalize it.
 event_twitter: "DevOpsZH" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "Devopsdays is coming to Zürich!" # Edit this to suit your preferences
+description: "DevOpsDays is coming to Zürich!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+event_group: "Zürich"
 
 # All dates are in unquoted 2020-MM-DDTHH:MM:SS+TZ:TZ, like this:
-#   variable: 2020-06-09T00:00:00+02:00
-#   variable: 2020-06-10T23:59:59+02:00
+#   variable: 2020-09-08T00:00:00+02:00
+#   variable: 2020-09-09T23:59:59+02:00
 # Note: we allow 2020-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate:  2020-06-09T00:00:00+02:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  2020-06-10T23:59:59+02:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate:  2020-09-08T00:00:00+02:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  2020-09-09T23:59:59+02:00 # The end date of your event. Leave blank if you don't have a venue reserved yet. 
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start:  2019-11-18T00:00:00+02:00 # start accepting talk proposals.
+cfp_date_end:  2020-03-15T23:59:59+02:00 # close your call for proposals.
+cfp_date_announce: 2020-04-30T00:00:00+02:00 # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_open: "true"
+cfp_link: "https://sessionize.com/devopsdayszh-2020/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2020-02-10T00:00:00+02:00
+registration_date_end: 2020-09-07T00:00:00+02:00
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://ti.to/dod/dodzh2020" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
-coordinates: "47.384096, 8.532670" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "X-TRA Zürich" # Defaults to city, but you can make it the venue name.
+coordinates: "47.497854, 8.731663" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Alte Kaserne Winterthur" # Defaults to city, but you can make it the venue name.
 #
-location_address: "Limmatstrasse 118, 8005 Zürich" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "Technikumstrasse 8, 8400 Winterthur, Switzerland" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
- # - name: location
- # - name: registration
+  - name: propose
+  - name: location
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -59,38 +61,53 @@ team_members: # Name is the only required field for team members.
     website: ""
     image: "martin-thalmann.jpg"
   - name: "Dirk Lehmann"
-    bio: "<p>Dirk is a DevOps evangelist and Continuous Delivery expert at SAP.</p><p>Since 2001 Dirk worked in various roles at SAP including Development and Operations.</br>Together with his former team \"TwoGo by SAP\" he established the first Continuous Delivery implementation at SAP, delivering value daily to their customers.</p><p>In his current role, Dirk is a Cloud Quality Coach at SAP with focus on Continuous Delivery and DevOps practices.</p><p>Dirk is a frequent speaker at international conferences on DevOps and Continuous Delivery.</p>"
     twitter: "doergn"
+    employer: "SAP"
+    bio: "<p>Dirk is a DevOps evangelist and Continuous Delivery expert at SAP.</p><p>Since 2001 Dirk worked in various roles at SAP including Development and Operations.</br>Together with his former team \"TwoGo by SAP\" he established the first Continuous Delivery implementation at SAP, delivering value daily to their customers.</p><p>In his current role, Dirk is a Cloud Quality Coach at SAP with focus on Continuous Delivery and DevOps practices.</p><p>Dirk is a frequent speaker at international conferences on DevOps and Continuous Delivery.</p>"
     linkedin: "https://www.linkedin.com/in/dirk-lehmann-7712bb125/"
+    github: ""
+    facebook: ""
     image: "dirk-lehmann.jpg"
   - name: "Nadine Biedermann"
+    employer: "Swisscom AG"
     bio: "<p>Metaphorically, Nadine can conquer the world with her clever quips and her charme. Literally, Nadine's wit and her creativity will enhance your Marketing and Social Media experience of the DevOpsDays 2019.</p>"
     linkedin: "https://www.linkedin.com/in/nadine-biedermann-46436516b"
     image: "nadine-biedermann.jpg"
   - name: "Romano Roth"
-    bio: "<p>I'm an experienced software consultant and DevOps enthusiast working at Zühlke. My passion lies in radically transforming monolithic waterfall IT organizations into scalable agile teams doing DevOps.</p>"
-    image: "romano-roth.jpg"
-    employer: "Zühlke"
     twitter: "RomanoRoth"
+    employer: "Zühlke Engineering AG"
+    bio: "<p>I'm an experienced software consultant and DevOps enthusiast working at Zühlke. My passion lies in radically transforming monolithic waterfall IT organizations into scalable agile teams doing DevOps.</p>"
+    github: "https://github.com/RomanoRoth"
+    facebook: "https://www.facebook.com/romanoroth/"
+    website: "https://www.romanoroth.com"
     linkedin: "https://www.linkedin.com/in/romanoroth/"
+    image: "romano-roth.jpg"
   - name: "Carsten Plum"
     bio: "<p>I am passionate about everything agile and human centered. Having started my career in an old school waterfall environment more than 20 years ago as a software engineer and project manager, I am now happy to enable teams and large organisations to establish agile methods and DevOps. I specifically like the combination (and challenges) of technical and cultural aspects.</p>"
     Website: https://www.xing.com/profile/Carsten_Plum2/
-    image: "carsten-plum.jpg"
-  - name: "Selina Reist"
     employer: "Federal Office of Information Technology"
-    bio: "<p>I am an enthusiast for everything visual:photography, movies and animations, pictograms, infofraphics, visual design, graphical recordings, UX-Design. I also like to combine these skills in crossfunctional teams to enable app development, transformation processes and last but not least communicate and teach DevOps practices in large federal organizations</p>"
-    image: "selina-reist.jpg"
-  - name: "Lorena Dütsch"
-    bio: ""
-    Website: 
-    image: ""
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/romanoroth/"
+    image: "carsten-plum.jpg"
   - name: "Tobias Weinmann"
-    bio: "Having worked as a developer, systems engineer and team lead in IT operations, the ideas and concepts behind DevOps are very close to my heart. As I am passionate about coding since my teenage years, I am fascinated by concepts like Infrastructure as Code, Social Coding, and cloud native technologies trying to get hands-on whenever possible. I enjoy lateral thinking and my basic premise is that \"we cannot solve our problems with the same thinking we used when we created them\" (Albert Einstein). In my current role I dedicate all my energy to introducing and spreading DevOps principles and practices in the broader organization."
+    bio: "<p>Having worked as a developer, systems engineer and team lead in IT operations, the ideas and concepts behind DevOps are very close to my heart. As I am passionate about coding since my teenage years, I am fascinated by concepts like Infrastructure as Code, Social Coding, and cloud native technologies trying to get hands-on whenever possible. I enjoy lateral thinking and my basic premise is that we cannot solve our problems with the same thinking we used when we created them (Albert Einstein). In my current role I dedicate all my energy to introducing and spreading DevOps principles and practices in the broader organization.</p>"
     linkedin: "https://www.linkedin.com/in/tobias-weinmann"
     twitter: "Wankinobi75"
     github: "tweinmann"
+    employer: "Swiss Re"
     image: "tobias-weinmann.jpg"
+  - name: "Lorena Dütsch"
+    employer: "Swisscom AG"
+    bio: "<p>I love to create visual design, UX & UI Design, infographics, pictograms and so on. With my creativity I will participate in marketing and social media for DevOpsDays 2020.</p>"
+    linkedin: "https://www.linkedin.com/in/lorenadütsch"
+    image: "lorena-duetsch.png"
+  - name: "Sebastian Zillessen"
+    bio: "<p>I am a Senior Software Engineer. Since 2016 I am focusing on agile software development processes, clean code, infrastructure as code and DevOps specific development and release processes. My passion lies in Full stack enterprise application development which I approach with an entrepreneurial mindset.</p>"
+    image: "sebastian-zillessen.jpeg"
+    employer: "Zühlke Engineering AG"
+    twitter: "sebzill"
+    linkedin: "https://www.linkedin.com/in/sebastianzillessen/"
   - name: "Noëmi Kruesi"
     twitter: ""
     employer: "Swisscom AG"
@@ -101,17 +118,6 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/noëmi-krüsi-992436127/"
     website: ""
     image: "noemi-krusi.jpg"
-  - name: "Matías E. Fernández"
-    twitter: "matiasfrndz"
-    employer: "Swisscom AG"
-    bio: "DevOps evangelist, Kanban practitioner, Lean Startup advocate, Linux and OSS afficionado.<p>
-Keen learner and challenger of the status quo.<p>
-Enabling organisations to achieve outstanding and sustainable results that exceed customers’ expectations is his passion."
-    github: "matiasfrndz"
-    facebook: ""
-    linkedin: "https://www.linkedin.com/in/matiasfrndz/"
-    website: "https://matiasfrndz.ch/"
-    image: "matias-e-fernandez.jpg"
   - name: "Tobias Brunner"
     twitter: "tobruzh"
     employer: "VSHN AG"
@@ -124,6 +130,19 @@ Enabling organisations to achieve outstanding and sustainable results that excee
   - name: "Julia Faust"
     bio: "<p>Julia loves to communicate and to bring people and solutions together. As a Financial Controller for the IT development department of a Swiss Telco, she accompanies the transformation into an agile setup from the beginning.</p><p>DevOps principles such as \"build it, run it\", autonomy of the team, as well as short and reasonable planning processes motivate her a lot. Julia is thrilled by discussing the basic ideas and causes of agility and to inspire others.</p>"
     image: "julia-faust.jpg"
+  - name: "David Kilchenmann"
+    twitter: "@DKilchenmann"
+    employer: "Puzzle ITC"
+    bio: "<p>David is Key Account Manager at Puzzle ITC, an open-source IT company based in Bern, Zurich, Basel & Tübingen(DE). He loves how container technologies changed the way software is developed and run, but still sees a lot of potential within other organizations to adopt a DevOps mindset. At Puzzle he is working in the account  management and assists the product development of several open source solutions like Hitobito, APPUiO, PuzzleTime & Liima.  Before Puzzle he was leading the Swisscom Software Day for two iterations and promoting the Swisscom software culture within the company.</p>"
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/david-kilchenmann-004aaa68/"
+    website: ""
+    image: "david-kilchenmann.jpeg"
+  - name: "Selina Reist"
+    employer: "Federal Office of Information Technology"
+    bio: "<p>I am an enthusiast for everything visual:photography, movies and animations, pictograms, infofraphics, visual design, graphical recordings, UX-Design. I also like to combine these skills in crossfunctional teams to enable app development, transformation processes and last but not least communicate and teach DevOps practices in large federal organizations</p>"
+    image: "selina-reist.jpg"
   - name: "Vittorio Boccone"
     twitter: "drbokko"
     employer: "Dectris Ltd."
@@ -138,11 +157,31 @@ organizer_email: "zurich@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: samplesponsorname
-    level: gold
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  - id: arresteddevops
+  - id: zhlke
+    level: bronze
+  - id: nine
+    level: silver
+  - id: avega
+    level: silver
+  - id: devops-meetup-zurich
     level: community
+  - id: devops-meetup-bern
+    level: community
+  - id: swiss-cloud-native-day
+    level: community
+  - id: vshn
+    level: bronze
+  - id: sap
+    level: bronze
+  - id: googlecloud
+    level: gold
+  - id: locatee
+    level: bronze  
+  - id: youstream
+    level: partner     
+  - id: swisscom
+    level: gold
+    url: "https://www.swisscom.ch/jobs/"
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -152,12 +191,17 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
   - id: gold
-    label: Gold
-#    max: 10
+    label: Enterprise / Plenum 
+    max: 6
   - id: silver
-    label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    label: Startup / Foyer / Evening Event / Meals & Coffee
+    max: 7
   - id: bronze
-    label: Bronze
+    label: Jobboard / Friends
+    max: 0
   - id: community
     label: Community
+    max: 0
+  - id: partner
+    label: Partner
+    max: 0

@@ -43,9 +43,9 @@ in promotional materials. The preferred file formats are EPS or AI.
   <thead>
     <tr>
       <th><i>packages</i></th>
-      <th><center><b><u><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5LCE8CR2ZUH8J">Supporting</a></u></b></center><center><b>$1,000</b></center></th>
-      <th><center><b><u><a href="mailto:organizers-kansas-city-2019@devopsdays.org?subject=DevOpsDays%20Kansas%20City%202019%20Sponsorship">Premium</a></u></b></center><center><b>$6,000</b></center></th>
-      <th><center><b><u><a href="#special">Special Sponsorships</a></u></b></center><center><b>$1,500 - $4,000</b></center></th>
+      <th><center><b>Supporting</a></b></center><center><b>$1,000</b></center></th>
+      <th><center><b>Premium</b></center><center><b>$6,000</b></center></th>
+      <th><center><b>Special Sponsorships</b></center><center><b>$1,500 - $4,000</b></center></th>
     </tr>
     </thead>
     <tbody>
@@ -53,27 +53,16 @@ in promotional materials. The preferred file formats are EPS or AI.
       <td style="border-bottom: 0; border-top: 0;"></td>
       <td style="padding: 4px 5px 0px 5px;">
         <!-- Supporting Paypal button  -->
-        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-          <input type="hidden" name="cmd" value="_s-xclick">
-          <input type="hidden" name="hosted_button_id" value="5LCE8CR2ZUH8J">
-          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-          <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-        </form>
+        <b><center>SOLD OUT</center></b>
       </td>
       <td style="padding: 4px 5px 0px 5px;">
         <!-- Premium Paypal button  -->
-        <a href="mailto:organizers-kansas-city-2019@devopsdays.org?subject=DevOpsDays%20Kansas%20City%202019%20Sponsorship"><b>Contact us for availability!</b></a>
+        <b><center>SOLD OUT</center></b>
       </td>
       <td style="padding: 4px 5px 0px 5px;">
-          <center>      </td>
-    </tr>
-    <tr>
-      <td style="border-bottom: 0; border-top: 0;"></td>
-      <td colspan="4" style="padding: 0px 0px 0px 0;"><center><small>Note: Paypal payments include 3% service charge.</small></center></td>
-    </tr>
-    <tr>
-      <td style="border-bottom: 0; border-top: 0;"></td>
-      <td colspan="4" style="padding: 4px 0px 4px 0;text-align: center;"><a href="mailto:organizers-kansas-city-2019@devopsdays.org?subject=DevOpsDays%20Kansas%20City%202019%20Sponsorship">Email us</a> if you prefer to pay by check</td>
+        <!-- Special Sponsorships  -->
+        <b><center>SOLD OUT</center></b>
+      </td>
     </tr>
     <tr>
       <td>Included tickets</td>
@@ -143,7 +132,7 @@ All special sponsors will have their logo displayed on the DevOpsDays Kansas Cit
       <td>$1,500</td>
       <td>Your logo on buffet lines and a dedicated space in buffet area from morning to lunch.</td>
       <td>1</td>
-      <td>SOLD OUT</td>
+      <td><b>SOLD OUT</b></td>
     </tr>
     <tr>
       <td align="center"><i class="fa fa-cutlery fa-4x"></i></td>
@@ -151,7 +140,7 @@ All special sponsors will have their logo displayed on the DevOpsDays Kansas Cit
       <td>$1,500</td>
       <td>Your logo on buffet lines and a dedicated space in buffet area from lunch to evening.</td>
       <td>1</td>
-      <td><a href="mailto:organizers-kansas-city-2019@devopsdays.org?subject=DevOpsDays%20Kansas%20City%202019%20Sponsorship"><b>Contact us for availability!</b></a></td>
+      <td><b>SOLD OUT</b></td>
     </tr>
     <tr>
       <td align="center"><i class="fa fa-coffee fa-4x"></i></td>
@@ -159,7 +148,7 @@ All special sponsors will have their logo displayed on the DevOpsDays Kansas Cit
       <td>$1,500</td>
       <td>Your logo stamped on coffee sleeves.</td>
       <td>1</td>
-      <td><a href="mailto:organizers-kansas-city-2019@devopsdays.org?subject=DevOpsDays%20Kansas%20City%202019%20Sponsorship"><b>Contact us for availability!</b></a></td>
+      <td><b>SOLD OUT</b></td>
     </tr>
     <tr>
       <td align="center"><i class="fa fa-id-badge fa-4x"></i></td>
@@ -167,7 +156,7 @@ All special sponsors will have their logo displayed on the DevOpsDays Kansas Cit
       <td>$4,000</td>
       <td>Your logo and company colors. Typically provided by the sponsoring company.</td>
       <td>2</td>
-      <td>SOLD OUT</td>
+      <td><b>SOLD OUT</b></td>
     </tr>
     <tr>
       <td align="center"><i class="fa fa-music fa-4x"></i></td>
@@ -175,7 +164,7 @@ All special sponsors will have their logo displayed on the DevOpsDays Kansas Cit
       <td>$4,000</td>
       <td>Pay for drinks, food, and entertainment - get an exclusive space for the night.</td>
       <td>4</td>
-      <td>SOLD OUT</td>
+      <td><b>SOLD OUT</b></td>
     </tr>
   </tbody>
 </table>

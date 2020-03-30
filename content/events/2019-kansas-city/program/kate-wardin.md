@@ -16,6 +16,8 @@ This workshop will cater to all career levels - those who are formally or inform
 
 Participants must be willing to practice vulnerability, respect, and openness.  The more willing we are to openly share and discuss, the stronger our connections will be and the more diverse perspectives we can take back to our schools and organizations.
 
+Attendees: Please bring a device with internet access, a pen, and paper
+
 INTRODUCTION
 Have you ever worked for a horrible boss?  Or, a boss that didn’t seem invested in you or your career growth?   If so, you know how demoralizing it can feel, even for the strongest and most driven individuals and teams. 
 

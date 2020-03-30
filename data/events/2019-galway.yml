@@ -26,7 +26,7 @@ registration_date_end: "2019-11-16" # close registration. Leave blank if registr
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
-
+sharing_image: "sharing.jpg"
 # Location
 #
 coordinates: "53.274193,-9.043818" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
@@ -38,8 +38,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: propose
   - name: location
   - name: registration
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -141,16 +141,6 @@ team_members: # Name is the only required field for team members.
       and volunteering. He fills every breath of spare time with learning the Celtic
       harp, diligently studying Irish, being an apprentice potter, knitting, and
       tinkering with his 1959 Austin Mini among many other activities.
-  - name: "Steve McConville"
-    image: "steve-mcconville.jpg"
-    employer: "Genesys"
-    twitter: "daikaiju"
-    linkedin: "https://www.linkedin.com/in/stevemcconville/"
-    bio: |
-      Steve is a technologist with 15 years experience performing both development
-      and operations roles. He recently joined Genesys AI lab in Galway as a
-      principal engineer working on data engineering and machine learning
-      infrastructure.
 
 organizer_email: "organizers-galway-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-galway-2019@devopsdays.org" # Put your proposal email address here
@@ -169,17 +159,45 @@ sponsors:
     level: gold
   - id: googlecloud
     level: gold
+  - id: suse
+    level: gold
+  - id: redhat
+    level: gold
   - id: avaya
     level: silver
   - id: aspect
     level: silver
+  - id: galway-technology-centre
+    level: silver
   - id: guruteam
+    level: bronze
+  - id: itag-skillnet
+    level: bronze
+  - id: cisco
+    level: bronze
+  - id: microsoftazure
     level: bronze
   - id: compustaff
     level: support
   - id: stickermule
     level: support
     url: http://stickermule.com/supports/devopsdaygalway19-sponsorship
+  - id: coding-grace
+    level: community
+  - id: wwcodebelfast
+    level: community
+  - id: devops-galway
+    level: community
+  - id: gdg-galway
+    level: community
+  - id: docker-dublin
+    level: community
+  - id: inog
+    level: community
+  - id: wwcodedublin
+    level: community
+  - id: pyladies-dublin
+    level: community
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
@@ -200,3 +218,215 @@ sponsor_levels:
     label: Support
   - id: community
     label: Community
+
+program:
+  # Day one
+  - title: "Registration, Breakfast, and Sponsor Booths Open"
+    type: custom
+    date: 2019-11-18
+    start_time: "08:30"
+    end_time: "09:30"
+  - title: "Opening of the Conference"
+    type: custom
+    date: 2019-11-18
+    start_time: "09:30"
+    end_time: "10:00"
+  - title: "danese-cooper"
+    type: talk
+    date: 2019-11-18
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "pierre-vincent"
+    type: talk
+    date: 2019-11-18
+    start_time: "10:35"
+    end_time: "11:05"
+
+  - title: "Break"
+    type: custom
+    date: 2019-11-18
+    start_time: "11:05"
+    end_time: "11:20"
+
+  - title: "giulio-vian"
+    type: talk
+    date: 2019-11-18
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "sponsors"
+    type: custom
+    date: 2019-11-18
+    start_time:  "11:55"
+    end_time: "12:05"
+  - title: "riona-macnamara"
+    type: talk
+    date: 2019-11-18
+    start_time: "12:10"
+    end_time: "12:40"
+
+  - title: "Lunch"
+    type: custom
+    date: 2019-11-18
+    start_time: "12:40"
+    end_time: "13:50"
+
+  - title: "how-chaos-monkey-went-from-feared-foe-to-trusted-friend"
+    type: talk
+    date: 2019-11-18
+    start_time: "13:50"
+    end_time: "14:20"
+  - title: "Ignites"
+    type: ignite
+    date: 2019-11-18
+    start_time: "14:25"
+    end_time: "14:45"
+  - title: "Openspace Opening and Voting"
+    type: open-space
+    date: 2019-11-18
+    start_time: "14:50"
+    end_time: "15:30"
+
+  - title: "Break"
+    type: custom
+    date: 2019-11-18
+    start_time: "15:30"
+    end_time: "16:00"
+
+  - title: "Openspace 1"
+    type: open-space
+    date: 2019-11-18
+    start_time: "16:00"
+    end_time: "16:30"
+  - title: "Openspace 2"
+    type: open-space
+    date: 2019-11-18
+    start_time: "16:35"
+    end_time: "17:05"
+  - title: "Openspace 3"
+    type: open-space
+    date: 2019-11-18
+    start_time: "17:10"
+    end_time: "17:40"
+
+  - title: "Close Day & Announcements"
+    type: custom
+    date: 2019-11-18
+    start_time: "17:45"
+    end_time: "18:00"
+
+  - title: "Evening Event - Networking ChillOps @ TBC"
+    type: custom
+    date: 2019-11-18
+    start_time: "18:00"
+
+  # Day two
+  - title: "Registration, Breakfast, and Sponsor Booths Open"
+    type: custom
+    date: 2019-11-19
+    start_time: "09:00"
+    end_time: "09:45"
+  - title: "Day 2 - Opening Welcome"
+    type: custom
+    date: 2019-11-19
+    start_time: "09:45"
+    end_time: "10:00"
+  - title: "nathen-harvey"
+    type: talk
+    date: 2019-11-19
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "katrina-novakovic"
+    type: talk
+    date: 2019-11-19
+    start_time: "10:35"
+    end_time: "11:05"
+
+  - title: "Break"
+    type: custom
+    date: 2019-11-19
+    start_time: "11:05"
+    end_time: "11:20"
+
+  - title: "jorge-dionisio"
+    type: talk
+    date: 2019-11-19
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "sponsors"
+    type: custom
+    date: 2019-11-19
+    start_time:  "11:55"
+    end_time: "12:05"
+  - title: "philip-otoole"
+    type: talk
+    date: 2019-11-19
+    start_time: "12:10"
+    end_time: "12:40"
+
+  - title: "Lunch"
+    type: custom
+    date: 2019-11-19
+    start_time: "12:40"
+    end_time: "13:50"
+
+  - title: "michele-pegoraro"
+    type: talk
+    date: 2019-11-19
+    start_time: "13:50"
+    end_time: "14:20"
+  - title: "Ignites"
+    type: ignite
+    date: 2019-11-19
+    start_time: "14:25"
+    end_time: "14:45"
+  - title: "Openspace Opening and Voting"
+    type: open-space
+    date: 2019-11-19
+    start_time: "14:50"
+    end_time: "15:30"
+
+  - title: "Break"
+    type: custom
+    date: 2019-11-19
+    start_time: "15:30"
+    end_time: "16:00"
+
+  - title: "Openspace 1"
+    type: open-space
+    date: 2019-11-19
+    start_time: "16:00"
+    end_time: "16:30"
+  - title: "Openspace 2"
+    type: open-space
+    date: 2019-11-19
+    start_time: "16:35"
+    end_time: "17:05"
+  - title: "Openspace 3"
+    type: open-space
+    date: 2019-11-19
+    start_time: "17:10"
+    end_time: "17:40"
+
+  - title: "Closing Day and Farewell"
+    type: custom
+    date: 2019-11-19
+    start_time: "17:45"
+    end_time: "18:00"
+
+ignites:
+  - title: "james-hunter"
+    date: 2019-11-18
+  - title: "brendan-o-reilly"
+    date: 2019-11-18
+  - title: "emanuil-tolev"
+    date: 2019-11-18
+  - title: "eoin-nugent"
+    date: 2019-11-18
+  - title: "alan-burke"
+    date: 2019-11-19
+  - title: "eimhear-obrien"
+    date: 2019-11-19
+  - title: "frank-farrell"
+    date: 2019-11-19
+  - title: "bryan-solan"
+    date: 2019-11-19

@@ -1,6 +1,6 @@
 +++
 Title = "Juliano Silveira"
-image = ""
+image = "juliano-silveira.jpg"
 type = "speaker"
 linktitle = "juliano-silveira"
 

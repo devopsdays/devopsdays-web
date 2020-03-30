@@ -3,7 +3,7 @@ title = "Jessica Anderson"
 twitter = "solidtubez"
 linkedin = "https://se.linkedin.com/in/anderssonjessica"
 website = ""
-image = ""
+image = "jessica-anderson.png"
 type = "speaker"
 linktitle = ["jessica-anderson"]
 +++

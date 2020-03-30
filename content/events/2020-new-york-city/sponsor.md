@@ -4,8 +4,12 @@ Type = "event"
 Description = "Sponsor devopsdays New York City 2020"
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
+<br>
 
+##### We greatly value sponsors for this open event.  If you are interested in sponsoring, please see our <a href="https://drive.google.com/open?id=1tTB6EaO9NhyhvM1ltitf0_QyTOLCTD7_" target="_blank">prospectus</a> for details.
+
+
+<!--
 <hr>
 
 devopsdays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
@@ -15,7 +19,6 @@ Gold sponsors get a full table and Silver sponsors a shared table where they can
 The best thing to do is send engineers to interact with the experts at devopsdays on their own terms.
 <p>
 
-<!--
 <hr/>
 
 <div style="width:590px">
@@ -62,5 +65,5 @@ There are also opportunities for exclusive special sponsorships. We'll have spon
 </table>
 </div>
 
--->
 <hr/>
+-->

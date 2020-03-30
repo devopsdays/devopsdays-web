@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Enabling DevOps culture with a Platform engineering team"
 Type = "talk"
 Speakers = ["adarsh-shah", "priyanka-rao"]
+Speakerdeck = "https://speakerdeck.com/shahadarsh/enabling-devops-culture-with-a-platform-engineering-team"
 +++
 
 DevOps is about creating a culture of shared responsibility in delivery teams. It is recommended to embed operations skills into delivery teams to reduce friction and enable them to deliver products to customers faster but whenever there is a need for significant investment in tooling and automation and teams lack the skills to self-manage a full application and operations stack, having a separate Platform engineering team can help. Organizations that consider establishing such a platform engineering team should be very cautious not to accidentally create a separate DevOps team. 

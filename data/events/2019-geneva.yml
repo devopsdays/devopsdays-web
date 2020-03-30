@@ -100,7 +100,7 @@ sponsors:
     level: silver
   - id: xebialabs
     level: gold
-  - id: nutanix
+  - id: nutanix-before-20200127
     level: gold
   - id: smartwave
     level: silver
@@ -108,7 +108,7 @@ sponsors:
     level: silver
   - id: cross-systems
     level: silver
-  - id: globaz
+  - id: globaz-before-20190121
     level: silver
   - id: techfirm
     level: bronze

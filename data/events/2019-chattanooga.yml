@@ -37,9 +37,9 @@ location: "Chattanooga" # Defaults to city, but you can make it the venue name.
 location_address: "1201 Broad St, Chattanooga, TN 37402" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+#  - name: propose
   - name: registration
- # - name: program
+  - name: program
   - name: speakers
   - name: sponsor
   - name: location
@@ -86,14 +86,30 @@ sponsors:
     level: gold
   - id: bcbst
     level: gold
+  - id: datadog
+    level: gold
+  - id: chatech
+    level: gold
+  - id: nutanix-before-20200127
+    level: gold
+  - id: redhat-silex
+    level: gold
+  - id: worldwide_technologies_dell
+    level: gold
   - id: unum
     level: gold
+  - id: infosystems
+    level: silver
   - id: saucelabs
     level: silver
   - id: compuware
     level: bronze
+  - id: sensu
+    level: bronze
+  - id: societyofwork
+    level: community
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -110,3 +126,135 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2019-11-12T00:00:00-05:00
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2019-11-12T00:00:00-05:00
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "jennifer-davis"
+    type: talk
+    date: 2019-11-12T00:00:00-05:00
+    start_time: "09:15"
+    end_time: "10:00"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-11-12T00:00:00-05:00
+    start_time: "10:00"
+    end_time: "10:05"
+  - title: "michael-jolley"
+    type: talk
+    date: 2019-11-12T00:00:00-05:00
+    start_time: "10:05"
+    end_time: "10:35"
+  - title: "Break"
+    type: custom
+    date: 2019-11-12T00:00:00-05:00
+    start_time: "10:35"
+    end_time: "10:50"
+  - title: "dion-stewart"
+    type: talk
+    date: 2019-11-12T00:00:00-05:00
+    start_time: "10:50"
+    end_time: "11:20"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-11-12T00:00:00-05:00
+    start_time: "11:20"
+    end_time: "11:25"
+  - title: "mike-rothman"
+    type: talk
+    date: 2019-11-12T00:00:00-05:00
+    start_time: "11:25"
+    end_time: "11:55"
+  - title: "Open Space Intro"
+    type: custom
+    date: 2019-11-12T00:00:00-05:00
+    start_time: "11:55"
+    end_time: "12:10"
+  - title: "Lunch"
+    type: custom
+    date: 2019-11-12T00:00:00-05:00
+    start_time: "12:10"
+    end_time: "13:20"
+  - title: "Lightning Talks"
+    type: ignite
+    date: 2019-11-12T00:00:00-05:00
+    start_time: "13:20"
+    end_time: "14:00"
+  - title: "veer-muchandi"
+    type: talk
+    date: 2019-11-12T00:00:00-05:00
+    start_time: "14:00"
+    end_time: "14:35"
+  - title: "Open Space #1"
+    type: custom
+    date: 2019-11-12T00:00:00-05:00
+    start_time: "14:00"
+    end_time: "14:35"
+  - title: "jj-asghar"
+    type: talk
+    date: 2019-11-12T00:00:00-05:00
+    start_time: "14:35"
+    end_time: "15:10"
+  - title: "Open Space #2"
+    type: custom
+    date: 2019-11-12T00:00:00-05:00
+    start_time: "14:35"
+    end_time: "15:10"
+  - title: "Break"
+    type: custom
+    date: 2019-11-12T00:00:00-05:00
+    start_time: "15:10"
+    end_time: "15:25"
+  - title: "james-wen"
+    type: talk
+    date: 2019-11-12T00:00:00-05:00
+    start_time: "15:25"
+    end_time: "15:55"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-11-12T00:00:00-05:00
+    start_time: "15:55"
+    end_time: "16:00"
+  - title: "Sponsor Giveaway"
+    type: custom
+    date: 2019-11-12T00:00:00-05:00
+    start_time: "16:00"
+    end_time: "16:15"
+  - title: "chris-rimondi"
+    type: talk
+    date: 2019-11-12T00:00:00-05:00
+    start_time: "16:15"
+    end_time: "17:00"
+  - title: "Closing Remarks"
+    type: custom
+    date: 2019-11-12T00:00:00-05:00
+    start_time: "17:00"
+    end_time: "17:15"
+  - title: "After Party"
+    type: custom
+    date: 2019-11-12T00:00:00-05:00
+    start_time: "17:30"
+    end_time: "19:00"
+
+ignites:
+- title: summer-kohlhorst
+  date: 2019-11-12T00:00:00-05:00
+- title: jamie-phillips
+  date: 2019-11-12T00:00:00-05:00
+- title: chantee-boykin
+  date: 2019-11-12T00:00:00-05:00
+- title: dave-karow
+  date: 2019-11-12T00:00:00-05:00
+- title: john-cotton
+  date: 2019-11-12T00:00:00-05:00
+- title: TBA
+  date: 2019-11-12T00:00:00-05:00
+  

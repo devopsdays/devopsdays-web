@@ -1,7 +1,7 @@
 +++
 Title = "Workshop: How to create powerful Feature Flags to fuel Product Experimentation"
 Type = "talk"
-Speakers = ["justina-nguyen"]
+Speakers = ["justina-nguyen","laura-hofmann"]
 +++
 
 More and more teams are looking for ways to iterate gradually and validate their ideas with data. Techniques like A/B testing, feature flagging, and gradual rollouts are quickly going from niche to mainstream. More experimentation means faster development and better products. But like any trend, product experimentation is a good idea that can easily go wrong. For every game-changing A/B test, there’s a trail of testing mistakes that led well-meaning teams down the wrong path.

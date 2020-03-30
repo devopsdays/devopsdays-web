@@ -24,7 +24,7 @@ cfp_link: "https://cfp.devopsdayskc.org" #if you have a custom link for submitti
 registration_date_start: 2019-04-16T00:00:00-05:00
 registration_date_end: 2019-10-24T00:00:00-05:00
 
-registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_closed: "yes" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://tickets.devopsdayskc.org/?aff=website" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
@@ -37,14 +37,16 @@ location_address: "300 E 39th St, Kansas City, MO 64111" #Optional - use the str
 nav_elements: # List of pages you want to show up in the navigation of your page.
 #   - name: propose
   - name: location
-  - name: registration
+  - name: map
+  # - name: registration
   - name: program
+  - name: social
   - name: speakers
-  - name: sponsor
+  # - name: sponsor
   - name: contact
   - name: conduct
-  - name: justification
-    url: https://docs.google.com/document/d/1_bxlAO8Q2le-hSVYaoEbBQ1nG3ftT838NM5xAoeZ0h8/edit?usp=sharing
+  # - name: justification
+    # url: https://docs.google.com/document/d/1_bxlAO8Q2le-hSVYaoEbBQ1nG3ftT838NM5xAoeZ0h8/edit?usp=sharing
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -102,6 +104,7 @@ team_members: # Name is the only required field for team members.
   - name: "Chris Stein"
     employer: C2FO
     image: chris-stein.jpg
+    github: bksteiny
     linkedin: https://LinkedIn.com/in/cdstein
     website: http://chrisstein.io
     bio: "Chris has spent most of his career focusing on infrastructure automation. He's interested in
@@ -178,7 +181,7 @@ sponsors:
     level: premium
   - id: sonatype
     level: premium
-  - id: nutanix
+  - id: nutanix-before-20200127
     level: premium
   - id: circleci
     level: premium
@@ -210,15 +213,30 @@ sponsors:
     level: community
   - id: tricomts
     level: supporting
+  - id: kairos
+    level: supporting
   - id: appdynamics
     level: premium
   - id: googlecloud
     level: premium
   - id: signalfx
     level: premium
+  - id: stackrox
+    level: premium
+  - id: googlecloud
+    level: coffee
+  - id: equipmentshare
+    level: lunch
+  - id: capstonec
+    level: lunch
+  - id: kudelskisecurity-f5
+    level: premium
+  - id: vmlyr
+    level: premium
+  - id: delltechnologies
+    level: premium
 
-
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -279,7 +297,7 @@ program:
     date: 2019-10-24
     start_time: "11:30"
     end_time: "12:00"
-  - title: "Lunch (catered)"
+  - title: "Sponsors + Catered Lunch (sponsored by EquipmentShare)"
     type: custom
     date: 2019-10-24
     start_time: "12:00"
@@ -324,7 +342,7 @@ program:
     date: 2019-10-24
     start_time: "14:30"
     end_time: "15:00"
-  - title: "Sponsors + Break"
+  - title: "Break"
     type: custom
     date: 2019-10-24
     start_time: "15:00"
@@ -344,12 +362,13 @@ program:
     date: 2019-10-24
     start_time: "16:45"
     end_time: "17:00"
-  - title: "Evening event"
+  - title: "Evening Social"
     type: custom
     date: 2019-10-24
     start_time: "17:00"
     end_time: "21:00"
-    comments: "TBD"
+    comments: "No Other Pub - 1370 Grand Blvd"
+    custom_url: /events/2019-kansas-city/social
   - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2019-10-25
@@ -360,8 +379,8 @@ program:
     date: 2019-10-25
     start_time: "09:00"
     end_time: "09:15"
-  - title: "Talk Placeholder"
-    type: custom
+  - title: "kylie-schleicher"
+    type: talk
     date: 2019-10-25
     start_time: "09:15"
     end_time: "09:45"
@@ -375,7 +394,7 @@ program:
     date: 2019-10-25
     start_time: "10:00"
     end_time: "12:00"
-  - title: "Lunch (catered)"
+  - title: "Catered Lunch (sponsored by Capstone IT)"
     type: custom
     date: 2019-10-25
     start_time: "11:30"
@@ -420,7 +439,7 @@ program:
     date: 2019-10-25
     start_time: "14:00"
     end_time: "14:30"
-  - title: "Sponsors + Break"
+  - title: "Break"
     type: custom
     date: 2019-10-25
     start_time: "14:30"

@@ -5,14 +5,43 @@ aliases = ["/events/2020-houston/"]
 Description = "devopsdays Houston 2020"
 +++
 
+# DevOpsDays Houston 2020 rescheduled to August 18-19, 2020
+### Due to the outbreak of COVID-19 and growing concerns over the spread of the disease, we have decided to postpone DevOpsDays Houston 2020 till August 18-19, 2020, at the same venue, Norris Conference Centers - CityCenter. 
+### For details please read the <a href="/events/2020-houston/dodh-health-and-safety-update.pdf">DevOpsDays Houston Health and Safety Update</a>
+<div style="height:20px"></div>
 <div class="row">
   <div class="col-md-3">
-      <div style="text-align:center;">{{< event_logo >}}</div>
+	<div style="text-align:center;">{{< event_logo >}}</div>
+	<div class = "row">
+	<a href="/events/2020-houston/dodh-health-and-safety-update.pdf" class="btn btn-danger btn-block">DevOpsDays Houston Health and Safety Update</a>
+	</div>
+	
   </div>
   <div class="col-md-6">
     <div class = "row">
       <div class = "col-md-2"><strong>Dates</strong></div>
       <div class = "col-md-8">{{< event_start >}} - {{< event_end >}}</div>
+    </div>
+    <div class="row">
+      <div class="col-md-2"><strong>Location</strong></div>
+      <div class="col-md-8">{{< event_location >}}</div>
+    </div>
+    <!-- <div class = "row">
+      <div class = "col-md-2"><strong>Propose</strong></div>
+      <div class = "col-md-8">{{< event_link page="propose" text="Propose a talk!" >}}</div>
+    </div>
+	-->
+	<div class = "row">
+		<div class = "col-md-2"><strong>Program</strong></div>
+        <div class = "col-md-8">View the {{< event_link page="program" text="program." >}}</div>
+	</div>
+	<div class = "row">
+		<div class = "col-md-2"><strong>Speakers</strong></div>
+        <div class = "col-md-8">Check out the {{< event_link page="speakers" text="speakers!" >}}</div>
+    </div>
+    <div class="row">
+      <div class="col-md-2"><strong>Register</strong></div>
+      <div class="col-md-8">{{< event_link page="registration" text="Register to attend the conference!" >}}</div>
     </div>
     <div class = "row">
       <div class = "col-md-2"><strong>Sponsors</strong></div>
@@ -49,32 +78,7 @@ Description = "devopsdays Houston 2020"
   </div>
 </div>
 
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Location</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_location >}}
-  </div>
-</div> -->
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Register</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
-  </div>
-</div> -->
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Propose</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
-  </div>
-</div> -->
+<!--  -->
 
 <!-- <div class = "row">
   <div class = "col-md-2">

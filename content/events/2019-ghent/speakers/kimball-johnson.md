@@ -7,4 +7,4 @@ linktitle = "kimball-johnson"
 
 +++
 
-Kimball is a Customer Engineer for Chef Software, where he splits his time between giving training on a variety of Chef products, and assisting large enterprises in their (often scary) journey into the world of DevOps and Automation. Over the past ten years he has being using a wide range of infrastructure automation tools and has seen the pitfalls of a lack of testing. In his spare time he enjoys reading, computer games and good food.
+Kimball is a Developer Evangelist at Chef Software, where he spends his days creating the best training content for enabling the coded enterprise. His ten plus years of experience in the world of DevOps and Automation with a wide variety of tools with many large enterprises has given him great insight into the benefits of Automation and Testing and will use that experience to lead you in your first steps into your own journey.

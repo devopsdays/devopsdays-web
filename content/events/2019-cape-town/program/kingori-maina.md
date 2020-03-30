@@ -6,6 +6,7 @@ Title = "Around & After Kubernetes: The Principles and Ideas that Guide Us"
 Type = "talk"
 Speakers = ["kingori-maina"]
 Speakerdeck = "https://speakerdeck.com/itskingori/around-and-after-kubernetes-the-principles-and-ideas-that-guide-us"
+Youtube = "sHZVD0fmVWg"
 +++
 
 We made the decision in late 2015 to move all our applications to containerised environments managed by Kubernetes. It took roughly 3 years to complete that migration. During that journey we’ve learnt a lot about containerisation, distributed systems, complicated migrations and automation of systems managing over 70 developers. We think our migration has been a success and we’re keen to share a little a bit about what we know.

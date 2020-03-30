@@ -1,44 +1,45 @@
 ---
-name: "2020-denver"   # The name of the event. Four digit year with the city name in lower-case, with no spaces.
-year: "2020"  # The year of the event. Make sure it is in quotes.
-city: "Denver"  # The displayed city name of the event. Capitalize it.
-event_twitter: "devopsdaysrox"  # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "DevOpsDays Denver Coming Up!"  # Edit this to suit your preferences
-friendly: "2020-denver"  # Four digit year and the city name in lower-case. Don't forget the dash!
-ga_tracking_id: "UA-146926657-1"  # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+name: "2020-denver"
+year: "2020"
+city: "Denver"
+event_twitter: "devopsdaysrox"
+description: "DevOpsDays Denver Coming Up!"
+friendly: "2020-denver"
+ga_tracking_id: "UA-146926657-1"
 
-startdate: 2020-04-26T00:00:00-06:00  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2020-04-28T23:59:59-06:00  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2020-08-11T00:00:00-06:00
+enddate: 2020-08-12T23:59:59-06:00
 
 # Custom reusables
-dinner_date: &speaker_dinner  2020-04-26
-day_one_date: &day_one 2020-04-27
-day_two_date: &day_two 2020-04-28
+dinner_date: &speaker_dinner 2020-08-10
+day_one_date: &day_one 2020-08-11
+day_two_date: &day_two 2020-08-12
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2019-12-01T00:00:00-07:00  # start accepting talk proposals.
-cfp_date_end: 2020-02-14T23:59:59-07:00  # close your call for proposals.
-cfp_date_announce: 2020-03-18T23:59:59-06:00  # inform proposers of status
+cfp_date_start: 2019-11-27T00:00:00-07:00  # start accepting talk proposals.
+cfp_date_end: 2020-01-25T23:59:59-07:00  # close your call for proposals.
+cfp_date_announce: 2020-02-11T23:59:59-06:00  # inform proposers of status
 
 cfp_open: "false"
 
+cfp_link: "https://dodrockies2020.busyconf.com/proposals/new"
 
-cfp_link: ""
-
-registration_date_start:
+registration_date_start: 2019-11-27T00:00:00-07:00
 registration_date_end:
 
 registration_closed: ""
-registration_link: ""
+registration_link: "https://dodrockies2020.busyconf.com/bookings/new"
 
 # Location
-coordinates: "39.740050, -105.016551"  # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Mile High Station and Iron Works"  # Defaults to city, but you can make it the venue name.
-location_address: "2027 W Colfax Ave, Denver, CO 80204"  #Optional - use the street address of your venue. This will show up on the welcome page if set.
+coordinates: "39.740050, -105.016551"
+location: "Mile High Station and Iron Works"
+location_address: "2027 W Colfax Ave, Denver, CO 80204"
 
-nav_elements:  # List of pages you want to show up in the navigation of your page.
+nav_elements:
   - name: location
   - name: sponsor
+  - name: propose
+  - name: registration
   - name: contact
   - name: conduct
 
@@ -55,37 +56,56 @@ team_members:  # Name is the only required field for team members.
     employer: "Splunk"
   - name: "Nick Huanca"
     twitter: "NickHuanca"
-    employer: "ReactiveOps"
   - name: "Carla Murray"
     employer: "Oracle Data Cloud"
     twitter: "carlajmurray"
   - name: "Matt Knox"
     twitter: "mknox42"
     employer: "Splunk"
-  - name: "Ryan Koch"
-    twitter: "ryanckoch"
+  - name: "Lilith Moon Cohen"
+    twitter: "lilithmooncohen"
   - name: "Jason Sharp"
-organizer_email: "denver@devopsdays.org"  # Put your organizer email address here
-sponsors_accepted: "true"  # Whether you want "Become a XXX Sponsor!" link
+    twitter: "1971hemicuda"
+  - name: "Erin Atkinson"
+    twitter: "erebuslost"
+organizer_email: "denver@devopsdays.org"
+sponsors_accepted: "true"
 sponsors:
   - id: arresteddevops
     level: community
-
-# In this section, list the level of sponsorships and the label to use.
-# You may optionally include a "max" attribute to limit the number of sponsors per level. For
-# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
-# sponsorship for a specific level, it is best to remove the level.
+  - id: circleci
+    level: gold
+  - id: influxdata
+    level: gold
+  - id: codefresh
+    level: silver
+  - id: site24x7
+    level: silver
+  - id: appdynamics
+    level: silver
+  - id: harness
+    level: silver
+  - id: elastic
+    level: silver
+  - id: armory
+    level: silver
+  - id: vmware-tanzu
+    level: silver
+  - id: logz
+    level: silver
+  - id: redis-labs
+    level: silver
+  - id: cprime
+    level: silver
 sponsor_levels:
-  - id: social
-    label: Social Hour Event
-    max: 1
   - id: gold
     label: Gold
-    max: 8
+    max: 9
   - id: silver
     label: Silver
-    max: 8  # This is the same as omitting the max limit.
-  - id: bronze
-    label: Bronze
+    max: 8
+  - id: supporter
+    label: Supporter
+    max: 4
   - id: community
     label: Community
