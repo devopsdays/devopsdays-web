@@ -30,9 +30,9 @@ location: "" # Defaults to city, but you can make it the venue name.
 location_address: "" # Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- - name: Chamadas (CFP)
-   icon: "paper-plane-o"
-   url: /events/2020-goiania/cfp
+# - name: Chamadas (CFP)
+#   icon: "paper-plane-o"
+#   url: /events/2020-goiania/cfp
 
 # - name: local
 #   icon: "map-o"
