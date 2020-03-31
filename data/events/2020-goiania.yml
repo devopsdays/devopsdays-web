@@ -6,8 +6,8 @@ description: "DevOpsDays está voltando para Goiânia!" # Edit this to suit your
 ga_tracking_id: "UA-139150829-2" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2020-MM-DD, like this:   variable: 2016-01-05
-startdate: 2020-09-12T08:00:00-03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2020-09-12T18:00:00-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: #2020-09-12T08:00:00-03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: #2020-09-12T18:00:00-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  # start accepting talk proposals.
@@ -15,13 +15,13 @@ cfp_date_end:  # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
 
 cfp_open: "false"
-cfp_link: "https://www.papercall.io/devopsdaysgyn2020" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: #"https://www.papercall.io/devopsdaysgyn2020" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start:  # start accepting registration. Leave blank if registration is not open yet
 registration_date_end:  # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "https://www.sympla.com.br/devopsdays-goiania-2020" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: #"https://www.sympla.com.br/devopsdays-goiania-2020" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -34,21 +34,21 @@ nav_elements: # List of pages you want to show up in the navigation of your page
    icon: "paper-plane-o"
    url: /events/2020-goiania/cfp
 
- - name: local
-   icon: "map-o"
-   url: /events/2020-goiania/local
+# - name: local
+#   icon: "map-o"
+#   url: /events/2020-goiania/local
 
- - name: inscrições
-   icon: "ticket"
-   url: /events/2020-goiania/registration
+# - name: inscrições
+#   icon: "ticket"
+#   url: /events/2020-goiania/registration
 
- - name: programação
-   icon: "calendar"
-   url: /events/2020-goiania/programacao
+# - name: programação
+#   icon: "calendar"
+#   url: /events/2020-goiania/programacao
 
- - name: palestrantes
-   icon: "microphone"
-   url: /events/2020-goiania/speakers
+# - name: palestrantes
+#   icon: "microphone"
+#   url: /events/2020-goiania/speakers
 
  - name: patrocínio
    icon: "money"
@@ -118,8 +118,8 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/santanafernandaa/"
     image: "fernanda-santana.png"
 
-organizer_email: "organizers-goiania-2020@devopsdays.org" # Put your organizer email address here
-#proposal_email: "proposals-goiania-2020@devopsdays.org" # Put your proposal email address here
+organizer_email: "goiania@devopsdays.org" # Put your organizer email address here
+
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
