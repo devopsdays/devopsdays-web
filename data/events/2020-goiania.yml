@@ -79,18 +79,17 @@ team_members: # Name is the only required field for team members.
   - name: "Franzwagner Ternus"
     employer: "DataUnique Tecnologia"
     bio: ""
-    email: franzwagner.str@gmail.com
     github: "strund3r"
     twitter: "strund3r"
     linkedin: "https://www.linkedin.com/in/franzwagner-ternus/"
     website: "https://about.me/franzwagner.str"
     image: "franzwagner-ternus.jpg"
   - name: "Marcelo Mendonça"
-    email: mendonca2709@gmail.com
+    employer:
+    bio:
   - name: "Marcelo Paiva"
     employer: "Softprime Soluções"
     bio: "CTO na Softprime Soluções, Leader Override .Net Community, Community Leader AWS-Goiânia"
-    email: marcelo@softprime.com.br
     github: "marcelojpaiva"
     twitter: "marcelojpaiva"
     facebook: "marcelojpaiva" 
@@ -100,7 +99,6 @@ team_members: # Name is the only required field for team members.
   - name: "Rafael Braga"
     employer: "PagSeguro/PagBank"
     bio: "Site Reliability Engineer (SRE) | DevOps Engineer | Software Engineer"
-    email: bragadevops@gmail.com
     github: "BragaDevOps"
     twitter: "BragaDevOps"
     facebook: "" 
@@ -110,13 +108,11 @@ team_members: # Name is the only required field for team members.
   - name: "Wagner Alencar"
     employer: "everis Brazil"
     bio: "Agile Coach | Solutions Specific Knowledge Analyst | WEB/Mobile Developer"
-    email: brios2000@gmail.com
     linkedin: "https://www.linkedin.com/in/wagner-alencar-da-silva-b330a648/"
     image: "wagner-alencar.jpg"
   - name: "Fernanda Santana"
     employer: "PagBank"
     bio: "UX Designer"
-    email: santanafernandaa@gmail.com
     linkedin: "https://www.linkedin.com/in/santanafernandaa/"
     image: "fernanda-santana.png"
 
