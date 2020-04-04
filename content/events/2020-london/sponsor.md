@@ -8,7 +8,7 @@ Description = "Sponsor devopsdays London 2020"
   <div class="alert alert-warning" role="alert">
     Notice to sponsors regarding novel coronavirus (COVID-19)
   </div>
-  <p>Please note that paid sponsorship is non-refundable. As this is an unpaid volunteer community-run event, we appreciate your understanding. We use all the collected funds to put on the event, and we are committed to paying all those monies to our venue, food, AV, and other suppliers. You can request to be put on a refund list and if we sell out and can resell your slot we will refund you. In the case of a major event (like the conference being forced to cancel due to COVID-19) we will do our best to recoup costs from our suppliers and may be able to offer full or partial refunds, but that is us doing our best effort; we are unfortunately unable to commit to it.</p>
+  <p>Please note that paid sponsorship is non-refundable. As this is an unpaid volunteer community-run event, we appreciate your understanding. We use all the collected funds to put on the event, and we are committed to paying all those monies to our venue, food, AV, and other suppliers. You can request to be put on a refund list and if we sell out and can resell your slot we will refund you. In the case of a major event (like the conference being forced to cancel due to COVID-19) we will attempt to recoup costs from our suppliers and may be able to offer full or partial refunds, but that is us doing our resonable efforts; we are unfortunately unable to commit to it.</p>
 </div>
 
 <div class="col-md">
