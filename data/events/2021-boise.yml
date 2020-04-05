@@ -35,7 +35,7 @@ location_address: "850 W Front St, Boise, ID 83702" #Optional - use the street a
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
- # - name: location
+  - name: location
  # - name: registration
  # - name: program
  # - name: speakers
@@ -81,11 +81,22 @@ organizer_email: "boise@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: samplesponsorname
-    level: gold
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
+  - id: simplot
+    level: silver
+  - id: cradlepoint
+    level: platinum
+  - id: chef
+    level: silver
+  - id: balsam-brands
+    level: gold
+  - id: 2016-intimetec
+    level: platinum
+  - id: intuit
+    level: bronze
+  - id: clearwater
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
