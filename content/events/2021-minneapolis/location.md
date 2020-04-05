@@ -1,7 +1,7 @@
 +++
 Title = "Location"
 Type = "event"
-Description = "Location for devopsdays Minneapolis 2020"
+Description = "Location for devopsdays Minneapolis 2021"
 +++
 
 The conference will take place {{< event_start >}} - {{< event_end >}} at the <a href="http://www3.hilton.com/en/hotels/minnesota/hilton-minneapolis-MSPMHHH/index.html">downtown Minneapolis Hilton</a>.

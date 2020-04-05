@@ -1,10 +1,10 @@
 +++
 Title = "Sponsor"
 Type = "event"
-Description = "Sponsor devopsdays Minneapolis 2020"
+Description = "Sponsor devopsdays Minneapolis 2021"
 +++
 
-We greatly value sponsors for this community event. Platinum, Gold, and Silver sponsorship packages are detailed in our <a href="https://assets.devopsdays.org/events/2020/minneapolis/devopsdays-minneapolis-2020-prospectus.pdf">prospectus</a>. If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
+We greatly value sponsors for this community event. Platinum, Gold, and Silver sponsorship packages are detailed in our <a href="https://assets.devopsdays.org/events/2021/minneapolis/devopsdays-minneapolis-2021-prospectus.pdf">prospectus</a>. If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
 
 Additional à la carte sponsorships are available:
 
@@ -17,7 +17,7 @@ Additional à la carte sponsorships are available:
 </ul>
 
 <ul>
-<li><strike>Lanyard - ($5000)</strike> - <b>SOLD OUT</b></li>
+<li>Lanyard - ($5000)</b></li>
 </ul>
 
 <ul>
