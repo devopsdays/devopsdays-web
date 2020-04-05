@@ -7,7 +7,7 @@ Description = "devopsdays Boise 2020"
 
 
 <div class="alert alert-danger" role="alert">
-  Due to the global situation around COVID-19, devopsdays Boise has been canceled for 2020. We have made the decision to move the event to April 6-7, 2021, and make it a two day more robust event. <a href="/events/2020-boise/cancellation" class="alert-link">Click here for more information</a>.
+  Due to the global situation around COVID-19, devopsdays Boise has been canceled for 2020. We have made the decision to move the event to April 6-7, 2021, and make it a two day more robust event. <a href="/events/2021-boise" class="alert-link">Click here for more information</a>.
 </div>
 
 <div class="d-flex p-2">
