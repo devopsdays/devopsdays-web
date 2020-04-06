@@ -116,8 +116,6 @@ sponsors:
     level: gold
   - id: fastly
     level: gold
-  - id: googlecloud
-    level: gold
   - id: xmatters
     level: gold
   - id: hashicorp
