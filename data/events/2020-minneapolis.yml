@@ -109,41 +109,23 @@ organizer_email: "minneapolis@devopsdays.org" # Put your organizer email address
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: appdynamics
-    level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  - id: arresteddevops
-    level: community
   - id: sps_commerce
     level: gold
   - id: sps_commerce
     level: alacarte
   - id: redhat
     level: silver
-  - id: hackthegap
-    level: community
-  - id: softwaredefinedtalk
-    level: community
-  - id: saucelabs
-    level: silver
   - id: chef
     level: gold
   - id: vmware-tanzu
     level: gold
-  - id: minnestar
-    level: community
   - id: fastly
     level: gold
-  - id: technovation-mn
-    level: community
   - id: launch-darkly
-    level: silver
-  - id: logz
     level: silver
   - id: googlecloud
     level: gold
-  - id: solo
-    level: silver
   - id: xmatters
     level: gold
   - id: hashicorp
@@ -165,7 +147,4 @@ sponsor_levels:
     max: 13
   - id: alacarte
     label: A La Carte
-  - id: community
-    label: Community
-    max: 6
 
