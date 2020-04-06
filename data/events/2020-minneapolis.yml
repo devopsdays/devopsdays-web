@@ -112,8 +112,6 @@ sponsors:
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: redhat
     level: silver
-  - id: vmware-tanzu
-    level: gold
   - id: fastly
     level: gold
   - id: xmatters
