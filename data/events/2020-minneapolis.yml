@@ -116,8 +116,6 @@ sponsors:
     level: alacarte
   - id: redhat
     level: silver
-  - id: chef
-    level: gold
   - id: vmware-tanzu
     level: gold
   - id: fastly
