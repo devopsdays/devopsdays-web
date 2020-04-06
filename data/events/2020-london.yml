@@ -113,6 +113,8 @@ sponsors:
   - id: site24x7
     level: silver
   # Gold
+  - id: circleci
+    level: gold
   - id: elastic
     level: gold
 
