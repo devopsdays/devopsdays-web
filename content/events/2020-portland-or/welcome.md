@@ -9,14 +9,23 @@ Description = "devopsdays Portland, Oregon 2020"
   {{< event_logo >}}
 </div>
 
-<div class = "row">
+<p><strong>We have decided to cancel DevOpsDays Portland 2020.</strong></p>
+
+<p>Many of you have come to know DevOpsDays Portland as a place to learn and build connections with others in the Portland DevOps community. Creating this environment has been an honor and comes with responsibilities that we don’t take lightly.</p>
+
+<p>Although DevOpsDays Portland was scheduled for September, and we hope that this situation will have greatly improved by then, there is still a lot of uncertainty. That uncertainty affects our ability to host the event to the standards we hold. It also puts undue stress on you as you weigh the risks of participating in an in-person event.</p>
+
+<p>Out of respect for you and this event that we all love, we have decided to cancel it for this year. <strong>We’ll be back in 2021 and we hope to see you then!</strong></p>
+
+
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Dates</strong>
   </div>
   <div class = "col-md-8">
     {{< event_start >}} - {{< event_end >}}
   </div>
-</div>
+</div> -->
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -63,14 +72,14 @@ Description = "devopsdays Portland, Oregon 2020"
   </div>
 </div> -->
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="sponsor" text="Sponsor the conference!" >}}
   </div>
-</div>
+</div> -->
 
 <div class = "row">
   <div class = "col-md-2">
