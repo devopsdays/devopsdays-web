@@ -184,6 +184,8 @@ sponsors:
     url: "https://www.swisscom.ch/jobs/"
   - id: swiss-re
     level: gold
+  - id: platformsh
+    level: gold
   - id: roche
     level: gold
 
