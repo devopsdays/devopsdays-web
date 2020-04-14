@@ -22,6 +22,16 @@ Description = "DevDpsDays Stockholm 2020"
 <br>
 
 <div class = "row">
+  <div class = "col-md-5">
+    <h4>HEALTH STATEMENT</h4>
+    With the global concerns around the COVID-19 coronavirus, we want to be proactive in communicating our plans for DevOpsDays Stockholm in October.
+    <br>​
+    <b>We’re still holding the event as scheduled​.</b>
+  </div>
+</div>
+<br>
+
+<div class = "row">
   <div class = "col-md-2">
     <strong>Dates</strong>
   </div>
