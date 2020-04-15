@@ -1,4 +1,4 @@
-# Updating devopsdays.org with a canceled event
+# Updating devopsdays.org with a cancelled event
 
 If you unfortunately need to cancel your event, there are a few changes you should make to get the website updated. Just deleting the event isn't a great idea; you want people who try to access the URL to know what happened.
 
@@ -10,7 +10,7 @@ Any files/pages you have in the `contents/events/YYYY-CITY` directory other than
 
 ## Update `welcome.md`
 
-You need to make two changes to the `welcome.md` page. 
+You need to make two changes to the `welcome.md` page.
 
 First, you will want to update the content to add a notice that you are canceling the event, along with any other information you want people to know (if you have details about refunds, rescheduling, etc)
 
