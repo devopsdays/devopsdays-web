@@ -22,6 +22,16 @@ Description = "DevDpsDays Stockholm 2020"
 <br>
 
 <div class = "row">
+  <div class = "col-md-5">
+    <h4>HEALTH STATEMENT</h4>
+    With the global concerns around the COVID-19 coronavirus, we want to be proactive in communicating our plans for DevOpsDays Stockholm in October.
+    <br>​
+    <b>We’re still holding the event as scheduled​.</b>
+  </div>
+</div>
+<br>
+
+<div class = "row">
   <div class = "col-md-2">
     <strong>Dates</strong>
   </div>
@@ -39,14 +49,14 @@ Description = "DevDpsDays Stockholm 2020"
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="registration" text="Register to attend the conference!" >}}
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -92,8 +102,3 @@ Description = "DevDpsDays Stockholm 2020"
     {{< event_link page="contact" text="Get in touch with the organizers" >}}
   </div>
 </div>
-
-<!-- Uncomment if you added your city twitter name -->
-<!--
-{{< event_twitter >}}
--->
