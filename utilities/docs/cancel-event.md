@@ -1,4 +1,4 @@
-# Updating devopsdays.org with a cancelled event
+# Updating devopsdays.org if you must cancel your event
 
 If you unfortunately need to cancel your event, there are a few changes you should make to get the website updated. Just deleting the event isn't a great idea; you want people who try to access the URL to know what happened.
 
