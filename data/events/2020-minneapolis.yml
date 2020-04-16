@@ -112,8 +112,6 @@ sponsors:
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: redhat
     level: silver
-  - id: fastly
-    level: gold
   - id: xmatters
     level: gold
   - id: hashicorp
@@ -133,6 +131,3 @@ sponsor_levels:
   - id: silver
     label: Silver
     max: 13
-  - id: alacarte
-    label: A La Carte
-
