@@ -90,6 +90,7 @@
           {{- $.Scratch.Set "past-counter" 0 -}}
           {{- range sort $.Site.Data.events "startdate" -}}
           {{- if .startdate -}}
+          {{- if ne .cancel "true" -}}
 
             {{- if $e.event_group -}}
               {{- if eq .event_group $e.event_group -}}
@@ -113,6 +114,7 @@
                 {{- end -}}
               {{- end -}}
               {{- end -}}
+            {{- end -}}
             {{- end -}}
           {{- end -}}
           <br /><br />
