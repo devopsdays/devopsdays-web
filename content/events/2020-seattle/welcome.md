@@ -9,7 +9,7 @@ Description = "We're very sorry to announce that DevOpsDays Seattle 2020 will no
 
 Due to the outbreak of COVID-19 and growing concern over the spread of the disease, we have decided not to hold DevOpsDays Seattle on April 14th and 15th. While we are disappointed not to host the event in April, the health and well-being of the community is our top priority.
 
-At this moment, we do not know whether the event is postponed to the fall or canceled, but we wanted to let you know as soon as possible that the event will not take place as planned. We are researching the feasibility of holding an event in the fall. We will provide updates via email and social channels by March 20th. 
+Thank you for your patience as we researched whether we could hold DevOpsDays Seattle later this year. Given the uncertainty of the situation, we have decided not to reschedule. We will be back, better than ever in 2021.
 
 #### Attendees
 Starting this evening, March 4th, we will begin canceling ticket registrations and refunding your money for the event. 
