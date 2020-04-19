@@ -9,10 +9,18 @@ Description = "DevOpsDays Zürich 2020"
   {{< event_logo >}}
 </div> -->
 
+<div class="row">
+  <div class="alert alert-info" role="alert">
+    <h2>COVID-19</h2>
+    <p>We’re aware of the present situation as a consequence of COVID-19 and take it very seriously. 
+    <br>Currently we expect to be able to hold the DevOps Days Zurich 2020 as planned. Should the situation not change as anticipated, we will take appropriate actions.</p>
+  </div>
+</div>
+
 <img src="/events/2020-zurich/logo.png" style="float:center"/>
 
 <strong>
-  Harder, Better, Faster, Stronger. <br>Welcome to the fourth round of DevOpsDays 2020!
+  <br>Welcome to the fourth round of DevOpsDays 2020!
 </strong>
 
 <div class = "row">
