@@ -58,14 +58,14 @@
         
             <span class="welcome-page-date">
                 {{- if eq (time $e.startdate).Month (time $e.enddate).Month -}}
-                    {{ dateFormat "January 2" $e.startdate }} - {{ dateFormat "2, 2006" $e.enddate }}<br />
+                    <time datetime="{{ dateFormat "2006-01-02T15:04:05-0700" $e.startdate }}">{{ dateFormat "January 2" $e.startdate }}</time> - <time datetime="{{ dateFormat "2006-01-02T15:04:05-0700" $e.enddate }}">{{ dateFormat "2, 2006" $e.enddate }}</time><br />
                 {{- else -}}
-                    {{ dateFormat "Jan 2" $e.startdate }} - {{ dateFormat "Jan 2" $e.enddate }}<br />
+                    <time datetime="{{ dateFormat "2006-01-02T15:04:05-0700" $e.startdate }}">{{ dateFormat "Jan 2" $e.startdate }}</time> - <time datetime="{{ dateFormat "2006-01-02T15:04:05-0700" $e.enddate }}">{{ dateFormat "Jan 2" $e.enddate }}</time><br />
                 {{- end -}}
             </span>
       {{- else -}}
             <span class="welcome-page-date">
-          {{ dateFormat "January 2, 2006" $e.startdate }}<br />
+          <time datetime="{{ dateFormat "2006-01-02T15:04:05-0700" $e.startdate }}">{{ dateFormat "January 2, 2006" $e.startdate }}</time><br />
             </span>
       {{- end -}}
     {{- end -}}
