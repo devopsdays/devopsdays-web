@@ -76,6 +76,11 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/bezarsnba/"
     website: "http://onxsolutions.net/"
     image: "bezaleel-silva.jpg"
+  - name: "Fernanda Santana"
+    employer: "PagBank"
+    bio: "UX Designer"
+    linkedin: "https://www.linkedin.com/in/santanafernandaa/"
+    image: "fernanda-santana.png"
   - name: "Franzwagner Ternus"
     employer: "DataUnique Tecnologia"
     bio: ""
@@ -107,11 +112,6 @@ team_members: # Name is the only required field for team members.
     bio: "Agile Coach | Solutions Specific Knowledge Analyst | WEB/Mobile Developer"
     linkedin: "https://www.linkedin.com/in/wagner-alencar-da-silva-b330a648/"
     image: "wagner-alencar.jpg"
-  - name: "Fernanda Santana"
-    employer: "PagBank"
-    bio: "UX Designer"
-    linkedin: "https://www.linkedin.com/in/santanafernandaa/"
-    image: "fernanda-santana.png"
 
 organizer_email: "goiania@devopsdays.org" # Put your organizer email address here
 
