@@ -11,7 +11,7 @@ Description = "devopsdays Atlanta 2020"
 
 <div style="text-align:center;">
 <h1>The "Just" Basics.</h1>
-<p>Our 2020 event has been canceled &amp; resecheduled for April of 2021 at the Georgia Aquarium. <a style="font-style: italic;" href="https://medium.com/@cacorriere/more-fun-than-hosting-an-event-during-a-pandemic-f8aaa709de7c?source=friends_link&sk=69220a622de8d7c285f1d8fa75f9fcdf">More Info</a>
+<p>Our 2020 event has been canceled &amp; rescheduled for April of 2021 at the Georgia Aquarium. <a style="font-style: italic;" href="https://medium.com/@cacorriere/more-fun-than-hosting-an-event-during-a-pandemic-f8aaa709de7c?source=friends_link&sk=69220a622de8d7c285f1d8fa75f9fcdf">More Info</a>
 <br/><br/>
 <strong>Epistemic justification</strong>, a concept related to <strong>observability</strong>, aims to help us know when our beliefs are justified. 
 <br/><br/>
