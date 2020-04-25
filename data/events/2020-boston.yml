@@ -96,7 +96,7 @@ team_members: # Name is the only required field for team members.
     gitlab: "dbuckley"
     image: "derekbuckley.jpg"
 
-  - name: "Aaron Aldritch"
+  - name: "Aaron Aldrich"
     bio: "Aaron Aldrich is a Developer Advocate at LaunchDarkly, Founding organizer of DevOpsDays Hartford, and frequent DevOpsDays organizer and participant all over. When not talking about DevOps and Resilience Engineering, you can find him talking about Mental Health with osmi-help.org or running Emotional Intelligence workshops with EmotionalAPI.com. Find him on twitter @crayzeigh for general nonsense and tomfoolery."
     twitter: "crayzeigh"
     github: "crayzeigh"
