@@ -1,5 +1,5 @@
 +++
-Title = "Location2"
+Title = "Location"
 Type = "event"
 Description = "Location for devopsdays Porto Alegre 2020"
 +++
