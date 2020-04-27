@@ -1,8 +1,16 @@
 +++
 Title = "devopsdays Porto Alegre 2020"
 Type = "welcome"
-aliases = ["/events/2020-porto-alegre/"]
 Description = "devopsdays Porto Alegre 2020"
+aliases = [
+    "/events/2020-porto-alegre/",
+    "/events/2020-porto-alegre/location/",
+    "/events/2020-porto-alegre/propose/",
+    "/events/2020-porto-alegre/registration/",
+    "/events/2020-porto-alegre/sponsor/",
+    "/events/2020-porto-alegre/program/",
+    "/events/2020-porto-alegre/speakers/"
+]
 +++
 
 

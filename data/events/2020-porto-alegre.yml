@@ -151,8 +151,6 @@ sponsors:
     level: community
   - id: 2015-thoughtworks
     level: platinum
-  - id: instana_2020
-    level: platinum
   - id: adentro-cloud
     level: bronze
   - id: interop
@@ -168,9 +166,7 @@ sponsors:
   - id: azion
     level: silver
   - id: datacentrics
-    level: silver
-  - id: timbira_2020
-    level: silver
+    level: silverr
   - id: southsystem
     level: gold
   - id: gitlab
