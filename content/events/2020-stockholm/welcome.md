@@ -5,8 +5,8 @@ aliases = ["/events/2020-stockholm/"]
 Description = "DevDpsDays Stockholm 2020"
 +++
 
-<h1>Welcome to DevOpsDays Stockholm 2020!</h1>
-<!-- <h2>{{< event_start >}} - {{< event_end >}}</h2> -->
+# Welcome to DevOpsDay~~s~~ Stockholm 2020!
+## {{< event_start >}}
 
 <div style="text-align:left;">
   {{< event_logo >}}
@@ -24,9 +24,9 @@ Description = "DevDpsDays Stockholm 2020"
 <div class = "row">
   <div class = "col-md-5">
     <h4>HEALTH STATEMENT</h4>
-    With the global concerns around the COVID-19 coronavirus, we want to be proactive in communicating our plans for DevOpsDays Stockholm in October.
+    With the global concerns around the COVID-19 coronavirus, we want to be proactive in communicating our plans for DevOpsDays Stockholm in October. Due to the current uncertain circumstances we don't feel comfortable planning a real event even in October.
     <br>​
-    <b>We’re still holding the event as scheduled​.</b>
+    <b>We’ve decided to hold the event when originally planned​ but as a one-day virtual event.</b>
   </div>
 </div>
 <br>
