@@ -48,6 +48,10 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
+  - name: "Alexandra Sedova"
+    image: "alexandra-sedova.jpg"
+    linkedin: "https://www.linkedin.com/in/alexandra-sedova-ab355b92/"
+    employer: Praqma
   - name: "Anders Bruvik"
     twitter: "bruvik"
     image: "anders-bruvik.jpg"
