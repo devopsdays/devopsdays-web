@@ -114,8 +114,6 @@ sponsors:
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: xmatters
     level: gold
-  - id: hashicorp
-    level: gold
 
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
