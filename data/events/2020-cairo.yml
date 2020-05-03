@@ -30,21 +30,21 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 # Location
 
 
-coordinates: "30.0604551,31.4187594" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Royal Maxim Palace Kempinski Cairo" # Defaults to city, but you can make it the venue name.
+coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "" # Defaults to city, but you can make it the venue name.
 
 
-location_address: "Royal Maxim Palace Kempinski Cairo" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "Online Event! Stay Safe!" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
 #  - name: propose
-  - name: location
-  - name: local
+#  - name: location
+#  - name: local
 #  - name: registration
 #  - name: program
 #    url: https://assets.devopsdays.org/events/2020/cairo/DevopsDays-Cairo-2020-Agenda.pdf
 #  - name: speakers
-  - name: sponsor
+#  - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
@@ -83,6 +83,11 @@ organizer_email: "cairo@devopsdays.org" # Put your organizer email address here
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
 
+  - id: egyptinnovate
+    level: community
+  - id: foss
+    level: community
+    
  #- id: amecse
  #  level: community
  #- id: egyptinnovate
@@ -107,4 +112,4 @@ sponsor_levels:
     max: 0 # This is the same as omitting the max limit.
   - id: community
     label: Community
-    max: 3
+    max: 2
