@@ -5,6 +5,8 @@ event_twitter: "DevOpsDaysPHL"
 description: "Devopsdays Philadelphia is celebrating its 5th year!"
 ga_tracking_id: "UA-61551732-3"
 
+cancel: "true"
+
 startdate: 2020-10-20T00:00:00-04:00
 enddate: 2020-10-21T23:59:59-04:00
 
@@ -27,12 +29,12 @@ location: "Science History Institute"
 location_address: "315 Chestnut St, Philadelphia, PA 19106"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+ # - name: propose
   - name: location
-  - name: registration
+ # - name: registration
  # - name: program
-  - name: speakers
-  - name: sponsor
+ # - name: speakers
+ # - name: sponsor
   - name: contact
   - name: conduct
 # - name: example

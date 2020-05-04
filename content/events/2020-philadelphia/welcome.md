@@ -9,6 +9,10 @@ Description = "devopsdays philadelphia 2020"
   {{< event_logo >}}
 </div>
 
+<div class = "row" style="background: #ed0b07; color: #ffffff; padding: 20px; margin: 20px; font-size: 20px">
+<p>UPDATE: Due to COVID-19 we have decided to cancel DevOpDays Philadelphia for 2020. We will be returning in 2021, please stay tuned. For any questions or concerns, please reach out at philadelphia@devopsdays.org</p>
+</div>
+
 <div class = "row">
   <div class = "col-md-2">
     <strong>Dates</strong>
