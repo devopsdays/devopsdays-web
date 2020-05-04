@@ -24,13 +24,13 @@ registration_closed: "" #set this to true if you need to manually close registra
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
-coordinates: "39.9500, -75.1667"
-location: "Science History Institute"
-location_address: "315 Chestnut St, Philadelphia, PA 19106"
+# coordinates: "39.9500, -75.1667"
+# location: "Science History Institute"
+# location_address: "315 Chestnut St, Philadelphia, PA 19106"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
-  - name: location
+ # - name: location
  # - name: registration
  # - name: program
  # - name: speakers
