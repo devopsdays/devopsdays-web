@@ -14,6 +14,10 @@ Guidelines for contributing event-specific content to this repository are outlin
 
 When you're ready to add content, instructions and utilities are available for [managing sponsors, events, speakers, and more](utilities/README.md).
 
+### If you have to cancel your event
+
+In the instance where you might need to cancel an event that is already listed on the website, follow [these instructions](utilities/docs/cancel-event.md) to properly update the site.
+
 ## Site-wide Hugo theme
 
 You may find that you want to improve the site in some way that's not specific to your event. We use a custom Hugo theme, and reference documentation is available in [devopsdays-theme's REFERENCE.md](https://github.com/devopsdays/devopsdays-web/blob/master/themes/devopsdays-theme/REFERENCE.md).

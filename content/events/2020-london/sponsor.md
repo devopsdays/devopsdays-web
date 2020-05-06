@@ -4,9 +4,14 @@ Type = "event"
 Description = "Sponsor devopsdays London 2020"
 +++
 
+<div class="col-md">
+  <div class="alert alert-warning" role="alert">
+    Notice to sponsors regarding novel coronavirus (COVID-19)
+  </div>
+  <p>Please note that paid sponsorship is non-refundable. As this is an unpaid volunteer community-run event, we appreciate your understanding. We use all the collected funds to put on the event, and we are committed to paying all those monies to our venue, food, AV, and other suppliers. You can request to be put on a refund list and if we sell out and can resell your slot we will refund you. In the case of a major event (like the conference being forced to cancel due to COVID-19) we will attempt to recoup costs from our suppliers and may be able to offer full or partial refunds, but that is us doing our reasonable efforts; we are unfortunately unable to commit to it.</p>
+</div>
 
-<p>DevOpsDays London is run as a single track of curated talks in the morning and in the afternoon we host self organized conversations. The self organized content is known as “open spaces”. As a sponsor of DevOpsDays London you are encouraged to participate in the event. We want you to attend the talks and to take part in the open spaces - We want you to get involved!</p>
-
+<div class="col-md">
  <h3>Sponsorship Packages</h3>
  <div class="table-responsive">
  <table class="table table-bordered table-hover table-responsive-md">
@@ -108,13 +113,15 @@ Description = "Sponsor devopsdays London 2020"
    </tbody>
  </table>
 
-<p>Sponsoring DevOpsDays London will expose your brand to practitioners, managers, and executives
-from companies of all sizes and industries including retail, banking, manufacturing, medical technology,
-education, government, and consulting.</p>
+  <p>DevOpsDays London is run as a single track of curated talks in the morning and in the afternoon we host self organized conversations. The self organized content is known as “open spaces”. As a sponsor of DevOpsDays London you are encouraged to participate in the event. We want you to attend the talks and to take part in the open spaces - We want you to get involved!</p>
 
-<p>If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].</p>
+  <p>Sponsoring DevOpsDays London will expose your brand to practitioners, managers, and executives
+  from companies of all sizes and industries including retail, banking, manufacturing, medical technology,
+  education, government, and consulting.</p>
 
-<p>To ensure that your logo is included on our banners during the event we have a deadline for payment of the 24th of August 2020 for your sponsorship</p>
+  <p>If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].</p>
 
-<p>Location: DevOpsDays London will be returning to the QEII Centre in London.</p>
-<hr/>
+  <p>To ensure that your logo is included on our banners during the event we have a deadline for payment of the 24th of August 2020 for your sponsorship</p>
+
+  <p>Location: DevOpsDays London will be returning to the QEII Centre in London.</p>
+</div>
