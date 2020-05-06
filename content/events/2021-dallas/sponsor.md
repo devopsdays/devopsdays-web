@@ -1,16 +1,16 @@
 +++
 title = "Sponsorship"
 type = "event"
-description = "Interested in sponsoring DevOpsDays Dallas 2020? We greatly value sponsors for this open event."
+description = "Interested in sponsoring DevOpsDays Dallas 2021? We greatly value sponsors for this open event."
 
 
 +++
 <div style="float:left;">
-  <img alt="DevOpsDays Dallas 2020" src="/events/2020-dallas/sponsorship.png" style="max-width: 65%;">
+  <img alt="DevOpsDays Dallas 2021" src="/events/2021-dallas/sponsorship.png" style="max-width: 65%;">
 <div class = "row">
 <div class = "col-md-8 col-sm-12">
 <br>
-We greatly value sponsors for this community event. If you are interested in sponsoring, please check out our prospectus below. If you need a soft copy of our prospectus, click here to <a href="https://assets.devopsdays.org/events/2020/dallas/devopsdays_dallas_2020_sponsorships.pdf" target="_blank"><strong>download PDF</strong></a> or <a href="mailto:dallas@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Dallas%202020"><strong>send us an email</strong></a>.
+We greatly value sponsors for this community event. If you are interested in sponsoring, please check out our prospectus below. If you need a soft copy of our prospectus, click here to <a href="https://assets.devopsdays.org/events/2020/dallas/devopsdays_dallas_2020_sponsorships.pdf" target="_blank"><strong>download PDF</strong></a> or <a href="mailto:dallas@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Dallas%202021"><strong>send us an email</strong></a>.
 
 <hr>
 
@@ -20,7 +20,7 @@ Any attendee also has the opportunity to demonstrate products or projects as par
 <br><br>
 The best thing to do is send engineers to interact with the experts at DevOpsDays on their own terms.
 <br><br>
-Please email the organizers at <a href="mailto:dallas@devopsdays.org?subject=General%20Questions%20Regarding%20Sponsorship%20of%20DevOpsDays%20Dallas%202020"><strong>dallas@devopsdays.org</strong></a> with any questions you may have about sponsoring the event.
+Please email the organizers at <a href="mailto:dallas@devopsdays.org?subject=General%20Questions%20Regarding%20Sponsorship%20of%20DevOpsDays%20Dallas%202021"><strong>dallas@devopsdays.org</strong></a> with any questions you may have about sponsoring the event.
 <br><br>
 <h2>Sponsorship Packages</h2>
 
@@ -86,59 +86,59 @@ Please email the organizers at <a href="mailto:dallas@devopsdays.org?subject=Gen
     </tr>
     <tr>
       <td colspan="2">Logo on DevOpsDays Dallas 2020 event website</td>
-      <td><img src = "/events/2020-dallas/boot.png"></td>
-      <td><img src = "/events/2020-dallas/boot.png"></td>
-      <td><img src = "/events/2020-dallas/boot.png"></td>
+      <td><img src = "/events/2021-dallas/boot.png"></td>
+      <td><img src = "/events/2021-dallas/boot.png"></td>
+      <td><img src = "/events/2021-dallas/boot.png"></td>
     </tr>
     <tr>
       <td colspan="2">Social Media recognition on Twitter, LinkedIn, Facebook, amoung others.</td>
-      <td><img src = "/events/2020-dallas/boot.png"></td>
-      <td><img src = "/events/2020-dallas/boot.png"></td>
-      <td><img src = "/events/2020-dallas/boot.png"></td>
+      <td><img src = "/events/2021-dallas/boot.png"></td>
+      <td><img src = "/events/2021-dallas/boot.png"></td>
+      <td><img src = "/events/2021-dallas/boot.png"></td>
     </tr>
     <tr>
       <td colspan="2">Shout-out from MC's at kickoff and again at breaks</td>
-      <td><img src = "/events/2020-dallas/boot.png"></td>
-      <td><img src = "/events/2020-dallas/boot.png"></td>
-      <td><img src = "/events/2020-dallas/boot.png"></td>
+      <td><img src = "/events/2021-dallas/boot.png"></td>
+      <td><img src = "/events/2021-dallas/boot.png"></td>
+      <td><img src = "/events/2021-dallas/boot.png"></td>
     </tr>
       <td colspan="2">Logo on displayed in sponsor area & Social Networking Event</td>
-      <td><img src = "/events/2020-dallas/boot.png"></td>
-      <td><img src = "/events/2020-dallas/boot.png"></td>
-      <td><img src = "/events/2020-dallas/boot.png"></td>
+      <td><img src = "/events/2021-dallas/boot.png"></td>
+      <td><img src = "/events/2021-dallas/boot.png"></td>
+      <td><img src = "/events/2021-dallas/boot.png"></td>
     </tr>
     <tr>
       <td colspan="2">Dedicated table for swag/marketing/staffing</td>
-      <td><img src = "/events/2020-dallas/boot.png"></td>
-      <td><img src = "/events/2020-dallas/boot.png"></td>
-      <td><img src = "/events/2020-dallas/half-boot.png"><br><strong>shared</strong></td>
+      <td><img src = "/events/2021-dallas/boot.png"></td>
+      <td><img src = "/events/2021-dallas/boot.png"></td>
+      <td><img src = "/events/2021-dallas/half-boot.png"><br><strong>shared</strong></td>
     </tr>
     <tr>
       <td colspan="2">Logo on a slide, rotating during breaks</td>
-      <td><img src = "/events/2020-dallas/boot.png"><br><strong>DEDICATED</strong></td>
-      <td><img src = "/events/2020-dallas/half-boot.png"><br><strong>shared</strong></td>
-      <td><img src = "/events/2020-dallas/half-boot.png"><br><strong>shared</strong></td>
+      <td><img src = "/events/2021-dallas/boot.png"><br><strong>DEDICATED</strong></td>
+      <td><img src = "/events/2021-dallas/half-boot.png"><br><strong>shared</strong></td>
+      <td><img src = "/events/2021-dallas/half-boot.png"><br><strong>shared</strong></td>
     </tr>
       <td colspan="2">Pitch to full audience, including streaming audience <br>(provided we are able to stream the videos)</td>
-      <td><strong><img src = "/events/2020-dallas/half-boot.png"><strong><br>1-minute</strong></td>
-      <td><img src = "/events/2020-dallas/half-boot.png"><strong><br>1-minute</strong></td>
+      <td><strong><img src = "/events/2021-dallas/half-boot.png"><strong><br>1-minute</strong></td>
+      <td><img src = "/events/2021-dallas/half-boot.png"><strong><br>1-minute</strong></td>
       <td></td>
     </tr>
     <tr>
       <td colspan="2">20% Discount code provided to share with your client community</td>
-      <td><strong><img src = "/events/2020-dallas/half-boot.png"><strong><br>(10) tickets</strong></td>
-      <td><img src = "/events/2020-dallas/half-boot.png"><strong><br>(10) tickets</strong></td>
-      <td><img src = "/events/2020-dallas/half-boot.png"><strong><br>(10) tickets</strong></td>
+      <td><strong><img src = "/events/2021-dallas/half-boot.png"><strong><br>(10) tickets</strong></td>
+      <td><img src = "/events/2021-dallas/half-boot.png"><strong><br>(10) tickets</strong></td>
+      <td><img src = "/events/2021-dallas/half-boot.png"><strong><br>(10) tickets</strong></td>
     </tr>
     <tr>
       <td colspan="2">Logo on participant emails</td>
-      <td><img src = "/events/2020-dallas/boot.png"></td>
+      <td><img src = "/events/2021-dallas/boot.png"></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td colspan="2">Dedicated demo room for customer presentations, workshops, etc.</td>
-      <td><img src = "/events/2020-dallas/boot.png"></td>
+      <td><img src = "/events/2021-dallas/boot.png"></td>
       <td></td>
       <td></td>
     </tr>
@@ -147,7 +147,7 @@ Please email the organizers at <a href="mailto:dallas@devopsdays.org?subject=Gen
 <br/>
 <h2>Media / Community Sponsorships</h2>
 
-All Media / Community sponsors are entities we value as pillars of continuous learning in our community. If you would like to discuss these sponsorships with us, just ask! Email us at: <a href="mailto:dallas@devopsdays.org?subject=General%20Questions%20Regarding%20Sponsorship%20of%20DevOpsDays%20Dallas%202020">dallas@devopsdays.org</a>.
+All Media / Community sponsors are entities we value as pillars of continuous learning in our community. If you would like to discuss these sponsorships with us, just ask! Email us at: <a href="mailto:dallas@devopsdays.org?subject=General%20Questions%20Regarding%20Sponsorship%20of%20DevOpsDays%20Dallas%202021">dallas@devopsdays.org</a>.
 <br>
 <table class="table table-bordered table-hover">
   <thead>
@@ -169,19 +169,19 @@ All Media / Community sponsors are entities we value as pillars of continuous le
             <li><i class="fa-li fa fa-check-square"></i>One (1) ticket included.</li>
             <li><i class="fa-li fa fa-check-square"></i>10% discount code for ten (10) tickets to share with your audience.</li>
             <li><i class="fa-li fa fa-check-square"></i>Logo on a shared slide, rotating during breaks.</li>
-            <li><i class="fa-li fa fa-check-square"></i>Logo on the DevOpsDays Dallas 2020 event website.</li>
+            <li><i class="fa-li fa fa-check-square"></i>Logo on the DevOpsDays Dallas 2021 event website.</li>
       <td>3</td>
     </tr>
     <tr>
       <td align="center"><i class="fa fa-handshake-o fa-4x"></td>
       <td>Community</td>
       <td>$0.00</td>
-      <td>The community sponsorship is ideal for local meetups, co-working spaces, and other non-commercial communities who support DevOps. This sponsorship is free, but we ask that you share information about DevOpsDays Dallas 2020 with your members in order to become a Community Sponsor.
+      <td>The community sponsorship is ideal for local meetups, co-working spaces, and other non-commercial communities who support DevOps. This sponsorship is free, but we ask that you share information about DevOpsDays Dallas 2021 with your members in order to become a Community Sponsor.
           <ul class="fa-ul">
             <li><i class="fa-li fa fa-check-square"></i>One (1) ticket included.</li>
             <li><i class="fa-li fa fa-check-square"></i>10% discount code for ten (10) tickets to share with your audience.</li>
             <li><i class="fa-li fa fa-check-square"></i>Logo on a shared slide, rotating during breaks.</li>
-            <li><i class="fa-li fa fa-check-square"></i>Logo on the DevOpsDays Dallas 2020 event website.</li>
+            <li><i class="fa-li fa fa-check-square"></i>Logo on the DevOpsDays Dallas 2021 event website.</li>
       <td>10</td>
     </tr>
   </tbody>
@@ -212,20 +212,20 @@ All Media / Community sponsors are entities we value as pillars of continuous le
             <li><i class="fa-li fa fa-check-square"></i>One sponsorship available for each day of the conference.</li>
             <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on a shared slide, rotating during breaks.</li>
             <li><i class="fa-li fa fa-check-square"></i>Logo and branding recognizing the sponsorship of the Happy Hour.</li>
-            <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on the DevOpsDays Dallas 2020 event website.</li>
+            <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on the DevOpsDays Dallas 2021 event website.</li>
             <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on all email communication.</li>
             <li><i class="fa-li fa fa-check-square"></i>All beverages to be served are included in the price.</li></td>
       <td>2</td>
     </tr>
     <tr>
-      <td align="center"><img src = "/events/2020-dallas/fa-backpack.png"></td>
+      <td align="center"><img src = "/events/2021-dallas/fa-backpack.png"></td>
       <td>Backpack</td>
       <td>$6,000</td>
       <td>
           <ul class="fa-ul">
             <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on a shared slide, rotating during breaks.</li>
             <li><i class="fa-li fa fa-check-square"></i>Logo and branding will be placed on the conference backpacks that are provided to all attendees.</li>
-            <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on the DevOpsDays Dallas 2020 event website.</li>
+            <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on the DevOpsDays Dallas 2021 event website.</li>
             <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on all email communication.</li>
             <li><i class="fa-li fa fa-check-square"></i>The purchase of backpacks is included in the price.</li></td>
       <td>1</td>
@@ -239,7 +239,7 @@ All Media / Community sponsors are entities we value as pillars of continuous le
             <li><i class="fa-li fa fa-check-square"></i>One sponsorship available for each day of the conference.</li>
             <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on a shared slide, rotating during breaks.</li>
             <li><i class="fa-li fa fa-check-square"></i>Logo and branding recognizing the sponsorship of the Happy Hour.</li>
-            <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on the DevOpsDays Dallas 2020 event website.</li>
+            <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on the DevOpsDays Dallas 2021 event website.</li>
             <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on all email communication.</li>
             <li><i class="fa-li fa fa-check-square"></i>All beverages to be served are included in the price.</li></td>
       <td>2</td>
@@ -252,7 +252,7 @@ All Media / Community sponsors are entities we value as pillars of continuous le
           <ul class="fa-ul">
             <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on a shared slide, rotating during breaks.</li>
             <li><i class="fa-li fa fa-check-square"></i>Logo and branding will be placed on the conference backpacks that are provided to all attendees.</li>
-            <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on the DevOpsDays Dallas 2020 event website.</li>
+            <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on the DevOpsDays Dallas 2021 event website.</li>
             <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on all email communication.</li>
             <li><i class="fa-li fa fa-check-square"></i>The purchase of lanyards is included in the price.</li></td>      <td>1</td>
     </tr>
@@ -264,7 +264,7 @@ All Media / Community sponsors are entities we value as pillars of continuous le
           <ul class="fa-ul">
             <li><i class="fa-li fa fa-check-square"></i>One sponsorship available for each charging station deployed throughout the venue.</li>
             <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on a shared slide, rotating during breaks. Also on the kiosk screen.</li>
-            <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on the DevOpsDays Dallas 2020 event website.</li>
+            <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on the DevOpsDays Dallas 2021 event website.</li>
             <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on all email communication.</li>
             <li><i class="fa-li fa fa-check-square"></i>Secure Charging Kiosk with Lockers (8 bays Locker Power) is provided and included in the price.</li></td>
       <td>5</td>
@@ -303,11 +303,11 @@ We are excited to have you sponsor our event. We also understand that there are 
  <li><i class="fa-li fa fa-check-square"></i>No refunds are available for À La Carte sponsorships.</li>
  <br>
 <h4>All other sponsorship levels</h4>
- <li><i class="fa-li fa fa-check-square"></i>Before June 1, 2020 - 80% refund is available.</li>
- <li><i class="fa-li fa fa-check-square"></i>Between June 2 and July 31, 2020 - 75% refund is available.</li>
- <li><i class="fa-li fa fa-check-square"></i>After August 1, 2020 - No refund is available.</li>
+ <li><i class="fa-li fa fa-check-square"></i>Before June 1, 2021 - 80% refund is available.</li>
+ <li><i class="fa-li fa fa-check-square"></i>Between June 2 and July 31, 2021 - 75% refund is available.</li>
+ <li><i class="fa-li fa fa-check-square"></i>After August 1, 2021 - No refund is available.</li>
 <br>
-Please email the organizers at <a href="mailto:dallas@devopsdays.org?subject=General%20Questions%20Regarding%20Sponsorship%20of%20DevOpsDays%20Dallas%202020">dallas@devopsdays.org</a> with any questions you may have about sponsoring the event or requesting a refund.
+Please email the organizers at <a href="mailto:dallas@devopsdays.org?subject=General%20Questions%20Regarding%20Sponsorship%20of%20DevOpsDays%20Dallas%202021">dallas@devopsdays.org</a> with any questions you may have about sponsoring the event or requesting a refund.
 <br><br>
 Sponsors are responsible for providing high-res logos for use on the website and in promotional materials.  The preferred file formats are EPS or AI.
 <br><br>
