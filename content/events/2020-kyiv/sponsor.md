@@ -8,11 +8,22 @@ We greatly value sponsors for this open event.  If you are interested in sponsor
 
 <hr>
 
-devopsdays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
-<p>
-Gold sponsors get a full table and Silver sponsors a shared table where they can interact with those interested to come visit during breaks. All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
-<p>
-The best thing to do is send engineers to interact with the experts at devopsdays on their own terms.
+This May we are planning to make DevOps Days From Home (https://devopsdays.com.ua/fromhome). We will have three days (14-16th of May) of online talks and discussions on DevOps Tech & Culture with industry leaders.  
+
+DevOps Days — is a community event that focuses on DevOps Culture. It's a conference covering topics of software development, IT infrastructure operations, and the intersection between them.
+
+What we can offer:
+
+* Brand placement in front of the DevOps community. We are expecting 1000 participants
+* Logo on our homepage – 1:1 square aspect ratio – jpg, ai, png, eps, or svg
+* “This event is sponsored by CompanyX" overplayed in the videos between talks
+* Text chat room placement.... Your message appears every 60 mins... click here to learn more about CompanyX”
+* Placements in the chat window of the website below the video. Please send us a web-based visual ad in png or jpg format.)
+* Receive a thank you callout by the MCs
+
+Price for the package: $5.000 
+
+Drop us an e-mail, if you are interested: {{< email_organizers >}}
 <p>
 
 <!--
