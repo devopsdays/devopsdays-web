@@ -123,9 +123,9 @@ sponsors:
     level: gold
   - id: redhat
     level: silver
-  - id: hashicorp
-    level: gold
   - id: xmatters
+    level: gold
+  - id: hashicorp
     level: gold
 
 
