@@ -63,9 +63,9 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   #- name: Patrocinio
   #  icon: "money"
   #  url: /events/2020-joao-pessoa/patrocinio
-    - name: Contato
-      icon: "envelope-o"
-      url: /events/2020-joao-pessoa/contato
+  #  - name: Contato
+  #    icon: "envelope-o"
+  #	    url: /events/2020-joao-pessoa/contato
   #
 
 # These are the same people you have on the mailing list and Slack channel.
@@ -107,7 +107,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #    image: "Diego.jpg"
 #
 #
-#organizer_email: "joao-pessoa@devopsdays.org" # Put your organizer email address here
+organizer_email: "joao-pessoa@devopsdays.org" # Put your organizer email address here
 
 
 # List all of your sponsors here along with what level of sponsorship they have.
