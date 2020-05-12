@@ -59,9 +59,6 @@ team_members: # Name is the only required field for team members.
   - name: "Miranda Fullerton"
     employer: "openly"
   - name: "Allison Green"
-  - name: "Blair Hicks"
-    employer: Cisco
-    twitter: tuxdbird
   - name: "Aimme Keener"
     employer: Autonomic
     twitter: AimmeKeener
