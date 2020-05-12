@@ -50,7 +50,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Dave Barnett"
-    employer: ITHAKA
+    employer: "Kahn Academy"
   - name: "Archie Cowan"
     employer: ITHAKA
     twitter: archiecowan
@@ -58,6 +58,8 @@ team_members: # Name is the only required field for team members.
     employer: "cronicle.press"
   - name: "Miranda Fullerton"
     employer: "openly"
+  - name: "Hugo Gayosso"
+    employer: "Ford"
   - name: "Allison Green"
   - name: "Aimme Keener"
     employer: Autonomic
@@ -68,8 +70,6 @@ team_members: # Name is the only required field for team members.
   - name: "Rex Roof"
     employer: "Blue Newt Software"
     twitter: rexroof
-  - name: "Hugo Gayosso"
-    employer: "Ford"
 organizer_email: "detroit@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
