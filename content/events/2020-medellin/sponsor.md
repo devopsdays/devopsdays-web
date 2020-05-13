@@ -4,7 +4,7 @@ Type = "event"
 Description = "Sponsor devopsdays Medellin 2020"
 +++
 <div class="container-fluid">
-  <div class="row justify-content-start"                 >
+  <div class="row justify-content-start">
     <div class="col-md-9">
       <div>
       <br>
@@ -82,25 +82,77 @@ Description = "Sponsor devopsdays Medellin 2020"
             </td>
           </tr>
           <tr>
-            <th scope="row">Logo on the template</th>
+            <th scope="row">Shared table outside conference rooms</th>
+            <td></td>
+            <td></td>
+			<td>
+			  <center>Yes</center>
+			</td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <th scope="row">Dedicated table outside conference rooms</th>
+           <td></td> 
+           <td></td>
+			<td></td>
+            <td>
+              <center>Yes</center>
+            </td>
+            <td>
+              <center>Yes</center>
+            </td>
+            <td>
+              <center>Yes</center>
+            </td>
+          </tr>
+          <tr>
+            <th scope="row">Choice of table location</th>
             <td></td>
             <td></td>
 			<td></td>
+            <td></td>
+            <td>
+              <center>Yes</center>
+            </td>
+            <td>
+              <center>Yes</center>
+            </td>
+          </tr>		  
+          <tr>
+            <th scope="row">Logo on shared slide in published slides</th>
+            <td></td>
+            <td>
+			  <center>Small</center>
+			</td>
+            <td>
+			  <center>Small</center>
+			</td>
 			<td>
 			  <center>Medium</center>
+			</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <th scope="row">Logo on dedicated slide in published slides</th>
+            <td></td>
+            <td></td>
+            <td></td>
+			<td></td>
+            <td>
+			  <center>Large</center>
 			</td>
             <td>
 			  <center>Large</center>
 			</td>
-			<td>
-			  <center>Large</center>
-			</td>
           </tr>
           <tr>
-            <th scope="row">5-minute pitch full audience</th>
-           <td></td> 
-           <td></td>
+            <th scope="row">5-minute pitch to full audience</th>
+            <td></td>
 			<td></td>
+            <td></td>
             <td></td>
             <td>
               <center>Yes</center>
@@ -112,86 +164,16 @@ Description = "Sponsor devopsdays Medellin 2020"
           <tr>
             <th scope="row">2-minute pitch to full audience</th>
             <td></td>
-            <td></td>
-			<td></td>
-            <td>
-              <center>Yes</center>
-            </td>
-            <td></td>
-            <td></td>
-          </tr>		  
-          <tr>
-            <th scope="row">Logo on event website</th>
-            <td>
-              <center>Yes</center>
-            </td>
-            <td>
-              <center>Yes</center>
-            </td>
-            <td>
-              <center>Yes</center>
-            </td>
-			<td>
-              <center>Yes</center>
-            </td>
-            <td>
-              <center>Yes</center>
-            </td>
-            <td>
-              <center>Yes</center>
-            </td>
-          </tr>
-          <tr>
-            <th scope="row">Logo/Video Rotating on Breaks</th>
-            <td></td>
-            <td>
-			  <center>Small</center>
-			</td>
-            <td>
-			  <center>Small</center>
-			</td>
-            <td>
-			  <center>Large</center>
-			</td>
-            <td>
-			  <center>Large</center>
-			</td>
-            <td>
-			  <center>Large</center>
-			</td>
-          </tr>
-          <tr>
-            <th scope="row">Promotion on the event's social networks</th>
-            <td></td>
 			<td></td>
             <td></td>
             <td>
               <center>Yes</center>
             </td>
-            <td>
-              <center>Yes</center>
-            </td>
-            <td>
-              <center>Yes</center>
-            </td>
+            <td></td>
+            <td></td>
           </tr>
           <tr>
-            <th scope="row">Promotion on the event's social networks</th>
-            <td></td>
-			<td></td>
-            <td></td>
-            <td>
-              <center>Yes</center>
-            </td>
-            <td>
-              <center>Yes</center>
-            </td>
-            <td>
-              <center>Yes</center>
-            </td>
-          </tr>
-          <tr>
-            <th scope="row">Possibility to provide giveaways directly</th>
+            <th scope="row">Logo on event website and conference room</th>
             <td>
               <center>Yes</center>
             </td>
@@ -212,9 +194,7 @@ Description = "Sponsor devopsdays Medellin 2020"
             </td>
           </tr>
           <tr>
-            <th scope="row">Logo on Thank you Notes on social media</th>
-            <td></td>
-            <td></td>
+            <th scope="row">Logo on shared slide, rotating during breaks</th>
             <td></td>
             <td>
               <center>Small</center>
@@ -222,40 +202,12 @@ Description = "Sponsor devopsdays Medellin 2020"
             <td>
               <center>Medium</center>
             </td>
-            <td>
-              <center>Large</center>
-            </td>
+            <td></td>
+            <td></td>
+            <td></td>
           </tr>
           <tr>
-            <th scope="row">Logo on opening and closing of the event</th>
-            <td></td>
-			<td></td>
-            <td></td>
-            <td></td>
-            <td>
-              <center>Yes</center>
-            </td>
-            <td>
-              <center>Yes</center>
-            </td>
-          </tr>
-          <tr>
-            <th scope="row">20% discount code to share with your customer community</th>
-            <td></td>
-			<td></td>
-            <td></td>
-            <td>
-              <center>10 Tickets</center>
-            </td>
-            <td>
-              <center>10 Tickets</center>
-            </td>
-            <td>
-              <center>20 Tickets</center>
-            </td>
-          </tr>
-          <tr>
-            <th scope="row">Access to Keynotes SPeakers private Event</th>
+            <th scope="row">Logo on its own slide or promo video, rotating during breaks</th>
             <td></td>
 			<td></td>
             <td></td>
@@ -270,10 +222,50 @@ Description = "Sponsor devopsdays Medellin 2020"
             </td>
           </tr>
           <tr>
-            <th scope="row">Break out room exclusive for Sponsor’s Networking Events</th>
+            <th scope="row">Logo on the badge</th>
             <td></td>
 			<td></td>
             <td></td>
+            <td></td>
+            <td>
+              <center>Yes</center>
+            </td>
+            <td>
+              <center>Yes</center>
+            </td>
+          </tr>
+          <tr>
+            <th scope="row">Promotion on event's social networks</th>
+            <td>
+              <center>Yes</center>
+            </td>
+            <td>
+              <center>Yes</center>
+            </td>
+            <td>
+              <center>Yes</center>
+            </td>
+            <td>
+              <center>Yes</center>
+            </td>
+            <td>
+              <center>Yes</center>
+            </td>
+            <td>
+              <center>Yes</center>
+            </td>
+          </tr>
+          <tr>
+            <th scope="row">Possibility to provide prize to conference atendees</th>
+            <td>
+              <center>Yes</center>
+            </td>
+            <td>
+              <center>Yes</center>
+            </td>
+            <td>
+              <center>Yes</center>
+            </td>
             <td>
               <center>Yes</center>
             </td>
@@ -300,13 +292,11 @@ Description = "Sponsor devopsdays Medellin 2020"
 			</td>
           </tr>
 		  <tr>
-            <th scope="row">Invitation Video to Sponsor’s Breakout rooms</th>
+            <th scope="row">Logo on the presentation slides of the opening and closing event</th>
             <td></td>
 			<td></td>
             <td></td>
-            <td>
-              <center>Yes</center>
-            </td>
+            <td></td>
             <td>
               <center>Yes</center>
             </td>
@@ -315,40 +305,46 @@ Description = "Sponsor devopsdays Medellin 2020"
             </td>
           </tr>
 		  <tr>
-            <th scope="row">Call to Action on different talks</th>
-            <td></td>
+            <th scope="row">20% discount code to share with your customer community</th>
 			<td></td>
             <td></td>
+            <td></td>
             <td>
-              <center>Yes</center>
+              <center>10 Tickets</center>
+            </td> 
+           <td>
+              <center>10 Tickets</center>
             </td>
             <td>
-              <center>Yes</center>
-            </td>
-            <td>
-              <center>Yes</center>
+              <center>20 Tickets</center>
             </td>
           </tr>
 		  <tr>
-            <th scope="row">Extra VIP Tickets for Keynote Events</th>
+            <th scope="row">Access to Dinner with speakers (if it happens)</th>
 			<td></td>
 			<td></td>
             <td></td>
             <td>
-              <center>8</center>
+              <center>Yes</center>
             </td>
             <td>
-              <center>10</center>
+              <center>Yes</center>
             </td>
             <td>
-              <center>14</center>
+              <center>Yes</center>
             </td>
           </tr>	
 		  <tr>
-            <th scope="row">Dedicated Slack Channel ot interact with attendees</th>
-			<td></td>
-			<td></td>
-            <td></td>
+            <th scope="row">Other opportunities available upon request</th>
+            <td>
+              <center>Yes</center>
+            </td>
+            <td>
+              <center>Yes</center>
+            </td>
+            <td>
+              <center>Yes</center>
+            </td>
             <td>
               <center>Yes</center>
             </td>
