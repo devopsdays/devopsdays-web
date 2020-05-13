@@ -9,7 +9,7 @@ Description = "Propose a talk for devopsdays Chicago 2020"
 
 <a href = "https://www.papercall.io/devopsdays-chicago-2020"><img src = "/events/2020-chicago/papercall-button.png" class = "img-fluid"></a>
 
-There are four ways to propose a topic at devopsdays:
+There are two ways to propose a topic at devopsdays:
 <ol>
   <li><strong><em>A 20-minute talk</em></strong> presented to the entire conference audience</li>
   <li><strong><em>An Ignite talk</em></strong> presented during the <a href="/pages/ignite-talks-format">Ignite sessions</a> (scheduling varies). These are 5 minutes talks with slides auto-advancing every 15 seconds (20 slides total).</li>
