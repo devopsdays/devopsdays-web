@@ -28,7 +28,7 @@ cfp_date_announce: # inform proposers of status
 #
 coordinates: # "55.710214,37.721367" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Moscow"
-location_address: "Comming soon!"
+location_address: "Coming soon!"
 # location_address: "Technopolis Moscow, Volgogradsky pr., 42, building 13"
 
 nav_elements:
