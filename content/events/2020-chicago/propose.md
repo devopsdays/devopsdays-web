@@ -11,13 +11,19 @@ Description = "Propose a talk for devopsdays Chicago 2020"
 
 There are four ways to propose a topic at devopsdays:
 <ol>
-  <li><strong><em>A 30-minute talk</em></strong> presented to the entire conference audience, usually in the mornings.</li>
+  <li><strong><em>A 20-minute talk</em></strong> presented to the entire conference audience</li>
   <li><strong><em>An Ignite talk</em></strong> presented during the <a href="/pages/ignite-talks-format">Ignite sessions</a> (scheduling varies). These are 5 minutes talks with slides auto-advancing every 15 seconds (20 slides total).</li>
-   <li><strong><em>A Workshop</em></strong> presented during the conference, usually in the afternoon. These are 45 minutes long.</li>
-  <li><strong><em>Open Space</em></strong>: If you'd like to lead a group discussion during the attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout sessions, it is not necessary to propose it ahead of time. Those topics are suggested in person at the conference. If you'd like to demo your product or service, you should <a href="https://devopsdays.org/events/2020-chicago/sponsor">sponsor the event</a> and demo it at your table.
 </ol>
 
 <hr>
+
+### Virtual Event Details
+
+This event will be taking place virtually! Here are a few things to keep in mind as you consider proposing:
+
+- We see our speakers as conference participants whose engagement goes beyond delivering a talk. We expect the speakers to attend talks and participate in the day-of activities during the event. We are also working on providing ways for speakers to engage with each other during the event.
+- We are looking into multiple ways of producing the event. If your talk is selected, we will communicate the format details as they become available
+- While we may have some remote speakers, we remain a local event, and we are interested in speakers sharing the challenges and successes being experienced in our local area.
 
 ### General Guidelines:
 
@@ -31,6 +37,7 @@ There are four ways to propose a topic at devopsdays:
 - Proposals must be submitted via [our CFP site](https://www.papercall.io/devopsdays-chicago-2020). If you have questions about our CFP process, please email: [{{< email_proposals >}}]
 
 ### Ideas:
+
 This is what we would like to know. Do you have an answer?
 
 - The DevOps movement has been around for over ten years now: Has it really helped your organization? Are there numbers for this?
@@ -68,7 +75,7 @@ Our main criteria to make it to the top selection are:
 - **Under-represented voices:** We want to hear all voices, including those that may speak less frequently at similar events. Whether you’re in a field not typically thought of as a technology field, you’re in a large, traditional organization, or you’re the only person at your organization with your background, we are interested in your unique experience.
 - **original content:** We will consider talks that have already been presented elsewhere, but we prefer talks that the local area isn’t likely to have already seen.
 - **No third-party submissions:** This is a small community-driven event, and speakers need to be directly engaged with the organizers and attendees. If a PR firm or your marketing department is proposing the talk, you’ve already shown that as a speaker you’re distant from the process.
-- **No vendor pitches:** As much as we value vendors and sponsors, we are not going to accept a talk that appears to be a pitch for your product. If you’d like to demo your product or service, you should <a href="https://devopsdays.org/events/2020-chicago/sponsor">sponsor the event</a> and demo it at your table.
+- **No vendor pitches:** As much as we value vendors and sponsors, we are not going to accept a talk that appears to be a pitch for your product. 
 - **Open Space Fodder:** Will this talk help generate discussion during the Open Spaces?
 
 #### Even more tips
