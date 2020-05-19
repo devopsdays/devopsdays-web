@@ -1,14 +1,14 @@
-name: "2020-nashville" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
-year: "2020" # The year of the event. Make sure it is in quotes.
+name: "2021-nashville" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2021" # The year of the event. Make sure it is in quotes.
 city: "Nashville" # The displayed city name of the event. Capitalize it.
 event_twitter: "nashvilledevops" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "DevOpsDays is coming back to Nashville in Fall 2020!" # Edit this to suit your preferences
+description: "DevOpsDays is coming back to Nashville in Fall 2021!" # Edit this to suit your preferences
 ga_tracking_id: "UA-136135566-2" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
-# All dates are in unquoted 2020-MM-DDTHH:MM:SS+TZ:TZ, like this:
+# All dates are in unquoted 2021-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00
 #   variable: 2019-01-05T23:59:59+02:00
-# Note: we allow 2020-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+# Note: we allow 2021-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
 startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
 enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
@@ -50,7 +50,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Don Bauer"
-    image: "place-holder.jpg"
+    image: "don-bauer.jpg"
     employer: "Citizens Bank"
     github: "lordgnu"
     twitter: "devopsdon"
@@ -60,6 +60,7 @@ team_members: # Name is the only required field for team members.
     twitter: "notsureifkevin"
   - name: "Jason Wyckoff"
     image: "jason-wyckoff.jpg"
+    bio: "Jason is a 20+ year technology veteran, primarily in the application-development-side in IT. His consulting and diverse industry resume helps Jason to apply patterns and solutions in unconventional ways. Though spending many of his years in the Microsoft ecosystem, he is not dogmatic in his approach --  it's all about the right solution for the problem. He is currently the Senior National Director, IT Products & Engineering at NFIB in Nashville -- building software to help small business thrive and grow."
     website: "https://www.wyckoff.io"
     github: "jwyckoff"
     twitter: "jasonwyckoff"
