@@ -5,6 +5,7 @@ aliases = ["/events/2021-nashville/"]
 Description = "DevOpsDays Nashville 2021"
 +++
 
+<!-- this logo tag (< event_logo >) using logo.png as part of the Hugo theme -->
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
 </div> -->
