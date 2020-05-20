@@ -62,7 +62,7 @@ Description = "DevOpsDays Nashville 2021"
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
 </div> -->
-
+<!-- 
 <div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>
@@ -70,16 +70,30 @@ Description = "DevOpsDays Nashville 2021"
   <div class = "col-md-8">
     {{< event_link page="sponsor" text="Sponsor the conference!" >}}
   </div>
-</div>
+</div> -->
 
 <div class = "row">
-  <div class = "col-md-2">
-    <strong>Contact</strong>
+  <div class = "col-md-10">
+  
+  <div class = "row">
+    <div class = "col-md-2">
+      <strong>Contact</strong>
+    </div>
+    <div class = "col-md-8">
+      {{< event_link page="contact" text="Get in touch with the organizers" >}}
+    </div>
+
   </div>
-  <div class = "col-md-8">
-    {{< event_link page="contact" text="Get in touch with the organizers" >}}
+
+
+  </div>
+  <div class = "col-md-8" >
+    <img class = "img-right" src="/events/2021-nashville/DevOpsDays-Nashville-logo.200x200.png" />
+
   </div>
 </div>
+
+
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
