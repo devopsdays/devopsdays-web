@@ -3,21 +3,23 @@ year: "2020" # The year of the event. Make sure it is in quotes.
 city: "Indianapolis" # The displayed city name of the event. Capitalize it.
 event_twitter: "DevOpsDaysINDY" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 status: "current"
-description: "DevOpsDays is coming back to Indy!" # Edit this to suit your preferences
+description: "2020 is cancelled. Hope to see you next year." # Edit this to suit your preferences
 ga_tracking_id: "UA-109430778-1" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+cancel: "true"
 
 # All dates are in unquoted 2020-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2020-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: 2020-09-14T00:00:00-04:00
-enddate: 2020-09-15T23:59:59-04:00
+startdate:
+enddate:
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2020-03-16T21:00:00-05:00 # start accepting talk proposals.
-cfp_date_end: 2020-06-12T23:59:59-05:00 # close your call for proposals.
-cfp_date_announce: 2020-07-02T21:00:00-05:00 # inform proposers of status
+cfp_date_start:
+cfp_date_end:
+cfp_date_announce:
 
 cfp_link: "https://www.papercall.io/devopsdaysindy2020" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
@@ -29,22 +31,22 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 # Location
 #
-coordinates: "39.783348, -86.149046" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Indiana Landmarks" # Defaults to city, but you can make it the venue name.
+coordinates:
+location:
 #
-location_address: "1201 Central Ave, Indianapolis, IN 46202" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address:
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
-  - name: location
+#  - name: propose
+#  - name: location
  # - name: registration
  # - name: program
  # - name: speakers
-  - name: sponsor
+#  - name: sponsor
   - name: contact
   - name: conduct
-  - name: slack
-    url: 'https://devopsdaysindy.slack.com/'
+#  - name: slack
+#    url: 'https://devopsdaysindy.slack.com/'
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -103,7 +105,7 @@ sponsors:
   - id: arresteddevops
     level: community
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For

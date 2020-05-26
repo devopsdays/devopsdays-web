@@ -11,7 +11,7 @@ ga_tracking_id: "UA-74738648-1" # If you have your own Google Analytics tracking
 # Note: we allow 2020-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
 startdate: 2020-09-01T00:08:00-06:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2020-09-02T00:17:00-06:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2020-09-01T00:17:00-06:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  2020-02-07T00:07:00-06:00 # start accepting talk proposals.
@@ -33,14 +33,13 @@ sharing_image: "sharing.png"
 # Location
 #
 coordinates: "41.866943,-87.646142" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "UIC Forum" # Defaults to city, but you can make it the venue name.
+location: "Online" # Defaults to city, but you can make it the venue name.
 #
-location_address: "725 West Roosevelt Road, Chicago, Illinois 60608" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
-  - name: location
+ # - name: location
  # - name: registration
  # - name: program
  # - name: speakers

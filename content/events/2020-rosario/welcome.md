@@ -1,7 +1,12 @@
 +++
 Title = "devopsdays Rosario 2020"
 Type = "welcome"
-aliases = ["/events/2020-rosario/"]
+aliases = ["/events/2020-rosario/", 
+            "/events/2020-rosario/location", 
+            "/events/2020-rosario/propose", 
+            "/events/2020-rosario/registration", 
+            "/events/2020-rosario/sponsor"
+]
 Description = "devopsdays Rosario 2020"
 +++
 
