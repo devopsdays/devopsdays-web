@@ -2,7 +2,7 @@
 Title = "devopsdays Chicago 2020"
 Type = "welcome"
 aliases = ["/events/2020-chicago/"]
-Description = "DevOpsDays Chicago is coming back in 2020! The group that brought you DevOpsDays Chicago 2014-2019 is back together and planning the 2020 event.  We're encouraged by the feedback from previous year's events and are determined to bring an improved experience and continue the DevOps conversation for 2020 in Chicago."
+Description = "DevOpsDays Chicago will be a single-day virtual experience, taking place on Sept 1, 2020."
 +++
 
 <div class = "row">
