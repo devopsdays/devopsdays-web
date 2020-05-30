@@ -2,7 +2,7 @@ name: "2020-buffalo" # The name of the event. Four digit year with the city name
 year: "2020" # The year of the event. Make sure it is in quotes.
 city: "Buffalo" # The displayed city name of the event. Capitalize it.
 event_twitter: "DevOpsDaysBUF" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "Devopsdays is coming to Buffalo!" # Edit this to suit your preferences
+description: "DevOpsDays Buffalo is back, and this time, IT'S VIRTUAL!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2020-MM-DDTHH:MM:SS+TZ:TZ, like this:
@@ -28,10 +28,10 @@ registration_link: "https://ti.to/devops-days-buffalo/2020" # If you have a cust
 
 # Location
 #
-coordinates: "42.9294872,-78.8844411" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Hotel Henry" # Defaults to city, but you can make it the venue name.
-#
-location_address: "444 Forrest Avenue, BUFFALO, NY, 14213" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location: "Online"
+#coordinates: "42.9294872,-78.8844411" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+#location: "Hotel Henry" # Defaults to city, but you can make it the venue name.
+#location_address: "444 Forrest Avenue, BUFFALO, NY, 14213" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
