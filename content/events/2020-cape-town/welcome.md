@@ -1,14 +1,22 @@
 +++
 Title = "DevOpsDays Cape Town 2020"
 Type = "welcome"
-aliases = ["/events/2020-cape-town/"]
-Description = "DevOpsDays Cape Town 2020 will take place September 17-18, 2020!"
+aliases = [
+    "/events/2020-cape-town/",
+    "/events/2020-cape-town/location/",
+    "/events/2020-cape-town/registration/",
+    "/events/2020-cape-town/sponsor/",
+    "/events/2020-cape-town/propose/",
+]
+Description = "While our 2020 event will no longer happen, we will return in 2021."
 +++
 
 <div class="row">
-  <div class="alert alert-warning" role="alert">
+  <div class="col-md-12 alert-warning" role="alert">
+    <center>
     <h4>COVID-19 Update</h4>
-    <p>Due to the current situation with the worldwide outbreak of COVID-19, we are currently evaluating whether DevOpsDays Cape Town 2020 should go ahead as planned. Along with the rest of the world, we have been closely watching the latest developments and a decision is likely to be made in the coming weeks. Should any changes be made to the event, including potential cancellation or postponement, we will notify everyone on our mailing list and via all our communication channels, including this page. Please check back again for further updates.</p>
+    <p>Due to the current situation with the worldwide outbreak of COVID-19, we decided to not run our 2020 event. We do plan on being back in 2021. Please join our mailing list below, or follow us on Twitter for updates.
+    </center>
   </div>
 </div>
 <div class="row">
@@ -16,8 +24,6 @@ Description = "DevOpsDays Cape Town 2020 will take place September 17-18, 2020!"
     As a community-run event, DevOpsDays Cape Town strives to build awareness and spread lean, collaborative practises to organisations and individuals.
     <br><br>
     Cape Town has a thriving technology sector, respected globally, and bringing this international event here helps bridge local specialists with their global counterparts and broaden the community.
-    <br><br>
-    We expect 200-300 people this year and will be holding the event on September 17-18, 2020 at the <a href="/events/2020-cape-town/location">Hilton Doubletree</a> in Woodstock, Cape Town.
     <br><br>
     The format of DevOpsDays Cape Town includes a single track of 45 minute talks in the morning of each event, followed by shorter talks (5-15 minutes). We spend the rest of the afternoon in Open Spaces, which are considered a key portion of the event.
     <div class = "row"><!-- begin a content element -->
@@ -44,22 +50,6 @@ Description = "DevOpsDays Cape Town 2020 will take place September 17-18, 2020!"
 
   </div>
   <div class = "col-md-6 order-md-1">
-     <div class = "row"><!-- begin a content element -->
-      <div class = "col-md-12">
-      <div class = "row justify-content-center">
-          <div class = "d-flex p-2">
-            <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="/events/2020-cape-town/sponsor">
-             <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference
-            </a>
-          </div>
-        <div class = "d-flex p-2">
-          <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://sessionize.com/devopsdays-cape-town-2020">
-            <i class="fa fa-book fa-lg"></i>&nbsp;&nbsp;&nbsp;Submit a talk
-          </a>
-        </div>
-        </div>
-      </div>
-    </div><!-- end a content element -->
     <div class = "row">
       <div class = "col-12">
         <div class="text-center">
