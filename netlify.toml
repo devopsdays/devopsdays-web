@@ -22,3 +22,6 @@
 
 [context.branch-deploy.environment]
   HUGO_VERSION = "0.67.1"
+
+[[plugins]]
+  package = netlify-plugin-algolia-index
