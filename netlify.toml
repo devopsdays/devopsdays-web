@@ -27,5 +27,5 @@
   package = "netlify-plugin-search-index"
     [plugins.inputs]
     generatedFunctionName = "devopsdaysSearch"
-    publishDirJSONFileName = null
+    publishDirJSONFileName = "null"
 
