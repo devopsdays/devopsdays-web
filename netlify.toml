@@ -24,4 +24,4 @@
   HUGO_VERSION = "0.67.1"
 
 [[plugins]]
-  package = netlify-plugin-algolia-index
+  package = "netlify-plugin-algolia-index"
