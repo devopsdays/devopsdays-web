@@ -23,6 +23,9 @@
 [context.branch-deploy.environment]
   HUGO_VERSION = "0.67.1"
 
+[build]
+  functions = "fixtures/functions"
+
 [[plugins]]
   package = "netlify-plugin-search-index"
     [plugins.inputs]
