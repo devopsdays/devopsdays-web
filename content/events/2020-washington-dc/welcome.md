@@ -1,7 +1,15 @@
 +++
 Title = "devopsdays Washington, D.C. 2020"
 Type = "welcome"
-aliases = ["/events/2020-washington-dc/"]
+aliases = [
+  "/events/2020-washington-dc/",
+  "/events/2020-washington-dc/location",
+  "/events/2020-washington-dc/program",
+  "/events/2020-washington-dc/propose",
+  "/events/2020-washington-dc/registration",
+  "/events/2020-washington-dc/speakers",
+  "/events/2020-washington-dc/sponsor"
+]
 Description = "devopsdays Washington, D.C. 2020"
 +++
 

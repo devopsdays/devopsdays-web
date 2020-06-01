@@ -13,6 +13,8 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 startdate:
 enddate:
 
+cancel: "true"
+
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:
 cfp_date_end:
@@ -106,28 +108,4 @@ team_members:
 
 organizer_email: "minneapolis@devopsdays.org" # Put your organizer email address here
 
-# List all of your sponsors here along with what level of sponsorship they have.
-# Check data/sponsors/ to use sponsors already added by others.
-sponsors:
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  - id: redhat
-    level: silver
-  - id: xmatters
-    level: gold
-  - id: hashicorp
-    level: gold
-
-
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
-
-# In this section, list the level of sponsorships and the label to use.
-# You may optionally include a "max" attribute to limit the number of sponsors per level. For
-# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
-# sponsorship for a specific level, it is best to remove the level.
-sponsor_levels:
-  - id: gold
-    label: Gold
-    max: 15
-  - id: silver
-    label: Silver
-    max: 13

@@ -20,7 +20,7 @@ Description = "Registration for devopsdays Stockholm 2020"
 
 </style>
 
-Registration for DevOpsDays Stockholm is now open.
+Registration for DevOpsDays Stockholm is now open. As **this is now a virtual event** we don't plan to charge anything for attending. We'd still like you to register though so we'll have some idea about how many wants to join.
 
 You can also register directly on tito at <a href="https://ti.to/devopsdays-stockholm/2020" target="_blank" rel="noopener">here</a> if you don't wish to use the embedded version.
 

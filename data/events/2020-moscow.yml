@@ -2,40 +2,26 @@ name: "2020-moscow"
 year: "2020"
 city: "Moscow"
 event_twitter: "DevOpsDaysMSK"
-description: "DevOpsDays is a worldwide series of technical conferences covering topics of software development, IT infrastructure operations, and the intersection between them. It’s both a technical conference and a conference focusing on culture, processes and structure within organizations. We encourage both technologists and business people to attend, learn and share experiences."
+description: "While our 2020 event will no longer happen, we will return in 2021!"
 
 
-startdate: 2020-07-10T09:00:00+03:00 # The start date of your event
-enddate: 2020-07-10T22:00:00+03:00 # The end date of your event
+startdate:
+enddate:
+  
+cfp_date_start:
+cfp_date_end:
+cfp_date_announce:
 
-registration_date_start: 2020-02-01T00:00:00+03:00 # start accepting
-registration_date_end: 2020-07-09T23:59:59+03:00 # close registration
+cancel: "true"
 
-registration_closed: ""
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+coordinates:
+location:
+location_address:
 
-# Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2020-02-01T00:00:00+03:00 # start accepting talk proposals.
-cfp_date_end: 2020-05-20T00:00:00+03:00 # close your call for proposals.
-cfp_date_announce: 2020-06-01T00:00:00+03:00 # inform proposers of status
-
-cfp_link: "https://docs.google.com/forms/d/e/1FAIpQLSfKRgOFjsdvvHaAPbaPM4Ulsf6ypI-ueMcWO6IILW34YTW1IA/viewform" 
-
-
-
-
-# Location
-#
-coordinates: "55.710214,37.721367" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Moscow"
-location_address: "Technopolis Moscow, Volgogradsky pr., 42, building 13"
 
 nav_elements:
   - name: devopsdays.ru
     url: "https://devopsdays.ru"
-#  - name: program
-  - name: location
-  - name: sponsor
   - name: contact
   - name: conduct
 
@@ -106,18 +92,6 @@ team_members:
 
 organizer_email: "moscow@devopsdays.org"
 
-# List all of your sponsors here along with what level of sponsorship they have.
-# Check data/sponsors/ to use sponsors already added by others.
 sponsors: []
-
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
-
-sponsor_levels:
-  - id: gold
-    label: Gold
-  - id: silver
-    label: Silver
-  - id: bronze
-    label: Bronze
-  - id: partner
-    label: Partner
+sponsors_accepted : "no"
+sponsor_levels: []

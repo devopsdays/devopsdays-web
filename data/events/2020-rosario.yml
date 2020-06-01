@@ -2,7 +2,7 @@ name: "2020-rosario" # The name of the event. Four digit year with the city name
 year: "2020" # The year of the event. Make sure it is in quotes.
 city: "Rosario" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysros" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "1st Edition of DevOpsDays is coming to Rosario!" # Edit this to suit your preferences
+description: "Due to Corona Virus and quarantine, we will be hosting the 1st DevOpsDays Rosario next year. ¡  We hope to see you all then!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
@@ -10,8 +10,8 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate:  2020-05-30T10:00:00-03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  2020-05-30T19:00:00-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate:   # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:   # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  # start accepting talk proposals.
@@ -26,20 +26,23 @@ registration_date_end: # close registration. Leave blank if registration is not 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
+# Cancellation
+cancel: "true"
+
 # Location
 #
-coordinates: "-32.958765, -60.628814" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Facultad de Ciencias Exactas, Ingeniería y Agrimensura" # Defaults to city, but you can make it the venue name.
+coordinates:  # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location:  # Defaults to city, but you can make it the venue name.
 #
-location_address: "Av. Pellegrini 250, S2000 Rosario, Santa Fe" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address:  #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
-  - name: location
+ # - name: location
  # - name: registration
  # - name: program
  # - name: speakers
-  - name: sponsor
+ # - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
@@ -96,7 +99,7 @@ sponsors:
   - id: arresteddevops
     level: community
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For

@@ -65,8 +65,6 @@ team_members: # Name is the only required field for team members.
     employer: "purpleidea.com"
     github: "purpleidea"
     twitter: "purpleidea"
-  - name: "Carol Trang"
-    employer: "CloudOps"
   - name: "Ian Crosby"
     employer: "Container Solutions"
     github: "idcrosby"

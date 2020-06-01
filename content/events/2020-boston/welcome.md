@@ -7,6 +7,7 @@ Description = "DevOpsDays Boston 2020"
 
 <style type="text/css">
 h1.welcome-page { text-transform: initial; }
+.welcome-page-event-logo { max-width: 100%; }
 </style>
 
 <div style="height:20px"></div>
@@ -14,9 +15,14 @@ h1.welcome-page { text-transform: initial; }
 <div class="row">
   <div class="col-md-3">
     <div style="text-align:center;">{{< event_logo >}}</div>
-  	<div class="row">
-  	   <a href="https://assets.devopsdays.org/events/2020/boston/dodb-health-and-safety-update.pdf" target="blank" class="btn btn-info btn-block">DevOpsDays Boston Safety Update</a>
-  	</div>
+  </div>
+
+  <div class="col-md-6">
+    <div class="alert alert-warning" role="alert">
+      DevOpsDays Boston is going virtual - Call for Papers has been extended!
+    </div>
+    <p>Due to the effects of COVID-19, and the health risks of holding an in-person conference this year, DevOpsDays Boston 2020 will now be a two-day, single-track virtual event, taking place on September 28th and 29th, 2020. Rest assured that the talks, open spaces and discussions will be as great as ever.</p>
+    <p>Please do continue to submit to our <a href="https://bit.ly/dodbos2020cfp">CFP</a> if you'd like to speak at the conference! We are now taking submissions until June 14th.</p>
   </div>
 
   <div class="col-md-6">
@@ -26,17 +32,17 @@ h1.welcome-page { text-transform: initial; }
     </div>
     <div class="row">
       <div class="col-md-2"><strong>Location</strong></div>
-      <div class="col-md-8">{{< event_location >}}</div>
+      <div class="col-md-8">Boston (virtual)</div>
     </div>
     <div class="row">
       <div class="col-md-2"><strong>Propose</strong></div>
       <div class="col-md-8"><a href="https://bit.ly/dodbos2020cfp">Propose a talk!</a></div>
     </div>
-    <div class="row">
+    <!-- <div class="row">
       <div class="col-md-2"><strong>Register</strong></div>
       <div class="col-md-8"><a href="https://ti.to/devopsdaysbos/2020">Register to attend the conference!</a></div>
     </div>
-  	<!-- <div class="row">
+  	<div class="row">
   		<div class="col-md-2"><strong>Program</strong></div>
       <div class="col-md-8">View the {{< event_link page="program" text="program." >}}</div>
   	</div>
@@ -58,7 +64,7 @@ h1.welcome-page { text-transform: initial; }
       <div class="col-md-2">
         <strong>Slack</strong>
       </div>
-      <div class="col-md-8">Join <a href="http://bit.ly/bdo-slack" target="blank">Boston DevOps</a> Slack workspace.
+      <div class="col-md-8">Join <a href="http://bit.ly/bdo-slack" target="blank">Boston DevOps Slack</a> workspace.
       </div>
     </div>
     <!-- Twitter -->

@@ -121,7 +121,12 @@ sponsors:
     level: community
   - id: appdynamics
     level: gold
-
+  - id: redhat
+    level: silver
+  - id: xmatters
+    level: gold
+  - id: hashicorp
+    level: gold
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

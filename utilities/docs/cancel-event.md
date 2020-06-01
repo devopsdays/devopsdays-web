@@ -38,7 +38,11 @@ cfp_date_start:
 cfp_date_end:
 cfp_date_announce:
 ```
+You also need to add a new entry like this (note it is case-sensitive):
 
+```yaml
+cancel: "true"
+```
 
 Remove any location information:
 
