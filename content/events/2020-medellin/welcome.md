@@ -9,7 +9,7 @@ Description = "devopsdays Medellín 2020"
     <img alt="DevOpsDays Medellin 2020" src="/events/2020-medellin/logo.png" class="img-fluid">
   </div>
   <div class="col-md-7">
-    <h2>¡La conferencia inaugural de DevOpsDays llegará a Medellín, Colombia en Julio 2020!</h2>
+    <h2>¡La conferencia inaugural de DevOpsDays llegará a Medellín de manera virtual a Colombia en Julio 2020!</h2>
     <p>
       The DevOpsDays conference arrives to Medellín, and it'll be the first DevOpsDays conference that will happen in the City!, Be part of history on July 2020!
     </p>
@@ -21,12 +21,6 @@ Description = "devopsdays Medellín 2020"
         </li>
         <li style="margin-left:15px;">
           <div>{{< event_start >}} - {{< event_end >}}</div>
-        </li>
-        <li>
-          <h3>Location</h3>
-        </li>
-        <li style="margin-left:15px;">
-          {{< event_location >}}
         </li>  
       </ul>      
     </p>
