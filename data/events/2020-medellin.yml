@@ -37,8 +37,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: Spanish
     url: "https://devopsdays.io/"
  # - name: location
-  - name: propose
-    url: "https://www.papercall.io/devopsdaysmedellin"
+ # - name: propose
+ #   url: "https://www.papercall.io/devopsdaysmedellin"
   - name: registration
     url: "https://www.ticketopolis.com/medellindevopsdays2020"
  # - name: program
