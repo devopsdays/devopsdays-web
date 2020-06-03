@@ -12,7 +12,7 @@
 /berlin/*		/events/2020-berlin/:splat		302
 /birmingham/*		/events/2021-birmingham/:splat		302
 /bogota/*		/events/2020-bogota/:splat		302
-/boise/*		/events/2020-boise/:splat		302
+/boise/*		/events/2021-boise/:splat		302
 /boston/*		/events/2020-boston/:splat		302
 /brasilia/*		/events/2017-brasilia/:splat		302
 /buenos-aires/*		/events/2020-buenos-aires/:splat	302
@@ -39,14 +39,14 @@
 /galway/*		/events/2019-galway/:splat		302
 /geneva/*		/events/2020-geneva/:splat		302
 /ghent/*		/events/2019-ghent/:splat		302
-/goiania/*		/events/2019-goiania/:splat		302
+/goiania/*		/events/2020-goiania/:splat		302
 /goteborg/*		/events/2011-goteborg/:splat		302
 /guadalajara/*		/events/2020-guadalajara/:splat		302
 /hamburg/*		/events/2010-europe/:splat		302
 /hartford/*		/events/2019-hartford/:splat		302
 /helsinki/*		/events/2014-helsinki/:splat		302
 /houston/*		/events/2020-houston/:splat		302
-/indianapolis/*		/events/2019-indianapolis/:splat	302
+/indianapolis/*		/events/2020-indianapolis/:splat	302
 /istanbul/*		/events/2020-istanbul/:splat		302
 /jakarta/*		/events/2020-jakarta/:splat		302
 /kansas-city/*		/events/2019-kansas-city/:splat		302
@@ -63,14 +63,14 @@
 /manila/*		/events/2011-manila/:splat		302
 /maringa/*		/events/2018-maringa/:splat		302
 /medellin/*		/events/2020-medellin/:splat		302
-/minneapolis/*		/events/2020-minneapolis/:splat		302
+/minneapolis/*		/events/2021-minneapolis/:splat		302
 /montevideo/*		/events/2019-montevideo/:splat		302
 /montreal/*		/events/2020-montreal/:splat		302
-/moscow/*		/events/2019-moscow/:splat		302
+/moscow/*		/events/2020-moscow/:splat		302
 /nairobi/*		/events/2014-nairobi/:splat		302
 /nashville/*		/events/2021-nashville/:splat		302
 /natal/*		/events/2020-natal/:splat		302
-/new-york-city/*	/events/2020-new-york-city/:splat	302
+/new-york-city/*	/events/2021-new-york-city/:splat	302
 /new-zealand/*		/events/2019-auckland/:splat		302
 /newcastle/*		/events/2018-newcastle/:splat		302
 /oslo/*			/events/2019-oslo/:splat		302
@@ -110,7 +110,7 @@
 /victoria/*		/events/2019-victoria/:splat		302
 /vitoria/*		/events/2020-vitoria/:splat		302
 /warsaw/*		/events/2019-warsaw/:splat		302
-/washington-dc/*	/events/2019-washington-dc/:splat	302
+/washington-dc/*	/events/2020-washington-dc/:splat	302
 /zaragoza/*		/events/2020-zaragoza/:splat		302
 /zurich/*		/events/2020-zurich/:splat		302
 /events/2009-ghent/*          http://legacy.devopsdays.org/events/2009-ghent/:splat     301!
@@ -153,4 +153,6 @@
 /luanda/*            /events/2020-luanda/:splat           302
 /criciuma/*            /events/2020-criciuma/:splat           302
 /melbourne/*            /events/2020-melbourne/:splat           302
-/ankara/*            /events/2020-ankara/:splat           302/lima/*            /events/2020-lima/:splat           302
+/ankara/*            /events/2020-ankara/:splat           302
+/lima/*            /events/2020-lima/:splat           302
+/rosario/*            /events/2020-rosario/:splat           302

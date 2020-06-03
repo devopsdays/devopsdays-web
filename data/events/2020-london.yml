@@ -4,6 +4,8 @@ city: "London" # The displayed city name of the event. Capitalize it.
 event_twitter: "DevOpsDaysLDN" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "devopsdays is coming to London!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+sharing_image: "twitter.png"
+masthead_background: "background.png"
 
 # All dates are in unquoted 2020-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00
@@ -105,6 +107,16 @@ sponsors:
     level: community
   - id: docker-london
     level: community
+  # Silver
+  - id: logz
+    level: silver
+  - id: site24x7
+    level: silver
+  # Gold
+  - id: circleci
+    level: gold
+  - id: elastic
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

@@ -27,8 +27,3 @@ We expect participants to follow these rules at conference and workshop venues a
 
 _The devopsdays New York City 2020 Code of Conduct is based on [confcodeofconduct.com](https://confcodeofconduct.com)._ 
 
-### Contact Us
-<br/>
-<i class="fa fa-phone fa-lg mx-3"></i> [646-933-7100](tel:646-933-7100)
-
-<i class="fa fa-envelope fa-lg mx-3"></i> [coc@dodny.org](mailto:coc@dodny.org)

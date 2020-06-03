@@ -1,79 +1,24 @@
 +++
 Title = "devopsdays aarhus 2020"
 Type = "welcome"
-aliases = ["/events/2020-aarhus/"]
+aliases = [
+    "/events/2020-aarhus/",
+    "/events/2020-aarhus/location/",
+    "/events/2020-aarhus/program/",
+    "/events/2020-aarhus/propose/",
+    "/events/2020-aarhus/registration/",
+    "/events/2020-aarhus/speakers/",
+    "/events/2020-aarhus/sponsor/"
+    
+  ]
 Description = "devopsdays aarhus 2020"
 +++
-
+<h1>Due to the COVID-19 situation, we have decided to postpone the event to February 3-4, 2021.
+We will automatically postpone your ticket to these dates, unless you prefer a full refund of course.
+If you have any questions, you can contact us: aarhus@devopsdays.org.
+Until then be safe, and keep the DevOps practices going!</h1>
 <div style="text-align:center;">
-  DevOpsDays is about learning from each other and sharing our stories. We'd love to hear your story at DevOpsDays Aarhus 2020. <br />
-  {{< event_link page="propose" text="Send us your pitch!" >}}<br />
-
-  {{< event_logo >}}
-</div>
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Dates</strong>
-  </div>
-  <div class = "col-md-8">
-    Devopsdays will come to Aarhus, June 10th and 11th 2020
-    {{< event_start >}} - {{< event_end >}}
-  </div>
-</div>
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Location</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_location >}}
-  </div>
-</div>
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Register</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
-  </div>
-</div>
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Propose</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
-  </div>
-</div>
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Program</strong>
-  </div>
-  <div class = "col-md-8">
-    View the {{< event_link page="program" text="program." >}}
-  </div>
-</div>
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Speakers</strong>
-  </div>
-  <div class = "col-md-8">
-    Check out the {{< event_link page="speakers" text="speakers!" >}}
-  </div>
-</div>
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Sponsors</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="sponsor" text="Sponsor the conference!" >}}
-  </div>
+   {{< event_logo >}}
 </div>
 
 <div class = "row">

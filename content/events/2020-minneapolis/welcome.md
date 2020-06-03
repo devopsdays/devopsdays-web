@@ -1,76 +1,17 @@
 +++
 Title = "devopsdays Minneapolis 2020"
 Type = "welcome"
-aliases = ["/events/2020-minneapolis/"]
+aliases = [
+    "/events/2020-minneapolis/",
+    "/events/2020-minneapolis/location/",
+    "/events/2020-minneapolis/propose/",
+    "/events/2020-minneapolis/registration/",
+    "/events/2020-minneapolis/sponsor/"
+]
 Description = "devopsdays Minneapolis 2020"
 +++
 
-<!-- <div style="text-align:center;">
-  {{< event_logo >}}
-</div> -->
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Dates</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_start >}} - {{< event_end >}}
-  </div>
-</div>
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Location</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_location >}}
-  </div>
-</div>
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Register</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
-  </div>
-</div>
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Propose</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
-  </div>
-</div>
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Program</strong>
-  </div>
-  <div class = "col-md-8">
-    View the {{< event_link page="program" text="program." >}}
-  </div>
-</div> -->
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Speakers</strong>
-  </div>
-  <div class = "col-md-8">
-    Check out the {{< event_link page="speakers" text="speakers!" >}}
-  </div>
-</div> -->
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Sponsors</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="sponsor" text="Sponsor the conference!" >}}
-  </div>
-</div>
+<strong>Due to the COVID-19 pandemic, devopsdays Minneapolis 2020 will not take place on August 4-5, 2020 as planned. We have scheduled <a href="/events/2021-minneapolis/">devopsdays Minneapolis 2021</a> to occur July 20-21, 2021.</strong>
 
 <div class = "row">
   <div class = "col-md-2">

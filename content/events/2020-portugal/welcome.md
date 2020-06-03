@@ -1,9 +1,25 @@
 +++
 Title = "devopsdays portugal 2020"
 Type = "welcome"
-aliases = ["/events/2020-portugal/"]
+aliases = [
+    "/events/2020-portugal/",
+    "/events/2020-portugal/location/",
+    "/events/2020-portugal/propose/",
+    "/events/2020-portugal/registration/",
+    "/events/2020-portugal/sponsor/"
+]
 Description = "devopsdays portugal 2020"
 +++
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Announcement</strong>
+  </div>
+  <div class = "col-md-8">
+    <h4><strong>Due to the COVID-19 situation in Portugal (and Europe) the team organizing DevOpsDays Portugal 2020 have decided to cancel this year's event.</strong></h4>
+    <h4><strong>If you need a refund please contact us <a href="mailto:portugal@devopsdays.org">via email</a>.</strong></h4>
+  </div>
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -32,14 +48,14 @@ Description = "devopsdays portugal 2020"
   </div>
 </div> -->
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     <h5><strong>{{< event_link page="propose" text="CFP OPEN - Propose a talk!" >}}</strong></h5>
   </div>
-</div>
+</div> -->
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -59,14 +75,14 @@ Description = "devopsdays portugal 2020"
   </div>
 </div> -->
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>
   </div>
   <div class = "col-md-8">
      <h5><strong>{{< event_link page="sponsor" text="Sponsor the conference!" >}}</strong></h5>
   </div>
-</div>
+</div> -->
 
 <div class = "row">
   <div class = "col-md-2">
@@ -104,7 +120,7 @@ Description = "devopsdays portugal 2020"
       clear: left;
       font: 14px Helvetica, Arial, sans-serif;
     }
-  
+
     /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
           We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
   </style>
@@ -114,15 +130,15 @@ Description = "devopsdays portugal 2020"
       width: auto;
       margin-right: 10px;
     }
-  
+
     #mergeRow-gdpr {
       margin-top: 20px;
     }
-  
+
     #mergeRow-gdpr fieldset label {
       font-weight: normal;
     }
-  
+
     #mc-embedded-subscribe-form .mc_fieldset {
       border: none;
       min-height: 0px;

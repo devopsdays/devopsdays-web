@@ -170,9 +170,8 @@ Description = "Sponsor DevOpsDays Boston 2020"
 </div>
 </div>
 <div class="col-md-3 col-sm-12">
-<!-- uncomment once we have a 2020 prospectus
-<a href="https://assets.devopsdays.org/events/2019/boston/devopsdays-boston-2019-brochure.pdf"><img src="https://assets.devopsdays.org/events/2019/boston/thumbnail.png" class="img-fluid"></a>
--->
+<h3>Read our <a href="https://assets.devopsdays.org/events/2020/boston/devopsdays-boston-2020-brochure.pdf">sponsor prospectus</a>:</h3>
+<a href="https://assets.devopsdays.org/events/2020/boston/devopsdays-boston-2020-brochure.pdf"><img src="https://assets.devopsdays.org/events/2020/boston/prospectus-thumbnail.png" class="img-fluid" style="border: 2px solid black;"></a>
 </div>
 
 </div>

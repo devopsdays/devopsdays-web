@@ -5,9 +5,17 @@ aliases = ["/events/2020-houston/"]
 Description = "devopsdays Houston 2020"
 +++
 
+# DevOpsDays Houston 2020 rescheduled to August 18-19, 2020
+### Due to the outbreak of COVID-19 and growing concerns over the spread of the disease, we have decided to postpone DevOpsDays Houston 2020 till August 18-19, 2020, at the same venue, Norris Conference Centers - CityCenter. 
+### For details please read the <a href="/events/2020-houston/dodh-health-and-safety-update.pdf">DevOpsDays Houston Health and Safety Update</a>
+<div style="height:20px"></div>
 <div class="row">
   <div class="col-md-3">
-      <div style="text-align:center;">{{< event_logo >}}</div>
+	<div style="text-align:center;">{{< event_logo >}}</div>
+	<div class = "row">
+	<a href="/events/2020-houston/dodh-health-and-safety-update.pdf" class="btn btn-danger btn-block">DevOpsDays Houston Health and Safety Update</a>
+	</div>
+	
   </div>
   <div class="col-md-6">
     <div class = "row">

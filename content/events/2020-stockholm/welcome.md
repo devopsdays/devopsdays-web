@@ -5,8 +5,8 @@ aliases = ["/events/2020-stockholm/"]
 Description = "DevDpsDays Stockholm 2020"
 +++
 
-<h1>Welcome to DevOpsDays Stockholm 2020!</h1>
-<!-- <h2>{{< event_start >}} - {{< event_end >}}</h2> -->
+# Welcome to DevOpsDay~~s~~ Stockholm 2020!
+## {{< event_start >}}
 
 <div style="text-align:left;">
   {{< event_logo >}}
@@ -17,6 +17,16 @@ Description = "DevDpsDays Stockholm 2020"
   <div class = "col-md-5">
     <h4>For the third year, DevOpsDays is returning to Stockholm!</h4>
     DevOpsDays is a worldwide series of technical conferences covering topics of software development, IT infrastructure operations, and the intersection between them. The first Stockholm edition was organized in 2017. Following the success of previous conferences, we are proud to invite you to this year's DevOpsDays in Stockholm.
+  </div>
+</div>
+<br>
+
+<div class = "row">
+  <div class = "col-md-5">
+    <h4>HEALTH STATEMENT</h4>
+    With the global concerns around the COVID-19 coronavirus, we want to be proactive in communicating our plans for DevOpsDays Stockholm in October. Due to the current uncertain circumstances we don't feel comfortable planning a real event even in October.
+    <br>​
+    <b>We’ve decided to hold the event when originally planned​ but as a one-day virtual event.</b>
   </div>
 </div>
 <br>
@@ -39,23 +49,23 @@ Description = "DevDpsDays Stockholm 2020"
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="registration" text="Register to attend the conference!" >}}
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -92,8 +102,3 @@ Description = "DevDpsDays Stockholm 2020"
     {{< event_link page="contact" text="Get in touch with the organizers" >}}
   </div>
 </div>
-
-<!-- Uncomment if you added your city twitter name -->
-<!--
-{{< event_twitter >}}
--->

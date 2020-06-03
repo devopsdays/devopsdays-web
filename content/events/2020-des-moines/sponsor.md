@@ -74,7 +74,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
             </tr>
             <tr>
                 <td class="label">Sponsorship Remaining (First come first serve)</td>
-                <td>6</td>
+                <td>4</td>
                 <td>Sold Out</td>
                 <td>Sold Out</td>
             </tr>

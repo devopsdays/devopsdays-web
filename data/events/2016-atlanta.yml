@@ -72,7 +72,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: media
   - id: pindrop
     level: eveningevent
-  - id: cprime
+  - id: cprime-before-20190310
     level: wireless
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
