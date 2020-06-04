@@ -11,8 +11,8 @@ event_group: "Portugal"
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: #2021-05-24T00:00:00+02:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: #2021-05-25T23:59:59+02:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2021-05-24T00:00:00+02:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2021-05-25T23:59:59+02:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: # start accepting talk proposals.
@@ -76,6 +76,14 @@ team_members: # Name is the only required field for team members.
     github:
     website:
     image: elisete-cruz.jpg
+  - name: "Miguel Antunes"
+    employer: "OutSystems"
+    bio: "Miguel Antunes is a DevOps advocate and an active member of the DevOps community in Portugal. Passionate about software engineering practices, he sees in DevOps a way to maximize business impact by promoting engineering excellence through the entire software lifecycle. He was part of establishing the DevOps and Continuous Delivery mindset at OutSystems R&D, which reshaped the way we think about and deliver products."
+    linkedin: "https://www.linkedin.com/in/miguelcostaantunes"
+    twitter:
+    github: "micantunes"
+    website:
+    image: miguel-antunes.jpg
   - name: "Julia Lamenza"
     employer: "Hostelworld"
     bio: "DevOps enthusiast, +8 Years working with infrastructure, cloud computing, containers and cool services and tools. But more then that with a community mindset focused in share knowledge and help people and companies to reach your goals."
@@ -100,6 +108,13 @@ team_members: # Name is the only required field for team members.
     github: "mccricardo"
     website:
     image: ricardo-castro.jpg
+  - name: "Marta Torneiro"
+    employer: "Blip - Paddy Power Betfair"
+    bio: "Delivery Manager at Blip - Paddy Power Betfair, focused on people and Continuous Improvement. She started her professional path in the QA and has always been an enthusiast about the Agile and DevOps cultures and on exploring new ways to deliver working software quickly without compromising quality."
+    linkedin: "https://www.linkedin.com/in/martatorneiro"
+    twitter:
+    github:
+    image: marta-torneiro.jpg
   - name: "Manuel Pais"
     employer: "Independent"
     bio: "Independent DevOps and Continuous Delivery Consultant, focused on teams and flow. Manuel helps organizations adopting DevOps and Continuous Delivery (both from technical and human perspectives) via strategic assessments, practical workshops and technical coaching. He's also the DevOps lead for InfoQ. Tweets https://twitter.com/manupaisable. Blogs https://medium.com/@manupaisable. Manuel is co-author of a book on Software Releasability (http://releasabilitybook.com) and another on Team Topologies (http://teamtopologies.com)."

@@ -1,7 +1,7 @@
 +++
 Title = "Conduct"
 Type = "event"
-Description = "Code of conduct for devopsdays Portugal 2020"
+Description = "Code of conduct for devopsdays Portugal 2021"
 +++
 
 All participants (including speakers, sponsors, exhibitors, staff and volunteers) at devopsdays Portugal are required to abide by the following Code of Conduct. Organisers will enforce this code throughout the event. We are expecting cooperation from all participants to help us achieve a safe and positive event experience for everyone.
@@ -48,5 +48,5 @@ To find out more about ableism and replacement terms please [read this guide](ht
 
 Using gendered terms like "dude" or "guys" to address a group of people of varying genders contributes to furthering exclusion of underrepresented individuals. We strongly advise avoiding gendered pronouns as well as gendered terms.
 
-_The devopsdays Portugal 2020 Code of Conduct is based on [confcodeofconduct.com](https://confcodeofconduct.com)._
+_The devopsdays Portugal 2021 Code of Conduct is based on [confcodeofconduct.com](https://confcodeofconduct.com)._
 
