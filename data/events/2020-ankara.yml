@@ -24,7 +24,7 @@ registration_date_start: 2020-05-21T23:59:59+03:00 # start accepting registratio
 registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "https://www.eventbrite.com/e/devopsdays-turkiye-online-tickets-106238931504" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://kommunity.com/devops-turkiye/events/devopsdays-turkiye-online-2020-c0b34c6a" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -72,6 +72,8 @@ sponsors:
   - id: devopsturkey
     level: community
   - id: velvet
+    level: community
+  - id: devnot
     level: community
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
