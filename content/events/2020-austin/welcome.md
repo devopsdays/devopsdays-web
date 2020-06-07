@@ -7,10 +7,10 @@ Description = "DevOpsDays Austin 2020"
 <div class="row">
   <div class="col-md-12">
     <div class="alert alert-danger" role="alert">
-      <h3>DevOpsDays Austin COVID-19 Update: POSTPONED</h3>
-      <p>Last updated: March 19, 2020, 10:00am CDT</p>
-      <p>Because of the increasing resolution to combat COVID-19 in the Austin area, <strong>DevOpsDays Austin will NOT occur as scheduled on May 4-5</strong>.</p>
-      <p>We are still working with event partners to determine the path forward, including rescheduling or cancelation.</p>
+      <h3>DevOpsDays Austin COVID-19 Update: CANCELLED, REFUNDS COMING</h3>
+      <p>Last updated: April 18, 2020, 8:00am CDT</p>
+      <p>As you know, DevOpsDays Austin had to cancel our event this year due to the global pandemic. While it is disappointing that we can't gather together right now, we look forward to resuming our normal DevOpsDays event in 2021.</p>
+      <p>Refunds for attendees will begin processing on Friday, April 24. Refunds will also be issued to sponsors, but will take a few weeks to be fully processed.</p>
       <p><a href="http://bit.ly/corona-austin" class="btn btn-danger">Devopsdays Austin Health Statement</a></p>
     </div>
   </div>

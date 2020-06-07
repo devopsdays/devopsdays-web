@@ -1,25 +1,31 @@
 +++
 Title = "devopsdays Washington, D.C. 2020"
 Type = "welcome"
-aliases = ["/events/2020-washington-dc/"]
+aliases = [
+  "/events/2020-washington-dc/",
+  "/events/2020-washington-dc/location",
+  "/events/2020-washington-dc/program",
+  "/events/2020-washington-dc/propose",
+  "/events/2020-washington-dc/registration",
+  "/events/2020-washington-dc/speakers",
+  "/events/2020-washington-dc/sponsor"
+]
 Description = "devopsdays Washington, D.C. 2020"
 +++
 
 <div class="row">
   <div class="col-md-12">
     <div class="alert alert-danger" role="alert">
-      <h3>DevOpsDays Washington, D.C. Coronavirus Pandemic Update: PAUSED</h3>
+      <h3>DevOpsDays Washington, D.C. Coronavirus Pandemic Update: CANCELED</h3>
       <p>
-        Last updated: March 20, 2020
+        Last updated: April 16, 2020
       </p>
       <p>
-        The organizing team for DevOpsDays DC, like you, is sitting isolated at home watching the Coronavirus pandemic impact everyone.  We have paused our planning for the 2020 edition of DevOpsDays DC.
+        The organizing team for DevOpsDays DC, like you, is sitting isolated at home watching the Coronavirus pandemic impact everyone.  We have decided to cancel the 2020 edition of DevOpsDays DC.
       </p>
       <p>
-        Our best estimation is that DevOpsDays will not be held in 2020 though we will regroup and announce our decision no later than April 15, 2020.
+        DevOpsDays DC will not be held in 2020.
       </p>
-      <p>
-        Watch our <a href="https://twitter.com/DevOpsDaysDC">twitter handle (@DevOpsDaysDC)</a> and this page for updates.
       <p>
         Please stay safe and follow all necessary recommendations during this difficult time.
       </p>

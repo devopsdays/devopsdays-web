@@ -1,18 +1,26 @@
 +++
-Title = "DevOpsDays Zürich 2020"
+Title = "DevOpsTuesDays Zürich 2020"
 Type = "welcome"
 aliases = ["/events/2020-zurich/"]
-Description = "DevOpsDays Zürich 2020"
+Description = "DevOpsTuesDays Zürich 2020"
 +++
 
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
 </div> -->
 
+<div class="row">
+  <div class="alert alert-info" role="alert">
+    <h2>COVID-19</h2>
+    <p>Due to the current situation, the DevOps Days Zurich 2020 is moved to 2021.
+    <br>However, we will host the online DevOpsTuesDays in September 2020.  </p>
+  </div>
+</div>
+
 <img src="/events/2020-zurich/logo.png" style="float:center"/>
 
 <strong>
-  Harder, Better, Faster, Stronger. <br>Welcome to the fourth round of DevOpsDays 2020!
+  <br>Every Tuesday evening in September 2020 we will hold the online DevOpsTuesDays. More information will follow.
 </strong>
 
 <div class = "row">

@@ -5,10 +5,6 @@ aliases = ["/events/2020-amsterdam/"]
 Description = "devopsdays Amsterdam 2020"
 +++
 
-<div class="alert alert-danger" role="alert">
-  Due to the global situation around COVID-19, devopsdays Amsterdam has been cancelled for 2020. Please stay tuned for more information. Please click on <a href="/events/2020-amsterdam/cancellation" class="alert-link">here for more information</a>.
-</div>
-
 <div class = "row">
   
   <div class="col-md-4">
@@ -52,12 +48,9 @@ Description = "devopsdays Amsterdam 2020"
         </div>
         <div class="d-flex p-2">
           <a class="btn btn-secondary btn-block" style= "color: #ffffff; background-color: #a8862d; border-color: #a8862d;" href="https://cfp.devopsdays.amsterdam/2020/cfp" target="_blank"> <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;SUBMIT A PROPOSAL HERE!</a>
-        </div>
-        <div class="d-flex p-2">
-          <a class="btn btn-secondary btn-block" style= "background-color: #96bfe6; border-color: #96bfe6;" href="/events/2020-amsterdam/sponsor"> <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference</a>
         </div> -->
         <div class="d-flex p-2">
-          <a class="btn btn-secondary btn-block" style= "color: #ffffff; background-color: #CC112F; border-color: #CC112F;" href="/events/2020-amsterdam/cancellation"> <i class="fa fa-bullhorn fa-lg"></i>&nbsp;&nbsp;&nbsp;Statement on Cancellation</a>
+          <a class="btn btn-secondary btn-block" style= "background-color: #96bfe6; border-color: #96bfe6;" href="/events/2020-amsterdam/sponsor"> <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference</a>
         </div>
         <div class="d-flex p-2">
           <a class="btn btn-secondary btn-block" style= "background-color: #96bfe6; border-color: #96bfe6;" href="/events/2020-amsterdam/contact"> <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Contact the Organizers</a>
@@ -70,8 +63,4 @@ Description = "devopsdays Amsterdam 2020"
       </div>
     </div>
   </div>
-</div>
-
-<div class="alert alert-danger" role="alert">
-  Due to the global situation around COVID-19, devopsdays Amsterdam has been cancelled for 2020. Please stay tuned for more information. Please click on <a href="/events/2020-amsterdam/cancellation" class="alert-link">here for more information</a>.
 </div>

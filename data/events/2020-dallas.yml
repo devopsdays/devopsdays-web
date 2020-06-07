@@ -10,38 +10,40 @@ ga_tracking_id: "UA-154602010-1" # If you have your own Google Analytics trackin
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: 2020-08-26T00:00:00-05:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2020-08-27T23:59:59-05:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+cancel: "true"
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2020-02-25T21:00:00-05:00 # start accepting talk proposals.
-cfp_date_end: 2020-05-25T18:00:00-05:00 # close your call for proposals.
-cfp_date_announce: 2020-07-06T18:00:00-05:00 # inform proposers of status
+cfp_date_start:  # start accepting talk proposals.
+cfp_date_end: # close your call for proposals.
+cfp_date_announce:  # inform proposers of status
 
-cfp_link: "https://www.papercall.io/dod-dfw-2020" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 masthead_background: "PlanoEventCenter.jpg"
 sharing_image: "dallas2020.png"
 
-registration_date_start: 2020-02-09T00:00:00-05:00 # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: 2020-08-27T23:59:59-05:00 #close registration. Leave blank if registration is not open yet.
+registration_date_start:  # start accepting registration. Leave blank if registration is not open yet
+registration_date_end:  #close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
-coordinates: "33.0543213, -96.6867001" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Plano Event Center" # Defaults to city, but you can make it the venue name.
-location_address: "2000 East Spring Creek Parkway, Plano, TX 75074" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "" # Defaults to city, but you can make it the venue name.
+location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: location
-  - name: propose
+#  - name: location
+#  - name: propose
 #  - name: program
-  - name: registration
-# - name: speakers
-  - name: sponsor
+#  - name: registration
+#  - name: speakers
+#  - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
@@ -144,11 +146,11 @@ team_members: # Name is the only required field for team members.
     image: "russell.jpg"
 
   - name: "Scott Purgerson"
-    employer: "Automation Anywhere, Inc."
-    bio: "Scott Purgerson, is a Sr. Sales Executive with Automation Anywhere located in Dallas, Texas. Although born in San Jose, CA, he takes great pride in claiming he’s a Texan, as he’s resided there 97% of his life. Scott has over 16 years of professional experience, comprised of sales and management. He’s very passionate about helping and partnering with others in their digital transformation journey. Scott joined as an organizer for Dallas DevOps Days in 2019. In his downtime, Scott enjoys spending time with his wife, Michelle, and their corgi, Winnie, as well being in the woods, hunting."
+    employer: ""
+    bio: "Scott Purgerson, was a Sr. Sales Executive with Automation Anywhere located in Dallas, Texas. Although born in San Jose, CA, he takes great pride in claiming he’s a Texan, as he’s resided there 97% of his life. Scott has over 16 years of professional experience, comprised of sales and management. He’s very passionate about helping and partnering with others in their digital transformation journey. Scott joined as an organizer for Dallas DevOps Days in 2019. In his downtime, Scott enjoys spending time with his wife, Michelle, and their corgi, Winnie, as well being in the woods, hunting."
     twitter: "PurgersonScott"
     linkedin: "https://www.linkedin.com/in/scott-purgerson-5858224"
-    website: "https://www.automationanywhere.com/"
+    website: ""
     image: "scott.jpg"
     
 # - name: ""
@@ -169,34 +171,34 @@ organizer_email: "dallas@devopsdays.org" # Put your organizer email address here
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
 # - id: samplesponsorname
-#  level: gold
+#   level: gold
 #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  - id: solarwinds
-    level: platinum
-  - id: appdynamics
-    level: gold
-  - id: chef
-    level: gold
-  - id: xmatters
-    level: gold
-  - id: launch-darkly
-    level: gold
-  - id: arresteddevops
-    level: media
-  - id: devopslive
-    level: community
-  - id: addo
-    level: community
-  - id: ansible-dallas
-    level: community
-  - id: ansible-fw
-    level: community
-  - id: devops-dfw
-    level: community
-  - id: dfwpug
-    level: community
-  - id: awsdeepdives
-    level: community
+# - id: solarwinds
+#   level: platinum
+# - id: appdynamics
+#   level: gold
+# - id: chef
+#   level: gold
+# - id: xmatters
+#   level: gold
+# - id: launch-darkly
+#   level: gold
+ - id: arresteddevops
+   level: media
+ - id: devopslive
+   level: community
+ - id: addo
+   level: community
+ - id: ansible-dallas
+   level: community
+ - id: ansible-fw
+   level: community
+ - id: devops-dfw
+   level: community
+ - id: dfwpug
+   level: community
+ - id: awsdeepdives
+   level: community
    
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -206,225 +208,24 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: platinum
-    label: Platinum
+#  - id: media
+#    label: Media
+#    max: 
+  - id: community
+    label: Community
     max: 10
-  - id: gold
-    label: Gold
-    max: 10
-  - id: silver
-    label: Silver
-    max: 10
-  - id: coffee
-    label: Coffee Bar
+#  - id: platinum
+#    label: Platinum
+#    max: 10
+# - id: gold
+#    label: Gold
+#    max: 10
+#  - id: silver
+#    label: Silver
+#   max: 10
+# - id: coffee
+#    label: Coffee Bar
 #   max: 3
 # - id: bronze
 #   label: Bronze
 #   max: 0 # This is the same as omitting the max limit.
-  - id: media
-    label: Media
-    max: 5
-  - id: community
-    label: Community
-    max: 10
-
-program:
-  - title: "Registration & Breakfast"
-    type: custom
-    date: 2019-08-20
-    start_time: "08:00"
-    end_time: "08:45"
-  - title: "Intro and Code of Conduct - Mark Saum (Organizer)"
-    type: custom
-    date: 2019-08-20
-    start_time: "08:45"
-    end_time: "09:00"
-  - title: ""
-    type: talk
-    date: 2019-08-20
-    start_time: "09:00"
-    end_time: "09:45"
-  - title: "damon-edwards"
-    type: talk
-    date: 2019-08-20
-    start_time: "09:45"
-    end_time: "10:15"
-  - title: "Break"
-    type: custom
-    date: 2019-08-20
-    start_time: "10:15"
-    end_time: "10:25"
-  - title: "quintessence-anx"
-    type: talk
-    date: 2019-08-20
-    start_time: "10:25"
-    end_time: "10:55"
-  - title: "Sponsors"
-    type: custom
-    date: 2019-08-20
-    start_time: "10:55"
-    end_time: "11:30"
-  - title: "dan-barker"
-    type: talk
-    date: 2019-08-20
-    start_time: "11:30"
-    end_time: "12:00"
-  - title: "Lunch (catered) | Open Space - Overview"
-    type: custom
-    date: 2019-08-20
-    start_time: "12:00"
-    end_time: "12:45"
-  - title: "liz-fong-jones"
-    type: talk
-    date: 2019-08-20
-    start_time: "12:45"
-    end_time: "13:30"
-  - title: "Sponsors"
-    type: custom
-    date: 2019-08-20
-    start_time: "13:30"
-    end_time: "13:50"
-  - title: "vijay-challa"
-    type: talk
-    date: 2019-08-20
-    start_time: "13:50"
-    end_time: "14:20"  
-  - title: "Open Space - Topic Proposals & Selection"
-    type: open-space
-    date: 2019-08-20
-    start_time: "14:20"
-    end_time: "14:30"
-  - title: "Open Space #1"
-    type: open-space
-    date: 2019-08-20
-    start_time: "14:30"
-    end_time: "15:15"
-  - title: "Break"
-    type: custom
-    date: 2019-08-20
-    start_time: "15:15"
-    end_time: "15:30"
-  - title: "Open Space #2"
-    type: open-space
-    date: 2019-08-20
-    start_time: "15:30"
-    end_time: "16:15"
-  - title: "Show & Tell what will be raffled on the 21st."
-    type: custom
-    date: 2019-08-20
-    start_time: "16:15"
-    end_time: "16:20"
-  - title: "Close Day & Logistics"
-    type: custom
-    date: 2019-08-20
-    start_time: "16:20"
-    end_time: "16:30"
-  - title: "Social Networking - Happy Hour"
-    type: custom
-    date: 2019-08-20
-    start_time: "16:30"
-    end_time: "19:00"
-
-  - title: "Registration & Breakfast"
-    type: custom
-    date: 2019-08-21
-    start_time: "08:00"
-    end_time: "08:45"
-  - title: "Welcome - Mark Andersen (Organizer)"
-    type: custom
-    date: 2019-08-21
-    start_time: "08:45"
-    end_time: "09:00"
-  - title: "ross-clanton"
-    type: talk
-    date: 2019-08-21
-    start_time: "09:00"
-    end_time: "09:45"
-  - title: "derek-weeks"
-    type: talk
-    date: 2019-08-21
-    start_time: "09:45"
-    end_time: "10:15"
-  - title: "Break"
-    type: custom
-    date: 2019-08-21
-    start_time: "10:15"
-    end_time: "10:30"  
-  - title: "crux-conception"
-    type: talk
-    date: 2019-08-21
-    start_time: "10:30"
-    end_time: "11:00"
-  - title: "Ignite Talks"
-    type: ignite
-    date: 2019-08-21
-    start_time: "11:00"
-    end_time: "11:30"
-  - title: "dana-finster"
-    type: talk
-    date: 2019-08-21
-    start_time: "11:30"
-    end_time: "12:00"
-  - title: "Lunch (catered) | Open Space - Overview"
-    type: custom
-    date: 2019-08-21
-    start_time: "12:00"
-    end_time: "12:45"
-  - title: "michael-nygard"
-    type: talk
-    date: 2019-08-21
-    start_time: "12:45"
-    end_time: "13:30"
-  - title: "Open Space - Topic Proposals & Selection"
-    type: open-space
-    date: 2019-08-21
-    start_time: "13:30"
-    end_time: "13:45"
-  - title: "Open Space #1"
-    type: open-space
-    date: 2019-08-21
-    start_time: "13:45"
-    end_time: "14:30"
-  - title: "Break"
-    type: custom
-    date: 2019-08-21
-    start_time: "14:30"
-    end_time: "14:45"
-  - title: "Open Space #2"
-    type: open-space
-    date: 2019-08-21
-    start_time: "14:45"
-    end_time: "15:30"
-  - title: "SPEAKER DISCUSSION PANEL (Click here for video)"
-    type: custom
-    date: 2019-08-21
-    start_time: "15:30"
-    end_time: "16:15"
-    custom_url: "https://youtu.be/zlwOBFHT4X8"
-  - title: "Organizers Recognition"
-    type: custom
-    date: 2019-08-21
-    start_time: "16:15"
-    end_time: "16:20"  
-  - title: "Closing, Raffle Giveaway, & Farewell"
-    type: custom
-    date: 2019-08-21
-    start_time: "16:20"
-    end_time: "17:00"
-
-ignites:
-#  - title: "ignite-talks"
-#    date: 2019-08-21
-  - title: "jj-asghar"
-    date: 2019-08-21
-  - title: "bjorn-edwin"
-    date: 2019-08-21
-  - title: "ian-holmes"
-    date: 2019-08-21
-  - title: "farrah-campbell"
-    date: 2019-08-21
-  - title: "steve-shangguan"
-    date: 2019-08-21
-  - title: "aaron-mell"
-    date: 2019-08-21
-
