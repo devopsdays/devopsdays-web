@@ -23,7 +23,7 @@ You can learn and share your knowledge with the people from all around the world
 He is often referenced as a foundational voice in the devops movement with a lot of experience and perspective contributing to open source, operating services and building communities.
 </p>
 
-<p>The event is for <strong>FREE</strong></p>
+<p>The event is for <strong>FREE</strong>  – Call for Proposals is NOW OPEN!</p>
   
 </div>
 <div style="text-align:center;">
