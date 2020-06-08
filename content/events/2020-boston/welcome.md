@@ -19,9 +19,9 @@ h1.welcome-page { text-transform: initial; }
 
   <div class="col-md-6">
     <div class="alert alert-warning" role="alert">
-      DevOpsDays Boston is going virtual - Call for Papers has been extended!
+      DevOpsDays Boston is going virtual - CFP has been extended!
     </div>
-    <p>Due to the effects of COVID-19, and the health risks of holding an in-person conference this year, DevOpsDays Boston 2020 will now be a two-day, single-track virtual event, taking place on September 28th and 29th, 2020. Rest assured that the talks, open spaces and discussions will be as great as ever.</p>
+    <p>Due to the effects of COVID-19, and the health risks of holding an in-person conference this year, DevOpsDays Boston 2020 will now be a one-day, single-track virtual event, taking place on September 28th, 2020. Rest assured that the talks, open spaces and discussions will be as great as ever.</p>
     <p>Please do continue to submit to our <a href="https://bit.ly/dodbos2020cfp">CFP</a> if you'd like to speak at the conference! We are now taking submissions until June 14th.</p>
   </div>
 
