@@ -1,7 +1,7 @@
 +++
 Title = "Henk van der Schuur"
 Twitter = "hwschuur"
-image = "henk-van-der-schuur.jpeg"
+image = "henk-van-der-schuur.png"
 type = "speaker"
 linktitle = "henk-van-der-schuur"
 
