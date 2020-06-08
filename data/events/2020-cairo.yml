@@ -39,7 +39,7 @@ location_address: "Online Event! Stay Safe!" #Optional - use the street address 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
 #  - name: location
-  - name: local
+#  - name: local
 #  - name: registration
 #  - name: program
 #    url: https://assets.devopsdays.org/events/2020/cairo/DevopsDays-Cairo-2020-Agenda.pdf
