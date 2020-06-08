@@ -40,10 +40,11 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: propose
     url: "https://www.papercall.io/devopsdaysmedellin"
   - name: registration
-    url: "https://www.ticketopolis.com/medellindevopsdays2020"
+    url: "https://www.ticketopolis.com/devopsdaysmdev2020"
  # - name: program
  # - name: speakers
   - name: sponsor
+  - name: speakers
   - name: contact
   - name: conduct
 # - name: example
