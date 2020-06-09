@@ -2,7 +2,7 @@
 Title = "Michael Ducy"
 Linkedin = "https://www.linkedin.com/in/mducy/"
 Twitter = "https://twitter.com/mfdii"
-image = "michael-ducy.jpg"
+image = "michael-ducy.png"
 type = "speaker"
 linktitle = "michael-ducy"
 

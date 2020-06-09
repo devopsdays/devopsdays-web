@@ -1,7 +1,7 @@
 +++
 Title = "April Edwards"
 Twitter = "TheAprilEdwards"
-image = "april-edwards.jpg"
+image = "april-edwards.png"
 type = "speaker"
 linktitle = "april-edwards"
 
