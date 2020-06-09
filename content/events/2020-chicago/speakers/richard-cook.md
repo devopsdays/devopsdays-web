@@ -1,7 +1,7 @@
 +++
 Title = "Richard I. Cook, MD"
 Twitter = "ri_cook"
-image = ""
+image = "richard-cook.jpg"
 type = "speaker"
 linktitle = "richard-cook"
 website = "http://www.adaptivecapacitylabs.org"
