@@ -1,7 +1,8 @@
 +++
 Title = "Sarah Aslanifar"
 Twitter = "testedminds"
-image = ""
+linkedin = "http://linkedin.com/in/felfeli"
+image = "sarah-aslanifar.jpg"
 type = "speaker"
 linktitle = "sarah-aslanifar"
 website = "http://sarahaslanifar.com/"
