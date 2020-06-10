@@ -6,8 +6,8 @@ Description = "DevOpsDays Denver 2020"
 +++
 
 <div style="text-align:center">
-    <h1>DevOpsDays Denver 2020 has been postponed to August 10-12 due to COVID-19 concerns.</h1><br>
-    Please read our {{< event_link page="postpone" text="Letter to the community" >}} for more details on this.
+    <h1>DevOpsDays Denver 2020 has been postponed to April 25-27, 2021 due to COVID-19 concerns.</h1><br>
+    Please read our {{< event_link page="postpone" text="Letter to the community" >}} (<b>June Update</b>) for more details on this. 
 </div>
 
 <div style="text-align:center;">
@@ -16,7 +16,7 @@ Description = "DevOpsDays Denver 2020"
 
 <div class = "row">
   <p>
-    DevOpsDays is back for its 6th annual event in the Rocky Mountains {{< event_start >}} - {{< event_end >}}! Our pre-registration event will be the evening of Monday, Aug 10, 2020. We're excited to return to  {{< event_link page="location" text="Mile High Station">}} again this year.
+    DevOpsDays is back for its 6th annual event in the Rocky Mountains {{< event_start >}} - {{< event_end >}}! Our pre-registration event will be the evening of Sunday, Apr 25, 2021. We're excited to return to  {{< event_link page="location" text="Mile High Station">}} again this year.
   </p>
 </div>
 <div class = "row">
