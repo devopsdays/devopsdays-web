@@ -4,15 +4,20 @@
  command = "bin/netlify-production.sh"
  publish = "public/"
 
- [context.deploy-preview]
+[context.deploy-preview]
   command = "bin/netlify.sh"
   publish = "public/"
   skip_processing = true
 
- [context.branch-deploy]
+[context.branch-deploy]
   command = "bin/netlify.sh"
   publish = "public/"
   skip_processing = true
+
+[context.development]
+  command = "bin/netlify-development.sh"
+  publish = "public/"
+  skip_processing = "true"
 
 [context.production.environment]
    HUGO_VERSION = "0.67.1"
@@ -21,4 +26,7 @@
   HUGO_VERSION = "0.67.1"
 
 [context.branch-deploy.environment]
+  HUGO_VERSION = "0.67.1"
+
+[context.development.environment]
   HUGO_VERSION = "0.67.1"
