@@ -24,7 +24,7 @@ Description = "DevOpsDays Denver 2020"
     <strong>Dates</strong>
   </div>
   <div class = "col-md-8">
-    Monday, Aug 10, 2020 (Pre-registration Party)<br>
+    Monday, Apr 25, 2021 (Pre-registration Party)<br>
     {{< event_start >}} - {{< event_end >}} (Conference)
   </div>
 </div>
