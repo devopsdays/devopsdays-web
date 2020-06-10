@@ -6,7 +6,7 @@ Description = "DevOpsDays Denver 2020"
 +++
 
 <div style="text-align:center">
-    <h1>DevOpsDays Denver 2020 has been postponed to April 25-27, 2021 due to COVID-19 concerns.</h1><br>
+    <h1>DevOpsDays Denver has been postponed till next year due to COVID-19 concerns.</h1><br>
     Please read our {{< event_link page="postpone" text="Letter to the community" >}} (<b>June Update</b>) for more details on this. 
 </div>
 
