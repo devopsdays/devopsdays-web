@@ -1,4 +1,4 @@
 # npm rebuild
 hugo version
-hugo --theme=devopsdays-theme --buildDrafts=false --baseURL="$DEPLOY_PRIME_URL"
+hugo --theme=devopsdays-theme --buildDrafts=false --baseURL="https://development.devopsdays.org/"
 # gulp
