@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Untitled Jeff Smith Ignite"
+Title = "Cutting Cloud Costs in COVID-19!"
 Type = "talk"
 Speakers = ["jeff-smith"]
 +++
