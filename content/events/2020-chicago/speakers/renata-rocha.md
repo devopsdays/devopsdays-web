@@ -1,7 +1,7 @@
 +++
 Title = "Renata Rocha"
 Twitter = "ataner"
-image = ""
+image = "renata-rocha.jpg"
 type = "speaker"
 linktitle = "renata-rocha"
 website = "http://renata.org"

@@ -1,7 +1,7 @@
 +++
 Title = "Amy Arambulo Negrette"
 Twitter = "nerdypaws"
-image = ""
+image = "amy-arambulo-negrette.jpg"
 type = "speaker"
 linktitle = "amy-arambulo-negrette"
 website = "http://www.amy-codes.com"
