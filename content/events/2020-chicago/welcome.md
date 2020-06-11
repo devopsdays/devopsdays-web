@@ -41,11 +41,11 @@ The format of DevOpsDays Chicago includes a single track of 30 minute talks in t
           <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Contact the Organizers
         </a>
       </div>
-      <div class = "d-flex p-2">
+      <!-- <div class = "d-flex p-2">
         <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://www.papercall.io/devopsdays-chicago-2020">
           <i class="fa fa-microphone fa-lg"></i>&nbsp;&nbsp;&nbsp;Propose a Talk
         </a>
-      </div>
+      </div> -->
     </div>
 
   <div class = "row">
