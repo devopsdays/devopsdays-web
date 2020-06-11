@@ -1,7 +1,7 @@
 +++
 Title = "Mike Lee"
 Twitter = ""
-image = "Mike Lee1.png"
+image = "Mike-Lee.png"
 type = "speaker"
 linktitle = "mike-lee"
 

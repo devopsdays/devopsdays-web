@@ -1,7 +1,7 @@
 +++
 Title = "Mónica Hernandez"
 Twitter = ""
-image = "Monica Hernandez.png"
+image = "Monica.png"
 type = "speaker"
 linktitle = "monica-hernandez"
 
