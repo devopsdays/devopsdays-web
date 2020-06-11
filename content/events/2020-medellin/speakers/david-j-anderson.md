@@ -1,12 +1,11 @@
 +++
 Title = "David J Anderson"
 #Twitter = "Ana_M_Medina"
-image = "David J Circle.png"
-type = "keynotes"
+image = "David-J.png"
+type = "speaker"
 linktitle = "david-j-anderson"
-#LinkedIn = "https://www.linkedin.com/in/anammedina/"
 #Github = "AnaMMedina21"
-Pronouns  = "she/her/ella"
+#Pronouns  = "she/her/ella"
 #Website = ""
 +++
 
