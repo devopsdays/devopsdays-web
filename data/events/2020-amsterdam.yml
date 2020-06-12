@@ -111,6 +111,11 @@ program:
     date: 2020-07-09T00:00:00+02:00
     start_time: "09:50"
     end_time: "10:20"
+  - title: "break"
+    type: custom
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "10:20"
+    end_time: "10:45"
   - title: "april-edwards"
     type: talk
     date: 2020-07-09T00:00:00+02:00
@@ -177,9 +182,14 @@ program:
   - title: "sarah-polan"
     type: talk
     date: 2020-07-09T00:00:00+02:00
-    start_time: "13:30"
-    end_time: "14:00"
+    start_time: "14:00"
+    end_time: "14:30"
     comments: "Security Track"
+  - title: "break"
+    type: custom
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "14:30"
+    end_time: "14:45"
   - title: "open-space-four"
     type: talk
     date: 2020-07-09T00:00:00+02:00
