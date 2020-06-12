@@ -131,6 +131,14 @@ team_members: # Name is the only required field for team members.
     github: "minac"
     website: "https://migueldavid.eu/"
     image: miguel-david.jpg
+  - name: "Salim Rahim"
+    employer: "Mercedes-Benz.io"
+    bio: "CloudOps Engineer at Mercedes-Benz.io"
+    linkedin: "https://www.linkedin.com/in/salimrahim/"
+    twitter: 
+    github: 
+    website:
+    image: salim-rahim.jpg
 
 
 organizer_email: "portugal@devopsdays.org" # Put your organizer email address here
