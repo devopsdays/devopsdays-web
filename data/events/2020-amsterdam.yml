@@ -138,13 +138,13 @@ program:
     end_time: "13:30"
     backgroud_color: "#ffb566"
   - title: "Edward-pearson"
-    type: talk
+    type: workshop
     date: 2020-07-09T00:00:00+02:00
     start_time: "13:00"
     end_time: "13:30"
     comments: "Business Track"
   - title: "TBA"
-    type: talk
+    type: ignite
     date: 2020-07-09T00:00:00+02:00
     start_time: "13:00"
     end_time: "13:30"
@@ -156,13 +156,13 @@ program:
     end_time: "14:00"
     backgroud_color: "#ffb566"
   - title: "mark-smalley"
-    type: talk
+    type: workshop
     date: 2020-07-09T00:00:00+02:00
     start_time: "13:30"
     end_time: "14:00"
     comments: "Business Track"
   - title: "TBA"
-    type: talk
+    type: ignite
     date: 2020-07-09T00:00:00+02:00
     start_time: "13:30"
     end_time: "14:00"
@@ -174,13 +174,13 @@ program:
     end_time: "14:30"
     backgroud_color: "#ffb566"
   - title: "lian-li"
-    type: talk
+    type: workshop
     date: 2020-07-09T00:00:00+02:00
     start_time: "14:00"
     end_time: "14:30"
     comments: "Business Track"
   - title: "sarah-polan"
-    type: talk
+    type: ignite
     date: 2020-07-09T00:00:00+02:00
     start_time: "14:00"
     end_time: "14:30"
@@ -197,13 +197,13 @@ program:
     end_time: "15:15"
     backgroud_color: "#ffb566"
   - title: "joao-rosa"
-    type: talk
+    type: workshop
     date: 2020-07-09T00:00:00+02:00
     start_time: "14:45"
     end_time: "15:15"
     comments: "Business Track"
   - title: "Daphne-ma"
-    type: talk
+    type: ignite
     date: 2020-07-09T00:00:00+02:00
     start_time: "14:45"
     end_time: "15:15"
@@ -215,13 +215,13 @@ program:
     end_time: "15:45"
     backgroud_color: "#ffb566"
   - title: "dave-van-herpen"
-    type: talk
+    type: workshop
     date: 2020-07-09T00:00:00+02:00
     start_time: "15:15"
     end_time: "15:45"
     comments: "Business Track"
   - title: "TBA"
-    type: talk
+    type: ignite
     date: 2020-07-09T00:00:00+02:00
     start_time: "15:15"
     end_time: "15:45"
