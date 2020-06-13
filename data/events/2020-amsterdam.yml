@@ -135,8 +135,8 @@ program:
     end_time: "13:00"
 
   ## Multi track start
-  - title: "open-space-one"
-    type: talk
+  - title: "Open Space one"
+    type: open-space
     date: 2020-07-09T00:00:00+02:00
     start_time: "13:00"
     end_time: "13:30"
@@ -148,13 +148,13 @@ program:
     end_time: "13:30"
     comments: "Business Track"
   - title: "karen-sijbrandij"
-    type: ignite
+    type: talk
     date: 2020-07-09T00:00:00+02:00
     start_time: "13:00"
     end_time: "13:30"
     comments: "Security Track"
-  - title: "open-space-two"
-    type: talk
+  - title: "Open Space two"
+    type: open-space
     date: 2020-07-09T00:00:00+02:00
     start_time: "13:30"
     end_time: "14:00"
@@ -166,13 +166,13 @@ program:
     end_time: "14:00"
     comments: "Business Track"
   - title: "TBA"
-    type: ignite
+    type: talk
     date: 2020-07-09T00:00:00+02:00
     start_time: "13:30"
     end_time: "14:00"
     comments: "Security Track"
-  - title: "open-space-tree"
-    type: talk
+  - title: "Open Space tree"
+    type: open-space
     date: 2020-07-09T00:00:00+02:00
     start_time: "14:00"
     end_time: "14:30"
@@ -184,7 +184,7 @@ program:
     end_time: "14:30"
     comments: "Business Track"
   - title: "sarah-polan"
-    type: ignite
+    type: talk
     date: 2020-07-09T00:00:00+02:00
     start_time: "14:00"
     end_time: "14:30"
@@ -194,8 +194,8 @@ program:
     date: 2020-07-09T00:00:00+02:00
     start_time: "14:30"
     end_time: "14:45"
-  - title: "open-space-four"
-    type: talk
+  - title: "Open Space four"
+    type: open-space
     date: 2020-07-09T00:00:00+02:00
     start_time: "14:45"
     end_time: "15:15"
@@ -206,14 +206,14 @@ program:
     start_time: "14:45"
     end_time: "15:15"
     comments: "Business Track"
-  - title: "Daphne-ma"
-    type: ignite
+  - title: "daphne-ma"
+    type: talk
     date: 2020-07-09T00:00:00+02:00
     start_time: "14:45"
     end_time: "15:15"
     comments: "Security Track"
-  - title: "open-space-five"
-    type: talk
+  - title: "Open Space five"
+    type: open-space
     date: 2020-07-09T00:00:00+02:00
     start_time: "15:15"
     end_time: "15:45"
@@ -225,7 +225,7 @@ program:
     end_time: "15:45"
     comments: "Business Track"
   - title: "TBA"
-    type: ignite
+    type: talk
     date: 2020-07-09T00:00:00+02:00
     start_time: "15:15"
     end_time: "15:45"
