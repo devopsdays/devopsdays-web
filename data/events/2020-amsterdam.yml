@@ -96,6 +96,7 @@ sponsor_levels:
     max: "10"
 
 program:
+  ## keynotes
   - title: "Opening Welcome"
     type: custom
     date: 2020-07-09T00:00:00+02:00
@@ -126,18 +127,21 @@ program:
     date: 2020-07-09T00:00:00+02:00
     start_time: "11:20"
     end_time: "11:50"
+
   - title: "Lunch"
     type: custom
     date: 2020-07-09T00:00:00+02:00
     start_time: "11:50"
     end_time: "13:00"
+
+  ## Multi track start
   - title: "open-space-one"
     type: talk
     date: 2020-07-09T00:00:00+02:00
     start_time: "13:00"
     end_time: "13:30"
     backgroud_color: "#ffb566"
-  - title: "Edward-pearson"
+  - title: "edward-pearson"
     type: workshop
     date: 2020-07-09T00:00:00+02:00
     start_time: "13:00"
