@@ -39,7 +39,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   # - name: propose
   # - name: location
   # - name: registration
-  # - name: program
+  - name: program
   - name: speakers
   - name: sponsor
   # - name: cancellation
@@ -94,3 +94,139 @@ sponsor_levels:
   - id: bronze
     label: Bronze
     max: "10"
+
+program:
+  ## keynotes
+  - title: "Opening Welcome"
+    type: custom
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "michael-ducy"
+    type: talk
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "abel-wang"
+    type: talk
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "09:50"
+    end_time: "10:20"
+  - title: "break"
+    type: custom
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "10:20"
+    end_time: "10:45"
+  - title: "april-edwards"
+    type: talk
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "10:45"
+    end_time: "11:15"
+  - title: "henk-van-der-schuur"
+    type: talk
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "11:20"
+    end_time: "11:50"
+
+  - title: "Lunch"
+    type: custom
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "11:50"
+    end_time: "13:00"
+
+  ## Multi track start
+  - title: "Open Space one"
+    type: open-space
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "13:00"
+    end_time: "13:30"
+    backgroud_color: "#ffb566"
+  - title: "edward-pearson"
+    type: workshop
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "13:00"
+    end_time: "13:30"
+    comments: "Business Track"
+  - title: "TBA"
+    type: custom
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "13:00"
+    end_time: "13:30"
+    comments: "Security Track"
+  - title: "Open Space two"
+    type: open-space
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "13:30"
+    end_time: "14:00"
+    backgroud_color: "#ffb566"
+  - title: "mark-smalley"
+    type: workshop
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "13:30"
+    end_time: "14:00"
+    comments: "Business Track"
+  - title: "TBA"
+    type: custom
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "13:30"
+    end_time: "14:00"
+    comments: "Security Track"
+  - title: "Open Space tree"
+    type: open-space
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "14:00"
+    end_time: "14:30"
+    backgroud_color: "#ffb566"
+  - title: "lian-li"
+    type: workshop
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "14:00"
+    end_time: "14:30"
+    comments: "Business Track"
+  - title: "sarah-polan"
+    type: talk
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "14:00"
+    end_time: "14:30"
+    comments: "Security Track"
+  - title: "break"
+    type: custom
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "14:30"
+    end_time: "14:45"
+  - title: "Open Space four"
+    type: open-space
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "14:45"
+    end_time: "15:15"
+    backgroud_color: "#ffb566"
+  - title: "joao-rosa"
+    type: workshop
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "14:45"
+    end_time: "15:15"
+    comments: "Business Track"
+  - title: "daphne-ma"
+    type: talk
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "14:45"
+    end_time: "15:15"
+    comments: "Security Track"
+  - title: "Open Space five"
+    type: open-space
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "15:15"
+    end_time: "15:45"
+    backgroud_color: "#ffb566"
+  - title: "dave-van-herpen"
+    type: workshop
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "15:15"
+    end_time: "15:45"
+    comments: "Business Track"
+  - title: "karen-sijbrandij"
+    type: talk
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "15:15"
+    end_time: "15:45"
+    comments: "Security Track"
