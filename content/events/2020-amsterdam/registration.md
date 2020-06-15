@@ -17,6 +17,7 @@ Description = "Registration for devopsdays Amsterdam 2020"
 
 <div class = "col-md-12">
 <script src='https://js.tito.io/v1' async></script>
+<link rel="stylesheet" type="text/css" href='https://css.tito.io/v1.1' />
 <tito-widget event="devopdays-amsterdam/2020"></tito-widget>
 </div>
 </div>
