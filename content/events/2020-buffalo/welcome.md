@@ -18,7 +18,7 @@ Description = "devopsdays Buffalo 2020"
   <li><a href = 'https://www.cdc.gov/coronavirus/2019-ncov/index.html' target = _new>Center for Disease Control</a></li>
   <li><a href = 'http://www2.erie.gov/health/index.php?q=coronavirus' target = _new>Erie County Department of Health</a></li>
 </ul>
-<p>Stay safe, and safeguard your toilet paper! We’ll see you in September!</p>
+<p>Stay safe, and safeguard your toilet paper! We’ll see you in October!</p>
 </div>
 
 <div class = "row">

@@ -10,7 +10,7 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2020-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: 2020-09-30T00:08:00-04:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2020-10-01T00:08:00-04:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
 enddate: 2020-10-01T00:17:00-04:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
@@ -21,7 +21,7 @@ cfp_date_announce:  2020-07-01T23:59:59-05:00 # inform proposers of status
 cfp_link: "https://www.papercall.io/dodbuf2020" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2020-02-25T12:00:00-05:00 # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: 2020-09-30T08:59:59-05:00 # close registration. Leave blank if registration is not open yet.
+registration_date_end: 2020-10-01T11:59:59-05:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://ti.to/devops-days-buffalo/2020" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
