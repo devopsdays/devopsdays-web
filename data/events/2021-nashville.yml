@@ -53,6 +53,14 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
+  - name: "Jason Wyckoff"
+    image: "jason-wyckoff.jpg"
+    bio: "Jason is a 20+ year technology veteran, primarily in the application-development-side in IT. His consulting and diverse industry resume helps Jason to apply patterns and solutions in unconventional ways. Though spending many of his years in the Microsoft ecosystem, he is not dogmatic in his approach --  it's all about the right solution for the problem. He is currently the Director of Software Development at CPI Card Group in Nashville."
+    employer: "CPI Card Group"
+    website: "https://www.wyckoff.io"
+    twitter: "jasonwyckoff"  
+    github: "jwyckoff"
+    linkedin: "https://www.linkedin.com/in/jwyckoff"
   - name: "Don Bauer"
     image: "don-bauer.jpg"
     employer: "Citizens Bank"
@@ -65,13 +73,6 @@ team_members: # Name is the only required field for team members.
     twitter: "notsureifkevin"
     bio: "A Developer Advocate at Containous, contributes to the team and community by bringing his passion and experience for developer productivity through enablement and education. He is passionate about championing the benefits of Open Source, DevOps, automation, observability, distributed tracing, and control theory. In addition to his role at Containous, Kevin is an organizer for DevOpsDays Nashville, recognized as a Docker Captain, a co-founder and consultant for Single Music. He has traveled the globe speaking on topics including DevOps, Docker, Observability, and Culture Transformation at conferences such as DockerCon, SREcon, Open Source Summit EU-US, Velocity and DevOpsDays including Tokyo and Houston."
     linkedin: "https://www.linkedin.com/in/notsureifkevin" 
-  - name: "Jason Wyckoff"
-    image: "jason-wyckoff.jpg"
-    bio: "Jason is a 20+ year technology veteran, primarily in the application-development-side in IT. His consulting and diverse industry resume helps Jason to apply patterns and solutions in unconventional ways. Though spending many of his years in the Microsoft ecosystem, he is not dogmatic in his approach --  it's all about the right solution for the problem. He is currently the Senior National Director, IT Products & Engineering at NFIB in Nashville -- building software to help small business thrive and grow."
-    website: "https://www.wyckoff.io"
-    github: "jwyckoff"
-    twitter: "jasonwyckoff"
-    linkedin: "https://www.linkedin.com/in/jwyckoff"
   - name: "Geoff Craig"
     image: "geoff-craig.jpg"
     twitter: "GeoffCraig74"
