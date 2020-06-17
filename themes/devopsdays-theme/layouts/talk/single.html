@@ -16,9 +16,10 @@
               </div>
             </div>
           </div>
+          <br />
         {{- end -}}
     {{- end -}}
-    <br />
+
 
     {{- if isset .Params "vimeo" -}}
       {{- if ne .Params.vimeo "" -}}
@@ -30,9 +31,10 @@
               </div>
             </div>
           </div>
+          <br />
         {{- end -}}
     {{- end -}}
-    <br />
+
 
     {{- if isset .Params "slideslive" -}}
       {{- if ne .Params.slideslive "" -}}
@@ -48,9 +50,10 @@
             </script>
           </div>
         </div>
+        <br />
       {{- end -}}
     {{- end -}}
-    <br />
+
 
       <span class="talk-page content-text">
         {{ .Content }}
