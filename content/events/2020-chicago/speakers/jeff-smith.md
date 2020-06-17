@@ -10,4 +10,4 @@ Jeff Smith has been in the technology industry for over 20 years, oscillating be
 
 Jeff is passionate about DevOps transformations in organizations large and small, with a particular interest in the psychological aspects of problems in companies. He lives in Chicago with his wife Stephanie and their two kids Ella and Xander.
 
-Jeff is currently writing a book Operational Anti-Patterns with DevOps Solutions with Manning publishing due out in Spring of 2020, but available now via their early access program. He‚Äôs also the chapter president of Blacks in Technology where he strives to introduce the community to the different opportunities in the technology field.
+Jeff is currently writing a book Operational Anti-Patterns with DevOps Solutions with Manning publishing due out in Spring of 2020, but available now via their early access program. He is also the chapter president of Blacks in Technology where he strives to introduce the community to the different opportunities in the technology field.
