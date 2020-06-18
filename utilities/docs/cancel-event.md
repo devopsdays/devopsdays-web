@@ -14,7 +14,7 @@ You need to make two changes to the `welcome.md` page.
 
 First, you will want to update the content to add a notice that you are canceling the event, along with any other information you want people to know (if you have details about refunds, rescheduling, etc)
 
-Secondly, you will want to add aliases so that the pages you deleted in the previous step will redirect to the "welcome" page, rather than a 404. Update the `aliases` section of the page to look like this (replace `2020-ponyville` with the appropriate year/city for your event, and add any sub-pages you have removed that are not in this list:)
+Secondly, you will want to add aliases so that the pages you deleted in the previous step will redirect to the "welcome" page, rather than a 404. Update the `aliases` section of the `welcome.md` page to look like this (replace `2020-ponyville` with the appropriate year/city for your event, and add any sub-pages you have removed that are not in this list:)
 
 ```yaml
 aliases = [

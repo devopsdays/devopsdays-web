@@ -55,7 +55,7 @@ Description = "devopsdays Medellín 2020"
             rel="noopener"
             target="_blank"
             class="btn btn-secondary btn-block"
-            href="https://www.ticketopolis.com/medellindevopsdays2020"   
+            href="https://www.ticketopolis.com/devopsdaysmdev2020"   
             style="background-color:#329cae; border-color:#72c1cd" onMouseOver="this.style.backgroundColor='#23738e'"
             onMouseOut="this.style.backgroundColor='#329cae'"
           >
