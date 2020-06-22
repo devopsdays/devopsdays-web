@@ -86,6 +86,8 @@ sponsors:
   - id: microsoft
     level: gold
   # Silver
+  - id: container-solutions
+    level: silver
   # Bronze
 
 # In this section, list the level of sponsorships and the label to use.
