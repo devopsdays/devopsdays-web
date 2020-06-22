@@ -6,41 +6,41 @@ description: "DevOpsDays está voltando para Goiânia!" # Edit this to suit your
 ga_tracking_id: "UA-139150829-2" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2020-MM-DD, like this:   variable: 2016-01-05
-startdate: #2020-09-12T08:00:00-03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: #2020-09-12T18:00:00-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2020-09-12T08:00:00-03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2020-09-19T18:00:00-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
+cfp_date_start: 2020-04-20T00:00:00-03:00 # start accepting talk proposals.
+cfp_date_end: 2020-08-20T23:59:59-03:00 # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
 
-cfp_open: "false"
-cfp_link: #"https://www.papercall.io/devopsdaysgyn2020" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_open: "true"
+cfp_link: "https://cfp.devopsdays.com.br/gyn2020/cfp" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start:  # start accepting registration. Leave blank if registration is not open yet
 registration_date_end:  # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: #"https://www.sympla.com.br/devopsdays-goiania-2020" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.sympla.com.br/devopsdays-goiania-2020__886928" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
 coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "" # Defaults to city, but you can make it the venue name.
+location: "ONLINE" # Defaults to city, but you can make it the venue name.
 location_address: "" # Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-# - name: Chamadas (CFP)
-#   icon: "paper-plane-o"
-#   url: /events/2020-goiania/cfp
+- name: Chamadas (CFP)
+  icon: "paper-plane-o"
+  url: /events/2020-goiania/cfp
 
 # - name: local
 #   icon: "map-o"
 #   url: /events/2020-goiania/local
 
-# - name: inscrições
-#   icon: "ticket"
-#   url: /events/2020-goiania/registration
+- name: inscrições
+  icon: "ticket"
+  url: /events/2020-goiania/inscricao
 
 # - name: programação
 #   icon: "calendar"
@@ -50,16 +50,16 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #   icon: "microphone"
 #   url: /events/2020-goiania/speakers
 
- - name: patrocínio
-   icon: "money"
-   url: /events/2020-goiania/patrocinio
+- name: patrocínio
+  icon: "money"
+  url: /events/2020-goiania/patrocinio
 
- - name: código de conduta
-   icon: "handshake-o"
-   url: /events/2020-goiania/conduta
-   
- - name: contato
-   icon: "envelope-o"
+- name: código de conduta
+  icon: "handshake-o"
+  url: /events/2020-goiania/conduta
+  
+- name: contato
+  icon: "envelope-o"
 
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
@@ -123,7 +123,7 @@ sponsors:
     level: community
   - id: docker-goiania
     level: community
-  #- id: gdg-goiania
+  - id: gdg-goiania
     level: community
   - id: override
     level: community
