@@ -1,0 +1,210 @@
+{{ define "main" }}
+{{- $event_year := (index (split (.File.Dir) "/") 1) -}}
+{{- $event_city := (index (split (.File.Dir) "/") 2) -}}
+{{- $event_data := .Site.GetPage (printf "/new-events/%s/%s" $event_year $event_city) -}}
+
+<div class = "row">
+    <div class = "col-md-5 offset-md-1">
+        <h2 class="talk-page">{{ .Title }}</h2>
+        {{- if isset .Params "youtube" -}}
+            {{- if ne .Params.youtube "" -}}
+                <div class="row">
+                    <div class="col-md-12 youtube-video">
+                        <div class="embed-responsive embed-responsive-16by9">
+                            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/{{ .Params.youtube }}">
+                            </iframe>
+                        </div>
+                     </div>
+                </div>
+                <br />
+            {{- end -}}
+        {{- end -}}
+      
+  
+        {{- if isset .Params "vimeo" -}}
+            {{- if ne .Params.vimeo "" -}}
+                <div class="row">
+                    <div class="col-md-12 vimeo-video">
+                        <div class="embed-responsive embed-responsive-16by9">
+                            <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/{{ .Params.vimeo }}">
+                            </iframe>
+                        </div>
+                    </div>
+                </div>
+                 <br />
+          {{- end -}}
+        {{- end -}}
+  
+        {{- if isset .Params "slideslive" -}}
+            {{- if ne .Params.slideslive "" -}}
+                <div class = "row">
+                    <div class = "col">
+                        <div id="presentation-embed-{{ .Params.slideslive }}"></div>
+                        <script src='https://slideslive.com/embed_presentation.js'></script>
+                        <script>
+                            embed = new SlidesLiveEmbed('presentation-embed-{{ .Params.slideslive }}', {
+                                presentationId: '{{ .Params.slideslive }}',
+                                autoPlay: false // change to true to autoplay the embedded presentation
+                            });
+                        </script>
+                     </div>
+                </div>
+                <br />
+            {{- end -}}
+        {{- end -}}
+        <span class="talk-page content-text">
+            {{ .Content }}
+        </span>
+        {{- if isset .Params "slideshare" -}}
+            {{- if ne .Params.slideshare "" -}}
+                <div class = "row">
+                    <div class = "col">
+                        <h2 class="talk-page">Slideshare</h2>
+                        <a href="{{ .Params.slideshare }}" class="embed"></a>
+                    </div>
+                </div>
+            {{- end -}}
+        {{- end -}}
+
+        {{- if isset .Params "speakerdeck" -}}
+            {{- if ne .Params.speakerdeck "" -}}
+                <div class = "row">
+                    <div class = "col" style="max-width:100%">
+                        <h2 class="talk-page">Speakerdeck</h2>
+                        {{/* {{- $dataJ := getJSON "http://speakerdeck.com/oembed.json?url=" .Params.speakerdeck "&format=json" -}}
+                        {{ $dataJ.html | safeHTML }} */}}
+                        <a class="embedly-card" data-card-controls="0" href="{{.Params.speakerdeck}}">{{ .Title }}</a>
+                        <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+                    </div>
+                </div>
+            {{- end -}}
+        {{- end -}}
+
+        {{- if isset .Params "googleslides" -}}
+            {{- if ne .Params.googleslides "" -}}
+                <div class="row">
+                    <div class = "embed-responsive embed-responsive-16by9">
+                        <iframe src="https://docs.google.com/presentation/d/{{ .Params.googleslides }}/embed?start=false&loop=false" allowfullscreen="true">
+                        </iframe>
+                    </div>
+                </div>
+            {{- end -}}
+        {{- end -}}
+
+        {{- if isset .Params "pdf" -}}
+            {{- if ne .Params.pdf "" -}}
+                <div class="row">
+                    <div class = "col" style="max-width:100%">
+                        <div>
+                            <object data="{{.Params.pdf}}" type="application/pdf" width="600" height="400">
+                                alt : <a href="{{.Params.pdf}}">{{ .Title }}</a>
+                            </object>
+                        </div> 
+                    </div>
+                </div>
+            {{- end -}}
+        {{- end -}}
+
+        {{- if isset .Params "notist" -}}
+            {{- if ne .Params.notist "" -}}
+                <div class = "row">
+                    <div class = "col">
+                        <p data-notist="{{ .Params.notist }}">View <a href="https://noti.st/{{ .Params.notist }}">{{ .Title }}</a> on Notist.</p><script async src="https://on.notist.cloud/embed/002.js"></script>
+                    </div>
+                 </div>
+             {{- end -}}
+        {{- end -}}
+
+        {{- if isset .Params "slides" -}}
+            {{- if ne .Params.slides "" -}}
+                <div class = "row">
+                    <div class = "col">
+                        <h2 class="talk-page">Slides</h2>
+                        <a href = "{{ .Params.slides }}">Link to Slides</a>
+                    </div>
+                </div>
+            {{- end -}}
+        {{- end -}}
+        
+    </div>
+
+    <div class = "col-md-3 offset-md-1">
+        {{- if isset .Params "speakers" -}}
+            {{- if ne .Params.speakers "" -}}
+                {{- if gt (.Params.speakers | len) 1 -}}
+                    <h2 class="talk-page">Speakers</h2>
+                {{- else -}}
+                    <h2 class="talk-page">Speaker</h2>
+                {{- end -}}
+            {{- end -}}
+            {{- range .Params.speakers -}}
+                {{- $p := $.Site.GetPage (printf "new-events/%s/%s/speakers/%s" $event_year $event_city .) -}}
+                {{- with $p -}}
+                    {{ $speaker_name := .Title }}
+                    {{- with .Params.image -}}
+                        {{- if ne . "" -}}
+                            <img src = "{{ (printf "/events/%s/%s/speakers/%s" $event_year $event_city .) }}" class="img-fluid" alt="{{ $speaker_name }}"/><br /><br />
+                        {{- else -}}
+                            <img src = "{{"/img/speaker-default.jpg" }}" class="img-fluid"  alt="{{ $speaker_name }}"/><br /><br />
+                        {{- end -}}
+                    {{- else -}}
+                        <img src = "{{"/img/speaker-default.jpg" }}" class="img-fluid"  alt="{{ $speaker_name }}"/><br /><br />
+                    {{- end -}}
+                    <h4 class="talk-page">
+                        <a href = "{{ (printf "/new-events/%s/%s/speakers/%s" $event_year $event_city .File.BaseFileName) }}">
+                            {{ .Title }}
+                        </a>
+                    </h4>
+                    {{- if isset .Params "twitter" -}}
+                        {{- if ne .Params.twitter "" -}}
+                            <a href = "https://twitter.com/{{ .Params.twitter }}"><i class="fa fa-twitter fa-2x" aria-hidden="true"></i>&nbsp;</a>
+                        {{- end -}}
+                    {{- end -}}
+                    {{- if isset .Params "website" -}}
+                        {{- if ne .Params.website "" -}}
+                            <a href = "{{ .Params.website }}"><i class="fa fa-home fa-2x" aria-hidden="true"></i>&nbsp;</a>
+                        {{- end -}}
+                    {{- end -}}
+                    {{- if isset .Params "facebook" -}}
+                        {{- if ne .Params.facebook "" -}}
+                            <a href = "{{ .Params.facebook }}"><i class="fa fa-facebook-official fa-2x" aria-hidden="true"></i>&nbsp;</a>
+                        {{- end -}}
+                    {{- end -}}
+                    {{- if isset .Params "linkedin" -}}
+                        {{- if ne .Params.linkedin "" -}}
+                            <a href = "{{ .Params.linkedin }}"><i class="fa fa-linkedin fa-2x" aria-hidden="true"></i>&nbsp;</a>
+                        {{- end -}}
+                    {{- end -}}
+                    {{- if isset .Params "github" -}}
+                        {{- if ne .Params.github "" -}}
+                            <a href = "https://github.com/{{ .Params.github }}"><i class="fa fa-github fa-2x" aria-hidden="true"></i>&nbsp;</a>
+                        {{- end -}}
+                    {{- end -}}
+                    {{- if isset .Params "pronouns" -}}
+                        {{- if ne .Params.pronouns "" -}}
+                            <a href = "https://pronoun.is/{{ .Params.pronouns }}"><i class="fa fa-user fa-2x" aria-hidden="true"></i>&nbsp;</a>
+                        {{- end -}}
+                    {{- end -}}
+                    <br />
+                    <span class="talk-page content-text">
+                        {{- if ge (countrunes .Content ) 200 -}}
+                          {{ .Content | markdownify | truncate 200 " "}}<a href = "{{ .Permalink }}">...</a>
+                        {{- else -}}
+                          {{ .Content | markdownify }}
+                        {{- end -}}
+                    </span>
+                {{- end -}}
+            {{- end -}}
+
+
+
+        {{- end -}}
+    </div>
+
+</div>
+
+
+
+{{- partial "new-sponsors.html" . -}}
+
+{{ end }}

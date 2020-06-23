@@ -1,0 +1,25 @@
+{{- $event_year := (index (split (.File.Dir) "/") 1) -}}
+{{- $event_city := (index (split (.File.Dir) "/") 2) -}}
+{{- $event_data := .Site.GetPage (printf "/new-events/%s/%s" $event_year $event_city) -}}
+
+<nav class="navbar event-navigation navbar-expand-md navbar-light">
+  <a href="{{ (printf "/new-events/%s/%s" $event_year $event_city) }}" class="nav-link">{{ $event_city }}</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar2">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="navbar-collapse collapse" id="navbar2">
+      <ul class="navbar-nav">
+          {{ range $event_data.Params.navigation }}
+            <li class="nav-item active">
+              {{ $element := .name }}
+              {{ with .url }}
+                <a class="nav-link" href="{{ . }}">{{ $element }}</a>
+              {{ else }}
+                <a class="nav-link" href="{{(printf "%s/%s" (printf "/new-events/%s/%s" $event_year $event_city) $element )}}">{{ $element }}</a>
+              {{ end }}
+            </li>
+          {{ end }}
+      </ul>
+  </div>
+</nav>
+

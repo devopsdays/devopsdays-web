@@ -1,0 +1,78 @@
+{{ define "main" }}
+{{- $event_year := (index (split (.File.Dir) "/") 1) -}}
+{{- $event_city := (index (split (.File.Dir) "/") 2) -}}
+{{- $event_data := .Site.GetPage (printf "/new-events/%s/%s" $event_year $event_city) -}}
+{{- $organizers := .Site.GetPage (printf "/new-events/%s/%s/organizers" $event_year $event_city) -}}
+
+<div class="row">
+    <div class="col-md-12 content-text">
+
+<h1>devopsdays {{ $event_data.Params.City }} - {{ .Title }}</h1>
+
+{{- with $event_data.Params.organizer_email -}}
+    <p>
+        If you'd like to contact us by email: <a href="mailto:{{ . }}">{{ . }}</a>
+    </p>
+{{- end -}}
+
+<b>Our local team</b><br/><br/>
+<!-- need to put in a check to see if there are any resources here -->
+<div class="row" style="width:100%">
+
+    {{- range $organizers.Resources.Match "*.md" -}}
+        <div class="col-xl-3 col-lg-4 col-md-6 organizer-card">
+            <div class = "card h-100" style="max-width: 300px;padding-left:0px;padding-right:0px">
+                <div class = "card-header">
+                    <h3>{{ .Title }}</h3>
+                    {{- with .Params.Role -}}
+                        <h4>{{ . }}</h4>
+                    {{- else -}}
+                        <h4>Organizer</h4>
+                    {{- end -}}
+                </div>
+                {{- with .Params.Image -}}
+                    <img class="card-img-top organizer-image" src="{{ (printf "/events/%s/%s/organizers/%s" $event_year $event_city .) }}" alt="ORGANIZER NAME"> <!-- add the title as the alt-->
+                {{- end -}}
+                <div class = "card-block">
+                    {{- with .Params.Employer -}}
+                        <h6 class="card-subtitle mb-2 text-muted">{{ . }}</h6>
+                    {{- end -}}
+                    <p class = "card-text">
+                        {{ .Content}}
+                    </p>
+                    {{- with .Params.Twitter -}}
+                        <a href="https://twitter.com/{{ . }}" class="card-link"><i class="fa fa-twitter fa-2x" aria-hidden="true"></i></a>&nbsp;
+                    {{- end -}}
+                    {{- with .Params.Website -}}
+                        <a href = "{{ . }}"><i class="fa fa-home fa-2x" aria-hidden="true"></i></a>&nbsp;
+                    {{- end -}}
+                    {{- with .Params.Facebook -}}
+                        <a href = "{{ . }}"><i class="fa fa-facebook-official fa-2x" aria-hidden="true"></i></a>&nbsp;
+                    {{- end -}}
+                    {{- with .Params.LinkedIn -}}
+                        <a href = "{{ . }}"><i class="fa fa-linkedin fa-2x" aria-hidden="true"></i></a>&nbsp;
+                    {{- end -}}
+                    {{- with .Params.GitHub -}}
+                        <a href = "https://github.com/{{ . }}"><i class="fa fa-github fa-2x" aria-hidden="true"></i></a>&nbsp;
+                    {{- end -}}
+                    {{- with .Params.Gitlab -}}
+                        <a href = "https://gitlab.com/{{ .}}"><i class="fa fa-gitlab fa-2x" aria-hidden="true"></i></a>&nbsp;
+                    {{- end -}}
+                </div>
+            </div>
+
+        </div>
+    {{- end -}}
+
+</div>
+
+<p>
+    <em>The global <a href="/about/">core organizers</a> support local teams.</em>
+</p>
+
+
+{{ partial "new-sponsors.html" . }}
+
+</div>
+</div>
+{{ end }}

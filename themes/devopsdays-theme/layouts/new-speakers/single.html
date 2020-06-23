@@ -1,0 +1,37 @@
+{{ define "main" }}
+    {{- $event_year := (index (split (.File.Dir) "/") 1) -}}
+    {{- $event_city := (index (split (.File.Dir) "/") 2) -}}
+    {{- $event_data := .Site.GetPage (printf "/new-events/%s/%s" $event_year $event_city) -}}
+
+
+    {{- $directory := (printf "new-events/%s/%s/speakers/" $event_year $event_city) -}}
+    {{- $.Scratch.Set "i" 1 -}}
+    <div class = "row">
+        {{- range where (where .Site.Pages "Type" "new-speaker") ".File.Dir" "eq" $directory -}}
+            <div class="col-lg-3 col-md-6">
+                <a href = "{{ .Permalink }}">
+                    {{ $title := .Title }}
+                    {{- with .Params.image -}}
+                        {{- if ne . "" -}}
+                            <img src = "{{ (printf "/events/%s/%s/speakers/%s" $event_year $event_city .) }}" class="speakers-page" alt="{{ $title }}"/><br />
+                        {{- else -}}
+                            <img src = "{{"/img/speaker-default.jpg" }}" class="speakers-page"  alt="{{ $title }}"/><br />
+                        {{- end -}}
+                    {{- else -}}
+                        <img src = "{{"/img/speaker-default.jpg" }}" class="speakers-page"  alt="{{ $title }}"/><br />
+                    {{- end -}}
+                </a>
+                <h3 class="card-title speakers-page"><a href = "{{ .Permalink }}">{{ .Title }}</a></h3>
+
+            </div>
+            {{- if modBool ($.Scratch.Get "i") 4 -}}
+                </div>
+                <div class="row">
+            {{- end -}}
+            {{- $.Scratch.Add "i" 1 -}}
+        {{- end }}
+    </div>
+
+    {{ partial "new-sponsors.html" . }}
+
+{{ end }}

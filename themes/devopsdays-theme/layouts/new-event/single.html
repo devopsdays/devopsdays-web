@@ -1,0 +1,13 @@
+{{ define "main" }}
+{{- $event_year := (index (split (.File.Dir) "/") 1) -}}
+{{- $event_city := (index (split (.File.Dir) "/") 2) -}}
+{{- $event_data := .Site.GetPage (printf "/new-events/%s/%s" $event_year $event_city) -}}
+
+<div class="row">
+    <div class="col-md-12 content-text">
+        <h1>devopsdays {{ $event_data.Params.City }} - {{ .Title }}</h1>
+
+    </div>
+</div>
+
+{{ end }}

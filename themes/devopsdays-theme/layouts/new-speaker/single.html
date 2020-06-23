@@ -1,0 +1,107 @@
+{{ define "main" }}
+{{- $event_year := (index (split (.File.Dir) "/") 1) -}}
+{{- $event_city := (index (split (.File.Dir) "/") 2) -}}
+{{- $event_data := .Site.GetPage (printf "/new-events/%s/%s" $event_year $event_city) -}}
+{{- $speaker_slug := .File.BaseFileName}}
+{{- $speaker_name := .Title -}}
+
+<div class = "row">
+    <div class = "col-md-12 offset-md-1">
+        <h2 class="speaker-page">{{ .Title }}</h2>
+    </div>
+</div>
+
+<div class = "row">
+    <div class = "col-md-4 offset-md-1">
+      <span class="speaker-page content-text">
+      {{ .Content }}
+      </span>
+      <div class="speaker-bio-talks">
+        <h3>{{ .Title }} at {{ $event_city }} {{$event_year}}</h3>
+        <ul class="list-group">
+            {{- range where (where $.Site.Pages "Type" "new-talk") ".File.Dir" "=" (printf "new-events/%s/%s/program/" $event_year $event_city) -}}
+                {{- $talk_title := .Title -}}
+                {{- $talk_link := .Permalink -}}
+                {{- range .Params.speakers -}}
+                    {{- if eq . $speaker_slug -}}
+                        <a href = "{{ $talk_link }}" class= "list-group-item list-group-item-action">{{ $talk_title }}</a>
+                    {{- end -}}
+                {{- end -}}
+            {{- end -}}
+        </ul>
+      </div>
+    </div>
+
+
+    <div class = "col-md-3 offset-md-1">
+        {{- with .Params.image -}}
+        {{- if ne . "" -}}
+        <img src = "{{ (printf "/events/%s/%s/speakers/%s" $event_year $event_city .) }}" class="img-fluid" alt="{{ $speaker_name }}"/><br />
+        {{- end -}}
+        {{- else -}}
+        <img src = {{ "/img/speaker-default.jpg"}} class="img-fluid"  alt="{{ $speaker_name }}"/><br />
+        {{- end -}}
+        {{- if isset .Params "twitter" -}}
+            {{- if ne .Params.twitter "" -}}
+                <a href = "https://twitter.com/{{ .Params.twitter }}"><i class="fa fa-twitter fa-2x" aria-hidden="true"></i>
+                    {{- if $event_data.Params.speakers_verbose -}}
+                        @{{ .Params.twitter }}<br />
+                    {{- end -}}
+                 </a>
+            {{- end -}}
+        {{- end -}}
+        {{- if isset .Params "website" -}}
+            {{- if ne .Params.website "" -}}
+                <a href = "{{ .Params.website }}"><i class="fa fa-home fa-2x" aria-hidden="true"></i>&nbsp;
+                    {{- if $event_data.Params.speakers_verbose -}}
+                        {{ .Params.website }}<br />
+                    {{- end -}}
+                </a>
+            {{- end -}}
+        {{- end -}}
+        {{- if isset .Params "facebook" -}}
+            {{- if ne .Params.facebook "" -}}
+                <a href = "{{ .Params.facebook }}"><i class="fa fa-facebook-official fa-2x" aria-hidden="true"></i>&nbsp;
+                    {{- if $event_data.Params.speakers_verbose -}}
+                        {{ .Params.facebook }}<br />
+                    {{- end -}}
+                </a>
+            {{- end -}}
+        {{- end -}}
+        {{- if isset .Params "linkedin" -}}
+            {{- if ne .Params.linkedin "" -}}
+                <a href = "{{ .Params.linkedin }}"><i class="fa fa-linkedin fa-2x" aria-hidden="true"></i>&nbsp;
+                    {{- if $event_data.Params.speakers_verbose -}}
+                        {{ .Params.linkedin }}<br />
+                    {{- end -}}
+                </a>
+            {{- end -}}
+        {{- end -}}
+        {{- if isset .Params "github" -}}
+            {{- if ne .Params.github "" -}}
+                <a href = "https://github.com/{{ .Params.github }}"><i class="fa fa-github fa-2x" aria-hidden="true"></i>&nbsp;
+                    {{- if $event_data.Params.speakers_verbose -}}
+                        {{ .Params.github }}<br />
+                    {{- end -}}
+                </a>
+            {{- end -}}
+        {{- end -}}
+        {{- if isset .Params "pronouns" -}}
+            {{- if ne .Params.pronouns "" -}}
+                <a href = "https://pronoun.is/{{ .Params.pronouns }}"><i class="fa fa-user fa-2x" aria-hidden="true"></i>&nbsp;
+                    {{- if $event_data.Params.speakers_verbose -}}
+                        https://pronoun.is/{{ .Params.pronouns }}<br />
+                    {{- end -}}
+                </a>
+            {{- end -}}
+        {{- end -}}
+
+
+    </div>
+
+</div>  
+
+
+{{ partial "new-sponsors.html" . }}
+
+{{ end }}

@@ -1,0 +1,159 @@
+{{ define "main" }}
+{{- $event_year := (index (split (.File.Dir) "/") 1) -}}
+{{- $event_city := (index (split (.File.Dir) "/") 2) -}}
+{{- $event_data := .Site.GetPage (printf "/new-events/%s/%s" $event_year $event_city) -}}
+
+{{- $.Scratch.Set "contentdir" (printf "static/events/%s/%s/" $event_year $event_city) -}}
+
+{{- if $event_data.Params.masthead_background -}}
+  {{- if ne $event_data.Params.masthead_background "" -}}
+
+    <style>
+
+      .welcome-page-masthead {
+        background: #bfbfc1; /* For browsers that do not support gradients */
+        background: -webkit-linear-gradient(#0082AB, #bfbfc1); /* For Safari 5.1 to 6.0 */
+        background: -o-linear-gradient(#0082AB, #bfbfc1); /* For Opera 11.1 to 12.0 */
+        background: -moz-linear-gradient(#0082AB, #bfbfc1); /* For Firefox 3.6 to 15 */
+        background: linear-gradient(#0082AB, #bfbfc1); /* Standard syntax */
+        padding: 20px;
+        margin-bottom:20px;
+        margin-top:20px;
+        z-index: 1;
+      }
+      .welcome-page-masthead:before {
+        content: ' ';
+        display: block;
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        z-index: -1;
+        opacity: 0.2;
+        background-image: url('{{ (printf "/events/%s/%s/%s" $event_year $event_city $event_data.Params.masthead_background) }}');
+        background-repeat: no-repeat;
+        background-position: 50% 0;
+        -ms-background-size: cover;
+        -o-background-size: cover;
+        -moz-background-size: cover;
+        -webkit-background-size: cover;
+        background-size: cover;
+
+      }
+
+
+    </style>
+
+
+  {{- end -}}
+{{- end -}}
+
+<div class="row">
+    <div class="col-md-12">
+
+        <div class="row h-event">
+            <div class = "col-md-12 welcome-page-masthead">
+            <div class = "row">
+              <div class="col-xs-12 col-md-8">
+                <h1 class = "welcome-page p-name">devopsdays {{$event_data.Params.city}}</h1>
+                <a class="u-url" href="{{ .Permalink }}"></a>
+          
+              {{- if $event_data.Params.startdate -}}
+                {{- if or (ne (time $event_data.Params.startdate).Month (time $event_data.Params.enddate).Month) (ne (time $event_data.Params.startdate).Day (time $event_data.Params.enddate).Day) -}}
+                  
+                  
+                      <span class="welcome-page-date">
+                          {{- if eq (time $event_data.Params.startdate).Month (time $event_data.Params.enddate).Month -}}
+                              <time class="dt-start" datetime="{{ dateFormat "2006-01-02T15:04:05-0700" $event_data.Params.startdate }}">{{ dateFormat "January 2" $event_data.Params.startdate }}</time> - <time class="dt-end" datetime="{{ dateFormat "2006-01-02T15:04:05-0700" $event_data.Params.enddate }}">{{ dateFormat "2, 2006" $event_data.Params.enddate }}</time><br />
+                          {{- else -}}
+                              <time class="dt-start" datetime="{{ dateFormat "2006-01-02T15:04:05-0700" $event_data.Params.startdate }}">{{ dateFormat "Jan 2" $event_data.Params.startdate }}</time> - <time class="dt-end" datetime="{{ dateFormat "2006-01-02T15:04:05-0700" $event_data.Params.enddate }}">{{ dateFormat "Jan 2" $event_data.Params.enddate }}</time><br />
+                          {{- end -}}
+                      </span>
+                {{- else -}}
+                      <span class="welcome-page-date">
+                    <time class="dt-start" datetime="{{ dateFormat "2006-01-02T15:04:05-0700" $event_data.Params.startdate }}">{{ dateFormat "January 2, 2006" $event_data.Params.startdate }}</time><br />
+                      </span>
+                {{- end -}}
+              {{- end -}}
+          
+                  <br />
+          
+                  {{- if $event_data.Params.location -}}
+                    <span class = "welcome-page-masthead-venue{{ if not $event_data.Params.location_address }} p-location{{- end -}}">{{- $event_data.Params.location -}}</span>
+                    <br />
+                    {{- if $event_data.Params.location_address -}}
+                      <span><a href = "http://maps.google.com/?q={{$event_data.Params.location_address}}" class = "welcome-page-masthead-link p-location">{{ $event_data.Params.location_address }}</a></span>
+                                  <br />
+                    {{- end -}}
+                  {{- end -}}
+          
+                  {{- if $event_data.Params.description -}}
+                    <span class="e-summary">{{ $event_data.Params.description | markdownify }}</span>
+                     <br /><br />
+                  {{- end -}}
+        
+                  {{- if $event_data.Params.city -}}
+                    {{- if $event_data.Params.event_group -}}
+                      <i>Other {{ $event_data.Params.event_group }} Events</i><br />
+                      {{ $sorted := sort $.Site.Data.events "year" }}
+                      {{- range where $sorted "event_group" $event_data.Params.event_group -}}
+                          <a href = "{{(printf "/events/%s/" .name)}}" class="welcome-page-masthead-link">
+                            {{ .year }}
+                          </a> &nbsp;&nbsp;
+                      {{- end -}}
+                      {{ range sort (where (where .Site.Pages "Params.event_group" $event_data.Params.event_group) ".File.BaseFileName" "==" "_index") ".Params.year" }} 
+                        {{- if ne $event_year .Params.year -}}   
+                          <a href = "{{ .Permalink }}" class="welcome-page-masthead-link">
+                            {{ .Params.year }}
+                          </a> &nbsp;&nbsp;
+                        {{- end -}}
+                      {{- end -}}
+                      <br /><br />
+
+                    {{- else -}}
+                      <i>Other {{ $event_data.Params.city }} Events</i><br />
+                      {{ $sorted := sort $.Site.Data.events "year" }}
+                      {{- range where $sorted "city" $event_data.Params.city -}}
+                          <a href = "{{(printf "/events/%s/" .name)}}" class="welcome-page-masthead-link">
+                            {{ .year }}
+                          </a> &nbsp;&nbsp;
+                      {{- end -}}
+                      {{ range sort (where (where .Site.Pages "Params.city" $event_data.Params.city) ".File.BaseFileName" "==" "_index") ".Params.year" }} 
+                        {{- if ne $event_year .Params.year -}}   
+                          <a href = "{{ .Permalink }}" class="welcome-page-masthead-link">
+                            {{ .Params.year }}
+                          </a> &nbsp;&nbsp;
+                        {{- end -}}
+                      {{- end -}}
+                      <br /><br />
+                    {{- end -}}
+                  {{- end -}}
+
+
+                  
+          </div>
+          
+           <div class="col-xs-12 col-md-4">
+            {{- partial "events/new-cta.html" . -}}
+              </div>
+            </div>
+          </div>
+          </div>
+          <div class="row">
+            <div class="col-md-12 content-text">
+              {{ .Content }}
+            </div>
+          </div>
+          <!-- test sponsor nonsense-->
+          {{- partial "new-sponsors.html" . -}}
+              <!--sponsor test-->
+
+          <!-- end sponsor nonsense -->
+
+    </div>
+</div>
+
+
+
+{{ end }}
