@@ -8,10 +8,16 @@
   {{ if and (eq (index (split (.Permalink | relURL) "/") 1) "events") (ne .Type "events") }}
     {{- partial "events/event_navbar.html" . -}}
   {{ end }}
+  <!-- TEMPORARY NEW NAV THING-->
+
+  {{ if and (eq (index (split (.Permalink | relURL) "/") 1) "new-events") (ne .Type "events") }}
+    {{- partial "events/new_event_navbar.html" . -}}
+  {{ end }}
+  <!-- END NEW NAV THING-->
   <div class="container-fluid">
         <div class="row">
           {{- if .IsPage -}}
-            {{ if or (eq (index (split (.Permalink | relURL) "/") 1) "events") (eq .Type "events") }}
+            {{ if or (eq (index (split (.Permalink | relURL) "/") 1) "events") (eq .Type "events") (eq (index (split (.Permalink | relURL) "/") 1) "new-events")}}
               <div class="col-md-12">
                   {{- block "main" . }} {{- end -}}
               </div>
@@ -23,7 +29,7 @@
                   <a href = "{{ "/events" }}" class="left-nav-navs">Table of Contents</a><br />
                   {{- partial "toc.html" . -}}
                </div>
-	    {{- else -}}
+	          {{- else -}}
               <div class="col-md-8 order-md-12">
                   {{- block "main" . }} {{- end -}}
               </div>
@@ -32,6 +38,11 @@
                   {{- partial "future.html" . -}}
               </div>
             {{- end -}}
+            <!-- this else if is added for new stuff-->
+          {{- else if (eq (index (split (.Permalink | relURL) "/") 1) "new-events") -}}
+              <div class="col-md-12">
+                {{- block "main" . }} {{- end -}}
+              </div>
           {{- else -}}
             <div class="col-md-8 order-md-12">
                 {{- block "main" . }} {{- end -}}
