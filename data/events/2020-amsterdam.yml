@@ -77,14 +77,29 @@ organizer_email: "amsterdam@devopsdays.org" # Put your organizer email address h
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
-sponsors:
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors:
+  # Media
+  - id: helecloud
+    level: media
+  # Gold
+  - id: microsoft
+    level: gold
+  # Silver
+  - id: container-solutions
+    level: silver
+  # Bronze
+  - id: fullstaq
+    level: bronze
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: media
+    label: Media
+    max: "1"
   - id: gold
     label: Gold
     max: "3"

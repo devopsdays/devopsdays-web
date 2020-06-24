@@ -7,4 +7,4 @@ linktitle = "dave-van-herpen"
 
 +++
 
-Dave is an Independent Consultant, Coach, Trainer and is doing Agile & DevOps transformation at IMP/ACT - Van Herpen Impact Consultancy, since August 2019. Prior to that, Dave worked with companies like Heineken, Parkmobile and Alphabet, in his role as Principal Consultant DevOps and Agile Transformations at Quint Wellington Redwood. Before that, Dave was with Sogeti.
+Dave is an independent transformation consultant, who has supported companies like Heineken, BMW, Bosch, Rabobank and Emirates in their agile and DevOps journeys. In his current role as Head of Agile Center of Enablement, he accelerates the agile transformation at APG.
