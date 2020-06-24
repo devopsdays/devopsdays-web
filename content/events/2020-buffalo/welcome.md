@@ -11,24 +11,16 @@ Description = "devopsdays Buffalo 2020"
 
 <div style="text-align:left;">
 <h2>COVID-19 Statement from the Organizers of DevOps Days Buffalo</h2>
-<<<<<<< HEAD
 <p>Due to the current COVID-19 guidelines around local, national, and international travel, DevOpsDays Buffalo will be happening virtually this year, with the intent to return as a physical conference in the following years. We have been monitoring the situation throughout the past few months and decided that this is the best course of action in order to ensure the safety of our attendees &mdash; keeping that Buffalove going and making sure you all stay healthy!</p>
-=======
-<p>The organizers of DevOpsDays Buffalo are monitoring developments related to the coronavirus disease (COVID-19) outbreak and potential impact on local, national, and international travel in regard to our 2020 event.</p>
 
-<p>At this point, we are anticipating things will be resolved by the time the event arrives and we’re therefore planning to move forward with the event. We will continue to monitor events as they unfold and will update this page with additional information if it looks like there might be an impact to your favorite DevOps event.</p>
->>>>>>> 342e582afe283880bfead32e51d29463e659580b
 
 <p>For the most up-to-date information regarding the virus, please refer to the following Health Agencies:</p>
 <ul>
   <li><a href = 'https://www.cdc.gov/coronavirus/2019-ncov/index.html' target = _new>Center for Disease Control</a></li>
   <li><a href = 'http://www2.erie.gov/health/index.php?q=coronavirus' target = _new>Erie County Department of Health</a></li>
 </ul>
-<<<<<<< HEAD
 <p>Stay safe, and safeguard your toilet paper! We’ll see you in October!</p>
-=======
-<p>Stay safe, and safeguard your toilet paper! Hopefully, we’ll see you in September!</p>
->>>>>>> 342e582afe283880bfead32e51d29463e659580b
+
 </div>
 
 <div class = "row">
