@@ -165,7 +165,11 @@ sponsors:
   - id: exin
     level: silver
   - id: avanet
-    level: silver    
+    level: silver
+  - id: techandsolve
+    level: community
+
+
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
