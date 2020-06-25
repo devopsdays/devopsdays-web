@@ -52,13 +52,13 @@ Description = "Sponsor devopsdays Medellin 2020"
               <center>$ 1000</center>
             </td>
             <td>
+              <center>$ 2000</center>
+            </td>
+            <td>
               <center>$ 3000</center>
             </td>
             <td>
               <center>$ 5000</center>
-            </td>
-            <td>
-              <center>$ 8000</center>
             </td>
           </tr>
             <th scope="row">Conference ticket</th>
