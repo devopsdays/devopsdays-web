@@ -189,10 +189,10 @@ sponsors:
     url: "https://www.swisscom.ch/jobs/"
   - id: swiss-re
     level: gold
-  - id: platformsh
-    level: gold
   - id: roche
     level: gold
+  - id: cloudscalech
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
