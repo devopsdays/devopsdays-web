@@ -1,5 +1,5 @@
 +++
-title = "sponsor"
+title = "Sponsor"
 type = "event"
 description = "Interested in sponsoring DevOpsDays Chicago 2020? We greatly value sponsors for this open event."
 
