@@ -1,6 +1,6 @@
 +++
 Title = "Melanie Rieback"
-image = ""
+image = "melanie-rieback.png"
 type = "speaker"
 linktitle = "melanie-rieback"
 
