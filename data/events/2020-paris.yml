@@ -31,7 +31,7 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 coordinates: "48.895576, 2.388239" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Paris" # Defaults to city, but you can make it the venue name.
 #
-location_address: "Cité de sciences et de l'industrie, 75019 Paris, France" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose

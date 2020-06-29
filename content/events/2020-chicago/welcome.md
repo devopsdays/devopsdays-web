@@ -18,9 +18,6 @@ DevOpsDays Chicago brings development, operations, QA, InfoSec, management, and 
 <!-- <br><br>
 The format of DevOpsDays Chicago includes a single track of 30 minute talks in the morning of each day, followed by Ignite talks (5 minute lightning talks). We spend the rest of the afternoon in Open Spaces, which are considered a key portion of the event. -->
 <br><br>
-{{< cfp_dates >}}
-<br><br>
-
 <br><br>
 <b>Subscribe to our mailing list below to be the first to know more updates!</b>
 <div class = "row">
@@ -41,11 +38,11 @@ The format of DevOpsDays Chicago includes a single track of 30 minute talks in t
           <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Contact the Organizers
         </a>
       </div>
-      <div class = "d-flex p-2">
+      <!-- <div class = "d-flex p-2">
         <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://www.papercall.io/devopsdays-chicago-2020">
           <i class="fa fa-microphone fa-lg"></i>&nbsp;&nbsp;&nbsp;Propose a Talk
         </a>
-      </div>
+      </div> -->
     </div>
 
   <div class = "row">

@@ -33,7 +33,7 @@ fi
 [ -z "${year}" ] && year="$default_year"
 
 if [[ ! -z $DOD_CITY ]] ; then
-  city=$DOD_LUG_CITY
+  city=$DOD_CITY
 else
   read -p "Enter your city name: " city
 fi

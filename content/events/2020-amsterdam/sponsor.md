@@ -18,7 +18,7 @@ devopsdays is a conference organized by volunteers, and depends on sponsorships.
   
 | | Bronze | Silver | Gold 
 | --- | --- | --- | ---
-| | **1k** | **3k** | **6k**
+| | **€750** | **1.5k** | **3k**
 | Logo on website | x | x | x
 | Logo in emails | x | x | x |
 | Logo on shared break slide | x | | 
