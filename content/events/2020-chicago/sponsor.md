@@ -99,7 +99,7 @@ All sponsors will have their logo displayed on the DevOpsDays Chicago website, a
       <td></td>
     </tr>
     <tr>
-      <td>Recorded 3 min. pitch to play during a break</td>
+      <td>Recorded 3 minute pitch video to play during a break</td>
       <td><img src = "/events/2020-chicago/yak-head.png"></td>
       <td></td>
       <td></td>
