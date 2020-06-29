@@ -30,7 +30,7 @@ All sponsors will have their logo displayed on the DevOpsDays Chicago website, a
   </thead>
   <tbody>
     <tr>
-      <td>Price</td>
+      <td></td>
       <td>$5,000</td>
       <td>$3,000</td>
       <td>$1,000</td>
