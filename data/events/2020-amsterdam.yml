@@ -180,8 +180,8 @@ program:
     start_time: "13:30"
     end_time: "14:00"
     comments: "Business Track"
-  - title: "TBA"
-    type: custom
+  - title: "melanie-rieback"
+    type: talk
     date: 2020-07-09T00:00:00+02:00
     start_time: "13:30"
     end_time: "14:00"
