@@ -1,7 +1,7 @@
 +++
 Title = "Karen Sijbrandij"
 Twitter = "karensijbrandij"
-image = ""
+image = "karen-sijbrandij.png"
 type = "speaker"
 linktitle = "karen-sijbrandij"
 
