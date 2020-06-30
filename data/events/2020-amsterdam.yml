@@ -85,6 +85,8 @@ sponsors:
   # Gold
   - id: microsoft
     level: gold
+  - id: schubergphilis
+    level: gold
   # Silver
   - id: container-solutions
     level: silver
