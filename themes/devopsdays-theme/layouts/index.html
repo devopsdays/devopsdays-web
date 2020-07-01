@@ -1,52 +1,47 @@
 {{ define "main" }}
-
-
     {{- $.Scratch.Add "i" 1 -}}
-
-    <div class="row">
-        {{- range sort $.Site.Data.events "startdate" -}}
-            {{- if .startdate -}}
-                {{- if ne .cancel "true" -}}
-            <!-- Subtracting a day is a patch for https://github.com/devopsdays/devopsdays-theme/issues/656 -->
-                    {{- if ge (time .enddate) now -}}
-                    {{- $.Scratch.Set "city" .city -}}
-                    {{- $.Scratch.Set "year" .year -}}
-                    {{- $.Scratch.Set "logo" "unset" -}}
-                    <div class="col-md-3 homepage-grid-col">
-                        {{- $.Scratch.Set "subdir" .name -}}
-                        {{- $.Scratch.Set "contentdir" (printf "static/events/%s/" ($.Scratch.Get "subdir")) -}}
-                        {{- if (where (readDir "static/events") "Name" ($.Scratch.Get "subdir")) -}}
-                            {{- if (where (readDir ($.Scratch.Get "contentdir")) "Name" "logo-square.jpg") -}}
-                                <a href="{{ (printf "/events/%s" .name) }}"><img src="{{ (printf "/events/%s/logo-square.jpg" .name)  }}" class="img-fluid" alt="devopsdays {{ .city }}"/></a>
-                                {{- $.Scratch.Set "logo" "set" -}}
-                            {{- end -}}
-                        {{- end -}}
-                        {{- if ne ($.Scratch.Get "logo") "set" -}}
-                            <a href="{{ (printf "/events/%s" .name) }}"><img src="{{"/img/event-logo-square.jpg"  }}" class="img-fluid" alt="devopsdays {{ .city }}"/></a>
-                            {{- end -}}
-                            <br/>
-                {{- if or (ne (time .startdate).Month (time .enddate).Month) (ne (time .startdate).Day (time .enddate).Day) -}}
-                        <span class="homepage-grid-date">
-                        {{ dateFormat "Jan 2" .startdate }} - {{ dateFormat "2, 2006" .enddate }}<br />
-                        </span>
-                {{- else -}}
-                        <span class="homepage-grid-date">
-                    {{ dateFormat "Jan 2, 2006" .startdate }}<br />
-                        </span>
+    <div class = "row">
+        {{ range sort (where (where (where (where (where .Site.Pages "Type" "new-event") ".File.BaseFileName" "==" "_index") ".Params.startdate" "!=" nil) ".Params.enddate" "ge" now) ".Params.cancel" "ne" "true") ".Params.startdate" }} 
+            {{- $event_city := (index (split (.Permalink | relURL) "/") 3) -}}
+            {{- $event_year := (index (split (.Permalink | relURL) "/") 2) -}}
+            <div class = "col-md-3 homepage-grid-col">
+                {{- $.Scratch.Set "contentdir" (printf "static/events/%s/%s" $event_year $event_city) -}}
+                {{- if (where (readDir "static/events") "Name" $event_year) -}}
+                    {{- if (where (readDir (printf "static/events/%s" $event_year)) "Name" $event_city) -}}
+                    {{- if (where (readDir ($.Scratch.Get "contentdir")) "Name" "logo-square.jpg") -}}
+                        <a href="{{ (printf "/new-events/%s/%s" $event_year $event_city) }}">
+                            <img src="{{ (printf "/events/%s/%s/logo-square.jpg" $event_year $event_city) }}" class="img-fluid" alt="devopsdays {{ $event_city }}"/>
+                        </a>
+                    {{- else -}}
+                        <a href="{{ (printf "/new-events/%s/%s" $event_year $event_city) }}">
+                            <img src="/img/event-logo-square.jpg" class="img-fluid" alt="devopsdays {{ $event_city }}"/>
+                        </a>
+                    {{- end -}}
+                    {{- end -}}
                 {{- end -}}
-                    <span class="homepage-grid-city">
-                        <a href="{{ (printf "/events/%s" .name) }}">{{ .city }}</a>
+                {{- if or (ne (time .Params.startdate).Month (time .Params.enddate).Month) (ne (time .Params.startdate).Day (time .Params.enddate).Day) -}}
+                    <span class = "homepage-grid-date">
+                        {{ dateFormat "Jan 2" .Params.startdate }} - {{ dateFormat "2, 2006" .Params.enddate }}<br />
                     </span>
-                        </div>
-                        {{- if modBool ($.Scratch.Get "i") 4 -}}
-                    </div>
-                    <div class="row">
-                        {{- end -}}
-                        {{ $.Scratch.Add "i" 1 }}
-                        {{- end -}}
-                    {{- end -}}<!-- end cancel check-->
-                {{- end -}}<!-- end startdate check -->
-            {{- end -}} <!-- end range -->
-        </div>
-        <!-- <div id="share"></div> -->
+                {{- else -}}
+                    <span class = "homepage-grid-date">
+                        {{ dateFormat "Jan 2, 2006" .Params.startdate }}<br />
+                    </span>
+                {{- end -}}
+                <span class = "homepage-grid-city">
+                    <a href="{{ (printf "/new-events/%s/%s" $event_year $event_city) }}">
+                        {{ .Params.city }}
+                    </a>
+                </span>
+            </div>
+            {{- if modBool ($.Scratch.Get "i") 4 -}}
+                </div>
+                <div class = "row">
+            {{- end -}}
+            {{- $.Scratch.Add "i" 1 -}}
+    
+        {{ end }}
+
+    </div>
+
 {{- end -}}
