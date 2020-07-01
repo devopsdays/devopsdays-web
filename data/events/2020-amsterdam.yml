@@ -164,7 +164,7 @@ program:
     start_time: "13:00"
     end_time: "13:30"
     comments: "Business Track"
-  - title: "TBA"
+  - title: "irenne-zbarsky"
     type: custom
     date: 2020-07-09T00:00:00+02:00
     start_time: "13:00"
