@@ -96,13 +96,7 @@
                   {{- if $event_data.Params.city -}}
                     {{- if $event_data.Params.event_group -}}
                       <i>Other {{ $event_data.Params.event_group }} Events</i><br />
-                      {{ $sorted := sort $.Site.Data.events "year" }}
-                      {{- range where $sorted "event_group" $event_data.Params.event_group -}}
-                          <a href = "{{(printf "/events/%s/" .name)}}" class="welcome-page-masthead-link">
-                            {{ .year }}
-                          </a> &nbsp;&nbsp;
-                      {{- end -}}
-                      {{ range sort (where (where .Site.Pages "Params.event_group" $event_data.Params.event_group) ".File.BaseFileName" "==" "_index") ".Params.year" }} 
+                        {{ range sort (where (where .Site.Pages "Params.event_group" $event_data.Params.event_group) ".File.BaseFileName" "==" "_index") ".Params.year" }} 
                         {{- if ne $event_year .Params.year -}}   
                           <a href = "{{ .Permalink }}" class="welcome-page-masthead-link">
                             {{ .Params.year }}
@@ -113,13 +107,7 @@
 
                     {{- else -}}
                       <i>Other {{ $event_data.Params.city }} Events</i><br />
-                      {{ $sorted := sort $.Site.Data.events "year" }}
-                      {{- range where $sorted "city" $event_data.Params.city -}}
-                          <a href = "{{(printf "/events/%s/" .name)}}" class="welcome-page-masthead-link">
-                            {{ .year }}
-                          </a> &nbsp;&nbsp;
-                      {{- end -}}
-                      {{ range sort (where (where .Site.Pages "Params.city" $event_data.Params.city) ".File.BaseFileName" "==" "_index") ".Params.year" }} 
+                       {{ range sort (where (where .Site.Pages "Params.city" $event_data.Params.city) ".File.BaseFileName" "==" "_index") ".Params.year" }} 
                         {{- if ne $event_year .Params.year -}}   
                           <a href = "{{ .Permalink }}" class="welcome-page-masthead-link">
                             {{ .Params.year }}
