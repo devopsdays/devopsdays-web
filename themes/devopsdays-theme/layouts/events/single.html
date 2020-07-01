@@ -10,50 +10,50 @@
 </div>
 <div class = "row">
   {{- $.Scratch.Set "close-tag" "false" -}}
-{{- range sort $.Site.Data.events "startdate" -}}
-  {{- if .startdate -}}
-    {{- if ge (time .enddate) now -}}
-      {{- if ne ($.Scratch.Get "year") (dateFormat "2006" .startdate) -}}
-        {{- $.Scratch.Set "year" (dateFormat "2006" .startdate) -}}
-        {{- $.Scratch.Set "year-displayed" "false" -}}
-      {{- end -}}
-      {{- if ne ($.Scratch.Get "month") (dateFormat "January 2006" .startdate ) -}}
-        {{- $.Scratch.Set "month" (dateFormat "January 2006" .startdate ) -}}
-        {{- $.Scratch.Set "month-displayed" "false" -}}
-      {{- end -}}
-      {{- if ne ($.Scratch.Get "month-displayed") "true" -}}
-      {{- if eq ($.Scratch.Get "close-tag") "true"}}
+  {{- range sort (where (where (where (where (where .Site.Pages "Type" "new-event") ".File.BaseFileName" "==" "_index") ".Params.startdate" "!=" nil) ".Params.enddate" "ge" now) ".Params.cancel" "ne" "true") ".Params.startdate" -}}
+    {{- $event_city := (index (split (.Permalink | relURL) "/") 3) -}}
+    {{- $event_year := (index (split (.Permalink | relURL) "/") 2) -}}
+    {{- if ne ($.Scratch.Get "year") (dateFormat "2006" .Params.startdate) -}}
+      {{- $.Scratch.Set "year" (dateFormat "2006" .Params.startdate) -}}
+      {{- $.Scratch.Set "year-displayed" "false" -}}
+    {{- end -}}
+    {{- if ne ($.Scratch.Get "month") (dateFormat "January" .Params.startdate) -}}
+      {{- $.Scratch.Set "month" (dateFormat "January" .Params.startdate ) -}}
+      {{- $.Scratch.Set "month-displayed" "false" -}}
+    {{- end -}}
+    {{- if ne ($.Scratch.Get "month-displayed") "true" -}}
+      {{- if eq ($.Scratch.Get "close-tag") "true" -}} 
         </div>
       {{- end -}}
       <div class = "col-md-6 col-lg-3 events-page-col">
-        <h4 class="events-page-months">{{ dateFormat "January 2006" .startdate }}</h4>
+        <h4 class="events-page-months">{{ dateFormat "January 2006" .Params.startdate }}</h4>
         {{- $.Scratch.Set "month-displayed" "true" -}}
         {{- $.Scratch.Set "close-tag" "true" -}}
-      {{- end -}}
-      {{- if or (ne (time .startdate).Month (time .enddate).Month) (ne (time .startdate).Day (time .enddate).Day) -}}
-        <a href = "{{ (printf "/events/%s" .name) }}" class = "events-page-event">
-      {{ dateFormat "Jan 2" .startdate }} - {{ dateFormat "2" .enddate }}:
-      {{ .city }}
-        </a><br />
-      {{- else -}}
-      <a href = "{{ (printf "/events/%s" .name) }}" class = "events-page-event">
-        {{ dateFormat "Jan 2" .startdate }}:
-        {{ .city }}
+    {{- end -}}
+    {{- if or (ne (time .Params.startdate).Month (time .Params.enddate).Month) (ne (time .Params.startdate).Day (time .Params.enddate).Day) -}}
+      <a href = "{{ (printf "/new-events/%s/%s" $event_year $event_city ) }}" class = "events-page-event">
+        {{ dateFormat "Jan 2" .Params.startdate }} - {{ dateFormat "2" .Params.enddate }}:
+        {{ .Params.city }}
       </a><br />
-      {{- end -}}
+    {{- else -}}
+      <a href = "{{ (printf "/new-events/%s/%s" $event_year $event_city ) }}" class = "events-page-event">
+        {{ dateFormat "Jan 2" .Params.startdate }}:
+        {{ .Params.city }}
+      </a><br />
     {{- end -}}
   {{- end -}}
-{{- end -}}
-</div>
-<div class = "col-md-6 col-lg-3 events-page-col">
-<h4 class="events-page-months">TBD</h4>
-{{- range $.Site.Data.events -}}
-  {{- if not .startdate -}}
-    <a href = "{{ (printf "/events/%s" .name) }}" class = "events-page-event">{{ .city }}</a><br />
-  {{- end -}}
-{{- end -}}
-</div>
   </div>
+  <div class = "col-md-6 col-lg-3 events-page-col">
+    <h4 class = "events-page-months">TBD</h4>
+    {{- range where (where (where .Site.Pages "Type" "new-event") ".File.BaseFileName" "==" "_index") ".Params.startdate" "==" nil -}}
+      {{- $event_city := (index (split (.Permalink | relURL) "/") 3) -}}
+      {{- $event_year := (index (split (.Permalink | relURL) "/") 2) -}}
+      <a href = "{{ (printf "/new-events/%s/%s" $event_year $event_city ) }}" class = "events-page-event">
+        {{ .Params.city }}
+      </a><br />
+    {{- end -}}
+  </div>
+</div>
 {{- partial "past.html" . -}}
 
 {{ end }}
