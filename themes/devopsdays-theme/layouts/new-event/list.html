@@ -96,6 +96,7 @@
                   {{- if $event_data.Params.city -}}
                     {{- if $event_data.Params.event_group -}}
                       <i>Other {{ $event_data.Params.event_group }} Events</i><br />
+                      <!-- remember to update these queries to remove cancel events from the list-->
                         {{ range sort (where (where .Site.Pages "Params.event_group" $event_data.Params.event_group) ".File.BaseFileName" "==" "_index") ".Params.year" }} 
                         {{- if ne $event_year .Params.year -}}   
                           <a href = "{{ .Permalink }}" class="welcome-page-masthead-link">
@@ -107,6 +108,7 @@
 
                     {{- else -}}
                       <i>Other {{ $event_data.Params.city }} Events</i><br />
+                      <!-- remember to update these queries to remove cancel events from the list-->
                        {{ range sort (where (where .Site.Pages "Params.city" $event_data.Params.city) ".File.BaseFileName" "==" "_index") ".Params.year" }} 
                         {{- if ne $event_year .Params.year -}}   
                           <a href = "{{ .Permalink }}" class="welcome-page-masthead-link">
