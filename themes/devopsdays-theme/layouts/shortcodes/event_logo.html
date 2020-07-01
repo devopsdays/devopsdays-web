@@ -1,10 +1,29 @@
 {{- $e := (index $.Site.Data.events (index (split ($.Page.Permalink | relURL) "/") 2)) -}}
-{{- $.Scratch.Set "contentdir" (printf "static/events/%s/" $e.name) -}}
-{{- if (where (readDir "static/events") "Name" $e.name) -}}
-  {{- if (where (readDir ($.Scratch.Get "contentdir")) "Name" "logo.jpg") -}}
-    {{- $.Scratch.Set "logo" "logo.jpg" -}}
-  {{- else -}}
-    {{- $.Scratch.Set "logo" "logo.png" -}}
+{{- if $e -}}
+  {{- $.Scratch.Set "contentdir" (printf "static/events/%s/" $e.name) -}}
+  {{- if (where (readDir "static/events") "Name" $e.name) -}}
+    {{- if (where (readDir ($.Scratch.Get "contentdir")) "Name" "logo.jpg") -}}
+      {{- $.Scratch.Set "logo" "logo.jpg" -}}
+    {{- else -}}
+      {{- $.Scratch.Set "logo" "logo.png" -}}
+    {{- end -}}
+    <img alt="devopsdays {{ $e.city }} {{ $e.year }}" src="{{ (printf "/events/%s/%s" $e.name ($.Scratch.Get "logo")) }}" class="welcome-page-event-logo"/>
   {{- end -}}
-  <img alt="devopsdays {{ $e.city }} {{ $e.year }}" src="{{ (printf "/events/%s/%s" $e.name ($.Scratch.Get "logo")) }}" class="welcome-page-event-logo"/>
+{{- else -}}
+  {{- $event_year := (index (split ($.Page.Permalink | relURL) "/") 2) -}}
+  {{- $event_city := (index (split ($.Page.Permalink | relURL) "/") 3) -}}
+  {{- $event_homepage := (printf "/new-events/%s/%s" $event_year $event_city) -}}
+  {{- $event_data := .Site.GetPage $event_homepage -}}
+  {{- $.Scratch.Set "contentdir" (printf "static/events/%s/%s" $event_year $event_city) -}}
+  {{- if (where (readDir "static/events") "Name" $event_year) -}}
+    {{- if (where (readDir (printf "static/events/%s" $event_year)) "Name" $event_city) -}}
+      {{- if (where (readDir ($.Scratch.Get "contentdir")) "Name" "logo.jpg") -}}
+        {{- $.Scratch.Set "logo" "logo.jpg" -}}
+      {{- else -}}
+        {{- $.Scratch.Set "logo" "logo.png" -}}
+      {{- end -}}
+      <img alt="devopsdays {{ $event_city }} {{ $event_year }}" src="{{ (printf "/events/%s/%s/%s" $event_year $event_city ($.Scratch.Get "logo")) }}" class="welcome-page-event-logo"/>
+    {{- end -}}
+  {{- end -}}
+
 {{- end -}}
