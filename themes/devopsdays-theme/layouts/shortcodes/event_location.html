@@ -1,2 +1,10 @@
 {{- $e := (index $.Site.Data.events (index (split ($.Page.Permalink | relURL) "/") 2)) -}}
-<a href = "{{ (printf "/events/%s/location" $e.name) }}">{{$e.location}}</a>
+{{- if $e -}}
+    <a href = "{{ (printf "/events/%s/location" $e.name) }}">{{$e.location}}</a>
+{{- else -}}
+    {{- $event_year := (index (split ($.Page.Permalink | relURL) "/") 2) -}}
+    {{- $event_city := (index (split ($.Page.Permalink | relURL) "/") 3) -}}
+    {{- $event_homepage := (printf "/new-events/%s/%s" $event_year $event_city) -}}
+    {{- $event_data := .Site.GetPage $event_homepage -}}
+    <a href = "{{ (printf "%s/location" $event_homepage) }}">{{$event_data.Params.location}}</a>
+{{- end -}}
