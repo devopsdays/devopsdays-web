@@ -1,5 +1,17 @@
 {{- $e := (index $.Site.Data.events (index (split ($.Page.Permalink | relURL) "/") 2)) -}}
-{{- $coords := split $e.coordinates "," -}}
+{{- if $e -}}
+  {{- $.Scratch.Set "coordinates" $e.coordinates -}}
+{{- else -}}
+  {{- $event_year := (index (split ($.Page.Permalink | relURL) "/") 2) -}}
+  {{- $event_city := (index (split ($.Page.Permalink | relURL) "/") 3) -}}
+  {{- $event_homepage := (printf "/new-events/%s/%s" $event_year $event_city) -}}
+  {{- $event_data := .Site.GetPage $event_homepage -}}
+  {{- with $event_data.Params.coordinates -}}
+    {{- $.Scratch.Set "coordinates" . -}}
+  {{- end -}}
+
+{{- end -}}
+{{- $coords := split ($.Scratch.Get "coordinates") "," -}}
 {{- $lat := index $coords 0 -}}
 {{- $lng := index $coords 1 -}}
 
