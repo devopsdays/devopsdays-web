@@ -1,0 +1,106 @@
+{{ define "main" }}
+    {{- $event_year := (index (split (.File.Dir) "/") 1) -}}
+    {{- $event_city := (index (split (.File.Dir) "/") 2) -}}
+    {{- $event_data := .Site.GetPage (printf "/new-events/%s/%s" $event_year $event_city) -}}
+    {{- $directory := (printf "new-events/%s/%s/program/" $event_year $event_city) -}}
+    {{- with .Params.icons -}}
+        {{- $.Scratch.Set "icons" (. | upper ) -}}
+    {{- end -}}
+
+    <h2>Program</h2>
+
+    {{ .Content }}
+
+    <div class = "row">
+        <div class = "col">
+            <div id="accordion" role="tablist" aria-multiselectable="true">
+    {{- $.Scratch.Set "close-tag" "false" -}}
+    {{- range .Params.program_elements -}}
+        {{- if ne ($.Scratch.Get "item-date") (dateFormat "January 2, 2006" .start) -}}
+            {{- $.Scratch.Set "item-date" (dateFormat "January 2, 2006" .start) -}}
+            {{- $.Scratch.Set "display-date-header" "true" -}}
+        {{- else -}}
+            {{- $.Scratch.Set "display-date-header" "false" -}}
+        {{- end -}}
+        {{- if eq ($.Scratch.Get "display-date-header") "true" -}}
+            {{- if eq ($.Scratch.Get "close-tag") "true"}}
+                <!-- close divs-->
+                            </div>
+  
+            {{- end -}}
+
+                        <div class = "card">
+                            <div class="card-header" role="tab" id="{{printf "headingOne-%s" (dateFormat "January 2, 2006" .start) }}">
+                                <h5 class = "mb0">
+                                    {{- (dateFormat "January 2, 2006" .start) -}}
+                                </h5>
+                            </div>
+        {{- end -}}
+                            <div class = "card-block">
+                                <div class = "row">
+                                    <div class = "col-lg-6">
+                                        <div class = "row program-row">
+                                            <div class = "col-lg-3 col-md-3 program-element {{ printf "program-%s" .type }}">
+                                                {{ dateFormat "15:04" .start}}
+                                                -
+                                                {{ dateFormat "15:04" .end}}
+                                            </div>
+                                            <div class = "col-lg-8 col-md-3 program-element {{ printf "program-%s" .type }}">
+                                                {{- if eq .type "custom" -}}
+                                                    {{ .title }}<br />
+                                                {{- end -}}
+                                                {{- if or (eq .type "talk") (eq .type "workshop") -}}
+                                                <!-- find the talk! -->
+                                                    {{- $talk := ($.Site.GetPage (printf "/%s%s" $directory .title)) -}}
+                                                    <a href = "{{ $talk.Permalink }}">
+                                                        {{- $speaker_len := ($talk.Params.speakers | len) -}}
+                                                        {{- $.Scratch.Set "speaker_count" 0 -}}
+                                                        {{- range $talk.Params.speakers -}}
+                                                            {{- $.Scratch.Set "speaker_count" (add ($.Scratch.Get "speaker_count") 1) -}}
+                                                            {{- $speaker := ($.Site.GetPage (printf "/new-events/%s/%s/speakers/%s" $event_year $event_city .)) -}}
+                                                            {{ $speaker.Title }}
+                                                            {{- if ne ($.Scratch.Get "speaker_count") $speaker_len -}}
+                                                                ,&nbsp;
+                                                            {{- end -}}
+
+
+                                                        {{- end -}}
+                                                    
+                                                        &nbsp;-&nbsp;{{- $talk.Title -}}
+                                                    </a>
+                                                    <br/>
+                                                    {{- if eq ($.Scratch.Get "icons") "TRUE" -}}
+                                                        {{- with $talk.Params.vimeo -}}
+                                                            &nbsp;<a href = "https://player.vimeo.com/video/{{ . }}">
+                                                                <i class="fa fa-video-camera" aria-hidden="true"></i>
+                                                            </a>&nbsp;
+                                                        {{- end -}}
+                                                        {{- with $talk.Params.youtube -}}
+                                                            &nbsp;<a href = "https://www.youtube.com/embed/{{ . }}">
+                                                                <i class="fa fa-video-camera" aria-hidden="true"></i>
+                                                            </a>&nbsp;
+                                                        {{- end -}}
+
+
+
+                                                    {{- end -}}
+
+
+
+
+                                                {{- end -}}
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- begin display date header closing tags-->
+
+            <!-- end display date header closing-->
+
+    {{- end -}}
+</div>
+</div>
+</div>
+
+{{ end }}
