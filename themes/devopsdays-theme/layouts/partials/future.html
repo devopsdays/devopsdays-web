@@ -1,51 +1,51 @@
-{{- range sort $.Site.Data.events "startdate" -}}
-  {{- if .startdate -}}
-  {{- if ne .cancel "true" -}}
-    {{- if ge (time .enddate) now -}}
-      {{- if ne ($.Scratch.Get "year") (dateFormat "2006" .startdate) -}}
-        {{- $.Scratch.Set "year" (dateFormat "2006" .startdate) -}}
-        {{- $.Scratch.Set "year-displayed" "false" -}}
-      {{- end -}}
-      {{- if ne ($.Scratch.Get "month") (dateFormat "January" .startdate ) -}}
-        {{- $.Scratch.Set "month" (dateFormat "January" .startdate ) -}}
-        {{- $.Scratch.Set "month-displayed" "false" -}}
+{{- range sort (where (where (where (where (where .Site.Pages "Type" "new-event") ".File.BaseFileName" "==" "_index") ".Params.startdate" "!=" nil) ".Params.enddate" "ge" now) ".Params.cancel" "ne" "true") ".Params.startdate" -}} 
+  {{- $event_city := (index (split (.Permalink | relURL) "/") 3) -}}
+  {{- $event_year := (index (split (.Permalink | relURL) "/") 2) -}}
+  {{- if ne ($.Scratch.Get "year") (dateFormat "2006" .Params.startdate) -}}
+    {{- $.Scratch.Set "year" (dateFormat "2006" .Params.startdate) -}}
+    {{- $.Scratch.Set "year-displayed" "false" -}}
+  {{- end -}}
+  {{- if ne ($.Scratch.Get "month") (dateFormat "January" .Params.startdate) -}}
+    {{- $.Scratch.Set "month" (dateFormat "January" .Params.startdate ) -}}
+    {{- $.Scratch.Set "month-displayed" "false" -}}
+    <!-- does this br need to be here??-->
+    <br />
+  {{- end -}}
+  {{- if ne ($.Scratch.Get "year-displayed") "true" -}}
+    <h3 class="left-nav-year">{{ dateFormat "2006" .Params.startdate }}</h3>
+    {{- $.Scratch.Set "year-displayed" "true" -}}
+  {{- end -}}
+  {{- if ne ($.Scratch.Get "month-displayed") "true" -}}
+    <h4 class="left-nav-months">{{ dateFormat "January" .Params.startdate }}</h4>
+    {{- $.Scratch.Set "month-displayed" "true" -}}
+  {{- end -}}
+  {{- if or (ne (time .Params.startdate).Month (time .Params.enddate).Month) (ne (time .Params.startdate).Day (time .Params.enddate).Day) -}}
+    {{- if eq (time .Params.startdate).Month (time .Params.enddate).Month -}}
+      <a href = "{{ (printf "/new-events/%s/%s" $event_year $event_city ) }}" class = "left-nav-event">
+        {{ dateFormat "Jan 2" .Params.startdate }} - {{ dateFormat "2" .Params.enddate }}:
+        {{ .Params.city }}
+      </a><br />
+    {{- else -}}
+      <a href = "{{ (printf "/new-events/%s/%s" $event_year $event_city ) }}" class = "left-nav-event">
+        {{ dateFormat "Jan 2" .Params.startdate }} - {{ dateFormat "Jan 2" .Params.enddate }}:
+        {{ .Params.city }}
+      </a><br />
+    {{- end -}}
+  {{- else -}}
+    <a href = "{{ (printf "/new-events/%s/%s" $event_year $event_city ) }}" class = "left-nav-event">
+      {{ dateFormat "Jan 2" .Params.startdate }}:
+      {{ .Params.city }}
+    </a><br />
+  {{- end -}}
+{{- end -}}<!-- end range of events with dates, etc-->
 <br />
-      {{- end -}}
-      {{- if ne ($.Scratch.Get "year-displayed") "true" -}}
-        <h3 class="left-nav-year">{{ dateFormat "2006" .startdate }}</h3>
-        {{- $.Scratch.Set "year-displayed" "true" -}}
-      {{- end -}}
-      {{- if ne ($.Scratch.Get "month-displayed") "true" -}}
-        <h4 class="left-nav-months">{{ dateFormat "January" .startdate }}</h4>
-        {{- $.Scratch.Set "month-displayed" "true" -}}
-      {{- end -}}
-      {{- if or (ne (time .startdate).Month (time .enddate).Month) (ne (time .startdate).Day (time .enddate).Day) -}}
-        {{- if eq (time .startdate).Month (time .enddate).Month -}}
-          <a href = "{{ (printf "/events/%s" .name ) }}" class = "left-nav-event">
-        {{ dateFormat "Jan 2" .startdate }} - {{ dateFormat "2" .enddate }}:
-        {{ .city }}
-          </a><br />
-        {{- else -}}
-      <a href = "{{ (printf "/events/%s" .name) }}" class = "left-nav-event">
-        {{ dateFormat "Jan 2" .startdate }} - {{ dateFormat "Jan 2" .enddate }}:
-        {{ .city }}
-      </a><br />
-        {{- end -}}
-      {{- else -}}
-      <a href = "{{ (printf "/events/%s" .name) }}" class = "left-nav-event">
-        {{ dateFormat "Jan 2" .startdate }}:
-        {{ .city }}
-      </a><br />
-      {{- end -}}
-    {{- end -}}
-    {{- end -}}
-  {{- end -}}
-{{- end -}}
 <h3 class="left-nav-year">TBD</h3>
-{{- range $.Site.Data.events -}}
-  {{- if not .startdate -}}
-    {{- if ne .cancel "true" -}}
-      <a href = "{{ (printf "/events/%s" .name) }}" class = "left-nav-event">{{ .city }}</a><br />
-    {{- end -}}
-  {{- end -}}
+
+{{- range where (where (where .Site.Pages "Type" "new-event") ".File.BaseFileName" "==" "_index") ".Params.startdate" "==" nil -}}
+  {{- $event_city := (index (split (.Permalink | relURL) "/") 3) -}}
+  {{- $event_year := (index (split (.Permalink | relURL) "/") 2) -}}
+  <a href = "{{ (printf "/new-events/%s/%s" $event_year $event_city ) }}" class = "left-nav-event">
+    {{ .Params.city }}
+  </a><br />
 {{- end -}}
+
