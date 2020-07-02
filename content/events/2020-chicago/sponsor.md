@@ -118,7 +118,7 @@ All sponsors will have their logo displayed on the DevOpsDays Chicago website, a
       <td></td>
     </tr>
     <tr>
-      <td>3 pre-written Slack messages inmain Slack channel</td>
+      <td>3 pre-written Slack messages in main Slack channel</td>
       <td><img src = "/events/2020-chicago/yak-head.png"></td>
       <td></td>
       <td></td>
@@ -133,6 +133,13 @@ All sponsors will have their logo displayed on the DevOpsDays Chicago website, a
     </tr>
     <tr>
       <td>1 social media shout-out before and during event</td>
+      <td></td>
+      <td><img src = "/events/2020-chicago/yak-head.png"></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>1 pre-written Slack message in main Slack channel</td>
       <td></td>
       <td><img src = "/events/2020-chicago/yak-head.png"></td>
       <td></td>
