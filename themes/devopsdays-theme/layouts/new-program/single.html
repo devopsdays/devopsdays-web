@@ -6,53 +6,73 @@
     {{- with .Params.icons -}}
         {{- $.Scratch.Set "icons" (. | upper ) -}}
     {{- end -}}
+    {{- $.Scratch.Set "first" "true" -}}
 
     <h2>Program</h2>
 
     {{ .Content }}
 
+    {{ range .Params.program_elements }}
+    <!-- remember if there is a .date field then do a different setting for the map here-->
+        {{ $.Scratch.SetInMap "dates" (dateFormat "2006-01-02" .start) (dateFormat "2006-01-02" .start) }}
+    {{ end }}
+
     <div class = "row">
         <div class = "col">
-            <div id="accordion" role="tablist" aria-multiselectable="true">
-    {{- $.Scratch.Set "close-tag" "false" -}}
-    {{- range .Params.program_elements -}}
-        {{- if ne ($.Scratch.Get "item-date") (dateFormat "January 2, 2006" .start) -}}
-            {{- $.Scratch.Set "item-date" (dateFormat "January 2, 2006" .start) -}}
-            {{- $.Scratch.Set "display-date-header" "true" -}}
-        {{- else -}}
-            {{- $.Scratch.Set "display-date-header" "false" -}}
-        {{- end -}}
-        {{- if eq ($.Scratch.Get "display-date-header") "true" -}}
-            {{- if eq ($.Scratch.Get "close-tag") "true"}}
-                <!-- close divs-->
-                            </div>
-  
-            {{- end -}}
-
-                        <div class = "card">
-                            <div class="card-header" role="tab" id="{{printf "headingOne-%s" (dateFormat "January 2, 2006" .start) }}">
-                                <h5 class = "mb0">
-                                    {{- (dateFormat "January 2, 2006" .start) -}}
-                                </h5>
-                            </div>
-        {{- end -}}
+            <div id = "accordion" role = "tablist" aria-multiselectable = "true">
+                {{- range ($.Scratch.GetSortedMapValues "dates") -}}
+                    {{- $thisDate := . -}}
+                    <div class = "card">
+                        <div class = "card-header" role = "tab" id="{{ printf "headingOne-%s" (dateFormat "2006-01-02" $thisDate) }}">
+                            <h5 class = "mb-0">
+                                {{ dateFormat "January 2, 2006" $thisDate }}
+                            </h5>
+                        </div>
+                        <div id = "{{ printf "#collapse-%s" (dateFormat "2006-01-02" $thisDate) }}" class = "collapse show" role = "tabpanel" aria-labelledby = "{{printf "headingOne-%s" (dateFormat "2006-01-02" $thisDate) }}">
                             <div class = "card-block">
                                 <div class = "row">
                                     <div class = "col-lg-6">
-                                        <div class = "row program-row">
-                                            <div class = "col-lg-3 col-md-3 program-element {{ printf "program-%s" .type }}">
-                                                {{ dateFormat "15:04" .start}}
-                                                -
-                                                {{ dateFormat "15:04" .end}}
-                                            </div>
-                                            <div class = "col-lg-8 col-md-3 program-element {{ printf "program-%s" .type }}">
-                                                {{- if eq .type "custom" -}}
-                                                    {{ .title }}<br />
-                                                {{- end -}}
-                                                {{- if or (eq .type "talk") (eq .type "workshop") -}}
-                                                <!-- find the talk! -->
-                                                    {{- $talk := ($.Site.GetPage (printf "/%s%s" $directory .title)) -}}
-                                                    <a href = "{{ $talk.Permalink }}">
+                                        {{- $p:= slice -}}
+                                        {{- range $.Params.program_elements -}}
+                                        <!-- do a different thing if .date is set instead of .start -->
+                                            {{- if eq (dateFormat "2006-01-02" .start) ($thisDate) -}}
+                                                {{- $p = $p | append . -}}
+                                            {{- end -}}
+                                        {{- end -}}
+                                        {{- $program_len := (len $p) -}}
+                                        {{- $program_counter := 0 -}}
+                                        {{- range $p -}}
+                                            {{- $program_counter = add $program_counter 1 -}}
+                                            <div class = "row program-row">
+                                                <div class = "col-lg-3 col-md-3 program-element {{ printf "program-%s" .type }}">
+                                                    <!-- another check for .date vs .start, etc-->
+                                                    {{ dateFormat "15:04" .start}}
+                                                    -
+                                                    {{ dateFormat "15:04" .end}}                                                    
+                                                </div>
+                                                <div class = "col-lg-8 col-md-3  program-element {{ printf "program-%s" .type }}">
+                                                    {{- if eq .type "custom" -}}
+                                                        {{- if .custom_url -}}
+                                                            <a href = "{{ .custom_url | safeURL }}">
+                                                                {{ .title }}
+                                                            </a><br />
+                                                        {{- else -}}
+                                                            {{ .title }}<br />
+                                                        {{- end -}}
+                                                        {{- if .comments -}}
+                                                            <span class = "program-page-desc">
+                                                                {{ .comments | markdownify }}<br />
+                                                            </span>
+                                                        {{- end -}}
+                                                    {{- end -}}
+                                                    {{- if or (eq .type "talk") (eq .type "workshop") -}}
+                                                    <!-- find the talk! -->
+                                                        {{- $talk := ($.Site.GetPage (printf "/%s%s" $directory .title)) -}}
+                                                        {{- if .custom_url -}}
+                                                            <a href = "{{ .custom_url | safeURL }}">
+                                                        {{- else -}}
+                                                            <a href = "{{ $talk.Permalink }}">
+                                                        {{- end -}}
                                                         {{- $speaker_len := ($talk.Params.speakers | len) -}}
                                                         {{- $.Scratch.Set "speaker_count" 0 -}}
                                                         {{- range $talk.Params.speakers -}}
@@ -62,45 +82,173 @@
                                                             {{- if ne ($.Scratch.Get "speaker_count") $speaker_len -}}
                                                                 ,&nbsp;
                                                             {{- end -}}
-
-
                                                         {{- end -}}
                                                     
                                                         &nbsp;-&nbsp;{{- $talk.Title -}}
-                                                    </a>
-                                                    <br/>
-                                                    {{- if eq ($.Scratch.Get "icons") "TRUE" -}}
-                                                        {{- with $talk.Params.vimeo -}}
-                                                            &nbsp;<a href = "https://player.vimeo.com/video/{{ . }}">
-                                                                <i class="fa fa-video-camera" aria-hidden="true"></i>
+                                                        </a>
+                                                        <br/>
+                                                        {{- if eq ($.Scratch.Get "icons") "TRUE" -}}
+                                                            {{- with $talk.Params.vimeo -}}
+                                                                &nbsp;<a href = "https://player.vimeo.com/video/{{ . }}">
+                                                                    <i class="fa fa-video-camera" aria-hidden="true"></i>
+                                                                </a>&nbsp;
+                                                            {{- end -}}
+                                                            {{- with $talk.Params.youtube -}}
+                                                                &nbsp;<a href = "https://www.youtube.com/embed/{{ . }}">
+                                                                    <i class="fa fa-video-camera" aria-hidden="true"></i>
+                                                                </a>&nbsp;
+                                                            {{- end -}}
+                                                            {{- with $talk.Params.speakerdeck -}}
+                                                                &nbsp;<a href = "{{ . }}">
+                                                                    <i class="fa fa-file-text-o" aria-hidden="true"></i>
+                                                                </a>&nbsp;
+                                                            {{- end -}}
+                                                            {{- with $talk.Params.slideshare -}}
+                                                                &nbsp;<a href = "{{ . }}">
+                                                                    <i class="fa fa-file-text-o" aria-hidden="true"></i>
+                                                                </a>&nbsp;
+                                                            {{- end -}}
+                                                            {{- with $talk.Params.googleslides -}}
+                                                                &nbsp;<a href = "https://docs.google.com/presentation/d/{{ . }}">
+                                                                    <i class="fa fa-file-text-o" aria-hidden="true"></i>
+                                                                </a>&nbsp;
+                                                            {{- end -}}
+                                                            {{- with $talk.Params.pdf -}}
+                                                            &nbsp;<a href = "{ . }}">
+                                                                <i class="fa fa-file-text-o" aria-hidden="true"></i>
                                                             </a>&nbsp;
+                                                            {{- end -}}
+                                                            {{- with $talk.Params.notist -}}
+                                                                &nbsp;<a href = "https://noti.st/{{ . }}">
+                                                                    <i class="fa fa-file-text-o" aria-hidden="true"></i>
+                                                                </a>&nbsp;
+                                                            {{- end -}}
+                                                            {{- with $talk.Params.slideslive -}}
+                                                                &nbsp;<a href = "{{ . }}">
+                                                                    <i class="fa fa-file-text-o" aria-hidden="true"></i>
+                                                                </a>&nbsp;
+                                                            {{- end -}}
+                                                            {{- with $talk.Params.slides -}}
+                                                                &nbsp;<a href = "{{ . }}">
+                                                                    <i class="fa fa-file-text-o" aria-hidden="true"></i>
+                                                                </a>&nbsp;
+                                                            {{- end -}}
                                                         {{- end -}}
-                                                        {{- with $talk.Params.youtube -}}
-                                                            &nbsp;<a href = "https://www.youtube.com/embed/{{ . }}">
-                                                                <i class="fa fa-video-camera" aria-hidden="true"></i>
-                                                            </a>&nbsp;
+                                                        {{- if .comments -}}
+                                                            <span class="program-page-desc">
+                                                                {{ .comments | markdownify }}<br/>
+                                                            </span>
                                                         {{- end -}}
+                                                    {{- end -}}
+                                                    {{- if eq .type "open-space" -}}
+                                                        {{- if .custom_url -}}
+                                                            <a href="{{ .custom_url | safeURL }}">
+                                                                {{ .title }}
+                                                            </a><br/>
+                                                        {{- else -}}
+                                                            <a href="{{ "/open-space-format/" }}">
+                                                                {{ .title }}
+                                                            </a><br/>
+                                                        {{- end -}}
+                                                    {{- end -}}
+                                                    {{- if eq .type "ignite" -}}
+                                                        {{ .title }}
+                                                        <ul class="list-unstyled">
+                                                            {{- range $.Params.ignites -}}
+                                                                {{- if eq (dateFormat "2006-01-02" .date) ($thisDate) -}}
+                                                                    <li>
+                                                                        <!-- find the talk! -->
+                                                                        {{- $talk := ($.Site.GetPage (printf "/%s%s" $directory .title)) -}}
+                                                                        <a href = "{{ $talk.Permalink }}">
+                                                                            {{- $speaker_len := ($talk.Params.speakers | len) -}}
+                                                                            {{- $.Scratch.Set "speaker_count" 0 -}}
+                                                                            {{- range $talk.Params.speakers -}}
+                                                                                {{- $.Scratch.Set "speaker_count" (add ($.Scratch.Get "speaker_count") 1) -}}
+                                                                                {{- $speaker := ($.Site.GetPage (printf "/new-events/%s/%s/speakers/%s" $event_year $event_city .)) -}}
+                                                                                {{ $speaker.Title }}
+                                                                                {{- if ne ($.Scratch.Get "speaker_count") $speaker_len -}}
+                                                                                    ,&nbsp;
+                                                                                {{- end -}}
+                                                                            {{- end -}}
+                                                                            &nbsp;-&nbsp;{{- $talk.Title -}}
+                                                                        </a>
+                                                                        {{- if eq ($.Scratch.Get "icons") "TRUE" -}}
+                                                                            {{- with $talk.Params.vimeo -}}
+                                                                                &nbsp;<a href = "https://player.vimeo.com/video/{{ . }}">
+                                                                                    <i class="fa fa-video-camera" aria-hidden="true"></i>
+                                                                                </a>&nbsp;
+                                                                            {{- end -}}
+                                                                            {{- with $talk.Params.youtube -}}
+                                                                                &nbsp;<a href = "https://www.youtube.com/embed/{{ . }}">
+                                                                                    <i class="fa fa-video-camera" aria-hidden="true"></i>
+                                                                                </a>&nbsp;
+                                                                            {{- end -}}
+                                                                            {{- with $talk.Params.speakerdeck -}}
+                                                                                &nbsp;<a href = "{{ . }}">
+                                                                                    <i class="fa fa-file-text-o" aria-hidden="true"></i>
+                                                                                </a>&nbsp;
+                                                                            {{- end -}}
+                                                                            {{- with $talk.Params.slideshare -}}
+                                                                                &nbsp;<a href = "{{ . }}">
+                                                                                    <i class="fa fa-file-text-o" aria-hidden="true"></i>
+                                                                                </a>&nbsp;
+                                                                            {{- end -}}
+                                                                            {{- with $talk.Params.googleslides -}}
+                                                                                &nbsp;<a href = "https://docs.google.com/presentation/d/{{ . }}">
+                                                                                    <i class="fa fa-file-text-o" aria-hidden="true"></i>
+                                                                                </a>&nbsp;
+                                                                            {{- end -}}
+                                                                            {{- with $talk.Params.pdf -}}
+                                                                            &nbsp;<a href = "{ . }}">
+                                                                                <i class="fa fa-file-text-o" aria-hidden="true"></i>
+                                                                            </a>&nbsp;
+                                                                            {{- end -}}
+                                                                            {{- with $talk.Params.notist -}}
+                                                                                &nbsp;<a href = "https://noti.st/{{ . }}">
+                                                                                    <i class="fa fa-file-text-o" aria-hidden="true"></i>
+                                                                                </a>&nbsp;
+                                                                            {{- end -}}
+                                                                            {{- with $talk.Params.slideslive -}}
+                                                                                &nbsp;<a href = "{{ . }}">
+                                                                                    <i class="fa fa-file-text-o" aria-hidden="true"></i>
+                                                                                </a>&nbsp;
+                                                                            {{- end -}}
+                                                                            {{- with $talk.Params.slides -}}
+                                                                                &nbsp;<a href = "{{ . }}">
+                                                                                    <i class="fa fa-file-text-o" aria-hidden="true"></i>
+                                                                                </a>&nbsp;
+                                                                            {{- end -}}
+                                                                        {{- end -}}
 
+                                                                    </li>
+                                                                {{- end -}}
+                                                            
+                                                            {{- end -}}
+                                                        </ul>
 
+                                                    
 
                                                     {{- end -}}
-
-
-
-
-                                                {{- end -}}
+                                                </div>
                                             </div>
-                                        </div>
+                                            {{- if eq (div $program_len 2) $program_counter -}}
+                                                </div>
+                                                <div class = "col-lg-6">
+                                            {{- end -}}
+                                        {{- end -}}
+<!-- thing -->
                                     </div>
                                 </div>
                             </div>
-                            <!-- begin display date header closing tags-->
+                        </div>
+                    </div>
 
-            <!-- end display date header closing-->
-
-    {{- end -}}
-</div>
-</div>
-</div>
+            
+                    <!-- $p is the program elements for this date to use-->
+                {{- end -}}
+                
+            </div>
+        </div>
+    </div>
 
 {{ end }}
