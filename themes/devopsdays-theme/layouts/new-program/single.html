@@ -41,7 +41,7 @@
                                         {{- end -}}
                                         {{- $program_len := (len $p) -}}
                                         {{- $program_counter := 0 -}}
-                                        {{- range $p -}}
+                                        {{- range sort $p "start" -}}
                                             {{- $program_counter = add $program_counter 1 -}}
                                             <div class = "row program-row">
                                                 <div class = "col-lg-3 col-md-3 program-element {{ printf "program-%s" .type }}">
