@@ -151,12 +151,8 @@ sponsors:
     level: gold
   - id: appdynamics
     level: gold
-  - id: datree
-    level: gold
   - id: xmatters
     level: gold
-  - id: logz
-    level: silver
   - id: solarwinds
     level: gold 
   - id: stackrox
