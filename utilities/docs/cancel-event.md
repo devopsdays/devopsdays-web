@@ -6,7 +6,7 @@ Here are the things to include in your pull request:
 
 ## Delete any unnecessary pages
 
-Any files/pages you have in the `contents/events/YYYY-CITY` directory other than `welcome.md`, `contact.md`, and `conduct.md` should be deleted. Pay attention to which files you delete, as you will need to know this for the next step.
+Any files/pages you have in the `content/events/YYYY-CITY` directory other than `welcome.md`, `contact.md`, and `conduct.md` should be deleted. Pay attention to which files you delete, as you will need to know this for the next step.
 
 ## Update `welcome.md`
 
