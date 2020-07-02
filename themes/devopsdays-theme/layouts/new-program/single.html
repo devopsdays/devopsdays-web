@@ -175,64 +175,69 @@
                                                                     <li>
                                                                         <!-- find the talk! -->
                                                                         {{- $talk := ($.Site.GetPage (printf "/%s%s" $directory .title)) -}}
-                                                                        <a href = "{{ $talk.Permalink }}">
-                                                                            {{- $speaker_len := ($talk.Params.speakers | len) -}}
-                                                                            {{- $.Scratch.Set "speaker_count" 0 -}}
-                                                                            {{- range $talk.Params.speakers -}}
-                                                                                {{- $.Scratch.Set "speaker_count" (add ($.Scratch.Get "speaker_count") 1) -}}
-                                                                                {{- $speaker := ($.Site.GetPage (printf "/new-events/%s/%s/speakers/%s" $event_year $event_city .)) -}}
-                                                                                {{ $speaker.Title }}
-                                                                                {{- if ne ($.Scratch.Get "speaker_count") $speaker_len -}}
-                                                                                    ,&nbsp;
+                                                                        {{- if eq $talk.Title "" -}}
+                                                                        {{ .title }}
+                                                                        {{- else -}}
+                                                                            <a href = "{{ $talk.Permalink }}">
+                                                                                {{- $speaker_len := ($talk.Params.speakers | len) -}}
+                                                                                
+                                                                                {{- $.Scratch.Set "speaker_count" 0 -}}
+                                                                                {{- range $talk.Params.speakers -}}
+                                                                                    {{- $.Scratch.Set "speaker_count" (add ($.Scratch.Get "speaker_count") 1) -}}
+                                                                                    {{- $speaker := ($.Site.GetPage (printf "/new-events/%s/%s/speakers/%s" $event_year $event_city .)) -}}
+                                                                                    {{ $speaker.Title }}
+                                                                                    {{- if ne ($.Scratch.Get "speaker_count") $speaker_len -}}
+                                                                                        ,&nbsp;
+                                                                                    {{- end -}}
                                                                                 {{- end -}}
-                                                                            {{- end -}}
-                                                                            &nbsp;-&nbsp;{{- $talk.Title -}}
-                                                                        </a>
-                                                                        {{- if eq ($.Scratch.Get "icons") "TRUE" -}}
-                                                                            {{- with $talk.Params.vimeo -}}
-                                                                                &nbsp;<a href = "https://player.vimeo.com/video/{{ . }}">
-                                                                                    <i class="fa fa-video-camera" aria-hidden="true"></i>
-                                                                                </a>&nbsp;
-                                                                            {{- end -}}
-                                                                            {{- with $talk.Params.youtube -}}
-                                                                                &nbsp;<a href = "https://www.youtube.com/embed/{{ . }}">
-                                                                                    <i class="fa fa-video-camera" aria-hidden="true"></i>
-                                                                                </a>&nbsp;
-                                                                            {{- end -}}
-                                                                            {{- with $talk.Params.speakerdeck -}}
-                                                                                &nbsp;<a href = "{{ . }}">
+                                                                                &nbsp;-&nbsp;{{- $talk.Title -}}
+                                                                            </a>
+                                                                            {{- if eq ($.Scratch.Get "icons") "TRUE" -}}
+                                                                                {{- with $talk.Params.vimeo -}}
+                                                                                    &nbsp;<a href = "https://player.vimeo.com/video/{{ . }}">
+                                                                                        <i class="fa fa-video-camera" aria-hidden="true"></i>
+                                                                                    </a>&nbsp;
+                                                                                {{- end -}}
+                                                                                {{- with $talk.Params.youtube -}}
+                                                                                    &nbsp;<a href = "https://www.youtube.com/embed/{{ . }}">
+                                                                                        <i class="fa fa-video-camera" aria-hidden="true"></i>
+                                                                                    </a>&nbsp;
+                                                                                {{- end -}}
+                                                                                {{- with $talk.Params.speakerdeck -}}
+                                                                                    &nbsp;<a href = "{{ . }}">
+                                                                                        <i class="fa fa-file-text-o" aria-hidden="true"></i>
+                                                                                    </a>&nbsp;
+                                                                                {{- end -}}
+                                                                                {{- with $talk.Params.slideshare -}}
+                                                                                    &nbsp;<a href = "{{ . }}">
+                                                                                        <i class="fa fa-file-text-o" aria-hidden="true"></i>
+                                                                                    </a>&nbsp;
+                                                                                {{- end -}}
+                                                                                {{- with $talk.Params.googleslides -}}
+                                                                                    &nbsp;<a href = "https://docs.google.com/presentation/d/{{ . }}">
+                                                                                        <i class="fa fa-file-text-o" aria-hidden="true"></i>
+                                                                                    </a>&nbsp;
+                                                                                {{- end -}}
+                                                                                {{- with $talk.Params.pdf -}}
+                                                                                &nbsp;<a href = "{ . }}">
                                                                                     <i class="fa fa-file-text-o" aria-hidden="true"></i>
                                                                                 </a>&nbsp;
-                                                                            {{- end -}}
-                                                                            {{- with $talk.Params.slideshare -}}
-                                                                                &nbsp;<a href = "{{ . }}">
-                                                                                    <i class="fa fa-file-text-o" aria-hidden="true"></i>
-                                                                                </a>&nbsp;
-                                                                            {{- end -}}
-                                                                            {{- with $talk.Params.googleslides -}}
-                                                                                &nbsp;<a href = "https://docs.google.com/presentation/d/{{ . }}">
-                                                                                    <i class="fa fa-file-text-o" aria-hidden="true"></i>
-                                                                                </a>&nbsp;
-                                                                            {{- end -}}
-                                                                            {{- with $talk.Params.pdf -}}
-                                                                            &nbsp;<a href = "{ . }}">
-                                                                                <i class="fa fa-file-text-o" aria-hidden="true"></i>
-                                                                            </a>&nbsp;
-                                                                            {{- end -}}
-                                                                            {{- with $talk.Params.notist -}}
-                                                                                &nbsp;<a href = "https://noti.st/{{ . }}">
-                                                                                    <i class="fa fa-file-text-o" aria-hidden="true"></i>
-                                                                                </a>&nbsp;
-                                                                            {{- end -}}
-                                                                            {{- with $talk.Params.slideslive -}}
-                                                                                &nbsp;<a href = "{{ . }}">
-                                                                                    <i class="fa fa-file-text-o" aria-hidden="true"></i>
-                                                                                </a>&nbsp;
-                                                                            {{- end -}}
-                                                                            {{- with $talk.Params.slides -}}
-                                                                                &nbsp;<a href = "{{ . }}">
-                                                                                    <i class="fa fa-file-text-o" aria-hidden="true"></i>
-                                                                                </a>&nbsp;
+                                                                                {{- end -}}
+                                                                                {{- with $talk.Params.notist -}}
+                                                                                    &nbsp;<a href = "https://noti.st/{{ . }}">
+                                                                                        <i class="fa fa-file-text-o" aria-hidden="true"></i>
+                                                                                    </a>&nbsp;
+                                                                                {{- end -}}
+                                                                                {{- with $talk.Params.slideslive -}}
+                                                                                    &nbsp;<a href = "{{ . }}">
+                                                                                        <i class="fa fa-file-text-o" aria-hidden="true"></i>
+                                                                                    </a>&nbsp;
+                                                                                {{- end -}}
+                                                                                {{- with $talk.Params.slides -}}
+                                                                                    &nbsp;<a href = "{{ . }}">
+                                                                                        <i class="fa fa-file-text-o" aria-hidden="true"></i>
+                                                                                    </a>&nbsp;
+                                                                                {{- end -}}
                                                                             {{- end -}}
                                                                         {{- end -}}
 
