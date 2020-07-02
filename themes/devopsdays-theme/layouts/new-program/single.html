@@ -154,8 +154,24 @@
                                                     {{- if eq .type "ignite" -}}
                                                         {{ .title }}
                                                         <ul class="list-unstyled">
-                                                            {{- range $.Params.ignites -}}
-                                                                {{- if eq (dateFormat "2006-01-02" .date) ($thisDate) -}}
+                                                            {{- $i:= slice -}}
+                                                            {{- if .block -}}
+                                                                {{- $block := .block -}}
+                                                                {{- range $.Params.ignites -}}
+                                                                    {{- if eq .block $block -}}
+                                                                        {{- $i = $i | append . -}}
+                                                                    {{- end -}}
+                                                                {{- end -}}
+                                                            {{- else -}}
+                                                                {{- range $.Params.ignites -}}
+                                                                    <!--check for ignite block here-->
+                                                                    {{- if and (eq (dateFormat "2006-01-02" .date) ($thisDate)) (not .block) -}}
+                                                                        {{- $i = $i | append . -}}
+                                                                    {{- end -}}
+                                                                {{- end -}}
+                                                            {{- end -}}
+
+                                                            {{- range $i -}}
                                                                     <li>
                                                                         <!-- find the talk! -->
                                                                         {{- $talk := ($.Site.GetPage (printf "/%s%s" $directory .title)) -}}
@@ -221,7 +237,6 @@
                                                                         {{- end -}}
 
                                                                     </li>
-                                                                {{- end -}}
                                                             
                                                             {{- end -}}
                                                         </ul>
