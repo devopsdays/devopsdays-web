@@ -15,36 +15,39 @@
 <meta property="og:type" content="website" />
 <meta property="og:url" content="{{ .Permalink | absURL }}" />
 {{- if or (eq .Type "welcome") (eq .Type "event") (eq .Type "speaker") (eq .Type "speakers") (eq .Type "talk") (eq .Type "program") -}}
-  {{- $e := (index $.Site.Data.events (index (split (.Permalink | relURL) "/") 2)) -}}
-  {{- $.Scratch.Set "contentdir" (printf "static/events/%s/" $e.name) -}} <!-- may not need this anymore? -->
-  {{- if $e.event_twitter -}}
-    <meta name="twitter:creator" content="@{{$e.event_twitter}}" />
+  {{- $event_year := (index (split (.Permalink | relURL) "/") 2) -}}
+  {{- $event_city := (index (split (.Permalink | relURL) "/") 3) -}}
+  {{- $event_homepage := (printf "/new-events/%s/%s" $event_year $event_city) -}}
+  {{- $event_data := .Site.GetPage $event_homepage -}}
+
+  {{- if $event_data.Params.event_twitter -}}
+    <meta name="twitter:creator" content="@{{$event_data.Params.event_twitter}}" />
   {{- end -}}
-  {{- $.Scratch.Set "event" (printf "devopsdays %s %s" $e.city (chomp $e.year)) -}}
+  {{- $.Scratch.Set "event" (printf "devopsdays %s %s" $event_data.Params.City $event_year) -}}
   <meta name="twitter:label1" value="Event" />
   <meta name="twitter:data1" value="{{ $.Scratch.Get "event" }}" />
-  {{- if $e.startdate -}}
-    {{- if or (ne (time $e.startdate).Month (time $e.enddate).Month) (ne (time $e.startdate).Day (time $e.enddate).Day) -}}
+  {{- if $event_data.Params.startdate -}}
+    {{- if or (ne (time $event_data.Params.startdate).Month (time $event_data.Params.enddate).Month) (ne (time $event_data.Params.startdate).Day (time $event_data.Params.enddate).Day) -}}
         <meta name="twitter:label2" value="Dates" />
-        {{- if eq (time $e.startdate).Month (time $e.enddate).Month -}}
-            <meta name="twitter:data2" value="{{ dateFormat "January 2" $e.startdate }} - {{ dateFormat "2, 2006" $e.enddate }}" />
+        {{- if eq (time $event_data.Params.startdate).Month (time $event_data.Params.enddate).Month -}}
+            <meta name="twitter:data2" value="{{ dateFormat "January 2" $event_data.Params.startdate }} - {{ dateFormat "2, 2006" $event_data.Params.enddate }}" />
         {{- else -}}
-            <meta name="twitter:data2" value="{{ dateFormat "Jan 2" $e.startdate }} - {{ dateFormat "Jan 2" $e.enddate }}" />
+            <meta name="twitter:data2" value="{{ dateFormat "Jan 2" $event_data.Params.startdate }} - {{ dateFormat "Jan 2" $event_data.Params.enddate }}" />
         {{- end -}}
     {{- else -}}
     <meta name="twitter:label2" value="Date" />
-    <meta name="twitter:data2" value="{{ dateFormat "January 2, 2006" $e.startdate }}" />
+    <meta name="twitter:data2" value="{{ dateFormat "January 2, 2006" $event_data.Params.startdate }}" />
     {{- end -}}
   {{- end -}}
   {{- if .Params.sharing_image -}}
     {{- with .Params.sharing_image -}}
-      {{- $.Scratch.Set "sharing_url" (printf "/events/%s/sharing/%s" $e.name .) -}}
+      {{- $.Scratch.Set "sharing_url" (printf "/events/%s/%s/sharing/%s" $event_year $event_city .) -}}
       {{- $.Scratch.Set "sharing_alt" $.Title -}}
     {{- end -}}
-  {{- else if $e.sharing_image -}}
-    {{- with $e.sharing_image -}}
-      {{- $.Scratch.Set "sharing_url" (printf "/events/%s/sharing/%s" $e.name .) -}}
-      {{- $.Scratch.Set "sharing_alt" (printf "devopsdays %s %s" $e.city (chomp $e.year)) -}}
+  {{- else if $event_data.Params.sharing_image -}}
+    {{- with $event_data.Params.sharing_image -}}
+      {{- $.Scratch.Set "sharing_url" (printf "/events/%s/%s/sharing/%s" $event_year $event_city .) -}}
+      {{- $.Scratch.Set "sharing_alt" (printf "devopsdays %s %s" $event_data.Params.city $event_year ) -}}
     {{- end -}}
   {{- else -}}
       {{- $.Scratch.Set "sharing_url" ("https://www.devopsdays.org/img/sharing.jpg" ) -}}

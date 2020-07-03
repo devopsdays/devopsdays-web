@@ -73,7 +73,10 @@
                                                         {{- else -}}
                                                             <a href = "{{ $talk.Permalink }}">
                                                         {{- end -}}
-                                                        {{- $speaker_len := ($talk.Params.speakers | len) -}}
+                                                        {{- if isset $talk.Params "speakers" -}}
+                                                            {{- $.Scratch.Set "speaker_len" ($talk.Params.speakers | len) -}}
+                                                        {{- end -}}
+                                                        {{- $speaker_len := ($.Scratch.Get "speaker_len") -}}
                                                         {{- $.Scratch.Set "speaker_count" 0 -}}
                                                         {{- range $talk.Params.speakers -}}
                                                             {{- $.Scratch.Set "speaker_count" (add ($.Scratch.Get "speaker_count") 1) -}}

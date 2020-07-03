@@ -4,10 +4,13 @@ window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
 ga('create', '{{ $.Site.GoogleAnalytics }}', 'auto');
 ga('send', 'pageview');
 {{ if or (eq .Type "welcome") (eq .Type "event") (eq .Type "speaker") (eq .Type "speakers") (eq .Type "talk") (eq .Type "program")}}
-  {{- $e := (index $.Site.Data.events (index (split (.Permalink | relURL) "/") 2)) -}}
-  {{ if $e.ga_tracking_id }}
-    {{ if ne $e.ga_tracking_id "" }}
-      ga('create', '{{$e.ga_tracking_id}}', 'auto', 'clientTracker');
+  {{- $event_year := (index (split (.Permalink | relURL) "/") 2) -}}
+  {{- $event_city := (index (split (.Permalink | relURL) "/") 3) -}}
+  {{- $event_homepage := (printf "/new-events/%s/%s" $event_year $event_city) -}}
+  {{- $event_data := .Site.GetPage $event_homepage -}}
+  {{ if $event_data.Params.ga_tracking_id }}
+    {{ if ne $event_data.Params.ga_tracking_id "" }}
+      ga('create', '{{$event_data.Params.ga_tracking_id}}', 'auto', 'clientTracker');
       ga('clientTracker.send', 'pageview');
     {{ end }}
   {{ end }}

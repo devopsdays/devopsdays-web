@@ -6,11 +6,14 @@
 <!-- end metadata -->
 {{- if .IsPage -}}
 
-  {{ if eq (index (split (.Permalink | relURL) "/") 1) "events" }}
-    {{- $e := (index $.Site.Data.events (index (split (.Permalink | relURL) "/") 2)) -}}
-    {{- if $e.event_twitter -}}
-      {{- if ne $e.event_twitter "" -}}
-        {{- $.Scratch.Set "twitter_handle" $e.event_twitter -}}
+  {{ if eq (index (split (.Permalink | relURL) "/") 1) "new-events" }}
+    {{- $event_year := (index (split (.Permalink | relURL) "/") 2) -}}
+    {{- $event_city := (index (split (.Permalink | relURL) "/") 3) -}}
+    {{- $event_homepage := (printf "/new-events/%s/%s" $event_year $event_city) -}}
+    {{- $event_data := .Site.GetPage $event_homepage -}}
+    {{- if $event_data.Params.event_twitter -}}
+      {{- if ne $event_data.Params.event_twitter "" -}}
+        {{- $.Scratch.Set "twitter_handle" $event_data.Params.event_twitter -}}
       {{- end -}}
     {{- end -}}
     {{- if isset .Params "Title" -}}
@@ -18,7 +21,7 @@
         {{- $.Scratch.Set "sharing_title" .Params.Title -}}
       {{- end -}}
     {{- else -}}
-      {{- $sharing_title := (printf "devopsdays %s - %s" $e.city $e.year) -}}
+      {{- $sharing_title := (printf "devopsdays %s - %s" $event_data.Params.city $event_year) -}}
       {{- $.Scratch.Set "sharing_title" $sharing_title -}}
     {{- end -}}
   {{- else -}}
