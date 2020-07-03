@@ -4,46 +4,54 @@
 {{- $event_data := .Site.GetPage $event_homepage -}}
 {{ $sponsors := .Site.GetPage "/sponsors" }}
 
-{{ range $event_data.Params.sponsor_levels }}
-  {{ $level := .id }}
-  {{ $level_label := .label}}
-  <div class="row cta-row">
-    <!--first sponsor row-->
-    <div class="col-md-12">
-      {{- if eq .max 1 -}}
-        <h4 class="sponsor-cta">{{ .label }} Sponsor</h4>
-      {{- else -}}
-        <h4 class="sponsor-cta">{{ .label }} Sponsors</h4>
-      {{- end -}}
-      <!-- sponsors accepted?-->
-      {{ $sponsorCount := len ( where $event_data.Params.sponsors "level" "==" .id) }}
-      {{- if ( $event_data.Params.startdate) or (ge (dateFormat "2006-01-02" $event_data.Params.startdate) (dateFormat "2006-01-02" (dateFormat "2006-01-02" now))) -}}
-        {{- if ne $event_data.Params.sponsors_accepted "no" -}}
-          {{- if or (not .max) (lt .max $sponsorCount) -}}
-            {{- with $event_data.Params.sponsor_link -}}
-              <a href = "{{ . }}" class="sponsor-cta">
-                <i>Join as {{ $level_label }} Sponsor!</i>
-              </a>
-            {{- else -}}
-              <a href = "{{ (printf "/new-events/%s/%s/sponsor" $event_year $event_city) }}" class="sponsor-cta">
-                <i>Join as {{ $level_label }} Sponsor!</i>
-              </a>
+{{ if isset $event_data.Params "sponsor_levels" }}
+  {{ range $event_data.Params.sponsor_levels }}
+    {{ $level := .id }}
+    {{ $level_label := .label}}
+    <div class="row cta-row">
+      <!--first sponsor row-->
+      <div class="col-md-12">
+        {{- if eq .max 1 -}}
+          <h4 class="sponsor-cta">{{ .label }} Sponsor</h4>
+        {{- else -}}
+          <h4 class="sponsor-cta">{{ .label }} Sponsors</h4>
+        {{- end -}}
+        <!-- sponsors accepted?-->
+        {{- if isset $event_data.Params "sponsors" -}}
+          {{- $.Scratch.Set "sponsorCount" (len ( where $event_data.Params.sponsors "level" "==" .id)) -}}
+        {{- else -}}
+          {{- $.Scratch.Set "sponsorCount" 0 -}}
+        {{- end -}}
+        {{/* $sponsorCount := len ( where $event_data.Params.sponsors "level" "==" .id) */}}
+        {{- $sponsorCount := ($.Scratch.Get "sponsorCount") -}}
+        {{- if ( $event_data.Params.startdate) or (ge (dateFormat "2006-01-02" $event_data.Params.startdate) (dateFormat "2006-01-02" (dateFormat "2006-01-02" now))) -}}
+          {{- if ne $event_data.Params.sponsors_accepted "no" -}}
+            {{- if or (not .max) (lt .max $sponsorCount) -}}
+              {{- with $event_data.Params.sponsor_link -}}
+                <a href = "{{ . }}" class="sponsor-cta">
+                  <i>Join as {{ $level_label }} Sponsor!</i>
+                </a>
+              {{- else -}}
+                <a href = "{{ (printf "/new-events/%s/%s/sponsor" $event_year $event_city) }}" class="sponsor-cta">
+                  <i>Join as {{ $level_label }} Sponsor!</i>
+                </a>
+              {{- end -}}
             {{- end -}}
           {{- end -}}
         {{- end -}}
-      {{- end -}}
+      </div>
     </div>
-  </div>
-  <div class="row sponsor-row">
-    {{ range $event_data.Params.sponsors }}
-      {{ if eq .level $level }}
-        {{ $sponsorPage := index ($sponsors.Resources.Match (printf "%s.md" .name)) 0 }}
-        <div class = "col-lg-1 col-md-2 col-4">
-          <a href = "{{$sponsorPage.Params.Website}}">
-            <img src = "/img/sponsors/{{ $sponsorPage.File.BaseFileName }}.png" alt = "{{ $sponsorPage.Params.Name }}" title = "{{ $sponsorPage.Params.Name }}" class="img-fluid">
-          </a>
-        </div>
+    <div class="row sponsor-row">
+      {{ range $event_data.Params.sponsors }}
+        {{ if eq .level $level }}
+          {{ $sponsorPage := index ($sponsors.Resources.Match (printf "%s.md" .name)) 0 }}
+          <div class = "col-lg-1 col-md-2 col-4">
+            <a href = "{{$sponsorPage.Params.Website}}">
+              <img src = "/img/sponsors/{{ $sponsorPage.File.BaseFileName }}.png" alt = "{{ $sponsorPage.Params.Name }}" title = "{{ $sponsorPage.Params.Name }}" class="img-fluid">
+            </a>
+          </div>
+        {{ end }}
       {{ end }}
-    {{ end }}
-  </div>
+    </div>
+  {{ end }}
 {{ end }}

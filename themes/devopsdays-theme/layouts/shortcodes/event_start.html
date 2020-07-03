@@ -1,11 +1,3 @@
-{{- $e := (index $.Site.Data.events (index (split ($.Page.Permalink | relURL) "/") 2)) -}}
-{{- if $e -}}
-  {{- if $e.startdate -}}
-    {{ dateFormat "Monday, Jan 2, 2006" $e.startdate }}
-  {{- else -}}
-    TBD
-  {{- end -}}
-{{- else -}}
   {{- $event_year := (index (split ($.Page.Permalink | relURL) "/") 2) -}}
   {{- $event_city := (index (split ($.Page.Permalink | relURL) "/") 3) -}}
   {{- $event_homepage := (printf "/new-events/%s/%s" $event_year $event_city) -}}
@@ -15,4 +7,3 @@
   {{- else -}}
     TBD
   {{- end -}}
-{{- end -}}

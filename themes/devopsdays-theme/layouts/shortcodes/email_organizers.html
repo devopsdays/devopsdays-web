@@ -1,11 +1,6 @@
-{{- $e := (index $.Site.Data.events (index (split ($.Page.Permalink | relURL) "/") 2)) -}}
-{{- if $e -}}
-    <a href='mailto:{{ $e.organizer_email }}?subject={{ .Get "subject"}}'>{{ $e.organizer_email }}</a>
-{{- else -}}
     {{- $event_year := (index (split ($.Page.Permalink | relURL) "/") 2) -}}
     {{- $event_city := (index (split ($.Page.Permalink | relURL) "/") 3) -}}
     {{- $event_homepage := (printf "/new-events/%s/%s" $event_year $event_city) -}}
     {{- $event_data := .Site.GetPage $event_homepage -}}
     <a href='mailto:{{ $event_data.Params.organizer_email }}?subject={{ .Get "subject"}}'>{{ $event_data.Params.organizer_email }}</a>
-{{- end -}}
 

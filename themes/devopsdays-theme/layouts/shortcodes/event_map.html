@@ -1,7 +1,4 @@
-{{- $e := (index $.Site.Data.events (index (split ($.Page.Permalink | relURL) "/") 2)) -}}
-{{- if $e -}}
-  {{- $.Scratch.Set "coordinates" $e.coordinates -}}
-{{- else -}}
+
   {{- $event_year := (index (split ($.Page.Permalink | relURL) "/") 2) -}}
   {{- $event_city := (index (split ($.Page.Permalink | relURL) "/") 3) -}}
   {{- $event_homepage := (printf "/new-events/%s/%s" $event_year $event_city) -}}
@@ -10,7 +7,6 @@
     {{- $.Scratch.Set "coordinates" . -}}
   {{- end -}}
 
-{{- end -}}
 {{- $coords := split ($.Scratch.Get "coordinates") "," -}}
 {{- $lat := index $coords 0 -}}
 {{- $lng := index $coords 1 -}}
@@ -31,7 +27,7 @@
     var marker = new google.maps.Marker({
       position: position,
       map: map,
-      title: "{{ $e.location }}",
+      title: "{{ $event_data.Params.location }}",
     });
   }
 
