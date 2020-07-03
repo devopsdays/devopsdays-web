@@ -1,0 +1,7 @@
++++
+title = "Tim Jarrett"
+twitter = "tojarrett"
+type = "new-speaker"
+image = "tim-jarrett.jpg"
++++
+Tim Jarrett is Senior Director of Enterprise Security Strategy at Veracode. A Grammy-award winning product professional, he joined Veracode in 2008 and has a Bacon number of 3. He has previously spoken at numerous events including the Birst Forward conference, the RSAM User Summit, and regional ISACA events, as well as on webcasts for Dark Reading, Black Hat, and the SANS Institute. He can be found on Twitter as @tojarrett

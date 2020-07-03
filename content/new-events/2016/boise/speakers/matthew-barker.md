@@ -1,0 +1,12 @@
++++
+title = "Matthew Barker"
+twitter = "matthewabq"
+type = "new-speaker"
+image = "matthew-barker.jpg"
++++
+As a experienced Solutions Architect and Sales Engineer, Matthew helps
+companies efficiently secure their applications. His broad-based
+experience in open source software and rapid application development
+combined with background in software security enables him to provide
+insightful, technical guidance to companies desiring to produce secure
+applications of high quality and with minimal license risk.

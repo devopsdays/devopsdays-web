@@ -1,0 +1,7 @@
++++
+title = "Andreas Grabner"
+twitter = "grabnerandi"
+type = "new-speaker"
+image = "andreas-grabner.jpg"
++++
+Andreas Grabner is a performance enthusiast who has been working in this field for the last fifteen+ years. He was a developer, tester, architect and product evangelist for several testing and diagnostics companies such as Segue, Borland, Compuware and Dynatrace. In these days Andreas helps organizations finding the performance, scalability and architectural problems in their applications. He is taking his knowledge to teach others on how to spot and avoid these problems. He is doing that by speaking at different meetups, user groups and international conferences such as Star, STPCon, Agile Testing Days, Swiss Testing Day, Java South Africa, JavaOne, …  

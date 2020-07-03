@@ -1,0 +1,7 @@
++++
+title = "Gabe Ortiz"
+twitter = "signalnine"
+type = "new-speaker"
+image = "gabe-ortiz.jpg"
++++
+Gabe Ortiz has been replacing himself with a series of very small shell scripts for over 15 years, though these days it's mostly Python. He is currently sole infrastructure engineer at Agari Data, where he's responsible for Tom Sawyering his coworkers into writing infrastructure code.

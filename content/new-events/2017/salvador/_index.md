@@ -1,0 +1,95 @@
++++
+date = "2020-06-11T02:11:48-05:00"
+description = "Devopsdays is coming to Salvador!"
+title = "devopsdays Salvador 2017"
+type = "new-event"
+city = "Salvador"
+year = "2017"
+event_twitter = "devopsdaysssa"
+startdate = 2017-10-28T00:00:00-03:00
+enddate = 2017-10-28T23:59:59-03:00
+coordinates = "-12.976673 -38.456916"
+location = "Salvador"
+location_address = "Torre Europa, Alameda Salvador , 1057, Caminho das Árvores, Salvador - BA"
+organizer_email = "organizers-salvador-2017@devopsdays.org"
+proposal_email = "proposals-salvador-2017@devopsdays.org"
+sponsors_accepted = "no"
+navigation = [
+    { name = "salvador.devopsdays.com.br", url = "http://salvador.devopsdays.com.br/" },
+    { name = "Informações", url = "http://salvador.devopsdays.com.br/#informacoes" },
+    { name = "Palestrantes", url = "http://salvador.devopsdays.com.br/#palestrantes" },
+    { name = "Programação", url = "http://salvador.devopsdays.com.br/#programacao" },
+    { name = "Conduta", url = "http://salvador.devopsdays.com.br/#conduta" },
+    { name = "Inscreva-se", url = "http://salvador.devopsdays.com.br/#ingressos" },
+    { name = "Patrocinio", url = "http://salvador.devopsdays.com.br/#patrocinio" },
+    { name = "Contato", url = "http://salvador.devopsdays.com.br/#rodape" },
+]
++++
+<div style="text-align:center;">
+  <a href="http://salvador.devopsdays.com.br/">{{< event_logo >}}</a>
+</div>
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Date</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_start >}}
+  </div>
+</div>
+
+<!-- <div class = "row">
+  <div class = "col-md-2">
+    <strong>Location</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_location >}}
+  </div>
+</div> -->
+
+<!-- <div class = "row">
+  <div class = "col-md-2">
+    <strong>Register</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_link page="registration" text="Register to attend the conference!" >}}
+  </div>
+</div> -->
+
+<!-- <div class = "row">
+  <div class = "col-md-2">
+    <strong>Propose</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_link page="propose" text="Propose a talk!" >}}
+  </div>
+</div> -->
+
+<!-- <div class = "row">
+  <div class = "col-md-2">
+    <strong>Program</strong>
+  </div>
+  <div class = "col-md-8">
+    View the {{< event_link page="program" text="program." >}}
+  </div>
+</div> -->
+
+<!-- <div class = "row">
+  <div class = "col-md-2">
+    <strong>Speakers</strong>
+  </div>
+  <div class = "col-md-8">
+    Check out the {{< event_link page="speakers" text="speakers!" >}}
+  </div>
+</div> -->
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Contact</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_link page="contact" text="Get in touch with the organizers" >}}
+  </div>
+</div>
+
+{{< event_twitter >}}

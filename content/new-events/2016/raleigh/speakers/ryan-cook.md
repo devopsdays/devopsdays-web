@@ -1,0 +1,7 @@
++++
+title = "Ryan Cook"
+twitter = "cooktheryan"
+type = "new-speaker"
+image = "ryan-cook.jpg"
++++
+I'm all about making the process of IT easier and less scary.  I have been part of a few teams with the goal to help safely speed up IT Infrastructure delivery and the release process from development to production. I love automation and finding out ways to do things faster and easier.

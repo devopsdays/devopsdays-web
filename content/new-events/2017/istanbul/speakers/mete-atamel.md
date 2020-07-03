@@ -1,0 +1,7 @@
++++
+title = "Mete Atamel"
+twitter = "meteatamel"
+type = "new-speaker"
+image = "mete-atamel.jpg"
++++
+Mete is a Developer Advocate at Google, currently focused on helping developers with Google Cloud Platform. As a long-time Java and a recent C# developer, he likes to compare the two ecosystems. Prior to Google, he worked at Microsoft, Skype, Adobe, EMC, and Nokia building apps and services on various web, mobile and cloud platforms. Originally from Cyprus, he currently lives in Greenwich, not too far away from the prime meridian.

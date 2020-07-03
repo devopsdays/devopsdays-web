@@ -1,0 +1,7 @@
++++
+title = "Aaron Jensen"
+twitter = "pshdo"
+type = "new-speaker"
+image = "aaron-jensen.jpg"
++++
+Aaron Jensen is a Software Architect for WebMD Health Services, where he automates software builds, deployments, configuration, and installation. He is the creator and maintainer of Carbon, an open-source PowerShell module for automating the installation and configuration of Windows computers, applications, websites, and services. It has been downloaded over 12,000 times and is the 13th most popular non-Microsoft module on the PowerShell Gallery.

@@ -1,0 +1,7 @@
++++
+title = "Fraser Pollock"
+twitter = ""
+type = "new-speaker"
+image = "fraser-pollock.jpg"
++++
+I’ve been through several DevOps transformation with huge successes and catastrophic failures. I’ve seen the good and the bad of DevOps and am ready to share it at the speed of a lightning talk!

@@ -1,0 +1,8 @@
++++
+title = "Karel De Smet"
+twitter = ""
+type = "new-speaker"
+image = "karel-de-smet.jpg"
++++
+Karel developed a love for "all things digital" during his studies at the EHSAL Management School. After working at the water company for 2 years he joined a web agency as a content manager. Now he's part of the marketing & sales team at Openminds, a hosting company with a strong focus on managed hosting, configuration management and DevOps.
+As a passionate marketeer, he's ready for a new challenge every day. But most of all, he just likes to meet new people, talk and have fun! 

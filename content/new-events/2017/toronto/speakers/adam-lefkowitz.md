@@ -1,0 +1,8 @@
++++
+description = ""
+title = "Adam Lefkowitz"
+type = "new-speaker"
+twitter = "luckylefky"
+image = "adam-lefkowitz.jpg"
++++
+I'm an avid DevOps advocate and love learning from others in the space. When not trying to get over my fear of public speaking in Toronto, I'm busy enjoying craft brew, street art and my family.

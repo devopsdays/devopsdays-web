@@ -1,0 +1,7 @@
++++
+title = "James Shubin"
+twitter = "purpleidea"
+type = "new-speaker"
+image = "james-shubin.jpg"
++++
+James is a DevOps/Config mgmt. hacker and physiologist from Montreal, Canada. He often goes by @purpleidea on the internet, and writes 'The Technical Blog of James'.  He currently works for Red Hat doing research and prototyping within systems engineering.  He started a Next Generation Config Management prototype called mgmt.  He studied Physiology at university and sometimes likes to talk about cardiology.

@@ -1,0 +1,9 @@
++++
+description = ""
+title = "Rafael Gomes"
+type = "new-speaker"
+website = "https://gomex.me/"
+twitter = "gomex"
+image = "rafael-gomes.jpg"
++++
+Soteropolitano, hacker urbano e consultor de infraestrutura, formado na Universidade de Salvador no curso de Gestão de Redes. Trabalho atualmente como especialista na Paycertify, focado em infraestrutura como código, cultura devops e cloud. Certificado em LPIC-1, MCSO e Zabbix Certified Specialist. Autor do livro “Docker para desenvolvedores”: https://leanpub.com/dockerparadesenvolvedores

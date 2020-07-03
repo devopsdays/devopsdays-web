@@ -1,0 +1,7 @@
++++
+title = "Joel Vasallo"
+twitter = "__jvasallo__"
+type = "new-speaker"
+image = "joel-vasallo.jpg"
++++
+Joel is currently a DevOps Engineer at Gogo. He's been at Gogo for 4 years improving cloud infrastructure and developing infrastructure tools. Primarily works with Python, the cloud is his immutable datacenter, and loves exploring his home city Chicago from time to time.

@@ -1,0 +1,7 @@
++++
+title = "Warner Moore"
+twitter = "warnermoore"
+type = "new-speaker"
+image = "warner-moore.jpg"
++++
+Warner Moore is a technology and information security leader who is passionate about innovation and entrepreneurship having worked with tech-focused businesses nearly his entire career. When not scaling platforms and teams at CoverMyMeds, he contributes back to the community by organizing Ohio LinuxFest and DevOpsDays Ohio. Additionally, he is co-founder of the LOPSA Columbus chapter and chairs the Leadership Committee.

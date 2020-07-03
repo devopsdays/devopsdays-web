@@ -1,0 +1,7 @@
++++
+title = "Bob Reselman"
+twitter = "reselbob"
+type = "new-speaker"
+image = "bob-reselman.jpg"
++++
+Bob Reselman is a noted technical writer, editor and software developer. Bob has helped companies such as Edmunds.com, the National Association of Recording Arts and Sciences and the computer manufacturer, Gateway, create and maintain a comprehensive, highly discoverable documentation infrastructure that supports text, graphics and video. He has written numerous articles on and about software development and technical document for online publications such as InformIT, DevX, Developer.com and DevSource. Over the course of his career, Bob has held many technology positions in large and small companies. He was Platform Architect for the computer manufacturer, Gateway, and was a Principal Consultant for the transnational consulting company, Cap Gemini.

@@ -1,0 +1,7 @@
++++
+title = "Arthur Furlan"
+twitter = "arthurfurlan"
+type = "new-speaker"
+image = "arthur-furlan.jpg"
++++
+Formado em Ciência da Computação pela UFPR, trabalha com tecnologia há mais de 12 anos e com DevOps desde 2010. Já contribuiu como SysAdmin em diversos projetos de Software Livre como BrOffice.org, PostgreSQL-BR, Mozila-BR, Django Brasil, FLISOL e desde 2013 atua como empreendedor na Configr.

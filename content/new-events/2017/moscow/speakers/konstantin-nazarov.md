@@ -1,0 +1,7 @@
++++
+title = "Konstantin Nazarov"
+twitter = "racktear"
+type = "new-speaker"
+image = "konstantin-nazarov.jpg"
++++
+Константин Назаров - инфраструктурный инженер в команде Tarantool. В прошлом - системный программист и любитель Common Lisp. Минималист и приверженец итеративного подхода ко всему. <br><br>Konstantin Nazarov is an infrastructure engineer in Tarantool team. In the past was a system programmer and a fan of Common Lisp. Minimalist and adept of iterative approach to everything.

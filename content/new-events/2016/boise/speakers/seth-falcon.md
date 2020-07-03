@@ -1,0 +1,14 @@
++++
+title = "Seth Falcon"
+twitter = "sfalcon"
+type = "new-speaker"
+image = "seth-falcon.jpg"
++++
+A product focused engineering leader who builds teams that consistently
+deliver valuable, high quality software at velocity.
+
+Seth believes the essential elements for a high performing team are
+trust, commitment to learning and experimentation, mechanisms for
+measuring outcomes, and clear communication. He's helped teams increase
+their effectiveness as an individual contributor, an engineering
+manager, and as a leader of managers.

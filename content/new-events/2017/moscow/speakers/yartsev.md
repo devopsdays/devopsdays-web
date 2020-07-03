@@ -1,0 +1,7 @@
++++
+title = "Vladimir Yartsev"
+twitter = ""
+type = "new-speaker"
+image = "yartsev.jpg"
++++
+Владимир Ярцев - технический директор в компании Cloud Castle и создатель dockhero.io. В прошлом - системный программист и сисадмин. В настоящем - Ruby-on-Rails-разработчик и адепт Heroku. Верит в The Twelve Factors.<br><br>Vladimir Yartsev is a technical director at Cloud Castle and creator of dockhero.io.  A system programmer and sysadmin in the past, a Ruby-on-Rails developer and Heroku adept in the present. Strongly believes into The Twelve Factors.

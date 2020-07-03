@@ -1,0 +1,7 @@
++++
+title = "Clemens Perz"
+twitter = ""
+type = "new-speaker"
+image = "clemens-perz.jpg"
++++
+I have been working as a freelance lead developer/architect/deployment wizzard since 1990 - and I today own the Next Workstation that I started learning Unix on :) Currently I work for a singaporean data center provider automating the deployment and management of an Open Stack infrastructure.

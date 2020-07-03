@@ -1,0 +1,7 @@
++++
+title = "Maurício Linhares"
+twitter = "mauriciojr"
+type = "new-speaker"
+image = "mauricio-linhares.jpg"
++++
+Maurício Linhares is a technical lead at DigitalOcean working at the Edge team making sure all traffic routed into DO's API and cloud servers reach it's destination. He's been working on cloud environments and infrastructure automation on AWS and private clouds, making sure systems are doing their job. Passionate about functional programming, stateless infrastructure and DevOps to produce distributed systems that are scalable and maintainable in the long run.

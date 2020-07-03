@@ -1,0 +1,7 @@
++++
+title = "Eliot Murphy"
+twitter = "sstatik"
+type = "new-speaker"
+image = "elliot-murphy.jpg"
++++
+Elliot is the CEO of Kindly Ops, a DevOps and security firm focused on reducing the cost of healthcare innovation. Over the last year he has assisted organizations with operation, scaling, and 3rd party risk assessment of mission critical systems that conduct medical research, perform real time malware defense, process prescription refills, deliver therapy, and store psychiatric records.<br><br>He has real-world deployment experience with Kubernetes, Mesos, ECS and Amazon, Google and Azure clouds.

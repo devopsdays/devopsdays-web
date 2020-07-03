@@ -1,0 +1,7 @@
++++
+title = "Peter Walsh"
+twitter = ""
+type = "new-speaker"
+image = "peter-walsh.jpg"
++++
+Peter Walsh is a Director with Jackpine Technologies, a developer of software excellence solutions, including the CONS3RT cloud orchestrator. A graduate of Boston University, Peter has over 20 years of experience in the private & public sector in product design & development, from embedded systems through enterprise software. Peter is a speaker and trainer in Agile Development and DevOps; he has presented at DevOps Days, Red Hat Summit, DISA Mission Partner Conference, and others.

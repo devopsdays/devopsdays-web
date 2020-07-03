@@ -1,0 +1,7 @@
++++
+title = "Remi Bergsma"
+twitter = "remibergsma"
+type = "new-speaker"
+image = "remi-bergsma.jpg"
++++
+Remi Bergsma is an engineer with a pasion for automation. He works for Schuberg Philis, a Mission Critical outsourcing company in NL. Since about 2,5 years Remi works in the Mission Critical Cloud Team at Schuberg Philis. In this role he and his colleagues make sure their Mission Critical Cloud simply works. That is truly DevOps: from ordering, racking and automatically configuring hardware all the way to developing new features and fixing bugs in the Java and Python code. Remi is an Apache CloudStack committer/PMC member and was Release Manager for CloudStack 4.6, 4.7 and 4.8. Nowadays Remi is one of the committers in the Cosmic Cloud project. He did several talks and workshops on conferences and enjoys teaching others new stuff.

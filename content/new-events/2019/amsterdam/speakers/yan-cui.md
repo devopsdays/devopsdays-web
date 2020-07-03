@@ -1,0 +1,12 @@
++++
+description = ""
+title = "Yan Cui"
+type = "new-speaker"
+website = "http://theburningmonk.com/"
+twitter = "theburningmonk"
+linkedin = "https://www.linkedin.com/in/theburningmonk"
+image = "yan-cui.jpg"
++++
+Yan is an experienced engineer who has worked with AWS for nearly 10 years. He has been an architect and lead developer with a variety of industries ranging from investment banks, e-commence to mobile gaming.
+
+Yan is an AWS Serverless hero, international speaker, and the author of Production-Ready Serverless by Manning. In his spare time he keeps an active blog at http://theburningmonk.com where he shares his thoughts on topics such as AWS, serverless, functional programming and chaos engineering.

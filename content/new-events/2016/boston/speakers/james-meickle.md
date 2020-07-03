@@ -1,0 +1,7 @@
++++
+title = "James Meickle"
+twitter = "jmeickle"
+type = "new-speaker"
+image = "james-meickle.jpg"
++++
+Site Reliability Engineer at the Center for Brain Science at Harvard University<br><br>  As an engineer with a background in psychology and political science, James has a strong interest in combining code optimizations and people optimizations. He currently works as a site reliability engineer at the Center for Brain Science at Harvard University where he is responsible for managing fMRI brain scan data, architecting processing pipelines, and deploying statistical software. Past roles include developer evangelist at web performance startup AppNeta and release engineer at Romney for President ’12. In his spare time, James is also a conference organizer for DevOpsDays Boston.

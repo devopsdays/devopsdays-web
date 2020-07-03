@@ -1,0 +1,13 @@
++++
+description = ""
+title = "How to lead 100 DevOps specialists"
+type = "new-talk"
+speakers = [
+        "uldis-karlovs-karlovskis",
+]
+youtube = "I9Y6DXvWv4U"
+slideshare = "https://www.slideshare.net/DODRiga/devopsdaysriga-2017-uldis-karlovskarlovskis-how-to-lead-100-devops-specialists"
++++
+<p><em>Last 5 years I have spent growing one of biggest DevOps groups in Nordics and maybe even Europe. This talk is my confession about Do's and Dont's, DevOps anti-patterns and the world were DevOps silo could be a good thing.</em></p> 
+<p>It also could be called Scaled DevOps but that doesn't cover everything what we do. It has been a journey of 4-5 years going from change to change by experimentation. There are not that many good reads or people where to take advice from how to do this in a large enterprise.</p>
+<p>No bulls***, real data, real people.</p>

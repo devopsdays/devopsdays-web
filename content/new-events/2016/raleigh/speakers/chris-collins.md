@@ -1,0 +1,7 @@
++++
+title = "Chris Collins"
+twitter = "ChrisInDurham"
+type = "new-speaker"
+image = "chris-collins.jpg"
++++
+Chris Collins is a senior automation engineer and the web architecture lead at Duke University's Office of Information Technology.  He's a container and automation evangelist, leads adoption of containers within the university, and loves to talk about them with anyone who will listen, much to the annoyance of the co-workers who sit closest to him.

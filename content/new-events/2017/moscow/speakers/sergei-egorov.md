@@ -1,0 +1,7 @@
++++
+title = "Sergei Egorov"
+twitter = "bsideup"
+type = "new-speaker"
+image = "sergei-egorov.jpg"
++++
+DevOps-на-все-руки (и голову) в компании ZeroTurnaround. Является со-ведущим русскоговорящего DevOps подкаста "Two Devs One Ops". Ранее работал в геймдеве, где высоконагруженные системы - это не вам не хухры-мухры!<br><br>DevOps-man at ZeroTurnaround. Co-creator of a DevOps podcast (in Russian) named "Two Devs One Ops". Used to be a game developer, where "highload" - isn't a buzzword!

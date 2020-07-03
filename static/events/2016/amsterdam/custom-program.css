@@ -1,0 +1,54 @@
+.box-green {
+  background:#76d89a;
+  font-size: small;
+}
+
+.box-darkgreen {
+  background:#1B6B19;
+  color:#ffffff;
+  font-size: small;
+}
+
+.box-blue {
+  background:#E5ECF9;
+  font-size: small;
+}
+
+.box-coral {
+  background:#f88379;
+  font-size: small;
+}
+
+.box-redhat {
+  background:#cc0000;
+  font-size: small;
+}
+
+.box-cheforange {
+  background:#f18b21;
+  font-size: small;
+}
+
+.box-atlassianblue {
+  background:#205081;
+  font-size: small;
+}
+
+.centerstyle {
+  text-align:center;
+}
+
+.box-orange {
+  font-family: sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  background:#f18b21;
+}
+
+.centerstyle {
+  text-align:center;
+}
+
+.box-gray {
+  background:#e7e3e3;
+}

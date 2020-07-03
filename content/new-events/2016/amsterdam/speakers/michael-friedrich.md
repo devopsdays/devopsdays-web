@@ -1,0 +1,7 @@
++++
+title = "Michael Friedrich"
+twitter = ""
+type = "new-speaker"
+image = "michael-friedrich.jpg"
++++
+Michael has been an Icinga core developer for more than 7 years. He is currently leading the Icinga 2 development together with Gunnar. In addition to the exciting core architecture work he likes to play with Vagrant. Docker and Dashing. You’ll also find him active over at monitoring-portal.org, most recently as administrator too. In his spare time Michael loves to build LEGO models and enjoys Nuremberg with his Austrian dialect.

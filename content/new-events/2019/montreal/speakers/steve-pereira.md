@@ -1,0 +1,8 @@
++++
+description = ""
+title = "Steve Pereira"
+type = "new-speaker"
+twitter = "SteveElsewhere"
+image = "steve-pereira.jpg"
++++
+Steve is a long time DevOps fan and organizer of Toronto's largest DevOps meetup and DevOps Days Toronto. He's been working in process automation since 2001, most recently a SaaS founding CTO and now founder of Visible (vzbl.io) helping teams level up with DevOps.

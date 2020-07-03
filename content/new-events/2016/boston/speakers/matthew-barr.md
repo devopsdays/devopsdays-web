@@ -1,0 +1,7 @@
++++
+title = "Matthew Barr"
+twitter = "matthewbarr"
+type = "new-speaker"
+image = "matthew-barr.jpg"
++++
+Matthew Barr is an architect for the Developer Productivity at Akamai.  In the past, he's worked as a sysadmin & "devops engineer" for banks & startups, large & small companies.

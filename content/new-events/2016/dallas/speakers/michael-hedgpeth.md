@@ -1,0 +1,7 @@
++++
+title = "Michael Hedgpeth"
+twitter = "michaelhedgpeth"
+type = "new-speaker"
+image = "michael-hedgpeth.jpg"
++++
+Michael Hedgpeth has been automating all the things for over a decade at NCR by implementing devops and testing automation for their hospitality and is currently working with the development organization to implement Chef as NCR Hospitality's configuration management platform. Over the years, Michael has developed a passion for test-driven development, Kanban, good design, organizational effectiveness, Texas BBQ and mountain biking.

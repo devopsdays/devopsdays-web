@@ -1,0 +1,11 @@
++++
+title = "Alan Kraft"
+twitter = ""
+type = "new-speaker"
+image = "alan-kraft.jpg"
++++
+After an early career in UNIX and Linux system administration, Alan now
+works on hybrid cloud computing, Linux Containers, and DevOps at USPTO.
+His current interests include infrastructure as code, systems thinking
+& learning organizations, and the application of concepts from safety
+science and complexity theory to DevOps.

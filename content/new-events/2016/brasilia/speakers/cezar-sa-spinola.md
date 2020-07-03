@@ -1,0 +1,7 @@
++++
+title = "Cézar Sá Spinola"
+twitter = "cezarsa"
+type = "new-speaker"
+image = "cezar-sa-spinola.jpg"
++++
+Cezar Sá Espinola é um desenvolvedor com mais de 10 anos de experiência e contribuição em vários projetos open-source. Hoje faz parte da equipe do tsuru e atua tanto em seu desenvolvimento como no suporte ao seu uso dentro da Globo.com. Apesar de ser mais Dev do que Ops o trabalho no tsuru e na infraestrutura da Globo.com equilibra bem isso e faz enxergar que Devops deveria mesmo ser uma palavra só.

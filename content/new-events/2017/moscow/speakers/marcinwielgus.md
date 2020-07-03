@@ -1,0 +1,7 @@
++++
+title = "Marcin Wielgus"
+twitter = ""
+type = "new-speaker"
+image = "marcinwielgus.jpg"
++++
+Marcin Wielgus - Senior Software Engineer at Google. Marcin joined the internet search giant in 2010 and since then he has been working on various projects, ranging from Android applications to recommendation engines. Currently he is a part of the Kubernetes team, where he is mainly focused on autoscaling and cluster federation. 

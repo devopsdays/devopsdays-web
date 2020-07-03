@@ -1,0 +1,7 @@
++++
+title = "Jasmine Russell"
+twitter = "JasMRussell"
+type = "new-speaker"
+image = "jasmine-russell.jpg"
++++
+Jasmine holds 8 years of experience within quantitative and qualitative market research and digital analytics across markets of: retail, consumer products, healthcare, service and technology industries. From her analytic focus, she brings a knowledge base of optimizing market strategy–guiding broad concepts into strategic business action. Jasmine additionally works within the Minneapolis community with groups to facilitate women empowerment, diversity development (i.e. P.O.C.’s), collaborative student learning, technology development, and community speaker concept development (i.e. event speaker curation). Founder of [theproceed.com](http://www.theproceed.com/).

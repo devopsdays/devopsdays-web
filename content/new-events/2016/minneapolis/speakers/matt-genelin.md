@@ -1,0 +1,7 @@
++++
+title = "Matt Genelin"
+twitter = "magellanOnOps"
+type = "new-speaker"
+image = "matt-genelin.jpg"
++++
+Matt Genelin is a Senior DevOps Engineer @optum. Dad, Sys Admin, Improv. comedian, amateur radio op. Matt has been a System Administrator for big and small companies for 15 years.

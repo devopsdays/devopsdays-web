@@ -1,0 +1,7 @@
++++
+title = "Jonathan Baraldi"
+twitter = "baraldijonathan"
+type = "new-speaker"
+image = "jonathan-baraldi.jpg"
++++
+Trabalho na empresa BRCloud Services como especialista em nuvem e infraestrutura, somos parceiros da Rancher no Brasil para consultoria, projetos e implantações desta tecnologia de orquestração de containers, para ambientes multi-nuvem, resilientes e distribuídos. Procuro desenvolver cada vez mais a cultura de DevOps através da automação da gestão da infra estrutura de containers e também da nuvem.

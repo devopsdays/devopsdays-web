@@ -1,0 +1,7 @@
++++
+title = "Shazad Brohi"
+twitter = ""
+type = "new-speaker"
+image = "shazad-brohi.jpg"
++++
+Shazad Brohi is a dedicated, highly driven, and team-oriented software engineer with extensive experience working with 3-tier enterprise and web applications. Shazad is also a self-starter that can pick up and learn new technologies at a fast pace. Shazad possesses a strong understanding of the software development life-cycle and the technical acumen to execute it.

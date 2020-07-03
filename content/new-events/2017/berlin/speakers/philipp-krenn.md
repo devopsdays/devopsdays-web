@@ -1,0 +1,8 @@
++++
+description = ""
+title = "Philipp Krenn"
+type = "new-speaker"
+twitter = "xeraa"
+image = "philipp-krenn.jpg"
++++
+Philipp is part of the infrastructure team and a Developer Advocate at Elastic, spreading the love and knowledge of full-text search, analytics, and real-time data. He is a frequent speaker at conferences and meetups about all things search & analytics, databases, cloud computing, and devops.

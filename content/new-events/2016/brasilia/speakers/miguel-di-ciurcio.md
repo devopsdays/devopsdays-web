@@ -1,0 +1,7 @@
++++
+title = "Miguel Di Ciurcio"
+twitter = "mciurcio"
+type = "new-speaker"
+image = "miguel-di-ciurcio.jpg"
++++
+Eu sou o primeiro Certified Puppet Professional na América Latina e também um dos fundadores da comunidade Puppet Brasil. Durante a universidade, participei do Google Summer of Code, trabalhando no projeto QEMU. Trabalhei como administrador de sistemas e instrutor boa parte da minha carreira, contribuindo em diversos projetos open source com patches e palestrando em conferências e eventos. Em 2011 fundei a Instruct. Desde então, a empresa já realizou muitos projetos e treinamentos como única qualificada para ser Puppet Authorized Training e Channel Partner do Brasil e também GitLab Resseller.

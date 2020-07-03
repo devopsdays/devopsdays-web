@@ -1,0 +1,7 @@
++++
+title = "Hannah Foxwell"
+twitter = "hannahfoxwell"
+type = "new-speaker"
+image = "hannah-foxwell.jpg"
++++
+While culture and sharing are at the heart of DevOps, Infrastructure Automation is the technical backbone. That’s one of the reasons why Hannah co-founded Pendrica, a consultancy specialising in Platform Automation with Chef and Microsoft. Hannah’s background and experience in managing large scale software programmes naturally lead to a keen interest in Agile, Continuous Delivery and the DevOps movement as a way of building collaborative, highly-performing teams. As a coach and mentor she continues this work today, helping teams improve how they work together in the fast-moving world of automation. Outside of work you can generally find Hannah in her local pub enjoying a craft beer while planning her next adventure.

@@ -1,0 +1,5 @@
++++
+name = "X5 Retail Group"
+website = "https://www.x5.ru/"
+twitter = "https://twitter.com/x5_retailgroup"
++++

@@ -1,0 +1,7 @@
++++
+title = "Thiago Almeida"
+twitter = "nzthiago"
+type = "new-speaker"
+image = "thiago-almeida.jpg"
++++
+Thiago grew up in Brazil and lived in New Zealand for a long time before joining the Microsoft team in Redmond. He's part of the team that drives adoption of new technologies, focusing on cloud computing, open source, and DevOps practices. <br> <br> [Blog](http://talmeida.net)

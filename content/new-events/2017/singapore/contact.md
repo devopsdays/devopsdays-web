@@ -1,0 +1,21 @@
++++
+description = "Contact information for DevOpsDays Singapore 2017"
+title = "Contact"
+type = "new-contact"
++++
+## Important addresses
+
+* Email address for organizers: {{< email_organizers >}}
+* Singapore Emergency Contact list: [https://www.gov.sg/being-prepared/home/](https://www.gov.sg/being-prepared/home/)
+* Local law enforcement: Singapore Police Force - call 999
+* Sexual assault hotline: 1800 774 5935
+
+Big THANK YOU to [Wenshu Kwek](https://twitter.com/wenshukwek) for designing the logo and [Brendan Lim](https://www.instagram.com/brendanbernerd/) for designing the shirt & prints!
+
+## Our local team
+
+{{< list_organizers >}}
+
+## The core devopsdays organizer group
+
+{{< list_core >}}

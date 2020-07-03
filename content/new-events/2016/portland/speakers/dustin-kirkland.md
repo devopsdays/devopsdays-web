@@ -1,0 +1,6 @@
++++
+title = "Dustin Kirkland"
+twitter = "dustinkirkland"
+type = "new-speaker"
++++
+Dustin Kirkland leads the Product Management Team at Canonical for Ubuntu, from servers in the cloud to connected devices and Internet things.  When he's not hacking on open source software in Ubuntu, he's home brewing beer or chasing his daughters around.

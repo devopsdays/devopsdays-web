@@ -1,0 +1,11 @@
++++
+description = ""
+title = "Adding and retiring technologies in your stack"
+type = "new-talk"
+speakers = [
+        "avleen-vig",
+]
++++
+This talk will discuss how new technologies can be added to an existing technology stack, and how old ones should be retired.
+It bring a lot of lessons learned at Etsy over 7 years, and explains how the architecture review process worked there.
+The audience should walk away with a better idea of how to integrate new technologies into their existing systems, when to decide it's right to do it, and how to remove existing legacy systems.

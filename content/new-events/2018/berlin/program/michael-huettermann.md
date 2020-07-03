@@ -1,0 +1,9 @@
++++
+description = ""
+title = "20 Shades of DevOps-Grey - Redux"
+type = "new-talk"
+speakers = [
+        "michael-huettermann",
+]
++++
+DevOps all over with new material hitting the market continuously. And many superstars around. This iqnite presents a reality check, and gives you 20 pointers for further reading and appetizers for further thinking. 10 pointers to DevOps superstars and 10 pointers to DevOps books. Expect everything between laughters and raised eyebrows.

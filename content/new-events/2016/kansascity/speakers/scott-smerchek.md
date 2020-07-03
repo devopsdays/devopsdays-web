@@ -1,0 +1,7 @@
++++
+title = "Scott Smerchek"
+twitter = "smerchek"
+type = "new-speaker"
+image = "scott-smerchek.jpg"
++++
+Scott is a software engineer working at a small medication adherence company called SMRxT. Formerly he worked as a .NET developer and more recently as a node.js/javascript developer. However, Scott has most recently been drawn to functional, typed languages like Elm and Haskell. Scott enjoys working for small healthcare businesses building software that can change lives for the better. Working with new technologies and constantly learning are a bonus.

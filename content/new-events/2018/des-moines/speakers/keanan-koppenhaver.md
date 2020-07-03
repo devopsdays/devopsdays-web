@@ -1,0 +1,8 @@
++++
+description = ""
+title = "Keanan Koppenhaver"
+type = "new-speaker"
+twitter = "kkoppenhaver"
+image = "keanan-koppenhaver.jpg"
++++
+Keanan Koppenhaver is CTO at Alpha Particle, a digital consultancy that helps plan and execute digital projects that serve anywhere from a few users a month to a few hundred thousand. He enjoys helping clients build out their developer teams and setting them up for success. He believes that more technology isn't always the answer, but when it is, it's important to get it right.

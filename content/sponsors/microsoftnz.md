@@ -1,0 +1,5 @@
++++
+name = "MicrosoftNZ"
+website = "https://azure.microsoft.com/en-us/services/devops/?nav=min"
+twitter = "msdevNZ"
++++

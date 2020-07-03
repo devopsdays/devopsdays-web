@@ -1,0 +1,58 @@
++++
+title = "Program"
+description = "Program and schedule for DevOpsDays Philadelphia 2017"
+type = "new-program"
+program_elements = [
+    { title = "Registration, Breakfast, Sponsor Booths Open", type = "custom", start = 2017-10-24T08:00:00-06:00, end = 2017-10-24T09:00:00-06:00 },
+    { title = "Opening Welcome", type = "custom", start = 2017-10-24T09:00:00-06:00, end = 2017-10-24T09:15:00-06:00 },
+    { title = "nicole-forsgren", type = "talk", start = 2017-10-24T09:15:00-06:00, end = 2017-10-24T09:45:00-06:00 },
+    { title = "Sponsors", type = "custom", start = 2017-10-24T09:45:00-06:00, end = 2017-10-24T09:55:00-06:00 },
+    { title = "tony-burns", type = "talk", start = 2017-10-24T09:55:00-06:00, end = 2017-10-24T10:25:00-06:00 },
+    { title = "Break", type = "custom", start = 2017-10-24T10:25:00-06:00, end = 2017-10-24T10:40:00-06:00 },
+    { title = "stephanie-herr", type = "talk", start = 2017-10-24T10:40:00-06:00, end = 2017-10-24T11:10:00-06:00 },
+    { title = "Sponsors", type = "custom", start = 2017-10-24T11:10:00-06:00, end = 2017-10-24T11:20:00-06:00 },
+    { title = "david-grizzanti", type = "talk", start = 2017-10-24T11:20:00-06:00, end = 2017-10-24T11:50:00-06:00 },
+    { title = "Lunch", type = "lunch", start = 2017-10-24T11:50:00-06:00, end = 2017-10-24T13:00:00-06:00 },
+    { title = "Ignites Day 1", type = "ignite", start = 2017-10-24T13:00:00-06:00, end = 2017-10-24T13:30:00-06:00 },
+    { title = "Open Spaces Intro and Proposals", type = "open-space", start = 2017-10-24T13:30:00-06:00, end = 2017-10-24T14:15:00-06:00 },
+    { title = "Open Space 1: Attendee-suggested breakout session", type = "open-space", start = 2017-10-24T14:15:00-06:00, end = 2017-10-24T14:55:00-06:00 },
+    { title = "Afternoon Snack", type = "custom", start = 2017-10-24T14:55:00-06:00, end = 2017-10-24T15:15:00-06:00 },
+    { title = "Open Space 2: Attendee-suggested breakout session", type = "open-space", start = 2017-10-24T15:15:00-06:00, end = 2017-10-24T15:55:00-06:00 },
+    { title = "Open Space 3: Attendee-suggested breakout session", type = "open-space", start = 2017-10-24T16:00:00-06:00, end = 2017-10-24T16:40:00-06:00 },
+    { title = "Close Day & Announcements", type = "custom", start = 2017-10-24T16:45:00-06:00, end = 2017-10-24T17:00:00-06:00 },
+    { title = "Evening Reception", type = "custom", start = 2017-10-24T17:00:00-06:00, end = 2017-10-24T19:00:00-06:00 },
+    { title = "Registration, Breakfast, Sponsor Booths Open", type = "custom", start = 2017-10-25T08:00:00-06:00, end = 2017-10-25T09:00:00-06:00 },
+    { title = "Opening Welcome", type = "custom", start = 2017-10-25T09:00:00-06:00, end = 2017-10-25T09:15:00-06:00 },
+    { title = "andreas-grabner", type = "talk", start = 2017-10-25T09:15:00-06:00, end = 2017-10-25T09:45:00-06:00 },
+    { title = "Sponsors", type = "custom", start = 2017-10-25T09:45:00-06:00, end = 2017-10-25T09:55:00-06:00 },
+    { title = "kim-crayton", type = "talk", start = 2017-10-25T09:55:00-06:00, end = 2017-10-25T10:25:00-06:00 },
+    { title = "Break", type = "custom", start = 2017-10-25T10:25:00-06:00, end = 2017-10-25T10:40:00-06:00 },
+    { title = "sam-jones", type = "talk", start = 2017-10-25T10:40:00-06:00, end = 2017-10-25T11:10:00-06:00 },
+    { title = "Sponsors", type = "custom", start = 2017-10-25T11:10:00-06:00, end = 2017-10-25T11:20:00-06:00 },
+    { title = "erica-windisch", type = "talk", start = 2017-10-25T11:20:00-06:00, end = 2017-10-25T11:50:00-06:00 },
+    { title = "Lunch", type = "custom", start = 2017-10-25T11:50:00-06:00, end = 2017-10-25T13:00:00-06:00 },
+    { title = "Ignites Day 2", type = "ignite", start = 2017-10-25T13:00:00-06:00, end = 2017-10-25T13:35:00-06:00 },
+    { title = "Open Spaces Intro and Proposals", type = "open-space", start = 2017-10-25T13:35:00-06:00, end = 2017-10-25T14:15:00-06:00 },
+    { title = "Open Space 4: Attendee-suggested breakout session", type = "open-space", start = 2017-10-25T14:15:00-06:00, end = 2017-10-25T14:55:00-06:00 },
+    { title = "Afternoon Snack", type = "custom", start = 2017-10-25T14:55:00-06:00, end = 2017-10-25T15:15:00-06:00 },
+    { title = "Open Space 5: Attendee-suggested breakout session", type = "open-space", start = 2017-10-25T15:15:00-06:00, end = 2017-10-25T15:55:00-06:00 },
+    { title = "Open Space 6: Attendee-suggested breakout session", type = "open-space", start = 2017-10-25T16:00:00-06:00, end = 2017-10-25T16:40:00-06:00 },
+    { title = "Close Day, Prizes, and Farewell", type = "open-space", start = 2017-10-25T16:45:00-06:00, end = 2017-10-25T17:00:00-06:00 },
+]
+ignites = [
+    { title = "jason-m-salberblack", date = 2017-10-24 },
+    { title = "sonia-sarda", date = 2017-10-24 },
+    { title = "daniel-olson", date = 2017-10-24 },
+    { title = "logan-daigle", date = 2017-10-24 },
+    { title = "andre-d-henry", date = 2017-10-24 },
+    { title = "Ignite Karaoke", date = 2017-10-24 },
+    { title = "tim-gross", date = 2017-10-25 },
+    { title = "brian-cole", date = 2017-10-25 },
+    { title = "michael-winslow", date = 2017-10-25 },
+    { title = "steve-desmond", date = 2017-10-25 },
+    { title = "darwin-sanoy", date = 2017-10-25 },
+    { title = "bridget-kromhout", date = 2017-10-25 },
+    { title = "Ignite Karaoke", date = 2017-10-25 },
+]
++++
+

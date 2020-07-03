@@ -1,0 +1,48 @@
++++
+title = "Denver 2018 Program"
+description = ""
+type = "new-program"
+program_elements = [
+    { title = "Registration, Breakfast, Sponsors", type = "custom", start = 2018-04-17T08:00:00-06:00, end = 2018-04-17T09:00:00-06:00 },
+    { title = "Opening Welcome", type = "custom", start = 2018-04-17T09:00:00-06:00, end = 2018-04-17T09:10:00-06:00 },
+    { title = "pete-cheslock", type = "talk", start = 2018-04-17T09:10:00-06:00, end = 2018-04-17T09:40:00-06:00 },
+    { title = "curtis-yanko", type = "talk", start = 2018-04-17T09:40:00-06:00, end = 2018-04-17T10:10:00-06:00 },
+    { title = "Morning Break - VooDoo Donuts by Waffle.io", type = "custom", start = 2018-04-17T10:15:00-06:00, end = 2018-04-17T10:45:00-06:00 },
+    { title = "michael-stahnke", type = "talk", start = 2018-04-17T10:50:00-06:00, end = 2018-04-17T11:20:00-06:00 },
+    { title = "Sponsors", type = "custom", start = 2018-04-17T11:20:00-06:00, end = 2018-04-17T11:30:00-06:00 },
+    { title = "leigh-capili", type = "talk", start = 2018-04-17T11:30:00-06:00, end = 2018-04-17T12:00:00-06:00 },
+    { title = "Lunch", type = "custom", start = 2018-04-17T12:00:00-06:00, end = 2018-04-17T13:30:00-06:00 },
+    { title = "Ignites", type = "custom", start = 2018-04-17T13:30:00-06:00, end = 2018-04-17T14:40:00-06:00 },
+    { title = "aj-davis", type = "talk", start = 2018-04-17T14:40:00-06:00, end = 2018-04-17T15:10:00-06:00 },
+    { title = "Open Space Opening", type = "custom", start = 2018-04-17T15:15:00-06:00, end = 2018-04-17T15:25:00-06:00 },
+    { title = "Open Space #1", type = "custom", start = 2018-04-17T15:25:00-06:00, end = 2018-04-17T15:20:00-06:00 },
+    { title = "meera-subbarao", type = "talk", start = 2018-04-17T15:25:00-06:00, end = 2018-04-17T15:55:00-06:00 },
+    { title = "Open Space #2", type = "custom", start = 2018-04-17T16:00:00-06:00, end = 2018-04-17T16:30:00-06:00 },
+    { title = "ado-kukic", type = "talk", start = 2018-04-17T16:00:00-06:00, end = 2018-04-17T16:30:00-06:00 },
+    { title = "Open Space #3", type = "custom", start = 2018-04-17T16:30:00-06:00, end = 2018-04-17T17:00:00-06:00 },
+    { title = "erik-rygg", type = "talk", start = 2018-04-17T16:30:00-06:00, end = 2018-04-17T17:00:00-06:00 },
+    { title = "Close Day", type = "custom", start = 2018-04-17T17:00:00-06:00, end = 2018-04-17T17:10:00-06:00 },
+    { title = "Evening event", type = "custom", start = 2018-04-17T17:30:00-06:00, end = 2018-04-17T10:00:00-06:00 },
+    { title = "Registration, Breakfast, Sponsors", type = "custom", start = 2018-04-18T08:00:00-06:00, end = 2018-04-18T09:00:00-06:00 },
+    { title = "Opening Welcome", type = "custom", start = 2018-04-18T09:00:00-06:00, end = 2018-04-18T09:10:00-06:00 },
+    { title = "christine-rohacz", type = "talk", start = 2018-04-18T09:10:00-06:00, end = 2018-04-18T09:40:00-06:00 },
+    { title = "corey-quinn", type = "talk", start = 2018-04-18T09:40:00-06:00, end = 2018-04-18T10:10:00-06:00 },
+    { title = "Morning Break - VooDoo Donuts by Waffle.io", type = "custom", start = 2018-04-18T10:15:00-06:00, end = 2018-04-18T10:45:00-06:00 },
+    { title = "matthew-boeckman", type = "talk", start = 2018-04-18T10:50:00-06:00, end = 2018-04-18T11:20:00-06:00 },
+    { title = "Sponsors", type = "custom", start = 2018-04-18T11:20:00-06:00, end = 2018-04-18T11:30:00-06:00 },
+    { title = "beau-christensen", type = "talk", start = 2018-04-18T11:30:00-06:00, end = 2018-04-18T12:00:00-06:00 },
+    { title = "Lunch", type = "custom", start = 2018-04-18T12:00:00-06:00, end = 2018-04-18T13:30:00-06:00 },
+    { title = "Ignites", type = "custom", start = 2018-04-18T13:40:00-06:00, end = 2018-04-18T14:40:00-06:00 },
+    { title = "Open Space Opening", type = "custom", start = 2018-04-18T14:40:00-06:00, end = 2018-04-18T14:45:00-06:00 },
+    { title = "Open Space #1", type = "custom", start = 2018-04-18T14:45:00-06:00, end = 2018-04-18T15:15:00-06:00 },
+    { title = "tom-mclaughlin", type = "talk", start = 2018-04-18T14:45:00-06:00, end = 2018-04-18T15:15:00-06:00 },
+    { title = "Open Space #2", type = "custom", start = 2018-04-18T15:20:00-06:00, end = 2018-04-18T15:50:00-06:00 },
+    { title = "rizchel-dayao", type = "talk", start = 2018-04-18T15:20:00-06:00, end = 2018-04-18T15:50:00-06:00 },
+    { title = "Open Space #3", type = "custom", start = 2018-04-18T16:00:00-06:00, end = 2018-04-18T16:30:00-06:00 },
+    { title = "kris-nova", type = "talk", start = 2018-04-18T16:00:00-06:00, end = 2018-04-18T16:30:00-06:00 },
+    { title = "Open Space #4", type = "custom", start = 2018-04-18T16:30:00-06:00, end = 2018-04-18T17:00:00-06:00 },
+    { title = "james-bowes", type = "talk", start = 2018-04-18T16:30:00-06:00, end = 2018-04-18T17:00:00-06:00 },
+    { title = "Sponsor Raffles and Closing", type = "custom", start = 2018-04-18T17:00:00-06:00, end = 2018-04-18T17:20:00-06:00 },
+]
++++
+

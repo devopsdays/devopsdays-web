@@ -1,0 +1,9 @@
++++
+description = ""
+title = "Adam Kaufman"
+type = "new-speaker"
+linkedin = "https://www.linkedin.com/in/adam-kaufman-1a501119/"
+github = "ajk8"
+image = "adam-kaufman.jpg"
++++
+A software engineer by day, Adam Kaufman wears many hats. Between his musical endeavors, food and cocktail enthusiasm, the urge to be outdoors, and the rigors of raising two kids, he keeps himself very busy. He also brings that multifaceted experience to his work, combining it with an abiding interest in systems design and achievement-oriented focus to produce positive, outside-the-box outcomes.

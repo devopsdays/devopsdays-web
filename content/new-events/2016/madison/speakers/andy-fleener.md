@@ -1,0 +1,7 @@
++++
+title = "Andy Fleener"
+twitter = "andyfleener"
+type = "new-speaker"
+image = "andy-fleener.jpg"
++++
+Andy Fleener is a Humanist, and a New View Safety Nerd who believes software is as much about the people building and running it as it is the people using it. He is a Senior Software Engineer at SportsEngine where he’s been doing a mix of development and operations for the last 5 years. Andy enjoys music, football, sushi, oxford commas, and laughing at all the things millennials are ruining.

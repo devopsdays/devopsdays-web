@@ -1,0 +1,7 @@
++++
+title = "Mike Place"
+twitter = "cachedout"
+type = "new-speaker"
+image = "mike-place.jpg"
++++
+I am the principle maintainer of SaltStack -- one of the world's leading open-source automation platforms. I've keynoted and spoken at dozens of conferences. I'm currently residing in Tokyo so this is a perfect chance for me to attend more conferences in Asia. :]

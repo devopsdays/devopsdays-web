@@ -1,0 +1,12 @@
++++
+description = ""
+title = "Continuous Delivery was never about faster"
+type = "new-talk"
+speakers = [
+        "ken-mugrage",
+]
+pdf = "https://assets.devopsdays.org/events/2019/stockholm/CD-Was-Never-About-Faster.pdf"
++++
+When Continuous Delivery was in its infancy, getting faster wasn't one of the primary goals. It was about getting the right things into production safely, and providing the ability to change it quickly when required. 
+
+In other words, it was about making the business better.

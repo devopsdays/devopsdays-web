@@ -1,0 +1,7 @@
++++
+title = "Mrinal Mukherjee"
+twitter = "mukherjee_mk"
+type = "new-speaker"
+image = "mrinal-mukherjee.jpg"
++++
+With over 12 years of consulting experience in various technical domains, Mrinal is currently working with 'Assurity Consulting' as part of its DevOps practice. He is currently partnering with clients to help them implement CI/CD practices, Infrastructure as Code and to enjoy software development in general!

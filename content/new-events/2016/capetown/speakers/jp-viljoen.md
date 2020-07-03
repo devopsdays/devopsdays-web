@@ -1,0 +1,8 @@
++++
+title = "JP Viljoen"
+twitter = "froztbyte"
+type = "new-speaker"
+image = "jp-viljoen.jpg"
++++
+A computer farmer and packet herder by trade, JP spent years working in the broadcast and telecoms industries. The founder of Featherlight Consulting, JP adheres to the philosophy that things can, and most likely will, break. He spends much of his time caring about meaningful insights into systems, engineering reliability where needed, and delivering bespoke solutions in a number of problem domains.
+JP picks Python as the first hammer in his toolbox (although he writes whatever is necessary), learns Haskell for fun, reads filesystems whitepapers while drinking beer, and plays with IP video streams and Internet routing protocols when bored.

@@ -1,0 +1,7 @@
++++
+title = "Jim Leitch"
+twitter = ""
+type = "new-speaker"
+image = "jim-leitch.jpg"
++++
+Jim is a family man, guitarist and dog lover. Having lived in the Netherlands for the last 22 years he knows where the best stroopwafels are.

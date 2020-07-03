@@ -1,0 +1,15 @@
++++
+description = ""
+title = "Convince Your Boss: Why DevOps in 5 Minutes"
+type = "new-talk"
+speakers = [
+        "kelly-albrecht",
+]
++++
+Consider the following statement:
+
+"It's safe and possible to release work to a customer at any time."
+
+If you were asked to respond to this on a scale of ""Not at all"" to ""Consistently,"" what would your answer be?
+
+You might have questions and concerns before you answer, I'll consider them in this five minute ignite talk.

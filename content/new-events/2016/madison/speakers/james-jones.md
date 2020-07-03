@@ -1,0 +1,7 @@
++++
+title = "James Jones"
+twitter = "velocity303"
+type = "new-speaker"
+image = "james-jones.jpg"
++++
+James Jones is a Technical Solutions Engineer at Puppet. He joined Puppet in 2014 after working at Oracle as an Operations Engineer for several years. Focusing on environments that are both dynamic and include different operating systems and technologies he looks to bring his experience to customers getting started with building out automation solutions with Puppet Enterprise.

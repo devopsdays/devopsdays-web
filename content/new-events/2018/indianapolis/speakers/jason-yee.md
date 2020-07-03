@@ -1,0 +1,16 @@
++++
+description = ""
+title = "Jason Yee"
+type = "new-speaker"
+website = "https://www.datadoghq.com/"
+twitter = "gitbisect"
+linkedin = "https://www.linkedin.com/in/gitbisect/"
+github = "jyee"
+image = "jason-yee.png"
++++
+Jason is a technical evangelist at Datadog, where he works to inspire
+developers and ops engineers with the power of metrics and monitoring.
+Previously, he was the community manager for DevOps & Performance at
+O’Reilly Media and a software engineer at MongoDB. He’s currently
+exploring the world while living as a nomad and would love to hear about
+the part of the world that you call home.

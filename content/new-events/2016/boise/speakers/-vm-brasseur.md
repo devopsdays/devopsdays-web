@@ -1,0 +1,14 @@
++++
+title = "VM Brasseur"
+twitter = "vmbrasseur"
+type = "new-speaker"
+image = "-vm-brasseur.jpg"
++++
+VM Brasseur (aka Vicky) is a manager of technical people, projects,
+processes, products, and p^Hbusinesses. In her nearly 20 years in the
+tech industry, Vicky has been an analyst, programmer, product manager,
+software engineering manager, technical business consultant, and
+director of software engineering. Currently, she is a senior
+engineering manager at Hewlett Packard Enterprise, serving a team of
+developers 100% dedicated to upstream open source development on
+OpenStack. Vicky [occasionally blogs](http://anonymoushash.vmbrasseur.com/).

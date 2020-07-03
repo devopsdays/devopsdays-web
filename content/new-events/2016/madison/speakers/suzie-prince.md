@@ -1,0 +1,8 @@
++++
+title = "Suzie Prince"
+twitter = "pm_suzie"
+type = "new-speaker"
+image = "suzie-prince.jpg"
++++
+Suzie Prince is Head of Product for ThoughtWorks product division building pioneering tools for software development teams. She has over ten years experience as a product manager designing and delivering software that is valuable, usable, feasible, and desirable.
+She likes pushing buttons to deploy, feature toggles and pager duty. She also likes burritos, beer and hiking.

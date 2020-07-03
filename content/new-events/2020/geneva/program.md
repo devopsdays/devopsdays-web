@@ -1,0 +1,45 @@
++++
+title = "Program"
+description = "Contact information for devopsdays Geneva 2020"
+type = "new-program"
+program_elements = [
+    { title = "Registration & Breakfast", type = "custom", start = 2020-02-24T08:30:00-06:00, end = 2020-02-24T09:00:00-06:00 },
+    { title = "Welcome Speech", type = "custom", start = 2020-02-24T09:00:00-06:00, end = 2020-02-24T09:20:00-06:00 },
+    { title = "joseph-glorieux-and-mathieu-brun", type = "talk", start = 2020-02-24T09:20:00-06:00, end = 2020-02-24T10:20:00-06:00 },
+    { title = "anton-babenko", type = "workshop", start = 2020-02-24T09:30:00-06:00, end = 2020-02-24T11:00:00-06:00 },
+    { title = "thomas-cottier", type = "talk", start = 2020-02-24T10:20:00-06:00, end = 2020-02-24T11:20:00-06:00 },
+    { title = "Morning coffee", type = "custom", start = 2020-02-24T11:20:00-06:00, end = 2020-02-24T12:00:00-06:00 },
+    { title = "maria-guseva", type = "talk", start = 2020-02-24T12:00:00-06:00, end = 2020-02-24T13:00:00-06:00 },
+    { title = "jerome-van-der-linden-and-bashar-al-fallouji", type = "workshop", start = 2020-02-24T12:00:00-06:00, end = 2020-02-24T13:30:00-06:00 },
+    { title = "Lunch", type = "custom", start = 2020-02-24T13:00:00-06:00, end = 2020-02-24T14:30:00-06:00 },
+    { title = "robert-falkowitz", type = "talk", start = 2020-02-24T14:30:00-06:00, end = 2020-02-24T15:30:00-06:00 },
+    { title = "denis-jannot", type = "workshop", start = 2020-02-24T14:45:00-06:00, end = 2020-02-24T16:15:00-06:00 },
+    { title = "paolo-kreth", type = "talk", start = 2020-02-24T15:30:00-06:00, end = 2020-02-24T16:30:00-06:00 },
+    { title = "Afternoon coffee", type = "custom", start = 2020-02-24T16:30:00-06:00, end = 2020-02-24T17:00:00-06:00 },
+    { title = "piotr-gaczkowski", type = "talk", start = 2020-02-24T17:00:00-06:00, end = 2020-02-24T18:00:00-06:00 },
+    { title = "jay-gordon", type = "workshop", start = 2020-02-24T17:00:00-06:00, end = 2020-02-24T18:30:00-06:00 },
+    { title = "jan-de-vries", type = "talk", start = 2020-02-24T18:00:00-06:00, end = 2020-02-24T19:00:00-06:00 },
+    { title = "Cocktail Dinner", type = "custom", start = 2020-02-24T19:00:00-06:00, end = 2020-02-24T21:00:00-06:00 },
+    { title = "Breakfast", type = "custom", start = 2020-02-25T08:15:00-06:00, end = 2020-02-25T09:00:00-06:00 },
+    { title = "Speech OpenSpaces", type = "custom", start = 2020-02-25T09:00:00-06:00, end = 2020-02-25T09:15:00-06:00 },
+    { title = "yann-albou-and-sebastien-fere", type = "talk", start = 2020-02-25T09:15:00-06:00, end = 2020-02-25T10:15:00-06:00 },
+    { title = "Open-Spaces", type = "open-space", start = 2020-02-25T09:15:00-06:00, end = 2020-02-25T10:15:00-06:00 },
+    { title = "liat-palace", type = "talk", start = 2020-02-25T10:15:00-06:00, end = 2020-02-25T11:15:00-06:00 },
+    { title = "Open-Spaces", type = "open-space", start = 2020-02-25T10:15:00-06:00, end = 2020-02-25T11:15:00-06:00 },
+    { title = "Morning Coffee", type = "custom", start = 2020-02-25T11:15:00-06:00, end = 2020-02-25T11:45:00-06:00 },
+    { title = "vinciane-de-pape", type = "talk", start = 2020-02-25T11:45:00-06:00, end = 2020-02-25T12:45:00-06:00 },
+    { title = "Open-Spaces", type = "open-space", start = 2020-02-25T11:45:00-06:00, end = 2020-02-25T12:45:00-06:00 },
+    { title = "Lunch", type = "custom", start = 2020-02-25T12:45:00-06:00, end = 2020-02-25T13:45:00-06:00 },
+    { title = "ricardo-castro", type = "talk", start = 2020-02-25T13:45:00-06:00, end = 2020-02-25T14:45:00-06:00 },
+    { title = "Open-Spaces", type = "open-space", start = 2020-02-25T13:45:00-06:00, end = 2020-02-25T14:45:00-06:00 },
+    { title = "heidi-araya", type = "talk", start = 2020-02-25T14:45:00-06:00, end = 2020-02-25T15:45:00-06:00 },
+    { title = "Open-Spaces", type = "open-space", start = 2020-02-25T14:45:00-06:00, end = 2020-02-25T15:45:00-06:00 },
+    { title = "Afternoon coffee", type = "custom", start = 2020-02-25T15:45:00-06:00, end = 2020-02-25T16:15:00-06:00 },
+    { title = "nataliia-godec", type = "talk", start = 2020-02-25T16:15:00-06:00, end = 2020-02-25T17:15:00-06:00 },
+    { title = "Open-Spaces", type = "open-space", start = 2020-02-25T16:15:00-06:00, end = 2020-02-25T17:15:00-06:00 },
+    { title = "mofizur-rahman", type = "talk", start = 2020-02-25T17:15:00-06:00, end = 2020-02-25T18:15:00-06:00 },
+    { title = "Open-Spaces", type = "open-space", start = 2020-02-25T17:15:00-06:00, end = 2020-02-25T18:15:00-06:00 },
+    { title = "Closing days Speech", type = "custom", start = 2020-02-25T18:15:00-06:00, end = 2020-02-25T18:30:00-06:00 },
+]
++++
+

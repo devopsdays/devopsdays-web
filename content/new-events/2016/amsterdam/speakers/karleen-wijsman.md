@@ -1,0 +1,7 @@
++++
+title = "Karleen Wijsman"
+twitter = ""
+type = "new-speaker"
+image = "karleen-wijsman.jpg"
++++
+Karleen Wijsman is an all-round IT Specialist and has many years of experience in providing training and workshops in the field of personal development and organisational change. Her NLP Practitioner and NLP Master background give her a solid foundation to motivate, engage and energize people and organizations

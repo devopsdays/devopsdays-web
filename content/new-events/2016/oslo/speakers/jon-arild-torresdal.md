@@ -1,0 +1,7 @@
++++
+title = "Jon Arild Tørresdal"
+twitter = "torresdal"
+type = "new-speaker"
+image = "jon-arild-torresdal.jpg"
++++
+Jon Arild Tørresdal is a speaker, advisor and consultant working for Miles in Bergen, Norway. In the last decade he has worked with development and operations using Lean practices for a number of companies to fully automate their deployment and infrastructure processes. As a result of his work he created the open source project ConDep (condep.io) in 2011 to specifically enable and simplify infrastructure automation and continuous delivery on the Windows platform.<br><br> [LinkedIn](http://linkedin.com/in/jonarild)

@@ -1,0 +1,55 @@
++++
+title = "Programa / Program"
+description = ""
+type = "new-program"
+program_elements = [
+    { title = "Registration", type = "custom", start = 2017-10-23T08:00:00-06:00, end = 2017-10-23T11:30:00-06:00 },
+    { title = "Opening of Convention UCLV 2017", type = "custom", start = 2017-10-23T11:30:00-06:00, end = 2017-10-23T12:30:00-06:00 },
+    { title = "Lunch", type = "custom", start = 2017-10-23T12:30:00-06:00, end = 2017-10-23T14:30:00-06:00 },
+    { title = "Visit to the historic center of Santa Clara", type = "custom", start = 2017-10-23T14:30:00-06:00, end = 2017-10-23T15:30:00-06:00 },
+    { title = "Transfer to Hotel Melia Marina Varadero", type = "custom", start = 2017-10-23T15:30:00-06:00, end = 2017-10-23T18:30:00-06:00 },
+    { title = "Opening/Welcome", type = "custom", start = 2017-10-24T09:00:00-06:00, end = 2017-10-24T09:30:00-06:00 },
+    { title = "Speaker panel", type = "custom", start = 2017-10-24T09:30:00-06:00, end = 2017-10-24T10:00:00-06:00 },
+    { title = "Break", type = "custom", start = 2017-10-24T10:00:00-06:00, end = 2017-10-24T10:30:00-06:00 },
+    { title = "ALLDAYDEVOPS 2017", type = "custom", start = 2017-10-24T10:30:00-06:00, end = 2017-10-24T12:30:00-06:00 },
+    { title = "Lunch", type = "custom", start = 2017-10-24T12:30:00-06:00, end = 2017-10-24T13:30:00-06:00 },
+    { title = "Open Space - Overview & Topic Proposal/Selection", type = "open-space", start = 2017-10-24T13:30:00-06:00, end = 2017-10-24T14:00:00-06:00 },
+    { title = "Open Space #1", type = "open-space", start = 2017-10-24T14:00:00-06:00, end = 2017-10-24T15:30:00-06:00 },
+    { title = "Social Networking at the Hotel Bars", type = "custom", start = 2017-10-24T19:00:00-06:00, end = 2017-10-24T21:00:00-06:00 },
+    { title = "randy-shoup1", type = "talk", start = 2017-10-25T09:00:00-06:00, end = 2017-10-25T09:30:00-06:00 },
+    { title = "anesto-del-toro", type = "talk", start = 2017-10-25T09:30:00-06:00, end = 2017-10-25T10:00:00-06:00 },
+    { title = "Break", type = "custom", start = 2017-10-25T10:00:00-06:00, end = 2017-10-25T10:30:00-06:00 },
+    { title = "rudy-gevaert", type = "talk", start = 2017-10-25T10:30:00-06:00, end = 2017-10-25T11:00:00-06:00 },
+    { title = "dayron-aguero", type = "talk", start = 2017-10-25T11:00:00-06:00, end = 2017-10-25T11:30:00-06:00 },
+    { title = "aymen-el-amri", type = "talk", start = 2017-10-25T11:30:00-06:00, end = 2017-10-25T12:00:00-06:00 },
+    { title = "yadier-perdomo", type = "talk", start = 2017-10-25T12:00:00-06:00, end = 2017-10-25T12:30:00-06:00 },
+    { title = "Lunch", type = "custom", start = 2017-10-25T12:30:00-06:00, end = 2017-10-25T13:30:00-06:00 },
+    { title = "Ignite Talks", type = "ignite", start = 2017-10-25T13:30:00-06:00, end = 2017-10-25T14:00:00-06:00 },
+    { title = "Open Space #2", type = "open-space", start = 2017-10-25T14:00:00-06:00, end = 2017-10-25T15:30:00-06:00 },
+    { title = "Social Networking at the Hotel Bars", type = "custom", start = 2017-10-25T19:00:00-06:00, end = 2017-10-25T21:00:00-06:00 },
+    { title = "alina-murphy-pat-dale", type = "talk", start = 2017-10-26T09:00:00-06:00, end = 2017-10-26T09:30:00-06:00 },
+    { title = "juan-carlos-gomez", type = "talk", start = 2017-10-26T09:30:00-06:00, end = 2017-10-26T10:00:00-06:00 },
+    { title = "Break", type = "custom", start = 2017-10-26T10:00:00-06:00, end = 2017-10-26T10:30:00-06:00 },
+    { title = "conor-delanbanque", type = "talk", start = 2017-10-26T10:30:00-06:00, end = 2017-10-26T11:00:00-06:00 },
+    { title = "lee-fox", type = "talk", start = 2017-10-26T11:00:00-06:00, end = 2017-10-26T11:30:00-06:00 },
+    { title = "manuel-morejon", type = "talk", start = 2017-10-26T11:30:00-06:00, end = 2017-10-26T12:00:00-06:00 },
+    { title = "randy-shoup2", type = "talk", start = 2017-10-26T12:00:00-06:00, end = 2017-10-26T12:30:00-06:00 },
+    { title = "Lunch", type = "custom", start = 2017-10-26T12:30:00-06:00, end = 2017-10-26T13:30:00-06:00 },
+    { title = "Ignites", type = "ignite", start = 2017-10-26T13:30:00-06:00, end = 2017-10-26T14:00:00-06:00 },
+    { title = "mike-rosado", type = "workshop", start = 2017-10-26T13:30:00-06:00, end = 2017-10-26T14:00:00-06:00 },
+    { title = "Close event & Farewell", type = "custom", start = 2017-10-26T12:30:00-06:00, end = 2017-10-26T13:30:00-06:00 },
+    { title = "Beach party", type = "custom", start = 2017-10-26T21:00:00-06:00, end = 2017-10-26T23:00:00-06:00 },
+    { title = "Close Day & Farewell of Convention UCLV 2017", type = "custom", start = 2017-10-27T10:30:00-06:00, end = 2017-10-27T11:30:00-06:00 },
+    { title = "Lunch", type = "custom", start = 2017-10-27T12:30:00-06:00, end = 2017-10-27T14:30:00-06:00 },
+    { title = "Transfer to Santa Clara/Havana", type = "custom", start = 2017-10-23T15:00:00-06:00, end = 2017-10-23T20:00:00-06:00 },
+]
+ignites = [
+    { title = "marialina-ballesteros", date = 2017-10-25 },
+    { title = "genry-leyva", date = 2017-10-25 },
+    { title = "hamler-rodriguez1", date = 2017-10-25 },
+    { title = "arian-trujillo", date = 2017-10-26 },
+    { title = "javier-ruiz-bosch", date = 2017-10-26 },
+    { title = "ernesto-perez-jorge-armando", date = 2017-10-26 },
+]
++++
+

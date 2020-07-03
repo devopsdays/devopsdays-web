@@ -1,0 +1,7 @@
++++
+title = "Maggie Gourlay"
+twitter = "okterok"
+type = "new-speaker"
+image = "maggie-gourlay.jpg"
++++
+I've been doing software quality assurance since the early 2000's and also have a degree in theoretical mathematics. I currently work ensuring quality for a DevOps application which brings me back to the days I was on call as a systems administrator in the late 90's. In my free time, I love to travel and learn new things (currently I'm learning R and Scala).

@@ -1,0 +1,7 @@
++++
+title = "Christoph Andreas Torlinsky"
+twitter = "nuagenetworks"
+type = "new-speaker"
+image = "christoph-andreas-torlinsky.jpg"
++++
+Hello, i work for a Startup called Nuage Networks in EMEA and we are actively trying to change how Software interacts with the Network. Check us out, I've been working for a number of companies prior to Nuage in the Networking and Linux and Operating Space.

@@ -1,0 +1,8 @@
++++
+description = "Program information for devopsdays Kraków 2020"
+title = "Program"
+type = "new-program"
++++
+Schedule will be updated and edited after receiving confirmation from other speakers. Schedule might be changed.
+
+<a href="https://dodkrakow.pl/schedule/">Schedule</a>

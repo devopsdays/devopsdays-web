@@ -1,0 +1,7 @@
++++
+title = "Justin Cormack"
+twitter = "justincormack"
+type = "new-speaker"
+image = "justin-cormack.jpg"
++++
+Justin Cormack is an engineer at Docker, and co-author of Docker in Production: Lessons from the Trenches. He worked for Unikernel Systems, and now Docker in Cambridge UK. He is interested in how we can make systems software adapt to modern devops practices, as it is one of the last areas to aspire to the monolithic and slow moving.

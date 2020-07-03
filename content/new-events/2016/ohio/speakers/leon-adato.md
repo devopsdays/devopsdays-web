@@ -1,0 +1,7 @@
++++
+title = "Leon Adato"
+twitter = ""
+type = "new-speaker"
+image = "leon-adato.jpg"
++++
+Leon Adato is a Head Geek and technical evangelist at SolarWinds®, and is a Cisco® Certified Network Associate (CCNA), MCSE and SolarWinds Certified Professional. His experience spans financial, healthcare, food and beverage, and other industries. Before he was a SolarWinds Head Geek, Adato was a SolarWinds user for over a decade. His expertise in IT began in 1989 and has led him through roles in classroom training, desktop support, server support, and software distribution.

@@ -1,0 +1,7 @@
++++
+title = "Antoinette Smith"
+twitter = "ant_auth"
+type = "new-speaker"
+image = "antoinette-smith.jpg"
++++
+Antoinette is an instructor at Prime Digital Academy, an 18-week coding bootcamp in scenic Bloomington, MN. In her free time, she co-organizes events for the Blacks in Technology Twin Cities chapter and looks forward to completing a dual masters in business administration and software engineering at the end of this year.

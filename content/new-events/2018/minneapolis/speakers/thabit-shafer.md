@@ -1,0 +1,7 @@
++++
+description = ""
+title = "Thabit Shafer"
+type = "new-speaker"
+image = "thabit-shafer.png"
++++
+Thabit Shafer bides his time as a middle school student in Arizona. He's lived formative years in Salt Lake City, Pittsburgh, Beverly Hills and Tucson. He's not sure what he wants to be when he grows up but he's also hoping he doesn't have to. Thabit finds meaning in video games, procrastinating and comprehensive exams.

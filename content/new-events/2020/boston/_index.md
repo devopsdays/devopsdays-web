@@ -1,0 +1,113 @@
++++
+date = "2020-06-11T02:11:48-05:00"
+description = "DevOpsDays is returning to Boston!"
+title = "devopsdays Boston 2020"
+type = "new-event"
+city = "Boston"
+year = "2020"
+event_twitter = "devopsdaysbos"
+ga_tracking_id = "UA-137417319-4"
+startdate = 2020-09-28T00:00:00-04:00
+enddate = 2020-09-28T23:59:59-04:00
+cfp_date_start = 2020-03-23T00:00:00-04:00
+cfp_date_end = 2020-06-01T00:00:00-04:00
+cfp_date_announce = 2020-03-23T00:00:00-04:00
+cfp_link = "https://bit.ly/dodbos2020cfp"
+coordinates = "42.344447, -71.071291"
+location = "Boston"
+organizer_email = "boston@devopsdays.org"
+sponsors_accepted = "yes"
+sponsor_levels = [
+    { id = "platinum", label = "Platinum" },
+    { id = "gold", label = "Gold" },
+    { id = "community", label = "Community" },
+    { id = "alacarte", label = "A la carte" },
+    { id = "startup", label = "Start-up alley" },
+    { id = "academic", label = "Academic" },
+]
+navigation = [
+    { name = "sponsor" },
+    { name = "contact" },
+    { name = "conduct" },
+    { name = "faq" },
+]
++++
+<style type="text/css">
+h1.welcome-page { text-transform: initial; }
+.welcome-page-event-logo { max-width: 100%; }
+</style>
+
+<div style="height:20px"></div>
+
+<div class="row">
+  <div class="col-md-3">
+    <div style="text-align:center;">{{< event_logo >}}</div>
+  </div>
+
+  <div class="col-md-6">
+    <div class="alert alert-warning" role="alert">
+      DevOpsDays Boston is going virtual!
+    </div>
+    <p>Due to the effects of COVID-19, and the health risks of holding an in-person conference this year, DevOpsDays Boston 2020 will now be a one-day, single-track virtual event, taking place on September 28th, 2020. Rest assured that the talks, open spaces and discussions will be as great as ever.</p>
+  </div>
+
+  <div class="col-md-6">
+    <div class="row">
+      <div class="col-md-2"><strong>Dates</strong></div>
+      <div class="col-md-8">{{< event_start >}} - {{< event_end >}}</div>
+    </div>
+    <div class="row">
+      <div class="col-md-2"><strong>Location</strong></div>
+      <div class="col-md-8">Boston (virtual)</div>
+    </div>
+    <!-- <div class="row">
+      <div class="col-md-2"><strong>Propose</strong></div>
+      <div class="col-md-8"><a href="https://bit.ly/dodbos2020cfp">Propose a talk!</a></div>
+    </div>
+    <div class="row">
+      <div class="col-md-2"><strong>Register</strong></div>
+      <div class="col-md-8"><a href="https://ti.to/devopsdaysbos/2020">Register to attend the conference!</a></div>
+    </div>
+  	<div class="row">
+  		<div class="col-md-2"><strong>Program</strong></div>
+      <div class="col-md-8">View the {{< event_link page="program" text="program." >}}</div>
+  	</div>
+  	<div class="row">
+  		<div class="col-md-2"><strong>Speakers</strong></div>
+      <div class="col-md-8">Check out the {{< event_link page="speakers" text="speakers!" >}}</div>
+    </div>
+    -->
+    <div class="row">
+      <div class="col-md-2"><strong>Sponsors</strong></div>
+      <div class="col-md-8">{{< event_link page="sponsor" text="Sponsor the conference!" >}}</div>
+    </div>
+    <div class="row">
+      <div class="col-md-2"><strong>Contact</strong></div>
+      <div class="col-md-8">{{< event_link page="contact" text="Get in touch with the organizers" >}}</div>
+    </div>
+    <!-- Slack -->
+    <div class="row">
+      <div class="col-md-2">
+        <strong>Slack</strong>
+      </div>
+      <div class="col-md-8">Join <a href="http://bit.ly/bdo-slack" target="blank">Boston DevOps Slack</a> workspace.
+      </div>
+    </div>
+    <!-- Twitter -->
+    <div class="row">
+      <div class="col-md-2"></div>
+      <div class="col-md-8">{{< event_twitter >}}</div>
+    </div>
+    <!-- LinkedIn -->
+    <div class="row">
+      <div class="col-md-2"></div>
+      <div class="col-md-8">
+        <script src="https://platform.linkedin.com/in.js" type="text/javascript">
+          lang: en_US
+          authorize: true
+        </script>
+        <script type="IN/FollowCompany" data-id="28598616"></script>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,7 @@
++++
+title = "Victoria Jeffrey"
+twitter = "vickkoala"
+type = "new-speaker"
+image = "victoria-jeffrey.jpg"
++++
+Victoria is a software engineer @Chef.  She's a wanderer turned preschool teacher turned coder.  During her time at Chef, Victoria has developed on Automate (Workflow) and Compliance integrations, spending her days in her code cave battling whatever dragons come her way. When she's not hiding out in her code cave, you can find her hanging with her little boy admiring the lizards in the garden.

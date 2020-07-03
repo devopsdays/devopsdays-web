@@ -1,0 +1,25 @@
++++
+description = ""
+title = "Using Design Methods to Establish Healthy DevOps Practices"
+type = "new-talk"
+speakers = [
+        "aras-bilgen",
+]
+vimeo = "344504960"
+speakerdeck = "https://speakerdeck.com/dodzh/using-design-methods-to-establish-healthy-devops-practices-aras-bilgen"
++++
+I wish adopting DevOps was as easy as just ticking items off on a DevOps todo list. Or as
+easy as setting up Jenkins and Docker. The reality is very different. Successful DevOps
+transitions require changes in the technical stack, in the mindset, in practices, and in
+the organizational culture. Unfortunately, the key cultural elements that need to change
+are usually buried in apathy, shyness and office politics.
+
+To reveal these crucial yet hidden cultural elements, we borrowed methods from an unlikely
+discipline: Design. User experience designers have been using human-centric methods to
+better understand human needs for more than 40 years now, producing digital experiences
+that transform many areas of our lives seamlessly. We brought a selection of these human-
+centric design methods to the IT department to understand how our clients work and to hear
+their deep, unspoken needs.
+
+Join us to see examples from our work and hear five underlying principles that helped us
+see unique cultural perspectives in technical organizations.

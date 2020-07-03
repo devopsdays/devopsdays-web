@@ -1,0 +1,12 @@
++++
+description = ""
+title = "Michael Coté"
+type = "new-speaker"
+website = "http://cote.io"
+twitter = "cote"
+linkedin = "https://www.linkedin.com/in/michaelcote"
+image = "cote-circle.jpg"
++++
+<h3>Director, Technical Marketing at Pivotal Software</h3>
+
+<p>Michael Coté is Technical Marketing Director at Pivotal Software where he works on the advocate team. He’s been an industry analyst at 451 Research and RedMonk, worked in corporate strategy and M&A at Dell in software and cloud, and was a programmer for a decade before all that. He blogs and podcasts at Cote.io.</p>

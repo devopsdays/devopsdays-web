@@ -1,0 +1,7 @@
++++
+title = "Kirsten Hunter"
+twitter = "synedra"
+type = "new-speaker"
+image = "kirsten-hunter.jpg"
++++
+Kirsten Hunter is an unapologetic hacker and passionate advocate for the development community. Her technical interests range from graph databases to cloud services, and her experience supporting and evangelizing REST APIs has given her a unique perspective on developer success. In her copious free time she's a gamer, fantasy reader, and all around rabble-rouser. Code samples, recipes, and philosophical musings can be found at http://www.princesspolymath.com.

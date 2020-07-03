@@ -1,0 +1,7 @@
++++
+title = "E Dunham"
+twitter = "qedunham"
+type = "new-speaker"
+image = "e-dunham.jpg"
++++
+E. Dunham is the DevOps engineer for Mozilla research, which in practice means shepherding servers for the Rust language and Servo browser engine web presence, continuous integration, and release infrastructure. The OSL alum's hobbies include carpentry, gardening, and filing "please license your code" issues on GitHub.

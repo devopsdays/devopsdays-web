@@ -1,0 +1,7 @@
++++
+title = "Cea Stapleton"
+twitter = "ceaess"
+type = "new-speaker"
+image = "cea-stapleton.jpg"
++++
+Cea fights fire and makes infrastructure from python code at healthfinch. She transitioned relatively recently from full-stack dev to ops engineer, and has been loving every minute of her new role.

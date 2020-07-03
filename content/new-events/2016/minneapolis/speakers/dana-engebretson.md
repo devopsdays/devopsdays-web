@@ -1,0 +1,7 @@
++++
+title = "Dana Engebretson"
+twitter = "bigdana"
+type = "new-speaker"
+image = "dana-engebretson.jpg"
++++
+Dana Engebretson and Python are like synchronized swimmers in a sea of data. She is a data scientist building classification models for BI Worldwide, which somehow led to lots of devops-related fun too. Dana founded PyLadies Twin Cities, our local nest of Python women and allies. She enjoys mentoring and thinking about universal design.

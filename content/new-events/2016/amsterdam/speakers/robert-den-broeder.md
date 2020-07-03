@@ -1,0 +1,7 @@
++++
+title = "Robert den Broeder"
+twitter = ""
+type = "new-speaker"
+image = "robert-den-broeder.jpg"
++++
+Robert den Broeder is owner of Trigono BV and is a certified trainer / coach in IT Service Management and Organizational Behavior Management (OBM). Organizational Behavior Management (OBM) is a management approach that demonstrably increases team performance and motivation. Robert supports organizations with implementing and improving service management processes, with special attention for behavioral change, using OBM techniques and principles.

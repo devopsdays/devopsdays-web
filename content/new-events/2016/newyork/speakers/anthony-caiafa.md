@@ -1,0 +1,7 @@
++++
+title = "Anthony Caiafa"
+twitter = "anthonycaiafa"
+type = "new-speaker"
+image = "anthony-caiafa.jpg"
++++
+Anthony currently leads Production Engineering @ Bloomberg. Previously he started SRE @ Digitalocean and helped scale the company from the very beginning. He has an extensive background with startups and helping them grow from inception. Anthony has a passion for operations and loves helping as many people as possible in the field. He has interest in monitoring, automation, systems, big data, distributed systems and much more.

@@ -1,0 +1,7 @@
++++
+title = "Tolga Tunca"
+twitter = "tolgatnc"
+type = "new-speaker"
+image = "tolga-tunca.jpg"
++++
+Tolga is a Senior Java developer and a software architect, working at BKM (The Interbank Card Center), Istanbul. He is currently leading DevOps transition and automation. He is primarily focusing on Java, JavaScript, DevOps and Test Automation. He has designed and developed several systems and applications at Telecom and Finance.

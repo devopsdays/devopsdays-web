@@ -1,0 +1,7 @@
++++
+title = "Tim Haak"
+twitter = "tim_haak"
+type = "new-speaker"
+image = "tim-haak.jpg"
++++
+Tim Haak is a Docker Captain by night and an independent contractor by day. He is also one of the organisers for Johannesburg Php Meetup. He has spent to many years playing and working in the web, networking and linux world. Tim specialises in the Web Application sphere though mainly backend focused.

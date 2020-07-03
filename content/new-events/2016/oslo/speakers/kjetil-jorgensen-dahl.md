@@ -1,0 +1,7 @@
++++
+title = "Kjetil Jørgensen-Dahl"
+twitter = "akafred"
+type = "new-speaker"
+image = "kjetil-jorgensen-dahl.jpg"
++++
+Kjetil Jørgensen-Dahl is a developer and consultant at [Kodemaker](http://kodemaker.no/kjetil). From time to time he dabbles in process and ops-related activities, usually because he is not to keen on rework and repetition (communication + automation FTW!).<br><br>If you ask for his two cents, you usually get a dollars worth ...<br><br>[LinkedIn](http://linkedin.com/in/kjetiljd).

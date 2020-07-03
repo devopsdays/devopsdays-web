@@ -1,0 +1,7 @@
++++
+title = "Mike Bjerkness"
+twitter = "mikebjerkness"
+type = "new-speaker"
+image = "mike-bjerkness.jpg"
++++
+Mike Bjerkness is a Director of Software Engineering at SPS Commerce. Mike has worked in many facets of software development all the way from C++ coding radar systems, to building video games, to writing fancy Flex/Flash applications and attempting to wrangle MongoDB. Mike is a mostly lifelong Minnesota resident with stints in Boston (Raytheon) and Orlando (EA Sports).

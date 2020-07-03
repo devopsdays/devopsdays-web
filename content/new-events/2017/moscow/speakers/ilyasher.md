@@ -1,0 +1,7 @@
++++
+title = "Ilya Sher"
+twitter = ""
+type = "new-speaker"
+image = "ilyasher.jpg"
++++
+Ilya, currently CTO at Beame.io, has more than 15 years of systems and software engineering experience. As a consultant, Ilya was exposed to a wide range of solutions, good and bad. Ilya likes to share his views, based on his experience. Ilya has been working on the Next Generation Shell (NGS) since 2013 and believes it will soon become the solution of choice for systems engineering tasks.

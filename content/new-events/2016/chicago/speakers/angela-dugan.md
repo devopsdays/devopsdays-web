@@ -1,0 +1,7 @@
++++
+title = "Angela Dugan"
+twitter = "OakParkGirl"
+type = "new-speaker"
+image = "angela-dugan.jpg"
++++
+Angela Dugan is a Principal Consultant and Practice Manager for Polaris Solutions, a small technology based consulting firm based out of Chicago, Denver, and St. Louis. Angela has been in software development since 1999, filling roles including business analyst, developer, tester, project manager, and agile coach. Angela also runs the Chicago ALM user group, is an active organizer and speaker at several local conferences including CCC and ThatConference, is a Microsoft ALM MVP, CSM, and SPC.

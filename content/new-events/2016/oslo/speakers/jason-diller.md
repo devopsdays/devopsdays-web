@@ -1,0 +1,7 @@
++++
+title = "Jason Diller"
+twitter = "jdiller"
+type = "new-speaker"
+image = "jason-diller.jpg"
++++
+Jason has been working professionally in technology since the 90s. He has written code for numerous platforms from DOS to Windows to Linux to the Web. In recent years he's devoted his time to management and has a serious obsession with making his teams, people, and processes better. (A quest that will never be completed.) Currently he does so at PagerDuty.<br><br> [LinkedIn](http://linkedin.com/in/jasonadiller)

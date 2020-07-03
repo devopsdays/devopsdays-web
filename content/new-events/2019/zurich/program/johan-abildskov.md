@@ -1,0 +1,18 @@
++++
+description = ""
+title = "Used and Abused Figures of DevOps"
+type = "new-talk"
+speakers = [
+        "johan-abildskov",
+]
+vimeo = "344514964"
+slideshare = "https://www.slideshare.net/JohanAbildskov/misused-figures-of-dev-ops"
++++
+In the world of Agile and DevOps we use many figures, charts and diagrams to argue and
+reason about our world and how we prioritize and make choices. You can't say Agile without
+having drawn at least a few quadrants with axes scaling from "good" to "bad" or from
+"good" to "could have been better".
+
+Unfortunately many of these important visualizations are misunderstood at best and abused
+at worst. We go through coming figures and check our cognitive biases. For each figure we
+cover the misunderstanding, the consequence and ways to address this.

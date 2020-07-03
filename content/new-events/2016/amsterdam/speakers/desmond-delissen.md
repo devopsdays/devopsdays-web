@@ -1,0 +1,7 @@
++++
+title = "Desmond Delissen"
+twitter = ""
+type = "new-speaker"
+image = "desmond-delissen.jpg"
++++
+Desmond started his career at a big consultancy company. Via this company he got the change to join a mobile app project in the beginning of 2012. Desmond enjoined this so much that he decided to start working for IceMobile and become a expert in testing mobile apps and their backend systems.

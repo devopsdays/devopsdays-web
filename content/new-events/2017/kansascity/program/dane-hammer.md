@@ -1,0 +1,11 @@
++++
+description = ""
+title = "The First Year Working Remotely"
+type = "new-talk"
+speakers = [
+        "dane-hammer",
+]
+youtube = "B4_3jK_Hyec"
+speakerdeck = "https://speakerdeck.com/devopsdayskc/dane-hammer-the-first-year-working-remotely"
++++
+After 8 years driving to an office building, I started working from home. I’ve now spent the last 18 months working remotely, across two jobs. This session will focus on the expectations and the realities, the benefits and the drawbacks, of starting your work day in whatever you slept in.

@@ -1,0 +1,18 @@
++++
+description = ""
+title = "K8s dev - It works on my machine"
+type = "new-talk"
+aliases = [
+        "/events/2019-amsterdam/program/wim-bonthuis/",
+]
+speakers = [
+        "wim-bonthuis",
+]
++++
+How to develop and package your application for Kubernetes locally. Using minikube, we'll get acquainted with Kubernetes without having to pay a dime.
+
+Attendees should install minikube, kubectl and the helm binaries locally.
+
+https://kubernetes.io/docs/tasks/tools/install-minikube/
+https://kubernetes.io/docs/tasks/tools/install-kubectl/
+https://docs.helm.sh/using_helm/#install-helm

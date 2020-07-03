@@ -1,0 +1,11 @@
++++
+description = ""
+title = "Adventures in Programming"
+type = "new-talk"
+speakers = [
+        "julie-stark",
+]
+youtube = "aryeHTelORc"
+speakerdeck = "https://speakerdeck.com/buttermilkcake/adventures-in-coding"
++++
+This is a talk about the experiences of a self-taught (non CS major) programmer during his/her first 1.5 years learning how to program. You’ll laugh! You’ll cry! You’ll laugh ‘til you cry! You’ll feel uplifted, encouraged and if you do anything with programming you’ll relate to the story.

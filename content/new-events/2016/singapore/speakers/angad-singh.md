@@ -1,0 +1,7 @@
++++
+title = "Angad Singh"
+twitter = "angadsg"
+type = "new-speaker"
+image = "angad-singh.jpg"
++++
+Angad is a Data Scientist at Twitter Singapore. He recently led the DevOps team at Viki. He is passionate about large data infrastructures as well as distributed systems. Talked at previous DevOpsDays 2015 Singapore about ELK.

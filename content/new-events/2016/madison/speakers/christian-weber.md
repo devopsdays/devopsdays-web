@@ -1,0 +1,7 @@
++++
+title = "Christian Weber"
+twitter = ""
+type = "new-speaker"
+image = "christian-weber.jpg"
++++
+Christian Weber is a Problem Solver at GitHub. Previously spending the last 6 years in various flavors of Finance and I.T., Christian focuses on Developer Enablement and applying Open Source methodology in the Enterprise world.

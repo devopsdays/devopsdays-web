@@ -1,0 +1,17 @@
++++
+description = ""
+title = "Jesse Butler"
+type = "new-speaker"
+website = "https://cloud.oracle.com/iaas"
+twitter = "jlb13"
+linkedin = "https://www.linkedin.com/in/jesse-butler/"
+github = "jlbutler"
+image = "jesse-butler.png"
++++
+Jesse is a cloud native advocate with Oracle Cloud Native Labs. He
+started his career in software nearly twenty years ago, working up the
+stack from driver development into userspace and container development.
+He’s been working with containers for several years, first in Solaris
+and later in Linux. Most recently, he’s taken a role with OCI as a Cloud
+Native Advocate focused on Kubernetes, containers, serverless and other
+cloud native technologies.

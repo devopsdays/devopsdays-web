@@ -1,0 +1,55 @@
++++
+title = "Program"
+description = "Program for devopsdays Seattle 2017"
+type = "new-program"
+program_elements = [
+    { title = "Registration, Breakfast, and Sponsor Booths Open", type = "custom", start = 2017-04-26T08:00:00-06:00, end = 2017-04-26T09:00:00-06:00 },
+    { title = "Opening Welcome", type = "custom", start = 2017-04-26T09:00:00-06:00, end = 2017-04-26T09:15:00-06:00 },
+    { title = "gene-kim", type = "talk", start = 2017-04-26T09:15:00-06:00, end = 2017-04-26T09:45:00-06:00 },
+    { title = "Sponsors", type = "custom", start = 2017-04-26T09:45:00-06:00, end = 2017-04-26T09:55:00-06:00 },
+    { title = "nell-shamrell-harrington", type = "talk", start = 2017-04-26T09:55:00-06:00, end = 2017-04-26T10:25:00-06:00 },
+    { title = "Break", type = "custom", start = 2017-04-26T10:25:00-06:00, end = 2017-04-26T10:40:00-06:00 },
+    { title = "scott-nasello", type = "talk", start = 2017-04-26T10:40:00-06:00, end = 2017-04-26T11:10:00-06:00 },
+    { title = "Sponsors", type = "custom", start = 2017-04-26T11:10:00-06:00, end = 2017-04-26T11:20:00-06:00 },
+    { title = "suzie-prince", type = "talk", start = 2017-04-26T11:20:00-06:00, end = 2017-04-26T11:50:00-06:00 },
+    { title = "Lunch (catered)", type = "custom", start = 2017-04-26T11:50:00-06:00, end = 2017-04-26T13:00:00-06:00 },
+    { title = "aaron-aldrich", type = "talk", start = 2017-04-26T13:00:00-06:00, end = 2017-04-26T13:30:00-06:00 },
+    { title = "Ignites", type = "ignite", start = 2017-04-26T13:30:00-06:00, end = 2017-04-26T14:00:00-06:00 },
+    { title = "Open Space Opening", type = "open-space", start = 2017-04-26T14:00:00-06:00, end = 2017-04-26T14:30:00-06:00 },
+    { title = "Open Space #1", type = "open-space", start = 2017-04-26T14:40:00-06:00, end = 2017-04-26T15:20:00-06:00 },
+    { title = "elizabeth-joseph", type = "talk", start = 2017-04-26T14:40:00-06:00, end = 2017-04-26T15:10:00-06:00 },
+    { title = "Open Space #2", type = "open-space", start = 2017-04-26T15:30:00-06:00, end = 2017-04-26T16:10:00-06:00 },
+    { title = "Open Space #3", type = "open-space", start = 2017-04-26T16:20:00-06:00, end = 2017-04-26T16:50:00-06:00 },
+    { title = "Close Day & Logistics", type = "custom", start = 2017-04-26T16:55:00-06:00, end = 2017-04-26T17:15:00-06:00 },
+    { title = "Party at Chef HQ! Lyft code HUGOPS17!", type = "custom", start = 2017-04-26T18:30:00-06:00, end = 2017-04-26T10:00:00-06:00 },
+    { title = "Registration, Breakfast, and Sponsor Booths Open", type = "custom", start = 2017-04-27T08:00:00-06:00, end = 2017-04-27T09:00:00-06:00 },
+    { title = "Opening Welcome", type = "custom", start = 2017-04-27T09:00:00-06:00, end = 2017-04-27T09:15:00-06:00 },
+    { title = "jez-humble", type = "talk", start = 2017-04-27T09:15:00-06:00, end = 2017-04-27T09:45:00-06:00 },
+    { title = "Sponsors", type = "custom", start = 2017-04-27T09:45:00-06:00, end = 2017-04-27T09:55:00-06:00 },
+    { title = "sarah-shewell-suzanne-nielsen", type = "talk", start = 2017-04-27T09:55:00-06:00, end = 2017-04-27T10:25:00-06:00 },
+    { title = "Break", type = "custom", start = 2017-04-27T10:25:00-06:00, end = 2017-04-27T10:40:00-06:00 },
+    { title = "jeffery-smith", type = "talk", start = 2017-04-27T10:40:00-06:00, end = 2017-04-27T11:10:00-06:00 },
+    { title = "Sponsors", type = "custom", start = 2017-04-27T11:10:00-06:00, end = 2017-04-27T11:20:00-06:00 },
+    { title = "julia-wester", type = "talk", start = 2017-04-27T11:20:00-06:00, end = 2017-04-27T11:50:00-06:00 },
+    { title = "Lunch (catered)", type = "custom", start = 2017-04-27T11:50:00-06:00, end = 2017-04-27T13:00:00-06:00 },
+    { title = "terrance-ryan", type = "talk", start = 2017-04-27T13:00:00-06:00, end = 2017-04-27T13:30:00-06:00 },
+    { title = "Ignites", type = "ignite", start = 2017-04-27T13:30:00-06:00, end = 2017-04-27T14:00:00-06:00 },
+    { title = "Open Space Opening", type = "open-space", start = 2017-04-27T14:00:00-06:00, end = 2017-04-27T14:30:00-06:00 },
+    { title = "Open Space #1", type = "open-space", start = 2017-04-27T14:40:00-06:00, end = 2017-04-27T15:20:00-06:00 },
+    { title = "chris-van-tuin", type = "talk", start = 2017-04-27T14:40:00-06:00, end = 2017-04-27T15:10:00-06:00 },
+    { title = "Open Space #2", type = "open-space", start = 2017-04-27T15:30:00-06:00, end = 2017-04-27T16:10:00-06:00 },
+    { title = "Open Space #3", type = "open-space", start = 2017-04-27T16:20:00-06:00, end = 2017-04-27T16:50:00-06:00 },
+    { title = "Sponsor Drawings! Collect your winnings! Close Day & Farewell", type = "custom", start = 2017-04-27T17:00:00-06:00, end = 2017-04-27T17:15:00-06:00 },
+]
+ignites = [
+    { title = "david-blank-edelman", date = 2017-04-26 },
+    { title = "greg-elin", date = 2017-04-26 },
+    { title = "dawn-parzych", date = 2017-04-26 },
+    { title = "glenn-sarti", date = 2017-04-26 },
+    { title = "jason-yee", date = 2017-04-27 },
+    { title = "ram-jothikumar", date = 2017-04-27 },
+    { title = "jason-vernon-radhika-gummadi", date = 2017-04-27 },
+    { title = "soo-choi", date = 2017-04-27 },
+]
++++
+

@@ -1,0 +1,7 @@
++++
+title = "Marta Paciorkowska"
+twitter = "a_meba"
+type = "new-speaker"
+image = "marta-paciorkowska.jpg"
++++
+An activist/project manager turned programming enthusiast. Marta currently hold the position of DevOps Heroine at Acrolinx, where she is responsible for developer support, redesigning build infrastructure and introducing DevOps ideas. She actively support initiatives that make the tech community more inclusive. A very occasional Rails Girls coach. She ♥ Chef, alleycats and pizza.<br><br> [LinkedIn](http://linkedin.com/in/paciorkowska)

@@ -1,0 +1,93 @@
++++
+title = "Program"
+description = "Program for devopsdays portland 2017"
+type = "new-program"
+program_elements = [
+    { title = "Registration, Breakfast, Sponsors", type = "custom", start = 2017-08-01T08:00:00-06:00, end = 2017-08-01T09:00:00-06:00 },
+    { title = "Opening Welcome", type = "custom", start = 2017-08-01T09:00:00-06:00, end = 2017-08-01T09:15:00-06:00 },
+    { title = "kris-buytaert", type = "talk", start = 2017-08-01T09:15:00-06:00, end = 2017-08-01T09:45:00-06:00 },
+    { title = "Sponsors", type = "custom", start = 2017-08-01T09:45:00-06:00, end = 2017-08-01T09:55:00-06:00 },
+    { title = "lucy-wyman-zach-reichert", type = "talk", start = 2017-08-01T09:55:00-06:00, end = 2017-08-01T10:25:00-06:00 },
+    { title = "Break", type = "custom", start = 2017-08-01T10:25:00-06:00, end = 2017-08-01T10:40:00-06:00 },
+    { title = "geshan-manandhar", type = "talk", start = 2017-08-01T10:40:00-06:00, end = 2017-08-01T11:10:00-06:00 },
+    { title = "Sponsors", type = "custom", start = 2017-08-01T11:10:00-06:00, end = 2017-08-01T11:20:00-06:00 },
+    { title = "amye-scavarda", type = "talk", start = 2017-08-01T11:20:00-06:00, end = 2017-08-01T11:50:00-06:00 },
+    { title = "Open Space Opening", type = "open-space", start = 2017-08-01T11:50:00-06:00, end = 2017-08-01T12:10:00-06:00 },
+    { title = "Lunch", type = "custom", start = 2017-08-01T12:10:00-06:00, end = 2017-08-01T13:30:00-06:00 },
+    { title = "Ignites", type = "ignite", start = 2017-08-01T13:30:00-06:00, end = 2017-08-01T14:10:00-06:00 },
+    { title = "Open Space #1", type = "open-space", start = 2017-08-01T14:20:00-06:00, end = 2017-08-01T14:50:00-06:00 },
+    { title = "Open Space #2", type = "open-space", start = 2017-08-01T14:55:00-06:00, end = 2017-08-01T15:25:00-06:00 },
+    { title = "Open Space #3", type = "open-space", start = 2017-08-01T15:30:00-06:00, end = 2017-08-01T16:00:00-06:00 },
+    { title = "Break", type = "custom", start = 2017-08-01T16:00:00-06:00, end = 2017-08-01T16:20:00-06:00 },
+    { title = "holly-burton", type = "talk", start = 2017-08-01T16:20:00-06:00, end = 2017-08-01T16:50:00-06:00 },
+    { title = "Close Day", type = "custom", start = 2017-08-01T16:50:00-06:00, end = 2017-08-01T17:00:00-06:00 },
+    { title = "Evening event - OMSI (1945 SE Water Ave), Turbine Hall: Come enjoy a catered reception while exploring a real turbine generator, playing rock, paper, scissors with robots, and many other STEM-related games!", type = "custom", start = 2017-08-01T19:00:00-06:00, end = 2017-08-01T21:30:00-06:00 },
+    { title = "Registration, Breakfast, Sponsors", type = "custom", start = 2017-08-02T08:00:00-06:00, end = 2017-08-02T09:00:00-06:00 },
+    { title = "Opening Welcome", type = "custom", start = 2017-08-02T09:00:00-06:00, end = 2017-08-02T09:15:00-06:00 },
+    { title = "jan-de-vries", type = "talk", start = 2017-08-02T09:15:00-06:00, end = 2017-08-02T09:45:00-06:00 },
+    { title = "Sponsors", type = "custom", start = 2017-08-02T09:45:00-06:00, end = 2017-08-02T09:55:00-06:00 },
+    { title = "jason-grimes", type = "talk", start = 2017-08-02T09:55:00-06:00, end = 2017-08-02T10:25:00-06:00 },
+    { title = "Break", type = "custom", start = 2017-08-02T10:25:00-06:00, end = 2017-08-02T10:40:00-06:00 },
+    { title = "steve-desmond", type = "talk", start = 2017-08-02T10:40:00-06:00, end = 2017-08-02T11:10:00-06:00 },
+    { title = "Sponsors", type = "custom", start = 2017-08-02T11:10:00-06:00, end = 2017-08-02T11:20:00-06:00 },
+    { title = "paige-bernier", type = "talk", start = 2017-08-02T11:20:00-06:00, end = 2017-08-02T11:50:00-06:00 },
+    { title = "Open Space Opening", type = "open-space", start = 2017-08-02T11:50:00-06:00, end = 2017-08-02T12:10:00-06:00 },
+    { title = "Lunch", type = "custom", start = 2017-08-02T12:10:00-06:00, end = 2017-08-02T13:30:00-06:00 },
+    { title = "dawn-parzych", type = "talk", start = 2017-08-02T13:30:00-06:00, end = 2017-08-02T14:00:00-06:00 },
+    { title = "Open Space #1", type = "open-space", start = 2017-08-02T14:10:00-06:00, end = 2017-08-02T14:40:00-06:00 },
+    { title = "Open Space #2", type = "open-space", start = 2017-08-02T14:45:00-06:00, end = 2017-08-02T15:15:00-06:00 },
+    { title = "Open Space #3", type = "open-space", start = 2017-08-02T15:20:00-06:00, end = 2017-08-02T15:50:00-06:00 },
+    { title = "Break", type = "custom", start = 2017-08-02T15:50:00-06:00, end = 2017-08-02T16:10:00-06:00 },
+    { title = "kristen-gallagher", type = "talk", start = 2017-08-02T16:10:00-06:00, end = 2017-08-02T16:40:00-06:00 },
+    { title = "Closing", type = "custom", start = 2017-08-02T16:40:00-06:00, end = 2017-08-02T17:00:00-06:00 },
+    { title = "Registration, Breakfast, Sponsors", type = "custom", start = 2017-08-03T08:00:00-06:00, end = 2017-08-03T09:00:00-06:00 },
+    { title = "Opening Welcome", type = "custom", start = 2017-08-03T09:00:00-06:00, end = 2017-08-03T09:15:00-06:00 },
+    { title = "kelsey-hightower", type = "talk", start = 2017-08-03T09:15:00-06:00, end = 2017-08-03T09:50:00-06:00 },
+    { title = "max-timchenko", type = "talk", start = 2017-08-03T09:55:00-06:00, end = 2017-08-03T10:30:00-06:00 },
+    { title = "christopher-adeo", type = "talk", start = 2017-08-03T09:55:00-06:00, end = 2017-08-03T10:30:00-06:00 },
+    { title = "Break", type = "custom", start = 2017-08-03T10:30:00-06:00, end = 2017-08-03T10:45:00-06:00 },
+    { title = "mike-place", type = "talk", start = 2017-08-03T10:45:00-06:00, end = 2017-08-03T11:20:00-06:00 },
+    { title = "kristen-accardi", type = "talk", start = 2017-08-03T10:45:00-06:00, end = 2017-08-03T11:20:00-06:00 },
+    { title = "inspec", type = "talk", start = 2017-08-03T11:25:00-06:00, end = 2017-08-03T12:00:00-06:00 },
+    { title = "dustin-kirkland", type = "talk", start = 2017-08-03T11:25:00-06:00, end = 2017-08-03T12:00:00-06:00 },
+    { title = "Lunch", type = "custom", start = 2017-08-03T12:00:00-06:00, end = 2017-08-03T13:00:00-06:00 },
+    { title = "Ignites", type = "ignite", start = 2017-08-03T13:00:00-06:00, end = 2017-08-03T14:00:00-06:00 },
+    { title = "gene-liverman", type = "talk", start = 2017-08-03T14:05:00-06:00, end = 2017-08-03T14:40:00-06:00 },
+    { title = "william-henry", type = "talk", start = 2017-08-03T14:05:00-06:00, end = 2017-08-03T14:40:00-06:00 },
+    { title = "james-shubin", type = "talk", start = 2017-08-03T14:45:00-06:00, end = 2017-08-03T15:20:00-06:00 },
+    { title = "torin-sandall", type = "talk", start = 2017-08-03T14:45:00-06:00, end = 2017-08-03T15:20:00-06:00 },
+    { title = "Break", type = "custom", start = 2017-08-03T15:20:00-06:00, end = 2017-08-03T15:35:00-06:00 },
+    { title = "dan-bode", type = "talk", start = 2017-08-03T15:35:00-06:00, end = 2017-08-03T16:10:00-06:00 },
+    { title = "dennis-kliban", type = "talk", start = 2017-08-03T15:35:00-06:00, end = 2017-08-03T16:10:00-06:00 },
+    { title = "anubhav-mishra", type = "talk", start = 2017-08-03T16:15:00-06:00, end = 2017-08-03T16:50:00-06:00 },
+    { title = "soam-vasani", type = "talk", start = 2017-08-03T16:15:00-06:00, end = 2017-08-03T16:50:00-06:00 },
+    { title = "eric-sorenson", type = "talk", start = 2017-08-03T16:55:00-06:00, end = 2017-08-03T17:30:00-06:00 },
+    { title = "Closing", type = "custom", start = 2017-08-03T17:30:00-06:00, end = 2017-08-03T17:35:00-06:00 },
+]
+ignites = [
+    { title = "glenn-sarti", date = 2017-08-01 },
+    { title = "adam-lefkowitz", date = 2017-08-01 },
+    { title = "soo-choi", date = 2017-08-01 },
+    { title = "ed-anderson", date = 2017-08-01 },
+    { title = "buy-devops", date = 2017-08-01 },
+    { title = "no-cd", date = 2017-08-03 },
+    { title = "role-cookbook", date = 2017-08-03 },
+    { title = "spencer-krum", date = 2017-08-03 },
+    { title = "bernd-erk", date = 2017-08-03 },
+    { title = "josh-berkus", date = 2017-08-03 },
+    { title = "garrett-honeycutt", date = 2017-08-03 },
+    { title = "jj-asghar", date = 2017-08-03 },
+    { title = "grace-chung", date = 2017-08-03 },
+    { title = "chakradhar-rao-jonagam", date = 2017-08-03 },
+    { title = "ryan-whitehurst", date = 2017-08-03 },
+    { title = "rich-burroughs", date = 2017-08-03 },
+]
++++
+<div class = "row">
+  <div class = "col">
+    <hr />
+    If Open Space is new to you, you may be interested in <a href="/pages/open-space-format">more details about Open Space</a>.
+    <hr />
+    We're excited this year to bring you a third day of talks by partnering with Config Mgmnt Camp and Container Days! The two events will be taking over our space at the Oregon Convention Center on Aug. 3rd.
+  </div>
+</div>

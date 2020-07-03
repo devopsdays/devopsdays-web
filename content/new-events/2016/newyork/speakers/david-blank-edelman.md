@@ -1,0 +1,7 @@
++++
+title = "David Blank-Edelman"
+twitter = "otterbook"
+type = "new-speaker"
+image = "david-blank-edelman.jpg"
++++
+David is the Technical Evangelist at Apcera. He has spent close to thirty years in the systems administration/DevOps/SRE field in large multiplatform environments including Brandeis University, Cambridge Technology Group, MIT Media Laboratory and Northeastern University. He is the author of the O'Reilly Otter book (Automating System Administration with Perl) and is a frequent invited speaker at conferences in the field. David is honored to serve on the USENIX Board of Directors. He prefers to pronounce Evangelist with a hard 'g'.

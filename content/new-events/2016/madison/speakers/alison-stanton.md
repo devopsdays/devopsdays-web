@@ -1,0 +1,7 @@
++++
+title = "Alison Stanton"
+twitter = "alison985"
+type = "new-speaker"
+image = "alison-stanton.jpg"
++++
+As Chief Problem Solver at Stanton Ventures Alison focuses on business intelligence reporting, product measurement, process improvement through automation, and technical training. She makes data accessible, discoverable, and actionable for Operations teams, Product Managers, and clients. Currently, her main languages are SQL, Python, and LookML. She loves knitting and using technology to empower audacious ideas.

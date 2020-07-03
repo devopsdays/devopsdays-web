@@ -1,0 +1,17 @@
++++
+description = ""
+title = "Microservice Architecture on Kubernetes"
+type = "new-talk"
+speakers = [
+        "huseyin-babal",
+]
+vimeo = "344514060"
+speakerdeck = "https://speakerdeck.com/dodzh/microservice-architecture-on-kubernetes-huseyin-babal"
++++
+Production-grade best practices gained from experience on Sony and eBay on Microservice
+architecture on Kubernetes.
+
+In this session, there will be best practices for migrating/architecting microservices on
+Kubernetes environment. There will be a brief introduction to Kubernetes followed by,
+building images, deployment strategies, CI/CD integration, autoscaling, logging
+architecture, and service mesh. Those items will be supported by code/configuration pieces.

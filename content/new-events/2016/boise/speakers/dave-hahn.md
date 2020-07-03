@@ -1,0 +1,9 @@
++++
+title = "Dave Hahn"
+twitter = "relix42"
+type = "new-speaker"
+image = "dave-hahn.jpg"
++++
+Dave Hahn is a Sr SRE on the Critical Operations & Reliability
+Engineering team at Netflix. The CORE team is on the fore front of
+availability for Netflix streaming service. Dave is very serious.

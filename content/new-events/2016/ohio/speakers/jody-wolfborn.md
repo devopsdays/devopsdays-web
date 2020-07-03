@@ -1,0 +1,7 @@
++++
+title = "Jody Wolfborn"
+twitter = ""
+type = "new-speaker"
+image = "jody-wolfborn.jpg"
++++
+Jody is a theatre major-turned-technologist with a passion for languages of all kinds and a soft-spot for animals of the canine variety. Since entering the tech realm, she's had many years of experience living with and attempting to overcome Impostor Syndrome; through observation, research, and experimentation, she's collected resources to help combat this psychological self-sabotage.

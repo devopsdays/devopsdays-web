@@ -1,0 +1,12 @@
++++
+description = ""
+title = "Tom Kowalski"
+type = "new-speaker"
+image = "tom-kowalski.jpg"
++++
+10+ years as a developer 
+5+ years as a software systems engineer
+3+ years as a serverless enthusiast
+Bachelors in Software Engineering from U of M
+Currently, oversee the technology and infrastructure of a $30+ million software company 
+Organizer of the Serverless Detroit Meetup group

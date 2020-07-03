@@ -1,0 +1,7 @@
++++
+title = "Jason Yee"
+twitter = "gitbisect"
+type = "new-speaker"
+image = "jason-yee.jpg"
++++
+Jason is a community builder, developer, traveller and chef. He currently works as a technical writer & evangelist at Datadog. When he's not working you can often find him on a plane trying to accumulate more miles or in a restaurant cooking.

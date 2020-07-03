@@ -1,0 +1,7 @@
++++
+title = "Dave Long"
+twitter = "davejlong"
+type = "new-speaker"
+image = "dave-long.jpg"
++++
+Dave Long is a devops consultant at Cage Data. He has been working in the development world since the mid–2000’s with various companies including consultancies, startups and corporations. Throughout his time in the development work, Dave has always had an interest in automation to improve deployment and the general quality of the final product. Outside of the professional world, Dave works with his wife in Uganda, Africa to teach technology skills to children with the Kampala Children’s Centre.

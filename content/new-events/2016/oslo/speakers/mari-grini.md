@@ -1,0 +1,7 @@
++++
+title = "Mari Grini"
+twitter = "MariGrini"
+type = "new-speaker"
+image = "mari-grini.jpg"
++++
+Mari is currently managing security in Telenor Digital, a development house within Telenor. She has worked many years in IT security and has among other the experience from managing IT security in a major Norwegian bank. She has education from NTNU and have a Master of Management at BI.<br><br> [LinkedIn](https://no.linkedin.com/in/marigrini)

@@ -1,0 +1,7 @@
++++
+title = "Fernando Moraes"
+twitter = "fasmoraes"
+type = "new-speaker"
+image = "fernando-moraes.jpg"
++++
+Fernando é formado em Engenharia de Computação pela Unicamp e possui MBA em Marketing pela ESPM. Tem experiência internacional como analista e arquiteto de software, e nos últimos cinco anos tem se dedicado ao desenho e gestão de áreas de PSPEAKERBIOD e Inovação corporativos. Foi Product Owner de produtos nas áreas de mineração de dados e processos (analytics), visualização de dados e monitoração de dados em tempo próximo ao real. Como Gerente de Inovação da Daitan, sua missão é fomentar e apoiar os times da empresa na criação e transformação de conhecimento técnico em thought leadership e oportunidades de negócio.

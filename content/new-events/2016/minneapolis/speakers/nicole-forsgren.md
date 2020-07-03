@@ -1,0 +1,7 @@
++++
+title = "Nicole Forsgren"
+twitter = "nicolefv"
+type = "new-speaker"
+image = "nicole-forsgren.jpg"
++++
+Dr. Nicole Forsgren is an IT impacts expert who shows leaders and practitioners how to unlock the potential of technology change in their organizations. Best known for her work with tech professionals and as the lead investigator on the State of DevOps Reports, she is the Director of Organizational Performance and Analytics at Chef and an Academic Partner at Clemson University. In a previous life, she was a professor, sysadmin, and hardware performance analyst.

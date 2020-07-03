@@ -1,0 +1,7 @@
++++
+title = "Dakota dux"
+twitter = "ddux"
+type = "new-speaker"
+image = "dakota-dux.jpg"
++++
+Dakota Dux is an engineer at Nextpoint, a Chicago and Madison based company that provides an online document management platform for litigators. Dakota is passionate about building flexible systems and not deploying on Fridays. With 10+ years of writing ruby, he’s seen a few things. When he’s not slinging code, he moonlights as the head coach for the University of Wisconsin Alpine Ski Team. He likes to describe his coaching philosophy as Extreme Fundamentals. If you see him around ask him to tell you the penguin joke.

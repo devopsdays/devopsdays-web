@@ -1,0 +1,7 @@
++++
+title = "Morgan Rhodes"
+twitter = "KnittyNerd"
+type = "new-speaker"
+image = "morgan-rhodes.jpg"
++++
+Morgan started working as a module engineer at Puppet in Spring of 2014 and joined the release engineering team in October 2015. Before that she had been part of the Puppet community for over four years, largely using Puppet as a system administrator. Outside of work, she can be found biking, cooking delicious vegan fare, curling like a boss (or Canadian), and hanging out with her cats.
