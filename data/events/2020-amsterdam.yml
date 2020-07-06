@@ -156,7 +156,7 @@ program:
     type: custom
     date: 2020-07-09T00:00:00+02:00
     start_time: "11:50"
-    end_time: "12::10"
+    end_time: "12:10"
   - title: "Open spaces introduction and explanation"
     type: open-space
     date: 2020-07-09T00:00:00+02:00
