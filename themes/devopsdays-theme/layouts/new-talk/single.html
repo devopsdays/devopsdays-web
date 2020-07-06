@@ -205,6 +205,7 @@
 
 
 
-{{- partial "new-sponsors.html" . -}}
+{{- $base_dir := (printf "%s/%s" $event_year $event_city) -}}
+{{ partialCached "new-sponsors.html" . $base_dir }}
 
 {{ end }}

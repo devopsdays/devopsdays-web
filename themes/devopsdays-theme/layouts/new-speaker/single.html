@@ -1,6 +1,7 @@
 {{ define "main" }}
 {{- $event_year := (index (split (.File.Dir) "/") 1) -}}
 {{- $event_city := (index (split (.File.Dir) "/") 2) -}}
+{{- $base_dir := (printf "%s/%s" $event_year $event_city) -}}
 {{- $event_data := .Site.GetPage (printf "/new-events/%s/%s" $event_year $event_city) -}}
 {{- $speaker_slug := .File.BaseFileName}}
 {{- $speaker_name := .Title -}}
@@ -101,7 +102,7 @@
 
 </div>  
 
-
-{{ partial "new-sponsors.html" . }}
+{{- $base_dir := (printf "%s/%s" $event_year $event_city) -}}
+{{ partialCached "new-sponsors.html" . $base_dir }}
 
 {{ end }}
