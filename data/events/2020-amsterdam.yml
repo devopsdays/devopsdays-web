@@ -157,101 +157,14 @@ program:
     date: 2020-07-09T00:00:00+02:00
     start_time: "11:50"
     end_time: "12::10"
-
-  ### Multi track start
-
-  ## Breaks
-
-  - title: "break"
-    type: custom
-    date: 2020-07-09T00:00:00+02:00
-    start_time: "12:45"
-    end_time: "13:00"
-
-  - title: "break"
-    type: custom
-    date: 2020-07-09T00:00:00+02:00
-    start_time: "14:00"
-    end_time: "14:15"
-
-  ## Business track
-  - title: "edward-pearson"
-    type: workshop
-    date: 2020-07-09T00:00:00+02:00
-    start_time: "12:15"
-    end_time: "12:45"
-    comments: "Business Track"
-
-  - title: "mark-smalley"
-    type: workshop
-    date: 2020-07-09T00:00:00+02:00
-    start_time: "13:00"
-    end_time: "13:30"
-    comments: "Business Track"
-
-  - title: "lian-li"
-    type: workshop
-    date: 2020-07-09T00:00:00+02:00
-    start_time: "13:30"
-    end_time: "14:00"
-    comments: "Business Track"
-
-  - title: "joao-rosa"
-    type: workshop
-    date: 2020-07-09T00:00:00+02:00
-    start_time: "14:15"
-    end_time: "15:45"
-
-  - title: "dave-van-herpen"
-    type: workshop
-    date: 2020-07-09T00:00:00+02:00
-    start_time: "14:45"
-    end_time: "15:15"
-    comments: "Business Track"
-
-  ## Security track
-  - title: "melanie-rieback"
-    type: talk
-    date: 2020-07-09T00:00:00+02:00
-    start_time: "12:15"
-    end_time: "12:45"
-    comments: "Security Track"
-
-  - title: "irenne-zbarsky"
-    type: talk
-    date: 2020-07-09T00:00:00+02:00
-    start_time: "13:00"
-    end_time: "13:30"
-    comments: "Security Track"
-
-  - title: "sarah-polan"
-    type: talk
-    date: 2020-07-09T00:00:00+02:00
-    start_time: "13:30"
-    end_time: "14:00"
-    comments: "Security Track"
-
-  - title: "daphne-ma"
-    type: talk
-    date: 2020-07-09T00:00:00+02:00
-    start_time: "14:15"
-    end_time: "14:45"
-    comments: "Security Track"
-
-  - title: "karen-sijbrandij"
-    type: talk
-    date: 2020-07-09T00:00:00+02:00
-    start_time: "14:45"
-    end_time: "15:15"
-    comments: "Security Track"
-
-  ## Open Spaces
   - title: "Open spaces introduction and explanation"
     type: open-space
     date: 2020-07-09T00:00:00+02:00
     start_time: "11:50"
     end_time: "12:30"
     backgroud_color: "#ffb566"
+
+  ### Multi track start
 
   - title: "Open Space slot one - ( 2 simultaneous )"
     type: open-space
@@ -260,6 +173,26 @@ program:
     end_time: "13:00"
     backgroud_color: "#ffb566"
 
+  - title: "edward-pearson"
+    type: workshop
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "12:15"
+    end_time: "12:45"
+    comments: "Business Track"
+
+  - title: "melanie-rieback"
+    type: talk
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "12:15"
+    end_time: "12:45"
+    comments: "Security Track"
+
+  - title: "break"
+    type: custom
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "12:45"
+    end_time: "13:00"
+
   - title: "Open Space slot two - ( 2 simultaneous )"
     type: open-space
     date: 2020-07-09T00:00:00+02:00
@@ -267,12 +200,40 @@ program:
     end_time: "13:30"
     backgroud_color: "#ffb566"
 
+  - title: "mark-smalley"
+    type: workshop
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "13:00"
+    end_time: "13:30"
+    comments: "Business Track"
+
+  - title: "irenne-zbarsky"
+    type: talk
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "13:00"
+    end_time: "13:30"
+    comments: "Security Track"
+
   - title: "Open Space slot tree - ( 2 simultaneous )"
     type: open-space
     date: 2020-07-09T00:00:00+02:00
     start_time: "13:30"
     end_time: "14:00"
     backgroud_color: "#ffb566"
+
+  - title: "lian-li"
+    type: workshop
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "13:30"
+    end_time: "14:00"
+    comments: "Business Track"
+
+  - title: "sarah-polan"
+    type: talk
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "13:30"
+    end_time: "14:00"
+    comments: "Security Track"
 
   - title: "Open Space slot four - ( 2 simultaneous )"
     type: open-space
@@ -282,12 +243,45 @@ program:
     backgroud_color: "#ffb566"
     comments: "Business Track"
 
+  - title: "break"
+    type: custom
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "14:00"
+    end_time: "14:15"
+
+  - title: "joao-rosa"
+    type: workshop
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "14:15"
+    end_time: "15:45"
+
+  - title: "daphne-ma"
+    type: talk
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "14:15"
+    end_time: "14:45"
+    comments: "Security Track"
+
   - title: "Open Space slot five  - ( 2 simultaneous )"
     type: open-space
     date: 2020-07-09T00:00:00+02:00
     start_time: "14:30"
     end_time: "15:00"
     backgroud_color: "#ffb566"
+
+  - title: "dave-van-herpen"
+    type: workshop
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "14:45"
+    end_time: "15:15"
+    comments: "Business Track"
+
+  - title: "karen-sijbrandij"
+    type: talk
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "14:45"
+    end_time: "15:15"
+    comments: "Security Track"
 
   - title: "Open Space slot six  - ( 2 simultaneous )"
     type: open-space
