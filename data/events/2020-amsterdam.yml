@@ -200,11 +200,11 @@ program:
     end_time: "13:30"
     backgroud_color: "#ffb566"
 
-  - title: "mark-smalley"
+  - title: "dave-van-herpen"
     type: workshop
     date: 2020-07-09T00:00:00+02:00
-    start_time: "13:00"
-    end_time: "13:30"
+    start_time: "14:45"
+    end_time: "15:15"
     comments: "Business Track"
 
   - title: "irenne-zbarsky"
@@ -269,11 +269,11 @@ program:
     end_time: "15:00"
     backgroud_color: "#ffb566"
 
-  - title: "dave-van-herpen"
+  - title: "mark-smalley"
     type: workshop
     date: 2020-07-09T00:00:00+02:00
-    start_time: "14:45"
-    end_time: "15:15"
+    start_time: "13:00"
+    end_time: "13:30"
     comments: "Business Track"
 
   - title: "karen-sijbrandij"
@@ -289,3 +289,9 @@ program:
     start_time: "15:00"
     end_time: "15:20"
     backgroud_color: "#ffb566"
+
+  - title: "Closing"
+    type: custom
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "15:20"
+    end_time: "16:00"
