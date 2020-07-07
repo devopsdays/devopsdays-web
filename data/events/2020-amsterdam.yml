@@ -200,7 +200,7 @@ program:
     end_time: "13:30"
     backgroud_color: "#ffb566"
 
-  - title: "mark-smalley"
+  - title: "dave-van-herpen"
     type: workshop
     date: 2020-07-09T00:00:00+02:00
     start_time: "13:00"
@@ -269,7 +269,7 @@ program:
     end_time: "15:15"
     backgroud_color: "#ffb566"
 
-  - title: "dave-van-herpen"
+  - title: "mark-smalley"
     type: workshop
     date: 2020-07-09T00:00:00+02:00
     start_time: "14:45"
