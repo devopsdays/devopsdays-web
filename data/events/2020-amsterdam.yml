@@ -214,7 +214,7 @@ program:
     end_time: "13:30"
     comments: "Security Track"
 
-  - title: "Open Space slot tree"
+  - title: "Open Space slot three"
     type: open-space
     date: 2020-07-09T00:00:00+02:00
     start_time: "13:30"
