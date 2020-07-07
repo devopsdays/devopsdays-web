@@ -36,7 +36,7 @@ masthead_background: "nashville-skyline.jpg"
 #
 # ###########################
 
-coordinates: "42.486356,-96.419455" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+coordinates: "36.157195,-86.776516" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Music City Center, Nashville, TN" # Defaults to city, but you can make it the venue name.
 location_address: "201 5th Avenue South, Nashville, TN 37203" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
@@ -48,11 +48,11 @@ location_address: "201 5th Avenue South, Nashville, TN 37203" #Optional - use th
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
- # - name: location
  # - name: registration
  # - name: program
  # - name: speakers
 #  - name: sponsor
+  - name: location
   - name: contact
   - name: conduct
 # - name: example
