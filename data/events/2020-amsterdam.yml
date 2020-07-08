@@ -89,6 +89,8 @@ sponsors:
     level: gold
   - id: schubergphilis
     level: gold
+  - id: contrast_security
+    level: gold
   # Silver
   - id: container-solutions
     level: silver
@@ -240,7 +242,7 @@ program:
     date: 2020-07-09T00:00:00+02:00
     start_time: "14:00"
     end_time: "14:15"
-    
+
   - title: "Open Space slot four"
     type: open-space
     date: 2020-07-09T00:00:00+02:00
@@ -288,7 +290,7 @@ program:
     date: 2020-07-09T00:00:00+02:00
     start_time: "15:20"
     end_time: "15:30"
-    
+
   - title: "Closing keynote"
     type: custom
     date: 2020-07-09T00:00:00+02:00
