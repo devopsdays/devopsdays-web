@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "From 2 to 15: DevOpsDays in Brazil: challenges and achievements"
 Type = "talk"
 Speakers = ["rafael-gomes"]
+sharing_image = "rafael-gomes.png"
 +++
 Few sponsors, almost no money and a huge country. DevOpsDays in Brazil big cities are thriving, but what about smaller towns without tech communities? What are the challenges and achievements so far?
 
