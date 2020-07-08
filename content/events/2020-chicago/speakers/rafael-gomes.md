@@ -5,6 +5,7 @@ image = "rafael-gomes.jpg"
 type = "speaker"
 linktitle = "rafael-gomes"
 website = "https://gomex.me"
+sharing_image = "rafael-gomes.png"
 +++
 Father, Brazilian, urban hacker and infrastructure consultant, graduated from the University of Salvador in the course of Network Management.
 
