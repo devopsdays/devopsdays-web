@@ -291,8 +291,8 @@ program:
     start_time: "15:20"
     end_time: "15:30"
 
-  - title: "Closing keynote"
-    type: custom
+  - title: "nathen-harvey"
+    type: talk
     date: 2020-07-09T00:00:00+02:00
     start_time: "15:30"
     end_time: "16:00"
