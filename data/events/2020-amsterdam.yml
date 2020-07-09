@@ -285,14 +285,8 @@ program:
     end_time: "15:15"
     comments: "Security Track"
 
-  - title: "Emcees looking back"
+  - title: "Emcees looking back, with Nathen Harvey"
     type: custom
     date: 2020-07-09T00:00:00+02:00
     start_time: "15:20"
-    end_time: "15:30"
-
-  - title: "nathen-harvey"
-    type: talk
-    date: 2020-07-09T00:00:00+02:00
-    start_time: "15:30"
-    end_time: "16:00"
+    end_time: "15:50"
