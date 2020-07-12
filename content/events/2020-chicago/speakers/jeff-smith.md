@@ -5,6 +5,7 @@ image = "jeff-smith.jpg"
 type = "speaker"
 linktitle = "jeff-smith"
 website = "http://www.allthingsdork.com"
+sharing_image = "jeff-smith.png"
 +++
 Jeff Smith has been in the technology industry for over 20 years, oscillating between management and individual contributor. Jeff currently serves as the Director of Production Operations for Centro, an advertising software company headquartered in Chicago, Illinois. Before that he served as the Manager of Site Reliability Engineering at Grubhub.
 

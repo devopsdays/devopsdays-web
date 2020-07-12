@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Chaos: breaking your systems to make them unbreakable"
 Type = "talk"
 Speakers = ["jason-yee"]
+sharing_image = "jason-yee.png"
 +++
 As applications become more distributed and complex, so do our failure modes. In this presentation, I'll share why you shouldn't just embrace failure, but why you should induce it to intentionally cause and learn from failure.
 

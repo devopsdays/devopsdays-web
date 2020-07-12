@@ -19,9 +19,12 @@ Sponsors are also subject to the anti-harassment policy. In particular, sponsors
 
 If a participant engages in harassing behavior, the conference organizers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the Code of Conduct Team immediately:
+Floor Drees (organizer), she/her: floordrees@gmail.com | FloorD on Telegram
+Sheela Nistala (organizer), she/her: sheela.nistala@gmail.com 
+Don Goodman-Wilson (external), he/him: don@goodman-wilson.com | DEGoodmanWilson on Telegram
 
-Conference staff can be identified by distinct staff badges. Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
+The Code of Conduct team will be happy to assist participants experiencing harassment to feel safe for the duration of the conference. We value your attendance.
 
 We expect participants to follow these rules at conference and workshop venues and conference-related social events.
 

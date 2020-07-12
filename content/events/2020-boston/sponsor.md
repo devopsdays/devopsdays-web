@@ -10,10 +10,13 @@ Description = "Sponsor DevOpsDays Boston 2020"
 <div class="col-md-9">
 <div>
 <h3>Join the community</h3>
-<p>devopsdays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. All sponsors will get recognition on the website and social media before, during, and after the event. Platinum sponsors have the opportunity to have short elevator pitches during the program. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.</p>
-<p>Gold and Platinum sponsors receive a full table in the main event area, where they can interact with those interested to come visit during breaks. All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.</p>
-<p>The best thing to do is send engineers to interact with the experts at devopsdays on their own terms.</p>
-<p>The Start-Up Alley sponsorship tier is open to small startups looking to interact with our attendee base. Each startup is allocated two conference passes, and a 4-foot hallway table in the Calderwood Pavilion, outside theaters for our two talk tracks.</p>
+<p><strong>DevOpsDays Boston Virtual</strong> is a one-day online technology community conference that will be held this year on September 28 using a virtual conference platform.</p>
+<p>The conference is designed to promote awareness around bridging gaps and breaking down silos between development, operations, and security teams and their related business organizations.</p>
+<p>DevOpsDays is a grassroots event for professionals in technology to network and share ideas and challenges relating to DevOps, IT management, and technology in general. It is organized by peers who care about and believe in improving the culture of technology work, process automation, metrics, and sharing in an environment of inclusion.</p>
+<h3>Why Sponsor DevOpsDays Boston?</h3>
+<p><strong>DevOpsDays Boston</strong> is part of a global phenomenon that is reshaping the technology industry. DevOpsDays
+conferences around the world bring together the highest quality speakers, subject matter experts, and contributors for two days of &quot;Teaching and Learning.&quot;</p>
+<p>As a DevOpsDays Boston sponsor, you will be branding your company as ambassadors to the Boston DevOps Community. Your company will be recognized as a Boston technology leader, exposing your brand, products, and services to our top tech talent. Last year we hosted 680 attendees and sold out our 2019 physical conference venue for both sponsors and attendees. We expect to achieve similarly high turnout for this year’s virtual event.</p>
 </div>
 <h3>Sponsorship Packages</h3>
 <div class="table-responsive">
@@ -33,22 +36,13 @@ Description = "Sponsor DevOpsDays Boston 2020"
 </thead>
 <tbody>
 <tr>
-<th scope="row">Pricing</th>
+<th scope="row">Contribution Cost</th>
 <td>
-<center>$6,000</center>
+<center>$2,500</center>
 </td>
 <td>
-<center>$9,000</center>
+<center>$5,000</center>
 </td>
-</tr>
-<tr>
-<th scope="row">&nbsp;</th>
-<th>
-<center><span class="badge badge-success">Available</span></center>
-</th>
-<th>
-<center><span class="badge badge-success">Available</span></center>
-</th>
 </tr>
 <tr>
 <th scope="row"># of conference passes</th>
@@ -60,50 +54,58 @@ Description = "Sponsor DevOpsDays Boston 2020"
 </td>
 </tr>
 <tr>
-<th scope="row">Table Size</th>
+<th scope="row">Virtual Exhibition Space (Custom Channel)</th>
 <td>
-<center>4' x 4'</center>
+<center>✓</center>
 </td>
 <td>
-<center>6' x 2.5'</center>
+<center>✓</center>
 </td>
-
 </tr>
 <tr>
-<th scope="row">Company logo on digital signage</th>
+<th scope="row">Company logo on DevOpsDays website</th>
 <td>
-<center>Medium</center>
+<center>Small</center>
 </td>
 <td>
 <center>Large</center>
 </td>
 </tr>
 <tr>
-<th scope="row">Minutes on stage during conference</th>
+<th scope="row">Company logo on digital signage / video loops</th>
+<td>
+<center>Small</center>
+</td>
+<td>
+<center>Large</center>
+</td>
+</tr>
+<tr>
+<th scope="row">Mentions via social media (Twitter / LinkedIn)</th>
+<td>
+<center>✓</center>
+</td>
+<td>
+<center>✓</center>
+</td>
+</tr>
+<tr>
+<th scope="row">Minutes on virtual stage during conference</th>
 <td>
 <center>-</center>
 </td>
 <td>
-<center>2</center>
+<center>3</center>
 </td>
 </tr>
 <tr>
-<th scope="row">Additional, a la carte sponsorships</th>
+<th scope="row">Additional, a la carte sponsorships<br /><br /><span style="font-weight: normal;">The following may be purchased in lieu of, or in addition to, the sponsorships above.</span></th>
 <th>
 <center># Available</center>
 </th>
 <th>
 <center>Cost</center>
 </th>
-</tr>
-<tr>
-<th scope="row">Evening Event</th>
-<td>
-<center>1</center>
-</td>
-<td>
-<center>$12,500</center>
-</td>
 </tr>
 <tr>
 <th scope="row">Live Captioning</th>
@@ -115,16 +117,7 @@ Description = "Sponsor DevOpsDays Boston 2020"
 </td>
 </tr>
 <tr>
-<th scope="row">Media (photography, videography)</th>
-<td>
-<center>2</center>
-</td>
-<td>
-<center>$5,000</center>
-</td>
-</tr>
-<tr>
-<th scope="row">Wi-Fi</th>
+<th scope="row">Digital Graphic Recordings (Live Drawings)</th>
 <td>
 <center>1</center>
 </td>
@@ -133,30 +126,39 @@ Description = "Sponsor DevOpsDays Boston 2020"
 </td>
 </tr>
 <tr>
-<th scope="row">Badges & Lanyards</th>
+<th scope="row">Videography & post-processing</th>
 <td>
 <center>1</center>
 </td>
 <td>
-<center>$3,500</center>
+<center>$5,000</center>
 </td>
 </tr>
 <tr>
-<th scope="row">Breaks</th>
+<th scope="row">Pre-event Hangout</th>
+<td>
+<center>1</center>
+</td>
+<td>
+<center>$2,500</center>
+</td>
+</tr>
+<tr>
+<th scope="row">StartUp Alley</th>
 <td>
 <center>4</center>
+</td>
+<td>
+<center>$1,000</center>
+</td>
+</tr>
+<tr>
+<th scope="row">Donations to Underrepresentation Partners</th>
+<td>
+<center>-</center>
 </td>
 <td>
 <center>$2,000</center>
-</td>
-</tr>
-<tr>
-<th scope="row">Start-up Alley</th>
-<td>
-<center>4</center>
-</td>
-<td>
-<center>$1,500</center>
 </td>
 </tr>
 </tbody>
