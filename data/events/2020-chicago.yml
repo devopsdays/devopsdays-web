@@ -156,6 +156,8 @@ sponsors:
   - id: solarwinds
     level: gold 
   - id: stackrox
+    level: gold
+  - id: braintree
     level: gold 
   - id: braintree
     level: gold
