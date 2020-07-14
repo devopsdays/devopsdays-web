@@ -11,7 +11,7 @@ ga_tracking_id: "UA-74738648-1" # If you have your own Google Analytics tracking
 # Note: we allow 2020-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
 startdate: 2020-09-01T00:08:00-06:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2020-09-01T00:17:00-06:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2020-09-01T00:18:00-06:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  2020-02-07T00:07:00-06:00 # start accepting talk proposals.
@@ -20,8 +20,8 @@ cfp_date_announce:  2020-06-15T00:08:00-06:00 # inform proposers of status
 
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2020-07-13T00:00:00-06:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2020-09-02T00:00:00-06:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -40,7 +40,7 @@ location: "Online" # Defaults to city, but you can make it the venue name.
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
  # - name: location
- # - name: registration
+  - name: registration
  # - name: program
   - name: speakers
   - name: sponsor
