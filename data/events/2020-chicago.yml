@@ -24,7 +24,7 @@ registration_date_start: 2020-07-13T00:00:00-06:00 # start accepting registratio
 registration_date_end: 2020-09-02T00:00:00-06:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://event.devopsdayschi.org" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 masthead_background: "skyline-night.jpg"
 sharing_image: "sharing.png"
@@ -41,6 +41,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: propose
  # - name: location
   - name: registration
+    url: https://event.devopsdayschi.org
  # - name: program
   - name: speakers
   - name: sponsor
