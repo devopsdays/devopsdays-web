@@ -24,3 +24,5 @@ Description = "Registration for devopsdays Chicago 2020"
         onOrderComplete: exampleCallback  // Method called when an order has successfully completed
     });
 </script>
+
+*Registration form not displaying? You can also register directly at [event.devopsdayschi.org](https://event.devopsdayschi.org)*
