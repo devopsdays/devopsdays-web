@@ -97,28 +97,28 @@ All sponsors will have their logo displayed on the DevOpsDays Chicago website, a
       <td></td>
     </tr>
     <tr>
-      <td>Recorded 3 minute pitch video to play during a break</td>
+      <td>Pre-Recorded 3 minute pitch video to play during a break</td>
       <td><img src = "/events/2020-chicago/yak-head.png"></td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>Branded Slack channel where participants are pre-joined</td>
+      <td>2 Discord channels: text and voice/video</td>
       <td><img src = "/events/2020-chicago/yak-head.png"></td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>Branded Slack channel for participants to manually join</td>
+      <td>1 Discord text channel</td>
       <td></td>
       <td><img src = "/events/2020-chicago/yak-head.png"></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>3 pre-written Slack messages in main Slack channel</td>
+      <td>3 pre-written Discord messages in main chat channel</td>
       <td><img src = "/events/2020-chicago/yak-head.png"></td>
       <td></td>
       <td></td>
@@ -132,14 +132,14 @@ All sponsors will have their logo displayed on the DevOpsDays Chicago website, a
       <td></td>
     </tr>
     <tr>
-      <td>1 social media shout-out before and during event</td>
+      <td>1 social media shout-out before event</td>
       <td></td>
       <td><img src = "/events/2020-chicago/yak-head.png"></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>1 pre-written Slack message in main Slack channel</td>
+      <td>1 pre-written Discord message in main chat channel</td>
       <td></td>
       <td><img src = "/events/2020-chicago/yak-head.png"></td>
       <td></td>
@@ -147,32 +147,10 @@ All sponsors will have their logo displayed on the DevOpsDays Chicago website, a
     </tr>
   </tbody>
 </table>
-
-<h2>Special Sponsorships</h2>
-
-All special sponsors will have their logo displayed on the DevOpsDays Chicago website, a tweet before the conference, and a thank you during the conference. We do have some flexibilities with these sponsorships, so just ask! Email us: <a href="mailto:chicago-sponsors@devopsdays.org">chicago-sponsors@devopsdays.org</a>.
+# <h2>Special Sponsorships</h2>
+#All special sponsors will have their logo displayed on the DevOpsDays Chicago website, a tweet before the conference, and a thank you during the conference. We do have some flexibilities with these sponsorships, so just ask! Email us: <a href="mailto:chicago-sponsors@devopsdays.org">chicago-sponsors@devopsdays.org</a>.
 <br/><br/>
 
-<table class="table table-bordered table-hover">
-  <thead>
-    <tr>
-      <th scope="col"></th>
-      <th scope="col">Sponsorship</th>
-      <th scope="col">Price</th>
-      <th scope="col">Description</th>
-      <th scope="col">Number Available</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center"><i class="fa fa-commenting fa-4x"></i></td>
-      <td>Live Transcription</td>
-      <td>$1,500</td>
-      <td>Logo on a dedicated slide on transitions during a break and branded Slack channel participants can manually join</td>
-      <td>1</td>
-    </tr>
-  </tbody>
-</table>
 
 <div class = "row">
 <div class = "col-12">
@@ -186,6 +164,6 @@ All special sponsors will have their logo displayed on the DevOpsDays Chicago we
 </div>
 </div>
 <div class = "col-md-4 col-sm-12">
-<a href = "https://assets.devopsdays.org/events/2020/chicago/2020-chicago-devopsdays-prospectus.pdf" target="_blank"><img src = "/events/2020-chicago/DOD_Chi_Prospectus_2020.png" class="img-fluid""></a>
+<a href = "https://assets.devopsdays.org/events/2020/chicago/2020-chicago-devopsdays-prospectus.pdf" target="_blank"><img src = "/events/2020-chicago/DOD_Chi_Prospectus_2020.png" class="img-fluid"></a>
 </div>
 </div>
