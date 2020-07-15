@@ -55,7 +55,6 @@ The conference Twitter hashtag will be #devopsdays. Please tweet, blog, and othe
 Join us:   
 Twitter: https://twitter.com/devopsdaysChi  
 LinkedIn: https://www.devopsdayschi.org/linkedin  
-Facebook: https://www.facebook.com/devopsdayschi/   
 Instagram: https://www.instagram.com/devopsdayschi   
 
 #### Note to sponsors about social media and Discord  
