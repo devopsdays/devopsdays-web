@@ -35,7 +35,7 @@ location_address: "500 S Salisbury St, Raleigh, NC 27601" #Optional - use the st
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
-  - name: location
+# - name: location
   - name: registration
     url: https://2020.allthingsopen.org/register/
 # - name: program
