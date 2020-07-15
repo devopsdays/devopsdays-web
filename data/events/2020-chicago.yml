@@ -166,7 +166,7 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
-# sponsorship for a specific level, it is best to remove the level.
+# sponsorship for a specific level, it is best to remove the level..
 sponsor_levels:
   - id: gold
     label: Gold
@@ -181,3 +181,71 @@ sponsor_levels:
   - id: transcription
     label: Live Transcription
     max: 1
+
+program:
+  - title: "Opening Remarks"
+    type: custom
+    date: 2020-09-01
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "sherlaender-lani-phillips"
+    type: talk
+    date: 2020-09-01
+    start_time: "09:15"
+    end_time: "09:35"
+  - title: "Breakouts"
+    type: open-space
+    date: 2020-09-01
+    start_time: "09:35"
+    end_time: "09:55"
+    custom_url: "https://event.devopsdayschi.org"
+  - title: richard-cook
+    type: talk
+    date: 2020-09-01
+    start_time: "09:55"
+    end_time: "10:15"
+  - title: "Ignite Round 1"
+    type: ignite
+    date: 2020-09-01
+    start_time: "11:45"
+    end_time: "12:05"
+    block: "ignite-1"
+  - title: "jason-yee"
+    type: talk
+    date: 2020-09-01
+    start_time: "12:10"
+    end_time: "12:30"
+  - title: "Ignite Round 2"
+    type: ignite
+    date: 2020-09-01
+    start_time: "15:00"
+    end_time: "15:30"
+    block: "ignite-2"
+
+
+
+ignites:
+  - title: "jeff-smith"
+    date: 2020-09-01
+    block: "ignite-1"
+  - title: "aaron-aldrich"
+    date: 2020-09-01
+    block: "ignite-1"
+  - title: "amy-arambulo-negrette"
+    date: 2020-09-01
+    block: "ignite-1"
+  - title: "brendan-oleary"
+    date: 2020-09-01
+    block: "ignite-1"
+  - title: "henry-quinn"
+    date: 2020-09-01
+    block: "ignite-2"
+  - title: "laura-santamaria"
+    date: 2020-09-01
+    block: "ignite-2"
+  - title: "renata-rocha"
+    date: 2020-09-01
+    block: "ignite-2"
+  - title: "jeremy-meiss"
+    date: 2020-09-01
+    block: "ignite-2"
