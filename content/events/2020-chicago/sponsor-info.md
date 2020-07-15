@@ -16,15 +16,14 @@ Email: [chicago-sponsors@devopsdays.org](mailto:chicago-sponsors@devopsdays.org)
 
 ### Important Dates
 * July 31: All payments due (no payment = no benefits)
-* August 17: Last day to order A/V equipment.
 * August 24: Gold 3 minute pre-recorded pitch video due
 * September 1: DevOpsDays Chicago 2020!
 
 ### Schedule
-The event takes place Tuesday, September 1st, 2020. The detailed schedule for the two days can be found on the [DoDChi website](https://devopsdays.org/events/2020-chicago/program/).  
+The event takes place Tuesday, September 1st, 2020. The detailed schedule for the day can be found on the [DoDChi website](https://devopsdays.org/events/2020-chicago/program/).  
 
 ### Registration
-All attendees, including sponsor exhibitors, are required to register for this event and agree to [the Code of Conduct.](https://devopsdays.org/events/2020-chicago/conduct)
+All attendees, including sponsor exhibitors, are required to [register for this event](https://event.devopsdayschi.org) and agree to [the Code of Conduct.](https://devopsdays.org/events/2020-chicago/conduct)
 
 ### Gold Sponsors
 * 2 Branded Discord channels: text and video/voice
