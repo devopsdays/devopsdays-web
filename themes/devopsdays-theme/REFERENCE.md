@@ -207,6 +207,7 @@ program:
 | `comments`         | No       | Additional comments/notes about the program types `talk`, `workshop` and `custom` (for example, location of an evening event). Markdown is supported.                                                                                                       | "This will be at the [Pony Club](http://www.mattstratton.com),1005 Ponyville Drive,Ponyville, IL,60612" |
 | `background_color` | No       | Allows the ability to override the color of the program element. Only the background color can be changed; please test to make sure the color works with the displayed text colors. Color is expressed in RGB HEX value. Must be in quotes.                 | "#FFFA99"                                                                                               |
 | `custom_url`       | No       | Replaces the URL for various program types to link to external URL or a URL of your choosing. Valid for `custom`, `talk`, `ignite`, `workshop`, or `open-space`                                                                                     | "https://example.com"                                                                                   |
+| `block`   | No | Ignite section only - if there are multiple ignites in the same day, this allows them to be broken up into multiples | "ignite-1" |
 
 ##### Program Element Colors
 
@@ -227,16 +228,20 @@ The Ignite elements are set in the `ignites` section. Example:
 ignites:
   - title: "spike"
     date: 2017-06-16
-  - title: "DevOps With Delight"
+  - title: "rainbow-dash"
     date: 2017-06-16
     custom_url: "https://example.com/ignites
+  - title: "twilight-sparkle"
+    date: 2017-06-16
+    block: "ignite-1"
 ```
 
 | Field Name   | Required | Description                                                                                                                                   | Example                                |
 |--------------|----------|-----------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|
-| `title`      | Yes      | The title of the ignite. If it is named after the filename (without the `.md` extension` of a talk, it will generate a link to the talk page. | "matt-stratton" or "DevOps With Delight" |
+| `title`      | Yes      | The title of the ignite. It should be named after the filename (without the `.md` extension) of a talk | "matt-stratton"                                                                 |
 | `date`       | Yes      | The date of the ignite, in YYYY-MM-DD format.                                                                                                 | 2017-06-16                               |
 | `custom_url` | No       | Allows linking to URL off-site for various reasons.                                                                                           | "https://example.com/schedule"           |
+| `block`      | No       | If there are multiple blocks of ignites in the same day, this specifies which block                                                           | "ignite-1"                               |
 
 ## Pages and Frontmatter
 
