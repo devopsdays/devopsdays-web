@@ -90,7 +90,7 @@ All sponsors will have their logo displayed on the DevOpsDays Chicago website, a
       <td><img src = "/events/2020-chicago/yak-head.png"></td>
     </tr>
     <tr>
-      <td>Logo as custom Slack emoji</td>
+      <td>Logo as custom Discord emoji</td>
       <td><img src = "/events/2020-chicago/yak-head.png"></td>
       <td><img src = "/events/2020-chicago/yak-head.png"></td>
       <td></td>
