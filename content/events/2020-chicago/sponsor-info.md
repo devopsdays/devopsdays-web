@@ -58,5 +58,5 @@ LinkedIn: https://www.devopsdayschi.org/linkedin
 Facebook: https://www.facebook.com/devopsdayschi/   
 Instagram: https://www.instagram.com/devopsdayschi   
 
-#### Note to sponsors about social media and Slack  
-Please note that sponsors are responsible for collecting their own leads and contact information for participants. If a sponsor abuses the social media and/or Slack channel at the event to harvest contact information, the organizers have the right to ban the organization from future events. 
+#### Note to sponsors about social media and Discord  
+Please note that sponsors are responsible for collecting their own leads and contact information for participants. If a sponsor abuses the social media and/or Discord channel at the event to harvest contact information, the organizers have the right to ban the organization from future events. 
