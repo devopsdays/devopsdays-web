@@ -1,10 +1,21 @@
 <!DOCTYPE html>
 <html itemscope lang="{{ .Site.LanguageCode }}">
 <head>
+  {{- if .IsPage -}}
+    {{- if or (eq .Type "welcome") (eq .Type "event") (eq .Type "speakers") (eq .Type "talk") (eq .Type "speaker") (eq .Type "program") (eq .Type "new-event") (eq .Type "new-speakers") (eq .Type "new-talk") (eq .Type "new-speaker") (eq .Type "new-program") -}}
+      {{- $event_year := (index (split (.Permalink | relURL) "/") 2) -}}
+      {{- $event_city := (index (split (.Permalink | relURL) "/") 3) -}}
+      {{- $base_dir := (printf "%s/%s" $event_year $event_city) -}}
+      {{ partialCached "head.html" . $base_dir }}
+    {{- else -}}
+      {{- partial "head.html" . -}}
+    {{- end -}}
+  {{- else -}}
     {{- partial "head.html" . -}}
+  {{- end -}} 
 </head>
 <body lang="{{ .Site.Params.Lang }}">
-  {{- partial "global_navbar.html" . -}}
+  {{- partialCached "global_navbar.html" . -}}
   {{ if and (eq (index (split (.Permalink | relURL) "/") 1) "events") (ne .Type "events") }}
     {{- partial "events/event_navbar.html" . -}}
   {{ end }}
