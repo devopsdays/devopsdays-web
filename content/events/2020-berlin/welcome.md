@@ -7,7 +7,7 @@ aliases = [
     "/events/2020-berlin/propose.md",
     "/events/2020-berlin/registration.md",
     "/events/2020-berlin/sponsor.md"
-    ]
+]
 Description = "devopsdays Berlin 2020"
 +++
 
