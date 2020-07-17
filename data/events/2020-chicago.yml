@@ -199,53 +199,144 @@ program:
     start_time: "09:35"
     end_time: "09:55"
     custom_url: "https://event.devopsdayschi.org"
-  - title: richard-cook
-    type: talk
+  - title: "Break"
+    type: custom
     date: 2020-09-01
     start_time: "09:55"
-    end_time: "10:15"
+    end_time: "10:05"
+  - title: stephanie-culver
+    type: talk
+    date: 2020-09-01
+    start_time: "10:05"
+    end_time: "10:25"
+  - title: "Breakouts"
+    type: open-space
+    date: 2020-09-01
+    start_time: "10:25"
+    end_time: "10:45"
+    custom_url: "https://event.devopsdayschi.org"
+  - title: "Break"
+    type: custom
+    date: 2020-09-01
+    start_time: "10:45"
+    end_time: "10:55"
+  - title: quintessence-anx
+    type: talk
+    date: 2020-09-01
+    start_time: "10:55"
+    end_time: "11:15"
+  - title: "Breakouts"
+    type: open-space
+    date: 2020-09-01
+    start_time: "11:15"
+    end_time: "11:35"
+    custom_url: "https://event.devopsdayschi.org"
   - title: "Ignite Round 1"
     type: ignite
     date: 2020-09-01
-    start_time: "11:45"
-    end_time: "12:05"
+    start_time: "11:40"
+    end_time: "12:00"
     block: "ignite-1"
+  - title: "Lunch Break"
+    type: custom
+    date: 2020-09-01
+    start_time: "12:00"
+    end_time: "13:00"
+  - title: richard-cook
+    type: talk
+    date: 2020-09-01
+    start_time: "13:00"
+    end_time: "13:20"
+  - title: "Breakouts"
+    type: open-space
+    date: 2020-09-01
+    start_time: "13:20"
+    end_time: "13:40"
+    custom_url: "https://event.devopsdayschi.org"
+  - title: "Break"
+    type: custom
+    date: 2020-09-01
+    start_time: "13:40"
+    end_time: "13:50"
+  - title: sarah-aslanifar
+    type: talk
+    date: 2020-09-01
+    start_time: "13:55"
+    end_time: "14:15"
+  - title: "Breakouts"
+    type: open-space
+    date: 2020-09-01
+    start_time: "14:15"
+    end_time: "14:35"
+    custom_url: "https://event.devopsdayschi.org"
+  - title: "Break"
+    type: custom
+    date: 2020-09-01
+    start_time: "14:35"
+    end_time: "14:45"
+  - title: rafael-gomes
+    type: talk
+    date: 2020-09-01
+    start_time: "14:45"
+    end_time: "15:05"
+  - title: "Breakouts"
+    type: open-space
+    date: 2020-09-01
+    start_time: "15:05"
+    end_time: "15:25"
+    custom_url: "https://event.devopsdayschi.org"
+  - title: "Break"
+    type: custom
+    date: 2020-09-01
+    start_time: "15:25"
+    end_time: "15:35"
   - title: "jason-yee"
     type: talk
     date: 2020-09-01
-    start_time: "12:10"
-    end_time: "12:30"
+    start_time: "15:35"
+    end_time: "15:55"
+  - title: "Breakouts"
+    type: open-space
+    date: 2020-09-01
+    start_time: "15:55"
+    end_time: "16:05"
+    custom_url: "https://event.devopsdayschi.org"
   - title: "Ignite Round 2"
     type: ignite
     date: 2020-09-01
-    start_time: "15:00"
-    end_time: "15:30"
+    start_time: "16:20"
+    end_time: "16:40"
     block: "ignite-2"
+  - title: "Closing Remarks"
+    type: custom
+    date: 2020-09-01
+    start_time: "16:40"
+    end_time: "16:45"
 
 
 
 ignites:
-  - title: "jeff-smith"
-    date: 2020-09-01
-    block: "ignite-1"
-  - title: "aaron-aldrich"
-    date: 2020-09-01
-    block: "ignite-1"
-  - title: "amy-arambulo-negrette"
-    date: 2020-09-01
-    block: "ignite-1"
-  - title: "brendan-oleary"
+  - title: "laura-santamaria"
     date: 2020-09-01
     block: "ignite-1"
   - title: "henry-quinn"
     date: 2020-09-01
+    block: "ignite-1"
+  - title: "jeff-smith"
+    date: 2020-09-01
+    block: "ignite-1"
+  - title: "jeremy-meiss"
+    date: 2020-09-01
+    block: "ignite-1"
+  - title: "aaron-aldrich"
+    date: 2020-09-01
     block: "ignite-2"
-  - title: "laura-santamaria"
+  - title: "amy-arambulo-negrette"
+    date: 2020-09-01
+    block: "ignite-2"
+  - title: "brendan-oleary"
     date: 2020-09-01
     block: "ignite-2"
   - title: "renata-rocha"
-    date: 2020-09-01
-    block: "ignite-2"
-  - title: "jeremy-meiss"
     date: 2020-09-01
     block: "ignite-2"
