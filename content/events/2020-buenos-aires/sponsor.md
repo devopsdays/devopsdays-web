@@ -34,7 +34,7 @@ Se asignará nivel _Community_ a instituciones educativas, meetups y organizacio
 </style>
 <table class="tableizer-table">
 <thead><tr class="tableizer-firstrow"><th>Supporter</th><th>Community</th><th>Silver</th><th>Diamond</th></tr></thead><tbody>
- <tr><td>Precio</td><td>USD <500</td><td>USD 0</td><td>USD 500</td><td>USD 1000</td></tr>
+ <tr><td>Precio</td><td>USD &lt;500</td><td>USD 0</td><td>USD 500</td><td>USD 1000</td></tr>
  <tr><td>Máximo de sponsors en el nivel</td><td>ilimitado</td><td>ilimitado</td><td>20</td><td>2</td></tr>
  <tr><td>TDB</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>X</td></tr>
 </tbody></table>
