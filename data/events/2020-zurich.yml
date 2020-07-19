@@ -193,6 +193,8 @@ sponsors:
     level: gold
   - id: cloudscalech
     level: silver
+  - id: switch
+    level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
