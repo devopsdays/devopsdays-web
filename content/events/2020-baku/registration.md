@@ -1,7 +1,7 @@
 +++
 Title = "Registration"
 Type = "event"
-Description = "Registration for devopsdays Baku 2019"
+Description = "Registration for devopsdays Baku 2020"
 +++
 
 <br>
