@@ -161,7 +161,7 @@ sponsors:
   - id: d2iq
     level: gold
   - id: stackhawk
-    level: silver
+    level: silver  
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
