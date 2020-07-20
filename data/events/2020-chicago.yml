@@ -297,7 +297,7 @@ program:
     type: open-space
     date: 2020-09-01
     start_time: "15:55"
-    end_time: "16:05"
+    end_time: "16:15"
     custom_url: "https://event.devopsdayschi.org"
   - title: "Ignite Round 2"
     type: ignite
