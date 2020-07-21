@@ -156,19 +156,38 @@ sponsors:
 #   level: gold
 #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: agileconsulting
-    level: platinum
+    level: diamond
   - id: 2020-devco
+    level: platinum
+  - id: devopsdays-mde2020
     level: platinum
   - id: microsoft
     level: platinum
     url: "https://www.microsoft.com/es-co/"
-  - id: exin
-    level: silver
+  - id: zivra
+    level: gold
   - id: avanet
     level: silver
+  - id: david-j-anderson
+    level: silver
+  - id: exin
+    level: silver
+  - id: universidad-ces
+    level: silver
+  - id: gorilla-logic
+    level: community
+  - id: jetbrains
+    level: community
   - id: techandsolve
     level: community
-
+  - id: accenture
+    level: supporters
+  - id: bancolombia
+    level: supporters
+  - id: ceiba
+    level: supporters
+  - id: lingo24
+    level: supporters
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
