@@ -5,18 +5,22 @@ aliases = ["/events/2020-chattanooga/"]
 Description = "devopsdays Chattanooga 2020"
 +++
 
+<div class="alert alert-danger" role="alert">
+  Due to the global situation around COVID-19, devopsdays Chattanooga has been cancelled for 2020. Please stay tuned for more information. Please click on <a href="/events/2020-chattanooga/cancellation" class="alert-link">here for more information</a>.
+</div>
+
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
 </div> -->
 
-<div class = "row">
+<!--<div class = "row">
   <div class = "col-md-2">
     <strong>Dates</strong>
   </div>
   <div class = "col-md-8">
     {{< event_start >}} - {{< event_end >}}
   </div>
-</div>
+</div>-->
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -63,23 +67,23 @@ Description = "devopsdays Chattanooga 2020"
   </div>
 </div> -->
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="sponsor" text="Sponsor the conference!" >}}
   </div>
-</div>
+</div> -->
 
-<div class = "row">
+<!--<div class = "row">
   <div class = "col-md-2">
     <strong>Contact</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="contact" text="Get in touch with the organizers" >}}
   </div>
-</div>
+</div>-->
 
 <!-- Uncomment if you added your city twitter name -->
 <!--
