@@ -43,6 +43,9 @@ Description = "Sponsor devopsdays Medellin 2020"
           <tr>
             <th scope="row">Pricing</th>
             <td>
+              <center>Other</center>
+            </td>
+            <td>
               <center>$ &lt; 500</center>
             </td>
             <td>
@@ -56,9 +59,6 @@ Description = "Sponsor devopsdays Medellin 2020"
             </td>
             <td>
               <center>$ 3000</center>
-            </td>
-            <td>
-              <center>$ 5000</center>
             </td>
           </tr>
             <th scope="row">Conference ticket</th>
