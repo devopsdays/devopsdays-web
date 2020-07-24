@@ -43,22 +43,22 @@ Description = "Sponsor devopsdays Medellin 2020"
           <tr>
             <th scope="row">Pricing</th>
             <td>
-              <center>Other</center>
+              <center>Other </center>
             </td>
             <td>
-              <center>$ &lt; 500</center>
+              <center>$ &lt; 500 </center>
             </td>
             <td>
-              <center>$ 500</center>
+              <center>$ 500 </center>
             </td>
             <td>
-              <center>$ 1000</center>
+              <center>$ 1000 </center>
             </td>
             <td>
-              <center>$ 2000</center>
+              <center>$ 2000 </center>
             </td>
             <td>
-              <center>$ 3000</center>
+              <center>$ 3000 </center>
             </td>
           </tr>
             <th scope="row">Conference ticket</th>
@@ -370,12 +370,7 @@ Description = "Sponsor devopsdays Medellin 2020"
 
 
 
-*Adicionalmente está la modalidad de patrocinio "a la carta" para: pases a sesión GRATIS, TShirts, Lynards, libros, coffee breaks, cocktails, etc. Dejenos saber si esta interesado en patrocinar nuestro evento y trabajaremos en algo!
 
-<i>*Additional à la carte sponsorships are available for: FREE pass
-session, TShirts, Lynards, books, coffee breaks, cocktails, etc. Let us know if you’d like
-to support the event, and we’ll work something out!
-<i>
 <hr/>
 <p>devopsdays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists.</p>
 <p>Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.</p>
