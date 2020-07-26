@@ -60,42 +60,21 @@ If you want to update a sponsor's info, keep in mind that we don't want to retro
 
 Determine which sponsor is being discussed. For this example, we'll use Pivotal.
 
-First, we'll do filename updates. Existing sponsors have an image and a data file:
-
+Run the script `change_sponsor_logo.sh` in the `utilities` subdirectory, giving it the name of the sponsor (`pivotal`) and the path on disk to your new logo:
 ```
-static/img/sponsors/pivotal.png
-data/sponsors/pivotal.yml
-```
-
-- When a sponsor wants an update to the image, data file, or both, first you copy the current files to a new filename containing the current date:
-
-```
-cp static/img/sponsors/pivotal.png static/img/sponsors/pivotal-before-20190307.png
-cp data/sponsors/pivotal.yml data/sponsors/pivotal-before-20190307.yml
+[don@zeus ~/devopsdays-web/utilities:don/bos-lightstep]  ./change_sponsor_logo.sh pivotal ~/Downloads/pivotal.png
+Modifying 2018-chicago.yml
+Modifying 2019-detroit.yml
+Modifying 2018-chicago/conduct/index.html
+Modifying 2018-chicago/contact/index.html
+...
 ```
 
-Do this even if you're only changing one of them.
-
-Then, make sure all events in the past get the update. Edit the "- id: pivotal" line for any past events:
-
-```
-$ grep "id: pivotal" data/events/*
-[...]
-data/events/2015-minneapolis.yml:  - id: pivotal-before-20190307
-data/events/2016-atlanta.yml:  - id: pivotal-before-20190307
-data/events/2019-minneapolis.yml:  - id: pivotal
-```
-
-It is possible that the previous city has already been archived and static items have already been created. You will have to update the image source for these pages
-
-```
-grep -r "sponsors\/pivotal.png" static/events/*
-[...]
-static/events/2016-chicago/contact/index.html:<img src="/img/sponsors/pivotal.png" alt="Pivotal" title="Pivotal" class="img-fluid">
-```
-:warning: The above will require you to be comfortable with search & replace utilities as you'd potentially be modifying hundreds of files. Please ask for assistance if desired. 
-
-For the current year, you only want to make the edits if the event has already happened.
+Under the hood, the script is:
+1. Copying the existng sponsor files to `sponsor-before-todaysdate.{png,yml}`.
+1. Copying in the new image to `sponsor.png`.
+1. Modifying any events that did _not_ occur this year such that they are sponsored by `sponsor-before-todaysdate`, rather than `sponsor`.
+1. Modifying any archived events such that they are sponsored by `sponsor-before-todaysdate`, rather than `sponsor`.
 
 This means that if a sponsor asks for an update affecting all future events, the shared sponsor entry will be changed for all events without any intervention needed from local organizers who have listed that sponsor. This is a benefit to using the shared sponsor entry.
 
