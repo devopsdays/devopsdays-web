@@ -22,8 +22,8 @@ cfp_date_announce: 2020-04-30T00:00:00+02:00 # inform proposers of status
 cfp_open: "true"
 cfp_link: "https://sessionize.com/devopsdayszh-2020/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: 2020-02-10T00:00:00+02:00
-registration_date_end: 2020-09-01T00:00:00+02:00
+registration_date_start: 2020-07-01T00:00:00+02:00
+registration_date_end: 2020-09-30T00:00:00+02:00
 
 registration_closed: "true" #set this to true if you need to manually close registration before your registration end date
 # registration_link: "https://landing.devopsdays.ch/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -36,10 +36,10 @@ location: "Online" # Defaults to city, but you can make it the venue name.
 # location_address: "Technikumstrasse 8, 8400 Winterthur, Switzerland" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+ # - name: propose
   - name: location
  # - name: registration
- # - name: program
+  - name: program
   - name: speakers
   - name: sponsor
   - name: contact
@@ -218,3 +218,30 @@ sponsor_levels:
   - id: partner
     label: Partner
     max: 0
+
+program:
+  - title: "bridget-kromhout"
+    type: talk
+    date: 2019-09-01
+    start_time: "18:00"
+    end_time: "19:30"
+  - title: "john-willis"
+    type: talk
+    date: 2019-09-08
+    start_time: "20:00"
+    end_time: "21:30"
+  - title: "tanja-janca"
+    type: talk
+    date: 2019-09-15
+    start_time: "18:00"
+    end_time: "19:30"
+  - title: "shelby-spees"
+    type: talk
+    date: 2019-09-22
+    start_time: "18:00"
+    end_time: "19:30"
+  - title: "seth-vargo"
+    type: talk
+    date: 2019-09-29
+    start_time: "17:00"
+    end_time: "18:30"
