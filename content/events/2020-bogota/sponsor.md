@@ -45,42 +45,47 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
   <tr>
     <th class="tg-c7c7" rowspan="1">PACKAGES</th>
 <!--<th class="tg-mmvm">SILVER</th>-->
-    <th class="tg-mmvm">GOLD (15)</th>
+<!--<th class="tg-mmvm">GOLD (15)</th>-->
     <th class="tg-mmvm">PLATINUM (10)<br></th>
-    <th class="tg-mmvm">DIAMOND (3)<br></th>
+<!--<th class="tg-mmvm">DIAMOND (3)<br></th>-->
   </tr>
   <tr>
     <td class="tg-yzt1">Precio</td>
 <!--<td class="tg-n100">$ 1800</td>-->
-    <td class="tg-mtwr">$ 3000</td>
-    <td class="tg-b44r">$ 5000</td>
-    <td class="tg-i9b1">$ 10000</td>
+<!--<td class="tg-mtwr">$ 3000</td>-->
+    <td class="tg-b44r">$ 1500</td>
+<!--<td class="tg-i9b1">$ 10000</td>-->
   </tr>
   <tr>
-    <td class="tg-yzt1">Tickets p/evento </td>
-<!--<td class="tg-n100">5</td>-->
+<!--<td class="tg-yzt1">Tickets p/evento </td>
+    <td class="tg-n100">5</td>
     <td class="tg-mtwr">3</td>
     <td class="tg-b44r">5</td>
     <td class="tg-i9b1">10</td>
-  </tr>
+  </tr>-->
   <tr>
     <td class="tg-yzt1">Exposición del Logo (marca) de la empresa</td>
 <!--<td class="tg-n100">X</td>-->
-    <td class="tg-mtwr">- Redes Sociales del evento<br>
+<!--<td class="tg-mtwr">- Redes Sociales del evento<br>
                         - Emailing<br>
-                        - Pendones<br>
-                        - Backing<br><br>
-                        - Pantallas Exteriores<br><br><br><br><br>
+                        - Pendones<br>-->
+                    <!--- Backing<br><br>-->
+                    <!--- Pantallas Exteriores<br><br><br><br><br>
     <td class="tg-b44r">- Redes Sociales del evento<br>
                         - Emailing<br>
                         - Pendones<br>
                         - Backing<br><br>
                         - Pantallas Exteriores<br><br>
-                        - Camisetas del evento-Back<br><br><br>
-     <td class="tg-i9b1">- Pagina Web del evento<br>
-                        - Redes Sociales del evento<br>
-                        - Emailing<br>
-                        - Pendones<br>
+                        - Camisetas del evento-Back<br><br><br>-->
+     <td class="tg-b44r" align="left">
+						 <P align="left">- Pagina Web del evento</P>
+                         <P align="left">- Redes Sociales del evento</P>
+                         <P align="left">- Correos electrónicos del evento</P>
+						 <P align="left">- Camisetas Organizadores y Speakers</P>
+						 <P align="left">- Presentaciones</P>
+						 <P align="left">- Cortinillas</P>
+						 <P align="left">- Agradecimientos en redes sociales antes durante y despues del evento</P>
+                    <!--- Pendones<br>
                         - Backing<br>
                         - Pantallas Principales (Auditorio)<br>
                         - Pantallas Exteriores<br>
@@ -88,57 +93,57 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
                         - Camisetas del evento-Front<br>
                         - Camisetas del evento-Back<br>
                         - Cintas para la identificación del evento<br>
-                        - Tickets<br></td>
+                        - Tickets<br></td>-->
   </tr>
-  <tr>
+<!--<tr>
     <td class="tg-yzt1">Stand en zona Comercial</td>
-<!--<td class="tg-yw4l"></td>-->
+<!--<td class="tg-yw4l"></td>
     <td class="tg-mtwr">Sencillo</td>
     <td class="tg-b44r">Sencillo en Zona Premium</td>
     <td class="tg-i9b1">Doble en Zona Premium</td>
-  </tr>
+  </tr>-->
   <tr>
     <td class="tg-yzt1">Charla comercial para toda la audiencia</td>
 <!--<td class="tg-yw4l"></td>-->
-    <td class="tg-mtwr">0 MIN</td>
+<!--<td class="tg-mtwr">0 MIN</td>-->
     <td class="tg-b44r">2 MIN</td>
-    <td class="tg-i9b1">5 MIN</td>
+<!--<td class="tg-i9b1">5 MIN</td>-->
   </tr>
   <tr>
-    <td class="tg-yzt1">Descuento en tickets para  los empleados</td>
-<!--<td class="tg-n100">small</td>-->
+<!--<td class="tg-yzt1">Descuento en tickets para  los empleados</td>
+<!--<td class="tg-n100">small</td>
     <td class="tg-mtwr">5%</td>
     <td class="tg-b44r">10%</td>
     <td class="tg-i9b1">20%</td>
-  </tr>
+  </tr>-->
   <tr>
-    <td class="tg-yzt1">Rifas de productos Accesorios y material PoP</td>
+    <td class="tg-yzt1">Rifa de productos o accesorios para la audiencia</td>
 <!--<td class="tg-yw4l"></td>-->
-    <td class="tg-mtwr">1</td>
+<!--<td class="tg-mtwr">1</td>-->
     <td class="tg-b44r">2</td>
-    <td class="tg-i9b1">3</td>
+<!--<td class="tg-i9b1">3</td>-->
   </tr>
   <tr>
       <td class="tg-yzt1">Anuncio en campañas promocionales</td>
   <!--<td class="tg-yw4l"></td>-->
-      <td class="tg-mtwr">NO</td>
+  <!--<td class="tg-mtwr">NO</td>-->
       <td class="tg-b44r">SI</td>
-      <td class="tg-i9b1">SI</td>
+  <!--<td class="tg-i9b1">SI</td>-->
   </tr>
   <tr>
-      <td class="tg-yzt1">Certificado de reconocimiento</td>
+      <td class="tg-yzt1">Certificado de Participación</td>
   <!--<td class="tg-yw4l"></td>-->
-      <td class="tg-mtwr">Certificado</td>
-      <td class="tg-b44r">Placa</td>
-      <td class="tg-i9b1">Estatuilla</td>
+  <!--<td class="tg-mtwr">Certificado</td>-->
+      <td class="tg-b44r">SI</td>
+  <!--<td class="tg-i9b1">Estatuilla</td>-->
   </tr>
-  <tr>
+  <!--<tr>
       <td class="tg-yzt1">Acceso a perfiles plataforma de citas</td>
-  <!--<td class="tg-yw4l"></td>-->
+  <!--<td class="tg-yw4l"></td>
       <td class="tg-mtwr">Publico en General</td>
       <td class="tg-b44r">Gerenciales + Publico en General</td>
       <td class="tg-i9b1">VIP + Gerenciales + Publico en General</td>
-  </tr> 
+  </tr>-->
   <!--<tr>
       <td class="tg-yzt1">Logo on event website and conference room</td>
       <td class="tg-n100">X</td>
@@ -219,7 +224,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
 
 </table>
 
-*Adicionalmente está la modalidad de patrocinio "a la carta" para: pases a sesión GRATIS, TShirts, Lynards, libros, coffee breaks, cocktails, etc. Dejenos saber si esta interesado en patrocinar nuestro evento y trabajaremos en algo!
+*Adicionalmente está la modalidad de patrocinio "a la carta" para proveedores de TShirts, Lynards, libros, Licencias, etc. Dejenos saber si esta interesado en patrocinar nuestro evento y trabajaremos en algo!
 <hr>
 <i>*Additional à la carte sponsorships are available for: FREE pass
 session, TShirts, Lynards, books, coffee breaks, cocktails, etc. Let us know if you’d like
