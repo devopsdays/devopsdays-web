@@ -4,6 +4,7 @@ city: "Chattanooga" # The displayed city name of the event. Capitalize it.
 event_twitter: "ChaDevOpsDays" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "Due to the Covid-19 pandemic, devopsdays Chattanooga 2020 will not be happening this year. We plan to return in 2021. Stay tuned for more information about devopsdays Chattanooga 2021." # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+cancel: "true"
 
 # All dates are in unquoted 2020-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00
