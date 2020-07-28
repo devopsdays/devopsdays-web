@@ -116,6 +116,8 @@ organizer_email: "boston@devopsdays.org" # Put your organizer email address here
 sponsors:
   - id: lightstep
     level: platinum
+  - id: circleci
+    level: platinum
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
