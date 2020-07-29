@@ -94,9 +94,22 @@ team_members: # Name is the only required field for team members.
   - name: "Jason Greathouse"
     image: "place-holder.jpg"
     twitter: "usrbinjgreat"
+    github: "jgreat"
   - name: "Chris Gundersen"
-    twitter: "jasonwyckoff"
+    twitter: "techometry"
+    website: "https://techometry.com"
+    linkedin: "http://linkedin.com/in/techometry"
     image: "place-holder.jpg"
+    github: "chrisgundersen"
+    employer: "Velocity Risk Underwriters"
+    bio: "Chris Gundersen, known as Gunny by friends and law enforcement, is the Head of Technology at Velocity Risk Underwriters based in Green Hills. As a pragmatic polyglot he has been fortunate to have been a part of many fantastic teams that have built loads of awesome things in the last 20+ years. That last part makes him feel old. His favorite piece of recorded music is either Op. 92 from Beethoven's 7th symphony or Jump Around by House of Pain."
+  - name: "Aimee Knight"
+    twitter: "Aimee_Knight"
+    website: "http://www.aimeemarieknight.com/"
+    linkedin: "https://www.linkedin.com/in/aimee-k-b268058/"
+    image: "aimee-knight.jpg"
+    github: "AimeeKnight"
+    bio: "Aimee Knight is a Software Architect and former professional figure skater currently residing in Nashville TN. Outside of work, she's a Google Developer Expert in Web Technologies specializing in performance, a panelist on the JavaScript Jabber podcast, and an international keynote speaker. Currently, she specializes in DevOps, JavaScript, React, and CSS however, she's worked extensively in Angular, Node, and Ruby on Rails. Her past involvement includes working at npm, Inc., being a weekly panelist on the Angular Air podcast, a co-organizer for CharmCityJS, and a mentor for Baltimore NodeSchool and Rails Bridge."
 
 
 organizer_email: "nashville@devopsdays.org" # Put your organizer email address here
