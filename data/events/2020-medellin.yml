@@ -42,7 +42,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: registration
     url: "https://www.ticketopolis.com/devopsdaysmdev2020"
   - name: program
-    url: "https://devopsdays.io/agenda"
+    url: "https://devopsdays.io/agenda-2"
  # - name: speakers
   - name: sponsor
   - name: speakers
@@ -170,6 +170,8 @@ sponsors:
   - id: david-j-anderson
     level: silver
   - id: exin
+    level: silver
+  - id: masglobal
     level: silver
   - id: universidad-ces
     level: silver
