@@ -1,51 +1,24 @@
 +++
-Title = "devopsdays Washington, D.C. 2020"
+Title = "DevOpsDays Washington, D.C. 2021"
 Type = "welcome"
-aliases = [
-  "/events/2020-washington-dc/",
-  "/events/2020-washington-dc/location",
-  "/events/2020-washington-dc/program",
-  "/events/2020-washington-dc/propose",
-  "/events/2020-washington-dc/registration",
-  "/events/2020-washington-dc/speakers",
-  "/events/2020-washington-dc/sponsor"
-]
-Description = "devopsdays Washington, D.C. 2020"
+aliases = ["/events/2021-washington-dc/"]
+Description = "DevOpsDays Washington, D.C. 2021"
 +++
 
-<div class="row">
-  <div class="col-md-12">
-    <div class="alert alert-danger" role="alert">
-      <h3>DevOpsDays Washington, D.C. Coronavirus Pandemic Update: CANCELED</h3>
-      <p>
-        Last updated: April 16, 2020
-      </p>
-      <p>
-        The organizing team for DevOpsDays DC, like you, is sitting isolated at home watching the Coronavirus pandemic impact everyone.  We have decided to cancel the 2020 edition of DevOpsDays DC.
-      </p>
-      <p>
-        DevOpsDays DC will not be held in 2020.
-      </p>
-      <p>
-        Please stay safe and follow all necessary recommendations during this difficult time.
-      </p>
-      <p>
-        We do expect there will be a <a href="/events/2021-washington-dc">DevOpsDays DC 2021</a>.
-      </p>
-    </div>
-  </div>
-</div>
+<p>
+  <span style="float:right;">
+    {{< event_logo >}}
+  </span>
 
-<!-- <div style="text-align:center;">
-  {{< event_logo >}}
-</div> -->
+  The Coronavirus Pandemic kept us from hosting a DevOpsDays DC in 2020 but we are committed to returning in 2021, even if via a virtual platform.  Watch this space for more details.  In the meantime, you are welcome to revisit your favorite memories from DevOpsDays DC <a href="/events/2019-washington-dc/welcome">2019</a>. <a href="/events/2018-washington-dc/welcome">2018</a>, <a href="/events/2017-washington-dc/welcome">2017</a>, <a href="/events/2016-washington-dc/welcome">2016</a>, and <a href="https://legacy.devopsdays.org/events/2015-washington-dc/">2015</a>.
+</p>
 
 <div class = "row">
   <div class = "col-md-2">
     <strong>Dates</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_start >}} - {{< event_end >}}
+    TBD <!-- {{< event_start >}} - {{< event_end >}} -->
   </div>
 </div>
 

@@ -20,6 +20,9 @@ Description = "Contact information for devopsdays Washington, D.C. 2020"
       <p>
         Please stay safe and follow all necessary recommendations during this difficult time.
       </p>
+      <p>
+        We do expect there will be a <a href="/events/2021-washington-dc">DevOpsDays DC 2021</a>.
+      </p>
     </div>
   </div>
 </div>
