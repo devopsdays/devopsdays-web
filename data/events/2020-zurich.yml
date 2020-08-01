@@ -220,7 +220,7 @@ sponsor_levels:
     max: 0
 
 program:
-  - title: "bridget-kromhout"
+  - title: "bridget-kromhout" 
     type: talk
     date: 2019-09-01
     start_time: "18:00"
