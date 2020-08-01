@@ -1,7 +1,7 @@
 +++
 Title = "Tanya Janca"
 Twitter = "shehackspurple"
-image = "tanja-janca.png"
+image = "tanja-janca.jpg"
 type = "speaker"
 linktitle = "tanja-janca"
 +++
