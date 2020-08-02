@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Unintentionally Patching Edge Servers During Business Hours – How Proper Development Hygiene Saved the Day!"
 Type = "talk"
 Speakers = ["stephanie-culver"]
+sharing_image = "stephanie-culver.png"
 +++
 Have you ever wanted to patch all your nodes, and accidentally done it instead of staging your change?
 
