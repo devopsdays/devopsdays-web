@@ -162,6 +162,10 @@ sponsors:
     level: gold
   - id: stackhawk
     level: silver  
+  - id: circleci
+    level: gold  
+  -id: lightstep
+    level: gold  
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
