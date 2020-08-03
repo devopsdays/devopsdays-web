@@ -153,9 +153,7 @@ sponsors:
   - id: appdynamics
     level: gold
   - id: xmatters
-    level: gold
-  - id: solarwinds
-    level: gold
+    level: gold  
   - id: braintree
     level: gold 
   - id: d2iq
