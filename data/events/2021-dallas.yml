@@ -132,6 +132,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/mikerostx/"
     github: "mikerostx"
     image: "mike.jpg"
+    website: "https://MikeRosTX.me"
 
   - name: "Ramesh Venkataramiah"
     employer: "GladePoint Research Group"
@@ -186,8 +187,8 @@ sponsors:
 #    level: gold
 #  - id: xmatters
 #    level: gold
-#  - id: launch-darkly
-#    level: gold
+  - id: launch-darkly
+    level: gold
   - id: arresteddevops
     level: media
   - id: devopslive
