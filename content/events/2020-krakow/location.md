@@ -9,7 +9,7 @@ Description = "Location for devopsdays Kraków 2020"
  </div>
  <div class="col">
  <div>
- <h2>KRAKÓW VARIETE THEATRE GRZEGÓRZECKA 71, KRAKÓW</h2>
+ <h2>ONLINE</h2>
  </div>
 
  {{< event_map >}}
