@@ -1,7 +1,7 @@
 ﻿+++
 Title = "Yury Niño Roa"
 Twitter = ""
-image = "Yury Niño Roa.jpg"
+image = "Yury-Niño-Roa.jpg"
 type = "speaker"
 linktitle = "Yury Niño Roa"
 

@@ -1,7 +1,7 @@
 ﻿+++
 Title = "Talia-Nassi"
 Twitter = ""
-image = "talia_nassi.png"
+image = "talia-nassi.png"
 type = "speaker"
 linktitle = "Talia-Nassi"
 

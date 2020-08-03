@@ -1,7 +1,7 @@
 ﻿+++
 Title = "Mauricio Vásquez Bernal"
 Twitter = ""
-image = "Mauricio Vásquez Bernal.jpg"
+image = "Mauricio-Vásquez-Bernal.png"
 type = "speaker"
 linktitle = "Mauricio Vásquez Bernal"
 

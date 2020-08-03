@@ -1,7 +1,7 @@
 ﻿+++
 Title = "David Vega"
 Twitter = ""
-image = "David Vega 2.jpg"
+image = "David-Vega.jpg"
 type = "speaker"
 linktitle = "David Vega"
 

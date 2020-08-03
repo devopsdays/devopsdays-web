@@ -1,7 +1,7 @@
 ﻿+++
 Title = "Arturo García"
 Twitter = ""
-image = "Arturo García.jpg"
+image = "Arturo-García.jpg"
 type = "speaker"
 linktitle = "Arturo García"
 

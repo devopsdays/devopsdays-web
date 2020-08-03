@@ -1,7 +1,7 @@
 ﻿+++
 Title = "Juan Sebastian Ruiz Villa"
 Twitter = ""
-image = "Juan Sebastian Ruiz Villa.jpg"
+image = "Juan-Sebastian-Ruiz-Villa.jpg"
 type = "speaker"
 linktitle = "Juan Sebastian Ruiz Villa"
 

@@ -1,7 +1,7 @@
 ﻿+++
 Title = "Ivan Camargo"
 Twitter = ""
-image = "Ivan Camargo.jpeg"
+image = "Ivan-Camargo.png"
 type = "speaker"
 linktitle = "Ivan Camargo"
 

@@ -1,7 +1,7 @@
 ﻿+++
 Title = "Fernando Perales"
 Twitter = ""
-image = "Fernando Perales.jpg"
+image = "Fernando-Perales.jpg"
 type = "speaker"
 linktitle = "Fernando Perales"
 

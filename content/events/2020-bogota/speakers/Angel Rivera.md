@@ -1,7 +1,7 @@
 ﻿+++
 Title = "Angel Rivera"
 Twitter = ""
-image = "Angel Rivera.png"
+image = "Angel-Rivera.png"
 type = "speaker"
 linktitle = "Angel Rivera"
 
