@@ -153,15 +153,17 @@ sponsors:
   - id: appdynamics
     level: gold
   - id: xmatters
-    level: gold
-  - id: solarwinds
-    level: gold
+    level: gold  
   - id: braintree
     level: gold 
   - id: d2iq
     level: gold
   - id: stackhawk
     level: silver  
+  - id: circleci
+    level: gold  
+  - id: lightstep
+    level: gold  
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -180,9 +182,6 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
-  - id: transcription
-    label: Live Transcription
-    max: 1
 
 program:
   - title: "Opening Remarks"
