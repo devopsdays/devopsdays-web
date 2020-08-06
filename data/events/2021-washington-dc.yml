@@ -120,6 +120,16 @@ team_members: # Name is the only required field for team members.
     website: "https://itsanicelife.com/"
     facebook: ""
 
+  - name: "Victoria Guido"
+    employer: "STSI"
+    twitter: "victoriaguido"
+    bio: ""
+    image: "victoria-guido.jpg"
+    linkedin: "https://www.linkedin.com/in/victorialguido/"
+    github: ""
+    facebook: ""
+    website: ""
+
   - name: "David Hodge"
     employer: "Independent"
     twitter: "davezen1"
@@ -129,6 +139,16 @@ team_members: # Name is the only required field for team members.
     facebook: ""
     linkedin: "https://www.linkedin.com/in/davidyuctanhodge/"
     website: ""
+
+  - name: "Robb Kidd"
+    employer: "Chef"
+    twitter: "robbkidd"
+    bio: "Is that shark laughing at me?"
+    image: "robb-kidd.jpg"
+    github: "robbkidd"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/robbkidd/"
+    website: "http://www.thekidds.org"
 
   - name: "Alan Kraft"
     employer: "United States Patent and Trademark Office (USPTO)"
