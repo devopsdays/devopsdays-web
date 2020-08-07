@@ -91,6 +91,16 @@ team_members: # Name is the only required field for team members.
     website: "apporima.com"
     linkedin: "https://www.linkedin.com/in/bryanttn/"
 
+  - name: "Peter Burkholder"
+    employer: "18F"
+    twitter: "@pburkholder"
+    bio: "Geophysicist turned DevOps"
+    image: "peter-burkholder.jpg"
+    github: "https://github.com/pburkholder"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/pburkholder/"
+    website: ""
+
   - name: "Derek Daczewitz"
     employer: "Spaceflight Industries"
     twitter: "derekdaczewitz"
