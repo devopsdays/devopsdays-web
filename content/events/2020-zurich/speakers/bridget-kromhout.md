@@ -1,6 +1,7 @@
 +++
 Title = "Bridget Kromhout"
 Twitter = "bridgetkromhout"
+Github = "bridgetkromhout"
 image = "bridget-kromhout.png"
 type = "speaker"
 linktitle = "bridget-kromhout"
