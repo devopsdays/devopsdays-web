@@ -81,6 +81,10 @@ organizer_email: "bogota@devopsdays.org" # Put your organizer email address here
 sponsors:
   - id: devops-latam
     level: diamond
+  - id: devops-institute
+    level: platinum
+  - id: airmeet
+    level: "virtual platform"
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
  
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -91,13 +95,13 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
   - id: diamond
-    label: diamond
+    label: Diamond
     max: 3
   - id: platinum
-    label: platinum
+    label: Platinum
     max: 10 
-  - id: gold
-    label: gold
+  - id: "virtual platform"
+    label: "Virtual Platform"
     max: 15
   #- id: community
   #  label: Community
