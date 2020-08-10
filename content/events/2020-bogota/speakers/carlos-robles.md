@@ -3,7 +3,7 @@ Title = "Carlos Robles"
 Twitter = ""
 image = "carlos-robles.png"
 type = "speaker"
-linktitle = "Yury Niño Roa"
+linktitle = "Carlos Robles"
 
 +++
 
