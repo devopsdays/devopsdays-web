@@ -84,7 +84,7 @@ sponsors:
   - id: devops-institute
     level: platinum
   - id: airmeet
-    level: meet platform
+    level: "virtual platform"
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
  
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -100,8 +100,8 @@ sponsor_levels:
   - id: platinum
     label: Platinum
     max: 10 
-  - id: virtual platform
-    label: Virtual Platform
+  - id: "virtual platform"
+    label: "Virtual Platform"
     max: 15
   #- id: community
   #  label: Community
