@@ -95,13 +95,13 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
   - id: diamond
-    label: diamond
+    label: Diamond
     max: 3
   - id: platinum
-    label: platinum
+    label: Platinum
     max: 10 
-  - id: meet platform
-    label: meet platform
+  - id: virtual platform
+    label: Virtual Platform
     max: 15
   #- id: community
   #  label: Community
