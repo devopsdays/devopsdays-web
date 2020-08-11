@@ -85,6 +85,10 @@ sponsors:
     level: platinum
   - id: airmeet
     level: "virtual platform"
+  - id: oreilly
+    level: platinum
+  - id: everis
+    level: platinum
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
  
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
