@@ -11,16 +11,16 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 # Note: we allow 2019-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
 # All dates are in unquoted 2019-MM-DD, like this:   variable: 2016-01-05
-startdate: 2020-10-03T08:00:00-03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2020-10-03T18:00:00-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2020-11-14T09:00:00-03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2020-11-14T14:00:00-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2020-07-01T00:00:00-03:00 # start accepting talk proposals.
-cfp_date_end: 2020-07-31T23:59:59-03:00 # close your call for proposals.
-cfp_date_announce:  2020-08-07T00:00:00-03:00 # inform proposers of status
+cfp_date_start: 2020-08-12T00:00:00-03:00 # start accepting talk proposals.
+cfp_date_end: 2020-09-12T23:59:59-03:00 # close your call for proposals.
+cfp_date_announce:  2020-09-25T00:00:00-03:00 # inform proposers of status
 
 cfp_open: "true"
-cfp_link: "#" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://cfp.devopsdays.com.br/d20/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 masthead_background: "uni7-frente.png"
 
@@ -38,8 +38,8 @@ location: "Centro Universitário 7 de Setembro" # Defaults to city, but you can 
 location_address: "Av. Almirante Maximiniano da Fonseca, 1395 - Eng. Luciano Cavalcante" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-# - name: propose
-  - name: location
+  - name: propose
+# - name: location
 # - name: registration
 # - name: program
 # - name: speakers
@@ -72,13 +72,13 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/cassiomoreira/"
     github: "cassioliveiram"
     image: "cassio-moreira.jpg"
-  - name: "Edson Celio"
-    role: "Systems Developer"
-    bio: "Currently systems developer at Grendene S/A, where he operates in the development of embedded systems and also in the application of improvements within the team (continuous integration, continued delivery and continuous deployment), using mainly Jenkins and Ansible. Enthusiast of DevOps culture, seeking to participate in the communities and events, either as participant, organizer or speaker. In the vacant hours, actively participates in discussions of Internet governance, where he has already been part of fellowship programs for ISOC, LACNIC, ICANN and CGIbr."
-    linkedin: "https://www.linkedin.com/in/edsoncelio/"
-    github: "edsoncelio"
-    twitter: "tuxpilgrim"
-    image: "edson-celio.jpg"
+  # - name: "Edson Celio"
+  #   role: "Systems Developer"
+  #   bio: "Currently systems developer at Grendene S/A, where he operates in the development of embedded systems and also in the application of improvements within the team (continuous integration, continued delivery and continuous deployment), using mainly Jenkins and Ansible. Enthusiast of DevOps culture, seeking to participate in the communities and events, either as participant, organizer or speaker. In the vacant hours, actively participates in discussions of Internet governance, where he has already been part of fellowship programs for ISOC, LACNIC, ICANN and CGIbr."
+  #   linkedin: "https://www.linkedin.com/in/edsoncelio/"
+  #   github: "edsoncelio"
+  #   twitter: "tuxpilgrim"
+  #   image: "edson-celio.jpg"
   - name: "Isac Cavalcante"
     role: "DevOps Analyst"
     bio: "Studied Computer Network at Federal University of Ceará in early 2014. Started working in 2017 managing both local and cloud infrastructure. Loves to automate boring tasks. Played around with Google Cloud and AWS, installing Kubernetes, Jenkins, Elasticsearch, Prometheus, Grafana and now tries to turn everything into Terraform code. Also, a cybersecurity enthusiast who likes to hack systems whenever is possible."
