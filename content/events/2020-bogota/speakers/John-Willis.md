@@ -1,4 +1,4 @@
-﻿+++
++++
 Title = "John Willis"
 Twitter = ""
 image = "John-Willis.jpg"
