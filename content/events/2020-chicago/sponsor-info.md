@@ -71,11 +71,6 @@ Notes about Discord:
 * If you consider your Discord channels your “booth” you may want someone from your team in the video channel so it does not appear empty.  
 * Code of Conduct still very much applies in Discord. Report any violations to the DoD Chi moderators and organizers.  If you believe someone is posting inappropriate content, spam, or abusing your sponsor channels please reach out to Organizers immediately. Organizer names will appear in blue in the upper right corner.   
 
-
-### Sponsor Pitch Schedule
-Gold Sponsors have the opportunity to produce a three minute video to play between talks and post in the main chat. Organizers will post videos on YouTube for public viewing also. Please ensure that the content of your pitch adheres to the Code of Conduct.   
-Videos are an ideal way to highlight your company's culture, show off a product demo, and/or promote job openings. 
-
 ### Code of Conduct  
 DevOpsDays is dedicated to providing a harassment-free conference experience
 for everyone. All sponsors, attendees, and marketing materials are required to abide by [the Code of Conduct listed on our website.](https://devopsdays.org/events/2020-chicago/conduct)
