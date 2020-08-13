@@ -89,6 +89,12 @@ sponsors:
     level: platinum
   - id: everis
     level: platinum
+  - id: microsoft
+    level: platinum
+  - id: 2020-devco
+    level: platinum
+  - id: itrevolution
+    level: platinum    
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
  
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
