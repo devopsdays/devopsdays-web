@@ -9,7 +9,7 @@ Description = "DevOpsDays Chicago will be a single-day virtual experience, takin
   <div class = "col-md-6 push-md-6">
   <p class="btn btn-primary btn-block" style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;">DevOpsDays Chicago is going virtual for 2020!</p>
 
-  Due to COVID-19 and the health risks of an in-person conference DevOpsDays Chicago 2020 will now be a one-day virtual event taking place on Sept 1, 2020.
+  Due to COVID-19 and the health risks of an in-person conference DevOpsDays Chicago 2020 will now be a one-day [virtual event](https://devopsdays.org/events/2020-chicago/virtual-event) taking place on Sept 1, 2020.
 
 <h2>A Decade of DevOps</h2>
 From fledgling startups to established industry, the Midwest is home to a large, vibrant technology community. Chicago, in particular, has been a flurry of activity in the past several years, drawing attention from around the globe.

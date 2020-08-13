@@ -37,11 +37,13 @@ location: "Online event" # Defaults to city, but you can make it the venue name.
 #location_address: "Avenida El Dorado # 68 D-35" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: local
+    url: https://devopsdaysbogota.org/
   - name: propose
  # - name: location
   - name: registration
  # - name: program
- # - name: speakers
+  - name: speakers  
   - name: sponsor
   - name: contact
   - name: conduct
@@ -77,12 +79,24 @@ organizer_email: "bogota@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: samplesponsorname
-    level: gold
+  - id: devops-latam
+    level: diamond
+  - id: devops-institute
+    level: platinum
+  - id: airmeet
+    level: "virtual platform"
+  - id: oreilly
+    level: platinum
+  - id: everis
+    level: platinum
+  - id: microsoft
+    level: platinum
+  - id: 2020-devco
+    level: platinum
+  - id: itrevolution
+    level: platinum    
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  - id: arresteddevops
-    level: community
-
+ 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -91,13 +105,13 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
   - id: diamond
-    label: diamond
+    label: Diamond
     max: 3
   - id: platinum
-    label: platinum
+    label: Platinum
     max: 10 
-  - id: gold
-    label: gold
+  - id: "virtual platform"
+    label: "Virtual Platform"
     max: 15
   #- id: community
   #  label: Community
