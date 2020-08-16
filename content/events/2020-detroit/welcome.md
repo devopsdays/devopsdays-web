@@ -18,12 +18,15 @@ Description = "devopsdays Detroit 2020"
   </div>
 </div>
 
-<div style="padding: 20px">
-<p>We, the organizers of DevOps Days Detroit, hope that you’re staying safe during these challenging times. We were hopeful that we would see you this year at the Alfred A. Taubman Center in Detroit, but out of an abundance of caution concerning coronavirus and our concern for the health and wellbeing of the community, we have decided to cancel the in person event. </p>
+<div style="padding: 20px; font-size:large;">
+<p> In order to prioritize the health and safety of our community we have decided to cancel our in-person event at the Alfred A. Taubman Center in Detroit. </p>
 
 <p>The DevOps Days Detroit Organizing Committee would like to know how you would like our help this year. We would like to know what types of content or activities that we can provide that would be of benefit. The options are wide open. Be that training, help finding a job, tech talks, something fun to do, we want to hear about it. </p>
 
-<p>Please share with us your thoughts here by 8/31: <a href=https://forms.gle/wH2RvEzrAX6TJsXN9>https://forms.gle/wH2RvEzrAX6TJsXN9</a></p>
+<p> Fill out the form below or visit <a href=https://forms.gle/wH2RvEzrAX6TJsXN9>https://forms.gle/wH2RvEzrAX6TJsXN9</a></p>
+
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScUV85Jig6vgz-J5figfn6-Osb8O8O4FxUZrRe7O0PLmiYNKQ/viewform?embedded=true" style="width:95%;height:2400px;">Loading…</iframe>
 
 <p>Thanks for your continued support of DevOps Days Detroit and the community. We’re looking forward to your responses! </p>
 
