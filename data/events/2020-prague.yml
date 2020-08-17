@@ -91,6 +91,9 @@ sponsors:
   - id: kb
     level: gold
     url: "https://www.kb.cz/"
+  - id: f5-ni
+    level: gold
+    url: "https://www.f5.com/"  
   - id: citrix
     level: silver
     url: "https://www.citrix.com/"
@@ -100,12 +103,6 @@ sponsors:
   - id: googlecloud
     level: silver
     url: "https://cloud.google.com/gcp/"
-  - id: avast
-    level: silver
-    url: "https://www.avast.com/"    
-  - id: f5-ni
-    level: silver
-    url: "https://www.f5.com/"  
   - id: showmax
     level: bronze
     url: "https://www.showmax.com/"   
@@ -115,21 +112,12 @@ sponsors:
   - id: iteraio
     level: bronze
     url: "https://itera.io/"   
-  - id: seznam
-    level: bronze
-    url: "https://www.seznam.cz/"  
-  - id: kiwicom
-    level: bronze
-    url: "https://www.kiwi.com"  
   - id: cisco
     level: bronze
     url: "https://www.cisco.com/"  
   - id: digitalocean
     level: starter
     url: "https://www.digitalocean.com/"
-  - id: geekyants
-    level: starter
-    url: "https://geekyants.com/"    
   - id: vistaprint
     level: starter
     url: "https://www.vistaprint.com/"  
@@ -141,7 +129,10 @@ sponsors:
     url: "https://lineupr.com/"  
   - id: sessionm
     level: starter
-    url: "https://www.sessionm.com/"      
+    url: "https://www.sessionm.com/"
+  - id: avast
+    level: starter
+    url: "https://www.avast.com/"    
   - id: inuits
     level: community
     url: "https://inuits.eu/"
@@ -265,7 +256,7 @@ program:
     date: 2020-03-19
     start_time: "09:00"
     end_time: "09:10"
-  - title: "vaishali-anand"
+  - title: ""
     type: talk
     date: 2020-03-19
     start_time: "09:10"
@@ -285,7 +276,7 @@ program:
     date: 2020-03-19
     start_time: "10:40"
     end_time: "11:15"
-  - title: "eduardo-piairo"
+  - title: ""
     type: talk
     date: 2020-03-19
     start_time: "11:20"
@@ -332,8 +323,6 @@ ignites:
     date: 2020-03-18
   - title: "philipp-krenn"
     date: 2020-03-18   
-  - title: "jiri-brunclik"
-    date: 2020-03-18
   - title: "radek-zajic"
     date: 2020-03-19  
   - title: "mofizur-rahman"
