@@ -1,6 +1,6 @@
 +++
 Title = "Emily Freeman"
-linkedin = "https://www.linkedin.com/in/stephaniepculver/"
+twitter = "editingemily"
 image = "emily-freeman.jpg"
 type = "speaker"
 linktitle = "emily-freeman"
