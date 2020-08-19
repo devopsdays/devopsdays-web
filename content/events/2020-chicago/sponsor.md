@@ -147,10 +147,6 @@ All sponsors will have their logo displayed on the DevOpsDays Chicago website, a
     </tr>
   </tbody>
 </table>
-# <h2>Special Sponsorships</h2>
-#All special sponsors will have their logo displayed on the DevOpsDays Chicago website, a tweet before the conference, and a thank you during the conference. We do have some flexibilities with these sponsorships, so just ask! Email us: <a href="mailto:chicago-sponsors@devopsdays.org">chicago-sponsors@devopsdays.org</a>.
-<br/><br/>
-
 
 <div class = "row">
 <div class = "col-12">

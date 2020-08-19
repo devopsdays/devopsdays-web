@@ -165,6 +165,8 @@ sponsors:
     level: gold  
   - id: lightstep
     level: gold  
+  - id: microsoft  
+    level: gold  
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -206,7 +208,7 @@ program:
     date: 2020-09-01
     start_time: "09:55"
     end_time: "10:05"
-  - title: stephanie-culver
+  - title: emily-freeman
     type: talk
     date: 2020-09-01
     start_time: "10:05"

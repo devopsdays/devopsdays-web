@@ -1,7 +1,14 @@
 +++
 Title = "devopsdays Detroit 2020"
 Type = "welcome"
-aliases = ["/events/2020-detroit/"]
+aliases = [
+    "/events/2020-detroit/",
+    "/events/2020-detroit/location/",
+    "/events/2020-detroit/propose/",
+    "/events/2020-detroit/registration/",
+    "/events/2020-detroit/sponsor/",
+    "/events/2020-detroit/sponsor-registration/"
+]
 Description = "devopsdays Detroit 2020"
 +++
 
@@ -11,11 +18,21 @@ Description = "devopsdays Detroit 2020"
   </div>
 </div>
 
-<div style="padding: 20px"><p>devopsdays Detroit is dedicated to bringing system administration and development together. Michigan and Detroit, specifically, are uniquely positioned to lead this integration due to its highly skilled engineers. We are a collection of makers with a common vision for excellence, change and the grit to reinvent a city.</p>
+<div style="padding: 20px; font-size:large;">
+<p> In order to prioritize the health and safety of our community we have decided to cancel our in-person event at the Alfred A. Taubman Center in Detroit. </p>
 
-<p>Presentations will have a broad range of topics, with something for everyone. This conference is about much more than the tools we use. It is a forum for exploring the cultural impact that DevOps has on an organization. Hearing this positive, powerful message from our peers is the best way to integrate this way of thinking.</p>
+<p>The DevOps Days Detroit Organizing Committee would like to know how you would like our help this year. We would like to know what types of content or activities that we can provide that would be of benefit. The options are wide open. Be that training, help finding a job, tech talks, something fun to do, we want to hear about it. </p>
 
-<p>Come join us at DevOpsDays Detroit 2020 for a unique yearly event that will showcase a slice of that collective innovation. All stages of career will be present from university students to local startups to leaders of industry.</p>
+<p> Fill out the form below or visit <a href=https://forms.gle/wH2RvEzrAX6TJsXN9>https://forms.gle/wH2RvEzrAX6TJsXN9</a></p>
+
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScUV85Jig6vgz-J5figfn6-Osb8O8O4FxUZrRe7O0PLmiYNKQ/viewform?embedded=true" style="width:95%;height:2400px;">Loading…</iframe>
+
+<p>Thanks for your continued support of DevOps Days Detroit and the community. We’re looking forward to your responses! </p>
+
+<p>Sincerely,</p>
+
+<p>The DevOps Detroit Organizing Committee</p>
 
 </div>
 
