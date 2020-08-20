@@ -5,6 +5,7 @@ image = "emily-freeman.jpg"
 type = "speaker"
 linktitle = "emily-freeman"
 website = "https://emilyfreeman.io/"
+sharing_image = "emily-freeman.png"
 +++
 Emily Freeman is a technologist and a storyteller who helps engineering teams improve their velocity. As the author of DevOps for Dummies, she believes the biggest challenges facing developers aren’t technical, but human. Her mission in life is to transform technology organizations by creating a company cultures in which diverse, collaborative teams can thrive.
 
