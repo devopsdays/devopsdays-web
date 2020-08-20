@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "TBD"
+Title = "Building a DevOps Culture in a Remote World"
 Type = "talk"
 Speakers = ["emily-freeman"]
 sharing_image = "emily-freeman.png"
