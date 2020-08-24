@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Kubernetes won’t save you"
 Type = "talk"
 Speakers = ["lian-li"]
+Youtube = "kJNWlNliEBw"
 +++
 
 Kubernetes has become the new darling of the infrastructure world. Not only is it a great piece of technology for managing your containers, but in conjunction with the possibility to rent managed clusters from any of the big Cloud providers, Kubernetes offers organisations the possibility to get rid of the shackles of hosting and/or managing one’s infrastructure.
