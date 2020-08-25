@@ -38,7 +38,8 @@ location: "Online" # Defaults to city, but you can make it the venue name.
 
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: live stream
+    url: https://live.devopsdayschi.org
   - name: virtual event
     url: https://devopsdays.org/events/2020-chicago/virtual-event
   - name: registration

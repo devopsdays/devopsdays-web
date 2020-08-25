@@ -3,7 +3,7 @@ date = "2020-07-14"
 title = "Virtual Event Details"
 type = "event"
 +++
-DevOpsDays Chicago is a fully virtual event this year. All talks will be pre-recorded and streamed via YouTube Live for anyone to view.
+DevOpsDays Chicago is a fully virtual event this year. All talks will be pre-recorded and streamed via [YouTube Live](https://live.devopsdayschi.org) for anyone to view.
 
 We are keeping the original date of September 1st. We are also dedicated to keeping the core spirit of DevOpsDays events: interactive, inclusive, collaborative, and driven by participants rather than organizations.
 
@@ -20,6 +20,8 @@ DevOpsDays Chicago 2020 will have two different types of talks: long-form and Ig
 After each long-form talk, the speaker and the DevOpsDays Chicago MCs will host a fireside chat during the subsequent breakout session. During the fireside chat, participants can submit moderated questions, some of which may be used during the discussion.
 
 Ignite-style talks will occur in blocks and have a shared channel for discussion on Discord.
+
+All talks and speaker fireside chats will be streamed via YouTube at [https://live.devopsdayschi.org](https://live.devopsdayschi.org). No registration is required to view the stream!
 
 ## Breakout Sessions
 

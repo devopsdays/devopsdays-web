@@ -5,6 +5,8 @@ aliases = ["/events/2020-chicago/"]
 Description = "DevOpsDays Chicago will be a single-day virtual experience, taking place on Sept 1, 2020."
 +++
 
+{{< youtube ECMD5Yw5CxA >}}
+
 <div class = "row">
   <div class = "col-md-6 push-md-6">
   <p class="btn btn-primary btn-block" style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;">DevOpsDays Chicago is going virtual for 2020!</p>
