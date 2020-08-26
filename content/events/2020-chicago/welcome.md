@@ -8,7 +8,7 @@ Description = "DevOpsDays Chicago will be a single-day virtual experience, takin
 
 <div class = "row">
   <div class = "col-md-6 push-md-6">
-    <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://live.devopsdayschi.org">
+    <a class="btn btn-primary btn-block" style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://live.devopsdayschi.org">
     <i class="fa fa-youtube-play fa-lg"></i>&nbsp;&nbsp;&nbsp;Watch the Livestream
   </a>
   <!-- <p class="btn btn-primary btn-block" style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;">DevOpsDays Chicago is going virtual for 2020!</p> -->
