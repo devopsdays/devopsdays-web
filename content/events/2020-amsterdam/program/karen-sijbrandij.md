@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Engineering under the watchful eyes of over half a million hackers - Secure Coding at HackerOne"
 Type = "talk"
 Speakers = ["karen-sijbrandij"]
+Youtube = "pFw4NMh7K7c"
 +++
 
 Every developer needs to know how to write secure code. As the world becomes more digital, security is becoming increasingly important.

@@ -7,4 +7,4 @@ icons = "TRUE"
 
 ### All times are CDT
 
-Program schedule is subject to change
+All talks can be viewed at [https://live.devopsdayschi.org](live.devopsdayschi.org).
