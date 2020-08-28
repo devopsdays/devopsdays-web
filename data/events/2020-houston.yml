@@ -102,7 +102,7 @@ organizer_email: "houston@devopsdays.org" # Put your organizer email address her
 sponsors:
   - id: gitlab
     level: gold
-  - id: launch-darkly
+  - id: launch-darkly-before-20200828
     level: gold
   - id: twosigma
     level: gold
