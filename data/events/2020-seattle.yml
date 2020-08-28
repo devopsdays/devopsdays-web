@@ -113,7 +113,7 @@ sponsors:
   #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   # - id: arresteddevops
   #  level: community
-  - id: launch-darkly
+  - id: launch-darkly-before-20200828
     level: gold
   - id: influxdata
     level: gold
