@@ -9,14 +9,6 @@ Description = "devopsdays columbus 2020"
   {{< event_logo >}}
 </div> -->
 
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Dates</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_start >}} - {{< event_end >}}
-  </div>
-</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
