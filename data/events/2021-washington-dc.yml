@@ -216,6 +216,16 @@ team_members: # Name is the only required field for team members.
     website: ""
     linkedin: ""
 
+  - name: "Dayton Williams"
+    employer: "GovReady PBC"
+    twitter: ""
+    bio: ""
+    image: "dayton-williams.jpg"
+    github: ""
+    linkedin: "https://www.linkedin.com/in/dayton-williams/"
+    website: ""
+    facebook: ""
+
 organizer_email: "washington-dc@devopsdays.org" # Put your organizer email address here
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
