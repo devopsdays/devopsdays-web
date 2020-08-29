@@ -37,7 +37,8 @@ location_address: "" #Optional - use the street address of your venue. This will
 nav_elements: # List of pages you want to show up in the navigation of your page.
 #  - name: devopsdays.az
   #    url: https://devopsdays.az/
-  # - name: propose
+  - name: propose
+    url: "https://www.papercall.io/events/3792"
   - name: location
   # - name: registration
   # - name: program
