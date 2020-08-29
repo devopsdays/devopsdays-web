@@ -171,7 +171,9 @@ sponsors:
   - id: tigera  
     level: gold  
   - id: IITCOC
-    level: community  
+    level: community 
+  - id: jfrog
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -202,6 +204,12 @@ program:
     date: 2020-09-01
     start_time: "09:15"
     end_time: "09:35"
+  - title: "Fireside Chat with Sherlaender (Lani) Phillips"
+    type: custom
+    date: 2020-09-01
+    start_time: "09:35"
+    end_time: "09:55"
+    custom_url: "https://live.devopsdayschi.org"
   - title: "Breakouts"
     type: open-space
     date: 2020-09-01
@@ -218,6 +226,12 @@ program:
     date: 2020-09-01
     start_time: "10:05"
     end_time: "10:25"
+  - title: "Fireside Chat with Emily Freeman"
+    type: custom
+    date: 2020-09-01
+    start_time: "10:25"
+    end_time: "10:45"
+    custom_url: "https://live.devopsdayschi.org"
   - title: "Breakouts"
     type: open-space
     date: 2020-09-01
@@ -234,6 +248,12 @@ program:
     date: 2020-09-01
     start_time: "10:55"
     end_time: "11:15"
+  - title: "Fireside Chat with Quintessence Anx"
+    type: custom
+    date: 2020-09-01
+    start_time: "11:15"
+    end_time: "11:35"
+    custom_url: "https://live.devopsdayschi.org"
   - title: "Breakouts"
     type: open-space
     date: 2020-09-01
@@ -256,6 +276,12 @@ program:
     date: 2020-09-01
     start_time: "13:00"
     end_time: "13:20"
+  - title: "Fireside Chat with Dr. Richard Cook"
+    type: custom
+    date: 2020-09-01
+    start_time: "13:20"
+    end_time: "13:40"
+    custom_url: "https://live.devopsdayschi.org"
   - title: "Breakouts"
     type: open-space
     date: 2020-09-01
@@ -272,6 +298,12 @@ program:
     date: 2020-09-01
     start_time: "13:55"
     end_time: "14:15"
+  - title: "Fireside Chat with Sarah Aslanifar"
+    type: custom
+    date: 2020-09-01
+    start_time: "14:15"
+    end_time: "14:35"
+    custom_url: "https://live.devopsdayschi.org"
   - title: "Breakouts"
     type: open-space
     date: 2020-09-01
@@ -288,6 +320,12 @@ program:
     date: 2020-09-01
     start_time: "14:45"
     end_time: "15:05"
+  - title: "Fireside Chat with Rafael Gomes"
+    type: custom
+    date: 2020-09-01
+    start_time: "15:05"
+    end_time: "15:25"
+    custom_url: "https://live.devopsdayschi.org"
   - title: "Breakouts"
     type: open-space
     date: 2020-09-01
@@ -304,6 +342,12 @@ program:
     date: 2020-09-01
     start_time: "15:35"
     end_time: "15:55"
+  - title: "Fireside Chat with Jason Yee"
+    type: custom
+    date: 2020-09-01
+    start_time: "15:55"
+    end_time: "16:15"
+    custom_url: "https://live.devopsdayschi.org"
   - title: "Breakouts"
     type: open-space
     date: 2020-09-01
