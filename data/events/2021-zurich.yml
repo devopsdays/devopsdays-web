@@ -76,7 +76,7 @@ team_members: # Name is the only required field for team members.
   - name: "Romano Roth"
     twitter: "RomanoRoth"
     employer: "Zühlke Engineering AG"
-    bio: "<p>I'm an experienced software consultant and DevOps enthusiast working at Zühlke. My passion lies in radically transforming monolithic waterfall IT organizations into scalable agile teams doing DevOps.</p>"
+    bio: "<p>I'm an experienced software consultant and DevOps enthusiast working at Zühlke. My passion is helping companies bringing people, processes and technology together so that they can deliver continuously value to their customers.</p>"
     github: "https://github.com/RomanoRoth"
     facebook: "https://www.facebook.com/romanoroth/"
     website: "https://www.romanoroth.com"
