@@ -4,7 +4,6 @@ active = [
 "Jennifer Davis",
 "Bernd Erk",
 "Rafael Gomes",
-"Nathen Harvey",
 "Mine Heck",
 "Dan Maher",
 "Katie McLaughlin",
@@ -21,7 +20,8 @@ advisory = [
 "Kris Buytaert",
 "Matthew Jones",
 "Andrew Clay Shafer",
-"John Willis"
+"John Willis",
+"Nathen Harvey"
 ]
 
 emeritus = [
