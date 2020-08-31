@@ -38,7 +38,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #  - name: devopsdays.az
   #    url: https://devopsdays.az/
   - name: propose
-    url: "https://www.papercall.io/events/3792"
+    url: "https://www.papercall.io/devops-baku2020"
   - name: location
   # - name: registration
   # - name: program
