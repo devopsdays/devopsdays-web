@@ -123,8 +123,6 @@ sponsors:
     level: gold
   - id: redhat
     level: silver
-  - id: xmatters
-    level: gold
   - id: hashicorp
     level: gold
 
