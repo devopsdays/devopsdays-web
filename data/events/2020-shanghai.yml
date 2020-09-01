@@ -29,9 +29,9 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 # Location
 #
 coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "shanghai" # Defaults to city, but you can make it the venue name.
+location: "The Longemont Hotel Shanghai" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "No.1116 West Yan An Road, Shanghai, China" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
@@ -62,7 +62,7 @@ team_members: # Name is the only required field for team members.
   - name: "Xu Feng"
     linkedin: "https://www.linkedin.com/in/franklinxu/"
     image: "xu-feng.jpg"
-    
+
 organizer_email: "shanghai@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
