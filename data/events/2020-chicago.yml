@@ -155,23 +155,23 @@ sponsors:
   - id: appdynamics
     level: gold
   - id: braintree
-    level: gold 
+    level: gold
   - id: d2iq
     level: gold
   - id: stackhawk
-    level: silver  
+    level: silver
   - id: circleci
-    level: gold  
+    level: gold
   - id: lightstep
-    level: gold  
-  - id: microsoft  
-    level: gold  
+    level: gold
+  - id: microsoft
+    level: gold
   - id: jpmc
     level: gold
-  - id: tigera  
-    level: gold  
+  - id: tigera
+    level: gold
   - id: IITCOC
-    level: community 
+    level: community
   - id: jfrog
     level: gold
 
@@ -203,23 +203,23 @@ program:
     type: talk
     date: 2020-09-01
     start_time: "09:15"
-    end_time: "09:35"
+    end_time: "09:30"
   - title: "Fireside Chat with Sherlaender (Lani) Phillips"
     type: custom
     date: 2020-09-01
-    start_time: "09:35"
-    end_time: "09:55"
+    start_time: "09:30"
+    end_time: "09:50"
     custom_url: "https://live.devopsdayschi.org"
   - title: "Breakouts"
     type: open-space
     date: 2020-09-01
-    start_time: "09:35"
-    end_time: "09:55"
+    start_time: "09:30"
+    end_time: "09:50"
     custom_url: "https://event.devopsdayschi.org"
   - title: "Break"
     type: custom
     date: 2020-09-01
-    start_time: "09:55"
+    start_time: "09:50"
     end_time: "10:05"
   - title: emily-freeman
     type: talk
@@ -247,78 +247,78 @@ program:
     type: talk
     date: 2020-09-01
     start_time: "10:55"
-    end_time: "11:15"
+    end_time: "11:20"
   - title: "Fireside Chat with Quintessence Anx"
     type: custom
     date: 2020-09-01
-    start_time: "11:15"
-    end_time: "11:35"
+    start_time: "11:20"
+    end_time: "11:40"
     custom_url: "https://live.devopsdayschi.org"
   - title: "Breakouts"
     type: open-space
     date: 2020-09-01
-    start_time: "11:15"
-    end_time: "11:35"
+    start_time: "11:20"
+    end_time: "11:40"
     custom_url: "https://event.devopsdayschi.org"
   - title: "Ignite Round 1"
     type: ignite
     date: 2020-09-01
-    start_time: "11:40"
-    end_time: "12:00"
+    start_time: "11:45"
+    end_time: "12:15"
     block: "ignite-1"
   - title: "Lunch Break"
     type: custom
     date: 2020-09-01
-    start_time: "12:00"
+    start_time: "12:15"
     end_time: "13:00"
   - title: richard-cook
     type: talk
     date: 2020-09-01
     start_time: "13:00"
-    end_time: "13:20"
+    end_time: "13:30"
   - title: "Fireside Chat with Dr. Richard Cook"
     type: custom
     date: 2020-09-01
-    start_time: "13:20"
-    end_time: "13:40"
+    start_time: "13:30"
+    end_time: "13:50"
     custom_url: "https://live.devopsdayschi.org"
   - title: "Breakouts"
     type: open-space
     date: 2020-09-01
-    start_time: "13:20"
-    end_time: "13:40"
+    start_time: "13:30"
+    end_time: "13:50"
     custom_url: "https://event.devopsdayschi.org"
   - title: "Break"
     type: custom
     date: 2020-09-01
-    start_time: "13:40"
-    end_time: "13:50"
+    start_time: "13:50"
+    end_time: "14:00"
   - title: sarah-aslanifar
     type: talk
     date: 2020-09-01
-    start_time: "13:55"
-    end_time: "14:15"
+    start_time: "14:00"
+    end_time: "14:20"
   - title: "Fireside Chat with Sarah Aslanifar"
     type: custom
     date: 2020-09-01
-    start_time: "14:15"
-    end_time: "14:35"
+    start_time: "14:20"
+    end_time: "14:40"
     custom_url: "https://live.devopsdayschi.org"
   - title: "Breakouts"
     type: open-space
     date: 2020-09-01
-    start_time: "14:15"
-    end_time: "14:35"
+    start_time: "14:20"
+    end_time: "14:40"
     custom_url: "https://event.devopsdayschi.org"
   - title: "Break"
     type: custom
     date: 2020-09-01
-    start_time: "14:35"
-    end_time: "14:45"
+    start_time: "14:40"
+    end_time: "14:50"
   - title: rafael-gomes
     type: talk
     date: 2020-09-01
-    start_time: "14:45"
+    start_time: "14:50"
     end_time: "15:05"
   - title: "Fireside Chat with Rafael Gomes"
     type: custom
