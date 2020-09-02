@@ -2,12 +2,11 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = ""
+Title = "Melhores Práticas Para Pipeline De Infraestrutura"
 Type = "talk"
-Speakers = [""]
+Speakers = ["rafael-gomes"]
 youtube = ""
 slideshare = ""
 slides = ""
 +++
 
-resumo
