@@ -35,8 +35,8 @@ location: "Ataturk 89, Baku" # Defaults to city, but you can make it the venue n
 location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-#  - name: devopsdays.az
-  #    url: https://devopsdays.az/
+  - name: devopsdays.az
+    url: https://devopsdays.az/
   - name: propose
     url: "https://www.papercall.io/devops-baku2020"
   - name: location
