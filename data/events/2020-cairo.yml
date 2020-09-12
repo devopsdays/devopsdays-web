@@ -41,7 +41,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #  - name: location
 #  - name: local
 #  - name: registration
-  - name: Agenda
+  - name: agenda
 #    url: https://assets.devopsdays.org/events/2020/cairo/DevopsDays-Cairo-2020-Agenda.pdf
   - name: speakers
   - name: sponsor
