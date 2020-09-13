@@ -129,6 +129,8 @@ sponsors:
     level: gold
   - id: microsoft
     level: platinum
+  - id: stackhawk
+    level: startup
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
