@@ -127,6 +127,7 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+
 program:
   - title: "Chat and Coffee Meetings"
     type: custom
@@ -138,18 +139,18 @@ program:
     date: 2020-10-01T00:08:00-04:00
     start_time: "08:45"
     end_time: "09:00"
-  - title: "DevOps Patterns and Antipatterns for Continuous Software Updates - Baruch Sadogursky and Kat Cosgrove"
-    type: custom
+  - title: "baruch-sadogursky-kat-cosgrove"
+    type: talk
     date: 2020-10-01T00:08:00-04:00
     start_time: "09:00"
     end_time: "09:35"
-  - title: "COBOL on Kubernetes - JJ Ashgar"
-    type: custom
+  - title: "jj-asghar"
+    type: talk
     date: 2020-10-01T00:08:00-04:00
     start_time: "09:45"
     end_time: "10:20"
-  - title: "Addressing Cloud Security with Open Policy Agent (OPA) - Josh Stella"
-    type: custom
+  - title: "josh-stella"
+    type: talk
     date: 2020-10-01T00:08:00-04:00
     start_time: "10:30"
     end_time: "11:05"
@@ -158,8 +159,8 @@ program:
     date: 2020-10-01T00:08:00-04:00
     start_time: "11:10"
     end_time: "11:15"
-  - title: "Achieving Inclusivity Through Remote Work - Jameson Hampton"
-    type: custom
+  - title: "jameson-hampton"
+    type: talk
     date: 2020-10-01T00:08:00-04:00
     start_time: "11:15"
     end_time: "11:50"
@@ -168,13 +169,13 @@ program:
     date: 2020-10-01T00:08:00-04:00
     start_time: "11:50"
     end_time: "13:30"
-  - title: "CI/CD Agility and Controlling Pipeline Sprawl - Angel Rivera"
-    type: custom
+  - title: "angel-rivera"
+    type: talk
     date: 2020-10-01T00:08:00-04:00
     start_time: "13:30"
     end_time: "14:50"
-  - title: "SRE Role in a Mature DevOps Organization - Ana Auxiliadora Lebrón Moreno"
-    type: custom
+  - title: "ana-auxiliadora-lebron-moreno"
+    type: talk
     date: 2020-10-01T00:08:00-04:00
     start_time: "15:00"
     end_time: "15:35"
@@ -183,8 +184,8 @@ program:
     date: 2020-10-01T00:08:00-04:00
     start_time: "15:40"
     end_time: "16:00"
-  - title: "Don't be SecureLess: Best practices for keeping your Lambdas secure - Ben Ellerby"
-    type: custom
+  - title: "ben-ellerby"
+    type: talk
     date: 2020-10-01T00:08:00-04:00
     start_time: "16:05"
     end_time: "16:40"
