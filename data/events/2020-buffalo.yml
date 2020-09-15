@@ -183,7 +183,7 @@ program:
     date: 2020-10-01T00:08:00-04:00
     start_time: "15:40"
     end_time: "16:00"
-  - title: "How I unintentionally patched all of Target's edge servers during the day without impact - Stephanie Culver"
+  - title: "Don't be SecureLess: Best practices for keeping your Lambdas secure - Ben Ellerby"
     type: custom
     date: 2020-10-01T00:08:00-04:00
     start_time: "16:05"
