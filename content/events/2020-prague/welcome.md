@@ -5,7 +5,7 @@ aliases = ["/events/2020-prague/"]
 Description = "Devopsdays Prague 2020"
 +++
 
-<h2> DevOpsDays Prague is currently Sold Out! But you can still email {{< email_organizers >}} to be added to waiting list. </h2>
+<h2> DevOpsDays Prague 2020 will unfortunately not happen due to circumstances beyond our control related to the COVID-19 outbrake. We have already started planning for 2021 and more details will come in the upcoming weeks. All bought tickets stay valid for the future event but we are happy to reimburse you in case you changed your mind.</h2>
 
 <div style="text-align:center;">
   {{< event_logo >}}
