@@ -13,7 +13,8 @@ DevOpsDays Cairo is a one-day event addressing “DevOps Amid COVID-19”.
 <br>
 For the 3rd consecutive year, SECC/ITIDA are organizing DevOpsDays Cairo 2020 in cooperation with DXC Technology, IBM Egypt and Orange Labs. </p> 
 
-<p>But this time we will bring it to you ONLINE due to the current situation of the pandemic, and <strong>FREE to ALL!</strong></p>
+
+<p>But this time we will bring it to you ONLINE due to the current situation of the pandemic, and <strong><a href="https://www.secc.org.eg/Event_Registration.asp" rel="noopener noreferrer" target="_blank">FREE to ALL! Register Now!</strong></a></p>
 
 <p>Just "Like" our <a href="https://www.facebook.com/SECC.Egypt/" rel="noopener noreferrer" target="_blank">Facebook page</a>, adjust your calender/notifications, and Watch Us Live Here&nbsp;<a href="https://www.facebook.com/SECC.Egypt/" rel="noopener noreferrer" target="_blank">https://www.facebook.com/SECC.Egypt/</a> on September 21<sup>st</sup>, at 3:00 pm &ndash; 8:00 pm (Cairo Local Time)</p>
 <p>
