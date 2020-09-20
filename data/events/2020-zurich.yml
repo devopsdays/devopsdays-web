@@ -3,7 +3,7 @@ year: "2020" # The year of the event. Make sure it is in quotes.
 city: "Zürich (Winterthur)" # The displayed city name of the event. Capitalize it.
 event_twitter: "DevOpsZH" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "Every Tuesday evening in September 2020 we will hold the online DevOpsTuesDays. More information will follow." # Edit this to suit your preferences
-ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+ga_tracking_id: "UA-174260535-1" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 event_group: "Zürich"
 
 # All dates are in unquoted 2020-MM-DDTHH:MM:SS+TZ:TZ, like this:
@@ -22,8 +22,8 @@ cfp_date_announce: 2020-04-30T00:00:00+02:00 # inform proposers of status
 cfp_open: "true"
 cfp_link: "https://sessionize.com/devopsdayszh-2020/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: 2020-02-10T00:00:00+02:00
-registration_date_end: 2020-09-01T00:00:00+02:00
+registration_date_start: 2020-07-01T00:00:00+02:00
+registration_date_end: 2020-09-30T00:00:00+02:00
 
 registration_closed: "true" #set this to true if you need to manually close registration before your registration end date
 # registration_link: "https://landing.devopsdays.ch/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -36,11 +36,11 @@ location: "Online" # Defaults to city, but you can make it the venue name.
 # location_address: "Technikumstrasse 8, 8400 Winterthur, Switzerland" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+ # - name: propose
   - name: location
  # - name: registration
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -76,7 +76,7 @@ team_members: # Name is the only required field for team members.
   - name: "Romano Roth"
     twitter: "RomanoRoth"
     employer: "Zühlke Engineering AG"
-    bio: "<p>I'm an experienced software consultant and DevOps enthusiast working at Zühlke. My passion lies in radically transforming monolithic waterfall IT organizations into scalable agile teams doing DevOps.</p>"
+    bio: "<p>I'm an experienced software consultant and DevOps enthusiast working at Zühlke. My passion is helping companies bringing people, processes and technology together so that they can deliver continuously value to their customers.</p>"
     github: "https://github.com/RomanoRoth"
     facebook: "https://www.facebook.com/romanoroth/"
     website: "https://www.romanoroth.com"
@@ -189,9 +189,13 @@ sponsors:
     url: "https://www.swisscom.ch/jobs/"
   - id: swiss-re
     level: gold
-  - id: platformsh
-    level: gold
   - id: roche
+    level: gold
+  - id: cloudscalech
+    level: silver
+  - id: switch
+    level: bronze
+  - id: microsoft
     level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -216,3 +220,30 @@ sponsor_levels:
   - id: partner
     label: Partner
     max: 0
+
+program:
+  - title: "bridget-kromhout" 
+    type: talk
+    date: 2019-09-01
+    start_time: "18:00"
+    end_time: "19:30"
+  - title: "john-willis"
+    type: talk
+    date: 2019-09-08
+    start_time: "20:00"
+    end_time: "21:30"
+  - title: "tanja-janca"
+    type: talk
+    date: 2019-09-15
+    start_time: "18:00"
+    end_time: "19:30"
+  - title: "shelby-spees"
+    type: talk
+    date: 2019-09-22
+    start_time: "18:00"
+    end_time: "19:30"
+  - title: "seth-vargo"
+    type: talk
+    date: 2019-09-29
+    start_time: "17:00"
+    end_time: "18:30"

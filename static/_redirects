@@ -27,7 +27,7 @@
 /columbus/*		/events/2020-columbus/:splat		302
 /copenhagen/*		/events/2019-copenhagen/:splat		302
 /cuba/*			/events/2019-cuba/:splat		302
-/dallas/*		/events/2020-dallas/:splat		302
+/dallas/*		/events/2021-dallas/:splat		302
 /denver/*		/events/2020-denver/:splat		302
 /des-moines/*		/events/2020-des-moines/:splat		302
 /detroit/*		/events/2020-detroit/:splat		302
@@ -73,7 +73,7 @@
 /new-york-city/*	/events/2021-new-york-city/:splat	302
 /new-zealand/*		/events/2019-auckland/:splat		302
 /newcastle/*		/events/2018-newcastle/:splat		302
-/oslo/*			/events/2019-oslo/:splat		302
+/oslo/*			/events/2020-oslo/:splat		302
 /paris/*		/events/2020-paris/:splat		302
 /philadelphia/*		/events/2020-philadelphia/:splat	302
 /phoenix/*		/events/2018-phoenix/:splat		302
@@ -96,7 +96,7 @@
 /santiago/*		/events/2020-santiago/:splat		302
 /sao-paulo/*		/events/2020-sao-paulo/:splat		302
 /seattle/*		/events/2020-seattle/:splat		302
-/shanghai/*		/events/2019-shanghai/:splat		302
+/shanghai/*		/events/2020-shanghai/:splat		302
 /shenzhen/*		/events/2018-shenzhen/:splat		302
 /silicon-valley/*	/events/2018-silicon-valley/:splat	302
 /singapore/*		/events/2020-singapore/:splat		302

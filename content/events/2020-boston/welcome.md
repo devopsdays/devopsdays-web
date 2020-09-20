@@ -18,29 +18,33 @@ h1.welcome-page { text-transform: initial; }
   </div>
 
   <div class="col-md-6">
-    <div class="alert alert-warning" role="alert">
-      DevOpsDays Boston is going virtual - Call for Papers has been extended!
-    </div>
-    <p>Due to the effects of COVID-19, and the health risks of holding an in-person conference this year, DevOpsDays Boston 2020 will now be a two-day, single-track virtual event, taking place on September 28th and 29th, 2020. Rest assured that the talks, open spaces and discussions will be as great as ever.</p>
-    <p>Please do continue to submit to our <a href="https://bit.ly/dodbos2020cfp">CFP</a> if you'd like to speak at the conference! We are now taking submissions until June 14th.</p>
+    <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="/events/2020-boston/virtual-event">
+      DevOpsDays Boston is going virtual for 2020!
+    </a>
+    <p>
+      Due to the effects of COVID-19 DevOpsDays Boston 2020 will be a one-day,
+      single-track <a href="/events/2020-boston/virtual-event">virtual
+      event</a>, taking place on September 29th, 2020.
+    </p>
+    <p>
+      Leaning into the accessibility of the internet, we have also changing the
+      pricing model to “pay what you can.” We can’t wait to see you there, <a
+      href="https://hopin.to/events/devopsdays-boston-2020/">register now</a>.
+    </p>
   </div>
 
   <div class="col-md-6">
     <div class="row">
       <div class="col-md-2"><strong>Dates</strong></div>
-      <div class="col-md-8">{{< event_start >}} - {{< event_end >}}</div>
+      <div class="col-md-8">{{< event_start >}}</div>
     </div>
     <div class="row">
       <div class="col-md-2"><strong>Location</strong></div>
       <div class="col-md-8">Boston (virtual)</div>
     </div>
     <div class="row">
-      <div class="col-md-2"><strong>Propose</strong></div>
-      <div class="col-md-8"><a href="https://bit.ly/dodbos2020cfp">Propose a talk!</a></div>
-    </div>
-    <!-- <div class="row">
       <div class="col-md-2"><strong>Register</strong></div>
-      <div class="col-md-8"><a href="https://ti.to/devopsdaysbos/2020">Register to attend the conference!</a></div>
+      <div class="col-md-8"><a href="https://hopin.to/events/devopsdays-boston-2020/">Register to attend the conference!</a></div>
     </div>
   	<div class="row">
   		<div class="col-md-2"><strong>Program</strong></div>
@@ -50,7 +54,6 @@ h1.welcome-page { text-transform: initial; }
   		<div class="col-md-2"><strong>Speakers</strong></div>
       <div class="col-md-8">Check out the {{< event_link page="speakers" text="speakers!" >}}</div>
     </div>
-    -->
     <div class="row">
       <div class="col-md-2"><strong>Sponsors</strong></div>
       <div class="col-md-8">{{< event_link page="sponsor" text="Sponsor the conference!" >}}</div>

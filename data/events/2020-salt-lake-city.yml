@@ -111,7 +111,7 @@ organizer_email: "salt-lake-city@devopsdays.org" # Put your organizer email addr
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-    - id: launch-darkly
+    - id: launch-darkly-before-20200828
       level: gold
     - id: splunk
       level: gold

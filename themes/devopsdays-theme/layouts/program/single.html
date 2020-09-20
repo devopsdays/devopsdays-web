@@ -135,33 +135,44 @@
 
                               {{- else if eq .type "ignite" -}}
                               {{ .title }}
-                              <!-- do ignite stuff here -->
-                                {{- with $e -}}
-                                  {{- if .ignites -}}
-                                    {{- $ignites := (where $e.ignites "date" ($.Scratch.Get "date")) -}}
-                                    {{- $ignites_len := (len $ignites) -}}
-                                    {{- if ge $ignites_len 1 -}}
-                                      <ul class="list-unstyled">
-                                        {{- range where $e.ignites "date" ($.Scratch.Get "date") -}}
-                                          <li>
-                                          {{- if and ($.Scratch.Get .title) (.custom_url) -}}
-                                            <a href="{{ .custom_url | safeURL }}">{{ $.Scratch.Get (printf "%s-speaker" .title) }} - {{ $.Scratch.Get .title }}</a>
-                                          {{- else if ($.Scratch.Get .title) -}}
-                                            <a href="/events/{{ $e.name }}/program/{{ .title }}">{{ $.Scratch.Get (printf "%s-speaker" .title) }} - {{ $.Scratch.Get .title }}</a>
-                                          {{- else -}}
-                                            {{ .title }}
-                                          {{- end -}}
-                                          {{- if eq  ($.Scratch.Get "icons")  "TRUE" -}}
-                                            {{- with ($.Scratch.Get (printf "%s-video_link" .title)) -}}&nbsp;<a href="{{ . }}"><i class="fa fa-video-camera" aria-hidden="true"></i></a>&nbsp;{{- end -}}
-                                            {{- with ($.Scratch.Get (printf "%s-slides_link" .title)) -}}&nbsp;<a href="{{ . }}"><i class="fa fa-file-text-o" aria-hidden="true"></i></a>&nbsp;{{- end -}}  
-                                          {{- end -}}
-                                          </li>
-                                        {{- end -}}<!-- rang ignites-->
-                                      </ul>
-                                      {{- end -}} <!-- if ge $ignites_len 1 -->
+                              <!-- new ignite code start -->
+                              <ul class = "list-unstyled">
+                                {{- if .block -}}
+                                  {{- $block := .block -}}
+                                  {{- range $e.ignites -}}
+                                    {{- if eq .block $block -}}
+                                      <li>
+                                        <a href="/events/{{ $e.name }}/program/{{ .title }}">{{ $.Scratch.Get (printf "%s-speaker" .title) }} - {{ $.Scratch.Get .title }}</a>
+                                        {{- if eq  ($.Scratch.Get "icons")  "TRUE" -}}
+                                          {{- with ($.Scratch.Get (printf "%s-video_link" .title)) -}}&nbsp;<a href="{{ . }}"><i class="fa fa-video-camera" aria-hidden="true"></i></a>&nbsp;{{- end -}}
+                                          {{- with ($.Scratch.Get (printf "%s-slides_link" .title)) -}}&nbsp;<a href="{{ . }}"><i class="fa fa-file-text-o" aria-hidden="true"></i></a>&nbsp;{{- end -}}  
+                                        {{- end -}}
+      
+                                      </li>
+                                    {{- end -}}
+                                  {{- end -}}
+                                {{- else -}}
+                                  {{- range where $e.ignites "date" ($.Scratch.Get "date") -}}
+                                    {{- if not .block -}}
+                                      <li>
+                                        <a href="/events/{{ $e.name }}/program/{{ .title }}">{{ $.Scratch.Get (printf "%s-speaker" .title) }} - {{ $.Scratch.Get .title }}</a>
+                                        {{- if eq  ($.Scratch.Get "icons")  "TRUE" -}}
+                                          {{- with ($.Scratch.Get (printf "%s-video_link" .title)) -}}&nbsp;<a href="{{ . }}"><i class="fa fa-video-camera" aria-hidden="true"></i></a>&nbsp;{{- end -}}
+                                          {{- with ($.Scratch.Get (printf "%s-slides_link" .title)) -}}&nbsp;<a href="{{ . }}"><i class="fa fa-file-text-o" aria-hidden="true"></i></a>&nbsp;{{- end -}}  
+                                        {{- end -}}
+      
+                                      </li>
+                                    {{- end -}}
                                   {{- end -}}
                                 {{- end -}}
-                              <!-- end ignite stuff here -->
+
+
+
+                              </ul>
+
+
+
+                              <!-- new ignite code end -->
                               <!-- do open-space stuff here -->
                               {{- else if (eq .type "open-space") -}}
                                 {{- if .custom_url -}}

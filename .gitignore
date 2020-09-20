@@ -77,3 +77,6 @@ increase_ulimit.sh
 2017-ponyville/
 /themes/devopsdays-theme/config.codekit3
 /themes/devopsdays-theme/bower_components
+
+# we don't use yarn
+yarn.lock

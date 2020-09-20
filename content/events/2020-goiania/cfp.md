@@ -10,17 +10,15 @@ Description = "Proponha uma palestra para o DevOpsDays Goiânia 2020"
 
 <h3>Como enviar sua proposta</h3>
 
-Basta acessar e seguir as instruções em [https://www.papercall.io/devopsdaysgyn2020](https://www.papercall.io/devopsdaysgyn2020)
+Basta acessar e seguir as instruções em [https://cfp.devopsdays.com.br/gyn2020/cfp](https://cfp.devopsdays.com.br/gyn2020/cfp)
 
 <hr>
 
 <h3>Tipos de apresentações</h3>
 
-Há dois tipos de de apresentações no DevOpsDays Goiânia 2020:
-<ol>
-  <li>Palestra de <strong>30 minutos (25 minutos de palestra + 5 minutos para perguntas)</strong> apresentadas durante a conferência.</li>
-  <li><strong>Ignite Talk</strong> que são slots de 5 minutos no qual os slides são alterados a cada 15 segundos (20 slides no total).</li>
-</ol>
+<ul>
+    <li>Serão 9 palestras de <strong>30 minutos</strong> apresentadas durante a conferência sendo 1 palestra por dia.</li>
+</ul>
 
 <hr>
 

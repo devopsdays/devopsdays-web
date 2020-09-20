@@ -5,13 +5,16 @@ event_twitter: "devopsrex" # Change this to the twitter handle for your event su
 description: "Votre conférence 100% devops à Paris !" # Edit this to suit your preferences
 ga_tracking_id: "UA-81620980-1" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
+# event cancelled :(
+cancel: "true"
+
 # All dates are in unquoted 2020-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2020-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: 2020-10-15T09:00:00+02:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2020-10-15T19:00:00+02:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  # start accepting talk proposals.
@@ -28,15 +31,15 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 # Location
 #
-coordinates: "48.895576, 2.388239" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Paris" # Defaults to city, but you can make it the venue name.
+coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "" # Defaults to city, but you can make it the venue name.
 #
-location_address: "Cité de sciences et de l'industrie, 75019 Paris, France" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
-  - name: location
-    url: https://2019.devopsrex.fr/content/informations-pratiques
+ # - name: location
+ #   url: https://2019.devopsrex.fr/content/informations-pratiques
  # - name: registration
  # - name: program
  # - name: speakers
@@ -80,17 +83,17 @@ sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
-sponsor_levels:
-  - id: platinum
-    label: Platinum
+#sponsor_levels:
+#  - id: platinum
+#    label: Platinum
 #    max: 3
-  - id: gold
-    label: Gold
+#  - id: gold
+#    label: Gold
 #    max: 10
-  - id: silver
-    label: Silver
+#  - id: silver
+#    label: Silver
 #    max: 0 # This is the same as omitting the max limit.
 #  - id: bronze
 #    label: Bronze
-  - id: media
-    label: Média
+#  - id: media
+#    label: Média

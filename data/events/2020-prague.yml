@@ -91,6 +91,9 @@ sponsors:
   - id: kb
     level: gold
     url: "https://www.kb.cz/"
+  - id: f5-ni
+    level: gold
+    url: "https://www.f5.com/"  
   - id: citrix
     level: silver
     url: "https://www.citrix.com/"
@@ -100,12 +103,6 @@ sponsors:
   - id: googlecloud
     level: silver
     url: "https://cloud.google.com/gcp/"
-  - id: avast
-    level: silver
-    url: "https://www.avast.com/"    
-  - id: f5-ni
-    level: silver
-    url: "https://www.f5.com/"  
   - id: showmax
     level: bronze
     url: "https://www.showmax.com/"   
@@ -115,21 +112,12 @@ sponsors:
   - id: iteraio
     level: bronze
     url: "https://itera.io/"   
-  - id: seznam
-    level: bronze
-    url: "https://www.seznam.cz/"  
-  - id: kiwicom
-    level: bronze
-    url: "https://www.kiwi.com"  
   - id: cisco
     level: bronze
     url: "https://www.cisco.com/"  
   - id: digitalocean
     level: starter
     url: "https://www.digitalocean.com/"
-  - id: geekyants
-    level: starter
-    url: "https://geekyants.com/"    
   - id: vistaprint
     level: starter
     url: "https://www.vistaprint.com/"  
@@ -141,7 +129,10 @@ sponsors:
     url: "https://lineupr.com/"  
   - id: sessionm
     level: starter
-    url: "https://www.sessionm.com/"      
+    url: "https://www.sessionm.com/"
+  - id: avast
+    level: starter
+    url: "https://www.avast.com/"    
   - id: inuits
     level: community
     url: "https://inuits.eu/"
@@ -157,8 +148,11 @@ sponsors:
   - id: prague-software-craftsmanship
     level: community
     url: "https://www.meetup.com/Prague-Software-Craftsmanship/"  
+  - id: stickermule
+    level: community
+    url: "https://mule.to/pqi/"  
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -190,12 +184,12 @@ program:
     date: 2020-03-18
     start_time: "09:00"
     end_time: "09:10"
-  - title: "kris-buytaert"
+  - title: ""
     type: talk
     date: 2020-03-18
     start_time: "09:10"
     end_time: "09:45"
-  - title: ""
+  - title: "stepan-vrany"
     type: talk
     date: 2020-03-18
     start_time: "09:45"
@@ -205,12 +199,12 @@ program:
     date: 2020-03-18
     start_time: "10:20"
     end_time: "10:40"
-  - title: "edward-pearson"
+  - title: "tomas-kubica"
     type: talk
     date: 2020-03-18
     start_time: "10:40"
     end_time: "11:15"
-  - title: "tomas-kubica"
+  - title: "kris-buytaert"
     type: talk
     date: 2020-03-18
     start_time: "11:20"
@@ -265,7 +259,7 @@ program:
     date: 2020-03-19
     start_time: "09:00"
     end_time: "09:10"
-  - title: "vaishali-anand"
+  - title: "martin-konicek"
     type: talk
     date: 2020-03-19
     start_time: "09:10"
@@ -285,7 +279,7 @@ program:
     date: 2020-03-19
     start_time: "10:40"
     end_time: "11:15"
-  - title: "eduardo-piairo"
+  - title: ""
     type: talk
     date: 2020-03-19
     start_time: "11:20"
@@ -328,17 +322,11 @@ program:
 ignites:
   - title: "axel-kohler"
     date: 2020-03-18
-  - title: "stepan-vrany"
-    date: 2020-03-18
+  - title: "denis-gorodnov"
+    date: 2020-03-18    
   - title: "philipp-krenn"
     date: 2020-03-18   
-  - title: "jiri-brunclik"
-    date: 2020-03-18
   - title: "radek-zajic"
     date: 2020-03-19  
-  - title: "mofizur-rahman"
-    date: 2020-03-19
   - title: "marek-bartik"
-    date: 2020-03-19
-  - title: "nicolai-antiferov"
-    date: 2020-03-19         
+    date: 2020-03-19     

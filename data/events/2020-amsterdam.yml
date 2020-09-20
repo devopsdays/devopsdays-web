@@ -5,7 +5,6 @@ event_twitter: "devopsams" # Change this to the twitter handle for your event su
 description: "devopsdays Amsterdam is back for the 8th time. Going online this time!" # Edit this to suit your preferences
 ga_tracking_id: "UA-38891729-3" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 masthead_background: "skyline-ams.jpg"
-sharing_image: "logo-rectangle.png"
 
 # All dates are in unquoted 2020-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00
@@ -39,9 +38,9 @@ location_address: "" #Optional - use the street address of your venue. This will
 nav_elements: # List of pages you want to show up in the navigation of your page.
   # - name: propose
   # - name: location
-  # - name: registration
-  # - name: program
-  # - name: speakers
+  - name: registration
+  - name: program
+  - name: speakers
   - name: sponsor
   # - name: cancellation
   - name: contact
@@ -53,39 +52,60 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Thomas Krag"
+    linkedin: "https://www.linkedin.com/in/vikingops/"
     twitter: "vikingopsio"
   - name: "Harm Boertien"
+    linkedin: "https://www.linkedin.com/in/harmboertien/"
     twitter: "Harm_Ops"
-  - name: "Gérard de Vos"
-    twitter: "gerardthefox"
-  - name: "Peter Nijenhuis"
-    twitter: "Peter_Nijenhuis"
-  - name: "Chris Lennon"
-    twitter: "cdlennon"
   - name: "Daniel Paulus"
+    linkedin: "https://www.linkedin.com/in/danielpaulus/"
     twitter: "dpnl87"
   - name: "Sheela Nistala"
+    linkedin: "https://www.linkedin.com/in/sheelanistala/"
     twitter: "sheelanistala"
-  - name: "Sean Bovaird"
-    twitter: "srbovaird"
   - name: "Floor Drees"
+    linkedin: "https://www.linkedin.com/in/floordrees/"
     twitter: "FloorDrees"
   - name: "Daniela Resch"
+    linkedin: "https://www.linkedin.com/in/danielaresch/"
   - name: "Walter Heck"
+    linkedin: "https://www.linkedin.com/in/walterheck/"
     twitter: "walterheck"
+  - name: "Joep Piscaer"
+    linkedin: "https://www.linkedin.com/in/jpiscaer"
+    twitter: "jpiscaer"
 
 organizer_email: "amsterdam@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
-sponsors:
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors:
+  # Media
+  - id: helecloud
+    level: media
+  # Gold
+  - id: microsoft
+    level: gold
+  - id: schubergphilis
+    level: gold
+  - id: contrast_security
+    level: gold
+  # Silver
+  - id: container-solutions
+    level: silver
+  # Bronze
+  - id: fullstaq
+    level: bronze
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: media
+    label: Media
+    max: "1"
   - id: gold
     label: Gold
     max: "3"
@@ -95,3 +115,178 @@ sponsor_levels:
   - id: bronze
     label: Bronze
     max: "10"
+
+program:
+  ## keynotes
+  - title: "Opening Welcome"
+    type: custom
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "09:00"
+    end_time: "09:15"
+
+  - title: "michael-ducy"
+    type: talk
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "09:15"
+    end_time: "09:45"
+
+  - title: "abel-wang"
+    type: talk
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "09:50"
+    end_time: "10:20"
+
+  - title: "break"
+    type: custom
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "10:20"
+    end_time: "10:30"
+
+  - title: "april-edwards"
+    type: talk
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "10:30"
+    end_time: "11:00"
+
+  - title: "henk-van-der-schuur"
+    type: talk
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "11:00"
+    end_time: "11:30"
+
+  - title: "Lunch"
+    type: custom
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "11:50"
+    end_time: "12:10"
+  - title: "Open spaces introduction and explanation"
+    type: open-space
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "11:50"
+    end_time: "12:30"
+    backgroud_color: "#ffb566"
+
+  ### Multi track start
+
+  - title: "Open Space slot one"
+    type: open-space
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "12:15"
+    end_time: "12:45"
+    backgroud_color: "#ffb566"
+
+  - title: "edward-pearson"
+    type: workshop
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "12:15"
+    end_time: "12:45"
+    comments: "Business Track"
+
+  - title: "melanie-rieback"
+    type: talk
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "12:15"
+    end_time: "12:45"
+    comments: "Security Track"
+
+  - title: "break"
+    type: custom
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "12:45"
+    end_time: "13:00"
+
+  - title: "Open Space slot two"
+    type: open-space
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "13:00"
+    end_time: "13:30"
+    backgroud_color: "#ffb566"
+
+  - title: "dave-van-herpen"
+    type: workshop
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "13:00"
+    end_time: "13:30"
+    comments: "Business Track"
+
+  - title: "irenne-zbarsky"
+    type: talk
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "13:00"
+    end_time: "13:30"
+    comments: "Security Track"
+
+  - title: "Open Space slot three"
+    type: open-space
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "13:30"
+    end_time: "14:00"
+    backgroud_color: "#ffb566"
+
+  - title: "lian-li"
+    type: workshop
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "13:30"
+    end_time: "14:00"
+    comments: "Business Track"
+
+  - title: "sarah-polan"
+    type: talk
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "13:30"
+    end_time: "14:00"
+    comments: "Security Track"
+
+  - title: "break"
+    type: custom
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "14:00"
+    end_time: "14:15"
+
+  - title: "Open Space slot four"
+    type: open-space
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "14:15"
+    end_time: "14:45"
+    backgroud_color: "#ffb566"
+    comments: "Business Track"
+
+  - title: "joao-rosa"
+    type: workshop
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "14:15"
+    end_time: "15:45"
+
+  - title: "daphne-ma"
+    type: talk
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "14:15"
+    end_time: "14:45"
+    comments: "Security Track"
+
+  - title: "Open Space slot five"
+    type: open-space
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "14:45"
+    end_time: "15:15"
+    backgroud_color: "#ffb566"
+
+  - title: "mark-smalley"
+    type: workshop
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "14:45"
+    end_time: "15:15"
+    comments: "Business Track"
+
+  - title: "karen-sijbrandij"
+    type: talk
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "14:45"
+    end_time: "15:15"
+    comments: "Security Track"
+
+  - title: "Emcees looking back, with Nathen Harvey"
+    type: custom
+    date: 2020-07-09T00:00:00+02:00
+    start_time: "15:20"
+    end_time: "15:50"

@@ -2,7 +2,7 @@ name: "2020-houston" # The name of the event. Four digit year with the city name
 year: "2020" # The year of the event. Make sure it is in quotes.
 city: "Houston" # The displayed city name of the event. Capitalize it.
 event_twitter: "DevOpsDaysHTown" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "Devopsdays is returning to Houston!" # Edit this to suit your preferences
+description: "While our 2020 event will no longer happen, we will return in 2021." # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2020-MM-DDTHH:MM:SS+TZ:TZ, like this:
@@ -10,13 +10,15 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2020-01-05T23:59:59+02:00
 # Note: we allow 2020-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate:  2020-08-18T00:00:00-05:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  2020-08-19T23:59:59-05:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate:  
+enddate:  
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  2019-10-01T00:00:00-06:00 # start accepting talk proposals.
-cfp_date_end:  2020-01-15T00:00:00-06:00 # close your call for proposals.
-cfp_date_announce:  2020-02-15T00:00:00-06:00 # inform proposers of status
+cfp_date_start:  
+cfp_date_end:  
+cfp_date_announce:  
+
+cancel: "true"
 
 cfp_open: "true"
 cfp_link: "https://www.papercall.io/devopsdayshouston2020" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
@@ -24,27 +26,19 @@ cfp_link: "https://www.papercall.io/devopsdayshouston2020" #if you have a custom
 registration_date_start: "2019-09-15T00:00:00-06:00" # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: "2020-08-18T00:00:00-05:00" # close registration. Leave blank if registration is not open yet.
 
-registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "https://www.eventbrite.com/e/devopsdays-houston-2020-tickets-71596353621" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_closed: 
+registration_link: 
 sharing_image: "sharing.jpg"
 # Location
 #
-coordinates: "29.780910, -95.560937" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Houston - CityCentre - Norris Conference Centers" # Defaults to city, but you can make it the venue name.
+coordinates: 
+location: 
 #
 location_address: "816 Town and Country Blvd #210, Houston, TX 77024" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
-    url: "https://www.papercall.io/devopsdayshouston2020"
-  - name: location
-  - name: registration
-  - name: program
-  - name: speakers
-  - name: sponsor
   - name: contact
   - name: conduct
-  - name: faq
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -108,7 +102,7 @@ organizer_email: "houston@devopsdays.org" # Put your organizer email address her
 sponsors:
   - id: gitlab
     level: gold
-  - id: launch-darkly
+  - id: launch-darkly-before-20200828
     level: gold
   - id: twosigma
     level: gold
@@ -156,7 +150,7 @@ sponsors:
   - id: dynatrace
     level: gold
     
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
