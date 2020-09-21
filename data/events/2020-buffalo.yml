@@ -26,6 +26,9 @@ registration_date_end: 2020-10-01T11:59:59-05:00 # close registration. Leave bla
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://ti.to/devops-days-buffalo/2020" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
+masthead_background: "buffalo-skyline.jpg"
+sharing_image: "sharing.png"
+
 # Location
 #
 location: "Online"
@@ -123,8 +126,8 @@ sponsor_levels:
   - id: silver
     label: Silver
     max: 0 # This is the same as omitting the max limit.
-  - id: bronze
-    label: Bronze
+#  - id: bronze
+#    label: Bronze
   - id: community
     label: Community
 
