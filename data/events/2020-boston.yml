@@ -127,6 +127,10 @@ sponsors:
     level: platinum
   - id: elastic
     level: gold
+  - id: microsoft
+    level: platinum
+  - id: stackhawk
+    level: startup
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -154,8 +158,8 @@ program:
     date: 2020-09-29
     start_time: "09:00"
     end_time: "09:20"
-  - title: "Keynote"
-    type: custom
+  - title: "john-willis"
+    type: talk
     date: 2020-09-29
     start_time: "09:20"
     end_time: "10:00"

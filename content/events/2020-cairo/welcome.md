@@ -9,9 +9,14 @@ Description = "DevOpsDays Cairo 2020"
 <p><span style="color: #ff0000;"><strong>DevOps Amid COVID-19!</strong></span></p>
 
 <p>
-DevOpsDays Cairo is a one-day event addressing “DevOps Amid COVID-19” that will be held Online this year to the current pandemic.  
+DevOpsDays Cairo is a one-day event addressing “DevOps Amid COVID-19”.  
 <br>
-You can learn and share your knowledge with the people from all around the world while enjoying great culture in Egypt.  This year, SECC/ITIDA are organizing DevOpsDays Cairo 2020 in cooperation with DXC Technology, IBM Egypt and Orange Labs. </p> 
+For the 3rd consecutive year, SECC/ITIDA are organizing DevOpsDays Cairo 2020 in cooperation with DXC Technology, IBM Egypt and Orange Labs. </p> 
+
+
+<p>But this time we will bring it to you ONLINE due to the current situation of the pandemic, and <strong><a href="https://www.secc.org.eg/Event_Registration.asp" rel="noopener noreferrer" target="_blank">FREE to ALL! Register Now!</strong></a></p>
+
+<p>Just "Like" our <a href="https://www.facebook.com/SECC.Egypt/" rel="noopener noreferrer" target="_blank">Facebook page</a>, adjust your calender/notifications, and Watch Us Live Here&nbsp;<a href="https://www.facebook.com/SECC.Egypt/" rel="noopener noreferrer" target="_blank">https://www.facebook.com/SECC.Egypt/</a> on September 21<sup>st</sup>, at 3:00 pm &ndash; 8:00 pm (Cairo Local Time)</p>
 <p>
   We are pleased to announce that one of our Keynote speakers will be <strong>Andrew Clay Shafer</strong>, and <strong>Matt Stratton</strong> with other DevOps Heroes. 
   <img src="https://assets.podomatic.net/ts/7e/ff/df/jaydestro73507/640x640_13381982.jpg" height="200" align="right" border="0">
@@ -32,7 +37,7 @@ Matt is a global organizer of the DevOpsDays set of conferences.
 </p>
 
 
-<p>The event is for <strong>FREE</strong></p>
+
   
 </div>
 <div style="text-align:center;">

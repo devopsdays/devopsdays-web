@@ -26,6 +26,9 @@ registration_date_end: 2020-10-01T11:59:59-05:00 # close registration. Leave bla
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://ti.to/devops-days-buffalo/2020" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
+masthead_background: "buffalo-skyline.jpg"
+sharing_image: "sharing.png"
+
 # Location
 #
 location: "Online"
@@ -107,6 +110,8 @@ sponsors:
     level: gold
   - id: bcbswny
     level: gold
+  - id: microsoftazure
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -121,10 +126,11 @@ sponsor_levels:
   - id: silver
     label: Silver
     max: 0 # This is the same as omitting the max limit.
-  - id: bronze
-    label: Bronze
+#  - id: bronze
+#    label: Bronze
   - id: community
     label: Community
+
 program:
   - title: "Chat and Coffee Meetings"
     type: custom
@@ -136,18 +142,18 @@ program:
     date: 2020-10-01T00:08:00-04:00
     start_time: "08:45"
     end_time: "09:00"
-  - title: "DevOps Patterns and Antipatterns for Continuous Software Updates - Baruch Sadogursky and Kat Cosgrove"
-    type: custom
+  - title: "baruch-sadogursky-kat-cosgrove"
+    type: talk
     date: 2020-10-01T00:08:00-04:00
     start_time: "09:00"
     end_time: "09:35"
-  - title: "COBOL on Kubernetes - JJ Ashgar"
-    type: custom
+  - title: "jj-asghar"
+    type: talk
     date: 2020-10-01T00:08:00-04:00
     start_time: "09:45"
     end_time: "10:20"
-  - title: "Addressing Cloud Security with Open Policy Agent (OPA) - Josh Stella"
-    type: custom
+  - title: "josh-stella"
+    type: talk
     date: 2020-10-01T00:08:00-04:00
     start_time: "10:30"
     end_time: "11:05"
@@ -156,8 +162,8 @@ program:
     date: 2020-10-01T00:08:00-04:00
     start_time: "11:10"
     end_time: "11:15"
-  - title: "Achieving Inclusivity Through Remote Work - Jameson Hampton"
-    type: custom
+  - title: "jameson-hampton"
+    type: talk
     date: 2020-10-01T00:08:00-04:00
     start_time: "11:15"
     end_time: "11:50"
@@ -166,13 +172,13 @@ program:
     date: 2020-10-01T00:08:00-04:00
     start_time: "11:50"
     end_time: "13:30"
-  - title: "CI/CD Agility and Controlling Pipeline Sprawl - Angel Rivera"
-    type: custom
+  - title: "angel-rivera"
+    type: talk
     date: 2020-10-01T00:08:00-04:00
     start_time: "13:30"
     end_time: "14:50"
-  - title: "SRE Role in a Mature DevOps Organization - Ana Auxiliadora Lebrón Moreno"
-    type: custom
+  - title: "ana-auxiliadora-lebron-moreno"
+    type: talk
     date: 2020-10-01T00:08:00-04:00
     start_time: "15:00"
     end_time: "15:35"
@@ -181,8 +187,8 @@ program:
     date: 2020-10-01T00:08:00-04:00
     start_time: "15:40"
     end_time: "16:00"
-  - title: "How I unintentionally patched all of Target's edge servers during the day without impact - Stephanie Culver"
-    type: custom
+  - title: "ben-ellerby"
+    type: talk
     date: 2020-10-01T00:08:00-04:00
     start_time: "16:05"
     end_time: "16:40"

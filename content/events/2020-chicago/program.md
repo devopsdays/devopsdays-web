@@ -7,4 +7,4 @@ icons = "TRUE"
 
 ### All times are CDT
 
-All talks can be viewed at [https://live.devopsdayschi.org](live.devopsdayschi.org).
+All talks can be viewed at [live.devopsdayschi.org](https://live.devopsdayschi.org).
