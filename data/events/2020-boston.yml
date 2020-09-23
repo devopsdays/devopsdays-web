@@ -165,7 +165,7 @@ program:
     date: 2020-09-29
     start_time: "09:20"
     end_time: "10:00"
-  - title: "talia-nassi"
+  - title: "jason-malstrom"
     type: talk
     date: 2020-09-29
     start_time: "10:00"
@@ -185,7 +185,7 @@ program:
     date: 2020-09-29
     start_time: "12:00"
     end_time: "12:40"
-  - title: "jason-malstrom"
+  - title: "talia-nassi"
     type: talk
     date: 2020-09-29
     start_time: "12:40"
