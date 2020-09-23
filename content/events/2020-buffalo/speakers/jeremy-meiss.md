@@ -3,7 +3,7 @@ Title = "Jeremy Meiss"
 Twitter = "IAmJerdog"
 image = "jeremy-meiss.jpg"
 type = "speaker"
-linktitle = "ben-ellerby"
+linktitle = "jeremy-meiss"
 website = "https://jmeiss.me"
 
 +++
