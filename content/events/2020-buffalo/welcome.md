@@ -59,7 +59,7 @@ Description = "DevOpsDays Buffalo is back!  This year, we're holding a single-da
 <div class="sidebar">
 <h2>Register Today!</h2>
 <p>Tickets are just $25!</p>
-<p><a><button>Get Your Ticket</button></a></p>
+<p><a href="https://ti.to/devops-days-buffalo/2020"><button>Get Your Ticket</button></a></p>
 
 <h2>Let's Talk About COVID-19</h2>
 <p>Due to the current COVID-19 guidelines around local,
