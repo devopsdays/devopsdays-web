@@ -173,11 +173,11 @@ program:
     type: custom
     date: 2020-10-01T00:08:00-04:00
     start_time: "11:50"
-    end_time: "13:30"
+    end_time: "14:05"
   - title: "angel-rivera"
     type: talk
     date: 2020-10-01T00:08:00-04:00
-    start_time: "13:30"
+    start_time: "14:15"
     end_time: "14:50"
   - title: "ana-auxiliadora-lebron-moreno"
     type: talk
