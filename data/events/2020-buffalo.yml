@@ -102,6 +102,8 @@ organizer_email: "buffalo@devopsdays.org" # Put your organizer email address her
 sponsors:
   - id: devrelate
     level: community
+  - id: huntproductions
+    level: community
   - id: gitlab
     level: silver
   - id: torchio
@@ -113,6 +115,8 @@ sponsors:
   - id: bcbswny
     level: gold
   - id: microsoftazure
+    level: gold
+  - id: scout
     level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
