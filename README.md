@@ -4,7 +4,7 @@
 
 # devopsdays-web
 
-This is the repo for managing [devopsdays.org](http://www.devopsdays.org).
+This is the repository for managing [devopsdays.org](http://www.devopsdays.org).
 
 ## Managing your event content
 
