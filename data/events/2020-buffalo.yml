@@ -205,3 +205,10 @@ program:
     date: 2020-10-01T00:08:00-04:00
     start_time: "16:40"
     end_time: "17:00"
+  - title: "DevOps Party Games Show"
+    type: custom
+    date: 2020-10-01
+    start_time: "18:00"
+    end_time: "19:00"
+    custom_url: "https://twitch.tv/mattstratton"
+    comments: "Tune in to watch the DevOpsDays Buffalo organizers face off against the DevOpsDays Boston organizing team in a fun game show!"
