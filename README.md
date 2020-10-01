@@ -26,9 +26,9 @@ The technical details for contributing to the site-wide theme's development are 
 
 ## Reporting problems & feature requests
 
-If you discover a problem with the site that isn't specific to an event's content, please [open an issue](https://github.com/devopsdays/devopsdays-web/issues/new) and prepend the title with `[BUG]`.
+* If you discover a problem with the site that isn't specific to an event's content, please [open an issue](https://github.com/devopsdays/devopsdays-web/issues/new) and prepend the title with `[BUG]`.
 
-If there is a feature that you would like to see, please [open an issue](https://github.com/devopsdays/devopsdays-web/issues/new) and prepend the title with `[ENHANCEMENT]`.
+* If there is a feature that you would like to see, please [open an issue](https://github.com/devopsdays/devopsdays-web/issues/new) and prepend the title with `[ENHANCEMENT]`.
 
-If you would like to help prioritize enhancements, please upvote the original issue by [adding a reaction](https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments).
+* If you would like to help prioritize enhancements, please upvote the original issue by [adding a reaction](https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments).
 
