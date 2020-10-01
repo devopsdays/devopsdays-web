@@ -11,7 +11,7 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 # Note: we allow 2020-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
 startdate: 2020-10-01T00:08:00-04:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2020-10-01T00:17:00-04:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2020-10-01T19:00:00-04:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  2020-01-10T23:59:59-05:00 # start accepting talk proposals.
@@ -205,3 +205,10 @@ program:
     date: 2020-10-01T00:08:00-04:00
     start_time: "16:40"
     end_time: "17:00"
+  - title: "DevOps Party Games Show"
+    type: custom
+    date: 2020-10-01T00:08:00-04:00
+    start_time: "18:00"
+    end_time: "19:00"
+    custom_url: "https://twitch.tv/mattstratton"
+    comments: "Tune in to watch the DevOpsDays Buffalo organizers face off against the DevOpsDays Boston organizing team in a fun game show!"
