@@ -1,6 +1,6 @@
 +++
 title = "Jay Gordon"
-image = "jay-gordon.png"
+image = "jay-gordon.jpg"
 linktitle = "jay-gordon"
 twitter = "jaydestro"
 website = "https://developer.microsoft.com/en-us/advocates/jay-gordon"
