@@ -3,7 +3,7 @@ year: "2020" # The year of the event. Make sure it is in quotes.
 city: "Boston" # The displayed city name of the event. Capitalize it.
 event_logo: "logo-square.png"
 event_twitter: "devopsdaysbos" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "<h3>It's a wrap for this year! <a style=\"text-decoration: underline; color: black;\" href=\"https://www.youtube.com/watch?v=WyY-UGtnM_E&list=PLKOXVA7dUqS94N2rBP0YwaPwfd83VvUf_\">Click here for all of the videos!</a></h3>" # Special CSS because the link color is the same as the background gradient color
+description: "DevOpsDays is returning to Boston!" # Edit this to suit your preferences
 ga_tracking_id: "UA-137417319-4" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
