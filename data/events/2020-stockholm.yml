@@ -69,11 +69,6 @@ team_members: # Name is the only required field for team members.
     website: "http://jessabe.com/"
     linkedin: "https://www.linkedin.com/in/jessica-b-6b76b755/"
     employer: Gin & Juice
-  - name: "Johan Virtanen"
-    twitter: "Jo_Virtanen"
-    employer: Praqma
-    linkedin: "https://www.linkedin.com/in/johanvirtanen"
-    image: "johan-virtanen.jpg"
   - name: "Jonas Linde"
     twitter: "kraaakan"
     github: "krakan"
@@ -93,11 +88,6 @@ team_members: # Name is the only required field for team members.
     employer: "EA"
     twitter: "markltbaker"
     image: "mark-baker.jpg"
-  - name: "Matthias Grüter"
-    image: "matthias-gruter.jpg"
-    employer: "Spotify"
-    twitter: "mattgruter"
-    linkedin: "https://www.linkedin.com/in/grueter/"
   - name: "Tony Collander"
     employer: "Valtech"
     twitter: "tonycollander"
