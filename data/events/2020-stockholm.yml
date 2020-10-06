@@ -223,7 +223,7 @@ program:
     date: 2020-10-12
     start_time: "16:00"
     end_time: "16:10"
-  - title: "tbd"
+  - title: "kristian-larsson"
     type: talk
     date: 2020-10-12
     start_time: "16:10"
@@ -252,5 +252,5 @@ ignites:
     date: 2020-10-12
   - title: "jay-gordon"
     date: 2020-10-12
-  - title: "tbd"
+  - title: "clarissa-rodrigues"
     date: 2020-10-12
