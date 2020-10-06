@@ -1,7 +1,5 @@
 +++
 Talk_date = "2020-10-12"
-Talk_start_time = ""
-Talk_end_time = ""
 Title = "Value Streams - The forgotten way of DevOps Flow?"
 Type = "talk"
 Speakers = ["fredrik-viljesjö"]

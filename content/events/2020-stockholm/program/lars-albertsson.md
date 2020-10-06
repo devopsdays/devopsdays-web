@@ -1,7 +1,5 @@
 +++
 Talk_date = "2020-10-12"
-Talk_start_time = ""
-Talk_end_time = ""
 Title = "The right side of speed - learning to shift left"
 Type = "talk"
 Speakers = ["lars-albertsson"]
