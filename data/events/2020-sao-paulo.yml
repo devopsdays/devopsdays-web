@@ -12,8 +12,8 @@ event_group: "São Paulo"
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2020-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate:  2020-12-03T00:09:00-03:00
-enddate:  2020-12-04T18:00:00-03:00
+startdate:  2020-11-24T00:09:00-03:00
+enddate:  2020-11-24T18:00:00-03:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  # start accepting talk proposals.
@@ -27,13 +27,13 @@ registration_date_start:  # start accepting registration. Leave blank if registr
 registration_date_end:  # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "https://www.sympla.com.br/devopsdays-sao-paulo-2019__377415" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.sympla.com.br/devopsdays-sao-paulo-2020---online__1010547" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
-coordinates: -23.572149, -46.653225 # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Hotel Pestana São Paulo " # Defaults to city, but you can make it the venue name.
-location_address: "R. Tutóia, 77 - Paraíso - São Paulo" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+#coordinates: -23.572149, -46.653225 # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Online " # Defaults to city, but you can make it the venue name.
+#location_address: "R. Tutóia, 77 - Paraíso - São Paulo" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
@@ -46,18 +46,20 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     url: https://www.sympla.com.br/devopsdays-sao-paulo-2020__781261
   - name: local
     url: /events/2020-sao-paulo/local
-    icon: "map-o" 
-  - name: patrocínio
-    url: /events/2020-sao-paulo/sponsor
-    icon: "money"
+  #- name: Evento Online
+  #  url: /events/2020-sao-paulo/virtual-event
+  #  icon: "map-o" 
+  #- name: patrocínio
+  #  url: /events/2020-sao-paulo/sponsor
+  #  icon: "money"
   - name: contato
     url: /events/2020-sao-paulo/contato
     icon: "envelope-o"
   - name: código de conduta
     url: /events/2020-sao-paulo/conduta
     icon: "handshake-o"
-  - name: Chamadas (CFP)
-    url: /events/2020-sao-paulo/cfp    
+  #- name: Chamadas (CFP)
+  #  url: /events/2020-sao-paulo/cfp    
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -66,14 +68,14 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Fernando Ike"
-    employer: "Maburix"
+    employer: "Zup Innovation"
     image: "fernando-ike.jpg"
     twitter: "fernandoike"
     bio: "Some years working as IT Manager, sysadmin and pseudo-developer, Co-host of 10Deploys podcast and zombie hunter."
     linkedin: "https://www.linkedin.com/in/fernandoike/"
 
   - name: "Rafael Zago"
-    employer: "IBM"
+    employer: "E-core"
     image: "rafael-zago.jpg"
     twitter: "rafaelvzago"
     bio: "A bearded open source evangelist SysAdmin and cloud architect who has lived long enough to realize that I have much to learn"
