@@ -32,7 +32,7 @@ registration_link: "https://www.sympla.com.br/devopsdays-sao-paulo-2020---online
 # Location
 #
 #coordinates: -23.572149, -46.653225 # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Online " # Defaults to city, but you can make it the venue name.
+# location: "Online " # Defaults to city, but you can make it the venue name.
 #location_address: "R. Tutóia, 77 - Paraíso - São Paulo" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
