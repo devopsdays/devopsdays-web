@@ -27,7 +27,7 @@ Description = "DevOpsDays São Paulo será uma experiência virtual de um dia, o
         </a>
       </div>
       <div class = "d-flex p-2">
-        <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://www.sympla.com.br/devopsdays-sao-paulo-2020__781261">
+        <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://www.sympla.com.br/devopsdays-sao-paulo-2020---online__1010547">
           <i class="fa fa-user-plus fa-lg"></i>&nbsp;&nbsp;&nbsp;Se Inscreva Agora!
         </a>
     </div>
