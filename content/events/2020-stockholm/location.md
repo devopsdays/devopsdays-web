@@ -25,13 +25,13 @@ couple of text based chat channels as well.
 
 ##### Presentations
 
-Our three main talks and the five ignites will be held as a Zoom webinar
+Our two main talks and the four ignites will be held as a Zoom webinar
 and should also be available on Youtube after the event. We'll post the
 links here and in the Discord
 <a href="https://discord.gg/ES5h8jv">#announcements</a> channel as soon as
 we have them.
 
-##### Open space topics and Voting
+##### Open space topics and voting
 
 The topics for the Open Space discussions will be presented in Miro -
 and we'll also do the dot-voting there. A link to the Miro board will be
