@@ -209,29 +209,11 @@ program:
     date: 2020-10-12
     start_time: "15:30"
     end_time: "16:00"
-  - title: "Break"
-    date: 2020-10-12
-    start_time: "16:00"
-    end_time: "16:10"
-  - title: "kristian-larsson"
-    type: talk
-    date: 2020-10-12
-    start_time: "16:10"
-    end_time: "16:40"
-  - title: "Breakout discussions 3"
-    type: custom
-    date: 2020-10-12
-    start_time: "16:40"
-    end_time: "17:00"
-  - title: "Break"
-    date: 2020-10-12
-    start_time: "17:00"
-    end_time: "17:10"
   - title: "Day One Closing"
     type: custom
     date: 2020-10-12
-    start_time: "17:10"
-    end_time: "17:20"
+    start_time: "16:00"
+    end_time: "16:10"
 
 ignites:
   - title: "gil-zellner"
@@ -241,6 +223,4 @@ ignites:
   - title: "tommy-adams"
     date: 2020-10-12
   - title: "jay-gordon"
-    date: 2020-10-12
-  - title: "clarissa-rodrigues"
     date: 2020-10-12
