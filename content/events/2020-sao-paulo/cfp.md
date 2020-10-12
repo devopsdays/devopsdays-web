@@ -21,7 +21,7 @@ Follow the instructions on: [http://bit.ly/dodsp-cfp-2020-en](http://bit.ly/dods
 
 Há três tipos de de apresentações no DevOpsDays:
 <ol>
-  <li>Palestra de 20 minutos (<strong><em>25-minute-talk</em></strong>) apresentadas durante a conferência.</li>
+  <li>Palestra de 20 minutos (<strong><em>20-minute-talk</em></strong>) apresentadas durante a conferência.</li>
   <li>Uma Ignite (<strong><em>ignite-talk</em></strong>) apresentada durante a <a href="/pages/ignite-talks-format">sessão Ignite (inglês)</a>. São slots de 5 minutos no qual os slides são alterados a cada 15 segundos (20 slides no total).</li>
   <li><strong><em>Open Space</em></strong>: Se você gostaria de coordenar um grupo de discussão durante o evento, poderá fazê-lo numa sessão Open Space. Não é necessário propor antes da conferência. Os tópicos são sugeridos durante a conferência. Se você quiser mostrar um produto ou serviço, você poderá fazê-lo como <a href="../patrocinio">patrocinador </a>e mostrar uma demo na mesa respectiva dos patrocinadores.</li>
 </ol>
