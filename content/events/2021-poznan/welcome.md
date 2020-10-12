@@ -1,8 +1,8 @@
 +++
-Title = "devopsdays Poznań 2020"
+Title = "devopsdays Poznań 2021"
 Type = "welcome"
 aliases = ["/events/2021-poznan/"]
-Description = "devopsdays Poznań 2020"
+Description = "devopsdays Poznań 2021"
 +++
 
 <h3> {{< event_start >}} </h3>
