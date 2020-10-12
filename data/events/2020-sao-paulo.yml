@@ -71,7 +71,7 @@ team_members: # Name is the only required field for team members.
     employer: "Zup Innovation"
     image: "fernando-ike.jpg"
     twitter: "fernandoike"
-    bio: "CTO for startup, IT Manager, sysadmin and pseudo-developer, host of PotnoCafe podcast and zombie hunter."
+    bio: "CTO for startup, IT Manager, sysadmin and pseudo-developer, host of PontoCafé podcast and zombie hunter."
     linkedin: "https://www.linkedin.com/in/fernandoike/"
 
   - name: "Rafael Zago"
