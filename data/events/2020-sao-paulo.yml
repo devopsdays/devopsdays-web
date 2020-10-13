@@ -49,9 +49,9 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   #- name: Evento Online
   #  url: /events/2020-sao-paulo/virtual-event
   #  icon: "map-o" 
-  #- name: patrocínio
-  #  url: /events/2020-sao-paulo/sponsor
-  #  icon: "money"
+  - name: patrocínio
+    url: /events/2020-sao-paulo/sponsor
+    icon: "money"
   - name: contato
     url: /events/2020-sao-paulo/contato
     icon: "envelope-o"
