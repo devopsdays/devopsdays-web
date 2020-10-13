@@ -67,6 +67,13 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
+  - name: "Mônica Cachoni"
+    employer: "Runner's IT"
+    image: "monica-cachoni.jpg"
+    twitter: "modearruda"
+    bio: "QA Engineer, DevOps Enthusiastic, Algorithms Researcher, mother and marathoner at free times."
+    linkedin: "https://www.linkedin.com/in/monicacachoni/"
+
   - name: "Fernando Ike"
     employer: "Zup Innovation"
     image: "fernando-ike.jpg"
@@ -78,11 +85,27 @@ team_members: # Name is the only required field for team members.
     employer: "E-core"
     image: "rafael-zago.jpg"
     twitter: "rafaelvzago"
-    bio: "A bearded open source evangelist SysAdmin and cloud architect who has lived long enough to realize that I have much to learn"
-    linkedin: "https://www.linkedin.com/in/rafaelvzago"
+    bio: "A bearded open source evangelist, sysadmin and cloud architect who has lived long enough to realize that has much more to learn."
+    linkedin: "https://www.linkedin.com/in/rafaelvzago/"
     github: "rafaelvzago"
     website: "http://rafaelvzago.com"
 
+  - name: "Marco Antonio Martins Junior (Somatório)"
+    employer: "Compasso"
+    image: "marco-junior.jpg"
+    twitter: "somatorio"
+    bio: "Peão as a Service, entusiasta da cultura DevOps, Docker community leader (Porto Alegre), fuçador convicto, roda praticamente tudo em containers, jogador noob (sim, tudo no easy) sempre que tem a chance"
+    linkedin: "https://www.linkedin.com/in/somatorio/"
+    github: "somatorio"
+    facebook: "https://facebook.com/osomatorio"
+    website: "http://somatorio.org"
+
+  - name: "Diego de Souza"
+    employer: "TV Globo"
+    image: "diego-souza.jpg"
+    bio: "A passionate supporter of devops culture, learning more and more with this community!"
+    linkedin: "https://www.linkedin.com/in/dsouzasccp/"
+ 
   - name: "Lisandra Rocha"
     employer: "GFT"
     image: "lisandra-rocha.jpg"
@@ -102,28 +125,14 @@ team_members: # Name is the only required field for team members.
     bio: "IT guy, used to be a drummer, loves to fly, father, speaker, author, coffee and Pizza addicted"
     linkedin: "https://www.linkedin.com/in/wfsilva/"
   
-  - name: "Diego de Souza"
-    employer: "TV Globo"
-    image: "diego-souza.jpg"
-    bio: "A passionate supporter of devops culture, learning more and more with this community!"
-    linkedin: "https://www.linkedin.com/in/dsouzasccp/"
-  
+ 
   - name: "Taiana Nunes"
     employer: "SOMOS Educacao"
     image: "taiana-nunes.jpg"
     bio: "QA analyst, learning automation, mother, Candy Crush addict and beer lover."
     linkedin: "https://www.linkedin.com/in/taiananunes/"
     
-  - name: "Marco Antonio Martins Junior (Somatório)"
-    employer: "Compasso"
-    image: "marco-junior.jpg"
-    twitter: "somatorio"
-    bio: "Peão as a Service, entusiasta da cultura DevOps, Docker community leader (Porto Alegre), fuçador convicto, roda praticamente tudo em containers, jogador noob (sim, tudo no easy) sempre que tem a chance"
-    linkedin: "https://www.linkedin.com/in/somatorio/"
-    github: "somatorio"
-    facebook: "https://facebook.com/osomatorio"
-    website: "http://somatorio.org"
-
+  
 organizer_email: "sao-paulo@devopsdays.org" # NEW email format. Put your organizer email address here
 # proposal_email: "proposals-sao-paulo-2020@devopsdays.org" # DEPRECATED, no longer used. Put your proposal email address here
 

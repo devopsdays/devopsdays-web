@@ -22,7 +22,7 @@ Description = "DevOpsDays São Paulo será uma experiência virtual de um dia, o
   <div class = "col-md-12">
     <div class = "row justify-content-center">
       <div class = "d-flex p-2">
-        <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="/events/2020-sao-paulo/contact">
+        <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="/events/2020-sao-paulo/contato">
           <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Fale com a Organização
         </a>
       </div>
