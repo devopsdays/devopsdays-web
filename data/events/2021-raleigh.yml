@@ -34,11 +34,11 @@ location: "McKimmon Conference & Training Center" # Defaults to city, but you ca
 location_address: "1101 Gorman Street, Raleigh, NC 27606" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-   - name: propose
-     url: "https://docs.google.com/forms/d/e/1FAIpQLSeobhePrK8d6t3AcUSaxdHstLaCba3Ey5UFbPV4ego4R11hMQ/viewform"
-   - name: location
-   - name: registration
-     url: "https://www.eventbrite.com/e/devopsdays-raleigh-2021-tickets-124429360567"
+  - name: propose
+    url: "https://docs.google.com/forms/d/e/1FAIpQLSeobhePrK8d6t3AcUSaxdHstLaCba3Ey5UFbPV4ego4R11hMQ/viewform"
+  - name: location
+  - name: registration
+    url: "https://www.eventbrite.com/e/devopsdays-raleigh-2021-tickets-124429360567"
  # - name: program
  # - name: speakers
   - name: sponsor
