@@ -12,7 +12,7 @@ DevopsDaysRDU are planning on having this event in person, but DevopsDaysRDU wil
 Free parking available in labeled visitor lots.
 
 <!-- Uncomment this only if you have set the coordinates for your location in the config yaml. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html -->
-<!-- {{< event_map >}} -->
+{{< event_map >}}
 
 <!-- Edit and uncomment to let people know what accessibility features you have available -->
 <!-- 
