@@ -1,7 +1,7 @@
 +++
 Title = "devopsdays Poznań 2020"
 Type = "welcome"
-aliases = ["/events/2021-poznan/"]
+aliases = ["/events/2020-poznan/"]
 Description = "devopsdays Poznań 2020"
 +++
 
