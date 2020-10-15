@@ -40,7 +40,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: location
  # - name: registration
   - name: Programação
-    url: /events/2020-sao-paulo/programacao
+    url: /events/2020-sao-paulo/program
  #- name: speakers
   - name: ingressos
     icon: "pencil"
