@@ -11,7 +11,7 @@ Description = "DevOpsDays São Paulo será uma experiência virtual de um dia, o
   <div class = "col-md-12 push-md-12">
     <p class="btn btn-primary btn-block" style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;">DevOpsDays São Paulo agora é Online!</p>
     
-  Devido ao COVID-19 e aos riscos para a saúde de uma conferência pessoal, DevOpsDays São Paulo 2020 será agora um dia [evento virutal]() e vai acontecer no dia 24 de Novembro de 2020.
+  Devido ao COVID-19 e aos riscos para a saúde de uma conferência pessoal, DevOpsDays São Paulo 2020 será agora um dia [evento virtual]() e vai acontecer no dia 24 de Novembro de 2020.
 
   <h3>O DevOpsDays virá para São Paulo em 2020!</h3>
   <p>Teremos de volta em São Paulo o DevOpsDays. Será uma ótima oportunidade de compartilhar conhecimento e histórias, de socializar, rever colegas, fazer novos amigos, aprender, ensinar e promover nossa grande e crescente comunidade.</p>
