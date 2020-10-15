@@ -39,8 +39,9 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: propose
  # - name: location
  # - name: registration
- # - name: program
- # - name: speakers
+  - name: Programação
+    url: /events/2020-sao-paulo/program
+ #- name: speakers
   - name: ingressos
     icon: "pencil"
     url: https://www.sympla.com.br/devopsdays-sao-paulo-2020---online__1010547
@@ -166,3 +167,147 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+
+program:
+  - title: "Abertura"
+    type: custom
+    date: 2020-11-24
+    start_time: "09:35"
+    end_time: "09:55"
+  - title: "Palestra"
+    type: talk
+    date: 2020-11-24
+    start_time: "10:15"
+    end_time: "10:35"
+  - title: "Fireside"
+    type: custom
+    date: 2020-11-24
+    start_time: "10:15"
+    end_time: "10:35"
+  - title: "Openspace/Breakout"
+    type: custom
+    date: 2020-11-24
+    start_time: "10:15"
+    end_time: "10:35"
+  - title: "Break"
+    type: open-space
+    date: 2020-11-24
+    start_time: "10:35"
+    end_time: "10:50"
+  - title: "Palestra"
+    type: talk
+    date: 2020-11-24
+    start_time: "10:50"
+    end_time: "11:10"
+  - title: "Fireside"
+    type: custom
+    date: 2020-11-24
+    start_time: "11:10"
+    end_time: "11:30"
+  - title: "Openspace/Breakout"
+    type: custom
+    date: 2020-11-24
+    start_time: "11:10"
+    end_time: "11:30"
+  - title: "Ignite - Karaoke"
+    type: ignites
+    date: 2020-11-24
+    start_time: "11:10"
+    end_time: "12:00"
+  - title: "Almoço"
+    type: open-space
+    date: 2020-11-24
+    start_time: "12:00"
+    end_time: "13:00"
+  - title: "Palestra"
+    type: talk
+    date: 2020-11-24
+    start_time: "13:00"
+    end_time: "13:20"
+  - title: "Fireside"
+    type: custom
+    date: 2020-11-24
+    start_time: "13:20"
+    end_time: "13:40"
+  - title: "Openspace/Breakout"
+    type: custom
+    date: 2020-11-24
+    start_time: "13:20"
+    end_time: "13:40"
+  - title: "Break"
+    type: open-space
+    date: 2020-11-24
+    start_time: "13:40"
+    end_time: "14:00"
+  - title: "Palestra"
+    type: talk
+    date: 2020-11-24
+    start_time: "14:00"
+    end_time: "14:20"
+  - title: "Fireside"
+    type: custom
+    date: 2020-11-24
+    start_time: "14:20"
+    end_time: "14:40"
+  - title: "Openspace/Breakout"
+    type: custom
+    date: 2020-11-24
+    start_time: "14:20"
+    end_time: "14:40"
+  - title: "Break"
+    type: open-space
+    date: 2020-11-24
+    start_time: "14:40"
+    end_time: "15:00"
+  - title: "Palestra"
+    type: talk
+    date: 2020-11-24
+    start_time: "15:00"
+    end_time: "15:20"
+  - title: "Fireside"
+    type: custom
+    date: 2020-11-24
+    start_time: "15:20"
+    end_time: "15:40"
+  - title: "Openspace/Breakout"
+    type: custom
+    date: 2020-11-24
+    start_time: "15:20"
+    end_time: "15:40"
+  - title: "Break"
+    type: open-space
+    date: 2020-11-24
+    start_time: "15:40"
+    end_time: "16:00"
+  - title: "Palestra"
+    type: talk
+    date: 2020-11-24
+    start_time: "16:00"
+    end_time: "16:20"
+  - title: "Fireside"
+    type: custom
+    date: 2020-11-24
+    start_time: "16:20"
+    end_time: "16:40"
+  - title: "Openspace/Breakout"
+    type: custom
+    date: 2020-11-24
+    start_time: "16:20"
+    end_time: "16:40"
+  - title: "Break"
+    type: open-space
+    date: 2020-11-24
+    start_time: "16:40"
+    end_time: "17:00"
+  - title: "Ignites"
+    type: ignites
+    date: 2020-11-24
+    start_time: "17:00"
+    end_time: "17:30"
+  - title: "Fechamento"
+    type: custom
+    date: 2020-11-24
+    start_time: "17:30"
+    end_time: "18:40"
+
+
