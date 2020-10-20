@@ -1,19 +1,7 @@
 +++
 Title = "Local"
 Type = "event"
-Description = "Local - Devopsdays São Paulo 2020"
+Description = "Este ano o evento será Online!!! Mais detalhes em breve"
 +++
 
-<p></p>
-
-<h1>Local do evento</h1>
-
-* <a href="http://www.centuryflat.com.br/">Hotel Pestana São Paulo</a>
-* R. Tutóia, 77 - Paraíso - São Paulo 
-* São Paulo - São Paulo
-* <a href="https://goo.gl/maps/MAtRZfPb4nDaKWGD8">Map</a>
-
-
-{{< event_map >}}
-
-<p></p>
+Este ano o evento será Online!!! Mais detalhes em breve

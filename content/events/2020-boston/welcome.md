@@ -5,6 +5,7 @@ aliases = ["/events/2020-boston/"]
 Description = "DevOpsDays Boston 2020"
 +++
 
+<h3>It's a wrap for this year! <a href="https://www.youtube.com/watch?v=WyY-UGtnM_E&list=PLKOXVA7dUqS94N2rBP0YwaPwfd83VvUf_">Click here for all of the videos!</a></h3>
 <style type="text/css">
 h1.welcome-page { text-transform: initial; }
 .welcome-page-event-logo { max-width: 100%; }

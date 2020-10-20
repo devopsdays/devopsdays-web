@@ -11,7 +11,7 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 # Note: we allow 2020-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
 startdate: 2020-10-01T00:08:00-04:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2020-10-01T00:17:00-04:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2020-10-01T19:00:00-04:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  2020-01-10T23:59:59-05:00 # start accepting talk proposals.
@@ -102,15 +102,23 @@ organizer_email: "buffalo@devopsdays.org" # Put your organizer email address her
 sponsors:
   - id: devrelate
     level: community
+  - id: huntproductions
+    level: community
   - id: gitlab
     level: silver
+  - id: pagerduty
+    level: bronze
   - id: torchio
+    level: silver
+  - id: circleci
     level: silver
   - id: starkandwayne
     level: gold
   - id: bcbswny
     level: gold
   - id: microsoftazure
+    level: gold
+  - id: scout
     level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -126,8 +134,8 @@ sponsor_levels:
   - id: silver
     label: Silver
     max: 0 # This is the same as omitting the max limit.
-#  - id: bronze
-#    label: Bronze
+  - id: bronze
+    label: Bronze
   - id: community
     label: Community
 
@@ -171,11 +179,11 @@ program:
     type: custom
     date: 2020-10-01T00:08:00-04:00
     start_time: "11:50"
-    end_time: "13:30"
+    end_time: "14:05"
   - title: "angel-rivera"
     type: talk
     date: 2020-10-01T00:08:00-04:00
-    start_time: "13:30"
+    start_time: "14:15"
     end_time: "14:50"
   - title: "ana-auxiliadora-lebron-moreno"
     type: talk
@@ -197,3 +205,10 @@ program:
     date: 2020-10-01T00:08:00-04:00
     start_time: "16:40"
     end_time: "17:00"
+  - title: "DevOps Party Games Show"
+    type: custom
+    date: 2020-10-01T00:08:00-04:00
+    start_time: "18:00"
+    end_time: "19:00"
+    custom_url: "https://twitch.tv/mattstratton"
+    comments: "Tune in to watch the DevOpsDays Buffalo organizers face off against the DevOpsDays Boston organizing team in a fun game show!"
