@@ -8,7 +8,12 @@ Description = "devopsdays Poznań 2020"
 <h3> {{< event_start >}} </h3>
 
 **DevOpsDays is coming to Poznań, Poland again!**
+<ul>
+<li>This year, next month, for 1 day only:</li>
+<li>1 track, 4 hours, 5 scary stories</li>
+</ul>
 
+**Join us and share your thrilling experience!**
 <div style="text-align:center;">
   {{< event_logo >}}
 </div>
@@ -22,14 +27,14 @@ Description = "devopsdays Poznań 2020"
   </div>
 </div>
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div>
+</div> -->
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -40,14 +45,14 @@ Description = "devopsdays Poznań 2020"
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -67,14 +72,14 @@ Description = "devopsdays Poznań 2020"
   </div>
 </div> -->
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="sponsor" text="Sponsor the conference!" >}}
   </div>
-</div>
+</div> -->
 
 <div class = "row">
   <div class = "col-md-2">
