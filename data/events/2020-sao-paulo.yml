@@ -46,7 +46,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     icon: "pencil"
     url: https://www.sympla.com.br/devopsdays-sao-paulo-2020---online__1010547
   - name: Evento Online
-    url: https://devopsdays.org/events/2020-sao-paulo/virtual-event
+    url: /events/2020-sao-paulo/virtual-event
     icon: "map-o" 
   - name: patrocínio
     url: /events/2020-sao-paulo/sponsor
