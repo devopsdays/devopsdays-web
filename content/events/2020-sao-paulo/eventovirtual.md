@@ -1,8 +1,9 @@
 +++
-date = "2020-11-24"
-title = "Detalhes do Evento Virtual"
-type = "event"
+Title = "Detalhes do Evento Virtual"
+Type = "event"
+Description = "Evento Virtual devopsdays Sao Paulo 2020"
 +++
+
 DevOpsDays São Paulo será um evento totalmente virtual este ano. Todas as palestras serão pré-gravadas e transmitidas via [Youtube - Link em breve!](#) para todos poderem assistir.
 
 A data é 24/11/2020. Também nos dedicamos a manter o espírito central dos eventos DevOpsDays: interativos, inclusivos, colaborativos e orientados por participantes, e não por organizações.
