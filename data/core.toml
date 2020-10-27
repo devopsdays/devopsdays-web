@@ -4,24 +4,24 @@ active = [
 "Serhat Can",
 "Bernd Erk",
 "Rafael Gomes",
+"Marco Júnior",
 "Mine Heck",
-"Bridget Kromhout",
 "Dan Maher",
 "Katie McLaughlin",
 "Adrian Moisey",
 "Ken Mugrage",
-"Marco Júnior",
-"Mike Rosado",
+"Mike Rosado"
 ]
 
 advisory = [
-"Patrick Debois (founder)",
 "Kris Buytaert",
 "Jennifer Davis",
+"Patrick Debois (founder, 2009-2014 lead)",
+"Nathen Harvey",
 "Matthew Jones",
+"Bridget Kromhout (2015-2020 lead)",
 "Andrew Clay Shafer",
-"John Willis",
-"Nathen Harvey"
+"John Willis"
 ]
 
 emeritus = [
