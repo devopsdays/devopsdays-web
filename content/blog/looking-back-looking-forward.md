@@ -1,6 +1,6 @@
 +++
 Title = "Looking Back; Looking Forward"
-Date = "2020-10-01T04:01:03-03:00"
+Date = "2020-11-01T03:01:03-03:00"
 Author = "Bridget Kromhout, Yvo van Doorn, Matt Stratton"
 +++
 In January 2015, Bridget Kromhout stepped up as the leader of the devopsdays core team, invited by founder Patrick Debois to replace him after he led devopsdays from 2009-2014. Bridget had organized devopsdays Minneapolis in July 2014, and was now ready to help streamline and improve processes to help other cities get started.
