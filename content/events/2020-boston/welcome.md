@@ -5,7 +5,6 @@ aliases = ["/events/2020-boston/"]
 Description = "DevOpsDays Boston 2020"
 +++
 
-<h3>It's a wrap for this year! <a href="https://www.youtube.com/watch?v=WyY-UGtnM_E&list=PLKOXVA7dUqS94N2rBP0YwaPwfd83VvUf_">Click here for all of the videos!</a></h3>
 <style type="text/css">
 h1.welcome-page { text-transform: initial; }
 .welcome-page-event-logo { max-width: 100%; }
@@ -19,19 +18,17 @@ h1.welcome-page { text-transform: initial; }
   </div>
 
   <div class="col-md-6">
-    <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="/events/2020-boston/virtual-event">
-      DevOpsDays Boston is going virtual for 2020!
+    <h2>It's a wrap for this year!</h2>
+    <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://www.youtube.com/watch?v=WyY-UGtnM_E&list=PLKOXVA7dUqS94N2rBP0YwaPwfd83VvUf_">Click here for all of the videos!
     </a>
     <p>
-      Due to the effects of COVID-19 DevOpsDays Boston 2020 will be a one-day,
+      DevOpsDays Boston 2020 was a one-day,
       single-track <a href="/events/2020-boston/virtual-event">virtual
-      event</a>, taking place on September 29th, 2020.
+      event</a>, that took place on September 29th, 2020.
     </p>
-    <p>
-      Leaning into the accessibility of the internet, we have also changing the
-      pricing model to “pay what you can.” We can’t wait to see you there, <a
-      href="https://hopin.to/events/devopsdays-boston-2020/">register now</a>.
-    </p>
+    <p>Thanks to the financial support of our community, we were able to donate a total of $9000 to <a href="http://www.kodeconnect.org/">KodeConnect</a>, <a href="http://yearup.org/">YearUp</a>, and <a href="http://www.resilientcoders.org/">Resilient Coders</a>. Click the button below for more details.”</p>
+    <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="http://bostondevopsnetwork.org/2020/10/donation-statement">Donation Statement
+    </a>
   </div>
 
   <div class="col-md-6">
