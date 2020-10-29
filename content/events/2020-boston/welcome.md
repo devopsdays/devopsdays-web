@@ -27,7 +27,7 @@ h1.welcome-page { text-transform: initial; }
       event</a>, that took place on September 29th, 2020.
     </p>
     <p>Thanks to the financial support of our community, we were able to donate a total of $9000 to <a href="http://www.kodeconnect.org/">KodeConnect</a>, <a href="http://yearup.org/">YearUp</a>, and <a href="http://www.resilientcoders.org/">Resilient Coders</a>. Click the button below for more details.”</p>
-    <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="http://bostondevopsnetwork.org/2020/10/donation-statement">Donation Statement
+    <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="http://bostondevopsnetwork.org/2020/10/devopsdays-boston-2020-donations-update">Donation Update
     </a>
   </div>
 
