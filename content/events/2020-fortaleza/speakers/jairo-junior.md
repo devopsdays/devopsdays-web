@@ -1,6 +1,5 @@
 +++
 Title = "Jairo Junior"
-<!-- Twitter = "maryprovinc" -->
 image = "jairo-junior.jpg"
 type = "speaker"
 linktitle = "jairo-junior"
