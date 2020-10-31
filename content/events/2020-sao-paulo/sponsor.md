@@ -42,11 +42,11 @@ O nossa recomendação é enviar seus especialistas técnicos para interagir com
             <tr>
                 <th><center><i>Custo</i></center></th>
                 <th>
-                    <center><b><u>R$ 6000</u></center></b></th>
+                    <center><b><u>R$ 1500</u></center></b></th>
                 <th>
                     <center><b><u>R$ 4000</u></center></b></th>
                 <th>
-                    <center><b><u>R$ 1500</u></center></b></th>
+                    <center><b><u>R$ 6000</u></center></b></th>
                 <th>
                     <center><b><u> - </u></center></b></th>
             </tr>
