@@ -3,6 +3,7 @@ Talk_date = "2020-10-12"
 Title = "Video Games and How they prepared me for a life in engineering"
 Type = "talk"
 Speakers = ["gil-zellner"]
+Youtube = "9EBYm1Y-LWo"
 +++
 
 **Ignite Talk**
