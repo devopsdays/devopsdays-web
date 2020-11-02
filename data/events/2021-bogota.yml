@@ -1,8 +1,8 @@
 name: "2021-bogota" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2021" # The year of the event. Make sure it is in quotes.
-city: "bogota" # The displayed city name of the event. Capitalize it.
-event_twitter: "devopsdaysb" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "Devopsdays is coming to bogota!" # Edit this to suit your preferences
+city: "Bogotá" # The displayed city name of the event. Capitalize it.
+event_twitter: "DevopsdaysB" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "¡Sé parte del tercer devopsdays Bogotá 2021!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2021-MM-DDTHH:MM:SS+TZ:TZ, like this:
@@ -10,8 +10,8 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2021-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2021-09-22T15:00:00-05:00  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2021-09-23T19:00:00-05:00  # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  # start accepting talk proposals.
@@ -39,7 +39,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: registration
  # - name: program
  # - name: speakers
-  - name: sponsor
+ # - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
@@ -49,17 +49,21 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
-  - name: "John Doe"
-  - name: "Jane Smith"
-    twitter: "devopsdays"
-  - name: "Sally Fields"
-    employer: "Acme Anvil Co."
-    github: "devopsdays"
-    facebook: "https://www.facebook.com/sally.fields"
-    linkedin: "https://www.linkedin.com/in/sallyfields"
-    website: "https://mattstratton.com"
-    image: "sally-fields.jpg"
-
+  - name: "Laura Caceres"
+    employer: "Deloitte"
+    bio: "Laura Caceres Lider con una amplia experiencia en la gestión de proyectos de transformación digital y adopción de DevOps, Le gusta investigar, sobre tendencias relacionadas con el rendimiento de las aplicaciones, la percepción del usuario y cómo impactan en la experiencia digital. hizo parte del equipo organizador del primer DevOpsDays en Latinoamérica para la cuidad de Bogotá y este año también hará parte del equipo organizador DevOpsDays Bogotá 2020."
+    image: "laura.jpg"
+    twitter: "@amapolita177"
+  - name: "Rafael Martinez"
+    employer: "Cbs"
+    bio: "Rafael Martinez es un entusiasta y ferviente defensor de las prácticas DevOps e instructor líder en DevOps y eventos relacionados con la tecnología, Rafael es responsable de desarrollar estrategias para la automatización de la cadena de suministro de software, hizo parte del equipo organizador del primer DevOpsDays en Latinoamérica para la cuidad de Bogotá y este año también hará parte del equipo organizador DevOpsDays Bogotá 2020."
+    image: "rafael.jpg"
+    twitter: "@rafaelMartAng"
+  - name: "Lorena Cano"
+    employer: "DevOps Latam"
+    bio: "Profesional en lenguas modernas y administración, Fiel seguidora y entusiasta de la cultura DevOps y metodologías ágiles dentro de las organizaciones, equipos y proyectos. fue voluntaria en el equipo organizador del primer DevOpsDays en Latinoamérica para la cuidad de Bogotá y este año hará parte del equipo organizador DevOpsDays Bogotá 2020."
+    image: "lorena.jpg"
+    twitter: ""
 organizer_email: "bogota@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
