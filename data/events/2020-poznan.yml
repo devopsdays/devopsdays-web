@@ -2,7 +2,7 @@ name: "2020-poznan" # The name of the event. Four digit year with the city name 
 year: "2020" # The year of the event. Make sure it is in quotes.
 city: "Poznań" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdayspoz" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "Devopsdays Poznan 2020 Online: Horror stories" # Edit this to suit your preferences
+description: "Devopsdays Poznan 2020 Online: Horror stories." # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
@@ -15,12 +15,12 @@ enddate: 2020-11-24T21:00:00+02:00 # The end date of your event. Leave blank if 
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 
-# cfp_date_start:  2019-11-19T00:00:00+02:00 # start accepting talk proposals.
-# cfp_date_end:  2020-01-31T00:00:00+02:00 # close your call for proposals.
-# cfp_date_announce:  2020-02-28T00:00:00+02:00 # announce speakers.
+cfp_date_start:  2020-10-19T00:00:00+02:00 # start accepting talk proposals.
+cfp_date_end:  2020-10-31T23:59:59+02:00 # close your call for proposals.
+cfp_date_announce:  2020-10-19T00:00:00+02:00 # announce speakers.
 
-cfp_open: "false"
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_open: "true"
+cfp_link: "https://forms.gle/vwUrqYd7P4eWLd947" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 # registration_date_start: 2019-11-27T00:00:00+02:00 # start accepting registration. Leave blank if registration is not open yet
 # registration_date_end: 2020-05-17T20:00:00+02:00 # close registration. Leave blank if registration is not open yet.
@@ -37,11 +37,11 @@ location: "Online" # Defaults to city, but you can make it the venue name.
 sharing_image: "sharing.jpg"
 nav_elements: # List of pages you want to show up in the navigation of your page.
 #  - name: location
-#  - name: propose
+  - name: propose
 #  - name: registration
 #  - name: program
 #  - name: speakers
-  - name: sponsor
+#  - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
