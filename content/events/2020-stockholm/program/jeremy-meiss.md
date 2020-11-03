@@ -3,6 +3,7 @@ Talk_date = "2020-10-12"
 Title = "DevOps before there was DevOps, 20yr old style"
 Type = "talk"
 Speakers = ["jeremy-meiss"]
+Youtube = "uOOC5u5kihI"
 +++
 
 **Ignite Talk**
