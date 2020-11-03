@@ -31,22 +31,22 @@ O nossa recomendação é enviar seus especialistas técnicos para interagir com
         <table border=1 cellspacing=1>
                 <th><center><i>Tipo</i></center></th>
                 <th style="width:10%">
-                    <center><b><u>Bronze</u></center></b></th>
+                    <center><b><u>Ouro</u></center></b></th>
                 <th style="width:10%">
                     <center><b><u>Prata</u></center></b></th>
                 <th style="width:10%">
-                    <center><b><u>Ouro</u></center></b></th>
+                    <center><b><u>Bronze</u></center></b></th>
                 <th style="width:10%">
                     <center><b><u>Community</u></center></b></th>
             </tr>
             <tr>
                 <th><center><i>Custo</i></center></th>
                 <th>
-                    <center><b><u>R$ 1500</u></center></b></th>
+                    <center><b><u>R$ 6000</u></center></b></th>
                 <th>
                     <center><b><u>R$ 4000</u></center></b></th>
                 <th>
-                    <center><b><u>R$ 6000</u></center></b></th>
+                    <center><b><u>R$ 1500</u></center></b></th>
                 <th>
                     <center><b><u> - </u></center></b></th>
             </tr>
