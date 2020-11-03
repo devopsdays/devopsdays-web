@@ -3,6 +3,7 @@ Talk_date = "2020-10-12"
 Title = "Cutting the Cord: Letting Your Remote Team Run Free"
 Type = "talk"
 Speakers = ["tommy-adams"]
+Youtube = "8Tv_30thEI0"
 +++
 
 **Ignite Talk**

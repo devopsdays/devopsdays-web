@@ -6,6 +6,7 @@ Title = "All I need to know about DevOps I learned from XKCD"
 Type = "talk"
 Speakers = ["brendan-oleary"]
 sharing_image = "brendan-oleary.png"
+slides = "https://boleary.dev/talks/2019-12-31-xkcd.html"
 +++
 [XKCD](https://www.xkcd.com) describes itself as "a webcomic of romance, sarcasm, math, and language." What if it is more? What if XKCD and its creator Randall Munroe have slowly been revealing what software development, DevOps and team collaboration are all about.
 
