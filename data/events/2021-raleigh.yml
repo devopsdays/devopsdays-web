@@ -110,7 +110,8 @@ organizer_email: "raleigh@devopsdays.org" # Put your organizer email address her
 sponsors:
   - id: triangledevops
     level: community
-
+  - id: cprime
+    level: platinum
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
