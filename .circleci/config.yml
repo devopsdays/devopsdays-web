@@ -3,7 +3,9 @@ jobs:
   production:
     docker:
       - image: cibuilds/hugo:0.76.5
-      auth
+        auth:
+          username: devopsdaysbuild
+          password: $DOCKERHUB_PASSWORD
     steps:
       - checkout
       - run:
