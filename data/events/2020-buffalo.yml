@@ -11,7 +11,7 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 # Note: we allow 2020-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
 startdate: 2020-10-01T00:08:00-04:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2020-10-01T00:17:00-04:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2020-10-01T19:00:00-04:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  2020-01-10T23:59:59-05:00 # start accepting talk proposals.
@@ -26,6 +26,9 @@ registration_date_end: 2020-10-01T11:59:59-05:00 # close registration. Leave bla
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://ti.to/devops-days-buffalo/2020" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
+masthead_background: "buffalo-skyline.jpg"
+sharing_image: "sharing.png"
+
 # Location
 #
 location: "Online"
@@ -34,10 +37,11 @@ location: "Online"
 #location_address: "444 Forrest Avenue, BUFFALO, NY, 14213" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
-  - name: location
+# - name: propose
+# - name: location
   - name: registration
- # - name: program
+  - url: "https://ti.to/devops-days-buffalo/2020"
+  - name: program
   - name: speakers
   - name: sponsor
   - name: contact
@@ -98,13 +102,23 @@ organizer_email: "buffalo@devopsdays.org" # Put your organizer email address her
 sponsors:
   - id: devrelate
     level: community
+  - id: huntproductions
+    level: community
   - id: gitlab
     level: silver
+  - id: pagerduty
+    level: bronze
   - id: torchio
+    level: silver
+  - id: circleci
     level: silver
   - id: starkandwayne
     level: gold
   - id: bcbswny
+    level: gold
+  - id: microsoftazure
+    level: gold
+  - id: scout
     level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -124,3 +138,77 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+
+program:
+  - title: "Chat and Coffee Meetings"
+    type: custom
+    date: 2020-10-01T00:08:00-04:00
+    start_time: "08:30"
+    end_time: "08:45"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2020-10-01T00:08:00-04:00
+    start_time: "08:45"
+    end_time: "09:00"
+  - title: "baruch-sadogursky-kat-cosgrove"
+    type: talk
+    date: 2020-10-01T00:08:00-04:00
+    start_time: "09:00"
+    end_time: "09:35"
+  - title: "jj-asghar"
+    type: talk
+    date: 2020-10-01T00:08:00-04:00
+    start_time: "09:45"
+    end_time: "10:20"
+  - title: "josh-stella"
+    type: talk
+    date: 2020-10-01T00:08:00-04:00
+    start_time: "10:30"
+    end_time: "11:05"
+  - title: "Sponsors"
+    type: custom
+    date: 2020-10-01T00:08:00-04:00
+    start_time: "11:10"
+    end_time: "11:15"
+  - title: "jameson-hampton"
+    type: talk
+    date: 2020-10-01T00:08:00-04:00
+    start_time: "11:15"
+    end_time: "11:50"
+  - title: "Lunch Break"
+    type: custom
+    date: 2020-10-01T00:08:00-04:00
+    start_time: "11:50"
+    end_time: "14:05"
+  - title: "angel-rivera"
+    type: talk
+    date: 2020-10-01T00:08:00-04:00
+    start_time: "14:15"
+    end_time: "14:50"
+  - title: "ana-auxiliadora-lebron-moreno"
+    type: talk
+    date: 2020-10-01T00:08:00-04:00
+    start_time: "15:00"
+    end_time: "15:35"
+  - title: "Lightning Talks - Jay Gordon, Jeremy Meiss, Joshua Goldman"
+    type: custom
+    date: 2020-10-01T00:08:00-04:00
+    start_time: "15:40"
+    end_time: "16:00"
+  - title: "ben-ellerby"
+    type: talk
+    date: 2020-10-01T00:08:00-04:00
+    start_time: "16:05"
+    end_time: "16:40"
+  - title: "Closing and Sponsors and Thank Yous"
+    type: custom
+    date: 2020-10-01T00:08:00-04:00
+    start_time: "16:40"
+    end_time: "17:00"
+  - title: "DevOps Party Games Show"
+    type: custom
+    date: 2020-10-01T00:08:00-04:00
+    start_time: "18:00"
+    end_time: "19:00"
+    custom_url: "https://twitch.tv/mattstratton"
+    comments: "Tune in to watch the DevOpsDays Buffalo organizers face off against the DevOpsDays Boston organizing team in a fun game show!"

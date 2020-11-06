@@ -41,7 +41,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  #   url: "https://www.papercall.io/devopsdaysmedellin"
   - name: registration
     url: "https://www.ticketopolis.com/devopsdaysmdev2020"
- # - name: program
+  - name: program
+    url: "https://devopsdays.io/agenda-2"
  # - name: speakers
   - name: sponsor
   - name: speakers
@@ -159,8 +160,6 @@ sponsors:
     level: diamond
   - id: 2020-devco
     level: platinum
-  - id: devopsdays-mde2020
-    level: platinum
   - id: microsoft
     level: platinum
     url: "https://www.microsoft.com/es-co/"
@@ -171,6 +170,8 @@ sponsors:
   - id: david-j-anderson
     level: silver
   - id: exin
+    level: silver
+  - id: masglobal
     level: silver
   - id: universidad-ces
     level: silver
@@ -186,9 +187,10 @@ sponsors:
     level: supporters
   - id: ceiba
     level: supporters
+  - id: devopsinstitute2020
+    level: supporters
   - id: lingo24
     level: supporters
-
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -210,3 +212,4 @@ sponsor_levels:
     label: Community
   - id: supporters
     label: Supporters    
+

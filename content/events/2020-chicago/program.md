@@ -5,4 +5,6 @@ Description = "Program for devopsdays Chicago 2020"
 icons = "TRUE"
 +++
 
-Program schedule is subject to change
+### All times are CDT
+
+All talks can be viewed at [live.devopsdayschi.org](https://live.devopsdayschi.org).

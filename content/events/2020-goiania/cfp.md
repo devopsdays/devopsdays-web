@@ -16,10 +16,9 @@ Basta acessar e seguir as instruções em [https://cfp.devopsdays.com.br/gyn2020
 
 <h3>Tipos de apresentações</h3>
 
-Há dois tipos de de apresentações no DevOpsDays Goiânia 2020:
-<ol>
-  <li>Palestra de <strong>30 minutos</strong> apresentadas durante a conferência.</li>
-</ol>
+<ul>
+    <li>Serão 9 palestras de <strong>30 minutos</strong> apresentadas durante a conferência sendo 1 palestra por dia.</li>
+</ul>
 
 <hr>
 

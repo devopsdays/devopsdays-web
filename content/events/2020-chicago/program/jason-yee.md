@@ -6,6 +6,7 @@ Title = "Chaos: breaking your systems to make them unbreakable"
 Type = "talk"
 Speakers = ["jason-yee"]
 sharing_image = "jason-yee.png"
+speakerdeck = "https://speakerdeck.com/devopsdayschi/chaos-breaking-your-systems-to-make-them-unbreakable-jason-yee-devopsdays-chicago-2020"
 +++
 As applications become more distributed and complex, so do our failure modes. In this presentation, I'll share why you shouldn't just embrace failure, but why you should induce it to intentionally cause and learn from failure.
 

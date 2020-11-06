@@ -18,28 +18,31 @@ h1.welcome-page { text-transform: initial; }
   </div>
 
   <div class="col-md-6">
-    <div class="alert alert-warning" role="alert">
-      DevOpsDays Boston is going virtual!
-    </div>
-    <p>Due to the effects of COVID-19, and the health risks of holding an in-person conference this year, DevOpsDays Boston 2020 will now be a one-day, single-track virtual event, taking place on September 28th, 2020. Rest assured that the talks, open spaces and discussions will be as great as ever.</p>
+    <h2>It's a wrap for this year!</h2>
+    <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://www.youtube.com/watch?v=WyY-UGtnM_E&list=PLKOXVA7dUqS94N2rBP0YwaPwfd83VvUf_">Click here for all of the videos!
+    </a>
+    <p>
+      DevOpsDays Boston 2020 was a one-day,
+      single-track <a href="/events/2020-boston/virtual-event">virtual
+      event</a>, that took place on September 29th, 2020.
+    </p>
+    <p>Thanks to the financial support of our community, we were able to donate a total of $9000 to <a href="http://www.kodeconnect.org/">KodeConnect</a>, <a href="http://yearup.org/">YearUp</a>, and <a href="http://www.resilientcoders.org/">Resilient Coders</a>. Click the button below for more details.”</p>
+    <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="http://bostondevopsnetwork.org/2020/10/devopsdays-boston-2020-donations-update">Donation Update
+    </a>
   </div>
 
   <div class="col-md-6">
     <div class="row">
       <div class="col-md-2"><strong>Dates</strong></div>
-      <div class="col-md-8">{{< event_start >}} - {{< event_end >}}</div>
+      <div class="col-md-8">{{< event_start >}}</div>
     </div>
     <div class="row">
       <div class="col-md-2"><strong>Location</strong></div>
       <div class="col-md-8">Boston (virtual)</div>
     </div>
-    <!-- <div class="row">
-      <div class="col-md-2"><strong>Propose</strong></div>
-      <div class="col-md-8"><a href="https://bit.ly/dodbos2020cfp">Propose a talk!</a></div>
-    </div>
     <div class="row">
       <div class="col-md-2"><strong>Register</strong></div>
-      <div class="col-md-8"><a href="https://ti.to/devopsdaysbos/2020">Register to attend the conference!</a></div>
+      <div class="col-md-8"><a href="https://hopin.to/events/devopsdays-boston-2020/">Register to attend the conference!</a></div>
     </div>
   	<div class="row">
   		<div class="col-md-2"><strong>Program</strong></div>
@@ -49,7 +52,6 @@ h1.welcome-page { text-transform: initial; }
   		<div class="col-md-2"><strong>Speakers</strong></div>
       <div class="col-md-8">Check out the {{< event_link page="speakers" text="speakers!" >}}</div>
     </div>
-    -->
     <div class="row">
       <div class="col-md-2"><strong>Sponsors</strong></div>
       <div class="col-md-8">{{< event_link page="sponsor" text="Sponsor the conference!" >}}</div>

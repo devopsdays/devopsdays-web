@@ -47,12 +47,13 @@ All sponsors will have their logo displayed on the DevOpsDays Chicago website, a
       <td></td>
       <td>
                <!-- gold Paypal button  -->
-        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<!--         <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
           <input type="hidden" name="cmd" value="_s-xclick">
           <input type="hidden" name="hosted_button_id" value="S9SCLZP3USU7L">
           <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
           <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-        </form>
+        </form> -->
+        <b>SOLD OUT!</b>
       </td>
       <td>
              <!-- silver Paypal button  -->
@@ -147,10 +148,6 @@ All sponsors will have their logo displayed on the DevOpsDays Chicago website, a
     </tr>
   </tbody>
 </table>
-# <h2>Special Sponsorships</h2>
-#All special sponsors will have their logo displayed on the DevOpsDays Chicago website, a tweet before the conference, and a thank you during the conference. We do have some flexibilities with these sponsorships, so just ask! Email us: <a href="mailto:chicago-sponsors@devopsdays.org">chicago-sponsors@devopsdays.org</a>.
-<br/><br/>
-
 
 <div class = "row">
 <div class = "col-12">
