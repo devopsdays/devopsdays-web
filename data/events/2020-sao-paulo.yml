@@ -41,7 +41,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: registration
   - name: Programação
     url: /events/2020-sao-paulo/program
- #- name: speakers
+  - name: speakers
   - name: ingressos
     icon: "pencil"
     url: https://www.sympla.com.br/devopsdays-sao-paulo-2020---online__1010547
