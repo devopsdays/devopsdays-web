@@ -1,7 +1,7 @@
 +++
 Title = "Dan Maher"
 Twitter = "phrawzty"
-image = "dan-maher.jpg"
+image = "dan-maher.png"
 type = "speaker"
 linktitle = "dan-maher"
 website = "https://dark.ca"
