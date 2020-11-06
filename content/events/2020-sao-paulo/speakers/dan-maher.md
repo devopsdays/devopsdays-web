@@ -5,7 +5,7 @@ image = "dan-maher.png"
 type = "speaker"
 linktitle = "dan-maher"
 website = "https://dark.ca"
-github = "crayzeigh"
+github = "phrawzty"
 
 +++
-Aaron Aldrich is the founding organizer of DevOpsDays Hartford, and frequent DevOpsDays organizer and participant all over. When not talking about DevOps and Resilience Engineering, you can find him talking about Mental Health with [osmihelp.org](https://osmihelp.org) or running Emotional Intelligence workshops with [EmotionalAPI.com](https://EmotionalAPI.com). Find him on twitter [@crayzeigh](https://twitter.com/crayzeigh) for general nonsense and tomfoolery.
+Dan is a veteran of the original dotcom bubble and has since worked in a variety of environments from start-ups to global corporations, including stints as a founder, university lecturer, and a day labourer. Today, Dan is a member of the Devopsdays global team, and a technical evangelist at Datadog.
