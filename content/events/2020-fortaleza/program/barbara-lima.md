@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "O que você acha que é ser líder ágil?"
+Title = "O que você acha que é ser líder ágil ?"
 Type = "talk"
 Speakers = ["barbara-lima"]
 +++
