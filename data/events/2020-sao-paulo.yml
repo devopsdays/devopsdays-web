@@ -172,11 +172,11 @@ program:
     date: 2020-11-24
     start_time: "09:35"
     end_time: "09:55"
-  - title: "Palestra"
+  - title: "kelvin-silva"
     type: talk
     date: 2020-11-24
-    start_time: "10:15"
-    end_time: "10:35"
+    start_time: "09:55"
+    end_time: "10:15"
   - title: "Fireside"
     type: custom
     date: 2020-11-24
@@ -192,7 +192,7 @@ program:
     date: 2020-11-24
     start_time: "10:35"
     end_time: "10:50"
-  - title: "Palestra"
+  - title: "dan-maher"
     type: talk
     date: 2020-11-24
     start_time: "10:50"
@@ -210,14 +210,14 @@ program:
   - title: "Ignite - Karaoke"
     type: ignites
     date: 2020-11-24
-    start_time: "11:10"
+    start_time: "11:30"
     end_time: "12:00"
   - title: "Almoço"
     type: open-space
     date: 2020-11-24
     start_time: "12:00"
     end_time: "13:00"
-  - title: "Palestra"
+  - title: "carol-valencia"
     type: talk
     date: 2020-11-24
     start_time: "13:00"
@@ -237,7 +237,7 @@ program:
     date: 2020-11-24
     start_time: "13:40"
     end_time: "14:00"
-  - title: "Palestra"
+  - title: "marcelo-costa"
     type: talk
     date: 2020-11-24
     start_time: "14:00"
@@ -257,7 +257,7 @@ program:
     date: 2020-11-24
     start_time: "14:40"
     end_time: "15:00"
-  - title: "Palestra"
+  - title: "fabrizio-mello"
     type: talk
     date: 2020-11-24
     start_time: "15:00"
@@ -277,7 +277,7 @@ program:
     date: 2020-11-24
     start_time: "15:40"
     end_time: "16:00"
-  - title: "Palestra"
+  - title: "yros-aguiar"
     type: talk
     date: 2020-11-24
     start_time: "16:00"
