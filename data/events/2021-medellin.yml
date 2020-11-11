@@ -16,7 +16,7 @@ enddate: 2021-07-31T08:00:00-06:00 # The end date of your event. Leave blank if 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  2021-01-23T08:00:00-06:00 # start accepting talk proposals.
 cfp_date_end:  2021-04-18T08:00:00-06:00 # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_announce: 2021-05-18T08:00:00-06:00 # inform proposers of status
 
 cfp_link: ""
 

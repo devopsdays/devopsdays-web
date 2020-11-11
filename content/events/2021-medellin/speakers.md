@@ -1,5 +1,5 @@
 +++
 #Title = "Speakers"
 Type = "speakers"
-Description = "Speakers for devopsdays Medellin 2020"
+Description = "Speakers for devopsdays Medellin 2021"
 +++
