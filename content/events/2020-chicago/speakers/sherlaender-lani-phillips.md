@@ -6,6 +6,7 @@ type = "speaker"
 linktitle = "sherlaender-lani-phillips"
 website = "https://laniphillips.com/"
 linkedin = "https://www.linkedin.com/in/laniphillips/"
+sharing_image = "lani-phillips.png"
 +++
 Lani Phillips brings over 20 years of experience in inclusive leadership and transformation management in the technology industry and a recognized leader within Microsoft. She is a sought-after speaker and collaborates with leaders around the world to drive business and cultural transformation at scale. 
 

@@ -10,7 +10,7 @@ Description = "Sponsor DevOpsDays Boston 2020"
 <div class="col-md-9">
 <div>
 <h3>Join the community</h3>
-<p><strong>DevOpsDays Boston Virtual</strong> is a one-day online technology community conference that will be held this year on September 28 using a virtual conference platform.</p>
+<p><strong>DevOpsDays Boston Virtual</strong> is a one-day online technology community conference that will be held this year on September 29 using a virtual conference platform.</p>
 <p>The conference is designed to promote awareness around bridging gaps and breaking down silos between development, operations, and security teams and their related business organizations.</p>
 <p>DevOpsDays is a grassroots event for professionals in technology to network and share ideas and challenges relating to DevOps, IT management, and technology in general. It is organized by peers who care about and believe in improving the culture of technology work, process automation, metrics, and sharing in an environment of inclusion.</p>
 <h3>Why Sponsor DevOpsDays Boston?</h3>
