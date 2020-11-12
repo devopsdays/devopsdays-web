@@ -6,7 +6,7 @@ Description = "DevOpsDays Medellín 1"
 +++
 <div class = "row">
   <div class="col-md-4">
-    <img alt="DevOpsDays Medellin 2021" src="/events/2021-medellin/logo2021.png" class="img-fluid">
+    <img alt="DevOpsDays Medellin 2021" src="/events/2021-medellin/logo.png" class="img-fluid">
   </div>
   <div class="col-md-7">
     <h2>¡Nuevamente la conferencia de DevOpsDays llegará a Medellín, Colombia en Julio 2021!</h2>
