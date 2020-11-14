@@ -14,7 +14,7 @@ startdate:  "2021-04-21T09:00:00-06:00" # The start date of your event. Leave bl
 enddate:  "2021-04-22T17:00:00-06:00" # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  "2020-11-15T09:00:00-06:00" # start accepting talk proposals.
+cfp_date_start:  "2021-11-16T09:00:00-06:00" # start accepting talk proposals.
 cfp_date_end:  "2021-01-15T09:00:00-06:00" # close your call for proposals.
 cfp_date_announce:  "2021-02-15T09:00:00-06:00" # inform proposers of status
 
@@ -34,8 +34,8 @@ location: "Houston - CityCentre - Norris Conference Centers" # Defaults to city,
 location_address: "816 Town and Country Blvd #210, Houston, TX 77024" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
- # - name: location
+  - name: propose
+  - name: location
  # - name: registration
  # - name: program
  # - name: speakers
