@@ -1,7 +1,8 @@
 +++
 Title = "Program"
 Type = "program"
-Description = "Program for devopsdays Prague 2020"
+aliases = ["/events/2020-prague/program"]
+Description = "Program for devopsdays Prague 2021"
 icons = "TRUE"
 +++
 
