@@ -14,9 +14,9 @@ startdate:  "2021-04-21T09:00:00-06:00" # The start date of your event. Leave bl
 enddate:  "2021-04-22T17:00:00-06:00" # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  "2021-11-16T09:00:00-06:00" # start accepting talk proposals.
-cfp_date_end:  "2021-01-15T09:00:00-06:00" # close your call for proposals.
-cfp_date_announce:  "2021-02-15T09:00:00-06:00" # inform proposers of status
+cfp_date_start: 2021-11-15T09:00:00-06:00 # start accepting talk proposals.
+cfp_date_end: 2021-01-15T09:00:00-06:00 # close your call for proposals.
+cfp_date_announce: 2021-02-15T09:00:00-06:00 # inform proposers of status
 
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
