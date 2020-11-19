@@ -207,8 +207,8 @@ program:
     date: 2020-11-24
     start_time: "11:10"
     end_time: "11:30"
-  - title: "Ignite - Karaoke"
-    type: ignites
+  - title: "Ignites"
+    type: ignite
     date: 2020-11-24
     start_time: "11:30"
     end_time: "12:00"
@@ -297,13 +297,26 @@ program:
     date: 2020-11-24
     start_time: "16:40"
     end_time: "17:00"
-  - title: "Ignites"
-    type: ignites
+  - title: "Ignites - Karaoke"
+    type: custom
     date: 2020-11-24
     start_time: "17:00"
     end_time: "17:30"
+    background_color: "#b7da5b"
   - title: "Fechamento"
     type: custom
     date: 2020-11-24
     start_time: "17:30"
     end_time: "18:00"
+
+ignites:
+  - title: "laury-bueno"
+    date: "2020-11-24"
+  - title: "joao-brito"
+    date: "2020-11-24"
+  - title: "roberto-alves"
+    date: "2020-11-24"
+  - title: "bruno-gurgel"
+    date: "2020-11-24"
+  - title: "carlos-nogueira"
+    date: "2020-11-24"

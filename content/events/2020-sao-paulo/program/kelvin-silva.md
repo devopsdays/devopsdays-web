@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Arquitetura em Microsserviços é uma bala de prata?"
 Type = "talk"
-Speakers = ["kelvin-silva"]
+Speakers = ["kelvin-silva", "lucas-carvalho"]
 sharing_image = "kelvin-silva.png"
 notist = ""
 +++
