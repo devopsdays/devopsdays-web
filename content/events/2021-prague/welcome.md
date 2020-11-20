@@ -1,16 +1,21 @@
 +++
-Title = "Devopsdays Prague 2020"
+Title = "Devopsdays Prague 2021"
 Type = "welcome"
-aliases = ["/events/2020-prague/"]
-Description = "Devopsdays Prague 2020"
+aliases = ["/events/2021-prague/",
+  "/events/2020-prague/",
+  "/events/2020-prague/welcome"]
+Description = "Devopsdays Prague 2021"
 +++
 
-<h2> DevOpsDays Prague 2020 will unfortunately not happen due to circumstances beyond our control related to the COVID-19 outbrake. We have already started planning for 2021 and more details will come in the upcoming weeks. All bought tickets stay valid for the future event but we are happy to reimburse you in case you changed your mind.</h2>
-
-<div style="text-align:center;">
-  {{< event_logo >}}
+<div class = "row">
+  <div class = "col-md-6 push-md-6">
+<b>DevOpsDays Prague 2021 is a direct replacement of DevOpsDays Prague 2020 which unfortunatelly didn't happen due to the covid-19 restrictions. All tickets and arrangements are still valid.</b>
+<br>
+With the aditional planning time we are aiming to deliver the best event possible.
+<br><br>
+The format of DevOpsDays includes a single track of 30 minute talks in the morning of each day, followed by Ignite talks (5 minute lightning talks). We spend the rest of the afternoon in Open Spaces, which are considered a key portion of the event.
+  </div>
 </div>
-
 <div class = "row">
   <div class = "col-md-2">
     <strong>Dates</strong>

@@ -1,7 +1,8 @@
 +++
 Title = "Location"
 Type = "event"
-Description = "Location for Devopsdays Prague 2020"
+aliases = ["/events/2020-prague/location"]
+Description = "Location for Devopsdays Prague 2021"
 +++
 
 <br />

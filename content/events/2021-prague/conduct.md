@@ -1,7 +1,8 @@
 +++
 Title = "Conduct"
 Type = "event"
-Description = "Code of conduct for devopsdays Prague 2020"
+aliases = ["/events/2020-prague/conduct"]
+Description = "Code of conduct for devopsdays Prague 2021"
 +++
 
 
