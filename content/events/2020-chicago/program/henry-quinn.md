@@ -6,6 +6,7 @@ Title = "Leading a Digital Transformation at the Speed of Government"
 Type = "talk"
 Speakers = ["henry-quinn"]
 sharing_image = "henry-quinn.png"
+notist = "quinncuatro/yWnk8K"
 +++
 There were a lot of things asked of me as a one-person dev shop within the District of Connecticut, but the most outrageous one was to scale out a legacy ColdFusion application into something that could be used by courts across the country.
 

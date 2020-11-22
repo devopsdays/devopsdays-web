@@ -33,7 +33,7 @@ Immediately following lunch were the lightning talk Ignite sessions. For those n
 
 - [Alison Stanton – Ways DevOps Could Be More Accessible](https://www.devopsdays.org/events/2016-chicago/program/alison-stanton)
 - [Allie Richards – What’s that creature living in my cloud?](https://www.devopsdays.org/events/2016-chicago/program/allie-richards)
-- [Jamesha Fisher – Out of the Basement: Demystifying Security and Operations](https://www.devopsdays.org/events/2016-chicago/program/jamesha-fisher)
+- [Jam Leomi – Out of the Basement: Demystifying Security and Operations](https://www.devopsdays.org/events/2016-chicago/program/jam-leomi)
 - [Rebecca Miller-Webster – Building resilience in our organizations, our teams, and ourselves](https://www.devopsdays.org/events/2016-chicago/program/rebecca-miller-webster)
 - [Jeff Smith – Dungeons and Dragons….and DevOps](https://www.devopsdays.org/events/2016-chicago/program/jeff-smith)
 
