@@ -1,0 +1,147 @@
+name: "2021-texas" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2021" # The year of the event. Make sure it is in quotes.
+city: "Texas" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaystexas" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Virtual state-wide Devopsdays is coming to Texas!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2021-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2021-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2021-03-02T08:00:00+05:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2021-03-02T16:59:59+05:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start:  # start accepting talk proposals.
+cfp_date_end:  # close your call for proposals.
+cfp_date_announce:  # inform proposers of status
+
+cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Texas" # Defaults to city, but you can make it the venue name.
+#
+location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+ # - name: propose
+ # - name: location
+ # - name: registration
+ # - name: program
+ # - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "JJ Asghar"
+    twitter: "jjasghar"
+    employer: "IBM"
+    bio: "JJ works at IBM on the IBM cloud as a Developer Advocate. He’s focusing on the IBM Kubernetes Service trying to make companies and users have a successful on boarding to the Cloud Native ecosystem."
+    github: "jjasghar"
+    facebook: ""
+    linkedin: ""
+    image: "jj.jpg"
+    role: "Co-Founder"
+  - name: "Richard Boyd"
+    twitter: "richardboydii"
+    employer: "Amazon Web Services"
+    bio: "Richard is a Senior Solutions Architect for Amazon Web Services in Austin, TX. As a part of the Well-Architected Team, he works with AWS Partners to optimize Workloads according to the Well-Architected Framework. In his spare time he loves organizing technology conferences and Meetups and is always looking for something new to learn from others."
+    github: "richardboydii"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/richardboydii/"
+    image: "rich.jpg"
+    role: "Co-Founder"
+  - name: "Dan Collins"
+    employer: "American Bureau of Shipping"
+    linkedin: "https://www.linkedin.com/in/thedancollins/"
+    facebook: "https://www.facebook.com/realdancollins"
+    github: "thedancollins"
+    website: "http://thedancollins.com/"
+    twitter: "realdancollins"
+    image: "dan.jpg"
+    bio: "Dan is the founder of DevOpsDays Houston, and a U of H graduate with over 20 years of experience in software and systems development. In the Microsoft-heavy world of Houston IT, he specializes in non-Microsoft technologies with an emphasis on lean methodology and automated software pipelines. Dan is a recovering, former advocate of embedded IT, a blockchain gadfly and has been leading the Houston DevOps Meetup since June 2017. The future is decentralized, distributed, renewable, sustainable and powered by Houston Texas."
+  # - name: "Gokul Sridharan"
+  - name: "John-Paul Herold"
+    employer: "Southwest Airlines"
+    bio: "John-Paul Herold is an engineer focusing on cloud architectures, tooling for more frequent deployments, container orchestration, improving observability, and building great teams. John-Paul was previously a Java developer, made the transition to Cloud Engineer 6 years ago, and is currently a Tech Lead for Southwest Airlines.<br><br>His path with DevOpsDays started in 2015 when he attended both Dallas and Austin, and has continued every year since. He volunteered for Dallas the first time in 2019, and Dallas 2020 will be his first time as an organizer. <br><br>John-Paul is based in Dallas and has a CSE degree from Southern Methodist University. In his off time he enjoys playing soccer, listening to music, running a homelab, reading tech books, and working on projects in his garage."
+    twitter: "thedailyherold"
+    linkedin: "https://www.linkedin.com/in/johnpaulherold/"
+    image: "herold.jpg"
+  # - name: "Jessica Sabugo"
+  - name: "Laura Santamaria"
+    twitter: "nimbinatus"
+    github: "nimbinatus"
+    image: "laura.jpg"
+    website: "https://nimbinatus.com"
+    bio: "As LogDNA’s Developer Advocate, Laura Santamaria loves to learn and explain how things work. She bridges the gap between external developers and SREs and internal engineering teams. In addition, she is the curator for A Minute on the Mic. Apart from work, she co-hosts Austin DevOps, taught Python for Women Who Code Austin for many years, and volunteers with DevOpsDays Austin. Outside of tech, Laura runs, plays with her dogs, throws discs, and watches clouds—the real kind."
+  - name: "Karl Katzke"
+    twitter: "kkatzke"
+    github: "karlkatzke"
+    bio: ""
+  # - name: "Sagar Karmarkar"
+  - name: "Svetlana Kryukova"
+    role: Organizer
+    employer: "Two Sigma Solutions"
+    linkedin: "https://www.linkedin.com/in/svetlana-kryukova/"
+    github: "skryukova"
+    image: "svetlana.jpg"
+    bio: " Svetlana is a software development leader with over 20 years of experience in enterprise software. Passionate about building teams, creating new products and solving problems. Co-organizer of Houston DevOps Meetup and Houston DevOpsDays since June 2018."
+  - name: "Reginald Davis"
+    employer: "Schlumberger"
+    twitter: "coolblknerd"
+    image: "reggie.jpg"
+    linkedin: "https://www.linkedin.com/in/reginald-j-davis/"
+    bio: "Reggie is SRE for Schlumberger who has a passion for cloud-native application development through the use of tools like Kubernetes and Golang, as well as, improving the culture of technology by creating highly collaborative environments. Co-host of 'Coolest Nerds in the Room' podcast and co-founder of the meetup group, 'Tech for the Culture'"
+  - name: "Shaun Mouton"
+    twitter: "sdmouton"
+    employer: "Chef"
+    bio: "Shaun isn't a devops but can help sprinkle some on your infrastructure, apps, and/or culture. Friendgineering 4 lyfe, hugops not harm, tirefi.re benevolent underlord."
+    github: "moutons"
+    facebook: "http://tirefi.re/facebook/"
+    linkedin: "https://www.linkedin.com/in/sdmouton/"
+    image: "shaun.jpg"
+
+organizer_email: "texas@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: samplesponsorname
+    level: gold
+ #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: arresteddevops
+    level: community
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: gold
+    label: Gold
+#    max: 10
+  - id: silver
+    label: Silver
+    max: 0 # This is the same as omitting the max limit.
+  - id: bronze
+    label: Bronze
+  - id: community
+    label: Community
