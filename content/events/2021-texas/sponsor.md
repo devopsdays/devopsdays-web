@@ -4,63 +4,114 @@ Type = "event"
 Description = "Sponsor devopsdays Texas 2021"
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
+<style>
+  thead th:not(:first-child) {
+    padding: 0 2.5rem;
+  }
+  tbody tr {
+    border-top: 1px dashed #BDBDBD;
+  }
+  tbody tr:last-child {
+      border-bottom: 1px dashed #BDBDBD;
+    }
+  tbody td {
+    padding-left:15px;
+	padding-right:15px;
+  }
+</style>
+
+We greatly value sponsors for this open event.  If you are interested in sponsoring, please checkout our <a href="https://assets.devopsdays.org/events/2021/texas/devopsdays-texas-2021-prospectus.pdf">prospectus</a> or drop us an email at [{{< email_organizers >}}].
 
 <hr>
 
-devopsdays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
-<p>
-Gold sponsors get a full table and Silver sponsors a shared table where they can interact with those interested to come visit during breaks. All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
+devopsdays is a self-organizing conference for practitioners that depends on sponsorships. We do not sell product presentations or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
 <p>
 The best thing to do is send engineers to interact with the experts at devopsdays on their own terms.
 <p>
 
-<!--
-<hr/>
+#### Virtual Platform
+Discord is our platform of choice for the virtual venue. It’s been used to host virtual DevOpsDays events including
+DevOpsDays Chicago 2020. Discord provides several capabilities for virtual events including automated attendee
+registration, breakout rooms with video, and private channels for coordination.
+<p>
 
-<div style="width:590px">
-<table border=1 cellspacing=1>
-  <tr>
-    <th><i>packages</i></th>
-    <th><center><b><u>Bronze<br />1000 usd</u></center></b></th>
-    <th><center><b><u>Silver<br />3000 usd</u></center></b></th>
-    <th><center><b><u>Gold<br />5000 usd</u></center></b></th>
-    <th></th>
-  </tr>
-<tr><td>2 included tickets</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on event website</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on shared slide, rotating during breaks</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on all email communication</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on its own slide, rotating during breaks</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>1 minute pitch to full audience (including streaming audience)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr></tr>
-<tr><td>2 additional tickets (4 in total)</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td>4 additional tickets (6 in total)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>shared table for swag</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td>booth/table space</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
+<p></p>
+
+### Packages for 2021
+
+| Package | Price | Purchase | What You Get |
+| --- | :---: | :---: | --- |
+| Gold 	 | $3,000 | <span class="btn btn-success">Coming Soon</span> | Our highest visibility package also includes Voice and Audio in your very own DIscord Channel. Beyond that you’ll get premium placement for your pre-recorded pitch and access to 5 emojis on Discord. |
+| Silver | $2,000 | <span class="btn btn-success">Coming Soon</span> | A step down from Gold, the Silver package still includes a 2 minute pre-recorded pitch and 3 custom emojis in Discord. This is great for sponsors that want to engage with our attendees but don’t need full Audio and Video for their Sponsor Channel.|
+| Bronze | $1,000 | <span class="btn btn-success">Coming Soon</span> | If you want to find your next hire or need to build out your team, this package is great for advertising open positions and drawing quality candidates.|
+| Community | Free | Email us | Are you a Meetup, a social organization in the STEM field, or another conference? If so please consider becoming a Community Sponsor (for free!) and help build out our network of DevOps enthusiasts. We also provide a free channel on our Discord server where you can engage with your community. |
+
+<p></p>
+
+### Prospectus
+
+<a href="https://assets.devopsdays.org/events/2021/texas/devopsdays-texas-2021-prospectus.pdf" class="btn btn-primary"><i class="fa fa-folder fa-lg"></i>&nbsp;&nbsp;&nbsp;View the DevOpsDays Texas 2021 Sponsor Prospectus</a> 
+
+<p></p>
+
+### Sponsorship Package Comparison
+
+<table cellspacing=1>
+<thead>
+<tr>
+	<th>Sponsor Packages</th>
+	<th>Gold<br/>(max 3)</th>
+	<th>Silver<br/>(max 4)</th>
+	<th>Bronze<br/>(max 4)</th>
+	<th>Community<br/>Unlimited</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+	<td>Price (USD)</td>
+	<td>$3,000</td>
+	<td>$2,000</td>
+	<td>$1,000</td>
+	<td>Free</td>
+</tr>
+
+<tr>
+	<td>Emoji on Discord</td>
+	<td>5</td>
+	<td>3</td>
+	<td>1</td>
+	<td>1</td>
+</tr>
+
+<tr>
+	<td>Pre-Recorded Pitch</td>
+	<td>2 Minutes at Either<br/>Opening, Lunch, or Closing</td>
+	<td>2 Minutes Before<br/>One of Our Talks</td>
+	<td>1 Minute During<br/>Ignite Talks</td>
+	<td>1 minute, time TBD</td>
+</tr>
+
+<tr>
+	<td>Logo on website and title cards</td>
+	<td>Large</td>
+	<td>Medium</td>
+	<td>Small</td>
+	<td>Small</td>
+</tr>
+
+<tr>
+	<td>Sponsor channel</td>
+	<td>Individual Sponsor Channel<br/> with Voice and Audio</td>
+	<td>Individual Sponsor Channel</td>
+	<td>Individual Sponsor Channel</td>
+	<td>Individual Community Channels</td>
+</tr>
+
+</tbody>
 </table>
-<hr/>
-There are also opportunities for exclusive special sponsorships. We'll have sponsors for various events with special privileges for the sponsors of these events. If you are interested in special sponsorships or have a creative idea about how you can support the event, send us an email.
-<br/>
-<br/>
 
-<br>
-<br>
-<table border=1 cellspacing=1>
-  <tr>
-    <th><i>Sponsor FAQ</i></th>
-    <th><center><b>Answers to questions frequently asked by sponsors&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</center></b></th>
-    <th></th>
-  </tr>
-<tr><td>What dates/times can we set up and tear down?</td><td></td></tr>
-<tr><td>How do we ship to the venue?</td><td></td></tr>
-<tr><td>How do we ship from the venue?</td><td></td></tr>
-<tr><td>Whom should we send?</td><td></td></tr>
-<tr><td>What should we expect regarding electricity? (how much, any fees, etc)</td><td></td></tr>
-<tr><td>What should we expect regarding WiFi? (how much, any fees, etc)</td><td></td></tr>
-<tr><td>How do we order additional A/V equipment?</td><td></td></tr>
-<tr><td>Additional important details</td><td></td></tr>
-</table>
-</div>
+<p></p>
 
--->
+Please contact us at {{< email_organizers >}} if you have questions about any of the sponsorship packages.
+
 <hr/>
