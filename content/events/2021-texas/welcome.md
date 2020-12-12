@@ -81,7 +81,20 @@ Description = "devopsdays Texas 2021"
   </div>
 </div>
 
-<!-- Uncomment if you added your city twitter name -->
-<!--
-{{< event_twitter >}}
--->
+<!-- Twitter -->
+<div class="row">
+  <div class="col-md-2"></div>
+  <div class="col-md-8">{{< event_twitter >}}</div>
+</div>
+
+<!-- LinkedIn -->
+<div class="row">
+  <div class="col-md-2"></div>
+  <div class="col-md-8">
+	<script src="https://platform.linkedin.com/in.js" type="text/javascript">
+	  lang: en_US 
+	  authorize: true
+	</script>
+	<script type="IN/FollowCompany" data-id="69730835"></script>
+  </div>
+</div>
