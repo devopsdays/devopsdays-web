@@ -6,6 +6,8 @@ Title = "How to grow a local devops community without funding"
 Type = "talk"
 Speakers = ["rafael-gomes"]
 sharing_image = "rafael-gomes.png"
+speakerdeck = "https://speakerdeck.com/devopsdayschi/how-to-grow-a-local-devops-community-without-funding-rafael-gomes-devopsdays-chicago-2020"
+youtube = "jV8NESozBSM"
 +++
 Few sponsors, almost no money and a huge country. DevOpsDays in Brazil big cities are thriving, but what about smaller towns without tech communities? What are the challenges and achievements so far?
 

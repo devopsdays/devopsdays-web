@@ -17,19 +17,21 @@
                 {{- $.Scratch.Add $level.id 1 -}}
               {{- end -}}
             {{- end -}}
-            {{- if ( $e.startdate) or (ge (dateFormat "2006-01-02" $e.startdate) (dateFormat "2006-01-02" (dateFormat "2006-01-02" now))) -}}
-              {{- if ne $e.sponsors_accepted "no" -}}
-                {{- if or (not $level.max) (lt ($.Scratch.Get $level.id) $level.max) -}}
-                  {{- with $e.sponsor_link -}}
-                    <a href = "{{ . }}" class="sponsor-cta">
-                  {{- else -}}
-                    <a href = "{{ (printf "/events/%s/sponsor" $e.name) }}" class="sponsor-cta">
+            {{- if $e.startdate -}}
+              {{- if ge (dateFormat "2006-01-02" $e.startdate) (dateFormat "2006-01-02" now) -}}
+                {{- if ne $e.sponsors_accepted "no" -}}
+                  {{- if or (not $level.max) (lt ($.Scratch.Get $level.id) $level.max) -}}
+                    {{- with $e.sponsor_link -}}
+                      <a href = "{{ . }}" class="sponsor-cta">
+                    {{- else -}}
+                      <a href = "{{ (printf "/events/%s/sponsor" $e.name) }}" class="sponsor-cta">
+                    {{- end -}}
+                      <i>Join as {{ $level.label }} Sponsor!</i>
+                    </a>
                   {{- end -}}
-                    <i>Join as {{ $level.label }} Sponsor!</i>
-                  </a>
                 {{- end -}}
               {{- end -}}
-              {{- end -}}
+            {{- end -}}
             </div>
           </div>
         {{- if $e.sponsors -}}

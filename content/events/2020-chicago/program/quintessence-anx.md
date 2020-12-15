@@ -6,6 +6,8 @@ Title = "Prevent Heroism: How to Work Today to Reduce Work Tomorrow"
 Type = "talk"
 Speakers = ["quintessence-anx"]
 sharing_image = "quintessence-anx.png"
+notist = "quintessence/wtf2Su"
+youtube = "K6jybPz3ovc"
 +++
 Production is down, again, and The Lone Engineer worked all day and night to save the business! Overtime so routine that's it's no longer "over", it's "expected". We create these scenarios by supporting strenuous environments and rewarding Save the Day behaviors. So let's discuss how to change that.
 
