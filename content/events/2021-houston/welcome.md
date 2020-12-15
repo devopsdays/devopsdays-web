@@ -12,10 +12,9 @@ Description = "devopsdays Houston 2021"
 <div class="row">
   <div class="alert alert-info" role="alert">
     <h2>COVID-19</h2>
-    <p>The onference will take place live and in-person. The <a href="http://norriscenters.com/">Norris Conference Centers</a> have taken measures to make their venue as <a HREF="http://norriscenters.com/wp-content/uploads/2020/05/NCC_COVID19_OpeningGuidelines.pdf">safe as possible</a>, and we at DevOpsDays Houston take safety seriously.  We will monitor and adhere to local guidelines on handling of the Covid19 virus.  In the event, the conference must switch to a virtual format, we will make that decision public by no later than March 1, 2021. Stay tuned to our <A HREF="https://twitter.com/DevOpsDaysHTown">Twitter feed</A> or our <A HREF="https://www.linkedin.com/company/devopsdays-houston">LinkedIn page</A> for conference news and any changes.
+    <p>The onference will take place live and in-person. The <a href="http://norriscenters.com/">Norris Conference Centers</a> have taken measures to make their venue as <a HREF="http://norriscenters.com/wp-content/uploads/2020/05/NCC_COVID19_OpeningGuidelines.pdf">safe as possible</a>, and we at DevOpsDays Houston take safety seriously.  We will monitor and adhere to local guidelines on handling of the Covid19 virus. Stay tuned to our <A HREF="https://twitter.com/DevOpsDaysHTown">Twitter feed</A> or our <A HREF="https://www.linkedin.com/company/devopsdays-houston">LinkedIn page</A> for conference news and any changes.
   </div>
 </div>
-
 
 <div class = "row">
   <div class = "col-md-2">
@@ -44,14 +43,14 @@ Description = "devopsdays Houston 2021"
   </div>
 </div> -->
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
-</div>
+</div> -->
 
 <!-- <div class = "row">
   <div class = "col-md-2">
