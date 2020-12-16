@@ -24,24 +24,24 @@ Description = "devopsdays Kraków 2021"
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div>
-<div class = "row">
+</div> -->
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
     <a href='/events/2021-krakow/registration/'>Register here!</a>
   </div>
-</div>
-<div class = "row">
+</div> -->
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
     <a href='https://dodkrakow.pl/schedule/'>Check here!</a>
   </div>
-</div>
-<div class = "row">
+</div> -->
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>
   </div>
@@ -61,4 +61,4 @@ Description = "devopsdays Kraków 2021"
 
 <br />
 {{< event_twitter >}}
-</div>
+<!-- </div> -->
