@@ -37,14 +37,14 @@ location: ""
 location_address: ""
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: registration
-  - name: sponsor
-    url: "mailto: karolina.murdza@proidea.pl"
+#  - name: registration
+#  - name: sponsor
+#    url: "mailto: karolina.murdza@proidea.pl"
 #  - name: location
-  - name: program
-    url: https://dodkrakow.pl/schedule/
-  - name: speakers
-    url: https://dodkrakow.pl/speakers/
+#  - name: program
+#    url: https://dodkrakow.pl/schedule/
+#  - name: speakers
+#    url: https://dodkrakow.pl/speakers/
   - name: contact
   - name: conduct
 # - name: example
