@@ -72,7 +72,7 @@ organizer_email: "krakow@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: ibm
+  - id: ibmcode
     level: sponsor
   - id: brainly
     level: swag
@@ -91,7 +91,7 @@ sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
   - id: sponsor
-    label: Sponsors
+    label: " "
   - id: swag
     label: Swag Partner
   - id: community
