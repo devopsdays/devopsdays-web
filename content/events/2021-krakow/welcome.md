@@ -17,7 +17,7 @@ Description = "devopsdays Kraków 2021"
   </div>
 </div>
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
@@ -48,7 +48,7 @@ Description = "devopsdays Kraków 2021"
   <div class = "col-md-8">
     <a href='/events/2021-krakow/sponsor/'>We need you!</a>
   </div>
-</div>
+</div> -->
 
 <div class = "row">
   <div class = "col-md-2">
