@@ -91,7 +91,7 @@ sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
   - id: sponsor
-    label: ""
+    label: Sponsors
   - id: swag
     label: Swag Partner
   - id: community
