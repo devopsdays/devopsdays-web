@@ -20,7 +20,7 @@ Description = "Sponsor devopsdays Texas 2021"
   }
 </style>
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please checkout our <a href="https://assets.devopsdays.org/events/2021/texas/devopsdays-texas-2021-prospectus.pdf">prospectus</a> or drop us an email at [{{< email_organizers >}}].
+We greatly value sponsors for this open event.  If you are interested in sponsoring, please checkout our <a href="https://links.devopsdaystx.org/prospectus">prospectus</a> or drop us an email at [{{< email_organizers >}}].
 
 <hr>
 
@@ -41,6 +41,7 @@ registration, breakout rooms with video, and private channels for coordination.
 
 | Package | Price | Purchase | What You Get |
 | --- | :---: | :---: | --- |
+| Captioning | $5,500 | Email us | Do you want to really stand out with your sponsorship? If so, the Captioning Sponsorship will set you apart from the crowd. We have two openings, one for each day of the conference. Your company will be featured on our transcription streams. This also includes everything from the Gold Package. |
 | Gold 	 | $3,000 | <span class="btn btn-success">Coming Soon</span> | Our highest visibility package also includes Voice and Audio in your very own DIscord Channel. Beyond that you’ll get premium placement for your pre-recorded pitch and access to 5 emojis on Discord. |
 | Silver | $2,000 | <span class="btn btn-success">Coming Soon</span> | A step down from Gold, the Silver package still includes a 2 minute pre-recorded pitch and 3 custom emojis in Discord. This is great for sponsors that want to engage with our attendees but don’t need full Audio and Video for their Sponsor Channel.|
 | Bronze | $1,000 | <span class="btn btn-success">Coming Soon</span> | If you want to find your next hire or need to build out your team, this package is great for advertising open positions and drawing quality candidates.|
@@ -50,7 +51,7 @@ registration, breakout rooms with video, and private channels for coordination.
 
 ### Prospectus
 
-<a href="https://assets.devopsdays.org/events/2021/texas/devopsdays-texas-2021-prospectus.pdf" class="btn btn-primary"><i class="fa fa-folder fa-lg"></i>&nbsp;&nbsp;&nbsp;View the DevOpsDays Texas 2021 Sponsor Prospectus</a> 
+<a href="https://links.devopsdaystx.org/prospectus" class="btn btn-primary"><i class="fa fa-folder fa-lg"></i>&nbsp;&nbsp;&nbsp;View the DevOpsDays Texas 2021 Sponsor Prospectus</a> 
 
 <p></p>
 
@@ -60,6 +61,7 @@ registration, breakout rooms with video, and private channels for coordination.
 <thead>
 <tr>
 	<th>Sponsor Packages</th>
+	<th>Captioning<br/>(max 2)</th>
 	<th>Gold<br/>(max 3)</th>
 	<th>Silver<br/>(max 4)</th>
 	<th>Bronze<br/>(max 4)</th>
@@ -69,6 +71,7 @@ registration, breakout rooms with video, and private channels for coordination.
 <tbody>
 <tr>
 	<td>Price (USD)</td>
+	<td>$5,500</td>
 	<td>$3,000</td>
 	<td>$2,000</td>
 	<td>$1,000</td>
@@ -78,6 +81,7 @@ registration, breakout rooms with video, and private channels for coordination.
 <tr>
 	<td>Emoji on Discord</td>
 	<td>5</td>
+	<td>5</td>
 	<td>3</td>
 	<td>1</td>
 	<td>1</td>
@@ -85,6 +89,7 @@ registration, breakout rooms with video, and private channels for coordination.
 
 <tr>
 	<td>Pre-Recorded Pitch</td>
+	<td>2 Minutes at Either<br/>Opening, Lunch, or Closing</td>
 	<td>2 Minutes at Either<br/>Opening, Lunch, or Closing</td>
 	<td>2 Minutes Before<br/>One of Our Talks</td>
 	<td>1 Minute During<br/>Ignite Talks</td>
@@ -94,6 +99,7 @@ registration, breakout rooms with video, and private channels for coordination.
 <tr>
 	<td>Logo on website and title cards</td>
 	<td>Large</td>
+	<td>Large</td>
 	<td>Medium</td>
 	<td>Small</td>
 	<td>Small</td>
@@ -101,6 +107,7 @@ registration, breakout rooms with video, and private channels for coordination.
 
 <tr>
 	<td>Sponsor channel</td>
+	<td>Individual Sponsor Channel<br/> with Voice and Audio</td>
 	<td>Individual Sponsor Channel<br/> with Voice and Audio</td>
 	<td>Individual Sponsor Channel</td>
 	<td>Individual Sponsor Channel</td>
