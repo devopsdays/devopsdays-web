@@ -4,14 +4,14 @@ Type = "event"
 Description = "Propose a talk for devopsdays Texas 2021"
 +++
   {{< cfp_dates >}}
-
+  <center>Submit your proposals at <A HREF="https://sessionize.com/devopsdays-texas-2021/">Sessionize.com</A></center>
 <hr>
 
 There are three ways to propose a topic at devopsdays:
 <ol>
-  <li><strong><em>A 30-minute talk</em></strong> presented during the conference, usually in the mornings.</li>
-  <li><strong><em>An Ignite talk</em></strong> presented during the <a href="/pages/ignite-talks-format">Ignite sessions</a> (scheduling varies). These are 5 minutes slots with slides changing every 15 seconds (20 slides total).</li>
-  <li><strong><em>Open Space</em></strong>: If you'd like to lead a group discussion during the attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout sessions, it is not necessary to propose it ahead of time. Those topics are suggested in person at the conference. If you'd like to demo your product or service, you should <a href="../sponsor">sponsor the event</a> and demo it at your table.
+  <li><strong><em>A Presentation</em></strong> A pre-recorded 30-minute talk on the topic of your choice, optionally with some time for questions.</li>
+  <li><strong><em>An Ignite talk</em></strong> A pre-recorded 5-minute, 20 auto-forwarding slides lightning talk, delivered to the entire audience. If you are not familiar with ignites, learn more <A href="http://www.ignitetalks.io/">here</A>.</li>
+  <li><strong><em>Open Space</em></strong>: If you'd like to lead a group discussion during the attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout sessions, it is not necessary to propose it ahead of time. Those topics are suggested at the conference. If you'd like to demo your product or service, you should <a href="../sponsor">sponsor the event</a> and demo it in your sponsor channel.
 </ol>
 
 <hr>
@@ -27,9 +27,4 @@ Choosing talks is part art, part science; here are some factors we consider when
 
 <hr>
 
-<strong>How to submit a proposal:</strong> Send an email to [{{< email_organizers >}}] with the following information
-<ol>
-	<li>Type (presentation, panel discussion, ignite)</li>
-	<li>Proposal Title (can be changed later)</li>
-	<li>Description (several sentences explaining what attendees will learn)</li>
-</ol>
+<strong>How to submit a proposal:</strong> Submit your proposals at <A HREF="https://sessionize.com/devopsdays-texas-2021/">Sessionize.com</A>.
