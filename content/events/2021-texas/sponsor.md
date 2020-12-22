@@ -23,7 +23,7 @@ Description = "Sponsor devopsdays Texas 2021"
   }
 </style>
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please checkout our <a href="https://links.devopsdaystx.org/prospectus">prospectus</a> or drop us an email at [{{< email_organizers >}}].
+We greatly value sponsors for this open event.  If you are interested in sponsoring, please checkout our <a href="https://assets.devopsdays.org/events/2021/texas/devopsdays-texas-2021-prospectus.pdf">prospectus</a> or drop us an email at [{{< email_organizers >}}].
 
 <hr>
 
@@ -55,7 +55,7 @@ registration, breakout rooms with video, and private channels for coordination.
 
 ### Prospectus
 
-<a href="https://links.devopsdaystx.org/prospectus" class="btn btn-primary"><i class="fa fa-folder fa-lg"></i>&nbsp;&nbsp;&nbsp;View the DevOpsDays Texas 2021 Sponsor Prospectus</a> 
+<a href="https://assets.devopsdays.org/events/2021/texas/devopsdays-texas-2021-prospectus.pdf" class="btn btn-primary"><i class="fa fa-folder fa-lg"></i>&nbsp;&nbsp;&nbsp;View the DevOpsDays Texas 2021 Sponsor Prospectus</a> 
 
 <p></p>
 
