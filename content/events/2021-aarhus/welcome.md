@@ -8,7 +8,7 @@ Description = "devopsdays Aarhus 2021"
    {{< event_logo >}}
 </div>
 
-Due to the COVID-19 situation, we rescheduled the event from June 2020 to February 3-4, 2021. We will automatically postpone your ticket to these dates, unless you prefer a full refund of course.
+Due to the COVID-19 situation, we rescheduled the event from June 2020 to the fall of 2021. We will automatically postpone your ticket to these dates, unless you prefer a full refund of course.
 
 <div class = "row">
   <div class = "col-md-2">
