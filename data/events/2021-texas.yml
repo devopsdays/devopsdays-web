@@ -149,6 +149,9 @@ organizer_email: "texas@devopsdays.org" # Put your organizer email address here
 sponsors:
   - id: twosigma
     level: bronze
+  - id: bridgecrew
+    level: gold
+    url: "https://bridgecrew.io/?utm_medium=sponsoredevents&utm_source=devopsdays&utm_campaign=tx-210302"
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
