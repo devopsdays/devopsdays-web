@@ -35,7 +35,7 @@ proposal_email: "proposals-vancouver-2016@devopsdays.org" # Put your proposal em
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
   - id: 2016-appneta
     level: gold
-  - id: chef-before-20210112
+  - id: chef-before-20160714
     level: gold
   - id: 2016-demonware
     level: gold
