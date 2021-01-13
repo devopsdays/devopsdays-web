@@ -5,7 +5,7 @@ aliases = ["/events/2021-raleigh/"]
 Description = "devopsdays Raleigh 2021"
 +++
 
-# DevopsDaysRDU are planning on having this event in person, but DevopsDaysRDU will evaluate as necessary based on safety and current conditions from COVID-related concerns.
+# DevopsDaysRDU will now be a virtual event on April 8th. More details will be published soon! 
 
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
