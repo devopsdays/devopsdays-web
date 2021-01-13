@@ -150,7 +150,7 @@ proposal_email: "proposals-dallas-2017@devopsdays.org" # Put your proposal email
 sponsors:
   - id: capitalone
     level: location_and_platinum
-  - id: chef
+  - id: chef-before-20210112
     level: platinum
   - id: verizon
     level: platinum
