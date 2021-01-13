@@ -73,7 +73,7 @@ proposal_email: "proposals-detroit-2019@devopsdays.org" # Put your proposal emai
 sponsors:
   - id: russellvideo
     level: AV
-  - id: chef
+  - id: chef-before-20210112
     level: gold
   - id: dynatrace
     level: gold

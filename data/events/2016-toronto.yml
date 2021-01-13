@@ -38,7 +38,7 @@ proposal_email: "proposals-toronto-2016@devopsdays.org" # Put your proposal emai
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
   - id: deloitte-before-20180401
     level: platinum
-  - id: chef
+  - id: chef-before-20160714
     level: gold
   - id: pivotal-before-20190307
     level: gold

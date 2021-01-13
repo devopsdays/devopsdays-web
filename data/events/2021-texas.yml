@@ -149,6 +149,8 @@ sponsors:
   - id: env0
     level: gold
     url: "https://www.env0.com/?utm_campaign=devopsdays-texas&utm_source=devopsdays-texas&utm_medium=sponsorship"
+  - id: chef
+    level: gold
   - id: arresteddevops
     level: community
 

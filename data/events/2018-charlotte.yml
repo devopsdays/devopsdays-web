@@ -83,7 +83,7 @@ sponsors:
   - id: red-ventures
     level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  - id: chef
+  - id: chef-before-20210112
     level: silver
   - id: cloudbees
     level: silver

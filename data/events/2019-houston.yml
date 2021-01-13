@@ -125,7 +125,7 @@ sponsors:
     level: gold
   - id: mongodb
     level: gold
-  - id: chef
+  - id: chef-before-20210112
     level: gold
   - id: solarwinds-before-20200114
     level: gold
