@@ -5,9 +5,9 @@ aliases = ["/events/2021-kiev", "/events/2021-kyiv/"]
 Description = "devopsdays Kyiv 2021"
 +++
 
-### Due to the outbreak of COVID-19, we cannot make the offline event this year.
+### Due to the on-going COVID-19 situation, this will be an online event.
 
-### Please, join us for the DevOps Days Kyiv 2020 "From Home" edition.
+### Please, join us for the DevOps Days Kyiv 2021 "From Home" edition!
 
 ### See you online!
 
