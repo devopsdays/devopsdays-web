@@ -111,11 +111,11 @@ registration, breakout rooms with video, and private channels for coordination.
 
 <tr>
 	<td>Sponsor channel</td>
-	<td>Individual Sponsor Channel<br/> with Voice and Audio</td>
-	<td>Individual Sponsor Channel<br/> with Voice and Audio</td>
-	<td>Individual Sponsor Channel</td>
-	<td>Individual Sponsor Channel</td>
-	<td>Individual Community Channels</td>
+	<td style="max-width:300px">Individual Sponsor text chat channel and a voice/audio channel</td>
+	<td style="max-width:300px">Individual Sponsor text chat channel and a voice/audio channel</td>
+	<td style="max-width:300px">Individual Sponsor text chat channel</td>
+	<td style="max-width:300px">Individual Sponsor text chat channel</td>
+	<td style="max-width:300px">Individual Community text chat channel</td>
 </tr>
 
 </tbody>
