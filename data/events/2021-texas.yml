@@ -151,6 +151,8 @@ sponsors:
     url: "https://www.env0.com/?utm_campaign=devopsdays-texas&utm_source=devopsdays-texas&utm_medium=sponsorship"
   - id: chef
     level: gold
+  - id: buurst-inc
+    level: bronze
   - id: arresteddevops
     level: community
 
