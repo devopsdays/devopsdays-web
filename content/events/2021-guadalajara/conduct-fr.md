@@ -34,4 +34,4 @@ Nous attendons de chacun‧e le respect de ces règles dans le bâtiment des con
 
 
 
-Le code de conduite devopsdays guadalajara 2021 est basé sur [fr.confcodeofconduct.com](https://fr.confcodeofconduct.com)._ 
+Le code de conduite devopsdays guadalajara 2021 est basé sur [fr.confcodeofconduct.com](https://fr.confcodeofconduct.com)._
