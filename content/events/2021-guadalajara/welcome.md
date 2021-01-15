@@ -14,8 +14,11 @@ Description = "devopsdays guadalajara 2021"
     <strong>Dates</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_start >}} - {{< event_end >}}
+    September
   </div>
+  <!-- <div class = "col-md-8">
+    {{< event_start >}} - {{< event_end >}}
+  </div> -->
 </div>
 
 <!-- <div class = "row">
@@ -36,14 +39,14 @@ Description = "devopsdays guadalajara 2021"
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -82,6 +85,4 @@ Description = "devopsdays guadalajara 2021"
 </div>
 
 <!-- Uncomment if you added your city twitter name -->
-<!--
 {{< event_twitter >}}
--->

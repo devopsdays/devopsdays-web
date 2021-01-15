@@ -34,11 +34,11 @@ location: "guadalajara" # Defaults to city, but you can make it the venue name.
 location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- - name: propose
- - name: location
- # - name: registration
- # - name: program
- # - name: speakers
+  - name: propose
+  - name: location
+# - name: registration
+# - name: program
+# - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -84,7 +84,7 @@ organizer_email: "guadalajara@devopsdays.org" # Put your organizer email address
 #     url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 #   - id: arresteddevops
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
