@@ -34,8 +34,8 @@ location: "guadalajara" # Defaults to city, but you can make it the venue name.
 location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
- # - name: location
+ - name: propose
+ - name: location
  # - name: registration
  # - name: program
  # - name: speakers
@@ -78,12 +78,11 @@ organizer_email: "guadalajara@devopsdays.org" # Put your organizer email address
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
-sponsors:
-  - id: samplesponsorname
-    level: gold
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  - id: arresteddevops
-    level: community
+# sponsors:
+#   - id: samplesponsorname
+#     level: gold
+#     url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+#   - id: arresteddevops
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -91,14 +90,14 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
-sponsor_levels:
-  - id: gold
-    label: Gold
-#    max: 10
-  - id: silver
-    label: Silver
-    max: 0 # This is the same as omitting the max limit.
-  - id: bronze
-    label: Bronze
-  - id: community
-    label: Community
+# sponsor_levels:
+#   - id: gold
+#     label: Gold
+#     max: 10
+#   - id: silver
+#     label: Silver
+#     max: 0 # This is the same as omitting the max limit.
+#   - id: bronze
+#     label: Bronze
+#   - id: community
+#     label: Community
