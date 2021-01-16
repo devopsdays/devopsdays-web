@@ -66,10 +66,10 @@ registration, breakout rooms with video, and private channels for coordination.
 <tr>
 	<th>Sponsor Packages</th>
 	<th>Captioning<br/>(max 2)</th>
-	<th>Gold<br/>(max 3)</th>
-	<th>Silver<br/>(max 4)</th>
-	<th>Bronze<br/>(max 4)</th>
-	<th>Community<br/>Unlimited</th>
+	<th>Gold</th>
+	<th>Silver</th>
+	<th>Bronze</th>
+	<th>Community</th>
 </tr>
 </thead>
 <tbody class="comparison">
