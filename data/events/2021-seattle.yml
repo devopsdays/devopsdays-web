@@ -38,7 +38,7 @@ location_address:  #Optional - use the street address of your venue. This will s
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
 #  - name: location
-#  - name: registration
+  - name: registration
 #  - name: program
 #  - name: speakers
 # - name: sponsor
