@@ -59,6 +59,7 @@ team_members: # Name is the only required field for team members.
   - name: "Jakub Barć"
   - name: "Piotr Godowski"
   - name: "Konrad Gądek"
+  - name: "Janusz Kamieński"
   - name: "Adam Kozłowski"
   - name: "Marcin Lewandowski"
   - name: "Michał Różycki"
