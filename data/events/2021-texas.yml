@@ -27,7 +27,6 @@ registration_closed: "" #set this to true if you need to manually close registra
 registration_link: "https://www.eventbrite.com/e/devopsdays-texas-tickets-132588572991" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
-#
 coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Texas" # Defaults to city, but you can make it the venue name.
 #
