@@ -11,19 +11,19 @@ event_group: "Zürich"
 #   variable: 2021-09-09T23:59:59+02:00
 # Note: we allow 2021-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate:  2021-04-21T00:00:00+02:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  2021-04-22T23:59:59+02:00 # The end date of your event. Leave blank if you don't have a venue reserved yet. 
+startdate:  2021-09-07T00:00:00+02:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  2021-09-08T23:59:59+02:00 # The end date of your event. Leave blank if you don't have a venue reserved yet. 
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  2019-11-18T00:00:00+02:00 # start accepting talk proposals.
-cfp_date_end:  2020-03-15T23:59:59+02:00 # close your call for proposals.
-cfp_date_announce: 2020-04-30T00:00:00+02:00 # inform proposers of status
+cfp_date_start:  2021-02-04T00:00:00+02:00 # start accepting talk proposals.
+cfp_date_end:  2021-05-31T23:59:59+02:00 # close your call for proposals.
+cfp_date_announce: 2021-07-01T00:00:00+02:00 # inform proposers of status
 
 cfp_open: "true"
-cfp_link: "https://sessionize.com/devopsdayszh-2020/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://sessionize.com/devopsdayszh-2021/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: 2020-02-10T00:00:00+02:00
-registration_date_end: 2021-04-20T00:00:00+02:00
+registration_date_start: 2021-02-01T00:00:00+02:00
+registration_date_end: 2021-09-06T00:00:00+02:00
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://ti.to/dod/dodzh2020" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -195,6 +195,8 @@ sponsors:
     level: silver
   - id: switch
     level: bronze
+  - id: microsoft
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

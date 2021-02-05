@@ -160,7 +160,11 @@ sponsors:
     level: gold
   - id: stackhawk
     level: gold
-
+  - id: transposit
+    level: silver
+  - id: logdna
+    level: gold
+    
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
