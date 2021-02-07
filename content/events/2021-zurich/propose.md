@@ -40,4 +40,4 @@ Our criteria for selection include (but are not limited to):
 </ul>
 
 <strong>How to submit a proposal:</strong>
-<a href="https://sessionize.com/devopsdayszh-2020/">Propose your session in sessionize</a>
+<a href="https://sessionize.com/devopsdayszh-2021/">Propose your session in sessionize</a>
