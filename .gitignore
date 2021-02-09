@@ -80,3 +80,5 @@ increase_ulimit.sh
 
 # we don't use yarn
 yarn.lock
+
+hugo.exe
