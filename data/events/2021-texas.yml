@@ -164,6 +164,8 @@ sponsors:
     level: silver
   - id: logdna
     level: gold
+  - id: wellsky
+    level: bronze
     
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
