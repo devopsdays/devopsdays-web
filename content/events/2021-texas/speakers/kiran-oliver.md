@@ -1,10 +1,11 @@
 +++
 Title = "Kiran Oliver"
-Twitter = ""
+Twitter = "kiran_oliver"
 image = "kiran-oliver.png"
 type = "speaker"
 linktitle = "kiran-oliver"
 sharing_image = "kiran-oliver.png"
+linkedin = "https://www.linkedin.com/in/ckoliver/"
 
 +++
 
