@@ -5,6 +5,7 @@ image = "taylor-barnett.png"
 type = "speaker"
 linktitle = "taylor-barnett"
 sharing_image = "taylor-barnett.png"
+linkedin = "http://linkedin.com/in/taylormbarnett/"
 
 +++
 

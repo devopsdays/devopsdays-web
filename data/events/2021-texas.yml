@@ -36,8 +36,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: propose
  # - name: location
   - name: registration
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -185,3 +185,231 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+    
+# program:
+  # - title: "Hallway time"
+    # type: custom
+    # date: 2021-03-02T08:00:00+05:00
+    # start_time: "08:00"
+    # end_time: "09:00"
+  # - title: "How-To Open Spaces for the conference"
+    # type: custom
+    # date: 2021-03-02T08:00:00+05:00
+    # start_time: "08:30"
+    # end_time: "09:00"
+  # - title: "Welcome and Directions"
+    # type: custom
+    # date: 2021-03-02T08:00:00+05:00
+    # start_time: "09:00"
+    # end_time: "09:15"
+  # - title: "taylor-barnett"
+    # type: talk
+    # date: 2021-03-02T08:00:00+05:00
+    # start_time: "09:15"
+    # end_time: "09:45"
+  # - title: "Break/Sponsors/Prep"
+    # type: custom
+    # date: 2021-03-02T08:00:00+05:00
+    # start_time: "09:45"
+    # end_time: "10:00"
+  # - title: "dan-zentgraf"
+    # type: talk
+    # date: 2021-03-02T08:00:00+05:00
+    # start_time: "10:00"
+    # end_time: "10:30"
+  # - title: "Break/Prep"
+    # type: custom
+    # date: 2021-03-02T08:00:00+05:00
+    # start_time: "10:30"
+    # end_time: "10:35"
+  # - title: "tracy-p-holmes"
+    # type: talk
+    # date: 2021-03-02T08:00:00+05:00
+    # start_time: "10:35"
+    # end_time: "11:05"
+  # - title: "Break/Prep"
+    # type: custom
+    # date: 2021-03-02T08:00:00+05:00
+    # start_time: "11:05"
+    # end_time: "11:10"
+  # - title: "Ignites"
+    # type: ignite
+    # date: 2021-03-02T08:00:00+05:00
+    # start_time: "11:10"
+    # end_time: "11:45"
+  # - title: "Lunch"
+    # type: custom
+    # date: 2021-03-02T08:00:00+05:00
+    # start_time: "11:45"
+    # end_time: "12:15"
+  # - title: "brittany-woods"
+    # type: talk
+    # date: 2021-03-02T08:00:00+05:00
+    # start_time: "12:15"
+    # end_time: "12:45"
+  # - title: "Open Space Scheduling"
+    # type: open-space
+    # date: 2021-03-02T08:00:00+05:00
+    # start_time: "12:45"
+    # end_time: "13:00"
+  # - title: "Texas DevOps Community Fire Starter Chat"
+    # type: custom
+    # date: 2021-03-02T08:00:00+05:00
+    # start_time: "13:00"
+    # end_time: "13:30"
+  # - title: "Break/Prep"
+    # type: custom
+    # date: 2021-03-02T08:00:00+05:00
+    # start_time: "13:30"
+    # end_time: "13:35"
+  # - title: ""
+    # type: talk
+    # date: 2021-03-02T08:00:00+05:00
+    # start_time: "13:35"
+    # end_time: "14:05"
+  # - title: "Break/Prep"
+    # type: custom
+    # date: 2021-03-02T08:00:00+05:00
+    # start_time: "14:05"
+    # end_time: "14:10"
+  # - title: ""
+    # type: talk
+    # date: 2021-03-02T08:00:00+05:00
+    # start_time: "14:10"
+    # end_time: "14:40"
+  # - title: "Open Spaces"
+    # type: open-space
+    # date: 2021-03-02T08:00:00+05:00
+    # start_time: "14:40"
+    # end_time: "16:20"
+  # - title: "Closing"
+    # type: custom
+    # date: 2021-03-02T08:00:00+05:00
+    # start_time: "16:20"
+    # end_time: "17:00"
+  # - title: "Hallway Track"
+    # type: custom
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "08:00"
+    # end_time: "09:00"
+  # - title: "Day 2 Opening/Welcome"
+    # type: custom
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "09:00"
+    # end_time: "09:15"
+  # - title: ""
+    # type: talk
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "09:15"
+    # end_time: "09:45"
+  # - title: "Break/Prep"
+    # type: custom
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "09:45"
+    # end_time: "09:50"
+  # - title: "Sponsor Break"
+    # type: custom
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "09:50"
+    # end_time: "10:00"
+  # - title: "Break/Prep"
+    # type: custom
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "10:00"
+    # end_time: "10:05"
+  # - title: ""
+    # type: talk
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "10:05"
+    # end_time: "10:35"
+  # - title: "Break/Prep"
+    # type: custom
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "10:35"
+    # end_time: "10:40"
+  # - title: "Ignites"
+    # type: ignite
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "10:40"
+    # end_time: "11:10"
+  # - title: "Break/Prep"
+    # type: custom
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "11:10"
+    # end_time: "11:15"
+  # - title: ""
+    # type: talk
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "11:15"
+    # end_time: "11:45"
+  # - title: "Lunch"
+    # type: custom
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "11:45"
+    # end_time: "12:15"
+  # - title: "Open Space Scheduling"
+    # type: open-space
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "12:15"
+    # end_time: "12:30"
+  # - title: ""
+    # type: talk
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "12:30"
+    # end_time: "13:00"
+  # - title: "Break/Prep"
+    # type: custom
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "13:00"
+    # end_time: "13:05"
+  # - title: "@fsckdpod Fire Starter Chat"
+    # type: custom
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "13:05"
+    # end_time: "13:35"
+  # - title: "Break/Prep"
+    # type: custom
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "13:35"
+    # end_time: "13:40"
+  # - title: "kiran-oliver"
+    # type: talk
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "13:40"
+    # end_time: "14:10"
+  # - title: "Break/Prep"
+    # type: custom
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "14:10"
+    # end_time: "14:15"
+  # - title: "ell-marquez"
+    # type: talk
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "14:15"
+    # end_time: "14:45"
+  # - title: "Open Spaces"
+    # type: open-space
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "14:45"
+    # end_time: "16:55"
+  # - title: "Closing"
+    # type: custom
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "16:55"
+    # end_time: "17:00"
+    
+# ignites:
+  # - title: "matt-stratton"
+    # date: "2021-03-02T08:00:00+05:00"
+  # - title: "alina-domanov"
+    # date: "2021-03-02T08:00:00+05:00"
+  # - title: "thomas-adams"
+    # date: "2021-03-02T08:00:00+05:00"
+  # - title: "jay-gordon"
+    # date: "2021-03-02T08:00:00+05:00"
+  # - title: "jeremy-meiss"
+    # date: "2021-03-03T16:59:59+05:00"
+  # - title: "quintessence-anx"
+    # date: "2021-03-03T16:59:59+05:00"
+  # - title: "jason-yee"
+    # date: "2021-03-03T16:59:59+05:00"
