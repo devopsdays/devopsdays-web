@@ -1,6 +1,6 @@
 +++
 Title = "Taylor Barnett"
-Twitter = ""
+Twitter = "taylor_atx"
 image = "taylor-barnett.png"
 type = "speaker"
 linktitle = "taylor-barnett"
