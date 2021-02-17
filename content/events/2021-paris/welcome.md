@@ -5,9 +5,9 @@ aliases = ["/events/2021-paris/"]
 Description = "devopsdays Paris 2021"
 +++
 
-<div style="text-align:center;">
+<!-- <div style="text-align:center;">
   {{< event_logo >}}
-</div>
+</div> -->
 
 ## En raison de la situation sanitaire actuelle à Paris et ailleurs, DevOps Rex 2021 a été annulé. Rendez-vous tous en 2022 ! 
 
