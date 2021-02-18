@@ -131,3 +131,100 @@ sponsor_levels:
     label: Community
   - id: happyhour
     label: Happy Hour
+
+program:
+  - title: "Opening Welcome"
+    type: custom
+    date: 2021-04-08
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "josh-stella"
+    type: talk
+    date: 2021-04-08
+    start_time: "09:10"
+    end_time: "09:40"
+  - title: "Sponsors"
+    type: custom
+    date: 2021-04-08
+    start_time: "09:40"
+    end_time: "09:50"
+  - title: "jason-yee"
+    type: talk
+    date: 2021-04-08
+    start_time: "09:50"
+    end_time: "10:20"
+  - title: "pj-hagerty"
+    type: talk
+    date: 2021-04-08
+    start_time: "09:50"
+    end_time: "10:20"
+  - title: "Sponsor Remarks"
+    type: custom
+    date: 2021-04-08
+    start_time: "10:20"
+    end_time: "10:30"
+  - title: "alan-koch"
+    type: workshop
+    date: 2021-04-08
+    start_time: "10:30"
+    end_time: "12:00"
+  - title: "kate-wardin"
+    type: talk
+    date: 2021-04-08
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "Break/networking"
+    type: open-space
+    date: 2021-04-08
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "dave-mcallister"
+    type: talk
+    date: 2021-04-08
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch Break"
+    type: custom
+    date: 2021-04-08
+    start_time: "12:00"
+    end_time: "12:30"
+  - title: "Ignites"
+    type: ignite
+    date: 2021-04-08
+    start_time: "12:30"
+    end_time: "13:00"
+  - title: "david-dang"
+    type: workshop
+    date: 2021-04-08
+    start_time: "13:00"
+    end_time: "14:30"
+  - title: "baruch-sadogursky"
+    type: talk
+    date: 2021-04-08
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Break"
+    type: open-space
+    date: 2021-04-08
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "waldo-grunenwald"
+    type: talk
+    date: 2021-04-08
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: "Closing Remarks"
+    type: custom
+    date: 2021-04-08
+    start_time: "14:30"
+    end_time: "14:45"
+
+ignites:
+  - title: "jason-yee-ignite"
+    date: 2021-04-08
+  - title: "mirza-dautbegovi"
+    date: 2021-04-08
+  - title: "nick-kane"
+    date: 2021-04-08
+  - title: "alan-koch-ignite"
+    date: 2021-04-08
