@@ -25,7 +25,7 @@ Description = "devopsdays Raleigh 2021"
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_location text="VIRTUAL" >}}
+    {{< event_location >}}
   </div>
 </div> -->
 
