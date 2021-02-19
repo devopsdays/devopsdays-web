@@ -60,7 +60,7 @@ If you want to update a sponsor's info, keep in mind that we don't want to retro
 
 Determine which sponsor is being discussed. For this example, we'll use Pivotal.
 
-Run the script `change_sponsor_logo.sh` in the `utilities` subdirectory, giving it the name of the sponsor (`pivotal`) and the path on disk to your new logo:
+Run the script `change_sponsor_logo.sh` in the `utilities` subdirectory, giving it the name of the sponsor (`pivotal`) and the **full path** on disk to your new logo:
 ```
 $ ./change_sponsor_logo.sh pivotal ~/Downloads/pivotal.png
 Modifying 2018-chicago.yml

@@ -7,7 +7,9 @@ set -euo pipefail
 # definition, and adds the new logo in its place for this year's events.
 ##
 
+cd `dirname ${0}`
 source common_code
+
 SPONSOR_NAME=${1:-}
 IMAGE_TO_COPY=${2:-}
 TODAY=$(date +%Y%m%d)
@@ -16,7 +18,7 @@ TODAY=$(date +%Y%m%d)
 
 if [ $# -ne 2 ]; then
   echo "Update a sponsor logo, retroactively changing any past events to use the old logo."
-  echo "USAGE: sponsor_name path/to/new/image.png"
+  echo "USAGE: sponsor_name /full/path/to/new/image.png"
   exit 1
 fi
 

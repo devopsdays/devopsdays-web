@@ -2,6 +2,7 @@
 
 set -e
 
+cd `dirname ${0}`
 source common_code
 
 cd `dirname ${0}`

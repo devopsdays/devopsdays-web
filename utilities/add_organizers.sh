@@ -3,6 +3,7 @@
 set -e
 
 cd `dirname ${0}`
+source common_code
 
 OUT=$(mktemp /tmp/output.XXXXXXXXXX) || { echo "Failed to create temp file"; exit 1; }
 

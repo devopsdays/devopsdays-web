@@ -2,9 +2,8 @@
 
 set -e
 
-source common_code
-
 cd `dirname ${0}`
+source common_code
 
 if [[ $(date +"%m") -ge 10 ]]; then
   default_year=$(echo $(echo `date +"%Y"` + 1) | bc)
