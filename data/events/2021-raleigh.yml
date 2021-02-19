@@ -36,7 +36,7 @@ location: "virtual" # Defaults to city, but you can make it the venue name.
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
  #   url: "https://docs.google.com/forms/d/e/1FAIpQLSeobhePrK8d6t3AcUSaxdHstLaCba3Ey5UFbPV4ego4R11hMQ/viewform"
-  - name: location
+ # - name: location
   - name: registration
     url: "https://www.eventbrite.com/e/devopsdays-raleigh-2021-tickets-124429360567"
   - name: program
