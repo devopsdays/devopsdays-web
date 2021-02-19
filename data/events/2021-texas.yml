@@ -168,7 +168,8 @@ sponsors:
     level: bronze
   - id: statefarm
     level: caption
-    
+    url:  https://jobs.statefarm.com/main/career-areas/technology-and-user-experience-careers
+   
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
