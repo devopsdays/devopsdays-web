@@ -17,9 +17,9 @@ Meanwhile, in our rapidly changing application environments, the thing being pro
 
 This 'back to basics' talk provides a lens for understanding what good, automated Change Management processes look like.
 It will discuss:
--How assumption is the mother of all foul ups
--Why bureaucratic change management fails
--Three core principles for automated change management processes
--Examples along the way
+- How assumption is the mother of all foul ups
+- Why bureaucratic change management fails
+- Three core principles for automated change management processes
+- Examples along the way
 
 This talk will discuss problems, approaches, and solution patterns. It will explicitly not have a tool or demo focus, but instead look at the approaches, processes and context into which you can fit tools.
