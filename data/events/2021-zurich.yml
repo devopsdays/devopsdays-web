@@ -195,8 +195,6 @@ sponsors:
     level: silver
   - id: switch
     level: bronze
-  - id: microsoft
-    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
