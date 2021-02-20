@@ -5,6 +5,7 @@ image = "kat-cosgrove.png"
 type = "speaker"
 linktitle = "kat-cosgrove"
 linkedin = "https://www.linkedin.com/in/katcosgrove/"
+sharing_image = "fsckdpod.png"
 
 +++
 

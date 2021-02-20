@@ -6,6 +6,7 @@ type = "speaker"
 linktitle = "austin-parker"
 linkedin = "https://www.linkedin.com/in/austinlparker/"
 website = "https://aparker.io/"
+sharing_image = "fsckdpod.png"
 
 +++
  
