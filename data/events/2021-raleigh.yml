@@ -143,6 +143,11 @@ program:
     date: 2021-04-08
     start_time: "09:10"
     end_time: "09:40"
+  - title: "ricardo-castro"
+    type: talk
+    date: 2021-04-08
+    start_time: "09:10"
+    end_time: "09:40"
   - title: "Sponsors"
     type: custom
     date: 2021-04-08
