@@ -3,8 +3,8 @@ Title = "Nick Kane"
 Twitter = ""
 image = ""
 type = "speaker"
-linktitle = "nick-kane"
+linktitle = "nick-kane-ignite"
 
 +++
 
-"No matter the size of your business, structure is the key to success. Of course, not just any kind of structure will work; businesses need a structure that is as adaptable and fluid as your business' needs are. For tech businesses, the most popular way to achieve this style of structure is by using Agile and DevOps. While some would argue that either works fine separately, Agile and DevOps truly shine when they are implemented in tandem.
+I graduated from NC State University in May of 2020 and Co-Founded Collab LLC while still in college with two colleagues from the electrical and computer engineering program. Collab LLC is a custom software consulting firm focused on creating long term relationships with our partners. I have taken over the role of COO and continue to learn and implement all that I can to help maximize our business/tech flows. 
