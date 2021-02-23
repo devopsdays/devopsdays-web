@@ -1,7 +1,7 @@
 +++
 Title = "Kate Wardin"
 Twitter = ""
-image = ""
+image = "kate-wardin.png"
 type = "speaker"
 linktitle = "kate-wardin"
 
