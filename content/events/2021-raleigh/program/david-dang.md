@@ -2,8 +2,8 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Optimize Your Quality Stages in CI CD Pipelines"
-Type = "workshop"
+Title = "Workshop - Optimize Your Quality Stages in CI CD Pipelines"
+Type = "talk"
 Speakers = ["david-dang"]
 +++
 
