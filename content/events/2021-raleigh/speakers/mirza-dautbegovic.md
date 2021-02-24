@@ -1,9 +1,9 @@
 +++
-Title = "Mirza Dautbegovi"
+Title = "Mirza Dautbegovic"
 Twitter = "mdautbegovic"
 image = "mirza-dautbegovic.png"
 type = "speaker"
-linktitle = "mirza-dautbegovi"
+linktitle = "mirza-dautbegovic"
 
 +++
 
