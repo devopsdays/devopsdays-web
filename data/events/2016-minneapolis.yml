@@ -43,7 +43,7 @@ sponsors_accepted: "no"
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
   - id: pivotal-before-20190307 
     level: platinum
-  - id: chef
+  - id: chef-before-20210112
     level: platinum
   - id: optum
     level: platinum

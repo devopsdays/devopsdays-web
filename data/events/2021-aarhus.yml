@@ -11,8 +11,8 @@ event_group: "Danish"
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: 2021-02-03T00:00:00+01:00
-enddate:  2021-02-04T23:59:59+01:00
+startdate: #2021-02-03T00:00:00+01:00
+enddate:  #2021-02-04T23:59:59+01:00
 
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
@@ -32,9 +32,9 @@ registration_link: # If you have a custom registration link, enter it here. This
 # Location
 #
 coordinates: "56.153180, 10.203325" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location:  Scandic Aarhus City
+location:  Aarhus City
 #
-location_address: Østergade 10, Arhus, 8000, Denmark
+location_address: Aarhus, Denmark
 
 
 nav_elements: # List of pages you want to show up in the navigation of your page.

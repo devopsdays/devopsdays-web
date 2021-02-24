@@ -41,7 +41,7 @@
 /ghent/*		/events/2019-ghent/:splat		302
 /goiania/*		/events/2020-goiania/:splat		302
 /goteborg/*		/events/2011-goteborg/:splat		302
-/guadalajara/*		/events/2020-guadalajara/:splat		302
+/guadalajara/*		/events/2021-guadalajara/:splat		302
 /hamburg/*		/events/2010-europe/:splat		302
 /hartford/*		/events/2019-hartford/:splat		302
 /helsinki/*		/events/2014-helsinki/:splat		302
@@ -53,7 +53,7 @@
 /kazan/*		/events/2018-kazan/:splat		302
 /kiel/*			/events/2018-kiel/:splat		302
 /krakow/*		/events/2020-krakow/:splat		302
-/kyiv/*			/events/2020-kyiv/:splat		302
+/kyiv/*			/events/2021-kyiv/:splat		302
 /ljubljana/*		/events/2015-ljubljana/:splat		302
 /london/*		/events/2020-london/:splat		302
 /los-angeles/*		/events/2020-los-angeles/:splat		302
@@ -74,13 +74,13 @@
 /new-zealand/*		/events/2019-auckland/:splat		302
 /newcastle/*		/events/2018-newcastle/:splat		302
 /oslo/*			/events/2020-oslo/:splat		302
-/paris/*		/events/2020-paris/:splat		302
+/paris/*		/events/2021-paris/:splat		302
 /philadelphia/*		/events/2020-philadelphia/:splat	302
 /phoenix/*		/events/2018-phoenix/:splat		302
 /pittsburgh/*		/events/2015-pittsburgh/:splat		302
 /portland-me/*		/events/2020-portland-me/:splat		302
 /portland-or/*		/events/2020-portland-or/:splat		302
-/porto-alegre/*		/events/2020-porto-alegre/:splat	302
+/porto-alegre/*		/events/2021-porto-alegre/:splat	302
 /portugal/*		/events/2020-portugal/:splat		302
 /poznan/*		/events/2020-poznan/:splat		302
 /prague/*		/events/2020-prague/:splat		302
@@ -95,7 +95,7 @@
 /santa-maria/*		/events/2018-santa-maria/:splat		302
 /santiago/*		/events/2020-santiago/:splat		302
 /sao-paulo/*		/events/2020-sao-paulo/:splat		302
-/seattle/*		/events/2020-seattle/:splat		302
+/seattle/*		/events/2021-seattle/:splat		302
 /shanghai/*		/events/2020-shanghai/:splat		302
 /shenzhen/*		/events/2018-shenzhen/:splat		302
 /silicon-valley/*	/events/2018-silicon-valley/:splat	302
@@ -105,7 +105,7 @@
 /tampa/*		/events/2020-tampa/:splat		302
 /tel-aviv/*		/events/2019-tel-aviv/:splat		302
 /texas/*		/events/2021-texas/:splat		302
-/tokyo/*		/events/2020-tokyo/:splat		302
+/tokyo/*		/events/2021-tokyo/:splat		302
 /toronto/*		/events/2020-toronto/:splat		302
 /vancouver/*		/events/2020-vancouver/:splat		302
 /victoria/*		/events/2019-victoria/:splat		302

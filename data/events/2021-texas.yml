@@ -14,31 +14,30 @@ startdate: 2021-03-02T08:00:00+05:00 # The start date of your event. Leave blank
 enddate: 2021-03-03T16:59:59+05:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start:  2020-12-11T08:00:00+05:00 # start accepting talk proposals.
+cfp_date_end:  2021-01-31T23:59:00+05:00 # close your call for proposals.
+cfp_date_announce:  2021-02-14T23:59:00+05:00 # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://sessionize.com/devopsdays-texas-2021/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: 2020-12-11T08:00:00+05:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2021-03-02T08:00:00+05:00# close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.eventbrite.com/e/devopsdays-texas-tickets-132588572991" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
-#
 coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Texas" # Defaults to city, but you can make it the venue name.
 #
 location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
  # - name: location
- # - name: registration
- # - name: program
- # - name: speakers
+  - name: registration
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -105,15 +104,9 @@ team_members: # Name is the only required field for team members.
     twitter: "kkatzke"
     github: "karlkatzke"
     employer: "VoiceThread"
-    bio: ""
+    bio: "Karl Katzke is the DevOps team lead at VoiceThread. He has been in the tech industry for 20 years across many roles as both Dev and Ops. While he keeps claiming he'll stop giving culture talks and that he's not good at soft skills, he's usually showing how the DevOps community can borrow things other industries have learned about handling critical moments and designing processes to avoid disaster."
     image: "karl.png"
     linkedin: "https://www.linkedin.com/in/karlkatzke/"
-  - name: "Sagar Karmarkar"
-    employer: "Centric Consulting"
-    linkedin: "http://www.linkedin.com/in/vnvdevops"
-    twitter: "https://twitter.com/sagarvnvdevops"
-    image: "sagar.jpg"
-    bio: "Sagar Karmarkar is an Enterprise DevOps Evangelist with over 24 years of experience in Software Engineering, Software Change/Release Management, Software Testing, and IT Operations. Sagar has held senior technology roles at large enterprises such as Compuware, GE Healthcare, JP Morgan, Fidelity Investments, Home Depot, JCPenney and AIG. Sagar is currently a DevOps Architect at cPrime. He provides guidance to clients looking to move towards a DevOps or DevSecOps model. He is also a SAFe Program Consultant and provides training and guidance to technology teams around scaling Agile practices. He has lived in Katy, TX for the last 14 years and has two children that keep him on his toes."
   - name: "Paul Czarkowski"
     employer: "VMware"
     bio: "Paul Czarkowski is a long time practitioner of the dark arts of Devops. Hailing from Australia he moved to Austin Texas to help build and run one of the largest and most successful online games. Now at VMware, Paul works to improve the Operator experience by taking Cloud Native software development concepts and applying them to Operations to create platforms that reduce toil and improve software delivery."
@@ -141,31 +134,285 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/sdmouton/"
     image: "shaun.jpg"
 
+
 organizer_email: "texas@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: samplesponsorname
+  - id: twosigma
+    level: bronze
+  - id: bridgecrew
     level: gold
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+    url: "https://bridgecrew.io/?utm_medium=sponsoredevents&utm_source=devopsdays&utm_campaign=tx-210302"
+  - id: env0
+    level: gold
+    url: "https://www.env0.com/?utm_campaign=devopsdays-texas&utm_source=devopsdays-texas&utm_medium=sponsorship"
+  - id: chef
+    level: gold
+  - id: buurst-inc
+    level: bronze
+  - id: site24x7
+    level: gold
   - id: arresteddevops
     level: community
-
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+  - id: liatrio
+    level: gold
+  - id: stackhawk
+    level: gold
+  - id: transposit
+    level: silver
+  - id: logdna
+    level: gold
+  - id: wellsky
+    level: bronze
+  - id: statefarm
+    level: caption
+    url:  https://jobs.statefarm.com/main/career-areas/technology-and-user-experience-careers
+   
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: caption
+    label: Captioning
+    max: 2
   - id: gold
     label: Gold
-#    max: 10
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
   - id: community
     label: Community
+    
+# program:
+  # - title: "Hallway time"
+    # type: custom
+    # date: 2021-03-02T08:00:00+05:00
+    # start_time: "08:00"
+    # end_time: "09:00"
+  # - title: "How-To Open Spaces for the conference"
+    # type: custom
+    # date: 2021-03-02T08:00:00+05:00
+    # start_time: "08:30"
+    # end_time: "09:00"
+  # - title: "Welcome and Directions"
+    # type: custom
+    # date: 2021-03-02T08:00:00+05:00
+    # start_time: "09:00"
+    # end_time: "09:15"
+  # - title: "taylor-barnett"
+    # type: talk
+    # date: 2021-03-02T08:00:00+05:00
+    # start_time: "09:15"
+    # end_time: "09:45"
+  # - title: "Break/Sponsors/Prep"
+    # type: custom
+    # date: 2021-03-02T08:00:00+05:00
+    # start_time: "09:45"
+    # end_time: "10:00"
+  # - title: "dan-zentgraf"
+    # type: talk
+    # date: 2021-03-02T08:00:00+05:00
+    # start_time: "10:00"
+    # end_time: "10:30"
+  # - title: "Break/Prep"
+    # type: custom
+    # date: 2021-03-02T08:00:00+05:00
+    # start_time: "10:30"
+    # end_time: "10:35"
+  # - title: "tracy-p-holmes"
+    # type: talk
+    # date: 2021-03-02T08:00:00+05:00
+    # start_time: "10:35"
+    # end_time: "11:05"
+  # - title: "Break/Prep"
+    # type: custom
+    # date: 2021-03-02T08:00:00+05:00
+    # start_time: "11:05"
+    # end_time: "11:10"
+  # - title: "Ignites"
+    # type: ignite
+    # date: 2021-03-02T08:00:00+05:00
+    # start_time: "11:10"
+    # end_time: "11:45"
+  # - title: "Lunch"
+    # type: custom
+    # date: 2021-03-02T08:00:00+05:00
+    # start_time: "11:45"
+    # end_time: "12:15"
+  # - title: "brittany-woods"
+    # type: talk
+    # date: 2021-03-02T08:00:00+05:00
+    # start_time: "12:15"
+    # end_time: "12:45"
+  # - title: "Open Space Scheduling"
+    # type: open-space
+    # date: 2021-03-02T08:00:00+05:00
+    # start_time: "12:45"
+    # end_time: "13:00"
+  # - title: "Texas DevOps Community Fire Starter Chat"
+    # type: custom
+    # date: 2021-03-02T08:00:00+05:00
+    # start_time: "13:00"
+    # end_time: "13:30"
+  # - title: "Break/Prep"
+    # type: custom
+    # date: 2021-03-02T08:00:00+05:00
+    # start_time: "13:30"
+    # end_time: "13:35"
+  # - title: ""
+    # type: talk
+    # date: 2021-03-02T08:00:00+05:00
+    # start_time: "13:35"
+    # end_time: "14:05"
+  # - title: "Break/Prep"
+    # type: custom
+    # date: 2021-03-02T08:00:00+05:00
+    # start_time: "14:05"
+    # end_time: "14:10"
+  # - title: ""
+    # type: talk
+    # date: 2021-03-02T08:00:00+05:00
+    # start_time: "14:10"
+    # end_time: "14:40"
+  # - title: "Open Spaces"
+    # type: open-space
+    # date: 2021-03-02T08:00:00+05:00
+    # start_time: "14:40"
+    # end_time: "16:20"
+  # - title: "Closing"
+    # type: custom
+    # date: 2021-03-02T08:00:00+05:00
+    # start_time: "16:20"
+    # end_time: "17:00"
+  # - title: "Hallway Track"
+    # type: custom
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "08:00"
+    # end_time: "09:00"
+  # - title: "Day 2 Opening/Welcome"
+    # type: custom
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "09:00"
+    # end_time: "09:15"
+  # - title: ""
+    # type: talk
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "09:15"
+    # end_time: "09:45"
+  # - title: "Break/Prep"
+    # type: custom
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "09:45"
+    # end_time: "09:50"
+  # - title: "Sponsor Break"
+    # type: custom
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "09:50"
+    # end_time: "10:00"
+  # - title: "Break/Prep"
+    # type: custom
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "10:00"
+    # end_time: "10:05"
+  # - title: ""
+    # type: talk
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "10:05"
+    # end_time: "10:35"
+  # - title: "Break/Prep"
+    # type: custom
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "10:35"
+    # end_time: "10:40"
+  # - title: "Ignites"
+    # type: ignite
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "10:40"
+    # end_time: "11:10"
+  # - title: "Break/Prep"
+    # type: custom
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "11:10"
+    # end_time: "11:15"
+  # - title: ""
+    # type: talk
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "11:15"
+    # end_time: "11:45"
+  # - title: "Lunch"
+    # type: custom
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "11:45"
+    # end_time: "12:15"
+  # - title: "Open Space Scheduling"
+    # type: open-space
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "12:15"
+    # end_time: "12:30"
+  # - title: ""
+    # type: talk
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "12:30"
+    # end_time: "13:00"
+  # - title: "Break/Prep"
+    # type: custom
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "13:00"
+    # end_time: "13:05"
+  # - title: "@fsckdpod Fire Starter Chat"
+    # type: custom
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "13:05"
+    # end_time: "13:35"
+  # - title: "Break/Prep"
+    # type: custom
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "13:35"
+    # end_time: "13:40"
+  # - title: "kiran-oliver"
+    # type: talk
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "13:40"
+    # end_time: "14:10"
+  # - title: "Break/Prep"
+    # type: custom
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "14:10"
+    # end_time: "14:15"
+  # - title: "ell-marquez"
+    # type: talk
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "14:15"
+    # end_time: "14:45"
+  # - title: "Open Spaces"
+    # type: open-space
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "14:45"
+    # end_time: "16:55"
+  # - title: "Closing"
+    # type: custom
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "16:55"
+    # end_time: "17:00"
+    
+# ignites:
+  # - title: "matt-stratton"
+    # date: "2021-03-02T08:00:00+05:00"
+  # - title: "alina-domanov"
+    # date: "2021-03-02T08:00:00+05:00"
+  # - title: "thomas-adams"
+    # date: "2021-03-02T08:00:00+05:00"
+  # - title: "jay-gordon"
+    # date: "2021-03-02T08:00:00+05:00"
+  # - title: "jeremy-meiss"
+    # date: "2021-03-03T16:59:59+05:00"
+  # - title: "quintessence-anx"
+    # date: "2021-03-03T16:59:59+05:00"
+  # - title: "jason-yee"
+    # date: "2021-03-03T16:59:59+05:00"

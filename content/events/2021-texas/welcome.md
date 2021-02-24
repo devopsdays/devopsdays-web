@@ -5,10 +5,14 @@ aliases = ["/events/2021-texas/"]
 Description = "devopsdays Texas 2021"
 +++
 
-<!-- <div style="text-align:center;">
-  {{< event_logo >}}
-</div> -->
+<div class="row">
+    <div class="col-md-3">
+        <div style="text-align:center;">
+          {{< event_logo >}}
+        </div>
+    </div>
 
+<div class="col-md-6"> 
 <div class = "row">
   <div class = "col-md-2">
     <strong>Dates</strong>
@@ -27,23 +31,23 @@ Description = "devopsdays Texas 2021"
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="registration" text="Register to attend the conference!" >}}
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -97,4 +101,6 @@ Description = "devopsdays Texas 2021"
 	</script>
 	<script type="IN/FollowCompany" data-id="69730835"></script>
   </div>
+</div>
+</div>
 </div>

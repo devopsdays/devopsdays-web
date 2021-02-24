@@ -16,14 +16,14 @@ enddate:  2021-05-04T23:59:59-07:00 # The end date of your event. Leave blank if
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2020-12-15T00:00:00-07:00 # start accepting talk proposals.
-cfp_date_end: 2021-01-15T23:59:59-07:00 # close your call for proposals.
+cfp_date_end: 2021-02-01T23:59:59-07:00 # close your call for proposals.
 cfp_date_announce: 2021-02-22T23:59:59-07:00 # inform proposers of status
 
 cfp_open: true
 cfp_link: https://sessionize.com/devopsdays-seattle-2021 #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start:  # start accepting registration. Leave blank if registration is not open yet
-registration_date_end:  # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2021-01-01T00:00:00-07:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2021-05-04T23:59:59-07:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -38,10 +38,10 @@ location_address:  #Optional - use the street address of your venue. This will s
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
 #  - name: location
-#  - name: registration
+  - name: registration
 #  - name: program
 #  - name: speakers
-# - name: sponsor
+  - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
