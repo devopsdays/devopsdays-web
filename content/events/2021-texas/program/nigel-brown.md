@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "The How, When, and Why of Containers"
+Title = "A Developer's Introduction to Containers"
 Type = "talk"
 Speakers = ["nigel-brown"]
 sharing_image = "nigel-brown.png"
