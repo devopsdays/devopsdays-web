@@ -2,8 +2,8 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Value Stream Mapping, The Lean Way to Systematic Analysis and Improvement of Work Processes"
-Type = "workshop"
+Title = "Workshop - Value Stream Mapping, The Lean Way to Systematic Analysis and Improvement of Work Processes"
+Type = "talk"
 Speakers = ["alan-koch"]
 +++
 
