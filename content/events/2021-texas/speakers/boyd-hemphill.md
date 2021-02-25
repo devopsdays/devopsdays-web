@@ -5,6 +5,7 @@ image = "boyd-hemphill.png"
 type = "speaker"
 linktitle = "boyd-hemphill"
 linkedin = "https://www.linkedin.com/in/boydhemphill/"
+sharing_image = "texas-devops-community.png"
 
 +++
 
