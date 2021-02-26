@@ -62,7 +62,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/darekd/"
     image: dariusz-dwornikowski.jpg
   - name: "Jakub Jakubik"
-    employer: "Netguru S.A."
+    employer: "Egnyte Poland"
     linkedin: "https://www.linkedin.com/in/jakubjakubik/"
     image: "jakub-jakubik.jpg"
   - name: "Maciej Karnecki"
