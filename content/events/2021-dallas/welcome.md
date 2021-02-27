@@ -14,7 +14,7 @@ Description = "devopsdays Dallas 2021"
 </div> -->
 <div class = "row" style="background: #ed0b07; color: #ffffff; padding: 20px; margin: 20px; font-size: 16px">
     <h2>*** COVID-19 UPDATE ***</h2>
-    <p>Due to the COVID-19 pandemic, we the organizers of DevOpsDays DFW had decided that in the best interest of the community's safety and well-being not to proceed with our event on August 26-27, 2020 as planned. We have it re-scheduled to occur on August 25-26, 2021. In the the month of March 2021, we will be discussing the <strong><a href="https://www.cdc.gov/coronavirus/2019-ncov/community/large-events/considerations-for-events-gatherings.html">CDC Guidelines</a></strong> with the Plano Event Center to decide if it will be safe for our community to proceed with re-scheduled dates in August 2021 or postpone it 2022.<br>
+    <p>Due to the COVID-19 pandemic, we the organizers of DevOpsDays DFW had decided that in the best interest of the community's safety and well-being not to proceed with our event on August 26-27, 2020 as planned. We have it re-scheduled to occur on August 25-26, 2021. In the the month of March 2021, we will be discussing the <strong><a href="https://www.cdc.gov/coronavirus/2019-ncov/community/large-events/considerations-for-events-gatherings.html">CDC Guidelines</a></strong> with the Plano Event Center to decide if it will be safe for our community to proceed with re-scheduled dates in August 2021 or postpone it 2022.<br><br>
     If you have any questions/concerns, feel free to email us at: <strong>{{< email_organizers >}} </strong>.</p>
   </div>
 </div>
