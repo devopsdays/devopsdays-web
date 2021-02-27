@@ -1,5 +1,5 @@
 +++
-Title = "kebler-cabral"
+Title = "kleber cabral"
 image = "kleber-cabral.jpeg"
 type = "speaker"
 linktitle = "kleber-cabral"

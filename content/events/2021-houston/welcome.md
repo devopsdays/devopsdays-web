@@ -9,6 +9,13 @@ Description = "devopsdays Houston 2021"
   {{< event_logo >}}
 </div> -->
 
+<div class="row">
+  <div class="alert alert-info" role="alert">
+    <h2>COVID-19</h2>
+    <p>The onference will take place live and in-person. The <a href="http://norriscenters.com/">Norris Conference Centers</a> have taken measures to make their venue as <a HREF="http://norriscenters.com/wp-content/uploads/2020/05/NCC_COVID19_OpeningGuidelines.pdf">safe as possible</a>, and we at DevOpsDays Houston take safety seriously.  We will monitor and adhere to local guidelines on handling of the Covid19 virus. Stay tuned to our <A HREF="https://twitter.com/DevOpsDaysHTown">Twitter feed</A> or our <A HREF="https://www.linkedin.com/company/devopsdays-houston">LinkedIn page</A> for conference news and any changes.
+  </div>
+</div>
+
 <div class = "row">
   <div class = "col-md-2">
     <strong>Dates</strong>
@@ -18,14 +25,14 @@ Description = "devopsdays Houston 2021"
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -81,6 +88,31 @@ Description = "devopsdays Houston 2021"
   </div>
 </div>
 
+<!-- Slack -->
+<div class="row">
+  <div class="col-md-2">
+	<strong>Slack</strong>
+  </div>
+  <div class="col-md-8">Join <a href="https://join.slack.com/t/houstondevops/shared_invite/enQtNzIyMzk1MTIyOTYwLTFmMWI0NTg3YzE3M2Q2MDY0NjE5MjNjMTdhZWI5ODFkOWU0YzM1M2QwOGI3OGQ2NGJjNzcxOTU5NmY4OTA4NzI">Houston DevOps</a> Slack workspace.
+  </div>
+</div>
+<!-- Twitter -->
+<div class="row">
+  <div class="col-md-2"></div>
+  <div class="col-md-8">{{< event_twitter >}}</div>
+</div>
+<!-- LinkedIn -->
+<div class="row">
+  <div class="col-md-2"></div>
+  <div class="col-md-8">
+	<script src="https://platform.linkedin.com/in.js" type="text/javascript">
+	  lang: en_US 
+	  authorize: true
+	</script>
+	<script type="IN/FollowCompany" data-id="35523918"></script>
+  </div>
+</div>
+	
 <!-- Uncomment if you added your city twitter name -->
 <!--
 {{< event_twitter >}}

@@ -109,7 +109,7 @@ sponsors:
     level: platinum
   - id: servicenow
     level: gold
-  - id: chef
+  - id: chef-before-20210112
     level: platinum
   - id: mesosphere
     level: platinum

@@ -76,7 +76,7 @@ proposal_email: "proposals-edinburgh-2017@devopsdays.org" # Put your proposal em
 sponsors:
   # - id: samplesponsorname
   #   level: gold
-   - id: chef
+   - id: chef-before-20210112
      level: silver
    - id:  cirrushq
      level: silver
