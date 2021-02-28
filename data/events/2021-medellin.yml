@@ -34,8 +34,8 @@ location: "¡Conferencia Virtual!" # Defaults to city, but you can make it the v
 # location_address: "Carrera 43A (Av. El Poblado) con Calle 30, Medellín, Antioquia, Colombia" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-#  - name: Spanish
-#    url: "https://devopsdays.io/"
+  - name: Spanish
+    url: "https://devopsdays.io/"
  # - name: location
  # - name: propose
  #   url: "https://www.papercall.io/devopsdaysmedellin"
@@ -44,7 +44,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #  - name: program
 #    url: "https://devopsdays.io/agenda-2"
  # - name: speakers
-#  - name: sponsor
+  - name: sponsor
 #  - name: speakers
   - name: contact
   - name: conduct
