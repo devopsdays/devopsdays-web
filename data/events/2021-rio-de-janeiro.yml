@@ -1,5 +1,6 @@
 name: "2021-rio-de-janeiro" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2021" # The year of the event. Make sure it is in quotes.
+event_logo: "logo-square.jpg"
 city: "Rio de Janeiro" # The displayed city name of the event. Capitalize it.
 event_twitter: "rj_devopsdays" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "DevOpsDays is coming to Rio de Janeiro!" # Edit this to suit your preferences
