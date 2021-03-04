@@ -1,28 +1,28 @@
 +++
-Title = "Conduct"
+Title = "Conduta"
 Type = "event"
-Description = "Code of conduct for devopsdays Rio de Janeiro 2021"
+Description = "Código de conduta do DevOpsDays Rio de Janeiro 2021"
 +++
 
 
-All attendees, speakers, sponsors, and volunteers at devopsdays Rio de Janeiro 2021 are required to agree with the following code of conduct. Organizers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensure a safe environment for everybody.
+Participantes, palestrantes, representantes de empresas e pessoas voluntárias no devopsdays Rio de Janeiro 2021 são requeridos a concordar com o seguinte código de conduta. A organização irá aplicar este código pelo evento. Nós esperamos cooperação de todas as pessoas participando para garantir um ambiente seguro para todas as pessoas.
 
-### The Quick Version
+### A versão rápida
 
-Our conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter, and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.
+Nossa conferência é dedicada a prover um uma experiência de conferência sem assédio para todos, independente de gênero, identidade de gênero e expressão, idade, orientação sexual, deficiência, aparência física, tamanho corporal, raça, etinia, religião (ou a falta dela) ou escolhas de tecnologias. Nós não toleramos assédio de participantes da conferência de qualquer forma. Linguagem e imagens sexuais não são apropriadas em nenhum local, incluindo palestras, workshops, festas, Twitter e outras mídias online. Violações destas regras poderão causar expulsão da conferência, sem reembolso a critério da equipe organizadora.
 
-### The Less Quick Version
+### A versão não tão rápida
 
-Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion, technology choices, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. Participants asked to stop any harassing behavior are expected to comply immediately.
+Assédio inclui comentários verbais ofensivos relacionados a gênero, identidade de gênero e expressão, idade, orientação sexual, deficiência, aparência física, tamanho corporal, raça, etinia, religião (ou a falta dela) ou escolhas de tecnologias, imagens sexuais em espaços públicos, intimidação deliberada, stalking, perseguição, fotografias ou filmagens constrangedoras, interrupção contínua das apresentações ou outros eventos, contato físico inapropriado e atenção sexual indesejada. Participantes que receberem uma solicitação para interromper qualquer comportamento de assédio devem fazer isso imediatamente.
 
-Sponsors are also subject to the anti-harassment policy. In particular, sponsors should not use sexualized images, activities, or other material. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.
+As políticas antiassédio também se aplicam a representantes de empresas patrocinadoras. Em particular, não devem usar imagens, atividades ou outro material de cunho sexual. As equipes de estandes e tendas (incluindo pessoas voluntárias) não devem utilizar roupas, uniformes ou trajes sexualizados ou criar um ambiente sexualizado de quaisquer formas.
 
-If a participant engages in harassing behavior, the conference organizers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.
+Se alguém se envolver em comportamento de assédio, a equipe organizadora pode tomar qualquer ação que considerar apropriada, incluindo avisar a pessoa ofensora ou expulsá-la da conferência sem reembolso.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately.
+Se você estiver sofrendo assédio, notar que alguém está sofrendo assédio, ou tenha alguma dúvida, por favor contate alguém da organização imediatamente.
 
-Conference staff can be identified by distinct staff badges. Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
+As pessoas da equipe da conferência podem ser identificadas por crachás distintos da organização. A organização estará disposta a contatar a segurança do hotel/local ou a polícia local, fornecer escolta ou ajudar pessoas que sofrerem assédio para que se sintam seguras durante a conferência. Nós valorizamos a sua participação.
 
-We expect participants to follow these rules at conference and workshop venues and conference-related social events.
+Esperamos que todas as pessoas participantes sigam estas regras em salas de apresentação e workshops da conferência, além de eventos sociais relacionados.
 
-_The devopsdays Rio de Janeiro 2021 Code of Conduct is based on [confcodeofconduct.com](https://confcodeofconduct.com)._ 
+_O código de conduta do devopsdays Rio de Janeiro 2021 é baseado em [confcodeofconduct.com](https://confcodeofconduct.com/index-pt-br.html)._

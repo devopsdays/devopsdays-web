@@ -89,7 +89,7 @@ sponsor_levels:
     max: 0 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
-  - id: brindes
-    label: Brindes
+  - id: gifts
+    label: Gifts
   - id: community
     label: Community

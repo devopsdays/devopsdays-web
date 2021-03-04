@@ -11,7 +11,7 @@ Description = "DevOpsDays Rio de Janeiro 2021"
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Dates</strong>
+    <strong>Datas</strong>
   </div>
   <div class = "col-md-8">
     {{< event_start >}} - {{< event_end >}}
