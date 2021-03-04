@@ -1,11 +1,11 @@
 +++
-Title = "Registration"
+Title = "Inscrições"
 Type = "event"
-Description = "Registration for devopsdays Rio de Janeiro 2021"
+Description = "Inscrições para o DevOpsDays Rio de Janeiro 2021"
 +++
 
 <div style="width:100%; text-align:left;">
 
-Embed registration iframe/link/etc.
+Em breve.
 </div></div>
 </div>

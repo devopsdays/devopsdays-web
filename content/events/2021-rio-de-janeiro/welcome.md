@@ -65,10 +65,10 @@ Description = "DevOpsDays Rio de Janeiro 2021"
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Sponsors</strong>
+    <strong>Patrocinadores</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="sponsor" text="Sponsor the conference!" >}}
+    {{< event_link page="sponsor" text="Patrocine o evento!" >}}
   </div>
 </div>
 
@@ -77,7 +77,7 @@ Description = "DevOpsDays Rio de Janeiro 2021"
     <strong>Contato</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="contact" text="Get in touch with the organizers" >}}
+    {{< event_link page="contact" text="Entre em contato com os organizadores!" >}}
   </div>
 </div>
 
