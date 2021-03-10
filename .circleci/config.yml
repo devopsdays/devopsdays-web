@@ -3,6 +3,9 @@ jobs:
   production:
     docker:
       - image: cibuilds/hugo:0.76.5
+        auth:
+          username: devopsdaysbuild
+          password: $DOCKERHUB_PASSWORD
     steps:
       - checkout
       - run:
@@ -12,6 +15,9 @@ jobs:
   build:
     docker:
       - image: cibuilds/hugo:0.76.5
+        auth:
+          username: devopsdaysbuild
+          password: $DOCKERHUB_PASSWORD
     working_directory: ~/devopsdays
     steps:
       - checkout
@@ -26,6 +32,9 @@ jobs:
   test:
     docker:
       - image: circleci/node:11.5.0
+        auth:
+          username: devopsdaysbuild
+          password: $DOCKERHUB_PASSWORD
     working_directory: ~/devopsdays
     steps:
       - checkout
@@ -64,7 +73,7 @@ workflows:
           filters:
             branches:
               ignore:
-                - master
+                - main
                 - gh-pages
       - test:
           requires:
@@ -72,7 +81,7 @@ workflows:
           filters:
             branches:
               ignore:
-                - master
+                - main
                 - gh-pages
       # - production:
       #     filters:

@@ -56,7 +56,7 @@ organizer_email: "organizers-hartford-2017@devopsdays.org" # Put your organizer 
 sponsors:
   - id: pivotal-before-20190307
     level: gold
-  - id: chef
+  - id: chef-before-20210112
     level: gold
   - id: pagerduty-before-20190930
     level: gold

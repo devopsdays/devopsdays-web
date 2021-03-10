@@ -28,9 +28,9 @@ It's super helpful to run your own, event-level, GitHub fork of the main reposit
 We suggest that you follow the same process that we do for the main repo, which would be as follows:
 
 1. Make your changes in a branch. Push that branch up to your repo.
-2. Submit a pull request in your own repo against your own master. Make sure that the deploy previews from Netlify (this doc will explain later how to set them up) look good!
-3. If everything looks good to you, merge them into your own master just to make sure that the full build works (for example, in the build to master, Netlify will run various Gulp tasks to retinafy images, minify html, etc. View the tasks in the `gulp` directory if you're curious).
-4. If everything still looks awesome, submit a PR from your `master` branch to `devopsdays/devopsdays-web`.
+2. Submit a pull request in your own repo against your own main. Make sure that the deploy previews from Netlify (this doc will explain later how to set them up) look good!
+3. If everything looks good to you, merge them into your own main just to make sure that the full build works (for example, in the build to main, Netlify will run various Gulp tasks to retinafy images, minify html, etc. View the tasks in the `gulp` directory if you're curious).
+4. If everything still looks awesome, submit a PR from your `main` branch to `devopsdays/devopsdays-web`.
 
 ## Organization Setup
 First, you'll want to set up an organization for your devopsdays event. Go to github.com and under your name, scroll down and click on "Create Organization":
@@ -100,7 +100,7 @@ git remote add upstream https://github.com/devopsdays/devopsdays-web.git
 
 If you enter the command `git remote -v` you will see all your remotes:
 ```
- ~/src/github.com/mts-devopsdays/devopsdays-web/ [master] git remote -v
+ ~/src/github.com/mts-devopsdays/devopsdays-web/ [main] git remote -v
 origin	git@github.com:mts-devopsdays/devopsdays-web.git (fetch)
 origin	git@github.com:mts-devopsdays/devopsdays-web.git (push)
 upstream	git@github.com:devopsdays/devopsdays-web.git (fetch)
@@ -147,7 +147,7 @@ You will be prompted for some build commands. Enter them as follows:
 
 ![](img/netlify-settings.jpg)
 
-(Note. The build command is `hugo_0.19 --theme=devopsdays-theme --buildDrafts=false`; don't worry about the hugo version as this is handled in a [settings file](https://github.com/devopsdays/devopsdays-web/blob/master/netlify.toml) already in your repository. We have to put in a build command, even though it will be over-ridden.)
+(Note. The build command is `hugo_0.19 --theme=devopsdays-theme --buildDrafts=false`; don't worry about the hugo version as this is handled in a [settings file](https://github.com/devopsdays/devopsdays-web/blob/main/netlify.toml) already in your repository. We have to put in a build command, even though it will be over-ridden.)
 
 Finish up by clicking on "Deploy Site". We aren't done, but this takes us to the next steps.
 
@@ -167,11 +167,11 @@ Also an optional step, but it's advised to perform it if your repository is not 
 
 When you are ready to make some changes, the first thing to do is make sure you are in the local directory where you cloned down the fork. Before starting any new change, it is essential that you `rebase` your local repository from the upstream. Issue these commands:
 
- - `git checkout master`
- - `git pull upstream master --rebase`
+ - `git checkout main`
+ - `git pull upstream main --rebase`
 
 
- This confirms you are on the master branch locally, and then applies the changes from the upstream to your copy.
+ This confirms you are on the main branch locally, and then applies the changes from the upstream to your copy.
 
  The next step is to create a new branch for the changes you are going to make. Use the command `git checkout -b my-new-branch` (where "my-new-branch" is a recognizable name for the set of changes, such as `add-matt-bio`). This switches you to a new branch for you to do your work.
 
@@ -226,13 +226,13 @@ To github.com:mts-devopsdays/devopsdays-web.git
 
 ## Working With Pull Requests
 
-Now that you have pushed up your branch to your fork, you need to submit it as a pull request to your own `master` branch on your fork. This allows your other teammates to approve/view the changes you have proposed.
+Now that you have pushed up your branch to your fork, you need to submit it as a pull request to your own `main` branch on your fork. This allows your other teammates to approve/view the changes you have proposed.
 
 Open the URL of your fork in a browser (make sure you are logged into GitHub). You should see something like this:
 
 ![](img/create-local-pr.png)
 
- Make sure you have changed the base fork to your own `master` branch. It should look like this.
+ Make sure you have changed the base fork to your own `main` branch. It should look like this.
 
 ![](img/ready-for-local-pr.png)
 

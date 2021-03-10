@@ -13,8 +13,8 @@ aliases = [
   ]
 Description = "devopsdays aarhus 2020"
 +++
-<h1>Due to the COVID-19 situation, we have decided to postpone the event to February 3-4, 2021.
-We will automatically postpone your ticket to these dates, unless you prefer a full refund of course.
+<h1>Due to the COVID-19 situation, we have decided to postpone the event to the Fall of 2021. See the new devopsdays.org event for Aarhus 2021.
+We will automatically postpone your ticket, unless you prefer a full refund of course.
 If you have any questions, you can contact us: aarhus@devopsdays.org.
 Until then be safe, and keep the DevOps practices going!</h1>
 <div style="text-align:center;">

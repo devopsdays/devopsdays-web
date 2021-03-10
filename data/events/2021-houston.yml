@@ -10,13 +10,13 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2021-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate:  "2021-04-21T09:00:00-06:00" # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  "2021-04-22T17:00:00-06:00" # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate:  "2021-09-21T09:00:00-06:00" # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  "2021-09-22T17:00:00-06:00" # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  "2020-11-15T09:00:00-06:00" # start accepting talk proposals.
-cfp_date_end:  "2021-01-15T09:00:00-06:00" # close your call for proposals.
-cfp_date_announce:  "2021-02-15T09:00:00-06:00" # inform proposers of status
+cfp_date_start: 2021-04-15T09:00:00-06:00 # start accepting talk proposals.
+cfp_date_end: 2021-06-15T09:00:00-06:00 # close your call for proposals.
+cfp_date_announce: 2021-07-15T09:00:00-06:00 # inform proposers of status
 
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
@@ -35,7 +35,7 @@ location_address: "816 Town and Country Blvd #210, Houston, TX 77024" #Optional 
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
- # - name: location
+  - name: location
  # - name: registration
  # - name: program
  # - name: speakers
@@ -149,7 +149,11 @@ sponsors:
     level: gold
   - id: dynatrace
     level: gold
-
+  - id: couchbase
+    level: gold
+  - id: alertops
+    level: gold
+    
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -159,7 +163,7 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: platinum
     label: Platinum
-    max: 5
+    max: 4
   - id: gold
     label: Gold
     max: 15
