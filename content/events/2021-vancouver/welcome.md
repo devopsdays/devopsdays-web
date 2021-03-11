@@ -38,7 +38,7 @@ Description = "Welcome | devopsdays Vancouver 2021"
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    <a href = "">Register to attend the conference!</a>
+    {{< event_link url-key="registration_link" text="Register to attend the conference!" >}}
   </div>
 </div>
 
