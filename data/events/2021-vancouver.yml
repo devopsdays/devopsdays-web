@@ -23,11 +23,12 @@ cfp_date_announce: 2021-04-09T00:00:00-07:00  # inform proposers of status
 
 cfp_link: "https://forms.gle/R2d4gWb4Z8BxGJoT8" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: 2021-16-02T00:00:00-07:00
-registration_date_end: 2021-02-31T00:00:00-07:00
+registration_date_start: 2021-03-10T00:00:00-07:00
+registration_date_end: 2021-04-23T00:00:00-07:00
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_open: "true"
+registration_link: "https://www.eventbrite.ca/e/dev-ops-days-vancouver-2021-tickets-145364423905" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -42,10 +43,10 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: contact
   - name: conduct
   - name: propose
+  - name: registration
   # - name: livestream
   # - name: program
   # - name: speakers
-  # - name: registration
   # - name: location 
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/

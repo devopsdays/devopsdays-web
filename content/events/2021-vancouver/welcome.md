@@ -33,14 +33,14 @@ Description = "Welcome | devopsdays Vancouver 2021"
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
     <a href = "">Register to attend the conference!</a>
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -69,14 +69,14 @@ Description = "Welcome | devopsdays Vancouver 2021"
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>CFP</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link url-key="cfp_link" text="Propose a talk!" >}}
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
