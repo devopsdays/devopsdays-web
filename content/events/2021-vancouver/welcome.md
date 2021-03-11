@@ -29,7 +29,7 @@ Description = "Welcome | devopsdays Vancouver 2021"
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_location >}}
+    Online!
   </div>
 </div>
 
