@@ -17,8 +17,8 @@ aliases = [
     <p>
     Olá pessoal!<br>
     A edição deste ano do DevOpsDays Porto Alegre será muito especial, primeiro que estaremos completando 5 anos de evento, o que é demais! Segundo porque preparamos algumas surpressas para os participantes.<br>
-    Infelizmente, e pelo bem de todos, optamos por realizar o evento online, em um sábado a ser escolhido pelos inscritos do ano passado que optaram por permanecer e pelos 100 primeiros novos inscritos :)<br>
-    Fique ligado no site e em nossas redes sociais!<br>
+    Infelizmente, e pelo bem de todos, optamos por realizar o evento online no dia 10 de Julho.<br>
+    Fique ligado no site e em nossas redes sociais para saber sobre as novidades!<br>
     DevOpsDays Porto Alegre
     </p>
   </div>
