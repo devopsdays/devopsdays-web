@@ -75,6 +75,15 @@ team_members: # Name is the only required field for team members.
     twitter: "jpiscaer"
   - name: "Jos van Schouten"
     linkedin: "https://www.linkedin.com/in/josvanschouten/"
+    twitter: "josvanschouten"
+  - name: "Fabian Met"
+    linkedin: "https://www.linkedin.com/in/fabianmet/"
+  - name: "Sarah Gruneisen"
+    linkedin: "https://www.linkedin.com/in/sgruneisen/"
+    twitter: "avagasso"
+  - name: "Peter Nijenhuis"
+    linkedin: "https://www.linkedin.com/in/peter-nijenhuis-%E2%9C%93-lion-0b83751/"
+    twitter: "Peter_Nijenhuis"
 
 organizer_email: "amsterdam@devopsdays.org" # Put your organizer email address here
 
