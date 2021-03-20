@@ -1,35 +1,31 @@
 +++
-Title = "DevOpsDays Poznań 2021"
+Title = "DevOpsDays Rio de Janeiro 2021"
 Type = "welcome"
-aliases = ["/events/2021-poznan/"]
-Description = "DevOpsDays Poznań 2021"
+aliases = ["/events/2021-rio-de-janeiro/"]
+Description = "DevOpsDays Rio de Janeiro 2021"
 +++
 
-<h3> {{< event_start >}} </h3>
-
-**DevOpsDays is coming to Poznań in 2021, Poland again! More info coming soon!**
-
-<div style="text-align:center;">
+<!-- <div style="text-align:center;">
   {{< event_logo >}}
-</div>
+</div> -->
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Dates</strong>
+    <strong>Datas</strong>
   </div>
   <div class = "col-md-8">
     {{< event_start >}} - {{< event_end >}}
   </div>
 </div>
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div>
+</div> -->
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -69,22 +65,23 @@ Description = "DevOpsDays Poznań 2021"
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Sponsors</strong>
+    <strong>Patrocinadores</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="sponsor" text="Sponsor the conference!" >}}
+    {{< event_link page="sponsor" text="Patrocine o evento!" >}}
   </div>
 </div>
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Contact</strong>
+    <strong>Contato</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="contact" text="Get in touch with the organizers" >}}
+    {{< event_link page="contact" text="Entre em contato com os organizadores!" >}}
   </div>
 </div>
 
 <!-- Uncomment if you added your city twitter name -->
-
+<!--
 {{< event_twitter >}}
+-->
