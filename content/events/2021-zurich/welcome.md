@@ -71,6 +71,15 @@ Description = "DevOpsDays Zürich 2021"
   </div>
 </div> 
 
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Diversity</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_link page="diversity" text="We want to create a most diverse conference!" >}}
+  </div>
+</div> 
+
 <!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
