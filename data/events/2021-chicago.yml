@@ -58,7 +58,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/jerrycattell"
   - name: "Sasha Rosenbaum"
     image: "sasha-rosenbaum.jpg"
-    employer: "GitHub"
+    employer: "Red Hat"
     twitter: "DivineOps"
     website: "https://www.sasharosenbaum.com/"
     linkedin: "https://www.linkedin.com/in/sasha-rosenbaum"
