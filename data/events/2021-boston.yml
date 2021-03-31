@@ -112,8 +112,6 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: platinum
     label: Platinum
-  - id: gold
-    label: Gold
   - id: community
     label: Community
   - id: alacarte
