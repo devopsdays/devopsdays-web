@@ -41,7 +41,6 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: sponsor
   - name: contact
   - name: conduct
-  - name: propose
   - name: registration
   # - name: livestream
   # - name: program
@@ -108,6 +107,8 @@ organizer_email: "vancouver@devopsdays.org" # Put your organizer email address h
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: cisco
+    level: gold
   - id: pilotcore
     level: bronze
 
@@ -120,7 +121,7 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Gold
-    max: 10
+    max: 3
   - id: silver
     label: Silver
     max: 0 # This is the same as omitting the max limit.
