@@ -10,8 +10,8 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: 2021-05-24T09:00:00+02:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2021-05-25T23:59:59+02:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2021-06-01T10:00:00+01:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2021-06-02T23:59:59+01:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 
@@ -30,11 +30,11 @@ cfp_link: "https://forms.gle/RrMwyU6Mg8ihzn9FA" #if you have a custom link for s
 
 # Location
 #
-coordinates: "52.403698, 16.909210" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Iglica MTP" # Defaults to city, but you can make it the venue name.
+# coordinates: "52.403698, 16.909210" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Online in favourite place" # Defaults to city, but you can make it the venue name.
 #
-location_address: "East Gate MTP, ul Głogowska 14, Poznań" #Optional - use the street address of your venue. This will show up on the welcome page if set.
-sharing_image: "sharing.jpg"
+location_address: "Your desk, Your Home, Anywhere" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+# sharing_image: "sharing.jpg"
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
 #  - name: propose
