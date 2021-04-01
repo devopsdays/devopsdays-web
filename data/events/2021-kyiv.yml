@@ -60,11 +60,12 @@ team_members: # Name is the only required field for team members.
     bio: ""
     image: "yurii-rochniak.jpg"
 
-  - name: "Stas Ivashchenko"
-    employer: "Provectus"
+  - name: "Oleg Mykolaichenko"
+    employer: "SQUAD"
     twitter: ""
-    bio: ""
-    image: "stas-ivashchenko.jpg"
+    bio: "Head of Infrastructure at SQUAD. Leading distributed DevOps team, adopting CNCF + HashiCorp Stack for complex infrastructures. Kyiv DevOps Community Co-Founder, runs the largest Telegram channel about DevOps in Ukraine and DevOps digests on DOU.UA."
+    linkedin: "https://www.linkedin.com/in/oleg-mykolaichenko-763ab699/"
+    image: "oleg-mykolaichenko.jpg"
 
   - name: "Mykola Marzhan"
     employer: "Percona"
