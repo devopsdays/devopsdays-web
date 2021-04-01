@@ -5,10 +5,10 @@ Description = "Sponsor devopsdays Poznań 2021"
 +++
 
 
-**DevOpsDays is a self-organizing conference for practitioners that depends on sponsorships.
+**DevOpsDays is a self-organizing conference for practitioners that depends on sponsorships.**
 
 <p>
-We are currently working on a new sponsoring offer during our online event DevOpsDays Poznań 2021. Please stay tuned in and revisit this site within a few days!
+We are currently working on a new sponsoring offer during our online event DevOpsDays Poznań 2021. Please stay tuned and revisit this site within a few days!
 <p>
 
 <br/>
