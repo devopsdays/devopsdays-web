@@ -11,14 +11,14 @@ ga_tracking_id: "UA-137417319-4" # If you have your own Google Analytics trackin
 # Note: we allow 2021-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
 startdate: "2021-09-27T09:00:00-04:00" # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: "2021-09-27T17:00:00-04:00"  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: "2021-09-28T17:00:00-04:00"  # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: "2021-02-17T00:00:00Z" # start accepting talk proposals.
+cfp_date_end: "2021-04-02T23:59:00Z" # close your call for proposals.
+cfp_date_announce: "2021-02-17T00:00:00Z" # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://www.papercall.io/dodbos21" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
@@ -92,6 +92,11 @@ team_members: # Name is the only required field for team members.
     website: "https://speaking.crayzeigh.com/"
     image: "aaronaldritch.jpg"
 
+  - name: "Emily Zall"
+    bio: "Emily is a DevOps Detective and newly Kubernetes certified with CKA."
+    linkedin: https://www.linkedin.com/in/emily-zall/
+    image: "emilyzall.jpg"
+
 organizer_email: "boston@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
@@ -107,8 +112,6 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: platinum
     label: Platinum
-  - id: gold
-    label: Gold
   - id: community
     label: Community
   - id: alacarte

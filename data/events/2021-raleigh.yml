@@ -1,6 +1,6 @@
 name: "2021-raleigh" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2021" # The year of the event. Make sure it is in quotes.
-city: "raleigh" # The displayed city name of the event. Capitalize it.
+city: "Raleigh" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysrdu" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "Devopsdays is coming to raleigh!" # Edit this to suit your preferences
 ga_tracking_id: "UA-145344467-1" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
@@ -29,18 +29,18 @@ registration_link: "https://www.eventbrite.com/e/devopsdays-raleigh-2021-tickets
 # Location
 #
 coordinates: "35.782780, -78.685187" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "McKimmon Conference & Training Center" # Defaults to city, but you can make it the venue name.
+location: "virtual" # Defaults to city, but you can make it the venue name.
 #
-location_address: "1101 Gorman Street, Raleigh, NC 27606" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+#location_address: "1101 Gorman Street, Raleigh, NC 27606" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
-    url: "https://docs.google.com/forms/d/e/1FAIpQLSeobhePrK8d6t3AcUSaxdHstLaCba3Ey5UFbPV4ego4R11hMQ/viewform"
-  - name: location
+ # - name: propose
+ #   url: "https://docs.google.com/forms/d/e/1FAIpQLSeobhePrK8d6t3AcUSaxdHstLaCba3Ey5UFbPV4ego4R11hMQ/viewform"
+ # - name: location
   - name: registration
     url: "https://www.eventbrite.com/e/devopsdays-raleigh-2021-tickets-124429360567"
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -111,7 +111,20 @@ sponsors:
   - id: triangledevops
     level: community
   - id: cprime
-    level: platinum
+    level: premiere
+  - id: chaossearch
+    level: premiere
+  - id: trilio
+    level: premiere
+  - id: stackhawk
+    level: exhibitor
+  - id: morpheus
+    level: sponsor
+  - id: citrix
+    level: premiere
+  - id: sonatype
+    level: exhibitor
+    
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -119,15 +132,115 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: platinum
-    label: Platinum
-  - id: gold
-    label: Gold
+  - id: premiere
+    label: Premiere Supporter
+  - id: exhibitor
+    label: Virtual Exhibitor
 #    max: 10
-  - id: silver
-    label: Silver
+  - id: sponsor
+    label: Virtual Sponsor
     # max: 0 # This is the same as omitting the max limit.
   - id: community
-    label: Community
-  - id: happyhour
-    label: Happy Hour
+    label: Community Sponsor
+
+program:
+  - title: "Opening Welcome"
+    type: custom
+    date: 2021-04-08
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "josh-stella"
+    type: talk
+    date: 2021-04-08
+    start_time: "09:10"
+    end_time: "09:40"
+  - title: "ricardo-castro"
+    type: talk
+    date: 2021-04-08
+    start_time: "09:10"
+    end_time: "09:40"
+  - title: "Sponsors"
+    type: custom
+    date: 2021-04-08
+    start_time: "09:40"
+    end_time: "09:50"
+  - title: "jason-yee"
+    type: talk
+    date: 2021-04-08
+    start_time: "09:50"
+    end_time: "10:20"
+  - title: "pj-hagerty"
+    type: talk
+    date: 2021-04-08
+    start_time: "09:50"
+    end_time: "10:20"
+  - title: "Sponsor Remarks"
+    type: custom
+    date: 2021-04-08
+    start_time: "10:20"
+    end_time: "10:30"
+  - title: "alan-koch"
+    type: workshop
+    date: 2021-04-08
+    start_time: "10:30"
+    end_time: "12:00"
+  - title: "kate-wardin"
+    type: talk
+    date: 2021-04-08
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "Break/networking"
+    type: open-space
+    date: 2021-04-08
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "dave-mcallister"
+    type: talk
+    date: 2021-04-08
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch Break"
+    type: custom
+    date: 2021-04-08
+    start_time: "12:00"
+    end_time: "12:30"
+  - title: "Ignites"
+    type: ignite
+    date: 2021-04-08
+    start_time: "12:30"
+    end_time: "13:00"
+  - title: "david-dang"
+    type: workshop
+    date: 2021-04-08
+    start_time: "13:00"
+    end_time: "14:30"
+  - title: "baruch-sadogursky"
+    type: talk
+    date: 2021-04-08
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Break"
+    type: open-space
+    date: 2021-04-08
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "waldo-grunenwald"
+    type: talk
+    date: 2021-04-08
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: "Closing Remarks"
+    type: custom
+    date: 2021-04-08
+    start_time: "14:30"
+    end_time: "14:45"
+
+ignites:
+  - title: "jason-yee-ignite"
+    date: 2021-04-08
+  - title: "mirza-dautbegovic"
+    date: 2021-04-08
+  - title: "nick-kane-ignite"
+    date: 2021-04-08
+  - title: "alan-koch-ignite"
+    date: 2021-04-08
