@@ -11,8 +11,8 @@ masthead_background: "seattle-skyline.jpg"
 #   variable: 2019-01-04T00:00:00+02:00
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2020-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
-startdate:  2021-05-04T00:00:00-07:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  2021-05-04T23:59:59-07:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2021-05-04T00:00:00-07:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2021-05-04T23:59:59-07:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 # cfp_date_start: 2020-12-15T00:00:00-07:00 # start accepting talk proposals.
@@ -31,9 +31,9 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 # Location
 #
 coordinates: "47.612671, -122.332026" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Seattle"  # Defaults to city, but you can make it the venue name.
+location: "Seattle" # Defaults to city, but you can make it the venue name.
 #
-location_address:  #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   # - name: propose
@@ -71,8 +71,18 @@ proposal_email: "seattle@devopsdays.org" # Put your proposal email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  #  - id: samplesponsorname
-  #    level: gold
+  - id: bridgecrew
+    level: gold
+  - id: env0
+    level: gold
+  - id: firehydrant
+    level: gold
+  - id: styra
+    level: silver
+  - id: mattermost
+    level: bronze
+  - id: opsdrill
+    level: bronze
   #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   # - id: arresteddevops
   #  level: community
