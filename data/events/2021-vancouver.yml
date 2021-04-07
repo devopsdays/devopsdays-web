@@ -43,8 +43,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: conduct
   - name: registration
   # - name: livestream
-  # - name: program
-  # - name: speakers
+  - name: program
+  - name: speakers
   # - name: location 
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
@@ -133,3 +133,98 @@ sponsor_levels:
     label: Streaming
   - id: community
     label: Community
+
+program:
+  - title: "Registration, Sponsor Booths"
+    type: custom
+    date: 2021-04-23
+    start_time: "08:00"
+    end_time: "09:10"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2021-04-23
+    start_time: "09:10"
+    end_time: "09:20"
+  - title: "mandi-walls"
+    type: talk
+    date: 2021-04-23
+    start_time: "09:20"
+    end_time: "09:50"
+  - title: "filipi-pires"
+    type: talk
+    date: 2021-04-23
+    start_time: "9:50"
+    end_time: "10:20"
+  - title: "Sponsor Talks"
+    type: custom
+    date: 2021-04-23
+    start_time: "10:20"
+    end_time: "10:30"
+  - title: "Break, Sponsor Booths"
+    type: custom
+    date: 2021-04-23
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "xavier-rene-corail"
+    type: talk
+    date: 2021-04-23
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "ori-keren"
+    type: talk
+    date: 2021-04-23
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Ignite Talks"
+    type: ignite
+    date: 2021-04-23
+    start_time: "12:00"
+    end_time: "12:30"
+  - title: "Lunch Break"
+    type: custom
+    date: 2021-04-23
+    start_time: "12:30"
+    end_time: "14:00"
+  - title: "anders-wallgren"
+    type: talk
+    date: 2021-04-23
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: "avantika-mathur"
+    type: talk
+    date: 2021-04-23
+    start_time: "14:30"
+    end_time: "15:00"
+  - title: "Break"
+    type: custom
+    date: 2021-04-23
+    start_time: "15:00"
+    end_time: "15:15"
+  - title: "josh-stella"
+    type: talk
+    date: 2021-04-23
+    start_time: "15:15"
+    end_time: "15:45"
+  - title: "thomas-haver"
+    type: talk
+    date: 2021-04-23
+    start_time: "15:45"
+    end_time: "16:15"
+  - title: "Closing Remarks"
+    type: custom
+    date: 2021-04-23
+    start_time: "16:15"
+    end_time: "16:30"
+  - title: "Networking, Sponsor Booths"
+    type: custom
+    date: 2021-04-23
+    start_time: "16:30"
+    end_time: "18:00"
+
+ignites:
+  - title: "jacquie-grindrod"
+    date: 2021-04-23
+  - title: "ryan-maclean"
+    date: 2021-04-23
+  - title: "jeremy-meiss"
+    date: 2021-04-23
