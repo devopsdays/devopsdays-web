@@ -1,5 +1,5 @@
 +++
-Title = "TBC"
+Title = "Josh Stella"
 Twitter = ""
 image = ""
 type = "speaker"
