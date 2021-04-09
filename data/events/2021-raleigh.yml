@@ -111,7 +111,20 @@ sponsors:
   - id: triangledevops
     level: community
   - id: cprime
-    level: platinum
+    level: premiere
+  - id: chaossearch
+    level: premiere
+  - id: trilio
+    level: premiere
+  - id: stackhawk
+    level: exhibitor
+  - id: morpheus
+    level: sponsor
+  - id: citrix
+    level: premiere
+  - id: sonatype
+    level: exhibitor
+    
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -119,18 +132,16 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: platinum
-    label: Platinum
-  - id: gold
-    label: Gold
+  - id: premiere
+    label: Premiere Supporter
+  - id: exhibitor
+    label: Virtual Exhibitor
 #    max: 10
-  - id: silver
-    label: Silver
+  - id: sponsor
+    label: Virtual Sponsor
     # max: 0 # This is the same as omitting the max limit.
   - id: community
-    label: Community
-  - id: happyhour
-    label: Happy Hour
+    label: Community Sponsor
 
 program:
   - title: "Opening Welcome"

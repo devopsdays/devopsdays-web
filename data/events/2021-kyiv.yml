@@ -57,14 +57,19 @@ team_members: # Name is the only required field for team members.
   - name: "Yurii Rochniak"
     employer: "N26"
     twitter: "grem11n"
-    bio: ""
+    github: "grem11n"
+    linkedin: "https://linkedin.com/in/yrochnyak/"
+    bio: "Yurii Rochniak is currently an SRE at N26 neobank where he's working on creating an internal self-service platform for engineers. Through his career, he was focusing on infra development and CI/CD topics in the companies of various sizes.
+Yurii is a creator and administrator of CatOps Telegram channel with more than 5k subscribers and an initiator of HashiCorp User Group Kyiv.
+Yurii is originally from Kyiv, but currently located in Berlin. He's into biking and stand up paddleboarding, when the weather allows it."
     image: "yurii-rochniak.jpg"
 
-  - name: "Stas Ivashchenko"
-    employer: "Provectus"
+  - name: "Oleg Mykolaichenko"
+    employer: "SQUAD"
     twitter: ""
-    bio: ""
-    image: "stas-ivashchenko.jpg"
+    bio: "Head of Infrastructure at SQUAD. Leading distributed DevOps team, adopting CNCF + HashiCorp Stack for complex infrastructures. Kyiv DevOps Community Co-Founder, runs the largest Telegram channel about DevOps in Ukraine and DevOps digests on DOU.UA."
+    linkedin: "https://www.linkedin.com/in/oleg-mykolaichenko-763ab699/"
+    image: "oleg-mykolaichenko.jpg"
 
   - name: "Mykola Marzhan"
     employer: "Percona"
