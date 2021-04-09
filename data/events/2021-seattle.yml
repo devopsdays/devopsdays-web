@@ -53,11 +53,13 @@ team_members: # Name is the only required field for team members.
   - name: "Alina Anderson"
     image: "alina-anderson.jpg"
   - name: "Dave Nash"
+    twitter: "dave_nash"
     image: "dave-nash.jpg"
   - name: "Dawn Parzych"
     twitter: "dparzych"
     image: "dawn-parzych.jpg"
   - name: "Jason Grimes"
+    twitter: "jasongrimes"
     image: "jason-grimes.jpg"
   - name: "Jen Peck"
     twitter: "devpeckops"
@@ -65,6 +67,9 @@ team_members: # Name is the only required field for team members.
   - name: "Saransh Lamba"
     twitter: "saranshlamba"
     image: "saransh-lamba.jpg"
+  - name: "Matt Williams"
+    twitter: "Technovangelist"
+    image: "matt-williams.jpg"
 organizer_email: "seattle@devopsdays.org" # Put your organizer email address here
 proposal_email: "seattle@devopsdays.org" # Put your proposal email address here
 
@@ -217,11 +222,6 @@ program:
     type: talk
     date: 2021-05-04
     start_time: "15:50"
-    end_time: "16:10"
-  - title: "Open Panel Discussion"
-    type: custom
-    date: 2021-05-04
-    start_time: "16:10"
     end_time: "16:30"
   - title: "Closing"
     type: custom
