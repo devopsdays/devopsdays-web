@@ -9,9 +9,9 @@ Description = "Envie sua palestra para o DevOpsDays Rio de Janeiro 2021"
 
 Existem três maneiras de propor um tópico em devopsdays:
 <ol>
-  <li><strong>✓ <em>Uma palestra de 30 minutos</em></strong> apresentada durante a conferência, geralmente no período da manhã. </li>
-  <li><strong>✓ <em>Uma palestra do Ignite</em></strong> apresentada durante as <a href="/pages/ignite-talks-format">sessões do Ignite</a> (a programação varia). São slots de 5 minutos com troca de slides a cada 15 segundos (20 slides no total). </li>
-  <li><strong>✓ <em>Open Space</em></strong>: se você gostaria de liderar uma discussão em grupo durante o <a href="/pages/open-space-format">sugerido pelo participante Open Space</a> para sessões de breakout, não é necessário propô-lo com antecedência. Esses tópicos são sugeridos pessoalmente na conferência. Se quiser fazer uma demonstração de seu produto ou serviço, <a href="../sponsor">patrocine o evento</a> e faça uma demonstração em sua mesa.
+  <li><strong>✓<em>Uma palestra de 30 minutos</em></strong> apresentada durante a conferência, geralmente no período da manhã. </li>
+  <li><strong>✓<em>Uma palestra do Ignite</em></strong> apresentada durante as <a href="/pages/ignite-talks-format">sessões do Ignite</a> (a programação varia). São slots de 5 minutos com troca de slides a cada 15 segundos (20 slides no total). </li>
+  <li><strong>✓<em>Open Space</em></strong>: se você gostaria de liderar uma discussão em grupo durante o <a href="/pages/open-space-format">sugerido pelo participante Open Space</a> para sessões de breakout, não é necessário propô-lo com antecedência. Esses tópicos são sugeridos pessoalmente na conferência. Se quiser fazer uma demonstração de seu produto ou serviço, <a href="../sponsor">patrocine o evento</a> e faça uma demonstração em sua mesa.
 </ol>
 
 <hr>
@@ -27,4 +27,4 @@ Escolher palestras é parte arte, parte ciência; aqui estão alguns fatores que
 
 <hr>
 
-<strong> Como enviar uma proposta:</strong> Em breve
+<strong> Como enviar uma proposta:</strong> Acesse <a href="https://www.papercall.io/devopsriodejaneiro">clicando aqui</a> e faça seu envio!
