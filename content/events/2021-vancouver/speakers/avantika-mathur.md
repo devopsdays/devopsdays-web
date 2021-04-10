@@ -1,5 +1,5 @@
 +++
-Title = "`Avantika Mathur`"
+Title = "Avantika Mathur"
 Twitter = ""
 image = ""
 type = "speaker"
