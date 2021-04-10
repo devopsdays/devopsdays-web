@@ -109,6 +109,8 @@ organizer_email: "vancouver@devopsdays.org" # Put your organizer email address h
 sponsors:
   - id: cisco
     level: gold
+  - id: chime 
+    level: gold
   - id: pilotcore
     level: bronze
   - id: safesoftware
@@ -129,10 +131,6 @@ sponsor_levels:
     max: 0 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
-  - id: streaming
-    label: Streaming
-  - id: community
-    label: Community
 
 program:
   - title: "Registration, Sponsor Booths"
