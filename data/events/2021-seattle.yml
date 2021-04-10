@@ -84,6 +84,8 @@ sponsors:
     level: gold
   - id: styra
     level: silver
+  - id: sonatype
+    level: silver
   - id: mattermost
     level: bronze
   - id: opsdrill
