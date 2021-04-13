@@ -27,4 +27,4 @@ Escolher palestras é parte arte, parte ciência; aqui estão alguns fatores que
 
 <hr>
 
-<strong> Como enviar uma proposta:</strong> Acesse <a href="https://www.papercall.io/devopsriodejaneiro">clicando aqui</a> e faça seu envio!
+<strong> Como enviar uma proposta:</strong> Acesse <a href="https://www.papercall.io/devopsdaysrio2021">clicando aqui</a> e faça seu envio!
