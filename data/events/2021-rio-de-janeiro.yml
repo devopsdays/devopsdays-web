@@ -15,11 +15,11 @@ startdate:  2021-06-08T20:00:00-03:00 # The start date of your event. Leave blan
 enddate:  2021-06-10T23:00:00-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce: # inform proposers of status
+cfp_date_start:  2021-04-13T12:00:00-03:00 # start accepting talk proposals.
+cfp_date_end:  2021-05-25T23:59:00-03:00 # close your call for proposals.
+cfp_date_announce:  2021-04-13T12:00:00-03:00 # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://www.papercall.io/devopsdaysrio2021" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
@@ -59,9 +59,10 @@ team_members: # Name is the only required field for team members.
     image: "camilla-martins.jpg"
   - name: "Bernard Alves"
     employer: "Órama"
-  - name: "Somatório"
-    twitter: "somatorio"
-    employer: "Compass"
+  - name: "Joana C"
+  - name: "Eduardo Abreu"
+    employer: "M4U"
+  - name: "Luiz"
 
 organizer_email: "devopsdaysrio@gmail.com" # Put your organizer email address here
 
@@ -74,7 +75,7 @@ organizer_email: "devopsdaysrio@gmail.com" # Put your organizer email address he
 #   - id: arresteddevops
 #     level: community
 
-#sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
