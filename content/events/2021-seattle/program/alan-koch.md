@@ -1,6 +1,6 @@
 +++
 Talk_date = "2021-05-04"
-Title = "The Role of Context in Observability"
+Title = "AIOps: Observability + Machine Learning + Automate Everything You Can"
 Type = "talk"
 Speakers = ["alan-koch"]
 +++
