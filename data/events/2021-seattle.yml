@@ -82,6 +82,8 @@ sponsors:
     level: gold
   - id: firehydrant
     level: gold
+  - id: vmware-tanzu
+    level: gold
   - id: styra
     level: silver
   - id: sonatype
