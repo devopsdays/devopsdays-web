@@ -1,5 +1,5 @@
 +++
-Title = "TBC"
+Title = "Filipi Pires"
 Twitter = ""
 image = ""
 type = "speaker"

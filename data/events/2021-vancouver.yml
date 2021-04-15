@@ -111,6 +111,10 @@ sponsors:
     level: gold
   - id: chime 
     level: gold
+  - id: hootsuite
+    level: gold
+  - id: pacbio
+    level: silver
   - id: pilotcore
     level: bronze
   - id: safesoftware
