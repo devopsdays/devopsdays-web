@@ -141,17 +141,17 @@ program:
     type: custom
     date: 2021-04-23
     start_time: "08:00"
-    end_time: "09:10"
+    end_time: "09:05"
   - title: "Opening Welcome"
     type: custom
     date: 2021-04-23
-    start_time: "09:10"
-    end_time: "09:20"
+    start_time: "09:05"
+    end_time: "09:15"
   - title: "mandi-walls"
     type: talk
     date: 2021-04-23
-    start_time: "09:20"
-    end_time: "09:50"
+    start_time: "09:15"
+    end_time: "09:45"
   - title: "filipi-pires"
     type: talk
     date: 2021-04-23
@@ -160,7 +160,7 @@ program:
   - title: "Sponsor Talks"
     type: custom
     date: 2021-04-23
-    start_time: "10:20"
+    start_time: "10:25"
     end_time: "10:30"
   - title: "Break, Sponsor Booths"
     type: custom
@@ -175,38 +175,38 @@ program:
   - title: "ori-keren"
     type: talk
     date: 2021-04-23
-    start_time: "11:30"
-    end_time: "12:00"
+    start_time: "11:35"
+    end_time: "12:05"
   - title: "Ignite Talks"
     type: ignite
     date: 2021-04-23
-    start_time: "12:00"
+    start_time: "12:10"
     end_time: "12:30"
   - title: "Lunch Break"
     type: custom
     date: 2021-04-23
     start_time: "12:30"
-    end_time: "14:00"
+    end_time: "13:50"
   - title: "anders-wallgren"
     type: talk
     date: 2021-04-23
-    start_time: "14:00"
-    end_time: "14:30"
+    start_time: "13:50"
+    end_time: "14:20"
   - title: "avantika-mathur"
     type: talk
     date: 2021-04-23
-    start_time: "14:30"
-    end_time: "15:00"
+    start_time: "14:25"
+    end_time: "14:55"
   - title: "Break"
     type: custom
     date: 2021-04-23
-    start_time: "15:00"
-    end_time: "15:15"
+    start_time: "14:55"
+    end_time: "15:10"
   - title: "josh-stella"
     type: talk
     date: 2021-04-23
-    start_time: "15:15"
-    end_time: "15:45"
+    start_time: "15:10"
+    end_time: "15:40"
   - title: "thomas-haver"
     type: talk
     date: 2021-04-23
@@ -215,7 +215,7 @@ program:
   - title: "Closing Remarks"
     type: custom
     date: 2021-04-23
-    start_time: "16:15"
+    start_time: "16:20"
     end_time: "16:30"
   - title: "Networking, Sponsor Booths"
     type: custom
