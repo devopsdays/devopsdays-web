@@ -84,6 +84,8 @@ sponsors:
     level: gold
   - id: vmware-tanzu
     level: gold
+  - id: chef-progress
+    level: gold
   - id: styra
     level: silver
   - id: sonatype
@@ -93,6 +95,8 @@ sponsors:
   - id: mattermost
     level: bronze
   - id: opsdrill
+    level: bronze
+  - id: cprime
     level: bronze
   #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   # - id: arresteddevops
@@ -121,128 +125,135 @@ program:
     type: custom
     date: 2021-05-04
     start_time: "09:00"
-    end_time: "09:15"
+    end_time: "09:10"
   - title: "emily-freeman"
     type: talk
     date: 2021-05-04
-    start_time: "09:15"
-    end_time: "09:35"
+    start_time: "09:10"
+    end_time: "09:30"
   - title: "AMA with Emily Freeman"
     type: custom
     date: 2021-05-04
-    start_time: "09:35"
-    end_time: "09:55"
+    start_time: "09:30"
+    end_time: "09:50"
   - title: "jeremy-meiss"
     type: talk
     date: 2021-05-04
-    start_time: "09:55"
-    end_time: "10:15"
+    start_time: "09:50"
+    end_time: "10:10"
   - title: "AMA with Jeremy Meiss"
     type: custom
     date: 2021-05-04
-    start_time: "10:15"
-    end_time: "10:35"
+    start_time: "10:10"
+    end_time: "10:30"
   - title: "BREAK"
     type: custom
     date: 2021-05-04
-    start_time: "10:35"
-    end_time: "10:50"
+    start_time: "10:30"
+    end_time: "10:40"
   - title: "Ignites"
     type: ignite
     date: 2021-05-04
-    start_time: "10:50"
-    end_time: "11:10"
+    start_time: "10:40"
+    end_time: "10:55"
     block: ignite-1
   - title: "meeta-dash"
     type: talk
     date: 2021-05-04
-    start_time: "11:10"
-    end_time: "11:30"
+    start_time: "10:55"
+    end_time: "11:15"
   - title: "AMA with Meeta Dash"
     type: custom
     date: 2021-05-04
-    start_time: "11:30"
-    end_time: "11:50"
-  - title: "BREAK"
-    type: custom
-    date: 2021-05-04
-    start_time: "11:50"
-    end_time: "12:20"
+    start_time: "11:15"
+    end_time: "11:35"
   - title: "shelby-spees"
     type: talk
     date: 2021-05-04
-    start_time: "12:20"
-    end_time: "12:40"
+    start_time: "11:35"
+    end_time: "11:55"
   - title: "AMA with Shelby Spees"
     type: custom
     date: 2021-05-04
-    start_time: "12:40"
-    end_time: "13:00"
-  - title: "jj-asghar"
-    type: talk
-    date: 2021-05-04
-    start_time: "13:00"
-    end_time: "13:20"
-  - title: "AMA with JJ Asghar"
-    type: custom
-    date: 2021-05-04
-    start_time: "13:20"
-    end_time: "13:40"
+    start_time: "11:55"
+    end_time: "12:15"
   - title: "BREAK"
     type: custom
     date: 2021-05-04
-    start_time: "13:40"
-    end_time: "13:55"
+    start_time: "12:15"
+    end_time: "12:45"
+  - title: "alan-koch"
+    type: talk
+    date: 2021-05-04
+    start_time: "12:45"
+    end_time: "13:05"
+  - title: "AMA with Alan Koch"
+    type: custom
+    date: 2021-05-04
+    start_time: "13:05"
+    end_time: "13:25"
+  - title: "jj-asghar"
+    type: talk
+    date: 2021-05-04
+    start_time: "13:25"
+    end_time: "13:45"
+  - title: "AMA with JJ Asghar"
+    type: custom
+    date: 2021-05-04
+    start_time: "13:45"
+    end_time: "14:05"
+  - title: "BREAK"
+    type: custom
+    date: 2021-05-04
+    start_time: "14:05"
+    end_time: "14:15"
   - title: "Ignites"
     type: ignite
     date: 2021-05-04
-    start_time: "13:55"
-    end_time: "14:15"
+    start_time: "14:15"
+    end_time: "14:30"
     block: ignite-2
   - title: "bella-guo"
     type: talk
     date: 2021-05-04
-    start_time: "14:15"
-    end_time: "14:35"
+    start_time: "14:30"
+    end_time: "14:50"
   - title: "AMA with Bella Guo"
     type: custom
     date: 2021-05-04
-    start_time: "14:35"
-    end_time: "14:55"
+    start_time: "14:50"
+    end_time: "15:10"
   - title: "ricardo-castro"
     type: talk
     date: 2021-05-04
-    start_time: "14:55"
-    end_time: "15:15"
+    start_time: "15:10"
+    end_time: "15:30"
   - title: "AMA with Ricardo Castro"
     type: custom
     date: 2021-05-04
-    start_time: "15:15"
-    end_time: "15:35"
+    start_time: "15:30"
+    end_time: "15:50"
   - title: "BREAK"
     type: custom
     date: 2021-05-04
-    start_time: "15:35"
-    end_time: "15:50"
+    start_time: "15:50"
+    end_time: "16:00"
   - title: "panel"
     type: talk
     date: 2021-05-04
-    start_time: "15:50"
-    end_time: "16:30"
+    start_time: "16:00"
+    end_time: "16:40"
   - title: "Closing"
     type: custom
     date: 2021-05-04
-    start_time: "16:30"
-    end_time: "16:45"
+    start_time: "16:40"
+    end_time: "16:50"
 
 ignites:
   - title: najeeb-khan
     date: 2021-05-04
     block: ignite-1
   - title: derek-ashmore
-    date: 2021-05-04
-    block: ignite-1
-  - title: alan-koch
     date: 2021-05-04
     block: ignite-1
   - title: richard-whitehead
@@ -253,7 +264,7 @@ ignites:
     block: ignite-2
   - title: sam-king
     date: 2021-05-04
-    block: ignite-2
+    block: ignite-1
   - title: jason-yee
     date: 2021-05-04
     block: ignite-2
