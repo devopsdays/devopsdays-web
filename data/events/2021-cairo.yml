@@ -10,8 +10,8 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: 2021-09-09T00:00:00+02:00
-enddate: 2021-09-09T23:59:59+02:00
+startdate: 2021-09-29T00:00:00+02:00
+enddate: 2021-09-29T23:59:59+02:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: # start accepting talk proposals.
@@ -55,9 +55,6 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
-  - name: "Ahmed Abdel Aziz"
-    employer: "IBM Egypt"
-    linkedin: "https://www.linkedin.com/in/theredfox/"
   - name: "Ahmed Ameen"
     employer: "ITIDA - SECC"
     linkedin: "https://www.linkedin.com/in/aameen79/"
@@ -68,7 +65,7 @@ team_members: # Name is the only required field for team members.
     employer: "DXC Technology"
     linkedin: "https://www.linkedin.com/in/mobayomie/"
   - name: "Samar Fadl"
-    employer: "DXC Technology"
+    employer: "ATOS"
     linkedin: "https://www.linkedin.com/in/samar-fadl-13767628/"
   - name: "Reham Saleh"
     employer: "ITIDA - SECC"
@@ -86,6 +83,8 @@ sponsors:
  - id: foss
    level: community
  - id: egyptinnovate
+   level: community
+ - id: tiec
    level: community
      
  #- id: amecse
