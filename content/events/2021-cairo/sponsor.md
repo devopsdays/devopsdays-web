@@ -3,6 +3,7 @@ Title = "Sponsor the event!"
 Type = "event"
 Description = "Sponsor devopsdays Cairo 2020"
 +++
+
 <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;margin-bottom:.0001pt;'>&nbsp;</p>
 <table style="border: none;margin-left:80.7pt;border-collapse:collapse;">
     <tbody>
@@ -128,6 +129,7 @@ Description = "Sponsor devopsdays Cairo 2020"
     </tbody>
 </table>
 <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;margin-bottom:.0001pt;'>&nbsp;</p>
+
 
 <p>We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an 
 

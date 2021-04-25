@@ -4,7 +4,8 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Texas DevOps Community Fire Starter Chat"
 Type = "talk"
-Speakers = ["laura-santamaria", "boyd-hemphill"]
+Speakers = ["boyd-hemphill", "reggie-davis", "mike-rosado", "laura-santamaria"]
+sharing_image = "texas-devops-community.png"
 
 +++
 

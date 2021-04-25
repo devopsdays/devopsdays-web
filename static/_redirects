@@ -1,4 +1,4 @@
-/amsterdam/*		/events/2020-amsterdam/:splat		302
+/amsterdam/*		/events/2021-amsterdam/:splat		302
 /aracaju/*		/events/2019-aracaju/:splat		302
 /atlanta/*		/events/2020-atlanta/:splat		302
 /austin/*		/events/2020-austin/:splat		302
@@ -23,11 +23,11 @@
 /cape-town/*		/events/2020-cape-town/:splat		302
 /charlotte/*		/events/2020-charlotte/:splat		302
 /chattanooga/*		/events/2019-chattanooga/:splat		302
-/chicago/*		/events/2020-chicago/:splat		302
+/chicago/*		/events/2021-chicago/:splat		302
 /columbus/*		/events/2020-columbus/:splat		302
 /copenhagen/*		/events/2019-copenhagen/:splat		302
 /cuba/*			/events/2019-cuba/:splat		302
-/dallas/*		/events/2021-dallas/:splat		302
+/dallas/*		/events/2022-dallas/:splat		302
 /denver/*		/events/2020-denver/:splat		302
 /des-moines/*		/events/2020-des-moines/:splat		302
 /detroit/*		/events/2020-detroit/:splat		302
@@ -79,7 +79,7 @@
 /phoenix/*		/events/2018-phoenix/:splat		302
 /pittsburgh/*		/events/2015-pittsburgh/:splat		302
 /portland-me/*		/events/2020-portland-me/:splat		302
-/portland-or/*		/events/2020-portland-or/:splat		302
+/portland-or/*		/events/2021-portland-or/:splat		302
 /porto-alegre/*		/events/2021-porto-alegre/:splat	302
 /portugal/*		/events/2020-portugal/:splat		302
 /poznan/*		/events/2020-poznan/:splat		302
@@ -87,7 +87,7 @@
 /raleigh/*		/events/2021-raleigh/:splat		302
 /recife/*		/events/2019-recife/:splat		302
 /riga/*			/events/2018-riga/:splat		302
-/rio-de-janeiro/*	/events/2018-rio-de-janeiro/:splat	302
+/rio-de-janeiro/*	/events/2021-rio-de-janeiro/:splat	302
 /rome/*			/events/2012-italy/:splat		302
 /saint-louis/*		/events/2020-saint-louis/:splat		302
 /salt-lake-city/*	/events/2020-salt-lake-city/:splat	302
@@ -101,7 +101,7 @@
 /silicon-valley/*	/events/2018-silicon-valley/:splat	302
 /singapore/*		/events/2020-singapore/:splat		302
 /stockholm/*		/events/2020-stockholm/:splat		302
-/taipei/*		/events/2019-taipei/:splat		302
+/taipei/*		/events/2021-taipei/:splat		302
 /tampa/*		/events/2020-tampa/:splat		302
 /tel-aviv/*		/events/2019-tel-aviv/:splat		302
 /texas/*		/events/2021-texas/:splat		302
