@@ -35,6 +35,7 @@ location_address: "" #Optional - use the street address of your venue. This will
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
+    url: https://sessionize.com/devopsdays-amsterdam-2021/
   # - name: location
   # - name: registration
   # - name: program
