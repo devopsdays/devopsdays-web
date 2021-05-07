@@ -98,6 +98,8 @@ sponsors:
   # Silver
   - id: fullstaq
     level: silver
+  - id: kumina
+    level: silver
   # Bronze
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
