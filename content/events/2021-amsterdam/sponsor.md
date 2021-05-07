@@ -16,7 +16,7 @@ devopsdays is a conference organized by volunteers, and depends on sponsorships.
   <strong>Hot tip:</strong> encourage your engineers to participate in, and interact with the attendees and experts at devopsdays. The in-person devopsdays Amsterdam conference typically attracts around 500 participants. For our virtual 2021 event we've capped attendance at 1000.
 <p>
   
-|                                                           | Bronze | Silver | Gold    |
+|                                                           | Gold   | Silver | Bronze  |
 | --------------------------------------------------------- | ------ | ------ | ------- |
 |                                                           | **3K** | **1k** | **500** |
 | Sponsor slide during breaks                               |        | x      | x       |
