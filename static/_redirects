@@ -47,7 +47,7 @@
 /helsinki/*		/events/2014-helsinki/:splat		302
 /houston/*		/events/2021-houston/:splat		302
 /indianapolis/*		/events/2020-indianapolis/:splat	302
-/istanbul/*		/events/2020-istanbul/:splat		302
+/istanbul/*		/events/2021-istanbul/:splat		302
 /jakarta/*		/events/2020-jakarta/:splat		302
 /kansas-city/*		/events/2019-kansas-city/:splat		302
 /kazan/*		/events/2018-kazan/:splat		302
