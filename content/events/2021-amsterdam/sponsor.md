@@ -19,11 +19,11 @@ devopsdays is a conference organized by volunteers, and depends on sponsorships.
 |                                                           | Gold   | Silver | Bronze  |
 | --------------------------------------------------------- | ------ | ------ | ------- |
 |                                                           | **3K** | **1k** | **500** |
-| Sponsor slide during breaks                               |        | x      | x       |
-| Product pitch (2 minute pitch - 3 times during the event) |        |        | x       |
-| Virtual Sponsor area                                      |        | x      | x       |
-| Discount on sponsorship for 2022                          |        |        | x       |
+| Sponsor slide during breaks                               | x      | x      |         |
+| Product pitch (2 minute pitch - 3 times during the event) | x      |        |         |
+| Virtual Sponsor area                                      | x      | x      |         |
+| Discount on sponsorship for 2022                          | x      |        |         |
 | Logo on website                                           | x      | x      | x       |
 | Logo in emails                                            | x      | x      | x       |
-| Pre-written message in main chat channel                  |        |        | x       |
-| Open Space                                                |        |        | x       |
+| Pre-written message in main chat channel                  | x      |        |         |
+| Open Space                                                | x      |        |         |
