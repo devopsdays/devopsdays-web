@@ -45,7 +45,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #    url: "https://devopsdays.io/agenda-2"
  # - name: speakers
   - name: sponsor
-#  - name: speakers
+  - name: speakers
   - name: contact
   - name: conduct
 # - name: example
@@ -72,7 +72,7 @@ team_members: # Name is the only required field for team members.
     image: "zapata.png"    
  
   - name: "Miguelangel Pineda"
-    employer: "Agile & Consulting Group Co"
+    employer: "Entel Ocean"
     image: "miguelangel.png"
     linkedin: "https://www.linkedin.com/in/miguelangel-pineda-garcia/"  
 #   role: ""
@@ -114,7 +114,7 @@ team_members: # Name is the only required field for team members.
 #   github: ""
 #   image: ".jpg"  
   - name: "Miguel Teheran"
-    employer: "Gorilla Logic"
+    employer: "Globant"
     image: "miguel.png" 
     twitter: "Mteheran"
     linkedin: "https://www.linkedin.com/in/miguel-angel-teheran-garcia-1a034525/"
@@ -145,7 +145,8 @@ sponsors:
 # - id: samplesponsorname
 #   level: gold
 #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-
+  - id: agileconsulting
+    level: diamond
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -153,5 +154,7 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: diamond
+    label: Diamond
  
 
