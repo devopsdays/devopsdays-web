@@ -9,11 +9,10 @@ Description = "Devopsdays Prague 2021"
 
 <div class = "row">
   <div class = "col-md-6 push-md-6">
-<b>DevOpsDays Prague 2021 is a direct replacement of DevOpsDays Prague 2020 which unfortunatelly didn't happen due to the covid-19 restrictions. All tickets and arrangements are still valid.</b>
-<br>
-With the aditional planning time we are aiming to deliver the best event possible.
-<br><br>
-The format of DevOpsDays includes a single track of 30 minute talks in the morning of each day, followed by Ignite talks (5 minute lightning talks). We spend the rest of the afternoon in Open Spaces, which are considered a key portion of the event.
+    <b> DevOpsDays Prague was postponed because of the covid-19 situation and currently doesn't have a set date. We will announce it as soon as it will be safe to organize the event.
+    All tickets and arrangements from the original event are still valid.</b>
+    <br><br>
+    The format of DevOpsDays includes a single track of 30 minute talks in the morning of each day, followed by Ignite talks (5 minute lightning talks). We spend the rest of the afternoon in Open Spaces, which are considered a key portion of the event.
   </div>
   <div class = "col-md-6 push-md-6">
     <div style="text-align:center;">
@@ -21,14 +20,14 @@ The format of DevOpsDays includes a single track of 30 minute talks in the morni
     </div>
   </div>
 </div>
-<div class = "row">
+<!--<div class = "row">
   <div class = "col-md-2">
     <strong>Dates</strong>
   </div>
   <div class = "col-md-8">
     {{< event_start >}} - {{< event_end >}}
   </div>
-</div>
+</div>  -->
 
 <div class = "row">
   <div class = "col-md-2">

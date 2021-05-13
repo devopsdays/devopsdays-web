@@ -10,21 +10,21 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: 2021-08-25T00:00:00-05:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2021-08-26T23:59:59-05:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2021-02-22T21:00:00-05:00 # start accepting talk proposals.
-cfp_date_end: 2021-05-30T18:00:00-05:00 # close your call for proposals.
-cfp_date_announce: 2021-07-06T18:00:00-05:00 # inform proposers of status
+# cfp_date_start: 2021-02-22T21:00:00-05:00 # start accepting talk proposals.
+# cfp_date_end: 2021-05-30T18:00:00-05:00 # close your call for proposals.
+# cfp_date_announce: 2021-07-06T18:00:00-05:00 # inform proposers of status
 
 cfp_link: "https://www.papercall.io/dod-dfw-2021" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 masthead_background: "PlanoEventCenter.jpg"
 sharing_image: "dallas2021.png"
 
-registration_date_start: 2021-02-09T00:00:00-05:00 # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: 2021-08-27T23:59:59-05:00 #close registration. Leave blank if registration is not open yet.
+registration_date_start:  # start accepting registration. Leave blank if registration is not open yet
+registration_date_end:  #close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.

@@ -93,11 +93,11 @@ registration, breakout rooms with video, and private channels for coordination.
 
 <tr>
 	<td>Pre-Recorded Pitch</td>
-	<td class="comp">2 Minutes at Either<br/>Opening, Lunch, or Closing</td>
-	<td>2 Minutes at Either<br/>Opening, Lunch, or Closing</td>
-	<td>2 Minutes Before<br/>One of Our Talks</td>
-	<td>1 Minute During<br/>Ignite Talks</td>
-	<td>1 minute, time TBD</td>
+	<td class="comp">2 Minutes</td>
+	<td>2 Minutes</td>
+	<td>2 Minutes</td>
+	<td>1 Minute</td>
+	<td>1 Minute</td>
 </tr>
 
 <tr>
