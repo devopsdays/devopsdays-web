@@ -62,10 +62,6 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/mmazurek/"
     twitter: "mazuchna"
     image: marcin-mazurek.jpg
-  - name: "Tomasz Napierała"
-    twitter: "tzn"
-    linkedin: "https://www.linkedin.com/in/tnapierala/"
-    image: tomasz-napierala.jpg
   - name: "Daniel Pijanowski"
     employer: "Allegro.pl"
     linkedin: "https://www.linkedin.com/in/dpijanowski/"
