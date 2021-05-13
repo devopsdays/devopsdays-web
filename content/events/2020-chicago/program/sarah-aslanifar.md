@@ -6,6 +6,7 @@ Title = "Computational Thinking"
 Type = "talk"
 Speakers = ["sarah-aslanifar"]
 sharing_image = "sarah-aslanifar.png"
+youtube = "rMw0bWylAPY"
 +++
 We have a choice in designing our software development careers. We can follow the path of a technologist learning and exploiting one technology to solve the problems that particular technology was built to solve. Alternatively, we can be a computational thinker who can address a much broader set of problems, choosing or designing the solution needed for the problem at hand. Computational thinking is more than thinking like a programmer, and we'll see that not all programmers are thinking computationally.
 

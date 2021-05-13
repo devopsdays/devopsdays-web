@@ -41,7 +41,7 @@ proposal_email: "proposals-boston-2015@devopsdays.org" # Put your proposal email
 sponsors:
   - id: bmc
     level: gold
-  - id: chef
+  - id: chef-before-20160714
     level: gold
   - id: g2
     level: gold

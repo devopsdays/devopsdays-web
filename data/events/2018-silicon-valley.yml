@@ -97,7 +97,7 @@ sponsors:
     level: silver
   - id: redislabs-before-20200211
     level: silver
-  - id: chef
+  - id: chef-before-20210112
     level: absponsor
   - id: dynatrace
     level: absponsor

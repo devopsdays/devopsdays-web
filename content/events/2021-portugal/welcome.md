@@ -16,7 +16,7 @@ Description = "devopsdays portugal 2021"
     <strong>Announcement</strong>
   </div>
   <div class = "col-md-8">
-    <h4><strong>We are working to organize a great DevOpsDays Portugal 2021 edition. Stay tuned!</strong></h4>
+    <h4><strong>Due to the COVID-19 situation in Portugal the team organizing DevOpsDays Portugal 2021 have decided to cancel this year's event.</strong></h4>
   </div>
 </div>
 

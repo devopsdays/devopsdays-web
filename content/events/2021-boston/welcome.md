@@ -19,7 +19,7 @@ h1.welcome-page { text-transform: initial; }
   <div class="col-md-6">
     <div class="row">
       <div class="col-md-2"><strong>Dates</strong></div>
-      <div class="col-md-8">{{< event_start >}}</div>
+      <div class="col-md-8">{{< event_start >}}-{{< event_end >}}</div>
     </div>
     <div class="row">
       <div class="col-md-2"><strong>Location</strong></div>

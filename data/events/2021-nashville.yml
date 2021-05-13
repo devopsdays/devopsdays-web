@@ -2,7 +2,7 @@ name: "2021-nashville" # The name of the event. Four digit year with the city na
 year: "2021" # The year of the event. Make sure it is in quotes.
 city: "Nashville" # The displayed city name of the event. Capitalize it.
 event_twitter: "nashvilledevops" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "DevOpsDays Nashville April 1-2, 2021" # Edit this to suit your preferences
+description: "DevOpsDays Nashville October 28-29, 2021" # Edit this to suit your preferences
 ga_tracking_id: "UA-136135566-2" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2021-MM-DDTHH:MM:SS+TZ:TZ, like this:
@@ -10,8 +10,8 @@ ga_tracking_id: "UA-136135566-2" # If you have your own Google Analytics trackin
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2021-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate:  2021-04-01T00:00:00+02:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:    2021-04-02T00:00:00+02:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate:  2021-10-28T00:00:00+02:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:    2021-10-29T00:00:00+02:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:     2020-10-01T00:00:00+02:00 # start accepting talk proposals.

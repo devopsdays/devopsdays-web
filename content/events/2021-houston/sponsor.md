@@ -4,7 +4,7 @@ Type = "event"
 Description = "Sponsor devopsdays Houston 2021"
 +++
 
-##### We greatly value sponsors for this open event. <!-- Please see our <a href="/events/2020-houston/sponsorship-prospectus.pdf">Sponsorship Prospectus</a> for details about the event and sponsorship levels. --> Our sponsorship prospectus is coming soon. If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
+##### We greatly value sponsors for this open event. Please see our <a href="https://assets.devopsdays.org/events/2021/houston/devopsdays-houston-2021-prospectus.pdf">Sponsorship Prospectus</a> for details about the event and sponsorship levels. If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
 
 <hr>
 
@@ -19,7 +19,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
 
 <div style="width:800px">
 <h2>Sponsorship Levels</h2>
-Please see our <a href="/events/2020-houston/sponsorship-prospectus.pdf">Sponsorship Prospectus</a> for more details about the event and sponsorship levels.
+Please see our <a href="https://assets.devopsdays.org/events/2021/houston/devopsdays-houston-2021-prospectus.pdf">Sponsorship Prospectus</a> for more details about the event and sponsorship levels.
 <h3>Standard Sponsorships</h3>
 <table border=1 cellspacing=1>
 <style>
@@ -51,30 +51,23 @@ Please see our <a href="/events/2020-houston/sponsorship-prospectus.pdf">Sponsor
 <tr>
 	<th style="text-align:left">Pay Now</th>
 	<th valign="top"><center>
-	<!--
 	<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="7HCW43Y5TXEPG">
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form></center>
-	-->
-	Link Coming Soon
 	</th>
 	<th valign="top"><center>
-	<!--
 	<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="KNZDLHRPGPJGL">
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
-	-->
-	Link Coming Soon
 	</center></th>
 	<th valign="top"><center>
-	<span class="btn btn-warning btn-sm">Almost Sold Out</span> <br/>
-	Email us if interested
+	<span class="btn btn-danger btn-sm">Sold Out</span> <br/>
 	</center></th>
 	<th valign="top"><center>
 	<span class="btn btn-danger btn-sm">Sold Out</span> <br/>
