@@ -147,6 +147,28 @@ sponsors:
 #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: agileconsulting
     level: diamond
+  - id: 2020-devco
+    level: diamond
+  - id: zivra
+    level: platinum
+  - id: fluidattacks
+    level: platinum
+  - id: certiprof
+    level: platinum
+  - id: universidad-ces
+    level: gold
+  - id: techandsolve
+    level: gold
+  - id: ceiba
+    level: gold
+  - id: devopsinstitute2020
+    level: gold
+  - id: pragma
+    level: gold
+  - id: linux-professional-institute
+    level: gold
+  - id: castor
+    level: gold
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -156,5 +178,8 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: diamond
     label: Diamond
- 
+  - id: platinum
+    label: Platinum
+  - id: gold
+    label: Gold
 
