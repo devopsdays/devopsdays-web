@@ -75,8 +75,9 @@ team_members: # Name is the only required field for team members.
     image: "lays-rodrigues.jpg"
   - name: "Eduardo Abreu"
     employer: "M4U"
-  - name: "Luiz"
   - name: "Joana C"
+  - name: "Marcelo Freire"
+    image: "marcelo-freire.jpg"
 
 organizer_email: "devopsdaysrio@gmail.com" # Put your organizer email address here
 
@@ -105,6 +106,8 @@ sponsors:
     level: gold
   - id: boticario
     level: gold
+  - id: olist
+    level: silver
 
 sponsor_levels:
   - id: gold
