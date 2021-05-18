@@ -146,6 +146,10 @@ sponsors:
     level: gold
   - id: env0
     level: alacarte
+  - id: microsoftazure
+    level: gold
+  - id: microsoftazure
+    level: alacarte
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
