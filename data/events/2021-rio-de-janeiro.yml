@@ -17,7 +17,7 @@ enddate:  2021-06-10T23:00:00-03:00 # The end date of your event. Leave blank if
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  2021-04-13T12:00:00-03:00 # start accepting talk proposals.
 cfp_date_end:  2021-05-15T23:59:00-03:00 # close your call for proposals.
-cfp_date_announce:  2021-05-17T12:00:00-03:00 # inform proposers of status
+cfp_date_announce:  2021-05-22T12:00:00-03:00 # inform proposers of status
 
 cfp_link: "https://www.papercall.io/devopsdaysrio2021" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
@@ -75,8 +75,9 @@ team_members: # Name is the only required field for team members.
     image: "lays-rodrigues.jpg"
   - name: "Eduardo Abreu"
     employer: "M4U"
-  - name: "Luiz"
   - name: "Joana C"
+  - name: "Marcelo Freire"
+    image: "marcelo-freire.jpg"
 
 organizer_email: "devopsdaysrio@gmail.com" # Put your organizer email address here
 
@@ -99,12 +100,16 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsors:
   - id: linuxtips
     level: community
+  - id: 4linux
+    level: community
   - id: globotv
     level: gold
   - id: orama
     level: gold
   - id: boticario
     level: gold
+  - id: olist
+    level: silver
 
 sponsor_levels:
   - id: gold
