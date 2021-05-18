@@ -140,6 +140,12 @@ sponsors:
     level: gold
   - id: codelogic
     level: silver
+  - id: env0
+    level: gold
+  - id: couchbase
+    level: gold
+  - id: env0
+    level: alacarte
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
