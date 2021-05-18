@@ -95,6 +95,8 @@ sponsors:
   # Gold
   # - id: schubergphilis
   #   level: gold
+  - id: helecloud
+    level: gold
   # Silver
   - id: fullstaq
     level: silver
