@@ -93,14 +93,18 @@ organizer_email: "amsterdam@devopsdays.org" # Put your organizer email address h
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
   # Gold
-  # - id: schubergphilis
-  #   level: gold
+  - id: schubergphilis
+    level: gold
+  - id: helecloud
+    level: gold
   # Silver
   - id: fullstaq
     level: silver
   - id: kumina
     level: silver
   - id: tomtom
+    level: silver
+  - id: bol
     level: silver
   # Bronze
   - id: technative
