@@ -97,6 +97,8 @@ sponsors:
     level: gold
   - id: helecloud
     level: gold
+  - id: microsoft
+    level: gold
   # Silver
   - id: fullstaq
     level: silver
