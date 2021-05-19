@@ -219,7 +219,7 @@ program:
   - title: "OpenSpace modo Fishbowl dos Patrocinadores"
     type: open-space
     date: "2021-06-09"
-    start_time: "21:20"
+    start_time: "21:00"
     end_time: "21:30"
     background_color: "#EDBB99"
 
@@ -277,6 +277,7 @@ program:
 
   - title: "Encerramento + Sorteios"
     type: custom
-    date: "2021-06-09"
+    date: "2021-06-10"
     start_time: "21:30"
     end_time: "22:00"
+    
