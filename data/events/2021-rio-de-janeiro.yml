@@ -38,6 +38,12 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: Propostas
     icon: "microphone"
     url: /events/2021-rio-de-janeiro/propose
+  - name: Programação
+    icon: "book"
+    url: /events/2021-rio-de-janeiro/program
+  - name: Palestrantes
+    icon: "microphone"
+    url: /events/2021-rio-de-janeiro/speakers
  # - name: location
   - name: Inscreva-se
     icon: "user-plus"
@@ -124,3 +130,153 @@ sponsor_levels:
     label: Gifts
   - id: community
     label: Community
+
+program:
+  - title: "Abertura"
+    type: custom
+    date: "2021-06-08"
+    start_time: "19:00"
+    end_time: "19:15"
+
+  - title: "Painel: DevOps Hoje! - Jefferson LinuxTips, Gomex, Somatório"
+    type: custom
+    date: "2021-06-08"
+    start_time: "19:15"
+    end_time: "20:00"
+    background_color: "#AED6F1"
+
+  - title: "Pausa do patrocinador"
+    type: custom
+    date: "2021-06-08"
+    start_time: "20:00"
+    end_time: "20:10"
+    background_color: "#EDBB99"
+
+  - title: "tony-v"
+    type: talk
+    date: "2021-06-08"
+    start_time: "20:15"
+    end_time: "20:35"
+
+  - title: "tainara-allmeida"
+    type: talk
+    date: "2021-06-08"
+    start_time: "20:40"
+    end_time: "21:00"
+
+  - title: "suresh-chandra"
+    type: talk
+    date: "2021-06-08"
+    start_time: "21:00"
+    end_time: "21:20"
+
+  - title: "Pausa do patrocinador"
+    type: custom
+    date: "2021-06-08"
+    start_time: "21:20"
+    end_time: "21:30"
+    background_color: "#EDBB99"
+
+  - title: "Encerramento + Sorteios"
+    type: custom
+    date: "2021-06-08"
+    start_time: "21:30"
+    end_time: "21:40"
+
+#9
+  - title: "Abertura"
+    type: custom
+    date: "2021-06-09"
+    start_time: "19:00"
+    end_time: "19:15"
+
+  - title: "Painel: DevOps no exterior! - Nana da Silva e Samuel Cavallieri"
+    type: custom
+    date: "2021-06-09"
+    start_time: "19:15"
+    end_time: "20:00"
+    background_color: "#AED6F1"
+
+  - title: "Pausa do patrocinador"
+    type: custom
+    date: "2021-06-09"
+    start_time: "20:00"
+    end_time: "20:10"
+    background_color: "#EDBB99"
+
+  - title: "elena-sanchez"
+    type: talk
+    date: "2021-06-09"
+    start_time: "20:15"
+    end_time: "20:35"
+
+  - title: "ricardo-castro"
+    type: talk
+    date: "2021-06-09"
+    start_time: "20:40"
+    end_time: "21:00"
+
+  - title: "OpenSpace modo Fishbowl dos Patrocinadores"
+    type: open-space
+    date: "2021-06-09"
+    start_time: "21:20"
+    end_time: "21:30"
+    background_color: "#EDBB99"
+
+  - title: "Encerramento + Sorteios"
+    type: custom
+    date: "2021-06-09"
+    start_time: "21:30"
+    end_time: "21:40"
+
+#10
+  - title: "Abertura"
+    type: custom
+    date: "2021-06-10"
+    start_time: "19:00"
+    end_time: "19:15"
+
+  - title: "Painel: Implementando DevOps! - Lobinha, Diego Garcia e Beatriz Oliveira do Sysadminas"
+    type: custom
+    date: "2021-06-10"
+    start_time: "19:15"
+    end_time: "20:00"
+    background_color: "#AED6F1"
+
+  - title: "Pausa do patrocinador"
+    type: custom
+    date: "2021-06-10"
+    start_time: "20:00"
+    end_time: "20:10"
+    background_color: "#EDBB99"
+
+  - title: "yuri-oliveira"
+    type: talk
+    date: "2021-06-10"
+    start_time: "20:15"
+    end_time: "20:35"
+
+  - title: "aline-freitas"
+    type: talk
+    date: "2021-06-10"
+    start_time: "20:40"
+    end_time: "21:00"
+
+  - title: "roberta-brandao"
+    type: talk
+    date: "2021-06-10"
+    start_time: "21:00"
+    end_time: "21:20"
+
+  - title: "Pausa do patrocinador"
+    type: custom
+    date: "2021-06-10"
+    start_time: "21:20"
+    end_time: "21:30"
+    background_color: "#EDBB99"
+
+  - title: "Encerramento + Sorteios"
+    type: custom
+    date: "2021-06-09"
+    start_time: "21:30"
+    end_time: "22:00"
