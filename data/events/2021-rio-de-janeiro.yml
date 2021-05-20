@@ -138,8 +138,8 @@ program:
     start_time: "19:00"
     end_time: "19:15"
 
-  - title: "Painel: DevOps Hoje! - Jefferson LinuxTips, Gomex, Somatório"
-    type: custom
+  - title: "rafael-gomex"
+    type: talk
     date: "2021-06-08"
     start_time: "19:15"
     end_time: "20:00"
@@ -190,8 +190,8 @@ program:
     start_time: "19:00"
     end_time: "19:15"
 
-  - title: "Painel: DevOps no exterior! - Nana da Silva e Samuel Cavallieri"
-    type: custom
+  - title: "nana-silva"
+    type: talk
     date: "2021-06-09"
     start_time: "19:15"
     end_time: "20:00"
@@ -236,8 +236,8 @@ program:
     start_time: "19:00"
     end_time: "19:15"
 
-  - title: "Painel: Implementando DevOps! - Lobinha, Diego Garcia e Beatriz Oliveira do Sysadminas"
-    type: custom
+  - title: "lobinha"
+    type: talk
     date: "2021-06-10"
     start_time: "19:15"
     end_time: "20:00"
@@ -280,4 +280,3 @@ program:
     date: "2021-06-10"
     start_time: "21:30"
     end_time: "22:00"
-    

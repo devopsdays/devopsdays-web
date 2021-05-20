@@ -1,7 +1,7 @@
 +++
 Title = "Jose Leitao"
 #Twitter = "jose"
-#linkedin = "" 
+linkedin = "https://www.linkedin.com/in/joleitao/" 
 image = "jose.jpg"
 type = "speaker"
 linktitle = "jose-leitao"
