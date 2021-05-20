@@ -19,6 +19,7 @@ cfp_date_start:  2021-04-13T12:00:00-03:00 # start accepting talk proposals.
 cfp_date_end:  2021-05-15T23:59:00-03:00 # close your call for proposals.
 cfp_date_announce:  2021-05-22T12:00:00-03:00 # inform proposers of status
 
+cfp_open: "false"
 cfp_link: "https://www.papercall.io/devopsdaysrio2021" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2021-04-13T12:00:00-03:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
@@ -38,6 +39,12 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: Propostas
     icon: "microphone"
     url: /events/2021-rio-de-janeiro/propose
+  - name: Programação
+    icon: "book"
+    url: /events/2021-rio-de-janeiro/program
+  - name: Palestrantes
+    icon: "microphone"
+    url: /events/2021-rio-de-janeiro/speakers
  # - name: location
   - name: Inscreva-se
     icon: "user-plus"
@@ -124,3 +131,153 @@ sponsor_levels:
     label: Gifts
   - id: community
     label: Community
+
+program:
+  - title: "Abertura"
+    type: custom
+    date: "2021-06-08"
+    start_time: "19:00"
+    end_time: "19:15"
+
+  - title: "rafael-gomex"
+    type: talk
+    date: "2021-06-08"
+    start_time: "19:15"
+    end_time: "20:00"
+    background_color: "#AED6F1"
+
+  - title: "Pausa do patrocinador"
+    type: custom
+    date: "2021-06-08"
+    start_time: "20:00"
+    end_time: "20:10"
+    background_color: "#EDBB99"
+
+  - title: "tony-v"
+    type: talk
+    date: "2021-06-08"
+    start_time: "20:15"
+    end_time: "20:35"
+
+  - title: "tainara-allmeida"
+    type: talk
+    date: "2021-06-08"
+    start_time: "20:40"
+    end_time: "21:00"
+
+  - title: "suresh-chandra"
+    type: talk
+    date: "2021-06-08"
+    start_time: "21:00"
+    end_time: "21:20"
+
+  - title: "Pausa do patrocinador"
+    type: custom
+    date: "2021-06-08"
+    start_time: "21:20"
+    end_time: "21:30"
+    background_color: "#EDBB99"
+
+  - title: "Encerramento + Sorteios"
+    type: custom
+    date: "2021-06-08"
+    start_time: "21:30"
+    end_time: "21:40"
+
+#9
+  - title: "Abertura"
+    type: custom
+    date: "2021-06-09"
+    start_time: "19:00"
+    end_time: "19:15"
+
+  - title: "nana-silva"
+    type: talk
+    date: "2021-06-09"
+    start_time: "19:15"
+    end_time: "20:00"
+    background_color: "#AED6F1"
+
+  - title: "Pausa do patrocinador"
+    type: custom
+    date: "2021-06-09"
+    start_time: "20:00"
+    end_time: "20:10"
+    background_color: "#EDBB99"
+
+  - title: "elena-sanchez"
+    type: talk
+    date: "2021-06-09"
+    start_time: "20:15"
+    end_time: "20:35"
+
+  - title: "ricardo-castro"
+    type: talk
+    date: "2021-06-09"
+    start_time: "20:40"
+    end_time: "21:00"
+
+  - title: "OpenSpace modo Fishbowl dos Patrocinadores"
+    type: open-space
+    date: "2021-06-09"
+    start_time: "21:00"
+    end_time: "21:30"
+    background_color: "#EDBB99"
+
+  - title: "Encerramento + Sorteios"
+    type: custom
+    date: "2021-06-09"
+    start_time: "21:30"
+    end_time: "21:40"
+
+#10
+  - title: "Abertura"
+    type: custom
+    date: "2021-06-10"
+    start_time: "19:00"
+    end_time: "19:15"
+
+  - title: "lobinha"
+    type: talk
+    date: "2021-06-10"
+    start_time: "19:15"
+    end_time: "20:00"
+    background_color: "#AED6F1"
+
+  - title: "Pausa do patrocinador"
+    type: custom
+    date: "2021-06-10"
+    start_time: "20:00"
+    end_time: "20:10"
+    background_color: "#EDBB99"
+
+  - title: "yuri-oliveira"
+    type: talk
+    date: "2021-06-10"
+    start_time: "20:15"
+    end_time: "20:35"
+
+  - title: "aline-freitas"
+    type: talk
+    date: "2021-06-10"
+    start_time: "20:40"
+    end_time: "21:00"
+
+  - title: "roberta-brandao"
+    type: talk
+    date: "2021-06-10"
+    start_time: "21:00"
+    end_time: "21:20"
+
+  - title: "Pausa do patrocinador"
+    type: custom
+    date: "2021-06-10"
+    start_time: "21:20"
+    end_time: "21:30"
+    background_color: "#EDBB99"
+
+  - title: "Encerramento + Sorteios"
+    type: custom
+    date: "2021-06-10"
+    start_time: "21:30"
+    end_time: "22:00"
