@@ -115,6 +115,12 @@ sponsors:
     level: gold
   - id: boticario
     level: gold
+  - id: descomplica
+    level: gold
+  - id: elastic
+    level: silver
+  - id: zedelivery
+    level: silver
   - id: olist
     level: silver
 
