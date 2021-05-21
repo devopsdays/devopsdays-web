@@ -1,7 +1,7 @@
 +++
 Title = "Lobinha"
 #Twitter = "lobinha"
-#linkedin = "" 
+linkedin = "https://www.linkedin.com/in/camillagds" 
 image = "lobinha.jpg"
 type = "speaker"
 linktitle = "lobinha"
