@@ -76,7 +76,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/jwyckoff"
   - name: "Don Bauer"
     image: "don-bauer.jpg"
-    employer: "Citizens Bank"
+    employer: ""
     github: "lordgnu"
     twitter: "devopsdon"
     linkedin: "https://www.linkedin.com/in/devopsdon"
