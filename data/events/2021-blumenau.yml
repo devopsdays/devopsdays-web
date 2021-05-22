@@ -3,7 +3,7 @@ year: "2021" # The year of the event. Make sure it is in quotes.
 event_logo: "logo-square.jpg"
 city: "Blumenau" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsday_blu" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "DevOpsDays Blumenau, fiquei ligado!" # Edit this to suit your preferences
+description: "DevOpsDays Blumenau, evento número um de DevOps na cidade número um de cerveja!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2021-MM-DDTHH:MM:SS+TZ:TZ, like this:
@@ -54,6 +54,9 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: Código de conduta
     icon: "handshake-o"
     url: /events/2021-blumenau/conduct 
+  - name: Patrocinadores
+    icon: "money"
+    url: /events/2021-blumenau/sponsor
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
