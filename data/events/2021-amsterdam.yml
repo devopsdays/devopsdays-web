@@ -132,7 +132,7 @@ sponsor_levels:
     max: 3
   - id: silver
     label: Silver
-    max: 6
+    max: 5
   - id: bronze
     label: Bronze
     max: 9
