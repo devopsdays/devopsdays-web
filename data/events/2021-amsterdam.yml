@@ -113,6 +113,8 @@ sponsors:
   # Bronze
   - id: technative
     level: bronze
+  - id: working-spirit
+    level: bronze
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
