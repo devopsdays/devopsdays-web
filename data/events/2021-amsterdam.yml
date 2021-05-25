@@ -110,11 +110,9 @@ sponsors:
     level: silver
   - id: redkubes
     level: silver
-<<<<<<< HEAD
   - id: albert-heijn
-=======
+    level: silver
   - id: contrast_security
->>>>>>> main
     level: silver
   # Bronze
   - id: technative
