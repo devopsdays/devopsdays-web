@@ -124,7 +124,9 @@ sponsors:
   - id: elastic
     level: silver
   - id: zedelivery
-    level: silver
+    level: gold
+  - id: thoughtworks-services
+    level: gold
   - id: olist
     level: silver
 
