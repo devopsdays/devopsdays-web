@@ -113,7 +113,7 @@ sponsors:
     level: community
   - id: globotv
     level: gold
-  - id: f5
+  - id: f5-nginx
     level: gold
   - id: orama
     level: gold
@@ -124,7 +124,9 @@ sponsors:
   - id: elastic
     level: silver
   - id: zedelivery
-    level: silver
+    level: gold
+  - id: thoughtworks-services
+    level: gold
   - id: olist
     level: silver
 
