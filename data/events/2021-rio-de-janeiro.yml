@@ -109,7 +109,11 @@ sponsors:
     level: community
   - id: 4linux
     level: community
+  - id: punkdodevops
+    level: community
   - id: globotv
+    level: gold
+  - id: f5
     level: gold
   - id: orama
     level: gold
