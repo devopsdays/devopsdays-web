@@ -6,9 +6,7 @@ Description = "DevOpsDays Cairo 2021"
 +++
 
 <div>
-
-    <p> Under the theme: <strong>Resilience and Reliability amid Volatility!</strong></p>
-
+<p> Under the theme: <strong>Resilience and Reliability amid Volatility!</strong></p>
 <p>DevOpsDays Cairo is a one-day event.<br>For the 4th consecutive year, SECC/ITIDA are organizing DevOpsDays Cairo 2021 in cooperation with ATOS, DXC Technology and Orange Labs.</p>
 </div>
 <div>
