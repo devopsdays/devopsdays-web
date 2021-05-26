@@ -50,7 +50,7 @@ Description = "devopsdays Minneapolis 2021"
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
+    {{< event_link page="propose" text="We're evaluating talk proposals." >}}
   </div>
 </div>
 
