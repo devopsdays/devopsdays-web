@@ -1,8 +1,8 @@
 +++
-Title = "devopsdays Minneapolis 2021"
+Title = "DevOpsDays Blumenau 2021"
 Type = "welcome"
-aliases = ["/events/2021-minneapolis/"]
-Description = "devopsdays Minneapolis 2021"
+aliases = ["/events/2021-Blumenau/"]
+Description = "DevOpsDays Blumenau 2021"
 +++
 
 <!-- <div style="text-align:center;">
@@ -11,46 +11,37 @@ Description = "devopsdays Minneapolis 2021"
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Health & Safety</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="covid-19-policy" text="COVID-19 Policy" >}}
-  </div>
-</div>
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Dates</strong>
+    <strong>Datas</strong>
   </div>
   <div class = "col-md-8">
     {{< event_start >}} - {{< event_end >}}
   </div>
 </div>
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div>
+</div> -->
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="registration" text="Register to attend the conference!" >}}
   </div>
-</div>
+</div> -->
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Propose</strong>
+    <strong>Proposta</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="propose" text="We're evaluating talk proposals." >}}
+    {{< event_link page="propose" text="Envie sua palestra!" >}}
   </div>
 </div>
 
@@ -74,20 +65,23 @@ Description = "devopsdays Minneapolis 2021"
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Sponsors</strong>
+    <strong>Patrocinadores</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="sponsor" text="Sponsor the conference!" >}}
+    {{< event_link page="sponsor" text="Patrocine o evento!" >}}
   </div>
 </div>
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Contact</strong>
+    <strong>Contato</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="contact" text="Get in touch with the organizers" >}}
+    {{< event_link page="contact" text="Entre em contato com os organizadores!" >}}
   </div>
 </div>
 
+<!-- Uncomment if you added your city twitter name -->
+<!--
 {{< event_twitter >}}
+-->
