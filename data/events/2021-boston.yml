@@ -104,6 +104,8 @@ organizer_email: "boston@devopsdays.org" # Put your organizer email address here
 sponsors:
   - id: styra
     level: platinum
+  - id: solo
+    level: platinum
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
