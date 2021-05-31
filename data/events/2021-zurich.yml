@@ -179,8 +179,6 @@ sponsors:
     level: bronze
   - id: sap
     level: bronze
-  - id: googlecloud
-    level: gold
   - id: locatee
     level: bronze  
   - id: youstream
