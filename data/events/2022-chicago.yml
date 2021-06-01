@@ -92,7 +92,7 @@ team_members: # Name is the only required field for team members.
     website: "https://kevinreedy.net"
     linkedin: "https://www.linkedin.com/in/kevinreedy"
     github: "kevinreedy"
-    bio: "Kevin Reedy is an infrastructure developer from Chicago that currently works for Chef as a Customer Architect. In his free time, he enjoys brewing beer, snowboarding, DJing, and promising that he'll update his blog more often."
+    bio: "Kevin Reedy is a developer from Chicago and is the founder of RecRec. In his free time, he enjoys playing shuffleboard (currently ranked the #20 player in the world), snowboarding, brewing beer and promising that he'll update his blog more often."
   - name: "Matt Stratton"
     image: "matt-stratton.jpg"
     twitter: "mattstratton"
