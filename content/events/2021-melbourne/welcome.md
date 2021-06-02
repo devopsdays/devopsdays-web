@@ -1,15 +1,14 @@
 +++
-Title = "devopsdays Chicago 2021"
+Title = "devopsdays Melbourne 2021"
 Type = "welcome"
-aliases = ["/events/2021-chicago/"]
-Description = "devopsdays Chicago 2021"
+aliases = ["/events/2021-melbourne/"]
+Description = "devopsdays Melbourne 2021"
 +++
 
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
 </div> -->
 
-<!--
 <div class = "row">
   <div class = "col-md-2">
     <strong>Dates</strong>
@@ -18,7 +17,6 @@ Description = "devopsdays Chicago 2021"
     {{< event_start >}} - {{< event_end >}}
   </div>
 </div>
--->
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -65,7 +63,6 @@ Description = "devopsdays Chicago 2021"
   </div>
 </div> -->
 
-<!--
 <div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>
@@ -74,7 +71,6 @@ Description = "devopsdays Chicago 2021"
     {{< event_link page="sponsor" text="Sponsor the conference!" >}}
   </div>
 </div>
--->
 
 <div class = "row">
   <div class = "col-md-2">
