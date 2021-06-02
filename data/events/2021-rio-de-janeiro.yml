@@ -145,6 +145,13 @@ sponsor_levels:
     label: Community
 
 program:
+
+  - title: "Fisioterapia - Laboral!"
+    type: custom
+    date: "2021-06-08"
+    start_time: "18:45"
+    end_time: "19:00"
+
   - title: "Abertura"
     type: custom
     date: "2021-06-08"
@@ -197,6 +204,7 @@ program:
     end_time: "21:40"
 
 #9
+
   - title: "Abertura"
     type: custom
     date: "2021-06-09"
@@ -243,6 +251,13 @@ program:
     end_time: "21:40"
 
 #10
+
+  - title: "Fisioterapia - Laboral!"
+    type: custom
+    date: "2021-06-10"
+    start_time: "18:45"
+    end_time: "19:00"
+
   - title: "Abertura"
     type: custom
     date: "2021-06-10"
