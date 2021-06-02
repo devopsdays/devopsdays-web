@@ -91,51 +91,6 @@ organizer_email: "geneva@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: tuleap
-    level: gold      
-    url: https://tuleap.org
-  - id: hidora
-    level: gold
-    url: https://hidora.com/
-  - id: cross-systems
-    level: gold
-    url: https://www.cross-systems.ch
-  - id: dbi-services
-    level: silver
-  - id: camptocamp
-    level: silver
-  - id: adexcel
-    level: gold
-  - id: serial
-    level: silver
-  - id: pure-storage
-    level: gold
-  - id: nutanix
-    level: gold
-  - id: smartwave-xebialabs
-    level: gold
-  - id: cisel
-    level: bronze
-  - id: net4all
-    level: silver
-  - id: gitlab
-    level: silver
-  - id: globaz
-    level: silver
-  - id: d2iq
-    level: silver
-  - id: sword
-    level: silver
-  - id: techfirm
-    level: gold
-  - id: swissdevjobs
-    level: community
-  - id: heg-geneva
-    level: community
-
-  #- id: docker
-  #level: gold
-
   #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
