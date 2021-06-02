@@ -1,11 +1,8 @@
-+++ Title = "DevOpsDays Geneva 2021"
++++
+Title = "DevOpsDays Geneva 2022"
 Type = "welcome"
-aliases = ["/events/2021-geneva",
-"/events/2021-geneva/location/",
-"/events/2021-geneva/sponsor/",
-"/events/2021-geneva/newsletter/"
-]
-Description = "DevOpsDays Geneva 2021"
+aliases = ["/events/2022-geneva"]
+Description = "DevOpsDays Geneva 2022"
 +++
 
 <style>
@@ -34,7 +31,7 @@ Description = "DevOpsDays Geneva 2021"
 
 
 <div style='width:100%;text-align:center;margin-bottom:2rem;'>
-  <img alt="DevOpsDays Geneva 2021" src="/events/2021-geneva/logo.png" style="max-width: 20rem;margin-right:auto;margin-left: auto;"/>
+  <img alt="DevOpsDays Geneva 2022" src="/events/2022-geneva/logo.png" style="max-width: 20rem;margin-right:auto;margin-left: auto;"/>
 </div>
 
 <h2>Be ready !</h2>
@@ -44,16 +41,41 @@ Description = "DevOpsDays Geneva 2021"
 Dear friends, dear speakers, dear partners,<br>
 
 DevOpsDays Geneva, will not take place in february 2021<br><br>
-However, keep posted as we will come back for a new edition in february 2022. We hope all of you will be able to come
-back again, we count on your support.
+However, keep posted as we will come back for a new edition in september 2021.
+We hope all of you will be able to come back again, we count on your support.
 </p>
+<p>
+For next year, our DevOpsDays Geneva edition will take place physically AND virtually.</p>
+<p>
 More information will be communicated to you shortly.<br>
 In the meantime, we stay at your disposal.<br><br>
-<p>
 We look forward welcomming you again !
 </p>
 <br />
 <div style='padding-left: 1rem'>
+
+ <!-- <div style="text-align:center;">
+  {{< event_logo >}}
+</div> -->
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Dates</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_start >}}
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Location</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_location >}}
+  </div>
+</div>
+
+
 
 <div class = "row">
   <div class = "col-md-2">

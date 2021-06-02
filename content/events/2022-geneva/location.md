@@ -1,7 +1,7 @@
 +++
 Title = "Location"
 Type = "event"
-Description = "Location for DevOpsDays Geneva 2021"
+Description = "Location for DevOpsDays Geneva 2022"
 +++
 <style type="text/css">
  div.sponsor-row img.img-fluid{
