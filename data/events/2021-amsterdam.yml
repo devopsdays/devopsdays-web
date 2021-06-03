@@ -99,6 +99,8 @@ sponsors:
     level: gold
   - id: microsoft
     level: gold
+  - id: vmware-tanzu
+    level: gold
   # Silver
   - id: fullstaq
     level: silver
