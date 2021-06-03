@@ -10,8 +10,8 @@ description: "DevOpsDays is coming to Poznań!" # Edit this to suit your prefere
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: 2021-09-15T10:00:00+01:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2021-09-16T23:59:59+01:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2021-10-04T10:00:00+01:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2021-10-05T23:59:59+01:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 
@@ -19,8 +19,8 @@ enddate: 2021-09-16T23:59:59+01:00 # The end date of your event. Leave blank if 
 # cfp_date_end:  2020-01-31T00:00:00+02:00 # close your call for proposals.
 # cfp_date_announce:  2020-02-28T00:00:00+02:00 # announce speakers.
 
-cfp_open: "false"
-# cfp_link: "https://forms.gle/RrMwyU6Mg8ihzn9FA" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_open: "true"
+cfp_link: "https://www.papercall.io/devopsdayspoznan2021" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 # registration_date_start: 2019-11-27T00:00:00+02:00 # start accepting registration. Leave blank if registration is not open yet
 # registration_date_end: 2020-05-17T20:00:00+02:00 # close registration. Leave blank if registration is not open yet.
@@ -30,11 +30,11 @@ cfp_open: "false"
 
 # Location
 #
-coordinates: "52.4064, 16.9252" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Online in favourite place" # Defaults to city, but you can make it the venue name.
+coordinates: "52.40785, 16.95378" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Online in favourite place and hopefuly at PSNC!" # Defaults to city, but you can make it the venue name.
 #
 
-location_address: "Poznań, Poland" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "Poznań Supercomputing and Networking Center, Jana Pawła II 10, 61-139 Poznań" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 # sharing_image: "sharing.jpg"
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
@@ -134,6 +134,12 @@ organizer_email: "poznan@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: psnc
+    level: organizing
+    url: https://www.psnc.pl/
+  - id: trecom
+    level: organizing
+    url: https://www.trecom.pl/en/trecom-develop-and-optimize-your-it-system/
 #  - id: nordcloud
 #    level: gold
 #  - id: delltechnologies
@@ -182,8 +188,9 @@ sponsor_levels:
     max: 4
   - id: community
     label: Community
-#  - id: socialevent
-#    label: Social Event
+  - id: organizing
+    label: Organizing
+    max: 2
 #  - id: workshop
 #    label: Workshop
 
