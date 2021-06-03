@@ -83,10 +83,6 @@ team_members: # Name is the only required field for team members.
     employer: "Bitnoise"
     linkedin: "https://www.linkedin.com/in/arturszott/"
     image: artur-szott.jpg
-  - name: "Adam Nowak"
-    employer: "Netguru S.A."
-    linkedin: "https://www.linkedin.com/in/lubieniebieski/"
-    image: adam-nowak.jpg
   - name: "Beata Fohs"
     employer: "XTM International"
     linkedin: "http://linkedin.com/in/beata-fohs"
