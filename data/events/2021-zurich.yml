@@ -179,8 +179,6 @@ sponsors:
     level: bronze
   - id: sap
     level: bronze
-  - id: googlecloud
-    level: gold
   - id: locatee
     level: bronze  
   - id: youstream
@@ -198,6 +196,8 @@ sponsors:
     level: bronze
   - id: checkmarx
     level: gold
+  - id: basis
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
