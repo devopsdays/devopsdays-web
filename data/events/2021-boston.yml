@@ -122,3 +122,78 @@ sponsor_levels:
     label: Start-up alley
   - id: academic
     label: Academic
+
+program:
+  # Day 1
+  - title: "Introduction"
+    type: custom
+    date: 2019-09-27
+    start_time: "09:00"
+    end_time: "09:20"
+  - title: "laura-santamaria"
+    type: talk
+    date: 2019-09-27
+    start_time: "09:20"
+    end_time: "09:50"
+  - title: "eric-smalling"
+    type: talk
+    date: 2019-09-27
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "shelby-spees"
+    type: talk
+    date: 2019-09-27
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "mofizur-rahman"
+    type: talk
+    date: 2019-09-27
+    start_time: "11:05"
+    end_time: "11:35"
+  - title: "angel-rivera"
+    type: talk
+    date: 2019-09-27
+    start_time: "11:40"
+    end_time: "12:10"
+  - title: "Day 1 Wrap-Up"
+    type: custom
+    date: 2019-09-27
+    start_time: "12:15"
+    end_time: "12:30"
+
+  # Day 2
+  - title: "Introduction"
+    type: custom
+    date: 2019-09-28
+    start_time: "09:00"
+    end_time: "09:20"
+  - title: "michael-miles"
+    type: talk
+    date: 2019-09-28
+    start_time: "09:20"
+    end_time: "09:50"
+  - title: "ben-ellerby"
+    type: talk
+    date: 2019-09-28
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "chris-riley"
+    type: talk
+    date: 2019-09-28
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "anurag-gupta"
+    type: talk
+    date: 2019-09-28
+    start_time: "11:05"
+    end_time: "11:35"
+  - title: "josh-stella"
+    type: talk
+    date: 2019-09-28
+    start_time: "11:40"
+    end_time: "12:10"
+  - title: "Day 2 Wrap-Up"
+    type: custom
+    date: 2019-09-28
+    start_time: "12:15"
+    end_time: "12:30"
