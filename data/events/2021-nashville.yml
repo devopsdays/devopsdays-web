@@ -24,7 +24,7 @@ registration_date_start:  2021-06-01T00:00:00-05:00 # start accepting registrati
 registration_date_end:    2021-10-28T00:00:00-05:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "https://www.eventbrite.com/preview?eid=125517206343/"   # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.eventbrite.com/e/devopsdays-nashville-2021-tickets-125517206343"   # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 masthead_background: "nashville-skyline.jpg"
 
@@ -85,7 +85,7 @@ team_members: # Name is the only required field for team members.
     employer: "Containous"
     image: "kevin-crawley.jpg"
     twitter: "notsureifkevin"
-    bio: "A Developer Advocate at Containous, contributes to the team and community by bringing his passion and experience for developer productivity through enablement and education. He is passionate about championing the benefits of Open Source, DevOps, automation, observability, distributed tracing, and control theory. In addition to his role at Containous, Kevin is an organizer for DevOpsDays Nashville, recognized as a Docker Captain, a co-founder and consultant for Single Music. He has traveled the globe speaking on topics including DevOps, Docker, Observability, and Culture Transformation at conferences such as DockerCon, SREcon, Open Source Summit EU-US, Velocity and DevOpsDays including Tokyo and Houston."
+    bio: "Kevin Crawley is a Nashville area native who has worked at multiple late-stage or acquired startups locally and internationally. He currently serves as VP of Engineering at Single Music; a Nashville-based startup focused on digital music tools for artists and labels. He's spoken on DevOps topics worldwide, from San Francisco and New York to Tokyo, Sydney, and London. He's also organized multiple local Nashville area user groups over the past decade and has organized other events such as Hackathons."
     linkedin: "https://www.linkedin.com/in/notsureifkevin" 
   - name: "Geoff Craig"
     image: "geoff-craig.jpg"
