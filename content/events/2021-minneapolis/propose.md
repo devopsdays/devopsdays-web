@@ -7,7 +7,7 @@ Description = "Propose a talk for devopsdays Minneapolis 2021"
 
 <hr>
 
-We're evaluating talk proposals at this time.
+Our 30min speakers have been announced; the rest of our program will follow.
 <ol>
   <li><strong><em>A 30-minute talk</em></strong> presented during the conference.</li>
   <li><strong><em>An Ignite talk</em></strong> presented during the <a href="/pages/ignite-talks-format">Ignite sessions</a>. These are 5 minutes slots with slides changing every 15 seconds (20 slides total).</li>

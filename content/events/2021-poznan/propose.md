@@ -7,4 +7,3 @@ Description = "Propose a talk for devopsdays Poznań 2021"
 
 <hr>
 
-**New announcement about the online formula and CFP description is coming soon!**

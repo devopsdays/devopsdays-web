@@ -1,6 +1,7 @@
 +++
 Title = "Matt Stratton"
-Twitter = ""
+Twitter = "@mattstratton"
+Website = "https://devopspartygames.com/"
 image = "Matt-Stratton.png"
 type = "speaker"
 linktitle = "matt-stratton"
@@ -8,9 +9,9 @@ linktitle = "matt-stratton"
 
 +++
 
-Matt Stratton is a Transformation Specialist at Red Hat and a long-time member of the global DevOps community. 
-Passionate about helping organizations use awesome tools to focus on what makes them special and drive relevant cultural change. 
+Matt Stratton is a Staff Developer Advocate at Pulumi, founder and co-host of the popular <a href="https://www.arresteddevops.com/" target="_blank" rel="noopener">Arrested DevOps</a> podcast, and the global chair of the <a href="https://www.devopsdays.org/" target="_blank" rel="noopener">DevOpsDays</a> set of conferences.
 
-Matt has over 20 years of experience in IT operations, ranging from large financial institutions such as JPMorganChase to internet firms including Apartments.com. He is a sought-after speaker internationally, presenting at Agile, DevOps, and ITSM focused events, including DevOps Enterprise Summit, DevOpsDays, Interop, PINK, and others worldwide. Matt is the founder and co-host of the popular Arrested DevOps podcast, as well as a global organizer of the DevOpsDays set of conferences.
-Matt has over 20 years of experience in IT operations, ranging from large financial institutions such as JPMorganChase to internet firms including Apartments.com. He is a sought-after speaker internationally, presenting at Agile, DevOps, and ITSM focused events, including DevOps Enterprise Summit, DevOpsDays, Interop, PINK, and others worldwide. Matt is the founder and co-host of the popular Arrested DevOps podcast, as well as a global organizer of the DevOpsDays set of conferences.
+Matt has over 20 years of experience in IT operations and is a sought-after speaker internationally, presenting at Agile, DevOps, and cloud engineering focused events worldwide. Demonstrating his keen insight into the changing landscape of technology, he recently changed his license plate from DEVOPS to KUBECTL.
+
+He lives in Chicago and has three awesome kids, whom he loves just a little bit more than he loves Diet Coke. Matt is the keeper of the Thought Leaderboard for the <a href="https://devopspartygames.com" target="_blank" rel="noopener" class="">DevOps Party Games</a> online game show and you can find him on Twitter at <a href="https://twitter.com/mattstratton" target="_blank" rel="noopener">@mattstratton</a>.
 
