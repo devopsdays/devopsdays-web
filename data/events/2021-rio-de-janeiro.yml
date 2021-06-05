@@ -255,7 +255,6 @@ program:
 
 #10
 
-<<<<<<< HEAD
   - title: "monique-oliveira"
     type: talk
     date: "2021-06-10"
@@ -263,8 +262,6 @@ program:
     end_time: "19:00"
     background_color: "#AED6F1"
 
-=======
->>>>>>> 0cc00862e8c6a82ee279d558438ff8728dc12669
   - title: "Fisioterapia - Laboral!"
     type: custom
     date: "2021-06-10"
