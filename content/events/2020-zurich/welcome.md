@@ -111,7 +111,7 @@ Description = "DevOpsTuesDays Zürich 2020"
     <strong>Homepage</strong>
   </div>
   <div class = "col-md-8">
-    <a href="https://landing.devopsdays.ch/">DevOpsDays.ch</a>
+    <a href="https://www.devopsdays.ch/">DevOpsDays.ch</a>
   </div>
 </div>
 
