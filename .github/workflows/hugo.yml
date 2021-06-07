@@ -24,12 +24,9 @@ jobs:
         with:
           node-version: 12
       - run: npm ci
-      
-      - run: pwd
-      - run: ls
 
       - name: Test
-        run: gulp min-html
+        run: cd public && gulp min-html
         
-      - run: ls dist
+      - run: pwd
 
