@@ -54,7 +54,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 team_members: # Name is the only required field for team members.
 
   - name: "Jakub Jakubik"
-    employer: "Netguru S.A."
+    employer: "Egnyte Poland"
     linkedin: "https://www.linkedin.com/in/jakubjakubik/"
     image: "jakub-jakubik.jpg"
   - name: "Marcin Mazurek"
