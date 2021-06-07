@@ -26,7 +26,4 @@ jobs:
       - run: npm ci
 
       - name: Test
-        run: cd public && gulp min-html
-        
-      - run: pwd
-
+        run: gulp min-html
