@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html itemscope lang="en-us">
+<head><meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta charset="utf-8">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"><meta name="generator" content="Hugo 0.83.1" />
+<meta property="og:title" content="The Five Marks of a Hybrid Cloud Operating Model (Breakout 1)" />
+<meta name="twitter:title" content="The Five Marks of a Hybrid Cloud Operating Model (breakout 1)"/>
+<meta itemprop="name" content="The Five Marks of a Hybrid Cloud Operating Model (breakout 1)"><meta property="og:description" content="Everyone is talking about running a hybrid cloud but does anyone really knows what that model should look like? In this talk we are going to explore five marks that organizations share as they move to a hybrid cloud operating model. These marks are:
+Goals over technologies - My goals should define my technology
+High Immutability - I should DRY (don’t repeat myself) out everything I can as I move from Development to Production" />
+  <meta name="twitter:description" content="Everyone is talking about running a hybrid cloud but does anyone really knows what that model should look like? In this talk we are going to explore five marks that organizations share as they move to a hybrid cloud operating model. These marks are:
+Goals over technologies - My goals should define my technology
+High Immutability - I should DRY (don’t repeat myself) out everything I can as I move from Development to Production" />
+  <meta itemprop="description" content="Everyone is talking about running a hybrid cloud but does anyone really knows what that model should look like? In this talk we are going to explore five marks that organizations share as they move to a hybrid cloud operating model. These marks are:
+Goals over technologies - My goals should define my technology
+High Immutability - I should DRY (don’t repeat myself) out everything I can as I move from Development to Production"><meta name="twitter:site" content="@devopsdays">
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.devopsdays.org/events/2019-des-moines/program/stephen-wilson/" /><meta name="twitter:creator" content="@devopsdaysdsm" /><meta name="twitter:label1" value="Event" />
+  <meta name="twitter:data1" value="devopsdays Des Moines 2019" /><meta name="twitter:label2" value="Dates" /><meta name="twitter:data2" value="May 2 - 3, 2019" /><meta property="og:image" content="https://www.devopsdays.org/img/sharing.jpg" />
+<meta property="og:image:alt" content="devopsdays" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="https://www.devopsdays.org/img/sharing.jpg" />
+<meta itemprop="image" content="https://www.devopsdays.org/img/sharing.jpg" />
+<meta property="fb:app_id" content="1904065206497317" /><meta itemprop="wordCount" content="168">
+<title>The Five Marks of a Hybrid Cloud Operating Model (breakout 1) - devopsdays Des Moines 2019
+</title>
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-9713393-1', 'auto');
+ga('send', 'pageview');
+
+
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+
+<link href="/css/site.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400,700" rel="stylesheet"><link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+
+  
+    
+      <link href="/events/index.xml" rel="alternate" type="application/rss+xml" title="DevOpsDays" />
+      <link href="/events/index.xml" rel="feed" type="application/rss+xml" title="DevOpsDays" />
+    
+  
+
+
+<script src=/js/devopsdays-min.js></script></head>
+<body lang="">
+<nav class="navbar navbar-expand-md navbar-light">
+
+  <a class="navbar-brand" href="/">
+  <img src="/img/devopsdays-brain.png" height="30" class="d-inline-block align-top" alt="devopsdays Logo">
+  DevOpsDays
+</a>
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+  <span class="navbar-toggler-icon"></span>
+</button>
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto"><li class="nav-item global-navigation"><a class = "nav-link" href="/events">events</a></li><li class="nav-item global-navigation"><a class = "nav-link" href="/blog">blog</a></li><li class="nav-item global-navigation"><a class = "nav-link" href="/sponsor">sponsor</a></li><li class="nav-item global-navigation"><a class = "nav-link" href="/speaking">speaking</a></li><li class="nav-item global-navigation"><a class = "nav-link" href="/organizing">organizing</a></li><li class="nav-item global-navigation"><a class = "nav-link" href="/about">about</a></li></ul>
+  </div>
+</nav>
+<nav class="navbar event-navigation navbar-expand-md navbar-light">
+  <a href="/events/2019-des-moines" class="nav-link">Des Moines</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar2">
+    <span class="navbar-toggler-icon"></span>
+</button>
+  <div class="navbar-collapse collapse" id="navbar2">
+      <ul class="navbar-nav"><li class="nav-item active">
+                  <a class="nav-link" href="/events/2019-des-moines/location">location</a>
+                </li><li class="nav-item active">
+                  <a class="nav-link" href="https://eventbrite.com/e/devopsdays-des-moines-2019-tickets-54007008416">registration</a>
+                </li><li class="nav-item active">
+                  <a class="nav-link" href="/events/2019-des-moines/program">program</a>
+                </li><li class="nav-item active">
+                  <a class="nav-link" href="/events/2019-des-moines/speakers">speakers</a>
+                </li><li class="nav-item active">
+                  <a class="nav-link" href="/events/2019-des-moines/sponsor">sponsor</a>
+                </li><li class="nav-item active">
+                  <a class="nav-link" href="/events/2019-des-moines/contact">contact</a>
+                </li><li class="nav-item active">
+                  <a class="nav-link" href="/events/2019-des-moines/conduct">conduct</a>
+                </li></ul>
+  </div>
+</nav>
+
+  <div class="container-fluid">
+        <div class="row">
+              <div class="col-md-12"><div class = "row">
+    <div class = "col-md-5 offset-md-1">
+    <h2 class="talk-page">The Five Marks of a Hybrid Cloud Operating Model (breakout 1)</h2><div class="row">
+            <div class="col-md-12 youtube-video">
+              <div class="embed-responsive embed-responsive-16by9">
+              <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/3d6heJKvTg8">
+              </iframe>
+              </div>
+            </div>
+          </div>
+          <br /><span class="talk-page content-text">
+        <p>Everyone is talking about running a hybrid cloud but does anyone really knows what that model should look like?  In this talk we are going to explore five marks that organizations share as they move to a hybrid cloud operating model.  These marks are:</p>
+<p>Goals over technologies - My goals should define my technology</p>
+<p>High Immutability - I should DRY (don’t repeat myself) out everything I can as I move from Development to Production</p>
+<p>Change At Will - I should move to less change more frequently</p>
+<p>Security Baked In - Security should be baked into my work streams not checkpoints between environments</p>
+<p>Configuration on Demand - My configuration should be dynamically pulled on demand not an artifact of my deployment</p>
+<p>Each mark bears out some guiding principles that an organization can look to as a thematic lens when evaluating process, strategies and technology decisions. We will explore what these themes mean and how to use them when trying to define your journey to operating in this new paradigm.</p>
+
+      </span></div>
+  <div class = "col-md-3 offset-md-1"><h2 class="talk-page">Speaker</h2><img src = "/events/2019-des-moines/speakers/stephen-wilson.jpg" class="img-fluid"  alt="stephen-wilson"/><br /><br /><h4 class="talk-page"><a href = "/events/2019-des-moines/speakers/stephen-wilson">
+            Stephen Wilson
+          </a></h4><br />
+          <span class="talk-page content-text">Steve Wilson has over 20 years in individual and management roles that focus on the application of technology to business strategy. He currently holds the role as Solutions Engineer at Hashicorp. His <a href = "https://www.devopsdays.org/events/2019-des-moines/speakers/stephen-wilson/">...</a></span>
+</div>
+</div><div class="row cta-row">
+          
+          <div class="col-md-12"><h4 class="sponsor-cta">Gold Sponsors</h4></div>
+          </div><div class="row sponsor-row"><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.thinkahead.com/"><img src = "/img/sponsors/ahead.png" alt = "AHEAD" title = "AHEAD" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.conjur.org/"><img src = "/img/sponsors/cyberark.png" alt = "CyberArk" title = "CyberArk" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "http://www.dynatrace.com/"><img src = "/img/sponsors/dynatrace.png" alt = "Dynatrace" title = "Dynatrace" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://f5.com/"><img src = "/img/sponsors/f5.png" alt = "f5" title = "f5" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://gitlab.com"><img src = "/img/sponsors/gitlab.png" alt = "GitLab" title = "GitLab" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.granular.ag/"><img src = "/img/sponsors/granular.png" alt = "Granular" title = "Granular" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.hashicorp.com/"><img src = "/img/sponsors/hashicorp.png" alt = "Hashicorp" title = "Hashicorp" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.deere.com/"><img src = "/img/sponsors/john-deere.png" alt = "John Deere" title = "John Deere" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://signalfx.com"><img src = "/img/sponsors/signalfx.png" alt = "SignalFX" title = "SignalFX" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.sonatype.com/"><img src = "/img/sponsors/sonatype.png" alt = "Sonatype" title = "Sonatype" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://trility.io/"><img src = "/img/sponsors/trility.png" alt = "Trility" title = "Trility" class="img-fluid"></a>
+              </div></div><div class="row cta-row">
+          
+          <div class="col-md-12"><h4 class="sponsor-cta">Social Sponsors</h4></div>
+          </div><div class="row sponsor-row"><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.sourceallies.com"><img src = "/img/sponsors/sourceallies.png" alt = "Source Allies" title = "Source Allies" class="img-fluid"></a>
+              </div></div><div class="row cta-row">
+          
+          <div class="col-md-12"><h4 class="sponsor-cta">Lanyard Sponsors</h4></div>
+          </div><div class="row sponsor-row"><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.aureon.com/services/consulting/"><img src = "/img/sponsors/aureon.png" alt = "aureon" title = "aureon" class="img-fluid"></a>
+              </div></div><div class="row cta-row">
+          
+          <div class="col-md-12"><h4 class="sponsor-cta">Community Sponsors</h4></div>
+          </div><div class="row sponsor-row"><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "http://www.oreilly.com"><img src = "/img/sponsors/oreilly-before-20190725.png" alt = "O&#39;Reilly" title = "O&#39;Reilly" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://thesidegarage.com"><img src = "/img/sponsors/sidegarage.png" alt = "The Side Garage" title = "The Side Garage" class="img-fluid"></a>
+              </div></div><br />
+</div></div>
+      </div>
+<nav class="navbar bottom navbar-light footer-nav-row" style="background-color: #bfbfc1;">
+  <div class = "row">
+    <div class = "col-md-12 footer-nav-background">
+      <div class = "row">
+            <div class = "col-md-6 col-lg-3 footer-nav-col">
+      <h3 class="footer-nav">@DEVOPSDAYS</h3>
+      <div>
+          <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/devopsdays/lists/devopsdays" data-chrome="noheader" height="440"></a>
+
+          <script>
+              ! function(d, s, id) {
+                  var js, fjs = d.getElementsByTagName(s)[0],
+                      p = /^http:/.test(d.location) ? 'http' : 'https';
+                  if (!d.getElementById(id)) {
+                      js = d.createElement(s);
+                      js.id = id;
+                      js.src = p + "://platform.twitter.com/widgets.js";
+                      fjs.parentNode.insertBefore(js, fjs);
+                  }
+              }(document, "script", "twitter-wjs");
+          </script>
+      </div>
+  </div>
+  <div class="col-md-6 col-lg-3 footer-nav-col footer-content">
+    <h3 class="footer-nav">BLOG</h3><a href = "https://www.devopsdays.org/blog/2020/11/01/looking-back-looking-forward/"><h1 class = "footer-heading">Looking Back; Looking Forward</h1></a><h2 class="footer-heading">by Bridget Kromhout, Yvo van Doorn, Matt Stratton - 01 November, 2020</h2><br><a href = "https://www.devopsdays.org/blog/2019/10/01/nota-sobre-mudan%C3%A7a-de-local-do-devopsdays-salvador-2019/"><h1 class = "footer-heading">Nota sobre mudança de local do DevOpsDays Salvador 2019</h1></a><h2 class="footer-heading">by devopsdays Salvador 2019 - 01 October, 2019</h2><br><a href = "https://www.devopsdays.org/blog/2019/05/10/10-years-of-devopsdays/"><h1 class = "footer-heading">10 years of devopsdays</h1></a><h2 class="footer-heading">by Kris Buytaert - 10 May, 2019</h2><br><a href = "https://www.devopsdays.org/blog/2018/10/05/devopsdays-101-pt-br/"><h1 class = "footer-heading">devopsdays 101 (pt-br)</h1></a><h2 class="footer-heading">by Marco Antonio Martins Junior (Somatório) and Rafael Gomes (Gomex) - 05 October, 2018</h2><br><a href="https://www.devopsdays.org/blog/index.xml">Blog Feed</a>
+  </div>
+  <div class="col-md-6 col-lg-3 footer-nav-col">
+      <h3 class="footer-nav">CFP OPEN</h3><a href = "/events/2021-blumenau" class = "footer-content">Blumenau</a><br /><a href = "/events/2021-portland" class = "footer-content">Portland</a><br /><a href = "/events/2021-houston" class = "footer-content">Houston</a><br /><a href = "/events/2021-cairo" class = "footer-content">Cairo</a><br /><a href = "/events/2021-nashville" class = "footer-content">Nashville</a><br />
+      <br /><a href="https://devopsdays.org/speaking">Propose a talk</a> at an event near you!<br />
+  </div>
+  <div class="col-md-6 col-lg-3 footer-nav-col">
+    <h3 class="footer-nav">About</h3>
+    devopsdays is a worldwide community conference series for anyone interested in IT improvement.<br /><br />
+    <a href="/about/" class = "footer-content">About devopsdays</a><br />
+    <a href="/privacy/" class = "footer-content">Privacy Policy</a><br />
+    <a href="/conduct/" class = "footer-content">Code of Conduct</a>
+    <br />
+    <br />
+    <a href="https://www.netlify.com">
+      <img src="/img/netlify-light.png" alt="Deploys by Netlify">
+    </a>
+</div>
+    </div>
+  </div>
+
+  </div>
+
+</nav>
+<script>
+
+
+
+$(document).ready(function () {
+  
+
+  $("#share").jsSocials({
+      shares: ["email", {share: "twitter", via: 'devopsdaysdsm'}, "facebook", "linkedin"],
+      text: 'devopsdays Des Moines - 2019',
+      showLabel: false,
+      showCount: false
+  });
+});
+
+</script>
+</body>
+</html>

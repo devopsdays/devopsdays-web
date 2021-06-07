@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on DevOpsDays</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Pages on DevOpsDays</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Feb 2017 11:24:58 -0500</lastBuildDate>
-    
-	<atom:link href="https://www.devopsdays.org/page/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 13 Feb 2017 11:24:58 -0500</lastBuildDate><atom:link href="https://www.devopsdays.org/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About devopsdays</title>
       <link>https://www.devopsdays.org/about/</link>
@@ -39,7 +35,7 @@ History The first devopsdays was held in Ghent, Belgium in 2009.</description>
       <guid>https://www.devopsdays.org/conduct/</guid>
       <description>Respect and empathy are core devops values. Devopsdays is dedicated to providing an environment where everyone in the devops community can learn and share in respectful, considerate collaboration.
 Every devopsdays event has a code of conduct, and we expect the organizer community before, during, and after the conferences to follow a similar code of conduct.
-Devopsdays is dedicated to providing a harassment-free experience for every participant, regardless of gender, sexual orientation, disability, physical appearance, body size, race, religion, or any other personal characteristics.</description>
+Devopsdays is dedicated to providing a harassment-free experience for every participant, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), technology choices, or any other personal characteristics.</description>
     </item>
     
     <item>
@@ -48,7 +44,7 @@ Devopsdays is dedicated to providing a harassment-free experience for every part
       <pubDate>Tue, 03 May 2016 13:04:25 -0500</pubDate>
       
       <guid>https://www.devopsdays.org/sponsor/</guid>
-      <description>Devopsdays is a community-organized not-for-profit conference series for practitioners. It began in Ghent, Belgium with one conference in 2009, and has grown to more than 40 events worldwide in 2016.
+      <description>Devopsdays is a community-organized not-for-profit conference series for practitioners. It began in Ghent, Belgium with one conference in 2009, and has grown to more than 73 events worldwide in 2019.
 Sponsoring devopsdays conferences gives your organization an opportunity to speak with practitioners, managers, and executives from companies of all sizes and industries. Whether your goals include recruiting new talent, opening new markets, or connecting with your existing customers, this event will be the place to have those conversations with experts and leaders in tech innovation.</description>
     </item>
     

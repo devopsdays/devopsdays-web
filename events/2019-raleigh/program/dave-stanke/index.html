@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html itemscope lang="en-us">
+<head><meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta charset="utf-8">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"><meta name="generator" content="Hugo 0.83.1" />
+<meta property="og:title" content="Site Reliability Engineering and the Art of SLOs" />
+<meta name="twitter:title" content="Site Reliability Engineering and the art of SLOs"/>
+<meta itemprop="name" content="Site Reliability Engineering and the art of SLOs"><meta property="og:description" content="Site Reliability Engineering (SRE) is a set of principles, practices, and organizational constructs that seek to balance the reliability of a service with the need to continually deliver new features. An error budget is the primary construct used to help balance these seemingly competing goals. This workshop introduces error budgets and their components: service level indicators (SLIs) and service level objectives (SLOs). Participants will learn the art of creating and implementing SLOs through a series of guided discussions and group exercises." />
+  <meta name="twitter:description" content="Site Reliability Engineering (SRE) is a set of principles, practices, and organizational constructs that seek to balance the reliability of a service with the need to continually deliver new features. An error budget is the primary construct used to help balance these seemingly competing goals. This workshop introduces error budgets and their components: service level indicators (SLIs) and service level objectives (SLOs). Participants will learn the art of creating and implementing SLOs through a series of guided discussions and group exercises." />
+  <meta itemprop="description" content="Site Reliability Engineering (SRE) is a set of principles, practices, and organizational constructs that seek to balance the reliability of a service with the need to continually deliver new features. An error budget is the primary construct used to help balance these seemingly competing goals. This workshop introduces error budgets and their components: service level indicators (SLIs) and service level objectives (SLOs). Participants will learn the art of creating and implementing SLOs through a series of guided discussions and group exercises."><meta name="twitter:site" content="@devopsdays">
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.devopsdays.org/events/2019-raleigh/program/dave-stanke/" /><meta name="twitter:creator" content="@devopsdaysrdu" /><meta name="twitter:label1" value="Event" />
+  <meta name="twitter:data1" value="devopsdays Raleigh 2019" /><meta name="twitter:label2" value="Dates" /><meta name="twitter:data2" value="October 1 - 2, 2019" /><meta property="og:image" content="https://www.devopsdays.org/img/sharing.jpg" />
+<meta property="og:image:alt" content="devopsdays" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="https://www.devopsdays.org/img/sharing.jpg" />
+<meta itemprop="image" content="https://www.devopsdays.org/img/sharing.jpg" />
+<meta property="fb:app_id" content="1904065206497317" /><meta itemprop="wordCount" content="81">
+<title>Site Reliability Engineering and the art of SLOs - devopsdays Raleigh 2019
+</title>
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-9713393-1', 'auto');
+ga('send', 'pageview');
+
+    
+      ga('create', 'UA-145344467-1', 'auto', 'clientTracker');
+      ga('clientTracker.send', 'pageview');
+    
+  
+
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+
+<link href="/css/site.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400,700" rel="stylesheet"><link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+
+  
+    
+      <link href="/events/index.xml" rel="alternate" type="application/rss+xml" title="DevOpsDays" />
+      <link href="/events/index.xml" rel="feed" type="application/rss+xml" title="DevOpsDays" />
+    
+  
+
+
+<script src=/js/devopsdays-min.js></script></head>
+<body lang="">
+<nav class="navbar navbar-expand-md navbar-light">
+
+  <a class="navbar-brand" href="/">
+  <img src="/img/devopsdays-brain.png" height="30" class="d-inline-block align-top" alt="devopsdays Logo">
+  DevOpsDays
+</a>
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+  <span class="navbar-toggler-icon"></span>
+</button>
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto"><li class="nav-item global-navigation"><a class = "nav-link" href="/events">events</a></li><li class="nav-item global-navigation"><a class = "nav-link" href="/blog">blog</a></li><li class="nav-item global-navigation"><a class = "nav-link" href="/sponsor">sponsor</a></li><li class="nav-item global-navigation"><a class = "nav-link" href="/speaking">speaking</a></li><li class="nav-item global-navigation"><a class = "nav-link" href="/organizing">organizing</a></li><li class="nav-item global-navigation"><a class = "nav-link" href="/about">about</a></li></ul>
+  </div>
+</nav>
+<nav class="navbar event-navigation navbar-expand-md navbar-light">
+  <a href="/events/2019-raleigh" class="nav-link">Raleigh</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar2">
+    <span class="navbar-toggler-icon"></span>
+</button>
+  <div class="navbar-collapse collapse" id="navbar2">
+      <ul class="navbar-nav"><li class="nav-item active">
+                  <a class="nav-link" href="/events/2019-raleigh/location">location</a>
+                </li><li class="nav-item active">
+                  <a class="nav-link" href="https://www.eventbrite.com/e/devopsdays-raleigh-2019-tickets-49944558519">registration</a>
+                </li><li class="nav-item active">
+                  <a class="nav-link" href="/events/2019-raleigh/program">program</a>
+                </li><li class="nav-item active">
+                  <a class="nav-link" href="/events/2019-raleigh/speakers">speakers</a>
+                </li><li class="nav-item active">
+                  <a class="nav-link" href="/events/2019-raleigh/sponsor">sponsor</a>
+                </li><li class="nav-item active">
+                  <a class="nav-link" href="/events/2019-raleigh/contact">contact</a>
+                </li><li class="nav-item active">
+                  <a class="nav-link" href="/events/2019-raleigh/conduct">conduct</a>
+                </li></ul>
+  </div>
+</nav>
+
+  <div class="container-fluid">
+        <div class="row">
+              <div class="col-md-12"><div class = "row">
+    <div class = "col-md-5 offset-md-1">
+    <h2 class="talk-page">Site Reliability Engineering and the art of SLOs</h2><span class="talk-page content-text">
+        <p>Site Reliability Engineering (SRE) is a set of principles, practices, and organizational constructs that seek to balance the reliability of a service with the need to continually deliver new features. An error budget is the primary construct used to help balance these seemingly competing goals. This workshop introduces error budgets and their components: service level indicators (SLIs) and service level objectives (SLOs). Participants will learn the art of creating and implementing SLOs through a series of guided discussions and group exercises.</p>
+
+      </span></div>
+  <div class = "col-md-3 offset-md-1"><h2 class="talk-page">Speakers</h2><img src = "/events/2019-raleigh/speakers/david-stanke.jpg" class="img-fluid"  alt="dave-stanke"/><br /><br /><h4 class="talk-page"><a href = "/events/2019-raleigh/speakers/dave-stanke">
+            Dave Stanke
+          </a></h4><a href = "https://twitter.com/davidstanke"><i class="fa fa-twitter fa-2x" aria-hidden="true"></i>&nbsp;</a><br />
+          <span class="talk-page content-text">Dave Stanke is a developer advocate for Google Cloud Platform, aligned to the DevOps community. He loves talking with practitioners:  listening to stories, telling stories, sharing a healthy cry. <a href = "https://www.devopsdays.org/events/2019-raleigh/speakers/dave-stanke/">...</a></span><img src = "/events/2019-raleigh/speakers/ben-bleything.jpg" class="img-fluid"  alt="ben-bleything"/><br /><br /><h4 class="talk-page"><a href = "/events/2019-raleigh/speakers/ben-bleything">
+            Ben Bleything
+          </a></h4><a href = "https://twitter.com/bleything"><i class="fa fa-twitter fa-2x" aria-hidden="true"></i>&nbsp;</a><br />
+          <span class="talk-page content-text">Ben Bleything is an operator and Rubyist from Seattle, WA. He&rsquo;s spent his career building and running applications for companies large and small across a wide variety of industries. He is <a href = "https://www.devopsdays.org/events/2019-raleigh/speakers/ben-bleything/">...</a></span>
+</div>
+</div><div class="row cta-row">
+          
+          <div class="col-md-12"><h4 class="sponsor-cta">Platinum Sponsors</h4></div>
+          </div><div class="row sponsor-row"><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "http://www.dynatrace.com/"><img src = "/img/sponsors/dynatrace.png" alt = "Dynatrace" title = "Dynatrace" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.sumologic.com/"><img src = "/img/sponsors/sumologic.png" alt = "sumo logic" title = "sumo logic" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://aspetraining.com/"><img src = "/img/sponsors/aspe.png" alt = "ASPE Training" title = "ASPE Training" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.thinkahead.com/"><img src = "/img/sponsors/ahead.png" alt = "AHEAD" title = "AHEAD" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.appdynamics.com/"><img src = "/img/sponsors/appdynamics.png" alt = "AppDynamics" title = "AppDynamics" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.optum.com/"><img src = "/img/sponsors/optum.png" alt = "UnitedHealth Group / Optum" title = "UnitedHealth Group / Optum" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "http://www.cloudbees.com/"><img src = "/img/sponsors/cloudbees.png" alt = "cloudbees" title = "cloudbees" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "http://chef.io"><img src = "/img/sponsors/chef-before-20210112.png" alt = "Chef Software, Inc" title = "Chef Software, Inc" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "http://www.split.io"><img src = "/img/sponsors/split-software.png" alt = "Split Software" title = "Split Software" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.newrelic.com/about/culture"><img src = "/img/sponsors/newrelic.png" alt = "New Relic" title = "New Relic" class="img-fluid"></a>
+              </div></div><div class="row cta-row">
+          
+          <div class="col-md-12"><h4 class="sponsor-cta">Gold Sponsors</h4></div>
+          </div><div class="row sponsor-row"><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "http://www.microsoft.com/"><img src = "/img/sponsors/microsoft.png" alt = "Microsoft" title = "Microsoft" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.logdna.com"><img src = "/img/sponsors/logdna.png" alt = "LogDNA" title = "LogDNA" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://gitlab.com"><img src = "/img/sponsors/gitlab.png" alt = "GitLab" title = "GitLab" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.xmatters.com/"><img src = "/img/sponsors/xmatters.png" alt = "xMatters, Inc" title = "xMatters, Inc" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "http://rancher.com/"><img src = "/img/sponsors/rancher.png" alt = "Rancher" title = "Rancher" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "http://www.netapp.com/us/"><img src = "/img/sponsors/netapp.png" alt = "NetApp" title = "NetApp" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://signalfx.com"><img src = "/img/sponsors/signalfx.png" alt = "SignalFX" title = "SignalFX" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.instana.com"><img src = "/img/sponsors/instana-before-20200127.png" alt = "Instana" title = "Instana" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "http://www.puppet.com"><img src = "/img/sponsors/puppet.png" alt = "Puppet" title = "Puppet" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "http://www.vaco.com"><img src = "/img/sponsors/vaco.png" alt = "vaco" title = "vaco" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://zenergytechnologies.com"><img src = "/img/sponsors/zenergy.png" alt = "zenergy" title = "zenergy" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.stackrox.com/"><img src = "/img/sponsors/stackrox.png" alt = "StackRox" title = "StackRox" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.contrastsecurity.com/"><img src = "/img/sponsors/contrast_security.png" alt = "Contrast Security" title = "Contrast Security" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "http://www.docker.com/"><img src = "/img/sponsors/docker.png" alt = "docker" title = "docker" class="img-fluid"></a>
+              </div></div><div class="row cta-row">
+          
+          <div class="col-md-12"><h4 class="sponsor-cta">Silver Sponsors</h4></div>
+          </div><div class="row sponsor-row"><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://clearwater-analytics.com/"><img src = "/img/sponsors/clearwater.png" alt = "Clearwater" title = "Clearwater" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://pagertree.com/"><img src = "/img/sponsors/pagertree.png" alt = "Pagertree" title = "Pagertree" class="img-fluid"></a>
+              </div></div><div class="row cta-row">
+          
+          <div class="col-md-12"><h4 class="sponsor-cta">Community Sponsors</h4></div>
+          </div><div class="row sponsor-row"><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://tridevops.com"><img src = "/img/sponsors/triangledevops.png" alt = "Triangle DevOps" title = "Triangle DevOps" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "http://devopsinstitute.com"><img src = "/img/sponsors/devopsinstitute.png" alt = "devopsinstitute" title = "devopsinstitute" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.nctech.org"><img src = "/img/sponsors/nctechorg.png" alt = "NC Tech Association" title = "NC Tech Association" class="img-fluid"></a>
+              </div></div><div class="row cta-row">
+          
+          <div class="col-md-12"><h4 class="sponsor-cta">Happy Hour Sponsors</h4></div>
+          </div><div class="row sponsor-row"><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.caddietech.org"><img src = "/img/sponsors/caddietech.png" alt = "Caddie" title = "Caddie" class="img-fluid"></a>
+              </div></div><br />
+</div></div>
+      </div>
+<nav class="navbar bottom navbar-light footer-nav-row" style="background-color: #bfbfc1;">
+  <div class = "row">
+    <div class = "col-md-12 footer-nav-background">
+      <div class = "row">
+            <div class = "col-md-6 col-lg-3 footer-nav-col">
+      <h3 class="footer-nav">@DEVOPSDAYS</h3>
+      <div>
+          <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/devopsdays/lists/devopsdays" data-chrome="noheader" height="440"></a>
+
+          <script>
+              ! function(d, s, id) {
+                  var js, fjs = d.getElementsByTagName(s)[0],
+                      p = /^http:/.test(d.location) ? 'http' : 'https';
+                  if (!d.getElementById(id)) {
+                      js = d.createElement(s);
+                      js.id = id;
+                      js.src = p + "://platform.twitter.com/widgets.js";
+                      fjs.parentNode.insertBefore(js, fjs);
+                  }
+              }(document, "script", "twitter-wjs");
+          </script>
+      </div>
+  </div>
+  <div class="col-md-6 col-lg-3 footer-nav-col footer-content">
+    <h3 class="footer-nav">BLOG</h3><a href = "https://www.devopsdays.org/blog/2020/11/01/looking-back-looking-forward/"><h1 class = "footer-heading">Looking Back; Looking Forward</h1></a><h2 class="footer-heading">by Bridget Kromhout, Yvo van Doorn, Matt Stratton - 01 November, 2020</h2><br><a href = "https://www.devopsdays.org/blog/2019/10/01/nota-sobre-mudan%C3%A7a-de-local-do-devopsdays-salvador-2019/"><h1 class = "footer-heading">Nota sobre mudança de local do DevOpsDays Salvador 2019</h1></a><h2 class="footer-heading">by devopsdays Salvador 2019 - 01 October, 2019</h2><br><a href = "https://www.devopsdays.org/blog/2019/05/10/10-years-of-devopsdays/"><h1 class = "footer-heading">10 years of devopsdays</h1></a><h2 class="footer-heading">by Kris Buytaert - 10 May, 2019</h2><br><a href = "https://www.devopsdays.org/blog/2018/10/05/devopsdays-101-pt-br/"><h1 class = "footer-heading">devopsdays 101 (pt-br)</h1></a><h2 class="footer-heading">by Marco Antonio Martins Junior (Somatório) and Rafael Gomes (Gomex) - 05 October, 2018</h2><br><a href="https://www.devopsdays.org/blog/index.xml">Blog Feed</a>
+  </div>
+  <div class="col-md-6 col-lg-3 footer-nav-col">
+      <h3 class="footer-nav">CFP OPEN</h3><a href = "/events/2021-blumenau" class = "footer-content">Blumenau</a><br /><a href = "/events/2021-portland" class = "footer-content">Portland</a><br /><a href = "/events/2021-houston" class = "footer-content">Houston</a><br /><a href = "/events/2021-cairo" class = "footer-content">Cairo</a><br /><a href = "/events/2021-nashville" class = "footer-content">Nashville</a><br />
+      <br /><a href="https://devopsdays.org/speaking">Propose a talk</a> at an event near you!<br />
+  </div>
+  <div class="col-md-6 col-lg-3 footer-nav-col">
+    <h3 class="footer-nav">About</h3>
+    devopsdays is a worldwide community conference series for anyone interested in IT improvement.<br /><br />
+    <a href="/about/" class = "footer-content">About devopsdays</a><br />
+    <a href="/privacy/" class = "footer-content">Privacy Policy</a><br />
+    <a href="/conduct/" class = "footer-content">Code of Conduct</a>
+    <br />
+    <br />
+    <a href="https://www.netlify.com">
+      <img src="/img/netlify-light.png" alt="Deploys by Netlify">
+    </a>
+</div>
+    </div>
+  </div>
+
+  </div>
+
+</nav>
+<script>
+
+
+
+$(document).ready(function () {
+  
+
+  $("#share").jsSocials({
+      shares: ["email", {share: "twitter", via: 'devopsdaysrdu'}, "facebook", "linkedin"],
+      text: 'devopsdays Raleigh - 2019',
+      showLabel: false,
+      showCount: false
+  });
+});
+
+</script>
+</body>
+</html>

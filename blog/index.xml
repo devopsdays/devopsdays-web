@@ -1,13 +1,42 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on DevOpsDays</title>
+    <title>devopsdays blog on DevOpsDays</title>
     <link>https://www.devopsdays.org/blog/</link>
-    <description>Recent blogs in Blogs on DevOpsDays</description>
+    <description>Recent blogs in devopsdays blog on DevOpsDays</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Oct 2018 11:20:00 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 25 Sep 2016 02:11:48 -0500</lastBuildDate>
     <atom:link href="https://www.devopsdays.org/blog/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Looking Back; Looking Forward</title>
+      <link>https://www.devopsdays.org/blog/2020/11/01/looking-back-looking-forward/</link>
+      <pubDate>Sun, 01 Nov 2020 03:01:03 -0300</pubDate>
+      
+      <guid>https://www.devopsdays.org/blog/2020/11/01/looking-back-looking-forward/</guid>
+      <description>In January 2015, Bridget Kromhout stepped up as the leader of the devopsdays core team, invited by founder Patrick Debois to replace him after he led devopsdays from 2009-2014. Bridget had organized devopsdays Minneapolis in July 2014, and was now ready to help streamline and improve processes to help other cities get started.
+Over the next five years, Bridget scaled the organizing team up, adding core team members who could onboard and mentor new city teams, and seeking out core team members from communities and regions not previously represented.</description>
+    </item>
+    
+    <item>
+      <title>Nota sobre mudança de local do DevOpsDays Salvador 2019</title>
+      <link>https://www.devopsdays.org/blog/2019/10/01/nota-sobre-mudan%C3%A7a-de-local-do-devopsdays-salvador-2019/</link>
+      <pubDate>Tue, 01 Oct 2019 09:00:00 -0300</pubDate>
+      
+      <guid>https://www.devopsdays.org/blog/2019/10/01/nota-sobre-mudan%C3%A7a-de-local-do-devopsdays-salvador-2019/</guid>
+      <description>Quando escolhemos a Universidade Federal da Bahia (UFBA), tínhamos como objetivo nos aproximarmos da Academia, nos aproximarmos de uma Universidade Federal e assim, estreitar ainda mais os laços que esta comunidade de tecnologia tem com esse local que tanto formou e ainda forma profissionais para o mercado, não somente soteropolitano, mas sim para o mundo.
+Escolhemos a Universidade Federal da Bahia, pois lá estão diversos grupos de professores e alunos que se beneficiariam profundamente com um evento dentro das suas instalações, e quem ainda não conhece a UFBA, teria o prazer de ver sua enorme praça verde, poderia descobrir uma Biblioteca imensa, poderia descobrir que lá está o ponto de presença de Rede Nacional de Pesquisa (RNP) que conecta a maioria dos órgãos federais e locais através da sua rede remessa.</description>
+    </item>
+    
+    <item>
+      <title>10 years of devopsdays</title>
+      <link>https://www.devopsdays.org/blog/2019/05/10/10-years-of-devopsdays/</link>
+      <pubDate>Fri, 10 May 2019 21:01:03 -0300</pubDate>
+      
+      <guid>https://www.devopsdays.org/blog/2019/05/10/10-years-of-devopsdays/</guid>
+      <description>It&amp;amp;rsquo;s hard to believe but it is almost 10 years ago since #devopsdays happened for the first time in Gent. Back then there were almost 70 of us talking about topics that were of interest to both Operations and Development, we were exchanging our ideas and experiences `on how we were improving the quality of software delivery.
+Our ideas got started on the crossroads of Open Source, Agile and early Cloud Adoption.</description>
+    </item>
     
     <item>
       <title>devopsdays 101 (pt-br)</title>
@@ -131,7 +160,7 @@ Day One The Presentations Leading off the presentations was a keynote by Adam Ja
       <pubDate>Mon, 08 Aug 2016 15:59:27 -0500</pubDate>
       
       <guid>https://www.devopsdays.org/blog/2016/08/08/minneapolis-2016-in-review/</guid>
-      <description>The third devopsdays Minneapolis, held July 20-21 2016 at the Hilton Minneapolis, was a balancing act between explosive growth and continuing what worked from 2014 and 2015. We’re delighted to let you know that the survey results seem to indicate that participants liked it! We had about 700 people attend the event. (For comparison, 2015 had about 350 and 2014 had about 250.) 133 people filled out the post-event survey.</description>
+      <description>The third devopsdays Minneapolis, held July 20-21 2016 at the Hilton Minneapolis, was a balancing act between explosive growth and continuing what worked from 2014 and 2015. We’re delighted to let you know that the survey results seem to indicate that participants liked it! We had about 700 people attend the event. (For comparison, 2015 had about 350 and 2014 had about 250.) 133 people filled out the post-event survey. (30.</description>
     </item>
     
     <item>
@@ -172,7 +201,7 @@ If you&amp;amp;rsquo;re more interested in speaking, the Call for Proposals is s
       <guid>https://www.devopsdays.org/blog/2012/08/30/devopsdays-2012-rome-final-speakerslist/</guid>
       <description>In case you hadn&amp;amp;rsquo;t noticed yet .. Devopsdays Rome is on again ..
 And here&amp;amp;rsquo;s the list of speakers
- You can&amp;amp;rsquo;t change culture, but you can influence behavior and behavior becomes culture. - Damon Edwards Failure is the new Success - Peter Halacsy The State of Open Source Monitoring: The good, the bad, the fucking terrible, and a glimpse into our future. - Jason Dixon Monitoring data.fao.org - Bryan Berry Metrics Driven Develpment - Mantas Klasavicius DevOps - One small step for business-IT alignment, one giant leap for infrastructure culture - Mark Burgess</description>
+ You can&amp;#39;t change culture, but you can influence behavior and behavior becomes culture. - Damon Edwards Failure is the new Success - Peter Halacsy The State of Open Source Monitoring: The good, the bad, the fucking terrible, and a glimpse into our future. - Jason Dixon Monitoring data.fao.org - Bryan Berry Metrics Driven Develpment - Mantas Klasavicius DevOps - One small step for business-IT alignment, one giant leap for infrastructure culture - Mark Burgess How I Learned to Stop Worrying and Love the PaaS - Colin Humphreys Beyond Continuous Delivery - Chris Hilton  There are still some hours left to get your ticket at the Early Bird rate</description>
     </item>
     
     <item>
@@ -236,7 +265,7 @@ Hamburg on 15 and 16 October 2010
       <pubDate>Mon, 02 Aug 2010 14:36:20 +0000</pubDate>
       
       <guid>https://www.devopsdays.org/blog/2010/08/02/devopsdays-europe-2010-call-for-speakers-open/</guid>
-      <description>It&amp;amp;rsquo;s about one year since the first devopsdays 2009 took place in Belgium. Since then we have had successful conference in both Australia and the United States. Now we are back home in Europe. The details for the next devopsdays are: Location: East Hotel in Hamburg/Germany Date: Friday, 15th - Saturday 16th October 2010 (image Source)    We currently have a call for speakers open and hope to finalize the program around 15 of September.</description>
+      <description>It&amp;#39;s about one year since the first devopsdays 2009 took place in Belgium. Since then we have had successful conference in both Australia and the United States. Now we are back home in Europe. The details for the next devopsdays are: Location: East Hotel in Hamburg/Germany Date: Friday, 15th - Saturday 16th October 2010 (image Source)    We currently have a call for speakers open and hope to finalize the program around 15 of September.</description>
     </item>
     
     <item>
@@ -245,8 +274,7 @@ Hamburg on 15 and 16 October 2010
       <pubDate>Wed, 09 Jun 2010 07:25:26 +0000</pubDate>
       
       <guid>https://www.devopsdays.org/blog/2010/06/09/velocity/</guid>
-      <description>ve&amp;amp;#183;loc&amp;amp;#183;i&amp;amp;#183;ty rapidity of motion or operation; swiftness; speed. If you&amp;amp;rsquo;ve heard me talk about Agile Infrastucture, or read my personal blog, you might have noticed that I frequently make references to Velocity. When we started planning DevOpsDays US, there was consensus from the beginning to backdraft Velocity.
-I have a hard time saying &amp;amp;lsquo;DevOps&amp;amp;rsquo; was born at any one time or any one place, as doing so ignores a large body of individual and organizational work, knowledge and experience, but Velocity has to be considered seminal in the course of the formation and articulation of DevOps ideas and ideals.</description>
+      <description>ve&amp;amp;#183;loc&amp;amp;#183;i&amp;amp;#183;ty rapidity of motion or operation; swiftness; speed. If you&amp;#39;ve heard me talk about Agile Infrastucture, or read my personal blog, you might have noticed that I frequently make references to Velocity. When we started planning DevOpsDays US, there was consensus from the beginning to backdraft Velocity. I have a hard time saying &amp;amp;lsquo;DevOps&amp;amp;rsquo; was born at any one time or any one place, as doing so ignores a large body of individual and organizational work, knowledge and experience, but Velocity has to be considered seminal in the course of the formation and articulation of DevOps ideas and ideals.</description>
     </item>
     
     <item>

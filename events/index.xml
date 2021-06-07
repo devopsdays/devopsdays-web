@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0"
      xmlns:content="http://purl.org/rss/1.0/modules/content/"
      xmlns:wfw="http://wellformedweb.org/CommentAPI/"
@@ -10,109 +9,51 @@
      xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>Upcoming devopsdays events</title>
-<atom:link href="https://www.devopsdays.org/events/index.xml" rel="self" type="application/rss+xml" />
+<atom:link href="/events/index.xml" rel="self" type="application/rss+xml" />
 <link>https://www.devopsdays.org/events/</link>
     <description>Upcoming devopsdays events</description>
-<lastBuildDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</lastBuildDate>
+<lastBuildDate>Mon, 7 Jun 2021 15:59:58 &#43;0000</lastBuildDate>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <language>en-us</language>
 <copyright>Copyright 2016-2017 devopsdays</copyright>
-<generator>Hugo -- gohugo.io</generator><item><title>devopsdays Los Angeles 2019 is coming! Friday, March 8, 2019</title><link>https://www.devopsdays.org/events/2019-los-angeles</link>
-      <guid>https://www.devopsdays.org/events/2019-los-angeles</guid>
-      <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate><description>DevOpsDays is returning to Southern California in 2019</description></item><item><title>devopsdays Natal 2019 is coming! Saturday, March 9, 2019</title><link>https://www.devopsdays.org/events/2019-natal</link>
-      <guid>https://www.devopsdays.org/events/2019-natal</guid>
-      <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate><description>DevOpsDays is coming to Natal!</description></item><item><title>devopsdays Vancouver 2019 is coming! Friday, March 29, 2019 - Saturday, March 30, 2019</title><link>https://www.devopsdays.org/events/2019-vancouver</link>
-      <guid>https://www.devopsdays.org/events/2019-vancouver</guid>
-      <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate><description>devopsdays is an inclusive, self-organizing conference for anyone interested in DevOps practices.</description></item><item><title>devopsdays Copenhagen 2019 is coming! Wednesday, April 3, 2019 - Thursday, April 4, 2019</title><link>https://www.devopsdays.org/events/2019-copenhagen</link>
-      <guid>https://www.devopsdays.org/events/2019-copenhagen</guid>
-      <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate><description>Devopsdays is coming back to Copenhagen!</description></item><item><title>devopsdays Atlanta 2019 is coming! Tuesday, April 9, 2019 - Wednesday, April 10, 2019</title><link>https://www.devopsdays.org/events/2019-atlanta</link>
-      <guid>https://www.devopsdays.org/events/2019-atlanta</guid>
-      <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate><description>Devopsdays is coming to the Georgia Aquarium!</description></item><item><title>devopsdays Tokyo 2019 is coming! Tuesday, April 9, 2019 - Wednesday, April 10, 2019</title><link>https://www.devopsdays.org/events/2019-tokyo</link>
-      <guid>https://www.devopsdays.org/events/2019-tokyo</guid>
-      <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate><description>devopsdays Tokyo 2019 will be taking place Tuesday, April 9, 2019 through Wednesday, April 10, 2019.</description></item><item><title>devopsdays Jakarta 2019 is coming! Wednesday, April 10, 2019 - Thursday, April 11, 2019</title><link>https://www.devopsdays.org/events/2019-jakarta</link>
-      <guid>https://www.devopsdays.org/events/2019-jakarta</guid>
-      <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate><description>Devopsdays is coming to Jakarta again!</description></item><item><title>devopsdays São Paulo 2019 is coming! Wednesday, April 10, 2019 - Thursday, April 11, 2019</title><link>https://www.devopsdays.org/events/2019-sao-paulo</link>
-      <guid>https://www.devopsdays.org/events/2019-sao-paulo</guid>
-      <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate><description>Devopsdays está chegando em São Paulo!</description></item><item><title>devopsdays Houston 2019 is coming! Tuesday, April 16, 2019 - Wednesday, April 17, 2019</title><link>https://www.devopsdays.org/events/2019-houston</link>
-      <guid>https://www.devopsdays.org/events/2019-houston</guid>
-      <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate><description>Devopsdays is coming to Houston!</description></item><item><title>devopsdays Seattle 2019 is coming! Tuesday, April 23, 2019 - Wednesday, April 24, 2019</title><link>https://www.devopsdays.org/events/2019-seattle</link>
-      <guid>https://www.devopsdays.org/events/2019-seattle</guid>
-      <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate><description>DevOpsDays is coming back to Seattle!</description></item><item><title>devopsdays Baltimore 2019 is coming! Wednesday, April 24, 2019 - Thursday, April 25, 2019</title><link>https://www.devopsdays.org/events/2019-baltimore</link>
-      <guid>https://www.devopsdays.org/events/2019-baltimore</guid>
-      <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate><description>DevOpsDays is coming back to Baltimore!</description></item><item><title>devopsdays Denver 2019 is coming! Monday, April 29, 2019 - Tuesday, April 30, 2019</title><link>https://www.devopsdays.org/events/2019-denver</link>
-      <guid>https://www.devopsdays.org/events/2019-denver</guid>
-      <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate><description>DevOpsDays Denver Coming Up!</description></item><item><title>devopsdays Austin 2019 is coming! Thursday, May 2, 2019 - Friday, May 3, 2019</title><link>https://www.devopsdays.org/events/2019-austin</link>
-      <guid>https://www.devopsdays.org/events/2019-austin</guid>
-      <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate><description>DevOpsDays Austin&amp;amp;rsquo;s 8th Year!</description></item><item><title>devopsdays Des Moines 2019 is coming! Thursday, May 2, 2019 - Friday, May 3, 2019</title><link>https://www.devopsdays.org/events/2019-des-moines</link>
-      <guid>https://www.devopsdays.org/events/2019-des-moines</guid>
-      <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate><description>Devopsdays is coming to Des Moines!</description></item><item><title>devopsdays Nashville 2019 is coming! Thursday, May 9, 2019 - Friday, May 10, 2019</title><link>https://www.devopsdays.org/events/2019-nashville</link>
-      <guid>https://www.devopsdays.org/events/2019-nashville</guid>
-      <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate><description>Devopsdays In Nashville returns in 2019</description></item><item><title>devopsdays Beijing 2019 is coming! Saturday, May 11, 2019 - Sunday, May 12, 2019</title><link>https://www.devopsdays.org/events/2019-beijing</link>
-      <guid>https://www.devopsdays.org/events/2019-beijing</guid>
-      <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate><description>DevOpsDays is coming to beijing!</description></item><item><title>devopsdays Zürich 2019 is coming! Tuesday, May 14, 2019 - Wednesday, May 15, 2019</title><link>https://www.devopsdays.org/events/2019-zurich</link>
-      <guid>https://www.devopsdays.org/events/2019-zurich</guid>
-      <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate><description>devopsdays Zürich 2019 will be taking place Tuesday, May 14, 2019 through Wednesday, May 15, 2019.</description></item><item><title>devopsdays Salt Lake City 2019 is coming! Tuesday, May 14, 2019 - Wednesday, May 15, 2019</title><link>https://www.devopsdays.org/events/2019-salt-lake-city</link>
-      <guid>https://www.devopsdays.org/events/2019-salt-lake-city</guid>
-      <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate><description>Devopsdays is returning to Salt Lake City!</description></item><item><title>devopsdays Kyiv 2019 is coming! Friday, May 17, 2019 - Saturday, May 18, 2019</title><link>https://www.devopsdays.org/events/2019-kiev</link>
-      <guid>https://www.devopsdays.org/events/2019-kiev</guid>
-      <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate><description>Devopsdays is coming to Kyiv!</description></item><item><title>devopsdays Porto Alegre 2019 is coming! Friday, May 24, 2019 - Saturday, May 25, 2019</title><link>https://www.devopsdays.org/events/2019-porto-alegre</link>
-      <guid>https://www.devopsdays.org/events/2019-porto-alegre</guid>
-      <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate><description>A vida é muito curta pra trabalho manual</description></item><item><title>devopsdays Bogotá 2019 is coming! Saturday, May 25, 2019 - Sunday, May 26, 2019</title><link>https://www.devopsdays.org/events/2019-bogota</link>
-      <guid>https://www.devopsdays.org/events/2019-bogota</guid>
-      <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate><description>¡Sé parte del primer devopsdays Bogota!</description></item><item><title>devopsdays Toronto 2019 is coming! Wednesday, May 29, 2019 - Thursday, May 30, 2019</title><link>https://www.devopsdays.org/events/2019-toronto</link>
-      <guid>https://www.devopsdays.org/events/2019-toronto</guid>
-      <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate><description>Be part of the sixth DevOpsDays Toronto!</description></item><item><title>devopsdays Boise 2019 is coming! Thursday, May 30, 2019</title><link>https://www.devopsdays.org/events/2019-boise</link>
-      <guid>https://www.devopsdays.org/events/2019-boise</guid>
-      <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate><description>Devopsdays is coming to Boise!</description></item><item><title>devopsdays Victoria 2019 is coming! Thursday, May 30, 2019 - Friday, May 31, 2019</title><link>https://www.devopsdays.org/events/2019-victoria</link>
-      <guid>https://www.devopsdays.org/events/2019-victoria</guid>
-      <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate><description>Devopsdays Victoria Canada 2019!</description></item><item><title>devopsdays Portugal 2019 is coming! Monday, June 3, 2019 - Tuesday, June 4, 2019</title><link>https://www.devopsdays.org/events/2019-portugal</link>
-      <guid>https://www.devopsdays.org/events/2019-portugal</guid>
-      <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate><description>devopsdays is coming to Portugal for the first time!</description></item><item><title>devopsdays Aracaju 2019 is coming! Saturday, June 8, 2019</title><link>https://www.devopsdays.org/events/2019-aracaju</link>
-      <guid>https://www.devopsdays.org/events/2019-aracaju</guid>
-      <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate><description>DevOpsDays is coming to Aracaju!</description></item><item><title>devopsdays Amsterdam 2019 is coming! Wednesday, June 26, 2019 - Friday, June 28, 2019</title><link>https://www.devopsdays.org/events/2019-amsterdam</link>
-      <guid>https://www.devopsdays.org/events/2019-amsterdam</guid>
-      <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate><description>devopsdays Amsterdam is back for the 7th time!</description></item><item><title>devopsdays Indianapolis 2019 is coming! Thursday, July 25, 2019 - Friday, July 26, 2019</title><link>https://www.devopsdays.org/events/2019-indianapolis</link>
-      <guid>https://www.devopsdays.org/events/2019-indianapolis</guid>
-      <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate><description>DevOpsDays is coming to Indianapolis!</description></item><item><title>devopsdays Minneapolis 2019 is coming! Tuesday, August 6, 2019 - Wednesday, August 7, 2019</title><link>https://www.devopsdays.org/events/2019-minneapolis</link>
-      <guid>https://www.devopsdays.org/events/2019-minneapolis</guid>
-      <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate><description>Devopsdays Minneapolis will return in 2019!</description></item><item><title>devopsdays Chicago 2019 is coming! Tuesday, August 27, 2019 - Wednesday, August 28, 2019</title><link>https://www.devopsdays.org/events/2019-chicago</link>
-      <guid>https://www.devopsdays.org/events/2019-chicago</guid>
-      <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate><description>Devopsdays is coming to Chicago!</description></item><item><title>devopsdays Cape Town 2019 is coming! Thursday, September 5, 2019 - Friday, September 6, 2019</title><link>https://www.devopsdays.org/events/2019-cape-town</link>
-      <guid>https://www.devopsdays.org/events/2019-cape-town</guid>
-      <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate><description>Devopsdays is coming to Cape Town!</description></item><item><title>devopsdays Cairo 2019 is coming! Monday, September 9, 2019</title><link>https://www.devopsdays.org/events/2019-cairo</link>
-      <guid>https://www.devopsdays.org/events/2019-cairo</guid>
-      <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate><description>Please stay tuned for more information about DevOpsDays Cairo 2019!</description></item><item><title>devopsdays Portland 2019 is coming! Tuesday, September 10, 2019 - Thursday, September 12, 2019</title><link>https://www.devopsdays.org/events/2019-portland</link>
-      <guid>https://www.devopsdays.org/events/2019-portland</guid>
-      <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate><description>DevOpsDays is coming to Portland!</description></item><item><title>devopsdays Stockholm 2019 is coming! Tuesday, September 17, 2019 - Wednesday, September 18, 2019</title><link>https://www.devopsdays.org/events/2019-stockholm</link>
-      <guid>https://www.devopsdays.org/events/2019-stockholm</guid>
-      <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate><description>DevOpsDays is coming back to Stockholm!</description></item><item><title>devopsdays Istanbul 2019 is coming! Thursday, September 19, 2019 - Friday, September 20, 2019</title><link>https://www.devopsdays.org/events/2019-istanbul</link>
-      <guid>https://www.devopsdays.org/events/2019-istanbul</guid>
-      <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate><description>DevOpsDays is coming to Istanbul!</description></item><item><title>devopsdays Boston 2019 is coming! Monday, September 23, 2019 - Tuesday, September 24, 2019</title><link>https://www.devopsdays.org/events/2019-boston</link>
-      <guid>https://www.devopsdays.org/events/2019-boston</guid>
-      <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate><description>Devopsdays is coming to Boston!</description></item><item><title>devopsdays Buffalo 2019 is coming! Thursday, September 26, 2019 - Friday, September 27, 2019</title><link>https://www.devopsdays.org/events/2019-buffalo</link>
-      <guid>https://www.devopsdays.org/events/2019-buffalo</guid>
-      <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate><description>Devopsdays is coming to Buffalo!</description></item><item><title>devopsdays London 2019 is coming! Thursday, September 26, 2019 - Friday, September 27, 2019</title><link>https://www.devopsdays.org/events/2019-london</link>
-      <guid>https://www.devopsdays.org/events/2019-london</guid>
-      <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate><description>DevOpsDays is coming to London!</description></item><item><title>devopsdays Raleigh 2019 is coming! Tuesday, October 1, 2019 - Wednesday, October 2, 2019</title><link>https://www.devopsdays.org/events/2019-raleigh</link>
-      <guid>https://www.devopsdays.org/events/2019-raleigh</guid>
-      <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate><description>Devopsdays is coming to Raleigh!</description></item><item><title>devopsdays hartford 2019 is coming! Wednesday, October 2, 2019 - Thursday, October 3, 2019</title><link>https://www.devopsdays.org/events/2019-hartford</link>
-      <guid>https://www.devopsdays.org/events/2019-hartford</guid>
-      <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate><description>DevOpsDays Hartford is back at Infinity Hall for 2019!</description></item><item><title>devopsdays Taipei 2019 is coming! Wednesday, October 16, 2019 - Friday, October 18, 2019</title><link>https://www.devopsdays.org/events/2019-taipei</link>
-      <guid>https://www.devopsdays.org/events/2019-taipei</guid>
-      <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate><description>Devopsdays is coming to Taipei!</description></item><item><title>devopsdays Edinburgh 2019 is coming! Thursday, October 17, 2019 - Friday, October 18, 2019</title><link>https://www.devopsdays.org/events/2019-edinburgh</link>
-      <guid>https://www.devopsdays.org/events/2019-edinburgh</guid>
-      <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate><description>Devopsdays is coming to Edinburgh!</description></item><item><title>devopsdays Oslo 2019 is coming! Tuesday, October 22, 2019 - Wednesday, October 23, 2019</title><link>https://www.devopsdays.org/events/2019-oslo</link>
-      <guid>https://www.devopsdays.org/events/2019-oslo</guid>
-      <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate><description>Devopsdays is coming to Oslo!</description></item><item><title>devopsdays Philadelphia 2019 is coming! Tuesday, October 22, 2019 - Wednesday, October 23, 2019</title><link>https://www.devopsdays.org/events/2019-philadelphia</link>
-      <guid>https://www.devopsdays.org/events/2019-philadelphia</guid>
-      <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate><description>devopsdays Philadelphia 2019 will be taking place Tuesday, October 22, 2019 through Wednesday, October 23, 2019.</description></item><item><title>devopsdays Detroit 2019 is coming! Wednesday, October 23, 2019 - Thursday, October 24, 2019</title><link>https://www.devopsdays.org/events/2019-detroit</link>
-      <guid>https://www.devopsdays.org/events/2019-detroit</guid>
-      <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate><description>DevOpsDays Detroit&amp;amp;rsquo;s 6th Year!</description></item><item><title>devopsdays Ghent 2019 is coming! Monday, October 28, 2019 - Wednesday, October 30, 2019</title><link>https://www.devopsdays.org/events/2019-ghent</link>
-      <guid>https://www.devopsdays.org/events/2019-ghent</guid>
-      <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate><description>Devopsdays is coming BACK to Ghent!</description></item><item><title>devopsdays Berlin 2019 is coming! Wednesday, November 27, 2019 - Thursday, November 28, 2019</title><link>https://www.devopsdays.org/events/2019-berlin</link>
-      <guid>https://www.devopsdays.org/events/2019-berlin</guid>
-      <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate><description>Devopsdays is returning to Berlin!</description></item></channel>
+<generator>Hugo -- gohugo.io</generator><item><title>devopsdays Rio de Janeiro 2021 is coming! Tuesday, June 8, 2021 - Thursday, June 10, 2021</title><link>/events/2021-rio-de-janeiro</link>
+      <guid>/events/2021-rio-de-janeiro</guid>
+      <pubDate>Mon, 7 Jun 2021 15:59:58 &#43;0000</pubDate><description>DevOpsDays está chegando no Rio de Janeiro!</description></item><item><title>devopsdays Amsterdam 2021 is coming! Tuesday, June 29, 2021 - Tuesday, June 29, 2021</title><link>/events/2021-amsterdam</link>
+      <guid>/events/2021-amsterdam</guid>
+      <pubDate>Mon, 7 Jun 2021 15:59:58 &#43;0000</pubDate><description>Devopsdays is coming to Amsterdam!</description></item><item><title>devopsdays Porto Alegre 2021 is coming! Saturday, July 10, 2021 - Saturday, July 10, 2021</title><link>/events/2021-porto-alegre</link>
+      <guid>/events/2021-porto-alegre</guid>
+      <pubDate>Mon, 7 Jun 2021 15:59:58 &#43;0000</pubDate><description>A vida é muito curta pra trabalho manual</description></item><item><title>devopsdays Minneapolis 2021 is coming! Tuesday, July 20, 2021 - Wednesday, July 21, 2021</title><link>/events/2021-minneapolis</link>
+      <guid>/events/2021-minneapolis</guid>
+      <pubDate>Mon, 7 Jun 2021 15:59:58 &#43;0000</pubDate><description>Devopsdays returns to Minneapolis for 2021, reimagined as a hybrid event!</description></item><item><title>devopsdays Medellín 2021 is coming! Friday, July 30, 2021 - Saturday, July 31, 2021</title><link>/events/2021-medellin</link>
+      <guid>/events/2021-medellin</guid>
+      <pubDate>Mon, 7 Jun 2021 15:59:58 &#43;0000</pubDate><description>DevOpsDays is returning to Medellín (ONLINE)! More updates will be available soon.</description></item><item><title>devopsdays Zürich (Winterthur) 2021 is coming! Tuesday, September 7, 2021 - Wednesday, September 8, 2021</title><link>/events/2021-zurich</link>
+      <guid>/events/2021-zurich</guid>
+      <pubDate>Mon, 7 Jun 2021 15:59:58 &#43;0000</pubDate><description>DevOpsDays is coming to Zürich!</description></item><item><title>devopsdays Blumenau 2021 is coming! Thursday, September 9, 2021 - Friday, September 10, 2021</title><link>/events/2021-blumenau</link>
+      <guid>/events/2021-blumenau</guid>
+      <pubDate>Mon, 7 Jun 2021 15:59:58 &#43;0000</pubDate><description>DevOpsDays Blumenau, evento número um de DevOps na cidade número um de cerveja!</description></item><item><title>devopsdays Washington, D.C. 2021 is coming! Thursday, September 16, 2021 - Friday, September 17, 2021</title><link>/events/2021-washington-dc</link>
+      <guid>/events/2021-washington-dc</guid>
+      <pubDate>Mon, 7 Jun 2021 15:59:58 &#43;0000</pubDate><description>A house divided against itself cannot stand.</description></item><item><title>devopsdays Istanbul 2021 is coming! Saturday, September 18, 2021 - Saturday, September 18, 2021</title><link>/events/2021-istanbul</link>
+      <guid>/events/2021-istanbul</guid>
+      <pubDate>Mon, 7 Jun 2021 15:59:58 &#43;0000</pubDate><description>Devopsdays is back in Istanbul! Most likely will be online, follow here and twitter for upcoming updates!</description></item><item><title>devopsdays Portland 2021 is coming! Monday, September 20, 2021 - Tuesday, September 21, 2021</title><link>/events/2021-portland</link>
+      <guid>/events/2021-portland</guid>
+      <pubDate>Mon, 7 Jun 2021 15:59:58 &#43;0000</pubDate><description>Devopsdays is back in Portland! (virtually)</description></item><item><title>devopsdays Houston 2021 is coming! Tuesday, September 21, 2021 - Wednesday, September 22, 2021</title><link>/events/2021-houston</link>
+      <guid>/events/2021-houston</guid>
+      <pubDate>Mon, 7 Jun 2021 15:59:58 &#43;0000</pubDate><description>Devopsdays is returning to Houston!</description></item><item><title>devopsdays Boston 2021 is coming! Monday, September 27, 2021 - Tuesday, September 28, 2021</title><link>/events/2021-boston</link>
+      <guid>/events/2021-boston</guid>
+      <pubDate>Mon, 7 Jun 2021 15:59:58 &#43;0000</pubDate><description>DevOpsDays is returning to Boston!</description></item><item><title>devopsdays Cairo 2021 is coming! Wednesday, September 29, 2021 - Wednesday, September 29, 2021</title><link>/events/2021-cairo</link>
+      <guid>/events/2021-cairo</guid>
+      <pubDate>Mon, 7 Jun 2021 15:59:58 &#43;0000</pubDate><description>Welcome to DevOpsDays Cairo 2021!</description></item><item><title>devopsdays Poznań 2021 is coming! Monday, October 4, 2021 - Tuesday, October 5, 2021</title><link>/events/2021-poznan</link>
+      <guid>/events/2021-poznan</guid>
+      <pubDate>Mon, 7 Jun 2021 15:59:58 &#43;0000</pubDate><description>DevOpsDays is coming to Poznań!</description></item><item><title>devopsdays Nashville 2021 is coming! Thursday, October 28, 2021 - Friday, October 29, 2021</title><link>/events/2021-nashville</link>
+      <guid>/events/2021-nashville</guid>
+      <pubDate>Mon, 7 Jun 2021 15:59:58 &#43;0000</pubDate><description>DevOpsDays Nashville October 28-29, 2021</description></item><item><title>devopsdays Melbourne 2021 is coming! Thursday, October 28, 2021 - Friday, October 29, 2021</title><link>/events/2021-melbourne</link>
+      <guid>/events/2021-melbourne</guid>
+      <pubDate>Mon, 7 Jun 2021 15:59:58 &#43;0000</pubDate><description>Devopsdays is back in Melbourne in October 2021!</description></item><item><title>devopsdays Bogotá 2021 is coming! Wednesday, November 24, 2021 - Thursday, November 25, 2021</title><link>/events/2021-bogota</link>
+      <guid>/events/2021-bogota</guid>
+      <pubDate>Mon, 7 Jun 2021 15:59:58 &#43;0000</pubDate><description>¡Sé parte del tercer devopsdays Bogotá 2021!</description></item><item><title>devopsdays Dallas 2022 is coming! Wednesday, August 24, 2022 - Thursday, August 25, 2022</title><link>/events/2022-dallas</link>
+      <guid>/events/2022-dallas</guid>
+      <pubDate>Mon, 7 Jun 2021 15:59:58 &#43;0000</pubDate><description>devopsdays Dallas 2022 will be taking place Wednesday, August 24, 2022 through Thursday, August 25, 2022.</description></item></channel>
 
 
 </rss>

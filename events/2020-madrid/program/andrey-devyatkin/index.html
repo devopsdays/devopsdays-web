@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html itemscope lang="en-us">
+<head><meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta charset="utf-8">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"><meta name="generator" content="Hugo 0.83.1" />
+<meta property="og:title" content="HashiCorp Vault Configuration as Code via HashiCorp Terraform: Stories From Trenches" />
+<meta name="twitter:title" content="HashiCorp Vault configuration as code via HashiCorp Terraform: stories from trenches"/>
+<meta itemprop="name" content="HashiCorp Vault configuration as code via HashiCorp Terraform: stories from trenches"><meta property="og:description" content="During last months Vault provider for Terraform got several major updates allowing configuration as code approach for most of the Vaults features. HelloHippo is a Terraform shop, and we were quite excited to able to apply Terraform power to Vault configuration. In this talk, Andrey will share our journey - what went well and what not so well, what you should consider before you start. On top of that, we will look into topics how to incorporate security ops (ex." />
+  <meta name="twitter:description" content="During last months Vault provider for Terraform got several major updates allowing configuration as code approach for most of the Vaults features. HelloHippo is a Terraform shop, and we were quite excited to able to apply Terraform power to Vault configuration. In this talk, Andrey will share our journey - what went well and what not so well, what you should consider before you start. On top of that, we will look into topics how to incorporate security ops (ex." />
+  <meta itemprop="description" content="During last months Vault provider for Terraform got several major updates allowing configuration as code approach for most of the Vaults features. HelloHippo is a Terraform shop, and we were quite excited to able to apply Terraform power to Vault configuration. In this talk, Andrey will share our journey - what went well and what not so well, what you should consider before you start. On top of that, we will look into topics how to incorporate security ops (ex."><meta name="twitter:site" content="@devopsdays">
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.devopsdays.org/events/2020-madrid/program/andrey-devyatkin/" /><meta name="twitter:creator" content="@DevOpsDaysMad" /><meta name="twitter:label1" value="Event" />
+  <meta name="twitter:data1" value="devopsdays Madrid 2020" /><meta name="twitter:label2" value="Date" />
+    <meta name="twitter:data2" value="February 21, 2020" /><meta property="og:image" content="https://www.devopsdays.org/img/sharing.jpg" />
+<meta property="og:image:alt" content="devopsdays" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="https://www.devopsdays.org/img/sharing.jpg" />
+<meta itemprop="image" content="https://www.devopsdays.org/img/sharing.jpg" />
+<meta property="fb:app_id" content="1904065206497317" /><meta itemprop="wordCount" content="120">
+<title>HashiCorp Vault configuration as code via HashiCorp Terraform: stories from trenches - devopsdays Madrid 2020
+</title>
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-9713393-1', 'auto');
+ga('send', 'pageview');
+
+    
+      ga('create', 'UA-154895431-1', 'auto', 'clientTracker');
+      ga('clientTracker.send', 'pageview');
+    
+  
+
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+
+<link href="/css/site.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400,700" rel="stylesheet"><link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+
+  
+    
+      <link href="/events/index.xml" rel="alternate" type="application/rss+xml" title="DevOpsDays" />
+      <link href="/events/index.xml" rel="feed" type="application/rss+xml" title="DevOpsDays" />
+    
+  
+
+
+<script src=/js/devopsdays-min.js></script></head>
+<body lang="">
+<nav class="navbar navbar-expand-md navbar-light">
+
+  <a class="navbar-brand" href="/">
+  <img src="/img/devopsdays-brain.png" height="30" class="d-inline-block align-top" alt="devopsdays Logo">
+  DevOpsDays
+</a>
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+  <span class="navbar-toggler-icon"></span>
+</button>
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto"><li class="nav-item global-navigation"><a class = "nav-link" href="/events">events</a></li><li class="nav-item global-navigation"><a class = "nav-link" href="/blog">blog</a></li><li class="nav-item global-navigation"><a class = "nav-link" href="/sponsor">sponsor</a></li><li class="nav-item global-navigation"><a class = "nav-link" href="/speaking">speaking</a></li><li class="nav-item global-navigation"><a class = "nav-link" href="/organizing">organizing</a></li><li class="nav-item global-navigation"><a class = "nav-link" href="/about">about</a></li></ul>
+  </div>
+</nav>
+<nav class="navbar event-navigation navbar-expand-md navbar-light">
+  <a href="/events/2020-madrid" class="nav-link">Madrid</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar2">
+    <span class="navbar-toggler-icon"></span>
+</button>
+  <div class="navbar-collapse collapse" id="navbar2">
+      <ul class="navbar-nav"><li class="nav-item active">
+                  <a class="nav-link" href="/events/2020-madrid/registration">registration</a>
+                </li><li class="nav-item active">
+                  <a class="nav-link" href="/events/2020-madrid/location">location</a>
+                </li><li class="nav-item active">
+                  <a class="nav-link" href="/events/2020-madrid/speakers">speakers</a>
+                </li><li class="nav-item active">
+                  <a class="nav-link" href="/events/2020-madrid/program">program</a>
+                </li><li class="nav-item active">
+                  <a class="nav-link" href="/events/2020-madrid/sponsor">sponsor</a>
+                </li><li class="nav-item active">
+                  <a class="nav-link" href="https://www.koliseo.com/devopsdaysmad/dev-ops-days-madrid-2020/r4p/5762382672429056#/proposals/new">propose</a>
+                </li><li class="nav-item active">
+                  <a class="nav-link" href="/events/2020-madrid/contact">contact</a>
+                </li><li class="nav-item active">
+                  <a class="nav-link" href="/events/2020-madrid/conduct">conduct</a>
+                </li></ul>
+  </div>
+</nav>
+
+  <div class="container-fluid">
+        <div class="row">
+              <div class="col-md-12"><div class = "row">
+    <div class = "col-md-5 offset-md-1">
+    <h2 class="talk-page">HashiCorp Vault configuration as code via HashiCorp Terraform: stories from trenches</h2><span class="talk-page content-text">
+        <p>During last months Vault provider for Terraform got several major updates allowing configuration as code approach for most of the Vaults features. HelloHippo is a Terraform shop, and we were quite excited to able to apply Terraform power to Vault configuration. In this talk, Andrey will share our journey - what went well and what not so well, what you should consider before you start. On top of that, we will look into topics how to incorporate security ops (ex. secret engine credentials rotation) and configuration as code approach. After attending this talk, you will have a good idea of where to start if you decide to move the Vault config to Terraform as well as what challenges are ahead.</p>
+
+      </span></div>
+  <div class = "col-md-3 offset-md-1"><h2 class="talk-page">Speaker</h2><img src = "/events/2020-madrid/speakers/andrey-devyatkin.jpg" class="img-fluid"  alt="andrey-devyatkin"/><br /><br /><h4 class="talk-page"><a href = "/events/2020-madrid/speakers/andrey-devyatkin">
+            Andrey Devyatkin
+          </a></h4><a href = "https://twitter.com/Andrey9kin"><i class="fa fa-twitter fa-2x" aria-hidden="true"></i>&nbsp;</a><br />
+          <span class="talk-page content-text">Andrey is a long time Continuous Delivery enthusiast and public speaker passionate about software development processes automation. During the years, Andrey has worked as a software developer, build <a href = "https://www.devopsdays.org/events/2020-madrid/speakers/andrey-devyatkin/">...</a></span>
+</div>
+</div><div class="row cta-row">
+          
+          <div class="col-md-12"><h4 class="sponsor-cta">Gold Sponsors</h4></div>
+          </div><div class="row sponsor-row"><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.nexthink.com/"><img src = "/img/sponsors/nexthink.png" alt = "Nexthink" title = "Nexthink" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.elastic.co"><img src = "/img/sponsors/elastic.png" alt = "Elastic" title = "Elastic" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.encamina.com/"><img src = "/img/sponsors/encamina.png" alt = "Encamina" title = "Encamina" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.deiser.com"><img src = "/img/sponsors/deiser.png" alt = "deiser" title = "deiser" class="img-fluid"></a>
+              </div></div><div class="row cta-row">
+          
+          <div class="col-md-12"><h4 class="sponsor-cta">Gold (Media) Sponsors</h4></div>
+          </div><div class="row sponsor-row"><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.autentia.com/"><img src = "/img/sponsors/autentia.png" alt = "Autentia" title = "Autentia" class="img-fluid"></a>
+              </div></div><div class="row cta-row">
+          
+          <div class="col-md-12"><h4 class="sponsor-cta">Silver Sponsors</h4></div>
+          </div><div class="row sponsor-row"><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.altran.com/"><img src = "/img/sponsors/altran.png" alt = "Altran" title = "Altran" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.cloudflare.com/es-es/"><img src = "/img/sponsors/cloudflare.png" alt = "Cloudflare" title = "Cloudflare" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://tecnofor.es/"><img src = "/img/sponsors/tecnofor.png" alt = "Tecnofor" title = "Tecnofor" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.openbank.es/"><img src = "/img/sponsors/openbank.png" alt = "Openbank" title = "Openbank" class="img-fluid"></a>
+              </div></div><div class="row cta-row">
+          
+          <div class="col-md-12"><h4 class="sponsor-cta">Bronze Sponsors</h4></div>
+          </div><div class="row sponsor-row"><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://intelygenz.com/"><img src = "/img/sponsors/intelygenz.png" alt = "Intelygenz" title = "Intelygenz" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "http://www.tokiota.com/"><img src = "/img/sponsors/tokiota.png" alt = "Tokiota" title = "Tokiota" class="img-fluid"></a>
+              </div></div><div class="row cta-row">
+          
+          <div class="col-md-12"><h4 class="sponsor-cta">Community Sponsors</h4></div>
+          </div><div class="row sponsor-row"><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.meetup.com/madrid-devops/"><img src = "/img/sponsors/madriddevops.png" alt = "Madrid DevOps" title = "Madrid DevOps" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://2019.commit-conf.com/"><img src = "/img/sponsors/commit.png" alt = "commit" title = "commit" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.meetup.com/es-ES/Women-in-DevOps-Madrid/"><img src = "/img/sponsors/womenindevopses.png" alt = "Women In Devops" title = "Women In Devops" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.meetup.com/es-ES/CrossDvlup/"><img src = "/img/sponsors/crossdvlup.png" alt = "CrossDvlup" title = "CrossDvlup" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.uspceu.com/"><img src = "/img/sponsors/ceu.png" alt = "CEU San Pablo University" title = "CEU San Pablo University" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.ironhack.com/"><img src = "/img/sponsors/ironhack.png" alt = "Ironhack" title = "Ironhack" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.malt.es/"><img src = "/img/sponsors/malt.png" alt = "Malt" title = "Malt" class="img-fluid"></a>
+              </div></div><br />
+</div></div>
+      </div>
+<nav class="navbar bottom navbar-light footer-nav-row" style="background-color: #bfbfc1;">
+  <div class = "row">
+    <div class = "col-md-12 footer-nav-background">
+      <div class = "row">
+            <div class = "col-md-6 col-lg-3 footer-nav-col">
+      <h3 class="footer-nav">@DEVOPSDAYS</h3>
+      <div>
+          <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/devopsdays/lists/devopsdays" data-chrome="noheader" height="440"></a>
+
+          <script>
+              ! function(d, s, id) {
+                  var js, fjs = d.getElementsByTagName(s)[0],
+                      p = /^http:/.test(d.location) ? 'http' : 'https';
+                  if (!d.getElementById(id)) {
+                      js = d.createElement(s);
+                      js.id = id;
+                      js.src = p + "://platform.twitter.com/widgets.js";
+                      fjs.parentNode.insertBefore(js, fjs);
+                  }
+              }(document, "script", "twitter-wjs");
+          </script>
+      </div>
+  </div>
+  <div class="col-md-6 col-lg-3 footer-nav-col footer-content">
+    <h3 class="footer-nav">BLOG</h3><a href = "https://www.devopsdays.org/blog/2020/11/01/looking-back-looking-forward/"><h1 class = "footer-heading">Looking Back; Looking Forward</h1></a><h2 class="footer-heading">by Bridget Kromhout, Yvo van Doorn, Matt Stratton - 01 November, 2020</h2><br><a href = "https://www.devopsdays.org/blog/2019/10/01/nota-sobre-mudan%C3%A7a-de-local-do-devopsdays-salvador-2019/"><h1 class = "footer-heading">Nota sobre mudança de local do DevOpsDays Salvador 2019</h1></a><h2 class="footer-heading">by devopsdays Salvador 2019 - 01 October, 2019</h2><br><a href = "https://www.devopsdays.org/blog/2019/05/10/10-years-of-devopsdays/"><h1 class = "footer-heading">10 years of devopsdays</h1></a><h2 class="footer-heading">by Kris Buytaert - 10 May, 2019</h2><br><a href = "https://www.devopsdays.org/blog/2018/10/05/devopsdays-101-pt-br/"><h1 class = "footer-heading">devopsdays 101 (pt-br)</h1></a><h2 class="footer-heading">by Marco Antonio Martins Junior (Somatório) and Rafael Gomes (Gomex) - 05 October, 2018</h2><br><a href="https://www.devopsdays.org/blog/index.xml">Blog Feed</a>
+  </div>
+  <div class="col-md-6 col-lg-3 footer-nav-col">
+      <h3 class="footer-nav">CFP OPEN</h3><a href = "/events/2021-blumenau" class = "footer-content">Blumenau</a><br /><a href = "/events/2021-portland" class = "footer-content">Portland</a><br /><a href = "/events/2021-houston" class = "footer-content">Houston</a><br /><a href = "/events/2021-cairo" class = "footer-content">Cairo</a><br /><a href = "/events/2021-nashville" class = "footer-content">Nashville</a><br />
+      <br /><a href="https://devopsdays.org/speaking">Propose a talk</a> at an event near you!<br />
+  </div>
+  <div class="col-md-6 col-lg-3 footer-nav-col">
+    <h3 class="footer-nav">About</h3>
+    devopsdays is a worldwide community conference series for anyone interested in IT improvement.<br /><br />
+    <a href="/about/" class = "footer-content">About devopsdays</a><br />
+    <a href="/privacy/" class = "footer-content">Privacy Policy</a><br />
+    <a href="/conduct/" class = "footer-content">Code of Conduct</a>
+    <br />
+    <br />
+    <a href="https://www.netlify.com">
+      <img src="/img/netlify-light.png" alt="Deploys by Netlify">
+    </a>
+</div>
+    </div>
+  </div>
+
+  </div>
+
+</nav>
+<script>
+
+
+
+$(document).ready(function () {
+  
+
+  $("#share").jsSocials({
+      shares: ["email", {share: "twitter", via: 'DevOpsDaysMad'}, "facebook", "linkedin"],
+      text: 'devopsdays Madrid - 2020',
+      showLabel: false,
+      showCount: false
+  });
+});
+
+</script>
+</body>
+</html>
