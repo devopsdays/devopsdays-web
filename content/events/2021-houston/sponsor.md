@@ -39,7 +39,7 @@ Please see our <a href="https://assets.devopsdays.org/events/2021/houston/devops
 	<th>Bronze<br/>&nbsp;</th>
 	<th>Silver<br/>(Limit 4 <sup>&dagger;</sup>)</th>
 	<th>Gold<br/>(Limit 15 <sup>&dagger;</sup>)</th>
-	<th>Platinum<br/>(Limit 5)</th>
+	<th>Platinum<br/>(Limit 4)</th>
 </tr>
 <tr>
 	<th style="text-align:left">Pricing</th>
@@ -59,14 +59,17 @@ Please see our <a href="https://assets.devopsdays.org/events/2021/houston/devops
 </form></center>
 	</th>
 	<th valign="top"><center>
-	<span class="btn btn-warning btn-sm">Almost Sold Out</span> <br/>
+	<span class="btn btn-warning btn-sm">1 available</span> <br/>
 	Email us if interested
 	</center></th>
 	<th valign="top"><center>
 	<span class="btn btn-danger btn-sm">Sold Out</span> <br/>
 	</center></th>
 	<th valign="top"><center>
-	<span class="btn btn-danger btn-sm">Sold Out</span> <br/>
+	<center>
+	<span class="btn btn-warning btn-sm">1 available</span> <br/>
+	Email us if interested
+	</center>
 	</center></th>
 </tr>
 <tr>
