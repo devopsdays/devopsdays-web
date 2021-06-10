@@ -40,8 +40,8 @@ Description = "DevOpsDays Blumenau 2021"
   <div class = "col-md-2">
     <strong>Proposta</strong>
   </div>
-  <div class = "col-md-8">
-    {{< event_link page="propose" text="Envie sua palestra!" >}}
+  <div class = "col-md-8">    
+    <a href="https://www.papercall.io/devopsdaysblumenau">Envie sua palestra!</a></br>
   </div>
 </div>
 
