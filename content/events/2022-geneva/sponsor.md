@@ -1,7 +1,7 @@
 +++
 Title = "Sponsor"
 Type = "event"
-Description = "Sponsor DevOpsDays Geneva 2020"
+Description = "Sponsor DevOpsDays Geneva 2022"
 +++
 <style type="text/css">
  div.sponsor-row img.img-fluid{
