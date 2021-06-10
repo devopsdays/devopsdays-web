@@ -7,7 +7,7 @@ Description = "Propose a talk for devopsdays Minneapolis 2021"
 
 <hr>
 
-We are currently accepting proposals for 5-minute Ignites and 30-minute talks, via the form below.
+Our 30min speakers have been announced; the rest of our program will follow.
 <ol>
   <li><strong><em>A 30-minute talk</em></strong> presented during the conference.</li>
   <li><strong><em>An Ignite talk</em></strong> presented during the <a href="/pages/ignite-talks-format">Ignite sessions</a>. These are 5 minutes slots with slides changing every 15 seconds (20 slides total).</li>
@@ -28,4 +28,3 @@ Choosing talks is part art, part science; here are some factors we consider when
 
 <hr>
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScV4TnQ-ifwxDakFw22atYILqWxLhvHyoM8Q_KFKbNS7sZXTw/viewform?embedded=true" width="760" height="2500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>

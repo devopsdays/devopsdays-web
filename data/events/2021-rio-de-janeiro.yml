@@ -109,7 +109,11 @@ sponsors:
     level: community
   - id: 4linux
     level: community
+  - id: punkdodevops
+    level: community
   - id: globotv
+    level: gold
+  - id: f5-nginx
     level: gold
   - id: orama
     level: gold
@@ -119,8 +123,12 @@ sponsors:
     level: gold
   - id: elastic
     level: silver
-  - id: zedelivery
+  - id: scout
     level: silver
+  - id: zedelivery
+    level: gold
+  - id: thoughtworks-services
+    level: gold
   - id: olist
     level: silver
 
@@ -139,6 +147,14 @@ sponsor_levels:
     label: Community
 
 program:
+
+  - title: "monique-oliveira"
+    type: talk
+    date: "2021-06-08"
+    start_time: "18:45"
+    end_time: "19:00"
+    background_color: "#AED6F1"
+
   - title: "Abertura"
     type: custom
     date: "2021-06-08"
@@ -191,6 +207,7 @@ program:
     end_time: "21:40"
 
 #9
+
   - title: "Abertura"
     type: custom
     date: "2021-06-09"
@@ -237,6 +254,14 @@ program:
     end_time: "21:40"
 
 #10
+
+  - title: "monique-oliveira"
+    type: talk
+    date: "2021-06-10"
+    start_time: "18:45"
+    end_time: "19:00"
+    background_color: "#AED6F1"
+
   - title: "Abertura"
     type: custom
     date: "2021-06-10"

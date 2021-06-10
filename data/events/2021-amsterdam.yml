@@ -99,6 +99,8 @@ sponsors:
     level: gold
   - id: microsoft
     level: gold
+  - id: vmware-tanzu
+    level: gold
   # Silver
   - id: fullstaq
     level: silver
@@ -110,10 +112,18 @@ sponsors:
     level: silver
   - id: redkubes
     level: silver
+  - id: albert-heijn
+    level: silver
+  - id: contrast_security
+    level: silver
   # Bronze
   - id: technative
     level: bronze
   - id: working-spirit
+    level: bronze
+  - id: s0l1dheroes
+    level: bronze
+  - id: stream
     level: bronze
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -128,7 +138,7 @@ sponsor_levels:
     max: 3
   - id: silver
     label: Silver
-    max: 6
+    max: 5
   - id: bronze
     label: Bronze
-    max: 9
+    max: 4

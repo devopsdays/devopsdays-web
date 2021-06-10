@@ -18,7 +18,6 @@ enddate:  2021-09-10T22:00:00-03:00 # The end date of your event. Leave blank if
 cfp_date_start:  2021-05-22T12:00:00-03:00 # start accepting talk proposals.
 cfp_date_end:  2021-09-13T23:59:00-03:00 # close your call for proposals.
 cfp_date_announce:  2021-09-27T12:00:00-03:00 # inform proposers of status
-
 cfp_open: "true"
 cfp_link: "https://www.papercall.io/devopsdaysblumenau" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
@@ -81,6 +80,7 @@ team_members: # Name is the only required field for team members.
     linkedin: https://www.linkedin.com/in/ellyson-henrique-cesar-1b557a34/
     email: ellyson.cesar@gmail.com
     image: "ellyson.jpeg"
+    image: "ellyson.jpg"
   - name: "Pery Lemke"
     email: "pery.lemke@gmail.com"
     twitter: "perylemke"
