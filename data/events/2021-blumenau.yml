@@ -47,7 +47,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     url: /events/2021-blumenau/registration
  # - name: program
  # - name: speakers
-  - name: Propose
+  - name: Propostas
     url: https://www.papercall.io/devopsdaysblumenau
   - name: Contato
     icon: "envelope-o"
