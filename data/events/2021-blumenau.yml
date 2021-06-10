@@ -88,11 +88,7 @@ team_members: # Name is the only required field for team members.
     github: "perylemke"
     linkedin: "https://www.linkedin.com/in/perylemke"
     website: "http://www.sudocast.com.br"
-    image: "pery-lemke.jpg"
-  - name: "Matheus Boing"    
-    employer: "Linx Sistemas"
-    linkedin: "https://www.linkedin.com/in/matheusboing"
-    image: "matheus-boing.jpg"
+    image: "pery-lemke.jpg"  
   
 
 organizer_email: "devopsdaysblu@gmail.com" # Put your organizer email address here
