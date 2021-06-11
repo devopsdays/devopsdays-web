@@ -1,6 +1,7 @@
 +++
 Title = "Mine Heck" 
-type = "speaker" 
+type = "speaker"
+image = "mine-heck.jpg"
 linktitle = "mine-heck" 
 +++
 
