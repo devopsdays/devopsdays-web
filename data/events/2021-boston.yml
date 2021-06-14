@@ -122,7 +122,5 @@ sponsor_levels:
     label: Community
   - id: alacarte
     label: A la carte
-  - id: startup
-    label: Start-up alley
   - id: academic
     label: Academic
