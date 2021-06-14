@@ -379,6 +379,6 @@ program:
     date: 2021-07-21T23:59:59-05:00
     start_time: "20:00"
     end_time: "21:00"
-    custom_url: "https://twitch.tv/devopspartygames
+    custom_url: "https://twitch.tv/devopspartygames"
 
 
