@@ -259,7 +259,7 @@ program:
 
   - title: "Trivia Mafia: devopsdays"
     type: custom
-    comments: "https://www.triviamafia.com/"
+    custom_url: "https://www.triviamafia.com/"
     date: 2021-07-20T00:00:00-05:00
     start_time: "15:00"
     end_time: "17:00"
@@ -336,7 +336,7 @@ program:
     end_time: "13:30"
 
   - title: "Attendee-Suggested Breakouts - Open Space Proposals"
-    type: custom
+    type: open-space
     comments: "https://devopsdays.org/open-space-format/"
     date: 2021-07-21T23:59:59-05:00
     start_time: "13:30"
@@ -349,19 +349,19 @@ program:
     end_time: "15:00"
 
   - title: "Attendee-Suggested Breakouts - Open Space #1"
-    type: custom
+    type: open-space
     date: 2021-07-21T23:59:59-05:00
     start_time: "15:10"
     end_time: "15:40"
 
   - title: "Attendee-Suggested Breakouts - Open Space #2"
-    type: custom
+    type: open-space
     date: 2021-07-21T23:59:59-05:00
     start_time: "15:50"
     end_time: "16:20"
 
   - title: "Attendee-Suggested Breakouts - Open Space #3"
-    type: custom
+    type: open-space
     date: 2021-07-21T23:59:59-05:00
     start_time: "16:30"
     end_time: "17:00"
