@@ -23,7 +23,7 @@ cfp_link:  https://forms.gle/s25LFG22eXvq5xBNA #if you have a custom link for su
 registration_date_start:  2021-01-31T23:59:00-03:00 # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: 2021-07-09T23:59:00-03:00 # close registration. Leave blank if registration is not open yet.
 
-registration_closed: #"true" #set this to true if you need to manually close registration before your registration end date
+registration_closed: "true" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://www.sympla.com.br/devops-days-porto-alegre-2021__1121283" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 masthead_background: "banner-devopsdays-poa-2021.jpg"
@@ -37,11 +37,11 @@ location_address:  #Optional - use the street address of your venue. This will s
 
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+#  - name: propose
 #  - name: location
   - name: registration
-#  - name: program
-#  - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -138,6 +138,12 @@ sponsors:
     level: bronze
   - id: interop
     level: bronze
+  - id: olist
+    level: bronze
+    url: "https://olist.com/"
+  - id: timbira
+    level: bronze
+    url: "https://www.timbira.com.br/"
   - id: globo
     level: bronze
     url: "https://talentos.globo.com"
@@ -173,3 +179,103 @@ sponsor_levels:
     label: courses
   - id: community
     label: Community
+
+program:
+  - title: "Abertura"
+    type: custom
+    date: 2021-07-10
+    start_time: "09:00"
+    end_time: "09:30"
+  - title: "barbara"
+    type: talk
+    date: 2021-07-10
+    start_time: "09:40"
+    end_time: "10:20"
+  - title: "deise-oliveira"
+    type: talk
+    date: 2021-07-10
+    start_time: "10:25"
+    end_time: "10:45"
+  - title: "marcelo"
+    type: talk
+    date: 2021-07-10
+    start_time: "10:50"
+    end_time: "11:10"
+  - title: "Intervalo"
+    type: custom
+    date: 2021-07-10
+    start_time: "11:10"
+    end_time: "11:15"
+  - title: "wellington-silva"
+    type: talk
+    date: 2021-07-10
+    start_time: "11:20"
+    end_time: "11:40"
+  - title: "fabrizio"
+    type: talk
+    date: 2021-07-10
+    start_time: "11:45"
+    end_time: "12:05"
+  - title: "Almoço"
+    type: custom
+    date: 2021-07-10
+    start_time: "12:05"
+    end_time: "13:30"
+  - title: "Painel"
+    type: ignite
+    date: 2021-07-10
+    start_time: "13:35"
+    end_time: "14:25"
+  - title: "jeferson"
+    type: talk
+    date: 2021-07-10
+    start_time: "14:30"
+    end_time: "15:10"
+  - title: "daniela"
+    type: talk
+    date: 2021-07-10
+    start_time: "15:15"
+    end_time: "15:35"
+  - title: "bruno"
+    type: talk
+    date: 2021-07-10
+    start_time: "15:40"
+    end_time: "16:00"
+  - title: "Intervalo"
+    type: custom
+    date: 2021-07-10
+    start_time: "16:00"
+    end_time: "16:10"
+  - title: "camilla"
+    type: talk
+    date: 2021-07-10
+    start_time: "16:15"
+    end_time: "16:35"
+  - title: "antonio"
+    type: talk
+    date: 2021-07-10
+    start_time: "16:40"
+    end_time: "17:00"
+  - title: "Open Spaces"
+    type: open-space
+    date: 2021-07-10
+    start_time: "17:00"
+    end_time: "18:00"
+    background_color: "#b7da5b"
+  - title: "Encerramento e Sorteios"
+    type: custom
+    date: 2021-07-10
+    start_time: "18:00"
+    end_time: "18:30"
+
+ignites:
+  - title: "laury-bueno"
+    date: "2021-07-10"
+  - title: "joao-brito"
+    date: "2021-07-10"
+  - title: "roberto-alves"
+    date: "2021-07-10"
+  - title: "bruno-gurgel"
+    date: "2021-07-10"
+  - title: "carlos-nogueira"
+    date: "2021-07-10"
