@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Bring Your Gifts: Building Bridges to Our Local Communities"
+Title = "Bring Your Gifts: Building Bridges to Our Local Communities (Keynote)"
 Type = "talk"
 Speakers = ["ian-coldwater"]
 +++
