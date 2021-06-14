@@ -12,7 +12,7 @@ Additional à la carte sponsorships are available:
 
 <ul>
 <li>Live captioning - ($6000) - 1 slot available - your logo on captioning screens during breaks and your logo with credit as captioning sponsor in the completed videos; high visibility.
-<li>Live stream - ($6000) - 1 slot available - your logo on live stream and your logo with credit as live stream sponsor in the completed videos; high visibility.
+<strike> <li>Live stream - ($6000) - 1 slot available - your logo on live stream and your logo with credit as live stream sponsor in the completed videos; high visibility.</strike>
 <li>Day 1 coffee break ($5000) - 1 slot available - signage by the coffee displays with your logo throughout the day
 <li>Day 1 evening event ($1000) - multiple slots available - logo on evening event stream & mention by event host
 <li>Day 2 coffee break ($3000) - 1 slot available - signage by the coffee displays with your logo (morning only)
