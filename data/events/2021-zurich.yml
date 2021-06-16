@@ -198,6 +198,8 @@ sponsors:
     level: gold
   - id: basis
     level: silver
+    id: wehackpurple
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
