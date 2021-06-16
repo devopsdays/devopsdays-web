@@ -1,7 +1,7 @@
 +++
 Title = "Nemanja Jovic"
 Twitter = ""
-image = ""
+image = "Nemanja_Jovic.jpeg"
 type = "speaker"
 linktitle = "nemanja-jovic"
 

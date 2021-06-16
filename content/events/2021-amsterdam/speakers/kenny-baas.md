@@ -1,6 +1,6 @@
 +++
 Title = "Kenny Baas"
-Twitter = ""
+Twitter = "kenny_baas"
 image = "Kenny_Baas.jpg"
 type = "speaker"
 linktitle = "kenny-baas"

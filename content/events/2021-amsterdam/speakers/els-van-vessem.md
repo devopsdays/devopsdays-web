@@ -1,7 +1,7 @@
 +++
 Title = "Els van Vessem"
 Twitter = "geekingthething"
-image = ""
+image = "Els_van_Vessem.jpg"
 type = "speaker"
 linktitle = "els-van-vessem"
 

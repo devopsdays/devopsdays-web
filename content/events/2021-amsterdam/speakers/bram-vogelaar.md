@@ -1,7 +1,7 @@
 +++
 Title = "Bram Vogelaar"
 Twitter = "attachmentgenie"
-image = ""
+image = "Bram_Vogelaar.jpg"
 type = "speaker"
 linktitle = "bram-vogelaar"
 

@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "How cognitive biases and ranking can foster an ineffective DevOps culture"
 Type = "talk"
-Speakers = ["kenny-baas"]
+Speakers = ["kenny-baas", "evelyn-van-kelle"]
 +++
 
 The effectiveness of working in a DevOps way and be able to progressively deliver software and gain insights comes from having a diverse group of people who, together, have a lot of wisdom and knowledge. You would expect that all this knowledge and all the feedback from progressively delivery software will be put to use co-creating and to design a model. In reality, we don’t actually listen to all the available input and perspectives due to cognitive biases and ranking. Because not everything that needs to be said has been said, we will end up with building sub-optimal software. Even worse, people don’t feel part of the solution and don’t commit to it. Good software needs all the insights and perception. If you are not aware, cognitive biases and ranking kills those insights and wisdom and kills the effectiveness of your DevOps culture!
