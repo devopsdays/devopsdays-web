@@ -23,14 +23,14 @@ If you are being harassed, notice that someone else is being harassed, or have a
 Conference staff can be identified with a separate role in the online forum (organizer or moderator). 
 Conference staff will be happy to help participants contact local law enforcement or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
 
-- Floor Drees (organizer), she/her: floordrees@gmail.com | FloorD on Telegram 
+- Floor Drees (organizer), she/her: floordrees@gmail.com
 - Sheela Nistala (organizer), she/her: sheela.nistala@gmail.com 
 - Sarah Gruneisen (organizer), she/her: sarah@avagasso.com | sgruneisen on Telegram
 - Peter Nijenhuis (organizer), he/him: pp.nijenhuis@gmail.com | Peter_Nijenhuis on Telegram
 
 In case you aren't confident the matter can be handled with one of the organizers, feel free to contact one of the external and independent persons.
 
-- Don Goodman-Wilson (external, independent), he/him: don@goodman-wilson.com | DEGoodmanWilson on Telegram
+- Rayta van Rijswijk (external, independent), she/her: me@rayta.nl
 - Mark Heistek (external, independent), he/him: mark@neeedle.nl
 
 We expect participants to follow these rules during the conference in all conference-related media, including Slack, YouTube, Twitter, or any other online presence.
