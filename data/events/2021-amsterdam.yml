@@ -171,71 +171,70 @@ program:
     start_time: "10:45"
     end_time: "11:10"
 
-  - title: "april-edwards"
-    type: talk
-    date: 2021-06-29T00:00:00+02:00
-    start_time: "11:10"
-    end_time: "11:50"
-
-  - title: "henk-van-der-schuur"
-    type: talk
-    date: 2021-06-29T00:00:00+02:00
-    start_time: "11:50"
-    end_time: "12:15"
-
-  - title: "Lunch"
-    type: custom
-    date: 2021-06-29T00:00:00+02:00
-    start_time: "12:15"
-    end_time: "12:40"
-
   - title: "Open spaces introduction and explanation"
     type: open-space
     date: 2021-06-29T00:00:00+02:00
-    start_time: "12:40"
-    end_time: "13:05"
+    start_time: "11:10"
+    end_time: "11:50"
     backgroud_color: "#ffb566"
 
-  - title: "Open Space slot one"
+  - title: "Open Spaces (round 1) and social hangout (plus sponsor open spaces)"
     type: open-space
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "11:50"
+    end_time: "12:15"
+    backgroud_color: "#ffb566"
+
+  - title: "Open Spaces (round 2) and social hangout"
+    type: open-space
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "12:15"
+    end_time: "12:40"
+    backgroud_color: "#ffb566"
+
+  - title: "Lunch Kahoot! with audience interaction, hosted by emcees"
+    type: custom
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "12:40"
+    end_time: "13:05"
+
+  - title: "quintessence-anx"
+    type: talk
     date: 2021-06-29T00:00:00+02:00
     start_time: "13:05"
     end_time: "13:10"
+
+  - title: "Sponsor Pitches"
+    type: custom
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "13:10"
+    end_time: "13:35"
+
+  - title: "Open Spaces (round 3) and social hangout (plus sponsor open spaces)"
+    type: open-space
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "13:10"
+    end_time: "13:35"
     backgroud_color: "#ffb566"
 
-  - title: "edward-pearson"
-    type: workshop
-    date: 2021-06-29T00:00:00+02:00
-    start_time: "13:10"
-    end_time: "13:35"
-    comments: "Business Track"
-
-  - title: "melanie-rieback"
-    type: talk
-    date: 2021-06-29T00:00:00+02:00
-    start_time: "13:10"
-    end_time: "13:35"
-    comments: "Security Track"
-
-  - title: "break"
-    type: custom
+  - title: "Open Spaces (round 4) and social hangout"
+    type: open-space
     date: 2021-06-29T00:00:00+02:00
     start_time: "13:35"
     end_time: "14:00"
+    backgroud_color: "#ffb566"
 
-  - title: "Open Space slot two"
-    type: open-space
+  - title: "dotan-horovits"
+    type: workshop
     date: 2021-06-29T00:00:00+02:00
     start_time: "14:00"
     end_time: "14:10"
-    backgroud_color: "#ffb566"
 
-  - title: "dave-van-herpen"
+  - title: "mark-smalley"
     type: workshop
     date: 2021-06-29T00:00:00+02:00
     start_time: "14:15"
     end_time: "14:25"
-    comments: "Business Track"
 
   - title: "irenne-zbarsky"
     type: talk
