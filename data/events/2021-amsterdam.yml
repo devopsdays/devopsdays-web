@@ -230,56 +230,59 @@ program:
     start_time: "14:00"
     end_time: "14:10"
 
-  - title: "mark-smalley"
+  - title: "piet-van-dongen"
     type: workshop
     date: 2021-06-29T00:00:00+02:00
     start_time: "14:15"
     end_time: "14:25"
 
-  - title: "irenne-zbarsky"
+  - title: "noaa-barki"
     type: talk
     date: 2021-06-29T00:00:00+02:00
     start_time: "14:25"
     end_time: "14:50"
-    comments: "Security Track"
 
-  - title: "Open Space slot three"
-    type: open-space
+  - title: "Sponsor Pitches"
+    type: custom
     date: 2021-06-29T00:00:00+02:00
     start_time: "14:50"
     end_time: "14:55"
-    backgroud_color: "#ffb566"
 
-  - title: "lian-li"
-    type: workshop
+  - title: "Open Spaces (round 5) and social hangout (plus sponsor open spaces)"
+    type: open-space
     date: 2021-06-29T00:00:00+02:00
     start_time: "14:55"
     end_time: "15:20"
-    comments: "Business Track"
+    backgroud_color: "#ffb566"
 
-  - title: "sarah-polan"
-    type: talk
+  - title: "Open Spaces (round 6) and social hangout"
+    type: open-space
     date: 2021-06-29T00:00:00+02:00
     start_time: "15:20"
     end_time: "15:45"
-    comments: "Security Track"
+    backgroud_color: "#ffb566"
 
-  - title: "break"
-    type: custom
+  - title: "bram-vogelaar"
+    type: talk
     date: 2021-06-29T00:00:00+02:00
     start_time: "15:45"
     end_time: "16:10"
 
-  - title: "Open Space slot four"
-    type: open-space
+  - title: "Interactive Virtual Bingo with audience, hosted by emcees, virtual beers"
+    type: custom
     date: 2021-06-29T00:00:00+02:00
     start_time: "16:10"
     end_time: "17:10"
-    backgroud_color: "#ffb566"
-    comments: "Business Track"
 
-  - title: "joao-rosa"
-    type: workshop
+  - title: "Escape Room"
+    type: custom
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "16:10"
+    end_time: "17:10"
+    comments: "Track 2"
+
+  - title: "Closing"
+    type: custom
     date: 2021-06-29T00:00:00+02:00
     start_time: "17:10"
     end_time: "17:15"
