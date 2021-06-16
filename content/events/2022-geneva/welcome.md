@@ -103,6 +103,14 @@ The speakers as well as the DevOpsDays Geneva sponsors will demonstrate not only
 </div>
 <div class = "row">
   <div class = "col-md-2">
+    <strong>Propose</strong>
+  </div>
+  <div class = "col-md-8">  
+    <a href='/events/2022-geneva/propose/'>Submit a proposal</a>
+  </div>
+</div>
+<div class = "row">
+  <div class = "col-md-2">
     <strong>Newsletter</strong>
   </div>
   <div class = "col-md-8">
