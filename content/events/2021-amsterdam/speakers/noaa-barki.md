@@ -1,7 +1,7 @@
 +++
 Title = "Noaa Barki"
 Twitter = "barkinoaa"
-image = ""
+image = "Noaa_Barki.jpeg"
 type = "speaker"
 linktitle = "noaa-barki"
 

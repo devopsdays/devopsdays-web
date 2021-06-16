@@ -1,7 +1,7 @@
 +++
 Title = "Julie Gunderson"
 Twitter = "Julie_Gund"
-image = ""
+image = "Julie_Gunderson.png"
 type = "speaker"
 linktitle = "julie-gunderson"
 
