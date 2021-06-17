@@ -162,6 +162,8 @@ sponsors:
     level: silver
   - id: chef
     level: gold
+  - id: dynatrace
+    level: gold
 
 
 
