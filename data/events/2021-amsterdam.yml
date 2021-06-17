@@ -191,6 +191,13 @@ program:
     start_time: "12:15"
     end_time: "12:40"
     backgroud_color: "#ffb566"
+ 
+  - title: "stacy-cashmore"
+    type: talk
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "12:15"
+    end_time: "12:40"
+    comments: "Track 2"
 
   - title: "Lunch Kahoot! with audience interaction, hosted by emcees"
     type: custom
@@ -203,6 +210,20 @@ program:
     date: 2021-06-29T00:00:00+02:00
     start_time: "13:05"
     end_time: "13:10"
+ 
+  - title: "jj-asghar"
+    type: talk
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "13:05"
+    end_time: "13:10"
+    comments: "Track 2"
+  
+  - title: "john-willis"
+    type: talk
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "13:05"
+    end_time: "13:10"
+    comments: "Track 3"
 
   - title: "Sponsor Pitches"
     type: custom
@@ -224,16 +245,43 @@ program:
     end_time: "14:00"
     backgroud_color: "#ffb566"
 
+  - title: "michiel-rook"
+    type: talk
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "13:35"
+    end_time: "14:00"
+    comments: "Track 2"
+
   - title: "dotan-horovits"
     type: workshop
     date: 2021-06-29T00:00:00+02:00
     start_time: "14:00"
     end_time: "14:10"
+  
+  - title: "jason-yee"
+    type: workshop
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "14:00"
+    end_time: "14:10"
+    comments: "Track 2"
 
   - title: "piet-van-dongen"
     type: workshop
     date: 2021-06-29T00:00:00+02:00
     start_time: "14:15"
+    end_time: "14:25"
+  
+  - title: "mark-smalley"
+    type: workshop
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "14:15"
+    end_time: "14:25"
+    comments: "Track 2"
+
+  - title: "anders-eknert"
+    type: workshop
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "14:00"
     end_time: "14:25"
 
   - title: "noaa-barki"
@@ -241,6 +289,20 @@ program:
     date: 2021-06-29T00:00:00+02:00
     start_time: "14:25"
     end_time: "14:50"
+ 
+  - title: "dan-lines"
+    type: talk
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "14:25"
+    end_time: "14:50"
+    comments: "Track 2"
+    
+  - title: "yishai-beeri"
+    type: talk
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "14:25"
+    end_time: "14:50"
+    comments: "Track 3"
 
   - title: "Sponsor Pitches"
     type: custom
@@ -261,6 +323,13 @@ program:
     start_time: "15:20"
     end_time: "15:45"
     backgroud_color: "#ffb566"
+  
+  - title: "sabine-wojcieszak"
+    type: talk
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "15:20"
+    end_time: "15:45"
+    comments: "Track 2"
 
   - title: "bram-vogelaar"
     type: talk
