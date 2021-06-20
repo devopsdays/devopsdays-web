@@ -80,6 +80,15 @@ Description = "DevOpsDays Zürich 2021"
   </div>
 </div> 
 
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>COVID-19</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_link page="covid" text="All information about the Covid-19 measures" >}}
+  </div>
+</div> 
+
 <!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
@@ -121,7 +130,7 @@ Description = "DevOpsDays Zürich 2021"
     <strong>Homepage</strong>
   </div>
   <div class = "col-md-8">
-    <a href="https://landing.devopsdays.ch/">DevOpsDays.ch</a>
+    <a href="https://wwww.devopsdays.ch/">DevOpsDays.ch</a>
   </div>
 </div>
 

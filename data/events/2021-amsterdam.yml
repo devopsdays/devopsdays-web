@@ -4,27 +4,28 @@ city: "Amsterdam" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsams" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "Devopsdays is coming to Amsterdam!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+masthead_background: "skyline-ams.jpg"
 
 # All dates are in unquoted 2021-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2021-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: 2021-06-29T09:00:00+02:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2021-06-29T18:00:00+02:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2021-06-29T10:00:00+02:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2021-06-29T15:15:00+02:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: # start accepting talk proposals.
-cfp_date_end: # close your call for proposals.
+cfp_date_start: 2021-03-25T09:00:00+02:00 # start accepting talk proposals.
+cfp_date_end: 2021-05-31T09:00:00+02:00 # close your call for proposals.
 cfp_date_announce: # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://sessionize.com/devopsdays-amsterdam-2021/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: 2021-03-25T09:00:00+02:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2021-06-29T10:00:00+02:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://live.remo.co/e/devopsdays-online-2021/register" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -34,12 +35,14 @@ location: "Amsterdam" # Defaults to city, but you can make it the venue name.
 location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  # - name: propose
+  - name: propose
+    url: https://sessionize.com/devopsdays-amsterdam-2021/
   # - name: location
-  # - name: registration
-  # - name: program
+  - name: registration
+    url: https://github.com/devopsdays/devopsdays-web/pull/10383
+  - name: program
   # - name: speakers
-  # - name: sponsor
+  - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
@@ -89,12 +92,42 @@ organizer_email: "amsterdam@devopsdays.org" # Put your organizer email address h
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
-# sponsors:
-#   - id: samplesponsorname
-#     level: gold
-#   #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-#   - id: arresteddevops
-#     level: community
+sponsors:
+  # Gold
+  - id: schubergphilis
+    level: gold
+  - id: helecloud
+    level: gold
+  - id: microsoft
+    level: gold
+  - id: vmware-tanzu
+    level: gold
+  # Silver
+  - id: fullstaq
+    level: silver
+  - id: kumina
+    level: silver
+  - id: tomtom
+    level: silver
+  - id: bol
+    level: silver
+  - id: redkubes
+    level: silver
+  - id: albert-heijn
+    level: silver
+  - id: contrast_security
+    level: silver
+  - id: splunk
+    level: silver
+  # Bronze
+  - id: technative
+    level: bronze
+  - id: working-spirit
+    level: bronze
+  - id: s0l1dheroes
+    level: bronze
+  - id: stream
+    level: bronze
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -103,13 +136,222 @@ sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  # - id: gold
-  #   label: Gold
-  # #    max: 10
-  # - id: silver
-  #   label: Silver
-  #   max: 0 # This is the same as omitting the max limit.
-  # - id: bronze
-  #   label: Bronze
-  # - id: community
-  #   label: Community
+  - id: gold
+    label: Gold
+    max: 3
+  - id: silver
+    label: Silver
+    max: 5
+  - id: bronze
+    label: Bronze
+    max: 4
+
+program:
+  - title: "Emcee opening"
+    type: custom
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "10:00"
+    end_time: "10:15"
+
+  - title: "kenny-baas"
+    type: talk
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "10:15"
+    end_time: "10:40"
+
+  - title: "Sponsor Pitches"
+    type: custom
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "10:40"
+    end_time: "10:45"
+
+  - title: "rain-leander"
+    type: talk
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "10:45"
+    end_time: "11:10"
+
+  - title: "Open spaces introduction and explanation"
+    type: open-space
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "11:10"
+    end_time: "11:50"
+    backgroud_color: "#ffb566"
+
+  - title: "Open Spaces (round 1) and social hangout (plus sponsor open spaces)"
+    type: open-space
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "11:50"
+    end_time: "12:15"
+    backgroud_color: "#ffb566"
+
+  - title: "Open Spaces (round 2) and social hangout"
+    type: open-space
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "12:15"
+    end_time: "12:40"
+    backgroud_color: "#ffb566"
+ 
+  - title: "stacy-cashmore"
+    type: talk
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "12:15"
+    end_time: "12:40"
+    comments: "Track 2"
+
+  - title: "Lunch Kahoot! with audience interaction, hosted by emcees"
+    type: custom
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "12:40"
+    end_time: "13:05"
+
+  - title: "quintessence-anx"
+    type: talk
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "13:05"
+    end_time: "13:10"
+ 
+  - title: "jj-asghar"
+    type: talk
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "13:05"
+    end_time: "13:10"
+    comments: "Track 2"
+  
+  - title: "john-willis"
+    type: talk
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "13:05"
+    end_time: "13:10"
+    comments: "Track 3"
+
+  - title: "Sponsor Pitches"
+    type: custom
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "13:10"
+    end_time: "13:35"
+
+  - title: "Open Spaces (round 3) and social hangout (plus sponsor open spaces)"
+    type: open-space
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "13:10"
+    end_time: "13:35"
+    backgroud_color: "#ffb566"
+
+  - title: "Open Spaces (round 4) and social hangout"
+    type: open-space
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "13:35"
+    end_time: "14:00"
+    backgroud_color: "#ffb566"
+
+  - title: "michiel-rook"
+    type: talk
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "13:35"
+    end_time: "14:00"
+    comments: "Track 2"
+
+  - title: "dotan-horovits"
+    type: workshop
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "14:00"
+    end_time: "14:10"
+  
+  - title: "jason-yee"
+    type: workshop
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "14:00"
+    end_time: "14:10"
+    comments: "Track 2"
+
+  - title: "piet-van-dongen"
+    type: workshop
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "14:15"
+    end_time: "14:25"
+  
+  - title: "mark-smalley"
+    type: workshop
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "14:15"
+    end_time: "14:25"
+    comments: "Track 2"
+
+  - title: "anders-eknert"
+    type: workshop
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "14:00"
+    end_time: "14:25"
+
+  - title: "noaa-barki"
+    type: talk
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "14:25"
+    end_time: "14:50"
+ 
+  - title: "dan-lines"
+    type: talk
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "14:25"
+    end_time: "14:50"
+    comments: "Track 2"
+    
+  - title: "yishai-beeri"
+    type: talk
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "14:25"
+    end_time: "14:50"
+    comments: "Track 3"
+
+  - title: "Sponsor Pitches"
+    type: custom
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "14:50"
+    end_time: "14:55"
+
+  - title: "Open Spaces (round 5) and social hangout (plus sponsor open spaces)"
+    type: open-space
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "14:55"
+    end_time: "15:20"
+    backgroud_color: "#ffb566"
+
+  - title: "Open Spaces (round 6) and social hangout"
+    type: open-space
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "15:20"
+    end_time: "15:45"
+    backgroud_color: "#ffb566"
+  
+  - title: "sabine-wojcieszak"
+    type: talk
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "15:20"
+    end_time: "15:45"
+    comments: "Track 2"
+
+  - title: "bram-vogelaar"
+    type: talk
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "15:45"
+    end_time: "16:10"
+
+  - title: "Interactive Virtual Bingo with audience, hosted by emcees, virtual beers"
+    type: custom
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "16:10"
+    end_time: "17:10"
+
+  - title: "Escape Room"
+    type: custom
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "16:10"
+    end_time: "17:10"
+    comments: "Track 2"
+
+  - title: "Closing"
+    type: custom
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "17:10"
+    end_time: "17:15"

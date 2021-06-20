@@ -6,8 +6,8 @@ description: "DevOpsDays is returning to Boston!" # Edit this to suit your prefe
 ga_tracking_id: "UA-137417319-4" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2021-MM-DDTHH:MM:SS+TZ:TZ, like this:
-#   variable: 2019-01-04T00:00:00+02:00
-#   variable: 2019-01-05T23:59:59+02:00
+#   variable: 2021-01-04T00:00:00+02:00
+#   variable: 2021-01-05T23:59:59+02:00
 # Note: we allow 2021-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
 startdate: "2021-09-27T09:00:00-04:00" # The start date of your event. Leave blank if you don't have a venue reserved yet.
@@ -37,8 +37,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: propose
  # - name: location
  # - name: registration
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -102,6 +102,12 @@ organizer_email: "boston@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: styra
+    level: platinum
+  - id: solo
+    level: platinum
+  - id: vmware-tanzu
+    level: platinum
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -116,7 +122,80 @@ sponsor_levels:
     label: Community
   - id: alacarte
     label: A la carte
-  - id: startup
-    label: Start-up alley
   - id: academic
     label: Academic
+
+program:
+  # Day 1
+  - title: "Introduction"
+    type: custom
+    date: 2021-09-27
+    start_time: "09:00"
+    end_time: "09:20"
+  - title: "laura-santamaria"
+    type: talk
+    date: 2021-09-27
+    start_time: "09:20"
+    end_time: "09:50"
+  - title: "eric-smalling"
+    type: talk
+    date: 2021-09-27
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "shelby-spees"
+    type: talk
+    date: 2021-09-27
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "mofizur-rahman"
+    type: talk
+    date: 2021-09-27
+    start_time: "11:05"
+    end_time: "11:35"
+  - title: "angel-rivera"
+    type: talk
+    date: 2021-09-27
+    start_time: "11:40"
+    end_time: "12:10"
+  - title: "Day 1 Wrap-Up"
+    type: custom
+    date: 2021-09-27
+    start_time: "12:15"
+    end_time: "12:30"
+
+  # Day 2
+  - title: "Introduction"
+    type: custom
+    date: 2021-09-28
+    start_time: "09:00"
+    end_time: "09:20"
+  - title: "michael-miles"
+    type: talk
+    date: 2021-09-28
+    start_time: "09:20"
+    end_time: "09:50"
+  - title: "ben-ellerby"
+    type: talk
+    date: 2021-09-28
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "chris-riley"
+    type: talk
+    date: 2021-09-28
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "anurag-gupta"
+    type: talk
+    date: 2021-09-28
+    start_time: "11:05"
+    end_time: "11:35"
+  - title: "josh-stella"
+    type: talk
+    date: 2021-09-28
+    start_time: "11:40"
+    end_time: "12:10"
+  - title: "Day 2 Wrap-Up"
+    type: custom
+    date: 2021-09-28
+    start_time: "12:15"
+    end_time: "12:30"
