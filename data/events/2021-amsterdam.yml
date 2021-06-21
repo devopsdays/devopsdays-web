@@ -190,7 +190,21 @@ program:
     end_time: "11:15"
     backgroud_color: "#ffb566"
 
-  - title: "Open Spaces (round 1)"
+  - title: "What even is DataOps? (Open Spaces round 1)"
+    type: open-space
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "11:15"
+    end_time: "11:40"
+    backgroud_color: "#ffb566"
+   
+  - title: "Mental health issues in the workplace (Open Spaces round 1)"
+    type: open-space
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "11:15"
+    end_time: "11:40"
+    backgroud_color: "#ffb566"
+  
+  - title: "What even is DataOps? (Open Spaces round 1)"
     type: open-space
     date: 2021-06-29T00:00:00+02:00
     start_time: "11:15"
@@ -211,11 +225,18 @@ program:
     end_time: "11:40"
     backgroud_color: "#ffb566"
 
-  - title: "Open Spaces (round 2)"
+  - title: "Monitor mission-critical sensitive information in Azure (Open Spaces round 2)"
     type: open-space
     date: 2021-06-29T00:00:00+02:00
-    start_time: "11:40"
-    end_time: "12:05"
+    start_time: "11:15"
+    end_time: "11:40"
+    backgroud_color: "#ffb566"
+   
+  - title: "Join the community (Open Spaces round 2)"
+    type: open-space
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "11:15"
+    end_time: "11:40"
     backgroud_color: "#ffb566"
  
   - title: "Social hangout"
@@ -278,7 +299,14 @@ program:
     start_time: "13:00"
     end_time: "13:05"
 
-  - title: "Open Spaces (round 3)"
+  - title: "Working with Reluctance to Change (Open Spaces round 3)"
+    type: open-space
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "13:05"
+    end_time: "13:30"
+    backgroud_color: "#ffb566"
+    
+  - title: "All Aboard, tickets with destination DevOps are available (Open Spaces round 3)"
     type: open-space
     date: 2021-06-29T00:00:00+02:00
     start_time: "13:05"
@@ -298,9 +326,22 @@ program:
     start_time: "13:05"
     end_time: "13:30"
     backgroud_color: "#ffb566"
-  
 
   - title: "Open Spaces (round 4)"
+    type: open-space
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "13:30"
+    end_time: "13:55"
+    backgroud_color: "#ffb566"
+    
+  - title: "How to troubleshoot issues in (relatively) unknown systems? (Open Spaces round 4)"
+    type: open-space
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "13:30"
+    end_time: "13:55"
+    backgroud_color: "#ffb566"
+        
+  - title: "Should Bootcamps get the boot? (Open Spaces round 4)"
     type: open-space
     date: 2021-06-29T00:00:00+02:00
     start_time: "13:30"
@@ -380,7 +421,14 @@ program:
     start_time: "14:40"
     end_time: "14:45"
 
-  - title: "Open Spaces (round 5)"
+  - title: "Unquantified Serendipity: Diversity in Development (Open Spaces round 5)"
+    type: open-space
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "14:45"
+    end_time: "15:10"
+    backgroud_color: "#ffb566"
+      
+  - title: "Self care in a world of anxiety (Open Spaces round 5)"
     type: open-space
     date: 2021-06-29T00:00:00+02:00
     start_time: "14:45"
