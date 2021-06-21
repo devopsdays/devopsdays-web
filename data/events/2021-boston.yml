@@ -108,6 +108,8 @@ sponsors:
     level: platinum
   - id: vmware-tanzu
     level: platinum
+  - id: scout
+    level: platinum
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
