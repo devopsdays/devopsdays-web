@@ -248,7 +248,7 @@ program:
     end_time: "12:05"
     backgroud_color: "#ffb566"
  
- - title: "stacy-cashmore"
+  - title: "stacy-cashmore"
     type: talk
     date: 2021-06-29T00:00:00+02:00
     start_time: "11:40"
