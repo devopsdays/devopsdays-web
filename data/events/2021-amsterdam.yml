@@ -190,14 +190,35 @@ program:
     end_time: "11:15"
     backgroud_color: "#ffb566"
 
-  - title: "Open Spaces (round 1) and social hangout (plus sponsor open spaces)"
+  - title: "Open Spaces (round 1)"
+    type: open-space
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "11:15"
+    end_time: "11:40"
+    backgroud_color: "#ffb566"
+    
+  - title: "Observability Drives DevOps Success: Requirements and Market Response (Splunk)"
+    type: open-space
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "11:15"
+    end_time: "11:40"
+    backgroud_color: "#ffb566"
+    
+  - title: "Social hangout"
     type: open-space
     date: 2021-06-29T00:00:00+02:00
     start_time: "11:15"
     end_time: "11:40"
     backgroud_color: "#ffb566"
 
-  - title: "Open Spaces (round 2) and social hangout"
+  - title: "Open Spaces (round 2)"
+    type: open-space
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "11:40"
+    end_time: "12:05"
+    backgroud_color: "#ffb566"
+ 
+  - title: "Social hangout"
     type: open-space
     date: 2021-06-29T00:00:00+02:00
     start_time: "11:40"
@@ -257,14 +278,36 @@ program:
     start_time: "13:00"
     end_time: "13:05"
 
-  - title: "Open Spaces (round 3) and social hangout (plus sponsor open spaces)"
+  - title: "Open Spaces (round 3)"
+    type: open-space
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "13:05"
+    end_time: "13:30"
+    backgroud_color: "#ffb566"
+  
+  - title: "Pleased to meet you, we are Fullstaq (Fullstaq)"
     type: open-space
     date: 2021-06-29T00:00:00+02:00
     start_time: "13:05"
     end_time: "13:30"
     backgroud_color: "#ffb566"
 
-  - title: "Open Spaces (round 4) and social hangout"
+  - title: "Social hangout"
+    type: open-space
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "13:05"
+    end_time: "13:30"
+    backgroud_color: "#ffb566"
+  
+
+  - title: "Open Spaces (round 4)"
+    type: open-space
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "13:30"
+    end_time: "13:55"
+    backgroud_color: "#ffb566"
+    
+  - title: "Social hangout"
     type: open-space
     date: 2021-06-29T00:00:00+02:00
     start_time: "13:30"
@@ -337,14 +380,35 @@ program:
     start_time: "14:40"
     end_time: "14:45"
 
-  - title: "Open Spaces (round 5) and social hangout (plus sponsor open spaces)"
+  - title: "Open Spaces (round 5)"
+    type: open-space
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "14:45"
+    end_time: "15:10"
+    backgroud_color: "#ffb566"
+    
+  - title: "Support the most common DevOps Kubernetes use cases with Otomi CE (Red Kubes)"
     type: open-space
     date: 2021-06-29T00:00:00+02:00
     start_time: "14:45"
     end_time: "15:10"
     backgroud_color: "#ffb566"
 
-  - title: "Open Spaces (round 6) and social hangout"
+  - title: "Social hangout"
+    type: open-space
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "14:45"
+    end_time: "15:10"
+    backgroud_color: "#ffb566"
+
+  - title: "Open Spaces (round 6)"
+    type: open-space
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "15:10"
+    end_time: "15:35"
+    backgroud_color: "#ffb566"
+    
+  - title: "Social hangout"
     type: open-space
     date: 2021-06-29T00:00:00+02:00
     start_time: "15:10"
