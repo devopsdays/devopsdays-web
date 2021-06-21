@@ -218,7 +218,7 @@ program:
     end_time: "12:05"
     comments: "Track 2"
 
- - title: "quintessence-anx"
+  - title: "quintessence-anx"
     type: talk
     date: 2021-06-29T00:00:00+02:00
     start_time: "12:05"
