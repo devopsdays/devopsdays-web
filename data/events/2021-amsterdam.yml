@@ -35,8 +35,8 @@ location: "Amsterdam" # Defaults to city, but you can make it the venue name.
 location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
-    url: https://sessionize.com/devopsdays-amsterdam-2021/
+  # - name: propose
+  #   url: https://sessionize.com/devopsdays-amsterdam-2021/
   # - name: location
   - name: registration
     url: https://github.com/devopsdays/devopsdays-web/pull/10383
@@ -45,6 +45,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: sponsor
   - name: contact
   - name: conduct
+  - name: "escape room"
+    url: https://docs.google.com/forms/d/e/1FAIpQLScCWuUL8hGx9YPmlTIZTCDjj8W3IVg-iQTgkxvD5ykNeEe0Rg/viewform?usp=sf_link
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -191,7 +193,7 @@ program:
     start_time: "12:15"
     end_time: "12:40"
     backgroud_color: "#ffb566"
- 
+
   - title: "stacy-cashmore"
     type: talk
     date: 2021-06-29T00:00:00+02:00
@@ -210,14 +212,14 @@ program:
     date: 2021-06-29T00:00:00+02:00
     start_time: "13:05"
     end_time: "13:10"
- 
+
   - title: "jj-asghar"
     type: talk
     date: 2021-06-29T00:00:00+02:00
     start_time: "13:05"
     end_time: "13:10"
     comments: "Track 2"
-  
+
   - title: "john-willis"
     type: talk
     date: 2021-06-29T00:00:00+02:00
@@ -257,7 +259,7 @@ program:
     date: 2021-06-29T00:00:00+02:00
     start_time: "14:00"
     end_time: "14:10"
-  
+
   - title: "jason-yee"
     type: workshop
     date: 2021-06-29T00:00:00+02:00
@@ -270,7 +272,7 @@ program:
     date: 2021-06-29T00:00:00+02:00
     start_time: "14:15"
     end_time: "14:25"
-  
+
   - title: "mark-smalley"
     type: workshop
     date: 2021-06-29T00:00:00+02:00
@@ -289,14 +291,14 @@ program:
     date: 2021-06-29T00:00:00+02:00
     start_time: "14:25"
     end_time: "14:50"
- 
+
   - title: "dan-lines"
     type: talk
     date: 2021-06-29T00:00:00+02:00
     start_time: "14:25"
     end_time: "14:50"
     comments: "Track 2"
-    
+
   - title: "yishai-beeri"
     type: talk
     date: 2021-06-29T00:00:00+02:00
@@ -323,7 +325,7 @@ program:
     start_time: "15:20"
     end_time: "15:45"
     backgroud_color: "#ffb566"
-  
+
   - title: "sabine-wojcieszak"
     type: talk
     date: 2021-06-29T00:00:00+02:00
