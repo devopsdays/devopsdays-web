@@ -66,7 +66,7 @@ team_members: # Name is the only required field for team members.
 #   github: ""
 #   image: ""  
   - name: "Carlos Zapata"
-    employer: "Gorilla Logic"
+    employer: "Rockwell Automation"
     linkedin: "https://www.linkedin.com/in/carlos-zapata-96479275/"
 #   bio: "Ingeniero electrónico con una experiencia laboral de más de 20 años en el sector tecnológico y en Gestión de Proyectos. Formador en marcos, técnicas y prácticas de la transformación ágil organizacional, forjando estrategias de crecimiento orgánico en áreas de TI, innovación, diseño, implementacion de sistemas, riesgos, transformación digital, entre otros." 
     image: "zapata.png"    
@@ -82,14 +82,14 @@ team_members: # Name is the only required field for team members.
 #   bio: ""
 #   twitter: ""
   - name: "Alejandra Pérez"
-    employer: "Agile & Consulting Group Co"
+    employer: "Devops Colombia"
     image: "alejandra.png"  
 #   linkedin: "https://"
 #   facebook: ""
 #   website: ""
 #   github: ""
   - name: "Chrstian Gómez"
-    employer: "Periferia IT Group"
+    employer: "Olimpia IT"
     image: "christian.png"
     linkedin: "https://www.linkedin.com/in/chrisgpz/" 
 #  - name: "Camila Gallego"
@@ -147,6 +147,30 @@ sponsors:
 #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: agileconsulting
     level: diamond
+  - id: rutan
+    level: diamond
+  - id: 2020-devco
+    level: diamond
+  - id: zivra
+    level: diamond
+  - id: fluidattacks
+    level: platinum
+  - id: certiprof
+    level: platinum
+  - id: universidad-ces
+    level: gold
+  - id: techandsolve
+    level: gold
+  - id: ceiba
+    level: gold
+  - id: devopsinstitute2020
+    level: gold
+  - id: pragma
+    level: gold
+  - id: linux-professional-institute
+    level: gold
+  - id: castor
+    level: gold
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -156,5 +180,8 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: diamond
     label: Diamond
- 
+  - id: platinum
+    label: Platinum
+  - id: gold
+    label: Gold
 

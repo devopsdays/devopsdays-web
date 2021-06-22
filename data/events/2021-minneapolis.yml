@@ -34,11 +34,11 @@ location: "Hilton Minneapolis & online" # Defaults to city, but you can make it 
 location_address: "1001 Marquette Avenue South, Minneapolis, Minnesota, 55403-2440, USA" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+#  - name: propose
   - name: location
   - name: registration
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -136,8 +136,39 @@ sponsors:
     level: gold
   - id: launch-darkly
     level: gold
-  - id: trendmicro
+  - id: skycrafters
     level: gold
+  - id: codelogic
+    level: silver
+  - id: env0
+    level: gold
+  - id: couchbase
+    level: gold
+  - id: env0
+    level: alacarte
+  - id: microsoftazure
+    level: gold
+  - id: microsoftazure
+    level: alacarte
+  - id: neuvector
+    level: platinum
+  - id: pagerduty
+    level: silver
+  - id: sps_commerce
+    level: platinum
+  - id: scout
+    level: silver
+  - id: kong
+    level: silver
+  - id: chef
+    level: gold
+  - id: dynatrace
+    level: gold
+  - id: firehydrant
+    level: gold
+  - id: accurics
+    level: gold
+
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -161,4 +192,205 @@ sponsor_levels:
   - id: community
     label: Community
     max: 6
+
+program:
+  - title: "Registration, Coffee, Sponsors"
+    type: custom
+    comments: "Coffee and limited snacks"
+    date: 2021-07-20T00:00:00-05:00
+    start_time: "08:00"
+    end_time: "09:00"
+
+  - title: "Day One Opening Welcome"
+    type: custom
+    date: 2021-07-20T00:00:00-05:00
+    start_time: "09:00"
+    end_time: "09:10"
+
+  - title: "ian-coldwater"
+    type: talk
+    date: 2021-07-20T00:00:00-05:00
+    start_time: "09:10"
+    end_time: "09:40"
+
+  - title: "Sponsors"
+    type: custom
+    date: 2021-07-20T00:00:00-05:00
+    start_time: "09:40"
+    end_time: "09:50"
+
+  - title: "steve-buchanan"
+    type: talk
+    date: 2021-07-20T00:00:00-05:00
+    start_time: "09:50"
+    end_time: "10:20"
+
+  - title: "Break"
+    comments: "Coffee and limited snacks"
+    type: custom
+    date: 2021-07-20T00:00:00-05:00
+    start_time: "10:20"
+    end_time: "10:50"
+
+  - title: "jenessa-white"
+    type: talk
+    date: 2021-07-20T00:00:00-05:00
+    start_time: "10:50"
+    end_time: "11:20"
+
+  - title: "Sponsors"
+    type: custom
+    date: 2021-07-20T00:00:00-05:00
+    start_time: "11:20"
+    end_time: "11:30"
+
+  - title: "heidi-waterhouse"
+    type: talk
+    date: 2021-07-20T00:00:00-05:00
+    start_time: "11:30"
+    end_time: "12:00"
+
+  - title: "Mid-day break"
+    type: custom
+    comments: "Lunch on your own"
+    date: 2021-07-20T00:00:00-05:00
+    start_time: "12:00"
+    end_time: "13:30"
+
+  - title: "caroline-karanja"
+    type: talk
+    date: 2021-07-20T00:00:00-05:00
+    start_time: "13:45"
+    end_time: "14:15"
+
+  - title: "Ignites"
+    type: custom
+    date: 2021-07-20T00:00:00-05:00
+    start_time: "14:30"
+    end_time: "15:00"
+
+  - title: "Trivia Mafia: devopsdays"
+    type: custom
+    custom_url: "https://www.triviamafia.com/"
+    date: 2021-07-20T00:00:00-05:00
+    start_time: "15:00"
+    end_time: "17:00"
+
+  - title: "End of Day One"
+    type: custom
+    comments: "Enjoy connecting with the community on your own. See you tomorrow!"
+    date: 2021-07-20T00:00:00-05:00
+    start_time: "17:00"
+    end_time: "17:00"
+
+
+  - title: "Registration, Coffee, Sponsors"
+    type: custom
+    comments: "Coffee and limited snacks"
+    date: 2021-07-21T23:59:59-05:00
+    start_time: "08:00"
+    end_time: "09:00"
+
+  - title: "Day Two Opening Welcome"
+    type: custom
+    date: 2021-07-21T23:59:59-05:00
+    start_time: "09:00"
+    end_time: "09:10"
+
+  - title: "dan-woods"
+    type: talk
+    date: 2021-07-21T23:59:59-05:00
+    start_time: "09:10"
+    end_time: "09:40"
+
+  - title: "Sponsors"
+    type: custom
+    date: 2021-07-21T23:59:59-05:00
+    start_time: "09:40"
+    end_time: "09:50"
+
+  - title: "tess-flynn"
+    type: talk
+    date: 2021-07-21T23:59:59-05:00
+    start_time: "09:50"
+    end_time: "10:20"
+
+  - title: "Morning break"
+    type: custom
+    comments: "Coffee and limited snacks"
+    date: 2021-07-21T23:59:59-05:00
+    start_time: "10:20"
+    end_time: "10:50"
+
+  - title: "vanessa-huerta-granda"
+    type: talk
+    date: 2021-07-21T23:59:59-05:00
+    start_time: "10:50"
+    end_time: "11:20"
+
+  - title: "Sponsors"
+    type: custom
+    date: 2021-07-21T23:59:59-05:00
+    start_time: "11:20"
+    end_time: "11:30"
+
+  - title: "jenna-pederson"
+    type: talk
+    date: 2021-07-21T23:59:59-05:00
+    start_time: "11:30"
+    end_time: "12:00"
+
+  - title: "Mid-day break"
+    type: custom
+    comments: "Lunch on your own"
+    date: 2021-07-21T23:59:59-05:00
+    start_time: "12:00"
+    end_time: "13:30"
+
+  - title: "Attendee-Suggested Breakouts - Open Space Proposals"
+    type: open-space
+    comments: "https://devopsdays.org/open-space-format/"
+    date: 2021-07-21T23:59:59-05:00
+    start_time: "13:30"
+    end_time: "14:30"
+
+  - title: "Sponsor Raffle"
+    type: custom
+    date: 2021-07-21T23:59:59-05:00
+    start_time: "14:30"
+    end_time: "15:00"
+
+  - title: "Attendee-Suggested Breakouts - Open Space #1"
+    type: open-space
+    date: 2021-07-21T23:59:59-05:00
+    start_time: "15:10"
+    end_time: "15:40"
+
+  - title: "Attendee-Suggested Breakouts - Open Space #2"
+    type: open-space
+    date: 2021-07-21T23:59:59-05:00
+    start_time: "15:50"
+    end_time: "16:20"
+
+  - title: "Attendee-Suggested Breakouts - Open Space #3"
+    type: open-space
+    date: 2021-07-21T23:59:59-05:00
+    start_time: "16:30"
+    end_time: "17:00"
+
+  - title: "End of Day Two"
+    type: custom
+    comments: "Saying goodbye in person; we'll catch you online!"
+    date: 2021-07-21T23:59:59-05:00
+    start_time: "17:00"
+    end_time: "17:00"
+
+  - title: "Devops Party Games: Minneapolis"
+    type: custom
+    comments: "Matt Stratton hosts https://devopspartygames.com/ online."
+    date: 2021-07-21T23:59:59-05:00
+    start_time: "20:00"
+    end_time: "21:00"
+    custom_url: "https://twitch.tv/devopspartygames"
+
 

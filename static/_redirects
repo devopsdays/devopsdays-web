@@ -16,14 +16,14 @@
 /boston/*		/events/2021-boston/:splat		302
 /brasilia/*		/events/2017-brasilia/:splat		302
 /buenos-aires/*		/events/2020-buenos-aires/:splat	302
-/buffalo/*		/events/2020-buffalo/:splat		302
+/buffalo/*		/events/2021-buffalo/:splat		302
 /caceres/*		/events/2020-caceres/:splat		302
 /cairo/*		/events/2021-cairo/:splat		302
 /campinas/*		/events/2019-campinas/:splat		302
 /cape-town/*		/events/2020-cape-town/:splat		302
 /charlotte/*		/events/2020-charlotte/:splat		302
 /chattanooga/*		/events/2019-chattanooga/:splat		302
-/chicago/*		/events/2021-chicago/:splat		302
+/chicago/*		/events/2022-chicago/:splat		302
 /columbus/*		/events/2020-columbus/:splat		302
 /copenhagen/*		/events/2019-copenhagen/:splat		302
 /cuba/*			/events/2019-cuba/:splat		302
@@ -153,7 +153,8 @@
 /miami/*            /events/2020-miami/:splat           302
 /luanda/*            /events/2020-luanda/:splat           302
 /criciuma/*            /events/2020-criciuma/:splat           302
-/melbourne/*            /events/2020-melbourne/:splat           302
+/melbourne/*            /events/2021-melbourne/:splat           302
 /ankara/*            /events/2020-ankara/:splat           302
 /lima/*            /events/2020-lima/:splat           302
 /rosario/*            /events/2020-rosario/:splat           302
+/geneva/*		/events/2021-geneva/:splat		302

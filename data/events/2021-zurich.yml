@@ -40,6 +40,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
   - name: registration
   - name: diversity
+  - name: covid
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -179,8 +180,6 @@ sponsors:
     level: bronze
   - id: sap
     level: bronze
-  - id: googlecloud
-    level: gold
   - id: locatee
     level: bronze  
   - id: youstream
@@ -198,6 +197,10 @@ sponsors:
     level: bronze
   - id: checkmarx
     level: gold
+  - id: basis
+    level: silver
+    id: wehackpurple
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
