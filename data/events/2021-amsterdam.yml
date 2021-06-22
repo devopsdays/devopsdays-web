@@ -205,15 +205,29 @@ program:
     start_time: "11:15"
     end_time: "11:40"
     backgroud_color: "#ffb566"
-  
-  - title: "What even is DataOps? (Open Spaces round 1)"
+    
+  - title: "Observability Drives DevOps Success: Requirements and Market Response (Splunk)"
     type: open-space
     date: 2021-06-29T00:00:00+02:00
     start_time: "11:15"
     end_time: "11:40"
     backgroud_color: "#ffb566"
-    
-  - title: "Observability Drives DevOps Success: Requirements and Market Response (Splunk)"
+  
+  - title: "Work-Life balance as a (new) parent in the era of working from home (HeleCloud)"
+    type: open-space
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "11:15"
+    end_time: "11:40"
+    backgroud_color: "#ffb566"
+  
+  - title: "Albert Heijn Technology (Albert Heijn)"
+    type: open-space
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "11:15"
+    end_time: "11:40"
+    backgroud_color: "#ffb566"
+ 
+  - title: "Everything DevSecOps (Contrast Security)"
     type: open-space
     date: 2021-06-29T00:00:00+02:00
     start_time: "11:15"
@@ -230,15 +244,15 @@ program:
   - title: "Monitor mission-critical sensitive information in Azure (Open Spaces round 2)"
     type: open-space
     date: 2021-06-29T00:00:00+02:00
-    start_time: "11:15"
-    end_time: "11:40"
+    start_time: "11:40"
+    end_time: "12:05"
     backgroud_color: "#ffb566"
    
   - title: "Join the community (Open Spaces round 2)"
     type: open-space
     date: 2021-06-29T00:00:00+02:00
-    start_time: "11:15"
-    end_time: "11:40"
+    start_time: "11:40"
+    end_time: "12:05"
     backgroud_color: "#ffb566"
  
   - title: "Social hangout"
@@ -321,19 +335,26 @@ program:
     start_time: "13:05"
     end_time: "13:30"
     backgroud_color: "#ffb566"
-
-  - title: "Social hangout"
+  
+  - title: "DevOps ways (Microsoft)"
+    type: open-space
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "13:05"
+    end_time: "13:30"
+    backgroud_color: "#ffb566"
+  
+  - title: "The downside of DevOps – How to handle the mental load of owning both innovation and reliability (Bol.com)"
     type: open-space
     date: 2021-06-29T00:00:00+02:00
     start_time: "13:05"
     end_time: "13:30"
     backgroud_color: "#ffb566"
 
-  - title: "Open Spaces (round 4)"
+  - title: "Social hangout"
     type: open-space
     date: 2021-06-29T00:00:00+02:00
-    start_time: "13:30"
-    end_time: "13:55"
+    start_time: "13:05"
+    end_time: "13:30"
     backgroud_color: "#ffb566"
     
   - title: "How to troubleshoot issues in (relatively) unknown systems? (Open Spaces round 4)"
@@ -356,6 +377,13 @@ program:
     start_time: "13:30"
     end_time: "13:55"
     backgroud_color: "#ffb566"
+
+  - title: "Fail Café"
+    type: custom
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "13:30"
+    end_time: "13:55"
+    comments: "Track 3"
 
   - title: "michiel-rook"
     type: talk
@@ -443,6 +471,20 @@ program:
     start_time: "14:45"
     end_time: "15:10"
     backgroud_color: "#ffb566"
+    
+  - title: "Devs should not write Dockerfiles (VMWare Tanzu)"
+    type: open-space
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "14:45"
+    end_time: "15:10"
+    backgroud_color: "#ffb566"
+ 
+  - title: "SRE in Public Cloud (TomTom)"
+    type: open-space
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "14:45"
+    end_time: "15:10"
+    backgroud_color: "#ffb566"
 
   - title: "Social hangout"
     type: open-space
@@ -464,6 +506,13 @@ program:
     start_time: "15:10"
     end_time: "15:35"
     backgroud_color: "#ffb566"
+  
+  - title: "Fail Café"
+    type: custom
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "15:10"
+    end_time: "15:35"
+    comments: "Track 3"
 
   - title: "sabine-wojcieszak"
     type: talk
@@ -490,6 +539,13 @@ program:
     start_time: "16:00"
     end_time: "17:00"
     comments: "Track 2"
+    
+  - title: "Fail Café"
+    type: custom
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "16:00"
+    end_time: "17:00"
+    comments: "Track 3"
 
   - title: "Closing"
     type: custom
