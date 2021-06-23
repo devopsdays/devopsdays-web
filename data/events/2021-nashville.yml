@@ -140,7 +140,7 @@ sponsors:
    level: silver
  - id: 2021-teleport
    level: gold
- - id: gitlab
+ - id: 2021-gitlab-nash
    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
