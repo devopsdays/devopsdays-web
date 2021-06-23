@@ -59,8 +59,7 @@ Please see our <a href="https://assets.devopsdays.org/events/2021/houston/devops
 </form></center>
 	</th>
 	<th valign="top"><center>
-	<span class="btn btn-warning btn-sm">1 available</span> <br/>
-	Email us if interested
+	<span class="btn btn-danger btn-sm">Sold Out</span> <br/>
 	</center></th>
 	<th valign="top"><center>
 	<span class="btn btn-danger btn-sm">Sold Out</span> <br/>
