@@ -179,7 +179,7 @@ sponsors:
     level: gold
   - id: masglobal
     level: gold
-  - id: ngix2021
+  - id: nginx
     level: gold
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
