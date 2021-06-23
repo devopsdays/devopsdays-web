@@ -137,8 +137,10 @@ sponsors:
  - id: morpheus
    level: bronze
  - id: 2021-cta
-   level: bronze
+   level: silver
  - id: 2021-teleport
+   level: gold
+ - id: gitlab
    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
