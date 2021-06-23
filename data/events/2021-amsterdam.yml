@@ -130,6 +130,8 @@ sponsors:
     level: bronze
   - id: stream
     level: bronze
+  - id: paloaltonetworks
+    level: bronze
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
