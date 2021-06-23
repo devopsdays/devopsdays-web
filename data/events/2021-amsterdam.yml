@@ -130,6 +130,8 @@ sponsors:
     level: bronze
   - id: stream
     level: bronze
+  - id: paloaltonetworks
+    level: bronze
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -172,13 +174,13 @@ program:
     date: 2021-06-29T00:00:00+02:00
     start_time: "10:40"
     end_time: "11:05"
-  
+
   - title: "walter-van-der-harst"
     type: talk
     date: 2021-06-29T00:00:00+02:00
     start_time: "10:40"
     end_time: "11:05"
-  
+
   - title: "julie-gunderson"
     type: talk
     date: 2021-06-29T00:00:00+02:00
@@ -190,56 +192,49 @@ program:
     date: 2021-06-29T00:00:00+02:00
     start_time: "11:05"
     end_time: "11:15"
-   
+
   - title: "What even is DataOps? (Open Spaces round 1)"
     type: open-space
     date: 2021-06-29T00:00:00+02:00
     start_time: "11:15"
     end_time: "11:40"
     backgroud_color: "#ffb566"
-   
+
   - title: "Mental health issues in the workplace (Open Spaces round 1)"
     type: open-space
     date: 2021-06-29T00:00:00+02:00
     start_time: "11:15"
     end_time: "11:40"
     backgroud_color: "#ffb566"
-    
-  - title: "Measuring the impact of DevOps (Open Spaces round 1)"
-    type: open-space
-    date: 2021-06-29T00:00:00+02:00
-    start_time: "11:15"
-    end_time: "11:40"
-    backgroud_color: "#ffb566"
-    
+
   - title: "Observability Drives DevOps Success: Requirements and Market Response (Splunk)"
     type: open-space
     date: 2021-06-29T00:00:00+02:00
     start_time: "11:15"
     end_time: "11:40"
     backgroud_color: "#ffb566"
-  
+
   - title: "Work-Life balance as a (new) parent in the era of working from home (HeleCloud)"
     type: open-space
     date: 2021-06-29T00:00:00+02:00
     start_time: "11:15"
     end_time: "11:40"
     backgroud_color: "#ffb566"
-  
+
   - title: "Albert Heijn Technology (Albert Heijn)"
     type: open-space
     date: 2021-06-29T00:00:00+02:00
     start_time: "11:15"
     end_time: "11:40"
     backgroud_color: "#ffb566"
- 
+
   - title: "Everything DevSecOps (Contrast Security)"
     type: open-space
     date: 2021-06-29T00:00:00+02:00
     start_time: "11:15"
     end_time: "11:40"
     backgroud_color: "#ffb566"
-    
+
   - title: "Social hangout"
     type: open-space
     date: 2021-06-29T00:00:00+02:00
@@ -253,21 +248,21 @@ program:
     start_time: "11:40"
     end_time: "12:05"
     backgroud_color: "#ffb566"
-   
+
   - title: "Join the community (Open Spaces round 2)"
     type: open-space
     date: 2021-06-29T00:00:00+02:00
     start_time: "11:40"
     end_time: "12:05"
     backgroud_color: "#ffb566"
- 
+
   - title: "Social hangout"
     type: open-space
     date: 2021-06-29T00:00:00+02:00
     start_time: "11:40"
     end_time: "12:05"
     backgroud_color: "#ffb566"
- 
+
   - title: "stacy-cashmore"
     type: talk
     date: 2021-06-29T00:00:00+02:00
@@ -287,7 +282,7 @@ program:
     date: 2021-06-29T00:00:00+02:00
     start_time: "12:05"
     end_time: "12:30"
- 
+
   - title: "jj-asghar"
     type: talk
     date: 2021-06-29T00:00:00+02:00
@@ -307,7 +302,7 @@ program:
     date: 2021-06-29T00:00:00+02:00
     start_time: "12:30"
     end_time: "13:00"
- 
+
   - title: "Games to boost energy and remote facilitation with Nancy Beers"
     type: custom
     date: 2021-06-29T00:00:00+02:00
@@ -327,28 +322,28 @@ program:
     start_time: "13:05"
     end_time: "13:30"
     backgroud_color: "#ffb566"
-    
+
   - title: "All Aboard, tickets with destination DevOps are available (Open Spaces round 3)"
     type: open-space
     date: 2021-06-29T00:00:00+02:00
     start_time: "13:05"
     end_time: "13:30"
     backgroud_color: "#ffb566"
-  
+
   - title: "Pleased to meet you, we are Fullstaq (Fullstaq)"
     type: open-space
     date: 2021-06-29T00:00:00+02:00
     start_time: "13:05"
     end_time: "13:30"
     backgroud_color: "#ffb566"
-  
+
   - title: "DevOps ways (Microsoft)"
     type: open-space
     date: 2021-06-29T00:00:00+02:00
     start_time: "13:05"
     end_time: "13:30"
     backgroud_color: "#ffb566"
-  
+
   - title: "The downside of DevOps – How to handle the mental load of owning both innovation and reliability (Bol.com)"
     type: open-space
     date: 2021-06-29T00:00:00+02:00
@@ -362,28 +357,28 @@ program:
     start_time: "13:05"
     end_time: "13:30"
     backgroud_color: "#ffb566"
-    
+
   - title: "How to troubleshoot issues in (relatively) unknown systems? (Open Spaces round 4)"
     type: open-space
     date: 2021-06-29T00:00:00+02:00
     start_time: "13:30"
     end_time: "13:55"
     backgroud_color: "#ffb566"
-        
+
   - title: "Should Bootcamps get the boot? (Open Spaces round 4)"
     type: open-space
     date: 2021-06-29T00:00:00+02:00
     start_time: "13:30"
     end_time: "13:55"
     backgroud_color: "#ffb566"
-    
+
   - title: "Social hangout"
     type: open-space
     date: 2021-06-29T00:00:00+02:00
     start_time: "13:30"
     end_time: "13:55"
     backgroud_color: "#ffb566"
-    
+
   - title: "michiel-rook"
     type: talk
     date: 2021-06-29T00:00:00+02:00
@@ -404,7 +399,7 @@ program:
     date: 2021-06-29T00:00:00+02:00
     start_time: "13:55"
     end_time: "14:05"
-  
+
   - title: "jason-yee"
     type: workshop
     date: 2021-06-29T00:00:00+02:00
@@ -417,7 +412,7 @@ program:
     date: 2021-06-29T00:00:00+02:00
     start_time: "14:05"
     end_time: "14:15"
-    
+
   - title: "mark-smalley"
     type: workshop
     date: 2021-06-29T00:00:00+02:00
@@ -437,7 +432,7 @@ program:
     date: 2021-06-29T00:00:00+02:00
     start_time: "14:15"
     end_time: "14:40"
-    
+
   - title: "dan-lines"
     type: talk
     date: 2021-06-29T00:00:00+02:00
@@ -464,35 +459,35 @@ program:
     start_time: "14:45"
     end_time: "15:10"
     backgroud_color: "#ffb566"
-      
+
   - title: "Self care in a world of anxiety (Open Spaces round 5)"
     type: open-space
     date: 2021-06-29T00:00:00+02:00
     start_time: "14:45"
     end_time: "15:10"
     backgroud_color: "#ffb566"
-  
+
   - title: "The effect of the gig economy on the employment of IT-experts (Open Spaces round 5)"
     type: open-space
     date: 2021-06-29T00:00:00+02:00
     start_time: "14:45"
     end_time: "15:10"
     backgroud_color: "#ffb566"
-    
+
   - title: "Support the most common DevOps Kubernetes use cases with Otomi CE (Red Kubes)"
     type: open-space
     date: 2021-06-29T00:00:00+02:00
     start_time: "14:45"
     end_time: "15:10"
     backgroud_color: "#ffb566"
-    
+
   - title: "Devs should not write Dockerfiles (VMWare Tanzu)"
     type: open-space
     date: 2021-06-29T00:00:00+02:00
     start_time: "14:45"
     end_time: "15:10"
     backgroud_color: "#ffb566"
- 
+
   - title: "SRE in Public Cloud (TomTom)"
     type: open-space
     date: 2021-06-29T00:00:00+02:00
@@ -513,28 +508,28 @@ program:
     start_time: "15:10"
     end_time: "15:35"
     backgroud_color: "#ffb566"
-  
+
   - title: "Building a diverse team (Open Spaces round 6)"
     type: open-space
     date: 2021-06-29T00:00:00+02:00
     start_time: "15:10"
     end_time: "15:35"
     backgroud_color: "#ffb566"
-  
+
   - title: "Eight Questions I Had Every Day As A Dev Team Lead (Open Spaces round 6)"
     type: open-space
     date: 2021-06-29T00:00:00+02:00
     start_time: "15:10"
     end_time: "15:35"
     backgroud_color: "#ffb566"
-    
+
   - title: "Social hangout"
     type: open-space
     date: 2021-06-29T00:00:00+02:00
     start_time: "15:10"
     end_time: "15:35"
     backgroud_color: "#ffb566"
-  
+
   - title: "Fail Café"
     type: custom
     date: 2021-06-29T00:00:00+02:00
@@ -568,7 +563,7 @@ program:
     start_time: "16:00"
     end_time: "17:00"
     comments: "Track 2"
-    
+
   - title: "Fail Café"
     type: custom
     date: 2021-06-29T00:00:00+02:00
