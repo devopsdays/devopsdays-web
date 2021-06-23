@@ -188,11 +188,10 @@ program:
     end_time: "11:05"
 
   - title: "Open spaces introduction and explanation"
-    type: open-space
+    type: custom
     date: 2021-06-29T00:00:00+02:00
     start_time: "11:05"
     end_time: "11:15"
-    backgroud_color: "#ffb566"
 
   - title: "What even is DataOps? (Open Spaces round 1)"
     type: open-space
@@ -380,19 +379,20 @@ program:
     end_time: "13:55"
     backgroud_color: "#ffb566"
 
-  - title: "Fail Café"
-    type: custom
-    date: 2021-06-29T00:00:00+02:00
-    start_time: "13:30"
-    end_time: "13:55"
-    comments: "Track 3"
-
   - title: "michiel-rook"
     type: talk
     date: 2021-06-29T00:00:00+02:00
     start_time: "13:30"
     end_time: "13:55"
     comments: "Track 2"
+
+  - title: "Fail Café"
+    type: custom
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "13:30"
+    end_time: "13:55"
+    backgroud_color: "#AFE1AF"
+    comments: "Track 3"
 
   - title: "dotan-horovits"
     type: workshop
@@ -467,6 +467,13 @@ program:
     end_time: "15:10"
     backgroud_color: "#ffb566"
 
+  - title: "The effect of the gig economy on the employment of IT-experts (Open Spaces round 5)"
+    type: open-space
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "14:45"
+    end_time: "15:10"
+    backgroud_color: "#ffb566"
+
   - title: "Support the most common DevOps Kubernetes use cases with Otomi CE (Red Kubes)"
     type: open-space
     date: 2021-06-29T00:00:00+02:00
@@ -495,7 +502,21 @@ program:
     end_time: "15:10"
     backgroud_color: "#ffb566"
 
-  - title: "Open Spaces (round 6)"
+  - title: "What causes the most waste during DevOps cycles? (Open Spaces round 6)"
+    type: open-space
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "15:10"
+    end_time: "15:35"
+    backgroud_color: "#ffb566"
+
+  - title: "Building a diverse team (Open Spaces round 6)"
+    type: open-space
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "15:10"
+    end_time: "15:35"
+    backgroud_color: "#ffb566"
+
+  - title: "Eight Questions I Had Every Day As A Dev Team Lead (Open Spaces round 6)"
     type: open-space
     date: 2021-06-29T00:00:00+02:00
     start_time: "15:10"
@@ -514,6 +535,7 @@ program:
     date: 2021-06-29T00:00:00+02:00
     start_time: "15:10"
     end_time: "15:35"
+    backgroud_color: "#AFE1AF"
     comments: "Track 3"
 
   - title: "sabine-wojcieszak"
@@ -547,6 +569,7 @@ program:
     date: 2021-06-29T00:00:00+02:00
     start_time: "16:00"
     end_time: "17:00"
+    backgroud_color: "#AFE1AF"
     comments: "Track 3"
 
   - title: "Closing"
