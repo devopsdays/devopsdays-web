@@ -146,6 +146,8 @@ sponsors:
    level: silver
  - id: forty8fifty-labs
    level: gold
+ - id: gitlab
+   level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
