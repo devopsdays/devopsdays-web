@@ -207,6 +207,13 @@ program:
     end_time: "11:40"
     backgroud_color: "#ffb566"
 
+  - title: "Measuring the impact of DevOps (Open Spaces round 1)"
+    type: open-space
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "11:15"
+    end_time: "11:40"
+    backgroud_color: "#ffb566"
+
   - title: "Observability Drives DevOps Success: Requirements and Market Response (Splunk)"
     type: open-space
     date: 2021-06-29T00:00:00+02:00
@@ -270,8 +277,8 @@ program:
     end_time: "12:05"
     comments: "Track 2"
 
-  - title: "GitOps for the people"
-    type: custom
+  - title: "lian-li"
+    type: talk
     date: 2021-06-29T00:00:00+02:00
     start_time: "11:40"
     end_time: "12:05"
