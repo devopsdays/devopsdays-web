@@ -138,9 +138,9 @@ sponsors:
    level: bronze
  - id: 2021-cta
    level: silver
- - id: 2021-teleport
+ - id: teleport
    level: gold
- - id: 2021-gitlab-nash
+ - id: gitlab
    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
