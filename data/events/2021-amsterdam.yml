@@ -185,6 +185,7 @@ program:
     start_time: "10:40"
     end_time: "11:05"
     background_color: "#FFE3FF"
+    comments: "Track 2"
 
   - title: "julie-gunderson"
     type: talk
@@ -192,6 +193,7 @@ program:
     start_time: "10:40"
     end_time: "11:05"
     background_color: "#FFE3FF"
+    comments: "Track 3"
 
   - title: "Open spaces introduction and explanation"
     type: custom
