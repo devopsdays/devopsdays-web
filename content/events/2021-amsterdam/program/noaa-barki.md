@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "What we Learned from Reading 100+ Kubernetes Post-Mortems"
 Type = "talk"
-Speakers = ["noaa-barki", "shimon-tolts"]
+Speakers = ["noaa-barki"]
 +++
 
 A smart person learns from their own mistakes, but a truly wise person learns from the mistakes of others. 
