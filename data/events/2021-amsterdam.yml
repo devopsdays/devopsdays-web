@@ -45,8 +45,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: sponsor
   - name: contact
   - name: conduct
-  - name: "escape room"
-    url: https://docs.google.com/forms/d/e/1FAIpQLScCWuUL8hGx9YPmlTIZTCDjj8W3IVg-iQTgkxvD5ykNeEe0Rg/viewform?usp=sf_link
+  # - name: "escape room"
+  #   url: https://docs.google.com/forms/d/e/1FAIpQLScCWuUL8hGx9YPmlTIZTCDjj8W3IVg-iQTgkxvD5ykNeEe0Rg/viewform?usp=sf_link
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
