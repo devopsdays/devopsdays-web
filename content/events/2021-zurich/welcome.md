@@ -61,7 +61,7 @@ Description = "DevOpsDays Zürich 2021"
     {{< event_link page="registration" text="Register to attend the conference!" >}}
   </div>
 </div> 
-
+<!--
 <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
@@ -70,6 +70,7 @@ Description = "DevOpsDays Zürich 2021"
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
 </div> 
+-->
 
 <div class = "row">
   <div class = "col-md-2">
