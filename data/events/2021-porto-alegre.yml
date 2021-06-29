@@ -134,6 +134,7 @@ sponsors:
 #    url: "http://afropythonconf.org"
 #  - id: linuxtips
 #    level: community
+#    url:
   - id: adentro-cloud
     level: bronze
   - id: interop
@@ -142,7 +143,7 @@ sponsors:
     level: bronze
     url: "https://olist.com/"
   - id: timbira
-    level: bronze
+    level: silver
     url: "https://www.timbira.com.br/"
   - id: globo
     level: bronze
@@ -269,14 +270,10 @@ program:
     end_time: "18:30"
 
 ignites:
-  - title: "laury-bueno"
+  - title: "michelle"
     date: "2021-07-10"
-  - title: "joao-brito"
+  - title: "diego"
     date: "2021-07-10"
-  - title: "roberto-alves"
-    date: "2021-07-10"
-  - title: "bruno-gurgel"
-    date: "2021-07-10"
-  - title: "carlos-nogueira"
+  - title: "samuel"
     date: "2021-07-10"
     
