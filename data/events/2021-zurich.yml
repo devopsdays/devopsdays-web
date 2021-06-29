@@ -299,13 +299,13 @@ program:
   start_time: '14:30'
   end_time: '16:30'
 
-- title: courtney-heba
+- title: marco-consolaro
   type: workshop
   date: 2021-09-07
-  start_time: '15:00'
+  start_time: '14:30'
   end_time: '16:30'
 
-- title: cosima-laube
+- title: courtney-heba
   type: workshop
   date: 2021-09-07
   start_time: '15:00'
@@ -408,7 +408,7 @@ program:
   start_time: '15:00'
   end_time: '17:15'
 
-- title: marco-consolaro
+- title: cosima-laube
   type: workshop
   date: 2021-09-08
   start_time: '15:00'
