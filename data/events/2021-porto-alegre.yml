@@ -123,6 +123,8 @@ sponsors:
     level: community
   - id: docker-porto-alegre
     level: community
+  - id: pokemao
+    level: community
 #  - id: pycaxias
 #    level: community
 #  - id: linuxforall
@@ -155,6 +157,8 @@ sponsors:
     level: silver
   - id: southsystem
     level: gold
+  - id: junglescout
+    level: platinum
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
