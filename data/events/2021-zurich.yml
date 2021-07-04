@@ -199,8 +199,11 @@ sponsors:
     level: gold
   - id: basis
     level: silver
-    id: wehackpurple
+  - id: wehackpurple
     level: community
+  - id: swissdevjobs
+    level: partner 
+
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
