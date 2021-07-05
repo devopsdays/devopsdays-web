@@ -5,9 +5,11 @@ aliases = ["/events/2021-tel-aviv/"]
 Description = "devopsdays Tel Aviv 2021"
 +++
 
-<!-- <div style="text-align:center;">
+<div style="text-align:center;">
   {{< event_logo >}}
-</div> -->
+  <br/>
+  <br/>
+</div> 
 
 <div class = "row">
   <div class = "col-md-2">
