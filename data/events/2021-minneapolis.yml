@@ -170,6 +170,10 @@ sponsors:
     level: gold
   - id: influxdata
     level: gold
+  - id: datadog
+    level: silver
+  - id: silvr
+    level: alacarte
 
 
 
