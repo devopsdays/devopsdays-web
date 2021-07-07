@@ -13,15 +13,15 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2021-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: 
-enddate: 
+startdate: 2021-04-27T00:00:00+02:00
+enddate: 2021-04-28T23:59:59+02:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 
-cfp_date_end: 
-cfp_date_announce: 
+cfp_date_start: 2021-02-03T00:00:00+02:00
+cfp_date_end: 2021-03-14T23:59:59+02:00
+cfp_date_announce: 2021-03-22T00:00:00+02:00
 
-cfp_link: "https://dodkrakow.pl/cfp/"
+cfp_link: "https://dodkrakow.pl/cfp2021/"
 
 registration_date_start: 
 registration_date_end: 
@@ -37,9 +37,12 @@ location: ""
 location_address: ""
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-#  - name: registration
-#  - name: sponsor
-#    url: "mailto: karolina.murdza@proidea.pl"
+  - name: registration
+    url: "http://app.evenea.pl/event/dodkrakow2021"
+  - name: propose
+    url: "https://dodkrakow.pl/cfp2021/"
+  - name: sponsor
+    url: "mailto:olga.michaliszyn@proidea.pl"
 #  - name: location
 #  - name: program
 #    url: https://dodkrakow.pl/schedule/
@@ -59,6 +62,7 @@ team_members: # Name is the only required field for team members.
   - name: "Jakub Barć"
   - name: "Piotr Godowski"
   - name: "Konrad Gądek"
+  - name: "Janusz Kamieński"
   - name: "Adam Kozłowski"
   - name: "Marcin Lewandowski"
   - name: "Michał Różycki"
@@ -72,18 +76,8 @@ organizer_email: "krakow@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: ibm
-    level: sponsor
-  - id: brainly
-    level: swag
-  - id: ccie
-    level: community
-  - id: berlin-baltic-nordic-net
-    level: community
-  - id: sysopspolska
-    level: community
 
-sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For

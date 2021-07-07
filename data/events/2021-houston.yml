@@ -14,17 +14,17 @@ startdate:  "2021-09-21T09:00:00-06:00" # The start date of your event. Leave bl
 enddate:  "2021-09-22T17:00:00-06:00" # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2021-04-15T09:00:00-06:00 # start accepting talk proposals.
-cfp_date_end: 2021-06-15T09:00:00-06:00 # close your call for proposals.
-cfp_date_announce: 2021-07-15T09:00:00-06:00 # inform proposers of status
+cfp_date_start: 2021-05-05T09:00:00-06:00 # start accepting talk proposals.
+cfp_date_end: 2021-07-15T18:30:00-06:00 # close your call for proposals.
+cfp_date_announce: 2021-08-15T09:00:00-06:00 # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://www.papercall.io/devopsdayshouston2021" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: 2021-06-23T00:00:00-06:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2021-09-22T17:00:00-06:00# close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.eventbrite.com/e/devopsdays-houston-2021-tickets-159318651375?aff=devopsdayswebsite" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -34,9 +34,10 @@ location: "Houston - CityCentre - Norris Conference Centers" # Defaults to city,
 location_address: "816 Town and Country Blvd #210, Houston, TX 77024" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
+    url: https://www.papercall.io/devopsdayshouston2021
   - name: location
- # - name: registration
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -54,11 +55,12 @@ team_members: # Name is the only required field for team members.
     twitter: ""
     image: "binh.jpg"
     bio: "Binh is a proven product leader that have launched a number of innovative products for top-tiered companies.  She has a track record of creating product strategy and actionable roadmaps and translating them into impactful products for consumers and enterprises."
-  - name: "Briana Egan"
-    employer: "Agile Leadership Network in Houston"
-    twitter: ""
-    image: "briana-egan.jpg"
-    bio: "Briana Egan is currently the Vice-President of the Agile Leadership Network in Houston (ALN).  When she is not busy with the ALN she is a ScrumMaster for a Cloud Technology DevOps Team.  Briana holds a Masters Degree from the University of Joensuu (joensuun yliopisto) in Finland."
+  - name: "Carlos Nunez"
+    employer: "VMware"
+    twitter: "easiestnameever"
+    bio: ""
+    image: "carlos-nunez.jpg"
+    linkedin: "http://linkedin.carlosnunez.me/"
   - name: "Dan Collins"
     employer: "American Bureau of Shipping"
     linkedin: "https://www.linkedin.com/in/thedancollins/"
@@ -68,23 +70,12 @@ team_members: # Name is the only required field for team members.
     twitter: "realdancollins"
     image: "dan-collins.jpg"
     bio: "Dan is the founder of DevOpsDays Houston, and a U of H graduate with over 20 years of experience in software and systems development. In the Microsoft-heavy world of Houston IT, he specializes in non-Microsoft technologies with an emphasis on lean methodology and automated software pipelines. Dan is a recovering, former advocate of embedded IT, a blockchain gadfly and has been leading the Houston DevOps Meetup since June 2017. The future is decentralized, distributed, renewable, sustainable and powered by Houston Texas."
-  - name: "Julia Ito"
-    employer: "Endurance Corporation"
-    linkedin: "https://www.linkedin.com/in/julia-ito-9983721/"
-    image: "julia-ito.jpg"
-    bio: "Julia is a Product Manager and technology passionate, who loves delivering solutions that matter faster and better."
   - name: "Keegan Cotton"
     employer: "Datadog"
     linkedin: "https://www.linkedin.com/in/keegan-cotton-a6602b1/"
     image: "keegan-cotton.jpg"
     twitter: "keegancotton"
     bio: "Keegan is an Senior Account Executive at Datadog.  Both a West Point graduate and London Business School alumnus, Keegan has a 20 year track record as a catalyst for both large and small organizations - helping them grow into new markets across several continents.  Keegan has led organizations both in and out of uniform, and helped those organizations refine and execute on their business technology strategies.  Native Texan.  DevOps enthusiast.  Avid learner.  Proud father and husband."
-  - name: "Reggie Davis"
-    employer: "Schlumberger"
-    twitter: "coolblknerd"
-    image: "reginald-davis.jpg"
-    linkedin: "https://www.linkedin.com/in/reginald-j-davis/"
-    bio: "Reggie is SRE for Schlumberger who has a passion for cloud-native application development through the use of tools like Kubernetes and Golang, as well as, improving the culture of technology by creating highly collaborative environments. Co-host of 'Coolest Nerds in the Room' podcast and co-founder of the meetup group, 'Tech for the Culture'"
   - name: "Sagar Karmarkar"
     employer: "Centric Consulting"
     linkedin: "http://www.linkedin.com/in/vnvdevops"
@@ -149,7 +140,19 @@ sponsors:
     level: gold
   - id: dynatrace
     level: gold
-
+  - id: couchbase
+    level: gold
+  - id: alertops
+    level: gold
+  - id: bigpanda
+    level: gold
+  - id: basis
+    level: silver
+  - id: teleport
+    level: silver
+  - id: umbrage
+    level: silver
+    
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -159,7 +162,7 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: platinum
     label: Platinum
-    max: 5
+    max: 4
   - id: gold
     label: Gold
     max: 15

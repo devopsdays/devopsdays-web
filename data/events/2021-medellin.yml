@@ -34,8 +34,8 @@ location: "¡Conferencia Virtual!" # Defaults to city, but you can make it the v
 # location_address: "Carrera 43A (Av. El Poblado) con Calle 30, Medellín, Antioquia, Colombia" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-#  - name: Spanish
-#    url: "https://devopsdays.io/"
+  - name: Spanish
+    url: "https://devopsdays.io/"
  # - name: location
  # - name: propose
  #   url: "https://www.papercall.io/devopsdaysmedellin"
@@ -44,8 +44,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #  - name: program
 #    url: "https://devopsdays.io/agenda-2"
  # - name: speakers
-#  - name: sponsor
-#  - name: speakers
+  - name: sponsor
+  - name: speakers
   - name: contact
   - name: conduct
 # - name: example
@@ -66,13 +66,13 @@ team_members: # Name is the only required field for team members.
 #   github: ""
 #   image: ""  
   - name: "Carlos Zapata"
-    employer: "Gorilla Logic"
+    employer: "Rockwell Automation"
     linkedin: "https://www.linkedin.com/in/carlos-zapata-96479275/"
 #   bio: "Ingeniero electrónico con una experiencia laboral de más de 20 años en el sector tecnológico y en Gestión de Proyectos. Formador en marcos, técnicas y prácticas de la transformación ágil organizacional, forjando estrategias de crecimiento orgánico en áreas de TI, innovación, diseño, implementacion de sistemas, riesgos, transformación digital, entre otros." 
     image: "zapata.png"    
  
   - name: "Miguelangel Pineda"
-    employer: "Agile & Consulting Group Co"
+    employer: "Entel Ocean"
     image: "miguelangel.png"
     linkedin: "https://www.linkedin.com/in/miguelangel-pineda-garcia/"  
 #   role: ""
@@ -82,14 +82,14 @@ team_members: # Name is the only required field for team members.
 #   bio: ""
 #   twitter: ""
   - name: "Alejandra Pérez"
-    employer: "Agile & Consulting Group Co"
+    employer: "Devops Colombia"
     image: "alejandra.png"  
 #   linkedin: "https://"
 #   facebook: ""
 #   website: ""
 #   github: ""
   - name: "Chrstian Gómez"
-    employer: "Periferia IT Group"
+    employer: "Olimpia IT"
     image: "christian.png"
     linkedin: "https://www.linkedin.com/in/chrisgpz/" 
 #  - name: "Camila Gallego"
@@ -114,7 +114,7 @@ team_members: # Name is the only required field for team members.
 #   github: ""
 #   image: ".jpg"  
   - name: "Miguel Teheran"
-    employer: "Gorilla Logic"
+    employer: "Globant"
     image: "miguel.png" 
     twitter: "Mteheran"
     linkedin: "https://www.linkedin.com/in/miguel-angel-teheran-garcia-1a034525/"
@@ -145,7 +145,42 @@ sponsors:
 # - id: samplesponsorname
 #   level: gold
 #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-
+  - id: agileconsulting
+    level: diamond
+  - id: rutan
+    level: diamond
+  - id: 2020-devco
+    level: diamond
+  - id: zivra
+    level: diamond
+  - id: fluidattacks
+    level: platinum
+  - id: certiprof
+    level: platinum
+  - id: geniussports
+    level: platinum
+  - id: universidad-ces
+    level: gold
+  - id: techandsolve
+    level: gold
+  - id: ceiba
+    level: gold
+  - id: devopsinstitute2020
+    level: gold
+  - id: pragma
+    level: gold
+  - id: linux-professional-institute
+    level: gold
+  - id: castor
+    level: gold
+  - id: unijaveriana
+    level: gold
+  - id: accenture
+    level: gold
+  - id: masglobal
+    level: gold
+  - id: nginx
+    level: gold
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -153,5 +188,10 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
- 
+  - id: diamond
+    label: Diamond
+  - id: platinum
+    label: Platinum
+  - id: gold
+    label: Gold
 

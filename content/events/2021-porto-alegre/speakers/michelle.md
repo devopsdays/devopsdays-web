@@ -17,3 +17,4 @@ She acted as a Tech Policy Advisor for governmental initiatives and have contrib
  worldwide. Michelle has been involved in different open source 
 communities such as the DevOpsDays, the Debian Project, and the 
 LinuxChix.
+

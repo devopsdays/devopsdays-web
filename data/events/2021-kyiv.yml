@@ -11,8 +11,8 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2021-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: 2021-04-22T00:00:00+03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2021-04-24T23:59:59+03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2021-04-20T00:00:00+03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2021-04-22T23:59:59+03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2021-01-01T00:00:00+03:00 # start accepting talk proposals.
@@ -23,7 +23,7 @@ cfp_open: "true"
 cfp_link: "https://forms.gle/DR5omkuu8NfG4RCm9" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2021-01-01T00:00:00+03:00 # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: 2021-04-23T23:59:59+03:00 # close registration. Leave blank if registration is not open yet.
+registration_date_end: 2021-04-22T23:59:59+03:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://636496.typeform.com/to/EPjxtL" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -57,14 +57,19 @@ team_members: # Name is the only required field for team members.
   - name: "Yurii Rochniak"
     employer: "N26"
     twitter: "grem11n"
-    bio: ""
+    github: "grem11n"
+    linkedin: "https://linkedin.com/in/yrochnyak/"
+    bio: "Yurii Rochniak is currently an SRE at N26 neobank where he's working on creating an internal self-service platform for engineers. Through his career, he was focusing on infra development and CI/CD topics in the companies of various sizes.
+Yurii is a creator and administrator of CatOps Telegram channel with more than 5k subscribers and an initiator of HashiCorp User Group Kyiv.
+Yurii is originally from Kyiv, but currently located in Berlin. He's into biking and stand up paddleboarding, when the weather allows it."
     image: "yurii-rochniak.jpg"
 
-  - name: "Stas Ivashchenko"
-    employer: "Provectus"
+  - name: "Oleg Mykolaichenko"
+    employer: "SQUAD"
     twitter: ""
-    bio: ""
-    image: "stas-ivashchenko.jpg"
+    bio: "Head of Infrastructure at SQUAD. Leading distributed DevOps team, adopting CNCF + HashiCorp Stack for complex infrastructures. Kyiv DevOps Community Co-Founder, runs the largest Telegram channel about DevOps in Ukraine and DevOps digests on DOU.UA."
+    linkedin: "https://www.linkedin.com/in/oleg-mykolaichenko-763ab699/"
+    image: "oleg-mykolaichenko.jpg"
 
   - name: "Mykola Marzhan"
     employer: "Percona"

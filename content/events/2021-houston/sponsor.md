@@ -39,7 +39,7 @@ Please see our <a href="https://assets.devopsdays.org/events/2021/houston/devops
 	<th>Bronze<br/>&nbsp;</th>
 	<th>Silver<br/>(Limit 4 <sup>&dagger;</sup>)</th>
 	<th>Gold<br/>(Limit 15 <sup>&dagger;</sup>)</th>
-	<th>Platinum<br/>(Limit 5)</th>
+	<th>Platinum<br/>(Limit 4)</th>
 </tr>
 <tr>
 	<th style="text-align:left">Pricing</th>
@@ -59,19 +59,16 @@ Please see our <a href="https://assets.devopsdays.org/events/2021/houston/devops
 </form></center>
 	</th>
 	<th valign="top"><center>
-	<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="KNZDLHRPGPJGL">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
-	</center></th>
-	<th valign="top"><center>
-	<span class="btn btn-warning btn-sm">Almost Sold Out</span> <br/>
-	Email us if interested
+	<span class="btn btn-danger btn-sm">Sold Out</span> <br/>
 	</center></th>
 	<th valign="top"><center>
 	<span class="btn btn-danger btn-sm">Sold Out</span> <br/>
+	</center></th>
+	<th valign="top"><center>
+	<center>
+	<span class="btn btn-warning btn-sm">1 available</span> <br/>
+	Email us if interested
+	</center>
 	</center></th>
 </tr>
 <tr>

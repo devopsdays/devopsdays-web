@@ -8,3 +8,4 @@ linktitle = "diego"
 +++ 
 
 Diego Cardoso Garcia é Consultor de Desenvolvimento Sênior na ThoughtWorks. Engenheiro de Computação, especialista em Engenharia de Software. Atua promovendo soluções e práticas da cultura DevOps. Além de produzir cerveja nas horas vagas.
+

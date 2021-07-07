@@ -11,19 +11,19 @@ event_group: "Zürich"
 #   variable: 2021-09-09T23:59:59+02:00
 # Note: we allow 2021-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate:  2021-04-21T00:00:00+02:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  2021-04-22T23:59:59+02:00 # The end date of your event. Leave blank if you don't have a venue reserved yet. 
+startdate:  2021-09-07T00:00:00+02:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  2021-09-08T23:59:59+02:00 # The end date of your event. Leave blank if you don't have a venue reserved yet. 
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  2019-11-18T00:00:00+02:00 # start accepting talk proposals.
-cfp_date_end:  2020-03-15T23:59:59+02:00 # close your call for proposals.
-cfp_date_announce: 2020-04-30T00:00:00+02:00 # inform proposers of status
+cfp_date_start:  2021-02-04T00:00:00+02:00 # start accepting talk proposals.
+cfp_date_end:  2021-05-31T23:59:59+02:00 # close your call for proposals.
+cfp_date_announce: 2021-07-01T00:00:00+02:00 # inform proposers of status
 
 cfp_open: "true"
-cfp_link: "https://sessionize.com/devopsdayszh-2020/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://sessionize.com/devopsdayszh-2021/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: 2020-02-10T00:00:00+02:00
-registration_date_end: 2021-04-20T00:00:00+02:00
+registration_date_start: 2021-02-01T00:00:00+02:00
+registration_date_end: 2021-09-06T00:00:00+02:00
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://ti.to/dod/dodzh2020" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -36,11 +36,13 @@ location: "Alte Kaserne Winterthur" # Defaults to city, but you can make it the 
 location_address: "Technikumstrasse 8, 8400 Winterthur, Switzerland" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+#  - name: propose
   - name: location
   - name: registration
- # - name: program
- # - name: speakers
+  - name: diversity
+  - name: covid
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -178,8 +180,6 @@ sponsors:
     level: bronze
   - id: sap
     level: bronze
-  - id: googlecloud
-    level: gold
   - id: locatee
     level: bronze  
   - id: youstream
@@ -195,6 +195,15 @@ sponsors:
     level: silver
   - id: switch
     level: bronze
+  - id: checkmarx
+    level: gold
+  - id: basis
+    level: silver
+  - id: wehackpurple
+    level: community
+  - id: swissdevjobs
+    level: partner 
+
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -218,3 +227,227 @@ sponsor_levels:
   - id: partner
     label: Partner
     max: 0
+
+program:
+# Day 1
+- title: Registration & Welcome Coffee
+  type: custom
+  date: 2021-09-07
+  start_time: '8:00'
+  end_time: '9:00'
+
+- title: Opening
+  type: custom
+  date: 2021-09-07
+  start_time: '9:00'
+  end_time: '9:15'
+  
+- title: busra-koken
+  type: talk
+  date: 2021-09-07
+  start_time: '9:15'
+  end_time: '10:00'
+
+- title: johan-abildskov
+  type: talk
+  date: 2021-09-07
+  start_time: '10:00'
+  end_time: '10:30'
+
+- title: Break
+  type: custom
+  date: 2021-09-07
+  start_time: '10:30'
+  end_time: '11:00'
+
+- title: stacy-cashmore
+  type: talk
+  date: 2021-09-07
+  start_time: '11:00'
+  end_time: '11:30'
+  
+- title: olowoniwa-gabriel-ayokunle
+  type: talk
+  date: 2021-09-07
+  start_time: '11:30'
+  end_time: '12:00'
+
+- title: pj-hagerty
+  type: talk
+  date: 2021-09-07
+  start_time: '12:00'
+  end_time: '12:30'
+
+- title: Lunch
+  type: custom
+  date: 2021-09-07
+  start_time: '12:30'
+  end_time: '14:00'
+
+- title: Opening Afternoon
+  type: custom
+  date: 2021-09-07
+  start_time: '14:00'
+  end_time: '14:05'
+
+- title: "Ignites"
+  type: ignite
+  date: 2021-09-07
+  start_time: '14:05'
+  end_time: '14:30'
+
+- title: "Open Space"
+  type: open-space
+  date: 2021-09-07
+  start_time: '14:30'
+  end_time: '16:30'
+
+- title: marco-consolaro
+  type: workshop
+  date: 2021-09-07
+  start_time: '14:30'
+  end_time: '16:30'
+
+- title: courtney-heba
+  type: workshop
+  date: 2021-09-07
+  start_time: '15:00'
+  end_time: '16:30'
+
+- title: workshop-philipp-krenn
+  type: workshop
+  date: 2021-09-07
+  start_time: '15:00'
+  end_time: '16:30'
+
+- title: jonathan-smart
+  type: talk
+  date: 2021-09-07
+  start_time: '16:30'
+  end_time: '17:30'
+
+- title: Evening Event
+  type: custom
+  date: 2021-09-07
+  start_time: '17:30'
+  end_time: ''
+
+# Day 2
+- title: Registration & Welcome Coffee
+  type: custom
+  date: 2021-09-08
+  start_time: '8:00'
+  end_time: '9:00'
+
+- title: Opening
+  type: custom
+  date: 2021-09-08
+  start_time: '9:00'
+  end_time: '9:15'
+  
+- title: sebastien-goasguen
+  type: talk
+  date: 2021-09-08
+  start_time: '9:15'
+  end_time: '10:00'
+
+- title: quintessence-anx
+  type: talk
+  date: 2021-09-08
+  start_time: '10:00'
+  end_time: '10:30'
+
+- title: Break
+  type: custom
+  date: 2021-09-08
+  start_time: '10:30'
+  end_time: '11:00'
+
+- title: jelena-malic
+  type: talk
+  date: 2021-09-08
+  start_time: '11:00'
+  end_time: '11:30'
+  
+- title: jessica-fields
+  type: talk
+  date: 2021-09-08
+  start_time: '11:30'
+  end_time: '12:00'
+
+- title: michael-cote
+  type: talk
+  date: 2021-09-08
+  start_time: '12:00'
+  end_time: '12:30'
+
+- title: Lunch
+  type: custom
+  date: 2021-09-08
+  start_time: '12:30'
+  end_time: '14:00'
+
+- title: Opening Afternoon
+  type: custom
+  date: 2021-09-08
+  start_time: '14:00'
+  end_time: '14:05'
+
+- title: "Ignites"
+  type: ignite
+  date: 2021-09-08
+  start_time: '14:05'
+  end_time: '14:30'
+
+- title: "Open Space"
+  type: open-space
+  date: 2021-09-08
+  start_time: '14:30'
+  end_time: '17:15'
+
+- title: batel-zohar
+  type: workshop
+  date: 2021-09-08
+  start_time: '15:00'
+  end_time: '17:15'
+
+- title: cosima-laube
+  type: workshop
+  date: 2021-09-08
+  start_time: '15:00'
+  end_time: '17:15'
+
+- title: andrea-giardini
+  type: workshop
+  date: 2021-09-08
+  start_time: '15:00'
+  end_time: '17:15'
+
+- title: Award Ceremony
+  type: custom
+  date: 2021-09-08
+  start_time: '17:15'
+  end_time: '17:30'
+
+
+ignites:
+  - title: "jeremy-meiss"
+    date: 2021-09-07
+  - title: "georg-hauzenberger"
+    date: 2021-09-07
+  - title: "christian-jakob"
+    date: 2021-09-07
+  - title: "david-patrick-adam"
+    date: 2021-09-07
+  - title: "tobias-hauk"
+    date: 2021-09-07
+  - title: "achim-toeper"
+    date: 2021-09-08
+  - title: "justus-graumann"
+    date: 2021-09-08
+  - title: "mirza-dautbegovic"
+    date: 2021-09-08
+  - title: "ignite-johan-abildskov"
+    date: 2021-09-08
+  - title: "philipp-krenn"
+    date: 2021-09-08

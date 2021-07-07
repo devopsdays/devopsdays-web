@@ -5,7 +5,7 @@ aliases = ["/events/2021-raleigh/"]
 Description = "devopsdays Raleigh 2021"
 +++
 
-# DevopsDaysRDU will now be a virtual event on April 8th. More details will be published soon! 
+# DevopsDaysRDU will now be a virtual event on April 8th. Registration is open! 
 
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
@@ -20,14 +20,14 @@ Description = "devopsdays Raleigh 2021"
   </div>
 </div>
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div>
+</div> -->
 
 <div class = "row">
   <div class = "col-md-2">
@@ -38,14 +38,14 @@ Description = "devopsdays Raleigh 2021"
   </div>
 </div>
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
-</div>
+</div> -->
 
 <!-- <div class = "row">
   <div class = "col-md-2">
