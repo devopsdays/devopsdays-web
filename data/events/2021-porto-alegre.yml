@@ -226,7 +226,7 @@ program:
     date: 2021-07-10
     start_time: "12:05"
     end_time: "13:30"
-  - title: "Painel"
+  - title: "Painel - Cultura, carreira e segurança"
     type: ignite
     date: 2021-07-10
     start_time: "13:35"
@@ -279,5 +279,7 @@ ignites:
   - title: "diego"
     date: "2021-07-10"
   - title: "samuel"
+    date: "2021-07-10"
+  - title: "malu"
     date: "2021-07-10"
     
