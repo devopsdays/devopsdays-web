@@ -10,7 +10,7 @@ cancel: "false"
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2020-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: 2021-07-10T09:00:00-03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2021-07-08T09:00:00-03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
 enddate: 2021-07-10T19:00:00-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
@@ -186,6 +186,58 @@ sponsor_levels:
     label: Community
 
 program:
+  - title: "Abertura"
+    type: custom
+    date: 2021-07-08
+    start_time: "18:00"
+    end_time: "18:15"
+  - title: "anderson-marlon"
+    type: talk
+    date: 2021-07-08
+    start_time: "18:15"
+    end_time: "18:45"
+  - title: "guilherme-costa"
+    type: talk
+    date: 2021-07-08
+    start_time: "18:45"
+    end_time: "19:15"
+  - title: "hugo"
+    type: talk
+    date: 2021-07-08
+    start_time: "19:15"
+    end_time: "19:45"
+  - title: "Encerramento"
+    type: custom
+    date: 2021-07-08
+    start_time: "19:45"
+    end_time: "20:00"
+
+  - title: "Abertura"
+    type: custom
+    date: 2021-07-09
+    start_time: "18:00"
+    end_time: "18:15"
+  - title: "rafael"
+    type: talk
+    date: 2021-07-09
+    start_time: "18:15"
+    end_time: "18:45"
+  - title: "gomex"
+    type: talk
+    date: 2021-07-09
+    start_time: "18:45"
+    end_time: "19:15"
+  - title: "sheimy"
+    type: talk
+    date: 2021-07-09
+    start_time: "19:15"
+    end_time: "19:45"
+  - title: "Encerramento"
+    type: custom
+    date: 2021-07-09
+    start_time: "19:45"
+    end_time: "20:00"
+
   - title: "Abertura"
     type: custom
     date: 2021-07-10
