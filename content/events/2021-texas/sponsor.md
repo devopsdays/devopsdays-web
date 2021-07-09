@@ -44,10 +44,10 @@ registration, breakout rooms with video, and private channels for coordination.
 
 | Package | Price | Purchase | What You Get |
 | --- | :---: | :---: | --- |
-| Captioning | $5,500 | Email us | Do you want to really stand out with your sponsorship? If so, the Captioning Sponsorship will set you apart from the crowd. We have two openings, one for each day of the conference. Your company will be featured on our transcription streams. This also includes everything from the Gold Package. |
-| Gold 	 | $3,000 | <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=44B7GQS5APZAN" class="btn btn-success"><i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Pay Now!</a> | Our highest visibility package also includes Voice and Audio in your very own DIscord Channel. Beyond that you’ll get premium placement for your pre-recorded pitch and access to 5 emojis on Discord. |
-| Silver | $2,000 | <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TH9MMZDRDML8J" class="btn btn-success"><i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Pay Now!</a> | A step down from Gold, the Silver package still includes a 2 minute pre-recorded pitch and 3 custom emojis in Discord. This is great for sponsors that want to engage with our attendees but don’t need full Audio and Video for their Sponsor Channel.|
-| Bronze | $1,000 | <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HUH8WC4WGGV6U" class="btn btn-success"><i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Pay Now!</a> | If you want to find your next hire or need to build out your team, this package is great for advertising open positions and drawing quality candidates.|
+| Captioning | $5,500 | <span class="btn btn-danger btn-sm">Sold Out</span> | Do you want to really stand out with your sponsorship? If so, the Captioning Sponsorship will set you apart from the crowd. We have two openings, one for each day of the conference. Your company will be featured on our transcription streams. This also includes everything from the Gold Package. |
+| Gold 	 | $3,000 | <span class="btn btn-danger btn-sm">Sold Out</span><!--<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=44B7GQS5APZAN" class="btn btn-success"><i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Pay Now!</a>--> | Our highest visibility package also includes Voice and Audio in your very own DIscord Channel. Beyond that you’ll get premium placement for your pre-recorded pitch and access to 5 emojis on Discord. |
+| Silver | $2,000 | <span class="btn btn-danger btn-sm">Sold Out</span><!--<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TH9MMZDRDML8J" class="btn btn-success"><i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Pay Now!</a>--> | A step down from Gold, the Silver package still includes a 2 minute pre-recorded pitch and 3 custom emojis in Discord. This is great for sponsors that want to engage with our attendees but don’t need full Audio and Video for their Sponsor Channel.|
+| Bronze | $1,000 | <span class="btn btn-danger btn-sm">Sold Out</span><!--<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HUH8WC4WGGV6U" class="btn btn-success"><i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Pay Now!</a>--> | If you want to find your next hire or need to build out your team, this package is great for advertising open positions and drawing quality candidates.|
 | Community | Free | Email us | Are you a Meetup, a social organization in the STEM field, or another conference? If so please consider becoming a Community Sponsor (for free!) and help build out our network of DevOps enthusiasts. We also provide a free channel on our Discord server where you can engage with your community. |
 
 <p></p>
@@ -66,10 +66,10 @@ registration, breakout rooms with video, and private channels for coordination.
 <tr>
 	<th>Sponsor Packages</th>
 	<th>Captioning<br/>(max 2)</th>
-	<th>Gold<br/>(max 3)</th>
-	<th>Silver<br/>(max 4)</th>
-	<th>Bronze<br/>(max 4)</th>
-	<th>Community<br/>Unlimited</th>
+	<th>Gold</th>
+	<th>Silver</th>
+	<th>Bronze</th>
+	<th>Community</th>
 </tr>
 </thead>
 <tbody class="comparison">
@@ -93,11 +93,11 @@ registration, breakout rooms with video, and private channels for coordination.
 
 <tr>
 	<td>Pre-Recorded Pitch</td>
-	<td class="comp">2 Minutes at Either<br/>Opening, Lunch, or Closing</td>
-	<td>2 Minutes at Either<br/>Opening, Lunch, or Closing</td>
-	<td>2 Minutes Before<br/>One of Our Talks</td>
-	<td>1 Minute During<br/>Ignite Talks</td>
-	<td>1 minute, time TBD</td>
+	<td class="comp">2 Minutes</td>
+	<td>2 Minutes</td>
+	<td>2 Minutes</td>
+	<td>1 Minute</td>
+	<td>1 Minute</td>
 </tr>
 
 <tr>

@@ -4,173 +4,132 @@ Type = "event"
 Description = "Sponsor devopsdays Cairo 2020"
 +++
 
-<!-- #######  YAY, I AM THE SOURCE EDITOR! #########-->
-<p class="x_MsoNormal">&nbsp;</p>
-<table class="x_MsoNormalTable" border="0" cellspacing="0" cellpadding="0">
-<tbody>
-<tr>
-<td valign="top" width="260">
-<p class="x_MsoNormal" align="center"><strong>&nbsp;</strong></p>
-<p class="x_MsoNormal" align="center"><strong>Benefits</strong></p>
-</td>
-<td valign="top" width="100">
-<p class="x_MsoNormal" align="center"><strong>Silver</strong></p>
-<p class="x_MsoNormal" align="center"><strong>EGP 3,000</strong></p>
-<p class="x_MsoNormal" align="center"><strong>(no limit)</strong></p>
-</td>
-<td valign="top" width="102">
-<p class="x_MsoNormal" align="center"><strong>Gold</strong></p>
-<p class="x_MsoNormal" align="center"><strong>EGP&nbsp;</strong><strong>6</strong><strong>,000</strong></p>
-<p class="x_MsoNormal" align="center"><strong>(5 sponsors only)</strong></p>
-</td>
-<td valign="top" width="103">
-<p class="x_MsoNormal" align="center"><strong>Platinum</strong></p>
-<p class="x_MsoNormal" align="center"><strong>EGP 1</strong><strong>5</strong><strong>,000</strong></p>
-<p class="x_MsoNormal" align="center"><strong>(3 sponsor</strong><strong>s</strong><strong>)</strong></p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="260">
-<p class="x_MsoNormal"><strong>&nbsp;</strong></p>
-<p class="x_MsoNormal"><strong>Placing company&rsquo;s logo on Devopsdays Cairo page &amp; SECC website</strong></p>
-</td>
-<td valign="top" width="100">
-<p class="x_MsoNormal">&nbsp;</p>
-<p class="x_MsoNormal" align="center">&radic;</p>
-</td>
-<td valign="top" width="102">
-<p class="x_MsoNormal">&nbsp;</p>
-<p class="x_MsoNormal" align="center">&radic;</p>
-</td>
-<td valign="top" width="103">
-<p class="x_MsoNormal">&nbsp;</p>
-<p class="x_MsoNormal" align="center">&radic;</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="260">
-<p class="x_MsoNormal"><strong>&nbsp;</strong></p>
-<p class="x_MsoNormal"><strong>Promoting sponsor in Conference&rsquo;s campaigns</strong></p>
-</td>
-<td valign="top" width="100">
-<p class="x_MsoNormal" align="center">&nbsp;</p>
-<p class="x_MsoNormal" align="center">&radic;</p>
-</td>
-<td valign="top" width="102">
-<p class="x_MsoNormal" align="center">&nbsp;</p>
-<p class="x_MsoNormal" align="center">&radic;</p>
-</td>
-<td valign="top" width="103">
-<p class="x_MsoNormal" align="center">&nbsp;</p>
-<p class="x_MsoNormal" align="center">&radic;</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="260">
-<p class="x_MsoNormal"><strong>&nbsp;</strong></p>
-<p class="x_MsoNormal"><strong>Certificate of recognition</strong></p>
-</td>
-<td valign="top" width="100">
-<p class="x_MsoNormal" align="center">&nbsp;</p>
-<p class="x_MsoNormal" align="center">&radic;</p>
-</td>
-<td valign="top" width="102">
-<p class="x_MsoNormal" align="center">&nbsp;</p>
-<p class="x_MsoNormal" align="center">&radic;</p>
-</td>
-<td valign="top" width="103">
-<p class="x_MsoNormal" align="center">&nbsp;</p>
-<p class="x_MsoNormal" align="center">&radic;</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="260">
-<p class="x_MsoNormal"><strong>&nbsp;</strong></p>
-<p class="x_MsoNormal"><strong>Placing &ldquo;Thank You Note&rsquo; banner for sponsor on SECC website with link to company&rsquo;s website (pre-event and post-event for 1 month)</strong></p>
-</td>
-<td valign="top" width="100">
-<p class="x_MsoNormal" align="center">&nbsp;</p>
-</td>
-<td valign="top" width="102">
-<p class="x_MsoNormal" align="center">&nbsp;</p>
-<p class="x_MsoNormal" align="center">&radic;</p>
-</td>
-<td valign="top" width="103">
-<p class="x_MsoNormal" align="center">&nbsp;</p>
-<p class="x_MsoNormal" align="center">&radic;</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="260">
-<p class="x_MsoNormal"><strong>&nbsp;</strong></p>
-<p class="x_MsoNormal"><strong>1 free visit by an expert from SECC to assess company&rsquo;s pain areas and propose best solutions</strong></p>
-</td>
-<td valign="top" width="100">&nbsp;</td>
-<td valign="top" width="102">
-<p class="x_MsoNormal" align="center">&nbsp;</p>
-<p class="x_MsoNormal" align="center">&radic;</p>
-</td>
-<td valign="top" width="103">
-<p class="x_MsoNormal" align="center">&nbsp;</p>
-<p class="x_MsoNormal" align="center">&radic;</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="260">
-<p class="x_MsoNormal"><strong>&nbsp;</strong></p>
-<p class="x_MsoNormal"><strong>Free training seats at SECC courses (except CMMI, COBIT, TOGAF, ITIL)</strong></p>
-</td>
-<td valign="top" width="100">
-<p class="x_MsoNormal">&nbsp;</p>
-<p class="x_MsoNormal">&nbsp;</p>
-</td>
-<td valign="top" width="102">
-<p class="x_MsoNormal" align="center">&nbsp;</p>
-<p class="x_MsoNormal" align="center">&nbsp;</p>
-<p class="x_MsoNormal" align="center">&nbsp;</p>
-</td>
-<td valign="top" width="103">
-<p class="x_MsoNormal" align="center">&nbsp;</p>
-<p class="x_MsoNormal" align="center">&radic;</p>
-<p class="x_MsoNormal" align="center">(2 seats)</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="260">
-<p class="x_MsoNormal"><strong>&nbsp;</strong></p>
-<p class="x_MsoNormal"><strong>2-minutes promo presentation in breaks</strong></p>
-</td>
-<td valign="top" width="100">
-<p class="x_MsoNormal"><strong>&nbsp;</strong></p>
-</td>
-<td valign="top" width="102">
-<p class="x_MsoNormal" align="center">&nbsp;</p>
-</td>
-<td valign="top" width="103">
-<p class="x_MsoNormal" align="center">&nbsp;</p>
-<p class="x_MsoNormal" align="center">&radic;</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="260">
-<p class="x_MsoNormal"><strong>&nbsp;</strong></p>
-<p class="x_MsoNormal"><strong>Free ISTQB Foundation exam seat</strong></p>
-</td>
-<td valign="top" width="100">
-<p class="x_MsoNormal"><strong>&nbsp;</strong></p>
-</td>
-<td valign="top" width="102">
-<p class="x_MsoNormal">&nbsp;</p>
-</td>
-<td valign="top" width="103">
-<p class="x_MsoNormal" align="center"><strong>&nbsp;</strong></p>
-<p class="x_MsoNormal" align="center">&radic;</p>
-<p class="x_MsoNormal" align="center">(1 exam seat)</p>
-</td>
-</tr>
-</tbody>
+<p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;margin-bottom:.0001pt;'>&nbsp;</p>
+<table style="border: none;margin-left:80.7pt;border-collapse:collapse;">
+    <tbody>
+        <tr>
+            <td style="width: 377.7pt;border: 1pt solid rgb(255, 217, 102);padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;margin-bottom:.0001pt;text-align:center;'><strong><span style="color:black;">&nbsp;</span></strong></p>
+                <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;margin-bottom:.0001pt;text-align:center;'><strong><span style="color:black;">Benefits</span></strong></p>
+            </td>
+            <td style="width: 94.5pt;border-top: 1pt solid rgb(255, 217, 102);border-right: 1pt solid rgb(255, 217, 102);border-bottom: 1pt solid rgb(255, 217, 102);border-image: initial;border-left: none;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;margin-bottom:.0001pt;text-align:center;'><strong><span style="color:black;">Silver</span></strong></p>
+                <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;margin-bottom:.0001pt;text-align:center;'><strong><span style="color:black;">EGP 3,000</span></strong></p>
+                <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;margin-bottom:.0001pt;text-align:center;'><strong><span style="color:black;">(no limit)</span></strong></p>
+            </td>
+            <td style="width: 103.5pt;border-top: 1pt solid rgb(255, 217, 102);border-right: 1pt solid rgb(255, 217, 102);border-bottom: 1pt solid rgb(255, 217, 102);border-image: initial;border-left: none;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;margin-bottom:.0001pt;text-align:center;'><strong><span style="color:black;">Gold</span></strong></p>
+                <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;margin-bottom:.0001pt;text-align:center;'><strong><span style="color:black;">EGP&nbsp;6,000</span></strong></p>
+                <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;margin-bottom:.0001pt;text-align:center;'><strong><span style="color:black;">(5 sponsors only)</span></strong></p>
+            </td>
+            <td style="width: 112.5pt;border-top: 1pt solid rgb(255, 217, 102);border-right: 1pt solid rgb(255, 217, 102);border-bottom: 1pt solid rgb(255, 217, 102);border-image: initial;border-left: none;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;margin-bottom:.0001pt;text-align:center;'><strong><span style="color:black;">Platinum</span></strong></p>
+                <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;margin-bottom:.0001pt;text-align:center;'><strong><span style="color:black;">EGP 15,000</span></strong></p>
+                <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;margin-bottom:.0001pt;text-align:center;'><strong><span style="color:black;">(3 sponsors only)</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 377.7pt;border-right: 1pt solid rgb(255, 217, 102);border-bottom: 1pt solid rgb(255, 217, 102);border-left: 1pt solid rgb(255, 217, 102);border-image: initial;border-top: none;background: rgb(255, 242, 204);padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;margin-bottom:.0001pt;'><span style="color:black;">Placing company&rsquo;s logo on Devopsdays Cairo page &amp; SECC website</span></p>
+            </td>
+            <td style="width: 94.5pt;border-top: none;border-left: none;border-bottom: 1pt solid rgb(255, 217, 102);border-right: 1pt solid rgb(255, 217, 102);background: rgb(255, 242, 204);padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;margin-bottom:.0001pt;text-align:center;'><span style="color:black;">&radic;</span></p>
+            </td>
+            <td style="width: 103.5pt;border-top: none;border-left: none;border-bottom: 1pt solid rgb(255, 217, 102);border-right: 1pt solid rgb(255, 217, 102);background: rgb(255, 242, 204);padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;margin-bottom:.0001pt;text-align:center;'><span style="color:black;">&radic;</span></p>
+            </td>
+            <td style="width: 112.5pt;border-top: none;border-left: none;border-bottom: 1pt solid rgb(255, 217, 102);border-right: 1pt solid rgb(255, 217, 102);background: rgb(255, 242, 204);padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;margin-bottom:.0001pt;text-align:center;'><span style="color:black;">&radic;</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 377.7pt;border-right: 1pt solid rgb(255, 217, 102);border-bottom: 1pt solid rgb(255, 217, 102);border-left: 1pt solid rgb(255, 217, 102);border-image: initial;border-top: none;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;margin-bottom:.0001pt;'><span style="color:black;">Promoting sponsor in Conference&rsquo;s campaigns</span></p>
+            </td>
+            <td style="width: 94.5pt;border-top: none;border-left: none;border-bottom: 1pt solid rgb(255, 217, 102);border-right: 1pt solid rgb(255, 217, 102);padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;margin-bottom:.0001pt;text-align:center;'><span style="color:black;">&nbsp;&radic;</span></p>
+            </td>
+            <td style="width: 103.5pt;border-top: none;border-left: none;border-bottom: 1pt solid rgb(255, 217, 102);border-right: 1pt solid rgb(255, 217, 102);padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;margin-bottom:.0001pt;text-align:center;'><span style="color:black;">&nbsp;&radic;</span></p>
+            </td>
+            <td style="width: 112.5pt;border-top: none;border-left: none;border-bottom: 1pt solid rgb(255, 217, 102);border-right: 1pt solid rgb(255, 217, 102);padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;margin-bottom:.0001pt;text-align:center;'><span style="color:black;">&nbsp;&radic;</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 377.7pt;border-right: 1pt solid rgb(255, 217, 102);border-bottom: 1pt solid rgb(255, 217, 102);border-left: 1pt solid rgb(255, 217, 102);border-image: initial;border-top: none;background: rgb(255, 242, 204);padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;margin-bottom:.0001pt;'><span style="color:black;">Certificate of recognition</span></p>
+            </td>
+            <td style="width: 94.5pt;border-top: none;border-left: none;border-bottom: 1pt solid rgb(255, 217, 102);border-right: 1pt solid rgb(255, 217, 102);background: rgb(255, 242, 204);padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;margin-bottom:.0001pt;text-align:center;'><span style="color:black;">&nbsp;&radic;</span></p>
+            </td>
+            <td style="width: 103.5pt;border-top: none;border-left: none;border-bottom: 1pt solid rgb(255, 217, 102);border-right: 1pt solid rgb(255, 217, 102);background: rgb(255, 242, 204);padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;margin-bottom:.0001pt;text-align:center;'><span style="color:black;">&nbsp;&radic;</span></p>
+            </td>
+            <td style="width: 112.5pt;border-top: none;border-left: none;border-bottom: 1pt solid rgb(255, 217, 102);border-right: 1pt solid rgb(255, 217, 102);background: rgb(255, 242, 204);padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;margin-bottom:.0001pt;text-align:center;'><span style="color:black;">&nbsp;&radic;</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 377.7pt;border-right: 1pt solid rgb(255, 217, 102);border-bottom: 1pt solid rgb(255, 217, 102);border-left: 1pt solid rgb(255, 217, 102);border-image: initial;border-top: none;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;margin-bottom:.0001pt;'><span style="color:black;">Placing &ldquo;Thank You Note&rsquo; banner for sponsor on SECC website with link to company&rsquo;s website (pre-event and post-event for 1 month)</span></p>
+            </td>
+            <td style="width: 94.5pt;border-top: none;border-left: none;border-bottom: 1pt solid rgb(255, 217, 102);border-right: 1pt solid rgb(255, 217, 102);padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;margin-bottom:.0001pt;text-align:center;'><span style="color:black;">&nbsp;</span></p>
+            </td>
+            <td style="width: 103.5pt;border-top: none;border-left: none;border-bottom: 1pt solid rgb(255, 217, 102);border-right: 1pt solid rgb(255, 217, 102);padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;margin-bottom:.0001pt;text-align:center;'><span style="color:black;">&nbsp;&radic;</span></p>
+            </td>
+            <td style="width: 112.5pt;border-top: none;border-left: none;border-bottom: 1pt solid rgb(255, 217, 102);border-right: 1pt solid rgb(255, 217, 102);padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;margin-bottom:.0001pt;text-align:center;'><span style="color:black;">&nbsp;&radic;</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 377.7pt;border-right: 1pt solid rgb(255, 217, 102);border-bottom: 1pt solid rgb(255, 217, 102);border-left: 1pt solid rgb(255, 217, 102);border-image: initial;border-top: none;background: rgb(255, 242, 204);padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;margin-bottom:.0001pt;'><span style="color:black;">1 free visit by an expert from SECC to assess company&rsquo;s pain areas and propose best solutions</span></p>
+            </td>
+            <td style="width: 94.5pt;border-top: none;border-left: none;border-bottom: 1pt solid rgb(255, 217, 102);border-right: 1pt solid rgb(255, 217, 102);background: rgb(255, 242, 204);padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;margin-bottom:.0001pt;'><span style="color:black;">&nbsp;</span></p>
+            </td>
+            <td style="width: 103.5pt;border-top: none;border-left: none;border-bottom: 1pt solid rgb(255, 217, 102);border-right: 1pt solid rgb(255, 217, 102);background: rgb(255, 242, 204);padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;margin-bottom:.0001pt;text-align:center;'><span style="color:black;">&nbsp;&radic;</span></p>
+            </td>
+            <td style="width: 112.5pt;border-top: none;border-left: none;border-bottom: 1pt solid rgb(255, 217, 102);border-right: 1pt solid rgb(255, 217, 102);background: rgb(255, 242, 204);padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;margin-bottom:.0001pt;text-align:center;'><span style="color:black;">&nbsp;&radic;</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 377.7pt;border-right: 1pt solid rgb(255, 217, 102);border-bottom: 1pt solid rgb(255, 217, 102);border-left: 1pt solid rgb(255, 217, 102);border-image: initial;border-top: none;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;margin-bottom:.0001pt;'><span style="color:black;">Free training seats at SECC courses (except CMMI, COBIT, TOGAF, ITIL)</span></p>
+            </td>
+            <td style="width: 94.5pt;border-top: none;border-left: none;border-bottom: 1pt solid rgb(255, 217, 102);border-right: 1pt solid rgb(255, 217, 102);padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;margin-bottom:.0001pt;'><span style="color:black;">&nbsp;</span></p>
+            </td>
+            <td style="width: 103.5pt;border-top: none;border-left: none;border-bottom: 1pt solid rgb(255, 217, 102);border-right: 1pt solid rgb(255, 217, 102);padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;margin-bottom:.0001pt;text-align:center;'><span style="color:black;">&nbsp;&radic; (1 training seat)</span></p>
+            </td>
+            <td style="width: 112.5pt;border-top: none;border-left: none;border-bottom: 1pt solid rgb(255, 217, 102);border-right: 1pt solid rgb(255, 217, 102);padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;margin-bottom:.0001pt;text-align:center;'><span style="color:black;">&radic; (2 training seats)</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 377.7pt;border-right: 1pt solid rgb(255, 217, 102);border-bottom: 1pt solid rgb(255, 217, 102);border-left: 1pt solid rgb(255, 217, 102);border-image: initial;border-top: none;background: rgb(255, 242, 204);padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;margin-bottom:.0001pt;'><span style="color:black;">Free ISTQB Advance exam seat</span></p>
+            </td>
+            <td style="width: 94.5pt;border-top: none;border-left: none;border-bottom: 1pt solid rgb(255, 217, 102);border-right: 1pt solid rgb(255, 217, 102);background: rgb(255, 242, 204);padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;margin-bottom:.0001pt;'><span style="color:black;">&radic; &nbsp;(1 exam seat)</span></p>
+            </td>
+            <td style="width: 103.5pt;border-top: none;border-left: none;border-bottom: 1pt solid rgb(255, 217, 102);border-right: 1pt solid rgb(255, 217, 102);background: rgb(255, 242, 204);padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;margin-bottom:.0001pt;'><span style="color:black;">&radic; &nbsp;(1 exam seat)</span></p>
+            </td>
+            <td style="width: 112.5pt;border-top: none;border-left: none;border-bottom: 1pt solid rgb(255, 217, 102);border-right: 1pt solid rgb(255, 217, 102);background: rgb(255, 242, 204);padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;margin-bottom:.0001pt;text-align:center;'><span style="color:black;">&radic; &nbsp;(2 exam seats)</span></p>
+            </td>
+        </tr>
+    </tbody>
 </table>
-<p class="x_MsoNormal">&nbsp;</p>
+<p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;margin-bottom:.0001pt;'>&nbsp;</p>
+
 
 <p>We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an 
 

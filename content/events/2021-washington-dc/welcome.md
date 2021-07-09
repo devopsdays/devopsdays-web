@@ -10,7 +10,7 @@ Description = "DevOpsDays Washington, D.C. 2021"
     {{< event_logo >}}
   </span>
 
-  The Coronavirus Pandemic kept us from hosting a DevOpsDays DC in 2020 but we are committed to returning in 2021, even if via a virtual platform.  Watch this space for more details.  In the meantime, you are welcome to revisit your favorite memories from DevOpsDays DC <a href="/events/2019-washington-dc/welcome">2019</a>. <a href="/events/2018-washington-dc/welcome">2018</a>, <a href="/events/2017-washington-dc/welcome">2017</a>, <a href="/events/2016-washington-dc/welcome">2016</a>, and <a href="https://legacy.devopsdays.org/events/2015-washington-dc/">2015</a>.
+  DevOpsDays DC is planning a return in Septemeber, 2021.  Watch this space for more details.  In the meantime, you are welcome to revisit your favorite memories from DevOpsDays DC <a href="/events/2019-washington-dc/welcome">2019</a>. <a href="/events/2018-washington-dc/welcome">2018</a>, <a href="/events/2017-washington-dc/welcome">2017</a>, <a href="/events/2016-washington-dc/welcome">2016</a>, and <a href="https://legacy.devopsdays.org/events/2015-washington-dc/">2015</a>.
 </p>
 
 <div class = "row">
@@ -18,7 +18,7 @@ Description = "DevOpsDays Washington, D.C. 2021"
     <strong>Dates</strong>
   </div>
   <div class = "col-md-8">
-    TBD <!-- {{< event_start >}} - {{< event_end >}} -->
+    {{< event_start >}} - {{< event_end >}}
   </div>
 </div>
 

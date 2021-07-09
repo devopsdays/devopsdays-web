@@ -1,7 +1,15 @@
 +++
 Title = "devopsdays Melbourne 2020"
 Type = "welcome"
-aliases = ["/events/2020-melbourne/"]
+aliases = [
+    "/events/2020-melbourne/",
+    "/events/2020-melbourne/conduct/",
+    "/events/2020-melbourne/contact/",
+    "/events/2020-melbourne/location/",
+    "/events/2020-melbourne/propose/",
+    "/events/2020-melbourne/registration/",
+    "/events/2020-melbourne/sponsor/"
+]
 Description = "devopsdays Melbourne 2020"
 +++
 
@@ -9,14 +17,14 @@ Description = "devopsdays Melbourne 2020"
   {{< event_logo >}}
 </div> -->
 
-<div class = "row">
+<!-- div class = "row">
   <div class = "col-md-2">
     <strong>Dates</strong>
   </div>
   <div class = "col-md-8">
     {{< event_start >}} - {{< event_end >}}
   </div>
-</div>
+</div> -->
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -63,22 +71,22 @@ Description = "devopsdays Melbourne 2020"
   </div>
 </div> -->
 
-<div class = "row">
+<!-- div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="sponsor" text="Sponsor the conference!" >}}
   </div>
-</div>
+</div> -->
 
-<div class = "row">
+<!-- div class = "row">
   <div class = "col-md-2">
     <strong>Contact</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="contact" text="Get in touch with the organizers" >}}
   </div>
-</div>
+</div> -->
 
 {{< event_twitter >}}
