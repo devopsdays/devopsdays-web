@@ -16,10 +16,4 @@ slides = ""
 
 ### Workshop
 
-Last year we implemented first Mob Programming pilot at Delta’s Dojo, a technique used to write software code utilizing 4-5 team members instead of a single programmer which reduces costs by 9% per deployment. The pilot’s success has led this practice to be mainstream. Areas of focus for our introduction of this technique:
-o Agility Coaching with Mobs
-Instead of using traditional techniques, teams have learned to disseminate knowledge by mobbing through refinement sessions, enabling the most experienced developer to pass on their knowledge of a particular system to the entire team.
-o Spreading innersource with Mobs
-Innersourcing can be difficult, especially bringing in new contributors, mobbing has helped us make this process easier. New contributors get to work with trusted contributors during our mobbing sessions to gain better understanding of the projects and get themselves up and running.
-o Design first approach with Mobs
-In general, "API Design First" is about closing the feedback loop substantially. We now use mobbing to bring all the necessary stakeholders together to collaborate on the design to improve this feedback loop.
+Two years ago, we implemented the first Mob Programming pilot at Delta’s Dojo, an 8 week immersive experience for IT teams. Mob Programming is a technique used to write software code utilizing 4-5 team members instead of a single programmer which reduces costs by 9% per deployment. The pilot’s success has led this practice to be mainstream at Delta. For the DevOps Days Zurich workshop, we will give a 20 minute introduction into "what is mob programming, benefits, and best practices to doing it." My co-facilitator will then introduce a scenario for which we will have participants mob a written story that satisfies given requirements . The workshop portion will take 70 mins and we will ask participants to switch drivers every 5 minutes. There will be 4-6 people per mob, that way every person has a chance to "drive" at least twice. We will take the final 10 mins to retro, allowing each team to articulate one thing that they would continue to do and one thing they would not do again.
