@@ -1,7 +1,7 @@
 +++ 
 title = "Michelle Ribeiro" 
 Twitter = "michelleribeiro" 
-linkedin = "https://www.linkedin.com/in/michelle/" 
+linkedin = "https://www.linkedin.com/in/michelleribeiro/" 
 website = "https://micheller.io/about/"
 image = "michelle.jpg" 
 type = "speaker" 
