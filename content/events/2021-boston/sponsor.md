@@ -48,7 +48,7 @@ Sponsorship Packages
 </td>
 </tr>
 <tr>
-<th scope="row">Dedicated Breakous w/ Main Stage Reminders</th>
+<th scope="row">Dedicated Breakouts w/ Main Stage Reminders</th>
 <td></td>
 <td>
 <center>1hr</center>
@@ -135,14 +135,6 @@ Sponsorship Packages
 <center>$2,500</center>
 </td>
 </tr>
-<tr>
-<th scope="row">StartUp Alley</th>
-<td>
-<center>4</center>
-</td>
-<td>
-<center>$1,000</center>
-</td>
 </tr>
 <tr>
 <th scope="row">Donations to Underrepresentation Partners</th>

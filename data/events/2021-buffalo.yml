@@ -10,39 +10,38 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2020-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-# startdate: 2021-10-13T00:08:00-04:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-# enddate: 2021-10-14T19:00:00-04:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2021-10-13T00:08:00-04:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2021-10-14T19:00:00-04:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  2021-06-01T23:59:59-05:00 # start accepting talk proposals.
-cfp_date_end:  #2020-05-31T23:59:59-05:00 # close your call for proposals.
-cfp_date_announce:  #2020-07-01T23:59:59-05:00 # inform proposers of status
+cfp_date_end:  2021-07-31T23:59:59-05:00 # close your call for proposals.
+cfp_date_announce:  2021-06-01T23:59:59-05:00 # inform proposers of status
 
-# cfp_link: "https://www.papercall.io/dodbuf202" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://www.papercall.io/dodbuf2021" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: #2020-02-25T12:00:00-05:00 # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: #2020-10-01T11:59:59-05:00 # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2021-06-25T12:00:00-05:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2021-10-13T11:59:59-05:00 # close registration. Leave blank if registration is not open yet.
 
 #registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-#registration_link: "https://ti.to/devops-days-buffalo/2020" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+#registration_link: "https://ti.to/devops-days-buffalo/devops-days-buffalo-2021" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 masthead_background: "buffalo-skyline.jpg"
 sharing_image: #"sharing.png"
 
 # Location
 #
-location: "TBD"
-#coordinates: "42.9294872,-78.8844411" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-#location: "Hotel Henry" # Defaults to city, but you can make it the venue name.
-#location_address: "444 Forrest Avenue, BUFFALO, NY, 14213" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location: "Transit Drive-In | Virtual" # Defaults to city, but you can make it the venue name.
+coordinates: "43.1043787,-78.6961697" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location_address: "6655 S Transit Rd, Lockport, NY 14094, USA" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-# - name: propose
-# - name: location
-#  - name: registration
-#  - url: #"https://ti.to/devops-days-buffalo/2020"
-#  - name: program
-#  - name: speakers
+  - name: propose
+  - name: location
+  - name: registration
+  - url: "https://ti.to/devops-days-buffalo/devops-days-buffalo-2021"
+  - name: program
+  - name: speakers
 #  - name: sponsor
   - name: contact
   - name: conduct

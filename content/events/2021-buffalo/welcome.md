@@ -10,16 +10,16 @@ Description = "DevOpsDays Buffalo is coming back in October!"
   flex-direction: row;
   flex-wrap: nowrap;
   justify-content: space-between;
-  margin: 2em;
+  margin: 3em;
 }
 .bflo .showcase img {
-  max-width: 760px;
-  margin-right: 2em;
+  max-width: 660px;
+  margin-right: 3em;
 }
 .bflo .sidebar {
   background-color: #88aebe33;
   padding: 1em;
-  max-width: 400px;
+  max-width: 600px;
   border-radius: 0.5em;
 }
 .bflo .sidebar h2 {
@@ -32,7 +32,7 @@ Description = "DevOpsDays Buffalo is coming back in October!"
   border: none;
   border-radius: 0.5em;
   font-weight: bold;
-  padding: 1em 3em;
+  padding: 3em 3em;
 }
 .bflo .sidebar h2:not(:nth-of-type(1)) {
   margin-top: 2em;
@@ -52,40 +52,36 @@ Description = "DevOpsDays Buffalo is coming back in October!"
 <!-- {{< event_logo >}} -->
 <div class="bflo">
 
-<!-- <div class="showcase">
-<img src="/events/2020-buffalo/showcase.png">
-</div> -->
+<div class="showcase">
+<img src="/events/2021-buffalo/showcase.png">
+</div>
 
 <div class="sidebar">
-<h2>Registration coming soon!</h2>
-<!-- <p>Tickets are just $25!</p> -->
-<!-- <p><a href="https://ti.to/devops-days-buffalo/2020"><button>Get Your Ticket</button></a></p> -->
+<h2>Registration</h2>
+<p>Tickets for both, the physical and virtual experiences will be announced soon!</p>
+<!-- <p><a href="https://ti.to/devops-days-buffalo/devops-days-buffalo-2021"><button>Get Your Ticket</button></a></p> -->
 
-<!-- <h2>Let's Talk About COVID-19</h2> -->
-<!-- <p>Due to the current COVID-19 guidelines around local,
-   national, and international travel, DevOpsDays Buffalo will
-   be happening virtually this year, with the intent to return
-   as a physical conference in the following years. We have
-   been monitoring the situation throughout the past few
-   months and decided that this is the best course of action
-   in order to ensure the safety of our attendees &mdash;
-   keeping that Buffalove going and making sure you all stay
-   healthy!</p> -->
+<h2>Let's Talk About COVID-19</h2>
+<p>We are continuing to monitor the COVID-19 guidlines and are 
+offering a physical and virtual option for attendance this year. 
+The physical drive-in theater option will allow us to be flexible 
+and adapt to the most recent guidelines leading up to the event. 
+Furthermore, a virtual option will be available for those who would 
+prefer to limit contact with others.</p>
 
-<!-- <p><strong>Related:</strong></p> -->
-<!-- <ul>
+<p><strong>Related:</strong></p>
+<ul>
   <li><a href="https://www.cdc.gov/coronavirus/2019-ncov/index.html" target="_blank">Center for Disease Control</a></li>
   <li><a href="http://www2.erie.gov/health/index.php?q=coronavirus" target="_blank">Erie County Department of Health</a></li>
-</ul> -->
+</ul>
 
-<!-- <p>Stay safe, and safeguard your toilet paper! We’ll see you
-in October!</p> -->
+<p>Physically or virtually, we're excited to see you in October!</p>
 </div>
 
 </div>
 
 
 <!-- Uncomment if you added your city twitter name -->
-<!--
+
 {{< event_twitter >}}
--->
+

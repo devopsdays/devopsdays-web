@@ -37,8 +37,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #  - name: propose
   - name: location
   - name: registration
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -91,13 +91,13 @@ team_members:
     bio: "Bridget Kromhout is a Principal Program Manager at Microsoft Azure, focusing on the open source cloud native ecosystem. Her CS degree emphasis was in theory, but she now deals with the concrete (if 'cloud' can be considered tangible). After years on call for production (from enterprise to research to startups) and a couple of customer-facing adventures, she now herds cats and wrangles docs on the product side of engineering. In the wider tech community, she has done much conference speaking and organizing, and advises the global devopsdays organization after leading it for over five years. Living in Minneapolis, she enjoys snowshoeing in the winter and bicycling in the summer (with winter cycling as a stretch goal)."
     image: "bridget-kromhout.jpg"
   - name: "Andy Fleener"
-    employer: "SportsEngine"
+    employer: "Total Expert"
     twitter: "andyfleener"
-    bio: "Andy Fleener is a Humanist and a New View Safety Nerd who believes software is as much about the people building and running it as it is the people using it. He is a Platform Operations Manager at SportsEngine where he's been doing a mix of development and operations since 2011. Andy enjoys music, football, sushi, oxford commas, and laughing at all the things millennials are ruining."
+    bio: "Andy Fleener is a Humanist and a New View Safety Nerd who believes software is as much about the people building and running it as it is the people using it. He is the Director of Platform Technology at Total Expert where he's focused on building and stewarding their developer experience and cloud infrastructure platform. Andy enjoys music, football, sushi, oxford commas, and laughing at all the things millennials are ruining."
     image: "andy-fleener.jpg"
   - name: "Andy Domeier"
     employer: "SPS Commerce"
-    twitter: "ajdomie"
+    twitter: "AndyJD_"
     bio: "Andy has been in Technology Operations leadership at SPS Commerce since 2005 and currently leads their System Operations, Reliability Engineering, and Continuous Improvement teams. SPS grows aggressively, creating a zany yet fun environment of persistent growth challenges. Andy spends many mental cycles collaborating to solve effective patterns for monitoring and operating complex changing systems."
     image: "andy-domeier.jpg"
   - name: "Ace Oubaha"
@@ -154,6 +154,26 @@ sponsors:
     level: platinum
   - id: pagerduty
     level: silver
+  - id: sps_commerce
+    level: platinum
+  - id: scout
+    level: silver
+  - id: kong
+    level: silver
+  - id: chef
+    level: gold
+  - id: dynatrace
+    level: gold
+  - id: firehydrant
+    level: gold
+  - id: accurics
+    level: gold
+  - id: influxdata
+    level: gold
+  - id: datadog
+    level: silver
+  - id: silvr
+    level: alacarte
 
 
 
@@ -178,4 +198,215 @@ sponsor_levels:
   - id: community
     label: Community
     max: 6
+
+program:
+  - title: "Registration, Coffee, Sponsors"
+    type: custom
+    comments: "Coffee and limited snacks"
+    date: 2021-07-20
+    start_time: "08:00"
+    end_time: "09:00"
+
+  - title: "Day One Opening Welcome"
+    type: custom
+    date: 2021-07-20
+    start_time: "09:00"
+    end_time: "09:10"
+
+  - title: "ian-coldwater"
+    type: talk
+    date: 2021-07-20
+    start_time: "09:10"
+    end_time: "09:40"
+
+  - title: "Sponsors"
+    type: custom
+    date: 2021-07-20
+    start_time: "09:40"
+    end_time: "09:50"
+
+  - title: "steve-buchanan"
+    type: talk
+    date: 2021-07-20
+    start_time: "09:50"
+    end_time: "10:20"
+
+  - title: "Break"
+    comments: "Coffee and limited snacks"
+    type: custom
+    date: 2021-07-20
+    start_time: "10:20"
+    end_time: "10:50"
+
+  - title: "jenessa-white"
+    type: talk
+    date: 2021-07-20
+    start_time: "10:50"
+    end_time: "11:20"
+
+  - title: "Sponsors"
+    type: custom
+    date: 2021-07-20
+    start_time: "11:20"
+    end_time: "11:30"
+
+  - title: "heidi-waterhouse"
+    type: talk
+    date: 2021-07-20
+    start_time: "11:30"
+    end_time: "12:00"
+
+  - title: "Mid-day break"
+    type: custom
+    comments: "Lunch on your own"
+    date: 2021-07-20
+    start_time: "12:00"
+    end_time: "13:30"
+
+  - title: "caroline-karanja"
+    type: talk
+    date: 2021-07-20
+    start_time: "13:45"
+    end_time: "14:15"
+
+  - title: "Ignites"
+    type: ignite
+    date: 2021-07-20
+    start_time: "14:30"
+    end_time: "15:00"
+
+  - title: "Trivia Mafia: devopsdays"
+    type: custom
+    custom_url: "https://www.triviamafia.com/"
+    comments: "Play a fun and educational trivia game customized for our event by the world's best trivia hosts: running both in person and online!"
+    date: 2021-07-20
+    start_time: "15:00"
+    end_time: "17:00"
+
+  - title: "End of Day One"
+    type: custom
+    comments: "Enjoy connecting with the community on your own. See you tomorrow!"
+    date: 2021-07-20
+    start_time: "17:00"
+    end_time: "17:00"
+
+
+  - title: "Registration, Coffee, Sponsors"
+    type: custom
+    comments: "Coffee and limited snacks"
+    date: 2021-07-21
+    start_time: "08:00"
+    end_time: "09:00"
+
+  - title: "Day Two Opening Welcome"
+    type: custom
+    date: 2021-07-21
+    start_time: "09:00"
+    end_time: "09:10"
+
+  - title: "dan-woods"
+    type: talk
+    date: 2021-07-21
+    start_time: "09:10"
+    end_time: "09:40"
+
+  - title: "Sponsors"
+    type: custom
+    date: 2021-07-21
+    start_time: "09:40"
+    end_time: "09:50"
+
+  - title: "tess-flynn"
+    type: talk
+    date: 2021-07-21
+    start_time: "09:50"
+    end_time: "10:20"
+
+  - title: "Morning break"
+    type: custom
+    comments: "Coffee and limited snacks"
+    date: 2021-07-21
+    start_time: "10:20"
+    end_time: "10:50"
+
+  - title: "vanessa-huerta-granda"
+    type: talk
+    date: 2021-07-21
+    start_time: "10:50"
+    end_time: "11:20"
+
+  - title: "Sponsors"
+    type: custom
+    date: 2021-07-21
+    start_time: "11:20"
+    end_time: "11:30"
+
+  - title: "jenna-pederson"
+    type: talk
+    date: 2021-07-21
+    start_time: "11:30"
+    end_time: "12:00"
+
+  - title: "Mid-day break"
+    type: custom
+    comments: "Lunch on your own"
+    date: 2021-07-21
+    start_time: "12:00"
+    end_time: "13:30"
+
+  - title: "Attendee-Suggested Breakouts - Open Space Proposals"
+    type: open-space
+    comments: "https://devopsdays.org/open-space-format/"
+    date: 2021-07-21
+    start_time: "13:30"
+    end_time: "14:30"
+
+  - title: "Sponsor Raffle"
+    type: custom
+    date: 2021-07-21
+    start_time: "14:30"
+    end_time: "15:00"
+
+  - title: "Attendee-Suggested Breakouts - Open Space #1"
+    type: open-space
+    date: 2021-07-21
+    start_time: "15:10"
+    end_time: "15:40"
+
+  - title: "Attendee-Suggested Breakouts - Open Space #2"
+    type: open-space
+    date: 2021-07-21
+    start_time: "15:50"
+    end_time: "16:20"
+
+  - title: "Attendee-Suggested Breakouts - Open Space #3"
+    type: open-space
+    date: 2021-07-21
+    start_time: "16:30"
+    end_time: "17:00"
+
+  - title: "End of Day Two"
+    type: custom
+    comments: "Saying goodbye in person; we'll catch you online!"
+    date: 2021-07-21
+    start_time: "17:00"
+    end_time: "17:00"
+
+  - title: "Devops Party Games: Minneapolis"
+    type: custom
+    comments: "Matt Stratton hosts https://devopspartygames.com/ online."
+    date: 2021-07-21
+    start_time: "20:00"
+    end_time: "21:00"
+    custom_url: "https://twitch.tv/devopspartygames"
+
+ignites:
+  - title: "matt-broberg"
+    date: 2021-07-20
+  - title: "quintessence-anx"
+    date: 2021-07-20
+  - title: "chris-reid"
+    date: 2021-07-20
+  - title: "nara-coldwater"
+    date: 2021-07-20
 

@@ -36,12 +36,13 @@ location: "Alte Kaserne Winterthur" # Defaults to city, but you can make it the 
 location_address: "Technikumstrasse 8, 8400 Winterthur, Switzerland" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+#  - name: propose
   - name: location
   - name: registration
   - name: diversity
- # - name: program
- # - name: speakers
+  - name: covid
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -179,8 +180,6 @@ sponsors:
     level: bronze
   - id: sap
     level: bronze
-  - id: googlecloud
-    level: gold
   - id: locatee
     level: bronze  
   - id: youstream
@@ -198,6 +197,13 @@ sponsors:
     level: bronze
   - id: checkmarx
     level: gold
+  - id: basis
+    level: silver
+  - id: wehackpurple
+    level: community
+  - id: swissdevjobs
+    level: partner 
+
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -221,3 +227,227 @@ sponsor_levels:
   - id: partner
     label: Partner
     max: 0
+
+program:
+# Day 1
+- title: Registration & Welcome Coffee
+  type: custom
+  date: 2021-09-07
+  start_time: '8:00'
+  end_time: '9:00'
+
+- title: Opening
+  type: custom
+  date: 2021-09-07
+  start_time: '9:00'
+  end_time: '9:15'
+  
+- title: busra-koken
+  type: talk
+  date: 2021-09-07
+  start_time: '9:15'
+  end_time: '10:00'
+
+- title: johan-abildskov
+  type: talk
+  date: 2021-09-07
+  start_time: '10:00'
+  end_time: '10:30'
+
+- title: Break
+  type: custom
+  date: 2021-09-07
+  start_time: '10:30'
+  end_time: '11:00'
+
+- title: stacy-cashmore
+  type: talk
+  date: 2021-09-07
+  start_time: '11:00'
+  end_time: '11:30'
+  
+- title: olowoniwa-gabriel-ayokunle
+  type: talk
+  date: 2021-09-07
+  start_time: '11:30'
+  end_time: '12:00'
+
+- title: pj-hagerty
+  type: talk
+  date: 2021-09-07
+  start_time: '12:00'
+  end_time: '12:30'
+
+- title: Lunch
+  type: custom
+  date: 2021-09-07
+  start_time: '12:30'
+  end_time: '14:00'
+
+- title: Opening Afternoon
+  type: custom
+  date: 2021-09-07
+  start_time: '14:00'
+  end_time: '14:05'
+
+- title: "Ignites"
+  type: ignite
+  date: 2021-09-07
+  start_time: '14:05'
+  end_time: '14:30'
+
+- title: "Open Space"
+  type: open-space
+  date: 2021-09-07
+  start_time: '14:30'
+  end_time: '16:30'
+
+- title: marco-consolaro
+  type: workshop
+  date: 2021-09-07
+  start_time: '14:30'
+  end_time: '16:30'
+
+- title: courtney-heba
+  type: workshop
+  date: 2021-09-07
+  start_time: '15:00'
+  end_time: '16:30'
+
+- title: workshop-philipp-krenn
+  type: workshop
+  date: 2021-09-07
+  start_time: '15:00'
+  end_time: '16:30'
+
+- title: jonathan-smart
+  type: talk
+  date: 2021-09-07
+  start_time: '16:30'
+  end_time: '17:30'
+
+- title: Evening Event
+  type: custom
+  date: 2021-09-07
+  start_time: '17:30'
+  end_time: ''
+
+# Day 2
+- title: Registration & Welcome Coffee
+  type: custom
+  date: 2021-09-08
+  start_time: '8:00'
+  end_time: '9:00'
+
+- title: Opening
+  type: custom
+  date: 2021-09-08
+  start_time: '9:00'
+  end_time: '9:15'
+  
+- title: sebastien-goasguen
+  type: talk
+  date: 2021-09-08
+  start_time: '9:15'
+  end_time: '10:00'
+
+- title: quintessence-anx
+  type: talk
+  date: 2021-09-08
+  start_time: '10:00'
+  end_time: '10:30'
+
+- title: Break
+  type: custom
+  date: 2021-09-08
+  start_time: '10:30'
+  end_time: '11:00'
+
+- title: jelena-malic
+  type: talk
+  date: 2021-09-08
+  start_time: '11:00'
+  end_time: '11:30'
+  
+- title: jessica-fields
+  type: talk
+  date: 2021-09-08
+  start_time: '11:30'
+  end_time: '12:00'
+
+- title: michael-cote
+  type: talk
+  date: 2021-09-08
+  start_time: '12:00'
+  end_time: '12:30'
+
+- title: Lunch
+  type: custom
+  date: 2021-09-08
+  start_time: '12:30'
+  end_time: '14:00'
+
+- title: Opening Afternoon
+  type: custom
+  date: 2021-09-08
+  start_time: '14:00'
+  end_time: '14:05'
+
+- title: "Ignites"
+  type: ignite
+  date: 2021-09-08
+  start_time: '14:05'
+  end_time: '14:30'
+
+- title: "Open Space"
+  type: open-space
+  date: 2021-09-08
+  start_time: '14:30'
+  end_time: '17:15'
+
+- title: batel-zohar
+  type: workshop
+  date: 2021-09-08
+  start_time: '15:00'
+  end_time: '17:15'
+
+- title: cosima-laube
+  type: workshop
+  date: 2021-09-08
+  start_time: '15:00'
+  end_time: '17:15'
+
+- title: andrea-giardini
+  type: workshop
+  date: 2021-09-08
+  start_time: '15:00'
+  end_time: '17:15'
+
+- title: Award Ceremony
+  type: custom
+  date: 2021-09-08
+  start_time: '17:15'
+  end_time: '17:30'
+
+
+ignites:
+  - title: "jeremy-meiss"
+    date: 2021-09-07
+  - title: "georg-hauzenberger"
+    date: 2021-09-07
+  - title: "christian-jakob"
+    date: 2021-09-07
+  - title: "david-patrick-adam"
+    date: 2021-09-07
+  - title: "tobias-hauk"
+    date: 2021-09-07
+  - title: "achim-toeper"
+    date: 2021-09-08
+  - title: "justus-graumann"
+    date: 2021-09-08
+  - title: "mirza-dautbegovic"
+    date: 2021-09-08
+  - title: "ignite-johan-abildskov"
+    date: 2021-09-08
+  - title: "philipp-krenn"
+    date: 2021-09-08

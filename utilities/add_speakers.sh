@@ -3,19 +3,9 @@
 set -e
 
 cd `dirname ${0}`
+source common_code
 
-# Detect OS for correct 'sed' syntax
-OSNAME=`uname`
-GNUSED=$(which sed)
-SEDCMD(){
-  if [[ $OSNAME == 'Linux' ]]; then
-    sed -i "$@"
-  elif [[ $OSNAME == 'Darwin' && $GNUSED == '/usr/local/bin/sed' ]]; then
-    sed -i "$@"
-  else
-    sed -i '' "$@"
-  fi
-}
+cd `dirname ${0}`
 
 # Get year
 default_year=$(date +"%Y")
@@ -45,11 +35,11 @@ mkdir -p ../static/events/$event_slug/speakers
 # Create empty speakers page file (will be auto-filled for display)
 speakerspage="../content/events/$event_slug/speakers.md"
 cp examples/templates/speakers.md $speakerspage
-SEDCMD "s/CITY/$city/" $speakerspage
-SEDCMD "s/YYYY/$year/" $speakerspage
+sedcmd "s/CITY/$city/" $speakerspage
+sedcmd "s/YYYY/$year/" $speakerspage
 
 # uncomment link to speakers page
-SEDCMD "s/#  - name: speakers/  - name: speakers/" ../data/events/$event_slug.yml
+sedcmd "s/#  - name: speakers/  - name: speakers/" ../data/events/$event_slug.yml
 
 
 # Prompt for inputting speakers
@@ -67,20 +57,20 @@ speaker_slug=$(echo $speakername | tr -dc '[:alpha:][:blank:]' | tr '[:upper:]' 
 speakerfile="../content/events/$event_slug/speakers/$speaker_slug.md"
 cp examples/templates/speakers-speaker-full-name.md $speakerfile
 
-SEDCMD "s/SPEAKERNAME/$speakername/" $speakerfile
-SEDCMD "s/SPEAKERSLUG/$speaker_slug/" $speakerfile
+sedcmd "s/SPEAKERNAME/$speakername/" $speakerfile
+sedcmd "s/SPEAKERSLUG/$speaker_slug/" $speakerfile
 
 # twitter handle
 read -p "Enter speaker twitter handle (return for none): " twitter
 [ -z "${twitter}" ] && twitter=''
 # remove @ if they added it
 twitter=$(echo $twitter | sed 's/@//')
-SEDCMD "s/SPEAKERTWITTER/$twitter/" $speakerfile
+sedcmd "s/SPEAKERTWITTER/$twitter/" $speakerfile
 
 # bio
 read -p "Enter speaker bio (return for none): " bio
 [ -z "${bio}" ] && bio=''
-SEDCMD "s/SPEAKERBIO/$bio/" $speakerfile
+sedcmd "s/SPEAKERBIO/$bio/" $speakerfile
 
 ####################
 # Populate talk file
@@ -88,17 +78,17 @@ SEDCMD "s/SPEAKERBIO/$bio/" $speakerfile
 talkfile="../content/events/$event_slug/program/$speaker_slug.md"
 cp examples/templates/program-speaker-full-name.md $talkfile
 
-SEDCMD "s/SPEAKERSLUG/$speaker_slug/" $talkfile
+sedcmd "s/SPEAKERSLUG/$speaker_slug/" $talkfile
 
 # talk title
 read -p "Enter speaker talk title (return for none): " title
 [ -z "${title}" ] && title=''
-SEDCMD "s/TALKTITLE/$title/" $talkfile
+sedcmd "s/TALKTITLE/$title/" $talkfile
 
 # talk description
 read -p "Enter speaker talk description (return for none): " abstract
 [ -z "${abstract}" ] && abstract=''
-SEDCMD "s/ABSTRACT/$abstract/" $talkfile
+sedcmd "s/ABSTRACT/$abstract/" $talkfile
 
 #######################
 # Set speaker image
@@ -109,7 +99,7 @@ read -p "Enter path to speaker image PNG: " speakerimage
 
 if [ $speakerimage ]; then
   cp "$speakerimage" ../static/events/$event_slug/speakers/$speaker_slug.png
-  SEDCMD "s/image = \"\"/image = \"$speaker_slug.png\"/" $speakerfile
+  sedcmd "s/image = \"\"/image = \"$speaker_slug.png\"/" $speakerfile
 else
   echo "Put speaker image at ../static/events/$event_slug/speakers/$speaker_slug.png before creating the pull request, if desired."
 fi

@@ -6,7 +6,7 @@ Description = "Sponsor devopsdays zurich 2021"
 
 We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at <a href="mailto:organizer@devopsdays.ch">organizer@devopsdays.ch</a>.
 
-<a href="https://landing.devopsdays.ch/wp-content/uploads/2021/02/Sponsorship-Kit-2021.pdf">Download Sponsoring Kit</a>
+<a href="https://ae79aaba-4129-461f-83a3-665f3dae5235.filesusr.com/ugd/8d6664_eabae1f4c56d42e0a9a22d6c112516a5.pdf">Download Sponsoring Kit</a>
 
 ### Sponsoring packages
 <table border="1" width="100%" style="padding: 5px; border-collapse: collapse; border: 1px solid black;">
@@ -34,7 +34,7 @@ We greatly value sponsors for this open event.  If you are interested in sponsor
     <td bgcolor="#FCDEBB"><center>1</center></td>
     <td bgcolor="#FCDEBB"><center>unlimited</center></td>
     <td bgcolor="#B3DEC7"><center>2</center></td>
-    <td bgcolor="#B3DEC7"><center>2</center></td>
+    <td bgcolor="#B3DEC7"><center>1</center></td>
     <td bgcolor="#B3DEC7"><center>unlimited</center></td>
     <td bgcolor="#E2B3CE"><center><b><font color=red>SOLD OUT</font></b></center></td>
     <td bgcolor="#E2B3CE"><center><b><font color=red>SOLD OUT</font></b></center></td>
