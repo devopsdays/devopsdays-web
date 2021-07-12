@@ -6,7 +6,8 @@ Description = "Registration for devopsdays Minneapolis 2021"
 
 {{< event_link page="covid-19-policy" text="Please see our COVID-19 policy." >}}
 
-We'll add a registration link for online-only participation closer to the event; please register now if you intend to participate in person. Thanks!
+Sign up to get <a href="https://docs.google.com/forms/d/e/1FAIpQLSeSg8r0lc5G2KG3c-gNat5J6KZ6LKO0_3kMeOi6CTmGwh4dWw/viewform">Zoom links for online participation</a>.
+
 
 <div id="eventbrite-widget-container-81222804595"></div>
 
