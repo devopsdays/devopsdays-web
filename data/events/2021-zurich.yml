@@ -203,7 +203,8 @@ sponsors:
     level: community
   - id: swissdevjobs
     level: partner 
-
+  - id: cycloid
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -423,8 +424,8 @@ program:
   start_time: '15:00'
   end_time: '17:15'
 
-- title: Award Ceremony
-  type: custom
+- title: award-ceremony
+  type: talk
   date: 2021-09-08
   start_time: '17:15'
   end_time: '17:30'
