@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "GitOps for the people"
 Type = "talk"
 Speakers = ["lian-li"]
+Youtube = "NFf6w-fwsyI"
 +++
 
 MoneyBank Inc is a fintech enterprise that recently made the jump to K8s and GitOps to cope with the shift of demands from cranking out features towards stability and scalability. Yet, even with a fully automated CICD and shiny new microservices, features still take weeks to be released. As teams keep waiting on each other, frustrations, resentment and mistrust grow.
