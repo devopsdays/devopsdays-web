@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Gamification of Chaos Testing"
 Type = "talk"
 Speakers = ["bram-vogelaar"]
+Youtube = "05DcqudizU8"
 +++
 
 Athletes, Firemen and Doctors train everyday to be the best at their chosen profession.

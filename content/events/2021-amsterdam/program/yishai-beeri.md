@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "One Metric to Rule them All"
 Type = "talk"
 Speakers = ["yishai-beeri"]
+Youtube = "UomoPwk0U1Q"
 +++
 
 If you only measure one metric this is it: Cycle Time. It is probably the most underrated and least understood metric in engineering. Yet this is the metric that comprises the most important aspects to measure in your engineering process. Here’s why.

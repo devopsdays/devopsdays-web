@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Dev Team Metrics That Matter"
 Type = "talk"
 Speakers = ["dan-lines"]
+Youtube = "lcYd3oHjZbg"
 +++
 
 The truth is, no one really likes being measured, especially devs. But business leaders like looking at numbers, so they grab what’s easily available - # of code changes, agile velocity, individual developer metrics. These types of metrics are unbalanced, exclude context, and hurt engineering culture as a whole.
