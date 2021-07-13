@@ -58,7 +58,9 @@ team_members: # Name is the only required field for team members.
   - name: "Carlos Nunez"
     employer: "VMware"
     twitter: "easiestnameever"
-    bio: ""
+    bio: "Carlos is an engineer at VMware Tanzu. Tanzu aims to help companies of any size achieve their digital transformation goals through embracing modern applications on Kubernetes.
+    His mission is to use the power of DevOps, reliability engineering, agile, and first-principles software engineering to help engineering teams of any size make shipping production-ready software as fast, easy, and safe as writing 'Hello, world.' More specifically, Carlos specializes in making production fun again for engineering teams in highly-regulated enterprise environments, like finance and healthcare.
+    On his off time, he enjoys working out, road biking, writing, visiting new breweries and doing badly at trivia."
     image: "carlos-nunez.jpg"
     linkedin: "http://linkedin.carlosnunez.me/"
   - name: "Dan Collins"
@@ -154,6 +156,8 @@ sponsors:
     level: bronze
   - id: stackhawk
     level: gold
+  - id: abs
+    level: lunch
     
     
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -179,3 +183,5 @@ sponsor_levels:
     label: Corporate 
   - id: community
     label: Community
+  - id: lunch
+    label: Lunch
