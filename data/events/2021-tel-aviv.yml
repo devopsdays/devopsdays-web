@@ -167,6 +167,10 @@ sponsors:
     level: community 
   - id: orbit
     level: community
+  - id: livecycle
+    level: community
+  - id: terasky
+    level: community
   - id: daily-dev
     level: media
   - id: barvazgumi
