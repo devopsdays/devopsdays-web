@@ -178,6 +178,8 @@ sponsors:
     level: alacarte
   - id: solace
     level: silver
+  - id: gitlab
+    level: gold
 
 
 
@@ -267,7 +269,7 @@ program:
     start_time: "12:00"
     end_time: "13:30"
 
-  - title: "caroline-karanja"
+  - title: "vanessa-huerta-granda"
     type: talk
     date: 2021-07-20
     start_time: "13:45"
@@ -333,7 +335,7 @@ program:
     start_time: "10:20"
     end_time: "10:50"
 
-  - title: "vanessa-huerta-granda"
+  - title: "caroline-karanja"
     type: talk
     date: 2021-07-21
     start_time: "10:50"
@@ -405,6 +407,8 @@ program:
     custom_url: "https://twitch.tv/devopspartygames"
 
 ignites:
+  - title: "daniel-feldman"
+    date: 2021-07-20
   - title: "quintessence-anx"
     date: 2021-07-20
   - title: "chris-reid"
