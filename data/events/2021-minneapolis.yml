@@ -405,8 +405,6 @@ program:
     custom_url: "https://twitch.tv/devopspartygames"
 
 ignites:
-  - title: "matt-broberg"
-    date: 2021-07-20
   - title: "quintessence-anx"
     date: 2021-07-20
   - title: "chris-reid"
