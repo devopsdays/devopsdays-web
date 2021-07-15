@@ -163,6 +163,14 @@ sponsors:
   - id: cider-security
     level: organizer
     url: http://cidersecurity.io # Use this if you need to over-ride a sponsor URL.
+  - id: ermetic
+    level: community 
+  - id: orbit
+    level: community
+  - id: livecycle
+    level: community
+  - id: terasky
+    level: community
   - id: daily-dev
     level: media
   - id: barvazgumi
@@ -178,7 +186,7 @@ sponsor_levels:
   - id: organizer
     label: Organizer
 #    max: 10
-  - id: community pillar
+  - id: community 
     label: Community Pillar
 #    max: 10
   - id: media
