@@ -10,7 +10,7 @@ cancel: "false"
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2020-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: 2021-07-10T09:00:00-03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2021-07-08T09:00:00-03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
 enddate: 2021-07-10T19:00:00-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
@@ -123,6 +123,8 @@ sponsors:
     level: community
   - id: docker-porto-alegre
     level: community
+  - id: pokemao
+    level: community
 #  - id: pycaxias
 #    level: community
 #  - id: linuxforall
@@ -134,6 +136,7 @@ sponsors:
 #    url: "http://afropythonconf.org"
 #  - id: linuxtips
 #    level: community
+#    url:
   - id: adentro-cloud
     level: bronze
   - id: interop
@@ -142,7 +145,7 @@ sponsors:
     level: bronze
     url: "https://olist.com/"
   - id: timbira
-    level: bronze
+    level: silver
     url: "https://www.timbira.com.br/"
   - id: globo
     level: bronze
@@ -154,6 +157,8 @@ sponsors:
     level: silver
   - id: southsystem
     level: gold
+  - id: junglescout
+    level: platinum
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
@@ -181,6 +186,58 @@ sponsor_levels:
     label: Community
 
 program:
+  - title: "Abertura"
+    type: custom
+    date: 2021-07-08
+    start_time: "18:00"
+    end_time: "18:15"
+  - title: "anderson-marlon"
+    type: talk
+    date: 2021-07-08
+    start_time: "18:15"
+    end_time: "18:45"
+  - title: "guilherme-costa"
+    type: talk
+    date: 2021-07-08
+    start_time: "18:45"
+    end_time: "19:15"
+  - title: "hugo"
+    type: talk
+    date: 2021-07-08
+    start_time: "19:15"
+    end_time: "19:45"
+  - title: "Encerramento"
+    type: custom
+    date: 2021-07-08
+    start_time: "19:45"
+    end_time: "20:00"
+
+  - title: "Abertura"
+    type: custom
+    date: 2021-07-09
+    start_time: "18:00"
+    end_time: "18:15"
+  - title: "rafael"
+    type: talk
+    date: 2021-07-09
+    start_time: "18:15"
+    end_time: "18:45"
+  - title: "gomex"
+    type: talk
+    date: 2021-07-09
+    start_time: "18:45"
+    end_time: "19:15"
+  - title: "sheimy"
+    type: talk
+    date: 2021-07-09
+    start_time: "19:15"
+    end_time: "19:45"
+  - title: "Encerramento"
+    type: custom
+    date: 2021-07-09
+    start_time: "19:45"
+    end_time: "20:00"
+
   - title: "Abertura"
     type: custom
     date: 2021-07-10
@@ -221,7 +278,7 @@ program:
     date: 2021-07-10
     start_time: "12:05"
     end_time: "13:30"
-  - title: "Painel"
+  - title: "Painel - Cultura, carreira e segurança"
     type: ignite
     date: 2021-07-10
     start_time: "13:35"
@@ -269,14 +326,12 @@ program:
     end_time: "18:30"
 
 ignites:
-  - title: "laury-bueno"
+  - title: "michelle"
     date: "2021-07-10"
-  - title: "joao-brito"
+  - title: "diego"
     date: "2021-07-10"
-  - title: "roberto-alves"
+  - title: "samuel"
     date: "2021-07-10"
-  - title: "bruno-gurgel"
-    date: "2021-07-10"
-  - title: "carlos-nogueira"
+  - title: "malu"
     date: "2021-07-10"
     

@@ -157,6 +157,8 @@ sponsors:
     level: platinum
   - id: certiprof
     level: platinum
+  - id: geniussports
+    level: platinum
   - id: universidad-ces
     level: gold
   - id: techandsolve
@@ -170,6 +172,14 @@ sponsors:
   - id: linux-professional-institute
     level: gold
   - id: castor
+    level: gold
+  - id: unijaveriana
+    level: gold
+  - id: accenture
+    level: gold
+  - id: masglobal
+    level: gold
+  - id: nginx
     level: gold
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

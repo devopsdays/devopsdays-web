@@ -5,12 +5,15 @@ Talk_end_time = ""
 Title = "Dev Team Metrics That Matter"
 Type = "talk"
 Speakers = ["dan-lines"]
+Youtube = "lcYd3oHjZbg"
 +++
 
-If you only measure one metric this is it: Cycle Time. It is probably the most underrated and least understood metric in engineering. Yet this is the metric that comprises the most important aspects to measure in your engineering process. Here’s why.
- 
-High performing teams know it’s a marathon and not a sprint, that a steady and swift flow of value wins out in the end, and shipping many small improvements quickly in aggregate translates to great gains for your organization (in the spirit of kaizen). The way to do this is by ruthlessly removing productivity killers like context switches, work in progress culture, and dead value that isn’t shipped. By measuring the process, and not the individuals you are putting your emphasis on the team effort, which is great for culture - in contrast to highly toxic individual performance metrics.  
- 
-This talk will focus on how to fine-tune and get Cycle Time right. It’s a mix of improving your planning, interfaces between product and engineering, communication, review and quality gates and release mechanisms, essentially everything your engineering process encompasses.
- 
-If you can game this metric, then you will realize huge gains for your entire dev process and engineering organization.
+The truth is, no one really likes being measured, especially devs. But business leaders like looking at numbers, so they grab what’s easily available - # of code changes, agile velocity, individual developer metrics. These types of metrics are unbalanced, exclude context, and hurt engineering culture as a whole.
+
+Measuring should start by answering the question “What is the most valuable outcome?”
+
+Why? Because what you measure is what your team will produce. If you start measuring the number of code changes as a key performance metric, you are going to see coding time, PR size, and Cycle Time all increase.
+
+Don’t fall into this trap.
+
+In this session I discuss which team level metrics are most significant, the outcomes they produce, and strategies that will help you avoid the mistakes I’ve already made.
