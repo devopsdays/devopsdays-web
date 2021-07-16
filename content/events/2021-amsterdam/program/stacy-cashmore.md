@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "How to really work as a team - from sleepy to strong pair programming"
 Type = "talk"
 Speakers = ["stacy-cashmore"]
+Youtube = "UAxABZCpilE"
 +++
 
 So many people think that pair programming is a boring waste of time and effort. I'm here to explain how our team made it work, and what benefits we got out of it!

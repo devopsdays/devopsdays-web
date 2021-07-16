@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Shorten Feedback Loops with Customer Service Ops"
 Type = "talk"
 Speakers = ["julie-gunderson"]
+Youtube = "DfrNiVwlN84"
 +++
 
 The requirements of digital operations for businesses in any industry can stretch resources and cause stress. Keeping on top of your organization’s technical platforms is daunting. It’s easy to miss things when something goes wrong and your team is embroiled in an incident and customer service teams are often left out of feedback loops. As the team closest to the customer, incorporating customer service teams into the DevOps lifecycle will reduce silos, shorten feedback loops, empower agents and delight your customers. 
