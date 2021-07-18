@@ -2,7 +2,7 @@
 Title = "devopsdays Buffalo 2021"
 Type = "welcome"
 aliases = ["/events/2021-buffalo/"]
-Description = "DevOpsDays Buffalo is coming back in October!"
+Description = "DevOpsDays Buffalo is back for another unique conference experience!"
 +++
 <style type="text/css">
 .bflo {
@@ -58,8 +58,8 @@ Description = "DevOpsDays Buffalo is coming back in October!"
 
 <div class="sidebar">
 <h2>Registration</h2>
-<p>Tickets for both, the physical and virtual experiences will be announced soon!</p>
-<!-- <p><a href="https://ti.to/devops-days-buffalo/devops-days-buffalo-2021"><button>Get Your Ticket</button></a></p> -->
+<p>Tickets for both, the physical and virtual experiences are now available!</p>
+<p style="text-align: center;"><a href="https://ti.to/devops-days-buffalo/devops-days-buffalo-2021"><button>Get Your Ticket</button></a></p>
 
 <h2>Let's Talk About COVID-19</h2>
 <p>We are continuing to monitor the COVID-19 guidlines and are 
