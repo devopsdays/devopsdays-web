@@ -2,9 +2,9 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Your Specs Are Still Failing"
+Title = "The Journey of Testing"
 Type = "talk"
 Speakers = ["jenessa-white"]
 +++
 
-Often we rely on our backend specs to ensure that data is present where our frontend is expecting it, but that doesn't always mean that the application is working the way you anticipate it to. Come hear about the how, why, and when you should also be testing your frontend.
+Testing is a feat, a heavy load. Most of us aren’t starting new work; we’re lifting something that’s already loaded up with code. How do you approach adding better coverage? We’ll talk about one approach in hopes of inspiring you to find yours.
