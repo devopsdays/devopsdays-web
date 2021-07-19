@@ -38,6 +38,15 @@ Description = "devopsdays Minneapolis 2021"
 
 <div class = "row">
   <div class = "col-md-2">
+    <strong>Livestream</strong>
+  </div>
+  <div class = "col-md-8">
+    <a href="https://www.youtube.com/watch?v=y4azbBnDQ30">Tuesday July 20</a> & <a href="https://www.youtube.com/watch?v=LbRWgMruwxk">Wednesday July 21</a>
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
@@ -68,7 +77,7 @@ Description = "devopsdays Minneapolis 2021"
     <strong>Sponsors</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="sponsor" text="Sponsor the conference!" >}}
+    {{< event_link page="sponsor" text="Thanks to our sponsors!" >}}
   </div>
 </div>
 
