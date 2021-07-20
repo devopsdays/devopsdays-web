@@ -5,9 +5,9 @@ aliases = ["/events/2021-minneapolis/"]
 Description = "devopsdays Minneapolis 2021"
 +++
 
-<!-- <div style="text-align:center;">
-  {{< event_logo >}}
-</div> -->
+<div style="text-align:center;">
+  <a href = "https://www.youtube.com/watch?v=y4azbBnDQ30"><h2>Livestream<h2></a></a>
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -47,10 +47,10 @@ Description = "devopsdays Minneapolis 2021"
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Register</strong>
+    <strong>Participate</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
+    <a href="https://join.slack.com/t/devopsmsp/shared_invite/zt-sofs4r0n-c2nZdDtQ_B9rJRZPDYc28w">Join us on Slack!</a>
   </div>
 </div>
 
