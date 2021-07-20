@@ -8,5 +8,7 @@ Description = "Registration for devopsdays Minneapolis 2021"
 
 In-person registration is now closed.
 
+Join us <a href="https://join.slack.com/t/devopsmsp/shared_invite/zt-sofs4r0n-c2nZdDtQ_B9rJRZPDYc28w">on Slack</a>!
+
 Sign up to get <a href="https://docs.google.com/forms/d/e/1FAIpQLSeSg8r0lc5G2KG3c-gNat5J6KZ6LKO0_3kMeOi6CTmGwh4dWw/viewform">Zoom links for online participation</a>.
 
