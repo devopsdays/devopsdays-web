@@ -6,7 +6,7 @@ Description = "devopsdays Minneapolis 2021"
 +++
 
 <div style="text-align:center;">
-  <a href = "https://www.youtube.com/watch?v=LbRWgMruwxk"><h2>Livestream<h2></a></a>
+  <a href = "https://www.youtube.com/watch?v=y4azbBnDQ30"><h2>Livestream<h2></a></a>
 </div>
 
 <div class = "row">
