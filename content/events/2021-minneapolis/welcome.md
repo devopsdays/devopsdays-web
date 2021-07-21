@@ -6,7 +6,7 @@ Description = "devopsdays Minneapolis 2021"
 +++
 
 <div style="text-align:center;">
-  <a href = "https://www.youtube.com/watch?v=LbRWgMruwxk"><h2>Livestream<h2></a></a>
+  <a href = "https://www.youtube.com/watch?v=rJpkOTBYKUg"><h2>Livestream<h2></a></a>
 </div>
 
 <div class = "row">
@@ -41,7 +41,7 @@ Description = "devopsdays Minneapolis 2021"
     <strong>Livestream</strong>
   </div>
   <div class = "col-md-8">
-    <a href="https://www.youtube.com/watch?v=y4azbBnDQ30">Tuesday July 20</a> & <a href="https://www.youtube.com/watch?v=LbRWgMruwxk">Wednesday July 21</a>
+    <a href="https://www.youtube.com/watch?v=y4azbBnDQ30">Tuesday July 20</a> & <a href="https://www.youtube.com/watch?v=rJpkOTBYKUg">Wednesday July 21</a>
   </div>
 </div>
 
