@@ -5,9 +5,8 @@ Description = "Location for devopsdays Portland 2021"
 +++
 
 We're going to be doing an online event this year, not in person. We'd love to
-see all of you in one place once it's safe but, dang, who knows. Details are
-still a little TBD, but you can expect some great talks and interactive
-sessions! This won't just be a Youtube playlist we point you at.
+see all of you in one place once it's safe but, dang, who knows. Talks will be
+streamed on YouTube and discussion will be via Discord.
 
 <!-- Uncomment this only if you have set the coordinates for your location in the config yaml. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html -->
 <!-- {{< event_map >}} -->
