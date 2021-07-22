@@ -5,15 +5,15 @@ aliases = ["/events/2021-portland/"]
 Description = "devopsdays Portland 2021"
 +++
 
-<!-- <div style="text-align:center;">
-  {{< event_logo >}}
-</div> -->
 
 <div style="text-align:center;">
   We're going to have a two day online event September 20-21. Talks will be streamed and online via Youtube, and discussion will be via Discord. We hope you join us!
 </div>
 
 <div class = "row">
+  <div class="col-md-4">
+    {{< event_logo >}}
+  </div>
   <div class = "col-md-2">
     <strong>Dates</strong>
   </div>
