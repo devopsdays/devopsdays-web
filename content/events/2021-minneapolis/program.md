@@ -10,5 +10,8 @@ Icons = "true"
     <hr />
 {{< event_link page="covid-19-policy" text="Please see our COVID-19 policy." >}} We'll be staying safe with masks and social distancing, and most food will be on your own. Watch this space for livestream and interactive online options.
     <hr />
+
+Livestream: <a href="https://www.youtube.com/watch?v=rJpkOTBYKUg">Wednesday</a>
+
   </div>
 </div>

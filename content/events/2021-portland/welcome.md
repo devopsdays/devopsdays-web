@@ -5,15 +5,15 @@ aliases = ["/events/2021-portland/"]
 Description = "devopsdays Portland 2021"
 +++
 
-<!-- <div style="text-align:center;">
-  {{< event_logo >}}
-</div> -->
 
 <div style="text-align:center;">
-  We're going to have a two day online event! More info TBD, but note the date and keep watching this space and/or Twitter!
+  We're going to have a two day online event September 20-21. Talks will be streamed and online via Youtube, and discussion will be via Discord. We hope you join us!
 </div>
 
 <div class = "row">
+  <div class="col-md-4">
+    {{< event_logo >}}
+  </div>
   <div class = "col-md-2">
     <strong>Dates</strong>
   </div>
@@ -31,14 +31,14 @@ Description = "devopsdays Portland 2021"
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
+    <a href="https://devopsdayspdx2021.busyconf.com/bookings/new">Register to attend the conference!</a> We have free tickets if you just want to watch the talks as well as two tiers of tickets for people who want to participate.
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -86,6 +86,4 @@ Description = "devopsdays Portland 2021"
 </div>
 
 <!-- Uncomment if you added your city twitter name -->
-<!--
 {{< event_twitter >}}
--->
