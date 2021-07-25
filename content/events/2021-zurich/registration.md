@@ -6,6 +6,17 @@ Description = "Registration for devopsdays zurich 2021"
 
 <h3>Registration for DevOpsDays Zürich 2021 is open.</h3> 
 
+With the ticket you get: 
+<ul>
+  <li>access to the two day conference</li>
+  <li>catering for the two days</li>
+  <li>access to evening event</li>
+  <li>the swag bag</li>
+  <li>the t-shirt</li>
+</ul>
+Our catering will serve meat, vegan, lactose and gluten-free food. <br/>
+Please contact us {{< email_organizers >}} in case of other allergies.
+
 <div style="width:100%; text-align:left;">
 <link rel="stylesheet" type="text/css" href='https://css.tito.io/v1.1' />
 <script src='https://js.tito.io/v1' async></script>
