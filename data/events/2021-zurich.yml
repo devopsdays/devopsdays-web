@@ -298,18 +298,18 @@ program:
   type: ignite
   date: 2021-09-07
   start_time: '14:05'
-  end_time: '14:30'
+  end_time: '14:35'
 
 - title: "Open Space"
   type: open-space
   date: 2021-09-07
-  start_time: '14:30'
+  start_time: '14:35'
   end_time: '16:30'
 
 - title: marco-consolaro
   type: workshop
   date: 2021-09-07
-  start_time: '14:30'
+  start_time: '14:35'
   end_time: '16:30'
 
 - title: courtney-heba
@@ -444,6 +444,8 @@ ignites:
   - title: "david-patrick-adam"
     date: 2021-09-07
   - title: "tobias-hauk"
+    date: 2021-09-07
+  - title: "daniel-maher"
     date: 2021-09-07
   - title: "achim-toeper"
     date: 2021-09-08
