@@ -14,11 +14,12 @@ startdate:  2021-09-16T08:00:00-04:00
 enddate:  2021-09-17T19:00:00-04:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # tbd
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start:  2021-07-26T00:00:00-04:00
+cfp_date_end:  2021-08-06T23:59:59-04:00
+cfp_date_announce:  2021-08-16T23:59:59-04:00
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_open: "true"
+cfp_link: "https://devopsdaysdc2021.busyconf.com/proposals/new"
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
@@ -31,10 +32,10 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Washington, D.C." # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "Online Event! Stay Safe!" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
  # - name: location
  # - name: registration
  # - name: program

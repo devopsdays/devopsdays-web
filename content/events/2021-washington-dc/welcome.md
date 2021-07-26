@@ -10,7 +10,9 @@ Description = "DevOpsDays Washington, D.C. 2021"
     {{< event_logo >}}
   </span>
 
-  DevOpsDays DC is planning a return in Septemeber, 2021.  Watch this space for more details.  In the meantime, you are welcome to revisit your favorite memories from DevOpsDays DC <a href="/events/2019-washington-dc/welcome">2019</a>. <a href="/events/2018-washington-dc/welcome">2018</a>, <a href="/events/2017-washington-dc/welcome">2017</a>, <a href="/events/2016-washington-dc/welcome">2016</a>, and <a href="https://legacy.devopsdays.org/events/2015-washington-dc/">2015</a>.
+  After a pandemic-induced year off, DevOpsDays DC is returning in September 2021. We'll be virtual this year and hope (fingers crossed) to be back in person in 2022.
+
+  The Call for Proposals is now <a href="https://devopsdaysdc2021.busyconf.com/proposals/new">OPEN</a>!
 </p>
 
 <div class = "row">
