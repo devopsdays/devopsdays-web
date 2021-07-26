@@ -171,6 +171,12 @@ sponsors:
     level: community
   - id: terasky
     level: community
+  - id: doubleverify
+    level: community
+  - id: aerospike
+    level: community
+  - id: riskified
+    level: community
   - id: daily-dev
     level: media
   - id: barvazgumi
