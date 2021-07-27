@@ -110,6 +110,12 @@ sponsors:
     level: platinum
   - id: scout
     level: platinum
+  - id: capitalone
+    level: platinum
+  - id: progress
+    level: platinum
+  - id: cloudtruth
+    level: platinum
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
