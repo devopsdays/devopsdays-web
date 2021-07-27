@@ -14,17 +14,17 @@ startdate: 2021-10-28T00:00:00+10:00 # The start date of your event. Leave blank
 enddate: 2021-10-29T23:59:59+10:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2021-07-16T10:00:00+10:00 # start accepting talk proposals.
+cfp_date_end: 2021-09-01T09:30:00+10:00 # close your call for proposals.
+cfp_date_announce: 2021-09-15T12:00:00+10:00 # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://www.papercall.io/devopsdays-melb" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: 2021-07-19T12:00:00+10:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2021-10-27T23:59:59+10:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://ti.to/devopsaustralia/melbourne-2021" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -34,14 +34,16 @@ location: "Arts Centre, Melbourne" # Defaults to city, but you can make it the v
 location_address: "100 St Kilda Rd, Melbourne VIC 3004" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
   - name: location
- # - name: registration
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
+  - name: melbourne2021
+    url: "https://devopsdaysmelbourne2021.org/"
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -76,6 +78,14 @@ team_members: # Name is the only required field for team members.
   - name: "Jordan Kueh"
     employer: ""
     twitter: "jordankueh"
+    bio: ""
+  - name: "Lindsay Holmwood"
+    employer: ""
+    twitter: ""
+    bio: ""
+  - name: "Matt Jones"
+    employer: ""
+    twitter: ""
     bio: ""
   - name: "Mike Berry"
     employer: ""

@@ -5,6 +5,17 @@ aliases = ["/events/2021-melbourne/"]
 Description = "devopsdays Melbourne 2021"
 +++
 
+<div class="row">
+  <div class="alert alert-info" role="alert">
+    <h2>COVID-19</h2>
+    <h3>What happens if this event is cancelled due to COVID-19 restrictions?</h3>
+    <p>If the event needs to be cancelled due to government restrictions we will be happy to provide a full refund for all tickets purchased.</p>
+    <h3>What plans are in place to make sure this is a Covid safe event?</h3>
+    <p>We are following all the directions from the DHHS to make this event CovidSafe.
+    <br>In addition the Arts Centre has a comprehensive CovidSafe plan with a number of health and saftey precautions in place. You can read about this in more detail on their website - The Arts Centre Melbourne CovidSafe visitor guide</p>
+  </div>
+</div>
+
 <div style="text-align:center;">
   {{< event_logo >}}
 </div>
