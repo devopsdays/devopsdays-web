@@ -15,8 +15,8 @@ enddate:  2021-09-17T19:00:00-04:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  2021-07-26T00:00:00-04:00
-cfp_date_end:  2021-08-06T23:59:59-04:00
-cfp_date_announce:  2021-08-16T23:59:59-04:00
+cfp_date_end:  2021-08-09T23:59:59-04:00
+cfp_date_announce:  2021-08-19T23:59:59-04:00
 
 cfp_open: "true"
 cfp_link: "https://devopsdaysdc2021.busyconf.com/proposals/new"
