@@ -95,12 +95,12 @@ team_members: # Name is the only required field for team members.
     github: "AimeeKnight"
     bio: "Aimee Knight is a Software Architect and former professional figure skater currently residing in Nashville TN. Outside of work, she's a Google Developer Expert in Web Technologies specializing in performance, a panelist on the JavaScript Jabber podcast, and an international keynote speaker. Currently, she specializes in DevOps, JavaScript, React, and CSS however, she's worked extensively in Angular, Node, and Ruby on Rails. Her past involvement includes working at npm, Inc., being a weekly panelist on the Angular Air podcast, a co-organizer for CharmCityJS, and a mentor for Baltimore NodeSchool and Rails Bridge."
   - name: "Geoff Craig"
-    employer: "Citizens Financial Group"
+    employer: "Breakfree Solutions"
     github: "GeoffCraig"
     image: "geoff-craig.jpg"
     twitter: "GeoffCraig74"
     linkedin: "https://www.linkedin.com/in/geoff-craig-7582b71/"
-    bio: "Geoff Craig is a Principal DevOps Engineer for Citizens Bank and an excited first time organizer for DevOps Days Nashville.  In his free time you can usually find him behind a book, in a strange new city, or behind a guitar playing very badly.  His favorite opening liner is,  'I like long walks on the beach…  and bourbon.'"
+    bio: "Geoff Craig is a Solutions Architect for Breakfree Solutions and an excited first time organizer for DevOps Days Nashville.  In his free time you can usually find him behind a book, in a strange new city, or behind a guitar playing very badly.  His favorite opening liner is,  'I like long walks on the beach…  and bourbon.'"
   - name: "Jason Greathouse"
     image: "jason-greathouse.jpg"
     twitter: "usrbinjgreat"
@@ -141,6 +141,10 @@ sponsors:
  - id: teleport
    level: gold
  - id: gitlab
+   level: gold
+ - id: phoenixnap
+   level: silver
+ - id: forty8fifty-labs
    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
