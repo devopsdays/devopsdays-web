@@ -5,10 +5,6 @@ aliases = ["/events/2021-minneapolis/"]
 Description = "devopsdays Minneapolis 2021"
 +++
 
-<div style="text-align:center;">
-  <a href = "https://www.youtube.com/watch?v=rJpkOTBYKUg"><h2>Livestream<h2></a></a>
-</div>
-
 <div class = "row">
   <div class = "col-md-2">
     <strong>Health & Safety</strong>
