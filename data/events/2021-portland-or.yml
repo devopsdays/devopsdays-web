@@ -37,7 +37,8 @@ location_address: "" #Optional - use the street address of your venue. This will
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: location
   - name: registration
- # - name: program
+  - name: program
+    url: https://devopsdayspdx2021.busyconf.com/schedule
  # - name: speakers
   - name: sponsor
   - name: contact
