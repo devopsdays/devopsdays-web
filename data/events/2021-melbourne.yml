@@ -108,7 +108,9 @@ organizer_email: "melbourne@devopsdays.org" # Put your organizer email address h
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
-sponsors: []
+sponsors:
+  - id: buildkite
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
