@@ -46,10 +46,37 @@ Description = "DevOpsDays Zürich 2021"
 
 <div class = "row">
   <div class = "col-md-2">
+    <strong>Program</strong>
+  </div>
+  <div class = "col-md-8">
+    View the {{< event_link page="program" text="program." >}}
+  </div>
+</div> 
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Speakers</strong>
+  </div>
+  <div class = "col-md-8">
+    Check out the {{< event_link page="speakers" text="speakers!" >}}
+  </div>
+</div> 
+
+<div class = "row">
+  <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Hotel</strong>
+  </div>
+  <div class = "col-md-8">
+    Do you need a {{< event_link page="hotel" text="hotel" >}} ?
   </div>
 </div>
 
@@ -74,6 +101,15 @@ Description = "DevOpsDays Zürich 2021"
 
 <div class = "row">
   <div class = "col-md-2">
+    <strong>Sponsors</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_link page="sponsor" text="Sponsor the conference!" >}}
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-2">
     <strong>Diversity</strong>
   </div>
   <div class = "col-md-8">
@@ -89,33 +125,6 @@ Description = "DevOpsDays Zürich 2021"
     {{< event_link page="covid" text="All information about the Covid-19 measures" >}}
   </div>
 </div> 
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Program</strong>
-  </div>
-  <div class = "col-md-8">
-    View the {{< event_link page="program" text="program." >}}
-  </div>
-</div> 
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Speakers</strong>
-  </div>
-  <div class = "col-md-8">
-    Check out the {{< event_link page="speakers" text="speakers!" >}}
-  </div>
-</div> 
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Sponsors</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="sponsor" text="Sponsor the conference!" >}}
-  </div>
-</div>
 
 <div class = "row">
   <div class = "col-md-2">
