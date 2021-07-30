@@ -116,6 +116,8 @@ sponsors:
     level: platinum
   - id: cloudtruth
     level: platinum
+  - id: coralogix
+    level: platinum
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
