@@ -41,7 +41,6 @@ Sponsorship Packages
 </tr>
 <tr>
 <th scope="row">Minutes on virtual stage during conference</th>
-</td>
 <td></td>
 <td>
 <center>5</center>
@@ -105,7 +104,7 @@ Sponsorship Packages
 <center>1</center>
 </td>
 <td>
-<center>$8,000</center>
+<center>$2,500</center>
 </td>
 </tr>
 <tr>
@@ -114,27 +113,8 @@ Sponsorship Packages
 <center>1</center>
 </td>
 <td>
-<center>$5,000</center>
-</td>
-</tr>
-<tr>
-<th scope="row">Videography & post-processing</th>
-<td>
-<center>1</center>
-</td>
-<td>
-<center>$5,000</center>
-</td>
-</tr>
-<tr>
-<th scope="row">Pre-event Hangout</th>
-<td>
-<center>1</center>
-</td>
-<td>
 <center>$2,500</center>
 </td>
-</tr>
 </tr>
 <tr>
 <th scope="row">Donations to Underrepresentation Partners</th>
