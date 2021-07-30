@@ -6,6 +6,14 @@ Description = "Registration for devopsdays zurich 2021"
 
 <h3>Registration for DevOpsDays Zürich 2021 is open.</h3> 
 
+<div class="row">
+  <div class="alert alert-info" role="alert">
+    <h2>COVID-19</h2>
+    <p>We allow access to the conference for everyone who is either vaccinated, tested or convalesced from COVID-19.</p>
+  </div>
+</div>
+
+
 With the ticket you get: 
 <ul>
   <li>access to the two day conference</li>
