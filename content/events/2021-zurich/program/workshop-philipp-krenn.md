@@ -1,9 +1,9 @@
 +++
 City = "Zurich"
 Year = "2021"
-talk_date = "2021-09-07"
-talk_start_time = "14:30"
-talk_end_time = "16:30"
+talk_date = "2021-09-08"
+talk_start_time = "15:00"
+talk_end_time = "17:15"
 title = "On the Bleeding Edge of OpenTelemetry"
 type = "talk"
 speakers = ["philipp-krenn"]
