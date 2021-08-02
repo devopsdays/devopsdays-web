@@ -319,7 +319,7 @@ program:
   start_time: '15:00'
   end_time: '16:30'
 
-- title: workshop-philipp-krenn
+- title: andrea-giardini 
   type: workshop
   date: 2021-09-07
   start_time: '15:00'
@@ -422,7 +422,7 @@ program:
   start_time: '15:00'
   end_time: '17:15'
 
-- title: andrea-giardini
+- title: workshop-philipp-krenn
   type: workshop
   date: 2021-09-08
   start_time: '15:00'
