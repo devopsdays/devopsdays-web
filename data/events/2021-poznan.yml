@@ -39,9 +39,9 @@ location_address: "Poznań Supercomputing and Networking Center, Jana Pawła II 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
   - name: propose
-#  - name: registration
-#  - name: program
-#  - name: speakers
+  - name: registration
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -150,7 +150,7 @@ sponsor_levels:
     max: 2
   - id: silver
     label: Silver
-    max: 4 # This is the same as omitting the max limit.
+    max: 3 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
     max: 4
@@ -158,7 +158,7 @@ sponsor_levels:
     label: Community
   - id: organizing
     label: Organizing
-    max: 2
+    max: 100
 #  - id: workshop
 #    label: Workshop
 
