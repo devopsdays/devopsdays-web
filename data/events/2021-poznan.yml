@@ -165,142 +165,136 @@ sponsor_levels:
 program:
   - title: "Registration"
     type: custom
-    date: 2021-05-24
-    start_time: "08:00"
-    end_time: "09:00"
-  - title: "Opening day #1"
-    type: custom
-    date: 2021-05-24
+    date: 2021-10-04
     start_time: "09:00"
-    end_time: "09:15"
-  - title: "piotr-holubowicz"
-    type: talk
-    date: 2021-05-24
-    start_time: "09:15"
     end_time: "10:00"
-  - title: "denis-rosa"
+  - title: "Opening ceremony"
+    type: custom
+    date: 2021-10-04
+    start_time: "10:00"
+    end_time: "10:15"
+  - title: "manuel-pais"
     type: talk
-    date: 2021-05-24
-    start_time: "10:05"
+    date: 2021-10-04
+    start_time: "10:15"
     end_time: "10:50"
+  - title: "josh-armitage"
+    type: talk
+    date: 2021-10-04
+    start_time: "10:50"
+    end_time: "11:25"
   - title: "Coffee break"
     type: custom
-    date: 2021-05-24
-    start_time: "10:50"
-    end_time: "11:10"
-  - title: "Talk - TBD"
+    date: 2021-10-04
+    start_time: "11:25"
+    end_time: "11:45"
+  - title: "Ignite talks"
+    type: ignite
+    date: 2021-10-04
+    start_time: "11:45"
+    end_time: "12:20"
+  - title: "Lunch break"
     type: custom
-    date: 2021-05-24
-    start_time: "11:10"
-    end_time: "11:55"
-    background_color: "#abebff"
+    date: 2021-10-04
+    start_time: "12:20"
+    end_time: "13:20"
+  - title: "bartosz-mikulski"
+    type: talk
+    date: 2021-10-04
+    start_time: "13:20"
+    end_time: "13:55"
+  - title: "jj-asghar"
+    type: talk
+    date: 2021-10-04
+    start_time: "13:55"
+    end_time: "14:30"
+  - title: "Coffee break"
+    type: custom
+    date: 2021-10-04
+    start_time: "14:30"
+    end_time: "14:50"
+  - title: "Openspace"
+    type: open-space
+    date: 2021-10-04
+    start_time: "14:50"
+    end_time: "15:50"
+  - title: "Closing day 1"
+    type: custom
+    date: 2021-10-04
+    start_time: "15:50"
+    end_time: "16:00"
+  # - title: "Evening party"
+  #   type: custom
+  #   date: 2021-10-04
+  #   start_time: "19:30"
+  #   end_time: "23:59"
+  - title: "Registration"
+    type: custom
+    date: 2021-10-05
+    start_time: "09:00"
+    end_time: "10:00"
+  - title: "Opening ceremony"
+    type: custom
+    date: 2021-10-05
+    start_time: "10:00"
+    end_time: "10:15"
+  - title: "seth-vargo"
+    type: talk
+    date: 2021-10-05
+    start_time: "10:15"
+    end_time: "10:50"
   - title: "rafal-leszko"
     type: talk
-    date: 2021-05-24
-    start_time: "12:00"
-    end_time: "12:45"
-  - title: "Lunch break"
-    type: custom
-    date: 2021-05-24
-    start_time: "12:45"
-    end_time: "13:45"
-  - title: "Ignite talks"
-    type: ignite
-    date: 2021-05-24
-    start_time: "13:45"
-    end_time: "14:00"
-  - title: "sebastian-grodzicki"
-    type: talk
-    date: 2021-05-24
-    start_time: "14:05"
-    end_time: "14:50"
-  - title: "Coffee break"
-    type: custom
-    date: 2021-05-24
-    start_time: "14:50"
-    end_time: "15:10"
-  - title: "Openspace"
-    type: open-space
-    date: 2021-05-24
-    start_time: "15:10"
-    end_time: "16:45"
-  - title: "Day finale and party invite"
-    type: custom
-    date: 2021-05-24
-    start_time: "16:45"
-    end_time: "17:00"
-  - title: "Evening party"
-    type: custom
-    date: 2021-05-24
-    start_time: "19:30"
-    end_time: "23:59"
-  - title: "Opening day #2"
-    type: custom
-    date: 2021-05-25
-    start_time: "9:00"
-    end_time: "9:15"
-  - title: "pini-reznik"
-    type: talk
-    date: 2021-05-25
-    start_time: "9:15"
-    end_time: "10:00"
-  - title: "richard-boyd"
-    type: talk
-    date: 2021-05-25
-    start_time: "10:05"
-    end_time: "10:50"
-  - title: "Coffee break"
-    type: custom
-    date: 2021-05-25
+    date: 2021-10-05
     start_time: "10:50"
-    end_time: "11:10"
-  - title: "luis-herrera-armando-collazo"
-    type: talk
-    date: 2021-05-25
-    start_time: "11:10"
-    end_time: "11:55"
-  - title: "michal-el-fartas"
-    type: talk
-    date: 2021-05-25
-    start_time: "12:00"
-    end_time: "12:45"
-  - title: "Lunch break"
-    type: custom
-    date: 2021-05-25
-    start_time: "12:45"
-    end_time: "13:45"
-  - title: "Ignite talks"
-    type: ignite
-    date: 2021-05-25
-    start_time: "13:45"
-    end_time: "14:00"
-  - title: "renato-losio"
-    type: talk
-    date: 2021-05-25
-    start_time: "14:05"
-    end_time: "14:50"
+    end_time: "11:25"
   - title: "Coffee break"
     type: custom
-    date: 2021-05-25
-    start_time: "14:50"
-    end_time: "15:10"
+    date: 2021-10-05
+    start_time: "11:25"
+    end_time: "11:45"
+  - title: "Ignite talks"
+    type: ignite
+    date: 2021-10-05
+    start_time: "11:45"
+    end_time: "12:20"
+  - title: "Lunch break"
+    type: custom
+    date: 2021-10-05
+    start_time: "12:20"
+    end_time: "13:20"
+  - title: "pawel-skrzypek"
+    type: talk
+    date: 2021-10-05
+    start_time: "13:20"
+    end_time: "13:55"
+  - title: "open-slot"
+    type: talk
+    date: 2021-10-05
+    start_time: "13:55"
+    end_time: "14:30"
+  - title: "Coffee break"
+    type: custom
+    date: 2021-10-05
+    start_time: "14:30"
+    end_time: "14:50"
   - title: "Openspace"
     type: open-space
-    date: 2021-05-25
-    start_time: "15:10"
-    end_time: "16:45"
-  - title: "Closing ceremony"
+    date: 2021-10-05
+    start_time: "14:50"
+    end_time: "15:50"
+  - title: "Closing day 1"
     type: custom
-    date: 2021-05-25
-    start_time: "16:45"
-    end_time: "17:00"
+    date: 2021-10-05
+    start_time: "15:50"
+    end_time: "16:00"
 
 ignites:
-  - title: "lukasz-garczewski"
-    date: 2021-05-24
-  - title: "jagoda-sateja"
-    date: 2021-05-24
-  - title: "bartlomiej-sliwinski"
-    date: 2021-05-24
-  - title: "bob-walker"
-    date: 2021-05-25
+  # - title: "lukasz-garczewski"
+  #   date: 2021-05-24
+  # - title: "jagoda-sateja"
+  #   date: 2021-05-24
+  # - title: "bartlomiej-sliwinski"
+  #   date: 2021-05-24
+  # - title: "bob-walker"
+  #   date: 2021-10-05
