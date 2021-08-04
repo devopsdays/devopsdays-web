@@ -301,18 +301,18 @@ program:
   type: ignite
   date: 2021-09-07
   start_time: '14:05'
-  end_time: '14:35'
+  end_time: '14:30'
 
 - title: "Open Space"
   type: open-space
   date: 2021-09-07
-  start_time: '14:35'
+  start_time: '14:30'
   end_time: '16:30'
 
 - title: marco-consolaro
   type: workshop
   date: 2021-09-07
-  start_time: '14:35'
+  start_time: '14:30'
   end_time: '16:30'
 
 - title: courtney-heba
@@ -438,8 +438,6 @@ program:
 
 
 ignites:
-  - title: "jeremy-meiss"
-    date: 2021-09-07
   - title: "georg-hauzenberger"
     date: 2021-09-07
   - title: "christian-jakob"
