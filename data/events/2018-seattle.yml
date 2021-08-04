@@ -136,7 +136,7 @@ sponsors:
     level: silver
   - id: contrast_security
     level: silver
-  - id: cloudbees
+  - id: cloudbees-before-20210804
     level: silver
   - id: realself
     level: bronze
