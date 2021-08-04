@@ -26,7 +26,7 @@ registration_date_start: 2021-08-01T00:00:00+02:00 # start accepting registratio
 registration_date_end: 2021-10-04T00:00:00+02:00 # close registration. Leave blank if registration is not open yet.
 
 #registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "https://app.evenea.pl/event/872441-1/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://evenea.pl/pl/wydarzenie/872441-1" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
