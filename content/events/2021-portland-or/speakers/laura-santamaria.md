@@ -7,4 +7,4 @@ linktitle = "laura-santamaria"
 
 +++
 
-As LogDNA’s Developer Advocate, Laura Santamaria loves to learn and explain how things work. She bridges the gap between external developers and SREs and internal engineering teams. In addition, she is the curator for A Minute on the Mic. Apart from work, she co-hosts Austin DevOps and Cloud Austin, taught Python for Women Who Code Austin for many years, is an organizer for DevOpsDays Texas, and volunteers with DevOpsDays Austin. Outside of tech, Laura runs, plays with her dogs, throws discs, and watches clouds—the real kind.
+As a Developer Advocate at Pulumi, Laura Santamaria loves to learn and explain how things work, bridging the gaps in engineering disciplines. She is the curator for A Minute on the Mic and a cohost for The Hallway Track podcast. Apart from work, she co-hosts Austin DevOps and Cloud Austin, taught Python for Women Who Code Austin for many years, is an organizer for DevOpsDays Texas, is a program committee member for Open Source Summit, and volunteers with DevOpsDays Austin. Outside of tech, Laura runs, plays with her dogs, throws discs, and watches clouds—the real kind.
