@@ -289,12 +289,12 @@ program:
     start_time: "15:50"
     end_time: "16:00"
 
-#ignites:
+ignites:
+   - title: "bartlomiej-sliwinski"
+     date: 2021-05-24
   # - title: "lukasz-garczewski"
   #   date: 2021-05-24
   # - title: "jagoda-sateja"
-  #   date: 2021-05-24
-  # - title: "bartlomiej-sliwinski"
   #   date: 2021-05-24
   # - title: "bob-walker"
   #   date: 2021-10-05

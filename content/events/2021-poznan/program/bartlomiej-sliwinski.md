@@ -1,5 +1,5 @@
 +++
-Title = "SmartSEC - Żabka way of securing things and people ;)"
+Title = "lightning talks coming soon"
 Type = "talk"
-Speakers = ["bartlomiej-sliwinski"]
+Speakers = ["manuel-pais"]
 +++
