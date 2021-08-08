@@ -289,7 +289,7 @@ program:
     start_time: "15:50"
     end_time: "16:00"
 
-ignites:
+#ignites:
   # - title: "lukasz-garczewski"
   #   date: 2021-05-24
   # - title: "jagoda-sateja"
