@@ -105,6 +105,8 @@ sponsors:
     level: silver
   - id: circleci
     level: silver
+  - id: trendmicro
+    level: silver
   - id: starkandwayne
     level: gold
   - id: bcbswny
