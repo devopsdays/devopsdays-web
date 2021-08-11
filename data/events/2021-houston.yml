@@ -160,6 +160,10 @@ sponsors:
     level: lunch
   - id: redhat
     level: bronze
+  - id: trendmicro
+    level: bronze
+  - id: trendmicro
+    level: lunch
     
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
