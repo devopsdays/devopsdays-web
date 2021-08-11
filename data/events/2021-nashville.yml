@@ -25,10 +25,14 @@ registration_date_end:    2021-10-28T00:00:00-05:00 # close registration. Leave 
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 <<<<<<< HEAD
+<<<<<<< HEAD
 registration_link: "https://www.eventbrite.com/e/devopsdays-nashville-2021-tickets-125517206343"   # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 =======
 registration_link: "https://www.eventbrite.com/preview?eid=125517206343/"   # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 >>>>>>> 5419d8e96 (adding bios and registration info for review)
+=======
+registration_link: "https://www.eventbrite.com/e/devopsdays-nashville-2021-tickets-125517206343"   # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+>>>>>>> d8779096f (Adding bio and updating registration link)
 
 masthead_background: "nashville-skyline.jpg"
 
