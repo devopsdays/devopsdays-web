@@ -62,7 +62,7 @@ team_members: # Name is the only required field for team members.
     image: "rafael.jpg"
     twitter: "@rafaelMartAng"
   - name: "Maximiliano Lerin"
-    employer: "Sigitat"
+    employer: "Rise Interactive"
     image: "max.JPG"
     bio: "Devops Lider, con experiencia en metodologías ágiles, entornos de operaciones e infraestructura a gran escala, experto en tecnologías de Microsoft, con varios años de experiencia en coaching y liderazgo llevando equipos y clientes hacia el éxito. Este año hará parte del equipo organizador DevOpsDays Bogotá 2021."
     twitter: ""
