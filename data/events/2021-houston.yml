@@ -72,6 +72,15 @@ team_members: # Name is the only required field for team members.
     twitter: "realdancollins"
     image: "dan-collins.jpg"
     bio: "Dan is the founder of DevOpsDays Houston, and a U of H graduate with over 20 years of experience in software and systems development. In the Microsoft-heavy world of Houston IT, he specializes in non-Microsoft technologies with an emphasis on lean methodology and automated software pipelines. Dan is a recovering, former advocate of embedded IT, a blockchain gadfly and has been leading the Houston DevOps Meetup since June 2017. The future is decentralized, distributed, renewable, sustainable and powered by Houston Texas."
+  - name: "JJ Asghar"
+    twitter: "jjasghar"
+    employer: "IBM"
+    bio: "JJ works at IBM on the IBM cloud as a Developer Advocate. He’s focusing on the IBM Kubernetes Service trying to make companies and users have a successful on boarding to the Cloud Native ecosystem."
+    github: "jjasghar"
+    facebook: ""
+    linkedin: ""
+    image: "jj.jpg"
+    role: "Co-Founder"
   - name: "Keegan Cotton"
     employer: "Datadog"
     linkedin: "https://www.linkedin.com/in/keegan-cotton-a6602b1/"
@@ -160,9 +169,9 @@ sponsors:
     level: lunch
   - id: redhat
     level: bronze
-  - id: trendmicro
+  - id: skycrafters
     level: bronze
-  - id: trendmicro
+  - id: skycrafters
     level: lunch
     
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
