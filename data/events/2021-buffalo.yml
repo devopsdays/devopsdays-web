@@ -101,11 +101,13 @@ sponsors:
     level: silver
   - id: pagerduty
     level: bronze
+  - id: redhat
+    level: bronze
   - id: torchio
     level: silver
   - id: circleci
     level: silver
-  - id: trendmicro
+  - id: skycrafters
     level: silver
   - id: starkandwayne
     level: gold
