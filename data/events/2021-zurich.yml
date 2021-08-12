@@ -301,18 +301,18 @@ program:
   type: ignite
   date: 2021-09-07
   start_time: '14:05'
-  end_time: '14:30'
+  end_time: '14:25'
 
 - title: "Open Space"
   type: open-space
   date: 2021-09-07
-  start_time: '14:30'
+  start_time: '14:25'
   end_time: '16:30'
 
 - title: marco-consolaro
   type: workshop
   date: 2021-09-07
-  start_time: '14:30'
+  start_time: '14:25'
   end_time: '16:30'
 
 - title: courtney-heba
@@ -424,12 +424,6 @@ program:
   start_time: '15:00'
   end_time: '17:15'
 
-- title: workshop-philipp-krenn
-  type: workshop
-  date: 2021-09-08
-  start_time: '15:00'
-  end_time: '17:15'
-
 - title: award-ceremony
   type: talk
   date: 2021-09-08
@@ -438,8 +432,6 @@ program:
 
 
 ignites:
-  - title: "georg-hauzenberger"
-    date: 2021-09-07
   - title: "christian-jakob"
     date: 2021-09-07
   - title: "david-patrick-adam"
@@ -456,5 +448,5 @@ ignites:
     date: 2021-09-08
   - title: "ignite-johan-abildskov"
     date: 2021-09-08
-  - title: "philipp-krenn"
+  - title: "georg-hauzenberger"
     date: 2021-09-08
