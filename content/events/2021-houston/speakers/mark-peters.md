@@ -6,6 +6,7 @@ type = "speaker"
 linktitle = "mark-peters"
 LinkedIn = "https://www.linkedin.com/in/tinycyber/"
 WebSite = "https://www.linkedin.com/pulse/agile-compliance-risk-operations-mark-t-peters-ii-cissp-pmp/"
+sharing_image = "mark-peters.png"
 
 +++
 

@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Scalable Semi-Connected Edge Workshop - K3s, Fleet, and Rancher"
 Type = "talk"
 Speakers = ["mikhail-kozorovitskiy"]
+sharing_image = "mikhail-kozorovitskiy.png"
 +++
 
 The low-power semi-connected edge provides a host of orchestration and maintenance challenges. K3s and Rancher's Fleet can overcome those with edge-triggered updating, customized bundles, and can scale to hundreds of thousands of remote clusters. 

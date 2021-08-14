@@ -1,10 +1,11 @@
 +++
-Title = "Scott Graffius"
+Title = "Scott M. Graffius"
 Twitter = "scottgraffius"
 image = "scott-graffius.png"
 type = "speaker"
 linktitle = "scott-graffius"
 WebSite = "https://www.scottgraffius.com"
+sharing_image = "scott-graffius.png"
 
 +++
 

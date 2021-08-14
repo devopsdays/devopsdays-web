@@ -6,6 +6,7 @@ type = "speaker"
 linktitle = "austin-king"
 LinkedIn = "https://www.linkedin.com/in/ozten/"
 WebSite = "https://opsdrill.com"
+sharing_image = "austin-king.png"
 
 +++
 

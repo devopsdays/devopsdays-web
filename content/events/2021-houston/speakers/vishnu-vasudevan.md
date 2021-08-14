@@ -6,6 +6,7 @@ type = "speaker"
 linktitle = "vishnu-vasudevan"
 linkedin = "https://www.linkedin.com/in/vishnuvasudevan811/"
 website = "https://www.opsera.io/"
+sharing_image = "vishnu-vasudevan.png"
 
 +++
 

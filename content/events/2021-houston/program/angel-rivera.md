@@ -5,6 +5,8 @@ Talk_end_time = ""
 Title = "Infrastructure as Code Workshop"
 Type = "talk"
 Speakers = ["angel-rivera"]
+sharing_image = "angel-rivera.png"
+
 +++
 
 DevOps adoptions usually includes an evolution of processes and tool chains that enable these teams to function optimally. Modern day computing and infrastructure management is definitely shifting away from “ClickOps” management and adopting the Infrastructure as Code (IaC) way of doing business. IaC enables teams to easily define, deploy and maintain compute infrastructures in the form of code. It also provides the ability to effortlessly scale, version and audit infrastructure resources. 

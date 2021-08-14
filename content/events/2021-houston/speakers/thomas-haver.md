@@ -6,6 +6,7 @@ type = "speaker"
 linktitle = "thomas-haver"
 linkedin = "https://www.linkedin.com/in/thomas-haver/"
 WebSite = "https://red-green-refactor.com/"
+sharing_image = "thomas-haver.png"
 
 +++
 

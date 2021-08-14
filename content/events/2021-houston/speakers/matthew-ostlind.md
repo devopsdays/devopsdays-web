@@ -5,6 +5,7 @@ image = "matthew-ostlind.png"
 type = "speaker"
 linktitle = "matthew-ostlind"
 LinkedIn = "https://www.linkedin.com/in/mostlind/"
+sharing_image = "matthew-ostlind.png"
 
 +++
 

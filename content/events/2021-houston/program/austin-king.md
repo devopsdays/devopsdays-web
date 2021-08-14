@@ -5,6 +5,8 @@ Talk_end_time = ""
 Title = "Games We Play to Improve on Incident Response"
 Type = "talk"
 Speakers = ["austin-king"]
+sharing_image = "austin-king.png"
+
 +++
 
 Incident Response is a core competency for many teams, but how can teams practice and improve? 

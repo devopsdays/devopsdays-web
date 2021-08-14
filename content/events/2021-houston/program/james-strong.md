@@ -5,6 +5,8 @@ Talk_end_time = ""
 Title = "Realizing the benefits of container DevSecOps with AWS"
 Type = "talk"
 Speakers = ["james-strong"]
+sharing_image = "james-strong.png"
+
 +++
 
 We will be using these tools and techniques to secure a container pipeline and runtime. 

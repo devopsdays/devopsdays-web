@@ -4,6 +4,7 @@ Twitter = "punkdata"
 image = "angel-rivera.png"
 type = "speaker"
 linktitle = "angel-rivera"
+sharing_image = "angel-rivera.png"
 
 +++
 

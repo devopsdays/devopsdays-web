@@ -5,6 +5,8 @@ Talk_end_time = ""
 Title = "Shift Left Security Concerns: DevSecOps is Pronounced DevOps: The Sec is Silent"
 Type = "talk"
 Speakers = ["ell-marquez"]
+sharing_image = "ell-marquez.png"
+
 +++
 
 The emergence of the cloud era has resulted in significant changes in the application development process. Traditional monolithic application architectures have given way to more agile cloud-native applications. With this transformation, developers have a greater responsibility to own their code in development and production. However, as DevOps has shifted left, security teams have become an afterthought. 

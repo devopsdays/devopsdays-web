@@ -5,6 +5,7 @@ image = "ell-marquez.png"
 type = "speaker"
 linktitle = "ell-marquez"
 WebSite = "http://ellopunk.com"
+sharing_image = "ell-marquez.png"
 
 +++
 

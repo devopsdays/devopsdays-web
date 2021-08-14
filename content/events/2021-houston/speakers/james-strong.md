@@ -5,6 +5,7 @@ image = "james-strong.png"
 type = "speaker"
 linktitle = "james-strong"
 WebSite = "https://jamesstrong.dev/"
+sharing_image = "james-strong.png"
 
 +++
 

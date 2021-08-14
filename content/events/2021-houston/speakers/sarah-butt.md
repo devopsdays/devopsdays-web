@@ -6,6 +6,7 @@ type = "speaker"
 linktitle = "sarah-butt"
 WebSite = "https://medium.com/sarah-on-sre"
 LinkedIn = "https://www.linkedin.com/in/sarahebutt/"
+sharing_image = "sarah-butt.png"
 
 +++
 

@@ -5,6 +5,7 @@ image = "mikhail-kozorovitskiy.png"
 type = "speaker"
 linktitle = "mikhail-kozorovitskiy"
 linkedin = "https://www.linkedin.com/in/mikhailk/"
+sharing_image = "mikhail-kozorovitskiy.png"
 
 +++
 

@@ -5,6 +5,8 @@ Talk_end_time = ""
 Title = "How to integrate Security & Quality into Your CI/CD Pipelines and What KPIs to Measure"
 Type = "talk"
 Speakers = ["vishnu-vasudevan"]
+sharing_image = "vishnu-vasudevan.png"
+
 +++
 
 Development is fast paced, and the demands on developers are never ending. How do you keep up with the pace of software development without leaving security and quality behind.

@@ -6,6 +6,7 @@ type = "speaker"
 linktitle = "jeremy-meiss"
 WebSite = "https://jmeiss.me"
 linkedin = "https://www.linkedin.com/in/jeremymeiss/"
+sharing_image = "jeremy-meiss.png"
 
 +++
 

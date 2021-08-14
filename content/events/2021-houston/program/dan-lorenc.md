@@ -5,6 +5,8 @@ Talk_end_time = ""
 Title = "Zero-Trust Supply Chain Security"
 Type = "talk"
 Speakers = ["dan-lorenc"]
+sharing_image = "dan-lorenc.png"
+
 +++
 
 Traditionally, network and workload security relied on trusted "perimeters". Firewalls, internal networks and physical security provided defense against attackers by keeping them out. This type of architecture is simple and effective when all assets are in one place, the firewall doesn't need many holes and all hardware is on the same physical network. 
