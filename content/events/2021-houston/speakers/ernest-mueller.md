@@ -5,6 +5,7 @@ image = "ernest-mueller.png"
 type = "speaker"
 linktitle = "ernest-mueller"
 LinkedIn = "https://www.linkedin.com/learning/instructors/ernest-mueller"
+sharing_image = "ernest-mueller.png"
 
 +++
 
