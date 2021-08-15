@@ -38,7 +38,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  #   url: https://www.papercall.io/devopsdayshouston2021
   - name: location
   - name: registration
- # - name: program
+  - name: program
   - name: speakers
   - name: sponsor
   - name: contact
