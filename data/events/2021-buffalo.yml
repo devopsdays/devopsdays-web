@@ -101,9 +101,15 @@ sponsors:
     level: silver
   - id: pagerduty
     level: bronze
+  - id: redhat
+    level: bronze
   - id: torchio
     level: silver
   - id: circleci
+    level: silver
+  - id: skycrafters
+    level: silver
+  - id: acv_auctions
     level: silver
   - id: starkandwayne
     level: gold
