@@ -36,7 +36,7 @@ Description = "devopsdays Portland 2021"
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    <a href="https://devopsdayspdx2021.busyconf.com/bookings/new">Register to attend the conference!</a> We have free tickets if you just want to watch the talks as well as two tiers of tickets for people who want to participate.
+    <a href="https://devopsdayspdx2021.busyconf.com/bookings/new">Register to attend the conference!</a> Our event this year is free, with options to support the event if you'd like!
   </div>
 </div>
 
