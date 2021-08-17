@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Don’t Rely on Metrics Alone - Strategies for Continuous Improvement"
 Type = "talk"
 Speakers = ["nick-hodges"]
+sharing_image = "nick-hodges.png"
 +++
 
 Tracking engineering metrics is viewed as table stakes by most dev leaders. But not all metrics are created equal. And dashboards don't help dev teams improve. Progressive software development organizations are moving beyond top-down metrics to focus on continuous improvement using Software Delivery Intelligence. 
