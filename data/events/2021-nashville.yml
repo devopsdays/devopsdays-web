@@ -150,6 +150,10 @@ sponsors:
    level: silver
  - id: trendmicro
    level: gold
+ - id: redhat
+   level: bronze
+ - id: influxdata
+   level: gold
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
