@@ -1,7 +1,7 @@
 +++
 Title = "Josh Armitage"
 #Twitter = ""
-#image = "josh-armitage.jpg"
+image = "josh-armitage.jpg"
 type = "speaker"
 linktitle = "josh-armitage"
 +++

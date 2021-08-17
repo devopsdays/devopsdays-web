@@ -3,7 +3,7 @@ Title = "Manuel Pais"
 #Twitter = ""
 image = "manuel-pais.jpg"
 type = "speaker"
-linktitle = "manuel-pais"
+#linktitle = "manuel-pais"
 +++
 
 #### Speaker

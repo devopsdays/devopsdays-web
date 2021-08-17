@@ -188,7 +188,7 @@ program:
     date: 2021-10-04
     start_time: "11:25"
     end_time: "11:45"
-  - title: "Ignite talks"
+  - title: "Lightning talks"
     type: ignite
     date: 2021-10-04
     start_time: "11:45"
@@ -268,7 +268,7 @@ program:
     date: 2021-10-05
     start_time: "13:20"
     end_time: "13:55"
-  - title: "open-slot"
+  - title: "hubert-poznanski"
     type: talk
     date: 2021-10-05
     start_time: "13:55"

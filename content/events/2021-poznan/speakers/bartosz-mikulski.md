@@ -1,7 +1,7 @@
 +++
 Title = "Bartosz Mikulski"
 #Twitter = ""
-#image = "bartosz-mikulski.jpg"
+image = "bartosz-mikulski.jpg"
 type = "speaker"
 linktitle = "bartosz-mikulski"
 +++
