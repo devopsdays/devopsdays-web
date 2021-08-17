@@ -6,6 +6,7 @@ type = "speaker"
 linktitle = "nick-hodges"
 WebSite = "https://linearb.io/"
 LinkedIn = "https://www.linkedin.com/in/nickhodges/"
+sharing_image = "nick-hodges.png"
 
 +++
 

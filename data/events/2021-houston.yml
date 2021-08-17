@@ -137,8 +137,6 @@ sponsors:
     level: silver
   - id: elastic
     level: gold
-  - id: xmatters
-    level: platinum
   - id: contrast_security
     level: platinum
   - id: houston-devops-meetup
@@ -173,6 +171,8 @@ sponsors:
     level: bronze
   - id: skycrafters
     level: lunch
+  - id: sonatype
+    level: platinum
     
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
