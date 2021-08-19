@@ -148,6 +148,14 @@ team_members: # Name is the only required field for team members.
     github: "fboaventura"
     twitter: "fboaventura"
     image: "frederico-boaventura.png"
+  - name: "Jandson Mendes"
+    employer: ""
+    bio: ""
+    linkedin: "https://www.linkedin.com/in/jandson-oliveira/"
+    website: ""
+    github: "jandsonmendes25"
+    twitter: "jandson_mendes"
+    image: "jandson-mendes.jpg"
 
 organizer_email: "vitoria@devopsdays.org" # Put your organizer email address here
 
