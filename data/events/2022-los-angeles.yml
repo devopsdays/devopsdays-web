@@ -20,7 +20,7 @@ cfp_date_announce:  # inform proposers of status
 cfp_link: "https://docs.google.com/forms/d/e/1FAIpQLSewxucXuZ5nmZYX-nBitrmnr1ZA-O7oc33kheNvoRw1ufEbgg/viewform" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2021-08-16T00:00:00-08:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: 2021-03-05T00:00:00-08:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_end: 2022-03-05T00:00:00-08:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://register.socallinuxexpo.org/reg6/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
@@ -47,14 +47,6 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
-  - name: "Carlos Meza"
-    employer: "digitalr00ts"
-    twitter: "digitalr00ts"
-    bio: "Python Developer"
-    image: "carlos-meza.jpg"
-    github: "cmeza99"
-    linkedin: "https://www.linkedin.com/in/cmeza99"
-    website: "https://www.digitalr00ts.com"
   - name: "Bryna Kirzner"
     employer: ""
     twitter: "brynak"
@@ -62,6 +54,10 @@ team_members: # Name is the only required field for team members.
     github: "brynak"
     linkedin: "https://www.linkedin.com/in/brynak"
     image: "bryna-kirzner.jpg"
+  - name: "Murriel Perez-McCabe"
+    employer: "Google"
+    linkedin: "https://www.linkedin.com/in/murrielperez/"
+    twitter: xmurriel
   - name: "Chris Webber"
     linkedin: "https://www.linkedin.com/in/cwebberops/"
     github: "cwebberops"
@@ -73,11 +69,18 @@ team_members: # Name is the only required field for team members.
     employer: "Datadog"
     linkedin: "https://www.linkedin.com/in/irabinovitch/"
   - name: "Joemar Gonzalez"
+  - name: "Carlos Meza"
+    employer: "digitalr00ts"
+    twitter: "digitalr00ts"
+    bio: "Python Developer"
+    image: "carlos-meza.jpg"
+    github: "cmeza99"
+    linkedin: "https://www.linkedin.com/in/cmeza99"
+    website: "https://www.digitalr00ts.com"
   - name: "Tony Fatouros"
-  - name: "Murriel Perez-McCabe"
-    employer: "Google"
-    linkedin: "https://www.linkedin.com/in/murrielperez/"
-    twitter: xmurriel
+  - name: "Omar Alva"
+    github: "omargohan"
+    twitter: "omargohan"
 
 organizer_email: "los-angeles@devopsdays.org" # Put your organizer email address here
 
