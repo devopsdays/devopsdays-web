@@ -141,7 +141,7 @@ Description = "DevOpsDays Zürich 2021"
     <strong>Homepage</strong>
   </div>
   <div class = "col-md-8">
-    <a href="https://wwww.devopsdays.ch/">DevOpsDays.ch</a>
+    <a href="https://www.devopsdays.ch/">DevOpsDays.ch</a>
   </div>
 </div>
 
