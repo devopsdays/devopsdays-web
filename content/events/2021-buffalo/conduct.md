@@ -1,7 +1,7 @@
 +++
 Title = "Conduct"
 Type = "event"
-Description = "Code of conduct for devopsdays Buffalo 2020"
+Description = "Code of conduct for devopsdays Buffalo 2021"
 +++
 
 

@@ -19,14 +19,14 @@ enddate: 2021-10-05T23:59:59+01:00 # The end date of your event. Leave blank if 
 # cfp_date_end:  2020-01-31T00:00:00+02:00 # close your call for proposals.
 # cfp_date_announce:  2020-02-28T00:00:00+02:00 # announce speakers.
 
-cfp_open: "true"
+cfp_open: "false"
 cfp_link: "https://www.papercall.io/devopsdayspoznan2021" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-# registration_date_start: 2019-11-27T00:00:00+02:00 # start accepting registration. Leave blank if registration is not open yet
-# registration_date_end: 2020-05-17T20:00:00+02:00 # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2021-08-01T00:00:00+02:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2021-10-04T00:00:00+02:00 # close registration. Leave blank if registration is not open yet.
 
 #registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-#registration_link: "https://evenea.pl/event/devopsdayspoznan2020/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://evenea.pl/pl/wydarzenie/872441-1" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -39,9 +39,9 @@ location_address: "Poznań Supercomputing and Networking Center, Jana Pawła II 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
   - name: propose
-#  - name: registration
-#  - name: program
-#  - name: speakers
+  - name: registration
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -150,7 +150,7 @@ sponsor_levels:
     max: 2
   - id: silver
     label: Silver
-    max: 4 # This is the same as omitting the max limit.
+    max: 3 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
     max: 4
@@ -158,149 +158,143 @@ sponsor_levels:
     label: Community
   - id: organizing
     label: Organizing
-    max: 2
+    max: 100
 #  - id: workshop
 #    label: Workshop
 
 program:
   - title: "Registration"
     type: custom
-    date: 2021-05-24
-    start_time: "08:00"
-    end_time: "09:00"
-  - title: "Opening day #1"
-    type: custom
-    date: 2021-05-24
+    date: 2021-10-04
     start_time: "09:00"
-    end_time: "09:15"
-  - title: "piotr-holubowicz"
-    type: talk
-    date: 2021-05-24
-    start_time: "09:15"
     end_time: "10:00"
-  - title: "denis-rosa"
+  - title: "Opening ceremony"
+    type: custom
+    date: 2021-10-04
+    start_time: "10:00"
+    end_time: "10:15"
+  - title: "manuel-pais"
     type: talk
-    date: 2021-05-24
-    start_time: "10:05"
+    date: 2021-10-04
+    start_time: "10:15"
     end_time: "10:50"
+  - title: "josh-armitage"
+    type: talk
+    date: 2021-10-04
+    start_time: "10:50"
+    end_time: "11:25"
   - title: "Coffee break"
     type: custom
-    date: 2021-05-24
-    start_time: "10:50"
-    end_time: "11:10"
-  - title: "Talk - TBD"
+    date: 2021-10-04
+    start_time: "11:25"
+    end_time: "11:45"
+  - title: "Lightning talks"
+    type: ignite
+    date: 2021-10-04
+    start_time: "11:45"
+    end_time: "12:20"
+  - title: "Lunch break"
     type: custom
-    date: 2021-05-24
-    start_time: "11:10"
-    end_time: "11:55"
-    background_color: "#abebff"
+    date: 2021-10-04
+    start_time: "12:20"
+    end_time: "13:20"
+  - title: "bartosz-mikulski"
+    type: talk
+    date: 2021-10-04
+    start_time: "13:20"
+    end_time: "13:55"
+  - title: "jj-asghar"
+    type: talk
+    date: 2021-10-04
+    start_time: "13:55"
+    end_time: "14:30"
+  - title: "Coffee break"
+    type: custom
+    date: 2021-10-04
+    start_time: "14:30"
+    end_time: "14:50"
+  - title: "Openspace"
+    type: open-space
+    date: 2021-10-04
+    start_time: "14:50"
+    end_time: "15:50"
+  - title: "Closing day 1"
+    type: custom
+    date: 2021-10-04
+    start_time: "15:50"
+    end_time: "16:00"
+  # - title: "Evening party"
+  #   type: custom
+  #   date: 2021-10-04
+  #   start_time: "19:30"
+  #   end_time: "23:59"
+  - title: "Registration"
+    type: custom
+    date: 2021-10-05
+    start_time: "09:00"
+    end_time: "10:00"
+  - title: "Opening ceremony"
+    type: custom
+    date: 2021-10-05
+    start_time: "10:00"
+    end_time: "10:15"
+  - title: "seth-vargo"
+    type: talk
+    date: 2021-10-05
+    start_time: "10:15"
+    end_time: "10:50"
   - title: "rafal-leszko"
     type: talk
-    date: 2021-05-24
-    start_time: "12:00"
-    end_time: "12:45"
-  - title: "Lunch break"
-    type: custom
-    date: 2021-05-24
-    start_time: "12:45"
-    end_time: "13:45"
-  - title: "Ignite talks"
-    type: ignite
-    date: 2021-05-24
-    start_time: "13:45"
-    end_time: "14:00"
-  - title: "sebastian-grodzicki"
-    type: talk
-    date: 2021-05-24
-    start_time: "14:05"
-    end_time: "14:50"
-  - title: "Coffee break"
-    type: custom
-    date: 2021-05-24
-    start_time: "14:50"
-    end_time: "15:10"
-  - title: "Openspace"
-    type: open-space
-    date: 2021-05-24
-    start_time: "15:10"
-    end_time: "16:45"
-  - title: "Day finale and party invite"
-    type: custom
-    date: 2021-05-24
-    start_time: "16:45"
-    end_time: "17:00"
-  - title: "Evening party"
-    type: custom
-    date: 2021-05-24
-    start_time: "19:30"
-    end_time: "23:59"
-  - title: "Opening day #2"
-    type: custom
-    date: 2021-05-25
-    start_time: "9:00"
-    end_time: "9:15"
-  - title: "pini-reznik"
-    type: talk
-    date: 2021-05-25
-    start_time: "9:15"
-    end_time: "10:00"
-  - title: "richard-boyd"
-    type: talk
-    date: 2021-05-25
-    start_time: "10:05"
-    end_time: "10:50"
-  - title: "Coffee break"
-    type: custom
-    date: 2021-05-25
+    date: 2021-10-05
     start_time: "10:50"
-    end_time: "11:10"
-  - title: "luis-herrera-armando-collazo"
-    type: talk
-    date: 2021-05-25
-    start_time: "11:10"
-    end_time: "11:55"
-  - title: "michal-el-fartas"
-    type: talk
-    date: 2021-05-25
-    start_time: "12:00"
-    end_time: "12:45"
-  - title: "Lunch break"
-    type: custom
-    date: 2021-05-25
-    start_time: "12:45"
-    end_time: "13:45"
-  - title: "Ignite talks"
-    type: ignite
-    date: 2021-05-25
-    start_time: "13:45"
-    end_time: "14:00"
-  - title: "renato-losio"
-    type: talk
-    date: 2021-05-25
-    start_time: "14:05"
-    end_time: "14:50"
+    end_time: "11:25"
   - title: "Coffee break"
     type: custom
-    date: 2021-05-25
-    start_time: "14:50"
-    end_time: "15:10"
+    date: 2021-10-05
+    start_time: "11:25"
+    end_time: "11:45"
+  - title: "Ignite talks"
+    type: ignite
+    date: 2021-10-05
+    start_time: "11:45"
+    end_time: "12:20"
+  - title: "Lunch break"
+    type: custom
+    date: 2021-10-05
+    start_time: "12:20"
+    end_time: "13:20"
+  - title: "pawel-skrzypek"
+    type: talk
+    date: 2021-10-05
+    start_time: "13:20"
+    end_time: "13:55"
+  - title: "hubert-poznanski"
+    type: talk
+    date: 2021-10-05
+    start_time: "13:55"
+    end_time: "14:30"
+  - title: "Coffee break"
+    type: custom
+    date: 2021-10-05
+    start_time: "14:30"
+    end_time: "14:50"
   - title: "Openspace"
     type: open-space
-    date: 2021-05-25
-    start_time: "15:10"
-    end_time: "16:45"
-  - title: "Closing ceremony"
+    date: 2021-10-05
+    start_time: "14:50"
+    end_time: "15:50"
+  - title: "Closing day 1"
     type: custom
-    date: 2021-05-25
-    start_time: "16:45"
-    end_time: "17:00"
+    date: 2021-10-05
+    start_time: "15:50"
+    end_time: "16:00"
 
 ignites:
-  - title: "lukasz-garczewski"
-    date: 2021-05-24
-  - title: "jagoda-sateja"
-    date: 2021-05-24
-  - title: "bartlomiej-sliwinski"
-    date: 2021-05-24
-  - title: "bob-walker"
-    date: 2021-05-25
+   - title: "bartlomiej-sliwinski"
+     date: 2021-05-24
+  # - title: "lukasz-garczewski"
+  #   date: 2021-05-24
+  # - title: "jagoda-sateja"
+  #   date: 2021-05-24
+  # - title: "bob-walker"
+  #   date: 2021-10-05
