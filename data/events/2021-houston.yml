@@ -34,15 +34,17 @@ location: "Houston - CityCentre - Norris Conference Centers" # Defaults to city,
 location_address: "816 Town and Country Blvd #210, Houston, TX 77024" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
-    url: https://www.papercall.io/devopsdayshouston2021
+ # - name: propose
+ #   url: https://www.papercall.io/devopsdayshouston2021
   - name: location
   - name: registration
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
+  - name: faq
+  - name: covid-19-policy
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -58,7 +60,9 @@ team_members: # Name is the only required field for team members.
   - name: "Carlos Nunez"
     employer: "VMware"
     twitter: "easiestnameever"
-    bio: ""
+    bio: "Carlos is an engineer at VMware Tanzu. Tanzu aims to help companies of any size achieve their digital transformation goals through embracing modern applications on Kubernetes.
+    His mission is to use the power of DevOps, reliability engineering, agile, and first-principles software engineering to help engineering teams of any size make shipping production-ready software as fast, easy, and safe as writing 'Hello, world.' More specifically, Carlos specializes in making production fun again for engineering teams in highly-regulated enterprise environments, like finance and healthcare.
+    On his off time, he enjoys working out, road biking, writing, visiting new breweries and doing badly at trivia."
     image: "carlos-nunez.jpg"
     linkedin: "http://linkedin.carlosnunez.me/"
   - name: "Dan Collins"
@@ -70,6 +74,15 @@ team_members: # Name is the only required field for team members.
     twitter: "realdancollins"
     image: "dan-collins.jpg"
     bio: "Dan is the founder of DevOpsDays Houston, and a U of H graduate with over 20 years of experience in software and systems development. In the Microsoft-heavy world of Houston IT, he specializes in non-Microsoft technologies with an emphasis on lean methodology and automated software pipelines. Dan is a recovering, former advocate of embedded IT, a blockchain gadfly and has been leading the Houston DevOps Meetup since June 2017. The future is decentralized, distributed, renewable, sustainable and powered by Houston Texas."
+  - name: "JJ Asghar"
+    twitter: "jjasghar"
+    employer: "IBM"
+    bio: "JJ works at IBM on the IBM cloud as a Developer Advocate. He’s focusing on the IBM Kubernetes Service trying to make companies and users have a successful on boarding to the Cloud Native ecosystem."
+    github: "jjasghar"
+    facebook: ""
+    linkedin: ""
+    image: "jj.jpg"
+    role: "Co-Founder"
   - name: "Keegan Cotton"
     employer: "Datadog"
     linkedin: "https://www.linkedin.com/in/keegan-cotton-a6602b1/"
@@ -120,14 +133,10 @@ sponsors:
     level: gold
   - id: arresteddevops
     level: community
-  - id: 42lines
-    level: gold
   - id: decisiohealth
     level: silver
   - id: elastic
     level: gold
-  - id: xmatters
-    level: platinum
   - id: contrast_security
     level: platinum
   - id: houston-devops-meetup
@@ -154,7 +163,18 @@ sponsors:
     level: bronze
   - id: stackhawk
     level: gold
-    
+  - id: abs
+    level: lunch
+  - id: redhat
+    level: bronze
+  - id: skycrafters
+    level: bronze
+  - id: skycrafters
+    level: lunch
+  - id: sonatype
+    level: platinum
+  - id: coralogix
+    level: breakfast
     
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -179,3 +199,9 @@ sponsor_levels:
     label: Corporate 
   - id: community
     label: Community
+  - id: lunch
+    label: Lunch
+    max: 2
+  - id: breakfast
+    label: Breakfast
+    max: 2

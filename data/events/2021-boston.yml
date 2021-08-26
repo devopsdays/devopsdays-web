@@ -20,11 +20,11 @@ cfp_date_announce: "2021-02-17T00:00:00Z" # inform proposers of status
 
 cfp_link: "https://www.papercall.io/dodbos21" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: "2021-06-27T00:00:00Z" # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: "2021-09-28T00:00:00Z" # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://ti.to/devopsdaysbos/2021" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -97,6 +97,16 @@ team_members: # Name is the only required field for team members.
     linkedin: https://www.linkedin.com/in/emily-zall/
     image: "emilyzall.jpg"
 
+  - name: "Kate Ruh"
+    bio: "Kate works as a Site Reliability Engineer for Stavvy, a fintech company in the Boston area looking to modernize home closings. She has a passion for all things infrastructure and application security, and using emojis to get things done. While not at work, she’s working on a farm, playing with her two dogs, or biking through the streets of Massachusetts."
+    image: "kateruh.jpg"
+
+  - name: "Jirawat Uttayaya"
+    bio: "Jirawat is the DevOps practice lead at Rocket Insights. He started his career as a Java/Perl developer and through happenstance now works in DevOps."
+    image: "jirawat.jpg"
+    linkedin: https://www.linkedin.com/in/jirawat
+    github: "juttayaya"
+
 organizer_email: "boston@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
@@ -110,6 +120,16 @@ sponsors:
     level: platinum
   - id: scout
     level: platinum
+  - id: capitalone
+    level: platinum
+  - id: progress
+    level: platinum
+  - id: cloudtruth
+    level: platinum
+  - id: coralogix
+    level: platinum
+  - id: launch-darkly
+    level: alacarte
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -123,7 +143,7 @@ sponsor_levels:
   - id: community
     label: Community
   - id: alacarte
-    label: A la carte
+    label: Captioning and Live Graphics
   - id: academic
     label: Academic
 

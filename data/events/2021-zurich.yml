@@ -26,7 +26,7 @@ registration_date_start: 2021-02-01T00:00:00+02:00
 registration_date_end: 2021-09-06T00:00:00+02:00
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "https://ti.to/dod/dodzh2020" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+#registration_link: "https://ti.to/dod/dodzh2020" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -37,13 +37,14 @@ location_address: "Technikumstrasse 8, 8400 Winterthur, Switzerland" #Optional -
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
 #  - name: propose
-  - name: location
-  - name: registration
-  - name: diversity
-  - name: covid
   - name: program
   - name: speakers
+  - name: location
+  - name: hotel
+  - name: registration
   - name: sponsor
+  - name: diversity
+  - name: covid
   - name: contact
   - name: conduct
 # - name: example
@@ -203,7 +204,13 @@ sponsors:
     level: community
   - id: swissdevjobs
     level: partner 
-
+  - id: cycloid
+    level: silver
+  - id: elastic
+    level: silver
+  - id: cloudbees
+    level: gold
+    
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -294,18 +301,18 @@ program:
   type: ignite
   date: 2021-09-07
   start_time: '14:05'
-  end_time: '14:30'
+  end_time: '14:25'
 
 - title: "Open Space"
   type: open-space
   date: 2021-09-07
-  start_time: '14:30'
+  start_time: '14:25'
   end_time: '16:30'
 
 - title: marco-consolaro
   type: workshop
   date: 2021-09-07
-  start_time: '14:30'
+  start_time: '14:25'
   end_time: '16:30'
 
 - title: courtney-heba
@@ -314,7 +321,7 @@ program:
   start_time: '15:00'
   end_time: '16:30'
 
-- title: workshop-philipp-krenn
+- title: andrea-giardini 
   type: workshop
   date: 2021-09-07
   start_time: '15:00'
@@ -417,29 +424,21 @@ program:
   start_time: '15:00'
   end_time: '17:15'
 
-- title: andrea-giardini
-  type: workshop
-  date: 2021-09-08
-  start_time: '15:00'
-  end_time: '17:15'
-
-- title: Award Ceremony
-  type: custom
+- title: award-ceremony
+  type: talk
   date: 2021-09-08
   start_time: '17:15'
   end_time: '17:30'
 
 
 ignites:
-  - title: "jeremy-meiss"
-    date: 2021-09-07
-  - title: "georg-hauzenberger"
-    date: 2021-09-07
   - title: "christian-jakob"
     date: 2021-09-07
   - title: "david-patrick-adam"
     date: 2021-09-07
   - title: "tobias-hauk"
+    date: 2021-09-07
+  - title: "daniel-maher"
     date: 2021-09-07
   - title: "achim-toeper"
     date: 2021-09-08
@@ -449,5 +448,5 @@ ignites:
     date: 2021-09-08
   - title: "ignite-johan-abildskov"
     date: 2021-09-08
-  - title: "philipp-krenn"
+  - title: "georg-hauzenberger"
     date: 2021-09-08

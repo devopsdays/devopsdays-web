@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "GitOps and Kubernetes: a Winning Combo"
 Type = "talk"
 Speakers = ["steve-buchanan"]
+youtube = "M75yhlHk77I"
 +++
 
 GitOps is an emerging pattern for cloud native applications. This operating model simplifies Kubernetes ops while simultaneously improving the developer experience. GitOps enables continuous delivery of configuration updates and application deployments to Kubernetes.

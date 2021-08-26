@@ -1,5 +1,5 @@
 +++ 
-title = "Malon Quadros" 
+title = "Marlon Quadros" 
 linkedin = "https://www.linkedin.com/in/marlonbaptista/" 
 image = "marlon.jpg" 
 type = "speaker" 

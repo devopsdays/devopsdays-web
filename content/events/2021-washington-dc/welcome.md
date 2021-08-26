@@ -10,7 +10,11 @@ Description = "DevOpsDays Washington, D.C. 2021"
     {{< event_logo >}}
   </span>
 
-  DevOpsDays DC is planning a return in Septemeber, 2021.  Watch this space for more details.  In the meantime, you are welcome to revisit your favorite memories from DevOpsDays DC <a href="/events/2019-washington-dc/welcome">2019</a>. <a href="/events/2018-washington-dc/welcome">2018</a>, <a href="/events/2017-washington-dc/welcome">2017</a>, <a href="/events/2016-washington-dc/welcome">2016</a>, and <a href="https://legacy.devopsdays.org/events/2015-washington-dc/">2015</a>.
+  After a pandemic-induced year off, DevOpsDays DC is returning for a one-day event in November 2021. We'll be virtual this year and hope (fingers crossed) to be back in person in 2022.
+
+  The Call for Proposals is now <a href="https://devopsdaysdc2021.busyconf.com/proposals/new">OPEN</a>! You have a great story and we want to hear from you -- especially if you haven't shared your voice with us before. If you'd like some help from the organizers in talking through your ideas or even shaping your presentation, we'd love to do that. Just get in touch with the organizers and let us know.
+
+  You may have noticed we changed our original event dates from September 16-17 to November 4. We share more about that change in this {{< event_link page="announcement" text="announcement" >}}.
 </p>
 
 <div class = "row">
@@ -18,7 +22,7 @@ Description = "DevOpsDays Washington, D.C. 2021"
     <strong>Dates</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_start >}} - {{< event_end >}}
+    {{< event_start >}}
   </div>
 </div>
 
