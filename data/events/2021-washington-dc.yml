@@ -152,7 +152,7 @@ team_members: # Name is the only required field for team members.
     website: ""
 
   - name: "Robb Kidd"
-    employer: "Chef"
+    employer: "Honeycomb"
     twitter: "robbkidd"
     bio: "Is that shark laughing at me?"
     image: "robb-kidd.jpg"
