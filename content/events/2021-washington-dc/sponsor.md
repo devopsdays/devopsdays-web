@@ -9,12 +9,12 @@ We greatly value sponsors for this open event.  If you are interested in sponsor
 <hr>
 
 devopsdays is a self-organizing conference for practitioners that depends on sponsorships.
-We do not have vendor booths, sell product presentations, or distribute attendee contact lists.
-Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event.
+We do not sell product presentations or distribute attendee contact lists.
+Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during, and after the event.
 Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers.
 Any attendee also has the opportunity to demo products/projects as part of an open space session.
 
-Some sponsors get a virtual room where they can interact with those interested to come visit during breaks.
+Some sponsors get a virtual room in our virtual event platform Hopin where they can interact with those attendees interested to come visit during the event.
 All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
 
 The best thing to do is send engineers to interact with the experts at devopsdays on their own terms.
@@ -63,6 +63,15 @@ The best thing to do is send engineers to interact with the experts at devopsday
     <td>$0 USD</td>
     <!-- captions is pending details <td>$2,500 USD</td> -->
   </tr>
+    <tr>
+    <td>How many are available?</td>
+    <td class="yes"> 5 </td>
+    <td class="yes"> 5 </td>
+    <td class="yes"> 5 </td>
+    <td class="yes">  </td>
+    <td class="yes">  </td>
+    <!-- captions is pending details <td class="yes">&#9989;</td> -->
+  </tr>
   <tr>
     <td>Logo on shared slide, rotating during breaks</td>
     <td class="yes">&#9989;</td>
@@ -73,7 +82,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
     <!-- captions is pending details <td class="yes">&#9989;</td> -->
   </tr>
   <tr>
-    <td>Logo on DevOpsDays DC 2019 event website</td>
+    <td>Logo on DevOpsDays DC 2021 event website</td>
     <td class="yes">&#9989;</td>
     <td class="yes">&#9989;</td>
     <td class="yes">&#9989;</td>
@@ -91,21 +100,13 @@ The best thing to do is send engineers to interact with the experts at devopsday
     <!-- captions is pending details <td class="yes">&#9989;</td> -->
   </tr>
   <tr>
-    <td>Virtual Vendor Room in event platform</td>
+    <td>Virtual Vendor Room in Hopin</td>
     <td class="yes">&#9989;</td>
     <td class="yes">&#9989;</td>
     <td class="yes"> </td>
     <td class="no"> </td>
     <td class="no"> </td>
     <!-- captions is pending details <td class="no"> </td> -->
-  <tr>
-    <td>Pitch to full audience (pre-recorded)</td>
-    <td class="yes">1 minute</td>
-    <td class="yes">30 seconds</td>
-    <td class="no"> </td>
-    <td class="no"> </td>
-    <td class="no"> </td>
-    <!-- captions is pending details <td class="yes"> </td> -->
   </tr>
   <tr>
     <td>Thanks and promotion on event's social media</td>
@@ -117,13 +118,13 @@ The best thing to do is send engineers to interact with the experts at devopsday
     <!-- captions is pending details <td class="yes"> </td> -->
   </tr>
   <tr>
-    <td>Included ticket total</td>
-    <td class="yes">4</td>
-    <td class="yes">2</td>
-    <td class="yes">1</td>
-    <td class="yes">1</td>
-    <td class="yes">1</td>
-    <!-- captions is pending details <td class="yes">4</td> -->
+    <td>Pitch to full audience (pre-recorded)</td>
+    <td class="yes">1 minute</td>
+    <td class="no"> </td>
+    <td class="no"> </td>
+    <td class="no"> </td>
+    <td class="no"> </td>
+    <!-- captions is pending details <td class="yes"> </td> -->
   </tr>
   </tbody>
 </table>
