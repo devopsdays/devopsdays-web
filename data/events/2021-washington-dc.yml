@@ -246,8 +246,8 @@ sponsor_levels:
     label: Silver
   - id: community
     label: Community
-  # - id: media
-  #   label: Media
+  - id: media
+    label: Media
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
