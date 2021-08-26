@@ -63,15 +63,6 @@ The best thing to do is send engineers to interact with the experts at devopsday
     <td>$0 USD</td>
     <!-- captions is pending details <td>$2,500 USD</td> -->
   </tr>
-    <tr>
-    <td>How many are available?</td>
-    <td class="yes"> 5 </td>
-    <td class="yes"> 5 </td>
-    <td class="yes"> 5 </td>
-    <td class="yes">  </td>
-    <td class="yes">  </td>
-    <!-- captions is pending details <td class="yes">&#9989;</td> -->
-  </tr>
   <tr>
     <td>Logo on shared slide, rotating during breaks</td>
     <td class="yes">&#9989;</td>

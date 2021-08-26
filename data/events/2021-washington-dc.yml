@@ -238,15 +238,12 @@ sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: platinum
     label: Platinum
-    max: 5
   # - id: captioning
   #   label: Live Caption
   - id: gold
     label: Gold
-    max: 5
   - id: silver
     label: Silver
-    max: 5
   - id: community
     label: Community
   # - id: media
