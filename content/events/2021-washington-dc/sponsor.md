@@ -59,8 +59,8 @@ The best thing to do is send engineers to interact with the experts at devopsday
     <td>$2,500 USD</td>
     <td>$1,000 USD</td>
     <td>$500 USD</td>
-    <td><!-- example cool stamp for closed/sold out status <span class="stamp">CLOSED</span>--></td>
-    <td></td>
+    <td>$0 USD<!-- example cool stamp for closed/sold out status <span class="stamp">CLOSED</span>--></td>
+    <td>$0 USD</td>
     <!-- captions is pending details <td>$2,500 USD</td> -->
   </tr>
   <tr>
