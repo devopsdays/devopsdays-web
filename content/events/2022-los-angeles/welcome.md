@@ -1,48 +1,40 @@
 +++
-Title = "DevOpsDays Washington, D.C. 2021"
+Title = "devopsdays Los Angeles 2022"
 Type = "welcome"
-aliases = ["/events/2021-washington-dc/"]
-Description = "DevOpsDays Washington, D.C. 2021"
+aliases = ["/events/2022-los-angeles/"]
+Description = "devopsdays Los Angeles 2022"
 +++
 
-<p>
-  <span style="float:right;">
-    {{< event_logo >}}
-  </span>
-
-  After a pandemic-induced year off, DevOpsDays DC is returning for a one-day event in November 2021. We'll be virtual this year and hope (fingers crossed) to be back in person in 2022.
-
-  The Call for Proposals is now <a href="https://devopsdaysdc2021.busyconf.com/proposals/new">OPEN</a>! You have a great story and we want to hear from you -- especially if you haven't shared your voice with us before. If you'd like some help from the organizers in talking through your ideas or even shaping your presentation, we'd love to do that. Just get in touch with the organizers and let us know.
-
-  You may have noticed we changed our original event dates from September 16-17 to November 4. We share more about that change in this {{< event_link page="announcement" text="announcement" >}}.
-</p>
+<!-- <div style="text-align:center;">
+  {{< event_logo >}}
+</div> -->
 
 <div class = "row">
   <div class = "col-md-2">
     <strong>Dates</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_start >}}
+    {{< event_start >}} - {{< event_end >}}
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="registration" text="Register to attend the conference!" >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -71,7 +63,6 @@ Description = "DevOpsDays Washington, D.C. 2021"
   </div>
 </div> -->
 
-<!-- No sponsors while we are paused.
 <div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>
@@ -80,7 +71,6 @@ Description = "DevOpsDays Washington, D.C. 2021"
     {{< event_link page="sponsor" text="Sponsor the conference!" >}}
   </div>
 </div>
--->
 
 <div class = "row">
   <div class = "col-md-2">

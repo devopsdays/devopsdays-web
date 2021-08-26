@@ -11,7 +11,7 @@ Description = "devopsdays Vitoria 2022"
 
 <div class="row">
   <div class="col-md-2">
-      <img alt="DevOpsDays vitoria 2020" src="/events/2020-vitoria/event.png" style="width:100%">
+      <img alt="DevOpsDays vitoria 2022" src="/events/2022-vitoria/event.png" style="width:100%">
       {{< event_twitter >}}
       <br>
       <a href="https://t.me/joinchat/CfcDxlbPZkjOQTXIi5b6-g" target="_blank">
