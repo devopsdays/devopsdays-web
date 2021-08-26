@@ -71,7 +71,6 @@ Description = "DevOpsDays Washington, D.C. 2021"
   </div>
 </div> -->
 
-<!-- No sponsors while we are paused.
 <div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>
@@ -80,7 +79,6 @@ Description = "DevOpsDays Washington, D.C. 2021"
     {{< event_link page="sponsor" text="Sponsor the conference!" >}}
   </div>
 </div>
--->
 
 <div class = "row">
   <div class = "col-md-2">
