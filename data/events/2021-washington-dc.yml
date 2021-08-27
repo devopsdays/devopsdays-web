@@ -40,7 +40,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: registration
  # - name: program
  # - name: speakers
- # - name: sponsor
+  - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
@@ -236,18 +236,18 @@ sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  # - id: platinum
-  #   label: Platinum
+  - id: platinum
+    label: Platinum
   # - id: captioning
   #   label: Live Caption
-  # - id: gold
-  #   label: Gold
-  # - id: silver
-  #   label: Silver
-  # - id: community
-  #   label: Community
-  # - id: media
-  #   label: Media
+  - id: gold
+    label: Gold
+  - id: silver
+    label: Silver
+  - id: community
+    label: Community
+  - id: media
+    label: Media
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
