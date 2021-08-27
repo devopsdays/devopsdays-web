@@ -40,7 +40,6 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: program
   - name: speakers
   - name: location
-  - name: hotel
   - name: registration
   - name: sponsor
   - name: diversity
