@@ -5,24 +5,24 @@ Description = "Code of conduct for devopsdays Portland 2021"
 +++
 
 
-All attendees, speakers, sponsors, and volunteers at devopsdays Portland 2021 are required to agree with the following code of conduct. Organizers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensure a safe environment for everybody.
+All members of the PDX DevOpsDays Discord server are required to agree with the following code of conduct. Moderators will enforce this code of conduct based on a situation such as removing offensive content, issuing warnings, or banning accounts. We expect cooperation from all participants to help ensure a safe environment for everybody.
 
 ### The Quick Version
 
-Our conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter, and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.
+PDX DevOpsDays is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment in any form.
 
 ### The Less Quick Version
 
-Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion, technology choices, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. Participants asked to stop any harassing behavior are expected to comply immediately.
+Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion, technology choices, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 
-Sponsors are also subject to the anti-harassment policy. In particular, sponsors should not use sexualized images, activities, or other material. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.
+Participants asked to stop any harassing behavior are expected to comply immediately.
 
-If a participant engages in harassing behavior, the conference organizers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.
+If a user engages in harassing behavior, PDX DevOpsDays moderators may take any action they deem appropriate, including warning the offender or expulsion from the server.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact an admin/organizer (name in red) immediately.
 
-Conference staff can be identified by distinct staff badges. Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
+To report a violation of the code of conduct, please DM a channel admin/moderator immediately for assistance. Alternatively, email `portland-or@devopsdays.org`.
 
-We expect participants to follow these rules at conference and workshop venues and conference-related social events.
+In addition to the general and specific guidelines above, your conduct as an attendee/viewer are also bound by the [Discord community guidelines](https://discord.com/safety/360043709612-Our-policies). Violations of the Discord Community Guidelines may result in an account removal.
 
-_The devopsdays Portland 2021 Code of Conduct is based on [confcodeofconduct.com](https://confcodeofconduct.com)._ 
+_This Code of Conduct is adapted from the [Conference Code of Conduct](https://confcodeofconduct.com/) and adapted under the terms of CC BY 3.0_
