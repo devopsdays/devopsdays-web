@@ -2,7 +2,7 @@
 Title = "devopsdays Montreal 2021"
 Type = "welcome"
 aliases = [
-  "/events/2021-montreal/"
+  "/events/2021-montreal/",
   "/events/2021-montreal/location/",
   "/events/2021-montreal/propose/",
   "/events/2021-montreal/registration/",
