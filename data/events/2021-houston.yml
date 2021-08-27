@@ -229,7 +229,7 @@ program:
     start_time: "10:00"
     end_time: "10:20"
     background_color: "#D0D0D0"
-  - title: "vishnu-vasudevan"
+  - title: "milecia-mcgregor"
     type: talk
     date: 2021-09-21
     start_time: "10:25"
@@ -261,7 +261,7 @@ program:
     date: 2021-09-21
     start_time: "13:00"
     end_time: "13:30"
-  - title: "angel-rivera"
+  - title: "matthew-d-groves"
     type: workshop
     date: 2021-09-21
     start_time: "13:10"
@@ -287,12 +287,12 @@ program:
     date: 2021-09-21
     start_time: "15:00"
     end_time: "15:30"
-  - title: "austin-king"
+  - title: "thomas-haver"
     type: talk
     date: 2021-09-21
     start_time: "15:35"
     end_time: "16:05"
-  - title: "matthew-ostlind"
+  - title: "matt-stratton"
     type: workshop
     date: 2021-09-21
     start_time: "15:35"
@@ -330,12 +330,12 @@ program:
     start_time: "10:00"
     end_time: "10:20"
     background_color: "#D0D0D0"   
-  - title: "thomas-haver"
+  - title: "austin-king"
     type: talk
     date: 2021-09-22
     start_time: "10:25"
     end_time: "10:55"
-  - title: "matthew-d-groves"
+  - title: "angel-rivera"
     type: workshop
     date: 2021-09-22
     start_time: "10:25"
@@ -368,18 +368,18 @@ program:
     date: 2021-09-22
     start_time: "12:50"
     end_time: "13:30"
-  - title: "tech-talk-9-unknown"
+  - title: "vishnu-vasudevan"
     type: talk
     date: 2021-09-22
     start_time: "13:35"
     end_time: "14:05"
-  - title: "workshop-unknown"
+  - title: "raghavan-srinivas"
     type: workshop
     date: 2021-09-22
     start_time: "13:45"
     end_time: "14:25"
     comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill"
-  - title: "milecia-mcgregor"
+  - title: "aakash-shah"
     type: talk
     date: 2021-09-22
     start_time: "14:15"
@@ -403,7 +403,13 @@ program:
     type: "custom"
     date: 2021-09-22
     start_time: "16:10"
-    end_time: "15:10"
+    end_time: "17:10"
+  - title: "matthew-ostlind"
+    type: "workshop"
+    date: 2021-09-22
+    start_time: "16:10"
+    end_time: "17:05"
+    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill"
   - title: "Program Close"
     type: custom
     date: 2021-09-22
