@@ -3,6 +3,7 @@ Title = "Program"
 Type = "program"
 Description = "Program for DevOpsDays Houston 2020"
 Icons = "true"
+sharing_image = "sharing.jpg"
 +++
 
 <div class = "row">
