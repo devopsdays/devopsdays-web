@@ -6,7 +6,9 @@ Description = "All information about the Covid-19 measures"
 
 <div class="row">
   <div  class="col-md-9">
-        <p>The COVID-19 situation in Switzerland is improving at this point in time, so that we're go for an in-person event allowing access to everyone who is either vaccinated, tested or convalesced from COVID-19. Data and reports on the epidemiological situation in Switzerland can be found here: <a href="https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html">Situation in Switzerland</a> </p>
+        <p>The COVID-19 situation in Switzerland is improving at this point in time, so that we're go for an in-person event allowing access to everyone who is either vaccinated, tested or convalesced from COVID-19. 
+        <b>This meand that only persons with a valid COVID-Certificate and a valid ID (e.g. driving license or passport) are allowed access to the DevOpsDays Zürich 2021.</b>
+        Data and reports on the epidemiological situation in Switzerland can be found here: <a href="https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html">Situation in Switzerland</a> </p>
     </div>  
 </div>
 <div class="row">
