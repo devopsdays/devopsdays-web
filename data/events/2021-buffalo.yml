@@ -95,15 +95,19 @@ organizer_email: "buffalo@devopsdays.org" # Put your organizer email address her
 sponsors:
   - id: devrelate
     level: community
-  - id: huntproductions
-    level: community
   - id: gitlab
     level: silver
   - id: pagerduty
     level: bronze
+  - id: redhat
+    level: bronze
   - id: torchio
     level: silver
   - id: circleci
+    level: silver
+  - id: skycrafters
+    level: silver
+  - id: acv_auctions
     level: silver
   - id: starkandwayne
     level: gold
@@ -123,12 +127,13 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Gold
-#    max: 10
+    max: 5
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    max: 5
   - id: bronze
     label: Bronze
+    max: 10
   - id: community
     label: Community
 

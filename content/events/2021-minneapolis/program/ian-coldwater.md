@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Bring Your Gifts: Building Bridges to Our Local Communities (Keynote)"
 Type = "talk"
 Speakers = ["ian-coldwater"]
+youtube = "qPZECSYsKCU"
 +++
 
 At George Floyd Square on the intersection of 38th and Chicago, we tell people "Bring your gifts" when people ask how they can help. Everyone has different skills and resources. Bring yours.

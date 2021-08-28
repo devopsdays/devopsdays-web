@@ -38,8 +38,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: location
   - name: registration
   - name: program
-    url: https://devopsdayspdx2021.busyconf.com/schedule
- # - name: speakers
+ #   url: https://devopsdayspdx2021.busyconf.com/schedule
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -76,6 +76,10 @@ sponsors:
     level: gold
   - id: stackhawk
     level: silver
+  - id: trendmicro
+    level: gold
+  - id: wehackpurple
+    level: gold
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -93,3 +97,135 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+
+program:
+  - title: "laura-santamaria"
+    type: talk
+    date: 2021-09-20
+    start_time: "10:10"
+    end_time: "10:30"
+  - title: "Q&A with Laura Santamaria in Discord"
+    type: custom
+    date: 2021-09-20
+    start_time: "10:30"
+    end_time: "10:40"
+  - title: "eric-shamow"
+    type: talk
+    date: 2021-09-20
+    start_time: "10:45"
+    end_time: "11:05"
+  - title: "Q&A with Eric Shamow in Discord"
+    type: custom
+    date: 2021-09-20
+    start_time: "11:05"
+    end_time: "11:15"
+  - title: "aaron-aldrich"
+    type: talk
+    date: 2021-09-20
+    start_time: "11:25"
+    end_time: "11:45"
+  - title: "Q&A with Aaron Aldrich in Discord"
+    type: custom
+    date: 2021-09-20
+    start_time: "11:45"
+    end_time: "11:55"
+  - title: "Break for lunch"
+    type: custom
+    date: 2021-09-20
+    start_time: "12:00"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2021-09-20
+    start_time: "13:00"
+    end_time: "13:25"
+#  - title: "nocnica-fee"
+#    type: ignite
+#    date: 2021-09-20
+#    start_time: "13:00"
+#    end_time: "13:05"
+#  - title: "justin-garrison"
+#    type: ignite
+#    date: 2021-09-20
+#    start_time: "13:05"
+#    end_time: "13:10"
+#  - title: "yshay-yaacobi"
+#    type: ignite
+#    date: 2021-09-20
+#    start_time: "13:10"
+#    end_time: "13:15"
+#  - title: "k8-postmortem"
+#    type: ignite
+#    date: 2021-09-20
+#    start_time: "13:15"
+#    end_time: "13:20"
+#  - title: "matt-stratton"
+#    type: ignite
+#    date: 2021-09-20
+#    start_time: "13:20"
+#    end_time: "13:25"
+
+  - title: "ceora-ford"
+    type: talk
+    date: 2021-09-21
+    start_time: "10:10"
+    end_time: "10:30"
+  - title: "Q&A with Ceora Ford in Discord"
+    type: custom
+    date: 2021-09-21
+    start_time: "10:30"
+    end_time: "10:40"
+  - title: "quintessence-anx"
+    type: talk
+    date: 2021-09-21
+    start_time: "10:45"
+    end_time: "11:05"
+  - title: "Q&A with Quintessence Anx in Discord"
+    type: custom
+    date: 2021-09-21
+    start_time: "11:05"
+    end_time: "11:15"
+  - title: "jerome-comeau"
+    type: talk
+    date: 2021-09-21
+    start_time: "11:25"
+    end_time: "11:45"
+  - title: "Q&A with Jerome Comeau in Discord"
+    type: custom
+    date: 2021-09-21
+    start_time: "11:45"
+    end_time: "11:55"
+  - title: "Break for lunch"
+    type: custom
+    date: 2021-09-21
+    start_time: "12:00"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2021-09-21
+    start_time: "13:00"
+    end_time: "13:25"
+
+
+ignites:
+  - title: "nocnica-fee"
+    date: 2021-09-20
+  - title: "justin-garrison"
+    date: 2021-09-20
+  - title: "yshay-yaacobi"
+    date: 2021-09-20
+  - title: "k8-postmortem"
+    date: 2021-09-20
+  - title: "matt-stratton"
+    date: 2021-09-20
+
+  - title: "dan-lines"
+    date: 2021-09-21
+  - title: "jack-knives"
+    date: 2021-09-21
+  - title: "jace-warren"
+    date: 2021-09-21
+  - title: "areti-panou"
+    date: 2021-09-21
+  - title: "rachel-kelly"
+    date: 2021-09-21

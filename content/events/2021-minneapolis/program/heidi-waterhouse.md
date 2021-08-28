@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Our Mill City: Microservices, Monoliths, and Powder Explosions"
 Type = "talk"
 Speakers = ["heidi-waterhouse"]
+youtube = "xWRKWvPfGT0"
 +++
 
 The map is not the territory, the power is not the work, and the product is not the experience.
