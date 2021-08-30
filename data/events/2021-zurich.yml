@@ -211,7 +211,9 @@ sponsors:
     level: gold
   - id: jfrog
     level: gold
-    
+  - id: stacksciences
+    level: bronze   
+
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -331,7 +333,7 @@ program:
 - title: jonathan-smart
   type: talk
   date: 2021-09-07
-  start_time: '16:30'
+  start_time: '16:45'
   end_time: '17:30'
 
 - title: Evening Event
@@ -425,8 +427,8 @@ program:
   start_time: '15:00'
   end_time: '17:15'
 
-- title: award-ceremony
-  type: talk
+- title: Award Ceremony
+  type: custom
   date: 2021-09-08
   start_time: '17:15'
   end_time: '17:30'
