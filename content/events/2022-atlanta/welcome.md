@@ -1,8 +1,8 @@
 +++
-Title = "devopsdays atlanta 2021"
+Title = "devopsdays atlanta 2022"
 Type = "welcome"
 aliases = ["/events/2022-atlanta/"]
-Description = "devopsdays atlanta 2021"
+Description = "devopsdays atlanta 2022"
 +++
 
  <div style="text-align:center;">
@@ -12,7 +12,7 @@ Description = "devopsdays atlanta 2021"
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Dates</strong>
+    <strong>Dates</strong> 
   </div>
   <div class = "col-md-8">
     {{< event_start >}} - {{< event_end >}}
