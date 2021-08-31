@@ -17,3 +17,12 @@ slides = ""
 ### Workshop
 
 Hands on workshop where we will guide participant on implementing and designing software from the business perspectives with tests that won't get in the way.
+
+Up to 30 attendees
+
+Requirements to participate
+- Laptop 
+- Development environment
+- A testing framework
+- Optionally a mocking framework. 
+- We will organize the group to work in pair programming, using the language of their choice
