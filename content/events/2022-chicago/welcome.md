@@ -7,12 +7,19 @@ Description = "DevOpsDays Chicago is coming back in 2022! The group that brought
 
 <div class = "row">
   <div class = "col-md-6 push-md-6">
+	  <div class="row">
+  		<div class="alert alert-info" role="alert">
+    			<h2>COVID-19</h2>
+    			<p>While we are making every attempt to hold an in-person event in 2022, we recognize that the ongoing pandemic may affect this plan, but we are not making any specific policy regarding attendance to this event at this time. The health and well-being of our attendees is of paramount importance, so we reserve the right to apply reasonable attendance requirements in accordance with local or federal guidance as the event draws closer.  We also reserve the right to cancel completely, or change to a virtual event, if the in-person event cannot be held safely.</p>
+  		</div>
+	</div>
 
 From fledgling startups to established industry, the Midwest is home to a large, vibrant technology community. Chicago, in particular, has been a flurry of activity in the past several years, drawing attention from around the globe.
 <br><br>
 DevOpsDays Chicago brings development, operations, QA, InfoSec, management, and leadership together to discuss the culture and tools to make better organizations and products. The 2022 event will be the eighth time we have held DevOpsDays Chicago, and it should be bigger and better than ever before!
 <br><br>
 The format of DevOpsDays Chicago includes a single track of 30 minute talks in the morning of each day, followed by Ignite talks (5 minute lightning talks). We spend the rest of the afternoon in Open Spaces, which are considered a key portion of the event.
+<br><br>	  
 <div class = "row">
   <div class = "col-md-12">
   <div class = "row justify-content-center">

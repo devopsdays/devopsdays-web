@@ -165,6 +165,8 @@ sponsors:
     url: http://cidersecurity.io # Use this if you need to over-ride a sponsor URL.
   - id: ermetic
     level: community 
+  - id: wix
+    level: community 
   - id: orbit
     level: community
   - id: livecycle
@@ -185,12 +187,28 @@ sponsors:
     level: community
   - id: rookout
     level: community
+  - id: bigpanda
+    level: community
+  - id: appsflyer
+    level: community
+  - id: wix 
+    level: community
+  - id: livecycle
+    level: other
+  - id: aerospike
+    level: other
+  - id: replicated
+    level: other
+  - id: coralogix
+    level: other
+  - id: soluto
+    level: other
   - id: daily-dev
     level: media
   - id: barvazgumi
     level: media
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -202,6 +220,8 @@ sponsor_levels:
 #    max: 10
   - id: community 
     label: Community Pillar
+  - id: other 
+    label: Goodies, Food & Swag
 #    max: 10
   - id: media
     label: Media Partner

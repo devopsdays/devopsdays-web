@@ -56,7 +56,7 @@
 /kyiv/*			/events/2021-kyiv/:splat		302
 /ljubljana/*		/events/2015-ljubljana/:splat		302
 /london/*		/events/2020-london/:splat		302
-/los-angeles/*		/events/2020-los-angeles/:splat		302
+/los-angeles/*		/events/2022-los-angeles/:splat		302
 /macapa/*		/events/2019-macapa/:splat		302
 /madison/*		/events/2020-madison/:splat		302
 /madrid/*		/events/2020-madrid/:splat		302
@@ -65,7 +65,7 @@
 /medellin/*		/events/2020-medellin/:splat		302
 /minneapolis/*		/events/2021-minneapolis/:splat		302
 /montevideo/*		/events/2019-montevideo/:splat		302
-/montreal/*		/events/2020-montreal/:splat		302
+/montreal/*		/events/2021-montreal/:splat		302
 /moscow/*		/events/2020-moscow/:splat		302
 /nairobi/*		/events/2014-nairobi/:splat		302
 /nashville/*		/events/2021-nashville/:splat		302
@@ -110,7 +110,7 @@
 /toronto/*		/events/2020-toronto/:splat		302
 /vancouver/*		/events/2020-vancouver/:splat		302
 /victoria/*		/events/2019-victoria/:splat		302
-/vitoria/*		/events/2020-vitoria/:splat		302
+/vitoria/*		/events/2022-vitoria/:splat		302
 /warsaw/*		/events/2019-warsaw/:splat		302
 /washington-dc/*	/events/2020-washington-dc/:splat	302
 /zaragoza/*		/events/2020-zaragoza/:splat		302

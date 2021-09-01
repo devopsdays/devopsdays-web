@@ -8,43 +8,124 @@ We greatly value sponsors for this open event.  If you are interested in sponsor
 
 <hr>
 
-devopsdays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
-<p>
-Gold sponsors get a full table and Silver sponsors a shared table where they can interact with those interested to come visit during breaks. All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
-<p>
-The best thing to do is send engineers to interact with the experts at devopsdays on their own terms.
-<p>
+devopsdays is a self-organizing conference for practitioners that depends on sponsorships.
+We do not sell product presentations or distribute attendee contact lists.
+Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during, and after the event.
+Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers.
+Any attendee also has the opportunity to demo products/projects as part of an open space session.
 
-<!--
+Some sponsors get a virtual room in our virtual event platform Hopin where they can interact with those attendees interested to come visit during the event.
+All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
+
+The best thing to do is send engineers to interact with the experts at devopsdays on their own terms.
+
 <hr/>
 
-<div style="width:590px">
-<table border=1 cellspacing=1>
-  <tr>
-    <th><i>packages</i></th>
-    <th><center><b><u>Bronze<br />1000 usd</u></center></b></th>
-    <th><center><b><u>Silver<br />3000 usd</u></center></b></th>
-    <th><center><b><u>Gold<br />5000 usd</u></center></b></th>
-    <th></th>
+<style>
+  table.sponsorship            { border-collapse: collapse; }
+  table.sponsorship td         { text-align: left; border: 1px solid #000; padding: 3px; }
+  table.sponsorship tr.hed1 td { border-bottom: 0px; text-align: center; font-weight: bold; }
+  table.sponsorship tr.hed2 td { border-top: 0px; text-align: center; font-weight: bold; }
+  table.sponsorship td.yes     { text-align: center; font-weight: bold; }
+  .stamp {
+    box-shadow: 0 0 0 3px blue, 0 0 0 2px blue inset;
+    border: 2px solid transparent;
+    border-radius: 4px;
+    display: inline-block;
+    padding: 5px 2px;
+    line-height: 22px;
+    color: blue;
+    font-size: 24px;
+    text-transform: uppercase;
+    text-align: center;
+    opacity: 0.4;
+    width: 130px;
+    transform: rotate(-5deg);
+  }
+</style>
+<table class="sponsorship">
+  <tbody>
+  <tr class="hed1">
+    <td>Packages</td>
+    <td>Platinum</td>
+    <td>Gold</td>
+    <td>Silver</td>
+    <td><!-- example strike-through <span style="text-decoration: line-through;"> -->Community<!--</span>--></td>
+    <td>Media</span></td>
+    <!-- captions is pending details <td>Live Captions</span></td> -->
   </tr>
-<tr><td>2 included tickets</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on event website</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on shared slide, rotating during breaks</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on all email communication</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on its own slide, rotating during breaks</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>1 minute pitch to full audience (including streaming audience)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr></tr>
-<tr><td>2 additional tickets (4 in total)</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td>4 additional tickets (6 in total)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>shared table for swag</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td>booth/table space</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
+  <tr class="hed2">
+    <td></td>
+    <td>$2,500 USD</td>
+    <td>$1,000 USD</td>
+    <td>$500 USD</td>
+    <td>$0 USD<!-- example cool stamp for closed/sold out status <span class="stamp">CLOSED</span>--></td>
+    <td>$0 USD</td>
+    <!-- captions is pending details <td>$2,500 USD</td> -->
+  </tr>
+  <tr>
+    <td>Logo on shared slide, rotating during breaks</td>
+    <td class="yes">&#9989;</td>
+    <td class="yes">&#9989;</td>
+    <td class="yes">&#9989;</td>
+    <td class="yes">&#9989;</td>
+    <td class="yes">&#9989;</td>
+    <!-- captions is pending details <td class="yes">&#9989;</td> -->
+  </tr>
+  <tr>
+    <td>Logo on DevOpsDays DC 2021 event website</td>
+    <td class="yes">&#9989;</td>
+    <td class="yes">&#9989;</td>
+    <td class="yes">&#9989;</td>
+    <td class="yes">&#9989;</td>
+    <td class="yes">&#9989;</td>
+    <!-- captions is pending details <td class="yes">&#9989;</td> -->
+  </tr>
+  <tr>
+    <td>Logo on all event email announcements</td>
+    <td class="yes">&#9989;</td>
+    <td class="yes">&#9989;</td>
+    <td class="no"> </td>
+    <td class="no"> </td>
+    <td class="no"> </td>
+    <!-- captions is pending details <td class="yes">&#9989;</td> -->
+  </tr>
+  <tr>
+    <td>Virtual Vendor Room in Hopin</td>
+    <td class="yes">&#9989;</td>
+    <td class="yes">&#9989;</td>
+    <td class="yes"> </td>
+    <td class="no"> </td>
+    <td class="no"> </td>
+    <!-- captions is pending details <td class="no"> </td> -->
+  </tr>
+  <tr>
+    <td>Thanks and promotion on event's social media</td>
+    <td class="yes">&#9989;</td>
+    <td class="yes">&#9989;</td>
+    <td class="no"> </td>
+    <td class="no"> </td>
+    <td class="no"> </td>
+    <!-- captions is pending details <td class="yes"> </td> -->
+  </tr>
+  <tr>
+    <td>Pitch to full audience (pre-recorded)</td>
+    <td class="yes">1 minute</td>
+    <td class="no"> </td>
+    <td class="no"> </td>
+    <td class="no"> </td>
+    <td class="no"> </td>
+    <!-- captions is pending details <td class="yes"> </td> -->
+  </tr>
+  </tbody>
 </table>
+
+<!-- Uncomment and update this paragraph when we know more about special sponsorships?
 <hr/>
 There are also opportunities for exclusive special sponsorships. We'll have sponsors for various events with special privileges for the sponsors of these events. If you are interested in special sponsorships or have a creative idea about how you can support the event, send us an email.
-<br/>
-<br/>
+-->
 
-<br>
-<br>
+<!-- A place we can put answers to FAQs when we know what the FAQs and answers are.
 <table border=1 cellspacing=1>
   <tr>
     <th><i>Sponsor FAQ</i></th>
@@ -60,7 +141,6 @@ There are also opportunities for exclusive special sponsorships. We'll have spon
 <tr><td>How do we order additional A/V equipment?</td><td></td></tr>
 <tr><td>Additional important details</td><td></td></tr>
 </table>
-</div>
-
 -->
+
 <hr/>

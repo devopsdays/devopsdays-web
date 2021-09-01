@@ -32,7 +32,7 @@ Description = "DevOpsDays Buffalo is back for another unique conference experien
   border: none;
   border-radius: 0.5em;
   font-weight: bold;
-  padding: 3em 3em;
+  padding: 1em 2em;
 }
 .bflo .sidebar h2:not(:nth-of-type(1)) {
   margin-top: 2em;
