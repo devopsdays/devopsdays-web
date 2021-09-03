@@ -38,12 +38,13 @@ location: "Online event" # Defaults to city, but you can make it the venue name.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: local
-    url: https://devopsdaysbogota.org/
+  - name: "Página Español"
+    url: "https://devopsdaysbogota.org/"
   - name: propose
-#  - name: location
+# - name: location
   - name: registration
-#  - name: program
-#    url:  https://devopsdaysbogota.org/programa 
+# - name: program
+#   url:  https://devopsdaysbogota.org/programa 
   - name: speakers  
   - name: sponsor
   - name: contact
