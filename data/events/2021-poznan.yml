@@ -188,7 +188,7 @@ program:
     date: 2021-10-04
     start_time: "11:25"
     end_time: "11:45"
-  - title: "Lightning talks"
+  - title: "Ignite talks"
     type: ignite
     date: 2021-10-04
     start_time: "11:45"
