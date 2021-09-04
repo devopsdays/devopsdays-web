@@ -363,7 +363,7 @@ program:
   start_time: '9:15'
   end_time: '10:00'
 
-- title: quintessence-anx
+- title: jelena-malic
   type: talk
   date: 2021-09-08
   start_time: '10:00'
@@ -375,7 +375,7 @@ program:
   start_time: '10:30'
   end_time: '11:00'
 
-- title: jelena-malic
+- title: michael-cote 
   type: talk
   date: 2021-09-08
   start_time: '11:00'
@@ -387,7 +387,7 @@ program:
   start_time: '11:30'
   end_time: '12:00'
 
-- title: michael-cote
+- title: quintessence-anx 
   type: talk
   date: 2021-09-08
   start_time: '12:00'
@@ -448,8 +448,6 @@ ignites:
   - title: "achim-toeper"
     date: 2021-09-08
   - title: "justus-graumann"
-    date: 2021-09-08
-  - title: "mirza-dautbegovic"
     date: 2021-09-08
   - title: "ignite-johan-abildskov"
     date: 2021-09-08
