@@ -213,7 +213,8 @@ sponsors:
     level: gold
   - id: stacksciences
     level: bronze   
-
+  - id: lesswire
+    level: partner  
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
