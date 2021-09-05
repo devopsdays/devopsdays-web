@@ -164,6 +164,21 @@ program:
 #    date: 2021-09-20
 #    start_time: "13:20"
 #    end_time: "13:25"
+  - title: "Open Space Kickoff"
+    type: custom
+    date: 2021-09-20
+    start_time: "13:30"
+    end_time: "13:40"
+  - title: "Open Space #1"
+    type: custom
+    date: 2021-09-20
+    start_time: "13:55"
+    end_time: "14:20"
+  - title: "Open Space #2"
+    type: custom
+    date: 2021-09-20
+    start_time: "14:20"
+    end_time: "14:45"
 
   - title: "ceora-ford"
     type: talk
@@ -205,6 +220,21 @@ program:
     date: 2021-09-21
     start_time: "13:00"
     end_time: "13:25"
+  - title: "Open Space Kickoff"
+    type: custom
+    date: 2021-09-21
+    start_time: "13:30"
+    end_time: "13:40"
+  - title: "Open Space #1"
+    type: custom
+    date: 2021-09-21
+    start_time: "13:55"
+    end_time: "14:20"
+  - title: "Open Space #2"
+    type: custom
+    date: 2021-09-21
+    start_time: "14:20"
+    end_time: "14:45"
 
 
 ignites:

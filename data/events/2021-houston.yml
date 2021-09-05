@@ -175,6 +175,8 @@ sponsors:
     level: platinum
   - id: coralogix
     level: breakfast
+  - id: phoenixnap
+    level: gold
     
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -256,7 +258,7 @@ program:
     date: 2021-09-21
     start_time: "12:00"
     end_time: "13:00"
-  - title: "tech-talk-3"
+  - title: "aakash-shah"
     type: talk
     date: 2021-09-21
     start_time: "13:00"
@@ -341,7 +343,7 @@ program:
     start_time: "10:25"
     end_time: "11:15"
     comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill"
-  - title: "tech-talk-7-matt-straton"
+  - title: "ell-marquez"
     type: talk
     date: 2021-09-22
     start_time: "11:05"
@@ -379,7 +381,7 @@ program:
     start_time: "13:45"
     end_time: "14:25"
     comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill"
-  - title: "aakash-shah"
+  - title: "rob-richardson"
     type: talk
     date: 2021-09-22
     start_time: "14:15"
