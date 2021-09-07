@@ -98,14 +98,6 @@ team_members: # Name is the only required field for team members.
     email: ellyson.cesar@gmail.com
     image: "ellyson.jpeg"
     image: "ellyson.jpg"
-  - name: "Pery Lemke"
-    email: "pery.lemke@gmail.com"
-    twitter: "perylemke"
-    employer: "Nuveo"
-    github: "perylemke"
-    linkedin: "https://www.linkedin.com/in/perylemke"
-    website: "http://www.sudocast.com.br"
-    image: "pery-lemke.jpg"  
   - name: "Matheus Boing"
     employer: "Stone Pagamentos S.A."
     linkedin: https://www.linkedin.com/in/matheusboing
