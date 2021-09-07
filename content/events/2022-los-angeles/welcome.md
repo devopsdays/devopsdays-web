@@ -1,8 +1,8 @@
 +++
-Title = "devopsdays Los Angeles 2022"
+Title = "DevOpsDays Los Angeles 2022"
 Type = "welcome"
 aliases = ["/events/2022-los-angeles/"]
-Description = "devopsdays Los Angeles 2022"
+Description = "DevOpsDays Los Angeles 2022"
 +++
 
 <!-- <div style="text-align:center;">
@@ -18,23 +18,34 @@ Description = "devopsdays Los Angeles 2022"
   </div>
 </div>
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div>
+</div> -->
 
 <div class = "row">
+  <div class = "col-md-2">
+    <strong>Call For Papers</strong>
+  </div>
+  <div class = "col-md-8">
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSewxucXuZ5nmZYX-nBitrmnr1ZA-O7oc33kheNvoRw1ufEbgg/viewform">
+      Propose a talk!
+    </a>
+  </div>
+</div>
+
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="registration" text="Register to attend the conference!" >}}
   </div>
-</div>
+</div> -->
 
 <!-- <div class = "row">
   <div class = "col-md-2">
