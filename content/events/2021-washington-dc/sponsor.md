@@ -19,6 +19,8 @@ All attendees are welcome to propose any subject they want during the open space
 
 The best thing to do is send engineers to interact with the experts at devopsdays on their own terms.
 
+Become a [sponsor] today!(https://devopsdaysdc2021.busyconf.com/bookings/new?utf8=%E2%9C%93&discount=SPONSOR&apply_discount=)
+
 <hr/>
 
 <style>
