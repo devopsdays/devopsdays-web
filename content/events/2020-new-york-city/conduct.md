@@ -26,3 +26,4 @@ Conference staff can be identified by distinct staff badges. Conference staff wi
 We expect participants to follow these rules at conference and workshop venues and conference-related social events.
 
 _The devopsdays New York City 2020 Code of Conduct is based on [confcodeofconduct.com](https://confcodeofconduct.com)._ 
+

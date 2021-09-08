@@ -106,7 +106,7 @@ sponsors:
     level: silver
   - id: scalyr
     level: gold
-  - id: launch-darkly
+  - id: launch-darkly-before-20200828
     level: silver
   - id: victorops-before-20180823
     level: gold
@@ -410,7 +410,7 @@ program:
 ignites:
   - title: "sonia-gupta"
     date: 2018-07-12
-  - title: "jamesha-fisher"
+  - title: "jam-leomi"
     date: 2018-07-12
   - title: "kim-crayton"
     date: 2018-07-12

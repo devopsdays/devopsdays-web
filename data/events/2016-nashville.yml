@@ -37,7 +37,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: silver
   - id: github
     level: gold
-  - id: chef
+  - id: chef-before-20210112
     level: silver
   - id: cons3rt
     level: bronze
@@ -71,7 +71,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: interactive-resources
     level: bronze
-  - id: forty8fifty-labs
+  - id: forty8fifty-labs-before-20210816
     level: bronze
   - id: metova
     level: bronze

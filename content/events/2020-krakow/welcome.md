@@ -35,19 +35,27 @@ Description = "devopsdays Kraków 2020"
 
 <div style='display:flex;flex-wrap:wrap;'>
   <div class='text'>
-   DevOpsDays Kraków 2020 is the first southern Poland edition of this volunteer-driven worldwide series of events.
-   It will take place on April 21st at the Variete Theatre. We are excited to bring this technical conference covering topics of Cloud Native, Containers and Microservices, Lean and DevOps approach to the heart of Europe. We expect 300+ IT professionals and enthusiasts eager to learn from each other’s experiences. We are looking forward to meeting you! Devopsdays is a worldwide series of technical conferences covering topics of software development, IT infrastructure operations, and the intersection of them. It’s both a technical conference and a conference focusing on culture, processes, and structure within organizations. We encourage both technologists and business people to attend, learn and share experiences. Come to Kraków and join us to share this big DevOps adventure!
+    <p>
+      DevOpsDays Kraków 2020 is the first southern Poland edition of this volunteer-driven worldwide series of events. It will take place on September 3rd and will be fully ONLINE! 
+    </p>
+    <p>
+      Safety of participants, partners and everyone involved in the creation of this event is the most important to us! We are convinced that you will have as much fun in the virtual world as you would at a stationary conference. We have prepared many attractions for you, so this event will not be yet another boring webinar, but a real adventure full of knowledge and new friendships!
+    </p>
+    <p>
+      DevOpsDays is a worldwide series of technical conferences covering topics of software development, IT infrastructure operations, and the intersection of them. It’s both a technical conference and a conference focusing on culture, processes, and structure within organizations. We encourage both technologists and business people to attend, learn and share experiences. Join us to share this big DevOps adventure! 😉
+    </p>
   </div>
   <div class="text">
     <a href="https://evenea.pl/event/dodkrakow2020/" type="button" class="btn btn-danger btn-lg btn-block">REGISTRATION</a>
-    <a href="/events/2020-krakow/contact" type="button" class="btn btn-danger btn-lg btn-block">SPONSOR & CONTACT</a>
+    <a href="mailto: karolina.murdza@proidea.pl" type="button" class="btn btn-danger btn-lg btn-block">SPONSOR</a>
     <a href="https://dodkrakow.pl/schedule/" type="button" class="btn btn-danger btn-lg btn-block">PROGRAM</a>
     <a href="https://dodkrakow.pl/speakers/" type="button" class="btn btn-danger btn-lg btn-block">SPEAKERS</a>
+    <a href="/events/2020-krakow/contact" type="button" class="btn btn-danger btn-lg btn-block">CONTACT</a>
   </div>
 </div>
 <br />
 <div style='width:100%;text-align:center;margin-bottom:2rem;'>
-  <img alt="Krakow" src="/events/2020-krakow/dodkrakow-photo.jpg" style="max-width: 65rem;margin-right:auto;margin-left: auto;"/>
+  <img alt="Krakow" src="/events/2020-krakow/krakow_welcome.jpg" style="max-width: 65rem;margin-right:auto;margin-left: auto;"/>
 </div>
 
 <br />
@@ -78,7 +86,7 @@ Description = "devopsdays Kraków 2020"
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    <a href='/events/2020-krakow/registration/'>Register here !</a>
+    <a href='/events/2020-krakow/registration/'>Register here!</a>
   </div>
 </div>
 <div class = "row">
@@ -86,7 +94,7 @@ Description = "devopsdays Kraków 2020"
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
-  will be available here soon
+    <a href='https://dodkrakow.pl/schedule/'>Check here!</a>
   </div>
 </div>
 <div class = "row">
@@ -94,7 +102,7 @@ Description = "devopsdays Kraków 2020"
     <strong>Sponsors</strong>
   </div>
   <div class = "col-md-8">
-    <a href='/events/2020-krakow/sponsor/'>We need you !</a>
+    <a href='/events/2020-krakow/sponsor/'>We need you!</a>
   </div>
 </div>
 

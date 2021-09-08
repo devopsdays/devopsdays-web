@@ -68,7 +68,7 @@ sponsor_levels:
 sponsors:
   - id: "aws"
     level: lanyard
-  - id: cloudbees
+  - id: cloudbees-before-20210804
     level: sponsor
   - id: codefresh
     level: sponsor
@@ -86,7 +86,7 @@ sponsors:
     level: sponsor
   - id: eliassen-group
     level: sponsor
-  - id: launch-darkly
+  - id: launch-darkly-before-20200828
     level: sponsor
   - id: logdna
     level: sponsor

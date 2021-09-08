@@ -74,14 +74,14 @@ Description = "devopsdays New York City 2020"
         <h4 class="my-3"><small>{{< event_link page="contact" text="Get in touch with the organizers" >}}</small></h4>
       </div>
     </div>
-    <!-- <div class = "row">
+    <div class = "row">
       <div class = "col-md-1 mx-5 px-0">
         <h4 class="my-3"><strong>Slack</strong></h4>
       </div>
       <div class = "col-md-9">
         <h4 class="my-3"><small> Join the <a href="https://launchpass.com/nycdevops" target="_blank">NYC Devops Slack Workspace</a></small></h4>
       </div>
-    </div> -->
+    </div>
     <div class = "row">
       <div class = "col-md-1 mx-5 px-0">
         <h4 class="my-3"><strong>Twitter</strong></h4>

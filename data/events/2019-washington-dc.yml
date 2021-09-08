@@ -328,7 +328,7 @@ sponsors:
 =======
   - id: checkmarx
     level: platinum
-  - id: chef
+  - id: chef-before-20210112
     level: platinum
     url: "https://chef.io/?utm_source=doddc"
   - id: stsi
@@ -337,7 +337,7 @@ sponsors:
     level: platinum
   - id: onyx-point
     level: platinum
-  - id: cloudbees
+  - id: cloudbees-before-20210804
     level: platinum
   - id: palantir
     level: platinum

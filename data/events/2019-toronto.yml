@@ -71,7 +71,7 @@ sponsors:
     level: gold
   - id: xmatters
     level: gold
-  - id: blendedperspectives
+  - id: blendedperspectives-before-20200305
     level: platinum
   - id: sourcedgroup
     level: gold
@@ -81,11 +81,11 @@ sponsors:
     level: gold
   - id: influxdata
     level: gold
-  - id: cloudbees
+  - id: cloudbees-before-20210804
     level: gold
   - id: deloitte
     level: gold
-  - id: chef
+  - id: chef-before-20210112
     level: gold
   - id: elastic
     level: gold
@@ -117,6 +117,36 @@ sponsors:
     level: lunch
   - id: cyberark
     level: gold
+<<<<<<< HEAD
+=======
+  - id: microsoft
+    level: gold
+    url: https://www.microsoft.com/en-ca/
+  - id: diamanti
+    level: gold
+  - id: highvail
+    level: gold
+  - id: victorops
+    level: gold
+  - id: td-bank
+    level: platinum
+  - id: td-bank
+    level: party
+  - id: signalfx
+    level: gold
+  - id: logz-before-20200211
+    level: gold
+  - id: index-exchange
+    level: gold
+  - id: ontario-teachers-pension-plan
+    level: gold
+  - id: cmd
+    level: charging
+  - id: codefresh
+    level: gold
+  - id: actifio
+    level: supporter
+>>>>>>> aa3942f0b95e22d4d7ca30761da8b8d7da25d839
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

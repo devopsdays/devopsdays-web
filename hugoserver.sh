@@ -1,4 +1,4 @@
-# !/bin/bash
+#!/bin/bash
 #
 # File: hugoServer
 #
@@ -8,7 +8,12 @@
 #
 # NOTE: The docker image provided by jojomi is not managed or audited by devopsdays
 
+if [ "$(uname)" == "Linux" ]; then
+  MOUNT_OPTION="Z"
+else
+  MOUNT_OPTION="cached"
+fi
 
 docker stop hugo-server
 docker rm   hugo-server
-docker run -tip 1313:1313 -v $(pwd):/src:cached -e HUGO_THEME=devopsdays-theme -e HUGO_WATCH=1 -e HUGO_BASEURL="http://localhost:1313" --name hugo-server jojomi/hugo:0.64.1
+docker run -tip 1313:1313 -v $(pwd):/home/circleci/project:$MOUNT_OPTION -e HUGO_THEME=devopsdays-theme -e HUGO_BASEURL="http://localhost:1313" --name hugo-server --entrypoint "" cibuilds/hugo:0.81.0 hugo server --watch --bind ""

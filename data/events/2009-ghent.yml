@@ -9,7 +9,7 @@ enddate: 2009-10-31
 coordinates: "47.609895, -122.330259"
 navigationelements: ["welcome", "contact","location", "conduct","sponsor"]
 sponsors:
-  - id: chef
+  - id: chef-before-20160714
     level: platinum
   - id: datadog
     level: gold

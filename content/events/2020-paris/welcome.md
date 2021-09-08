@@ -1,7 +1,13 @@
 +++
 Title = "devopsdays Paris 2020"
 Type = "welcome"
-aliases = ["/events/2020-paris/"]
+aliases = [
+  "/events/2020-paris/",
+  "/events/2020-paris/location/",
+  "/events/2020-paris/propose/",
+  "/events/2020-paris/sponsor/",
+  "/events/2020-paris/registration/"
+]
 Description = "devopsdays Paris 2020"
 +++
 
@@ -9,27 +15,21 @@ Description = "devopsdays Paris 2020"
   {{< event_logo >}}
 </div> -->
 
-## Pour plus d'informations, veuillez visiter notre site principal : https://www.devopsrex.fr/
+**Compte tenu de la situation sanitaire actuelle de la France et du monde, DevOps REX n'aura pas lieu en 2020.**<br>
+Given the current health situation facing France and the world, DevOps REX will not occur in 2020.<br>
+**Au plaisir de vous retrouver le [18 mai 2021](https://devopsdays.org/events/2021-paris/) pour notre prochaine édition !**<br>
+We look forward to seeing you all on [18 May 2021](https://devopsdays.org/events/2021-paris/) for our next edition!<br>
+**Pour plus d'informations, veuillez visiter notre site principal : https://www.devopsrex.fr/**<br>
+For more information, please visit our main site: https://www.devopsrex.fr/<br>
 
-L'équipe derrière DevOpsDays Paris et devops REX, ainsi que les meetups Paris DevOps, présente **devops REX 2020** : une conférence d'un jour, remplis des retours d'expériences concrets du terrain, comprenant présentations, questions-réponses et échanges informels, directement auprès des décideurs informatiques qui pilotent et conçoivent ces changements.
-
-**La langue principale de cette conférence sera le français.**
-
-*(en)* From the team that brought you DevOpsDays Paris, devops REX, and the Paris DevOps Meetup,
-comes **devops REX 2020**: a one-day conference focusing on real world experience
-and feedback, featuring presentations, Q&A sessions, and discussions from
-industry practitioners and taste-makers.
-
-**The principal language of this conference will be French.**
-
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Date</strong>
   </div>
   <div class = "col-md-8">
     {{< event_start >}}
   </div>
-</div>
+</div> -->
 
 <!-- <div class = "row">
   <div class = "col-md-2">

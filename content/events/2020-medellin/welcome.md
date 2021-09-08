@@ -9,42 +9,20 @@ Description = "devopsdays Medellín 2020"
     <img alt="DevOpsDays Medellin 2020" src="/events/2020-medellin/logo.png" class="img-fluid">
   </div>
   <div class="col-md-7">
-    <h2>¡La conferencia inaugural de DevOpsDays llegará a Medellín, Colombia en Julio 2020!</h2>
+    <h2>¡La conferencia inaugural de DevOpsDays llegará a Medellín de manera virtual a Colombia en Julio 2020!</h2>
     <p>
       The DevOpsDays conference arrives to Medellín, and it'll be the first DevOpsDays conference that will happen in the City!, Be part of history on July 2020!
     </p>
-    <!--  <p>
-      <a
-        class="twitter-hashtag-button"
-        href="https://twitter.com/intent/tweet?hashtags=Guadalajara,TacOps,DevOpsDaysGDL&button_hashtag=DevOpsDaysGDL">
-        Tweet #DevOpsDaysGDL
-      </a>
-    </p> -->
     <h2>Event Information</h2>
     <p>
-      <ul style="list-style: none;">
+      <ul>
         <li>
           <h3>Dates</h3>
         </li>
         <li style="margin-left:15px;">
           <div>{{< event_start >}} - {{< event_end >}}</div>
-        </li>
-        <li>
-          <h3>Location</h3>
-        </li>
-        <li style="margin-left:15px;">
-          {{< event_location >}}
-        </li>
-<!--  
-        
-        <li>
-          <h3>Speakers</h3>
-        </li>
-        <li style="margin-left:15px;">
-          Check out our amazing {{< event_link page="speakers" text="speakers!" >}}
-        </li>
--->
-      </ul>
+        </li>  
+      </ul>      
     </p>
     <h2>Conference format</h2>
     <p>
@@ -53,7 +31,7 @@ Description = "devopsdays Medellín 2020"
           Two days of conferences and activities.
         </li>
         <li>
-          Starting Welcome from the organizers and day overview.
+          Starting Welcome from the organizers and day overview. 
         </li>
         <li>
           Talks that follows the traditional format of a speaker or panel.
@@ -77,7 +55,7 @@ Description = "devopsdays Medellín 2020"
             rel="noopener"
             target="_blank"
             class="btn btn-secondary btn-block"
-            href="https://www.ticketopolis.com/medellindevopsdays2020"   
+            href="https://www.ticketopolis.com/devopsdaysmdev2020"   
             style="background-color:#329cae; border-color:#72c1cd" onMouseOver="this.style.backgroundColor='#23738e'"
             onMouseOut="this.style.backgroundColor='#329cae'"
           >
@@ -127,7 +105,7 @@ Description = "devopsdays Medellín 2020"
     <div class = "row justify-content-center">
       <div class = "d-flex p-2">
         <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #418ede; border-color: #418ede;" href="https://twitter.com/DevopsdaysMed" target="_blank">
-        <i class="fa fa-twitter fa-lg"></i>&nbsp;&nbsp;&nbsp;Follow @DevOpsDaysMde</a>
+        <i class="fa fa-twitter fa-lg"></i>&nbsp;&nbsp;&nbsp;Follow @DevOpsDaysMed</a>
       </div>
       <div class = "d-flex p-2">
         <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #3b5998; border-color: #3b5998;" href="https://www.facebook.com/DevOps-Days-Medell%C3%ADn-107638967488390/" target="_blank">

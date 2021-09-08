@@ -235,13 +235,13 @@ sponsors:
     level: location_and_diamond
   - id: beyondsoft
     level: leadership
-  - id: cloudbees
+  - id: cloudbees-before-20210804
     level: leadership
   - id: improving
     level: b4con
   - id: pagerduty-before-20190930
     level: b4con
-  - id: chef
+  - id: chef-before-20210112
     level: b4con
   - id: rubrik
     level: b4con

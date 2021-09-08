@@ -4,7 +4,4 @@ Type = "event"
 Description = "Location for devopsdays Buenos Aires 2020"
 +++
 
-Watch this space for information about the venue including address, map/direction, parking/transit, and any hotel details.
-
-<!-- Uncomment this only if you have set the coordinates for your location in the config yaml. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html -->
-<!-- {{< event_map >}} -->
+This event will be online. Details to join will be published before the event.

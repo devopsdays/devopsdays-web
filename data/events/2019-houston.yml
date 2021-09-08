@@ -120,11 +120,11 @@ sponsors:
     level: gold
   - id: mongodb
     level: gold
-  - id: chef
+  - id: chef-before-20210112
     level: gold
   - id: solarwinds-before-20200114
     level: gold
-  - id: cloudbees
+  - id: cloudbees-before-20210804
     level: gold
   - id: elastic
     level: gold

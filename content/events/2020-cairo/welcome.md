@@ -6,13 +6,20 @@ Description = "DevOpsDays Cairo 2020"
 +++
 
 <div>
-  <p><span style="color: #ff0000;"><strong>Stay tuned for the 3<sup>rd</sup> Cairo DevOpsDays in a row!</strong></span></p>
+<p><span style="color: #ff0000;"><strong>DevOps Amid COVID-19!</strong></span></p>
 
 <p>
-DevOpsDays Cairo is a one-day event.  You can learn and share your knowledge with the people from all around the world while enjoying great culture in Egypt.  This year, SECC/ITIDA are organizing DevOpsDays Cairo 2020 in cooperation with DXC Technology, IBM Egypt and Orange Labs. </p> 
+DevOpsDays Cairo is a one-day event addressing “DevOps Amid COVID-19”.  
+<br>
+For the 3rd consecutive year, SECC/ITIDA are organizing DevOpsDays Cairo 2020 in cooperation with DXC Technology, IBM Egypt and Orange Labs. </p> 
+
+
+<p>But this time we will bring it to you ONLINE due to the current situation of the pandemic, and <strong><a href="https://www.secc.org.eg/Event_Registration.asp" rel="noopener noreferrer" target="_blank">FREE to ALL! Register Now!</strong></a></p>
+
+<p>Just "Like" our <a href="https://www.facebook.com/SECC.Egypt/" rel="noopener noreferrer" target="_blank">Facebook page</a>, adjust your calender/notifications, and Watch Us Live Here&nbsp;<a href="https://www.facebook.com/SECC.Egypt/" rel="noopener noreferrer" target="_blank">https://www.facebook.com/SECC.Egypt/</a> on September 21<sup>st</sup>, at 3:00 pm &ndash; 8:00 pm (Cairo Local Time)</p>
 <p>
-  We are pleased to announce that our Keynote speaker will be <strong>Andrew Clay Shafer</strong>. 
- <img src="/events/2020-cairo/speakers/andrew-clay-shafer.jpg" border="0" align="right">
+  We are pleased to announce that one of our Keynote speakers will be <strong>Andrew Clay Shafer</strong>, and <strong>Matt Stratton</strong> with other DevOps Heroes. 
+  <img src="https://assets.podomatic.net/ts/7e/ff/df/jaydestro73507/640x640_13381982.jpg" height="200" align="right" border="0">
 </p>
   <p>
   Andrew Clay Shafer was devopsing before devops was a word.
@@ -21,7 +28,16 @@ DevOpsDays Cairo is a one-day event.  You can learn and share your knowledge wit
 He is often referenced as a foundational voice in the devops movement with a lot of experience and perspective contributing to open source, operating services and building communities.
 </p>
 
-<p>The event is for <strong>FREE</strong></p>
+<p>
+  <img src="https://avatars1.githubusercontent.com/u/1280666?s=460&u=3e0b5214abaa45865dabb895c5b11c9c53e0ac08&v=4" height="200" align="right" border="0">
+  Matt has over 20 years of experience in IT operations, ranging from large financial institutions to internet firms.  He is a sought-after speaker internationally, presenting at Agile, DevOps, and ITSM focused events. 
+</p>
+<p>
+Matt is a global organizer of the DevOpsDays set of conferences.
+</p>
+
+
+
   
 </div>
 <div style="text-align:center;">
@@ -37,14 +53,14 @@ He is often referenced as a foundational voice in the devops movement with a lot
   </div>
 </div>
 
-<div class = "row">
+<!-- div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div>
+</div> -->
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -55,14 +71,14 @@ He is often referenced as a foundational voice in the devops movement with a lot
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<!-- div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
-</div> -->
+</div -->
 
 <!-- <div class = "row">
   <div class = "col-md-2">

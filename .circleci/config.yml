@@ -3,10 +3,17 @@ jobs:
   production:
     docker:
 <<<<<<< HEAD
+<<<<<<< HEAD
       - image: cibuilds/hugo:0.53
 =======
       - image: cibuilds/hugo:0.64.1
 >>>>>>> upstream/master
+=======
+      - image: cibuilds/hugo:0.81.0
+        auth:
+          username: devopsdaysbuild
+          password: $DOCKERHUB_PASSWORD
+>>>>>>> aa3942f0b95e22d4d7ca30761da8b8d7da25d839
     steps:
       - checkout
       - run:
@@ -16,10 +23,17 @@ jobs:
   build:
     docker:
 <<<<<<< HEAD
+<<<<<<< HEAD
       - image: cibuilds/hugo:0.53
 =======
       - image: cibuilds/hugo:0.64.1
 >>>>>>> upstream/master
+=======
+      - image: cibuilds/hugo:0.81.0
+        auth:
+          username: devopsdaysbuild
+          password: $DOCKERHUB_PASSWORD
+>>>>>>> aa3942f0b95e22d4d7ca30761da8b8d7da25d839
     working_directory: ~/devopsdays
     steps:
       - checkout
@@ -28,12 +42,15 @@ jobs:
           command: HUGO_ENV=production hugo -v -d workspace/public
       - persist_to_workspace:
           root: workspace
-          paths: 
+          paths:
             - public
 
   test:
     docker:
       - image: circleci/node:11.5.0
+        auth:
+          username: devopsdaysbuild
+          password: $DOCKERHUB_PASSWORD
     working_directory: ~/devopsdays
     steps:
       - checkout
@@ -45,7 +62,7 @@ jobs:
       - run:
           name: npm-version
           command: 'npm version'
-      - run: 
+      - run:
           name: install-gulp
           command: 'sudo npm install -g gulp'
       # - restore_cache:
@@ -72,7 +89,7 @@ workflows:
           filters:
             branches:
               ignore:
-                - master
+                - main
                 - gh-pages
       - test:
           requires:
@@ -80,7 +97,7 @@ workflows:
           filters:
             branches:
               ignore:
-                - master
+                - main
                 - gh-pages
       # - production:
       #     filters:

@@ -49,7 +49,7 @@ proposal_email: "proposals-boston-2016@devopsdays.org" # Put your proposal email
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: chef
+  - id: chef-before-20210112
     level: platinum
   - id: 2016-g2-tech-group
     level: platinum

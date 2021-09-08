@@ -107,13 +107,13 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
     level: gold
   - id: dynatrace
     level: gold
-  - id: chef
+  - id: chef-before-20210112
     level: gold
   - id: contrast_security
     level: gold
   - id: redhat
     level: gold
-  - id: jpmc
+  - id: jpmc-before-20200829
     level: gold
   - id: datarobot
     level: gold

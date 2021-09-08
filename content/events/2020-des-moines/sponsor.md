@@ -74,14 +74,15 @@ The best thing to do is send engineers to interact with the experts at devopsday
             </tr>
             <tr>
                 <td class="label">Sponsorship Remaining (First come first serve)</td>
-                <td>9</td>
-                <td>1</td>
+                <td>4</td>
+                <td>Sold Out</td>
                 <td>Sold Out</td>
             </tr>
             <tr>
                 <td class="label">Price</td>
                 <td>6000 USD</td>
-                <td><a href='mailto:des-moines@devopsdays.org?subject=Party Sponsorship'>Contact us</a></td>
+                <!-- <td><a href='mailto:des-moines@devopsdays.org?subject=Party Sponsorship'>Contact us</a></td> -->
+                <td>Sold Out</td>
                 <td>Sold Out</td>
             </tr>
             <tr>

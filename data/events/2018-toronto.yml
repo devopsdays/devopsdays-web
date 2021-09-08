@@ -98,7 +98,7 @@ sponsors:
     level: silver
   - id: sourcedgroup-before-20190219
     level: lanyard
-  - id: cloudbees
+  - id: cloudbees-before-20210804
     level: silver
   - id: cgi
     level: platinum
@@ -112,7 +112,7 @@ sponsors:
     level: bronze
   - id: elastic
     level: bronze
-  - id: launch-darkly
+  - id: launch-darkly-before-20200828
     level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

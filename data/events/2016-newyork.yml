@@ -56,7 +56,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: silver
   - id: containership
     level: silver 
-  - id: chef
+  - id: chef-before-20210112
     level: bronze
   - id: etsy
     level: bronze

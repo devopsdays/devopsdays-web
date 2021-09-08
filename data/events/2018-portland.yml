@@ -104,7 +104,7 @@ sponsors:
     level: gold
   - id: appdynamics-before-20190121
     level: gold
-  - id: launch-darkly
+  - id: launch-darkly-before-20200828
     level: gold
   - id: xmatters
     level: gold
@@ -112,7 +112,7 @@ sponsors:
     level: gold
   - id: mesosphere
     level: gold
-  - id: chef
+  - id: chef-before-20210112
     level: gold
   - id: puppet
     level: gold
@@ -124,7 +124,7 @@ sponsors:
     level: silver
   - id: redhat
     level: silver
-  - id: cloudbees
+  - id: cloudbees-before-20210804
     level: silver
   - id: nginx
     level: silver

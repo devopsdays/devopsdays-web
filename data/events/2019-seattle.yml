@@ -90,7 +90,7 @@ sponsors:
     level: gold
   - id: datadog
     level: gold
-  - id: chef
+  - id: chef-before-20210112
     level: gold
   - id: rei
     level: gold
@@ -114,13 +114,13 @@ sponsors:
     level: gold
   - id: puppet
     level: gold
-  - id: launch-darkly
+  - id: launch-darkly-before-20200828
     level: gold
   - id: scca
     level: gold
   - id: slalom-build
     level: gold
-  - id: cloudbees
+  - id: cloudbees-before-20210804
     level: gold
   - id: sonatype
     level: gold
@@ -154,7 +154,7 @@ sponsors:
     level: community
   - id: wsealug
     level: community
-  - id: chef
+  - id: chef-before-20210112
     level: evening
   - id: logdna
     level: evening

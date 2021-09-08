@@ -3,6 +3,7 @@ year: "2020" # The year of the event. Make sure it is in quotes.
 city: "Kraków" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdays" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 event_logo: "logo-square.jpg"
+masthead_background: "dodkrakow-banner.jpg"
 description: "Devopsdays is coming to Kraków!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
@@ -12,8 +13,8 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2020-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: 2020-04-21T09:00:00+02:00
-enddate: 2020-04-21T18:00:00+02:00
+startdate: 2020-09-03T09:00:00+02:00
+enddate: 2020-09-03T18:00:00+02:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  2019-12-09T00:00:00+02:00
@@ -23,7 +24,7 @@ cfp_date_announce: 2019-12-09T00:00:00+02:00
 cfp_link: "https://dodkrakow.pl/cfp/"
 
 registration_date_start: 2019-12-10T00:00:00+02:00
-registration_date_end: 2020-04-21T18:00:00+02:00
+registration_date_end: 2020-09-03T18:00:00+02:00
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://evenea.pl/event/dodkrakow2020/"
@@ -31,16 +32,19 @@ registration_link: "https://evenea.pl/event/dodkrakow2020/"
 # Location
 #
 coordinates: "50.056937, 19.963920"
-location: "Krakowski Teatr VARIETE"
+location: "ONLINE"
 #
-location_address: "Grzegórzecka 71, Kraków, Poland"
+location_address: ""
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: location
   - name: registration
-  - name: program
-#  - name: speakers
   - name: sponsor
+    url: "mailto: karolina.murdza@proidea.pl"
+#  - name: location
+  - name: program
+    url: https://dodkrakow.pl/schedule/
+  - name: speakers
+    url: https://dodkrakow.pl/speakers/
   - name: contact
   - name: conduct
 # - name: example
@@ -68,6 +72,10 @@ organizer_email: "krakow@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: ibm
+    level: sponsor
+  - id: brainly
+    level: swag
   - id: ccie
     level: community
   - id: berlin-baltic-nordic-net
@@ -82,6 +90,9 @@ sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: sponsor
+    label: ""
+  - id: swag
+    label: Swag Partner
   - id: community
     label: Community
-    max: 0

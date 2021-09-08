@@ -190,11 +190,11 @@ sponsors:
     level: gold
   - id: carbonblack
     level: gold
-  - id: cloudbees
+  - id: cloudbees-before-20210804
     level: gold
   - id: ca
     level: alacarte
-  - id: launch-darkly
+  - id: launch-darkly-before-20200828
     level: alacarte
   - id: genians
     level: alacarte

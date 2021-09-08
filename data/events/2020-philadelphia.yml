@@ -5,6 +5,8 @@ event_twitter: "DevOpsDaysPHL"
 description: "Devopsdays Philadelphia is celebrating its 5th year!"
 ga_tracking_id: "UA-61551732-3"
 
+cancel: "true"
+
 startdate: 2020-10-20T00:00:00-04:00
 enddate: 2020-10-21T23:59:59-04:00
 
@@ -22,17 +24,17 @@ registration_closed: "" #set this to true if you need to manually close registra
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
-coordinates: "39.9500, -75.1667"
-location: "Science History Institute"
-location_address: "315 Chestnut St, Philadelphia, PA 19106"
+# coordinates: "39.9500, -75.1667"
+# location: "Science History Institute"
+# location_address: "315 Chestnut St, Philadelphia, PA 19106"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
  # - name: location
  # - name: registration
  # - name: program
-  - name: speakers
-  - name: sponsor
+ # - name: speakers
+ # - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
@@ -48,7 +50,7 @@ team_members:
     github: "peterjshan"
 
   - name: "Sarah Gray"
-    employer: "PromptWorks"
+    employer: "Linode"
 
   - name: "Clinton Wolfe"
     employer: "Chef"

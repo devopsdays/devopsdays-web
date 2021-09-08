@@ -10,8 +10,9 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2020-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: 2020-03-18T00:00:00+02:00  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2020-03-19T23:59:59+02:00  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate:   # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:   # The end date of your event. Leave blank if you don't have a venue reserved yet.
+cancel: "true"
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2019-08-12T00:00:00+02:00 # start accepting talk proposals.
@@ -23,7 +24,7 @@ cfp_link: "" #if you have a custom link for submitting proposals, add it here. T
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: # close registration. Leave blank if registration is not open yet.
 
-registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_closed: "true" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://www.eventbrite.com/e/devopsdays-prague-2020-tickets-69329736107" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
@@ -36,7 +37,7 @@ location_address: "Na Strži 65/1702, Prague 4, 140 00" #Optional - use the stre
 nav_elements: # List of pages you want to show up in the navigation of your page.
 #  - name: propose
   - name: location
-  - name: registration
+#  - name: registration
   - name: program
   - name: speakers
   - name: sponsor
@@ -86,11 +87,14 @@ sponsors:
     level: titanium
     url: "https://en.careers.epam-czech.cz/"
   - id: gitlab
-    level: titanium
+    level: silver
     url: "https://about.gitlab.com/"
   - id: kb
     level: gold
     url: "https://www.kb.cz/"
+  - id: f5-ni
+    level: gold
+    url: "https://www.f5.com/"  
   - id: citrix
     level: silver
     url: "https://www.citrix.com/"
@@ -100,9 +104,6 @@ sponsors:
   - id: googlecloud
     level: silver
     url: "https://cloud.google.com/gcp/"
-  - id: avast
-    level: silver
-    url: "https://www.avast.com/"    
   - id: showmax
     level: bronze
     url: "https://www.showmax.com/"   
@@ -112,24 +113,27 @@ sponsors:
   - id: iteraio
     level: bronze
     url: "https://itera.io/"   
-  - id: seznam
+  - id: cisco
     level: bronze
-    url: "https://www.seznam.cz/"  
-  - id: kiwicom
-    level: bronze
-    url: "https://www.kiwi.com"  
+    url: "https://www.cisco.com/"  
   - id: digitalocean
     level: starter
     url: "https://www.digitalocean.com/"
-  - id: geekyants
-    level: starter
-    url: "https://geekyants.com/"    
   - id: vistaprint
     level: starter
     url: "https://www.vistaprint.com/"  
   - id: microsoftazure
     level: starter
     url: "https://azure.microsoft.com/"  
+  - id: lineupr
+    level: starter
+    url: "https://lineupr.com/"  
+  - id: sessionm
+    level: starter
+    url: "https://www.sessionm.com/"
+  - id: avast
+    level: starter
+    url: "https://www.avast.com/"    
   - id: inuits
     level: community
     url: "https://inuits.eu/"
@@ -145,8 +149,11 @@ sponsors:
   - id: prague-software-craftsmanship
     level: community
     url: "https://www.meetup.com/Prague-Software-Craftsmanship/"  
+  - id: stickermule
+    level: community
+    url: "https://mule.to/pqi/"  
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -178,12 +185,12 @@ program:
     date: 2020-03-18
     start_time: "09:00"
     end_time: "09:10"
-  - title: "kris-buytaert"
+  - title: ""
     type: talk
     date: 2020-03-18
     start_time: "09:10"
     end_time: "09:45"
-  - title: "malini-valliath"
+  - title: "stepan-vrany"
     type: talk
     date: 2020-03-18
     start_time: "09:45"
@@ -193,12 +200,12 @@ program:
     date: 2020-03-18
     start_time: "10:20"
     end_time: "10:40"
-  - title: "edward-pearson"
+  - title: "tomas-kubica"
     type: talk
     date: 2020-03-18
     start_time: "10:40"
     end_time: "11:15"
-  - title: "tomas-kubica"
+  - title: "kris-buytaert"
     type: talk
     date: 2020-03-18
     start_time: "11:20"
@@ -253,7 +260,7 @@ program:
     date: 2020-03-19
     start_time: "09:00"
     end_time: "09:10"
-  - title: "vaishali-anand"
+  - title: "martin-konicek"
     type: talk
     date: 2020-03-19
     start_time: "09:10"
@@ -273,7 +280,7 @@ program:
     date: 2020-03-19
     start_time: "10:40"
     end_time: "11:15"
-  - title: "eduardo-piairo"
+  - title: ""
     type: talk
     date: 2020-03-19
     start_time: "11:20"
@@ -316,15 +323,11 @@ program:
 ignites:
   - title: "axel-kohler"
     date: 2020-03-18
-  - title: "jiri-brunclik"
-    date: 2020-03-18
+  - title: "denis-gorodnov"
+    date: 2020-03-18    
   - title: "philipp-krenn"
     date: 2020-03-18   
-  - title: "stepan-vrany"
-    date: 2020-03-18
   - title: "radek-zajic"
     date: 2020-03-19  
-  - title: "mofizur-rahman"
-    date: 2020-03-19
   - title: "marek-bartik"
-    date: 2020-03-19              
+    date: 2020-03-19     

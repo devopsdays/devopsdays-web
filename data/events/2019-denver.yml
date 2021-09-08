@@ -91,7 +91,7 @@ sponsors:
   level: silver
 - id: rundeck
   level: gold
-- id: chef
+- id: chef-before-20210112
   level: silver
 - id: newrelic
   level: silver
@@ -105,7 +105,7 @@ sponsors:
   level: gold
 - id: appdynamics
   level: gold
-- id: cloudbees
+- id: cloudbees-before-20210804
   level: gold
 - id: strava
   level: supporter

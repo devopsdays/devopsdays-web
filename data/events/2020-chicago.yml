@@ -11,20 +11,20 @@ ga_tracking_id: "UA-74738648-1" # If you have your own Google Analytics tracking
 # Note: we allow 2020-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
 startdate: 2020-09-01T00:08:00-06:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2020-09-02T00:17:00-06:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2020-09-01T00:18:00-06:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  2020-02-07T00:07:00-06:00 # start accepting talk proposals.
-cfp_date_end:  2020-05-01T00:23:00-06:00 # close your call for proposals.
-cfp_date_announce:  2020-06-01T00:08:00-06:00 # inform proposers of status
+cfp_date_end:  2020-05-17T00:23:00-06:00 # close your call for proposals.
+cfp_date_announce:  2020-06-15T00:08:00-06:00 # inform proposers of status
 
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2020-07-13T00:00:00-06:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2020-09-02T00:00:00-06:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://event.devopsdayschi.org" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 masthead_background: "skyline-night.jpg"
 sharing_image: "sharing.png"
@@ -33,17 +33,19 @@ sharing_image: "sharing.png"
 # Location
 #
 coordinates: "41.866943,-87.646142" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "UIC Forum" # Defaults to city, but you can make it the venue name.
+location: "Online" # Defaults to city, but you can make it the venue name.
 #
-location_address: "725 West Roosevelt Road, Chicago, Illinois 60608" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
-  - name: location
- # - name: registration
- # - name: program
- # - name: speakers
+  - name: live stream
+    url: https://live.devopsdayschi.org
+  - name: virtual event
+    url: https://devopsdays.org/events/2020-chicago/virtual-event
+  - name: registration
+    url: https://event.devopsdayschi.org
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -105,11 +107,11 @@ team_members:
   - name: "Matt Stratton"
     image: "matt-stratton.jpg"
     twitter: "mattstratton"
-    employer: "PagerDuty"
+    employer: "Red Hat"
     website: "https://www.mattstratton.com"
     linkedin: "https://www.linkedin.com/in/mattstratton"
     github: "mattstratton"
-    bio: "Matt Stratton is a DevOps Advocate at PagerDuty, where he helps dev and ops teams advance the practice of their craft and become more operationally mature. He collaborates with PagerDuty customers and industry leaders in the broader DevOps community, and back in the day, his license plate actually said \"DevOps\". He has three awesome kids, who he loves just a little bit more than he loves *Doctor Who*. He is currently on a mission to discover the best pho in the world."
+    bio: "Matt Stratton is a Transformation Specialist at Red Hat and a long-time member of the global DevOps community. Back in the day, his license plate actually said  \"DevOps\". He has three awesome kids, whom he loves just a little bit more than he loves *Doctor Who*. He is currently on a mission to discover the best phở in the world."
   - name: "Margaret Valtierra"
     image: "margaret-valtie.jpg"
     employer: "Morningstar"
@@ -130,6 +132,11 @@ team_members:
     linkedin: "https://www.linkedin.com/in/devopscread/"
     twitter: "cread"
     github: "cread"
+  - name: "Brian Andersen"
+    employer: "NextCapital"
+    bio: "Brian Andersen is a Senior DevOps Engineer at NextCapital.  Prior to joining NextCapital, he made a living as production support for a large, multinational bank and an Atlassian consultant for a small local firm.  In his free time he plays (possibly) an unhealthy amount of games, both of the video and board variety. He also has really enjoys visiting cities with zoos in them."
+    linkedin: "https://www.linkedin.com/in/brian-andersen-9a16587"
+    image: "brian-andersen.jpg"
 
 organizer_email: "chicago@devopsdays.org" # Put your organizer email address here
 proposal_email: "chicago-proposals@devopsdays.org"
@@ -143,9 +150,29 @@ sponsors:
     level: community
   - id: chicago-devops
     level: community
-  - id: launch-darkly
+  - id: launch-darkly-before-20210518
     level: gold
   - id: appdynamics
+    level: gold
+  - id: braintree
+    level: gold
+  - id: d2iq
+    level: gold
+  - id: stackhawk
+    level: silver
+  - id: circleci
+    level: gold
+  - id: lightstep
+    level: gold
+  - id: microsoft
+    level: gold
+  - id: jpmc
+    level: gold
+  - id: tigera
+    level: gold
+  - id: IITCOC
+    level: community
+  - id: jfrog
     level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -153,11 +180,11 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
-# sponsorship for a specific level, it is best to remove the level.
+# sponsorship for a specific level, it is best to remove the level..
 sponsor_levels:
   - id: gold
     label: Gold
-#    max: 10
+    max: 8
   - id: silver
     label: Silver
     max: 0 # This is the same as omitting the max limit.
@@ -165,3 +192,204 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+
+program:
+  - title: "Opening Remarks"
+    type: custom
+    date: 2020-09-01
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "sherlaender-lani-phillips"
+    type: talk
+    date: 2020-09-01
+    start_time: "09:15"
+    end_time: "09:30"
+  - title: "Fireside Chat with Sherlaender (Lani) Phillips"
+    type: custom
+    date: 2020-09-01
+    start_time: "09:30"
+    end_time: "09:50"
+    custom_url: "https://live.devopsdayschi.org"
+  - title: "Breakouts"
+    type: open-space
+    date: 2020-09-01
+    start_time: "09:30"
+    end_time: "09:50"
+    custom_url: "https://event.devopsdayschi.org"
+  - title: "Break"
+    type: custom
+    date: 2020-09-01
+    start_time: "09:50"
+    end_time: "10:05"
+  - title: emily-freeman
+    type: talk
+    date: 2020-09-01
+    start_time: "10:05"
+    end_time: "10:25"
+  - title: "Fireside Chat with Emily Freeman"
+    type: custom
+    date: 2020-09-01
+    start_time: "10:25"
+    end_time: "10:45"
+    custom_url: "https://live.devopsdayschi.org"
+  - title: "Breakouts"
+    type: open-space
+    date: 2020-09-01
+    start_time: "10:25"
+    end_time: "10:45"
+    custom_url: "https://event.devopsdayschi.org"
+  - title: "Break"
+    type: custom
+    date: 2020-09-01
+    start_time: "10:45"
+    end_time: "10:55"
+  - title: quintessence-anx
+    type: talk
+    date: 2020-09-01
+    start_time: "10:55"
+    end_time: "11:20"
+  - title: "Fireside Chat with Quintessence Anx"
+    type: custom
+    date: 2020-09-01
+    start_time: "11:20"
+    end_time: "11:40"
+    custom_url: "https://live.devopsdayschi.org"
+  - title: "Breakouts"
+    type: open-space
+    date: 2020-09-01
+    start_time: "11:20"
+    end_time: "11:40"
+    custom_url: "https://event.devopsdayschi.org"
+  - title: "Ignite Round 1"
+    type: ignite
+    date: 2020-09-01
+    start_time: "11:45"
+    end_time: "12:15"
+    block: "ignite-1"
+  - title: "Lunch Break"
+    type: custom
+    date: 2020-09-01
+    start_time: "12:15"
+    end_time: "13:00"
+  - title: richard-cook
+    type: talk
+    date: 2020-09-01
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Fireside Chat with Dr. Richard Cook"
+    type: custom
+    date: 2020-09-01
+    start_time: "13:30"
+    end_time: "13:50"
+    custom_url: "https://live.devopsdayschi.org"
+  - title: "Breakouts"
+    type: open-space
+    date: 2020-09-01
+    start_time: "13:30"
+    end_time: "13:50"
+    custom_url: "https://event.devopsdayschi.org"
+  - title: "Break"
+    type: custom
+    date: 2020-09-01
+    start_time: "13:50"
+    end_time: "14:00"
+  - title: sarah-aslanifar
+    type: talk
+    date: 2020-09-01
+    start_time: "14:00"
+    end_time: "14:20"
+  - title: "Fireside Chat with Sarah Aslanifar"
+    type: custom
+    date: 2020-09-01
+    start_time: "14:20"
+    end_time: "14:40"
+    custom_url: "https://live.devopsdayschi.org"
+  - title: "Breakouts"
+    type: open-space
+    date: 2020-09-01
+    start_time: "14:20"
+    end_time: "14:40"
+    custom_url: "https://event.devopsdayschi.org"
+  - title: "Break"
+    type: custom
+    date: 2020-09-01
+    start_time: "14:40"
+    end_time: "14:50"
+  - title: rafael-gomes
+    type: talk
+    date: 2020-09-01
+    start_time: "14:50"
+    end_time: "15:05"
+  - title: "Fireside Chat with Rafael Gomes"
+    type: custom
+    date: 2020-09-01
+    start_time: "15:05"
+    end_time: "15:25"
+    custom_url: "https://live.devopsdayschi.org"
+  - title: "Breakouts"
+    type: open-space
+    date: 2020-09-01
+    start_time: "15:05"
+    end_time: "15:25"
+    custom_url: "https://event.devopsdayschi.org"
+  - title: "Break"
+    type: custom
+    date: 2020-09-01
+    start_time: "15:25"
+    end_time: "15:35"
+  - title: "jason-yee"
+    type: talk
+    date: 2020-09-01
+    start_time: "15:35"
+    end_time: "15:55"
+  - title: "Fireside Chat with Jason Yee"
+    type: custom
+    date: 2020-09-01
+    start_time: "15:55"
+    end_time: "16:15"
+    custom_url: "https://live.devopsdayschi.org"
+  - title: "Breakouts"
+    type: open-space
+    date: 2020-09-01
+    start_time: "15:55"
+    end_time: "16:15"
+    custom_url: "https://event.devopsdayschi.org"
+  - title: "Ignite Round 2"
+    type: ignite
+    date: 2020-09-01
+    start_time: "16:20"
+    end_time: "16:40"
+    block: "ignite-2"
+  - title: "Closing Remarks"
+    type: custom
+    date: 2020-09-01
+    start_time: "16:40"
+    end_time: "16:45"
+
+
+
+ignites:
+  - title: "laura-santamaria"
+    date: 2020-09-01
+    block: "ignite-1"
+  - title: "henry-quinn"
+    date: 2020-09-01
+    block: "ignite-1"
+  - title: "jeff-smith"
+    date: 2020-09-01
+    block: "ignite-1"
+  - title: "jeremy-meiss"
+    date: 2020-09-01
+    block: "ignite-1"
+  - title: "aaron-aldrich"
+    date: 2020-09-01
+    block: "ignite-2"
+  - title: "amy-arambulo-negrette"
+    date: 2020-09-01
+    block: "ignite-2"
+  - title: "brendan-oleary"
+    date: 2020-09-01
+    block: "ignite-2"
+  - title: "renata-rocha"
+    date: 2020-09-01
+    block: "ignite-2"

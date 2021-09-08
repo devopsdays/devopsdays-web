@@ -2,7 +2,7 @@
 
 This document contains the technical details on how to set up [Hugo](https://gohugo.io/) (to see your edits locally before pushing them to GitHub), and how to prepare a pull request to make changes to content on the [devopsdays](https://www.devopsdays.org/) website.
 
-If you'd like to assist in contributing to the code itself (as opposed to the content) of the website, please see the [devopsdays-theme CONTRIBUTING guidelines](https://github.com/devopsdays/devopsdays-web/blob/master/themes/devopsdays-theme/CONTRIBUTING.md).
+If you'd like to assist in contributing to the code itself (as opposed to the content) of the website, please see the [devopsdays-theme CONTRIBUTING guidelines](https://github.com/devopsdays/devopsdays-web/blob/main/themes/devopsdays-theme/CONTRIBUTING.md).
 
 ## Setup
 
@@ -10,8 +10,13 @@ If you'd like to edit a specific devopsdays event site (and/or contribute code),
 
 ### Quick Overview
 
-1. Install [Hugo](http://gohugo.io). The current Hugo version we're using can be found in the [.circleci/config.yml](https://github.com/devopsdays/devopsdays-web/blob/master/.circleci/config.yml) file. [(Quick Install)](https://gohugo.io/getting-started/installing#binary-cross-platform)
-1. [Fork](https://help.github.com/articles/fork-a-repo/) this repo and clone a copy locally.
+1. Install [Hugo](http://gohugo.io). Use the Hugo version that we use in [.circleci/config.yml](https://github.com/devopsdays/devopsdays-web/blob/main/.circleci/config.yml) file. [(Quick Install)](https://gohugo.io/getting-started/installing#binary-cross-platform)
+Examples of hugo installation with a version:  
+ - maxOS: `brew install hugo@0.67.1`
+ - linux: `brew install hugo@0.67.1`
+ - windows: `choco install hugo -confirm --version 0.67.1 --allow-downgrade`
+  
+2. [Fork](https://help.github.com/articles/fork-a-repo/) this repo and clone a copy locally.
 
 ### View site locally
 
@@ -25,13 +30,13 @@ Now open `http://localhost:1313` in a browser and navigate to the content that y
 
 #### macOS Specific Issues
 
-When running the `hugo server -w` command listed above, you may get an error about "too many open files". To solve this, run the following commands in your terminal:
+When running the `hugo server -w` command listed above, you may get an error about "too many open files" or "fatal error: pipe failed". To solve this, run the following commands in your terminal:
 
 ```
-hugo check ulimit
-sudo sysctl -w kern.maxfiles=65536
-sudo sysctl -w kern.maxfilesperproc=65536
-ulimit -n 65536 65536
+sudo launchctl limit maxfiles 65535 200000
+ulimit -n 65535
+sudo sysctl -w kern.maxfiles=100000
+sudo sysctl -w kern.maxfilesperproc=65535
 ```
 
 Note that these changes will not persist past a reboot of your computer, so you'll need to run them again if you restart.
@@ -60,11 +65,11 @@ You only need to create your fork once, as long as you don't delete it.
 1. Before starting any new change, it is essential that you `rebase` your local repository from the upstream. You may think that working from your fork is enough, but sometimes upstream changes will affect your work in ways you may not anticipate, so you'll want to stay current. Issue these commands:
 
 
- - `git checkout master`
- - `git pull upstream master --rebase`
+ - `git checkout main`
+ - `git pull upstream main --rebase`
 
 
-This confirms you are on the master branch locally, and then applies the changes from the upstream to your copy.
+This confirms you are on the main branch locally, and then applies the changes from the upstream to your copy.
 
 
 2. Create a new local [branch](https://help.github.com/articles/about-branches/) for your changes. This helps to keep things tidy!
@@ -84,11 +89,11 @@ This confirms you are on the master branch locally, and then applies the changes
 4. Submit a [Pull Request](https://help.github.com/articles/using-pull-requests/) for the branch you just pushed. Please title the pull request according to the event affected, i.e., `[CHI-2017] Add Bluth Company as a sponsor`
 5. Optionally, open your [pull request](https://github.com/devopsdays/devopsdays-web/pulls) in a browser and look at the preview that `Netlify` (a build tool) built.
 6. You can mention on devopsdays Slack's #website if you'd like a PR merged quickly. (Availability of maintainers varies.)
-7. When a commit is merged to `master` on GitHub, Netlify will automatically build the site and publish it to [https://www.devopsdays.org](https://www.devopsdays.org).
+7. When a commit is merged to `main` on GitHub, Netlify will automatically build the site and publish it to [https://www.devopsdays.org](https://www.devopsdays.org).
 
 ### Guidelines
 
-1. Code changes for [devopsdays-theme](https://github.com/devopsdays/devopsdays-web/blob/master/themes/devopsdays-theme/) should be made in a different PR from event content updates. 
+1. Code changes for [devopsdays-theme](https://github.com/devopsdays/devopsdays-web/blob/main/themes/devopsdays-theme/) should be made in a different PR from event content updates. 
 1. We use [github issues](https://github.com/devopsdays/devopsdays-web/issues) to track work, so feel free to create new issues if you like (or read/comment/work on existing ones).
 1. If you are proposing a change that affects the overall site, and is not tied to an existing issue, please open a [new issue](https://github.com/devopsdays/devopsdays-web/issues) so that it can be discussed by the team, prior to submitting a pull request.
 1. If you're using CRLF line terminators (like on Windows), the site won't build correctly if the first `+++` line of frontmatter in speaker and program files ends in a space like `+++ `. The [workaround](https://github.com/devopsdays/devopsdays-theme/issues/652) is to remove the trailing space.
@@ -96,7 +101,7 @@ This confirms you are on the master branch locally, and then applies the changes
 ### How Changes are Merged
 - A maintainer will merge the PR if it is mergable, as soon as the checks pass.
 - If you do not want your PR merged immediately, in most cases you should not open the PR.
-- Our [workflow guide](https://github.com/devopsdays/devopsdays-web/blob/master/utilities/docs/workflow/README.md) provides solutions to most `WIP` use cases without opening a PR.
+- Our [workflow guide](https://github.com/devopsdays/devopsdays-web/blob/main/utilities/docs/workflow/README.md) provides solutions to most `WIP` use cases without opening a PR.
 - Questions about specific cases not covered in the guide can be asked in the #website channel on devopsdays Slack.
 
 ### Acceptable changes
@@ -119,7 +124,7 @@ Generally speaking, you should avoid storing any files other than logos or small
 If you have permissions to merge PRs on this repo, here are a few guidelines to consider:
 
 1. Is the requestor authorized to make changes for that event? They need to appear on the contact list for the year and city they're editing.
-1. Do not allow any PRs that change files outside of the above-mentioned "content" directories. Especially watch out for `.gitignore`, `config.toml`, `config-windows.toml`, and anything in the `themes` directory. Our bot will notify maintainers for any changes to non-event-content files and assign the PRs to the maintainers, so that should help.
+1. Do not allow any PRs that change files outside of the above-mentioned "content" directories. Especially watch out for `.gitignore`, `config.toml`, `config-windows.toml`, and anything in the `themes` directory. GitHub will require a review from certain maintainers/admins if specific non-content files/directories are included. See [CODEOWNERS](https://github.com/devopsdays/devopsdays-web/blob/main/.github/CODEOWNERS) for specifics.
 1. Check to see if the tests pass, but use your judgement on merging something that fails (see "PR Tests" below for guidance)
 1. If you are unsure about merging a PR, please use the "request a review" button on the PR to request one from other maintainers.
 1. If you're reviewing all the details of a PR before merging or are communicating with the *Submitter*, add yourself to *Assignees* so that others know someone is waiting on a response or reviewing all the details of the PR thoroughly. Be sure to also add a comment into the PR that you are reviewing it, and if you need a change from the *Submitter* prior to merge, be sure to label the PR as `do-not-merge`.

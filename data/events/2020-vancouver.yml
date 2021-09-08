@@ -10,8 +10,7 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2020-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: 2020-03-30T00:00:00-07:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2020-03-31T00:00:00-07:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+cancel: "true"
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2019-12-11T00:00:00-07:00  # start accepting talk proposals.
@@ -21,7 +20,7 @@ cfp_date_end: 2020-02-15T10:47:00-07:00  # close your call for proposals.
 cfp_link: "https://www.papercall.io/devopsdays-vancouver-2020" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2019-14-11T00:00:00-07:00
-registration_date_end: 2020-03-31T00:00:00-07:00
+registration_date_end: 2020-02-31T00:00:00-07:00
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://www.eventbrite.ca/e/86086255307" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -34,14 +33,8 @@ location: "UBC Robson Square, Vancouver, Canada" # Defaults to city, but you can
 location_address: "800 Robson St, Vancouver, BC V6Z 3B7" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
- # - name: location
  # - name: registration
- # - name: program
- # - name: speakers
-  - name: location 
-  - name: propose
-  - name: sponsor
+ # - name: location 
   - name: contact
   - name: conduct
 # - name: example
@@ -100,11 +93,7 @@ organizer_email: "vancouver@devopsdays.org" # Put your organizer email address h
 sponsors:
   - id: xmatters
     level: gold
-  - id: influxdata
-    level: gold
   - id: site24x7
-    level: gold
-  - id: newrelic
     level: gold
   - id: dynatrace
     level: gold
@@ -113,8 +102,6 @@ sponsors:
   - id: tigera
     level: gold
   - id: cisco
-    level: gold
-  - id: sumologic
     level: gold
   - id: microsoft
     level: gold
@@ -129,6 +116,8 @@ sponsors:
   - id: realtor-dot-com
     level: silver
   - id: clio
+    level: silver
+  - id: gitlab
     level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

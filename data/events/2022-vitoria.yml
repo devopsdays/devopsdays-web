@@ -1,0 +1,187 @@
+name: "2022-vitoria" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2022" # The year of the event. Make sure it is in quotes.
+city: "Vitoria" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaysvix" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays is coming to Vitoria!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2022-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2022-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate:  2022-02-05T09:00:00-03:00  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  2022-02-05T18:00:00-03:00  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start:  # start accepting talk proposals.
+cfp_date_end:  # close your call for proposals.
+cfp_date_announce:  # inform proposers of status
+
+cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Vitoria" # Defaults to city, but you can make it the venue name.
+#
+location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+ # - name: propose
+ # - name: location
+ # - name: registration
+ # - name: program
+ # - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Giovani Balarini"
+    twitter: "GBalarini"
+    employer: "WillBank"
+    bio: "Capixaba da Gema, DevOps Engineer no WillBank, Bacharel em Desenvolvimento de Sistemas porém também SysAdmin Linux :D Nas horas vagas brinco de coda uns trem pela interwebs! "
+    github: "giovanibalarini"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/giovani-balarini-a4a25a86/"
+    website: ""
+    image: "giovanibalarini.jpg"
+  - name: "Michelle Ribeiro"
+    twitter: "michelleribeiro"
+    employer: "SPIRITSEC"
+    bio: "Executive Manager"
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/michelleribeiro"
+    website: ""
+    image: "michellemazioli.jpg"
+  - name: "Gleydson Mazioli"
+    twitter: ""
+    employer: "SPIRITSEC"
+    bio: "Technology Manager"
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/gleydsonmazioli"
+    website: ""
+    image: "gleydsonmazioli.jpg"
+  - name: "Camila Martins"
+    twitter: "punkdodevops"
+    employer: "Descomplica"
+    bio: "Punk, paulista, santista. Docker Community Leader. Sou Senior Site Reliability Engineer e atualmente trabalho na Descomplica, com pós em Forense Computacional e iniciando mestrado em Operação, avaliação e gerenciamento avançado de redes de computadores na Universidade Federal do Estado do Rildy Janeiro hehe. Nas horas vagas, estou codando (também!) e surtando com uma gatinha preta doida chamada Marvel (!) <3"
+    github: "camilla-m"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/camilla-martins-603344115/"
+    website: "https://punkdodevops.com"
+    image: "camila-martins.jpg"
+  - name: "Sebastian Webber"
+    twitter: "sebawebber"
+    image: "sebastian-webber.jpg"
+  - name: "Marco Antonio Martins Junior (Somatório)"
+    employer: "PicPay"
+    twitter: "somatorio"
+    github: "somatorio"
+    facebook: "https://facebook.com/osomatorio"
+    linkedin: "https://www.linkedin.com/in/somatorio/"
+    website: "http://somatorio.org"
+    bio: "Peão as a Service, entusiasta da cultura DevOps, organizador do meetup DevOps/SRE Porto Alegre, Docker community leader (Porto Alegre), fuçador convicto, roda praticamente tudo em containers, jogador noob sempre que posso."
+    image: "marco-junior.jpg"
+  - name: "Rafael Gomes (Gomex)"
+    employer: "DNSFilter"
+    twitter: "gomex"
+    github: "gomex"
+    linkedin: "https://www.linkedin.com/in/rbgomes/"
+    website: "https://gomex.me"
+    bio: "Soteropolitano, hacker urbano e consultor de infraestrutura."
+    image: "rafael-gomes.jpg"
+  - name: "Cristiano Diedrich"
+    twitter: "omatofino"
+    employer: "uMov.me"
+    bio: "Formado em sistemas de informação, sou SRE na uMov.me, uma plataforma no code para aplicativos B2B, atuo na pesquisa, desenvolvimento e melhorias de soluções para a plataforma. Sou apaixonado por linux e tecnologias open-source, áreas que conheço a muitos anos."
+    github: "csdiedrich"
+    facebook: "https://www.facebook.com/cristiano.diedrich"
+    linkedin: "https://www.linkedin.com/in/cristianodiedrich/"
+    website: ""
+    image: "cristiano-diedrich.jpg"
+  - name: "Gian Lucas Cavalcante de Lima"
+    twitter: "gianlcl"
+    employer: "SPIRITSEC"
+    bio: ""
+    github: "gianlcl"
+    facebook: ""
+    linkedin: "gian-cavalcante"
+    website: ""
+    image: "gian-cavalcante.jpg"
+  - name: "Roze Cardoso"
+    twitter: "ralvitoria"
+    employer: "CI&T"
+    bio: "Cientista preta da computação, analista devops, futura Robin Hood do conhecimento e maestra de container. Divido os cuidados dos dogs Ada Boulos e Nikola Tesla II com meu companheiro de vida <3 e ainda dou conta de fazer minhas tranças, pequenos consertos em casa e uns freelas (segue o piiiiix ;D)"
+    github: "ravcardoso"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/ravcardoso/"
+    website: ""
+    image: "rozecardoso.jpg"
+  - name: "Igor Leonardo Eloy Macedo"
+    employer: "PicPay"
+    bio: "Sysadmin no Banco no PicPay"
+    linkedin: "https://www.linkedin.com/in/igor-macedo/"
+    website: "blog.ilem.me"
+    github: ""
+    twitter: "dodaracaju"
+    image: "igor-macedo.jpg"
+  - name: "Frederico Boaventura"
+    employer: "self"
+    bio: "cat < /dev/urandom > bio"
+    linkedin: "https://www.linkedin.com/in/igor-macedo/"
+    website: "https://fboaventura.dev"
+    github: "fboaventura"
+    twitter: "fboaventura"
+    image: "frederico-boaventura.png"
+  - name: "Jandson Mendes"
+    employer: ""
+    bio: ""
+    linkedin: "https://www.linkedin.com/in/jandson-oliveira/"
+    website: ""
+    github: "jandsonmendes25"
+    twitter: "jandson_mendes"
+    image: "jandson-mendes.jpg"
+
+organizer_email: "vitoria@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+# sponsors:
+#   - id: samplesponsorname
+#     level: gold
+#  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+#   - id: arresteddevops
+#     level: community
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: gold
+    label: Gold
+#    max: 10
+  - id: silver
+    label: Silver
+    max: 0 # This is the same as omitting the max limit.
+  - id: bronze
+    label: Bronze
+  - id: community
+    label: Community

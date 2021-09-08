@@ -86,7 +86,7 @@ sponsors:
   - id: devrelate
     level: community
     url: http://devrelate.io
-  - id: acv_auctions
+  - id: acv_auctions-before-20210817
     level: gold
     url: https://www.acvauctions.com
 <<<<<<< HEAD
@@ -94,7 +94,7 @@ sponsors:
   - id: torchio
     level: bronze
     url: https://torch.io
-  - id: starkandwayne-before-20200213
+  - id: starkandwayne
     level: gold
     url: https://starkandwayne.com
   - id: mandtbank

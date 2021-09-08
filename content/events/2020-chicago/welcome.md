@@ -2,20 +2,24 @@
 Title = "devopsdays Chicago 2020"
 Type = "welcome"
 aliases = ["/events/2020-chicago/"]
-Description = "DevOpsDays Chicago is coming back in 2020! The group that brought you DevOpsDays Chicago 2014-2019 is back together and planning the 2020 event.  We're encouraged by the feedback from previous year's events and are determined to bring an improved experience and continue the DevOps conversation for 2020 in Chicago."
+Description = "DevOpsDays Chicago will be a single-day virtual experience, taking place on Sept 1, 2020."
 +++
+
+{{< youtube ECMD5Yw5CxA >}}
 
 <div class = "row">
   <div class = "col-md-6 push-md-6">
+  <p class="btn btn-primary btn-block" style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;">DevOpsDays Chicago is going virtual for 2020!</p>
+
+  Due to COVID-19 and the health risks of an in-person conference DevOpsDays Chicago 2020 will now be a one-day [virtual event](https://devopsdays.org/events/2020-chicago/virtual-event) taking place on Sept 1, 2020.
 
 <h2>A Decade of DevOps</h2>
 From fledgling startups to established industry, the Midwest is home to a large, vibrant technology community. Chicago, in particular, has been a flurry of activity in the past several years, drawing attention from around the globe.
 <br><br>
 DevOpsDays Chicago brings development, operations, QA, InfoSec, management, and leadership together to discuss the culture and tools to make better organizations and products. The 2020 event will be the seventh time we have held DevOpsDays Chicago, and it should be bigger and better than ever before!
+<!-- <br><br>
+The format of DevOpsDays Chicago includes a single track of 30 minute talks in the morning of each day, followed by Ignite talks (5 minute lightning talks). We spend the rest of the afternoon in Open Spaces, which are considered a key portion of the event. -->
 <br><br>
-The format of DevOpsDays Chicago includes a single track of 30 minute talks in the morning of each day, followed by Ignite talks (5 minute lightning talks). We spend the rest of the afternoon in Open Spaces, which are considered a key portion of the event.
-<br><br>
-{{< cfp_dates >}}
 <br><br>
 <b>Subscribe to our mailing list below to be the first to know more updates!</b>
 <div class = "row">
@@ -37,8 +41,8 @@ The format of DevOpsDays Chicago includes a single track of 30 minute talks in t
         </a>
       </div>
       <div class = "d-flex p-2">
-        <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://www.papercall.io/devopsdays-chicago-2020">
-          <i class="fa fa-microphone fa-lg"></i>&nbsp;&nbsp;&nbsp;Propose a Talk
+        <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://event.devopsdayschi.org">
+          <i class="fa fa-user-plus fa-lg"></i>&nbsp;&nbsp;&nbsp;Register for the Event
         </a>
       </div>
     </div>

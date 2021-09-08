@@ -5,4 +5,8 @@ Talk_end_time = "09:45"
 Title = "Acompaña tu travesía devops con SAFe v5"
 Type = "talk"
 Speakers = ["ra-acosta"]
+Youtube = ""
+Vimeo = ""
+Speakerdeck = "https://speakerdeck.com/devopsdaysgdl/ra-acosta-safe-journey-5-dot-0"
+Website = ""
 +++

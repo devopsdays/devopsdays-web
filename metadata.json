@@ -1,5 +1,9 @@
 {
 	"theme_version": "1.17.0",
+<<<<<<< HEAD
 	"hugo_version": "0.53.0",
+=======
+	"hugo_version": "0.67.1",
+>>>>>>> aa3942f0b95e22d4d7ca30761da8b8d7da25d839
 	"devopsdays_cli_version": "0.22.1"
 }

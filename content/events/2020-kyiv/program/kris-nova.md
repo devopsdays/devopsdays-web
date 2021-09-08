@@ -1,7 +1,7 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_date = "2020-05-14"
+Talk_start_time = "20:00"
+Talk_end_time = "20:40"
 Title = "Runtime Security in Kubernetes with Falco"
 Type = "talk"
 Speakers = ["kris-nova"]
