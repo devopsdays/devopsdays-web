@@ -134,13 +134,13 @@ sponsors:
   - id: webera
     level: gold 
     url: https://www.webera.com/
-  - id: ambev-tech
+  - id: ambevtech
     level: gold 
     url: https://ambevtech.com.br/
-  - id: stack-io
+  - id: stackio
     level: gifts 
     url: https://www.stack.io/
-  - id: daitan
+  - id: daitan-group
     level: gold 
     url: https://www.daitan.com/
   - id: mouts
@@ -159,7 +159,7 @@ program:
     end_time: '19:15'
 
   - title: CloudOps - Operando sistemas em escala
-    type: talk
+    type: custom
     date: 2021-09-09
     start_time: '19:15'
     end_time: '19:50'
@@ -171,7 +171,7 @@ program:
     end_time: '20:00'
 
   - title: Engineering Reliable Mobile Applications
-    type: talk
+    type: custom
     date: 2021-09-09
     start_time: '20:00'
     end_time: '20:50'
@@ -183,13 +183,13 @@ program:
     end_time: '21:00'
 
   - title: How Brazil kept us up at night
-    type: workshop
+    type: custom
     date: 2021-09-09
     start_time: '21:00'
     end_time: '21:40'
 
   - title: Continous Delivery with Azure DevOps (Workshop)
-    type: workshop
+    type: custom
     date: 2021-09-09
     start_time: '21:40'
     end_time: '22:30'
@@ -202,7 +202,7 @@ program:
     end_time: '19:15'
 
   - title: Kubernetes - Migração entre regiões, redução de custo e afinamento de infra
-    type: talk
+    type: custom
     date: 2021-09-10
     start_time: '19:15'
     end_time: '19:50'
@@ -214,7 +214,7 @@ program:
     end_time: '20:00'
 
   - title: Testando Microservices - Tradeoffs de doze técnicas
-    type: workshop
+    type: custom
     date: 2021-09-10
     start_time: '20:00'
     end_time: '20:50'
@@ -226,7 +226,7 @@ program:
     end_time: '21:00'
 
   - title: Crie um fluxo GitOps com Kubernetes e ArgoCD (Workshop)
-    type: workshop
+    type: custom
     date: 2021-09-10
     start_time: '21:00'
     end_time: '21:50'
