@@ -1,8 +1,8 @@
 +++
 Title = "Sponsor"
 Type = "event"
-aliases = ["/events/2020-prague/sponsor"]
-Description = "Sponsor Devopsdays Prague 2021"
+aliases = ["/events/2020-prague/sponsor", "/events/2021-prague/sponsor"]
+Description = "Sponsor Devopsdays Prague 2022"
 +++
 
 <div class = "row justify-content-center">
