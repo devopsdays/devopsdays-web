@@ -154,7 +154,7 @@
 /miami/*            /events/2020-miami/:splat           302
 /luanda/*            /events/2020-luanda/:splat           302
 /criciuma/*            /events/2020-criciuma/:splat           302
-/melbourne/*            /events/2021-melbourne/:splat           302
+/melbourne/*            /events/2022-melbourne/:splat           302
 /ankara/*            /events/2020-ankara/:splat           302
 /lima/*            /events/2020-lima/:splat           302
 /rosario/*            /events/2020-rosario/:splat           302
