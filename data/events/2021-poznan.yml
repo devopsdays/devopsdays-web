@@ -290,11 +290,14 @@ program:
     end_time: "16:00"
 
 ignites:
-   - title: "bartlomiej-sliwinski"
-     date: 2021-05-24
-  # - title: "lukasz-garczewski"
-  #   date: 2021-05-24
-  # - title: "jagoda-sateja"
-  #   date: 2021-05-24
-  # - title: "bob-walker"
-  #   date: 2021-10-05
+   - title: "pawel-sztromwasser"
+     date: 2021-10-04
+   - title: "prithvi-raj"
+     date: 2021-10-04
+   - title: "andriy-bilous"
+     date: 2021-10-04
+   - title: "andriy-bilous2"
+     date: 2021-10-05
+   - title: "pawel-rusakiewicz"
+     date: 2021-10-05
+   
