@@ -2,7 +2,7 @@ name: "2022-melbourne" # The name of the event. Four digit year with the city na
 year: "2022" # The year of the event. Make sure it is in quotes.
 city: "Melbourne" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdownunder" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "Devopsdays is coming to Melbourne!" # Edit this to suit your preferences
+description: "Devopsdays is returning to Melbourne in March 2022!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2022-MM-DDTHH:MM:SS+TZ:TZ, like this:
@@ -39,7 +39,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: registration
  # - name: program
  # - name: speakers
-  - name: sponsor
+ # - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
@@ -49,29 +49,66 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
-  - name: "John Doe"
-  - name: "Jane Smith"
-    twitter: "devopsdays"
-  - name: "Sally Fields"
-    employer: "Acme Anvil Co."
-    github: "devopsdays"
-    facebook: "https://www.facebook.com/sally.fields"
-    linkedin: "https://www.linkedin.com/in/sallyfields"
-    website: "https://mattstratton.com"
-    image: "sally-fields.jpg"
+  - name: "Amanda Brown"
+    employer: ""
+    twitter: ""
+    bio: ""
+  - name: "Andy Kelk"
+    employer: ""
+    twitter: "andykelk"
+    bio: ""
+  - name: "Arjen Schwarz"
+    employer: ""
+    twitter: "arjenschwarz"
+    bio: ""
+  - name: "Celica Rowley"
+    employer: ""
+    twitter: ""
+    bio: ""
+  - name: "Fabian Iannarella"
+    employer: ""
+    twitter: "fiannarella"
+    bio: ""
+  - name: "James Pettigrove"
+    employer: "Digital61"
+    twitter: "dxpetti"
+    bio: ""
+  - name: "Jordan Kueh"
+    employer: ""
+    twitter: "jordankueh"
+    bio: ""
+  - name: "Lindsay Holmwood"
+    employer: ""
+    twitter: ""
+    bio: ""
+  - name: "Matt Jones"
+    employer: ""
+    twitter: ""
+    bio: ""
+  - name: "Mike Berry"
+    employer: ""
+    twitter: ""
+    bio: ""
+  - name: "Peter Hall"
+    employer: ""
+    twitter: "peterkh"
+    bio: ""
+  - name: "Radu Rosaru"
+    employer: ""
+    twitter: ""
+    bio: ""
+  - name: "Simon Richards"
+    employer: ""
+    twitter: ""
+    bio: ""
 
 organizer_email: "melbourne@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
-sponsors:
-  - id: samplesponsorname
-    level: gold
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  - id: arresteddevops
-    level: community
+sponsors: []
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -80,11 +117,17 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Gold
-#    max: 10
+    max: 3
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    max: 7
   - id: bronze
     label: Bronze
   - id: community
     label: Community
+  - id: lanyard
+    label: Lanyard
+    max: 1
+  - id: coffeecart
+    label: Coffee Cart
+    max: 1
