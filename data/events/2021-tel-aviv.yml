@@ -165,8 +165,6 @@ sponsors:
     url: http://cidersecurity.io # Use this if you need to over-ride a sponsor URL.
   - id: ermetic
     level: community 
-  - id: wix
-    level: community 
   - id: orbit
     level: community
   - id: livecycle
@@ -193,6 +191,16 @@ sponsors:
     level: community
   - id: wix 
     level: community
+  - id: linearb 
+    level: community
+  - id: logz 
+    level: community
+  - id: microsoft 
+    level: community
+  - id: spot-by-netapp 
+    level: community
+  - id: yotpo
+    level: community
   - id: livecycle
     level: other
   - id: aerospike
@@ -202,6 +210,8 @@ sponsors:
   - id: coralogix
     level: other
   - id: soluto
+    level: other
+  - id: hashicorp
     level: other
   - id: daily-dev
     level: media

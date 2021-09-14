@@ -151,8 +151,6 @@ sponsors:
     level: gold
   - id: alertops
     level: gold
-  - id: bigpanda
-    level: gold
   - id: basis
     level: silver
   - id: teleport
@@ -161,8 +159,6 @@ sponsors:
     level: silver
   - id: env0
     level: bronze
-  - id: stackhawk
-    level: gold
   - id: abs
     level: lunch
   - id: redhat
@@ -177,6 +173,10 @@ sponsors:
     level: breakfast
   - id: phoenixnap
     level: gold
+  - id: trilio
+    level: bronze
+  - id: circleci
+    level: bronze
     
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -240,7 +240,7 @@ program:
     type: workshop
     date: 2021-09-21
     start_time: "10:25"
-    end_time: "11:15"
+    end_time: "11:20"
     comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill"
   - title: "dan-lorenc"
     type: talk
@@ -267,7 +267,7 @@ program:
     type: workshop
     date: 2021-09-21
     start_time: "13:10"
-    end_time: "14:00"
+    end_time: "14:05"
     comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill"
   - title: "nick-hodges"
     type: talk
@@ -309,7 +309,7 @@ program:
     type: ignite
     date: 2021-09-21
     start_time: "16:35"
-    end_time: "17:10"
+    end_time: "16:50"
   - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2021-09-22
@@ -341,7 +341,7 @@ program:
     type: workshop
     date: 2021-09-22
     start_time: "10:25"
-    end_time: "11:15"
+    end_time: "11:20"
     comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill"
   - title: "ell-marquez"
     type: talk
@@ -379,7 +379,7 @@ program:
     type: workshop
     date: 2021-09-22
     start_time: "13:45"
-    end_time: "14:25"
+    end_time: "14:40"
     comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill"
   - title: "rob-richardson"
     type: talk

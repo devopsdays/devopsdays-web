@@ -92,6 +92,8 @@ sponsors:
    level: platinum
  - id: mattermost
    level: silver
+ - id: espace
+   level: gold
    
  #- id: amecse
  #  level: community

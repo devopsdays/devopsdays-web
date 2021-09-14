@@ -56,9 +56,9 @@ The best thing to do is send engineers to interact with the experts at devopsday
   </tr>
   <tr class="hed2">
     <td></td>
-    <td>$2,500 USD</td>
-    <td>$1,000 USD</td>
-    <td>$500 USD</td>
+    <td><a href="https://devopsdaysdc2021.busyconf.com/bookings/new?discount=SPONSOR">$2,500 USD</a></td>
+    <td><a href="https://devopsdaysdc2021.busyconf.com/bookings/new?discount=SPONSOR">$1,000 USD</a></td>
+    <td><a href="https://devopsdaysdc2021.busyconf.com/bookings/new?discount=SPONSOR">$500 USD</a></td>
     <td>$0 USD<!-- example cool stamp for closed/sold out status <span class="stamp">CLOSED</span>--></td>
     <td>$0 USD</td>
     <!-- captions is pending details <td>$2,500 USD</td> -->
@@ -119,6 +119,10 @@ The best thing to do is send engineers to interact with the experts at devopsday
   </tr>
   </tbody>
 </table>
+
+<br >
+
+## [Become a Sponsor](https://devopsdaysdc2021.busyconf.com/bookings/new?discount=SPONSOR)
 
 <!-- Uncomment and update this paragraph when we know more about special sponsorships?
 <hr/>
