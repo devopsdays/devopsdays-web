@@ -1,9 +1,9 @@
 +++
-Title = "Paweł Rusakiewicz"
+Title = "Jakub Warczarek"
 #Twitter = ""
 #image = ""
 type = "speaker"
-linktitle = "pawel-rusakiewicz"
+linktitle = "jakub-warczarek"
 +++
 
 #### Speaker
