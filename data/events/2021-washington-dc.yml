@@ -254,3 +254,5 @@ sponsor_levels:
 sponsors:
   - id: excella
     level: platinum
+  - id: cloudsmith
+    level: gold
