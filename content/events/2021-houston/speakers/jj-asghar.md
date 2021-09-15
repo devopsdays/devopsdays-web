@@ -4,7 +4,7 @@ Twitter = "jjasghar"
 image = "jj-asghar.png"
 type = "speaker"
 linktitle = "jj-asghar"
-LinkedIn = "https://www.linkedin.com/l/jjasghar"
+LinkedIn = "https://www.linkedin.com/in/jjasghar"
 sharing_image = "jj-asghar.png"
 
 +++
