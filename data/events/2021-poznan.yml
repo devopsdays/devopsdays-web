@@ -30,11 +30,11 @@ registration_link: "https://evenea.pl/pl/wydarzenie/872441-1" # If you have a cu
 
 # Location
 #
-coordinates: "52.40785, 16.95378" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Online in favourite place and hopefuly at PSNC!" # Defaults to city, but you can make it the venue name.
+#coordinates: "52.40785, 16.95378" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Online in your favourite place!" # Defaults to city, but you can make it the venue name.
 #
 
-location_address: "Poznań Supercomputing and Networking Center, Jana Pawła II 10, 61-139 Poznań" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+#location_address: "Poznań Supercomputing and Networking Center, Jana Pawła II 10, 61-139 Poznań" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 # sharing_image: "sharing.jpg"
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
@@ -298,6 +298,8 @@ ignites:
      date: 2021-10-04
    - title: "andriy-bilous2"
      date: 2021-10-05
-   - title: "pawel-rusakiewicz"
+   - title: "jakub-warczarek"
+     date: 2021-10-05
+   - title: "adarsh-shah"
      date: 2021-10-05
    
