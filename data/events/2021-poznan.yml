@@ -234,7 +234,7 @@ program:
     date: 2021-10-05
     start_time: "10:15"
     end_time: "10:50"
-  - title: "rafal-leszko"
+  - title: "hubert-poznanski"
     type: talk
     date: 2021-10-05
     start_time: "10:50"
@@ -259,7 +259,7 @@ program:
     date: 2021-10-05
     start_time: "13:20"
     end_time: "13:55"
-  - title: "hubert-poznanski"
+  - title: "adarsh-shah"
     type: talk
     date: 2021-10-05
     start_time: "13:55"
@@ -290,7 +290,5 @@ ignites:
    - title: "andriy-bilous2"
      date: 2021-10-05
    - title: "jakub-warczarek"
-     date: 2021-10-05
-   - title: "adarsh-shah"
      date: 2021-10-05
    
