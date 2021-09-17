@@ -134,6 +134,12 @@ program:
     date: 2021-09-20
     start_time: "12:00"
     end_time: "13:00"
+  - title: "DevOps Party Games"
+    type: custom
+    date: 2021-09-20
+    start_time: "12:00"
+    end_time: "13:00"
+    custom_url: "https://www.twitch.tv/devopspartygames"
   - title: "Ignites"
     type: ignite
     date: 2021-09-20
