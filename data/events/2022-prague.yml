@@ -34,7 +34,7 @@ location: "City Conference Center (KCC), Prague, Czech Republic" # Defaults to c
 location_address: "Na Strži 65/1702, Prague 4, 140 00" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-#  - name: propose
+  - name: propose
   - name: location
 #  - name: registration
 #  - name: program
