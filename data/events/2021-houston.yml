@@ -402,11 +402,10 @@ program:
     start_time: "16:00"
     end_time: "16:30"
   - title: "matthew-ostlind"
-    type: "workshop"
+    type: "talk"
     date: 2021-09-22
-    start_time: "16:00"
-    end_time: "16:55"
-    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill"
+    start_time: "13:35"
+    end_time: "14:15"
   - title: "rob-richardson"
     type: talk
     date: 2021-09-22
