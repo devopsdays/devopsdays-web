@@ -130,6 +130,8 @@ sponsors:
     level: platinum
   - id: launch-darkly
     level: alacarte
+  - id: river-point-technology
+    level: community
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
