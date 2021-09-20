@@ -1,18 +1,25 @@
 +++
 Title = "devopsdays Melbourne 2021"
 Type = "welcome"
-aliases = ["/events/2021-melbourne/"]
+aliases = ["/events/2021-melbourne/",
+"/events/2021-melbourne/location",
+"/events/2021-melbourne/propose",
+"/events/2021-melbourne/registration",
+"/events/2021-melbourne/sponsor"
+]
 Description = "devopsdays Melbourne 2021"
 +++
 
 <div class="row">
   <div class="alert alert-info" role="alert">
-    <h2>COVID-19</h2>
-    <h3>What happens if this event is cancelled due to COVID-19 restrictions?</h3>
-    <p>If the event needs to be cancelled due to government restrictions we will be happy to provide a full refund for all tickets purchased.</p>
-    <h3>What plans are in place to make sure this is a Covid safe event?</h3>
-    <p>We are following all the directions from the DHHS to make this event CovidSafe.
-    <br>In addition the Arts Centre has a comprehensive CovidSafe plan with a number of health and saftey precautions in place. You can read about this in more detail on their website - The Arts Centre Melbourne CovidSafe visitor guide</p>
+    <h2>Event Cancelled</h2>
+    <h3>What happened?</h3>
+    <p>Due to the current government restrictions in place across the Greater Melbourne area, we are unfortunately cancelling the 2021 event for DevOpsDays Melbourne.
+    <br>All sponsors, proposed speakers and ticketholders have been contacted and offered a full refund. If you have not been contacted already, please hit the 'Contact' button below and get in touch.
+    </p>
+    <h3>Will DevOpsDays Melbourne take place at a later date?</h3>
+    <p>Absolutely! The organizing team is committed to make this in-person event a reality. Please stay tuned to our websites and social media for the upcoming news on the DevOpsDays Melbourne 2022 event tenatively scheduled for mid March.
+    <br>Thank you to all sponsors, speakers and ticketholders thus far. We cannot wait to get this party started soon.</p>
   </div>
 </div>
 
@@ -74,14 +81,14 @@ Description = "devopsdays Melbourne 2021"
   </div>
 </div> -->
 
-<div class = "row">
+<!--div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="sponsor" text="Sponsor the conference!" >}}
   </div>
-</div>
+</div> -->
 
 <div class = "row">
   <div class = "col-md-2">

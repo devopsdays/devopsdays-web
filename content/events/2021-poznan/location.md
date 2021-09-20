@@ -4,6 +4,6 @@ Type = "event"
 Description = "Location for DevOpsDays Poznań 2021"
 +++
 
-**The event will be held in a hybrid mode: both online and on-site in PSNC.**
+**The event will be held on-line**
 
 {{< event_map >}}

@@ -86,7 +86,7 @@ team_members: # Name is the only required field for team members.
     image: "derekbuckley.jpg"
 
   - name: "Aaron Aldrich"
-    bio: "Aaron Aldrich is a Developer Advocate at LaunchDarkly, Founding organizer of DevOpsDays Hartford, and frequent DevOpsDays organizer and participant all over. When not talking about DevOps and Resilience Engineering, you can find him talking about Mental Health with osmi-help.org or running Emotional Intelligence workshops with EmotionalAPI.com. Find him on twitter @crayzeigh for general nonsense and tomfoolery."
+    bio: "Aaron Aldrich is creator and host of Tabletop DevOps streaming occaisionally on twitch.tv/desertedislandtv, and an organizer for DevOpsDays Hartford, NYC and Boston. Passionate about Resilience Engineering and Mental Health in the tech industry, they believe that every technology problem is ultimately, when you get right down to it, a people challenge. Find them at crayzeigh.com for thoughts on technology and people or on twitter @CrayZeigh for a potluck of technology, politics and general tomfoolery."
     twitter: "crayzeigh"
     github: "crayzeigh"
     website: "https://speaking.crayzeigh.com/"

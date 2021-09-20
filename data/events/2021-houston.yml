@@ -94,7 +94,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "http://www.linkedin.com/in/vnvdevops"
     twitter: "https://twitter.com/sagarvnvdevops"
     image: "sagar-karmarkar.jpg"
-    bio: "Sagar Karmarkar is an Enterprise DevOps Evangelist with over 24 years of experience in Software Engineering, Software Change/Release Management, Software Testing, and IT Operations. Sagar has held senior technology roles at large enterprises such as Compuware, GE Healthcare, JP Morgan, Fidelity Investments, Home Depot, JCPenney and AIG. Sagar is currently a DevOps Architect at cPrime. He provides guidance to clients looking to move towards a DevOps or DevSecOps model. He is also a SAFe Program Consultant and provides training and guidance to technology teams around scaling Agile practices. He has lived in Katy, TX for the last 14 years and has two children that keep him on his toes."
+    bio: "Sagar Karmarkar is an Enterprise DevOps Evangelist with over 25 years of experience in Software Engineering, Software Change/Release Management, Software Testing, and IT Operations. Sagar has held senior technology roles at large enterprises such as Compuware, GE Healthcare, JP Morgan, Fidelity Investments, Home Depot, JCPenney and AIG. Sagar is currently a Release & Automation Manager at Tokio Marine HCC. He is also a SAFe Program Consultant and provides training and guidance to technology teams around scaling Agile practices. He has lived in Katy, TX for the last 17 years."
   - name: "Svetlana Kryukova"
     employer: "Two Sigma Solutions"
     linkedin: "https://www.linkedin.com/in/svetlana-kryukova/"
@@ -173,6 +173,10 @@ sponsors:
     level: breakfast
   - id: phoenixnap
     level: gold
+  - id: trilio
+    level: bronze
+  - id: circleci
+    level: bronze
     
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -243,17 +247,17 @@ program:
     date: 2021-09-21
     start_time: "11:05"
     end_time: "11:35"
-  - title: "Open Space (Attendee Led Breakout Session) Organizing"
-    type: custom
-    date: 2021-09-21
-    start_time: "11:40"
-    end_time: "12:00"
-    background_color: "#D0D0D0"
   - title: "Lunch, Visit Sponsor Booths"
     type: "custom"
     date: 2021-09-21
-    start_time: "12:00"
+    start_time: "11:40"
+    end_time: "12:40"
+  - title: "Open Space (Attendee Led Breakout Session) Organizing"
+    type: custom
+    date: 2021-09-21
+    start_time: "12:40"
     end_time: "13:00"
+    background_color: "#D0D0D0"
   - title: "aakash-shah"
     type: talk
     date: 2021-09-21
@@ -350,69 +354,69 @@ program:
     start_time: "11:35"
     end_time: "12:30"
     comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill"
-  - title: "tech-talk-8-noaa-barki"
+  - title: "jj-asghar"
     type: talk
     date: 2021-09-22
     start_time: "11:45"
     end_time: "12:15"
-  - title: "Open Space (Attendee Led Breakout Session) Organizing"
-    type: custom
-    date: 2021-09-22
-    start_time: "12:35"
-    end_time: "12:50"
-    background_color: "#D0D0D0"
   - title: "Lunch, Visit Sponsor Booths"
     type: "custom"
     date: 2021-09-22
-    start_time: "12:50"
-    end_time: "13:30"
-  - title: "vishnu-vasudevan"
-    type: talk
+    start_time: "12:20"
+    end_time: "13:15"
+  - title: "Open Space (Attendee Led Breakout Session) Organizing"
+    type: custom
     date: 2021-09-22
-    start_time: "13:35"
-    end_time: "14:05"
+    start_time: "13:15"
+    end_time: "13:30"
+    background_color: "#D0D0D0"
   - title: "raghavan-srinivas"
     type: workshop
     date: 2021-09-22
-    start_time: "13:45"
-    end_time: "14:40"
+    start_time: "13:35"
+    end_time: "14:30"
     comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill"
-  - title: "rob-richardson"
-    type: talk
+  - title: "Visit Sponsor Booths & Interact with Community"
+    type: "custom"
     date: 2021-09-22
-    start_time: "14:15"
+    start_time: "13:35"
     end_time: "14:45"
   - title: "Open Space Intro"
     type: open-space
     date: 2021-09-22
-    start_time: "14:55"
-    end_time: "15:00"
+    start_time: "14:45"
+    end_time: "14:50"
   - title: "Open Space (Attendee Led Breakout Session) #1"
     type: open-space
     date: 2021-09-22
-    start_time: "15:00"
-    end_time: "15:30"
+    start_time: "14:50"
+    end_time: "15:20"
   - title: "Open Space (Attendee Led Breakout Session) #2"
     type: open-space
     date: 2021-09-22
-    start_time: "15:35"
-    end_time: "16:05"
-  - title: "Visit Sponsor Booths"
-    type: "custom"
+    start_time: "15:25"
+    end_time: "15:55"
+  - title: "vishnu-vasudevan"
+    type: talk
     date: 2021-09-22
-    start_time: "16:10"
-    end_time: "17:10"
+    start_time: "16:00"
+    end_time: "16:30"
   - title: "matthew-ostlind"
     type: "workshop"
     date: 2021-09-22
-    start_time: "16:10"
-    end_time: "17:05"
+    start_time: "16:00"
+    end_time: "16:55"
     comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill"
+  - title: "rob-richardson"
+    type: talk
+    date: 2021-09-22
+    start_time: "16:40"
+    end_time: "17:10"
   - title: "Program Close"
     type: custom
     date: 2021-09-22
-    start_time: "17:10"
-    end_time: "17:20"
+    start_time: "17:15"
+    end_time: "17:25"
     background_color: "#D0D0D0"   
     
 ignites:
