@@ -370,6 +370,11 @@ program:
     start_time: "13:15"
     end_time: "13:30"
     background_color: "#D0D0D0"
+  - title: "matthew-ostlind"
+    type: "talk"
+    date: 2021-09-22
+    start_time: "13:35"
+    end_time: "14:15"
   - title: "raghavan-srinivas"
     type: workshop
     date: 2021-09-22
@@ -379,7 +384,7 @@ program:
   - title: "Visit Sponsor Booths & Interact with Community"
     type: "custom"
     date: 2021-09-22
-    start_time: "13:35"
+    start_time: "14:15"
     end_time: "14:45"
   - title: "Open Space Intro"
     type: open-space
@@ -401,12 +406,6 @@ program:
     date: 2021-09-22
     start_time: "16:00"
     end_time: "16:30"
-  - title: "matthew-ostlind"
-    type: "workshop"
-    date: 2021-09-22
-    start_time: "16:00"
-    end_time: "16:55"
-    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill"
   - title: "rob-richardson"
     type: talk
     date: 2021-09-22
