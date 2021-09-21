@@ -13,7 +13,7 @@ Thanks for joining!
 <div style="height:600px;width:100%;overflow:hidden;resize:both">
     <iframe
         style="height:100%;width:100%"
-        src="https://www.youtube.com/embed/BNDI4Nq0mXs"
+        src="https://www.youtube.com/embed/KtR66XGlhbw"
         title="YouTube video player"
         description="Live DevOpsDays PDX 2021 stream"
         frameborder="0"
