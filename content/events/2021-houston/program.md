@@ -9,7 +9,6 @@ sharing_image = "sharing.jpg"
 <div class = "row">
   <div class = "col">
     <hr />
-    <large><b>NOTE</b>: The program is almost ready, take a look! And please check this page again closer to the event for up-to-date schedule.</large>
     <hr />
     If Open Space is new to you, you may be interested in <a href="/pages/open-space-format">more details about Open Space</a>.
     <hr />
