@@ -256,3 +256,5 @@ sponsors:
     level: platinum
   - id: cloudsmith
     level: gold
+  - id: launch-darkly-government
+    level: gold
