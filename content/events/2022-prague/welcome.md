@@ -1,33 +1,36 @@
 +++
-Title = "Devopsdays Prague 2021"
+Title = "Devopsdays Prague 2022"
 Type = "welcome"
-aliases = ["/events/2021-prague/",
+aliases = ["/events/2022-prague/",
+  "/events/2021-prague/",
+  "/events/2021-prague/welcome",
   "/events/2020-prague/",
   "/events/2020-prague/welcome"]
-Description = "Devopsdays Prague 2021"
+Description = "Devopsdays Prague 2022"
 +++
 
 <div class = "row">
   <div class = "col-md-6 push-md-6">
-    <b> DevOpsDays Prague was postponed because of the covid-19 situation and currently doesn't have a set date. We will announce it as soon as it will be safe to organize the event.
+    <b> The first DevOpsDays Prague was postponed because of the covid-19 situation but we are back on track and getting the event ready for you. CFP is open again to include new topics introduced after the original date. We are looking forward to see you all there!
+    <br><br>
     All tickets and arrangements from the original event are still valid.</b>
     <br><br>
     The format of DevOpsDays includes a single track of 30 minute talks in the morning of each day, followed by Ignite talks (5 minute lightning talks). We spend the rest of the afternoon in Open Spaces, which are considered a key portion of the event.
   </div>
-  <div class = "col-md-6 push-md-6">
+<!--  <div class = "col-md-6 push-md-6">
     <div style="text-align:center;">
       {{< event_logo >}}
     </div>
-  </div>
+  </div> -->
 </div>
-<!--<div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Dates</strong>
   </div>
   <div class = "col-md-8">
     {{< event_start >}} - {{< event_end >}}
   </div>
-</div>  -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -47,14 +50,14 @@ Description = "Devopsdays Prague 2021"
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    <a href="https://www.papercall.io/dev-ops-days-prague">Propose a talk!</a>
+    <a href="https://www.papercall.io/devopsdays-prague-2022">Propose a talk!</a>
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">

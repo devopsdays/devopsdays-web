@@ -1,8 +1,8 @@
 +++
 Title = "Propose"
 Type = "event"
-aliases = ["/events/2020-prague/propose"]
-Description = "Propose a talk for Devopsdays Prague 2021"
+aliases = ["/events/2020-prague/propose", "/events/2021-prague/propose"]
+Description = "Propose a talk for Devopsdays Prague 2022"
 +++
   {{< cfp_dates >}}
 
@@ -28,4 +28,4 @@ Choosing talks is part art, part science; here are some factors we consider when
 
 <hr>
 
-<strong>How to submit a proposal:</strong> Go to the <a href="https://www.papercall.io/dev-ops-days-prague" alt="CFP link">CFP page</a> and submit a proposal!
+<strong>How to submit a proposal:</strong> Go to the <a href="https://www.papercall.io/devopsdays-prague-2022" alt="CFP link">CFP page</a> and submit a proposal!

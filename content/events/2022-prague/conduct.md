@@ -1,12 +1,12 @@
 +++
 Title = "Conduct"
 Type = "event"
-aliases = ["/events/2020-prague/conduct"]
-Description = "Code of conduct for devopsdays Prague 2021"
+aliases = ["/events/2020-prague/conduct", "/events/2021-prague/conduct"]
+Description = "Code of conduct for devopsdays Prague 2022"
 +++
 
 
-All attendees, speakers, sponsors, and volunteers at devopsdays Prague 2020 are required to agree with the following code of conduct. Organizers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensure a safe environment for everybody.
+All attendees, speakers, sponsors, and volunteers at devopsdays Prague 2022 are required to agree with the following code of conduct. Organizers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensure a safe environment for everybody.
 
 ### The Quick Version
 
