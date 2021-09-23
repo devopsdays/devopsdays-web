@@ -254,6 +254,8 @@ sponsor_levels:
 sponsors:
   - id: excella
     level: platinum
+  - id: aviatrix
+    level: platinum
   - id: cloudsmith
     level: gold
   - id: launch-darkly-government
