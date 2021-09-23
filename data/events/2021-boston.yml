@@ -160,32 +160,32 @@ program:
     type: talk
     date: 2021-09-27
     start_time: "09:20"
-    end_time: "09:50"
+    end_time: "10:00"
   - title: "eric-smalling"
     type: talk
     date: 2021-09-27
-    start_time: "09:55"
-    end_time: "10:25"
+    start_time: "10:05"
+    end_time: "10:45"
   - title: "shelby-spees"
     type: talk
     date: 2021-09-27
-    start_time: "10:30"
-    end_time: "11:00"
+    start_time: "10:50"
+    end_time: "11:30"
   - title: "mofizur-rahman"
     type: talk
     date: 2021-09-27
-    start_time: "11:05"
-    end_time: "11:35"
+    start_time: "11:35"
+    end_time: "12:15"
   - title: "angel-rivera"
     type: talk
     date: 2021-09-27
-    start_time: "11:40"
-    end_time: "12:10"
+    start_time: "12:20"
+    end_time: "13:00"
   - title: "Day 1 Wrap-Up"
     type: custom
     date: 2021-09-27
-    start_time: "12:15"
-    end_time: "12:30"
+    start_time: "13:30"
+    end_time: "13:45"
 
   # Day 2
   - title: "Introduction"
@@ -197,29 +197,29 @@ program:
     type: talk
     date: 2021-09-28
     start_time: "09:20"
-    end_time: "09:50"
+    end_time: "10:00"
   - title: "ben-ellerby"
     type: talk
     date: 2021-09-28
-    start_time: "09:55"
-    end_time: "10:25"
+    start_time: "10:05"
+    end_time: "10:45"
   - title: "chris-riley"
     type: talk
     date: 2021-09-28
-    start_time: "10:30"
-    end_time: "11:00"
+    start_time: "10:50"
+    end_time: "11:30"
   - title: "anurag-gupta"
     type: talk
     date: 2021-09-28
-    start_time: "11:05"
-    end_time: "11:35"
+    start_time: "11:35"
+    end_time: "12:15"
   - title: "josh-stella"
     type: talk
     date: 2021-09-28
-    start_time: "11:40"
-    end_time: "12:10"
+    start_time: "12:20"
+    end_time: "13:00"
   - title: "Day 2 Wrap-Up"
     type: custom
     date: 2021-09-28
-    start_time: "12:15"
-    end_time: "12:30"
+    start_time: "13:30"
+    end_time: "13:45"
