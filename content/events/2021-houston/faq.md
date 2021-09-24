@@ -64,5 +64,5 @@ Check the <a href="/events/2021-houston/program/">event program</a>. <br/>
 <h5>Twitter & LinkedIn Announcements</h5>
 Before, during and after the event you can get announcments and stay in touch with us by following us on <a href="https://twitter.com/DevOpsDaysHTown">Twitter</a> or <a href="https://www.linkedin.com/company/devopsdays-houston">LinkedIn</a>.
 <h5>Slack Collaboration</h5>
-Sign up for our Slack workspace <a href="https://join.slack.com/t/houstondevops/shared_invite/enQtNTk0NzgyMDI0MTc4LTk1MTVmYTA0NGYzNTg5YTIxNGMwNTljZjc1OWJiNWU2OWZiZGRjZTc3MjllODVlYzJjMDE4MzYyNWYxMjE2Mjg">Houston DevOps</a>: stay up to date on shared links and slides as event progresses, get answers to your questions from organizers, get help from volunteers, or connect with other attendees in real time.
+Sign up for our Slack workspace <a href="https://join.slack.com/t/houstondevops/shared_invite/enQtNzIyMzk1MTIyOTYwLTFmMWI0NTg3YzE3M2Q2MDY0NjE5MjNjMTdhZWI5ODFkOWU0YzM1M2QwOGI3OGQ2NGJjNzcxOTU5NmY4OTA4NzI">Houston DevOps</a>: stay up to date on shared links and slides as event progresses, get answers to your questions from organizers, get help from volunteers, or connect with other attendees in real time.
 

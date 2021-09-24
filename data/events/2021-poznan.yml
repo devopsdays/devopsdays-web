@@ -30,11 +30,11 @@ registration_link: "https://evenea.pl/pl/wydarzenie/872441-1" # If you have a cu
 
 # Location
 #
-coordinates: "52.40785, 16.95378" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Online in favourite place and hopefuly at PSNC!" # Defaults to city, but you can make it the venue name.
+#coordinates: "52.40785, 16.95378" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Online in your favourite place!" # Defaults to city, but you can make it the venue name.
 #
 
-location_address: "Poznań Supercomputing and Networking Center, Jana Pawła II 10, 61-139 Poznań" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+#location_address: "Poznań Supercomputing and Networking Center, Jana Pawła II 10, 61-139 Poznań" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 # sharing_image: "sharing.jpg"
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
@@ -145,17 +145,8 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: gold
-    label: Gold
-    max: 2
-  - id: silver
-    label: Silver
-    max: 3 # This is the same as omitting the max limit.
-  - id: bronze
-    label: Bronze
-    max: 4
-  - id: community
-    label: Community
+  - id: partner
+    label: Partner
   - id: organizing
     label: Organizing
     max: 100
@@ -243,7 +234,7 @@ program:
     date: 2021-10-05
     start_time: "10:15"
     end_time: "10:50"
-  - title: "rafal-leszko"
+  - title: "hubert-poznanski"
     type: talk
     date: 2021-10-05
     start_time: "10:50"
@@ -268,7 +259,7 @@ program:
     date: 2021-10-05
     start_time: "13:20"
     end_time: "13:55"
-  - title: "hubert-poznanski"
+  - title: "adarsh-shah"
     type: talk
     date: 2021-10-05
     start_time: "13:55"
@@ -290,11 +281,14 @@ program:
     end_time: "16:00"
 
 ignites:
-   - title: "bartlomiej-sliwinski"
-     date: 2021-05-24
-  # - title: "lukasz-garczewski"
-  #   date: 2021-05-24
-  # - title: "jagoda-sateja"
-  #   date: 2021-05-24
-  # - title: "bob-walker"
-  #   date: 2021-10-05
+   - title: "pawel-sztromwasser"
+     date: 2021-10-04
+   - title: "prithvi-raj"
+     date: 2021-10-04
+   - title: "andriy-bilous"
+     date: 2021-10-04
+   - title: "andriy-bilous2"
+     date: 2021-10-05
+   - title: "jakub-warczarek"
+     date: 2021-10-05
+   

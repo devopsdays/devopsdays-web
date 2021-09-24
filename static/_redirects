@@ -1,7 +1,7 @@
 /amsterdam/*		/events/2022-amsterdam/:splat		302
 /aracaju/*		/events/2019-aracaju/:splat		302
 /atlanta/*		/events/2022-atlanta/:splat		302
-/austin/*		/events/2020-austin/:splat		302
+/austin/*		/events/2022-austin/:splat		302
 /baku/*			/events/2019-baku/:splat		302
 /baltimore/*		/events/2020-baltimore/:splat		302
 /barcelona/*		/events/2013-barcelona/:splat		302
@@ -154,7 +154,7 @@
 /miami/*            /events/2020-miami/:splat           302
 /luanda/*            /events/2020-luanda/:splat           302
 /criciuma/*            /events/2020-criciuma/:splat           302
-/melbourne/*            /events/2021-melbourne/:splat           302
+/melbourne/*            /events/2022-melbourne/:splat           302
 /ankara/*            /events/2020-ankara/:splat           302
 /lima/*            /events/2020-lima/:splat           302
 /rosario/*            /events/2020-rosario/:splat           302
