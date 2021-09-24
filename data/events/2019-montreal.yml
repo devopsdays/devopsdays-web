@@ -20,8 +20,8 @@ cfp_date_announce: 2019-10-01T00:00:00-04:00 # inform proposers of status
 
 cfp_link: "https://www.papercall.io/cfps/2551/submissions/new" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: 2019-07-29T00:00:00-04:00# start accepting registration. Leave blank if registration is not open yet
-registration_date_end: 2019-11-04T20:00:00-04:00# close registration. Leave blank if registration is not open yet.
+registration_date_start: 2019-07-29T00:00:00-04:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2019-11-04T20:00:00-04:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "false" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://www.eiseverywhere.com/devopsdaysmontreal2019" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
