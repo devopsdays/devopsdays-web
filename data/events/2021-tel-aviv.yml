@@ -201,6 +201,8 @@ sponsors:
     level: community
   - id: yotpo
     level: community
+  - id: snyk
+    level: community
   - id: livecycle
     level: other
   - id: aerospike
@@ -232,6 +234,8 @@ sponsor_levels:
     label: Community Pillar
   - id: other 
     label: Goodies, Food & Swag
+  - id: branding 
+    label: Community Support
 #    max: 10
   - id: media
     label: Media Partner
