@@ -36,7 +36,7 @@ Description = "Agenda for DevOpsDays Cairo 2021"
 <p style='margin-top:2.0pt;margin-right:0in;margin-bottom:.0001pt;margin-left:0in;font-size:12px;font-family:"Calibri",sans-serif;color:#5B9BD5;'><br></p>
 <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong style='font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:107%;font-family:"Arial Rounded MT Bold",sans-serif;color:#2F5496;'>DevOpsDays Cairo 2021 Conference Program</span></strong></p>
 <p><br></p>
-<table style="width:100.0%;margin-left:-27.25pt;border-collapse:collapse;border:none;">
+<table style="width:80.0%;border-collapse:collapse;border:none;">
     <tbody>
         <tr>
             <td style="background: rgb(233, 175, 89);padding: 0in 5.4pt;vertical-align: top;">
