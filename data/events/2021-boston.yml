@@ -288,7 +288,7 @@ program:
     date: 2021-09-28
     start_time: "12:15"
     end_time: "12:45"
-  - title: "Breakout with Coralogix"
+  - title: "How to process 500,000 real-time events per second in Kafka: Breakout with Coralogix"
     date: 2021-09-28
     type: custom
     start_time: "12:20"
