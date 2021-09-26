@@ -69,6 +69,8 @@ and adapt to the most recent guidelines leading up to the event.
 Furthermore, a virtual option will be available for those who would 
 prefer to limit contact with others.</p>
 
+<p><b><i>Due to anticipated changes to the COVID-19 guidelines, we will be requiring attendees to wear masks and maintain social distancing during the on-premise portion of the event.</i></b></p>
+
 <p><strong>Related:</strong></p>
 <ul>
   <li><a href="https://www.cdc.gov/coronavirus/2019-ncov/index.html" target="_blank">Center for Disease Control</a></li>
