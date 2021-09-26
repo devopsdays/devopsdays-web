@@ -11,10 +11,13 @@ is the captioning](https://www.streamtext.net/player?event=DevOpsPortland).
 Thanks for joining!
 
 <div style="height:600px;width:100%;overflow:hidden;resize:both">
-    <iframe 
-        src=""
+    <iframe
+        style="height:100%;width:100%"
+        src="https://www.youtube.com/embed/KtR66XGlhbw"
+        title="YouTube video player"
         description="Live DevOpsDays PDX 2021 stream"
-        style="height:100%;width:100%">
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
     </iframe>
 </div>
 <br />

@@ -191,12 +191,12 @@ program:
     type: talk
     date: 2021-09-21
     start_time: "10:10"
-    end_time: "10:30"
-  - title: "Q&A with Ceora Ford in Discord"
+    end_time: "10:25"
+  - title: "Panel on learning techniques in Discord"
     type: custom
     date: 2021-09-21
-    start_time: "10:30"
-    end_time: "10:40"
+    start_time: "10:25"
+    end_time: "10:35"
   - title: "quintessence-anx"
     type: talk
     date: 2021-09-21
@@ -210,13 +210,13 @@ program:
   - title: "jerome-comeau"
     type: talk
     date: 2021-09-21
-    start_time: "11:25"
-    end_time: "11:45"
+    start_time: "11:20"
+    end_time: "11:40"
   - title: "Q&A with Jerome Comeau in Discord"
     type: custom
     date: 2021-09-21
-    start_time: "11:45"
-    end_time: "11:55"
+    start_time: "11:40"
+    end_time: "11:50"
   - title: "Break for lunch"
     type: custom
     date: 2021-09-21
@@ -226,12 +226,12 @@ program:
     type: ignite
     date: 2021-09-21
     start_time: "13:00"
-    end_time: "13:25"
+    end_time: "13:30"
   - title: "Open Space Kickoff"
     type: custom
     date: 2021-09-21
     start_time: "13:30"
-    end_time: "13:40"
+    end_time: "13:45"
   - title: "Open Space #1"
     type: custom
     date: 2021-09-21
