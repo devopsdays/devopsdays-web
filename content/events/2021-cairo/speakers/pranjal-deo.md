@@ -13,4 +13,4 @@ Featured in and contributed to "Grow with Google Career Certificates" published 
 
 Co-authored two O'Reilly publications: "Engineering Reliable Mobile Applications" and "Site Reliability Workbook"
 
-Speaker @DevOpsDays Portugal (Keynote), All Day Devops, CONF42: Chaos Engineering, DevOpsDays Kraków, NADOG, DevOpsDays Stockholm, DevOpsDays Istanbul, DevOpsDays Warsaw, DevOpsDays Blumenau, Conf42: Site Reliability Engineering, Brave World Estonia, DevOps Lisbon, 
+Speaker @DevOpsDays Portugal (Keynote), All Day Devops, CONF42: Chaos Engineering, DevOpsDays Kraków, NADOG, DevOpsDays Stockholm, DevOpsDays Istanbul, DevOpsDays Warsaw, DevOpsDays Blumenau, Conf42: Site Reliability Engineering, Brave World Estonia, DevOps Lisbon, and DevOpsDay Cairo.
