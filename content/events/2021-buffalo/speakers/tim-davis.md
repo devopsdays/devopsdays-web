@@ -2,7 +2,7 @@
 Title = "Tim Davis"
 Twitter = "vTimD"
 LinkedIn = "https://www.linkedin.com/in/vtimd/"
-image = ""
+image = "tim-davis.jpeg"
 type = "speaker"
 linktitle = "tim-davis"
 
