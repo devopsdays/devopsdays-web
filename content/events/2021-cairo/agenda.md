@@ -38,7 +38,6 @@ Description = "Agenda for DevOpsDays Cairo 2021"
 <p><br></p>
 
 <table style="width:90.0%;border-collapse:collapse;border:none;">
-
     <tbody>
         <tr>
             <td style="background: rgb(233, 175, 89);padding: 0in 5.4pt;vertical-align: top;">
