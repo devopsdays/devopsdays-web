@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Develop Yourself and Uplift Others"
+Title = "[Guided Open Space] Develop Yourself and Uplift Others"
 Type = "talk"
 Speakers = ["thomas-haver"]
 +++

@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "I help people learn to read the room, identify toxic relationships and rise above the chaos"
+Title = "[Guided Open Space] I help people learn to read the room, identify toxic relationships and rise above the chaos"
 Type = "talk"
 Speakers = ["lynn-catalano"]
 +++
