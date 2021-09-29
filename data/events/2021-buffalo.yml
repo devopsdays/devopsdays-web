@@ -140,198 +140,168 @@ sponsor_levels:
     label: Community
 
 program:
-  - title: "jason-yee"
+  - title: "Virtual Arrival and Opening Remarks"
+    type: custom
+    date: 2021-10-13
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "shimon-tolts"
+    type: talk
+    date: 2021-10-13
+    start_time: "14:00"
+    end_time: "14:25"
+  - title: "jerren-every"
     type: talk
     date: 2021-10-13
     start_time: "14:30"
     end_time: "14:55"
-  # - title: "Sponsor Message"
-  #   type: custom
-  #   date: 2021-10-13
-  #   start_time: "14:55"
-  #   end_time: "15:00"
   - title: "dewan-ahmed"
     type: talk
     date: 2021-10-13
     start_time: "15:00"
     end_time: "15:25"
-  # - title: "Sponsor Message"
-  #   type: custom
-  #   date: 2021-10-13
-  #   start_time: "15:25"
-  #   end_time: "15:30"
   - title: "ben-greenberg"
     type: talk
     date: 2021-10-13
     start_time: "15:30"
     end_time: "15:55"
+  - title: "Intermission - Drive time to Transit Drive-In"
+    type: custom
+    date: 2021-10-13
+    start_time: "16:00"
+    end_time: "17:30"
+  - title: "Attendee Arrival, In-person Registration, and Dinner"
+    type: custom
+    date: 2021-10-13
+    start_time: "17:30"
+    end_time: "18:00"
+  - title: "lynn-catalano"
+    type: talk
+    date: 2021-10-13
+    start_time: "18:00"
+    end_time: "18:30"
+    background_color: "#FFCC99"
+  - title: "Open Space Session 1"
+    type: open-space
+    date: 2021-10-13
+    start_time: "18:00"
+    end_time: "18:30"
+    background_color: "#FFCC99"
+  - title: "Open Space Session 2"
+    type: open-space
+    date: 2021-10-13
+    start_time: "18:30"
+    end_time: "19:00"
+    background_color: "#FFCC99"
+  - title: "jason-yee"
+    type: talk
+    date: 2021-10-13
+    start_time: "19:00"
+    end_time: "19:25"
+  - title: "adarsh-shah"
+    type: talk
+    date: 2021-10-13
+    start_time: "19:30"
+    end_time: "19:55"
+  - title: "dave-mcallister"
+    type: talk
+    date: 2021-10-13
+    start_time: "20:00"
+    end_time: "20:25"
+  - title: "thomas-haver"
+    type: talk
+    date: 2021-10-13
+    start_time: "20:30"
+    end_time: "20:55"
+  - title: "aaron-aldrich"
+    type: talk
+    date: 2021-10-13
+    start_time: "21:00"
+    end_time: "21:25"
+  - title: "Networking Event"
+    type: custom
+    date: 2021-10-13
+    start_time: "21:25"
+    end_time: "22:00"
+  - title: "pj-hagerty"
+    type: talk
+    date: 2021-10-14
+    start_time: "14:00"
+    end_time: "14:25"
+  - title: "itiel-shwartz"
+    type: talk
+    date: 2021-10-14
+    start_time: "14:30"
+    end_time: "14:55"
+  - title: "matt-yonkovit"
+    type: talk
+    date: 2021-10-14
+    start_time: "15:00"
+    end_time: "15:25"
+  - title: "josh-stella"
+    type: talk
+    date: 2021-10-14
+    start_time: "15:30"
+    end_time: "15:55"
   - title: "Lightning Talks"
     type: ignite
-    date: 2021-10-13
+    date: 2021-10-14
     start_time: "16:00"
     end_time: "16:25"
     block: "ignite"
   - title: "Intermission - Drive time to Transit Drive-In"
     type: custom
-    date: 2021-10-13
-    start_time: "16:25"
-    end_time: "18:00"
-  - title: "Attendee arrival and dinner"
-    type: custom
-    date: 2021-10-13
-    start_time: "18:00"
-    end_time: "18:30"
-  - title: "lynn-catalano"
-    type: talk
-    date: 2021-10-13
-    start_time: "18:30"
-    end_time: "19:00"
-    background_color: "#FFCC99"
-  - title: "Open Space Session 1"
-    type: open-space
-    date: 2021-10-13
-    start_time: "18:30"
-    end_time: "19:00"
-    background_color: "#FFCC99"
-  - title: "Open Space Session 2"
-    type: open-space
-    date: 2021-10-13
-    start_time: "19:00"
-    end_time: "19:30"
-    background_color: "#FFCC99"
-  - title: "jerren-every"
-    type: talk
-    date: 2021-10-13
-    start_time: "19:30"
-    end_time: "19:55"
-  # - title: "Sponsor Message"
-  #   type: custom
-  #   date: 2021-10-13
-  #   start_time: "19:55"
-    end_time: "20:00"
-  - title: "adarsh-shah"
-    type: talk
-    date: 2021-10-13
-    start_time: "20:00"
-    end_time: "20:25"
-  # - title: "Sponsor Message"
-  #   type: custom
-  #   date: 2021-10-13
-  #   start_time: "20:25"
-  #   end_time: "20:30"
-  - title: "aaron-aldrich"
-    type: talk
-    date: 2021-10-13
-    start_time: "20:30"
-    end_time: "20:55"
-  # - title: "Sponsor Message"
-  #   type: custom
-  #   date: 2021-10-13
-  #   start_time: "20:55"
-  #   end_time: "21:00"
-  - title: "thomas-haver"
-    type: talk
-    date: 2021-10-13
-    start_time: "21:00"
-    end_time: "21:25"
-  # - title: "Sponsor Message"
-  #   type: custom
-  #   date: 2021-10-13
-  #   start_time: "21:25"
-  #   end_time: "21:30"
-  - title: "dave-mcallister"
-    type: talk
-    date: 2021-10-13
-    start_time: "21:30"
-    end_time: "21:55"
-  - title: "Networking Event"
-    type: custom
-    date: 2021-10-13
-    start_time: "21:55"
-    end_time: "23:00"
-  - title: "pj-hagerty"
-    type: talk
-    date: 2021-10-14
-    start_time: "14:30"
-    end_time: "14:55"
-  # - title: "Sponsor Message"
-  #   type: custom
-  #   date: 2021-10-14
-  #   start_time: "14:55"
-  #   end_time: "15:00"
-  - title: "itiel-shwartz"
-    type: talk
-    date: 2021-10-14
-    start_time: "15:00"
-    end_time: "15:25"
-  # - title: "Sponsor Message"
-  #   type: custom
-  #   date: 2021-10-14
-  #   start_time: "15:25"
-  #   end_time: "15:30"
-  - title: "matt-yonkovit"
-    type: talk
-    date: 2021-10-14
-    start_time: "15:30"
-    end_time: "15:55"
-  - title: "josh-stella"
-    type: talk
-    date: 2021-10-14
-    start_time: "16:00"
-    end_time: "16:25"
-  - title: "Intermission - Drive time to Transit Drive-In"
-    type: custom
     date: 2021-10-14
     start_time: "16:25"
-    end_time: "18:00"
-  - title: "Attendee arrival and dinner"
+    end_time: "17:30"
+  - title: "Attendee Arrival, In-person Registration, and Dinner"
     type: custom
     date: 2021-10-14
-    start_time: "18:00"
-    end_time: "18:30"
+    start_time: "17:30"
+    end_time: "18:00"
   - title: "thomas-haver-os"
     type: talk
     date: 2021-10-14
-    start_time: "18:30"
-    end_time: "19:00"
+    start_time: "18:00"
+    end_time: "18:30"
     background_color: "#FFCC99"
   - title: "Open Space Session 1"
     type: open-space
     date: 2021-10-14
-    start_time: "18:30"
-    end_time: "19:00"
+    start_time: "18:00"
+    end_time: "18:30"
     background_color: "#FFCC99"
   - title: "Open Space Session 2"
     type: open-space
     date: 2021-10-14
-    start_time: "19:00"
-    end_time: "19:30"
+    start_time: "18:30"
+    end_time: "19:00"
     background_color: "#FFCC99"
   - title: "angel-rivera"
     type: talk
     date: 2021-10-14
+    start_time: "19:00"
+    end_time: "19:25"
+  - title: "jameson-hampton"
+    type: talk
+    date: 2021-10-14
     start_time: "19:30"
     end_time: "19:55"
-  - title: "jameson-hampton"
+  - title: "rob-richardson"
     type: talk
     date: 2021-10-14
     start_time: "20:00"
     end_time: "20:25"
-  - title: "rob-richardson"
+  - title: "yishai-beeri"
     type: talk
     date: 2021-10-14
     start_time: "20:30"
     end_time: "20:55"
-  - title: "yishai-beeri"
-    type: talk
-    date: 2021-10-14
-    start_time: "21:00"
-    end_time: "21:25"
-  - title: "Networking Event"
+  - title: "Closing Thoughts and JAM Session"
     type: custom
     date: 2021-10-14
-    start_time: "21:30"
-    end_time: "23:00"
+    start_time: "21:00"
+    end_time: "22:00"
 
 ignites:
   - title: "denise-yu"
