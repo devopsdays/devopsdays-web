@@ -2,7 +2,7 @@
 Title = "Rob Richardson"
 Twitter = "rob_rich"
 Website = "https://robrich.org/presentations"
-image = ""
+image = "rob-richardson.png"
 type = "speaker"
 linktitle = "rob-richardson"
 

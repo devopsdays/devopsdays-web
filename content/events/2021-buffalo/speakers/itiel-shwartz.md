@@ -1,7 +1,7 @@
 +++
 Title = "Itiel Shwartz"
 Twitter = "itielshwartz"
-image = ""
+image = "itiel_shwartz.jpeg"
 type = "speaker"
 linktitle = "itiel-shwartz"
 
