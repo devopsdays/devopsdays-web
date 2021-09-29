@@ -203,6 +203,8 @@ sponsors:
     level: community
   - id: snyk
     level: community
+  - id: jfrog
+    level: community
   - id: livecycle
     level: other
   - id: aerospike
