@@ -217,6 +217,12 @@ sponsors:
     level: other
   - id: hashicorp
     level: other
+  - id: kaltura
+    level: other
+  - id: bridgecrew
+    level: branding
+  - id: harness
+    level: branding
   - id: daily-dev
     level: media
   - id: barvazgumi
