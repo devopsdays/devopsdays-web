@@ -17,7 +17,7 @@ enddate: 2021-11-17T23:59:59+01:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2021-09-25T00:00:00-05:00 # start accepting talk proposals.
-cfp_date_end: 2021-10-31T23:59:59-05:00 # close your call for proposals.
+cfp_date_end: 2021-10-29T23:59:59-05:00 # close your call for proposals.
 cfp_date_announce: # inform proposers of status
 
 cfp_link: "https://devopsdays.pl/cfp/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
@@ -55,21 +55,43 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
+  - name: "Kuba Barć"
+    employer: "Splunk"
+    bio: "SRE with Splunk, trying to get Splunk Monitoring (a.k.a SignalFx) to scale properly. 10+ years of experience with companies like IBM, UBS, Splunk and Facebook. Not a fan of Jenkins"
+    image: "JBarc.png"
+  - name: "Andrzej Grzesik"
+    bio: "ags loves distributed systems in all shapes and forms. He has written software in many languages, and continuously finds JVM his favourite platform.He believes „most software problems are people problems”, so he stirrs communities (Polish JUG), organizes and speaks at conferences (proud to be a JavaONE Rockstar!). He is passionate about all things data, because science! In his spare time… cycling, photography and books. And he is a Java Champion!"
+    image: "grzesik.png"
   - name: "Janusz Kamienski"
     linkedin: "https://www.linkedin.com/in/jakamienski/"
     twitter: "jkamienski"
     employer: "Wix.com"
     image: "dod_jk.jpg"
-    bio: "Developer, journalist, Tabletop RPG game master and milkoholic. Active participant of dev communities, co-organizer of meetups and DevOps conferences in Poland. Applies DevOps pattern on tech and business side in all projects he touches. For a dozen of years worked in web technologies. Full-stack developer since 2008. Gains experience and new levels in everyday work at Wix.com, to which office he reaches by bike. Founder of Raport Obieżyswiata web tv channel about Fantasy & Sci-Fi."
+    bio: "Developer, journalist, Tabletop RPG game master and milkoholic. Active participant of dev communities, co-organizer of meetups and DevOps conferences in Poland. Applies DevOps pattern on tech and business side in all projects he touches. For a dozen of years worked in web technologies. Full-stack developer since 2008. Gains experience and new levels in everyday work at Wix.com, to which office he goes by bike. Founder of Raport Obieżyswiata web tv channel about Fantasy & Sci-Fi."
   - name: "Przemysław Koltermann"
+    image: "koltermann.png"
+    employer: "GOG.com"
+    bio: "Docker Certified Associate and Docker Community Leader in Warsaw. Senior Software Engineer at GOG.com. Team DevOps, active everywhere where developers and IT meet, like development environment, deploy pipelines or Kubernetes. Master of Science in Computer Networking. Active Docker and Kubernetes advocate, performing lectures and trainings."
   - name: "Rafał Małanij"
+    image: "malanij.png"
+    bio: "Tech guy, business guy, organizer, IT enthusiast, data lover. For the past 10 years of his professional experience he was doing tech positions working with loads of data, then managing projects, managing people and finally conducting visions and customer needs to succesful delivery as a business developer. Always willing to learn, open to new ideas, especially in the Tech industry. Right now focusing on his startup projects and organizing meetup  PyData Warsaw and Genomics and Bioinformatics meetup."
     twitter: "elgravel"
   - name: "Marcin Sawicki"
     twitter: "odcinek"
+    bio: "Marcin is a Site Reliability Engineer at SignalFx, in San Mateo, California. After spending years working on large scale automation at Facebook, he recently joined an up-and-coming monitoring startup, bringing FB-grade realtime observability to the enterprises. In his spare time he takes pictures of the night sky. You can catch him on Twitter @odcinek."
   - name: "Maciej Strzelecki"
+    image: "strzelecki.png"
+    bio: "Maciej is a Cloud Native and DevOps advocate and an open source enthusiast passionate about new technologies. He loves designing distributed systems and building application services platforms. Currently an engineering manager and a team leader. Has a system administration and development background. He is also an experienced IT trainer."
     twitter: "mstrzele"
+  - name: "Tomasz Tarczyński"
+    employer: "Gigaset"
+    image: "tarczynski.png"
+    bio: "Systems Architect and Ops Technical Lead at Gigaset, where the team builds a cloud native backend platform for a smart home system.
+          Focused on shortening delivery times with adoption of DevOps culture, automation and measurements. Especially interested in the cloud native approach to engineering applications and infrastructure.
+          Organizer of the DevOps Wrocław Meetup group and the Cloud Native Warsaw conference.
+          In his spare time Tomasz enjoys mountain hiking, running and yoga."
   - name: "Paulina Tomaszewska"
-  - name: "Sylwia Zając"
+  - name: "Monika Barnaś"
 
 organizer_email: "olga.michaliszyn@proidea.pl" # Put your organizer email address here
 proposal_email: "olga.michaliszyn@proidea.pl" # Put your proposal email address here
