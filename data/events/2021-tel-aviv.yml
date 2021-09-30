@@ -201,6 +201,10 @@ sponsors:
     level: community
   - id: yotpo
     level: community
+  - id: snyk
+    level: community
+  - id: jfrog
+    level: community
   - id: livecycle
     level: other
   - id: aerospike
@@ -213,6 +217,12 @@ sponsors:
     level: other
   - id: hashicorp
     level: other
+  - id: kaltura
+    level: other
+  - id: bridgecrew
+    level: branding
+  - id: harness
+    level: branding
   - id: daily-dev
     level: media
   - id: barvazgumi
@@ -232,6 +242,8 @@ sponsor_levels:
     label: Community Pillar
   - id: other 
     label: Goodies, Food & Swag
+  - id: branding 
+    label: Community Support
 #    max: 10
   - id: media
     label: Media Partner

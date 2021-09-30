@@ -40,9 +40,9 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: propose
 #  - name: location
 #  - name: local
-#  - name: registration
-#    url: https://www.secc.org.eg/Event_Registration.asp
-#  - name: agenda
+  - name: registration
+    url: https://www.secc.org.eg/Event_Registration.asp
+  - name: agenda
 #    url: https://assets.devopsdays.org/events/2020/cairo/DevopsDays-Cairo-2020-Agenda.pdf
   - name: speakers
   - name: sponsor

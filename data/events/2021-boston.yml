@@ -161,26 +161,71 @@ program:
     date: 2021-09-27
     start_time: "09:20"
     end_time: "10:00"
+  - title: "Breakout with Laura Santamaria"
+    type: open-space
+    date: 2021-09-27
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Is rolling your own AuthZ as bad as rolling your own Crypto? Breakout with Styra"
+    date: 2021-09-27
+    type: custom
+    start_time: "10:05"
+    end_time: "11:05"
   - title: "eric-smalling"
     type: talk
     date: 2021-09-27
     start_time: "10:05"
     end_time: "10:45"
+  - title: "Breakout with Eric Smalling"
+    type: open-space
+    date: 2021-09-27
+    start_time: "10:45"
+    end_time: "11:15"
+  - title: "APM for startups: how do I implement quickly, then prove value just as quickly: Breakout with ScoutAPM"
+    date: 2021-09-27
+    type: custom
+    start_time: "10:50"
+    end_time: "11:50"
   - title: "shelby-spees"
     type: talk
     date: 2021-09-27
     start_time: "10:50"
     end_time: "11:30"
+  - title: "Breakout with Shelby Spees"
+    type: open-space
+    date: 2021-09-27
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "CI/CD pipelines that automate manual change orders: Breakout with Capital One"
+    date: 2021-09-27
+    type: custom
+    start_time: "11:35"
+    end_time: "12:35"
   - title: "mofizur-rahman"
     type: talk
     date: 2021-09-27
     start_time: "11:35"
     end_time: "12:15"
+  - title: "Breakout with Mofizur Rahman"
+    type: open-space
+    date: 2021-09-27
+    start_time: "12:15"
+    end_time: "12:45"
+  - title: "Breakout with Chef by Progress"
+    date: 2021-09-27
+    type: custom
+    start_time: "12:20"
+    end_time: "13:20"
   - title: "angel-rivera"
     type: talk
     date: 2021-09-27
     start_time: "12:20"
     end_time: "13:00"
+  - title: "Breakout with Angel Rivera"
+    type: open-space
+    date: 2021-09-27
+    start_time: "13:00"
+    end_time: "13:30"
   - title: "Day 1 Wrap-Up"
     type: custom
     date: 2021-09-27
@@ -198,26 +243,66 @@ program:
     date: 2021-09-28
     start_time: "09:20"
     end_time: "10:00"
+  - title: "Breakout with Michael Miles"
+    type: open-space
+    date: 2021-09-28
+    start_time: "10:00"
+    end_time: "10:30"
   - title: "ben-ellerby"
     type: talk
     date: 2021-09-28
     start_time: "10:05"
     end_time: "10:45"
+  - title: "Breakout with Ben Ellerby"
+    type: open-space
+    date: 2021-09-28
+    start_time: "10:45"
+    end_time: "11:15"
+  - title: "How to Choose a Service Mesh: Breakout with Solo.io"
+    date: 2021-09-28
+    type: custom
+    start_time: "11:20"
+    end_time: "12:20"
   - title: "chris-riley"
     type: talk
     date: 2021-09-28
     start_time: "10:50"
     end_time: "11:30"
+  - title: "Breakout with Chris Riley"
+    type: open-space
+    date: 2021-09-28
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Devs should not write Dockerfiles – focusing on the right abstractions: Breakout with VMware Tanzu"
+    date: 2021-09-28
+    type: custom
+    start_time: "11:35"
+    end_time: "12:35"
   - title: "anurag-gupta"
     type: talk
     date: 2021-09-28
     start_time: "11:35"
     end_time: "12:15"
+  - title: "Breakout with Anurag Gputa"
+    type: open-space
+    date: 2021-09-28
+    start_time: "12:15"
+    end_time: "12:45"
+  - title: "How to process 500,000 real-time events per second in Kafka: Breakout with Coralogix"
+    date: 2021-09-28
+    type: custom
+    start_time: "12:20"
+    end_time: "13:20"
   - title: "josh-stella"
     type: talk
     date: 2021-09-28
     start_time: "12:20"
     end_time: "13:00"
+  - title: "Breakout with Josh Stella"
+    type: open-space
+    date: 2021-09-28
+    start_time: "13:00"
+    end_time: "13:30"
   - title: "Day 2 Wrap-Up"
     type: custom
     date: 2021-09-28
