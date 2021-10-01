@@ -1,8 +1,8 @@
 +++
-Title = "devopsdays Birmingham 2022"
+Title = "DevOpsDays Birmingham, Alabama 2022"
 Type = "welcome"
-aliases = ["/events/2022-birmingham/"]
-Description = "devopsdays Birmingham 2022"
+aliases = ["/events/2022-bham/"]
+Description = "DevOpsDays is coming. April 18th and 19th, 2022 in the beautiful Birmingham, Alabama"
 +++
 
 <!-- <div style="text-align:center;">
