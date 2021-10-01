@@ -52,7 +52,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Matteo Mazzeri"
-    employer: "ckatalyezn"
+    employer: "Ckatalyzen"
     website: "https://mazzeri.net/"
     twitter: "matemaz"
     linkedin: "https://www.linkedin.com/in/mazzeri"
