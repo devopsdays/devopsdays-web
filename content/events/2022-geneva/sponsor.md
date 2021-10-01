@@ -44,7 +44,7 @@ We greatly value sponsors for this open event. If you are interested in sponsori
 |          **SPONSORS PACKS**                                               |   **EVENT**   |   **GOLD**    |  **SILVER**   |  **BRONZE**   |   **MUG**   |
 | ------------------------------------------------------------------------- | :-----------: | :-----------: | :-----------: | :-----------: | :---------: |
 |                                                                           | **9'000 CHF** | **6'000 CHF** | **3'000 CHF** | **1'500 CHF** | **500 CHF** |
-| **Number of sponsors**                                                    |       **1**   |     **8**     |     **8**     |    **12**     |    **8**    |
+| **Number of sponsors**                                                    | **<span style="color:red">Sold Out</span>**  |     **8**     |     **8**     |    **12**     |    **8**    |
 | **Free tickets** including sponsor team                                   |       **8**   |     **5**     |     **3**     |     **1**     |    **0**    |
 | Logo on event **website**                                                 |       ✔      |       ✔       |       ✔      |       ✔       |             |
 | Logo on **shared slides**, displayed during breaks (rotation)             |               |               |       ✔      |       ✔       |             |
