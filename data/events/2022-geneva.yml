@@ -52,8 +52,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Matteo Mazzeri"
-    employer: "ENALEAN"
-    website: "https://tuleap.org/"
+    website: "https://mazzeri.net/"
     twitter: "matemaz"
     linkedin: "https://www.linkedin.com/in/mazzeri"
     image: matteo.jpg
@@ -77,6 +76,7 @@ team_members: # Name is the only required field for team members.
     twitter: 5ika_
     website: "https://octree.ch/"
     image: tim.jpg
+    bio: "Co-founder of Octree, lecturer at CREA and Sunday hacker, Tim Izzo has a history at the crossroads between network engineering, security and development. He is passionate about Open-Source, circular economy and distributed governance. Through his background, he has followed the evolution of DevOps since its inception."
   - name: "Gaelle Delesderrier"
     employer:  M.I.C.E. spirit
     website: https://mice-spirit.com
