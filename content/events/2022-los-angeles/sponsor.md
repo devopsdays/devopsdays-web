@@ -3,10 +3,11 @@ Title = "Sponsor"
 Type = "event"
 Description = "Sponsor DevOpsDays Los Angeles 2022"
 +++
-<h3>DevOpsDayLA - Become A Sponsor</h3>
+<br>
+<h3>Become A Sponsor</h3>
 
 <p>
-Thank you for your interest! Below is an overview of the conference as well as our sponsor packages. Please email the organizing committee at [{{< email_organizers >}}] for additional information or to secure your package.
+Thank you for your interest! Below is an overview of the conference as well as our sponsor packages. Please email the organizing committee at {{< email_organizers >}} for additional information or to secure your package.
 
 <h3>About DevOpsDayLA</h3>
 
@@ -28,15 +29,15 @@ The best thing to do is send engineers to interact with the experts at devopsday
 
 <strong>Note:</strong> We do not share attendee lists.
 
+<h3><a href="/events/2022-los-angeles/DevOpsDayLA2022_Sponsor.pdf">Sponsor Prospectus</a></h3>
+
 <h3>Exclusive Sponsorships</h3>
 
-<img alt="Exclusive Sponsorships" src="/events/2022-los-angeles/Exclusive_Sponsorships.jpg" style="width:100%">
+<img alt="Exclusive Sponsorships" src="/events/2022-los-angeles/Exclusive_Sponsorships.jpg" style="width:60%">
 
 <h3>Sponsorship Packages</h3>
 
-<img alt="Exclusive Sponsorships" src="/events/2022-los-angeles/Sponsorship_Packages.jpg" style="width:100%">
-
-<strong><a href="/events/2022-los-angeles/DevOpsDayLA2022_Sponsor.pdf">Sponsor Prospectus</a></strong>
+<img alt="Exclusive Sponsorships" src="/events/2022-los-angeles/Sponsorship_Packages.jpg" style="width:60%">
 
 <hr/>
 

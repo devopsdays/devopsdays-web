@@ -3,7 +3,8 @@ Title = "Volunteer"
 Type = "event"
 Description = "About DevOpsDays Los Angeles 2022"
 +++
-<h3>DevOpsDayLA - Become A Volunteer</h3>
+<br>
+<h3>Become A Volunteer</h3>
 
 <p>
 DevOpsDayLA, now in its 10th year, is Southern California's only annual conference focused on the practice of DevOps - a proven, joint approach that emphasizes the need for collaboration between the Development (Dev) and Operations/IT (Ops) teams within an organization to continually deliver high-quality solutions. The conference provides a relaxed, casual, and diverse environment where experienced professionals, evangelists, agile practitioners, developers, job seekers, business executives, educators, students, and curiosity seekers can connect and attend talks on current topics. DevOpsDayLA sponsors offer job opportunities, demonstrations of the latest tools, and world-class service offerings to facilitate organizations' DevOps journey. The conference typically attracts 800 people.
