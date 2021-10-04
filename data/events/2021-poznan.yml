@@ -108,18 +108,14 @@ sponsors:
   - id: trecom
     level: organizing
     url: https://www.trecom.pl/en/trecom-develop-and-optimize-your-it-system/
-#  - id: nordcloud
-#    level: gold
-#  - id: delltechnologies
-#    level: gold
-#  - id: trecom
-#    level: gold
-#  - id: centuria
-#    level: gold
-#  - id: egnyte
-#    level: silver
-#  - id: tomtom
-#    level: silver
+  - id: riskmethods
+    level: bronze
+  - id: merixstudio
+    level: gold
+  - id: egnyte
+    level: bronze
+  - id: glaxosmithkline
+    level: bronze
 #  - id: holidaycheck
 #    level: bronze
 #  - id: allegro
@@ -291,4 +287,3 @@ ignites:
      date: 2021-10-05
    - title: "jakub-warczarek"
      date: 2021-10-05
-   
