@@ -109,13 +109,13 @@ sponsors:
     level: organizing
     url: https://www.trecom.pl/en/trecom-develop-and-optimize-your-it-system/
   - id: riskmethods
-    level: bronze
+    level: partner
   - id: merixstudio
-    level: gold
+    level: partner
   - id: egnyte
-    level: bronze
+    level: partner
   - id: glaxosmithkline
-    level: bronze
+    level: partner
 #  - id: holidaycheck
 #    level: bronze
 #  - id: allegro
@@ -260,21 +260,16 @@ program:
     date: 2021-10-05
     start_time: "13:55"
     end_time: "14:30"
-  - title: "Coffee break"
-    type: custom
-    date: 2021-10-05
-    start_time: "14:30"
-    end_time: "14:50"
-  - title: "Openspace"
-    type: open-space
+  - title: "jj-asghar"
+    type: talk
     date: 2021-10-05
     start_time: "14:50"
-    end_time: "15:50"
-  - title: "Closing day 1"
+    end_time: "15:25"
+  - title: "Closing day 2"
     type: custom
     date: 2021-10-05
-    start_time: "15:50"
-    end_time: "16:00"
+    start_time: "15:25"
+    end_time: "15:30"
 
 ignites:
    - title: "pawel-sztromwasser"
