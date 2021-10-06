@@ -32,7 +32,7 @@ Description = "devopsdays Warsaw 2021"
 <div class="row">
   <div class="col-md-8">
     <p>
-      The largest DevOps conference in Poland returns  this time in a virtual form! Don’t be late  the IT world is changing every day and we will show you how to be always up to date!
+      The largest DevOps conference in Poland returns this time in a virtual format! Don’t be late  the IT world is changing every day and we will show you how to be always up to date!
     </p><p>
       We have prepared for you two days full of lectures, Ignite Talks and Open Spaces. A cool atmosphere, international company and the latest solutions that will improve your work  this is DevOpsDays Warsaw!
     </p><p>
