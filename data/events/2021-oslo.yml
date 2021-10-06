@@ -73,7 +73,7 @@ team_members:  # Name is the only required field for team members.
   - name: "Recep Cetin"
   - name: "Roberth Strand"
 
-organizer_email: "organizers-oslo-2021@devopsdays.org"
+organizer_email: "oslo@devopsdays.org"
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
