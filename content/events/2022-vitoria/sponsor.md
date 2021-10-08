@@ -8,19 +8,15 @@ Valorizamos muito os patrocinadores deste evento aberto. Se você estiver intere
 
 <hr>
 <div>
-<h2>Proposta de Apoio PT-BR</h2>
+<h2>[PT-BR] Proposta de Apoio</h2>
 <p>
-Os nossos parceiros são encorajados a assumirem uma postura de participação atvia, se engajarem com os participantes e a sugerirem temas para os
-open spaces, sessões auto organizadas abertas para discussões revelantes. <b>Queremos que nossos parceiros se envolvam no evento!</b>
+Os nossos parceiros são encorajados a assumirem uma postura de participação ativa, se engajarem com os participantes e a sugerirem temas para os open spaces, sessões auto-organizadas abertas para discussões revelantes. <strong>Queremos que nossos parceiros se envolvam no evento!</strong>
 </p>
 <p>
-Entendemos que uma maior quantidade de parceirias é benéfica para o evento, proporcionando uma ótima oportunidade para "mergulhos" mais profundos
-no mundo DevOps, assim como "networking" e afins, por conta disso optamos por trabalhar com cotas com valores mais acessíveis para esse evento.
+Entendemos que uma maior quantidade de parceirias é benéfica para o evento, proporcionando uma ótima oportunidade para "mergulhar" mais fundo no mundo DevOps, assim como fazer networking e afins, por conta disso optamos por trabalhar com cotas com valores mais acessíveis para esse evento.
 </p>
 <p>
-Visando valorizar a participação de instituições na realização do evento, foram organizados grupos de parcerias. Cada grupo proporciona uma série 
-de vantagens aos parceiros oficiais, obedecidos os requisitos definidos estabelecendo a contrapartida correspondente, conforme demonstado na
-tabela 1 abaixo.
+Visando valorizar a participação de instituições na realização do evento, foram organizados grupos de parcerias. Cada grupo proporciona uma série de vantagens aos parceiros oficiais, com os requisitos definidos e a contrapartida correspondente, conforme demonstado na tabela abaixo.
 </p>
 </div>
 <br>
@@ -29,7 +25,7 @@ tabela 1 abaixo.
 
   <table class="table table-bordered table-hover table-responsive-md">
     <thead class="thead-light">
-      <th>BENEFICIOS</th>
+      <th>BENEFÍCIOS</th>
         <th>BRONZE</th>
         <th>PRATA</th>
         <th>OURO</th>
@@ -127,17 +123,17 @@ tabela 1 abaixo.
   <p style="font-size:18px">Veja mais no documento completo clicando <a href="https://raw.githubusercontent.com/devopsdays/devopsdays-assets/efc1acaaca39548d2124fbee69a7e1b084658321/events/2022/vitoria/Proposta%20de%20Apoio%20-%20DevOpsDays%20Vitoria%202022.pdf"><i class="fa fa-download" style="font-size:30px"></i></a></p>
 </div>
 
-<!--US-->
+<!--EN-->
 <div>
-<h2>Support proposal US</h2>
+<h2>[EN] Sponsorship Proposal</h2>
 <p>
-Partnerships are encouraged to be active, interacting and engaging with all attendants. They are also going to boost our open spaces, sessions wich are self-organized and open to great discussions.</b>
+Our partners are encouraged to take an active participation, to engage with participants and to suggest themes for open spaces, which are self-organized sessions open to meaninful discussions. <strong>We want our partners to get involved in the event!</strong>
 </p>
 <p>
-Our understanding about partnerships is that having a good number of it will improve dodvix , being an amazing opportunity to deep-dive into DevOps , in addition to have better networking and alikes. With that in mind, we choose to have more affordable quotas for this event.
+We understand that a greater number of partnerships is beneficial to the event, providing a great opportunity to deep-dive in the DevOps world, to have a better networking and so on and so forth, so we chose to work at quotas with more accessible values for this event.
 </p>
 <p>
-Aiming to improve the event association for institutions, partnerships groups were created to provide a set of benefits to official partners, according to established requirements meeting the corresponding counterpart defined and shown bellow.
+Aiming to enhance the participation of institutions in the event, we organized partnership groups. Each one provides a set of benefits to official partners, according to established requirements meeting the corresponding counterpart defined as shown in the table bellow.
 </p>
 </div>
 
@@ -146,7 +142,7 @@ Aiming to improve the event association for institutions, partnerships groups we
 
   <table class="table table-bordered table-hover table-responsive-md">
     <thead class="thead-light">
-      <th>BENEFICTS</th>
+      <th>BENEFITS</th>
         <th>BRONZE</th>
         <th>SILVER</th>
         <th>GOLD</th>
@@ -167,14 +163,14 @@ Aiming to improve the event association for institutions, partnerships groups we
       <td><i class="fa fa-check"></i></td>
     </tr>
     <tr>
-      <td>Promotional counter</td>
+      <td>Promotional booth</td>
       <td></td>
       <td></td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
     </tr>
     <tr>
-      <td>Right at the back of the stage</td>
+      <td>Logo on stage</td>
       <td></td>
       <td></td>
       <td><i class="fa fa-check"></i></td>
@@ -188,42 +184,42 @@ Aiming to improve the event association for institutions, partnerships groups we
       <td><i class="fa fa-check"></i></td>
     </tr>
     <tr>
-      <td>Distribution of gifts in participants folders</td>
+      <td>Swags distributed inside the participant's folders</td>
       <td></td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
     </tr>
     <tr>
-      <td>Marketing action on social media</td>
+      <td>Social media action</td>
       <td></td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
     </tr>
     <tr>
-      <td>Destaque nos banners físicos</td>
+      <td>Featured physical banners</td>
       <td></td>
       <td>Size ½U</td>
       <td>Size ¾U</td>
       <td>Size 1U</td>
     </tr>
     <tr>
-      <td>Logo on the event/releases website</td> 
+      <td>Logo on the event/releases</td> 
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
     </tr>
     <tr>
-      <td>Disclosure on social media</td> 
+      <td>Social media release</td> 
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
     </tr>
     <tr>
-      <td>Registration for the event*</td>
+      <td>Tickets*</td>
       <td>2</td>
       <td>4</td>
       <td>8</td>
@@ -240,6 +236,6 @@ Aiming to improve the event association for institutions, partnerships groups we
 </div>
 <div>
 <p><strong>COMMUNITY:</strong> Supporters who have contributed some benefit to the public or amount of
-up to US$200,00 receive the right to be publicized on social media and 1 registration for the event.</p>
+up to US$ 200,00 receive the right to be publicized on social media and 1 registration for the event.</p>
 <p style="font-size:18px">See more in the full document by clicking <a href="https://github.com/devopsdays/devopsdays-assets/raw/main/events/2022/vitoria/Sponsorship%20Proposal%20-%20DevOpsDays%20Vitoria%202022.pdf"><i class="fa fa-download" style="font-size:30px"></i></a></p>
 </div>
