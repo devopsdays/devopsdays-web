@@ -231,15 +231,15 @@ Aiming to improve the event association for institutions, partnerships groups we
     </tr>
     <tr>
       <td><b>Contribution</b></td>
-      <td><b>R$ 3.000,00</b></td>
-      <td><b>R$ 5.000,00</b></td>
-      <td><b>R$ 7.000,00</b></td>
-      <td><b>R$ 10.000,00</b></td>
+      <td><b>US$ 600,00</b></td>
+      <td><b>US$ 1.000,00</b></td>
+      <td><b>US$ 1.500,00</b></td>
+      <td><b>US$ 2.000,00</b></td>
     </tr>
   </table>
 </div>
 <div>
 <p><strong>COMMUNITY:</strong> Supporters who have contributed some benefit to the public or amount of
-up to R$1.000,00 receive the right to be publicized on social media and 1 registration for the event.</p>
+up to US$200,00 receive the right to be publicized on social media and 1 registration for the event.</p>
 <p style="font-size:18px">See more in the full document by clicking <a href="https://github.com/devopsdays/devopsdays-assets/raw/main/events/2022/vitoria/Sponsorship%20Proposal%20-%20DevOpsDays%20Vitoria%202022.pdf"><i class="fa fa-download" style="font-size:30px"></i></a></p>
 </div>
