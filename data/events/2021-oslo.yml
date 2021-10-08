@@ -71,6 +71,7 @@ team_members:  # Name is the only required field for team members.
     image: "mike-long.jpg"
     twitter: "meekrosoft"
   - name: "Recep Cetin"
+    image: "recep-cetin.jpg"
   - name: "Roberth Strand"
 
 organizer_email: "oslo@devopsdays.org"
