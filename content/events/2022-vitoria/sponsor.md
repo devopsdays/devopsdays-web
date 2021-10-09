@@ -1,7 +1,7 @@
 +++
 Title = "Sponsor"
 Type = "event"
-Description = "Sponsor devopsdays Vitoria 2020"
+Description = "Sponsor devopsdays Vitoria 2022"
 +++
 
 Valorizamos muito os patrocinadores deste evento aberto. Se você estiver interessado em patrocinar, envie um e-mail para [{{< email_organizers >}}].
