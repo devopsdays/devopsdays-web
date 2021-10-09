@@ -119,6 +119,10 @@ sponsors:
     level: gold
   - id: aviatrix
     level: gold
+  - id: mandtbank
+    level: captioning
+  - id: observiq
+    level: snack
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -133,9 +137,15 @@ sponsor_levels:
   - id: silver
     label: Silver
     max: 5
+  - id: captioning
+    label: Captioning
+    max: 1
   - id: bronze
     label: Bronze
     max: 10
+  - id: snack
+    label: Snack
+    max: 1
   - id: community
     label: Community
 
