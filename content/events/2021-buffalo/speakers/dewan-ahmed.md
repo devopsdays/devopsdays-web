@@ -3,7 +3,7 @@ Title = "Dewan Ahmed"
 Twitter = "DewanAhmed"
 LinkedIn = "https://www.linkedin.com/in/diahmed"
 Website = "https://www.dewanahmed.com/"
-image = "dewan-ahmed.jpeg"
+image = "dewan-ahmed.png"
 type = "speaker"
 linktitle = "dewan-ahmed"
 
