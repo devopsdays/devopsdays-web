@@ -120,7 +120,7 @@ Visando valorizar a participação de instituições na realização do evento, 
 <div>
   <p><strong>COMUNIDADE:</strong> Apoiadores que contribuiram com algum beneficio para o público ou quantia de
   até R$ 1.000,00 terão direito à divulgação nas redes sociais e 1 inscrição para o evento.</p>
-  <p style="font-size:18px">Veja mais no documento completo clicando <a href="https://raw.githubusercontent.com/devopsdays/devopsdays-assets/efc1acaaca39548d2124fbee69a7e1b084658321/events/2022/vitoria/Proposta%20de%20Apoio%20-%20DevOpsDays%20Vitoria%202022.pdf"><i class="fa fa-download" style="font-size:30px"></i></a></p>
+  <p style="font-size:18px">Veja mais no documento completo clicando <a href="https://raw.githubusercontent.com/devopsdays/devopsdays-assets/main/events/2022/vitoria/Proposta%20de%20Apoio%20-%20DevOpsDays%20Vitoria%202022.pdf"><i class="fa fa-download" style="font-size:30px"></i></a></p>
 </div>
 
 <!--EN-->
