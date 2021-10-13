@@ -10,7 +10,8 @@
 /belo-horizonte/*	/events/2019-belo-horizonte/:splat	302
 /bengaluru/*		/events/2019-bengaluru/:splat		302
 /berlin/*		/events/2020-berlin/:splat		302
-/birmingham/*		/events/2021-birmingham/:splat		302
+/bham/*			/events/2022-bham/:splat		302
+/birmingham/* /events/2021-birmingham/:splat		302
 /bogota/*		/events/2021-bogota/:splat		302
 /boise/*		/events/2021-boise/:splat		302
 /boston/*		/events/2021-boston/:splat		302
