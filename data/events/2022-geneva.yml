@@ -101,10 +101,18 @@ sponsors:
     level: event
   - id: hidora
     level: gold
+  - id: camptocamp
+    level: gold
+  - id: dynatrace
+    level: gold
   - id: valueitswiss
+    level: silver
+  - id: sokube
     level: silver
   - id: dbi-services
     level: silver
+  - id: socraft
+    level: bronze
   - id: swissdevjobs
     level: community
   - id: heg-geneva
