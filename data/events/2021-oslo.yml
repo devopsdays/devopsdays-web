@@ -24,11 +24,11 @@ cfp_date_end: 2021-11-01T12:00:00  # close your call for proposals.
 cfp_open: "false"
 cfp_link: "https://sessionize.com/devopsdays-oslo-2021/"
 
-# registration_date_start: 2021-06-28T00:00:00+02:00  # start accepting registration. Leave blank if registration is not open yet
-# registration_date_end: 2021-10-22T00:00:00+02:00  # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2021-10-14T00:00:00+02:00  # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2021-11-15T23:59:59+02:00  # close registration. Leave blank if registration is not open yet.
 
 # registration_closed: ""  # Set this to true if you need to manually close registration before your registration end date
-# registration_link: ""  # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://ti.to/devopsdaysoslo/2021"  # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 coordinates: "59.917514204671214, 10.740498310563055"  # The coordinates of your city. Latitude and Longitude.
@@ -38,7 +38,7 @@ nav_elements:  # List of pages you want to show up in the navigation of your pag
   - name: propose
   # - name: livestream
   - name: location
-  # - name: registration
+  - name: registration
   # - name: program
   # - name: speakers
   # - name: sponsor
