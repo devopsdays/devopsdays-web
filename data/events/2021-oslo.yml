@@ -32,6 +32,7 @@ registration_link: "https://ti.to/devopsdaysoslo/2021"  # If you have a custom r
 
 # Location
 coordinates: "59.917514204671214, 10.740498310563055"  # The coordinates of your city. Latitude and Longitude.
+location: "Rebel"
 location_address: "Rebel, Universitetsgata 2, 0164 Oslo"
 
 nav_elements:  # List of pages you want to show up in the navigation of your page.
