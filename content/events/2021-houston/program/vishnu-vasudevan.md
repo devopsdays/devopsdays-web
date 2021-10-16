@@ -16,3 +16,14 @@ In this session, learn how Developers can take security and quality into their o
 In this session I will cover:
 
 Seamlessly integrate security and quality into your CI/CD pipelines Add approval gates at every step of the pipeline Reduce vulnerabilities and improve collaboration with the right KPIs
+
+<div id="presentation-embed-38966546"></div>
+<script src='https://slideslive.com/embed_presentation.js'></script>
+<script>
+    embed = new SlidesLiveEmbed('presentation-embed-38966546', {
+        presentationId: '38966546',
+        autoPlay: false, // change to true to autoplay the embedded presentation
+        verticalEnabled: true
+    });
+</script>
+      

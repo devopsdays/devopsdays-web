@@ -22,3 +22,13 @@ DevOps/SRE Managers and ICs will learn why games such as "Keep Talking and Nobod
 An overview of chaos testing and gamedays will be mentioned to provide the broader context. We will cover the pros and cons of each of these methods. 
 
 Lastly, we will present the concept of an incident response simulator as an open research topic. The hypothesis will be that an incident simulator is a good trade-off between non-domain specific games and full-blown Gamedays. 
+
+<div id="presentation-embed-38966533"></div>
+<script src='https://slideslive.com/embed_presentation.js'></script>
+<script>
+    embed = new SlidesLiveEmbed('presentation-embed-38966533', {
+        presentationId: '38966533',
+        autoPlay: false, // change to true to autoplay the embedded presentation
+        verticalEnabled: true
+    });
+</script>

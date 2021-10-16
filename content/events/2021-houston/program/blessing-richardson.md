@@ -13,3 +13,15 @@ In the business of crafting software solutions, the delivery experience tends to
 While constraint juggling ensues, these ever changing solutions move along with gaps and missing parts. Until the solutions and people that manage them, come to a halt. Yet, any product delivery team can prioritize what constitutes as an actionable item, who rotates through responsibilities, and how process is codified.
 
 As a developer, technical team lead or manager, there are a few changes your teams can make to grow a devops practice that buys back time, increases velocity and cultivates a lovable product development experience. If a product team at a large oil and gas company can do it in 2020, so can you.
+
+<div id="presentation-embed-38966531"></div>
+<script src='https://slideslive.com/embed_presentation.js'></script>
+<script>
+    embed = new SlidesLiveEmbed('presentation-embed-38966531', {
+        presentationId: '38966531',
+        autoPlay: false, // change to true to autoplay the embedded presentation
+        verticalEnabled: true
+    });
+</script>
+      
+	  

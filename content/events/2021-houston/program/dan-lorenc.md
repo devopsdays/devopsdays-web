@@ -14,3 +14,13 @@ Traditionally, network and workload security relied on trusted "perimeters". Fir
 Unfortunately, this isn't true anymore. The workplace is distributed. Devices are mobile and environments are ephemeral. Enter zero-trust security. Zero-trust architecture focuses on protecting assets, not perimeters. Services authenticate users against hardware instead of network endpoints. Users authenticate with multi-factor-authentication (FIDO2, etc.) and devices authenticate with hardware-roots-of-trust (TPM2, etc.). The end result is a system focused on fine-grained access control. Instead of trusting every device on a network, you control exactly which users and systems have access to which services. 
 
 This talk will cover the zero-trust supply chain architecture in detail, and show (through demos) how it can be used today.
+
+<div id="presentation-embed-38966337"></div>
+<script src='https://slideslive.com/embed_presentation.js'></script>
+<script>
+    embed = new SlidesLiveEmbed('presentation-embed-38966337', {
+        presentationId: '38966337',
+        autoPlay: false, // change to true to autoplay the embedded presentation
+        verticalEnabled: true
+    });
+</script>

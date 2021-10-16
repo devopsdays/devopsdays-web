@@ -16,3 +16,13 @@ The "Shift Left" movement is believed to ensure that security concerns are addre
 Have we shifted too far left? 
 
 Join Ell Marquez, Linux and Security Advocate at Intezer, for a conversation exploring the relationship between development, operations, and security teams. Focusing on how increased visibility from development onto runtime can help us include security teams into the conversation and allow us all shift left together.
+
+<div id="presentation-embed-38966542"></div>
+<script src='https://slideslive.com/embed_presentation.js'></script>
+<script>
+    embed = new SlidesLiveEmbed('presentation-embed-38966542', {
+        presentationId: '38966542',
+        autoPlay: false, // change to true to autoplay the embedded presentation
+        verticalEnabled: true
+    });
+</script>

@@ -11,3 +11,14 @@ sharing_image = "nick-hodges.png"
 Tracking engineering metrics is viewed as table stakes by most dev leaders. But not all metrics are created equal. And dashboards don't help dev teams improve. Progressive software development organizations are moving beyond top-down metrics to focus on continuous improvement using Software Delivery Intelligence. 
 
 What attendees will learn: Which metrics create a culture of teamwork and active improvement How to operationalize data into your day-to-day rituals and ceremonies How to create a bottom-up movement of improvement among your developers How to automate continuous improvement using LinearB Software Delivery Intelligence
+
+<div id="presentation-embed-38966324"></div>
+<script src='https://slideslive.com/embed_presentation.js'></script>
+<script>
+    embed = new SlidesLiveEmbed('presentation-embed-38966324', {
+        presentationId: '38966324',
+        autoPlay: false, // change to true to autoplay the embedded presentation
+        verticalEnabled: true
+    });
+</script>
+      

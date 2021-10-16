@@ -14,3 +14,14 @@ Turning an idea into a product is a significant challenge and the hardest part c
 The combination of Kubernetes and Terraform along with several other products has made the kickoff process almost automated and we want to show you how it can be done. 
 
 By using a combination of tools, one can create the GitHub repo, ci/cd pipelines, secure runner, dns records, ssl certificates, container registry, and Kubernetes service and ingress for a simple application in a single step. The workshop would start with context setting on the background of the problem (small shop with a lot of new projects, need to spin them up quickly) and a high level overview of how the project works. Attendees will learn how to create and deploy a new project from scratch. The session will show how the DNS records and SSL certs were automatically created. Then attendees will learn the process for making a change, running the deployment pipeline, and demonstrate that the change was reflected in the deployed application.
+
+<div id="presentation-embed-38966564"></div>
+<script src='https://slideslive.com/embed_presentation.js'></script>
+<script>
+    embed = new SlidesLiveEmbed('presentation-embed-38966564', {
+        presentationId: '38966564',
+        autoPlay: false, // change to true to autoplay the embedded presentation
+        verticalEnabled: true
+    });
+</script>
+      

@@ -10,3 +10,14 @@ sharing_image = "veer-muchandi.png"
 +++
 
 With infrastructure being within an enterprise datacenter and on cloud, with more and more applications getting containerized, with kubernetes being the primary orchestrator for workloads, considering security-first, configuration management and GitOps, infrastructure as code, visualization and problem solving from a single enterprise viewpoint, offering Application Developers and DevOps teams a consistent lifecycle, ability to deploy what enterprises want to run where they want, an Application Platform's needs are way more advanced than ever. In this session we will look at building blocks in the architecture of such a Modern Application Platform for enterprises.
+
+<div id="presentation-embed-38966532"></div>
+<script src='https://slideslive.com/embed_presentation.js'></script>
+<script>
+    embed = new SlidesLiveEmbed('presentation-embed-38966532', {
+        presentationId: '38966532',
+        autoPlay: false, // change to true to autoplay the embedded presentation
+        verticalEnabled: true
+    });
+</script>
+      

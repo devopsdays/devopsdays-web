@@ -12,3 +12,14 @@ sharing_image = "aakash-shah.png"
 Over the last 5 years software delivery has completely transformed. Infrastructure today is designed and delivered as-code in languages such as Terraform, CloudFromation, ARM templates, Kubernetes Manifests and more. Increasingly this ownership of this code is now falling under the umbrella of software development. This code today represents the entire application architecture and enables development teams to deliver infrastructure capabilities in an agile manner where foundational architectural changes are made from release to release. This has enabled development teams to achieve incredible velocity and agility. However, every security design & engineering team that I have worked with has unfortunately struggled to keep up with the velocity and unprecedented rate of change that infrastructure-as-code (IaC) adoption brings.
 
 In this talk we will provide a practical guide to how security teams can adapt to IaC. We will outline the typical challenges security teams face when their development team embraces IaC. We will also present the opportunity that this presents to security design & engineering teams. We will discuss how security design & engineering teams can transform their practices to drive improved standardization and adoption of security design patterns to ensure that applications are secure and compliant by design.
+
+<div id="presentation-embed-38966541"></div>
+<script src='https://slideslive.com/embed_presentation.js'></script>
+<script>
+    embed = new SlidesLiveEmbed('presentation-embed-38966541', {
+        presentationId: '38966541',
+        autoPlay: false, // change to true to autoplay the embedded presentation
+        verticalEnabled: true
+    });
+</script>
+      
