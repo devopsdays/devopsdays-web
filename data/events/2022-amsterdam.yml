@@ -57,6 +57,12 @@ team_members: # Name is the only required field for team members.
   - name: "Harm Boertien"
     linkedin: "https://www.linkedin.com/in/harmboertien/"
     twitter: "Harm_Ops"
+    image: harm.jpeg
+
+  - name: "Yvo van Doorn"
+    linkedin: "https://www.linkedin.com/in/yvovandoorn/"
+    twitter: "yvov"
+    image: yvo.jpeg
 
   - name: "Daniel Paulus"
     linkedin: "https://www.linkedin.com/in/danielpaulus/"
@@ -102,6 +108,7 @@ team_members: # Name is the only required field for team members.
   - name: "Sean Bovaird"
     linkedin: "https://www.linkedin.com/in/sbovaird"
     twitter: "srbovaird"
+    image: "sean.jpeg"
 
 organizer_email: "amsterdam@devopsdays.org" # Put your organizer email address here
 
