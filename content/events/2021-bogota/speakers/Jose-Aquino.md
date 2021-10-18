@@ -1,6 +1,6 @@
 ﻿+++
 Title = "Jose Aquino"
-Twitter = ""
+Twitter = "@Josemaquino"
 image = "Jose-Aquino.jpg"
 type = "speaker"
 linktitle = "Jose-Aquino"
