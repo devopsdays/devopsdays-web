@@ -51,7 +51,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 team_members: # Name is the only required field for team members.
   - name: "Danny Lajer"
     employer: "Eficode"
-#    image: "danny-lajer.jpg"
+    image: "danny-lajer.jpg"
 # - name: "Adam Henriques"
 #   employer: "Eficode"
 #   image: "adam-henriques.jpg"
@@ -83,10 +83,10 @@ team_members: # Name is the only required field for team members.
     image: "johanne-sundtoft.jpg"
   - name: "Peter Andersson"
     employer: "Eficode"
-#    image: "peter-andersson.jpg"
+    image: "peter-andersson.jpg"
   - name: "Jonas Vinther"
     employer: "Trifork"
-#   image: "jonas-vinther.jpg"
+   image: "jonas-vinther.jpg"
 
 
 organizer_email: "aarhus@devopsdays.org" # Put your organizer email address here
