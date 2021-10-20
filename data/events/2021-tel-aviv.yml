@@ -159,7 +159,7 @@ team_members: # Name is the only required field for team members.
     website: ""
     image: "dotan-horovits.jpg"
 
-  - name: "Tal Kinhi"
+  - name: "Tal Kimhi"
     employer: "BigPanda"
     github: ""
     linkedin: "https://www.linkedin.com/in/talkimhi/"
