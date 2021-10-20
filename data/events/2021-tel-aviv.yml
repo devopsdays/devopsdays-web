@@ -104,7 +104,7 @@ team_members: # Name is the only required field for team members.
     image: "viki-slavin.jpg"
   
   - name: "Dan Yelovitch"
-    employer: "Snap, Inc."
+    employer: "Develeap"
     github: "devopsdays"
     linkedin: "https://www.linkedin.com/in/dan-yelovitch-15b92036/"
     website: ""
