@@ -86,7 +86,7 @@ team_members: # Name is the only required field for team members.
     image: "peter-andersson.jpg"
   - name: "Jonas Vinther"
     employer: "Trifork"
-   image: "jonas-vinther.jpg"
+    image: "jonas-vinther.jpg"
 
 
 organizer_email: "aarhus@devopsdays.org" # Put your organizer email address here
