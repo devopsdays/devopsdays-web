@@ -66,7 +66,7 @@ team_members: # Name is the only required field for team members.
     github: "burdandrei"
     linkedin: "https://www.linkedin.com/in/burdandrei/"
     website: "https://mattstratton.com"
-    image: "andrei-burd.jpg"
+    image: "andrei-burd.jpeg"
 
   - name: "Nati Cohen"
     employer: "AWS"
