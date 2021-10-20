@@ -11,7 +11,7 @@ Description = "Sponsor devopsdays Amsterdam 2022"
 
 <hr>
 
-devopsdays is a conference organized by volunteers, and depends on sponsorships. We do not have vendor booths, sell keynote slots, nor do we distribute attendee contact lists. However, sponsors have the opportunity to deliver an elevator pitch during the main program, and will get recognition on the website and on social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees in the chat. Like any other attendee, sponsors have the opportunity to demo products/projects as part of an Open Space session.
+devopsdays is a conference organized by volunteers, and depends on sponsorships. We do not have badge scanners, sell keynote slots, nor do we distribute attendee contact lists. However, sponsors have the opportunity to deliver an elevator pitch during the main program, and will get recognition on the website and on social media before, during and after the event. Certain sponsor levels also include a table in the exhibition area of the venue. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees in the chat. Like any other attendee, sponsors have the opportunity to demo products/projects as part of an Open Space session.
 <p>
   <strong>Hot tip:</strong> encourage your engineers to participate in, and interact with the attendees and experts at devopsdays. The in-person devopsdays Amsterdam conference typically attracts around 500 participants.
 <p>
