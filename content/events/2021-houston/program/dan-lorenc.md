@@ -6,6 +6,7 @@ Title = "Zero-Trust Supply Chain Security"
 Type = "talk"
 Speakers = ["dan-lorenc"]
 sharing_image = "dan-lorenc.png"
+slideslive = "38966337"
 
 +++
 
