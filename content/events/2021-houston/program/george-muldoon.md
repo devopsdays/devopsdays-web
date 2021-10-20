@@ -6,6 +6,7 @@ Title = "The End of Traditional Authentication"
 Type = "talk"
 Speakers = ["george-muldoon"]
 sharing_image = "george-muldoon.png"
+slideslive = "38966327"
 
 +++
 

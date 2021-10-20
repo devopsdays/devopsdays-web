@@ -6,6 +6,7 @@ Title = "Optimizing time to first deployment"
 Type = "talk"
 Speakers = ["matthew-ostlind"]
 sharing_image = "matthew-ostlind.png"
+slideslive = "38966564"
 
 +++
 

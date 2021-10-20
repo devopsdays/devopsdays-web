@@ -6,6 +6,7 @@ Title = "Adding Reproducible Experiments To Your Machine Learning Pipeline"
 Type = "talk"
 Speakers = ["milecia-mcgregor"]
 sharing_image = "milecia-mcgregor.png"
+slideslive = "38966549"
 
 +++
 
