@@ -1,10 +1,11 @@
-name: "2022-birmingham" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+name: "2022-birmingham-uk" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2022" # The year of the event. Make sure it is in quotes.
-city: "Birmingham" # The displayed city name of the event. Capitalize it.
+city: "Birmingham, UK" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysbrum" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "Devopsdays is coming to birmingham!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 event_logo: logo.png
+event_group: "Birmingham, UK"
 
 # All dates are in unquoted 2022-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00

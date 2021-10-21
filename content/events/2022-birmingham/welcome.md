@@ -1,7 +1,7 @@
 +++
 Title = "devopsdays birmingham 2022"
 Type = "welcome"
-aliases = ["/events/2022-birmingham/"]
+aliases = ["/events/2022-birmingham-uk/"]
 Description = "devopsdays birmingham 2022"
 +++
 
