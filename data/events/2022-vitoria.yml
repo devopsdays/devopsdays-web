@@ -193,6 +193,6 @@ sponsors:
   - id: linuxtips
     level: gold
     url: https://www.linuxtips.io/
-  # - id: globoofficial
-  #   level: gold
-  #   url: https://www.globo.com/
+  - id: globoofficial
+    level: silver
+    url: https://www.globo.com/
