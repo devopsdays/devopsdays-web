@@ -186,10 +186,13 @@ sponsor_levels:
   - id: bronze
     label: Bronze
 
-# sponsors:
-#   - id: linuxtips
-#     level: gold
-#     url: https://www.linuxtips.io/
-#   - id: globocom
-#     level: gold
-#     url: https://www.globo.com/
+sponsors:
+  - id: LPI
+    level: gold
+    url: https://www.lpi.org/
+  - id: linuxtips
+    level: gold
+    url: https://www.linuxtips.io/
+  - id: globoofficial
+    level: silver
+    url: https://www.globo.com/
