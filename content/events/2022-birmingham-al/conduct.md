@@ -1,11 +1,11 @@
 +++
 Title = "Conduct"
 Type = "event"
-Description = "Code of conduct for devopsdays Birmingham 2022"
+Description = "Code of conduct for devopsdays Birmingham, AL 2022"
 +++
 
 
-All attendees, speakers, sponsors, and volunteers at devopsdays Birmingham 2022 are required to agree with the following code of conduct. Organizers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensure a safe environment for everybody.
+All attendees, speakers, sponsors, and volunteers at devopsdays Birmingham, AL 2022 are required to agree with the following code of conduct. Organizers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensure a safe environment for everybody.
 
 ### The Quick Version
 

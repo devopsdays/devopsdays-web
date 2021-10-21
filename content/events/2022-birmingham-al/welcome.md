@@ -1,7 +1,7 @@
 +++
 Title = "DevOpsDays Birmingham, Alabama 2022"
 Type = "welcome"
-aliases = ["/events/2022-bham/"]
+aliases = ["/events/2022-birmingham-al/"]
 Description = "DevOpsDays is coming. April 18th and 19th, 2022 in the beautiful Birmingham, Alabama"
 +++
 
