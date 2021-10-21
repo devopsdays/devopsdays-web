@@ -74,6 +74,9 @@ team_members:  # Name is the only required field for team members.
   - name: "Recep Cetin"
     image: "recep-cetin.jpg"
   - name: "Roberth Strand"
+    employer: "Crayon"
+    twitter: "roberthtweets"
+    linkedin: "https://www.linkedin.com/in/roberthstrand"
 
 organizer_email: "oslo@devopsdays.org"
 
