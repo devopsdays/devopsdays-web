@@ -7,13 +7,13 @@ Description = "About DevOpsDays Los Angeles 2022"
 <br>
 
 <p>
-DevOpsDayLA is a part of the worldwide series of DevOpsDays events held annually, sanctioned, and supported by the DevOpsDays global core team.
-
+We are proud to announce the 10th Annual DevOpsDaysLA will be held Friday, March 4, 2022. DevOpsDaysLA is an anual event held in Southern California. The conference is volunteer-organized and dedicated to the DevOps community.DevOpsDaysLA is presented in cooperation with the Southern California Linux Expo (SCALE).
+<br>
+<br>
+<img alt="DevOps" src="/events/2022-los-angeles/devops-loop.svg" style="width:35%">
+<br>
+<br>
 <p>
-The first DevOpsDay was held in Ghent, Belgium in 2009. Over 70 cities globally have hosted events, organized and delivered by volunteers dedicated to advancing DevOps practices and values.
+"DevOps is a set of practices that combines software development (Dev) and IT operations (Ops). It aims to shorten the systems development life cycle and provide continuous delivery with high software quality". [Loukides, Mike (7 June 2012). "What is DevOps?", http://radar.oreilly.com/2012/06/what-is-devops.html. O&rsquo;Reilly Media)]
 
-<br>
-<br>
-<img alt="DEvOpsDay Los Angeles" src="/events/2022-los-angeles/Devops_Talk.png" style="width:35%">
-<br>
 <br>
