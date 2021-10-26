@@ -20,26 +20,24 @@ cfp_date_announce: 2021-06-30T00:00:00+02:00
 
 cfp_link: "https://www.papercall.io/devopsdays-tlv-2021" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: 2021-10-01T00:00:00+02:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2021-11-25T00:00:00+02:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://tlvcommunity.dev/devopsdays/register" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
-#
-coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+coordinates: "32.11091901983046, 34.80388762740464" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Smolarz Auditorium, Tel Aviv University" # Defaults to city, but you can make it the venue name.
-#
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "Dr George Wise St 24, Tel Aviv-Yafo" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+ # - name: propose
   - name: location
- # - name: registration
+  - name: registration
  # - name: program
  # - name: speakers
-  - name: sponsor
+ # - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
@@ -68,7 +66,7 @@ team_members: # Name is the only required field for team members.
     github: "burdandrei"
     linkedin: "https://www.linkedin.com/in/burdandrei/"
     website: "https://mattstratton.com"
-    image: "andrei-burd.jpg"
+    image: "andrei-burd.jpeg"
 
   - name: "Nati Cohen"
     employer: "AWS"
@@ -81,7 +79,7 @@ team_members: # Name is the only required field for team members.
     employer: "Palo Alto Networks"
     github: "hilafish"
     linkedin: "https://www.linkedin.com/in/hila-fish-863949a/"
-    website: "https://mattstratton.com"
+    website: ""
     image: "hila-fish.jpg"
 
   - name: "Gil Zellner"
@@ -106,7 +104,7 @@ team_members: # Name is the only required field for team members.
     image: "viki-slavin.jpg"
   
   - name: "Dan Yelovitch"
-    employer: "Snap, Inc."
+    employer: "Develeap"
     github: "devopsdays"
     linkedin: "https://www.linkedin.com/in/dan-yelovitch-15b92036/"
     website: ""
@@ -150,9 +148,23 @@ team_members: # Name is the only required field for team members.
   - name: "Roman Roberman"
     employer: "Wix"
     github: ""
-    linkedin: ""
+    linkedin: "https://www.linkedin.com/in/roman-roberman/"
     website: ""
     image: "roman-roberman.jpeg"
+
+  - name: "Dotan Horovits"
+    employer: "Logz.io"
+    github: ""
+    linkedin: "https://www.linkedin.com/in/horovits/"
+    website: ""
+    image: "dotan-horovits.jpg"
+
+  - name: "Tal Kimhi"
+    employer: "BigPanda"
+    github: ""
+    linkedin: "https://www.linkedin.com/in/talkimhi/"
+    website: ""
+    image: "tal-kimhi.jpg"
 
 
 organizer_email: "tel-aviv@devopsdays.org" # Put your organizer email address here
@@ -195,6 +207,8 @@ sponsors:
     level: community
   - id: logz 
     level: community
+  - id: applied-materials
+    level: community
   - id: microsoft 
     level: community
   - id: spot-by-netapp 
@@ -205,6 +219,8 @@ sponsors:
     level: community
   - id: jfrog
     level: community
+  - id: next-insurance
+    level: branding
   - id: livecycle
     level: other
   - id: aerospike
@@ -217,6 +233,14 @@ sponsors:
     level: other
   - id: hashicorp
     level: other
+  - id: kaltura
+    level: other
+  - id: quali
+    level: community
+  - id: bridgecrew
+    level: branding
+  - id: harness
+    level: branding
   - id: daily-dev
     level: media
   - id: barvazgumi

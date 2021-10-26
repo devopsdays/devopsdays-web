@@ -6,6 +6,7 @@ Title = "The Rise and Benefits of Robotic Process Automation"
 Type = "talk"
 Speakers = ["thomas-haver"]
 sharing_image = "thomas-haver.png"
+slideslive = "38966326"
 
 +++
 

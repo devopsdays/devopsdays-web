@@ -20,8 +20,11 @@ Description = "DevOpsDays Zürich 2021"
 <img src="/events/2021-zurich/logo.png" style="float:center"/>
 
 <strong>
-  <br>Welcome to the fourth round of DevOpsDays 2021!
+  <br>DevOps Days 2021 was great. Check out the photos and videos!
+  <br><a class="btn btn-primary btn-block"  style = "width: 200px; margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://www.flickr.com/photos/150616602@N02/sets/72157719880335267/" target="_blank">Photos</a>
+  <br><a class="btn btn-primary btn-block"  style = "width: 200px; margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://vimeo.com/showcase/8835529" target="_blank">Videos</a>
 </strong>
+
 
 <div class = "row">
   <div class = "col-md-12">

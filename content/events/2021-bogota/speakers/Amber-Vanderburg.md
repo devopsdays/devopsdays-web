@@ -1,6 +1,6 @@
 ﻿+++
 Title = "Amber Vanderburg"
-Twitter = ""
+Twitter = "@vanderburgamber"
 image = "Amber-Vanderburg.jpg"
 type = "speaker"
 linktitle = "Amber-Vanderburg"

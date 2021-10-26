@@ -12,6 +12,7 @@
 /berlin/*		/events/2020-berlin/:splat		302
 /birmingham-al/*	/events/2022-birmingham-al/:splat		302
 /birmingham/* /events/2021-birmingham/:splat		302
+/birmingham-uk/*		/events/2022-birmingham-uk/:splat		302
 /bogota/*		/events/2021-bogota/:splat		302
 /boise/*		/events/2021-boise/:splat		302
 /boston/*		/events/2021-boston/:splat		302
@@ -74,13 +75,13 @@
 /new-york-city/*	/events/2021-new-york-city/:splat	302
 /new-zealand/*		/events/2019-auckland/:splat		302
 /newcastle/*		/events/2018-newcastle/:splat		302
-/oslo/*			/events/2020-oslo/:splat		302
+/oslo/*			/events/2021-oslo/:splat		302
 /paris/*		/events/2021-paris/:splat		302
 /philadelphia/*		/events/2020-philadelphia/:splat	302
 /phoenix/*		/events/2018-phoenix/:splat		302
 /pittsburgh/*		/events/2015-pittsburgh/:splat		302
 /portland-me/*		/events/2020-portland-me/:splat		302
-/portland-or/*		/events/2021-portland-or/:splat		302
+/portland-or/*		/events/2022-portland-or/:splat		302
 /events/2021-portland/* /events/2021-portland-or/:splat 302
 /porto-alegre/*		/events/2021-porto-alegre/:splat	302
 /portugal/*		/events/2020-portugal/:splat		302
@@ -160,3 +161,4 @@
 /lima/*            /events/2020-lima/:splat           302
 /rosario/*            /events/2020-rosario/:splat           302
 /geneva/*		/events/2021-geneva/:splat		302
+/aarhus/*            /events/2022-aarhus/:splat           302

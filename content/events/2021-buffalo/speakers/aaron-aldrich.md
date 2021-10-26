@@ -2,7 +2,7 @@
 Title = "Aaron Aldrich"
 Twitter = "crayzeigh"
 Website = "http://crayzeigh.com"
-image = "aaron-aldrich.jpeg"
+image = "aaron-aldrich.png"
 type = "speaker"
 linktitle = "aaron-aldrich"
 
