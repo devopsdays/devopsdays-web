@@ -10,7 +10,7 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2021-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate:  2021-11-04T08:00:00-04:00
+startdate:  2021-11-04T08:30:00-04:00
 enddate:  2021-11-04T19:00:00-04:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
@@ -18,14 +18,14 @@ cfp_date_start:  2021-07-26T00:00:00-04:00
 cfp_date_end:  2021-09-13T23:59:59-04:00
 cfp_date_announce:  2021-09-27T23:59:59-04:00
 
-cfp_open: "true"
+cfp_open: "false"
 cfp_link: "https://devopsdaysdc2021.busyconf.com/proposals/new"
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: 2021-10-07T00:00:00-04:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2021-11-05T00:00:00-04:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://hopin.com/events/devopsdays-dc-2021" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -35,11 +35,13 @@ location: "Washington, D.C." # Defaults to city, but you can make it the venue n
 location_address: "Online Event! Stay Safe!" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+ # - name: propose
  # - name: location
- # - name: registration
- # - name: program
- # - name: speakers
+  - name: registration
+  - name: program
+    url: https://hopin.com/events/devopsdays-dc-2021#schedule # The url setting is optional, and only if you want the navigation to link off-site
+  - name: speakers
+    url: https://hopin.com/events/devopsdays-dc-2021#speakers # The url setting is optional, and only if you want the navigation to link off-site
   - name: sponsor
   - name: contact
   - name: conduct
@@ -254,6 +256,8 @@ sponsor_levels:
 sponsors:
   - id: excella
     level: platinum
+  - id: chef-progress
+    level: platinum
   - id: aviatrix
     level: platinum
   - id: cloudsmith
@@ -261,6 +265,8 @@ sponsors:
   - id: launch-darkly-government
     level: gold
   - id: pluribus-digital
+    level: gold
+  - id: fearless-hutch
     level: gold
   - id: homelight
     level: silver

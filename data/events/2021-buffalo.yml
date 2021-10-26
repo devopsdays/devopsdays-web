@@ -119,6 +119,10 @@ sponsors:
     level: gold
   - id: aviatrix
     level: gold
+  - id: mandtbank
+    level: captioning
+  - id: observiq
+    level: snack
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -133,9 +137,15 @@ sponsor_levels:
   - id: silver
     label: Silver
     max: 5
+  - id: captioning
+    label: Captioning
+    max: 1
   - id: bronze
     label: Bronze
     max: 10
+  - id: snack
+    label: Snack
+    max: 1
   - id: community
     label: Community
 
@@ -160,15 +170,20 @@ program:
     date: 2021-10-13
     start_time: "15:00"
     end_time: "15:25"
-  - title: "ben-greenberg"
+  - title: "josh-stella"
     type: talk
     date: 2021-10-13
     start_time: "15:30"
     end_time: "15:55"
+  - title: "dan-lines"
+    type: talk
+    date: 2021-10-13
+    start_time: "16:00"
+    end_time: "16:25"
   - title: "Intermission - Drive time to Transit Drive-In"
     type: custom
     date: 2021-10-13
-    start_time: "16:00"
+    start_time: "16:30"
     end_time: "17:30"
   - title: "Attendee Arrival, In-person Registration, and Dinner"
     type: custom
@@ -238,7 +253,7 @@ program:
     date: 2021-10-14
     start_time: "15:00"
     end_time: "15:25"
-  - title: "josh-stella"
+  - title: "ben-greenberg"
     type: talk
     date: 2021-10-14
     start_time: "15:30"

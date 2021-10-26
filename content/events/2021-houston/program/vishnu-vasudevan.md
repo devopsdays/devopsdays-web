@@ -6,6 +6,7 @@ Title = "How to integrate Security & Quality into Your CI/CD Pipelines and What 
 Type = "talk"
 Speakers = ["vishnu-vasudevan"]
 sharing_image = "vishnu-vasudevan.png"
+slideslive = "38966546"
 
 +++
 
