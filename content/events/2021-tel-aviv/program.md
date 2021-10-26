@@ -11,7 +11,10 @@ Icons = "false"
     The program of the event is under construction meanwhile you can go check the program <a href="https://tlvcommunity.dev/devopsdays/agenda-2021.html">here </a>
     <hr />
     <hr />
-    If Open Space is new to you, you may be interested in <a href="/pages/open-space-format">more details about Open Space</a>.
+    Open spaces registration is <a href="https://forms.gle/fKuXAZJUcBCKqB627">here</a>.
+    <hr />
+    <hr />
+    On top of our excellent talks we'll be running four workshop over the course of the two days, registration is form <a href="https://forms.gle/9Acpjn6MJEpa5nRE9">here</a>. 
     <hr />
   </div>
 </div>
