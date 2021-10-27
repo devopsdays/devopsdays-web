@@ -35,7 +35,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: propose
   - name: location
   - name: registration
- # - name: program
+  - name: program
  # - name: speakers
  # - name: sponsor
   - name: contact
@@ -241,6 +241,12 @@ sponsors:
     level: branding
   - id: harness
     level: branding
+  - id: gk8
+    level: branding
+  - id: neuralegion
+    level: branding
+  - id: icinga
+    level: branding
   - id: daily-dev
     level: media
   - id: barvazgumi
@@ -265,3 +271,169 @@ sponsor_levels:
 #    max: 10
   - id: media
     label: Media Partner
+#program:
+#  - title: "Breakfast Sponsored by Coralogix & Reuniting with Friends in the Hallway Track"
+#    type: custom
+#    date: 2021-11-24T09:00:00+02:00
+#    start_time: "08:30"
+#    end_time: "09:30"
+#  - title: "Opening Welcome"
+#    type: custom
+#    date: 2021-11-24T09:00:00+02:00
+#    start_time: "09:00"
+#    end_time: "09:15"
+#  - title: "test"
+#    type: talk
+#    date: 2021-11-24T09:00:00+02:00
+#    start_time: "09:15"
+#    end_time: "09:45"
+#  - title: "Sponsors"
+#    type: custom
+#    date: 2021-11-24T09:00:00+02:00
+#    start_time: "09:45"
+#    end_time: "09:55"
+#  - title: "test"
+#    type: talk
+#    date: 2021-11-24T09:00:00+02:00
+#    start_time: "09:55"
+#    end_time: "10:25"
+#  - title: "Break"
+#    type: custom
+#    date: 2021-11-24T09:00:00+02:00
+#    start_time: "10:25"
+#    end_time: "10:40"
+#  - title: "test"
+#    type: talk
+#    date: 2021-11-24T09:00:00+02:00
+#    start_time: "10:40"
+#    end_time: "11:10"
+#  - title: "Sponsors"
+#    type: custom
+#    date: 2021-11-24T09:00:00+02:00
+#    start_time: "11:10"
+#    end_time: "11:20"
+#  - title: "test"
+#    type: talk
+#    date: 2021-11-24T09:00:00+02:00
+#    start_time: "11:20"
+#    end_time: "11:50"
+#  - title: "Lunch"
+#    type: custom
+#    date: 2021-11-24T09:00:00+02:00
+#    start_time: "11:50"
+#    end_time: "13:00"
+#  - title: "Ignites"
+#    type: custom
+#    date: 2021-11-24T09:00:00+02:00
+#    start_time: "13:00"
+#    end_time: "13:30"
+#  - title: "Open Space Opening"
+#    type: custom
+#    date: 2021-11-24T09:00:00+02:00
+#    start_time: "13:30"
+#    end_time: "14:00"
+#  - title: "Open Space #1"
+#    type: custom
+#    date: 2021-11-24T09:00:00+02:00
+#    start_time: "14:00"
+#    end_time: "14:45"
+#  - title: "Open Space #2"
+#    type: custom
+#    date: 2021-11-24T09:00:00+02:00
+#    start_time: "15:00"
+#    end_time: "15:45"
+#  - title: "Open Space #3"
+#    type: custom
+#    date: 2021-11-24T09:00:00+02:00
+#    start_time: "16:00"
+#    end_time: "16:45"
+#  - title: "Close Day"
+#    type: custom
+#    date: 2021-11-24T09:00:00+02:00
+#    start_time: "16:45"
+#    end_time: "17:00"
+#  - title: "Evening event"
+#    type: custom
+#    date: 2021-11-24T09:00:00+02:00
+#    start_time: "19:00"
+#    end_time: "late"
+#  - title: "Registration, Breakfast, Sponsors"
+#    type: custom
+#    date: 2021-11-25T17:30:00+02:00
+#    start_time: "08:00"
+#    end_time: "09:00"
+#  - title: "Opening Welcome"
+#    type: custom
+#    date: 2021-11-25T17:30:00+02:00
+#    start_time: "09:00"
+#    end_time: "09:15"
+#  - title: "test"
+#    type: talk
+#    date: 2021-11-25T17:30:00+02:00
+#    start_time: "09:15"
+#    end_time: "09:45"
+#  - title: "Sponsors"
+#    type: custom
+#    date: 2021-11-25T17:30:00+02:00
+#    start_time: "09:45"
+#    end_time: "09:55"
+#  - title: "test"
+#    type: talk
+#    date: 2021-11-25T17:30:00+02:00
+#    start_time: "09:55"
+#    end_time: "10:25"
+#  - title: "Break"
+#    type: custom
+#    date: 2021-11-25T17:30:00+02:00
+#    start_time: "10:25"
+#    end_time: "10:40"
+#  - title: "test"
+#    type: talk
+#    date: 2021-11-25T17:30:00+02:00
+#    start_time: "10:40"
+#    end_time: "11:10"
+#  - title: "Sponsors"
+#    type: custom
+#    date: 2021-11-25T17:30:00+02:00
+#    start_time: "11:10"
+#    end_time: "11:20"
+#  - title: "test"
+#    type: talk
+#    date: 2021-11-25T17:30:00+02:00
+#    start_time: "11:20"
+#    end_time: "11:50"
+#  - title: "Lunch"
+#    type: custom
+#    date: 2021-11-25T17:30:00+02:00
+#    start_time: "11:50"
+#    end_time: "13:00"
+#  - title: "Ignites"
+#    type: custom
+#    date: 2021-11-25T17:30:00+02:00
+#    start_time: "13:00"
+#    end_time: "13:30"
+#  - title: "Open Space Opening"
+#    type: custom
+#    date: 2021-11-25T17:30:00+02:00
+#    start_time: "13:30"
+#    end_time: "14:00"
+#  - title: "Open Space #1"
+#    type: custom
+#    date: 2021-11-25T17:30:00+02:00
+#    start_time: "14:00"
+#    end_time: "14:45"
+#  - title: "Open Space #2"
+#    type: custom
+#    date: 2021-11-25T17:30:00+02:00
+#    start_time: "15:00"
+#    end_time: "15:45"
+#  - title: "Open Space #3"
+#    type: custom
+#    date: 2021-11-25T17:30:00+02:00
+#    start_time: "16:00"
+#    end_time: "16:45"
+#  - title: "Closing"
+#    type: custom
+#    date: 2021-11-25T17:30:00+02:00
+#    start_time: "16:45"
+#    end_time: "17:00"
