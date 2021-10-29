@@ -5,10 +5,14 @@ aliases = ["/events/2022-aarhus/"]
 Description = "devopsdays Aarhus 2022"
 +++
 
-We look forward to welcoming you to DevOpsDays Aarhus 2021. We will bring you a fantastic lineup of speakers, and hope you come to be inspired, and to discuss your challenges and successes with your peers!
-<!-- <div style="text-align:center;">
-  {{< event_logo >}}
-</div> -->
+
+
+<div class="row">
+  <div class="col-md-8">
+  <h2>We’re proud to announce that Devopsdays is officially coming to Aarhus, Denmark.</h2>
+  <p>Delayed due to the pandemic, we look forward to welcoming the local DevOps scene, inspiring speakers and our sponsors, to a great event. And we have selected a really cool venue, too.
+
+<p>Limited seats available, so <a href="https://www.eventbrite.co.uk/e/devopsdays-aarhus-2022-tickets-92256964063?aff=ebdssbeac">sign up today!</a>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -19,50 +23,14 @@ We look forward to welcoming you to DevOpsDays Aarhus 2021. We will bring you a 
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
-    <strong>Location</strong>
+    <strong>Price</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_location >}}
+    	1,799 DKK(excl tax)
   </div>
-</div> -->
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Register</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
-  </div>
-</div> -->
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Propose</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
-  </div>
-</div> -->
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Program</strong>
-  </div>
-  <div class = "col-md-8">
-    View the {{< event_link page="program" text="program." >}}
-  </div>
-</div> -->
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Speakers</strong>
-  </div>
-  <div class = "col-md-8">
-    Check out the {{< event_link page="speakers" text="speakers!" >}}
-  </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -82,7 +50,28 @@ We look forward to welcoming you to DevOpsDays Aarhus 2021. We will bring you a 
   </div>
 </div>
 
-<!-- Uncomment if you added your city twitter name -->
-<!--
-{{< event_twitter >}}
--->
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Venue</strong>
+  </div>
+  <div class = "col-md-8">
+    <a href="https://goo.gl/maps/FJDWA7JkcsYUArRs7">Aarhus International Sailing Center / Sejlsportscentret Aarhus</a>
+  </div>
+</div>
+
+<p>
+
+<h3>Already bought a ticket before the pandemic?</h3>
+Congratulations! Your ticket is still valid, so you don’t have to do anything.
+  </div>
+    <div class="col-md-4">
+    <div style="text-align:right;">
+  {{< event_logo >}}
+  </div>
+  </div>
+</div>
+
+
+
+
+
