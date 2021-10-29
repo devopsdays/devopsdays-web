@@ -105,9 +105,13 @@ sponsors:
     level: gold
   - id: dynatrace
     level: gold
+  - id: trilio
+    level: gold
   - id: valueitswiss
     level: silver
   - id: sokube
+    level: silver
+  - id: stacksciences
     level: silver
   - id: dbi-services
     level: silver
