@@ -5,7 +5,7 @@ aliases = ["/events/2022-cairo/"]
 Description = "DevOpsDays Cairo 2022"
 +++
 <div>
-<p>DevOpsDays Cairo is a one-day event.<br>For the 5th consecutive year, SECC/ITIDA are organizing DevOpsDays Cairo 2021 in cooperation with ATOS, DXC Technology and Orange Labs.</p>
+<p>DevOpsDays Cairo is a one-day event.<br>For the 5th consecutive year, SECC/ITIDA are organizing DevOpsDays Cairo 2022 in cooperation with ATOS, DXC Technology and Orange Labs.</p>
 </div>
 <div>
     <p>Just &quot;Like&quot; our <a href="https://www.facebook.com/SECC.Egypt/" rel="noopener noreferrer" target="_blank">Facebook page</a>, adjust your calender/notifications, and stay tuned!</p>
