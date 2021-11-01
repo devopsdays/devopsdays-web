@@ -1,6 +1,6 @@
 +++
 Title = "Pranjal Deo" 
-image = "pranjal-deo.jpg" 
+image = "pranjal-deo.png" 
 type = "speaker" 
 linktitle = "pranjal-deo" 
 +++

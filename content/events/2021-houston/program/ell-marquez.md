@@ -6,6 +6,7 @@ Title = "Shift Left Security Concerns: DevSecOps is Pronounced DevOps: The Sec i
 Type = "talk"
 Speakers = ["ell-marquez"]
 sharing_image = "ell-marquez.png"
+slideslive = "38966542"
 
 +++
 

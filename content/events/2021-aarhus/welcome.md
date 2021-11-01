@@ -8,25 +8,9 @@ Description = "devopsdays Aarhus 2021"
    {{< event_logo >}}
 </div>
 
-Due to the COVID-19 situation, we rescheduled the event from June 2020 to the fall of 2021. We will automatically postpone your ticket to these dates, unless you prefer a full refund of course.
+Due to the COVID-19 situation, we rescheduled the event from June 2020 to the spring of 2022. We will automatically postpone your ticket to these dates, unless you prefer a full refund of course.
 
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Dates</strong>
-  </div>
-  <div class = "col-md-8">
-    Devopsdays will come to Aarhus {{< event_start >}} - {{< event_end >}}
-  </div>
-</div>
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Location</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_location >}}
-  </div>
-</div>
+<a href="/events/2021-aarhus">Join us at DevOpsDays Aarhus 2022!</a>
 
 <!--
 <div class = "row">

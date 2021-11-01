@@ -5,6 +5,8 @@ event_twitter: "devopsdaysbrum" # Change this to the twitter handle for your eve
 description: "While our 2021 event will no longer happen, we will return in 2022." # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 event_logo: logo.png
+event_group: "Birmingham, UK"
+
 #masthead_background: "background.png"
 
 # All dates are in unquoted 2021-MM-DDTHH:MM:SS+TZ:TZ, like this:

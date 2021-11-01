@@ -3,10 +3,11 @@ Title = "Sponsor"
 Type = "event"
 Description = "Sponsor DevOpsDays Los Angeles 2022"
 +++
-<h3>DevOpsDayLA - Become A Sponsor</h3>
+<br>
+<h3>Become A Sponsor</h3>
 
 <p>
-Thank you for your interest! Below is an overview of the conference as well as our sponsor packages. Please email the organizing committee at [{{< email_organizers >}}] for additional information or to secure your package.
+Thank you for your interest! Below is an overview of the conference as well as our sponsor packages. Please email the organizing committee at {{< email_organizers >}} for additional information or to secure your package.
 
 <h3>About DevOpsDayLA</h3>
 
@@ -22,29 +23,21 @@ DevOpsDaysLA, now in its 10th year, is Southern California's only annual confere
 
 <p>
 There are also opportunities for exclusive special sponsorships. We'll have sponsors for various events with special privileges for the sponsors of these events. If you are interested in special sponsorships or have a creative idea about how you can support the event, send us an email.
+
 <p>
+The best thing to do is send engineers to interact with the experts at devopsdays on their own terms.
+
 <strong>Note:</strong> We do not share attendee lists.
 
-<h3>Packages</h3>
+<h3><a href="/events/2022-los-angeles/DevOpsDayLA2022_Sponsor.pdf">Sponsor Prospectus</a></h3>
 
-<div style="width:590px">
-<table border=1 cellspacing=1>
-  <tr>
-    <th></th>
-    <th><center><b><u>Startup<br />1000 usd</u></center></b></th>
-    <th><center><b><u>Silver<br />2000 usd</u></center></b></th>
-    <th><center><b><u>Gold<br />3000 usd</u></center></b></th>
-  </tr>
-<tr><td>2 included tickets</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on event website</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on shared slide, rotating during breaks</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on all email communication</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on its own slide, rotating during breaks</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>1 minute pitch to full audience (including streaming audience)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr></tr>
-<tr><td>2 additional tickets (4 in total)</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td>4 additional tickets (6 in total)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>shared table for swag</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td>booth/table space</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-</table>
+<h3>Exclusive Sponsorships</h3>
+
+<img alt="Exclusive Sponsorships" src="/events/2022-los-angeles/Exclusive_Sponsorships.jpg" style="width:60%">
+
+<h3>Sponsorship Packages</h3>
+
+<img alt="Exclusive Sponsorships" src="/events/2022-los-angeles/Sponsorship_Packages.jpg" style="width:60%">
+
 <hr/>
 
