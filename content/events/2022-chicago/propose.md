@@ -76,4 +76,4 @@ Our main criteria to make it to the top selection are:
 
 <hr>
 
-<strong>How to submit a proposal:</strong> How to submit a proposal: Visit our [CFP Site and submit a proposal there]https://sessionize.com/devopsdays-chicago-2022/). If you run into any problems, please don’t hesitate to contact us by email at [{{< email_proposals >}}].
+<strong>How to submit a proposal:</strong> How to submit a proposal: Visit our [CFP Site and submit a proposal there]https://sessionize.com/devopsdays-chicago-2022/). If you run into any problems, please don’t hesitate to contact us by email at [{{< email_organizers >}}].
