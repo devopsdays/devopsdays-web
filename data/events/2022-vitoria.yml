@@ -198,22 +198,22 @@ sponsor_levels:
     label: Bronze
 
 sponsors:
-  - id: LPI
-    level: gold
-    url: https://www.lpi.org/
-  - id: linuxtips
-    level: gold
-    url: https://www.linuxtips.io/
-  - id: spiritsec
-    level: gold
-    url: https://www.spiritsec.com/
-  - id: globoofficial
-    level: silver
-    url: https://www.globo.com/
   - id: willbank
     level: platinum
     url: https://www.willbank.com.br/
   - id: flexa
     level: platinum
     url: https://flexa.cloud/
+  - id: linuxtips
+    level: gold
+    url: https://www.linuxtips.io/
+  - id: spiritsec
+    level: gold
+    url: https://www.spiritsec.com/
+  - id: LPI
+    level: gold
+    url: https://www.lpi.org/
+  - id: globoofficial
+    level: silver
+    url: https://www.globo.com/
     
