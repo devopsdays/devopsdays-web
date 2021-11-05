@@ -42,7 +42,7 @@ nav_elements:  # List of pages you want to show up in the navigation of your pag
   - name: registration
   # - name: program
   # - name: speakers
-  # - name: sponsor
+  - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
@@ -89,10 +89,16 @@ organizer_email: "oslo@devopsdays.org"
 #     url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 #   - id: arresteddevops
 #     level: community
-# sponsors:
-#   - id: entur
-#     level: partner
-#   - id: praqma
-#     level: partner
+sponsors:
+  - id: entur
+    level: event
+  - id: eficode
+    level: event
+  - id: merkely
+    level: event
+
+sponsor_levels:
+  - id: event
+    label: Event
 
 sponsors_accepted: "yes"  # Whether you want "Become a X Sponsor!" link
