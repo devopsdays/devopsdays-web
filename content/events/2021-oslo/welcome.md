@@ -52,14 +52,14 @@ Description = "devopsdays Oslo 2021"
           {{< event_link page="program" text="View the program!" >}}
         </div>
       </div> -->
-    <!--   <div class="row" style="margin-bottom: 1rem;">
+      <div class="row" style="margin-bottom: 1rem;">
         <div class="col-md-12">
           <strong>Sponsors</strong>
         </div>
         <div class="col-md-12">
           {{< event_link page="sponsor" text="Sponsor the conference!" >}}
         </div>
-      </div> -->
+      </div>
       <div class="row" style="margin-bottom: 1rem;">
         <div class="col-md-12">
           <strong>Contact</strong>
