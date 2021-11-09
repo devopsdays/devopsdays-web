@@ -1,7 +1,7 @@
 +++
-Title = "Schedule"
+Title = "Program"
 Type = "event"
-Description = "Schedule for DevOpsDays Oslo 2021"
+Description = "Program for DevOpsDays Oslo 2021"
 +++
 
 <div class="row">

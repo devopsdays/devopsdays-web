@@ -44,14 +44,22 @@ Description = "devopsdays Oslo 2021"
           {{< event_link url-key="cfp_link" text="Propose a talk!" >}}
         </div>
       </div> -->
-<!--       <div class="row" style="margin-bottom: 1rem;">
+      <div class="row" style="margin-bottom: 1rem;">
+        <div class="col-md-12">
+          <strong>Speakers</strong>
+        </div>
+        <div class="col-md-12">
+          {{< event_link page="speakers" text="Check out the speakers!" >}}
+        </div>
+      </div>
+      <div class="row" style="margin-bottom: 1rem;">
         <div class="col-md-12">
           <strong>Program</strong>
         </div>
         <div class="col-md-12">
           {{< event_link page="program" text="View the program!" >}}
         </div>
-      </div> -->
+      </div>
       <div class="row" style="margin-bottom: 1rem;">
         <div class="col-md-12">
           <strong>Sponsors</strong>
