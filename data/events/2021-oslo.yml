@@ -40,8 +40,8 @@ nav_elements:  # List of pages you want to show up in the navigation of your pag
   # - name: livestream
   - name: location
   - name: registration
-  # - name: program
-  # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -95,6 +95,8 @@ sponsors:
   - id: eficode
     level: event
   - id: merkely
+    level: event
+  - id: microsoft
     level: event
 
 sponsor_levels:
