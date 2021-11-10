@@ -13,7 +13,7 @@ Description = "DevOpsDays Zürich 2022"
   <div class="alert alert-info" role="alert">
     <h2>COVID-19</h2>
     We’re aware of the present situation as a consequence of COVID-19 and take it very seriously. <br/>
-<b>Only persons with a valid COVID-Certificate and a valid ID (e.g. driving license or passport) are allowed access to the DevOpsDays Zürich 2021.</b><br/> This means you need to be vaccinated, tested or convalesced from COVID-19 and have a valid COVID-Certificate and a ID.
+<b>Only persons with a valid COVID-Certificate and a valid ID (e.g. driving license or passport) are allowed access to the DevOpsDays Zürich 2022.</b><br/> This means you need to be vaccinated, tested or convalesced from COVID-19 and have a valid COVID-Certificate and a ID.
   </div>
 </div>
 
