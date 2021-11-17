@@ -108,7 +108,7 @@ sponsors:
     level: silver
   - id: pagerduty
     level: bronze
-  - id: torchio
+  - id: torchio-before-20210928
     level: silver
   - id: circleci
     level: silver
@@ -118,7 +118,7 @@ sponsors:
     level: gold
   - id: microsoftazure
     level: gold
-  - id: scout
+  - id: scout-before-20210622
     level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

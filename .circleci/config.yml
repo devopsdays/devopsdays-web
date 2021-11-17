@@ -2,7 +2,7 @@ version: 2
 jobs:
   production:
     docker:
-      - image: cibuilds/hugo:0.76.5
+      - image: cibuilds/hugo:0.88.a
         auth:
           username: devopsdaysbuild
           password: $DOCKERHUB_PASSWORD
@@ -14,7 +14,7 @@ jobs:
 
   build:
     docker:
-      - image: cibuilds/hugo:0.76.5
+      - image: cibuilds/hugo:0.88.1
         auth:
           username: devopsdaysbuild
           password: $DOCKERHUB_PASSWORD
