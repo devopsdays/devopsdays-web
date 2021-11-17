@@ -221,6 +221,14 @@ sponsors:
     level: community
   - id: next-insurance
     level: branding
+  - id: cloudinary
+    level: branding
+  - id: velocitytech
+    level: branding
+  - id: profisea
+    level: branding
+  - id: snappy
+    level: branding
   - id: livecycle
     level: other
   - id: aerospike
