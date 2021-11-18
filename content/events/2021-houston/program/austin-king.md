@@ -6,6 +6,7 @@ Title = "Games We Play to Improve on Incident Response"
 Type = "talk"
 Speakers = ["austin-king"]
 sharing_image = "austin-king.png"
+slideslive = "38966533"
 
 +++
 

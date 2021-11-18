@@ -24,6 +24,9 @@ registration_date_end: 2022-03-05T00:00:00-08:00 # close registration. Leave bla
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://register.socallinuxexpo.org/reg6/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
+# Background
+masthead_background: "DevOpsDayLA_Banner.jpg"
+
 # Location
 coordinates: "34.1436537,-118.1452085" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Pasadena Convention Center" # Defaults to city, but you can make it the venue name.
@@ -32,7 +35,6 @@ location_address: "300 E Green St, Pasadena, CA 91101" #Optional - use the stree
 nav_elements: # List of pages you want to show up in the navigation of your page.
   # - name: program
   # - name: speakers
-  # - name: volunteer
   - name: venue
     url: https://www.socallinuxexpo.org/scale/19x/venue
   - name: registration
@@ -40,8 +42,10 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: CFP
     url: https://docs.google.com/forms/d/e/1FAIpQLSewxucXuZ5nmZYX-nBitrmnr1ZA-O7oc33kheNvoRw1ufEbgg/viewform
   - name: sponsor
+  - name: volunteer
   - name: contact
   - name: conduct
+  - name: about
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -88,11 +92,13 @@ organizer_email: "los-angeles@devopsdays.org" # Put your organizer email address
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  # - id: samplesponsorname
-  #   level: gold
-  #   url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  # - id: arresteddevops
-  #   level: community
+  - id: lightstep
+    level: gold
+  - id: blameless
+    level: silver
+  - id: scale
+    level: community
+    url: https://www.socallinuxexpo.org/scale/19x
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

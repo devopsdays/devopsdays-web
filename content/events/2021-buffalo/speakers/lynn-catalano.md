@@ -1,7 +1,7 @@
 +++
 Title = "Lynn Catalano"
 Website = "http://www.lynncatalano.com"
-image = "lynn-catalano.jpeg"
+image = "lynn-catalano.png"
 type = "speaker"
 linktitle = "lynn-catalano"
 

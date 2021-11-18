@@ -6,6 +6,7 @@ Title = "What makes up a Modern Application Platform?"
 Type = "talk"
 Speakers = ["veer-muchandi"]
 sharing_image = "veer-muchandi.png"
+slideslive = "38966532"
 
 +++
 

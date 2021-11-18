@@ -6,6 +6,7 @@ Title = "Why all speed and no security makes Infrastructure-as-Code a risky busi
 Type = "talk"
 Speakers = ["aakash-shah"]
 sharing_image = "aakash-shah.png"
+slideslive = "38966541"
 
 +++
 
