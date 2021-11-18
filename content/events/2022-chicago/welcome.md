@@ -19,6 +19,8 @@ From fledgling startups to established industry, the Midwest is home to a large,
 DevOpsDays Chicago brings development, operations, QA, InfoSec, management, and leadership together to discuss the culture and tools to make better organizations and products. The 2022 event will be the eighth time we have held DevOpsDays Chicago, and it should be bigger and better than ever before!
 <br><br>
 The format of DevOpsDays Chicago includes a single track of 30 minute talks in the morning of each day, followed by Ignite talks (5 minute lightning talks). We spend the rest of the afternoon in Open Spaces, which are considered a key portion of the event.
+<br><br>
+The organizers of DevOpsDays Chicago believe that the community is stronger when all can participate, therefore we are dedicated to making the 2022 event as accessible as possible, including captioning and ASL interpreters for the morning talks. [Our venue]("../location") (the UIC Forum) is accessible as well.  If you have any questions about any specific accommodation you may need in order to attend, please email chicago@devopsdays.org.
 <br><br>	  
 <div class = "row">
   <div class = "col-md-12">
