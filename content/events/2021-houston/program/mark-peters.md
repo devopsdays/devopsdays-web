@@ -6,6 +6,7 @@ Title = "Finding a security value chain"
 Type = "talk"
 Speakers = ["mark-peters"]
 sharing_image = "mark-peters.png"
+slideslive = "38966529"
 
 +++
 

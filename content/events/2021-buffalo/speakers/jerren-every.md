@@ -1,6 +1,6 @@
 +++
 Title = "Jerren Every"
-image = "jerren-every.jpeg"
+image = "jerren-every.png"
 type = "speaker"
 linktitle = "jerren-every"
 
