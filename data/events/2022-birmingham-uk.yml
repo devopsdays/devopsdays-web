@@ -62,6 +62,10 @@ team_members: # Name is the only required field for team members.
     employer: "Civo Cloud"
     image: "anais-urlichs.jpg"
     twitter: "@urlichsanais"
+  - name: "Michael Cade"
+    employer: "Kasten by Veeam"
+    image: "michael-cade.jpg"
+    twitter: "@MichaelCade1"
 
 organizer_email: "birmingham-uk@devopsdays.org" # Put your organizer email address here
 
