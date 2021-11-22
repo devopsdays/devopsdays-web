@@ -65,7 +65,7 @@ Icons = "false"
     <time>09:30-09:50</time>
   </div>
   <div class = "col-md-8 col-md-offset-2 box">
- Greetings & Welcome: Julia Shub, Master of Ceremonies<br/>
+ Greetings & Welcome: <a href="/events/2021-tel-aviv/speakers/julia-shub" target="_blank">Julia Shub</a>, Master of Ceremonies<br/>
 Opening Words Sponsored by <a href="https://cidersecurity.io" target="_blank">Cider Security</a><br />
 </div>
 </div>
@@ -125,7 +125,7 @@ Opening Words Sponsored by <a href="https://cidersecurity.io" target="_blank">Ci
 </div>
 
 <div class = "col-md-2 col-md-offset-6 box">
-    <a href="#"> WORKSHOP CONTINUED</strong></a>
+    <a href="#"> <strong>Workshop Continued</strong></a>
 </div>
 </div>
 
@@ -217,7 +217,7 @@ Opening Words Sponsored by <a href="https://cidersecurity.io" target="_blank">Ci
 <div class = "col-md-5 col-md-offset-3 box">
     <a href="/events/2021-tel-aviv/program/chris-babitski"> <strong>CULTURE SPOTLIGHT TALK</strong> | SOLVING THE DEVOPS CRISIS, ONE PERSON AT A TIME<br/> <strong> CHRISTINA BABITSKI</strong>  </a></div>
 
-<div class = "col-md-3 col-md-offset-9 box"><a href="/events/2019-tel-aviv/program/lev-andelman-andrei-burd"> <strong>Workshop Continued</a></div>
+<div class = "col-md-3 col-md-offset-9 box"><a href="#"> <strong>Workshop Continued</strong></a></div>
 </div>
 <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
@@ -230,9 +230,19 @@ Opening Words Sponsored by <a href="https://cidersecurity.io" target="_blank">Ci
     <a href="/events/2021-tel-aviv/program/leonid-haimov">JOURNEY OF CHAOS EXPERIMENT EXECUTION IN PRODUCTION | <strong>LEONID HAIMOV, WIX </strong></a><br/>
     <a href="/events/2021-tel-aviv/program/gil-bahat">WHAT'S BURNING THROUGH YOUR CLOUD BILL | <strong>GIL BAHAT, CIDER SECURITY</strong> </a><br/>
     <a href="/events/2021-tel-aviv/program/philipp-krenn">DID ANYONE SAY SEMVER? | <strong>PHILIPP KRENN, ELASTIC  </strong></a><br/>
-    <a href="/events/2019-tel-aviv/program/meirav-feiler"><strong>SPOTLIGHT IGNITE (10 MINUTES):</strong> THE FUTURE OF DEVELOPER TOOLS: FROM STACKOVERFLOW TO CO-PILOT | <strong>Meirav Feiler, Github</strong></a><br/>
+    <a href="/events/2021-tel-aviv/program/meirav-feiler"><strong>SPOTLIGHT IGNITE (10 MINUTES):</strong> THE FUTURE OF DEVELOPER TOOLS: FROM STACKOVERFLOW TO CO-PILOT | <strong>Meirav Feiler, Github</strong></a><br/>
     </div>
   
+</div> 
+<!-- end timeslot div -->
+
+<!-- this div is repeated for each timeslot -->
+<div class = "row">
+  <div class = "box-lightorange col-md-2 col-md-offset-0">
+    <time>OpsSchool</time>
+  </div>
+  <div class = "col-md-8 col-md-offset-2 box">
+  <a href="https://www.opsschool.org.il/">OpsSchool are a community project we will be highlighting this year, who are doing tremendous work in skilling up and creating more diversity in DevOps / operations roles - you will hear them talk about their excellent work today during ignites, and you can meet them out in the booth hall to learn more about their work and see how you register for their next cohort.</a></div>
 </div> 
 <!-- end timeslot div -->
 
@@ -262,7 +272,7 @@ Opening Words Sponsored by <a href="https://cidersecurity.io" target="_blank">Ci
 
 <div class = "row">
   <div class = "col-md-12">
-    <h3>Day 2 - COMING SOON</h3>
+    <h3>Day 2</h3>
   </div>
 </div>
 <!-- this div is repeated for each timeslot -->
@@ -282,7 +292,7 @@ Opening Words Sponsored by <a href="https://cidersecurity.io" target="_blank">Ci
     <time>09:30-09:50</time>
   </div>
   <div class = "col-md-8 col-md-offset-2 box">
-Greetings & Welcome: Erik Zaadi, Master of Ceremonies<br/>
+Greetings & Welcome: <a href="/events/2021-tel-aviv/speakers/erik-zaadi" target="_blank">Erik Zaadi</a>, Master of Ceremonies<br/>
 Opening Words Sponsored by <a href="https://daily.dev" target="_blank">Daily.Dev</a><br />
 
   </div>
@@ -339,15 +349,15 @@ Opening Words Sponsored by <a href="https://daily.dev" target="_blank">Daily.Dev
 </div>
 
 <div class = "col-md-3 col-md-offset-3 box">
-   <a href="/events/2021-tel-aviv/program/avi-konstantini"><strong><br/></strong></a>
+   <a href="/events/2021-tel-aviv/program/daniel-krivelevich">THE THREE DISCIPLINES OF CI/CD SECURITY<strong><br/>Daniel Krivelevich</strong></a>
 </div>
 
 <div class = "col-md-3 col-md-offset-6 box">
-    <a href="/events/2021-tel-aviv/program/daniel-maher"> <strong><br/></strong></a>
+    <a href="/events/2021-tel-aviv/program/shahar-mintz">CONFIGURATION MANAGEMENT IN THE CLOUD NATIVE ERA<strong><br/>Shahar Mintz</strong></a>
 </div>
 
 <div class = "col-md-2 col-md-offset-9 box">
-    <a href="/events/2021-tel-aviv/program/adi-shacham-shavit"> <strong> WORKSHOP CONTINUED</strong></a>
+    <a href="#"> <strong> Workshop Continued</strong></a>
 </div>
 
 </div>
@@ -360,40 +370,61 @@ Opening Words Sponsored by <a href="https://daily.dev" target="_blank">Daily.Dev
     <time>11:20-11:40</time>
 </div>
 <div class = "col-md-3 col-md-offset-3 box">
- <br/> <strong><a href="/events/2021-tel-aviv/program/ariel-pisetzky"> </strong>  </a></div>
+ <a href="/events/2021-tel-aviv/program/eran-bibi">DON'T PANIC: GETTING YOUR INFRASTRUCTURE DRIFT UNDER CONTROL <strong><br/>Eran Bibi</strong></a>
+</div>
 <div class = "col-md-3 col-md-offset-6 box">
-    <a href="/events/2021-tel-aviv/program/shiri-hochhauser"><br/> <strong> </strong></a><br/></div>
+    <a href="/events/2021-tel-aviv/program/rona-hirsch">HOW DEVOPS CAN EMPOWER DEVELOPERS TO TROUBLESHOOT KUBERNETES <strong><br/>Rona Hirch</strong></a>
+</div>
   <div class = "col-md-2 col-md-offset-9 box">
-    <a href="/events/2021-tel-aviv/program/adi-shacham-shavit"> <strong>Workshop Continued</strong></a></div>
+    <a href="#"> <strong>Workshop Continued</strong></a></div>
 </div>
 <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
   <div class = "box-lightorange col-md-2 col-md-offset-0">
-    <time>11:40-12:00</time>
+    <time>11:40-12:20</time>
   </div>
   <div class = "col-md-3 col-md-offset-3 box">
-    <a href="/events/2021-tel-aviv/program/ori-keren">  <br/> <strong></strong>  </a></div>
+    <a href="/events/2021-tel-aviv/program/alon-nativ">SLO DRIVEN DEVELOPMENT<br/> <strong>Alon Nativ</strong></a>
+</div>
   <div class = "col-md-3 col-md-offset-6 box">
-  <a href="/events/2021-tel-aviv/program/anton-drukh"> <br/> <strong></strong></a><br/>
+  <a href="/events/2021-tel-aviv/program/liran-tal">11:40 - 12:00 I CAN HACK YOUR CONTAINER FASTER THAN YOU CAN BUILD IT<br/> <strong>Liran Tal</strong></a><br/>
+  <a href="/events/2021-tel-aviv/program/eyar-zilberman">12:00 - 12:20 YOUR OPEN SOURCE PROJECT IS LIKE A STARTUP, TREAT IT LIKE ONE!<br/> <strong>Eyar Zilberman</strong></a><br/>
   </div>
-    <div class = "col-md-2 col-md-offset-9 box"><a href="/events/2021-tel-aviv/program/adi-shacham-shavit"> <strong>Workshop Continued</strong></a></div> 
+    <div class = "col-md-2 col-md-offset-9 box">
+    <a href="#"> <strong>Workshop Continued</strong></a>
+</div> 
 </div>    
     <!-- end timeslot div -->
 
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
   <div class = "box-lightorange col-md-2 col-md-offset-0">
-    <time>12:20-13:00</time>
+    <time>12:20-12:40</time>
   </div>
   <div class = "col-md-3 col-md-offset-3 box">
-    <a href="/events/2021-tel-aviv/program/eynav-mass">  <br/> <strong></strong>  </a></div>
+    <a href="/events/2021-tel-aviv/program/hila-fox">ONBOARDING IN LOCKDOWN<br/> <strong>Hila Fox</strong>  </a></div>
   <div class = "col-md-3 col-md-offset-6 box">
-   <a href="/events/2021-tel-aviv/program/feu-mourek"> <br/> <strong></strong></a><br/>
+   <a href="/events/2021-tel-aviv/program/ella-sharakanski">GRAPHQL TO THE RES(T)CUE<br/> <strong>Ella Sharakanski</strong></a><br/>
   </div>
-    <div class = "col-md-2 col-md-offset-9 box"><a href="/events/2021-tel-aviv/program/adi-shacham-shavit"> <strong>Workshop End</strong></a></div> 
+    <div class = "col-md-2 col-md-offset-9 box"><a href="#"> <strong>Workshop Continued</strong></a></div> 
 </div>    
     <!-- end timeslot div -->
+
+<!-- this div is repeated for each timeslot -->
+<div class = "row">
+  <div class = "box-lightorange col-md-2 col-md-offset-0">
+    <time>12:40-13:00</time>
+  </div>
+  <div class = "col-md-3 col-md-offset-3 box">
+    <a href="/events/2021-tel-aviv/program/moshe-ben-shoham">BUILDING A DR PLAN FOR YOUR CLOUD INFRASTRUCTURE FROM THE GROUND UP<br/> <strong>Moshe Ben Shoham</strong>  </a></div>
+  <div class = "col-md-3 col-md-offset-6 box">
+   <a href="/events/2021-tel-aviv/program/robert-barron">MICROSERVICES ABOVE THE CLOUD - DESIGNING THE INTERNATIONAL SPACE STATION FOR RELIABILITY<br/> <strong>Robert Barron</strong></a><br/>
+  </div>
+    <div class = "col-md-2 col-md-offset-9 box"><a href="#"> <strong>Workshop End</strong></a></div> 
+</div>    
+    <!-- end timeslot div -->
+
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
   <div class = "box-lightorange col-md-2 col-md-offset-0">
@@ -439,7 +470,7 @@ Opening Words Sponsored by <a href="https://daily.dev" target="_blank">Daily.Dev
 <div class = "col-md-5 col-md-offset-3 box">
     <a href="/events/2021-tel-aviv/program/dean-pleban"> <strong>YET ANOTHER OPS HIGHLIGHT TALK</strong> | SOLVING MLOPS FROM FIRST PRINCIPLES<br/> <strong> DEAN PLEBAN</strong>  </a></div>
 
-<div class = "col-md-3 col-md-offset-9 box"><a href="#"> <strong>Workshop Continued</a></div>
+<div class = "col-md-3 col-md-offset-9 box"><a href="#"> <strong>Workshop Continued</strong></a></div>
 </div>
 <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
@@ -449,12 +480,22 @@ Opening Words Sponsored by <a href="https://daily.dev" target="_blank">Daily.Dev
   </div>
   <div class = "col-md-8 col-md-offset-3 box">
     🔥 IGNITES: <br/>
-    <a href="/events/2021-tel-aviv/program/leonid-haimov"> | <strong> </strong></a><br/>
-    <a href="/events/2021-tel-aviv/program/gil-bahat-ignite"> | <strong></strong> </a><br/>
-    <a href="/events/2021-tel-aviv/program/philipp-krenn"> | <strong>  </strong></a><br/>
-    <a href="/events/2019-tel-aviv/program/florian-haas-ignite"><strong>SPOTLIGHT IGNITE (15 MINUTES - Triple Rainbow! 🌈):</strong>  | <strong> </strong></a><br/>
+    <a href="/events/2021-tel-aviv/program/leah-vogel-chegg">TAKE A HIKE: PREVENTING BATTERY CORROSION | <strong> LEAH VOGEL</strong></a><br/>
+    <a href="/events/2021-tel-aviv/program/eran-zimbler">HISTORY IS A WHEEL. TECH IS A SPIRAL | <strong>ERAN ZIMBLER</strong> </a><br/>
+    <a href="/events/2021-tel-aviv/program/hila-fish">OPEN SOURCE - OPEN CHOICE: HOW TO CHOOSE AN OPEN-SOURCE PROJECT | <strong> HILA FISH </strong></a><br/>
+    <a href="/events/2021-tel-aviv/program/yaron-amir"><strong>SPOTLIGHT IGNITE (15 MINUTES)</strong> - Triple Rainbow! 🌈 | <strong>Yaron Amir, THE Digital Nomad</strong></a><br/>
     </div>
   
+</div> 
+<!-- end timeslot div -->
+
+<!-- this div is repeated for each timeslot -->
+<div class = "row">
+  <div class = "box-lightorange col-md-2 col-md-offset-0">
+    <time>LGBTech</time>
+  </div>
+  <div class = "col-md-8 col-md-offset-2 box">
+  <a href="https://www.lgbtech.com/">LGBTech is a non-profit organization we will be highlighting this year, who are doing tremendous work in promoting diversity and inclusion of LGBTQ in the workforce. You will hear them talk about their excellent work today during the ignites, and you can meet them out in the booth hall to learn more about their work.</a></div>
 </div> 
 <!-- end timeslot div -->
 
