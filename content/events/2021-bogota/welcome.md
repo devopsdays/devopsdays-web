@@ -9,7 +9,7 @@ Description = "devopsdays Bogotá 2021"
   <div class = "col-md-6 push-md-6">
   <p class="btn btn-primary btn-block" style = "margin-top: 10px; margin-bottom: 10px; background-color: #4169E1; border-color: #4169E1;">"DevOpsDays Bogotá 2021 será virtual!"</p>
 
-  "Debido al COVID-19 y los riesgos para la salud en una conferencia presencial, DevOpsDays Bogotá 2021 ahora será un evento virtual que tendrá lugar el 24 y 25 de Noviembre de 2021 de 4PM a 7PM hora Colombia (GMT-5)."
+  "Debido al COVID-19 y los riesgos para la salud en una conferencia presencial, DevOpsDays Bogotá 2021 ahora será un evento virtual que tendrá lugar el 24 y 25 de Noviembre de 2021 de 3PM a 7PM hora Colombia (GMT-5)."
 
 <h2 align="center">"¡Fuimos el Primer DevOpsDays de Hispanoamérica acompañanos en su version 3.0 virtual!"</h2>
 Tenemos grandes expectativas de este evento basadas en nuestra experiencia del año pasado, esperamos la participación de empresas de diferentes países y sectores como:
