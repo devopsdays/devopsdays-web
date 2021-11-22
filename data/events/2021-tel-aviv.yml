@@ -34,7 +34,7 @@ location_address: "Dr George Wise St 24, Tel Aviv-Yafo" #Optional - use the stre
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
   - name: location
-  - name: registration
+ # - name: registration
   - name: program
  # - name: speakers
  # - name: sponsor
