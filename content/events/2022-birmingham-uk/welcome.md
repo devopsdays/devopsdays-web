@@ -21,7 +21,7 @@ Description = "devopsdays birmingham, uk 2022"
 
 <div class="row">
   <div class="col-md-4">
-    <img alt="DevOpsDays Birmingham 2021 Logo" src="/events/2022-birmingham-uk/logo.png" class="img-fluid">
+    <img alt="DevOpsDays Birmingham 2022 Logo" src="/events/2022-birmingham-uk/logo.png" class="img-fluid">
   </div>
 
   <div class="col-md-7">

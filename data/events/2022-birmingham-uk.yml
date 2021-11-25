@@ -13,7 +13,7 @@ event_group: "Birmingham, UK"
 # Note: we allow 2022-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
 startdate: 2022-05-05T09:00:00+00:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2022-05-05T17:00:00+00:00  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2022-05-06T17:00:00+00:00  # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: # start accepting talk proposals.
