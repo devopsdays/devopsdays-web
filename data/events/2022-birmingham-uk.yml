@@ -12,8 +12,8 @@ event_group: "Birmingham, UK"
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2022-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2022-05-05T09:00:00+00:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2022-05-05T17:00:00+00:00  # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: # start accepting talk proposals.
@@ -26,24 +26,25 @@ registration_date_start: # start accepting registration. Leave blank if registra
 registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://ti.to/tech-events-birmingham/devopsdays-birmingham-uk-2022" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
-coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "birmingham" # Defaults to city, but you can make it the venue name.
+coordinates: "52.483096,-1.8883369" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Millennium Point" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "Millennium Point, Curzon Street, Birmingham" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   # - name: propose
   # - name: location
-  # - name: registration
+  - name: registration
   # - name: program
   # - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
+  - name: covid
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -87,7 +88,7 @@ sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: platinum
     label: Platinum
-    max: 2
+    max: 5
   - id: gold
     label: Gold
     max: 10
