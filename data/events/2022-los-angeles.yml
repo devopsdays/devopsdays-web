@@ -94,6 +94,8 @@ organizer_email: "los-angeles@devopsdays.org" # Put your organizer email address
 sponsors:
   - id: lightstep
     level: gold
+  - id: edge-delta
+    level: gold
   - id: blameless
     level: silver
   - id: scale
