@@ -98,6 +98,8 @@ organizer_email: "aarhus@devopsdays.org" # Put your organizer email address here
 sponsors:
   - id: eficode
     level: gold
+  - id: eficode
+    level: silver
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
