@@ -1,6 +1,6 @@
 +++
 Title = "Jace Warren"
-Twitter = "keatz55"
+Twitter = "jacewarren"
 image = "jace-warren.png"
 type = "speaker"
 linktitle = "jace-warren"

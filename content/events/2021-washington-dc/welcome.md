@@ -12,9 +12,9 @@ Description = "DevOpsDays Washington, D.C. 2021"
 
   After a pandemic-induced year off, DevOpsDays DC is returning for a one-day event in November 2021. We'll be virtual this year and hope (fingers crossed) to be back in person in 2022.
 
-  The Call for Proposals is now <a href="https://devopsdaysdc2021.busyconf.com/proposals/new">OPEN</a>! You have a great story and we want to hear from you -- especially if you haven't shared your voice with us before. If you'd like some help from the organizers in talking through your ideas or even shaping your presentation, we'd love to do that. Just get in touch with the organizers and let us know.
+  <b>We have <a href="https://hopin.com/events/devopsdays-dc-2021#schedule">our program set</a> and <a href="https://hopin.com/events/devopsdays-dc-2021">registration is open</a>!</b>
 
-  You may have noticed we changed our original event dates from September 16-17 to November 4. We share more about that change in this {{< event_link page="announcement" text="announcement" >}}.
+  We have two types of tickets available to attend the event. You can register to attend for free. Or you can register as a VIP for $20. For your $20, you get to select a charitable organization to receive a donation from the money from your ticket and you'll get an exclusive DevOpsDays DC 2021 sticker mailed to you that only the VIPs will have.
 </p>
 
 <div class = "row">
@@ -35,14 +35,14 @@ Description = "DevOpsDays Washington, D.C. 2021"
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
+    <a href="https://hopin.com/events/devopsdays-dc-2021">Register to attend the conference!</a><!-- {{< event_link page="registration" text="Register to attend the conference!" >}} -->
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -53,23 +53,23 @@ Description = "DevOpsDays Washington, D.C. 2021"
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
-    View the {{< event_link page="program" text="program." >}}
+    View the <a href="https://hopin.com/events/devopsdays-dc-2021#schedule">program</a>. <!-- {{< event_link page="program" text="program." >}} -->
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
-    Check out the {{< event_link page="speakers" text="speakers!" >}}
+    Check out the <a href="https://hopin.com/events/devopsdays-dc-2021#speakers">speakers</a>. <!-- {{< event_link page="speakers" text="speakers!" >}} -->
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -90,6 +90,5 @@ Description = "DevOpsDays Washington, D.C. 2021"
 </div>
 
 <!-- Uncomment if you added your city twitter name -->
-<!--
 {{< event_twitter >}}
--->
+

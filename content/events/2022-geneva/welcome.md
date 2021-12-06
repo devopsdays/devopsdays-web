@@ -78,9 +78,14 @@ Description = "DevOpsDays Geneva 2022"
     {{< event_location >}}
   </div>
 </div>
-
-
-
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Register</strong>
+  </div>
+  <div class = "col-md-8">
+    <a href='/events/2022-geneva/registration/'>Register here !</a>
+  </div>
+</div>
 <div class = "row">
   <div class = "col-md-2">
     <strong>Contact</strong>
@@ -89,6 +94,7 @@ Description = "DevOpsDays Geneva 2022"
     {{< event_link page="contact" text="Get in touch with the organisers" >}}
   </div>
 </div>
+<!--
 <div class = "row">
   <div class = "col-md-2">
     <strong>Propose a talk</strong>
@@ -97,6 +103,7 @@ Description = "DevOpsDays Geneva 2022"
     <a href='/events/2022-geneva/propose/'>Submit a proposal</a>
   </div>
 </div>
+-->
 <div class = "row">
   <div class = "col-md-2">
     <strong>Newsletter</strong>

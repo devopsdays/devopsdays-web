@@ -2,7 +2,7 @@ name: "2022-los-angeles" # The name of the event. Four digit year with the city 
 year: "2022" # The year of the event. Make sure it is in quotes.
 city: "Los Angeles" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdayla2022" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "Devopsdays is coming to Los Angeles!" # Edit this to suit your preferences
+description: "DevOpsDays is coming to Los Angeles!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2022-MM-DDTHH:MM:SS+TZ:TZ, like this:
@@ -14,15 +14,18 @@ startdate: 2022-03-04T08:00:00-08:00 # The start date of your event. Leave blank
 enddate: 2022-03-04T22:00:00-08:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2021-09-01T00:00:00-08:00 # start accepting talk proposals.
+cfp_date_end: 2021-11-30T00:00:00-08:00 # close your call for proposals.
+cfp_date_announce: 2020-01-15T00:00:00-08:00 # inform proposers of status
 cfp_link: "https://docs.google.com/forms/d/e/1FAIpQLSewxucXuZ5nmZYX-nBitrmnr1ZA-O7oc33kheNvoRw1ufEbgg/viewform" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2021-08-16T00:00:00-08:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 registration_date_end: 2022-03-05T00:00:00-08:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://register.socallinuxexpo.org/reg6/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Background
+masthead_background: "DevOpsDayLA_Banner.jpg"
 
 # Location
 coordinates: "34.1436537,-118.1452085" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
@@ -32,14 +35,17 @@ location_address: "300 E Green St, Pasadena, CA 91101" #Optional - use the stree
 nav_elements: # List of pages you want to show up in the navigation of your page.
   # - name: program
   # - name: speakers
-  # - name: volunteer
   - name: venue
-    url: https://www.socallinuxexpo.org/scale/18x/venue
+    url: https://www.socallinuxexpo.org/scale/19x/venue
   - name: registration
     url: https://register.socallinuxexpo.org/reg6/
+  - name: CFP
+    url: https://docs.google.com/forms/d/e/1FAIpQLSewxucXuZ5nmZYX-nBitrmnr1ZA-O7oc33kheNvoRw1ufEbgg/viewform
   - name: sponsor
+  - name: volunteer
   - name: contact
   - name: conduct
+  - name: about
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -53,11 +59,10 @@ team_members: # Name is the only required field for team members.
     bio: "Co-Chair DevOpsDayLA"
     github: "brynak"
     linkedin: "https://www.linkedin.com/in/brynak"
-    image: "bryna-kirzner.jpg"
   - name: "Murriel Perez-McCabe"
     employer: "Google"
     linkedin: "https://www.linkedin.com/in/murrielperez/"
-    twitter: xmurriel
+    twitter: "xmurriel"
   - name: "Chris Webber"
     linkedin: "https://www.linkedin.com/in/cwebberops/"
     github: "cwebberops"
@@ -73,7 +78,6 @@ team_members: # Name is the only required field for team members.
     employer: "digitalr00ts"
     twitter: "digitalr00ts"
     bio: "Python Developer"
-    image: "carlos-meza.jpg"
     github: "cmeza99"
     linkedin: "https://www.linkedin.com/in/cmeza99"
     website: "https://www.digitalr00ts.com"
@@ -81,17 +85,20 @@ team_members: # Name is the only required field for team members.
   - name: "Omar Alva"
     github: "omargohan"
     twitter: "omargohan"
+    linkedin: "https://www.linkedin.com/in/omar-alva-60237919/"
 
 organizer_email: "los-angeles@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  # - id: samplesponsorname
-  #   level: gold
-  #   url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  # - id: arresteddevops
-  #   level: community
+  - id: lightstep
+    level: gold
+  - id: blameless
+    level: silver
+  - id: scale
+    level: community
+    url: https://www.socallinuxexpo.org/scale/19x
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -107,6 +114,6 @@ sponsor_levels:
     label: Silver
     max: 0 # This is the same as omitting the max limit.
   - id: bronze
-    label: Bronze
+    label: Startup
   - id: community
     label: Community

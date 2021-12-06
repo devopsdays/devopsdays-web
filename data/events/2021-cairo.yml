@@ -40,9 +40,9 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: propose
 #  - name: location
 #  - name: local
-#  - name: registration
-#    url: https://www.secc.org.eg/Event_Registration.asp
-#  - name: agenda
+  - name: registration
+    url: https://www.secc.org.eg/Event_Registration.asp
+  - name: agenda
 #    url: https://assets.devopsdays.org/events/2020/cairo/DevopsDays-Cairo-2020-Agenda.pdf
   - name: speakers
   - name: sponsor
@@ -92,9 +92,13 @@ sponsors:
    level: platinum
  - id: mattermost
    level: silver
+ - id: espace
+   level: gold
+ - id: ahbs
+   level: gold
+ - id: amecse
+   level: community
    
- #- id: amecse
- #  level: community
  #- id: egyptinnovate
  #  level: community
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
@@ -117,4 +121,4 @@ sponsor_levels:
     max: 0 # This is the same as omitting the max limit.
   - id: community
     label: Community
-    max: 3
+    max: 4

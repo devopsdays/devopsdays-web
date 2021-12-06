@@ -20,7 +20,7 @@
       {{- end -}}
     {{- else -}}
       {{- if $e.startdate -}}
-        {{- if $e.registration_date_start -}}
+        {{- if and $e.registration_date_start $e.registration_date_end -}}
           {{- if and (ge now (time $e.registration_date_start)) (le now (time $e.registration_date_end)) -}}
             {{- if $e.registration_link -}}
               {{- if eq $e.registration_link "" -}}

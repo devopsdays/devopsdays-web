@@ -6,6 +6,8 @@ Title = "The Devil is in Delivery"
 Type = "talk"
 Speakers = ["blessing-richardson"]
 sharing_image = "blessing-richardson.png"
+slideslive = "38966531"
+
 +++
 
 In the business of crafting software solutions, the delivery experience tends to slide down priority lists. Breaking the cycle of decreasing delivery experience, disappearing tribal knowledge, and bug sprawl requires a new approach. The devil of this process is in the details of delivery.

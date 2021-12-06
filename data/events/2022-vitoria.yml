@@ -10,38 +10,40 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2022-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate:  2022-02-05T09:00:00-03:00  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  2022-02-05T18:00:00-03:00  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate:  2022-02-11T09:00:00-03:00  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  2022-02-12T18:00:00-03:00  # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2021-10-14T10:00:00-03:00 # start accepting talk proposals.
+cfp_date_end: 2021-11-15T07:00:00-03:00 # close your call for proposals.
+cfp_date_announce: 2021-10-14T08:00:00-03:00 # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_open: "true"
+cfp_link: "https://www.papercall.io/devopsdaysvitoria2022" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: 2021-10-18 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2022-01-10 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.sympla.com.br/devopsdays-vitoria-2022__1375471" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
-coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Vitoria" # Defaults to city, but you can make it the venue name.
+coordinates: "-20.2927555,-40.3008919" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Local: Grand Hall - Vitória/ES" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "R. Dr. João Carlos de Souza - Barro Vermelho, Vitória - ES, 29045-410" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
- # - name: location
- # - name: registration
+  - name: location
+#  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
+#  - name: zero
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -140,22 +142,22 @@ team_members: # Name is the only required field for team members.
     github: ""
     twitter: "dodaracaju"
     image: "igor-macedo.jpg"
-  - name: "Frederico Boaventura"
-    employer: "self"
-    bio: "cat < /dev/urandom > bio"
-    linkedin: "https://www.linkedin.com/in/igor-macedo/"
-    website: "https://fboaventura.dev"
-    github: "fboaventura"
-    twitter: "fboaventura"
-    image: "frederico-boaventura.png"
   - name: "Jandson Mendes"
-    employer: ""
+    employer: "Inflor"
     bio: ""
     linkedin: "https://www.linkedin.com/in/jandson-oliveira/"
     website: ""
     github: "jandsonmendes25"
     twitter: "jandson_mendes"
     image: "jandson-mendes.jpg"
+  - name: "Elayne Lemos"
+    employer: "Sysvale"
+    bio: "Analista DevOps na Sysvale Softgroup, bem como voluntária e community staff no Linux Professional Institute. Engenheira de Computação em formação. Apaixonada por desenvolvimento e tecnologias de código aberto. Tendo como áreas de interesse: DevOps, Segurança da Informação e Infraestrutura."
+    linkedin: "https://linkedin.com/in/elaynelemos"
+    website: ""
+    github: "elaynelemos"
+    twitter: "elaynelemos"
+    image: "elaynelemos.jpg"
 
 organizer_email: "vitoria@devopsdays.org" # Put your organizer email address here
 
@@ -175,13 +177,32 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: platinum
+    label: Platinum
   - id: gold
     label: Gold
-#    max: 10
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
-  - id: community
-    label: Community
+
+sponsors:
+  - id: LPI
+    level: gold
+    url: https://www.lpi.org/
+  - id: linuxtips
+    level: gold
+    url: https://www.linuxtips.io/
+  - id: spiritsec
+    level: gold
+    url: https://www.spiritsec.com/
+  - id: globoofficial
+    level: silver
+    url: https://www.globo.com/
+  - id: willbank
+    level: platinum
+    url: https://www.willbank.com.br/
+  - id: flexa
+    level: platinum
+    url: https://flexa.cloud/
+    

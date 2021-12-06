@@ -111,12 +111,18 @@ sponsors:
     level: silver
   - id: starkandwayne
     level: gold
-  - id: bcbswny
+  - id: highmarkwny
     level: gold
   - id: microsoftazure
     level: gold
   - id: scout
     level: gold
+  - id: aviatrix
+    level: gold
+  - id: mandtbank
+    level: captioning
+  - id: observiq
+    level: snack
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -131,82 +137,194 @@ sponsor_levels:
   - id: silver
     label: Silver
     max: 5
+  - id: captioning
+    label: Captioning
+    max: 1
   - id: bronze
     label: Bronze
     max: 10
+  - id: snack
+    label: Snack
+    max: 1
   - id: community
     label: Community
 
 program:
-  # - title: "Chat and Coffee Meetings"
-  #   type: custom
-  #   date: 2020-10-01T00:08:00-04:00
-  #   start_time: "08:30"
-  #   end_time: "08:45"
-  # - title: "Opening Welcome"
-  #   type: custom
-  #   date: 2020-10-01T00:08:00-04:00
-  #   start_time: "08:45"
-  #   end_time: "09:00"
-  # - title: "baruch-sadogursky-kat-cosgrove"
-  #   type: talk
-  #   date: 2020-10-01T00:08:00-04:00
-  #   start_time: "09:00"
-  #   end_time: "09:35"
-  # - title: "jj-asghar"
-  #   type: talk
-  #   date: 2020-10-01T00:08:00-04:00
-  #   start_time: "09:45"
-  #   end_time: "10:20"
-  # - title: "josh-stella"
-  #   type: talk
-  #   date: 2020-10-01T00:08:00-04:00
-  #   start_time: "10:30"
-  #   end_time: "11:05"
-  # - title: "Sponsors"
-  #   type: custom
-  #   date: 2020-10-01T00:08:00-04:00
-  #   start_time: "11:10"
-  #   end_time: "11:15"
-  # - title: "jameson-hampton"
-  #   type: talk
-  #   date: 2020-10-01T00:08:00-04:00
-  #   start_time: "11:15"
-  #   end_time: "11:50"
-  # - title: "Lunch Break"
-  #   type: custom
-  #   date: 2020-10-01T00:08:00-04:00
-  #   start_time: "11:50"
-  #   end_time: "14:05"
-  # - title: "angel-rivera"
-  #   type: talk
-  #   date: 2020-10-01T00:08:00-04:00
-  #   start_time: "14:15"
-  #   end_time: "14:50"
-  # - title: "ana-auxiliadora-lebron-moreno"
-  #   type: talk
-  #   date: 2020-10-01T00:08:00-04:00
-  #   start_time: "15:00"
-  #   end_time: "15:35"
-  # - title: "Lightning Talks - Jay Gordon, Jeremy Meiss, Joshua Goldman"
-  #   type: custom
-  #   date: 2020-10-01T00:08:00-04:00
-  #   start_time: "15:40"
-  #   end_time: "16:00"
-  # - title: "ben-ellerby"
-  #   type: talk
-  #   date: 2020-10-01T00:08:00-04:00
-  #   start_time: "16:05"
-  #   end_time: "16:40"
-  # - title: "Closing and Sponsors and Thank Yous"
-  #   type: custom
-  #   date: 2020-10-01T00:08:00-04:00
-  #   start_time: "16:40"
-  #   end_time: "17:00"
-  # - title: "DevOps Party Games Show"
-  #   type: custom
-  #   date: 2020-10-01T00:08:00-04:00
-  #   start_time: "18:00"
-  #   end_time: "19:00"
-  #   custom_url: "https://twitch.tv/mattstratton"
-  #   comments: "Tune in to watch the DevOpsDays Buffalo organizers face off against the DevOpsDays Boston organizing team in a fun game show!"
+  - title: "Virtual Arrival and Opening Remarks"
+    type: custom
+    date: 2021-10-13
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "shimon-tolts"
+    type: talk
+    date: 2021-10-13
+    start_time: "14:00"
+    end_time: "14:25"
+  - title: "jerren-every"
+    type: talk
+    date: 2021-10-13
+    start_time: "14:30"
+    end_time: "14:55"
+  - title: "dewan-ahmed"
+    type: talk
+    date: 2021-10-13
+    start_time: "15:00"
+    end_time: "15:25"
+  - title: "josh-stella"
+    type: talk
+    date: 2021-10-13
+    start_time: "15:30"
+    end_time: "15:55"
+  - title: "dan-lines"
+    type: talk
+    date: 2021-10-13
+    start_time: "16:00"
+    end_time: "16:25"
+  - title: "Intermission - Drive time to Transit Drive-In"
+    type: custom
+    date: 2021-10-13
+    start_time: "16:30"
+    end_time: "17:30"
+  - title: "Attendee Arrival, In-person Registration, and Dinner"
+    type: custom
+    date: 2021-10-13
+    start_time: "17:30"
+    end_time: "18:00"
+  - title: "lynn-catalano"
+    type: talk
+    date: 2021-10-13
+    start_time: "18:00"
+    end_time: "18:30"
+    background_color: "#FFCC99"
+  - title: "Open Space Session 1"
+    type: open-space
+    date: 2021-10-13
+    start_time: "18:00"
+    end_time: "18:30"
+    background_color: "#FFCC99"
+  - title: "Open Space Session 2"
+    type: open-space
+    date: 2021-10-13
+    start_time: "18:30"
+    end_time: "19:00"
+    background_color: "#FFCC99"
+  - title: "jason-yee"
+    type: talk
+    date: 2021-10-13
+    start_time: "19:00"
+    end_time: "19:25"
+  - title: "adarsh-shah"
+    type: talk
+    date: 2021-10-13
+    start_time: "19:30"
+    end_time: "19:55"
+  - title: "dave-mcallister"
+    type: talk
+    date: 2021-10-13
+    start_time: "20:00"
+    end_time: "20:25"
+  - title: "thomas-haver"
+    type: talk
+    date: 2021-10-13
+    start_time: "20:30"
+    end_time: "20:55"
+  - title: "aaron-aldrich"
+    type: talk
+    date: 2021-10-13
+    start_time: "21:00"
+    end_time: "21:25"
+  - title: "Networking Event"
+    type: custom
+    date: 2021-10-13
+    start_time: "21:25"
+    end_time: "22:00"
+  - title: "pj-hagerty"
+    type: talk
+    date: 2021-10-14
+    start_time: "14:00"
+    end_time: "14:25"
+  - title: "itiel-shwartz"
+    type: talk
+    date: 2021-10-14
+    start_time: "14:30"
+    end_time: "14:55"
+  - title: "matt-yonkovit"
+    type: talk
+    date: 2021-10-14
+    start_time: "15:00"
+    end_time: "15:25"
+  - title: "ben-greenberg"
+    type: talk
+    date: 2021-10-14
+    start_time: "15:30"
+    end_time: "15:55"
+  - title: "Lightning Talks"
+    type: ignite
+    date: 2021-10-14
+    start_time: "16:00"
+    end_time: "16:25"
+    block: "ignite"
+  - title: "Intermission - Drive time to Transit Drive-In"
+    type: custom
+    date: 2021-10-14
+    start_time: "16:25"
+    end_time: "17:30"
+  - title: "Attendee Arrival, In-person Registration, and Dinner"
+    type: custom
+    date: 2021-10-14
+    start_time: "17:30"
+    end_time: "18:00"
+  - title: "thomas-haver-os"
+    type: talk
+    date: 2021-10-14
+    start_time: "18:00"
+    end_time: "18:30"
+    background_color: "#FFCC99"
+  - title: "Open Space Session 1"
+    type: open-space
+    date: 2021-10-14
+    start_time: "18:00"
+    end_time: "18:30"
+    background_color: "#FFCC99"
+  - title: "Open Space Session 2"
+    type: open-space
+    date: 2021-10-14
+    start_time: "18:30"
+    end_time: "19:00"
+    background_color: "#FFCC99"
+  - title: "angel-rivera"
+    type: talk
+    date: 2021-10-14
+    start_time: "19:00"
+    end_time: "19:25"
+  - title: "jameson-hampton"
+    type: talk
+    date: 2021-10-14
+    start_time: "19:30"
+    end_time: "19:55"
+  - title: "rob-richardson"
+    type: talk
+    date: 2021-10-14
+    start_time: "20:00"
+    end_time: "20:25"
+  - title: "yishai-beeri"
+    type: talk
+    date: 2021-10-14
+    start_time: "20:30"
+    end_time: "20:55"
+  - title: "Closing Thoughts and JAM Session"
+    type: custom
+    date: 2021-10-14
+    start_time: "21:00"
+    end_time: "22:00"
+
+ignites:
+  - title: "denise-yu"
+    date: 2021-10-13
+    block: "ignite"
+  - title: "tim-davis"
+    date: 2021-10-13
+    block: "ignite"
+  - title: "dotan-horovits"
+    date: 2021-10-13
+    block: "ignite"

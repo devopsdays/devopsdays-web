@@ -7,7 +7,7 @@ Description = "devopsdays Portland 2021"
 
 
 <div style="text-align:center;">
-  We're going to have a two day online event September 20-21. Talks will be streamed and online via Youtube, and discussion will be via Discord. We hope you join us!
+  We're going to have a two day online event September 20-21. Talks will be <a href="/events/2021-portland-or/watchlive/">streamed and online via Youtube</a>, and discussion will be via Discord. We hope you join us!
 </div>
 
 <div class = "row">

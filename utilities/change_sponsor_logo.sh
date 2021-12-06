@@ -50,7 +50,7 @@ cp "$SPONSOR_FILE" "$OLD_SPONSOR_FILE"
 # Find all events with this sponsor in years other than this year, excluding existing renames
 SPONSOR_REGEX="id:[ ]+$SPONSOR_NAME[ $]*"
 pushd "$(gitroot)/data/events" > /dev/null
-EVENTS_TO_MODIFY=($(grep -E "$SPONSOR_REGEX" * | grep -v "^$(date +%Y)" | cut -d ':' -f 1))
+EVENTS_TO_MODIFY=($(grep -E "$SPONSOR_REGEX" * | grep -v 'before' | grep -v "^$(date +%Y)" | cut -d ':' -f 1))
 
 # Modify the events.
 for event_file in "${EVENTS_TO_MODIFY[@]}"; do
