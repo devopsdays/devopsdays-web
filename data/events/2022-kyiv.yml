@@ -1,43 +1,43 @@
-name: "2021-kyiv" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
-year: "2021" # The year of the event. Make sure it is in quotes.
+name: "2022-kyiv" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2022" # The year of the event. Make sure it is in quotes.
 city: "Kyiv" # The displayed city name of the event. Capitalize it.
 event_group: "Kyiv"
 event_twitter: "days_dev" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "Devopsdays is coming to Kyiv!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
-# All dates are in unquoted 2021-MM-DDTHH:MM:SS+TZ:TZ, like this:
+# All dates are in unquoted 2022-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00
 #   variable: 2019-01-05T23:59:59+02:00
-# Note: we allow 2021-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+# Note: we allow 2022-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: 2021-04-20T00:00:00+03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2021-04-22T23:59:59+03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2022-04-15T00:00:00+03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2022-04-16T23:59:59+03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2021-01-01T00:00:00+03:00 # start accepting talk proposals.
-cfp_date_end: 2021-03-15T23:59:59+03:00 # close your call for proposals.
+cfp_date_start: 2021-12-07T00:00:00+03:00 # start accepting talk proposals.
+cfp_date_end: 2022-03-15T23:59:59+03:00 # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
 
-cfp_open: "false"
-cfp_link: "https://forms.gle/DR5omkuu8NfG4RCm9" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_open: "true"
+cfp_link: "https://forms.gle/h9wxjHaRk1EQ6Kyw9" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: 2021-01-01T00:00:00+03:00 # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: 2021-04-22T23:59:59+03:00 # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2022-01-01T00:00:00+03:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2022-04-14T23:59:59+03:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "https://636496.typeform.com/to/EPjxtL" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
 coordinates: "50.449379,30.5209386" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Kyiv" # Defaults to city, but you can make it the venue name.
 #
-location_address: "Online" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "52, Antonovycha str, Kyiv, Ukraine" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
-    url: https://forms.gle/DR5omkuu8NfG4RCm9
+    url: https://forms.gle/h9wxjHaRk1EQ6Kyw9
  # - name: location
  # - name: registration
  # - name: program
@@ -94,11 +94,11 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: partner
     label: Partner
-  #  - id: gold
-  #    label: Gold
-  #  - id: silver
-  #    label: Silver
-  #  - id: bronze
-  #    label: Bronze
-  #  - id: partner
-  #    label: Partner
+  # - id: gold
+  #   label: Gold
+  # - id: silver
+  #   label: Silver
+  # - id: bronze
+  #   label: Bronze
+  # - id: community
+  #   label: Community
