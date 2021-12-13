@@ -98,6 +98,8 @@ sponsors:
     level: gold
   - id: edge-delta
     level: gold
+  - id: solo
+    level: gold
   - id: blameless
     level: silver
   - id: scale
