@@ -255,7 +255,7 @@ program:
     end_time: "15:50"
 
   # Day 1: workshop 3 bis
-  - title: yevgeniy-ilyin
+  - title: nicolas-frankel
     type: workshop
     date: "2022-02-07"
     start_time: "14:15"

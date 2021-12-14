@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "The solution of merge hell in monorepo"
+Title = "Infrastructure-as-Code in a multi-cloud environment"
 Type = "talk"
 Speakers = ["herve-schweitzer"]
 +++
