@@ -7,4 +7,6 @@ Type = "talk"
 Speakers = ["raphael-pinson"]
 +++
 
-In an ever-so-fast technological world, Technical Debt can be a project breaker. This talk will evaluate links between Technical Debt, Open Source, Coupling, the Cloud, and more.
+In an ever-so-fast technological world, Technical Debt can be a project breaker.
+
+This talk will evaluate links between Technical Debt, Open Source, Coupling, the Cloud, and more.

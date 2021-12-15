@@ -19,4 +19,4 @@ For these reasons, serving VMs on Windows 10 (hyper-v, virtualbox, vmware) was m
 However, now with WSL2, we can install docker, podman, or even a kubernetes dev platform,
 and work on Windows files like if they are Linux files (permissions, symlinks).
 
-â†’ WSL2 solves all the problems for dev people on Windows.
+WSL2 solves all the problems for dev people on Windows.

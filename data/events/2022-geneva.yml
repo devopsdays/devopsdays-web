@@ -100,6 +100,7 @@ sponsors:
   - id: techfirm
     level: event
   - id: hidora
+    url: https://www.hidora.io
     level: gold
   - id: camptocamp
     level: gold
@@ -118,6 +119,8 @@ sponsors:
   - id: dbi-services
     level: silver
   - id: globaz
+    level: silver
+  - id: checkmarx
     level: silver
   - id: socraft
     level: bronze
