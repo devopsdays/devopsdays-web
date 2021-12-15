@@ -5,7 +5,7 @@ Description = "Location for DevOpsDays Geneva 2022"
 +++
 <style type="text/css">
  div.sponsor-row img.img-fluid{
-    max-height: 50px;
+    max-height: 70px;
   }
 </style>
 The event will be taking place at

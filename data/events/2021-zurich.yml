@@ -195,7 +195,7 @@ sponsors:
     level: silver
   - id: switch
     level: bronze
-  - id: checkmarx
+  - id: checkmarx-before-20211215
     level: gold
   - id: basis
     level: silver
