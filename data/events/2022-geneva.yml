@@ -39,7 +39,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
   - name: newsletter
   - name: registration
-#  - name: program
+  - name: program
 #  - name: speakers
   - name: sponsor
   - name: contact
@@ -100,6 +100,7 @@ sponsors:
   - id: techfirm
     level: event
   - id: hidora
+    url: https://www.hidora.io
     level: gold
   - id: camptocamp
     level: gold
@@ -120,6 +121,8 @@ sponsors:
   - id: dbi-services
     level: silver
   - id: globaz
+    level: silver
+  - id: checkmarx
     level: silver
   - id: socraft
     level: bronze
@@ -152,190 +155,267 @@ sponsor_levels:
     max: 12
 
 program:
-  #   Day 1
-  - title: "Registration & Breakfast"
+  ##  Day 1
+  # Day 1: welcome
+  - title: Registration & Breakfasts
     type: custom
-    date: "2020-02-24"
-    start_time: "08:30"
-    end_time: "09:00"
-  - title: "Welcome Speech"
+    date: "2022-02-07"
+    start_time: "08:15"
+    end_time: "08:45"
+
+  - title: Welcome Speech
     type: custom
-    date: "2020-02-24"
-    start_time: "09:00"
-    end_time: "09:20"
-  - title: "joseph-glorieux-and-mathieu-brun"
+    date: "2022-02-07"
+    start_time: "08:45"
+    end_time: "09:10"
+
+    # Day 1: talk 1
+  - title: julie-giacinti-and-xavier-nicolovici
     type: talk
-    date: "2020-02-24"
-    start_time: "09:20"
-    end_time: "10:20"
-  - title: "anton-babenko"
+    date: "2022-02-07"
+    start_time: "09:10"
+    end_time: "10:00"
+
+    # Day 1: talk 2
+  - title: david-barbarin
+    type: talk
+    date: "2022-02-07"
+    start_time: "10:00"
+    end_time: "10:50"
+
+    # Day 1: workshop 1
+  - title: justin-reock
     type: workshop
-    date: "2020-02-24"
-    start_time: "9:30"
-    end_time: "11:00"
-  - title: "thomas-cottier"
-    type: talk
-    date: "2020-02-24"
-    start_time: "10:20"
-    end_time: "11:20"
-  - title: "Morning coffee"
+    date: "2022-02-07"
+    start_time: "9:15"
+    end_time: "10:50"
+
+    # Day 1: workshop 1 bis
+  - title: nicolas-thomas
+    type: workshop
+    date: "2022-02-07"
+    start_time: "9:15"
+    end_time: "10:50"
+
+
+  - title: Morning coffee
     type: custom
-    date: "2020-02-24"
+    date: "2022-02-07"
+    start_time: "10:50"
+    end_time: "11:15"
+
+    # Day 1: talk 3
+  - title: "giovanni-galloro"
+    type: talk
+    date: "2022-02-07"
+    start_time: "11:15"
+    end_time: "12:05"
+
+    # Day 1: talk 4
+  - title: "denis-jannot"
+    type: talk
+    date: "2022-02-07"
+    start_time: "12:05"
+    end_time: "12:55"
+
+    # Day 1: workshop 2
+  - title: "dr-joe-perez"
+    type: workshop
+    date: "2022-02-07"
     start_time: "11:20"
-    end_time: "12:00"
-  - title: "maria-guseva"
-    type: talk
-    date: "2020-02-24"
-    start_time: "12:00"
-    end_time: "13:00"
-  - title: "jerome-van-der-linden-and-bashar-al-fallouji"
+    end_time: "12:55"
+
+    # Day 1: workshop 2 bis
+  - title: "olivier-crozier"
     type: workshop
-    date: "2020-02-24"
-    start_time: "12:00"
-    end_time: "13:30"
+    date: "2022-02-07"
+    start_time: "11:20"
+    end_time: "12:55"
+
   - title: "Lunch"
     type: custom
-    date: "2020-02-24"
-    start_time: "13:00"
-    end_time: "14:30"
-  - title: "robert-falkowitz"
+    date: "2022-02-07"
+    start_time: "12:55"
+    end_time: "14:10"
+
+    # Day 1: talk 5
+  - title: charles-laziosi-and-vincent-journel
     type: talk
-    date: "2020-02-24"
-    start_time: "14:30"
-    end_time: "15:30"
-  - title: "denis-jannot"
+    date: "2022-02-07"
+    start_time: "14:10"
+    end_time: "15:00"
+
+    # Day 1: talk 6
+  - title: david-pilato
+    type: talk
+    date: "2022-02-07"
+    start_time: "15:00"
+    end_time: "15:50"
+
+  # Day 1: workshop 3
+  - title: max-andersson
     type: workshop
-    date: "2020-02-24"
-    start_time: "14:45"
-    end_time: "16:15"
-  - title: "paolo-kreth"
-    type: talk
-    date: "2020-02-24"
-    start_time: "15:30"
-    end_time: "16:30"
-  - title: "Afternoon coffee"
-    type: custom
-    date: "2020-02-24"
-    start_time: "16:30"
-    end_time: "17:00"
-  - title: "piotr-gaczkowski"
-    type: talk
-    date: "2020-02-24"
-    start_time: "17:00"
-    end_time: "18:00"
-  - title: "jay-gordon"
+    date: "2022-02-07"
+    start_time: "14:15"
+    end_time: "15:50"
+
+  # Day 1: workshop 3 bis
+  - title: nicolas-frankel
     type: workshop
-    date: "2020-02-24"
-    start_time: "17:00"
-    end_time: "18:30"
-  - title: "jan-de-vries"
-    type: talk
-    date: "2020-02-24"
-    start_time: "18:00"
-    end_time: "19:00"
-  - title: "Cocktail Dinner"
+    date: "2022-02-07"
+    start_time: "14:15"
+    end_time: "15:50"
+
+  - title: Afternoon coffee
     type: custom
-    date: "2020-02-24"
+    date: "2022-02-07"
+    start_time: "15:50"
+    end_time: "16:40"
+
+  #   Day 1: talk 7
+  - title: raphael-pinson
+    type: talk
+    date: "2022-02-07"
+    start_time: "16:40"
+    end_time: "17:30"
+
+  #   Day 1: talk 8
+  - title: justus-graumann
+    type: talk
+    date: "2022-02-07"
+    start_time: "17:30"
+    end_time: "18:20"
+
+  #   Day 1: workshop 4
+  - title: sven-szejwach
+    type: workshop
+    date: "2022-02-07"
+    start_time: "16:40"
+    end_time: "18:20"
+
+    #   Day 1: workshop 4 bis
+  - title: herve-schweitzer
+    type: workshop
+    date: "2022-02-07"
+    start_time: "16:40"
+    end_time: "18:20"
+
+  - title: Cocktail Dinner
+    type: custom
+    date: "2022-02-07"
     start_time: "19:00"
     end_time: ""
+
+
 #Day 2
-  - title: "Breakfast"
+  - title: Welcome Speech
     type: custom
-    date: "2020-02-25"
-    start_time: "08:15"
+    date: "2022-02-08"
+    start_time: "08:45"
     end_time: "09:00"
-  - title: "Speech OpenSpaces"
-    type: custom
-    date: "2020-02-25"
+
+  #   Day 2: talk 1
+  - title: ankur-marfatia
+    type: talk
+    date: "2022-02-08"
     start_time: "09:00"
-    end_time: "09:15"
-  - title: "yann-albou-and-sebastien-fere"
+    end_time: "09:50"
+
+  #   Day 2: talk 2
+  - title: aurelie-vache
     type: talk
-    date: "2020-02-25"
-    start_time: "09:15"
-    end_time: "10:15"
+    date: "2022-02-08"
+    start_time: "09:50"
+    end_time: "10:40"
+
+  ## Day 2 openspaces
   - title: "Open-Spaces"
     type: open-space
-    date: "2020-02-25"
-    start_time: "09:15"
-    end_time: "10:15"
-  - title: "liat-palace"
-    type: talk
-    date: "2020-02-25"
-    start_time: "10:15"
-    end_time: "11:15"
-  - title: "Open-Spaces"
-    type: open-space
-    date: "2020-02-25"
-    start_time: "10:15"
-    end_time: "11:15"
-  - title: "Morning Coffee"
+    date: "2022-02-08"
+    start_time: "09:05"
+    end_time: "10:40"
+
+  - title: Morning Coffee
     type: custom
-    date: "2020-02-25"
-    start_time: "11:15"
-    end_time: "11:45"
-  - title: "vinciane-de-pape"
+    date: "2022-02-08"
+    start_time: "10:40"
+    end_time: "11:05"
+
+  #   Day 2: talk 3
+  - title: courtney-heba
     type: talk
-    date: "2020-02-25"
-    start_time: "11:45"
+    date: "2022-02-08"
+    start_time: "11:05"
+    end_time: "11:55"
+
+  #   Day 2: talk 4
+  - title: brian-contos
+    type: talk
+    date: "2022-02-08"
+    start_time: "11:55"
     end_time: "12:45"
+
   - title: "Open-Spaces"
     type: open-space
-    date: "2020-02-25"
-    start_time: "11:45"
+    date: "2022-02-08"
+    start_time: "11:10"
     end_time: "12:45"
-  - title: "Lunch"
+
+  - title: Lunch
     type: custom
-    date: "2020-02-25"
+    date: "2022-02-08"
     start_time: "12:45"
-    end_time: "13:45"
-  - title: "ricardo-castro"
+    end_time: "14:00"
+
+  #   Day 2: talk 5
+  - title: sandro-cirulli
     type: talk
-    date: "2020-02-25"
-    start_time: "13:45"
-    end_time: "14:45"
+    date: "2022-02-08"
+    start_time: "14:00"
+    end_time: "14:50"
+
+  #   Day 2: talk 6
+  - title: gerie-owen
+    type: talk
+    date: "2022-02-08"
+    start_time: "14:50"
+    end_time: "15:40"
+
   - title: "Open-Spaces"
     type: open-space
-    date: "2020-02-25"
-    start_time: "13:45"
-    end_time: "14:45"
-  - title: "heidi-araya"
-    type: talk
-    date: "2020-02-25"
-    start_time: "14:45"
-    end_time: "15:45"
-  - title: "Open-Spaces"
-    type: open-space
-    date: "2020-02-25"
-    start_time: "14:45"
-    end_time: "15:45"
-  - title: "Afternoon coffee"
+    date: "2022-02-08"
+    start_time: "14:05"
+    end_time: "15:40"
+
+  - title: Afternoon coffee
     type: custom
-    date: "2020-02-25"
-    start_time: "15:45"
-    end_time: "16:15"
-  - title: "nataliia-godec"
+    date: "2022-02-08"
+    start_time: "15:40"
+    end_time: "16:25"
+
+  #   Day 2: talk 7
+  - title: john-williams
     type: talk
-    date: "2020-02-25"
-    start_time: "16:15"
+    date: "2022-02-08"
+    start_time: "16:25"
     end_time: "17:15"
-  - title: "Open-Spaces"
-    type: open-space
-    date: "2020-02-25"
-    start_time: "16:15"
-    end_time: "17:15"
-  - title: "mofizur-rahman"
-    type: talk
-    date: "2020-02-25"
-    start_time: "17:15"
-    end_time: "18:15"
-  - title: "Open-Spaces"
-    type: open-space
-    date: "2020-02-25"
-    start_time: "17:15"
-    end_time: "18:15"
-  - title: "Closing days Speech"
+
+  #   Day 2: open discussion
+  - title: Open Discussions
     type: custom
-    date: "2020-02-25"
-    start_time: "18:15"
-    end_time: "18:30"
+    date: "2022-02-08"
+    start_time: "17:15"
+    end_time: "17:50"
+
+  - title: "Open-Spaces"
+    type: open-space
+    date: "2022-02-08"
+    start_time: "16:30"
+    end_time: "17:50"
+
+
+  - title: Closing Speech
+    type: custom
+    date: "2022-02-08"
+    start_time: "17:50"
+    end_time: "18:10"
