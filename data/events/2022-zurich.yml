@@ -125,5 +125,12 @@ team_members: # Name is the only required field for team members.
     github: "https://github.com/drbokko"
     linkedin: "https://www.linkedin.com/in/vittorio-boccone-1998a94/"
     image: "vittorio-boccone.jpg"
+  - name: "Nadine Broghammer"
+    twitter: ""
+    employer: "Zühlke Engineering AG"
+    bio: "Nadine Broghammer is an experienced project and delivery manager. After completing her master's degree in business administration and management at the University of Zurich, she continously broadend her knowledge and brings a wide range of expertise in requirements engineering, project and product management and as well as a trainer and coach in agile frameworks and delivery. Her focus industries are healthcare as well as banking and finance. With her direct collaboration style and accessible nature, she ensures a transparent information flow and target focus. Her passion is people relationships and the transformation of corporate practices and strategies."
+    github: ""
+    linkedin: "https://www.linkedin.com/in/nadinebroghammer"
+    image: "nadine-broghammer.jpg"
 organizer_email: "zurich@devopsdays.org" # Put your organizer email address here
 
