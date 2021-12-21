@@ -113,6 +113,12 @@ sponsors:
     level: gold
   - id: stile
     level: gold
+  - id: azenix
+    level: silver
+  - id: rea-group
+    level: silver
+  - id: azenix
+    level: lanyard
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
