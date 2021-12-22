@@ -6,16 +6,14 @@ Description = "All information about the Covid-19 measures"
 
 <div class="row">
   <div  class="col-md-9">
-        <p>The COVID-19 situation in Switzerland is improving at this point in time, so that we're go for an in-person event allowing access to everyone who is either vaccinated, tested or convalesced from COVID-19. 
-        <b>This means that only persons with a valid COVID-Certificate and a valid ID (e.g. driving license or passport) are allowed access to the DevOpsDays Zürich 2022.</b>
-        Data and reports on the epidemiological situation in Switzerland can be found here: <a href="https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html">Situation in Switzerland</a> 
+        <p>Data and reports on the epidemiological situation in Switzerland can be found here: <a href="https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html">Situation in Switzerland</a> 
         </p>
-        <a class="btn btn-primary btn-block"  style = "width: 370px; margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://ae79aaba-4129-461f-83a3-665f3dae5235.filesusr.com/ugd/116ad9_8eb44c917d5b410ab6f3d13fb91dcbd3.pdf" target="_blank">DevOpsDays Zürich 2022 COVID-19 protection concept</a>
     </div>  
 </div>
 <div class="row">
   <div  class="col-md-9">
-    <p> Therefore, we plan to hold DevOpsDays Zurich 2022 as an in-person event. However, we will work out a detailed COVID-19 concept for the event which will be updated constantly, to make the situation on site as safe as possible for everyone. The detailed COVID-19 concept will be communicated at a later point in time. </p>
+    <p> We plan to hold DevOpsDays Zurich 2022 as an in-person event. However, we will work out a detailed COVID-19 concept for the event which will be updated constantly, to make the situation on site as safe as possible for everyone. </p>
+    <a class="btn btn-primary btn-block"  style = "width: 370px; margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://ae79aaba-4129-461f-83a3-665f3dae5235.filesusr.com/ugd/21dd93_74858c777a8c45288760263ac16128b4.pdf" target="_blank">DevOpsDays Zürich 2022 COVID-19 protection concept</a>
   </div>
 </div>
 <div class="row">
