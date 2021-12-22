@@ -1,7 +1,7 @@
 +++
 Title = "Location"
 Type = "event"
-Description = "Location for devopsdays zurich 2022"
+Description = "Location for DevOpsDays Zurich 2022"
 +++
 
 ## Alte Kaserne Winterthur
