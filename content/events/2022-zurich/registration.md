@@ -35,9 +35,3 @@ If this doesn't work for you, registration can also be done here: <a href="https
 <br/>
 If you have any questions please contact us at {{< email_organizers >}}.
 <br/>
-<br/>
-<h5>Company discount</h5> 
-Companies get a quantity discount on tickets from 5 tickets: 
-CHF 200 excl. VAT (+15.40 CHF for VAT)
-<br/>
-Please contact us at {{< email_organizers >}} to get the discount. 
