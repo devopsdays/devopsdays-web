@@ -1,8 +1,8 @@
 +++
-Title = "DevOpsDays Zürich 2022"
+Title = "DevOpsDays Zurich 2022"
 Type = "welcome"
 aliases = ["/events/2022-zurich/"]
-Description = "DevOpsDays Zürich 2022"
+Description = "DevOpsDays Zurich 2022"
 +++
 
 <!-- <div style="text-align:center;">
@@ -13,22 +13,27 @@ Description = "DevOpsDays Zürich 2022"
   <div class="alert alert-info" role="alert">
     <h2>COVID-19</h2>
     We’re aware of the present situation as a consequence of COVID-19 and take it very seriously. <br/>
-<b>Only persons with a valid COVID-Certificate and a valid ID (e.g. driving license or passport) are allowed access to the DevOpsDays Zürich 2022.</b><br/> This means you need to be vaccinated, tested or convalesced from COVID-19 and have a valid COVID-Certificate and a ID.
+<b>Only persons with a valid COVID-Certificate and a valid ID (e.g. driving license or passport) are allowed access to the DevOpsDays Zurich 2022.</b><br/> This means you need to be vaccinated, tested or convalesced from COVID-19 and have a valid COVID-Certificate and a ID.
   </div>
 </div>
-
-<img src="/events/2022-zurich/logo.png" style="float:center"/>
-
-
-
+<div class = "row">
+  <div class = "col-md-6">
+    <img src="/events/2022-zurich/logo.png" style="float:center"/>
+  </div>
+  <div class = "col-md-3">
+    <iframe src="https://player.vimeo.com/video/625207278?h=710d5073f0?autoplay=1& muted=1" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen  style="float:bottom"></iframe>
+  </div>  
+</div>
 <div class = "row">
   <div class = "col-md-12">
+    <p>
     <p>First time here? Check out our last events and get hyped!</p>
     <a href="https://www.devopsdays.org/events/2017-zurich/welcome/">DevOpsDays 2017 - Where it all started</a></br>
     <a href="https://www.devopsdays.org/events/2018-zurich/welcome/">DevOpsDays 2018 - The Continuation</a></br>
     <a href="https://www.devopsdays.org/events/2019-zurich/welcome/">DevOpsDays 2019 - The Rising</a></br>
     <a href="https://www.devopsdays.org/events/2020-zurich/welcome/">DevOpsDays 2020 - The DevOpsTuesDays</a></br>
-    <a href="https://www.devopsdays.org/events/2021-zurich/welcome/">DevOpsDays 2021 - DevOpsDays Zürich is stronger than COVID</a></br>
+    <a href="https://www.devopsdays.org/events/2021-zurich/welcome/">DevOpsDays 2021 - DevOpsDays Zurich is stronger than COVID</a>
+    </br>
   </div>
 </div>
 
@@ -52,6 +57,7 @@ Description = "DevOpsDays Zürich 2022"
     View the {{< event_link page="program" text="program." >}}
   </div>
 </div> 
+
 <div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
@@ -80,6 +86,7 @@ Description = "DevOpsDays Zürich 2022"
     Do you need a {{< event_link page="hotel" text="hotel" >}} ?
   </div>
 </div>
+-->
 
 <div class = "row">
   <div class = "col-md-2">
@@ -89,7 +96,7 @@ Description = "DevOpsDays Zürich 2022"
     {{< event_link page="registration" text="Register to attend the conference!" >}}
   </div>
 </div> 
-<!--
+
 <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
@@ -99,6 +106,7 @@ Description = "DevOpsDays Zürich 2022"
   </div>
 </div> 
 
+<!--
 <div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>
