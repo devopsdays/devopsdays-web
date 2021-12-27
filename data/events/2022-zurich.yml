@@ -15,15 +15,9 @@ startdate:  2022-05-31T00:00:00+02:00 # The start date of your event. Leave blan
 enddate:  2022-06-01T23:59:59+02:00 # The end date of your event. Leave blank if you don't have a venue reserved yet. 
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-<<<<<<< HEAD
-# cfp_date_start:  2021-12-21T00:00:00+02:00 # start accepting talk proposals.
-# cfp_date_end:  2022-02-28T23:59:59+02:00 # close your call for proposals.
-# cfp_date_announce: 2022-07-01T00:00:00+02:00 # inform proposers of status
-=======
 cfp_date_start:  2021-12-21T00:00:00+02:00 # start accepting talk proposals.
 cfp_date_end:  2022-02-28T23:59:59+02:00 # close your call for proposals.
 cfp_date_announce: 2022-03-31T00:00:00+02:00 # inform proposers of status
->>>>>>> a8e7e699a1ed17760a1c9fe4c49d5c09429e7e26
 
 cfp_open: "true"
 cfp_link: "https://sessionize.com/devopsdays-zurich-2022" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
