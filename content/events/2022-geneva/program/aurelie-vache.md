@@ -2,17 +2,13 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Créer & distribuer un plugin pour Kubernetes en quelques minutes ? Easy ! 🙂"
+Title = "Tips pour combattre le syndrome de l'imposteur"
 Type = "talk"
 Speakers = ["aurelie-vache"]
 +++
 
-Kubernetes est assez complexe comme cela ! Mais savez vous qu'il est possible de rajouter des fonctionnalités à notre orchestrateur préféré grâce aux plugins et à un petit outil : Krew ?
+Qui n’a pas un jour prononcer la phrase : J’ai l’impression d’être un imposteur ? Je ne me sens pas légitime de faire ceci ou de faire cela ?
 
-Nous verrons dans ce talk, qu'en quelques minutes il est possible de créer un plugin à kubectl permettant de rendre plus user-friendly nos pods (selon la thématique saisonnière ^^).
-Mais ce n'est pas tout ! Le but est aussi de le partager aux autres et pour cela, Krew est "The place to be".
+Certaines personnes sont persuadées qu’elles ne méritent pas leur succès, malgré les efforts qu’elles fournissent pour réussir. Elles s’autopersuadent souvent que leur réussite n’est pas liée à leur travail, leur accomplissement personnel, mais tout bonnement à la chance ou bien au travail des autres. De fait, elles vivent en permanence avec un sentiment de duperie et craignent sans cesse que quelqu’un ne les démasque d’un jour à un autre.
 
-
-A la fin de ce talk vous aurez toutes les billes en main afin de pouvoir réaliser & partager votre propre plugin.
-
-Prêts?
+Dans ce talk nous ferons un retour sur ce qu'est le syndrome de l'imposteur, comment il se reflète au quotidien et nous verrons que ce n'est pas une fatalité, au contraire, qu'il existe des tips et astuces pour le combattre, se dépasser et s'améliorer.
