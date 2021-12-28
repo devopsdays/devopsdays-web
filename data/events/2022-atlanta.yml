@@ -100,11 +100,13 @@ sponsors:
     level: gold
   - id: aviatrix
     level: gold
-  - id: era
+  - id: erasoftware
     level: gold
   - id: coralogix
     level: gold
   - id: granulate
+    level: gold
+  - id: roostai
     level: gold
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
