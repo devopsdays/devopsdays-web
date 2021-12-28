@@ -18,7 +18,7 @@ cfp_date_start: 2021-11-24T08:00:00+02:00  # start accepting talk proposals.
 cfp_date_end: 2021-12-24T08:00:00+02:00  # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://www.papercall.io/devopsdaysatl2022" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start:  2022-08-05T08:00:00+02:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 registration_date_end:  2022-01-25T08:00:00+02:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
@@ -36,10 +36,10 @@ location_address: "246 Ivan Allen Jr Blvd NW Atlanta, GA 30313" #Optional - use 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
  # - name: location
- # - name: registration
+  - name: registration
  # - name: program
- # - name: speakers
-  - name: sponsor
+  - name: speakers
+ # - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
@@ -87,6 +87,24 @@ sponsors:
   - id: vmware-tanzu
     level: gold
   - id: armory
+    level: gold
+  - id: styra
+    level: gold
+  - id: redhat
+    level: gold
+  - id: dynatrace
+    level: gold
+  - id: twingate
+    level: gold
+  - id: env0
+    level: gold
+  - id: aviatrix
+    level: gold
+  - id: era
+    level: gold
+  - id: corologix
+    level: gold
+  - id: granulate
     level: gold
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
