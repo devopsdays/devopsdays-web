@@ -14,8 +14,8 @@ startdate: 2022-01-26T08:00:00+02:00  # The start date of your event. Leave blan
 enddate:   2022-01-27T16:00:00+02:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
+cfp_date_start: 2021-11-24T08:00:00+02:00  # start accepting talk proposals.
+cfp_date_end: 2021-12-24T08:00:00+02:00  # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
 
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
@@ -57,34 +57,13 @@ team_members: # Name is the only required field for team members.
     image: "andre-thenot.jpg"
     twitter: "athenot"
 
-  - name: "John Willis"
-    image: "john-willis.jpg"
-    twitter: "botchagalupe"
-
-  - name: "Ann Vu"
-    image: "ann-vu.jpg"
-    twitter: "ann_vu9"
-
   - name: "Claire Moss"
     image: "claire-moss.jpg"
     twitter: "aclairefication"
 
-  - name: "Chris Donnelly"
-    image: "chris-donnelly.jpg"
-    twitter: "distractable"
-
   - name: "Ravi Lachhman"
     image: "ravi-lachhman.jpg"
     twitter: "ravilach"
-
-  - name: "Rebecca Wheeler"
-    image: "rebecca-wheeler.jpg"
-    twitter: "beckycaret"
-
-  - name: "Franklin Mosley"
-    image: "franklin-mosley.jpg"
-    twitter: "fpmosley3"      
-
 
 organizer_email: "atlanta@devopsdays.org" # Put your organizer email address here
 
@@ -92,6 +71,8 @@ organizer_email: "atlanta@devopsdays.org" # Put your organizer email address her
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
   - id: coxautomotive
+    level: platinum
+  - id: jfrog
     level: platinum
   - id: harness
     level: gold
@@ -103,18 +84,12 @@ sponsors:
     level: gold
   - id: appdynamics
     level: gold
-  - id: chef-before-20210112
-    level: gold
   - id: vmware-tanzu
     level: gold
-  - id: gitlab
-    level: silver
   - id: armory
-    level: silver
-  - id: arresteddevops
-    level: community
+    level: gold
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -125,11 +100,3 @@ sponsor_levels:
     label: Platinum
   - id: gold
     label: Gold
-#    max: 10
-  - id: silver
-    label: Silver
-    max: 0 # This is the same as omitting the max limit.
-  - id: bronze
-    label: Bronze
-  - id: community
-    label: Community
