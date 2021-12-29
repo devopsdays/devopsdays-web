@@ -1,11 +1,11 @@
 +++
-Title = "devopsdays Tampa Bay 2020"
+Title = "devopsdays Tampa Bay 2022"
 Type = "welcome"
-aliases = ["/events/2020-tampa/"]
-Description = "devopsdays Tampa Bay 2020"
+aliases = ["/events/2022-tampa/"]
+Description = "devopsdays Tampa Bay 2022"
 +++
 
-DevOpsDays is coming back to Tampa Bay in 2020! We'll announce dates early 2020.
+DevOpsDays is coming back to Tampa Bay in 2022! We'll announce dates early 2022.
 
 <div class = "row">
   <div class = "col-md-2">

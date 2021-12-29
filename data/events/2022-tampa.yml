@@ -1,5 +1,5 @@
-name: "2020-tampa" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
-year: "2020" # The year of the event. Make sure it is in quotes.
+name: "2022-tampa" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2022" # The year of the event. Make sure it is in quotes.
 city: "Tampa Bay" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaystb" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "Devopsdays is coming to Tampa Bay!" # Edit this to suit your preferences
@@ -68,11 +68,11 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/keith-sartain-630b441"
     website: "http://connectwise.com"
     image: "keithsartain.jpg"
-  - name: "Dhanasekar Chandran"
-    employer: "Nielsen"
-    website: "http://www.nielsen.com/"
-    linkedin: "https://www.linkedin.com/in/dhanasekar-chandran/"
-    image: "dhana.jpg" 
+  - name: "David Neukamm"
+    employer: "Tential"
+    website: "http://www.tential.com/"
+    linkedin: "https://www.linkedin.com/in/davidneukamm/"
+    image: "davidn.jpg" 
 
 organizer_email: "tampa@devopsdays.org" # Put your organizer email address here
 
