@@ -35,9 +35,9 @@ location_address: "246 Ivan Allen Jr Blvd NW Atlanta, GA 30313" #Optional - use 
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
- # - name: location
+  - name: location
   - name: registration
- # - name: program
+  - name: program
   - name: speakers
  # - name: sponsor
   - name: contact
