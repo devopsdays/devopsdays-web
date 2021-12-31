@@ -130,6 +130,8 @@ sponsors:
     level: silver
   - id: checkmarx
     level: silver
+  - id: styra
+    level: silver
   - id: socraft
     level: bronze
   - id: swissdevjobs

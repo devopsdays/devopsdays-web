@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Bringing your DBA into your DevOps team"
+Title = "Why we migrated our database monitoring stack to Prometheus and Grafana"
 Type = "talk"
 Speakers = ["david-barbarin"]
 +++
