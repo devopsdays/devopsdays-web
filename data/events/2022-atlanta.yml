@@ -2,7 +2,7 @@ name: "2022-atlanta" # The name of the event. Four digit year with the city name
 year: "2022" # The year of the event. Make sure it is in quotes.
 city: "atlanta" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysATL" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "Devopsdays is coming to atlanta!" # Edit this to suit your preferences
+description: "Devopsdays is coming to the Georgia Aquarium, again!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2022-MM-DDTHH:MM:SS+TZ:TZ, like this:
@@ -35,9 +35,9 @@ location_address: "246 Ivan Allen Jr Blvd NW Atlanta, GA 30313" #Optional - use 
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
- # - name: location
+  - name: location
   - name: registration
- # - name: program
+  - name: program
   - name: speakers
  # - name: sponsor
   - name: contact
