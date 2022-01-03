@@ -25,7 +25,7 @@ Description = "DevOpsDays Geneva 2022"
   }
   
   div.sponsor-row img.img-fluid{
-    max-height: 70px;
+    max-height: 80px;
   }
 </style>
 

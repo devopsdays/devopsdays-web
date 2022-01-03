@@ -128,11 +128,15 @@ sponsors:
     level: silver
   - id: cross-systems
     level: silver
+  - id: smartwave
+    level: silver
   - id: checkmarx
     level: silver
   - id: styra
     level: silver
   - id: socraft
+    level: bronze
+  - id: turbonomic
     level: bronze
   - id: swissdevjobs
     level: community
