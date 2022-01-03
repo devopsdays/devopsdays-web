@@ -1,7 +1,7 @@
 +++
 Title = "Sponsor"
 Type = "event"
-Description = "Sponsor DevOpsDays Tampa Bay 2020"
+Description = "Sponsor DevOpsDays Tampa Bay 2022"
 +++
 
 We greatly value sponsors for this open event. If you are interested in

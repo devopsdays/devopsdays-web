@@ -1,5 +1,5 @@
-name: "2020-tampa" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
-year: "2020" # The year of the event. Make sure it is in quotes.
+name: "2022-tampa" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2022" # The year of the event. Make sure it is in quotes.
 city: "Tampa Bay" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaystb" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "Devopsdays is coming to Tampa Bay!" # Edit this to suit your preferences
@@ -8,14 +8,14 @@ masthead_background: "logo-square.jpg"
 speakers_verbose: "false"
 
 # All dates are in unquoted YYYY-MM-DD or YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T23:59:59+02:00
-startdate: "" # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: "" # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: "2022-05-27" # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: "2022-05-27" # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 
-cfp_date_start: "" # start accepting talk proposals.
-cfp_date_end: "" # close your call for proposals.
-cfp_date_announce: "" # inform proposers of status
+# cfp_date_start: "12-30-2021" # start accepting talk proposals.
+# cfp_date_end: "" # close your call for proposals.
+# cfp_date_announce: "" # inform proposers of status
 
 cfp_open: "false"
 #cfp_link: "https://www.papercall.io/dodtampabay" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
@@ -38,7 +38,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #  - name: propose
 #    url: /events/2019-tampa/propose
 #    icon: "book"
-#  - name: location
+  - name: location
 #   icon: "map-o"
 #    url: /events/2019-tampa/location
 #  - name: registration
@@ -68,11 +68,11 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/keith-sartain-630b441"
     website: "http://connectwise.com"
     image: "keithsartain.jpg"
-  - name: "Dhanasekar Chandran"
-    employer: "Nielsen"
-    website: "http://www.nielsen.com/"
-    linkedin: "https://www.linkedin.com/in/dhanasekar-chandran/"
-    image: "dhana.jpg" 
+  - name: "David Neukamm"
+    employer: "Tential"
+    website: "http://www.tential.com/"
+    linkedin: "https://www.linkedin.com/in/davidneukamm/"
+    image: "davidn.jpg" 
 
 organizer_email: "tampa@devopsdays.org" # Put your organizer email address here
 

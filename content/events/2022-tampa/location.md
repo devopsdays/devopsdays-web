@@ -1,7 +1,7 @@
 +++
 Title = "Location"
 Type = "event"
-Description = "Location for devopsdays Tampa Bay 2020"
+Description = "Location for devopsdays Tampa Bay 2022"
 +++
 
 Watch this space for information about the venue including address, map/direction, parking/transit, and any hotel details.
@@ -12,13 +12,14 @@ Watch this space for information about the venue including address, map/directio
 
 <!-- <img width="500px" alt="DevOpsDays Philadelphia 2019" src="/events/2019-philadelphia/location/chf.jpg"/> -->
 
-Address: TBD
+Address: 
+244 Second Avenue N
+St. Petersburg, FL 33701
 
 <br>
 <br>
 
-Start Date: TBD<br>
-End Date: TBD<br>
-Last Day to Book: TBD
+Event Date: May 27th<br>
+Last Day to Book: May 1st
 
 
