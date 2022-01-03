@@ -1,7 +1,7 @@
 +++
 Title = "devopsdays Tampa Bay 2022"
 Type = "welcome"
-aliases = ["/events/2022-tampa/"]
+#aliases = ["/events/2022-tampa/"]
 Description = "devopsdays Tampa Bay 2022"
 +++
 
