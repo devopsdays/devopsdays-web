@@ -96,9 +96,11 @@ sponsors:
     level: gold
   - id: circleci
     level: gold
+  - id: edge-delta
+    level: gold
   - id: lightstep
     level: gold
-  - id: edge-delta
+  - id: linearb
     level: gold
   - id: solo
     level: gold
