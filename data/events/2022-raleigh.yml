@@ -107,7 +107,11 @@ organizer_email: "raleigh@devopsdays.org" # Put your organizer email address her
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: samplesponsorname
+  - id: cprime
+    level: platinum
+  - id: suse
+    level: platinum
+  - id: instana
     level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
@@ -120,13 +124,13 @@ sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: platinum
+    label: Platinum
   - id: gold
     label: Gold
 #    max: 10
   - id: silver
     label: Silver
     max: 0 # This is the same as omitting the max limit.
-  - id: bronze
-    label: Bronze
   - id: community
     label: Community
