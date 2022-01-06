@@ -108,6 +108,10 @@ sponsors:
     level: gold
   - id: roostai
     level: gold
+  - id: neuvector
+    level: gold
+  - id: chef
+    level: gold
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 

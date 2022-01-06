@@ -96,15 +96,21 @@ sponsors:
     level: gold
   - id: circleci
     level: gold
+  - id: edge-delta
+    level: gold
   - id: lightstep
     level: gold
-  - id: edge-delta
+  - id: linearb
+    level: gold
+  - id: komodor
     level: gold
   - id: solo
     level: gold
   - id: twingate
     level: gold
   - id: blameless
+    level: silver
+  - id: slimai
     level: silver
   - id: scale
     level: community
