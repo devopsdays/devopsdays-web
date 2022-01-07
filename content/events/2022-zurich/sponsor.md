@@ -48,6 +48,15 @@ We greatly value sponsors for this open event.  If you are interested in sponsor
     <td bgcolor="#8bc2d6"><center></center></td>
   </tr>
   <tr>
+    <th><b>Sponsoring Pitches<br/></b></th>
+    <td bgcolor="#7e98aa"><center>x</center></td>
+    <td bgcolor="#facba0"><center></center></td>
+    <td bgcolor="#c2c5c7"><center></center></td>
+    <td bgcolor="#85cdad"><center>x</center></td>
+    <td bgcolor="#8bc2d6"><center>x</center></td>
+    <td bgcolor="#8bc2d6"><center>x</center></td>
+  </tr>
+  <tr>
     <th><b>Sponsoring Bingo<br/></b></th>
     <td bgcolor="#7e98aa"><center>x</center></td>
     <td bgcolor="#facba0"><center>x</center></td>
@@ -84,7 +93,7 @@ We greatly value sponsors for this open event.  If you are interested in sponsor
     <td bgcolor="#8bc2d6"><center></center></td>
   </tr>
   <tr>
-    <th><b># Staff-Tickets included</b></th>
+    <th><b># Tickets included</b></th>
     <td bgcolor="#7e98aa"><center>5</center></td>
     <td bgcolor="#facba0"><center>4</center></td>
     <td bgcolor="#c2c5c7"><center>1</center></td>
@@ -93,7 +102,7 @@ We greatly value sponsors for this open event.  If you are interested in sponsor
     <td bgcolor="#8bc2d6"><center>2</center></td>
   </tr>
   <tr>
-    <th><b># Available Packages</b></th>
+    <th><b># Available Packages included</b></th>
     <td bgcolor="#7e98aa"><center>3</center></td>
     <td bgcolor="#facba0"><center>5</center></td>
     <td bgcolor="#c2c5c7"><center>unlimited</center></td>
