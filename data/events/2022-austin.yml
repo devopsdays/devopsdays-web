@@ -196,6 +196,23 @@ team_members: # Name is the only required field for team members.
     facebook: ""
     linkedin: "https://www.linkedin.com/in/mar1sa/"
     image: "marisa.jpg"
+  - name: "Peco Karayanev"
+    image: "peco.png"
+  - name: "Laura Santamaria"
+    twitter: "nimbinatus"
+    # employer: "LogDNA"
+    github: "nimbinatus"
+    image: "laura-santamaria.jpg"
+    website: "https://nimbinatus.com"
+    # bio: "As LogDNA’s Developer Advocate, Laura Santamaria loves to learn and explain how things work. She bridges the gap between external developers and SREs and internal engineering teams. In addition, she is the curator for A Minute on the Mic. Apart from work, she co-hosts Austin DevOps, taught Python for Women Who Code Austin for many years, and volunteers with DevOpsDays Austin. Outside of tech, Laura runs, plays with her dogs, throws discs, and watches clouds—the real kind."
+  - name: "William Hackett"
+    twitter: "wchack"
+    # employer: "Verica"
+    # bio: ""
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/william-hackett-4228252/"
+    image: "bill.png"
 
 organizer_email: "austin@devopsdays.org" # Put your organizer email address here
 
