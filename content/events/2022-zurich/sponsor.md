@@ -4,7 +4,7 @@ Type = "event"
 Description = "Sponsor DevOpsDays Zurich 2022"
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at <a href="mailto:organizer@devopsdays.ch">organizer@devopsdays.ch</a>. With sponsoring this event you accept our {{< event_link page="conduct" text="Code of Conduct" >}}.
+We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at <a href="mailto:organizer@devopsdays.ch">organizer@devopsdays.ch</a>. With sponsoring this event you accept our {{< event_link page="conduct" text="Code of Conduct" >}} and the <a href="https://ae79aaba-4129-461f-83a3-665f3dae5235.filesusr.com/ugd/116ad9_e723cc7604ed472aaa713c3f22a95945.pdf">general sponsoring rules</a>. 
 
 <a class="btn btn-primary btn-block"  style = "width: 200px; margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://ae79aaba-4129-461f-83a3-665f3dae5235.filesusr.com/ugd/116ad9_4f0f70cee0ae4912be648edd1edef073.pdf"  target="_blank">Download Sponsoring Kit!</a>
 
