@@ -59,7 +59,7 @@ Description = "devopsdays Aarhus 2022"
     <strong>Venue</strong>
   </div>
   <div class = "col-md-8">
-    <a href="https://goo.gl/maps/FJDWA7JkcsYUArRs7">Aarhus International Sailing Center / Sejlsportscentret Aarhus</a>
+    SAVVÆRKET - Søren Nymarksvej 8 A - 8270 Højbjerg
   </div>
 </div>
 

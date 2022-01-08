@@ -1,6 +1,6 @@
 +++
 Title = "Emil Holm Naurby"
-Twitter = "michieltcs"
+Twitter = ""
 image = ""
 type = "speaker"
 linktitle = "emil-holm-naurby"
