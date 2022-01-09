@@ -5,7 +5,7 @@ Description = " "
 +++
 
 
-<h3>The event will be held at Aarhus International Sailing Center (Sejlsportcentret), with a relaxing atmosphere, beautifully located right by the sea.</h3>
+<h3>The event will be held at SAVVÆRKET - Søren Nymarksvej 8 A - 8270 Højbjerg</h3>
 <p>
 Limited places available. <a href="https://www.eventbrite.co.uk/e/devopsdays-aarhus-2022-tickets-92256964063?aff=ebdssbeac">Secure your ticket today</a>!
 
