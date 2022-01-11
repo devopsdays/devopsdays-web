@@ -36,7 +36,8 @@ location_address: "High Tech Campus 1b, 5656 AE Eindhoven, The Netherlands" #Opt
 masthead_background: "eindhoven-bg.jpeg"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  # - name: propose
+  - name: propose
+    url: https://sessionize.com/devopsdays-eindhoven-2022/
   - name: location
   # - name: registration
   # - name: program
