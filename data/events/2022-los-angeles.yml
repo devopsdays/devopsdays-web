@@ -96,6 +96,8 @@ sponsors:
     level: gold
   - id: circleci
     level: gold
+    id: confluent
+    level: gold
   - id: edge-delta
     level: gold
   - id: lightstep
