@@ -106,11 +106,11 @@ sponsors:
     level: silver
   - id: dbi-services
     level: silver
-  - id: cross-systems
+  - id: cross-systems-before-20211215
     level: silver
   - id: globaz-before-20190121
     level: silver
-  - id: techfirm
+  - id: techfirm-before-20211001
     level: bronze
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link

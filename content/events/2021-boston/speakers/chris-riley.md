@@ -1,5 +1,5 @@
 +++
-Title = "Chris Rley"
+Title = "Chris Riley"
 type = "speaker"
 image = "chris-riley.jpg"
 twitter = "hoardinginfo"

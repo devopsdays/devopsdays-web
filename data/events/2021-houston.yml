@@ -21,7 +21,7 @@ cfp_date_announce: 2021-08-15T09:00:00-06:00 # inform proposers of status
 cfp_link: "https://www.papercall.io/devopsdayshouston2021" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2021-06-23T00:00:00-06:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: 2021-09-22T17:00:00-06:00# close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_end: 2021-09-22T17:00:00-06:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://www.eventbrite.com/e/devopsdays-houston-2021-tickets-159318651375?aff=devopsdayswebsite" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -34,15 +34,17 @@ location: "Houston - CityCentre - Norris Conference Centers" # Defaults to city,
 location_address: "816 Town and Country Blvd #210, Houston, TX 77024" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
-    url: https://www.papercall.io/devopsdayshouston2021
+ # - name: propose
+ #   url: https://www.papercall.io/devopsdayshouston2021
   - name: location
   - name: registration
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
+  - name: faq
+  - name: covid-19-policy
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -72,6 +74,15 @@ team_members: # Name is the only required field for team members.
     twitter: "realdancollins"
     image: "dan-collins.jpg"
     bio: "Dan is the founder of DevOpsDays Houston, and a U of H graduate with over 20 years of experience in software and systems development. In the Microsoft-heavy world of Houston IT, he specializes in non-Microsoft technologies with an emphasis on lean methodology and automated software pipelines. Dan is a recovering, former advocate of embedded IT, a blockchain gadfly and has been leading the Houston DevOps Meetup since June 2017. The future is decentralized, distributed, renewable, sustainable and powered by Houston Texas."
+  - name: "JJ Asghar"
+    twitter: "jjasghar"
+    employer: "IBM"
+    bio: "JJ works at IBM on the IBM cloud as a Developer Advocate. He’s focusing on the IBM Kubernetes Service trying to make companies and users have a successful on boarding to the Cloud Native ecosystem."
+    github: "jjasghar"
+    facebook: ""
+    linkedin: ""
+    image: "jj.jpg"
+    role: "Co-Founder"
   - name: "Keegan Cotton"
     employer: "Datadog"
     linkedin: "https://www.linkedin.com/in/keegan-cotton-a6602b1/"
@@ -79,11 +90,11 @@ team_members: # Name is the only required field for team members.
     twitter: "keegancotton"
     bio: "Keegan is an Senior Account Executive at Datadog.  Both a West Point graduate and London Business School alumnus, Keegan has a 20 year track record as a catalyst for both large and small organizations - helping them grow into new markets across several continents.  Keegan has led organizations both in and out of uniform, and helped those organizations refine and execute on their business technology strategies.  Native Texan.  DevOps enthusiast.  Avid learner.  Proud father and husband."
   - name: "Sagar Karmarkar"
-    employer: "Centric Consulting"
+    employer: "Tokio Marine HCC"
     linkedin: "http://www.linkedin.com/in/vnvdevops"
     twitter: "https://twitter.com/sagarvnvdevops"
     image: "sagar-karmarkar.jpg"
-    bio: "Sagar Karmarkar is an Enterprise DevOps Evangelist with over 24 years of experience in Software Engineering, Software Change/Release Management, Software Testing, and IT Operations. Sagar has held senior technology roles at large enterprises such as Compuware, GE Healthcare, JP Morgan, Fidelity Investments, Home Depot, JCPenney and AIG. Sagar is currently a DevOps Architect at cPrime. He provides guidance to clients looking to move towards a DevOps or DevSecOps model. He is also a SAFe Program Consultant and provides training and guidance to technology teams around scaling Agile practices. He has lived in Katy, TX for the last 14 years and has two children that keep him on his toes."
+    bio: "Sagar Karmarkar is an Enterprise DevOps Evangelist with over 25 years of experience in Software Engineering, Software Change/Release Management, Software Testing, and IT Operations. Sagar has held senior technology roles at large enterprises such as Compuware, GE Healthcare, JP Morgan, Fidelity Investments, Home Depot, JCPenney and AIG. Sagar is currently a Release & Automation Manager at Tokio Marine HCC. He is also a SAFe Program Consultant and provides training and guidance to technology teams around scaling Agile practices. He has lived in Katy, TX for the last 17 years."
   - name: "Svetlana Kryukova"
     employer: "Two Sigma Solutions"
     linkedin: "https://www.linkedin.com/in/svetlana-kryukova/"
@@ -122,14 +133,10 @@ sponsors:
     level: gold
   - id: arresteddevops
     level: community
-  - id: 42lines
-    level: gold
   - id: decisiohealth
     level: silver
   - id: elastic
     level: gold
-  - id: xmatters
-    level: platinum
   - id: contrast_security
     level: platinum
   - id: houston-devops-meetup
@@ -144,8 +151,6 @@ sponsors:
     level: gold
   - id: alertops
     level: gold
-  - id: bigpanda
-    level: gold
   - id: basis
     level: silver
   - id: teleport
@@ -154,11 +159,24 @@ sponsors:
     level: silver
   - id: env0
     level: bronze
-  - id: stackhawk
-    level: gold
   - id: abs
     level: lunch
-    
+  - id: redhat
+    level: bronze
+  - id: skycrafters
+    level: bronze
+  - id: skycrafters
+    level: lunch
+  - id: sonatype
+    level: platinum
+  - id: coralogix
+    level: breakfast
+  - id: phoenixnap
+    level: gold
+  - id: trilio
+    level: bronze
+  - id: circleci
+    level: bronze
     
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -185,3 +203,227 @@ sponsor_levels:
     label: Community
   - id: lunch
     label: Lunch
+    max: 2
+  - id: breakfast
+    label: Breakfast
+    max: 2
+    
+program:
+  - title: "Registration, Breakfast, Sponsor Booths Open"
+    type: custom
+    date: 2021-09-21
+    start_time: "08:00"
+    end_time: "08:45"
+  - title: "Opening Welcome & Open Spaces Info"
+    type: custom
+    date: 2021-09-21
+    start_time: "08:45"
+    end_time: "09:15"
+    background_color: "#D0D0D0"
+  - title: "ernest-mueller"
+    type: talk
+    date: 2021-09-21
+    start_time: "09:15"
+    end_time: "10:00"
+  - title: "Platinum Sponsors"
+    type: custom
+    date: 2021-09-21
+    start_time: "10:00"
+    end_time: "10:20"
+    background_color: "#D0D0D0"
+  - title: "milecia-mcgregor"
+    type: talk
+    date: 2021-09-21
+    start_time: "10:25"
+    end_time: "10:55"
+  - title: "mikhail-kozorovitskiy"
+    type: workshop
+    date: 2021-09-21
+    start_time: "10:25"
+    end_time: "11:20"
+    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill"
+  - title: "dan-lorenc"
+    type: talk
+    date: 2021-09-21
+    start_time: "11:05"
+    end_time: "11:35"
+  - title: "Lunch, Visit Sponsor Booths"
+    type: "custom"
+    date: 2021-09-21
+    start_time: "11:40"
+    end_time: "12:40"
+  - title: "Open Space (Attendee Led Breakout Session) Organizing"
+    type: custom
+    date: 2021-09-21
+    start_time: "12:40"
+    end_time: "13:00"
+    background_color: "#D0D0D0"
+  - title: "aakash-shah"
+    type: talk
+    date: 2021-09-21
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "matthew-d-groves"
+    type: workshop
+    date: 2021-09-21
+    start_time: "13:10"
+    end_time: "14:05"
+    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill"
+  - title: "nick-hodges"
+    type: talk
+    date: 2021-09-21
+    start_time: "13:40"
+    end_time: "14:10"
+  - title: "Open Space Intro"
+    type: open-space
+    date: 2021-09-21
+    start_time: "14:20"
+    end_time: "14:25"
+  - title: "Open Space (Attendee Led Breakout Session) #1"
+    type: open-space
+    date: 2021-09-21
+    start_time: "14:25"
+    end_time: "14:55"
+  - title: "Open Space (Attendee Led Breakout Session) #2"
+    type: open-space
+    date: 2021-09-21
+    start_time: "15:00"
+    end_time: "15:30"
+  - title: "thomas-haver"
+    type: talk
+    date: 2021-09-21
+    start_time: "15:35"
+    end_time: "16:05"
+  - title: "matt-stratton"
+    type: workshop
+    date: 2021-09-21
+    start_time: "15:35"
+    end_time: "16:30"
+    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill"
+  - title: "Visit Sponsor Booths"
+    type: "custom"
+    date: 2021-09-21
+    start_time: "16:10"
+    end_time: "16:30"
+  - title: "Ignite Talks:"
+    type: ignite
+    date: 2021-09-21
+    start_time: "16:35"
+    end_time: "16:50"
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2021-09-22
+    start_time: "08:00"
+    end_time: "08:45"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2021-09-22
+    start_time: "08:45"
+    end_time: "09:15"
+    background_color: "#D0D0D0"
+  - title: "blessing-richardson"
+    type: talk
+    date: 2021-09-22
+    start_time: "09:15"
+    end_time: "10:00"
+  - title: "Platinum Sponsors"
+    type: custom
+    date: 2021-09-22
+    start_time: "10:00"
+    end_time: "10:20"
+    background_color: "#D0D0D0"   
+  - title: "austin-king"
+    type: talk
+    date: 2021-09-22
+    start_time: "10:25"
+    end_time: "10:55"
+  - title: "angel-rivera"
+    type: workshop
+    date: 2021-09-22
+    start_time: "10:25"
+    end_time: "11:20"
+    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill"
+  - title: "ell-marquez"
+    type: talk
+    date: 2021-09-22
+    start_time: "11:05"
+    end_time: "11:35"
+  - title: "james-strong"
+    type: workshop
+    date: 2021-09-22
+    start_time: "11:35"
+    end_time: "12:30"
+    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill"
+  - title: "jj-asghar"
+    type: talk
+    date: 2021-09-22
+    start_time: "11:45"
+    end_time: "12:15"
+  - title: "Lunch, Visit Sponsor Booths"
+    type: "custom"
+    date: 2021-09-22
+    start_time: "12:20"
+    end_time: "13:15"
+  - title: "Open Space (Attendee Led Breakout Session) Organizing"
+    type: custom
+    date: 2021-09-22
+    start_time: "13:15"
+    end_time: "13:30"
+    background_color: "#D0D0D0"
+  - title: "matthew-ostlind"
+    type: "talk"
+    date: 2021-09-22
+    start_time: "13:35"
+    end_time: "14:15"
+  - title: "raghavan-srinivas"
+    type: workshop
+    date: 2021-09-22
+    start_time: "13:35"
+    end_time: "14:30"
+    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill"
+  - title: "Visit Sponsor Booths & Interact with Community"
+    type: "custom"
+    date: 2021-09-22
+    start_time: "14:15"
+    end_time: "14:45"
+  - title: "Open Space Intro"
+    type: open-space
+    date: 2021-09-22
+    start_time: "14:45"
+    end_time: "14:50"
+  - title: "Open Space (Attendee Led Breakout Session) #1"
+    type: open-space
+    date: 2021-09-22
+    start_time: "14:50"
+    end_time: "15:20"
+  - title: "Open Space (Attendee Led Breakout Session) #2"
+    type: open-space
+    date: 2021-09-22
+    start_time: "15:25"
+    end_time: "15:55"
+  - title: "vishnu-vasudevan"
+    type: talk
+    date: 2021-09-22
+    start_time: "16:00"
+    end_time: "16:30"
+  - title: "rob-richardson"
+    type: talk
+    date: 2021-09-22
+    start_time: "16:40"
+    end_time: "17:10"
+  - title: "Program Close"
+    type: custom
+    date: 2021-09-22
+    start_time: "17:15"
+    end_time: "17:25"
+    background_color: "#D0D0D0"   
+    
+ignites:
+  - title: "veer-muchandi"
+    date: "2021-09-21"
+  - title: "mark-peters"
+    date: "2021-09-21"
+  - title: "jeremy-meiss"
+    date: "2021-09-21"
+  - title: "george-muldoon"
+    date: "2021-09-21"

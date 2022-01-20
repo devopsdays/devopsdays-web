@@ -3,7 +3,7 @@ year: "2021" # The year of the event. Make sure it is in quotes.
 city: "Zürich (Winterthur)" # The displayed city name of the event. Capitalize it.
 event_twitter: "DevOpsZH" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "DevOpsDays is coming to Zürich!" # Edit this to suit your preferences
-ga_tracking_id: "UA-174260535-2" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+ga_tracking_id: "UA-174260535-7" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 event_group: "Zürich"
 
 # All dates are in unquoted 2021-MM-DDTHH:MM:SS+TZ:TZ, like this:
@@ -26,7 +26,7 @@ registration_date_start: 2021-02-01T00:00:00+02:00
 registration_date_end: 2021-09-06T00:00:00+02:00
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "https://ti.to/dod/dodzh2020" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+#registration_link: "https://ti.to/dod/dodzh2020" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -37,13 +37,13 @@ location_address: "Technikumstrasse 8, 8400 Winterthur, Switzerland" #Optional -
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
 #  - name: propose
-  - name: location
-  - name: registration
-  - name: diversity
-  - name: covid
   - name: program
   - name: speakers
+  - name: location
+  - name: registration
   - name: sponsor
+  - name: diversity
+  - name: covid
   - name: contact
   - name: conduct
 # - name: example
@@ -195,7 +195,7 @@ sponsors:
     level: silver
   - id: switch
     level: bronze
-  - id: checkmarx
+  - id: checkmarx-before-20211215
     level: gold
   - id: basis
     level: silver
@@ -207,7 +207,14 @@ sponsors:
     level: silver
   - id: elastic
     level: silver
-    
+  - id: cloudbees
+    level: gold
+  - id: jfrog
+    level: gold
+  - id: stacksciences
+    level: bronze   
+  - id: lesswire
+    level: partner  
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -298,18 +305,18 @@ program:
   type: ignite
   date: 2021-09-07
   start_time: '14:05'
-  end_time: '14:30'
+  end_time: '14:25'
 
 - title: "Open Space"
   type: open-space
   date: 2021-09-07
-  start_time: '14:30'
+  start_time: '14:25'
   end_time: '16:30'
 
 - title: marco-consolaro
   type: workshop
   date: 2021-09-07
-  start_time: '14:30'
+  start_time: '14:25'
   end_time: '16:30'
 
 - title: courtney-heba
@@ -318,7 +325,7 @@ program:
   start_time: '15:00'
   end_time: '16:30'
 
-- title: workshop-philipp-krenn
+- title: andrea-giardini 
   type: workshop
   date: 2021-09-07
   start_time: '15:00'
@@ -327,7 +334,7 @@ program:
 - title: jonathan-smart
   type: talk
   date: 2021-09-07
-  start_time: '16:30'
+  start_time: '16:45'
   end_time: '17:30'
 
 - title: Evening Event
@@ -355,7 +362,7 @@ program:
   start_time: '9:15'
   end_time: '10:00'
 
-- title: quintessence-anx
+- title: jelena-malic
   type: talk
   date: 2021-09-08
   start_time: '10:00'
@@ -367,7 +374,7 @@ program:
   start_time: '10:30'
   end_time: '11:00'
 
-- title: jelena-malic
+- title: michael-cote 
   type: talk
   date: 2021-09-08
   start_time: '11:00'
@@ -379,7 +386,7 @@ program:
   start_time: '11:30'
   end_time: '12:00'
 
-- title: michael-cote
+- title: quintessence-anx 
   type: talk
   date: 2021-09-08
   start_time: '12:00'
@@ -421,37 +428,27 @@ program:
   start_time: '15:00'
   end_time: '17:15'
 
-- title: andrea-giardini
-  type: workshop
-  date: 2021-09-08
-  start_time: '15:00'
-  end_time: '17:15'
-
-- title: award-ceremony
-  type: talk
+- title: Award Ceremony
+  type: custom
   date: 2021-09-08
   start_time: '17:15'
   end_time: '17:30'
 
 
 ignites:
-  - title: "jeremy-meiss"
-    date: 2021-09-07
-  - title: "georg-hauzenberger"
-    date: 2021-09-07
   - title: "christian-jakob"
     date: 2021-09-07
   - title: "david-patrick-adam"
     date: 2021-09-07
   - title: "tobias-hauk"
     date: 2021-09-07
+  - title: "daniel-maher"
+    date: 2021-09-07
   - title: "achim-toeper"
     date: 2021-09-08
   - title: "justus-graumann"
     date: 2021-09-08
-  - title: "mirza-dautbegovic"
-    date: 2021-09-08
   - title: "ignite-johan-abildskov"
     date: 2021-09-08
-  - title: "philipp-krenn"
+  - title: "georg-hauzenberger"
     date: 2021-09-08

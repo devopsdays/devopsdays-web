@@ -10,6 +10,8 @@ Description = "Sponsor DevOpsDays Boston 2021"
 <div class="col-md-9">
 <div>
 <h3>Join the community</h3>
+
+
 <p><strong>DevOpsDays Boston Virtual</strong> is a two-day online technology community conference that will be held this year on September 27 – 28 using a virtual conference platform.</p>
 <p>The conference is designed to promote awareness around bridging gaps and breaking down silos between development, operations, and security teams and their related business organizations.</p>
 <p>DevOpsDays is a grassroots event for professionals in technology to network and share ideas and challenges relating to DevOps, IT management, and technology in general. It is organized by peers who care about and believe in improving the culture of technology work, process automation, metrics, and sharing in an environment of inclusion.</p>
@@ -18,6 +20,11 @@ Description = "Sponsor DevOpsDays Boston 2021"
 conferences around the world bring together the highest quality speakers, subject matter experts, and contributors for a day of &quot;Teaching and Learning.&quot;</p>
 <p>As a DevOpsDays Boston sponsor, you will be branding your company as ambassadors to the Boston DevOps Community. Your company will be recognized as a Boston technology leader, exposing your brand, products, and services to our top tech talent.</p>
 </div>
+
+<h2>We have sold out of sponsorships, however if you are interested alternative sponsorship opportunities, please drop us an email at {{< email_organizers >}}.</h2>
+
+
+
 <div class="table-responsive">
 <table class="table table-bordered table-hover table-responsive-md">
 <thead class="thead-light">
@@ -41,7 +48,6 @@ Sponsorship Packages
 </tr>
 <tr>
 <th scope="row">Minutes on virtual stage during conference</th>
-</td>
 <td></td>
 <td>
 <center>5</center>
@@ -105,7 +111,7 @@ Sponsorship Packages
 <center>1</center>
 </td>
 <td>
-<center>$8,000</center>
+<center>$2,500</center>
 </td>
 </tr>
 <tr>
@@ -114,27 +120,8 @@ Sponsorship Packages
 <center>1</center>
 </td>
 <td>
-<center>$5,000</center>
-</td>
-</tr>
-<tr>
-<th scope="row">Videography & post-processing</th>
-<td>
-<center>1</center>
-</td>
-<td>
-<center>$5,000</center>
-</td>
-</tr>
-<tr>
-<th scope="row">Pre-event Hangout</th>
-<td>
-<center>1</center>
-</td>
-<td>
 <center>$2,500</center>
 </td>
-</tr>
 </tr>
 <tr>
 <th scope="row">Donations to Underrepresentation Partners</th>
@@ -148,8 +135,6 @@ Sponsorship Packages
 </tbody>
 </table>
 <div>
-
-<p>If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].</p>
 
 
 </div>

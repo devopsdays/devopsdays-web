@@ -46,7 +46,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
         <br/>
         <br/>
   <div class="row">
-        <h2 style="text-transform: uppercase; color: turquoise;"><strong>Community Pillar: $6,500 (USD) - ~14-16 Available</strong></h2>
+        <h2 style="text-transform: uppercase; color: turquoise;"><strong>Community Pillar: $6,500 (USD) - SOLD OUT</strong></h2>
         <p></p>
   </div>
     <div class="row">
