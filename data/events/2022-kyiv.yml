@@ -1,0 +1,94 @@
+name: "2022-kyiv" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2022" # The year of the event. Make sure it is in quotes.
+city: "Kyiv" # The displayed city name of the event. Capitalize it.
+event_group: "Kyiv"
+event_twitter: "days_dev" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "While our 2022 event will no longer happen, we will return in 2023."
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2022-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2022-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate:
+enddate:
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start:
+cfp_date_end:
+cfp_date_announce:
+
+cancel: "true"
+
+cfp_open: "true"
+cfp_link: "https://forms.gle/h9wxjHaRk1EQ6Kyw9" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: 2022-01-01T00:00:00+03:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2022-04-14T23:59:59+03:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates:
+location:
+#
+location_address:
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: contact
+  - name: conduct
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Yurii Rochniak"
+    employer: "N26"
+    twitter: "grem11n"
+    github: "grem11n"
+    linkedin: "https://linkedin.com/in/yrochnyak/"
+    bio: "Yurii Rochniak is currently an SRE at N26 neobank where he's working on creating an internal self-service platform for engineers. Through his career, he was focusing on infra development and CI/CD topics in the companies of various sizes.
+Yurii is a creator and administrator of CatOps Telegram channel with more than 5k subscribers and an initiator of HashiCorp User Group Kyiv.
+Yurii is originally from Kyiv, but currently located in Berlin. He's into biking and stand up paddleboarding, when the weather allows it."
+    image: "yurii-rochniak.jpg"
+
+  - name: "Oleg Mykolaichenko"
+    employer: "SQUAD"
+    twitter: ""
+    bio: "Head of Infrastructure at SQUAD. Leading distributed DevOps team, adopting CNCF + HashiCorp Stack for complex infrastructures. Kyiv DevOps Community Co-Founder, runs the largest Telegram channel about DevOps in Ukraine and DevOps digests on DOU.UA."
+    linkedin: "https://www.linkedin.com/in/oleg-mykolaichenko-763ab699/"
+    image: "oleg-mykolaichenko.jpg"
+
+  - name: "Mykola Marzhan"
+    employer: "Percona"
+    twitter: ""
+    bio: "Mykola has been shorting “Time-to-market” in software companies more than ten years. Most of his career he has been focused on the automation of release procedures, and on the development of monitoring, update and deployment systems."
+    github: "delgod"
+    linkedin: "https://www.linkedin.com/in/delgod/"
+    image: "mykola-marzhan.jpg"
+
+organizer_email: "kyiv@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: partner
+    label: Partner
+  # - id: gold
+  #   label: Gold
+  # - id: silver
+  #   label: Silver
+  # - id: bronze
+  #   label: Bronze
+  # - id: community
+  #   label: Community

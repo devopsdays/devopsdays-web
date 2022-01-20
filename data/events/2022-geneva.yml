@@ -11,18 +11,18 @@ ga_tracking_id: "UA-85366825-4" # If you have your own Google Analytics tracking
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2020-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: 2022-02-07T08:00:00+01:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2022-02-08T17:00:00+01:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2022-05-12T08:00:00+01:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2022-05-13T17:00:00+01:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  2021-06-07T08:00:00+01:00 #start accepting talk proposals.
-cfp_date_end: 2021-10-15T23:59:00+01:00 # close your call for proposals.
+cfp_date_end: 2021-11-15T23:59:00+01:00 # close your call for proposals.
 cfp_date_announce: 2021-11-15T12:00:00+01:00 # inform proposers of status
 
 #cfp_link: "https://cfpdevopsdaysge.hidora.com" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2021-09-23T14:00:00+01:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2022-05-07T23:59:00+01:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -35,13 +35,13 @@ location: "Geneva" # Defaults to city, but you can make it the venue name.
 location_address: "Campus de Battelle, Rue de la Tambourine 17, 1227 Carouge" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+#  - name: propose
   - name: location
   - name: newsletter
-#  - name: registration
-#  - name: program
+  - name: registration
+  - name: program
 #  - name: speakers
-#  - name: sponsor
+  - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
@@ -52,8 +52,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Matteo Mazzeri"
-    employer: "ENALEAN"
-    website: "https://tuleap.org/"
+    employer: "CKatalyzen"
+    website: "https://mazzeri.net/"
     twitter: "matemaz"
     linkedin: "https://www.linkedin.com/in/mazzeri"
     image: matteo.jpg
@@ -69,21 +69,27 @@ team_members: # Name is the only required field for team members.
     employer: "Value IT Swiss"
     website: "https://valueit.ch/"
     linkedin: "https://www.linkedin.com/in/deniger/"
-    twitter: "DenigerFrederic"
     image: fred.jpg
     bio: "Technical Team Leader with more than 15 years' experience managing complex IT projects in fast-paced environments. Dedicated team player with an in-depth knowledge of agile methodology and the ability to implement DevOps practices to reduce development times and improve quality. Results-focused and adaptable. Track record of delivering successful projects in a variety of sectors e.g. banking, scientific community, international organizations."
+  - name: "Tim Izzo"
+    employer: "Octree"
+    linkedin: "https://www.linkedin.com/in/tim-izzo/"
+    twitter: 5ika_
+    website: "https://octree.ch/"
+    image: tim.jpg
+    bio: "Co-founder of Octree, lecturer at CREA and Sunday hacker, Tim Izzo has a history at the crossroads between network engineering, security and development. He is passionate about Open-Source, circular economy and distributed governance. Through his background, he has followed the evolution of DevOps since its inception."
   - name: "Gaelle Delesderrier"
     employer:  M.I.C.E. spirit
     website: https://mice-spirit.com
     linkedin: "https://www.linkedin.com/in/ga%C3%ABlle-delesderrier-019a6727/"
     image: gaelle.jpg
-    bio: "Gaëlle, genevoise, active en agence événementielle depuis 10 ans, est notre spécialiste de l’incentive et une grande passionnée de la montagne. Faites-lui confiance pour l’organisation de vos séminaires, lancements de produits et incentives aussi bien en Suisse qu’à l’international. Elle saura vous dénicher les adresses exclusives et méconnues ainsi que les astuces qui feront de votre événement un succès. Elle vous guidera dans votre programme sur mesure pour créer un moment d’émotion et rendre votre expérience unique."
+    bio: "Gaëlle, originally from Geneva, has been working in an event agency for 10 years. She is our incentive specialist and is very passionate about mountain destinations. You can trust her to organize your seminars, product launches, and incentives in Switzerland and abroad. She will know how to find exclusive and lesser-known addresses as well as the tips that will make your event a success. She will guide you in your tailor-made program to create an emotional moment and make your experience unique."
   - name: "Sen Catala"
     employer:  M.I.C.E. spirit
     website: https://mice-spirit.com
     linkedin: "https://www.linkedin.com/in/sencatala/"
     image: sen.jpg
-    bio: "Sen, de formation hôtelière, a 12 ans d’expérience dans l’organisation d’événements. Ses qualités sont la connaissance des grandes villes européennes qu’il a sillonnées tout au long de ces dernières années, ainsi qu’un réseau de partenaires de confiance. Fort de son expérience dans le domaine pharmaceutique, il saura répondre à vos problématiques de compliance. Avec son humour et sa bonne humeur, il saura vous écouter et trouver la solution correspondant à vos attentes."
+    bio: "Sen, who has a hotel background, has 16 years of experience in event organization. His main qualities are the knowledge of the major European cities that he has traveled to over the last few years, as well as a network of trusted partners. With his experience in the pharmaceutical field, he will be able to answer your compliance issues. With his humour and good humour, he will be able to listen to you and find the solution corresponding to your expectations."
 
 
 organizer_email: "geneva@devopsdays.org" # Put your organizer email address here
@@ -91,7 +97,55 @@ organizer_email: "geneva@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: techfirm
+    level: event
+  - id: hidora
+    url: https://www.hidora.io
+    level: gold
+  - id: camptocamp
+    level: gold
+  - id: dynatrace
+    level: gold
+  - id: trilio
+    level: gold
+  - id: redhat
+    level: gold
+  - id: pictet
+    level: gold
+  - id: cisel
+    level: gold
+  - id: veeam
+    level: gold
+  - id: valueitswiss
+    level: silver
+  - id: sokube
+    level: silver
+  - id: stacksciences
+    level: silver
+  - id: dbi-services
+    level: silver
+  - id: globaz
+    level: silver
+  - id: cross-systems
+    level: silver
+  - id: smartwave
+    level: silver
+  - id: checkmarx
+    level: silver
+  - id: styra
+    level: silver
+  - id: socraft
+    level: bronze
+  - id: turbonomic
+    level: bronze
+  - id: feesh
+    level: bronze
+  - id: swissdevjobs
+    level: community
+  - id: heg-geneva
+    level: community
+  - id: agilesuisse
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -100,9 +154,9 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-#  - id: event
-#    label: Event
-#    max: 1
+  - id: event
+    label: Event
+    max: 1
   - id: gold
     label: Gold
     max: 8
@@ -117,190 +171,267 @@ sponsor_levels:
     max: 12
 
 program:
-  #   Day 1
-  - title: "Registration & Breakfast"
+  ##  Day 1
+  # Day 1: welcome
+  - title: Registration & Breakfasts
     type: custom
-    date: "2020-02-24"
-    start_time: "08:30"
-    end_time: "09:00"
-  - title: "Welcome Speech"
+    date: "2022-05-12"
+    start_time: "08:15"
+    end_time: "08:45"
+
+  - title: Welcome Speech
     type: custom
-    date: "2020-02-24"
-    start_time: "09:00"
-    end_time: "09:20"
-  - title: "joseph-glorieux-and-mathieu-brun"
+    date: "2022-05-12"
+    start_time: "08:45"
+    end_time: "09:10"
+
+    # Day 1: talk 1
+  - title: julie-giacinti-and-xavier-nicolovici
     type: talk
-    date: "2020-02-24"
-    start_time: "09:20"
-    end_time: "10:20"
-  - title: "anton-babenko"
+    date: "2022-05-12"
+    start_time: "09:10"
+    end_time: "10:00"
+
+    # Day 1: talk 2
+  - title: david-barbarin
+    type: talk
+    date: "2022-05-12"
+    start_time: "10:00"
+    end_time: "10:50"
+
+    # Day 1: workshop 1
+  - title: justin-reock
     type: workshop
-    date: "2020-02-24"
-    start_time: "9:30"
-    end_time: "11:00"
-  - title: "thomas-cottier"
-    type: talk
-    date: "2020-02-24"
-    start_time: "10:20"
-    end_time: "11:20"
-  - title: "Morning coffee"
+    date: "2022-05-12"
+    start_time: "9:15"
+    end_time: "10:50"
+
+    # Day 1: workshop 1 bis
+  - title: nicolas-thomas
+    type: workshop
+    date: "2022-05-12"
+    start_time: "9:15"
+    end_time: "10:50"
+
+
+  - title: Morning coffee
     type: custom
-    date: "2020-02-24"
+    date: "2022-05-12"
+    start_time: "10:50"
+    end_time: "11:15"
+
+    # Day 1: talk 3
+  - title: "giovanni-galloro"
+    type: talk
+    date: "2022-05-12"
+    start_time: "11:15"
+    end_time: "12:05"
+
+    # Day 1: talk 4
+  - title: "denis-jannot"
+    type: talk
+    date: "2022-05-12"
+    start_time: "12:05"
+    end_time: "12:55"
+
+    # Day 1: workshop 2
+  - title: "dr-joe-perez"
+    type: workshop
+    date: "2022-05-12"
     start_time: "11:20"
-    end_time: "12:00"
-  - title: "maria-guseva"
-    type: talk
-    date: "2020-02-24"
-    start_time: "12:00"
-    end_time: "13:00"
-  - title: "jerome-van-der-linden-and-bashar-al-fallouji"
+    end_time: "12:55"
+
+    # Day 1: workshop 2 bis
+  - title: "olivier-crozier"
     type: workshop
-    date: "2020-02-24"
-    start_time: "12:00"
-    end_time: "13:30"
+    date: "2022-05-12"
+    start_time: "11:20"
+    end_time: "12:55"
+
   - title: "Lunch"
     type: custom
-    date: "2020-02-24"
-    start_time: "13:00"
-    end_time: "14:30"
-  - title: "robert-falkowitz"
+    date: "2022-05-12"
+    start_time: "12:55"
+    end_time: "14:10"
+
+    # Day 1: talk 5
+  - title: charles-laziosi-and-vincent-journel
     type: talk
-    date: "2020-02-24"
-    start_time: "14:30"
-    end_time: "15:30"
-  - title: "denis-jannot"
+    date: "2022-05-12"
+    start_time: "14:10"
+    end_time: "15:00"
+
+    # Day 1: talk 6
+  - title: david-pilato
+    type: talk
+    date: "2022-05-12"
+    start_time: "15:00"
+    end_time: "15:50"
+
+  # Day 1: workshop 3
+  - title: max-andersson
     type: workshop
-    date: "2020-02-24"
-    start_time: "14:45"
-    end_time: "16:15"
-  - title: "paolo-kreth"
-    type: talk
-    date: "2020-02-24"
-    start_time: "15:30"
-    end_time: "16:30"
-  - title: "Afternoon coffee"
-    type: custom
-    date: "2020-02-24"
-    start_time: "16:30"
-    end_time: "17:00"
-  - title: "piotr-gaczkowski"
-    type: talk
-    date: "2020-02-24"
-    start_time: "17:00"
-    end_time: "18:00"
-  - title: "jay-gordon"
+    date: "2022-05-12"
+    start_time: "14:15"
+    end_time: "15:50"
+
+  # Day 1: workshop 3 bis
+  - title: nicolas-frankel
     type: workshop
-    date: "2020-02-24"
-    start_time: "17:00"
-    end_time: "18:30"
-  - title: "jan-de-vries"
-    type: talk
-    date: "2020-02-24"
-    start_time: "18:00"
-    end_time: "19:00"
-  - title: "Cocktail Dinner"
+    date: "2022-05-12"
+    start_time: "14:15"
+    end_time: "15:50"
+
+  - title: Afternoon coffee
     type: custom
-    date: "2020-02-24"
+    date: "2022-05-12"
+    start_time: "15:50"
+    end_time: "16:40"
+
+  #   Day 1: talk 7
+  - title: raphael-pinson
+    type: talk
+    date: "2022-05-12"
+    start_time: "16:40"
+    end_time: "17:30"
+
+  #   Day 1: talk 8
+  - title: justus-graumann
+    type: talk
+    date: "2022-05-12"
+    start_time: "17:30"
+    end_time: "18:20"
+
+  #   Day 1: workshop 4
+  - title: sven-szejwach
+    type: workshop
+    date: "2022-05-12"
+    start_time: "16:40"
+    end_time: "18:20"
+
+    #   Day 1: workshop 4 bis
+  - title: herve-schweitzer
+    type: workshop
+    date: "2022-05-12"
+    start_time: "16:40"
+    end_time: "18:20"
+
+  - title: Cocktail Dinner
+    type: custom
+    date: "2022-05-12"
     start_time: "19:00"
     end_time: ""
+
+
 #Day 2
-  - title: "Breakfast"
+  - title: Welcome Speech
     type: custom
-    date: "2020-02-25"
-    start_time: "08:15"
+    date: "2022-05-13"
+    start_time: "08:45"
     end_time: "09:00"
-  - title: "Speech OpenSpaces"
-    type: custom
-    date: "2020-02-25"
+
+  #   Day 2: talk 1
+  - title: ankur-marfatia
+    type: talk
+    date: "2022-05-13"
     start_time: "09:00"
-    end_time: "09:15"
-  - title: "yann-albou-and-sebastien-fere"
+    end_time: "09:50"
+
+  #   Day 2: talk 2
+  - title: aurelie-vache
     type: talk
-    date: "2020-02-25"
-    start_time: "09:15"
-    end_time: "10:15"
+    date: "2022-05-13"
+    start_time: "09:50"
+    end_time: "10:40"
+
+  ## Day 2 openspaces
   - title: "Open-Spaces"
     type: open-space
-    date: "2020-02-25"
-    start_time: "09:15"
-    end_time: "10:15"
-  - title: "liat-palace"
-    type: talk
-    date: "2020-02-25"
-    start_time: "10:15"
-    end_time: "11:15"
-  - title: "Open-Spaces"
-    type: open-space
-    date: "2020-02-25"
-    start_time: "10:15"
-    end_time: "11:15"
-  - title: "Morning Coffee"
+    date: "2022-05-13"
+    start_time: "09:05"
+    end_time: "10:40"
+
+  - title: Morning Coffee
     type: custom
-    date: "2020-02-25"
-    start_time: "11:15"
-    end_time: "11:45"
-  - title: "vinciane-de-pape"
+    date: "2022-05-13"
+    start_time: "10:40"
+    end_time: "11:05"
+
+  #   Day 2: talk 3
+  - title: courtney-heba
     type: talk
-    date: "2020-02-25"
-    start_time: "11:45"
+    date: "2022-05-13"
+    start_time: "11:05"
+    end_time: "11:55"
+
+  #   Day 2: talk 4
+  - title: brian-contos
+    type: talk
+    date: "2022-05-13"
+    start_time: "11:55"
     end_time: "12:45"
+
   - title: "Open-Spaces"
     type: open-space
-    date: "2020-02-25"
-    start_time: "11:45"
+    date: "2022-05-13"
+    start_time: "11:10"
     end_time: "12:45"
-  - title: "Lunch"
+
+  - title: Lunch
     type: custom
-    date: "2020-02-25"
+    date: "2022-05-13"
     start_time: "12:45"
-    end_time: "13:45"
-  - title: "ricardo-castro"
+    end_time: "14:00"
+
+  #   Day 2: talk 5
+  - title: sandro-cirulli
     type: talk
-    date: "2020-02-25"
-    start_time: "13:45"
-    end_time: "14:45"
+    date: "2022-05-13"
+    start_time: "14:00"
+    end_time: "14:50"
+
+  #   Day 2: talk 6
+  - title: gerie-owen
+    type: talk
+    date: "2022-05-13"
+    start_time: "14:50"
+    end_time: "15:40"
+
   - title: "Open-Spaces"
     type: open-space
-    date: "2020-02-25"
-    start_time: "13:45"
-    end_time: "14:45"
-  - title: "heidi-araya"
-    type: talk
-    date: "2020-02-25"
-    start_time: "14:45"
-    end_time: "15:45"
-  - title: "Open-Spaces"
-    type: open-space
-    date: "2020-02-25"
-    start_time: "14:45"
-    end_time: "15:45"
-  - title: "Afternoon coffee"
+    date: "2022-05-13"
+    start_time: "14:05"
+    end_time: "15:40"
+
+  - title: Afternoon coffee
     type: custom
-    date: "2020-02-25"
-    start_time: "15:45"
-    end_time: "16:15"
-  - title: "nataliia-godec"
+    date: "2022-05-13"
+    start_time: "15:40"
+    end_time: "16:25"
+
+  #   Day 2: talk 7
+  - title: john-williams
     type: talk
-    date: "2020-02-25"
-    start_time: "16:15"
+    date: "2022-05-13"
+    start_time: "16:25"
     end_time: "17:15"
-  - title: "Open-Spaces"
-    type: open-space
-    date: "2020-02-25"
-    start_time: "16:15"
-    end_time: "17:15"
-  - title: "mofizur-rahman"
-    type: talk
-    date: "2020-02-25"
-    start_time: "17:15"
-    end_time: "18:15"
-  - title: "Open-Spaces"
-    type: open-space
-    date: "2020-02-25"
-    start_time: "17:15"
-    end_time: "18:15"
-  - title: "Closing days Speech"
+
+  #   Day 2: open discussion
+  - title: Open Discussions
     type: custom
-    date: "2020-02-25"
-    start_time: "18:15"
-    end_time: "18:30"
+    date: "2022-05-13"
+    start_time: "17:15"
+    end_time: "17:50"
+
+  - title: "Open-Spaces"
+    type: open-space
+    date: "2022-05-13"
+    start_time: "16:30"
+    end_time: "17:50"
+
+
+  - title: Closing Speech
+    type: custom
+    date: "2022-05-13"
+    start_time: "17:50"
+    end_time: "18:10"

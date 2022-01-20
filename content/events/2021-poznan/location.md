@@ -4,6 +4,6 @@ Type = "event"
 Description = "Location for DevOpsDays Poznań 2021"
 +++
 
-**The event will be held online this year and will took place 01-02 June 2021!**
+**The event will be held on-line**
 
 {{< event_map >}}

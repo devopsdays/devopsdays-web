@@ -10,13 +10,13 @@ ga_tracking_id: "UA-74738648-1" # If you have your own Google Analytics tracking
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2021-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2022-05-10T00:00:00-05:00
+enddate: 2022-05-11T00:00:00-05:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2021-11-01T00:00:00-05:00 # start accepting talk proposals.
+cfp_date_end: 2022-01-31T00:00:00-05:00 # close your call for proposals.
+cfp_date_announce: 2022-02-28T00:00:00-05:00 # inform proposers of status
 
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
@@ -30,18 +30,18 @@ masthead_background: "skyline-night.jpg"
 
 # Location
 #
-coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Chicago" # Defaults to city, but you can make it the venue name.
+coordinates: "41.866943,-87.646142" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "UIC Forum" # Defaults to city, but you can make it the venue name.
 #
 location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
- # - name: location
+  - name: propose
+  - name: location
  # - name: registration
  # - name: program
  # - name: speakers
- # - name: sponsor
+  - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
@@ -155,8 +155,29 @@ sponsors:
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
+    
+  # Gold Sponsors
+  - id: teleport
+    level: gold
+  - id: trilio
+    level: gold
+  - id: neuvector
+    level: gold
+  - id: solo
+    level: gold
+    
+   #Silver Sponsors
+  - id: medtronic
+    level: silver
+  - id: linearb
+    level: silver
+   
+   
+   #Bronze Sponsors
+  - id: env0
+    level: bronze
 
-sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For

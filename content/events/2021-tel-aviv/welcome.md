@@ -65,14 +65,14 @@ Description = "devopsdays Tel Aviv 2021"
   </div>
 </div> -->
 
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Sponsors</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="sponsor" text="Sponsor the conference!" >}}
-  </div>
-</div>
+[comment]: <> (<div class = "row">)
+[comment]: <> (  <div class = "col-md-2">)
+[comment]: <> (    <strong>Sponsors</strong>)
+[comment]: <> (  </div>)
+[comment]: <> (  <div class = "col-md-8">)
+[comment]: <> (    {{< event_link page="sponsor" text="Sponsor the conference!" >}})
+[comment]: <> (  </div>)
+[comment]: <> (</div>)
 
 <div class = "row">
   <div class = "col-md-2">

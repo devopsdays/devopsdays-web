@@ -2,7 +2,7 @@
 Title = "devopsdays Buffalo 2021"
 Type = "welcome"
 aliases = ["/events/2021-buffalo/"]
-Description = "DevOpsDays Buffalo is coming back in October!"
+Description = "DevOpsDays Buffalo is back for another unique conference experience!"
 +++
 <style type="text/css">
 .bflo {
@@ -32,7 +32,7 @@ Description = "DevOpsDays Buffalo is coming back in October!"
   border: none;
   border-radius: 0.5em;
   font-weight: bold;
-  padding: 3em 3em;
+  padding: 1em 2em;
 }
 .bflo .sidebar h2:not(:nth-of-type(1)) {
   margin-top: 2em;
@@ -58,8 +58,8 @@ Description = "DevOpsDays Buffalo is coming back in October!"
 
 <div class="sidebar">
 <h2>Registration</h2>
-<p>Tickets for both, the physical and virtual experiences will be announced soon!</p>
-<!-- <p><a href="https://ti.to/devops-days-buffalo/devops-days-buffalo-2021"><button>Get Your Ticket</button></a></p> -->
+<p>Tickets for both, the physical and virtual experiences are now available!</p>
+<p style="text-align: center;"><a href="https://ti.to/devops-days-buffalo/devops-days-buffalo-2021"><button>Get Your Ticket</button></a></p>
 
 <h2>Let's Talk About COVID-19</h2>
 <p>We are continuing to monitor the COVID-19 guidlines and are 
@@ -68,6 +68,8 @@ The physical drive-in theater option will allow us to be flexible
 and adapt to the most recent guidelines leading up to the event. 
 Furthermore, a virtual option will be available for those who would 
 prefer to limit contact with others.</p>
+
+<p><b><i>Due to anticipated changes to the COVID-19 guidelines, we will be requiring attendees to wear masks and maintain social distancing during the on-premise portion of the event.</i></b></p>
 
 <p><strong>Related:</strong></p>
 <ul>
