@@ -100,6 +100,11 @@ sponsors:
     level: gold
   - id: atea
     level: silver
+  - id: lego
+    level: gold
+    url: https://t.sidekickopen08.com/s3t/c/5/f18dQhb0S7kF8cp8MZW1x8yX759hl3kW7_k2841CXdp3VPwTK92P38S6W2dykdh21ln3S101?te=W3R5hFj4cm2zwW4mKLS-3ZVcnZW1JxwY51LwWgDW4hLTFL3zgCSrW49Rd7b3S-q0dW3zd14s3K2z06n43SNXJ2f3&si=8000000002585125&pi=220a7dd3-f9c0-4c83-d1a5-da1895c22b3a
+  - id: stickermule
+    level: community
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
