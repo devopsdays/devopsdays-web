@@ -1,17 +1,16 @@
 +++
 Title = "Location"
 Type = "event"
-Description = "Location for devopsdays atlanta 2022"
+Description = "Location for devopsdays Atlanta 2022"
 +++
 
-Watch this space for information about the venue including address, map/direction, parking/transit, and any hotel details.
+This event will be held at The Georgia Aquarium's Ocean Ballroom.
+The address to the parking deck to the Ocean's Ballrom is  246 Ivan Allen Jr Blvd NW, Atlanta, GA 30313. 
+The address of The Aquarium is 225 Baker St NW, Atlanta, GA 30313.
 
-<!-- Uncomment this only if you have set the coordinates for your location in the config yaml. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html -->
-<!-- {{< event_map >}} -->
+### Georgia Aquarium Ocean's Ballroom
 
-<!-- Edit and uncomment to let people know what accessibility features you have available -->
-<!-- 
-    Example from Minneapolis 2020
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6633.78949776644!2d-84.3932160792047!3d33.763385563982915!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88f5047e71e07a65%3A0x53dcfafc38c25198!2s246%20Ivan%20Allen%20Jr%20Blvd%20NW%2C%20Atlanta%2C%20GA%2030313!5e0!3m2!1sen!2sus!4v1640906267499!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
-    We offer wheelchair-designated spaces, chairs, and standing options (with tall tables) in the mainstage session room; a quiet room; bathrooms labeled according to the facilities they contain; professional live captioning of mainstage sessions; ingredient labeling (based on data provided when registering); and private space (upon request) for those nursing. We'd also be happy to accommodate any other accessibility needs upon request: {{< email_organizers >}}    
--->
+There is ample parking at The Aquarium and accessible via Ride Share also. 
+*Hope to see you there!*
