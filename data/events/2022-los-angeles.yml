@@ -1,7 +1,7 @@
 name: "2022-los-angeles" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2022" # The year of the event. Make sure it is in quotes.
 city: "Los Angeles" # The displayed city name of the event. Capitalize it.
-event_twitter: "devopsdayla2022" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+event_twitter: "socaldevops" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "DevOpsDays is coming to Los Angeles!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
@@ -28,9 +28,9 @@ registration_link: "https://register.socallinuxexpo.org/reg6/" # If you have a c
 masthead_background: "DevOpsDayLA_Banner.jpg"
 
 # Location
-coordinates: "34.1436537,-118.1452085" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Pasadena Convention Center" # Defaults to city, but you can make it the venue name.
-location_address: "300 E Green St, Pasadena, CA 91101" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+coordinates: "33.9464565,-118.3816615" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Hilton Los Angeles Airport (LAX)" # Defaults to city, but you can make it the venue name.
+location_address: "Hilton Los Angeles Airport 5711 W Century Blvd, Los Angeles, CA 90045" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   # - name: program
