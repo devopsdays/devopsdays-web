@@ -3,6 +3,7 @@ year: "2020" # The year of the event. Make sure it is in quotes.
 city: "Austin" # The displayed city name of the event. Capitalize it.
 event_twitter: "DoDAustin" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "DevOpsDays Austin's 9th Year!" # Edit this to suit your preferences
+cancel: "true"
 
 masthead_background: "austin-skyline.jpg"
 
