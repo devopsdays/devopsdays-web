@@ -90,6 +90,11 @@ team_members: # Name is the only required field for team members.
     employer: "SPK and Associates"
     linkedin: "https://www.linkedin.com/in/michael-roberts-5a72032/"
     image: "michael-roberts.jpg"
+  - name: "Shane Kirk"
+    website: "https://www.shanekirk.me/"
+    github: "shanedroid"
+    linkedin: "https://www.linkedin.com/in/shanek1rk/"
+    image: "shane-kirk.jpg"
 
 organizer_email: "raleigh@devopsdays.org" # Put your organizer email address here
 
