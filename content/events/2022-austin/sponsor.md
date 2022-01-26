@@ -13,7 +13,7 @@ product development at companies throughout the local area and beyond.
 DevOpsDays Austin 2022 will be held at the UT Austin Alumni Center from May
 4-5, 2022, and will accommodate a cap of 350 attendees. The theme will be "DevOps 10 Year Class Reunion."
 
-<a href="mailto:austin@devopdays.org" class="btn btn-primary"><i class="fa fa-envelope fa-lg"></i>&nbsp;&nbsp;&nbsp;Email us to become a sponsor</a>
+<a href="mailto:austin@devopsdays.org" class="btn btn-primary"><i class="fa fa-envelope fa-lg"></i>&nbsp;&nbsp;&nbsp;Email us to become a sponsor</a>
 
 ### Sponsor Benefits
 
