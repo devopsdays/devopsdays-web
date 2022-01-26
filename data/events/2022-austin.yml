@@ -224,6 +224,17 @@ sponsors:
 #  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 #   - id: arresteddevops
 #     level: community
+sponsors:
+  - id: rundeck
+    level: gold
+  - id: couchbase
+    level: gold
+  - id: mondoo
+    level: lanyard
+  - id: texasmutual
+    level: coffee
+  - id: techstronggroup
+    level: media
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -237,16 +248,16 @@ sponsor_levels:
     max: 1
   - id: platinum
     label: Platinum
-    max: 10
+    max: 2
   - id: gold
     label: Gold
-    max: 24
+    max: 12
   - id: lanyard
     label: Lanyard
     max: 1
-  # - id: oncall
-  #   label: On-call Room
-  #   max: 10
-  # - id: mealandsnack
-  #   label: Meal and Snack
-  #   max: 8
+  - id: coffee
+    label: Coffee Bar
+    max: 1
+  - id: media
+    label: Media
+    max: 1
