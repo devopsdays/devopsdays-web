@@ -13,7 +13,7 @@ Description = "All information about the Covid-19 measures"
 <div class="row">
   <div  class="col-md-9">
     <p> We plan to hold DevOpsDays Zurich 2022 as an in-person event. However, we will work out a detailed COVID-19 concept for the event which will be updated constantly, to make the situation on site as safe as possible for everyone. </p>
-    <a class="btn btn-primary btn-block"  style = "width: 370px; margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://www.devopsdays.ch/_files/ugd/116ad9_163d0ba17c4245bfaf630b2a212b51a4.pdf" target="_blank">DevOpsDays Zürich 2022 COVID-19 protection concept</a>
+    <a class="btn btn-primary btn-block"  style = "width: 370px; margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://assets.devopsdays.org/events/2022/zurich/2022-zurich-devopsdays-covid-19-protection-concept.pdf" target="_blank">DevOpsDays Zürich 2022 COVID-19 protection concept</a>
   </div>
 </div>
 <div class="row">
