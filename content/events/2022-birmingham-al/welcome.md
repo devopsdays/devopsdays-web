@@ -5,9 +5,9 @@ aliases = ["/events/2022-birmingham-al/"]
 Description = "DevOpsDays is coming. April 18th and 19th, 2022 in the beautiful Birmingham, Alabama"
 +++
 
-<!-- <div style="text-align:center;">
+<div style="text-align:center;">
   {{< event_logo >}}
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -18,14 +18,14 @@ Description = "DevOpsDays is coming. April 18th and 19th, 2022 in the beautiful 
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -36,14 +36,14 @@ Description = "DevOpsDays is coming. April 18th and 19th, 2022 in the beautiful 
   </div>
 </div> -->
 
-<!-- <div class = "row">
+ <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
