@@ -31,7 +31,7 @@ jobs:
 
   test:
     docker:
-      - image: circleci/node:11.5.0
+      - image: circleci/node:16.13.2
         auth:
           username: devopsdaysbuild
           password: $DOCKERHUB_PASSWORD
@@ -42,7 +42,7 @@ jobs:
           at: ~/devopsdays/workspace
       - run:
           name: update-npm
-          command: 'sudo npm install -g npm@6.4.1'
+          command: 'sudo npm install -g npm@8.3.1'
       - run:
           name: npm-version
           command: 'npm version'
