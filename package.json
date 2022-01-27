@@ -36,5 +36,9 @@
     "jssocials": "^1.5.0",
     "netlify-cli": "^8.14.1",
     "popper.js": "^1.15.0"
+  },
+  "engines": {
+    "npm": ">=8.0.0",
+    "node": ">=16.0.0"
   }
 }
