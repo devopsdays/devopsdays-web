@@ -65,16 +65,13 @@ team_members: # Name is the only required field for team members.
     github: "zonywhoop"
 
 
-organizer_email: "organizers@devopsdaysbham.org" # Put your organizer email address here
+organizer_email: "birmingham-al@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-#  - id: samplesponsorname
-#    level: gold
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-#  - id: arresteddevops
-#    level: community
+  - id: datalus-corporation
+    level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

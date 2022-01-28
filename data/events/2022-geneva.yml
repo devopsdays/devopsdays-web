@@ -11,8 +11,8 @@ ga_tracking_id: "UA-85366825-4" # If you have your own Google Analytics tracking
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2020-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: 2022-02-07T08:00:00+01:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2022-02-08T17:00:00+01:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2022-05-12T08:00:00+01:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2022-05-13T17:00:00+01:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  2021-06-07T08:00:00+01:00 #start accepting talk proposals.
@@ -22,7 +22,7 @@ cfp_date_announce: 2021-11-15T12:00:00+01:00 # inform proposers of status
 #cfp_link: "https://cfpdevopsdaysge.hidora.com" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2021-09-23T14:00:00+01:00 # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: 2022-01-29T23:59:00+01:00 # close registration. Leave blank if registration is not open yet.
+registration_date_end: 2022-05-07T23:59:00+01:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -138,9 +138,13 @@ sponsors:
     level: bronze
   - id: turbonomic
     level: bronze
+  - id: feesh
+    level: bronze
   - id: swissdevjobs
     level: community
   - id: heg-geneva
+    level: community
+  - id: agilesuisse
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -171,150 +175,150 @@ program:
   # Day 1: welcome
   - title: Registration & Breakfasts
     type: custom
-    date: "2022-02-07"
+    date: "2022-05-12"
     start_time: "08:15"
     end_time: "08:45"
 
   - title: Welcome Speech
     type: custom
-    date: "2022-02-07"
+    date: "2022-05-12"
     start_time: "08:45"
     end_time: "09:10"
 
     # Day 1: talk 1
   - title: julie-giacinti-and-xavier-nicolovici
     type: talk
-    date: "2022-02-07"
+    date: "2022-05-12"
     start_time: "09:10"
     end_time: "10:00"
 
     # Day 1: talk 2
   - title: david-barbarin
     type: talk
-    date: "2022-02-07"
+    date: "2022-05-12"
     start_time: "10:00"
     end_time: "10:50"
 
     # Day 1: workshop 1
   - title: justin-reock
     type: workshop
-    date: "2022-02-07"
+    date: "2022-05-12"
     start_time: "9:15"
     end_time: "10:50"
 
     # Day 1: workshop 1 bis
   - title: nicolas-thomas
     type: workshop
-    date: "2022-02-07"
+    date: "2022-05-12"
     start_time: "9:15"
     end_time: "10:50"
 
 
   - title: Morning coffee
     type: custom
-    date: "2022-02-07"
+    date: "2022-05-12"
     start_time: "10:50"
     end_time: "11:15"
 
     # Day 1: talk 3
   - title: "giovanni-galloro"
     type: talk
-    date: "2022-02-07"
+    date: "2022-05-12"
     start_time: "11:15"
     end_time: "12:05"
 
     # Day 1: talk 4
   - title: "denis-jannot"
     type: talk
-    date: "2022-02-07"
+    date: "2022-05-12"
     start_time: "12:05"
     end_time: "12:55"
 
     # Day 1: workshop 2
   - title: "dr-joe-perez"
     type: workshop
-    date: "2022-02-07"
+    date: "2022-05-12"
     start_time: "11:20"
     end_time: "12:55"
 
     # Day 1: workshop 2 bis
   - title: "olivier-crozier"
     type: workshop
-    date: "2022-02-07"
+    date: "2022-05-12"
     start_time: "11:20"
     end_time: "12:55"
 
   - title: "Lunch"
     type: custom
-    date: "2022-02-07"
+    date: "2022-05-12"
     start_time: "12:55"
     end_time: "14:10"
 
     # Day 1: talk 5
   - title: charles-laziosi-and-vincent-journel
     type: talk
-    date: "2022-02-07"
+    date: "2022-05-12"
     start_time: "14:10"
     end_time: "15:00"
 
     # Day 1: talk 6
   - title: david-pilato
     type: talk
-    date: "2022-02-07"
+    date: "2022-05-12"
     start_time: "15:00"
     end_time: "15:50"
 
   # Day 1: workshop 3
   - title: max-andersson
     type: workshop
-    date: "2022-02-07"
+    date: "2022-05-12"
     start_time: "14:15"
     end_time: "15:50"
 
   # Day 1: workshop 3 bis
   - title: nicolas-frankel
     type: workshop
-    date: "2022-02-07"
+    date: "2022-05-12"
     start_time: "14:15"
     end_time: "15:50"
 
   - title: Afternoon coffee
     type: custom
-    date: "2022-02-07"
+    date: "2022-05-12"
     start_time: "15:50"
     end_time: "16:40"
 
   #   Day 1: talk 7
   - title: raphael-pinson
     type: talk
-    date: "2022-02-07"
+    date: "2022-05-12"
     start_time: "16:40"
     end_time: "17:30"
 
   #   Day 1: talk 8
   - title: justus-graumann
     type: talk
-    date: "2022-02-07"
+    date: "2022-05-12"
     start_time: "17:30"
     end_time: "18:20"
 
   #   Day 1: workshop 4
   - title: sven-szejwach
     type: workshop
-    date: "2022-02-07"
+    date: "2022-05-12"
     start_time: "16:40"
     end_time: "18:20"
 
     #   Day 1: workshop 4 bis
   - title: herve-schweitzer
     type: workshop
-    date: "2022-02-07"
+    date: "2022-05-12"
     start_time: "16:40"
     end_time: "18:20"
 
   - title: Cocktail Dinner
     type: custom
-    date: "2022-02-07"
+    date: "2022-05-12"
     start_time: "19:00"
     end_time: ""
 
@@ -322,112 +326,112 @@ program:
 #Day 2
   - title: Welcome Speech
     type: custom
-    date: "2022-02-08"
+    date: "2022-05-13"
     start_time: "08:45"
     end_time: "09:00"
 
   #   Day 2: talk 1
   - title: ankur-marfatia
     type: talk
-    date: "2022-02-08"
+    date: "2022-05-13"
     start_time: "09:00"
     end_time: "09:50"
 
   #   Day 2: talk 2
   - title: aurelie-vache
     type: talk
-    date: "2022-02-08"
+    date: "2022-05-13"
     start_time: "09:50"
     end_time: "10:40"
 
   ## Day 2 openspaces
   - title: "Open-Spaces"
     type: open-space
-    date: "2022-02-08"
+    date: "2022-05-13"
     start_time: "09:05"
     end_time: "10:40"
 
   - title: Morning Coffee
     type: custom
-    date: "2022-02-08"
+    date: "2022-05-13"
     start_time: "10:40"
     end_time: "11:05"
 
   #   Day 2: talk 3
   - title: courtney-heba
     type: talk
-    date: "2022-02-08"
+    date: "2022-05-13"
     start_time: "11:05"
     end_time: "11:55"
 
   #   Day 2: talk 4
   - title: brian-contos
     type: talk
-    date: "2022-02-08"
+    date: "2022-05-13"
     start_time: "11:55"
     end_time: "12:45"
 
   - title: "Open-Spaces"
     type: open-space
-    date: "2022-02-08"
+    date: "2022-05-13"
     start_time: "11:10"
     end_time: "12:45"
 
   - title: Lunch
     type: custom
-    date: "2022-02-08"
+    date: "2022-05-13"
     start_time: "12:45"
     end_time: "14:00"
 
   #   Day 2: talk 5
   - title: sandro-cirulli
     type: talk
-    date: "2022-02-08"
+    date: "2022-05-13"
     start_time: "14:00"
     end_time: "14:50"
 
   #   Day 2: talk 6
   - title: gerie-owen
     type: talk
-    date: "2022-02-08"
+    date: "2022-05-13"
     start_time: "14:50"
     end_time: "15:40"
 
   - title: "Open-Spaces"
     type: open-space
-    date: "2022-02-08"
+    date: "2022-05-13"
     start_time: "14:05"
     end_time: "15:40"
 
   - title: Afternoon coffee
     type: custom
-    date: "2022-02-08"
+    date: "2022-05-13"
     start_time: "15:40"
     end_time: "16:25"
 
   #   Day 2: talk 7
   - title: john-williams
     type: talk
-    date: "2022-02-08"
+    date: "2022-05-13"
     start_time: "16:25"
     end_time: "17:15"
 
   #   Day 2: open discussion
   - title: Open Discussions
     type: custom
-    date: "2022-02-08"
+    date: "2022-05-13"
     start_time: "17:15"
     end_time: "17:50"
 
   - title: "Open-Spaces"
     type: open-space
-    date: "2022-02-08"
+    date: "2022-05-13"
     start_time: "16:30"
     end_time: "17:50"
 
 
   - title: Closing Speech
     type: custom
-    date: "2022-02-08"
+    date: "2022-05-13"
     start_time: "17:50"
     end_time: "18:10"
