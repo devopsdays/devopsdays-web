@@ -103,7 +103,7 @@ organizer_email: "raleigh@devopsdays.org" # Put your organizer email address her
 sponsors:
   - id: cprime
     level: platinum
-  - id: suse
+  - id: suse-before-20220128
     level: platinum
   - id: instana
     level: gold
