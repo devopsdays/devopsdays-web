@@ -68,16 +68,6 @@ team_members: # Name is the only required field for team members.
     employer: "Cprime"
     linkedin: "https://www.linkedin.com/in/kathleencothran/"
     image: "katie-cothran.jpg"
-  - name: "Jason Hibbets"
-    twitter: "jhibbets"
-    github: "jhibbets"
-    website: "https://www.redhat.com/sysadmin/"
-    employer: "Red Hat"
-    image: "jason-hibbets.jpg"
-  - name: "Chris Bailey"
-    twitter: "seebails"
-    github: "nonstickzan"
-    image: "chris-bailey.jpg"
   - name: "Kyle Anderson"
     employer: "Cprime"
     image: "kyle-anderson.jpg"
@@ -94,13 +84,17 @@ team_members: # Name is the only required field for team members.
   - name: "Madeline Streicher"
     linkedin: "https://www.linkedin.com/in/madelinestreicher"
     image: "madeline-streicher.jpg"
-  - name: "John Mark Ivey"
-    employer: "Skyline ATS"
-    twitter: "JohnMarkIvey"
-    linkedin: "https://www.linkedin.com/in/johnmarkivey/"
-    website: "https://medium.com/@gkjohnmarkivey"
-    facebook: "https://www.facebook.com/jmivey"
-    image: "johnmark-ivey.jpg"
+  - name: "Michael Roberts"
+    twitter: "MichaelRoberts0"
+    website: "https://www.spkaa.com"
+    employer: "SPK and Associates"
+    linkedin: "https://www.linkedin.com/in/michael-roberts-5a72032/"
+    image: "michael-roberts.jpg"
+  - name: "Shane Kirk"
+    website: "https://www.shanekirk.me/"
+    github: "shanedroid"
+    linkedin: "https://www.linkedin.com/in/shanek1rk/"
+    image: "shane-kirk.jpg"
 
 organizer_email: "raleigh@devopsdays.org" # Put your organizer email address here
 
@@ -109,13 +103,19 @@ organizer_email: "raleigh@devopsdays.org" # Put your organizer email address her
 sponsors:
   - id: cprime
     level: platinum
-  - id: suse
+  - id: suse-before-20220128
     level: platinum
   - id: instana
+    level: gold
+  - id: replicated
+    level: gold
+  - id: redhat
     level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
+  - id: squaredup
+    level: gold
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 

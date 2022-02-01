@@ -1,11 +1,26 @@
 +++
 Title = "devopsdays Kyiv 2022"
 Type = "welcome"
-aliases = ["/events/2022-kiev", "/events/2022-kyiv/"]
+aliases = [
+  "/events/2022-kiev",
+  "/events/2022-kiev/",
+  "/events/2022-kiev/location/",
+  "/events/2022-kiev/propose/",
+  "/events/2022-kiev/registration/",
+  "/events/2022-kiev/sponsor/",
+  "/events/2022-kyiv",
+  "/events/2022-kyiv/",
+  "/events/2022-kyiv/location/",
+  "/events/2022-kyiv/propose/",
+  "/events/2022-kyiv/registration/",
+  "/events/2022-kyiv/sponsor/"
+]
 Description = "devopsdays Kyiv 2022"
 +++
 
-### Yes, we are going offline!
+<div class="alert alert-danger" role="alert">
+  Due to the global situation around Omicron, Devopsdays Kyiv has been canceled for 2022.
+</div>
 <div style="text-align:center;">
   {{< event_logo >}}
   <p></p>
