@@ -149,6 +149,8 @@ sponsors:
     level: event
   - id: suse
     level: gold
+  - id: checkpoint
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
