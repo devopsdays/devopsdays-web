@@ -18,7 +18,7 @@
 /boston/*		/events/2022-boston/:splat		302
 /brasilia/*		/events/2017-brasilia/:splat		302
 /buenos-aires/*		/events/2020-buenos-aires/:splat	302
-/buffalo/*		/events/2021-buffalo/:splat		302
+/buffalo/*		/events/2022-buffalo/:splat		302
 /caceres/*		/events/2020-caceres/:splat		302
 /cairo/*		/events/2021-cairo/:splat		302
 /campinas/*		/events/2019-campinas/:splat		302
