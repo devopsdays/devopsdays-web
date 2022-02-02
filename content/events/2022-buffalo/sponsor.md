@@ -4,16 +4,18 @@ Type = "event"
 Description = "Sponsor devopsdays Buffalo 2022"
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
+Although we are still working on refining the prospectus for this year, you can still reference the [2021 prospectus](https://docs.google.com/document/d/1m847cBgGPEZzPLFHI2_0GSlc5pLKPM7lHhyjervwlm0) if you are looking to sponsor and would like an idea of what to expect.
 
-<hr>
+We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at {{< email_organizers >}}.
+
+<!-- <hr>
 
 devopsdays is a self-organizing conference for practitioners that depends on sponsorships. We do not sell product presentations or distribute attendee contact lists. Sponsors will have the opportunity to set up a vendor booth during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
 <p>
 Check out our <a href="https://docs.google.com/document/d/1m847cBgGPEZzPLFHI2_0GSlc5pLKPM7lHhyjervwlm0" target="_blank">prospectus</a> for sponsorship options! 
 <p>
 The best thing to do is send engineers to interact with the experts at devopsdays on their own terms.
-<p>
+<p> -->
 
 <!--
 <hr/>
