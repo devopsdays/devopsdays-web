@@ -2,7 +2,7 @@ name: "2022-tampa" # The name of the event. Four digit year with the city name i
 year: "2022" # The year of the event. Make sure it is in quotes.
 city: "Tampa Bay" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaystb" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "Devopsdays is coming to Tampa Bay!" # Edit this to suit your preferences
+description: "Devopsdays is coming to Tampa Bay in 2022!" # Edit this to suit your preferences
 ga_tracking_id: "UA-127670911-1" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 masthead_background: "logo-square.jpg"
 speakers_verbose: "false"
@@ -13,13 +13,13 @@ enddate: "2022-05-27" # The end date of your event. Leave blank if you don't hav
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 
-# cfp_date_start: "12-30-2021" # start accepting talk proposals.
-# cfp_date_end: "" # close your call for proposals.
+cfp_date_start: "2021-12-30" # start accepting talk proposals.
+cfp_date_end: "2022-02-16" # close your call for proposals.
 # cfp_date_announce: "" # inform proposers of status
 
-cfp_open: "false"
+cfp_open: "true"
 #cfp_link: "https://www.papercall.io/dodtampabay" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
-cfp_link: ""
+cfp_link: "https://www.papercall.io/tampadod"
 
 registration_date_start: "" # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: "" # close registration. Leave blank if registration is not open yet.
@@ -29,26 +29,26 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 # Location
 #
-coordinates: "28.047912,-82.655489" #  The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Tampa Bay" # Defaults to city, but you can make it the venue name.
+coordinates: "27.762802 -82.634803" #  The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "University of South Florida St. Petersburg" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "140 7th Ave S, St. Petersburg, FL 33701" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-#  - name: propose
-#    url: /events/2019-tampa/propose
-#    icon: "book"
+  - name: propose
+    url: /events/2022-tampa/propose
+    icon: "book"
   - name: location
-#   icon: "map-o"
+    icon: "map-o"
 #    url: /events/2019-tampa/location
 #  - name: registration
 #  - name: program
 #  - name: speakers
-#  - name: sponsor
+  - name: sponsor
   - name: contact
   - name: conduct
 #  - name: contributers
-#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at htbootp://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
 
 
