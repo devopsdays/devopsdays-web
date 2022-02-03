@@ -2,7 +2,7 @@ name: "2022-london" # The name of the event. Four digit year with the city name 
 year: "2022" # The year of the event. Make sure it is in quotes.
 city: "London" # The displayed city name of the event. Capitalize it.
 event_twitter: "DevOpsDaysLDN" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "devopsdays returns to London in 2022!" # Edit this to suit your preferences
+description: "DevOpsDays returns to London in 2022!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 sharing_image: "twitter.png"
 masthead_background: "background.png"
@@ -12,15 +12,15 @@ masthead_background: "background.png"
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2022-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2022-09-29T00:00:00+01:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2022-09-30T00:00:00+01:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: # start accepting talk proposals.
 cfp_date_end: # close your call for proposals.
 cfp_date_announce: # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: ""
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
@@ -30,18 +30,18 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 # Location
 #
-coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "" # Defaults to city, but you can make it the venue name.
+coordinates: "51.4837565, -0.1149737"
+location: "London" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "Kia Oval, Kennington, London SE11 5SS"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   # - name: propose
-  # - name: location
+  - name: location
   # - name: registration
   # - name: program
   # - name: speakers
-  # - name: sponsor
+  - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
@@ -91,20 +91,15 @@ sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  # - id: evening
-  #   label: Evening
-  #   max: 1
-  # - id: gold
-  #   label: Gold
-  #   max: 10
-  # - id: silver
-  #   label: Silver
-  #   max: 10
-  # - id: bronze
-  #   label: Bronze
-  #   max: 10
-  # - id: charity
-  #   label: Charity
-  #   max: 2
-  #- id: community
-  #  label: Community
+  - id: platinum
+    label: Platinum
+    max: 1
+  - id: gold
+    label: Gold
+    max: 10
+  - id: silver
+    label: Silver
+    max: 10
+  - id: bronze
+    label: Bronze
+    max: 10
