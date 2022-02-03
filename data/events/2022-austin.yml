@@ -225,9 +225,13 @@ sponsors:
 #   - id: arresteddevops
 #     level: community
 sponsors:
+  - id: liatrio
+    level: platinum
   - id: rundeck
     level: gold
   - id: couchbase
+    level: gold
+  - id: rackn
     level: gold
   - id: mondoo
     level: lanyard
