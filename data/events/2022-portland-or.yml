@@ -62,6 +62,7 @@ team_members: # Name is the only required field for team members.
   - name: "Megan Guiney"
     twitter: "meganguiney"
   - name: "Trip Longworth"
+    twitter: "thelongshanx"
   - name: "Will Ellett"
 
 organizer_email: "portland-or@devopsdays.org" # Put your organizer email address here
