@@ -10,5 +10,13 @@ If you'd like to contact us by email: {{< email_organizers >}}
 
 {{< list_organizers >}}
 
+**Our organizers emeritus**
+
+These folks are no longer actively running the event, but they helped us built it up and we'd like to recognize them!
+
+* [Michelle Carroll](https://twitter.com/miiiiiche)
+* [Rich Burroughs](https://twitter.com/richburroughs)
+* [Scott Nasello](https://twitter.com/scottnasello)
+* [Matt Greensmith](https://twitter.com/mgreensmith)
 
 {{< list_core >}}
