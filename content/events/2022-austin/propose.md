@@ -17,7 +17,7 @@ The main presentation format will be a 20 minute talk (slides optional) on what 
 
 ### Reunion Toasts
 
-Come and share who, what, why you are grateful for from the world of DevOps in a 5 minute lightning talk format. No slides, just a standup and talk format. Share a short story of gratitude related to your DevOps Journey.
+Come and share who, what, why you are grateful for from the world of DevOps in a 5 minute lightning talk format. Slides are optional, just a standup and talk format. Share a short story of gratitude related to your DevOps Journey.
 
 <a href="https://sessionize.com/devopsdays-austin-2022/" class="btn btn-primary"><i class="fa fa-glass fa-lg"></i>&nbsp;&nbsp;&nbsp;Submit a Reunion Toast</a>
 
