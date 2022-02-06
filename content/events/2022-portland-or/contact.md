@@ -18,5 +18,6 @@ These folks are no longer actively running the event, but they helped us built i
 * [Rich Burroughs](https://twitter.com/richburroughs)
 * [Scott Nasello](https://twitter.com/scottnasello)
 * [Matt Greensmith](https://twitter.com/mgreensmith)
+* [Alice Goldfuss](https://twitter.com/alicegoldfuss)
 
 {{< list_core >}}
