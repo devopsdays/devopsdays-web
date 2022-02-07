@@ -29,7 +29,7 @@ Description = "devopsdays Boise 2022"
 </div>
 -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
