@@ -34,7 +34,7 @@ Description = "devopsdays Boise 2022"
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    <a href="https://www.eventbrite.com/e/devopsdays-boise-2022-tickets-82046903497">Register</a>
+    <a href="https://www.eventbrite.com/e/devopsdays-boise-2022-tickets-82046903497?aff=devopsdayssite">Register</a>
   </div>
 </div>
 
