@@ -1,0 +1,114 @@
+name: "2022-krakow" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2022" # The year of the event. Make sure it is in quotes.
+city: "Kraków" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdays" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+event_logo: "logo-square.jpg"
+masthead_background: "dodkrakow-banner.jpg"
+description: "Devopsdays is coming back to Kraków!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+
+# All dates are in unquoted 2021-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2021-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2022-04-26T00:00:00+02:00
+enddate: 2022-04-27T23:59:59+02:00
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2022-02-10T00:00:00+02:00
+cfp_date_end: 2022-03-07T23:59:59+02:00
+cfp_date_announce: 2022-03-28T00:00:00+02:00
+
+cfp_link: "https://dodkrakow.pl/cfp2022/"
+
+registration_date_start: 
+registration_date_end: 
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: ""
+
+# Location
+#
+coordinates: "50.056937, 19.963920"
+location: ""
+#
+location_address: ""
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: registration
+    url: "http://app.evenea.pl/event/dodkrakow2021"
+  - name: propose
+    url: "https://dodkrakow.pl/cfp2021/"
+  - name: sponsor
+    url: "mailto:olga.michaliszyn@proidea.pl"
+#  - name: location
+#  - name: program
+#    url: https://dodkrakow.pl/schedule/
+#  - name: speakers
+#    url: https://dodkrakow.pl/speakers/
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+
+
+team_members: # Name is the only required field for team members.
+  - name: "Marcin Cabaj"
+    image: "Marcin_Cabaj-4.jpg"
+  - name: "Piotr Godowski"
+    image: "Pior-Godowski.jpg"
+  - name: "Konrad Gądek"
+    image: "Konrad-Gadek.jpeg"
+  - name: "Janusz Kamieński"
+    linkedin: "https://www.linkedin.com/in/jakamienski/"
+    twitter: "jkamienski"
+    employer: "Wix.com"
+    image: "dod_jk.jpg"
+    bio: "Developer, journalist, Tabletop RPG game master and milkoholic. Active participant of dev communities, co-organizer of meetups and DevOps conferences in Poland. Applies DevOps pattern on tech and business side in all projects he touches. For a dozen of years worked in web technologies. Full-stack developer since 2008. Gains experience and new levels in everyday work at Wix.com, to which office he goes by bike. Founder of Raport Obieżyswiata web tv channel about Fantasy & Sci-Fi."
+  - name: "Adam Kozłowski"
+    employer: "Grape Up"
+    image: "Adam-Kozlowski.jpg"
+  - name: "Maciej Lelito"
+    employer: "PROIDEA"
+    image: "logo-square.jpg"
+  - name: "Marcin Lewandowski"
+    employer: "IBM"
+    image: "Marcin-Lewandowski-5.jpg"
+  - name: "Michał Różycki"
+    employer: "Grape Up"
+    image: "Michal-Rozycki.jpg"
+  - name: "Miłosz Skaza"
+    employer: "PROIDEA"
+    image: "logo-square.jpg"
+  - name: "Jacek Suchenia"
+    employer: "Ocado"
+    image: "Jacek-Suchenia-1.jpeg"
+  - name: "Paulina Tomaszewska"
+    employer: "PROIDEA"
+    image: "logo-square.jpg"
+
+organizer_email: "krakow@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: sponsor
+    label: " "
+  - id: swag
+    label: Swag Partner
+  - id: community
+    label: Community
