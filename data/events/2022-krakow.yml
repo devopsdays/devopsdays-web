@@ -1,7 +1,7 @@
 name: "2022-krakow" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2022" # The year of the event. Make sure it is in quotes.
 city: "Kraków" # The displayed city name of the event. Capitalize it.
-event_twitter: "devopsdays" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+event_twitter: "dodkrk" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 event_logo: "logo-square.jpg"
 masthead_background: "dodkrakow-banner.jpg"
 description: "Devopsdays is coming back to Kraków!" # Edit this to suit your preferences
@@ -18,7 +18,7 @@ enddate: 2022-04-27T23:59:59+02:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2022-02-10T00:00:00+02:00
-cfp_date_end: 2022-03-07T23:59:59+02:00
+cfp_date_end: 2022-03-21T23:59:59+02:00
 cfp_date_announce: 2022-03-28T00:00:00+02:00
 
 cfp_link: "https://dodkrakow.pl/cfp2022/"
@@ -37,10 +37,10 @@ location: ""
 location_address: ""
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: registration
-    url: "http://app.evenea.pl/event/dodkrakow2021"
+#  - name: registration
+#    url: "http://app.evenea.pl/event/dodkrakow2022"
   - name: propose
-    url: "https://dodkrakow.pl/cfp2021/"
+    url: "https://dodkrakow.pl/cfp2022/"
   - name: sponsor
     url: "mailto:olga.michaliszyn@proidea.pl"
 #  - name: location
@@ -59,6 +59,9 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 
 team_members: # Name is the only required field for team members.
+  - name: "Jakub Barć"
+    image:
+    linkedin: "https://www.linkedin.com/in/jakub-bar%C4%87-a235662a"
   - name: "Marcin Cabaj"
     image: "Marcin_Cabaj-4.jpg"
   - name: "Piotr Godowski"
@@ -74,6 +77,7 @@ team_members: # Name is the only required field for team members.
   - name: "Adam Kozłowski"
     employer: "Grape Up"
     image: "Adam-Kozlowski.jpg"
+    linkedin: "https://www.linkedin.com/in/kozlowski-adam/"
   - name: "Maciej Lelito"
     employer: "PROIDEA"
     image: "logo-square.jpg"
