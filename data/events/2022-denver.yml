@@ -83,6 +83,22 @@ sponsors:
   level: gold
 - id: hashicorp
   level: gold
+- id: neuvector
+  level: gold
+- id: solo
+  level: gold
+- id: mondoo
+  level: silver
+- id: fairwinds
+  level: gold
+- id: slimai
+  level: supporter
+- id: sonatype
+  level: gold
+- id: trilio
+  level: silver
+- id: chaossearch
+  level: gold
 
 sponsor_levels:
   - id: gold
