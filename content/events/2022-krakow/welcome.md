@@ -36,7 +36,7 @@ Description = "devopsdays Kraków 2022"
 <div style='display:flex;flex-wrap:wrap;'>
   <div class='text'>
     <p>
-      DevOpsDays Kraków 2022 is the second edition of this volunteer-driven worldwide series of events. It will take place on April 27-28th and will be fully ONLINE!
+      DevOpsDays Kraków 2022 is the second edition of this volunteer-driven worldwide series of events. It will take place on April 26-27th and will be fully ONLINE!
     </p>
       Safety of participants, speakers, partners and everyone involved in the creation of this event is the most important to us! We are convinced that you will have as much fun in the virtual world as you would at a stationary conference. We have prepared many attractions for you, so this event will not be yet another boring webinar, but a real adventure full of knowledge and new friendships! And we know how to do it!
       <a href="https://www.youtube.com/watch?v=k8wNONGYHDE&list=PLnKL6-WWWE_VbJiCmTPobmuuLu67GrIXp">
@@ -49,7 +49,7 @@ Description = "devopsdays Kraków 2022"
   <div class="text">
     <a href="http://app.evenea.pl/event/dodkrakow2022" type="button" class="btn btn-danger btn-lg btn-block">REGISTRATION</a>
     <a href="mailto:olga.michaliszyn@proidea.pl " type="button" class="btn btn-danger btn-lg btn-block">SPONSOR</a>
-    <a href="https://dodkrakow.pl/cfp2022/" type="button" class="btn btn-danger btn-lg btn-block">PROPOSE</a>
+<!--     <a href="https://dodkrakow.pl/cfp2022/" type="button" class="btn btn-danger btn-lg btn-block">PROPOSE</a> -->
     <a href="/events/2022-krakow/contact" type="button" class="btn btn-danger btn-lg btn-block">CONTACT</a>
   </div>
 </div>
