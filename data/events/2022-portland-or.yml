@@ -49,22 +49,21 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
-  - name: "Bill Weiss"
-    twitter: "billweiss"
   - name: "Alastair Drong"
     twitter: "dev_dull"
-  - name: "Joe Nuspl"
-    twitter: "joenuspl"
-  - name: "Michelle Carroll"
-    twitter: "miiiiiche"
-  - name: "Rich Burroughs"
-    twitter: "richburroughs"
-  - name: "Megan Guiney"
-    twitter: "meganguiney"
-  - name: "Tiffany Longworth"
-  - name: "Will Ellett"
+  - name: "Bill Weiss"
+    twitter: "billweiss"
+  - name: "Daniel Dreier"
+    twitter: "daniel_dreier"
   - name: "Jason Yee"
     twitter: "gitbisect"
+  - name: "Joe Nuspl"
+    twitter: "joenuspl"
+  - name: "Megan Guiney"
+    twitter: "meganguiney"
+  - name: "Trip Longworth"
+    twitter: "thelongshanx"
+  - name: "Will Ellett"
 
 organizer_email: "portland-or@devopsdays.org" # Put your organizer email address here
 

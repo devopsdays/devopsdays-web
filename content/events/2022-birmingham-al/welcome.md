@@ -5,9 +5,9 @@ aliases = ["/events/2022-birmingham-al/"]
 Description = "DevOpsDays is coming. April 18th and 19th, 2022 in the beautiful Birmingham, Alabama"
 +++
 
-<!-- <div style="text-align:center;">
+<div style="text-align:center;">
   {{< event_logo >}}
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">

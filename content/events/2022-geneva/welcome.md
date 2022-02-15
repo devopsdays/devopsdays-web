@@ -45,13 +45,13 @@ Description = "DevOpsDays Geneva 2022"
 <div style='display:flex;flex-wrap:wrap;'>
 <div class='text'>
 
-<b>La 3ème édition des DevOpsDays Geneva, en Suisse Romande aura lieu à la Haute Ecole de Gestion (HEG) les 7 et 8 Février 2022 !</b>
+<b>La 3ème édition des DevOpsDays Geneva, en Suisse Romande aura lieu à la Haute Ecole de Gestion (HEG) les 12 et 13 Mai 2022 !</b>
 
 <b>Cette conférence sera en français et en anglais.</b>
 </div>
 <div class='text'>
 
-<b>The 3rd edition of DevOpsDays Geneva, in French-speaking part of Switzerland, will take place at the Haute Ecole de Gestion (HEG) on February 7th and 8th, 2022!</b>
+<b>The 3rd edition of DevOpsDays Geneva, in French-speaking part of Switzerland, will take place at the Haute Ecole de Gestion (HEG) on May 12<sup>th</sup> and 13<sup>th</sup>, 2022!</b>
 
 <b>This conference will be in French and English.</b>
 </div>

@@ -38,8 +38,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
   - name: registration
     url: "https://www.eventbrite.com/e/devopsdays-raleigh-2022-tickets-149971423565?aff=ebdssbdestsearch"
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -68,16 +68,6 @@ team_members: # Name is the only required field for team members.
     employer: "Cprime"
     linkedin: "https://www.linkedin.com/in/kathleencothran/"
     image: "katie-cothran.jpg"
-  - name: "Jason Hibbets"
-    twitter: "jhibbets"
-    github: "jhibbets"
-    website: "https://www.redhat.com/sysadmin/"
-    employer: "Red Hat"
-    image: "jason-hibbets.jpg"
-  - name: "Chris Bailey"
-    twitter: "seebails"
-    github: "nonstickzan"
-    image: "chris-bailey.jpg"
   - name: "Kyle Anderson"
     employer: "Cprime"
     image: "kyle-anderson.jpg"
@@ -94,13 +84,17 @@ team_members: # Name is the only required field for team members.
   - name: "Madeline Streicher"
     linkedin: "https://www.linkedin.com/in/madelinestreicher"
     image: "madeline-streicher.jpg"
-  - name: "John Mark Ivey"
-    employer: "Skyline ATS"
-    twitter: "JohnMarkIvey"
-    linkedin: "https://www.linkedin.com/in/johnmarkivey/"
-    website: "https://medium.com/@gkjohnmarkivey"
-    facebook: "https://www.facebook.com/jmivey"
-    image: "johnmark-ivey.jpg"
+  - name: "Michael Roberts"
+    twitter: "MichaelRoberts0"
+    website: "https://www.spkaa.com"
+    employer: "SPK and Associates"
+    linkedin: "https://www.linkedin.com/in/michael-roberts-5a72032/"
+    image: "michael-roberts.jpg"
+  - name: "Shane Kirk"
+    website: "https://www.shanekirk.me/"
+    github: "shanedroid"
+    linkedin: "https://www.linkedin.com/in/shanek1rk/"
+    image: "shane-kirk.jpg"
 
 organizer_email: "raleigh@devopsdays.org" # Put your organizer email address here
 
@@ -109,13 +103,23 @@ organizer_email: "raleigh@devopsdays.org" # Put your organizer email address her
 sponsors:
   - id: cprime
     level: platinum
-  - id: suse
+  - id: suse-before-20220128
     level: platinum
   - id: instana
+    level: gold
+  - id: replicated
+    level: gold
+  - id: redhat
     level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
+  - id: squaredup
+    level: gold
+  - id: neuvector
+    level: platinum
+  - id: cloudbees
+    level: gold
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
@@ -134,3 +138,281 @@ sponsor_levels:
     max: 0 # This is the same as omitting the max limit.
   - id: community
     label: Community
+
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2022-04-13T00:00:00-04:00
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2022-04-13T00:00:00-04:00
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "matt-stratton"
+    type: talk
+    date: 2022-04-13T00:00:00-04:00
+    start_time: "09:10"
+    end_time: "09:40"
+  - title: "Sponsors"
+    type: custom
+    date: 2022-04-13T00:00:00-04:00
+    start_time: "09:40"
+    end_time: "09:50"
+  - title: "karen-taggart"
+    type: talk
+    date: 2022-04-13T00:00:00-04:00
+    start_time: "09:50"
+    end_time: "10:20"
+  - title: "Break"
+    type: custom
+    date: 2022-04-13T00:00:00-04:00
+    start_time: "10:20"
+    end_time: "10:40"
+  - title: "Escape Room Experience Morning"
+    type: custom
+    date: 2022-04-13T00:00:00-04:00
+    start_time: "10:40"
+    end_time: "12:00"
+  - title: "josh-thurman"
+    type: talk
+    date: 2022-04-13T00:00:00-04:00
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2022-04-13T00:00:00-04:00
+    start_time: "11:10"
+    end_time: "11:30"
+  - title: "casey-wylie"
+    type: talk
+    date: 2022-04-13T00:00:00-04:00
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch"
+    type: custom
+    date: 2022-04-13T00:00:00-04:00
+    start_time: "12:00"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2022-04-13T00:00:00-04:00
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Ignite Karaoke"
+    type: custom
+    date: 2022-04-13T00:00:00-04:00
+    start_time: "13:30"
+    end_time: "13:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2022-04-13T00:00:00-04:00
+    start_time: "13:45"
+    end_time: "13:55"
+  - title: "jason-davis"
+    type: talk
+    date: 2022-04-13T00:00:00-04:00
+    start_time: "13:55"
+    end_time: "14:25"
+  - title: "Break"
+    type: custom
+    date: 2022-04-13T00:00:00-04:00
+    start_time: "14:25"
+    end_time: "14:45"
+  # - title: "talk-6-eran-bibi"
+  #   type: talk
+  #   date: 2022-04-13T00:00:00-04:00
+  #   start_time: "14:45"
+  #   end_time: "15:15"
+  - title: "Special-Keynote"
+    type: custom
+    date: 2022-04-13T00:00:00-04:00
+    start_time: "15:15"
+    end_time: "16:25"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2022-04-13T00:00:00-04:00
+    start_time: "13:55"
+    end_time: "15:15"
+  - title: "Open Space #1"
+    type: custom
+    date: 2022-04-13T00:00:00-04:00
+    start_time: "13:55"
+    end_time: "14:25"
+  - title: "Open Space #2"
+    type: custom
+    date: 2022-04-13T00:00:00-04:00
+    start_time: "14:45"
+    end_time: "15:15"
+  - title: "Escape Room Experience Afternoon"
+    type: custom
+    date: 2022-04-13T00:00:00-04:00
+    start_time: "13:55"
+    end_time: "15:15"
+  - title: "will-mckinley-workshop"
+    type: workshop
+    date: 2022-04-13T00:00:00-04:00
+    start_time: "13:55"
+    end_time: "15:15"
+  - title: "lot-santos-workshop"
+    type: workshop
+    date: 2022-04-13T00:00:00-04:00
+    start_time: "13:55"
+    end_time: "15:15"
+  - title: "Close Day"
+    type: custom
+    date: 2022-04-13T00:00:00-04:00
+    start_time: "16:25"
+    end_time: "16:35"
+  - title: "Evening event - Happy Hour"
+    type: custom
+    date: 2022-04-13T00:00:00-04:00
+    start_time: "16:35"
+    end_time: "18:30"
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2022-04-14T23:59:58-04:00
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2022-04-14T23:59:58-04:00
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "nate-ashford"
+    type: talk
+    date: 2022-04-14T23:59:58-04:00
+    start_time: "09:10"
+    end_time: "09:40"
+  - title: "Sponsors"
+    type: custom
+    date: 2022-04-14T23:59:58-04:00
+    start_time: "09:40"
+    end_time: "09:50"
+  - title: "bailey-hayes"
+    type: talk
+    date: 2022-04-14T23:59:58-04:00
+    start_time: "09:50"
+    end_time: "10:20"
+  - title: "Break"
+    type: custom
+    date: 2022-04-14T23:59:58-04:00
+    start_time: "10:20"
+    end_time: "10:40"
+  - title: "carlos-martinez-workshop"
+    type: workshop
+    date: 2022-04-14T23:59:58-04:00
+    start_time: "10:40"
+    end_time: "12:00"
+  - title: "Escape Room Experience Morning"
+    type: custom
+    date: 2022-04-14T23:59:58-04:00
+    start_time: "10:40"
+    end_time: "12:00"
+  - title: "lesley-cordero"
+    type: talk
+    date: 2022-04-14T23:59:58-04:00
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2022-04-14T23:59:58-04:00
+    start_time: "11:10"
+    end_time: "11:30"
+  - title: "mandi-walls"
+    type: talk
+    date: 2022-04-14T23:59:58-04:00
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch"
+    type: custom
+    date: 2022-04-14T23:59:58-04:00
+    start_time: "12:00"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2022-04-14T23:59:58-04:00
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Ignite Karaoke"
+    type: custom
+    date: 2022-04-14T23:59:58-04:00
+    start_time: "13:30"
+    end_time: "13:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2022-04-14T23:59:58-04:00
+    start_time: "13:45"
+    end_time: "13:55"
+  - title: "chris-evich"
+    type: talk
+    date: 2022-04-14T23:59:58-04:00
+    start_time: "13:55"
+    end_time: "14:25"
+  - title: "Break"
+    type: custom
+    date: 2022-04-14T23:59:58-04:00
+    start_time: "14:25"
+    end_time: "14:45"
+  - title: "andreas-grabner"
+    type: talk
+    date: 2022-04-14T23:59:58-04:00
+    start_time: "14:45"
+    end_time: "15:15"
+  # - title: "talk-13"
+  #   type: talk
+  #   date: 2022-04-14T23:59:58-04:00
+  #   start_time: "15:15"
+  #   end_time: "15:45"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2022-04-14T23:59:58-04:00
+    start_time: "13:55"
+    end_time: "15:15"
+  - title: "Open Space #3"
+    type: custom
+    date: 2022-04-14T23:59:58-04:00
+    start_time: "13:55"
+    end_time: "14:25"
+  - title: "Open Space #4"
+    type: custom
+    date: 2022-04-14T23:59:58-04:00
+    start_time: "14:45"
+    end_time: "15:15"
+  - title: "Escape Room Experience Afternoon"
+    type: custom
+    date: 2022-04-14T23:59:58-04:00
+    start_time: "13:55"
+    end_time: "15:15"
+  - title: "daniel-oh-workshop"
+    type: workshop
+    date: 2022-04-14T23:59:58-04:00
+    start_time: "13:55"
+    end_time: "15:15"
+  - title: "lee-faus-workshop"
+    type: workshop
+    date: 2022-04-14T23:59:58-04:00
+    start_time: "13:55"
+    end_time: "15:15"
+  - title: "Raffle/Close Day"
+    type: custom
+    date: 2022-04-14T23:59:58-04:00
+    start_time: "15:45"
+    end_time: "16:00"
+
+ignites:
+  - title: "mike-butler-ignite"
+    date: 2022-04-13
+  - title: "peter-valdez-ignite"
+    date: 2022-04-13
+  - title: "michael-roberts-ignite"
+    date: 2022-04-13
+  - title: "noaa-barki-ignite"
+    date: 2022-04-13
+  - title: "keith-zantow-ignite"
+    date: 2022-04-14
+  - title: "jr-beaudoin-ignite"
+    date: 2022-04-14
+  - title: "jason-yee-ignite"
+    date: 2022-04-14

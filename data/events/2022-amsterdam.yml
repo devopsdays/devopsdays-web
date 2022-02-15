@@ -34,7 +34,6 @@ location: "Pakhuis de Zwijger - Amsterdam" # Defaults to city, but you can make 
 location_address: "Piet Heinkade 179, 1019 HC Amsterdam" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 masthead_background: "skyline-ams.jpg"
-event_logo: "logo.png"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose

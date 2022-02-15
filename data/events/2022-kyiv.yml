@@ -3,7 +3,7 @@ year: "2022" # The year of the event. Make sure it is in quotes.
 city: "Kyiv" # The displayed city name of the event. Capitalize it.
 event_group: "Kyiv"
 event_twitter: "days_dev" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "Devopsdays is coming to Kyiv!" # Edit this to suit your preferences
+description: "While our 2022 event will no longer happen, we will return in 2023."
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2022-MM-DDTHH:MM:SS+TZ:TZ, like this:
@@ -11,13 +11,15 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2022-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: 2022-04-15T00:00:00+03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2022-04-16T23:59:59+03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate:
+enddate:
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2021-12-07T00:00:00+03:00 # start accepting talk proposals.
-cfp_date_end: 2022-03-15T23:59:59+03:00 # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start:
+cfp_date_end:
+cfp_date_announce:
+
+cancel: "true"
 
 cfp_open: "true"
 cfp_link: "https://forms.gle/h9wxjHaRk1EQ6Kyw9" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
@@ -30,26 +32,14 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 # Location
 #
-coordinates: "50.449379,30.5209386" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Kyiv" # Defaults to city, but you can make it the venue name.
+coordinates:
+location:
 #
-location_address: "52, Antonovycha str, Kyiv, Ukraine" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address:
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
-    url: https://forms.gle/h9wxjHaRk1EQ6Kyw9
- # - name: location
- # - name: registration
- # - name: program
- # - name: speakers
-  - name: sponsor
   - name: contact
   - name: conduct
-  - name: devopsdays.com.ua
-    url: https://devopsdays.com.ua/
-# - name: example
-#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
-#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
 
 
 # These are the same people you have on the mailing list and Slack channel.
@@ -85,7 +75,7 @@ organizer_email: "kyiv@devopsdays.org" # Put your organizer email address here
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For

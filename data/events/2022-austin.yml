@@ -2,11 +2,11 @@ name: "2022-austin" # The name of the event. Four digit year with the city name 
 year: "2022" # The year of the event. Make sure it is in quotes.
 city: "Austin" # The displayed city name of the event. Capitalize it.
 event_twitter: "DoDAustin" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "DevOpsDays is coming back to Austin!" # Edit this to suit your preferences
+description: "DevOpsDays Austin: 10 Year Class Reunion" # Edit this to suit your preferences
 
-masthead_background: "austin-skyline.jpg"
+masthead_background: "tx-state-capitol-bw.jpg"
 
-ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+ga_tracking_id: "UA-335242-8" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2022-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00
@@ -17,32 +17,32 @@ startdate: 2022-05-04T00:00:00-05:00 # The start date of your event. Leave blank
 enddate: 2022-05-05T00:00:00-05:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2022-01-24T00:00:00-05:00 # start accepting talk proposals.
+cfp_date_end: 2022-02-18T23:59:59-05:00 # close your call for proposals.
+cfp_date_announce: 2022-02-20T23:59:59-05:00 # inform proposers of status
 
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: 2022-02-07T00:00:00-05:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2022-05-04T00:00:00-05:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
-coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Austin" # Defaults to city, but you can make it the venue name.
+coordinates: "30.283975,-97.734504" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Etter-Harbin Alumni Center" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "2110 San Jacinto Boulevard, Austin, Texas 78712" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
- # - name: location
- # - name: registration
+  - name: propose
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
+  - name: location
   - name: contact
   - name: conduct
 # - name: example
@@ -224,6 +224,29 @@ sponsors:
 #  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 #   - id: arresteddevops
 #     level: community
+sponsors:
+  - id: liatrio
+    level: platinum
+  - id: rundeck
+    level: gold
+  - id: couchbase
+    level: gold
+  - id: rackn
+    level: gold
+  - id: containiq
+    level: gold
+  - id: neuvector
+    level: gold
+  - id: tonic
+    level: gold
+  - id: granulate
+    level: gold
+  - id: mondoo
+    level: lanyard
+  - id: texasmutual
+    level: coffee
+  - id: techstronggroup
+    level: media
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -237,16 +260,16 @@ sponsor_levels:
     max: 1
   - id: platinum
     label: Platinum
-    max: 10
+    max: 2
   - id: gold
     label: Gold
-    max: 24
+    max: 12
   - id: lanyard
     label: Lanyard
     max: 1
-  # - id: oncall
-  #   label: On-call Room
-  #   max: 10
-  # - id: mealandsnack
-  #   label: Meal and Snack
-  #   max: 8
+  - id: coffee
+    label: Coffee Bar
+    max: 1
+  - id: media
+    label: Media
+    max: 1

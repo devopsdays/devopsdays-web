@@ -4,6 +4,7 @@ city: "Paris" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsrex" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "Votre conférence 100% devops à Paris !" # Edit this to suit your preferences
 ga_tracking_id: "UA-81620980-1" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+cancel: "true"
 
 # All dates are in unquoted 2021-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00

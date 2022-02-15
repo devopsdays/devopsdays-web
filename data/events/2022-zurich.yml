@@ -133,3 +133,49 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/nadinebroghammer"
     image: "nadine-broghammer.jpg"
 organizer_email: "zurich@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: avega
+    level: event
+  - id: devops-meetup-zurich
+    level: community
+  - id: devops-meetup-bern
+    level: community
+  - id: basis
+    level: gold
+  - id: zhlke
+    level: event
+  - id: suse
+    level: gold
+  - id: checkpoint
+    level: gold
+  - id: swiss-re
+    level: gold
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: platinum
+    label: Platinum
+    max: 3
+  - id: gold
+    label: Gold
+    max: 5
+  - id: event
+    label: Evening Event, Coffee, Meal
+    max: 3
+  - id: silver
+    label: Silver
+    max: 0
+  - id: community
+    label: Community
+    max: 0
+  - id: partner
+    label: Partner
+    max: 0

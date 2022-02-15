@@ -6,7 +6,7 @@ Description = "Sponsor DevOpsDays Zurich 2022"
 
 We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at <a href="mailto:organizer@devopsdays.ch">organizer@devopsdays.ch</a>. With sponsoring this event you accept our {{< event_link page="conduct" text="Code of Conduct" >}} and the <a href="https://ae79aaba-4129-461f-83a3-665f3dae5235.filesusr.com/ugd/116ad9_e723cc7604ed472aaa713c3f22a95945.pdf">General Sponsorship Rules</a>.  
 
-<a class="btn btn-primary btn-block"  style = "width: 200px; margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://ae79aaba-4129-461f-83a3-665f3dae5235.filesusr.com/ugd/116ad9_4f0f70cee0ae4912be648edd1edef073.pdf"  target="_blank">Download Sponsoring Kit!</a>
+<a class="btn btn-primary btn-block"  style = "width: 200px; margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://ae79aaba-4129-461f-83a3-665f3dae5235.filesusr.com/ugd/116ad9_81b0c432aba14c95ae93119369b6a5d3.pdf"  target="_blank">Download Sponsoring Kit!</a>
 
 ### Sponsoring packages
 <p>
@@ -102,12 +102,12 @@ We greatly value sponsors for this open event.  If you are interested in sponsor
     <td bgcolor="#8bc2d6"><center>2</center></td>
   </tr>
   <tr>
-    <th><b># Available Packages included</b></th>
+    <th><b># Available Packages</b></th>
     <td bgcolor="#7e98aa"><center>3</center></td>
-    <td bgcolor="#facba0"><center>5</center></td>
+    <td bgcolor="#facba0"><center>1</center></td>
     <td bgcolor="#c2c5c7"><center>unlimited</center></td>
-    <td bgcolor="#85cdad"><center>1</center></td>
-    <td bgcolor="#8bc2d6"><center>1</center></td>
+    <td bgcolor="#85cdad"><center><font color=red>SOLD OUT</font></center></td>
+    <td bgcolor="#8bc2d6"><center><font color=red>SOLD OUT</font></center></td>
     <td bgcolor="#8bc2d6"><center>1</center></td>
   </tr>
   <tr>
