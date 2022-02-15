@@ -138,9 +138,13 @@ sponsors:
     level: bronze
   - id: turbonomic
     level: bronze
+  - id: e-xpert-solutions
+    level: bronze
   - id: swissdevjobs
     level: community
   - id: heg-geneva
+    level: community
+  - id: grusp
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
