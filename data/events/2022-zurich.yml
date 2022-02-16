@@ -149,10 +149,16 @@ sponsors:
     level: event
   - id: suse
     level: gold
+  - id: fullstacks
+    level: gold
   - id: checkpoint
     level: gold
   - id: swiss-re
     level: gold
+  - id: cloudbees
+    level: platinum
+  - id: exoscale
+    level: platinum
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
