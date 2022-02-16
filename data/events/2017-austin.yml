@@ -224,7 +224,7 @@ sponsors:
     url: "https://www.sailpoint.com/company/careers"
   - id: elastic
     level: silver
-  - id: rackn
+  - id: rackn-before-20220210
     level: silver
   - id: pagerduty-before-20190930
     level: silver

@@ -14,17 +14,17 @@ startdate: 2022-04-25T00:00:00-06:00 # The start date of your event. Leave blank
 enddate: 2022-04-26T23:59:59-06:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2021-12-09T23:59:59-06:00 # start accepting talk proposals.
+cfp_date_end: 2022-02-28T23:59:59-06:00 # close your call for proposals.
+cfp_date_announce: 2022-03-04T23:59:59-06:00 # inform proposers of status
 
 cfp_link: "https://dodrockies2022.busyconf.com/proposals/new" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: 2021-12-09T23:59:59-06:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2022-04-26T23:59:59-06:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.eventbrite.com/e/devops-days-rockies-2022-tickets-255694046777" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -82,6 +82,22 @@ sponsors:
 - id: appdynamics
   level: gold
 - id: hashicorp
+  level: gold
+- id: neuvector
+  level: gold
+- id: solo
+  level: gold
+- id: mondoo
+  level: silver
+- id: fairwinds
+  level: gold
+- id: slimai
+  level: supporter
+- id: sonatype
+  level: gold
+- id: trilio
+  level: silver
+- id: chaossearch
   level: gold
 
 sponsor_levels:
