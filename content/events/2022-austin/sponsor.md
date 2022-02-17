@@ -26,6 +26,4 @@ many of which will be previous year speakers
 
 ### Prospectus
 
-<a href="https://bit.ly/3nHaru2" class="btn btn-primary"><i class="fa fa-folder fa-lg"></i>&nbsp;&nbsp;&nbsp;View the DevOpsDays Austin 2022 Sponsor Prospectus</a>
-
-<!-- <a href="https://docs.google.com/document/d/1sUkEoXgoKkKB5ZGCj9QIKkug8EmBlepV7Lt7U5ofUOw/edit?usp=sharing" class="btn btn-primary"><i class="fa fa-question fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor FAQ</a> -->
+<a href="https://bit.ly/dodatx2022sponsor" class="btn btn-primary"><i class="fa fa-folder fa-lg"></i>&nbsp;&nbsp;&nbsp;View the DevOpsDays Austin 2022 Sponsor Prospectus</a>
