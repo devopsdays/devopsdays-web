@@ -84,7 +84,7 @@
 /portland-or/*		/events/2022-portland-or/:splat		302
 /events/2021-portland/* /events/2021-portland-or/:splat 302
 /porto-alegre/*		/events/2021-porto-alegre/:splat	302
-/portugal/*		/events/2020-portugal/:splat		302
+/portugal/*		/events/2022-portugal/:splat		302
 /poznan/*		/events/2020-poznan/:splat		302
 /prague/*		/events/2020-prague/:splat		302
 /raleigh/*		/events/2022-raleigh/:splat		302
