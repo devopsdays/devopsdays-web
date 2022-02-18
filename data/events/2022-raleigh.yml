@@ -220,11 +220,11 @@ program:
     date: 2022-04-13
     start_time: "14:25"
     end_time: "14:45"
-  # - title: "talk-6-eran-bibi"
-  #   type: talk
-  #   date: 2022-04-13
-  #   start_time: "14:45"
-  #   end_time: "15:15"
+  - title: "eran-bibi-keynote"
+    type: talk
+    date: 2022-04-13
+    start_time: "14:45"
+    end_time: "15:15"
   - title: "Special-Keynote"
     type: custom
     date: 2022-04-13
@@ -417,4 +417,6 @@ ignites:
   - title: "jr-beaudoin-ignite"
     date: 2022-04-14
   - title: "jason-yee-ignite"
+    date: 2022-04-14
+  - title: "eran-bibi-ignite"
     date: 2022-04-14
