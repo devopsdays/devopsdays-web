@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Don't Panic, It's Only a Hoard of Hungry Developers"
+Title = "Don't Panic, It's Only a Horde of Hungry Developers"
 Type = "talk"
 Speakers = ["chris-evich"]
 +++
