@@ -90,7 +90,7 @@ Description = "devopsdays portugal 2022"
   <div class="row">
     <div class="col-12">
       <div class="row justify-content-center">
-        <!--<img src="/events/2019-portugal/logo.png" class="img-fluid mx-auto">-->
+        <!--<img src="/events/2022-portugal/logo.png" class="img-fluid mx-auto">-->
       </div>
     </div>
     <div class="col-sm-6">
@@ -181,7 +181,7 @@ Description = "devopsdays portugal 2022"
     <!-- begin a content element -->
     <div class="col-md-12">
       <div class="row justify-content-center">
-        <img src="/events/2019-portugal/logo.png" class="img-fluid mx-auto">
+        <img src="/events/2022-portugal/logo.png" class="img-fluid mx-auto">
       </div>
     </div>
   </div>
