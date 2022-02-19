@@ -34,11 +34,11 @@ location: "City Conference Center (KCC), Prague, Czech Republic" # Defaults to c
 location_address: "Na Strži 65/1702, Prague 4, 140 00" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+#  - name: propose
   - name: location
 #  - name: registration
 #  - name: program
-#  - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -147,7 +147,13 @@ sponsors:
     url: "https://www.meetup.com/Prague-Software-Craftsmanship/"  
   - id: stickermule
     level: community
-    url: "https://mule.to/pqi/"  
+    url: "https://mule.to/pqi/"
+  - id: startupjobs
+    level: community
+    url: "https://www.startupjobs.cz"
+  - id: msd
+    level: partner
+    url: "https://msd.cz"
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
@@ -168,6 +174,8 @@ sponsor_levels:
     label: Starter
   - id: community
     label: Community
+  - id: partner
+    label: Partner
 
 
 program:
