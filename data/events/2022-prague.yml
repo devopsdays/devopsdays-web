@@ -100,6 +100,12 @@ sponsors:
   - id: googlecloud
     level: silver
     url: "https://cloud.google.com/gcp/"
+  - id: circleci
+    level: silver
+    url: "https://circleci.com"
+  - id: sentinelone
+    level: silver
+    url: "https://sentinelone.com"
   - id: showmax
     level: bronze
     url: "https://www.showmax.com/"   
