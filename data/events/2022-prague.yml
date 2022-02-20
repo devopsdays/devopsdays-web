@@ -157,9 +157,6 @@ sponsors:
   - id: startupjobs
     level: community
     url: "https://www.startupjobs.cz"
-  - id: msd
-    level: partner
-    url: "https://msd.cz"
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
@@ -180,8 +177,6 @@ sponsor_levels:
     label: Starter
   - id: community
     label: Community
-  - id: partner
-    label: Partner
 
 
 program:

@@ -3,7 +3,7 @@ Title = "Valarie Regas"
 Linkedin = "https://www.linkedin.com/in/valarieregas/"
 Website = "https://valarieregas.com/"
 Twitter = "ValarieRegas"
-image = "valarie-regas.jpg"
+image = "valarie-regas.png"
 type = "speaker"
 linktitle = "valarie-regas"
 +++
