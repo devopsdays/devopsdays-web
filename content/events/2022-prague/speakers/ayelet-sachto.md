@@ -1,6 +1,5 @@
 +++
 Title = "Ayelet Sachto"
-Linkedin = 
 Website = "http://about.me/ayeletsachto"
 Twitter = "ayeletsachto"
 image = "ayelet-sachto.jpg"

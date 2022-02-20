@@ -1,6 +1,5 @@
 +++
 Title = "Nicolai Antiferov"
-Website = ""
 Linkedin = "https://www.linkedin.com/in/nklya/"
 Twitter = "Nklya"
 image = "nicolai-antiferov.jpg"

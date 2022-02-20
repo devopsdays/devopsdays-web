@@ -1,6 +1,5 @@
 +++
 Title = "Jeremy Meiss"
-Website = ""
 Linkedin = "https://linkedin.com/in/jeremymeiss"
 Twitter = "IAmJerdog"
 image = "jeremy-meiss.jpg"

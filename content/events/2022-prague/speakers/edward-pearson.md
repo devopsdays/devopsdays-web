@@ -1,7 +1,6 @@
 +++
 Title = "Edward Pearson"
 Linkedin = "https://www.linkedin.com/in/erpearson/"
-Website = ""
 Twitter = "edwardpearson"
 type = "speaker"
 image = "edward-pearson.jpg"

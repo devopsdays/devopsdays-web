@@ -1,9 +1,6 @@
 +++
 Title = "Cornelia Mosler"
 Linkedin = "https://www.linkedin.com/in/cornelia-mosler-279b69a7/"
-Website = 
-Twitter = 
-image = 
 type = "speaker"
 linktitle = "cornelia-mosler"
 +++

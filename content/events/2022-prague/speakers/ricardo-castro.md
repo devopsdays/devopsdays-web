@@ -1,9 +1,7 @@
 +++
 Title = "Ricardo Castro"
-Linkedin = 
 Website = "https://mccricardo.com"
 Twitter = "mccricardo"
-image = 
 type = "speaker"
 linktitle = "ricardo-castro"
 +++
