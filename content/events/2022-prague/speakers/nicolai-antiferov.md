@@ -8,4 +8,4 @@ type = "speaker"
 linktitle = "nicolai-antiferov" 
 +++
 
-Infrastructure Engineer, Estonia
+Engineer ¯_(ツ)_/¯, a little bit perfectionist and a big IaC enthusiast
