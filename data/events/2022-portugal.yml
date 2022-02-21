@@ -2,7 +2,7 @@ name: "2022-portugal" # The name of the event. Four digit year with the city nam
 year: "2022" # The year of the event. Make sure it is in quotes.
 city: "Portugal" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdayspt" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "In 2022 edition DevOpsDays arrive to the beautiful Porto city!." # Edit this to suit your preferences
+description: "In 2022 edition DevOpsDays arrive to the beautiful Porto city!" # Edit this to suit your preferences
 ga_tracking_id: # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 event_group: "Portugal"
 
