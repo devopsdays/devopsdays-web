@@ -55,8 +55,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 team_members: # Name is the only required field for team members.
   - name: "Martin Thalmann"
     twitter: "martin_thalmann"
-    employer: "Swisscom AG"
-    bio: "I’m a passionate DevOps Enthusiast who strongly believes in the power of this movement. I’m currently helping a Swiss telco operator in adapting DevOps principles in a large enterprise. Beside that I’m co-organizer of the [DevOps Enthusiast Meetup in Zurich](https://www.meetup.com/DevOps-Meetup-Zurich/). I do have a background as a Software Engineer and experience in several Line- and Project-Management positions."
+    employer: "monum GmbH"
+    bio: "I’m a passionate DevOps Enthusiast who strongly believes in the power of this movement. As a DevOps and Agile Coach, I support companies in creating more value for their customers. My background as a software developer & project manager as well as my practical experience in different agile roles help me to understand the needs well, find pragmatic solutions and anchor agile principles sustainably.  In addition, I am co-study director at the Lucerne University of Applied Sciences and Arts and co-host of the DevOps Meetup Zurich."
     github: ""
     facebook: ""
     linkedin: "https://www.linkedin.com/in/martinthalmann/"
