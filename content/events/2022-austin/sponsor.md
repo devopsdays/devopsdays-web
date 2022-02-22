@@ -4,6 +4,12 @@ Type = "event"
 Description = "Sponsor devopsdays Austin 2022"
 +++
 
+### Only 3 Sponsor Packages Left!
+
+Contact the organizers now to claim one of the remaining sponsor packages. The only available packages are 3 of the happy hour packages.
+
+---
+
 Now in its tenth year, DevOpsDays Austin is consistently one of the best attended
 and reviewed DevOpsDays events globally. Sponsoring DevOpsDays Austin
 exposes your company to Austin’s leading technical and business minds who are
