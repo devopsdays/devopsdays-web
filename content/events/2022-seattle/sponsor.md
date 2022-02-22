@@ -85,5 +85,3 @@ The best thing to do is send engineers to interact with the experts at devopsday
     </tr>
   </tbody>
 </table>
-<!--
-<hr/>
