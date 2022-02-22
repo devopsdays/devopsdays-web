@@ -1,5 +1,5 @@
 var gulp = require('gulp'),
-  sass = require('gulp-sass'),
+  sass = require('gulp-sass')(require('node-sass')),
   sourcemaps = require('gulp-sourcemaps');
 
 sass.compiler = require('node-sass');

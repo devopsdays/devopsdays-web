@@ -8,18 +8,18 @@ Watch this space for information about the venue including address, map/directio
 
 <!-- Uncomment this only if you have set the coordinates for your location in the config yaml. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html -->
 
-<!-- {{< event_map >}} --> 
+{{< event_map >}} 
 
 <!-- <img width="500px" alt="DevOpsDays Philadelphia 2019" src="/events/2019-philadelphia/location/chf.jpg"/> -->
 
 Address: 
-244 Second Avenue N
-St. Petersburg, FL 33701
+140 7th Ave S, St. 
+Petersburg, FL 33701
 
 <br>
 <br>
 
-Event Date: May 27th<br>
-Last Day to Book: May 1st
+Event Date: May 27th, 9AM - 4PM EST<br>
+Last Day to Book: TBD
 
 

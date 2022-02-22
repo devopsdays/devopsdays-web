@@ -171,10 +171,18 @@ sponsors:
     level: silver
   - id: linearb
     level: silver
+  - id: blameless
+    level: silver
+  - id: slimai
+    level: silver
+  - id: mondoo
+    level: silver
    
    
    #Bronze Sponsors
   - id: env0
+    level: bronze
+  - id: pulumi
     level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
