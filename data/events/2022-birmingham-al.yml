@@ -72,6 +72,8 @@ organizer_email: "birmingham-al@devopsdays.org" # Put your organizer email addre
 sponsors:
   - id: datalus-corporation
     level: bronze
+  - id: cloudbees
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
