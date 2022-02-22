@@ -8,7 +8,7 @@ Description = "Location for devopsdays Birmingham, AL 2022"
 <p>1600 3rd Ave South<br />
 Birmingham, Alabama 35233</p>
 <hr>
-We are excited to have the innogural DevOpsDays Birmingham, AL at the beatiful Red Mountain Theatre's downtown campus. Paid parking is available from the venue and public parking across the street.
+We are excited to have the innogural DevOpsDays Birmingham, AL in-person at the beautiful Red Mountain Theatre's downtown campus. Paid parking is available from the venue and public parking across the street.
 
 <h4>Travel</h4>
 <p>For those coming form out of town, two  hotels are within walking distance. We'll update this before March 1 with our group rate information.
