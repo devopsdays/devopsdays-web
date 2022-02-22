@@ -227,6 +227,8 @@ sponsors:
 sponsors:
   - id: liatrio
     level: platinum
+  - id: linearb
+    level: platinum
   - id: rundeck
     level: gold
   - id: couchbase
@@ -240,6 +242,12 @@ sponsors:
   - id: tonic
     level: gold
   - id: granulate
+    level: gold
+  - id: trilio
+    level: gold
+  - id: vfunction
+    level: gold
+  - id: erasoftware
     level: gold
   - id: mondoo
     level: lanyard
@@ -257,13 +265,13 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: happyhour
     label: Happy Hour
-    max: 1
+    max: 4
   - id: platinum
     label: Platinum
     max: 2
   - id: gold
     label: Gold
-    max: 12
+    max: 10
   - id: lanyard
     label: Lanyard
     max: 1
