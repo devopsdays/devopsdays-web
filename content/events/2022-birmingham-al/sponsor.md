@@ -21,7 +21,7 @@ View our full <a href="https://drive.google.com/file/d/12qWcz5xbSTII_42FzYWDQ9WM
     <th><center><b><u>Bronze<br />1,000 usd</u></center></b></th>
     <th><center><b><u>Silver<br />2,500 usd</u></center></b></th>
     <th><center><b><u>Gold<br />5,000 usd</u></center></b></th>
-    <th><center><b><u>Host<br />1,0000 usd</u></center></b></th>
+    <th><center><b><u>Host<br />10,000 usd</u></center></b></th>
   </tr>
 <tr><td style="text-align: left;">included tickets</td><td>1</td><td>2</td><td>4</td><td>10</td></tr>
 <tr><td style="text-align: left;">include marketing swag for attendees</td><td>&#10003;</td><td>&#10003;</td><td>&#10003;</td><td>&#10003;</td></tr>
