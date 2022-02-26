@@ -7,7 +7,7 @@ Description = "devopsdays Denver 2022"
 
 <div style="text-align:center;">
   <!-- {{< event_logo >}} -->
-  <img src="https://mcusercontent.com/292acf0a8cdabb6d612ca4f05/images/50c4b863-a774-acf1-3d18-f7758b8f185b.jpg" width="300" />
+  <img src="/events/2022-denver/2022-dumpster-logo.jpg" width="300" />
 </div>
 
 {{< event_twitter >}}
