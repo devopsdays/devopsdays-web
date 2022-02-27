@@ -165,6 +165,8 @@ sponsors:
     level: gold
   - id: solo
     level: gold
+  - id: couchbase
+    level: gold
     
    #Silver Sponsors
   - id: medtronic
