@@ -18,8 +18,8 @@ enddate: 2022-05-05T00:00:00-05:00 # The end date of your event. Leave blank if 
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2022-01-24T00:00:00-05:00 # start accepting talk proposals.
-cfp_date_end: 2022-02-18T23:59:59-05:00 # close your call for proposals.
-cfp_date_announce: 2022-02-20T23:59:59-05:00 # inform proposers of status
+cfp_date_end: 2022-03-04T23:59:59-05:00 # close your call for proposals.
+cfp_date_announce: 2022-03-07T23:59:59-05:00 # inform proposers of status
 
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
@@ -227,6 +227,8 @@ sponsors:
 sponsors:
   - id: liatrio
     level: platinum
+  - id: linearb
+    level: platinum
   - id: rundeck
     level: gold
   - id: couchbase
@@ -240,6 +242,12 @@ sponsors:
   - id: tonic
     level: gold
   - id: granulate
+    level: gold
+  - id: trilio
+    level: gold
+  - id: vfunction
+    level: gold
+  - id: erasoftware
     level: gold
   - id: mondoo
     level: lanyard
@@ -257,13 +265,13 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: happyhour
     label: Happy Hour
-    max: 1
+    max: 4
   - id: platinum
     label: Platinum
     max: 2
   - id: gold
     label: Gold
-    max: 12
+    max: 10
   - id: lanyard
     label: Lanyard
     max: 1

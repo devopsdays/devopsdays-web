@@ -10,18 +10,18 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2022-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: 2022-04-13T00:00:00-04:00  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2022-04-14T23:59:58-04:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2022-04-13  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2022-04-14 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2021-10-18T23:59:58-04:00 # start accepting talk proposals.
-cfp_date_end: 2021-12-31T23:59:58-04:00  # close your call for proposals.
+cfp_date_start: 2021-10-18 # start accepting talk proposals.
+cfp_date_end: 2021-12-31  # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
 
 cfp_link: "https://forms.gle/aoz6XvtQYtm8HuQY9" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: 2021-06-20T00:00:00-04:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: 2022-04-14T23:59:58-04:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: 2021-06-20 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2022-04-14 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://www.eventbrite.com/e/devopsdays-raleigh-2022-tickets-149971423565?aff=ebdssbdestsearch" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -142,262 +142,262 @@ sponsor_levels:
 program:
   - title: "Registration, Breakfast, Sponsors"
     type: custom
-    date: 2022-04-13T00:00:00-04:00
+    date: 2022-04-13
     start_time: "08:00"
     end_time: "09:00"
   - title: "Opening Welcome"
     type: custom
-    date: 2022-04-13T00:00:00-04:00
+    date: 2022-04-13
     start_time: "09:00"
     end_time: "09:10"
   - title: "matt-stratton"
     type: talk
-    date: 2022-04-13T00:00:00-04:00
+    date: 2022-04-13
     start_time: "09:10"
     end_time: "09:40"
   - title: "Sponsors"
     type: custom
-    date: 2022-04-13T00:00:00-04:00
+    date: 2022-04-13
     start_time: "09:40"
     end_time: "09:50"
   - title: "karen-taggart"
     type: talk
-    date: 2022-04-13T00:00:00-04:00
+    date: 2022-04-13
     start_time: "09:50"
     end_time: "10:20"
   - title: "Break"
     type: custom
-    date: 2022-04-13T00:00:00-04:00
+    date: 2022-04-13
     start_time: "10:20"
     end_time: "10:40"
   - title: "Escape Room Experience Morning"
     type: custom
-    date: 2022-04-13T00:00:00-04:00
+    date: 2022-04-13
     start_time: "10:40"
     end_time: "12:00"
   - title: "josh-thurman"
     type: talk
-    date: 2022-04-13T00:00:00-04:00
+    date: 2022-04-13
     start_time: "10:40"
     end_time: "11:10"
   - title: "Sponsors"
     type: custom
-    date: 2022-04-13T00:00:00-04:00
+    date: 2022-04-13
     start_time: "11:10"
     end_time: "11:30"
   - title: "casey-wylie"
     type: talk
-    date: 2022-04-13T00:00:00-04:00
+    date: 2022-04-13
     start_time: "11:30"
     end_time: "12:00"
   - title: "Lunch"
     type: custom
-    date: 2022-04-13T00:00:00-04:00
+    date: 2022-04-13
     start_time: "12:00"
     end_time: "13:00"
   - title: "Ignites"
     type: ignite
-    date: 2022-04-13T00:00:00-04:00
+    date: 2022-04-13
     start_time: "13:00"
     end_time: "13:30"
   - title: "Ignite Karaoke"
     type: custom
-    date: 2022-04-13T00:00:00-04:00
+    date: 2022-04-13
     start_time: "13:30"
     end_time: "13:45"
   - title: "Sponsors"
     type: custom
-    date: 2022-04-13T00:00:00-04:00
+    date: 2022-04-13
     start_time: "13:45"
     end_time: "13:55"
   - title: "jason-davis"
     type: talk
-    date: 2022-04-13T00:00:00-04:00
+    date: 2022-04-13
     start_time: "13:55"
     end_time: "14:25"
   - title: "Break"
     type: custom
-    date: 2022-04-13T00:00:00-04:00
+    date: 2022-04-13
     start_time: "14:25"
     end_time: "14:45"
-  # - title: "talk-6-eran-bibi"
-  #   type: talk
-  #   date: 2022-04-13T00:00:00-04:00
-  #   start_time: "14:45"
-  #   end_time: "15:15"
+  - title: "eran-bibi-keynote"
+    type: talk
+    date: 2022-04-13
+    start_time: "14:45"
+    end_time: "15:15"
   - title: "Special-Keynote"
     type: custom
-    date: 2022-04-13T00:00:00-04:00
+    date: 2022-04-13
     start_time: "15:15"
     end_time: "16:25"
   - title: "Open Space Opening"
     type: custom
-    date: 2022-04-13T00:00:00-04:00
+    date: 2022-04-13
     start_time: "13:55"
     end_time: "15:15"
   - title: "Open Space #1"
     type: custom
-    date: 2022-04-13T00:00:00-04:00
+    date: 2022-04-13
     start_time: "13:55"
     end_time: "14:25"
   - title: "Open Space #2"
     type: custom
-    date: 2022-04-13T00:00:00-04:00
+    date: 2022-04-13
     start_time: "14:45"
     end_time: "15:15"
   - title: "Escape Room Experience Afternoon"
     type: custom
-    date: 2022-04-13T00:00:00-04:00
+    date: 2022-04-13
     start_time: "13:55"
     end_time: "15:15"
   - title: "will-mckinley-workshop"
     type: workshop
-    date: 2022-04-13T00:00:00-04:00
+    date: 2022-04-13
     start_time: "13:55"
     end_time: "15:15"
   - title: "lot-santos-workshop"
     type: workshop
-    date: 2022-04-13T00:00:00-04:00
+    date: 2022-04-13
     start_time: "13:55"
     end_time: "15:15"
   - title: "Close Day"
     type: custom
-    date: 2022-04-13T00:00:00-04:00
+    date: 2022-04-13
     start_time: "16:25"
     end_time: "16:35"
   - title: "Evening event - Happy Hour"
     type: custom
-    date: 2022-04-13T00:00:00-04:00
+    date: 2022-04-13
     start_time: "16:35"
     end_time: "18:30"
   - title: "Registration, Breakfast, Sponsors"
     type: custom
-    date: 2022-04-14T23:59:58-04:00
+    date: 2022-04-14
     start_time: "08:00"
     end_time: "09:00"
   - title: "Opening Welcome"
     type: custom
-    date: 2022-04-14T23:59:58-04:00
+    date: 2022-04-14
     start_time: "09:00"
     end_time: "09:10"
   - title: "nate-ashford"
     type: talk
-    date: 2022-04-14T23:59:58-04:00
+    date: 2022-04-14
     start_time: "09:10"
     end_time: "09:40"
   - title: "Sponsors"
     type: custom
-    date: 2022-04-14T23:59:58-04:00
+    date: 2022-04-14
     start_time: "09:40"
     end_time: "09:50"
   - title: "bailey-hayes"
     type: talk
-    date: 2022-04-14T23:59:58-04:00
+    date: 2022-04-14
     start_time: "09:50"
     end_time: "10:20"
   - title: "Break"
     type: custom
-    date: 2022-04-14T23:59:58-04:00
+    date: 2022-04-14
     start_time: "10:20"
     end_time: "10:40"
   - title: "carlos-martinez-workshop"
     type: workshop
-    date: 2022-04-14T23:59:58-04:00
+    date: 2022-04-14
     start_time: "10:40"
     end_time: "12:00"
   - title: "Escape Room Experience Morning"
     type: custom
-    date: 2022-04-14T23:59:58-04:00
+    date: 2022-04-14
     start_time: "10:40"
     end_time: "12:00"
   - title: "lesley-cordero"
     type: talk
-    date: 2022-04-14T23:59:58-04:00
+    date: 2022-04-14
     start_time: "10:40"
     end_time: "11:10"
   - title: "Sponsors"
     type: custom
-    date: 2022-04-14T23:59:58-04:00
+    date: 2022-04-14
     start_time: "11:10"
     end_time: "11:30"
   - title: "mandi-walls"
     type: talk
-    date: 2022-04-14T23:59:58-04:00
+    date: 2022-04-14
     start_time: "11:30"
     end_time: "12:00"
   - title: "Lunch"
     type: custom
-    date: 2022-04-14T23:59:58-04:00
+    date: 2022-04-14
     start_time: "12:00"
     end_time: "13:00"
   - title: "Ignites"
     type: ignite
-    date: 2022-04-14T23:59:58-04:00
+    date: 2022-04-14
     start_time: "13:00"
     end_time: "13:30"
   - title: "Ignite Karaoke"
     type: custom
-    date: 2022-04-14T23:59:58-04:00
+    date: 2022-04-14
     start_time: "13:30"
     end_time: "13:45"
   - title: "Sponsors"
     type: custom
-    date: 2022-04-14T23:59:58-04:00
+    date: 2022-04-14
     start_time: "13:45"
     end_time: "13:55"
   - title: "chris-evich"
     type: talk
-    date: 2022-04-14T23:59:58-04:00
+    date: 2022-04-14
     start_time: "13:55"
     end_time: "14:25"
   - title: "Break"
     type: custom
-    date: 2022-04-14T23:59:58-04:00
+    date: 2022-04-14
     start_time: "14:25"
     end_time: "14:45"
   - title: "andreas-grabner"
     type: talk
-    date: 2022-04-14T23:59:58-04:00
+    date: 2022-04-14
     start_time: "14:45"
     end_time: "15:15"
   # - title: "talk-13"
   #   type: talk
-  #   date: 2022-04-14T23:59:58-04:00
+  #   date: 2022-04-14
   #   start_time: "15:15"
   #   end_time: "15:45"
   - title: "Open Space Opening"
     type: custom
-    date: 2022-04-14T23:59:58-04:00
+    date: 2022-04-14
     start_time: "13:55"
     end_time: "15:15"
   - title: "Open Space #3"
     type: custom
-    date: 2022-04-14T23:59:58-04:00
+    date: 2022-04-14
     start_time: "13:55"
     end_time: "14:25"
   - title: "Open Space #4"
     type: custom
-    date: 2022-04-14T23:59:58-04:00
+    date: 2022-04-14
     start_time: "14:45"
     end_time: "15:15"
   - title: "Escape Room Experience Afternoon"
     type: custom
-    date: 2022-04-14T23:59:58-04:00
+    date: 2022-04-14
     start_time: "13:55"
     end_time: "15:15"
   - title: "daniel-oh-workshop"
     type: workshop
-    date: 2022-04-14T23:59:58-04:00
+    date: 2022-04-14
     start_time: "13:55"
     end_time: "15:15"
   - title: "lee-faus-workshop"
     type: workshop
-    date: 2022-04-14T23:59:58-04:00
+    date: 2022-04-14
     start_time: "13:55"
     end_time: "15:15"
   - title: "Raffle/Close Day"
     type: custom
-    date: 2022-04-14T23:59:58-04:00
+    date: 2022-04-14
     start_time: "15:45"
     end_time: "16:00"
 
@@ -406,13 +406,15 @@ ignites:
     date: 2022-04-13
   - title: "peter-valdez-ignite"
     date: 2022-04-13
-  - title: "michael-roberts-ignite"
+  - title: "eran-bibi-ignite"
     date: 2022-04-13
-  - title: "noaa-barki-ignite"
+  - title: "jessica-fields-ignite"
     date: 2022-04-13
   - title: "keith-zantow-ignite"
     date: 2022-04-14
   - title: "jr-beaudoin-ignite"
     date: 2022-04-14
   - title: "jason-yee-ignite"
+    date: 2022-04-14
+  - title: "michael-roberts-ignite"
     date: 2022-04-14

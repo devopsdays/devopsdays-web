@@ -86,6 +86,8 @@ organizer_email: "tampa@devopsdays.org" # Put your organizer email address here
 sponsors:
   - id: nobl9
     level: platinum
+  - id: moogsoft
+    level: platinum
 #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 # - id: arresteddevops
 #  level: community
