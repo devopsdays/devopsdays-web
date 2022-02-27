@@ -17,11 +17,11 @@ Description = "Devopsdays Prague 2022"
     <br><br>
     The format of DevOpsDays includes a single track of 30 minute talks in the morning of each day, followed by Ignite talks (5 minute lightning talks). We spend the rest of the afternoon in Open Spaces, which are considered a key portion of the event.
   </div>
-<!--  <div class = "col-md-6 push-md-6">
+  <div class = "col-md-6 push-md-6">
     <div style="text-align:center;">
       {{< event_logo >}}
     </div>
-  </div> -->
+  </div>
 </div>
 <div class = "row">
   <div class = "col-md-2">
