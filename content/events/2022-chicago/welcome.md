@@ -7,6 +7,20 @@ Description = "DevOpsDays Chicago is coming back in 2022! The group that brought
 
 <div class = "row">
   <div class = "col-md-6 push-md-6">
+  	<div class="row">
+  		<div class="alert alert-warning" role="alert">
+    			<h2>Schedule Update</h2>
+    			<p>It has been about three years since the DevOpsDays Chicago conference has occurred in person. Since then, the organizer committee members have successfully hosted a virtual conference, established a 501(c)3, bought houses, moved out of the state, changed jobs and other life events.
+
+The organizer committee puts in hundreds if not thousands of hours of volunteer work to make this event happen. We initially started planning an event to take place at the beginning of Q2 2022, but we have now decided to reschedule for later in the year (Q3 2022). 
+
+We are working with our venue to determine the exact date based on date availability, and we will update the website as soon as we have this new date confirmed (we expect to have this by early April).
+
+We will also announce this via our mailing list - fill out the form below to be added!
+
+If you have any questions or concerts, please contact: <a href = "mailto:chicago@devopsdays.org">chicago@devopsdays.org</a></p>
+  		</div>
+	</div>
 	  <div class="row">
   		<div class="alert alert-info" role="alert">
     			<h2>COVID-19</h2>
