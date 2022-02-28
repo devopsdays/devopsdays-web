@@ -10,7 +10,7 @@ Description = "DevOpsDays Chicago is coming back in 2022! The group that brought
   	<div class="row">
   		<div class="alert alert-warning" role="alert">
     			<h2>Schedule Update</h2>
-    			<p>It has been about three years since the DevOpsDays Chicago conference has occurred in person. Since then, the organizer committee members have successfully hosted a virtual conference, established a 501(c)3, bought houses, moved out of the state, changed jobs and other life events.
+    			<p>It has been almost three years since the DevOpsDays Chicago conference has occurred in person. Since then, the organizer committee members have successfully hosted a virtual conference, established a 501(c)3, bought houses, moved out of the state, changed jobs and other life events.
 
 The organizer committee puts in hundreds if not thousands of hours of volunteer work to make this event happen. We initially started planning an event to take place at the beginning of Q2 2022, but we have now decided to reschedule for later in the year (Q3 2022).
 
