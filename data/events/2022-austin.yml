@@ -251,6 +251,10 @@ sponsors:
     level: gold
   - id: erasoftware
     level: gold
+  - id: vmware-tanzu
+    level: gold
+  - id: squaredup
+    level: gold
   - id: mondoo
     level: lanyard
   - id: texasmutual
