@@ -32,4 +32,4 @@ many of which will be previous year speakers
 
 ### Prospectus
 
-<a href="https://bit.ly/dodatx2022sponsor" class="btn btn-primary"><i class="fa fa-folder fa-lg"></i>&nbsp;&nbsp;&nbsp;View the DevOpsDays Austin 2022 Sponsor Prospectus</a>
+<a href="https://bit.ly/dodatx2022sponsor-v3" class="btn btn-primary"><i class="fa fa-folder fa-lg"></i>&nbsp;&nbsp;&nbsp;View the DevOpsDays Austin 2022 Sponsor Prospectus</a>

@@ -41,7 +41,7 @@ Description = "devopsdays seattle 2022"
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
+    <a href="https://sessionize.com/devopsdays-seattle-2022/">Propose a Talk!</a>
   </div>
 </div>
 

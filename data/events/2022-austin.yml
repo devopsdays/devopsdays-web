@@ -225,6 +225,8 @@ sponsors:
 #   - id: arresteddevops
 #     level: community
 sponsors:
+  - id: sixnines
+    level: happyhour
   - id: liatrio
     level: platinum
   - id: linearb
@@ -248,6 +250,10 @@ sponsors:
   - id: vfunction
     level: gold
   - id: erasoftware
+    level: gold
+  - id: vmware-tanzu
+    level: gold
+  - id: squaredup
     level: gold
   - id: mondoo
     level: lanyard
