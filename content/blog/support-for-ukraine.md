@@ -7,13 +7,16 @@ Aliases =  [
     "/devopsdays-stands-with-ukraine"
 ]
 +++
-The DevOpsDays community stands with our Ukrainian friends and family. We condemn the actions of Putin and his invasion of Ukraine. We urge all community members to do whatever they can to help Ukraine; whether it be donating money, time, influence, or all of the above.
+
+The DevOpsDays community stands with our [Ukrainian community members](https://twitter.com/days_dev), friends and family. We condemn the actions of Putin and his invasion of Ukraine. We urge all community members to do whatever they can to help Ukraine; whether it be donating money, time, influence, or all of the above.
 
 **There are many ways you can help Ukraine right now.**
 
 *TL;DR - If you’re in the US donate to [Nova Ukraine](https://novaukraine.org/donate/) and [Razom for Ukraine](https://razomforukraine.org/donate/) which are both 501(c)3 and are commonly found in Employer Match programs. Outside of the US donation options can be found at https://supportukrainenow.org and https://helpukrainewin.org/. Raise awareness using #StandWithUkraine on Social Media.*
 
 In our opinion, the best resource to find out how to help in your country is the Support Ukraine Now website (https://supportukrainenow.org/) which lists ways to donate money, provide humanitarian aid, offer shelter, attend rallies, contact politicians/leaders, etc.  Much of the information found below is taken from there.
+
+Special thanks to the [DevOpsDays Kyiv](https://twitter.com/days_dev) team who provided many of the resources and details found below.
 
 Be Informed
 ===========
