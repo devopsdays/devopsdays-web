@@ -75,7 +75,7 @@ You can transfer money to the following accounts:
 
 🇺🇦Link with all the help: https://helpukrainewin.org/
 
-Updating this post
+## Updating this post
 If you have links or suggestions that are specific to your country, please update this post by making a PR to the [devopsdays/devopsdays-web github repo](https://github.com/devopsdays/devopsdays-web).
 
 *Last updated 2 March 2022*
