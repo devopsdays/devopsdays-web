@@ -11,9 +11,9 @@ The DevOpsDays community stands with our Ukrainian friends and family. We condem
 
 **There are many ways you can help Ukraine right now.**
 
-*TL;DR - If you’re in the US donate to  Nova Ukraine and Razom for Ukraine which are both 501(c)3 and are commonly found in Employer Match programs. Outside of the US donate via https://supportukrainenow.org and https://helpukrainewin.org/. Raise awareness using #StandWithUkraine on Social Media.*
+*TL;DR - If you’re in the US donate to [Nova Ukraine](https://novaukraine.org/donate/) and [Razom for Ukraine](https://razomforukraine.org/donate/) which are both 501(c)3 and are commonly found in Employer Match programs. Outside of the US donation options can be found at https://supportukrainenow.org and https://helpukrainewin.org/. Raise awareness using #StandWithUkraine on Social Media.*
 
-In our opinion, the best resource to find out how to help in your country is the Support Ukraine Now website (https://supportukrainenow.org/) which lists ways to donate money, provide humanitarian aid, offer shelter, attend rallies, contact politicians/leaders, etc.  Much of this information is taken from there.
+In our opinion, the best resource to find out how to help in your country is the Support Ukraine Now website (https://supportukrainenow.org/) which lists ways to donate money, provide humanitarian aid, offer shelter, attend rallies, contact politicians/leaders, etc.  Much of the information found below is taken from there.
 
 Be Informed
 ===========
@@ -49,11 +49,11 @@ Donate Money
 
 As always be wary of scams asking for help, always verify the Charity/Organization/Person is legitimate; there have been many instances already of scams, especially in the crypto space.
 
-If you are in the US you may want to consider donating to one of the 501(c)3 charities. There are a number listed on the websites above but you may want to check if your employer matches donations to them.  Both [Nova Ukraine](https://novaukraine.org/) and [Razom for Ukraine](https://razomforukraine.org/) are commonly found in Employer Match programs and are easy to donate money to.
+If you are in the US you may want to consider donating to one of the 501(c)3 charities. There are a number listed on the websites above but you may want to check if your employer matches donations to them.  Both [Nova Ukraine](https://novaukraine.org/donate) and [Razom for Ukraine](https://razomforukraine.org/donate) are commonly found in Employer Match programs and are easy to donate money to.
 
 World Central Kitchen is providing hot meals to Ukrainians as they cross the border into Poland and other neighboring countries. They are also helping kitchens provide meals in Lviv and Odessa.  You can donate to them [here](http://wck.org/relief/activation-chefs-for-ukraine).
 
-There are many Humanitarian and Support Charities.  For comprehensive lists across many countries, you can visit [https://supportukrainenow.org](https://supportukrainenow.org/) and <https://helpukrainewin.org/>.
+There are many Humanitarian and Support Charities.  For comprehensive lists across many countries, you can visit [https://supportukrainenow.org](https://supportukrainenow.org/) and [https://helpukrainewin.org](https://helpukrainewin.org).
 
 The [24.02 Fund](https://2402.org/) has been set up to help equip reporters and newsrooms in Ukraine with the necessary equipment, vehicles, and protective gear.
 
