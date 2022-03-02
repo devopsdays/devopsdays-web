@@ -47,7 +47,7 @@ As always be wary of scams asking for help, always verify the Charity/Organizati
 
 If you are in the US you may want to consider donating to one of the 501(c)3 charities. There are a number listed on the websites above but you may want to check if your employer matches donations to them.  Both [Nova Ukraine](https://novaukraine.org/) and [Razom for Ukraine](https://razomforukraine.org/) are commonly found in Employer Match programs and are easy to donate money to.
 
-World Central Kitchen is providing hot meals to Ukrainians as they cross the border into Poland and other neighboring countries. They are also helping kitchens provide meals in Lviv and Odessa.  You can donate to them [here](https://t.co/dRJJgnlcKt).
+World Central Kitchen is providing hot meals to Ukrainians as they cross the border into Poland and other neighboring countries. They are also helping kitchens provide meals in Lviv and Odessa.  You can donate to them [here](http://wck.org/relief/activation-chefs-for-ukraine).
 
 There are many Humanitarian and Support Charities.  For comprehensive lists across many countries, you can visit [https://supportukrainenow.org](https://supportukrainenow.org/) and <https://helpukrainewin.org/>.
 
