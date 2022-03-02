@@ -1,7 +1,7 @@
 +++
 Title = "DevOpsDays Stands With Ukraine"
 Date = "2022-03-01T03:01:03-03:00"
-Author = "Matt Stratton"
+Author = "DevOpsDays Global Core Organizers"
 +++
 The DevOpsDays community stands with our Ukrainian friends and family. We condemn the actions of Putin and his invasion of Ukraine. We urge all community members to do whatever they can to help Ukraine; whether it be donating money, time, influence, or all of the above.
 
