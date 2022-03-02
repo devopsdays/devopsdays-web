@@ -119,7 +119,7 @@ Your Government
 
 2.  Share the [official letter](https://docs.google.com/document/d/18PaytL8rEd0Wi5AbBQ60z9oFP7aeUEjhYOmIjxNpnjc/edit) from a member of Verkhovna Rada, the Parliament of Ukraine, about the support Ukraine needs.
 
-Reach out to your local city and state leaders, reach out to your members of Congress, presidents, MPs, etc.  
+**Reach out to your local city and state leaders, reach out to your members of Congress, presidents, MPs, etc.**  
 
 1.  Demand that they help Ukraine
 
