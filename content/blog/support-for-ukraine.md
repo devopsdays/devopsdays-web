@@ -1,6 +1,6 @@
 +++
 Title = "DevOpsDays Stands With Ukraine"
-Date = "2022-03-01T03:01:03-03:00"
+Date = "2022-03-02T09:01:03-06:00"
 Author = "DevOpsDays Global Core Organizers"
 +++
 The DevOpsDays community stands with our Ukrainian friends and family. We condemn the actions of Putin and his invasion of Ukraine. We urge all community members to do whatever they can to help Ukraine; whether it be donating money, time, influence, or all of the above.
@@ -14,7 +14,7 @@ In our opinion, the best resource to find out how to help in your country is the
 Be Informed
 ===========
 
-There are many sources of information right now, some are better than others.  Where possible try to follow Ukrainian news directly rather than what your local news media is showing as it is more likely to be accurate and detailed.
+There are many sources of information right now; some are better than others.  Where possible try to follow Ukrainian news directly rather than what your local news media is showing as it is more likely to be accurate and detailed.
 
 The following are sources that we trust:
 
@@ -43,7 +43,7 @@ Social Media
 Donate Money
 ============
 
-As always be wary of scams asking for help, always verify the Charity/Organization/Person is legitimate, there have been many instances already of scams, especially in the crypto space.
+As always be wary of scams asking for help, always verify the Charity/Organization/Person is legitimate; there have been many instances already of scams, especially in the crypto space.
 
 If you are in the US you may want to consider donating to one of the 501(c)3 charities. There are a number listed on the websites above but you may want to check if your employer matches donations to them.  Both [Nova Ukraine](https://novaukraine.org/) and [Razom for Ukraine](https://razomforukraine.org/) are commonly found in Employer Match programs and are easy to donate money to.
 
@@ -119,7 +119,7 @@ Your Government
 
 2.  Share the [official letter](https://docs.google.com/document/d/18PaytL8rEd0Wi5AbBQ60z9oFP7aeUEjhYOmIjxNpnjc/edit) from a member of Verkhovna Rada, the Parliament of Ukraine, about the support Ukraine needs.
 
-Reach out to your local city and state leaders, reach out to your congressmen, presidents, MPs, etc.  
+Reach out to your local city and state leaders, reach out to your members of Congress, presidents, MPs, etc.  
 
 1.  Demand that they help Ukraine
 
@@ -133,7 +133,7 @@ Reach out to your local city and state leaders, reach out to your congressmen, p
 
 6.  Insist that they freeze the assets of Russian Oligarchs
 
-If you're in the US you can use the[ weStandWithUkraine bot](https://supportukrainenow.org/influence-authorities-directly) on Telegram to find your local representatives and how to communicate with them.
+If you're in the US you can use the [weStandWithUkraine bot](https://supportukrainenow.org/influence-authorities-directly) on Telegram to find your local representatives and how to communicate with them.
 
 ## Updating this post
 If you have links or suggestions that are specific to your country, please update this post by making a PR to the [devopsdays/devopsdays-web github repo](https://github.com/devopsdays/devopsdays-web).
