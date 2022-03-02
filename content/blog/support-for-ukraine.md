@@ -2,6 +2,10 @@
 Title = "DevOpsDays Stands With Ukraine"
 Date = "2022-03-02T09:01:03-06:00"
 Author = "DevOpsDays Global Core Organizers"
+Aliases =  [
+    "/support-ukraine",
+    "/devopsdays-stands-with-ukraine"
+]
 +++
 The DevOpsDays community stands with our Ukrainian friends and family. We condemn the actions of Putin and his invasion of Ukraine. We urge all community members to do whatever they can to help Ukraine; whether it be donating money, time, influence, or all of the above.
 
