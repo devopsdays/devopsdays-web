@@ -51,6 +51,8 @@ World Central Kitchen is providing hot meals to Ukrainians as they cross the bor
 
 There are many Humanitarian and Support Charities.  For comprehensive lists across many countries, you can visit [https://supportukrainenow.org](https://supportukrainenow.org/) and <https://helpukrainewin.org/>.
 
+The [24.02 Fund](https://2402.org/) has been set up to help equip reporters and newsrooms in Ukraine with the necessary equipment, vehicles, and protective gear.
+
 If you feel comfortable doing so you can donate directly to the Ukrainian Army from anywhere in the world via the [National Bank of Ukraine](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi) or [Monobank](https://uahelp.monobank.ua/).
 
 Social Media
