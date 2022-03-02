@@ -77,6 +77,64 @@ You can transfer money to the following accounts:
 
 🇺🇦Link with all the help: https://helpukrainewin.org/
 
+The kinds of information you should think about including/sharing:
+
+1) Spread truthful information via your personal social media accounts 
+
+2) Share any links about shelters and seeking asylum status in your countries 
+
+3) Organize street protests in your city to support Ukraine and condemn Putin's invasion
+
+4) Contact your local MP or Representative in regards to supporting Ukraine
+
+Linkedin/Facebook/Other
+-----------------------
+
+[Example Facebook Post to share or copy](https://www.facebook.com/pczarkowski/posts/10158085058102396)
+
+[Example Linkedin Post to share or copy](https://www.linkedin.com/posts/paul-czarkowski-2670a545_standwithukraine-stopwar-standwithukraine-activity-6904463461242191872-40mH)
+
+Instagram
+---------
+
+Follow the [#cookforukraine hashtag](https://www.instagram.com/explore/tags/cookforukraine/) for many local fundraisers. It's also a good way to find Ukrainian influencers such as [Olia Hercules](https://www.instagram.com/oliahercules/) who are providing good content and links on Instagram.
+
+Your Employer
+=============
+
+1.  Reach out to your leadership and tell them to make a public statement in support of Ukraine by condemning the invasion.  
+
+2.  Ask them to donate immediately to support Ukraine.
+
+3.  Ask them to match your donations.  
+
+4.  Ask them to change any planned promoted tweets (or other social media) to promote helping Ukraine instead.
+
+5.  Ask for time off to work full-time on helping Ukraine in any way that you can.
+
+Your Government
+===============
+
+1.  Find the contacts of your state and local authorities and diplomats on the official government websites, contacts of journalists.
+
+2.  Share the [official letter](https://docs.google.com/document/d/18PaytL8rEd0Wi5AbBQ60z9oFP7aeUEjhYOmIjxNpnjc/edit) from a member of Verkhovna Rada, the Parliament of Ukraine, about the support Ukraine needs.
+
+Reach out to your local city and state leaders, reach out to your congressmen, presidents, MPs, etc.  
+
+1.  Demand that they help Ukraine
+
+2.  Insist that they help create a no-fly area over Ukraine
+
+3.  Demand that they send both Humanitarian and Military aid.  
+
+4.  Demand that they send in troops to help repel the invasion.
+
+5.  Demand that they immediately sever any financial ties with Russia
+
+6.  Insist that they freeze the assets of Russian Oligarchs
+
+If you're in the US you can use the[ weStandWithUkraine bot](https://supportukrainenow.org/influence-authorities-directly) on Telegram to find your local representatives and how to communicate with them.
+
 ## Updating this post
 If you have links or suggestions that are specific to your country, please update this post by making a PR to the [devopsdays/devopsdays-web github repo](https://github.com/devopsdays/devopsdays-web).
 
