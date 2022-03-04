@@ -3,7 +3,7 @@ Title = "Piet van Dongen"
 Linkedin = "https://www.linkedin.com/in/pietvandongencom/"
 Website = "http://www.pietvandongen.com/"
 Twitter = "pietvandongen"
-image = "Piet-vanDongen.jpg"
+image = "Piet-vanDongen.png"
 type = "speaker"
 linktitle = "Piet-vanDongen"
 +++

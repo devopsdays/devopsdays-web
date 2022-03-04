@@ -11,7 +11,7 @@ Description = "Devopsdays Prague 2022"
 
 <div class = "row">
   <div class = "col-md-6 push-md-6">
-    <b> The first DevOpsDays Prague was postponed because of the covid-19 situation but we are back on track and getting the event ready for you. CFP is open again to include new topics introduced after the original date. We are looking forward to see you all there!
+    <b> The first DevOpsDays Prague was postponed because of the covid-19 situation but we are back on track and getting the event ready for you. We are looking forward to see you all there!
     <br><br>
     All tickets and arrangements from the original event are still valid.</b>
     <br><br>
