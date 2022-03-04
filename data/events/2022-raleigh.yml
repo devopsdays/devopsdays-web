@@ -226,11 +226,11 @@ program:
     date: 2022-04-13
     start_time: "14:25"
     end_time: "14:45"
-  # - title: "talk-6"
-  #   type: talk
-  #   date: 2022-04-13
-  #   start_time: "14:45"
-  #   end_time: "15:15"
+  - title: "eric-schabell-keynote"
+    type: talk
+    date: 2022-04-13
+    start_time: "14:45"
+    end_time: "15:15"
   - title: "Special-Keynote"
     type: custom
     date: 2022-04-13
