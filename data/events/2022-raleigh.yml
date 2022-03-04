@@ -226,11 +226,11 @@ program:
     date: 2022-04-13
     start_time: "14:25"
     end_time: "14:45"
-  - title: "eran-bibi-keynote"
-    type: talk
-    date: 2022-04-13
-    start_time: "14:45"
-    end_time: "15:15"
+  # - title: "talk-6"
+  #   type: talk
+  #   date: 2022-04-13
+  #   start_time: "14:45"
+  #   end_time: "15:15"
   - title: "Special-Keynote"
     type: custom
     date: 2022-04-13
@@ -411,8 +411,6 @@ ignites:
   - title: "mike-butler-ignite"
     date: 2022-04-13
   - title: "peter-valdez-ignite"
-    date: 2022-04-13
-  - title: "eran-bibi-ignite"
     date: 2022-04-13
   - title: "jessica-fields-ignite"
     date: 2022-04-13
