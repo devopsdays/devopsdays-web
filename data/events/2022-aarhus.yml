@@ -109,6 +109,13 @@ sponsors:
     level: community
   - id: merkely
     level: silver
+  - id: 2022-humio
+    level: gold
+  - id: danske-commodities
+    level: Community
+    url: https://danskecommodities.com/careers/it/
+  - id: delegate
+    level: Community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
