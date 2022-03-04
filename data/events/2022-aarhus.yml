@@ -112,10 +112,10 @@ sponsors:
   - id: 2022-humio
     level: gold
   - id: danske-commodities
-    level: Community
+    level: community
     url: https://danskecommodities.com/careers/it/
   - id: delegate
-    level: Community
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
