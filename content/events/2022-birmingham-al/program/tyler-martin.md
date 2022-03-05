@@ -7,4 +7,4 @@ Type = "talk"
 Speakers = ["tyler-martin"]
 +++
 
-Lift authorization policies out of applications and manage them using GitOps practices! In this talk we’ll examine policy-as-code workflow for an application using an Open Policy Agent authorization policy and demonstrate Open Source tools that help with getting these policies published and signed.
+How often do you feel helpless while working remotely and what can we do about it? That’s the challenge that we have all faced during the pandemic. My goal for this speech is to act as a catalyst for cultural change and offer solutions to facilitate collaborative work environments while remote.
