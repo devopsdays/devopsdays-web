@@ -117,6 +117,28 @@ organizer_email: "amsterdam@devopsdays.org" # Put your organizer email address h
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  # BBQ
+  - id: schubergphilis
+    level: BBQ
+  # beer
+  - id: contrast_security
+    level: beer
+  # gala
+  # coffee
+  # gold
+  - id: vmware-tanzu
+    level: gold
+  # tshirt
+  # lanyard
+  # wristband
+  # recharge
+  # silver
+  - id: fullstaq
+    level: silver
+  # foodtrucks
+  # bronze
+  - id: stream
+    level: bronze
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
