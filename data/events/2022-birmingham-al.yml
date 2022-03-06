@@ -74,7 +74,10 @@ sponsors:
     level: bronze
   - id: cloudbees
     level: silver
-
+  - id: fetch-rewards
+    level: host
+  - id: adtrav
+    level: bronze
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
