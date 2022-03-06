@@ -2,7 +2,7 @@
 Title = "Peter Valdez"
 Twitter = ""
 linkedin = "https://www.linkedin.com/in/peter-valdez/"
-image = ""
+image = "peter-valdez.jpg"
 type = "speaker"
 linktitle = "peter-valdez"
 
