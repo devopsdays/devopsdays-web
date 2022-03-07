@@ -44,7 +44,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #  - name: program
 #    url: "https://devopsdays.io/agenda-2"
  # - name: speakers
- # - name: sponsor
+  - name: sponsor
  # - name: speakers
   - name: contact
   - name: conduct
