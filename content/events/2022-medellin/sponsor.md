@@ -204,7 +204,7 @@ Description = "Sponsor devopsdays Medellin 2021"
               <center>10 Tickets</center>
             </td>
             <td>
-              <center>10 Tickets</center>
+              <center>20 Tickets</center>
             </td>
           </tr>
 		  <tr>
