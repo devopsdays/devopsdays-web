@@ -130,6 +130,8 @@ sponsors:
     level: gold
   - id: relay
     level: gold
+  - id: spectrocloud
+    level: platinum
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
