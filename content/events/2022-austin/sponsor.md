@@ -4,9 +4,9 @@ Type = "event"
 Description = "Sponsor devopsdays Austin 2022"
 +++
 
-### Only 2 Sponsor Packages Left!
+### SOLD OUT!
 
-Contact the organizers now to claim one of the remaining sponsor packages. The only available packages are 2 of the happy hour packages.
+All sponsorship packages have been sold.
 
 ---
 
