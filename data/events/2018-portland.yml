@@ -92,7 +92,7 @@ sponsors:
     level: gold
   - id: cloudbolt
     level: gold
-  - id: rundeck
+  - id: rundeck-before-20220308
     level: gold
   - id: datadog
     level: gold

@@ -146,7 +146,7 @@ sponsors:
     level: gold
   - id: sps_commerce
     level: alacarte
-  - id: rundeck
+  - id: rundeck-before-20220308
     level: gold
   - id: signalfx
     level: platinum

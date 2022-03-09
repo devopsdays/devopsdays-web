@@ -89,7 +89,7 @@ sponsors_accepted : "true" # Whether you want "Become a XXX Sponsor!" link
 sponsors:
 - id: circleci
   level: silver
-- id: rundeck
+- id: rundeck-before-20220308
   level: gold
 - id: chef-before-20210112
   level: silver
