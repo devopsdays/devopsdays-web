@@ -130,6 +130,8 @@ sponsors:
     level: gold
   - id: relay
     level: gold
+  - id: spectrocloud
+    level: platinum
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -235,11 +237,11 @@ program:
     date: 2022-04-13
     start_time: "14:45"
     end_time: "15:15"
-  - title: "Special-Keynote"
+  - title: "Special - Ballantine Elementary School Robotics Program"
     type: custom
     date: 2022-04-13
     start_time: "15:15"
-    end_time: "16:25"
+    end_time: "16:15"
   - title: "Open Space Opening"
     type: open-space
     date: 2022-04-13
@@ -273,13 +275,13 @@ program:
   - title: "Close Day"
     type: custom
     date: 2022-04-13
-    start_time: "16:25"
-    end_time: "16:35"
+    start_time: "16:15"
+    end_time: "16:30"
   - title: "Evening event - Happy Hour"
     type: custom
     date: 2022-04-13
-    start_time: "16:35"
-    end_time: "18:30"
+    start_time: "16:30"
+    end_time: "18:00"
   - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2022-04-14
@@ -370,11 +372,11 @@ program:
     date: 2022-04-14
     start_time: "14:45"
     end_time: "15:15"
-  # - title: "talk-13"
-  #   type: talk
-  #   date: 2022-04-14
-  #   start_time: "15:15"
-  #   end_time: "15:45"
+  - title: "Special - WakeEd STEM"
+    type: talk
+    date: 2022-04-14
+    start_time: "15:15"
+    end_time: "16:00"
   - title: "Open Space Opening"
     type: open-space
     date: 2022-04-14
@@ -408,8 +410,8 @@ program:
   - title: "Raffle/Close Day"
     type: custom
     date: 2022-04-14
-    start_time: "15:45"
-    end_time: "16:00"
+    start_time: "16:00"
+    end_time: "16:30"
 
 ignites:
   - title: "mike-butler-ignite"
@@ -417,6 +419,8 @@ ignites:
   - title: "peter-valdez-ignite"
     date: 2022-04-13
   - title: "jessica-fields-ignite"
+    date: 2022-04-13
+  - title: "jonathan-vogel-ignite"
     date: 2022-04-13
   - title: "keith-zantow-ignite"
     date: 2022-04-14
