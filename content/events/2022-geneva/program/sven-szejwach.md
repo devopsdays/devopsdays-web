@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "How did we implement a zero trust credential system for our users, leveraging dynamic secrets, scope management and lease time."
+Title = "How did we implement a zero trust credential system for our users, leveraging dynamic secrets, scope management and lease time"
 Type = "talk"
 Speakers = ["sven-szejwach"]
 +++
