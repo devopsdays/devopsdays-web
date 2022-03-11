@@ -83,6 +83,12 @@ sponsors:
     level: community
   - id: github
     level: gold
+  - id: squaredup
+    level: silver
+  - id: pulumi
+    level: bronze
+  - id: devopsnotts
+    level: community
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -254,8 +260,10 @@ program:
     date: 2022-05-06T09:00:00+00:00
     start_time: "09:40"
     end_time: "10:10"
-  - title: "ayelet-sachto"
-    type: talk
+#  - title: "ayelet-sachto"
+  - title: TBD
+#    type: talk
+    type: custom
     date: 2022-05-06T09:00:00+00:00
     start_time: "10:10"
     end_time: "10:40"
@@ -264,8 +272,10 @@ program:
     date: 2022-05-06T09:00:00+00:00
     start_time: "10:40"
     end_time: "11:00"
-  - title: "angeliki-patsiavou"
-    type: talk
+#  - title: "angeliki-patsiavou"
+  - title: TBD
+#    type: talk
+    type: custom
     date: 2022-05-06T09:00:00+00:00
     start_time: "11:00"
     end_time: "11:30"
