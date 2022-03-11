@@ -120,7 +120,7 @@ team_members: # Name is the only required field for team members.
 
   - name: "Megan Bohl"
     employer: "NCR Corporation"
-    bio: "Megan was our Sponsor Liaison for DevOpsDays DFW 2017, and Volunteer for subsequent years.  She is joining the tech community with more than 15 years experience in supply chain operations and marketing in the fashion and consumer goods industries.   Megan has a particular interest in DevOps concepts and is looking forward to expanding her knowledge at DevOpsDays DFW."
+    bio: "Megan was our Sponsor Liaison for DevOpsDays DFW 2017, and Volunteer for subsequent years. She is joining the tech community with more than 15 years experience in supply chain operations and marketing in the fashion and consumer goods industries.  Megan has a particular interest in DevOps concepts and is looking forward to expanding her knowledge at DevOpsDays DFW."
     twitter: "MeganBohl"
     linkedin: "https://www.linkedin.com/in/megan-bohl/"
     image: "megan.jpg"
@@ -147,7 +147,7 @@ team_members: # Name is the only required field for team members.
 
   - name: "Russell W. Black"
     employer:  "Independent DevOps Consultant"
-    bio: "Russell has over 25 years of IT experience. Starting as a Web Developer, then moving into IT Leadership Russell was introduced to DevOps 5 years ago while managing platform and systems that ran the Verizon Global Website (www.verizon.com). He learned and adopted Agile and Cloud-First methologies from some of the most knowledgeable DevOps authorities.<br><br>For most of the past 10 years, he has managaged multi-cultural teams responsible for software development and delivery, production support, Operations, and end-user support of startegic enterprise business processes.<br><br>Currently Russell is an Independent Consultant working with IT Leadership of international industry leaders to help them adopt and foster a culture of DevOps; to help them keep their business ahead of the competition."
+    bio: "Russell currently serves as Manager of DevOps Engineering where his team encourages Dev Team autonomy for code and infrastructure pipelines. He has over 30 years of IT experience in a variety of technologies and industries. Starting as a Web Application Developer, then moving into IT Leadership Russell was introduced to DevOps in 2015 while managing platform and systems that supported the Verizon Global Website (www.verizon.com). He quickly adopted an agile / cloud-first methodology to improve feature speed and quality to the business.<br><br>Since 2008 Russell has led inclusive and empowered multi-cultural teams responsible for software development and delivery, production support, Operations, and DevOps."
     linkedin: "https://www.linkedin.com/in/russellblack/"
     image: "russell.jpg"
 

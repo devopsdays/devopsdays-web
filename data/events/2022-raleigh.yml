@@ -34,7 +34,7 @@ location: "McKimmon Conference & Training Center" # Defaults to city, but you ca
 location_address: "1101 Gorman Street, Raleigh, NC 27606" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+  # - name: propose
   - name: location
   - name: registration
     url: "https://www.eventbrite.com/e/devopsdays-raleigh-2022-tickets-149971423565?aff=ebdssbdestsearch"
@@ -120,8 +120,20 @@ sponsors:
     level: platinum
   - id: cloudbees
     level: gold
+  - id: phoenixnap
+    level: gold
+  - id: nirmata
+    level: gold
+  - id: aws
+    level: silver
+  - id: dynatrace
+    level: gold
+  - id: relay
+    level: gold
+  - id: spectrocloud
+    level: platinum
 
-sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -220,28 +232,28 @@ program:
     date: 2022-04-13
     start_time: "14:25"
     end_time: "14:45"
-  - title: "eran-bibi-keynote"
+  - title: "eric-schabell-keynote"
     type: talk
     date: 2022-04-13
     start_time: "14:45"
     end_time: "15:15"
-  - title: "Special-Keynote"
+  - title: "Special - Ballantine Elementary School Robotics Program"
     type: custom
     date: 2022-04-13
     start_time: "15:15"
-    end_time: "16:25"
+    end_time: "16:15"
   - title: "Open Space Opening"
-    type: custom
+    type: open-space
     date: 2022-04-13
     start_time: "13:55"
     end_time: "15:15"
   - title: "Open Space #1"
-    type: custom
+    type: open-space
     date: 2022-04-13
     start_time: "13:55"
     end_time: "14:25"
   - title: "Open Space #2"
-    type: custom
+    type: open-space
     date: 2022-04-13
     start_time: "14:45"
     end_time: "15:15"
@@ -263,13 +275,13 @@ program:
   - title: "Close Day"
     type: custom
     date: 2022-04-13
-    start_time: "16:25"
-    end_time: "16:35"
+    start_time: "16:15"
+    end_time: "16:30"
   - title: "Evening event - Happy Hour"
     type: custom
     date: 2022-04-13
-    start_time: "16:35"
-    end_time: "18:30"
+    start_time: "16:30"
+    end_time: "18:00"
   - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2022-04-14
@@ -360,23 +372,23 @@ program:
     date: 2022-04-14
     start_time: "14:45"
     end_time: "15:15"
-  # - title: "talk-13"
-  #   type: talk
-  #   date: 2022-04-14
-  #   start_time: "15:15"
-  #   end_time: "15:45"
+  - title: "Special - WakeEd STEM"
+    type: talk
+    date: 2022-04-14
+    start_time: "15:15"
+    end_time: "16:00"
   - title: "Open Space Opening"
-    type: custom
+    type: open-space
     date: 2022-04-14
     start_time: "13:55"
     end_time: "15:15"
   - title: "Open Space #3"
-    type: custom
+    type: open-space
     date: 2022-04-14
     start_time: "13:55"
     end_time: "14:25"
   - title: "Open Space #4"
-    type: custom
+    type: open-space
     date: 2022-04-14
     start_time: "14:45"
     end_time: "15:15"
@@ -398,17 +410,17 @@ program:
   - title: "Raffle/Close Day"
     type: custom
     date: 2022-04-14
-    start_time: "15:45"
-    end_time: "16:00"
+    start_time: "16:00"
+    end_time: "16:30"
 
 ignites:
   - title: "mike-butler-ignite"
     date: 2022-04-13
   - title: "peter-valdez-ignite"
     date: 2022-04-13
-  - title: "michael-roberts-ignite"
-    date: 2022-04-13
   - title: "jessica-fields-ignite"
+    date: 2022-04-13
+  - title: "jonathan-vogel-ignite"
     date: 2022-04-13
   - title: "keith-zantow-ignite"
     date: 2022-04-14
@@ -416,5 +428,5 @@ ignites:
     date: 2022-04-14
   - title: "jason-yee-ignite"
     date: 2022-04-14
-  - title: "eran-bibi-ignite"
+  - title: "michael-roberts-ignite"
     date: 2022-04-14

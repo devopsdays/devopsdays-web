@@ -26,8 +26,8 @@ cfp_link: "https://dodkrakow.pl/cfp2022/"
 registration_date_start: 
 registration_date_end: 
 
-registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: ""
+registration_closed: "" # set this to true if you need to manually close registration before your registration end date
+registration_link: "https://eventory.cc/event/devopsdays-krakow-2022"
 
 # Location
 #
@@ -37,8 +37,8 @@ location: ""
 location_address: ""
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-#  - name: registration
-#    url: "http://app.evenea.pl/event/dodkrakow2022"
+  - name: registration
+    url: "https://eventory.cc/event/devopsdays-krakow-2022"
 #  - name: propose
 #    url: "https://dodkrakow.pl/cfp2022/"
   - name: sponsor

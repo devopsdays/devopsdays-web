@@ -60,12 +60,12 @@ Sponsorship to be negotiated
       <td>Price</td>
       <td style="padding: 5px" align="center">$750</td>
       <td style="padding: 5px" align="center">$2,500</td>
-      <td style="padding: 5px" align="center">$7,500</td> 
+      <td style="padding: 5px" align="center">$5,000</td> 
     </tr>
     <tr>
       <td>Included Tickets</td>
       <td style="padding: 5px" align="center">2</td>
-      <td style="padding: 5px" align="center">5</td>
+      <td style="padding: 5px" align="center">4</td>
       <td style="padding: 5px" align="center">20</td>
     </tr>
     <tr>

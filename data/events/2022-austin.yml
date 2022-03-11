@@ -225,6 +225,14 @@ sponsors:
 #   - id: arresteddevops
 #     level: community
 sponsors:
+  - id: sixnines
+    level: happyhour
+  - id: spectrocloud
+    level: happyhour
+  - id: codefresh
+    level: happyhour
+  - id: microsoft
+    level: happyhour
   - id: liatrio
     level: platinum
   - id: linearb
@@ -249,6 +257,10 @@ sponsors:
     level: gold
   - id: erasoftware
     level: gold
+  - id: vmware-tanzu
+    level: gold
+  - id: squaredup
+    level: gold
   - id: mondoo
     level: lanyard
   - id: texasmutual
@@ -256,7 +268,7 @@ sponsors:
   - id: techstronggroup
     level: media
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For

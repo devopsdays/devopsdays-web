@@ -1,16 +1,20 @@
 +++
 Title = "devopsdays Aarhus 2021"
 Type = "welcome"
-aliases = ["/events/2021-aarhus/"]
+aliases = [
+  "/events/2021-aarhus/",
+  "/events/2021-aarhus/location/",
+]
 Description = "devopsdays Aarhus 2021"
 +++
+
+<h1>Due to the COVID-19 situation, we rescheduled the event from June 2020 to the spring of 2022. We will automatically postpone your ticket to these dates, unless you prefer a full refund of course.</h1>
+
+<h2><a href="/events/2022-aarhus">Join us at DevOpsDays Aarhus 2022!</a></h2>
+
 <div style="text-align:center;">
    {{< event_logo >}}
 </div>
-
-Due to the COVID-19 situation, we rescheduled the event from June 2020 to the spring of 2022. We will automatically postpone your ticket to these dates, unless you prefer a full refund of course.
-
-<a href="/events/2021-aarhus">Join us at DevOpsDays Aarhus 2022!</a>
 
 <!--
 <div class = "row">

@@ -1,10 +1,14 @@
 <!DOCTYPE html>
 <html itemscope lang="{{ .Site.LanguageCode }}">
 <head>
-    {{- partial "head.html" . -}}
+    {{- if .File -}}
+      {{- partialCached "head.html" . .File.Dir -}}
+    {{- else -}}
+      {{- partial "head.html" . -}}
+    {{- end -}}
 </head>
 <body lang="{{ .Site.Params.Lang }}">
-  {{- partial "global_navbar.html" . -}}
+  {{- partialCached "global_navbar.html" . -}}
   {{ if and (eq (index (split (.Permalink | relURL) "/") 1) "events") (ne .Type "events") }}
     {{- partial "events/event_navbar.html" . -}}
   {{ end }}
@@ -21,7 +25,7 @@
               </div>
                <div class="col-md-2 order-md-1">
                   <a href = "{{ "/events" }}" class="left-nav-navs">Table of Contents</a><br />
-                  {{- partial "toc.html" . -}}
+                  {{- partialCached "toc.html" . -}}
                </div>
 	    {{- else -}}
               <div class="col-md-8 order-md-12">
@@ -29,7 +33,7 @@
               </div>
               <div class="col-md-2 order-md-1">
                   <a href = "{{ "/events" }}" class="left-nav-navs">ALL EVENTS</a><br />
-                  {{- partial "future.html" . -}}
+                  {{- partialCached "future.html" . -}}
               </div>
             {{- end -}}
           {{- else -}}
@@ -38,7 +42,7 @@
             </div>
             <div class="col-md-2 order-md-1">
                 <a href = "{{ "/events"}}" class="left-nav-navs">ALL EVENTS</a><br />
-                {{- partial "future.html" . -}}
+                {{- partialCached "future.html" . -}}
             </div>
         {{- end -}}
         </div>

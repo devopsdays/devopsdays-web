@@ -4,10 +4,8 @@ Type = "event"
 Description = "Sponsor devopsdays Chicago 2022"
 +++
 
-We greatly value sponsors for this community event. If you are interested in sponsoring, please check out our <a href="https://assets.devopsdays.org/events/2022/chicago/2022-chicago-devopsdays-prospectus.pdf" target="_blank">prospectus</a> or <a href="mailto:chicago-sponsors@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Chicago%202022">send us an email</a>.
-
-
-
+<!-- We greatly value sponsors for this community event. If you are interested in sponsoring, please check out our <a href="https://assets.devopsdays.org/events/2022/chicago/2022-chicago-devopsdays-prospectus.pdf" target="_blank">prospectus</a> or <a href="mailto:chicago-sponsors@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Chicago%202022">send us an email</a>. -->
+We greatly value sponsors for this community event. If you are interested in sponsoring, please  <a href="mailto:chicago-sponsors@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Chicago%202022">send us an email</a>.
 <hr>
 
 devopsdays is a self organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.

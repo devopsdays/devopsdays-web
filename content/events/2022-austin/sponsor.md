@@ -4,9 +4,9 @@ Type = "event"
 Description = "Sponsor devopsdays Austin 2022"
 +++
 
-### Only 3 Sponsor Packages Left!
+### SOLD OUT!
 
-Contact the organizers now to claim one of the remaining sponsor packages. The only available packages are 3 of the happy hour packages.
+All sponsorship packages have been sold.
 
 ---
 
@@ -32,4 +32,4 @@ many of which will be previous year speakers
 
 ### Prospectus
 
-<a href="https://bit.ly/dodatx2022sponsor" class="btn btn-primary"><i class="fa fa-folder fa-lg"></i>&nbsp;&nbsp;&nbsp;View the DevOpsDays Austin 2022 Sponsor Prospectus</a>
+<a href="https://bit.ly/dodatx2022sponsor-v4" class="btn btn-primary"><i class="fa fa-folder fa-lg"></i>&nbsp;&nbsp;&nbsp;View the DevOpsDays Austin 2022 Sponsor Prospectus</a>

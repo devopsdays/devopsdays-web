@@ -24,7 +24,7 @@ registration_date_start: 2022-01-01T00:00:00+02:00 # start accepting registratio
 registration_date_end: 2022-06-21T23:59:59+02:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "true" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://dodams2022.eventbrite.com" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -39,7 +39,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: propose
     url: "https://sessionize.com/devopsdays-amsterdam-2022/"
   - name: location
-  # - name: registration
+  - name: registration
   # - name: program
   # - name: speakers
   - name: sponsor
@@ -117,6 +117,28 @@ organizer_email: "amsterdam@devopsdays.org" # Put your organizer email address h
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  # BBQ
+  - id: schubergphilis
+    level: BBQ
+  # beer
+  - id: contrast_security
+    level: beer
+  # gala
+  # coffee
+  # gold
+  - id: vmware-tanzu
+    level: gold
+  # tshirt
+  # lanyard
+  # wristband
+  # recharge
+  # silver
+  - id: fullstaq
+    level: silver
+  # foodtrucks
+  # bronze
+  - id: stream
+    level: bronze
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -125,26 +147,39 @@ sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  # - id: BBQ
-  #   label: BBQ
-  #   max: "1"
-  # - id: coffee
-  #   label: Coffee
-  #   max: "1"
-  # - id: gold
-  #   label: Gold
-  #   max: "8"
-  # - id: silver
-  #   label: Silver
-  #   max: "7"
-  # - id: recharge
-  #   label: "Power recharge"
-  #   max: "1"
-  # - id: lanyard
-  #   label: Lanyard
-  #   max: "1"
-  # - id: foodtrucks
-  #   label: "Food Trucks"
-  #   max: "3"
-  # - id: bronze
-  #   label: Bronze
+  - id: BBQ
+    label: BBQ
+    max: "1"
+  - id: beer
+    label: Beer
+    max: "1"
+  - id: gala
+    label: Gala
+    max: "1"
+  - id: coffee
+    label: Coffee
+    max: "1"
+  - id: gold
+    label: Gold
+    max: "8"
+  - id: tshirt
+    label: T-Shirt
+    max: "1"
+  - id: lanyard
+    label: Lanyard
+    max: "1"
+  - id: wristband
+    label: Wristband
+    max: "1"
+  - id: recharge
+    label: "Power recharge"
+    max: "1"
+  - id: silver
+    label: Silver
+    max: "8"
+  - id: foodtrucks
+    label: "Food Trucks"
+    max: "4"
+  - id: bronze
+    label: Bronze
+    max: "10"

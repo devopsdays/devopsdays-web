@@ -47,9 +47,9 @@ Description = "devopsdays Kraków 2022"
     </p>
   </div>
   <div class="text">
-    <a href="http://app.evenea.pl/event/dodkrakow2022" type="button" class="btn btn-danger btn-lg btn-block">REGISTRATION</a>
+    <a href="https://eventory.cc/event/devopsdays-krakow-2022" type="button" class="btn btn-danger btn-lg btn-block">REGISTRATION</a>
     <a href="mailto:olga.michaliszyn@proidea.pl " type="button" class="btn btn-danger btn-lg btn-block">SPONSOR</a>
-<!--     <a href="https://dodkrakow.pl/cfp2022/" type="button" class="btn btn-danger btn-lg btn-block">PROPOSE</a> -->
+    <a href="https://dodkrakow.pl/cfp2022/" type="button" class="btn btn-danger btn-lg btn-block">PROPOSE</a>
     <a href="/events/2022-krakow/contact" type="button" class="btn btn-danger btn-lg btn-block">CONTACT</a>
   </div>
 </div>
