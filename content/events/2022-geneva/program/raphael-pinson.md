@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "The Hare and the Tortoise Open Source, Standards & Technical Debt"
+Title = "The Hare and the Tortoise: Open Source, Standards & Technical Debt"
 Type = "talk"
 Speakers = ["raphael-pinson"]
 +++
