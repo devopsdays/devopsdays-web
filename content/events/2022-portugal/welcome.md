@@ -34,14 +34,14 @@ Description = "devopsdays portugal 2022"
   </div>
 </div> -->
 
-<!--<div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     <h5><strong>{{< event_link page="propose" text="CFP OPEN - Propose a talk!" >}}</strong></h5>
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -89,7 +89,7 @@ Description = "devopsdays portugal 2022"
 <div class="container">
   <div class="row">
     <div class="col-sm-6">
-      <p><b>DevOpsDays Portugal 2022 it's the second edition and it's powered by <a href="https://www.meetup.com/devopsporto/">DevOps Porto</a>, <a href="https://www.meetup.com/pt-BR/DevOps-Lisbon/">DevOps Lisbon</a>,  and <a href="https://www.meetup.com/DevOps-Braga/">DevOps Braga</a>, the three main communities dedicated to DevOps in Portugal.</b></p><p><b>For this edition we climbed north and have chosen Porto as the city that will host DevOpsDays Portugal second edition. More details ahead.</b></p>
+      <p><b>DevOpsDays Portugal 2022 it's the second edition and it's powered by <a href="https://www.meetup.com/devopsporto/">DevOps Porto</a> and <a href="https://www.meetup.com/pt-BR/DevOps-Lisbon/">DevOps Lisbon</a>, the main communities dedicated to DevOps in Portugal.</b></p><p><b>For this edition we climbed north and have chosen Porto as the city that will host DevOpsDays Portugal second edition. More details ahead.</b></p>
     </div>
     <div class="col-12">
       <div class="row justify-content-center">
