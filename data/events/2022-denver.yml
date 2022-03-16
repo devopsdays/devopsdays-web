@@ -225,7 +225,7 @@ program:
     end_time: "10:35"
   - title: "Break"
     type: custom
-    date: 2022-04-26T00:00:00-06:00
+    date: 2022-04-26T23:59:59-06:00
     start_time: "10:35"
     end_time: "10:50"
   - title: "dave-thompson"
