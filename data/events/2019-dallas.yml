@@ -250,7 +250,7 @@ sponsors:
     level: silver
   - id: chef-before-20210112
     level: gold
-  - id: rundeck
+  - id: rundeck-before-20220308
     level: gold      
   - id: azulsystems
     level: silver

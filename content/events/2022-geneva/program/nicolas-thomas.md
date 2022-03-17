@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Application Security Testing Orchestration (ASTO) : professional security on every iteration."
+Title = "Application Security Testing Orchestration (ASTO) : professional security on every iteration"
 Type = "talk"
 Speakers = ["nicolas-thomas"]
 +++

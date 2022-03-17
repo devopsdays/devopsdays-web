@@ -121,7 +121,7 @@ sponsors:
   - id: digitalocean
     level: starter
     url: "https://www.digitalocean.com/"
-  - id: vistaprint
+  - id: vista-cimpress
     level: starter
     url: "https://www.vistaprint.com/"  
   - id: microsoftazure
@@ -130,12 +130,15 @@ sponsors:
   - id: lineupr
     level: starter
     url: "https://lineupr.com/"  
-  - id: sessionm
+  - id: mastercard
     level: starter
-    url: "https://www.sessionm.com/"
+    url: "https://www.mastercardservices.com/en/solutions"
   - id: avast
     level: starter
     url: "https://www.avast.com/"    
+  - id: alicetechnologies
+    level: starter
+    url: "https://www.alicetechnologies.com"
   - id: inuits
     level: community
     url: "https://inuits.eu/"

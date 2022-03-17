@@ -1,6 +1,7 @@
 +++
 Title = "Cornelia Mosler"
 Linkedin = "https://www.linkedin.com/in/cornelia-mosler-279b69a7/"
+image = "cornelia-mosler.jpg"
 type = "speaker"
 linktitle = "cornelia-mosler"
 +++

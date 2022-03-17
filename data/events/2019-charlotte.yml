@@ -73,7 +73,7 @@ proposal_email: "proposals-charlotte-2019@devopsdays.org" # Put your proposal em
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: rundeck
+  - id: rundeck-before-20220308
     level: gold
   - id: gitlab
     level: silver

@@ -2,7 +2,7 @@
 Title = "DevOpsDays Birmingham, UK 2022"
 Type = "welcome"
 aliases = ["/events/2022-birmingham-uk/"]
-Description = "devopsdays birmingham, uk 2022"
+Description = "Devopsdays Birmingham, uk 2022"
 +++
 
 <!-- <div style="text-align:center;">
@@ -51,9 +51,6 @@ Description = "devopsdays birmingham, uk 2022"
         </div>
         <div class="p-2">
           <a class="btn btn-secondary btn-block" href="https://twitter.com/devopsdaysbrum"> <i class="fa fa-twitter fa-lg"></i>&nbsp;&nbsp;&nbsp;Follow us on Twitter</a>
-        </div>
-        <div class="p-2">
-          <a class="btn btn-secondary btn-block" href="https://sessionize.com/devopsdays-birmingham-uk-2022/"> <i class="fas fa-bullhorn fa-lg"></i>&nbsp;&nbsp;&nbsp;Submit your talk</a>
         </div>
       </div>
     </div>

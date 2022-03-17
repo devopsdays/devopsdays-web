@@ -6,7 +6,7 @@ description: "Devopsdays is coming to birmingham!" # Edit this to suit your pref
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 event_logo: logo.png
 event_group: "Birmingham, UK"
-
+sharing_image: "logo-square.jpg"
 # All dates are in unquoted 2022-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00
 #   variable: 2019-01-05T23:59:59+02:00
@@ -39,8 +39,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   # - name: propose
   # - name: location
   - name: registration
-  # - name: program
-#  - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -75,8 +75,20 @@ organizer_email: "birmingham-uk@devopsdays.org" # Put your organizer email addre
 sponsors:
   - id: civo
     level: silver
-  # - id: arresteddevops
-  #   level: community
+  - id: brumjs
+    level: community
+  - id: golang-birmingham
+    level: community
+  - id: fusion
+    level: community
+  - id: github
+    level: gold
+  - id: squaredup
+    level: silver
+  - id: pulumi
+    level: bronze
+  - id: devopsnotts
+    level: community
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -99,3 +111,256 @@ sponsor_levels:
     max: 5
   - id: community
     label: Community
+
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2022-05-05T09:00:00+00:00
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2022-05-05T09:00:00+00:00
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "marcel-britsch"
+    type: talk
+    date: 2022-05-05T09:00:00+00:00
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "bartłomiej-płotka"
+    type: talk
+    date: 2022-05-05T09:00:00+00:00
+    start_time: "09:45"
+    end_time: "10:15"
+  - title: "david-flanagan"
+    type: talk
+    date: 2022-05-05T09:00:00+00:00
+    start_time: "10:15"
+    end_time: "10:45"
+  - title: "Break"
+    type: custom
+    date: 2022-05-05T09:00:00+00:00
+    start_time: "10:45"
+    end_time: "11:00"
+  - title: "matt-machell"
+    type: talk
+    date: 2022-05-05T09:00:00+00:00
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "leon-adato"
+    type: talk
+    date: 2022-05-05T09:00:00+00:00
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "piet-van-dongen"
+    type: talk
+    date: 2022-05-05T09:00:00+00:00
+    start_time: "12:00"
+    end_time: "12:05"
+  - title: "noaa-barki"
+    type: talk
+    date: 2022-05-05T09:00:00+00:00
+    start_time: "12:05"
+    end_time: "12:10"
+  - title: "anais-urlichs"
+    type: talk
+    date: 2022-05-05T09:00:00+00:00
+    start_time: "12:10"
+    end_time: "12:15"
+  - title: "luigi-zoso"
+    type: talk
+    date: 2022-05-05T09:00:00+00:00
+    start_time: "12:15"
+    end_time: "12:20"
+  - title: "itiel-shwartz"
+    type: talk
+    date: 2022-05-05T09:00:00+00:00
+    start_time: "12:20"
+    end_time: "12:25"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2022-05-05T09:00:00+00:00
+    start_time: "12:25"
+    end_time: "12:35"
+  - title: "Lunch"
+    type: custom
+    date: 2022-05-05T09:00:00+00:00
+    start_time: "12:35"
+    end_time: "13:30"
+  - title: "Afternoon Schedule TBD"
+    type: custom
+    date: 2022-05-05T09:00:00+00:00
+    start_time: "13:30"
+    end_time: "16:40"
+#  - title: "Open Space Planning"
+#    type: custom
+#    date: 2022-05-05T09:00:00+00:00
+#    start_time: "13:30"
+#    end_time: "13:50"
+#  - title: "Open Space #1"
+#    type: custom
+#    date: 2022-05-05T09:00:00+00:00
+#    start_time: "13:50"
+#    end_time: "14:20"
+#  - title: "Open Space #2"
+#    type: custom
+#    date: 2022-05-05T09:00:00+00:00
+#    start_time: "14:20"
+#    end_time: "14:50"
+#  - title: "Open Space #3"
+#    type: custom
+#    date: 2022-05-05T09:00:00+00:00
+#    start_time: "14:50"
+#    end_time: "15:20"
+#  - title: "Break"
+#    type: custom
+#    date: 2022-05-05T09:00:00+00:00
+#    start_time: "15:20"
+#    end_time: "15:40"
+#  - title: "Open Space #4"
+#    type: custom
+#    date: 2022-05-05T09:00:00+00:00
+#    start_time: "15:40"
+#    end_time: "16:10"
+#  - title: "Open Space #5"
+#    type: custom
+#    date: 2022-05-05T09:00:00+00:00
+#    start_time: "16:10"
+#    end_time: "16:40"
+  - title: "Close Day"
+    type: custom
+    date: 2022-05-05T09:00:00+00:00
+    start_time: "16:40"
+    end_time: "17:00"
+#  - title: "Evening event"
+#    type: custom
+#    date: 2022-05-05T09:00:00+00:00
+#    start_time: "19:00"
+#    end_time: "late"
+
+# TODO day 2
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2022-05-06T09:00:00+00:00
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2022-05-06T09:00:00+00:00
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "simon-emms"
+    type: talk
+    date: 2022-05-06T09:00:00+00:00
+    start_time: "09:10"
+    end_time: "09:40"
+  - title: "martin-reynolds"
+    type: talk
+    date: 2022-05-06T09:00:00+00:00
+    start_time: "09:40"
+    end_time: "10:10"
+#  - title: "ayelet-sachto"
+  - title: TBD
+#    type: talk
+    type: custom
+    date: 2022-05-06T09:00:00+00:00
+    start_time: "10:10"
+    end_time: "10:40"
+  - title: "Break"
+    type: custom
+    date: 2022-05-06T09:00:00+00:00
+    start_time: "10:40"
+    end_time: "11:00"
+#  - title: "angeliki-patsiavou"
+  - title: TBD
+#    type: talk
+    type: custom
+    date: 2022-05-06T09:00:00+00:00
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "federico-fregosi"
+    type: talk
+    date: 2022-05-06T09:00:00+00:00
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "becky-pauley"
+    type: talk
+    date: 2022-05-06T09:00:00+00:00
+    start_time: "12:00"
+    end_time: "12:05"
+  - title: "yishai-beeri"
+    type: talk
+    date: 2022-05-06T09:00:00+00:00
+    start_time: "12:05"
+    end_time: "12:10"
+  - title: "matilde-aliffi"
+    type: talk
+    date: 2022-05-06T09:00:00+00:00
+    start_time: "12:10"
+    end_time: "12:15"
+  - title: "antonio-cobo"
+    type: talk
+    date: 2022-05-06T09:00:00+00:00
+    start_time: "12:15"
+    end_time: "12:20"
+  - title: "noa-goldman"
+    type: talk
+    date: 2022-05-06T09:00:00+00:00
+    start_time: "12:20"
+    end_time: "12:25"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2022-05-06T09:00:00+00:00
+    start_time: "12:25"
+    end_time: "12:35"
+  - title: "Lunch"
+    type: custom
+    date: 2022-05-06T09:00:00+00:00
+    start_time: "12:35"
+    end_time: "13:30"
+  - title: "Afternoon Schedule TBD"
+    type: custom
+    date: 2022-05-06T09:00:00+00:00
+    start_time: "13:30"
+    end_time: "16:40"
+#  - title: "Open Space Planning"
+#    type: custom
+#    date: 2022-05-06T09:00:00+00:00
+#    start_time: "13:30"
+#    end_time: "13:50"
+#  - title: "Open Space #1"
+#    type: custom
+#    date: 2022-05-06T09:00:00+00:00
+#    start_time: "13:50"
+#    end_time: "14:20"
+#  - title: "Open Space #2"
+#    type: custom
+#    date: 2022-05-06T09:00:00+00:00
+#    start_time: "14:20"
+#    end_time: "14:50"
+#  - title: "Open Space #3"
+#    type: custom
+#    date: 2022-05-06T09:00:00+00:00
+#    start_time: "14:50"
+#    end_time: "15:20"
+#  - title: "Break"
+#    type: custom
+#    date: 2022-05-06T09:00:00+00:00
+#    start_time: "15:20"
+#    end_time: "15:40"
+#  - title: "Open Space #4"
+#    type: custom
+#    date: 2022-05-06T09:00:00+00:00
+#    start_time: "15:40"
+#    end_time: "16:10"
+#  - title: "Open Space #5"
+#    type: custom
+#    date: 2022-05-06T09:00:00+00:00
+#    start_time: "16:10"
+#    end_time: "16:40"
+  - title: "Close Day"
+    type: custom
+    date: 2022-05-06T09:00:00+00:00
+    start_time: "16:40"
+    end_time: "17:00"

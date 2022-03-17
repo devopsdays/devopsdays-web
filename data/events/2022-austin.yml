@@ -37,10 +37,10 @@ location: "Etter-Harbin Alumni Center" # Defaults to city, but you can make it t
 location_address: "2110 San Jacinto Boulevard, Austin, Texas 78712" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+  # - name: propose
   - name: registration
  # - name: program
- # - name: speakers
+  - name: speakers
   - name: sponsor
   - name: location
   - name: contact
@@ -227,6 +227,12 @@ sponsors:
 sponsors:
   - id: sixnines
     level: happyhour
+  - id: spectrocloud
+    level: happyhour
+  - id: codefresh
+    level: happyhour
+  - id: microsoft
+    level: happyhour
   - id: liatrio
     level: platinum
   - id: linearb
@@ -262,7 +268,7 @@ sponsors:
   - id: techstronggroup
     level: media
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
