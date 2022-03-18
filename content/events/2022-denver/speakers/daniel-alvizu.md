@@ -1,7 +1,7 @@
 +++
 Title = "Daniel Alvizu"
 Twitter = ""
-image = "daniel-alvizu.png"
+image = "daniel-alvizu.jpeg"
 type = "speaker"
 linktitle = "daniel-alvizu"
 

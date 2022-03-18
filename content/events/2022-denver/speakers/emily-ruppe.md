@@ -1,7 +1,7 @@
 +++
 Title = "Emily Ruppe"
 Twitter = "themortalemily"
-image = "emily-ruppe.png"
+image = "emily-ruppe.jpeg"
 type = "speaker"
 linktitle = "emily-ruppe"
 
