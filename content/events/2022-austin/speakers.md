@@ -4,10 +4,11 @@ Type = "event"
 Description = "Speakers for devopsdays Austin 2022"
 +++
 
-Instead of the usual talks, these speakers (many of them previous speakers and attendees) will give a short, 20-minute talk on what they've learned over the last decade of DevOps.
+<div class="row">
+    <div class="col-md-6">
+        <h3 id="retro-talks">Retro Talks</h3><hr/>
 
-##### _On a siloed team again? Story of my life._
-**Kim My Cao**, Senior DevOps Engineer at Dover Fueling Solutions
+Instead of the usual talks, these speakers (many of them previous speakers and attendees) will give a short, 20-minute talk on what they've learned over the last decade of DevOps.
 
 ##### _5 lessons I've learned after falling down and getting back up_
 **Ana Margarita Medina**, Senior Chaos Engineer at Gremlin
@@ -45,14 +46,60 @@ Instead of the usual talks, these speakers (many of them previous speakers and a
 ##### _We Were Promised Flying Cars – A 10 Year Reflection on DevOps’ Impact on Security_
 **Dan Cornell**, VP, Product Strategy - Coalfire
 
-##### DevOps Tunnels: Is that a Light or a Train?
+##### _DevOps Tunnels: Is that a Light or a Train?_
 **Rob Hirschfeld**, RackN CEO/co-founder
 
-##### A Decade Past - A Decade Ahead	
+##### _A Decade Past - A Decade Ahead_
 **Pete Cheslock**, Professionally Unaffiliated
 
-##### **The Road Goes Ever On and On**
+##### _The Road Goes Ever On and On_
 **Oliver Eikenberry**, Mentor - Thinker - Father - Husband
+    </div>
+    <div class="col-md-6">
+        <h3 id="toasts">Toasts</h3><hr/>
+
+Five minute lightning talks where speakers share who, what, why they are grateful for from the world of DevOps. Short stories of gratitude related to the speaker's DevOps Journey.
+
+##### _The Grass is Never Greener on the Other Side_
+**Sam Manzer**, Reluctant Citizen of the Cloud
+
+##### _On a siloed team again? Story of my life._
+**Kim My Cao**, Senior DevOps Engineer at Dover Fueling Solutions
+
+##### _An Ode to Technical Debt_
+**Fatima Sarah Khalid (she/her)**, Developer Evangelist 🦊Gitlab
+
+##### _Adjacency and Finding Your Purpose_
+**Tracy P Holmes**, Developer Advocate @Codefresh
+
+##### _Dev to Ops and Back Again_
+**Nathaniel Eliot**, Senior SRE, Indeed
+
+##### _Wait... what do you mean I'm the mentor now?_
+**Will Button**, Build, grow, and scale your startup in healthcare, fitness, and education.
+
+##### _Monitoring Madness_
+**Ross Dickey**, Senior DevOp at LogicMonitor
+
+##### _Finally! Fine Dog Fine is NOT Fine._
+**Christa Meck**, Cloud Engineering Manager, Contrast Security
+
+##### _Network Engineering Goes DevOoopsie_
+**Marino Wijay**, Developer Advocate - DevRel @ Solo.io
+
+##### _My two-week temp role: nine years on._
+**Don Luchini**, DevOpsDays Boston organizer; Staff Engineer at SimpliSafe
+
+##### _60K "DevOps Engineer" Openings on LinkedIn: a Failure or a Success?_
+**Baruch Sadogursky**, Head of DevOps Advocacy @jfrog
+
+##### _Hits and Misses in DoD DevOps_
+**Mark Peters**, Lead Information Assurance, Security Engineer, Technica Corporation
+
+##### _The Seven Horses of Abductive Reasoning_
+**Chris Corriere**, sociotechnological Mathematician @ Large
+    </div>
+</div>
 
 <!--
 <div class="row">
