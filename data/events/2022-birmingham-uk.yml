@@ -305,8 +305,8 @@ program:
     date: 2022-05-06T09:00:00+00:00
     start_time: "12:00"
     end_time: "12:05"
-  - title: "yishai-beeri"
-    type: talk
+  - title: "TBD"
+    type: custom
     date: 2022-05-06T09:00:00+00:00
     start_time: "12:05"
     end_time: "12:10"
@@ -320,8 +320,6 @@ program:
     date: 2022-05-06T09:00:00+00:00
     start_time: "12:15"
     end_time: "12:20"
-#  - title: "noa-goldman"
-#    type: talk
   - title: TBD
     type: custom
     date: 2022-05-06T09:00:00+00:00
