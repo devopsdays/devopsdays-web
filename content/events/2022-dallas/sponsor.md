@@ -10,7 +10,7 @@ description = "Interested in sponsoring DevOpsDays Dallas 2022? We greatly value
 <div class = "row">
 <div class = "col-md-8 col-sm-12">
 <br>
-We greatly value sponsors for this community event. If you are interested in sponsoring, please check out our prospectus below. If you need a soft copy of our prospectus, click here to <a href="https://assets.devopsdays.org/events/2020/dallas/devopsdays_dallas_2020_sponsorships.pdf" target="_blank"><strong>download PDF</strong></a> or <a href="mailto:dallas@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Dallas%202022"><strong>send us an email</strong></a>.
+We greatly value sponsors for this community event. If you are interested in sponsoring, please check out our prospectus below. If you need a soft copy of our prospectus, click here to <a href="https://assets.devopsdays.org/events/2022/dallas/DevOpsDaysDallas2022Sponsorships.pdf" target="_blank"><strong>download PDF</strong></a> or <a href="mailto:dallas@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Dallas%202022"><strong>send us an email</strong></a>.
 
 <hr>
 
@@ -228,7 +228,8 @@ All Media / Community sponsors are entities we value as pillars of continuous le
             <li><i class="fa-li fa fa-check-square"></i>Logo and branding will be placed on the conference backpacks that are provided to all attendees.</li>
             <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on the DevOpsDays Dallas 2022 event website.</li>
             <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on all email communication.</li>
-            <li><i class="fa-li fa fa-check-square"></i>The purchase of lanyards is included in the price.</li></td>      <td>1</td>
+            <li><i class="fa-li fa fa-check-square"></i>The purchase of lanyards is included in the price.</li></td>
+      <td>1</td>
     </tr>
     <tr>
       <td align="center"><i class="fa fa-coffee fa-4x"></i></td>
