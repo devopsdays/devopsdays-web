@@ -1,7 +1,7 @@
 +++
 Title = "Kendall Miller"
 Twitter = "blatanterror"
-image = "kendall-miller.png"
+image = "kendall-miller.jpeg"
 type = "speaker"
 linktitle = "kendall-miller"
 

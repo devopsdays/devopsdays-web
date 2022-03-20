@@ -1,7 +1,7 @@
 +++
 Title = "Ajuna Kyaruzi"
 Twitter = "ajunaky"
-image = "ajuna-kyaruzi.png"
+image = "ajuna-kyaruzi.jpeg"
 type = "speaker"
 linktitle = "ajuna-kyaruzi"
 

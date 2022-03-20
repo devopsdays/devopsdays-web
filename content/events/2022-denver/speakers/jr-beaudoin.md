@@ -1,7 +1,7 @@
 +++
 Title = "JR Beaudoin"
 Twitter = "jiherr"
-image = "jr-beaudoin.png"
+image = "jr-beaudoin.jpeg"
 type = "speaker"
 linktitle = "jr-beaudoin"
 

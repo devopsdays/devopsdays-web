@@ -1,7 +1,7 @@
 +++
 Title = "Kristi Perreault"
 Twitter = "kperreault95"
-image = "kristi-perreault.png"
+image = "kristi-perreault.jpeg"
 type = "speaker"
 linktitle = "kristi-perreault"
 

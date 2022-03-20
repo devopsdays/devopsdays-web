@@ -1,7 +1,7 @@
 +++
 Title = "Matt Reynolds"
 Twitter = "mattreyuk"
-image = "matt-reynolds.png"
+image = "matt-reynolds.jpeg"
 type = "speaker"
 linktitle = "matt-reynolds"
 

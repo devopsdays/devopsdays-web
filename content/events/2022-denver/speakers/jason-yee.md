@@ -1,7 +1,7 @@
 +++
 Title = "Jason Yee"
 Twitter = "gitbisect"
-image = "jason-yee.png"
+image = "jason-yee.jpg"
 type = "speaker"
 linktitle = "jason-yee"
 

@@ -1,7 +1,7 @@
 +++
 Title = "Alex Wise"
 Twitter = "AWS_Snarkitect"
-image = "alex-wise.png"
+image = "alex-wise.jpeg"
 type = "speaker"
 linktitle = "alex-wise"
 

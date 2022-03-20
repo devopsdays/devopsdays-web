@@ -1,7 +1,7 @@
 +++
 Title = "Britton Broderick"
 Twitter = "brit_broderick"
-image = "britton-broderick.png"
+image = "britton-broderick.jpeg"
 type = "speaker"
 linktitle = "britton-broderick"
 
