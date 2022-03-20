@@ -9,8 +9,8 @@ Description = " "
 <p>
 Limited places available. <a href="https://www.eventbrite.co.uk/e/devopsdays-aarhus-2022-tickets-92256964063?aff=ebdssbeac">Secure your ticket today</a>!
 
-<img src="/events/2022-aarhus/sailing-center-venue.png"/><br /><br />
-<img src="/events/2022-aarhus/sailing-center-map.png"/><br />
+<img src="/events/2022-aarhus/savvaerket.png"/><br /><br />
+<img src="/events/2022-aarhus/savvaerket-map.png"/><br />
 <!-- Uncomment this only if you have set the coordinates for your location in the config yaml. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html -->
 <!-- {{< event_map >}} -->
 
