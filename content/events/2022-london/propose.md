@@ -1,4 +1,4 @@
-+
++++
 Title = "Propose"
 Type = "event"
 Description = "Propose a talk for devopsdays London 2022"
