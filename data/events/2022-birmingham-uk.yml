@@ -75,6 +75,22 @@ organizer_email: "birmingham-uk@devopsdays.org" # Put your organizer email addre
 sponsors:
   - id: civo
     level: silver
+  - id: mondoo
+    level: silver
+#  - id: teleport
+#    level: gold
+  - id: chef
+    level: gold
+#  - id: elastic
+#    level: silver
+#  - id: circleci
+#    level: gold
+#  - id: harness
+#    level: silver
+#  - id: veeam
+#    level: gold
+#  - id: buildkite
+#    level: gold
   - id: brumjs
     level: community
   - id: golang-birmingham
@@ -289,8 +305,8 @@ program:
     date: 2022-05-06T09:00:00+00:00
     start_time: "12:00"
     end_time: "12:05"
-  - title: "yishai-beeri"
-    type: talk
+  - title: "TBD"
+    type: custom
     date: 2022-05-06T09:00:00+00:00
     start_time: "12:05"
     end_time: "12:10"
@@ -304,8 +320,8 @@ program:
     date: 2022-05-06T09:00:00+00:00
     start_time: "12:15"
     end_time: "12:20"
-  - title: "noa-goldman"
-    type: talk
+  - title: TBD
+    type: custom
     date: 2022-05-06T09:00:00+00:00
     start_time: "12:20"
     end_time: "12:25"
