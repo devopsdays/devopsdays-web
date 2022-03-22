@@ -58,7 +58,7 @@ team_members: # Name is the only required field for team members.
     image: "sharone-zitzman.jpg"
 
   - name: "Lev Andelman"
-    twitter: "shar1z"
+    twitter: "tlvcommunity"
     employer: "Terasky"
     linkedin: "https://www.linkedin.com/in/levandelman/"
     website: "https://terasky.com"
@@ -88,7 +88,7 @@ team_members: # Name is the only required field for team members.
     image: "nati-cohen.jpg"
 
   - name: "Hila Fish"
-    twitter: ""
+    twitter: "Hilafish1"
     employer: "Wix"
     github: "hilafish"
     linkedin: https://www.linkedin.com/in/hila-fish-863949a/"
@@ -114,13 +114,13 @@ team_members: # Name is the only required field for team members.
   - name: "Avishai Ish-Shalom"
     twitter: "nukemberg"
     employer: "Null"
-    github: ""
+    github: "nukemberg"
     linkedin: "https://www.linkedin.com/in/sallyfields"
     website: "https://statscraft.org.il"
     image: "avishai-ishshalom.jpg"
 
   - name: "Victoriya Kalmanovich"
-    twitter: ""
+    twitter: "VickiToVictory1"
     employer: "Aspectiva"
     github: ""
     linkedin: "https://www.linkedin.com/in/sallyfields"
@@ -180,7 +180,7 @@ team_members: # Name is the only required field for team members.
     github: gilzellner"
     linkedin: "https://www.linkedin.com/in/gilzellner/"
     website: "https://wix.com"
-    image: ""
+    image: "gil-zellner.jpg"
 
 
 
