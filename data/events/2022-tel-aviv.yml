@@ -125,7 +125,7 @@ team_members: # Name is the only required field for team members.
     github: ""
     linkedin: "https://www.linkedin.com/in/sallyfields"
     website: "https://walmart.com"
-    image: ""
+    image: "vicky-kalm.jpeg"
 
   - name: "Tal Kimhi"
     twitter: "talkimhi"
