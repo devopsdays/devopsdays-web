@@ -168,7 +168,7 @@ program:
     start_time: "10:25"
     end_time: "10:55"
     background_color: "#fffa99"
-  - title: "Complexity 1"
+  - title: "SRE & Complexity 1"
     type: custom
     date: 2022-04-19
     start_time: "10:25"
@@ -186,7 +186,7 @@ program:
     start_time: "10:55"
     end_time: "11:25"
     background_color: "#fffa99"
-  - title: "Complexity 2"
+  - title: "SRE & Complexity 2"
     type: custom
     date: 2022-04-19
     start_time: "10:55"
@@ -301,7 +301,7 @@ program:
     start_time: "10:25"
     end_time: "10:55"
     background_color: "#fffa99"
-  - title: "Complexity 1"
+  - title: "SRE & Complexity 1"
     type: custom
     date: 2022-04-20
     start_time: "10:25"
@@ -320,7 +320,7 @@ program:
     start_time: "10:55"
     end_time: "11:25"
     background_color: "#fffa99"
-  - title: "Complexity 2"
+  - title: "SRE & Complexity 2"
     type: custom
     date: 2022-04-20
     start_time: "10:55"
