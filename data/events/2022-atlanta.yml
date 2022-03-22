@@ -144,7 +144,7 @@ program:
     start_time: "09:15"
     end_time: "09:25"
     background_color: "#d5c5ef"
-  - title: "Keynote 1"
+  - title: "The Org that DDD & BAPO Built with Nivia S. Henry"
     type: custom
     date: 2022-04-19
     start_time: "09:25"
@@ -277,7 +277,7 @@ program:
     start_time: "09:15"
     end_time: "09:25"
     background_color: "#d5c5ef"
-  - title: "Keynote 1"
+  - title: "Trust Nothing, Not Even This Talk! with André Henry"
     type: custom
     date: 2022-04-20
     start_time: "09:25"
