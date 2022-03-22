@@ -144,7 +144,7 @@ program:
     start_time: "09:15"
     end_time: "09:25"
     background_color: "#d5c5ef"
-  - title: "Keynote"
+  - title: "Keynote 2"
     type: custom
     date: 2022-04-19
     start_time: "09:25"
@@ -206,7 +206,7 @@ program:
     start_time: "11:55"
     end_time: "12:05"
     background_color: "#d5c5ef"
-  - title: "Keynote"
+  - title: "Keynote 1"
     type: custom
     date: 2022-04-19
     start_time: "12:05"
@@ -277,7 +277,7 @@ program:
     start_time: "09:15"
     end_time: "09:25"
     background_color: "#d5c5ef"
-  - title: "Keynote"
+  - title: "Keynote 2"
     type: custom
     date: 2022-04-20
     start_time: "09:25"
@@ -340,7 +340,7 @@ program:
     start_time: "11:55"
     end_time: "12:05"
     background_color: "#d5c5ef"
-  - title: "Keynote"
+  - title: "Keynote 1"
     type: custom
     date: 2022-04-20
     start_time: "12:05"
