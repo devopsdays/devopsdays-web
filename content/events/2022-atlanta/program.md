@@ -17,7 +17,7 @@ Description = "Program for devopsdays Atlanta 2022"
 <div class="col-lg-2 col-md-3 program-element program-talk">Keynote</div>
 <div class="col-lg-2 col-md-3 program-element program-custom">DevOps Track</div>
 <div class="col-lg-2 col-md-3 program-element program-workshop">Security Track</div>
-<div class="col-lg-2 col-md-3 program-element program-open-space">Complexity Track</div>
+<div class="col-lg-2 col-md-3 program-element program-open-space">SRE & Complexity Track</div>
 <div class="col-lg-2 col-md-3 program-element program-ignite">Ignite Talk</div>
 <br />
 </div>
