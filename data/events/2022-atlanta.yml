@@ -124,3 +124,285 @@ sponsor_levels:
     label: Platinum
   - id: gold
     label: Gold
+
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2022-04-19
+    start_time: "08:00"
+    end_time: "09:00"
+    background_color: "#d5c5ef"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2022-04-19
+    start_time: "09:00"
+    end_time: "09:15"
+    background_color: "#d5c5ef"
+  - title: "Sponsors"
+    type: custom
+    date: 2022-04-19
+    start_time: "09:15"
+    end_time: "09:25"
+    background_color: "#d5c5ef"
+  - title: "Keynote"
+    type: custom
+    date: 2022-04-19
+    start_time: "09:25"
+    end_time: "09:55"
+    background_color: "#abebff"
+  - title: "Break - divide room into tracks - visit sponsors"
+    type: custom
+    date: 2022-04-19
+    start_time: "09:55"
+    end_time: "10:25"
+    background_color: "#d5c5ef"
+  
+  - title: "DevOps 1"
+    type: custom
+    date: 2022-04-19
+    start_time: "10:25"
+    end_time: "10:55"
+  - title: "Security 1"
+    type: custom
+    date: 2022-04-19
+    start_time: "10:25"
+    end_time: "10:55"
+    background_color: "#fffa99"
+  - title: "Complexity 1"
+    type: custom
+    date: 2022-04-19
+    start_time: "10:25"
+    end_time: "10:55"
+    background_color: "#ffb566"
+  
+  - title: "DevOps 2"
+    type: custom
+    date: 2022-04-19
+    start_time: "10:55"
+    end_time: "11:25"
+  - title: "Security 2"
+    type: custom
+    date: 2022-04-19
+    start_time: "10:55"
+    end_time: "11:25"
+    background_color: "#fffa99"
+  - title: "Complexity 2"
+    type: custom
+    date: 2022-04-19
+    start_time: "10:55"
+    end_time: "11:25"
+    background_color: "#ffb566"
+  
+
+  - title: "Break - rejoin rooms - visit sponsors"
+    type: custom
+    date: 2022-04-19
+    start_time: "11:25"
+    end_time: "11:55"
+    background_color: "#d5c5ef"
+  - title: "Sponsors"
+    type: custom
+    date: 2022-04-19
+    start_time: "11:55"
+    end_time: "12:05"
+    background_color: "#d5c5ef"
+  - title: "Keynote"
+    type: custom
+    date: 2022-04-19
+    start_time: "12:05"
+    end_time: "12:35"
+    background_color: "#abebff"
+  - title: "Lunch"
+    type: custom
+    date: 2022-04-19
+    start_time: "12:35"
+    end_time: "13:35"
+    background_color: "#d5c5ef"
+  - title: "Ignites"
+    type: ignite
+    date: 2022-04-19
+    start_time: "13:35"
+    end_time: "14:05"
+
+  - title: "Open Space Opening"
+    type: custom
+    date: 2022-04-19
+    start_time: "14:05"
+    end_time: "14:35"
+    background_color: "#d5c5ef"
+    custom_url: "/pages/open-space-format"
+  - title: "Open Space #1"
+    type: custom
+    date: 2022-04-19
+    start_time: "14:35"
+    end_time: "15:15"
+    background_color: "#8ad0d3"
+  - title: "Open Space #2"
+    type: custom
+    date: 2022-04-19
+    start_time: "15:15"
+    end_time: "15:55"
+    background_color: "#8ad0d3"
+  - title: "Open Space #3: Visit the Aquarium"
+    type: custom
+    date: 2022-04-19
+    start_time: "16:00"
+    end_time: "16:45"
+    custom_url: "https://www.georgiaaquarium.org/wp-content/uploads/2019/02/Email_Brand-Anthem_01.47.mp4"
+    background_color: "#8ad0d3"
+  - title: "Evening event"
+    type: custom
+    date: 2022-04-19
+    start_time: "17:00"
+    end_time: "late"
+    custom_url: ""
+    background_color: "#d5c5ef"
+    
+
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2022-04-20
+    start_time: "08:00"
+    end_time: "09:00"
+    background_color: "#d5c5ef"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2022-04-20
+    start_time: "09:00"
+    end_time: "09:15"
+    background_color: "#d5c5ef"
+  - title: "Sponsors"
+    type: custom
+    date: 2022-04-20
+    start_time: "09:15"
+    end_time: "09:25"
+    background_color: "#d5c5ef"
+  - title: "Keynote"
+    type: custom
+    date: 2022-04-20
+    start_time: "09:25"
+    end_time: "09:55"
+    background_color: "#abebff"
+  - title: "Break - divide room into tracks - visit sponsors"
+    type: custom
+    date: 2022-04-20
+    start_time: "09:55"
+    end_time: "10:25"
+    background_color: "#d5c5ef"
+
+  - title: "DevOps 1"
+    type: custom
+    date: 2022-04-20
+    start_time: "10:25"
+    end_time: "10:55"
+  - title: "Security 1"
+    type: custom
+    date: 2022-04-20
+    start_time: "10:25"
+    end_time: "10:55"
+    background_color: "#fffa99"
+  - title: "Complexity 1"
+    type: custom
+    date: 2022-04-20
+    start_time: "10:25"
+    end_time: "10:55"
+    background_color: "#ffb566"
+  
+  
+  - title: "DevOps 2"
+    type: custom
+    date: 2022-04-20
+    start_time: "10:55"
+    end_time: "11:25"
+  - title: "Security 2"
+    type: custom
+    date: 2022-04-20
+    start_time: "10:55"
+    end_time: "11:25"
+    background_color: "#fffa99"
+  - title: "Complexity 2"
+    type: custom
+    date: 2022-04-20
+    start_time: "10:55"
+    end_time: "11:25"
+    background_color: "#ffb566"
+  
+
+  - title: "Break - rejoin rooms - visit sponsors"
+    type: custom
+    date: 2022-04-20
+    start_time: "11:25"
+    end_time: "11:55"
+    background_color: "#d5c5ef"
+  - title: "Sponsors"
+    type: custom
+    date: 2022-04-20
+    start_time: "11:55"
+    end_time: "12:05"
+    background_color: "#d5c5ef"
+  - title: "Keynote"
+    type: custom
+    date: 2022-04-20
+    start_time: "12:05"
+    end_time: "12:35"
+    background_color: "#abebff"
+  - title: "Lunch"
+    type: custom
+    date: 2022-04-20
+    start_time: "12:35"
+    end_time: "13:35"
+    background_color: "#d5c5ef"
+  - title: "Ignites"
+    type: ignite
+    date: 2022-04-20
+    start_time: "13:35"
+    end_time: "14:05"
+
+  - title: "Open Space Opening"
+    type: custom
+    date: 2022-04-20
+    start_time: "14:05"
+    end_time: "14:35"
+    background_color: "#d5c5ef"
+    custom_url: "/pages/open-space-format"
+  - title: "Open Space #1"
+    type: custom
+    date: 2022-04-20
+    start_time: "14:35"
+    end_time: "15:15"
+    background_color: "#8ad0d3"
+  - title: "Open Space #2"
+    type: custom
+    date: 2022-04-20
+    start_time: "15:15"
+    end_time: "15:55"
+    background_color: "#8ad0d3"
+  - title: "Open Space #3: Visit the Aquarium"
+    type: custom
+    date: 2022-04-20
+    start_time: "16:00"
+    end_time: "16:45"
+    background_color: "#8ad0d3"
+    custom_url: "https://www.georgiaaquarium.org/wp-content/uploads/2019/02/Email_Brand-Anthem_01.47.mp4"
+
+ignites:
+  - title: "poppy-vila"
+    date: 2022-04-19
+  - title: "jj-asghar"
+    date: 2022-04-19
+  - title: "caroline-dickey"
+    date: 2022-04-19
+  - title: "aaron-aldrich"
+    date: 2022-04-19
+  
+  
+  - title: "ian-rose"
+    date: 2022-04-20
+  - title: "jeff-lu"
+    date: 2022-04-20
+  - title: "ravi-lachman"
+    date: 2022-04-20
+  - title: "josh-atwell"
+    date: 2022-04-20
+  - title: "spencer-malone"
+    date: 2022-04-20
