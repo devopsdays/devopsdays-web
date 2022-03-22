@@ -290,18 +290,18 @@ program:
     end_time: "10:25"
     background_color: "#d5c5ef"
 
-  - title: "DevOps 1"
+  - title: "Migrating a monolith to Cloud-Native and the stumbling blocks that you don’t know about with J.J. Ashgar"
     type: custom
     date: 2022-04-20
     start_time: "10:25"
     end_time: "10:55"
-  - title: "Security 1"
+  - title: "Service Mess to Service Mesh with Rob Richardson"
     type: custom
     date: 2022-04-20
     start_time: "10:25"
     end_time: "10:55"
     background_color: "#fffa99"
-  - title: "SRE & Complexity 1"
+  - title: "Sustainable Incident Management with Ajuna Kyaruzi"
     type: custom
     date: 2022-04-20
     start_time: "10:25"
@@ -309,7 +309,7 @@ program:
     background_color: "#ffb566"
   
   
-  - title: "DevOps 2"
+  - title: "Production-ready apps on AWS simplified with Martin Rojas"
     type: custom
     date: 2022-04-20
     start_time: "10:55"
@@ -320,7 +320,7 @@ program:
     start_time: "10:55"
     end_time: "11:25"
     background_color: "#fffa99"
-  - title: "SRE & Complexity 2"
+  - title: "Regress to Progress: A Child’s Mindset for Growth with Rain Leander"
     type: custom
     date: 2022-04-20
     start_time: "10:55"
