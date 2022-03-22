@@ -157,30 +157,30 @@ program:
     end_time: "10:25"
     background_color: "#d5c5ef"
   
-  - title: "DevOps 1"
+  - title: "Build Custom Cloud Images with Packer & Ansible with Mason Egger"
     type: custom
     date: 2022-04-19
     start_time: "10:25"
     end_time: "10:55"
-  - title: "Security 1"
+  - title: "What Would Deming Do - Cyberwarfare with John Willis"
     type: custom
     date: 2022-04-19
     start_time: "10:25"
     end_time: "10:55"
     background_color: "#fffa99"
-  - title: "SRE & Complexity 1"
+  - title: "Trauma-informed Site Reliability Engineering with Lesley Cordero"
     type: custom
     date: 2022-04-19
     start_time: "10:25"
     end_time: "10:55"
     background_color: "#ffb566"
   
-  - title: "DevOps 2"
+  - title: "Building and Leading Remote Teams with Amber Vanderburg"
     type: custom
     date: 2022-04-19
     start_time: "10:55"
     end_time: "11:25"
-  - title: "Security 2"
+  - title: "Argue Better with Active Listening with Waldo Grunenwald"
     type: custom
     date: 2022-04-19
     start_time: "10:55"
