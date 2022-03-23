@@ -180,7 +180,7 @@ program:
     date: 2022-04-19
     start_time: "10:55"
     end_time: "11:25"
-  - title: "Argue Better with Active Listening with Waldo Grunenwald"
+  - title: "Argue Better with Active Listening with H. \"Waldo\" Grunenwald"
     type: custom
     date: 2022-04-19
     start_time: "10:55"
@@ -386,23 +386,23 @@ program:
     custom_url: "https://www.georgiaaquarium.org/wp-content/uploads/2019/02/Email_Brand-Anthem_01.47.mp4"
 
 ignites:
-  - title: "poppy-vila"
+  - title: "Ignite 1"
     date: 2022-04-19
-  - title: "jj-asghar"
+  - title: "Ignite 2"
     date: 2022-04-19
-  - title: "caroline-dickey"
+  - title: "Ignite 3"
     date: 2022-04-19
-  - title: "aaron-aldrich"
+  - title: "Ignite 4"
     date: 2022-04-19
   
   
-  - title: "ian-rose"
+  - title: "Ignite 1"
     date: 2022-04-20
-  - title: "jeff-lu"
+  - title: "Ignite 2"
     date: 2022-04-20
-  - title: "ravi-lachman"
+  - title: "Ignite 3"
     date: 2022-04-20
-  - title: "josh-atwell"
+  - title: "Ignite 4"
     date: 2022-04-20
-  - title: "spencer-malone"
+  - title: "Ignite 5"
     date: 2022-04-20
