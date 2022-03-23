@@ -241,8 +241,8 @@ program:
     date: 2022-04-13
     start_time: "14:45"
     end_time: "15:15"
-  - title: "Special - Ballantine Elementary School Robotics Program"
-    type: custom
+  - title: "sonia-clark-and-ballantine-robotics-program"
+    type: talk
     date: 2022-04-13
     start_time: "15:15"
     end_time: "16:15"
@@ -376,11 +376,16 @@ program:
     date: 2022-04-14
     start_time: "14:45"
     end_time: "15:15"
-  - title: "Special - WakeEd STEM"
+  - title: "jody-paramore"
     type: talk
     date: 2022-04-14
     start_time: "15:15"
-    end_time: "16:00"
+    end_time: "15:40"
+  - title: "wakeed-stem-ncsu-citizen-science-club"
+    type: talk
+    date: 2022-04-14
+    start_time: "15:40"
+    end_time: "16:05"
   - title: "Open Space Opening"
     type: open-space
     date: 2022-04-14
@@ -414,7 +419,7 @@ program:
   - title: "Raffle/Close Day"
     type: custom
     date: 2022-04-14
-    start_time: "16:00"
+    start_time: "16:05"
     end_time: "16:30"
 
 ignites:
