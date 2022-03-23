@@ -1,6 +1,6 @@
 name: "2022-atlanta" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2022" # The year of the event. Make sure it is in quotes.
-city: "atlanta" # The displayed city name of the event. Capitalize it.
+city: "Atlanta" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysATL" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "Devopsdays is coming to the Georgia Aquarium, again!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
@@ -141,8 +141,8 @@ program:
     date: 2022-04-19
     start_time: "09:15"
     end_time: "09:25"
-  - title: "The Org that DDD & BAPO Built with Nivia S. Henry"
-    type: custom
+  - title: "nivia-henry"
+    type: talk
     date: 2022-04-19
     start_time: "09:25"
     end_time: "09:55"
@@ -153,33 +153,33 @@ program:
     start_time: "09:55"
     end_time: "10:25"
   
-  - title: "Build Custom Cloud Images with Packer & Ansible with Mason Egger"
-    type: custom
+  - title: "mason-egger"
+    type: talk
     date: 2022-04-19
     start_time: "10:25"
     end_time: "10:55"
     background_color: "#d5c5ef"
-  - title: "What Would Deming Do - Cyberwarfare with John Willis"
-    type: custom
+  - title: "john-willis"
+    type: talk
     date: 2022-04-19
     start_time: "10:25"
     end_time: "10:55"
     background_color: "#fffa99"
-  - title: "Trauma-informed Site Reliability Engineering with Lesley Cordero"
-    type: custom
+  - title: "lesley-cordero"
+    type: talk
     date: 2022-04-19
     start_time: "10:25"
     end_time: "10:55"
     background_color: "#8ad0d3"
   
-  - title: "Building and Leading Remote Teams with Amber Vanderburg"
-    type: custom
+  - title: "amber-vanderburg"
+    type: talk
     date: 2022-04-19
     start_time: "10:55"
     end_time: "11:25"
     background_color: "#d5c5ef"
-  - title: "Argue Better with Active Listening with H. \"Waldo\" Grunenwald"
-    type: custom
+  - title: "waldo-grunenwald"
+    type: talk
     date: 2022-04-19
     start_time: "10:55"
     end_time: "11:25"
@@ -265,8 +265,8 @@ program:
     date: 2022-04-20
     start_time: "09:15"
     end_time: "09:25"
-  - title: "Trust Nothing, Not Even This Talk! with André Henry"
-    type: custom
+  - title: "andre-henry"
+    type: talk
     date: 2022-04-20
     start_time: "09:25"
     end_time: "09:55"
@@ -277,27 +277,27 @@ program:
     start_time: "09:55"
     end_time: "10:25"
 
-  - title: "Migrating a monolith to Cloud-Native and the stumbling blocks that you don’t know about with J.J. Ashgar"
-    type: custom
+  - title: "jj-ashgar"
+    type: talk
     date: 2022-04-20
     start_time: "10:25"
     end_time: "10:55"
     background_color: "#d5c5ef"
-  - title: "Service Mess to Service Mesh with Rob Richardson"
-    type: custom
+  - title: "rob-richardson"
+    type: talk
     date: 2022-04-20
     start_time: "10:25"
     end_time: "10:55"
     background_color: "#fffa99"
-  - title: "Sustainable Incident Management with Ajuna Kyaruzi"
-    type: custom
+  - title: "ajuna-kyaruzi"
+    type: talk
     date: 2022-04-20
     start_time: "10:25"
     end_time: "10:55"
     background_color: "#8ad0d3"
   
   
-  - title: "Production-ready apps on AWS simplified with Martin Rojas"
+  - title: "martin-rojas"
     type: custom
     date: 2022-04-20
     start_time: "10:55"
@@ -309,8 +309,8 @@ program:
     start_time: "10:55"
     end_time: "11:25"
     background_color: "#fffa99"
-  - title: "Regress to Progress: A Child’s Mindset for Growth with Rain Leander"
-    type: custom
+  - title: "rain-leander"
+    type: talk
     date: 2022-04-20
     start_time: "10:55"
     end_time: "11:25"
