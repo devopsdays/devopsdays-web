@@ -214,10 +214,11 @@ program:
     start_time: "12:35"
     end_time: "13:35"
   - title: "Ignites"
-    type: ignite
+    type: custom
     date: 2022-04-19
     start_time: "13:35"
     end_time: "14:05"
+    background_color: "#c3ffd7"
 
   - title: "Open Space Opening"
     type: open-space
@@ -338,10 +339,11 @@ program:
     start_time: "12:35"
     end_time: "13:35"
   - title: "Ignites"
-    type: ignite
+    type: custom
     date: 2022-04-20
     start_time: "13:35"
     end_time: "14:05"
+    background_color: "#c3ffd7"
 
   - title: "Open Space Opening"
     type: open-space
@@ -365,25 +367,3 @@ program:
     start_time: "16:00"
     end_time: "16:45"
     custom_url: "https://www.georgiaaquarium.org/wp-content/uploads/2019/02/Email_Brand-Anthem_01.47.mp4"
-
-ignites:
-  - title: "Ignite 1"
-    date: 2022-04-19
-  - title: "Ignite 2"
-    date: 2022-04-19
-  - title: "Ignite 3"
-    date: 2022-04-19
-  - title: "Ignite 4"
-    date: 2022-04-19
-  
-  
-  - title: "Ignite 1"
-    date: 2022-04-20
-  - title: "Ignite 2"
-    date: 2022-04-20
-  - title: "Ignite 3"
-    date: 2022-04-20
-  - title: "Ignite 4"
-    date: 2022-04-20
-  - title: "Ignite 5"
-    date: 2022-04-20
