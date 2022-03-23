@@ -131,19 +131,16 @@ program:
     date: 2022-04-19
     start_time: "08:00"
     end_time: "09:00"
-    background_color: "#d5c5ef"
   - title: "Opening Welcome"
     type: custom
     date: 2022-04-19
     start_time: "09:00"
     end_time: "09:15"
-    background_color: "#d5c5ef"
   - title: "Sponsors"
     type: custom
     date: 2022-04-19
     start_time: "09:15"
     end_time: "09:25"
-    background_color: "#d5c5ef"
   - title: "The Org that DDD & BAPO Built with Nivia S. Henry"
     type: custom
     date: 2022-04-19
@@ -155,13 +152,13 @@ program:
     date: 2022-04-19
     start_time: "09:55"
     end_time: "10:25"
-    background_color: "#d5c5ef"
   
   - title: "Build Custom Cloud Images with Packer & Ansible with Mason Egger"
     type: custom
     date: 2022-04-19
     start_time: "10:25"
     end_time: "10:55"
+    background_color: "#d5c5ef"
   - title: "What Would Deming Do - Cyberwarfare with John Willis"
     type: custom
     date: 2022-04-19
@@ -173,13 +170,14 @@ program:
     date: 2022-04-19
     start_time: "10:25"
     end_time: "10:55"
-    background_color: "#ffb566"
+    background_color: "#8ad0d3"
   
   - title: "Building and Leading Remote Teams with Amber Vanderburg"
     type: custom
     date: 2022-04-19
     start_time: "10:55"
     end_time: "11:25"
+    background_color: "#d5c5ef"
   - title: "Argue Better with Active Listening with H. \"Waldo\" Grunenwald"
     type: custom
     date: 2022-04-19
@@ -191,7 +189,7 @@ program:
     date: 2022-04-19
     start_time: "10:55"
     end_time: "11:25"
-    background_color: "#ffb566"
+    background_color: "#8ad0d3"
   
 
   - title: "Break - rejoin rooms - visit sponsors"
@@ -199,13 +197,11 @@ program:
     date: 2022-04-19
     start_time: "11:25"
     end_time: "11:55"
-    background_color: "#d5c5ef"
   - title: "Sponsors"
     type: custom
     date: 2022-04-19
     start_time: "11:55"
     end_time: "12:05"
-    background_color: "#d5c5ef"
   - title: "Keynote 2"
     type: custom
     date: 2022-04-19
@@ -217,7 +213,6 @@ program:
     date: 2022-04-19
     start_time: "12:35"
     end_time: "13:35"
-    background_color: "#d5c5ef"
   - title: "Ignites"
     type: ignite
     date: 2022-04-19
@@ -225,38 +220,33 @@ program:
     end_time: "14:05"
 
   - title: "Open Space Opening"
-    type: custom
+    type: open-space
     date: 2022-04-19
     start_time: "14:05"
     end_time: "14:35"
-    background_color: "#d5c5ef"
     custom_url: "/pages/open-space-format"
   - title: "Open Space #1"
-    type: custom
+    type: open-space
     date: 2022-04-19
     start_time: "14:35"
     end_time: "15:15"
-    background_color: "#8ad0d3"
   - title: "Open Space #2"
-    type: custom
+    type: open-space
     date: 2022-04-19
     start_time: "15:15"
     end_time: "15:55"
-    background_color: "#8ad0d3"
   - title: "Open Space #3: Visit the Aquarium"
-    type: custom
+    type: open-space
     date: 2022-04-19
     start_time: "16:00"
     end_time: "16:45"
     custom_url: "https://www.georgiaaquarium.org/wp-content/uploads/2019/02/Email_Brand-Anthem_01.47.mp4"
-    background_color: "#8ad0d3"
   - title: "Evening event"
     type: custom
     date: 2022-04-19
     start_time: "17:00"
     end_time: "late"
     custom_url: ""
-    background_color: "#d5c5ef"
     
 
   - title: "Registration, Breakfast, Sponsors"
@@ -264,19 +254,16 @@ program:
     date: 2022-04-20
     start_time: "08:00"
     end_time: "09:00"
-    background_color: "#d5c5ef"
   - title: "Opening Welcome"
     type: custom
     date: 2022-04-20
     start_time: "09:00"
     end_time: "09:15"
-    background_color: "#d5c5ef"
   - title: "Sponsors"
     type: custom
     date: 2022-04-20
     start_time: "09:15"
     end_time: "09:25"
-    background_color: "#d5c5ef"
   - title: "Trust Nothing, Not Even This Talk! with André Henry"
     type: custom
     date: 2022-04-20
@@ -288,13 +275,13 @@ program:
     date: 2022-04-20
     start_time: "09:55"
     end_time: "10:25"
-    background_color: "#d5c5ef"
 
   - title: "Migrating a monolith to Cloud-Native and the stumbling blocks that you don’t know about with J.J. Ashgar"
     type: custom
     date: 2022-04-20
     start_time: "10:25"
     end_time: "10:55"
+    background_color: "#d5c5ef"
   - title: "Service Mess to Service Mesh with Rob Richardson"
     type: custom
     date: 2022-04-20
@@ -306,7 +293,7 @@ program:
     date: 2022-04-20
     start_time: "10:25"
     end_time: "10:55"
-    background_color: "#ffb566"
+    background_color: "#8ad0d3"
   
   
   - title: "Production-ready apps on AWS simplified with Martin Rojas"
@@ -314,6 +301,7 @@ program:
     date: 2022-04-20
     start_time: "10:55"
     end_time: "11:25"
+    background_color: "#d5c5ef"
   - title: "Security 2"
     type: custom
     date: 2022-04-20
@@ -325,7 +313,7 @@ program:
     date: 2022-04-20
     start_time: "10:55"
     end_time: "11:25"
-    background_color: "#ffb566"
+    background_color: "#8ad0d3"
   
 
   - title: "Break - rejoin rooms - visit sponsors"
@@ -333,13 +321,11 @@ program:
     date: 2022-04-20
     start_time: "11:25"
     end_time: "11:55"
-    background_color: "#d5c5ef"
   - title: "Sponsors"
     type: custom
     date: 2022-04-20
     start_time: "11:55"
     end_time: "12:05"
-    background_color: "#d5c5ef"
   - title: "Keynote 2"
     type: custom
     date: 2022-04-20
@@ -351,7 +337,6 @@ program:
     date: 2022-04-20
     start_time: "12:35"
     end_time: "13:35"
-    background_color: "#d5c5ef"
   - title: "Ignites"
     type: ignite
     date: 2022-04-20
@@ -359,30 +344,26 @@ program:
     end_time: "14:05"
 
   - title: "Open Space Opening"
-    type: custom
+    type: open-space
     date: 2022-04-20
     start_time: "14:05"
     end_time: "14:35"
-    background_color: "#d5c5ef"
     custom_url: "/pages/open-space-format"
   - title: "Open Space #1"
-    type: custom
+    type: open-space
     date: 2022-04-20
     start_time: "14:35"
     end_time: "15:15"
-    background_color: "#8ad0d3"
   - title: "Open Space #2"
-    type: custom
+    type: open-space
     date: 2022-04-20
     start_time: "15:15"
     end_time: "15:55"
-    background_color: "#8ad0d3"
   - title: "Open Space #3: Visit the Aquarium"
-    type: custom
+    type: open-space
     date: 2022-04-20
     start_time: "16:00"
     end_time: "16:45"
-    background_color: "#8ad0d3"
     custom_url: "https://www.georgiaaquarium.org/wp-content/uploads/2019/02/Email_Brand-Anthem_01.47.mp4"
 
 ignites:
