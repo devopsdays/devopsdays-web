@@ -53,7 +53,7 @@ Please email the organizers at <a href="mailto:dallas@devopsdays.org?subject=Gen
         <!-- platinum Paypal button --> 
         <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
           <input type="hidden" name="cmd" value="_s-xclick">
-          <input type="hidden" name="hosted_button_id" value="">
+          <input type="hidden" name="hosted_button_id" value="GNR4HVH2BR4UA">
           <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
           <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
         </form>
@@ -63,7 +63,7 @@ Please email the organizers at <a href="mailto:dallas@devopsdays.org?subject=Gen
         <!-- gold Paypal button -->
         <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
           <input type="hidden" name="cmd" value="_s-xclick">
-          <input type="hidden" name="hosted_button_id" value="">
+          <input type="hidden" name="hosted_button_id" value="QGEFGDR6XFRP2">
           <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
           <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
         </form>
@@ -73,7 +73,7 @@ Please email the organizers at <a href="mailto:dallas@devopsdays.org?subject=Gen
         <!-- silver Paypal button -->
         <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
           <input type="hidden" name="cmd" value="_s-xclick">
-          <input type="hidden" name="hosted_button_id" value="">
+          <input type="hidden" name="hosted_button_id" value="MCC6ADNWPHTGC">
           <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
           <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
         </form> 
@@ -206,7 +206,15 @@ All Media / Community sponsors are entities we value as pillars of continuous le
     <tr>
       <td align="center"><i class="fa fa-music fa-4x"></i></td>
       <td>Happy Hour</td>
-      <td>$10,000</td>
+      <td align="center">$10,000
+        <br><br>
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+            <input type="hidden" name="cmd" value="_s-xclick">
+            <input type="hidden" name="hosted_button_id" value="7N7YJXNS9X9JS">
+            <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+            <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+          </form> 
+      </td>
       <td>Happy Hour will be held both evenings of the event. All conference attendees will be invited to a happy hour. The Happy Hour sponsorship includes some special perks not listed in the table above.
           <ul class="fa-ul">
             <li><i class="fa-li fa fa-check-square"></i>Two (2) sponsorships are available, one for each day of the conference.</li>
@@ -220,7 +228,15 @@ All Media / Community sponsors are entities we value as pillars of continuous le
     <tr>
       <td align="center"><i class="fa fa-id-badge fa-4x"></i></td>
       <td>Lanyards</td>
-      <td>$5,000</td>
+      <td align="center">$5,000
+      <br><br>
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+            <input type="hidden" name="cmd" value="_s-xclick">
+            <input type="hidden" name="hosted_button_id" value="9WSW86ACTY3JW">
+            <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+            <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+          </form> 
+      </td>
       <td>
           <ul class="fa-ul">
             <li><i class="fa-li fa fa-check-square"></i>One (1) sponsorship is available.</li>
@@ -234,7 +250,15 @@ All Media / Community sponsors are entities we value as pillars of continuous le
     <tr>
       <td align="center"><i class="fa fa-coffee fa-4x"></i></td>
       <td>Coffee Bar</td>
-      <td>$5,000</td>
+      <td align="center">$5,000
+      <br><br>
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+            <input type="hidden" name="cmd" value="_s-xclick">
+            <input type="hidden" name="hosted_button_id" value="6A439ZJ9AC5U4">
+            <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+            <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+          </form> 
+      </td>
       <td>A custom high-end coffee bar will be available in a large lounge area during the event. All conference attendees will be invited to receive a coffee. The attendees must get a ticket by interacting with a vendor to receive a free coffee.
           <ul class="fa-ul">
             <li><i class="fa-li fa fa-check-square"></i>Two (2) sponsorships are available, one for each day of the conference.</li>
