@@ -138,6 +138,8 @@ sponsors:
   - id: fullstaq
     level: silver
   # foodtrucks
+  - id: thefactory
+    level: foodtrucks
   # bronze
   - id: stream
     level: bronze
