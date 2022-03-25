@@ -170,9 +170,6 @@ sponsor_levels:
   - id: lanyard
     label: Lanyard
     max: "1"
-  - id: wristband
-    label: Wristband
-    max: "1"
   - id: recharge
     label: "Power recharge"
     max: "1"
