@@ -144,7 +144,7 @@ sponsors:
     level: gold
   - id: signalfx
     level: gold
-  - id: humio
+  - id: humio-before-20220325
     level: gold
   - id: allstate
     level: gold
