@@ -57,7 +57,7 @@
 /krakow/*		/events/2020-krakow/:splat		302
 /kyiv/*			/events/2022-kyiv/:splat		302
 /ljubljana/*		/events/2015-ljubljana/:splat		302
-/london/*		/events/2020-london/:splat		302
+/london/*		/events/2022-london/:splat		302
 /los-angeles/*		/events/2022-los-angeles/:splat		302
 /macapa/*		/events/2019-macapa/:splat		302
 /madison/*		/events/2020-madison/:splat		302
