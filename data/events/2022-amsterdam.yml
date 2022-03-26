@@ -138,6 +138,8 @@ sponsors:
   - id: fullstaq
     level: silver
   # foodtrucks
+  - id: thefactory
+    level: foodtrucks
   # bronze
   - id: stream
     level: bronze
@@ -169,9 +171,6 @@ sponsor_levels:
     max: "1"
   - id: lanyard
     label: Lanyard
-    max: "1"
-  - id: wristband
-    label: Wristband
     max: "1"
   - id: recharge
     label: "Power recharge"
