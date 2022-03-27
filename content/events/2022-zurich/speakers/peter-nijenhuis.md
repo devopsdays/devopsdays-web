@@ -8,7 +8,7 @@ Twitter = "Peter_Nijenhuis"
 Linkedin = "https://www.linkedin.com/in/peter-nijenhuis-%E2%9C%93-lion-0b83751/"
 +++
 
-### S0L1D Heroes, Peter Nijenhuis, Owner and Founder
+### Owner and Founder @ S0L1D Heroes
 Peter is a DevOps enthusiast and evangelist, but still with a common-sense approach.
 
 He's one of the organizers of DevOpsDays Amsterdam, DevOps meetups, and speaks at conferences and meetups regularly

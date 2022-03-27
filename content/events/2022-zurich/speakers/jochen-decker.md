@@ -6,7 +6,7 @@ type = "speaker"
 Linkedin = "https://www.linkedin.com/in/jochen-decker-62526241/"
 +++
 
-### SBB, Jochen Decker, CTO SBB
+### CTO @ SBB
 Jochen Decker has been Chief Information Officer (CIO) and a member of the SBB Management Board since
 
 2021. With SBB since 2008, member of the Management Board of SBB IT since 2011. Until 2015 he was Head

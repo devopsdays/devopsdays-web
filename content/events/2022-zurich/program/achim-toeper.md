@@ -1,9 +1,9 @@
 +++
 City = "Zurich"
 Year = "2022"
-talk_date = "2021-09-08"
-talk_start_time = "14:05"
-talk_end_time = "14:10"
+talk_date = "2022-06-01"
+talk_start_time = "14:25"
+talk_end_time = "14:30"
 title = "Whether flying to the moon or flying to Mars. A big goal requires big leadership"
 type = "talk"
 speakers = ["achim-toeper"]

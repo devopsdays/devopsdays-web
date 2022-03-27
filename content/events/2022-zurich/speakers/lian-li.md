@@ -7,7 +7,7 @@ Twitter = "lianmakesthings"
 Linkedin = "https://www.linkedin.com/in/lian-li/"
 +++
 
-### Lian Li, Developer Advocate 
+### Developer Advocate 
 Lian always wanted to save the world.
 
 After a failed attempt at becoming a lawyer, she decided to do something with computers instead. Working as a Fullstack Software Engineer, she got into attending tech events and giving talks on Machine Learning. During this time, she fell in love with the tech community and discovered her passion for building community and providing a safe and productive environment for all, which led to her co-organising the community conference ServerlessDays Amsterdam.

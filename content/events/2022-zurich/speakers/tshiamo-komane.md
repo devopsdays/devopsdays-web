@@ -7,7 +7,7 @@ Twitter = "hamotsi"
 Linkedin = "https://www.linkedin.com/in/tshiamo/"
 +++
 
-### DVT, Tshiamo Komane, DevOps Solutions Developer
+### DevOps Solutions Developer @ DVT
 I'm a DevOps solutions developer from South Africa - previously a full stack engineer but now specializing in DevOps (engineering and leadership).
 
 I feel my experience and history places me in that category of "ops-savvy" developers, and I'm quite inspired by how much this community has managed to accomplish in a short space of time.

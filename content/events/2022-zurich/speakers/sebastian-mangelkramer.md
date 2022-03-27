@@ -6,7 +6,7 @@ type = "speaker"
 Linkedin = "https://www.linkedin.com/in/sebastian-mangelkramer/"
 +++
 
-### Full Stacks, Sebastian Mangelkramer, CEO
+### CEO @ FullStackS
 * 20 years of professional IT experience in the data center & cloud environments
 * Diverse roles as Senior Systems Engineer, Senior Consultant, Technology Manager / Evangelist
 * Public speaker, passionate tech leader

@@ -6,7 +6,7 @@ type = "speaker"
 Twitter = "sharonsteed"
 +++
 
-### Sharon Steed, Be a confident communicator with empathy
+### Empathy + Inclusion Expert and CEO @ Communilogue
 Sharon Steed is an international keynote speaker, author and founder of Communilogue, a corporate empathy and communications consultancy. She is a subject matter expert on empathy at work, helping teams revolutionize the way they communicate, collaborate and approach diversity and inclusion by engaging empathy.
 
 Sharon has spoken at companies and conferences in 17 countries spanning five continents, with a focus on improving team communication and collaboration through engaging empathy and vulnerability as a professional asset. She has given a TEDx talk on empowering insecurities.

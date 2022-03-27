@@ -6,7 +6,7 @@ type = "speaker"
 Linkedin = "http://www.linkedin.com/in/jandevries"
 +++
 
-### Jan de Vries, DevOps Advocate
+### DevOps Advocate
 Jan de Vries is a senior trainer, business IT consultant, coach, researcher and public speaker in the fields of Agile, DevOps, Business Information Management, Antifragility and Strategy Development.
 
 He (co-)founded:
