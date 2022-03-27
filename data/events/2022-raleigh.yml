@@ -152,6 +152,8 @@ sponsors:
     level: community
   - id: trilio
     level: gold
+  - id: aviatrix
+    level: happyhour
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -167,9 +169,11 @@ sponsor_levels:
 #    max: 10
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    #max: 0 # This is the same as omitting the max limit.
   - id: community
     label: Community
+  - id: happyhour
+    label: "Happy Hour Sponsor"
 
 program:
   - title: "Registration, Breakfast, Sponsors"
