@@ -116,6 +116,10 @@ sponsors:
     url: https://danskecommodities.com/careers/it/
   - id: delegate
     level: community
+  - id: miracle
+    level: community
+  - id: aarhus-devops
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
