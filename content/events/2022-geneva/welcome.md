@@ -29,15 +29,6 @@ Description = "DevOpsDays Geneva 2022"
   }
 </style>
 
-<div>
-  <div class="alert alert-info" role="alert">
-    <h2>COVID-19</h2>
-    We’re aware of the present situation as a consequence of COVID-19 and take it very seriously. <br/>
-    We allow access to the conference for everyone who is either vaccinated, tested or convalesced from COVID-19.<br/>
-    Currently we expect to be able to hold the DevOps Days Geneva 2022 as planned. Should the situation not change as anticipated, we will take appropriate actions. 
-  </div>
-</div>
-
 <div style='width:100%;text-align:center;margin-bottom:2rem;'>
   <img alt="DevOpsDays Geneva 2022" src="/events/2022-geneva/logo.png" style="max-width: 20rem;margin-right:auto;margin-left: auto;"/>
 </div>

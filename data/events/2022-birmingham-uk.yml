@@ -6,7 +6,7 @@ description: "Devopsdays is coming to birmingham!" # Edit this to suit your pref
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 event_logo: logo.png
 event_group: "Birmingham, UK"
-
+sharing_image: "logo-square.jpg"
 # All dates are in unquoted 2022-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00
 #   variable: 2019-01-05T23:59:59+02:00
@@ -75,6 +75,22 @@ organizer_email: "birmingham-uk@devopsdays.org" # Put your organizer email addre
 sponsors:
   - id: civo
     level: silver
+  - id: mondoo
+    level: silver
+  - id: teleport
+    level: gold
+  - id: chef
+    level: gold
+#  - id: elastic
+#    level: silver
+#  - id: circleci
+#    level: gold
+#  - id: harness
+#    level: silver
+#  - id: veeam
+#    level: gold
+#  - id: buildkite
+#    level: gold
   - id: brumjs
     level: community
   - id: golang-birmingham
@@ -83,6 +99,12 @@ sponsors:
     level: community
   - id: github
     level: gold
+  - id: squaredup
+    level: silver
+  - id: pulumi
+    level: bronze
+  - id: devopsnotts
+    level: community
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -254,8 +276,10 @@ program:
     date: 2022-05-06T09:00:00+00:00
     start_time: "09:40"
     end_time: "10:10"
-  - title: "ayelet-sachto"
-    type: talk
+#  - title: "ayelet-sachto"
+  - title: TBD
+#    type: talk
+    type: custom
     date: 2022-05-06T09:00:00+00:00
     start_time: "10:10"
     end_time: "10:40"
@@ -264,8 +288,10 @@ program:
     date: 2022-05-06T09:00:00+00:00
     start_time: "10:40"
     end_time: "11:00"
-  - title: "angeliki-patsiavou"
-    type: talk
+#  - title: "angeliki-patsiavou"
+  - title: TBD
+#    type: talk
+    type: custom
     date: 2022-05-06T09:00:00+00:00
     start_time: "11:00"
     end_time: "11:30"
@@ -279,8 +305,8 @@ program:
     date: 2022-05-06T09:00:00+00:00
     start_time: "12:00"
     end_time: "12:05"
-  - title: "yishai-beeri"
-    type: talk
+  - title: "TBD"
+    type: custom
     date: 2022-05-06T09:00:00+00:00
     start_time: "12:05"
     end_time: "12:10"
@@ -294,8 +320,8 @@ program:
     date: 2022-05-06T09:00:00+00:00
     start_time: "12:15"
     end_time: "12:20"
-  - title: "noa-goldman"
-    type: talk
+  - title: TBD
+    type: custom
     date: 2022-05-06T09:00:00+00:00
     start_time: "12:20"
     end_time: "12:25"
