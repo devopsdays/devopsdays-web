@@ -128,6 +128,8 @@ sponsors:
   # gold
   - id: armo
     level: gold
+  - id: solo
+    level: gold
   # tshirt
   # lanyard
   # recharge
