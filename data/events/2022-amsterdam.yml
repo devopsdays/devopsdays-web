@@ -126,13 +126,10 @@ sponsors:
   # gala
   # coffee
   # gold
-  - id: vmware-tanzu
-    level: gold
   - id: armo
     level: gold
   # tshirt
   # lanyard
-  # wristband
   # recharge
   # silver
   - id: fullstaq
