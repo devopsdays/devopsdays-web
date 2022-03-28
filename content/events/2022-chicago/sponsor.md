@@ -4,7 +4,7 @@ Type = "event"
 Description = "Sponsor devopsdays Chicago 2022"
 +++
 
-<!-- We greatly value sponsors for this community event. If you are interested in sponsoring, please check out our <a href="https://assets.devopsdays.org/events/2022/chicago/2022-chicago-devopsdays-prospectus.pdf" target="_blank">prospectus</a> or <a href="mailto:chicago-sponsors@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Chicago%202022">send us an email</a>. -->
+We greatly value sponsors for this community event. If you are interested in sponsoring, please check out our <a href="https://assets.devopsdays.org/events/2022/chicago/2022-chicago-devopsdays-prospectus.pdf" target="_blank">prospectus</a> or <a href="mailto:chicago-sponsors@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Chicago%202022">send us an email</a>.
 We greatly value sponsors for this community event. If you are interested in sponsoring, please  <a href="mailto:chicago-sponsors@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Chicago%202022">send us an email</a>.
 <hr>
 

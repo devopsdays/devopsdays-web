@@ -39,7 +39,7 @@ Description = "Sponsor DevOpsDays Geneva 2022"
 
 We greatly value sponsors for this open event. If you are interested in sponsoring, please drop us an email at {{< email_organizers subject="Sponsor - DevOpsDays Geneva 2022">}}
 
-**See details in our [presentation slides](https://drive.google.com/file/d/19ffIUgTBPF0EC4-HbRmpSjeeIUSvUeqx/view?usp=sharing)**.
+**See details in our [presentation slides](https://drive.google.com/file/d/12CiVrbfh6ivrqg2cfshBx4zvORVRlLMl/view?usp=sharing)**.
 
 |          **SPONSORS PACKS**                                               |   **EVENT**   |   **GOLD**    |  **SILVER**   |  **BRONZE**   |   **MUG**   |
 | ------------------------------------------------------------------------- | :-----------: | :-----------: | :-----------: | :-----------: | :---------: |
