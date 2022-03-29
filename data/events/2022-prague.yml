@@ -37,7 +37,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #  - name: propose
   - name: location
 #  - name: registration
-#  - name: program
+  - name: program
   - name: speakers
   - name: sponsor
   - name: contact
@@ -183,161 +183,176 @@ sponsor_levels:
 
 
 program:
+  - title: "Workshop 1"
+    type: workshop
+    date: 2022-05-23
+    start_time: "10:00"
+    end_time: "12:00"
+  - title: "Workshop 2"
+    type: custom
+    date: 2022-05-23
+    start_time: "13:00"
+    end_time: "15:00"
+  - title: "Workshop 3"
+    type: custom
+    date: 2022-05-23
+    start_time: "15:30"
+    end_time: "17:30"
   - title: "Registration, Breakfast, Sponsors"
     type: custom
-    date: 2021-06-02
+    date: 2022-05-24
     start_time: "08:00"
     end_time: "09:00"
   - title: "Opening Welcome"
     type: custom
-    date: 2021-06-02
+    date: 2022-05-24
     start_time: "09:00"
     end_time: "09:10"
   - title: ""
     type: talk
-    date: 2021-06-02
+    date: 2022-05-24
     start_time: "09:10"
     end_time: "09:45"
   - title: ""
     type: talk
-    date: 2021-06-02
+    date: 2022-05-24
     start_time: "09:45"
     end_time: "10:20"
   - title: "Coffee Break"
     type: custom
-    date: 2021-06-02
+    date: 2022-05-24
     start_time: "10:20"
     end_time: "10:40"
   - title: ""
     type: talk
-    date: 2021-06-02
+    date: 2022-05-24
     start_time: "10:40"
     end_time: "11:15"
   - title: ""
     type: talk
-    date: 2021-06-02
+    date: 2022-05-24
     start_time: "11:20"
     end_time: "11:55"
   - title: "Lunch"
     type: custom
-    date: 2021-06-02
+    date: 2022-05-24
     start_time: "11:55"
     end_time: "13:15"
   - title: "Ignites"
     type: ignite
-    date: 2021-06-02
+    date: 2022-05-24
     start_time: "13:15"
     end_time: "13:45"
   - title: "Open Space Opening"
     type: open-space
-    date: 2021-06-02
+    date: 2022-05-24
     start_time: "13:45"
     end_time: "14:30"
   - title: "attendee-suggested breakout discussions - Open Space #1"
     type: open-space
-    date: 2021-06-02
+    date: 2022-05-24
     start_time: "14:30"
     end_time: "15:15"
   - title: "attendee-suggested breakout discussions - Open Space #2"
     type: open-space
-    date: 2021-06-02
+    date: 2022-05-24
     start_time: "15:25"
     end_time: "16:10"
   - title: "attendee-suggested breakout discussions - Open Space #3"
     type: open-space
-    date: 2021-06-02
+    date: 2022-05-24
     start_time: "16:20"
     end_time: "17:05"
   - title: "First day summary"
     type: custom
-    date: 2021-06-02
+    date: 2022-05-24
     start_time: "17:10"
     end_time: "17:20"    
   - title: "Evening event"
     type: custom
-    date: 2021-06-02
+    date: 2022-05-24
     start_time: "17:25"
     end_time: "late"
   - title: "Registration, Breakfast, Sponsors"
     type: custom
-    date: 2021-06-03
+    date: 2022-05-25
     start_time: "08:00"
     end_time: "09:00"
   - title: "Opening Welcome"
     type: custom
-    date: 2021-06-03
+    date: 2022-05-25
     start_time: "09:00"
     end_time: "09:10"
   - title: ""
     type: talk
-    date: 2021-06-03
+    date: 2022-05-25
     start_time: "09:10"
     end_time: "09:45"
   - title: ""
     type: talk
-    date: 2021-06-03
+    date: 2022-05-25
     start_time: "09:45"
     end_time: "10:20"
   - title: "Break"
     type: custom
-    date: 2021-06-03
+    date: 2022-05-25
     start_time: "10:20"
     end_time: "10:40"
   - title: ""
     type: talk
-    date: 2021-06-03
+    date: 2022-05-25
     start_time: "10:40"
     end_time: "11:15"
   - title: ""
     type: talk
-    date: 2021-06-03
+    date: 2022-05-25
     start_time: "11:20"
     end_time: "11:55"
   - title: "Lunch"
     type: custom
-    date: 2021-06-03
+    date: 2022-05-25
     start_time: "11:55"
     end_time: "13:15"
   - title: "Ignites"
     type: ignite
-    date: 2021-06-03
+    date: 2022-05-25
     start_time: "13:15"
     end_time: "13:45"
   - title: "Open Space Opening"
     type: open-space
-    date: 2021-06-03
+    date: 2022-05-25
     start_time: "13:45"
     end_time: "14:20"
   - title: "attendee-suggested breakout discussions - Open Space #1"
     type: open-space
-    date: 2021-06-03
+    date: 2022-05-25
     start_time: "14:20"
     end_time: "15:05"
   - title: "attendee-suggested breakout discussions - Open Space #2"
     type: open-space
-    date: 2021-06-03
+    date: 2022-05-25
     start_time: "15:15"
     end_time: "16:00"
   - title: "attendee-suggested breakout discussions - Open Space #3"
     type: open-space
-    date: 2021-06-03
+    date: 2022-05-25
     start_time: "16:10"
     end_time: "16:55"
   - title: "Closing Ceremony"
     type: custom
-    date: 2021-06-03
+    date: 2022-05-25
     start_time: "17:00"
     end_time: "17:15"
 ignites:
   - title: ""
-    date: 2021-06-02
+    date: 2022-05-24
   - title: ""
-    date: 2021-06-02    
+    date: 2022-05-24    
   - title: ""
-    date: 2021-06-02   
+    date: 2022-05-24   
   - title: ""
-    date: 2021-06-03  
+    date: 2022-05-25  
   - title: ""
-    date: 2021-06-03
+    date: 2022-05-25
   - title: ""
-    date: 2021-06-03    
+    date: 2022-05-25    

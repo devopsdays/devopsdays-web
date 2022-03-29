@@ -121,7 +121,7 @@ Description = "Devopsdays Prague 2022"
 </div>
 <div class = "row sponsor-row">
   <div class="col-lg-1 col-md-2 col-4">
-    <a href="https://www.msd.com"><img src="/img/sponsors/msd.png" alt="MSD" title="MSD" class="img-fluid"></a>
+    <a href="https://www.msd.cz/en/"><img src="/img/sponsors/msd.png" alt="MSD" title="MSD" class="img-fluid"></a>
   </div>
 </div>
 
