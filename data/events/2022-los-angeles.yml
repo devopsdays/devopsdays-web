@@ -98,7 +98,9 @@ sponsors:
     level: gold
   - id: codeclimate
     level: gold
-    id: confluent
+  - id: confluent
+    level: gold
+  - id: cloudbees
     level: gold
   - id: edge-delta
     level: gold
