@@ -122,6 +122,8 @@ sponsors:
     level: gold
   - id: blameless
     level: silver
+  - id: buildkite
+    level: silver
   - id: slimai
     level: silver
   - id: scale
