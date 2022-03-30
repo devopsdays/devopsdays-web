@@ -29,7 +29,7 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 # Location
 #
 coordinates: "33.507931,-86.807925" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Red Mountain Theatre" # Defaults to city, but you can make it the venue name.
+location: "Red Mountain Theatre Arts Campus" # Defaults to city, but you can make it the venue name.
 #
 location_address: "1600 3rd Ave S, Birmingham, AL 35233" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
@@ -72,7 +72,11 @@ organizer_email: "birmingham-al@devopsdays.org" # Put your organizer email addre
 sponsors:
   - id: datalus-corporation
     level: bronze
+  - id: digital-motion
+    level: bronze
   - id: cloudbees
+    level: silver
+  - id: ahead
     level: silver
   - id: fetch-rewards
     level: host
