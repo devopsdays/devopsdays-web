@@ -74,6 +74,7 @@ sponsors:
     level: bronze
   - id: cloudbees
     level: silver
+  - id: ahead
   - id: fetch-rewards
     level: host
   - id: adtrav
