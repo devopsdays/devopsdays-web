@@ -79,7 +79,7 @@ sponsors:
     level: silver
   - id: teleport
     level: gold
-  - id: chef
+  - id: progresschef
     level: gold
 #  - id: elastic
 #    level: silver
@@ -91,6 +91,8 @@ sponsors:
 #    level: gold
 #  - id: buildkite
 #    level: gold
+  - id: catchpoint
+    level: gold
   - id: brumjs
     level: community
   - id: golang-birmingham
