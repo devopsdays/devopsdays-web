@@ -36,8 +36,8 @@ location_address: "Piet Heinkade 179, 1019 HC Amsterdam" #Optional - use the str
 masthead_background: "skyline-ams.jpg"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
-    url: "https://sessionize.com/devopsdays-amsterdam-2022/"
+  # - name: propose
+  #   url: "https://sessionize.com/devopsdays-amsterdam-2022/"
   - name: location
   - name: registration
   # - name: program
@@ -126,13 +126,12 @@ sponsors:
   # gala
   # coffee
   # gold
-  - id: vmware-tanzu
-    level: gold
   - id: armo
+    level: gold
+  - id: solo
     level: gold
   # tshirt
   # lanyard
-  # wristband
   # recharge
   # silver
   - id: fullstaq

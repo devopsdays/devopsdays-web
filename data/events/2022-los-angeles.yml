@@ -98,7 +98,11 @@ sponsors:
     level: gold
   - id: codeclimate
     level: gold
-    id: confluent
+  - id: confluent
+    level: gold
+  - id: cloudbees
+    level: gold
+  - id: d2iq
     level: gold
   - id: edge-delta
     level: gold
@@ -121,6 +125,8 @@ sponsors:
   - id: whitesource
     level: gold
   - id: blameless
+    level: silver
+  - id: buildkite
     level: silver
   - id: slimai
     level: silver
