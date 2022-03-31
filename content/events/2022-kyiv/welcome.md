@@ -1,11 +1,14 @@
 +++
-Title = "devopsdays Kyiv 2022"
+Title = "DevOpsDays #StandWithUkraine"
 Type = "welcome"
-aliases = ["/events/2022-kiev", "/events/2022-kyiv/"]
-Description = "devopsdays Kyiv 2022"
+aliases = ["/events/2022-kiev", "/events/2022-kyiv/", "/events/2022-ukraine/"]
+Description = "DevOpsDays #StandWithUkraine"
 +++
 
-### Yes, we are going offline!
+### Devopsdays [#StandWithUkraine](https://twitter.com/hashtag/StandWithUkraine)
+<div class="alert alert-danger" role="alert">
+  We direct all income made from the event to Ukrainian humanitarian causes.
+</div>
 <div style="text-align:center;">
   {{< event_logo >}}
   <p></p>
