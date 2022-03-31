@@ -120,6 +120,8 @@ sponsors:
     level: community
   - id: aarhus-devops
     level: community
+  - id: systematic
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
