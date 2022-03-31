@@ -12,7 +12,7 @@ Description = "All information about the Covid-19 measures"
 <div class="row">
   <div  class="col-md-3">
     <b> COVID-19 Measures</b>
-    <p> Please note that all measures and rules given by the Swiss government apply to DevOpsDays Zurich 2022.</p>
+    <p> We adhere to the requirements of the federal government. As of today, we assume that we will be able to hold the conference without any restrictions. For more details see links below.</p>
     <ul>
       <li><a href="https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html">Measures and ordinances</a></li>
     </ul>

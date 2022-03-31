@@ -37,8 +37,8 @@ location_address: "Technikumstrasse 8, 8400 Winterthur, Switzerland" #Optional -
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
-#  - name: program
-#  - name: speakers
+  - name: program
+  - name: speakers
   - name: location
   - name: registration
   - name: sponsor
@@ -171,6 +171,8 @@ sponsors:
     level: silver
   - id: bit
     level: silver
+  - id: vshn
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -279,11 +281,11 @@ program:
   start_time: '15:00'
   end_time: '17:15'
 
-- title: ricardo-castro
+- title: mark-heistek
   type: workshop
   date: 2022-05-31
   start_time: '15:00'
-  end_time: '17:15'
+  end_time: '16:30'
 
 - title: m-psych
   type: workshop
@@ -295,7 +297,7 @@ program:
   type: workshop
   date: 2022-05-31
   start_time: '15:00'
-  end_time: '17:15'
+  end_time: '16:00'
 
 - title: Closing Day 1
   type: custom
@@ -400,11 +402,11 @@ program:
   start_time: '14:45'
   end_time: '17:00'
 
-- title: mark-heistek
+- title: ricardo-castro
   type: workshop
   date: 2022-06-01
   start_time: '15:00'
-  end_time: '16:30'
+  end_time: '17:00'
 
 - title: Raffle & Closing Day 2
   type: custom
@@ -428,8 +430,6 @@ ignites:
   - title: "andriy-bilous"
     date: 2022-06-01
   - title: "daiany-palacios"
-    date: 2022-06-01
-  - title: "daniel-maher"
     date: 2022-06-01
   - title: "achim-toeper"
     date: 2022-06-01
