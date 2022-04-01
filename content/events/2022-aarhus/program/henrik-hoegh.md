@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "From promise theory to autonomous teams"
-Type = "ignite"
+Type = "talk"
 Speakers = ["henrik-hoegh"]
 +++
 
