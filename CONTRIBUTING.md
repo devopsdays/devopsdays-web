@@ -12,9 +12,9 @@ If you'd like to edit a specific devopsdays event site (and/or contribute code),
 
 1. Install [Hugo](http://gohugo.io). Use the Hugo version that we use in [.circleci/config.yml](https://github.com/devopsdays/devopsdays-web/blob/main/.circleci/config.yml) file. [(Quick Install)](https://gohugo.io/getting-started/installing#binary-cross-platform)
 Examples of hugo installation with a version:  
- - maxOS: `brew install hugo@0.92.0`
- - linux: `brew install hugo@0.92.0`
- - windows: `choco install hugo -confirm --version 0.92.0 --allow-downgrade`
+ - maxOS: `brew install hugo@0.67.1`
+ - linux: `brew install hugo@0.67.1`
+ - windows: `choco install hugo -confirm --version 0.67.1 --allow-downgrade`
   
 2. [Fork](https://help.github.com/articles/fork-a-repo/) this repo and clone a copy locally.
 
