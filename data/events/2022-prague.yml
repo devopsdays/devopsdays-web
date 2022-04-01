@@ -91,9 +91,9 @@ sponsors:
   - id: f5-ni
     level: silver
     url: "https://www.f5.com/"  
-  - id: citrix
+  - id: wrike
     level: silver
-    url: "https://www.citrix.com/"
+    url: "https://www.wrike.com/lp/wrike-engineering/"
   - id: flowtraders
     level: silver
     url: "https://www.flowtraders.com/"
@@ -183,21 +183,27 @@ sponsor_levels:
 
 
 program:
-  - title: "Workshop 1"
+  - title: "Registration"
+    type: custom
+    date: 2022-05-23
+    start_time: "09:20"
+    end_time: "10:00"
+  - title: "ward-bekker"
     type: workshop
     date: 2022-05-23
     start_time: "10:00"
     end_time: "12:00"
-  - title: "Workshop 2"
-    type: custom
+  - title: "radek-zajic"
+    type: workshop
     date: 2022-05-23
     start_time: "13:00"
     end_time: "15:00"
-  - title: "Workshop 3"
-    type: custom
+  - title: "denis-jannot"
+    type: workshop
     date: 2022-05-23
-    start_time: "15:30"
-    end_time: "17:30"
+    start_time: "15:20"
+    end_time: "17:20"
+
   - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2022-05-24
@@ -208,12 +214,12 @@ program:
     date: 2022-05-24
     start_time: "09:00"
     end_time: "09:10"
-  - title: ""
+  - title: "kris-buytaert"
     type: talk
     date: 2022-05-24
     start_time: "09:10"
     end_time: "09:45"
-  - title: ""
+  - title: "ricardo-castro"
     type: talk
     date: 2022-05-24
     start_time: "09:45"
@@ -223,12 +229,12 @@ program:
     date: 2022-05-24
     start_time: "10:20"
     end_time: "10:40"
-  - title: ""
+  - title: "ayelet-sachto"
     type: talk
     date: 2022-05-24
     start_time: "10:40"
     end_time: "11:15"
-  - title: ""
+  - title: "eduardo-piairo"
     type: talk
     date: 2022-05-24
     start_time: "11:20"
@@ -238,7 +244,7 @@ program:
     date: 2022-05-24
     start_time: "11:55"
     end_time: "13:15"
-  - title: "Ignites"
+  - title: "Ignite Talks"
     type: ignite
     date: 2022-05-24
     start_time: "13:15"
@@ -273,6 +279,7 @@ program:
     date: 2022-05-24
     start_time: "17:25"
     end_time: "late"
+
   - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2022-05-25
@@ -283,12 +290,12 @@ program:
     date: 2022-05-25
     start_time: "09:00"
     end_time: "09:10"
-  - title: ""
+  - title: "edward-pearson"
     type: talk
     date: 2022-05-25
     start_time: "09:10"
     end_time: "09:45"
-  - title: ""
+  - title: "bernd-erk"
     type: talk
     date: 2022-05-25
     start_time: "09:45"
@@ -303,7 +310,7 @@ program:
     date: 2022-05-25
     start_time: "10:40"
     end_time: "11:15"
-  - title: ""
+  - title: "valarie-regas"
     type: talk
     date: 2022-05-25
     start_time: "11:20"
@@ -313,8 +320,7 @@ program:
     date: 2022-05-25
     start_time: "11:55"
     end_time: "13:15"
-  - title: "Ignites"
-    type: ignite
+  - type: ignite
     date: 2022-05-25
     start_time: "13:15"
     end_time: "13:45"
@@ -343,16 +349,15 @@ program:
     date: 2022-05-25
     start_time: "17:00"
     end_time: "17:15"
+
 ignites:
-  - title: ""
-    date: 2022-05-24
-  - title: ""
-    date: 2022-05-24    
-  - title: ""
-    date: 2022-05-24   
-  - title: ""
+  - title: "federico-fregosi"
     date: 2022-05-25  
-  - title: ""
+  - title: "cornelia-mosler"
     date: 2022-05-25
-  - title: ""
-    date: 2022-05-25    
+  - title: "jeremy-meiss"
+    date: 2022-05-25
+  - title: "nicolai-antiferov"
+    date: 2022-05-25
+  - title: "Piet-vanDongen"
+    date: 2022-05-25 
