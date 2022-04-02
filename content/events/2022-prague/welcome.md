@@ -41,14 +41,14 @@ Description = "Devopsdays Prague 2022"
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    <a href="https://www.eventbrite.com/e/devopsdays-prague-2020-tickets-69329736107">Register to attend the conference!</a>
+    <a href="https://www.eventbrite.com/e/devopsdays-prague-2022-tickets-271339512787">Register to attend the conference!</a>
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
