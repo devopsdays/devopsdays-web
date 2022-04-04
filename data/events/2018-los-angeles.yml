@@ -44,7 +44,7 @@ proposal_email: "organizers-los-angeles-2018@devopsdays.org"
 sponsors:
   - id: bmc
     level: sponsor
-  - id: catchpoint
+  - id: catchpoint-before-20220331
     level: sponsor
   - id: cloudbolt
     level: sponsor

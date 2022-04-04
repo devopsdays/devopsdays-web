@@ -102,11 +102,6 @@ team_members: # Name is the only required field for team members.
     twitter: "avagasso"
     image: "sarah.jpg"
 
-  - name: "Peter Nijenhuis"
-    linkedin: "https://www.linkedin.com/in/peter-nijenhuis-%E2%9C%93-lion-0b83751/"
-    twitter: "Peter_Nijenhuis"
-    image: "peter.jpg"
-
   - name: "Sean Bovaird"
     linkedin: "https://www.linkedin.com/in/sbovaird"
     twitter: "srbovaird"
