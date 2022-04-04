@@ -73,9 +73,9 @@ organizer_email: "birmingham-uk@devopsdays.org" # Put your organizer email addre
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: civo
+  - id: buildkite
     level: silver
-  - id: mondoo
+  - id: civo
     level: silver
   - id: teleport
     level: gold
@@ -93,6 +93,8 @@ sponsors:
 #    level: gold
   - id: catchpoint
     level: gold
+  - id: mondoo
+    level: silver
   - id: brumjs
     level: community
   - id: golang-birmingham

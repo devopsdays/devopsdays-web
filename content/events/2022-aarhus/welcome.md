@@ -14,7 +14,7 @@ Description = "devopsdays Aarhus 2022"
 
 <p>Limited seats available, so <a href="https://www.eventbrite.co.uk/e/devopsdays-aarhus-2022-tickets-92256964063?aff=ebdssbeac">sign up today!</a>
 
-<p>Of course, COVID-19 is still a factor, and your health is the most important thing. We will require all attendees to show a valid corona pass. And that, plus safety precautions from health-conscious guests and organisers - in a modern, clean and spacious venue - is a perfect setting to enjoy an enlightening event in the safest possibe way.</p>
+<p>It is a priority for DevOpsDays Aarhus to have a safe event. This includes adhering to local COVID guidelines and ensuring masks and handsanitizers are available.</p>
 
 <p>If we have to postpone the event, you will of course get a full refund (if you don't want to hold on to your ticket for when the event takes place).</p>
 
