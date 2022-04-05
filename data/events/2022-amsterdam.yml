@@ -133,6 +133,8 @@ sponsors:
     level: gold
   # tshirt
   # lanyard
+  - id: ogd
+    level: lanyard
   # recharge
   # silver
   - id: fullstaq
