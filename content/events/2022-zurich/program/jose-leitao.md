@@ -6,7 +6,7 @@ talk_start_time = "11:00"
 talk_end_time = "11:30"
 title = "One evolution of the Network Engineer Role"
 type = "talk"
-speakers = ["jose-leitao"]
+speakers = ["jose-leitao", "elena-sanchez"]
 youtube = ""
 vimeo = ""
 speakerdeck = ""
@@ -15,8 +15,6 @@ slides = ""
 +++
 
 ### Talk
-
-
 Explore what happens when a business grows, and the role of the network becomes critical: you have more servers to connect, more data to transport, more services reliant on each other. You can’t afford to provide a bad experience to your customers, nor “throw more people at the problem” to solve it
 
 You have to move fast and be reliable in today’s world — even when sharks eat your fiber cables.
