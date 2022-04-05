@@ -7,4 +7,4 @@ Linkedin = "https://www.linkedin.com/in/elenavsanchezv/"
 +++
 
 ### Engineering Manager & Program Lead @ Meta
-I'm curious about people, and I focus on fulfilling their potential. I currently lead Meta's Rotational Network Engineering Program worldwide.
+Elena is an engineering manager at Meta. She's responsible for running Meta's Rotational Network Engineering Program globally. She focuses on finding, hiring and training early career engineers around the world to join Networking teams at Meta.
