@@ -139,6 +139,8 @@ sponsors:
   # silver
   - id: fullstaq
     level: silver
+  - id: runcloud
+    level: silver
   # foodtrucks
   - id: thefactory
     level: foodtrucks
