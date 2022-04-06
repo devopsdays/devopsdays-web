@@ -3,7 +3,7 @@ Title = "Charity Majors"
 image = "charity-majors.jpg"
 linktitle = "charity-majors"
 type = "speaker"
-Website = "https://people.sap.com/achim_toeper#content:blogposts"
+Website = "https://www.honeycomb.io/teammember/charity-majors/"
 Twitter = "mipsytipsy"
 Linkedin = "https://www.linkedin.com/in/charity-majors/"
 +++

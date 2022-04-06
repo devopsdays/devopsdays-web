@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Distributed systems: If you can drive you can architect a system( 6 things you should not forget when architecting a solution)"
+Title = "Distributed systems: If you can drive you can architect a system (6 things you should not forget when architecting a solution)"
 Type = "talk"
 Speakers = ["ayelet-sachto"]
 youtube = ""
