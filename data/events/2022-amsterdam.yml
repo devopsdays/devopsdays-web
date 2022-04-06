@@ -82,6 +82,11 @@ team_members: # Name is the only required field for team members.
     twitter: "FloorDrees"
     image: "floor.jpg"
 
+  - name: "Walter Heck"
+    linkedin: "https://www.linkedin.com/in/walterheck/"
+    twitter: "walterheck"
+    image: "walter.jpg"
+
   - name: "Joep Piscaer"
     linkedin: "https://www.linkedin.com/in/jpiscaer"
     twitter: "jpiscaer"
