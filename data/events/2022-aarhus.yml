@@ -124,6 +124,10 @@ sponsors:
     level: community
   - id: 2022-contrast-security
     level: silver
+  - id: 2022-contrast-security
+    level: community
+  - id: vmware-tanzu
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
