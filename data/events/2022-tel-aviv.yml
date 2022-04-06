@@ -189,27 +189,28 @@ organizer_email: "tel-aviv@devopsdays.org" # Put your organizer email address he
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: cider
-    level: Event Organizer
+  - id: cider-security
+    level: organizer
   - id: linearb
-    level: Platinum
+    level: platinum
   - id: coralogix
-    level: Platinum
+    level: platinum
   - id: granulate
-    level: Platinum
+    level: platinum
   - id: jit
-    level: Platinum
+    level: platinum
   - id: armosec
-    level: Gold
-  - id: armosec
-    level: Gold
+    level: gold
   - id: komodor
-    level: Gold
-  - id: aerospike
-    level: Gold
+    level: gold
+  - id: aeropspike
+    level: gold
   - id: env0
-    level: Gold
-  
+    level: gold
+  - id: replicated
+    level: gold
+  - id: circleci
+    level: gold
   - id: media
     level: Media
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
@@ -234,8 +235,6 @@ sponsor_levels:
   - id: community
     label: Community
     max: 0 # This is the same as omitting the max limit.
-  - id: bronze
-    label: Bronze
   - id: media
     label: Media
  
