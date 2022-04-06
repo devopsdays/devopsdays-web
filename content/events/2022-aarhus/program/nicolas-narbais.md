@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Shifting left: why security can no longer be an afterthought"
 Type = "talk"
-Speakers = ["karina-popova"]
+Speakers = ["nicolas-narbais"]
 +++
 
 Everyone knows the phrase “Security is expensive, but its absence is even more expensive”. DevSecOps addresses the most common problem companies face on the path to DevOps, where faster code releases lead to vulnerabilities. Let’s explore this new cultural shift, its benefits and challenges.
