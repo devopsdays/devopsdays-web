@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "DevOps Engineers - you have 11.7 seconds to comply"
-Type = "ignite"
+Type = "talk"
 Speakers = ["ewelina-wilkosz"]
 +++
 
