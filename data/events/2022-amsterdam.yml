@@ -129,11 +129,17 @@ sponsors:
     level: gold
   - id: mondoo
     level: gold
+  - id: elastic
+    level: gold
   # tshirt
   # lanyard
+  - id: ogd
+    level: lanyard
   # recharge
   # silver
   - id: fullstaq
+    level: silver
+  - id: runcloud
     level: silver
   # foodtrucks
   - id: thefactory
