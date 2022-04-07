@@ -90,6 +90,8 @@ sponsors:
     level: gold
   - id: aws
     level: silver
+  - id: tailored-automation
+    level: coffee
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -110,6 +112,9 @@ sponsor_levels:
   - id: bronze
     max: 10
     label: Bronze
+  - id: coffee
+    max: 1
+    label: Coffee
 
 program:
   - title: "Registration, Breakfast, Visit Sponsors"
