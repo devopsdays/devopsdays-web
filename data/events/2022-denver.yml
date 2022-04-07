@@ -109,8 +109,6 @@ sponsors:
   level: supporter
 - id: humio
   level: gold
-- id: crowdstrike
-  level: gold
 
 sponsor_levels:
   - id: gold
