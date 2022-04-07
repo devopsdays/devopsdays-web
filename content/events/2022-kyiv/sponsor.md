@@ -31,10 +31,10 @@ DevOpsDays Ukraine is now a charity edition of the conference. We are inviting t
   <tbody>
     <tr>
       <td>Contribution Level (EUR)*</td>
-      <td>€7000 <br>~$7,600</td>
-      <td>€5500 <br>~$6,000</td>
-      <td>€3500 <br>~$3,800</td>
-      <td>< €3500<br>< ~$3,800</td>
+      <td>€7000<br>~$7,600</td>
+      <td>€5500<br>~$6,000</td>
+      <td>€3500<br>~$3,800</td>
+      <td>&#60; €3500 <br>&#60; ~$3,800</td>
     </tr>
     <tr>
       <td></td>
