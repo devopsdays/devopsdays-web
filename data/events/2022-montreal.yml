@@ -29,9 +29,9 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 # Location
 #
 coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Montreal" # Defaults to city, but you can make it the venue name.
+location: "Palais des congrès de Montréal / Montreal Convention Centre" # Defaults to city, but you can make it the venue name.
 #
-location_address: "Palais des congrès de Montréal / Montreal Convention Centre, 1001 Pl. Jean-Paul-Riopelle, Montreal, Quebec H2Z 1H5" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "1001 Pl. Jean-Paul-Riopelle, Montreal, Quebec H2Z 1H5" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
@@ -42,6 +42,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: sponsor
   - name: contact
   - name: conduct
+  - name: Call for Proposals
+    url: https://docs.google.com/forms/d/e/1FAIpQLSf4qwC-lcdymPpvd15hUFqR6lVDABvXXcFNZrIwvNeugG7MgQ/viewform
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site

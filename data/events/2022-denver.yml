@@ -99,13 +99,17 @@ sponsors:
   level: gold
 - id: fusion-auth
   level: silver
-- id: linearb
-  level: gold
 - id: cloudbees
   level: silver
 - id: jeli
   level: supporter
 - id: releaseteam
+  level: supporter
+- id: gitlab
+  level: supporter
+- id: humio
+  level: gold
+- id: circleci
   level: supporter
 
 sponsor_levels:
