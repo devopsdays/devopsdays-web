@@ -90,8 +90,6 @@ sponsors:
     level: gold
   - id: aws
     level: silver
-  - id: trendmicro
-    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
