@@ -10,8 +10,13 @@ We greatly value sponsors for this open event.  If you are interested in sponsor
 devopsdays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
 
 The best thing to do is send engineers to interact with the experts at devopsdays on their own terms.
+
+
 <p>
     <h2>Sponsor the Event</h2>
+       <h2><a href="https://forms.gle/B6W852R4keSimc1a8" target="_blank"> >> Request Sponsorship Form</a></h2>
+       <br/>
+       <br/>
      <h3 style="text-transform: uppercase; color: #c0d44f;">Platinum Sponsor $12,500 (USD) 
     <br/> <strike>6 Available</strike> >> 2 Available<!-- - <span style="text-transform: uppercase; color: red; background-color: yellow;">SOLD OUT</span> --></h3>
      <i class="fa fa-cog" style="color: red;"></i>&nbsp;&nbsp;Booth space 4X4M, including DevOpsDays turnkey booth** with 4M back wall, carpet,counter & chairs (OR eligibility for DIY construction booth at sponsor’s expense)<br/>
@@ -68,6 +73,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
      <li><span style="text-transform: uppercase; color: #c0d44f; font-weight: 700;">Statscraft Branding Only Sponsorship (July 2022)</span> - $1500USD - Full branding package for Statscraft conference, and thank you slide at DevOpsDays Tel Aviv (Logo on website, in newsletter communications, thanks on social media, logo on sponsor slides during event, shared table for swag) </li>
      <li><span style="text-transform: uppercase; color: #19d819;; font-weight: 700;">Statscraft T-Shirt Sponsor (July 2022)</span> - In Kind (Cost of t-shirts - ~200) </li>
      </ul>
-
-   
+<br/>
+<br/>
+   <h2><a href="https://forms.gle/B6W852R4keSimc1a8" target="_blank"> >> Request Sponsorship Form</a></h2>
 
