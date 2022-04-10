@@ -94,7 +94,7 @@ Five minute lightning talks where speakers share who, what, why they are gratefu
 **Baruch Sadogursky**, Head of DevOps Advocacy @jfrog
 
 ##### _Hits and Misses in DoD DevOps_
-**Mark Peters**, Lead Information Assurance, Security Engineer, Technica Corporation
+**Mark Peters**, Product Manager, BrainGu
 
 ##### _The Seven Horses of Abductive Reasoning_
 **Chris Corriere**, sociotechnological Mathematician @ Large
