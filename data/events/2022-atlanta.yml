@@ -1,6 +1,6 @@
 name: "2022-atlanta" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2022" # The year of the event. Make sure it is in quotes.
-city: "atlanta" # The displayed city name of the event. Capitalize it.
+city: "Atlanta" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysATL" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "Devopsdays is coming to the Georgia Aquarium, again!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
@@ -108,7 +108,7 @@ sponsors:
     level: gold
   - id: roostai
     level: gold
-  - id: neuvector
+  - id: capitalone
     level: gold
   - id: progresschef
     level: gold
@@ -124,3 +124,246 @@ sponsor_levels:
     label: Platinum
   - id: gold
     label: Gold
+
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2022-04-19
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2022-04-19
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "Sponsors"
+    type: custom
+    date: 2022-04-19
+    start_time: "09:15"
+    end_time: "09:25"
+  - title: "nivia-henry"
+    type: talk
+    date: 2022-04-19
+    start_time: "09:25"
+    end_time: "09:55"
+    background_color: "#abebff"
+  - title: "Break - divide room into tracks - visit sponsors"
+    type: custom
+    date: 2022-04-19
+    start_time: "09:55"
+    end_time: "10:25"
+  
+  - title: "mason-egger"
+    type: talk
+    date: 2022-04-19
+    start_time: "10:25"
+    end_time: "10:55"
+    background_color: "#d5c5ef"
+  - title: "john-willis"
+    type: talk
+    date: 2022-04-19
+    start_time: "10:25"
+    end_time: "10:55"
+    background_color: "#fffa99"
+  - title: "lesley-cordero"
+    type: talk
+    date: 2022-04-19
+    start_time: "10:25"
+    end_time: "10:55"
+    background_color: "#8ad0d3"
+  
+  - title: "amber-vanderburg"
+    type: talk
+    date: 2022-04-19
+    start_time: "10:55"
+    end_time: "11:25"
+    background_color: "#d5c5ef"
+  - title: "waldo-grunenwald"
+    type: talk
+    date: 2022-04-19
+    start_time: "10:55"
+    end_time: "11:25"
+    background_color: "#fffa99"
+  - title: "SRE & Complexity 2"
+    type: custom
+    date: 2022-04-19
+    start_time: "10:55"
+    end_time: "11:25"
+    background_color: "#8ad0d3"
+  
+
+  - title: "Break - rejoin rooms - visit sponsors"
+    type: custom
+    date: 2022-04-19
+    start_time: "11:25"
+    end_time: "11:55"
+  - title: "Sponsors"
+    type: custom
+    date: 2022-04-19
+    start_time: "11:55"
+    end_time: "12:05"
+  - title: "Keynote 2"
+    type: custom
+    date: 2022-04-19
+    start_time: "12:05"
+    end_time: "12:35"
+    background_color: "#abebff"
+  - title: "Lunch"
+    type: custom
+    date: 2022-04-19
+    start_time: "12:35"
+    end_time: "13:35"
+  - title: "Ignites"
+    type: custom
+    date: 2022-04-19
+    start_time: "13:35"
+    end_time: "14:05"
+    background_color: "#c3ffd7"
+
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2022-04-19
+    start_time: "14:05"
+    end_time: "14:35"
+    custom_url: "/pages/open-space-format"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2022-04-19
+    start_time: "14:35"
+    end_time: "15:15"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2022-04-19
+    start_time: "15:15"
+    end_time: "15:55"
+  - title: "Open Space #3: Visit the Aquarium"
+    type: open-space
+    date: 2022-04-19
+    start_time: "16:00"
+    end_time: "16:45"
+    custom_url: "https://www.georgiaaquarium.org/wp-content/uploads/2019/02/Email_Brand-Anthem_01.47.mp4"
+  - title: "Evening event"
+    type: custom
+    date: 2022-04-19
+    start_time: "17:00"
+    end_time: "late"
+    custom_url: ""
+    
+
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2022-04-20
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2022-04-20
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "Sponsors"
+    type: custom
+    date: 2022-04-20
+    start_time: "09:15"
+    end_time: "09:25"
+  - title: "andre-henry"
+    type: talk
+    date: 2022-04-20
+    start_time: "09:25"
+    end_time: "09:55"
+    background_color: "#abebff"
+  - title: "Break - divide room into tracks - visit sponsors"
+    type: custom
+    date: 2022-04-20
+    start_time: "09:55"
+    end_time: "10:25"
+
+  - title: "jj-ashgar"
+    type: talk
+    date: 2022-04-20
+    start_time: "10:25"
+    end_time: "10:55"
+    background_color: "#d5c5ef"
+  - title: "rob-richardson"
+    type: talk
+    date: 2022-04-20
+    start_time: "10:25"
+    end_time: "10:55"
+    background_color: "#fffa99"
+  - title: "ajuna-kyaruzi"
+    type: talk
+    date: 2022-04-20
+    start_time: "10:25"
+    end_time: "10:55"
+    background_color: "#8ad0d3"
+  
+  
+  - title: "martin-rojas"
+    type: talk
+    date: 2022-04-20
+    start_time: "10:55"
+    end_time: "11:25"
+    background_color: "#d5c5ef"
+  - title: "Security 2"
+    type: custom
+    date: 2022-04-20
+    start_time: "10:55"
+    end_time: "11:25"
+    background_color: "#fffa99"
+  - title: "rain-leander"
+    type: talk
+    date: 2022-04-20
+    start_time: "10:55"
+    end_time: "11:25"
+    background_color: "#8ad0d3"
+  
+
+  - title: "Break - rejoin rooms - visit sponsors"
+    type: custom
+    date: 2022-04-20
+    start_time: "11:25"
+    end_time: "11:55"
+  - title: "Sponsors"
+    type: custom
+    date: 2022-04-20
+    start_time: "11:55"
+    end_time: "12:05"
+  - title: "Keynote 2"
+    type: custom
+    date: 2022-04-20
+    start_time: "12:05"
+    end_time: "12:35"
+    background_color: "#abebff"
+  - title: "Lunch"
+    type: custom
+    date: 2022-04-20
+    start_time: "12:35"
+    end_time: "13:35"
+  - title: "Ignites"
+    type: custom
+    date: 2022-04-20
+    start_time: "13:35"
+    end_time: "14:05"
+    background_color: "#c3ffd7"
+
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2022-04-20
+    start_time: "14:05"
+    end_time: "14:35"
+    custom_url: "/pages/open-space-format"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2022-04-20
+    start_time: "14:35"
+    end_time: "15:15"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2022-04-20
+    start_time: "15:15"
+    end_time: "15:55"
+  - title: "Open Space #3: Visit the Aquarium"
+    type: open-space
+    date: 2022-04-20
+    start_time: "16:00"
+    end_time: "16:45"
+    custom_url: "https://www.georgiaaquarium.org/wp-content/uploads/2019/02/Email_Brand-Anthem_01.47.mp4"

@@ -4,6 +4,12 @@ Type = "event"
 Description = "Sponsor devopsdays Austin 2022"
 +++
 
+### SOLD OUT!
+
+All sponsorship packages have been sold.
+
+---
+
 Now in its tenth year, DevOpsDays Austin is consistently one of the best attended
 and reviewed DevOpsDays events globally. Sponsoring DevOpsDays Austin
 exposes your company to Austin’s leading technical and business minds who are
@@ -26,6 +32,4 @@ many of which will be previous year speakers
 
 ### Prospectus
 
-<a href="https://bit.ly/3nHaru2" class="btn btn-primary"><i class="fa fa-folder fa-lg"></i>&nbsp;&nbsp;&nbsp;View the DevOpsDays Austin 2022 Sponsor Prospectus</a>
-
-<!-- <a href="https://docs.google.com/document/d/1sUkEoXgoKkKB5ZGCj9QIKkug8EmBlepV7Lt7U5ofUOw/edit?usp=sharing" class="btn btn-primary"><i class="fa fa-question fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor FAQ</a> -->
+<a href="https://bit.ly/dodatx2022sponsor-v4" class="btn btn-primary"><i class="fa fa-folder fa-lg"></i>&nbsp;&nbsp;&nbsp;View the DevOpsDays Austin 2022 Sponsor Prospectus</a>

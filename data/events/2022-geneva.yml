@@ -132,7 +132,7 @@ sponsors:
     level: silver
   - id: checkmarx
     level: silver
-  - id: styra
+  - id: portworx
     level: silver
   - id: socraft
     level: bronze
@@ -149,6 +149,8 @@ sponsors:
   - id: agilesuisse
     level: community
   - id: grusp
+    level: community
+  - id: powerhouse
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

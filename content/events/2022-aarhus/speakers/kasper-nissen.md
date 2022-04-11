@@ -1,7 +1,7 @@
 +++
 Title = "Kasper Nissen"
 Twitter = "phennex"
-image = ""
+image = "kasper-nissen.png"
 type = "speaker"
 linktitle = "kasper-nissen"
 

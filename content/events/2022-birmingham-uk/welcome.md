@@ -2,7 +2,7 @@
 Title = "DevOpsDays Birmingham, UK 2022"
 Type = "welcome"
 aliases = ["/events/2022-birmingham-uk/"]
-Description = "devopsdays birmingham, uk 2022"
+Description = "Devopsdays Birmingham, uk 2022"
 +++
 
 <!-- <div style="text-align:center;">
@@ -30,7 +30,7 @@ Description = "devopsdays birmingham, uk 2022"
     <p>DevOpsDays is a worldwide series of community run technical conferences covering topics of software development, IT infrastructure operations, and the intersection between them. It is run by volunteers from community, for the benefit of the community.
       We are not a commercial conference and we believe that our focus on serving the community creates a truly unique experience for both delegates and sponsors.
     </p>
-    <p>We expect 350 people this year and will be holding the event on May 05-06, 2022 at Millennium Point Birmingham.</p>
+    <p>We will be holding the event on May 05-06, 2022 at Millennium Point Birmingham.</p>
     <br/>
     <br/>
     <div class="d-flex flex-row">
@@ -51,9 +51,6 @@ Description = "devopsdays birmingham, uk 2022"
         </div>
         <div class="p-2">
           <a class="btn btn-secondary btn-block" href="https://twitter.com/devopsdaysbrum"> <i class="fa fa-twitter fa-lg"></i>&nbsp;&nbsp;&nbsp;Follow us on Twitter</a>
-        </div>
-        <div class="p-2">
-          <a class="btn btn-secondary btn-block" href="https://sessionize.com/devopsdays-birmingham-uk-2022/"> <i class="fas fa-bullhorn fa-lg"></i>&nbsp;&nbsp;&nbsp;Submit your talk</a>
         </div>
       </div>
     </div>

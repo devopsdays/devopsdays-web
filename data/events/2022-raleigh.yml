@@ -34,7 +34,7 @@ location: "McKimmon Conference & Training Center" # Defaults to city, but you ca
 location_address: "1101 Gorman Street, Raleigh, NC 27606" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+  # - name: propose
   - name: location
   - name: registration
     url: "https://www.eventbrite.com/e/devopsdays-raleigh-2022-tickets-149971423565?aff=ebdssbdestsearch"
@@ -116,12 +116,46 @@ sponsors:
     level: community
   - id: squaredup
     level: gold
-  - id: neuvector
-    level: platinum
   - id: cloudbees
     level: gold
+  - id: phoenixnap
+    level: gold
+  - id: nirmata
+    level: gold
+  - id: aws
+    level: silver
+  - id: dynatrace
+    level: gold
+  - id: relay
+    level: gold
+  - id: spectrocloud
+    level: platinum
+  - id: vericast
+    level: gold
+  - id: humio
+    level: gold
+  - id: edge-delta
+    level: gold
+  - id: xmatters
+    level: gold
+  - id: solo
+    level: platinum
+  - id: bitdefender
+    level: gold
+  - id: gitlab
+    level: gold
+  - id: portworx
+    level: gold
+  - id: whole-brain-escape
+    level: community
+  - id: trilio
+    level: gold
+  - id: aviatrix
+    level: happyhour
+  - id: opscruise
+    level: gold
 
-sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -135,9 +169,11 @@ sponsor_levels:
 #    max: 10
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    #max: 0 # This is the same as omitting the max limit.
   - id: community
     label: Community
+  - id: happyhour
+    label: "Happy Hour Sponsor"
 
 program:
   - title: "Registration, Breakfast, Sponsors"
@@ -220,28 +256,28 @@ program:
     date: 2022-04-13
     start_time: "14:25"
     end_time: "14:45"
-  # - title: "talk-6-eran-bibi"
-  #   type: talk
-  #   date: 2022-04-13
-  #   start_time: "14:45"
-  #   end_time: "15:15"
-  - title: "Special-Keynote"
-    type: custom
+  - title: "eric-schabell-keynote"
+    type: talk
+    date: 2022-04-13
+    start_time: "14:45"
+    end_time: "15:15"
+  - title: "sonia-clark-and-ballantine-robotics-program"
+    type: talk
     date: 2022-04-13
     start_time: "15:15"
-    end_time: "16:25"
+    end_time: "16:15"
   - title: "Open Space Opening"
-    type: custom
+    type: open-space
     date: 2022-04-13
     start_time: "13:55"
     end_time: "15:15"
   - title: "Open Space #1"
-    type: custom
+    type: open-space
     date: 2022-04-13
     start_time: "13:55"
     end_time: "14:25"
   - title: "Open Space #2"
-    type: custom
+    type: open-space
     date: 2022-04-13
     start_time: "14:45"
     end_time: "15:15"
@@ -263,13 +299,13 @@ program:
   - title: "Close Day"
     type: custom
     date: 2022-04-13
-    start_time: "16:25"
-    end_time: "16:35"
+    start_time: "16:15"
+    end_time: "16:30"
   - title: "Evening event - Happy Hour"
     type: custom
     date: 2022-04-13
-    start_time: "16:35"
-    end_time: "18:30"
+    start_time: "16:30"
+    end_time: "18:00"
   - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2022-04-14
@@ -360,23 +396,28 @@ program:
     date: 2022-04-14
     start_time: "14:45"
     end_time: "15:15"
-  # - title: "talk-13"
-  #   type: talk
-  #   date: 2022-04-14
-  #   start_time: "15:15"
-  #   end_time: "15:45"
+  - title: "jody-paramore"
+    type: talk
+    date: 2022-04-14
+    start_time: "15:15"
+    end_time: "15:40"
+  - title: "wakeed-stem-ncsu-citizen-science-club"
+    type: talk
+    date: 2022-04-14
+    start_time: "15:40"
+    end_time: "16:05"
   - title: "Open Space Opening"
-    type: custom
+    type: open-space
     date: 2022-04-14
     start_time: "13:55"
     end_time: "15:15"
   - title: "Open Space #3"
-    type: custom
+    type: open-space
     date: 2022-04-14
     start_time: "13:55"
     end_time: "14:25"
   - title: "Open Space #4"
-    type: custom
+    type: open-space
     date: 2022-04-14
     start_time: "14:45"
     end_time: "15:15"
@@ -398,21 +439,23 @@ program:
   - title: "Raffle/Close Day"
     type: custom
     date: 2022-04-14
-    start_time: "15:45"
-    end_time: "16:00"
+    start_time: "16:05"
+    end_time: "16:30"
 
 ignites:
   - title: "mike-butler-ignite"
     date: 2022-04-13
   - title: "peter-valdez-ignite"
     date: 2022-04-13
-  - title: "michael-roberts-ignite"
+  - title: "jessica-wirt-ignite"
     date: 2022-04-13
-  - title: "noaa-barki-ignite"
+  - title: "jonathan-vogel-ignite"
     date: 2022-04-13
   - title: "keith-zantow-ignite"
     date: 2022-04-14
   - title: "jr-beaudoin-ignite"
     date: 2022-04-14
-  - title: "jason-yee-ignite"
+  - title: "ashina-sipiora-ignite"
+    date: 2022-04-14
+  - title: "michael-roberts-ignite"
     date: 2022-04-14

@@ -193,7 +193,7 @@ sponsors:
     level: community
   - id: slalom
     level: gold
-  - id: humio
+  - id: humio-before-20220325
     level: lanyard
   - id: allstate-before-20180725
     level: gold
