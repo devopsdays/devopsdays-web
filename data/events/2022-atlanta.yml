@@ -141,7 +141,7 @@ program:
     date: 2022-04-19
     start_time: "09:15"
     end_time: "09:25"
-  - title: "nivia-henry"
+  - title: "crux-conception"
     type: talk
     date: 2022-04-19
     start_time: "09:25"
@@ -265,8 +265,8 @@ program:
     date: 2022-04-20
     start_time: "09:15"
     end_time: "09:25"
-  - title: "andre-henry"
-    type: talk
+  - title: "Keynote 1"
+    type: custom
     date: 2022-04-20
     start_time: "09:25"
     end_time: "09:55"
