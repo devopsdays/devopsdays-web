@@ -36,8 +36,8 @@ location_address: "Piet Heinkade 179, 1019 HC Amsterdam" #Optional - use the str
 masthead_background: "skyline-ams.jpg"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
-    url: "https://sessionize.com/devopsdays-amsterdam-2022/"
+  # - name: propose
+  #   url: "https://sessionize.com/devopsdays-amsterdam-2022/"
   - name: location
   - name: registration
   # - name: program
@@ -102,11 +102,6 @@ team_members: # Name is the only required field for team members.
     twitter: "avagasso"
     image: "sarah.jpg"
 
-  - name: "Peter Nijenhuis"
-    linkedin: "https://www.linkedin.com/in/peter-nijenhuis-%E2%9C%93-lion-0b83751/"
-    twitter: "Peter_Nijenhuis"
-    image: "peter.jpg"
-
   - name: "Sean Bovaird"
     linkedin: "https://www.linkedin.com/in/sbovaird"
     twitter: "srbovaird"
@@ -126,18 +121,29 @@ sponsors:
   # gala
   # coffee
   # gold
-  - id: vmware-tanzu
-    level: gold
   - id: armo
+    level: gold
+  - id: solo
+    level: gold
+  - id: merkely
+    level: gold
+  - id: mondoo
+    level: gold
+  - id: elastic
     level: gold
   # tshirt
   # lanyard
-  # wristband
+  - id: ogd
+    level: lanyard
   # recharge
   # silver
   - id: fullstaq
     level: silver
+  - id: runcloud
+    level: silver
   # foodtrucks
+  - id: thefactory
+    level: foodtrucks
   # bronze
   - id: stream
     level: bronze
@@ -169,9 +175,6 @@ sponsor_levels:
     max: "1"
   - id: lanyard
     label: Lanyard
-    max: "1"
-  - id: wristband
-    label: Wristband
     max: "1"
   - id: recharge
     label: "Power recharge"

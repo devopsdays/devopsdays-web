@@ -1,7 +1,7 @@
 +++
 Title = "Kingdon Barrett"
 Twitter = "ebyen"
-image = ""
+image = "kingdon_barnett.jpg"
 type = "speaker"
 linktitle = "name-key"
 

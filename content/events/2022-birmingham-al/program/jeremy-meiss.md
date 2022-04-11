@@ -2,9 +2,9 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "DevOps before there was DevOps, 20yr old style"
+Title = "Things We've Learned About Better Software Delivery Principles Through a Panini"
 Type = "talk"
 Speakers = ["jeremy-meiss"]
 +++
 
-The year is 1996. A bright, resourceful 20 yr old Network Administrator at an ISP is tasked with a mundane, tedious project. Said 20 yr old feels he has a better way, and takes it upon himself to get creative. What follows is a quick journey down memory lane to a time before DevOps was DevOps.
+Since early 2020, software delivery has undergone quite a shift in process and practices and how we understand "high-performing engineering teams." With anonymous data collected from over 1M+ devs, 45K+ orgs, and 250M+ workflows, we've found some interesting insights into better DevOps practices. In this session, we will seek to uncover what this unique dataset can tell us about high-performing teams, and steps to get there as a business.

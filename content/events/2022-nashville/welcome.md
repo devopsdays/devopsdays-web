@@ -10,6 +10,8 @@ aliases = [
 Description = "DevOpsDays Nashville 2022"
 +++
 
+devopsdays Nashville 2022 has been postponed; details to follow.
+
 <!-- <div class="alert alert-danger" role="alert">
   Due to the local situation around COVID-19, devopsdays Nashville has been postponed until May 5-6 2022. Please click <a href="/events/2021-nashville/cancellation" class="alert-link">here for more information</a>.
 </div> -->
@@ -27,32 +29,32 @@ Description = "DevOpsDays Nashville 2022"
   </div>
 </div>
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div>
+</div> -->
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="registration" text="Register to attend the conference!" >}}
   </div>
-</div>
+</div> -->
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
-</div>
+</div> -->
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -72,14 +74,14 @@ Description = "DevOpsDays Nashville 2022"
   </div>
 </div> -->
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="sponsor" text="Sponsor the conference!" >}}
   </div>
-</div>
+</div> -->
 
 <div class = "row">
   <div class = "col-md-10">

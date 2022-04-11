@@ -213,11 +213,10 @@ sponsors:
     level: gold
   - id: permitIO
     level: gold
-  - id: media
-    level: Media
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: barvazgumi
     level: media
+  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

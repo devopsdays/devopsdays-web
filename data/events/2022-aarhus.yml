@@ -28,7 +28,7 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 # Location
 #
-coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+coordinates: "56.106700, 10.150430" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "SAVVÆRKET - Søren Nymarksvej 8 A - 8270 Højbjerg" # Defaults to city, but you can make it the venue name.
 #
 location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
@@ -61,10 +61,10 @@ team_members: # Name is the only required field for team members.
     employer: "Linkfire"
     github: "adyrcz"
     image: "andy-dyrcz.jpg"
-# - name: "Jasmine Crozier"
-#   twitter: "jasminecph"
-#   employer: "Eficode"
-#   image: "jasmine-crozier.jpg"
+  - name: "Jasmine Crozier"
+    twitter: "jasminecph"
+    employer: "Eficode"
+    image: "jasmine-crozier.jpg"
   - name: "Jeppe Andersen"
     twitter: "nocture"
     employer: "DataRobot"
@@ -83,12 +83,12 @@ team_members: # Name is the only required field for team members.
   - name: "Johanne Sundtoft"
     employer: "Systematic"
     image: "johanne-sundtoft.jpg"
-  - name: "Peter Andersson"
-    employer: "Eficode"
-    image: "peter-andersson.jpg"
   - name: "Jonas Vinther"
     employer: "Trifork"
     image: "jonas-vinther.jpg"
+  - name: "Amalie Hansen"
+    employer: "Destination AARhus"
+    image: "amalie-hansen.jpg"
 
 
 organizer_email: "aarhus@devopsdays.org" # Put your organizer email address here
@@ -115,6 +115,20 @@ sponsors:
     level: community
     url: https://danskecommodities.com/careers/it/
   - id: delegate
+    level: community
+  - id: miracle
+    level: community
+  - id: aarhus-devops
+    level: community
+  - id: systematic
+    level: community
+  - id: 2022-contrast-security
+    level: silver
+  - id: 2022-contrast-security
+    level: community
+  - id: vmware-tanzu
+    level: gold
+  - id: mygoodiebag
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -184,7 +198,7 @@ program:
     start_time: "12:00"
     end_time: "12:50"
   - title: "Ignite Talks"
-    type: custom
+    type: ignite
     date: 2022-04-26
     start_time: "12:50"
     end_time: "13:20"
@@ -306,3 +320,13 @@ program:
     date: 2022-04-27
     start_time: "15:40"
     end_time: "16:00"
+
+ignites:
+  - title: "henrik-hoegh"
+    date: 2022-04-26
+  - title: "ewelina-wilkosz"
+    date: 2022-04-26
+  - title: "mads-danquah"
+    date: 2022-04-26
+  - title: "john-behrens"
+    date: 2022-04-26

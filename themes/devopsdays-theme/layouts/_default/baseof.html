@@ -1,11 +1,7 @@
 <!DOCTYPE html>
 <html itemscope lang="{{ .Site.LanguageCode }}">
 <head>
-    {{- if .File -}}
-      {{- partialCached "head.html" . .File.Dir -}}
-    {{- else -}}
-      {{- partial "head.html" . -}}
-    {{- end -}}
+    {{- partial "head.html" . -}}
 </head>
 <body lang="{{ .Site.Params.Lang }}">
   {{- partialCached "global_navbar.html" . -}}
