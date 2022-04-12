@@ -327,7 +327,7 @@ program:
     type: custom
     date: 2022-06-22T00:00:00+02:00
     start_time: "17:30"
-    end_time: "15:30"
+    end_time: "19:30"
 
   # DAY 2 STARTS HERE
   - title: "Registration - Welcome!"
@@ -389,16 +389,19 @@ program:
     date: 2022-06-23T00:00:00+02:00
     start_time: "13:30"
     end_time: "13:40"
+    background_color: "#ECFFDC"
   - title: "joost-saanen"
     type: talk
     date: 2022-06-23T00:00:00+02:00
     start_time: "13:40"
     end_time: "13:50"
+    background_color: "#ECFFDC"
   - title: "tom-stille"
     type: talk
     date: 2022-06-23T00:00:00+02:00
     start_time: "13:50"
     end_time: "14:00"
+    background_color: "#ECFFDC"
   # Open Spaces!
   - title: "Opening Open Spaces"
     type: custom
@@ -443,6 +446,12 @@ program:
     date: 2022-06-23T00:00:00+02:00
     start_time: "17:30"
     end_time: "17:45"
+  # 🍖 time
+  - title: "Attendee BBQ"
+    type: custom
+    date: 2022-06-23T00:00:00+02:00
+    start_time: "17:45"
+    end_time: "20:00"
 
   # And before you can even miss us, we're back!
   # Day 3!
@@ -500,16 +509,19 @@ program:
     date: 2022-06-24T00:00:00+02:00
     start_time: "13:30"
     end_time: "13:40"
+    background_color: "#ECFFDC"
   - title: "pauli-teinonen"
     type: talk
     date: 2022-06-24T00:00:00+02:00
     start_time: "13:40"
     end_time: "13:50"
+    background_color: "#ECFFDC"
   - title: "jason-yee"
     type: talk
     date: 2022-06-24T00:00:00+02:00
     start_time: "13:50"
     end_time: "14:00"
+    background_color: "#ECFFDC"
   # Open Spaces!
   - title: "Opening Open Spaces"
     type: custom
