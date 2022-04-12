@@ -245,7 +245,7 @@ program:
   - title: "Evening event at Hudson Grille Downtown"
     type: custom
     date: 2022-04-19
-    start_time: "17:00"
+    start_time: "18:00"
     end_time: "late"
     custom_url: "https://hudsongrille.com/atlanta-hudson-grille-midtown-locations"
     
