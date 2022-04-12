@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Trauma-informed Site Reliability Engineering"
+Title = "Psychological Safety for SRE teams"
 Type = "talk"
 Speakers = ["lesley-cordero"]
 +++
