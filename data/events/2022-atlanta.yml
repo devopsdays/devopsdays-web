@@ -6,8 +6,8 @@ description: "Devopsdays is coming to the Georgia Aquarium, again!" # Edit this 
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2022-MM-DDTHH:MM:SS+TZ:TZ, like this:
-#   variable: 2019-01-04T00:00:00+02:00 
-#   variable: 2019-01-05T23:59:59+02:00
+#   variable: 2022-01-04T00:00:00+02:00 
+#   variable: 2022-01-05T23:59:59+02:00
 # Note: we allow 2022-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
 startdate: 2022-04-19T08:00:00+02:00  # The start date of your event. Leave blank if you don't have a venue reserved yet.
@@ -159,7 +159,7 @@ program:
     start_time: "10:25"
     end_time: "10:55"
     background_color: "#d5c5ef"
-  - title: "john-willis"
+  - title: "waldo-grunenwald"
     type: talk
     date: 2022-04-19
     start_time: "10:25"
@@ -178,8 +178,8 @@ program:
     start_time: "10:55"
     end_time: "11:25"
     background_color: "#d5c5ef"
-  - title: "waldo-grunenwald"
-    type: talk
+  - title: "Security 2"
+    type: custom
     date: 2022-04-19
     start_time: "10:55"
     end_time: "11:25"
@@ -214,11 +214,10 @@ program:
     start_time: "12:35"
     end_time: "13:35"
   - title: "Ignites"
-    type: custom
+    type: ignite
     date: 2022-04-19
     start_time: "13:35"
     end_time: "14:05"
-    background_color: "#c3ffd7"
 
   - title: "Open Space Opening"
     type: open-space
@@ -241,13 +240,13 @@ program:
     date: 2022-04-19
     start_time: "16:00"
     end_time: "16:45"
-    custom_url: "https://www.georgiaaquarium.org/wp-content/uploads/2019/02/Email_Brand-Anthem_01.47.mp4"
-  - title: "Evening event"
+    custom_url: "https://www.georgiaaquarium.org/wp-content/uploads/2022/02/Email_Brand-Anthem_01.47.mp4"
+  - title: "Evening event at Hudson Grille Downtown"
     type: custom
     date: 2022-04-19
-    start_time: "17:00"
+    start_time: "18:00"
     end_time: "late"
-    custom_url: ""
+    custom_url: "https://hudsongrille.com/atlanta-hudson-grille-midtown-locations"
     
 
   - title: "Registration, Breakfast, Sponsors"
@@ -277,7 +276,7 @@ program:
     start_time: "09:55"
     end_time: "10:25"
 
-  - title: "jj-ashgar"
+  - title: "martin-rojas"
     type: talk
     date: 2022-04-20
     start_time: "10:25"
@@ -297,8 +296,8 @@ program:
     background_color: "#8ad0d3"
   
   
-  - title: "martin-rojas"
-    type: talk
+  - title: "DevOps 2"
+    type: custom
     date: 2022-04-20
     start_time: "10:55"
     end_time: "11:25"
@@ -339,11 +338,10 @@ program:
     start_time: "12:35"
     end_time: "13:35"
   - title: "Ignites"
-    type: custom
+    type: ignite
     date: 2022-04-20
     start_time: "13:35"
     end_time: "14:05"
-    background_color: "#c3ffd7"
 
   - title: "Open Space Opening"
     type: open-space
@@ -367,3 +365,22 @@ program:
     start_time: "16:00"
     end_time: "16:45"
     custom_url: "https://www.georgiaaquarium.org/wp-content/uploads/2019/02/Email_Brand-Anthem_01.47.mp4"
+
+ignites:
+  - title: "waldo-grunenwald-ignite"
+    date: 2022-04-19
+  - title: "jade-west"
+    date: 2022-04-19
+  - title: "cassie-parlotto"
+    date: 2022-04-19
+  - title: "ravi-lachhman"
+    date: 2022-04-19
+  
+  - title: "amitai-romanelli"
+    date: 2022-04-20
+  - title: "chris-gruel"
+    date: 2022-04-20
+  - title: "manjula-subramanian"
+    date: 2022-04-20
+  - title: "tonya-jackson"
+    date: 2022-04-20
