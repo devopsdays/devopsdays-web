@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "What is the value of Optical Zoom?"
+Title = "Why should I care about Optical zoom?"
 Type = "talk"
 Speakers = ["manjula-subramanian"]
 +++
