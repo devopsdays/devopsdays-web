@@ -159,7 +159,7 @@ program:
     start_time: "10:25"
     end_time: "10:55"
     background_color: "#d5c5ef"
-  - title: "john-willis"
+  - title: "waldo-grunenwald"
     type: talk
     date: 2022-04-19
     start_time: "10:25"
@@ -178,8 +178,8 @@ program:
     start_time: "10:55"
     end_time: "11:25"
     background_color: "#d5c5ef"
-  - title: "waldo-grunenwald"
-    type: talk
+  - title: "Security 2"
+    type: custom
     date: 2022-04-19
     start_time: "10:55"
     end_time: "11:25"
@@ -242,7 +242,7 @@ program:
     start_time: "16:00"
     end_time: "16:45"
     custom_url: "https://www.georgiaaquarium.org/wp-content/uploads/2019/02/Email_Brand-Anthem_01.47.mp4"
-  - title: "Evening event"
+  - title: "Evening event at Hudson Grille Downtown"
     type: custom
     date: 2022-04-19
     start_time: "17:00"
@@ -277,7 +277,7 @@ program:
     start_time: "09:55"
     end_time: "10:25"
 
-  - title: "jj-ashgar"
+  - title: "martin-rojas"
     type: talk
     date: 2022-04-20
     start_time: "10:25"
@@ -297,8 +297,8 @@ program:
     background_color: "#8ad0d3"
   
   
-  - title: "martin-rojas"
-    type: talk
+  - title: "DevOps 2"
+    type: custom
     date: 2022-04-20
     start_time: "10:55"
     end_time: "11:25"
