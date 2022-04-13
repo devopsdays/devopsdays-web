@@ -6,9 +6,10 @@ Description = "Sponsor DevOpsDays London 2022"
 <div class="container-fluid">
   <div class="row justify-content-start">
     <div class="col-md-9">
-      <div class="alert alert-primary" role="alert">
-        5% off payment if made by 11th March 2022
-      </div>
+      <!-- This date has now passed and offer is no longer valid.
+        <div class="alert alert-primary" role="alert">
+          5% off payment if made by 11th March 2022
+        </div> -->
       <div>
         <h3>Join the community</h3>
         <p>DevOpsDays London is run as a single track of curated talks in the morning and in the afternoon we host self organized conversations. The self organized content is known as “open spaces”. As a sponsor of DevOpsDays London you are encouraged to participate in the event. We want you to attend the talks and to take part in the open spaces - We want you to get involved!</p>
