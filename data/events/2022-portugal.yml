@@ -43,7 +43,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   #  - name: registration
   #  - name: program
   #  - name: speakers
-  # - name: sponsor
+  - name: sponsor
   - name: contact
   - name: conduct
 #  - name: volunteers
@@ -123,14 +123,6 @@ team_members: # Name is the only required field for team members.
     github: ""
     website: ""
     image: 
-  - name: "Miguel David"
-    employer: "Harvest"
-    bio: ""
-    linkedin: "https://www.linkedin.com/in/migueldavid/"
-    twitter: "desfocado"
-    github: "minac"
-    website: "https://migueldavid.eu/"
-    image: miguel-david.jpg
   - name: "Tomé Duarte"
     employer: "Kencko"
     bio:
