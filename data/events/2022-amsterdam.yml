@@ -198,36 +198,18 @@ program:
     start_time: "08:00"
     end_time: "09:00"
   # 9:00 start
-  - title: "ws-patrick-munch"
-    type: workshop
-    date: 2022-06-22T00:00:00+02:00
-    start_time: "09:00"
-    end_time: "10:30"
-    comments: "Location: Grote Zaal"
-  - title: "ws-david-flanagan"
+  - title: "ws-nathen-amanda"
     type: workshop
     date: 2022-06-22T00:00:00+02:00
     start_time: "09:00"
     end_time: "10:30"
     comments: "Location: IJzaal"
-  - title: "ws-gabriela-roa"
+  - title: "ws-martijn-van-dongen"
     type: workshop
     date: 2022-06-22T00:00:00+02:00
     start_time: "09:00"
-    end_time: "09:45"
-    comments: "Location: Workspace"
-  - title: "ws-amber-vanderburg"
-    type: workshop
-    date: 2022-06-22T00:00:00+02:00
-    start_time: "09:00"
-    end_time: "09:45"
-    comments: "Location: Studio"
-  - title: "ws-riccardo-glenn"
-    type: workshop
-    date: 2022-06-22T00:00:00+02:00
-    start_time: "09:00"
-    end_time: "10:30"
-    comments: "Location: Expo"
+    end_time: "12:15"
+    comments: "Location: Studio (Note: 3 hours)"
   # Break
   - title: "Break"
     type: custom
@@ -235,50 +217,26 @@ program:
     start_time: "10:30"
     end_time: "10:45"
   # 10:45 start
-  - title: "ws-stan-malinowski"
+  - title: "ws-patrick-munch"
     type: workshop
     date: 2022-06-22T00:00:00+02:00
     start_time: "10:45"
-    end_time: "11:30"
+    end_time: "12:15"
     comments: "Location: Grote Zaal"
-  - title: "ws-andrew-martin"
+  - title: "ws-david-flanagan"
     type: workshop
     date: 2022-06-22T00:00:00+02:00
     start_time: "10:45"
     end_time: "12:15"
     comments: "Location: IJzaal"
-  - title: "ws-niek-van-raaij"
-    type: workshop
-    date: 2022-06-22T00:00:00+02:00
-    start_time: "10:45"
-    end_time: "12:15"
-    comments: "Location: Workspace"
-  - title: "ws-esther-barthel"
-    type: workshop
-    date: 2022-06-22T00:00:00+02:00
-    start_time: "10:45"
-    end_time: "11:30"
-    comments: "Location: Studio"
-  - title: "ws-joseph-katsioloudes"
+  - title: "ws-gabriela-roa"
     type: workshop
     date: 2022-06-22T00:00:00+02:00
     start_time: "10:45"
     end_time: "11:30"
     comments: "Location: Expo"
   # 11:30 start
-  - title: "ws-christina-aldan"
-    type: workshop
-    date: 2022-06-22T00:00:00+02:00
-    start_time: "11:30"
-    end_time: "12:15"
-    comments: "Location: Grote Zaal"
-  - title: "ws-alex-sloley"
-    type: workshop
-    date: 2022-06-22T00:00:00+02:00
-    start_time: "11:30"
-    end_time: "12:15"
-    comments: "Location: Studio"
-  - title: "ws-caroline-williams"
+  - title: "ws-amber-vanderburg"
     type: workshop
     date: 2022-06-22T00:00:00+02:00
     start_time: "11:30"
@@ -291,25 +249,50 @@ program:
     start_time: "12:15"
     end_time: "13:00"
   # 13:00 start
-  - title: "ws-glenn-anderson"
+  - title: "ws-riccardo-glenn"
     type: workshop
     date: 2022-06-22T00:00:00+02:00
     start_time: "13:00"
-    end_time: "15:15"
+    end_time: "14:30"
     comments: "Location: Grote Zaal"
-  - title: "ws-matt-stratton"
+  - title: "ws-andrew-martin"
     type: workshop
     date: 2022-06-22T00:00:00+02:00
     start_time: "13:00"
     end_time: "14:30"
     comments: "Location: IJzaal"
-  # 14:30
   - title: "ws-eran-bibi"
+    type: workshop
+    date: 2022-06-22T00:00:00+02:00
+    start_time: "13:00"
+    end_time: "13:45"
+    comments: "Location: Studio"
+  - title: "ws-caroline-williams"
+    type: workshop
+    date: 2022-06-22T00:00:00+02:00
+    start_time: "13:00"
+    end_time: "13:45"
+    comments: "Location: Expo"
+ # 13:45 start
+  - title: "ws-alex-sloley"
+    type: workshop
+    date: 2022-06-22T00:00:00+02:00
+    start_time: "13:45"
+    end_time: "14:30"
+    comments: "Location: Expo"
+ # 14:30 start
+  - title: "ws-joseph-katsioloudes"
     type: workshop
     date: 2022-06-22T00:00:00+02:00
     start_time: "14:30"
     end_time: "15:15"
-    comments: "Location: IJzaal"
+    comments: "Location: Grote Zaal"
+  - title: "ws-christina-aldan"
+    type: workshop
+    date: 2022-06-22T00:00:00+02:00
+    start_time: "14:30"
+    end_time: "15:15"
+    comments: "Location: Studio"
   # Break 
   - title: "Break"
     type: custom
@@ -317,23 +300,36 @@ program:
     start_time: "15:15"
     end_time: "15:30"
   # 15:30 start
-  - title: "ws-nathen-amanda"
+  - title: "ws-matt-stratton"
     type: workshop
     date: 2022-06-22T00:00:00+02:00
     start_time: "15:30"
     end_time: "17:00"
-    comments: "Location: Grote Zaal"
-  - title: "ws-martijn-van-dongen"
+    comments: "Location: IJzaal"
+  - title: "ws-niek-van-raaij"
     type: workshop
     date: 2022-06-22T00:00:00+02:00
     start_time: "15:30"
-    end_time: "17:45"
-    comments: "Location: IJzaal"
+    end_time: "17:00"
+    comments: "Location: Studio"
+  - title: "ws-esther-barthel"
+    type: workshop
+    date: 2022-06-22T00:00:00+02:00
+    start_time: "15:30"
+    end_time: "16:15"
+    comments: "Location: Grote Zaal"
+  # 16:15 start
+  - title: "ws-stan-malinowski"
+    type: workshop
+    date: 2022-06-22T00:00:00+02:00
+    start_time: "16:15"
+    end_time: "17:00"
+    comments: "Location: Grote Zaal"
   # Celebration time!
   - title: "Drinks and snacks"
     type: custom
     date: 2022-06-22T00:00:00+02:00
-    start_time: "17:30"
+    start_time: "17:00"
     end_time: "19:30"
 
   # DAY 2 STARTS HERE
