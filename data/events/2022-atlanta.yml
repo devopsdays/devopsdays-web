@@ -202,8 +202,8 @@ program:
     date: 2022-04-19
     start_time: "11:55"
     end_time: "12:05"
-  - title: "Keynote 2"
-    type: custom
+  - title: "valarie-regas"
+    type: talk
     date: 2022-04-19
     start_time: "12:05"
     end_time: "12:35"
