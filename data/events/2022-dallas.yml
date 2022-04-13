@@ -90,7 +90,7 @@ team_members: # Name is the only required field for team members.
 
   - name: "John-Paul Herold"
     employer: "Southwest Airlines"
-    bio: "John-Paul Herold is an engineer focusing on cloud architectures, tooling for more frequent deployments, container orchestration, improving observability, and building great teams. John-Paul was previously a Java developer, made the transition to Cloud Engineer 6 years ago, and is currently a Tech Lead for Southwest Airlines.<br><br>His path with DevOpsDays started in 2015 when he attended both Dallas and Austin, and has continued every year since. He volunteered for Dallas the first time in 2019, and Dallas 2020 will be his first time as an organizer. <br><br>John-Paul is based in Dallas and has a CSE degree from Southern Methodist University. In his off time he enjoys playing soccer, listening to music, running a homelab, reading tech books, and working on projects in his garage."
+    bio: "John-Paul Herold is an engineering leader focused on continuous learning and building great teams that leverage cloud technology to deliver high-value solutions. Currently his teams are focused on cloud architecture resilency, container orchestration, observability, cost optimization, performance engineering, and developer experience tooling. John-Paul started as a Java developer, transitioned to \"DevOps\" engineer when he realized he could manage servers as cattle [not pets], then cloud engineer which brought him to Southwest Airlines where he later moved into leadership.<br><br>His path with DevOpsDays started in 2015 when he attended both Dallas and Austin, and has continued every year since. He volunteered for DevOpsDays DFW the first time in 2019, was an organizer for DevOpsDays Texas 2021, and returns as an organizer for this year's DFW event.<br><br>John-Paul is based in Dallas and has a CSE degree from Southern Methodist University. In his off time he enjoys playing soccer, listening to music, running a homelab, reading tech books, and working on projects in his garage."
     twitter: "thedailyherold"
     linkedin: "https://www.linkedin.com/in/johnpaulherold/"
     image: "herold.jpg"
@@ -182,11 +182,15 @@ sponsors:
 #    level: platinum
   - id: appdynamics
     level: gold
-#  - id: chef
-#    level: gold
-#  - id: xmatters
-#    level: gold
+  - id: xmatters
+    level: gold
   - id: launch-darkly
+    level: gold
+  - id: linearb
+    level: gold
+  - id: styra
+    level: gold
+  - id: sleuth
     level: gold
   - id: arresteddevops
     level: media
