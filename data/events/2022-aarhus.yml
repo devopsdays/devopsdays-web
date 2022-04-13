@@ -130,6 +130,8 @@ sponsors:
     level: gold
   - id: mygoodiebag
     level: community
+  - id: trifork
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -293,7 +295,7 @@ program:
     date: 2022-04-27
     start_time: "13:25"
     end_time: "13:40"
-  - title: "karina-popova"
+  - title: "nicolas-narbais"
     type: talk
     date: 2022-04-27
     start_time: "13:40"
