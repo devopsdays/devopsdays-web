@@ -184,8 +184,8 @@ program:
     start_time: "10:55"
     end_time: "11:25"
     background_color: "#fffa99"
-  - title: "SRE & Complexity 2"
-    type: custom
+  - title: "jared-jordan"
+    type: talk
     date: 2022-04-19
     start_time: "10:55"
     end_time: "11:25"
