@@ -172,8 +172,8 @@ program:
     end_time: "10:55"
     background_color: "#8ad0d3"
   
-  - title: "DevOps 2"
-    type: custom
+  - title: "rishi-yadav"
+    type: talk
     date: 2022-04-19
     start_time: "10:55"
     end_time: "11:25"
