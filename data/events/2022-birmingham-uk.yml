@@ -178,7 +178,7 @@ program:
     date: 2022-05-05T09:00:00+00:00
     start_time: "12:00"
     end_time: "12:05"
-  - title: "noaa-barki"
+  - title: "antonio-cobo"
     type: talk
     date: 2022-05-05T09:00:00+00:00
     start_time: "12:05"
@@ -275,9 +275,8 @@ program:
     date: 2022-05-06T09:00:00+00:00
     start_time: "09:40"
     end_time: "10:10"
-#  - title: "ayelet-sachto"
-  - title: TBD
-#    type: talk
+  - title: "ayelet-sachto"
+    type: talk
     type: custom
     date: 2022-05-06T09:00:00+00:00
     start_time: "10:10"
@@ -287,9 +286,8 @@ program:
     date: 2022-05-06T09:00:00+00:00
     start_time: "10:40"
     end_time: "11:00"
-#  - title: "angeliki-patsiavou"
-  - title: TBD
-#    type: talk
+  - title: "angeliki-patsiavou"
+    type: talk
     type: custom
     date: 2022-05-06T09:00:00+00:00
     start_time: "11:00"
@@ -304,35 +302,25 @@ program:
     date: 2022-05-06T09:00:00+00:00
     start_time: "12:00"
     end_time: "12:05"
-  - title: "TBD"
-    type: custom
-    date: 2022-05-06T09:00:00+00:00
-    start_time: "12:05"
-    end_time: "12:10"
   - title: "matilde-aliffi"
     type: talk
     date: 2022-05-06T09:00:00+00:00
-    start_time: "12:10"
-    end_time: "12:15"
-  - title: "antonio-cobo"
+    start_time: "12:05"
+    end_time: "12:10"
+  - title: "noaa-barki"
     type: talk
     date: 2022-05-06T09:00:00+00:00
-    start_time: "12:15"
-    end_time: "12:20"
-  - title: TBD
-    type: custom
-    date: 2022-05-06T09:00:00+00:00
-    start_time: "12:20"
-    end_time: "12:25"
+    start_time: "12:10"
+    end_time: "12:40"
   - title: "Open Space Opening"
     type: custom
     date: 2022-05-06T09:00:00+00:00
-    start_time: "12:25"
-    end_time: "12:35"
+    start_time: "12:40"
+    end_time: "12:45"
   - title: "Lunch"
     type: custom
     date: 2022-05-06T09:00:00+00:00
-    start_time: "12:35"
+    start_time: "12:45"
     end_time: "13:30"
   - title: "Open Space Planning"
     type: custom
