@@ -153,7 +153,7 @@ program:
     start_time: "09:55"
     end_time: "10:25"
   
-  - title: "mason-egger"
+  - title: "noam-salinger"
     type: talk
     date: 2022-04-19
     start_time: "10:25"
@@ -172,20 +172,20 @@ program:
     end_time: "10:55"
     background_color: "#8ad0d3"
   
-  - title: "amber-vanderburg"
+  - title: "rishi-yadav"
     type: talk
     date: 2022-04-19
     start_time: "10:55"
     end_time: "11:25"
     background_color: "#d5c5ef"
-  - title: "Security 2"
-    type: custom
+  - title: "peter-oneill"
+    type: talk
     date: 2022-04-19
     start_time: "10:55"
     end_time: "11:25"
     background_color: "#fffa99"
-  - title: "SRE & Complexity 2"
-    type: custom
+  - title: "jared-jordan"
+    type: talk
     date: 2022-04-19
     start_time: "10:55"
     end_time: "11:25"
@@ -202,8 +202,8 @@ program:
     date: 2022-04-19
     start_time: "11:55"
     end_time: "12:05"
-  - title: "Keynote 2"
-    type: custom
+  - title: "amber-vanderburg"
+    type: talk
     date: 2022-04-19
     start_time: "12:05"
     end_time: "12:35"
@@ -264,8 +264,8 @@ program:
     date: 2022-04-20
     start_time: "09:15"
     end_time: "09:25"
-  - title: "Keynote 1"
-    type: custom
+  - title: "valarie-regas"
+    type: talk
     date: 2022-04-20
     start_time: "09:25"
     end_time: "09:55"
@@ -302,8 +302,8 @@ program:
     start_time: "10:55"
     end_time: "11:25"
     background_color: "#d5c5ef"
-  - title: "Security 2"
-    type: custom
+  - title: "brandy-griffin"
+    type: talk
     date: 2022-04-20
     start_time: "10:55"
     end_time: "11:25"
@@ -370,6 +370,8 @@ ignites:
   - title: "waldo-grunenwald-ignite"
     date: 2022-04-19
   - title: "jade-west"
+    date: 2022-04-19
+  - title: "kirti-sanchana"
     date: 2022-04-19
   - title: "cassie-parlotto"
     date: 2022-04-19
