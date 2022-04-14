@@ -248,11 +248,11 @@ program:
     date: 2022-05-05T09:00:00+00:00
     start_time: "16:40"
     end_time: "17:00"
-#  - title: "Evening event"
-#    type: custom
-#    date: 2022-05-05T09:00:00+00:00
-#    start_time: "19:00"
-#    end_time: "late"
+  - title: "Evening event @ Purecraft bar Birmingham!"
+    type: custom
+    date: 2022-05-05T09:00:00+00:00
+    start_time: "18:30"
+    end_time: "late"
 
 # TODO day 2
   - title: "Registration, Breakfast, Sponsors"
