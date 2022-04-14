@@ -8,4 +8,4 @@ type = "speaker"
 linktitle = "eduardo-piairo"
 +++
 
-Biz Operations Manager @ Deeper Insights enjoys building software, bureaucracy, and communities. The pipeline is his favorite technical and cultural tool. <Insert-anything-here>Ops approach enthusiast.
+Biz Operations Manager @ Deeper Insights enjoys building software, bureaucracy, and communities. The pipeline is his favorite technical and cultural tool. InsertAnythingHereOps approach enthusiast.

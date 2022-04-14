@@ -1,6 +1,6 @@
 name: "2022-kyiv" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2022" # The year of the event. Make sure it is in quotes.
-city: "#StandWithUkraine" # The displayed city name of the event. Capitalize it.
+city: "Ukraine" # The displayed city name of the event. Capitalize it.
 event_group: "Kyiv"
 event_twitter: "days_dev" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "DevOps life in crisis mode" # Edit this to suit your preferences
@@ -11,8 +11,8 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2022-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: 2022-05-09T00:00:00+03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2022-05-10T23:59:59+03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2022-05-17T00:00:00+03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2022-05-18T23:59:59+03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2021-12-07T00:00:00+03:00 # start accepting talk proposals.
@@ -23,10 +23,10 @@ cfp_open: "true"
 cfp_link: "https://docs.google.com/forms/d/e/1FAIpQLSdKMc1pLHKB8vqZSn_lnPuu1qjJz-uBiMjAxzlysqutKuXhxQ/viewform" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2022-01-01T00:00:00+03:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: 2022-05-08T23:59:59+03:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_end: 2022-05-17T23:59:59+03:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.eventbrite.co.uk/e/devopsdays-ukraine-registration-313740856347" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -114,13 +114,11 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: partner
-    label: Partner
-  # - id: gold
-  #   label: Gold
-  # - id: silver
-  #   label: Silver
-  # - id: bronze
-  #   label: Bronze
-  # - id: community
-  #   label: Community
+  - id: platinum
+    label: Platinum
+  - id: gold
+    label: Gold
+  - id: silver
+    label: Silver
+  - id: community
+    label: Supporter
