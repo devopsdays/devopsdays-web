@@ -172,8 +172,8 @@ program:
     end_time: "10:55"
     background_color: "#8ad0d3"
   
-  - title: "amber-vanderburg"
-    type: talk
+  - title: "DevOps 2"
+    type: custom
     date: 2022-04-19
     start_time: "10:55"
     end_time: "11:25"
@@ -202,7 +202,7 @@ program:
     date: 2022-04-19
     start_time: "11:55"
     end_time: "12:05"
-  - title: "valarie-regas"
+  - title: "amber-vanderburg"
     type: talk
     date: 2022-04-19
     start_time: "12:05"
@@ -264,8 +264,8 @@ program:
     date: 2022-04-20
     start_time: "09:15"
     end_time: "09:25"
-  - title: "Keynote 1"
-    type: custom
+  - title: "valarie-regas"
+    type: talk
     date: 2022-04-20
     start_time: "09:25"
     end_time: "09:55"
