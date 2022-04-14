@@ -87,10 +87,8 @@ sponsors:
 #    level: gold
   - id: harness
     level: silver
-#  - id: veeam
-#    level: gold
-#  - id: buildkite
-#    level: gold
+  - id: veeam
+    level: gold
   - id: catchpoint
     level: gold
   - id: mondoo
@@ -109,6 +107,8 @@ sponsors:
     level: bronze
   - id: devopsnotts
     level: community
+  - id: vonage
+    level: gold
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -277,7 +277,6 @@ program:
     end_time: "10:10"
   - title: "ayelet-sachto"
     type: talk
-    type: custom
     date: 2022-05-06T09:00:00+00:00
     start_time: "10:10"
     end_time: "10:40"
@@ -288,7 +287,6 @@ program:
     end_time: "11:00"
   - title: "angeliki-patsiavou"
     type: talk
-    type: custom
     date: 2022-05-06T09:00:00+00:00
     start_time: "11:00"
     end_time: "11:30"
