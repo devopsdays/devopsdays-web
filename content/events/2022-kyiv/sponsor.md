@@ -12,10 +12,13 @@ In May 2022 the Kyiv organizers were planning to host their fifth DevOpsDays con
 <p>
 DevOpsDays Ukraine is now a charity edition of the conference. We are inviting the whole world to talk about DevOps, crises, and adapting. All proceeds will go toward local, Ukrainian-led charities. The event aims to highlight the crisis in Ukraine, support Ukrainian DevOps specialists, and to collect donations to support all Ukrainian people.
 <p>
+Please join us and #StandWithUkraine
 
-<h2>Please join us and #StandWithUkraine</h2>
-<a href="#" class="btn btn-primary"><i class="fa fa-folder fa-lg"></i>&nbsp;&nbsp;&nbsp;View the DevOpsDays Ukraine 2022 Sponsor Prospectus</a>
-
+<h2>Sponsor Today</h2> 
+<a href="mailto:kyiv@devopsdays.org" class="btn btn-primary"><i class="fa fa-envelope fa-lg"></i>&nbsp;&nbsp;&nbsp;Email us to become a sponsor</a>
+<p></p>
+<a href="https://drive.google.com/file/d/169R-m0SQeswfzxkSdCXlj3ASgE_Bv74A/view?usp=sharing" class="btn btn-primary"><i class="fa fa-folder fa-lg"></i>&nbsp;&nbsp;&nbsp;View the DevOpsDays Ukraine 2022 Sponsor Prospectus</a>
+<p>
 <h2>Sponsor Levels</h2> 
 
 <table class="table table-bordered table-hover">
@@ -37,51 +40,6 @@ DevOpsDays Ukraine is now a charity edition of the conference. We are inviting t
       <td>&#60; €3500 <br>&#60; ~$3,800</td>
     </tr>
     <tr>
-      <td></td>
-      <td colspan="3"><small>
-      Note: Paypal payments include 3% service charge. For an invoice, receipts or questions on VAT <a href="mailto:kyiv-sponsors@devopsdays.org?subject=DevOpsDays%20Ukraine%202022%20Sponsorship">Email us.</a>
-      </small></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>
-        <!-- Gold Paypal button  -->
-        <form action="#" method="post" target="_top">
-          <input type="hidden" name="cmd" value="_s-xclick">
-          <input type="hidden" name="hosted_button_id" value="S9SCLZP3USU7L">
-          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-          <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-        </form>
-      </td>
-      <td>
-        <!-- silver Paypal button  -->
-        <form action="#" method="post" target="_top">
-          <input type="hidden" name="cmd" value="_s-xclick">
-          <input type="hidden" name="hosted_button_id" value="LUSEMWLZ7MKKW">
-          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-          <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-        </form>
-      </td>
-      <td>
-        <!-- bronze Paypal button  -->
-        <form action="#" method="post" target="_top">
-          <input type="hidden" name="cmd" value="_s-xclick">
-          <input type="hidden" name="hosted_button_id" value="DDXAP9S3324DC">
-          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-          <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-        </form>
-      </td>
-      <td><!-- support Paypal button  -->
-        <form action="#" method="post" target="_top">
-          <input type="hidden" name="cmd" value="_s-xclick">
-          <input type="hidden" name="hosted_button_id" value="DDXAP9S3324DC">
-          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-          <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-        </form>
-      </td>
-    </tr>
-    <tr>
       <td>Clickable logo on the event website and announcement on Social Media (Facebook, Twitter, LinkedIn)</td>
       <td>+</td>
       <td>+</td>
@@ -96,21 +54,21 @@ DevOpsDays Ukraine is now a charity edition of the conference. We are inviting t
       <td></td>
     </tr>
     <tr>
-      <td>Logo on the event cover on Facebook and LinkedIn</td>
+      <td>Logo on the event page on Facebook and LinkedIn</td>
       <td>+</td>
       <td>+</td>
       <td>+</td>
       <td></td>
     </tr>
     <tr>
-      <td>Sponsor announcement by the moderator during the conference </td>
+      <td>Sponsor mention by the moderator during the conference </td>
       <td>+</td>
       <td>+</td>
       <td>+</td>
       <td></td>
     </tr>
     <tr>
-      <td>Mentioning job openings in the e-mail newsletter: company logo and name + clickable job listings (to the participants who agreed to receive job newsletters)</td>
+      <td>Job openings in the e-mail newsletter: company logo and name + clickable job listings (to opted-in participants)</td>
       <td>5</td>
       <td>2</td>
       <td></td>
@@ -124,20 +82,12 @@ DevOpsDays Ukraine is now a charity edition of the conference. We are inviting t
       <td></td>
     </tr>
     <tr>
-      <td>Company logo on the email cover during  the email communication with participants</td>
+      <td>Company logo on the participant email</td>
       <td>+</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
-    <tr>
-      <td>Giveaway with opportunity to gather leads</td>
-      <td>+</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
       <td>Logo in Our Supporters section of the event website</td>
       <td></td>
       <td></td>
@@ -153,8 +103,9 @@ DevOpsDays Ukraine is now a charity edition of the conference. We are inviting t
   <br/>
   Sponsors are responsible for providing high-res logos for use on the website and in promotional materials.  The preferred file formats are EPS or AI.
   <br/><br/>
-  *All proceeds will go towards Ukrainian humanitarian causes. For charities and organizational details <a href="#" >see the DevOpsDays Ukraine 2022 Sponsor Prospectus.</a>
-
+  *All proceeds will go towards Ukrainian humanitarian causes. For charities and organizational details <a href="https://drive.google.com/file/d/169R-m0SQeswfzxkSdCXlj3ASgE_Bv74A/view?usp=sharing" >see the DevOpsDays Ukraine 2022 Sponsor Prospectus.</a>
+<p>
+<a href="mailto:kyiv@devopsdays.org" class="btn btn-primary"><i class="fa fa-envelope fa-lg"></i>&nbsp;&nbsp;&nbsp;Email us to become a sponsor</a>
 <br><br>
 </div>
 </div>
