@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Developer Productivity Engineering – The Next Big Thing in Software Development"
 Type = "talk"
-Speakers = ["justin-reock"]
+Speakers = ["etienne-studer"]
 +++
 
 In this keynote style talk you will learn why DPE is the most important development in the software engineering world since the introduction of Agile and DevOps concepts and tools.

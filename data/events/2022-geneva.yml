@@ -206,7 +206,7 @@ program:
     end_time: "10:50"
 
     # Day 1: workshop 1
-  - title: justin-reock
+  - title: etienne-studer
     type: workshop
     date: "2022-05-12"
     start_time: "9:15"
