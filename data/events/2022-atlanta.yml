@@ -178,8 +178,8 @@ program:
     start_time: "10:55"
     end_time: "11:25"
     background_color: "#d5c5ef"
-  - title: "Security 2"
-    type: custom
+  - title: "peter-oneill"
+    type: talk
     date: 2022-04-19
     start_time: "10:55"
     end_time: "11:25"
