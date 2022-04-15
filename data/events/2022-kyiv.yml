@@ -54,13 +54,6 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
-  - name: "Sasha Rosenbaum"
-    image: "sasha-rosenbaum.jpg"
-    employer: "Red Hat"
-    twitter: "DivineOps"
-    website: "https://www.sasharosenbaum.com/"
-    linkedin: "https://www.linkedin.com/in/sasha-rosenbaum"
-    bio: "Sasha is a Director on the Cloud Services Black Belts team at Red Hat, where she is helping enterprise customers successfully migrate to managed OpenShift on customers’ favorite public cloud. In her career, Sasha has worked in development, operations, consulting, and cloud architecture. Sasha is an organizer of DevOpsDays Chicago, a chair of DeliveryConf, and a published author."
 
   - name: "Paul Czarkowski"
     employer: "Red Hat"
@@ -68,13 +61,20 @@ team_members: # Name is the only required field for team members.
     image: "paul.jpg"
     github: "paulczar"
 
-  - name: "Margaret Valtierra"
-    image: "margaret-valtie.jpg"
-    employer: "Morningstar"
-    twitter: "margaretvaltie"
-    linkedin: "https://www.linkedin.com/in/margaretvaltierra/"
-    github: "margaretvaltie"
-    bio: "Margaret Valtierra is a Program Manager at Morningstar. She runs the AWS Chicago user group, AWS Community Day Midwest, and is a global core organizer for the AWS Community Days. When not at work she can usually be found at the dog park with her dog, Peanut."
+  - name: "Mykola Marzhan"
+    employer: "Canonical"
+    twitter: ""
+    bio: "Mykola has been shorting “Time-to-market” in software companies more than fifteen years. Most of his career he has been focused on the automation of release procedures, and on the development of monitoring, update and deployment systems."
+    github: "delgod"
+    linkedin: "https://www.linkedin.com/in/delgod/"
+    image: "mykola-marzhan.jpg"
+
+  - name: "Oleg Mykolaichenko"
+    employer: "SQUAD"
+    twitter: ""
+    bio: "Head of Infrastructure at SQUAD. Leading distributed DevOps team, adopting CNCF + HashiCorp Stack for complex infrastructures. Kyiv DevOps Community Co-Founder, runs the largest Telegram channel about DevOps in Ukraine and DevOps digests on DOU.UA."
+    linkedin: "https://www.linkedin.com/in/oleg-mykolaichenko-763ab699/"
+    image: "oleg-mykolaichenko.jpg"
 
   - name: "Yurii Rochniak"
     employer: "N26"
@@ -86,26 +86,29 @@ Yurii is a creator and administrator of CatOps Telegram channel with more than 5
 Yurii is originally from Kyiv, but currently located in Berlin. He's into biking and stand up paddleboarding, when the weather allows it."
     image: "yurii-rochniak.jpg"
 
-  - name: "Oleg Mykolaichenko"
-    employer: "SQUAD"
-    twitter: ""
-    bio: "Head of Infrastructure at SQUAD. Leading distributed DevOps team, adopting CNCF + HashiCorp Stack for complex infrastructures. Kyiv DevOps Community Co-Founder, runs the largest Telegram channel about DevOps in Ukraine and DevOps digests on DOU.UA."
-    linkedin: "https://www.linkedin.com/in/oleg-mykolaichenko-763ab699/"
-    image: "oleg-mykolaichenko.jpg"
+  - name: "Sasha Rosenbaum"
+    image: "sasha-rosenbaum.jpg"
+    employer: "Red Hat"
+    twitter: "DivineOps"
+    website: "https://www.sasharosenbaum.com/"
+    linkedin: "https://www.linkedin.com/in/sasha-rosenbaum"
+    bio: "Sasha is a Director on the Cloud Services Black Belts team at Red Hat, where she is helping enterprise customers successfully migrate to managed OpenShift on customers’ favorite public cloud. In her career, Sasha has worked in development, operations, consulting, and cloud architecture. Sasha is an organizer of DevOpsDays Chicago, a chair of DeliveryConf, and a published author."
 
-  - name: "Mykola Marzhan"
-    employer: "Canonical"
-    twitter: ""
-    bio: "Mykola has been shorting “Time-to-market” in software companies more than fifteen years. Most of his career he has been focused on the automation of release procedures, and on the development of monitoring, update and deployment systems."
-    github: "delgod"
-    linkedin: "https://www.linkedin.com/in/delgod/"
-    image: "mykola-marzhan.jpg"
+  - name: "Margaret Valtierra"
+    image: "margaret-valtie.jpg"
+    employer: "Morningstar"
+    twitter: "margaretvaltie"
+    linkedin: "https://www.linkedin.com/in/margaretvaltierra/"
+    github: "margaretvaltie"
+    bio: "Margaret Valtierra is a Program Manager at Morningstar. She runs the AWS Chicago user group, AWS Community Day Midwest, and is a global core organizer for the AWS Community Days. When not at work she can usually be found at the dog park with her dog, Peanut."
 
 organizer_email: "kyiv@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: devopsdayschi
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
