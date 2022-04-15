@@ -38,12 +38,12 @@ location_address: "2110 San Jacinto Boulevard, Austin, Texas 78712" #Optional - 
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   # - name: propose
+  - name: schedule
   - name: registration
- # - name: program
   - name: speakers
-  - name: sponsor
   - name: location
   - name: contact
+  - name: sponsor
   - name: conduct
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
