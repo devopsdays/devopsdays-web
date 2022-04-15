@@ -296,8 +296,8 @@ program:
     background_color: "#8ad0d3"
   
   
-  - title: "DevOps 2"
-    type: custom
+  - title: "brooks-townsend"
+    type: talk
     date: 2022-04-20
     start_time: "10:55"
     end_time: "11:25"
@@ -326,8 +326,8 @@ program:
     date: 2022-04-20
     start_time: "11:55"
     end_time: "12:05"
-  - title: "Keynote 2"
-    type: custom
+  - title: "david-laribee"
+    type: talk
     date: 2022-04-20
     start_time: "12:05"
     end_time: "12:35"
@@ -381,6 +381,8 @@ ignites:
   - title: "amitai-romanelli"
     date: 2022-04-20
   - title: "chris-gruel"
+    date: 2022-04-20
+  - title: "rob-gordick"
     date: 2022-04-20
   - title: "manjula-subramanian"
     date: 2022-04-20
