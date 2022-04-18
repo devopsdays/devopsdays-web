@@ -106,6 +106,12 @@ sponsors:
     level: bronze
   - id: pure-storage
     level: silver
+  - id: idahotechcouncil
+    level: platinum
+  - id: site24x7
+    level: platinum
+  - id: ventive
+    level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
