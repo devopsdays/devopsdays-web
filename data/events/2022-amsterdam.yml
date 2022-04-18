@@ -118,7 +118,6 @@ sponsors:
   # beer
   - id: contrast_security
     level: beer
-  # gala
   # coffee
   - id: nosana
     level: coffee
@@ -166,9 +165,6 @@ sponsor_levels:
     max: "1"
   - id: beer
     label: Beer
-    max: "1"
-  - id: gala
-    label: Gala
     max: "1"
   - id: coffee
     label: Coffee
@@ -283,14 +279,14 @@ program:
     start_time: "13:00"
     end_time: "13:45"
     comments: "Location: Expo"
- # 13:45 start
+  # 13:45 start
   - title: "ws-alex-sloley"
     type: workshop
     date: 2022-06-22T00:00:00+02:00
     start_time: "13:45"
     end_time: "14:30"
     comments: "Location: Expo"
- # 14:30 start
+  # 14:30 start
   - title: "ws-joseph-katsioloudes"
     type: workshop
     date: 2022-06-22T00:00:00+02:00
@@ -303,7 +299,7 @@ program:
     start_time: "14:30"
     end_time: "15:15"
     comments: "Location: Studio"
-  # Break 
+  # Break
   - title: "Break"
     type: custom
     date: 2022-06-22T00:00:00+02:00
