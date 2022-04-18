@@ -1,7 +1,7 @@
 +++
 Title = "Joshua Zimmerman"
 Twitter = "thejewberwocky"
-image = "joshua-zimmerman.png"
+image = "joshua-zimmerman.jpg"
 type = "speaker"
 linktitle = "joshua-zimmerman"
 

@@ -1,7 +1,7 @@
 +++
 Title = "Vanessa Huerta Granda"
 Twitter = "v_hue_g"
-image = "vanessa-huerta-granda.png"
+image = "vanessa-huerta-granda.jpg"
 type = "speaker"
 linktitle = "vanessa-huerta-granda"
 linkedin = "https://www.linkedin.com/in/vanessa-huerta-granda-6b3a5320/"

@@ -1,7 +1,7 @@
 +++
 Title = "Stephen Weinberg"
 Twitter = ""
-image = "stephen-weinberg.png"
+image = "stephen-weinberg.jpg"
 type = "speaker"
 linktitle = "stephen-weinberg"
 linkedin = "https://www.linkedin.com/in/recursive/"

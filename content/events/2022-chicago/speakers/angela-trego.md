@@ -1,7 +1,7 @@
 +++
 Title = "Angela Trego"
-Twitter = ""
-image = "angela-trego.png"
+Twitter = "tregoa"
+image = "angela-trego.jpg"
 type = "speaker"
 linktitle = "angela-trego"
 linkedin = "https://www.linkedin.com/in/angelatrego"

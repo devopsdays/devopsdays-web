@@ -1,7 +1,7 @@
 +++
 Title = "Abby Allen"
 Twitter = ""
-image = "abby-allen.png"
+image = "abby-allen.jpg"
 type = "speaker"
 linktitle = "abby-allen"
 linkedin = "https://www.linkedin.com/in/abby-allen-18888473/"

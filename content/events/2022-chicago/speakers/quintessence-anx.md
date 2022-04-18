@@ -1,7 +1,7 @@
 +++
 Title = "Quintessence Anx"
 Twitter = "QuintessenceAnx"
-image = "quintessence-anx.png"
+image = "quintessence-anx.jpg"
 type = "speaker"
 linktitle = "quintessence-anx"
 linkedin = "https://www.linkedin.com/in/quintessenceanx/"

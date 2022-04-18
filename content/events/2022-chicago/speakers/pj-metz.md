@@ -1,7 +1,7 @@
 +++
 Title = "Pj Metz"
 Twitter = "metzinaround"
-image = "pj-metz.png"
+image = "pj-metz.jpg"
 type = "speaker"
 linktitle = "pj-metz"
 linkedin = "https://www.linkedin.com/in/metzinaround/"

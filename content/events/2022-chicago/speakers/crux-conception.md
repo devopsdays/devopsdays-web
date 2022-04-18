@@ -1,7 +1,7 @@
 +++
 Title = "Crux Conception"
 Twitter = "CruxConception"
-image = "crux-conception.png"
+image = "crux-conception.jpg"
 type = "speaker"
 linktitle = "crux-conception"
 linkedin = "https://www.linkedin.com/in/crux-conception"

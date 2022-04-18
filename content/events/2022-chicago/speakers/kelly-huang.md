@@ -1,7 +1,7 @@
 +++
 Title = "Kelly Huang"
 Twitter = "iamkelllly"
-image = "kelly-huang.png"
+image = "kelly-huang.jpg"
 type = "speaker"
 linktitle = "kelly-huang"
 linkedin = "https://linkedin.com/in/kelly-huang"

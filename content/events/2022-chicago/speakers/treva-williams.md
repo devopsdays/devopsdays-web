@@ -1,7 +1,7 @@
 +++
 Title = "Treva Williams"
 Twitter = "OGtrilliams"
-image = "treva-williams.png"
+image = "treva-williams.jpg"
 type = "speaker"
 linktitle = "treva-williams"
 linkedin = "https://www.linkedin.com/in/trilliams/"

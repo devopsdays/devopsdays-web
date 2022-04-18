@@ -1,7 +1,7 @@
 +++
 Title = "Richard Lewis"
 Twitter = "gogorichie"
-image = "richard-lewis.png"
+image = "richard-lewis.jpg"
 type = "speaker"
 linktitle = "richard-lewis"
 linkedin = "https://www.linkedin.com/in/gogorichie/"

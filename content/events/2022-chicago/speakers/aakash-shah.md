@@ -1,7 +1,7 @@
 +++
 Title = "Aakash Shah"
 Twitter = ""
-image = "aakash-shah.png"
+image = "aakash-shah.jpg"
 type = "speaker"
 linktitle = "aakash-shah"
 linkedin = "https://www.linkedin.com/in/aakash-b-shah/"

@@ -1,7 +1,7 @@
 +++
 Title = "Brendan O'Leary"
 Twitter = "olearycrew"
-image = "brendan-oleary.png"
+image = "brendan-oleary.jpg"
 type = "speaker"
 linktitle = "brendan-oleary"
 linkedin = "https://www.linkedin.com/in/olearycrew/"

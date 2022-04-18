@@ -1,7 +1,7 @@
 +++
 Title = "Hannah Sutor"
 Twitter = "hsutor"
-image = "hannah-sutor.png"
+image = "hannah-sutor.jpg"
 type = "speaker"
 linktitle = "hannah-sutor"
 

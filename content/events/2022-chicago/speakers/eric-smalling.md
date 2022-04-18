@@ -1,7 +1,7 @@
 +++
 Title = "Eric Smalling"
 Twitter = "ericsmalling"
-image = "eric-smalling.png"
+image = "eric-smalling.jpg"
 type = "speaker"
 linktitle = "eric-smalling"
 linkedin = "https://www.linkedin.com/in/ericsmalling/"

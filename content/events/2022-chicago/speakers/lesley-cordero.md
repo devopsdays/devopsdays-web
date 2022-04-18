@@ -1,7 +1,7 @@
 +++
 Title = "Lesley Cordero"
 Twitter = "lesleyclovesyou"
-image = "lesley-cordero.png"
+image = "lesley-codero.jpg"
 type = "speaker"
 linktitle = "lesley-cordero"
 linkedin = "https://www.linkedin.com/in/lesleycordero/"

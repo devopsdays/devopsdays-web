@@ -1,7 +1,7 @@
 +++
 Title = "Jacquie Grindrod"
 Twitter = "devopsjacquie"
-image = "jacquie-grindrod.png"
+image = "jacquie-grindrod.jpg"
 type = "speaker"
 linktitle = "jacquie-grindrod"
 linkedin = "https://www.linkedin.com/in/jacquelyne-grindrod/"
