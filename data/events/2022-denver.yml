@@ -113,6 +113,9 @@ sponsors:
   level: supporter
 - id: edge-delta
   level: silver
+- id: clumio
+  level: silver
+
 
 sponsor_levels:
   - id: gold
