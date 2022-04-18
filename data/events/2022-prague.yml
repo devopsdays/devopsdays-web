@@ -370,9 +370,11 @@ program:
     end_time: "17:15"
 
 ignites:
-  - title: "federico-fregosi"
-    date: 2022-05-25 
+  - title: "radek-zajic-ignite"
+    date: 2022-05-24 
   - title: "cornelia-mosler"
+    date: 2022-05-24
+  - title: "federico-fregosi"
     date: 2022-05-25
   - title: "jeremy-meiss"
     date: 2022-05-25
