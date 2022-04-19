@@ -74,6 +74,10 @@ team_members: # Name is the only required field for team members.
   - name: "Ľubomír Kováč"
     bio: "For more than a decade, I've been crafting the ability of introducing sophisticated bugs into the software for future generations to resolve. That led me to an idea to share this art with community on MeetUps and spread the joy of software engineering."
     image: "l_kovac.jpg"
+  - name: "Juraj Michálek"
+    bio: "I've been working as an SRE for the past four years. Currently I am a member of Performance & Observability team at Medallia where I focus on our Time series setup."
+    image: "j_michalek.jpg"
+    twitter: "MichalekJuraj"
 organizer_email: "prague@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
