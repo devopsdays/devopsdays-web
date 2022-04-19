@@ -343,8 +343,8 @@ program:
     date: 2022-06-23T00:00:00+02:00
     start_time: "09:00"
     end_time: "09:15"
-  - title: "Keynote speaker - Announced soon!"
-    type: custom
+  - title: "keynote-emily-freeman"
+    type: talk
     date: 2022-06-23T00:00:00+02:00
     start_time: "09:15"
     end_time: "09:45"
@@ -463,8 +463,8 @@ program:
     date: 2022-06-24T00:00:00+02:00
     start_time: "09:00"
     end_time: "09:15"
-  - title: "Keynote speaker - Announced soon!"
-    type: custom
+  - title: "keynote-job-van-der-voort"
+    type: talk
     date: 2022-06-24T00:00:00+02:00
     start_time: "09:15"
     end_time: "09:45"
