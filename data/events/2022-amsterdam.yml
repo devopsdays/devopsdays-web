@@ -133,6 +133,8 @@ sponsors:
     level: gold
   - id: elastic
     level: gold
+  - id: adyen
+    level: gold
   # tshirt
   # lanyard
   - id: ogd
@@ -145,6 +147,8 @@ sponsors:
     level: silver
   # foodtrucks
   - id: thefactory
+    level: foodtrucks
+  - id: adyen
     level: foodtrucks
   # bronze
   - id: stream
