@@ -209,7 +209,13 @@ program:
     date: 2022-06-22T00:00:00+02:00
     start_time: "09:00"
     end_time: "12:15"
-    comments: "Location: Studio (Note: 3 hours)"
+    comments: "Location: Studio (note: 3 hours)"
+  - title: "ws-glenn-anderson"
+    type: workshop
+    date: 2022-06-22T00:00:00+02:00
+    start_time: "09:00"
+    end_time: "12:15"
+    comments: "Location: Meetingroom (note: 3 hours)"
   # Break
   - title: "Break"
     type: custom
