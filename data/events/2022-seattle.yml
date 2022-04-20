@@ -67,6 +67,9 @@ team_members: # Name is the only required field for team members.
   - name: "Don O'Neill"
     twitter: "sntxrr"
     image: "don-oneill.jpg"
+  - name: "Jen Peck"
+    twitter: "devpeckops"
+    image: "jen-peck.jpg"
 
 organizer_email: "seattle@devopsdays.org" # Put your organizer email address here
 
