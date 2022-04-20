@@ -227,7 +227,7 @@ program:
     date: 2022-04-26
     start_time: "15:45"
     end_time: "16:00"
-  - title: "mathias-grund"
+  - title: "ulrik-skyt"
     type: talk
     date: 2022-04-26
     start_time: "16:00"
@@ -331,4 +331,6 @@ ignites:
   - title: "mads-danquah"
     date: 2022-04-26
   - title: "john-behrens"
+    date: 2022-04-26
+  - title: "christian-clausen"
     date: 2022-04-26
