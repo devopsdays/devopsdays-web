@@ -48,7 +48,6 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
 
-
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Danny Lajer"
@@ -227,7 +226,7 @@ program:
     date: 2022-04-26
     start_time: "15:45"
     end_time: "16:00"
-  - title: "mathias-grund"
+  - title: "ulrik-skyt"
     type: talk
     date: 2022-04-26
     start_time: "16:00"
@@ -331,4 +330,6 @@ ignites:
   - title: "mads-danquah"
     date: 2022-04-26
   - title: "john-behrens"
+    date: 2022-04-26
+  - title: "christian-clausen"
     date: 2022-04-26
