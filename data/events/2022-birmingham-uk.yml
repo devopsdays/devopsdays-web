@@ -81,10 +81,12 @@ sponsors:
     level: gold
   - id: progresschef
     level: gold
-#  - id: elastic
-#    level: silver
-#  - id: circleci
-#    level: gold
+  - id: elastic
+    level: silver
+  - id: circleci
+    level: gold
+  - id: circleci
+    level: Evening
   - id: harness
     level: silver
   - id: veeam
@@ -109,6 +111,12 @@ sponsors:
     level: community
   - id: vonage
     level: gold
+  - id: many-pets
+    level: bronze
+  - id: wise
+    level: bronze
+  - id: basis-technologies
+    level: gold
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -117,9 +125,6 @@ sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: platinum
-    label: Platinum
-    max: 5
   - id: gold
     label: Gold
     max: 10
@@ -129,6 +134,9 @@ sponsor_levels:
   - id: bronze
     label: Bronze
     max: 5
+  - id: Evening
+    max: 1
+    label: Evening Event
   - id: community
     label: Community
 
