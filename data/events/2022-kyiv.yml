@@ -39,9 +39,12 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: propose
     url: https://forms.gle/h9wxjHaRk1EQ6Kyw9
  # - name: location
- # - name: registration
+  - name: registration
  # - name: program
- # - name: speakers
+  - name: speakers
+    url: https://devopsdays.com.ua/#speakers
+  - name: donate
+    url: https://devopsdays.com.ua/#donation
   - name: sponsor
   - name: contact
   - name: conduct
