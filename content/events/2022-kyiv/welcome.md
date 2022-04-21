@@ -8,7 +8,8 @@ Description = "DevOpsDays #StandWithUkraine"
 ### Devopsdays [#StandWithUkraine](https://twitter.com/hashtag/StandWithUkraine)
 <div class="alert alert-danger" role="alert">
    DevOpsDays Ukraine 2022 is now a charity edition of the conference with all proceeds going toward local, Ukrainian-led humanitarian causes.
-</div>
+
+   The most up to date information on the event and speakers can be found at [https://devopsdays.com.ua/](https://devopsdays.com.ua/).</div>
 <div style="text-align:center;">
   {{< event_logo >}}
   <p></p>
@@ -59,14 +60,23 @@ Description = "DevOpsDays #StandWithUkraine"
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
-    Check out the {{< event_link page="speakers" text="speakers!" >}}
+    Check out the <a href = "https://devopsdays.com.ua/#speakers">speakers</a>!
   </div>
-</div> -->
+</div>
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Donate</strong>
+  </div>
+  <div class = "col-md-8">
+    <a href = "https://devopsdays.com.ua/#donation">Donate</a> to show your support!
+  </div>
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
