@@ -139,7 +139,7 @@ team_members: # Name is the only required field for team members.
     website: "http://nathenharvey.com"
 
   - name: "David Hodge"
-    employer: "Independent"
+    employer: "Leidos"
     twitter: "davezen1"
     bio: ""
     image: "david-hodge.jpg"
