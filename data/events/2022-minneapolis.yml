@@ -104,6 +104,8 @@ organizer_email: "minneapolis@devopsdays.org" # Put your organizer email address
 sponsors:
   - id: arresteddevops
     level: community
+  - id: clumio
+    level: silver
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
