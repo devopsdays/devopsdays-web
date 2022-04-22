@@ -59,6 +59,7 @@ team_members: # Name is the only required field for team members.
     github: "chriscoffee"
   - name: "Dan Webb"
     twitter: "dan_webb"
+    github: damacus
   - name: "Dominique Top"
     twitter: "devopsdom"
   - name: "Hannah Foxwell"
