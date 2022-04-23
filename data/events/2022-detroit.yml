@@ -56,35 +56,26 @@ team_members: # Name is the only required field for team members.
   - name: "Aaron Maturen"
     bio: Canopy Technology
     twitter: atmaturen
-    image: "logo-square.jpg"
   - name: "Aimme Keener"
     bio: Autonomic
     twitter: AimmeKeener
-    image: "logo-square.jpg"
   - name: "Allison Green"
-    image: "logo-square.jpg"
   - name: "Archie Cowan"
     bio: ITHAKA
     twitter: archiecowan
-    image: "logo-square.jpg"
   - name: "Dave Barnett"
     bio: "Kahn Academy"
     linkedin: "https://www.linkedin.com/in/davebarnett1"
-    image: "logo-square.jpg"
   - name: "Derek DeJonghe"
     bio: "RightBrain Networks"
-    image: "logo-square.jpg"
   - name: "Hugo Gayosso"
-    image: "logo-square.jpg"
     bio: "Kasten by Veeam"
   - name: "Matt McLane"
     bio: "DocNetwork"
-    image: "logo-square.jpg"
     linkedin: "https://www.linkedin.com/in/mclanematthew"
   - name: "Rex Roof"
     twitter: "rexroof"
     bio: "May Mobility"
-    image: "logo-square.jpg"
 
 organizer_email: "detroit@devopsdays.org" # Put your organizer email address here
 
