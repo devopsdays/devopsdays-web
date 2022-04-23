@@ -88,6 +88,12 @@ sponsors:
     level: silver
   - id: gitlab
     level: gold
+  - id: kong
+    level: gold
+  - id: blameless
+    level: silver
+  - id: clumio
+    level: silver
 
   #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   # - id: arresteddevops
