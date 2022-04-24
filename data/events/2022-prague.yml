@@ -247,21 +247,21 @@ program:
     type: custom
     date: 2022-05-24
     start_time: "10:20"
-    end_time: "10:40"
+    end_time: "10:45"
   - title: "ayelet-sachto"
     type: talk
     date: 2022-05-24
-    start_time: "10:40"
-    end_time: "11:15"
+    start_time: "10:45"
+    end_time: "11:20"
   - title: "eduardo-piairo"
     type: talk
     date: 2022-05-24
-    start_time: "11:20"
-    end_time: "11:55"
+    start_time: "11:25"
+    end_time: "12:00"
   - title: "Lunch"
     type: custom
     date: 2022-05-24
-    start_time: "11:55"
+    start_time: "12:00"
     end_time: "13:15"
   - title: "Ignite Talks"
     type: ignite
@@ -323,21 +323,21 @@ program:
     type: custom
     date: 2022-05-25
     start_time: "10:20"
-    end_time: "10:40"
+    end_time: "10:45"
   - title: "junade-ali"
     type: talk
     date: 2022-05-25
-    start_time: "10:40"
-    end_time: "11:15"
+    start_time: "10:45"
+    end_time: "11:20"
   - title: "valarie-regas"
     type: talk
     date: 2022-05-25
-    start_time: "11:20"
-    end_time: "11:55"
+    start_time: "11:25"
+    end_time: "12:00"
   - title: "Lunch"
     type: custom
     date: 2022-05-25
-    start_time: "11:55"
+    start_time: "12:00"
     end_time: "13:15"
   - type: ignite
     date: 2022-05-25
@@ -374,9 +374,11 @@ ignites:
     date: 2022-05-24 
   - title: "cornelia-mosler"
     date: 2022-05-24
-  - title: "federico-fregosi"
-    date: 2022-05-25
+  - title: "mofizur-rahman"
+    date: 2022-05-24
   - title: "jeremy-meiss"
+    date: 2022-05-24
+  - title: "federico-fregosi"
     date: 2022-05-25
   - title: "nicolai-antiferov"
     date: 2022-05-25
