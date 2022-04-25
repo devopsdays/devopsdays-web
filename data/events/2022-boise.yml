@@ -112,6 +112,8 @@ sponsors:
     level: platinum
   - id: ventive
     level: bronze
+  - id: opscruise
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
