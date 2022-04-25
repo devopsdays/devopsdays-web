@@ -1,7 +1,7 @@
 +++
 Title = "Mofizur Rahman"
 Twitter = "moficodes"
-image = "mofizur-rahman.jpg"
+image = "mofizur-rahman.png"
 type = "speaker"
 linktitle = "mofizur-rahman"
 +++
