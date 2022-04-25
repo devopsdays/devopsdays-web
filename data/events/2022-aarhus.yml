@@ -178,7 +178,7 @@ program:
   - title: "Break"
     date: 2022-04-26
     start_time: "10:30"
-    end_time: "10:45"
+    end_time: "10:40"
   - title: "noaa-barki"
     type: talk
     date: 2022-04-26
@@ -187,7 +187,7 @@ program:
   - title: "Break"
     date: 2022-04-26
     start_time: "11:15"
-    end_time: "11:30"
+    end_time: "11:25"
   - title: "thomas-krag"
     type: talk
     date: 2022-04-26
@@ -230,7 +230,7 @@ program:
     type: talk
     date: 2022-04-26
     start_time: "16:00"
-    end_time: "16:45"
+    end_time: "16:30"
   - title: "Wrap-up of the Day"
     type: custom
     date: 2022-04-26
