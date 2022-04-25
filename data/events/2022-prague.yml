@@ -110,6 +110,9 @@ sponsors:
   - id: sentinelone
     level: silver
     url: "https://sentinelone.com"
+  - id: absa
+    level: silver
+    url: "https://www.absa.co.za/about-us/absa-bank/"
   - id: showmax
     level: bronze
     url: "https://www.showmax.com/"   
