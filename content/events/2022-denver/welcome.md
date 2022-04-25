@@ -10,8 +10,17 @@ Description = "devopsdays Denver 2022"
   <img src="/events/2022-denver/2022-dumpster-logo.jpg" width="300" />
 </div>
 
+
 {{< event_twitter >}}
 
+<div class="row">
+  <div class="col-md-2">
+    <strong>Livestream</strong>
+  </div>
+  <div class="col-md-7">
+    <a href="https://www.youtube.com/watch?v=Zq8FNk8Tboo">YouTube</a>
+  </div>
+</div>
 <div class="row">
   <div class="col-md-2">
     <strong>Dates</strong>
