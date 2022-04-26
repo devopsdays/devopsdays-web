@@ -12,13 +12,13 @@ Description = "devopsdays Denver 2022"
 
 
 {{< event_twitter >}}
-
 <div class="row">
   <div class="col-md-2">
-    <strong>Livestream</strong>
+    <strong>Video</strong>
   </div>
   <div class="col-md-7">
-    <a href="https://www.youtube.com/watch?v=Zq8FNk8Tboo">YouTube</a>
+    <a href="https://www.youtube.com/watch?v=Zq8FNk8Tboo">Day 1 Replay</a><br>
+    <a href="https://www.youtube.com/watch?v=n3DvKmqhzUo">Day 2 LiveStream</a>
   </div>
 </div>
 <div class="row">
