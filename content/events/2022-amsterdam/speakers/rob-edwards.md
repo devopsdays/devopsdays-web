@@ -1,7 +1,7 @@
 +++
 Title = "Rob Edwards"
 Twitter = "SapientCoffee"
-image = "rob-edwards.png"
+image = "rob-edwards.jpg"
 type = "speaker"
 linktitle = "rob-edwards"
 
