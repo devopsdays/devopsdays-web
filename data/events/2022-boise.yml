@@ -106,7 +106,7 @@ sponsors:
   - id: opscruise
     level: silver
 
-sponsors_accepted: "no"
+sponsors_accepted : "no"
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -123,3 +123,168 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+
+program:
+  - title: "Sponsor Registration"
+    type: custom
+    date: 2022-05-03T00:00:00-06:00
+    start_time: "07:30 AM"
+    end_time: "08:00 AM"
+    comments: "SW Foyer"
+
+  - title: "Attendee Registration"
+    type: custom
+    date: 2022-05-03T00:00:00-06:00
+    start_time: "08:00 AM"
+    end_time: "09:00 AM"
+    comments: "SW Foyer"
+
+  - title: "Welcome / Kick Off"
+    type: custom
+    date: 2022-05-03T00:00:00-06:00
+    start_time: "09:00 AM"
+    end_time: "09:15 AM"
+    comments: "Room 400"
+
+  - title: "opening-keynote"
+    type: talk
+    date: 2022-05-03T00:00:00-06:00
+    start_time: "09:15 AM"
+    end_time: "09:45 AM"
+    comments: "Room 400"
+
+  - title: "Break"
+    type: custom
+    date: 2022-05-03T00:00:00-06:00
+    start_time: "09:45 AM"
+    end_time: "10:00 AM"
+
+  - title: "jj-asghar"
+    type: talk
+    date: 2022-05-03T00:00:00-06:00
+    start_time: "10:00 AM"
+    end_time: "10:25 AM"
+    comments: "Room 400"
+
+  - title: "thomas-haver"
+    type: talk
+    date: 2022-05-03T00:00:00-06:00
+    start_time: "10:00 AM"
+    end_time: "10:25 AM"
+    comments: "Room 410AB"
+
+  - title: "Break"
+    type: custom
+    date: 2022-05-03T00:00:00-06:00
+    start_time: "10:25 AM"
+    end_time: "10:40 AM"
+
+  - title: "proposal-to-production"
+    type: talk
+    date: 2022-05-03T00:00:00-06:00
+    start_time: "10:40 AM"
+    end_time: "11:05 AM"
+    comments: "Room 400"
+
+  - title: "tom-george"
+    type: talk
+    date: 2022-05-03T00:00:00-06:00
+    start_time: "10:40 AM"
+    end_time: "11:05 AM"
+    comments: "Room 410AB"
+
+  - title: "Break"
+    type: custom
+    date: 2022-05-03T00:00:00-06:00
+    start_time: "11:05 AM"
+    end_time: "11:20 AM"
+
+  - title: "jeremy-meiss"
+    type: talk
+    date: 2022-05-03T00:00:00-06:00
+    start_time: "11:20 AM"
+    end_time: "11:45 AM"
+    comments: "Room 400"
+
+  - title: "korinne-alpers"
+    type: talk
+    date: 2022-05-03T00:00:00-06:00
+    start_time: "11:20 AM"
+    end_time: "11:45 AM"
+    comments: "Room 410AB"
+
+  - title: "Sponsor Pitches"
+    type: custom
+    date: 2022-05-03T00:00:00-06:00
+    start_time: "11:45 AM"
+    end_time: "12:00 PM"
+    comments: "Room 400"
+
+  - title: "talk to be confirmed"
+    type: custom
+    date: 2022-05-03T00:00:00-06:00
+    start_time: "12:00 PM"
+    end_time: "12:25 PM"
+    comments: "Room 400"
+
+  - title: "dan-isla"
+    type: talk
+    date: 2022-05-03T00:00:00-06:00
+    start_time: "12:00 PM"
+    end_time: "12:25 PM"
+    comments: "Room 410AB"
+
+  - title: "Lunch"
+    type: custom
+    date: 2022-05-03T00:00:00-06:00
+    start_time: "12:25 PM"
+    end_time: "01:40 PM"
+    comments: "Room 400"
+
+  - title: "mandi-walls"
+    type: talk
+    date: 2022-05-03T00:00:00-06:00
+    start_time: "01:40 PM"
+    end_time: "02:05 PM"
+    comments: "Room 400"
+
+  - title: "kristina-gibson"
+    type: talk
+    date: 2022-05-03T00:00:00-06:00
+    start_time: "01:40 PM"
+    end_time: "02:05 PM"
+    comments: "Room 410AB"
+
+  - title: "Break"
+    type: custom
+    date: 2022-05-03T00:00:00-06:00
+    start_time: "02:05 PM"
+    end_time: "02:20 PM"
+
+  - title: "Open Spaces"
+    type: open-space
+    date: 2022-05-03T00:00:00-06:00
+    start_time: "02:20 PM"
+    end_time: "03:50 PM"
+    comments: "Room 410C, 430A, 430B"
+
+  - title: "natalie-conklin"
+    type: talk
+    date: 2022-05-03T00:00:00-06:00
+    start_time: "04:00 PM"
+    end_time: "04:30 PM"
+    comments: "Room 400"
+
+  - title: "Closing Ceremony & Raffle"
+    type: custom
+    date: 2022-05-03T00:00:00-06:00
+    start_time: "04:30 PM"
+    end_time: "05:00 PM"
+    comments: "Room 400"
+
+  - title: "Happy Hour & Networking"
+    type: custom
+    date: 2022-05-03T00:00:00-06:00
+    start_time: "05:00 PM"
+    end_time: "06:00 PM"
+    comments: "Room 420"
