@@ -138,7 +138,7 @@ sponsors:
     level: gold
   - id: servicenow
     level: gold
-  - id: confluent-before-20220426-before-20220426
+  - id: confluent-before-20220426
     level: gold
   - id: splunk-before-20220426
     level: gold
@@ -192,7 +192,7 @@ sponsors:
     level: bronze
   - id: ca
     level: evening
-  - id: confluent-before-20220426-before-20220426
+  - id: confluent-before-20220426
     level: lanyard
   - id: hashicorp
     level: meal
