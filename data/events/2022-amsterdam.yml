@@ -302,6 +302,12 @@ program:
     start_time: "14:30"
     end_time: "15:15"
     comments: "Location: Studio"
+  - title: "ws-rob-edwards"
+    type: workshop
+    date: 2022-06-22T00:00:00+02:00
+    start_time: "14:30"
+    end_time: "15:15"
+    comments: "Location: IJzaal"
   # Break
   - title: "Break"
     type: custom
@@ -374,12 +380,12 @@ program:
     start_time: "10:45"
     end_time: "11:00"
   # Back to the talks!
-  - title: "sarjeel-yusuf"
+  - title: "henk-van-der-schuur"
     type: talk
     date: 2022-06-23T00:00:00+02:00
     start_time: "11:00"
     end_time: "11:30"
-  - title: "henk-van-der-schuur"
+  - title: "sarjeel-yusuf"
     type: talk
     date: 2022-06-23T00:00:00+02:00
     start_time: "11:30"
