@@ -129,7 +129,7 @@ sponsors:
 #  - id: poznan
 #    level: community
     #url: https://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-#  - id: splunk
+#  - id: splunk-before-20220426
 #    level: socialevent
 #  - id: olx
 #    level: workshop

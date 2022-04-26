@@ -117,9 +117,9 @@ sponsors:
     level: gold
   - id: redis-labs
     level: gold
-  - id: splunk
+  - id: splunk-before-20220426-before-20220426
     level: gold
-  - id: splunk
+  - id: splunk-before-20220426-before-20220426
     level: chargingstation
   - id: deloitte
     level: gold

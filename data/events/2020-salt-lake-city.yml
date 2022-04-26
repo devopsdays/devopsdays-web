@@ -114,7 +114,7 @@ organizer_email: "salt-lake-city@devopsdays.org" # Put your organizer email addr
 sponsors:
     - id: launch-darkly-before-20200828
       level: gold
-    - id: splunk
+    - id: splunk-before-20220426
       level: gold
     - id: gitlab
       level: silver
