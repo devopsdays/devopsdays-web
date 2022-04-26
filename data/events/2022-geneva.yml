@@ -142,6 +142,16 @@ sponsors:
     level: bronze
   - id: e-xpert-solutions
     level: bronze
+  - id: splunk
+    level: bronze
+  - id: nginx
+    level: bronze
+  - id: confluent
+    level: bronze
+  - id: f5
+    level: bronze
+  - id: isovalent
+    level: bronze
   - id: swissdevjobs
     level: community
   - id: heg-geneva
