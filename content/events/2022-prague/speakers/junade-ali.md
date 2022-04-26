@@ -1,6 +1,9 @@
 +++
 Title = "Junade Ali"
+Linkedin = "https://www.linkedin.com/in/junade"
+Website = "https://junade.com"
 Twitter = "IcyApril"
+image = "junade-ali.jpg"
 type = "speaker"
 linktitle = "junade-ali"
 +++
