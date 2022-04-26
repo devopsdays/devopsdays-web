@@ -18,7 +18,7 @@ Description = "devopsdays Denver 2022"
     <strong>Livestream</strong>
   </div>
   <div class="col-md-7">
-    <a href="https://www.youtube.com/watch?v=Zq8FNk8Tboo">YouTube</a>
+    <a href="https://www.youtube.com/watch?v=n3DvKmqhzUo">YouTube</a>
   </div>
 </div>
 <div class="row">
