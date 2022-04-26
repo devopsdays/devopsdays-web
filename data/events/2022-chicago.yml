@@ -179,6 +179,10 @@ sponsors:
     level: gold
   - id: seismic
     level: gold
+  - id: quali
+    level: gold
+   - id: pulumi
+    level: gold
     
    #Silver Sponsors
   - id: medtronic
@@ -193,12 +197,12 @@ sponsors:
     level: silver
   - id: clumio
     level: silver
+
    
    #Bronze Sponsors
   - id: env0
     level: bronze
-  - id: pulumi
-    level: bronze
+
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
