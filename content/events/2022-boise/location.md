@@ -4,14 +4,17 @@ Type = "event"
 Description = "Location for devopsdays Boise 2021"
 +++
 
+### Conference Location
 
+The conference is located at [Boise Centre](https://boisecentre.com "website of Boise Centre")
 
-<!-- Uncomment this only if you have set the coordinates for your location in the config yaml. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html -->
-<!-- {{< event_map >}} -->
+850 W Front St,
+Boise, ID 83702
 
-<!-- Edit and uncomment to let people know what accessibility features you have available -->
-<!-- 
-    Example from Minneapolis 2020
+{{< event_map >}}
 
-    We offer wheelchair-designated spaces, chairs, and standing options (with tall tables) in the mainstage session room; a quiet room; bathrooms labeled according to the facilities they contain; professional live captioning of mainstage sessions; ingredient labeling (based on data provided when registering); and private space (upon request) for those nursing. We'd also be happy to accommodate any other accessibility needs upon request: {{< email_organizers >}}    
--->
+Boise Centre is committed to making our attendee experience comfortable for everyone.
+
+For an overview of the steps our event location has taken, please see the Boise Centre's [accessibility document](https://boisecentre.com/attend/accessibility/).
+
+Are we missing something? Do you have questions or concerns? Please reach out to us via {{< email_organizers >}} and an organizer will respond as quickly as possible.
