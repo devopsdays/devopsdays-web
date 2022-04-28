@@ -220,15 +220,15 @@ program:
     end_time: "12:00 PM"
     comments: "Room 400"
 
-  - title: "talk to be confirmed"
-    type: custom
+  - title: "dan-isla"
+    type: talk
     date: 2022-05-03T00:00:00-06:00
     start_time: "12:00 PM"
     end_time: "12:25 PM"
     comments: "Room 400"
 
-  - title: "dan-isla"
-    type: talk
+  - title: "No Session"
+    type: custom
     date: 2022-05-03T00:00:00-06:00
     start_time: "12:00 PM"
     end_time: "12:25 PM"
