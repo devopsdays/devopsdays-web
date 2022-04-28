@@ -104,6 +104,7 @@ Description = "DevOpsDays Austin 2022"
         <li>Show proof of a negative COVID test within 72 hours of the event <strong>OR</strong> show proof of at least 2 COVID vaccine shots with the last dose performed at least two weeks prior to the event</li>
         </ul>
         <p>We ask that anyone sick with COVID or with recent exposure to COVID-positive individuals not attend. Should DevOpsDays Austin 2022 be cancelled due to COVID, we will not move to an online format. Please direct questions or concerns by email to: <strong>{{< email_organizers >}}</strong>.</p>
+        <p>For more information, see {{< event_link page="covid" text="COVID Policy" >}}.</p>
       </div>
     </div>
   </div>
