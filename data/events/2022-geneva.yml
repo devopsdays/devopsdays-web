@@ -247,61 +247,61 @@ program:
   - title: "denis-jannot"
     type: talk
     date: "2022-05-12"
-    start_time: "12:05"
-    end_time: "12:55"
+    start_time: "12:10"
+    end_time: "13:00"
 
     # Day 1: workshop 2
   - title: "dr-joe-perez"
     type: workshop
     date: "2022-05-12"
     start_time: "11:20"
-    end_time: "12:55"
+    end_time: "13:00"
 
     # Day 1: workshop 2 bis
   - title: "olivier-crozier"
     type: workshop
     date: "2022-05-12"
     start_time: "11:20"
-    end_time: "12:55"
+    end_time: "13:00"
 
   - title: "Lunch"
     type: custom
     date: "2022-05-12"
-    start_time: "12:55"
-    end_time: "14:10"
+    start_time: "13:00"
+    end_time: "14:15"
 
     # Day 1: talk 5
   - title: charles-laziosi-and-vincent-journel
     type: talk
     date: "2022-05-12"
-    start_time: "14:10"
-    end_time: "15:00"
+    start_time: "14:15"
+    end_time: "15:05"
 
     # Day 1: talk 6
   - title: david-pilato
     type: talk
     date: "2022-05-12"
-    start_time: "15:00"
-    end_time: "15:50"
+    start_time: "15:05"
+    end_time: "15:55"
 
   # Day 1: workshop 3
   - title: max-andersson
     type: workshop
     date: "2022-05-12"
-    start_time: "14:15"
-    end_time: "15:50"
+    start_time: "14:20"
+    end_time: "15:55"
 
   # Day 1: workshop 3 bis
   - title: nicolas-frankel
     type: workshop
     date: "2022-05-12"
-    start_time: "14:15"
-    end_time: "15:50"
+    start_time: "14:20"
+    end_time: "15:55"
 
   - title: Afternoon coffee
     type: custom
     date: "2022-05-12"
-    start_time: "15:50"
+    start_time: "15:55"
     end_time: "16:40"
 
   #   Day 1: talk 7
@@ -322,14 +322,14 @@ program:
   - title: sven-szejwach
     type: workshop
     date: "2022-05-12"
-    start_time: "16:40"
+    start_time: "16:45"
     end_time: "18:20"
 
     #   Day 1: workshop 4 bis
   - title: herve-schweitzer
     type: workshop
     date: "2022-05-12"
-    start_time: "16:40"
+    start_time: "16:45"
     end_time: "18:20"
 
   - title: Cocktail Dinner
@@ -357,97 +357,97 @@ program:
   - title: aurelie-vache
     type: talk
     date: "2022-05-13"
-    start_time: "09:50"
-    end_time: "10:40"
+    start_time: "09:55"
+    end_time: "10:45"
 
   ## Day 2 openspaces
   - title: "Open-Spaces"
     type: open-space
     date: "2022-05-13"
     start_time: "09:05"
-    end_time: "10:40"
+    end_time: "10:45"
 
   - title: Morning Coffee
     type: custom
     date: "2022-05-13"
-    start_time: "10:40"
-    end_time: "11:05"
+    start_time: "10:45"
+    end_time: "11:15"
 
   #   Day 2: talk 3
   - title: courtney-heba
     type: talk
     date: "2022-05-13"
-    start_time: "11:05"
-    end_time: "11:55"
+    start_time: "11:15"
+    end_time: "12:05"
 
   #   Day 2: talk 4
-  - title: brian-contos
+  - title: john-williams
     type: talk
     date: "2022-05-13"
-    start_time: "11:55"
-    end_time: "12:45"
+    start_time: "12:10"
+    end_time: "13:00"
 
   - title: "Open-Spaces"
     type: open-space
     date: "2022-05-13"
-    start_time: "11:10"
-    end_time: "12:45"
+    start_time: "11:20"
+    end_time: "13:00"
 
   - title: Lunch
     type: custom
     date: "2022-05-13"
-    start_time: "12:45"
-    end_time: "14:00"
+    start_time: "13:00"
+    end_time: "14:15"
 
   #   Day 2: talk 5
   - title: sandro-cirulli
     type: talk
     date: "2022-05-13"
-    start_time: "14:00"
-    end_time: "14:50"
+    start_time: "14:20"
+    end_time: "15:05"
 
   #   Day 2: talk 6
-  - title: gerie-owen
+  - title: stephanie-fischer
     type: talk
     date: "2022-05-13"
-    start_time: "14:50"
-    end_time: "15:40"
+    start_time: "15:10"
+    end_time: "15:55"
 
   - title: "Open-Spaces"
     type: open-space
     date: "2022-05-13"
-    start_time: "14:05"
-    end_time: "15:40"
+    start_time: "14:20"
+    end_time: "15:55"
 
   - title: Afternoon coffee
     type: custom
     date: "2022-05-13"
-    start_time: "15:40"
-    end_time: "16:25"
+    start_time: "15:55"
+    end_time: "16:40"
 
   #   Day 2: talk 7
-  - title: john-williams
+  - title: scott-graffius
     type: talk
     date: "2022-05-13"
-    start_time: "16:25"
-    end_time: "17:15"
+    start_time: "16:45"
+    end_time: "17:30"
 
   #   Day 2: open discussion
   - title: Open Discussions
     type: custom
     date: "2022-05-13"
-    start_time: "17:15"
-    end_time: "17:50"
+    start_time: "17:30"
+    end_time: "18:20"
 
   - title: "Open-Spaces"
     type: open-space
     date: "2022-05-13"
-    start_time: "16:30"
-    end_time: "17:50"
+    start_time: "16:45"
+    end_time: "18:20"
 
 
   - title: Closing Speech
     type: custom
     date: "2022-05-13"
-    start_time: "17:50"
-    end_time: "18:10"
+    start_time: "18:20"
+    end_time: "18:30"
