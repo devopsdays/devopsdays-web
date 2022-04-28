@@ -258,7 +258,7 @@ program:
     end_time: "13:00"
 
     # Day 1: workshop 2 bis
-  - title: "olivier-crozier"
+  - title: nicolas-frankel
     type: workshop
     date: "2022-05-12"
     start_time: "11:20"
@@ -292,7 +292,7 @@ program:
     end_time: "15:55"
 
   # Day 1: workshop 3 bis
-  - title: nicolas-frankel
+  - title: dr-arlind-nocaj
     type: workshop
     date: "2022-05-12"
     start_time: "14:20"
@@ -319,7 +319,7 @@ program:
     end_time: "18:20"
 
   #   Day 1: workshop 4
-  - title: sven-szejwach
+  - title: olivier-crozier
     type: workshop
     date: "2022-05-12"
     start_time: "16:45"
