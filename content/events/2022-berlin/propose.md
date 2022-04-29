@@ -27,9 +27,9 @@ Choosing talks is part art, part science; here are some factors we consider when
 
 <hr>
 
-<strong>How to submit a proposal:</strong> Send an email to [{{< email_organizers >}}] with the following information
-<ol>
-	<li>Type (presentation, panel discussion, ignite)</li>
-	<li>Proposal Title (can be changed later)</li>
-	<li>Description (several sentences explaining what attendees will learn)</li>
-</ol>
+<strong>How to submit a proposal:</strong>
+<br>
+<br>
+We're using pretalx for the CfP handling, as it makes communication around your proposal easier for everyone. Just <strong><a href="https://cfp.devopsdays.berlin/2022/cfp">add your proposal here</a></strong>, the tool will lead you through the process. 
+
+See you at the conference (hopefully).
