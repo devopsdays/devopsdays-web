@@ -203,15 +203,10 @@ program:
     date: 2022-05-05T09:00:00+00:00
     start_time: "12:25"
     end_time: "12:30"
-  - title: "itiel-shwartz"
-    type: talk
-    date: 2022-05-05T09:00:00+00:00
-    start_time: "12:30"
-    end_time: "12:35"
   - title: "Open Space Opening"
     type: custom
     date: 2022-05-05T09:00:00+00:00
-    start_time: "12:35"
+    start_time: "12:30"
     end_time: "12:45"
   - title: "Lunch"
     type: custom
