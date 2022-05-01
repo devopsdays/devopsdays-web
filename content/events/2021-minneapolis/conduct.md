@@ -4,6 +4,8 @@ Type = "event"
 Description = "Code of conduct for devopsdays Minneapolis 2021"
 +++
 
+{{< event_link page="covid-19-policy" text="Please see our COVID-19 policy." >}}
+
 All attendees, speakers, sponsors, and volunteers at devopsdays Minneapolis 2021 are required to agree with the following code of conduct. Organizers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensure a safe environment for everybody.
 
 ### The Quick Version

@@ -2,6 +2,7 @@ name: "2017-zurich" # The name of the event. Four digit year with the city name 
 year: "2017" # The year of the event. Make sure it is in quotes.
 city: "Zürich" # The city name of the event. Capitalize it.
 event_twitter: "DevOpsZH"
+ga_tracking_id: "UA-174260535-7" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 event_group: "Zürich"
 
 # All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
@@ -137,7 +138,7 @@ sponsors:
     level: gold
   - id: thoughtworks-gocd-before-20190213
     level: gold
-  - id: vshn
+  - id: vshn-before-20210713
     level: silver
   - id:  dectris
     level: bronze

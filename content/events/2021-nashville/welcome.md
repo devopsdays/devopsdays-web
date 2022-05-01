@@ -1,23 +1,31 @@
 +++
 Title = "DevOpsDays Nashville 2021"
 Type = "welcome"
-aliases = ["/events/2021-nashville/"]
+aliases = [
+  "/events/2021-nashville/",
+  "/events/2021-nashville/location/",
+  "/events/2021-nashville/propose/",
+  "/events/2021-nashville/registration/",
+  "/events/2021-nashville/sponsor/"]
 Description = "DevOpsDays Nashville 2021"
 +++
 
+<div class="alert alert-danger" role="alert">
+  Due to the local situation around COVID-19, devopsdays Nashville has been postponed until May 5-6 2022. Please click <a href="/events/2021-nashville/cancellation" class="alert-link">here for more information</a>.
+</div>
 <!-- this logo tag (< event_logo >) using logo.png as part of the Hugo theme -->
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
 </div> -->
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Dates</strong>
   </div>
   <div class = "col-md-8">
     {{< event_start >}} - {{< event_end >}}
   </div>
-</div>
+</div> -->
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -37,14 +45,14 @@ Description = "DevOpsDays Nashville 2021"
   </div>
 </div> -->
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
-</div>
+</div> -->
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -73,7 +81,7 @@ Description = "DevOpsDays Nashville 2021"
   </div>
 </div> -->
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-10">
   
   <div class = "row">
@@ -84,15 +92,15 @@ Description = "DevOpsDays Nashville 2021"
       {{< event_link page="contact" text="Get in touch with the organizers" >}}
     </div>
 
-  </div>
+  </div> -->
 
 
-  </div>
-  <div class = "col-md-8" >
+  <!-- </div> -->
+  <!-- <div class = "col-md-8" >
     <img class = "img-right" src="/events/2021-nashville/DevOpsDays-Nashville-logo.200x200.png" />
 
-  </div>
-</div>
+  </div> -->
+<!-- </div> -->
 
 
 

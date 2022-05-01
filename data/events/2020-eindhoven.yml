@@ -6,6 +6,7 @@ description: "Devopsdays is coming to Eindhoven for the FIRST TIME!" # Edit this
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 masthead_background: "skyline-eindhoven.jpg"
 sharing_image: "logo-rectangle.png"
+cancel: "true"
 
 
 # All dates are in unquoted 2020-MM-DDTHH:MM:SS+TZ:TZ, like this:

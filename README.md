@@ -6,6 +6,8 @@
 
 This is the repo for managing [devopsdays.org](http://www.devopsdays.org).
 
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/devopsdays/devopsdays-web)
+
 ## Managing your event content
 
 If you are on a local devopsdays team and you'd like to edit [devopsdays.org](http://www.devopsdays.org) for your events, you're in the right place.

@@ -3,22 +3,9 @@
 set -e
 
 cd `dirname ${0}`
+source common_code
 
 OUT=$(mktemp /tmp/output.XXXXXXXXXX) || { echo "Failed to create temp file"; exit 1; }
-
-
-# Detect OS for correct 'sed' syntax
-OSNAME=`uname`
-GNUSED=$(which sed)
-SEDCMD(){
-  if [[ $OSNAME == 'Linux' ]]; then
-    sed -i "$@"
-  elif [[ $OSNAME == 'Darwin' && $GNUSED == '/usr/local/bin/sed' ]]; then
-    sed -i "$@"
-  else
-    sed -i '' "$@"
-  fi
-}
 
 # Get year
 default_year=$(date +"%Y")

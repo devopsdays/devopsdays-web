@@ -1,0 +1,18 @@
+# Get the absolute path of the root of the repo
+function gitroot() {
+  git rev-parse --show-toplevel
+}
+
+# Detect OS for correct 'sed' syntax
+function sedcmd() {
+  local osname=`uname`
+  local gnused=$(which sed)
+
+  if [[ $osname == 'Linux' ]]; then
+    sed -i "$@"
+  elif [[ $osname == 'Darwin' && $gnused == '/usr/local/bin/sed' ]]; then
+    sed -i "$@"
+  else
+    sed -i '' "$@"
+  fi
+}

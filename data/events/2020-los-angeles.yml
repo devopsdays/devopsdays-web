@@ -87,7 +87,7 @@ organizer_email: "los-angeles@devopsdays.org" # Put your organizer email address
 sponsors:
   - id: appdynamics
     level: gold
-  - id: confluent
+  - id: confluent-before-20220426
     level: gold
   - id: codefresh
     level: gold
@@ -111,15 +111,15 @@ sponsors:
     level: gold  
   - id: phoenixnap
     level: gold
-  - id: pulumi
+  - id: pulumi-before-20220422
     level: gold
-  - id: scout
+  - id: scout-before-20210622
     level: gold
   - id: site24x7
     level: gold
   - id: sonatype
     level: gold
-  - id: splunk
+  - id: splunk-before-20220426
     level: gold
   - id: spotinst
     level: gold

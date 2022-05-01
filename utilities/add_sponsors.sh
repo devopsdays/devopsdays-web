@@ -3,18 +3,7 @@
 set -e
 
 cd `dirname ${0}`
-# Detect OS for correct 'sed' syntax
-OSNAME=`uname`
-GNUSED=$(which sed)
-SEDCMD(){
-  if [[ $OSNAME == 'Linux' ]]; then
-    sed -i "$@"
-  elif [[ $OSNAME == 'Darwin' && $GNUSED == '/usr/local/bin/sed' ]]; then
-    sed -i "$@"
-  else
-    sed -i '' "$@"
-  fi
-}
+source common_code
 
 # Get year
 default_year=$(date +"%Y")
@@ -68,8 +57,8 @@ read -p "Enter path to PNG logo (must be at least 200px wide & have white or tra
 # Populate data file
 cp examples/data/sponsors/sponsorname.yml $sponsorfile
 
-SEDCMD "s/SPONSORNAME/$sponsorname/" $sponsorfile
-SEDCMD "s%URL%$url%" $sponsorfile
+sedcmd "s/SPONSORNAME/$sponsorname/" $sponsorfile
+sedcmd "s%URL%$url%" $sponsorfile
 
 if ! [ -z "${twitter}" ]; then
   echo "twitter: \"${twitter}\"" >> $sponsorfile

@@ -12,6 +12,7 @@
   {{- $.Scratch.Set "close-tag" "false" -}}
 {{- range sort $.Site.Data.events "startdate" -}}
   {{- if .startdate -}}
+  {{- if ne .cancel "true" -}}
     {{- if ge (time .enddate) now -}}
       {{- if ne ($.Scratch.Get "year") (dateFormat "2006" .startdate) -}}
         {{- $.Scratch.Set "year" (dateFormat "2006" .startdate) -}}
@@ -43,13 +44,16 @@
       {{- end -}}
     {{- end -}}
   {{- end -}}
+  {{- end -}}
 {{- end -}}
 </div>
 <div class = "col-md-6 col-lg-3 events-page-col">
 <h4 class="events-page-months">TBD</h4>
 {{- range $.Site.Data.events -}}
   {{- if not .startdate -}}
+  {{- if ne .cancel "true" -}}
     <a href = "{{ (printf "/events/%s" .name) }}" class = "events-page-event">{{ .city }}</a><br />
+  {{- end -}}
   {{- end -}}
 {{- end -}}
 </div>

@@ -90,7 +90,7 @@ proposal_email: "proposals-copenhagen-2019@devopsdays.org" # Put your proposal e
 sponsors:
   - id: praqma
     level: gold
-  - id: eficode
+  - id: eficode-before-20211021
     level: gold
   - id: redhat-before-20190528
     level: gold

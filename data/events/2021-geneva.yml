@@ -3,7 +3,7 @@ year: "2021" # The year of the event. Make sure it is in quotes.
 city: "Geneva" # The displayed city name of the event. Capitalize it.
 event_twitter: "DevopsdaysGe" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 event_logo: "logo-square.jpg"
-description: "DevOpsDays Geneva, be ready!" # Edit this to suit your preferences
+description: "While our 2021 event will no longer happen, we will return in 2022." # Edit this to suit your preferences
 ga_tracking_id: "UA-85366825-4" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2020-MM-DDTHH:MM:SS+TZ:TZ, like this:
@@ -13,7 +13,7 @@ ga_tracking_id: "UA-85366825-4" # If you have your own Google Analytics tracking
 
 startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
 enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
-
+cancel: "true"
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:   #start accepting talk proposals.
 cfp_date_end:  # close your call for proposals.
@@ -29,15 +29,15 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 # Location
 #
-coordinates: "46.1758689, 6.1364216" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Geneva" # Defaults to city, but you can make it the venue name.
+coordinates:
+location:
 #
-location_address: "Campus de Battelle, Rue de la Tambourine 17, 1227 Carouge" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address:
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   #  - name: propose
-  - name: location
-  - name: newsletter
+#  - name: location
+#  - name: newsletter
 #  - name: registration
 #  - name: program
 #  - name: speakers
@@ -91,7 +91,7 @@ organizer_email: "geneva@devopsdays.org" # Put your organizer email address here
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For

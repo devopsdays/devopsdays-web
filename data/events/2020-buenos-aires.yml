@@ -4,6 +4,7 @@ city: "Buenos Aires" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysbsas" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "1st Edition of DevOpsDays is coming to Buenos Aires!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+cancel: "true"
 
 # All dates are in unquoted 2020-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00

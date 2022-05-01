@@ -145,7 +145,7 @@ sponsors:
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
-  - id: rundeck
+  - id: rundeck-before-20220308
     level: gold
   - id: rancher
     level: silver
@@ -240,7 +240,7 @@ sponsors:
     level: bronze 
   - id: bevsechops
     level: community
-  - id: checkpoint
+  - id: checkpoint-before-20220202
     level: bronze
   - id: centro
     level: scholarship 

@@ -1,6 +1,6 @@
 name: "2018-washington-dc"
 year: "2018"
-city: "Washington, DC"
+city: "Washington, D.C."
 event_twitter: "devopsdaysdc"
 description: "A house divided against itself cannot stand."
 ga_tracking_id: "UA-131045075-2"
@@ -226,7 +226,7 @@ sponsors:
     level: platinum
   - id: excella
     level: platinum
-  - id: cloudbees
+  - id: cloudbees-before-20210804
     level: platinum
   - id: pivotal-before-20190307
     level: platinum

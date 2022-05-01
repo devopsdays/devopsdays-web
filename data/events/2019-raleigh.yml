@@ -98,7 +98,7 @@ sponsors:
     level: gold
   - id: aspe
     level: platinum
-  - id: ahead
+  - id: ahead-before-20220407
     level: platinum
   - id: appdynamics
     level: platinum
@@ -120,7 +120,7 @@ sponsors:
     level: silver
   - id: optum
     level: platinum
-  - id: cloudbees
+  - id: cloudbees-before-20210804
     level: platinum
   - id: chef-before-20210112
     level: platinum

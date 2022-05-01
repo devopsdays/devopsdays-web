@@ -11,6 +11,8 @@ staging
 
 # local configuration
 .envrc
+.direnv
+shell.nix
 
 # Icon must end with two \r
 Icon

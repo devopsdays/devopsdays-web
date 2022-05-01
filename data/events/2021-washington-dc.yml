@@ -10,36 +10,39 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2021-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate:  2021-11-04T08:30:00-04:00
+enddate:  2021-11-04T19:00:00-04:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start:  2021-07-26T00:00:00-04:00
+cfp_date_end:  2021-09-13T23:59:59-04:00
+cfp_date_announce:  2021-09-27T23:59:59-04:00
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_open: "false"
+cfp_link: "https://devopsdaysdc2021.busyconf.com/proposals/new"
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: 2021-10-07T00:00:00-04:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2021-11-05T00:00:00-04:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://hopin.com/events/devopsdays-dc-2021" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
 coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Washington, D.C." # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "Online Event! Stay Safe!" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
  # - name: location
- # - name: registration
- # - name: program
- # - name: speakers
- # - name: sponsor
+  - name: registration
+  - name: program
+    url: https://hopin.com/events/devopsdays-dc-2021#schedule # The url setting is optional, and only if you want the navigation to link off-site
+  - name: speakers
+    url: https://hopin.com/events/devopsdays-dc-2021#speakers # The url setting is optional, and only if you want the navigation to link off-site
+  - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
@@ -60,15 +63,15 @@ team_members: # Name is the only required field for team members.
     website: ""
     role: "Co-chairperson"
 
-  - name: "Nathen Harvey"
-    employer: "Google"
-    twitter: "nathenharvey"
+  - name: "Jeff Gallimore"
+    employer: "Excella"
+    twitter: "jgallimore"
     bio: ""
-    image: "nathen-harvey.jpg"
-    github: "nathenharvey"
-    facebook: "https://www.facebook.com/nathenharvey"
-    linkedin: "https://www.linkedin.com/in/nathen"
-    website: "http://nathenharvey.com"
+    image: "jeff-gallimore.jpg"
+    github: "gallimorej"
+    linkedin: "https://www.linkedin.com/in/jgallimore/"
+    website: "https://itsanicelife.com/"
+    facebook: ""
     role: "Co-chairperson"
 
   - name: "Jonathan Altman"
@@ -120,16 +123,6 @@ team_members: # Name is the only required field for team members.
     website: ""
     linkedin: "www.linkedin.com/in/mdelnegro"
 
-  - name: "Jeff Gallimore"
-    employer: "Excella"
-    twitter: "jgallimore"
-    bio: ""
-    image: "jeff-gallimore.jpg"
-    github: "gallimorej"
-    linkedin: "https://www.linkedin.com/in/jgallimore/"
-    website: "https://itsanicelife.com/"
-    facebook: ""
-
   - name: "Victoria Guido"
     employer: "STSI"
     twitter: "victoriaguido"
@@ -139,6 +132,16 @@ team_members: # Name is the only required field for team members.
     github: ""
     facebook: ""
     website: ""
+
+  - name: "Nathen Harvey"
+    employer: "Google"
+    twitter: "nathenharvey"
+    bio: ""
+    image: "nathen-harvey.jpg"
+    github: "nathenharvey"
+    facebook: "https://www.facebook.com/nathenharvey"
+    linkedin: "https://www.linkedin.com/in/nathen"
+    website: "http://nathenharvey.com"
 
   - name: "David Hodge"
     employer: "Independent"
@@ -151,7 +154,7 @@ team_members: # Name is the only required field for team members.
     website: ""
 
   - name: "Robb Kidd"
-    employer: "Chef"
+    employer: "Honeycomb"
     twitter: "robbkidd"
     bio: "Is that shark laughing at me?"
     image: "robb-kidd.jpg"
@@ -235,19 +238,35 @@ sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  # - id: platinum
-  #   label: Platinum
+  - id: platinum
+    label: Platinum
   # - id: captioning
   #   label: Live Caption
-  # - id: gold
-  #   label: Gold
-  # - id: silver
-  #   label: Silver
-  # - id: community
-  #   label: Community
-  # - id: media
-  #   label: Media
+  - id: gold
+    label: Gold
+  - id: silver
+    label: Silver
+  - id: community
+    label: Community
+  - id: media
+    label: Media
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: excella
+    level: platinum
+  - id: chef-progress
+    level: platinum
+  - id: aviatrix
+    level: platinum
+  - id: cloudsmith
+    level: gold
+  - id: launch-darkly-government
+    level: gold
+  - id: pluribus-digital
+    level: gold
+  - id: fearless-hutch
+    level: gold
+  - id: homelight
+    level: silver

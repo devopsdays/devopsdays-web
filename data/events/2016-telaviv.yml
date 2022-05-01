@@ -80,7 +80,7 @@ sponsors:
     level: silver
   - id: cloudify-before-20170704
     level: silver
-  - id: cloudinary
+  - id: cloudinary-before-20211111
     level: silver
   - id: aws-before-20180313
     level: silver

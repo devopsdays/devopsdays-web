@@ -1,0 +1,335 @@
+name: "2022-aarhus" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2022" # The year of the event. Make sure it is in quotes.
+city: "Aarhus" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdayscph" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Join us for the first-ever DevOpsDays in Aarhus" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2022-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2022-01-04T00:00:00+02:00
+#   variable: 2022-01-05T23:59:59+02:00
+# Note: we allow 2022-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2022-04-26 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  2022-04-27 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start:  # start accepting talk proposals.
+cfp_date_end:  # close your call for proposals.
+cfp_date_announce:  # inform proposers of status
+
+cfp_link: "https://www.papercall.io/devopsdaysaarhus-2022" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "56.106700, 10.150430" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "SAVVÆRKET - Søren Nymarksvej 8 A - 8270 Højbjerg" # Defaults to city, but you can make it the venue name.
+#
+location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: propose
+  - name: register
+    url: https://www.eventbrite.co.uk/e/devopsdays-aarhus-2022-tickets-92256964063?aff=ebdssbeac
+  - name: location
+ # - name: registration
+  - name: program
+  - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Danny Lajer"
+    employer: "Eficode"
+    image: "danny-lajer.jpg"
+# - name: "Adam Henriques"
+#   employer: "Eficode"
+#   image: "adam-henriques.jpg"
+  - name: "Andy Dyrcz"
+    employer: "Linkfire"
+    github: "adyrcz"
+    image: "andy-dyrcz.jpg"
+  - name: "Jasmine Crozier"
+    twitter: "jasminecph"
+    employer: "Eficode"
+    image: "jasmine-crozier.jpg"
+  - name: "Jeppe Andersen"
+    twitter: "nocture"
+    employer: "DataRobot"
+    image: "jeppe-andersen.jpg"
+  - name: "Johan Abildskov"
+    twitter: "randomsort"
+    employer: "Uber"
+    image: "johan-abildskov.jpg"
+  - name: "Rasmus Hald"
+    twitter: "RasmusHaldDK"
+    employer: "The LEGO Group"
+    image: "rasmus-hald.jpg"
+  - name: "Mads Baggesen"
+    employer: "Eficode"
+    image: "mads-baggesen.jpg"
+  - name: "Johanne Sundtoft"
+    employer: "Systematic"
+    image: "johanne-sundtoft.jpg"
+  - name: "Jonas Vinther"
+    employer: "Trifork"
+    image: "jonas-vinther.jpg"
+  - name: "Amalie Hansen"
+    employer: "Destination AARhus"
+    image: "amalie-hansen.jpg"
+
+
+organizer_email: "aarhus@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: eficode
+    level: gold
+  - id: styra
+    level: gold
+  - id: atea
+    level: silver
+  - id: lego
+    level: gold
+    url: https://t.sidekickopen08.com/s3t/c/5/f18dQhb0S7kF8cp8MZW1x8yX759hl3kW7_k2841CXdp3VPwTK92P38S6W2dykdh21ln3S101?te=W3R5hFj4cm2zwW4mKLS-3ZVcnZW1JxwY51LwWgDW4hLTFL3zgCSrW49Rd7b3S-q0dW3zd14s3K2z06n43SNXJ2f3&si=8000000002585125&pi=220a7dd3-f9c0-4c83-d1a5-da1895c22b3a
+  - id: stickermule
+    level: community
+  - id: merkely
+    level: silver
+  - id: 2022-humio
+    level: gold
+  - id: danske-commodities
+    level: community
+    url: https://danskecommodities.com/careers/it/
+  - id: delegate
+    level: community
+  - id: miracle
+    level: community
+  - id: aarhus-devops
+    level: community
+  - id: systematic
+    level: community
+  - id: 2022-contrast-security
+    level: silver
+  - id: 2022-contrast-security
+    level: community
+  - id: vmware-tanzu
+    level: gold
+  - id: mygoodiebag
+    level: community
+  - id: trifork
+    level: gold
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: gold
+    label: Gold
+#    max: 10
+  - id: silver
+    label: Silver
+    max: 0 # This is the same as omitting the max limit.
+  - id: bronze
+    label: Bronze
+  - id: community
+    label: Community
+
+program:
+  - title: "Registration & Breakfast"
+    type: custom
+    date: 2022-04-26
+    start_time: "08:30"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2022-04-26
+    start_time: "09:00"
+    end_time: "09:20"
+  - title: "justin-reock"
+    type: talk
+    date: 2022-04-26
+    start_time: "09:20"
+    end_time: "09:50"
+  - title: "Break"
+    date: 2022-04-26
+    start_time: "09:50"
+    end_time: "10:00"
+  - title: "emil-holm-naurby"
+    type: talk
+    date: 2022-04-26
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Break"
+    date: 2022-04-26
+    start_time: "10:30"
+    end_time: "10:40"
+  - title: "noaa-barki"
+    type: talk
+    date: 2022-04-26
+    start_time: "10:40"
+    end_time: "11:15"
+  - title: "Break"
+    date: 2022-04-26
+    start_time: "11:15"
+    end_time: "11:25"
+  - title: "thomas-krag"
+    type: talk
+    date: 2022-04-26
+    start_time: "11:25"
+    end_time: "12:00"
+  - title: "LUNCH"
+    type: custom
+    date: 2022-04-26
+    start_time: "12:00"
+    end_time: "12:50"
+  - title: "Ignite Talks"
+    type: ignite
+    date: 2022-04-26
+    start_time: "12:50"
+    end_time: "13:20"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2022-04-26
+    start_time: "13:20"
+    end_time: "13:50"
+  - title: "Open Space Discussions #1"
+    type: open-space
+    date: 2022-04-26
+    start_time: "14:00"
+    end_time: "14:45"
+  - title: "Break"
+    date: 2022-04-26
+    start_time: "14:45"
+    end_time: "15:00"
+  - title: "Open Space Discussions #2"
+    type: open-space
+    date: 2022-04-26
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "Break"
+    date: 2022-04-26
+    start_time: "15:45"
+    end_time: "16:00"
+  - title: "ulrik-skyt"
+    type: talk
+    date: 2022-04-26
+    start_time: "16:00"
+    end_time: "16:30"
+  - title: "Wrap-up of the Day"
+    type: custom
+    date: 2022-04-26
+    start_time: "16:30"
+    end_time: "16:50"
+  - title: "Mingle & Drinks"
+    type: custom
+    date: 2022-04-26
+    start_time: "17:00"
+    end_time: "17:45"
+  - title: "Dinner & Mingle"
+    type: custom
+    date: 2022-04-26
+    start_time: "17:45"
+    end_time: "21:00"
+  - title: "Breakfast"
+    type: custom
+    date: 2022-04-27
+    start_time: "08:30"
+    end_time: "09:00"
+  - title: "Welcome"
+    type: custom
+    date: 2022-04-27
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "rasmus-hald"
+    type: talk
+    date: 2022-04-27
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Break"
+    date: 2022-04-27
+    start_time: "09:45"
+    end_time: "10:00"
+  - title: "henning-kjaer"
+    type: talk
+    date: 2022-04-27
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2022-04-27
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "Open Space Discussions #1"
+    type: open-space
+    date: 2022-04-27
+    start_time: "11:00"
+    end_time: "11:50"
+  - title: "LUNCH"
+    type: custom
+    date: 2022-04-27
+    start_time: "11:50"
+    end_time: "12:40"
+  - title: "Open Space Discussions #2"
+    type: open-space
+    date: 2022-04-27
+    start_time: "12:40"
+    end_time: "13:25"
+  - title: "Break"
+    date: 2022-04-27
+    start_time: "13:25"
+    end_time: "13:40"
+  - title: "nicolas-narbais"
+    type: talk
+    date: 2022-04-27
+    start_time: "13:40"
+    end_time: "14:10"
+  - title: "Break"
+    date: 2022-04-27
+    start_time: "14:15"
+    end_time: "14:25"
+  - title: "lars-kruse"
+    type: talk
+    date: 2022-04-27
+    start_time: "14:25"
+    end_time: "14:55"
+  - title: "Break"
+    date: 2022-04-27
+    start_time: "14:55"
+    end_time: "15:10"
+  - title: "kasper-nissen"
+    type: talk
+    date: 2022-04-27
+    start_time: "15:10"
+    end_time: "15:40"
+  - title: "Rounding Off"
+    date: 2022-04-27
+    start_time: "15:40"
+    end_time: "16:00"
+
+ignites:
+  - title: "henrik-hoegh"
+    date: 2022-04-26
+  - title: "ewelina-wilkosz"
+    date: 2022-04-26
+  - title: "mads-danquah"
+    date: 2022-04-26
+  - title: "john-behrens"
+    date: 2022-04-26
+  - title: "christian-clausen"
+    date: 2022-04-26

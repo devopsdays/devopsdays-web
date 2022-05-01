@@ -2,20 +2,9 @@
 
 set -e
 
-cd `dirname ${0}`
+source common_code
 
-# Detect OS for correct 'sed' syntax
-OSNAME=`uname`
-GNUSED=$(which sed)
-SEDCMD(){
-  if [[ $OSNAME == 'Linux' ]]; then
-    sed -i "$@"
-  elif [[ $OSNAME == 'Darwin' && $GNUSED == '/usr/local/bin/sed' ]]; then
-    sed -i "$@"
-  else
-    sed -i '' "$@"
-  fi
-}
+cd `dirname ${0}`
 
 # Get year
 default_year=$(date +"%Y")
@@ -50,14 +39,14 @@ fi
 
 
 # uncomment link to program page
-SEDCMD "s/#  - name: program/  - name: program/" ../data/events/$event_slug.yml
+sedcmd "s/#  - name: program/  - name: program/" ../data/events/$event_slug.yml
 
 # Append program to datafile
 cat examples/templates/program.yml >> ../data/events/$event_slug.yml
 
 # set correct start and end dates (manual intervention needed for events that aren't two-day)
-SEDCMD "s/day1/$day1/g" ../data/events/$event_slug.yml
-SEDCMD "s/day2/$day2/g" ../data/events/$event_slug.yml
+sedcmd "s/day1/$day1/g" ../data/events/$event_slug.yml
+sedcmd "s/day2/$day2/g" ../data/events/$event_slug.yml
 
 
 # Display available speakers
@@ -70,12 +59,12 @@ read -p "Enter your number of full-talk speakers (default: 8)): " num
 for talknumber in $(seq 1 $num);
 do
   read -p "Enter speaker $talknumber in firstname-lastname form; use CTRL+C to stop... " speaker_slug
-  SEDCMD "s/talk-$talknumber/$speaker_slug/" ../data/events/$event_slug.yml
+  sedcmd "s/talk-$talknumber/$speaker_slug/" ../data/events/$event_slug.yml
 done
 
 # Create empty program page file (will be auto-filled for display)
 programpage="../content/events/$event_slug/program.md"
 cp examples/templates/program.md $programpage
-SEDCMD "s/CITY/$city/" $programpage
-SEDCMD "s/YYYY/$year/" $programpage
+sedcmd "s/CITY/$city/" $programpage
+sedcmd "s/YYYY/$year/" $programpage
 

@@ -20,15 +20,6 @@ Description = "Sponsor devopsdays Medellin 2020"
               <i>Packages</i>
             </th>
             <th scope="col">
-              <center>Supporter</center>
-            </th>			
-            <th scope="col">
-              <center>Community</center>
-            </th>
-            <th scope="col">
-              <center>Silver</center>
-            </th>
-            <th scope="col">
               <center>Gold</center>
             </th>
             <th scope="col">

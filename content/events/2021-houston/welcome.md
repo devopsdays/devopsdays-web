@@ -12,7 +12,7 @@ Description = "devopsdays Houston 2021"
 <div class="row">
   <div class="alert alert-info" role="alert">
     <h2>COVID-19</h2>
-    <p>The onference will take place live and in-person. The <a href="http://norriscenters.com/">Norris Conference Centers</a> have taken measures to make their venue as <a HREF="http://norriscenters.com/wp-content/uploads/2020/05/NCC_COVID19_OpeningGuidelines.pdf">safe as possible</a>, and we at DevOpsDays Houston take safety seriously.  We will monitor and adhere to local guidelines on handling of the Covid19 virus. Stay tuned to our <A HREF="https://twitter.com/DevOpsDaysHTown">Twitter feed</A> or our <A HREF="https://www.linkedin.com/company/devopsdays-houston">LinkedIn page</A> for conference news and any changes.
+    <p>The onference will take place live and in-person. The <a href="http://norriscenters.com/">Norris Conference Centers</a> have taken measures to make their venue as <a HREF="http://norriscenters.com/wp-content/uploads/2020/03/NCC_COVID19_OpeningGuidelines_0321.pdf">safe as possible</a>, and we at DevOpsDays Houston take safety seriously.  We will monitor and adhere to local guidelines on handling of the Covid19 virus. Stay tuned to our <A HREF="https://twitter.com/DevOpsDaysHTown">Twitter feed</A> or our <A HREF="https://www.linkedin.com/company/devopsdays-houston">LinkedIn page</A> for conference news and any changes.
   </div>
 </div>
 
@@ -34,41 +34,42 @@ Description = "devopsdays Houston 2021"
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
+    <a href="https://www.eventbrite.com/e/devopsdays-houston-2021-tickets-159318651375?aff=devopsdayswebsite">Register to attend the conference!</a>
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<!-- 
+<div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
+    {{< event_link url-key="cfp_link" text="Propose a talk!" >}}
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
     View the {{< event_link page="program" text="program." >}}
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">

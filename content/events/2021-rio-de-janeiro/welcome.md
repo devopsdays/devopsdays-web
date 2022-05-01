@@ -36,14 +36,14 @@ Description = "DevOpsDays Rio de Janeiro 2021"
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
-    <strong>Propose</strong>
+    <strong>Proposta</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
+    {{< event_link page="propose" text="Envie sua palestra!" >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">

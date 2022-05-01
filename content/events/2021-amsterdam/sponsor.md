@@ -4,59 +4,26 @@ Type = "event"
 Description = "Sponsor devopsdays Amsterdam 2021"
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please request a copy of our prospectus / drop us an email at [{{< email_organizers >}}].
+<h5>
+<p>devopsdays is made possible by our sponsors. If you are interested in joining our band of supporters, please drop us an email at [{{< email_organizers >}}].</p>
+<p><a href="https://assets.devopsdays.org/events/2021/amsterdam/devopsdays-amsterdam-2021-prospectus.pdf">A downloadable version of our prospectus is available here.</a></p>
+</h5>
 
 <hr>
 
-devopsdays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to present short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Like attendees, you as a sponsor also have the opportunity to demo products/projects as part of an Open Space session.
+devopsdays is a conference organized by volunteers, and depends on sponsorships. We do not have vendor booths, sell keynote slots, nor do we distribute attendee contact lists. However, sponsors have the opportunity to deliver an elevator pitch during the main program, and will get recognition on the website and on social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees in the chat. Like any other attendee, sponsors have the opportunity to demo products/projects as part of an Open Space session.
 <p>
-
-<!--
-<hr/>
-
-<div style="width:590px">
-<table border=1 cellspacing=1>
-  <tr>
-    <th><i>packages</i></th>
-    <th><center><b><u>Bronze<br />1000 usd</u></center></b></th>
-    <th><center><b><u>Silver<br />3000 usd</u></center></b></th>
-    <th><center><b><u>Gold<br />5000 usd</u></center></b></th>
-    <th></th>
-  </tr>
-<tr><td>2 included tickets</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on event website</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on shared slide, rotating during breaks</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on all email communication</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on its own slide, rotating during breaks</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>1 minute pitch to full audience (including streaming audience)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr></tr>
-<tr><td>2 additional tickets (4 in total)</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td>4 additional tickets (6 in total)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>shared table for swag</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td>booth/table space</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-</table>
-<hr/>
-There are also opportunities for exclusive special sponsorships. We'll have sponsors for various events with special privileges for the sponsors of these events. If you are interested in special sponsorships or have a creative idea about how you can support the event, send us an email.
-<br/>
-<br/>
-
-<br>
-<br>
-<table border=1 cellspacing=1>
-  <tr>
-    <th><i>Sponsor FAQ</i></th>
-    <th><center><b>Answers to questions frequently asked by sponsors&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</center></b></th>
-    <th></th>
-  </tr>
-<tr><td>What dates/times can we set up and tear down?</td><td></td></tr>
-<tr><td>How do we ship to the venue?</td><td></td></tr>
-<tr><td>How do we ship from the venue?</td><td></td></tr>
-<tr><td>Whom should we send?</td><td></td></tr>
-<tr><td>What should we expect regarding electricity? (how much, any fees, etc)</td><td></td></tr>
-<tr><td>What should we expect regarding WiFi? (how much, any fees, etc)</td><td></td></tr>
-<tr><td>How do we order additional A/V equipment?</td><td></td></tr>
-<tr><td>Additional important details</td><td></td></tr>
-</table>
-</div>
-
--->
-<hr/>
+  <strong>Hot tip:</strong> encourage your engineers to participate in, and interact with the attendees and experts at devopsdays. The in-person devopsdays Amsterdam conference typically attracts around 500 participants. For our virtual 2021 event we've capped attendance at 1000.
+<p>
+  
+|                                                           | Gold   | Silver | Bronze  |
+| --------------------------------------------------------- | ------ | ------ | ------- |
+|                                                           | **3K** | **1k** | **500** |
+| Sponsor slide during breaks                               | x      | x      |         |
+| Product pitch (2 minute pitch - 3 times during the event) | x      |        |         |
+| Virtual Sponsor area                                      | x      | x      |         |
+| Discount on sponsorship for 2022                          | x      |        |         |
+| Logo on website                                           | x      | x      | x       |
+| Logo in emails                                            | x      | x      | x       |
+| Pre-written message in main chat channel                  | x      |        |         |
+| Open Space                                                | x      |        |         |

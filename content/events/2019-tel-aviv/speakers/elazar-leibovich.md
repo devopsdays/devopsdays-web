@@ -7,4 +7,4 @@ linktitle = "elazar-leibovich"
 
 +++
 
-Developer @Lightbits, previously hypervisors developer at Ravello. Linux Kernel, Distributed Systems.
+Linux Kernel, Distributed Systems.

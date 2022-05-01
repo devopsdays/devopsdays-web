@@ -1,0 +1,245 @@
+name: "2021-blumenau" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2021" # The year of the event. Make sure it is in quotes.
+event_logo: "logo-square.jpg"
+city: "Blumenau" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsday_blu" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "DevOpsDays Blumenau, evento número um de DevOps na cidade número um de cerveja!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2021-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2021-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate:  2021-09-09T19:00:00-03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  2021-09-10T22:00:00-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start:  2021-05-22T12:00:00-03:00 # start accepting talk proposals.
+cfp_date_end:  2021-09-13T23:59:00-03:00 # close your call for proposals.
+cfp_date_announce:  2021-09-27T12:00:00-03:00 # inform proposers of status
+cfp_open: "true"
+cfp_link: "https://www.papercall.io/devopsdaysblumenau" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: 2021-05-22T12:00:00-03:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2021-09-08T23:59:00-03:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://www.sympla.com.br/devopsdays-blumenau__1227525" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "26.9166° S, 49.0717°" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Blumenau" # Defaults to city, but you can make it the venue name.
+#
+location_address: "Online in Blumenau, Brazil" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: Programação
+    icon: "book"
+    url: /events/2021-blumenau/program
+  - name: Palestrantes
+    icon: "microphone"
+    url: /events/2021-blumenau/speakers
+ # - name: location
+  - name: Inscreva-se
+    icon: "user-plus"
+    url: /events/2021-blumenau/registration
+ # - name: program
+ # - name: speakers
+  - name: Propostas
+    url: https://www.papercall.io/devopsdaysblumenau
+  - name: Contato
+    icon: "envelope-o"
+    url: /events/2021-blumenau/contact
+  - name: Código de conduta
+    icon: "handshake-o"
+    url: /events/2021-blumenau/conduct 
+  - name: Patrocinadores
+    icon: "money"
+    url: /events/2021-blumenau/sponsor
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Arthur Ávila"
+    employer: "Daitan Labs"
+    twitter: "SrAvila26"
+    github: "arthuravila26"
+    linkedin: "linkedin.com/in/arthur-ávila-502bb889/"
+    image: "arthur.jpg"
+  - name: "Lucas Samuel"
+    employer: "Mout´s"
+    github: "lucasskluser"
+    linkedin: "https://linkedin.com/in/lucasskluser"
+    image: "lucas-samuel.jpg"
+  - name: "Weyder Ferreira"
+    employer: "PicPay"
+    github: "weyderefs"
+    linkedin: "linkedin.com/in/weyderfs/"
+    image: "weyder-ferreira.jpg"
+  - name: "Pedro Ivo Santana"
+    employer: "Envolti"
+    github: "pedroivo92"
+    linkedin: "linkedin.com/in/pedro-ivo-santana-7a4276bb/"
+    image: "pedro-ivo.jpg"
+  - name: "Matheus Brescia"
+    employer: "stack.io"
+    email: matbrescia@gmail.com
+    linkedin: https://www.linkedin.com/in/matheus-brescia/
+    github: "mattbrescia"
+    image: "matheus.jpg"
+  - name: "Ellyson Henrique Cesar"
+    employer: "Ambev Tech"
+    linkedin: https://www.linkedin.com/in/ellyson-henrique-cesar-1b557a34/
+    email: ellyson.cesar@gmail.com
+    image: "ellyson.jpeg"
+    image: "ellyson.jpg"
+  - name: "Matheus Boing"
+    employer: "Stone Pagamentos S.A."
+    linkedin: https://www.linkedin.com/in/matheusboing
+    email: matboing@hotmail.com
+    image: "matheus-boing.jpeg"
+  
+
+organizer_email: "devopsdaysblu@gmail.com" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+# sponsors:
+#   - id: samplesponsorname
+#     level: gold
+#  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+#   - id: arresteddevops
+#     level: community
+
+sponsor_levels:
+  - id: gold
+    label: GOLD
+    max: 10
+  - id: silver
+    label: SILVER
+    max: 10
+  - id: bronze
+    label: BRONZE
+    max: 10
+  - id: gifts
+    label: GIFTS
+    max: 10
+  
+sponsors:
+  - id: webera
+    level: gold 
+    url: https://www.webera.com/
+  - id: ambevtech
+    level: gold 
+    url: https://ambevtech.com.br/
+  - id: stackio
+    level: gifts 
+    url: https://www.stack.io/
+  - id: daitan-group
+    level: gold 
+    url: https://www.daitan.com/
+  - id: mouts
+    level: bronze 
+    url: https://mouts.info/
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+
+program:
+  # Day 1
+  - title: Opening
+    type: custom
+    date: 2021-09-09
+    start_time: '19:00'
+    end_time: '19:15'
+
+  - title: CloudOps - Operando sistemas em escala
+    type: custom
+    date: 2021-09-09
+    start_time: '19:15'
+    end_time: '19:50'
+
+  - title: Break
+    type: custom
+    date: 2021-09-09
+    start_time: '19:50'
+    end_time: '20:00'
+
+  - title: Engineering Reliable Mobile Applications
+    type: custom
+    date: 2021-09-09
+    start_time: '20:00'
+    end_time: '20:50'
+
+  - title: break
+    type: custom
+    date: 2021-09-09
+    start_time: '20:50'
+    end_time: '21:00'
+
+  - title: How Brazil kept us up at night
+    type: custom
+    date: 2021-09-09
+    start_time: '21:00'
+    end_time: '21:40'
+
+  - title: Continous Delivery with Azure DevOps (Workshop)
+    type: custom
+    date: 2021-09-09
+    start_time: '21:40'
+    end_time: '22:30'
+  
+  # Day 2
+  - title: Opening
+    type: custom
+    date: 2021-09-10
+    start_time: '19:00'
+    end_time: '19:15'
+
+  - title: Kubernetes - Migração entre regiões, redução de custo e afinamento de infra
+    type: custom
+    date: 2021-09-10
+    start_time: '19:15'
+    end_time: '19:50'
+
+  - title: Break
+    type: custom
+    date: 2021-09-10
+    start_time: '19:50'
+    end_time: '20:00'
+
+  - title: Testando Microservices - Tradeoffs de doze técnicas
+    type: custom
+    date: 2021-09-10
+    start_time: '20:00'
+    end_time: '20:50'
+
+  - title: Break
+    type: custom
+    date: 2021-09-10
+    start_time: '20:50'
+    end_time: '21:00'
+
+  - title: Crie um fluxo GitOps com Kubernetes e ArgoCD (Workshop)
+    type: custom
+    date: 2021-09-10
+    start_time: '21:00'
+    end_time: '21:50'
+
+  - title: Ending
+    type: custom
+    date: 2021-09-10
+    start_time: '21:50'
+    end_time: '22:30'
+
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+
