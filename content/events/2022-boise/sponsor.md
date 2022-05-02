@@ -4,7 +4,7 @@ Type = "event"
 Description = "Sponsor devopsdays Boise 2022"
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
+All sponsor slots for 2022 have been filled. If you are interested in sponsoring the 2023 edition of devopsdays Boise, please drop us an email at [{{< email_organizers >}}].
 
 <hr>
 

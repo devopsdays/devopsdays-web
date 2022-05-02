@@ -5,6 +5,13 @@ Description = "Propose a talk for devopsdays portugal 2022"
 +++
   {{< cfp_dates >}}
 
+<br/>
+<div class="row justify-content-center">
+  <div class="col-4">
+    <a href="https://www.papercall.io/devopsdaysportugal2022" type="button" class="btn btn-primary btn-lg btn-block">CFP OPEN - Submit through Papercall</a>
+  </div>
+</div>
+
 <hr>
 
 There are three ways to propose a topic at devopsdays:
@@ -27,5 +34,9 @@ Choosing talks is part art, part science; here are some factors we consider when
 
 <hr>
 
-<strong>How to submit a proposal:</strong> We are using Papercall.io to manage proposals. Please go to <a href="https://www.papercall.io/devopsdaysportugal2022">https://www.papercall.io/devopsdaysportugal2022</a> and fill out the submission form.
-
+<strong>How to submit a proposal:</strong> We are using Papercall.io to manage proposals. Please go to <a href="https://www.papercall.io/devopsdaysportugal2022">https://www.papercall.io/devopsdaysportugal2022</a> and fill out the submission form.<br>
+<div class="row justify-content-center">
+  <div class="col-4">
+    <a href="https://www.papercall.io/devopsdaysportugal2022" type="button" class="btn btn-primary btn-lg btn-block">CFP OPEN - Submit through Papercall</a>
+  </div>
+</div>

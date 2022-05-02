@@ -132,7 +132,7 @@ sponsors:
     level: silver
   - id: contrast_security
     level: silver
-  - id: splunk
+  - id: splunk-before-20220426
     level: silver
   # Bronze
   - id: technative

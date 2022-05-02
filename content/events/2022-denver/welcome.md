@@ -10,8 +10,17 @@ Description = "devopsdays Denver 2022"
   <img src="/events/2022-denver/2022-dumpster-logo.jpg" width="300" />
 </div>
 
-{{< event_twitter >}}
 
+{{< event_twitter >}}
+<div class="row">
+  <div class="col-md-2">
+    <strong>Video</strong>
+  </div>
+  <div class="col-md-7">
+    <a href="https://www.youtube.com/watch?v=Zq8FNk8Tboo">Day 1 Replay</a><br>
+    <a href="https://www.youtube.com/watch?v=n3DvKmqhzUo">Day 2 Replay</a>
+  </div>
+</div>
 <div class="row">
   <div class="col-md-2">
     <strong>Dates</strong>
@@ -66,14 +75,14 @@ Description = "devopsdays Denver 2022"
   </div>
 </div> -->
 
-<div class="row">
+<!-- <div class="row">
   <div class="col-md-2">
     <strong>Sponsors</strong>
   </div>
   <div class="col-md-4">
     {{< event_link page="sponsor" text="Sponsor the conference!" >}}
   </div>
-</div>
+</div> -->
 
 <div class="row">
   <div class="col-md-2">
