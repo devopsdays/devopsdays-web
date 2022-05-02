@@ -143,6 +143,18 @@ Description = "devopsdays Amsterdam will take place June 22-24, 2022! The group 
   </div>
 </div>
 
+<div class="row">
+  <div class="col-md-12">
+    <div class="row">
+      <div class="alert alert-secondary" role="alert">
+        <h3>COVID Policy</h3>
+        <p>All attendees, sponsors, and everyone on site are encouraged to have up to date COVID Vaccines. We will be adhering to any local mandates in effect during the event. We ask that anyone sick with COVID or with recent exposure to COVID-positive individuals not attend in person. This can be coordinated through our organizers and will include a full refund.</p>
+        <p>Please direct questions to {{< email_organizers >}}</p>
+      </div>
+    </div>
+  </div>
+</div>
+
 <!-- Uncomment if you added your city twitter name -->
 <!--
 {{< event_twitter >}}
