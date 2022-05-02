@@ -14,7 +14,6 @@ Description = "Diversity for devopsdays zurich 2022"
         <p>Here’s among others what we already thought of:</p>
         <ul>
         <li>trying some sort of “diversity in tech”-stream or talk at the conference itself</li>
-        <li>let participants create their own name badge and show their individual expression</li>
         <li>have gender neutral toilets (if feasable with the location)</li>
         <li>check the location with zugangsmonitor.ch</li>
         <li>have reserved seating for people with mobility issues</li>
