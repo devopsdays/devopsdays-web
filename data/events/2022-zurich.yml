@@ -177,6 +177,10 @@ sponsors:
     level: silver
   - id: snyk
     level: gold
+  - id: julius-baer
+    level: platinum
+  - id: swisscom
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
