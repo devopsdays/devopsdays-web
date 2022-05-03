@@ -148,6 +148,8 @@ sponsors:
     level: silver
   - id: working-spirit
     level: silver
+  - id: googlecloud
+    level: silver
   # foodtrucks
   - id: thefactory
     level: foodtrucks
