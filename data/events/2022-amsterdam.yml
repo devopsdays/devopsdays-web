@@ -291,13 +291,6 @@ program:
     start_time: "13:00"
     end_time: "13:45"
     comments: "Location: Expo"
-  # 13:45 start
-  - title: "ws-alex-sloley"
-    type: workshop
-    date: 2022-06-22T00:00:00+02:00
-    start_time: "13:45"
-    end_time: "14:30"
-    comments: "Location: Expo"
   # 14:30 start
   - title: "ws-joseph-katsioloudes"
     type: workshop
@@ -341,13 +334,6 @@ program:
     date: 2022-06-22T00:00:00+02:00
     start_time: "15:30"
     end_time: "16:15"
-    comments: "Location: Grote Zaal"
-  # 16:15 start
-  - title: "ws-stan-malinowski"
-    type: workshop
-    date: 2022-06-22T00:00:00+02:00
-    start_time: "16:15"
-    end_time: "17:00"
     comments: "Location: Grote Zaal"
   # Celebration time!
   - title: "Drinks and snacks"
@@ -462,8 +448,8 @@ program:
     date: 2022-06-23T00:00:00+02:00
     start_time: "16:15"
     end_time: "16:45"
-  - title: "Closing keynote day 1 - Announced soon!"
-    type: custom
+  - title: "keynote-liz-rice"
+    type: talk
     date: 2022-06-23T00:00:00+02:00
     start_time: "16:45"
     end_time: "17:30"
