@@ -36,7 +36,7 @@ Description = "Devopsdays Birmingham, uk 2022"
     <div class="d-flex flex-row">
       <div class="col-md-12">
         <div class="p-2">
-          <a class="btn btn-secondary btn-block" href="/events/2022-birmingham-uk/sponsor"> <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference</a>
+          <a class="btn btn-secondary btn-block" href="https://forms.gle/RivrJBnJToygQPQq6"> <i class="fa fa-question fa-lg"></i>&nbsp;&nbsp;&nbsp;Submit to Open Spaces</a>
         </div>
         <!-- 
         <div class="p-2">

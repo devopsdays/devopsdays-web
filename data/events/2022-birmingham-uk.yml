@@ -256,7 +256,7 @@ program:
   - title: "Evening event @ Purecraft bar Birmingham!"
     type: custom
     date: 2022-05-05T09:00:00+00:00
-    start_time: "18:30"
+    start_time: "17:45"
     end_time: "late"
 
 # TODO day 2
