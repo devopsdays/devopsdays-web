@@ -40,8 +40,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   #   url: "https://sessionize.com/devopsdays-amsterdam-2022/"
   - name: location
   - name: registration
-  # - name: program
-  # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -82,11 +82,6 @@ team_members: # Name is the only required field for team members.
     twitter: "FloorDrees"
     image: "floor.jpg"
 
-  - name: "Walter Heck"
-    linkedin: "https://www.linkedin.com/in/walterheck/"
-    twitter: "walterheck"
-    image: "walter.jpg"
-
   - name: "Joep Piscaer"
     linkedin: "https://www.linkedin.com/in/jpiscaer"
     twitter: "jpiscaer"
@@ -97,15 +92,21 @@ team_members: # Name is the only required field for team members.
     twitter: "josvanschouten"
     image: "jos.png"
 
-  - name: "Sarah Gruneisen"
-    linkedin: "https://www.linkedin.com/in/sgruneisen/"
-    twitter: "avagasso"
-    image: "sarah.jpg"
-
   - name: "Sean Bovaird"
     linkedin: "https://www.linkedin.com/in/sbovaird"
     twitter: "srbovaird"
     image: "sean.jpeg"
+
+  - name: "Andy Repton"
+    linkedin: "https://www.linkedin.com/in/andy-repton"
+    twitter: "TheAndyRepton"
+    image: "andy.jpeg"
+
+  - name: "Bas den Uijl"
+    linkedin: "https://www.linkedin.com/in/basdenuijl/"
+    twitter: "basdenuijl"
+    image: "bas.jpeg"
+
 
 organizer_email: "amsterdam@devopsdays.org" # Put your organizer email address here
 
@@ -118,8 +119,9 @@ sponsors:
   # beer
   - id: contrast_security
     level: beer
-  # gala
   # coffee
+  - id: nosana
+    level: coffee
   # gold
   - id: armo
     level: gold
@@ -129,14 +131,30 @@ sponsors:
     level: gold
   - id: mondoo
     level: gold
+  - id: elastic
+    level: gold
+  - id: adyen
+    level: gold
+  - id: newrelic
+    level: gold
   # tshirt
   # lanyard
+  - id: ogd
+    level: lanyard
   # recharge
   # silver
   - id: fullstaq
     level: silver
+  - id: runcloud
+    level: silver
+  - id: working-spirit
+    level: silver
+  - id: googlecloud
+    level: silver
   # foodtrucks
   - id: thefactory
+    level: foodtrucks
+  - id: adyen
     level: foodtrucks
   # bronze
   - id: stream
@@ -154,9 +172,6 @@ sponsor_levels:
     max: "1"
   - id: beer
     label: Beer
-    max: "1"
-  - id: gala
-    label: Gala
     max: "1"
   - id: coffee
     label: Coffee
@@ -182,3 +197,381 @@ sponsor_levels:
   - id: bronze
     label: Bronze
     max: "10"
+program:
+  # Workshop Day
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2022-06-22T00:00:00+02:00
+    start_time: "08:00"
+    end_time: "09:00"
+  # 9:00 start
+  - title: "ws-nathen-amanda"
+    type: workshop
+    date: 2022-06-22T00:00:00+02:00
+    start_time: "09:00"
+    end_time: "10:30"
+    comments: "Location: IJzaal"
+  - title: "ws-martijn-van-dongen"
+    type: workshop
+    date: 2022-06-22T00:00:00+02:00
+    start_time: "09:00"
+    end_time: "12:15"
+    comments: "Location: Studio (note: 3 hours)"
+  - title: "ws-glenn-anderson"
+    type: workshop
+    date: 2022-06-22T00:00:00+02:00
+    start_time: "09:00"
+    end_time: "12:15"
+    comments: "Location: Meetingroom (note: 3 hours)"
+  # Break
+  - title: "Break"
+    type: custom
+    date: 2022-06-22T00:00:00+02:00
+    start_time: "10:30"
+    end_time: "10:45"
+  # 10:45 start
+  - title: "ws-patrick-munch"
+    type: workshop
+    date: 2022-06-22T00:00:00+02:00
+    start_time: "10:45"
+    end_time: "12:15"
+    comments: "Location: Grote Zaal"
+  - title: "ws-david-flanagan"
+    type: workshop
+    date: 2022-06-22T00:00:00+02:00
+    start_time: "10:45"
+    end_time: "12:15"
+    comments: "Location: IJzaal"
+  - title: "ws-gabriela-roa"
+    type: workshop
+    date: 2022-06-22T00:00:00+02:00
+    start_time: "10:45"
+    end_time: "11:30"
+    comments: "Location: Expo"
+  # 11:30 start
+  - title: "ws-amber-vanderburg"
+    type: workshop
+    date: 2022-06-22T00:00:00+02:00
+    start_time: "11:30"
+    end_time: "12:15"
+    comments: "Location: Expo"
+  # Do you belieeeeeeve in life after lunch?
+  - title: "Lunch"
+    type: custom
+    date: 2022-06-22T00:00:00+02:00
+    start_time: "12:15"
+    end_time: "13:00"
+  # 13:00 start
+  - title: "ws-riccardo-glenn"
+    type: workshop
+    date: 2022-06-22T00:00:00+02:00
+    start_time: "13:00"
+    end_time: "14:30"
+    comments: "Location: Grote Zaal"
+  - title: "ws-andrew-martin"
+    type: workshop
+    date: 2022-06-22T00:00:00+02:00
+    start_time: "13:00"
+    end_time: "14:30"
+    comments: "Location: IJzaal"
+  - title: "ws-eran-bibi"
+    type: workshop
+    date: 2022-06-22T00:00:00+02:00
+    start_time: "13:00"
+    end_time: "13:45"
+    comments: "Location: Studio"
+  - title: "ws-caroline-williams"
+    type: workshop
+    date: 2022-06-22T00:00:00+02:00
+    start_time: "13:00"
+    end_time: "13:45"
+    comments: "Location: Expo"
+  # 14:30 start
+  - title: "ws-joseph-katsioloudes"
+    type: workshop
+    date: 2022-06-22T00:00:00+02:00
+    start_time: "14:30"
+    end_time: "15:15"
+    comments: "Location: Grote Zaal"
+  - title: "ws-christina-aldan"
+    type: workshop
+    date: 2022-06-22T00:00:00+02:00
+    start_time: "14:30"
+    end_time: "15:15"
+    comments: "Location: Studio"
+  - title: "ws-rob-edwards"
+    type: workshop
+    date: 2022-06-22T00:00:00+02:00
+    start_time: "14:30"
+    end_time: "15:15"
+    comments: "Location: IJzaal"
+  # Break
+  - title: "Break"
+    type: custom
+    date: 2022-06-22T00:00:00+02:00
+    start_time: "15:15"
+    end_time: "15:30"
+  # 15:30 start
+  - title: "ws-matt-stratton"
+    type: workshop
+    date: 2022-06-22T00:00:00+02:00
+    start_time: "15:30"
+    end_time: "17:00"
+    comments: "Location: IJzaal"
+  - title: "ws-niek-van-raaij"
+    type: workshop
+    date: 2022-06-22T00:00:00+02:00
+    start_time: "15:30"
+    end_time: "17:00"
+    comments: "Location: Studio"
+  - title: "ws-esther-barthel"
+    type: workshop
+    date: 2022-06-22T00:00:00+02:00
+    start_time: "15:30"
+    end_time: "16:15"
+    comments: "Location: Grote Zaal"
+  # Celebration time!
+  - title: "Drinks and snacks"
+    type: custom
+    date: 2022-06-22T00:00:00+02:00
+    start_time: "17:00"
+    end_time: "19:30"
+
+  # DAY 2 STARTS HERE
+  - title: "Registration - Welcome!"
+    type: custom
+    date: 2022-06-23T00:00:00+02:00
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "opening-dod-ams-2022"
+    type: talk
+    date: 2022-06-23T00:00:00+02:00
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "keynote-emily-freeman"
+    type: talk
+    date: 2022-06-23T00:00:00+02:00
+    start_time: "09:15"
+    end_time: "09:45"
+    background_color: "#FF8633"
+  - title: "nathen-amanda"
+    type: talk
+    date: 2022-06-23T00:00:00+02:00
+    start_time: "09:45"
+    end_time: "10:15"
+  - title: "esther-zoe-marjan"
+    type: talk
+    date: 2022-06-23T00:00:00+02:00
+    start_time: "10:15"
+    end_time: "10:45"
+  # Break
+  - title: "Coffee and break time!"
+    type: custom
+    date: 2022-06-23T00:00:00+02:00
+    start_time: "10:45"
+    end_time: "11:00"
+  # Back to the talks!
+  - title: "henk-van-der-schuur"
+    type: talk
+    date: 2022-06-23T00:00:00+02:00
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "sarjeel-yusuf"
+    type: talk
+    date: 2022-06-23T00:00:00+02:00
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "bram-vogelaar"
+    type: talk
+    date: 2022-06-23T00:00:00+02:00
+    start_time: "12:00"
+    end_time: "12:30"
+  # I ordered a Caesar salad from the restaurant for lunch today. They absolutely killed it.
+  - title: "Lunch"
+    type: custom
+    date: 2022-06-23T00:00:00+02:00
+    start_time: "12:30"
+    end_time: "13:30"
+  # Lightning talks
+  - title: "nick-de-wijer"
+    type: talk
+    date: 2022-06-23T00:00:00+02:00
+    start_time: "13:30"
+    end_time: "13:40"
+    background_color: "#ECFFDC"
+  - title: "joost-saanen"
+    type: talk
+    date: 2022-06-23T00:00:00+02:00
+    start_time: "13:40"
+    end_time: "13:50"
+    background_color: "#ECFFDC"
+  - title: "tom-stille"
+    type: talk
+    date: 2022-06-23T00:00:00+02:00
+    start_time: "13:50"
+    end_time: "14:00"
+    background_color: "#ECFFDC"
+  # Open Spaces!
+  - title: "Opening Open Spaces"
+    type: custom
+    date: 2022-06-23T00:00:00+02:00
+    start_time: "14:00"
+    end_time: "14:30"
+  # Break
+  - title: "Break time!"
+    type: custom
+    date: 2022-06-23T00:00:00+02:00
+    start_time: "14:30"
+    end_time: "14:45"
+  # Back to our wonderful speakers
+  - title: "lian-li"
+    type: talk
+    date: 2022-06-23T00:00:00+02:00
+    start_time: "14:45"
+    end_time: "15:15"
+  - title: "andreas-grabner"
+    type: talk
+    date: 2022-06-23T00:00:00+02:00
+    start_time: "15:15"
+    end_time: "15:45"
+  - title: "matt-stratton"
+    type: talk
+    date: 2022-06-23T00:00:00+02:00
+    start_time: "15:45"
+    end_time: "16:15"
+  - title: "matt-yonkovit"
+    type: talk
+    date: 2022-06-23T00:00:00+02:00
+    start_time: "16:15"
+    end_time: "16:45"
+  - title: "keynote-liz-rice"
+    type: talk
+    date: 2022-06-23T00:00:00+02:00
+    start_time: "16:45"
+    end_time: "17:30"
+    background_color: "#FF8633"
+  # It all ends too soon
+  - title: "Wrap up day 1"
+    type: custom
+    date: 2022-06-23T00:00:00+02:00
+    start_time: "17:30"
+    end_time: "17:45"
+  # 🍖 time
+  - title: "Attendee BBQ"
+    type: custom
+    date: 2022-06-23T00:00:00+02:00
+    start_time: "17:45"
+    end_time: "20:00"
+
+  # And before you can even miss us, we're back!
+  # Day 3!
+  - title: "opening-dod-ams-2022"
+    type: talk
+    date: 2022-06-24T00:00:00+02:00
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "keynote-job-van-der-voort"
+    type: talk
+    date: 2022-06-24T00:00:00+02:00
+    start_time: "09:15"
+    end_time: "09:45"
+    background_color: "#FF8633"
+  - title: "farah-chabchoub"
+    type: talk
+    date: 2022-06-24T00:00:00+02:00
+    start_time: "09:45"
+    end_time: "10:15"
+  - title: "deepu-k-sasidharan"
+    type: talk
+    date: 2022-06-24T00:00:00+02:00
+    start_time: "10:15"
+    end_time: "10:45"
+  # Don't go **Break**ing my heart
+  - title: "Coffee break"
+    type: custom
+    date: 2022-06-24T00:00:00+02:00
+    start_time: "10:45"
+    end_time: "11:00"
+  # Talks time!
+  - title: "marcel-britsch"
+    type: talk
+    date: 2022-06-24T00:00:00+02:00
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "simon-stewart"
+    type: talk
+    date: 2022-06-24T00:00:00+02:00
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "ricardo-castro"
+    type: talk
+    date: 2022-06-24T00:00:00+02:00
+    start_time: "12:00"
+    end_time: "12:30"
+  # Houston, we are go for Lunch
+  - title: "Lunch"
+    type: custom
+    date: 2022-06-24T00:00:00+02:00
+    start_time: "12:30"
+    end_time: "13:30"
+  # Lightning talks day 2
+  - title: "sjuul-janssen"
+    type: talk
+    date: 2022-06-24T00:00:00+02:00
+    start_time: "13:30"
+    end_time: "13:40"
+    background_color: "#ECFFDC"
+  - title: "pauli-teinonen"
+    type: talk
+    date: 2022-06-24T00:00:00+02:00
+    start_time: "13:40"
+    end_time: "13:50"
+    background_color: "#ECFFDC"
+  - title: "jason-yee"
+    type: talk
+    date: 2022-06-24T00:00:00+02:00
+    start_time: "13:50"
+    end_time: "14:00"
+    background_color: "#ECFFDC"
+  # Open Spaces!
+  - title: "Opening Open Spaces"
+    type: custom
+    date: 2022-06-24T00:00:00+02:00
+    start_time: "14:00"
+    end_time: "14:30"
+  # These puns are break-ing me
+  - title: "Break"
+    type: custom
+    date: 2022-06-24T00:00:00+02:00
+    start_time: "14:30"
+    end_time: "14:45"
+  - title: "steffan-elke"
+    type: talk
+    date: 2022-06-24T00:00:00+02:00
+    start_time: "14:45"
+    end_time: "15:15"
+  - title: "stacy-cashmore"
+    type: talk
+    date: 2022-06-24T00:00:00+02:00
+    start_time: "15:15"
+    end_time: "15:45"
+  - title: "piet-van-dongen"
+    type: talk
+    date: 2022-06-24T00:00:00+02:00
+    start_time: "15:45"
+    end_time: "16:15"
+  - title: "amber-vanderburg"
+    type: talk
+    date: 2022-06-24T00:00:00+02:00
+    start_time: "16:15"
+    end_time: "16:45"
+  - title: "Closing Keynote Amsterdam 2022 - Announced soon!"
+    type: custom
+    date: 2022-06-24T00:00:00+02:00
+    start_time: "16:45"
+    end_time: "17:30"
+  - title: "Conference close"
+    type: custom
+    date: 2022-06-24T00:00:00+02:00
+    start_time: "17:30"
+    end_time: "17:45"

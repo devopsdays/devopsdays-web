@@ -151,7 +151,7 @@ sponsors:
     level: silver
   - id: hashicorp
     level: silver
-  - id: pulumi
+  - id: pulumi-before-20220422
     level: silver
   # bronze
   - id: inuits

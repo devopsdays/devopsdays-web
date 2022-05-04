@@ -67,6 +67,9 @@ team_members: # Name is the only required field for team members.
   - name: "Don O'Neill"
     twitter: "sntxrr"
     image: "don-oneill.jpg"
+  - name: "Jen Peck"
+    twitter: "devpeckops"
+    image: "jen-peck.jpg"
 
 organizer_email: "seattle@devopsdays.org" # Put your organizer email address here
 
@@ -80,6 +83,20 @@ sponsors:
   - id: courier
     level: gold
   - id: sleuth
+    level: gold
+  - id: pulumi
+    level: silver
+  - id: gitlab
+    level: gold
+  - id: kong
+    level: gold
+  - id: blameless
+    level: silver
+  - id: clumio
+    level: silver
+  - id: quali
+    level: gold
+  - id: dynatrace
     level: gold
 
   #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.

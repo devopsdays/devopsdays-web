@@ -43,7 +43,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   #  - name: registration
   #  - name: program
   #  - name: speakers
-  # - name: sponsor
+  - name: sponsor
   - name: contact
   - name: conduct
 #  - name: volunteers
@@ -61,7 +61,7 @@ team_members: # Name is the only required field for team members.
     website: "https://www.eduardopiairo.com/"
     image: eduardo-piairo.jpg
   - name: "Miguel Alho"
-    employer: "Lets Get Checked"
+    employer: "LetsGetChecked"
     bio: ""
     linkedin: "https://www.linkedin.com/in/miguel-alho-9982331/"
     twitter: "MytyMyky"
@@ -86,10 +86,10 @@ team_members: # Name is the only required field for team members.
     image: miguel-antunes.jpg
   - name: "Julia Lamenza"
     employer: "Independent Consultant"
-    bio: ""
+    bio: "Devops enthusiast with more than 10 years in IT. Loves to travel and study new things in your spare time."
     linkedin: "https://www.linkedin.com/in/julialamenza/"
-    twitter: "jjlamenza18"
-    github: "julialameza"
+    twitter: "jlamenza"
+    github: "julialamenza"
     website:
     image: julia-lamenza.jpg
   - name: "Diana Martins"
@@ -109,7 +109,7 @@ team_members: # Name is the only required field for team members.
     website:
     image: ricardo-castro.jpg
   - name: "Marta Torneiro"
-    employer: "Blip"
+    employer: "Fidel API"
     bio: ""
     linkedin: "https://www.linkedin.com/in/martatorneiro"
     twitter:
@@ -123,14 +123,6 @@ team_members: # Name is the only required field for team members.
     github: ""
     website: ""
     image: 
-  - name: "Miguel David"
-    employer: "Harvest"
-    bio: ""
-    linkedin: "https://www.linkedin.com/in/migueldavid/"
-    twitter: "desfocado"
-    github: "minac"
-    website: "https://migueldavid.eu/"
-    image: miguel-david.jpg
   - name: "Tomé Duarte"
     employer: "Kencko"
     bio:
@@ -156,20 +148,24 @@ sponsors:
 # - id: agileportugal
 #   level: community
 
-sponsors_accepted: "no" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: platinum
+    label: Platinum
+    max: 2
   - id: gold
     label: Gold
-  #    max: 10
+    max: 4
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    max: 8
   - id: bronze
     label: Bronze
+    max: 10
   - id: community
     label: Community

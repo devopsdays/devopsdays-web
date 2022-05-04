@@ -90,8 +90,14 @@ sponsors:
     level: gold
   - id: aws
     level: silver
+  - id: tailored-automation
+    level: coffee
+  - id: trendmicro
+    level: silver
+  - id: shipt
+    level: host
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -110,6 +116,9 @@ sponsor_levels:
   - id: bronze
     max: 10
     label: Bronze
+  - id: coffee
+    max: 1
+    label: Coffee
 
 program:
   - title: "Registration, Breakfast, Visit Sponsors"

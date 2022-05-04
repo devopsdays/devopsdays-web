@@ -32,7 +32,7 @@
 /dallas/*		/events/2022-dallas/:splat		302
 /denver/*		/events/2022-denver/:splat		302
 /des-moines/*		/events/2020-des-moines/:splat		302
-/detroit/*		/events/2020-detroit/:splat		302
+/detroit/*		/events/2022-detroit/:splat		302
 /down-under/*		/events/2019-sydney/:splat		302
 /edinburgh/*		/events/2020-edinburgh/:splat		302
 /feira-de-santana/*	/events/2019-feira-de-santana/:splat	302
@@ -116,7 +116,7 @@
 /victoria/*		/events/2019-victoria/:splat		302
 /vitoria/*		/events/2022-vitoria/:splat		302
 /warsaw/*		/events/2019-warsaw/:splat		302
-/washington-dc/*	/events/2020-washington-dc/:splat	302
+/washington-dc/*	/events/2022-washington-dc/:splat	302
 /zaragoza/*		/events/2020-zaragoza/:splat		302
 /zurich/*		/events/2022-zurich/:splat		302
 /events/2009-ghent/*          http://legacy.devopsdays.org/events/2009-ghent/:splat     301!

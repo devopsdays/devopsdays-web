@@ -143,6 +143,8 @@ sponsors:
     level: community
   - id: devops-meetup-bern
     level: community
+  - id: powercoders
+    level: community
   - id: basis
     level: gold
   - id: zhlke
@@ -172,6 +174,14 @@ sponsors:
   - id: bit
     level: silver
   - id: vshn
+    level: silver
+  - id: snyk
+    level: gold
+  - id: julius-baer
+    level: platinum
+  - id: swisscom
+    level: silver
+  - id: splunk
     level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -221,7 +231,7 @@ program:
   start_time: '9:15'
   end_time: '10:00'
 
-- title: itiel-shwartz
+- title: lian-li
   type: talk
   date: 2022-05-31
   start_time: '10:00'
@@ -291,7 +301,7 @@ program:
   type: workshop
   date: 2022-05-31
   start_time: '14:45'
-  end_time: '17:00'
+  end_time: '16:45'
 
 - title: joseph-katsioloudes
   type: workshop
@@ -330,7 +340,7 @@ program:
   start_time: '9:15' 
   end_time: '10:00'
 
-- title: lian-li
+- title: oliver-goetz
   type: talk
   date: 2022-06-01
   start_time: '10:00'
@@ -400,13 +410,13 @@ program:
   type: workshop
   date: 2022-06-01
   start_time: '14:45'
-  end_time: '17:00'
+  end_time: '17:15'
 
 - title: ricardo-castro
   type: workshop
   date: 2022-06-01
   start_time: '15:00'
-  end_time: '17:00'
+  end_time: '16:30'
 
 - title: Raffle & Closing Day 2
   type: custom
@@ -423,7 +433,7 @@ ignites:
     date: 2022-05-31
   - title: "oleg-nenashev"
     date: 2022-05-31
-  - title: "ixchel-ruiz"
+  - title: "achim-toeper"
     date: 2022-05-31
   - title: "benjamin-wyss"
     date: 2022-06-01
@@ -431,7 +441,7 @@ ignites:
     date: 2022-06-01
   - title: "daiany-palacios"
     date: 2022-06-01
-  - title: "achim-toeper"
-    date: 2022-06-01
   - title: "yishai-beeri"
+    date: 2022-06-01        
+  - title: "oleg-mayko"
     date: 2022-06-01        

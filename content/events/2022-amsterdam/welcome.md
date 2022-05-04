@@ -5,9 +5,9 @@ aliases = ["/events/2022-amsterdam/"]
 Description = "devopsdays Amsterdam will take place June 22-24, 2022! The group that brought you devopsdays Amsterdam 2013-2019 and devopsdays oNLine in 2020-2021 is back together and planning the 2022 event. After two years of pandemic, we're excited to continue the DevOps conversation for 2022 in Amsterdam."
 +++
 
-<!-- <div style="text-align:center;">
+<div style="text-align:center;">
   {{< event_logo >}}
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -138,6 +138,18 @@ Description = "devopsdays Amsterdam will take place June 22-24, 2022! The group 
             <i class="fa fa-meetup fa-lg"></i>&nbsp;&nbsp;&nbsp;Join Us On Meetup
           </a>
         </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-12">
+    <div class="row">
+      <div class="alert alert-secondary" role="alert">
+        <h3>COVID Policy</h3>
+        <p>All attendees, sponsors, and everyone on site are encouraged to have up to date COVID Vaccines. We will be adhering to any local mandates in effect during the event. We ask that anyone sick with COVID or with recent exposure to COVID-positive individuals not attend in person. This can be coordinated through our organizers and will include a full refund.</p>
+        <p>Please direct questions to {{< email_organizers >}}</p>
       </div>
     </div>
   </div>

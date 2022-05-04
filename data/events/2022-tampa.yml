@@ -8,16 +8,16 @@ masthead_background: "logo-square.jpg"
 speakers_verbose: "false"
 
 # All dates are in unquoted YYYY-MM-DD or YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T23:59:59+02:00
-startdate: "2022-05-27" # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: "2022-05-27" # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: "2022-10-21" # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: "2022-10-21" # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 
-cfp_date_start: "2021-12-30" # start accepting talk proposals.
-cfp_date_end: "2022-03-11" # close your call for proposals.
+# cfp_date_start: "" # start accepting talk proposals.
+# cfp_date_end: "" # close your call for proposals.
 # cfp_date_announce: "" # inform proposers of status
 
-cfp_open: "true"
+cfp_open: "false"
 #cfp_link: "https://www.papercall.io/dodtampabay" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 cfp_link: "https://www.papercall.io/tampadod"
 
@@ -29,10 +29,10 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 # Location
 #
-coordinates: "27.762802 -82.634803" #  The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "University of South Florida St. Petersburg" # Defaults to city, but you can make it the venue name.
+coordinates: "" #  The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Tampa Bay" # Defaults to city, but you can make it the venue name.
 #
-location_address: "140 7th Ave S, St. Petersburg, FL 33701" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
@@ -88,6 +88,13 @@ sponsors:
     level: platinum
   - id: moogsoft
     level: platinum
+  - id: dynatrace
+    level: platinum
+  - id: clumio
+    level: platinum
+  - id: devopstampabay
+    level: community
+    
 #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 # - id: arresteddevops
 #  level: community
@@ -107,5 +114,7 @@ sponsor_levels:
     max: 4 # This is the same as omitting the max limit.
   - id: gold
     label: Gold
+  - id: community
+    label: Community
 
 
