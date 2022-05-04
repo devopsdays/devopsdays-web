@@ -181,6 +181,8 @@ sponsors:
     level: platinum
   - id: swisscom
     level: silver
+  - id: splunk
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
