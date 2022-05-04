@@ -92,10 +92,6 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/yvovandoorn"
     image: yvo.jpeg
 
-  - name: "Sarah Gruneisen"
-    twitter: "avagasso"
-    image: "sarah.jpg"
-
   - name: "Daniel Paulus"
     linkedin: "https://www.linkedin.com/in/danielpaulus/"
     twitter: "PaulusTM"
