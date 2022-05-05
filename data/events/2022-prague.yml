@@ -112,7 +112,7 @@ sponsors:
     url: "https://sentinelone.com"
   - id: absa
     level: silver
-    url: "https://www.absa.co.za/about-us/absa-bank/"
+    url: "https://www.absa.africa"
   - id: showmax
     level: bronze
     url: "https://www.showmax.com/"   
@@ -146,6 +146,9 @@ sponsors:
   - id: alicetechnologies
     level: starter
     url: "https://www.alicetechnologies.com"
+  - id: proton
+    level: starter
+    url: "https://careers.protonmail.com"
   - id: inuits
     level: community
     url: "https://inuits.eu/"
