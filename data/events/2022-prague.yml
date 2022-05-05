@@ -146,6 +146,9 @@ sponsors:
   - id: alicetechnologies
     level: starter
     url: "https://www.alicetechnologies.com"
+  - id: proton
+    level: starter
+    url: "https://careers.protonmail.com"
   - id: inuits
     level: community
     url: "https://inuits.eu/"
