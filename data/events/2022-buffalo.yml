@@ -31,13 +31,13 @@ sharing_image: #"sharing.png"
 
 # Location
 #
-#location: "Transit Drive-In | Virtual" # Defaults to city, but you can make it the venue name.
-#coordinates: "43.1043787,-78.6961697" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-#location_address: "6655 S Transit Rd, Lockport, NY 14094, USA" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location: "Seneca One Tower | Virtual" # Defaults to city, but you can make it the venue name.
+coordinates: "42.8797755,-78.8763309" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location_address: "1 Seneca St, Buffalo, NY 14203, USA" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
-#  - name: location
+  - name: location
 #  - name: registration
 #  - url: "https://ti.to/devops-days-buffalo/devops-days-buffalo-2021"
 #  - name: program
