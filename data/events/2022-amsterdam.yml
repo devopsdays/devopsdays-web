@@ -152,6 +152,8 @@ sponsors:
     level: silver
   - id: devoteam
     level: silver
+  - id: tomtom
+    level: silver
   # foodtrucks
   - id: thefactory
     level: foodtrucks
