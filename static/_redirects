@@ -11,7 +11,6 @@
 /bengaluru/*		/events/2019-bengaluru/:splat		302
 /berlin/*		/events/2020-berlin/:splat		302
 /birmingham-al/*	/events/2022-birmingham-al/:splat		302
-/birmingham/* /events/2021-birmingham/:splat		302
 /birmingham-uk/*		/events/2022-birmingham-uk/:splat		302
 /bogota/*		/events/2022-bogota/:splat		302
 /boise/*		/events/2022-boise/:splat		302

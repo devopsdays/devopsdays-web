@@ -18,7 +18,7 @@ enddate: 2022-07-20T00:17:00-07:00 # The end date of your event. Leave blank if 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2022-02-07T00:00:00-08:00 # start accepting talk proposals.
 cfp_date_end: 2022-03-25T00:00:00-07:00 # close your call for proposals.
-cfp_date_announce: 2022-05-15T00:00:00-08:00 # inform proposers of status
+cfp_date_announce: 2022-05-01T00:00:00-08:00 # inform proposers of status
 
 cfp_link: "https://sessionize.com/devopsdays-seattle-2022/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
@@ -26,7 +26,7 @@ registration_date_start: # start accepting registration. Leave blank if registra
 registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.eventbrite.com/e/devopsdays-seattle-2022-registration-313011494807" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -36,11 +36,11 @@ location: "Seattle" # Defaults to city, but you can make it the venue name.
 location_address: "705 Pike St, Seattle, WA 98101" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+  # - name: propose
   # - name: location
-  # - name: registration
-  # - name: program
-  # - name: speakers
+  - name: registration
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -94,6 +94,10 @@ sponsors:
     level: silver
   - id: clumio
     level: silver
+  - id: quali
+    level: gold
+  - id: dynatrace
+    level: gold
 
   #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   # - id: arresteddevops
@@ -116,3 +120,251 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+
+program:
+  # Day 1
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2022-07-19
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Welcome"
+    type: custom
+    date: 2022-07-19
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "kat-cosgrove"
+    type: talk
+    date: 2022-07-19
+    start_time: "09:15"
+    end_time: "09:55"
+  - title: "Sponsors"
+    type: custom
+    date: 2022-07-19
+    start_time: "9:55"
+    end_time: "10:05"
+  - title: "ajuna-kyaruzi"
+    type: talk
+    date: 2022-07-19
+    start_time: "10:05"
+    end_time: "10:35"
+  - title: "BREAK"
+    type: custom
+    date: 2022-07-19
+    start_time: "10:35"
+    end_time: "10:50"
+  - title: "aaron-aldrich"
+    type: talk
+    date: 2022-07-19
+    start_time: "10:50"
+    end_time: "11:20"
+  - title: "Sponsors"
+    type: custom
+    date: 2022-07-19
+    start_time: "11:20"
+    end_time: "11:30"
+  - title: "marino-wijay"
+    type: talk
+    date: 2022-07-19
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch"
+    type: custom
+    date: 2022-07-19
+    start_time: "12:00"
+    end_time: "13:10"
+  - title: "laura-santamaria"
+    type: talk
+    date: 2022-07-19
+    start_time: "13:10"
+    end_time: "13:40"
+  - title: "Ignites"
+    type: ignite
+    date: 2022-07-19
+    start_time: "13:40"
+    end_time: "14:10"
+    block: ignite-1
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2022-07-19
+    start_time: "14:10"
+    end_time: "14:40"
+  - title: "attendee-suggested breakout discussions - Open Space #1"
+    type: open-space
+    date: 2022-07-19
+    start_time: "14:50"
+    end_time: "15:20"
+  - title: "timothy-mamo"
+    type: talk
+    date: 2022-07-19
+    start_time: "14:50"
+    end_time: "15:20"
+  - title: "BREAK"
+    type: custom
+    date: 2022-07-19
+    start_time: "15:20"
+    end_time: "15:35"
+  - title: "attendee-suggested breakout discussions - Open Space #2"
+    type: open-space
+    date: 2022-07-19
+    start_time: "15:35"
+    end_time: "16:05"
+  - title: "bill-johnson"
+    type: talk
+    date: 2022-07-19
+    start_time: "15:35"
+    end_time: "16:05"
+  - title: "attendee-suggested breakout discussions - Open Space #3"
+    type: open-space
+    date: 2022-07-19
+    start_time: "16:15"
+    end_time: "16:45"
+  - title: "noelle-notermann"
+    type: talk
+    date: 2022-07-19
+    start_time: "16:15"
+    end_time: "16:45"
+  - title: "Close Day"
+    type: custom
+    date: 2022-07-19
+    start_time: "16:50"
+    end_time: "17:05"
+  - title: "Evening Reception"
+    type: custom
+    date: 2022-07-19
+    start_time: "17:05"
+    end_time: "19:30"
+
+  # Day 2
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2022-07-20
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Welcome"
+    type: custom
+    date: 2022-07-20
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "aja-hammerly"
+    type: talk
+    date: 2022-07-20
+    start_time: "09:15"
+    end_time: "09:55"
+  - title: "Sponsors"
+    type: custom
+    date: 2022-07-20
+    start_time: "9:55"
+    end_time: "10:05"
+  - title: "matt-stratton"
+    type: talk
+    date: 2022-07-20
+    start_time: "10:05"
+    end_time: "10:35"
+  - title: "BREAK"
+    type: custom
+    date: 2022-07-20
+    start_time: "10:35"
+    end_time: "10:50"
+  - title: "garima-sharma"
+    type: talk
+    date: 2022-07-20
+    start_time: "10:50"
+    end_time: "11:20"
+  - title: "Sponsors"
+    type: custom
+    date: 2022-07-20
+    start_time: "11:20"
+    end_time: "11:30"
+  - title: "hila-fish"
+    type: talk
+    date: 2022-07-20
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch"
+    type: custom
+    date: 2022-07-20
+    start_time: "12:00"
+    end_time: "13:10"
+  - title: "tejas-chopra"
+    type: talk
+    date: 2022-07-20
+    start_time: "13:10"
+    end_time: "13:40"
+  - title: "Ignites"
+    type: ignite
+    date: 2022-07-20
+    start_time: "13:40"
+    end_time: "14:10"
+    block: ignite-2
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2022-07-20
+    start_time: "14:10"
+    end_time: "14:40"
+  - title: "attendee-suggested breakout discussions - Open Space #4"
+    type: open-space
+    date: 2022-07-20
+    start_time: "14:50"
+    end_time: "15:20"
+  - title: "lucy-voigt"
+    type: talk
+    date: 2022-07-20
+    start_time: "14:50"
+    end_time: "15:20"
+  - title: "BREAK"
+    type: custom
+    date: 2022-07-20
+    start_time: "15:20"
+    end_time: "15:35"
+  - title: "attendee-suggested breakout discussions - Open Space #5"
+    type: open-space
+    date: 2022-07-20
+    start_time: "15:35"
+    end_time: "16:05"
+  - title: "ryan-shahbazi"
+    type: talk
+    date: 2022-07-20
+    start_time: "15:35"
+    end_time: "16:05"
+  - title: "attendee-suggested breakout discussions - Open Space #6"
+    type: open-space
+    date: 2022-07-20
+    start_time: "16:15"
+    end_time: "16:45"
+  - title: "lian-li"
+    type: talk
+    date: 2022-07-20
+    start_time: "16:15"
+    end_time: "16:45"
+  - title: "Close Day"
+    type: custom
+    date: 2022-07-20
+    start_time: "16:50"
+    end_time: "17:05"
+
+ignites:
+  - title: maarika-krumhansl
+    date: 2022-07-19
+    block: ignite-1
+  - title: peter-valdez
+    date: 2022-07-19
+    block: ignite-1
+  - title: jenn-robison
+    date: 2022-07-19
+    block: ignite-1
+  - title: liam-hampton
+    date: 2022-07-19
+    block: ignite-1
+  - title: jeremy-meiss
+    date: 2022-07-20
+    block: ignite-2
+  - title: ember-stevens
+    date: 2022-07-20
+    block: ignite-2
+  - title: eric-murphy
+    date: 2022-07-20
+    block: ignite-2
+  - title: derek-ashmore
+    date: 2022-07-20
+    block: ignite-2

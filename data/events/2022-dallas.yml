@@ -111,6 +111,15 @@ team_members: # Name is the only required field for team members.
     github: "https://github.com/mandersen94/"
     image: "mark-andersen.jpg"
 
+  - name: "Mark Saum"
+    employer: "Organizer Role - Leadership / Corporate Outreach / Marketing / Social Media"
+    role: "Fidelis Consulting"
+    bio: "20+ years advising large corporations and fast growth startups in IT architecture and security. <br><br>Mark Saum currently serves as the Chief Information Security Officer of DirectStream, LLC. DirectStream was founded by supercomputing pioneer Seymour Cray and provides a breakthrough supercomputing system and a secure cloud platform. DirectStream's goal is to provide the fastest, most secure computing platform on the planet. In this role, Mr. Saum has overall responsibility for the company’s corporate, hardware and cloud platform security. <br><br>Mr. Saum joined DirectStream from ModoPayments, where he was a co-founder and served as the CIO and CISO.  While at ModoPayments, he was co-inventor of US Patent US20120101887, A System and Method for Managing Merchant-Customer Interactions. He remains as an investor and advisor to ModoPayments. <br><br>Mr. Saum has provided IT consulting through Fidelis Consulting Corporation since 1997. His customers have included IBM, AT&T, General Motors, Sun Microsystems, JPMorganChase, Lucent Technologies, the Intelligence Community, US Cellular, GameStop,  and Verizon Wireless. <br><br>Mr. Saum is an AWS Certified Solutions Architect and holds a B. B. A. in Business Analysis/Management Information Systems from Texas A&M University, College Station."
+    twitter: "msaum"
+    linkedin: "https://www.linkedin.com/in/marksaum/"
+    website: "http://www.fideliscorp.com/"
+    image: "mark.jpg"
+
   - name: "Megan Bohl"
     employer: "NCR Corporation"
     bio: "Megan was our Sponsor Liaison for DevOpsDays DFW 2017, and Volunteer for subsequent years. She is joining the tech community with more than 15 years experience in supply chain operations and marketing in the fashion and consumer goods industries.  Megan has a particular interest in DevOps concepts and is looking forward to expanding her knowledge at DevOpsDays DFW."
@@ -126,12 +135,6 @@ team_members: # Name is the only required field for team members.
     github: "mikerostx"
     image: "mike.jpg"
     website: "https://MikeRosTX.me"
-
-  - name: "Ramesh Venkataramiah"
-    employer: "GladePoint Research Group"
-    bio: "Ramesh is a technology expert with over 20 years of experience and demonstrated ability to architect and build differentiating capabilities, solve complex problems, and lead distributed teams towards shared strategic goals. Recently he is primarily focused on developing data products in data science area with specific emphasis on security/privacy and Predictive Modeling with Machine Learning/AI Tools.   Previously, he served as an Enterprise Architect, with multiple roles in Engineering and Product Development throughout matrix organizations, shared services, and collaborative teams among business units.<br><br>He has provided Hadoop/Spark technology advice to Microsoft Azure, Amazon AWS, T-Systems and Fujitsu networks (private cloud) to implement data science/analytics platforms and implemented Cloudera Hadoop platforms and applications on partner infrastructure by employing devops automation tools and services. As partner development architect, he developed reference architectures for deployment and implementation of Hadoop ecosystem services and optimized for better performance.<br><br>Ramesh is based in Dallas-Fort Worth area and has a Ph. D. from Texas A&M University. In his off time enjoys practicing Yoga, Tai Chi and Martial Arts."
-    linkedin: "https://www.linkedin.com/in/ramesh-venkataramiah-359898a3/"
-    image: "rameshv.jpg"
 
   - name: "Roger Servey"
     employer: "Verizon"
@@ -169,7 +172,6 @@ team_members: # Name is the only required field for team members.
 #   github: ""
 #   image: ".jpg"  
 
-
 organizer_email: "dallas@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
@@ -191,6 +193,8 @@ sponsors:
   - id: styra
     level: gold
   - id: sleuth
+    level: gold
+  - id: roostai
     level: gold
   - id: arresteddevops
     level: media

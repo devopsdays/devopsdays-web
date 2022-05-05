@@ -18,7 +18,6 @@ Description = "devopsdays Boise 2022"
   </div>
 </div>
 
-<!--
 <div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
@@ -27,7 +26,6 @@ Description = "devopsdays Boise 2022"
     {{< event_location >}}
   </div>
 </div>
--->
 
 <div class = "row">
   <div class = "col-md-2">
@@ -40,21 +38,12 @@ Description = "devopsdays Boise 2022"
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Propose</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
-  </div>
-</div>
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
     View the {{< event_link page="program" text="program." >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
