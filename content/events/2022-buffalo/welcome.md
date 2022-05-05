@@ -84,7 +84,7 @@ For year four, we're attempting to have a return to a more in-person focused eve
 one of the tech hubs in the city of Buffalo itself, making it very convenient for many local tech workers.</p>
 
 <h2>About the Event</h2>
-<p>DevOps Days Buffalo, or DODBUF, is a 100-150 attendee, non-profit, community-driven event that aims to assemble
+<p>DevOps Days Buffalo, or DODBUF, is a ~150 attendee, non-profit, community-driven event that aims to assemble
 local tech practitioners in order to bring the global DevOps Days mission to this city. This conference will gather
 the highest quality professionals in the Buffalo tech community to discuss topics and exchange ideas regarding software
 development and IT operations (and everything in between). Throughout this time, attendees will have the opportunity
