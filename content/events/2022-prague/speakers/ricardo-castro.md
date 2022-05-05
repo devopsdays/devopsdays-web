@@ -2,6 +2,7 @@
 Title = "Ricardo Castro"
 Website = "https://mccricardo.com"
 Twitter = "mccricardo"
+image = "ricardo-castro.png"
 type = "speaker"
 linktitle = "ricardo-castro"
 +++
