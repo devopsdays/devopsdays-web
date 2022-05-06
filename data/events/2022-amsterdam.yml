@@ -137,6 +137,8 @@ sponsors:
   - id: newrelic
     level: gold
   # tshirt
+  - id: okta
+    level: tshirt
   # lanyard
   - id: ogd
     level: lanyard
