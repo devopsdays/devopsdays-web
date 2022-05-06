@@ -181,12 +181,12 @@ sponsor_levels:
   - id: coffee
     label: Coffee
     max: "1"
-  - id: gold
-    label: Gold
-    max: "8"
   - id: tshirt
     label: T-Shirt
     max: "1"
+  - id: gold
+    label: Gold
+    max: "8"
   - id: lanyard
     label: Lanyard
     max: "1"
