@@ -315,10 +315,15 @@ program:
     date: 2022-05-06T09:00:00+00:00
     start_time: "12:45"
     end_time: "12:50"
-  - title: "Open Space Opening"
+  - title: "Louise Paling - Agile. A Lego star wars Story."
     type: custom
     date: 2022-05-06T09:00:00+00:00
     start_time: "12:50"
+    end_time: "12:55"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2022-05-06T09:00:00+00:00
+    start_time: "12:55"
     end_time: "13:00"
   - title: "Lunch"
     type: custom
