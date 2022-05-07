@@ -9,33 +9,45 @@ Description = "DevOpsDays Buffalo is back for another unique conference experien
   display: flex;
   flex-direction: row;
   flex-wrap: nowrap;
-  justify-content: space-between;
+  justify-content: center;
+  align-items: center;
+  background-color: #91c0d3;
   margin: 3em;
+  padding: 3em;
+  gap: 3em;
+  border-radius: 10px;
+}
+.bflo .showcase {
+  text-align: center;
+  flex-grow: 1;
 }
 .bflo .showcase img {
-  max-width: 660px;
-  margin-right: 3em;
+  max-width: 500px;
 }
-.bflo .sidebar {
-  background-color: #88aebe33;
-  padding: 1em;
-  max-width: 600px;
-  border-radius: 0.5em;
-}
-.bflo .sidebar h2 {
-  font-size: 1.5em;
-  border-bottom: 0.5px solid #444;
-}
-.bflo .sidebar button {
+.bflo .showcase button {
   color: #fff;
-  background-color: #174168;
+  background-color: #285d72;
   border: none;
   border-radius: 0.5em;
   font-weight: bold;
   padding: 1em 2em;
+  width: 100%;
+} 
+.bflo .sidebar {
+  flex-grow: 3;
+  min-width: 200px;
+  border-radius: 0.5em;
+  color: #303030;
+  font-size: 1.4em;
+}
+.bflo .sidebar h2 {
+  margin-top: 1em;
+  font-size: 1.5em;
+  /* border-bottom: 1px solid #444; */
 }
 .bflo .sidebar h2:not(:nth-of-type(1)) {
-  margin-top: 2em;
+  font-size: 1.5em;
+  margin-top: 1em;
 }
 @media only screen and (max-width: 760px) {
   .bflo {
@@ -50,40 +62,40 @@ Description = "DevOpsDays Buffalo is back for another unique conference experien
 </style>
 
 <!-- {{< event_logo >}} -->
-<!-- <div class="bflo">
+<div class="bflo">
 
 <div class="showcase">
 <img src="/events/2022-buffalo/showcase.png">
+<p><a href="../registration/"><button>Register</button></a></p>
+<p><a href="https://sessionize.com/devops-days-buffalo/"><button>Submit a talk</button></a></p>
+<p><a href="../sponsor/"><button>Sponsor</button></a></p>
+<p><a href="../contact/"><button>Contact</button></a></p>
 </div>
 
 <div class="sidebar">
-<h2>Registration</h2>
-<p>Tickets for both, the physical and virtual experiences are now available!</p>
-<p style="text-align: center;"><a href="https://ti.to/devops-days-buffalo/devops-days-buffalo-2022"><button>Get Your Ticket</button></a></p>
+<h1>Our CFP is now open!</h1>
+<p>Do you have DevOps knowledge or story you'd like to share? <a href="https://sessionize.com/devops-days-buffalo/">Submit
+a talk</a> and become one of our speakers this year!</p>
+<h2>DevOps Days Buffalo is back for our fourth year!</h2>
+<p>In year one we were in a beautiful castle, and then - during the pandemic
+- we shifted to online in order to continue bringing speakers and participants together despite all odds. In year three we
+tried a hybrid approach, streaming online and also having an in-person component at a drive-in. It's been a wild ride!
+For year four, we're attempting to have a return to a more in-person focused event, hosting at Seneca One. Seneca One is
+one of the tech hubs in the city of Buffalo itself, making it very convenient for many local tech workers.</p>
 
-<h2>Let's Talk About COVID-19</h2>
-<p>We are continuing to monitor the COVID-19 guidlines and are 
-offering a physical and virtual option for attendance this year. 
-The physical drive-in theater option will allow us to be flexible 
-and adapt to the most recent guidelines leading up to the event. 
-Furthermore, a virtual option will be available for those who would 
-prefer to limit contact with others.</p>
-
-<p><b><i>Due to anticipated changes to the COVID-19 guidelines, we will be requiring attendees to wear masks and maintain social distancing during the on-premise portion of the event.</i></b></p>
-
-<p><strong>Related:</strong></p>
-<ul>
-  <li><a href="https://www.cdc.gov/coronavirus/2019-ncov/index.html" target="_blank">Center for Disease Control</a></li>
-  <li><a href="http://www2.erie.gov/health/index.php?q=coronavirus" target="_blank">Erie County Department of Health</a></li>
-</ul>
-
-<p>Physically or virtually, we're excited to see you in October!</p>
+<h2>About the Event</h2>
+<p>DevOps Days Buffalo, or DODBUF, is a ~150 attendee, non-profit, community-driven event that aims to assemble
+local tech practitioners in order to bring the global DevOps Days mission to this city. This conference will gather
+the highest quality professionals in the Buffalo tech community to discuss topics and exchange ideas regarding software
+development and IT operations (and everything in between). Throughout this time, attendees will have the opportunity
+to listen to a series of curated talks and ignites regarding automation, testing, security, organizational culture,
+and more. Additionally, they will be able to take part in group-organized “open spaces” that will allow them to discuss
+any topic selected by the group as a collective.</p>
 </div>
-
-</div> -->
+</div>
 
 
 <!-- Uncomment if you added your city twitter name -->
 
-{{< event_twitter >}}
+<!-- {{< event_twitter >}} -->
 
