@@ -10,11 +10,7 @@ Note: we require {{< event_link page="covid-19-policy" text="COVID-19 vaccinatio
 
 <hr>
 
-We are currently accepting proposals for 5-minute Ignites and 30-minute talks, via the form below.
-<ol>
-  <li><strong><em>A 30-minute talk</em></strong> presented during the conference.</li>
-  <li><strong><em>An Ignite talk</em></strong> presented during the <a href="/pages/ignite-talks-format">Ignite sessions</a>. These are 5 minutes slots with slides changing every 15 seconds (20 slides total).</li>
-</ol>
+CFP closed while we consider our program - thanks for your submissions!
 
  <strong><em>Open Space</em></strong>: If you'd like to lead a group discussion during the attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout sessions, it is not necessary to propose it ahead of time. Those topics are suggested in person at the conference. If you'd like to demo your product or service, you should <a href="../sponsor">sponsor the event</a> and demo it at your table.
 
@@ -30,6 +26,4 @@ Choosing talks is part art, part science; here are some factors we consider when
 - _no vendor pitches_: As much as we value vendors and sponsors, we are not going to accept a talk that appears to be a pitch for your product.
 
 <hr>
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSedk_I3faabcBAmc9blNhPDUyxh2LAEV9n-rYm__oN8AqOcpQ/viewform?embedded=true" width="760" height="2500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
