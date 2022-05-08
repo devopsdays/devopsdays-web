@@ -143,6 +143,11 @@ sponsors:
   - id: ogd
     level: lanyard
   # recharge
+  # foodtrucks
+  - id: thefactory
+    level: foodtrucks
+  - id: adyen
+    level: foodtrucks
   # silver
   - id: fullstaq
     level: silver
@@ -156,11 +161,6 @@ sponsors:
     level: silver
   - id: tomtom
     level: silver
-  # foodtrucks
-  - id: thefactory
-    level: foodtrucks
-  - id: adyen
-    level: foodtrucks
   # bronze
   - id: stream
     level: bronze
@@ -228,6 +228,12 @@ program:
     start_time: "09:00"
     end_time: "12:15"
     comments: "Location: Meetingroom (note: 3 hours)"
+  - title: "ws-pierrick-prevert"
+    type: workshop
+    date: 2022-06-22T00:00:00+02:00
+    start_time: "09:00"
+    end_time: "10:30"
+    comments: "Location: Grote Zaal"
   # Break
   - title: "Break"
     type: custom
@@ -290,6 +296,13 @@ program:
     date: 2022-06-22T00:00:00+02:00
     start_time: "13:00"
     end_time: "13:45"
+    comments: "Location: Expo"
+  # 13:45 start
+  - title: "ws-suzanne-lagerweij"
+    type: workshop
+    date: 2022-06-22T00:00:00+02:00
+    start_time: "13:45"
+    end_time: "14:30"
     comments: "Location: Expo"
   # 14:30 start
   - title: "ws-joseph-katsioloudes"
@@ -363,12 +376,13 @@ program:
     type: talk
     date: 2022-06-23T00:00:00+02:00
     start_time: "09:45"
-    end_time: "10:15"
+    end_time: "10:10"
   - title: "esther-zoe-marjan"
     type: talk
     date: 2022-06-23T00:00:00+02:00
     start_time: "10:15"
-    end_time: "10:45"
+    end_time: "10:40"
+  # Sponsor pitch time: 5 mins
   # Break
   - title: "Coffee and break time!"
     type: custom
@@ -380,17 +394,18 @@ program:
     type: talk
     date: 2022-06-23T00:00:00+02:00
     start_time: "11:00"
-    end_time: "11:30"
+    end_time: "11:25"
   - title: "sarjeel-yusuf"
     type: talk
     date: 2022-06-23T00:00:00+02:00
     start_time: "11:30"
-    end_time: "12:00"
+    end_time: "11:55"
   - title: "bram-vogelaar"
     type: talk
     date: 2022-06-23T00:00:00+02:00
     start_time: "12:00"
-    end_time: "12:30"
+    end_time: "12:25"
+  # Sponsor pitch time: 5 mins
   # I ordered a Caesar salad from the restaurant for lunch today. They absolutely killed it.
   - title: "Lunch"
     type: custom
@@ -422,6 +437,7 @@ program:
     date: 2022-06-23T00:00:00+02:00
     start_time: "14:00"
     end_time: "14:30"
+  # Sponsor pitch time: 5 mins
   # Break
   - title: "Break time!"
     type: custom
@@ -433,27 +449,27 @@ program:
     type: talk
     date: 2022-06-23T00:00:00+02:00
     start_time: "14:45"
-    end_time: "15:15"
+    end_time: "15:10"
   - title: "andreas-grabner"
     type: talk
     date: 2022-06-23T00:00:00+02:00
     start_time: "15:15"
-    end_time: "15:45"
+    end_time: "15:40"
   - title: "matt-stratton"
     type: talk
     date: 2022-06-23T00:00:00+02:00
     start_time: "15:45"
-    end_time: "16:15"
-  - title: "matt-yonkovit"
+    end_time: "16:10"
+  - title: "piet-van-dongen"
     type: talk
     date: 2022-06-23T00:00:00+02:00
     start_time: "16:15"
-    end_time: "16:45"
+    end_time: "16:40"
   - title: "keynote-liz-rice"
     type: talk
     date: 2022-06-23T00:00:00+02:00
     start_time: "16:45"
-    end_time: "17:30"
+    end_time: "17:25"
     background_color: "#FF8633"
   # It all ends too soon
   - title: "Wrap up day 1"
@@ -485,12 +501,13 @@ program:
     type: talk
     date: 2022-06-24T00:00:00+02:00
     start_time: "09:45"
-    end_time: "10:15"
+    end_time: "10:10"
   - title: "deepu-k-sasidharan"
     type: talk
     date: 2022-06-24T00:00:00+02:00
     start_time: "10:15"
-    end_time: "10:45"
+    end_time: "10:40"
+  # Sponsor pitch time: 5 mins
   # Don't go **Break**ing my heart
   - title: "Coffee break"
     type: custom
@@ -502,17 +519,18 @@ program:
     type: talk
     date: 2022-06-24T00:00:00+02:00
     start_time: "11:00"
-    end_time: "11:30"
+    end_time: "11:25"
   - title: "simon-stewart"
     type: talk
     date: 2022-06-24T00:00:00+02:00
     start_time: "11:30"
-    end_time: "12:00"
+    end_time: "11:55"
   - title: "ricardo-castro"
     type: talk
     date: 2022-06-24T00:00:00+02:00
     start_time: "12:00"
-    end_time: "12:30"
+    end_time: "12:25"
+  # Sponsor pitch time: 5 mins
   # Houston, we are go for Lunch
   - title: "Lunch"
     type: custom
@@ -544,6 +562,7 @@ program:
     date: 2022-06-24T00:00:00+02:00
     start_time: "14:00"
     end_time: "14:30"
+  # Sponsor pitch time: 5 mins
   # These puns are break-ing me
   - title: "Break"
     type: custom
@@ -554,22 +573,22 @@ program:
     type: talk
     date: 2022-06-24T00:00:00+02:00
     start_time: "14:45"
-    end_time: "15:15"
+    end_time: "15:10"
   - title: "stacy-cashmore"
     type: talk
     date: 2022-06-24T00:00:00+02:00
     start_time: "15:15"
-    end_time: "15:45"
-  - title: "piet-van-dongen"
+    end_time: "15:40"
+  - title: "matt-yonkovit"
     type: talk
     date: 2022-06-24T00:00:00+02:00
     start_time: "15:45"
-    end_time: "16:15"
+    end_time: "16:10"
   - title: "amber-vanderburg"
     type: talk
     date: 2022-06-24T00:00:00+02:00
     start_time: "16:15"
-    end_time: "16:45"
+    end_time: "16:40"
   - title: "Closing Keynote Amsterdam 2022 - Announced soon!"
     type: custom
     date: 2022-06-24T00:00:00+02:00
