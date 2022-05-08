@@ -143,6 +143,11 @@ sponsors:
   - id: ogd
     level: lanyard
   # recharge
+  # foodtrucks
+  - id: thefactory
+    level: foodtrucks
+  - id: adyen
+    level: foodtrucks
   # silver
   - id: fullstaq
     level: silver
@@ -156,11 +161,6 @@ sponsors:
     level: silver
   - id: tomtom
     level: silver
-  # foodtrucks
-  - id: thefactory
-    level: foodtrucks
-  - id: adyen
-    level: foodtrucks
   # bronze
   - id: stream
     level: bronze
