@@ -33,11 +33,11 @@ location: "A. Alfred Taubman Center for Design Education, College for Creative S
 location_address: "460 W Baltimore St, Detroit, MI 48202" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
- # - name: location
  # - name: registration
  # - name: program
  # - name: speakers
+  - name: location
+  - name: propose
   - name: sponsor
   - name: contact
   - name: conduct
