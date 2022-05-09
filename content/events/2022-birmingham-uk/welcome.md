@@ -36,13 +36,11 @@ Description = "Devopsdays Birmingham, uk 2022"
     <div class="d-flex flex-row">
       <div class="col-md-12">
         <div class="p-2">
-          <a class="btn btn-secondary btn-block" href="/events/2022-birmingham-uk/sponsor"> <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference</a>
+          <a class="btn btn-secondary btn-block" href="https://forms.gle/RivrJBnJToygQPQq6"> <i class="fa fa-question fa-lg"></i>&nbsp;&nbsp;&nbsp;Submit to Open Spaces</a>
         </div>
-        <!-- 
         <div class="p-2">
-          <a class="btn btn-secondary btn-block" href="/events/2022-birmingham-uk/program" rel="noopener"> <i class="fa fa-file-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Program</a>
+          <a class="btn btn-secondary btn-block" href="https://docs.google.com/spreadsheets/d/1QWRoYLF8hHz4KEmboeo_QQCt8zwSIvQbx0T2QQo7LmQ/edit?usp=sharing" rel="noopener"> <i class="fa fa-file-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Open Space Day2 Program</a>
         </div>
-        -->
         <div class="p-2">
           <a class="btn btn-secondary btn-block" href="https://ti.to/tech-events-birmingham/devopsdays-birmingham-uk-2022" rel="noopener"> <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Buy a ticket</a>
         </div>

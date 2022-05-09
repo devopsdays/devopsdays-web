@@ -9,25 +9,25 @@ Description = "Location for devopsdays Buffalo 2022"
 For the virtual part of this conference, we will communicate using the DevOpsDays Buffalo Discord server and will be streaming the talks via YouTube. The link to the server will be provided to attendees via their registration email a few days prior to the event.
 
 Whether you purchased a ticket to the physical or the virtual-only event, the first half of the day - on both days - will begin with a virtual portion. 
-## <a name="transit-drive-in"></a>Transit Drive-In:
+## <a name="seneca-one"></a>Seneca One Tower:
 
-The Transit Drive-In in Lockport, NY has been lovingly cared for by three generations of the Cohen family over a period of 64-years. Rick Cohen, the current owner, is continuously improving the technology and capability of the facility while maintaining the nostalgic 60's era charm. Rick is a big community advocate working to raise awareness and funding to save and restore failing drive-ins across the United States. Rick is also a big supporter of the local Buffalo Community and is known to open the theater for Buffalo Bills night games with free admission.
+After two years of pandemic conference planning, we are looking forward to returning to a more traditional event. To kick things off right, we wanted to select a venue that focused around tech and innovation, as well as highlight some of the exciting investment and development happenings across the Buffalo region. We wanted to find an option that felt closer to the action and that could help showcase the region’s rebirth.
 
-A short drive down the 990 from Buffalo, the Transit Drive-in is a true gem of a bygone era in cinematic history. We hope that our choice of this venue helps raise awareness of the unique possibilities that a drive-in can offer, and we hope it encourages sponsors and attendees alike to consider a drive-in the next time they plan a night at the theater.
+Built between 1969 and 1974, Seneca One tower in downtown Buffalo is one of the most iconic buildings in the city skyline. Formerly known as the Marine Midland Center, and later One HSBC Center, Seneca One is the tallest building in Buffalo at 40-floors and 529 Feet in height offering uninterrupted 360-degree skyline views of downtown Buffalo. Recently redeveloped by Douglas Development as a multi-use property that includes dining, professional, and residential spaces, Seneca One has become a destination for entrepreneurs, innovation, and technology in the heart of downtown Buffalo. Seneca One is conveniently located in proximity to a large selection of dining options, recreational activities offered by the Buffalo waterfront, lodging, sporting venues, and purveyors of libation.
 
-For more information about the Transit Drive-in or for upcoming showtimes please visit https://www.transitdrivein.com/.
+The auditorium at Seneca One can support up to 250 individuals and is wheelchair accessible (including restrooms, gallery spaces, and dining). Service animals are welcome in the facility and live captioning will be available during the conference presentations.
 
-If you purchased a ticket to the physical event, the first half of the day will still begin with a virtual portion. During the second part of the day, there will be an intermission to give attendees time to drive to the physical venue at Transit Drive-In.
+For more information about Seneca One please visit https://senecaonebuffalo.com/.
 ### Address:
-Transit Drive-In Theater  
-6655 S Transit Rd  
-Lockport, NY 14094  
+Seneca One Tower  
+1 Seneca St
+Buffalo, NY 14203
 USA  
 
 <!-- Uncomment this only if you have set the coordinates for your location in the config yaml. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html -->
 {{< event_map >}}
   
-***
+<!-- ***
 ## <a name="hotels">Hotels:
 The Transit Drive-in is located in a rural community a few miles North and East of Buffalo. There is minimal travel pressure across the region during early October, so blocks of rooms at a specific hotel have not been prepared in advance. For locations near the venue, we would suggest:
 
@@ -49,4 +49,4 @@ Amherst, NY 14226
 
 ### Buffalo Marriott Niagara
 1340 Millersport Hwy  
-Amherst, NY 14221  
+Amherst, NY 14221   -->

@@ -177,6 +177,12 @@ sponsors:
     level: silver
   - id: snyk
     level: gold
+  - id: julius-baer
+    level: platinum
+  - id: swisscom
+    level: silver
+  - id: splunk
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -427,15 +433,13 @@ ignites:
     date: 2022-05-31
   - title: "oleg-nenashev"
     date: 2022-05-31
-  - title: "ixchel-ruiz"
+  - title: "achim-toeper"
     date: 2022-05-31
   - title: "benjamin-wyss"
     date: 2022-06-01
   - title: "andriy-bilous"
     date: 2022-06-01
   - title: "daiany-palacios"
-    date: 2022-06-01
-  - title: "achim-toeper"
     date: 2022-06-01
   - title: "yishai-beeri"
     date: 2022-06-01        
