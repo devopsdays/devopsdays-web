@@ -106,6 +106,10 @@ sponsors:
     level: community
   - id: clumio
     level: silver
+  - id: env0
+    level: gold
+  - id: minnestar
+    level: community
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
