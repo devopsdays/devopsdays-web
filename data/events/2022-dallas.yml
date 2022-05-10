@@ -201,6 +201,8 @@ sponsors:
   - id: spectrocloud
     level: gold
   - id: env0
+    level: silver
+  - id: opscruise
     level: silver   
   - id: arresteddevops
     level: media
