@@ -201,6 +201,8 @@ sponsors:
     level: platinum
   - id: ermetic
     level: platinum
+  - id: paloaltonetworks
+    level: platinum
   - id: armosec
     level: gold
   - id: komodor
@@ -218,6 +220,14 @@ sponsors:
   - id: rookout
     level: gold
   - id: riskified
+    level: gold
+  - id: slimai
+    level: gold
+  - id: terasky
+    level: gold
+  - id: cybereason
+    level: gold
+  - id: kaltura
     level: gold
   - id: statscraft
     level: media

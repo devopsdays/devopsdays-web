@@ -14,11 +14,10 @@ The best thing to do is send engineers to interact with the experts at devopsday
 
 <p>
     <h2>Sponsor the Event</h2>
-       <h2><a href="https://forms.gle/B6W852R4keSimc1a8" target="_blank"> >> Request Sponsorship Form</a></h2>
        <br/>
        <br/>
-     <h3 style="text-transform: uppercase; color: #c0d44f;">Platinum Sponsor $12,500 (USD) 
-    <br/> <strike>6 Available</strike> >> 2 Available<!-- - <span style="text-transform: uppercase; color: red; background-color: yellow;">SOLD OUT</span> --></h3>
+     <h3 style="text-transform: uppercase; color: #c0d44f;"><strike>Platinum Sponsor $12,500 (USD)</strike> <span style="text-transform: uppercase; font-weight: 800; color: red; background-color: yellow;">SOLD OUT</span>
+    <br/> <strike>6 Available</strike> <!-- - <span style="text-transform: uppercase; color: red; background-color: yellow;">SOLD OUT</span> --></h3>
      <i class="fa fa-cog" style="color: red;"></i>&nbsp;&nbsp;Booth space 4X4M, including DevOpsDays turnkey booth** with 4M back wall, carpet,counter & chairs (OR eligibility for DIY construction booth at sponsor’s expense)<br/>
      <i class="fa fa-cog" style="color: orange;"></i>&nbsp;&nbsp; Large TV / Monitor <br/>
      <i class="fa fa-cog" style="color: #c0d44f;"></i>&nbsp;&nbsp;Badge Scanner<br/>
@@ -37,7 +36,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
     <!--  <h5 style="text-transform: uppercase; color: #c0d44f;"> **Please note, due to the limited availability of booths, sponsorships are based on the order of the receipt of the signed agreements.**</h5> -->
      <br/>
     <h3 style="text-transform: uppercase; color: orange;">Gold Sponsor $8,000 (USD) 
-    <br/><strike>~ 24 Available</strike> >> ~14 Available<!-- - <span style="text-transform: uppercase; color: red; background-color: yellow;">SOLD OUT</span> --></h3>
+    <br/><strike>~ 24 Available</strike> >> ~6 Available<!-- - <span style="text-transform: uppercase; color: red; background-color: yellow;">SOLD OUT</span> --></h3>
     <i class="fa fa-cog" style="color: red;"></i>&nbsp;&nbsp;Booth space 2X2M, including DevOpsDays turnkey booth** with 2M back wall, carpet,counter & chairs<br/>
     <i class="fa fa-cog" style="color: orange;"></i>&nbsp;&nbsp; TV / Monitor <br/>
     <i class="fa fa-cog" style="color: #c0d44f;"></i>&nbsp;&nbsp;Badge Scanner<br/>
