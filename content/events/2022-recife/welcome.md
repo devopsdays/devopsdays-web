@@ -1,28 +1,29 @@
 +++
-Title = "devopsdays Recife 2019"
+Title = "devopsdays Recife 2022"
 Type = "welcome"
-aliases = ["/events/2019-recife"]
-Description = "devopsdays Recife 2019"
+aliases = ["/events/2022-recife"]
+Description = "devopsdays Recife 2022"
 +++
 
 <div>
-<h2>DevOpsDays Recife 2019</h2>
+<h2>DevOpsDays Recife 2022</h2>
 </div>
 
 <div>
   <div style="padding-left: 10px">
-    <p>O DevOpsDays virá para Recife em 2019!</p>
-    <p>Primeira edição do DevOps Days Recife. Será uma ótima oportunidade de compartilhar conhecimento e histórias, de
-      socializar, rever colegas, fazer novos amigos, aprender, ensinar e promover nossa grande e crescente comunidade.
+    <p>O DevOpsDays Recife retorna em 2022!</p>
+    <p>
+      Em nossa segunda edição do DevOpsDays Recife, queremos que todos tenhamos mais uma excelente oportunidade de compartilhar conhecimento, contar histórias, socializar e fazer novos amigos!
+      Queremos tornar a cultura DevOps cada vez mais presente, participe e venha contribuir para essa jornada!
     </p>
     <div class="d-flex flex-row">
       <div class="col-md-12">
+        <!-- <div class="p-2">
+          <a class="btn btn-secondary btn-block" href="" target="_blank"> <i
+              class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Inscrições em breve!!</a>
+        </div> -->
         <div class="p-2">
-          <!-- <a class="btn btn-secondary btn-block" href="https://www.sympla.com.br/devopsdays-recife__660075" target="_blank"> <i -->
-            <!--  class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Faça a sua inscrição!</a> -->
-        </div>
-        <div class="p-2">
-          <a class="btn btn-secondary btn-block" href="/events/2019-recife/contact"> <i
+          <a class="btn btn-secondary btn-block" href="/events/2022-recife/contact"> <i
               class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Entre em contato</a>
         </div>
       </div>
@@ -48,7 +49,7 @@ Description = "devopsdays Recife 2019"
     <strong>Local</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="local" text="In Loco Recife" >}}
+    {{< event_link page="local" text="A ser definido" >}}
   </div>
 </div>
 
