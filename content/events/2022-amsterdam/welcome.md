@@ -74,6 +74,15 @@ Description = "devopsdays Amsterdam will take place June 22-24, 2022! The group 
 
 <div class = "row">
   <div class = "col-md-2">
+    <strong>Get a ticket</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_link page="registration" text="Buy a ticket to the conference" >}}
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-2">
     <strong>Contact</strong>
   </div>
   <div class = "col-md-8">
@@ -90,6 +99,13 @@ Description = "devopsdays Amsterdam will take place June 22-24, 2022! The group 
             style="margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;"
             href="/events/2022-amsterdam/sponsor">
             <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference
+          </a>
+        </div>
+        <div class="d-flex p-2">
+          <a class="btn btn-primary btn-block"
+            style="margin-top: 10px; margin-bottom: 10px; background-color: #e6bd96; border-color: #e6bd96;"
+            href="/events/2022-amsterdam/registration">
+            <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Buy a ticket
           </a>
         </div>
         <div class="d-flex p-2">

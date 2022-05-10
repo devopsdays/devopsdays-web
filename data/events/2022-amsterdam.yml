@@ -21,10 +21,10 @@ cfp_date_announce: # inform proposers of status
 cfp_link: "https://sessionize.com/devopsdays-amsterdam-2022/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2022-01-01T00:00:00+02:00 # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: 2022-06-21T23:59:59+02:00 # close registration. Leave blank if registration is not open yet.
+registration_date_end: 2022-06-22T23:59:59+02:00 # close registration. Leave blank if registration is not open yet.
 
-registration_closed: "true" #set this to true if you need to manually close registration before your registration end date
-registration_link: "https://www.eventbrite.com/e/devopsdays-amsterdam-2022-tickets-255486305417" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+# registration_link: "https://www.eventbrite.com/e/devopsdays-amsterdam-2022-tickets-255486305417" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
