@@ -120,7 +120,7 @@ Description = "devopsdays Amsterdam will take place June 22-24, 2022! The group 
   </div>
   <div class="row">
     <div class="col-12">
-      From fledgling startups to established industry, the The Netherlands is home to a large, vibrant technology community. Amsterdam, in particular, has been a flurry of activity in the past several years, drawing attention from around the globe.
+      From fledgling startups to established industry,  The Netherlands is home to a large, vibrant technology community. Amsterdam, in particular, has been a flurry of activity in the past several years, drawing attention from around the globe.
       <br><br>
       devopsdays Amsterdam brings development, operations, QA, InfoSec, management, and leadership together to discuss the culture and tools to make better organizations and products. The 2022 event will be the seventh time we have held devopsdays Amsterdam, and it should be bigger and better than ever before!
       <br><br>
