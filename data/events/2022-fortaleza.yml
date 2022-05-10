@@ -91,7 +91,7 @@ team_members: # Name is the only required field for team members.
     website: ""
     image: "ezzio.moreira.jpeg"
     
-    - name: "Pedro Azevedo"
+  - name: "Pedro Azevedo"
     twitter: ""
     employer: "Systems Developer"
     bio: "Sysadmin for almost a decade! Focused on open source solutions, working for datacenter providers. I worked with Backup, Network, Webhosting, Dabatases, all top virtualizers, it’s hard to say how many techonologies I’ve been working with among the years. I’m a python fan, DevOps enthusiastic, automation fanatic and I seek for contribute and evolve our local community, difunding kwownledge and organizating meetups every month for experience sharing."
