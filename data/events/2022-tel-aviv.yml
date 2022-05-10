@@ -199,6 +199,8 @@ sponsors:
     level: platinum
   - id: jit
     level: platinum
+  - id: ermetic
+    level: platinum
   - id: armosec
     level: gold
   - id: komodor
@@ -211,8 +213,15 @@ sponsors:
     level: gold
   - id: circleci
     level: gold
-  - id: permitIO
+  - id: permitio
     level: gold
+  - id: rookout
+    level: gold
+  - id: riskified
+    level: gold
+  - id: statscraft
+    level: media
+ #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: barvazgumi
     level: media
   #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
@@ -226,6 +235,7 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
   - id: organizer
+    label: Event Organizer
     level: Event Organizer
   - id: platinum
     label: Platinum
@@ -233,9 +243,9 @@ sponsor_levels:
   - id: gold
     label: Gold
 #    max: 10
-  - id: community
+# - id: community
     label: Community
     max: 0 # This is the same as omitting the max limit.
   - id: media
-    label: Media
+    label: Media & Community Partner
  
