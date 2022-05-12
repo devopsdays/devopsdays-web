@@ -14,11 +14,11 @@ startdate: "2022-09-12T08:00:00-05:00" # The start date of your event. Leave bla
 enddate: "2022-09-13T17:00:00-05:00" # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: "2022-05-15T00:00:00-00:00"  # start accepting talk proposals.
+cfp_date_end: "2022-06-30T23:59:00-00:00"  # close your call for proposals.
+cfp_date_announce: "2022-05-15T00:00:00-00:00"  # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://www.papercall.io/dodbos22" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
@@ -112,6 +112,10 @@ organizer_email: "boston@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: teleport
+    level: platinum
+  - id: spectrocloud
+    level: platinum
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
