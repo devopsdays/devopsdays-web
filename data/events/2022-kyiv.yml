@@ -109,6 +109,8 @@ organizer_email: "kyiv@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: devopsdaysaustin
+    level: community
   - id: devopsdayschi
     level: community
   - id: vmware-tanzu
@@ -141,9 +143,7 @@ sponsors:
     level: media
   - id: devopsdaysboise
     level: community
-  - id: devopsdaysaustin
-    level: community
-  - id: devopsdaysportland
+  - id: devopsdaysportland-or
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
