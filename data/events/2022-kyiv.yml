@@ -36,8 +36,7 @@ location: "Ukraine" # Defaults to city, but you can make it the venue name.
 location_address:
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
-    url: https://forms.gle/h9wxjHaRk1EQ6Kyw9
+ # - name: propose
  # - name: location
   - name: registration
  # - name: program
@@ -110,7 +109,41 @@ organizer_email: "kyiv@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: devopsdaysaustin
+    level: community
   - id: devopsdayschi
+    level: community
+  - id: vmware-tanzu
+    level: platinum
+  - id: icinga
+    level: silver
+  - id: buildkite
+    level: community
+  - id: teamtopologiesacademy
+    level: platinum
+  - id: kubecon-2022
+    level: platinum
+  - id: cncf
+    level: platinum
+  - id: devinsider
+    level: media
+  - id: itrevolution
+    level: media
+  - id: devopsinstitute
+    level: media
+  - id: dna325
+    level: media
+  - id: happymonday
+    level: media
+  - id: zone3000
+    level: media
+  - id: sysopspolska
+    level: media
+  - id: azure_digest
+    level: media
+  - id: devopsdaysboise
+    level: community
+  - id: devopsdaysportland-or
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -128,3 +161,5 @@ sponsor_levels:
     label: Silver
   - id: community
     label: Supporter
+  - id: media
+    label: Media
