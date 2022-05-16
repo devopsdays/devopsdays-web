@@ -105,7 +105,7 @@ We greatly value sponsors for this open event.  If you are interested in sponsor
     <th><b># Available Packages</b></th>
     <td bgcolor="#7e98aa"><center><font color=red>SOLD OUT</font></center></td>
     <td bgcolor="#facba0"><center><font color=red>SOLD OUT</font></center></td>
-    <td bgcolor="#c2c5c7"><center>unlimited</center></td>
+    <td bgcolor="#c2c5c7"><center><font color=red>SOLD OUT</font></center></td>
     <td bgcolor="#85cdad"><center><font color=red>SOLD OUT</font></center></td>
     <td bgcolor="#8bc2d6"><center><font color=red>SOLD OUT</font></center></td>
     <td bgcolor="#8bc2d6"><center><font color=red>SOLD OUT</font></center></td>
