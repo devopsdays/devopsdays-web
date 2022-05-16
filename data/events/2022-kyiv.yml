@@ -169,6 +169,10 @@ sponsors:
     level: media
   - id: devopsdotcom
     level: media
+  - id: aws
+    level: platinum
+  - id: redhat
+    level: platinum
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
