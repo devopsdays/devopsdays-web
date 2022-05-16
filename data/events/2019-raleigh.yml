@@ -106,7 +106,7 @@ sponsors:
     level: gold
   - id: triangledevops
     level: community
-  - id: gitlab
+  - id: gitlab-before-20220516
     level: gold
   - id: xmatters
     level: gold
@@ -128,7 +128,7 @@ sponsors:
     level: gold
   - id: instana-before-20200127
     level: gold
-  - id: devopsinstitute
+  - id: devopsinstitute-before-20220516
     level: community
   - id: puppet
     level: gold

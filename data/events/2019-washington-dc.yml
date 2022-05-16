@@ -342,7 +342,7 @@ sponsors:
     level: gold
   - id: sts
     level: gold
-  - id: gitlab
+  - id: gitlab-before-20220516
     level: gold
     url: "https://about.gitlab.com/"
   - id: newrelic
