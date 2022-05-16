@@ -145,6 +145,30 @@ sponsors:
     level: community
   - id: devopsdaysportland-or
     level: community
+  - id: pulumi
+    level: platinum
+  - id: swiss-re
+    level: platinum
+  - id: twilio
+    level: platinum
+  - id: guthub
+    level: platinum
+  - id: gitlab
+    level: silver
+  - id: innoq
+    level: silver
+  - id: env0
+    level: silver
+  - id: merkely
+    level: community
+  - id: fusion-auth
+    level: community
+  - id: rootly
+    level: community
+  - id: fwdays
+    level: media
+  - id: devopsdotcom
+    level: media
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
