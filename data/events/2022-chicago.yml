@@ -173,6 +173,8 @@ sponsors:
     level: gold
   - id: ksoc
     level: gold
+  - id: newrelic
+    level: gold
   - id: observeinc
     level: gold
   - id: progresschef
@@ -186,6 +188,8 @@ sponsors:
   - id: replicated
     level: gold
   - id: spectrocloud
+    level: gold
+  - id: circleci
     level: gold
     
    #Silver Sponsors
@@ -204,6 +208,8 @@ sponsors:
   - id: grafanalabs
     level: silver
   - id: moogsoft
+    level: silver
+  - id: opscruise
     level: silver
    
    #Bronze Sponsors
