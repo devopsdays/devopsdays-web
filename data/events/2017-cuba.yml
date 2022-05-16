@@ -115,7 +115,7 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: devopsinstitute
+  - id: devopsinstitute-before-20220516
     level: bronze
   - id: clouding
     level: bronze

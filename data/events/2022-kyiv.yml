@@ -150,9 +150,9 @@ sponsors:
   - id: swiss-re
     level: platinum
   - id: twilio
-    level: platinum
-  - id: guthub
-    level: platinum
+    level: gold
+  - id: github
+    level: gold
   - id: gitlab
     level: silver
   - id: innoq
@@ -173,6 +173,14 @@ sponsors:
     level: platinum
   - id: redhat
     level: platinum
+  - id: betajob
+    level: community
+  - id: women-in-technology-poland
+    level: media
+  - id: itukraine
+    level: media
+  - id: devopsdaysbirmingham-al
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
