@@ -52,12 +52,14 @@ team_members: # Name is the only required field for team members.
   - name: "Alfonso Cabrera"
     twitter: alfonso__c
   - name: "Jacob Maggio"
-  - name: "Ryan Kirk"
-  - name: "Phillip Shipley"
-  - name: "Meka Wakahulu"
-  - name: "James Strong"
-  - name: Brock Woodring
+  - name: "Meka Hayes"
+  - name: "Brock Woodring"
   - name: "Quitra Radney"
+  - name: "Yates Spearman"
+    linkedin: "https://www.linkedin.com/in/yates-spearman-822828168"
+    github: "YatesSpearman"
+  - name: "Mike Saraf"
+  - name: "Kristen Maggio"
 
 organizer_email: "charlotte@devopsdays.org" # Put your organizer email address here
 
