@@ -164,7 +164,7 @@ sponsors:
     level: bronze
   - id: codero
     level: community
-  - id: gitlab
+  - id: gitlab-before-20220516
     level: social
   - id: cyberark-before-20180203
     level: silver
@@ -172,7 +172,7 @@ sponsors:
     level: bronze
   - id: pagerduty-before-20190930
     level: silver
-  - id: devopsinstitute
+  - id: devopsinstitute-before-20220516
     level: community
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.

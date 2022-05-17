@@ -95,7 +95,7 @@ proposal_email: "proposals-hartford-2019@devopsdays.org" # Put your proposal ema
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: gitlab
+  - id: gitlab-before-20220516
     level: gold
     url: "https://about.gitlab.com"
   - id: xmatters
