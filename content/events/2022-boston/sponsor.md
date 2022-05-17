@@ -12,7 +12,7 @@ Description = "Sponsor DevOpsDays Boston 2022"
 <h3>Join the community</h3>
 
 
-<p><strong>DevOpsDays Boston Virtual</strong> is a two-day technology community conference that will return this year on September 12th-13th in its “traditional” physical form to the Boston Center for the Arts’ (BCA) Cyclorama and Calderwood Pavilion Theaters in Boston’s historic South End. The conference will also be streamed online.</p>
+<p><strong>DevOpsDays Boston</strong> is a two-day technology community conference that will return this year on September 12th-13th in its &quot;traditional&quot; physical form to the Boston Center for the Arts' (BCA) Cyclorama and Calderwood Pavilion Theaters in Boston’s historic South End. The conference will also be streamed online.</p>
 <p>DevOpsDays is a grassroots event organized and operated by technology professionals to promote networking and the sharing of ideas, challenges, and solutions related to DevOps, IT management, and technology in general. It is organized by peers who care about and believe in improving the culture of technology work, process automation, and the creation of sustained value delivery in an environment of inclusion.</p>
 <h3>Why Sponsor DevOpsDays Boston?</h3>
 <p><strong>DevOpsDays Boston</strong> is part of a global phenomenon that is reshaping the technology industry. DevOpsDays
