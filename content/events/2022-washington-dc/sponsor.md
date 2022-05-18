@@ -67,9 +67,9 @@ The following chart outlines our sponsorship packages.
   </tr>
     <tr>
     <td>Available sponsorships</td>
+    <td class="yes">5</td>
+    <td class="yes">5</td>
     <td class="yes">15</td>
-    <td class="yes">5</td>
-    <td class="yes">5</td>
   </tr>
   <tr>
     <td>Logo on shared slide, rotating during breaks</td>
