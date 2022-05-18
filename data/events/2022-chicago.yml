@@ -191,6 +191,12 @@ sponsors:
     level: gold
   - id: circleci
     level: gold
+  - id: humio
+    level: gold
+  - id: dynatrace
+    level: gold
+  - id: gitlab
+    level: gold
     
    #Silver Sponsors
   - id: medtronic
@@ -214,6 +220,8 @@ sponsors:
    
    #Bronze Sponsors
   - id: env0
+    level: bronze
+  - id: spacelift
     level: bronze
 
 
