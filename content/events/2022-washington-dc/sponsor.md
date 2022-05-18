@@ -10,9 +10,11 @@ Sponsors have the opportunity to have short elevator pitches during the program 
 Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers.
 All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
 
-The best thing to do is send practitioners to interact with their peers at DevOpsDays on their own terms.
+The best thing to do is send practitioners to interact with their peers at DevOpsDays on their own terms. 
 
-Please email the organizers at {{< email_organizers >}} with any questions you may have about sponsoring the event.
+In 2019 we had 458 registered attendees and 91% showed up for at least a portion of the event. Of the attendees, 11% were government employees, the rest from a range of industries representing the diverse nature of the DC-Maryland-Virginia economy. DevOpsDays DC does not share registration information directly with sponsors, but feel free to ask attendees for their contact details. 
+
+Please email the organizers at {{< email_organizers >}} for information on **reserving and paying for your sponsorship**, or for any questions you may have.
 
 The following chart outlines our sponsorship packages.
 
@@ -62,6 +64,12 @@ The following chart outlines our sponsorship packages.
     <td><strong class="stamp">TBD</strong></td>
     <td><strong class="stamp">TBD</strong></td>
     -->
+  </tr>
+    <tr>
+    <td>Available sponsorships</td>
+    <td class="yes">5</td>
+    <td class="yes">5</td>
+    <td class="yes">15</td>
   </tr>
   <tr>
     <td>Logo on shared slide, rotating during breaks</td>
