@@ -63,6 +63,12 @@ The following chart outlines our sponsorship packages.
     <td><strong class="stamp">TBD</strong></td>
     -->
   </tr>
+    <tr>
+    <td>Available sponsorships</td>
+    <td class="yes">15</td>
+    <td class="yes">10</td>
+    <td class="yes">5;</td>
+  </tr>
   <tr>
     <td>Logo on shared slide, rotating during breaks</td>
     <td class="yes">&#9989;</td>
