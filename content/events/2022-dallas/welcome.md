@@ -7,7 +7,10 @@ Description = "devopsdays Dallas 2022"
 
 <!-- <div class = "row" style="background: #ed0b07; color: #ffffff; padding: 20px; margin: 20px; font-size: 16px"> -->
 <div style="text-align:center;" style="max-width:120%;">
-	<div class = "row">
+  {{< event_logo >}}
+</div>
+<br>
+<div class = "row">
   <div class = "col-md-6 push-md-6">
 	  <div class="row">
   		<div class="alert alert-info" role="alert">
@@ -15,8 +18,7 @@ Description = "devopsdays Dallas 2022"
     			<p>While we are making every attempt to hold an in-person event in 2022, we recognize that the ongoing pandemic may affect this plan, but we are not making any specific policy regarding attendance to this event at this time. The health and well-being of our attendees is of paramount importance, so we reserve the right to apply reasonable attendance requirements in accordance with <a href="https://guides.sll.texas.gov/covid-19/covid-19-orders-laws"><strong>local</strong></a> or federal guidance as the event draws closer.  We also reserve the right to cancel completely, or change to a virtual event, if the in-person event cannot be held safely.</p>
   		</div>
   	</div>
-<br>
-  {{< event_logo >}}
+  </div>
 </div>
 <br>
 <h5>The same group of seasoned organizers that brought you DevOpsDays DFW several years in a row are back again another year in 2022 to celebrate our 5th Anniversary. We were encouraged and motivated by the feedback received from previous year's events, which is why they are determined to bring an even better experience this year and improve the DevOps conversation throughout the DFW Metroplex.</h5>
