@@ -6,7 +6,16 @@ Description = "devopsdays Dallas 2022"
 +++
 
 <!-- <div class = "row" style="background: #ed0b07; color: #ffffff; padding: 20px; margin: 20px; font-size: 16px"> -->
-<div style="text-align:center;" style="max-width:120%;">
+<div class = "row">
+  <div class = "col-md-6 push-md-6">
+	  <div class="row">
+  		<div class="alert alert-info" role="alert">
+    			<h2>COVID-19</h2>
+    			<p>While we are making every attempt to hold an in-person event in 2022, we recognize that the ongoing pandemic may affect this plan, but we are not making any specific policy regarding attendance to this event at this time. The health and well-being of our attendees is of paramount importance, so we reserve the right to apply reasonable attendance requirements in accordance with local or federal guidance as the event draws closer.  We also reserve the right to cancel completely, or change to a virtual event, if the in-person event cannot be held safely.</p>
+  		</div>
+  	</div>
+<br>
+    <div style="text-align:center;" style="max-width:120%;">
   {{< event_logo >}}
 </div>
 <br>
