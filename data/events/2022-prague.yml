@@ -149,6 +149,9 @@ sponsors:
   - id: proton
     level: starter
     url: "https://careers.protonmail.com"
+  - id: perforce
+    level: starter
+    url: "https://www.perforce.com/"
   - id: inuits
     level: community
     url: "https://inuits.eu/"
