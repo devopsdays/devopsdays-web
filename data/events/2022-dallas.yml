@@ -206,6 +206,10 @@ sponsors:
     level: silver
   - id: opscruise
     level: silver   
+  - id: clumio
+    level: silver 
+  - id: phoenixnap
+    level: silver 
   - id: arresteddevops
     level: media
   - id: devopslive
