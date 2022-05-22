@@ -40,3 +40,5 @@ Key Takeaways:
 •The loss of translation in a text/email.
 •The value of how things are said
 •How someone hears a word
+
+There are no prerequisites for this workshop.​
