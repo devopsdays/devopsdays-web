@@ -433,9 +433,9 @@ program:
   end_time: '17:30'
 
 ignites:
-  - title: "tobias-hauk"
-    date: 2022-05-31
   - title: "luigi-zoso"
+    date: 2022-05-31
+  - title: "tobias-hauk"
     date: 2022-05-31
   - title: "sebastian-mangelkramer"
     date: 2022-05-31
