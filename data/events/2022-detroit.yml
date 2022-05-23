@@ -107,3 +107,8 @@ sponsor_levels:
     label: Community
   - id: AV
     label: AV
+    max: 1
+
+sponsors:
+  - id: russellvideo
+    level: AV
