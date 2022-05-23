@@ -33,3 +33,5 @@ After each round, the team will have time to reflect and adjust some things so t
 Mark and I will facilitate the teams and help them to understand how the mechanics of the game can help to identify challenges the individuals are facing at their daily jobs.
 
 This would be the very first DevOpsDays where we’re going to demonstrate the game and it would be an honor to demonstrate this at DevOpsDays Zurich
+
+There are no prerequisites for this workshop.
