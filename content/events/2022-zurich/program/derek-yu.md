@@ -16,8 +16,4 @@ slides = ""
 
 ### Talk
 
-Startups have limited resources to develop their digital products.
-More often than not, cybersecurity takes a backseat. Yet a single security incident can severely damage your business and reputation.
-In this session, we discuss some security anti-patterns during software development. We offer some low-hanging fruits that help you avoid these mistakes and protect your digital innovation.
-
-#antipatterns #cybersecurity #securityindepth
+Automated security testing has elegantly addressed many cybersecurity concerns in modern software development. Besides incorporating security gates in CI/CD pipelines, however, there are additional measures to ensure that our innovation can withstand the growing threat landscape. In this talk, we will share our experiences in applying critical security best practices that help protect your customers’ data and ensure business continuity. We put these security practices in the context of relevant industry standards to show a holistic view of a mature security development lifecycle.
