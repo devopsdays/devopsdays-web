@@ -14,11 +14,11 @@ startdate: 2022-12-14T00:00:00+02:00
 enddate:  2022-12-15T23:59:59+02:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
+cfp_date_start:  2022-05-31T00:00:00+02:00
+cfp_date_end:  2022-08-31T23:59:59+02:00
 cfp_date_announce:  # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://sessionize.com/devopsdays-tel-aviv-2022/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
@@ -34,12 +34,12 @@ location: "Tel Aviv" # Defaults to city, but you can make it the venue name.
 location_address: "Expo Tel Aviv - 101 Rokach Blvd, Tel Aviv" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
  # - name: location
  # - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
+  - name: propose
   - name: contact
   - name: conduct
 # - name: example
@@ -229,10 +229,24 @@ sponsors:
     level: gold
   - id: kaltura
     level: gold
+  - id: singular
+    level: gold
+  - id: bigpanda
+    level: gold
+  - id: wix
+    level: gold
+  - id: akeyless
+    level: gold
+  - id: wizards
+    level: gold
+  - id: hetz
+    level: gold
   - id: statscraft
     level: media
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: barvazgumi
+    level: media
+  - id: opsschool
     level: media
   #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 
