@@ -107,9 +107,9 @@ The sponsor area will be set up to encourage people to hang out and enjoy coffee
 
 <img style="max-width: 500px; padding: 0px 20px 20px 0px" src="/events/2017-seattle/banner_styles.png">
 
-<!-- ### A/V Rental<a id="av_rental">
+### A/V Rental<a id="av_rental">
 
-A/V rental is available directly from the venue. All tables will have power and access to the shared wireless service. Anything else you require can be ordered with <a href="https://assets.devopsdays.org/events/2019/seattle/devopsdays-2019-exhibitor-kit-form.pdf">this form</a>. -->
+A/V rental is available directly from the venue. All tables will have power and access to the shared wireless service. Anything else you require can be ordered with <a href="https://assets.devopsdays.org/events/2022/seattle/Devopsdays_Seattle_2022_072010SE_SCC_Exhibitor_Kit.pdf">this form</a>.
 
 ### Lead Collection
 
