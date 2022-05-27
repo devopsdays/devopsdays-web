@@ -101,7 +101,7 @@ sponsors:
   - id: flowtraders
     level: silver
     url: "https://www.flowtraders.com/"
-  - id: googlecloud
+  - id: googlecloud-before-20220526
     level: silver
     url: "https://cloud.google.com/gcp/"
   - id: circleci
