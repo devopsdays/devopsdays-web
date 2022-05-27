@@ -77,7 +77,7 @@ proposal_email: "proposals-philadelphia-2019@devopsdays.org"
 sponsors:
   - id: contrast_security
     level: platinum
-  - id: googlecloud
+  - id: googlecloud-before-20220526
     level: platinum
   - id: appdynamics
     level: gold
