@@ -238,12 +238,6 @@ program:
     start_time: "09:00"
     end_time: "12:15"
     comments: "Location: Studio (note: 3 hours)"
-  - title: "ws-glenn-anderson"
-    type: workshop
-    date: 2022-06-22T00:00:00+02:00
-    start_time: "09:00"
-    end_time: "12:15"
-    comments: "Location: Meetingroom (note: 3 hours)"
   - title: "ws-pierrick-prevert"
     type: workshop
     date: 2022-06-22T00:00:00+02:00
@@ -289,6 +283,12 @@ program:
     start_time: "12:15"
     end_time: "13:00"
   # 13:00 start
+  - title: "ws-riccardo-glenn"
+    type: workshop
+    date: 2022-06-22T00:00:00+02:00
+    start_time: "13:00"
+    end_time: "14:30"
+    comments: "Location: Grote Zaal"
   - title: "ws-andrew-martin"
     type: workshop
     date: 2022-06-22T00:00:00+02:00
@@ -615,7 +615,7 @@ program:
     start_time: "15:15"
     end_time: "15:40"
   - title: "Open Space Session 2"
-    type: talk
+    type: custom
     date: 2022-06-24T00:00:00+02:00
     start_time: "15:15"
     end_time: "15:40"
