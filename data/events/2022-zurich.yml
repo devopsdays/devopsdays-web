@@ -315,7 +315,7 @@ program:
   type: workshop
   date: 2022-05-31
   start_time: '15:00'
-  end_time: '16:00'
+  end_time: '16:15'
 
 - title: Closing Day 1
   type: custom
