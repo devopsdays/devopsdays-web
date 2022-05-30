@@ -1,9 +1,9 @@
 +++
 City = "Zurich"
 Year = "2022"
-talk_date = "2022-06-01"
-talk_start_time = "11:30"
-talk_end_time = "12:00"
+talk_date = "2022-05-31"
+talk_start_time = "11:00"
+talk_end_time = "11:30"
 title = "Hacking Kubernetes: Live Demo Marathon"
 type = "talk"
 speakers = ["andrew-martin"]

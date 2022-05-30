@@ -251,7 +251,7 @@ program:
   start_time: '10:30'
   end_time: '11:00'
 
-- title: sharon-steed
+- title: andrew-martin-talk
   type: talk
   date: 2022-05-31
   start_time: '11:00'
@@ -366,7 +366,7 @@ program:
   start_time: '11:00'
   end_time: '11:30'
   
-- title: andrew-martin-talk
+- title: joseph-katsioloudes-talk
   type: talk
   date: 2022-06-01
   start_time: '11:30'
