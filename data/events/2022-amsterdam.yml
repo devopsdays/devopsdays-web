@@ -136,6 +136,10 @@ sponsors:
     level: gold
   - id: newrelic
     level: gold
+  - id: wemanity
+    level: gold
+  - id: pvh
+    level: gold
   # tshirt
   - id: okta
     level: tshirt
@@ -143,10 +147,14 @@ sponsors:
   - id: ogd
     level: lanyard
   # recharge
+  - id: trendmicro
+    level: recharge
   # foodtrucks
   - id: thefactory
     level: foodtrucks
   - id: adyen
+    level: foodtrucks
+  - id: trendmicro
     level: foodtrucks
   - id: dept
     level: foodtrucks
@@ -163,8 +171,16 @@ sponsors:
     level: silver
   - id: tomtom
     level: silver
+  - id: 42crunch
+    level: silver
+  - id: trilio
+    level: silver
   # bronze
   - id: stream
+    level: bronze
+  - id: o11y
+    level: bronze
+  - id: sudoconsultancy
     level: bronze
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -195,12 +211,12 @@ sponsor_levels:
   - id: recharge
     label: "Power recharge"
     max: "1"
-  - id: silver
-    label: Silver
-    max: "8"
   - id: foodtrucks
     label: "Food Trucks"
     max: "4"
+  - id: silver
+    label: Silver
+    max: "8"
   - id: bronze
     label: Bronze
     max: "10"
@@ -224,12 +240,6 @@ program:
     start_time: "09:00"
     end_time: "12:15"
     comments: "Location: Studio (note: 3 hours)"
-  - title: "ws-glenn-anderson"
-    type: workshop
-    date: 2022-06-22T00:00:00+02:00
-    start_time: "09:00"
-    end_time: "12:15"
-    comments: "Location: Meetingroom (note: 3 hours)"
   - title: "ws-pierrick-prevert"
     type: workshop
     date: 2022-06-22T00:00:00+02:00
@@ -397,12 +407,12 @@ program:
     date: 2022-06-23T00:00:00+02:00
     start_time: "11:00"
     end_time: "11:25"
-  - title: "sarjeel-yusuf"
+  - title: "piet-van-dongen"
     type: talk
     date: 2022-06-23T00:00:00+02:00
     start_time: "11:30"
     end_time: "11:55"
-  - title: "bram-vogelaar"
+  - title: "amber-vanderburg"
     type: talk
     date: 2022-06-23T00:00:00+02:00
     start_time: "12:00"
@@ -447,8 +457,13 @@ program:
     start_time: "14:30"
     end_time: "14:45"
   # Back to our wonderful speakers
-  - title: "lian-li"
+  - title: "bram-vogelaar"
     type: talk
+    date: 2022-06-23T00:00:00+02:00
+    start_time: "14:45"
+    end_time: "15:10"
+  - title: "Open Space Session 1"
+    type: custom
     date: 2022-06-23T00:00:00+02:00
     start_time: "14:45"
     end_time: "15:10"
@@ -457,13 +472,28 @@ program:
     date: 2022-06-23T00:00:00+02:00
     start_time: "15:15"
     end_time: "15:40"
-  - title: "matt-stratton"
+  - title: "Open Space Session 2"
+    type: custom
+    date: 2022-06-23T00:00:00+02:00
+    start_time: "15:15"
+    end_time: "15:40"
+  - title: "ricardo-castro"
     type: talk
     date: 2022-06-23T00:00:00+02:00
     start_time: "15:45"
     end_time: "16:10"
-  - title: "piet-van-dongen"
+  - title: "Open Space Session 3"
+    type: custom
+    date: 2022-06-23T00:00:00+02:00
+    start_time: "15:45"
+    end_time: "16:10"
+  - title: "sarjeel-yusuf"
     type: talk
+    date: 2022-06-23T00:00:00+02:00
+    start_time: "16:15"
+    end_time: "16:40"
+  - title: "Open Space Session 4"
+    type: custom
     date: 2022-06-23T00:00:00+02:00
     start_time: "16:15"
     end_time: "16:40"
@@ -517,7 +547,7 @@ program:
     start_time: "10:45"
     end_time: "11:00"
   # Talks time!
-  - title: "marcel-britsch"
+  - title: "lian-li"
     type: talk
     date: 2022-06-24T00:00:00+02:00
     start_time: "11:00"
@@ -527,7 +557,7 @@ program:
     date: 2022-06-24T00:00:00+02:00
     start_time: "11:30"
     end_time: "11:55"
-  - title: "ricardo-castro"
+  - title: "matt-stratton"
     type: talk
     date: 2022-06-24T00:00:00+02:00
     start_time: "12:00"
@@ -576,8 +606,18 @@ program:
     date: 2022-06-24T00:00:00+02:00
     start_time: "14:45"
     end_time: "15:10"
+  - title: "Open Space Session 1"
+    type: custom
+    date: 2022-06-24T00:00:00+02:00
+    start_time: "14:45"
+    end_time: "15:10"
   - title: "stacy-cashmore"
     type: talk
+    date: 2022-06-24T00:00:00+02:00
+    start_time: "15:15"
+    end_time: "15:40"
+  - title: "Open Space Session 2"
+    type: custom
     date: 2022-06-24T00:00:00+02:00
     start_time: "15:15"
     end_time: "15:40"
@@ -586,8 +626,18 @@ program:
     date: 2022-06-24T00:00:00+02:00
     start_time: "15:45"
     end_time: "16:10"
-  - title: "amber-vanderburg"
+  - title: "Open Space Session 3"
+    type: custom
+    date: 2022-06-24T00:00:00+02:00
+    start_time: "15:45"
+    end_time: "16:10"
+  - title: "marcel-britsch"
     type: talk
+    date: 2022-06-24T00:00:00+02:00
+    start_time: "16:15"
+    end_time: "16:40"
+  - title: "Open Space Session 4"
+    type: custom
     date: 2022-06-24T00:00:00+02:00
     start_time: "16:15"
     end_time: "16:40"

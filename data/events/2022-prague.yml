@@ -36,7 +36,7 @@ location_address: "Na Strži 65/1702, Prague 4, 140 00" #Optional - use the stre
 nav_elements: # List of pages you want to show up in the navigation of your page.
 #  - name: propose
   - name: location
-  - name: registration
+#  - name: registration
   - name: program
   - name: speakers
   - name: sponsor
@@ -101,7 +101,7 @@ sponsors:
   - id: flowtraders
     level: silver
     url: "https://www.flowtraders.com/"
-  - id: googlecloud
+  - id: googlecloud-before-20220526
     level: silver
     url: "https://cloud.google.com/gcp/"
   - id: circleci
@@ -113,6 +113,9 @@ sponsors:
   - id: absa
     level: silver
     url: "https://www.absa.africa"
+  - id: pure-storage
+    level: silver
+    url: "https://www.purestorage.com"
   - id: showmax
     level: bronze
     url: "https://www.showmax.com/"   
@@ -149,6 +152,9 @@ sponsors:
   - id: proton
     level: starter
     url: "https://careers.protonmail.com"
+  - id: perforce
+    level: starter
+    url: "https://www.perforce.com/"
   - id: inuits
     level: community
     url: "https://inuits.eu/"
@@ -314,7 +320,7 @@ program:
     date: 2022-05-25
     start_time: "09:00"
     end_time: "09:10"
-  - title: "edward-pearson"
+  - title: "david-jetelina"
     type: talk
     date: 2022-05-25
     start_time: "09:10"

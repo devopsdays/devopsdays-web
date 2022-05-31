@@ -112,6 +112,12 @@ sponsors:
     level: community
   - id: spectrocloud
     level: gold
+  - id: gitlab
+    level: gold
+  - id: cloudbees
+    level: silver
+  - id: replicated
+    level: silver
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

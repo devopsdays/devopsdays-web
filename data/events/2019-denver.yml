@@ -131,7 +131,7 @@ sponsors:
   level: coffee
 - id: hashicorp
   level: gold
-- id: gitlab
+- id: gitlab-before-20220516
   level: gold
 
 # In this section, list the level of sponsorships and the label to use.
