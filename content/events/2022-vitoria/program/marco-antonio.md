@@ -1,4 +1,3 @@
-
 +++
 Talk_date = ""
 Talk_start_time = ""
