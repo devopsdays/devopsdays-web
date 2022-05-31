@@ -215,6 +215,8 @@ sponsors:
     level: silver
   - id: moogsoft
     level: silver
+  - id: phoenixnap
+    level: silver
   - id: opscruise
     level: silver
   - id: trendmicro
@@ -224,6 +226,8 @@ sponsors:
    
    #Bronze Sponsors
   - id: env0
+    level: bronze
+  - id: stormforge
     level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
