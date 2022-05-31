@@ -78,10 +78,10 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/gleydsonmazioli"
     website: ""
     image: "gleydsonmazioli.jpg"
-  - name: "Camila Martins"
+  - name: "Cami Martins"
     twitter: "punkdodevops"
-    employer: "Descomplica"
-    bio: "Punk, paulista, santista. Docker Community Leader. Sou Senior Site Reliability Engineer e atualmente trabalho na Descomplica, com pós em Forense Computacional e iniciando mestrado em Operação, avaliação e gerenciamento avançado de redes de computadores na Universidade Federal do Estado do Rildy Janeiro hehe. Nas horas vagas, estou codando (também!) e surtando com uma gatinha preta doida chamada Marvel (!) <3"
+    employer: "Storyblok"
+    bio: "Punk, paulista, santista. Docker Community Leader. Sou Senior Site Reliability Engineer e atualmente trabalho na Storyblok, com pós em Forense Computacional e iniciando mestrado em Operação, avaliação e gerenciamento avançado de redes de computadores na Universidade Federal do Estado do Rildy Janeiro hehe. Nas horas vagas, estou codando (também!) e surtando com uma gatinha preta doida chamada Marvel (!) <3 pronous she/they - ele/ela"
     github: "camilla-m"
     facebook: ""
     linkedin: "https://www.linkedin.com/in/camilla-martins-603344115/"
@@ -237,3 +237,197 @@ sponsors:
   - id: quadritech
     level: bronze
     url: https://www.autoglass.com.br/
+
+program:
+  - title: "Credenciamento"
+    type: custom
+    date: 2022-06-24T08:00:00-03:00
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Abertura"
+    type: custom
+    date: 2022-06-24T08:00:00-03:00
+    start_time: "09:00"
+    end_time: "09:30"
+  - title: "rafael-gomes-gomex"
+    type: talk
+    date: 2022-06-24T08:00:00-03:00
+    start_time: "09:30"
+    end_time: "10:00"
+    background_color: "#AED6F1"
+  - title: "marcelo-fernandes"
+    type: talk
+    date: 2022-06-24T08:00:00-03:00
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Coffee Break"
+    type: custom
+    date: 2022-06-24T08:00:00-03:00
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "gilmara-castro"
+    type: talk
+    date: 2022-06-24T08:00:00-03:00
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "dani-monteiro"
+    type: talk
+    date: 2022-06-24T08:00:00-03:00
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Almoço"
+    type: custom
+    date: 2022-06-24T08:00:00-03:00
+    start_time: "12:00"
+    end_time: "13:30"
+  - title: "Ignite Talks"
+    type: talk
+    date: 2022-06-24T08:00:00-03:00
+    start_time: "13:30"
+    end_time: "13:45"
+  - title: "camilla-martins"
+    type: talk
+    date: 2022-06-24T08:00:00-03:00
+    start_time: "13:45"
+    end_time: "14:15"
+  - title: "OpenSpace na prática"
+    type: custom
+    date: 2022-06-24T08:00:00-03:00
+    start_time: "14:15"
+    end_time: "14:45"
+  - title: "OpenSpace na prática"
+    type: custom
+    date: 2022-06-24T08:00:00-03:00
+    start_time: "14:45"
+    end_time: "15:15"
+  - title: "fernando-ike"
+    type: talk
+    date: 2022-06-24T08:00:00-03:00
+    start_time: "15:15"
+    end_time: "15:45"
+  - title: "Coffee Break"
+    type: custom
+    date: 2022-06-24T08:00:00-03:00
+    start_time: "15:45"
+    end_time: "16:15"
+  - title: "tainara-almeida"
+    type: talk
+    date: 2022-06-24T08:00:00-03:00
+    start_time: "16:15"
+    end_time: "16:45"
+  - title: "luiz-felipe-bernardo"
+    type: talk
+    date: 2022-06-24T08:00:00-03:00
+    start_time: "16:45"
+    end_time: "17:15"
+  - title: "carol-valencia"
+    type: talk
+    date: 2022-06-24T08:00:00-03:00
+    start_time: "17:15"
+    end_time: "17:45"
+  - title: "Encerramento"
+    type: custom
+    date: 2022-06-24T08:00:00-03:00
+    start_time: "17:45"
+    end_time: "18:15"
+  - title: "Happy Hour"
+    type: custom
+    date: 2022-06-24T08:00:00-03:00
+    start_time: "18:15"
+    end_time: "22:00"
+ - title: "Credenciamento"
+    type: custom
+    date: 2022-06-25T08:00:00-03:00
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Abertura"
+    type: custom
+    date: 2022-06-25T08:00:00-03:00
+    start_time: "09:00"
+    end_time: "09:30"
+  - title: "andre-brandao"
+    type: talk
+    date: 2022-06-25T08:00:00-03:00
+    start_time: "09:30"
+    end_time: "10:00"
+    background_color: "#AED6F1"
+  - title: "lobinha"
+    type: talk
+    date: 2022-06-25T08:00:00-03:00
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Coffee Break"
+    type: custom
+    date: 2022-06-25T08:00:00-03:00
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "luana-goncalves"
+    type: talk
+    date: 2022-06-25T08:00:00-03:00
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "michelle-ribeiro"
+    type: talk
+    date: 2022-06-25T08:00:00-03:00
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Almoço"
+    type: custom
+    date: 2022-06-25T08:00:00-03:00
+    start_time: "12:00"
+    end_time: "13:30"
+  - title: "Ignite Talks"
+    type: talk
+    date: 2022-06-25T08:00:00-03:00
+    start_time: "13:30"
+    end_time: "13:45"
+  - title: "marco-antonio"
+    type: talk
+    date: 2022-06-25T08:00:00-03:00
+    start_time: "13:45"
+    end_time: "14:15"
+  - title: "OpenSpace na prática"
+    type: custom
+    date: 2022-06-25T08:00:00-03:00
+    start_time: "14:15"
+    end_time: "14:45"
+  - title: "OpenSpace na prática"
+    type: custom
+    date: 2022-06-25T08:00:00-03:00
+    start_time: "14:45"
+    end_time: "15:15"
+  - title: "joao-freire"
+    type: talk
+    date: 2022-06-25T08:00:00-03:00
+    start_time: "15:15"
+    end_time: "15:45"
+  - title: "Coffee Break"
+    type: custom
+    date: 2022-06-25T08:00:00-03:00
+    start_time: "15:45"
+    end_time: "16:15"
+  - title: "aline-freitas"
+    type: talk
+    date: 2022-06-25T08:00:00-03:00
+    start_time: "16:15"
+    end_time: "16:45"
+  - title: "joao-brito"
+    type: talk
+    date: 2022-06-25T08:00:00-03:00
+    start_time: "16:45"
+    end_time: "17:15"
+  - title: "jefferson-fernando"
+    type: talk
+    date: 2022-06-25T08:00:00-03:00
+    start_time: "17:15"
+    end_time: "17:45"
+  - title: "Encerramento"
+    type: custom
+    date: 2022-06-25T08:00:00-03:00
+    start_time: "17:45"
+    end_time: "18:15"
+  - title: "Happy Hour"
+    type: custom
+    date: 2022-06-25T08:00:00-03:00
+    start_time: "18:15"
+    end_time: "22:00"
