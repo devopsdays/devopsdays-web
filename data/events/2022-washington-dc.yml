@@ -201,20 +201,8 @@ organizer_email: "washington-dc@devopsdays.org" # Put your organizer email addre
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: platinum
-    label: Platinum
   - id: spectrocloud
     level: platinum
-  - id: captioning
-    label: Live Caption
-  - id: gold
-    label: Gold
-  - id: silver
-    label: Silver
-  - id: community
-    label: Community
-  - id: media
-    label: Media
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -225,11 +213,13 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: platinum
     label: Platinum
+    max: 15
   - id: gold
     label: Gold
-#    max: 10
+    max: 5
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    max: 5
+    #max: 0 # This is the same as omitting the max limit.
   # - id: community
   #   label: Community
