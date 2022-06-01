@@ -90,9 +90,9 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/bryanttn/"
 
   - name: "Peter Burkholder"
-    employer: "18F"
+    employer: "cloud.gov"
     twitter: "@pburkholder"
-    bio: "Geophysicist turned DevOps"
+    bio: "Geophysicist turned DevOp"
     image: "peter-burkholder.jpg"
     github: "https://github.com/pburkholder"
     facebook: ""
@@ -203,6 +203,8 @@ organizer_email: "washington-dc@devopsdays.org" # Put your organizer email addre
 sponsors:
   - id: platinum
     label: Platinum
+  - id: spectrocloud
+    level: platinum
   - id: captioning
     label: Live Caption
   - id: gold
