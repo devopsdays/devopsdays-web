@@ -215,17 +215,20 @@ sponsors:
     level: silver
   - id: moogsoft
     level: silver
+  - id: phoenixnap
+    level: silver
   - id: opscruise
     level: silver
   - id: trendmicro
+    level: silver
+  - id: spacelift
     level: silver
    
    #Bronze Sponsors
   - id: env0
     level: bronze
-  - id: spacelift
+  - id: stormforge
     level: bronze
-
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -236,10 +239,10 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Gold
-#    max: 10
+    max: 1
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    max: 1 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
   - id: community

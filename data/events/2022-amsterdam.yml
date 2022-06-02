@@ -156,6 +156,8 @@ sponsors:
     level: foodtrucks
   - id: trendmicro
     level: foodtrucks
+  - id: dept
+    level: foodtrucks
   # silver
   - id: fullstaq
     level: silver
