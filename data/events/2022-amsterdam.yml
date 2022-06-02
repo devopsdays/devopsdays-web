@@ -184,8 +184,8 @@ sponsors:
     level: bronze
   - id: containersolutions
     level: bronze
-
-
+  - id: ministerievandefensie
+    level: bronze
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
