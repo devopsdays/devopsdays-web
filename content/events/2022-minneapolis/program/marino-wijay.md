@@ -14,4 +14,3 @@ As I've slowly pivoted to the world of Cloud Native technologies and DevOps, a l
 What does Networking mean for consumers of Kubernetes and Containers? What does K8S and containers mean Network Engineers? What does that transformation for a Network Engineer look like?
 
 In this talk, I share my journey of Network Engineering from the late 2000s to one in 2022 surrounded by the world distributed systems, observability, the deeper need for security/identity and what our traffic tells us.
-"
