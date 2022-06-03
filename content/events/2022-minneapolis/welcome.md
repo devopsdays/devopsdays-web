@@ -59,9 +59,10 @@ Description = "devopsdays Minneapolis 2022"
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
-    Program will be announced by June 1, 2022.
+    The schedule will consist of two full days of talks and interactive sessions. We'll publish it shortly!
   </div>
 </div>
+
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -72,14 +73,14 @@ Description = "devopsdays Minneapolis 2022"
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
