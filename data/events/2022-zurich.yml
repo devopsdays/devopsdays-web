@@ -251,7 +251,7 @@ program:
   start_time: '10:30'
   end_time: '11:00'
 
-- title: sharon-steed
+- title: andrew-martin-talk
   type: talk
   date: 2022-05-31
   start_time: '11:00'
@@ -315,7 +315,7 @@ program:
   type: workshop
   date: 2022-05-31
   start_time: '15:00'
-  end_time: '16:00'
+  end_time: '16:15'
 
 - title: Closing Day 1
   type: custom
@@ -366,7 +366,7 @@ program:
   start_time: '11:00'
   end_time: '11:30'
   
-- title: anais-urlichs
+- title: joseph-katsioloudes-talk
   type: talk
   date: 2022-06-01
   start_time: '11:30'
@@ -417,7 +417,7 @@ program:
 - title: anand-bagmar
   type: workshop
   date: 2022-06-01
-  start_time: '14:45'
+  start_time: '15:00'
   end_time: '17:15'
 
 - title: ricardo-castro

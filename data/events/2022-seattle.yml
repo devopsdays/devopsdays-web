@@ -118,6 +118,12 @@ sponsors:
     level: silver
   - id: phoenixnap
     level: silver
+  - id: sicura
+    level: silver
+  - id: rei
+    level: gold
+  - id: aws
+    level: gold
 
   #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   # - id: arresteddevops
