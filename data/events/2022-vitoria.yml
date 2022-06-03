@@ -255,7 +255,7 @@ program:
     start_time: "09:30"
     end_time: "10:00"
     background_color: "#AED6F1"
-  - title: "marcelo-fernandes"
+  - title: "tainara-almeida"
     type: talk
     date: 2022-06-24T08:00:00-03:00
     start_time: "10:00"
@@ -265,12 +265,12 @@ program:
     date: 2022-06-24T08:00:00-03:00
     start_time: "10:30"
     end_time: "11:00"
-  - title: "gilmara-castro"
+  - title: "marcelo-fernandes"
     type: talk
     date: 2022-06-24T08:00:00-03:00
     start_time: "11:00"
     end_time: "11:30"
-  - title: "dani-monteiro"
+  - title: "joao-brito"
     type: talk
     date: 2022-06-24T08:00:00-03:00
     start_time: "11:30"
@@ -285,7 +285,7 @@ program:
     date: 2022-06-24T08:00:00-03:00
     start_time: "13:30"
     end_time: "13:45"
-  - title: "camilla-martins"
+  - title: "aline-freitas"
     type: talk
     date: 2022-06-24T08:00:00-03:00
     start_time: "13:45"
@@ -300,7 +300,7 @@ program:
     date: 2022-06-24T08:00:00-03:00
     start_time: "14:45"
     end_time: "15:15"
-  - title: "fernando-ike"
+  - title: "will"
     type: talk
     date: 2022-06-24T08:00:00-03:00
     start_time: "15:15"
@@ -310,17 +310,17 @@ program:
     date: 2022-06-24T08:00:00-03:00
     start_time: "15:45"
     end_time: "16:15"
-  - title: "tainara-almeida"
+  - title: "luiz-felipe-bernardo"
     type: talk
     date: 2022-06-24T08:00:00-03:00
     start_time: "16:15"
     end_time: "16:45"
-  - title: "luiz-felipe-bernardo"
+  - title: "gilmara-castro"
     type: talk
     date: 2022-06-24T08:00:00-03:00
     start_time: "16:45"
     end_time: "17:15"
-  - title: "carol-valencia"
+  - title: "michelle-ribeiro"
     type: talk
     date: 2022-06-24T08:00:00-03:00
     start_time: "17:15"
@@ -366,7 +366,7 @@ program:
     date: 2022-06-25T08:00:00-03:00
     start_time: "11:00"
     end_time: "11:30"
-  - title: "michelle-ribeiro"
+  - title: "fernando-ike"
     type: talk
     date: 2022-06-25T08:00:00-03:00
     start_time: "11:30"
@@ -381,7 +381,7 @@ program:
     date: 2022-06-25T08:00:00-03:00
     start_time: "13:30"
     end_time: "13:45"
-  - title: "marco-antonio"
+  - title: "camilla-martins"
     type: talk
     date: 2022-06-25T08:00:00-03:00
     start_time: "13:45"
@@ -396,7 +396,7 @@ program:
     date: 2022-06-25T08:00:00-03:00
     start_time: "14:45"
     end_time: "15:15"
-  - title: "joao-freire"
+  - title: "somatorio"
     type: talk
     date: 2022-06-25T08:00:00-03:00
     start_time: "15:15"
@@ -406,12 +406,12 @@ program:
     date: 2022-06-25T08:00:00-03:00
     start_time: "15:45"
     end_time: "16:15"
-  - title: "aline-freitas"
+  - title: "joao-freire"
     type: talk
     date: 2022-06-25T08:00:00-03:00
     start_time: "16:15"
     end_time: "16:45"
-  - title: "joao-brito"
+  - title: "carol-valencia"
     type: talk
     date: 2022-06-25T08:00:00-03:00
     start_time: "16:45"
