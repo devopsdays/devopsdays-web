@@ -1,11 +1,10 @@
-
 +++
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "Quando os containers impactam a vida das pessoas"
 Type = "talk"
-Speakers = ["jefferson-fernando"]
+Speakers = ["jeferson-fernando"]
 
 +++
 

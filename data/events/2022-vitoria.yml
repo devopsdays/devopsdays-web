@@ -38,7 +38,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   # - name: propose
   - name: location
   #  - name: registration
-  # - name: program
+  - name: program
   - name: speakers
   - name: sponsor
   - name: contact
@@ -262,7 +262,7 @@ program:
     date: 2022-06-24T08:00:00-03:00
     start_time: "10:30"
     end_time: "11:00"
-  - title: "marcelo-fernandes"
+  - title: "marcelo-freire"
     type: talk
     date: 2022-06-24T08:00:00-03:00
     start_time: "11:00"
@@ -278,7 +278,7 @@ program:
     start_time: "12:00"
     end_time: "13:30"
   - title: "Ignite Talks"
-    type: talk
+    type: custom
     date: 2022-06-24T08:00:00-03:00
     start_time: "13:30"
     end_time: "13:45"
@@ -374,7 +374,7 @@ program:
     start_time: "12:00"
     end_time: "13:30"
   - title: "Ignite Talks"
-    type: talk
+    type: custom
     date: 2022-06-25T08:00:00-03:00
     start_time: "13:30"
     end_time: "13:45"
@@ -393,7 +393,7 @@ program:
     date: 2022-06-25T08:00:00-03:00
     start_time: "14:45"
     end_time: "15:15"
-  - title: "somatorio"
+  - title: "marco-antonio"
     type: talk
     date: 2022-06-25T08:00:00-03:00
     start_time: "15:15"
@@ -413,7 +413,7 @@ program:
     date: 2022-06-25T08:00:00-03:00
     start_time: "16:45"
     end_time: "17:15"
-  - title: "jefferson-fernando"
+  - title: "jeferson-fernando"
     type: talk
     date: 2022-06-25T08:00:00-03:00
     start_time: "17:15"
