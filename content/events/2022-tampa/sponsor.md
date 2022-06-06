@@ -53,7 +53,7 @@ Sponsorship to be negotiated
 </td>
       <td style="padding: 5px" align="center" valign="top"><b>Platinum</b><br>2 Left<br><br><br>
 </td>
-      <td style="padding: 5px" align="center" valign="top"><b>Diamond</b><br>1 Left<br><br><br>
+      <td style="padding: 5px" align="center" valign="top"><b>Diamond</b><br>0 Left<br><br><br>
 </td>
     </tr>
     <tr>
