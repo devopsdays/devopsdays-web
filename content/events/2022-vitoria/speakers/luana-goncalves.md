@@ -3,7 +3,7 @@ Title = "Luana Gonçalves"
 linkedin = "luanagoncalvesdasilva"
 #image = ""
 type = "speaker"
-linktitle = "luana-gongalves"
+linktitle = "luana-goncalves"
 
 +++
 

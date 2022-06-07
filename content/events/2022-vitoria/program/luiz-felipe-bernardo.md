@@ -5,7 +5,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "FinOps na Prática"
 Type = "talk"
-Speakers = ["luiz-felipe-bernardo"]
+Speakers = ["luiz-felipe"]
 
 +++
 

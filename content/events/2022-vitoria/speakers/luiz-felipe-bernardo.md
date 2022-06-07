@@ -4,18 +4,13 @@ linkedin = "brbernardo"
 Twitter = "_BrBernardo"
 #image = ""
 type = "speaker"
-linktitle = "luiz-felipe-bernardo"
+linktitle = "luiz-felipe"
 
 +++
 
 Hi, I'm Bernardo.
 
 I'm [Code's](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y2sfhdppyrxkkn5srewg.jpg) father and [Daniela's](https://www.instagram.com/danifsantos.br/) husband.
-
----
-
-![Working](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lrbimr5bcxmevdp8h704.gif)
-
 
 ---
 
@@ -34,8 +29,6 @@ I'm [Code's](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y2sfhdppyr
 ---
 
 ## **Community Contributions**
-
-![Snake animation](https://raw.githubusercontent.com/codethi/codethi/69645ac9673d2bb64039e312397effbc05d19356/github-contribution-grid-snake.svg)
 
 - I try to write regularly in [dev.to/bernardo](https://dev.to/bernardo)
 - I write some provocations on [Linkedin](https://www.linkedin.com/in/brbernardo/) and [Twitter](https://twitter.com/_BrBernardo)
