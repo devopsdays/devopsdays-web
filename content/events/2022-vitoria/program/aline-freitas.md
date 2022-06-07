@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 54087325d8264578ca1d3e282c63a19defc643ff
 +++
 Talk_date = ""
 Talk_start_time = ""

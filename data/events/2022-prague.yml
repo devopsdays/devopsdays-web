@@ -101,7 +101,7 @@ sponsors:
   - id: flowtraders
     level: silver
     url: "https://www.flowtraders.com/"
-  - id: googlecloud
+  - id: googlecloud-before-20220526
     level: silver
     url: "https://cloud.google.com/gcp/"
   - id: circleci
@@ -113,6 +113,9 @@ sponsors:
   - id: absa
     level: silver
     url: "https://www.absa.africa"
+  - id: pure-storage
+    level: silver
+    url: "https://www.purestorage.com"
   - id: showmax
     level: bronze
     url: "https://www.showmax.com/"   
@@ -149,6 +152,9 @@ sponsors:
   - id: proton
     level: starter
     url: "https://careers.protonmail.com"
+  - id: perforce
+    level: starter
+    url: "https://www.perforce.com/"
   - id: inuits
     level: community
     url: "https://inuits.eu/"

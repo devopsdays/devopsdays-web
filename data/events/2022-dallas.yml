@@ -202,10 +202,22 @@ sponsors:
     level: gold
   - id: cprime
     level: gold
+  - id: spacelift
+    level: gold
+  - id: 42crunch
+    level: gold
+  - id: azul
+    level: gold
+  - id: redhat
+    level: gold
   - id: env0
     level: silver
   - id: opscruise
     level: silver   
+  - id: clumio
+    level: silver 
+  - id: phoenixnap
+    level: silver 
   - id: arresteddevops
     level: media
   - id: devopslive

@@ -116,6 +116,10 @@ sponsors:
     level: platinum
   - id: spectrocloud
     level: platinum
+  - id: solo
+    level: platinum
+  - id: humio
+    level: platinum 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

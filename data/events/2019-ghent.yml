@@ -113,7 +113,7 @@ sponsors:
   # gold
   - id: pagerduty
     level: gold
-  - id: googlecloud
+  - id: googlecloud-before-20220526
     level: gold
   - id: hpe
     level: gold
