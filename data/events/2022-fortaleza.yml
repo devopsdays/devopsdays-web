@@ -74,7 +74,7 @@ team_members: # Name is the only required field for team members.
   - name: "Ana Aguilar"
     twitter: ""
     employer: "QuintoAndar"
-    bio: "mother, wife, professional and curious. Currently supports a team of SREs in the product engineering area. Loves technology, communities and people. Believes that the union of technology and people create innovative scenarios.Master's student in Artificial Intelligence and Data Science. Currently supports the two projects Pyladies Fortaleza and DevOps Day Fortaleza."
+    bio: "Graduated in network of computers with specialization in security information .I am working on IT are since 2012. And as DevOps engineer with over 5 years of working. Loves to automate boring tasks. Facilitating continuous development, continuous testing, and continuous integration, thus ensuring high quality and on-time delivery."
     github: ""
     facebook: ""
     linkedin: ""
@@ -93,13 +93,13 @@ team_members: # Name is the only required field for team members.
     
   - name: "Pedro Azevedo"
     twitter: ""
-    employer: "Systems Developer"
-    bio: "Sysadmin for almost a decade! Focused on open source solutions, working for datacenter providers. I worked with Backup, Network, Webhosting, Dabatases, all top virtualizers, it’s hard to say how many techonologies I’ve been working with among the years. I’m a python fan, DevOps enthusiastic, automation fanatic and I seek for contribute and evolve our local community, difunding kwownledge and organizating meetups every month for experience sharing."
+    employer: "Software Engineer"
+    bio: "Sysadmin for over a decade! I have huge experience on open source solutions, working for many amazing companies. I've been working with public cloud providers over those last years, helping companies to keep their business always on. I’m a python fan, DevOps Culture afictioned, automation fanatic. I seek for contribute and evolve our local community, difunding kwownledge and sharing whatever I learn on the daily challenges. My main goal is to be the best husband, father, friend I can be."
     github: "phwebcloud"
     facebook: ""
     linkedin: "https://www.linkedin.com/in/phlimaazevedo/"
     website: ""
-    image: ""     
+    image: "pedro-azevedo.png"     
  
 
 organizer_email: "fortaleza@devopsdays.org" # Put your organizer email address here
@@ -130,8 +130,8 @@ sponsor_levels:
     label: Bronze
 
 sponsors:
-  - id: Uni7
-    level: gold
+  - id: uni7
+    level: platinum
     url: https://www.uni7.edu.br/
   # - id: flexa
   #   level: platinum
