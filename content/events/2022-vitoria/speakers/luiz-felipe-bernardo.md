@@ -6,6 +6,7 @@ Twitter = "_BrBernardo"
 type = "speaker"
 linktitle = "luiz-felipe"
 
+
 +++
 
 Hi, I'm Bernardo.
@@ -30,11 +31,8 @@ I'm [Code's](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y2sfhdppyr
 
 ## **Community Contributions**
 
-<<<<<<< HEAD
-=======
 ![Snake animation](https://raw.githubusercontent.com/codethi/codethi/69645ac9673d2bb64039e312397effbc05d19356/github-contribution-grid-snake.svg)
 
->>>>>>> 54087325d8264578ca1d3e282c63a19defc643ff
 - I try to write regularly in [dev.to/bernardo](https://dev.to/bernardo)
 - I write some provocations on [Linkedin](https://www.linkedin.com/in/brbernardo/) and [Twitter](https://twitter.com/_BrBernardo)
 - I'm an [AWS Community Builders](https://aws.amazon.com/pt/developer/community/community-builders/)

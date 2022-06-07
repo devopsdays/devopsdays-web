@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Adotar Kubernetes é uma boa? Onde estou me metendo?"
 Type = "talk"
-Speakers = [joao-brito"]
+Speakers = ["joao-brito"]
 
 +++
 

@@ -262,11 +262,7 @@ program:
     date: 2022-06-24T08:00:00-03:00
     start_time: "10:30"
     end_time: "11:00"
-<<<<<<< HEAD
-  - title: "marcelo-fernandes"
-=======
   - title: "marcelo-freire"
->>>>>>> 54087325d8264578ca1d3e282c63a19defc643ff
     type: talk
     date: 2022-06-24T08:00:00-03:00
     start_time: "11:00"
@@ -282,11 +278,7 @@ program:
     start_time: "12:00"
     end_time: "13:30"
   - title: "Ignite Talks"
-<<<<<<< HEAD
-    type: talk
-=======
     type: custom
->>>>>>> 54087325d8264578ca1d3e282c63a19defc643ff
     date: 2022-06-24T08:00:00-03:00
     start_time: "13:30"
     end_time: "13:45"
@@ -340,11 +332,7 @@ program:
     date: 2022-06-24T08:00:00-03:00
     start_time: "18:15"
     end_time: "22:00"
-<<<<<<< HEAD
- - title: "Credenciamento"
-=======
   - title: "Credenciamento"
->>>>>>> 54087325d8264578ca1d3e282c63a19defc643ff
     type: custom
     date: 2022-06-25T08:00:00-03:00
     start_time: "08:00"
@@ -386,11 +374,7 @@ program:
     start_time: "12:00"
     end_time: "13:30"
   - title: "Ignite Talks"
-<<<<<<< HEAD
-    type: talk
-=======
     type: custom
->>>>>>> 54087325d8264578ca1d3e282c63a19defc643ff
     date: 2022-06-25T08:00:00-03:00
     start_time: "13:30"
     end_time: "13:45"
@@ -409,11 +393,7 @@ program:
     date: 2022-06-25T08:00:00-03:00
     start_time: "14:45"
     end_time: "15:15"
-<<<<<<< HEAD
   - title: "somatorio"
-=======
-  - title: "marco-antonio"
->>>>>>> 54087325d8264578ca1d3e282c63a19defc643ff
     type: talk
     date: 2022-06-25T08:00:00-03:00
     start_time: "15:15"
@@ -432,12 +412,7 @@ program:
     type: talk
     date: 2022-06-25T08:00:00-03:00
     start_time: "16:45"
-    end_time: "17:15"
-<<<<<<< HEAD
-  - title: "jefferson-fernando"
-=======
   - title: "jeferson-fernando"
->>>>>>> 54087325d8264578ca1d3e282c63a19defc643ff
     type: talk
     date: 2022-06-25T08:00:00-03:00
     start_time: "17:15"
