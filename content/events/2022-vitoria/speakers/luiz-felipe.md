@@ -2,7 +2,7 @@
 Title = "Luiz Felipe Bernardo"
 linkedin = "brbernardo"
 Twitter = "_BrBernardo"
-#image = ""
+image = "luiz-felipe.jpg"
 type = "speaker"
 linktitle = "luiz-felipe"
 

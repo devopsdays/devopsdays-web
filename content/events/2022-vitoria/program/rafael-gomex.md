@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Evolução do DevOps"
 Type = "talk"
-Speakers = ["rafael-gomes-gomex"]
+Speakers = ["rafael-gomex"]
 
 +++
 

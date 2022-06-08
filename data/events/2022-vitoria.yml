@@ -246,7 +246,7 @@ program:
     date: 2022-06-24T08:00:00-03:00
     start_time: "09:00"
     end_time: "09:30"
-  - title: "rafael-gomes-gomex"
+  - title: "rafael-gomex"
     type: talk
     date: 2022-06-24T08:00:00-03:00
     start_time: "09:30"
@@ -297,7 +297,7 @@ program:
     date: 2022-06-24T08:00:00-03:00
     start_time: "14:45"
     end_time: "15:15"
-  - title: "will"
+  - title: "will-oliveira"
     type: talk
     date: 2022-06-24T08:00:00-03:00
     start_time: "15:15"
@@ -307,7 +307,7 @@ program:
     date: 2022-06-24T08:00:00-03:00
     start_time: "15:45"
     end_time: "16:15"
-  - title: "luiz-felipe-bernardo"
+  - title: "luiz-felipe"
     type: talk
     date: 2022-06-24T08:00:00-03:00
     start_time: "16:15"
@@ -393,7 +393,7 @@ program:
     date: 2022-06-25T08:00:00-03:00
     start_time: "14:45"
     end_time: "15:15"
-  - title: "somatorio"
+  - title: "marco-antonio"
     type: talk
     date: 2022-06-25T08:00:00-03:00
     start_time: "15:15"

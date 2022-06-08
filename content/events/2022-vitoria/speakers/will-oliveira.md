@@ -2,7 +2,7 @@
 Title = "Will Oliveira"
 Twitter = "willepronto"
 Linkedin = "willian-dos-santos-oliveira-a4442682"
-#image = "will-oliveira.jpg"
+image = "will-oliveira.jpg"
 type = "speaker"
 linktitle = "will"
 

@@ -3,7 +3,7 @@ Title = "Rafael Gomex"
 Twitter = "gomex"
 #linkedin = "" 
 image = "gomex.jpg"
-linktitle = "rafael-gomes-gomex"
+linktitle = "rafael-gomex"
 
 +++
 
