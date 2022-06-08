@@ -199,8 +199,6 @@ sponsors:
     level: gold
     
    #Silver Sponsors
-  - id: medtronic
-    level: silver
   - id: linearb
     level: silver
   - id: blameless
