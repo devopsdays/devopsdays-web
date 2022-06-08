@@ -1,7 +1,7 @@
 +++
 Title = "João Freire"
 Twitter = "p0ssuidao"
-image = "joao-freire.jpeg"
+image = "joao-freire.jpg"
 type = "speaker"
 linktitle = "joao-freire"
 

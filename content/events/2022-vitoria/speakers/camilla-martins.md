@@ -1,7 +1,7 @@
 +++
 Title = "Cami Martins"
 Twitter = "punkdodevops"
-image = "cami-martins.jpeg"
+image = "camilla-martins.jpg"
 type = "speaker"
 linktitle = "camilla-martins"
 

@@ -1,7 +1,7 @@
 +++
 Title = "Luana Gonçalves"
 linkedin = "luanagoncalvesdasilva"
-#image = ""
+image = "luana-goncalves.jpg"
 type = "speaker"
 linktitle = "luana-goncalves"
 

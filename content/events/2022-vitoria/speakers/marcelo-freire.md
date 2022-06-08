@@ -2,7 +2,7 @@
 Title = "Marcelo Freire"
 Twitter = "marcelofreire28"
 #linkedin = "" 
-image = "marcelo-freire.jpeg"
+image = "marcelo-freire.jpg"
 linktitle = "marcelo-freire"
 
 +++
