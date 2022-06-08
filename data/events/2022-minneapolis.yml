@@ -118,10 +118,14 @@ sponsors:
     level: silver
   - id: replicated
     level: silver
+  - id: planetscale
+    level: gold
   - id: spacelift
     level: gold
-  - id: logdna
+  - id: mezmo 
     level: silver
+  - id: influxdata
+    level: gold
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
