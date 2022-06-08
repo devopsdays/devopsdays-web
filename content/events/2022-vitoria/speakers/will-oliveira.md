@@ -1,7 +1,7 @@
 +++
 Title = "Will Oliveira"
 Twitter = "willepronto"
-Linkedin - "willian-dos-santos-oliveira-a4442682"
+Linkedin = "willian-dos-santos-oliveira-a4442682"
 #image = "will-oliveira.jpeg"
 type = "speaker"
 linktitle = "will"
