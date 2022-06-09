@@ -10,7 +10,7 @@ Description = "DevOpsDays Chicago is coming back in 2022! The group that brought
 	  <div class="row">
   		<div class="alert alert-info" role="alert">
     			<h2>COVID-19</h2>
-    			<p>While we are making every attempt to hold an in-person event in 2022, we recognize that the ongoing pandemic may affect this plan. The health and well-being of our attendees is of paramount importance, so we reserve the right to apply {{< event_link page="covid-19-policy" text="reasonable attendance requirements" >}} in accordance with local or federal guidance.  We also reserve the right to cancel completely, or change to a virtual event, if the in-person event cannot be held safely.</p>
+    			<p>While we are making every attempt to hold an in-person event in 2022, we recognize that the ongoing pandemic may affect this plan. The health and well-being of our attendees is of paramount importance, so we reserve the right to apply reasonable attendance requirements in accordance with local or federal guidance. {{< event_link page="covid-19-policy" text="You can read our 2022 COVID-19 policy here" >}}. We also reserve the right to cancel completely, or change to a virtual event, if the in-person event cannot be held safely.</p>
   		</div>
 	</div>
 
