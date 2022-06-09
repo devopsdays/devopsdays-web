@@ -38,7 +38,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
   - name: registration
 #  - name: program
-#  - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -118,6 +118,14 @@ sponsors:
     level: silver
   - id: replicated
     level: silver
+  - id: planetscale
+    level: gold
+  - id: spacelift
+    level: gold
+  - id: mezmo 
+    level: silver
+  - id: influxdata
+    level: gold
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

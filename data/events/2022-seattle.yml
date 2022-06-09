@@ -124,6 +124,12 @@ sponsors:
     level: gold
   - id: aws
     level: gold
+  - id: trendmicro
+    level: gold
+  - id: spacelift
+    level: silver
+  - id: stormforge
+    level: bronze
 
   #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   # - id: arresteddevops

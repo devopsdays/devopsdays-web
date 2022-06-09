@@ -199,8 +199,6 @@ sponsors:
     level: gold
     
    #Silver Sponsors
-  - id: medtronic
-    level: silver
   - id: linearb
     level: silver
   - id: blameless
@@ -223,11 +221,15 @@ sponsors:
     level: silver
   - id: spacelift
     level: silver
+  - id: stackhawk
+    level: silver
    
    #Bronze Sponsors
   - id: env0
     level: bronze
   - id: stormforge
+    level: bronze
+  - id: 42crunch
     level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
