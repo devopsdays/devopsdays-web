@@ -2,7 +2,7 @@
 Title = "Tainara Almeida"
 linkedin = "tainara-allmeida" 
 Twitter = "sra_allmeida"
-image = "tainara-almeida.jpeg"
+image = "tainara-almeida.jpg"
 type = "speaker"
 linktitle = "tainara-almeida"
 

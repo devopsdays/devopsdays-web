@@ -1,7 +1,7 @@
 +++
 Title = "Fernando Ike (Fike)"
 #Twitter = ""
-#image = ""
+image = "fernando-ike.jpg"
 type = "speaker"
 linktitle = "fernando-ike"
 

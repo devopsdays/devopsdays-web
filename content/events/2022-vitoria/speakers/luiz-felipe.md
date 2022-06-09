@@ -2,20 +2,16 @@
 Title = "Luiz Felipe Bernardo"
 linkedin = "brbernardo"
 Twitter = "_BrBernardo"
-#image = ""
+image = "luiz-felipe.jpg"
 type = "speaker"
-linktitle = "luiz-felipe-bernardo"
+linktitle = "luiz-felipe"
+
 
 +++
 
 Hi, I'm Bernardo.
 
 I'm [Code's](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y2sfhdppyrxkkn5srewg.jpg) father and [Daniela's](https://www.instagram.com/danifsantos.br/) husband.
-
----
-
-![Working](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lrbimr5bcxmevdp8h704.gif)
-
 
 ---
 

@@ -2,7 +2,7 @@
 Title = "Aline Freitas"
 linkedin = "https://www.linkedin.com/in/aline-freitas-206b0012/"
 Twitter = "alinefree"
-image = "aline-freitas.jpeg"
+image = "aline-freitas.jpg"
 type = "speaker"
 linktitle = "aline-freitas"
 
