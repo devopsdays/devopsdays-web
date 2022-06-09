@@ -12,4 +12,5 @@ In order to ensure the health and safety of all our attendees, staff, speakers, 
 * While local mask mandates have been lifted, at this time well-fitted masks will still be required to be worn at our event; 'makeshift' masks (such as neck gaiters or bandanas) or masks with exhalation vents will not be accepted. We are paying close attention to the [Illinois Department of Health](https://dph.illinois.gov/covid19/community-guidance.html) recommendations and the [City of Chicago Community Transmission and Risk](https://www.chicago.gov/city/en/sites/covid-19/home/community-transmission-and-risk.html) pages for further guidance. Masks will be available on-site for anyone who requires one.
 
 * If you are feeling sick on either day of the event, we strongly encourage you to stay home and not try to attend. Refunds are available for any ticketholder who cannot attend due to illness.
-If you cannot comply with these requirements, we ask that you request a ticket refund by September 7, 2022 if applicable and participate virtually by watching our livestream and interacting online.
+
+* If you cannot comply with these requirements, we ask that you request a ticket refund by September 7, 2022 if applicable and participate virtually by watching our livestream and interacting online.
