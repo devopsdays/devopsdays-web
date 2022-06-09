@@ -22,7 +22,7 @@ Description = "DevOpsDays Des Moines Agile 2022"
           <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Contact the Organizers
         </a>
       </div>
-      <img src = "/events/2022-des-moines/logo.png" height="400px">
+      <img src = "/events/2022-des-moines/logo-square.jpg" height="400px">
     </div>
   </div>
   <div class="col-1"></div>
