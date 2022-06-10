@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Network Engineering Goes DevOopsie"
+Title = "Follow the Packets: DevOps for Network Engineers"
 Type = "talk"
 Speakers = ["marino-wijay"]
 +++
