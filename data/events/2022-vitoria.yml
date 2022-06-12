@@ -193,6 +193,8 @@ sponsor_levels:
     label: Silver
   - id: bronze
     label: Bronze
+  - id: community
+    label: Community
 
 sponsors:
   - id: willbank
@@ -216,9 +218,6 @@ sponsors:
   - id: inflor
     level: bronze
     url: https://www.inflor.com.br/
-  - id: quanto
-    level: platinum
-    url: https://quan.to/
   - id: globalsys
     level: gold
     url: https://www.globalsys.com.br/
@@ -231,9 +230,16 @@ sponsors:
   - id: autoglass
     level: gold
     url: https://www.autoglass.com.br/
-  - id: quadritech
-    level: bronze
-    url: https://www.autoglass.com.br/
+  - id: digitalocean
+    level: community
+    url: https://www.digitalocean.com/
+  - id: AtmanSystems
+    level: platinum
+    url: http://atmansystems.com/
+  - id: harness
+    level: platinum
+    url: https://harness.io/
+
 
 program:
   - title: "Credenciamento"
