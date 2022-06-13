@@ -34,9 +34,9 @@ location: "Charlotte - Red Ventures Auditorium"
 location_address: "1101 Red Ventures Drive, Indian Land, SC 29707"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
- # - name: location
- # - name: registration
+  - name: propose
+  - name: location
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
