@@ -119,6 +119,8 @@ sponsors:
   - id: sendcloud
     level: silver
   # bronze
+  - id: o11y
+    level: bronze
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
