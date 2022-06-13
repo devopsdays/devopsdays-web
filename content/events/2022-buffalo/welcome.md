@@ -67,7 +67,7 @@ Description = "DevOpsDays Buffalo is back for another unique conference experien
 <div class="showcase">
 <img src="/events/2022-buffalo/showcase.png">
 <p><a href="https://ti.to/devops-days-buffalo/2022"><button>Register</button></a></p>
-<p><a href="https://sessionize.com/devops-days-buffalo/"><button>Submit a talk</button></a></p>
+<p><a href="../location/"><button>Get venue info</button></a></p>
 <p><a href="../sponsor/"><button>Sponsor</button></a></p>
 <p><a href="../contact/"><button>Contact</button></a></p>
 </div>
