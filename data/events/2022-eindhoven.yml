@@ -110,6 +110,15 @@ organizer_email: "eindhoven@devopsdays.org" # Put your organizer email address h
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  # socialevent
+  # beer
+  # gold
+  # lunch
+  # lanyard
+  # silver
+  - id: sendcloud
+    level: silver
+  # bronze
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
