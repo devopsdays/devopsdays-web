@@ -66,16 +66,15 @@ Description = "DevOpsDays Buffalo is back for another unique conference experien
 
 <div class="showcase">
 <img src="/events/2022-buffalo/showcase.png">
-<p><a href="../registration/"><button>Register</button></a></p>
+<p><a href="https://ti.to/devops-days-buffalo/2022"><button>Register</button></a></p>
 <p><a href="https://sessionize.com/devops-days-buffalo/"><button>Submit a talk</button></a></p>
 <p><a href="../sponsor/"><button>Sponsor</button></a></p>
 <p><a href="../contact/"><button>Contact</button></a></p>
 </div>
 
 <div class="sidebar">
-<h1>Our CFP is now open!</h1>
-<p>Do you have DevOps knowledge or story you'd like to share? <a href="https://sessionize.com/devops-days-buffalo/">Submit
-a talk</a> and become one of our speakers this year!</p>
+<h1>Registration is now open!</h1>
+<p>Get your <a href="https://ti.to/devops-days-buffalo/2022">early bird tickets</a> and join us for some great talks this September!</p>
 <h2>DevOps Days Buffalo is back for our fourth year!</h2>
 <p>In year one we were in a beautiful castle, and then - during the pandemic
 - we shifted to online in order to continue bringing speakers and participants together despite all odds. In year three we
