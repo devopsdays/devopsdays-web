@@ -40,8 +40,8 @@ cfp_open: "false"
 # location_address: "9750 S 300 W Sandy UT 84070" # Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: slcdevopsdays.org
-    url: https://www.slcdevopsdays.org
+#   - name: slcdevopsdays.org
+#     url: https://www.slcdevopsdays.org
   # - name: propose
   # - name: location
   # - name: registration
