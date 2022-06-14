@@ -263,6 +263,12 @@ program:
     start_time: "10:45"
     end_time: "12:15"
     comments: "Location: Grote Zaal"
+  - title: "ws-wolter-kamphuis"
+    type: workshop
+    date: 2022-06-22T00:00:00+02:00
+    start_time: "10:45"
+    end_time: "12:15"
+    comments: "Location: IJzaal"
   - title: "ws-gabriela-roa"
     type: workshop
     date: 2022-06-22T00:00:00+02:00
