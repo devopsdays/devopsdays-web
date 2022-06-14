@@ -4,6 +4,7 @@ city: "Florianópolis"
 event_twitter: "devopsdaysfln"
 description: "A revolução já começou!"
 ga_tracking_id: ""
+cancel: "true"
 
 # All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T01:02:03-05:00
 startdate: # The start date of your event. Leave blank if you don't have a venue reserved yet.

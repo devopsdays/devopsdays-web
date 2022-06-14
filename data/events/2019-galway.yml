@@ -157,9 +157,9 @@ sponsors:
     level: gold
   - id: hpe
     level: gold
-  - id: googlecloud
+  - id: googlecloud-before-20220526
     level: gold
-  - id: suse
+  - id: suse-before-20220128
     level: gold
   - id: redhat
     level: gold

@@ -11,12 +11,12 @@ ga_tracking_id: "UA-38891729-3" # If you have your own Google Analytics tracking
 # Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
 startdate: 2019-06-26T00:00:00+02:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  2019-06-28T23:59:59+02:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2019-06-28T23:59:59+02:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2019-01-10T00:00:00+01:00 # start accepting talk proposals.
-cfp_date_end:  2019-04-01T23:59:59+02:00 # close your call for proposals.
-cfp_date_announce:  2019-04-14T23:59:59+02:00 # inform proposers of status
+cfp_date_end: 2019-04-01T23:59:59+02:00 # close your call for proposals.
+cfp_date_announce: 2019-04-14T23:59:59+02:00 # inform proposers of status
 
 cfp_open: "true"
 cfp_link: "https://sessionize.com/dodams2019/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
@@ -50,7 +50,6 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
-
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
@@ -90,7 +89,7 @@ organizer_email: "amsterdam@devopsdays.org" # Put your organizer email address h
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
   # BBQ
-  - id: schubergphilis
+  - id: schubergphilis-before-20220319
     level: BBQ
   # Beer
   - id: newrelic
@@ -115,7 +114,7 @@ sponsors:
     level: gold
   - id: vmware
     level: gold
-  - id: googlecloud
+  - id: googlecloud-before-20220526
     level: gold
   - id: microsoft
     level: gold
@@ -174,7 +173,7 @@ sponsors:
   - id: monkeyswithbuttons
     level: bronze
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -212,15 +211,14 @@ sponsor_levels:
     label: Bronze
 
 program:
-
-# workshop day
+  # workshop day
   - title: "Registration (workshop day)"
     type: custom
     date: 2019-06-26
     start_time: "08:00"
     end_time: "09:00"
 
-#9:00 to 11:30
+  #9:00 to 11:30
   - title: "emile-vanhaaren-susanne-meerdink"
     type: workshop
     date: 2019-06-26
@@ -258,14 +256,14 @@ program:
     end_time: "11:30"
     comments: "Location: IJ Zaal (5th floor)"
 
-# Lunch
+  # Lunch
   - title: "Lunch Express (Fast) Break"
     type: custom
     date: 2019-06-26
     start_time: "11:30"
     end_time: "12:00"
 
-# 12:00 to 14:30
+  # 12:00 to 14:30
   - title: "anton-babenko-ws"
     type: workshop
     date: 2019-06-26
@@ -303,14 +301,14 @@ program:
     end_time: "14:30"
     comments: "Location: Workspace (2nd floor)"
 
-# break
+  # break
   - title: "Break"
     type: custom
     date: 2019-06-26
     start_time: "14:30"
     end_time: "14:45"
 
-# 14:45 to 17:15
+  # 14:45 to 17:15
   - title: "yan-cui-ws"
     type: workshop
     date: 2019-06-26
@@ -342,7 +340,7 @@ program:
     end_time: "17:15"
     comments: "Location: Studio (5th floor)"
 
-# end of day
+  # end of day
   - title: "Have a beer on us!"
     type: custom
     date: 2019-06-26
@@ -350,8 +348,7 @@ program:
     end_time: "18:30"
     comments: "Pakhuis de Zwijger bar"
 
-
-# conference day 1
+  # conference day 1
   - title: "Registration"
     type: custom
     date: 2019-06-27
@@ -455,7 +452,7 @@ program:
     end_time: "21:00"
     comments: "Location: Pakhuis de Zwijger courtyard"
 
-# day 2
+  # day 2
   - title: "Registration, Breakfast, and Sponsor Booths Open"
     type: custom
     date: 2019-06-28

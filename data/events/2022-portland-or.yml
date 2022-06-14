@@ -2,16 +2,17 @@ name: "2022-portland-or" # The name of the event. Four digit year with the city 
 year: "2022" # The year of the event. Make sure it is in quotes.
 city: "Portland, OR" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdayspdx" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "Devopsdays is coming back to Portland, OR!" # Edit this to suit your preferences
+description: "DevOpsDays Portland 2022 is canceled, hope to see y'all again in 2023!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+cancel: "true"
 
 # All dates are in unquoted 2022-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2022-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate:  2022-09-19T00:00:00-07:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  2022-09-21T00:00:00-07:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  # start accepting talk proposals.
@@ -28,10 +29,10 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 # Location
 #
-coordinates: "45.528378, -122.663138" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Oregon Convention Center, Portland, OR" # Defaults to city, but you can make it the venue name.
+coordinates: # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: # Defaults to city, but you can make it the venue name.
 #
-location_address: "777 NE Martin Luther King Jr Blvd, Portland, OR 97232" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
@@ -39,7 +40,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: registration
  # - name: program
  # - name: speakers
-  - name: sponsor
+ # - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
@@ -49,22 +50,21 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
-  - name: "Bill Weiss"
-    twitter: "billweiss"
   - name: "Alastair Drong"
     twitter: "dev_dull"
-  - name: "Joe Nuspl"
-    twitter: "joenuspl"
-  - name: "Michelle Carroll"
-    twitter: "miiiiiche"
-  - name: "Rich Burroughs"
-    twitter: "richburroughs"
-  - name: "Megan Guiney"
-    twitter: "meganguiney"
-  - name: "Tiffany Longworth"
-  - name: "Will Ellett"
+  - name: "Bill Weiss"
+    twitter: "billweiss"
+  - name: "Daniel Dreier"
+    twitter: "daniel_dreier"
   - name: "Jason Yee"
     twitter: "gitbisect"
+  - name: "Joe Nuspl"
+    twitter: "joenuspl"
+  - name: "Megan Guiney"
+    twitter: "meganguiney"
+  - name: "Trip Longworth"
+    twitter: "thelongshanx"
+  - name: "Will Ellett"
 
 organizer_email: "portland-or@devopsdays.org" # Put your organizer email address here
 
@@ -72,7 +72,7 @@ organizer_email: "portland-or@devopsdays.org" # Put your organizer email address
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For

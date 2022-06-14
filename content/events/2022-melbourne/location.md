@@ -4,10 +4,12 @@ Type = "event"
 Description = "Location for devopsdays Melbourne 2022"
 +++
 
-Watch this space for information about the venue including address, map/direction, parking/transit, and any hotel details.
+We are excited to share with you that devopsdays Melbourne 2022 will take place {{< event_start >}} - {{< event_end >}} at the historic & iconic <a href="https://www.artscentremelbourne.com.au/visit/getting-here">Arts Centre Melbourne</a>. Watch this space for further information about location including direction, parking/transit, and any hotel details.
 
-<!-- Uncomment this only if you have set the coordinates for your location in the config yaml. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html -->
-<!-- {{< event_map >}} -->
+<h2>Arts Centre Melbourne</h2>
+<b>100 St Kilda Rd, Melbourne VIC 3004</b>
+
+{{< event_map >}}
 
 <!-- Edit and uncomment to let people know what accessibility features you have available -->
 <!-- 

@@ -10034,6 +10034,7 @@ img.sponsor {
   text-align: center; }
 
 .homepage-grid-city a {
+  word-break: break-word;
   color: #000000; }
 
 .homepage-grid-desc {

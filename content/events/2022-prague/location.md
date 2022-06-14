@@ -6,9 +6,11 @@ Description = "Location for Devopsdays Prague 2022"
 +++
 
 <br />
-<p>The conference will take place at the City Conference Center (KCC)<p>
+<p>The conference will take place at the City Conference Center (KCC)</p>
 <p>Na Strži 65 / 1702<br />
-140 00 Praha 4<p/>
+140 00 Praha 4</p>
+
+<p>Workshops will be delivered in MSD building - Svornosti 3321, Praha 5</p>
 
 <p>
 Watch this space for information about parking/transit and any hotel details.

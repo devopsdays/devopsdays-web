@@ -9,7 +9,7 @@ Participantes, palestrantes, representantes de empresas e pessoas voluntárias n
 
 ### A versão rápida
 
-Nossa conferência é dedicada a prover um uma experiência de conferência sem assédio para todos, independente de gênero, identidade de gênero e expressão, idade, orientação sexual, deficiência, aparência física, tamanho corporal, raça, etinia, religião (ou a falta dela) ou escolhas de tecnologias. Nós não toleramos assédio de participantes da conferência de qualquer forma. Linguagem e imagens sexuais não são apropriadas em nenhum local, incluindo palestras, workshops, festas, Twitter e outras mídias online. Violações destas regras poderão causar expulsão da conferência, sem reembolso a critério da equipe organizadora.
+Nossa conferência é dedicada a prover um uma experiência de conferência sem assédio para todos, independente de gênero, identidade de gênero e expressão, idade, orientação sexual, deficiência, aparência física, tamanho corporal, raça, etinia, religião (ou a falta dela) ou escolhas de tecnologias. Nós não toleramos assédio de participantes da conferência de qualquer forma. Linguagem e imagens sexuais não são apropriadas em nenhum local, incluindo palestras, workshops, festas, Twitter e outras mídias online. Violações destas regras poderão causar expulsão da conferência, sem reembolso a critério da equipe organizadora. Prevensão ao Covid-19 é um requisito para que tenhamos um bom evento. Uso de mascara será obrigatório para a entrada do evento junto ao comprovante de vacinação.
 
 ### A versão não tão rápida
 
@@ -24,5 +24,8 @@ Se você estiver sofrendo assédio, notar que alguém está sofrendo assédio, o
 As pessoas da equipe da conferência podem ser identificadas por crachás distintos da organização. A organização estará disposta a contatar a segurança do hotel/local ou a polícia local, fornecer escolta ou ajudar pessoas que sofrerem assédio para que se sintam seguras durante a conferência. Nós valorizamos a sua participação.
 
 Esperamos que todas as pessoas participantes sigam estas regras em salas de apresentação e workshops da conferência, além de eventos sociais relacionados.
+
+Prevenção ao Covid-19 é um requisito para que tenhamos um bom evento. Uso de mascara 
+será obrigatório para a entrada do evento junto ao comprovante de vacinação. Mascaras obrigatórias pro evento são: Cirurgicas descartável ou PFF2 ou N95. Teremos alcool disponível em vários locais do evento e no kit de boas vindas.
 
 _O código de conduta do devopsdays Vitoria 2022 é baseado em [confcodeofconduct.com](https://confcodeofconduct.com/index-pt-br.html)._

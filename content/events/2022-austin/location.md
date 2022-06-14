@@ -4,12 +4,19 @@ Type = "event"
 Description = "Location for devopsdays Austin 2022"
 +++
 
-Watch this space for information about the venue including address, map/direction, parking/transit, and any hotel details.
+<div class="row">
+    <div class="col-md-6">
+        <h3>Etter-Harbin Alumni Center</h3>
+        <p>2110 San Jacinto Boulevard<br/>Austin, Texas 78712</p>
+        {{< event_map >}}
+        <p></p>
+        <p><a href="https://www.etterharbinalumnicenter.com/spaces">View pictures of Etter-Harbin Alumni Center</a></p>
+    </div>
+    <div class="col-md-6">
+        <iframe title="vimeo-player" src="https://player.vimeo.com/video/140443029?h=e48dcd3147" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+    </div>
+</div>
 
-<!-- Uncomment this only if you have set the coordinates for your location in the config yaml. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html -->
-<!-- {{< event_map >}} -->
-
-<!-- Edit and uncomment to let people know what accessibility features you have available -->
 <!-- 
     Example from Minneapolis 2020
 

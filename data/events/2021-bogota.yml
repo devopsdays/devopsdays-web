@@ -43,8 +43,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: propose
 # - name: location
   - name: registration
-# - name: program
-#   url:  https://devopsdaysbogota.org/programa 
+  - name: program
+    url:  https://devopsdaysbogota.org/programa 
   - name: speakers  
   - name: sponsor
   - name: contact
@@ -76,12 +76,20 @@ organizer_email: "bogota@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: samplesponsorname
-    level: gold
+  - id: devops-latam
+    level: diamond
+  - id: sigitat
+    level: diamond
+  - id: tsoft
+    level: platinum
+  - id: elastic
+    level: platinum
+  - id: liferay
+    level: platinum
+  - id: delphix
+    level: platinum
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  - id: arresteddevops
-    level: community
-
+  
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -89,13 +97,9 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: gold
-    label: Gold
-#    max: 10
-  - id: silver
-    label: Silver
-    max: 0 # This is the same as omitting the max limit.
-  - id: bronze
-    label: Bronze
-  - id: community
-    label: Community
+  - id: diamond
+    label: diamond
+    max: 10
+  - id: platinum
+    label: platinum
+    max: 10

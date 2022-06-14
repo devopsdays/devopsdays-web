@@ -1,12 +1,12 @@
 +++
-Title = "devopsdays atlanta 2022"
+Title = "Devopsdays Atlanta 2022"
 Type = "welcome"
 aliases = ["/events/2022-atlanta/"]
 Description = "devopsdays atlanta 2022"
 +++
 
  <div style="text-align:center;">
- <h5>Returning to the Georgia Aquarium January of 2022</h5>
+ <h5>Returning to the Georgia Aquarium April of 2022</h5>
   {{< event_logo >}}
 </div> 
 

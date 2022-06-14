@@ -4,7 +4,7 @@ Type = "event"
 Description = "Sponsor devopsdays Melbourne 2022"
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
+We greatly value sponsors for this open event.  If you are interested in sponsoring, learn more about the available options in the sponsorship prospectus <a href="/events/2022-melbourne/prospectus.pdf">[ here ]</a> and please drop us an email at [{{< email_organizers >}}].
 
 <hr>
 

@@ -117,13 +117,13 @@ sponsors:
     level: gold
   - id: hcl-before-20200120
     level: gold
-  - id: gitlab
+  - id: gitlab-before-20220516
     level: gold
   - id: appdynamics
     level: gold
   - id: vmware
     level: gold
-  - id: confluent
+  - id: confluent-before-20220426
     level: gold
   - id: tasktop
     level: silver
@@ -137,11 +137,11 @@ sponsors:
     level: silver
   - id: netjets
     level: silver
-  - id: ahead
+  - id: ahead-before-20220407
     level: silver
   - id: rancher
     level: silver
-  - id: checkpoint
+  - id: checkpoint-before-20220202
     level: bronze
   - id: trendmicro
     level: bronze

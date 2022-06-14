@@ -5,7 +5,7 @@ Description = "Location for DevOpsDays Geneva 2022"
 +++
 <style type="text/css">
  div.sponsor-row img.img-fluid{
-    max-height: 50px;
+    max-height: 70px;
   }
 </style>
 The event will be taking place at
@@ -18,7 +18,13 @@ The event will be taking place at
     Geneva
     </adress>
 </a>
-
+<br>
+<h2>Carpool to the event </h2>
+<ul>
+<li><a href="https://zcu.io/UuQr">Carpool on May 12<sup>th</sup></a></li>
+<li><a href="https://zcu.io/re4i">Carpool on May 13<sup>th</sup></a></li>
+</ul>
+ <br>
 <!-- Uncomment this only if you have set the coordinates for your location in the config yaml. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html -->
 
 {{< event_map >}}

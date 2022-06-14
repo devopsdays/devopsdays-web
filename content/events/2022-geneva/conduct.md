@@ -6,7 +6,7 @@ Description = "Code of conduct for devopsdays Geneva 2022"
 
 <style type="text/css">
  div.sponsor-row img.img-fluid{
-    max-height: 50px;
+    max-height: 70px;
   }
 </style>
 

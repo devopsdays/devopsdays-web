@@ -5,7 +5,7 @@ Description = "Sponsor DevOpsDays Geneva 2022"
 +++
 <style type="text/css">
  div.sponsor-row img.img-fluid{
-    max-height: 50px;
+    max-height: 70px;
   }
 </style>
 <style>
@@ -39,12 +39,12 @@ Description = "Sponsor DevOpsDays Geneva 2022"
 
 We greatly value sponsors for this open event. If you are interested in sponsoring, please drop us an email at {{< email_organizers subject="Sponsor - DevOpsDays Geneva 2022">}}
 
-**See details in our [presentation slides](https://drive.google.com/file/d/19ffIUgTBPF0EC4-HbRmpSjeeIUSvUeqx/view?usp=sharing)**.
+**See details in our [presentation slides](https://drive.google.com/file/d/12CiVrbfh6ivrqg2cfshBx4zvORVRlLMl/view?usp=sharing)**.
 
 |          **SPONSORS PACKS**                                               |   **EVENT**   |   **GOLD**    |  **SILVER**   |  **BRONZE**   |   **MUG**   |
 | ------------------------------------------------------------------------- | :-----------: | :-----------: | :-----------: | :-----------: | :---------: |
 |                                                                           | **9'000 CHF** | **6'000 CHF** | **3'000 CHF** | **1'500 CHF** | **500 CHF** |
-| **Number of sponsors**                                                    | **<span style="color:red">Sold Out</span>**  |     **8**     |     **8**     |    **12**     |    **8**    |
+| **Number of sponsors**                                                    | **<span style="color:red">Sold Out</span>**  |      **<span style="color:red">Sold Out</span>**     |     **<span style="color:red">Sold Out</span>**    |    **12**     |    ****<span style="color:red">Sold Out</span>****    |
 | **Free tickets** including sponsor team                                   |       **8**   |     **5**     |     **3**     |     **1**     |    **0**    |
 | Logo on event **website**                                                 |       ✔      |       ✔       |       ✔      |       ✔       |             |
 | Logo on **shared slides**, displayed during breaks (rotation)             |               |               |       ✔      |       ✔       |             |

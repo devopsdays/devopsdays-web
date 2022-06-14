@@ -7,7 +7,7 @@ Description = "About DevOpsDays Los Angeles 2022"
 <br>
 
 <p>
-We are proud to announce the 10th Annual DevOpsDaysLA will be held Friday, March 4, 2022. DevOpsDaysLA is an anual event held in Southern California. The conference is volunteer-organized and dedicated to the DevOps community.DevOpsDaysLA is presented in cooperation with the Southern California Linux Expo (SCALE).
+We are proud to announce the 10th Annual DevOpsDaysLA will be held Friday, July 29th, 2022. DevOpsDaysLA is an anual event held in Southern California. The conference is volunteer-organized and dedicated to the DevOps community.DevOpsDaysLA is presented in cooperation with the Southern California Linux Expo (SCALE).
 <br>
 <br>
 <img alt="DevOps" src="/events/2022-los-angeles/devops-loop.svg" style="width:35%">

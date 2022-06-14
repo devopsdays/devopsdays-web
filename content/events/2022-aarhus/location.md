@@ -1,13 +1,17 @@
 +++
-Title = "Location"
+Title = "Location for devopsdays Aarhus 2022"
 Type = "event"
-Description = "Location for devopsdays Aarhus 2022"
+Description = " "
 +++
 
-Stay patient - we are still looking for the perfect venue for DevOpsDays Aarhus 2022.
-The venue will be in Aarhus.
+
+<h3>The event will be held at SAVVÆRKET - Søren Nymarksvej 8 A - 8270 Højbjerg</h3>
+<p>
+Limited places available. <a href="https://www.eventbrite.co.uk/e/devopsdays-aarhus-2022-tickets-92256964063?aff=ebdssbeac">Secure your ticket today</a>!
+
+<img src="/events/2022-aarhus/savvaerket.png"/><br /><br />
 <!-- Uncomment this only if you have set the coordinates for your location in the config yaml. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html -->
-<!-- {{< event_map >}} -->
+{{< event_map >}}
 
 <!-- Edit and uncomment to let people know what accessibility features you have available -->
 <!--

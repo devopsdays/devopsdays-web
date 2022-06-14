@@ -1,7 +1,7 @@
 +++
 City = "Zurich"
 Year = "2021"
-talk_date = "2021-09-08"
+talk_date = "2022-09-08"
 talk_start_time = "14:05"
 talk_end_time = "14:10"
 title = "52 years since mankind hit the moon - the hit parade of bringing DevOps to SAP"

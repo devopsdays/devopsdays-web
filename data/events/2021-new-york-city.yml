@@ -7,6 +7,7 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 event_group: "New York City"
 event_logo: "logo-square.png"
 masthead_background: "nyc-skyline.jpg"
+cancel: "true"
 
 # All dates are in unquoted 2021-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00

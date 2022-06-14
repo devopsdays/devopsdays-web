@@ -24,7 +24,7 @@ registration_date_start: # start accepting registration. Leave blank if registra
 registration_date_end: # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "true" #set this to true if you need to manually close registration before your registration end date
-registration_link: "https://www.eventbrite.com/e/devopsdays-prague-2020-tickets-69329736107" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.eventbrite.com/e/devopsdays-prague-2022-tickets-271339512787" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -34,11 +34,11 @@ location: "City Conference Center (KCC), Prague, Czech Republic" # Defaults to c
 location_address: "Na Strži 65/1702, Prague 4, 140 00" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+#  - name: propose
   - name: location
 #  - name: registration
-#  - name: program
-#  - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -74,6 +74,10 @@ team_members: # Name is the only required field for team members.
   - name: "Ľubomír Kováč"
     bio: "For more than a decade, I've been crafting the ability of introducing sophisticated bugs into the software for future generations to resolve. That led me to an idea to share this art with community on MeetUps and spread the joy of software engineering."
     image: "l_kovac.jpg"
+  - name: "Juraj Michálek"
+    bio: "I've been working as an SRE for the past four years. Currently I am a member of Performance & Observability team at Medallia where I focus on our Time series setup."
+    image: "j_michalek.jpg"
+    twitter: "MichalekJuraj"
 organizer_email: "prague@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
@@ -91,15 +95,27 @@ sponsors:
   - id: f5-ni
     level: silver
     url: "https://www.f5.com/"  
-  - id: citrix
+  - id: wrike
     level: silver
-    url: "https://www.citrix.com/"
+    url: "https://www.wrike.com/lp/wrike-engineering/"
   - id: flowtraders
     level: silver
     url: "https://www.flowtraders.com/"
-  - id: googlecloud
+  - id: googlecloud-before-20220526
     level: silver
     url: "https://cloud.google.com/gcp/"
+  - id: circleci
+    level: silver
+    url: "https://circleci.com"
+  - id: sentinelone
+    level: silver
+    url: "https://sentinelone.com"
+  - id: absa
+    level: silver
+    url: "https://www.absa.africa"
+  - id: pure-storage
+    level: silver
+    url: "https://www.purestorage.com"
   - id: showmax
     level: bronze
     url: "https://www.showmax.com/"   
@@ -115,7 +131,7 @@ sponsors:
   - id: digitalocean
     level: starter
     url: "https://www.digitalocean.com/"
-  - id: vistaprint
+  - id: vista-cimpress
     level: starter
     url: "https://www.vistaprint.com/"  
   - id: microsoftazure
@@ -124,12 +140,21 @@ sponsors:
   - id: lineupr
     level: starter
     url: "https://lineupr.com/"  
-  - id: sessionm
+  - id: mastercard
     level: starter
-    url: "https://www.sessionm.com/"
+    url: "https://www.mastercardservices.com/en/solutions"
   - id: avast
     level: starter
     url: "https://www.avast.com/"    
+  - id: alicetechnologies
+    level: starter
+    url: "https://www.alicetechnologies.com"
+  - id: proton
+    level: starter
+    url: "https://careers.protonmail.com"
+  - id: perforce
+    level: starter
+    url: "https://www.perforce.com/"
   - id: inuits
     level: community
     url: "https://inuits.eu/"
@@ -147,7 +172,10 @@ sponsors:
     url: "https://www.meetup.com/Prague-Software-Craftsmanship/"  
   - id: stickermule
     level: community
-    url: "https://mule.to/pqi/"  
+    url: "https://mule.to/pqi/"
+  - id: startupjobs
+    level: community
+    url: "https://www.startupjobs.cz"
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
@@ -171,161 +199,201 @@ sponsor_levels:
 
 
 program:
+  - title: "Registration"
+    type: custom
+    date: 2022-05-23
+    start_time: "09:30"
+    end_time: "09:55"
+  - title: "ward-bekker"
+    type: workshop
+    date: 2022-05-23
+    start_time: "10:00"
+    end_time: "12:00"
+  - title: "Registration"
+    type: custom
+    date: 2022-05-23
+    start_time: "13:00"
+    end_time: "13:25"
+  - title: "radek-zajic"
+    type: workshop
+    date: 2022-05-23
+    start_time: "13:30"
+    end_time: "15:30"
+  - title: "Registration"
+    type: custom
+    date: 2022-05-23
+    start_time: "15:30"
+    end_time: "15:55"
+  - title: "rinor-maloku"
+    type: workshop
+    date: 2022-05-23
+    start_time: "16:00"
+    end_time: "18:00"
+  - title: "Networking"
+    type: custom
+    date: 2022-05-23
+    start_time: "18:00"
+    end_time: "19:30"
+
   - title: "Registration, Breakfast, Sponsors"
     type: custom
-    date: 2021-06-02
+    date: 2022-05-24
     start_time: "08:00"
     end_time: "09:00"
   - title: "Opening Welcome"
     type: custom
-    date: 2021-06-02
+    date: 2022-05-24
     start_time: "09:00"
     end_time: "09:10"
-  - title: ""
+  - title: "kris-buytaert"
     type: talk
-    date: 2021-06-02
+    date: 2022-05-24
     start_time: "09:10"
     end_time: "09:45"
-  - title: ""
+  - title: "ricardo-castro"
     type: talk
-    date: 2021-06-02
+    date: 2022-05-24
     start_time: "09:45"
     end_time: "10:20"
   - title: "Coffee Break"
     type: custom
-    date: 2021-06-02
+    date: 2022-05-24
     start_time: "10:20"
-    end_time: "10:40"
-  - title: ""
+    end_time: "10:45"
+  - title: "ayelet-sachto"
     type: talk
-    date: 2021-06-02
-    start_time: "10:40"
-    end_time: "11:15"
-  - title: ""
+    date: 2022-05-24
+    start_time: "10:45"
+    end_time: "11:20"
+  - title: "eduardo-piairo"
     type: talk
-    date: 2021-06-02
-    start_time: "11:20"
-    end_time: "11:55"
+    date: 2022-05-24
+    start_time: "11:25"
+    end_time: "12:00"
   - title: "Lunch"
     type: custom
-    date: 2021-06-02
-    start_time: "11:55"
+    date: 2022-05-24
+    start_time: "12:00"
     end_time: "13:15"
-  - title: "Ignites"
-    type: ignite
-    date: 2021-06-02
+  - type: ignite
+    date: 2022-05-24
     start_time: "13:15"
     end_time: "13:45"
   - title: "Open Space Opening"
     type: open-space
-    date: 2021-06-02
+    date: 2022-05-24
     start_time: "13:45"
     end_time: "14:30"
   - title: "attendee-suggested breakout discussions - Open Space #1"
     type: open-space
-    date: 2021-06-02
+    date: 2022-05-24
     start_time: "14:30"
     end_time: "15:15"
   - title: "attendee-suggested breakout discussions - Open Space #2"
     type: open-space
-    date: 2021-06-02
+    date: 2022-05-24
     start_time: "15:25"
     end_time: "16:10"
   - title: "attendee-suggested breakout discussions - Open Space #3"
     type: open-space
-    date: 2021-06-02
+    date: 2022-05-24
     start_time: "16:20"
     end_time: "17:05"
   - title: "First day summary"
     type: custom
-    date: 2021-06-02
+    date: 2022-05-24
     start_time: "17:10"
     end_time: "17:20"    
   - title: "Evening event"
     type: custom
-    date: 2021-06-02
+    date: 2022-05-24
     start_time: "17:25"
     end_time: "late"
+
   - title: "Registration, Breakfast, Sponsors"
     type: custom
-    date: 2021-06-03
+    date: 2022-05-25
     start_time: "08:00"
     end_time: "09:00"
   - title: "Opening Welcome"
     type: custom
-    date: 2021-06-03
+    date: 2022-05-25
     start_time: "09:00"
     end_time: "09:10"
-  - title: ""
+  - title: "david-jetelina"
     type: talk
-    date: 2021-06-03
+    date: 2022-05-25
     start_time: "09:10"
     end_time: "09:45"
-  - title: ""
+  - title: "bernd-erk"
     type: talk
-    date: 2021-06-03
+    date: 2022-05-25
     start_time: "09:45"
     end_time: "10:20"
   - title: "Break"
     type: custom
-    date: 2021-06-03
+    date: 2022-05-25
     start_time: "10:20"
-    end_time: "10:40"
-  - title: ""
+    end_time: "10:45"
+  - title: "junade-ali"
     type: talk
-    date: 2021-06-03
-    start_time: "10:40"
-    end_time: "11:15"
-  - title: ""
+    date: 2022-05-25
+    start_time: "10:45"
+    end_time: "11:20"
+  - title: "valarie-regas"
     type: talk
-    date: 2021-06-03
-    start_time: "11:20"
-    end_time: "11:55"
+    date: 2022-05-25
+    start_time: "11:25"
+    end_time: "12:00"
   - title: "Lunch"
     type: custom
-    date: 2021-06-03
-    start_time: "11:55"
+    date: 2022-05-25
+    start_time: "12:00"
     end_time: "13:15"
-  - title: "Ignites"
-    type: ignite
-    date: 2021-06-03
+  - type: ignite
+    date: 2022-05-25
     start_time: "13:15"
     end_time: "13:45"
   - title: "Open Space Opening"
     type: open-space
-    date: 2021-06-03
+    date: 2022-05-25
     start_time: "13:45"
     end_time: "14:20"
   - title: "attendee-suggested breakout discussions - Open Space #1"
     type: open-space
-    date: 2021-06-03
+    date: 2022-05-25
     start_time: "14:20"
     end_time: "15:05"
   - title: "attendee-suggested breakout discussions - Open Space #2"
     type: open-space
-    date: 2021-06-03
+    date: 2022-05-25
     start_time: "15:15"
     end_time: "16:00"
   - title: "attendee-suggested breakout discussions - Open Space #3"
     type: open-space
-    date: 2021-06-03
+    date: 2022-05-25
     start_time: "16:10"
     end_time: "16:55"
   - title: "Closing Ceremony"
     type: custom
-    date: 2021-06-03
+    date: 2022-05-25
     start_time: "17:00"
     end_time: "17:15"
+
 ignites:
-  - title: ""
-    date: 2021-06-02
-  - title: ""
-    date: 2021-06-02    
-  - title: ""
-    date: 2021-06-02   
-  - title: ""
-    date: 2021-06-03  
-  - title: ""
-    date: 2021-06-03
-  - title: ""
-    date: 2021-06-03    
+  - title: "radek-zajic-ignite"
+    date: 2022-05-24 
+  - title: "cornelia-mosler"
+    date: 2022-05-24
+  - title: "mofizur-rahman"
+    date: 2022-05-24
+  - title: "jeremy-meiss"
+    date: 2022-05-24
+  - title: "federico-fregosi"
+    date: 2022-05-25
+  - title: "nicolai-antiferov"
+    date: 2022-05-25
+  - title: "Piet-vanDongen"
+    date: 2022-05-25
+  - title: "philipp-krenn"
+    date: 2022-05-25

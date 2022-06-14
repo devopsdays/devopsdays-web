@@ -10,21 +10,21 @@ ga_tracking_id: "UA-74738648-1" # If you have your own Google Analytics tracking
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2021-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: 2022-05-10T00:00:00-05:00
-enddate: 2022-05-11T00:00:00-05:00
+startdate: 2022-09-21T00:00:00-05:00
+enddate: 2022-09-22T00:00:00-05:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2021-11-01T00:00:00-05:00 # start accepting talk proposals.
-cfp_date_end: 2022-01-31T00:00:00-05:00 # close your call for proposals.
-cfp_date_announce: 2022-02-28T00:00:00-05:00 # inform proposers of status
+cfp_date_end: 2022-03-31T00:00:00-05:00 # close your call for proposals.
+cfp_date_announce: 2022-04-30T00:00:00-05:00 # inform proposers of status
 
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: 2022-05-19T19:00:00-05:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2022-09-21T05:00:00-05:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.universe.com/embed2/events/devopsdays-chicago-2022-tickets-chicago-932F4Z" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 masthead_background: "skyline-night.jpg"
 
@@ -36,14 +36,16 @@ location: "UIC Forum" # Defaults to city, but you can make it the venue name.
 location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+ # - name: propose
   - name: location
- # - name: registration
+  - name: registration
  # - name: program
- # - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
+  - name: COVID 19 Policy
+    url: /events/2022-chicago/covid
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -155,15 +157,82 @@ sponsors:
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
+  - id: thatconference
+    level: community
     
   # Gold Sponsors
   - id: teleport
     level: gold
+  - id: trilio
+    level: gold
+  - id: neuvector
+    level: gold
+  - id: solo
+    level: gold
+  - id: couchbase
+    level: gold
+  - id: vmware-tanzu
+    level: gold
+  - id: ksoc
+    level: gold
+  - id: newrelic
+    level: gold
+  - id: observeinc
+    level: gold
+  - id: progresschef
+    level: gold
+  - id: seismic
+    level: gold
+  - id: quali
+    level: gold
+  - id: pulumi
+    level: gold
+  - id: replicated
+    level: gold
+  - id: spectrocloud
+    level: gold
+  - id: circleci
+    level: gold
+  - id: humio
+    level: gold
+  - id: dynatrace
+    level: gold
+  - id: gitlab
+    level: gold
     
    #Silver Sponsors
-   
+  - id: linearb
+    level: silver
+  - id: blameless
+    level: silver
+  - id: slimai
+    level: silver
+  - id: mondoo
+    level: silver
+  - id: clumio
+    level: silver
+  - id: grafanalabs
+    level: silver
+  - id: moogsoft
+    level: silver
+  - id: phoenixnap
+    level: silver
+  - id: opscruise
+    level: silver
+  - id: trendmicro
+    level: silver
+  - id: spacelift
+    level: silver
+  - id: stackhawk
+    level: silver
    
    #Bronze Sponsors
+  - id: env0
+    level: bronze
+  - id: stormforge
+    level: bronze
+  - id: 42crunch
+    level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -174,10 +243,10 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Gold
-#    max: 10
+    max: 1
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    max: 1 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
   - id: community

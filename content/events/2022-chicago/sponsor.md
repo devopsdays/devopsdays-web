@@ -5,9 +5,7 @@ Description = "Sponsor devopsdays Chicago 2022"
 +++
 
 We greatly value sponsors for this community event. If you are interested in sponsoring, please check out our <a href="https://assets.devopsdays.org/events/2022/chicago/2022-chicago-devopsdays-prospectus.pdf" target="_blank">prospectus</a> or <a href="mailto:chicago-sponsors@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Chicago%202022">send us an email</a>.
-
-
-
+We greatly value sponsors for this community event. If you are interested in sponsoring, please  <a href="mailto:chicago-sponsors@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Chicago%202022">send us an email</a>.
 <hr>
 
 devopsdays is a self organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
@@ -50,21 +48,23 @@ The best thing to do is send engineers to interact with the experts at devopsday
       <td></td>
       <td>
         <!-- Gold Paypal button  -->
-        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+        <!-- <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
           <input type="hidden" name="cmd" value="_s-xclick">
           <input type="hidden" name="hosted_button_id" value="S9SCLZP3USU7L">
           <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
           <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-        </form>
+        </form> -->
+        SOLD OUT
       </td>
       <td>
         <!-- silver Paypal button  -->
-        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+        <!-- <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
           <input type="hidden" name="cmd" value="_s-xclick">
           <input type="hidden" name="hosted_button_id" value="LUSEMWLZ7MKKW">
           <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
           <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-        </form>
+        </form> -->
+        SOLD OUT
       </td>
       <td>
         <!-- bronze Paypal button  -->

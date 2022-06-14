@@ -5,7 +5,7 @@ Description = "Newsletter devopsdays Geneva 2022"
 +++
 <style type="text/css">
  div.sponsor-row img.img-fluid{
-    max-height: 50px;
+    max-height: 70px;
   }
 </style>
 **Subscribe to our newsletter for the next news !**
