@@ -9,7 +9,7 @@ Description = "DevOpsDays Cairo 2022"
 </div>
 <div>
     <p>Just &quot;Like&quot; our <a href="https://www.facebook.com/SECC.Egypt/" rel="noopener noreferrer" target="_blank">Facebook page</a>, adjust your calender/notifications, and stay tuned!</p>
-    <p>CFP is now <a href="https://www.facebook.com/SECC.Egypt/" rel="noopener noreferrer" target="_blank">Open!</a></p>
+    <p>CFP is now <a href="https://www.papercall.io/cairo2022" rel="noopener noreferrer" target="_blank">Open!</a></p>
 </div>
 <div style="text-align:center;"><br></div>
   
