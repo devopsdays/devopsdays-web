@@ -267,7 +267,7 @@ program:
     type: workshop
     date: 2022-06-22T00:00:00+02:00
     start_time: "10:45"
-    end_time: "12:15"
+    end_time: "11:30"
     comments: "Location: IJzaal"
   - title: "ws-gabriela-roa"
     type: workshop
