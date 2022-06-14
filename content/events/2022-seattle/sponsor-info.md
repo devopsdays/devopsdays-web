@@ -109,7 +109,7 @@ The sponsor area will be set up to encourage people to hang out and enjoy coffee
 
 ### A/V Rental<a id="av_rental">
 
-A/V rental is available directly from the venue. All tables will have power and access to the shared wireless service. Anything else you require can be ordered with <a href="https://assets.devopsdays.org/events/2022/seattle/Devopsdays_Seattle_2022_072010SE_SCC_Exhibitor_Kit.pdf">this form</a>.
+A/V rental is available directly from the venue. All tables will have power and access to the shared wireless service. Anything else you require can be ordered with <a href="https://assets.devopsdays.org/events/2022/seattle/Devopsdays_Seattle_2022_072010SE_SCC_Exhibitor_Kit.pdf">this form</a> or email <a href='mailto:sdugger@fernexpo.com?subject=2022 DevOpsDays Seattle'>FernExpo</a>
 
 ### Lead Collection
 
