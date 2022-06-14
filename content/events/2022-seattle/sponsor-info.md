@@ -62,15 +62,15 @@ participation it’s highly recommended that your staff participate in the open
 space discussions. This is your best chance to show off how valuable you can
 be to the attendees.
 
-<!-- ### Shipping
+### Shipping
 
-There is no shipping directly to the venue, so we have contracted a drayage company to all you to ship items for the event.
+There is no shipping directly to the venue, so we have contracted a drayage company for the event.
 
-**Sponsors are responsible for any charges from using this third party vendor. Please read their instructions carefully to make sure there are no issues.**
+**Sponsors are responsible for any charges from using this third party vendor. Please follow their instructions carefully to make sure there are no issues.**
 
-<a href="https://assets.devopsdays.org/events/2019/seattle/DevOpsDays-Seattle-exhibitor-freight-kit.pdf">Click here to download the exhibitor freight kit</a>
+ Email <a href='mailto:sdugger@fernexpo.com?subject=2022 DevOpsDays Seattle'>FernExpo</a> for further information and pricing.
 
-For outbound shipping only, there is a FedEx Office location across the street from the venue. Unlike some FedEx locations, this location does **not** offer a hold for pickup service so you should not send any incoming shipments there. -->
+For outbound shipping only, there is a FedEx Office location across the street from the venue. Unlike some FedEx locations, this location does **not** offer a hold for pickup service so you should not send any incoming shipments there.
 
 <!-- ### Loading / Unloading at venue
 
@@ -109,7 +109,7 @@ The sponsor area will be set up to encourage people to hang out and enjoy coffee
 
 ### A/V Rental<a id="av_rental">
 
-A/V rental is available directly from the venue. All tables will have power and access to the shared wireless service. Anything else you require can be ordered with <a href="https://assets.devopsdays.org/events/2022/seattle/Devopsdays_Seattle_2022_072010SE_SCC_Exhibitor_Kit.pdf">this form</a> or email <a href='mailto:sdugger@fernexpo.com?subject=2022 DevOpsDays Seattle'>FernExpo</a>
+A/V rental is available directly from the venue. All tables will have power and access to the shared wireless service. Anything else you require can be ordered with <a href="https://assets.devopsdays.org/events/2022/seattle/Devopsdays_Seattle_2022_072010SE_SCC_Exhibitor_Kit.pdf">this form</a>.
 
 ### Lead Collection
 
