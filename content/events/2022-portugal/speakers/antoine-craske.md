@@ -1,6 +1,6 @@
 +++
 Title = "Antoine Craske"
-linkedin = "https://www.linkedin.com/in/charity-majors/"
+linkedin = "https://www.linkedin.com/in/acraske/"
 twitter = "acraske_"
 image = "antoine-craske.jpeg"
 type = "speaker"
