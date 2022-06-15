@@ -208,11 +208,15 @@ sponsors:
     level: gold
   - id: azul
     level: gold
+  - id: nirmata
+    level: gold
   - id: redhat
     level: gold
   - id: bitdefender
     level: gold
   - id: trendmicro
+    level: gold
+  - id: circleci
     level: gold
   - id: env0
     level: silver
