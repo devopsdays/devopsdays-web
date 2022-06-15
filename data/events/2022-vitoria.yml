@@ -239,7 +239,9 @@ sponsors:
   - id: harness
     level: platinum
     url: https://harness.io/
-
+  - id: cloudwalk
+    level: gold
+    url: https://cloudwalk.io/
 
 program:
   - title: "Credenciamento"
