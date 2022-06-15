@@ -1,5 +1,6 @@
 name: Codeball
 on: [pull_request]
+permissions: write-all
 
 jobs:
   codeball_job:
