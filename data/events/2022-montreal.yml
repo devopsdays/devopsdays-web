@@ -117,7 +117,19 @@ sponsors:
   # - id: samplesponsorname
   #   level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  # - id: Articq
+  #   level: platinum
+  - id: dynatrace
+    level: gold
+  - id: suse
+    level: gold
+  # - id: AppDirect
+  #   level: cocktail
+  # - id: Gologic
+  #   level: bronze
   - id: arresteddevops
+    level: community
+  - id: "agile montreal"
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -127,6 +139,18 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: platinum
+    label: Platinum
+    max: 2
+  - id: gold
+    label: Gold
+    max: 5
+  - id: silver
+    label: Silver
+    max: 9
+  - id: bronze
+    label: Bronze
+    max: 7
   - id: lunch
     label: Lunch
     max: 2
@@ -139,17 +163,5 @@ sponsor_levels:
   - id: coffee
     label: Coffee
     max: 1
-  - id: bronze
-    label: Bronze
-    max: 7
-  - id: silver
-    label: Silver
-    max: 9
-  - id: gold
-    label: Gold
-    max: 5
-  - id: platinum
-    label: Platinum
-    max: 2
   - id: community
     label: Community
