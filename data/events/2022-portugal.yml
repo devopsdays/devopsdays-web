@@ -141,8 +141,8 @@ sponsors:
 # - id: edp
 #   level: gold
 # - id: outsystems
-# - id: devscope
-#   level: silver
+- id: eurotux
+  level: silver
 # - id: gfi
 #   level: bronze
 # - id: agileportugal
