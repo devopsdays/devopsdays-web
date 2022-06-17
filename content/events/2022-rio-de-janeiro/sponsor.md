@@ -103,10 +103,10 @@ Visando valorizar a participação de instituições na realização do evento, 
     </tr>
     <tr>
       <td>Inscrições para o evento*</td>
-      <td>2</td>
-      <td>4</td>
-      <td>8</td>
-      <td>10</td>
+      <td>1</td>
+      <td>3</td>
+      <td>5</td>
+      <td>7</td>
     </tr>
     <tr>
       <td><b>Contribuição</b></td>
@@ -219,10 +219,10 @@ Aiming to enhance the participation of institutions in the event, we organized p
     </tr>
     <tr>
       <td>Tickets*</td>
-      <td>2</td>
-      <td>4</td>
-      <td>8</td>
-      <td>10</td>
+      <td>1</td>
+      <td>3</td>
+      <td>5</td>
+      <td>7</td>
     </tr>
     <tr>
       <td><b>Contribution</b></td>
