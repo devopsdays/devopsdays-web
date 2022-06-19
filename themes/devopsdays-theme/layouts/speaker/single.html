@@ -93,6 +93,15 @@
       </a>
       {{- end -}}
     {{- end -}}
+    {{- if isset .Params "twitch" -}}
+      {{- if ne .Params.twitch "" -}}
+        <a href = "https://twitch.tv/{{ .Params.twitch }}"><i class="fa fa-twitch fa-2x" aria-hidden="true"></i>&nbsp;
+      {{- if $e.speakers_verbose -}}
+        {{ .Params.twitch }}<br />
+      {{- end -}}
+      </a>
+      {{- end -}}
+    {{- end -}}
   </div>
 </div>
 {{ partial "sponsors.html" . }}
