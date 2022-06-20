@@ -112,3 +112,5 @@ sponsor_levels:
 sponsors:
   - id: russellvideo
     level: AV
+  - id: tonic
+    level: gold
