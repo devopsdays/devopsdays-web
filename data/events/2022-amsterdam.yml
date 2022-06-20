@@ -323,12 +323,6 @@ program:
     end_time: "14:30"
     comments: "Location: Expo"
   # 14:30 start
-  - title: "ws-joseph-katsioloudes"
-    type: workshop
-    date: 2022-06-22T00:00:00+02:00
-    start_time: "14:30"
-    end_time: "15:15"
-    comments: "Location: Grote Zaal"
   - title: "ws-christina-aldan"
     type: workshop
     date: 2022-06-22T00:00:00+02:00
@@ -360,7 +354,7 @@ program:
     start_time: "15:30"
     end_time: "17:00"
     comments: "Location: Studio"
-  - title: "ws-esther-barthel"
+  - title: "ws-joseph-katsioloudes"
     type: workshop
     date: 2022-06-22T00:00:00+02:00
     start_time: "15:30"
