@@ -4,7 +4,7 @@ Type = "event"
 Description = "Sponsor devopsdays detroit 2022"
 +++
 
-We greatly value sponsors for this open event. Our sponsorship opportunities and their perks are listed below.
+We greatly value sponsors for this open event. See our <a href="https://assets.devopsdays.org/events/2022/detroit/sponsor_packet_2022.pdf">PDF of our prospectus</a> for more sponsorship details, or see below.
 <style>
 </style>
 <hr>
@@ -21,11 +21,11 @@ People in all stages of their career will be present from university students, t
 <p>
 Being a sponsor of this conference is of mutual benefit to sponsor and attendee. Not only are attendees able to enjoy the
 variety of products and services offered by sponsors, but sponsors also get the opportunity to interact with their audience in
-a friendly environment. devopsdays Detroit regularly attracts over 300 attendees. 
+a friendly environment. devopsdays Detroit regularly attracts over 300 attendees.
 <h3>Community Sponsorships</h3>
 <p>
 We are excited to offer community sponsorships. This is not a paid sponsorship.
-Instead, this sponsorship is extended to conference, media and meetups in the Southeastern 
+Instead, this sponsorship is extended to conference, media and meetups in the Southeastern
 Michigan area who wish to exchange a spot on our banner for a spot on
 their own. Building community in the area is a worthwhile goal and we're all in
 this together! Community sponsors must be:</p>
