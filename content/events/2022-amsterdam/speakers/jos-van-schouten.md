@@ -1,7 +1,7 @@
 +++
 Title = "Jos van Schouten"
 Twitter = "josvanschouten"
-image = "jos-van-schouten.jpg"
+image = "jos-van-schouten.png"
 type = "speaker"
 linktitle = "jos-van-schouten"
 
