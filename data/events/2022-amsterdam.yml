@@ -252,6 +252,12 @@ program:
     start_time: "09:00"
     end_time: "10:30"
     comments: "Location: Grote Zaal"
+  - title: "ws-floor-drees"
+    type: workshop
+    date: 2022-06-22T00:00:00+02:00
+    start_time: "09:00"
+    end_time: "10:30"
+    comments: "Location: Expo"
   # Break
   - title: "Break"
     type: custom
