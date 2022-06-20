@@ -84,19 +84,21 @@ The best thing to do is send engineers to interact with the experts at devopsday
             <tr>
                 <td class="label">Price</td>
                 <td>6,000 USD</td>
-                <td><a href='mailto:des-moines@devopsdays.org?subject=Party Sponsorship'>Contact us</a></td>
-                <td><a href='mailto:des-moines@devopsdays.org?subject=Lanyard Sponsorship'>Contact us</a></td>
+                <td>6,000 USD</td>
+                <td>
+                  <a href='mailto:des-moines@devopsdays.org?subject=Lanyard Sponsorship'>Contact us</a>
+                </td>
             </tr>
-            <!-- <tr>
+            <tr>
                 <td class="label">Pay via Wave</td>
                 <td>
-                    <a href="https://link.waveapps.com/nxpaye-gc84pw" target=”_blank”>
-                        <img src="/events/2019-des-moines/paynow.gif"/>
-                    </a>
-                </td>
+                    <a href="https://link.waveapps.com/nbxavr-paw8rp" target=”_blank”>
+                      <img src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif"/></a></td>
+                <td>
+                    <a href="https://link.waveapps.com/dxjea3-kntd3u" target=”_blank”>
+                      <img src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif"/></a></td>
                 <td></td>
-                <td></td>
-            </tr>  -->
+            </tr> 
             <tr>
                 <td class="label">Included tickets</td>
                 <td>4</td>
