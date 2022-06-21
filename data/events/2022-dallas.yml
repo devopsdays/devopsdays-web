@@ -220,6 +220,8 @@ sponsors:
     level: gold
   - id: nobl9
     level: gold
+  - id: octopus-deploy
+    level: gold
   - id: env0
     level: silver
   - id: opscruise
