@@ -136,11 +136,15 @@ sponsors:
     level: gold
   - id: nirmata
     level: gold
+  - id: octopus-deploy
+    level: gold
   - id: site24x7
     level: silver
   - id: seattle-coffeeops
     level: community
   - id: seattle-devops-meetup
+    level: community
+  - id: seagl
     level: community
 
   #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
