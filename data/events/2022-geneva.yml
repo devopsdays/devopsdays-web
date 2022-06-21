@@ -152,6 +152,8 @@ sponsors:
     level: bronze
   - id: origoss
     level: bronze
+  - id: sonarsource
+    level: bronze
   - id: swissdevjobs
     level: community
   - id: heg-geneva
@@ -161,6 +163,8 @@ sponsors:
   - id: grusp
     level: community
   - id: powerhouse
+    level: community
+  - id: software-crafts-romandie
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -251,7 +255,7 @@ program:
     end_time: "13:00"
 
     # Day 1: workshop 2
-  - title: "dr-joe-perez"
+  - title: "sven-szejwach"
     type: workshop
     date: "2022-05-12"
     start_time: "11:20"
@@ -381,7 +385,7 @@ program:
     end_time: "12:05"
 
   #   Day 2: talk 4
-  - title: john-williams
+  - title: dr-joe-perez
     type: talk
     date: "2022-05-13"
     start_time: "12:10"

@@ -82,7 +82,7 @@ organizer_email: "philadelphia@devopsdays.org" # Put your organizer email addres
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: gitlab
+  - id: gitlab-before-20220516
     level: silver
   - id: appdynamics
     level: silver

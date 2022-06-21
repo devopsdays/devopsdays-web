@@ -171,7 +171,7 @@ organizer_email: "organizers-kansas-city-2019@devopsdays.org" # Put your organiz
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: gitlab
+  - id: gitlab-before-20220516
     level: premium
   - id: dynatrace
     level: premium
@@ -217,13 +217,13 @@ sponsors:
     level: supporting
   - id: appdynamics
     level: premium
-  - id: googlecloud
+  - id: googlecloud-before-20220526
     level: premium
   - id: signalfx
     level: premium
   - id: stackrox
     level: premium
-  - id: googlecloud
+  - id: googlecloud-before-20220526
     level: coffee
   - id: equipmentshare
     level: lunch

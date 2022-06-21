@@ -169,7 +169,7 @@ sponsors:
     level: silver
   - id: keyva
     level: silver
-  - id: gitlab
+  - id: gitlab-before-20220516
     level: gold
   - id: mesosphere
     level: gold
@@ -185,9 +185,9 @@ sponsors:
     level: silver
   - id: codefresh
     level: gold
-  - id: googlecloud
+  - id: googlecloud-before-20220526
     level: gold
-  - id: googlecloud
+  - id: googlecloud-before-20220526
     level: alacarte
   - id: cargill
     level: alacarte

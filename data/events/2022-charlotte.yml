@@ -14,17 +14,17 @@ startdate: 2022-09-08T00:00:00-05:00
 enddate: 2022-09-09T00:00:00-05:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2022-06-02T00:00:00-05:00 # start accepting talk proposals.
+cfp_date_end: 2022-07-08T00:00:00-05:00 # close your call for proposals.
+cfp_date_announce: 2022-07-18T00:00:00-05:00 # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://www.papercall.io/dod-clt-2022" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: 2022-06-02T00:00:00-05:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2022-09-07T00:00:00-05:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.eventbrite.com/e/devopsdays-charlotte-2022-tickets-346283171287" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -34,9 +34,9 @@ location: "Charlotte - Red Ventures Auditorium"
 location_address: "1101 Red Ventures Drive, Indian Land, SC 29707"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
- # - name: location
- # - name: registration
+  - name: propose
+  - name: location
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -52,12 +52,14 @@ team_members: # Name is the only required field for team members.
   - name: "Alfonso Cabrera"
     twitter: alfonso__c
   - name: "Jacob Maggio"
-  - name: "Ryan Kirk"
-  - name: "Phillip Shipley"
-  - name: "Meka Wakahulu"
-  - name: "James Strong"
-  - name: Brock Woodring
+  - name: "Meka Hayes"
+  - name: "Brock Woodring"
   - name: "Quitra Radney"
+  - name: "Yates Spearman"
+    linkedin: "https://www.linkedin.com/in/yates-spearman-822828168"
+    github: "YatesSpearman"
+  - name: "Mike Saraf"
+  - name: "Kristen Maggio"
 
 organizer_email: "charlotte@devopsdays.org" # Put your organizer email address here
 
@@ -66,6 +68,14 @@ organizer_email: "charlotte@devopsdays.org" # Put your organizer email address h
 sponsors:
   - id: red-ventures 
     level: gold
+  - id: spectrocloud 
+    level: gold
+  - id: 42crunch
+    level: gold
+  - id: tonic
+    level: gold
+  - id: phoenixnap
+    level: silver
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community

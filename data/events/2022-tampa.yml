@@ -86,12 +86,16 @@ organizer_email: "tampa@devopsdays.org" # Put your organizer email address here
 sponsors:
   - id: nobl9
     level: platinum
-  - id: moogsoft
-    level: platinum
   - id: dynatrace
     level: platinum
   - id: clumio
     level: platinum
+  - id: env0
+    level: platinum
+  - id: spectrocloud
+    level: diamond
+  - id: 42crunch
+    level: diamond
   - id: devopstampabay
     level: community
     
@@ -111,7 +115,7 @@ sponsor_levels:
     max: 2
   - id: platinum
     label: Platinum
-    max: 4 # This is the same as omitting the max limit.
+    max: 6 # This is the same as omitting the max limit.
   - id: gold
     label: Gold
   - id: community

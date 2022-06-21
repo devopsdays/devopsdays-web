@@ -40,9 +40,9 @@ location_address: #Optional - use the street address of your venue. This will sh
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
   #  - name: location
-  #  - name: registration
+  - name: registration
   #  - name: program
-  #  - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -141,8 +141,8 @@ sponsors:
 # - id: edp
 #   level: gold
 # - id: outsystems
-# - id: devscope
-#   level: silver
+- id: eurotux
+  level: silver
 # - id: gfi
 #   level: bronze
 # - id: agileportugal

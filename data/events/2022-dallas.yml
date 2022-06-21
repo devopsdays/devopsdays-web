@@ -182,6 +182,8 @@ sponsors:
 #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 #  - id: solarwinds
 #    level: platinum
+  - id: capitalone
+    level: platinum
   - id: appdynamics
     level: gold
   - id: xmatters
@@ -196,6 +198,38 @@ sponsors:
     level: gold
   - id: roostai
     level: gold
+  - id: spectrocloud
+    level: gold
+  - id: cprime
+    level: gold
+  - id: spacelift
+    level: gold
+  - id: 42crunch
+    level: gold
+  - id: azul
+    level: gold
+  - id: nirmata
+    level: gold
+  - id: redhat
+    level: gold
+  - id: bitdefender
+    level: gold
+  - id: trendmicro
+    level: gold
+  - id: circleci
+    level: gold
+  - id: nobl9
+    level: gold
+  - id: env0
+    level: silver
+  - id: opscruise
+    level: silver   
+  - id: clumio
+    level: silver 
+  - id: phoenixnap
+    level: silver 
+  - id: cloudbees
+    level: silver
   - id: arresteddevops
     level: media
   - id: devopslive

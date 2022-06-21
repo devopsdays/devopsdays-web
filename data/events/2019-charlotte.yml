@@ -75,7 +75,7 @@ proposal_email: "proposals-charlotte-2019@devopsdays.org" # Put your proposal em
 sponsors:
   - id: rundeck-before-20220308
     level: gold
-  - id: gitlab
+  - id: gitlab-before-20220516
     level: silver
   - id: red-ventures
     level: gold

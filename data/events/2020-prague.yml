@@ -86,7 +86,7 @@ sponsors:
   - id: epam
     level: titanium
     url: "https://en.careers.epam-czech.cz/"
-  - id: gitlab
+  - id: gitlab-before-20220516
     level: silver
     url: "https://about.gitlab.com/"
   - id: kb
@@ -101,7 +101,7 @@ sponsors:
   - id: flowtraders
     level: silver
     url: "https://www.flowtraders.com/"
-  - id: googlecloud
+  - id: googlecloud-before-20220526
     level: silver
     url: "https://cloud.google.com/gcp/"
   - id: showmax

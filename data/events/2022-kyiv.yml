@@ -2,7 +2,7 @@ name: "2022-kyiv" # The name of the event. Four digit year with the city name in
 year: "2022" # The year of the event. Make sure it is in quotes.
 city: "Ukraine" # The displayed city name of the event. Capitalize it.
 event_group: "Kyiv"
-event_twitter: "days_dev" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+event_twitter: "devopsdays_kyiv" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "DevOps life in crisis mode" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
@@ -36,8 +36,7 @@ location: "Ukraine" # Defaults to city, but you can make it the venue name.
 location_address:
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
-    url: https://forms.gle/h9wxjHaRk1EQ6Kyw9
+ # - name: propose
  # - name: location
   - name: registration
  # - name: program
@@ -110,7 +109,77 @@ organizer_email: "kyiv@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: devopsdaysaustin
+    level: community
   - id: devopsdayschi
+    level: community
+  - id: vmware-tanzu
+    level: platinum
+  - id: icinga
+    level: silver
+  - id: buildkite
+    level: community
+  - id: teamtopologiesacademy
+    level: platinum
+  - id: kubecon-2022
+    level: platinum
+  - id: cncf
+    level: platinum
+  - id: devinsider
+    level: media
+  - id: itrevolution
+    level: media
+  - id: devopsinstitute
+    level: media
+  - id: dna325
+    level: media
+  - id: happymonday
+    level: media
+  - id: zone3000
+    level: media
+  - id: sysopspolska
+    level: media
+  - id: azure_digest
+    level: media
+  - id: devopsdaysboise
+    level: community
+  - id: devopsdaysportland-or
+    level: community
+  - id: pulumi
+    level: platinum
+  - id: swiss-re
+    level: platinum
+  - id: twilio
+    level: gold
+  - id: github
+    level: gold
+  - id: gitlab
+    level: silver
+  - id: innoq
+    level: silver
+  - id: env0
+    level: silver
+  - id: merkely
+    level: community
+  - id: fusion-auth
+    level: community
+  - id: rootly
+    level: community
+  - id: fwdays
+    level: media
+  - id: devopsdotcom
+    level: media
+  - id: aws
+    level: platinum
+  - id: redhat
+    level: platinum
+  - id: betajob
+    level: community
+  - id: women-in-technology-poland
+    level: media
+  - id: itukraine
+    level: media
+  - id: devopsdaysbirmingham-al
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -128,3 +197,5 @@ sponsor_levels:
     label: Silver
   - id: community
     label: Supporter
+  - id: media
+    label: Media
