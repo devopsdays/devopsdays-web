@@ -90,6 +90,8 @@ sponsors:
   - id: humio
     level: gold
   # silver sponsors
+  - id: harness
+    level: silver
   # bronze sponsors
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
