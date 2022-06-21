@@ -125,8 +125,8 @@ sponsors:
     level: gold
   # - id: AppDirect
   #   level: cocktail
-  # - id: Gologic
-  #   level: bronze
+  - id: gologic
+    level: bronze
   - id: arresteddevops
     level: community
   - id: "agile montreal"
