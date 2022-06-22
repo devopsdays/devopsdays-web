@@ -123,13 +123,13 @@ sponsors:
     level: gold
   - id: suse
     level: gold
-  # - id: AppDirect
-  #   level: cocktail
+  - id: appdirect
+    level: cocktail
   - id: gologic
     level: bronze
   - id: arresteddevops
     level: community
-  - id: "agile montreal"
+  - id: "agile-montreal"
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
