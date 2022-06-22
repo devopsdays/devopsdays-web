@@ -144,6 +144,8 @@ sponsors:
     level: gold
   - id: stormforge
     level: bronze
+  - id: macstadium
+    level: bronze
   - id: scale
     level: community
     url: https://www.socallinuxexpo.org/scale/19x
