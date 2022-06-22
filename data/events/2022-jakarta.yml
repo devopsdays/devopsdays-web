@@ -2,6 +2,8 @@ name: "2022-jakarta" # The name of the event. Four digit year with the city name
 year: "2022" # The year of the event. Make sure it is in quotes.
 city: "Jakarta" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdays" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+event_logo: "logo-square.jpg"
+masthead_background: "jakarta-banner.jpg"
 description: "Lets rock with DevOpsDays Jakarta!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
@@ -13,14 +15,6 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 startdate: 2022-08-09T00:00:00+07:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
 enddate: 2022-08-10T00:00:00+07:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
-# Leave CFP dates blank if you don't know yet, or set all three at once.
-# cfp_date_start: 2019-01-22T00:00:00+07:00 # start accepting talk proposals.
-# cfp_date_end: 2019-02-15T23:59:59+07:00 # close your call for proposals.
-# cfp_date_announce: 2019-02-20T00:00:00+07:00 # inform proposers of status
-
-# cfp_link: "https://bit.ly/DevOps_CallForProposal" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
-
-
 registration_date_start: 2022-06-01T00:00:00+07:00
 registration_date_end: 2022-08-08T00:00:00+07:00 # close registration. Leave blank if registration is not open yet.
 
@@ -30,21 +24,22 @@ registration_link: "https://www.townscript.com/e/devopsdays-jakarta-2022-confere
 # Location
 #
 coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Online event" # Defaults to city, but you can make it the venue name.
+location: "Online with virtual offline speakers" # Defaults to city, but you can make it the venue name.
 #
-location_address: "Online conference platform" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+#location_address: "Online conference platform" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
-  - name: location
- # - name: registration
+ # - name: location
+  - name: registration
  # - name: program
   - name: speakers
   - name: sponsor
+    url: "mailto:devopsdaysjkt@gmail.com"
   - name: contact
   - name: conduct
   - name: DevOpsDaysJkt.org
-    url: https://www.devopsdaysjkt.org/
+    url: "https://www.devopsdaysjkt.org/"
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -54,39 +49,43 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 team_members: # Name is the only required field for team members.
   - name: "Mia Fauziah"
     linkedin: "https://www.linkedin.com/in/mia-fauziah-856750170/"
-    image: "mia_fauziah.jpg" 
+    image: "mia_fauziah.webp" 
   - name: "Prasetyani Dwijayati"
     linkedin: "https://id.linkedin.com/in/prasetyani-dwijayati-10a5ab5a"
-    image: "prasetyani_dwijayati.jpg"
-  - name: "Ley Suprapto"
+    image: "prasetyani_dwijayati.webp"
+  - name: "Levina Suprapto"
     linkedin: "https://www.linkedin.com/in/ley-suprapto/"
-    image: "ley_suprapto.jpg"
+    image: "levina_suprapto.webp"
   - name: "Zen Aufa Bahalwan"
     linkedin: "https://www.linkedin.com/in/zenaufa/"
-    image: "zen_aufa_bahalwan.jpg"
+    image: "zen_aufa_bahalwan.webp"
   - name: "Christinna"
     linkedin: "https://www.linkedin.com/in/sillvya-cristinna/"
-    image: "christinna.jpg"
+    image: "christinna.webp"
   - name: "Jennifer Dignity"
     linkedin: "https://www.linkedin.com/in/jeniffer-dignity/"
     image: "jennifer_dignity.webp"    
   - name: "Hananto Wibowo"
     role: "Advisor"
     linkedin: "https://www.linkedin.com/in/hananto-wibowo-soenarto-10a38845"
-    image: "hananto_wibowo.jpg"
+    image: "hananto_wibowo.webp"
   - name: "Fransiscus Kaurrany"
     role: "Advisor"
     linkedin: "https://id.linkedin.com/in/fransiscus-kaurrany-57b25a24"
-    image: "fransiscus_kaurrany.jpg"
+    image: "fransiscus_kaurrany.png"
   - name: "Iwan Teguh Santoso"
     role: "Advisor"
     linkedin: "https://id.linkedin.com/in/iwan-teguh-santoso-31a88a54"
-    image: "iwan_teguh_santoso.jpg"
+    image: "iwan_teguh_santoso.png"
+  - name: "Hendi Santika"
+    role: "Advisor"
+    linkedin: "https://www.linkedin.com/in/hendisantika/"
+    image: "hendi_santika.png"
   - name: "Made Mulia Indrajaya"
     role: "Advisor"
     linkedin: "https://www.linkedin.com/in/mademulia/"
-    image: "made_mulia.jpg"
-organizer_email: "jakarta@devopsdays.org" # Put your organizer email address here
+    image: "made_mulia.webp"
+organizer_email: "devopsdaysjkt@gmail.com" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
@@ -97,7 +96,7 @@ sponsors:
     level: platinum
   - id:  f5
     level: platinum
-  - id:  grafana
+  - id:  grafanalabs
     level: platinum
   - id:  jagoanhosting
     level: platinum
@@ -107,6 +106,34 @@ sponsors:
     level: gold
   - id: devops-institute
     level: community
+  - id: itilindonesia
+    level: community
+  - id: asosiasiagileindonesia
+    level: community
+  - id: girlskode
+    level: community
+  - id: androiddevelopernasional
+    level: community
+  - id: golangid
+    level: community
+  - id: dailysocialid
+    level: media
+  - id: mavemagz
+    level: media
+  - id: mysqlindonesia
+    level: community
+  - id: tamankodekode
+    level: community
+  - id: petanikode
+    level: community
+  - id: cakruk
+    level: community
+  - id: androidbandung
+    level: community
+  - id: orangsiber
+    level: community
+  - id: kotlinuserindonesia
+    level: community
   - id: devsecopsindonesia
     level: community
   - id: jvm
@@ -114,9 +141,9 @@ sponsors:
   - id: isqa
     level: community
   - id: infokomputer
-    level: community
+    level: media
   - id: filemagz
-    level: community
+    level: media
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -125,7 +152,7 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
   - id: track
-    label: Track
+    label: Ultimate
     max: 1
   - id: platinum
     label: Platinum
@@ -135,3 +162,5 @@ sponsor_levels:
     max: 6
   - id: community
     label: Community
+  - id: media
+    label: Media
