@@ -117,8 +117,8 @@ sponsors:
   # - id: samplesponsorname
   #   level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  # - id: Articq
-  #   level: platinum
+  - id: artiq
+    level: platinum
   - id: dynatrace
     level: gold
   - id: suse
