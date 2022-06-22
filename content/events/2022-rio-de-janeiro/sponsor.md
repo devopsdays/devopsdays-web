@@ -120,6 +120,7 @@ Visando valorizar a participação de instituições na realização do evento, 
 <div>
   <p><strong>COMUNIDADE:</strong> Apoiadores que contribuiram com algum beneficio para o público ou quantia de
   até R$ 1.000,00 terão direito à divulgação nas redes sociais e 1 inscrição para o evento.</p>
+    <p style="font-size:18px">Veja mais e nosso mídia kit no documento completo clicando <a href="https://docs.google.com/presentation/d/1IeQko7hihgAiZgezPlW3CkakyV_Vu1OxePiyNDkipBQ/edit?usp=sharing"><i class="fa fa-download" style="font-size:30px"></i></a></p>
 </div>
 
 <!--EN-->
@@ -236,4 +237,5 @@ Aiming to enhance the participation of institutions in the event, we organized p
 <div>
 <p><strong>COMMUNITY:</strong> Supporters who have contributed some benefit to the public or amount of
 up to US$ 200,00 receive the right to be publicized on social media and 1 registration for the event.</p>
+    <p style="font-size:18px">You can check more about sponsorship and the benefits here (in portuguese) <a href="https://docs.google.com/presentation/d/1IeQko7hihgAiZgezPlW3CkakyV_Vu1OxePiyNDkipBQ/edit?usp=sharing"><i class="fa fa-download" style="font-size:30px"></i></a></p>
 </div>
