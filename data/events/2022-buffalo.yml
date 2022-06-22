@@ -93,8 +93,8 @@ sponsors:
   #   level: bronze
   # - id: torchio
   #   level: silver
-  # - id: circleci
-  #   level: silver
+  - id: circleci
+    level: silver
   # - id: skycrafters
   #   level: silver
   # - id: acv_auctions
@@ -109,8 +109,8 @@ sponsors:
   #   level: gold
   # - id: aviatrix
   #   level: gold
-  # - id: mandtbank
-  #   level: captioning
+  - id: mandtbank
+    level: gold
   # - id: observiq
   #   level: snack
 

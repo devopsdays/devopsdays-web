@@ -187,6 +187,12 @@
         <a href = "https://pronoun.is/{{ .Params.pronouns }}"><i class="fa fa-user fa-2x" aria-hidden="true"></i>&nbsp;</a>
       {{- end -}}
     {{- end -}}
+    {{- if isset .Params "twitch" -}}
+      {{- if ne .Params.twitch "" -}}
+        <a href = "https://twitch.tv/{{ .Params.twitch }}"><i class="fa fa-twitch fa-2x" aria-hidden="true"></i>&nbsp;</a>
+      {{- end -}}
+    {{- end -}}
+
     <br />
           <span class="talk-page content-text">
           {{- if ge (countrunes .Content ) 200 -}}
