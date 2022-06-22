@@ -359,7 +359,7 @@ program:
     date: 2022-06-22T00:00:00+02:00
     start_time: "15:30"
     end_time: "17:00"
-    comments: "Location: IJzaal"
+    comments: "Location: Grote Zaal"
   - title: "ws-niek-van-raaij"
     type: workshop
     date: 2022-06-22T00:00:00+02:00
