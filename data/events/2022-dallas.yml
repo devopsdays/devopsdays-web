@@ -238,16 +238,16 @@ sponsors:
     level: community
   - id: addo
     level: community
-  - id: ansible-dallas
-    level: community
-  - id: ansible-fw
-    level: community
-  - id: devops-dfw
-    level: community
-  - id: dfwpug
-    level: community
-  - id: awsdeepdives
-    level: community
+#  - id: ansible-dallas
+#    level: community
+#  - id: ansible-fw
+#    level: community
+#  - id: devops-dfw
+#    level: community
+#  - id: dfwpug
+#    level: community
+#  - id: awsdeepdives
+#    level: community
   - id: dfwvmug
     level: community
   - id: dfwhug
