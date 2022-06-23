@@ -90,6 +90,17 @@ Description = "devopsdays Amsterdam will take place June 22-24, 2022! The group 
   </div>
 </div>
 
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Livestream</strong>
+  </div>
+  <div class = "col-md-8">
+    <a href="https://youtube.com/c/DevOpsDaysAmsterdam">Join the livestream!</a>
+  </div>
+</div>
+
+
+
 <div class="container">
   <div class="row">
     <div class="col-md-12">
