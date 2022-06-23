@@ -95,7 +95,7 @@ Description = "devopsdays Amsterdam will take place June 22-24, 2022! The group 
     <strong>Livestream</strong>
   </div>
   <div class = "col-md-8">
-    <a href="https://youtube.com/c/DevOpsDaysAmsterdam">Join the livestream!</a>
+    <a href="https://youtube.com/c/devopsAmsterdam">Join the livestream!</a>
   </div>
 </div>
 
