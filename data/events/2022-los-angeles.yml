@@ -39,10 +39,12 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     url: https://www.socallinuxexpo.org/scale/19x/venue
   - name: registration
     url: https://register.socallinuxexpo.org/reg6/
-  - name: CFP
-    url: https://docs.google.com/forms/d/e/1FAIpQLSewxucXuZ5nmZYX-nBitrmnr1ZA-O7oc33kheNvoRw1ufEbgg/viewform
-  - name: sponsor
+  # - name: CFP
+  #   url: https://docs.google.com/forms/d/e/1FAIpQLSewxucXuZ5nmZYX-nBitrmnr1ZA-O7oc33kheNvoRw1ufEbgg/viewform
+  - name: program
+  - name: speakers
   - name: volunteer
+  - name: sponsor
   - name: contact
   - name: conduct
   - name: about
@@ -167,3 +169,60 @@ sponsor_levels:
     label: Startup
   - id: community
     label: Community
+
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2022-07-29T00:00:00-08:00
+    start_time: "09:00"
+    end_time: "10:00"
+  - title: "matty-stratton"
+    type: talk
+    date: 2022-07-29T00:00:00-08:00
+    start_time: "10:00"
+    end_time: "10:45"
+  - title: "tony-loehr"
+    type: talk
+    date: 2022-07-29T00:00:00-08:00
+    start_time: "11:00"
+    end_time: "11:45"
+  - title: "Lunch"
+    type: custom
+    date: 2022-07-29T00:00:00-08:00
+    start_time: "12:00"
+    end_time: "13:30"
+  - title: "jeremy-meiss"
+    type: talk
+    date: 2022-07-29T00:00:00-08:00
+    start_time: "13:30"
+    end_time: "13:50"
+  - title: "dan-lines"
+    type: talk
+    date: 2022-07-29T00:00:00-08:00
+    start_time: "13:50"
+    end_time: "14:10"
+  - title: "ryder-damen"
+    type: talk
+    date: 2022-07-29T23:59:59-08:00
+    start_time: "14:10"
+    end_time: "14:30"
+  - title: "hannah-henderson"
+    type: talk
+    date: 2022-07-29T23:59:59-08:00
+    start_time: "14:45"
+    end_time: "15:30"
+  - title: "steve-pereira"
+    type: talk
+    date: 2022-07-29T23:59:59-08:00
+    start_time: "15:45"
+    end_time: "16:30"
+  - title: "brian-scott"
+    type: talk
+    date: 2022-07-29T23:59:59-08:00
+    start_time: "16:45"
+    end_time: "17:30"
+  - title: "Planning Retrospective"
+    type: custom
+    date: 2022-07-29T23:59:59-08:00
+    start_time: "17:30"
+    end_time: "17:45"
