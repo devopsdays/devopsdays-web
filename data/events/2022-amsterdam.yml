@@ -537,7 +537,7 @@ program:
     start_time: "09:15"
     end_time: "09:45"
     background_color: "#FF8633"
-  - title: "farah-chabchoub"
+  - title: "stacy-cashmore"
     type: talk
     date: 2022-06-24T00:00:00+02:00
     start_time: "09:45"
@@ -619,7 +619,7 @@ program:
     date: 2022-06-24T00:00:00+02:00
     start_time: "14:45"
     end_time: "15:10"
-  - title: "stacy-cashmore"
+  - title: "farah-chabchoub"
     type: talk
     date: 2022-06-24T00:00:00+02:00
     start_time: "15:15"
@@ -649,8 +649,13 @@ program:
     date: 2022-06-24T00:00:00+02:00
     start_time: "16:15"
     end_time: "16:40"
+  - title: "stacy-cashmore"
+    type: talk
+    date: 2022-06-24T00:00:00+02:00
+    start_time: "16:45"
+    end_time: "17:20"
   - title: "Conference close"
     type: custom
     date: 2022-06-24T00:00:00+02:00
-    start_time: "16:45"
-    end_time: "17:15"
+    start_time: "17:20"
+    end_time: "17:30"
