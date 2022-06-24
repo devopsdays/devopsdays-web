@@ -8,5 +8,7 @@ linkedin = "https://www.linkedin.com/in/thomasjsweet/"
 
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Thomas Sweet started this career in IT in the late 1990’s, having transitioned from civil engineering. His first role was at NEC Computer Systems Division testing laptops. He has worked in a range of companies,  from five person startups to companies as large as Microsoft, where he contributed to the Office and SQL divisions. Most recently Thomas spent six years at GM Financial with this last role that of VP of Cloud Services.  Thomas is currently the CIO of Industrial Refrigeration Pros, a private equity-backed venture where he works in mergers and acquisitions, along with integration of partner companies’ IT systems.
+
+Thomas is a big proponent of Agile, DevOps, and Cloud, but he gets far more satisfaction from investing in his team, developing their talents and growing them into leaders. When not working, Thomas enjoys gardening and exercise.
 
