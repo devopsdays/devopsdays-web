@@ -390,6 +390,11 @@ program:
     date: 2022-07-20
     start_time: "16:50"
     end_time: "17:05"
+  - title: "Closing Happy Hour"
+    type: custom
+    date: 2022-07-20
+    start_time: "17:05"
+    end_time: "19:30"
 
 ignites:
   - title: maarika-krumhansl

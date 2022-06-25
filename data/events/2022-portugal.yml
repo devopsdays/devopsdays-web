@@ -142,6 +142,12 @@ sponsors:
     level: gold
   - id: eurotux
     level: silver
+# - id: edp
+#   level: gold
+  - id: xgeeks
+    level: gold
+  - id: eurotux
+    level: silver
 # - id: gfi
 #   level: bronze
 # - id: agileportugal

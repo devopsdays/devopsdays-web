@@ -20,7 +20,7 @@ Description = "DevOpsDays Los Angeles 2022"
   </div>
 </div>
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Call For Papers</strong>
   </div>
@@ -28,6 +28,24 @@ Description = "DevOpsDays Los Angeles 2022"
     <a href="https://docs.google.com/forms/d/e/1FAIpQLSewxucXuZ5nmZYX-nBitrmnr1ZA-O7oc33kheNvoRw1ufEbgg/viewform">
       Propose a talk!
     </a>
+  </div>
+</div> -->
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Program</strong>
+  </div>
+  <div class = "col-md-8">
+    View the {{< event_link page="program" text="program." >}}
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Speakers</strong>
+  </div>
+  <div class = "col-md-8">
+    Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
 </div>
 
