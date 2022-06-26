@@ -136,12 +136,12 @@ team_members: # Name is the only required field for team members.
     website: "https://MikeRosTX.me"
 
   - name: "Roger Servey"
-    employer: "Verizon"
+    employer: "Charter Communications"
     bio: "Roger is a 20+ year International  IT Leader experienced with Software delivery for systems delivering multi billion dollar impacts to their Enterprises.  Roger currently leads Verizon's Engineering Practice Transformation Centers - DOJOs - Across the United States, where teams enter to learn new Agile Practices, DevOps Automantions and Cloud Technologies which speed time to value realization, drive efficiency and improve quality.<br><br>Focus Areas for Roger include: DevOps, Agile Development, Continuous Delivery, Lean Development, Software architecture and design, Pricing theory, Product Lifecycle Management, Onshore, Near Shore and Offshore project development (US, LATAM, EMEA, APAC) and Pricing Analytics.<br><br>Roger holds his Bachelors Degree from Southern Methodist University and is a continuous learner.  A Practitioner of constraint management and evangelist for DevOps measurement, speaking at OS Con 2018 and GLUCON 2018 on <strong><i>DevOps Measurement and Enter-Sourcing with Hygieia. That which is measured, improves!</i></strong>. "
     image: "roger.jpg"
 
   - name: "Russell W. Black"
-    employer:  "Charter Communications"
+    employer: "Elevate"
     bio: "Russell currently serves as Manager of DevOps Engineering where his team encourages Dev Team autonomy for code and infrastructure pipelines. He has over 30 years of IT experience in a variety of technologies and industries. Starting as a Web Application Developer, then moving into IT Leadership Russell was introduced to DevOps in 2015 while managing platform and systems that supported the Verizon Global Website (www.verizon.com). He quickly adopted an agile / cloud-first methodology to improve feature speed and quality to the business.<br><br>Since 2008 Russell has led inclusive and empowered multi-cultural teams responsible for software development and delivery, production support, Operations, and DevOps."
     linkedin: "https://www.linkedin.com/in/russellblack/"
     image: "russell.jpg"
