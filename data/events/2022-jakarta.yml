@@ -35,7 +35,6 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: program
   - name: speakers
   - name: sponsor
-    url: "mailto:devopsdaysjkt@gmail.com"
   - name: contact
   - name: conduct
   - name: DevOpsDaysJkt.org
