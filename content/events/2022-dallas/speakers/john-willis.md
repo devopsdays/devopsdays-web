@@ -1,5 +1,5 @@
 +++
-Title = "KEYNOTE: John Willis"
+Title = "John Willis"
 Twitter = "botchagalupe"
 image = "john-willis.jpg"
 type = "speaker"
