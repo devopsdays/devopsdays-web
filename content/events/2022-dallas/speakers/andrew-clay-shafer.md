@@ -1,5 +1,5 @@
 +++
-Title = "KEYNOTE: Andrew Clay Shafer"
+Title = "Andrew Clay Shafer"
 Twitter = "littleidea"
 image = "andrew-clay-shafer.jpg"
 type = "speaker"
