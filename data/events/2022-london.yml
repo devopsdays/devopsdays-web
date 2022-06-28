@@ -82,10 +82,10 @@ organizer_email: "london@devopsdays.org" # Put your organizer email address here
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
   # platinum sponsors
-  - id: cortex
-    level: platinum
   # gold sponsors
   - id: chef
+    level: gold
+  - id : github
     level: gold
   - id: humio
     level: gold
@@ -93,6 +93,12 @@ sponsors:
   - id: harness
     level: silver
   # bronze sponsors
+  - id: conflux
+    level: bronze
+  - id: pulumi
+    level: bronze
+  - id: syntasso
+    level: bronze
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
