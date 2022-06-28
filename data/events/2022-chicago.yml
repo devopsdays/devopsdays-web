@@ -251,3 +251,240 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2022-09-21
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2022-09-21
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "ricardo-green"
+    type: talk
+    date: 2022-09-21
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2022-09-21
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "lesley-cordero"
+    type: talk
+    date: 2022-09-21
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2022-09-21
+    start_time: "10:25"
+    end_time: "10:40"
+  - title: "joshua-zimmerman"
+    type: talk
+    date: 2022-09-21
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2022-09-21
+    start_time: "11:10"
+    end_time: "11:20"
+  - title: "aakash-shah"
+    type: talk
+    date: 2022-09-21
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Sponsors"
+    type: custom
+    date: 2022-09-21
+    start_time: "11:50"
+    end_time: "12:00"
+  - title: "Lunch"
+    type: custom
+    date: 2022-09-21
+    start_time: "12:00"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2022-09-21
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Sponsors"
+    type: custom
+    date: 2022-09-21
+    start_time: "13:30"
+    end_time: "13:40"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2022-09-21
+    start_time: "13:40"
+    end_time: "14:15"
+  - title: "Open Space #1"
+    type: custom
+    date: 2022-09-21
+    start_time: "14:15"
+    end_time: "15:00"
+  - title: "Break"
+    type: custom
+    date: 2022-09-21
+    start_time: "15:00"
+    end_time: "15:15"
+  - title: "Open Space #2"
+    type: custom
+    date: 2022-09-21
+    start_time: "15:15"
+    end_time: "16:00"
+  - title: "dwayne-mcdaniel"
+    type: workshop
+    date: 2022-09-21
+    start_time: "15:15"
+    end_time: "16:00"
+  - title: "Open Space #3"
+    type: custom
+    date: 2022-09-21
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "eric-smalling"
+    type: workshop
+    date: 2022-09-21
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Close Day"
+    type: custom
+    date: 2022-09-21
+    start_time: "16:45"
+    end_time: "17:00"
+  - title: "Evening event"
+    type: custom
+    date: 2022-09-21
+    start_time: "19:00"
+    end_time: "late"
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2022-09-22
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2022-09-22
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "quintessence-anx"
+    type: talk
+    date: 2022-09-22
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2022-09-22
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "daniel-kim"
+    type: talk
+    date: 2022-09-22
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2022-09-22
+    start_time: "10:25"
+    end_time: "10:40"
+  - title: "vanessa-huerta-granda"
+    type: talk
+    date: 2022-09-22
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2022-09-22
+    start_time: "11:10"
+    end_time: "11:20"
+  - title: "dave-stanke"
+    type: talk
+    date: 2022-09-22
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Sponsors"
+    type: custom
+    date: 2022-09-22
+    start_time: "11:50"
+    end_time: "12:00"
+  - title: "Lunch"
+    type: custom
+    date: 2022-09-22
+    start_time: "12:00"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2022-09-22
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Sponsor Giveaways"
+    type: custom
+    date: 2022-09-22
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2022-09-22
+    start_time: "14:00"
+    end_time: "14:15"
+  - title: "Open Space #1"
+    type: custom
+    date: 2022-09-22
+    start_time: "14:15"
+    end_time: "15:00"
+  - title: "Break"
+    type: custom
+    date: 2022-09-22
+    start_time: "15:00"
+    end_time: "15:15"
+  - title: "Open Space #2"
+    type: custom
+    date: 2022-09-22
+    start_time: "15:15"
+    end_time: "16:00"
+  - title: "crux-conception"
+    type: workshop
+    date: 2022-09-22
+    start_time: "15:15"
+    end_time: "16:00"
+  - title: "Open Space #3"
+    type: custom
+    date: 2022-09-22
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "dexter-horthy"
+    type: workshop
+    date: 2022-09-22
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Closing"
+    type: custom
+    date: 2022-09-22
+    start_time: "16:45"
+    end_time: "17:00"
+ignites:
+  - title: "angela-trego"
+    date: 2022-09-21
+  - title: "jason-yee"
+    date: 2022-09-21
+  - title: "stephen-weinberg"
+    date: 2022-09-21
+  - title: "hannah-sutor"
+    date: 2022-09-21
+  - title: "pj-metz"
+    date: 2022-09-21
+  - title: "jacquie-grindrod"
+    date: 2022-09-22
+  - title: "ashina-sipiora"
+    date: 2022-09-22
+  - title: "abby-allen"
+    date: 2022-09-22
+  - title: "brendan-oleary"
+    date: 2022-09-22
+  - title: "richard-lewis"
+    date: 2022-09-22
