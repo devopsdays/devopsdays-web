@@ -74,6 +74,8 @@ sponsors:
     level: gold
   - id: tonic
     level: gold
+  - id: octopus-deploy
+    level: gold
   - id: phoenixnap
     level: silver
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
