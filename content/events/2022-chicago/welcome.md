@@ -94,7 +94,7 @@ The organizers of DevOpsDays Chicago believe that the community is stronger when
         </div>
       </div>
     </div>
-            <!-- <div class = "row">
+    <div class = "row">
       <div class = "col-md-12">
         <div class = "row justify-content-center">
           <div class = "d-flex p-2">
@@ -104,7 +104,7 @@ The organizers of DevOpsDays Chicago believe that the community is stronger when
           </div>
         </div>
       </div>
-    </div> end a content element -->
+    </div>
 <h2>The DevOps Yak is Back!</h2>
 <img src = "/events/2022-chicago/yak.png" class = "img-fluid">
 
