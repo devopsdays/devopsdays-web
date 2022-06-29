@@ -168,7 +168,7 @@ sponsors:
     level: gold
   - id: accurics
     level: gold
-  - id: influxdata
+  - id: influxdata-before-20220629
     level: gold
   - id: datadog
     level: silver
