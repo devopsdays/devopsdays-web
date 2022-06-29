@@ -1,7 +1,7 @@
 +++
 Title = "Domenico Musto"
 Twitter = "mimmozzo"
-image = ""
+image = "domenico-musto.png"
 type = "speaker"
 linktitle = "domenico-musto"
 

@@ -1,7 +1,7 @@
 +++
 Title = "Billie Thompson"
 Twitter = "PurpleBooth"
-image = ""
+image = "billie-thompson.png"
 type = "speaker"
 linktitle = "billie-thompson"
 

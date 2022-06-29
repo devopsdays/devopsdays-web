@@ -1,7 +1,7 @@
 +++
 Title = "Oliver Leaver-Smith"
 Twitter = "heyitsols"
-image = ""
+image = "oliver-leaver-smith.png"
 type = "speaker"
 linktitle = "oliver-leaver-smith"
 
