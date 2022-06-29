@@ -159,6 +159,8 @@ sponsors:
     level: community
   - id: thatconference
     level: community
+  - id: weallcode
+    level: community
     
   # Gold Sponsors
   - id: teleport
@@ -199,6 +201,8 @@ sponsors:
     level: gold
   - id: gitlab
     level: gold
+  - id: nirmata
+    level: gold
     
    #Silver Sponsors
   - id: linearb
@@ -225,6 +229,8 @@ sponsors:
     level: silver
   - id: stackhawk
     level: silver
+  - id: cloudbees
+    level: silver
    
    #Bronze Sponsors
   - id: env0
@@ -232,6 +238,10 @@ sponsors:
   - id: stormforge
     level: bronze
   - id: 42crunch
+    level: bronze
+  - id: vivanti
+    level: bronze
+  - id: gcp
     level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
