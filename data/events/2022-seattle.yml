@@ -146,6 +146,8 @@ sponsors:
     level: silver
   - id: cockroachlabs
     level: silver
+  - id: circleci
+    level: bronze
   - id: seattle-coffeeops
     level: community
   - id: seattle-devops-meetup
