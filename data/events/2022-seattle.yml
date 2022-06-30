@@ -138,8 +138,16 @@ sponsors:
     level: gold
   - id: octopus-deploy
     level: gold
+  - id: firehydrant
+    level: gold
+  - id: solo
+    level: gold
   - id: site24x7
     level: silver
+  - id: cockroachlabs
+    level: silver
+  - id: circleci
+    level: bronze
   - id: seattle-coffeeops
     level: community
   - id: seattle-devops-meetup
@@ -304,7 +312,7 @@ program:
     date: 2022-07-20
     start_time: "9:55"
     end_time: "10:05"
-  - title: "matt-stratton"
+  - title: "TBD"
     type: talk
     date: 2022-07-20
     start_time: "10:05"

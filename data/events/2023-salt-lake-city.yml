@@ -114,7 +114,7 @@ organizer_email: "salt-lake-city@devopsdays.org" # Put your organizer email addr
     #   level: gold
     # - id: dynatrace
     #   level: gold
-    # - id: influxdata
+    # - id: influxdata-before-20220629
     #   level: gold
     # - id: instana
     #   level: gold
