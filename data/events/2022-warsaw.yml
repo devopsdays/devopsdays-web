@@ -41,7 +41,6 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   # - name: propose
   #   url: "https://devopsdays.pl/cfp2022/"
   - name: sponsor
-    url: "mailto:olga.michaliszyn@proidea.pl"
   - name: location
 #  - name: program
 #    url: https://dodkrakow.pl/schedule/

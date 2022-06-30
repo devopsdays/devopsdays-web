@@ -4,7 +4,7 @@ Type = "event"
 Description = "Sponsor devopsdays Warsaw 2022"
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
+We greatly value sponsors for this open event. If you are interested in sponsoring, please contact Olga Michaliszyn: <a href="mailto:olga.michaliszyn@proidea.org.pl"> olga.michaliszyn@proidea.org.pl </a>
 
 <hr>
 
