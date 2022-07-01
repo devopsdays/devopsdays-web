@@ -61,7 +61,7 @@ Description = "devopsdays Rio de Janeiro 2022"
         <strong>Grade</strong>
       </div>
       <div class="col-md-6">
-        {{< event_link url-key="program" text="Confira a grade do evento!" >}}
+        {{< event_link page="program" text="Confira a grade do evento!" >}}
       </div>
     </div>
     <div class="row">
