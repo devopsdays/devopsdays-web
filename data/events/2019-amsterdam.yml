@@ -106,7 +106,7 @@ sponsors:
     level: gold
   - id: capgemini
     level: gold
-  - id: influxdata
+  - id: influxdata-before-20220629
     level: gold
   - id: pivotal
     level: gold
@@ -121,7 +121,7 @@ sponsors:
   # Silver
   - id: valtech
     level: silver
-  - id: portworx
+  - id: portworx-before-20220630
     level: silver
   - id: aqua_sec
     level: silver

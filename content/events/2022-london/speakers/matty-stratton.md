@@ -1,9 +1,9 @@
 +++
-Title = "Matt Stratton"
+Title = "Matty Stratton"
 Twitter = "mattstratton"
-image = "matt-stratton.png"
+image = ""
 type = "speaker"
-linktitle = "matt-stratton"
+linktitle = "matty-stratton"
 
 +++
 

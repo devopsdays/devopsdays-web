@@ -154,7 +154,7 @@ sponsors:
     level: gold
   - id: morningstar
     level: gold
-  - id: influxdata
+  - id: influxdata-before-20220629
     level: silver
   - id: signal
     level: silver

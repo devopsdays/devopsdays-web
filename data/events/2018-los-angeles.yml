@@ -58,7 +58,7 @@ sponsors:
     level: startup
   - id: dynatrace
     level: sponsor
-  - id: influxdata
+  - id: influxdata-before-20220629
     level: sponsor
   - id: kaizenops-before-20181008
     level: sponsor
@@ -68,7 +68,7 @@ sponsors:
     level: sponsor
   - id: newrelic
     level: sponsor
-  - id: portworx
+  - id: portworx-before-20220630
     level: sponsor
   - id: scalyr
     level: sponsor
