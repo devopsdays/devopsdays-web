@@ -136,6 +136,12 @@ sponsors:
     level: platinum
   - id: vivanti
     level: platinum
+  - id: firehydrant
+    level: lanyard
+  - id: atomiccoffeeroasters
+    level: coffee
+  - id: portworx
+    level: platinum
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -146,9 +152,9 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: platinum
     label: Platinum
-  - id: community
-    label: Community
-  - id: alacarte
-    label: Captioning and Live Graphics
-  - id: academic
-    label: Academic
+  - id: lanyard
+    label: Lanyard
+    max: 1
+  - id: coffee
+    label: Coffee
+    max: 1
