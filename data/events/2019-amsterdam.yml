@@ -121,7 +121,7 @@ sponsors:
   # Silver
   - id: valtech
     level: silver
-  - id: portworx
+  - id: portworx-before-20220630
     level: silver
   - id: aqua_sec
     level: silver
