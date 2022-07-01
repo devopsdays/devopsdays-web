@@ -18,7 +18,7 @@ cfp_date_start: 2022-07-15T00:00:00-03:00 # start accepting talk proposals.
 cfp_date_end: 2022-08-15T23:59:59-03:00 # close your call for proposals.
 cfp_date_announce: 2022-07-15T00:00:00-03:00 # inform proposers of status
 
-cfp_open: "false"
+cfp_open: "true"
 cfp_link: "https://www.papercall.io/devopsdaysrio2022"
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
@@ -35,10 +35,10 @@ location: "Local: Centro Empresarial Mourisco - Rio de Janeiro/RJ" # Defaults to
 location_address: "Praia de Botafogo, 501 - 5º e 6º Andar - Botafogo, Rio de Janeiro - RJ" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  # - name: propose
+  - name: propose
   - name: location
   # - name: registration
-  # - name: program
+  - name: program
   # - name: speakers
   - name: sponsor
   - name: contact
@@ -97,3 +97,101 @@ sponsor_levels:
     label: Gifts
   - id: community
     label: Community
+
+program:
+  - title: "Credenciamento"
+    type: custom
+    date: 2022-11-05T08:00:00-03:00
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Abertura"
+    type: custom
+    date: 2022-11-05T08:00:00-03:00
+    start_time: "09:00"
+    end_time: "09:30"
+  - title: "Keynote"
+    type: talk
+    date: 2022-11-05T08:00:00-03:00
+    start_time: "09:30"
+    end_time: "10:00"
+    background_color: "#AED6F1"
+  - title: "Palestra"
+    type: talk
+    date: 2022-11-05T08:00:00-03:00
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Coffee Break"
+    type: custom
+    date: 2022-11-05T08:00:00-03:00
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "Palestra"
+    type: talk
+    date: 2022-11-05T08:00:00-03:00
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "Keynote"
+    type: talk
+    date: 2022-11-05T08:00:00-03:00
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Almoço"
+    type: custom
+    date: 2022-11-05T08:00:00-03:00
+    start_time: "12:00"
+    end_time: "13:30"
+  - title: "Ignite Talks"
+    type: custom
+    date: 2022-11-05T08:00:00-03:00
+    start_time: "13:30"
+    end_time: "13:45"
+  - title: "Palestra"
+    type: talk
+    date: 2022-11-05T08:00:00-03:00
+    start_time: "13:45"
+    end_time: "14:15"
+  - title: "Keynote"
+    type: custom
+    date: 2022-11-05T08:00:00-03:00
+    start_time: "14:15"
+    end_time: "14:45"
+  - title: "OpenSpace na prática"
+    type: custom
+    date: 2022-11-05T08:00:00-03:00
+    start_time: "14:45"
+    end_time: "15:15"
+  - title: "palestra"
+    type: talk
+    date: 2022-11-05T08:00:00-03:00
+    start_time: "15:15"
+    end_time: "15:45"
+  - title: "Coffee Break"
+    type: custom
+    date: 2022-11-05T08:00:00-03:00
+    start_time: "15:45"
+    end_time: "16:15"
+  - title: "Palestra"
+    type: talk
+    date: 2022-11-05T08:00:00-03:00
+    start_time: "16:15"
+    end_time: "16:45"
+  - title: "Palestra"
+    type: talk
+    date: 2022-11-05T08:00:00-03:00
+    start_time: "16:45"
+    end_time: "17:15"
+  - title: "Keynote"
+    type: talk
+    date: 2022-11-05T08:00:00-03:00
+    start_time: "17:15"
+    end_time: "17:45"
+  - title: "Encerramento"
+    type: custom
+    date: 2022-11-05T08:00:00-03:00
+    start_time: "17:45"
+    end_time: "18:30"
+  - title: "Happy Hour"
+    type: custom
+    date: 2022-11-05T08:00:00-03:00
+    start_time: "18:30"
+    end_time: "22:00"
