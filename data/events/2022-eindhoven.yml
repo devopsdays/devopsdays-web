@@ -131,22 +131,22 @@ sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: socialevent
     label: "Social event"
-    max: "1"
+    max: 1
   - id: beer
     label: Beverage
-    max: "1"
+    max: 1
   - id: gold
     label: Gold
-    max: "6"
+    max: 6
   - id: lunch
     label: Lunch
-    max: "2"
+    max: 2
   - id: lanyard
     label: Lanyard
-    max: "1"
+    max: 1
   - id: silver
     label: Silver
-    max: "4"
+    max: 4
   - id: bronze
     label: Bronze
-    max: "6"
+    max: 6
