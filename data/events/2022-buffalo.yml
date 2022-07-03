@@ -85,8 +85,8 @@ organizer_email: "buffalo@devopsdays.org" # Put your organizer email address her
 sponsors:
   # - id: devrelate
   #   level: community
-  # - id: gitlab
-  #   level: silver
+  - id: vivanti
+    level: silver
   # - id: pagerduty
   #   level: bronze
   # - id: redhat
