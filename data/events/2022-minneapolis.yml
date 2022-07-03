@@ -136,6 +136,10 @@ sponsors:
     level: alacarte
   - id: tonic
     level: gold
+  - id: octopus-deploy
+    level: silver
+  - id: sps_commerce
+    level: platinum
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
