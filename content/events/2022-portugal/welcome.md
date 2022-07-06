@@ -46,8 +46,8 @@ Description = "devopsdays portugal 2022"
 
   <div class="row">
     <div class = "col-md-4">
-      <h2>Propose</h2>
-      <p>The call for presentations is open for submissions until May 8th. Help us build a great event with the knowledge and experience you have to share with the community!</p>
+      <h2>Register</h2>
+      <p>Grab your ticket today and join us for two days of talks, open-spaces and networking.</p>
     </div>
     <div class = "col-md-4">
       <h2>Sponsor</h2>
@@ -61,7 +61,7 @@ Description = "devopsdays portugal 2022"
 
   <div class="row" style="margin-bottom:50px">
     <div class = "col-md-4">
-      <a href="/events/2022-portugal/propose" type="button" class="btn btn-primary btn-lg btn-block">CFP OPEN - Propose a talk!</a>
+      <a href="/events/2022-portugal/registration" type="button" class="btn btn-primary btn-lg btn-block">Register today!</a>
     </div>
     <div class = "col-md-4">
       <a href="/events/2022-portugal/sponsor" type="button" class="btn btn-primary btn-lg btn-block">Sponsor the conference!</a>

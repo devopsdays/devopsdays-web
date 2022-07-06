@@ -140,16 +140,41 @@ organizer_email: "portugal@devopsdays.org" # Put your organizer email address he
 sponsors:
   - id: critical-techworks
     level: gold
-  - id: eurotux
-    level: silver
-# - id: edp
-#   level: gold
   - id: xgeeks
     level: gold
-# - id: gfi
-#   level: bronze
-# - id: agileportugal
-#   level: community
+  - id: eurotux
+    level: silver
+  - id: laredoute
+    level: bronze
+  - id: devopslisbon
+    level: community
+  - id: devopsporto
+    level: community
+  - id: agileportugal
+    level: community
+  - id: ticeleiria
+    level: community
+  - id: qeunit
+    level: community
+  - id: techeventsonline
+    level: community
+#  - id: agileconnect
+#    level: community
+#  - id: ptwit
+#    level: community
+#  - id: winb
+#    level: community
+#  - id: geekgirlsportugal
+#    level: community
+#  - id: pydata-lx
+#    level: community
+#  - id: netponto
+#    level: community
+#  - id: dspt
+#    level: community
+#  - id: devopsbraga
+#    level: community
+
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
