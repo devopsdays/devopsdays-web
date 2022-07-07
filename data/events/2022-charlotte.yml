@@ -76,7 +76,15 @@ sponsors:
     level: gold
   - id: octopus-deploy
     level: gold
+  - id: newrelic
+    level: gold
+  - id: sonatype
+    level: gold
+  - id: site24x7
+    level: gold
   - id: phoenixnap
+    level: silver
+  - id: dynatrace
     level: silver
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
