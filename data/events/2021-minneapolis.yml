@@ -112,7 +112,7 @@ organizer_email: "minneapolis@devopsdays.org" # Put your organizer email address
 sponsors:
   - id: arresteddevops
     level: community
-  - id: hackthegap
+  - id: hackthegap-before-20220707
     level: community
   - id: softwaredefinedtalk
     level: community
