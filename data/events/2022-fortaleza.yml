@@ -25,7 +25,7 @@ registration_date_start: 2022-06-29 # start accepting registration. Leave blank 
 registration_date_end: 2022-08-10 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://devopsdaysce.eventize.com.br" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -37,7 +37,8 @@ location_address: "Av. Almirante Maximiniano da Fonseca, 1395 - Eng. Luciano Cav
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
   - name: location
-#  - name: registration
+  - name: registration
+    url: https://devopsdaysce.eventize.com.br
  # - name: program
 #  - name: speakers
   - name: sponsor
