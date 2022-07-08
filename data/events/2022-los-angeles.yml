@@ -148,6 +148,8 @@ sponsors:
     level: bronze
   - id: macstadium
     level: bronze
+  - id: firehydrant
+    level: coffee
   - id: scale
     level: community
     url: https://www.socallinuxexpo.org/scale/19x
@@ -167,6 +169,8 @@ sponsor_levels:
     max: 0 # This is the same as omitting the max limit.
   - id: bronze
     label: Startup
+  - id: coffee
+    label: Coffee Break
   - id: community
     label: Community
 
