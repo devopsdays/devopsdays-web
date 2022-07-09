@@ -55,6 +55,8 @@ team_members: # Name is the only required field for team members.
     github: "SaiyamPathak"
   - name: "Leena S N"
     twitter: "leenasn"
+  - name: "Ashwini Manoj"
+    twitter: "_scarletfire_"
 
 organizer_email: "bengaluru@devopsdays.org" # Put your organizer email address here
 
