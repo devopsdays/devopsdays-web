@@ -1,7 +1,7 @@
 +++
 Talk_date = "2022-07-29"
-Talk_start_time = "16:45"
-Talk_end_time = "17:30"
+Talk_start_time = "14:30"
+Talk_end_time = "15:15"
 Title = "A View From the Trenches"
 Type = "talk"
 Speakers = ["brian-scott","jay-medrano","justice-london"]

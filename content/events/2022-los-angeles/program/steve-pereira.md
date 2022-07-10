@@ -1,7 +1,7 @@
 +++
 Talk_date = "2022-07-29"
-Talk_start_time = "15:45"
-Talk_end_time = "16:30"
+Talk_start_time = "15:30"
+Talk_end_time = "16:15"
 Title = "Flow Engineering - Boost velocity, quality and happiness through your entire value stream"
 Type = "talk"
 Speakers = ["steve-pereira"]

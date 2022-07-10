@@ -1,7 +1,7 @@
 +++
 Talk_date = "2022-07-29"
-Talk_start_time = "14:45"
-Talk_end_time = "15:30"
+Talk_start_time = "11:00"
+Talk_end_time = "11:45"
 Title = "Establishing developer productivity foundations during a migration"
 Type = "talk"
 Speakers = ["hannah-henderson"]
