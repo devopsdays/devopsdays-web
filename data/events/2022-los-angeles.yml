@@ -150,6 +150,8 @@ sponsors:
     level: bronze
   - id: firehydrant
     level: coffee
+  - id: snyk
+    level: bronze
   - id: scale
     level: community
     url: https://www.socallinuxexpo.org/scale/19x
