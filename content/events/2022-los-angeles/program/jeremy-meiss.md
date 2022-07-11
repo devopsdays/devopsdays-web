@@ -1,7 +1,7 @@
 +++
 Talk_date = "2022-07-29"
 Talk_start_time = "13:30"
-Talk_end_time = "13:50"
+Talk_end_time = "13:45"
 Title = "Mentorship, or How we rebuild civilisation from scratch"
 Type = "talk"
 Speakers = ["jeremy-meiss"]

@@ -1,7 +1,7 @@
 +++
 Talk_date = "2022-07-29"
-Talk_start_time = "11:00"
-Talk_end_time = "11:45"
+Talk_start_time = "16:30"
+Talk_end_time = "17:15"
 Title = "Emerging Best Practices in Software Supply Chain Security"
 Type = "talk"
 Speakers = ["tony-loehr"]

@@ -1,7 +1,7 @@
 +++
 Talk_date = "2022-07-29"
-Talk_start_time = "13:50"
-Talk_end_time = "14:10"
+Talk_start_time = "13:45"
+Talk_end_time = "14:00"
 Title = "Promoted From Dev to Team Lead: 8 Things They Didn't Tell Me"
 Type = "talk"
 Speakers = ["dan-lines"]

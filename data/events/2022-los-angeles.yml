@@ -110,7 +110,7 @@ sponsors:
     level: gold
   - id: era
     level: gold
-  - id: gitlab
+  - id: gitlab_about
     level: gold
   - id: gremlin
     level: gold
@@ -133,8 +133,6 @@ sponsors:
   - id: twingate
     level: gold
   - id: squaredup
-    level: gold
-  - id: whitesource
     level: gold
   - id: blameless
     level: silver
@@ -177,6 +175,11 @@ sponsor_levels:
     label: Community
 
 program:
+  - title: "grant-birkinbine-wrkshp"
+    type: talk
+    date: 2022-07-28T23:59:59-08:00
+    start_time: "10:00"
+    end_time: "13:00"
   - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2022-07-29T00:00:00-08:00
@@ -187,7 +190,7 @@ program:
     date: 2022-07-29T00:00:00-08:00
     start_time: "10:00"
     end_time: "10:45"
-  - title: "tony-loehr"
+  - title: "hannah-henderson"
     type: talk
     date: 2022-07-29T00:00:00-08:00
     start_time: "11:00"
@@ -201,35 +204,34 @@ program:
     type: talk
     date: 2022-07-29T00:00:00-08:00
     start_time: "13:30"
-    end_time: "13:50"
+    end_time: "13:45"
   - title: "dan-lines"
     type: talk
     date: 2022-07-29T00:00:00-08:00
-    start_time: "13:50"
-    end_time: "14:10"
-  - title: "ryder-damen"
+    start_time: "13:45"
+    end_time: "14:00"
+  - title: "grant-birkinbine"
     type: talk
-    date: 2022-07-29T23:59:59-08:00
-    start_time: "14:10"
-    end_time: "14:30"
-  - title: "hannah-henderson"
-    type: talk
-    date: 2022-07-29T23:59:59-08:00
-    start_time: "14:45"
-    end_time: "15:30"
-  - title: "steve-pereira"
-    type: talk
-    date: 2022-07-29T23:59:59-08:00
-    start_time: "15:45"
-    end_time: "16:30"
+    date: 2022-07-29T00:00:00-08:00
+    start_time: "14:00"
+    end_time: "14:15"
   - title: "brian-scott"
     type: talk
-    date: 2022-07-29T23:59:59-08:00
-    start_time: "16:45"
-    end_time: "17:30"
+    date: 2022-07-29T00:00:00-08:00
+    start_time: "14:30"
+    end_time: "15:15"
+  - title: "steve-pereira"
+    type: talk
+    date: 2022-07-29T00:00:00-08:00
+    start_time: "15:30"
+    end_time: "16:15"
+  - title: "tony-loehr"
+    type: talk
+    date: 2022-07-29T00:00:00-08:00
+    start_time: "16:30"
+    end_time: "17:15"
   - title: "Planning Retrospective"
     type: custom
-    date: 2022-07-29T23:59:59-08:00
+    date: 2022-07-29T00:00:00-08:00
     start_time: "17:30"
     end_time: "17:45"
-    
