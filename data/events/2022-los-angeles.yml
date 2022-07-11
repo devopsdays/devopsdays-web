@@ -134,8 +134,6 @@ sponsors:
     level: gold
   - id: squaredup
     level: gold
-  - id: whitesource
-    level: gold
   - id: blameless
     level: silver
   - id: buildkite
@@ -149,7 +147,7 @@ sponsors:
   - id: macstadium
     level: bronze
   - id: firehydrant
-    level: coffee
+    level: bronze
   - id: snyk
     level: bronze
   - id: scale
