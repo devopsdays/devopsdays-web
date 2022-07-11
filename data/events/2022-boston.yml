@@ -142,6 +142,10 @@ sponsors:
     level: coffee
   - id: portworx
     level: platinum
+  - id: cortex
+    level: platinum
+  - id: observeinc
+    level: platinum
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
