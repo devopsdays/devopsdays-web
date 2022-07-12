@@ -146,6 +146,8 @@ sponsors:
     level: platinum
   - id: observeinc
     level: platinum
+  - id: edge-delta
+    level: platinum
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
