@@ -88,6 +88,8 @@ sponsors:
     level: silver
   - id: dynatrace
     level: silver
+  - id: duplocloud
+    level: silver
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
