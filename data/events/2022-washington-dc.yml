@@ -201,9 +201,17 @@ organizer_email: "washington-dc@devopsdays.org" # Put your organizer email addre
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: spectrocloud
+  - id: capitalone
+    level: platinum
+  - id: cortex
+    level: platinum
+  - id: kosli
     level: platinum
   - id: spacelift
+    level: platinum 
+  - id: spectrocloud
+    level: platinum
+  - id: solo
     level: platinum
   - id: vivanti
     level: platinum
@@ -211,6 +219,10 @@ sponsors:
     level: gold
   - id: sicura
     level: gold
+  - id: zoho
+    level: gold
+  - id: tremolo
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
