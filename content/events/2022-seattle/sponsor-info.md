@@ -30,7 +30,7 @@ Seattle, WA 98101<br>
 
 This year’s event is on July 19th and 20th, 2022. A detailed program can be found at <http://www.devopsdays.org/events/2022-seattle/program/>. Please note the speaker schedule is subject to change.
 
-* Booth set up - 1:00PM July 18th
+* Booth set up - 1:00PM till 7:00PM July 18th
 * Registration opens - 8:00AM July 19th (Sponsors can come in starting 7a on 19th and 20th)
 * Tear down - approximately 4:00PM on July 20th.
 
