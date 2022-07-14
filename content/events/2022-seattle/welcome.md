@@ -82,3 +82,7 @@ Description = "devopsdays seattle 2022"
 </div>
 
 {{< event_twitter >}}
+
+**COVID INFO** 
+
+Proof of vaccination is required at registration and masks are required when not eating or drinking.

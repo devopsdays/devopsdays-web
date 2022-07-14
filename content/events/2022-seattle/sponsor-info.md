@@ -30,9 +30,8 @@ Seattle, WA 98101<br>
 
 This year’s event is on July 19th and 20th, 2022. A detailed program can be found at <http://www.devopsdays.org/events/2022-seattle/program/>. Please note the speaker schedule is subject to change.
 
-* Booth set up - 1:00PM July 18th
-* Registration opens - 8:00AM July 19th (you'll want to be ready to talk to people
-by this time)
+* Booth set up - 1:00PM till 7:00PM July 18th
+* Registration opens - 8:00AM July 19th (Sponsors can come in starting 7a on 19th and 20th)
 * Tear down - approximately 4:00PM on July 20th.
 
 ### Sponsor Pitch Schedule
@@ -40,9 +39,9 @@ by this time)
 Gold sponsors have 1 minute for a pitch to the full audience. This time will be strictly enforced to make
 sure we stay on schedule!
 
-<!-- <iframe width=700 height=450 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQMBAS2c45N6OTxA1JkSpAm7bmBZu28fG_Ntv8-aE5FxdNAOmiPaek6MCvzbCUt0X2B8amuV3GRhNpE/pubhtml?gid=0&single=true&widget=true&headers=false"></iframe> -->
 
-### Who to Send
+<iframe width=525 height=385 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRjfgjnGgeisCIzN9VbniccFZ8a3PRdfqLnGa2oZSyTHzuIkC-9j4BYDB-U61qjNBcgsSAOrhlI7DRz/pubhtml?widget=true&amp;headers=false"></iframe>
+
 
 Of course this is up to you, but most attendees will be practitioners. It’s
 important to your success that you send people able to have practitioner level
