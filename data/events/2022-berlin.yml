@@ -99,6 +99,8 @@ sponsors:
     level: partner
   - id: linuxmagazin
     level: partner
+  - id: exoscale
+    level: platinum
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -109,7 +111,7 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: platinum
     label: Platinum
-    max: 9
+    max: 6
   - id: gold
     label: Gold
     max: 0 # This is the same as omitting the max limit.
