@@ -239,6 +239,8 @@ sponsors:
     level: silver
   - id: improving
     level: silver
+  - id: blameless
+    level: silver
   - id: arresteddevops
     level: media
   - id: devopslive
