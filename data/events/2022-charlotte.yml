@@ -84,6 +84,8 @@ sponsors:
     level: gold
   - id: mattermost
     level: gold
+  - id: gitlab
+    level: gold
   - id: phoenixnap
     level: silver
   - id: dynatrace
