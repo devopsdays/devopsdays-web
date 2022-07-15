@@ -142,7 +142,7 @@ sponsors:
     level: silver
   - id: solarwinds
     level: gold
-  - id: appdynamics
+  - id: appdynamics-before-20220714
     level: gold
   - id: stackrox
     level: silver
