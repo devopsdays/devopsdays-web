@@ -1,10 +1,13 @@
 +++
 Title = "Daniel Romero"
 Twitter = "infoslack"
-image = "daniel-romero.jpg"
+image = "infoslack.jpg"
 type = "speaker"
 linktitle = "daniel-romero"
 
 +++
 
-Punk, paulista, santista. Docker Community Leader. Sou Senior Site Reliability Engineer e atualmente trabalho na Storyblok, com pós em Forense Computacional e mestrando em Operação, avaliação e gerenciamento avançado de redes de computadores na Universidade Federal do Estado do Rildy Janeiro hehe. Nas horas vagas, estou codando (também!) e surtando com uma gatinha preta chamada Marvel (!) <3 ele/ela https://pronoun.is/they  
+I started my career as a sysadmin, and I worked for several years configuring and maintaining bare-metal Linux servers. Then I've closely followed the arrival of virtualization in servers and later the containerization process.
+Over the years, I acquired new skills to work as a software engineer starting with PHP and Java, and then Ruby. I also worked with pentest for a few years, focused on web application security. 
+I've kept myself updated and embraced the DevOps culture, working later with Terraform, Ansible, Docker, and Kubernetes. Currently, I can comfortably work with AWS, Google Cloud, and Azure.
+In my most recent journey, I'm exploring Data Science and Machine Learning
