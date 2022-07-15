@@ -86,7 +86,7 @@ sponsors:
   - id: f5
     level: evening
     # Gold
-  - id: appdynamics
+  - id: appdynamics-before-20220714
     level: gold
   - id: capgemini
     level: gold

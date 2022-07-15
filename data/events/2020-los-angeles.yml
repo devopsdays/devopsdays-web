@@ -85,7 +85,7 @@ organizer_email: "los-angeles@devopsdays.org" # Put your organizer email address
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: appdynamics
+  - id: appdynamics-before-20220714
     level: gold
   - id: confluent-before-20220426
     level: gold
