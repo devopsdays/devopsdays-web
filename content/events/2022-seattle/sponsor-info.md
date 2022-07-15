@@ -42,6 +42,7 @@ sure we stay on schedule!
 
 <iframe width=525 height=385 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRjfgjnGgeisCIzN9VbniccFZ8a3PRdfqLnGa2oZSyTHzuIkC-9j4BYDB-U61qjNBcgsSAOrhlI7DRz/pubhtml?widget=true&amp;headers=false"></iframe>
 
+## Who to send
 
 Of course this is up to you, but most attendees will be practitioners. It’s
 important to your success that you send people able to have practitioner level
