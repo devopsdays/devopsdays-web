@@ -138,9 +138,15 @@ organizer_email: "portugal@devopsdays.org" # Put your organizer email address he
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: uphold
+    level: platinum
+  - id: bosch-portugal
+    level: platinum
   - id: critical-techworks
     level: gold
   - id: xgeeks
+    level: gold
+  - id: basecone
     level: gold
   - id: eurotux
     level: silver
@@ -151,6 +157,8 @@ sponsors:
   - id: devopsporto
     level: community
   - id: agileportugal
+    level: community
+  - id: geekgirlsportugal
     level: community
   - id: ticeleiria
     level: community
@@ -163,8 +171,6 @@ sponsors:
 #  - id: ptwit
 #    level: community
 #  - id: winb
-#    level: community
-#  - id: geekgirlsportugal
 #    level: community
 #  - id: pydata-lx
 #    level: community
