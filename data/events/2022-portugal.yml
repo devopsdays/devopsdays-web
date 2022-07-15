@@ -86,7 +86,7 @@ team_members: # Name is the only required field for team members.
     image:
   - name: "Julia Lamenza"
     employer: "Independent Consultant"
-    bio: "Devops enthusiast with more than 10 years in IT. Loves to travel and study new things in yours spare time."
+    bio: "Devops enthusiast with more than 10 years in IT. Loves to travel and study new things in her spare time."
     linkedin: "https://www.linkedin.com/in/julialamenza/"
     twitter: "jlamenza"
     github: "julialamenza"
