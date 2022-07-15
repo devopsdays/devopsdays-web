@@ -9,4 +9,11 @@ linktitle = "naomi-kriger"
 +++
 
 
-Naomi Kriger is a Software Engineer, technical blogger, public speaker, and co-leader of a community for female junior software engineers and researchers. Naomi conducts tech-writing workshops for R&D engineers, and before joining the high-tech industry she worked for two years as a content writer. Naomi always fancies learning foreign languages and chatting about Harry Potter.
+Naomi is a Software Engineer, technical blogger, and public speaker.
+ 
+In her free time, she volunteers as a co-leader of a community for junior engineers and researchers and devotes time for ad-hoc mentorships.
+ 
+Moreover, Naomi conducts technical writing workshops for engineers and she previously worked as a content writer.
+Before becoming an engineer, she was a Risk & Data Analyst.
+
+Naomi always fancies learning foreign languages and chatting about Harry Potter.
