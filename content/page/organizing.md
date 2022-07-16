@@ -498,7 +498,7 @@ You may want to staff the registration desk at all times if you want to be able 
 
 ---
 
-## Video - recording and streaming
+## Video recording and streaming
 
 Whether or not you're able to livestream, it's important to record all the talks. This is invaluable for your speakers, and it's great for the community. Your audiovisual company should be able to provide a camera or cameras and record the feed off the board into a computer. If you have no budget for recording talks, a smartphone is better than nothing.
 
