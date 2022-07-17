@@ -388,11 +388,6 @@ program:
     date: 2022-07-20
     start_time: "15:35"
     end_time: "16:05"
-  - title: "paris-pittman"
-    type: talk
-    date: 2022-07-20
-    start_time: "15:35"
-    end_time: "16:05"
   - title: "attendee-suggested breakout discussions - Open Space #6"
     type: open-space
     date: 2022-07-20
