@@ -8,6 +8,20 @@ Description = "DevOpsDays Cairo 2022"
 <p>DevOpsDays Cairo is a one-day event.<br>For the 5th consecutive year, SECC/ITIDA are organizing DevOpsDays Cairo 2022 in cooperation with ATOS, DXC Technology and Orange Labs.</p>
 </div>
 <div>
+<p>
+  We are pleased to announce that one of our Keynote speakers will be <strong>Andrew Clay Shafer</strong>, with other DevOps Heroes. 
+  <img src="https://assets.podomatic.net/ts/7e/ff/df/jaydestro73507/640x640_13381982.jpg" height="200" align="right" border="0">
+</p>
+<p>
+    Andrew is the Vice President Transformation at Red Hat.
+</p>
+<p>
+Andrew is core organizer since 2010 for the international Devopsdays Conferences;
+and referenced to as a foundational voice in the Devops movement.
+
+</p>
+</div>
+<div>
     <p>Just &quot;Like&quot; our <a href="https://www.facebook.com/SECC.Egypt/" rel="noopener noreferrer" target="_blank">Facebook page</a>, adjust your calender/notifications, and stay tuned!</p>
     <p>CFP is now <a href="https://www.papercall.io/cairo2022" rel="noopener noreferrer" target="_blank">Open!</a></p>
 </div>
