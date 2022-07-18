@@ -140,6 +140,10 @@ sponsors:
     level: silver
   - id: sps_commerce
     level: platinum
+  - id: datadog
+    level: silver
+  - id: snyk
+    level: gold
   - id: hackthegap
     level: community
 
