@@ -78,6 +78,10 @@ sponsors:
   - id: linuxtips
     level: gold
     url: https://linuxtips.io # Use this if you need to over-ride a sponsor URL.
+  - id: thoughtworks-services
+    level: bronze
+  - id: tecnogueto
+    level: community
 #- id: arresteddevops
 # level: community
 
