@@ -10,7 +10,7 @@ As such, we are taking a number of precautions related to COVID-19.
 
 We are following the [COVID-19 policies in place for the Ronald Reagan Building and International Trade Center (RRBITC)](https://rrbitc.com/wp-content/uploads/Safer-and-Secure-Hybrid-Deck-R2.pdf), as required in our event agreement with the venue. These policies address guest and staff health, building safety, event space readiness, event flow, attendee experience and client responsibilities, and food and beverage. Currently the RRBITC is not requiring vaccinations or masks within the building, although those requirements may change between now and our event.
 
-We are also taking steps beyond the RRBITC’s COVID-19 policies.
+We are also taking steps beyond the RRBITC’s COVID-19 policies:
 
 1. We are encouraging DevOpsDays DC 2022 attendees to use masks. We encourage each attendee to bring their own mask, but we will provide an N95 mask to each attendee who does not have one and wants to use one.
 
