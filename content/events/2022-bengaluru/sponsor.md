@@ -13,7 +13,7 @@ Description = "Sponsor DevOpsDays Bengaluru 2022"
       <div>
         <h3>Join the community</h3>
         <p>DevOpsDays Bengaluru is run as a single track of curated talks in the morning and in the afternoon we host self organized conversations. The self organized content is known as “open spaces”. As a sponsor of DevOpsDays Bengaluru you are encouraged to participate in the event. We want you to attend the talks and to take part in the open spaces - We want you to get involved!</p>
-        <p>We greatly value sponsors for this community event. If you are interested in sponsoring, please check out our <a href="/events/2022-bengaluru/prospectus.pdf">prospectus</a> or drop us an <a href="mailto:sponsorship-2022@devopsdaysindia.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%Bengaluru%202022">email</a>.</p>
+        <p>We greatly value sponsors for this community event. If you are interested in sponsoring, please check out our <a href="/events/2022-bengaluru/prospectus.pdf">prospectus</a> or drop us an <a href="mailto:bengaluru@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%Bengaluru%202022">email</a>.</p>
       </div>
       <h3>Sponsorship Packages</h3>
       <div class="table-responsive">
