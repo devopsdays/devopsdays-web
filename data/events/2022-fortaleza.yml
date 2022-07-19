@@ -82,6 +82,27 @@ team_members: # Name is the only required field for team members.
     website: ""
     image: "ana-mendes.jpeg"    
 
+  - name: "Cecília Câmara"
+    twitter: ""
+    employer: "FortBrasil"
+    bio: "Computer Science student at the Federal University of Ceará. I'm a new data professional who loves Python and is very curious. This allowed me to have vast experience of projects in the technology area in the areas of Data Science, Dev Back-End, Testing (V&V) and games. After these experiences, I found myself in the Data Science area and I don't intend to leave anymore."
+    github: "CeciliaHelen"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/cec%C3%ADlia-c%C3%A2mara-400303181/"
+    website: ""
+    image: "cecilia.camara.jpeg"
+
+  - name: "Marjoriê Lima"
+    twitter: ""
+    employer: "PROJEART Tecnologia em Aço"
+    bio: "Graduated in Management Processes, studying an MBA in Business Management and Innovation. I have worked for nearly a decade in the IT field. Currently, I am in the Quality Management area where I work as a Process Analyst structuring, mapping, executing, and proposing improvements in all Business chains."
+    github: "CeciliaHelen"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/marjori%C3%AAlima/"
+    website: ""
+    image: "marjorie.lima.jpeg"    
+
+
   - name: "Ana Aguilar"
     twitter: ""
     employer: "QuintoAndar"
@@ -120,7 +141,7 @@ team_members: # Name is the only required field for team members.
     facebook: ""
     linkedin: "https://www.linkedin.com/in/rafael-camelo-98120b93/"
     website: ""
-    image: "henrique-oliveira.png"
+    image: "rafael-camelo.jpg"
 
   - name: "Pedro Azevedo"
     twitter: ""
@@ -131,6 +152,16 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/phlimaazevedo/"
     website: ""
     image: "pedro-azevedo.png"
+
+  - name: "Joab Rocha"
+    twitter: ""
+    employer: "Software Engineer"
+    bio: "Student of Industrial Mathematics at the Federal University of Ceará, I am an enthusiast in web development that seeks to improve more and more in the new technologies that are emerging. I have 2 years of experience developing Back-End systems for the Web, with some knowledge in Docker and Deploy, and about 5 years with programming in general."
+    github: "Joab-S"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/joabdsr/"
+    website: ""
+    image: "joab.rocha.jpeg"  
 
  
 
