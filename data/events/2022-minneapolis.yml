@@ -144,6 +144,10 @@ sponsors:
     level: silver
   - id: snyk
     level: gold
+  - id: couchbase
+    level: silver
+  - id: launch-darkly
+    level: silver
   - id: hackthegap
     level: community
 
