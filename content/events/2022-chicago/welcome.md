@@ -104,7 +104,7 @@ The organizers of DevOpsDays Chicago believe that the community is stronger when
         <div class = "row justify-content-center">
           <div class = "d-flex p-2">
             <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="/events/2022-chicago/program">
-              <i class="fa fa-book fa-lg"></i>&nbsp;&nbsp;&nbsp;View the Program
+              <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Register for the Conference
             </a>
           </div>
         </div>
