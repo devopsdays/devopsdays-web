@@ -148,6 +148,12 @@ sponsors:
     level: silver
   - id: launch-darkly
     level: silver
+  - id: improving-confluent
+    level: silver
+  - id: herzum
+    level: silver
+  - id: harness
+    level: silver
   - id: hackthegap
     level: community
 
