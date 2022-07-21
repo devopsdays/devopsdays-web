@@ -164,6 +164,12 @@ sponsors:
     level: community
   - id: qeunit
     level: community
+  - id: netpontoporto
+    level: community
+  - id: oposec
+    level: community
+  - id: itjobspt
+    level: community
   - id: techeventsonline
     level: community
 #  - id: agileconnect
@@ -173,8 +179,6 @@ sponsors:
 #  - id: winb
 #    level: community
 #  - id: pydata-lx
-#    level: community
-#  - id: netponto
 #    level: community
 #  - id: dspt
 #    level: community
