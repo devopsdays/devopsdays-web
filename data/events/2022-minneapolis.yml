@@ -154,6 +154,10 @@ sponsors:
     level: silver
   - id: harness
     level: silver
+  - id: delphix
+    level: silver
+  - id: target
+    level: silver
   - id: hackthegap
     level: community
 
