@@ -12,7 +12,7 @@ description = "Interested in sponsoring DevOpsDays Dallas 2022? We greatly value
 <br><br>
 We greatly value sponsors for this community event. If you are interested in sponsoring, please check out our prospectus below. If you need a soft copy of our prospectus, click here to <a href="https://assets.devopsdays.org/events/2022/dallas/DevOpsDaysDallas2022Sponsorships.pdf" target="_blank"><strong>download PDF</strong></a> or <a href="mailto:dallas@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Dallas%202022"><strong>send us an email</strong></a>.
 <br>
-<!-- <h4><a href="https://assets.devopsdays.org/events/2022/dallas/DevOpsDaysDallasSponsorGuide2022" target="_blank">Sponsor Guide 2022<h4> -->
+<h4><a href="https://assets.devopsdays.org/events/2022/dallas/DevOpsDaysDallasSponsorGuide2022" target="_blank">Sponsor Guide 2022<h4>
 <br>
 <h4><a href="https://assets.devopsdays.org/events/2022/dallas/DevOpsDaysDallasSponsorFAQ2022.pdf" target="_blank">Sponsors FAQ 2022<h4>
 <br>
