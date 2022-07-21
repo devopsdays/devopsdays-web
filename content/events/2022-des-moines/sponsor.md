@@ -131,7 +131,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
                 <td class=""></td>
             </tr>
             <tr>
-                <td class="label">Full table (staffed)</td>
+                <td class="label">Full 96"x30" table (staffed)</td>
                 <td class="gold"></td>
                 <td class=""></td>
                 <td class=""></td>
