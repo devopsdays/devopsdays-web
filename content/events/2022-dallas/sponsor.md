@@ -14,7 +14,7 @@ We greatly value sponsors for this community event. If you are interested in spo
 <br><br>
 <hr>
 
-<h4><a href="https://assets.devopsdays.org/events/2022/dallas/DevOpsDaysDallasSponsorGuide2022" target="_blank">Sponsor Guide 2022<h4>
+<h4><a href="https://assets.devopsdays.org/events/2022/dallas/DevOpsDaysDallasSponsorGuide2022.pdf" target="_blank">Sponsor Guide 2022<h4>
 <br>
 <h4><a href="https://assets.devopsdays.org/events/2022/dallas/DevOpsDaysDallasSponsorFAQ2022.pdf" target="_blank">Sponsors FAQ 2022<h4>
 
