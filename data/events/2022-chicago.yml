@@ -231,6 +231,8 @@ sponsors:
     level: silver
   - id: cloudbees
     level: silver
+  - id: merkely
+    level: silver
    
    #Bronze Sponsors
   - id: env0
@@ -493,8 +495,6 @@ ignites:
   - title: "ashina-sipiora"
     date: 2022-09-22
   - title: "abby-allen"
-    date: 2022-09-22
-  - title: "brendan-oleary"
     date: 2022-09-22
   - title: "richard-lewis"
     date: 2022-09-22

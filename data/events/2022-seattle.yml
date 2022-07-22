@@ -351,68 +351,53 @@ program:
     type: custom
     date: 2022-07-20
     start_time: "12:00"
+    end_time: "13:05"
+  - title: "Vendor give aways #1"
+    type: custom
+    date: 2022-07-20
+    start_time: "13:05"
     end_time: "13:10"
   - title: "tejas-chopra"
     type: talk
     date: 2022-07-20
     start_time: "13:10"
     end_time: "13:40"
+  - title: "Vendor give aways #2"
+    type: custom
+    date: 2022-07-20
+    start_time: "13:40"
+    end_time: "13:45"
   - title: "Ignites"
     type: ignite
     date: 2022-07-20
-    start_time: "13:40"
-    end_time: "14:10"
+    start_time: "13:45"
+    end_time: "14:00"
     block: ignite-2
-  - title: "Open Space Opening"
-    type: open-space
+  - title: "Vendor give aways #3"
+    type: custom
     date: 2022-07-20
-    start_time: "14:10"
-    end_time: "14:40"
-  - title: "attendee-suggested breakout discussions - Open Space #4"
-    type: open-space
-    date: 2022-07-20
-    start_time: "14:50"
-    end_time: "15:20"
+    start_time: "14:00"
+    end_time: "14:05"
   - title: "lucy-voigt"
     type: talk
     date: 2022-07-20
-    start_time: "14:50"
-    end_time: "15:20"
-  - title: "BREAK"
+    start_time: "14:05"
+    end_time: "14:35"
+  - title: "Vendor give aways #4"
     type: custom
     date: 2022-07-20
-    start_time: "15:20"
-    end_time: "15:35"
-  - title: "attendee-suggested breakout discussions - Open Space #5"
-    type: open-space
-    date: 2022-07-20
-    start_time: "15:35"
-    end_time: "16:05"
-  - title: "paris-pittman"
-    type: talk
-    date: 2022-07-20
-    start_time: "15:35"
-    end_time: "16:05"
-  - title: "attendee-suggested breakout discussions - Open Space #6"
-    type: open-space
-    date: 2022-07-20
-    start_time: "16:15"
-    end_time: "16:45"
+    start_time: "14:35"
+    end_time: "14:40"
   - title: "lian-li"
     type: talk
     date: 2022-07-20
-    start_time: "16:15"
-    end_time: "16:45"
-  - title: "Close Day"
+    start_time: "14:40"
+    end_time: "15:10"
+  - title: "Closing Happy Hour / Open Space"
     type: custom
     date: 2022-07-20
-    start_time: "16:50"
-    end_time: "17:05"
-  - title: "Closing Happy Hour"
-    type: custom
-    date: 2022-07-20
-    start_time: "17:05"
-    end_time: "19:30"
+    start_time: "15:10"
+    end_time: "17:30"
 
 ignites:
   - title: peter-valdez
@@ -425,9 +410,6 @@ ignites:
     date: 2022-07-20
     block: ignite-2
   - title: ember-stevens
-    date: 2022-07-20
-    block: ignite-2
-  - title: eric-murphy
     date: 2022-07-20
     block: ignite-2
   - title: derek-ashmore

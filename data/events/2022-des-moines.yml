@@ -85,6 +85,12 @@ organizer_email: "des-moines@devopsdays.org" # Put your organizer email address 
 sponsors:
  - id: launch-darkly
    level: gold
+ - id: trility
+   level: gold
+ - id: appdynamics
+   level: gold
+ - id: mumosystems
+   level: gold
 # #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 #  - id: arresteddevops
 #    level: community
