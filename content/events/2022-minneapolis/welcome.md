@@ -45,6 +45,25 @@ Description = "devopsdays Minneapolis 2022"
   </div>
 </div>
 
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Livestream</strong>
+  </div>
+  <div class = "col-md-8">
+    <a href="https://youtu.be/TqPx8EKceHc">Monday August 1st</a>, <a href="https://youtu.be/6UbEDoub7j0">Monday Evening Program</a>  & <a href="https://youtu.be/2e5YnwYpBlg">Tuesday August 2nd</a>
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Participate</strong>
+  </div>
+  <div class = "col-md-8">
+    <a href="https://docs.google.com/spreadsheets/d/1D9VnfOUHL2pu0USgECvbJTHeHrO-x_EW5Yq8w1mrPoI">Daily Open Spaces Schedule</a> & 
+    <a href="https://join.slack.com/t/devopsmsp/shared_invite/zt-sofs4r0n-c2nZdDtQ_B9rJRZPDYc28w">Join us on Slack!</a>
+  </div>
+</div>
+
 <!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
@@ -80,6 +99,7 @@ Description = "devopsdays Minneapolis 2022"
     {{< event_link page="sponsor" text="Sponsor the conference!" >}}
   </div>
 </div>
+
 
 <div class = "row">
   <div class = "col-md-2">
