@@ -82,15 +82,9 @@ Description = "devopsdays Washington, D.C. 2022"
 </div>
   
 <br>                                        
-<p>The Call for Proposals is now <a href="https://sessionize.com/devopsdays-dc-2022">OPEN</a>!
-</p>
+<p>The Call for Proposals is now closed. Selected proposals will be announced on Monday, August 1, 2022.</p>
 
-  * Call for proposals opens Monday, May 9, 2022.
-  * Call for proposals closes Monday, July 11, 2022.
-  * Selected proposals will be announced on Monday, August 1, 2022.
-
-
-<p>You have a great story and we want to hear from you -- especially if you haven't shared your voice with us before. If you'd like some help from the organizers in talking through your ideas or even shaping your presentation, we'd love to do that. Just get in touch with the organizers and let us know.</p>
+<p>We have an updated {{< event_link page="covid-19-policy" text="COVID-19 policy" >}}. Please read about the measures we're taking to protect the health and safety of everyone who attends DevOpsDays DC 2022.</p>
 
 <!-- Uncomment if you added your city twitter name -->
 <!--

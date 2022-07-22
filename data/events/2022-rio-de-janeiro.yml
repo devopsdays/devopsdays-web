@@ -28,11 +28,9 @@ registration_closed: "" #set this to true if you need to manually close registra
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
-#
-coordinates: "-22.950361,-43.180701" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Local: Centro Empresarial Mourisco - Rio de Janeiro/RJ" # Defaults to city, but you can make it the venue name.
-#
-location_address: "Praia de Botafogo, 501 - 5º e 6º Andar - Botafogo, Rio de Janeiro - RJ" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+coordinates: "-22.8975426, -43.1824625" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Centro de Convenções RB1"
+location_address: "Av. Rio Branco, 01 - Praça Mauá - Rio de Janeiro (Acesso pelo elevador panorâmico)" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
@@ -78,8 +76,14 @@ sponsors:
   - id: linuxtips
     level: gold
     url: https://linuxtips.io # Use this if you need to over-ride a sponsor URL.
-#- id: arresteddevops
-# level: community
+  - id: thoughtworks-services
+    level: bronze
+  - id: tecnogueto
+    level: community
+  - id: punkdodevops
+    level: community
+  - id: nerdweek
+    level: community
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 

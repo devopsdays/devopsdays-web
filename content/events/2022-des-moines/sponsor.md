@@ -77,17 +77,15 @@ The best thing to do is send engineers to interact with the experts at devopsday
             </tr>
             <tr>
                 <td class="label">Sponsorship Remaining (First come first serve)</td>
-                <td>7 of 10</td>
+                <td>6 of 10</td>
                 <td>1 of 1</td>
-                <td>0 of 1</td>
+                <td>1 of 1</td>
             </tr>
             <tr>
                 <td class="label">Price</td>
                 <td>6,000 USD</td>
                 <td>6,000 USD</td>
-                <td>
-                  <a href='mailto:des-moines@devopsdays.org?subject=Lanyard Sponsorship'>Contact us</a>
-                </td>
+                <td>3,000 USD</td>
             </tr>
             <tr>
                 <td class="label">Pay via Wave</td>
@@ -97,7 +95,10 @@ The best thing to do is send engineers to interact with the experts at devopsday
                 <td>
                     <a href="https://link.waveapps.com/dxjea3-kntd3u" target=”_blank”>
                       <img src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif"/></a></td>
-                <td></td>
+                <td>
+                    <a href="https://link.waveapps.com/wpkdja-3mv7ym" target=”_blank”>
+                      <img src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif"/></a></td>
+                </td>
             </tr> 
             <tr>
                 <td class="label">Included tickets</td>
@@ -130,7 +131,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
                 <td class=""></td>
             </tr>
             <tr>
-                <td class="label">Full table (staffed)</td>
+                <td class="label">Full 96"x30" table (staffed)</td>
                 <td class="gold"></td>
                 <td class=""></td>
                 <td class=""></td>

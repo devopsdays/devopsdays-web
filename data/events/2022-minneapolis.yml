@@ -140,6 +140,24 @@ sponsors:
     level: silver
   - id: sps_commerce
     level: platinum
+  - id: datadog
+    level: silver
+  - id: snyk
+    level: gold
+  - id: couchbase
+    level: silver
+  - id: launch-darkly
+    level: silver
+  - id: improving-confluent
+    level: silver
+  - id: herzum
+    level: silver
+  - id: harness
+    level: silver
+  - id: delphix
+    level: silver
+  - id: target
+    level: silver
   - id: hackthegap
     level: community
 
@@ -177,41 +195,41 @@ program:
     type: custom
     date: 2022-08-01
     start_time: "09:00"
-    end_time: "09:15"
+    end_time: "09:10"
   - title: "kelsey-hightower"
     type: talk
     date: 2022-08-01
-    start_time: "09:15"
-    end_time: "09:45"
+    start_time: "09:10"
+    end_time: "09:40"
   - title: "Sponsors"
     type: custom
     date: 2022-08-01
-    start_time: "09:45"
-    end_time: "09:55"
+    start_time: "09:40"
+    end_time: "09:50"
   - title: "michelle-dhanani"
     type: talk
     date: 2022-08-01
-    start_time: "09:55"
-    end_time: "10:25"
+    start_time: "09:50"
+    end_time: "10:20"
   - title: "Break"
     type: custom
     date: 2022-08-01
-    start_time: "10:25"
-    end_time: "10:40"
+    start_time: "10:20"
+    end_time: "10:50"
   - title: "noelle-notermann"
     type: talk
     date: 2022-08-01
-    start_time: "10:40"
-    end_time: "11:10"
+    start_time: "10:50"
+    end_time: "11:20"
   - title: "Sponsors"
     type: custom
     date: 2022-08-01
-    start_time: "11:10"
-    end_time: "11:20"
+    start_time: "11:20"
+    end_time: "11:30"
   - title: "keith-mattix"
     type: talk
     date: 2022-08-01
-    start_time: "11:20"
+    start_time: "11:30"
     end_time: "12:00"
   - title: "Lunch"
     type: custom
@@ -282,26 +300,21 @@ program:
     type: custom
     date: 2022-08-02
     start_time: "10:20"
-    end_time: "10:35"
+    end_time: "10:50"
   - title: "marino-wijay"
     type: talk
     date: 2022-08-02
-    start_time: "10:35"
-    end_time: "11:05"
-  - title: "Sponsors"
-    type: custom
-    date: 2022-08-02
-    start_time: "11:05"
-    end_time: "11:15"
+    start_time: "10:50"
+    end_time: "11:20"
   - title: "nocnica-mellifera"
     type: talk
     date: 2022-08-02
-    start_time: "11:15"
-    end_time: "11:45"
+    start_time: "11:25"
+    end_time: "11:55"
   - title: "Lunch"
     type: custom
     date: 2022-08-02
-    start_time: "11:45"
+    start_time: "11:55"
     end_time: "12:45"
 
   - title: "Open Space Opening"

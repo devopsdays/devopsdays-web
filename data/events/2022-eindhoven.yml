@@ -100,14 +100,24 @@ organizer_email: "eindhoven@devopsdays.org" # Put your organizer email address h
 sponsors:
   # socialevent
   # beer
+  - id: contrast_security
+    level: beer
   # gold
+  - id: kabisa
+    level: gold
+  - id: cert2connect
+    level: gold
   # lunch
   # lanyard
   # silver
   - id: sendcloud
     level: silver
+  - id: kumina
+    level: silver
   # bronze
   - id: o11y
+    level: bronze
+  - id: synchromind
     level: bronze
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
