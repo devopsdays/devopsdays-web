@@ -103,6 +103,8 @@ sponsors:
     level: platinum
   - id: circleci
     level: platinum
+  - id: polarsquad
+    level: platinum
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
