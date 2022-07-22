@@ -183,7 +183,7 @@ sponsors:
 #    level: platinum
   - id: capitalone
     level: platinum
-    - id: splunk
+  - id: splunk
     level: platinum
   - id: appdynamics
     level: gold
