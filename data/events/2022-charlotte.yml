@@ -37,7 +37,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: propose
   - name: location
   - name: registration
- # - name: program
+  - name: program
  # - name: speakers
   - name: sponsor
   - name: contact
@@ -111,3 +111,178 @@ sponsor_levels:
     label: Silver
   - id: community
     label: Community
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2022-09-08
+    start_time: "08:15"
+    end_time: "09:00"
+  - title: "mandi-walls"
+    type: talk
+    date: 2022-09-08
+    start_time: "09:00"
+    end_time: "09:30"
+  - title: "angel-rivera"
+    type: talk
+    date: 2022-09-08
+    start_time: "09:30"
+    end_time: "10:00"
+  - title: "victor-hernandez"
+    type: talk
+    date: 2022-09-08
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Break"
+    type: custom
+    date: 2022-09-08
+    start_time: "10:30"
+    end_time: "10:50"
+  - title: "yvo-van-doorn"
+    type: talk
+    date: 2022-09-08
+    start_time: "10:50"
+    end_time: "11:20"
+  - title: "tony-loehr"
+    type: talk
+    date: 2022-09-08
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Lunch"
+    type: custom
+    date: 2022-09-08
+    start_time: "11:50"
+    end_time: "13:00"
+  - title: "sean-odell"
+    type: talk
+    date: 2022-09-08
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "brian-childress"
+    type: talk
+    date: 2022-09-08
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2022-09-08
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: "Open Spaces Intro and Break"
+    type: custom
+    date: 2022-09-08
+    start_time: "14:30"
+    end_time: "14:45"
+  - title: "gerald-yelden"
+    type: talk
+    date: 2022-09-08
+    start_time: "14:45"
+    end_time: "15:15"
+  - title: "Open Space #1"
+    type: custom
+    date: 2022-09-08
+    start_time: "14:45"
+    end_time: "15:15"
+  - title: "Open Space #2"
+    type: custom
+    date: 2022-09-08
+    start_time: "15:15"
+    end_time: "15:45"
+  - title: "Closing Comments"
+    type: custom
+    date: 2022-09-08
+    start_time: "15:45"
+    end_time: "16:00"
+  - title: "Evening event"
+    type: custom
+    date: 2022-09-08
+    start_time: "16:00"
+    end_time: "late"
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2022-09-09
+    start_time: "08:30"
+    end_time: "09:00"
+  - title: "alex-hidalgo"
+    type: talk
+    date: 2022-09-09
+    start_time: "09:00"
+    end_time: "09:30"
+  - title: "vamsi-siripurapu"
+    type: talk
+    date: 2022-09-09
+    start_time: "09:30"
+    end_time: "10:00"
+  - title: "orlando-valdez"
+    type: talk
+    date: 2022-09-09
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Break"
+    type: custom
+    date: 2022-09-09
+    start_time: "10:30"
+    end_time: "10:50"
+  - title: "lesley-cordero"
+    type: talk
+    date: 2022-09-09
+    start_time: "10:50"
+    end_time: "11:20"
+  - title: "daniel-kim"
+    type: talk
+    date: 2022-09-09
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Lunch"
+    type: custom
+    date: 2022-09-09
+    start_time: "11:50"
+    end_time: "13:00"
+  - title: "malcolm-preston"
+    type: talk
+    date: 2022-09-09
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Ignites"
+    type: ignite
+    date: 2022-09-09
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Break and Open Space Intro"
+    type: custom
+    date: 2022-09-09
+    start_time: "14:00"
+    end_time: "14:15"
+  - title: "Open Space #1"
+    type: custom
+    date: 2022-09-09
+    start_time: "14:15"
+    end_time: "14:45"
+  - title: "jim-barton"
+    type: talk
+    date: 2022-09-09
+    start_time: "14:15"
+    end_time: "14:45"
+  - title: "Open Space #2"
+    type: custom
+    date: 2022-09-09
+    start_time: "14:45"
+    end_time: "15:15"
+  - title: "Closing"
+    type: custom
+    date: 2022-09-09
+    start_time: "15:15"
+    end_time: "15:30"
+ignites:
+  - title: "derek-ashmore"
+    date: 2022-09-08
+  - title: "arafat-khan"
+    date: 2022-09-08
+  - title: "david-kirk"
+    date: 2022-09-08
+  - title: "nocnica-mellifera"
+    date: 2022-09-09
+  - title: "jerry-reed"
+    date: 2022-09-09
+  - title: "trip-longworth"
+    date: 2022-09-09
+
