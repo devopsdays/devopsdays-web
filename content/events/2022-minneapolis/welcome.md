@@ -100,7 +100,6 @@ Description = "devopsdays Minneapolis 2022"
   </div>
 </div>
 
-
 <div class = "row">
   <div class = "col-md-2">
     <strong>Contact</strong>
