@@ -50,7 +50,7 @@ Description = "devopsdays Minneapolis 2022"
     <strong>Livestream</strong>
   </div>
   <div class = "col-md-8">
-    <a href="https://youtu.be/TqPx8EKceHc">Monday August 1st</a>, <a href="https://youtu.be/6UbEDoub7j0">Monday Evening Program</a>  & <a href="https://youtu.be/2e5YnwYpBlg">Tuesday August 2nd</a>
+    <a href="https://youtu.be/TqPx8EKceHc">Monday August 1st</a>, <a href="https://youtu.be/6UbEDoub7j0">Monday Evening Program</a> & <a href="https://youtu.be/2e5YnwYpBlg">Tuesday August 2nd</a>
   </div>
 </div>
 
