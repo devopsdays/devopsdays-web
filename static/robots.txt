@@ -1,4 +1,0 @@
-# robots.txt for https://www.devopsdays.org/
-User-Agent: *
-Disallow: 
-Sitemap: https://www.devopsdays.org/sitemap.xml
