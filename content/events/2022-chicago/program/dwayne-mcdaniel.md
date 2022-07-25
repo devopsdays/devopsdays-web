@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Git - Beyond Just Committing"
 Type = "talk"
 Speakers = ["dwayne-mcdaniel"]
+sharing_image = "dwayne-mcdaniel.png"
 +++
 Git - Beyond Just Committing!
 

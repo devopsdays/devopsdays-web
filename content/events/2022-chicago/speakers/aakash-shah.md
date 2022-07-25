@@ -5,6 +5,7 @@ image = "aakash-shah.jpg"
 type = "speaker"
 linktitle = "aakash-shah"
 linkedin = "https://www.linkedin.com/in/aakash-b-shah/"
+sharing_image = "aakash-shah.png"
 +++
 At Oak9, Aakash currently helps security organizations adapt to modern development practices and build cloud-native applications that are secure and compliant by-design.
 
