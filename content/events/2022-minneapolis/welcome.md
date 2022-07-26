@@ -41,7 +41,7 @@ Description = "devopsdays Minneapolis 2022"
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
+    Registration for in-person attendance has ended; plesae join us online!
   </div>
 </div>
 
@@ -96,7 +96,7 @@ Description = "devopsdays Minneapolis 2022"
     <strong>Sponsors</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="sponsor" text="Sponsor the conference!" >}}
+    Sponsorships have closed; thanks to our sponsors!
   </div>
 </div>
 
