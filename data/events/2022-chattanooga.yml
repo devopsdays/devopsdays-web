@@ -80,6 +80,11 @@ organizer_email: "chattanooga@devopsdays.org" # Put your organizer email address
 sponsors:
   - id: arresteddevops
     level: community
+  - id: tva
+    level: gold
+  - id: chatech
+    level: gold
+  
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
