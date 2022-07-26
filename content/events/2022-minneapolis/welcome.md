@@ -96,7 +96,7 @@ Description = "devopsdays Minneapolis 2022"
     <strong>Sponsors</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="sponsor" text="Sponsor the conference!" >}}
+    Sponsorships have closed; thanks to our sponsors!
   </div>
 </div>
 
