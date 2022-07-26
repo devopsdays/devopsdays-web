@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Team Dynamics & Communication Skills (Team Project Productivity & Leadership)"
 Type = "talk"
 Speakers = ["crux-conception"]
+sharing_image = "crux-conception.png"
 +++
 Attendees will discover the influence of communications into action while using their everyday skills, added with a unique active listening style.
 
