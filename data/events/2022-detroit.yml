@@ -114,3 +114,5 @@ sponsors:
     level: AV
   - id: tonic
     level: gold
+  - id: dynatrace
+    level: silver
