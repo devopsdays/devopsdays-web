@@ -14,9 +14,9 @@ Description = "devopsdays Fortaleza 2022"
       <img alt="DevOpsDays fortaleza 2022" src="/events/2022-fortaleza/event.png" style="width:100%">
       {{< event_twitter >}}
       <br>
-      <!-- <a href="https://t.me/joinchat/CfcDxlbPZkjOQTXIi5b6-g" target="_blank">
+      <a href="https://t.me/devopsce" target="_blank">
           <i class="fa fa-telegram fa-lg"></i> Grupo do Telegram
-      </a> -->
+      </a>
   </div>
   <hr>
   <div class="col-md-6">

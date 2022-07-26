@@ -199,9 +199,9 @@ sponsors:
   # - id: flexa
   #   level: platinum
   #   url: https://flexa.cloud/
-  # - id: linuxtips
-  #   level: gold
-  #   url: https://www.linuxtips.io/
+  - id: linuxtips
+    level: silver
+    url: https://www.linuxtips.io/
   # - id: spiritsec
   #   level: gold
   #   url: https://www.spiritsec.com/
