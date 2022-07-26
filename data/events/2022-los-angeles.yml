@@ -35,6 +35,7 @@ location_address: "Hilton Los Angeles Airport 5711 W Century Blvd, Los Angeles, 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   # - name: program
   # - name: speakers
+  - name: covid
   - name: venue
     url: https://www.socallinuxexpo.org/scale/19x/venue
   - name: registration

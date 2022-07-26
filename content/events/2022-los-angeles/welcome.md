@@ -13,6 +13,15 @@ Description = "DevOpsDays Los Angeles 2022"
 
 <div class = "row">
   <div class = "col-md-2">
+    <strong>COVID-19</strong>
+  </div>
+  <div class = "col-md-8">
+    Please check out the {{< event_link page="covid" text="COVID-19 Policy" >}}
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-2">
     <strong>Dates</strong>
   </div>
   <div class = "col-md-8">
