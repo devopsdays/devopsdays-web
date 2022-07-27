@@ -54,7 +54,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     # image: ""
 team_members: # Name is the only required field for team members.
   - name: "Aaron Maturen"
-    bio: Canopy
+    bio: Comcast Business
     twitter: atmaturen
   - name: "Aimme Keener"
     bio: Autonomic
