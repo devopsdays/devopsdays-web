@@ -2,7 +2,6 @@
 Title = "Rain Leander"
 Twitter = "@rainleander"
 image = "rain-leander.png"
-sharing_image = "rain-leander.png"
 type = "speaker"
 linktitle = "rain-leander"
 linkedin = "https://www.linkedin.com/in/rainleander/"

@@ -2,7 +2,6 @@
 Title = "Fatima Sarah Khalid"
 Twitter = "@sugaroverflow"
 image = "fatima-sarah-khalid.png"
-sharing_image = "fatima-sarah-khalid.png"
 type = "speaker"
 linktitle = "fatima-sarah-khalid"
 linkedin = "https://www.linkedin.com/in/fatimasarahkhalid/"

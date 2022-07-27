@@ -2,7 +2,6 @@
 Title = "Ell Marquez"
 Twitter = "@Ell_o_Punk"
 image = "ell-marquez.png"
-sharing_image = "ell-marquez.png"
 type = "speaker"
 linktitle = "ell-marquez"
 linkedin = "https://www.linkedin.com/in/ellmarquez/"

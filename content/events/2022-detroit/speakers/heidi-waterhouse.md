@@ -2,7 +2,6 @@
 Title = "Heidi Waterhouse"
 Twitter = "@wiredferret"
 image = "heidi-waterhouse.png"
-sharing_image = "heidi-waterhouse.png"
 type = "speaker"
 linktitle = "heidi-waterhouse"
 linkedin = "https://www.linkedin.com/in/heidiwaterhouse/"

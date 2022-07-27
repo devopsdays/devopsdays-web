@@ -2,7 +2,6 @@
 Title = "Ray Welker"
 Twitter = ""
 image = "ray-welker.png"
-sharing_image = "ray-welker.png"
 type = "speaker"
 linktitle = "ray-welker"
 linkedin = "https://www.linkedin.com/in/ray-welker/"

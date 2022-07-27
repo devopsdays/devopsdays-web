@@ -2,7 +2,6 @@
 Title = "Matan Cohen"
 Twitter = ""
 image = "matan-cohen.png"
-sharing_image = "matan-cohen.png"
 type = "speaker"
 linktitle = "matan-cohen"
 

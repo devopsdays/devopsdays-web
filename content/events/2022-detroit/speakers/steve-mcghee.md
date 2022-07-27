@@ -2,7 +2,6 @@
 Title = "Steve McGhee"
 Twitter = "@stevemcghee"
 image = "steve-mcghee.png"
-sharing_image = "steve-mcghee.png"
 type = "speaker"
 linktitle = "steve-mcghee"
 linkedin = "https://www.linkedin.com/in/stevemcghee"
