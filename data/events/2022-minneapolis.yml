@@ -134,8 +134,6 @@ sponsors:
     level: gold
   - id: microsoftazure
     level: alacarte
-  - id: tonic
-    level: gold
   - id: octopus-deploy
     level: silver
   - id: sps_commerce
