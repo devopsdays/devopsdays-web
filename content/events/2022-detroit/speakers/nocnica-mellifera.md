@@ -2,7 +2,6 @@
 Title = "Nočnica Mellifera"
 Twitter = "@serverless_mom"
 image = "nocnica-mellifera.png"
-sharing_image = "nocnica-mellifera.png"
 type = "speaker"
 linktitle = "nocnica-mellifera"
 linkedin = "https://www.linkedin.com/in/serverlessmom/"

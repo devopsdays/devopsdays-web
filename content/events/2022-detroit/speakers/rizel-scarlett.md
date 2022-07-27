@@ -2,7 +2,6 @@
 Title = "Rizel Scarlett"
 Twitter = "@blackgirlbytes"
 image = "rizel-scarlett.png"
-sharing_image = "rizel-scarlett.png"
 type = "speaker"
 linktitle = "rizel-scarlett"
 linkedin = "https://www.linkedin.com/in/rizel-bobb-semple/"

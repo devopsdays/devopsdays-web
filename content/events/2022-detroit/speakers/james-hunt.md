@@ -2,7 +2,6 @@
 Title = "James Hunt"
 Twitter = "@iamjameshunt"
 image = "james-hunt.png"
-sharing_image = "james-hunt.png"
 type = "speaker"
 linktitle = "james-hunt"
 linkedin = "https://linkedin.com/in/huntprod"

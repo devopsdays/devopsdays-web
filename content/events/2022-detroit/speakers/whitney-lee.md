@@ -2,7 +2,6 @@
 Title = "Whitney Lee"
 Twitter = "@wiggitywhitney"
 image = "whitney-lee.png"
-sharing_image = "whitney-lee.png"
 type = "speaker"
 linktitle = "whitney-lee"
 

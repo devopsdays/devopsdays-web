@@ -2,7 +2,6 @@
 Title = "Jean-Rémi Beaudoin"
 Twitter = "@jiherr"
 image = "jean-remi-beaudoin.png"
-sharing_image = "jean-remi-beaudoin.png"
 type = "speaker"
 linktitle = "jean-remi-beaudoin"
 linkedin = "https://www.linkedin.com/in/jrbeaudoin"

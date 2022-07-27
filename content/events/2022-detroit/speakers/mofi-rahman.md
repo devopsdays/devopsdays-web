@@ -2,7 +2,6 @@
 Title = "Mofi Rahman"
 Twitter = "@moficodes"
 image = "mofi-rahman.png"
-sharing_image = "mofi-rahman.png"
 type = "speaker"
 linktitle = "mofi-rahman"
 linkedin = "https://linkedin.com/in/moficodes"

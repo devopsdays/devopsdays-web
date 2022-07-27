@@ -2,7 +2,6 @@
 Title = "Jim Barton"
 Twitter = "@jameshbarton"
 image = "jim-barton.png"
-sharing_image = "jim-barton.png"
 type = "speaker"
 linktitle = "jim-barton"
 linkedin = "https://www.linkedin.com/in/jameshbarton/"
