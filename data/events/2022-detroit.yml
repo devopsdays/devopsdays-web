@@ -34,10 +34,10 @@ location_address: "460 W Baltimore St, Detroit, MI 48202" #Optional - use the st
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: registration
- # - name: program
- # - name: speakers
+  #- name: program
+  - name: speakers
   - name: location
-  - name: propose
+  #- name: propose
   - name: sponsor
   - name: contact
   - name: conduct
@@ -68,6 +68,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/davebarnett1"
   - name: "Derek DeJonghe"
     bio: "RightBrain Networks"
+    linkedin: "https://www.linkedin.com/in/derekdejonghe/"
   - name: "Hugo Gayosso"
     bio: "Kasten by Veeam"
   - name: "Matt McLane"
@@ -115,4 +116,6 @@ sponsors:
   - id: tonic
     level: gold
   - id: dynatrace
+    level: silver
+  - id: rightbrain
     level: silver
