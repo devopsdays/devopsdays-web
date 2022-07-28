@@ -37,8 +37,9 @@ masthead_background: "eindhoven-bg.jpeg"
 sharing_image: "logo-rectangle.png"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
-    url: https://sessionize.com/devopsdays-eindhoven-2022/
+  # CFP is closed, so remove this link.
+  # - name: propose
+  #   url: https://sessionize.com/devopsdays-eindhoven-2022/
   - name: location
   - name: registration
   # - name: program
