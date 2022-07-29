@@ -10,8 +10,17 @@ Description = "devopsdays Denver 2022"
   <img src="/events/2022-denver/2022-dumpster-logo.jpg" width="300" />
 </div>
 
-{{< event_twitter >}}
 
+{{< event_twitter >}}
+<div class="row">
+  <div class="col-md-2">
+    <strong>Video</strong>
+  </div>
+  <div class="col-md-7">
+    <a href="https://www.youtube.com/watch?v=Zq8FNk8Tboo">Day 1 Replay</a><br>
+    <a href="https://www.youtube.com/watch?v=n3DvKmqhzUo">Day 2 Replay</a>
+  </div>
+</div>
 <div class="row">
   <div class="col-md-2">
     <strong>Dates</strong>
@@ -66,14 +75,14 @@ Description = "devopsdays Denver 2022"
   </div>
 </div> -->
 
-<div class="row">
+<!-- <div class="row">
   <div class="col-md-2">
     <strong>Sponsors</strong>
   </div>
   <div class="col-md-4">
     {{< event_link page="sponsor" text="Sponsor the conference!" >}}
   </div>
-</div>
+</div> -->
 
 <div class="row">
   <div class="col-md-2">
@@ -91,7 +100,7 @@ Description = "devopsdays Denver 2022"
     <div class="row">
       <div class="alert alert-secondary" role="alert">
         <h3>COVID Policy</h3>
-        <p>All attendees, sponsors, and everyone on site must provide results of a negative COVID test within 72 hours of the event, or alternatively provide proof of at least 2 COVID vaccine shots with the last dose performed at least two weeks before the event. We'll be adhering to any local mandates in effect during the event. We ask that anyone sick with COVID or with recent exposure to COVID-positive individuals not attend in person, but instead join us virtually. This can be coordinated through our organizers and will include a refund on the difference in the ticket price.</p>
+        <p>All attendees, sponsors, and everyone on site are encouraged to have up to date COVID Vaccines. We will be adhering to any local mandates in effect during the event. We ask that anyone sick with COVID or with recent exposure to COVID-positive individuals not attend in person, instead join us virtually via livestream. This can be coordinated through our organizers and will include a full refund.</p>
         <p>Please direct questions to {{< email_organizers >}}</p>
       </div>
     </div>

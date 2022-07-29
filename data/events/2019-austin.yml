@@ -146,7 +146,7 @@ sponsors:
     level: gold
   - id: xmatters
     level: gold
-  - id: rundeck
+  - id: rundeck-before-20220308
     level: gold
   - id: signalfx
     level: gold
@@ -200,7 +200,7 @@ sponsors:
     level: mealandsnack
   - id: gravitational
     level: mealandsnack
-  - id: rundeck
+  - id: rundeck-before-202203088
     level: mealandsnack
   - id: devopsdotcom
     level: media

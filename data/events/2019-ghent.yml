@@ -137,7 +137,7 @@ sponsors:
   # silver
   - id: dpg-media
     level: silver
-  - id: gitlab
+  - id: gitlab-before-20220516
     level: silver
   - id: cloudar
     level: silver
@@ -151,7 +151,7 @@ sponsors:
     level: silver
   - id: hashicorp
     level: silver
-  - id: pulumi
+  - id: pulumi-before-20220422
     level: silver
   # bronze
   - id: inuits

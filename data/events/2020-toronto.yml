@@ -75,7 +75,7 @@ sponsors:
     level: gold
   - id: cyberark
     level: gold
-  - id: rundeck
+  - id: rundeck-before-20220308
     level: gold
   - id: shuttleops
     level: gold
@@ -109,7 +109,7 @@ sponsors:
     level: silver
   - id: redhat
     level: gold
-  - id: gitlab
+  - id: gitlab-before-20220516
     level: silver
   - id: splitio
     level: platinum
@@ -117,9 +117,9 @@ sponsors:
     level: gold
   - id: redis-labs
     level: gold
-  - id: splunk
+  - id: splunk-before-20220426
     level: gold
-  - id: splunk
+  - id: splunk-before-20220426
     level: chargingstation
   - id: deloitte
     level: gold

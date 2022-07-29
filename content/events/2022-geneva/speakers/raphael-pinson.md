@@ -8,4 +8,4 @@ linktitle = "raphael-pinson"
 
 +++
 
-Raphaël Pinson is Cloud Native Technology Evangelist and Trainer at Camptocamp, who focuses on automation and the implementation of DevOps practices.
+Solutions Architect at Isovalent

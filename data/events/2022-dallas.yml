@@ -14,9 +14,9 @@ startdate: 2022-08-24T00:00:00-05:00 # The start date of your event. Leave blank
 enddate: 2022-08-25T23:59:59-05:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-# cfp_date_start: 2022-02-22T21:00:00-05:00 # start accepting talk proposals.
-# cfp_date_end: 2022-05-30T18:00:00-05:00 # close your call for proposals.
-# cfp_date_announce: 2022-07-06T18:00:00-05:00 # inform proposers of status
+cfp_date_start: 2022-04-22T21:00:00-05:00 # start accepting talk proposals.
+cfp_date_end: 2022-07-01T18:00:00-05:00 # close your call for proposals.
+cfp_date_announce: 2022-07-27T18:00:00-05:00 # inform proposers of status
 
 cfp_link: "https://www.papercall.io/dod-dfw-2022" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
@@ -37,11 +37,11 @@ location_address: "2000 East Spring Creek Parkway, Plano, TX 75074" #Optional - 
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
-#  - name: propose
+  - name: propose
 #  - name: program
-#  - name: registration
+  - name: registration
 #  - name: speakers
-#  - name: sponsor
+  - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
@@ -74,8 +74,8 @@ team_members: # Name is the only required field for team members.
     image: "jessica-clark.jpg"
 
   - name: "Jessica Sabugo"
-    employer: "Estech Systems, Inc. (ESI)"
-    bio: "Jessica is an automation engineer. She has a deep interest in the DevOps culture and she keeps continuously learning. Her dream is to travel all over the world. She is currently leading the automation and QA team, trying to help her team get involved in the DevOps world."
+    employer: "Istation"
+    bio: "Jessica is a DevOps Engineer. She has a deep interest in the DevOps culture and she keeps continuously learning. Her dream is to travel all over the world. She is currently part of the DevOps team at Istation where she delivers applications that support educators, empower kids and change lives."
     twitter: "jessica_sabugo"
     linkedin: "https://www.linkedin.com/in/jessica-sabugo-581ab658/"
     image: "jessica-sabugo.jpg"
@@ -90,17 +90,10 @@ team_members: # Name is the only required field for team members.
 
   - name: "John-Paul Herold"
     employer: "Southwest Airlines"
-    bio: "John-Paul Herold is an engineer focusing on cloud architectures, tooling for more frequent deployments, container orchestration, improving observability, and building great teams. John-Paul was previously a Java developer, made the transition to Cloud Engineer 6 years ago, and is currently a Tech Lead for Southwest Airlines.<br><br>His path with DevOpsDays started in 2015 when he attended both Dallas and Austin, and has continued every year since. He volunteered for Dallas the first time in 2019, and Dallas 2020 will be his first time as an organizer. <br><br>John-Paul is based in Dallas and has a CSE degree from Southern Methodist University. In his off time he enjoys playing soccer, listening to music, running a homelab, reading tech books, and working on projects in his garage."
+    bio: "John-Paul Herold is an engineering leader focused on continuous learning and building great teams that leverage cloud technology to deliver high-value solutions. Currently his teams are focused on cloud architecture resilency, container orchestration, observability, cost optimization, performance engineering, and developer experience tooling. John-Paul started as a Java developer, transitioned to \"DevOps\" engineer when he realized he could manage servers as cattle [not pets], then cloud engineer which brought him to Southwest Airlines where he later moved into leadership.<br><br>His path with DevOpsDays started in 2015 when he attended both Dallas and Austin, and has continued every year since. He volunteered for DevOpsDays DFW the first time in 2019, was an organizer for DevOpsDays Texas 2021, and returns as an organizer for this year's DFW event.<br><br>John-Paul is based in Dallas and has a CSE degree from Southern Methodist University. In his off time he enjoys playing soccer, listening to music, running a homelab, reading tech books, and working on projects in his garage."
     twitter: "thedailyherold"
     linkedin: "https://www.linkedin.com/in/johnpaulherold/"
     image: "herold.jpg"
-
-  - name: "John Jelinek"
-    employer: "The Container Store"
-    bio: ""
-    twitter: "johnjelinek"
-    linkedin: "https://www.linkedin.com/in/jjelinek/"
-    image: "john.jpg"
 
   - name: "Lee Herrin"
     employer: "Dell EMC"
@@ -118,6 +111,15 @@ team_members: # Name is the only required field for team members.
     github: "https://github.com/mandersen94/"
     image: "mark-andersen.jpg"
 
+  - name: "Mark Saum"
+    employer: "Organizer Role - Leadership / Corporate Outreach / Marketing / Social Media"
+    role: "Fidelis Consulting"
+    bio: "20+ years advising large corporations and fast growth startups in IT architecture and security. <br><br>Mark Saum currently serves as the Chief Information Security Officer of DirectStream, LLC. DirectStream was founded by supercomputing pioneer Seymour Cray and provides a breakthrough supercomputing system and a secure cloud platform. DirectStream's goal is to provide the fastest, most secure computing platform on the planet. In this role, Mr. Saum has overall responsibility for the company’s corporate, hardware and cloud platform security. <br><br>Mr. Saum joined DirectStream from ModoPayments, where he was a co-founder and served as the CIO and CISO.  While at ModoPayments, he was co-inventor of US Patent US20120101887, A System and Method for Managing Merchant-Customer Interactions. He remains as an investor and advisor to ModoPayments. <br><br>Mr. Saum has provided IT consulting through Fidelis Consulting Corporation since 1997. His customers have included IBM, AT&T, General Motors, Sun Microsystems, JPMorganChase, Lucent Technologies, the Intelligence Community, US Cellular, GameStop,  and Verizon Wireless. <br><br>Mr. Saum is an AWS Certified Solutions Architect and holds a B. B. A. in Business Analysis/Management Information Systems from Texas A&M University, College Station."
+    twitter: "msaum"
+    linkedin: "https://www.linkedin.com/in/marksaum/"
+    website: "http://www.fideliscorp.com/"
+    image: "mark.jpg"
+
   - name: "Megan Bohl"
     employer: "NCR Corporation"
     bio: "Megan was our Sponsor Liaison for DevOpsDays DFW 2017, and Volunteer for subsequent years. She is joining the tech community with more than 15 years experience in supply chain operations and marketing in the fashion and consumer goods industries.  Megan has a particular interest in DevOps concepts and is looking forward to expanding her knowledge at DevOpsDays DFW."
@@ -126,19 +128,13 @@ team_members: # Name is the only required field for team members.
     image: "megan.jpg"
 
   - name: "Mike Rosado"
-    employer: "Microsoft"
-    bio: "Mike who is a DevOps Enthusiast and Technical Evangelist works as an Independent Consultant with customers in the United States and throughout Latin America. Mike enjoys sharing his views as it relates to the cultural movement of DevOps and technologies that contribute to the continuous improvement. He enjoys it so much, that he became one of the integral local organizers of DevOpsDays Dallas, [DevOps Live Meetup](https://www.meetup.com/DevOpsLive/), and active Global Core Organizer of [devopsday.org](https://www.devopsdays.org/about).<br><br>As a recognized leader in the DevOps space with exemplary recommendations in the LinkedIn community groups, Mike’s passion in this field shines as he mentors others and enjoys tackling challenges. Mike's vast experience in helping Enterprise customers for 22+ years at Microsoft in various capacity serves as a base as he continues to evolve in this DevOps journey. "
+    employer: "Consultant"
+    bio: "Mike who is a DevOps Enthusiast and Technical Evangelist works as an independent Consultant with customers in the United States and throughout Latin America. Mike enjoys sharing his views as it relates to the cultural movement of DevOps and technologies that contribute to the continuous improvement. He enjoys it so much, that he became one of the integral local organizers of DevOpsDays Dallas, [DevOps Live Meetup](https://www.meetup.com/DevOpsLive/), and active Global Core Organizer of [devopsday.org](https://www.devopsdays.org/about).<br><br>As a recognized leader in the DevOps space with exemplary recommendations in the LinkedIn community groups, Mike’s passion in this field shines as he mentors others and enjoys tackling challenges. Mike's vast experience in helping Enterprise customers for 23+ years at Microsoft in various capacity serves as a base as he continues to evolve in this DevOps journey. "
     twitter: "MikeRosTX"
     linkedin: "https://www.linkedin.com/in/mikerostx/"
     github: "mikerostx"
     image: "mike.jpg"
     website: "https://MikeRosTX.me"
-
-  - name: "Ramesh Venkataramiah"
-    employer: "GladePoint Research Group"
-    bio: "Ramesh is a technology expert with over 20 years of experience and demonstrated ability to architect and build differentiating capabilities, solve complex problems, and lead distributed teams towards shared strategic goals. Recently he is primarily focused on developing data products in data science area with specific emphasis on security/privacy and Predictive Modeling with Machine Learning/AI Tools.   Previously, he served as an Enterprise Architect, with multiple roles in Engineering and Product Development throughout matrix organizations, shared services, and collaborative teams among business units.<br><br>He has provided Hadoop/Spark technology advice to Microsoft Azure, Amazon AWS, T-Systems and Fujitsu networks (private cloud) to implement data science/analytics platforms and implemented Cloudera Hadoop platforms and applications on partner infrastructure by employing devops automation tools and services. As partner development architect, he developed reference architectures for deployment and implementation of Hadoop ecosystem services and optimized for better performance.<br><br>Ramesh is based in Dallas-Fort Worth area and has a Ph. D. from Texas A&M University. In his off time enjoys practicing Yoga, Tai Chi and Martial Arts."
-    linkedin: "https://www.linkedin.com/in/ramesh-venkataramiah-359898a3/"
-    image: "rameshv.jpg"
 
   - name: "Roger Servey"
     employer: "Verizon"
@@ -156,9 +152,15 @@ team_members: # Name is the only required field for team members.
     bio: "Scott Purgerson, was previously a Sr. Sales Executive with Automation Anywhere located in Dallas, Texas. Although born in San Jose, CA, he takes great pride in claiming he’s a Texan, as he’s resided there 97% of his life. Scott has over 16 years of professional experience, comprised of sales and management. He’s very passionate about helping and partnering with others in their digital transformation journey. Scott joined as an organizer for Dallas DevOps Days in 2019. In his downtime, Scott enjoys spending time with his wife, Michelle, and their corgi, Winnie, as well being in the woods, hunting."
     twitter: "PurgersonScott"
     linkedin: "https://www.linkedin.com/in/scott-purgerson-5858224"
-    website: ""
     image: "scott.jpg"
-    
+
+  - name: "Travis Mims"
+    employer: "SailPoint"
+    bio: "Travis is the Site Reliability Engineering Manager at SailPoint and has previously led cloud engineering teams at Blackbaud, Accenture and Trimble Transportation.  He earned his MBA at Texas State University and an undergrad in Computer Science from UT Austin.  Travis is based in Dallas and enjoys volunteering with Boy Scouts and taking his 3 sons on outdoor adventures.<br><br>Travis started his journey with DevOps at DevOpsDays Austin in 2015 and has volunteered at DevOpsDays events in Austin, Denver and DFW. He loves meeting new people and hearing their DevOps journey stories at conferences.  He is excited to join the DevOpsDays DFW Organizers to help make a great event for 2022."
+    twitter: "https://twitter.com/travismims"
+    linkedin: "https://www.linkedin.com/in/travismims"
+    image: "travis.jpg"
+
 # - name: ""
 #   employer: "Organizer Role - "
 #   role: ""
@@ -170,7 +172,6 @@ team_members: # Name is the only required field for team members.
 #   github: ""
 #   image: ".jpg"  
 
-
 organizer_email: "dallas@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
@@ -181,14 +182,34 @@ sponsors:
 #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 #  - id: solarwinds
 #    level: platinum
+  - id: capitalone
+    level: platinum
   - id: appdynamics
     level: gold
-#  - id: chef
-#    level: gold
-#  - id: xmatters
-#    level: gold
+  - id: xmatters
+    level: gold
   - id: launch-darkly
     level: gold
+  - id: linearb
+    level: gold
+  - id: styra
+    level: gold
+  - id: sleuth
+    level: gold
+  - id: roostai
+    level: gold
+  - id: spectrocloud
+    level: gold
+  - id: cprime
+    level: gold
+  - id: env0
+    level: silver
+  - id: opscruise
+    level: silver   
+  - id: clumio
+    level: silver 
+  - id: phoenixnap
+    level: silver 
   - id: arresteddevops
     level: media
   - id: devopslive

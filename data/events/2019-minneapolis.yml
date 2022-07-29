@@ -139,7 +139,7 @@ sponsors:
     level: gold
   - id: vmware
     level: platinum
-  - id: ahead
+  - id: ahead-before-20220407
     level: platinum
   - id: sysdig-before-20200210
     level: silver
@@ -169,7 +169,7 @@ sponsors:
     level: silver
   - id: keyva
     level: silver
-  - id: gitlab
+  - id: gitlab-before-20220516
     level: gold
   - id: mesosphere
     level: gold

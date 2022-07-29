@@ -46,7 +46,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: redhat-before-20190528
     level: gold
-  - id: ahead
+  - id: ahead-before-20220407
     level: gold
   - id: victorops-before-20180823
     level: silver

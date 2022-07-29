@@ -131,11 +131,11 @@ sponsors:
     level: gold
   - id: scalyr
     level: gold
-  - id: pulumi
+  - id: pulumi-before-20220422
     level: silver
   - id: dynatrace
     level: gold
-  - id: catchpoint
+  - id: catchpoint-before-20220331
     level: gold
   - id: chef-before-20210112
     level: gold

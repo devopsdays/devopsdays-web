@@ -79,7 +79,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: silver
   - id: xmatters
     level: gold
-  - id: confluent
+  - id: confluent-before-20220426
     level: bronze
   - id: waffleio
     level: alt

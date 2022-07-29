@@ -1,4 +1,6 @@
 +++
+City = "Amsterdam"
+Year = "2022"
 Title = "Registration"
 Type = "event"
 Description = "Registration for devopsdays Amsterdam 2022"
@@ -13,9 +15,23 @@ Description = "Registration for devopsdays Amsterdam 2022"
 <br>
 <br>
 
-<div class = "col-md-12">
-<iframe src="https://eventbrite.com/tickets-external?eid=255486305417&ref=etckt" frameborder="0" height="500" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
-<div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;" >
-<a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="https://www.eventbrite.com/">Powered by Eventbrite</a>
-</div>
-</div>
+<div id="eventbrite-widget-container-255486305417"></div>
+
+<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+
+<script type="text/javascript">
+    var exampleCallback = function() {
+        console.log('Order complete!');
+    };
+
+    window.EBWidgets.createWidget({
+        // Required
+        widgetType: 'checkout',
+        eventId: '255486305417',
+        iframeContainerId: 'eventbrite-widget-container-255486305417',
+
+        // Optional
+        iframeContainerHeight: 600,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+    });
+</script>

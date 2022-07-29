@@ -98,15 +98,29 @@ sponsors:
     level: gold
   - id: codeclimate
     level: gold
-    id: confluent
+  - id: confluent
     level: gold
-  - id: edge-delta
+  - id: cloudbees
+    level: gold
+  - id: d2iq
+    level: gold
+  - id: edge-delta-before-20220412
+    level: gold
+  - id: era
+    level: gold
+  - id: gitlab
     level: gold
   - id: gremlin
+    level: gold
+  - id: jackpocket
     level: gold
   - id: lightstep
     level: gold
   - id: linearb
+    level: gold
+  - id: nirmata
+    level: gold
+  - id: rootly
     level: gold
   - id: solo
     level: gold
@@ -122,8 +136,12 @@ sponsors:
     level: gold
   - id: blameless
     level: silver
+  - id: buildkite
+    level: silver
   - id: slimai
     level: silver
+  - id: sonatype
+    level: gold
   - id: scale
     level: community
     url: https://www.socallinuxexpo.org/scale/19x

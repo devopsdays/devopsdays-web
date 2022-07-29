@@ -51,21 +51,21 @@ Sponsorship to be negotiated
       </td>
       <td style="padding: 5px" align="center" valign="top"><b>Gold</b><br>10 Left<br><br><br>
 </td>
-      <td style="padding: 5px" align="center" valign="top"><b>Platinum</b><br>5 Left<br><br><br>
+      <td style="padding: 5px" align="center" valign="top"><b>Platinum</b><br>2 Left<br><br><br>
 </td>
-      <td style="padding: 5px" align="center" valign="top"><b>Diamond</b><br>2 Left<br><br><br>
+      <td style="padding: 5px" align="center" valign="top"><b>Diamond</b><br>1 Left<br><br><br>
 </td>
     </tr>
     <tr>
       <td>Price</td>
       <td style="padding: 5px" align="center">$750</td>
       <td style="padding: 5px" align="center">$2,500</td>
-      <td style="padding: 5px" align="center">$7,500</td> 
+      <td style="padding: 5px" align="center">$5,000</td> 
     </tr>
     <tr>
       <td>Included Tickets</td>
       <td style="padding: 5px" align="center">2</td>
-      <td style="padding: 5px" align="center">5</td>
+      <td style="padding: 5px" align="center">4</td>
       <td style="padding: 5px" align="center">20</td>
     </tr>
     <tr>
