@@ -296,7 +296,7 @@ sponsor_levels:
     label: Silver
     max: 10
   - id: happyhour
-    label: Happy Hour
+    label: "Happy Hour"
     max: 2
   - id: coffee
     label: Coffee Bar
