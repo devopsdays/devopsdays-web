@@ -141,7 +141,7 @@ sponsors:
 #    level: silver
 #  - id: teleport
 #    level: gold
-#  - id: gitlab
+#  - id: gitlab-before-20220516
 #    level: gold
 #  - id: phoenixnap
 #    level: silver
@@ -153,7 +153,7 @@ sponsors:
 #    level: gold
 #  - id: redhat
 #    level: bronze
-#  - id: influxdata
+#  - id: influxdata-before-20220629
 #    level: gold
 
 

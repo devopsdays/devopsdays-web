@@ -258,6 +258,7 @@ img.sponsor {
 }
 
 .homepage-grid-city a {
+  word-break: break-word;
   color: #000000;
 }
 
@@ -303,12 +304,10 @@ div.panel {
 h2.speaker-page {
   font-size: 2em;
   font-weight: 700;
-  text-transform: capitalize;
 }
 h3.speaker-page {
   font-size: 1.5em;
   font-weight: 300;
-  text-transform: capitalize;
 }
 img.speaker-page {
   margin-top: 20px;
@@ -332,12 +331,10 @@ img.speaker-page {
 h2.speakers-page {
   font-size: 2em;
   font-weight: 700;
-  text-transform: capitalize;
 }
 h3.speakers-page {
   font-size: 1.5em;
   font-weight: 300;
-  text-transform: capitalize;
 }
 img.speakers-page {
   margin-top: 20px;
@@ -363,7 +360,6 @@ h2.talk-page {
 h3.talk-page {
   font-size: 1.5em;
   font-weight: 300;
-  text-transform: capitalize;
 }
 
 h1.welcome-page {

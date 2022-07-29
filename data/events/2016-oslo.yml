@@ -3,8 +3,8 @@ year: "2016" # The year of the event. Make sure it is in quotes.
 city: "Oslo" # The city name of the event. Capitalize it.
 
 # All dates are in unquoted 2016-MM-DD, like this:   variable: 2016-01-05
-startdate: 2016-09-05  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2016-09-06  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2016-09-05 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2016-09-06 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2016-03-18 # start accepting talk proposals.
 cfp_date_end: 2016-05-29 # close your call for proposals.
@@ -17,11 +17,10 @@ location: "Gamle Museet / The Old Museum" # Defaults to city, but you can make i
 #
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- 
   - name: program
   - name: speakers
   - name: propose
-#    url: https://devopsdaysoslo.typeform.com/to/N46Faw # The url setting is optional, and only if you want the navigation to link off-site
+  #    url: https://devopsdaysoslo.typeform.com/to/N46Faw # The url setting is optional, and only if you want the navigation to link off-site
   - name: location
   - name: registration
   - name: sponsor
@@ -31,56 +30,56 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Stein Inge Morisbak"
-#    twitter: "steinim"
-#    employer: "Bekk Consulting"
+  #    twitter: "steinim"
+  #    employer: "Bekk Consulting"
   - name: "Anton Babenko"
-#    twitter: ""
-#    employer: ""
+  #    twitter: ""
+  #    employer: ""
   - name: "Thuy Nguyen"
-#    twitter: ""
-#    employer: ""
+  #    twitter: ""
+  #    employer: ""
   - name: "Cosimo Streppone"
-#    twitter: ""
-#    employer: ""
+  #    twitter: ""
+  #    employer: ""
   - name: "Lars Tobias Skjong-Børsting"
-#    twitter: ""
-#    employer: "Posten Norge"
+  #    twitter: ""
+  #    employer: "Posten Norge"
   - name: "Mike Long"
-#    twitter: ""
-#    employer: "Praqma"
+  #    twitter: ""
+  #    employer: "Praqma"
   - name: "Stefan Landrø"
-#    twitter: ""
-#    employer: "Bekk Consulting"
+  #    twitter: ""
+  #    employer: "Bekk Consulting"
   - name: "Sveinung Dalatun"
-#    twitter: ""
-#    employer: "Bekk Consulting"
+  #    twitter: ""
+  #    employer: "Bekk Consulting"
   - name: "Kjetil Valle"
-#    twitter: ""
-#    employer: "Bekk Consulting"
+  #    twitter: ""
+  #    employer: "Bekk Consulting"
   - name: "Nikolai Norman Andersen"
-#    twitter: ""
-#    employer: "Bekk Consulting"
+  #    twitter: ""
+  #    employer: "Bekk Consulting"
   - name: "Torstein Gjengedal"
-#    twitter: ""
-#    employer: "Bekk Consulting"
+  #    twitter: ""
+  #    employer: "Bekk Consulting"
   - name: "Torstein Nicolaysen"
-#    twitter: ""
-#    employer: "Bekk Consulting"
+  #    twitter: ""
+  #    employer: "Bekk Consulting"
   - name: "Jan Ivar Beddari"
-#    twitter: ""
-#    employer: ""
+  #    twitter: ""
+  #    employer: ""
   - name: "Andreas Heim"
-#    twitter: ""
-#    employer: "Unacast"
+  #    twitter: ""
+  #    employer: "Unacast"
   - name: "Anders Bruvik"
-#    twitter: ""
-#    employer: ""
+  #    twitter: ""
+  #    employer: ""
   - name: "Christer Løvås"
-#    twitter: ""
-#    employer: "Bekk Consulting"
+  #    twitter: ""
+  #    employer: "Bekk Consulting"
   - name: "Bertrand Besnard"
-#    twitter: ""
-#    employer: "Sopra Steria"
+  #    twitter: ""
+  #    employer: "Sopra Steria"
   - name: "Jan Henrik Gundelsby"
 #    twitter: ""
 #    employer: "Knowit"
@@ -106,7 +105,7 @@ sponsors:
     level: gold
   - id: atlassian-before-20171216
     level: gold
-  - id: stackstate
+  - id: stackstate-before-22062022
     level: gold
   - id: soprasteria
     level: gold
@@ -146,7 +145,6 @@ speakers:
     level: talk
   - id: "mari-grini"
     level: talk
-
 
 speaker_levels:
   - id: talk

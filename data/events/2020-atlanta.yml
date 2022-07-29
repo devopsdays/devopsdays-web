@@ -111,7 +111,7 @@ sponsors:
     level: gold
   - id: contrast_security
     level: gold
-  - id: appdynamics
+  - id: appdynamics-before-20220714
     level: gold
   - id: chef-before-20210112
     level: gold
@@ -119,7 +119,7 @@ sponsors:
     level: gold
   - id: fastly
     level: gold
-  - id: gitlab
+  - id: gitlab-before-20220516
     level: silver
   - id: armory
     level: silver

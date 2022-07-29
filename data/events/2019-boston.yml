@@ -100,7 +100,7 @@ sponsors:
     level: platinum
   - id: victorops
     level: platinum
-  - id: influxdata
+  - id: influxdata-before-20220629
     level: platinum
   - id: klaviyo
     level: platinum
@@ -111,9 +111,9 @@ sponsors:
     level: gold
   - id: arresteddevops
     level: community
-  - id: googlecloud
+  - id: googlecloud-before-20220526
     level: platinum
-  - id: appdynamics
+  - id: appdynamics-before-20220714
     level: platinum
   - id: cloudbees-before-20210804
     level: platinum

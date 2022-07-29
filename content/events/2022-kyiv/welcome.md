@@ -1,26 +1,15 @@
 +++
-Title = "devopsdays Kyiv 2022"
+Title = "DevOpsDays #StandWithUkraine"
 Type = "welcome"
-aliases = [
-  "/events/2022-kiev",
-  "/events/2022-kiev/",
-  "/events/2022-kiev/location/",
-  "/events/2022-kiev/propose/",
-  "/events/2022-kiev/registration/",
-  "/events/2022-kiev/sponsor/",
-  "/events/2022-kyiv",
-  "/events/2022-kyiv/",
-  "/events/2022-kyiv/location/",
-  "/events/2022-kyiv/propose/",
-  "/events/2022-kyiv/registration/",
-  "/events/2022-kyiv/sponsor/"
-]
-Description = "devopsdays Kyiv 2022"
+aliases = ["/events/2022-kiev", "/events/2022-kyiv/", "/events/2022-ukraine/"]
+Description = "DevOpsDays #StandWithUkraine"
 +++
 
+### Devopsdays [#StandWithUkraine](https://twitter.com/hashtag/StandWithUkraine)
 <div class="alert alert-danger" role="alert">
-  Due to the global situation around Omicron, Devopsdays Kyiv has been canceled for 2022.
-</div>
+   DevOpsDays Ukraine 2022 is now a charity edition of the conference with all proceeds going toward local, Ukrainian-led humanitarian causes.
+
+   The most up to date information on the event and speakers can be found at [https://devopsdays.com.ua/](https://devopsdays.com.ua/).</div>
 <div style="text-align:center;">
   {{< event_logo >}}
   <p></p>
@@ -71,14 +60,23 @@ Description = "devopsdays Kyiv 2022"
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
-    Check out the {{< event_link page="speakers" text="speakers!" >}}
+    Check out the <a href = "https://devopsdays.com.ua/#speakers">speakers</a>!
   </div>
-</div> -->
+</div>
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Donate</strong>
+  </div>
+  <div class = "col-md-8">
+    <a href = "https://devopsdays.com.ua/#donation">Donate</a> to show your support!
+  </div>
+</div>
 
 <div class = "row">
   <div class = "col-md-2">

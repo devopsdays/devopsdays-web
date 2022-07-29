@@ -100,7 +100,7 @@ proposal_email: "proposals-minneapolis-2018@devopsdays.org" # Put your proposal 
 sponsors:
   - id: arresteddevops
     level: community
-  - id: influxdata
+  - id: influxdata-before-20220629
     level: silver
   - id: dynatrace
     level: silver
@@ -124,7 +124,7 @@ sponsors:
     level: silver
   - id: velocity
     level: community
-  - id: hackthegap
+  - id: hackthegap-before-20220707
     level: community
   - id: softwaredefinedtalk
     level: community
@@ -136,7 +136,7 @@ sponsors:
     level: community
   - id: solutiondesign
     level: silver
-  - id: aheadpuppet
+  - id: ahead-before-20220407puppet
     level: platinum
   - id: sumologic-before-20181203
     level: gold
@@ -146,7 +146,7 @@ sponsors:
     level: gold
   - id: sps_commerce
     level: alacarte
-  - id: rundeck
+  - id: rundeck-before-20220308
     level: gold
   - id: signalfx
     level: platinum

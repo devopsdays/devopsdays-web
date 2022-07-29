@@ -9,9 +9,13 @@ description = "Interested in sponsoring DevOpsDays Dallas 2022? We greatly value
   <img alt="DevOpsDays Dallas 2022" src="/events/2022-dallas/sponsorship.png" style="max-width: 65%;">
 <div class = "row">
 <div class = "col-md-8 col-sm-12">
+<br><br>
+We greatly value sponsors for this community event. If you are interested in sponsoring, please check out our prospectus below. If you need a soft copy of our prospectus, click here to <a href="https://assets.devopsdays.org/events/2022/dallas/DevOpsDaysDallas2022Sponsorships.pdf" target="_blank"><strong>download PDF</strong></a> or <a href="mailto:dallas@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Dallas%202022"><strong>send us an email</strong></a>.
 <br>
-We greatly value sponsors for this community event. If you are interested in sponsoring, please check out our prospectus below. If you need a soft copy of our prospectus, click here to <a href="https://assets.devopsdays.org/events/2020/dallas/devopsdays_dallas_2020_sponsorships.pdf" target="_blank"><strong>download PDF</strong></a> or <a href="mailto:dallas@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Dallas%202022"><strong>send us an email</strong></a>.
+<hr>
+<h4><a href="https://assets.devopsdays.org/events/2022/dallas/DevOpsDaysDallasSponsorGuide2022.pdf" target="_blank">Sponsor Guide 2022</a></h4>
 
+<h4><a href="https://assets.devopsdays.org/events/2022/dallas/DevOpsDaysDallasSponsorFAQ2022.pdf" target="_blank">Sponsors FAQ 2022</a></h4>
 <hr>
 
 DevOpsDays is a self-organizing conference for DevOps practitioners that depends on your sponsorships. We do not have a traditional trade show conference floor, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during, and after the event. Sponsors are encouraged to participate and engage with the attendees as peers.
@@ -36,9 +40,9 @@ Please email the organizers at <a href="mailto:dallas@devopsdays.org?subject=Gen
   <tbody>
     <tr>
       <td colspan="2">Price</td>
-      <td>$12,000</td>
-      <td>$8,000</td>
-      <td>$4,000</td>
+      <td>$14,500</td>
+      <td>$9,500</td>
+      <td>$6,000</td>
     </tr>
     <tr>
       <td colspan="2"></td>
@@ -49,19 +53,20 @@ Please email the organizers at <a href="mailto:dallas@devopsdays.org?subject=Gen
     </tr>
     <tr>
       <td colspan="2"></td>
-      <td>
-        <!-- platinum Paypal button --> 
+      <td><img src = "/events/2022-dallas/not_available.png">
+        <!-- platinum Paypal button
         <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
           <input type="hidden" name="cmd" value="_s-xclick">
           <input type="hidden" name="hosted_button_id" value="GNR4HVH2BR4UA">
           <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
           <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
         </form>
-        <!-- <a href="mailto:dallas@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Dallas%202020">Contact us</a> -->
+        <!-- <a href="mailto:dallas@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Dallas%202022">Contact us</a> -->
       </td>
       <td>
+        <img src = "/events/2022-dallas/not_available.png">
         <!-- gold Paypal button -->
-        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+        <!--- <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
           <input type="hidden" name="cmd" value="_s-xclick">
           <input type="hidden" name="hosted_button_id" value="QGEFGDR6XFRP2">
           <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
@@ -70,13 +75,14 @@ Please email the organizers at <a href="mailto:dallas@devopsdays.org?subject=Gen
         <!-- <a href="mailto:dallas@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20dDallas%202020">Contact us</a> -->
       </td>
       <td>
+      <img src = "/events/2022-dallas/not_available.png">
         <!-- silver Paypal button -->
-        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+        <!-- <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
           <input type="hidden" name="cmd" value="_s-xclick">
           <input type="hidden" name="hosted_button_id" value="MCC6ADNWPHTGC">
           <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
           <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-        </form> 
+        </form> -->
       </td>
     <tr>
       <td colspan="2">Tickets Included</td>
@@ -85,7 +91,7 @@ Please email the organizers at <a href="mailto:dallas@devopsdays.org?subject=Gen
       <td>1</td>      
     </tr>
     <tr>
-      <td colspan="2">Logo on DevOpsDays Dallas 2020 event website</td>
+      <td colspan="2">Logo on DevOpsDays Dallas 2022 event website</td>
       <td><img src = "/events/2022-dallas/boot.png"></td>
       <td><img src = "/events/2022-dallas/boot.png"></td>
       <td><img src = "/events/2022-dallas/boot.png"></td>
@@ -206,39 +212,20 @@ All Media / Community sponsors are entities we value as pillars of continuous le
     <tr>
       <td align="center"><i class="fa fa-music fa-4x"></i></td>
       <td>Happy Hour</td>
-      <td>$6,000</td>
+      <td align="center">$10,000
+        <br><br>
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+            <input type="hidden" name="cmd" value="_s-xclick">
+            <input type="hidden" name="hosted_button_id" value="7N7YJXNS9X9JS">
+            <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+            <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+          </form> 
+      </td>
       <td>Happy Hour will be held both evenings of the event. All conference attendees will be invited to a happy hour. The Happy Hour sponsorship includes some special perks not listed in the table above.
           <ul class="fa-ul">
-            <li><i class="fa-li fa fa-check-square"></i>One sponsorship available for each day of the conference.</li>
+            <li><i class="fa-li fa fa-check-square"></i>Two (2) sponsorships are available, one for each day of the conference.</li>
             <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on a shared slide, rotating during breaks.</li>
-            <li><i class="fa-li fa fa-check-square"></i>Logo and branding recognizing the sponsorship of the Happy Hour.</li>
-            <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on the DevOpsDays Dallas 2022 event website.</li>
-            <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on all email communication.</li>
-            <li><i class="fa-li fa fa-check-square"></i>All beverages to be served are included in the price.</li></td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td align="center"><img src = "/events/2022-dallas/fa-backpack.png"></td>
-      <td>Backpack</td>
-      <td>$6,000</td>
-      <td>
-          <ul class="fa-ul">
-            <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on a shared slide, rotating during breaks.</li>
-            <li><i class="fa-li fa fa-check-square"></i>Logo and branding will be placed on the conference backpacks that are provided to all attendees.</li>
-            <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on the DevOpsDays Dallas 2022 event website.</li>
-            <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on all email communication.</li>
-            <li><i class="fa-li fa fa-check-square"></i>The purchase of backpacks is included in the price.</li></td>
-      <td>1</td>
-    </tr>
-        <tr>
-      <td align="center"><i class="fa fa-coffee fa-4x"></i></td>
-      <td>Coffee Bar</td>
-      <td>$6,000</td>
-      <td>A custom high-end coffee bar will be available in a large lounge area during the event. All conference attendees will be invited to receive a coffee. The attendees must get a ticket by interacting with a vendor to receive a free coffee.
-          <ul class="fa-ul">
-            <li><i class="fa-li fa fa-check-square"></i>One sponsorship available for each day of the conference.</li>
-            <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on a shared slide, rotating during breaks.</li>
-            <li><i class="fa-li fa fa-check-square"></i>Logo and branding recognizing the sponsorship of the Happy Hour.</li>
+            <li><i class="fa-li fa fa-check-square"></i>Logo and branding recognizing the sponsorship of the happy hour.</li>
             <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on the DevOpsDays Dallas 2022 event website.</li>
             <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on all email communication.</li>
             <li><i class="fa-li fa fa-check-square"></i>All beverages to be served are included in the price.</li></td>
@@ -246,53 +233,48 @@ All Media / Community sponsors are entities we value as pillars of continuous le
     </tr>
     <tr>
       <td align="center"><i class="fa fa-id-badge fa-4x"></i></td>
-      <td>Lanyard</td>
-      <td>$3,000</td>
+      <td>Lanyards</td>
+      <td align="center">$5,000
+      <br><br>
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+            <input type="hidden" name="cmd" value="_s-xclick">
+            <input type="hidden" name="hosted_button_id" value="9WSW86ACTY3JW">
+            <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+            <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+          </form> 
+      </td>
       <td>
           <ul class="fa-ul">
+            <li><i class="fa-li fa fa-check-square"></i>One (1) sponsorship is available.</li>
             <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on a shared slide, rotating during breaks.</li>
             <li><i class="fa-li fa fa-check-square"></i>Logo and branding will be placed on the conference backpacks that are provided to all attendees.</li>
             <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on the DevOpsDays Dallas 2022 event website.</li>
             <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on all email communication.</li>
-            <li><i class="fa-li fa fa-check-square"></i>The purchase of lanyards is included in the price.</li></td>      <td>1</td>
-    </tr>
-    <tr>
-      <td align="center"><i class="fa fa-plug fa-4x"></i></td>
-      <td>Branded Charging Kiosk with Lockers (Locker Power)</td>
-      <td>$1,500</td>
-      <td>A vendor may rent from DevOpsDays DFW their own secure charging kiosk tower for mobile devices with company logos to place in the lounge area during the event.  
-          <ul class="fa-ul">
-            <li><i class="fa-li fa fa-check-square"></i>One sponsorship available for each charging station deployed throughout the venue.</li>
-            <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on a shared slide, rotating during breaks. Also on the kiosk screen.</li>
-            <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on the DevOpsDays Dallas 2022 event website.</li>
-            <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on all email communication.</li>
-            <li><i class="fa-li fa fa-check-square"></i>Secure Charging Kiosk with Lockers (8 bays Locker Power) is provided and included in the price.</li></td>
-      <td>5</td>
-    </tr>
-<!--  <tr>
-      <td align="center"><i class="fa fa-car fa-4x"></i></td>
-      <td>Transportation</td>
-      <td>$3,000</td>
-      <td>Sponsor a custom Lyft code for participants</td>
-      <td>0</td>
+            <li><i class="fa-li fa fa-check-square"></i>The purchase of lanyards is included in the price.</li></td>
       <td>1</td>
     </tr>
     <tr>
-      <td align="center"><i class="fa fa-cutlery fa-4x"></i></td>
-      <td>Meals & Snack</td>
-      <td>$6,000</td>
-      <td>Your logo on buffet lines and a dedicated space in lunch area</td>
-      <td>6</td>
+      <td align="center"><i class="fa fa-coffee fa-4x"></i></td>
+      <td>Coffee Bar</td>
+      <td align="center">$5,000
+      <br><br>
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+            <input type="hidden" name="cmd" value="_s-xclick">
+            <input type="hidden" name="hosted_button_id" value="6A439ZJ9AC5U4">
+            <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+            <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+          </form> 
+      </td>
+      <td>A custom high-end coffee bar will be available in a large lounge area during the event. All conference attendees will be invited to receive a coffee. The attendees must get a ticket by interacting with a vendor to receive a free coffee.
+          <ul class="fa-ul">
+            <li><i class="fa-li fa fa-check-square"></i>Two (2) sponsorships are available, one for each day of the conference.</li>
+            <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on a shared slide, rotating during breaks.</li>
+            <li><i class="fa-li fa fa-check-square"></i>Logo and branding recognizing the sponsorship of the Happy Hour.</li>
+            <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on the DevOpsDays Dallas 2022 event website.</li>
+            <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on all email communication.</li>
+            <li><i class="fa-li fa fa-check-square"></i>All beverages to be served are included in the price.</li></td>
       <td>2</td>
     </tr>
-    <tr>
-      <td align="center"><i class="fa fa-heart fa-4x"></i></td>
-      <td>Scholarships</td>
-      <td>Varies</td>
-      <td>Provide tickets for under-indexed groups to attend</td>
-      <td>5</td>
-      <td></td>
-    </tr>  -->
   </tbody>
 </table>
   <br/>

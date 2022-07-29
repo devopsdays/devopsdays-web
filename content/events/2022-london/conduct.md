@@ -5,7 +5,7 @@ Description = "Code of conduct for devopsdays London 2022"
 +++
 
 
-All attendees, speakers, sponsors, and volunteers at devopsdays London 2020 are required to agree with the following code of conduct. Organizers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensure a safe environment for everybody.
+All attendees, speakers, sponsors, and volunteers at devopsdays London 2022 are required to agree with the following code of conduct. Organizers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensure a safe environment for everybody.
 
 ### The Quick Version
 
@@ -21,7 +21,7 @@ If a participant engages in harassing behavior, the conference organizers may ta
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately.
 
-Conference staff can be identified by distinct staff t-shirts. Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
+Conference staff can be identified. Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
 
 We expect participants to follow these rules at conference and workshop venues and conference-related social events.
 

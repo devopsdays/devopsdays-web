@@ -157,7 +157,7 @@ sponsor_levels:
     label: Community
 
 sponsors:
-  - id: appdynamics
+  - id: appdappdynamics-before-20220714
     level: platinum
   - id: fearless
     level: platinum
@@ -181,13 +181,13 @@ sponsors:
     level: platinum
   - id: cloudbolt
     level: platinum
-  - id: googlecloud
+  - id: googlecloud-before-20220526
     level: platinum
   - id: jfrog
     level: platinum
   - id: onyx-point
     level: gold
-  - id: gitlab
+  - id: gitlab-before-20220516
     level: gold
   - id: signalfx
     level: gold

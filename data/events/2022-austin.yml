@@ -37,14 +37,15 @@ location: "Etter-Harbin Alumni Center" # Defaults to city, but you can make it t
 location_address: "2110 San Jacinto Boulevard, Austin, Texas 78712" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+  # - name: propose
+  - name: schedule
   - name: registration
- # - name: program
- # - name: speakers
-  - name: sponsor
+  - name: speakers
   - name: location
   - name: contact
+  - name: sponsor
   - name: conduct
+  - name: covid
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -227,6 +228,12 @@ sponsors:
 sponsors:
   - id: sixnines
     level: happyhour
+  - id: spectrocloud
+    level: happyhour
+  - id: codefresh
+    level: happyhour
+  - id: microsoft
+    level: happyhour
   - id: liatrio
     level: platinum
   - id: linearb
@@ -255,14 +262,14 @@ sponsors:
     level: gold
   - id: squaredup
     level: gold
-  - id: mondoo
+  - id: mondoo-before-20220615
     level: lanyard
   - id: texasmutual
     level: coffee
   - id: techstronggroup
     level: media
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For

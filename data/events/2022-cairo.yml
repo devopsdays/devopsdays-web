@@ -14,12 +14,12 @@ startdate: 2022-09-22T00:00:00+02:00
 enddate: 2022-09-22T23:59:59+02:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2021-05-24T00:00:00+02:00 # start accepting talk proposals.
-cfp_date_end: 2021-07-31T00:00:00+02:00 # close your call for proposals.
+cfp_date_start: 2022-06-14T00:00:00+02:00 # start accepting talk proposals.
+cfp_date_end: 2022-08-13T00:00:00+02:00 # close your call for proposals.
 cfp_date_announce: # inform proposers of status
 
-cfp_open: "false"
-cfp_link: "https://www.papercall.io/cairo2021" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_open: "true"
+cfp_link: "https://www.papercall.io/cairo2022" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: # close registration. Leave blank if registration is not open yet.
@@ -34,11 +34,11 @@ coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a 
 location: "" # Defaults to city, but you can make it the venue name.
 
 
-location_address: "Online Event! Stay Safe!" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "Hyprid! In Cairo & Partially Online Event!" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-#  - name: propose
-#  - name: location
+  - name: propose
+  - name: location
 #  - name: local
 #  - name: registration
 #    url: https://www.secc.org.eg/Event_Registration.asp
@@ -85,8 +85,6 @@ sponsors:
  - id: egyptinnovate
    level: community
  - id: tiec
-   level: community
- - id: amecse
    level: community
    
  #- id: egyptinnovate

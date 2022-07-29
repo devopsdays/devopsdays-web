@@ -121,7 +121,7 @@ sponsors:
     level: gold
   - id: datadog
     level: gold
-  - id: influxdata
+  - id: influxdata-before-20220629
     level: gold
   - id: mongodb
     level: gold
@@ -139,7 +139,7 @@ sponsors:
     level: gold
   - id: firemon
     level: silver
-  - id: gitlab
+  - id: gitlab-before-20220516
     level: silver
   - id: hostgator
     level: silver

@@ -104,7 +104,7 @@ sponsors:
 #    level: gold
   - id: principal
     level: gold
-  - id: appdynamics
+  - id: appdynamics-before-20220714
     level: gold
   - id: dice
     level: gold
@@ -116,7 +116,7 @@ sponsors:
     level: social
   - id: leantechniques
     level: social
-  # - id: ahead
+  # - id: ahead-before-20220407
   #   level: gold
   #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
  

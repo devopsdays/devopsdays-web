@@ -20,7 +20,7 @@ Here we will provide you with information about the venue including address, map
 <!-- Uncomment this only if you have set the coordinates for your location in the config yaml. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html -->
 <!-- {{< event_map >}} -->
 <br>
-If you are traveling to attend this event, the Plano Event Center is approximately a 45 minute drive from the DFW Airport via President George Bush Turnpike (East).  Here is a list of hotels and their distance from the hotel to the vecinity of the Plano Event Center for your convenience: **[More information about Hotels, click here.](http://www.hotels-for-everyone.com/area/Plano,+TX+75074,+USA/33.0787152/-96.8083063?spec=1&checkIn=08/20/2019&checkOut=08/21/2010&adults_1=1&c=USD&l=eng&i=3&sort=7)** 
+If you are traveling to attend this event, the Plano Event Center is approximately a 45-minute drive from the DFW Airport via President George Bush Turnpike (East). Here is a list of hotels and their distance from the hotel to the vicinity of the Plano Event Center for your convenience: More information about hotels in this area, <a href="https://www.hotelplanner.com/zip/Plano-TX-hotels-in-75074#dir-bar"><strong>click here</strong></a>. 
 <br>
 <br>
 <!-- Go to www.addthis.com/dashboard to customize your tools -->

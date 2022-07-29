@@ -100,7 +100,7 @@ organizer_email: "houston@devopsdays.org" # Put your organizer email address her
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: gitlab
+  - id: gitlab-before-20220516
     level: gold
   - id: launch-darkly-before-20200828
     level: gold
@@ -108,9 +108,9 @@ sponsors:
     level: gold
   - id: abs
     level: corporate
-  - id: influxdata
+  - id: influxdata-before-20220629
     level: platinum
-  - id: appdynamics
+  - id: appdynamics-before-20220714
     level: gold
   - id: datadog
     level: gold
