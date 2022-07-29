@@ -255,8 +255,8 @@ sponsors:
     level: silver
 #  - id: redgate
 #    level: silver
-#  - id: edgedelta
-#    level: happyhour
+  - id: edgedelta
+    level: happyhour
   - id: arresteddevops
     level: media
   - id: devopslive
