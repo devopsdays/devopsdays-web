@@ -1,6 +1,6 @@
 +++
 Title = "Michelle Dhanani"
-Twitter = "michellenoorali"
+Twitter = "michelledhanani"
 image = "michelle-dhanani.png"
 type = "speaker"
 linktitle = "michelle-dhanani"
