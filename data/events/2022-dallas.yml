@@ -253,6 +253,10 @@ sponsors:
     level: silver
   - id: zoho
     level: silver
+#  - id: redgate
+#    level: silver
+  - id: edge-delta
+    level: happyhour
   - id: arresteddevops
     level: media
   - id: devopslive
@@ -291,9 +295,12 @@ sponsor_levels:
   - id: silver
     label: Silver
     max: 10
+  - id: happyhour
+    label: "Happy Hour"
+    max: 2
   - id: coffee
     label: Coffee Bar
-#   max: 3
+    max: 2
 # - id: bronze
 #   label: Bronze
 #   max: 0 # This is the same as omitting the max limit.
