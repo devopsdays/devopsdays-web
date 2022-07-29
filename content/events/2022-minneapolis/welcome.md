@@ -60,7 +60,7 @@ Description = "devopsdays Minneapolis 2022"
   </div>
   <div class = "col-md-8">
     <a href="https://docs.google.com/spreadsheets/d/1D9VnfOUHL2pu0USgECvbJTHeHrO-x_EW5Yq8w1mrPoI">Daily Open Spaces Schedule</a> & 
-    <a href="https://join.slack.com/t/devopsmsp/shared_invite/zt-sofs4r0n-c2nZdDtQ_B9rJRZPDYc28w">Join us on Slack!</a>
+    <a href="https://join.slack.com/t/devopsmsp/shared_invite/zt-1bwr1yspz-MbnQxTrwTAh9cOHzw8X9gw">Join us on Slack!</a>
   </div>
 </div>
 
