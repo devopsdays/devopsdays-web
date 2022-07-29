@@ -86,6 +86,8 @@ sponsors:
     level: gold
   - id: gitlab
     level: gold
+  - id: diamanti
+    level: gold
   - id: phoenixnap
     level: silver
   - id: dynatrace
