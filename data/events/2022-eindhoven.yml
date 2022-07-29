@@ -29,7 +29,7 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 # Location
 #
-coordinates: "51.441643, 5.469722" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+coordinates: "51.410740, 5.458470" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Eindhoven" # Defaults to city, but you can make it the venue name.
 #
 location_address: "High Tech Campus 1b, 5656 AE Eindhoven, The Netherlands" #Optional - use the street address of your venue. This will show up on the welcome page if set.
@@ -37,8 +37,9 @@ masthead_background: "eindhoven-bg.jpeg"
 sharing_image: "logo-rectangle.png"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
-    url: https://sessionize.com/devopsdays-eindhoven-2022/
+  # CFP is closed, so remove this link.
+  # - name: propose
+  #   url: https://sessionize.com/devopsdays-eindhoven-2022/
   - name: location
   - name: registration
   # - name: program
@@ -107,6 +108,8 @@ sponsors:
     level: gold
   - id: cert2connect
     level: gold
+  - id: sysdig
+    level: gold
   # lunch
   # lanyard
   # silver
@@ -118,6 +121,8 @@ sponsors:
   - id: o11y
     level: bronze
   - id: synchromind
+    level: bronze
+  - id: ogd
     level: bronze
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link

@@ -27,14 +27,14 @@ Description = "devopsdays Chattanooga 2022"
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="registration" text="Register to attend the conference!" >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -81,7 +81,17 @@ Description = "devopsdays Chattanooga 2022"
   </div>
 </div>
 
-<!-- Uncomment if you added your city twitter name -->
-<!--
+
 {{< event_twitter >}}
--->
+
+<div class = "row">
+  <div class = "col-md-6">
+    <img src="/events/2022-chattanooga/logo.png" style="float:center"/>
+  </div>
+  <div class = "col-md-3">
+    <h3>devopsdays Chattanooga 2019 Recap</h3>
+    <iframe src="https://drive.google.com/file/d/18Fz-hfDnaIlJd2kDc7hJDtWT3anBE6au/preview" width="640" height="480" allow="autoplay"></iframe>
+  </div>
+</div>
+
+

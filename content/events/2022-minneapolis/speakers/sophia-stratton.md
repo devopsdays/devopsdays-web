@@ -7,4 +7,4 @@ linktitle = "sophia-stratton"
 
 +++
 
-Sophia Stratton is 10 years old and she likes to play softball and do gymnastics. She has two brothers and two dogs. You can guess which two she likes best.
+Sophia Stratton is 10 years old and she likes to play softball and do gymnastics. She has two brothers and three dogs. You can guess which she likes best.

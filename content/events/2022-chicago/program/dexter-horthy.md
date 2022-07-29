@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Advanced Kubernetes Troubleshooting with Open Source Tools"
 Type = "talk"
 Speakers = ["dexter-horthy"]
+sharing_image = "dexter-horthy.png"
 +++
 As engineers, operators, and administrators, we grapple with vexing and expensive problems. Support bottlenecks caused by technical language barriers, differing time zones, incomplete information, and other typically minor issues can extend the time between identifying an issue and resolving it by hours or even days. Fortunately, a fully open source toolset available called Troubleshoot can drastically reduce the time between diagnosis and solution.
 

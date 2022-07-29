@@ -35,6 +35,7 @@ location_address: "Hilton Los Angeles Airport 5711 W Century Blvd, Los Angeles, 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   # - name: program
   # - name: speakers
+  - name: covid
   - name: venue
     url: https://www.socallinuxexpo.org/scale/19x/venue
   - name: registration
@@ -175,8 +176,8 @@ sponsor_levels:
     label: Community
 
 program:
-  - title: "grant-birkinbine-wrkshp"
-    type: talk
+  - title: "Workshop canceled due to COVID"
+    type: custom
     date: 2022-07-28T23:59:59-08:00
     start_time: "10:00"
     end_time: "13:00"
@@ -199,18 +200,18 @@ program:
     type: custom
     date: 2022-07-29T00:00:00-08:00
     start_time: "12:00"
-    end_time: "13:30"
+    end_time: "13:15"
   - title: "jeremy-meiss"
     type: talk
     date: 2022-07-29T00:00:00-08:00
-    start_time: "13:30"
+    start_time: "13:15"
     end_time: "13:45"
   - title: "dan-lines"
     type: talk
     date: 2022-07-29T00:00:00-08:00
     start_time: "13:45"
     end_time: "14:00"
-  - title: "grant-birkinbine"
+  - title: "tony-fatouros"
     type: talk
     date: 2022-07-29T00:00:00-08:00
     start_time: "14:00"

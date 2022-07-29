@@ -135,7 +135,7 @@ sponsors:
   - id: tonic
     level: platinum
   - id: vivanti
-    level: platinum
+    level: startupalley
   - id: firehydrant
     level: lanyard
   - id: atomiccoffeeroasters
@@ -149,6 +149,12 @@ sponsors:
   - id: edge-delta
     level: platinum
   - id: mattermost
+    level: platinum
+  - id: opscruise
+    level: startupalley
+  - id: kosli
+    level: platinum
+  - id: cloudbees
     level: platinum
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -166,3 +172,5 @@ sponsor_levels:
   - id: coffee
     label: Coffee
     max: 1
+  - id: startupalley
+    label: Startup Alley
