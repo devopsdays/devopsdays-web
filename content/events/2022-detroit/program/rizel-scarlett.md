@@ -1,7 +1,7 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_date = "2019-08-25"
+Talk_start_time = "13:15"
+Talk_end_time = "13:45"
 Title = "Teaching to Empower: How to Support Early Career Developers"
 Type = "talk"
 Speakers = ["rizel-scarlett"]

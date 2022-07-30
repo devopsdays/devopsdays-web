@@ -1,7 +1,7 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_date = "2019-08-25"
+Talk_start_time = "14:55"
+Talk_end_time = "15:00"
 Title = "Find Your Buidness Value ~or~ Some Kind of Fiat Currency"
 Type = "talk"
 Speakers = ["heidi-waterhouse"]

@@ -1,7 +1,7 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_date = "2019-08-25"
+Talk_start_time = "14:45"
+Talk_end_time = "14:50"
 Title = "As an Outsider, How to Make an Impact on Company Culture"
 Type = "talk"
 Speakers = ["ray-welker"]

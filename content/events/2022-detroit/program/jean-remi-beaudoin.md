@@ -1,7 +1,7 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_date = "2019-08-25"
+Talk_start_time = "15:00"
+Talk_end_time = "15:05"
 Title = "Rendering 3D scenes with Blender on AWS Lambda, how we got there"
 Type = "talk"
 Speakers = ["jean-remi-beaudoin"]

@@ -1,7 +1,7 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_date = "2019-08-25"
+Talk_start_time = "10:30"
+Talk_end_time = "11:00"
 Title = "Getting Started: Embrace Your Inner Child"
 Type = "talk"
 Speakers = ["rain-leander"]

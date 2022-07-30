@@ -1,7 +1,7 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_date = "2019-08-26"
+Talk_start_time = "11:30"
+Talk_end_time = "12:00"
 Title = "How Wix Manage 7% Of the Internet With “Infraportal”"
 Type = "talk"
 Speakers = ["matan-cohen"]
