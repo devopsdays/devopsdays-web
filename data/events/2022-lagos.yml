@@ -56,6 +56,11 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://linkedin.com/haroldsphinx"
     github: "haroldsphinx"
     image: "adedayo.jpg"
+  - name: "Ewere Diagboya"
+    twitter: "@nimboya"
+    employer: "Seamfix"
+    github: "nimboya"
+    image: "ewere.jpg"
   - name: "Idowu Emehinola"
     employer: "Advanced Blockchain"
     twitter: "@_hydeenoble"
@@ -63,7 +68,6 @@ team_members: # Name is the only required field for team members.
     image: "idowu.jpg"
   - name: AbdulBasit Kabir
     employer: "Interswitch"
-
 
 organizer_email: "ga" # Put your organizer email address here
 
