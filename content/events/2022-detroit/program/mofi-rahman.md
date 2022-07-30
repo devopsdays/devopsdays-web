@@ -1,7 +1,7 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_date = "2022-08-26"
+Talk_start_time = "13:20"
+Talk_end_time = "13:25"
 Title = "You Probably Don't Need Kubernetes"
 Type = "talk"
 Speakers = ["mofi-rahman"]
