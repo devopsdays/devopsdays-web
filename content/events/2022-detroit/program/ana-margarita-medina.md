@@ -1,5 +1,5 @@
 +++
-Talk_date = "2019-08-26"
+Talk_date = "2022-08-26"
 Talk_start_time = "13:50"
 Talk_end_time = "14:20"
 Title = "The Evolution of GameDays"

@@ -1,5 +1,5 @@
 +++
-Talk_date = "2019-08-26"
+Talk_date = "2022-08-26"
 Talk_start_time = "13:30"
 Talk_end_time = "13:35"
 Title = "What Stinks? How Developer Hygiene Impacts Security"

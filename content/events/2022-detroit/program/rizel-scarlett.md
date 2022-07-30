@@ -1,5 +1,5 @@
 +++
-Talk_date = "2019-08-25"
+Talk_date = "2022-08-25"
 Talk_start_time = "13:15"
 Talk_end_time = "13:45"
 Title = "Teaching to Empower: How to Support Early Career Developers"

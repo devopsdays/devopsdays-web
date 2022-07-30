@@ -1,5 +1,5 @@
 +++
-Talk_date = "2019-08-25"
+Talk_date = "2022-08-25"
 Talk_start_time = "14:50"
 Talk_end_time = "14:55"
 Title = "Observability for microservices"

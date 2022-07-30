@@ -1,5 +1,5 @@
 +++
-Talk_date = "2019-08-26"
+Talk_date = "2022-08-26"
 Talk_start_time = "10:15"
 Talk_end_time = "11:45"
 Title = "Sidecars, eBPF and the Future of Service Mesh"

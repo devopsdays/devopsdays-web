@@ -1,5 +1,5 @@
 +++
-Talk_date = "2019-08-26"
+Talk_date = "2022-08-26"
 Talk_start_time = "09:30"
 Talk_end_time = "10:00"
 Title = "Celebrating Diversity and The Path Ahead"

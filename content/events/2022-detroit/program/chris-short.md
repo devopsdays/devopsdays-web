@@ -1,5 +1,5 @@
 +++
-Talk_date = "2019-08-26"
+Talk_date = "2022-08-26"
 Talk_start_time = "11:00"
 Talk_end_time = "11:30"
 Title = "GitOps: An Implementation of DevOps"
