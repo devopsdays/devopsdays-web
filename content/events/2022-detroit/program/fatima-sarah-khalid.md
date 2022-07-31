@@ -1,7 +1,7 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_date = "2022-08-25"
+Talk_start_time = "11:15"
+Talk_end_time = "11:45"
 Title = "The Magical Art of Storytelling"
 Type = "talk"
 Speakers = ["fatima-sarah-khalid"]
