@@ -88,7 +88,7 @@ The following chart outlines our sponsorship packages.
   </tr>
     <tr>
     <td>Available sponsorships</td>
-      <td class="yes"><s>5</a> <strong>4</strong></td>
+      <td class="yes"><s>5</s> <strong>4</strong></td>
       <td class="yes"><s>5</s> <strong>1</strong></td>
       <td class="yes"><s>15</s> <strong>7</strong></td>
   </tr>
