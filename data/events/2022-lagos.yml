@@ -19,7 +19,7 @@ cfp_date_start: August 1st, 2022 # start accepting talk proposals.
 cfp_date_end: October 3rd, 2022 # close your call for proposals.
 cfp_date_announce: August 1st, 2022 # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://sessionize.com/localhost-conference-2022" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: August 1st, 2022 # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: October 28th, 2022 # close registration. Leave blank if registration is not open yet.
@@ -29,7 +29,7 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 # Location
 #
-coordinates: "6.54451° N, 3.39226° E" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+coordinates: "6.54451°, 3.39226°" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Lagos" # Defaults to city, but you can make it the venue name.
 #
 location_address: "Plot 9 Gbagada Industrial Scheme, Beside UPS, Gbagada Expressway" #Optional - use the street address of your venue. This will show up on the welcome page if set.
