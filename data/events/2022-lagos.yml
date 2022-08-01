@@ -1,86 +1,94 @@
-Title = "devopsdays Lagos 2022"
-Type = "welcome"
-aliases = ["/events/2020-lagos/"]
-Description = "devopsdays Lagos 2022"
-+++
+name: "2022-lagos" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2022" # The year of the event. Make sure it is in quotes.
+city: "Lagos" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdayslag" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays is coming to Lagos!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+cancel: "false"
 
-<!-- <div style="text-align:center;">
-  {{< event_logo >}}
-</div> -->
+# All dates are in unquoted 2020-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2020-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Dates</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_start >}} - {{< event_end >}}
-  </div>
-</div>
+startdate: October 29th, 2022 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: October 29th, 2022 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Location</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_location >}}
-  </div>
-</div> -->
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: August 1st, 2022 # start accepting talk proposals.
+cfp_date_end: October 3rd, 2022 # close your call for proposals.
+cfp_date_announce: August 1st, 2022 # inform proposers of status
 
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Register</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
-  </div>
-</div> -->
+cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Propose</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
-  </div>
-</div> -->
+registration_date_start: August 1st, 2022 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: October 28th, 2022 # close registration. Leave blank if registration is not open yet.
 
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Program</strong>
-  </div>
-  <div class = "col-md-8">
-    View the {{< event_link page="program" text="program." >}}
-  </div>
-</div> -->
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Speakers</strong>
-  </div>
-  <div class = "col-md-8">
-    Check out the {{< event_link page="speakers" text="speakers!" >}}
-  </div>
-</div> -->
+# Location
+#
+coordinates: "6.54451° N, 3.39226° E" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Lagos" # Defaults to city, but you can make it the venue name.
+#
+location_address: "Plot 9 Gbagada Industrial Scheme, Beside UPS, Gbagada Expressway" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Sponsors</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="sponsor" text="Sponsor the conference!" >}}
-  </div>
-</div> -->
+nav_elements: # List of pages you want to show up in the navigation of your page.
+ # - name: propose
+ # - name: location
+ # - name: registration
+ # - name: program
+ # - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
 
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Contact</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="contact" text="Get in touch with the organizers" >}}
-  </div>
-</div>
 
-<!-- Uncomment if you added your city twitter name -->
-<!--
-{{< event_twitter >}}
--->
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Adedayo Akinpelu"
+    twitter: "@haroldsphinx"
+    employer: "Dapperlabs Inc"
+    linkedin: "https://linkedin.com/haroldsphinx"
+    github: "haroldsphinx"
+    image: "adedayo.jpg"
+  - name: "Idowu Emehinola"
+    employer: "Advanced Blockchain"
+    twitter: "@_hydeenoble"
+    github: "hydeenoble"
+    image: "idowu.jpg"
+  - name: AbdulBasit Kabir
+    employer: "Interswitch"
+
+organizer_email: "ga" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+#sponsors:
+# - id: samplesponsorname
+#    level: gold
+ #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+#  - id: arresteddevops
+#    level: community
+
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: gold
+    label: Gold
+#    max: 10
+  - id: silver
+    label: Silver
+    max: 0 # This is the same as omitting the max limit.
+  - id: bronze
+    label: Bronze
+  - id: community
+    label: Community
