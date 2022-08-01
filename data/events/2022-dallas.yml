@@ -253,8 +253,8 @@ sponsors:
     level: silver
   - id: zoho
     level: silver
-#  - id: redgate
-#    level: silver
+  - id: redgate
+    level: silver
   - id: edge-delta
     level: happyhour
   - id: arresteddevops
