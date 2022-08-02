@@ -196,9 +196,9 @@ sponsors:
   - id: uni7
     level: platinum
     url: https://www.uni7.edu.br/
-  # - id: flexa
-  #   level: platinum
-  #   url: https://flexa.cloud/
+  - id: elevenworks
+    level: platinum
+    url: https://elven.works/
   - id: linuxtips
     level: silver
     url: https://www.linuxtips.io/
