@@ -1,5 +1,5 @@
 +++
-Title = "Nigel Thurlow"
+Title = "KEYNOTE: Nigel Thurlow"
 Twitter = "NigelThurlow"
 image = "nigel-thurlow.jpg"
 type = "speaker"
