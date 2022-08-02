@@ -203,6 +203,10 @@ sponsors:
     level: gold
   - id: nirmata
     level: gold
+
+   #transcription
+  - id: postman
+    level: transcription
     
    #Silver Sponsors
   - id: linearb
@@ -259,10 +263,15 @@ sponsor_levels:
   - id: silver
     label: Silver
     max: 1 # This is the same as omitting the max limit.
+  - id: transcription
+    label: Live Transcription
+    max: 1
   - id: bronze
     label: Bronze
   - id: community
     label: Community
+
+
 program:
   - title: "Registration, Breakfast, Sponsors"
     type: custom
