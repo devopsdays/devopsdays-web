@@ -1,8 +1,8 @@
 +++
 title = "Jean-Rémi Beaudoin"
 twitter = "jiherr"
-website = "theodo.com"
-linkedin = "linkedin.com/in/jrbeaudoin"
+website = "https://www.theodo.com"
+linkedin = "https://www.linkedin.com/in/jrbeaudoin"
 image = "jean-remi-beaudoin.jpeg"
 sharing_image = "jean-remi-beaudoin-card.png"
 type = "speaker"

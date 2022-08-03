@@ -1,8 +1,8 @@
 +++
 title = "John Amaral"
 twitter = "amaral_john"
-website = "slim.ai"
-linkedin = "linkedin.com/in/john-amaral-a359241/"
+website = "https://www.slim.ai"
+linkedin = "https://www.linkedin.com/in/john-amaral-a359241/"
 image = "john-amaral.png"
 sharing_image = "john-amaral-card.png"
 type = "speaker"

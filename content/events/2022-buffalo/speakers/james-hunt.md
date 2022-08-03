@@ -1,8 +1,8 @@
 +++
 title = "James Hunt"
 twitter = "iamjameshunt"
-website = "jameshunt.us"
-linkedin = "linkedin.com/in/huntprod"
+website = "https://jameshunt.us"
+linkedin = "https://linkedin.com/in/huntprod"
 image = "james-hunt.png"
 sharing_image = "james-hunt-card.png"
 type = "speaker"

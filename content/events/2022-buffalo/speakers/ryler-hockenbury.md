@@ -1,8 +1,8 @@
 +++
 title = "Ryler Hockenbury"
 twitter = "rylerhockenbury"
-website = "rylerhockenbury.com/blog"
-linkedin = "linkedin.com/in/ryler-hockenbury-84a9b050/"
+website = "https://www.rylerhockenbury.com/blog"
+linkedin = "https://www.linkedin.com/in/ryler-hockenbury-84a9b050/"
 image = "ryler-hockenbury.jpg"
 sharing_image = "ryler-hockenbury-card.png"
 type = "speaker"
