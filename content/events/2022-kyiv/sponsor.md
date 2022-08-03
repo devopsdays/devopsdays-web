@@ -17,7 +17,7 @@ Please join us and #StandWithUkraine
 <h2>Sponsor Today</h2> 
 <a href="mailto:kyiv@devopsdays.org" class="btn btn-primary"><i class="fa fa-envelope fa-lg"></i>&nbsp;&nbsp;&nbsp;Email us to become a sponsor</a>
 <p></p>
-<a href="https://drive.google.com/file/d/14MraVPXmm4N13Z7VJJormtS_juj3DkbK/view?usp=sharing" class="btn btn-primary"><i class="fa fa-folder fa-lg"></i>&nbsp;&nbsp;&nbsp;View the DevOpsDays Ukraine 2022 Sponsor Prospectus</a>
+<a href="https://drive.google.com/file/d/1g0KHRrFzVZ7sNZeJzYBX2hNjBxDCUwqm/view?usp=sharing" class="btn btn-primary"><i class="fa fa-folder fa-lg"></i>&nbsp;&nbsp;&nbsp;View the DevOpsDays Ukraine 2022 Sponsor Prospectus</a>
 <p>
 <h2>Sponsor Levels</h2> 
 
@@ -103,7 +103,7 @@ Please join us and #StandWithUkraine
   <br/>
   Sponsors are responsible for providing high-res logos for use on the website and in promotional materials.  The preferred file formats are EPS or AI.
   <br/><br/>
-  *All proceeds will go towards Ukrainian humanitarian causes. For charities and organizational details <a href="https://drive.google.com/file/d/14MraVPXmm4N13Z7VJJormtS_juj3DkbK/view?usp=sharing" >see the DevOpsDays Ukraine 2022 Sponsor Prospectus.</a>
+  *All proceeds will go towards Ukrainian humanitarian causes. For charities and organizational details <a href="https://drive.google.com/file/d/1g0KHRrFzVZ7sNZeJzYBX2hNjBxDCUwqm/view?usp=sharing" >see the DevOpsDays Ukraine 2022 Sponsor Prospectus.</a>
 <p>
 <a href="mailto:kyiv@devopsdays.org" class="btn btn-primary"><i class="fa fa-envelope fa-lg"></i>&nbsp;&nbsp;&nbsp;Email us to become a sponsor</a>
 <br><br>
