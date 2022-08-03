@@ -28,7 +28,6 @@ registration_date_end: 2022-09-30 # close registration. Leave blank if registrat
 registration_link: "https://ti.to/devops-days-buffalo/2022" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 masthead_background: "buffalo-skyline.jpg"
-sharing_image: #"sharing.png"
 
 # Location
 #
