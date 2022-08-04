@@ -37,8 +37,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: propose
   - name: location
  # - name: registration
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -176,3 +176,183 @@ sponsor_levels:
     max: 1
   - id: startupalley
     label: Startup Alley
+
+program:
+  # Day 1
+  - title: "Registration & Breakfast (Remember your ID and vaccine card!)"
+    type: custom
+    date: 2022-09-12
+    start_time: "07:30"
+    end_time: "09:00"
+  - title: "Introduction"
+    type: custom
+    date: 2022-09-12
+    start_time: "09:30"
+    end_time: "09:45"
+  - title: "Talk 1: TBD"
+    type: custom
+    date: 2022-09-12
+    start_time: "09:45"
+    end_time: "10:20"
+  - title: "Talk 2: TBD"
+    type: custom
+    date: 2022-09-12
+    start_time: "10:20"
+    end_time: "10:55"
+  - title: "Break"
+    type: custom
+    date: 2022-09-12
+    start_time: "10:55"
+    end_time: "11:10"
+  - title: "Talk 3: TBD"
+    type: custom
+    date: 2022-09-12
+    start_time: "11:10"
+    end_time: "11:45"
+  - title: "Lunch"
+    type: custom
+    date: 2022-09-12
+    start_time: "11:45"
+    end_time: "12:50"
+  - title: "Talk 4: TBD"
+    type: custom
+    date: 2022-09-12
+    start_time: "12:50"
+    end_time: "13:25"
+  - title: "Talk 5: TBD"
+    type: custom
+    date: 2022-09-12
+    start_time: "13:25"
+    end_time: "14:00"
+  - title: "Open Space Proposals"
+    type: custom
+    date: 2022-09-12
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: "Break"
+    type: custom
+    date: 2022-09-12
+    start_time: "14:30"
+    end_time: "14:45"
+  - title: "Open Spaces 1-4"
+    type: custom
+    date: 2022-09-12
+    start_time: "14:45"
+    end_time: "15:15"
+  - title: "Break"
+    type: custom
+    date: 2022-09-12
+    start_time: "15:15"
+    end_time: "15:30"
+  - title: "Open Spaces 5-8"
+    type: custom
+    date: 2022-09-12
+    start_time: "15:30"
+    end_time: "16:00"
+  - title: "Break"
+    type: custom
+    date: 2022-09-12
+    start_time: "16:00"
+    end_time: "16:15"
+  - title: "Open Spaces 9-12"
+    type: custom
+    date: 2022-09-12
+    start_time: "16:15"
+    end_time: "16:45"
+  - title: "Wrap-up"
+    type: custom
+    date: 2022-09-12
+    start_time: "16:45"
+    end_time: "17:15"
+  - title: "Evening event: TBD"
+    type: custom
+    date: 2022-09-12
+    start_time: "17:30"
+    end_time: "19:30"
+
+  # Day 2
+  - title: "Registration & Breakfast (Remember your ID and vaccine card!)"
+    type: custom
+    date: 2022-09-13
+    start_time: "07:30"
+    end_time: "09:00"
+  - title: "Introduction"
+    type: custom
+    date: 2022-09-13
+    start_time: "09:30"
+    end_time: "09:45"
+  - title: "peter-chestna"
+    type: talk
+    date: 2022-09-13
+    start_time: "09:45"
+    end_time: "10:20"
+  - title: "Talk 7: TBD"
+    type: custom
+    date: 2022-09-13
+    start_time: "10:20"
+    end_time: "10:55"
+  - title: "Break"
+    type: custom
+    date: 2022-09-13
+    start_time: "10:55"
+    end_time: "11:10"
+  - title: "Talk 8: TBD"
+    type: custom
+    date: 2022-09-13
+    start_time: "11:10"
+    end_time: "11:45"
+  - title: "Lunch"
+    type: custom
+    date: 2022-09-13
+    start_time: "11:45"
+    end_time: "12:50"
+  - title: "Talk 9: TBD"
+    type: custom
+    date: 2022-09-13
+    start_time: "12:50"
+    end_time: "13:25"
+  - title: "Talk 10: TBD"
+    type: custom
+    date: 2022-09-13
+    start_time: "13:25"
+    end_time: "14:00"
+  - title: "Open Space Proposals"
+    type: custom
+    date: 2022-09-13
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: "Break"
+    type: custom
+    date: 2022-09-13
+    start_time: "14:30"
+    end_time: "14:45"
+  - title: "Open Spaces 13-16"
+    type: custom
+    date: 2022-09-13
+    start_time: "14:45"
+    end_time: "15:15"
+  - title: "Break"
+    type: custom
+    date: 2022-09-13
+    start_time: "15:15"
+    end_time: "15:30"
+  - title: "Open Spaces 17-20"
+    type: custom
+    date: 2022-09-13
+    start_time: "15:30"
+    end_time: "16:00"
+  - title: "Break"
+    type: custom
+    date: 2022-09-13
+    start_time: "16:00"
+    end_time: "16:15"
+  - title: "Open Spaces 21-24"
+    type: custom
+    date: 2022-09-13
+    start_time: "16:15"
+    end_time: "16:45"
+  - title: "Wrap-up"
+    type: custom
+    date: 2022-09-13
+    start_time: "16:45"
+    end_time: "17:15"
