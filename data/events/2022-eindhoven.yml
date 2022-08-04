@@ -168,161 +168,111 @@ program:
     date: 2022-10-20T00:00:00+02:00
     start_time: "09:00"
     end_time: "09:15"
-  - title: ""
+  - title: "fabian-basciani"
     type: talk
     date: 2022-10-20T00:00:00+02:00
     start_time: "09:15"
     end_time: "09:45"
-  - title: "Sponsors"
-    type: custom
-    date: 2022-10-20T00:00:00+02:00
-    start_time: "09:45"
-    end_time: "09:55"
-  - title: "talk-2"
+  - title: "pablo-bouzada-santome"
     type: talk
     date: 2022-10-20T00:00:00+02:00
-    start_time: "09:55"
-    end_time: "10:25"
+    start_time: "09:45"
+    end_time: "10:15"
+  - title: "vili-mileva-yankova"
+    type: talk
+    date: 2022-10-20T00:00:00+02:00
+    start_time: "10:15"
+    end_time: "10:45"
   - title: "Break"
     type: custom
     date: 2022-10-20T00:00:00+02:00
-    start_time: "10:25"
-    end_time: "10:40"
-  - title: "talk-3"
+    start_time: "10:45"
+    end_time: "11:00"
+  - title: "TBA"
     type: talk
     date: 2022-10-20T00:00:00+02:00
-    start_time: "10:40"
-    end_time: "11:10"
-  - title: "Sponsors"
-    type: custom
-    date: 2022-10-20T00:00:00+02:00
-    start_time: "11:10"
-    end_time: "11:20"
-  - title: "talk-4"
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "moukarram-kabbash"
     type: talk
     date: 2022-10-20T00:00:00+02:00
-    start_time: "11:20"
-    end_time: "11:50"
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "arjen-de-ruiter"
+    type: talk
+    date: 2022-10-20T00:00:00+02:00
+    start_time: "12:00"
+    end_time: "12:30"
   - title: "Lunch"
     type: custom
     date: 2022-10-20T00:00:00+02:00
-    start_time: "11:50"
-    end_time: "13:00"
-  - title: "Ignites"
-    type: custom
-    date: 2022-10-20T00:00:00+02:00
-    start_time: "13:00"
+    start_time: "12:30"
     end_time: "13:30"
-  - title: "Open Space Opening"
+  - title: "Ignites"
     type: custom
     date: 2022-10-20T00:00:00+02:00
     start_time: "13:30"
     end_time: "14:00"
-  - title: "Open Space #1"
+  - title: "Open Space Opening"
     type: custom
     date: 2022-10-20T00:00:00+02:00
     start_time: "14:00"
+    end_time: "14:30"
+  - title: "Break"
+    type: custom
+    date: 2022-10-20T00:00:00+02:00
+    start_time: "14:30"
     end_time: "14:45"
+  - title: "Open Space #1"
+    type: custom
+    date: 2022-10-20T00:00:00+02:00
+    start_time: "14:45"
+    end_time: "15:10"
+  - title: "rachid-kherrazi"
+    type: talk
+    date: 2022-10-20T00:00:00+02:00
+    start_time: "14:45"
+    end_time: "15:10"
   - title: "Open Space #2"
     type: custom
     date: 2022-10-20T00:00:00+02:00
-    start_time: "15:00"
-    end_time: "15:45"
+    start_time: "15:10"
+    end_time: "15:40"
+  - title: "alex-de-groot"
+    type: talk
+    date: 2022-10-20T00:00:00+02:00
+    start_time: "15:10"
+    end_time: "15:40"
+  - title: "Break"
+    type: custom
+    date: 2022-10-20T00:00:00+02:00
+    start_time: "15:40"
+    end_time: "16:00"
   - title: "Open Space #3"
     type: custom
     date: 2022-10-20T00:00:00+02:00
     start_time: "16:00"
-    end_time: "16:45"
+    end_time: "16:25"
+  - title: "hila-fish"
+    type: talk
+    date: 2022-10-20T00:00:00+02:00
+    start_time: "16:00"
+    end_time: "16:25"
+  - title: "federico-fregosi"
+    type: talk
+    date: 2022-10-20T00:00:00+02:00
+    start_time: "16:30"
+    end_time: "17:10"
   - title: "Close Day"
     type: custom
     date: 2022-10-20T00:00:00+02:00
-    start_time: "16:45"
-    end_time: "17:00"
+    start_time: "17:15"
+    end_time: "17:30"
   - title: "Evening event"
     type: custom
     date: 2022-10-20T00:00:00+02:00
-    start_time: "19:00"
-    end_time: "late"
-  - title: "Registration, Breakfast, Sponsors"
-    type: custom
-    date: 2022-10-21T00:00:00+02:00
-    start_time: "08:00"
-    end_time: "09:00"
-  - title: "Opening Welcome"
-    type: custom
-    date: 2022-10-21T00:00:00+02:00
-    start_time: "09:00"
-    end_time: "09:15"
-  - title: "talk-5"
-    type: talk
-    date: 2022-10-21T00:00:00+02:00
-    start_time: "09:15"
-    end_time: "09:45"
-  - title: "Sponsors"
-    type: custom
-    date: 2022-10-21T00:00:00+02:00
-    start_time: "09:45"
-    end_time: "09:55"
-  - title: "talk-6"
-    type: talk
-    date: 2022-10-21T00:00:00+02:00
-    start_time: "09:55"
-    end_time: "10:25"
-  - title: "Break"
-    type: custom
-    date: 2022-10-21T00:00:00+02:00
-    start_time: "10:25"
-    end_time: "10:40"
-  - title: "talk-7"
-    type: talk
-    date: 2022-10-21T00:00:00+02:00
-    start_time: "10:40"
-    end_time: "11:10"
-  - title: "Sponsors"
-    type: custom
-    date: 2022-10-21T00:00:00+02:00
-    start_time: "11:10"
-    end_time: "11:20"
-  - title: "talk-8"
-    type: talk
-    date: 2022-10-21T00:00:00+02:00
-    start_time: "11:20"
-    end_time: "11:50"
-  - title: "Lunch"
-    type: custom
-    date: 2022-10-21T00:00:00+02:00
-    start_time: "11:50"
-    end_time: "13:00"
-  - title: "Ignites"
-    type: custom
-    date: 2022-10-21T00:00:00+02:00
-    start_time: "13:00"
-    end_time: "13:30"
-  - title: "Open Space Opening"
-    type: custom
-    date: 2022-10-21T00:00:00+02:00
-    start_time: "13:30"
-    end_time: "14:00"
-  - title: "Open Space #1"
-    type: custom
-    date: 2022-10-21T00:00:00+02:00
-    start_time: "14:00"
-    end_time: "14:45"
-  - title: "Open Space #2"
-    type: custom
-    date: 2022-10-21T00:00:00+02:00
-    start_time: "15:00"
-    end_time: "15:45"
-  - title: "Open Space #3"
-    type: custom
-    date: 2022-10-21T00:00:00+02:00
-    start_time: "16:00"
-    end_time: "16:45"
-  - title: "Closing"
-    type: custom
-    date: 2022-10-21T00:00:00+02:00
-    start_time: "16:45"
-    end_time: "17:00"
+    start_time: "17:30"
+    end_time: "21:00"
 
   # Day two
   - title: "Registration, Breakfast, Sponsors"
@@ -335,158 +285,103 @@ program:
     date: 2022-10-21T00:00:00+02:00
     start_time: "09:00"
     end_time: "09:15"
-  - title: ""
+  - title: "werner-heijstek"
     type: talk
     date: 2022-10-21T00:00:00+02:00
     start_time: "09:15"
     end_time: "09:45"
-  - title: "Sponsors"
-    type: custom
-    date: 2022-10-21T00:00:00+02:00
-    start_time: "09:45"
-    end_time: "09:55"
-  - title: "talk-2"
+  - title: "dianna-keen"
     type: talk
     date: 2022-10-21T00:00:00+02:00
-    start_time: "09:55"
-    end_time: "10:25"
+    start_time: "09:45"
+    end_time: "10:15"
+  - title: "christa-meck"
+    type: talk
+    date: 2022-10-21T00:00:00+02:00
+    start_time: "10:15"
+    end_time: "10:45"
   - title: "Break"
     type: custom
     date: 2022-10-21T00:00:00+02:00
-    start_time: "10:25"
-    end_time: "10:40"
-  - title: "talk-3"
+    start_time: "10:45"
+    end_time: "11:00"
+  - title: "radu-vunvulea"
     type: talk
     date: 2022-10-21T00:00:00+02:00
-    start_time: "10:40"
-    end_time: "11:10"
-  - title: "Sponsors"
-    type: custom
-    date: 2022-10-21T00:00:00+02:00
-    start_time: "11:10"
-    end_time: "11:20"
-  - title: "talk-4"
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "danny-higler"
     type: talk
     date: 2022-10-21T00:00:00+02:00
-    start_time: "11:20"
-    end_time: "11:50"
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "mirza-dautbegovic"
+    type: talk
+    date: 2022-10-21T00:00:00+02:00
+    start_time: "12:00"
+    end_time: "12:30"
   - title: "Lunch"
     type: custom
     date: 2022-10-21T00:00:00+02:00
-    start_time: "11:50"
-    end_time: "13:00"
-  - title: "Ignites"
-    type: custom
-    date: 2022-10-21T00:00:00+02:00
-    start_time: "13:00"
+    start_time: "12:30"
     end_time: "13:30"
-  - title: "Open Space Opening"
-    type: custom
+  - title: "vanessa-kantner"
+    type: talk
     date: 2022-10-21T00:00:00+02:00
     start_time: "13:30"
     end_time: "14:00"
-  - title: "Open Space #1"
+  - title: "Open Space Opening"
     type: custom
     date: 2022-10-21T00:00:00+02:00
     start_time: "14:00"
+    end_time: "14:30"
+  - title: "Break"
+    type: custom
+    date: 2022-10-21T00:00:00+02:00
+    start_time: "14:30"
     end_time: "14:45"
+  - title: "Open Space #1"
+    type: custom
+    date: 2022-10-21T00:00:00+02:00
+    start_time: "14:45"
+    end_time: "15:10"
+  - title: "esther-barthel"
+    type: talk
+    date: 2022-10-21T00:00:00+02:00
+    start_time: "14:45"
+    end_time: "15:10"
   - title: "Open Space #2"
     type: custom
     date: 2022-10-21T00:00:00+02:00
-    start_time: "15:00"
+    start_time: "15:10"
     end_time: "15:45"
+  - title: "derek-smith"
+    type: talk
+    date: 2022-10-21T00:00:00+02:00
+    start_time: "15:10"
+    end_time: "15:45"
+  - title: "Break"
+    type: custom
+    date: 2022-10-21T00:00:00+02:00
+    start_time: "15:45"
+    end_time: "16:00"
   - title: "Open Space #3"
     type: custom
     date: 2022-10-21T00:00:00+02:00
     start_time: "16:00"
-    end_time: "16:45"
+    end_time: "16:25"
+  - title: "ivan-milchev"
+    type: talk
+    date: 2022-10-21T00:00:00+02:00
+    start_time: "16:00"
+    end_time: "16:25"
+  - title: "TBA"
+    type: talk
+    date: 2022-10-21T00:00:00+02:00
+    start_time: "16:30"
+    end_time: "17:00"
   - title: "Close Day"
     type: custom
     date: 2022-10-20T00:00:00+02:00
-    start_time: "16:45"
-    end_time: "17:00"
-  - title: "Evening event"
-    type: custom
-    date: 2022-10-20T00:00:00+02:00
-    start_time: "19:00"
-    end_time: "late"
-  - title: "Registration, Breakfast, Sponsors"
-    type: custom
-    date: 2022-10-21T00:00:00+02:00
-    start_time: "08:00"
-    end_time: "09:00"
-  - title: "Opening Welcome"
-    type: custom
-    date: 2022-10-21T00:00:00+02:00
-    start_time: "09:00"
-    end_time: "09:15"
-  - title: "talk-5"
-    type: talk
-    date: 2022-10-21T00:00:00+02:00
-    start_time: "09:15"
-    end_time: "09:45"
-  - title: "Sponsors"
-    type: custom
-    date: 2022-10-21T00:00:00+02:00
-    start_time: "09:45"
-    end_time: "09:55"
-  - title: "talk-6"
-    type: talk
-    date: 2022-10-21T00:00:00+02:00
-    start_time: "09:55"
-    end_time: "10:25"
-  - title: "Break"
-    type: custom
-    date: 2022-10-21T00:00:00+02:00
-    start_time: "10:25"
-    end_time: "10:40"
-  - title: "talk-7"
-    type: talk
-    date: 2022-10-21T00:00:00+02:00
-    start_time: "10:40"
-    end_time: "11:10"
-  - title: "Sponsors"
-    type: custom
-    date: 2022-10-21T00:00:00+02:00
-    start_time: "11:10"
-    end_time: "11:20"
-  - title: "talk-8"
-    type: talk
-    date: 2022-10-21T00:00:00+02:00
-    start_time: "11:20"
-    end_time: "11:50"
-  - title: "Lunch"
-    type: custom
-    date: 2022-10-21T00:00:00+02:00
-    start_time: "11:50"
-    end_time: "13:00"
-  - title: "Ignites"
-    type: custom
-    date: 2022-10-21T00:00:00+02:00
-    start_time: "13:00"
-    end_time: "13:30"
-  - title: "Open Space Opening"
-    type: custom
-    date: 2022-10-21T00:00:00+02:00
-    start_time: "13:30"
-    end_time: "14:00"
-  - title: "Open Space #1"
-    type: custom
-    date: 2022-10-21T00:00:00+02:00
-    start_time: "14:00"
-    end_time: "14:45"
-  - title: "Open Space #2"
-    type: custom
-    date: 2022-10-21T00:00:00+02:00
-    start_time: "15:00"
-    end_time: "15:45"
-  - title: "Open Space #3"
-    type: custom
-    date: 2022-10-21T00:00:00+02:00
-    start_time: "16:00"
-    end_time: "16:45"
-  - title: "Closing"
-    type: custom
-    date: 2022-10-21T00:00:00+02:00
-    start_time: "16:45"
-    end_time: "17:00"
+    start_time: "17:00"
+    end_time: "17:15"
