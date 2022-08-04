@@ -34,7 +34,7 @@ location: "Charlotte - Red Ventures Auditorium"
 location_address: "1101 Red Ventures Drive, Indian Land, SC 29707"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+#  - name: propose
   - name: location
   - name: registration
   - name: program
@@ -87,6 +87,8 @@ sponsors:
   - id: gitlab
     level: gold
   - id: diamanti
+    level: gold
+  - id: sysdig
     level: gold
   - id: phoenixnap
     level: silver
@@ -224,7 +226,7 @@ program:
     date: 2022-09-09
     start_time: "10:30"
     end_time: "10:50"
-  - title: "lesley-cordero"
+  - title: "andrew-kim"
     type: talk
     date: 2022-09-09
     start_time: "10:50"
@@ -276,8 +278,6 @@ program:
     end_time: "15:30"
 ignites:
   - title: "derek-ashmore"
-    date: 2022-09-08
-  - title: "arafat-khan"
     date: 2022-09-08
   - title: "david-kirk"
     date: 2022-09-08
