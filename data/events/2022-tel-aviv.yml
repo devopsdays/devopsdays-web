@@ -251,11 +251,19 @@ sponsors:
     level: gold
   - id: esl-cloudbees
     level: gold
+  - id: googlecloud
+    level: gold
   - id: newrelic
     level: gold
+  - id: spectralops
+    level: media
   - id: esl-sonatype
     level: media
-  - id: spectralops
+  - id: doit
+    level: media
+  - id: silverfort
+    level: media
+  - id: velocitytech
     level: media
   - id: statscraft
     level: media
