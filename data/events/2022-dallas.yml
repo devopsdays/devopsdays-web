@@ -38,7 +38,7 @@ location_address: "2000 East Spring Creek Parkway, Plano, TX 75074" #Optional - 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
   - name: propose
-#  - name: program
+  - name: program
   - name: registration
   - name: speakers
   - name: sponsor
@@ -317,7 +317,7 @@ program:
     date: 2022-08-24
     start_time: "08:00"
     end_time: "08:45"
-  - title: "Intro and Code of Conduct - TBD (Organizer)"
+  - title: "Intro and Code of Conduct"
     type: custom
     date: 2022-08-24
     start_time: "08:45"
@@ -413,7 +413,7 @@ program:
     date: 2022-08-25
     start_time: "08:00"
     end_time: "08:45"
-  - title: "Welcome - TBD (Organizer)"
+  - title: "Welcome"
     type: custom
     date: 2022-08-25
     start_time: "08:45"
