@@ -317,7 +317,7 @@ program:
     date: 2022-08-24
     start_time: "08:00"
     end_time: "08:45"
-  - title: "Intro and Code of Conduct - Mark Anderson (Organizer)"
+  - title: "Intro and Code of Conduct - TBD (Organizer)"
     type: custom
     date: 2022-08-24
     start_time: "08:45"
@@ -327,7 +327,7 @@ program:
     date: 2022-08-24
     start_time: "09:00"
     end_time: "09:45"
-  - title: "damon-edwards"
+  - title: "thomas-j-sweet"
     type: talk
     date: 2022-08-24
     start_time: "09:45"
@@ -357,7 +357,7 @@ program:
     date: 2022-08-24
     start_time: "12:00"
     end_time: "12:45"
-  - title: ""
+  - title: "ana-medina"
     type: talk
     date: 2022-08-24
     start_time: "12:45"
@@ -367,7 +367,7 @@ program:
     date: 2022-08-24
     start_time: "13:30"
     end_time: "13:50"
-  - title: ""
+  - title: "jessica-clark"
     type: talk
     date: 2022-08-24
     start_time: "13:50"
@@ -377,7 +377,7 @@ program:
     date: 2022-08-24
     start_time: "14:20"
     end_time: "14:30"
-  - title: "Open Space #1"
+  - title: "Open Space Day 1"
     type: open-space
     date: 2022-08-24
     start_time: "14:30"
@@ -387,12 +387,12 @@ program:
     date: 2022-08-24
     start_time: "15:15"
     end_time: "15:30"
-  - title: "Open Space #2"
-    type: open-space
+  - title: "matthew-brahms"
+    type: talk
     date: 2022-08-24
     start_time: "15:30"
     end_time: "16:15"
-  - title: "Show & Tell what will be raffled on the 21st."
+  - title: "Show & Tell what will be raffled on the 25th"
     type: custom
     date: 2022-08-24
     start_time: "16:15"
@@ -413,12 +413,12 @@ program:
     date: 2022-08-25
     start_time: "08:00"
     end_time: "08:45"
-  - title: "Welcome - Mark Andersen (Organizer)"
+  - title: "Welcome - TBD (Organizer)"
     type: custom
     date: 2022-08-25
     start_time: "08:45"
     end_time: "09:00"
-  - title: ""
+  - title: "andrew-john-talk"
     type: talk
     date: 2022-08-25
     start_time: "09:00"
@@ -438,13 +438,13 @@ program:
     date: 2022-08-25
     start_time: "10:30"
     end_time: "11:00"
-  - title: "Ignite Talks"
-    type: ignite
+  - title: "Sponsors"
+    type: custom
     date: 2022-08-25
     start_time: "11:00"
-    end_time: "11:30"
-  - title: ""
-    type: talk
+    end_time: "11:300"
+  - title: "Ignite Talks"
+    type: ignite
     date: 2022-08-25
     start_time: "11:30"
     end_time: "12:00"
@@ -453,7 +453,7 @@ program:
     date: 2022-08-25
     start_time: "12:00"
     end_time: "12:45"
-  - title: ""
+  - title: "patrick-debois"
     type: talk
     date: 2022-08-25
     start_time: "12:45"
@@ -463,8 +463,8 @@ program:
     date: 2022-08-25
     start_time: "13:30"
     end_time: "13:45"
-  - title: "Open Space #1"
-    type: open-space
+  - title: "keri-melich"
+    type: talk
     date: 2022-08-25
     start_time: "13:45"
     end_time: "14:30"
@@ -473,12 +473,12 @@ program:
     date: 2022-08-25
     start_time: "14:30"
     end_time: "14:45"
-  - title: "Open Space #2"
+  - title: "Open Space Day 2"
     type: open-space
     date: 2022-08-25
     start_time: "14:45"
     end_time: "15:30"
-  - title: "SPEAKER DISCUSSION PANEL (Click here for video)"
+  - title: "SPEAKER DISCUSSION PANEL"
     type: custom
     date: 2022-08-25
     start_time: "15:30"
@@ -489,7 +489,7 @@ program:
     date: 2022-08-25
     start_time: "16:15"
     end_time: "16:20"  
-  - title: "Closing, Raffle Giveaway, & Farewell"
+  - title: "Closing, Raffle Giveaway & Farewell"
     type: custom
     date: 2022-08-25
     start_time: "16:20"

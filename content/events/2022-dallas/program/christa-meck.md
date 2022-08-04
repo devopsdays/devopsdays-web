@@ -15,4 +15,4 @@ Website = ""
 
 ##### TALK ABSTRACT
 
-Have you ever worked with a cloud-native data-privacy solution that cannot remediate threats? If you’ve worked with Macie, you’re very aware of this gap with remediating, or blocking, S3 buckets. In this talk, I will display the framework that filled this gap by automating S3 remediation actions.
+Folks in the DevOps community tend to be puzzle solvers with the ability to focus intensely. These characteristics set us up to burn bright, be the super hero, dive deep into understanding why something is happening, and more often than not… overdo it. We also don’t like to admit that we’ve overdone it. Some of us aren’t skilled in taking vacation days and setting boundaries so we can have work/life balance. This lightning talk is going to add some tools to your coping toolbelt - or help you start a self care practice.
