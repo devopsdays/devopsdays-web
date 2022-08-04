@@ -158,6 +158,8 @@ sponsors:
     level: platinum
   - id: snyk
     level: platinum
+  - id: splunk
+    level: platinum
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -219,8 +221,8 @@ program:
     date: 2022-09-12
     start_time: "12:50"
     end_time: "13:25"
-  - title: "Talk 5: TBD"
-    type: custom
+  - title: "andreas-grabner"
+    type: talk
     date: 2022-09-12
     start_time: "13:25"
     end_time: "14:00"
