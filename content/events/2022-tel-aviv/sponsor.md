@@ -19,10 +19,10 @@ The best thing to do is send engineers to interact with the experts at devopsday
     <br/> <strike>6 Available</strike> <!-- - <span style="text-transform: uppercase; color: red; background-color: yellow;">SOLD OUT</span> --></h3>      <br/>
     <!--  <h5 style="text-transform: uppercase; color: #c0d44f;"> **Please note, due to the limited availability of booths, sponsorships are based on the order of the receipt of the signed agreements.**</h5> -->
      <br/>
-    <h3 style="text-transform: uppercase; color: orange;">Gold Sponsor $8,000 (USD) 
+    <h3 style="text-transform: uppercase; color: orange;">Gold Sponsor $8,500 (USD) 
     <br/><strike>~ 24 Available</strike> >> ~6 Available - <span style="font-weight: 800; text-transform: uppercase; color: red; background-color: yellow;">SOLD OUT</span> </h3>
     <br/>
-    <h3 style="text-transform: uppercase; color: #d95374;">Community Sponsor $6,000 (USD) 
+    <h3 style="text-transform: uppercase; color: #d95374;">Community Sponsor $6,500 (USD) 
     <br/><strike>~ 4 Available</strike> - <span style="font-weight: 800; text-transform: uppercase; color: red; background-color: yellow;">SOLD OUT</span></h3>
     <br/>
     <br/>
