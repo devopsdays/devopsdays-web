@@ -49,18 +49,12 @@ Description = "devopsdays Tel Aviv 2022"
            accessibility.<br />
            If you are coming by public transportation, have a look at the <a
                href="https://moovitapp.com/israel-1/poi/en" target="_blank">Moovit</a> app or website, that can provide
-           the best information for bus, train or other public
-           transport options. <br />
-
+           the best information for bus, train or other public transport options. <br />
            If you are coming by train, get off at the Tel Aviv University station. From there, exit to the Expo Tel
-           Aviv
-           side of the station, from there it is a quick walk to Pavillion 10 inside the Expo.
-
+           Aviv side of the station, from there it is a quick walk to Pavillion 10 inside the Expo.
            In Tel Aviv there are many other options for public transportation including Bubble (a ride-sharing
-           service),
-           bicycles and scooters for rent (Birds & Winds), and much more. If you have any questions regarding getting
-           to the
-           venue, please make sure to <a href="#contact">contact us</a>.
+           service), bicycles and scooters for rent (Birds & Winds), and much more. If you have any questions regarding getting
+           to the venue, please make sure to <a href="#contact">contact us</a>.
        </p>  ​
        <h3>Parking</h3>
        <p>For particpants coming by car, there are multiple parking lots inside the Expo Tel Aviv grounds. We are
@@ -71,14 +65,9 @@ Description = "devopsdays Tel Aviv 2022"
            Tel Aviv Marina. You can find more information about the location of the various hotels <a
                href="https://www.tripadvisor.com/Hotels-g293984-Tel_Aviv_Tel_Aviv_District-Hotels.html"
                target="_blank"></a>here.</p>
-
        <h3>Leisure</h3>
        <p>Tel Aviv is one of the most culturally diverse cities you will ever see. There is a multitude of sights,
-           tours, and
-           museums that visitors can enjoy during their stay in Israel.</p>
-
-       ​
-
+           tours, and museums that visitors can enjoy during their stay in Israel.</p>    ​
        <p>For more information on things to do in Tel Aviv, see <a
                href="https://www.tripadvisor.com/Attractions-g293984-Activities-Tel_Aviv_Tel_Aviv_District.html"
                target="_blank">here</a>.</p>
