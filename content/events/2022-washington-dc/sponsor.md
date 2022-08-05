@@ -14,7 +14,7 @@ The best thing to do is send practitioners to interact with their peers at DevOp
 
 In 2019 we had 458 registered attendees and 91% showed up for at least a portion of the event. Of the attendees, 11% were government employees, the rest from a range of industries representing the diverse nature of the DC-Maryland-Virginia economy. DevOpsDays DC does not share registration information directly with sponsors, but feel free to ask attendees for their contact details. 
 
-Please email the organizers at {{< email_organizers >}} for information on **reserving and paying for your sponsorship**, or for any questions you may have.
+**Reserving and paying for your sponsorship**: Please use the PayPal links below, or email the organizers at {{< email_organizers >}} for alternate payment forms, or with any questions we can help you with.
 
 The following chart outlines our sponsorship packages.
 
@@ -88,9 +88,9 @@ The following chart outlines our sponsorship packages.
   </tr>
     <tr>
     <td>Available sponsorships</td>
-    <td class="yes">5</td>
-    <td class="yes"><s>5</s> 3</td>
-    <td class="yes"><s>15</s> 13</td>
+      <td class="yes"><s>5</s> <strong>4</strong></td>
+      <td class="yes"><s>5</s> <strong>1</strong></td>
+      <td class="yes"><s>15</s> <strong>7</strong></td>
   </tr>
   <tr>
     <td>Logo on shared slide, rotating during breaks</td>
@@ -207,8 +207,6 @@ The following chart outlines our sponsorship packages.
 * Logo on shared slide, rotating during breaks
 * Logo on DevOpsDays DC 2022 event website
 
-Registration coming soon!
-
 ### Gold - Price $4,000 USD
 
 * All benefits of Silver sponsors
@@ -216,15 +214,11 @@ Registration coming soon!
 * 1 additional ticket, 2 in total
 * Shared table for swag/marketing/staffing
 
-Registration coming soon!
-
 ### Platinum - Price $6,000 USD
 
 * All benefits of Gold sponsors
 * 1 minute pitch to full audience, including streaming audience (provided we are able to stream the videos)
 * 2 additional tickets, 4 in total
 * Full table for swag/marketing/staffing
-
-Registration coming soon!
 
 <hr/>
