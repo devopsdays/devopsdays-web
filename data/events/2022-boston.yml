@@ -206,8 +206,8 @@ program:
     date: 2022-09-12
     start_time: "10:55"
     end_time: "11:10"
-  - title: "Talk 3: TBD"
-    type: custom
+  - title: "daniel-kim"
+    type: talk
     date: 2022-09-12
     start_time: "11:10"
     end_time: "11:45"
