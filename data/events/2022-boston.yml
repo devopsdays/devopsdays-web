@@ -298,8 +298,8 @@ program:
     date: 2022-09-13
     start_time: "10:55"
     end_time: "11:10"
-  - title: "Talk 8: TBD"
-    type: custom
+  - title: "adarsh-shah"
+    type: talk
     date: 2022-09-13
     start_time: "11:10"
     end_time: "11:45"
