@@ -1,5 +1,5 @@
 +++
-Title = "fabian basciani"
+Title = "Fabian Basciani"
 Twitter = ""
 image = "fabian-basciani.jpg"
 type = "speaker"
