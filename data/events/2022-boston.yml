@@ -160,6 +160,11 @@ sponsors:
     level: platinum
   - id: splunk
     level: platinum
+  - id: sonatype
+    level: platinum
+  - id: zerto
+    level: platinum
+
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
