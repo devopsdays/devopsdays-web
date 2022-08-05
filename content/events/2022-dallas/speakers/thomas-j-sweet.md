@@ -8,7 +8,7 @@ linkedin = "https://www.linkedin.com/in/thomasjsweet/"
 
 +++
 
-Thomas Sweet started this career in IT in the late 1990’s, having transitioned from civil engineering. His first role was at NEC Computer Systems Division testing laptops. He has worked in a range of companies,  from five person startups to companies as large as Microsoft, where he contributed to the Office and SQL divisions. Most recently Thomas spent six years at GM Financial with this last role that of VP of Cloud Services.  Thomas is currently the CIO of Industrial Refrigeration Pros, a private equity-backed venture where he works in mergers and acquisitions, along with integration of partner companies’ IT systems.
+Thomas Sweet is CIO of a private-equity backed venture in the DFW area focused in industrial construction. After switching from Civil Engineering in 1997, he started as a manual laptop tester and worked his way up through corporate America. Tom has worked at large companies such as Microsoft and GM Financial, to smaller ones where there was only a handful of employees. Along with first-hand experience in Agile/Software Dev/Cloud/DevOps, Tom also loves building and developing teams.
 
-Thomas is a big proponent of Agile, DevOps, and Cloud, but he gets far more satisfaction from investing in his team, developing their talents and growing them into leaders. When not working, Thomas enjoys gardening and exercise.
+Tom was an honoree of HMG Strategy’s 2021 Global Leadership Institute Award for Diversity, Equity, and Inclusion (DE&I) and was an honoree for the 2020 Ones to Watch Award from IDG’s CIO and IDC’s CIO Executive Council.
 
