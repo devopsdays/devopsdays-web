@@ -1,7 +1,7 @@
 +++
 Title = "Ana Margarita Medina"
 Twitter = "ana_m_medina"
-image = "ana-martinez.jpg"
+image = "ana-medina.jpg"
 type = "speaker"
 linktitle = "ana-medina"
 website = "http://anammedina.com/"
