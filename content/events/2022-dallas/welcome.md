@@ -10,6 +10,17 @@ Description = "devopsdays Dallas 2022"
   {{< event_logo >}}
 </div>
 <br>
+<div class = "row">
+  <div class = "col-md-6 push-md-6">
+	  <div class="row">
+  		<div class="alert alert-info" role="alert">
+    			<h2>COVID-19</h2>
+    			<p>While we are making every attempt to hold an in-person event in 2022, we recognize that the ongoing pandemic may affect this plan, but we are not making any specific policy regarding attendance to this event at this time. The health and well-being of our attendees is of paramount importance, so we reserve the right to apply reasonable attendance requirements in accordance with <a href="https://guides.sll.texas.gov/covid-19/covid-19-orders-laws"><strong>local</strong></a> or federal guidance as the event draws closer.  We also reserve the right to cancel completely, or change to a virtual event, if the in-person event cannot be held safely.</p>
+  		</div>
+  	</div>
+  </div>
+</div>
+<br>
 <h5>The same group of seasoned organizers that brought you DevOpsDays DFW several years in a row are back again another year in 2022 to celebrate our 5th Anniversary. We were encouraged and motivated by the feedback received from previous year's events, which is why they are determined to bring an even better experience this year and improve the DevOps conversation throughout the DFW Metroplex.</h5>
 <br>
 <div class = "row">
@@ -36,14 +47,14 @@ Description = "devopsdays Dallas 2022"
     {{< event_link page="registration" text="Register to attend the conference!" >}}
   </div>
 </div>
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
-</div> -->
+</div>
 <!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
@@ -52,14 +63,14 @@ Description = "devopsdays Dallas 2022"
     View the {{< event_link page="program" text="program." >}}
   </div>
 </div> -->
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
-</div> -->
+</div>
 <div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>

@@ -17,16 +17,22 @@ To ensure the event is as safe as possible for all in attendance we are taking t
 
 We will do this by using a “thermometer gun,” a device that is equipped with an infrared sensor that can quickly measure surface temperature without making any contact with a person's skin.
 
-<h3>Ask you to provide proof of at least two Covid vaccinations</h3>
+<h3>Ask you to provide proof of at least three Covid vaccinations</h3>
 
 You can do this via the paper card you carry in your wallet or by showing us your digital “NHS Covid Pass”.
 To get the NHS Covid Pass you’ll need to register on the NHS App and download it to your phone ahead of time. To register, the process takes around 5-10 mins but it can take up to 24 hours for the NHS to process so please do this ahead of time. You can then save the pass into your digital wallet for easy access.
-International attendees should provide an equivalent certification from their country.
-If you have medical reasons why you have not been vaccinated please let the volunteers know. We understand there will need to be exemptions for some cases.
 
-Prove you have had a negative result on a lateral flow test in the last 24-48 hours
-We would like you to do this by entering your negative result at https://test-for-coronavirus.service.gov.uk/report-result/login-choice. From this you will receive an email or text message to confirm your negative result, which we would like you to show us upon arrival.
-If you cannot prove a negative lateral flow result we will have a testing area at the venue where you will be asked to do one in real time before joining the conference. Please bear in mind this will take 30 mins as a minimum so arrive early! We may have a limited number of tests available and therefore ask you to conduct your own before arriving if at all possible.
+* International attendees should provide an equivalent certification from their country.
+* If you have medical reasons why you have not been vaccinated please let the volunteers know. We understand there will need to be exemptions for some cases.
+
+
+<h3> We ask you to take a lateral flow test prior to attending the event </h3>
+
+While we are not requiring proof of negative lateral flow at the event we kindly ask that you take a test before attending the 
+event both days for everyone's safety. 
+
+Lateral flow tests can be ordered online from most pharmacies. 
+
 
 <h3> Ask you to choose a wrist band.</h3>
 
@@ -40,8 +46,8 @@ We thank you in advance for being respectful about peoples choices around their 
 
 <h2>Throughout the conference</h2>
 It is not a socially distanced conference so there is no requirement for you to keep your distance from your friends, but please be respectful of others who may want to keep their distance.
-
-Face mask wearing will be optional, depending on your comfort levels.
+<br><br>
+Face mask wearing will be optional, depending on your comfort levels. We <b>strongly</b> encourage mask wearing during the event.
 
 We will provide hand sanitiser around the venue for use throughout the day
 

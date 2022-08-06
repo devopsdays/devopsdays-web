@@ -8,13 +8,13 @@ masthead_background: "logo-square.jpg"
 speakers_verbose: "false"
 
 # All dates are in unquoted YYYY-MM-DD or YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T23:59:59+02:00
-startdate: "2022-10-07" # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: "2022-10-07" # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: "2022-10-21" # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: "2022-10-21" # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 
-cfp_date_start: "" # start accepting talk proposals.
-cfp_date_end: "" # close your call for proposals.
+# cfp_date_start: "" # start accepting talk proposals.
+# cfp_date_end: "" # close your call for proposals.
 # cfp_date_announce: "" # inform proposers of status
 
 cfp_open: "false"
@@ -86,10 +86,29 @@ organizer_email: "tampa@devopsdays.org" # Put your organizer email address here
 sponsors:
   - id: nobl9
     level: platinum
-  - id: moogsoft
-    level: platinum
   - id: dynatrace
     level: platinum
+  - id: clumio
+    level: platinum
+  - id: env0
+    level: platinum
+  - id: spectrocloud
+    level: diamond
+  - id: 42crunch
+    level: diamond
+  - id: trendmicro
+    level: platinum
+  - id: edge-delta
+    level: platinum
+  - id: datadog
+    level: platinum
+  - id: sysdig
+    level: platinum
+  - id: diamanti
+    level: platinum
+  - id: devopstampabay
+    level: community
+    
 #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 # - id: arresteddevops
 #  level: community
@@ -106,8 +125,10 @@ sponsor_levels:
     max: 2
   - id: platinum
     label: Platinum
-    max: 4 # This is the same as omitting the max limit.
+    max: 9 # This is the same as omitting the max limit.
   - id: gold
     label: Gold
+  - id: community
+    label: Community
 
 

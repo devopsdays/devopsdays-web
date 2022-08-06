@@ -2,7 +2,7 @@ name: "2022-montreal" # The name of the event. Four digit year with the city nam
 year: "2022" # The year of the event. Make sure it is in quotes.
 city: "Montréal" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsmontreal" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "Devopsdays is coming to Montreal! CFP is now open, hit the Propose button!" # Edit this to suit your preferences
+description: "Devopsdays is coming to Montreal! The current CFP round is now closed. We're reviewing entries" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2022-MM-DDTHH:MM:SS+TZ:TZ, like this:
@@ -16,7 +16,7 @@ enddate:  2022-10-27T17:00:00-04:00 # The end date of your event. Leave blank if
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2022-02-25T17:00:00-04:00 # start accepting talk proposals.
 cfp_date_end: 2022-04-30T17:00:00-04:00 # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_announce: # inform proposers of status
 
 cfp_link: "https://docs.google.com/forms/d/e/1FAIpQLSf4qwC-lcdymPpvd15hUFqR6lVDABvXXcFNZrIwvNeugG7MgQ/viewform" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
@@ -40,10 +40,12 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: program
  # - name: speakers
   - name: sponsor
+  - name: Become a sponsor
+    url: https://assets.devopsdays.org/events/2022/montreal/SponsorshipDeck2022pdf.pdf
   - name: contact
   - name: conduct
-  - name: Call for Proposals
-    url: https://docs.google.com/forms/d/e/1FAIpQLSf4qwC-lcdymPpvd15hUFqR6lVDABvXXcFNZrIwvNeugG7MgQ/viewform
+# - name: Call for Proposals
+#   url: https://docs.google.com/forms/d/e/1FAIpQLSf4qwC-lcdymPpvd15hUFqR6lVDABvXXcFNZrIwvNeugG7MgQ/viewform
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -101,21 +103,28 @@ team_members: # Name is the only required field for team members.
     github: "sebagomez"
     twitter: "sebagomez"
     linkedin: "https://www.linkedin.com/in/sebagomez/"
-  - name: "Thanh-Liem Tran"
-    employer: "Legion Labs"
-    github: ""
-    twitter: "thanhliemtran"
-    linkedin: "https://www.linkedin.com/in/tltran/"
 
 organizer_email: "montreal@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: samplesponsorname
-    level: gold
+ # - id: samplesponsorname
+ #   level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: artiq
+    level: platinum
+  - id: dynatrace
+    level: gold
+  - id: suse
+    level: gold
+  - id: appdirect
+    level: cocktail
+  - id: gologic
+    level: bronze
   - id: arresteddevops
+    level: community
+  - id: "agile-montreal"
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -125,13 +134,29 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: platinum
+    label: Platinum
+    max: 2
   - id: gold
     label: Gold
-#    max: 10
+    max: 5
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    max: 9
   - id: bronze
     label: Bronze
+    max: 7
+  - id: lunch
+    label: Lunch
+    max: 2
+  - id: cocktail
+    label: Cocktail
+    max: 1
+  - id: lanyard
+    label: Lanyard
+    max: 1
+  - id: coffee
+    label: Coffee
+    max: 1
   - id: community
     label: Community

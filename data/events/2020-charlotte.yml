@@ -75,11 +75,11 @@ sponsors:
     level: gold
   - id: virtru
     level: gold
-  - id: influxdata
+  - id: influxdata-before-20220629
     level: gold
-  - id: appdynamics
+  - id: appdynamics-before-20220714
     level: gold
-  - id: gitlab
+  - id: gitlab-before-20220516
     level: gold
   - id: instana
     level: gold

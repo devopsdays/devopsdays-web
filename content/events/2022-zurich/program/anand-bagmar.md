@@ -33,3 +33,5 @@ In this hands-on workshop, using numerous examples, we will explore:
 * Potential solutions / options for Automated Visual Testing, with pros & cons of each
 * How an AI-powered tool, Applitools Eyes, can solve this problem
 * Hands-on look at Applitools Visual AI and how to get started using it
+
+[Prequisities for this workshop](/events/2022-zurich/workshop-info-anand-bagmar.pdf)

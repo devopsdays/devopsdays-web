@@ -21,7 +21,6 @@ The best thing to do is send engineers to interact with the experts at devopsday
   <thead>
     <tr>
       <th scope="col">THE GOODS</th>
-      <th scope="col">GOLD</th>
       <th scope="col">SILVER</th>
       <th scope="col">BRONZE</th>
       <th scope="col">COMMUNITY</th>
@@ -30,7 +29,6 @@ The best thing to do is send engineers to interact with the experts at devopsday
   <tbody>
     <tr>
       <td>Price</td>
-      <td>$7,500</td>
       <td>$4,250</td>
       <td>$1,250</td>
       <td>Free</td>
@@ -46,15 +44,6 @@ The best thing to do is send engineers to interact with the experts at devopsday
     </tr>
     <tr>
       <td></td>
-      <td>
-        <!-- Gold Paypal button  -->
-        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-          <input type="hidden" name="cmd" value="_s-xclick">
-          <input type="hidden" name="hosted_button_id" value="LDL9YT3DT62DC">
-          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-          <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-        </form>
-      </td>
       <td>
         <!-- silver Paypal button  -->
         <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -78,10 +67,16 @@ The best thing to do is send engineers to interact with the experts at devopsday
     </tr>
     <tr>
       <td>Tickets Included</td>
-      <td>4</td>
       <td>2</td>
       <td>1</td>
       <td>0</td>
-    </tr>
   </tbody>
 </table>
+
+<div class = "row">
+<div class = "col-12">
+  <br/>
+  <br/>
+  Sponsors are responsible for providing high-res logos for use on the website and in promotional materials.  The preferred file formats are EPS or AI.
+  <br/><br/>
+</div>

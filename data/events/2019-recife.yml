@@ -39,8 +39,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #   icon: "" deprecated - This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
  - name: local
    url: /events/2019-recife/local
- - name: inscricao
-   url: https://www.sympla.com.br/devopsdays-recife__660075
+#  - name: inscricao
+#    url: https://www.sympla.com.br/devopsdays-recife__660075
  - name: código de conduta
    url: /events/2019-recife/conduct
  - name: contato

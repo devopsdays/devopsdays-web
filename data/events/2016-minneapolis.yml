@@ -121,7 +121,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: community
   - id: blacksintechnology
     level: community
-  - id: hackthegap
+  - id: hackthegap-before-20220707
     level: community
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.

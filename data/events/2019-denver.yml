@@ -101,9 +101,9 @@ sponsors:
   level: silver
 - id: signalfx
   level: silver
-- id: influxdata
+- id: influxdata-before-20220629
   level: gold
-- id: appdynamics
+- id: appdynamics-before-20220714
   level: gold
 - id: cloudbees-before-20210804
   level: gold
@@ -131,7 +131,7 @@ sponsors:
   level: coffee
 - id: hashicorp
   level: gold
-- id: gitlab
+- id: gitlab-before-20220516
   level: gold
 
 # In this section, list the level of sponsorships and the label to use.

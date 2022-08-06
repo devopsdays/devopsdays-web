@@ -85,7 +85,7 @@ sponsors:
     level: lanyard
   - id: scotiabank
     level: gold
-  - id: appdynamics
+  - id: appdynamics-before-20220714
     level: gold
   - id: codefresh
     level: gold
@@ -97,7 +97,7 @@ sponsors:
     level: silver
   - id: elastic
     level: gold
-  - id: googlecloud
+  - id: googlecloud-before-20220526
     level: gold
   - id: chef-before-20210112
     level: gold
@@ -109,7 +109,7 @@ sponsors:
     level: silver
   - id: redhat
     level: gold
-  - id: gitlab
+  - id: gitlab-before-20220516
     level: silver
   - id: splitio
     level: platinum
@@ -117,9 +117,9 @@ sponsors:
     level: gold
   - id: redis-labs
     level: gold
-  - id: splunk
+  - id: splunk-before-20220426
     level: gold
-  - id: splunk
+  - id: splunk-before-20220426
     level: chargingstation
   - id: deloitte
     level: gold

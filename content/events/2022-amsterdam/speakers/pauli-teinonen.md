@@ -1,7 +1,7 @@
 +++
 Title = "Pauli Teinonen"
 Twitter = ""
-image = "pauli-teinonen.jfif"
+image = "pauli-teinonen.png"
 type = "speaker"
 linktitle = "pauli-teinonen"
 
