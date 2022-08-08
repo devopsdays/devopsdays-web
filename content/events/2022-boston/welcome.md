@@ -27,6 +27,10 @@ h1.welcome-page { text-transform: initial; }
       <div class="col-md-8">{{< event_location >}}</div>
     </div>
     <div class="row">
+      <div class="col-md-2"><strong>Register</strong></div>
+      <div class="col-md-8"><a href="https://ti.to/devopsdaysbos/2022">Register to attend the conference!</a></div>
+    </div>
+    <div class="row">
       <div class="col-md-2"><strong>Sponsors</strong></div>
       <div class="col-md-8">{{< event_link page="sponsor" text="Sponsor the conference!" >}}</div>
     </div>
