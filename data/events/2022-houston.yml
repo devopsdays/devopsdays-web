@@ -116,7 +116,11 @@ sponsors:
     level: gold
   - id: diamanti
     level: gold
+  - id: datadog
+    level: gold    
   - id: improving
+    level: silver
+  - id: stormforge
     level: silver
   - id: edge-delta
     level: platinum

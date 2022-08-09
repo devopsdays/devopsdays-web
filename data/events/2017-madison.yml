@@ -90,7 +90,7 @@ sponsors:
     level: silver
   - id: swamp
     level: silver
-  - id: newrelic
+  - id: newrelic-before-20220808
     level: silver
   - id: cloudbolt
     level: gold

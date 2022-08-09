@@ -92,7 +92,7 @@ sponsors:
   - id: schubergphilis-before-20220319
     level: BBQ
   # Beer
-  - id: newrelic
+  - id: newrelic-before-20220808-before-20220808
     level: beer
   # Coffee
   - id: sentia
@@ -100,7 +100,7 @@ sponsors:
   # Golds
   - id: f5
     level: gold
-  - id: newrelic
+  - id: newrelic-before-20220808-before-20220808
     level: gold
   - id: kpn-ict
     level: gold

@@ -35,7 +35,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: propose
  - name: location
  - name: registration
- # - name: program
+ - name: program
  # - name: speakers
  - name: sponsor
  - name: contact
@@ -91,7 +91,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/bryanttn/"
 
   - name: "Peter Burkholder"
-    employer: "cloud.gov"
+    employer: "US Government"
     twitter: "@pburkholder"
     bio: "Geophysicist turned DevOp"
     image: "peter-burkholder.jpg"

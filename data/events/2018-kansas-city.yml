@@ -199,7 +199,7 @@ sponsors:
     level: premium
   - id: aporeto
     level: premium
-  - id: newrelic
+  - id: newrelic-before-20220808
     level: premium
   - id: kaizenops
     level: amenity
