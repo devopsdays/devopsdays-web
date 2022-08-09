@@ -182,7 +182,7 @@ sponsors:
     level: bronze
   - id: elastic
     level: bronze
-  - id: newrelic
+  - id: newrelic-before-20220808
     level: bronze
   - id: cargill
     level: alacarte
