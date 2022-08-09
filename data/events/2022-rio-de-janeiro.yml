@@ -73,6 +73,10 @@ sponsors:
   - id: btg-pactual
     level: platinum
     url: https://www.btgpactualdigital.com/ # Use this if you need to over-ride a sponsor URL.
+  - id: harness
+    level: platinum
+  - id: hurb
+    level: platinum
   - id: linuxtips
     level: gold
     url: https://linuxtips.io # Use this if you need to over-ride a sponsor URL.
@@ -80,6 +84,8 @@ sponsors:
     level: gold
   - id: cisco
     level: gold
+  - id: globotv
+    level: silver
   - id: thoughtworks-services
     level: bronze
   - id: tecnogueto
