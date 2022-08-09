@@ -189,8 +189,6 @@ sponsors:
     level: gold
   - id: pulumi
     level: gold
-  - id: replicated
-    level: gold
   - id: spectrocloud
     level: gold
   - id: circleci
@@ -243,11 +241,11 @@ sponsors:
     level: silver
   - id: googlecloud
     level: silver
+  - id: stormforge
+    level: silver
    
    #Bronze Sponsors
   - id: env0
-    level: bronze
-  - id: stormforge
     level: bronze
   - id: 42crunch
     level: bronze
