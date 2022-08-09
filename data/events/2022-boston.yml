@@ -210,8 +210,8 @@ program:
     date: 2022-09-12
     start_time: "11:45"
     end_time: "12:50"
-  - title: "Talk 4: TBD"
-    type: custom
+  - title: "kam-lasater"
+    type: talk
     date: 2022-09-12
     start_time: "12:50"
     end_time: "13:25"
@@ -307,8 +307,8 @@ program:
     date: 2022-09-13
     start_time: "12:50"
     end_time: "13:25"
-  - title: "Talk 10: TBD"
-    type: custom
+  - title: "thomas-stringer"
+    type: talk
     date: 2022-09-13
     start_time: "13:25"
     end_time: "14:00"
