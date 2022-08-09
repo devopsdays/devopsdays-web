@@ -204,6 +204,10 @@ sponsors:
   - id: nirmata
     level: gold
 
+   #lanyard
+  - id: morningstar
+    level: lanyard
+
    #transcription
   - id: postman
     level: transcription
@@ -260,6 +264,9 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Gold
+    max: 1
+  - id: lanyard
+    label: Lanyard
     max: 1
   - id: silver
     label: Silver

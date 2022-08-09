@@ -93,7 +93,7 @@ sponsors:
   level: gold
 - id: chef-before-20210112
   level: silver
-- id: newrelic
+- id: newrelic-before-20220808
   level: silver
 - id: xmatters
   level: silver

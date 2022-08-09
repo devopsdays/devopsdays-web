@@ -201,7 +201,7 @@ sponsors:
     level: premium
   - id: new-context
     level: social
-  - id: newrelic
+  - id: newrelic-before-20220808
     level: premium
   - id: hrblock
     level: supporting
