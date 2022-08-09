@@ -31,7 +31,7 @@ masthead_background: "buffalo-skyline.jpg"
 
 # Location
 #
-location: "Seneca One Tower | Virtual" # Defaults to city, but you can make it the venue name.
+location: "Seneca One Tower" # Defaults to city, but you can make it the venue name.
 coordinates: "42.8797755,-78.8763309" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location_address: "1 Seneca St, Buffalo, NY 14203, USA" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
