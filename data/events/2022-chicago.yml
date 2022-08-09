@@ -189,8 +189,6 @@ sponsors:
     level: gold
   - id: pulumi
     level: gold
-  - id: replicated
-    level: gold
   - id: spectrocloud
     level: gold
   - id: circleci
@@ -203,6 +201,14 @@ sponsors:
     level: gold
   - id: nirmata
     level: gold
+
+   #lanyard
+  - id: morningstar
+    level: lanyard
+
+   #transcription
+  - id: postman
+    level: transcription
     
    #Silver Sponsors
   - id: linearb
@@ -231,20 +237,21 @@ sponsors:
     level: silver
   - id: cloudbees
     level: silver
-  - id: merkely
+  - id: kosli
+    level: silver
+  - id: googlecloud
+    level: silver
+  - id: stormforge
     level: silver
    
    #Bronze Sponsors
   - id: env0
     level: bronze
-  - id: stormforge
-    level: bronze
   - id: 42crunch
     level: bronze
   - id: vivanti
     level: bronze
-  - id: googlecloud
-    level: bronze
+
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -256,13 +263,21 @@ sponsor_levels:
   - id: gold
     label: Gold
     max: 1
+  - id: lanyard
+    label: Lanyard
+    max: 1
   - id: silver
     label: Silver
     max: 1 # This is the same as omitting the max limit.
+  - id: transcription
+    label: Live Transcription
+    max: 1
   - id: bronze
     label: Bronze
   - id: community
     label: Community
+
+
 program:
   - title: "Registration, Breakfast, Sponsors"
     type: custom

@@ -201,14 +201,14 @@ All special sponsors will have their logo displayed on the DevOpsDays Chicago we
       <td>$7,000</td>
       <td>Your logo and colors around every attendee's credential</td>
       <td>2</td>
-      <td>1</td>
+      <td>SOLD OUT</td>
     </tr>
     <tr>
       <td>Live Transcription</td>
       <td>$3,000</td>
       <td>Your logo by the screen where talks are transcribed</td>
       <td>2</td>
-      <td>1</td>
+      <td>SOLD OUT</td>
     </tr>
     <tr>
       <td>ASL Interpreter</td>

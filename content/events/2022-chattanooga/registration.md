@@ -11,4 +11,4 @@ Description = "Registration for devopsdays Chattanooga 2022"
 </div>
 <br/>
 
-You can always use the following link: [https://ti.to/chattanooga-devopsdays/2022](https://ti.to/devopsdays-portugal/devopsdays-portugal-2022)
+You can always use the following link: [https://ti.to/chattanooga-devopsdays/2022](https://ti.to/chattanooga-devopsdays/2022)

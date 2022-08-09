@@ -222,7 +222,7 @@ sponsors:
     level: gold
   - id: workiva
     level: gold
-  - id: newrelic
+  - id: newrelic-before-20220808
     level: gold 
   - id: heroku
     level: bronze

@@ -211,9 +211,9 @@ sponsors:
     level: gold
   - id: mnclude
     level: community
-  - id: newrelic
+  - id: newrelic-before-20220808-before-20220808
     level: gold
-  - id: newrelic
+  - id: newrelic-before-20220808-before-20220808
     level: alacarte
   - id: atomist
     level: silver

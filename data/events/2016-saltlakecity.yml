@@ -49,7 +49,7 @@ team_members:
 organizer_email: "organizers-saltlakecity-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-saltlakecity-2016@devopsdays.org" # Put your proposal email address here
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
-  - id: newrelic
+  - id: newrelic-before-20220808
     level: eveningsocial
   - id: pivotal-before-20190307
     level: blackdiamond

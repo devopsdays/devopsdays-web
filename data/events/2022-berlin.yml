@@ -105,6 +105,8 @@ sponsors:
     level: platinum
   - id: polarsquad
     level: platinum
+  - id: elastic
+    level: platinum
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
