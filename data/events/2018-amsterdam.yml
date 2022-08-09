@@ -89,7 +89,7 @@ proposal_email: "proposals-amsterdam-2018@devopsdays.org" # Put your proposal em
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
   # Beer
-  - id: newrelic
+  - id: newrelic-before-20220808-before-20220808
     level: beer
   # Coffee
   - id: leaseweb
@@ -99,7 +99,7 @@ sponsors:
     level: gold
   - id: stackstate-before-22062022
     level: gold
-  - id: newrelic
+  - id: newrelic-before-20220808-before-20220808
     level: gold
   - id: pivotal-before-20190307
     level: gold

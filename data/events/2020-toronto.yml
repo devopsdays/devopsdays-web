@@ -105,7 +105,7 @@ sponsors:
     level: gold
   - id: vmware
     level: gold
-  - id: newrelic
+  - id: newrelic-before-20220808
     level: silver
   - id: redhat
     level: gold
