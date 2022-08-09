@@ -185,8 +185,8 @@ program:
     date: 2022-09-12
     start_time: "09:30"
     end_time: "09:45"
-  - title: "Talk 1: TBD"
-    type: custom
+  - title: "malcolm-preston"
+    type: talk
     date: 2022-09-12
     start_time: "09:45"
     end_time: "10:20"
