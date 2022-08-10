@@ -282,8 +282,8 @@ program:
     date: 2022-09-13
     start_time: "09:45"
     end_time: "10:20"
-  - title: "Talk 7: TBD"
-    type: custom
+  - title: "gad-salner"
+    type: talk
     date: 2022-09-13
     start_time: "10:20"
     end_time: "10:55"
