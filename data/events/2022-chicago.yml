@@ -27,6 +27,7 @@ registration_closed: "" #set this to true if you need to manually close registra
 registration_link: "https://www.universe.com/embed2/events/devopsdays-chicago-2022-tickets-chicago-932F4Z" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 masthead_background: "skyline-night.jpg"
+sharing_image: "sharing.png"
 
 # Location
 #
