@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Firesisde :fire: Chat with Andrew Clay Shafer & John Willis"
+Title = "Firesisde Chat with Andrew Clay Shafer & John Willis"
 Type = "talk"
 Speakers = ["andrew-clay-shafer", "john-willis"]
 Youtube = ""
