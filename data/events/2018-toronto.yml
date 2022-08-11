@@ -74,7 +74,7 @@ sponsors:
     level: silver
   - id: scalar
     level: silver
-  - id: hashicorp
+  - id: hashicorp-before-20220811
     level: silver
   - id: dynatrace
     level: silver

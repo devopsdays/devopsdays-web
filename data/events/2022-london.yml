@@ -114,12 +114,16 @@ sponsors:
     level: silver
   - id: squaredup
     level: silver
+  - id: pulumi
+    level: silver
   # bronze sponsors
   - id: conflux
     level: bronze
-  - id: pulumi
-    level: bronze
   - id: syntasso
+    level: bronze
+  - id: hashicorp
+    level: bronze
+  - id: dxw
     level: bronze
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
