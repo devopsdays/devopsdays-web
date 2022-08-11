@@ -113,8 +113,6 @@ sponsors:
     level: platinum
   - id: couchbase
     level: platinum
-  - id: planetscale
-    level: platinum
   - id: dynatrace
     level: platinum
   - id: circleci
@@ -152,6 +150,8 @@ sponsors:
   - id: sonatype
     level: platinum
   - id: zerto
+    level: platinum
+  - id: roostai
     level: platinum
 
 
