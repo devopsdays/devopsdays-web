@@ -130,7 +130,7 @@ sponsors:
     # Bronze
   - id: buildkite
     level: bronze
-  - id: dxw
+  - id: dxw-before-20220811
     level: bronze
   - id: enginetransformation
     level: bronze

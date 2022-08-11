@@ -142,7 +142,7 @@ sponsors:
     level: gold
   - id: rancher
     level: gold
-  - id: hashicorp
+  - id: hashicorp-before-20220811
     level: gold
   - id: pagerduty
     level: gold
