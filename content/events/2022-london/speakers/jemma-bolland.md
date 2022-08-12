@@ -1,7 +1,7 @@
 +++
 Title = "Jemma Bolland"
 Twitter = "jemolova"
-image = ""
+image = "jemma-bolland.png"
 type = "speaker"
 linktitle = "jemma-bolland"
 
