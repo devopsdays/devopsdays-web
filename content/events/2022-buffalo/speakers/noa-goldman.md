@@ -2,7 +2,7 @@
 title = "Noa Goldman"
 website = "https://www.rookout.com/"
 linkedin = "https://www.linkedin.com/in/goldmanoa/"
-image = "noa-goldman.jpeg"
+image = "noa-goldman.jpg"
 sharing_image = "noa-goldman-card.png"
 type = "speaker"
 linktitle = "noa-goldman"

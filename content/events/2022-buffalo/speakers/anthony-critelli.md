@@ -2,7 +2,7 @@
 title = "Anthony Critelli"
 website = "https://www.acritelli.com/blog/"
 linkedin = "https://www.linkedin.com/in/anthonycritelli/"
-image = "anthony-critelli.jpeg"
+image = "anthony-critelli.png"
 sharing_image = "anthony-critelli-card.png"
 type = "speaker"
 linktitle = "anthony-critelli"

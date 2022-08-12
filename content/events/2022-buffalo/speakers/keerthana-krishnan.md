@@ -2,7 +2,7 @@
 title = "Keerthana Krishnan"
 twitter = "KeerthanaK17"
 website = "https://sessionize.com/keerthana-krishnan"
-image = "keerthana-krishnan.jpeg"
+image = "keerthana-krishnan.jpg"
 sharing_image = "keerthana-krishnan-card.png"
 type = "speaker"
 linktitle = "keerthana-krishnan"
