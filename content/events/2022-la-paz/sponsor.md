@@ -14,7 +14,7 @@ Description = "Sponsor Devopsdays La Paz 2022"
   </div>
 </div>
 <hr/>
-<p>Devopsdays es una conferencia auto organizada dirigda a la comunidad por lo que no promovemos productos copmerciales en conferencias, tampoco entregamos la lista de asistentes a ninguna empresa.</p>
+<p>Devopsdays es una conferencia auto organizada dirigda a la comunidad por lo que no promovemos productos comerciales en conferencias, tampoco entregamos la lista de asistentes a ninguna empresa.</p>
 <p>Los auspiciadores podran tener espacios en lugares especificos del evento y en los medios de difusión que se dispongan.</p>
 <!--
 There are also opportunities for exclusive special sponsorships. We'll have sponsors for various events with special privileges for the sponsors of these events. If you are interested in special sponsorships or have a creative idea about how you can support the event, send us an email.
