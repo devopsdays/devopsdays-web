@@ -35,6 +35,7 @@ location_address: "539 Tremont St, Boston, MA 02116" # Optional - use the street
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
+  - name: covid
   - name: location
   - name: registration
   - name: program
