@@ -104,7 +104,7 @@ Chicago, IL 60608<br>
 Please address your boxes and materials to:
 
 Attn: Damien Miller<br/>
-DevOpsDays Chicago - <Company Name><br/>
+DevOpsDays Chicago - < Company Name ><br />
 UIC Forum<br/>
 725 W Roosevelt Rd.<br/>
 Chicago, IL 60608
@@ -126,8 +126,8 @@ We will be using the provided logos as shown on the conference website. If you w
 
 
 ## Floor Plan
-![](https://lh4.googleusercontent.com/z8tT2wEd_Skbp1YTWaDkNTVgf_E2psdIG11khq5eKShOcKJOEw8Asf4s6vCwdOKctgPZCHtOQZwsWWwtVa6LG5iMMt3sdJjCRH_Y4zWZ0LYsdW_mU8RyFUlOXudiEiXVv50QMWbUtzO5VFMqHNfqVHA)
 
+TBA
 
 ## Sponsor Tables
 
