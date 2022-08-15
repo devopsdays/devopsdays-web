@@ -21,18 +21,18 @@ cfp_open: "false"
 #cfp_link: "https://www.papercall.io/dodtampabay" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 cfp_link: "https://www.papercall.io/tampadod"
 
-registration_date_start: "" # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: "" # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2022-08-14T00:00:00-05:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2022-08-21T23:59:59-04:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.eventbrite.com/e/devopsdays-tampa-bay-2022-tickets-403152729667?aff=devopsdayswebsite" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
-coordinates: "" #  The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+coordinates: "27.762802, -82.634803" #  The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Tampa Bay" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "140 7th Ave S, St. Petersburg, FL 33701" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
@@ -40,8 +40,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     icon: "book"
   - name: location
     icon: "map-o"
-#    url: /events/2019-tampa/location
-#  - name: registration
+    url: /events/2022-tampa/location
+  - name: registration
 #  - name: program
 #  - name: speakers
   - name: sponsor
