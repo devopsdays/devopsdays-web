@@ -35,7 +35,7 @@ location_address: "1001 Pl. Jean-Paul-Riopelle, Montreal, Quebec H2Z 1H5" #Optio
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
-  - name: location
+ # - name: location
   - name: registration
  # - name: program
  # - name: speakers
