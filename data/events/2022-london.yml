@@ -249,20 +249,20 @@ program:
 ignites:
   - title: "ben-madley"
     date: 2022-09-29T00:00:00+01:00
+  - title: "sara-mazer"
+    date: 2022-09-29T00:00:00+01:00
   - title: "gavin-campbell"
     date: 2022-09-29T00:00:00+01:00
-  - title: "marcus-noble"
-    date: 2022-09-29T00:00:00+01:00
-  - title: "salman-iqbal"
+  - title: "elora-walmisley"
     date: 2022-09-29T00:00:00+01:00
   - title: "marino-wijay"
     date: 2022-09-29T00:00:00+01:00
-  - title: "jennifer-mackown"
-    date: 2022-09-30T23:59:59+01:00
-  - title: "elora-walmisley"
-    date: 2022-09-30T23:59:59+01:00
-  - title: "sara-mazer"
+  - title: "marcus-noble"
     date: 2022-09-30T23:59:59+01:00
   - title: "temi-olukoko"
+    date: 2022-09-30T23:59:59+01:00
+  - title: "jennifer-mackown"
+    date: 2022-09-30T23:59:59+01:00
+  - title: "salman-iqbal"
     date: 2022-09-30T23:59:59+01:00
 
