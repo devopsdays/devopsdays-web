@@ -36,8 +36,8 @@ location_address: "1 Carter St, Chattanooga, TN 37402 " #Optional - use the stre
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
   - name: registration
-# - name: program
-# - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
