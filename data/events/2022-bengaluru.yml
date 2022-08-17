@@ -65,10 +65,14 @@ organizer_email: "bengaluru@devopsdays.org" # Put your organizer email address h
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  # - id: chef
-  #   level: gold
-  # - id: arresteddevops
-  #   level: community
+  - id: last9
+    level: silver
+  - id: postman
+    level: silver
+  - id: solo
+    level: silver
+  - id: sema
+    level: diversity
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
