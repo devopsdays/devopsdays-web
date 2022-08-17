@@ -2,7 +2,7 @@
 Title = "devopsdays detroit 2022"
 Type = "welcome"
 aliases = [
-  "/events/2022-detroit/"
+  "/events/2022-detroit/",
   "/events/2022-detroit/conduct-fr/",
   "/events/2022-detroit/conduct-pt-br/",
   "/events/2022-detroit/location/",
