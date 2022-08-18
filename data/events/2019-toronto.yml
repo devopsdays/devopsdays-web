@@ -95,7 +95,7 @@ sponsors:
     level: gold
   - id: slalom-build
     level: gold
-  - id: hashicorp
+  - id: hashicorp-before-20220811
     level: gold
   - id: dynatrace
     level: gold

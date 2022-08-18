@@ -42,7 +42,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   #   url: https://sessionize.com/devopsdays-eindhoven-2022/
   - name: location
   - name: registration
-  # - name: program
+  - name: program
   # - name: speakers
   - name: sponsor
   - name: contact
@@ -155,3 +155,233 @@ sponsor_levels:
   - id: bronze
     label: Bronze
     max: 6
+
+program:
+  # Day One
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2022-10-20T00:00:00+02:00
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2022-10-20T00:00:00+02:00
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "fabian-basciani"
+    type: talk
+    date: 2022-10-20T00:00:00+02:00
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "pablo-bouzada-santome"
+    type: talk
+    date: 2022-10-20T00:00:00+02:00
+    start_time: "09:45"
+    end_time: "10:15"
+  - title: "vili-mileva-yankova"
+    type: talk
+    date: 2022-10-20T00:00:00+02:00
+    start_time: "10:15"
+    end_time: "10:45"
+  - title: "Break"
+    type: custom
+    date: 2022-10-20T00:00:00+02:00
+    start_time: "10:45"
+    end_time: "11:00"
+  - title: "TBA"
+    type: talk
+    date: 2022-10-20T00:00:00+02:00
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "moukarram-kabbash"
+    type: talk
+    date: 2022-10-20T00:00:00+02:00
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "arjen-de-ruiter"
+    type: talk
+    date: 2022-10-20T00:00:00+02:00
+    start_time: "12:00"
+    end_time: "12:30"
+  - title: "Lunch"
+    type: custom
+    date: 2022-10-20T00:00:00+02:00
+    start_time: "12:30"
+    end_time: "13:30"
+  - title: "Ignites"
+    type: custom
+    date: 2022-10-20T00:00:00+02:00
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2022-10-20T00:00:00+02:00
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: "Break"
+    type: custom
+    date: 2022-10-20T00:00:00+02:00
+    start_time: "14:30"
+    end_time: "14:45"
+  - title: "Open Space #1"
+    type: custom
+    date: 2022-10-20T00:00:00+02:00
+    start_time: "14:45"
+    end_time: "15:10"
+  - title: "rachid-kherrazi"
+    type: talk
+    date: 2022-10-20T00:00:00+02:00
+    start_time: "14:45"
+    end_time: "15:10"
+  - title: "Open Space #2"
+    type: custom
+    date: 2022-10-20T00:00:00+02:00
+    start_time: "15:10"
+    end_time: "15:40"
+  - title: "alex-de-groot"
+    type: talk
+    date: 2022-10-20T00:00:00+02:00
+    start_time: "15:10"
+    end_time: "15:40"
+  - title: "Break"
+    type: custom
+    date: 2022-10-20T00:00:00+02:00
+    start_time: "15:40"
+    end_time: "16:00"
+  - title: "Open Space #3"
+    type: custom
+    date: 2022-10-20T00:00:00+02:00
+    start_time: "16:00"
+    end_time: "16:25"
+  - title: "hila-fish"
+    type: talk
+    date: 2022-10-20T00:00:00+02:00
+    start_time: "16:00"
+    end_time: "16:25"
+  - title: "federico-fregosi"
+    type: talk
+    date: 2022-10-20T00:00:00+02:00
+    start_time: "16:30"
+    end_time: "17:10"
+  - title: "Close Day"
+    type: custom
+    date: 2022-10-20T00:00:00+02:00
+    start_time: "17:15"
+    end_time: "17:30"
+  - title: "Evening event"
+    type: custom
+    date: 2022-10-20T00:00:00+02:00
+    start_time: "17:30"
+    end_time: "21:00"
+
+  # Day two
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2022-10-21T00:00:00+02:00
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2022-10-21T00:00:00+02:00
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "werner-heijstek"
+    type: talk
+    date: 2022-10-21T00:00:00+02:00
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "dianna-keen"
+    type: talk
+    date: 2022-10-21T00:00:00+02:00
+    start_time: "09:45"
+    end_time: "10:15"
+  - title: "christa-meck"
+    type: talk
+    date: 2022-10-21T00:00:00+02:00
+    start_time: "10:15"
+    end_time: "10:45"
+  - title: "Break"
+    type: custom
+    date: 2022-10-21T00:00:00+02:00
+    start_time: "10:45"
+    end_time: "11:00"
+  - title: "radu-vunvulea"
+    type: talk
+    date: 2022-10-21T00:00:00+02:00
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "danny-higler"
+    type: talk
+    date: 2022-10-21T00:00:00+02:00
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "mirza-dautbegovic"
+    type: talk
+    date: 2022-10-21T00:00:00+02:00
+    start_time: "12:00"
+    end_time: "12:30"
+  - title: "Lunch"
+    type: custom
+    date: 2022-10-21T00:00:00+02:00
+    start_time: "12:30"
+    end_time: "13:30"
+  - title: "vanessa-kantner"
+    type: talk
+    date: 2022-10-21T00:00:00+02:00
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2022-10-21T00:00:00+02:00
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: "Break"
+    type: custom
+    date: 2022-10-21T00:00:00+02:00
+    start_time: "14:30"
+    end_time: "14:45"
+  - title: "Open Space #1"
+    type: custom
+    date: 2022-10-21T00:00:00+02:00
+    start_time: "14:45"
+    end_time: "15:10"
+  - title: "esther-barthel"
+    type: talk
+    date: 2022-10-21T00:00:00+02:00
+    start_time: "14:45"
+    end_time: "15:10"
+  - title: "Open Space #2"
+    type: custom
+    date: 2022-10-21T00:00:00+02:00
+    start_time: "15:10"
+    end_time: "15:45"
+  - title: "derek-smith"
+    type: talk
+    date: 2022-10-21T00:00:00+02:00
+    start_time: "15:10"
+    end_time: "15:45"
+  - title: "Break"
+    type: custom
+    date: 2022-10-21T00:00:00+02:00
+    start_time: "15:45"
+    end_time: "16:00"
+  - title: "Open Space #3"
+    type: custom
+    date: 2022-10-21T00:00:00+02:00
+    start_time: "16:00"
+    end_time: "16:25"
+  - title: "ivan-milchev"
+    type: talk
+    date: 2022-10-21T00:00:00+02:00
+    start_time: "16:00"
+    end_time: "16:25"
+  - title: "TBA"
+    type: talk
+    date: 2022-10-21T00:00:00+02:00
+    start_time: "16:30"
+    end_time: "17:00"
+  - title: "Close Day"
+    type: custom
+    date: 2022-10-20T00:00:00+02:00
+    start_time: "17:00"
+    end_time: "17:15"

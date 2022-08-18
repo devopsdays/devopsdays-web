@@ -112,7 +112,7 @@ sponsors:
     level: silver
   - id: flux
     level: silver
-  - id: hashicorp
+  - id: hashicorp-before-20220811
     level: silver
   - id: microsoftnzazure
     level: silver

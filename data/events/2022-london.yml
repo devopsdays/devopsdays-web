@@ -84,22 +84,48 @@ organizer_email: "london@devopsdays.org" # Put your organizer email address here
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
   # platinum sponsors
+  - id: coralogix
+    level: platinum
   # gold sponsors
   - id: chef
+    level: gold
+  - id: delphix
+    level: gold
+  - id: kosli
     level: gold
   - id : github
     level: gold
   - id: humio
     level: gold
+  - id: spacelift
+    level: gold
+  - id: teleport
+    level: gold
   # silver sponsors
   - id: harness
+    level: silver
+  - id: circleci
+    level: silver
+  - id: civo
+    level: silver
+  - id: firehydrant
+    level: silver
+  - id: spectrocloud
+    level: silver
+  - id: squaredup
+    level: silver
+  - id: pulumi
+    level: silver
+  - id: postman
     level: silver
   # bronze sponsors
   - id: conflux
     level: bronze
-  - id: pulumi
-    level: bronze
   - id: syntasso
+    level: bronze
+  - id: hashicorp
+    level: bronze
+  - id: dxw
     level: bronze
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -154,11 +180,11 @@ program:
     date: 2022-09-29T00:00:00+01:00
     start_time: "12:00"
     end_time: "12:35"
-  # - title: "Ignites Day 1"
-  #   type: ignite
-  #   date: 2022-09-29T00:00:00+01:00
-  #   start_time: "12:35"
-  #   end_time: "13:05"
+  - title: "Ignites Day 1"
+    type: ignite
+    date: 2022-09-29T00:00:00+01:00
+    start_time: "12:35"
+    end_time: "13:05"
   - title: "Lunch"
     type: custom
     date: 2022-09-29T00:00:00+01:00
@@ -204,11 +230,11 @@ program:
     date: 2022-09-30T23:59:59+01:00
     start_time: "12:00"
     end_time: "12:35"
-  # - title: "Ignites Day 2"
-  #   type: ignite
-  #   date: 2022-09-30T23:59:59+01:00
-  #   start_time: "12:35"
-  #   end_time: "13:05"
+  - title: "Ignites Day 2"
+    type: ignite
+    date: 2022-09-30T23:59:59+01:00
+    start_time: "12:35"
+    end_time: "13:05"
   - title: "Lunch"
     type: custom
     date: 2022-09-30T23:59:59+01:00
@@ -220,25 +246,23 @@ program:
     start_time: "14:05"
     end_time: "17:00"
 
-# ignites:
-#   - title: ""
-#     date: 2022-09-29T00:00:00+01:00
-#   - title: ""
-#     date: 2022-09-29T00:00:00+01:00
-#   - title: ""
-#     date: 2022-09-29T00:00:00+01:00
-#   - title: ""
-#     date: 2022-09-29T00:00:00+01:00
-#   - title: ""
-#     date: 2022-09-29T00:00:00+01:00
-#   - title: ""
-#     date: 2022-09-30T23:59:59+01:00
-#   - title: ""
-#     date: 2022-09-30T23:59:59+01:00
-#   - title: ""
-#     date: 2022-09-30T23:59:59+01:00
-#   - title: ""
-#     date: 2022-09-30T23:59:59+01:00
-#   - title: ""
-#     date: 2022-09-30T23:59:59+01:00
+ignites:
+  - title: "ben-madley"
+    date: 2022-09-29T00:00:00+01:00
+  - title: "sara-mazer"
+    date: 2022-09-29T00:00:00+01:00
+  - title: "gavin-campbell"
+    date: 2022-09-29T00:00:00+01:00
+  - title: "elora-walmisley"
+    date: 2022-09-29T00:00:00+01:00
+  - title: "marino-wijay"
+    date: 2022-09-29T00:00:00+01:00
+  - title: "marcus-noble"
+    date: 2022-09-30T23:59:59+01:00
+  - title: "temi-olukoko"
+    date: 2022-09-30T23:59:59+01:00
+  - title: "jennifer-mackown"
+    date: 2022-09-30T23:59:59+01:00
+  - title: "salman-iqbal"
+    date: 2022-09-30T23:59:59+01:00
 

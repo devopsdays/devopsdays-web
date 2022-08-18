@@ -1,0 +1,1 @@
+Una vez conlcuido el llamado a trabajos se publicara la lista de speakers
