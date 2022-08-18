@@ -42,7 +42,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   #  - name: location
   - name: registration
   #  - name: program
-  #  - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -76,17 +76,17 @@ team_members: # Name is the only required field for team members.
     github:
     website:
     image: elisete-cruz.jpg
-  - name: "Miguel Antunes"
-    employer: "Clarity AI"
+  - name: "Salim Rahim"
+    employer: "Philip Morris International "
     bio: ""
-    linkedin: "https://www.linkedin.com/in/miguelcostaantunes"
+    linkedin: "https://www.linkedin.com/in/salimrahim/"
     twitter:
-    github: "micantunes"
+    github:
     website:
-    image: miguel-antunes.jpg
+    image:
   - name: "Julia Lamenza"
     employer: "Independent Consultant"
-    bio: "Devops enthusiast with more than 10 years in IT. Loves to travel and study new things in your spare time."
+    bio: "Devops enthusiast with more than 10 years in IT. Loves to travel and study new things in her spare time."
     linkedin: "https://www.linkedin.com/in/julialamenza/"
     twitter: "jlamenza"
     github: "julialamenza"
@@ -138,15 +138,65 @@ organizer_email: "portugal@devopsdays.org" # Put your organizer email address he
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-# - id: edp
-#   level: gold
-# - id: outsystems
-# - id: devscope
-#   level: silver
-# - id: gfi
-#   level: bronze
-# - id: agileportugal
-#   level: community
+  - id: uphold
+    level: platinum
+  - id: bosch-portugal
+    level: platinum
+  - id: critical-techworks
+    level: gold
+  - id: xgeeks
+    level: gold
+  - id: basecone
+    level: gold
+  - id: daimler
+    level: gold
+  - id: eurotux
+    level: silver
+  - id: laredoute
+    level: bronze
+  - id: springernature
+    level: bronze
+  - id: coverflex
+    level: bronze
+  - id: newwork
+    level: bronze
+  - id: clevainetum
+    level: bronze
+  - id: devopslisbon
+    level: community
+  - id: devopsporto
+    level: community
+  - id: agileportugal
+    level: community
+  - id: geekgirlsportugal
+    level: community
+  - id: ptwit
+    level: community
+  - id: ticeleiria
+    level: community
+  - id: qeunit
+    level: community
+  - id: netpontoporto
+    level: community
+  - id: oposec
+    level: community
+  - id: oern
+    level: community
+  - id: itjobspt
+    level: community
+  - id: kubeevents
+    level: community
+#  - id: agileconnect
+#    level: community#  
+#  - id: winb
+#    level: community
+#  - id: pydata-lx
+#    level: community
+#  - id: dspt
+#    level: community
+#  - id: devopsbraga
+#    level: community
+
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 

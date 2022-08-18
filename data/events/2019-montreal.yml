@@ -131,13 +131,13 @@ sponsors:
      level: community
    - id: linkbynet
      level: silver
-   - id: newrelic
+   - id: newrelic-before-20220808
      level: silver
    - id: pulumi-before-20220422
      level: bronze
    - id: cloud_ca
      level: lanyard
-   - id: appdynamics
+   - id: appdynamics-before-20220714
      level: coffee
    - id: datadog
      level: bronze

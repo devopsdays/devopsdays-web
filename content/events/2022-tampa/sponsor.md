@@ -51,9 +51,9 @@ Sponsorship to be negotiated
       </td>
       <td style="padding: 5px" align="center" valign="top"><b>Gold</b><br>10 Left<br><br><br>
 </td>
-      <td style="padding: 5px" align="center" valign="top"><b>Platinum</b><br>2 Left<br><br><br>
+      <td style="padding: 5px" align="center" valign="top"><b>Platinum</b><br>0 Left<br><br><br>
 </td>
-      <td style="padding: 5px" align="center" valign="top"><b>Diamond</b><br>1 Left<br><br><br>
+      <td style="padding: 5px" align="center" valign="top"><b>Diamond</b><br>0 Left<br><br><br>
 </td>
     </tr>
     <tr>
@@ -75,7 +75,7 @@ Sponsorship to be negotiated
       <td style="padding: 5px" align="center"><img width="25" src="/img/checkmark.png"></td>
     </tr>
     <tr>
-      <td>Logo on intermission slides</td>
+      <td>Logo on Intermission Slides</td>
       <td style="padding: 5px" align="center"><img width="25" src="/img/checkmark.png"></td>
       <td style="padding: 5px" align="center"><img width="25" src="/img/checkmark.png"></td>
       <td style="padding: 5px" align="center"><img width="25" src="/img/checkmark.png"></td>
@@ -87,13 +87,19 @@ Sponsorship to be negotiated
       <td style="padding: 5px" align="center"><img width="25" src="/img/checkmark.png"></td>
     </tr>
     <tr>
-      <td>Event Posters</td>
+      <td>Logo on Event Posters</td>
       <td style="padding: 5px"> </td>
       <td style="padding: 5px" align="center"><img width="25" src="/img/checkmark.png"></td>
       <td style="padding: 5px" align="center"><img width="25" src="/img/checkmark.png"></td>
     </tr>
     <tr>
-      <td>Speaker Cover Slides</td>
+      <td>Logo on Speaker Cover Slides</td>
+      <td style="padding: 5px"> </td>
+      <td style="padding: 5px"> </td>
+      <td style="padding: 5px" align="center"><img width="25" src="/img/checkmark.png"></td>
+    </tr>
+    <tr>
+      <td>Sponsor Pitch 3 Minutes</td>
       <td style="padding: 5px"> </td>
       <td style="padding: 5px"> </td>
       <td style="padding: 5px" align="center"><img width="25" src="/img/checkmark.png"></td>

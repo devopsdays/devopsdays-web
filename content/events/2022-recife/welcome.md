@@ -24,7 +24,7 @@ Description = "devopsdays Recife 2022"
         <strong>Local</strong>
       </div>
       <div class = "col-md-8">
-        {{< event_link page="local" text="TBD" title="A ser definido" >}}
+        {{< event_link page="local" text="CESAR School" title="A ser definido" >}}
       </div>
     </div>
     <div class = "row">
@@ -33,6 +33,14 @@ Description = "devopsdays Recife 2022"
       </div>
       <div class = "col-md-6">
         {{< event_link page="contato" text="Entre em contato com os organizadores" >}}
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-2">
+        <strong>CFP</strong>
+      </div>
+      <div class="col-md-6">
+        {{< event_link url-key="cfp_link" text="Submeta a sua talk!" >}}
       </div>
     </div>
   </div>

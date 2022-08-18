@@ -10,8 +10,8 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: 2022-07-29T08:00:00-06:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2022-07-30T08:00:00-06:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2022-07-28T08:00:00-06:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2022-07-29T08:00:00-06:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  2022-01-23T08:00:00-06:00 # start accepting talk proposals.
@@ -45,7 +45,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #    url: "https://devopsdays.io/agenda-2"
  # - name: speakers
   - name: sponsor
- # - name: speakers
+  - name: speakers
   - name: contact
   - name: conduct
 # - name: example
@@ -113,11 +113,11 @@ team_members: # Name is the only required field for team members.
 #   website: ""
 #   github: ""
 #   image: ".jpg"  
-  - name: "Miguel Teheran"
-    employer: "Globant"
-    image: "miguel.png" 
-    twitter: "Mteheran"
-    linkedin: "https://www.linkedin.com/in/miguel-angel-teheran-garcia-1a034525/"
+#  - name: "Miguel Teheran"
+#    employer: "Globant"
+#    image: "miguel.png" 
+#    twitter: "Mteheran"
+#    linkedin: "https://www.linkedin.com/in/miguel-angel-teheran-garcia-1a034525/"
 #   facebook: ""
 #   website: ""
 #   github: ""  
@@ -145,10 +145,62 @@ sponsors:
 # - id: samplesponsorname
 #   level: gold
 #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-#  - id: agileconsulting
-#    level: diamond
-#  - id: rutan
-
+  - id: harness
+    level: diamond
+  - id: devops-colombia
+    level: diamond
+  - id: sonatype
+    level: diamond
+  - id: checkpoint
+    level: diamond
+  - id: watchguard
+    level: diamond
+  - id: 2020-devco
+    level: platinum
+  - id: fluidattacks
+    level: platinum
+  - id: certiprof
+    level: platinum
+  - id: hashicorp-before-20220811
+    level: platinum
+  - id: techandsolve
+    level: platinum
+  - id: pragma
+    level: platinum
+  - id: rutan
+    level: platinum
+  - id: alcaldiamedellin
+    level: platinum
+  - id: runfalcon
+    level: platinum
+  - id: 2022-paloalto
+    level: platinum
+  - id: dataart
+    level: platinum
+  - id: blankfactor
+    level: platinum
+  - id: edgeuno
+    level: platinum 
+  - id: omnilatam
+    level: platinum
+  - id: nginx
+    level: platinum
+  - id: masglobal
+    level: platinum
+  - id: clavesecurity
+    level: platinum
+  - id: linux-professional-institute
+    level: socialmedia
+  - id: procolombia
+    level: socialmedia
+  - id: intersoftware
+    level: socialmedia
+  - id: javeriana
+    level: socialmedia
+  - id: tigo
+    level: socialmedia
+  - id: whomenwhocodebogota
+    level: socialmedia
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -160,6 +212,7 @@ sponsor_levels:
     label: Diamond
   - id: platinum
     label: Platinum
-  - id: gold
-    label: Gold
-
+#  - id: gold
+#    label: Gold
+  - id: socialmedia
+    label: Allied

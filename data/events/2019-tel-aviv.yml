@@ -154,9 +154,9 @@ sponsors:
     level: gold
   - id: jfrog
     level: gold
-  - id: newrelic
+  - id: newrelic-before-20220808
     level: gold
-  - id: googlecloud
+  - id: googlecloud-before-20220526
     level: gold
   - id: mondaycom
     level: gold

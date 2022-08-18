@@ -92,7 +92,7 @@ sponsors:
   - id: schubergphilis-before-20220319
     level: BBQ
   # Beer
-  - id: newrelic
+  - id: newrelic-before-20220808-before-20220808
     level: beer
   # Coffee
   - id: sentia
@@ -100,13 +100,13 @@ sponsors:
   # Golds
   - id: f5
     level: gold
-  - id: newrelic
+  - id: newrelic-before-20220808-before-20220808
     level: gold
   - id: kpn-ict
     level: gold
   - id: capgemini
     level: gold
-  - id: influxdata
+  - id: influxdata-before-20220629
     level: gold
   - id: pivotal
     level: gold
@@ -114,14 +114,14 @@ sponsors:
     level: gold
   - id: vmware
     level: gold
-  - id: googlecloud
+  - id: googlecloud-before-20220526
     level: gold
   - id: microsoft
     level: gold
   # Silver
   - id: valtech
     level: silver
-  - id: portworx
+  - id: portworx-before-20220630
     level: silver
   - id: aqua_sec
     level: silver
@@ -182,31 +182,31 @@ sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: BBQ
     label: BBQ
-    max: "1"
+    max: 1
   - id: beer
     label: Beer
-    max: "1"
+    max: 1
   - id: coffee
     label: Coffee
-    max: "1"
+    max: 1
   - id: gold
     label: Gold
-    max: "8"
+    max: 8
   - id: silver
     label: Silver
-    max: "7"
+    max: 7
   - id: recharge
     label: "Power recharge"
-    max: "1"
+    max: 1
   - id: lanyard
     label: Lanyard
-    max: "1"
+    max: 1
   - id: foodtrucks
     label: "Food Trucks"
-    max: "3"
+    max: 3
   - id: wine
     label: "Wine"
-    max: "1"
+    max: 1
   - id: bronze
     label: Bronze
 

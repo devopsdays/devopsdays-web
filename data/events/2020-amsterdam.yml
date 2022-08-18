@@ -105,16 +105,16 @@ sponsors:
 sponsor_levels:
   - id: media
     label: Media
-    max: "1"
+    max: 1
   - id: gold
     label: Gold
-    max: "3"
+    max: 3
   - id: silver
     label: Silver
-    max: "8"
+    max: 8
   - id: bronze
     label: Bronze
-    max: "10"
+    max: 10
 
 program:
   ## keynotes

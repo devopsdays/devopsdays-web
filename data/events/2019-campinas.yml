@@ -101,7 +101,7 @@ sponsors:
     level: gold
   - id: signalfx
     level: gold
-  - id: newrelic
+  - id: newrelic-before-20220808
     level: gold
   - id: dextra
     level: gold

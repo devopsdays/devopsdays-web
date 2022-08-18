@@ -4,7 +4,7 @@ city: "Zurich (Winterthur)" # The displayed city name of the event. Capitalize i
 event_twitter: "DevOpsZH" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "DevOpsDays is coming to Zurich!" # Edit this to suit your preferences
 ga_tracking_id: "UA-174260535-7" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
-event_group: "Zurich"
+event_group: "Zürich"
 
 # All dates are in unquoted 2022-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2022-09-08T00:00:00+02:00
@@ -251,13 +251,13 @@ program:
   start_time: '10:30'
   end_time: '11:00'
 
-- title: sharon-steed
+- title: andrew-martin-talk
   type: talk
   date: 2022-05-31
   start_time: '11:00'
   end_time: '11:30'
   
-- title: tshiamo-komane
+- title: derek-yu
   type: talk
   date: 2022-05-31
   start_time: '11:30'
@@ -315,7 +315,7 @@ program:
   type: workshop
   date: 2022-05-31
   start_time: '15:00'
-  end_time: '16:00'
+  end_time: '16:15'
 
 - title: Closing Day 1
   type: custom
@@ -366,7 +366,7 @@ program:
   start_time: '11:00'
   end_time: '11:30'
   
-- title: anais-urlichs
+- title: joseph-katsioloudes-talk
   type: talk
   date: 2022-06-01
   start_time: '11:30'
@@ -417,7 +417,7 @@ program:
 - title: anand-bagmar
   type: workshop
   date: 2022-06-01
-  start_time: '14:45'
+  start_time: '15:00'
   end_time: '17:15'
 
 - title: ricardo-castro
@@ -433,9 +433,9 @@ program:
   end_time: '17:30'
 
 ignites:
-  - title: "tobias-hauk"
-    date: 2022-05-31
   - title: "luigi-zoso"
+    date: 2022-05-31
+  - title: "tobias-hauk"
     date: 2022-05-31
   - title: "sebastian-mangelkramer"
     date: 2022-05-31
@@ -443,9 +443,9 @@ ignites:
     date: 2022-05-31
   - title: "achim-toeper"
     date: 2022-05-31
-  - title: "benjamin-wyss"
-    date: 2022-06-01
   - title: "andriy-bilous"
+    date: 2022-06-01
+  - title: "benjamin-wyss"
     date: 2022-06-01
   - title: "daiany-palacios"
     date: 2022-06-01
