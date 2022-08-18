@@ -107,6 +107,11 @@ sponsors:
     level: platinum
   - id: elastic
     level: platinum
+  - id: cloudbees
+    level: platinum
+  - id: emnify
+    level: gold
+
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

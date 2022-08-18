@@ -4,7 +4,7 @@ Type = "event"
 Description = "Location for DevOpsDays London 2022"
 +++
 
-The event this year will take place at Oval Space
+The event this year will take place at the Kia Oval
 
 Kia Oval
 Kennington

@@ -172,7 +172,7 @@ sponsors:
     level: gold
   - id: verizon
     level: platinum
-  - id: newrelic
+  - id: newrelic-before-20220808
     level: gold
   - id: victorops
     level: platinum
