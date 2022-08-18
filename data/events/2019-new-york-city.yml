@@ -145,7 +145,7 @@ sponsors:
     level: silver
   - id: gitlab-before-20220516
     level: silver
-  - id: newrelic
+  - id: newrelic-before-20220808
     level: gold
   - id: pagerduty-before-20190930
     level: gold

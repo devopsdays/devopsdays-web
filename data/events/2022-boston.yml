@@ -35,6 +35,7 @@ location_address: "539 Tremont St, Boston, MA 02116" # Optional - use the street
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
+  - name: covid
   - name: location
   - name: registration
   - name: program
@@ -113,8 +114,6 @@ sponsors:
     level: platinum
   - id: couchbase
     level: platinum
-  - id: planetscale
-    level: platinum
   - id: dynatrace
     level: platinum
   - id: circleci
@@ -149,6 +148,13 @@ sponsors:
     level: platinum
   - id: splunk
     level: platinum
+  - id: sonatype
+    level: platinum
+  - id: zerto
+    level: platinum
+  - id: roostai
+    level: platinum
+
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -180,13 +186,13 @@ program:
     date: 2022-09-12
     start_time: "09:30"
     end_time: "09:45"
-  - title: "Talk 1: TBD"
-    type: custom
+  - title: "malcolm-preston"
+    type: talk
     date: 2022-09-12
     start_time: "09:45"
     end_time: "10:20"
-  - title: "Talk 2: TBD"
-    type: custom
+  - title: "steve-mcghee"
+    type: talk
     date: 2022-09-12
     start_time: "10:20"
     end_time: "10:55"
@@ -195,8 +201,8 @@ program:
     date: 2022-09-12
     start_time: "10:55"
     end_time: "11:10"
-  - title: "Talk 3: TBD"
-    type: custom
+  - title: "daniel-kim"
+    type: talk
     date: 2022-09-12
     start_time: "11:10"
     end_time: "11:45"
@@ -205,8 +211,8 @@ program:
     date: 2022-09-12
     start_time: "11:45"
     end_time: "12:50"
-  - title: "Talk 4: TBD"
-    type: custom
+  - title: "kam-lasater"
+    type: talk
     date: 2022-09-12
     start_time: "12:50"
     end_time: "13:25"
@@ -277,8 +283,8 @@ program:
     date: 2022-09-13
     start_time: "09:45"
     end_time: "10:20"
-  - title: "Talk 7: TBD"
-    type: custom
+  - title: "gad-salner"
+    type: talk
     date: 2022-09-13
     start_time: "10:20"
     end_time: "10:55"
@@ -302,8 +308,8 @@ program:
     date: 2022-09-13
     start_time: "12:50"
     end_time: "13:25"
-  - title: "Talk 10: TBD"
-    type: custom
+  - title: "thomas-stringer"
+    type: talk
     date: 2022-09-13
     start_time: "13:25"
     end_time: "14:00"

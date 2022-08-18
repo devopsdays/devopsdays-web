@@ -148,9 +148,19 @@ sponsors:
     level: gold
   - id: basecone
     level: gold
+  - id: daimler
+    level: gold
   - id: eurotux
     level: silver
   - id: laredoute
+    level: bronze
+  - id: springernature
+    level: bronze
+  - id: coverflex
+    level: bronze
+  - id: newwork
+    level: bronze
+  - id: clevainetum
     level: bronze
   - id: devopslisbon
     level: community
@@ -160,6 +170,8 @@ sponsors:
     level: community
   - id: geekgirlsportugal
     level: community
+  - id: ptwit
+    level: community
   - id: ticeleiria
     level: community
   - id: qeunit
@@ -168,14 +180,14 @@ sponsors:
     level: community
   - id: oposec
     level: community
+  - id: oern
+    level: community
   - id: itjobspt
     level: community
-  - id: techeventsonline
+  - id: kubeevents
     level: community
 #  - id: agileconnect
-#    level: community
-#  - id: ptwit
-#    level: community
+#    level: community#  
 #  - id: winb
 #    level: community
 #  - id: pydata-lx
