@@ -39,8 +39,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: propose
   - name: location
   - name: registration
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -151,3 +151,5 @@ sponsor_levels:
     label: Startup Corner
   - id: community
     label: Community
+
+
