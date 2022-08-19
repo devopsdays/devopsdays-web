@@ -77,7 +77,7 @@ All benefits from Gold level sponsors PLUS:
       <td>Price</td>
       <td><s>6000 EUR</s><br/>Sold out!</td>
       <td><s>4500 EUR</s><br/>Sold out!</td>
-      <td>3000 EUR</td>
+      <td><s>3000 EUR</s><br/>Sold out!</td>
       <td>1000 EUR</td>
     </tr>
     <tr>
