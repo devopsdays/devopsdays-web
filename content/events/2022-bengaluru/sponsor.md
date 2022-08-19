@@ -38,13 +38,13 @@ Description = "Sponsor DevOpsDays Bengaluru 2022"
             <tr>
               <th scope="row">Pricing</th>
               <td>
-                <center>$10,400</center>
+                <center>$4,600(including taxes)</center>
               </td>
               <td>
-                <center>$6,500</center>
+                <center>$7,670(including taxes)</center>
               </td>
               <td>
-                <center>$3,900</center>
+                <center>$12,270(including taxes)</center>
               </td>
             </tr>
             <tr>
@@ -65,10 +65,10 @@ Description = "Sponsor DevOpsDays Bengaluru 2022"
                 <center>5</center>
               </td>
               <td>
-                <center>4</center>
+                <center>8</center>
               </td>
               <td>
-                <center>2</center>
+                <center>12</center>
               </td>
             </tr>
             <tr>
