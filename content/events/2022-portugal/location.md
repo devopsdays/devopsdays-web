@@ -1,76 +1,67 @@
 +++
-Title = "DevOpsDays Portugal 2022"
-Type = "welcome"
-aliases = ["/events/2022-portugal/"]
-Description = "devopsdays portugal 2022"
+Title = "Location"
+Type = "event"
+aliases = ["/events/2022-portugal/location"]
+Description = "Location info for the event"
 +++
 
 <div class="container">
   <div class="row">
     <div class="col-12">
       <div class="row justify-content-center">
-        <img src="/events/2022-portugal/logo.png" class="img-fluid mx-auto">
+        <img src="/events/2022-portugal/location/alfandega_1_0.jpg" class="img-fluid mx-auto">
       </div>
     </div>
   </div>
 
   <div class="row justify-content-center">
-    <h2>{{< event_start >}} - {{< event_end >}}</h2>
-  </div>
-
-  <div class="row justify-content-center">
     <h3>Alfandega do Porto Congress Centre, Porto, Portugal</h3>
+    <ul>
+      <li>Address: EDIFÍCIO DA ALFÂNDEGA,</br>
+        R. Nova da Alfândega,</br>
+        4050-430 Porto</li>
+      <li>website: https://www.ccalfandegaporto.com/</li>
+      <li>Coordinates: 41.14359258974132, -8.621631510362722</li>
+      <li>Navigate: <a href="Maps Page:
+  https://www.google.com/maps/place/Alf%C3%A2ndega+do+Porto/@41.1434189,-8.6238991
+  ,17z/data=!4m5!3m4!1s0xd24651e5418666b:0x586d876c499097be!8m2!3d41.1434124!4d8.6217123" target="_blank">Google Maps</a></li>
   </div>
 
+  <hr/>
+
   <div class="row justify-content-center">
-    <div class="col-md-2">
-      {{< event_twitter >}}
+    <div class="col-md-12">
+      <h3>Getting to the Venue</h3>
+      <p>Easiest method to get to the venue is to Uber your way there.</p>
+      <p>If you prefer existing public transportation, the closest train and metro station is S. Bento; You can then
+        catch the 500 Matosinhos (Mercado) STCP Bus at S.Bento (SBNT1) down to the Alfândega Stop
+        (ALFG1) (4 stops, 6min). You’ll need the Andante rechargeable card with 1 Z2 trip loaded (1,20€)
+        or buy one ticket on board (2€).</p>
+      <p>When moving around the city, we recommend choosing the subway first, uber second and taxis
+        third. Lime scooters are also an option. Porto is walkable (and you get to see more of it that way)
+        but do keep in mind that it is full of hills. It’s mostly downhill to the venue.</p>
+      <p>If coming from the <b>airport</b>, the “E” metro line has service about every half hour. This line takes
+        26min to get to the city center (Trindade stop). However, the subway option at the airport isn't as
+        good as it could be, if you need to get into the city's center. Uber (~15€, estimated without
+        possible surge prices) or taxi is a better / faster bet. Also, the city is full of stone sidewalks
+        ("calçada") which isn't great for rolling a suitcase around.</p>
+      <p>You can use <a href="https://www.stcp.pt/pt/itinerarium/" target="_blank">STCP Site</a> or <a href="https://moovitapp.com/porto-1904/poi/en" target="_blank">Moovit</a> to check the best available public transport options, cost, and type of
+        ticket you need to buy to get from A to B. Also, here you can find all the tariffs available if you are
+        considering moving around using public transportation</p>
+        <p>You can also check out more info on the <a href=" https://en.metrodoporto.pt/" target="_blank">Metro website</a>.
+        Subway and bus usage requires a rechargeable card (Andante card) that you can acquire at the
+        station (0.60€) and add any number of trips that can be used both on the metro and STCP buses</p>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-12">
+      <div class="row justify-content-center">
+        <img src="/events/2022-portugal/location/subway.png" class="img-fluid mx-auto">
+      </div>
     </div>
   </div>
   
-  <hr style="margin:50px 0px"/>
-
-  <div class="row justify-content-center">
-    <div class="col-sm-2">
-      <a href="https://devopsporto.com/"><img src="/img/sponsors/devopsporto.png" class="img-fluid mx-auto" /></a>
-    </div>
-    <div class="col-sm-6">
-      <p><b>DevOpsDays Portugal 2022 is the second edition of the event, and it's powered by <a href="https://www.meetup.com/devopsporto/">DevOps Porto</a> and <a href="https://www.meetup.com/pt-BR/DevOps-Lisbon/">DevOps Lisbon</a>, the main communities dedicated to DevOps in Portugal.</b></p><p><b>For this edition we climbed up north and have chosen Porto as the city that will host DevOpsDays Portugal's second edition. More details ahead.</b></p>
-    </div>
-    <div class="col-sm-2">
-      <a href="https://www.meetup.com/pt-BR/DevOps-Lisbon/"><img src="/img/sponsors/devopslisbon.png" class="img-fluid mx-auto" /></a>
-    </div>    
-  </div>
-
-  <hr style="margin:50px 0px"/>
-
-  <div class="row">
-    <div class = "col-md-4">
-      <h2>Register</h2>
-      <p>Grab your ticket today and join us for two days of talks, open-spaces and networking.</p>
-    </div>
-    <div class = "col-md-4">
-      <h2>Sponsor</h2>
-      <p>Helps us run the conference bby sponsoring the event. It's a great way to increase your componay and brand's visibility in the community and show you care.</p>
-    </div>
-    <div class = "col-md-4">
-      <h2>Get In Touch</h2>
-      <p>Want to know more or need and help regarding the conference? Reach out to us.</p>
-    </div>
-  </div>
-
-  <div class="row" style="margin-bottom:50px">
-    <div class = "col-md-4">
-      <a href="/events/2022-portugal/registration" type="button" class="btn btn-primary btn-lg btn-block">Register today!</a>
-    </div>
-    <div class = "col-md-4">
-      <a href="/events/2022-portugal/sponsor" type="button" class="btn btn-primary btn-lg btn-block">Sponsor the conference!</a>
-    </div>
-    <div class = "col-md-4">
-      <a href="/events/2022-portugal/contact" type="button" class="btn btn-primary btn-lg btn-block">Get in touch with the organizers</a>
-    </div>
-  </div>
-
   <hr style="margin:50px 0px"/>
   
   <div class="row">
@@ -117,50 +108,4 @@ Description = "devopsdays portugal 2022"
     <div class="col">
     </div>
   </div>
-
-
-
-
-
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Location</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_location >}}
-  </div>
-</div> -->
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Register</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
-  </div>
-</div> -->
-
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Program</strong>
-  </div>
-  <div class = "col-md-8">
-    View the {{< event_link page="program" text="program." >}}
-  </div>
-</div> -->
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Speakers</strong>
-  </div>
-  <div class = "col-md-8">
-    Check out the {{< event_link page="speakers" text="speakers!" >}}
-  </div>
-</div> -->
-
-
-
-
 </div>
