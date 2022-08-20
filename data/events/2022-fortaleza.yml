@@ -29,10 +29,10 @@ registration_link: "https://devopsdaysce.eventize.com.br" # If you have a custom
 
 # Location
 #
-coordinates: "-3.7710272, -38.4858382" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Local: Centro Universitário 7 de Setembro - Fortaleza/CE" # Defaults to city, but you can make it the venue name.
+coordinates: "3.7697702, -38.4799603" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Local: UNIFOR - Universidade de Fortaleza - Fortaleza/CE" # Defaults to city, but you can make it the venue name.
 #
-location_address: "Av. Almirante Maximiniano da Fonseca, 1395 - Eng. Luciano Cavalcante" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "Av. Washington Soares, 1321 - Edson Queiroz" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
@@ -193,9 +193,9 @@ sponsor_levels:
     label: Bronze
 
 sponsors:
-  # - id: uni7
-  #   level: platinum
-  #   url: https://www.uni7.edu.br/
+  - id: unifor
+    level: platinum
+    url: https://unifor.br/
   - id: elevenworks
     level: platinum
     url: https://elven.works/
