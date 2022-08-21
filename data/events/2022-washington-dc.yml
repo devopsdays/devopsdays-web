@@ -250,5 +250,6 @@ sponsor_levels:
     label: Silver
     max: 5
     #max: 0 # This is the same as omitting the max limit.
-  # - id: community
-  #   label: Community
+  - id: community
+    label: Community
+    max: 0
