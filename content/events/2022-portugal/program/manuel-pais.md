@@ -2,7 +2,7 @@
 Talk_date = "2022-09-27"
 Talk_start_time = "11:10"
 Talk_end_time = "11:40"
-Title = " Frozen DevOps? The not-so-technical last mile"
+Title = "Frozen DevOps? The not-so-technical last mile"
 Type = "talk"
 Speakers = ["manuel-pais"]
 +++
