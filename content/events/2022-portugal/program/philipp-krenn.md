@@ -2,7 +2,7 @@
 Talk_date = "2022-09-26"
 Talk_start_time = "15:10"
 Talk_end_time = "15:15"
-Title = "Why is it always DNS, TLS, and bad configs?"
+Title = "Why Is It Always DNS, TLS, and Bad Configs?"
 Type = "talk"
 Speakers = ["philipp-krenn"]
 +++
