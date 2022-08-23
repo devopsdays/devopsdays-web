@@ -191,7 +191,7 @@ The following chart outlines our paid sponsorship packages.
   </tbody>
 </table>
 
-Refunds: Full sponsor refunds are available until 6/1/2022. Sponsor refunds between 6/2/2022 and 7/15/2022 will be at 90%. Between 7/15/2002 and 9/1/2022, sponsors can downgrade one sponsor tier and receive the difference (e.g. from Platinum to Gold for $2,000).
+Refunds: Full sponsor refunds are available until 6/1/2022. Sponsor refunds between 6/2/2022 and 7/15/2022 will be at 90%. Between 7/15/2002 and 9/1/2022, sponsors can downgrade one sponsor tier and receive the difference (e.g. from Platinum to Gold for $2,000), but table space will not be available.
 
 <hr/>
 
