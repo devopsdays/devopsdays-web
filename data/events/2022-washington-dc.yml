@@ -206,7 +206,11 @@ sponsors:
     level: platinum
   - id: cortex
     level: platinum
-  - id: diamanti
+  - id: fearless
+    level: platinum
+  - id: f5-nginx
+    level: platinum
+  - id: harness
     level: platinum
   - id: kosli
     level: platinum
@@ -224,7 +228,9 @@ sponsors:
     level: gold
   - id: sicura
     level: gold
-  - id: zoho
+  - id: site24x7
+    level: gold
+  - id: diamanti
     level: gold
   - id: tremolo
     level: silver
@@ -250,5 +256,6 @@ sponsor_levels:
     label: Silver
     max: 5
     #max: 0 # This is the same as omitting the max limit.
-  # - id: community
-  #   label: Community
+  - id: community
+    label: Community
+    max: 0
