@@ -122,6 +122,8 @@ sponsors:
     level: silver
   - id: appdirect
     level: cocktail
+  - id: appdynamics
+    level: bronze
   - id: gologic
     level: bronze
   - id: arresteddevops
