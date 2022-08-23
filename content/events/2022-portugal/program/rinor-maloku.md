@@ -2,7 +2,7 @@
 Talk_date = "2022-09-26"
 Talk_start_time = "11:10"
 Talk_end_time = "11:40"
-Title = "Step by step Kubernetes observability with eBPF"
+Title = "Step By Step Kubernetes Observability with eBPF"
 Type = "talk"
 Speakers = ["rinor-maloku"]
 +++
