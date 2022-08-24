@@ -273,6 +273,7 @@ sponsor_levels:
     max: 1
   - id: eveningevent
     label: Evening Event
+    max: 1
   - id: silver
     label: Silver
     max: 1 # This is the same as omitting the max limit.
