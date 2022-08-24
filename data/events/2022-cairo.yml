@@ -82,10 +82,23 @@ organizer_email: "cairo@devopsdays.org" # Put your organizer email address here
 sponsors:
  - id: foss
    level: community
+   url: 
  - id: egyptinnovate
    level: community
  - id: tiec
    level: community
+ - id: accflex
+   level: glod
+ - id: ntsal
+   level: gold
+ - id: meemdev
+   level: gold
+ - id: eps
+   level: gold
+ - id: cegedim
+   level: platinum
+ - id: trufla
+   level: platinum
    
  #- id: egyptinnovate
  #  level: community

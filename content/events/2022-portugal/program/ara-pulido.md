@@ -2,7 +2,7 @@
 Talk_date = "2022-09-26"
 Talk_start_time = "11:50"
 Talk_end_time = "12:20"
-Title = "Embracing change: Policy-as-code for Kubernetes with OPA and Gatekeeper"
+Title = "Embracing Change: Policy-as-code for Kubernetes with OPA and Gatekeeper"
 Type = "talk"
 Speakers = ["ara-pulido"]
 +++

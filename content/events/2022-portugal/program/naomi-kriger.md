@@ -2,7 +2,7 @@
 Talk_date = "2022-09-26"
 Talk_start_time = "15:15"
 Talk_end_time = "15:20"
-Title = "Technical Documentation - How to Write Them Better and Why Should I Care?"
+Title = "Technical Documentation - How to Write It Better and Why Should I Care?"
 Type = "talk"
 Speakers = ["naomi-kriger"]
 +++

@@ -2,7 +2,7 @@
 Talk_date = "2022-09-26"
 Talk_start_time = "12:30"
 Talk_end_time = "13:00"
-Title = "We adopted DevOps and are cloud-native, now what?"
+Title = "We Adopted DevOps and Are Cloud-Native, Now What?"
 Type = "talk"
 Speakers = ["bruno-amaro"]
 +++

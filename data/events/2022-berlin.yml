@@ -160,7 +160,7 @@ program:
     date: 2022-09-21
     start_time: "10:40"
     end_time: "11:10"
-  - title: "to-be-announced"
+  - title: "areti-panou"
     type: talk
     date: 2022-09-21
     start_time: "11:10"
@@ -254,7 +254,7 @@ program:
     date: 2022-09-22
     start_time: "11:40"
     end_time: "11:45"
-  - title: "to-be-announced"
+  - title: "yair-etziony"
     type: talk
     date: 2022-09-22
     start_time: "11:45"
@@ -299,6 +299,8 @@ ignites:
   - title: "to-be-announced-ignite"
     date: 2022-09-21
   - title: "iris-hunkeler"
+    date: 2022-09-22
+  - title: "jorge-castro"
     date: 2022-09-22
   - title: "andriy-bilous"
     date: 2022-09-22
