@@ -238,7 +238,7 @@ sponsors:
     level: community
   - id: kubeevents
     level: community
-  - id: aws-community-day-dmv
+  - id: awscommunityday-dmv
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
