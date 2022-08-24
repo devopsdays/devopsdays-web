@@ -176,8 +176,6 @@ sponsors:
     level: gold
   - id: vmware-tanzu
     level: gold
-  - id: ksoc
-    level: gold
   - id: newrelic
     level: gold
   - id: observeinc
@@ -202,6 +200,10 @@ sponsors:
     level: gold
   - id: nirmata
     level: gold
+    
+   #
+  - id: datadog
+    level: eveningevent
 
    #lanyard
   - id: morningstar
@@ -269,6 +271,8 @@ sponsor_levels:
   - id: lanyard
     label: Lanyard
     max: 1
+  - id: eveningevent
+    label: Evening Event
   - id: silver
     label: Silver
     max: 1 # This is the same as omitting the max limit.
@@ -279,6 +283,7 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+  
 
 
 program:
