@@ -168,7 +168,7 @@ sponsors:
     level: gold
   - id: trilio
     level: gold
-  - id: neuvector
+  - id: suse
     level: gold
   - id: solo
     level: gold
@@ -251,6 +251,8 @@ sponsors:
   - id: 42crunch
     level: bronze
   - id: vivanti
+    level: bronze
+  - id: grainger
     level: bronze
 
 

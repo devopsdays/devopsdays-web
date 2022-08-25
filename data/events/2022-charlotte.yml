@@ -90,17 +90,24 @@ sponsors:
     level: gold
   - id: sysdig
     level: gold
+  - id: trilio
+    level: gold
+  - id: tidelift
+    level: gold
   - id: phoenixnap
     level: silver
   - id: dynatrace
     level: silver
   - id: duplocloud
     level: silver
+  - id: perfectscale
+    level: silver
+
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -141,7 +148,7 @@ program:
     date: 2022-09-08
     start_time: "10:30"
     end_time: "10:50"
-  - title: "yvo-van-doorn"
+  - title: "scott-ford"
     type: talk
     date: 2022-09-08
     start_time: "10:50"
@@ -177,10 +184,10 @@ program:
     start_time: "14:30"
     end_time: "14:45"
   - title: "gerald-yelden"
-    type: talk
+    type: workshop
     date: 2022-09-08
     start_time: "14:45"
-    end_time: "15:15"
+    end_time: "15:45"
   - title: "Open Space #1"
     type: custom
     date: 2022-09-08
@@ -262,10 +269,10 @@ program:
     start_time: "14:15"
     end_time: "14:45"
   - title: "jim-barton"
-    type: talk
+    type: workshop
     date: 2022-09-09
     start_time: "14:15"
-    end_time: "14:45"
+    end_time: "15:15"
   - title: "Open Space #2"
     type: custom
     date: 2022-09-09
