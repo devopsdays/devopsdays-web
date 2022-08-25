@@ -1,7 +1,7 @@
 +++
 Title = "Sagar Kewalramani"
 Twitter = ""
-image = ""
+image = "sagar-kewalramani"
 type = "speaker"
 linktitle = "sagar-kewalramani"
 LinkedIn = "https://www.linkedin.com/in/sagarkewalramani/"
