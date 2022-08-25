@@ -112,7 +112,8 @@ sponsors:
     level: platinum
   - id: emnify
     level: gold
-
+  - id: forto
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
