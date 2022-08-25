@@ -118,10 +118,12 @@ sponsors:
     level: gold
   - id: suse
     level: gold
-  # - id: containersolutions
-  #   level: silver
+  - id: containersolutions
+    level: silver
   - id: appdirect
     level: cocktail
+  - id: appdynamics
+    level: bronze
   - id: gologic
     level: bronze
   - id: arresteddevops
