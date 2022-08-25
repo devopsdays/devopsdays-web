@@ -242,6 +242,12 @@ sponsors:
     level: community
   - id: simcac
     level: community
+  - id: acorn
+    level: gold
+  - id: inflectra
+    level: silver
+  - id: googlecloud
+    level: platinum
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
