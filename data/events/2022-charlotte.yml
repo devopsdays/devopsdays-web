@@ -94,6 +94,10 @@ sponsors:
     level: gold
   - id: tidelift
     level: gold
+  - id: datadog
+    level: gold
+  - id: harness
+    level: gold
   - id: phoenixnap
     level: silver
   - id: dynatrace
