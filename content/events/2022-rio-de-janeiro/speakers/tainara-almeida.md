@@ -1,6 +1,6 @@
 +++
 Title = "Tainara Almeida"
-linkedin = "tainara-allmeida" 
+linkedin = "https://linkedin.com/in/tainara-allmeida" 
 Twitter = "sra_allmeida"
 image = "tainara-almeida.jpg"
 type = "speaker"

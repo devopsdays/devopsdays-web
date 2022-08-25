@@ -1,6 +1,6 @@
 +++
 Title = "Marylly Araújo"
-linkedin = "marylly" 
+linkedin = "https://linkedin.com/in/marylly" 
 Twitter = "MaryllyOficial"
 image = "marylly-araujo.jpg"
 type = "speaker"

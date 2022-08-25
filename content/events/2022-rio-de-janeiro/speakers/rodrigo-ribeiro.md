@@ -1,6 +1,6 @@
 +++
 Title = "Rodrigo Ribeiro"
-linkedin = "digoribeiro" 
+linkedin = "https://linkedin.com/in/digoribeiro" 
 Twitter = "odigoribeiro"
 image = "rodrigo-ribeiro.jpg"
 type = "speaker"

@@ -1,6 +1,6 @@
 +++
 Title = "Robert Silva"
-linkedin = "robertsilvatech" 
+linkedin = "https://linkedin.com/in/robertsilvatech" 
 Twitter = "robertsilvatech"
 image = "robert-silva.jpg"
 type = "speaker"

@@ -1,6 +1,6 @@
 +++
 Title = "Bianca Rosa"
-linkedin = "biarm" 
+linkedin = "https://linkedin.com/in/biarm" 
 Twitter = "__biancarosa"
 image = "bianca-rosa.jpg"
 type = "speaker"

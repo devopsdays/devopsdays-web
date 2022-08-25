@@ -1,7 +1,7 @@
 +++
 Title = "Jeferson Fernando"
 Twitter = "badtux_"
-linkedin = "jefersonfernando" 
+linkedin = "https://linkedin.com/in/jefersonfernando" 
 image = "jeferson-fernando.jpg"
 type = "speaker"
 linktitle = "jeferson-fernando"
