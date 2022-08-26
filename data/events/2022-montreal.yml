@@ -37,8 +37,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: propose
  # - name: location
   - name: registration
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: Become a sponsor
     url: https://assets.devopsdays.org/events/2022/montreal/SponsorshipDeck2022pdf.pdf
@@ -164,3 +164,501 @@ sponsor_levels:
     max: 1
   - id: community
     label: Community
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2022-10-26T09:00:00-04:00
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2022-10-26T09:00:00-04:00
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "julia-hohenadel"
+    type: talk
+    date: 2022-10-26T09:00:00-04:00
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2022-10-26T09:00:00-04:00
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: ""
+    type: talk
+    date: 2022-10-26T09:00:00-04:00
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2022-10-26T09:00:00-04:00
+    start_time: "10:25"
+    end_time: "10:40"
+  - title: ""
+    type: talk
+    date: 2022-10-26T09:00:00-04:00
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2022-10-26T09:00:00-04:00
+    start_time: "11:10"
+    end_time: "11:20"
+  - title: ""
+    type: talk
+    date: 2022-10-26T09:00:00-04:00
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Lunch"
+    type: custom
+    date: 2022-10-26T09:00:00-04:00
+    start_time: "11:50"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: custom
+    date: 2022-10-26T09:00:00-04:00
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2022-10-26T09:00:00-04:00
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space #1"
+    type: custom
+    date: 2022-10-26T09:00:00-04:00
+    start_time: "14:00"
+    end_time: "14:45"
+  - title: "Open Space #2"
+    type: custom
+    date: 2022-10-26T09:00:00-04:00
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "Open Space #3"
+    type: custom
+    date: 2022-10-26T09:00:00-04:00
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Close Day"
+    type: custom
+    date: 2022-10-26T09:00:00-04:00
+    start_time: "16:45"
+    end_time: "17:00"
+  - title: "Evening event"
+    type: custom
+    date: 2022-10-26T09:00:00-04:00
+    start_time: "19:00"
+    end_time: "late"
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2022-10-27T17:00:00-04:00
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2022-10-27T17:00:00-04:00
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: ""
+    type: talk
+    date: 2022-10-27T17:00:00-04:00
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2022-10-27T17:00:00-04:00
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: ""
+    type: talk
+    date: 2022-10-27T17:00:00-04:00
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2022-10-27T17:00:00-04:00
+    start_time: "10:25"
+    end_time: "10:40"
+  - title: ""
+    type: talk
+    date: 2022-10-27T17:00:00-04:00
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2022-10-27T17:00:00-04:00
+    start_time: "11:10"
+    end_time: "11:20"
+  - title: ""
+    type: talk
+    date: 2022-10-27T17:00:00-04:00
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Lunch"
+    type: custom
+    date: 2022-10-27T17:00:00-04:00
+    start_time: "11:50"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: custom
+    date: 2022-10-27T17:00:00-04:00
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2022-10-27T17:00:00-04:00
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space #1"
+    type: custom
+    date: 2022-10-27T17:00:00-04:00
+    start_time: "14:00"
+    end_time: "14:45"
+  - title: "Open Space #2"
+    type: custom
+    date: 2022-10-27T17:00:00-04:00
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "Open Space #3"
+    type: custom
+    date: 2022-10-27T17:00:00-04:00
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Closing"
+    type: custom
+    date: 2022-10-27T17:00:00-04:00
+    start_time: "16:45"
+    end_time: "17:00"
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2022-10-26T09:00:00-04:00
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2022-10-26T09:00:00-04:00
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "julia-hohenadel"
+    type: talk
+    date: 2022-10-26T09:00:00-04:00
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2022-10-26T09:00:00-04:00
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: ""
+    type: talk
+    date: 2022-10-26T09:00:00-04:00
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2022-10-26T09:00:00-04:00
+    start_time: "10:25"
+    end_time: "10:40"
+  - title: ""
+    type: talk
+    date: 2022-10-26T09:00:00-04:00
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2022-10-26T09:00:00-04:00
+    start_time: "11:10"
+    end_time: "11:20"
+  - title: ""
+    type: talk
+    date: 2022-10-26T09:00:00-04:00
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Lunch"
+    type: custom
+    date: 2022-10-26T09:00:00-04:00
+    start_time: "11:50"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: custom
+    date: 2022-10-26T09:00:00-04:00
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2022-10-26T09:00:00-04:00
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space #1"
+    type: custom
+    date: 2022-10-26T09:00:00-04:00
+    start_time: "14:00"
+    end_time: "14:45"
+  - title: "Open Space #2"
+    type: custom
+    date: 2022-10-26T09:00:00-04:00
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "Open Space #3"
+    type: custom
+    date: 2022-10-26T09:00:00-04:00
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Close Day"
+    type: custom
+    date: 2022-10-26T09:00:00-04:00
+    start_time: "16:45"
+    end_time: "17:00"
+  - title: "Evening event"
+    type: custom
+    date: 2022-10-26T09:00:00-04:00
+    start_time: "19:00"
+    end_time: "late"
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2022-10-27T17:00:00-04:00
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2022-10-27T17:00:00-04:00
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: ""
+    type: talk
+    date: 2022-10-27T17:00:00-04:00
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2022-10-27T17:00:00-04:00
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: ""
+    type: talk
+    date: 2022-10-27T17:00:00-04:00
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2022-10-27T17:00:00-04:00
+    start_time: "10:25"
+    end_time: "10:40"
+  - title: ""
+    type: talk
+    date: 2022-10-27T17:00:00-04:00
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2022-10-27T17:00:00-04:00
+    start_time: "11:10"
+    end_time: "11:20"
+  - title: ""
+    type: talk
+    date: 2022-10-27T17:00:00-04:00
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Lunch"
+    type: custom
+    date: 2022-10-27T17:00:00-04:00
+    start_time: "11:50"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: custom
+    date: 2022-10-27T17:00:00-04:00
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2022-10-27T17:00:00-04:00
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space #1"
+    type: custom
+    date: 2022-10-27T17:00:00-04:00
+    start_time: "14:00"
+    end_time: "14:45"
+  - title: "Open Space #2"
+    type: custom
+    date: 2022-10-27T17:00:00-04:00
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "Open Space #3"
+    type: custom
+    date: 2022-10-27T17:00:00-04:00
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Closing"
+    type: custom
+    date: 2022-10-27T17:00:00-04:00
+    start_time: "16:45"
+    end_time: "17:00"
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2022-10-26T09:00:00-04:00
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2022-10-26T09:00:00-04:00
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "martin-deslongchamps"
+    type: talk
+    date: 2022-10-26T09:00:00-04:00
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2022-10-26T09:00:00-04:00
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "julia-hohenadel"
+    type: talk
+    date: 2022-10-26T09:00:00-04:00
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2022-10-26T09:00:00-04:00
+    start_time: "10:25"
+    end_time: "10:40"
+  - title: "gabriel-guimondprevost"
+    type: talk
+    date: 2022-10-26T09:00:00-04:00
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2022-10-26T09:00:00-04:00
+    start_time: "11:10"
+    end_time: "11:20"
+  - title: "sarjeel-yusuf"
+    type: talk
+    date: 2022-10-26T09:00:00-04:00
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Lunch"
+    type: custom
+    date: 2022-10-26T09:00:00-04:00
+    start_time: "11:50"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: custom
+    date: 2022-10-26T09:00:00-04:00
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2022-10-26T09:00:00-04:00
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space #1"
+    type: custom
+    date: 2022-10-26T09:00:00-04:00
+    start_time: "14:00"
+    end_time: "14:45"
+  - title: "Open Space #2"
+    type: custom
+    date: 2022-10-26T09:00:00-04:00
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "Open Space #3"
+    type: custom
+    date: 2022-10-26T09:00:00-04:00
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Close Day"
+    type: custom
+    date: 2022-10-26T09:00:00-04:00
+    start_time: "16:45"
+    end_time: "17:00"
+  - title: "Evening event"
+    type: custom
+    date: 2022-10-26T09:00:00-04:00
+    start_time: "19:00"
+    end_time: "late"
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2022-10-27T17:00:00-04:00
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2022-10-27T17:00:00-04:00
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "justin-richards"
+    type: talk
+    date: 2022-10-27T17:00:00-04:00
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2022-10-27T17:00:00-04:00
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: ""
+    type: talk
+    date: 2022-10-27T17:00:00-04:00
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2022-10-27T17:00:00-04:00
+    start_time: "10:25"
+    end_time: "10:40"
+  - title: "chuck-mountz-jr"
+    type: talk
+    date: 2022-10-27T17:00:00-04:00
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2022-10-27T17:00:00-04:00
+    start_time: "11:10"
+    end_time: "11:20"
+  - title: "mohammed-sayagh"
+    type: talk
+    date: 2022-10-27T17:00:00-04:00
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Lunch"
+    type: custom
+    date: 2022-10-27T17:00:00-04:00
+    start_time: "11:50"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: custom
+    date: 2022-10-27T17:00:00-04:00
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2022-10-27T17:00:00-04:00
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space #1"
+    type: custom
+    date: 2022-10-27T17:00:00-04:00
+    start_time: "14:00"
+    end_time: "14:45"
+  - title: "Open Space #2"
+    type: custom
+    date: 2022-10-27T17:00:00-04:00
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "Open Space #3"
+    type: custom
+    date: 2022-10-27T17:00:00-04:00
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Closing"
+    type: custom
+    date: 2022-10-27T17:00:00-04:00
+    start_time: "16:45"
+    end_time: "17:00"
