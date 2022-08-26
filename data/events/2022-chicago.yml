@@ -273,6 +273,7 @@ sponsor_levels:
     max: 1
   - id: eveningevent
     label: Evening Event
+    max: 1
   - id: silver
     label: Silver
     max: 1 # This is the same as omitting the max limit.
@@ -395,8 +396,8 @@ program:
   - title: "Evening event"
     type: custom
     date: 2022-09-21
-    start_time: "19:00"
-    end_time: "late"
+    start_time: "17:00"
+    end_time: "19:00"
   - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2022-09-22
