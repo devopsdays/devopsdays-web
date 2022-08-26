@@ -188,7 +188,7 @@ program:
     date: 2022-10-20T00:00:00+02:00
     start_time: "10:45"
     end_time: "11:00"
-  - title: "TBA"
+  - title: "suzanne-daniels"
     type: talk
     date: 2022-10-20T00:00:00+02:00
     start_time: "11:00"
@@ -325,7 +325,7 @@ program:
     date: 2022-10-21T00:00:00+02:00
     start_time: "12:30"
     end_time: "13:30"
-  - title: "vanessa-kantner"
+  - title: "Thatcher Peskens - On sustainability"
     type: talk
     date: 2022-10-21T00:00:00+02:00
     start_time: "13:30"
@@ -375,7 +375,7 @@ program:
     date: 2022-10-21T00:00:00+02:00
     start_time: "16:00"
     end_time: "16:25"
-  - title: "TBA"
+  - title: "Anneke Keller and Koen Roumen from Wehkamp"
     type: talk
     date: 2022-10-21T00:00:00+02:00
     start_time: "16:30"
