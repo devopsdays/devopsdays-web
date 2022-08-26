@@ -1,7 +1,7 @@
 +++
 Title = "Jim Barton"
 Twitter = "jameshbarton"
-image = ""
+image = "jim-barton.png"
 type = "speaker"
 linktitle = "jim-barton"
 

@@ -180,7 +180,7 @@ program:
     start_time: "09:45"
     end_time: "10:00"
     background_color: "#D0D0D0"    
-  - title: "?"
+  - title: "paul-novarese"
     type: talk
     date: 2022-10-04
     start_time: "10:00"
@@ -289,7 +289,7 @@ program:
     date: 2022-10-05
     start_time: "09:45"
     end_time: "10:00"
-  - title: "?"
+  - title: "david-stokes"
     type: talk
     date: 2022-10-05
     start_time: "10:00"
