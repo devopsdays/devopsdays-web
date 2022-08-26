@@ -1,7 +1,7 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_date = "2022-10-27"
+Talk_start_time = "11:25"
+Talk_end_time = "11:50"
 Title = "La Qualité, ce qui bascule le DevOps vers le succès ou l'échec"
 Type = "talk"
 Speakers = ["luc-parenteau"]

@@ -1,7 +1,7 @@
 +++
 Talk_date = "2022-10-27"
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_start_time = "10:00"
+Talk_end_time = "10:25"
 Title = "Applying machine learning for DevOps technical practices"
 Type = "talk"
 Speakers = ["mohammed-sayagh"]

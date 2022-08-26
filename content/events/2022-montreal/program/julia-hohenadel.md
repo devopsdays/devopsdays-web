@@ -1,7 +1,7 @@
 +++
 Talk_date = "2022-10-26"
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_start_time = "10:00"
+Talk_end_time = "10:25"
 Title = "A Gen-Z's Imposter Syndrome Workshop"
 Type = "talk"
 Speakers = ["julia-hohenadel"]

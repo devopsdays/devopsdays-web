@@ -1,7 +1,7 @@
 +++
 Talk_date = "2022-10-26"
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_start_time = "10:55"
+Talk_end_time = "11:20"
 Title = "DevOps : Des pistes pour débuter l'aventure"
 Type = "talk"
 Speakers = ["gabriel-guimondprevost"]

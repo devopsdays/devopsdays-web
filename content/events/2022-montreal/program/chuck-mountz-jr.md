@@ -1,7 +1,7 @@
 +++
 Talk_date = "2022-10-27"
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_start_time = "09:15"
+Talk_end_time = "09:45"
 Title = "Building Personal Resilience:  Using self care, awareness and personal leadership to navigate  a new world where life’s challenges and careers converge."
 Type = "talk"
 Speakers = ["chuck-mountz-jr"]

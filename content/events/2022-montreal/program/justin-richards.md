@@ -1,7 +1,7 @@
 +++
 Talk_date = "2022-10-26"
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_start_time = "13:25"
+Talk_end_time = "13:50"
 Title = "Working in Devops with autism spectrum disorders"
 Type = "talk"
 Speakers = ["justin-richards"]

@@ -1,7 +1,7 @@
 +++
 Talk_date = "2022-10-26"
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_start_time = "11:25"
+Talk_end_time = "11:50"
 Title = "Its Time We Rethink On-Call Culture"
 Type = "talk"
 Speakers = ["sarjeel-yusuf"]

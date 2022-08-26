@@ -1,7 +1,7 @@
 +++
 Talk_date = "2022-10-26"
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_start_time = "09:15"
+Talk_end_time = "09:45"
 Title = "Introduction au Flow Framework et au Value Stream Management"
 Type = "talk"
 Speakers = ["martin-deslongchamps"]

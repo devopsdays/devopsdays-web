@@ -1,7 +1,7 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_date = "2022-10-27"
+Talk_start_time = "13:55"
+Talk_end_time = "14:20"
 Title = "Overcoming the 7 Deadly Antipattern Sins! (from identification to remediation!)"
 Type = "talk"
 Speakers = ["stan-malinowski"]
