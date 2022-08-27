@@ -118,6 +118,10 @@ sponsors:
     level: silver
   - id: postman
     level: silver
+  - id: stormforge
+    level: silver
+  - id: doit
+    level: silver
   # bronze sponsors
   - id: conflux
     level: bronze
