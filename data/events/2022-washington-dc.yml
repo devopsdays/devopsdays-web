@@ -236,7 +236,7 @@ sponsors:
     level: silver
   - id: devopsdc-meetup
     level: community
-  - id: kubeevents
+  - id: kubecareers
     level: community
   - id: awscommunityday-dmv
     level: community
@@ -247,6 +247,10 @@ sponsors:
   - id: inflectra
     level: silver
   - id: googlecloud
+    level: platinum
+  - id: progresschef
+    level: platinum
+  - id: datadog
     level: platinum
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
