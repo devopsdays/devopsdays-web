@@ -5,88 +5,45 @@ aliases = ["/events/2022-tampa/"]
 Description = "devopsdays Tampa Bay 2022"
 +++
 
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Dates</strong>
+<div class="row">
+  <div class="col-md-4">
+    <img alt="DevOpsDays Tampa Bay 2022" src="/events/2022-tampa/logo.png" class="img-fluid">
+    <div class="d-flex flex-row">
+      <div class="col-md-12">
+        <div class="p-2">
+          <a class="btn btn-secondary btn-block" href="/events/2022-tampa/sponsor"> <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference</a>
+        </div>
+        <div class="p-2">
+          <a class="btn btn-secondary btn-block" href="https://www.papercall.io/tampadod"> <i class="fa fa-microphone fa-lg"></i>&nbsp;&nbsp;
+            &nbsp; Propose a talk</a>
+        </div>
+        <div class="p-2">
+          <a class="btn btn-secondary btn-block" href="/events/2022-tampa/registration"> <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Get a ticket</a>
+        </div>
+        <div class="p-2">
+          <a class="btn btn-secondary btn-block" href="https://www.linkedin.com/company/40652911"> <i class="fa fa-linkedin fa-lg"></i>&nbsp;&nbsp;
+            &nbsp; Follow us on LinkedIn</a>
+        </div>
+        <div class="p-2">
+          <a class="btn btn-secondary btn-block" href="/events/2022-tampa/contact"> <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;
+            &nbsp; Contact the Organizers</a>
+        </div>
+      </div>
+    </div>
   </div>
-  <div class = "col-md-8">
-    {{< event_start >}} - {{< event_end >}}
-  </div>
-</div>
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Location</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_location >}}
-  </div>
-</div>
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Register</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
-  </div>
-</div>
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Sponsors</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="sponsor" text="Sponsor the conference!" >}}
-  </div>
-</div>
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Contact</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="contact" text="Get in touch with the organizers" >}}
-  </div>
-</div>
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Latest News</strong>
-  </div>
-  <div class = "col-md-8">
-    <a href="https://www.linkedin.com/company/40652911">LinkedIn DevOpsDays Tampa Bay</a>
-  </div>
-</div>
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Twitter</strong>
-  </div>
-  <div class = "col-md-8">
+
+  <div class="col-md-7">
+    <div class="alert alert-info" role="alert">
+      <h4 class="alert-heading">Save the Date</h4>
+      <p>{{< event_location >}} {{< event_start >}}</p>
+    </div>
+    <div class="alert alert-secondary" role="alert">
+      <h4 class="alert-heading">Latest News</h4>
+      <p>Speakers Being Anounced Soon</p>
+    </div>
+    <p>DevOpsDays is a worldwide series of community run technical conferences covering topics of software development, IT infrastructure operations, and the intersection between them. It is run by volunteers from community, for the benefit of the community.  We are not a commercial conference and we believe that our focus on serving the community creates a truly unique experience for both delegates and sponsors.
+    </p>
+    <p>We expect 250 people this year and will be holding the event on October 21st at the USF Campus in Saint Petersburg Florida.</p>
     {{< event_twitter >}}
   </div>
 </div>
-
-<div style="text-align:left;">
-  {{< event_logo >}}
-</div> 
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Propose</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
-  </div>
-</div> -->
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Program</strong>
-  </div>
-  <div class = "col-md-8">
-    View the {{< event_link page="program" text="program." >}}
-  </div>
-</div> -->
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Speakers</strong>
-  </div>
-  <div class = "col-md-8">
-    Check out the {{< event_link page="speakers" text="speakers!" >}}
-  </div>
-</div> -->
