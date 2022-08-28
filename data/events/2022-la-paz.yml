@@ -14,11 +14,11 @@ startdate: 2022-10-15T09:00:00-04:00 # The start date of your event. Leave blank
 enddate: 2022-10-15T18:00:00-04:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  2022-08-15T08:00:00-04:00 # start accepting talk proposals.
-cfp_date_end:  2022-09-18T08:00:00-04:00 # close your call for proposals.
-cfp_date_announce: 2022-10-04T08:00:00-04:00 # inform proposers of status
+cfp_date_start:  2022-08-29T08:00:00-04:00 # start accepting talk proposals.
+cfp_date_end:  2022-09-15T08:00:00-04:00 # close your call for proposals.
+cfp_date_announce: 2022-10-01T08:00:00-04:00 # inform proposers of status
 
-cfp_link: ""
+cfp_link: "https://docs.google.com/forms/d/e/1FAIpQLSeo2BXHz6BjJvn-grGU8SARYTcFN4cZVJJOh9z1ElzrlHoUdA/viewform"
 
 registration_date_start:  # start accepting registration. Leave blank if registration is not open yet
 registration_date_end:  # close registration. Leave blank if registration is not open yet.
@@ -35,11 +35,11 @@ location: "Universidad del Valle La Paz, Torre Innovación" # Defaults to city, 
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
 # - name: locatiion
+  - name: cpf
   - name: sponsor
 # - name: speakers
   - name: contact
   - name: conduct
-# - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
 
@@ -75,22 +75,18 @@ team_members: # Name is the only required field for team members.
   
 organizer_email: "lapaz@devopsdays.org" # Put your organizer email address here
 
-# List all of your sponsors here along with what level of sponsorship they have.
-# Check data/sponsors/ to use sponsors already added by others.
-sponsors:
-# - id: samplesponsorname
-#   level: gold
-#  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
-#sponsor_levels:
-#  - id: diamond
-#    label: Diamond
-#  - id: platinum
-#    label: Platinum
-#  - id: gold
-#    label: Gold
+sponsor_levels:
+ - id: diamond
+   label: Diamante
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: univallelapaz
+    level: diamond
+    url: http://190.104.30.135/?page_id=454  # Use this if you need to over-ride a sponsor URL.
