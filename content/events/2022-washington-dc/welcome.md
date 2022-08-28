@@ -32,7 +32,7 @@ Description = "devopsdays Washington, D.C. 2022"
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
+    <a href="https://www.eventbrite.com/e/devopsdays-dc-2022-tickets-345684861727">Register to attend the conference!</a>
   </div>
 </div>
 
