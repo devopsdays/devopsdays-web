@@ -90,17 +90,28 @@ sponsors:
     level: gold
   - id: sysdig
     level: gold
+  - id: trilio
+    level: gold
+  - id: tidelift
+    level: gold
+  - id: datadog
+    level: gold
+  - id: harness
+    level: gold
   - id: phoenixnap
     level: silver
   - id: dynatrace
     level: silver
   - id: duplocloud
     level: silver
+  - id: perfectscale
+    level: silver
+
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For

@@ -176,8 +176,6 @@ sponsors:
     level: gold
   - id: vmware-tanzu
     level: gold
-  - id: ksoc
-    level: gold
   - id: newrelic
     level: gold
   - id: observeinc
@@ -202,6 +200,10 @@ sponsors:
     level: gold
   - id: nirmata
     level: gold
+    
+   #
+  - id: datadog
+    level: eveningevent
 
    #lanyard
   - id: morningstar
@@ -252,6 +254,8 @@ sponsors:
     level: bronze
   - id: vivanti
     level: bronze
+  - id: grainger
+    level: bronze
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -267,6 +271,9 @@ sponsor_levels:
   - id: lanyard
     label: Lanyard
     max: 1
+  - id: eveningevent
+    label: Evening Event
+    max: 1
   - id: silver
     label: Silver
     max: 1 # This is the same as omitting the max limit.
@@ -277,6 +284,7 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+  
 
 
 program:
@@ -388,8 +396,8 @@ program:
   - title: "Evening event"
     type: custom
     date: 2022-09-21
-    start_time: "19:00"
-    end_time: "late"
+    start_time: "17:00"
+    end_time: "19:00"
   - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2022-09-22
@@ -400,7 +408,7 @@ program:
     date: 2022-09-22
     start_time: "09:00"
     end_time: "09:15"
-  - title: "quintessence-anx"
+  - title: "kat-cosgrove"
     type: talk
     date: 2022-09-22
     start_time: "09:15"

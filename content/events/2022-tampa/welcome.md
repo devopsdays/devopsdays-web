@@ -5,8 +5,6 @@ aliases = ["/events/2022-tampa/"]
 Description = "devopsdays Tampa Bay 2022"
 +++
 
-DevOpsDays is coming back to Tampa Bay in 2022! We'll announce dates early 2022.
-
 <div class = "row">
   <div class = "col-md-2">
     <strong>Dates</strong>

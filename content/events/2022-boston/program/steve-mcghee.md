@@ -1,7 +1,7 @@
 ---
 title: "Enterprise Roadmap for SRE"
 Type: "talk"
-Speakers: ["steve-mcghee"]
+Speakers: ["steve-mcghee", "james-brookbank"]
 ---
 
 Description:
