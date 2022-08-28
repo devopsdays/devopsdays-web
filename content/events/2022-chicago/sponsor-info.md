@@ -104,12 +104,10 @@ Chicago, IL 60608<br>
 Please address your boxes and materials to:
 
 Attn: Damien Miller<br/>
-DevOpsDays Chicago - <Company Name><br/>
+DevOpsDays Chicago - < Company Name ><br />
 UIC Forum<br/>
 725 W Roosevelt Rd.<br/>
 Chicago, IL 60608
-
-Please make sure the following information is also on the box:
 
 Items can arrive any time after September 18th. If you would like confirmation on the arrival of your packages, please contact Damien Miller (dvmiller@uic.edu).
 
@@ -126,8 +124,8 @@ We will be using the provided logos as shown on the conference website. If you w
 
 
 ## Floor Plan
-![](https://lh4.googleusercontent.com/z8tT2wEd_Skbp1YTWaDkNTVgf_E2psdIG11khq5eKShOcKJOEw8Asf4s6vCwdOKctgPZCHtOQZwsWWwtVa6LG5iMMt3sdJjCRH_Y4zWZ0LYsdW_mU8RyFUlOXudiEiXVv50QMWbUtzO5VFMqHNfqVHA)
 
+TBA
 
 ## Sponsor Tables
 
@@ -157,7 +155,7 @@ Sponsors will be located in the foyer of the main ballroom (see the floor plan a
 
 ### A/V Equipment
 
-Hartford Technology Rental is our recommended AV rental company. They will take care of equipment dropoff/pickup. We will provide a payment/request form when it becomes available next week (August 15th).
+Hartford Technology Rental is our recommended AV rental company. They will take care of equipment dropoff/pickup. If you'd like to rent a montor, please [download this form](https://assets.devopsdays.org/events/2022/chicago/2022-chicago-sponsor-monitor.doc) and send it to mstathis@hartfordrents.com no later than Sept 9.
 
 - 24" tabletop monitor: $180/day + tax/credit card fee
 
@@ -191,7 +189,7 @@ Each sponsor will be provided half of a table on which to place printed material
 
 ### A/V Equipment
 
-Hartford Technology Rental is our recommended AV rental company. They will take care of equipment dropoff/pickup. We will provide a payment/request form when it becomes available next week (August 15th).
+Hartford Technology Rental is our recommended AV rental company. They will take care of equipment dropoff/pickup. If you'd like to rent a montor, please [download this form](https://assets.devopsdays.org/events/2022/chicago/2022-chicago-sponsor-monitor.doc) and send it to mstathis@hartfordrents.com no later than Sept 9.
 
 - 24" tabletop monitor: $180/day + tax/credit card fee
 

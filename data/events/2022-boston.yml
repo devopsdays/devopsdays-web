@@ -35,6 +35,7 @@ location_address: "539 Tremont St, Boston, MA 02116" # Optional - use the street
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
+  - name: covid
   - name: location
   - name: registration
   - name: program
@@ -205,15 +206,15 @@ program:
     date: 2022-09-12
     start_time: "11:10"
     end_time: "11:45"
-  - title: "Lunch"
-    type: custom
-    date: 2022-09-12
-    start_time: "11:45"
-    end_time: "12:50"
   - title: "kam-lasater"
     type: talk
     date: 2022-09-12
-    start_time: "12:50"
+    start_time: "11:45"
+    end_time: "12:20"
+  - title: Lunch
+    type: custom
+    date: 2022-09-12
+    start_time: "12:20"
     end_time: "13:25"
   - title: "andreas-grabner"
     type: talk
@@ -297,15 +298,15 @@ program:
     date: 2022-09-13
     start_time: "11:10"
     end_time: "11:45"
+  - title: "kavitha-govindarajulu"
+    type: talk
+    date: 2022-09-13
+    start_time: "11:45"
+    end_time: "12:20"
   - title: "Lunch"
     type: custom
     date: 2022-09-13
-    start_time: "11:45"
-    end_time: "12:50"
-  - title: "Talk 9: TBD"
-    type: custom
-    date: 2022-09-13
-    start_time: "12:50"
+    start_time: "12:20"
     end_time: "13:25"
   - title: "thomas-stringer"
     type: talk

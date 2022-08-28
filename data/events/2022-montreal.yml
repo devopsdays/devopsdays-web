@@ -20,15 +20,15 @@ cfp_date_announce: # inform proposers of status
 
 cfp_link: "https://docs.google.com/forms/d/e/1FAIpQLSf4qwC-lcdymPpvd15hUFqR6lVDABvXXcFNZrIwvNeugG7MgQ/viewform" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: 2022-08-15T00:00:00-04:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2022-10-28T00:00:00-04:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.eventbrite.ca/e/billets-devopsdays-montreal-2022-59525692950" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
-coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+coordinates: "45.503718,-73.561053" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Palais des congrès de Montréal / Montreal Convention Centre" # Defaults to city, but you can make it the venue name.
 #
 location_address: "1001 Pl. Jean-Paul-Riopelle, Montreal, Quebec H2Z 1H5" #Optional - use the street address of your venue. This will show up on the welcome page if set.
@@ -36,7 +36,7 @@ location_address: "1001 Pl. Jean-Paul-Riopelle, Montreal, Quebec H2Z 1H5" #Optio
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
  # - name: location
- # - name: registration
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -118,8 +118,12 @@ sponsors:
     level: gold
   - id: suse
     level: gold
+  - id: containersolutions
+    level: silver
   - id: appdirect
     level: cocktail
+  - id: appdynamics
+    level: bronze
   - id: gologic
     level: bronze
   - id: arresteddevops

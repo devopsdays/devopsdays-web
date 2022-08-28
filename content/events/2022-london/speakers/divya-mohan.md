@@ -1,7 +1,7 @@
 +++
 Title = "Divya Mohan"
 Twitter = "Divya_Mohan02"
-image = ""
+image = "divya-mohan.png"
 type = "speaker"
 linktitle = "divya-mohan"
 

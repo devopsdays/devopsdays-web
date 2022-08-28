@@ -91,6 +91,14 @@ sponsors:
    level: gold
  - id: mumosystems
    level: gold
+ - id: john-deere
+   level: gold
+ - id: emc-ins
+   level: gold
+ - id: sonatype
+   level: gold
+ - id: redhat
+   level: gold
 # #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 #  - id: arresteddevops
 #    level: community

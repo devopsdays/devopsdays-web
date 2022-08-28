@@ -1,5 +1,5 @@
 +++
-Title = "Bruno Amaro"
+Title = "Bruno Amaro Almeida"
 website = "https://www.brunoamaro.com"
 linkedin = "https://www.linkedin.com/in/brunoamaroalmeida/"
 twitter = "bruno_amaro"
