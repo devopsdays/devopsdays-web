@@ -1,6 +1,8 @@
 +++
 title = "Daniel Pries"
 type = "speaker"
+sharing_image = "daniel-pries-card.png"
+image = "daniel-pries.jpeg"
 linktitle = "daniel-pries"
 +++
 

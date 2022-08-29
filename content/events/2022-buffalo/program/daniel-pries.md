@@ -4,6 +4,7 @@ talk_start_time = ""
 talk_end_time = ""
 title = "The Rise and Benefits of Robotic Process Automation"
 type = "talk"
+sharing_image = "daniel-pries-card.png"
 speakers = ["daniel-pries"]
 +++
 
