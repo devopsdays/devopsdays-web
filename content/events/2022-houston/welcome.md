@@ -49,14 +49,14 @@ sharing_image = "sharing.jpg"
 			{{< event_link page="propose" text="Propose a talk!" >}}
 		  </div>
 		</div>
-		<!-- <div class = "row">
+		<div class = "row">
 		  <div class = "col-md-2">
 			<strong>Program</strong>
 		  </div>
 		  <div class = "col-md-8">
 			View the {{< event_link page="program" text="program." >}}
 		  </div>
-		</div> -->
+		</div>
 		<div class = "row">
 		  <div class = "col-md-2">
 			<strong>Speakers</strong>
