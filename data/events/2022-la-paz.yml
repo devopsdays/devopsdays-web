@@ -35,7 +35,7 @@ location: "Universidad del Valle La Paz, Torre Innovación" # Defaults to city, 
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
 # - name: locatiion
-  - name: cpf
+  - name: proposal
   - name: sponsor
 # - name: speakers
   - name: contact
