@@ -1,7 +1,7 @@
 +++
 Title = "Daniel Kim"
 Twitter = "learnwdaniel"
-image = ""
+image = "daniel-kim.png"
 type = "speaker"
 linktitle = "daniel-kim"
 
