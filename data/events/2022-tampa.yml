@@ -42,8 +42,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     icon: "map-o"
     url: /events/2022-tampa/location
   - name: registration
-#  - name: program
-#  - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -137,4 +137,29 @@ sponsor_levels:
   - id: community
     label: Community
 
+program:
+  - title: "christian-posta-t1"
+    type: talk
+    date: 2022-10-21
+  - title: "gerie-owen-t1"
+    type: talk
+    date: 2022-10-21
+  - title: "adarsh-shah-t1"
+    type: talk
+    date: 2022-10-21
+  - title: "Ignites"
+    type: ignite
+    date: 2022-10-21
+  - title: "thomas-haver-t1"
+    type: talk
+    date: 2022-10-21
+  - title: "jim-barton-t1"
+    type: talk
+    date: 2022-10-21
 
+
+ignites:
+  - title: "waldo-g-t1"
+    date: 2022-10-21
+  - title: "waldo-g-t2"
+    date: 2022-10-21
