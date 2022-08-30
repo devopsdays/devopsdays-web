@@ -3,6 +3,7 @@ Title = "Pascal Robert"
 image = "pascal-robert.jpeg"
 type = "speaker"
 linktitle = "pascal-robert"
+
 Website = ""
 Facebook = ""
 Linkedin = "https://www.linkedin.com/in/macti/"
