@@ -166,6 +166,7 @@ sponsor_levels:
     max: 1
   - id: community
     label: Community
+
 program:
 # date: 2022-10-26 
   - title: "Registration, Breakfast, Sponsors"
@@ -310,7 +311,7 @@ program:
     date: 2022-10-27
     start_time: "10:55"
     end_time: "11:20"
-  - title: "luc-parenteau"
+  - title: "luc-parenteau-mounia-elqortobi"
     type: talk
     date: 2022-10-27
     start_time: "11:25"
