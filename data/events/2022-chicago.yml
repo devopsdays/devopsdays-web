@@ -204,6 +204,8 @@ sponsors:
    #
   - id: datadog
     level: eveningevent
+  - id: harness
+    level: eveningevent
 
    #lanyard
   - id: morningstar
