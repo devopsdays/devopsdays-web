@@ -75,6 +75,8 @@ sponsors:
     url: https://www.btgpactualdigital.com/ # Use this if you need to over-ride a sponsor URL.
   - id: harness
     level: platinum
+  - id: postman
+    level: platinum
   - id: hurb
     level: platinum
   - id: linuxtips
@@ -97,6 +99,10 @@ sponsors:
   - id: nerdweek
     level: community
   - id: todas-as-letras
+    level: community
+  - id: learnk8s
+    level: community
+  - id: novatec
     level: community
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -146,8 +152,8 @@ program:
     date: 2022-11-05T08:00:00-03:00
     start_time: "10:30"
     end_time: "11:00"
-  - title: "SLSA - Palestrante a confirmar"
-    type: custom
+  - title: "alvaro-huanca"
+    type: talk
     date: 2022-11-05T08:00:00-03:00
     start_time: "11:00"
     end_time: "11:30"
