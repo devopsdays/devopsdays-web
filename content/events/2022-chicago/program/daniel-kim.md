@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Building security into the DevOps pipeline at scale"
 Type = "talk"
 Speakers = ["daniel-kim"]
+sharing_image = "daniel-kim.png"
 +++
 As DevOps continues to embrace rapid release cycles at scale, delivering robust application security scans becomes a bottleneck. With a mix of paid and open source tools to scan for secrets, vulnerable open source libraries, security bugs in the code, and peer-reviewed commits, engineers have to juggle the findings from multiple tools to make sure their code is compliant with security standards.
 

@@ -15,7 +15,7 @@ enddate: 2022-09-22T23:59:59+02:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2022-06-14T00:00:00+02:00 # start accepting talk proposals.
-cfp_date_end: 2022-08-13T00:00:00+02:00 # close your call for proposals.
+cfp_date_end: 2022-08-20T00:00:00+02:00 # close your call for proposals.
 cfp_date_announce: # inform proposers of status
 
 cfp_open: "true"
@@ -82,12 +82,23 @@ organizer_email: "cairo@devopsdays.org" # Put your organizer email address here
 sponsors:
  - id: foss
    level: community
+   url: 
  - id: egyptinnovate
    level: community
  - id: tiec
    level: community
- - id: amecse
-   level: community
+ - id: accflex
+   level: glod
+ - id: ntsal
+   level: gold
+ - id: meemdev
+   level: gold
+ - id: eps
+   level: gold
+ - id: cegedim
+   level: platinum
+ - id: trufla
+   level: platinum
    
  #- id: egyptinnovate
  #  level: community

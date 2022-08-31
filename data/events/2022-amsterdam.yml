@@ -188,6 +188,8 @@ sponsors:
     level: bronze
   - id: albert-heijn
     level: bronze
+  - id: stackstate
+    level: bronze
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -198,34 +200,34 @@ sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: BBQ
     label: BBQ
-    max: "1"
+    max: 1
   - id: beer
     label: Beer
-    max: "1"
+    max: 1
   - id: coffee
     label: Coffee
-    max: "1"
+    max: 1
   - id: tshirt
     label: T-Shirt
-    max: "1"
+    max: 1
   - id: gold
     label: Gold
-    max: "8"
+    max: 8
   - id: lanyard
     label: Lanyard
-    max: "1"
+    max: 1
   - id: recharge
     label: "Power recharge"
-    max: "1"
+    max: 1
   - id: foodtrucks
     label: "Food Trucks"
-    max: "4"
+    max: 4
   - id: silver
     label: Silver
-    max: "8"
+    max: 8
   - id: bronze
     label: Bronze
-    max: "5"
+    max: 5
 program:
   # Workshop Day
   - title: "Registration, Breakfast, Sponsors"
@@ -341,6 +343,12 @@ program:
     start_time: "14:30"
     end_time: "15:15"
     comments: "Location: IJzaal"
+  - title: "ws-joseph-katsioloudes"
+    type: workshop
+    date: 2022-06-22T00:00:00+02:00
+    start_time: "14:30"
+    end_time: "15:15"
+    comments: "Location: Grote Zaal"
   # Break
   - title: "Break"
     type: custom
@@ -360,12 +368,6 @@ program:
     start_time: "15:30"
     end_time: "17:00"
     comments: "Location: Studio"
-  - title: "ws-joseph-katsioloudes"
-    type: workshop
-    date: 2022-06-22T00:00:00+02:00
-    start_time: "15:30"
-    end_time: "16:15"
-    comments: "Location: Grote Zaal"
   # Celebration time!
   - title: "Drinks and snacks"
     type: custom
@@ -535,7 +537,7 @@ program:
     start_time: "09:15"
     end_time: "09:45"
     background_color: "#FF8633"
-  - title: "farah-chabchoub"
+  - title: "stacy-cashmore"
     type: talk
     date: 2022-06-24T00:00:00+02:00
     start_time: "09:45"
@@ -617,7 +619,7 @@ program:
     date: 2022-06-24T00:00:00+02:00
     start_time: "14:45"
     end_time: "15:10"
-  - title: "stacy-cashmore"
+  - title: "farah-chabchoub"
     type: talk
     date: 2022-06-24T00:00:00+02:00
     start_time: "15:15"
@@ -647,8 +649,13 @@ program:
     date: 2022-06-24T00:00:00+02:00
     start_time: "16:15"
     end_time: "16:40"
+  - title: "stacy-cashmore"
+    type: talk
+    date: 2022-06-24T00:00:00+02:00
+    start_time: "16:45"
+    end_time: "17:20"
   - title: "Conference close"
     type: custom
     date: 2022-06-24T00:00:00+02:00
-    start_time: "16:45"
-    end_time: "17:15"
+    start_time: "17:20"
+    end_time: "17:30"

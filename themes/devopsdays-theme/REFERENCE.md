@@ -299,6 +299,7 @@ Pages of the type `speaker` have a few additional frontmatter elements available
 | `linkedin` | No       | Speaker's LinkedIn URL                                                                                                                                                                                     | "https://www.linkedin.com/in/mattstratton/" |
 | `github`   | No       | Speakers' GitHub username.                                                                                                                                                                                 | "mattstratton"                              |
 | `gitlab`   | No       | Speakers' GitLab username.                                                                                                                                                                                 | "mattstratton"                              |
+| `twitch`   | No       | Speakers' Twitch username.                                                                                                                                                                                 | "mattstratton"                              |
 | `image`    | No       | The image for the speaker. This image is relative to the `static/events/YYYY-CITY/speakers` directory. It can be either .png or .jpg. It is recommended to be 600px square.  | "matt-stratton.jpg"                         |
 
 ### Program Page Fields

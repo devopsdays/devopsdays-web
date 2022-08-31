@@ -93,7 +93,7 @@ sponsors:
   level: gold
 - id: chef-before-20210112
   level: silver
-- id: newrelic
+- id: newrelic-before-20220808
   level: silver
 - id: xmatters
   level: silver
@@ -101,9 +101,9 @@ sponsors:
   level: silver
 - id: signalfx
   level: silver
-- id: influxdata
+- id: influxdata-before-20220629
   level: gold
-- id: appdynamics
+- id: appdynamics-before-20220714
   level: gold
 - id: cloudbees-before-20210804
   level: gold
@@ -129,7 +129,7 @@ sponsors:
   level: supporter
 - id: oraclecloud
   level: coffee
-- id: hashicorp
+- id: hashicorp-before-20220811
   level: gold
 - id: gitlab-before-20220516
   level: gold

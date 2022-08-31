@@ -139,13 +139,13 @@ sponsors:
     level: silver
   - id: instana-before-20200127
     level: gold
-  - id: influxdata
+  - id: influxdata-before-20220629
     level: gold
   - id: microsoftazure
     level: silver
   - id: gitlab-before-20220516
     level: silver
-  - id: newrelic
+  - id: newrelic-before-20220808
     level: gold
   - id: pagerduty-before-20190930
     level: gold

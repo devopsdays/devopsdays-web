@@ -96,9 +96,9 @@ sponsors:
     level: gold
   - id: sensu
     level: gold
-  - id: appdynamics
+  - id: appdynamics-before-20220714
     level: gold
-  - id: influxdata
+  - id: influxdata-before-20220629
     level: gold
   - id: cloudbolt_pdx_2019
     level: gold

@@ -24,7 +24,7 @@ Description = "devopsdays Rio de Janeiro 2022"
     <hr/>
     <div class="row">
       <div class="col-md-2">
-        <strong>Date</strong>
+        <strong>Datas</strong>
       </div>
       <div class="col-md-4">
         {{< event_start >}}
@@ -42,7 +42,7 @@ Description = "devopsdays Rio de Janeiro 2022"
 -->
     <div class="row">
       <div class="col-md-2">
-        <strong>Sponsors</strong>
+        <strong>Patrocinadores</strong>
       </div>
       <div class="col-md-6">
         {{< event_link page="sponsor" text="Apoie o Devopsdays Rio em 2022!" >}}
@@ -54,6 +54,14 @@ Description = "devopsdays Rio de Janeiro 2022"
       </div>
       <div class="col-md-6">
         {{< event_link url-key="cfp_link" text="Submeta a sua talk!" >}}
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-2">
+        <strong>Grade</strong>
+      </div>
+      <div class="col-md-6">
+        {{< event_link page="program" text="Confira a grade do evento!" >}}
       </div>
     </div>
     <div class="row">

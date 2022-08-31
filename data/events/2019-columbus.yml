@@ -113,13 +113,13 @@ sponsors:
     level: gold
   - id: datarobot
     level: gold
-  - id: newrelic
+  - id: newrelic-before-20220808
     level: gold
   - id: hcl-before-20200120
     level: gold
   - id: gitlab-before-20220516
     level: gold
-  - id: appdynamics
+  - id: appdynamics-before-20220714
     level: gold
   - id: vmware
     level: gold
