@@ -122,14 +122,14 @@ sponsors:
     level: gold
   - id: containersolutions
     level: silver
-  - id: appdirect
-    level: cocktail
   - id: appdynamics
     level: bronze
   - id: gologic
     level: bronze
   - id: desjardins
-    level: dinner
+    level: lunch
+  - id: appdirect
+    level: cocktail
   - id: arresteddevops
     level: community
   - id: "agile-montreal"
@@ -157,8 +157,6 @@ sponsor_levels:
   - id: lunch
     label: Lunch
     max: 2
-  - id: dinner
-    label: Dinner
   - id: cocktail
     label: Cocktail
     max: 1
