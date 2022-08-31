@@ -162,6 +162,8 @@ sponsors:
     level: community
   - id: weallcode
     level: community
+  - id: packt
+    level: community
     
   # Gold Sponsors
   - id: teleport
