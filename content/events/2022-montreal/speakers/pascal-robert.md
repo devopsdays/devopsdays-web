@@ -1,10 +1,15 @@
 +++
 Title = "Pascal Robert"
-Twitter = ""
-image = ""
+image = "pascal-robert.jpeg"
 type = "speaker"
 linktitle = "pascal-robert"
 
+Website = ""
+Facebook = ""
+Linkedin = "https://www.linkedin.com/in/macti/"
+Pronouns = ""
+Github = "https://github.com/pascalrobert"
+Twitter = ""
 +++
 
-26 d'expérience, autant en dev qu'en sysadmin. Agile, waterfall, DevOps, bases de données, Linux, monitoring, PME, grandes entreprises, pas mal tout fait.
+Pascal a été admin système, SRE, DBA, développeur Web et plein d’autres titres au cours des 26 dernières années. La surveillance et la qualité de livraison n’ont plus vraiment de secrets pour lui.
