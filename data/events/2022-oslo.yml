@@ -54,6 +54,8 @@ team_members:
   - name: "Tor Magnus Castberg"
     twitter: "TMCastberg"
     image: "tor-magnus-castberg.jpg"
+  - name: "Alex Albu"
+    image: "alexandru-albu.jpg"
   - name: "Roberth Strand"
     employer: "Crayon"
     twitter: "roberthtweets"
