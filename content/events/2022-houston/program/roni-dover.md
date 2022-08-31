@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "The Observant Developer - OpenTelemetry from code to prod"
 Type = "talk"
 Speakers = ["roni-dover"]
+image = "roni-dover.png"
 +++
 
 Observability can be about more than pretty dashboards, it can be a powerful tool for designing better code. A part of the modern developer’s stack. Just like tests, metrics and traces can be leveraged to challenge code assumptions and develop for real-world requirements in an evidence-based manner.

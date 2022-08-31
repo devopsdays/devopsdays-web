@@ -1,7 +1,7 @@
 +++
 Title = "Roni Dover"
 Twitter = "doppleware"
-image = ""
+image = "roni-dover.png"
 type = "speaker"
 linktitle = "roni-dover"
 WebSite = "https://medium.com/@roni-dover"

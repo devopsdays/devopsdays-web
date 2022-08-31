@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Trino: The Data Synthesizer"
 Type = "talk"
 Speakers = ["monica-miller"]
+sharing_image = "monica-miller.png"
 +++
 
 Have you ever heard of the musical instrument, the Synthesizer? It’s an electronic audio signal generator that produces a wide variety of sound by creating, modifying, or combining different tones to produce a variety of sounds. Sounds cool, right? By bringing together the sounds of multiple different sources, the result is something beautiful.

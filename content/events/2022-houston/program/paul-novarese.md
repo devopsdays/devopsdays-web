@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Learn from Log4Shell: Using SBOMs for Zero-Day Preparadness"
 Type = "talk"
 Speakers = ["paul-novarese"]
+sharing_image = "paul-novarese.png"
 +++
 
 Think back to December 2021, when Log4Shell was disclosed. How did you respond? You can't start patching until you determine what needs to be patched. How long did you spend combing through your software repos to determine your exposure?

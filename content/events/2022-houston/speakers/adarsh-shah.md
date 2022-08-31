@@ -4,6 +4,7 @@ Twitter = "shahadarsh"
 image = "adarsh-shah.png"
 type = "speaker"
 linktitle = "adarsh-shah"
+sharing_image = "adarsh-shah.png"
 
 +++
 

@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Principles of Safety and Reliability Learned from US Navy Landing Signal Officers"
 Type = "talk"
 Speakers = ["matthew-brahms"]
+sharing_image = "matthew-brahms.png"
 +++
 
 Flight operations at sea aboard aircraft carriers are one of the most complex and dangerous work environments on earth. There are many moving parts and pieces to successfully landing an aircraft on a ship that is moving in three dimensions at sea. There is something eye-watering about the process of bringing a high-performance jet aircraft back to the "boat". You have to safely and accurately land it on a 300 foot Landing Area by catching one of four arresting cables. Oh, and you may have thousands of pounds of explosives still attached to your aircraft. The stakes are high and the margin of error is infinitesimal.
