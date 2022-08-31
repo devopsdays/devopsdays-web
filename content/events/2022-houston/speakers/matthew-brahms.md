@@ -5,6 +5,7 @@ image = "mathew-brahms.png"
 type = "speaker"
 linktitle = "matthew-brahms"
 LinkedIn = "https://www.linkedin.com/in/matthewbrahms/"
+sharing_image = "matthew-brahms.png"
 +++
 
 As a Site Reliability Engineer, Matthew works to build scalable/resilient systems and instill SRE culture into the teams he embeds with (SLI,SLO,SLA anyone?!). Previous roles have included DevOps Engineer, Systems Administrator, and being a professional Classical musician.

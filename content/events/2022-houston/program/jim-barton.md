@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Cloud-Native Foundations: An Interactive Envoy Proxy Workshop"
 Type = "talk"
 Speakers = ["jim-barton"]
+sharing_image = "jim-barton.png"
 +++
 
 Envoy Proxy is the foundational layer for much of the innovations propelling the Kubernetes community forward, including service mesh and cloud-native API gateways, just to name a couple. For many practitioners though, Envoy itself is a black-box. We all understand that it is important and foundational, but it often remains one level below our thoughtful consideration.

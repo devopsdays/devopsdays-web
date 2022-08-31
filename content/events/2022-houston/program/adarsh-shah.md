@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "From Infrastructure as Code to Environment as Code: Challenges scaling IaC and how to resolve them"
 Type = "talk"
 Speakers = ["adarsh-shah"]
+sharing_image = "adarsh-shah.png"
 +++
 
 
