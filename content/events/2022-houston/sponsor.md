@@ -41,7 +41,7 @@ Please see our <a href="https://assets.devopsdays.org/events/2022/houston/devops
 	<th>HOU Startup Corner*<br/>(Limit 10)</th>
 	<th>Silver<br/>(Limit 10 <sup>&dagger;</sup>)</th>
 	<th>Gold<br/>(Limit 10 <sup>&dagger;</sup>)</th>
-	<th>Platinum<br/>(Limit 4<sup>&dagger;</sup>)</th>
+	<th>Platinum<br/><span class="btn btn-warning btn-sm">Email us</span></th>
 </tr>
 <tr>
 	<th style="text-align:left">Pricing</th>
