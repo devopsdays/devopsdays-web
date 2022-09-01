@@ -38,7 +38,7 @@ location_address: "2000 East Spring Creek Parkway, Plano, TX 75074" #Optional - 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
 #  - name: propose
-#  - name: program
+  - name: program
 #  - name: registration
   - name: speakers
   - name: sponsor
