@@ -5,11 +5,11 @@ Talk_end_time = ""
 Title = "The Eternal Recurrence of DevOps"
 Type = "talk"
 Speakers = ["michael-cote"]
-Youtube = ""
+Youtube = "_4ZhNemHYCg"
 Vimeo = ""
 Speakerdeck = ""
 Slideshare = ""
-Slides = ""
+Slides = "https://www.slideshare.net/DevOpsDaysDFW/michael-cot-the-eternal-recurrence-of-devops"
 Website = "http://cote.io"
 +++
 

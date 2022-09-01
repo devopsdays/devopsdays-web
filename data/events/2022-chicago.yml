@@ -162,6 +162,8 @@ sponsors:
     level: community
   - id: weallcode
     level: community
+  - id: packt
+    level: community
     
   # Gold Sponsors
   - id: teleport
@@ -175,8 +177,6 @@ sponsors:
   - id: couchbase
     level: gold
   - id: vmware-tanzu
-    level: gold
-  - id: ksoc
     level: gold
   - id: newrelic
     level: gold
@@ -202,6 +202,12 @@ sponsors:
     level: gold
   - id: nirmata
     level: gold
+    
+   #
+  - id: datadog
+    level: eveningevent
+  - id: harness
+    level: eveningevent
 
    #lanyard
   - id: morningstar
@@ -269,6 +275,9 @@ sponsor_levels:
   - id: lanyard
     label: Lanyard
     max: 1
+  - id: eveningevent
+    label: Evening Event
+    max: 1
   - id: silver
     label: Silver
     max: 1 # This is the same as omitting the max limit.
@@ -279,6 +288,7 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+  
 
 
 program:
@@ -390,8 +400,8 @@ program:
   - title: "Evening event"
     type: custom
     date: 2022-09-21
-    start_time: "19:00"
-    end_time: "late"
+    start_time: "17:00"
+    end_time: "19:00"
   - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2022-09-22

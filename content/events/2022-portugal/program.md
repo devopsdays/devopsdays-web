@@ -10,7 +10,7 @@ icons = "TRUE"
 If Open Space is new to you, you may be interested in <a href="/pages/open-space-format">more details about Open Space</a>.
 <hr />
 
-<b>Please note that the workshops are only for those that specifically registered for them, they are not part of all tickets.</b>
+<b>Please note that the schedule is subject to change, depending on airline logistics.</b>
 
 <div>
     <b>Color Keys:</b>

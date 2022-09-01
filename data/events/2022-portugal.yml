@@ -183,6 +183,8 @@ sponsors:
     level: community
   - id: oposec
     level: community
+  - id: dspt
+    level: community
   - id: oern
     level: community
   - id: linux-professional-institute
@@ -196,8 +198,6 @@ sponsors:
 #  - id: winb
 #    level: community
 #  - id: pydata-lx
-#    level: community
-#  - id: dspt
 #    level: community
 #  - id: devopsbraga
 #    level: community
@@ -243,7 +243,7 @@ program:
     start_time: "09:15"
     end_time: "10:00"
     background_color: "#FFFA99"
-  - title: "Break"
+  - title: "Break, w/ a message from Uphold"
     type: custom
     date: 2022-09-26
     start_time: "10:00"
@@ -263,7 +263,7 @@ program:
     date: 2022-09-26
     start_time: "11:10"
     end_time: "11:40"
-  - title: "Break"
+  - title: "Break, w/ a message from Critical Tech Works"
     type: custom
     date: 2022-09-26
     start_time: "11:40"
@@ -273,7 +273,7 @@ program:
     date: 2022-09-26
     start_time: "11:50"
     end_time: "12:20"
-  - title: "Break"
+  - title: "Break, w/ a message from xGeeks"
     type: custom
     date: 2022-09-26
     start_time: "12:20"
@@ -342,7 +342,7 @@ program:
     start_time: "09:15"
     end_time: "10:00"
     background_color: "#FFFA99"
-  - title: "Break"
+  - title: "Break, w/ a message from Bosch"
     type: custom
     date: 2022-09-27
     start_time: "10:00"
@@ -362,7 +362,7 @@ program:
     date: 2022-09-27
     start_time: "11:10"
     end_time: "11:40"
-  - title: "Break"
+  - title: "Break, w/ a message from Basecone"
     type: custom
     date: 2022-09-27
     start_time: "11:40"
@@ -372,7 +372,7 @@ program:
     date: 2022-09-27
     start_time: "11:50"
     end_time: "12:20"
-  - title: "Break"
+  - title: "Break, w/ a message from tb.lx"
     type: custom
     date: 2022-09-27
     start_time: "12:20"
@@ -425,5 +425,5 @@ ignites:
     date: "2022-09-26"
   - title: "sarjeel-yusuf"
     date: "2022-09-26"
-  - title: "tbd"
+  - title: "yuri-sa"
     date: "2022-09-26"

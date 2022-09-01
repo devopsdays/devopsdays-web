@@ -2,7 +2,7 @@
 Talk_date = "2022-09-27"
 Talk_start_time = "12:30"
 Talk_end_time = "13:00"
-Title = "How to keep your code safe within the DevOps culture using Open source tools"
+Title = "How to Keep Your Code Safe Within the DevOps Culture Using Open Source Tools"
 Type = "talk"
 Speakers = ["filipi-pires"]
 +++

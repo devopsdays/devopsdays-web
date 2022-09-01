@@ -94,6 +94,14 @@ sponsors:
     level: gold
   - id: tidelift
     level: gold
+  - id: datadog
+    level: gold
+  - id: harness
+    level: gold
+  - id: acorn
+    level: gold
+  - id: cloudbees
+    level: gold
   - id: phoenixnap
     level: silver
   - id: dynatrace
@@ -183,7 +191,7 @@ program:
     date: 2022-09-08
     start_time: "14:30"
     end_time: "14:45"
-  - title: "gerald-yelden"
+  - title: "gerald-yerden"
     type: workshop
     date: 2022-09-08
     start_time: "14:45"

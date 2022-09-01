@@ -1,7 +1,7 @@
 +++
 Title = "Dan Kirkpatrick"
 Twitter = "kirkpatrick_dan"
-image = ""
+image = "dan-kirkpatrick.png"
 type = "speaker"
 linktitle = "dan-kirkpatrick"
 LinkedIn = "http://www.linkedin.com/in/dankirkpatrick1"

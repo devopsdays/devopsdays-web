@@ -231,13 +231,27 @@ sponsors:
   - id: site24x7
     level: gold
   - id: diamanti
-    level: gold
+    level: platinum
   - id: tremolo
     level: silver
   - id: devopsdc-meetup
     level: community
-  - id: kubeevents
+  - id: kubecareers
     level: community
+  - id: awscommunityday-dmv
+    level: community
+  - id: simcac
+    level: community
+  - id: acorn
+    level: gold
+  - id: inflectra
+    level: silver
+  - id: googlecloud
+    level: platinum
+  - id: progresschef
+    level: platinum
+  - id: datadog
+    level: platinum
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

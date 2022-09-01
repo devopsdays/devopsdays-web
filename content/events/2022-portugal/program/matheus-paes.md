@@ -2,7 +2,7 @@
 Talk_date = "2022-09-27"
 Talk_start_time = "11:50"
 Talk_end_time = "12:20"
-Title = "Why and Where to start a Platform Engineering Team"
+Title = "Why and Where to Start a Platform Engineering Team"
 Type = "talk"
 Speakers = ["matheus-paes"]
 +++

@@ -1,7 +1,7 @@
 +++
 Title = "Mark Freydl"
 Twitter = ""
-image = ""
+image = "mark-freydl.png"
 type = "speaker"
 linktitle = "mark-freydl"
 

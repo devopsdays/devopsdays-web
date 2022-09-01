@@ -25,7 +25,7 @@ registration_date_start: 2022-08-14T00:00:00-05:00 # start accepting registratio
 registration_date_end: 2022-10-21T23:59:59-04:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "https://www.eventbrite.com/e/devopsdays-tampa-bay-2022-tickets-403152729667?aff=devopsdayswebsite" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+#registration_link: "https://www.eventbrite.com/e/devopsdays-tampa-bay-2022-tickets-403152729667?aff=devopsdayswebsite" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -42,8 +42,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     icon: "map-o"
     url: /events/2022-tampa/location
   - name: registration
-#  - name: program
-#  - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -137,4 +137,29 @@ sponsor_levels:
   - id: community
     label: Community
 
+program:
+  - title: "christian-posta-t1"
+    type: talk
+    date: 2022-10-21
+  - title: "gerie-owen-t1"
+    type: talk
+    date: 2022-10-21
+  - title: "adarsh-shah-t1"
+    type: talk
+    date: 2022-10-21
+  - title: "Ignites"
+    type: ignite
+    date: 2022-10-21
+  - title: "thomas-haver-t1"
+    type: talk
+    date: 2022-10-21
+  - title: "jim-barton-t1"
+    type: talk
+    date: 2022-10-21
 
+
+ignites:
+  - title: "waldo-g-t1"
+    date: 2022-10-21
+  - title: "waldo-g-t2"
+    date: 2022-10-21

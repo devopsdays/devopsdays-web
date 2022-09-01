@@ -2,7 +2,7 @@
 Talk_date = "2022-09-26"
 Talk_start_time = "15:20"
 Talk_end_time = "15:25"
-Title = "High Availability and Resilient Applications Through A Serverless Set-up in 5 minutes"
+Title = "High Availability and Resilient Applications Through a Serverless Set-up in 5 Minutes"
 Type = "talk"
 Speakers = ["sarjeel-yusuf"]
 +++
