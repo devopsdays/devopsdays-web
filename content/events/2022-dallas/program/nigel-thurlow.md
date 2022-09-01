@@ -8,8 +8,8 @@ Speakers = ["nigel-thurlow"]
 Youtube = "tD6oyklMI_8"
 Vimeo = ""
 Speakerdeck = ""
-Slideshare = "https://www.slideshare.net/DevOpsDaysDFW/nigel-thurlow-devops-is-enterprise-widepdf"
-Slides = ""
+Slideshare = ""
+Slides = "https://www.slideshare.net/DevOpsDaysDFW/nigel-thurlow-devops-is-enterprise-widepdf"
 Website = "https://www.getflowtrained.com/"
 +++
 
