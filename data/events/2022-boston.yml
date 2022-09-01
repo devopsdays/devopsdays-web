@@ -154,7 +154,10 @@ sponsors:
     level: platinum
   - id: roostai
     level: platinum
-
+  - id: merkely
+    level: platinum
+  - id: 42crunch
+    level: platinum
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
