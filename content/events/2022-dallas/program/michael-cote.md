@@ -8,7 +8,7 @@ Speakers = ["michael-cote"]
 Youtube = "_4ZhNemHYCg"
 Vimeo = ""
 Speakerdeck = ""
-Slideshare = "https://www.slideshare.net/DevOpsDaysDFW/michael-cot-the-eternal-recurrence-of-devops"
+Slideshare = ""
 Slides = "https://www.slideshare.net/DevOpsDaysDFW/michael-cot-the-eternal-recurrence-of-devops"
 Website = "http://cote.io"
 +++
