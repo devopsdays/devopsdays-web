@@ -6,4 +6,4 @@ description = "Sign up to volunteer at devopsdays Chicago 2022!"
 
 +++
 
-Thank you for considering to volunteer at DevOpsDays Chicago 2022!  At this time, all volunteer spots are filled. We hope you can join us anyway!
+Thank you for your interest in volunteering at DevOpsDays Chicago 2022!  At this time, all volunteer spots are filled. We hope you can join us anyway!
