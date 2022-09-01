@@ -7,7 +7,7 @@ Website = ""
 Facebook = ""
 Linkedin = "https://www.linkedin.com/in/julia-hohenadel-1a1898160/"
 Pronouns = ""
-Github = "https://github.com/Gerudhoh"
+Github = "Gerudhoh"
 Twitter = ""
 +++
 
