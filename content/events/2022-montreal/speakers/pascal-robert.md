@@ -1,6 +1,6 @@
 +++
 Title = "Pascal Robert"
-image = "pascal-robert.png"
+image = "pascal-robert.jpg"
 type = "speaker"
 linktitle = "pascal-robert"
 
@@ -8,7 +8,7 @@ Website = ""
 Facebook = ""
 Linkedin = "https://www.linkedin.com/in/macti/"
 Pronouns = ""
-Github = "https://github.com/pascalrobert"
+Github = "pascalrobert"
 Twitter = ""
 +++
 
