@@ -99,6 +99,10 @@ sponsors:
    level: gold
  - id: redhat
    level: gold
+ - id: sourceallies
+   level: lanyard
+ - id: leantechniques
+   level: book
 # #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 #  - id: arresteddevops
 #    level: community
@@ -118,4 +122,7 @@ sponsor_levels:
     max: 1
   - id: lanyard
     label: Lanyard
+    max: 1
+  - id: book
+    label: Book
     max: 1
