@@ -75,8 +75,6 @@ sponsors:
     url: https://www.btgpactualdigital.com/ # Use this if you need to over-ride a sponsor URL.
   - id: harness
     level: platinum
-  - id: postman
-    level: platinum
   - id: hurb
     level: platinum
   - id: linuxtips
@@ -90,8 +88,10 @@ sponsors:
     level: gold
   - id: globotv
     level: silver
+  - id: postman
+    level: silver
   - id: thoughtworks-services
-    level: bronze
+    level: silver
   - id: tecnogueto
     level: community
   - id: punkdodevops
