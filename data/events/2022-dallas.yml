@@ -448,7 +448,7 @@ program:
     type: custom
     date: 2022-08-25
     start_time: "11:00"
-    end_time: "11:300"
+    end_time: "11:30"
   - title: "Ignite Talks"
     type: ignite
     date: 2022-08-25
@@ -484,12 +484,12 @@ program:
     date: 2022-08-25
     start_time: "14:45"
     end_time: "15:30"
-  - title: "SPEAKER DISCUSSION PANEL"
+  - title: "SPEAKER DISCUSSION PANEL (Click here for video)"
     type: custom
     date: 2022-08-25
     start_time: "15:30"
     end_time: "16:15"
-    custom_url: ""
+    custom_url: "https://youtu.be/CDbYfRHfp3U"
   - title: "Organizers Recognition"
     type: custom
     date: 2022-08-25

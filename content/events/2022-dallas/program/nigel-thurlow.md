@@ -5,10 +5,10 @@ Talk_end_time = ""
 Title = "DevOps is Enterprise Wide"
 Type = "talk"
 Speakers = ["nigel-thurlow"]
-Youtube = ""
+Youtube = "tD6oyklMI_8"
 Vimeo = ""
 Speakerdeck = ""
-Slideshare = ""
+Slideshare = "https://www.slideshare.net/DevOpsDaysDFW/nigel-thurlow-devops-is-enterprise-widepdf"
 Slides = ""
 Website = "https://www.getflowtrained.com/"
 +++
