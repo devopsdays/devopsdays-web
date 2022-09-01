@@ -214,12 +214,13 @@ All Media / Community sponsors are entities we value as pillars of continuous le
       <td>Happy Hour</td>
       <td align="center">$10,000
         <br><br>
-        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+         <img src = "/events/2022-dallas/not_available.png">
+        <!-- <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
             <input type="hidden" name="cmd" value="_s-xclick">
             <input type="hidden" name="hosted_button_id" value="7N7YJXNS9X9JS">
             <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
             <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-          </form> 
+          </form> -->
       </td>
       <td>Happy Hour will be held both evenings of the event. All conference attendees will be invited to a happy hour. The Happy Hour sponsorship includes some special perks not listed in the table above.
           <ul class="fa-ul">
@@ -236,12 +237,13 @@ All Media / Community sponsors are entities we value as pillars of continuous le
       <td>Lanyards</td>
       <td align="center">$5,000
       <br><br>
-        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+        <img src = "/events/2022-dallas/not_available.png">
+        <!-- <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
             <input type="hidden" name="cmd" value="_s-xclick">
             <input type="hidden" name="hosted_button_id" value="9WSW86ACTY3JW">
             <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
             <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-          </form> 
+          </form> -->
       </td>
       <td>
           <ul class="fa-ul">
@@ -258,12 +260,13 @@ All Media / Community sponsors are entities we value as pillars of continuous le
       <td>Coffee Bar</td>
       <td align="center">$5,000
       <br><br>
-        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+        <img src = "/events/2022-dallas/not_available.png">
+        <!-- <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
             <input type="hidden" name="cmd" value="_s-xclick">
             <input type="hidden" name="hosted_button_id" value="6A439ZJ9AC5U4">
             <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
             <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-          </form> 
+          </form> -->
       </td>
       <td>A custom high-end coffee bar will be available in a large lounge area during the event. All conference attendees will be invited to receive a coffee. The attendees must get a ticket by interacting with a vendor to receive a free coffee.
           <ul class="fa-ul">
