@@ -1,6 +1,6 @@
 +++
 title = "Rags Srinivas"
-image = "rags-srinivas.png"
+image = "rags-srinivas.jpg"
 sharing_image = "rags-srinivas-card.png"
 type = "speaker"
 linktitle = "rags-srinivas"
