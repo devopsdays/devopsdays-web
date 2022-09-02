@@ -45,16 +45,12 @@ Description = "DevOpsDays Des Moines Agile 2022"
               <i class="fa fa-linkedin-square fa-lg"></i>&nbsp;&nbsp;&nbsp;Follow Us On LinkedIn
             </a>
           </div>
+        </div>
       </div>
     </div>
-</div>
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Program</strong>
-  </div>
-  <div class = "col-md-8">
-    The program for our 2022 event is now available <a href="https://docs.google.com/document/d/1X589p_ZwrZuVOO7m2VuzApcqNk_BmWF-24ZvYvC6c0g/edit?usp=sharing">here</a>! Check it out and let us know on social media which presentation you're most excited to see!
+    <div class = "row">
+      <p>The program for our 2022 event is now available <a href="https://docs.google.com/document/d/1X589p_ZwrZuVOO7m2VuzApcqNk_BmWF-24ZvYvC6c0g/edit?usp=sharing">here</a>! Check it out and let us know on social media which presentation you're most excited to see!</p>
+    </div>
   </div>
 </div>
 
