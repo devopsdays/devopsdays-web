@@ -17,7 +17,21 @@ Description = "DevOpsDays Nashville 2022"
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
 </div> -->
+<div class="row">
+  <div class = "col-md-3">
+    {{< event_logo >}}
+  </div>
+  <div class = "col-md-6">
+    <h2><p>Welcome to DevOps Days Nashville 2023!</p></h2>
+    <p>We are excited to announce DevOps Days will be coming back to {{< event_location >}} on April 6th & 7th.</p>
+    <br>
+    <h2><p><a href="https://sessionize.com/nashvilledevopsdays2023/">Call for Proposals Now Open!</a></p></h2>
+    <p>Do you have a great topic for the community?  Visit our <a href="https://sessionize.com/nashvilledevopsdays2023/">Call for Speakers/Papers</a> site today!  We look forward to hearing from you.</p>
+  </div>
+</div>
 
+
+<p>Event Information</p>
 <div class = "row">
   <div class = "col-md-2">
     <strong>Dates</strong>
@@ -27,14 +41,6 @@ Description = "DevOpsDays Nashville 2022"
   </div>
 </div>
 
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Location</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_location >}}
-  </div>
-</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -51,6 +57,15 @@ Description = "DevOpsDays Nashville 2022"
   </div>
   <div class = "col-md-8">
     {{< event_link page="propose" text="Propose a talk!" >}}
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Location</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_location >}}
   </div>
 </div>
 
@@ -82,26 +97,13 @@ Description = "DevOpsDays Nashville 2022"
 </div>
 
 <div class = "row">
-  <div class = "col-md-10">
-  
-  <div class = "row">
-    <div class = "col-md-2">
-      <strong>Contact</strong>
-    </div>
-    <div class = "col-md-8">
-      {{< event_link page="contact" text="Get in touch with the organizers" >}}
-    </div>
-
+  <div class = "col-md-2">
+    <strong>Contact</strong>
   </div>
-
-
-  <!-- </div> -->
-  <div class = "col-md-8" >
-    <img class = "img-right" src="/events/2023-nashville/DevOpsDays-Nashville-logo.200x200.png" />
-
+  <div class = "col-md-8">
+    {{< event_link page="contact" text="Get in touch with the organizers" >}}
   </div>
-<!-- </div> -->
-
+</div>
 
 
 <!-- Begin Mailchimp Signup Form -->
@@ -117,11 +119,11 @@ Description = "DevOpsDays Nashville 2022"
 	<label for="mce-EMAIL">Join our mailing list to get the latest from us!</label>
 	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_5c64b33612eed0ec10964661d_2e8ea2eb72" tabindex="-1" value=""></div>
+<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_5c64b33612eed0ec10964661d_2e8ea2eb72" tabindex="-1" value=""></div>
     <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
     </div>
 </form>
-</div>
+</div> 
 
 <!--End mc_embed_signup-->
 
