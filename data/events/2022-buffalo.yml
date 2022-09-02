@@ -36,7 +36,7 @@ coordinates: "42.8797755,-78.8763309" # The coordinates of your city. Get Latitu
 location_address: "1 Seneca St, Buffalo, NY 14203, USA" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-#  - name: propose
+  #  - name: propose
   - name: location
   - name: registration
   - url: "https://ti.to/devops-days-buffalo/2022"
@@ -48,7 +48,6 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
-
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
@@ -79,11 +78,10 @@ team_members: # Name is the only required field for team members.
 
 organizer_email: "buffalo@devopsdays.org" # Put your organizer email address here
 
-
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: f5
+  - id: nginx
     level: gold
   - id: mandtbank
     level: gold
@@ -94,7 +92,7 @@ sponsors:
   - id: jms
     level: badge
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
