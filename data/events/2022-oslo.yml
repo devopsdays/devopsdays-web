@@ -4,6 +4,7 @@ city: "Oslo"
 event_twitter: "devopsdaysoslo"
 description: "Devopsdays is coming to Oslo!"
 event_logo: "logo.png"
+sharing_image: "sharing.jpg"
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 
@@ -29,8 +30,8 @@ coordinates: "59.917514204671214, 10.740498310563055"
 
 nav_elements:
  # - name: propose
- # - name: location
- # - name: registration
+  - name: location
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
