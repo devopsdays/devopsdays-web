@@ -142,8 +142,8 @@ program:
     start_time: "09:30"
     end_time: "10:00"
     background_color: "#AED6F1"
-  - title: "APIOps - Palestrante a confirmar"
-    type: custom
+  - title: "pooja-mistry"
+    type: talk
     date: 2022-11-05T08:00:00-03:00
     start_time: "10:00"
     end_time: "10:30"
