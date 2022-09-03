@@ -13,8 +13,8 @@ Description = "Registration for devopsdays Tampa Bay 2022"
           <a class="btn btn-secondary btn-block" href="/events/2022-tampa/sponsor"> <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference</a>
         </div>
         <div class="p-2">
-          <a class="btn btn-secondary btn-block" href="https://www.papercall.io/tampadod"> <i class="fa fa-microphone fa-lg"></i>&nbsp;&nbsp;
-            &nbsp; Propose a talk</a>
+          <a class="btn btn-secondary btn-block" href="/events/2022-tampa/program"> <i class="fa fa-tasks fa-lg"></i>&nbsp;&nbsp;
+            &nbsp; Program</a>
         </div>
         <div class="p-2">
           <a class="btn btn-secondary btn-block" href="/events/2022-tampa/registration"> <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Get a ticket</a>

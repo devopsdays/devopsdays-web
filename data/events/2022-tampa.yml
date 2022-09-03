@@ -35,9 +35,9 @@ location: "Tampa Bay" # Defaults to city, but you can make it the venue name.
 location_address: "140 7th Ave S, St. Petersburg, FL 33701" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
-    url: /events/2022-tampa/propose
-    icon: "book"
+#  - name: propose
+#    url: /events/2022-tampa/propose
+#    icon: "book"
   - name: location
     icon: "map-o"
     url: /events/2022-tampa/location
