@@ -1,7 +1,7 @@
 +++
 Title = "Rafael Barbosa"
 Twitter = "vamperst"
-image = "rafael-gomex.jpeg"
+image = "rafael-barbosa.jpg"
 type = "speaker"
 linktitle = "rafael-barbosa"
 
