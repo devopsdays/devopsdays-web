@@ -63,22 +63,22 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: platinum
     label: Platinum
-    max: "1"
+    max: 1
   - id: gold
     label: Gold
-    max: "3"
+    max: 3
   - id: silver
     label: Silver
-    max: "3"
+    max: 3
   - id: bronze
     label: Bronze
-    max: "3"
+    max: 3
   - id: eventdinner
     label: "Event dinner"
-    max: "1"
+    max: 1
   - id: closingevent
     label: "Closing drinks"
-    max: "1"
+    max: 1
 
 speakers:
   - id: "daniel-maher"

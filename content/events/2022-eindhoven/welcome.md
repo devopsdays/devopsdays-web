@@ -2,7 +2,7 @@
 Title = "devopsdays Eindhoven 2022"
 Type = "welcome"
 aliases = ["/events/2022-eindhoven/"]
-Description = "devopsdays Eindhoven 2022"
+Description = "devopsdays Eindhoven 2022 will take place October 20-21, 2022"
 +++
 
 <div style="text-align:center;">
@@ -36,32 +36,32 @@ Description = "devopsdays Eindhoven 2022"
   </div>
 </div>
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
-</div>
+</div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
     View the {{< event_link page="program" text="program." >}}
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -111,11 +111,11 @@ Description = "devopsdays Eindhoven 2022"
   </div>
   <div class="row">
     <div class="col-12">
-      From fledgling startups to established industry,  The Netherlands is home to a large, vibrant technology community. Eindhoven, in particular, has been a flurry of activity in the past several years, drawing attention from around the globe.
+      From fledgling startups to established industry, The Netherlands is home to a large, vibrant technology community. Eindhoven, in particular, has been a flurry of activity in the past several years, drawing attention from around the globe.
       <br><br>
-      devopsdays Eindhoven brings development, operations, QA, InfoSec, management, and leadership together to discuss the culture and tools to make better organizations and products. The 2022 event will be the seventh time we have held devopsdays Eindhoven, and it should be bigger and better than ever before!
+      devopsdays Eindhoven brings development, operations, QA, InfoSec, management, and leadership together to discuss the culture and tools to make better organizations and products. 
       <br><br>
-      We expect 400 people this year and will be holding the event on June 22-24, 2022 at the <a href="/events/2022-Eindhoven/location">Pakhuis de Zwijger</a> in the center of Eindhoven. Attendees will be required to follow local government policies & mandates regarding vaccination status & ability to attend.
+      We expect 250 people this year and will be holding the event on October 20-21, 2022 at the <a href="/events/2022-Eindhoven/location">High Tech Campus Eindhoven</a>. Attendees will be required to follow local government policies & mandates regarding vaccination status & ability to attend.
       <br><br>
       The format of devopsdays Eindhoven includes a single track of 30 minute talks in the morning of each event, followed by Ignite talks (5 minute, auto forwarding). We spend the rest of the afternoon in Open Spaces, which are considered a key portion of the event. For those not interested in the Open Spaces, we continue offering the single track around a specific theme (previously around Security and HumanOps).
     </div>

@@ -26,7 +26,7 @@ Description = "DevOpsDays is coming. April 18th and 19th, 2022 in the beautiful 
     {{< event_location >}}
   </div>
 </div>
-
+<!--
 <div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
@@ -35,7 +35,7 @@ Description = "DevOpsDays is coming. April 18th and 19th, 2022 in the beautiful 
     {{< event_link page="registration" text="Register to attend the conference!" >}}
   </div>
 </div>
-
+ -->
 <!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>

@@ -72,13 +72,13 @@ sponsors:
     level: community
   - id: circleci
     level: gold
-  - id: influxdata
+  - id: influxdata-before-20220629
     level: gold
   - id: codefresh
     level: silver
   - id: site24x7
     level: silver
-  - id: appdynamics
+  - id: appdynamics-before-20220714
     level: silver
   - id: harness
     level: silver

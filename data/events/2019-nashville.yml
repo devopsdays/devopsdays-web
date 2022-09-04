@@ -68,7 +68,7 @@ sponsors:
     level: gold
   - id: signalfx
     level: silver
-  - id: influxdata
+  - id: influxdata-before-20220629
     level: gold
   - id: microsoft
     level: gold
@@ -82,7 +82,7 @@ sponsors:
     level: bronze
   - id: silexdatasolutions
     level: gold
-  - id: newrelic
+  - id: newrelic-before-20220808
     level: gold
   - id: netapp
     level: silver

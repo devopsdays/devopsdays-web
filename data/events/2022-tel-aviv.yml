@@ -203,6 +203,8 @@ sponsors:
     level: platinum
   - id: paloaltonetworks
     level: platinum
+  - id: microsoft
+    level: platinum
   - id: armosec
     level: gold
   - id: komodor
@@ -211,7 +213,7 @@ sponsors:
     level: gold
   - id: env0
     level: gold
-  - id: replicated
+  - id: logz
     level: gold
   - id: circleci
     level: gold
@@ -233,7 +235,7 @@ sponsors:
     level: gold
   - id: bigpanda
     level: gold
-  - id: wix
+  - id: aerospike
     level: gold
   - id: akeyless
     level: gold
@@ -241,6 +243,28 @@ sponsors:
     level: gold
   - id: hetz
     level: gold
+  - id: wix
+    level: gold
+  - id: snyk
+    level: gold
+  - id: jfrog
+    level: gold
+  - id: esl-cloudbees
+    level: gold
+  - id: googlecloud
+    level: gold
+  - id: newrelic
+    level: gold
+  - id: spectralops
+    level: media
+  - id: esl-sonatype
+    level: media
+  - id: doit
+    level: media
+  - id: silverfort
+    level: media
+  - id: velocitytech
+    level: media
   - id: statscraft
     level: media
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.

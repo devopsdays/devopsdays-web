@@ -2,7 +2,7 @@ name: "2022-montreal" # The name of the event. Four digit year with the city nam
 year: "2022" # The year of the event. Make sure it is in quotes.
 city: "Montréal" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsmontreal" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "Devopsdays is coming to Montreal! The current CFP round is now closed. We're reviewing entries" # Edit this to suit your preferences
+description: "Devopsdays is coming to Montreal! The current CFP round is now closed." # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2022-MM-DDTHH:MM:SS+TZ:TZ, like this:
@@ -20,15 +20,15 @@ cfp_date_announce: # inform proposers of status
 
 cfp_link: "https://docs.google.com/forms/d/e/1FAIpQLSf4qwC-lcdymPpvd15hUFqR6lVDABvXXcFNZrIwvNeugG7MgQ/viewform" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: 2022-08-15T00:00:00-04:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2022-10-28T00:00:00-04:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.eventbrite.ca/e/billets-devopsdays-montreal-2022-59525692950" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
-coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+coordinates: "45.503718,-73.561053" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Palais des congrès de Montréal / Montreal Convention Centre" # Defaults to city, but you can make it the venue name.
 #
 location_address: "1001 Pl. Jean-Paul-Riopelle, Montreal, Quebec H2Z 1H5" #Optional - use the street address of your venue. This will show up on the welcome page if set.
@@ -36,9 +36,9 @@ location_address: "1001 Pl. Jean-Paul-Riopelle, Montreal, Quebec H2Z 1H5" #Optio
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
  # - name: location
- # - name: registration
- # - name: program
- # - name: speakers
+  - name: registration
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: Become a sponsor
     url: https://assets.devopsdays.org/events/2022/montreal/SponsorshipDeck2022pdf.pdf
@@ -103,21 +103,36 @@ team_members: # Name is the only required field for team members.
     github: "sebagomez"
     twitter: "sebagomez"
     linkedin: "https://www.linkedin.com/in/sebagomez/"
-  - name: "Thanh-Liem Tran"
-    employer: "Legion Labs"
-    github: ""
-    twitter: "thanhliemtran"
-    linkedin: "https://www.linkedin.com/in/tltran/"
 
 organizer_email: "montreal@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  # - id: samplesponsorname
-  #   level: gold
+ # - id: samplesponsorname
+ #   level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: artiq
+    level: platinum
+  - id: dynatrace
+    level: gold
+  - id: solarwinds
+    level: gold
+  - id: suse
+    level: gold
+  - id: containersolutions
+    level: silver
+  - id: appdynamics
+    level: bronze
+  - id: gologic
+    level: bronze
+  - id: desjardins
+    level: lunch
+  - id: appdirect
+    level: cocktail
   - id: arresteddevops
+    level: community
+  - id: "agile-montreal"
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -127,6 +142,18 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: platinum
+    label: Platinum
+    max: 2
+  - id: gold
+    label: Gold
+    max: 5
+  - id: silver
+    label: Silver
+    max: 9
+  - id: bronze
+    label: Bronze
+    max: 7
   - id: lunch
     label: Lunch
     max: 2
@@ -139,17 +166,224 @@ sponsor_levels:
   - id: coffee
     label: Coffee
     max: 1
-  - id: bronze
-    label: Bronze
-    max: 7
-  - id: silver
-    label: Silver
-    max: 9
-  - id: gold
-    label: Gold
-    max: 5
-  - id: platinum
-    label: Platinum
-    max: 2
   - id: community
     label: Community
+
+program:
+# date: 2022-10-26 
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2022-10-26
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2022-10-26
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "martin-deslongchamps"
+    type: talk
+    date: 2022-10-26
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2022-10-26
+    start_time: "09:50"
+    end_time: "09:55"
+  - title: "julia-hohenadel"
+    type: talk
+    date: 2022-10-26
+    start_time: "10:00"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2022-10-26
+    start_time: "10:25"
+    end_time: "10:40"
+  - title: "gabriel-guimondprevost"
+    type: talk
+    date: 2022-10-26
+    start_time: "10:55"
+    end_time: "11:20"
+  - title: "sarjeel-yusuf"
+    type: talk
+    date: 2022-10-26
+    start_time: "11:25"
+    end_time: "11:50"
+  - title: "Lunch"
+    type: custom
+    date: 2022-10-26
+    start_time: "11:50"
+    end_time: "13:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2022-10-26
+    start_time: "13:10"
+    end_time: "13:15"
+  - title: "General Annoucements"
+    type: custom
+    date: 2022-10-26
+    start_time: "13:15"
+    end_time: "13:20"
+  - title: "justin-richards"
+    type: talk
+    date: 2022-10-26
+    start_time: "13:25"
+    end_time: "13:50"
+  - title: "samira-barouti"
+    type: talk
+    date: 2022-10-26
+    start_time: "13:55"
+    end_time: "14:20"
+  - title: "Open Space Presentation"
+    type: custom
+    date: 2022-10-26
+    start_time: "14:25"
+    end_time: "14:50"
+
+# date: 2022-10-26 (Workshops)
+  - title: "pascal-robert"
+    type: workshop
+    date: 2022-10-26
+    start_time: "15:00"
+    end_time: "17:00"
+
+  - title: "Break"
+    type: custom
+    date: 2022-10-26
+    start_time: "14:50"
+    end_time: "15:20"
+  - title: "Open Space #1"
+    type: custom
+    date: 2022-10-26
+    start_time: "15:20"
+    end_time: "15:55"
+  - title: "Open Space #2"
+    type: custom
+    date: 2022-10-26
+    start_time: "16:00"
+    end_time: "16:35"
+  - title: "Open Space #3"
+    type: custom
+    date: 2022-10-26
+    start_time: "16:40"
+    end_time: "17:15"
+  - title: "Closing / Cocktails / Drinks"
+    type: custom
+    date: 2022-10-26
+    start_time: "17:15"
+    end_time: "19:30"
+
+
+
+# date: 2022-10-27
+  - title: "Sponsor Setup"
+    type: custom
+    date: 2022-10-27
+    start_time: "08:30"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2022-10-27
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "chuck-mountz-jr"
+    type: talk
+    date: 2022-10-27
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2022-10-27
+    start_time: "09:50"
+    end_time: "09:55"
+  - title: "mohammed-sayagh"
+    type: talk
+    date: 2022-10-27
+    start_time: "10:00"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2022-10-27
+    start_time: "10:25"
+    end_time: "10:55"
+  - title: "Ignites"
+    type: custom
+    date: 2022-10-27
+    start_time: "10:55"
+    end_time: "11:20"
+  - title: "luc-parenteau-mounia-elqortobi"
+    type: talk
+    date: 2022-10-27
+    start_time: "11:25"
+    end_time: "11:50"
+  - title: "Lunch"
+    type: custom
+    date: 2022-10-27
+    start_time: "11:50"
+    end_time: "13:10"
+  - title: "Sponsor"
+    type: custom
+    date: 2022-10-27
+    start_time: "13:10"
+    end_time: "13:15"
+  - title: "General Annoucements"
+    type: custom
+    date: 2022-10-27
+    start_time: "13:15"
+    end_time: "13:20"
+  - title: "jr-beaudoin"
+    type: talk
+    date: 2022-10-27
+    start_time: "13:25"
+    end_time: "13:50"
+  - title: "stan-malinowski"
+    type: talk
+    date: 2022-10-27
+    start_time: "13:55"
+    end_time: "14:20"
+  - title: "Open Space Presentation"
+    type: custom
+    date: 2022-10-27
+    start_time: "14:20"
+    end_time: "14:30"
+
+# date: 2022-10-27 (Workshops)
+  - title: "kevork-sayad"
+    type: workshop
+    date: 2022-10-27
+    start_time: "14:40"
+    end_time: "16:40"
+
+  - title: "nick-ristuccia"
+    type: workshop
+    date: 2022-10-27
+    start_time: "14:40"
+    end_time: "15:40"
+
+  - title: "Break"
+    type: custom
+    date: 2022-10-27
+    start_time: "14:30"
+    end_time: "15:00"
+  - title: "Open Space #1"
+    type: custom
+    date: 2022-10-27
+    start_time: "15:00"
+    end_time: "15:35"
+  - title: "Open Space #2"
+    type: custom
+    date: 2022-10-27
+    start_time: "15:40"
+    end_time: "16:15"
+  - title: "Open Space #3"
+    type: custom
+    date: 2022-10-27
+    start_time: "16:20"
+    end_time: "16:55"
+  - title: "Contest Draw + Closing Ceremony"
+    type: custom
+    date: 2022-10-27
+    start_time: "16:55"
+    end_time: "17:15"

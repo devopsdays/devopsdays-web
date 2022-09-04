@@ -134,7 +134,7 @@ proposal_email: "proposals-sao-paulo-2019@devopsdays.org" # Put your proposal em
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: newrelic
+  - id: newrelic-before-20220808
     level: platinum
   - id: dynatrace
     level: platinum
