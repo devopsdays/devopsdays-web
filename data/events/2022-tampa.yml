@@ -138,6 +138,10 @@ sponsor_levels:
     label: Community
 
 program:
+  - title: "aaron-rinehart-kn"
+    type: talk
+    date: 2022-10-21
+    background_color: "#FFFA99"
   - title: "christian-posta-t1"
     type: talk
     date: 2022-10-21
@@ -160,6 +164,12 @@ program:
     type: talk
     date: 2022-10-21
   - title: "jessica-gonser-t1"
+    type: talk
+    date: 2022-10-21
+  - title: "gabriel-liechtman-manor-t1"
+    type: talk
+    date: 2022-10-21
+  - title: "esteban-garcia-t1"
     type: talk
     date: 2022-10-21
 

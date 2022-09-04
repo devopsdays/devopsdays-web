@@ -1,5 +1,5 @@
 +++
-Title = "ismet-handzic"
+Title = "Ismet Handzic"
 Twitter = ""
 image = "ismet-handzic.png"
 type = "speaker"
