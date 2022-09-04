@@ -7,6 +7,10 @@ Description = "Propose a talk for devopsdays Eindhoven 2022"
 
 <hr>
 
+<strong>Submit a proposal via <a href="https://sessionize.com/devopsdays-eindhoven-2022/">Sessionize</a> @ https://sessionize.com/devopsdays-eindhoven-2022/</strong> 
+
+<hr>
+
 There are three ways to propose a topic at devopsdays:
 <ol>
   <li><strong><em>A 30-minute talk</em></strong> presented during the conference, usually in the mornings.</li>
@@ -27,9 +31,4 @@ Choosing talks is part art, part science; here are some factors we consider when
 
 <hr>
 
-<strong>How to submit a proposal:</strong> Send an email to [{{< email_organizers >}}] with the following information
-<ol>
-	<li>Type (presentation, panel discussion, ignite)</li>
-	<li>Proposal Title (can be changed later)</li>
-	<li>Description (several sentences explaining what attendees will learn)</li>
-</ol>
+<strong>Submit a proposal via <a href="https://sessionize.com/devopsdays-eindhoven-2022/">Sessionize</a> @ https://sessionize.com/devopsdays-eindhoven-2022/</strong> 

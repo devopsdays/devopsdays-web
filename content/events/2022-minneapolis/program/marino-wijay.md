@@ -2,9 +2,10 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Network Engineering Goes DevOopsie"
+Title = "Follow the Packets: DevOps for Network Engineers"
 Type = "talk"
 Speakers = ["marino-wijay"]
+youtube = "ueDntAlLULA"
 +++
 
 I sit here and reflect back to 2008 when my supervisor suggested I look into the CCNA and Network+. My world changed from plugging a cable into a switch to setting up BGP peers, to configuring Load Balancers for High Availability. Network Engineering has evolved and from my eyes, has been entirely reimagined, retaining the foundations of networking.

@@ -5,5 +5,6 @@ image = "abby-allen.jpg"
 type = "speaker"
 linktitle = "abby-allen"
 linkedin = "https://www.linkedin.com/in/abby-allen-18888473/"
+sharing_image = "abby-allen.png"
 +++
-Abby Allen is a user-focused product manager, entrepreneur, engineer, and mom based in Minneapolis, MN. She currently leads the Platform Services team at Dispatch, one of [Forbes's 2021 Five Best Startup Employers](https://www.forbes.com/sites/kristinstoller/2021/03/09/meet-americas-best-startup-employers-2021/?sh=14f3070a6b6e)
+Abby Allen is a user-focused product manager, entrepreneur, engineer, and mom based near Minneapolis, MN. She recently joined PagerDuty as Senior Product Manager of the Notification Experience Team. When not wrangling requirements or perfecting launch plans, you can find her playing with her daughter or knee deep in her latest DIY endeavor. You can find her musings on product management and feminist leadership at https://medium.com/@abby-d-allen

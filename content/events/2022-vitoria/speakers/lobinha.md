@@ -2,7 +2,7 @@
 +++
 Title = "Lobinha"
 linkedin = "https://www.linkedin.com/in/camillagds/"
-image = "lobinha.jpeg"
+image = "lobinha.jpg"
 type = "speaker"
 linktitle = "lobinha"
 

@@ -2,7 +2,7 @@ name: "2022-des-moines" # The name of the event. Four digit year with the city n
 year: "2022" # The year of the event. Make sure it is in quotes.
 city: "Des Moines" # The displayed city name of the event. Capitalize it.
 event_twitter: "DevOpsDaysDSM" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "Devopsdays is coming to Des Moines!" # Edit this to suit your preferences
+description: "DevOpsDays is coming to Des Moines!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2022-MM-DDTHH:MM:SS+TZ:TZ, like this:
@@ -20,11 +20,11 @@ cfp_date_end:  2022-07-31T23:59:59-06:00 # close your call for proposals.
 
 cfp_link: "https://www.papercall.io/devops-desmoines-agile" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: 2022-06-01T00:00:00-06:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2022-10-27T00:00:00-06:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.eventbrite.com/e/devopsdays-des-moines-agile-2022-tickets-358456341567" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -34,9 +34,9 @@ location: "Iowa Events Center" # Defaults to city, but you can make it the venue
 location_address: "730 3rd St, Des Moines, IA 50309" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
- # - name: location
- # - name: registration
+  - name: propose
+  - name: location
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -83,8 +83,26 @@ organizer_email: "des-moines@devopsdays.org" # Put your organizer email address 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-#  - id: samplesponsorname
-#    level: gold
+ - id: launch-darkly
+   level: gold
+ - id: trility
+   level: gold
+ - id: appdynamics
+   level: gold
+ - id: mumosystems
+   level: gold
+ - id: john-deere
+   level: gold
+ - id: emc-ins
+   level: gold
+ - id: sonatype
+   level: gold
+ - id: redhat
+   level: gold
+ - id: sourceallies
+   level: lanyard
+ - id: leantechniques
+   level: book
 # #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 #  - id: arresteddevops
 #    level: community
@@ -98,11 +116,13 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Gold
-#    max: 10
-  - id: silver
-    label: Silver
-    max: 0 # This is the same as omitting the max limit.
-  - id: bronze
-    label: Bronze
-  - id: community
-    label: Community
+    max: 10
+  - id: social
+    label: Social
+    max: 1
+  - id: lanyard
+    label: Lanyard
+    max: 1
+  - id: book
+    label: Book
+    max: 1

@@ -72,12 +72,15 @@ Please see our <a href="https://assets.devopsdays.org/events/2022/houston/devops
 		<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 	</form></center></th>
 	<th valign="top"><center>
+	<span class="btn btn-warning btn-sm">Email us</span>
+	<!--
 	<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 		<input type="hidden" name="cmd" value="_s-xclick">
 		<input type="hidden" name="hosted_button_id" value="3ZWKAEXK26UPW">
 		<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 		<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 	</form>
+	-->
 	</center></th>
 </tr>
 <tr>
@@ -167,26 +170,26 @@ at [{{< email_organizers >}}] if interested in this sponsorship tier.
 <a name="FAQ"><h2>Sponsor FAQ</h2><a/>
 <dl>
     <dt>What exactly will the sponsors have available to them in the sponsors’ room?</dt>
-    <dd>We will provide a table 6’x30” with a black tablecloth and a couple of chairs. You are welcome to bring your own tablecloth, posters, table signs, rollup banners, etc. to decorate your space. If you plan to hang a banner on the wall, make sure you bring 3mm command strips as that is the only approved way to attach things to the wall. Please also note that your table may not be next to the wall. 
+    <dd>We will provide a table 6’x30” with a black tablecloth and a couple of chairs. You are welcome to bring your own tablecloth, table signs, rollup banners, etc. to decorate your space. Please also note that there will be no wall behind your table (to affix or lean anything against). 
 	<br/>
     <dt>What dates/times can we set up and tear down?</dt>
-    <dd><em>TBD</em></dd>
+    <dd> The Ion will have their facilities open for setup from 6pm - 9pm on the 3rd October. All items MUST be shipped out on the 5th of October, after 6pm.  </dd>
     <dt>How do we ship to the venue?</dt>
-    <dd><em>TBD</em></dd>
+    <dd>The Ion can receive items no earlier than 1 October.  You will need to coordinate pickup of items on the evening of October 5th. Shipping address will be provided to you via email.</dd>
     <dt>What should we expect regarding electricity? (how much, any fees, etc)</dt>
     <dd>There are no fees. There are a number of power outlets along the walls of the room. However, we suggest that you bring a few extension cords, as there may not be enough power outlets or they may not be close enough to your table to be reachable by a laptop/monitor cable.</dd>
     <dt>What should we expect regarding WiFi? (how much, any fees, etc)</dt>
     <dd>There will be free WiFi, but wired connections will not be provided.</dd>
     <dt>Whom should we send?</dt>
     <dd>This is a community event, so it is better to send engineers rather than sales people.</dd>
-    <dt>As a Platinum we are supposed to have 5-minute slot to address the attendees. When will that be? How will it work?</dt>
-    <dd>We are still working on an exact schedule. An email in late September will provide additional details.</dd>
+    <dt>As a Platinum/Gold we are supposed to have 5-minute/1-minute slot to address the attendees. When will that be? How will it work?</dt>
+    <dd>We are still working on an exact schedule, but you will address the audience right after the keynote talks on one of the two days. For 5-minute slot you are welcome to use slides. An email in late September will provide additional details.</dd>
     <dt>How do we get our free tickets to the event?</dt>
-    <dd>An access code will be emailed to you in late summer. </dd>
+    <dd>An access code for your free tickets will be emailed to you. </dd>
 	<dt>Does our team need to register upon arrival?</dt>
 	<dd>All attendees (including sponsors) must check-in at registration on the morning of the first day of the conference. </dd>
     <dt>How much dedicated time will sponsors have with the attendees?</dt>
-    <dd>We are working on a program schedule, please keep checking the {{< event_link page="program" text="program" >}} for updates.</dd>
+    <dd>The program is almost finalized, please check {{< event_link page="program" text="program" >}} for updates.</dd>
     <dt>Can we bring small giveaways, stickers, mugs, pens, etc.?</dt>
     <dd>Of course.</dd>
     <dt>Can we raffle off stuff (Lego sets, gift cards, iPads, etc.)?</dt>
@@ -195,6 +198,13 @@ at [{{< email_organizers >}}] if interested in this sponsorship tier.
 	<dd>Per DevOpsDays Policy, we do not provide a list of attendees. Sponsors are encouraged to engage with attendees at the event. The organizers have planned activities and raffles that will only be eligible to attendees that have visited all sponsor booths. Sponsors are welcome to collect contact information of attendees who elect to provide this information.</dd>
 	<dt>Will there be any virtual components to the event?</dt>
 	<dd>No. DevOpsDays Houston 2022 will be an in person event. Organizing committee is not planning for any virtual components</dd>
+	<dt>Where can we rent a monitor, monitor stand, etc.?</dt>
+	<dd>The Ion and the DevOpsDays committe are not able to provide anything. Check out the following local places: 
+		<ul>
+		<li><a href="http://www.houstonelectronicsrental.com/">ABC Computer & Audio Visual Rental</a></li>
+		<li><a href="https://www.houstonavrental.com/product-category/hdtv-monitor-rentals/">Action Computer & AV</a></li>
+		</ul>
+	</dd>
 </dl>
 
 <hr/>

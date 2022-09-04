@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "More YAML with your coffee please!"
 Type = "talk"
-Speakers = ["rob-edwards"]
+Speakers = ["markus-bukowski", "rushil-sharma"]
 +++
 
 When deploying your applications to Kubernetes, do you find the need to context switch and use multiple tools to define external resources? Wouldn't it be easier to define your application components and dependencies, using the same declarative method, taking a configuration as data approach?

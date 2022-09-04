@@ -108,9 +108,9 @@ sponsors:
     level: gold
   - id: abs
     level: corporate
-  - id: influxdata
+  - id: influxdata-before-20220629
     level: platinum
-  - id: appdynamics
+  - id: appdynamics-before-20220714
     level: gold
   - id: datadog
     level: gold
