@@ -205,9 +205,9 @@ sponsors:
   - id: forja
     level: silver
     url: https://techleadership.rocks
-  # - id: LPI
-  #   level: gold
-  #   url: https://www.lpi.org/
+  - id: novatec
+    level: community
+    url: https://novatec.com.br
   # - id: globoofficial
   #   level: silver
   #   url: https://www.globo.com/
