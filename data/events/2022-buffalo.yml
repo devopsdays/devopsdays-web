@@ -81,10 +81,12 @@ organizer_email: "buffalo@devopsdays.org" # Put your organizer email address her
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: nginx
-    level: gold
   - id: mandtbank
     level: gold
+  - id: nginx
+    level: gold
+  - id: avesha
+    level: silver
   - id: vivanti
     level: silver
   - id: circleci
