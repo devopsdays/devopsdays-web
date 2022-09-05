@@ -133,8 +133,8 @@ program:
     date: 2022-09-29
     start_time: "08:00"
     end_time: "08:45"
-  - title: "Opening Remarks"
-    type: custom
+  - title: "jameson-welcome"
+    type: talk
     date: 2022-09-29
     start_time: "08:45"
     end_time: "09:00"
@@ -209,8 +209,8 @@ program:
     date: 2022-09-30
     start_time: "08:00"
     end_time: "08:45"
-  - title: "Opening Remarks"
-    type: custom
+  - title: "jameson-welcome"
+    type: talk
     date: 2022-09-30
     start_time: "08:45"
     end_time: "09:00"
@@ -277,5 +277,8 @@ program:
 
 ignites:
   - title: "jean-remi-beaudoin"
+    date: 2022-09-29
+    block: "ignite"
+  - title: "jameson-karaoke"
     date: 2022-09-29
     block: "ignite"
