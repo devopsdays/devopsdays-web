@@ -188,7 +188,7 @@ program:
     date: 2022-10-20T00:00:00+02:00
     start_time: "10:45"
     end_time: "11:00"
-  - title: "TBA"
+  - title: "suzanne-daniels"
     type: talk
     date: 2022-10-20T00:00:00+02:00
     start_time: "11:00"
@@ -290,7 +290,7 @@ program:
     date: 2022-10-21T00:00:00+02:00
     start_time: "09:15"
     end_time: "09:45"
-  - title: "dianna-keen"
+  - title: "brian-finster"
     type: talk
     date: 2022-10-21T00:00:00+02:00
     start_time: "09:45"
@@ -325,7 +325,7 @@ program:
     date: 2022-10-21T00:00:00+02:00
     start_time: "12:30"
     end_time: "13:30"
-  - title: "vanessa-kantner"
+  - title: "thatcher-peskens"
     type: talk
     date: 2022-10-21T00:00:00+02:00
     start_time: "13:30"
@@ -375,7 +375,7 @@ program:
     date: 2022-10-21T00:00:00+02:00
     start_time: "16:00"
     end_time: "16:25"
-  - title: "TBA"
+  - title: "anneke-keller"
     type: talk
     date: 2022-10-21T00:00:00+02:00
     start_time: "16:30"
