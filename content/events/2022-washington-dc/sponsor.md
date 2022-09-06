@@ -55,32 +55,12 @@ The following chart outlines our paid sponsorship packages.
     -->
   </tr>
   <tr class="hed2">
-    <td></td>
-    <td><strong>$1,500 USD</strong>
-      <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-        <input type="hidden" name="cmd" value="_s-xclick">
-        <input type="hidden" name="hosted_button_id" value="WQSA8VZ3PHHKE">
-        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-        <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-      </form>
-    </td>
-<!--     <td><strong class="stamp">SOLD OUT</strong></td> -->
-    <td><strong>$4,000 USD</strong>
-      <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-        <input type="hidden" name="cmd" value="_s-xclick">
-        <input type="hidden" name="hosted_button_id" value="JW6VLNEQKJMQG">
-        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-        <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-      </form>
-    </td>
-    <td><strong>$6,000 USD</strong>
-      <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-        <input type="hidden" name="cmd" value="_s-xclick">
-        <input type="hidden" name="hosted_button_id" value="RYMPY96YMWJUW">
-        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-        <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-      </form>
-    </td>
+    <td></td> 
+    <td><strong class="stamp">CLOSED</strong></td>
+    <td><strong class="stamp">SOLD OUT</strong></td>
+    <td><strong class="stamp">SOLD OUT</strong></td>
+
+  
     <!--
     <td><strong class="stamp">TBD</strong></td>
     <td><strong class="stamp">TBD</strong></td>
