@@ -81,14 +81,18 @@ organizer_email: "buffalo@devopsdays.org" # Put your organizer email address her
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: nginx
-    level: gold
   - id: mandtbank
     level: gold
+  - id: nginx
+    level: gold
+  - id: avesha
+    level: silver
   - id: vivanti
     level: silver
   - id: circleci
     level: captioning
+  - id: packt
+    level: media
   - id: jms
     level: badge
 
@@ -108,6 +112,9 @@ sponsor_levels:
   - id: captioning
     label: Captioning
     max: 1
+  - id: media
+    label: Media
+    max: 1
   - id: bronze
     label: Bronze
     max: 10
@@ -126,8 +133,8 @@ program:
     date: 2022-09-29
     start_time: "08:00"
     end_time: "08:45"
-  - title: "Opening Remarks"
-    type: custom
+  - title: "jameson-welcome"
+    type: talk
     date: 2022-09-29
     start_time: "08:45"
     end_time: "09:00"
@@ -176,7 +183,7 @@ program:
     date: 2022-09-29
     start_time: "13:30"
     end_time: "14:00"
-  - title: "Ignite Talk + Karaoke"
+  - title: "Ignites"
     type: ignite
     date: 2022-09-29
     start_time: "14:00"
@@ -202,8 +209,8 @@ program:
     date: 2022-09-30
     start_time: "08:00"
     end_time: "08:45"
-  - title: "Opening Remarks"
-    type: custom
+  - title: "jameson-welcome"
+    type: talk
     date: 2022-09-30
     start_time: "08:45"
     end_time: "09:00"
@@ -217,6 +224,11 @@ program:
     date: 2022-09-30
     start_time: "09:40"
     end_time: "10:10"
+  - title: "anand-bagmar"
+    type: talk
+    date: 2022-09-30
+    start_time: "10:20"
+    end_time: "10:50"
   - title: "Sponsors"
     type: custom
     date: 2022-09-30
@@ -270,5 +282,8 @@ program:
 
 ignites:
   - title: "jean-remi-beaudoin"
+    date: 2022-09-29
+    block: "ignite"
+  - title: "jameson-karaoke"
     date: 2022-09-29
     block: "ignite"
