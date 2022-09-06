@@ -60,18 +60,12 @@ The following chart outlines our paid sponsorship packages.
     <td><strong class="stamp">SOLD OUT</strong></td>
     <td><strong class="stamp">SOLD OUT</strong></td>
 
-  
-    <!--
-    <td><strong class="stamp">TBD</strong></td>
-    <td><strong class="stamp">TBD</strong></td>
-    <td><strong class="stamp">TBD</strong></td>
-    -->
   </tr>
     <tr>
     <td>Available sponsorships</td>
       <td class="yes"><s>5</s> <strong>3</strong></td>
-      <td class="yes"><s>6</s> <strong>1</strong></td>
-      <td class="yes"><s>15</s> <strong>1</strong></td>
+      <td class="yes"><s>6</s> <strong>0</strong></td>
+      <td class="yes"><s>15</s> <strong>0</strong></td>
   </tr>
   <tr>
     <td>Logo on shared slide, rotating during breaks</td>
