@@ -6,15 +6,15 @@ jobs:
   test:
     runs-on: ubuntu-18.04
 
-      steps:
-          - name: Checkout
-            uses: actions/checkout@v2
+    steps:
+        - name: Checkout
+          uses: actions/checkout@v2
 
-          - name: Lint Filenames
-            uses: julie-ng/lowercase-linter@v1
-            id: lint_filenames
-            continue-on-error: true
-            with:
-              path: '.'
-              pr-comment: true
-              repo-token: ${{ secrets.GITHUB_TOKEN }}
+        - name: Lint Filenames
+          uses: julie-ng/lowercase-linter@v1
+          id: lint_filenames
+          continue-on-error: true
+          with:
+            path: '.'
+            pr-comment: true
+            repo-token: ${{ secrets.GITHUB_TOKEN }}
