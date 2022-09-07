@@ -1,12 +1,20 @@
-steps:
-  - name: Checkout
-    uses: actions/checkout@v2
+namm: check filename case
 
-  - name: Lint Filenames
-    uses: julie-ng/lowercase-linter@v1
-    id: lint_filenames
-    continue-on-error: true
-    with:
-      path: '.'
-      pr-comment: true
-      repo-token: ${{ secrets.GITHUB_TOKEN }}
+on: [pull_request]
+
+jobs:
+  test:
+    runs-on: ubuntu-18.04
+
+      steps:
+          - name: Checkout
+            uses: actions/checkout@v2
+
+          - name: Lint Filenames
+            uses: julie-ng/lowercase-linter@v1
+            id: lint_filenames
+            continue-on-error: true
+            with:
+              path: '.'
+              pr-comment: true
+              repo-token: ${{ secrets.GITHUB_TOKEN }}
