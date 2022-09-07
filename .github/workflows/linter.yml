@@ -3,7 +3,7 @@ name: check filename case
 on: [pull_request]
 
 jobs:
-  test:
+  lint:
     runs-on: ubuntu-18.04
 
     steps:
