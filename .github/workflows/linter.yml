@@ -3,8 +3,8 @@ name: check filename case
 on: [pull_request]
 
 jobs:
-  test:
-    runs-on: ubuntu-18.04
+  lint:
+    runs-on: ubuntu-latest
 
     steps:
         - name: Checkout
@@ -13,7 +13,7 @@ jobs:
         - name: Lint Filenames
           uses: julie-ng/lowercase-linter@v1
           id: lint_filenames
-          continue-on-error: true
+          continue-on-error: false
           with:
             path: '.'
             pr-comment: true
