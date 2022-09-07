@@ -1,9 +1,14 @@
 name: test hugo
 
-on: [pull_request]
+on:
+  workflow_run:
+    workflows: ["check filename case"]
+    types:
+      - completed
 
 jobs:
   test-linux:
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
     name: Build hugo on Linux
     runs-on: ubuntu-latest
     steps:
@@ -30,6 +35,7 @@ jobs:
         run: gulp min-html
 
   test-windows:
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
     name: Build hugo on Windows
     runs-on: windows-latest
     steps:
