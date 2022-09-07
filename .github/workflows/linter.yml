@@ -13,7 +13,7 @@ jobs:
         - name: Lint Filenames
           uses: julie-ng/lowercase-linter@v1
           id: lint_filenames
-          continue-on-error: true
+          continue-on-error: false
           with:
             path: '.'
             pr-comment: true
