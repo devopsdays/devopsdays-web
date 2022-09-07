@@ -256,6 +256,8 @@ sponsors:
     level: community
   - id: simcac
     level: community
+  - id: postgresql
+    level: community
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
