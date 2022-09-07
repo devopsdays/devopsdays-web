@@ -55,7 +55,7 @@ This conference is hosted by DevOpsKC, make sure to checkout our [monthly meetup
     <strong>Conference map</strong>
   </div>
   <div class = "col-md-8">
-    <a target="_blank" href= "/events/2019-kansas-city/DevOpsDays2019-MAP-Westport-Commons-Plexpod.pdf">View a map of venue!</a>
+    <a target="_blank" href= "/events/2019-kansas-city/devopsdays2019-map-westport-commons-plexpod.pdf">View a map of venue!</a>
   </div>
 </div>
 

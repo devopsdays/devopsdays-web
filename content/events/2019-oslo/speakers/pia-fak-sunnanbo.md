@@ -1,7 +1,7 @@
 +++
 Title = "Pia Fåk Sunnanbo"
 Twitter = ""
-image = "Pia_Fak_Sunnanbo.jpg"
+image = "pia_fak_sunnanbo.jpg"
 type = "speaker"
 linktitle = "pia-fak-sunnanbo"
 

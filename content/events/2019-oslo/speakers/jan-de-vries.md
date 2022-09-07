@@ -1,7 +1,7 @@
 +++
 Title = "Jan de Vries"
 Twitter = ""
-image = "Jan_de_Vries.jpg"
+image = "jan_de_vries.jpg"
 type = "speaker"
 linktitle = "jan-de-vries"
 

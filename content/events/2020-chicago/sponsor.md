@@ -161,6 +161,6 @@ All sponsors will have their logo displayed on the DevOpsDays Chicago website, a
 </div>
 </div>
 <div class = "col-md-4 col-sm-12">
-<a href = "https://assets.devopsdays.org/events/2020/chicago/2020-chicago-devopsdays-prospectus.pdf" target="_blank"><img src = "/events/2020-chicago/DOD_Chi_Prospectus_2020.png" class="img-fluid"></a>
+<a href = "https://assets.devopsdays.org/events/2020/chicago/2020-chicago-devopsdays-prospectus.pdf" target="_blank"><img src = "/events/2020-chicago/dod_chi_prospectus_2020.png" class="img-fluid"></a>
 </div>
 </div>

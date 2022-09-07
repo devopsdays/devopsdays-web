@@ -1,7 +1,7 @@
 +++
 Title = "Martin Woodward"
 Twitter = "martinwoodward"
-image = "MARTIN-WOODWARD.png"
+image = "martin-woodward.png"
 type = "speaker"
 linktitle = "martin-woodward"
 

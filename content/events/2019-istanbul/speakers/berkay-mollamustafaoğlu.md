@@ -1,7 +1,7 @@
 +++
 Title = "Berkay Mollamustafaoğlu"
 Twitter = "berkay"
-image = "berkayMollamustafaoglu.jpg"
+image = "berkaymollamustafaoglu.jpg"
 type = "speaker"
 linktitle = "berkay-mollamustafaoğlu"
 

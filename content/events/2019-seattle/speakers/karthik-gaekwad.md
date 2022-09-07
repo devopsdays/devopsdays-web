@@ -1,7 +1,7 @@
 +++
 Title = "Karthik Gaekwad"
 Twitter = "iteration1"
-image = "Karthik_Gaekwad.jpg"
+image = "karthik_gaekwad.jpg"
 type = "speaker"
 linktitle = "karthik-gaekwad"
 

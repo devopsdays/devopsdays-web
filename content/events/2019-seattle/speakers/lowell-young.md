@@ -1,6 +1,6 @@
 +++
 Title = "Lowell Young"
-image = "Lowell_Young.jpg"
+image = "lowell_young.jpg"
 Twitter = ""
 type = "speaker"
 linktitle = "lowell-young"

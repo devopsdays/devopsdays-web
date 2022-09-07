@@ -98,7 +98,7 @@ team_members: # Name is the only required field for team members.
     employer: "Verizon"
     linkedin: "https://www.linkedin.com/in/karen-whelan-015914179/"
     website: "http://verizon.com"
-    image: "KWhelanpic.jpg"
+    image: "kwhelanpic.jpg"
   - name: "Devon Ford"
     employer: "TEKsystems"
     website: "http://www.teksystems.com/en"
