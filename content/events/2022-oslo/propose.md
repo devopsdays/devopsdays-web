@@ -7,6 +7,10 @@ Description = "Propose a talk for devopsdays Oslo 2022"
 
 <hr>
 
+<center><h2><a href="https://sessionize.com/devopsdays-oslo-2022/">Our CFP is now open</a></h2></center>
+
+<hr>
+
 There are three ways to propose a topic at devopsdays:
 <ol>
   <li><strong><em>A 30-minute talk</em></strong> presented during the conference, usually in the mornings.</li>
