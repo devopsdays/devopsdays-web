@@ -136,6 +136,10 @@ sponsors:
     level: silver
   - id: zoho
     level: gold
+  - id: launchlan
+    level: silver
+  - id: stack-overflow
+    level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
