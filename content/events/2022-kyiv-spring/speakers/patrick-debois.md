@@ -1,7 +1,7 @@
 +++
 Title = "Patrick Debois"
 Twitter = "patrickdebois"
-image = "PATRICK-DEBOIS.png"
+image = "patrick-debois.png"
 type = "speaker"
 linktitle = "patrick-debois"
 linkedin = "https://www.linkedin.com/in/patrickdebois/"

@@ -209,7 +209,7 @@ sponsors:
   - id: spiritsec
     level: gold
     url: https://www.spiritsec.com/
-  - id: LPI
+  - id: lpi
     level: gold
     url: https://www.lpi.org/
   - id: globoofficial
@@ -233,7 +233,7 @@ sponsors:
   - id: digitalocean
     level: community
     url: https://www.digitalocean.com/
-  - id: AtmanSystems
+  - id: atmansystems
     level: platinum
     url: http://atmansystems.com/
   - id: harness

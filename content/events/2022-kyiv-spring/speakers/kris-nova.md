@@ -1,7 +1,7 @@
 +++
 Title = "Kris Nóva"
 Twitter = "krisnova"
-image = "KRIS-NOVA.png"
+image = "kris-nova.png"
 type = "speaker"
 linktitle = "kris-nova"
 

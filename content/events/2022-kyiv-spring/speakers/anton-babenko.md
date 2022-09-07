@@ -1,7 +1,7 @@
 +++
 Title = "Anton Babenko"
 Twitter = "antonbabenko"
-image = "ANTON-BABENKO.png"
+image = "anton-babenko.png"
 type = "speaker"
 linktitle = "anton-babenko"
 linkedin = "https://www.linkedin.com/in/antonbabenko/"

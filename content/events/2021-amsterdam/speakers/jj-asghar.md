@@ -1,7 +1,7 @@
 +++
 Title = "JJ Asghar"
 Twitter = "jjasghar"
-image = "JJ_Asghar.jpg"
+image = "jj_asghar.jpg"
 type = "speaker"
 linktitle = "jj-asghar"
 

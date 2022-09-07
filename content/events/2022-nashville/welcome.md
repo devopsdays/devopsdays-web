@@ -99,7 +99,7 @@ devopsdays Nashville 2022 has been postponed; details to follow.
 
   <!-- </div> -->
   <div class = "col-md-8" >
-    <img class = "img-right" src="/events/2022-nashville/DevOpsDays-Nashville-logo.200x200.png" />
+    <img class = "img-right" src="/events/2022-nashville/devopsdays-nashville-logo.200x200.png" />
 
   </div>
 <!-- </div> -->

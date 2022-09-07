@@ -1,7 +1,7 @@
 +++
 Title = "Carlos Zapata"
 #Twitter = "Ana_M_Medina"
-image = "Carlos-Zapata.png"
+image = "carlos-zapata.png"
 type = "speaker"
 linktitle = "carlos-zapata"
 LinkedIn = "https://www.linkedin.com/in/carloszapata-devops-coach/"

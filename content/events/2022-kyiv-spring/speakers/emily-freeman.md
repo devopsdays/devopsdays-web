@@ -1,7 +1,7 @@
 +++
 Title = "Emily Freeman"
 Twitter = "editingemily"
-image = "EMILY-FREEMAN.png"
+image = "emily-freeman.png"
 type = "speaker"
 linktitle = "emily-freeman"
 

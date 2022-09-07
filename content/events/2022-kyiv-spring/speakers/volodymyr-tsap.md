@@ -1,7 +1,7 @@
 +++
 Title = "Volodymyr Tsap"
 Twitter = "voatsap"
-image = "VOLODYMYR-TSAP.png"
+image = "volodymyr-tsap.png"
 type = "speaker"
 linktitle = "volodymyr-tsap"
 linkedin = "https://www.linkedin.com/in/voatsap"

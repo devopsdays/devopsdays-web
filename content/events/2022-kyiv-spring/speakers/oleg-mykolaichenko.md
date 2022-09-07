@@ -1,7 +1,7 @@
 +++
 Title = "Oleg Mykolaichenko"
 linkedin = "https://www.linkedin.com/in/oleg-mykolaichenko-763ab699/"
-image = "OLEG-MYKOLAICHENKO.png"
+image = "oleg-mykolaichenko.png"
 type = "speaker"
 linktitle = "oleg-mykolaichenko"
 
