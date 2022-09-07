@@ -1,4 +1,4 @@
-namm: check filename case
+name: check filename case
 
 on: [pull_request]
 
