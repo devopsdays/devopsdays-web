@@ -3,7 +3,7 @@ title = "Swathi Poddar"
 twitter = ""
 linkedin = "https://www.linkedin.com/in/swathipoddar/"
 website = ""
-image = ""
+image = "swathi-poddar.jpeg"
 type = "speaker"
 linktitle = ["swathi-poddar"]
 +++

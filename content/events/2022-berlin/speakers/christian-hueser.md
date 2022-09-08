@@ -1,9 +1,9 @@
 +++
 title = "Christian Hüser"
-twitter = ""
-linkedin = ""
-website = ""
-image = ""
+twitter = "https://twitter.com/c_hueser_hzdr"
+linkedin = "https://www.linkedin.com/in/christian-hueser/"
+website = "https://www.hifis.net"
+image = "christian-hueser.png"
 type = "speaker"
 linktitle = ["christian-hueser.md"]
 +++
