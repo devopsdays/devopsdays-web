@@ -4,6 +4,8 @@ install:
 - cmd: >-
     choco install hugo --version=0.102.3
 
+    where hugo
+
     hugo version
 
 # Change the Path seperator to a Windows version (backslash)
