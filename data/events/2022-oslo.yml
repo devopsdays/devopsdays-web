@@ -12,11 +12,11 @@ startdate: 2022-11-02T00:00:00+02:00
 enddate: 2022-11-02T23:59:59+02:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
+cfp_date_start: 2022-09-07T00:00:00+02:00 # start accepting talk proposals.
 cfp_date_end:  # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://sessionize.com/devopsdays-oslo-2022/"
 
 registration_date_start: 2022-09-02T00:00:00+02:00
 registration_date_end: 2022-11-02T12:00:00+02:00
@@ -29,7 +29,7 @@ location_address: "Rebel, Universitetsgata 2, 0164 Oslo"
 coordinates: "59.917514204671214, 10.740498310563055"
 
 nav_elements:
- # - name: propose
+  - name: propose
   - name: location
   - name: registration
  # - name: program
