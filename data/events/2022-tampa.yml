@@ -130,7 +130,9 @@ sponsors:
   - id: googletampabay
     level: community
   - id: tampadevs
-    level: community    
+    level: community  
+  - id: zoho
+    level: gold  
     
 #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 # - id: arresteddevops
