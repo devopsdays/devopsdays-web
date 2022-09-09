@@ -2,47 +2,54 @@ name: test hugo
 
 on: [pull_request]
 
+env:
+  NODE_VERSION: 16
+  HUGO_VERSION: 0.102.3
+
 jobs:
   lint:
-      runs-on: ubuntu-latest
+    runs-on: ubuntu-latest
 
-      steps:
-          - name: Checkout
-            uses: actions/checkout@v2
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
 
-          - name: Lint Filenames
-            uses: julie-ng/lowercase-linter@v1
-            id: lint_filenames
-            continue-on-error: false
-            with:
-              path: '.'
-              pr-comment: true
-              repo-token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Lint Filenames
+        uses: julie-ng/lowercase-linter@v1
+        id: lint_filenames
+        continue-on-error: false
+        with:
+          path: "."
+          pr-comment: true
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
   test-linux:
     needs: lint
     name: Build hugo on Linux
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
         with:
-          submodules: true  # Fetch Hugo themes (true OR recursive)
-          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+          submodules: true # Fetch Hugo themes (true OR recursive)
+          fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.102.3'
+          hugo-version: ${{ env.HUGO_VERSION }}
           # extended: true
 
-      - name: Build
+      - name: Build Hugo
         run: hugo -v
 
-      - uses: actions/setup-node@v2
+      - uses: actions/setup-node@v3
+        name: Setup Node
         with:
-          node-version: 12
-      - run: npm ci
+          node-version: ${{ env.NODE_VERSION }}
 
-      - name: Test
+      - run: npm ci
+        name: Run npm ci
+
+      - name: Test through minifying
         run: gulp min-html
 
   test-windows:
@@ -52,12 +59,13 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          submodules: true  # Fetch Hugo themes (true OR recursive)
-          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+          submodules: true # Fetch Hugo themes (true OR recursive)
+          fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.102.3'
+          hugo-version: ${{ env.HUGO_VERSION }}
           # extended: true
 
       - name: Build
