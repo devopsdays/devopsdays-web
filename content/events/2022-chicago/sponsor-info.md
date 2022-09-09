@@ -24,12 +24,11 @@ Thank you for sponsoring DevOpsDays Chicago 2022! The organizing committee is ex
 - [Logo for Banners and Slideshow](#logo-for-banners-and-slideshow)
 - [Floor Plan](#floor-plan)
 - [Sponsor Tables](#sponsor-tables)
-  - [By Table Number](#by-table-number)
-  - [By Sponsor Name](#by-sponsor-name)
 - [Gold Sponsors](#gold-sponsors)
   - [Table](#table)
   - [A/V Equipment](#av-equipment)
   - [Sponsor Pitch](#sponsor-pitch)
+    - [Gold Sponsor Pitch Schedule](#gold-sponsor-pitch-schedule)
 - [Silver Sponsors](#silver-sponsors)
   - [Table](#table-1)
   - [A/V Equipment](#av-equipment-1)
@@ -113,29 +112,23 @@ Items can arrive any time after September 18th. If you would like confirmation o
 
 ### From the Event
 
-After the conclusion of the conference, please have prepared a pre-paid UPS or FEDEX postage label for any items that you need shipped back. Packages must be pickedup and shipped off no more than 3 days after the event.
+When shipping packages from the Forum the client is responsible for making arrangements for pickup with their chosen carrier. Packages should be left in the dock hallway with the appropriate postage and labeling. Please let the carrier know they can call the Forum’s cell phone number to gain access to the Forum and retrieve the package(s). (312) 459-6009. Arrangements for pickup have to be made within 3days after the event. Also, please convey to your Event Coordinator (Damien Miller - dvmiller@uic.edu) the arrangements that have been made
 
 ## Internet
 
 Sponsors will have access to the same free wireless access points as the attendees. No hardwire ethernet connections will be available. We strongly encourage local demos as we will be unable to guarantee speed or function. Login details will be given on the day of the conference.
 
 ## Logo for Banners and Slideshow
-We will be using the provided logos as shown on the conference website. If you would like any changes made please contact <chicago-sponsors@devopsdays.org> 
 
+We will be using the provided logos as shown on the conference website. If you would like any changes made please contact <chicago-sponsors@devopsdays.org> 
 
 ## Floor Plan
 
-TBA
+*Click on the floorplan for a larger version*
+
+<a href = "floor-layout.png"><img src = "floor-layout.png" width = 700px></a>
 
 ## Sponsor Tables
-
-### By Table Number
-
-**insert table**
-
-### By Sponsor Name
-
-**inser table** 
 
 ## Gold Sponsors
 
@@ -170,6 +163,41 @@ All requests must be made by Friday, September 9th to ensure availability.
 Each Gold Sponsor will have one minute to address the main hall and the listening audience during scheduled blocks between talks. Please ensure that the content of your pitch adheres to the [Code of Conduct](http://devopsdays.org/events/2022-chicago/conduct/).
 
 This is a simple verbal pitch. No slides, banners, or other materials. We will display your company logo on the main screen during your pitch. Most folks mention their job openings/company overview rather than a product pitch.  Here's an example from 2017 (start at 1hr11min) : <https://youtu.be/w1sZrtaSp4s?t=1h11m34s>
+
+#### Gold Sponsor Pitch Schedule
+
+**September 21**<br />
+*9:45 - 9:55*<br />
+Teleport<br />
+Trilio<br />
+CircleCI<br />
+*11:10 - 11:20*<br />
+SUSE<br />
+Humio<br />
+GitLab<br />
+*11:50 - 12:00*<br />
+Solo.io<br />
+Spectro Cloud<br />
+Nirmata<br />
+*13:30 - 13:40*<br />
+Couchbase<br />
+Dynatrace<br />
+Pulumi<br />
+<br />
+**September 22**<br />
+*9:45 - 9:55*<br />
+VMWare Tanzu<br />
+Observe<br />
+Quali<br />
+*11:10 - 11:20*<br />
+New Relic<br />
+Progress Chef<br />
+Seismic<br />
+*11:50 - 12:00*<br />
+Datadog<br />
+Harness<br />
+*13:30 - 14:00*<br />
+Sponsor Giveaways
 
 ## Silver Sponsors
 
