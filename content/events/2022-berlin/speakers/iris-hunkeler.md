@@ -1,9 +1,9 @@
 +++
 title = "Iris Hunkeler"
 twitter = ""
-linkedin = ""
+linkedin = "https://www.linkedin.com/in/iris-hunkeler"
 website = ""
-image = ""
+image = "iris-hunkeler.jpg"
 type = "speaker"
 linktitle = ["iris-hunkeler"]
 +++

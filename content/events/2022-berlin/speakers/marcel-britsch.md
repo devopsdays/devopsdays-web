@@ -2,8 +2,8 @@
 title = "Marcel Britsch"
 twitter = ""
 linkedin = ""
-website = ""
-image = ""
+website = "https://www.beautifulabstraction.com"
+image = "marcel-britsch.jpg"
 type = "speaker"
 linktitle = ["marcel-britsch"]
 +++

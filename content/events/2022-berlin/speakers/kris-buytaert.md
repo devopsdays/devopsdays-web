@@ -3,7 +3,7 @@ title = "Kris Buytaert"
 twitter = ""
 linkedin = ""
 website = ""
-image = ""
+image = "kris-buytaert.jpg"
 type = "speaker"
 linktitle = ["kris-buytaert"]
 +++

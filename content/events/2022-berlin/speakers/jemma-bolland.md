@@ -3,7 +3,7 @@ title = "Jemma Bolland"
 twitter = ""
 linkedin = ""
 website = ""
-image = ""
+image = "jemma-bolland.jpg"
 type = "speaker"
 linktitle = ["jemma-bolland"]
 +++

@@ -3,7 +3,7 @@ title = "Andriy Bilous"
 twitter = ""
 linkedin = ""
 website = ""
-image = ""
+image = "andriy-bilous.jpg"
 type = "speaker"
 linktitle = ["andriy-bilous"]
 +++
