@@ -241,7 +241,7 @@ program:
     date: 2022-09-09
     start_time: "10:30"
     end_time: "10:50"
-  - title: "andrew-kim"
+  - title: "malcolm-preston"
     type: talk
     date: 2022-09-09
     start_time: "10:50"
@@ -256,48 +256,46 @@ program:
     date: 2022-09-09
     start_time: "11:50"
     end_time: "13:00"
-  - title: "malcolm-preston"
-    type: talk
-    date: 2022-09-09
-    start_time: "13:00"
-    end_time: "13:30"
   - title: "Ignites"
     type: ignite
     date: 2022-09-09
-    start_time: "13:30"
-    end_time: "14:00"
+    start_time: "13:00"
+    end_time: "13:20"
+  - title: "Ignite Karaoke"
+    type: custom
+    date: 2022-09-09
+    start_time: "13:20"
+    end_time: "13:30"
   - title: "Break and Open Space Intro"
     type: custom
     date: 2022-09-09
-    start_time: "14:00"
-    end_time: "14:15"
+    start_time: "13:30"
+    end_time: "13:45"
   - title: "Open Space #1"
+    type: custom
+    date: 2022-09-09
+    start_time: "13:45"
+    end_time: "14:15"
+  - title: "jim-barton"
+    type: workshop
+    date: 2022-09-09
+    start_time: "13:45"
+    end_time: "14:45"
+  - title: "Open Space #2"
     type: custom
     date: 2022-09-09
     start_time: "14:15"
     end_time: "14:45"
-  - title: "jim-barton"
-    type: workshop
-    date: 2022-09-09
-    start_time: "14:15"
-    end_time: "15:15"
-  - title: "Open Space #2"
-    type: custom
-    date: 2022-09-09
-    start_time: "14:45"
-    end_time: "15:15"
   - title: "Closing"
     type: custom
     date: 2022-09-09
-    start_time: "15:15"
-    end_time: "15:30"
+    start_time: "14:45"
+    end_time: "15:00"
 ignites:
   - title: "derek-ashmore"
     date: 2022-09-08
   - title: "david-kirk"
     date: 2022-09-08
-  - title: "nocnica-mellifera"
-    date: 2022-09-09
   - title: "jerry-reed"
     date: 2022-09-09
   - title: "trip-longworth"
