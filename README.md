@@ -1,4 +1,4 @@
-[![Build Status](https://circleci.com/gh/devopsdays/devopsdays-web.svg?branch=main)](https://circleci.com/gh/devopsdays/devopsdays-web) [![Build status](https://ci.appveyor.com/api/projects/status/3lobrrssphdb20xd?svg=true)](https://ci.appveyor.com/project/DevOpsDays/devopsdays-web)
+[![Build Status](https://github.com/devopsdays/devopsdays-web/actions/workflows/hugo.yml/badge.svg)
 [![license](https://img.shields.io/github/license/devopsdays/devopsdays-theme.svg)](https://github.com/devopsdays/devopsdays-web/blob/main/LICENSE) [![Greenkeeper badge](https://badges.greenkeeper.io/devopsdays/devopsdays-web.svg)](https://greenkeeper.io/)
 
 
