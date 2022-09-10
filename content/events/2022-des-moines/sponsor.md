@@ -81,7 +81,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
             </tr>
             <tr>
                 <td class="label">Sponsorship Remaining (First come first serve)</td>
-                <td>2 of 10</td>
+                <td>0 of 10</td>
                 <td>1 of 1</td>
                 <td>0 of 1</td>
                 <td>0 of 1</td>
@@ -98,8 +98,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
             <tr>
                 <td class="label">Pay via Wave</td>
                 <td>
-                    <a href="https://link.waveapps.com/nbxavr-paw8rp" target=”_blank”>
-                      <img src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif"/></a></td>
+                    Sold!</td>
                 <td>
                     <a href="https://link.waveapps.com/dxjea3-kntd3u" target=”_blank”>
                       <img src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif"/></a></td>
