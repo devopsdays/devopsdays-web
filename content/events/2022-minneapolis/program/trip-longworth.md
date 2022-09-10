@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "The Wall of Awful: Tactics for summiting your most mountainous molehills"
 Type = "talk"
 Speakers = ["trip-longworth"]
+youtube = "xcKU9jpNuGc"
 +++
 
 Have a task that’s supposed to be easy? You could do it in a snap? You know you really should get it done, and yet… you just can’t bring yourself to do it?

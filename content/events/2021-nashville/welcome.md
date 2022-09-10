@@ -97,7 +97,7 @@ Description = "DevOpsDays Nashville 2021"
 
   <!-- </div> -->
   <!-- <div class = "col-md-8" >
-    <img class = "img-right" src="/events/2021-nashville/DevOpsDays-Nashville-logo.200x200.png" />
+    <img class = "img-right" src="/events/2021-nashville/devopsdays-nashville-logo.200x200.png" />
 
   </div> -->
 <!-- </div> -->

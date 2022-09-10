@@ -1,7 +1,7 @@
 +++
 Title = "Eli Zilbershtein"
 Twitter = ""
-image = "Eli-Zilbershtein.jpg"
+image = "eli-zilbershtein.jpg"
 type = "speaker"
 linktitle = "eli-zilbershtein"
 

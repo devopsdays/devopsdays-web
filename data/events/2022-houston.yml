@@ -136,9 +136,17 @@ sponsors:
     level: silver
   - id: zoho
     level: gold
+  - id: redhat
+    level: silver
+  - id: stack-overflow
+    level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
+  - id: solarwinds
+    level: platinum
+  - id: blue-people
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -293,7 +301,7 @@ program:
     date: 2022-10-05
     start_time: "09:45"
     end_time: "10:00"
-  - title: "david-stokes"
+  - title: "mark-peters"
     type: talk
     date: 2022-10-05
     start_time: "10:00"
@@ -308,12 +316,12 @@ program:
     date: 2022-10-05
     start_time: "10:45"    
     end_time: "12:00"   
-  - title: "adarsh-shah"
+  - title: "tim-rayburn"
     type: talk
     date: 2022-10-05
     start_time: "11:00"    
     end_time: "11:30"   
-  - title: "?"
+  - title: "david-stokes"
     type: talk
     date: 2022-10-05
     start_time: "11:40"    

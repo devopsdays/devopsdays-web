@@ -1,7 +1,7 @@
 +++
 Title = "Christine Yen"
 Twitter = "cyen"
-image = "Christine_Yen.jpg"
+image = "christine_yen.jpg"
 type = "speaker"
 linktitle = "christine-yen"
 

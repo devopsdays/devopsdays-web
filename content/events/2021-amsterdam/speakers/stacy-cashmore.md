@@ -1,7 +1,7 @@
 +++
 Title = "Stacy Cashmore"
 Twitter = "Stacy_Cash"
-image = "Stacy_Cashmore.jpg"
+image = "stacy_cashmore.jpg"
 type = "speaker"
 linktitle = "stacy-cashmore"
 

@@ -6,7 +6,7 @@ Description = "Location for devopsdays Dallas 2022"
 
 Here we will provide you with information about the venue including address, map/direction, parking/transit, and any hotel details in this vicinity.
 <div style="float:left;">
-  <img alt="DevOpsDays Dallas 2022" src="/events/2022-dallas/PlanoEventCenter.jpg" style="max-width: 60%;">
+  <img alt="DevOpsDays Dallas 2022" src="/events/2022-dallas/planoeventcenter.jpg" style="max-width: 60%;">
 </div><br><br>
 <br><br>
 

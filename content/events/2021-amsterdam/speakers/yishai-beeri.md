@@ -1,7 +1,7 @@
 +++
 Title = "Yishai Beeri"
 Twitter = "yishaibeeri"
-image = "Yishai_Beeri.jpg"
+image = "yishai_beeri.jpg"
 type = "speaker"
 linktitle = "yishai-beeri"
 

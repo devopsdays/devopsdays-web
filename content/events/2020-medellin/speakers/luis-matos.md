@@ -1,7 +1,7 @@
 +++
 Title = "Luis Matos"
 #Twitter = ""
-image = "Luis-Matos.png"
+image = "luis-matos.png"
 type = "speaker"
 linktitle = "luis-matos"
 LinkedIn = "https://www.linkedin.com/in/luismatosluna/"

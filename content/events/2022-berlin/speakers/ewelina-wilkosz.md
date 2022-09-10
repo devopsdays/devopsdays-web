@@ -3,7 +3,7 @@ title = "Ewelina Wilkosz"
 twitter = ""
 linkedin = ""
 website = ""
-image = ""
+image = "ewelina-wilkosz.jpg"
 type = "speaker"
 linktitle = ["ewelina-wilkosz"]
 +++

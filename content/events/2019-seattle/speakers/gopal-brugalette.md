@@ -1,7 +1,7 @@
 +++
 Title = "Gopal Brugalette"
 Twitter = ""
-image = "Gopal_Brugalette.jpg"
+image = "gopal_brugalette.jpg"
 type = "speaker"
 linktitle = "gopal-brugalette"
 

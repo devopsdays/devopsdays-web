@@ -1,7 +1,7 @@
 +++
 Title = "Nora Tomas"
 Twitter = ""
-image = "Nora_Tomas.jpg"
+image = "nora_tomas.jpg"
 type = "speaker"
 linktitle = "nora-tomas"
 

@@ -3,7 +3,7 @@ title = "Radovan Baćović"
 twitter = ""
 linkedin = ""
 website = ""
-image = ""
+image = "radovan-bacovic.jpeg"
 type = "speaker"
 linktitle = ["radovan-bacovic"]
 +++

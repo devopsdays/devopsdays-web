@@ -1,7 +1,7 @@
 +++
 Title = "Matt Griscom"
 Twitter = "MattGriscom"
-image = "Matt_Griscom.jpg"
+image = "matt_griscom.jpg"
 type = "speaker"
 linktitle = "matt-griscom"
 +++

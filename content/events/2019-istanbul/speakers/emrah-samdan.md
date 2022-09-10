@@ -1,7 +1,7 @@
 +++
 Title = "Emrah Şamdan"
 Twitter = "emrahsamdan"
-image = "emrahSamdan.jpg"
+image = "emrahsamdan.jpg"
 type = "speaker"
 linktitle = "emrah-samdan"
 

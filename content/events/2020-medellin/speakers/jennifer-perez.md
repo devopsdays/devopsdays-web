@@ -1,7 +1,7 @@
 +++
 Title = "Jennifer Perez"
 #Twitter = ""
-image = "Jennifer.png"
+image = "jennifer.png"
 type = "speaker"
 linktitle = "jennifer-perez"
 LinkedIn = "https://www.linkedin.com/in/jenniferperezb/"

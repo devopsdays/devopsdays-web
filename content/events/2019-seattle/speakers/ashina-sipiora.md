@@ -1,7 +1,7 @@
 +++
 Title = "Ashina Sipiora"
 Twitter = "asipiora"
-image = "Ashina_Sipiora.jpg"
+image = "ashina_sipiora.jpg"
 type = "speaker"
 linktitle = "ashina-sipiora"
 +++

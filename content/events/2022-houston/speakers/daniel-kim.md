@@ -4,6 +4,7 @@ Twitter = "learnwdaniel"
 image = "daniel-kim.png"
 type = "speaker"
 linktitle = "daniel-kim"
+sharing_image = "daniel-kim.png"
 
 +++
 

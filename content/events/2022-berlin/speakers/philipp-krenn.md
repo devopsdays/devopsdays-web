@@ -3,7 +3,7 @@ title = "Philipp Krenn"
 twitter = ""
 linkedin = ""
 website = ""
-image = ""
+image = "philipp-krenn.jpg"
 type = "speaker"
 linktitle = ["philipp-krenn"]
 +++

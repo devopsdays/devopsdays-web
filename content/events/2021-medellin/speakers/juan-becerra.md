@@ -1,7 +1,7 @@
 +++
 Title = "Juan Felipe Becerra Ospina"
 #Twitter = "twitter.com/jjasghar"
-image = "Juan-Becerra.png"
+image = "juan-becerra.png"
 type = "speaker"
 linktitle = "Juan-Becerra"
 Linkedin = "https://www.linkedin.com/in/juan-felipe-becerra-ospina-44b638173/"
