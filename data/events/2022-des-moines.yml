@@ -103,6 +103,13 @@ sponsors:
    level: lanyard
  - id: leantechniques
    level: book
+ - id: caseys
+   level: gold
+ - id: we-write-code
+   level: gold
+ - id: sidegarage
+   level: community
+  
 # #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 #  - id: arresteddevops
 #    level: community
@@ -125,4 +132,7 @@ sponsor_levels:
     max: 1
   - id: book
     label: Book
+    max: 1
+  - id: community
+    label: Community
     max: 1
