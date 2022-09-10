@@ -114,6 +114,8 @@ sponsors:
     level: gold
   # lunch
   # lanyard
+  - id: philips
+    level: lanyard
   # silver
   - id: sendcloud
     level: silver
