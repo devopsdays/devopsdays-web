@@ -193,6 +193,9 @@ program:
   - title: "esteban-garcia-t1"
     type: talk
     date: 2022-10-21
+  - title: "santosh-hari-t1"
+    type: talk
+    date: 2022-10-21
 
 ignites:
   - title: "waldo-g-t1"
