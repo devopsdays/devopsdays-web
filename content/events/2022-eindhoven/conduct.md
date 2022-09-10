@@ -22,7 +22,7 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 Conference staff can be identified by distinct staff badges. Our Code of Conduct team members are:
 - Floor Drees (organizer), she/her, NL/DE/EN, `floordrees@gmail.com`
-- Jos van Schouten (organizer), he/his, EN/NL, `jos.vanschouten@gmail.com`
+- Jos van Schouten (organizer), he/him, EN/NL, `jos.vanschouten@gmail.com`
 
 We're happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe during the conference. We value your attendance.
 
