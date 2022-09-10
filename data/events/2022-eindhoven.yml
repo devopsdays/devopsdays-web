@@ -142,7 +142,7 @@ sponsor_levels:
     max: 1
   - id: gold
     label: Gold
-    max: 6
+    max: 8
   - id: lunch
     label: Lunch
     max: 2
@@ -151,10 +151,10 @@ sponsor_levels:
     max: 1
   - id: silver
     label: Silver
-    max: 4
+    max: 5
   - id: bronze
     label: Bronze
-    max: 6
+    max: 10
 
 program:
   # Day One
