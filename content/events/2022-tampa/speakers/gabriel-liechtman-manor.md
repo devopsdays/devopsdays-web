@@ -1,7 +1,7 @@
 +++
 Title = "Gabriel Liechtman Manor"
 Twitter = ""
-image = ""
+image = "gabriel-l-manor.png"
 type = "speaker"
 linktitle = "gabriel-liechtman-manor"
 

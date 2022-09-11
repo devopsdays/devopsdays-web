@@ -1,7 +1,7 @@
 +++
 Title = "Common Security Mistakes We Have All Made (and the Tools to Prevent them?"
 Type = "talk"
-Speakers = ["arthur-garcia"]
+Speakers = ["arthur-garcia","tito-martinez"]
 +++
 DevOps is quickly becoming DevSecOps, so this talk is for anyone who wants to learn from others past mistakes instead of by doing. In this talk, Art Garcia will share some common security missteps and the tools that to solve for them, like building a secure pipeline and running credential scanners.
 
