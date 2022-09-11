@@ -9,23 +9,23 @@ Description = "devopsdays Bogotá 2022"
   <div class = "col-md-6 push-md-6">
 
 <h2 align="center">"¡Sé parte del mejor evento DevOps en Colombia DevOpsDays Bogotá 2022!"</h2>
-Tenemos grandes expectativas de este evento basadas en nuestra experiencia del año pasado, esperamos la participación de empresas de diferentes países y sectores como:
-<br>- Universidades
-<br>-Comunicaciones
-<br>-Energía
-<br>-Banca
-<br>-Software
-<br>-Gobierno
-<br>-Seguros
+¡Regresamos este 2022!
+Este año queremos que esta experiencia sea inolvidable, por eso hemos preparado nuestro evento de forma PRESENCIAL, para que te re encuentres con toda la comunidad y puedas vivir al máximo de esta experiencia de conocimiento.  
 <br><br>
-Sin embargo, hemos ampliado estos anuncios para incluir a más empresas y profesionales del sector público y privado no solo de las regiones de América Latina, sino también de Norte América y Europa para promover y compartir experiencias del movimiento DevOps a nivel global.
+
+
+DevOpsDays es un evento internacional de conferencias técnicas sobre temas de desarrollo de software, operaciones de TI y la intersección entre ellas. Asiste a nuestro evento presencial comunidad DevOps Bogota Colombia.
+
+
+
+Los eventos de DevOpsDays presentan una combinación de talleres y charlas, además de contar con sesiones abiertas y autoorganizadas y espacios para Networking con referentes de la comunidad DevOps,  quienes compartirán sus experiencias obtenidas en diferentes organizaciones, países y culturas, presentando casos reales, lecciones aprendidas, éxitos y obstáculos que enfrentan a diario. 
 <br><br>
 
 <div class = "row">
   <div class = "col-md-12">
     <div class = "row justify-content-center">
       <div class = "d-flex p-2">
-        <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #4169E1; border-color: #4169E1;" href="/events/2022-bogota/sponsor">
+        <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #4169E1; border-color: #4169E1;" href="https://devopsdaysbogota.org/patrocinadores">
           <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Patrocinadores
         </a>
       </div>
@@ -40,7 +40,7 @@ Sin embargo, hemos ampliado estos anuncios para incluir a más empresas y profes
         </a>
       </div>
       <div class = "d-flex p-2">
-        <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #4169E1; border-color: #4169E1;" href="https://www.eventbrite.es/e/entradas-devopsdays-bogota-2022-online-148694363845">
+        <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #4169E1; border-color: #4169E1;" href="https://www.ticketopolis.com/devopsdaysbogotaorg/tickets.aspx">
           <i class="fa fa-user-plus fa-lg"></i>&nbsp;&nbsp;&nbsp;Registro
         </a>
       </div>
@@ -68,7 +68,7 @@ Sin embargo, hemos ampliado estos anuncios para incluir a más empresas y profes
       <div class = "col-md-12">
 
 <h2 align="center">¡Registrate ahora cupos limitados!</h2>
-<center><img  src="/events/2022-bogota/2022.jpg" class="center"></center>
+<center><img  src="/events/2022-bogota/linda.jpg" class="center"></center>
 
   </div>
 
