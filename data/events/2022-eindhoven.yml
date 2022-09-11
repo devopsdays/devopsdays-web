@@ -253,7 +253,7 @@ program:
     date: 2022-10-20T00:00:00+02:00
     start_time: "16:00"
     end_time: "16:25"
-  - title: "hila-fish"
+  - title: ""
     type: talk
     date: 2022-10-20T00:00:00+02:00
     start_time: "16:00"
