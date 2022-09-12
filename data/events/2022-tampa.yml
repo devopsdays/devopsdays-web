@@ -5,7 +5,7 @@ event_twitter: "devopsdaystb" # Change this to the twitter handle for your event
 description: "Devopsdays Tampa Bay 2022 on October 21st Register Today!" # Edit this to suit your preferences
 ga_tracking_id: "UA-127670911-1" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 masthead_background: "logo-square.jpg"
-speakers_verbose: "false"
+speakers_verbose: "true"
 
 # All dates are in unquoted YYYY-MM-DD or YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T23:59:59+02:00
 startdate: "2022-10-21" # The start date of your event. Leave blank if you don't have a venue reserved yet.
@@ -135,6 +135,11 @@ sponsors:
     level: gold  
   - id: harrisonclarke
     level: gold
+  - id: xpirit
+    level: gold 
+  - id: xpirit
+    level: swagbag
+
     
 #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 # - id: arresteddevops
@@ -153,6 +158,9 @@ sponsor_levels:
   - id: platinum
     label: Platinum
     max: 9 # This is the same as omitting the max limit.
+  - id: swagbag
+    label: Swag Bag
+    max: 1
   - id: gold
     label: Gold
   - id: community
