@@ -191,6 +191,8 @@ sponsor_levels:
     label: Silver
   - id: bronze
     label: Bronze
+  - id: community
+    label: Community  
 
 sponsors:
   - id: unifor
