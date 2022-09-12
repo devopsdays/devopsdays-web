@@ -190,67 +190,67 @@ program:
   - title: "malcolm-preston"
     type: talk
     date: 2022-09-12
-    start_time: "09:45"
-    end_time: "10:20"
+    start_time: "10:00"
+    end_time: "10:30"
   - title: "steve-mcghee"
     type: talk
     date: 2022-09-12
-    start_time: "10:20"
-    end_time: "10:55"
+    start_time: "10:30"
+    end_time: "11:15"
   - title: "Break"
     type: custom
     date: 2022-09-12
-    start_time: "10:55"
-    end_time: "11:10"
+    start_time: "11:15"
+    end_time: "11:25"
   - title: "daniel-kim"
     type: talk
     date: 2022-09-12
-    start_time: "11:10"
-    end_time: "11:45"
+    start_time: "11:25"
+    end_time: "12:00"
   - title: "kam-lasater"
     type: talk
     date: 2022-09-12
-    start_time: "11:45"
-    end_time: "12:20"
+    start_time: "12:00"
+    end_time: "12:35"
   - title: Lunch
     type: custom
     date: 2022-09-12
-    start_time: "12:20"
-    end_time: "13:25"
+    start_time: "12:35"
+    end_time: "13:40"
   - title: "andreas-grabner"
     type: talk
     date: 2022-09-12
-    start_time: "13:25"
-    end_time: "14:00"
+    start_time: "13:40"
+    end_time: "14:15"
   - title: "Open Space Proposals"
     type: custom
     date: 2022-09-12
-    start_time: "14:00"
-    end_time: "14:30"
-  - title: "Break"
-    type: custom
-    date: 2022-09-12
-    start_time: "14:30"
+    start_time: "14:15"
     end_time: "14:45"
-  - title: "Open Spaces 1-4"
+  - title: "Break"
     type: custom
     date: 2022-09-12
     start_time: "14:45"
-    end_time: "15:15"
+    end_time: "14:55"
+  - title: "Open Spaces 1-4"
+    type: custom
+    date: 2022-09-12
+    start_time: "14:55"
+    end_time: "15:25"
   - title: "Break"
     type: custom
     date: 2022-09-12
-    start_time: "15:15"
-    end_time: "15:30"
+    start_time: "15:25"
+    end_time: "15:35"
   - title: "Open Spaces 5-8"
     type: custom
     date: 2022-09-12
-    start_time: "15:30"
-    end_time: "16:00"
+    start_time: "15:35"
+    end_time: "16:05"
   - title: "Break"
     type: custom
     date: 2022-09-12
-    start_time: "16:00"
+    start_time: "16:05"
     end_time: "16:15"
   - title: "Open Spaces 9-12"
     type: custom
