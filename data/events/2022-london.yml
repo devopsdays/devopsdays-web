@@ -87,49 +87,57 @@ sponsors:
   - id: coralogix
     level: platinum
   # gold sponsors
-  - id: chef
-    level: gold
   - id: delphix
-    level: gold
-  - id: kosli
     level: gold
   - id : github
     level: gold
   - id: humio
+    level: gold
+  - id: kosli
+    level: gold
+  - id: launch-darkly
+    level: gold
+  - id: chef
     level: gold
   - id: spacelift
     level: gold
   - id: teleport
     level: gold
   # silver sponsors
-  - id: harness
-    level: silver
   - id: circleci
     level: silver
   - id: civo
     level: silver
+  - id: cloudbees
+    level: silver
+  - id: cortex
+    level: silver
+  - id: doit
+    level: silver
   - id: firehydrant
+    level: silver
+  - id: harness
+    level: silver
+  - id: postman
+    level: silver
+  - id: pulumi
     level: silver
   - id: spectrocloud
     level: silver
   - id: squaredup
     level: silver
-  - id: pulumi
-    level: silver
-  - id: postman
-    level: silver
   - id: stormforge
     level: silver
-  - id: doit
-    level: silver
   # bronze sponsors
+  - id: armakuni
+    level: bronze  
   - id: conflux
     level: bronze
-  - id: syntasso
+  - id: dxw
     level: bronze
   - id: hashicorp
     level: bronze
-  - id: dxw
+  - id: syntasso
     level: bronze
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
