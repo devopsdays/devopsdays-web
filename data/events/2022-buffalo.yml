@@ -85,8 +85,6 @@ sponsors:
     level: gold
   - id: nginx
     level: gold
-  - id: avesha
-    level: silver
   - id: vivanti
     level: silver
   - id: circleci
