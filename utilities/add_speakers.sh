@@ -5,8 +5,6 @@ set -e
 cd `dirname ${0}`
 source common_code
 
-cd `dirname ${0}`
-
 # Get year
 default_year=$(date +"%Y")
 if [[ ! -z $DOD_YEAR ]] ; then
