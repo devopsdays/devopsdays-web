@@ -38,14 +38,15 @@ Description = "Location for devopsdayss Tampa Bay 2022"
   <div class="col-md-7">
     <div class="alert alert-info" role="alert">
       <h4 class="alert-heading">Event Location</h4>
+      <p>DevOpsDays Tampa Bay 2022 will be in the Grand Ball room at <a href="https://app.cloudpano.com/tours/hMYG0PWk4j" target="_blank">USF Saint Petersburg Campus</a></p>
+      <p> 140 7th Ave South
+      <br> St. Petersburg, FL 33701</p>
+      {{< event_map >}}
     </div>
-    <div>DevOpsDays Tampa Bay 2022 will be in the Grand Ball room at <a href="https://app.cloudpano.com/tours/hMYG0PWk4j" target="_blank">USF Saint Petersburg Campus</a></div>
-    <br>
-    <br> 140 7th Ave South
-    <br> St. Petersburg, FL 33701
-
-    {{< event_map >}}
-
+    <div class="alert alert-info" role="alert">
+      <h4 class="alert-heading">Hotel Recomendation</h4>
+      <p>Hotel Recommendation: <a href="https://www.hilton.com/en/hotels/sptshhf-hilton-st-petersburg-bayfront/" target="_blank">Hilton St. Petersburg Bayfront Downtown</a></p>
+    </div>
   </div>
 </div>
 
