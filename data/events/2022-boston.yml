@@ -215,53 +215,53 @@ program:
   - title: Lunch
     type: custom
     date: 2022-09-12
-    start_time: "12:35"
-    end_time: "13:40"
+    start_time: "12:45"
+    end_time: "13:50"
   - title: "andreas-grabner"
     type: talk
     date: 2022-09-12
-    start_time: "13:40"
-    end_time: "14:15"
+    start_time: "13:50"
+    end_time: "14:25"
   - title: "Open Space Proposals"
     type: custom
     date: 2022-09-12
-    start_time: "14:15"
-    end_time: "14:45"
-  - title: "Break"
-    type: custom
-    date: 2022-09-12
-    start_time: "14:45"
+    start_time: "14:25"
     end_time: "14:55"
-  - title: "Open Spaces 1-4"
+  - title: "Break"
     type: custom
     date: 2022-09-12
     start_time: "14:55"
-    end_time: "15:25"
-  - title: "Break"
+    end_time: "15:05"
+  - title: "Open Spaces 1-4"
     type: custom
     date: 2022-09-12
-    start_time: "15:25"
+    start_time: "15:05"
     end_time: "15:35"
-  - title: "Open Spaces 5-8"
+  - title: "Break"
     type: custom
     date: 2022-09-12
     start_time: "15:35"
-    end_time: "16:05"
+    end_time: "15:45"
+  - title: "Open Spaces 5-8"
+    type: custom
+    date: 2022-09-12
+    start_time: "15:45"
+    end_time: "16:15"
   - title: "Break"
     type: custom
     date: 2022-09-12
-    start_time: "16:05"
-    end_time: "16:15"
+    start_time: "16:15"
+    end_time: "16:25"
   - title: "Open Spaces 9-12"
     type: custom
     date: 2022-09-12
-    start_time: "16:15"
-    end_time: "16:45"
+    start_time: "16:25"
+    end_time: "16:55"
   - title: "Wrap-up"
     type: custom
     date: 2022-09-12
-    start_time: "16:45"
-    end_time: "17:15"
+    start_time: "16:55"
+    end_time: "17:25"
   - title: "Evening event: TBD"
     type: custom
     date: 2022-09-12
