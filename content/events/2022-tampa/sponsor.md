@@ -47,11 +47,11 @@ Description = "Sponsor DevOpsDays Tampa Bay 2022"
       <p>Interested in sponsoring? please drop us an email at [{{< email_organizers >}}].</p>
 </div>
 
-<b>REGISTRATION SPONSOR</b>
+<b>Lanyard SPONSOR (sold)</b>
 Everyone at the event will be wearing a lanyard and this represents a great opportunity to get your name (logo) in front of all attendees.
 The lanyard will be printed with your branding on it. There is only a single sponsorship available and it is $3,500.
 
-<b>SWAG BAG SPONSOR</b>
+<b>SWAG BAG SPONSOR (sold)</b>
 Provide branded swag bag for all attendees with your name (logo). There is only a single sponsorship avaiable $3,500.
 
 <table border="1">
