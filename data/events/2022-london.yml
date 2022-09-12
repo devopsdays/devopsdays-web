@@ -199,16 +199,11 @@ program:
     date: 2022-09-29T00:00:00+01:00
     start_time: "14:05"
     end_time: "17:00"
-  - title: "After event drinks"
+  - title: "Evening Reception and Booth Crawl in Jardine"
     type: custom
     date: 2022-09-29T00:00:00+01:00
-    start_time: "1700"
-    end_time: "18:00"
-  - title: "Evening Event"
-    type: custom
-    date: 2022-09-29T00:00:00+01:00
-    start_time: "18:00"
-    end_time: "23:00"
+    start_time: "17:00"
+    end_time: "Onwards"
   - title: "Breakfast"
     type: custom
     date: 2022-09-30T23:59:59+01:00
