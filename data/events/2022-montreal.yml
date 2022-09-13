@@ -120,7 +120,11 @@ sponsors:
     level: gold
   - id: suse
     level: gold
+  - id: cloudbees
+    level: gold
   - id: containersolutions
+    level: silver
+  - id: sherweb
     level: silver
   - id: appdynamics
     level: bronze
