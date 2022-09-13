@@ -110,7 +110,7 @@ sponsors:
   - id: clumio
     level: platinum
   - id: env0
-    level: platinum
+    level: lanyard
   - id: spectrocloud
     level: diamond
   - id: 42crunch
@@ -160,6 +160,9 @@ sponsor_levels:
     max: 9 # This is the same as omitting the max limit.
   - id: swagbag
     label: Swag Bag
+    max: 1
+  - id: lanyard
+    label: Lanyard
     max: 1
   - id: gold
     label: Gold
