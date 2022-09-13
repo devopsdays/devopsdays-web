@@ -190,13 +190,13 @@ program:
     date: 2022-10-21
     start_time: "09:45"
     end_time: "10:25"
-    comments: "Location: DevOps Room"
+    comments: "Location: The Platform"
   - title: "gabriel-liechtman-manor-t1"
     type: talk
     date: 2022-10-21
     start_time: "09:45"
     end_time: "10:25"
-    comments: "Location: Security Room"
+    comments: "Location: The Vault"
 
   - title: "Session 2"
     type: custom
@@ -206,13 +206,13 @@ program:
     date: 2022-10-21
     start_time: "10:35"
     end_time: "11:15"
-    comments: "Location: DevOps Room"
+    comments: "Location: The Platform"
   - title: "jim-barton-t1"
     type: talk
     date: 2022-10-21
     start_time: "10:35"
     end_time: "11:15"
-    comments: "Location: Security Room"
+    comments: "Location: The Vault"
 
   - title: "Lightning Talks"
     type: custom
@@ -223,14 +223,14 @@ program:
     start_time: "11:25"
     end_time: "14:10"
     block: ignite-1
-    comments: "Location: DevOps Room"
+    comments: "Location: The Platform"
   - title: "Ignites DevSecOps"
     type: ignite
     date: 2022-10-21
     start_time: "11:25"
     end_time: "14:10"
     block: ignite-2
-    comments: "Location: Security Room"
+    comments: "Location: The Vault"
 
   - title: "Lunch"
     type: custom
@@ -247,13 +247,13 @@ program:
     date: 2022-10-21
     start_time: "13:10"
     end_time: "13:50"
-    comments: "Location: DevOps Room"
+    comments: "Location: The Platform"
   - title: "esteban-garcia-t1"
     type: talk
     date: 2022-10-21
     start_time: "13:10"
     end_time: "13:55"
-    comments: "Location: Security Room"
+    comments: "Location: The Vault"
 
   - title: "Session 4"
     type: custom
@@ -263,13 +263,13 @@ program:
     date: 2022-10-21
     start_time: "14:00"
     end_time: "14:40"
-    comments: "Location: DevOps Room"
+    comments: "Location: The Platform"
   - title: "jonathan-speigner-t1"
     type: talk
     date: 2022-10-21
     start_time: "14:00"
     end_time: "14:40"
-    comments: "Location: Security Room"
+    comments: "Location: The Vault"
 
   - title: "Open Spaces"
     type: custom
@@ -293,13 +293,13 @@ program:
     date: 2022-10-21
     start_time: "15:30"
     end_time: "16:10"
-    comments: "Location: DevOps Room"
+    comments: "Location: The Platform"
   - title: "jessica-gonser-t1"
     type: talk
     date: 2022-10-21
     start_time: "15:30"
     end_time: "16:10"
-    comments: "Location: Security Room"
+    comments: "Location: The Vault"
   - title: "Closing"
     type: custom
     date: 2022-10-21
