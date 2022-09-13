@@ -100,7 +100,9 @@ sponsors:
     level: community
   - id: todas-as-letras
     level: community
-  - id: learnk8s
+  - id: kubeevents
+    level: community
+  - id: kubecareers
     level: community
   - id: novatec
     level: community
