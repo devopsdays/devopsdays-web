@@ -170,50 +170,160 @@ sponsor_levels:
     label: Community
 
 program:
+  - title: "Opening"
+    type: custom
+    date: 2022-10-21
+    start_time: "08:30"
+    end_time: "08:40"
+
   - title: "aaron-rinehart-kn"
     type: talk
     date: 2022-10-21
     background_color: "#FFFA99"
-  - title: "christian-posta-t1"
-    type: talk
-    date: 2022-10-21
-  - title: "gerie-owen-t1"
-    type: talk
+    start_time: "08:40"
+    end_time: "09:30"
+    comments: "Location: Main Hall"
+
+    
+  - title: "Session 1"
+    type: custom
     date: 2022-10-21
   - title: "adarsh-shah-t1"
     type: talk
     date: 2022-10-21
-  - title: "Ignites"
+    start_time: "09:45"
+    end_time: "10:25"
+    comments: "Location: The Platform"
+  - title: "gabriel-liechtman-manor-t1"
+    type: talk
+    date: 2022-10-21
+    start_time: "09:45"
+    end_time: "10:25"
+    comments: "Location: The Vault"
+
+  - title: "Session 2"
+    type: custom
+    date: 2022-10-21
+  - title: "christian-posta-t1"
+    type: talk
+    date: 2022-10-21
+    start_time: "10:35"
+    end_time: "11:15"
+    comments: "Location: The Platform"
+  - title: "jim-barton-t1"
+    type: talk
+    date: 2022-10-21
+    start_time: "10:35"
+    end_time: "11:15"
+    comments: "Location: The Vault"
+
+  - title: "Lightning Talks"
+    type: custom
+    date: 2022-10-21
+  - title: "Ignites DevOps"
     type: ignite
+    date: 2022-10-21
+    start_time: "11:25"
+    end_time: "14:10"
+    block: ignite-1
+    comments: "Location: The Platform"
+  - title: "Ignites DevSecOps"
+    type: ignite
+    date: 2022-10-21
+    start_time: "11:25"
+    end_time: "14:10"
+    block: ignite-2
+    comments: "Location: The Vault"
+
+  - title: "Lunch"
+    type: custom
+    date: 2022-10-21
+    start_time: "12:10"
+    end_time: "13:10"
+    comments: "Location: Main Hall"
+
+  - title: "Session 3"
+    type: custom
     date: 2022-10-21
   - title: "thomas-haver-t1"
     type: talk
     date: 2022-10-21
-  - title: "jim-barton-t1"
-    type: talk
-    date: 2022-10-21
-  - title: "jonathan-speigner-t1"
-    type: talk
-    date: 2022-10-21
-  - title: "jessica-gonser-t1"
-    type: talk
-    date: 2022-10-21
-  - title: "gabriel-liechtman-manor-t1"
-    type: talk
-    date: 2022-10-21
+    start_time: "13:10"
+    end_time: "13:50"
+    comments: "Location: The Platform"
   - title: "esteban-garcia-t1"
     type: talk
     date: 2022-10-21
-  - title: "santosh-hari-t1"
+    start_time: "13:10"
+    end_time: "13:55"
+    comments: "Location: The Vault"
+
+  - title: "Session 4"
+    type: custom
+    date: 2022-10-21
+  - title: "gerie-owen-t1"
     type: talk
     date: 2022-10-21
+    start_time: "14:00"
+    end_time: "14:40"
+    comments: "Location: The Platform"
+  - title: "jonathan-speigner-t1"
+    type: talk
+    date: 2022-10-21
+    start_time: "14:00"
+    end_time: "14:40"
+    comments: "Location: The Vault"
+
+  - title: "Open Spaces"
+    type: custom
+    date: 2022-10-21
+  - title: "Open Spaces DevOps"
+    type: open-space
+    date: 2022-10-21
+    start_time: "14:50"
+    end_time: "15:25"
+  - title: "Open Spaces Security"
+    type: open-space
+    date: 2022-10-21
+    start_time: "14:50"
+    end_time: "15:25"
+
+  - title: "Session 5"
+    type: custom
+    date: 2022-10-21
+  - title: "marcos-diez-t1"
+    type: talk
+    date: 2022-10-21
+    start_time: "15:30"
+    end_time: "16:10"
+    comments: "Location: The Platform"
+  - title: "jessica-gonser-t1"
+    type: talk
+    date: 2022-10-21
+    start_time: "15:30"
+    end_time: "16:10"
+    comments: "Location: The Vault"
+  - title: "Closing"
+    type: custom
+    date: 2022-10-21
+    start_time: "16:20"
+    end_time: "16:30"
+    comments: "Location: Main Hall"
 
 ignites:
-  - title: "waldo-g-t1"
-    date: 2022-10-21
-  - title: "waldo-g-t2"
-    date: 2022-10-21
   - title: "ismet-handzic-t1"
     date: 2022-10-21
+    block: ignite-1
   - title: "richard-lewis-t1"
     date: 2022-10-21
+    block: ignite-1
+  - title: "santosh-hari-t1"
+    date: 2022-10-21
+    block: ignite-2
+  - title: "waldo-g-t1"
+    date: 2022-10-21
+    block: ignite-2
+  - title: "waldo-g-t2"
+    date: 2022-10-21
+    block: ignite-2
+
