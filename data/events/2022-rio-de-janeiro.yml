@@ -175,8 +175,8 @@ program:
     date: 2022-11-05T08:00:00-03:00
     start_time: "13:30"
     end_time: "13:45"
-  - title: "Dani Monteiro - Palestra a confirmar"
-    type: custom
+  - title: "danielle-monteiro"
+    type: talk
     date: 2022-11-05T08:00:00-03:00
     start_time: "13:45"
     end_time: "14:15"
