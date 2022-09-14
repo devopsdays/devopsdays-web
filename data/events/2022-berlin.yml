@@ -114,6 +114,8 @@ sponsors:
     level: platinum
   - id: emnify
     level: gold
+  - id: redgate
+    level: gold
   - id: forto
     level: silver
 
