@@ -37,7 +37,7 @@ location_address: "Sultan Hussein Kamel Palace, Heliopolis" #Optional - use the 
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
 #  - name: propose
-  - name: location
+#  - name: location
 #  - name: local
   - name: registration
     url: https://secc.org.eg/English/Pages/Event_Registration.aspx
