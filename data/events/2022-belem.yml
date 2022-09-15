@@ -46,7 +46,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: Patrocínio
     url: /events/2022-belem/sponsor
   - name: Código de Conduta
-    url: /events/2022-belem/conduta
+    url: /events/2022-belem/conduta-pt-br
   # - name: Certificados
   #   url: https://certifico.tasafo.org/
   - name: Contato
