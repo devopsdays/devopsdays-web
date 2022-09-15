@@ -8,7 +8,7 @@ Description = "Sponsor devopsdays Cairo 2022"
 <p>We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].</p>
 <p class="MsoNormalM">&nbsp;</p>
 <div style="width: 100%;">
-<table border="0" cellspacing="0" cellpadding="0" align="left" style="border-collapse: collapse; margin-left: 6.75pt; margin-right: 6.75pt; width: 85%;">
+<table border="0" cellspacing="0" cellpadding="0" align="left" style="border-collapse: collapse; margin-left: 6.75pt; margin-right: 6.75pt; width: 100%;">
 	<tbody>
 		<tr>
 			<td width="504" valign="top" style="width:377.7pt;border:solid #FFD966 1.0pt;

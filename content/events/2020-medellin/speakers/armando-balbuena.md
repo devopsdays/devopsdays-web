@@ -1,7 +1,7 @@
 +++
 Title = "Armando Balbuena"
 #Twitter = ""
-image = "Armando-Balbuena.png"
+image = "armando-balbuena.png"
 type = "speaker"
 linktitle = "armando-balbuena"
 LinkedIn = "https://www.linkedin.com/in/armando-balbuena-oca%C3%B1a-62ab951a/"

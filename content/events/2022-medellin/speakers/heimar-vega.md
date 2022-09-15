@@ -1,7 +1,7 @@
 +++
 Title = "Heimar Vega"
 #Twitter = ""
-image = "Heimar.png"
+image = "heimar.png"
 type = "speaker"
 linktitle = "heimar-vega"
 LinkedIn = "https://www.linkedin.com/in/heimarvega"

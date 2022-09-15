@@ -4,6 +4,7 @@ Twitter = "stoker"
 image = "david-stokes.png"
 type = "speaker"
 linktitle = "david-stokes"
+sharing_image = "david-stokes.png"
 
 +++
 

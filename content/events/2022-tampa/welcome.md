@@ -11,11 +11,8 @@ Description = "devopsdays Tampa Bay 2022"
     <div class="d-flex flex-row">
       <div class="col-md-12">
         <div class="p-2">
-          <a class="btn btn-secondary btn-block" href="/events/2022-tampa/sponsor"> <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference</a>
-        </div>
-        <div class="p-2">
-          <a class="btn btn-secondary btn-block" href="https://www.papercall.io/tampadod"> <i class="fa fa-microphone fa-lg"></i>&nbsp;&nbsp;
-            &nbsp; Propose a talk</a>
+          <a class="btn btn-secondary btn-block" href="/events/2022-tampa/program"> <i class="fa fa-tasks fa-lg"></i>&nbsp;&nbsp;
+            &nbsp; Program</a>
         </div>
         <div class="p-2">
           <a class="btn btn-secondary btn-block" href="/events/2022-tampa/registration"> <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Get a ticket</a>
@@ -23,6 +20,9 @@ Description = "devopsdays Tampa Bay 2022"
         <div class="p-2">
           <a class="btn btn-secondary btn-block" href="https://www.linkedin.com/company/40652911"> <i class="fa fa-linkedin fa-lg"></i>&nbsp;&nbsp;
             &nbsp; Follow us on LinkedIn</a>
+        </div>
+        <div class="p-2">
+          <a class="btn btn-secondary btn-block" href="/events/2022-tampa/sponsor"> <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference</a>
         </div>
         <div class="p-2">
           <a class="btn btn-secondary btn-block" href="/events/2022-tampa/contact"> <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;
@@ -39,7 +39,7 @@ Description = "devopsdays Tampa Bay 2022"
     </div>
     <div class="alert alert-secondary" role="alert">
       <h4 class="alert-heading">Latest News</h4>
-      <p>Speakers Being Anounced Soon</p>
+      <p>Early Bird tickets are available until 9/31 Register Now</p>
     </div>
     <p>DevOpsDays is a worldwide series of community run technical conferences covering topics of software development, IT infrastructure operations, and the intersection between them. It is run by volunteers from community, for the benefit of the community.  We are not a commercial conference and we believe that our focus on serving the community creates a truly unique experience for both delegates and sponsors.
     </p>

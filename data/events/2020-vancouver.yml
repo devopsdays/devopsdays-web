@@ -62,7 +62,7 @@ team_members: # Name is the only required field for team members.
     image: "camille-janicki.jpg"
   - name: "Jarrod Lombardo"
     twitter: "jaberwocky"
-    image: "Jarrod-square.jpg"
+    image: "jarrod-square.jpg"
   - name: "Simone Payne"
     image: "simone-payne.jpg"
   - name: "Ben Rabinovitch"

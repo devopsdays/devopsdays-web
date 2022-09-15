@@ -2,8 +2,8 @@
 title = "Schlomo Schapiro"
 twitter = ""
 linkedin = ""
-website = ""
-image = ""
+website = "https://schlomo.schapiro.org/"
+image = "schlomo-schapiro.jpg"
 type = "speaker"
 linktitle = ["schlomo-schapiro"]
 +++

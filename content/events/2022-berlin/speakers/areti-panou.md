@@ -3,7 +3,7 @@ title = "Areti Panou"
 twitter = ""
 linkedin = ""
 website = "https://unremarkabletester.com"
-image = ""
+image = "areti-panou.png"
 type = "speaker"
 linktitle = ["areti-panou"]
 +++

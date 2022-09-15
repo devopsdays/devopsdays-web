@@ -1,7 +1,7 @@
 +++
 Title = "Maarika Krumhansl"
 Twitter = ""
-image = "Maarika_Krumhansl.jpg"
+image = "maarika_krumhansl.jpg"
 type = "speaker"
 linktitle = "maarika-krumhansl"
 +++

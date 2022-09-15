@@ -29,15 +29,15 @@ The best thing to do is send engineers to interact with the experts at devopsday
 
 <strong>Note:</strong> We do not share attendee lists.
 
-<h3><a href="/events/2022-los-angeles/DevOpsDayLA2022_Sponsor_V2.pdf">Sponsor Prospectus</a></h3>
+<h3><a href="/events/2022-los-angeles/devopsdayla2022_sponsor_v2.pdf">Sponsor Prospectus</a></h3>
 
 <h3>Exclusive Sponsorships</h3>
 
-<img alt="Exclusive Sponsorships" src="/events/2022-los-angeles/Exclusive_Sponsorships.jpg" style="width:60%">
+<img alt="Exclusive Sponsorships" src="/events/2022-los-angeles/exclusive_sponsorships.jpg" style="width:60%">
 
 <h3>Sponsorship Packages</h3>
 
-<img alt="Exclusive Sponsorships" src="/events/2022-los-angeles/Sponsorship_Packages.jpg" style="width:60%">
+<img alt="Exclusive Sponsorships" src="/events/2022-los-angeles/sponsorship_packages.jpg" style="width:60%">
 
 <hr/>
 

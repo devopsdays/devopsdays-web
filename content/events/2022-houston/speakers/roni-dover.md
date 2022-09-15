@@ -4,6 +4,7 @@ Twitter = "doppleware"
 image = "roni-dover.png"
 type = "speaker"
 linktitle = "roni-dover"
+sharing_image = "roni-dover.png"
 WebSite = "https://medium.com/@roni-dover"
 +++
 

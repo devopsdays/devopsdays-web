@@ -2,8 +2,8 @@
 title = "Florian Haas"
 twitter = ""
 linkedin = ""
-website = ""
-image = ""
+website = "https://xahteiwi.eu"
+image = "florian-haas.jpg"
 type = "speaker"
 linktitle = ["florian-haas"]
 +++

@@ -41,6 +41,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  - name: contact
  - name: conduct
  - name: covid-19-policy
+ - name: accessibility
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -204,7 +205,7 @@ organizer_email: "washington-dc@devopsdays.org" # Put your organizer email addre
 sponsors:
   - id: capitalone
     level: platinum
-  - id: cortex
+  - id: cortex-before-20220912
     level: platinum
   - id: fearless
     level: platinum
@@ -222,6 +223,16 @@ sponsors:
     level: platinum
   - id: vivanti
     level: platinum
+  - id: diamanti
+    level: platinum
+  - id: googlecloud
+    level: platinum
+  - id: progresschef
+    level: platinum
+  - id: datadog
+    level: platinum
+  - id: gitlab
+    level: platinum
   - id: macstadium
     level: gold
   - id: excella
@@ -230,9 +241,15 @@ sponsors:
     level: gold
   - id: site24x7
     level: gold
-  - id: diamanti
-    level: platinum
+  - id: acorn
+    level: gold
+  - id: cloudbees
+    level: gold
   - id: tremolo
+    level: silver
+  - id: inflectra
+    level: silver
+  - id: fanniemae
     level: silver
   - id: devopsdc-meetup
     level: community
@@ -242,18 +259,10 @@ sponsors:
     level: community
   - id: simcac
     level: community
-  - id: acorn
-    level: gold
-  - id: inflectra
-    level: silver
-  - id: googlecloud
-    level: platinum
-  - id: progresschef
-    level: platinum
-  - id: datadog
-    level: platinum
+  - id: postgresql
+    level: community
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For

@@ -11,11 +11,8 @@ Description = "Sponsor DevOpsDays Tampa Bay 2022"
     <div class="d-flex flex-row">
       <div class="col-md-12">
         <div class="p-2">
-          <a class="btn btn-secondary btn-block" href="/events/2022-tampa/sponsor"> <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference</a>
-        </div>
-        <div class="p-2">
-          <a class="btn btn-secondary btn-block" href="https://www.papercall.io/tampadod"> <i class="fa fa-microphone fa-lg"></i>&nbsp;&nbsp;
-            &nbsp; Propose a talk</a>
+          <a class="btn btn-secondary btn-block" href="/events/2022-tampa/program"> <i class="fa fa-tasks fa-lg"></i>&nbsp;&nbsp;
+            &nbsp; Program</a>
         </div>
         <div class="p-2">
           <a class="btn btn-secondary btn-block" href="/events/2022-tampa/registration"> <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Get a ticket</a>
@@ -25,12 +22,16 @@ Description = "Sponsor DevOpsDays Tampa Bay 2022"
             &nbsp; Follow us on LinkedIn</a>
         </div>
         <div class="p-2">
+          <a class="btn btn-secondary btn-block" href="/events/2022-tampa/sponsor"> <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference</a>
+        </div>
+        <div class="p-2">
           <a class="btn btn-secondary btn-block" href="/events/2022-tampa/contact"> <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;
             &nbsp; Contact the Organizers</a>
         </div>
       </div>
     </div>
   </div>
+
 
   <div class="col-md-7">
     <div class="alert alert-info" role="alert">
@@ -45,19 +46,13 @@ Description = "Sponsor DevOpsDays Tampa Bay 2022"
       <h4 class="alert-heading">Sponsorship Details</h4>
       <p>Interested in sponsoring? please drop us an email at [{{< email_organizers >}}].</p>
 </div>
-<b>REGISTRATION SPONSOR</b>
-Everyone at the event will be wearing a
-lanyard and this represents a great opportunity to get your name in front of all attendees.
-The lanyard will be printed with your branding
-on it. There is only a single sponsorship available and it is $2,500.
 
-<b>MERCHANDISE SPONSOR</b>
-Provide "swag" approprate for the conference to be distributed to all attendees
-Sponsorship to be negotiated 
+<b>Lanyard SPONSOR (sold)</b>
+Everyone at the event will be wearing a lanyard and this represents a great opportunity to get your name (logo) in front of all attendees.
+The lanyard will be printed with your branding on it. There is only a single sponsorship available and it is $3,500.
 
-<b>SWAG BAG SPONSOR</b>
-Provide branded swag bag for all attendees
-Sponsorship to be negotiated
+<b>SWAG BAG SPONSOR (sold)</b>
+Provide branded swag bag for all attendees with your name (logo). There is only a single sponsorship avaiable $3,500.
 
 <table border="1">
   <tbody>

@@ -110,7 +110,11 @@ sponsors:
     level: platinum
   - id: cloudbees
     level: platinum
+  - id: fiberplane
+    level: platinum
   - id: emnify
+    level: gold
+  - id: redgate
     level: gold
   - id: forto
     level: silver

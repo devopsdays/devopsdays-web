@@ -36,7 +36,7 @@ coordinates: "42.8797755,-78.8763309" # The coordinates of your city. Get Latitu
 location_address: "1 Seneca St, Buffalo, NY 14203, USA" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-#  - name: propose
+  #  - name: propose
   - name: location
   - name: registration
   - url: "https://ti.to/devops-days-buffalo/2022"
@@ -48,7 +48,6 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
-
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
@@ -79,22 +78,25 @@ team_members: # Name is the only required field for team members.
 
 organizer_email: "buffalo@devopsdays.org" # Put your organizer email address here
 
-
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: f5
-    level: gold
   - id: mandtbank
     level: gold
+  - id: nginx
+    level: gold
+  - id: avesha
+    level: silver
   - id: vivanti
     level: silver
   - id: circleci
     level: captioning
+  - id: packt
+    level: media
   - id: jms
     level: badge
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -109,6 +111,9 @@ sponsor_levels:
     max: 5
   - id: captioning
     label: Captioning
+    max: 1
+  - id: media
+    label: Media
     max: 1
   - id: bronze
     label: Bronze
@@ -128,8 +133,8 @@ program:
     date: 2022-09-29
     start_time: "08:00"
     end_time: "08:45"
-  - title: "Opening Remarks"
-    type: custom
+  - title: "jameson-welcome"
+    type: talk
     date: 2022-09-29
     start_time: "08:45"
     end_time: "09:00"
@@ -178,7 +183,7 @@ program:
     date: 2022-09-29
     start_time: "13:30"
     end_time: "14:00"
-  - title: "Ignite Talk + Karaoke"
+  - title: "Ignites"
     type: ignite
     date: 2022-09-29
     start_time: "14:00"
@@ -204,8 +209,8 @@ program:
     date: 2022-09-30
     start_time: "08:00"
     end_time: "08:45"
-  - title: "Opening Remarks"
-    type: custom
+  - title: "jameson-welcome"
+    type: talk
     date: 2022-09-30
     start_time: "08:45"
     end_time: "09:00"
@@ -219,6 +224,11 @@ program:
     date: 2022-09-30
     start_time: "09:40"
     end_time: "10:10"
+  - title: "anand-bagmar"
+    type: talk
+    date: 2022-09-30
+    start_time: "10:20"
+    end_time: "10:50"
   - title: "Sponsors"
     type: custom
     date: 2022-09-30
@@ -272,5 +282,8 @@ program:
 
 ignites:
   - title: "jean-remi-beaudoin"
+    date: 2022-09-29
+    block: "ignite"
+  - title: "jameson-karaoke"
     date: 2022-09-29
     block: "ignite"

@@ -130,7 +130,7 @@ sponsors:
     level: coffee
   - id: portworx
     level: platinum
-  - id: cortex
+  - id: cortex-before-20220912
     level: platinum
   - id: observeinc
     level: platinum
@@ -154,7 +154,8 @@ sponsors:
     level: platinum
   - id: roostai
     level: platinum
-
+  - id: 42crunch
+    level: platinum
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -189,78 +190,78 @@ program:
   - title: "malcolm-preston"
     type: talk
     date: 2022-09-12
-    start_time: "09:45"
-    end_time: "10:20"
+    start_time: "10:00"
+    end_time: "10:30"
   - title: "steve-mcghee"
     type: talk
     date: 2022-09-12
-    start_time: "10:20"
-    end_time: "10:55"
+    start_time: "10:30"
+    end_time: "11:15"
   - title: "Break"
     type: custom
     date: 2022-09-12
-    start_time: "10:55"
-    end_time: "11:10"
+    start_time: "11:15"
+    end_time: "11:25"
   - title: "daniel-kim"
     type: talk
     date: 2022-09-12
-    start_time: "11:10"
-    end_time: "11:45"
+    start_time: "11:25"
+    end_time: "12:00"
   - title: "kam-lasater"
     type: talk
     date: 2022-09-12
-    start_time: "11:45"
-    end_time: "12:20"
+    start_time: "12:00"
+    end_time: "12:35"
   - title: Lunch
     type: custom
     date: 2022-09-12
-    start_time: "12:20"
-    end_time: "13:25"
+    start_time: "12:45"
+    end_time: "13:50"
   - title: "andreas-grabner"
     type: talk
     date: 2022-09-12
-    start_time: "13:25"
-    end_time: "14:00"
+    start_time: "13:50"
+    end_time: "14:25"
   - title: "Open Space Proposals"
     type: custom
     date: 2022-09-12
-    start_time: "14:00"
-    end_time: "14:30"
+    start_time: "14:25"
+    end_time: "14:55"
   - title: "Break"
     type: custom
     date: 2022-09-12
-    start_time: "14:30"
-    end_time: "14:45"
+    start_time: "14:55"
+    end_time: "15:05"
   - title: "Open Spaces 1-4"
     type: custom
     date: 2022-09-12
-    start_time: "14:45"
-    end_time: "15:15"
+    start_time: "15:05"
+    end_time: "15:35"
   - title: "Break"
     type: custom
     date: 2022-09-12
-    start_time: "15:15"
-    end_time: "15:30"
+    start_time: "15:35"
+    end_time: "15:45"
   - title: "Open Spaces 5-8"
     type: custom
     date: 2022-09-12
-    start_time: "15:30"
-    end_time: "16:00"
+    start_time: "15:45"
+    end_time: "16:15"
   - title: "Break"
     type: custom
     date: 2022-09-12
-    start_time: "16:00"
-    end_time: "16:15"
+    start_time: "16:15"
+    end_time: "16:25"
   - title: "Open Spaces 9-12"
     type: custom
     date: 2022-09-12
-    start_time: "16:15"
-    end_time: "16:45"
+    start_time: "16:25"
+    end_time: "16:55"
   - title: "Wrap-up"
     type: custom
     date: 2022-09-12
-    start_time: "16:45"
-    end_time: "17:15"
+    start_time: "16:55"
+    end_time: "17:25"
   - title: "Evening event: TBD"
     type: custom
     date: 2022-09-12

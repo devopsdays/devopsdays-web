@@ -16,6 +16,7 @@ Description = "Program for devopsdays Tampa Bay 2022"
 
 <div>
 <b>Color Keys:</b>
+<div class="col-lg-3 col-md-3 program-element program-workshop">Keynote</div>
 <div class="col-lg-3 col-md-3 program-element program-talk">Talk</div>
 <div class="col-lg-3 col-md-3 program-element program-ignite">Ignite</div>
 <div class="col-lg-3 col-md-3 program-element program-open-space">Open Space</div>

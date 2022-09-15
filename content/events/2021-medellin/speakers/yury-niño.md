@@ -1,7 +1,7 @@
 +++
 Title = "Yury Niño"
 #Twitter = "@rob_rich"
-image = "Yury-Niño.png"
+image = "yury-niño.png"
 type = "speaker"
 linktitle = "yury-niño"
 LinkedIn = "https://www.linkedin.com/in/yurynino/"

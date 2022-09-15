@@ -1,7 +1,7 @@
 +++
 Title = "Rafał Leszko"
 #Twitter = "@rob_rich"
-image = "Rafał-Leszko.png"
+image = "rafał-leszko.png"
 type = "speaker"
 linktitle = "Rafał Leszko"
 LinkedIn = "https://www.linkedin.com/in/rafal-leszko/"

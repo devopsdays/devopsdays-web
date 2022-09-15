@@ -75,8 +75,6 @@ sponsors:
     url: https://www.btgpactualdigital.com/ # Use this if you need to over-ride a sponsor URL.
   - id: harness
     level: platinum
-  - id: postman
-    level: platinum
   - id: hurb
     level: platinum
   - id: linuxtips
@@ -90,8 +88,10 @@ sponsors:
     level: gold
   - id: globotv
     level: silver
+  - id: postman
+    level: silver
   - id: thoughtworks-services
-    level: bronze
+    level: silver
   - id: tecnogueto
     level: community
   - id: punkdodevops
@@ -100,7 +100,9 @@ sponsors:
     level: community
   - id: todas-as-letras
     level: community
-  - id: learnk8s
+  - id: kubeevents
+    level: community
+  - id: kubecareers
     level: community
   - id: novatec
     level: community
@@ -142,8 +144,8 @@ program:
     start_time: "09:30"
     end_time: "10:00"
     background_color: "#AED6F1"
-  - title: "APIOps - Palestrante a confirmar"
-    type: custom
+  - title: "pooja-mistry"
+    type: talk
     date: 2022-11-05T08:00:00-03:00
     start_time: "10:00"
     end_time: "10:30"
@@ -173,8 +175,8 @@ program:
     date: 2022-11-05T08:00:00-03:00
     start_time: "13:30"
     end_time: "13:45"
-  - title: "Dani Monteiro - Palestra a confirmar"
-    type: custom
+  - title: "danielle-monteiro"
+    type: talk
     date: 2022-11-05T08:00:00-03:00
     start_time: "13:45"
     end_time: "14:15"

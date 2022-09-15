@@ -1,7 +1,7 @@
 +++
 Title = "Habid Manzur"
 #Twitter = ""
-image = "Habib.png"
+image = "habib.png"
 type = "speaker"
 linktitle = "habid-manzur"
 LinkedIn = "https://www.linkedin.com/in/habibmanzur/"

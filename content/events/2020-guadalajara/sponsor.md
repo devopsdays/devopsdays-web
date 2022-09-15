@@ -8,7 +8,7 @@ Description = "Sponsor devopsdays Guadalajara 2020"
     <div class="col-md-9">
       <div>
       <br>
-      <p>We greatly value sponsors for this community event! If you are interested in sponsoring see a <a href="/events/2020-guadalajara/Prospectus.pdf">PDF of our prospectus</a> for more details or please drop us an email at {{< email_organizers >}}.</p>
+      <p>We greatly value sponsors for this community event! If you are interested in sponsoring see a <a href="/events/2020-guadalajara/prospectus.pdf">PDF of our prospectus</a> for more details or please drop us an email at {{< email_organizers >}}.</p>
       <br>
       </div>
       <h3>Sponsorship Packages</h3>

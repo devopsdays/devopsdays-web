@@ -100,6 +100,8 @@ organizer_email: "eindhoven@devopsdays.org" # Put your organizer email address h
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
   # socialevent
+  - id: paloaltonetworks
+    level: social
   # beer
   - id: contrast_security
     level: beer
@@ -114,10 +116,14 @@ sponsors:
     level: gold
   # lunch
   # lanyard
+  - id: philips
+    level: lanyard
   # silver
   - id: sendcloud
     level: silver
   - id: kumina
+    level: silver
+  - id: cloudshapers
     level: silver
   # bronze
   - id: o11y
@@ -125,6 +131,8 @@ sponsors:
   - id: synchromind
     level: bronze
   - id: ogd
+    level: bronze
+  - id: stream
     level: bronze
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -142,7 +150,7 @@ sponsor_levels:
     max: 1
   - id: gold
     label: Gold
-    max: 6
+    max: 8
   - id: lunch
     label: Lunch
     max: 2
@@ -151,10 +159,10 @@ sponsor_levels:
     max: 1
   - id: silver
     label: Silver
-    max: 4
+    max: 5
   - id: bronze
     label: Bronze
-    max: 6
+    max: 10
 
 program:
   # Day One
@@ -188,7 +196,7 @@ program:
     date: 2022-10-20T00:00:00+02:00
     start_time: "10:45"
     end_time: "11:00"
-  - title: "TBA"
+  - title: "suzanne-daniels"
     type: talk
     date: 2022-10-20T00:00:00+02:00
     start_time: "11:00"
@@ -253,7 +261,7 @@ program:
     date: 2022-10-20T00:00:00+02:00
     start_time: "16:00"
     end_time: "16:25"
-  - title: "hila-fish"
+  - title: ""
     type: talk
     date: 2022-10-20T00:00:00+02:00
     start_time: "16:00"
@@ -290,7 +298,7 @@ program:
     date: 2022-10-21T00:00:00+02:00
     start_time: "09:15"
     end_time: "09:45"
-  - title: "dianna-keen"
+  - title: "brian-finster"
     type: talk
     date: 2022-10-21T00:00:00+02:00
     start_time: "09:45"
@@ -325,7 +333,7 @@ program:
     date: 2022-10-21T00:00:00+02:00
     start_time: "12:30"
     end_time: "13:30"
-  - title: "vanessa-kantner"
+  - title: "thatcher-peskens"
     type: talk
     date: 2022-10-21T00:00:00+02:00
     start_time: "13:30"
@@ -375,7 +383,7 @@ program:
     date: 2022-10-21T00:00:00+02:00
     start_time: "16:00"
     end_time: "16:25"
-  - title: "TBA"
+  - title: "anneke-keller"
     type: talk
     date: 2022-10-21T00:00:00+02:00
     start_time: "16:30"
