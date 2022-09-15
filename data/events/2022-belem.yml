@@ -24,8 +24,8 @@ cfp_link: "https://www.papercall.io/devopsdaysbelem2022" #if you have a custom l
 registration_date_start: 2022-10-01T00:00:00-03:00 # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: 2022-11-26T23:59:59-03:00 # close registration. Leave blank if registration is not open yet.
 
-registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_closed: "true" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://www.sympla.com.br/devopsdays-belem-2022__1719640" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 coordinates: "-1.4380065672307099, -48.4784484" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
@@ -38,11 +38,11 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: Palestre (CFP)
     url: https://www.papercall.io/devopsdaysbelem2022
   - name: Inscreva-se
-    url: /events/2022-belem/welcome
+    url: https://www.sympla.com.br/devopsdays-belem-2022__1719640
   - name: Programa
     url: /events/2022-belem/programa
-  - name: Palestrantes
-    url: /events/2022-belem/speakers
+  # - name: Palestrantes
+  #   url: /events/2022-belem/speakers
   - name: Patrocínio
     url: /events/2022-belem/sponsor
   - name: Código de Conduta
