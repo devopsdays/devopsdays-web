@@ -52,53 +52,83 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 
 # These are the same people you have on the mailing list and Slack channel.
+# The images should be placed in the `static/events/2022-montreal/organizers` directory (which the `add_organizers.sh` script will do).
 team_members: # Name is the only required field for team members.
   - name: "Christina Di Maio"
+    image: ""
+    bio: ""
+    role: ""
     employer: "OVHcloud"
     github: ""
     twitter: "chris_di_maio"
     linkedin: "https://www.linkedin.com/in/christinadimaio/"
   - name: "Ian Crosby"
+    image: ""
+    bio: ""
+    role: ""
     employer: "Container Solutions"
     github: "idcrosby"
     twitter: "IanDCrosby"
     linkedin: ""
   - name: "Julia Simon"
+    image: ""
+    bio: ""
+    role: ""
     employer: ""
     github: ""
     twitter: "JuliaSimon14"
     linkedin: "https://www.linkedin.com/in/jsimon14"
   - name: "Lise-Andrée Duperré"
+    image: ""
+    bio: ""
+    role: ""
     employer: "Gologic"
     github: ""
     twitter: ""
     linkedin: "https://www.linkedin.com/in/liseandreeduperre/"
   - name: "Michael McCliment"
+    image: ""
+    bio: ""
+    role: ""
     employer: "Ubisoft"
     github: "cornazano"
     twitter: "cornazano"
     linkedin: "https://www.linkedin.com/in/michael-mccliment-77b8939b"
   - name: "Sydney Pagliuca"
+    image: ""
+    bio: ""
+    role: ""
     employer: ""
     github: ""
     twitter: ""
     linkedin: "https://www.linkedin.com/in/sydneypagliuca"
   - name: "Pierre-Luc Bisaillon"
+    image: ""
+    bio: ""
+    role: ""
     employer: "AppDirect"
     github: ""
     twitter: ""
     linkedin: "https://www.linkedin.com/in/pierrelucbisaillon/"
   - name: "Donald Donovan"
+    image: ""
+    bio: ""
+    role: ""
     employer: ""
     github: ""
     twitter: ""
     linkedin: "https://www.linkedin.com/in/donalddonovan"
   - name: "James (purpleidea)"
+    image: "purpleidea.png"
+    bio: "James is a DevOps/Config mgmt. hacker and physiologist from Montreal, Canada. He often goes by @purpleidea on the internet, and writes 'The Technical Blog of James'. He works on a Next Generation Config Management project that he started called mgmt. He studied Physiology at university and sometimes likes to talk about cardiology."
     employer: "purpleidea.com"
     github: "purpleidea"
     twitter: "purpleidea"
     linkedin: ""
   - name: "Sebastián Gómez"
+    image: "seb.png"
+    bio: "CI/CD plumber by day, father of three by night, I've been in the IT industry for almost 20 years. It all started with a `echo Hello World` on my mom’s computer’s AUTOEXEC.BAT. I now help companies of all sizes transition into the Cloud Native world, as painless as possible."
+    role: ""
     employer: "Container Solutions"
     github: "sebagomez"
     twitter: "sebagomez"
@@ -122,9 +152,13 @@ sponsors:
     level: gold
   - id: cloudbees
     level: gold
+  - id: isaac-instruments
+    level: gold
   - id: containersolutions
     level: silver
   - id: sherweb
+    level: silver
+  - id: slalom
     level: silver
   - id: appdynamics
     level: bronze
@@ -134,6 +168,8 @@ sponsors:
     level: lunch
   - id: appdirect
     level: cocktail
+  - id: morgan-stanley
+    level: lanyard
   - id: arresteddevops
     level: community
   - id: "agile-montreal"
@@ -259,17 +295,17 @@ program:
     start_time: "14:50"
     end_time: "15:20"
   - title: "Open Space #1"
-    type: custom
+    type: open-space
     date: 2022-10-26
     start_time: "15:20"
     end_time: "15:55"
   - title: "Open Space #2"
-    type: custom
+    type: open-space
     date: 2022-10-26
     start_time: "16:00"
     end_time: "16:35"
   - title: "Open Space #3"
-    type: custom
+    type: open-space
     date: 2022-10-26
     start_time: "16:40"
     end_time: "17:15"
@@ -372,17 +408,17 @@ program:
     start_time: "14:30"
     end_time: "15:00"
   - title: "Open Space #1"
-    type: custom
+    type: open-space
     date: 2022-10-27
     start_time: "15:00"
     end_time: "15:35"
   - title: "Open Space #2"
-    type: custom
+    type: open-space
     date: 2022-10-27
     start_time: "15:40"
     end_time: "16:15"
   - title: "Open Space #3"
-    type: custom
+    type: open-space
     date: 2022-10-27
     start_time: "16:20"
     end_time: "16:55"
