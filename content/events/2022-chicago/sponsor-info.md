@@ -14,6 +14,7 @@ Thank you for sponsoring DevOpsDays Chicago 2022! The organizing committee is ex
 - [Registration](#registration)
 - [Ticket Donations](#ticket-donations)
 - [Code of Conduct](#code-of-conduct)
+- [COVID Policy](#covid-policy)
 - [Social Media](#social-media)
 - [Note to sponsors about social media and Discord](#note-to-sponsors-about-social-media-and-discord)
 - [Venue](#venue)
@@ -67,6 +68,10 @@ Please notify the conference organizers if you will not be using all of your all
 Respect and empathy are core DevOps values. All sponsors and attendees are required to abide by the [Code of Conduct](http://devopsdays.org/events/2018-chicago/conduct/) listed on our website. If at any time a member of the organizing committee finds that any attendee (associated with a sponsor or not) has violated the Code of Conduct, the organizing committee has the sole discretion to take any appropriate action up to and including asking that attendee to leave without a refund.
 
 Please ensure all marketing materials and swag are appropriate and in line with our [Code of Conduct](http://devopsdays.org/events/2022-chicago/conduct/). Sponsors with handouts, prizes, or other swag that organizers find in violation of our Code of Conduct will be asked to remove those items immediately.
+
+## COVID Policy
+
+Our [COVID policy](https://devopsdays.org/events/2022-chicago/covid-19-policy/) requires all participants (including all sponsor staff) to show proof of vaccination and wear a mask. Any person not complying with this policy will not be allowed admittance to the event. Please make sure you have confirmed this with all of your booth staff and participants.
 
 ## Social Media
 
