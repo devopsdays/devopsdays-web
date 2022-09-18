@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Building a K8s Internal Developer Platform"
 Type = "talk"
 Speakers = ["dan-kirkpatrick"]
+sharing_image = "dan-kirkpatrick.png"
 +++
 
 
