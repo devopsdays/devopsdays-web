@@ -147,6 +147,10 @@ sponsors:
     level: platinum
   - id: blue-people
     level: gold
+  - id: opslevel
+    level: gold
+  - id: nobl9
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -157,14 +161,16 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: platinum
     label: Platinum
+    max: 4
   - id: gold
     label: Gold
-#    max: 10
+    max: 10
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    max: 10 
   - id: startup
     label: Startup Corner
+    max: 10
   - id: community
     label: Community
 
