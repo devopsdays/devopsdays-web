@@ -6,6 +6,8 @@ Title = "Our Future Is Back to Our Roots: Evolving Our SDLC with No-Code DevOps 
 Type = "talk"
 Speakers = ["mark-freydl"]
 image = "mark-freydl.png"
+sharing_image = "mark-freydl.png"
+
 +++
 
 Implementing DevOps tasks, especially related to the release process, is complex and meticulous. The conversations we all have are deep and full of technical detail about today's stack. Yet, the core concerns have not changed in 50 years: we care about memory, CPU, replicas, global location, versions and dependency compatibility, environments, configuration, and performance. Same stuff they cared about in 1979. Today's conversations don’t make you think we've got much in common at all. Those elements are abstractions, because today, despite our powerful tools, we have our hands on every piece of the puzzle.
