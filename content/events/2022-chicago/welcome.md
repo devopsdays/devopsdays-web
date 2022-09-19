@@ -5,6 +5,8 @@ aliases = ["/events/2022-chicago/"]
 Description = "DevOpsDays Chicago is coming back in 2022! The group that brought you DevOpsDays Chicago 2014-2019 is back together and planning the 2022 event.  We're encouraged by the feedback from previous year's events and are determined to bring an improved experience and continue the DevOps conversation for 2022 in Chicago."
 +++
 
+{{< youtube 4CAhPg9fdmM >}}
+
 <div class = "row">
   <div class = "col-md-6 push-md-6">
 	  <div class="row">
