@@ -1,7 +1,6 @@
 +++
 Title = "Serverless Continuous Integration with Drone"
 Speakers = ["kevin-poorman"]
-sharing_image = "kevin-poorman.png"
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""

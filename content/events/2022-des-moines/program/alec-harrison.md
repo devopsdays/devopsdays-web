@@ -1,7 +1,6 @@
 +++
 Title = "ARM Versus Bicep Deploying Via Azure DevOps"
 Speakers = ["alec-harrison"]
-sharing_image = "alec-harrison.png"
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""

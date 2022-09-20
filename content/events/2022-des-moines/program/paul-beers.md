@@ -1,7 +1,6 @@
 +++
 Title = "How I Love Lucy Can Teach Us All About Enterprise Systems Thinking"
 Speakers = ["paul-beers"]
-sharing_image = "paul-beers.png"
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""

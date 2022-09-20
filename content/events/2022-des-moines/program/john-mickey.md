@@ -1,7 +1,6 @@
 +++
 Title = "Highly Available Vault on Kubernetes"
 Speakers = ["john-mickey"]
-sharing_image = "john-mickey.png"
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""

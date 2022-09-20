@@ -1,7 +1,6 @@
 +++
 Title = "Rethinking Product Strategy and Customer Discovery"
 Speakers = ["charlotte-chang"]
-sharing_image = "charlotte-chang.png"
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""

@@ -1,7 +1,6 @@
 +++
 Title = "Growing a Learning Organization"
 Speakers = ["joel-tosi"]
-sharing_image = "joel-tosi.png"
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""

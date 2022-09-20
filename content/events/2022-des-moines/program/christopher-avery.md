@@ -5,6 +5,5 @@ Talk_end_time = ""
 Title = "Responsibility"
 Type = "talk"
 Speakers = ["christopher-avery"]
-sharing_image = "christopher-avery.png"
 +++
 

@@ -1,7 +1,6 @@
 +++
 Title = "Workplace Design For Leaders Who Give a Damn"
 Speakers = ["matt-barcomb"]
-sharing_image = "matt-barcomb.png"
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""

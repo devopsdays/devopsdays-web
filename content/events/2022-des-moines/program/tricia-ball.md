@@ -1,7 +1,6 @@
 +++
 Title = "Diversity and how you might be preventing it"
 Speakers = ["tricia-ball"]
-sharing_image = "tricia-ball.png"
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
