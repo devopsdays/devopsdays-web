@@ -2,7 +2,6 @@
 Title = "Paul Beers"
 image = "paul-beers.png"
 linktitle = "paul-beers"
-sharing_image = "paul-beers.png"
 Twitter = ""
 type = "speaker"
 +++

@@ -1,10 +1,8 @@
 +++
 Title = "Tricia Ball"
-image = "tricia-ball.png"
+_image = "tricia-ball.png"
 linktitle = "tricia-ball"
-sharing_image = "tricia-ball.png"
 Twitter = ""
-pronouns = ""
 website = ""
 type = "speaker"
 +++

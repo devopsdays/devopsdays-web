@@ -2,7 +2,6 @@
 Title = "Josh Angolano"
 image = "josh-angolano.png"
 linktitle = "josh-angolano"
-sharing_image = "josh-angolano.png"
 Twitter = ""
 type = "speaker"
 +++

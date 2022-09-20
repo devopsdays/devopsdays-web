@@ -2,7 +2,6 @@
 Title = "John Mickey"
 image = "john-mickey.png"
 linktitle = "john-mickey"
-sharing_image = "john-mickey.png"
 Twitter = ""
 type = "speaker"
 +++

@@ -2,7 +2,6 @@
 Title = "Lee Barnes"
 image = "lee-barnes.png"
 linktitle = "lee-barnes"
-sharing_image = "lee-barnes.png"
 Twitter = ""
 type = "speaker"
 +++

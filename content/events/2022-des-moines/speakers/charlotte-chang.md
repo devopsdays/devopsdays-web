@@ -1,8 +1,7 @@
 +++
 Title = "Charlotte Chang"
-image = "charlotte-chang.png"
+_image = "charlotte-chang.png"
 linktitle = "charlotte-chang"
-sharing_image = "charlotte-chang.png"
 Twitter = ""
 type = "speaker"
 +++

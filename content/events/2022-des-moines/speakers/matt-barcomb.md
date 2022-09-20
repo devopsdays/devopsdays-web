@@ -1,8 +1,7 @@
 +++
 Title = "Matt Barcomb"
-image = "matt-barcomb.png"
+_image = "matt-barcomb.png"
 linktitle = "matt-barcomb"
-sharing_image = "matt-barcomb.png"
 Twitter = ""
 type = "speaker"
 +++

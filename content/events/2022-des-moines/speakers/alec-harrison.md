@@ -2,7 +2,6 @@
 Title = "Alec Harrison"
 image = "alec-harrison.png"
 linktitle = "alec-harrison"
-sharing_image = "alec-harrison.png"
 Twitter = ""
 type = "speaker"
 +++

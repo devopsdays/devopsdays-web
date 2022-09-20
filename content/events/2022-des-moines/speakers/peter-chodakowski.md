@@ -1,8 +1,7 @@
 +++
 Title = "Peter Chodakowski"
-image = "peter-chodakowski.png"
+_image = "peter-chodakowski.png"
 linktitle = "peter-chodakowski"
-sharing_image = "peter-chodakowski.png"
 Twitter = ""
 type = "speaker"
 +++
