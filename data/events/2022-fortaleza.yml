@@ -18,7 +18,7 @@ cfp_date_start: 2021-10-14T10:00:00-03:00 # start accepting talk proposals.
 cfp_date_end: 2021-11-15T07:00:00-03:00 # close your call for proposals.
 cfp_date_announce: 2021-10-14T08:00:00-03:00 # inform proposers of status
 
-cfp_open: "true"
+cfp_open: "false"
 cfp_link: "https://www.papercall.io/devopsdaysfortaleza2022" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2022-06-29 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
@@ -91,17 +91,6 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/cec%C3%ADlia-c%C3%A2mara-400303181/"
     website: ""
     image: "cecilia.camara.jpeg"
-
-  - name: "Marjoriê Lima"
-    twitter: ""
-    employer: "PROJEART Tecnologia em Aço"
-    bio: "Graduated in Management Processes, studying an MBA in Business Management and Innovation. I have worked for nearly a decade in the IT field. Currently, I am in the Quality Management area where I work as a Process Analyst structuring, mapping, executing, and proposing improvements in all Business chains."
-    github: ""
-    facebook: ""
-    linkedin: "https://www.linkedin.com/in/marjori%C3%AAlima/"
-    website: ""
-    image: "marjorie.lima.jpeg"    
-
 
   - name: "Ana Aguilar"
     twitter: ""
@@ -210,6 +199,9 @@ sponsors:
   - id: novatec
     level: community
     url: https://novatec.com.br
+  - id: urbanostreet
+    level: community
+    url: https://www.instagram.com/urbano.street/
   # - id: globoofficial
   #   level: silver
   #   url: https://www.globo.com/
