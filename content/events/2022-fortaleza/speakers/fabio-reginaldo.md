@@ -1,6 +1,6 @@
 +++
 Title = "Fabio Reginaldo"
-image = "fabio-reginaldo.jpeg"
+image = "fabio-reginaldo.jpg"
 type = "speaker"
 linktitle = "fabio-reginaldo"
 

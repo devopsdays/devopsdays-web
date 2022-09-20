@@ -1,6 +1,6 @@
 +++
 Title = "Cristiano Santos"
-image = "cristiano-santos.jpeg"
+image = "cristiano-santos.jpg"
 type = "speaker"
 linktitle = "cristiano-santos"
 
