@@ -5,6 +5,7 @@ event_twitter: "" # Change this to the twitter handle for your event such as dev
 description: "devopsdays por primera vez en La Paz" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
+event_logo: "logo-square.jpg"
 # All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00
 #   variable: 2019-01-05T23:59:59+02:00
@@ -90,3 +91,6 @@ sponsors:
   - id: univallelapaz
     level: diamond
     url: http://190.104.30.135/?page_id=454  # Use this if you need to over-ride a sponsor URL.
+  - id: lpi
+    level: diamond
+    url: http://lpi.org

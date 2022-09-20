@@ -5,8 +5,12 @@ Talk_end_time = ""
 Title = "Building a K8s Internal Developer Platform"
 Type = "talk"
 Speakers = ["dan-kirkpatrick"]
+sharing_image = "dan-kirkpatrick.png"
 +++
 
+<hr/>
+<b>IMPORTANT</b>: Bring your own laptop with Rancher Desktop and git installed.
+<hr/>
 
 An Internal Developer Platform provides a local environment for developers that closely mimics their production environment. The Internal Developer Platform we present includes:
 

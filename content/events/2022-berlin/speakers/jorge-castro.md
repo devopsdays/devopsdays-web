@@ -3,7 +3,7 @@ title = "Jorge Castro"
 twitter = ""
 linkedin = ""
 website = ""
-image = ""
+image = "jorge-castro.jpg"
 type = "speaker"
 linktitle = ["jorge-castro"]
 +++

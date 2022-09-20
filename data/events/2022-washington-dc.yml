@@ -205,7 +205,7 @@ organizer_email: "washington-dc@devopsdays.org" # Put your organizer email addre
 sponsors:
   - id: capitalone
     level: platinum
-  - id: cortex
+  - id: cortex-before-20220912
     level: platinum
   - id: fearless
     level: platinum
@@ -248,6 +248,8 @@ sponsors:
   - id: tremolo
     level: silver
   - id: inflectra
+    level: silver
+  - id: fanniemae
     level: silver
   - id: devopsdc-meetup
     level: community

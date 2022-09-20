@@ -25,10 +25,12 @@ Description = "Location info for the event"
       <li>Navigate: <a href="Maps Page:
   https://www.google.com/maps/place/Alf%C3%A2ndega+do+Porto/@41.1434189,-8.6238991
   ,17z/data=!4m5!3m4!1s0xd24651e5418666b:0x586d876c499097be!8m2!3d41.1434124!4d8.6217123" target="_blank">Google Maps</a></li>
+      <li><strong>Entrance is on the west wing of the building (left side of the image above)</strong></li>
+      <li>Free parking available (east side) for the event from 7:30 - 20H (just say you are with the event)</li>
   </div>
 
   <hr/>
-
+  
   <div class="row justify-content-center">
     <div class="col-md-12">
       <h3>Getting to the Venue</h3>

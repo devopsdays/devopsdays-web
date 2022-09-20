@@ -6,25 +6,25 @@ Description = "Bienvenido a devopsdays La Paz 2022"
 +++
 <div class = "row">
   <div class="col-md-4">
-    <img alt="DevOpsDays La Paz 2022" src="/events/2022-la-paz/event-logo-square.jpg" class="img-fluid">
+    <img alt="DevOpsDays La Paz 2022" src="/events/2022-la-paz/lapazlogo.png" class="img-fluid">
   </div>
   <div class="col-md-7">
     <h2>devopsdays se realiza por primera vez en La Paz el día 15 de octubre de 2022</h2>
     <p>
-      En este primer evento esperamos reunir a todos los interesados en el area.
+      En este primer evento esperamos reunir a todos los interesados en el area. Este primer año el evento sera presencial.
     </p>
     <h2>Información del evento</h2>
     <p>
+    <h3>Fecha</h3>
       <ul>
-        <li>
-          <h3>Fecha</h3>
-        </li>
         <li style="margin-left:15px;">
-          <div>{{< event_start >}} - {{< event_end >}}</div>
+          <div>{{< event_start >}}</div>
         </li>  
       </ul>      
     </p>
-    <h2>Formato de conferencia</h2>
+    <h3>Lugar</h3>
+    <p>Edificio UNIVALLE La Paz, torre Innovación planta baja</p>
+    <h2>Formato de las conferencias</h2>
     <p>
       <ul>
         <li>
@@ -32,12 +32,6 @@ Description = "Bienvenido a devopsdays La Paz 2022"
         </li>
         <li>
           Charlas especializadas del area o paneles de discusión de 30 minutos.
-        </li>
-        <li>
-          Paneles de discusión especializados.
-        </li>
-        <li>
-          Openspaces, espacio abierto para discusión entre los asistentes. Construye un espacio de acuerdo a tus necesidades.
         </li>
       </ul>
     </p>

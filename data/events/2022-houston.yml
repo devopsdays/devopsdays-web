@@ -43,6 +43,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: speakers
   - name: sponsor
   - name: contact
+  - name: faq
   - name: conduct
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
@@ -147,6 +148,10 @@ sponsors:
     level: platinum
   - id: blue-people
     level: gold
+  - id: opslevel
+    level: gold
+  - id: nobl9
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -157,14 +162,16 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: platinum
     label: Platinum
+    max: 4
   - id: gold
     label: Gold
-#    max: 10
+    max: 10
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    max: 10 
   - id: startup
     label: Startup Corner
+    max: 10
   - id: community
     label: Community
 
@@ -181,11 +188,12 @@ program:
     start_time: "09:00"
     end_time: "09:15"
     background_color: "#D0D0D0"
-  - title: "Keynote"
-    type: custom
+  - title: "laura-santamaria"
+    type: talk
     date: 2022-10-04
     start_time: "09:15"
     end_time: "09:45"
+    background_color: "#B4C6E7"
   - title: "Sponsors"
     type: custom
     date: 2022-10-04
@@ -279,7 +287,12 @@ program:
     date: 2022-10-04
     start_time: "17:00"
     end_time: "17:15"    
-    
+  - title: "Happy Hour"
+    type: custom
+    date: 2022-10-04
+    start_time: "17:15"
+    end_time: "20:00"
+    background_color: "#C6E0B4"
     
   - title: "Registration, Breakfast, Sponsors"
     type: custom
@@ -291,11 +304,12 @@ program:
     date: 2022-10-05
     start_time: "09:00"
     end_time: "09:15"
-  - title: "Day 2 - Keynote"
-    type: custom
+  - title: "kim-hales"
+    type: talk
     date: 2022-10-05
     start_time: "09:15"
     end_time: "09:45"
+    background_color: "#B4C6E7"
   - title: "Sponsors"
     type: custom
     date: 2022-10-05

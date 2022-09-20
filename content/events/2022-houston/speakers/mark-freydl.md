@@ -4,6 +4,7 @@ Twitter = ""
 image = "mark-freydl.png"
 type = "speaker"
 linktitle = "mark-freydl"
+sharing_image = "mark-freydl.png"
 
 +++
 
