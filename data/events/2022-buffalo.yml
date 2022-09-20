@@ -85,6 +85,8 @@ sponsors:
     level: gold
   - id: nginx
     level: gold
+  - id: checkpoint
+    level: silver
   - id: vivanti
     level: silver
   - id: circleci
