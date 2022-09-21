@@ -1,7 +1,7 @@
 +++
 Title = "Tim Andersen"
 Twitter = ""
-_image = "tim-andersen.png"
+image = "tim-andersen.png"
 type = "speaker"
 linktitle = "tim-andersen"
 +++

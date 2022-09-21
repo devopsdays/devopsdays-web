@@ -30,8 +30,17 @@ Description = "Speakers, sessions, ignites, meals"
                 <tbody>
                     <!-- Break Row -->
                     <tr class="col-all">
-                        <td class="col-time">8:00 - 9:00</td>
-                        <td colspan="4">Registration, Breakfast, and, Opening remarks</td>
+                        <td class="col-time">8:00 - 8:45</td>
+                        <td colspan="4">
+                            <h4>Registration, Coffee & Breakfast</h4></td>
+                    </tr>
+                    <!-- Break Row -->
+                    <tr class="col-all">
+                        <td class="col-time">8:45 - 9:00</td>
+                        <td colspan="4">
+                            <h4>Opening Remarks</h4>
+                            <div class="col-lg-12 program-page-desc">Location: Ballroom</div>
+                        </td>
                     </tr>
                     <!-- Keynote Row -->
                     <tr class="col-all">
@@ -46,7 +55,7 @@ Description = "Speakers, sessions, ignites, meals"
                                 <h4>Christopher Avery</h4>
                             </div>
                             <div class="col-lg-12">
-                                <a href="/events/2022-des-moines/program/christopher-avery/">Responsibilty</a>
+                                <a href="/events/2022-des-moines/program/christopher-avery/">How to Produce Results that Matter</a>
                             </div>
                             <div class="col-lg-12 program-page-desc">Location: Ballroom</div>
                         </td>
@@ -54,7 +63,7 @@ Description = "Speakers, sessions, ignites, meals"
                     <!-- Break Row -->
                     <tr class="col-all">
                         <td class="col-time">10:00 - 10:15</td>
-                        <td colspan="4">Break</td>
+                        <td colspan="4"><h4>Break</h4></td>
                     </tr>
                     <tr>
                         <!-- Normal Session Row -->
@@ -82,7 +91,7 @@ Description = "Speakers, sessions, ignites, meals"
                         <td>
                             <div class="col-lg-4">
                                 <a href="/events/2022-des-moines/speakers/timothy-reaves/">
-                                    <img class="img img-circle" src="/events/2022-des-moines/speakers/timothy-reaves.png" height="60px"
+                                    <img class="img img-circle" src="/img/speaker-default.jpg" height="60px"
                                         width="60px" alt="">
                                 </a>
                                 <h4>Timothy Reaves</h4>
@@ -108,7 +117,7 @@ Description = "Speakers, sessions, ignites, meals"
                     <!-- Break Row -->
                     <tr class="col-all">
                         <td class="col-time">11:00 - 11:15</td>
-                        <td colspan="4">Break</td>
+                        <td colspan="4"><h4>Break</h4></td>
                     </tr>
                     <tr>
                         <!-- Normal Session Row -->
@@ -153,17 +162,19 @@ Description = "Speakers, sessions, ignites, meals"
                     <!-- Break Row -->
                     <tr class="col-all">
                         <td class="col-time">Noon - 1:30</td>
-                        <td colspan="4">Lunch & Networking</td>
+                        <td colspan="4"><h4>Lunch & Networking</h4>
+                        <div class="col-lg-12 program-page-desc">Location: Ballroom</div></td>
                     </tr>
                     <!-- Break Row -->
                     <tr class="col-all">
                         <td class="col-time">1:30 - 2:00</td>
-                        <td colspan="4">Ignites</td>
+                        <td colspan="4"><h4>Ignite Talks</h4>
+                        <div class="col-lg-12 program-page-desc">Location: Ballroom</div></td>
                     </tr>
                     <!-- Break Row -->
                     <tr class="col-all">
                         <td class="col-time">2:00 - 2:15</td>
-                        <td colspan="4">Break</td>
+                        <td colspan="4"><h4>Break</h4></td>
                     </tr>
                     <tr>
                         <!-- Normal Session Row -->
@@ -208,12 +219,13 @@ Description = "Speakers, sessions, ignites, meals"
                     <!-- Break Row -->
                     <tr class="col-all">
                         <td class="col-time">3:00 - 4:30</td>
-                        <td colspan="4">Open Space</td>
+                        <td colspan="4"><h4>Open Space</h4>
+                        <div class="col-lg-12 program-page-desc">Location: Ballroom</div></td>
                     </tr>
                     <!-- Break Row -->
                     <tr class="col-all">
                         <td class="col-time">4:30 - 6:30</td>
-                        <td colspan="4">Social Happy Hour</td>
+                        <td colspan="4"><h4>Social Happy Hour</h4></td>
                     </tr>
                 </tbody>
             </table>
@@ -234,11 +246,20 @@ Description = "Speakers, sessions, ignites, meals"
                 </tr>
             </thead>
             <tbody>
-                <!-- Break Row -->
-                <tr class="col-all">
-                    <td class="col-time">8:00 - 9:00</td>
-                    <td colspan="4">Registration, Breakfast, and, Opening remarks</td>
-                </tr>
+                    <!-- Break Row -->
+                    <tr class="col-all">
+                        <td class="col-time">8:00 - 8:45</td>
+                        <td colspan="4">
+                            <h4>Registration, Coffee & Breakfast</h4></td>
+                    </tr>
+                    <!-- Break Row -->
+                    <tr class="col-all">
+                        <td class="col-time">8:45 - 9:00</td>
+                        <td colspan="4">
+                            <h4>Opening Remarks</h4>
+                            <div class="col-lg-12 program-page-desc">Location: Ballroom</div>
+                        </td>
+                    </tr>
                 <!-- Keynote Row -->
                 <tr class="col-all">
                     <td class="col-time">9:00 - 10:00</td>
@@ -260,7 +281,7 @@ Description = "Speakers, sessions, ignites, meals"
                 <!-- Break Row -->
                 <tr class="col-all">
                     <td class="col-time">10:00 - 10:15</td>
-                    <td colspan="4">Break</td>
+                    <td colspan="4"><h4>Break</h4></td>
                 </tr>
                 <tr>
                     <!-- Normal Session Row -->
@@ -305,7 +326,7 @@ Description = "Speakers, sessions, ignites, meals"
                 <!-- Break Row -->
                 <tr class="col-all">
                     <td class="col-time">11:00 - 11:15</td>
-                    <td colspan="4">Break</td>
+                    <td colspan="4"><h4>Break</h4></td>
                 </tr>
                 <tr>
                     <!-- Normal Session Row -->
@@ -350,17 +371,19 @@ Description = "Speakers, sessions, ignites, meals"
                 <!-- Break Row -->
                 <tr class="col-all">
                     <td class="col-time">Noon - 1:30</td>
-                    <td colspan="4">Lunch & Networking</td>
+                    <td colspan="4"><h4>Lunch & Networking</h4>
+                    <div class="col-lg-12 program-page-desc">Location: Ballroom</div></td>
                 </tr>
                 <!-- Break Row -->
                 <tr class="col-all">
                     <td class="col-time">1:30 - 2:00</td>
-                    <td colspan="4">Ignites</td>
+                    <td colspan="4"><h4>Ignite Talks</h4>
+                    <div class="col-lg-12 program-page-desc">Location: Ballroom</div></td>
                 </tr>
                 <!-- Break Row -->
                 <tr class="col-all">
                     <td class="col-time">2:00 - 2:15</td>
-                    <td colspan="4">Break</td>
+                    <td colspan="4"><h4>Break</h4></td>
                 </tr>
                 <tr>
                     <!-- Normal Session Row -->
@@ -405,7 +428,10 @@ Description = "Speakers, sessions, ignites, meals"
                 <!-- Break Row -->
                 <tr class="col-all">
                     <td class="col-time">3:00 - 3:15</td>
-                    <td colspan="4">Closing & Sponsor Giveaways</td>
+                    <td colspan="4">
+                        <h4>Closing & Sponsor Giveaways</h4>
+                        <div class="col-lg-12 program-page-desc">Location: Ballroom</div>
+                    </td>
                 </tr>
             </tbody>
         </table>

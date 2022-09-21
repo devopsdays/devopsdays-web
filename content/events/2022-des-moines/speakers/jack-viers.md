@@ -1,7 +1,7 @@
 +++
 Title = "Jack Viers"
 Twitter = ""
-_image = "jack-viers.png"
+image = "jack-viers.png"
 type = "speaker"
 linktitle = "jack-viers"
 +++

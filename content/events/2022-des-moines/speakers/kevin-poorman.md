@@ -1,6 +1,6 @@
 +++
-Title = "Kevin Poormam"
-_image = "kevin-poorman.png"
+Title = "Kevin Poorman"
+image = "kevin-poorman.png"
 linktitle = "kevin-poorman"
 Twitter = "codefriar"
 type = "speaker"

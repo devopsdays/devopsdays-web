@@ -1,6 +1,6 @@
 +++
 Title = "Peter Chodakowski"
-_image = "peter-chodakowski.png"
+image = "peter-chodakowski.png"
 linktitle = "peter-chodakowski"
 Twitter = ""
 type = "speaker"

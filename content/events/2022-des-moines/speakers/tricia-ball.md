@@ -1,6 +1,6 @@
 +++
 Title = "Tricia Ball"
-_image = "tricia-ball.png"
+image = "tricia-ball.png"
 linktitle = "tricia-ball"
 Twitter = ""
 website = ""

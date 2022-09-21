@@ -1,7 +1,7 @@
 +++
 Title = "Nate Adams"
 Twitter = ""
-_image = "nate-adams.png"
+image = "nate-adams.png"
 type = "speaker"
 linktitle = "nate-adams"
 +++
