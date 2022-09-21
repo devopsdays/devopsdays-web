@@ -2,9 +2,8 @@
 
 set -e
 
-source common_code
-
 cd `dirname ${0}`
+source common_code
 
 # Get year
 default_year=$(date +"%Y")
