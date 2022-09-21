@@ -18,7 +18,7 @@ cfp_date_start: 2021-10-14T10:00:00-03:00 # start accepting talk proposals.
 cfp_date_end: 2021-11-15T07:00:00-03:00 # close your call for proposals.
 cfp_date_announce: 2021-10-14T08:00:00-03:00 # inform proposers of status
 
-cfp_open: "true"
+cfp_open: "false"
 cfp_link: "https://www.papercall.io/devopsdaysfortaleza2022" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2022-06-29 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
@@ -92,22 +92,11 @@ team_members: # Name is the only required field for team members.
     website: ""
     image: "cecilia.camara.jpeg"
 
-  - name: "Marjoriê Lima"
-    twitter: ""
-    employer: "PROJEART Tecnologia em Aço"
-    bio: "Graduated in Management Processes, studying an MBA in Business Management and Innovation. I have worked for nearly a decade in the IT field. Currently, I am in the Quality Management area where I work as a Process Analyst structuring, mapping, executing, and proposing improvements in all Business chains."
-    github: ""
-    facebook: ""
-    linkedin: "https://www.linkedin.com/in/marjori%C3%AAlima/"
-    website: ""
-    image: "marjorie.lima.jpeg"    
-
-
   - name: "Ana Aguilar"
     twitter: ""
     employer: "QuintoAndar"
     bio: "Graduated in network of computers with specialization in security information .I am working on IT are since 2012. And as DevOps engineer with over 5 years of working. Loves to automate boring tasks. Facilitating continuous development, continuous testing, and continuous integration, thus ensuring high quality and on-time delivery."
-    github: ""
+    github: "ana-aguilar7"
     facebook: ""
     linkedin: ""
     website: ""
@@ -132,6 +121,16 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/henrikoliveira/"
     website: ""
     image: "henrique-oliveira.png"
+
+  - name: "Nathália Lira"
+    twitter: ""
+    employer: "FortBrasil"
+    bio: "Graduated in network of computers with specialization in security information and IT Governance. I love technology and I am working on IT are since 2010. I work for an Fintech with IT operations and governance manager."
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/nathalialira8/"
+    website: ""
+    image: "nathalia-lira.jpg"
 
   - name: "Rafael Camelo"
     twitter: ""
@@ -210,6 +209,18 @@ sponsors:
   - id: novatec
     level: community
     url: https://novatec.com.br
+  - id: urbanostreet
+    level: community
+    url: https://www.instagram.com/urbano.street/
+  - id: grafanabr
+    level: community
+    url: https://grafana.com/
+  - id: servix
+    level: community
+    url: https://servix.com/
+  - id: elastic
+    level: bronze
+    url: https://www.elastic.co/
   # - id: globoofficial
   #   level: silver
   #   url: https://www.globo.com/
