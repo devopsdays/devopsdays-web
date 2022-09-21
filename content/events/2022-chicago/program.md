@@ -9,6 +9,7 @@ Icons = "false"
   <div class = "col">
     <hr />
     <a href = "https://www.youtube.com/watch?v=4CAhPg9fdmM">Day 1 Livestream (Sept 21)</a><br>
+<a href= "https://docs.google.com/spreadsheets/d/1-ZgjuRvlCfjCp_-Ekg5dX1IILT4dTAHoNNqseVGbzOI/">Day One Open Space Schedule</a><Br>
     <a href = "https://www.youtube.com/watch?v=Syo5yAmHCVw">Day 2 Livestream (Sept 22)</a><br>
     <a href = "https://discord.gg/dodchi">Join the Discord server!</a>
     <hr />
