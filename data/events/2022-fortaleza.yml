@@ -215,6 +215,9 @@ sponsors:
   - id: grafanabr
     level: community
     url: https://grafana.com/
+  - id: servix
+    level: community
+    url: https://servix.com/
   - id: elastic
     level: bronze
     url: https://www.elastic.co/
