@@ -6,6 +6,8 @@ Description = "DevOpsDays Chicago is coming back in 2022! The group that brought
 +++
 
 {{< youtube 4CAhPg9fdmM >}}
+<br><br>
+or <a href = "https://www.youtube.com/watch?v=4CAhPg9fdmM">go directly to the stream on YouTube!</a>
 
 <div class = "row">
   <div class = "col-md-6 push-md-6">
