@@ -96,7 +96,7 @@ team_members: # Name is the only required field for team members.
     twitter: ""
     employer: "QuintoAndar"
     bio: "Graduated in network of computers with specialization in security information .I am working on IT are since 2012. And as DevOps engineer with over 5 years of working. Loves to automate boring tasks. Facilitating continuous development, continuous testing, and continuous integration, thus ensuring high quality and on-time delivery."
-    github: ""
+    github: "ana-aguilar7"
     facebook: ""
     linkedin: ""
     website: ""
@@ -121,6 +121,16 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/henrikoliveira/"
     website: ""
     image: "henrique-oliveira.png"
+
+  - name: "Nathália Lira"
+    twitter: ""
+    employer: "FortBrasil"
+    bio: "Graduated in network of computers with specialization in security information and IT Governance. I love technology and I am working on IT are since 2010. I work for an Fintech with IT operations and governance manager."
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/nathalialira8/"
+    website: ""
+    image: "nathalia-lira.jpg"
 
   - name: "Rafael Camelo"
     twitter: ""
@@ -205,6 +215,9 @@ sponsors:
   - id: grafanabr
     level: community
     url: https://grafana.com/
+  - id: elastic
+    level: bronze
+    url: https://www.elastic.co/
   # - id: globoofficial
   #   level: silver
   #   url: https://www.globo.com/
