@@ -55,7 +55,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Eduardo Piairo"
-    employer: "Deeper Insights"
+    employer: "Devoteam"
     bio: "Principal DevOps Engineer @ Devoteam that enjoys building software, pipelines, and communities. The deployment pipeline is his favorite technical and cultural tool. AnythingOps approach enthusiast."
     linkedin: "linkedin.com/in/eduardopiairo"
     twitter: "EdPiairo"
