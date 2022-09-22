@@ -221,6 +221,12 @@ sponsors:
   - id: elastic
     level: bronze
     url: https://www.elastic.co/
+  - id: atlantico
+    level: gold
+    url: https://www.atlantico.com.br/
+  - id: aws-user-group-ce
+    level: community
+    url: https://www.meetup.com/pt-BR/AWS-Users-Group-CE/
   # - id: globoofficial
   #   level: silver
   #   url: https://www.globo.com/
