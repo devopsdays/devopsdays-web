@@ -62,6 +62,8 @@ team_members: # Name is the only required field for team members.
     image: "lays-rodrigues.jpg"
   - name: "Eduardo Abreu"
     employer: "M4U"
+  - name: "Willian dos Santos"
+    employer: "AmbevTech"
   - name: "Marcelo Freire"
     image: "marcelo-freire.jpg"
 
