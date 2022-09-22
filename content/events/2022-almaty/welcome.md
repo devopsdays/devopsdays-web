@@ -5,9 +5,9 @@ aliases = ["/events/2022-almaty/"]
 Description = "devopsdays Almaty 2022"
 +++
 
-<!-- <div style="text-align:center;">
+<div style="text-align:center;">
   {{< event_logo >}}
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">

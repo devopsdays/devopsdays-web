@@ -83,3 +83,5 @@ sponsor_levels:
     max: 3 # This is the same as omitting the max limit.
   - id: community
     label: Community
+
+event_logo: "logo.png"
