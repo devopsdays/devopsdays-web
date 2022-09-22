@@ -4,6 +4,8 @@ twitter = "krisnova"
 website = "http://nivenly.com/"
 type = "speaker"
 linktitle = "kris-nova"
+image = "kris-nova.png"
+sharing_image = "kris-nova-card.png"
 +++
 
 Kris Nóva (she/her) is a platform infrastructure expert, author,

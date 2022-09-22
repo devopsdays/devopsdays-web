@@ -2,12 +2,11 @@
 talk_date = ""
 talk_start_time = ""
 talk_end_time = ""
-title = "Platform Infrastructure and The Missing Pieces On The Node"
+title = "Platform Infrastructure and The Missing Pieces On The Node: Systemd, Kubernetes, and Aurae"
 type = "talk"
 speakers = ["kris-nova"]
+sharing_image = "kris-nova-card.png"
 +++
-
-**Systemd, Kubernetes, and Aurae**
 
 Spending 6+ years building and operating production platform
 infrastructure on top of Kubernetes has left many scars in my
