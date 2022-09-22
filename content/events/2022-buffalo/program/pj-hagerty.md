@@ -5,6 +5,7 @@ talk_end_time = ""
 title = "Open Source Isn't What it Used to Be"
 type = "talk"
 speakers = ["pj-hagerty"]
+sharing_image = "pj-hagerty-card.png"
 +++
 
 Many folks have an image of Open Source. To some it’s “if I build it, they will come”. Others, “it’s unregulated, Wild West - not dependable”. And even others, “it’s how we do business”
