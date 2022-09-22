@@ -3,7 +3,7 @@ title = "Ivan Merrill"
 twitter = ""
 linkedin = ""
 website = ""
-image = ""
+image = "ivan-merrill.png"
 type = "speaker"
 linktitle = ["ivan-merrill"]
 +++
