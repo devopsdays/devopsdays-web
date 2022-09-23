@@ -61,12 +61,10 @@ organizer_email: "almaty@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: data/sponsors/pskz.yml
+  - id: pskz
     level: general
-    url: https://ps.kz # Use this if you need to over-ride a sponsor URL.
-  - id: data/sponsors/yandexcloud.yml
+  - id: yandexcloud
     level: official
-    url: https://cloud.yandex.com
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
