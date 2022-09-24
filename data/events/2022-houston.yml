@@ -152,6 +152,10 @@ sponsors:
     level: gold
   - id: nobl9
     level: gold
+  - id: opscruise
+    level: silver
+  - id: reversinglabs
+    level: platinum
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -168,7 +172,7 @@ sponsor_levels:
     max: 10
   - id: silver
     label: Silver
-    max: 10 
+    max: 7 
   - id: startup
     label: Startup Corner
     max: 10
