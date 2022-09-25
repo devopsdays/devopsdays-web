@@ -88,6 +88,8 @@ sponsors:
     level: silver
   - id: checkpoint
     level: silver
+  - id: foundrydigital
+    level: silver
   - id: vivanti
     level: silver
   - id: circleci
@@ -123,9 +125,6 @@ sponsor_levels:
   - id: bronze
     label: Bronze
     max: 10
-  - id: snack
-    label: Snack
-    max: 1
   - id: badge
     label: Badge
     max: 1
