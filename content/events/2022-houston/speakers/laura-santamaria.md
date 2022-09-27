@@ -6,6 +6,7 @@ type = "speaker"
 linktitle = "laura-santamaria"
 WebSite = "https://linktr.ee/nimbinatus"
 GitHub = "nimbinatus"
+sharing_image = "laura-santamaria.png"
 
 +++
 
