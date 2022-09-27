@@ -4,7 +4,7 @@ Twitter = ""
 image = "kim-hales.png"
 type = "speaker"
 linktitle = "kim-hales"
-
+sharing_image = "kim-hales.png"
 +++
 
 As Senior Vice President, Information Technology for NRG Energy, Kim is leading NRG’s digital transformation by overseeing all aspects of information technology, cyber security, and digital development for the company. Kim has more than 25 years of experience in Information Technology with a breadth of roles including cyber security (including Critical Infrastructure Protection), strategic planning, new business development, M&A program management, program management, project management, services management, finance, compliance, application development, quality assurance, and infrastructure systems engineer.
