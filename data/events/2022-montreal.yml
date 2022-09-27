@@ -70,6 +70,14 @@ team_members: # Name is the only required field for team members.
     github: "idcrosby"
     twitter: "IanDCrosby"
     linkedin: ""
+  - name: "Joost Polley"
+    image: ""
+    bio: ""
+    role: ""
+    employer: ""
+    github: ""
+    twitter: ""
+    linkedin: ""
   - name: "Julia Simon"
     image: ""
     bio: ""
@@ -159,6 +167,10 @@ sponsors:
   - id: sherweb
     level: silver
   - id: slalom
+    level: silver
+  - id: f5
+    level: silver
+  - id: elastic
     level: silver
   - id: appdynamics
     level: bronze
