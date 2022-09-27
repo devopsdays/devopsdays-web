@@ -55,8 +55,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # The images should be placed in the `static/events/2022-montreal/organizers` directory (which the `add_organizers.sh` script will do).
 team_members: # Name is the only required field for team members.
   - name: "Christina Di Maio"
-    image: ""
-    bio: ""
+    image: "christina-di-maio.png"
+    bio: "Event Manager at OVHcloud by day, my friends and family keep my head out of the clouds to plan all their special events when I’m not working. Marketing and event planning are my passions, I also bake a pretty mean macaron!  With a Bachelor’s degree in business from HEC Montréal I’ve always worked in B2B marketing and tried to bring different ideas to life while sharing the tech industry through my eyes.  After all, you can put glitter on anything!"
     role: ""
     employer: "OVHcloud"
     github: ""
