@@ -107,8 +107,6 @@ sponsors:
     level: platinum
   - id: dynatrace
     level: platinum
-  - id: clumio
-    level: platinum
   - id: env0
     level: lanyard
   - id: spectrocloud
@@ -132,13 +130,19 @@ sponsors:
   - id: tampadevs
     level: community  
   - id: site24x7
-    level: gold  
+    level: platinum  
   - id: harrisonclarke
     level: gold
   - id: xpirit
     level: gold 
   - id: xpirit
     level: swagbag
+  - id: moduscreate
+    level: gold
+  - id: appdynamics
+    level: platinum
+  - id: reversinglabs
+    level: platinum
 
     
 #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
