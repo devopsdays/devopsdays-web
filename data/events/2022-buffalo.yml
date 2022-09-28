@@ -176,11 +176,11 @@ program:
     type: custom
     date: 2022-09-29
     start_time: "12:10"
-    end_time: "13:25"
+    end_time: "13:20"
   - title: "Sponsors"
     type: custom
     date: 2022-09-29
-    start_time: "13:25"
+    start_time: "13:20"
     end_time: "13:30"
   - title: "jeremy-meiss"
     type: talk
@@ -252,11 +252,11 @@ program:
     type: custom
     date: 2022-09-30
     start_time: "12:10"
-    end_time: "13:25"
+    end_time: "13:20"
   - title: "Sponsors"
     type: custom
     date: 2022-09-30
-    start_time: "13:25"
+    start_time: "13:20"
     end_time: "13:30"
   - title: "stephen-shary"
     type: talk
