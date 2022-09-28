@@ -1,5 +1,6 @@
 name: "2022-chattanooga" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2022" # The year of the event. Make sure it is in quotes.
+event_logo: "logo-square.jpg"
 city: "Chattanooga" # The displayed city name of the event. Capitalize it.
 event_twitter: "ChaDevOpsDays" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "After taking a break due to Covid, Devopsdays is coming back to Chattanooga! We're excited to have you join us" # Edit this to suit your preferences
@@ -36,7 +37,6 @@ location_address: "1 Carter St, Chattanooga, TN 37402 " #Optional - use the stre
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
   - name: registration
-  - name: program
   - name: speakers
   - name: sponsor
   - name: contact
@@ -85,6 +85,8 @@ sponsors:
   - id: tva
     level: gold
   - id: chatech
+    level: gold
+  - id: bcbst
     level: gold
 
 
