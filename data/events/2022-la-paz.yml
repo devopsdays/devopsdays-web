@@ -117,6 +117,11 @@ program:
     date: 2022-10-15T00:00:00-04:00
     start_time: "10:30"
     end_time: "11:15"
+  - title: "juan-poma"
+    type: talk
+    date: 2022-10-15T00:00:00-04:00
+    start_time: "11:15"
+    end_time: "12:00"
   - title: "esteban-lima"
     type: talk
     date: 2022-10-15T00:00:00-04:00
