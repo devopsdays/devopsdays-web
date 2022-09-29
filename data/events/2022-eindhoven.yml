@@ -392,6 +392,6 @@ program:
     end_time: "17:00"
   - title: "Close Day"
     type: custom
-    date: 2022-10-20T00:00:00+02:00
+    date: 2022-10-21T00:00:00+02:00
     start_time: "17:00"
     end_time: "17:15"
