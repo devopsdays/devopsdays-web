@@ -278,11 +278,11 @@ program:
     date: 2022-09-30
     start_time: "15:30"
     end_time: "16:00"
-  - title: "Closing Remarks"
+  - title: "Closing Remarks + Prize Drawing"
     type: custom
     date: 2022-09-30
-    start_time: "17:00"
-    end_time: "17:15"
+    start_time: "16:00"
+    end_time: "16:30"
 
 ignites:
   - title: "jean-remi-beaudoin"
