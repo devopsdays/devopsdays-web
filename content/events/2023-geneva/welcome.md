@@ -1,8 +1,8 @@
 +++
-Title = "devopsdays geneva 2023"
+Title = "DevopsDays Geneva 2023"
 Type = "welcome"
 aliases = ["/events/2023-geneva/"]
-Description = "devopsdays geneva 2023"
+Description = "DevopsDays Geneva 2023"
 +++
 <style>
   .content-text {
