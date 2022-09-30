@@ -23,6 +23,7 @@ If you don't see an answer there, please drop us an email at [{{< email_organize
 <li><a href="#Parking">Where to park?</a></li>
 <li><a href="#Food">Will food be provided?</a></li>
 <li><a href="#Bring">What to bring</a></li>
+<li><a href="#Workshops">Where will the workshops take place</a></li>
 <li><a href="#Communications">Communications and Collaboration</a></li>
 </ol>
 
@@ -39,10 +40,11 @@ The conference will take place at <a href="https://www.ionhouston.com/">The Ion 
 Houston, Texas 77002<br/>
 &nbsp;
 </div>
-Check out <a href="/events/2022-houston/location">Location</a> page for direction, parking situation and tips.
+Check out <a href="/events/2022-houston/location">Location</a> page for direction and parking situation.
 
 <a name="Parking"><h3>3. What is the parking situation?</h3></a>
-<i>Information coming soon</i>
+Attendees may use the visitor lot and the tenant lot in the case of overflow. 
+Check out <a href="/events/2022-houston/location">Location</a> page for directions and map of the parking lots.
 
 <a name="Food"><h3>4. Will food be provided?</h3></a>
 We will provide breakfast and boxed lunch on both days. Additionally, there will be Happy Hour on the first day, right after the event.
@@ -70,8 +72,11 @@ Some of the workshops require additional software or accounts. Please check belo
 <dd>TBD</dd>
 </dl>
 
+<a name="Workshops"><h3>6. Where will the workshops take place?</h3></a>
 
-<a name="Communications"><h3>6. Communications and Collaboration</h3></a>
+All workshops will take place in the Ion, in Room 29-31.
+
+<a name="Communications"><h3>7. Communications and Collaboration</h3></a>
 <h5>Twitter & LinkedIn Announcements</h5>
 Before, during and after the event you can get announcments and stay in touch with us by following us on <a href="https://twitter.com/DevOpsDaysHTown">Twitter</a> or <a href="https://www.linkedin.com/company/devopsdays-houston">LinkedIn</a>.
 <h5>Slack Collaboration</h5>
