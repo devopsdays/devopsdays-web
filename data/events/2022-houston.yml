@@ -220,6 +220,7 @@ program:
     date: 2022-10-04
     start_time: "10:45"
     end_time: "12:00"   
+    comments: "&nbsp; &nbsp; *Where*: Room 29-31"
   - title: "sean-odell"
     type: talk
     date: 2022-10-04
@@ -256,6 +257,7 @@ program:
     date: 2022-10-04
     start_time: "14:15"
     end_time: "15:30"  
+    comments: "&nbsp; &nbsp; *Where*: Room 29-31"
   - title: "matthew-brahms"
     type: talk
     date: 2022-10-04
@@ -334,6 +336,7 @@ program:
     date: 2022-10-05
     start_time: "10:45"    
     end_time: "12:00"   
+    comments: "&nbsp; &nbsp; *Where*: Room 29-31"
   - title: "tim-rayburn"
     type: talk
     date: 2022-10-05
@@ -369,6 +372,7 @@ program:
     date: 2022-10-05
     start_time: "14:15"
     end_time: "15:30"   
+    comments: "&nbsp; &nbsp; *Where*: Room 29-31"
   - title: "angel-rivera"
     type: talk
     date: 2022-10-05
