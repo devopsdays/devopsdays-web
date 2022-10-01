@@ -1,7 +1,7 @@
 +++
 Title = "FAQ"
 Type = "event"
-Description = "devopsdays Houston 2021 Frequently Asked Questions"
+Description = "devopsdays Houston 2022 Frequently Asked Questions"
 +++
 
 Attending our event? Have a question? Then check out the answers to the Frequently Asked Questions below. <br/>
