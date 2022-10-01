@@ -23,7 +23,7 @@ If you don't see an answer there, please drop us an email at [{{< email_organize
 <li><a href="#Parking">Where to park?</a></li>
 <li><a href="#Food">Will food be provided?</a></li>
 <li><a href="#Bring">What to bring</a></li>
-<li><a href="#Workshops">Where will the workshops take place</a></li>
+<li><a href="#Rooms">Where will registration/talks/workshops take place</a></li>
 <li><a href="#Communications">Communications and Collaboration</a></li>
 </ol>
 
@@ -43,8 +43,9 @@ Houston, Texas 77002<br/>
 Check out <a href="/events/2022-houston/location">Location</a> page for direction and parking situation.
 
 <a name="Parking"><h3>3. What is the parking situation?</h3></a>
-Attendees may use the visitor lot and the tenant lot in the case of overflow. 
-Check out <a href="/events/2022-houston/location">Location</a> page for directions and map of the parking lots.
+We recommend that attendees  use the tenant lot/overflow lot, as the visitor lot has very limited space.<br/>
+
+Check out <a href="/events/2022-houston/location">Location</a> page for directions and map of the parking lot(s).
 
 <a name="Food"><h3>4. Will food be provided?</h3></a>
 We will provide breakfast and boxed lunch on both days. Additionally, there will be Happy Hour on the first day, right after the event.
@@ -72,9 +73,12 @@ Some of the workshops require additional software or accounts. Please check belo
 <dd>TBD</dd>
 </dl>
 
-<a name="Workshops"><h3>6. Where will the workshops take place?</h3></a>
+<a name="Rooms"><h3>6. Where will registration/talks/workshops take place?</h3></a>
 
-All workshops will take place in the Ion, in Room 29-31.
+Registration table will be located on the first flour of the Ion. <br/>
+Most of the event (talks, sponsors, open spaces, breakfast/lunch/happy hour) will take place on the 4th floor of the Ion<br/>
+All workshops will take place on the lower level of the Ion, in Room 30-31. <br/>
+
 
 <a name="Communications"><h3>7. Communications and Collaboration</h3></a>
 <h5>Twitter & LinkedIn Announcements</h5>
