@@ -18,14 +18,14 @@ Description = "devopsdays Chattanooga 2022"
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -45,23 +45,23 @@ Description = "devopsdays Chattanooga 2022"
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
     View the {{< event_link page="program" text="program." >}}
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -89,8 +89,8 @@ Description = "devopsdays Chattanooga 2022"
     <img src="/events/2022-chattanooga/logo.png" style="float:center"/>
   </div>
   <div class = "col-md-3">
-    <h3>devopsdays Chattanooga 2019 Recap</h3>
-    <iframe src="https://drive.google.com/file/d/18Fz-hfDnaIlJd2kDc7hJDtWT3anBE6au/preview" width="640" height="480" allow="autoplay"></iframe>
+    <h3>Devopsdays Chattanooga 2019 Recap</h3>
+<iframe src="https://player.vimeo.com/video/375033466?h=671321bfee" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
   </div>
 </div>
 
