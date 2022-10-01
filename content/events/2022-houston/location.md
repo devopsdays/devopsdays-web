@@ -16,13 +16,16 @@ This year's event will happen at <a href="https://www.ionhouston.com/">The Ion H
 
 <h2>Parking</h2>
 
-Attendees may use the visitor lot and the tenant lot in the case of overflow. Please see the map below for location of parking lots and entrances:
+Attendees may use the Visitor Parking lot or the Contractor Parking lot in the case of overflow. We recommend using Contractor Parking lot, as the Visitor Parking lot has very limited space.
+<br/>
 
-<ul>
-<li><b>Visitor Parking Instructions</b>: Enter 4200 Fannin Street into your GPS for directions directly to the visitor parking lot, located in front of The Ion building. </li>
-<li><b>Overflow Parking Instructions</b>: Enter 4203 Fannin Street into your GPS for directions directly to this parking lot, located across the street from The Ion building. </li>
-</ul>
+<b>Contractor Parking Instructions</b>: Enter 4203 Fannin Street into your GPS for directions directly to this parking lot, located across the street from The Ion building. 
+<br/>
+ 
+Please see the map below for location of parking lots and entrances:
 
 <img style="float: center-justified" src="/events/2022-houston/ion-parking.jpg">
+
+
 
  <br/>

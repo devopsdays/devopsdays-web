@@ -156,7 +156,10 @@ sponsors:
     level: silver
   - id: reversinglabs
     level: platinum
-
+  - id: twosigma
+    level: gold
+    url: https://twosigma.avature.net/eventsignup/eventDetail/Houston-Texas-United-States-DevOps-Days-Houston-October-4th-October-5th/11503
+    
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -220,7 +223,7 @@ program:
     date: 2022-10-04
     start_time: "10:45"
     end_time: "12:00"   
-    comments: "&nbsp; &nbsp; *Where*: Room 29-31"
+    comments: "&nbsp; &nbsp; *Where*: Room 30-31 on the lower level"
   - title: "sean-odell"
     type: talk
     date: 2022-10-04
@@ -257,7 +260,7 @@ program:
     date: 2022-10-04
     start_time: "14:15"
     end_time: "15:30"  
-    comments: "&nbsp; &nbsp; *Where*: Room 29-31"
+    comments: "&nbsp; &nbsp; *Where*: Room 30-31 on the lower level"
   - title: "matthew-brahms"
     type: talk
     date: 2022-10-04
@@ -336,7 +339,7 @@ program:
     date: 2022-10-05
     start_time: "10:45"    
     end_time: "12:00"   
-    comments: "&nbsp; &nbsp; *Where*: Room 29-31"
+    comments: "&nbsp; &nbsp; *Where*: Room 30-31 on the lower level"
   - title: "tim-rayburn"
     type: talk
     date: 2022-10-05
@@ -372,7 +375,7 @@ program:
     date: 2022-10-05
     start_time: "14:15"
     end_time: "15:30"   
-    comments: "&nbsp; &nbsp; *Where*: Room 29-31"
+    comments: "&nbsp; &nbsp; *Where*: Room 30-31 on the lower level"
   - title: "angel-rivera"
     type: talk
     date: 2022-10-05
