@@ -38,6 +38,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
   - name: registration
   - name: speakers
+  - name: program
   - name: sponsor
   - name: contact
   - name: conduct
@@ -87,6 +88,8 @@ sponsors:
   - id: chatech
     level: gold
   - id: bcbst
+    level: gold
+  - id: vmware
     level: gold
 
 
