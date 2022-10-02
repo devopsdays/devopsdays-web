@@ -235,7 +235,7 @@ sponsors:
     level: gold
   - id: bigpanda
     level: gold
-  - id: wix
+  - id: aerospike
     level: gold
   - id: akeyless
     level: gold
@@ -259,15 +259,21 @@ sponsors:
     level: gold
   - id: elastic
     level: gold
+  - id: silverfort
+    level: gold
+  - id: netapp
+    level: gold
   - id: spectralops
     level: media
   - id: doit
     level: media
-  - id: silverfort
-    level: media
   - id: velocitytech
     level: media
+  - id: cloudify
+    level: media
   - id: statscraft
+    level: media
+  - id: iod
     level: media
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: barvazgumi
