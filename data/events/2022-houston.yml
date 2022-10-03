@@ -135,7 +135,7 @@ sponsors:
     level: silver
   - id: anjuna
     level: silver
-  - id: zoho
+  - id: site24x7
     level: gold
   - id: redhat
     level: silver
@@ -159,7 +159,9 @@ sponsors:
   - id: twosigma
     level: gold
     url: https://twosigma.avature.net/eventsignup/eventDetail/Houston-Texas-United-States-DevOps-Days-Houston-October-4th-October-5th/11503
-    
+  - id: gdg-houston
+    level: community
+
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
