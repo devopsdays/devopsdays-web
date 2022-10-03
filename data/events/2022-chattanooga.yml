@@ -91,6 +91,10 @@ sponsors:
     level: gold
   - id: vmware
     level: gold
+  - id: unum
+    level: gold
+  - id: tidelift
+    level: silver
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
