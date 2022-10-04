@@ -109,7 +109,7 @@ sponsors:
     level: streaming
   - id: hootsuite
     level: silver
-  - id: elastic
+  - id: elastic-before-20221004
     level: silver
   - id: slack
     level: silver
