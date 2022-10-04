@@ -17,7 +17,7 @@ sharing_image = "mark-freydl.png"
 <li> vscode (<a href="https://code.visualstudio.com/">https://code.visualstudio.com/</a>)</li>
 <li> docker (<a href="https://www.docker.com/products/docker-desktop">https://www.docker.com/products/docker-desktop</a>)</li>
 <li> azure-cli (<a href="https://docs.microsoft.com/en-us/cli/azure/install-azure-cli">https://docs.microsoft.com/en-us/cli/azure/install-azure-cli</a>)</li>
-<li> git (<a href="https://git-scm.com/">https://git-scm.com/)</li>
+<li> git (<a href="https://git-scm.com/">https://git-scm.com/</a>)</li>
 </ul>
 
 <hr/>
