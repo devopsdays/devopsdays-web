@@ -70,7 +70,14 @@ Some of the workshops require additional software or accounts. Please check belo
 <dd>TBD</dd>
 
 <dt><a href="/events/2022-houston/program/mark-freydl">Our Future Is Back to Our Roots: Evolving Our SDLC with No-Code DevOps and Environments-on-Demand</a></dt>
-<dd>TBD</dd>
+<dd>Bring your own laptop with the following installed:
+<ul>
+<li> nodejs (<a href="https://nodejs.org/en/">https://nodejs.org/en/</a>)</li>
+<li> vscode (<a href="https://code.visualstudio.com/">https://code.visualstudio.com/</a>)</li>
+<li> docker (<a href="https://www.docker.com/products/docker-desktop">https://www.docker.com/products/docker-desktop</a>)</li>
+<li> azure-cli (<a href="https://docs.microsoft.com/en-us/cli/azure/install-azure-cli">https://docs.microsoft.com/en-us/cli/azure/install-azure-cli</a>)</li>
+<li> git (<a href="https://git-scm.com/">https://git-scm.com/)</li>
+</ul></dd>
 </dl>
 
 <a name="Rooms"><h3>6. Where will registration/talks/workshops take place?</h3></a>
