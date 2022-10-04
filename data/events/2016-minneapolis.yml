@@ -59,7 +59,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: silver
   - id: ca_tech
     level: gold
-  - id: elastic
+  - id: elastic-before-20221004
     level: silver
   - id: sumologic-before-20181203
     level: gold

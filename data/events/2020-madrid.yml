@@ -112,7 +112,7 @@ organizer_email: "madrid@devopsdays.org" # Put your organizer email address here
 sponsors:
  - id: nexthink
    level: gold
- - id: elastic
+ - id: elastic-before-20221004
    level: gold
  - id: encamina
    level: gold
