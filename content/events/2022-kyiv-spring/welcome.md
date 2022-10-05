@@ -1,7 +1,7 @@
 +++
 Title = "DevOpsDays #StandWithUkraine"
 Type = "welcome"
-aliases = ["/events/2022-kiev-spring", "/events/2022-kyiv-spring/", "/events/2022-ukraine-spring/"]
+aliases = ["/events/2022-kiev", "/events/2022-kyiv/", "/events/2022-ukraine/", "/events/2022-kiev-spring", "/events/2022-kyiv-spring/", "/events/2022-ukraine-spring/"]
 Description = "DevOpsDays #StandWithUkraine"
 +++
 
