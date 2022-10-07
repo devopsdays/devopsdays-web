@@ -39,7 +39,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
   - name: registration
     url: https://devopsdaysce.eventize.com.br
- # - name: program
+  - name: program
   - name: speakers
   - name: sponsor
   - name: contact
@@ -175,7 +175,7 @@ organizer_email: "fortaleza@devopsdays.org" # Put your organizer email address h
 #   - id: arresteddevops
 #     level: community
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -233,27 +233,142 @@ sponsors:
   - id: energy-telecom
     level: community
     url: https://www.energytelecom.com.br/
-  # - id: globoofficial
-  #   level: silver
-  #   url: https://www.globo.com/
-  # - id: inflor
-  #   level: bronze
-  #   url: https://www.inflor.com.br/   
-  # - id: quanto
-  #   level: platinum
-  #   url: https://quan.to/   
-  # - id: globalsys
-  #   level: gold
-  #   url: https://www.globalsys.com.br/  
-  # - id: sauter
-  #   level: platinum
-  #   url: https://sauter.digital/ 
-  # - id: olist
-  #   level: silver
-  #   url: https://olist.com/pt-br/
-  # - id: autoglass
-  #   level: gold
-  #   url: https://www.autoglass.com.br/
-  # - id: quadritech
-  #   level: bronze
-  #   url: https://www.autoglass.com.br/
+
+program:
+  - title: "Credenciamento"
+    type: custom
+    date: 2022-11-05T08:00:00-03:00
+    start_time: "08:00"
+    end_time: "08:30"
+
+  - title: "rafael-gomex"
+    type: talk
+    date: 2022-11-05T08:00:00-03:00
+    start_time: "08:35"
+    end_time: "09:00"
+    background_color: "#AED6F1"
+
+  - title: "rafael-barbosa"
+    type: talk
+    date: 2022-11-05T08:00:00-03:00
+    start_time: "09:00"
+    end_time: "09:20"
+
+  - title: "camilla-martins"
+    type: custom
+    date: 2022-11-05T08:00:00-03:00
+    start_time: "09:20"
+    end_time: "09:45"
+
+  - title: "samanta-cicilia"
+    type: talk
+    date: 2022-11-05T08:00:00-03:00
+    start_time: "09:45"
+    end_time: "10:05"
+    
+  - title: "fabio-reginaldo"
+    type: talk
+    date: 2022-11-05T08:00:00-03:00
+    start_time: "10:05"
+    end_time: "10:30"
+    background_color: "#AED6F1"
+
+  - title: "tati-paya"
+    type: custom
+    date: 2022-11-05T08:00:00-03:00
+    start_time: "10:30"
+    end_time: "10:50"
+
+  - title: "michelle-ribeiro"
+    type: custom
+    date: 2022-11-05T08:00:00-03:00
+    start_time: "10:50"
+    end_time: "11:15"
+
+  - title: "victor-pasknel"
+    type: talk
+    date: 2022-11-05T08:00:00-03:00
+    start_time: "11:15"
+    end_time: "11:35"
+    background_color: "#AED6F1"
+
+  - title: "thiago-ponte"
+    type: talk
+    date: 2022-11-05T08:00:00-03:00
+    start_time: "11:35"
+    end_time: "12:00"
+
+  - title: "Almoço"
+    type: talk
+    date: 2022-11-05T08:00:00-03:00
+    start_time: "12:00"
+    end_time: "13:00"  
+
+  - title: "eduardo-matos"
+    type: talk
+    date: 2022-11-05T08:00:00-03:00
+    start_time: "13:00"
+    end_time: "13:20"
+
+  - title: "juraci-paixao"
+    type: talk
+    date: 2022-11-05T08:00:00-03:00
+    start_time: "13:20"
+    end_time: "13:40"
+
+  - title: "carlos-diego"
+    type: custom
+    date: 2022-11-05T08:00:00-03:00
+    start_time: "13:40"
+    end_time: "14:05"
+
+  - title: "daniel-romero"
+    type: custom
+    date: 2022-11-05T08:00:00-03:00
+    start_time: "14:05"
+    end_time: "14:30"
+
+  - title: "rafael-zago"
+    type: custom
+    date: 2022-11-05T08:00:00-03:00
+    start_time: "14:30"
+    end_time: "14:55"
+
+  - title: "Momento Elven Works"
+    type: talk
+    date: 2022-11-05T08:00:00-03:00
+    start_time: "14:55"
+    end_time: "15:00"
+    background_color: "#AED6F1"  
+
+  - title: "Coffebreak"
+    type: talk
+    date: 2022-11-05T08:00:00-03:00
+    start_time: "15:00"
+    end_time: "15:25"
+    background_color: "#AED6F1"
+
+  - title: "guto-carvalho"
+    type: talk
+    date: 2022-11-05T08:00:00-03:00
+    start_time: "15:25"
+    end_time: "15:45"
+    background_color: "#AED6F1" 
+
+  - title: "sebastian-webber"
+    type: custom
+    date: 2022-11-05T08:00:00-03:00
+    start_time: "15:45"
+    end_time: "16:00"
+
+  - title: "cristiano-santos"
+    type: custom
+    date: 2022-11-05T08:00:00-03:00
+    start_time: "16:00"
+    end_time: "16:20"
+
+  - title: "Encerramento"
+    type: custom
+    date: 2022-11-05T08:00:00-03:00
+    start_time: "16:20"
+    end_time: "17:00"   
