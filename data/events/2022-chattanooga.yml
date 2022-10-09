@@ -95,6 +95,15 @@ sponsors:
     level: gold
   - id: tidelift
     level: silver
+  - id: servicenow
+    level: bronze
+  - id: patriottalent
+    level: gold
+  - id: learnk8s
+    level: media
+  - id: stratusgrid
+    level: gold
+
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -112,5 +121,8 @@ sponsor_levels:
     max: 0 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
+  - id: media
+    label: media
   - id: community
     label: Community
+
