@@ -64,6 +64,8 @@ team_members:
     image: "roberth-strand.jpg"
   - name: "Recep Cetin"
     image: "recep-cetin.jpg"
+  - name: "Mike Long"
+    image: "mike-long.jpg"
 
 organizer_email: "oslo@devopsdays.org" 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
