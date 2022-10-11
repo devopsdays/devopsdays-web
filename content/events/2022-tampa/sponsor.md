@@ -124,3 +124,7 @@ Provide branded swag bag for all attendees with your name (logo). There is only 
 </table>
 
 <br/><br/>
+
+<b>Printed Materials</b>
+Please note cut off for any changes or additions to printed materail is 10/10/2022.    
+
