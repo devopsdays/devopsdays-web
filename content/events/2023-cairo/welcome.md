@@ -5,7 +5,7 @@ aliases = ["/events/2023-cairo/"]
 Description = "DevOpsDays Cairo 2023"
 +++
 <p style="text-align: left">DevOpsDays Cairo is a one-day event.<br />
-For the 5th consecutive year, SECC/ITIDA is organizing DevOpsDays Cairo 2023 in cooperation with ATOS, DXC Technology and Orange Labs.</p>
+  For the 6<sup>th</sup> consecutive year, SECC/ITIDA is organizing DevOpsDays Cairo 2023 in cooperation with ATOS, DXC Technology and Orange Labs.</p>
 <p>Follow us, adjust your calendar notifications and stay tuned!</p>
 
 
