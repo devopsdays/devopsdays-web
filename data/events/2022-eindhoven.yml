@@ -226,28 +226,28 @@ program:
     date: 2022-10-20T00:00:00+02:00
     start_time: "13:30"
     end_time: "14:00"
-  - title: "Joost Saanen - Happy DevOps teams"
+  - title: "joost-saanen"
     type: ignite
     date: 2022-10-20T00:00:00+02:00
     start_time: "13:30"
     end_time: "13:35"
-  - title: "Aman Sharma - Keep it simple stupid devops for startups"
+  - title: "aman-sharma"
     type: ignite
     date: 2022-10-20T00:00:00+02:00
     start_time: "13:35"
     end_time: "13:40"
-  - title: "Piet van Dongen - What is resilience engineering?"
+  - title: "piet-van-dongen"
     type: ignite
     date: 2022-10-20T00:00:00+02:00
     start_time: "13:45"
     end_time: "13:50"
   - title: "Ignote Slot TBD"
-    type: ignite
+    type: custom
     date: 2022-10-20T00:00:00+02:00
     start_time: "13:50"
     end_time: "13:55"
   - title: "Ignote Slot TBD"
-    type: ignite
+    type: custom
     date: 2022-10-20T00:00:00+02:00
     start_time: "13:55"
     end_time: "14:00"
