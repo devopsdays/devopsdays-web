@@ -84,20 +84,26 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
- - id: diamond
-   label: Diamante
+ - id: oro
+   label: Oro
+ - id: plata
+   label: Plata
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: assuresoft
+    level: oro
+    url: https://www.assuresoft.com/ 
   - id: univallelapaz
-    level: diamond
+    level: plata
     url: http://190.104.30.135/?page_id=454  # Use this if you need to over-ride a sponsor URL.
   - id: lpi
-    level: diamond
+    level: plata
     url: http://lpi.org
   - id: agiletalentclub
-    level: diamond
+    level: plata
     url: https://agiletalent.club/
+   
   
 
 program:
