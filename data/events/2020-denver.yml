@@ -82,7 +82,7 @@ sponsors:
     level: silver
   - id: harness
     level: silver
-  - id: elastic
+  - id: elastic-before-20221004
     level: silver
   - id: armory
     level: silver

@@ -1,7 +1,7 @@
 +++
 Title = "FAQ"
 Type = "event"
-Description = "devopsdays Houston 2021 Frequently Asked Questions"
+Description = "devopsdays Houston 2022 Frequently Asked Questions"
 +++
 
 Attending our event? Have a question? Then check out the answers to the Frequently Asked Questions below. <br/>
@@ -23,6 +23,7 @@ If you don't see an answer there, please drop us an email at [{{< email_organize
 <li><a href="#Parking">Where to park?</a></li>
 <li><a href="#Food">Will food be provided?</a></li>
 <li><a href="#Bring">What to bring</a></li>
+<li><a href="#Rooms">Where will registration/talks/workshops take place</a></li>
 <li><a href="#Communications">Communications and Collaboration</a></li>
 </ol>
 
@@ -39,10 +40,12 @@ The conference will take place at <a href="https://www.ionhouston.com/">The Ion 
 Houston, Texas 77002<br/>
 &nbsp;
 </div>
-Check out <a href="/events/2022-houston/location">Location</a> page for direction, parking situation and tips.
+Check out <a href="/events/2022-houston/location">Location</a> page for direction and parking situation.
 
 <a name="Parking"><h3>3. What is the parking situation?</h3></a>
-<i>Information coming soon</i>
+We recommend that attendees  use the tenant lot/overflow lot, as the visitor lot has very limited space.<br/>
+
+Check out <a href="/events/2022-houston/location">Location</a> page for directions and map of the parking lot(s).
 
 <a name="Food"><h3>4. Will food be provided?</h3></a>
 We will provide breakfast and boxed lunch on both days. Additionally, there will be Happy Hour on the first day, right after the event.
@@ -67,11 +70,24 @@ Some of the workshops require additional software or accounts. Please check belo
 <dd>TBD</dd>
 
 <dt><a href="/events/2022-houston/program/mark-freydl">Our Future Is Back to Our Roots: Evolving Our SDLC with No-Code DevOps and Environments-on-Demand</a></dt>
-<dd>TBD</dd>
+<dd>Bring your own laptop with the following installed:
+<ul>
+<li> nodejs (<a href="https://nodejs.org/en/">https://nodejs.org/en/</a>)</li>
+<li> vscode (<a href="https://code.visualstudio.com/">https://code.visualstudio.com/</a>)</li>
+<li> docker (<a href="https://www.docker.com/products/docker-desktop">https://www.docker.com/products/docker-desktop</a>)</li>
+<li> azure-cli (<a href="https://docs.microsoft.com/en-us/cli/azure/install-azure-cli">https://docs.microsoft.com/en-us/cli/azure/install-azure-cli</a>)</li>
+<li> git (<a href="https://git-scm.com/">https://git-scm.com/)</li>
+</ul></dd>
 </dl>
 
+<a name="Rooms"><h3>6. Where will registration/talks/workshops take place?</h3></a>
 
-<a name="Communications"><h3>6. Communications and Collaboration</h3></a>
+Registration table will be located on the first flour of the Ion. <br/>
+Most of the event (talks, sponsors, open spaces, breakfast/lunch/happy hour) will take place on the 4th floor of the Ion<br/>
+All workshops will take place on the lower level of the Ion, in Room 30-31. <br/>
+
+
+<a name="Communications"><h3>7. Communications and Collaboration</h3></a>
 <h5>Twitter & LinkedIn Announcements</h5>
 Before, during and after the event you can get announcments and stay in touch with us by following us on <a href="https://twitter.com/DevOpsDaysHTown">Twitter</a> or <a href="https://www.linkedin.com/company/devopsdays-houston">LinkedIn</a>.
 <h5>Slack Collaboration</h5>

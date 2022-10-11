@@ -176,11 +176,11 @@ program:
     type: custom
     date: 2022-09-29
     start_time: "12:10"
-    end_time: "13:25"
+    end_time: "13:20"
   - title: "Sponsors"
     type: custom
     date: 2022-09-29
-    start_time: "13:25"
+    start_time: "13:20"
     end_time: "13:30"
   - title: "jeremy-meiss"
     type: talk
@@ -193,15 +193,15 @@ program:
     start_time: "14:00"
     end_time: "14:45"
     block: "ignite"
-  - title: "Open Spaces"
-    type: open-space
-    date: 2022-09-29
-    start_time: "14:45"
-    end_time: "16:30"
   - title: "roni-dover"
     type: talk
     date: 2022-09-29
-    start_time: "16:30"
+    start_time: "14:45"
+    end_time: "15:15"
+  - title: "Open Spaces"
+    type: open-space
+    date: 2022-09-29
+    start_time: "15:15"
     end_time: "17:00"
   - title: "Closing Remarks"
     type: custom
@@ -252,11 +252,11 @@ program:
     type: custom
     date: 2022-09-30
     start_time: "12:10"
-    end_time: "13:25"
+    end_time: "13:20"
   - title: "Sponsors"
     type: custom
     date: 2022-09-30
-    start_time: "13:25"
+    start_time: "13:20"
     end_time: "13:30"
   - title: "stephen-shary"
     type: talk
@@ -278,11 +278,11 @@ program:
     date: 2022-09-30
     start_time: "15:30"
     end_time: "16:00"
-  - title: "Closing Remarks"
+  - title: "Closing Remarks + Prize Drawing"
     type: custom
     date: 2022-09-30
-    start_time: "17:00"
-    end_time: "17:15"
+    start_time: "16:00"
+    end_time: "16:30"
 
 ignites:
   - title: "jean-remi-beaudoin"
