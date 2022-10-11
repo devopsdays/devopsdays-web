@@ -15,7 +15,7 @@ The very first [devopsdays](https://devopsdays.org/about) took place in 2009 in 
 
 As the discussion went around the circle (in between short walks in the beautiful autumn air), we hit a few recurring themes concerning why our conference might not be as relevant as it once was:
 
-* 13 years is a long time. Our industry has evolved, and with it the practice of DevOps has grown. Is there still a need for grassroots conferences focused on DecOps adoption, education, and ideas?
+* 13 years is a long time. Our industry has evolved, and with it the practice of DevOps has grown. Is there still a need for grassroots conferences focused on DevOps adoption, education, and ideas?
 * The [core format](https://devopsdays.org/organizing#setting-your-program) hasn’t changed all that much. For those who need a refresher, the core format is a single track in the morning with some ignite talks thrown in and open space discussions in the afternoon.
 * Vendors and consulting firms have built an entire industry around what they call _DevOps_. Whether it's renaming a CI/CD tool to incorporate the term or a major cloud provider selling DevOps Engineer certifications, the term DevOps is certainly ubiquitous in our industry. Does it still have meaning?
 
@@ -23,14 +23,14 @@ Gathered in the sunshine, we all considered these factors carefully.
 
 ## Relevance revealed in personal stories
 
-Another discussion topic for the Amsterdam organizers’ retrospective was “Why are you here?” Answering this, each of us revealed why devopsdays events are personally relevant for us, and hence why they can be relevant for others. We each shared a bit of history around how we ended up organizing devopsdays in Amsterdam:
+Another discussion topic for the Amsterdam organizers’ retrospective was “Why are you here?”. Answering this, each of us revealed why devopsdays events are personally relevant for us, and hence why they can be relevant for others. We each shared a bit of history around how we ended up organizing devopsdays in Amsterdam:
 
 * Many of us were former attendees who appreciated learning at an event and saw organizing as a way to give back.
 * Many referenced the [open spaces](https://devopsdays.org/open-space-format/) concept as something that they appreciate about devopsdays.
 
 We also agreed that there is no other global, technology-space conference like devopsdays. Sure, there are vendor-specific conferences, and conferences organized by profit-driven event hosting companies that bear the name _DevOps_. But events created by DevOps enthusiasts with a focus on the work and the people? This is the one and only.
 
-devopsdays is a place to learn from and support each other. One organizer told us that at the 2022 conference she spoke to first-time attendees who said they no longer felt alone. One told her, “I’ve learned that what I am feeling has a word: imposter syndrome.”
+devopsdays is a place to learn from and support each other. One organizer told us that at the 2022 conference they spoke to first-time attendees who said they no longer felt alone. One told them, “I’ve learned that what I am feeling has a word: imposter syndrome.”
 
 ## devopsdays: as important as ever
 
