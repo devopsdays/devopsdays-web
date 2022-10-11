@@ -265,12 +265,12 @@ program:
     date: 2022-10-20T00:00:00+02:00
     start_time: "16:00"
     end_time: "16:25"
-  - title: "anne-jan-brouwer"
+  - title: "federico-fregosi"
     type: talk
     date: 2022-10-20T00:00:00+02:00
     start_time: "16:00"
     end_time: "16:25"
-  - title: "federico-fregosi"
+  - title: "anneke-keller"
     type: talk
     date: 2022-10-20T00:00:00+02:00
     start_time: "16:30"
@@ -302,7 +302,7 @@ program:
     date: 2022-10-21T00:00:00+02:00
     start_time: "09:15"
     end_time: "09:45"
-  - title: "brian-finster"
+  - title: "anne-jan-brouwer"
     type: talk
     date: 2022-10-21T00:00:00+02:00
     start_time: "09:45"
@@ -387,7 +387,7 @@ program:
     date: 2022-10-21T00:00:00+02:00
     start_time: "16:00"
     end_time: "16:25"
-  - title: "anneke-keller"
+  - title: "brian-finster"
     type: talk
     date: 2022-10-21T00:00:00+02:00
     start_time: "16:30"
