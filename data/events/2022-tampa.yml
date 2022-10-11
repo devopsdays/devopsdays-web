@@ -82,11 +82,11 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/troykoss/"
     twitter: ""
     role: "Lead Organizer"
-  - name: "David Neukamm"
-    employer: "Tential"
-    website: "http://www.tential.com/"
-    linkedin: "https://www.linkedin.com/in/davidneukamm/"
-    image: "davidn.jpg" 
+#  - name: "David Neukamm"
+#    employer: "Tential"
+#    website: "http://www.tential.com/"
+#    linkedin: "https://www.linkedin.com/in/davidneukamm/"
+#    image: "davidn.jpg" 
   - name: "Seni Aguiar"
     employer: "infiNetix"
     website: "https://infinetix.io/"
@@ -332,7 +332,7 @@ ignites:
   - title: "waldo-g-t1"
     date: 2022-10-21
     block: ignite-2
-  - title: "waldo-g-t2"
-    date: 2022-10-21
-    block: ignite-2
+#  - title: "waldo-g-t2"
+#    date: 2022-10-21
+#    block: ignite-2
 
