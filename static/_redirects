@@ -161,6 +161,5 @@
 /ankara/*            /events/2020-ankara/:splat           302
 /lima/*            /events/2020-lima/:splat           302
 /rosario/*            /events/2020-rosario/:splat           302
-/geneva/*		/events/2023-geneva/:splat		302
 /aarhus/*            /events/2022-aarhus/:splat           302
 /almaty/*            /events/2022-almaty/:splat           302
