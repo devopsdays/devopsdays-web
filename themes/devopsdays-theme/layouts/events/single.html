@@ -8,53 +8,61 @@
     <h2>Upcoming</h2>
   </div>
 </div>
-<div class = "row">
-  {{- $.Scratch.Set "close-tag" "false" -}}
-{{- range sort $.Site.Data.events "startdate" -}}
+
+{{ $upcoming := slice }}
+{{ $tbd := slice }}
+
+{{- range $.Site.Data.events -}}
   {{- if .startdate -}}
-  {{- if ne .cancel "true" -}}
-    {{- if ge (time .enddate) now -}}
-      {{- if ne ($.Scratch.Get "year") (dateFormat "2006" .startdate) -}}
-        {{- $.Scratch.Set "year" (dateFormat "2006" .startdate) -}}
-        {{- $.Scratch.Set "year-displayed" "false" -}}
-      {{- end -}}
-      {{- if ne ($.Scratch.Get "month") (dateFormat "January 2006" .startdate ) -}}
-        {{- $.Scratch.Set "month" (dateFormat "January 2006" .startdate ) -}}
-        {{- $.Scratch.Set "month-displayed" "false" -}}
-      {{- end -}}
-      {{- if ne ($.Scratch.Get "month-displayed") "true" -}}
-      {{- if eq ($.Scratch.Get "close-tag") "true"}}
-        </div>
-      {{- end -}}
-      <div class = "col-md-6 col-lg-3 events-page-col">
-        <h4 class="events-page-months">{{ dateFormat "January 2006" .startdate }}</h4>
-        {{- $.Scratch.Set "month-displayed" "true" -}}
-        {{- $.Scratch.Set "close-tag" "true" -}}
-      {{- end -}}
-      {{- if or (ne (time .startdate).Month (time .enddate).Month) (ne (time .startdate).Day (time .enddate).Day) -}}
-        <a href = "{{ (printf "/events/%s" .name) }}" class = "events-page-event">
-      {{ dateFormat "Jan 2" .startdate }} - {{ dateFormat "2" .enddate }}:
-      {{ .city }}
-        </a><br />
-      {{- else -}}
-      <a href = "{{ (printf "/events/%s" .name) }}" class = "events-page-event">
-        {{ dateFormat "Jan 2" .startdate }}:
-        {{ .city }}
-      </a><br />
-      {{- end -}}
+    {{- if ne .cancel "true" -}}
+      {{- if gt (time .enddate) now -}}
+        {{ $upcoming = append . $upcoming  }}
+      {{- end -}} 
     {{- end -}}
+    {{- else -}} 
+      {{- if ne .cancel "true" -}}
+        {{ $tbd = append . $tbd  }}
+      {{- end -}}
   {{- end -}}
+{{- end -}} 
+
+<div class = "row">
+{{- $.Scratch.Set "close-tag" "false" -}}
+{{- range sort $upcoming "startdate" -}}
+  {{- if ne ($.Scratch.Get "year") (dateFormat "2006" .startdate) -}}
+    {{- $.Scratch.Set "year" (dateFormat "2006" .startdate) -}}
+    {{- $.Scratch.Set "year-displayed" "false" -}}
+  {{- end -}}
+  {{- if ne ($.Scratch.Get "month") (dateFormat "January 2006" .startdate ) -}}
+    {{- $.Scratch.Set "month" (dateFormat "January 2006" .startdate ) -}}
+    {{- $.Scratch.Set "month-displayed" "false" -}}
+  {{- end -}}
+  {{- if ne ($.Scratch.Get "month-displayed") "true" -}}
+    {{- if eq ($.Scratch.Get "close-tag") "true"}}
+      </div>
+    {{- end -}}
+    <div class = "col-md-6 col-lg-3 events-page-col">
+      <h4 class="events-page-months">{{ dateFormat "January 2006" .startdate }}</h4>
+    {{- $.Scratch.Set "month-displayed" "true" -}}
+    {{- $.Scratch.Set "close-tag" "true" -}}
+  {{- end -}}
+  {{- if or (ne (time .startdate).Month (time .enddate).Month) (ne (time .startdate).Day (time .enddate).Day) -}}
+    <a href = "{{ (printf "/events/%s" .name) }}" class = "events-page-event">
+  {{ dateFormat "Jan 2" .startdate }} - {{ dateFormat "2" .enddate }}:
+  {{ .city }}
+    </a><br />
+  {{- else -}}
+  <a href = "{{ (printf "/events/%s" .name) }}" class = "events-page-event">
+    {{ dateFormat "Jan 2" .startdate }}:
+    {{ .city }}
+  </a><br />
   {{- end -}}
 {{- end -}}
 </div>
 <div class = "col-md-6 col-lg-3 events-page-col">
 <h4 class="events-page-months">TBD</h4>
-{{- range $.Site.Data.events -}}
-  {{- if not .startdate -}}
-  {{- if ne .cancel "true" -}}
+{{- range sort $tbd "city" -}}
     <a href = "{{ (printf "/events/%s" .name) }}" class = "events-page-event">{{ .city }}</a><br />
-  {{- end -}}
-  {{- end -}}
 {{- end -}}
 </div>
   </div>

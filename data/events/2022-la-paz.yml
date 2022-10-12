@@ -5,6 +5,7 @@ event_twitter: "" # Change this to the twitter handle for your event such as dev
 description: "devopsdays por primera vez en La Paz" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
+event_logo: "logo-square.jpg"
 # All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00
 #   variable: 2019-01-05T23:59:59+02:00
@@ -35,10 +36,11 @@ location: "Universidad del Valle La Paz, Torre Innovación" # Defaults to city, 
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
 # - name: locatiion
-  - name: propose
+  - name: program
+  - name: speakers
   - name: sponsor
-# - name: speakers
   - name: contact
+  - name: propose
   - name: conduct
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -58,6 +60,7 @@ team_members: # Name is the only required field for team members.
 #   image: ""  
   - name: "Marco Avendaño"
     employer: "Agile Bolivia"
+    twitter: "marcoviaweb"
 #    linkedin: ""
 #   bio: "Ingeniero electrónico con una experiencia laboral de más de 20 años en el sector tecnológico y en Gestión de Proyectos. Formador en marcos, técnicas y prácticas de la transformación ágil organizacional, forjando estrategias de crecimiento orgánico en áreas de TI, innovación, diseño, implementacion de sistemas, riesgos, transformación digital, entre otros." 
 #    image: ""    
@@ -69,12 +72,11 @@ team_members: # Name is the only required field for team members.
 #   role: "Coordinador auspicios"
   - name: "Esteban Lima"
     employer: "SEGURISK SRL"
-    image: ""  
+    twitter: "tebot"
+#    image: ""  
 #   bio: ""
-#   twitter: ""
   
 organizer_email: "lapaz@devopsdays.org" # Put your organizer email address here
-
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -82,11 +84,94 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
- - id: diamond
-   label: Diamante
+ - id: oro
+   label: Oro
+ - id: plata
+   label: Plata
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: assuresoft
+    level: oro
+    url: https://www.assuresoft.com/ 
   - id: univallelapaz
-    level: diamond
+    level: plata
     url: http://190.104.30.135/?page_id=454  # Use this if you need to over-ride a sponsor URL.
+  - id: lpi
+    level: plata
+    url: http://lpi.org
+  - id: agiletalentclub
+    level: plata
+    url: https://agiletalent.club/
+   
+  
+
+program:
+# date: 2022-10-26 (Talks)
+  - title: "milton-hilara"
+    type: talk
+    date: 2022-10-15T00:00:00-04:00
+    start_time: "09:00"
+    end_time: "09:45"
+  - title: "eric-arellano"
+    type: talk
+    date: 2022-10-15T00:00:00-04:00
+    start_time: "09:45"
+    end_time: "10:30"
+  - title: "daniela-ovando"
+    type: talk
+    date: 2022-10-15T00:00:00-04:00
+    start_time: "10:30"
+    end_time: "11:15"
+  - title: "juan-poma"
+    type: talk
+    date: 2022-10-15T00:00:00-04:00
+    start_time: "11:15"
+    end_time: "12:00"
+  - title: "esteban-lima"
+    type: talk
+    date: 2022-10-15T00:00:00-04:00
+    start_time: "12:00"
+    end_time: "12:45"
+  - title: "break"
+    type: custom
+    date: 2022-10-15T00:00:00-04:00
+    start_time: "12:45"
+    end_time: "14:00"
+  - title: "gabriel-coronado"
+    type: talk
+    date: 2022-10-15T00:00:00-04:00
+    start_time: "14:00"
+    end_time: "14:45"
+  - title: "freddy-condori"
+    type: talk
+    date: 2022-10-15T00:00:00-04:00
+    start_time: "14:45"
+    end_time: "15:30"
+  - title: "sergio-guillen"
+    type: talk
+    date: 2022-10-15T00:00:00-04:00
+    start_time: "15:30"
+    end_time: "16:15"
+
+# date: 2022-10-26 (Workshops)
+  - title: "daniel-vargas"
+    type: workshop
+    date: 2022-10-15
+    start_time: "09:45"
+    end_time: "11:15"
+  - title: "luz-canqui"
+    type: workshop
+    date: 2022-10-15
+    start_time: "11:15"
+    end_time: "12:45"
+  - title: "break"
+    type: custom
+    date: 2022-10-15
+    start_time: "12:45"
+    end_time: "14:00"
+  - title: "marco-avendano"
+    type: workshop
+    date: 2022-10-15
+    start_time: "14:00"
+    end_time: "15:30"

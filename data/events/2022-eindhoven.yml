@@ -114,7 +114,11 @@ sponsors:
     level: gold
   - id: ministerievandefensie
     level: gold
+  - id: cegeka
+    level: gold
   # lunch
+  - id: wemanity
+    level: lunch
   # lanyard
   - id: philips
     level: lanyard
@@ -142,7 +146,7 @@ sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: socialevent
+  - id: social
     label: "Social event"
     max: 1
   - id: beer
@@ -261,12 +265,12 @@ program:
     date: 2022-10-20T00:00:00+02:00
     start_time: "16:00"
     end_time: "16:25"
-  - title: ""
+  - title: "federico-fregosi"
     type: talk
     date: 2022-10-20T00:00:00+02:00
     start_time: "16:00"
     end_time: "16:25"
-  - title: "federico-fregosi"
+  - title: "anneke-keller"
     type: talk
     date: 2022-10-20T00:00:00+02:00
     start_time: "16:30"
@@ -298,7 +302,7 @@ program:
     date: 2022-10-21T00:00:00+02:00
     start_time: "09:15"
     end_time: "09:45"
-  - title: "brian-finster"
+  - title: "anne-jan-brouwer"
     type: talk
     date: 2022-10-21T00:00:00+02:00
     start_time: "09:45"
@@ -363,7 +367,7 @@ program:
     date: 2022-10-21T00:00:00+02:00
     start_time: "15:10"
     end_time: "15:45"
-  - title: "derek-smith"
+  - title: "ida-furjesova"
     type: talk
     date: 2022-10-21T00:00:00+02:00
     start_time: "15:10"
@@ -383,13 +387,13 @@ program:
     date: 2022-10-21T00:00:00+02:00
     start_time: "16:00"
     end_time: "16:25"
-  - title: "anneke-keller"
+  - title: "brian-finster"
     type: talk
     date: 2022-10-21T00:00:00+02:00
     start_time: "16:30"
     end_time: "17:00"
   - title: "Close Day"
     type: custom
-    date: 2022-10-20T00:00:00+02:00
+    date: 2022-10-21T00:00:00+02:00
     start_time: "17:00"
     end_time: "17:15"

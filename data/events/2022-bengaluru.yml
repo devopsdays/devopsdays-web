@@ -71,8 +71,24 @@ sponsors:
     level: silver
   - id: solo
     level: silver
+  - id: devtron
+    level: silver
   - id: sema
     level: diversity
+  - id: ustglobal
+    level: gold
+  - id: infracloud
+    level: gold
+  - id: sumologic
+    level: gold
+  - id: kubeevents
+    level: community
+  - id: kubecareers
+    level: community
+  - id: hasgeek
+    level: community
+  - id: zoho
+    level: platinum
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -90,17 +106,17 @@ sponsor_levels:
   - id: silver
     label: Silver
     max: 5
-  - id: student
-    label: Student
-    max: 1
   - id: diversity
     label: Diversity
     max: 1
+  - id: community
+    label: Community
+    max: 5
+  - id: student
+    label: Student
+    max: 1
   - id: party
     label: Party
-    max: 1
-  - id: video
-    label: Video
     max: 1
   - id: swag
     label: Swag

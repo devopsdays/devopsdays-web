@@ -37,9 +37,16 @@ Description = "DevOpsDays London 2022"
 
   <div class="col-md-7">
     <div class="alert alert-secondary" role="alert">
-      <h4 class="alert-heading">Coronavirus (COVID-19) information.</h4>
-      <p>For this year’s event, we’ll be implementing the following safety measures to prevent the spread of Covid. We encourage all
-        attendees to practice mask-wearing and engage in social distancing in all enclosed spaces throughout the venue. To guarantee entry, we will require either proof of vaccination status or a negative lateral flow test completed on the same day if you are unable to take the vaccine. These measures will be reviewed and updated to reflect the changing situation and number of cases as we approach the date of the conference. We’ll also be offering a virtual attendance option for those unable to attend.</p>
+      <h4 class="alert-heading">Coronavirus (COVID-19) policy.</h4>
+      <p>We are committed to provide a COVID-safe environment for all our attendees, including but not limited to Attendees, Sponsor Delegates, Volunteers, and Organising staff. We therefore ask you to comply with these measures outlined below, which may be greater than mandated in the UK at the time of the event.</p>
+      <ul>
+        <li><b>Masks should be worn at all times</b>, unless eating, drinking, or presenting a talk.</li>
+        <li>All attendees must have had a <b>negative lateral flow test</b> result each morning before arriving at the conference venue.</li>
+        <li>We encourage you to be fully vaccinated, as well as wearing a mask while travelling to the conference.</li>
+        <li>Please note that the risk profile of other attendees may be different to yours. Please respect their wishes around social distancing and physical contact.</li>
+        <li>To accommodate this policy, we will be providing you with <b>a pack of lateral flow tests</b>, and <b>two FFP2</b> masks to replace any you use while attending the conference, <b>free of charge</b>.</li>
+        <li>If you <b>test positive</b> or <b>feel ill, please do not attend</b>. We will provide you with details of our live stream and virtual event and refund you the difference between the in-person and virtual ticket prices. If you choose not to participate virtually we offer you a full refund.</li>
+      </ul>
     </div>
     <p>The first DevOpsDays was held in Ghent, Belgium in 2009. Since then, DevOpsDays events have multiplied and expanded globally with over 55 events in for 2018.</p>
     <p>DevOpsDays is a worldwide series of community run technical conferences covering topics of software development, IT infrastructure operations, and the intersection between them. It is run by volunteers from community, for the benefit of the community.
