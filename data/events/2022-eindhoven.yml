@@ -403,13 +403,13 @@ program:
     end_time: "17:15"
 
 ignites:
-  - title: "Joost Saanen"
+  - title: "joost-saanen"
     date: 2022-10-20T00:00:00+02:00
     block: ignite-1
-  - title: "Aman Sharma"
+  - title: "aman-sharma"
     date: 2022-10-20T00:00:00+02:00
     block: ignite-1
-  - title: "Piet van Dongen"
+  - title: "piet-van-dongen"
     date: 2022-10-20T00:00:00+02:00
     block: ignite-1
 #   - title: "Joost Saanen - Happy DevOps teams"
