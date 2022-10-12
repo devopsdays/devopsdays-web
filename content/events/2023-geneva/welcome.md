@@ -29,7 +29,7 @@ Description = "DevopsDays Geneva 2023"
 </style>
 
 <div style='width:100%;text-align:center;margin-bottom:2rem;'>
-  <img alt="DevOpsDays Geneva 2023" src="/events/2023-geneva/logo.png" style="max-width: 20rem;margin-right:auto;margin-left: auto;"/>
+  <img alt="DevOpsDays Geneva 2023" src="/events/2023-geneva/banner.png" style="max-width:100%;margin-right:auto;margin-left: auto;"/>
 </div>
 
 <div class = "row">
@@ -95,6 +95,14 @@ Description = "DevopsDays Geneva 2023"
   </div>
 </div>
  -->
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Newsletter</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_link page="newsletter" text="Subscribe to our newsletter for the next news !" >}}
+  </div>
+</div>
 <div class = "row">
   <div class = "col-md-2">
     <strong>Contact</strong>
