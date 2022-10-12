@@ -143,7 +143,7 @@ sponsors:
     level: gold
   #  url: "http://netascom.com/" # Use this if you need to over-ride a sponsor URL.
 
-  - id: elastic
+  - id: elastic-before-20221004
     level: gold
 
   - id: redhat

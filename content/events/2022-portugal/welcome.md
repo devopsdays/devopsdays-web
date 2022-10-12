@@ -1,5 +1,5 @@
 +++
-Title = "devopsdays portugal 2022"
+Title = "DevOpsDays Portugal 2022"
 Type = "welcome"
 aliases = ["/events/2022-portugal/"]
 Description = "devopsdays portugal 2022"
@@ -32,22 +32,22 @@ Description = "devopsdays portugal 2022"
 
   <div class="row justify-content-center">
     <div class="col-sm-2">
-      <a href="https://www.meetup.com/pt-BR/DevOps-Lisbon/"><img src="/img/sponsors/devopslisbon.png" class="img-fluid mx-auto" /></a>
+      <a href="https://devopsporto.com/"><img src="/img/sponsors/devopsporto.png" class="img-fluid mx-auto" /></a>
     </div>
     <div class="col-sm-6">
       <p><b>DevOpsDays Portugal 2022 is the second edition of the event, and it's powered by <a href="https://www.meetup.com/devopsporto/">DevOps Porto</a> and <a href="https://www.meetup.com/pt-BR/DevOps-Lisbon/">DevOps Lisbon</a>, the main communities dedicated to DevOps in Portugal.</b></p><p><b>For this edition we climbed up north and have chosen Porto as the city that will host DevOpsDays Portugal's second edition. More details ahead.</b></p>
     </div>
     <div class="col-sm-2">
-      <a href="https://devopsporto.com/"><img src="/img/sponsors/devopsporto.png" class="img-fluid mx-auto" /></a>
-    </div>
+      <a href="https://www.meetup.com/pt-BR/DevOps-Lisbon/"><img src="/img/sponsors/devopslisbon.png" class="img-fluid mx-auto" /></a>
+    </div>    
   </div>
 
   <hr style="margin:50px 0px"/>
 
   <div class="row">
     <div class = "col-md-4">
-      <h2>Propose</h2>
-      <p>The call for presentations is open for submissions until May 8th. Help us build a great event with the knowledge and experience you have to share with the community!</p>
+      <h2>Register</h2>
+      <p>Grab your ticket today and join us for two days of talks, open-spaces and networking.</p>
     </div>
     <div class = "col-md-4">
       <h2>Sponsor</h2>
@@ -61,7 +61,7 @@ Description = "devopsdays portugal 2022"
 
   <div class="row" style="margin-bottom:50px">
     <div class = "col-md-4">
-      <a href="/events/2022-portugal/propose" type="button" class="btn btn-primary btn-lg btn-block">CFP OPEN - Propose a talk!</a>
+      <a href="/events/2022-portugal/registration" type="button" class="btn btn-primary btn-lg btn-block">Register today!</a>
     </div>
     <div class = "col-md-4">
       <a href="/events/2022-portugal/sponsor" type="button" class="btn btn-primary btn-lg btn-block">Sponsor the conference!</a>

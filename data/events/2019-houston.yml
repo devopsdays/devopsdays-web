@@ -121,7 +121,7 @@ sponsors:
     level: gold
   - id: datadog
     level: gold
-  - id: influxdata
+  - id: influxdata-before-20220629
     level: gold
   - id: mongodb
     level: gold
@@ -131,7 +131,7 @@ sponsors:
     level: gold
   - id: cloudbees-before-20210804
     level: gold
-  - id: elastic
+  - id: elastic-before-20221004
     level: gold
   - id: microsoft
     level: gold

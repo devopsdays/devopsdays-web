@@ -38,14 +38,16 @@ location: # Defaults to city, but you can make it the venue name.
 location_address: #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
-  #  - name: location
+  - name: location
+  - name: program
+  - name: speakers
   - name: registration
-  #  - name: program
-  #  - name: speakers
+  - name: volunteer
   - name: sponsor
   - name: contact
   - name: conduct
+  - name: propose
+  
 #  - name: volunteers
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -53,8 +55,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Eduardo Piairo"
-    employer: "Deeper Insights"
-    bio: ""
+    employer: "Devoteam"
+    bio: "Principal DevOps Engineer @ Devoteam that enjoys building software, pipelines, and communities. The deployment pipeline is his favorite technical and cultural tool. AnythingOps approach enthusiast."
     linkedin: "linkedin.com/in/eduardopiairo"
     twitter: "EdPiairo"
     github: "eduardopiairo"
@@ -70,23 +72,23 @@ team_members: # Name is the only required field for team members.
     image: miguel-alho.jpg
   - name: "Elisete Cruz"
     employer: "Farfetch "
-    bio: ""
+    bio: "Software Engineer in Developer Productivity team @Farfetch working daily with CI environments and trying to improve the life of developers. I am passionate about DevOps culture and have always wanted to know more about it."
     linkedin: "https://pt.linkedin.com/in/elisetecruz"
     twitter: "elisetedcruz"
     github:
     website:
     image: elisete-cruz.jpg
-  - name: "Miguel Antunes"
-    employer: "Clarity AI"
+  - name: "Salim Rahim"
+    employer: "Philip Morris International "
     bio: ""
-    linkedin: "https://www.linkedin.com/in/miguelcostaantunes"
+    linkedin: "https://www.linkedin.com/in/salimrahim/"
     twitter:
-    github: "micantunes"
+    github:
     website:
-    image: miguel-antunes.jpg
+    image: salim-rahim.jpg
   - name: "Julia Lamenza"
     employer: "Independent Consultant"
-    bio: "Devops enthusiast with more than 10 years in IT. Loves to travel and study new things in your spare time."
+    bio: "Devops enthusiast with more than 10 years in IT. Loves to travel and study new things in her spare time."
     linkedin: "https://www.linkedin.com/in/julialamenza/"
     twitter: "jlamenza"
     github: "julialamenza"
@@ -94,7 +96,7 @@ team_members: # Name is the only required field for team members.
     image: julia-lamenza.jpg
   - name: "Diana Martins"
     employer: "Farfetch"
-    bio: ""
+    bio: "Lead Infrastructure Engineer @ Farfetch, focused on cloud automation and helping teams deliver their best value. DevOps culture enthusiast, automation believer, and foodie by design."
     linkedin: "https://www.linkedin.com/in/dianacmartins/"
     twitter: "dianasmartins"
     github:
@@ -102,7 +104,7 @@ team_members: # Name is the only required field for team members.
     image: diana-martins.jpg
   - name: "Ricardo Castro"
     employer: "Anova"
-    bio: ""
+    bio: "Lead Site Reliability Engineer at Anova, working daily to build high performance, reliable and scalable systems. A strong believer in culture and teamwork. Open source passionate, technical blogger and speaker, martial arts amateur, and metal lover."
     linkedin: "https://www.linkedin.com/in/ricardo-castro-9a039126/"
     twitter: "mccricardo"
     github: "mccricardo"
@@ -122,15 +124,7 @@ team_members: # Name is the only required field for team members.
     twitter: ""
     github: ""
     website: ""
-    image: 
-  - name: "Tomé Duarte"
-    employer: "Kencko"
-    bio:
-    linkedin:
-    twitter: 
-    github: 
-    website:
-    image: 
+    image: remi-dias.jpeg  
 
 
 organizer_email: "portugal@devopsdays.org" # Put your organizer email address here
@@ -138,15 +132,85 @@ organizer_email: "portugal@devopsdays.org" # Put your organizer email address he
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-# - id: edp
-#   level: gold
-# - id: outsystems
-# - id: devscope
-#   level: silver
-# - id: gfi
-#   level: bronze
-# - id: agileportugal
-#   level: community
+  - id: uphold
+    level: platinum
+  - id: bosch-portugal
+    level: platinum
+  - id: critical-techworks
+    level: gold
+  - id: xgeeks
+    level: gold
+  - id: basecone
+    level: gold
+  - id: daimler
+    level: gold
+  - id: eurotux
+    level: silver
+  - id: iss
+    level: silver
+  - id: vodafone-pt
+    level: silver
+  - id: redshiftconsulting
+    level: silver
+  - id: solo
+    level: silver
+  - id: devoteam
+    level: silver
+  - id: checkmarx
+    level: silver
+  - id: laredoute
+    level: bronze
+  - id: springernature
+    level: bronze
+  - id: coverflex
+    level: bronze
+  - id: newwork
+    level: bronze
+  - id: clevainetum
+    level: bronze
+  - id: devscope
+    level: bronze
+  - id: mkdev
+    level: bronze
+  - id: relex
+    level: bronze
+  - id: devopslisbon
+    level: community
+  - id: devopsporto
+    level: community
+  - id: agileportugal
+    level: community
+  - id: geekgirlsportugal
+    level: community
+  - id: ptwit
+    level: community
+  - id: ticeleiria
+    level: community
+  - id: qeunit
+    level: community
+  - id: netpontoporto
+    level: community
+  - id: oposec
+    level: community
+  - id: dspt
+    level: community
+  - id: oern
+    level: community
+  - id: linux-professional-institute
+    level: community
+  - id: itjobspt
+    level: community
+  - id: kubeevents
+    level: community
+#  - id: agileconnect
+#    level: community#  
+#  - id: winb
+#    level: community
+#  - id: pydata-lx
+#    level: community
+#  - id: devopsbraga
+#    level: community
+
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -169,3 +233,208 @@ sponsor_levels:
     max: 10
   - id: community
     label: Community
+
+
+program:
+  - title: "Registration"
+    type: custom
+    date: 2022-09-26
+    start_time: "08:30"
+    end_time: "09:00"
+  - title: "Welcome"
+    type: custom
+    date: 2022-09-26
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "manuel-pais"
+    type: talk
+    date: 2022-09-26
+    start_time: "09:15"
+    end_time: "10:00"
+    background_color: "#FFFA99"
+  - title: "Break, w/ a message from Uphold"
+    type: custom
+    date: 2022-09-26
+    start_time: "10:00"
+    end_time: "10:10"
+  - title: "antoine-craske"
+    type: talk
+    date: 2022-09-26
+    start_time: "10:10"
+    end_time: "10:40"
+  - title: "Coffee Break"
+    type: custom
+    date: 2022-09-26
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "rinor-maloku"
+    type: talk
+    date: 2022-09-26
+    start_time: "11:10"
+    end_time: "11:40"
+  - title: "Break, w/ a message from Critical Tech Works"
+    type: custom
+    date: 2022-09-26
+    start_time: "11:40"
+    end_time: "11:50"
+  - title: "ara-pulido"
+    type: talk
+    date: 2022-09-26
+    start_time: "11:50"
+    end_time: "12:20"
+  - title: "Break, w/ a message from xGeeks"
+    type: custom
+    date: 2022-09-26
+    start_time: "12:20"
+    end_time: "12:30"
+  - title: "bruno-amaro"
+    type: talk
+    date: 2022-09-26
+    start_time: "12:30"
+    end_time: "13:00"
+  - title: "LUNCH"
+    type: custom
+    date: 2022-09-26
+    start_time: "13:00"
+    end_time: "15:00"
+  - title: "Afternoon kickoff"
+    type: custom
+    date: 2022-09-26
+    start_time: "15:00"
+    end_time: "15:10"
+  - title: "Ignite Talks"
+    type: ignite
+    date: 2022-09-26
+    start_time: "15:10"
+    end_time: "15:35"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2022-09-26
+    start_time: "15:35"
+    end_time: "16:00"
+  - title: "Open Space Discussions #1"
+    type: open-space
+    date: 2022-09-26
+    start_time: "16:00"
+    end_time: "16:20"
+  - title: "Open Space Discussions #2"
+    type: open-space
+    date: 2022-09-26
+    start_time: "16:20"
+    end_time: "16:40"
+  - title: "Open Space Discussions #3"
+    type: open-space
+    date: 2022-09-26
+    start_time: "16:40"
+    end_time: "17:00"
+  - title: "Wrap-up of the Day / Exit Coffee"
+    type: custom
+    date: 2022-09-26
+    start_time: "17:00"
+    end_time: "18:00"
+  #
+  #DAY2
+  #
+  - title: "Registration"
+    type: custom
+    date: 2022-09-27
+    start_time: "08:30"
+    end_time: "09:00"
+  - title: "Welcome"
+    type: custom
+    date: 2022-09-27
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "mark-schwartz"
+    type: talk
+    date: 2022-09-27
+    start_time: "09:15"
+    end_time: "10:00"
+    background_color: "#FFFA99"
+  - title: "Break, w/ a message from Bosch"
+    type: custom
+    date: 2022-09-27
+    start_time: "10:00"
+    end_time: "10:10"
+  - title: "valarie-regas"
+    type: talk
+    date: 2022-09-27
+    start_time: "10:10"
+    end_time: "10:40"
+  - title: "Coffee Break"
+    type: custom
+    date: 2022-09-27
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "kirill-shirinkin"
+    type: talk
+    date: 2022-09-27
+    start_time: "11:10"
+    end_time: "11:40"
+  - title: "Break, w/ a message from Basecone"
+    type: custom
+    date: 2022-09-27
+    start_time: "11:40"
+    end_time: "11:50"
+  - title: "matheus-paes"
+    type: talk
+    date: 2022-09-27
+    start_time: "11:50"
+    end_time: "12:20"
+  - title: "Break, w/ a message from tb.lx"
+    type: custom
+    date: 2022-09-27
+    start_time: "12:20"
+    end_time: "12:30"
+  - title: "philipp-krenn2"
+    type: talk
+    date: 2022-09-27
+    start_time: "12:30"
+    end_time: "13:00"
+  - title: "LUNCH"
+    type: custom
+    date: 2022-09-27
+    start_time: "13:00"
+    end_time: "15:00"
+  - title: "Afternoon kickoff"
+    type: custom
+    date: 2022-09-27
+    start_time: "15:00"
+    end_time: "15:10"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2022-09-27
+    start_time: "15:10"
+    end_time: "15:40"
+  - title: "Open Space Discussions #1"
+    type: open-space
+    date: 2022-09-27
+    start_time: "15:40"
+    end_time: "16:00"
+  - title: "Open Space Discussions #2"
+    type: open-space
+    date: 2022-09-27
+    start_time: "16:00"
+    end_time: "16:20"
+  - title: "Open Space Discussions #3"
+    type: open-space
+    date: 2022-09-27
+    start_time: "15:20"
+    end_time: "16:40"
+  - title: "Wrap-up and Goodbyes"
+    type: custom
+    date: 2022-09-27
+    start_time: "16:40"
+    end_time: "17:00"
+
+ignites:
+  - title: "philipp-krenn"
+    date: "2022-09-26"
+  - title: "naomi-kriger"
+    date: "2022-09-26"
+  - title: "sarjeel-yusuf"
+    date: "2022-09-26"
+  - title: "yuri-sa"
+    date: "2022-09-26"
+  - title: "joao-vale"
+    date: "2022-09-26"

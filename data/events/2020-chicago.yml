@@ -152,7 +152,7 @@ sponsors:
     level: community
   - id: launch-darkly-before-20210518
     level: gold
-  - id: appdynamics
+  - id: appdynamics-before-20220714
     level: gold
   - id: braintree
     level: gold
@@ -170,7 +170,7 @@ sponsors:
     level: gold
   - id: tigera
     level: gold
-  - id: IITCOC
+  - id: iitcoc
     level: community
   - id: jfrog
     level: gold

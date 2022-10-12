@@ -96,7 +96,7 @@ sponsors:
   - id: adrianroselli
     level: community
     url: http://adrianroselli.com
-  - id: newrelic
+  - id: newrelic-before-20220808
     level: silver
     url: https://newrelic.com
   - id: bcbswny
@@ -114,7 +114,7 @@ sponsors:
     level: silver
   - id: tito
     level: community
-  - id: appdynamics
+  - id: appdynamics-before-20220714
     level: silver
   - id: linkedinlearning
     level: community

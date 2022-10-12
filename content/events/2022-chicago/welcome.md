@@ -5,12 +5,16 @@ aliases = ["/events/2022-chicago/"]
 Description = "DevOpsDays Chicago is coming back in 2022! The group that brought you DevOpsDays Chicago 2014-2019 is back together and planning the 2022 event.  We're encouraged by the feedback from previous year's events and are determined to bring an improved experience and continue the DevOps conversation for 2022 in Chicago."
 +++
 
+{{< youtube Syo5yAmHCVw >}}
+<br><br>
+or <a href = "https://www.youtube.com/watch?v=Syo5yAmHCVw">go directly to the stream on YouTube!</a>
+
 <div class = "row">
   <div class = "col-md-6 push-md-6">
 	  <div class="row">
   		<div class="alert alert-info" role="alert">
     			<h2>COVID-19</h2>
-    			<p>While we are making every attempt to hold an in-person event in 2022, we recognize that the ongoing pandemic may affect this plan, but we are not making any specific policy regarding attendance to this event at this time. The health and well-being of our attendees is of paramount importance, so we reserve the right to apply reasonable attendance requirements in accordance with local or federal guidance as the event draws closer.  We also reserve the right to cancel completely, or change to a virtual event, if the in-person event cannot be held safely.</p>
+    			<p>While we are making every attempt to hold an in-person event in 2022, we recognize that the ongoing pandemic may affect this plan. The health and well-being of our attendees is of paramount importance, so we reserve the right to apply reasonable attendance requirements in accordance with local or federal guidance. {{< event_link page="covid-19-policy" text="You can read our 2022 COVID-19 policy here" >}}. We also reserve the right to cancel completely, or change to a virtual event, if the in-person event cannot be held safely.</p>
   		</div>
 	</div>
 
@@ -80,20 +84,36 @@ The organizers of DevOpsDays Chicago believe that the community is stronger when
             <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Contact the Organizers
           </a>
         </div>
-        </div>
-      </div>
-    </div> <!-- end a content element -->
-        <!-- <div class = "row">
-      <div class = "col-md-12">
-        <div class = "row justify-content-center">
-          <div class = "d-flex p-2">
+                  <div class = "d-flex p-2">
             <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="/events/2022-chicago/program">
               <i class="fa fa-book fa-lg"></i>&nbsp;&nbsp;&nbsp;View the Program
             </a>
           </div>
         </div>
       </div>
-    </div> end a content element -->
+    </div> <!-- end a content element -->
+    <div class = "row">
+      <div class = "col-md-12">
+        <div class = "row justify-content-center">
+          <div class = "d-flex p-2">
+            <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="/events/2022-chicago/covid">
+              <i class="fa fa-heartbeat fa-lg"></i>&nbsp;&nbsp;&nbsp;COVID-19 Policy
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class = "row">
+      <div class = "col-md-12">
+        <div class = "row justify-content-center">
+          <div class = "d-flex p-2">
+            <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="/events/2022-chicago/register">
+              <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Register for the Conference
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
 <h2>The DevOps Yak is Back!</h2>
 <img src = "/events/2022-chicago/yak.png" class = "img-fluid">
 

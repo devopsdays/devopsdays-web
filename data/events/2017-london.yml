@@ -72,7 +72,7 @@ sponsors:
     level: silver
   - id: 4armed
     level: bronze
-  - id: hashicorp
+  - id: hashicorp-before-20220811
     level: bronze
   - id: nuagenetworks
     level: bronze
@@ -112,7 +112,7 @@ sponsors:
     level: bronze 
   - id: rancher-before-20190812
     level: bronze 
-  - id: elastic
+  - id: elastic-before-20221004
     level: bronze 
   - id: intellimentsec
     level: bronze

@@ -66,11 +66,11 @@ sponsors:
     level: gold
   - id: pivotal-before-20190307
     level: gold
-  - id: elastic
+  - id: elastic-before-20221004
     level: gold
   - id: chef-before-20210112
     level: gold
-  - id: stackstate
+  - id: stackstate-before-22062022
     level: gold
   - id: thoughtworks-gocd-before-20190213
     level: gold
@@ -127,19 +127,19 @@ sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: bbq
     label: "Evening Event"
-    max: "1"
+    max: 1
   - id: preevent
     label: "Pre Event Social"
-    max: "1"
+    max: 1
   - id: beer
     label: Beer
-    max: "1"
+    max: 1
   - id: gold
     label: Gold
-    max: "8"
+    max: 8
   - id: silver
     label: Silver
-    max: "4"
+    max: 4
   - id: bronze
     label: Bronze
-    max: "8"
+    max: 8

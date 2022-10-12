@@ -1,7 +1,7 @@
 +++
 Title = "Ara Pulido"
 Twitter = "twitter.com/arapulido"
-image = "Ara-Pulido.png"
+image = "ara-pulido.png"
 type = "speaker"
 linktitle = "Ara-Pulido"
 LinkedIn = "https://es.linkedin.com/in/arapulido"

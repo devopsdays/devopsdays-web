@@ -1,7 +1,7 @@
 +++
 Title = "Tim van de Keer"
 Twitter = "TimvandeKeer"
-image = "Tim_van_de_Keer.jpeg"
+image = "tim_van_de_keer.jpeg"
 type = "speaker"
 linktitle = "tim-van-de-keer"
 

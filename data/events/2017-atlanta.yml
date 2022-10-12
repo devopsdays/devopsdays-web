@@ -53,7 +53,7 @@ proposal_email: "proposals-atlanta-2017@devopsdays.org" # Put your proposal emai
 sponsors:
   - id: mailchimp
     level: social
-  - id: gcp
+  - id: gcp-before-20220712
     level: social			
   - id: opsgenie
     level: gold
@@ -66,9 +66,9 @@ sponsors:
     level: gold
   - id: chef-before-20210112
     level: gold
-  - id: gcp
+  - id: gcp-before-20220712
     level: gold
-  - id: newrelic
+  - id: newrelic-before-20220808
     level: gold
   - id: redhat-before-20190528
     level: gold

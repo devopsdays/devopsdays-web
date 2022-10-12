@@ -67,7 +67,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: beverage
   - id: tek-systems
     level: bronze
-  - id: elastic
+  - id: elastic-before-20221004
     level: gold
   - id: interactive-resources
     level: bronze

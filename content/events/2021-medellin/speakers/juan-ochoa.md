@@ -1,7 +1,7 @@
 +++
 Title = "Juan Andrés Ochoa"
 #Twitter = "http://twitter.com/thedavedev"
-image = "Juan-Ochoa.png"
+image = "juan-ochoa.png"
 type = "speaker"
 linktitle = "Juan-Ochoa"
 LinkedIn = "https://co.linkedin.com/in/cristianmurillovillegas"

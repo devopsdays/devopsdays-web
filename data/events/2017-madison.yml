@@ -70,7 +70,7 @@ sponsors:
     level: gold
   - id: appdynamics-before-20180316
     level: gold
-  - id: elastic
+  - id: elastic-before-20221004
     level: gold
   - id: morpheus_data
     level: gold
@@ -90,7 +90,7 @@ sponsors:
     level: silver
   - id: swamp
     level: silver
-  - id: newrelic
+  - id: newrelic-before-20220808
     level: silver
   - id: cloudbolt
     level: gold

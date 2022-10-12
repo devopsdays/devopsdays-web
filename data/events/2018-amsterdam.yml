@@ -10,8 +10,8 @@ startdate: 2018-06-27T00:00:00+02:00
 enddate: 2018-06-29T23:59:59+02:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2018-01-15T00:00:00+01:00  # start accepting talk proposals.
-cfp_date_end:  2018-04-01T23:59:59+02:00 # close your call for proposals.
+cfp_date_start: 2018-01-15T00:00:00+01:00 # start accepting talk proposals.
+cfp_date_end: 2018-04-01T23:59:59+02:00 # close your call for proposals.
 cfp_date_announce: 2018-04-30T00:00:00+02:00 # inform proposers of status
 
 cfp_open: "false"
@@ -43,7 +43,6 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
-
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
@@ -89,18 +88,18 @@ proposal_email: "proposals-amsterdam-2018@devopsdays.org" # Put your proposal em
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-# Beer
-  - id: newrelic
+  # Beer
+  - id: newrelic-before-20220808-before-20220808
     level: beer
-# Coffee
+  # Coffee
   - id: leaseweb
     level: coffee
-# Golds
+  # Golds
   - id: schubergphilis
     level: gold
-  - id: stackstate
+  - id: stackstate-before-22062022
     level: gold
-  - id: newrelic
+  - id: newrelic-before-20220808-before-20220808
     level: gold
   - id: pivotal-before-20190307
     level: gold
@@ -116,10 +115,10 @@ sponsors:
     level: gold
   - id: mesosphere
     level: gold
-# Recharge
+  # Recharge
   - id: linkit-50th
     level: recharge
-# Silvers
+  # Silvers
   - id: olindata-before-20190919
     level: silver
   - id: mirabeau
@@ -130,16 +129,16 @@ sponsors:
     level: silver
   - id: innspire
     level: silver
-  - id: elastic
+  - id: elastic-before-20221004
     level: silver
   - id: sumologic-before-20181203
     level: silver
   - id: fastly
     level: silver
-# Lanyard
+  # Lanyard
   - id: devon
     level: lanyard
-# Bronze
+  # Bronze
   - id: fullstaq-before-20190414
     level: bronze
   - id: s0l1dheroes
@@ -156,10 +155,10 @@ sponsors:
     level: bronze
   - id: openebs
     level: bronze
-  - id: portworx
+  - id: portworx-before-20220630
     level: bronze
-   # url: https://schubergphilis.com # Use this if you need to over-ride a sponsor URL.
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+    # url: https://schubergphilis.com # Use this if you need to over-ride a sponsor URL.
+sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -168,34 +167,34 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: coffee
     label: "Coffee"
-    max: "1"
+    max: 1
   - id: beer
     label: Beer
-    max: "1"
+    max: 1
   - id: gold
     label: Gold
-    max: "10"
+    max: 10
   - id: recharge
     label: "Power recharge"
-    max: "1"
+    max: 1
   - id: silver
     label: Silver
-    max: "7"
+    max: 7
   - id: lanyard
     label: "Lanyard"
-    max: "1"
+    max: 1
   - id: bronze
     label: Bronze
 
 # Program
 program:
-# workshop day
+  # workshop day
   - title: "Registration (workshop day)"
     type: custom
     date: 2018-06-27
     start_time: "08:00"
     end_time: "09:00"
-#9:00 to 11:30
+  #9:00 to 11:30
   - title: "michael-hausenblas"
     type: workshop
     date: 2018-06-27
@@ -226,19 +225,19 @@ program:
     start_time: "09:00"
     end_time: "11:30"
     comments: "Location: Workspace"
-#  - title: "james-pavey-1"
-#    type: workshop
-#    date: 2018-06-27
-#    start_time: "09:00"
-#    end_time: "11:30"
-#    comments: "Location: TBD"
-# Lunch
+  #  - title: "james-pavey-1"
+  #    type: workshop
+  #    date: 2018-06-27
+  #    start_time: "09:00"
+  #    end_time: "11:30"
+  #    comments: "Location: TBD"
+  # Lunch
   - title: "Lunch Express (Fast) Break"
     type: custom
     date: 2018-06-27
     start_time: "11:30"
     end_time: "12:00"
-# 12:00 to 14:30
+  # 12:00 to 14:30
   - title: "andy-repton"
     type: workshop
     date: 2018-06-27
@@ -270,14 +269,14 @@ program:
     end_time: "14:30"
     comments: "Location: Workspace"
 
-# break
+  # break
   - title: "Break"
     type: custom
     date: 2018-06-27
     start_time: "14:30"
     end_time: "14:45"
 
-# 14:45 to 17:15
+  # 14:45 to 17:15
   - title: "bridget-kromhout-ws"
     type: workshop
     date: 2018-06-27
@@ -302,7 +301,7 @@ program:
     start_time: "14:45"
     end_time: "17:15"
     comments: "Location: Expo"
-# end of day
+  # end of day
   - title: "Have a beer on us!"
     type: custom
     date: 2018-06-27
@@ -310,8 +309,7 @@ program:
     end_time: "18:30"
     comments: "Pakhuis de Zwijger bar"
 
-
-# day 1
+  # day 1
   - title: "Registration"
     type: custom
     date: 2018-06-28
@@ -415,7 +413,7 @@ program:
     end_time: "21:00"
     comments: "Location: Pakhuis de Zwijger courtyard"
 
-# day 2
+  # day 2
   - title: "Registration, Breakfast, and Sponsor Booths Open"
     type: custom
     date: 2018-06-29

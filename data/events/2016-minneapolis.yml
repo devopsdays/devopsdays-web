@@ -59,7 +59,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: silver
   - id: ca_tech
     level: gold
-  - id: elastic
+  - id: elastic-before-20221004
     level: silver
   - id: sumologic-before-20181203
     level: gold
@@ -91,7 +91,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: saucelabs
     level: silver
-  - id: newrelic
+  - id: newrelic-before-20220808
     level: gold
   - id: wheniwork
     level: silver
@@ -121,7 +121,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: community
   - id: blacksintechnology
     level: community
-  - id: hackthegap
+  - id: hackthegap-before-20220707
     level: community
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.

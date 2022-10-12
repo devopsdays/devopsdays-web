@@ -101,13 +101,13 @@ sponsors:
   - id: flowtraders
     level: silver
     url: "https://www.flowtraders.com/"
-  - id: googlecloud
+  - id: googlecloud-before-20220526
     level: silver
     url: "https://cloud.google.com/gcp/"
   - id: showmax
     level: bronze
     url: "https://www.showmax.com/"   
-  - id: elastic
+  - id: elastic-before-20221004
     level: bronze
     url: "https://www.elastic.co/"      
   - id: iteraio

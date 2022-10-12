@@ -4,6 +4,7 @@ Type = "welcome"
 aliases = ["/events/2022-buffalo/"]
 Description = "DevOpsDays Buffalo is back for another unique conference experience!"
 +++
+
 <style type="text/css">
 .bflo {
   display: flex;
@@ -65,17 +66,16 @@ Description = "DevOpsDays Buffalo is back for another unique conference experien
 <div class="bflo">
 
 <div class="showcase">
-<img src="/events/2022-buffalo/showcase.png">
-<p><a href="../registration/"><button>Register</button></a></p>
-<p><a href="https://sessionize.com/devops-days-buffalo/"><button>Submit a talk</button></a></p>
+<img src="/events/2022-buffalo/sharing/showcase.png">
+<p><a href="https://ti.to/devops-days-buffalo/2022"><button>Register</button></a></p>
+<p><a href="../location/"><button>Get venue info</button></a></p>
 <p><a href="../sponsor/"><button>Sponsor</button></a></p>
 <p><a href="../contact/"><button>Contact</button></a></p>
 </div>
 
 <div class="sidebar">
-<h1>Our CFP is now open!</h1>
-<p>Do you have DevOps knowledge or story you'd like to share? <a href="https://sessionize.com/devops-days-buffalo/">Submit
-a talk</a> and become one of our speakers this year!</p>
+<h1>Registration is now open!</h1>
+<p>Get your <a href="https://ti.to/devops-days-buffalo/2022">tickets</a> and join us for some great talks this September!</p>
 <h2>DevOps Days Buffalo is back for our fourth year!</h2>
 <p>In year one we were in a beautiful castle, and then - during the pandemic
 - we shifted to online in order to continue bringing speakers and participants together despite all odds. In year three we
@@ -91,11 +91,17 @@ development and IT operations (and everything in between). Throughout this time,
 to listen to a series of curated talks and ignites regarding automation, testing, security, organizational culture,
 and more. Additionally, they will be able to take part in group-organized “open spaces” that will allow them to discuss
 any topic selected by the group as a collective.</p>
-</div>
-</div>
 
+<h2>Let's Talk About COVID-19</h2>
+<p>Due to anticipated changes to the COVID-19 guidelines, we will be requiring attendees to wear masks and maintain social distancing during the event.</p>
+<p><strong>Related:</strong></p>
+<ul>
+  <li><a href="https://www.cdc.gov/coronavirus/2019-ncov/index.html" target="_blank">Center for Disease Control</a></li>
+  <li><a href="http://www2.erie.gov/health/index.php?q=coronavirus" target="_blank">Erie County Department of Health</a></li>
+</ul>
+</div>
+</div>
 
 <!-- Uncomment if you added your city twitter name -->
 
 <!-- {{< event_twitter >}} -->
-

@@ -1,7 +1,7 @@
 +++
 Title = "Kat Liu"
 Twitter = "kaatloo"
-image = "Kat_Liu.jpg"
+image = "kat_liu.jpg"
 type = "speaker"
 linktitle = "kat-liu"
 

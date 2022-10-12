@@ -77,7 +77,7 @@ sponsors:
     level: gold
   - id: puppet
     level: gold
-  - id: influxdata
+  - id: influxdata-before-20220629
     level: gold
   - id: cloudbees-before-20210804
     level: gold
@@ -85,7 +85,7 @@ sponsors:
     level: gold
   - id: chef-before-20210112
     level: gold
-  - id: elastic
+  - id: elastic-before-20221004
     level: gold
   - id: pagerduty-before-20190930
     level: gold
@@ -95,7 +95,7 @@ sponsors:
     level: gold
   - id: slalom-build
     level: gold
-  - id: hashicorp
+  - id: hashicorp-before-20220811
     level: gold
   - id: dynatrace
     level: gold

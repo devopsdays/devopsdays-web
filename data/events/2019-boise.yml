@@ -105,7 +105,7 @@ sponsors:
     level: silver
   - id: microsoft
     level: hh
-  - id: elastic
+  - id: elastic-before-20221004
     level: silver
   - id: dynatrace
     level: silver

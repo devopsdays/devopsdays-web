@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Stories from the trenches – democratizing security with modern development"
 Type = "talk"
 Speakers = ["aakash-shah"]
+sharing_image = "aakash-shah.png"
 +++
 As modern development practices have gained greater adoption, developers are increasingly being empowered to own the entire release management lifecycle of the product. Their charter has been to drive higher business velocity and agility. However, the fast and frequent changes to applications have made it challenging for security teams to keep up. Security often gets viewed as a roadblock. And when developers move forward without security guidance, applications get deployed with potentially inherent security flaws.  The friction between the Security and Development teams this creates further silos the two teams and negatively impacts the organization’s culture.
 

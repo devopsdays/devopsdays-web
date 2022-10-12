@@ -324,7 +324,7 @@ sponsors:
     level: platinum
   - id: palantir
     level: platinum
-  - id: googlecloud
+  - id: googlecloud-before-20220526
     level: platinum
   - id: signalfx
     level: platinum
@@ -332,7 +332,7 @@ sponsors:
     level: platinum
   - id: capitalone
     level: platinum
-  - id: appdynamics
+  - id: appdynamics-before-20220714
     level: platinum
   - id: circleci
     level: gold
@@ -345,7 +345,7 @@ sponsors:
   - id: gitlab-before-20220516
     level: gold
     url: "https://about.gitlab.com/"
-  - id: newrelic
+  - id: newrelic-before-20220808
     level: gold
   - id: collabnet-versionone
     level: gold

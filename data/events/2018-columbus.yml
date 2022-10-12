@@ -108,11 +108,11 @@ sponsors:
     level: gold
   - id: cardinalsolutions
     level: gold
-  - id: newrelic
+  - id: newrelic-before-20220808
     level: gold
   - id: nationwide
     level: silver
-  - id: elastic
+  - id: elastic-before-20221004
     level: silver
   - id: netjets
     level: bronze
