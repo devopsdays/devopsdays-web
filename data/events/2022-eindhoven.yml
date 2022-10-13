@@ -108,7 +108,7 @@ sponsors:
   # gold
   - id: kabisa
     level: gold
-  - id: cert2connect
+  - id: cert2connect-checkmarx
     level: gold
   - id: sysdig
     level: gold
@@ -129,6 +129,10 @@ sponsors:
     level: silver
   - id: cloudshapers
     level: silver
+  - id: cyso
+    level: silver
+  - id: microsoft
+    level: silver
   # bronze
   - id: o11y
     level: bronze
@@ -137,6 +141,10 @@ sponsors:
   - id: ogd
     level: bronze
   - id: stream
+    level: bronze
+  - id: itility
+    level: bronze
+  - id: software-improvement-group
     level: bronze
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
