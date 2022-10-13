@@ -4,6 +4,7 @@ city: "Montréal" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsmontreal" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "Devopsdays is coming to Montreal! The current CFP round is now closed." # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+event_group: "Montréal"
 
 # All dates are in unquoted 2022-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00
@@ -55,8 +56,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # The images should be placed in the `static/events/2022-montreal/organizers` directory (which the `add_organizers.sh` script will do).
 team_members: # Name is the only required field for team members.
   - name: "Christina Di Maio"
-    image: ""
-    bio: ""
+    image: "christina-di-maio.png"
+    bio: "Event Manager at OVHcloud by day, my friends and family keep my head out of the clouds to plan all their special events when I’m not working. Marketing and event planning are my passions, I also bake a pretty mean macaron!  With a Bachelor’s degree in business from HEC Montréal I’ve always worked in B2B marketing and tried to bring different ideas to life while sharing the tech industry through my eyes.  After all, you can put glitter on anything!"
     role: ""
     employer: "OVHcloud"
     github: ""
@@ -70,6 +71,14 @@ team_members: # Name is the only required field for team members.
     github: "idcrosby"
     twitter: "IanDCrosby"
     linkedin: ""
+  - name: "Joost Polley"
+    image: ""
+    bio: ""
+    role: ""
+    employer: ""
+    github: ""
+    twitter: ""
+    linkedin: ""
   - name: "Julia Simon"
     image: ""
     bio: ""
@@ -79,8 +88,8 @@ team_members: # Name is the only required field for team members.
     twitter: "JuliaSimon14"
     linkedin: "https://www.linkedin.com/in/jsimon14"
   - name: "Lise-Andrée Duperré"
-    image: ""
-    bio: ""
+    image: "lise.jpg"
+    bio: "As marketing manager, I have been bringing my energy and determination to Gologic’s DevOps community for over 6 years. I am involved in a number of initiatives to boost sales and build our brand, including lead generation strategies, social media and event planning. Alongside this exciting career, I am an outdoors enthusiast and enjoy running. Oh, and I forgot—I love chocolate. :)"
     role: ""
     employer: "Gologic"
     github: ""
@@ -159,6 +168,10 @@ sponsors:
   - id: sherweb
     level: silver
   - id: slalom
+    level: silver
+  - id: f5
+    level: silver
+  - id: elastic
     level: silver
   - id: appdynamics
     level: bronze
@@ -373,8 +386,8 @@ program:
     date: 2022-10-27
     start_time: "13:15"
     end_time: "13:20"
-  - title: "Talk to be announced"
-    type: custom
+  - title: "andrea-dobson"
+    type: talk
     date: 2022-10-27
     start_time: "13:25"
     end_time: "13:50"

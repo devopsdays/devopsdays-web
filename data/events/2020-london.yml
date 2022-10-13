@@ -116,7 +116,7 @@ sponsors:
   # Gold
   # - id: circleci
   #   level: gold
-  # - id: elastic
+  # - id: elastic-before-20221004
   #   level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

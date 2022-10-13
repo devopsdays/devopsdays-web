@@ -12,4 +12,4 @@ An event like this requires a good deal of effort, especially on the event day. 
 
 Beyond that, you can expect to see most of the talks and participate in the Open Spaces.
 
-Interested? Sign up using this [Volunteer Google Form](https://docs.google.com/forms/d/e/1FAIpQLSd9Ldc-fT1uV-TRWtUfpB0hj9rgYP0LpTj36vI1BFlVwAvGbQ/viewform)
+(volunteer signup is now closed)

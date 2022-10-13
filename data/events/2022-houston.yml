@@ -43,6 +43,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: speakers
   - name: sponsor
   - name: contact
+  - name: faq
   - name: conduct
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
@@ -134,7 +135,7 @@ sponsors:
     level: silver
   - id: anjuna
     level: silver
-  - id: zoho
+  - id: site24x7
     level: gold
   - id: redhat
     level: silver
@@ -151,6 +152,15 @@ sponsors:
     level: gold
   - id: nobl9
     level: gold
+  - id: opscruise
+    level: silver
+  - id: reversinglabs
+    level: platinum
+  - id: twosigma
+    level: gold
+    url: https://twosigma.avature.net/eventsignup/eventDetail/Houston-Texas-United-States-DevOps-Days-Houston-October-4th-October-5th/11503
+  - id: gdg-houston
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -167,7 +177,7 @@ sponsor_levels:
     max: 10
   - id: silver
     label: Silver
-    max: 10 
+    max: 7 
   - id: startup
     label: Startup Corner
     max: 10
@@ -215,6 +225,7 @@ program:
     date: 2022-10-04
     start_time: "10:45"
     end_time: "12:00"   
+    comments: "&nbsp; &nbsp; *Where*: Room 30-31 on the lower level"
   - title: "sean-odell"
     type: talk
     date: 2022-10-04
@@ -251,6 +262,7 @@ program:
     date: 2022-10-04
     start_time: "14:15"
     end_time: "15:30"  
+    comments: "&nbsp; &nbsp; *Where*: Room 30-31 on the lower level"
   - title: "matthew-brahms"
     type: talk
     date: 2022-10-04
@@ -329,6 +341,7 @@ program:
     date: 2022-10-05
     start_time: "10:45"    
     end_time: "12:00"   
+    comments: "&nbsp; &nbsp; *Where*: Room 30-31 on the lower level"
   - title: "tim-rayburn"
     type: talk
     date: 2022-10-05
@@ -364,6 +377,7 @@ program:
     date: 2022-10-05
     start_time: "14:15"
     end_time: "15:30"   
+    comments: "&nbsp; &nbsp; *Where*: Room 30-31 on the lower level"
   - title: "angel-rivera"
     type: talk
     date: 2022-10-05

@@ -107,7 +107,7 @@ sponsors:
   - id: showmax
     level: bronze
     url: "https://www.showmax.com/"   
-  - id: elastic
+  - id: elastic-before-20221004
     level: bronze
     url: "https://www.elastic.co/"      
   - id: iteraio

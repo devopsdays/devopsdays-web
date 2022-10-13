@@ -38,10 +38,10 @@ Please see our <a href="https://assets.devopsdays.org/events/2022/houston/devops
 </style>
 <tr>
 	<th style="text-align:left"><i>Packages</i><sup>*</sup></th>
-	<th>HOU Startup Corner*<br/>(Limit 10)</th>
-	<th>Silver<br/>(Limit 10 <sup>&dagger;</sup>)</th>
-	<th>Gold<br/>(Limit 10 <sup>&dagger;</sup>)</th>
-	<th>Platinum<br/>(Limit 4<sup>&dagger;</sup>)</th>
+	<th>HOU Startup Corner*</th>
+	<th>Silver</th>
+	<th>Gold</th>
+	<th>Platinum</th>
 </tr>
 <tr>
 	<th style="text-align:left">Pricing</th>
@@ -53,16 +53,18 @@ Please see our <a href="https://assets.devopsdays.org/events/2022/houston/devops
 <tr>
 	<th style="text-align:left">Pay Now</th>
 	<th valign="top"><center>
-	<span class="btn btn-warning btn-sm">Email us</span>
+	<span class="btn btn-danger btn-sm">Sold Out</span>
 	</center>
 	</th>
 	<th valign="top"><center>
+	<!--
 	<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 		<input type="hidden" name="cmd" value="_s-xclick">
 		<input type="hidden" name="hosted_button_id" value="KNZDLHRPGPJGL">
 		<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 		<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-	</form>
+	</form>-->
+	<span class="btn btn-danger btn-sm">Sold Out</span>
 	</center></th>
 	<th valign="top"><center>
 	<!--
@@ -75,7 +77,7 @@ Please see our <a href="https://assets.devopsdays.org/events/2022/houston/devops
 	<span class="btn btn-danger btn-sm">Sold Out</span> 
 	</center></th>
 	<th valign="top"><center>
-	<span class="btn btn-warning btn-sm">Email us</span>
+	<span class="btn btn-danger btn-sm">Sold Out</span>
 	<!--
 	<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 		<input type="hidden" name="cmd" value="_s-xclick">

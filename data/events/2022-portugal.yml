@@ -55,8 +55,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Eduardo Piairo"
-    employer: "Deeper Insights"
-    bio: ""
+    employer: "Devoteam"
+    bio: "Principal DevOps Engineer @ Devoteam that enjoys building software, pipelines, and communities. The deployment pipeline is his favorite technical and cultural tool. AnythingOps approach enthusiast."
     linkedin: "linkedin.com/in/eduardopiairo"
     twitter: "EdPiairo"
     github: "eduardopiairo"
@@ -72,7 +72,7 @@ team_members: # Name is the only required field for team members.
     image: miguel-alho.jpg
   - name: "Elisete Cruz"
     employer: "Farfetch "
-    bio: ""
+    bio: "Software Engineer in Developer Productivity team @Farfetch working daily with CI environments and trying to improve the life of developers. I am passionate about DevOps culture and have always wanted to know more about it."
     linkedin: "https://pt.linkedin.com/in/elisetecruz"
     twitter: "elisetedcruz"
     github:
@@ -85,7 +85,7 @@ team_members: # Name is the only required field for team members.
     twitter:
     github:
     website:
-    image:
+    image: salim-rahim.jpg
   - name: "Julia Lamenza"
     employer: "Independent Consultant"
     bio: "Devops enthusiast with more than 10 years in IT. Loves to travel and study new things in her spare time."
@@ -96,7 +96,7 @@ team_members: # Name is the only required field for team members.
     image: julia-lamenza.jpg
   - name: "Diana Martins"
     employer: "Farfetch"
-    bio: ""
+    bio: "Lead Infrastructure Engineer @ Farfetch, focused on cloud automation and helping teams deliver their best value. DevOps culture enthusiast, automation believer, and foodie by design."
     linkedin: "https://www.linkedin.com/in/dianacmartins/"
     twitter: "dianasmartins"
     github:
@@ -104,7 +104,7 @@ team_members: # Name is the only required field for team members.
     image: diana-martins.jpg
   - name: "Ricardo Castro"
     employer: "Anova"
-    bio: ""
+    bio: "Lead Site Reliability Engineer at Anova, working daily to build high performance, reliable and scalable systems. A strong believer in culture and teamwork. Open source passionate, technical blogger and speaker, martial arts amateur, and metal lover."
     linkedin: "https://www.linkedin.com/in/ricardo-castro-9a039126/"
     twitter: "mccricardo"
     github: "mccricardo"
@@ -124,15 +124,7 @@ team_members: # Name is the only required field for team members.
     twitter: ""
     github: ""
     website: ""
-    image: 
-  - name: "Tomé Duarte"
-    employer: "Kencko"
-    bio:
-    linkedin:
-    twitter: 
-    github: 
-    website:
-    image: 
+    image: remi-dias.jpeg  
 
 
 organizer_email: "portugal@devopsdays.org" # Put your organizer email address here
@@ -159,6 +151,12 @@ sponsors:
   - id: vodafone-pt
     level: silver
   - id: redshiftconsulting
+    level: silver
+  - id: solo
+    level: silver
+  - id: devoteam
+    level: silver
+  - id: checkmarx
     level: silver
   - id: laredoute
     level: bronze
@@ -248,7 +246,7 @@ program:
     date: 2022-09-26
     start_time: "09:00"
     end_time: "09:15"
-  - title: "charity-majors"
+  - title: "manuel-pais"
     type: talk
     date: 2022-09-26
     start_time: "09:15"
@@ -308,11 +306,11 @@ program:
     type: ignite
     date: 2022-09-26
     start_time: "15:10"
-    end_time: "15:30"
+    end_time: "15:35"
   - title: "Open Space Opening"
     type: open-space
     date: 2022-09-26
-    start_time: "15:30"
+    start_time: "15:35"
     end_time: "16:00"
   - title: "Open Space Discussions #1"
     type: open-space
@@ -368,7 +366,7 @@ program:
     date: 2022-09-27
     start_time: "10:40"
     end_time: "11:10"
-  - title: "manuel-pais"
+  - title: "kirill-shirinkin"
     type: talk
     date: 2022-09-27
     start_time: "11:10"
@@ -388,7 +386,7 @@ program:
     date: 2022-09-27
     start_time: "12:20"
     end_time: "12:30"
-  - title: "filipi-pires"
+  - title: "philipp-krenn2"
     type: talk
     date: 2022-09-27
     start_time: "12:30"
@@ -437,4 +435,6 @@ ignites:
   - title: "sarjeel-yusuf"
     date: "2022-09-26"
   - title: "yuri-sa"
+    date: "2022-09-26"
+  - title: "joao-vale"
     date: "2022-09-26"

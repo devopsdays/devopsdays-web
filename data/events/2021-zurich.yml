@@ -205,7 +205,7 @@ sponsors:
     level: partner 
   - id: cycloid
     level: silver
-  - id: elastic
+  - id: elastic-before-20221004
     level: silver
   - id: cloudbees
     level: gold

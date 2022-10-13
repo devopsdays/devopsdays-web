@@ -52,7 +52,6 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Quintessence Anx"
-    employer: "Vivanti"
     bio: "Quintessence has worked in the IT community for over 10 years, including as a database administrator and a DevOps / Cloud / Infrastructure engineer. She was also a core contributor to Stark & Wayne’s SHIELD project, which adds backup functionality to Cloud Foundry, as well as a technical reviewer for Learning Go Programming published by Packt Publishing. Currently she is a Developer Advocate, focusing on community engagement related to DevOps. Outside of work she is a leader and co-founder of Inclusive Tech Buffalo to help underrepresented groups in tech launch careers in development. Headshot by [Olga Nelioubov](https://www.olganelioubov.com/)"
     twitter: "QuintessenceAnx"
     image: "quintessence.jpg"
@@ -87,14 +86,22 @@ sponsors:
     level: gold
   - id: avesha
     level: silver
+  - id: checkpoint
+    level: silver
+  - id: foundrydigital
+    level: silver
   - id: vivanti
     level: silver
   - id: circleci
     level: captioning
   - id: packt
     level: media
+  - id: bestpractical
+    level: bronze
   - id: jms
     level: badge
+  - id: bsidesbflo
+    level: community
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -118,9 +125,6 @@ sponsor_levels:
   - id: bronze
     label: Bronze
     max: 10
-  - id: snack
-    label: Snack
-    max: 1
   - id: badge
     label: Badge
     max: 1
@@ -158,12 +162,12 @@ program:
     date: 2022-09-29
     start_time: "10:50"
     end_time: "11:00"
-  - title: "scott-ernst"
+  - title: "pj-hagerty"
     type: talk
     date: 2022-09-29
     start_time: "11:00"
     end_time: "11:30"
-  - title: "dave-anderson"
+  - title: "kris-nova"
     type: talk
     date: 2022-09-29
     start_time: "11:40"
@@ -172,11 +176,11 @@ program:
     type: custom
     date: 2022-09-29
     start_time: "12:10"
-    end_time: "13:25"
+    end_time: "13:20"
   - title: "Sponsors"
     type: custom
     date: 2022-09-29
-    start_time: "13:25"
+    start_time: "13:20"
     end_time: "13:30"
   - title: "jeremy-meiss"
     type: talk
@@ -189,15 +193,15 @@ program:
     start_time: "14:00"
     end_time: "14:45"
     block: "ignite"
-  - title: "Open Spaces"
-    type: open-space
-    date: 2022-09-29
-    start_time: "14:45"
-    end_time: "16:30"
   - title: "roni-dover"
     type: talk
     date: 2022-09-29
-    start_time: "16:30"
+    start_time: "14:45"
+    end_time: "15:15"
+  - title: "Open Spaces"
+    type: open-space
+    date: 2022-09-29
+    start_time: "15:15"
     end_time: "17:00"
   - title: "Closing Remarks"
     type: custom
@@ -248,11 +252,11 @@ program:
     type: custom
     date: 2022-09-30
     start_time: "12:10"
-    end_time: "13:25"
+    end_time: "13:20"
   - title: "Sponsors"
     type: custom
     date: 2022-09-30
-    start_time: "13:25"
+    start_time: "13:20"
     end_time: "13:30"
   - title: "stephen-shary"
     type: talk
@@ -274,11 +278,11 @@ program:
     date: 2022-09-30
     start_time: "15:30"
     end_time: "16:00"
-  - title: "Closing Remarks"
+  - title: "Closing Remarks + Prize Drawing"
     type: custom
     date: 2022-09-30
-    start_time: "17:00"
-    end_time: "17:15"
+    start_time: "16:00"
+    end_time: "16:30"
 
 ignites:
   - title: "jean-remi-beaudoin"
