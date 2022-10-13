@@ -102,14 +102,14 @@ Description = "Speakers, sessions, ignites, meals"
                         </td>
                         <td>
                             <div class="col-lg-4">
-                                <a href="/events/2022-des-moines/speakers/nate-adams/">
-                                    <img class="img img-circle" src="/events/2022-des-moines/speakers/nate-adams.png" height="60px"
+                                <a href="/events/2022-des-moines/speakers/kevin-sutherland/">
+                                    <img class="img img-circle" src="/events/2022-des-moines/speakers/kevin-sutherland.png" height="60px"
                                         width="60px" alt="">
                                 </a>
                                 <h4>Nate Adams</h4>
                             </div>
                             <div class="col-lg-8">
-                                <a href="/events/2022-des-moines/program/nate-adams/">Everything I Learned About When to be Agile I
+                                <a href="/events/2022-des-moines/program/kevin-sutherland/">Everything I Learned About When to be Agile I
                                     Learned Playing Video Games</a>
                             </div>
                         </td>
