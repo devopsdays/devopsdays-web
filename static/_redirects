@@ -38,7 +38,7 @@
 /florianopolis/*	/events/2019-florianopolis/:splat	302
 /fortaleza/*		/events/2022-fortaleza/:splat		302
 /galway/*		/events/2019-galway/:splat		302
-/geneva/*		/events/2022-geneva/:splat		302
+/geneva/*		/events/2023-geneva/:splat		302
 /ghent/*		/events/2019-ghent/:splat		302
 /goiania/*		/events/2023-goiania/:splat		302
 /goteborg/*		/events/2011-goteborg/:splat		302
@@ -161,6 +161,5 @@
 /ankara/*            /events/2020-ankara/:splat           302
 /lima/*            /events/2020-lima/:splat           302
 /rosario/*            /events/2020-rosario/:splat           302
-/geneva/*		/events/2021-geneva/:splat		302
 /aarhus/*            /events/2022-aarhus/:splat           302
 /almaty/*            /events/2022-almaty/:splat           302
