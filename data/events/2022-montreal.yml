@@ -27,6 +27,10 @@ registration_date_end: 2022-10-28T00:00:00-04:00 # close registration. Leave bla
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://www.eventbrite.ca/e/billets-devopsdays-montreal-2022-59525692950" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
+
+masthead_background: "montreal-background.jpg"
+sharing_image: "DevOpsDaysMTL-sharing.png"
+
 # Location
 #
 coordinates: "45.503718,-73.561053" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
