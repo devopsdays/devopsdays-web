@@ -159,8 +159,9 @@ sponsors:
     level: silver
   - id: slalom
     level: silver
-  - id: f5
+  - id: f5-nginx
     level: silver
+    url: https://www.f5.com
   - id: elastic
     level: silver
   - id: appdynamics
