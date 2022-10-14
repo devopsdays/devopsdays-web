@@ -22,9 +22,9 @@ Description = "Speakers, sessions, ignites, meals"
                 <thead>
                     <tr>
                         <th class="col-time">Schedule</th>
-                        <th>DevOps Track 1</th>
-                        <th>DevOps Track 2</th>
-                        <th>Agile Track</th>
+                        <th><div>DevOps Track 1</div><div>Room 312/313</div></th>
+                        <th><div>DevOps Track 2</div><div>Room 314/315</div></th>
+                        <th><div>Agile Track</div><div>Room 304/305</div></th>
                     </tr>
                 </thead>
                 <tbody>
@@ -102,15 +102,14 @@ Description = "Speakers, sessions, ignites, meals"
                         </td>
                         <td>
                             <div class="col-lg-4">
-                                <a href="/events/2022-des-moines/speakers/nate-adams/">
-                                    <img class="img img-circle" src="/events/2022-des-moines/speakers/nate-adams.png" height="60px"
+                                <a href="/events/2022-des-moines/speakers/kevin-sutherland/">
+                                    <img class="img img-circle" src="/events/2022-des-moines/speakers/kevin-sutherland.png" height="60px"
                                         width="60px" alt="">
                                 </a>
-                                <h4>Nate Adams</h4>
+                                <h4>Kevin Sutherland</h4>
                             </div>
                             <div class="col-lg-8">
-                                <a href="/events/2022-des-moines/program/nate-adams/">Everything I Learned About When to be Agile I
-                                    Learned Playing Video Games</a>
+                                <a href="/events/2022-des-moines/program/kevin-sutherland/">How do we bring agility to large government organizations? Seriously…how do we?</a>
                             </div>
                         </td>
                     </tr>
