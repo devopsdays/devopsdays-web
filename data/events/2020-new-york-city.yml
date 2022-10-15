@@ -174,7 +174,7 @@ sponsors:
     level: silver
   - id: circleci
     level: social
-  - id: paloaltonetworks-before-20221014
+  - id: paloaltonetworks
     level: social
   - id: redis-labs
     level: silver

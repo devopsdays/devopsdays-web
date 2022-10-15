@@ -172,9 +172,8 @@ sponsors:
     level: bronze
   - id: gologic
     level: bronze
-  - id: paloaltonetworks
+  - id: prisma-cloud
     level: bronze
-    url: https://www.paloaltonetworks.com/prisma/cloud
   - id: desjardins
     level: lunch
   - id: appdirect
