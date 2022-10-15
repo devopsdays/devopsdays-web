@@ -29,7 +29,6 @@ location_address: "Rebel, Universitetsgata 2, 0164 Oslo"
 coordinates: "59.917514204671214, 10.740498310563055"
 
 nav_elements:
-  - name: propose
   - name: location
   - name: registration
  # - name: program
@@ -78,4 +77,8 @@ sponsors:
   - id: eficode
     level: event
   - id: kosli
+    level: event
+  - id: pwc
+    level: event
+  - id: safespring
     level: event
