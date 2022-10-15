@@ -168,7 +168,7 @@ sponsor_levels:
     max: 2
   - id: platinum
     label: Platinum
-    max: 9 # This is the same as omitting the max limit.
+    max: 11 # This is the same as omitting the max limit.
   - id: swagbag
     label: Swag Bag
     max: 1
