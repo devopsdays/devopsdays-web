@@ -149,7 +149,7 @@ sponsors:
   - id: software-improvement-group
     level: bronze
 
-sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted: "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -416,7 +416,7 @@ ignites:
   - title: "joost-saanen"
     date: 2022-10-20T00:00:00+02:00
     block: ignite-1
-  - title: "aman-sharma"
+  - title: "esther-barthel-i"
     date: 2022-10-20T00:00:00+02:00
     block: ignite-1
   - title: "piet-van-dongen"
