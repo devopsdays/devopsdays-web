@@ -108,13 +108,15 @@ sponsors:
   # gold
   - id: kabisa
     level: gold
-  - id: cert2connect
+  - id: cert2connect-checkmarx
     level: gold
   - id: sysdig
     level: gold
   - id: ministerievandefensie
     level: gold
   - id: cegeka
+    level: gold
+  - id: stormforge
     level: gold
   # lunch
   - id: wemanity
@@ -129,6 +131,10 @@ sponsors:
     level: silver
   - id: cloudshapers
     level: silver
+  - id: cyso
+    level: silver
+  - id: microsoft
+    level: silver
   # bronze
   - id: o11y
     level: bronze
@@ -137,6 +143,10 @@ sponsors:
   - id: ogd
     level: bronze
   - id: stream
+    level: bronze
+  - id: itility
+    level: bronze
+  - id: software-improvement-group
     level: bronze
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -220,11 +230,15 @@ program:
     date: 2022-10-20T00:00:00+02:00
     start_time: "12:30"
     end_time: "13:30"
+
+  # Ignites day one
   - title: "Ignites"
-    type: custom
+    type: ignite
     date: 2022-10-20T00:00:00+02:00
     start_time: "13:30"
     end_time: "14:00"
+    block: ignite-1
+
   - title: "Open Space Opening"
     type: custom
     date: 2022-10-20T00:00:00+02:00
@@ -397,3 +411,39 @@ program:
     date: 2022-10-21T00:00:00+02:00
     start_time: "17:00"
     end_time: "17:15"
+
+ignites:
+  - title: "joost-saanen"
+    date: 2022-10-20T00:00:00+02:00
+    block: ignite-1
+  - title: "aman-sharma"
+    date: 2022-10-20T00:00:00+02:00
+    block: ignite-1
+  - title: "piet-van-dongen"
+    date: 2022-10-20T00:00:00+02:00
+    block: ignite-1
+#   - title: "Joost Saanen - Happy DevOps teams"
+#     type: ignite
+#     date: 2022-10-20T00:00:00+02:00
+#     start_time: "13:30"
+#     end_time: "13:35"
+#   - title: "Aman Sharma - Keep it simple stupid devops for startups"
+#     type: ignite
+#     date: 2022-10-20T00:00:00+02:00
+#     start_time: "13:35"
+#     end_time: "13:40"
+#   - title: "Piet van Dongen - What is resilience engineering?"
+#     type: ignite
+#     date: 2022-10-20T00:00:00+02:00
+#     start_time: "13:45"
+#     end_time: "13:50"
+#   - title: "Ignote Slot TBD"
+#     type: ignite
+#     date: 2022-10-20T00:00:00+02:00
+#     start_time: "13:50"
+#     end_time: "13:55"
+#   - title: "Ignote Slot TBD"
+#     type: ignite
+#     date: 2022-10-20T00:00:00+02:00
+#     start_time: "13:55"
+#     end_time: "14:00"

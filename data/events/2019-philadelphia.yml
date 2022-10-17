@@ -75,7 +75,7 @@ organizer_email: "organizers-philadelphia-2019@devopsdays.org"
 proposal_email: "proposals-philadelphia-2019@devopsdays.org"
 
 sponsors:
-  - id: contrast_security
+  - id: contrast_security-before-20221014
     level: platinum
   - id: googlecloud-before-20220526
     level: platinum
