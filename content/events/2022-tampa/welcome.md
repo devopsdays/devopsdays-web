@@ -43,7 +43,7 @@ Description = "devopsdays Tampa Bay 2022"
     </div>
     <p>DevOpsDays is a worldwide series of community run technical conferences covering topics of software development, IT infrastructure operations, and the intersection between them. It is run by volunteers from community, for the benefit of the community.  We are not a commercial conference and we believe that our focus on serving the community creates a truly unique experience for both delegates and sponsors.
     </p>
-    <p>We expect 250 people this year and will be holding the event on October 21st at the USF Campus in Saint Petersburg Florida.</p>
+    <p>We expect 200 people this year and will be holding the event on October 21st at the USF Campus in Saint Petersburg Florida.</p>
     {{< event_twitter >}}
   </div>
 </div>
