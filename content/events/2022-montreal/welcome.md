@@ -1,8 +1,8 @@
 +++
-Title = "devopsdays Montreal 2022"
+Title = "DevOpsDays Montreal 2022"
 Type = "welcome"
 aliases = ["/events/2022-montreal/"]
-Description = "devopsdays Montreal 2022"
+Description = "DevOpsDays Montrèal is coming back in 2022!"
 +++
 
 <!-- <div style="text-align:center;">
