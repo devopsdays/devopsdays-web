@@ -27,6 +27,10 @@ registration_date_end: 2022-10-28T00:00:00-04:00 # close registration. Leave bla
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://www.eventbrite.ca/e/billets-devopsdays-montreal-2022-59525692950" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
+
+masthead_background: "montreal-background.jpg"
+sharing_image: "montreal-sharing.png"
+
 # Location
 #
 coordinates: "45.503718,-73.561053" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
@@ -36,13 +40,13 @@ location_address: "1001 Pl. Jean-Paul-Riopelle, Montreal, Quebec H2Z 1H5" #Optio
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
- # - name: location
+  - name: location
   - name: registration
   - name: program
   - name: speakers
   - name: sponsor
-  - name: Become a sponsor
-    url: https://assets.devopsdays.org/events/2022/montreal/SponsorshipDeck2022pdf.pdf
+  # - name: Become a sponsor
+  #   url: https://assets.devopsdays.org/events/2022/montreal/SponsorshipDeck2022pdf.pdf
   - name: contact
   - name: conduct
 # - name: Call for Proposals
@@ -153,21 +157,22 @@ sponsors:
     level: gold
   - id: cloudbees
     level: gold
-  - id: isaac-instruments
-    level: gold
   - id: containersolutions
     level: silver
   - id: sherweb
     level: silver
   - id: slalom
     level: silver
-  - id: f5
+  - id: f5-nginx
     level: silver
+    url: https://www.f5.com
   - id: elastic
     level: silver
   - id: appdynamics
     level: bronze
   - id: gologic
+    level: bronze
+  - id: prisma-cloud
     level: bronze
   - id: desjardins
     level: lunch
@@ -175,12 +180,14 @@ sponsors:
     level: cocktail
   - id: morgan-stanley
     level: lanyard
+  - id: cloudops
+    level: coffee
   - id: arresteddevops
     level: community
   - id: "agile-montreal"
     level: community
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -276,7 +283,7 @@ program:
     date: 2022-10-26
     start_time: "13:25"
     end_time: "13:50"
-  - title: "samira-barouti"
+  - title: "To be announced"
     type: talk
     date: 2022-10-26
     start_time: "13:55"
@@ -383,7 +390,7 @@ program:
     date: 2022-10-27
     start_time: "13:25"
     end_time: "13:50"
-  - title: "stan-malinowski"
+  - title: "To be announced"
     type: talk
     date: 2022-10-27
     start_time: "13:55"
