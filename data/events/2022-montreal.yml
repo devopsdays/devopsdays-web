@@ -101,7 +101,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/michael-mccliment-77b8939b"
   - name: "Sydney Pagliuca"
     image: "sydney-pagliuca.jpg"
-    bio: "I am a student at McGill University enrolled in the Bachelor of Education. As I progress through my degree, work, and teaching experiences, so does my love for education.I consider myself to be a kind, reliable, patient, and personable individual with a strong motivation to succeed. I enjoy working on projects, learning new things, making new mistakes, and teaching others. I have a particular and keen interest in space and technology, and am always questioning and exploring, with a lot to still to learn - I 💜 🍫"
+    bio: "I am a student at McGill University enrolled in the Bachelor of Education program. As I progress through my degree, work, and teaching experiences, so does my love for education.I consider myself to be a kind, reliable, patient, and personable individual with a strong motivation to succeed. I enjoy working on projects, learning new things, making new mistakes, and teaching others. I have a particular and keen interest in space and technology, and am always questioning and exploring, with a lot to still to learn - I 💜 🍫"
     role: ""
     employer: ""
     github: ""
