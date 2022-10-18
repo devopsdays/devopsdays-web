@@ -31,7 +31,11 @@ Description = "Diversity for devopsdays zurich 2022"
     </p>
     <p>&nbsp;</p>
     <p>
-      We believe in promoting equal opportunities for diverse talents in the IT industry. DevOpsDays Zurich supports the empowering of  refugees & migrants for an IT career with a partnership with powercoders.<a href="https://www.powercoders.ch"><img src="/events/2023-zurich/community_powercoders.png"/></a>
+      We believe in promoting equal opportunities for diverse talents in the IT industry. DevOpsDays Zurich supports the empowering of refugees & migrants for an IT career with a partnership with powercoders.<a href="https://www.powercoders.ch"><img src="/events/2023-zurich/community_powercoders.png"/></a>
+    </p>
+    <p>&nbsp;</p>
+    <p>
+      We encourage girls to discover coding and explore a career in tech. DevOpsDays Zurich supports GirlsCodeToo, a non-profit organization, sparking talent and curiosity by introducing girls to software tools, different coding languages and processes that are used to build apps, games, websites, and robots.<a href="https://girlscodetoo.ch"><img src="/events/2023-zurich/girls_code_too.png"/></a>
     </p>
   </div>
 </div>
