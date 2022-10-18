@@ -361,7 +361,7 @@ program:
     start_time: "10:25"
     end_time: "10:55"
   - title: "Ignites"
-    type: custom
+    type: ignite
     date: 2022-10-27
     start_time: "10:55"
     end_time: "11:20"
@@ -439,3 +439,7 @@ program:
     date: 2022-10-27
     start_time: "16:55"
     end_time: "17:15"
+
+ignites:
+  - title: "julien-dort"
+    date: 2022-10-27
