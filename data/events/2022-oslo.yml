@@ -31,7 +31,7 @@ coordinates: "59.917514204671214, 10.740498310563055"
 nav_elements:
   - name: location
   - name: registration
- # - name: program
+  - name: program
   - name: speakers
   - name: sponsor
   - name: contact
