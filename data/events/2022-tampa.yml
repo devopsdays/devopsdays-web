@@ -99,6 +99,11 @@ team_members: # Name is the only required field for team members.
     website: "http://zpgroup.com"
     linkedin: "https://www.linkedin.com/in/carly-partington-9470b53b/"
     image: "carlypartington.jpg"
+  - name: "Bjorn Edwin"
+    employer: "Liatrio"
+    website: "https://www.liatrio.com/insights"
+    linkedin: "https://www.linkedin.com/in/bjornedwin/"
+    image: "bjornedwin.jpg"
 
 organizer_email: "tampa@devopsdays.org" # Put your organizer email address here
 
