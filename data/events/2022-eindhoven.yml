@@ -254,7 +254,7 @@ program:
     date: 2022-10-20T00:00:00+02:00
     start_time: "14:45"
     end_time: "15:10"
-  - title: "rachid-kherrazi"
+  - title: "federico-fregosi"
     type: talk
     date: 2022-10-20T00:00:00+02:00
     start_time: "14:45"
@@ -276,11 +276,6 @@ program:
     end_time: "16:00"
   - title: "Open Space #3"
     type: custom
-    date: 2022-10-20T00:00:00+02:00
-    start_time: "16:00"
-    end_time: "16:25"
-  - title: "federico-fregosi"
-    type: talk
     date: 2022-10-20T00:00:00+02:00
     start_time: "16:00"
     end_time: "16:25"
@@ -425,9 +420,7 @@ ignites:
   - title: "pieter-lange"
     date: 2022-10-20T00:00:00+02:00
     block: ignite-1
-  - title: "richard-bown"
-    date: 2022-10-20T00:00:00+02:00
-    block: ignite-1
+
 #   - title: "Joost Saanen - Happy DevOps teams"
 #     type: ignite
 #     date: 2022-10-20T00:00:00+02:00
