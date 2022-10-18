@@ -392,7 +392,7 @@ program:
     date: 2022-10-27
     start_time: "13:25"
     end_time: "13:50"
-  - title: "To be announced"
+  - title: "deniz-onur"
     type: talk
     date: 2022-10-27
     start_time: "13:55"
@@ -444,4 +444,6 @@ program:
 
 ignites:
   - title: "julien-dort"
+    date: 2022-10-27
+  - title: "françois-rouxel"
     date: 2022-10-27
