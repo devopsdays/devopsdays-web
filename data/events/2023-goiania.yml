@@ -113,8 +113,14 @@ organizer_email: "goiania@devopsdays.org" # Put your organizer email address her
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: samplesponsorname
-    level: gold
+  - id: devopsgo
+    level: community
+  - id: docker-goiania
+    level: community
+  - id: override
+    level: community
+  - id: aws-user-group-goiania
+    level: community
   #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
