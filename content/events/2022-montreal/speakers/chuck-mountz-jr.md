@@ -1,6 +1,6 @@
 +++
 Title = "Chuck Mountz Jr"
-image = ""
+image = "chuck-mountz-jr.jpg"
 type = "speaker"
 linktitle = "chuck-mountz-jr"
 Website = "https://chuckmountzjr.com/"
