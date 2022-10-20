@@ -191,12 +191,12 @@ program:
   - title: "Breakfast"
     type: custom
     date: 2022-10-21
-    start_time: "07:30"
+    start_time: "08:00"
     end_time: "09:00"
   - title: "Registration"
     type: custom
     date: 2022-10-21
-    start_time: "07:30"
+    start_time: "08:00"
     end_time: "08:30"
   - title: "Opening"
     type: custom
