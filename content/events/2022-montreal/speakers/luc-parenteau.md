@@ -1,11 +1,11 @@
 +++
 Title = "Luc Parenteau"
-image = ""
+image = "luc-parenteau.jpg"
 type = "speaker"
 linktitle = "luc-parenteau"
 Website = ""
 Facebook = ""
-Linkedin = ""
+Linkedin = "luc-parenteau"
 Pronouns = ""
 Github = ""
 Twitter = ""
