@@ -260,8 +260,8 @@ program:
     date: 2022-10-26
     start_time: "10:55"
     end_time: "11:20"
-  - title: "sarjeel-yusuf"
-    type: talk
+  - title: "To be announced"
+    type: custom
     date: 2022-10-26
     start_time: "11:25"
     end_time: "11:50"
@@ -286,7 +286,7 @@ program:
     start_time: "13:25"
     end_time: "13:50"
   - title: "To be announced"
-    type: talk
+    type: custom
     date: 2022-10-26
     start_time: "13:55"
     end_time: "14:20"
