@@ -420,6 +420,10 @@ ignites:
   - title: "pieter-lange"
     date: 2022-10-20T00:00:00+02:00
     block: ignite-1
+  - title: "toshaan-bharvani"
+    date: 2022-10-20T00:00:00+02:00
+    block: ignite-1
+
 
 #   - title: "Joost Saanen - Happy DevOps teams"
 #     type: ignite
