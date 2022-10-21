@@ -188,6 +188,16 @@ sponsor_levels:
     label: Community
 
 program:
+  - title: "Breakfast"
+    type: custom
+    date: 2022-10-21
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Registration"
+    type: custom
+    date: 2022-10-21
+    start_time: "08:00"
+    end_time: "08:30"
   - title: "Opening"
     type: custom
     date: 2022-10-21
@@ -298,13 +308,13 @@ program:
   - title: "Open Spaces DevOps"
     type: open-space
     date: 2022-10-21
-    start_time: "14:50"
-    end_time: "15:25"
+    start_time: "14:45"
+    end_time: "15:20"
   - title: "Open Spaces Security"
     type: open-space
     date: 2022-10-21
-    start_time: "14:50"
-    end_time: "15:25"
+    start_time: "14:45"
+    end_time: "15:20"
 
   - title: "Session 5"
     type: custom
@@ -312,20 +322,20 @@ program:
   - title: "marcos-diez-t1"
     type: talk
     date: 2022-10-21
-    start_time: "15:30"
-    end_time: "16:10"
+    start_time: "15:25"
+    end_time: "16:05"
     comments: "Location: The Platform"
   - title: "jessica-gonser-t1"
     type: talk
     date: 2022-10-21
-    start_time: "15:30"
-    end_time: "16:10"
+    start_time: "15:25"
+    end_time: "16:05"
     comments: "Location: The Vault"
   - title: "Closing"
     type: custom
     date: 2022-10-21
-    start_time: "16:20"
-    end_time: "16:30"
+    start_time: "16:15"
+    end_time: "16:40"
     comments: "Location: Main Hall"
 
 ignites:
