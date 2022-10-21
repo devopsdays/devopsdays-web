@@ -201,15 +201,15 @@ program:
   - title: "Opening"
     type: custom
     date: 2022-10-21
-    start_time: "08:30"
-    end_time: "08:40"
+    start_time: "08:50"
+    end_time: "09:00"
 
   - title: "aaron-rinehart-kn"
     type: talk
     date: 2022-10-21
     background_color: "#FFFA99"
-    start_time: "08:40"
-    end_time: "09:30"
+    start_time: "09:00"
+    end_time: "09:50"
     comments: "Location: Main Hall"
 
     
@@ -219,14 +219,14 @@ program:
   - title: "adarsh-shah-t1"
     type: talk
     date: 2022-10-21
-    start_time: "09:45"
-    end_time: "10:25"
+    start_time: "10:10"
+    end_time: "10:50"
     comments: "Location: The Platform"
   - title: "gabriel-liechtman-manor-t1"
     type: talk
     date: 2022-10-21
-    start_time: "09:45"
-    end_time: "10:25"
+    start_time: "10:10"
+    end_time: "10:50"
     comments: "Location: The Vault"
 
   - title: "Session 2"
@@ -235,14 +235,14 @@ program:
   - title: "marino-wijay-t1"
     type: talk
     date: 2022-10-21
-    start_time: "10:35"
-    end_time: "11:15"
+    start_time: "10:55"
+    end_time: "11:35"
     comments: "Location: The Platform"
   - title: "jim-barton-t1"
     type: talk
     date: 2022-10-21
-    start_time: "10:35"
-    end_time: "11:15"
+    start_time: "10:55"
+    end_time: "11:35"
     comments: "Location: The Vault"
 
   - title: "Lightning Talks"
@@ -251,22 +251,22 @@ program:
   - title: "Ignites DevOps"
     type: ignite
     date: 2022-10-21
-    start_time: "11:25"
-    end_time: "12:10"
+    start_time: "11:40"
+    end_time: "12:20"
     block: ignite-1
     comments: "Location: The Platform"
   - title: "Ignites DevSecOps"
     type: ignite
     date: 2022-10-21
-    start_time: "11:25"
-    end_time: "12:10"
+    start_time: "11:45"
+    end_time: "12:20"
     block: ignite-2
     comments: "Location: The Vault"
 
   - title: "Lunch"
     type: custom
     date: 2022-10-21
-    start_time: "12:10"
+    start_time: "12:20"
     end_time: "13:10"
     comments: "Location: Main Hall"
 
