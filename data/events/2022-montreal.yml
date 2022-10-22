@@ -285,8 +285,8 @@ program:
     date: 2022-10-26
     start_time: "13:25"
     end_time: "13:50"
-  - title: "To be announced"
-    type: custom
+  - title: "sebastian-gomez"
+    type: talk
     date: 2022-10-26
     start_time: "13:55"
     end_time: "14:20"
