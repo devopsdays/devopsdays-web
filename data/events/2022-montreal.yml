@@ -259,8 +259,8 @@ sponsor_levels:
 #     date: 2022-10-26
 #     start_time: "10:55"
 #     end_time: "11:20"
-#   - title: "To be announced"
-#     type: custom
+#   - title: "thierry-madkaud"
+#     type: talk
 #     date: 2022-10-26
 #     start_time: "11:25"
 #     end_time: "11:50"
