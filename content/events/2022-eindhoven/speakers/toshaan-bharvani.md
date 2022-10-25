@@ -3,7 +3,7 @@ title = "Toshaan Bharvani"
 twitter = "toshywoshy"
 linkedin = "https://www.linkedin.com/in/toshaan"
 website = "http://toshaan.com"
-image = "toshaan-bharvani.jpg"
+image = "toshaan.jpg"
 type = "speaker"
 linktitle = ["toshaan-bharvani"]
 +++
