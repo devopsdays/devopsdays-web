@@ -1,6 +1,6 @@
 +++
 Title = "Mohammed Sayagh"
-image = ""
+image = "mohammed-sayagh.jpg"
 type = "speaker"
 linktitle = "mohammed-sayagh"
 Website = "https://msayagh.github.io/"
