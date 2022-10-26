@@ -5,9 +5,9 @@ aliases = ["/events/2023-amsterdam/"]
 Description = "devopsdays Amsterdam will take place June 21-23, 2023! The group that brought you devopsdays Amsterdam is back together and planning the 2023 event."
 +++
 
-<!-- <div style="text-align:center;">
+<div style="text-align:center;">
   {{< event_logo >}}
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -134,7 +134,7 @@ Description = "devopsdays Amsterdam will take place June 21-23, 2023! The group 
       <br><br>
       devopsdays Amsterdam brings development, operations, QA, InfoSec, management, and leadership together to discuss the culture and tools to make better organizations and products. The 2023 event will be the manieth time we have held devopsdays Amsterdam, and it should be bigger and better than ever before!
       <br><br>
-      We expect 550 people this year and will be holding the event on June 21-23, 2023 at the <a href="/events/2023-amsterdam/location">Pakhuis de Zwijger</a> in the center of Amsterdam.
+      We expect 600 people this year and will be holding the event on June 21-23, 2023 at the <a href="/events/2023-amsterdam/location">Pakhuis de Zwijger</a> in the center of Amsterdam.
       <br><br>
       The format of devopsdays Amsterdam includes a single track of 30 minute talks in the morning of each event, followed by Ignite talks (5 minute, auto forwarding). We spend the rest of the afternoon in Open Spaces, which are considered a key portion of the event. For those not interested in the Open Spaces, we continue offering the single track around a specific theme (previously around Security and HumanOps).
     </div>
