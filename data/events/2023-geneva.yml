@@ -118,12 +118,9 @@ sponsor_levels:
     max: 8
   - id: bronze
     label: Bronze
-    max: 12
   - id: mug
     label: Mug
-    max: 12
   - id: community
     label: Community
-    max: 12
 
 program:

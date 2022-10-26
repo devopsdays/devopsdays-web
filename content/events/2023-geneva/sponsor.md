@@ -50,7 +50,7 @@ We apply the simple rule of “first come firs served” with the order being th
 | **SPONSORS PACKS**                                                        |      **EVENT**      |      **GOLD**       |     **SILVER**      |  **BRONZE**   |   **MUG**   | **COMMUNITY** |
 |---------------------------------------------------------------------------|:-------------------:|:-------------------:|:-------------------:|:-------------:|:-----------:|:-------------:|
 |                                                                           |    **9'000 CHF**    |    **6'000 CHF**    |    **3'000 CHF**    | **1'500 CHF** | **500 CHF** |   **0 CHF**   |
-| **Number of sponsors**                                                    |        **1**        |        **8**        |        **8**        |    **12**     |   **12**    |    **12**     | 
+| **Number of sponsors**                                                    |        **1**        |        **8**        |        **8**        |               |             |               | 
 | **Free tickets** including sponsor team                                   |        **8**        |        **5**        |        **3**        |     **1**     |    **0**    |     **0**     |
 | Logo on event **website**, **Posts on Social Network**                    |          ✔          |          ✔          |          ✔          |       ✔       |      ✔      |       ✔       |
 | Logo on **dedicated slides**                                              |          ✔          |          ✔          |                     |               |             |               |
