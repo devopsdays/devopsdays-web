@@ -105,6 +105,12 @@ sponsors:
     level: gold
   - id: nanovms
     level: silver
+  - id: teksystems
+    level: silver
+  - id: sumologic
+    level: silver
+  - id: redhat-silex
+    level: silver
 
 
 
