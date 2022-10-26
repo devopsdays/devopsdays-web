@@ -37,9 +37,15 @@ Description = "Sponsor DevOpsDays Geneva 2023"
   }
 </style>
 
-We greatly value sponsors for this open event. If you are interested in sponsoring, please drop us an email at {{< email_organizers subject="Sponsor - DevOpsDays Geneva 2022">}}
+Sponsors are crucial for the success of the event, and we will show you our love better than ever :heart_eyes:
 
-**See details in our [presentation slides](https://docs.google.com/presentation/d/1onuS3l9PYsth16wBNUoa4ck06mqFBL04/edit?usp=sharing&ouid=104514775488370372801&rtpof=true&sd=true)**.
+You can find all sponsor information the sponsor pack ([downloadable PDF here](https://drive.google.com/file/d/1IVZiS_T17jfHGXOP-83BN6rkePr0MNEg/view?usp=sharing)):
+
+If you want to sponsor this year edition, please fill in [this form](https://forms.clickup.com/36866802/f/1352qj-2487/LV66DG3VU6S3I9KHS1) and if the sponsoring level you chose is still available we will quickly confirm and send you the corresponding invoice.
+
+We apply the simple rule of “first come firs served” with the order being the timestamp of the filled form.
+
+
 
 | **SPONSORS PACKS**                                                        |      **EVENT**      |      **GOLD**       |     **SILVER**      |  **BRONZE**   |   **MUG**   | **COMMUNITY** |
 |---------------------------------------------------------------------------|:-------------------:|:-------------------:|:-------------------:|:-------------:|:-----------:|:-------------:|
@@ -47,7 +53,7 @@ We greatly value sponsors for this open event. If you are interested in sponsori
 | **Number of sponsors**                                                    |        **1**        |        **8**        |        **8**        |    **12**     |   **12**    |    **12**     | 
 | **Free tickets** including sponsor team                                   |        **8**        |        **5**        |        **3**        |     **1**     |    **0**    |     **0**     |
 | Logo on event **website**, **Posts on Social Network**                    |          ✔          |          ✔          |          ✔          |       ✔       |      ✔      |       ✔       |
-| Logo on **dedicated slides**                                              |          ✔          |                     |                     |               |             |               |
+| Logo on **dedicated slides**                                              |          ✔          |          ✔          |                     |               |             |               |
 | Logo on **shared slides**                                                 |                     |                     |          ✔          |       ✔       |             |               |
 | Logo on **all communications** (Newsletter + Roll up + Program)           |          ✔          |          ✔          |          ✔          |               |             |               |
 | **5 Minutes pitch** - two days during the welcome speech                  |          ✔          |                     |                     |               |             |               |
