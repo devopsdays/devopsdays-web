@@ -124,7 +124,7 @@ sponsors:
     level: platinum
   - id: cesar
     level: platinum
-  - id: Encora
+  - id: encora
     level: platinum
   - id: lunio
     level: gold
@@ -138,97 +138,81 @@ sponsors:
     level: media
 
 program:
-
   - title: "Credenciamento"
     type: custom
     date: 2022-12-10T00:09:00-03:00
     start_time: "07:45"
     end_time: "10:00"
-
   - title: "Marylia Gutierrez - Como Observabilidade é mais do que 3 pilares"
     type: talk
     date: 2022-12-10T00:09:00-03:00
     start_time: "08:15"
     end_time: "08:50"
-
   - title: "Juraci Paixão Kröhling - Tudo o que SREs PRECISAM saber sobre OpenTelemetry"
     type: talk
     date: 2022-12-10T00:09:00-03:00
     start_time: "08:50"
     end_time: "09:35"
-
   - title: "Vinicius Dias - Como reduzir custos na AWS"
     type: talk
     date: 2022-12-10T00:09:00-03:00
     start_time: "09:35"
     end_time: "10:10"
-
   - title: "Open Spaces 💬 / Cofee Break ☕️"
-    type: custom
+    type: open-space
     date: 2022-12-10T00:09:00-03:00
     start_time: "10:10"
     end_time: "10:40"
-
   - title: "Tainara Almeida - Precisamos falar sobre DR (Disaster Recovery) você consegue manter a sua estabilidade caso alguma coisa aconteça?"
     type: talk
     date: 2022-12-10T00:09:00-03:00
     start_time: "10:40"
     end_time: "11:15"
-
   - title: "Arafat Khan - How to become a digital nomad without losing your job!!"
     type: talk
     date: 2022-12-10T00:09:00-03:00
     start_time: "11:15"
     end_time: "12:00"
-
   - title: "Almoço 🍽️"
     type: custom
     date: 2022-12-10T00:09:00-03:00
     start_time: "12:00"
     end_time: "13:30"
-
   - title: "Tiago Valença - Automação de ambiente de desenvolvimento"
     type: talk
     date: 2022-12-10T00:09:00-03:00
     start_time: "13:30"
     end_time: "14:05"
-
   - title: "Robert Silva - Saindo do Shell para o Helm"
     type: talk
     date: 2022-12-10T00:09:00-03:00
     start_time: "14:05"
     end_time: "14:40"
-
   - title: "Luiz Aoqui - O que há por trás de um orquestrador?"
     type: talk
     date: 2022-12-10T00:09:00-03:00
     start_time: "14:40"
     end_time: "15:15"
-
   - title: "Open Spaces 💬 / Cofee Break ☕️"
-    type: custom
+    type: open-space
     date: 2022-12-10T00:09:00-03:00
     start_time: "15:15"
     end_time: "15:45"
-
   - title: "Marcelo Manchester - Hands On: Terraform CDK with GO"
     type: talk
     date: 2022-12-10T00:09:00-03:00
     start_time: "15:45"
     end_time: "16:20"
-
   - title: "Igor Macedo - Kafka: experiencing Chaos, Aiming at Nirvana!"
     type: talk
     date: 2022-12-10T00:09:00-03:00
     start_time: "16:20"
     end_time: "16:55"
-
   - title: "Encerramento"
     type: custom
     date: 2022-12-10T00:09:00-03:00
     start_time: "17:00"
     end_time: "18:00"
-
   - title: "Happy Hour 🍻"
     type: custom
     date: 2022-12-10T00:09:00-03:00
