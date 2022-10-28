@@ -6,6 +6,6 @@ icons = "true"
 +++
 
 <hr/>
-### <b>Palestre (CFP)</b>
+<h3>Palestre (CFP)</h3>
 
 Para submeter acesse o link e veja as instruções: [Link para Submissão de Palestras](https://www.papercall.io/devopsdaysbelem2022)
