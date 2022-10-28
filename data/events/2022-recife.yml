@@ -21,7 +21,7 @@ cfp_date_end:  "2022-08-31T00:00:00-03:00" #2019-10-25T00:09:00-03:00 # close yo
 cfp_date_announce: "2022-09-09T00:00:00-03:00" #2019-10-20T00:09:00-03:00 # inform proposers of status
 
 
-cfp_open: "true"
+cfp_open: "false"
 cfp_link: "https://www.papercall.io/devopsdays-recife-2022" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: "2022-09-19T00:00:00-03:00" #2022-10-01T00:09:00-03:00 # start accepting registration. Leave blank if registration is not open yet
@@ -47,8 +47,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
    url: /events/2022-recife/conduct
  - name: contato
    url: /events/2022-recife/contact
-#  - name: Programação
-#    url: /events/2022-recife/program
+ - name: Programação
+   url: /events/2022-recife/program
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
@@ -124,15 +124,113 @@ sponsors:
     level: platinum
   - id: cesar
     level: platinum
+  - id: Encora
+    level: platinum
+  - id: lunio
+    level: gold
+  - id: espaco-cloud
+    level: gold
   - id: liferay
     level: community
   - id: kubecareers
     level: media
   - id: kubeevents
     level: media
-# program:
-  #  - title: "Credenciamento"
-  #    type: custom
-  #    date: 2019-12-14T00:09:00-03:00
-  #    start_time: "08:00"
-  #    end_time: "09:00"
+
+program:
+
+  - title: "Credenciamento"
+    type: custom
+    date: 2022-12-10T00:09:00-03:00
+    start_time: "07:45"
+    end_time: "10:00"
+
+  - title: "Marylia Gutierrez - Como Observabilidade é mais do que 3 pilares"
+    type: talk
+    date: 2022-12-10T00:09:00-03:00
+    start_time: "08:15"
+    end_time: "08:50"
+
+  - title: "Juraci Paixão Kröhling - Tudo o que SREs PRECISAM saber sobre OpenTelemetry"
+    type: talk
+    date: 2022-12-10T00:09:00-03:00
+    start_time: "08:50"
+    end_time: "09:35"
+
+  - title: "Vinicius Dias - Como reduzir custos na AWS"
+    type: talk
+    date: 2022-12-10T00:09:00-03:00
+    start_time: "09:35"
+    end_time: "10:10"
+
+  - title: "Open Spaces 💬 / Cofee Break ☕️"
+    type: custom
+    date: 2022-12-10T00:09:00-03:00
+    start_time: "10:10"
+    end_time: "10:40"
+
+  - title: "Tainara Almeida - Precisamos falar sobre DR (Disaster Recovery) você consegue manter a sua estabilidade caso alguma coisa aconteça?"
+    type: talk
+    date: 2022-12-10T00:09:00-03:00
+    start_time: "10:40"
+    end_time: "11:15"
+
+  - title: "Arafat Khan - How to become a digital nomad without losing your job!!"
+    type: talk
+    date: 2022-12-10T00:09:00-03:00
+    start_time: "11:15"
+    end_time: "12:00"
+
+  - title: "Almoço 🍽️"
+    type: custom
+    date: 2022-12-10T00:09:00-03:00
+    start_time: "12:00"
+    end_time: "13:30"
+
+  - title: "Tiago Valença - Automação de ambiente de desenvolvimento"
+    type: talk
+    date: 2022-12-10T00:09:00-03:00
+    start_time: "13:30"
+    end_time: "14:05"
+
+  - title: "Robert Silva - Saindo do Shell para o Helm"
+    type: talk
+    date: 2022-12-10T00:09:00-03:00
+    start_time: "14:05"
+    end_time: "14:40"
+
+  - title: "Luiz Aoqui - O que há por trás de um orquestrador?"
+    type: talk
+    date: 2022-12-10T00:09:00-03:00
+    start_time: "14:40"
+    end_time: "15:15"
+
+  - title: "Open Spaces 💬 / Cofee Break ☕️"
+    type: custom
+    date: 2022-12-10T00:09:00-03:00
+    start_time: "15:15"
+    end_time: "15:45"
+
+  - title: "Marcelo Manchester - Hands On: Terraform CDK with GO"
+    type: talk
+    date: 2022-12-10T00:09:00-03:00
+    start_time: "15:45"
+    end_time: "16:20"
+
+  - title: "Igor Macedo - Kafka: experiencing Chaos, Aiming at Nirvana!"
+    type: talk
+    date: 2022-12-10T00:09:00-03:00
+    start_time: "16:20"
+    end_time: "16:55"
+
+  - title: "Encerramento"
+    type: custom
+    date: 2022-12-10T00:09:00-03:00
+    start_time: "17:00"
+    end_time: "18:00"
+
+  - title: "Happy Hour 🍻"
+    type: custom
+    date: 2022-12-10T00:09:00-03:00
+    start_time: "18:00"
+    end_time: "22:00"
