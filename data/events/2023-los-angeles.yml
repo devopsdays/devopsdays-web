@@ -2,7 +2,7 @@ name: "2023-los-angeles" # The name of the event. Four digit year with the city 
 year: "2023" # The year of the event. Make sure it is in quotes.
 city: "Los Angeles" # The displayed city name of the event. Capitalize it.
 event_twitter: "socaldevops" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "Devopsdays is coming to Los Angeles!" # Edit this to suit your preferences
+description: "DevOpsDays is coming to Los Angeles!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2023-MM-DDTHH:MM:SS+TZ:TZ, like this:
@@ -26,22 +26,26 @@ registration_date_end: # close registration. Leave blank if registration is not 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
+# Background
+masthead_background: "devopsdayla_banner.jpg"
+
 # Location
 #
-coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Los Angeles" # Defaults to city, but you can make it the venue name.
-#
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+coordinates: "34.1436537,-118.1452085" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Pasadena Convention Center" # Defaults to city, but you can make it the venue name.
+location_address: "300 E Green St, Pasadena, CA 91101" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
- # - name: location
- # - name: registration
- # - name: program
- # - name: speakers
+  #- name: covid
+  - name: venue
+    url: https://www.socallinuxexpo.org/scale/20x/venue
+  - name: registration
+    url: https://register.socallinuxexpo.org/reg6/
+  - name: volunteer
   - name: sponsor
   - name: contact
   - name: conduct
+  - name: about
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -52,44 +56,25 @@ team_members: # Name is the only required field for team members.
   - name: "Bryna Kirzner"
     employer: ""
     twitter: "brynak"
+    bio: "Co-Chair DevOpsDayLA"
     github: "brynak"
     linkedin: "https://www.linkedin.com/in/brynak"
   - name: "Murriel Perez-McCabe"
     employer: "Google"
     linkedin: "https://www.linkedin.com/in/murrielperez/"
     twitter: "xmurriel"
-  - name: "Chris Webber"
-    linkedin: "https://www.linkedin.com/in/cwebberops/"
-    github: "cwebberops"
-    twitter: "cwebber"
   - name: "Jordan Schwartz"
   - name: "Ilan Rabinovitch"
     twitter: "irabinovitch"
     github: "irabinovitch"
+    employer: "Datadog"
     linkedin: "https://www.linkedin.com/in/irabinovitch/"
-  - name: "Joemar Gonzalez"
-  - name: "Carlos Meza"
-    employer: "digitalr00ts"
-    twitter: "digitalr00ts"
-    github: "cmeza99"
-    linkedin: "https://www.linkedin.com/in/cmeza99"
-    website: "https://www.digitalr00ts.com"
-  - name: "Tony Fatouros"
   - name: "Omar Alva"
     github: "omargohan"
     twitter: "omargohan"
     linkedin: "https://www.linkedin.com/in/omar-alva-60237919/"
 
 organizer_email: "los-angeles@devopsdays.org" # Put your organizer email address here
-
-# List all of your sponsors here along with what level of sponsorship they have.
-# Check data/sponsors/ to use sponsors already added by others.
-sponsors:
-  - id: samplesponsorname
-    level: gold
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  - id: arresteddevops
-    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -108,7 +93,9 @@ sponsor_levels:
   - id: community
     label: Community
 
-sponsors: 
+sponsors:
+  # - id: macstadium
+  #   level: gold
   - id: scale
     level: community
     url: https://www.socallinuxexpo.org
