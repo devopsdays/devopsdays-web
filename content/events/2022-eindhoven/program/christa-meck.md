@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Being Fine Dog Fine is NOT Fine"
 Type = "talk"
 Speakers = ["christa-meck"]
+Youtube = "qLdZ1QwLsjw"
 +++
 
 Have you noticed the shift from “Harden Up” to “Hey, are you ok?” Self Care and Mental Health are finally getting time in the spotlight.
