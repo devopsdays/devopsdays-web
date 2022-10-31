@@ -5,6 +5,5 @@ Talk_end_time = ""
 Title = "Branching strategies speeddating"
 Type = "talk"
 Speakers = ["esther-barthel"]
+Youtube = "u3hpWT4PifY"
 +++
-
-

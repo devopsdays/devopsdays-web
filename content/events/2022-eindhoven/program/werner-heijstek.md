@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Managing Technical Debt at Scale"
 Type = "talk"
 Speakers = ["werner-heijstek"]
+Youtube = "Vom4MprOfqM"
 +++
 
 Technical debt is everything in the way of getting things done. It is notoriously challenging to deal with because (1) in any given organization, there is such an awful lot of it, and (2) it is near impossible to obtain a decent budget to address it.
