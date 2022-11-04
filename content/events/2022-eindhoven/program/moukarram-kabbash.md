@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "How my children forced me to adopt DevOps at home, and how it helped at work, too"
 Type = "talk"
 Speakers = ["moukarram-kabbash"]
+Youtube = "_dTZv_2UQb4"
 +++
 
 DevOps is the result of applying lean principles to the technology value stream. It didn’t start in the world of software development and it will not stop there. Its principles can be applied to different kinds of value creation processes to provide better results faster.

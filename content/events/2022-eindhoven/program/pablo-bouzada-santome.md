@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Toxic cultures: how to recognize and fix them"
 Type = "talk"
 Speakers = ["pablo-bouzada-santome"]
+Youtube = "GaEjhQ0MFoc"
 +++
 
 "Culture is more important than vision. Some leaders have great vision, but have created a toxic culture where that vision will never happen." Phil Cooke

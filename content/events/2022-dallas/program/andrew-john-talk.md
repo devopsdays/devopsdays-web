@@ -2,10 +2,10 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Out of the Cyber Crisis - What Would Deming Do?"
+Title = "Firesisde Chat with Andrew Clay Shafer & John Willis"
 Type = "talk"
 Speakers = ["andrew-clay-shafer", "john-willis"]
-Youtube = ""
+Youtube = "CNVYXxPSH1g"
 Vimeo = ""
 Speakerdeck = ""
 Slideshare = ""
@@ -15,4 +15,4 @@ Website = ""
 
 ##### TALK ABSTRACT
 
-In 1982 Dr. Edwards Deming Published A Book Called "Out Of The Crisis." Dealing With His Frustration Leading Up From The Prior Decade. He Was 82 Years Old; He Wasn't Writing This As A Get-Rich Management Consulting Book. Dr. Deming Wrote It As A Stark Warning For Everyone, Manufacturing, Healthcare, Government, And Education Alike. Fast Forward Forty Years, And Imagine What He Would Say Today If He Were Alive. My Guess Is He Would Be Intensely Interested In Cybersecurity. More Than Just Information Technology, But Cyber Across All Aspects Of Human Infrastructure, For Example, "Maslow's Hierarchy Of Needs," Water, Warmth, And Food. Over The Past Ten Years, We Have Seen Cyberattacks On Water Treatment Plants, Power Grids, Oil And Gas, And Food Supply Chains. The Latest Is A Cream Cheese Manufacturer. I Have Studied Dr. Deming For Over A Decade, And I Believe There Is An Exciting Story To Be Told Around His 14 Points And His System Of Profound Knowledge. These Concepts Are Also The Fundamental Ideas Behind Lean, Agile, DevOps, And DevSecOps.
+In this retrospective chat, Andrew Clay Shafer and John Willis will discuss the origins and impact of DevOps.  John and Andrew were both involved in the creation of the DevOps movement. Topics will range from the early days of DevOps through cloud-native and some of the more recent initiatives around transformation.

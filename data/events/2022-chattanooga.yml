@@ -1,5 +1,6 @@
 name: "2022-chattanooga" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2022" # The year of the event. Make sure it is in quotes.
+event_logo: "logo-square.jpg"
 city: "Chattanooga" # The displayed city name of the event. Capitalize it.
 event_twitter: "ChaDevOpsDays" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "After taking a break due to Covid, Devopsdays is coming back to Chattanooga! We're excited to have you join us" # Edit this to suit your preferences
@@ -10,15 +11,15 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2022-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: 2022-11-14T08:00:00-05:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  2022-11-14T18:00:00-05:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2022-11-14T08:00:00-04:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  2022-11-14T18:00:00-04:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2022-08-08T12:00:00-04:00 # start accepting talk proposals.
+cfp_date_end: 2022-09-07T00:00:00-04:00 # close your call for proposals.
+cfp_date_announce:  2022-09-30T12:00:00-04:00 # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link:  # if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2022-07-26T00:00:00-05:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
@@ -34,14 +35,14 @@ location: "Chattanooga" # Defaults to city, but you can make it the venue name.
 location_address: "1 Carter St, Chattanooga, TN 37402 " #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
   - name: location
   - name: registration
- # - name: program
- # - name: speakers
+  - name: speakers
+  - name: program
   - name: sponsor
   - name: contact
   - name: conduct
+  - name: propose
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -61,16 +62,18 @@ team_members: # Name is the only required field for team members.
     image: "chantee-boykin.jpg"
   - name: "Heather Hawkins"
     image: "heather-hawkins.jpg"
+  - name: "Jen LaRose"
+    employer: "Chatech"
+    image: "jen-larose.jpg"
   - name: "Jonathan Hoskins"
     image: "jonathan-hoskins.jpg"
+  - name: "Melissa Phillips"
+    image: "melissa-phillips.jpg"
   - name: "Savannah Champion"
     image: "savannah-champion.jpg"
   - name: "Walton Robinson"
     employer: "Chatech"
     image: "walton-robinson.jpg"
-  - name: "Jen LaRose"
-    employer: "Chatech"
-    image: "jen-larose.jpg"
 
 
 organizer_email: "chattanooga@devopsdays.org" # Put your organizer email address here
@@ -84,6 +87,31 @@ sponsors:
     level: gold
   - id: chatech
     level: gold
+  - id: bcbst
+    level: gold
+  - id: vmware
+    level: gold
+  - id: unum
+    level: gold
+  - id: tidelift
+    level: silver
+  - id: servicenow
+    level: bronze
+  - id: patriottalent
+    level: gold
+  - id: learnk8s
+    level: media
+  - id: stratusgrid
+    level: gold
+  - id: nanovms
+    level: silver
+  - id: teksystems
+    level: silver
+  - id: sumologic
+    level: silver
+  - id: redhat-silex
+    level: silver
+
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -101,5 +129,8 @@ sponsor_levels:
     max: 0 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
+  - id: media
+    label: media
   - id: community
     label: Community
+

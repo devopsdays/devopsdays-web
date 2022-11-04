@@ -1,7 +1,7 @@
 +++
 Title = "Carlos jesus Carrero Sulbaran"
 #Twitter = "http://twitter.com/thedavedev"
-image = "Carlos-Carrero.png"
+image = "carlos-carrero.png"
 type = "speaker"
 linktitle = "Carlos-Carrero"
 LinkedIn = "https://www.linkedin.com/in/cajecasu/"

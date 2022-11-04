@@ -1,7 +1,7 @@
 +++
 Title = "Jose Andrés Sánchez"
 #Twitter = "Ana_M_Medina"
-image = "Jose.png"
+image = "jose.png"
 type = "speaker"
 linktitle = "jose-sanchez"
 LinkedIn = "https://www.linkedin.com/in/joseandrescoach/"

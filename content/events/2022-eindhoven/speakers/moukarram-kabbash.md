@@ -4,7 +4,7 @@ Twitter = "dermouk"
 image = "moukarram-kabbash.jpg"
 type = "speaker"
 linktitle = "moukarram-kabbash"
-
+slides = ""
 +++
 
-I works as Cloud Architect at SenseGuard, where I develop IoT systems for water security. I'm mainly interested in Cloud Computing on AWS and Azure, Serverless and Microservices. I love to exchange ideas and discuss about software development ideas.
+Moukarram works as Principal Architect at SURU, where he’s responsible for building IoT systems for water security and water waste prevention. He’s mainly interested in cloud computing, serverless, microservices, and enabling development teams to perform better and deliver better quality. He loves to exchange ideas and discuss software development practices and technologies. 

@@ -180,9 +180,9 @@ sponsors:
     level: bronze
   - id: checkmarx-before-20190621
     level: bronze
-  - id: elastic
+  - id: elastic-before-20221004
     level: bronze
-  - id: newrelic
+  - id: newrelic-before-20220808
     level: bronze
   - id: cargill
     level: alacarte

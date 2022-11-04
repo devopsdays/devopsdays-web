@@ -1,7 +1,7 @@
 +++
 Title = "Michiel Rook"
 Twitter = "michieltcs"
-image = "Michiel_Rook.jpg"
+image = "michiel_rook.jpg"
 type = "speaker"
 linktitle = "michiel-rook"
 

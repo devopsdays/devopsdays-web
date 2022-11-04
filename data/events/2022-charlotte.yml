@@ -90,17 +90,32 @@ sponsors:
     level: gold
   - id: sysdig
     level: gold
+  - id: trilio
+    level: gold
+  - id: tidelift
+    level: gold
+  - id: datadog
+    level: gold
+  - id: harness
+    level: gold
+  - id: acorn
+    level: gold
+  - id: cloudbees
+    level: gold
   - id: phoenixnap
     level: silver
   - id: dynatrace
     level: silver
   - id: duplocloud
     level: silver
+  - id: perfectscale
+    level: silver
+
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -141,7 +156,7 @@ program:
     date: 2022-09-08
     start_time: "10:30"
     end_time: "10:50"
-  - title: "yvo-van-doorn"
+  - title: "scott-ford"
     type: talk
     date: 2022-09-08
     start_time: "10:50"
@@ -176,11 +191,11 @@ program:
     date: 2022-09-08
     start_time: "14:30"
     end_time: "14:45"
-  - title: "gerald-yelden"
-    type: talk
+  - title: "gerald-yerden"
+    type: workshop
     date: 2022-09-08
     start_time: "14:45"
-    end_time: "15:15"
+    end_time: "15:45"
   - title: "Open Space #1"
     type: custom
     date: 2022-09-08
@@ -226,7 +241,7 @@ program:
     date: 2022-09-09
     start_time: "10:30"
     end_time: "10:50"
-  - title: "andrew-kim"
+  - title: "malcolm-preston"
     type: talk
     date: 2022-09-09
     start_time: "10:50"
@@ -241,48 +256,46 @@ program:
     date: 2022-09-09
     start_time: "11:50"
     end_time: "13:00"
-  - title: "malcolm-preston"
-    type: talk
-    date: 2022-09-09
-    start_time: "13:00"
-    end_time: "13:30"
   - title: "Ignites"
     type: ignite
     date: 2022-09-09
-    start_time: "13:30"
-    end_time: "14:00"
+    start_time: "13:00"
+    end_time: "13:20"
+  - title: "Ignite Karaoke"
+    type: custom
+    date: 2022-09-09
+    start_time: "13:20"
+    end_time: "13:30"
   - title: "Break and Open Space Intro"
     type: custom
     date: 2022-09-09
-    start_time: "14:00"
-    end_time: "14:15"
+    start_time: "13:30"
+    end_time: "13:45"
   - title: "Open Space #1"
     type: custom
     date: 2022-09-09
-    start_time: "14:15"
-    end_time: "14:45"
+    start_time: "13:45"
+    end_time: "14:15"
   - title: "jim-barton"
-    type: talk
+    type: workshop
     date: 2022-09-09
-    start_time: "14:15"
+    start_time: "13:45"
     end_time: "14:45"
   - title: "Open Space #2"
     type: custom
     date: 2022-09-09
-    start_time: "14:45"
-    end_time: "15:15"
+    start_time: "14:15"
+    end_time: "14:45"
   - title: "Closing"
     type: custom
     date: 2022-09-09
-    start_time: "15:15"
-    end_time: "15:30"
+    start_time: "14:45"
+    end_time: "15:00"
 ignites:
   - title: "derek-ashmore"
     date: 2022-09-08
   - title: "david-kirk"
     date: 2022-09-08
-  - title: "nocnica-mellifera"
-    date: 2022-09-09
   - title: "jerry-reed"
     date: 2022-09-09
   - title: "trip-longworth"

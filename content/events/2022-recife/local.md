@@ -8,10 +8,10 @@ Description = "Local - Devopsdays Recife 2022"
 
 <h1>Local do evento</h1>
 <br>
-<h3><strong>Em breve!</strong></h3>
-<!-- * <a href="https://goo.gl/maps/9jCMpUULWFZjs5wJ8">Map</a> -->
+<h3><strong>CESAR School - Cais do Apolo - Recife, Pernambuco</strong></h3>
+<a href="https://g.page/cesarschool?share">Map</a>
 
 
-<!-- {{< event_map >}} -->
+{{< event_map >}}
 
 <p></p>

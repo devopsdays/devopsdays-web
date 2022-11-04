@@ -1,7 +1,7 @@
 +++
 Title = "Dawn Parzych"
 Twitter = "dparzych"
-image = "Dawn_Parzych.jpg"
+image = "dawn_parzych.jpg"
 type = "speaker"
 linktitle = "dawn-parzych"
 +++

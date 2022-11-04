@@ -135,9 +135,9 @@ sponsors:
     level: community
   - id: decisiohealth
     level: silver
-  - id: elastic
+  - id: elastic-before-20221004
     level: gold
-  - id: contrast_security
+  - id: contrast_security-before-20221014
     level: platinum
   - id: houston-devops-meetup
     level: community

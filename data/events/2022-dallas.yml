@@ -14,13 +14,13 @@ startdate: 2022-08-24T00:00:00-05:00 # The start date of your event. Leave blank
 enddate: 2022-08-25T23:59:59-05:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2022-04-22T21:00:00-05:00 # start accepting talk proposals.
-cfp_date_end: 2022-07-01T18:00:00-05:00 # close your call for proposals.
-cfp_date_announce: 2022-07-27T18:00:00-05:00 # inform proposers of status
+# cfp_date_start: 2022-04-22T21:00:00-05:00 # start accepting talk proposals.
+# cfp_date_end: 2022-07-01T18:00:00-05:00 # close your call for proposals.
+# cfp_date_announce: 2022-07-27T18:00:00-05:00 # inform proposers of status
 
-cfp_link: "https://www.papercall.io/dod-dfw-2022" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+# cfp_link: "https://www.papercall.io/dod-dfw-2022" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-masthead_background: "PlanoEventCenter.jpg"
+masthead_background: "planoeventcenter.jpg"
 sharing_image: "dallas2022.png"
 
 registration_date_start:  # start accepting registration. Leave blank if registration is not open yet
@@ -37,9 +37,9 @@ location_address: "2000 East Spring Creek Parkway, Plano, TX 75074" #Optional - 
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
-  - name: propose
+#  - name: propose
   - name: program
-  - name: registration
+#  - name: registration
   - name: speakers
   - name: sponsor
   - name: contact
@@ -251,13 +251,15 @@ sponsors:
     level: silver
   - id: unskript
     level: silver
-  - id: zoho
+  - id: manage-engine
     level: silver
   - id: redgate
     level: silver
   - id: edge-delta
     level: happyhour
   - id: arresteddevops
+    level: media
+  - id: dfwlivestream
     level: media
   - id: devopslive
     level: community
@@ -278,6 +280,8 @@ sponsors:
   - id: dfwhug
     level: community
   - id: ntxglug
+    level: community
+  - id: gdgsolake
     level: community
    
 
@@ -444,7 +448,7 @@ program:
     type: custom
     date: 2022-08-25
     start_time: "11:00"
-    end_time: "11:300"
+    end_time: "11:30"
   - title: "Ignite Talks"
     type: ignite
     date: 2022-08-25
@@ -480,12 +484,12 @@ program:
     date: 2022-08-25
     start_time: "14:45"
     end_time: "15:30"
-  - title: "SPEAKER DISCUSSION PANEL"
+  - title: "SPEAKER DISCUSSION PANEL (Click here for video)"
     type: custom
     date: 2022-08-25
     start_time: "15:30"
     end_time: "16:15"
-    custom_url: ""
+    custom_url: "https://youtu.be/CDbYfRHfp3U"
   - title: "Organizers Recognition"
     type: custom
     date: 2022-08-25

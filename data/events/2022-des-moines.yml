@@ -34,11 +34,11 @@ location: "Iowa Events Center" # Defaults to city, but you can make it the venue
 location_address: "730 3rd St, Des Moines, IA 50309" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+  # - name: propose
   - name: location
   - name: registration
- # - name: program
- # - name: speakers
+  - name: schedule
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -91,6 +91,25 @@ sponsors:
    level: gold
  - id: mumosystems
    level: gold
+ - id: john-deere
+   level: gold
+ - id: emc-ins
+   level: gold
+ - id: sonatype
+   level: gold
+ - id: redhat
+   level: gold
+ - id: sourceallies
+   level: lanyard
+ - id: leantechniques
+   level: book
+ - id: caseys
+   level: gold
+ - id: we-write-code
+   level: gold
+ - id: sidegarage
+   level: community
+  
 # #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 #  - id: arresteddevops
 #    level: community
@@ -110,4 +129,10 @@ sponsor_levels:
     max: 1
   - id: lanyard
     label: Lanyard
+    max: 1
+  - id: book
+    label: Book
+    max: 1
+  - id: community
+    label: Community
     max: 1

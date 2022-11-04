@@ -73,11 +73,11 @@ sponsors:
     level: gold
   - id: netapp
     level: gold
-  - id: newrelic
+  - id: newrelic-before-20220808
     level: gold
   - id: veredus
     level: gold
-  - id: contrast_security
+  - id: contrast_security-before-20221014
     level: gold
   - id: datalink
     level: gold

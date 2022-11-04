@@ -14,6 +14,6 @@ Gold sponsors get a full table and Silver sponsors a shared table where they can
 
 The best thing to do is send engineers to interact with the experts at devopsdays on their own terms.
 
-Please see [this sponsor prospectus](https://assets.devopsdays.org/events/2020/stockholm/Sponsor-Prospectus.pdf) for details about sponsoring.
+Please see [this sponsor prospectus](https://assets.devopsdays.org/events/2020/stockholm/Sponsor-prospectus.pdf) for details about sponsoring.
 
 <hr/>

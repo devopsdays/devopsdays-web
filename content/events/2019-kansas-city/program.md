@@ -9,7 +9,7 @@ icons = "TRUE"
   <div class = "col">
     <hr />
     If Open Space is new to you, you may be interested in <a href="/pages/open-space-format">more details about Open Space</a>.<br><br>
-    Need a map of the venue? <a target="_blank" href="/events/2019-kansas-city/DevOpsDays2019-MAP-Westport-Commons-Plexpod.pdf">Here you go!</a>.<br>
+    Need a map of the venue? <a target="_blank" href="/events/2019-kansas-city/devopsdays2019-map-westport-commons-plexpod.pdf">Here you go!</a>.<br>
     <hr />
     <div class = "row">
     <div class = "col-sm-12">

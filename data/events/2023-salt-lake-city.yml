@@ -50,7 +50,6 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   # - name: sponsor
   - name: contact
   - name: conduct
-    url: https://www.slcdevopsdays.org/code-of-conduct/
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -118,7 +117,7 @@ organizer_email: "salt-lake-city@devopsdays.org" # Put your organizer email addr
     #   level: gold
     # - id: instana
     #   level: gold
-    # - id: newrelic
+    # - id: newrelic-before-20220808
     #   level: gold
     # - id: rundeck-before-20230308
     #   level: gold

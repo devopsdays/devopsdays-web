@@ -1,7 +1,7 @@
 +++
 Title = "Derris Boomer"
 #Twitter = "twitter.com/arapulido"
-image = "Derris-Boomer.png"
+image = "derris-boomer.png"
 type = "speaker"
 linktitle = "Derris-Boomer"
 LinkedIn = "https://www.linkedin.com/in/derrisboomer/"
