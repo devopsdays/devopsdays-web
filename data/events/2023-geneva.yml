@@ -94,11 +94,12 @@ organizer_email: "geneva@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-#  - id: samplesponsorname
-#    level: gold
-# #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-#  - id: arresteddevops
-#    level: community
+  - id: techfirm
+    level: event
+  - id: camptocamp
+    level: gold
+  - id: hidora
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -122,5 +123,6 @@ sponsor_levels:
     label: Mug
   - id: community
     label: Community
+
 
 program:

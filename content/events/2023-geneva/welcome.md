@@ -112,4 +112,3 @@ Description = "DevopsDays Geneva 2023"
 
 <br />
 {{< event_twitter >}}
-</div>
