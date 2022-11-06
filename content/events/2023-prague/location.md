@@ -7,7 +7,7 @@ Description = "Location for devopsdays prague 2023"
 <br />
 <p>The conference will take place at the Clarion Congress Hotel</p>
 <p>Freyova 33<br />
-190 00 Praha p</p>
+190 00, Praha 9</p>
 
 <p>
 Watch this space for information about parking/transit and any hotel details.
