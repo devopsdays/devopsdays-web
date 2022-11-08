@@ -234,6 +234,5 @@ The best thing to do is send engineers to interact with the experts at devopsday
 </table>
 </div>
 <hr/>
-<p>There are also opportunities for exclusive special sponsorships. We'll have sponsors for various events with special privileges for the sponsors of these events. If you are interested in special sponsorships or have a creative idea about how you can support the event, send us an email.</p>
 
 <hr/>
