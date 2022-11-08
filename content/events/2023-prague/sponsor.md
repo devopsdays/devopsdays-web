@@ -43,13 +43,13 @@ The best thing to do is send engineers to interact with the experts at devopsday
 <table border=1 cellspacing=1 cellpadding=10>
   <tr>
     <th></th>
-    <th><center><s>Community</s><br />FREE</center></th>
-    <th><center><s>Bronze</s><br />1200&nbsp;EUR</center></th>
-    <th><center><s>Silver</s><br />3500&nbsp;EUR</center></th>
-    <th><center><s>Gold</s><br />6500&nbsp;EUR</center></th>
-    <th><center><s>Lunch</s><br />6000&nbsp;EUR</center></th>
-    <th><center><s>Lanyard</s><br />4000&nbsp;EUR</center></th>
-    <th><center><s>Social event</s><br />10000&nbsp;EUR</center></th>
+    <th><center>Community<br />FREE</center></th>
+    <th><center>Bronze<br />1200&nbsp;EUR</center></th>
+    <th><center>Silver<br />3500&nbsp;EUR</center></th>
+    <th><center>Gold<br />6500&nbsp;EUR</center></th>
+    <th><center>Lanyard<br />4000&nbsp;EUR</center></th>
+    <th><center>Lunch<br />6000&nbsp;EUR</center></th>
+    <th><center>Social event<br />10000&nbsp;EUR</center></th>
   </tr>
   <tr>
     <td>Number available</td>
@@ -57,8 +57,8 @@ The best thing to do is send engineers to interact with the experts at devopsday
     <td bgcolor="#d9ead3">∞</td>
     <td bgcolor="#d9ead3">10</td>
     <td bgcolor="#d9ead3">4</td>
-    <td bgcolor="#d9ead3">2</td>
     <td bgcolor="#d9ead3">1</td>
+    <td bgcolor="#d9ead3">2</td>
     <td bgcolor="#d9ead3">1</td>
   </tr>
   <tr>
@@ -87,8 +87,8 @@ The best thing to do is send engineers to interact with the experts at devopsday
     <td>&nbsp;</td>
     <td bgcolor="#d9ead3">small</td>
     <td bgcolor="#d9ead3">large</td>
-    <td bgcolor="#d9ead3">medium</td>
     <td>&nbsp;</td>
+    <td bgcolor="#d9ead3">medium</td>
     <td bgcolor="#d9ead3">large</td>
   </tr>
   <tr>
@@ -137,8 +137,8 @@ The best thing to do is send engineers to interact with the experts at devopsday
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td bgcolor="#d9ead3">&nbsp;</td>
-    <td bgcolor="#d9ead3">&nbsp;</td>
     <td>&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
     <td bgcolor="#d9ead3">&nbsp;</td>
   </tr>
   <tr>
@@ -177,16 +177,9 @@ The best thing to do is send engineers to interact with the experts at devopsday
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td bgcolor="#d9ead3">&nbsp;</td>
-    <td bgcolor="#d9ead3">&nbsp;</td>
     <td>&nbsp;</td>
     <td bgcolor="#d9ead3">&nbsp;</td>
-  </tr>
-  <tr>
-    <td>Brochure</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td bgcolor="#d9ead3">1/2 page</td>
-    <td bgcolor="#d9ead3">1 page</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
   </tr>
   <tr>
     <td>Logo on the badge</td>
@@ -194,8 +187,8 @@ The best thing to do is send engineers to interact with the experts at devopsday
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td bgcolor="#d9ead3">&nbsp;</td>
-    <td>&nbsp;</td>
     <td bgcolor="#d9ead3">&nbsp;</td>
+    <td>&nbsp;</td>
     <td bgcolor="#d9ead3">&nbsp;</td>
   </tr>
   <tr>
@@ -224,8 +217,8 @@ The best thing to do is send engineers to interact with the experts at devopsday
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    <td bgcolor="#d9ead3">Promotion during lunch</td>
     <td>&nbsp;</td>
+    <td bgcolor="#d9ead3">Promotion during lunch</td>
     <td bgcolor="#d9ead3">Promotion during social event</td>
   </tr>
   <tr>
