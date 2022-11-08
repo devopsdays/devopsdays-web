@@ -29,7 +29,7 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 # Location
 #
 coordinates: "50.109730, 14.501550" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "prague" # Defaults to city, but you can make it the venue name.
+location: "Clarion Congress Hotel" # Defaults to city, but you can make it the venue name.
 #
 location_address: "Freyova 33, Prague 9, 190 00" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
@@ -97,10 +97,16 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: social-event
+    label: Social Event
   - id: gold
     label: Gold
+  - id: lunch
+    label: Lunch
   - id: silver
     label: Silver
+  - id: lanyard
+    label: Lanyard
   - id: bronze
     label: Bronze
   - id: community
