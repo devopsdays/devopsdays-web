@@ -166,7 +166,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
     <td bgcolor="#d9ead3">&nbsp;</td>
     <td bgcolor="#d9ead3">&nbsp;</td>
     <td bgcolor="#d9ead3">&nbsp;</td>
