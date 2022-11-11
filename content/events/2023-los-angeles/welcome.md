@@ -81,7 +81,7 @@ Description = "DevOpsDays Los Angeles 2023"
     <strong>About</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="about" text="About DevOpsDayLA" >}}
+    {{< event_link page="about" text="About DevOpsDaysLA" >}}
   </div>
 </div>
 
