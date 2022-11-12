@@ -1,7 +1,7 @@
 +++
 Talk_date = "2022-11-26"
-Talk_start_time = "11:05"
-Talk_end_time = "11:30"
+Talk_start_time = "10:35"
+Talk_end_time = "11:00"
 Title = "SRE: Implementando o processo de Build and Run em Times de Desenvolvimento"
 Type = "talk"
 Speakers = ["ana-botelho"]
