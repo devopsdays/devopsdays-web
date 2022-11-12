@@ -110,10 +110,13 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: platinum
     label: Platina
+    max: 6
   - id: gold
     label: Gold
+    max: 5
   - id: silver
     label: Silver
+    max: 5
   - id: community
     label: Comunidade
   - id: media
@@ -125,6 +128,10 @@ sponsors:
   - id: cesar
     level: platinum
   - id: encora
+    level: platinum
+  - id: hashicorp
+    level: platinum
+  - id: cisco
     level: platinum
   - id: lunio
     level: gold
