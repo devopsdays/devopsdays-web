@@ -156,17 +156,17 @@ program:
     start_time: "09:45"
     end_time: "10:30"
     background_color: "#AED6F1"
-  - title: "tainara-almeida"
+  - title: "ana-botelho"
     type: talk
     date: 2022-11-26
     start_time: "10:35"
     end_time: "11:00"
-  - title: "ana-botelho"
+  - title: "joao-ferreira"
     type: talk
     date: 2022-11-26
     start_time: "11:05"
     end_time: "11:30"
-  - title: "joao-ferreira"
+  - title: "andre-gusmao"
     type: talk
     date: 2022-11-26
     start_time: "11:35"
@@ -182,7 +182,7 @@ program:
     date: 2022-11-26
     start_time: "13:00"
     end_time: "13:25"
-  - title: "andre-gusmao"
+  - title: "leandro-pantoja"
     type: talk
     date: 2022-11-26
     start_time: "13:30"

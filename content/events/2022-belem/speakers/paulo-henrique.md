@@ -4,7 +4,10 @@ Title = "Paulo Henrique e Thiago Soares"
 linkedin = "https://www.linkedin.com/in/paulohmorais/"
 image = "paulo-henrique-thiago-soares.jpg"
 type = "speaker"
-linktitle = "joao-ferriera"
+linktitle = "paulo-henrique"
 
 +++
-Desenvolvedor web entusiasta de Elixir e Phoenix LiveView. Meu objetivo é matar a latência entre seu app e seus usuários e pregar a palavra de LiveView.
+
+Somos DevOps Engineers responsáveis pelo produto Globoplay, maior streaming brasileiro. Superando netflix. https://globoplay.globo.com/
+
+Será uma apresentação em dupla. Segue perfil do coparticipante: https://www.linkedin.com/in/thiago-soares-a8b4a440/

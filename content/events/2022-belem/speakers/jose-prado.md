@@ -1,5 +1,5 @@
 +++
-Title = "José Prado"
+Title = "José Prado e Carlos Favacho"
 #Twitter = ""
 linkedin = "https://www.linkedin.com/in/jos%C3%A9-roberto-prado-da-silva-junior-1b5ab18/"
 image = "jose-prado.jpg"

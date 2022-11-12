@@ -1,7 +1,7 @@
 +++
 Talk_date = "2022-11-26"
-Talk_start_time = "11:35"
-Talk_end_time = "12:00"
+Talk_start_time = "11:05"
+Talk_end_time = "11:30"
 Title = "Deploy no mundo todo ficou mais fácil com Fly.io"
 Type = "talk"
 Speakers = ["joao-ferreira"]

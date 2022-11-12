@@ -7,4 +7,4 @@ Type = "talk"
 Speakers = ["jose-prado"]
 +++
 
-O objetivo da palestra é mostrar um exemplo prático envolvendo tecnologias open sources amplamente utilizadas no mercado para realizar o monitoramento e observabilidade de ambientes kubernetes em cloud ou onpromises.
+O objetivo da palestra é mostrar um exemplo prático envolvendo tecnologias open sources amplamente utilizadas no mercado para realizar o monitoramento e observabilidade de ambientes kubernetes em cloud ou onpromises, onde utilizaremos a stack Prometheus com Grafana para coleta de métricas, centralização dos logs com Loki e Banzai Logging, e o Pixie para observabilidade.
