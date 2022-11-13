@@ -4,7 +4,7 @@ Type = "event"
 Description = "Sponsor DevOpsDays Zurich 2023"
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at <a href="mailto:organizer@devopsdays.ch">organizer@devopsdays.ch</a>. With sponsoring this event you accept our {{< event_link page="conduct" text="Code of Conduct" >}} and the <a href="https://ae79aaba-4129-461f-83a3-665f3dae5235.filesusr.com/ugd/116ad9_e723cc7604ed472aaa713c3f22a95945.pdf">General Sponsorship Rules</a>.  
+We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at <a href="mailto:organizer@devopsdays.ch">organizer@devopsdays.ch</a>. With sponsoring this event you accept our {{< event_link page="conduct" text="Code of Conduct" >}} and the <a href="https://assets.devopsdays.org/events/2023/zurich/2023-zurich-devopsdays-prospectus.pdf">General Sponsorship Rules</a>.  
 
 <b>We do not sell or bundle speaker spots as part of any Sponsoring activities with our conference.</b> Do not ask for it. We don’t do it. <a href="https://devopsdays.org/organizing">No DevOpsDays conference does it</a>. Never. Period. 
 We encourage everyone, including Sponsor employees, to take part in our open <a href="https://sessionize.com/devopsdays-zurich-2023/">Call for Proposals</a> process. However, working (or any other relation) to a Sponsor does not result in preferences or disadvantages in our selection process.”
@@ -12,7 +12,7 @@ We encourage everyone, including Sponsor employees, to take part in our open <a 
 <b>We do not sell or distribute attendee information.</b> Do not ask for it. We don’t do it. <a href="https://devopsdays.org/organizing">No DevOpsDays conference does it</a>. Never. Period.
 Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers (e.g. via proposing <a href="https://devopsdays.org/open-space-format/">OpenSpace</a> topics). Any Sponsor is free to collect attendee information with mutual consensus at their booth.
 
-<a class="btn btn-primary btn-block"  style = "width: 200px; margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://ae79aaba-4129-461f-83a3-665f3dae5235.filesusr.com/ugd/116ad9_81b0c432aba14c95ae93119369b6a5d3.pdf"  target="_blank">Download Sponsoring Kit!</a>
+<a class="btn btn-primary btn-block"  style = "width: 200px; margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://assets.devopsdays.org/events/2023/zurich/2023-zurich-devopsdays-prospectus.pdf"  target="_blank">Download Sponsoring Kit!</a>
 
 ### Sponsoring packages
 <p>
