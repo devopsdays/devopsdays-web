@@ -101,6 +101,8 @@ sponsor_levels:
     label: Social Event
   - id: gold
     label: Gold
+  - id: t-shirt
+    label: T-Shirt
   - id: lunch
     label: Lunch
   - id: silver
