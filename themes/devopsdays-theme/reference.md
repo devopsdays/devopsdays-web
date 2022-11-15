@@ -53,6 +53,7 @@ The YYYY-CITY.yml file is the main configuration file for your event. This is wh
 | `event_twitter`  | String | Yes      | The twitter handle for your event such as "devopsdayschi" or "devopsdaysmsp". Exclude the "@" symbol. | "devopsdayschi"                               |
 | `description`    | String | No       | Overall description of your event. Quotation marks need to be escaped.                                | "It's time for more DevOpsDays at Ponyville!" |
 | `ga_tracking_id` | String | No       | If you have your own Google Analytics tracking ID, enter it here.                                     | "UA-74738648-1"                               |
+| `gtm_tracking_id` | String | No       | If you have your own Google Analytics v4 tracking ID, enter it here.                                     | "G-NCBC4PBEMK"                               |
 | `speakers_verbose` | String | No     | Set this to "true" if you want verbose speaker attributes (URLs visible).                             | "true"                                        |
 | `cancel`       | String     | No       | If your event must be cancelled, add this field with the value of "true" (case-sensitive). This will keep it from being listed in the "upcoming events" views.                                                                                         | "true"  |                                                                                   |
 
