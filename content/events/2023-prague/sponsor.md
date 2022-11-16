@@ -45,14 +45,25 @@ The best thing to do is send engineers to interact with the experts at devopsday
 <table border=1 cellspacing=1 cellpadding=10>
   <tr>
     <th></th>
-    <th><center>Community<br />FREE</center></th>
-    <th><center>Bronze<br />1200&nbsp;EUR</center></th>
-    <th><center>Silver<br />3500&nbsp;EUR</center></th>
-    <th><center>Gold<br />6500&nbsp;EUR</center></th>
-    <th><center>Lanyard<br />4000&nbsp;EUR</center></th>
-    <th><center>T-Shirt<br />6000&nbsp;EUR</center></th>
-    <th><center>Lunch<br />6000&nbsp;EUR</center></th>
-    <th><center>Social event<br />10000&nbsp;EUR</center></th>
+    <th><center>Community</center></th>
+    <th><center>Bronze</center></th>
+    <th><center>Silver</center></th>
+    <th><center>Gold</center></th>
+    <th><center>Lanyard</center></th>
+    <th><center>T-Shirt</center></th>
+    <th><center>Lunch</center></th>
+    <th><center>Social event</center></th>
+  </tr>
+  <tr>
+    <td>Price (excluding VAT)</td>
+    <td><center>FREE</center></td>
+    <td><center>1200&nbsp;EUR</center></td>
+    <td><center>3500&nbsp;EUR</center></td>
+    <td><center>6500&nbsp;EUR</center></td>
+    <td><center>4000&nbsp;EUR</center></td>
+    <td><center>6000&nbsp;EUR</center></td>
+    <td><center>6000&nbsp;EUR</center></td>
+    <td><center>10000&nbsp;EUR</center></td>
   </tr>
   <tr>
     <td>Number available</td>
