@@ -77,6 +77,12 @@ team_members: # Name is the only required field for team members.
   - name: "Amalie Hansen"
     employer: "Destination AARhus"
     image: "amalie-hansen.jpg"
+  - name: "Anne Louise Møller Lauritzen"
+    employer: "Destination AARhus"
+    image: "anne-louise-lauritzen.jpg"
+  - name: "Søren Eriksen"
+    employer: "The LEGO Group"
+    image: "soeren-eriksen.jpg"
 
 
 organizer_email: "denmark@devopsdays.org" # Put your organizer email address here
