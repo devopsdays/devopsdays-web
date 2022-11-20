@@ -132,9 +132,9 @@ Sponsors are encouraged to represent themselves by actively participating and en
       <td bgcolor="#FFE8A3"><center>5</center></center></td>
       <td bgcolor="#E5E5E5"><center>2</center></center></td>
       <td bgcolor="#FFBB7F"><center>unlimited</center></td>
-      <td bgcolor="#85cdad"><center><font color=red>SOLD OUT</font><</center></td>
-      <td bgcolor="#8bc2d6"><center><font color=red>SOLD OUT</font><</center></td>
-      <td bgcolor="#8bc2d6"><center><font color=red>SOLD OUT</font><</center></center></td>
+      <td bgcolor="#85cdad"><center><font color=red>SOLD OUT</font></center></td>
+      <td bgcolor="#8bc2d6"><center><font color=red>SOLD OUT</font></center></td>
+      <td bgcolor="#8bc2d6"><center><font color=red>SOLD OUT</font></center></center></td>
       <td bgcolor="#8bc2d6"><center>1</center></center></td>
     </tr>
     <tr>
