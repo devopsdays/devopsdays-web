@@ -12,14 +12,14 @@ gtm_tracking_id: "G-NCBC4PBEMK"
 # Note: we allow 2023-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
 startdate: 2023-06-21T00:00:00+02:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2023-06-23T23:59:59+02:00  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2023-06-23T23:59:59+02:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2023-01-01T00:00:00+02:00 # start accepting talk proposals.
+cfp_date_start: 2022-11-23T00:00:00+02:00 # start accepting talk proposals.
 cfp_date_end: 2023-03-01T00:00:00+02:00 # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_announce: 2023-03-15T17:00:00+02:00 # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://talx.devops.foundation/devopsdays-amsterdam-2023/cfp" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2022-12-01T00:00:00+02:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
@@ -39,18 +39,23 @@ location_address: "Piet Heinkade 179, 1019 HC Amsterdam" #Optional - use the str
 masthead_background: "backdrop.png"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
- - name: location
- - name: registration
- # - name: program
- # - name: speakers
- # - name: sponsor
- - name: contact
- - name: conduct
+  - name: propose
+    icon: "bullhorn"
+    url: https://talx.devops.foundation/devopsdays-amsterdam-2023/cfp
+  - name: location
+    icon: "map"
+  - name: registration
+    icon: "sign-in"
+  # - name: program
+  # - name: speakers
+  # - name: sponsor
+  - name: contact
+    icon: "comment"
+  - name: conduct
+    icon: universal-access
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
-
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
@@ -106,15 +111,15 @@ organizer_email: "amsterdam@devopsdays.org" # Put your organizer email address h
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: BBQ
-    label: BBQ
+  - id:  platinum
+    label: Platinum
     max: 1
   - id: beer
     label: Beer
@@ -137,6 +142,6 @@ sponsor_levels:
   - id: silver
     label: Silver
     max: 8
-  - id: bronze
-    label: Bronze
-    max: 5
+  - id: starter
+    label: "Starter/Supporter"
+    max: 10
