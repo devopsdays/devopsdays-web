@@ -43,6 +43,7 @@ Description = "devopsdays Amsterdam will take place June 21-23, 2023! The group 
   <div class = "col-md-8">
     <a href="https://talx.devops.foundation/devopsdays-amsterdam-2023/cfp">
       Propose a talk!
+    </a>
   </div>
 </div>
 
