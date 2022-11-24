@@ -102,6 +102,10 @@ sponsors:
     level: gold
   - id: pure-storage
     level: gold
+  - id: feesh
+    level: gold
+  - id: swissdevjobs
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
