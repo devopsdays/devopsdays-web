@@ -88,6 +88,12 @@ organizer_email: "prague@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: pure-storage
+    level: silver
+    url: "https://www.purestorage.com/company/careers/opportunities.html"
+  - id: pure-storage
+    level: lanyard
+    url: "https://www.purestorage.com/company/careers/opportunities.html"
   - id: art4people
     level: community
 
