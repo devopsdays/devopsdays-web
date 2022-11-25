@@ -4,7 +4,7 @@ Type = "event"
 Description = "Sponsor devopsdays prague 2023"
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
+We greatly value sponsors for this open event.  If you are interested in sponsoring, please <a href="mailto:sponsors@devopsdays.cz?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Prague%202023">send us an email</a>.
 
 <hr>
 
@@ -201,7 +201,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
     <td>Placement of company logo on social media</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
     <td bgcolor="#d9ead3">&nbsp;</td>
     <td>&nbsp;</td>
     <td bgcolor="#d9ead3">&nbsp;</td>
