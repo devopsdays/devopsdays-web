@@ -5,9 +5,17 @@ aliases = ["/events/2023-melbourne/"]
 Description = "devopsdays Melbourne 2023"
 +++
 
-<!-- <div style="text-align:center;">
+<div class="row">
+  <div class="alert alert-info" role="alert">
+    <h2>COVID-19</h2>
+    <h3>What plans are in place to make sure this is a COVIDSafe event?</h3>
+    <p>Our host, the Arts Centre Melbourne has a comprehensive COVIDSafe plan with a number of health and saftey precautions in place. You can read about this in more detail on their website - <a href="https://www.artscentremelbourne.com.au/visit/covidsafe-and-wellbeing/visitors">The Arts Centre Melbourne COVIDSafe visitor guide</a></p>
+  </div>
+</div>
+
+<div style="text-align:center;">
   {{< event_logo >}}
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -18,14 +26,14 @@ Description = "devopsdays Melbourne 2023"
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -81,7 +89,5 @@ Description = "devopsdays Melbourne 2023"
   </div>
 </div>
 
-<!-- Uncomment if you added your city twitter name -->
-<!--
+<br />
 {{< event_twitter >}}
--->

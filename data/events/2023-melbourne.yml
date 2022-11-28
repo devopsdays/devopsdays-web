@@ -83,7 +83,7 @@ organizer_email: "melbourne@devopsdays.org" # Put your organizer email address h
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
 
-sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -92,11 +92,17 @@ sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Gold
-#    max: 10
+    max: 3
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    max: 7
   - id: bronze
     label: Bronze
   - id: community
     label: Community
+  - id: lanyard
+    label: Lanyard
+    max: 1
+  - id: coffeecart
+    label: Coffee Cart
+    max: 1
