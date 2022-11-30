@@ -3,12 +3,18 @@ Title = "Location"
 Type = "event"
 Description = "Location for devopsdays Cáceres 2020"
 +++
-
-<h3>The event will take place at <strong>Complejo Cultural San Francisco</strong></h3>
-
-<h4>Ronda de San Francisco, 15, 10002 Cáceres</h4>
-
 <style>
+  h1, h2 {
+    font-family: futura-bold;
+    font-size: 2rem;
+  }
+  h3 {
+    font-family: futura-bold;
+    font-size: 1.5rem;
+  }
+  .info {
+    font-size: 1.4rem;
+  }
   .location.row {
     display: flex;
     flex-wrap: wrap;
@@ -53,6 +59,10 @@ Description = "Location for devopsdays Cáceres 2020"
     width: 500px;
   }
 </style>
+<div class="info">
+  <p>The event will take place at <strong>Complejo Cultural San Francisco</strong></p>
+  <p>Ronda de San Francisco, 15, 10002 Cáceres</p>
+</div>
 
 <div>
   <div class="location row one"> 
@@ -87,20 +97,20 @@ Description = "Location for devopsdays Cáceres 2020"
     </div>
   </div>
   <div class="location row two">
-    <div class="location column two">
+    <div class="location column two info">
       <h1>How To Get There</h1>
-      <h3>There are several <strong>trains</strong> and buses coming from the Spain main capital cities.</h3>
-      <h3>If you want to come by <strong>plane</strong>, you can go to the <strong>Talavera (Badajoz) Airport</strong></h3>
-      <h3>and then come from Badajoz to Cáceres by road using bus, train or a rented car.</h3>
+      <p>There are several <strong>trains</strong> and buses coming from the Spain main capital cities.</p>
+      <p>If you want to come by <strong>plane</strong>, you can go to the <strong>Talavera (Badajoz) Airport</strong></p>
+      <p>and then come from Badajoz to Cáceres by road using bus, train or a rented car.</p>
       <i class="fa fa-train fa-5x"></i>
       <i class="fa fa-bus fa-5x"></i>
       <i class="fa fa-plane fa-5x"></i>
     </div>
-    <div class="location column two">
+    <div class="location column two info">
       <h1>More interesting info</h1>
-      <h3>During your stay in the city maybe you need to make use of other services.</h3>
-      <h3>The <strong>Cáceres City Hall</strong> gives you a complete list of interesting phone numbers,</h3>
-      <h3>including <strong>emergencies</strong>, <strong>firefighters</strong>, <strong>police</strong>, <strong>passports</strong> etc.</h3>
+      <p>During your stay in the city maybe you need to make use of other services.</p>
+      <p>The <strong>Cáceres City Hall</strong> gives you a complete list of interesting phone numbers,</p>
+      <p>including <strong>emergencies</strong>, <strong>firefighters</strong>, <strong>police</strong>, <strong>passports</strong> etc.</p>
       <i class="fa fa-phone fa-5x"></i>
       <i class="fa fa-bed fa-5x"></i>
     </div>
