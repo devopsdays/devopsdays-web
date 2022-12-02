@@ -1,8 +1,8 @@
 +++
-Title = "devopsdays Caceres 2023"
+Title = "DevOpsDays Cáceres 2023"
 Type = "welcome"
 aliases = ["/events/2023-caceres/"]
-Description = "devopsdays Cáceres 2023"
+Description = "DevOpsDays Cáceres 2023"
 +++
 <style>
   h1, h2 {
@@ -66,10 +66,10 @@ Description = "devopsdays Cáceres 2023"
 
 <div class = "row">
   <div class="col-md-4">
-    <img alt="DevOpsDays Cáceres 2020" src="/events/2023-caceres/logo.png" class="img-fluid logo">
+    <img alt="DevOpsDays Cáceres 2023" src="/events/2023-caceres/logo.png" class="img-fluid logo">
   </div>
   <div class="col-md-7">
-    <h2>What is DevOpsDays Caceres?</h2>
+    <h2>What is DevOpsDays Cáceres?</h2>
     <p>
       A unique opportunity to share experiences in two days of talks, presentations, expert panels and networking with practitioners from Spain and the world.
     </p>
@@ -120,6 +120,12 @@ Description = "devopsdays Cáceres 2023"
     <div class="d-flex flex-row">
       <div class="col-md-12">
         <div class="d-flex p-2">
+          <a class="btn btn-secondary btn-block button-secondary" target="_blank" href="https://docs.google.com/forms/d/16So5MiAK1gx67n8030MKQkJcyQQq8rOXcJyuTbbjBXw/edit"> <i class="fa fa-paper-plane-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Call for Papers</a>
+        </div>
+        <div class="d-flex p-2">
+          <a class="btn btn-secondary btn-block button-secondary" href="/events/2023-caceres/sponsor"> <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference</a>
+        </div>
+        <div class="d-flex p-2">
           <a class="btn btn-secondary btn-block button-secondary" href="/events/2023-caceres/contact"> <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Contact the Organizers</a>
         </div>
         <div class="d-flex p-2">
@@ -154,6 +160,15 @@ Description = "devopsdays Cáceres 2023"
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Propose</strong>
+  </div>
+  <div class = "col-md-8">
+    <a target="_blank" href="https://docs.google.com/forms/d/16So5MiAK1gx67n8030MKQkJcyQQq8rOXcJyuTbbjBXw/edit">Propose a talk!</a>
   </div>
 </div>
 

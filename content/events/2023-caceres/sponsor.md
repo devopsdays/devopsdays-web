@@ -1,7 +1,7 @@
 +++
-Title = "Sponsor"
+Title = "Sponsor - DevOpsDays Cáceres 2023"
 Type = "event"
-Description = "Sponsor devopsdays Cáceres 2020"
+Description = "Sponsor"
 +++
 <style>
   h1, h2 {
@@ -411,8 +411,9 @@ Description = "Sponsor devopsdays Cáceres 2020"
           </table>
         </div>
       </div>
-    <!-- <div class="col-md-3 col-sm-12">
-      <a target="_blank" href="https://devopsdays.cc/wp-content/uploads/2019/10/dossier.pdf"><img style='height: 222px; width: 310px' src="/events/2020-caceres/sponsorship-information.png"></a>
-    </div> -->
+    <div class="col-md-3 col-sm-12">
+      <a target="_blank" href="https://devopsdays.cc/wp-content/uploads/sponsorship-dossier-dod2023.pdf">
+        <img style='height: 200px; width: 350px' src="/events/2023-caceres/sponsorship-information.png">
+      </a>
+    </div>
   </div>
-        

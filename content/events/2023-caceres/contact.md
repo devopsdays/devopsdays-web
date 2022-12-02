@@ -1,7 +1,7 @@
 +++
-Title = "Contact"
+Title = "Contact - DevOpsDays Cáceres 2023"
 Type = "event"
-Description = "Contact information for devopsdays Cáceres 2020"
+Description = "Contact information"
 +++
 <style>
   h1, h2 {

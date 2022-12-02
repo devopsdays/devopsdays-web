@@ -1,7 +1,7 @@
 +++
-Title = "Conduct"
+Title = "Conduct - DevOpsDays Cáceres 2023"
 Type = "event"
-Description = "Code of conduct for devopsdays Cáceres 2023"
+Description = "Code of conduct"
 +++
 <style>
   h1, h2 {
