@@ -103,8 +103,12 @@ organizer_email: "caceres@devopsdays.org" # Put your organizer email address her
 sponsors:
   - id: caceresdevops
     level: community
+  - id: kubecareers
+    level: collaborators
+  - id: kubeevents
+    level: collaborators
 
-sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
