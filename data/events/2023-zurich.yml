@@ -141,6 +141,10 @@ sponsors:
     level: silver
   - id: swisscom
     level: gold
+  - id: exoscale
+    level: gold
+  - id: adnovum
+    level: event
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
