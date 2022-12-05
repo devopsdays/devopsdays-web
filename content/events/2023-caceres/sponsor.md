@@ -413,7 +413,7 @@ Description = "Sponsor"
       </div>
     <div class="col-md-3 col-sm-12">
       <a target="_blank" href="https://devopsdays.cc/wp-content/uploads/sponsorship-dossier-dod2023.pdf">
-        <img style='height: 200px; width: 350px' src="/events/2023-caceres/sponsorship-information.png">
+        <img style='height: 200px; width: 350px' src="https://assets.devopsdays.org/events/2023/caceres/sponsorship-information.png">
       </a>
     </div>
   </div>

@@ -67,27 +67,27 @@ Description = "Location"
 <div>
   <div class="location row one">
     <div class="location column four">
-      <img src="/events/2023-caceres/venue/devopsdays-san-francisco-jorge-rey-41.jpg"
+      <img src="https://assets.devopsdays.org/events/2023/caceres/venue/devopsdays-san-francisco-jorge-rey-41.jpg"
         alt="Complejo Cultural San Francisco"/>
-      <img src="/events/2023-caceres/venue/devopsdays-san-francisco-jorge-rey-42.jpg"
+      <img src="https://assets.devopsdays.org/events/2023/caceres/venue/devopsdays-san-francisco-jorge-rey-42.jpg"
         alt="Complejo Cultural San Francisco"/>
-      <img src="/events/2023-caceres/venue/devopsdays-san-francisco-jorge-rey-31.jpg"
-        alt="Complejo Cultural San Francisco"/>
-    </div>
-    <div class="location column four">
-      <img src="/events/2023-caceres/venue/devopsdays-san-francisco-jorge-rey-7.jpg"
-        alt="Complejo Cultural San Francisco"/>
-      <img src="/events/2023-caceres/venue/devopsdays-san-francisco-jorge-rey-15.jpg"
-        alt="Complejo Cultural San Francisco"/>
-      <img src="/events/2023-caceres/venue/devopsdays-san-francisco-jorge-rey-34.jpg"
+      <img src="https://assets.devopsdays.org/events/2023/caceres/venue/devopsdays-san-francisco-jorge-rey-31.jpg"
         alt="Complejo Cultural San Francisco"/>
     </div>
     <div class="location column four">
-      <img src="/events/2023-caceres/venue/devopsdays-san-francisco-jorge-rey-10.jpg"
+      <img src="https://assets.devopsdays.org/events/2023/caceres/venue/devopsdays-san-francisco-jorge-rey-7.jpg"
         alt="Complejo Cultural San Francisco"/>
-      <img src="/events/2023-caceres/venue/devopsdays-san-francisco-jorge-rey-16.jpg"
+      <img src="https://assets.devopsdays.org/events/2023/caceres/venue/devopsdays-san-francisco-jorge-rey-15.jpg"
         alt="Complejo Cultural San Francisco"/>
-      <img src="/events/2023-caceres/venue/devopsdays-san-francisco-jorge-rey-29.jpg"
+      <img src="https://assets.devopsdays.org/events/2023/caceres/venue/devopsdays-san-francisco-jorge-rey-34.jpg"
+        alt="Complejo Cultural San Francisco"/>
+    </div>
+    <div class="location column four">
+      <img src="https://assets.devopsdays.org/events/2023/caceres/venue/devopsdays-san-francisco-jorge-rey-10.jpg"
+        alt="Complejo Cultural San Francisco"/>
+      <img src="https://assets.devopsdays.org/events/2023/caceres/venue/devopsdays-san-francisco-jorge-rey-16.jpg"
+        alt="Complejo Cultural San Francisco"/>
+      <img src="https://assets.devopsdays.org/events/2023/caceres/venue/devopsdays-san-francisco-jorge-rey-29.jpg"
         alt="Complejo Cultural San Francisco"/>
     </div>
     <div class="location column four map">
