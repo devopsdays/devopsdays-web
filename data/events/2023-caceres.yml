@@ -38,8 +38,6 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: sponsor
   - name: contact
   - name: conduct
-  - name: faq
-    url: https://devopsdays.cc/preguntas-frecuentes/
 
 
 # These are the same people you have on the mailing list and Slack channel.
@@ -81,7 +79,7 @@ team_members: # Name is the only required field for team members.
   - name: "Jesús Santisteban Fernández"
     twitter: "SanFerJesus"
     github: ""
-    linkedin: "https://www.linkedin.com/in/jesús-santisteban-fernández-44b77515/"
+    linkedin: "https://www.linkedin.com/in/jesús-santisteban-44b77515"
     image: jesus.jpg
 
   - name: "Javier Núñez Berrocoso"
