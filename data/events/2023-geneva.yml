@@ -18,9 +18,9 @@ startdate: 2023-04-24T08:00:00+01:00 # The start date of your event. Leave blank
 enddate: 2023-04-25T17:00:00+01:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start:  2022-11-17T11:30:00+01:00 # start accepting talk proposals.
+cfp_date_end:  2023-01-20T23:59:00+01:00 # close your call for proposals.
+cfp_date_announce:  2023-02-10T12:00:00+01:00 # inform proposers of status
 
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
@@ -33,15 +33,15 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 # Location
 #
-coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+coordinates: "46.1758689, 6.1364216" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Geneva" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "Campus de Battelle, Rue de la Tambourine 17, 1227 Carouge" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
-#  - name: location
- # - name: registration
+  - name: propose
+  - name: location
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -100,6 +100,20 @@ sponsors:
     level: gold
   - id: hidora
     level: gold
+  - id: pure-storage
+    level: gold
+  - id: feesh
+    level: gold
+  - id: swissdevjobs
+    level: community
+  - id: pictet
+    level: gold
+  - id: dbi-services
+    level: silver
+  - id: exoscale
+    level: gold
+  - id: apalia
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

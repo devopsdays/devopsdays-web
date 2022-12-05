@@ -1,7 +1,7 @@
 +++
 Talk_date = "2022-11-26"
-Talk_start_time = "13:30"
-Talk_end_time = "13:55"
+Talk_start_time = "11:35"
+Talk_end_time = "12:00"
 Title = "GitOps em toda parte com ArgoCD"
 Type = "talk"
 Speakers = ["andre-gusmao"]

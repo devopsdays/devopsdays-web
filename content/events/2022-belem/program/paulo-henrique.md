@@ -7,6 +7,4 @@ Type = "talk"
 Speakers = ["paulo-henrique"]
 +++
 
-Somos DevOps Engineers responsáveis pelo produto Globoplay, maior streaming brasileiro. Superando netflix. https://globoplay.globo.com/
-
-DevOps Engineer criado no arroz com pequi.
+A globo decide vender o seu próprio datacenter no Rio de Janeiro e migrar para GCP, em uma parceria estratégica, que assim que foi iniciada, nosso time de DevOps do Globoplay levou em torno de 1 ano para levar todos os microsserviços para o a GCP. Nessa talk abordaremos nossas estratégias, desafios e problemas no meio do caminho, abordaremos assuntos como PaaS, FinOps, distribuição mundial de conteúdo, microsserviços, entre outros assuntos em que DevOps nos levou ao sucesso desta jornada.

@@ -29,7 +29,7 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 # Location
 #
 coordinates: "50.109730, 14.501550" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "prague" # Defaults to city, but you can make it the venue name.
+location: "Clarion Congress Hotel" # Defaults to city, but you can make it the venue name.
 #
 location_address: "Freyova 33, Prague 9, 190 00" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
@@ -75,10 +75,12 @@ team_members: # Name is the only required field for team members.
     bio: "For more than a decade, I've been crafting the ability of introducing sophisticated bugs into the software for future generations to resolve. That led me to an idea to share this art with community on MeetUps and spread the joy of software engineering."
     image: "l_kovac.jpg"
   - name: "Juraj Michálek"
-    bio: "I've been working as an SRE for the past four years. Currently I am a member of Performance & Observability team at Medallia where I focus on our Time series setup."
+    bio: "I've been working as an SRE for the past four years. Currently I am a member of Performance & Observability team at matillion.com where I focus on our Time series setup."
     image: "j_michalek.jpg"
     twitter: "MichalekJuraj"
   - name: "Marek Sottl"
+    bio: "I have been in software development and security for more than 10 years and I found my purpose in the development and the cloud. I hold several Cloud certifications, run the YouTube channel Hakcitect´s playground, and maintain open-sourced ultimate DevSecOps Library. A creative atmosphere and connecting innovative brains are the reasons why I want to build communities at scale."
+    image: "m_sottl.jpg"
   - name: "Vaclav Kotyk"
 
 organizer_email: "prague@devopsdays.org" # Put your organizer email address here
@@ -86,6 +88,14 @@ organizer_email: "prague@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: pure-storage
+    level: silver
+    url: "https://www.purestorage.com/company/careers/opportunities.html"
+  - id: pure-storage
+    level: lanyard
+    url: "https://www.purestorage.com/company/careers/opportunities.html"
+  - id: art4people
+    level: community
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -95,10 +105,18 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: social-event
+    label: Social Event
   - id: gold
     label: Gold
+  - id: t-shirt
+    label: T-Shirt
+  - id: lunch
+    label: Lunch
   - id: silver
     label: Silver
+  - id: lanyard
+    label: Lanyard
   - id: bronze
     label: Bronze
   - id: community
