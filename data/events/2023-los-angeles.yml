@@ -99,8 +99,8 @@ sponsor_levels:
     label: Community
 
 sponsors:
-  # - id: macstadium
-  #   level: gold
+  - id: circleci
+    level: gold
   - id: scale
     level: community
     url: https://www.socallinuxexpo.org
