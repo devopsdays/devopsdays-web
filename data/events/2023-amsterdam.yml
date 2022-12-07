@@ -48,7 +48,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     icon: "sign-in"
   # - name: program
   # - name: speakers
-  # - name: sponsor
+  - name: sponsor
+    icon: "money"
   - name: contact
     icon: "comment"
   - name: conduct
