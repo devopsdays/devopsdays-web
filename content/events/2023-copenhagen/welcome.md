@@ -16,8 +16,7 @@ Description = "devopsdays Copenhagen 2023"
       <strong>Dates</strong>
     </div>
     <div class = "col-md-8">
-      <!-- {{< event_start >}} - {{< event_end >}} -->
-      TBD
+      {{< event_start >}} - {{< event_end >}}
     </div>
   </div>
 
