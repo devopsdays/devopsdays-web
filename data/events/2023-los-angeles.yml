@@ -106,7 +106,7 @@ sponsors:
   - id: ctrlstack
     level: gold
   - id: reversinglabs
-  - level: gold
+    level: gold
   - id: scale
     level: community
     url: https://www.socallinuxexpo.org
