@@ -101,6 +101,12 @@ sponsor_levels:
 sponsors:
   - id: circleci
     level: gold
+  - id: cloudbees
+    level: gold
+  - id: ctrlstack
+    level: gold
+  - id: reversinglabs
+    level: gold
   - id: scale
     level: community
     url: https://www.socallinuxexpo.org
