@@ -107,6 +107,8 @@ sponsors:
     level: gold
   - id: reversinglabs
     level: gold
+  - id: kubeevents
+    level: community
   - id: scale
     level: community
     url: https://www.socallinuxexpo.org
