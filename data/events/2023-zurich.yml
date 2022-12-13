@@ -147,6 +147,10 @@ sponsors:
     level: event
   - id: erni
     level: gold
+  - id: cloudbees
+    level: gold  
+  - id: enterprisedb
+    level: silver
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
