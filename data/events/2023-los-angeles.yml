@@ -107,6 +107,10 @@ sponsors:
     level: gold
   - id: reversinglabs
     level: gold
+  - id: tricentis
+    level: gold
+  - id: akeyless
+    level: gold
   - id: kubeevents
     level: community
   - id: scale
