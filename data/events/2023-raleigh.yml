@@ -91,6 +91,9 @@ team_members: # Name is the only required field for team members.
     github: "shanedroid"
     linkedin: "https://www.linkedin.com/in/shanek1rk/"
     image: "shane-kirk.jpg"
+  - name: "Jeremy Neff"
+    github: "n3ff"
+    linkedin: "https://www.linkedin.com/in/jeremy-r-neff/"
 
 organizer_email: "raleigh@devopsdays.org" # Put your organizer email address here
 
