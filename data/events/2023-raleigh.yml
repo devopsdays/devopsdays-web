@@ -68,10 +68,6 @@ team_members: # Name is the only required field for team members.
     employer: "Cprime"
     linkedin: "https://www.linkedin.com/in/kathleencothran/"
     image: "katie-cothran.jpg"
-  - name: "Kyle Anderson"
-    employer: "Cprime"
-    image: "kyle-anderson.jpg"
-    linkedin: "https://www.linkedin.com/in/kylewjanderson/"
   - name: "RJ Williams"
     linkedin: "https://www.linkedin.com/in/robertwilliamsjunior"
     employer: "Cprime"
@@ -95,6 +91,9 @@ team_members: # Name is the only required field for team members.
     github: "shanedroid"
     linkedin: "https://www.linkedin.com/in/shanek1rk/"
     image: "shane-kirk.jpg"
+  - name: "Jeremy Neff"
+    github: "n3ff"
+    linkedin: "https://www.linkedin.com/in/jeremy-r-neff/"
 
 organizer_email: "raleigh@devopsdays.org" # Put your organizer email address here
 
