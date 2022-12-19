@@ -1,11 +1,11 @@
 +++
 Title = "Conduct"
 Type = "event"
-Description = "Code of conduct for devopsdays Austin 2022"
+Description = "Code of conduct for devopsdays Austin 2023"
 +++
 
 
-All attendees, speakers, sponsors, and volunteers at devopsdays Austin 2020 are required to agree with the following code of conduct. Organizers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensure a safe environment for everybody.
+All attendees, speakers, sponsors, and volunteers at devopsdays Austin 2023 are required to agree with the following code of conduct. Organizers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensure a safe environment for everybody.
 
 ### The Quick Version
 
@@ -41,4 +41,4 @@ V. I understand that people are different and I attempt to be forgiving of other
 
 VI. I trust the devopsdays organizers and attendees will co-create the best possible experience for everyone involved, as I will. I believe devopsdays is about empowering people and I will not forget I am empowered to create a safe and nurturing environment. If I or any other attendee violates this aspect of the event, I expect the conference organizers to protect the attendees by direct action, including expelling those in violation and contacting the proper authorities.
 
-_The devopsdays Austin 2022 Code of Conduct is based on [confcodeofconduct.com](https://confcodeofconduct.com)._ 
+_The devopsdays Austin 2023 Code of Conduct is based on [confcodeofconduct.com](https://confcodeofconduct.com)._ 
