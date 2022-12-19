@@ -95,7 +95,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/jpiscaer"
     twitter: "jpiscaer"
     image: "joep.png"
-    role: "Speaker Team"
+    role: "Finance & Speaker Team"
 
   - name: "Jos van Schouten"
     linkedin: "https://www.linkedin.com/in/josvanschouten/"
