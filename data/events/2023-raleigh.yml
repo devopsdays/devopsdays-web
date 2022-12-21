@@ -87,7 +87,7 @@ team_members: # Name is the only required field for team members.
   - name: "Jeremy Neff"
     gitlab: "n3ff"
     github: "JRN00"
-    twitter: "whiskeytun"
+    twitter: "whiskeytuna"
     image: "jeremy-neff.png"
     linkedin: "https://www.linkedin.com/in/jeremy-r-neff/"
 
