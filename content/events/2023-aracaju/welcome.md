@@ -2,7 +2,7 @@
 Title = "DevOpsDays Aracaju 2023"
 Type = "welcome"
 aliases = ["/events/2023-aracaju/"]
-Description = "devopsdays Aracaju 2023 will take place April 29, 2023! The group that brought you devopsdays Amsterdam is back together and planning the 2023 event."
+Description = "devopsdays Aracaju 2023 will take place May 6, 2023!"
 +++
 
 <!-- <div style="text-align:center;">
@@ -82,6 +82,6 @@ Description = "devopsdays Aracaju 2023 will take place April 29, 2023! The group
 Participe da 2ª Edição do DevOpsDays Aracaju!
 ===
 
-DevOpsDays acontecerá em Aracaju no dia 29 de Abril de 2023, em seu segundo ano!
+DevOpsDays acontecerá em Aracaju no dia 6 de Maio de 2023, em seu segundo ano!
 
 Em breve atualizaremos o portal com datas de submissão de talks e propostas de patrocínio.
