@@ -140,7 +140,7 @@ Visando valorizar a participação de instituições na realização do evento, 
 </div>
 <div>
   <p><strong>COMUNIDADE:</strong> Apoiadores que contribuiram com algum beneficio para o público ou quantia abaixo de  R$ 1.000 terão direito à divulgação nas redes sociais e 1 inscrição para o evento.</p>
-    <p style="font-size:18px">Veja mais e nosso mídia kit no documento completo clicando<a href=""><i class="fa fa-download" style="font-size:30px"></i></a></p>
+    <p style="font-size:18px">Veja mais e nosso mídia kit no documento completo clicando<a href="https://www.dropbox.com/s/d3afn9931od64zs/DodAju%20-%20Proposta%20de%20apoio.pdf?dl=0"><i class="fa fa-download" style="font-size:30px"></i></a></p>
 </div>
 
 <!--EN-->
@@ -276,5 +276,5 @@ Aiming to enhance the participation of institutions in the event, we organized p
 </div>
 <div>
 <p><strong>COMMUNITY:</strong> Supporters who have contributed with some benefit to the public or the amount bellow US$ 300,00 will receive the right to be promoted on social media and 1 registration for the event.</p>
-    <p style="font-size:18px">You can check more about sponsorship and the benefits here (in portuguese) <a href="https://www.canva.com/design/DAFQR-lgFd8/eJAFn5Ne74UZTBM58v49Ag/view?utm_content=DAFQR-lgFd8&utm_campaign=designshare&utm_medium=link"><i class="fa fa-download" style="font-size:30px"></i></a></p>
+    <p style="font-size:18px">You can check more about sponsorship and the benefits here (in portuguese) <a href="https://www.dropbox.com/s/d3afn9931od64zs/DodAju%20-%20Proposta%20de%20apoio.pdf?dl=0"><i class="fa fa-download" style="font-size:30px"></i></a></p>
 </div>
