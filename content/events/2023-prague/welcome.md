@@ -36,14 +36,16 @@ Description = "devopsdays prague 2023"
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
+    <a href="https://talx.devops.foundation/devopsdays-prague-2023/cfp">
+      Propose a talk!
+    </a>
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
