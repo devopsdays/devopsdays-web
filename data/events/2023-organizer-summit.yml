@@ -50,17 +50,29 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Matty Stratton"
+    role: "Chicago, Core"
   - name: "Yvo van Doorn"
+    role: "Amsterdam, Eindhoven, Ghent, Core"
   - name: "Rex Roof"
+    role" "Detroit"
   - name: "Kevin Reedy"
+    role: "Chicago"
   - name: "Brian Andersen"
+    role: "Chicago"
   - name: "Joshua Goldman"
+    role: "Chicago"
   - name: "Chris Read"
+    role: "Chicago"
   - name: "Christian Herro"
+    role: "Madison, Chicago"
   - name: "Margaret Valtierra"
+    role: "Chicago"
   - name: "Sasha Rosenbaum"
+    role: "Chicago"
   - name: "Hari Vedam"
+    role: "Chicago"
   - name: "Russell Kaehler"
+    role: "New York City"
 
 organizer_email: "organizer-summit@devopsdays.org" # Put your organizer email address here
 
