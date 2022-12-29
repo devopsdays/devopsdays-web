@@ -54,7 +54,7 @@ team_members: # Name is the only required field for team members.
   - name: "Yvo van Doorn"
     role: "Amsterdam, Eindhoven, Ghent, Core"
   - name: "Rex Roof"
-    role" "Detroit"
+    role: "Detroit"
   - name: "Kevin Reedy"
     role: "Chicago"
   - name: "Brian Andersen"
