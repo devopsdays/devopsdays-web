@@ -31,7 +31,7 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Chicago, IL, USA" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "233 S Wacker Dr, Chicago, IL 60606" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
@@ -49,16 +49,11 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
-  - name: "John Doe"
-  - name: "Jane Smith"
-    twitter: "devopsdays"
-  - name: "Sally Fields"
-    employer: "Acme Anvil Co."
-    github: "devopsdays"
-    facebook: "https://www.facebook.com/sally.fields"
-    linkedin: "https://www.linkedin.com/in/sallyfields"
-    website: "https://mattstratton.com"
-    image: "sally-fields.jpg"
+  - name: "Matty Stratton"
+    role: "Chicago"
+  - name: "Yvo van Doorn"
+    role: "Amsterdam"
+  - name: "Rex Roof"
 
 organizer_email: "organizer-summit@devopsdays.org" # Put your organizer email address here
 
