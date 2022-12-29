@@ -35,7 +35,7 @@ location_address: "233 S Wacker Dr, Chicago, IL 60606" #Optional - use the stree
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
- # - name: location
+  - name: location
  # - name: registration
  # - name: program
  # - name: speakers
