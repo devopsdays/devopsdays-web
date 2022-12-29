@@ -50,10 +50,17 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Matty Stratton"
-    role: "Chicago"
   - name: "Yvo van Doorn"
-    role: "Amsterdam"
   - name: "Rex Roof"
+  - name: "Kevin Reedy"
+  - name: "Brian Andersen"
+  - name: "Joshua Goldman"
+  - name: "Chris Read"
+  - name: "Christian Herro"
+  - name: "Margaret Valtierra"
+  - name: "Sasha Rosenbaum"
+  - name: "Hari Vedam"
+  - name: "Russell Kaehler"
 
 organizer_email: "organizer-summit@devopsdays.org" # Put your organizer email address here
 
@@ -62,6 +69,8 @@ organizer_email: "organizer-summit@devopsdays.org" # Put your organizer email ad
 sponsors:
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
+    level: community
+  - id: devopsdays-chicago
     level: community
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
