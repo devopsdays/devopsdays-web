@@ -75,6 +75,8 @@ team_members: # Name is the only required field for team members.
     role: "New York City"
   - name: "JJ Asghar"
     role: "Austin, Houston, Texas"
+  - name: "Floor Drees"
+    role: "Amsterdam, Eindhoven"
 
 organizer_email: "organizer-summit@devopsdays.org" # Put your organizer email address here
 
