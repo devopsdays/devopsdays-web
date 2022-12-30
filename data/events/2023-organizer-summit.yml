@@ -65,6 +65,8 @@ team_members: # Name is the only required field for team members.
     role: "Detroit"
     twitter: "rexroof"
     image: "rex-roof.jpeg"
+    linkedin: "https://www.linkedin.com/in/rex-roof-79754a116/"
+    github: "rexroof"
   - name: "Kevin Reedy"
     role: "Chicago"
     image: "kevin-reedy.jpg"
