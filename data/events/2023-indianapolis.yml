@@ -90,6 +90,8 @@ organizer_email: "indianapolis@devopsdays.org" # Put your organizer email addres
 sponsors:
   - id: tailored-automation
     level: gold
+  - id: appdynamics
+    level: gold
   - id: arresteddevops
     level: community
   - id: learnk8s
