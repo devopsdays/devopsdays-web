@@ -113,6 +113,12 @@ sponsors:
     level: gold
   - id: kubeevents
     level: community
+  - id: trendmicro
+    level: gold
+  - id: observeinc
+    level: gold
+  - id: port
+    level: gold
   - id: scale
     level: community
     url: https://www.socallinuxexpo.org
