@@ -29,10 +29,10 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 # Location
 #
-coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Goiânia" # Defaults to city, but you can make it the venue name.
+coordinates: "-16.66297068140222, -49.25176208347601" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "FIEG - Casa Da Indústria" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "Rua 200-C - Setor Leste Vila Nova, Goiânia - GO, 74055-235" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: Chamadas (CFP)
