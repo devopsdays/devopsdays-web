@@ -86,6 +86,12 @@ Virtual attendance is available for those who cannot attend in person.
     {{< event_link page="contact" text="Get in touch with the organizers" >}}
   </div>
 </div>
+<hr>
+<!-- <div class = "row">
+  <div class = "col-md-12">
+    <h2>FAQs</h2<>
+  </div>
+</div> -->
 
 <!-- Uncomment if you added your city twitter name -->
 <!--
