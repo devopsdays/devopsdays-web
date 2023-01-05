@@ -30,9 +30,9 @@ The best thing to do is send engineers to interact with the experts at devopsday
   <tbody>
     <tr>
       <td>Price</td>
-      <td>$15,000</td>
-      <td>$9,000</td>
-      <td>$2,000</td>
+      <td><del>$15,000</del>&nbsp$14,000</td>
+      <td><del>$9,000</del>&nbsp$8,000</td>
+      <td><del>$2,000</del>&nbsp$1,000</td>
       <td>Free</td>
     </tr>
     <tr>
