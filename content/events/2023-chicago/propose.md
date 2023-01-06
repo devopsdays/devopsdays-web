@@ -24,7 +24,7 @@ There are four ways to propose a topic at devopsdays:
 - Multiple entries are welcome.
 - Submissions must be made by one of the proposed presenters; **we do not accept proposals submitted on behalf of others**
 - All presentations must conform to the code of conduct.
-- Proposals must be submitted via [our CFP site](https://chicago-proposals.devopsdays.org/devopsdays-chicago-2023/). If you have questions about our CFP process, please email: [{{< email_organizers >}}]
+- Proposals must be submitted via [our CFP site](https://chicago-proposals.devopsdays.org/devopsdays-chicago-2023/cfp). If you have questions about our CFP process, please email: [{{< email_organizers >}}]
 
 ### Ideas
 
@@ -77,4 +77,4 @@ Our main criteria to make it to the top selection are:
 
 <hr>
 
-<strong>How to submit a proposal:</strong> How to submit a proposal: Visit our [CFP Site and submit a proposal there](https://chicago-proposals.devopsdays.org/devopsdays-chicago-2023/). If you run into any problems, please don’t hesitate to contact us by email at [{{< email_organizers >}}].
+<strong>How to submit a proposal:</strong> How to submit a proposal: Visit our [CFP Site and submit a proposal there](https://chicago-proposals.devopsdays.org/devopsdays-chicago-2023/cfp). If you run into any problems, please don’t hesitate to contact us by email at [{{< email_organizers >}}].
