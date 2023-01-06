@@ -1,11 +1,7 @@
 +++
 Title = "devopsdays Chicago 2023"
 Type = "welcome"
-<<<<<<< HEAD
-aliases = ["/events/2022-chicago/"]
-=======
 aliases = ["/events/2023-chicago/"]
->>>>>>> 7e9e31c8d49c00cc07bd17317b279df02f66e799
 Description = "DevOpsDays Chicago is coming back in 2023! The group that brought you DevOpsDays Chicago 2014-2022 is back together and planning the 2023 event.  We're encouraged by the feedback from previous year's events and are determined to bring an improved experience and continue the DevOps conversation for 2023 in Chicago."
 +++
 <div class = "row">

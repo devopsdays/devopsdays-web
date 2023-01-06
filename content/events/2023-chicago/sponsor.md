@@ -8,11 +8,7 @@ We greatly value sponsors for this community event. If you are interested in spo
 We greatly value sponsors for this community event. If you are interested in sponsoring, please  <a href="mailto:chicago-sponsors@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Chicago%202023">send us an email</a>.
 <hr>
 
-<<<<<<< HEAD
-devopsdays is a self organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
-=======
 DevOpsDays Chicago is a self organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
->>>>>>> 7e9e31c8d49c00cc07bd17317b279df02f66e799
 <p>
 Platinum and Gold sponsors get a full table in the sponsor area where they can interact with those interested to come visit during breaks. All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
 <p>
@@ -34,15 +30,9 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
   <tbody>
     <tr>
       <td>Price</td>
-<<<<<<< HEAD
-      <td>$15,000</td>
-      <td>$9,000</td>
-      <td>$2,000</td>
-=======
       <td><del>$15,000</del>&nbsp$14,000</td>
       <td><del>$9,000</del>&nbsp$8,000</td>
       <td><del>$2,000</del>&nbsp$1,000</td>
->>>>>>> 7e9e31c8d49c00cc07bd17317b279df02f66e799
       <td>Free</td>
     </tr>
     <tr>
@@ -58,21 +48,13 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <td></td>
       <td>
         <!-- Platinum Paypal button  -->
-<<<<<<< HEAD
-        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-=======
         <!-- <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
->>>>>>> 7e9e31c8d49c00cc07bd17317b279df02f66e799
           <input type="hidden" name="cmd" value="_s-xclick">
           <input type="hidden" name="hosted_button_id" value="LUSEMWLZ7MKKW">
           <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
           <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-<<<<<<< HEAD
-        </form>
-=======
         </form> -->
         <a href="mailto:chicago-sponsors@devopsdays.org?subject=Interested%20in%20Platinum%20Sponsorship%20DevOpsDays%20Chicago%202023">Contact us</a>
->>>>>>> 7e9e31c8d49c00cc07bd17317b279df02f66e799
       </td>
       <td>
       <!-- Gold Paypal button  -->
@@ -92,11 +74,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
           <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
         </form>
       </td>
-<<<<<<< HEAD
-      <td><a href="mailto:chicago-sponsors@devopsdays.org?subject=Interested%20in%20Community%20Sponsorship%20DevOpsDays%20Chicago%202022">Contact us</a>
-=======
       <td><a href="mailto:chicago-sponsors@devopsdays.org?subject=Interested%20in%20Community%20Sponsorship%20DevOpsDays%20Chicago%202023">Contact us</a>
->>>>>>> 7e9e31c8d49c00cc07bd17317b279df02f66e799
       </td>
     </tr>
     <tr>
@@ -149,11 +127,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <td></td>
     </tr>
     <tr>
-<<<<<<< HEAD
-      <td>Logo on banner at evening event</td>
-=======
       <td>Logo on banner at registration area</td>
->>>>>>> 7e9e31c8d49c00cc07bd17317b279df02f66e799
       <td><img src = "/events/2023-chicago/yak-head.png"></td>
       <td><img src = "/events/2023-chicago/yak-head.png"></td>
       <td><img src = "/events/2023-chicago/yak-head.png"></td>
