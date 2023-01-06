@@ -85,6 +85,11 @@ We recommend moving this block and the preceding CSS link to the HEAD of your HT
               <i class="fa fa-book fa-lg"></i>&nbsp;&nbsp;&nbsp;View the Program
             </a>
           </div> -->
+       <div class = "d-flex p-2">
+            <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://chicago-proposals.devopsdays.org/devopsdays-chicago-2023/">
+              <i class="fa fa-microphone fa-lg"></i>&nbsp;&nbsp;&nbsp;Propose a Talk
+            </a>
+          </div>
         </div>
       </div>
     </div> <!-- end a content element -->
