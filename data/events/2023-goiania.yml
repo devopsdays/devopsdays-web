@@ -86,8 +86,8 @@ team_members: # Name is the only required field for team members.
     image: "franzwagner-ternus.jpg"
 
   - name: "Juliana Gaioso"
-    employer: "Z1"
-    bio: "Cybersecurity engineer"
+    employer: "Swap"
+    bio: "Information Security Architect"
     github: "juligaioso"
     twitter: "juligaioso"
     linkedin: "https://www.linkedin.com/in/juligaioso"
@@ -102,8 +102,8 @@ team_members: # Name is the only required field for team members.
     image: "marcelo-paiva.jpg"
 
   - name: "Rafael Sobreira Braga"
-    employer: "Pottencial Seguradora"
-    bio: "Arquiteto Cloud/DevOps/SRE"
+    employer: "Bexs"
+    bio: "DevOps Engineer"
     github: "rafaelsobreirabraga"
     twitter: "braga_sobreira"
     linkedin: "https://www.linkedin.com/in/rafaelsobreirabraga"
