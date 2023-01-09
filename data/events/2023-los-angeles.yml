@@ -93,8 +93,10 @@ sponsor_levels:
   - id: silver
     label: Silver
     max: 0 # This is the same as omitting the max limit.
-  - id: bronze
-    label: Bronze
+  - id: startup
+    label: Startup
+  - id: coffee
+    label: Coffee Break
   - id: community
     label: Community
 
@@ -111,6 +113,12 @@ sponsors:
     level: gold
   - id: akeyless
     level: gold
+  - id: mend
+    level: gold
+  - id: ngrok
+    level: gold
+  - id: stackhawk
+    level: gold
   - id: kubeevents
     level: community
   - id: trendmicro
@@ -119,6 +127,8 @@ sponsors:
     level: gold
   - id: port
     level: gold
+  - id: tailscale
+    level: coffee
   - id: scale
     level: community
     url: https://www.socallinuxexpo.org
