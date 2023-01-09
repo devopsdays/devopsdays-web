@@ -101,7 +101,16 @@
       {{- end -}}
       </a>
       {{- end -}}
-    {{- end -}}
+      {{- if isset .Params "mastodon" -}}
+        {{- if ne .Params.twitch "" -}}
+          <a href = "{{ .Params.mastodon }}"><i class="fab fa-mastodon fa-2x" aria-hidden="true"></i>&nbsp;
+            {{- if $e.speakers_verbose -}}
+              {{ .Params.mastodon }}<br />
+            {{- end -}}
+          </a>
+        {{- end -}}
+      {{- end -}}
+      {{- end -}}
   </div>
 </div>
 {{ partial "sponsors.html" . }}
