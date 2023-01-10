@@ -7,7 +7,7 @@ Description = "DevOpsDays #StandWithUkraine"
 
 ### Devopsdays [#StandWithUkraine](https://twitter.com/hashtag/StandWithUkraine)
 <div class="alert alert-danger" role="alert">
-   DevOpsDays Ukraine 2022 is now a charity edition of the conference with all proceeds going toward local, Ukrainian-led humanitarian causes.
+   DevOpsDays Ukraine 2023 is now a charity edition of the conference with all proceeds going toward local, Ukrainian-led humanitarian causes.
 
    <!--
    The most up to date information on the event and speakers can be found at [https://devopsdays.com.ua/](https://devopsdays.com.ua/).
