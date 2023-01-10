@@ -117,6 +117,8 @@ We recommend moving this block and the preceding CSS link to the HEAD of your HT
     </div> -->
 <h2>The DevOps Yak is Back!</h2>
 <img src = "/events/2022-chicago/yak.png" class = "img-fluid">
+    <br>
+    <a rel="me" href="https://hachyderm.io/@devopsdayschi">Mastodon</a>
 
   </div>
 
