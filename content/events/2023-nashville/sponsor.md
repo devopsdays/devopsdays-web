@@ -29,7 +29,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
   <div class = "col-md-12">
     <div class = "row justify-content-center">
       <div class = "d-flex p-2">
-          <a class="btn btn-secondary btn-block" href="https://drive.google.com/file/d/1Rxl48HFkQLdz40YpqYy_8Aq5uZvmSCrC/view?usp=sharing"> <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Learn more about Sponsorship</a>
+          <a class="btn btn-secondary btn-block" href="https://drive.google.com/file/d/1dBnUaT6vLc6Nc_3Dj7QsMoDMtC4Csvw5/view?usp=share_link"> <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Learn more about Sponsorship</a>
       </div>
       <!-- <div class = "d-flex p-2">
           <a class="btn btn-secondary btn-block" href="/events/2021-birmingham/sponsor"> <i class="fa fa-envelope fa-lg"></i>&nbsp;&nbsp;&nbsp;Contact about Sponsorship</a>
