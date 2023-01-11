@@ -33,15 +33,15 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 # Location
 #
-coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+coordinates: "46.1758689, 6.1364216" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Geneva" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "Campus de Battelle, Rue de la Tambourine 17, 1227 Carouge" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
-#  - name: location
- # - name: registration
+  - name: location
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -106,6 +106,22 @@ sponsors:
     level: gold
   - id: swissdevjobs
     level: community
+  - id: pictet
+    level: gold
+  - id: dbi-services
+    level: silver
+  - id: exoscale
+    level: gold
+  - id: apalia
+    level: silver
+  - id: webmardi
+    level: community
+  - id: sokube
+    level: silver
+  - id: apwide
+    level: silver
+  - id: secureflag
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

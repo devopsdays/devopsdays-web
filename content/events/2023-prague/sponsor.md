@@ -49,7 +49,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
     <th><center>Bronze</center></th>
     <th><center>Silver</center></th>
     <th><center>Gold</center></th>
-    <th><center>Lanyard</center></th>
+    <th><center><s>Lanyard</s><br />SOLD OUT</center></th>
     <th><center>T-Shirt</center></th>
     <th><center>Lunch</center></th>
     <th><center>Social event</center></th>

@@ -1,11 +1,11 @@
 +++
 Title = "Conduct"
 Type = "event"
-Description = "Code of conduct for devopsdays Austin 2022"
+Description = "Code of conduct for devopsdays Austin 2023"
 +++
 
 
-All attendees, speakers, sponsors, and volunteers at devopsdays Austin 2020 are required to agree with the following code of conduct. Organizers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensure a safe environment for everybody.
+All attendees, speakers, sponsors, and volunteers at devopsdays Austin 2023 are required to agree with the following code of conduct. Organizers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensure a safe environment for everybody.
 
 ### The Quick Version
 
@@ -21,7 +21,7 @@ If a participant engages in harassing behavior, the conference organizers may ta
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately.
 
-**Health and Safety Note:** Attendees will be required to adhere to COVD specific safety measures determined by DevOpsDays Austin, which will involve wearing masks and other measures as the pandemic level dictates as the event nears, which will be communicated to all attendees. Failure to comply with these measures, disruption related to them, or harassing conference staff or organizers about them will be grounds for immediate expulsion from the conference venue without refund. See also {{< event_link page="covid" text="COVID Policy" >}}.
+**Health and Safety Note:** Attendees will be required to adhere to COVID specific safety measures determined by DevOpsDays Austin, which will involve wearing masks and other measures as the pandemic level dictates as the event nears, which will be communicated to all attendees. Failure to comply with these measures, disruption related to them, or harassing conference staff or organizers about them will be grounds for immediate expulsion from the conference venue without refund. See also {{< event_link page="covid" text="COVID Policy" >}}.
 
 Conference staff can be identified by distinct staff badges. Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
 
@@ -41,4 +41,4 @@ V. I understand that people are different and I attempt to be forgiving of other
 
 VI. I trust the devopsdays organizers and attendees will co-create the best possible experience for everyone involved, as I will. I believe devopsdays is about empowering people and I will not forget I am empowered to create a safe and nurturing environment. If I or any other attendee violates this aspect of the event, I expect the conference organizers to protect the attendees by direct action, including expelling those in violation and contacting the proper authorities.
 
-_The devopsdays Austin 2022 Code of Conduct is based on [confcodeofconduct.com](https://confcodeofconduct.com)._ 
+_The devopsdays Austin 2023 Code of Conduct is based on [confcodeofconduct.com](https://confcodeofconduct.com)._ 

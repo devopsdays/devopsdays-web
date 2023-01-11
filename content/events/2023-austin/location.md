@@ -1,7 +1,7 @@
 +++
 Title = "Location"
 Type = "event"
-Description = "Location for devopsdays Austin 2022"
+Description = "Location for devopsdays Austin 2023"
 +++
 
 <div class="row">

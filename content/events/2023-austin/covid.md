@@ -11,7 +11,9 @@ All attendees, sponsors, and everyone on site must:
 * Wear a mask/face covering
 * Show proof of a negative COVID test within 72 hours of the event **OR** show proof of at least 2 COVID vaccine shots with the last dose performed at least two weeks prior to the event
 
-We ask that anyone sick with COVID or with recent exposure to COVID-positive individuals not attend. Should DevOpsDays Austin 2023 be cancelled due to COVID, we will not move to an online format. Please direct questions or concerns by email to: **{{< email_organizers >}}**.
+We ask that anyone sick with COVID or with recent exposure to COVID-positive individuals not attend. Should DevOpsDays Austin 2023 be cancelled due to COVID, we will not move to an online format. This policy is subject to change up to and including during the conference. However, no relaxation of the policy will be implemented within 30 days of the event. 
+
+Please direct questions or concerns by email to: **{{< email_organizers >}}**.
 
 ### FAQ
 

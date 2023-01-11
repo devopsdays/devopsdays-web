@@ -110,10 +110,13 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: platinum
     label: Platina
+    max: 6
   - id: gold
     label: Gold
+    max: 5
   - id: silver
     label: Silver
+    max: 5
   - id: community
     label: Comunidade
   - id: media
@@ -126,9 +129,15 @@ sponsors:
     level: platinum
   - id: encora
     level: platinum
+  - id: hashicorp
+    level: platinum
+  - id: cisco
+    level: platinum
   - id: lunio
     level: gold
   - id: espaco-cloud
+    level: gold
+  - id: harness
     level: gold
   - id: liferay
     level: community
@@ -141,94 +150,88 @@ program:
   - title: "Credenciamento"
     type: custom
     date: 2022-12-10T00:09:00-03:00
-    start_time: "07:45"
+    start_time: "08:15"
     end_time: "10:00"
 
   - title: "marylia-gutierrez"
     type: talk
     date: 2022-12-10T00:09:00-03:00
-    start_time: "08:15"
-    end_time: "08:50"
+    start_time: "09:00"
+    end_time: "09:30"
 
   - title: "juraci-paixao-krohling"
     type: talk
     date: 2022-12-10T00:09:00-03:00
-    start_time: "08:50"
-    end_time: "09:35"
+    start_time: "09:40"
+    end_time: "10:10"
 
   - title: "vinicius-dias"
     type: talk
     date: 2022-12-10T00:09:00-03:00
-    start_time: "09:35"
-    end_time: "10:10"
+    start_time: "10:20"
+    end_time: "10:50"
 
-  - title: "Open Spaces 💬 / Cofee Break ☕️"
-    type: open-space
-    date: 2022-12-10T00:09:00-03:00
-    start_time: "10:10"
-    end_time: "10:40"
-
-  - title: "tainara-almeida"
+  - title: "josino-rodrigues"
     type: talk
     date: 2022-12-10T00:09:00-03:00
-    start_time: "10:40"
-    end_time: "11:15"
+    start_time: "11:00"
+    end_time: "11:30"
 
   - title: "arafat-khan"
     type: talk
     date: 2022-12-10T00:09:00-03:00
-    start_time: "11:15"
-    end_time: "12:00"
+    start_time: "11:40"
+    end_time: "12:10"
 
   - title: "Almoço 🍽️"
     type: custom
     date: 2022-12-10T00:09:00-03:00
-    start_time: "12:00"
-    end_time: "13:30"
+    start_time: "12:10"
+    end_time: "13:40"
 
   - title: "tiago-valenca"
     type: talk
     date: 2022-12-10T00:09:00-03:00
-    start_time: "13:30"
-    end_time: "14:05"
+    start_time: "13:40"
+    end_time: "14:10"
 
   - title: "robert-silva"
     type: talk
     date: 2022-12-10T00:09:00-03:00
-    start_time: "14:05"
-    end_time: "14:40"
-
-  - title: "luiz-aoqui"
-    type: talk
-    date: 2022-12-10T00:09:00-03:00
-    start_time: "14:40"
-    end_time: "15:15"
+    start_time: "14:20"
+    end_time: "14:50"
 
   - title: "Open Spaces 💬 / Cofee Break ☕️"
     type: open-space
     date: 2022-12-10T00:09:00-03:00
-    start_time: "15:15"
-    end_time: "15:45"
+    start_time: "15:00"
+    end_time: "15:30"
+
+  - title: "Open Spaces 💬 / Cofee Break ☕️"
+    type: open-space
+    date: 2022-12-10T00:09:00-03:00
+    start_time: "15:30"
+    end_time: "16:00"
+
+  - title: "luiz-aoqui"
+    type: talk
+    date: 2022-12-10T00:09:00-03:00
+    start_time: "16:00"
+    end_time: "16:30"
 
   - title: "marcelo-manchester"
     type: talk
     date: 2022-12-10T00:09:00-03:00
-    start_time: "15:45"
-    end_time: "16:20"
+    start_time: "16:40"
+    end_time: "17:10"
 
   - title: "igor-macedo"
     type: talk
     date: 2022-12-10T00:09:00-03:00
-    start_time: "16:20"
-    end_time: "16:55"
+    start_time: "17:20"
+    end_time: "17:50"
 
-  - title: "Encerramento"
-    type: custom
-    date: 2022-12-10T00:09:00-03:00
-    start_time: "17:00"
-    end_time: "18:00"
-
-  - title: "Happy Hour 🍻"
+  - title: "Encerramento + Happy Hour 🍻"
     type: custom
     date: 2022-12-10T00:09:00-03:00
     start_time: "18:00"

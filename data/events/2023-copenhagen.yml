@@ -10,8 +10,8 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2022-01-05T23:59:59+02:00
 # Note: we allow 2022-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2023-05-02T00:00:00+02:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2023-05-03T00:00:00+02:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  # start accepting talk proposals.
@@ -89,8 +89,11 @@ organizer_email: "denmark@devopsdays.org" # Put your organizer email address her
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
-# sponsors:
-
+sponsors:
+  - id: eficode
+    level: gold
+  - id: destination-aarhus
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -98,15 +101,15 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
-# sponsor_levels:
-#   - id: gold
-#     label: Gold
-# #    max: 10
-#   - id: silver
-#     label: Silver
-#     max: 0 # This is the same as omitting the max limit.
-#   - id: bronze
-#     label: Bronze
-#   - id: community
-#     label: Community
+sponsor_levels:
+  - id: gold
+    label: Gold
+#    max: 10
+  - id: silver
+    label: Silver
+    max: 0 # This is the same as omitting the max limit.
+  - id: bronze
+    label: Bronze
+  - id: community
+    label: Community
 

@@ -14,11 +14,11 @@ startdate: 2023-04-12  # The start date of your event. Leave blank if you don't 
 enddate: 2023-04-13 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
+cfp_date_start: 2022-10-01  # start accepting talk proposals.
+cfp_date_end: 2023-01-20  # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://docs.google.com/forms/d/e/1FAIpQLScM9ki8DOJqmcRSKhXVgk_pb5dXfFra5ECsN1tlXO-UcF3xNQ/viewform?usp=sf_link" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2022-11-24 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 registration_date_end: 2022-04-13 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
@@ -34,7 +34,7 @@ location: "McKimmon Conference & Training Center" # Defaults to city, but you ca
 location_address: "1101 Gorman Street, Raleigh, NC 27606" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
   - name: location
   - name: registration
     url: "https://www.eventbrite.com/e/devopsdays-raleigh-2023-tickets-328956426527"
@@ -68,22 +68,11 @@ team_members: # Name is the only required field for team members.
     employer: "Cprime"
     linkedin: "https://www.linkedin.com/in/kathleencothran/"
     image: "katie-cothran.jpg"
-  - name: "Kyle Anderson"
-    employer: "Cprime"
-    image: "kyle-anderson.jpg"
-    linkedin: "https://www.linkedin.com/in/kylewjanderson/"
-  - name: "RJ Williams"
-    linkedin: "https://www.linkedin.com/in/robertwilliamsjunior"
-    employer: "Cprime"
-    image: "rj-williams.jpg"
   - name: "Craig Cook"
     twitter: "CraigCookIT"
     website: "https://www.linkedin.com/in/craigcookit/"
     employer: "IBM"
     image: "craig-cook.jpg"
-  - name: "Madeline Streicher"
-    linkedin: "https://www.linkedin.com/in/madelinestreicher"
-    image: "madeline-streicher.jpg"
   - name: "Michael Roberts"
     twitter: "MichaelRoberts0"
     website: "https://www.spkaa.com"
@@ -95,6 +84,12 @@ team_members: # Name is the only required field for team members.
     github: "shanedroid"
     linkedin: "https://www.linkedin.com/in/shanek1rk/"
     image: "shane-kirk.jpg"
+  - name: "Jeremy Neff"
+    gitlab: "n3ff"
+    github: "JRN00"
+    twitter: "whiskeytuna"
+    image: "jeremy-neff.png"
+    linkedin: "https://www.linkedin.com/in/jeremy-r-neff/"
 
 organizer_email: "raleigh@devopsdays.org" # Put your organizer email address here
 
