@@ -129,6 +129,10 @@ sponsors:
     level: gold
   - id: tailscale
     level: coffee
+  - id: manage-engine
+    level: silver
+  - id: buildkite
+    level: silver
   - id: scale
     level: community
     url: https://www.socallinuxexpo.org
