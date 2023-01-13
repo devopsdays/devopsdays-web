@@ -9,7 +9,8 @@ Description = "devopsdays Copenhagen 2023"
 <div class="row">
   <div class="col-md-6">
     <h2>Welcome to the DevOpsDays Copenhagen</h2>
-    <p>More information will be available soon!</p>
+    <p>We are very excited to announce DevOpsDays will be coming back to Copenhagen on May 2nd & 3rd 2023.</p>
+    <p>After several years of uncertainty around large gatherings we has so much fun doing the first <a href="https://devopsdays.org/events/2022-aarhus/welcome/">DevOpsDays Aarhus</a> last year. This year we are finally back in Copenhagen, and it will be awesome!</p>
 
   <div class = "row">
     <div class = "col-md-2">
@@ -52,7 +53,7 @@ Description = "devopsdays Copenhagen 2023"
       <strong>Venue</strong>
     </div>
     <div class = "col-md-8">
-      TBD
+    {{< event_link page="location" text="Docken - Færgehavnsvej 35, 2100 København" >}}
     </div>
   </div>
 
