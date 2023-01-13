@@ -18,14 +18,14 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 # cfp_date_end: 2023-08-15T23:59:59-03:00 # close your call for proposals.
 # cfp_date_announce: 2023-07-15T00:00:00-03:00 # inform proposers of status
 
-cfp_open: "false"
-cfp_link: "https://www.papercall.io/devopsdaysjf2023"
+# cfp_open: "false"
+# cfp_link: "https://www.papercall.io/devopsdaysjf2023"
 
 registration_date_start: 2023-07-31T00:00:00-03:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 registration_date_end: 2023-11-05T23:59:59-03:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "https://www.sympla.com.br/devopsdays-rio-de-janeiro-2023__1656490" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 # coordinates: "-22.8975426, -43.1824625" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
@@ -33,14 +33,16 @@ registration_link: "https://www.sympla.com.br/devopsdays-rio-de-janeiro-2023__16
 # location_address: "Av. Rio Branco, 01 - Praça Mauá - Juiz de Fora (Acesso pelo elevador panorâmico)" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
-  - name: local
+#  - name: propose
+#  - name: local
 #  - name: registration
 #  - name: program
 #  - name: speakers
-  - name: sponsor
-  - name: contact
-  - name: conduct-pt-br
+#  - name: sponsor
+  - name: contato
+    url: /events/2023-juiz-de-fora/contact
+  - name: código de conduta
+    url: /events/2023-juiz-de-fora/conduct
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -120,102 +122,102 @@ sponsor_levels:
     label: Community
 
 program:
-  - title: "Credenciamento"
-    type: custom
-    date: 2023-11-05T08:00:00-03:00
-    start_time: "08:00"
-    end_time: "09:00"
-  - title: "Abertura"
-    type: custom
-    date: 2023-11-05T08:00:00-03:00
-    start_time: "09:00"
-    end_time: "09:30"
-  - title: "marylly-araujo"
-    type: talk
-    date: 2023-11-05T08:00:00-03:00
-    start_time: "09:30"
-    end_time: "10:00"
-    background_color: "#AED6F1"
-  - title: "pooja-mistry"
-    type: talk
-    date: 2023-11-05T08:00:00-03:00
-    start_time: "10:00"
-    end_time: "10:30"
-  - title: "Coffee Break"
-    type: custom
-    date: 2023-11-05T08:00:00-03:00
-    start_time: "10:30"
-    end_time: "11:00"
-  - title: "alvaro-huanca"
-    type: talk
-    date: 2023-11-05T08:00:00-03:00
-    start_time: "11:00"
-    end_time: "11:30"
-  - title: "rodrigo-ribeiro"
-    type: talk
-    date: 2023-11-05T08:00:00-03:00
-    start_time: "11:30"
-    end_time: "12:00"
-    background_color: "#AED6F1"
-  - title: "Almoço"
-    type: custom
-    date: 2023-11-05T08:00:00-03:00
-    start_time: "12:00"
-    end_time: "13:30"
-  - title: "Ignite Talks"
-    type: custom
-    date: 2023-11-05T08:00:00-03:00
-    start_time: "13:30"
-    end_time: "13:45"
-  - title: "danielle-monteiro"
-    type: talk
-    date: 2023-11-05T08:00:00-03:00
-    start_time: "13:45"
-    end_time: "14:15"
-    background_color: "#AED6F1"
-  - title: "tainara-almeida"
-    type: talk
-    date: 2023-11-05T08:00:00-03:00
-    start_time: "14:15"
-    end_time: "14:45"
-  - title: "robert-silva"
-    type: talk
-    date: 2023-11-05T08:00:00-03:00
-    start_time: "14:45"
-    end_time: "15:15"
-  - title: "bianca-rosa"
-    type: talk
-    date: 2023-11-05T08:00:00-03:00
-    start_time: "15:15"
-    end_time: "15:45"
-  - title: "Coffee Break"
-    type: custom
-    date: 2023-11-05T08:00:00-03:00
-    start_time: "15:45"
-    end_time: "16:15"
-  - title: "Open Spaces"
-    type: custom
-    date: 2023-11-05T08:00:00-03:00
-    start_time: "16:15"
-    end_time: "16:45"
-  - title: "Open Spaces"
-    type: custom
-    date: 2023-11-05T08:00:00-03:00
-    start_time: "16:45"
-    end_time: "17:15"
-  - title: "jeferson-fernando"
-    type: talk
-    date: 2023-11-05T08:00:00-03:00
-    start_time: "17:15"
-    end_time: "17:45"
-    background_color: "#AED6F1"
-  - title: "Encerramento"
-    type: custom
-    date: 2023-11-05T08:00:00-03:00
-    start_time: "17:45"
-    end_time: "18:30"
-  - title: "Happy Hour"
-    type: custom
-    date: 2023-11-05T08:00:00-03:00
-    start_time: "18:30"
-    end_time: "22:00"
+  # - title: "Credenciamento"
+  #   type: custom
+  #   date: 2023-11-05T08:00:00-03:00
+  #   start_time: "08:00"
+  #   end_time: "09:00"
+  # - title: "Abertura"
+  #   type: custom
+  #   date: 2023-11-05T08:00:00-03:00
+  #   start_time: "09:00"
+  #   end_time: "09:30"
+  # - title: "marylly-araujo"
+  #   type: talk
+  #   date: 2023-11-05T08:00:00-03:00
+  #   start_time: "09:30"
+  #   end_time: "10:00"
+  #   background_color: "#AED6F1"
+  # - title: "pooja-mistry"
+  #   type: talk
+  #   date: 2023-11-05T08:00:00-03:00
+  #   start_time: "10:00"
+  #   end_time: "10:30"
+  # - title: "Coffee Break"
+  #   type: custom
+  #   date: 2023-11-05T08:00:00-03:00
+  #   start_time: "10:30"
+  #   end_time: "11:00"
+  # - title: "alvaro-huanca"
+  #   type: talk
+  #   date: 2023-11-05T08:00:00-03:00
+  #   start_time: "11:00"
+  #   end_time: "11:30"
+  # - title: "rodrigo-ribeiro"
+  #   type: talk
+  #   date: 2023-11-05T08:00:00-03:00
+  #   start_time: "11:30"
+  #   end_time: "12:00"
+  #   background_color: "#AED6F1"
+  # - title: "Almoço"
+  #   type: custom
+  #   date: 2023-11-05T08:00:00-03:00
+  #   start_time: "12:00"
+  #   end_time: "13:30"
+  # - title: "Ignite Talks"
+  #   type: custom
+  #   date: 2023-11-05T08:00:00-03:00
+  #   start_time: "13:30"
+  #   end_time: "13:45"
+  # - title: "danielle-monteiro"
+  #   type: talk
+  #   date: 2023-11-05T08:00:00-03:00
+  #   start_time: "13:45"
+  #   end_time: "14:15"
+  #   background_color: "#AED6F1"
+  # - title: "tainara-almeida"
+  #   type: talk
+  #   date: 2023-11-05T08:00:00-03:00
+  #   start_time: "14:15"
+  #   end_time: "14:45"
+  # - title: "robert-silva"
+  #   type: talk
+  #   date: 2023-11-05T08:00:00-03:00
+  #   start_time: "14:45"
+  #   end_time: "15:15"
+  # - title: "bianca-rosa"
+  #   type: talk
+  #   date: 2023-11-05T08:00:00-03:00
+  #   start_time: "15:15"
+  #   end_time: "15:45"
+  # - title: "Coffee Break"
+  #   type: custom
+  #   date: 2023-11-05T08:00:00-03:00
+  #   start_time: "15:45"
+  #   end_time: "16:15"
+  # - title: "Open Spaces"
+  #   type: custom
+  #   date: 2023-11-05T08:00:00-03:00
+  #   start_time: "16:15"
+  #   end_time: "16:45"
+  # - title: "Open Spaces"
+  #   type: custom
+  #   date: 2023-11-05T08:00:00-03:00
+  #   start_time: "16:45"
+  #   end_time: "17:15"
+  # - title: "jeferson-fernando"
+  #   type: talk
+  #   date: 2023-11-05T08:00:00-03:00
+  #   start_time: "17:15"
+  #   end_time: "17:45"
+  #   background_color: "#AED6F1"
+  # - title: "Encerramento"
+  #   type: custom
+  #   date: 2023-11-05T08:00:00-03:00
+  #   start_time: "17:45"
+  #   end_time: "18:30"
+  # - title: "Happy Hour"
+  #   type: custom
+  #   date: 2023-11-05T08:00:00-03:00
+  #   start_time: "18:30"
+  #   end_time: "22:00"

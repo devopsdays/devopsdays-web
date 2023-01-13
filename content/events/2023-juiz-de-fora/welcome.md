@@ -23,14 +23,14 @@ Description = "DevOpsDays Juiz De Fora 2023"
             {{< event_start >}}
           </div>
         </div>
-        <div class = "row">
+        <!-- <div class = "row">
           <div class = "col-md-2">
             <strong>Local</strong>
           </div>
           <div class = "col-md-8">
             {{< event_link page="local" text="CESAR School" title="A ser definido" >}}
           </div>
-        </div>
+        </div> -->
         <div class = "row">
           <div class = "col-md-2">
             <strong>Contato</strong>
@@ -39,7 +39,7 @@ Description = "DevOpsDays Juiz De Fora 2023"
             {{< event_link page="contact" text="Fale com os organizadores!" >}}
           </div>
         </div>
-        <div class="row">
+        <!-- <div class="row">
           <div class="col-md-2">
             <strong>CFP</strong>
           </div>
@@ -62,7 +62,7 @@ Description = "DevOpsDays Juiz De Fora 2023"
           <div class="col-md-6">
             {{< event_link url-key="registration_link" text="Adquira seu ingresso!" >}}
           </div>
-        </div>
+        </div> -->
       </div>
     </div>
   </div>
@@ -72,7 +72,7 @@ Description = "DevOpsDays Juiz De Fora 2023"
       <strong>O DevOpsDays vem Juiz de Fora em 2023!</strong>
     </h4>
     <p>
-    Em nossa primeira edição do DevOpsDays JF, queremos que todos tenhamos mais uma excelente oportunidade de compartilhar conhecimento, contar histórias, socializar e fazer novos amigos!
+    Essa será a primeira edição do DevOpsDays em Juiz de Fora, queremos que todos tenhamos mais uma excelente oportunidade de compartilhar conhecimento, contar histórias, socializar e fazer novos amigos!
     </p>
     <p>
     Queremos tornar a cultura DevOps cada vez mais presente, participe e venha contribuir para essa jornada!
@@ -114,7 +114,7 @@ Description = "DevOpsDays Juiz De Fora 2023"
           <a style="text-align:left;" class="btn btn-secondary btn-block" href="https://www.instagram.com/devopsdaysjf/"> <i class="fa fa-instagram fa-fw"></i>&nbsp; Instagram</a>
         </div>
         <div style="witdh: auto; padding-right: 1em;">
-          <a style="text-align:left;" class="btn btn-secondary btn-block" href="https://www.instagram.com/devopsdaysjf/"> <i class="fa fa-facebook fa-fw"></i>&nbsp; Facebook</a>
+          <a style="text-align:left;" class="btn btn-secondary btn-block" href="https://www.facebook.com/groups/1183825055853485"> <i class="fa fa-facebook fa-fw"></i>&nbsp; Facebook</a>
         </div>
         <div style="witdh: auto; padding-right: 1em;">
           <a style="text-align:left;" class="btn btn-secondary btn-block" href="https://discord.gg/GK7DmRvYPW"> <i class="fa fa-users fa-fw"></i>&nbsp; Discord</a>
