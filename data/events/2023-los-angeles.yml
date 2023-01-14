@@ -129,6 +129,16 @@ sponsors:
     level: gold
   - id: port
     level: gold
+  - id: prosperops
+    level: gold
+  - id: mapleops
+    level: gold
+  - id: site24x7
+    level: gold
+  - id: saucelabs
+    level: gold
+  - id: couchbase
+    level: gold
   - id: tailscale
     level: coffee
   - id: manage-engine
