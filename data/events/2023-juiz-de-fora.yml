@@ -87,7 +87,6 @@ team_members: # Name is the only required field for team members.
   - name: "William Silva"
     role: "Organizer"
     employer: "Raro Labs"
-    twitter: "williaamsf"
     github: "WilliamSf"
     linkedin: "https://www.linkedin.com/in/dsobrinho/"
     image: "william-silva.jpeg"
