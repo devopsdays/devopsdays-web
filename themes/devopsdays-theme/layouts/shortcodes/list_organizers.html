@@ -43,6 +43,9 @@
                 {{- if .gitlab -}}
                     <a href = "https://gitlab.com/{{ .gitlab}}"><i class="fa fa-gitlab fa-2x" aria-hidden="true"></i></a>&nbsp;
                 {{- end -}}
+                {{- if .mastodon -}}
+                    <a href = "{{ .mastodon }}"><i class="fab fa-mastodon fa-2x" aria-hidden="true"></i></a>&nbsp;
+                    {{- end -}}
             </div>
           </div>
         </div>

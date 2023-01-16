@@ -153,6 +153,12 @@ sponsors:
     level: silver
   - id: cognizant
     level: bronze
+  - id: wiz
+    level: bronze
+  - id: checkpoint
+    level: bronze
+  - id: elastic
+    level: silver
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
