@@ -100,7 +100,7 @@ team_members: # Name is the only required field for team members.
   - name: "Lian Li"
     linkedin: "https://www.linkedin.com/in/lian-li"
     twitter: "lianmakesthings"
-    image: "lian.png"
+    image: "lian.jpg"
     role: "Speaker Team"
 
   - name: "Jos van Schouten"
