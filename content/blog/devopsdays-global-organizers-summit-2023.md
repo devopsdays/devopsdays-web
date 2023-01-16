@@ -11,12 +11,10 @@ To celebrate 10 years of Devopsdays, in 2019, co-located with Devopsdays Ghent i
 
 The [Devopsdays Organizer Summit 2023](https://devopsdays.org/events/2023-organizer-summit/welcome/) is your chance to meet other organizers, share ideas, and learn from each other. 
 
-(Former / current / aspiring) Devopsdays organizer? [Register for the event today]() - the **ticket is a free add-on to registration for Devopsdays Chicago**, taking place August 9 - 10. And/or submit to the **[Call for Papers]()**.
+Submit to the **[Call for Papers](https://organizers-summit-proposals.devopsdays.org/organizers-summit-2023/cfp)** until March 1.
 
-**Virtual attendance** is available for those who cannot attend in person.  
+(Former / current) Devopsdays organizer? Registration for the event will open soon - the **ticket is a free add-on to registration for Devopsdays Chicago**, taking place August 9 - 10. **Virtual attendance** is available for those who cannot attend in person.  
 
 If you need support with your **Visa application**, we'd be happy to provide you with an invitation letter. Please [fill out your details](https://forms.gle/aTh8jZAHgBcULYs96) and we'll get back to you as soon as possible.
 
 Any questions / suggestions you may have can be directed at Matty Stratton, Yvo van Doorn, or myself. You can find us in the [Devopsdays Slack](devopsdays.slack.com).
-
-
