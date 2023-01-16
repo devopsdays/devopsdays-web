@@ -1,6 +1,6 @@
 +++
 Title = "Announcing: Devopsdays Global Organizers Summit 2023"
-Date = ""
+Date = "2023-01-16T16:00:14+0000"
 Tags = ["2023"]
 Author = "Floor Drees"
 +++
@@ -11,7 +11,7 @@ To celebrate 10 years of Devopsdays, in 2019, co-located with Devopsdays Ghent i
 
 The [Devopsdays Organizer Summit 2023](https://devopsdays.org/events/2023-organizer-summit/welcome/) is your chance to meet other organizers, share ideas, and learn from each other. 
 
-Submit to the **[Call for Papers](https://organizers-summit-proposals.devopsdays.org/organizers-summit-2023/cfp)** until March 1.
+Submit to the **[Call for Papers](https://organizers-summit-proposals.devopsdays.org/organizers-summit-2023/cfp)** until March 17.
 
 (Former / current) Devopsdays organizer? Registration for the event will open soon - the **ticket is a free add-on to registration for Devopsdays Chicago**, taking place August 9 - 10. **Virtual attendance** is available for those who cannot attend in person.  
 
