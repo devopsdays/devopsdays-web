@@ -12,7 +12,7 @@ Description = "DevOpsDays Juiz De Fora 2023"
   <div style="padding-bottom: 1em;">
     <div class = "row">
       <div class="col-md-2">
-        <img alt="DevOpsDays Juiz De Fora 2023" src="/events/2023-juiz-de-fora/images/event-logo-square.jpg" style="width:100%">
+        <img alt="DevOpsDays Juiz De Fora 2023" src="/events/2023-juiz-de-fora/images/event-logo.png" style="width:100%; max-width: 164px;">
       </div>
       <div class = "col-md-10">
         <div class = "row">
