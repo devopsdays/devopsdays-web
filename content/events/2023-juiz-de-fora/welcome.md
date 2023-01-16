@@ -69,7 +69,7 @@ Description = "DevOpsDays Juiz De Fora 2023"
   
   <div>
     <h4 style="padding-bottom: 1em;">
-      <strong>O DevOpsDays vem Juiz de Fora em 2023!</strong>
+      <strong>O DevOpsDays vem em Juiz de Fora em 2023!</strong>
     </h4>
     <p>
     Essa será a primeira edição do DevOpsDays em Juiz de Fora, queremos que todos tenhamos mais uma excelente oportunidade de compartilhar conhecimento, contar histórias, socializar e fazer novos amigos!
