@@ -9,8 +9,30 @@ Description = "devopsdays Copenhagen 2023"
 <div class="row">
   <div class="col-md-6">
     <h2>Welcome to the DevOpsDays Copenhagen</h2>
-    <p>We are very excited to announce DevOpsDays will be coming back to Copenhagen on May 2nd & 3rd 2023.</p>
-    <p>After several years of uncertainty around large gatherings we has so much fun doing the first <a href="https://devopsdays.org/events/2022-aarhus/welcome/">DevOpsDays Aarhus</a> last year. This year we are finally back in Copenhagen, and it will be awesome!</p>
+    <p>We are very excited to announce DevOpsDays will be coming back to Copenhagen on May 2nd & 3rd 2023! This is your chance to be part of the global DevOps community, learn, and make new acquaintances.</p>
+
+  <h3>About this event</h3>
+  <p>DevOpsDays is a worldwide series of technical conferences that cover topics 
+  within software development, IT infrastructure operations, and the intersection 
+  between them. Each event is run by engaged volunteers from the local area, 
+  and it is a unique place for exchanging ideas and making new DevOps friends 
+  locally.</p>
+
+  <h3>What you will learn about</h3>
+  <p>The agenda will be packed with a wide range of inspiring talks related to 
+  software development and IT Infrastructure. The speakers are not there to sell 
+  anything.</p>
+  <p>Stay tuned for the announcement of this year’s speakers and talks in 
+  Copenhagen!</p>
+
+  <h3>Format</h3>
+  <p>You will be entertained with regular 30-min talks and the funny concept of 
+  Lightning Talks. There will also be plenty of room for open-space discussions 
+  and networking during the conference. What is not to like?</p>
+  <h3>Tickets</h3>
+  <p>There are limited seats available, so you do not want to miss out! We will soon 
+  open for ticket sales!</p>
+
 
   <div class = "row">
     <div class = "col-md-2">
