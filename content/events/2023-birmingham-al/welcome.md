@@ -36,14 +36,14 @@ Description = "devopsdays Birmingham, AL 2023"
   </div>
 </div>
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
-</div>
+</div> -->
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -84,3 +84,5 @@ Description = "devopsdays Birmingham, AL 2023"
 <!-- Uncomment if you added your city twitter name -->
 
 {{< event_twitter >}}
+
+ <a rel="me" href="https://hachyderm.io/@devopsdaysbham"><span class="btn btn-sm btn-light rounded-pill"><i class="fab fa-mastodon fa-md" ></i> Follow hachyderm.io/@devopsdaysbham</span></a>
