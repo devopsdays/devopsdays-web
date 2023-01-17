@@ -94,6 +94,9 @@ sponsors:
     level: gold
   - id: destination-aarhus
     level: community
+  - id: stickermule
+    level: community
+    url: https://mule.to/p3mm
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
