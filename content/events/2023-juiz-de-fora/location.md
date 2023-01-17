@@ -12,6 +12,6 @@ Endereço: <a href="https://www.google.com/maps/place/Av.+Rio+Branco,+1+-+Centro
 
 {{< event_map >}}
 -->
-<h3> <strong>Em breve!</strong> </h3>
 <!-- Edit and uncomment to let people know what accessibility features you have available -->
 
+<h3> <strong>Em breve!</strong> </h3>
