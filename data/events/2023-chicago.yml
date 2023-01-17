@@ -91,6 +91,12 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/devopscread/"
     twitter: "cread"
     github: "cread"
+  - name: "Corey Ward"
+    employer: "Relativity"
+    twitter: "CoreyWardCS"
+    linkedin: "https://www.linkedin.com/in/corey-ward-508ab63a/"
+    bio: "Corey Ward is a Senior Software Engineer at Relativity. He is a father of two children. He loves talking to people. In his free time, Corey reads fantasy novels, plays Beat Saber and loses in Horizon World's Arena Clash."
+    image: "corey-ward.jpg"
   - name: "Brian Devlin"
     employer: "Hyatt Hotels"
     twitter: "nilved"
@@ -155,6 +161,8 @@ sponsors:
     level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
+    level: community
+  - id: wemakedevs
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
