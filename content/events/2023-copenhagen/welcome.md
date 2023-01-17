@@ -27,7 +27,7 @@ Description = "devopsdays Copenhagen 2023"
 
   <h3>Format</h3>
   <p>You will be entertained with regular 30-min talks and the funny concept of 
-  Lightning Talks. There will also be plenty of room for open-space discussions 
+  Ignite Talks. There will also be plenty of room for open-space discussions 
   and networking during the conference. What is not to like?</p>
   <h3>Tickets</h3>
   <p>There are limited seats available, so you do not want to miss out! We will soon 
