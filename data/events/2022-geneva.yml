@@ -97,12 +97,12 @@ organizer_email: "geneva@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: techfirm
+  - id: techfirm-before-20221104
     level: event
   - id: hidora
     url: https://www.hidora.io
     level: gold
-  - id: camptocamp
+  - id: camptocamp-before-20221104
     level: gold
   - id: dynatrace
     level: gold

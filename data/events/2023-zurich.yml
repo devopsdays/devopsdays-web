@@ -19,14 +19,14 @@ cfp_date_start:  2022-11-01T00:00:00+02:00 # start accepting talk proposals.
 cfp_date_end:  2023-01-31T23:59:59+02:00 # close your call for proposals.
 cfp_date_announce: 2022-11-01T00:00:00+02:00 # inform proposers of status
 
-cfp_open: "false"
+cfp_open: "true"
 cfp_link: "https://sessionize.com/devopsdays-zurich-2023/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-#registration_date_start: 2021-12-21T00:00:00+02:00
-#registration_date_end: 2022-05-30T23:59:59+02:00
+registration_date_start: 2022-11-08T00:00:00+02:00
+registration_date_end: 2023-05-03T00:00:00+02:00
 
 #registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-#registration_link: "https://ti.to/dod/dodzh2022" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://ti.to/dod/dodzh2023" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -40,8 +40,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #  - name: program
 #  - name: speakers
   - name: location
-#  - name: registration
-#  - name: sponsor
+  - name: registration
+  - name: sponsor
   - name: diversity
 #  - name: covid
   - name: contact
@@ -112,8 +112,8 @@ team_members: # Name is the only required field for team members.
     image: "zoltan-vitus.jpg"
   - name: "Nadine Broghammer"
     twitter: ""
-    employer: "Zühlke Engineering AG"
-    bio: "Nadine Broghammer is an experienced project and delivery manager. After completing her master's degree in business administration and management at the University of Zurich, she continously broadend her knowledge and brings a wide range of expertise in requirements engineering, project and product management and as well as a trainer and coach in agile frameworks and delivery. Her focus industries are healthcare as well as banking and finance. With her direct collaboration style and accessible nature, she ensures a transparent information flow and target focus. Her passion is people relationships and the transformation of corporate practices and strategies."
+    employer: "ERNI Schweiz AG"
+    bio: "Nadine Broghammer is an experienced delivery manager and agile coach. After completing her master’s degree in business administration and management at the University of Zurich, she continously broadend her knowledge and brings a wide range of expertise in requirements engineering, project and product management and as well as a trainer and coach in agile frameworks and delivery. Her focus industries are healthcare as well as banking/finance and transportation. With her direct collaboration style and accessible nature, she ensures a transparent information flow and target focus. Her passion is people relationships and the transformation of corporate practices and strategies."
     github: ""
     linkedin: "https://www.linkedin.com/in/nadinebroghammer"
     image: "nadine-broghammer.jpg"
@@ -131,6 +131,34 @@ organizer_email: "zurich@devopsdays.org" # Put your organizer email address here
 sponsors:
   - id: kanbanize
     level: community
+  - id: zhlke
+    level: event
+  - id: avega
+    level: event
+  - id: cloudscalech
+    level: event
+  - id: amazeeio
+    level: silver
+  - id: swisscom
+    level: gold
+  - id: exoscale
+    level: gold
+  - id: adnovum
+    level: event
+  - id: erni
+    level: gold
+  - id: cloudbees
+    level: gold  
+  - id: enterprisedb
+    level: silver
+  - id: cognizant
+    level: bronze
+  - id: wiz
+    level: bronze
+  - id: checkpoint
+    level: bronze
+  - id: elastic
+    level: silver
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
@@ -139,17 +167,17 @@ sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: platinum
-    label: Platinum
-    max: 3
   - id: gold
     label: Gold
-    max: 5
-  - id: event
-    label: Evening Event, Coffee, Meal
     max: 3
   - id: silver
     label: Silver
+    max: 3
+  - id: event
+    label: Evening Event, Coffee, Meal
+    max: 4
+  - id: bronze
+    label: Bronze
     max: 0
   - id: community
     label: Community

@@ -15,24 +15,24 @@ startdate: 2023-03-03T08:00:00-03:00 # The start date of your event. Leave blank
 enddate: 2023-03-04T18:00:00-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: # start accepting talk proposals.
-cfp_date_end: # close your call for proposals.
-cfp_date_announce: # inform proposers of status
+cfp_date_start: 2022-12-01T00:00:00-03:00 # start accepting talk proposals.
+cfp_date_end: 2023-01-29T23:59:59-03:00 # close your call for proposals.
+cfp_date_announce: 2023-02-03T21:00:00-03:00 # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://www.papercall.io/devopsdaysgyn2023" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.sympla.com.br/devopsdays-goiania-2023__1836174" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
-coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Goiânia" # Defaults to city, but you can make it the venue name.
+coordinates: "-16.66297068140222, -49.25176208347601" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "FIEG - Casa Da Indústria" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "Rua 200-C - Setor Leste Vila Nova, Goiânia - GO, 74055-235" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: Chamadas (CFP)
@@ -45,7 +45,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
   - name: inscrições
     icon: "ticket"
-    url: /events/2023-goiania/registration
+    url: https://www.sympla.com.br/devopsdays-goiania-2023__1836174
+    #url: /events/2023-goiania/registration
 
   - name: programação
     icon: "calendar"
@@ -85,8 +86,8 @@ team_members: # Name is the only required field for team members.
     image: "franzwagner-ternus.jpg"
 
   - name: "Juliana Gaioso"
-    employer: "Z1"
-    bio: "Cybersecurity engineer"
+    employer: "Swap"
+    bio: "Information Security Architect"
     github: "juligaioso"
     twitter: "juligaioso"
     linkedin: "https://www.linkedin.com/in/juligaioso"
@@ -101,8 +102,8 @@ team_members: # Name is the only required field for team members.
     image: "marcelo-paiva.jpg"
 
   - name: "Rafael Sobreira Braga"
-    employer: "Pottencial Seguradora"
-    bio: "Arquiteto Cloud/DevOps/SRE"
+    employer: "Bexs"
+    bio: "DevOps Engineer"
     github: "rafaelsobreirabraga"
     twitter: "braga_sobreira"
     linkedin: "https://www.linkedin.com/in/rafaelsobreirabraga"
@@ -113,17 +114,23 @@ organizer_email: "goiania@devopsdays.org" # Put your organizer email address her
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: aws-user-group-goiania
+    level: community
   - id: devopsgo
     level: community
   - id: docker-goiania
     level: community
+  - id: iel-go
+    level: community
+  - id: kubecareers
+    level: community
+  - id: kubeevents
+    level: community
   - id: override
     level: community
-  - id: aws-user-group-goiania
+  - id: senai-go-70
     level: community
   #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  - id: arresteddevops
-    level: community
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -132,6 +139,8 @@ sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: platinum
+    label: Platinum
   - id: gold
     label: Gold
   #    max: 10

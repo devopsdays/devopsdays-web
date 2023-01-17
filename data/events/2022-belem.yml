@@ -98,12 +98,17 @@ sponsors:
   - id: devsnorte
     level: community
 
+  - id: paratic
+    level: community
+
+  - id: sucesupa
+    level: community
+
   - id: idopterlabs
     level: platinum
 
   - id: vibe
     level: platinum
-
 
   - id: unama
     level: support
@@ -144,39 +149,50 @@ program:
     type: custom
     date: 2022-11-26
     start_time: "09:30"
-    end_time: "09:50"
+    end_time: "09:45"
   - title: "fabio-aguiar"
     type: talk
     date: 2022-11-26
-    start_time: "09:50"
-    end_time: "10:45"
-  - title: "TBD"
+    start_time: "09:45"
+    end_time: "10:30"
+    background_color: "#AED6F1"
+  - title: "ana-botelho"
     type: talk
     date: 2022-11-26
-    start_time: "10:50"
-    end_time: "11:15"
-  - title: "TBD"
+    start_time: "10:35"
+    end_time: "11:00"
+  - title: "joao-ferreira"
     type: talk
     date: 2022-11-26
-    start_time: "11:20"
-    end_time: "11:50"
+    start_time: "11:05"
+    end_time: "11:30"
+  - title: "andre-gusmao"
+    type: talk
+    date: 2022-11-26
+    start_time: "11:35"
+    end_time: "12:00"
   - title: "Intervalo para almoço"
     type: custom
     date: 2022-11-26
     start_time: "12:00"
     end_time: "13:00"
     background_color: "#EDBB99"
-  - title: "TBD"
+  - title: "paulo-henrique"
     type: talk
     date: 2022-11-26
     start_time: "13:00"
-    end_time: "13:50"
-  - title: "TBD"
+    end_time: "13:25"
+  - title: "leandro-pantoja"
+    type: talk
+    date: 2022-11-26
+    start_time: "13:30"
+    end_time: "13:55"
+  - title: "jose-prado"
     type: talk
     date: 2022-11-26
     start_time: "14:00"
     end_time: "14:25"
-  - title: "TBD"
+  - title: "marcelo-sa"
     type: talk
     date: 2022-11-26
     start_time: "14:30"
@@ -190,16 +206,16 @@ program:
   - title: "FishBowl"
     type: fish-bowl
     date: 2022-11-26
-    start_time: "15:45"
-    end_time: "16:10"
+    start_time: "15:40"
+    end_time: "16:30"
   - title: "gomex"
     type: talk
     date: 2022-11-26
-    start_time: "16:10"
-    end_time: "17:00"
+    start_time: "16:30"
+    end_time: "17:15"
     background_color: "#AED6F1"
-  - title: "Encerramento"
+  - title: "Encerramento e Sorteios"
     type: custom
     date: 2022-11-26
-    start_time: "17:00"
-    end_time: "17:30"
+    start_time: "17:20"
+    end_time: "18:00"

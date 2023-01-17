@@ -10,19 +10,37 @@ If you'd like to edit a specific devopsdays event site (and/or contribute code),
 
 ### Quick Overview
 
-1. Install [Hugo](http://gohugo.io). Use the Hugo version that we use in [.github/workflows/hugo.yml](https://github.com/devopsdays/devopsdays-web/blob/main/.github/workflows/hugo.yml) file. [(Quick Install)](https://gohugo.io/getting-started/installing#binary-cross-platform)
-Examples of hugo installation with a version:  
- - maxOS: `brew install hugo@0.67.1`
- - linux: `brew install hugo@0.67.1`
- - windows: `choco install hugo -confirm --version 0.67.1 --allow-downgrade`
-  
-2. [Fork](https://help.github.com/articles/fork-a-repo/) this repo and clone a copy locally.
+1. Have the ability to run Hugo. This can be done locally or through
+   Docker.
+1. [Fork](https://help.github.com/articles/fork-a-repo/) this repo and clone a copy locally.
+
+#### Run Hugo with Docker (Recommended)
+
+1. Start docker
+1. Run `./hugoserver.sh` from the root of this repo.
+
+#### Run Hugo locally
+
+  1. Install [Hugo](http://gohugo.io). Use the Hugo version that we use in [.github/workflows/hugo.yml](https://github.com/devopsdays/devopsdays-web/blob/main/.github/workflows/hugo.yml) file. [(Quick Install)](https://gohugo.io/getting-started/installing#binary-cross-platform)
+Examples of hugo installation with a version:
+   - maxOS: `brew install hugo@0.67.1`
+   - linux: `brew install hugo@0.67.1`
+   - windows: `choco install hugo -confirm --version 0.67.1 --allow-downgrade`
+
 
 ### View site locally
 
 To watch for changes and rebuild on the fly, open a new terminal, change directories to your fork of the repo, and execute the following:
 
 ```
+# Run through Docker (recommended)
+./hugoserver.sh
+```
+
+or
+
+```
+# Run with your local Hugo installation
 hugo server -w --baseUrl="http://localhost:1313"
 ```
 
