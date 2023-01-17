@@ -62,6 +62,14 @@ Description = "devopsdays Birmingham, AL 2023"
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
 </div> -->
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Volunteer</strong>
+  </div>
+  <div class = "col-md-8">
+    <a href="https://airtable.com/shrCoQvlfOcYl7iUX">Help us with the conference.</a>
+  </div>
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -81,8 +89,8 @@ Description = "devopsdays Birmingham, AL 2023"
   </div>
 </div>
 
-<!-- Uncomment if you added your city twitter name -->
+<!-- Uncomment if you added your city twitter name 
 
-{{< event_twitter >}}
+{{< event_twitter >}} -->
 
- <a rel="me" target="_blank" href="https://hachyderm.io/@devopsdaysbham"><span class="btn btn-sm btn-light rounded-pill"><i class="fab fa-mastodon fa-md" ></i> Follow hachyderm.io/@devopsdaysbham</span></a>
+ <a rel="me" target="_blank" href="https://hachyderm.io/@devopsdaysbham"><span class="btn btn-sm rounded-pill btn-info"><i class="fab fa-mastodon fa-md" ></i> Follow hachyderm.io/@devopsdaysbham</span></a>
