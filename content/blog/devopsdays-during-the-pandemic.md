@@ -1,6 +1,6 @@
 +++
 Title = "Devopsdays during the pandemic"
-Date = ""
+Date = "2023-01-18T10:00:14+0000"
 Tags = ["2023"]
 Author = "Floor Drees"
 +++
