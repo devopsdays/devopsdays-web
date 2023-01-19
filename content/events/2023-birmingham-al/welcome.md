@@ -54,14 +54,14 @@ Description = "devopsdays Birmingham, AL 2023"
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
-</div> -->
+</div>
 <div class = "row">
   <div class = "col-md-2">
     <strong>Volunteer</strong>
