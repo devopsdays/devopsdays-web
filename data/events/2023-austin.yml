@@ -121,7 +121,6 @@ team_members: # Name is the only required field for team members.
   - name: "Karl Katzke"
     github: "karlkatzke"
     linkedin: "https://www.linkedin.com/in/karlkatzke"
-    image: "karl.jpg"
   - name: "Jeremy Tanner"
     twitter: "penguin"
     github: "jeremytanner"
