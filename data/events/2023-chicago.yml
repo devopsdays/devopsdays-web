@@ -159,7 +159,7 @@ organizer_email: "chicago@devopsdays.org" # Put your organizer email address her
 sponsors:
   - id: circleci
     level: gold
-  - id: dell
+  - id: dell-technologies
     level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
