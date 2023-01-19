@@ -26,6 +26,9 @@ registration_date_end: 2022-04-13 # close registration. Leave blank if registrat
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://www.eventbrite.com/e/devopsdays-raleigh-2023-tickets-328956426527" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
+# Background
+masthead_background: "raleigh_skyline_sunset.jpg"
+
 # Location
 #
 coordinates: "35.782780, -78.685187" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
