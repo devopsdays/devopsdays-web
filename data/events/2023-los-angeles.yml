@@ -90,11 +90,15 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Gold
+    max: 18
   - id: silver
     label: Silver
     max: 0 # This is the same as omitting the max limit.
   - id: startup
     label: Startup
+  - id: lunch
+    label: Lunch Sponsor
+  - id: Reception Sponsor
   - id: coffee
     label: Coffee Break
   - id: community
