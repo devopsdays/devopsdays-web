@@ -41,8 +41,9 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     url: https://www.socallinuxexpo.org/scale/20x/venue
   - name: registration
     url: https://register.socallinuxexpo.org/reg6/
-  - name: CFP
-    url: https://www.socallinuxexpo.org/scale/20x/cfp
+#  - name: CFP
+#    url: https://www.socallinuxexpo.org/scale/20x/cfp
+  - name: program
   - name: volunteer
   - name: sponsor
   - name: contact
@@ -150,3 +151,70 @@ sponsors:
   - id: scale
     level: community
     url: https://www.socallinuxexpo.org
+
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2023-03-10T00:00:00-08:00
+    start_time: "09:00"
+    end_time: "10:00"
+  - title: "john-willis"
+    type: talk
+    date: 2023-03-10T00:00:00-08:00
+    start_time: "10:00"
+    end_time: "10:45"
+  - title: "ryan-taylor"
+    type: talk
+    date: 2023-03-10T00:00:00-08:00
+    start_time: "11:00"
+    end_time: "11:45"
+  - title: "Lunch"
+    type: custom
+    date: 2023-03-10T00:00:00-08:00
+    start_time: "11:45"
+    end_time: "13:30"
+  - title: "chris-travers"
+    type: talk
+    date: 2023-03-10T00:00:00-08:00
+    start_time: "13:30"
+    end_time: "13:45"
+  - title: "kat-gaines"
+    type: talk
+    date: 2023-03-10T00:00:00-08:00
+    start_time: "13:45"
+    end_time: "14:00"
+  - title: "nathan-handler"
+    type: talk
+    date: 2023-03-10T00:00:00-08:00
+    start_time: "14:00"
+    end_time: "14:15"
+  - title: "Break"
+    type: custom
+    date: 2023-03-10T00:00:00-08:00
+    start_time: "14:15"
+    end_time: "14:30"
+  - title: "rich-horace"
+    type: talk
+    date: 2023-03-10T00:00:00-08:00
+    start_time: "14:30"
+    end_time: "15:15"
+  - title: "paige-cruz"
+    type: talk
+    date: 2023-03-10T00:00:00-08:00
+    start_time: "15:30"
+    end_time: "16:15"
+  - title: "bryan-cantrill"
+    type: talk
+    date: 2023-03-10T00:00:00-08:00
+    start_time: "16:30"
+    end_time: "17:15"
+  - title: "Planning Retrospective"
+    type: custom
+    date: 2023-03-10T00:00:00-08:00
+    start_time: "17:30"
+    end_time: "18:00"
+  - title: "upSCALE"
+    type: custom
+    date: 2023-03-10T00:00:00-08:00
+    start_time: "18:15"
+    end_time: "19:45"
