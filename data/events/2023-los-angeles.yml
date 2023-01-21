@@ -103,8 +103,6 @@ sponsor_levels:
 sponsors:
   - id: circleci
     level: gold
-  - id: cloudbees
-    level: gold
   - id: ctrlstack
     level: gold
   - id: kosli
@@ -132,6 +130,10 @@ sponsors:
   - id: prosperops
     level: gold
   - id: maplelabs
+    level: gold
+  - id: 42crunch
+    level: gold
+  - id: dragondropcloud
     level: gold
   - id: site24x7
     level: gold
