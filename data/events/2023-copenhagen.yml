@@ -92,6 +92,8 @@ organizer_email: "denmark@devopsdays.org" # Put your organizer email address her
 sponsors:
   - id: eficode
     level: gold
+  - id: netic
+    level: gold
   - id: destination-aarhus
     level: community
   - id: stickermule
