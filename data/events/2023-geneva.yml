@@ -124,6 +124,8 @@ sponsors:
     level: silver
   - id: suse
     level: silver
+  - id: cisel
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
