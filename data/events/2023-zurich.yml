@@ -159,6 +159,8 @@ sponsors:
     level: bronze
   - id: elastic
     level: silver
+  - id: bit
+    level: bronze
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
