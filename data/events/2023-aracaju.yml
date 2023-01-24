@@ -15,18 +15,18 @@ startdate: 2023-05-06T00:00:00-03:00 # The start date of your event. Leave blank
 enddate: 2023-05-06T23:59:59-03:00  # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:
-cfp_date_end:
-cfp_date_announce:
+cfp_date_start: "2023-01-23T00:00:00-03:00" #2019-09-17T00:09:00-03:00 # start accepting talk proposals.
+cfp_date_end:  "2023-03-10T23:59:59-03:00" #2019-10-25T00:09:00-03:00 # close your call for proposals.
+cfp_date_announce: "2023-01-23T00:00:00-03:00" #2019-10-20T00:09:00-03:00 # inform proposers of status
 
-cfp_open: "false"
+cfp_open: "open"
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://www.papercall.io/dodaju2023" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: "" # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: "2023-01-23T00:00:00-03:00" #2022-10-01T00:09:00-03:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: "2023-05-07T00:00:00-03:00" #2022-10-31T00:09:00-03:00 # close registration. Leave blank if registration is not open yet.
 
-registration_closed: "true" # set this to true if you need to manually close registration before your registration end date
+registration_closed: "false" # set this to true if you need to manually close registration before your registration end date
 registration_link: "https://devopsdaysaracaju.eventize.com.br" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
@@ -41,7 +41,7 @@ location_address: ""
 masthead_background: "skyline-aju.jpg"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-#  - name: propose
+ - name: propose
 #  - name: location
  - name: registration
  # - name: program
