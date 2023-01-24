@@ -7,7 +7,7 @@ DevOpsDays is a self-organizing conference for DevOps practitioners that depends
 Sponsors have the opportunity to have short elevator pitches during the program and get recognition on this website and via social media before and during the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. We recommend sending practitioners to interact with their peers on their own terms.
 All attendees are welcome to propose any subject they want during the Open Space sessions. All attendees have the opportunity to suggest a product or project demonstration as part of an Open Space session, including sponsor attendees. Keep in mind: DevOpsDays Baltimore is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
 
-## {{< event_link url-key="sponsor_registration_link" text="Become A Sponsor For DevOpsDays 2023 Now!" >}}
+## {{< event_link url-key="sponsor_registration_link" text="Become A Sponsor For DevOpsDays Baltimore 2023 Now!" >}}
 Have questions about sponsoring or about your organization's sponsorship? Check out our {{< event_link url-key="sponsor_faq_link" text="sponsor FAQ" >}}.
 The following chart outlines our sponsorship packages at a high level, which are further detailed below. Iif you are interested in sponsoring and have a new idea of how you can contribute to the conference, email the organizers and we’re happy to consider your request!
 <style>
@@ -128,7 +128,7 @@ members in order to become a Community Sponsor.
   DevOpsDays on at least one medium: social media, email, Meetup.com, etc.)
 * Logo on shared slide, rotating during breaks
 * Logo on DevOpsDays Baltimore event website
-<!-- * [**Become a Community Sponsor**](https://docs.google.com/forms/d/e/1FAIpQLScVccx6EPwNQ5OyMOYomheKYD-5VfrCzOEE0Tz2SM0uiTFUzQ/viewform?usp=pp_url&entry.510613015=Community+-+Free). -->
+* [**Become a Community Sponsor**](https://docs.google.com/forms/d/e/1FAIpQLSdSBhQyWBEyoOSy9OLox6iwWZPnVTDETqVFNjkxoGcHjGo-Hw/viewform?usp=pp_url&entry.510613015=Community+-+Free&entry.890344597=N/A+(Community/Media)).
 
 ### Media Sponsors
 The media sponsorship is ideal for podcasts, blogs, news outlets, and other
@@ -142,29 +142,29 @@ Media Sponsor.
   DevOpsDays on at least one medium: social media, email, Meetup.com, etc.)
 * Logo on shared slide, rotating during breaks
 * Logo on DevOpsDays Baltimore event website
-<!-- * [**Become a Media Sponsor**](https://docs.google.com/forms/d/e/1FAIpQLScVccx6EPwNQ5OyMOYomheKYD-5VfrCzOEE0Tz2SM0uiTFUzQ/viewform?usp=pp_url&entry.510613015=Media+-+Free). -->
+* [**Become a Media Sponsor**](https://docs.google.com/forms/d/e/1FAIpQLSdSBhQyWBEyoOSy9OLox6iwWZPnVTDETqVFNjkxoGcHjGo-Hw/viewform?usp=pp_url&entry.510613015=Media+-+Free&entry.890344597=N/A+(Community/Media)).
 
 ### Silver Sponsors
 * 2 Complementary tickets to the conference
 * Logo on shared slide, rotating during breaks
 * Logo on DevOpsDays Baltimore event website
-<!-- * [**Become a Silver Sponsor**](https://docs.google.com/forms/d/e/1FAIpQLScVccx6EPwNQ5OyMOYomheKYD-5VfrCzOEE0Tz2SM0uiTFUzQ/viewform?usp=pp_url&entry.510613015=Silver+-+$1,200). -->
+* [**Become a Silver Sponsor**](https://docs.google.com/forms/d/e/1FAIpQLSdSBhQyWBEyoOSy9OLox6iwWZPnVTDETqVFNjkxoGcHjGo-Hw/viewform?usp=pp_url&entry.510613015=Silver+-+$1,200).
 
 ### Gold Sponsors
 * All benefits of Silver sponsors
 * Logo on all email communication
 * 1 additional ticket, 3 in total
 * Shared table for Swag and Marketing (shared with another Gold Sponsor)
-<!-- * [**Become a Gold Sponsor**](https://docs.google.com/forms/d/e/1FAIpQLScVccx6EPwNQ5OyMOYomheKYD-5VfrCzOEE0Tz2SM0uiTFUzQ/viewform?usp=pp_url&entry.510613015=Gold+-+$3,500). -->
+* [**Become a Gold Sponsor**](https://docs.google.com/forms/d/e/1FAIpQLSdSBhQyWBEyoOSy9OLox6iwWZPnVTDETqVFNjkxoGcHjGo-Hw/viewform?usp=pp_url&entry.510613015=Gold+-+$3,200).
 
 ### Platinum Sponsors
 * All benefits of Gold sponsors
 * 1 minute pitch to full conference audience
 * 2 additional tickets, 5 in total
 * Full table for swag/marketing/staffing
-<!-- * [**Become a Platinum Sponsor**](https://docs.google.com/forms/d/e/1FAIpQLScVccx6EPwNQ5OyMOYomheKYD-5VfrCzOEE0Tz2SM0uiTFUzQ/viewform?usp=pp_url&entry.510613015=Platinum+-+$6,000). -->
+* [**Become a Platinum Sponsor**](https://docs.google.com/forms/d/e/1FAIpQLSdSBhQyWBEyoOSy9OLox6iwWZPnVTDETqVFNjkxoGcHjGo-Hw/viewform?usp=pp_url&entry.510613015=Platinum+-+$5,500).
 
-### Happy Hour (Add-On - 2 Available)
+### Happy Hour (Add-On - 1 Available)
 Conference attendees are invited to stick around for Happy Hour (food and
 drinks) after the first day of the conference. We will invite other members of
 the Baltimore Tech Community to join us, space permitting.
