@@ -154,6 +154,8 @@ sponsors:
     level: silver
   - id: buildkite
     level: silver
+  - id: stickermule
+    level: startup
   - id: scale
     level: community
     url: https://www.socallinuxexpo.org
