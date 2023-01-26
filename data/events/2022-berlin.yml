@@ -114,6 +114,8 @@ sponsors:
     level: platinum
   - id: emnify
     level: gold
+  - id: redgate
+    level: gold
   - id: forto
     level: silver
 
@@ -153,7 +155,7 @@ program:
     date: 2022-09-21
     start_time: "09:40"
     end_time: "10:10"
-  - title: "florian-haas"
+  - title: "schlomo-schapiro-2"
     type: talk
     date: 2022-09-21
     start_time: "10:10"
@@ -304,6 +306,8 @@ ignites:
   - title: "iris-hunkeler"
     date: 2022-09-22
   - title: "jorge-castro"
+    date: 2022-09-22
+  - title: "ivan-merrill"
     date: 2022-09-22
   - title: "andriy-bilous"
     date: 2022-09-22

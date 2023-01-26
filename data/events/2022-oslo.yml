@@ -29,11 +29,10 @@ location_address: "Rebel, Universitetsgata 2, 0164 Oslo"
 coordinates: "59.917514204671214, 10.740498310563055"
 
 nav_elements:
-  - name: propose
   - name: location
   - name: registration
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -64,6 +63,8 @@ team_members:
     image: "roberth-strand.jpg"
   - name: "Recep Cetin"
     image: "recep-cetin.jpg"
+  - name: "Mike Long"
+    image: "mike-long.jpg"
 
 organizer_email: "oslo@devopsdays.org" 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -71,3 +72,22 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: event
     label: Event
+
+sponsors:
+  - id: eficode
+    level: event
+  - id: kosli
+    level: event
+  - id: safespring
+    level: event
+    url: https://www.safespring.com/no/
+  - id: stoltit
+    level: event
+  - id: bekk
+    level: event
+  - id: pwc-norge
+    level: event
+  - id: finn
+    level: event
+  - id: microsoft
+    level: event

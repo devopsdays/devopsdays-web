@@ -4,7 +4,7 @@ Twitter = "pietvandongen"
 image = "piet-van-dongen.jpg"
 type = "speaker"
 linktitle = "piet-van-dongen"
-
+slides = "https://assets.devopsdays.org/events/2022/eindhoven/slides/piet-van-dongen.pdf"
 +++
 
 Piet van Dongen is cloud consultant and senior software engineer at Luminis Arnhem. He loves to help organisations with mapping and exploring software and business opportunities. The more complicated, the better!

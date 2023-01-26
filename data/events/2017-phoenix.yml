@@ -108,7 +108,7 @@ sponsors:
   # - id: samplesponsorname
   #   level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  - id: contrast_security
+  - id: contrast_security-before-20221014
     level: gold
   - id: headfarmer
     level: silver
@@ -131,7 +131,7 @@ sponsors:
     level: bronze
   - id: new-context
     level: bronze
-  - id: elastic
+  - id: elastic-before-20221004
     level: bronze
   - id: li9
     level: bronze

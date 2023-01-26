@@ -8,7 +8,7 @@ Description = "Code of conduct for devopsdays Eindhoven 2022"
 All attendees, speakers, sponsors, and volunteers at devopsdays Eindhoven 2022 are required to agree with the following code of conduct. Organizers will enforce this code throughout the event. We're expecting cooperation from all participants to help ensure a safe environment for everybody.
 ### The Quick Version
 
-Our conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We don't tolerate harassment of conference participants in any form. Sexual language and imagery isn't appropriate for any conference venue, including talks, workshops, parties, Twitter, and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.
+Our conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), the choice to wear a protective face mask, or technology choices. We don't tolerate harassment of conference participants in any form. Sexual language and imagery isn't appropriate for any conference venue, including talks, workshops, parties, Twitter, and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.
 
 ### The Less Quick Version
 
@@ -23,6 +23,7 @@ If you are being harassed, notice that someone else is being harassed, or have a
 Conference staff can be identified by distinct staff badges. Our Code of Conduct team members are:
 - Floor Drees (organizer), she/her, NL/DE/EN, `floordrees@gmail.com`
 - Jos van Schouten (organizer), he/him, EN/NL, `jos.vanschouten@gmail.com`
+- Suzanne Daniels, she/her, NL/EN, `suzanne@daniels.cc`
 
 We're happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe during the conference. We value your attendance.
 

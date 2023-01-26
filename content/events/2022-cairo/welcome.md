@@ -8,7 +8,7 @@ Description = "DevOpsDays Cairo 2022"
 For the 5th consecutive year, SECC/ITIDA is organizing DevOpsDays Cairo 2022 in cooperation with ATOS, DXC Technology and Orange Labs.</p>
 <p>We are pleased to announce that our Keynote speakers are <strong>Andrew Clay Shafer</strong> and <strong>Andrés Vega</strong>, with other DevOps Heroes.</p>
 <p>Andrew Shafer is the Vice President Transformation at Red Hat. Andrew is core organizer since 2010 for the international Devopsdays Conferences; and referenced to as a foundational voice in the Devops movement.</p>
-<p>Andrés Vega is Head of Product Management – Security, Compliance &amp; Privacy Engineering at WMware, USA.</p>
+<p>Andrés Vega is Vice President of Operations at ControlPlane, focused on securing modern applications from supply-chain and runtime attacks with a zero trust, continuous security approach.</p>
 <p>Follow us, adjust your calendar notifications and stay tuned!</p>
 <table border="0" style="width: auto; border-collapse: collapse;" cellpadding="2" cellspacing="2">
 	<tbody>

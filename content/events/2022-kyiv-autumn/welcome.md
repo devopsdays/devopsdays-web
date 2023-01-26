@@ -1,27 +1,14 @@
 +++
 Title = "DevOpsDays #StandWithUkraine"
 Type = "welcome"
-aliases = ["/events/2022-kiev", "/events/2022-kyiv/", "/events/2022-ukraine/", "/events/2022-kiev-autumn", "/events/2022-kyiv-autumn/", "/events/2022-ukraine-autumn/"]
+aliases = ["/events/2022-kiev-autumn", "/events/2022-kyiv-autumn/", "/events/2022-ukraine-autumn/"]
 Description = "DevOpsDays #StandWithUkraine"
 +++
 
 ### Devopsdays [#StandWithUkraine](https://twitter.com/hashtag/StandWithUkraine)
 <div class="alert alert-danger" role="alert">
-   DevOpsDays Ukraine 2022 is now a charity edition of the conference with all proceeds going toward local, Ukrainian-led humanitarian causes.
+   DevOpsDays Kyiv 2022 Autumn is canceled! Support us in 2023!
 
-   The most up to date information on the event and speakers can be found at [https://devopsdays.com.ua/](https://devopsdays.com.ua/).</div>
-<div style="text-align:center;">
-  {{< event_logo >}}
-  <p></p>
-</div>
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Dates</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_start >}} - {{< event_end >}}
-  </div>
 </div>
 
 <!-- <div class = "row">
