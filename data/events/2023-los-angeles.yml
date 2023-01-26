@@ -98,8 +98,9 @@ sponsor_levels:
   - id: startup
     label: Startup
   - id: lunch
-    label: Lunch Sponsor
-  - id: Reception Sponsor
+    label: Lunch
+  - id: reception
+    label: Reception
   - id: coffee
     label: Coffee Break
   - id: community
