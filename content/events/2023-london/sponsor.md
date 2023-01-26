@@ -6,10 +6,6 @@ Description = "Sponsor DevOpsDays London 2023"
 <div class="container-fluid">
   <div class="row justify-content-start">
     <div class="col-md-9">
-      <!-- waiting to confirm discount period.
-        <div class="alert alert-info">
-        We are offering the following packages and any payments paid by <strong>March 16th 2023</strong> will get 5% discount (<strong>all prices are excluding VAT @20%</strong>):
-      </div> -->
       <div>
         <h3>Join the community</h3>
         <p>
@@ -44,16 +40,16 @@ Description = "Sponsor DevOpsDays London 2023"
             <tr>
               <th scope="row">Pricing</th>
               <td>
-                <center>£ tbc</center>
+                <center>£1250 + VAT</center>
               </td>
               <td>
-                <center>£ tbc</center>
+                <center>£5500 + VAT</center>
               </td>
               <td>
-                <center>£ tbc</center>
+                <center>£7500 + VAT</center>
               </td>
               <td>
-                <center>£ tbc</center>
+                <center>£12000 + VAT</center>
               </td>
             </tr>
             <tr>
@@ -150,6 +146,7 @@ Description = "Sponsor DevOpsDays London 2023"
       <p>Location: DevOpsDays London will be returning to the QEII Centre in London.</p>
     </div>
     <div class="col-md-3 col-sm-12">
+      <a href="https://assets.devopsdays.org/events/2023/london/devopsdays-london-2023-sponsorship-brochure.pdf"><img src="https://assets.devopsdays.org/events/2023/london/thumbnail.png" class="img-fluid"></a>
     </div>
   </div>
 </div>
