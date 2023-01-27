@@ -55,7 +55,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
   - name: contact
   - name: sponsor
-  - name: propose
+ # - name: propose
   - name: conduct
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
@@ -116,12 +116,12 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/david-h-lee"
     bio: "David Lee is a curious learner and problem solver that likes to understand how things work and why that stupid error keeps popping up. Early in his career he was the only tech guy at a small (non-tech) company which instilled in him the need/drive to figure things out without much guidance. His primary focus is in development but he also routinely delves into the DevOps realm. In his free time, he likes to create physical things (usually out of wood) and be outside preferably with family."
   - name: "Geoff Craig"
-    employer: "Breakfree Solutions"
+    employer: "Velocity Risk Underwriters"
     github: "GeoffCraig"
     image: "geoff-craig.jpg"
     twitter: "GeoffCraig74"
     linkedin: "https://www.linkedin.com/in/geoff-craig-7582b71/"
-    bio: "Geoff Craig is a Solutions Architect for Breakfree Solutions and an excited first time organizer for DevOps Days Nashville.  In his free time you can usually find him behind a book, in a strange new city, or behind a guitar playing very badly.  His favorite opening liner is,  'I like long walks on the beach…  and bourbon.'"
+    bio: "Geoff Craig is the Director of DevOps for Velocity Risk Underwriters and an excited first time organizer for DevOps Days Nashville.  In his free time you can usually find him behind a book, in a strange new city, or behind a guitar playing very badly.  His favorite opening liner is,  'I like long walks on the beach…  and bourbon.'"
   
 
 
