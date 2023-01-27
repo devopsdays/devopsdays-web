@@ -168,6 +168,24 @@ team_members: # Name is the only required field for team members.
     website: ""
     linkedin: ""
 
+  - name: "Deanna Stanley"
+    employer: "MITRE"
+    twitter: "PsychSafety1"
+    bio: ""
+    image: ""
+    github: ""
+    website: ""
+    linkedin: ""
+
+- name: "Kara Burgan"
+    employer: "MITRE"
+    twitter: "PsychSafety2"
+    bio: ""
+    image: ""
+    github: ""
+    website: ""
+    linkedin: ""
+
 organizer_email: "washington-dc@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
