@@ -32,7 +32,7 @@ Visando valorizar a participação de instituições na realização do evento, 
         <th>PLATINA</th>
     </thead>
     <tr>
-      <td>Participação em vídeo final sobre o evento</td>
+      <td>Exibição de vídeo institucional durante o evento (no máximo 30 segundos)</td>
       <td></td>
       <td></td>
       <td></td>
@@ -147,7 +147,7 @@ Aiming to enhance the participation of institutions in the event, we organized p
         <th>PLATINUM</th>
     </thead>
     <tr>
-      <td>Interview in final video about the event</td>
+      <td>Exhibit institutional video during the event (maximum 30 seconds)</td>
       <td></td>
       <td></td>
       <td></td>
