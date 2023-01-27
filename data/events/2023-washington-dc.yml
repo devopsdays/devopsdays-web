@@ -167,7 +167,7 @@ team_members: # Name is the only required field for team members.
     website: ""
     linkedin: ""
 
-- name: "Kara Burgan"
+  - name: "Kara Burgan"
     employer: "MITRE"
     twitter: "PsychSafety2"
     bio: ""
