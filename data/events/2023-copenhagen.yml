@@ -94,7 +94,13 @@ sponsors:
     level: gold
   - id: netic
     level: gold
+  - id: contrast-security
+    level: silver
   - id: destination-aarhus
+    level: community
+  - id: scr
+    level: community
+  - id: copenhagen-devops
     level: community
   - id: stickermule
     level: community
@@ -109,12 +115,8 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Gold
-#    max: 10
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
-  - id: bronze
-    label: Bronze
   - id: community
     label: Community
 
