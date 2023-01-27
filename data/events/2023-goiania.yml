@@ -126,6 +126,8 @@ sponsors:
     level: community
   - id: kubeevents
     level: community
+  - id: lpi
+    level: bronze
   - id: override
     level: community
   - id: senai-go-70
