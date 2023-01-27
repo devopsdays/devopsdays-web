@@ -1,0 +1,206 @@
+name: "2023-washington-dc" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2023" # The year of the event. Make sure it is in quotes.
+city: "Washington, D.C." # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaysdc" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "A house divided against itself cannot stand." # Edit this to suit your preferences
+ga_tracking_id: "UA-131045075-1"
+
+# All dates are in unquoted 2023-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2023-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+# startdate:  2023-09-15T07:00:00-04:00
+# enddate:  2023-09-16T19:00:00-04:00
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+# cfp_date_start: 2023-05-09T00:00:00-04:00 # start accepting talk proposals.
+# cfp_date_end:  2023-07-11T00:00:00-04:00 # close your call for proposals.
+# cfp_date_announce:  2023-08-01T00:00:00-04:00 # inform proposers of status
+
+# cfp_link: "https://sessionize.com/devopsdays-dc-2023" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+# registration_date_start: 2023-06-21T00:00:00-04:00
+# registration_date_end: 2023-09-16T23:59:59-04:00
+
+# registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+# registration_link: "https://www.eventbrite.com/e/devopsdays-dc-2023-tickets-345684861727" 
+
+# Location
+#
+# coordinates: "38.893837,-77.030952"
+# location: "Ronald Reagan Building and International Trade Center, Washington, D.C."
+# location_address: "1300 Pennsylvania Ave NW, Washington, D.C. 20004"
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+ # - name: propose
+ # - name: location
+ # - name: registration
+ # - name: program
+ # - name: speakers
+ # - name: sponsor
+ # - name: contact
+ # - name: conduct
+ # - name: covid-19-policy
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Holly Bazemore"
+    employer: "Amazon Web Services"
+    twitter: "https://twitter.com/hfbazemore"
+    bio: "Holly Bazemore leads the AWS Artificial Intelligence and Machine Learning team for government regions. Her team focuses on customer experience, deployments, new feature creation and operations for services like SageMaker and Rekognition.  Holly has over 20 years of technology operations, project management, communications and leadership experience and aims to empower and delight her customers through technology. She is a passionate DevOps advocate and experienced practitioner."
+    image: "holly-bazemore.jpg"
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/hfbazemore/"
+    website: ""
+    role: "Co-chairperson"
+
+  - name: "Jeff Gallimore"
+    employer: "Excella"
+    twitter: "jgallimore"
+    bio: "I'm the Chief Technology and Innovation Officer and Co-founder at Excella, a mid-tier technology consulting firm based in Arlington, VA. Since I turned to the dark side by going into management, I live vicariously through other engineers and have fond memories of spending my time in code and command lines rather than Outlook and Excel. I'm active in the DevOps community with DevOpsDays DC and as an advisor to IT Revolution. I have a passion for how technology can be used to help organizations win with their mission and people find joy in their work."
+    image: "jeff-gallimore.jpg"
+    github: "https://github.com/gallimorej"
+    linkedin: "https://www.linkedin.com/in/jgallimore/"
+    website: "https://itsanicelife.com/"
+    facebook: ""
+    role: "Co-chairperson"
+
+  - name: "Jonathan Altman"
+    employer: ""
+    twitter: ""
+    bio: ""
+    image: ""
+    github: ""
+    facebook: ""
+    website: ""
+    linkedin: ""
+
+  - name: "Peter Burkholder"
+    employer: "US Government"
+    twitter: "@pburkholder"
+    bio: "Geophysicist turned DevOp"
+    image: "peter-burkholder.jpg"
+    github: "https://github.com/pburkholder"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/pburkholder/"
+    website: ""
+
+  - name: "Patrick Goodwin"
+    employer: ""
+    twitter: ""
+    bio: ""
+    github: ""
+    facebook: ""
+    website: ""
+    linkedin: "https://www.linkedin.com/in/patrickjgoodwin/"
+
+  - name: "Nathen Harvey"
+    employer: "Google"
+    twitter: "nathenharvey"
+    bio: ""
+    image: "nathen-harvey.jpg"
+    github: "nathenharvey"
+    facebook: "https://www.facebook.com/nathenharvey"
+    linkedin: "https://www.linkedin.com/in/nathen"
+    website: "http://nathenharvey.com"
+
+  - name: "David Hodge"
+    employer: "Leidos"
+    twitter: "davezen1"
+    bio: ""
+    image: "david-hodge.jpg"
+    github: "davezen1"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/davidyuctanhodge/"
+    website: ""
+
+  - name: "James Martin"
+    employer: ""
+    twitter: ""
+    bio: ""
+    image:  'james-martin.jpg'
+    github: ""
+    facebook: ""
+    website: ""
+    linkedin: ""
+
+  - name: "Chuck Mountz, Jr"
+    employer: ""
+    twitter: "mountzcjr"
+    bio: ""
+    image: ""
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/chuckmountzjr/"
+    website: ""
+
+  - name: "Karl Peña"
+    employer: "ScientiaMobile"
+    twitter: ""
+    bio: ""
+    image: ""
+    github: ""
+    facebook: ""
+    linkedin: ""
+    website: ""
+
+  - name: "Alan Kraft"
+    employer: "US Patent and Trademark Office (USPTO)"
+    twitter: ""
+    bio: ""
+    image: ""
+    github: ""
+    website: ""
+    linkedin: ""
+
+  - name: "Deanna Stanley"
+    employer: "MITRE"
+    twitter: "PsychSafety1"
+    bio: ""
+    image: ""
+    github: ""
+    website: ""
+    linkedin: ""
+
+  - name: "Kara Burgan"
+    employer: "MITRE"
+    twitter: "PsychSafety2"
+    bio: ""
+    image: ""
+    github: ""
+    website: ""
+    linkedin: ""
+
+organizer_email: "washington-dc@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: tbd
+    level: platinum
+
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: platinum
+    label: Platinum
+    max: 15
+  - id: gold
+    label: Gold
+    max: 5
+  - id: silver
+    label: Silver
+    max: 5
+    #max: 0 # This is the same as omitting the max limit.
+  - id: community
+    label: Community
+    max: 0
