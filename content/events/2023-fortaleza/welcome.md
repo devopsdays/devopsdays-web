@@ -1,8 +1,8 @@
 +++
-Title = "devopsdays Fortaleza 2022"
+Title = "devopsdays Fortaleza 2023"
 Type = "welcome"
-aliases = ["/events/2022-fortaleza/"]
-Description = "devopsdays Fortaleza 2022"
+aliases = ["/events/2023-fortaleza/"]
+Description = "devopsdays Fortaleza 2023"
 +++
 
 <!-- <div style="text-align:center;">
@@ -11,7 +11,7 @@ Description = "devopsdays Fortaleza 2022"
 
 <div class="row">
   <div class="col-md-2">
-      <img alt="DevOpsDays fortaleza 2022" src="/events/2022-fortaleza/event.png" style="width:100%">
+      <img alt="DevOpsDays fortaleza 2023" src="/events/2023-fortaleza/event.png" style="width:100%">
       {{< event_twitter >}}
       <br>
       <a href="https://t.me/devopsce" target="_blank">
@@ -45,7 +45,7 @@ Description = "devopsdays Fortaleza 2022"
         <strong>Sponsors</strong>
       </div>
       <div class="col-md-6">
-        {{< event_link page="sponsor" text="Apoiei o Devopsdays Fortaleza 2022!" >}}
+        {{< event_link page="sponsor" text="Apoiei o Devopsdays Fortaleza 2023!" >}}
       </div>
     </div>
     <div class="row">

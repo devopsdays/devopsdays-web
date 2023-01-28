@@ -1,7 +1,7 @@
 +++
 Title = "Location"
 Type = "event"
-Description = "Location for devopsdays Fortaleza 2022"
+Description = "Location for devopsdays Fortaleza 2023"
 +++
 
 O evento será sediado na UNIFOR - Universidade de Fortaleza.
