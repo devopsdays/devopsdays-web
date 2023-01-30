@@ -159,7 +159,15 @@ sponsors:
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
+  - id: devopsdays-amsterdam
+    level: community
   - id: devopsdays-chicago
+    level: community
+  - id: devopsdays-ghent
+    level: community
+  - id: devopsdays-eindhoven
+    level: community
+  - id: devopsdays-zurich
     level: community
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
