@@ -7,7 +7,7 @@ Description = "Propose a talk for devopsdays London 2023"
 
 <hr>
 
-<center><h2><a href="https://forms.gle/tbc">Our CFP is now open</a></h2></center>
+<center><h2><a href="https://forms.gle/iBjCTD5N3abLAcNP8">Our CFP is now open</a></h2></center>
 
 Due to the COVID-19 situation we are only looking for speakers who are normally a resident of the UK.
 
