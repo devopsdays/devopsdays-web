@@ -147,6 +147,8 @@ Expenses for organizers which may be inappropriate:
 
 When deciding on appropriate expenditures, check with your local team and reach out to the core team if you'd like guidance. Remember, these funds are intended to serve your community!
 
+With all of these expenses, your event will likely be handling a lot of money. All major expenditures should be presented to and approved by your organizing team to help prevent conflicts of interest and provide oversight. Many organizing teams have implemented a process where individual organizers pay for expenses directly and request reimbursement from event funds. Reimbursements are only given if one or more additional organizers approve.
+
 ---
 
 ## Selecting a venue
