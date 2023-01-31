@@ -15,7 +15,7 @@ Early November 2022 I sent out a survey to 89 respondents. I received 37 replies
  
 ## So what happened?
 
-![Number of Devopsdays events through the years](/blog/devopsdays-durin-the-pandemic/devopsdays-through-the-years.png) 
+![Number of Devopsdays events through the years](/blog/devopsdays-during-the-pandemic/devopsdays-through-the-years.png) 
 <small>The number of cities that had a devopsdays event, 2009 - 2023 (tentative)</small>
 
 Even the untrained eye can observe a dip in the otherwise hockey stick-style growth. I first observed the numbers I could gather from devopsdays.org.
@@ -29,7 +29,7 @@ Some organizer groups teamed up with another city to bring a virtual event. For 
 19 events took place online / virtually / in cyberspace.
 Special mention for Devopsdays Zurich, who every Tuesday evening in September held online DevOpsTuesDays to keep their community engaged.
 
-![Devopsdays events in 2020: canceled, online, or in-person](/blog/devopsdays-durin-the-pandemic/canceled-online-inperson-devopsdays-2020.png) 
+![Devopsdays events in 2020: canceled, online, or in-person](/blog/devopsdays-during-the-pandemic/canceled-online-inperson-devopsdays-2020.png) 
 <small>2020 graph-moment!</small>
 
 42 events were planned for 2021, 13 of which were canceled (or postponed), and 19 were virtual events. Seven cities managed to host an in-person event (Houston, Oslo, Shanghai, Taipei, Tel Aviv, Tokyo, and Zurich). Ankara and Istanbul, and Amsterdam and Eindhoven teamed up once again.
@@ -46,7 +46,7 @@ Matt Stratton believes that for an event to be labeled “hybrid”, we need to 
 
 Organizer team size varies from city to city. Madrid and Toronto both have an organizer group between 2 and 5 people. The majority will have a team of 6 to 8 people, including Berlin and Tokyo. Austin, Chicago, among others, have the biggest team size: 13 tot 15.
 
-![Different team sizes: 2 to 5 people, 6 to 8 (the biggest group), 9 to 12, and 13 - 15 ](/blog/devopsdays-durin-the-pandemic/team-size-devopsdays.png) 
+![Different team sizes: 2 to 5 people, 6 to 8 (the biggest group), 9 to 12, and 13 - 15 ](/blog/devopsdays-during-the-pandemic/team-size-devopsdays.png) 
 <small>Team sizes across events!</small>
 
 While none of the smaller teams (2 to 5 organizers) ran an event in 2020, cities with the largest team size (13 tot 15) were not more likely to run events than cities with 9 to 12 organizers (25% vs 36%), or even much more than teams with 6 to 8 members (20%).
