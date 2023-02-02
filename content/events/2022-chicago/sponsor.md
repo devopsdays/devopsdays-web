@@ -4,6 +4,8 @@ Type = "event"
 Description = "Sponsor devopsdays Chicago 2022"
 +++
 
+<h2>Looking to sponsor devopsdays? Please <A href = "/chicago">check out this year's event</a>!</h2>
+
 We greatly value sponsors for this community event. If you are interested in sponsoring, please check out our <a href="https://assets.devopsdays.org/events/2022/chicago/2022-chicago-devopsdays-prospectus.pdf" target="_blank">prospectus</a> or <a href="mailto:chicago-sponsors@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Chicago%202022">send us an email</a>.
 We greatly value sponsors for this community event. If you are interested in sponsoring, please  <a href="mailto:chicago-sponsors@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Chicago%202022">send us an email</a>.
 <hr>
@@ -67,8 +69,9 @@ The best thing to do is send engineers to interact with the experts at devopsday
         SOLD OUT
       </td>
       <td>
-        <!--
+        
         <!-- bronze Paypal button  -->
+        <!--
         <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
           <input type="hidden" name="cmd" value="_s-xclick">
           <input type="hidden" name="hosted_button_id" value="DDXAP9S3324DC">
