@@ -130,13 +130,13 @@ program:
     date: 2023-03-16T00:00:00+10:00
     start_time: "09:40"
     end_time: "09:49"
-  - title: "talk-1"
-    type: talk
+  - title: "Presentation 1"
+    type: custom
     date: 2023-03-16T00:00:00+10:00
     start_time: "09:50"
     end_time: "10:19"
-  - title: "talk-2"
-    type: talk
+  - title: "Presentation 2"
+    type: custom
     date: 2023-03-16T00:00:00+10:00
     start_time: "10:20"
     end_time: "10:59"
@@ -145,8 +145,8 @@ program:
     date: 2023-03-16T00:00:00+10:00
     start_time: "11:00"
     end_time: "11:29"
-  - title: "talk-3"
-    type: talk
+  - title: "Presentation 3"
+    type: custom
     date: 2023-03-16T00:00:00+10:00
     start_time: "11:30"
     end_time: "11:59"
@@ -200,13 +200,13 @@ program:
     date: 2023-03-17T00:00:00+10:00
     start_time: "09:40"
     end_time: "09:49"
-  - title: "talk-1"
-    type: talk
+  - title: "Presentation 1"
+    type: custom
     date: 2023-03-17T00:00:00+10:00
     start_time: "09:50"
     end_time: "10:19"
-  - title: "talk-2"
-    type: talk
+  - title: "Presentation 2"
+    type: custom
     date: 2023-03-17T00:00:00+10:00
     start_time: "10:20"
     end_time: "10:59"
@@ -215,8 +215,8 @@ program:
     date: 2023-03-17T00:00:00+10:00
     start_time: "11:00"
     end_time: "11:29"
-  - title: "talk-3"
-    type: talk
+  - title: "Presentation 3"
+    type: custom
     date: 2023-03-17T00:00:00+10:00
     start_time: "11:30"
     end_time: "11:59"
