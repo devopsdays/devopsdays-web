@@ -305,7 +305,7 @@ Sponsors will usually ask you the following; best to have this information ready
 - Industries/Companies represented (share only in aggregate)
 - What they get with what level of sponsorship (refer them to your sponsor page or prospectus)
 - If they can buy a speaker spot (NO, but they can submit a talk and they can suggest open space topics onsite)
-- If you provide a badge-scanning mechanism (you’re not obligated to, and we do not recommend providing one. For more information see the QR codes section below.)
+- If you provide a badge-scanning mechanism (you’re not obligated to, and we do not recommend providing one. For more information see the [QR codes section](#qr-codes-and-badge-scanning) below.)
 - If they will have electricity & network at the venue (you should make sure the answer here is yes)
 - If they can get a monitor (let them bring their own or rent one themselves)
 - Where to ship their stuff and pick it up (don't take responsibility and let them handle that directly with the venue)
@@ -342,8 +342,9 @@ The second method is to encode attendee data directly into the QR code (e.g. usi
 
 - Attendees must be informed that their information will be encoded, including which details (email, phone, etc) will be included.
 - Attendees must be informed of and provided a method to opt-out. This could be done during registration and QR codes not printed on the badges of those who opt out, or you could provide stickers to cover QR codes.
+- Sponsors must be informed that badges may only be scanned with consent from attendees, and you must enforce this in practice.
 
-Additionally we recommend that QR codes be printed on the back side of badges and that badges have two points of contact with lanyards to help ensure that QR codes are only visible when an attendee shares it. Sponsors must be informed that badges may only be scanned with consent from attendees, and you must enforce this in practice.
+Additionally we recommend that QR codes be printed on the back side of badges and that badges have two points of contact with lanyards to help ensure that QR codes are only visible when an attendee shares it.
 
 Even with the rules and guidance above, we strongly discourage the use of scannable badges.
 
