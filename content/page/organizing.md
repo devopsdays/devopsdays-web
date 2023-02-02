@@ -343,7 +343,7 @@ THe second method is to encode attendee data directly into the QR code (e.g. usi
 - Attendees must be informed that their information will be encoded, including which details (email, phone, etc) will be included.
 - Attendees must be informed of and provided a method to opt-out. This could be done during registration and QR codes not printed on the badges of those who opt out, or you could provide stickers to cover QR codes.
 
-Additionally we recommend that QR codes be printed on the back side of badges and that badges have two points of contact with lanyards to help ensure that QR codes are only visible when an attendee shares it. Sponsors shoujld be reminded that badges may only be scanned with consent from attendees.
+Additionally we recommend that QR codes be printed on the back side of badges and that badges have two points of contact with lanyards to help ensure that QR codes are only visible when an attendee shares it. Sponsors must be informed that badges may only be scanned with consent from attendees, and you must enforce this in practice.
 
 Even with the rules and guidance above, we strongly discourage the use of scannable badges.
 
