@@ -163,6 +163,11 @@ sponsors:
     level: bronze
   - id: evoila-vmware
     level: bronze
+  - id: sonarsource
+    level: bronze
+  - id: julius-baer
+    level: gold
+  
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
