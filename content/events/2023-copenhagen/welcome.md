@@ -30,8 +30,9 @@ Description = "devopsdays Copenhagen 2023"
   Ignite Talks. There will also be plenty of room for open-space discussions 
   and networking during the conference. What is not to like?</p>
   <h3>Tickets</h3>
-  <p>There are limited seats available, so you do not want to miss out! We will soon 
-  open for ticket sales!</p>
+  <p>There are limited seats available, so you do not want to miss out! 
+  <br />
+  The ticket price is 2,199 DKK (excl. tax). <a href="https://www.eventbrite.dk/e/devopsdays-copenhagen-2023-tickets-516510726487" target="_blank">Click here</a> to buy your ticket.</p>
 
 
   <div class = "row">
@@ -43,21 +44,23 @@ Description = "devopsdays Copenhagen 2023"
     </div>
   </div>
 
-  <!-- <div class = "row">
+  <div class = "row">
     <div class = "col-md-2">
       <strong>Price</strong>
     </div>
     <div class = "col-md-8">
-        -
+        2,199 DKK (excl. tax)
+        <br />
+        <a href="https://www.eventbrite.dk/e/devopsdays-copenhagen-2023-tickets-516510726487" target="_blank">Buy your ticket here!</a> 
     </div>
-  </div> -->
+  </div>
 
   <div class = "row">
     <div class = "col-md-2">
       <strong>Sponsors</strong>
     </div>
     <div class = "col-md-8">
-      {{< event_link page="sponsor" text="Sponsor the conference!" >}}
+      {{< event_link page="sponsor" text="Sponsor the conference" >}}
     </div>
   </div>
 
