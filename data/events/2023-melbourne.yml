@@ -35,8 +35,8 @@ location_address: "100 St Kilda Rd, Melbourne VIC 3004" #Optional - use the stre
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
-  - name: propose
-    url: "https://ti.to/devopsaustralia/melbourne-2023"
+# - name: propose
+#   url: "https://ti.to/devopsaustralia/melbourne-2023"
   - name: sponsor
   - name: program
   - name: registration
