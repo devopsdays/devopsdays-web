@@ -14,13 +14,13 @@ startdate: 2020-05-22T09:00:00-03:00 # The start date of your event. Leave blank
 enddate: 2020-05-23T18:00:00-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: # start accepting talk proposals.
+cfp_date_end: # close your call for proposals.
+cfp_date_announce: # inform proposers of status
 
-cfp_link:  #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start:  2019-12-01T00:00:00-05:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_start: 2019-12-01T00:00:00-05:00 # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: 2020-04-15T23:59:59-03:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "true" #set this to true if you need to manually close registration before your registration end date
@@ -30,26 +30,24 @@ masthead_background: "panoramaanoite.jpg"
 
 # Location
 #
-coordinates:  # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location:  # Defaults to city, but you can make it the venue name.
+coordinates: # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: # Defaults to city, but you can make it the venue name.
 #
-location_address:  #Optional - use the street address of your venue. This will show up on the welcome page if set.
-
+location_address: #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-#  - name: propose
-#  - name: location
-#  - name: registration
-#  - name: program
-#  - name: speakers
-#  - name: sponsor
+  #  - name: propose
+  #  - name: location
+  #  - name: registration
+  #  - name: program
+  #  - name: speakers
+  #  - name: sponsor
   - name: contact
   - name: conduct
-  
+
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
-
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
@@ -129,9 +127,9 @@ organizer_email: "porto-alegre@devopsdays.org" # Put your organizer email addres
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
- # - id: samplesponsorname
- #   level: gold
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  # - id: samplesponsorname
+  #   level: gold
+  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
   - id: docker-porto-alegre
@@ -160,7 +158,7 @@ sponsors:
   - id: globo
     level: bronze
     url: "https://talentos.globo.com"
-  - id: globotv
+  - id: globotv-before-20230202
     level: bronze
     url: "https://www.vempraglobo.com.br"
   - id: azion
@@ -182,7 +180,7 @@ sponsors:
   - id: faculdade-dom-bosco
     level: institutional
 
-sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted: "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -196,7 +194,7 @@ sponsor_levels:
     label: Platinum
   - id: gold
     label: Gold
-#    max: 10
+  #    max: 10
   - id: silver
     label: Silver
     max: 0 # This is the same as omitting the max limit.
@@ -267,7 +265,7 @@ program:
     date: "2020-05-22"
     start_time: "14:00"
     end_time: "14:40"
-  
+
   - title: "patricia-magrin"
     type: talk
     date: "2020-05-22"
@@ -285,7 +283,7 @@ program:
     date: "2020-05-22"
     start_time: "15:40"
     end_time: "16:00"
-  
+
   - title: "leonardo"
     type: talk
     date: "2020-05-22"
@@ -303,13 +301,12 @@ program:
     date: "2020-05-22"
     start_time: "18:20"
     end_time: "18:40"
-  
+
   - title: "Happy Hour"
     type: custom
     date: "2020-05-22"
     start_time: "18:40"
     end_time: "22:00"
-
 
   - title: "Abertura"
     type: custom
@@ -364,7 +361,7 @@ program:
     date: "2020-05-23"
     start_time: "13:55"
     end_time: "14:35"
-  
+
   - title: "pery"
     type: talk
     date: "2020-05-23"
