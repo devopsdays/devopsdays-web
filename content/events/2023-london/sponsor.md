@@ -6,10 +6,6 @@ Description = "Sponsor DevOpsDays London 2023"
 <div class="container-fluid">
   <div class="row justify-content-start">
     <div class="col-md-9">
-      <!-- waiting to confirm discount period.
-        <div class="alert alert-info">
-        We are offering the following packages and any payments paid by <strong>March 16th 2023</strong> will get 5% discount (<strong>all prices are excluding VAT @20%</strong>):
-      </div> -->
       <div>
         <h3>Join the community</h3>
         <p>
@@ -44,16 +40,16 @@ Description = "Sponsor DevOpsDays London 2023"
             <tr>
               <th scope="row">Pricing</th>
               <td>
-                <center>£ tbc</center>
+                <center>£1250 + VAT</center>
               </td>
               <td>
-                <center>£ tbc</center>
+                <center>£5500 + VAT</center>
               </td>
               <td>
-                <center>£ tbc</center>
+                <center>£7500 + VAT</center>
               </td>
               <td>
-                <center>£ tbc</center>
+                <center>£12000 + VAT</center>
               </td>
             </tr>
             <tr>
@@ -134,7 +130,7 @@ Description = "Sponsor DevOpsDays London 2023"
           </tbody>
         </table>
       </div>
-      <p>We will be announcing the prices of our sponsorship packages for 2023 soon, if you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].</p>
+      <p>If you are interested in sponsoring, please drop us an email at <a href="mailto:sponsors@devopsdays.london">sponsors@devopsdays.london</a>.</p>
       <p>Sponsoring DevOpsDays London will expose your brand to practitioners, managers, and executives from companies of all sizes and industries including retail, banking, manufacturing, medical technology,education, government, and consulting. By supporting DevOpsDays you will:</p>
       <ul>
         <li>Increase awareness of your brand with decision makers and practitioners at organisations large
@@ -146,10 +142,11 @@ Description = "Sponsor DevOpsDays London 2023"
         <li>Enhance your profile within the DevOps, Cloud Native and SRE communities.</li>
       </ul>
       <!-- <p>If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].</p> -->
-      <p>This year we will have a minimum of 200 in-person attendees, with capacity to extend to 350 (depending on COVID-19 guidance). </p>
+      <p>This year we expect approximately 400 attendees (depending on COVID-19 guidance).</p>
       <p>Location: DevOpsDays London will be returning to the QEII Centre in London.</p>
     </div>
     <div class="col-md-3 col-sm-12">
+      <a href="https://assets.devopsdays.org/events/2023/london/devopsdays-london-2023-sponsorship-brochure.pdf"><img src="https://assets.devopsdays.org/events/2023/london/thumbnail.png" class="img-fluid"></a>
     </div>
   </div>
 </div>
