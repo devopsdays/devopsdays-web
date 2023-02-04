@@ -37,10 +37,10 @@ Description = "Sponsor devopsdays Medellin 2021"
               <center>$ 1000 USD + IVA </center>
             </td>
             <td>
-              <center>$ 2000 USD + IVA </center>
+              <center>$ 3000 USD + IVA </center>
             </td>
             <td>
-              <center>$ 3000 USD + IVA </center>
+              <center>$ 5000 USD + IVA </center>
             </td>
           </tr>
             <th scope="row">Boleto de conferencia - Presenciales*</th>
