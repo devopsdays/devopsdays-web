@@ -78,7 +78,7 @@ team_members: # Name is the only required field for team members.
   - name: "Jessica Cregg"
     twitter: "JessicaCregg"
 
-organizer_email: "info@devopsdays.london" # Put your organizer email address here
+organizer_email: "london@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
