@@ -1,11 +1,29 @@
 +++
 Title = "Registration"
 Type = "event"
-Description = "Registration for devopsdays Organizer Summit 2023"
+Description = "Registration for DevOpsDays Organizer Summit 2023"
 +++
+<link rel="stylesheet" type="text/css" href="https://tix.devops.foundation/devopsdays-chicago/2023/widget/v1.css">
+<script type="text/javascript" src="https://tix.devops.foundation/widget/v1.en.js" async></script>
 
 <div style="width:100%; text-align:left;">
 
-Embed registration iframe/link/etc.
-</div></div>
+<div class = "col-md-12">
+
+  Register for DevOpsDays Chicago below, and enter the summit registration code in the "<strong>Redeem a Voucher</strong>" box.
+  The devopsdays Organizer Summit ticket is a free add-on to a full-priced ticket for <a href="https://devopsdays.org/chicago">DevOpsDays Chicago 2023</a>.
+  All past and present DevOpsDays organizers are welcome.
+
+  When available, the code for registration will be a pinned message on the <a href="https://devopsdays.slack.com/archives/C04RN59N0">#announcements</a> channel in the global DevOpsDays slack.
+  If you can't access the global DevOpsDays slack, or need assistance covering the cost of the registration, or have any other questions, please email the summit organizers
+  <a href="mailto:organizer-summit@devopsdays.org?subject=Summit%202023%20Registration%20Question">organizer-summit@devopsdays.org</a>.  Please include your DevOpsDays association in the email.
 </div>
+
+<pretix-widget event="https://tix.devops.foundation/devopsdays-chicago/2023/"></pretix-widget>
+<noscript>
+   <div class="pretix-widget">
+        <div class="pretix-widget-info-message">
+            JavaScript is disabled in your browser. To access our ticket shop without JavaScript, please <a target="_blank" rel="noopener" href="https://tix.devops.foundation/devopsdays-chicago/2023/">click here</a>.
+        </div>
+    </div>
+</noscript>
