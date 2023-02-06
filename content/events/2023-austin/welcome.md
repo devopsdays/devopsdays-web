@@ -11,7 +11,7 @@ Description = "DevOpsDays Austin 2023"
       <div class="col-md-8">
         <h2>Welcome to the DevOpsDays Austin!</h2>
         <p>DevOpsDays Austin will be in person, on May 4-5, 2023, in the Etter-Harbin Alumni Center on the University of Texas campus.</p>
-        <p>More details coming soon!</p>
+        <p>This year our theme statement is "Change is in our bones!" We're focusing on what we have learned going through periods of change, whether intense and unexpected or deliberate and thoughtfully planned.</p>
         <div class="row">
           <div class="col-md-2"></div>
           <div class="col-md-8">
