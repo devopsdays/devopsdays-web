@@ -230,13 +230,3 @@ program:
     date: 2023-03-10T00:00:00-08:00
     start_time: "16:30"
     end_time: "17:15"
-  - title: "Planning Retrospective"
-    type: custom
-    date: 2023-03-10T00:00:00-08:00
-    start_time: "17:30"
-    end_time: "18:00"
-  - title: "upSCALE"
-    type: custom
-    date: 2023-03-10T00:00:00-08:00
-    start_time: "18:15"
-    end_time: "19:45"
