@@ -75,6 +75,8 @@ organizer_email: "birmingham-al@devopsdays.org" # Put your organizer email addre
 sponsors:
   - id: fetch
     level: host
+  - id: trendmicro
+    level: gold
 
 sponsors_accepted : "yes"
 
