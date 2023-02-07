@@ -16,25 +16,25 @@ enddate: 2023-05-24T16:00:00-04:00 # The end date of your event. Leave blank if 
 cancel: "false"
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:   # start accepting talk proposals.
-cfp_date_end:   # close your call for proposals.
-cfp_date_announce:   # inform proposers of status
+cfp_date_start: 2023-01-24T00:00:00-04:00  # start accepting talk proposals.
+cfp_date_end: 2023-03-01T11:00:00-04:00  # close your call for proposals.
+cfp_date_announce: 2023-03-14T12:00:00-04:00  # inform proposers of status
 
-cfp_link:  #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: https://www.papercall.io/dodbmore-2023 #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 
-registration_date_start:  # start accepting registration. Leave blank if registration is not open yet
-registration_date_end:    # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2023-01-27T00:00:00-04:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end:  2023-05-22T17:00:00-04:00  # close registration. Leave blank if registration is not open yet.
 #registration_date_start: 2019-12-17T00:00:00-04:00 # start accepting registration. Leave blank if registration is not open yet
 #registration_date_end:   2020-04-22T17:00:00-04:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://devopsdaysbaltimore2023.eventbrite.com" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 sharing_image: "sharing.jpg"
 # Custom Links
 slack_link: "http://slack.baltimoretech.org"
-#sponsor_faq_link: "https://docs.google.com/document/d/1O7SJsQJ5wRxVFgsN1hkA7M-3gD3IyeFOJdvsHsRx7Lo/edit?usp=sharing"
-#sponsor_registration_link: "https://forms.gle/WxDtvfcauc1ew9999"
+sponsor_faq_link: "https://docs.google.com/document/d/1luCJTEva87ORuGPPjBBqDecTopI1XqzFkSGk1MMShYI/edit?usp=sharing"
+sponsor_registration_link: "https://forms.gle/snuih7cVnY9cmUJRA"
 
 # Location
 #
@@ -81,6 +81,21 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/sameetnasnodkar/"
     twitter: "sameet"
     image: "sameet-nasnodkar.jpg"
+  - name: "Dave Sueltenfuss"
+    employer: "Fearless"
+    github: "dsueltenfuss"
+    linkedin: "https://www.linkedin.com/in/dsueltenfuss/"
+    image: "dave-sueltenfuss.jpg"
+  - name: "JP Hechter"
+    employer: "Fearless"
+    github: "jphechter"
+    linkedin: "https://www.linkedin.com/in/jp-hechter/"
+    image: "jp-hechter.png"
+  - name: "Chase Farmer"
+    employer: "Fearless"
+    github: "chasefarmer2808"
+    linkedin: "https://www.linkedin.com/in/chase-farmer-236b82115/"
+    image: "chase-farmer.jpg"
 
 organizer_email: "baltimore@devopsdays.org"
 
@@ -106,7 +121,7 @@ sponsors:
  #  - id: arresteddevops
  #    level: community
 
-sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -115,7 +130,7 @@ sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: happyhour
     label: Happy Hour
-    max: 2
+    max: 1
   - id: platinum
     label: Platinum
     max: 16

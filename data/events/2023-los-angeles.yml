@@ -41,8 +41,10 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     url: https://www.socallinuxexpo.org/scale/20x/venue
   - name: registration
     url: https://register.socallinuxexpo.org/reg6/
-  - name: CFP
-    url: https://www.socallinuxexpo.org/scale/20x/cfp
+#  - name: CFP
+#    url: https://www.socallinuxexpo.org/scale/20x/cfp
+  - name: program
+  - name: speakers  
   - name: volunteer
   - name: sponsor
   - name: contact
@@ -90,11 +92,16 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Gold
+    max: 18
   - id: silver
     label: Silver
     max: 0 # This is the same as omitting the max limit.
   - id: startup
     label: Startup
+  - id: lunch
+    label: Lunch
+  - id: reception
+    label: Reception
   - id: coffee
     label: Coffee Break
   - id: community
@@ -103,9 +110,9 @@ sponsor_levels:
 sponsors:
   - id: circleci
     level: gold
-  - id: cloudbees
-    level: gold
   - id: ctrlstack
+    level: gold
+  - id: dell
     level: gold
   - id: kosli
     level: gold
@@ -131,13 +138,25 @@ sponsors:
     level: gold
   - id: prosperops
     level: gold
-  - id: maplelabs
+  - id: snappyflow
+    level: gold
+  - id: 42crunch
+    level: gold
+  - id: dragondropcloud
     level: gold
   - id: site24x7
     level: gold
   - id: saucelabs
     level: gold
   - id: couchbase
+    level: gold
+  - id: digitalai
+    level: gold
+  - id: solarwinds
+    level: gold
+  - id: transition-technologies-psc
+    level: silver
+  - id: zesty
     level: gold
   - id: tailscale
     level: coffee
@@ -147,6 +166,77 @@ sponsors:
     level: silver
   - id: buildkite
     level: silver
+  - id: dnsimple
+    level: silver
+  - id: stickermule
+    level: startup
   - id: scale
     level: community
     url: https://www.socallinuxexpo.org
+
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2023-03-10T00:00:00-08:00
+    start_time: "09:00"
+    end_time: "10:00"
+  - title: "john-willis"
+    type: talk
+    date: 2023-03-10T00:00:00-08:00
+    start_time: "10:00"
+    end_time: "10:45"
+  - title: "ryan-taylor"
+    type: talk
+    date: 2023-03-10T00:00:00-08:00
+    start_time: "11:00"
+    end_time: "11:45"
+  - title: "Lunch"
+    type: custom
+    date: 2023-03-10T00:00:00-08:00
+    start_time: "11:45"
+    end_time: "13:30"
+  - title: "chris-travers"
+    type: talk
+    date: 2023-03-10T00:00:00-08:00
+    start_time: "13:30"
+    end_time: "13:45"
+  - title: "kat-gaines"
+    type: talk
+    date: 2023-03-10T00:00:00-08:00
+    start_time: "13:45"
+    end_time: "14:00"
+  - title: "nathan-handler"
+    type: talk
+    date: 2023-03-10T00:00:00-08:00
+    start_time: "14:00"
+    end_time: "14:15"
+  - title: "Break"
+    type: custom
+    date: 2023-03-10T00:00:00-08:00
+    start_time: "14:15"
+    end_time: "14:30"
+  - title: "rich-horace"
+    type: talk
+    date: 2023-03-10T00:00:00-08:00
+    start_time: "14:30"
+    end_time: "15:15"
+  - title: "paige-cruz"
+    type: talk
+    date: 2023-03-10T00:00:00-08:00
+    start_time: "15:30"
+    end_time: "16:15"
+  - title: "bryan-cantrill"
+    type: talk
+    date: 2023-03-10T00:00:00-08:00
+    start_time: "16:30"
+    end_time: "17:15"
+  - title: "Planning Retrospective"
+    type: custom
+    date: 2023-03-10T00:00:00-08:00
+    start_time: "17:30"
+    end_time: "18:00"
+  - title: "upSCALE"
+    type: custom
+    date: 2023-03-10T00:00:00-08:00
+    start_time: "18:15"
+    end_time: "19:45"

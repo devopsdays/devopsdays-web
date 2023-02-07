@@ -13,9 +13,11 @@ Description = "DevOpsDays Baltimore 2023"
   </div>
  <div class = "col-md-6">
     <h2><p>Welcome to DevOps Days Baltimore 2023!</p></h2>
-    <p>We are excited to announce DevOps Days will be coming back to {{< event_location >}} on May 23rd & 24th.</p>
+    <p>We are excited to announce DevOps Days will be coming back in-person to {{< event_location >}} on May 23rd & 24th.</p>
     <br>
-    <p>Do you have a great topic for the community?  We'll be opening topic proposals soon!  We look forward to hearing from you.</p>
+    <h3><p>{{< event_link page="registration" text="Registration is now open!" >}}</p></h3>
+    <br>
+    <h3><p>{{< event_link page="propose" text="Topic proposals are now open!" >}}</p></h3>
   </div>
 </div>
 

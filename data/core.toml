@@ -7,12 +7,11 @@ active = [
 "Bernd Erk",
 "Rafael Gomes",
 "Marco Júnior",
-"Mine Heck",
 "Adrian Moisey",
-"Ken Mugrage",
 "Mike Rosado",
 "Matty Stratton",
-"Jason Yee"
+"Jason Yee",
+"Sharone Zitzman"
 ]
 
 advisory = [
@@ -20,8 +19,10 @@ advisory = [
 "Jennifer Davis",
 "Patrick Debois (founder, 2009-2014 lead)",
 "Nathen Harvey",
+"Mine Heck",
 "Matthew Jones",
 "Bridget Kromhout (2015-2020 lead)",
+"Ken Mugrage",
 "Andrew Clay Shafer",
 "John Willis"
 ]

@@ -1,7 +1,7 @@
 +++
 Title = "Sponsor"
 Type = "event"
-Description = "Patrocínio DevOpsDays Goiânia 2023"
+Description = "Patrocínio DevOpsDays Aracaju 2023"
 +++
 
 Valorizamos muito os patrocinadores deste evento aberto. Se você estiver interessado em patrocinar, envie um e-mail para [{{< email_organizers >}}].
@@ -32,7 +32,7 @@ Visando valorizar a participação de instituições na realização do evento, 
         <th>PLATINA</th>
     </thead>
     <tr>
-      <td>Veiculação de vídeo institucional*</td>
+      <td>Veiculação de vídeo institucional</td>
       <td></td>
       <td></td>
       <td></td>
@@ -109,21 +109,21 @@ Visando valorizar a participação de instituições na realização do evento, 
       <td><i class="fa fa-check"></i></td>
     </tr>
     <tr>
-      <td>Distribuição de brindes no dia do evento*</td>
+      <td>Distribuição de brindes no dia do evento</td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
     </tr>
     <tr>
-      <td>Inscrições para o evento*</td>
+      <td>Inscrições para o evento</td>
       <td>2</td>
       <td>4</td>
       <td>8</td>
       <td>10</td>
     </tr>
     <tr>
-      <td>Representantes no evento*</td>
+      <td>Representantes no evento</td>
       <td>1</td>
       <td>3</td>
       <td>4</td>
@@ -140,7 +140,8 @@ Visando valorizar a participação de instituições na realização do evento, 
 </div>
 <div>
   <p><strong>COMUNIDADE:</strong> Apoiadores que contribuiram com algum beneficio para o público ou quantia abaixo de  R$ 1.000 terão direito à divulgação nas redes sociais e 1 inscrição para o evento.</p>
-    <p style="font-size:18px">Veja mais e nosso mídia kit no documento completo clicando<a href="https://www.dropbox.com/s/d3afn9931od64zs/DodAju%20-%20Proposta%20de%20apoio.pdf?dl=0"><i class="fa fa-download" style="font-size:30px"></i></a></p>
+    <p style="font-size:18px">Veja mais e nosso mídia kit no documento resumido clicando<a href="https://www.dropbox.com/s/d3afn9931od64zs/DodAju%20-%20Proposta%20de%20apoio.pdf?dl=0"><i class="fa fa-download" style="font-size:30px"></i></a></p>
+    <p style="font-size:18px">Caso deseje receber mais informações sobre como nos apoiar, entre em contato conosco!</p>
 </div>
 
 <!--EN-->
@@ -276,5 +277,6 @@ Aiming to enhance the participation of institutions in the event, we organized p
 </div>
 <div>
 <p><strong>COMMUNITY:</strong> Supporters who have contributed with some benefit to the public or the amount bellow US$ 300,00 will receive the right to be promoted on social media and 1 registration for the event.</p>
-    <p style="font-size:18px">You can check more about sponsorship and the benefits here (in portuguese) <a href="https://www.dropbox.com/s/d3afn9931od64zs/DodAju%20-%20Proposta%20de%20apoio.pdf?dl=0"><i class="fa fa-download" style="font-size:30px"></i></a></p>
+    <p style="font-size:18px">You can check more about sponsorship and the benefits here<a href="https://www.dropbox.com/s/m7jh0nrvx1jy1pm/Sponsorship%20DevOpsDays%20Aracaju%202023.pdf?dl=0"><i class="fa fa-download" style="font-size:30px"></i></a></p>
+    <p style="font-size:18px">If you are interested to know more how to support DevOpsDays Aracaju, please contact us!</p>
 </div>

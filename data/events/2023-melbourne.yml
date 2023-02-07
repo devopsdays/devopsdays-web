@@ -35,9 +35,10 @@ location_address: "100 St Kilda Rd, Melbourne VIC 3004" #Optional - use the stre
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
-  - name: propose
-    url: "https://ti.to/devopsaustralia/melbourne-2023"
+# - name: propose
+#   url: "https://ti.to/devopsaustralia/melbourne-2023"
   - name: sponsor
+  - name: program
   - name: registration
     url: "https://www.papercall.io/devopsdays-melb-2023"
   - name: contact
@@ -87,6 +88,16 @@ organizer_email: "melbourne@devopsdays.org" # Put your organizer email address h
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: anz
+    level: gold
+  - id: azenix
+    level: silver
+  - id: azenix
+    level: lanyard
+  - id: cipherstash
+    level: silver
+  - id: circleci
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -111,3 +122,145 @@ sponsor_levels:
   - id: coffeecart
     label: Coffee Cart
     max: 1
+    
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2023-03-16T00:00:00+10:00
+    start_time: "09:00"
+    end_time: "09:39"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2023-03-16T00:00:00+10:00
+    start_time: "09:40"
+    end_time: "09:49"
+  - title: "Presentation 1"
+    type: custom
+    date: 2023-03-16T00:00:00+10:00
+    start_time: "09:50"
+    end_time: "10:19"
+  - title: "Presentation 2"
+    type: custom
+    date: 2023-03-16T00:00:00+10:00
+    start_time: "10:20"
+    end_time: "10:59"
+  - title: "Morning Tea Break"
+    type: custom
+    date: 2023-03-16T00:00:00+10:00
+    start_time: "11:00"
+    end_time: "11:29"
+  - title: "Presentation 3"
+    type: custom
+    date: 2023-03-16T00:00:00+10:00
+    start_time: "11:30"
+    end_time: "11:59"
+  - title: "Lightning Talk Pitch Sessions"
+    type: custom
+    date: 2023-03-16T00:00:00+10:00
+    start_time: "12:00"
+    end_time: "12:29"
+  - title: "Lunch Break"
+    type: custom
+    date: 2023-03-16T00:00:00+10:00
+    start_time: "12:30"
+    end_time: "13:29"
+  - title: "Lightning Talks"
+    type: custom
+    date: 2023-03-16T00:00:00+10:00
+    start_time: "13:00"
+    end_time: "13:29"
+  - title: "Open Spaces"
+    type: custom
+    date: 2023-03-16T00:00:00+10:00
+    start_time: "14:00"
+    end_time: "15:00"
+  - title: "Afternoon Tea Break"
+    type: custom
+    date: 2023-03-16T00:00:00+10:00
+    start_time: "15:00"
+    end_time: "15:14"
+  - title: "Lightning Talks"
+    type: custom
+    date: 2023-03-16T00:00:00+10:00
+    start_time: "15:15"
+    end_time: "15:44"
+  - title: "Open Spaces"
+    type: custom
+    date: 2023-03-16T00:00:00+10:00
+    start_time: "15:45"
+    end_time: "16:44"
+  - title: "Closing"
+    type: custom
+    date: 2023-03-16T00:00:00+10:00
+    start_time: "16:45"
+    end_time: "17:00"
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2023-03-17T00:00:00+10:00
+    start_time: "09:00"
+    end_time: "09:39"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2023-03-17T00:00:00+10:00
+    start_time: "09:40"
+    end_time: "09:49"
+  - title: "Presentation 1"
+    type: custom
+    date: 2023-03-17T00:00:00+10:00
+    start_time: "09:50"
+    end_time: "10:19"
+  - title: "Presentation 2"
+    type: custom
+    date: 2023-03-17T00:00:00+10:00
+    start_time: "10:20"
+    end_time: "10:59"
+  - title: "Morning Tea Break"
+    type: custom
+    date: 2023-03-17T00:00:00+10:00
+    start_time: "11:00"
+    end_time: "11:29"
+  - title: "Presentation 3"
+    type: custom
+    date: 2023-03-17T00:00:00+10:00
+    start_time: "11:30"
+    end_time: "11:59"
+  - title: "Lightning Talk Pitch Sessions"
+    type: custom
+    date: 2023-03-17T00:00:00+10:00
+    start_time: "12:00"
+    end_time: "12:29"
+  - title: "Lunch Break"
+    type: custom
+    date: 2023-03-17T00:00:00+10:00
+    start_time: "12:30"
+    end_time: "13:29"
+  - title: "Lightning Talks"
+    type: custom
+    date: 2023-03-17T00:00:00+10:00
+    start_time: "13:00"
+    end_time: "13:29"
+  - title: "Open Spaces"
+    type: custom
+    date: 2023-03-17T00:00:00+10:00
+    start_time: "14:00"
+    end_time: "15:00"
+  - title: "Afternoon Tea Break"
+    type: custom
+    date: 2023-03-17T00:00:00+10:00
+    start_time: "15:00"
+    end_time: "15:14"
+  - title: "Lightning Talks"
+    type: custom
+    date: 2023-03-17T00:00:00+10:00
+    start_time: "15:15"
+    end_time: "15:44"
+  - title: "Open Spaces"
+    type: custom
+    date: 2023-03-17T00:00:00+10:00
+    start_time: "15:45"
+    end_time: "16:44"
+  - title: "Closing"
+    type: custom
+    date: 2023-03-17T00:00:00+10:00
+    start_time: "16:45"
+    end_time: "17:00"

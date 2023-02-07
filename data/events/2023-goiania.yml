@@ -120,12 +120,22 @@ sponsors:
     level: community
   - id: docker-goiania
     level: community
+  - id: elastic
+    level: gold
+  - id: globotv
+    level: gold
+  - id: grafanalabs
+    level: bronze
   - id: iel-go
     level: community
+  - id: infomach
+    level: platinum
   - id: kubecareers
     level: community
   - id: kubeevents
     level: community
+  - id: lpi
+    level: bronze
   - id: override
     level: community
   - id: senai-go-70

@@ -12,7 +12,7 @@
 /berlin/*		/events/2022-berlin/:splat		302
 /birmingham-al/*	/events/2023-birmingham-al/:splat		302
 /birmingham-uk/*		/events/2023-birmingham-uk/:splat		302
-/bogota/*		/events/2022-bogota/:splat		302
+/bogota/*		/events/2023-bogota/:splat		302
 /boise/*		/events/2022-boise/:splat		302
 /boston/*		/events/2022-boston/:splat		302
 /brasilia/*		/events/2017-brasilia/:splat		302
@@ -35,7 +35,7 @@
 /down-under/*		/events/2019-sydney/:splat		302
 /edinburgh/*		/events/2020-edinburgh/:splat		302
 /feira-de-santana/*	/events/2019-feira-de-santana/:splat	302
-/florianopolis/*	/events/2019-florianopolis/:splat	302
+/florianopolis/*	/events/2023-florianopolis/:splat	302
 /fortaleza/*		/events/2022-fortaleza/:splat		302
 /galway/*		/events/2019-galway/:splat		302
 /geneva/*		/events/2023-geneva/:splat		302

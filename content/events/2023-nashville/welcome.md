@@ -25,8 +25,9 @@ Description = "DevOpsDays Nashville 2022"
     <h2><p>Welcome to DevOps Days Nashville 2023!</p></h2>
     <p>We are excited to announce DevOps Days will be coming back to {{< event_location >}} on April 6th & 7th.</p>
     <br>
-    <h2><p><a href="https://sessionize.com/nashvilledevopsdays2023/">Call for Proposals Now Open!</a></p></h2>
-    <p>Do you have a great topic for the community?  Visit our <a href="https://sessionize.com/nashvilledevopsdays2023/">Call for Speakers/Papers</a> site today!  We look forward to hearing from you.</p>
+    <!-- <h2><p><a href="https://sessionize.com/nashvilledevopsdays2023/">Call for Proposals Now Open!</a></p></h2>
+    <p>Do you have a great topic for the community?  Visit our <a href="https://sessionize.com/nashvilledevopsdays2023/">Call for Speakers/Papers</a> site today!  We look forward to hearing from you.</p> -->
+    <p>Call for Proposals is Now Closed!  We will be announcing our sessions around February 1st.  Please check back to see our session list.</p>
   </div>
 </div>
 
@@ -51,14 +52,14 @@ Description = "DevOpsDays Nashville 2022"
   </div>
 </div> 
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
-</div>
+</div> -->
 
 <div class = "row">
   <div class = "col-md-2">

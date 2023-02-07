@@ -15,7 +15,7 @@ enddate: 2023-04-13 # The end date of your event. Leave blank if you don't have 
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2022-10-01  # start accepting talk proposals.
-cfp_date_end: 2023-01-20  # close your call for proposals.
+cfp_date_end: 2023-01-27  # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
 
 cfp_link: "https://docs.google.com/forms/d/e/1FAIpQLScM9ki8DOJqmcRSKhXVgk_pb5dXfFra5ECsN1tlXO-UcF3xNQ/viewform?usp=sf_link" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
@@ -116,7 +116,17 @@ sponsors:
     level: community
   - id: kubeevents
     level: community
-
+  - id: portworx
+    level: gold
+  - id: azul
+    level: gold
+  - id: dell-technologies
+    level: platinum
+  - id: micro-focus
+    level: gold
+  - id: deutsche-bank 
+    level: silver
+  
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
