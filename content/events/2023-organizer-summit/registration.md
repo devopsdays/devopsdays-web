@@ -19,11 +19,11 @@ Description = "Registration for DevOpsDays Organizer Summit 2023"
   <a href="mailto:organizer-summit@devopsdays.org?subject=Summit%202023%20Registration%20Question">organizer-summit@devopsdays.org</a>.  Please include your DevOpsDays association in the email.
 </div>
 
-<pretix-widget event="https://tix.devops.foundation/devopsdays-chicago/2023/"></pretix-widget>
+<pretix-widget event="https://chicago-tickets.devopsdays.org/2023/" voucher="ORG-SUMMIT-SECRET"></pretix-widget>
 <noscript>
    <div class="pretix-widget">
         <div class="pretix-widget-info-message">
-            JavaScript is disabled in your browser. To access our ticket shop without JavaScript, please <a target="_blank" rel="noopener" href="https://tix.devops.foundation/devopsdays-chicago/2023/">click here</a>.
+            JavaScript is disabled in your browser. To access our ticket shop without JavaScript, please <a target="_blank" rel="noopener" href="https://chicago-tickets.devopsdays.org/2023/">click here</a>.
         </div>
     </div>
 </noscript>
