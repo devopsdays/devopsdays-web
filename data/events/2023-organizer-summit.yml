@@ -76,6 +76,7 @@ team_members: # Name is the only required field for team members.
   - name: "Kevin Reedy"
     role: "Chicago"
     image: "kevin-reedy.jpg"
+    mastodon: "https://hachyderm.io/@kevinreedy"
     twitter: "kevinreedy"
     website: "https://kevinreedy.net"
     linkedin: "https://www.linkedin.com/in/kevinreedy"
