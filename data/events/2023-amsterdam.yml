@@ -141,6 +141,8 @@ sponsors:
     level: silver
   - id: fullstaq
     level: silver
+  - id: mkdev
+    level: silver
 
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
