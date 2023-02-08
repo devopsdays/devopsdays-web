@@ -102,9 +102,10 @@ organizer_email: "baltimore@devopsdays.org"
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  ## Platinum
-  # - id: tenable
-  #   level: platinum
+  - id: kubecareers
+    level: media
+  - id: kubeevents
+    level: media
   # - id: appdynamics-before-20220714
   #   level: platinum
   ## Gold
