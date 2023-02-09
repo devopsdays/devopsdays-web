@@ -134,6 +134,9 @@ sponsors:
 # Coffee
   - id: greater-bv
     level: coffee
+# Gold
+  - id: github
+    level: gold
 # Silver
   - id: wiz
     level: silver
