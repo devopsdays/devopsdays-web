@@ -99,18 +99,32 @@ organizer_email: "caceres@devopsdays.org" # Put your organizer email address her
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: caceresdevops
-    level: community
+  - id: sngular
+    level: gold
+  - id: metrika-media
+    level: bronze
+  - id: worldline
+    level: bronze
+  - id: kodify
+    level: bronze
+  - id: viewnext
+    level: bronze
   - id: kubecareers
     level: collaborators
   - id: kubeevents
     level: collaborators
   - id: diputacioncc
     level: collaborators
+  - id: edd
+    level: collaborators
+  - id: azuanet
+    level: collaborators
+  - id: caceresdevops
+    level: community
   - id: girls-in-tech-esp
     level: community
-  - id: metrika-media
-    level: bronze
+  - id: caceresjs
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
