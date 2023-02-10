@@ -4,10 +4,15 @@ Type = "event"
 Description = "Location for devopsdays seattle 2023"
 +++
 
-Watch this space for information about the venue including address, map/direction, parking/transit, and any hotel details.
+### <a href="https://seattleconventioncenter.com/venues/summit-addition">Seattle Convention Center | Summit Building</a>
+
+900 Pine St, Seattle, WA 98101
 
 <!-- Uncomment this only if you have set the coordinates for your location in the config yaml. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html -->
-<!-- {{< event_map >}} -->
+{{< event_map >}}
+<hr>
+
+<a href="https://seattleconventioncenter.com/parking-garage-information">Parking Garage Information</a>
 
 <!-- Edit and uncomment to let people know what accessibility features you have available -->
 <!-- 
