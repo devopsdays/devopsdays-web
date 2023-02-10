@@ -163,6 +163,11 @@ sponsors:
    level: gold
  - id: regscale
    level: silver
+ - id: cloudbees
+   level: gold
+# Uncomment once we get a logo
+#  - id: saltworks
+#    level: gold
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
