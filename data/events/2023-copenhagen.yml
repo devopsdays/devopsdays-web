@@ -18,13 +18,13 @@ cfp_date_start:  # start accepting talk proposals.
 cfp_date_end:  # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
 
-cfp_link: "https://www.papercall.io/devopsdayscopenhagen-2023" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+# cfp_link: "https://www.papercall.io/devopsdayscopenhagen-2023" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: 2023-02-01T00:00:00+02:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2023-05-01T00:00:00+02:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.eventbrite.dk/e/devopsdays-copenhagen-2023-tickets-516510726487" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -34,14 +34,14 @@ location: "Docken" # Defaults to city, but you can make it the venue name.
 location_address: "Færgehavnsvej 35, 2100 København" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
-  # - name: register
-  #   url: 
+  
+  - name: registration
+    url: https://www.eventbrite.dk/e/devopsdays-copenhagen-2023-tickets-516510726487
+  - name: sponsor
   - name: location
- # - name: registration
   # - name: program
   # - name: speakers
-  - name: sponsor
+  - name: propose
   - name: contact
   - name: conduct
 # - name: example
@@ -66,7 +66,7 @@ team_members: # Name is the only required field for team members.
     employer: "The LEGO Group"
     image: "rasmus-hald.jpg"
   - name: "Mads Baggesen"
-    employer: "Eficode"
+    employer: "Systematic"
     image: "mads-baggesen.jpg"
   - name: "Johanne Sundtoft"
     employer: "Systematic"
@@ -92,11 +92,21 @@ organizer_email: "denmark@devopsdays.org" # Put your organizer email address her
 sponsors:
   - id: eficode
     level: gold
+  - id: netic
+    level: gold
+  - id: contrast_security
+    level: silver
   - id: destination-aarhus
+    level: community
+  - id: scr
+    level: community
+  - id: copenhagen-devops
     level: community
   - id: stickermule
     level: community
     url: https://mule.to/p3mm
+  - id: danske-commodities
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -107,12 +117,8 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Gold
-#    max: 10
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
-  - id: bronze
-    label: Bronze
   - id: community
     label: Community
 

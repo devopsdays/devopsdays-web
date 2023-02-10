@@ -71,7 +71,7 @@ organizer_email: "toronto@devopsdays.org" # Put your organizer email address her
 sponsors:
   - id: pagerduty
     level: gold
-  - id: trendmicro
+  - id: trendmicro-before-20230130
     level: gold
   - id: cyberark
     level: gold

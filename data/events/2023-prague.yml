@@ -16,12 +16,12 @@ enddate: 2023-05-23T18:00:00+02:00 # The end date of your event. Leave blank if 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2022-12-12T08:00:00+02:00 # start accepting talk proposals.
 cfp_date_end: 2023-02-28T23:59:00+02:00 # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_announce: 2023-03-31T23:59:00+02:00 # inform proposers of status
 
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: 2023-01-19T00:00:00+02:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2023-05-05T00:00:00+02:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -36,7 +36,7 @@ location_address: "Freyova 33, Prague 9, 190 00" #Optional - use the street addr
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
   - name: location
- # - name: registration
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -91,11 +91,17 @@ sponsors:
   - id: pure-storage
     level: silver
     url: "https://www.purestorage.com/company/careers/opportunities.html"
+  - id: elastic
+    level: silver
+    url: "https://www.elastic.co/"
   - id: pure-storage
     level: lanyard
     url: "https://www.purestorage.com/company/careers/opportunities.html"
   - id: art4people
     level: community
+  - id: aws
+    level: community
+    url: "https://aws.amazon.com/developer/community"
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

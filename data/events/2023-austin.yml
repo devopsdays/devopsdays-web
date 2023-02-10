@@ -37,9 +37,9 @@ location: "Etter-Harbin Alumni Center" # Defaults to city, but you can make it t
 location_address: "2110 San Jacinto Boulevard, Austin, Texas 78712" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  # - name: propose
+  - name: propose
   # - name: schedule
-  # - name: registration
+  - name: registration
   # - name: speakers
   - name: location
   - name: contact
@@ -99,28 +99,62 @@ team_members: # Name is the only required field for team members.
   - name: "Laura Santamaria"
     twitter: "nimbinatus"
     github: "nimbinatus"
-    image: "laura-santamaria.jpg"
     website: "https://linktr.ee/nimbinatus"
+    image: "laura-santamaria.jpg"
   - name: "Nigel Brown"
+    github: "pnbrown"
+    linkedin: "https://www.linkedin.com/in/pnigelbrown/"
+    image: "nigel.jpg"
   - name: "Oliver Eikenberry"
+    linkedin: "https://www.linkedin.com/in/oeikenberry/"
+    image: "oliver.jpg"
   - name: "Tracy P Holmes"
+    twitter: "tracypholmes"
+    linkedin: "https://www.linkedin.com/in/tracypholmes/"
+    image: "tracy.jpg"
   - name: "Chris Blumentritt"
+    twitter: "cblument"
+    github: "cblument"
+    linkedin: "https://www.linkedin.com/in/chrisblumentritt/"
+    image: "chris-b.jpg"
   - name: "Tim Banks"
+    twitter: "elchefe"
+    github: "timbanks"
+    linkedin: "https://www.linkedin.com/in/timjb/"
+    image: "tim.jpeg"
   - name: "Karl Katzke"
+    github: "karlkatzke"
+    linkedin: "https://www.linkedin.com/in/karlkatzke"
+    image: "karl.jpg"
   - name: "Jeremy Tanner"
+    twitter: "penguin"
+    github: "jeremytanner"
+    linkedin: "https://www.linkedin.com/in/jeremytanner"
+    image: "jeremy.jpg"
   - name: "Julie Coleman"
+    github: "julielaursen"
+    linkedin: "https://www.linkedin.com/in/julie-coleman-laursen-79b7a83/"
+    image: "julie.jpg"
   - name: "Rudy McComb"
+    twitter: "rudymccomb"
+    github: "rudymccomb"
+    linkedin: "https://www.linkedin.com/in/rudymccomb"
+    image: "rudy.jpg"
 
 organizer_email: "austin@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-#   - id: samplesponsorname
-#     level: gold
 #  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 #   - id: arresteddevops
 #     level: community
+  - id: reversing-labs
+    level: platinum
+  - id: dell-technologies
+    level: gold
+  - id: prosper-ops
+    level: gold
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
@@ -129,3 +163,18 @@ sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: happyhour
+    label: Happy Hour
+    max: 0
+  - id: platinum
+    label: Platinum
+    max: 0
+  - id: gold
+    label: Gold
+    max: 0
+  - id: lanyard
+    label: Lanyard
+    max: 0
+  - id: coffee
+    label: Coffee Bar
+    max: 0

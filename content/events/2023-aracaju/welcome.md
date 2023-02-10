@@ -2,7 +2,7 @@
 Title = "DevOpsDays Aracaju 2023"
 Type = "welcome"
 aliases = ["/events/2023-aracaju/"]
-Description = "devopsdays Aracaju 2023 will take place May 6, 2023!"
+Description = "DevOpsDays Aracaju 2023 will take place May 6, 2023!"
 +++
 
 <!-- <div style="text-align:center;">

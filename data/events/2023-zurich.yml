@@ -159,6 +159,17 @@ sponsors:
     level: bronze
   - id: elastic
     level: silver
+  - id: bit
+    level: bronze
+  - id: evoila-vmware
+    level: bronze
+  - id: sonarsource
+    level: bronze
+  - id: julius-baer
+    level: gold
+  - id: vshn
+    level: bronze
+  
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 

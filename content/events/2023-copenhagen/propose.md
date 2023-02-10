@@ -3,28 +3,84 @@ Title = "Propose"
 Type = "event"
 Description = "Propose a talk for devopsdays Copenhagen 2023"
 +++
-  {{< cfp_dates >}}
 
 <hr>
 
-There are three ways to propose a topic at devopsdays:
-<ol>
-  <li><strong><em>A 30-minute talk</em></strong> presented during the conference, usually in the mornings.</li>
-  <li><strong><em>An Ignite talk</em></strong> presented during the <a href="/pages/ignite-talks-format">Ignite sessions</a> (scheduling varies). These are 5 minutes slots with slides changing every 15 seconds (20 slides total).</li>
-  <li><strong><em>Open Space</em></strong>: If you'd like to lead a group discussion during the attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout sessions, it is not necessary to propose it ahead of time. Those topics are suggested in person at the conference. If you'd like to demo your product or service, you should <a href="../sponsor">sponsor the event</a> and demo it at your table.
-</ol>
+<div class="row">
+  <div class="col-md-12 content-text">
+    <div class="alert alert-info" role="alert">
+      <h2>CFP is closed</h2>
+      <h3>CFP closed at 	January 14, 2023 10:36 UTC</h3>
+    </div>
+  </div>
+</div>
+
+<p>We will gather practitioners and learners in Copenhagen, for two days of inspiring talks and open sessions.
+<br />
+We expect more than 150 IT professionals to gather.
+<br />
+DevOpsDays is a volunteer-run community event.
+<br />
+We will review CFPs as they come in, but please do not expect a reply before the closing date.
+</p>
 
 <hr>
 
-Choosing talks is part art, part science; here are some factors we consider when trying to assemble the best possible program for our local audience:
+<h2>DevOpsDays Copenhagen CFP</h2>
+<p>At DevOpsDays we look for talks that teaches us and talks that inspire us. We strive to create a program that balances the cultural and technical aspects of DevOps.</p>
 
-- _broad appeal_: How will your talk play out in a room of people with a variety of backgrounds? Technical deep dives need more levels to provide value for the whole room, some of whom might not use your specific tool.
-- _new local presenters_: You are the only one who can tell your story. We are very interested in the challenges and successes being experienced in our local area. We are happy to provide guidance/coaching for new speakers upon request.
-- _under-represented voices_: We want to hear all voices, including those that may speak less frequently at similar events. Whether you're in a field not typically thought of as a technology field, you're in a large, traditional organization, or you're the only person at your organization with your background, we are interested in your unique experience.
-- _original content_: We will consider talks that have already been presented elsewhere, but we prefer talks that the local area isn't likely to have already seen.
-- _no third-party submissions_: This is a small community-driven event, and speakers need to be directly engaged with the organizers and attendees. If a PR firm or your marketing department is proposing the talk, you've already shown that as a speaker you're distant from the process.
-- _no vendor pitches_: As much as we value vendors and sponsors, we are not going to accept a talk that appears to be a pitch for your product.
+<h3>Formats</h3>
+<p>We accept talks in the following formats:</p>
+
+<ul>
+  <li>A regular presentation (~30 minutes)</li>
+  <li>An Ignite talk ( ~5 minutes with auto-advancing slides)</li>
+</ul>
+
+<h3>Topics of interest</h3>
+<p>The following is a non-exhaustive list of topics that we are particularly interested in seeing:</p>
+
+<ul>
+  <li>DevOps Journeys</li>
+  <li>Scaling DevOps</li>
+  <li>Cloud Native ( especially beyond Kubernetes)</li>
+  <li>Building Culture</li>
+  <li>DevOps in the Enterprise</li>
+  <li>Cloud</li>
+  <li>Serverless</li>
+  <li>Observability</li>
+  <li>Security</li>
+  <li>Infrastructure as Code</li>
+  <li>Platform Engineering</li>
+  <li>Developer Productivity Engineering</li>
+  <li>Your incidents and outages</li>
+</ul>
+
+<p>Please do not limit yourself to the above topics. If you have just the right talk for us, send it in!</p>
+
+<h3>How to get your proposal accepted</h3>
+
+<ul>
+  <li>Put some effort into the CFP - the proposal also is a form of presenting and shows how you approach conveying information</li>
+  <li>Explain why your talk would be right for the DevOpsDays crowd</li>
+  <li>We will not reject submissions solely based on the fact they come from a vendor, but we will not accept vendor pitches</li>
+  <li>Submit on your behalf</li>
+  <li>While you can submit more than one proposal, please limit yourself. We want to hear the talk you are most passionate about</li>
+</ul>
+
+<p>When you write the CFP, your goal should be to make it easy for the organizers to pick your talk. That means the CFP should at least answer the following questions: * What is the talk about? (you’d be surprised how many forget to make this obvious) * How is the talk overall structured? (This signals you have thought about how to communicate your topic) * Why is this an important and interesting topic * What kind of talk is it (Demo, storytelling, technical concepts, …) * Who are you, and do you have any experience giving talks (Youtube links, always a hit)</p>
+
+<p>We look forward to reading your proposal! Thanks</p>
 
 <hr>
 
-<strong>How to submit a proposal:</strong> Go to our <a href="https://www.papercall.io/events/4513" >CFP at Papercall</a>.
+<strong>How to submit a proposal:</strong> Go to our <a target="_blank" href="https://www.papercall.io/devopsdayscopenhagen-2023" >CFP at Papercall</a>.
+
+<div class="row">
+  <div class="col-md-12 content-text">
+    <div class="alert alert-info" role="alert">
+      <h2>CFP is closed</h2>
+      <h3>CFP closed at 	January 14, 2023 10:36 UTC</h3>
+    </div>
+  </div>
+</div>

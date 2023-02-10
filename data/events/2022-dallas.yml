@@ -215,7 +215,7 @@ sponsors:
     level: gold
   - id: bitdefender
     level: gold
-  - id: trendmicro
+  - id: trendmicro-before-20230130
     level: gold
   - id: circleci
     level: gold
