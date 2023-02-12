@@ -99,7 +99,7 @@ Description = "DevOpsDays Juiz De Fora 2023"
         -->
       </div>
     </div>
-    <div class="col-lg-2">
+    <div class="col-lg-8">
       <h4>
         Redes sociais:
       </h4>
