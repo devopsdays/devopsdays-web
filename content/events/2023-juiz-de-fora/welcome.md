@@ -79,8 +79,8 @@ Description = "DevOpsDays Juiz De Fora 2023"
     </p>
   <div>
 
-  <div style="padding-top:1em; padding-bottom:1em;" class="d-flex flex-row">
-    <div>
+  <div class = "row" style="padding-top:1em; padding-bottom:1em;">
+    <div class="col-lg-2">
       <h4>
         Informações:
       </h4>
@@ -99,28 +99,28 @@ Description = "DevOpsDays Juiz De Fora 2023"
         -->
       </div>
     </div>
-    <div>
+    <div class="col-lg-2">
       <h4>
         Redes sociais:
       </h4>
-      <div class="d-flex flex-row">
-        <div style="witdh: auto; padding-right: 1em;">
-          <a style="text-align:left;" class="btn btn-secondary btn-block" href="https://www.linkedin.com/company/devopsdays-jf/"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
+      <div class="d-lg-flex d-sm-flex  d-md-flex flex-row">
+        <div style="witdh: auto; padding-right: 1em; padding-bottom: 1em;">
+          <a  target="_blank" style="text-align:left;" class="btn btn-secondary btn-block" href="https://www.linkedin.com/company/devopsdays-jf/"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
         </div>
-        <div style="witdh: auto; padding-right: 1em;">
-          <a style="text-align:left;" class="btn btn-secondary btn-block" href="https://twitter.com/devopsdaysjf/"><i class="fa fa-twitter fa-fw "></i> Twitter </a>
+        <div style="witdh: auto; padding-right: 1em; padding-bottom: 1em;">
+          <a  target="_blank" style="text-align:left;" class="btn btn-secondary btn-block" href="https://twitter.com/devopsdaysjf/"><i class="fa fa-twitter fa-fw "></i> Twitter </a>
         </div>
-        <div style="witdh: auto; padding-right: 1em;">
-          <a style="text-align:left;" class="btn btn-secondary btn-block" href="https://www.instagram.com/devopsdaysjf/"> <i class="fa fa-instagram fa-fw"></i>&nbsp; Instagram</a>
+        <div style="witdh: auto; padding-right: 1em; padding-bottom: 1em;">
+          <a  target="_blank" style="text-align:left;" class="btn btn-secondary btn-block" href="https://www.instagram.com/devopsdaysjf/"> <i class="fa fa-instagram fa-fw"></i>&nbsp; Instagram</a>
         </div>
-        <div style="witdh: auto; padding-right: 1em;">
-          <a style="text-align:left;" class="btn btn-secondary btn-block" href="https://www.facebook.com/DevopsDaysJF"> <i class="fa fa-facebook fa-fw"></i>&nbsp; Facebook</a>
+        <div style="witdh: auto; padding-right: 1em; padding-bottom: 1em;">
+          <a  target="_blank" style="text-align:left;" class="btn btn-secondary btn-block" href="https://www.facebook.com/DevopsDaysJF"> <i class="fa fa-facebook fa-fw"></i>&nbsp; Facebook</a>
         </div>
-        <div style="witdh: auto; padding-right: 1em;">
-          <a style="text-align:left;" class="btn btn-secondary btn-block" href="https://discord.gg/GK7DmRvYPW"> <i class="fa fa-users fa-fw"></i>&nbsp; Discord</a>
+        <div style="witdh: auto; padding-right: 1em; padding-bottom: 1em;">
+          <a  target="_blank" style="text-align:left;" class="btn btn-secondary btn-block" href="https://discord.gg/GK7DmRvYPW"> <i class="fa fa-users fa-fw"></i>&nbsp; Discord</a>
         </div>
-        <div style="witdh: auto; padding-right: 1em;">
-          <a style="text-align:left;" class="btn btn-secondary btn-block" href="https://t.me/+LbMyYyjmyEA5OGQx"> <i class="fa fa-telegram fa-fw"></i>&nbsp; Telegram</a>
+        <div style="witdh: auto; padding-right: 1em; padding-bottom: 1em;">
+          <a  target="_blank" style="text-align:left;" class="btn btn-secondary btn-block" href="https://t.me/+LbMyYyjmyEA5OGQx"> <i class="fa fa-telegram fa-fw"></i>&nbsp; Telegram</a>
         </div>
       </div>
     </div>
