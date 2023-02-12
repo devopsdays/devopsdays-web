@@ -114,7 +114,7 @@ Description = "DevOpsDays Juiz De Fora 2023"
           <a style="text-align:left;" class="btn btn-secondary btn-block" href="https://www.instagram.com/devopsdaysjf/"> <i class="fa fa-instagram fa-fw"></i>&nbsp; Instagram</a>
         </div>
         <div style="witdh: auto; padding-right: 1em;">
-          <a style="text-align:left;" class="btn btn-secondary btn-block" href="https://www.facebook.com/groups/1183825055853485"> <i class="fa fa-facebook fa-fw"></i>&nbsp; Facebook</a>
+          <a style="text-align:left;" class="btn btn-secondary btn-block" href="https://www.facebook.com/profile.php?id=100090104773002"> <i class="fa fa-facebook fa-fw"></i>&nbsp; Facebook</a>
         </div>
         <div style="witdh: auto; padding-right: 1em;">
           <a style="text-align:left;" class="btn btn-secondary btn-block" href="https://discord.gg/GK7DmRvYPW"> <i class="fa fa-users fa-fw"></i>&nbsp; Discord</a>
