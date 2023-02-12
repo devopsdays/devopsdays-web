@@ -5,6 +5,13 @@ Tags = ["2023"]
 Author = "Floor Drees"
 +++
 
+---
+**UPDATE**
+
+Registration for the event is **[open now](https://devopsdays.org/events/2023-organizer-summit/registration)**. The ticket is a free add-on to registration for Devopsdays Chicago, taking place August 9 - 10. 
+
+---
+
 This August, the day before [Devopsdays Chicago](https://devopsdays.org/events/2023-chicago/welcome/), organizers from all over the globe will come together to exchange best practices and connect. 
 
 To celebrate 10 years of Devopsdays, in 2019, co-located with Devopsdays Ghent in Belgium, the first Organizers Summit took place. Devopsdays is a global event series, and there's heaps we can learn from eachother. The pandemic of course meant we couldn't really get together sooner, and we're hoping to see many of you in Chicago, this August 8.   
