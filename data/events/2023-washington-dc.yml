@@ -28,13 +28,13 @@ enddate: 2023-09-14T19:00:00-04:00
 
 # Location
 #
-# coordinates: "38.893837,-77.030952"
+coordinates: "38.89536,-77.04075"
 location: "American Red Cross, Washington, D.C."
 location_address: "1730 E St NW, Washington, DC 20006"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
- # - name: location
+- name: location
  # - name: registration
  # - name: program
  # - name: speakers
@@ -75,7 +75,7 @@ team_members: # Name is the only required field for team members.
     employer: ""
     twitter: ""
     bio: ""
-    image: ""
+    image: "jonathan-altman.jpg"
     github: ""
     facebook: ""
     website: ""
@@ -95,6 +95,7 @@ team_members: # Name is the only required field for team members.
     employer: ""
     twitter: ""
     bio: ""
+    image: "patrick-goodwin.jpg"
     github: ""
     facebook: ""
     website: ""
@@ -134,7 +135,7 @@ team_members: # Name is the only required field for team members.
     employer: ""
     twitter: "mountzcjr"
     bio: ""
-    image: ""
+    image: "chuck-mountz-jr.jpg"
     github: ""
     facebook: ""
     linkedin: "https://www.linkedin.com/in/chuckmountzjr/"
@@ -144,7 +145,7 @@ team_members: # Name is the only required field for team members.
     employer: "ScientiaMobile"
     twitter: ""
     bio: ""
-    image: ""
+    image: "karl-pena.jpg"
     github: ""
     facebook: ""
     linkedin: ""
@@ -163,7 +164,7 @@ team_members: # Name is the only required field for team members.
     employer: "MITRE"
     twitter: "PsychSafety1"
     bio: ""
-    image: ""
+    image: "deanna-stanley.jpg"
     github: ""
     website: ""
     linkedin: ""
@@ -172,7 +173,7 @@ team_members: # Name is the only required field for team members.
     employer: "MITRE"
     twitter: "PsychSafety2"
     bio: ""
-    image: ""
+    image: "kara-burgan.jpg"
     github: ""
     website: ""
     linkedin: ""
