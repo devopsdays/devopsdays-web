@@ -71,7 +71,7 @@ team_members: # Name is the only required field for team members.
   - name: "Jason Grimes"
     twitter: "jasongrimes"
     image: "jason-grimes.jpg"
-  - name: "Mia Villasenor"
+  - name: "Mia Villaseñor"
     twitter: "MiaDoesTech"
     image: "mia-villasenor.jpg"
 
