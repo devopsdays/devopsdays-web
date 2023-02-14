@@ -1,7 +1,7 @@
 +++
 Title = "Newsletter"
 Type = "event"
-Description = "Newsletter devopsdays Geneva 2023"
+Description = "Newsletter for DevOpsDays Geneva 2023"
 +++
 <style type="text/css">
  div.sponsor-row img.img-fluid{
