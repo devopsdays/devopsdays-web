@@ -1,5 +1,5 @@
 +++
-Title = "Arnaud-Billion"
+Title = "Arnaud Billion"
 image = "arnaud-billion.jpg"
 Linkedin = "https://www.linkedin.com/in/abillion/"
 Twitter = ""
