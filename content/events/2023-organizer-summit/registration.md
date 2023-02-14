@@ -14,8 +14,8 @@ Description = "Registration for DevOpsDays Organizer Summit 2023"
   All past and present DevOpsDays organizers are welcome.
 
   If the form below is not working for you, you can register with [this form](https://chicago-tickets.devopsdays.org/2023/redeem?voucher=ORG-SUMMIT-SECRET) and enter the summit registration code in the “Redeem a Voucher” box (if the voucher is not pre-populated). The code for registration will be a pinned message on the <a href="https://devopsdays.slack.com/archives/C04GQ5ENA2J">#organizer-summit</a> channel in the global DevOpsDays slack.
-  If you can't access the global DevOpsDays slack, or need assistance covering the cost of the registration, or have any other questions, please email the summit organizers
-  <a href="mailto:organizer-summit@devopsdays.org?subject=Summit%202023%20Registration%20Question">organizer-summit@devopsdays.org</a>.  Please include your DevOpsDays association in the email.
+  If you can't access the global DevOpsDays slack, or need assistance covering the cost of the registration, or have any other questions, please 
+  <a href="../financial-help">fill out this form</a>.
 </div>
 
 <pretix-widget event="https://chicago-tickets.devopsdays.org/2023/" voucher="ORG-SUMMIT-SECRET"></pretix-widget>
