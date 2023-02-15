@@ -80,7 +80,7 @@ sponsors:
     level: bronze
   - id: courier
     level: gold
-  - id: sleuth
+  - id: sleuth-before-2023
     level: gold
   - id: pulumi
     level: silver
