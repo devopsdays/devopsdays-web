@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Level-up your Big Data game with Redis Time Series!"
+Title = "Level-up your Big Data game with Redis Time Series! (AULA)"
 Type = "talk"
 Speakers = ["drishti-jain"]
 +++

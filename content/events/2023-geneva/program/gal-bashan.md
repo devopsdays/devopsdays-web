@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "How ChatGPT Got Me Drunk"
+Title = "How ChatGPT Got Me Drunk (AULA)"
 Type = "talk"
 Speakers = ["gal-bashan"]
 +++

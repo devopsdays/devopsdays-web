@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "How to find/to be the most efficient DevOps in the world"
+Title = "How to find/to be the most efficient DevOps in the world (B2.05)"
 Type = "talk"
 Speakers = ["laurent-tupin"]
 +++

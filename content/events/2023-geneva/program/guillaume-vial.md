@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Product Management in practice"
+Title = "Product Management in practice (AULA)"
 Type = "talk"
 Speakers = ["guillaume-vial"]
 +++

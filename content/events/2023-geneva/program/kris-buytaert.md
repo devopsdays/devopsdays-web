@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "14 years of #devops, but what did we really learn"
+Title = "14 years of #devops, but what did we really learn (AULA)"
 Type = "talk"
 Speakers = ["kris-buytaert"]
 +++

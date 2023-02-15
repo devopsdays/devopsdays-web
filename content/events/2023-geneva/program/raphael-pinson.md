@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Cilium, Hubble et Grafana : une approche pragmatique de la sécurité des namespaces Kubernetes"
+Title = "Cilium, Hubble et Grafana : une approche pragmatique de la sécurité des namespaces Kubernetes (B2.05)"
 Type = "talk"
 Speakers = ["raphael-pinson"]
 +++

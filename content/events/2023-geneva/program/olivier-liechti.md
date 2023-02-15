@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "What can we learn from Bossa Nova? Achieving Simplicity and Elegance in Developer Experience (DX)"
+Title = "What can we learn from Bossa Nova? Achieving Simplicity and Elegance in Developer Experience (AULA)"
 Type = "talk"
 Speakers = ["olivier-liechti"]
 +++

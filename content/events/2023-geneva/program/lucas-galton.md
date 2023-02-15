@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Quand ansible ne suffit plus: orchestrer 236 firewalls d'une infrastructure critique chez Enedis"
+Title = "Quand ansible ne suffit plus: orchestrer 236 firewalls d'une infrastructure critique chez Enedis (AULA)"
 Type = "talk"
 Speakers = ["lucas-galton"]
 +++

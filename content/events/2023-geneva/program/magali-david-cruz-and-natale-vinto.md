@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Kubernetes Operators and GitOps: who controls what?"
+Title = "Kubernetes Operators and GitOps: who controls what? (B2.05)"
 Type = "talk"
 Speakers = ["natale-vinto","magali-david-cruz"]
 +++

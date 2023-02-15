@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "SQL: the basic concepts without myths"
+Title = "SQL: the basic concepts without myths (B2.05)"
 Type = "talk"
 Speakers = ["franck-pachot"]
 +++

@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Zero Trust Security for your APIs"
+Title = "Zero Trust Security for your APIs (AULA)"
 Type = "talk"
 Speakers = ["akshata-sawant"]
 +++

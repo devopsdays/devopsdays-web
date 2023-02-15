@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Team as code"
+Title = "Team as code (AULA)"
 Type = "talk"
 Speakers = ["stephanie-fischer","nicolas-thomas"]
 +++

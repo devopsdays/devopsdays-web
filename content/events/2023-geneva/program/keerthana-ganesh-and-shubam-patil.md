@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "An Introduction to Zero Knowledge Proofs"
+Title = "An Introduction to Zero Knowledge Proofs (AULA)"
 Type = "talk"
 Speakers = ["keerthana-ganesh","shubam-patil"]
 +++

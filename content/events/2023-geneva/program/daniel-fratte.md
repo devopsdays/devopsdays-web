@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Code that Won't Heat the Planet: Engineering Sustainable Software for a Better Future"
+Title = "Code that Won't Heat the Planet: Engineering Sustainable Software for a Better Future (AULA)"
 Type = "talk"
 Speakers = ["daniel-fratte"]
 +++

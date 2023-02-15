@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "The Anatomy of a Hack: 24 Hours in the DevSecOps ER"
+Title = "The Anatomy of a Hack: 24 Hours in the DevSecOps ER (AULA)"
 Type = "talk"
 Speakers = ["dan-conn"]
 +++

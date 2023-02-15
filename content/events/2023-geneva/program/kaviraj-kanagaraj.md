@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Getting started with Grafana Loki, a modern logs database"
+Title = "Getting started with Grafana Loki, a modern logs database (AULA)"
 Type = "talk"
 Speakers = ["kaviraj-kanagaraj"]
 +++

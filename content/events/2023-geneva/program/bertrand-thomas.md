@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Transformation numérique et DevOps à l'heure des conteneurs"
+Title = "Transformation numérique et DevOps à l'heure des conteneurs (B2.05)"
 Type = "talk"
 Speakers = ["bertrand-thomas"]
 +++

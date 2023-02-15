@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Data engineers are from Mars, Platform engineers are from Venus: how do I build a common language?"
+Title = "Data engineers are from Mars, Platform engineers are from Venus: how do I build a common language? (AULA)"
 Type = "talk"
 Speakers = ["natalie-godec"]
 +++

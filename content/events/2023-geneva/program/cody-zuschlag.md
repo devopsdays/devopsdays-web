@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Driving Organizational Change With Open Source"
+Title = "Driving Organizational Change With Open Source (AULA)"
 Type = "talk"
 Speakers = ["cody-zuschlag"]
 +++

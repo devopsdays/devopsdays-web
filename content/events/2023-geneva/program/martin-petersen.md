@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "DevSecOps from a security consultant perspective"
+Title = "DevSecOps from a security consultant perspective (B2.05)"
 Type = "talk"
 Speakers = ["martin-petersen"]
 +++

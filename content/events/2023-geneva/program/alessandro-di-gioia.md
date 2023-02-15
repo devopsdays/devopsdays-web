@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Outside-In development guided by tests in Mob Programming"
+Title = "Outside-In development guided by tests in Mob Programming (B2.05)"
 Type = "talk"
 Speakers = ["alessandro-di-gioia"]
 +++

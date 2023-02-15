@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Technical debt managed with agile iteration flow (TDaaF)"
+Title = "Technical debt managed with agile iteration flow - TDaaF (B2.05)"
 Type = "talk"
 Speakers = ["yohan-varona"]
 +++

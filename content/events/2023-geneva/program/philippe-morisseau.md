@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Le DevOps expliqué à mon père, agriculteur à la retraite"
+Title = "Le DevOps expliqué à mon père, agriculteur à la retraite (AULA)"
 Type = "talk"
 Speakers = ["philippe-morisseau"]
 +++

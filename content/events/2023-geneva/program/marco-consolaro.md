@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Connascence: beyond Coupling and Cohesion"
+Title = "Connascence: beyond Coupling and Cohesion (AULA)"
 Type = "talk"
 Speakers = ["marco-consolaro"]
 +++
