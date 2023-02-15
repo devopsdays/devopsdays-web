@@ -21,7 +21,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
   <thead>
     <tr>
       <th scope="col">THE GOODS</th>
-      <th scope="col">PLATINUM<br>(Limit 2)</th>
+      <th scope="col">PLATINUM<br>(Limit 3)</th>
       <th scope="col">GOLD</th>
       <th scope="col">BRONZE</th>
       <th scope="col">COMMUNITY</th>

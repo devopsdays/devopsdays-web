@@ -169,6 +169,11 @@ sponsors:
     level: gold
   - id: vshn
     level: bronze
+  - id: infomaniak
+    level: bronze
+  - id: redhat
+    level: bronze
+
   
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link

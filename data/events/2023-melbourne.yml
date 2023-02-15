@@ -39,6 +39,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #   url: "https://ti.to/devopsaustralia/melbourne-2023"
   - name: sponsor
   - name: program
+  - name: speakers
   - name: registration
     url: "https://www.papercall.io/devopsdays-melb-2023"
   - name: contact
@@ -90,10 +91,13 @@ organizer_email: "melbourne@devopsdays.org" # Put your organizer email address h
 sponsors:
   - id: anz
     level: gold
+    url: https://www.anz.com.au/personal
   - id: azenix
     level: silver
   - id: azenix
     level: lanyard
+  - id: buildkite
+    level: bronze
   - id: cipherstash
     level: silver
   - id: circleci
@@ -139,8 +143,8 @@ program:
     date: 2023-03-16T00:00:00+10:00
     start_time: "09:50"
     end_time: "10:19"
-  - title: "Presentation 2"
-    type: custom
+  - title: "dylan-mccarthy"
+    type: talk
     date: 2023-03-16T00:00:00+10:00
     start_time: "10:20"
     end_time: "10:59"
@@ -149,8 +153,8 @@ program:
     date: 2023-03-16T00:00:00+10:00
     start_time: "11:00"
     end_time: "11:29"
-  - title: "Presentation 3"
-    type: custom
+  - title: "peter-chestna"
+    type: talk
     date: 2023-03-16T00:00:00+10:00
     start_time: "11:30"
     end_time: "11:59"
@@ -167,8 +171,8 @@ program:
   - title: "Lightning Talks"
     type: custom
     date: 2023-03-16T00:00:00+10:00
-    start_time: "13:00"
-    end_time: "13:29"
+    start_time: "13:30"
+    end_time: "13:59"
   - title: "Open Spaces"
     type: custom
     date: 2023-03-16T00:00:00+10:00
@@ -209,8 +213,8 @@ program:
     date: 2023-03-17T00:00:00+10:00
     start_time: "09:50"
     end_time: "10:19"
-  - title: "Presentation 2"
-    type: custom
+  - title: "damian-brady"
+    type: talk
     date: 2023-03-17T00:00:00+10:00
     start_time: "10:20"
     end_time: "10:59"
@@ -219,8 +223,8 @@ program:
     date: 2023-03-17T00:00:00+10:00
     start_time: "11:00"
     end_time: "11:29"
-  - title: "Presentation 3"
-    type: custom
+  - title: "javier-turegano"
+    type: talk
     date: 2023-03-17T00:00:00+10:00
     start_time: "11:30"
     end_time: "11:59"
@@ -237,8 +241,8 @@ program:
   - title: "Lightning Talks"
     type: custom
     date: 2023-03-17T00:00:00+10:00
-    start_time: "13:00"
-    end_time: "13:29"
+    start_time: "13:30"
+    end_time: "13:59"
   - title: "Open Spaces"
     type: custom
     date: 2023-03-17T00:00:00+10:00

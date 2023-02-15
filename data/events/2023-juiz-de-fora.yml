@@ -53,7 +53,6 @@ team_members: # Name is the only required field for team members.
   - name: "Daniel Sobrinho"
     role: "Organizer"
     employer: "Unimed Juiz de Fora"
-    twitter: "danielsob"
     github: "danielsobrinho"
     linkedin: "https://www.linkedin.com/in/dsobrinho/"
     image: "daniel-sobrinho.jpg"
@@ -89,7 +88,7 @@ team_members: # Name is the only required field for team members.
     role: "Organizer"
     employer: "Raro Labs"
     github: "WilliamSf"
-    linkedin: "https://www.linkedin.com/in/dsobrinho/"
+    linkedin: "https://www.linkedin.com/in/william-silva-aa5692119/"
     image: "william-silva.jpeg"
 
 organizer_email: "juiz-de-fora@devopsdays.org" # Put your organizer email address here
