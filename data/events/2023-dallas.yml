@@ -147,7 +147,7 @@ team_members: # Name is the only required field for team members.
 
   - name: "Travis Mims"
     employer: "SailPoint"
-    bio: "Travis is the Site Reliability Engineering Manager at SailPoint and has previously led cloud engineering teams at Blackbaud, Accenture and Trimble Transportation.  He earned his MBA at Texas State University and an undergrad in Computer Science from UT Austin.  Travis is based in Dallas and enjoys volunteering with Boy Scouts and taking his 3 sons on outdoor adventures.<br><br>Travis started his journey with DevOps at DevOpsDays Austin in 2015 and has volunteered at DevOpsDays events in Austin, Denver and DFW. He loves meeting new people and hearing their DevOps journey stories at conferences.  He is excited to join the DevOpsDays DFW Organizers to help make a great event for 2023."
+    bio: "Travis is the Site Reliability Engineering Manager at SailPoint and has previously led cloud engineering teams at Blackbaud, Accenture and Trimble Transportation.  He earned his MBA at Texas State University and an undergrad in Computer Science from UT Austin.  Travis is based in Dallas and enjoys volunteering with Boy Scouts and taking his 3 sons on outdoor adventures.<br><br>Travis started his journey with DevOps at DevOpsDays Austin in 2015 and has volunteered at DevOpsDays events in Austin, Denver and DFW. He loves meeting new people and hearing their DevOps journey stories at conferences."
     twitter: "https://twitter.com/travismims"
     linkedin: "https://www.linkedin.com/in/travismims"
     image: "travis.jpg"
