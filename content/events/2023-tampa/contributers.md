@@ -2,7 +2,7 @@
 Title = "Contributers"
 Type = "event"
 Description = "Propose a talk for devopsdays Tampa 2023"
-year = "2022"
+year = "2023"
 +++
 {{< cfp_dates >}}
 <br />

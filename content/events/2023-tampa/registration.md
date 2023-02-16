@@ -6,25 +6,25 @@ Description = "Registration for devopsdays Tampa Bay 2023"
 <br>
 <div class="row">
   <div class="col-md-4">
-    <img alt="DevOpsDays Tampa Bay 2022" src="/events/2022-tampa/logo.png" class="img-fluid">
+    <img alt="DevOpsDays Tampa Bay 2023" src="/events/2023-tampa/logo.png" class="img-fluid">
     <div class="d-flex flex-row">
       <div class="col-md-12">
         <div class="p-2">
-          <a class="btn btn-secondary btn-block" href="/events/2022-tampa/program"> <i class="fa fa-tasks fa-lg"></i>&nbsp;&nbsp;
+          <a class="btn btn-secondary btn-block" href="/events/2023-tampa/program"> <i class="fa fa-tasks fa-lg"></i>&nbsp;&nbsp;
             &nbsp; Program</a>
         </div>
         <div class="p-2">
-          <a class="btn btn-secondary btn-block" href="/events/2022-tampa/registration"> <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Get a ticket</a>
+          <a class="btn btn-secondary btn-block" href="/events/2023-tampa/registration"> <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Get a ticket</a>
         </div>
         <div class="p-2">
           <a class="btn btn-secondary btn-block" href="https://www.linkedin.com/company/40652911"> <i class="fa fa-linkedin fa-lg"></i>&nbsp;&nbsp;
             &nbsp; Follow us on LinkedIn</a>
         </div>
         <div class="p-2">
-          <a class="btn btn-secondary btn-block" href="/events/2022-tampa/sponsor"> <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference</a>
+          <a class="btn btn-secondary btn-block" href="/events/2023-tampa/sponsor"> <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference</a>
         </div>
         <div class="p-2">
-          <a class="btn btn-secondary btn-block" href="/events/2022-tampa/contact"> <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;
+          <a class="btn btn-secondary btn-block" href="/events/2023-tampa/contact"> <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;
             &nbsp; Contact the Organizers</a>
         </div>
       </div>

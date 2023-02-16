@@ -7,7 +7,7 @@ Description = "Sponsor DevOpsDays Tampa Bay 2023"
 <br>
 <div class="row">
   <div class="col-md-4">
-    <img alt="DevOpsDays Tampa Bay 2022" src="/events/2022-tampa/logo.png" class="img-fluid">
+    <img alt="DevOpsDays Tampa Bay 2023" src="/events/2023-tampa/logo.png" class="img-fluid">
     <div class="d-flex flex-row">
       <div class="col-md-12">
         <div class="p-2">
@@ -15,10 +15,10 @@ Description = "Sponsor DevOpsDays Tampa Bay 2023"
             &nbsp; Follow us on LinkedIn</a>
         </div>
         <div class="p-2">
-          <a class="btn btn-secondary btn-block" href="/events/2022-tampa/sponsor"> <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference</a>
+          <a class="btn btn-secondary btn-block" href="/events/2023-tampa/sponsor"> <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference</a>
         </div>
         <div class="p-2">
-          <a class="btn btn-secondary btn-block" href="/events/2022-tampa/contact"> <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;
+          <a class="btn btn-secondary btn-block" href="/events/2023-tampa/contact"> <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;
             &nbsp; Contact the Organizers</a>
         </div>
       </div>
