@@ -7,4 +7,4 @@ Type = "talk"
 Speakers = ["mirco-hering"]
 +++
 
-
+Keynote presentation for Day 1 of DevOpsDays Melbourne 2023
