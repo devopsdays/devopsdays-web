@@ -166,6 +166,8 @@ sponsors:
     level: silver
   - id: dnsimple
     level: silver
+  - id: tonicai
+    level: gold
   - id: scale
     level: community
     url: https://www.socallinuxexpo.org
