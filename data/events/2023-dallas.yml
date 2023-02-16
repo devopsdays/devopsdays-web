@@ -83,8 +83,7 @@ team_members: # Name is the only required field for team members.
 
   - name: "Jim Baldwin"
     employer: "Slalom Consulting"
-    bio: "Jim Baldwin has over 20 years in the IT field holding various positions from Systems Administration and Infrastructure Engineering to DevOps and Cloud Computing.  After attending DevOpsDays in Austin in 2015 and becoming DevOps awakened, Jim has spent his time honing his DevOps and Agile skills.  He is an advocate for Agile and Lean technologies and certified in SAFe and ITIL practices. <br><br>
-    Jim is currently a Consultant at Slalom Consulting." 
+    bio: "Jim Baldwin has over 20 years in the IT field holding various positions from Systems Administration and Infrastructure Engineering to DevOps and Cloud Computing.  After attending DevOpsDays in Austin in 2015 and becoming DevOps awakened, Jim has spent his time honing his DevOps and Agile skills.<br><br>Jim is currently a Senior Consultant at Slalom Consulting." 
     twitter: "BaldwinJim"
     linkedin: "https://www.linkedin.com/in/jimbaldwin469/"
     image: "jim.jpg"
@@ -126,6 +125,11 @@ team_members: # Name is the only required field for team members.
     github: "mikerostx"
     image: "mike.jpg"
     website: "https://MikeRosTX.me"
+
+  - name: Najwan Abdul Wahab
+    bio:  "Najwan Abdul Wahab has over 15 years professional experience spanning 12 in Financial Services in the United States across Operations Management, Data & Analytics, Enterprise Transformation and Digital Product Management; and 3 in Oil & Gas specializing in Offshore Engineering in the United Arab Emirates. She started her DevOps journey volunteering for the DevOpsDays Dallas conference in 2022 and is now joining the team as a local organizer for 2023 (and beyond)."
+    linkedin: "https://www.linkedin.com/in/najwan-a-b789b924/"
+    image: "najwan.png"
 
   - name: "Roger Servey"
     employer: "Charter Communications"
