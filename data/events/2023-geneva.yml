@@ -222,7 +222,7 @@ program:
     end_time: "13:00"
 
     # Day 1: workshop 2 bis
-  - title: "Open Space, live topics defined on the day according to your proposals"
+  - title: "Open Space, live topics defined on the day according to your proposals  (B2.15)"
     type: open-space
     date: "2023-04-24"
     start_time: "11:20"
@@ -256,7 +256,7 @@ program:
     end_time: "16:10"
 
   # Day 1: workshop 3 bis
-  - title: "Open Space, live topics defined on the day according to your proposals "
+  - title: "Open Space, live topics defined on the day according to your proposals  (B2.15)"
     type: open-space
     date: "2023-04-24"
     start_time: "14:30"
@@ -290,7 +290,7 @@ program:
     end_time: "18:35"
 
     #   Day 1: workshop 4 bis
-  - title: "Open Space, live topics defined on the day according to your proposals"
+  - title: "Open Space, live topics defined on the day according to your proposals  (B2.15)"
     type: open-space
     date: "2023-04-24"
     start_time: "16:55"
@@ -345,7 +345,7 @@ program:
     start_time: "09:10"
     end_time: "10:50"
 
-  - title: "Open Space, live topics defined on the day according to your proposals"
+  - title: "Open Space, live topics defined on the day according to your proposals (B2.15)"
     type: open-space
     date: "2023-04-25"
     start_time: "09:10"
@@ -377,7 +377,7 @@ program:
     start_time: "11:20"
     end_time: "13:00"
 
-  - title: "Open Space, live topics defined on the day according to your proposals"
+  - title: "Open Space, live topics defined on the day according to your proposals  (B2.15)"
     type: open-space
     date: "2023-04-25"
     start_time: "11:20"
