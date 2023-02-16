@@ -160,8 +160,6 @@ sponsors:
     level: coffee
   - id: manage-engine
     level: silver
-  - id: opscruise
-    level: silver
   - id: buildkite
     level: silver
   - id: dnsimple
