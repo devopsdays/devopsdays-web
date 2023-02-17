@@ -30,6 +30,6 @@ We reserve the right to change our Health & Safety policy and will be constantly
 Please note our policies are also subject to change depending on federal, state, and local requirements/guidelines/mandates.
 
 ### International Travelers
-* Non citizens may be required to show proof of vaccination at ports of entry into the United States.  Please visit the Department of Homeland Security website [here](https://www.dhs.gov/news/2021/10/29/frequently-asked-questions-guidance-travelers-enter-us) or the CDC website [here](https://www.cdc.gov/coronavirus/2019-ncov/travelers/proof-of-vaccination.html) for additional guidance. 
+* All non-U.S. citizens whose immigration status is nonimmigrant in order to enter the United States are required to show proof of vaccination at ports of departure when entering the United States.  Please visit the Department of Homeland Security website [here](https://www.dhs.gov/news/2021/10/29/frequently-asked-questions-guidance-travelers-enter-us) or the CDC website [here](https://www.cdc.gov/coronavirus/2019-ncov/travelers/proof-of-vaccination.html) for additional guidance. 
 * Additionally you can also check with your flight carrier as they may have updated information.
 * We welcome travelers from outside of the US, but do not necessarily have expertise in validating non-CDC-issued vaccine cards. Please reach out to us at chicago@devopsdays.org ahead of the conference, so that we can ensure that we’re prepared to validate your vaccine card.

@@ -138,8 +138,8 @@ program:
     date: 2023-03-16T00:00:00+10:00
     start_time: "09:40"
     end_time: "09:49"
-  - title: "Presentation 1"
-    type: custom
+  - title: "mirco-hering"
+    type: talk
     date: 2023-03-16T00:00:00+10:00
     start_time: "09:50"
     end_time: "10:19"
@@ -174,7 +174,7 @@ program:
     start_time: "13:30"
     end_time: "13:59"
   - title: "Open Spaces"
-    type: custom
+    type: open-space
     date: 2023-03-16T00:00:00+10:00
     start_time: "14:00"
     end_time: "15:00"
@@ -189,7 +189,7 @@ program:
     start_time: "15:15"
     end_time: "15:44"
   - title: "Open Spaces"
-    type: custom
+    type: open-space
     date: 2023-03-16T00:00:00+10:00
     start_time: "15:45"
     end_time: "16:44"
@@ -244,7 +244,7 @@ program:
     start_time: "13:30"
     end_time: "13:59"
   - title: "Open Spaces"
-    type: custom
+    type: open-space
     date: 2023-03-17T00:00:00+10:00
     start_time: "14:00"
     end_time: "15:00"
@@ -259,7 +259,7 @@ program:
     start_time: "15:15"
     end_time: "15:44"
   - title: "Open Spaces"
-    type: custom
+    type: open-space
     date: 2023-03-17T00:00:00+10:00
     start_time: "15:45"
     end_time: "16:44"
