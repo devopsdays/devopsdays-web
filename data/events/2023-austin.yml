@@ -155,6 +155,12 @@ sponsors:
     level: gold
   - id: prosper-ops
     level: gold
+  - id: catchpoint-2023
+    level: gold
+  - id: site24x7
+    level: gold
+  - id: cloudbees
+    level: gold  
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

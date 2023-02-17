@@ -6,7 +6,10 @@ Description = "Registration for devopsdays Austin 2023"
 
 ### Get Your Tickets!
 
-You can register for DevOpsDays Austin beginning **February 15th** using <a href="https://www.eventbrite.com/e/devopsdays-austin-2023-tickets-528911387197" rel="noopener noreferrer" target="_blank">Eventbrite</a>  or using the button below. Early Bird tickets will be available February 15 - March 14th.
+You can register for DevOpsDays Austin beginning **February 15th** using <a href="https://www.eventbrite.com/e/devopsdays-austin-2023-tickets-528911387197" rel="noopener noreferrer" target="_blank">Eventbrite</a>  or using the button below. 
+
+- Early Bird tickets will be available **February 15th - March 14th**.
+- General Admission tickets will be available **March 15 - May 3rd**.
 
 <!-- Noscript content for added SEO -->
 <noscript><a href="https://www.eventbrite.com/e/devopsdays-austin-2023-tickets-528911387197" rel="noopener noreferrer" target="_blank">Buy Tickets on Eventbrite</a></noscript>
