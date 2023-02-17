@@ -106,6 +106,10 @@ sponsors:
     level: media
   - id: kubeevents
     level: media
+  - id: bmore_code_and_coffee
+    level: community
+  - id: "540"
+    level: gold
   # - id: appdynamics-before-20220714
   #   level: platinum
   ## Gold
