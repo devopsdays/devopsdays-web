@@ -27,9 +27,9 @@
 [[redirects]]
   from = "/.well-known/webfinger/*"
   to = "https://social.devopsdays.org/:splat"
+  status = 301
 [[headers]]
   for = "/.well-known/webfinger/*"
     [headers.values]
     Access-Control-Allow-Origin = "*"
-  status = 301
 
