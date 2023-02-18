@@ -24,8 +24,8 @@ event_logo: "bu_logo_square.png"
 masthead_background: "planoeventcenter.jpg"
 #sharing_image: "dallas2023.png"
 
-registration_date_start:  # start accepting registration. Leave blank if registration is not open yet
-registration_date_end:  #close registration. Leave blank if registration is not open yet.
+registration_date_start: # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: #close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -38,21 +38,19 @@ location_address: "2000 East Spring Creek Parkway, Plano, TX 75074" #Optional - 
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
-#  - name: propose
-#  - name: program
-#  - name: registration
-#  - name: speakers
-#  - name: sponsor
+  #  - name: propose
+  #  - name: program
+  #  - name: registration
+  #  - name: speakers
+  #  - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
 
-
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
-
   - name: "Gokul Sridharan"
     employer: "Katalon"
     bio: "Gokul Sridharan is a Master’s Degree holder in IT, an entrepreneur by nature and a successful presales management professional at CA Technologies. He has worked there for the past 3 years and successfully managing a business of $10m+ from a technical sales standpoint. Prior to joining CA and pursuing his master’s degree, Gokul started off his career at Accenture as a software developer.<br><br>During that time frame, he also started his own restaurant venture called ‘The Snack Shack’ in India. He loves DevOps concepts and likes to be a part of local meetups. He is also part of the organizing committee in DevOpsDays Dallas, and on in his spare time likes to work on new and innovative ideas."
@@ -83,14 +81,14 @@ team_members: # Name is the only required field for team members.
 
   - name: "Jim Baldwin"
     employer: "Slalom Consulting"
-    bio: "Jim Baldwin has over 20 years in the IT field holding various positions from Systems Administration and Infrastructure Engineering to DevOps and Cloud Computing.  After attending DevOpsDays in Austin in 2015 and becoming DevOps awakened, Jim has spent his time honing his DevOps and Agile skills.<br><br>Jim is currently a Senior Consultant at Slalom Consulting." 
+    bio: "Jim Baldwin has over 20 years in the IT field holding various positions from Systems Administration and Infrastructure Engineering to DevOps and Cloud Computing.  After attending DevOpsDays in Austin in 2015 and becoming DevOps awakened, Jim has spent his time honing his DevOps and Agile skills.<br><br>Jim is currently a Senior Consultant at Slalom Consulting."
     twitter: "BaldwinJim"
     linkedin: "https://www.linkedin.com/in/jimbaldwin469/"
     image: "jim.jpg"
 
   - name: "John-Paul Herold"
     employer: "Southwest Airlines"
-    bio: "John-Paul Herold is an engineering leader focused on continuous learning and building great teams that leverage cloud technology to deliver high-value solutions. Currently his teams are focused on cloud architecture resilency, container orchestration, observability, cost optimization, performance engineering, and developer experience tooling. John-Paul started as a Java developer, transitioned to \"DevOps\" engineer when he realized he could manage servers as cattle [not pets], then cloud engineer which brought him to Southwest Airlines where he later moved into leadership.<br><br>His path with DevOpsDays started in 2015 when he attended both Dallas and Austin, and has continued every year since. He volunteered for DevOpsDays DFW the first time in 2019, was an organizer for DevOpsDays Texas 2021, and returns as an organizer for this year's DFW event.<br><br>John-Paul is based in Dallas and has a CSE degree from Southern Methodist University. In his off time he enjoys playing soccer, listening to music, running a homelab, reading tech books, and working on projects in his garage."
+    bio: 'John-Paul Herold is an engineering leader focused on continuous learning and building great teams that leverage cloud technology to deliver high-value solutions. Currently his teams are focused on cloud architecture resilency, container orchestration, observability, cost optimization, performance engineering, and developer experience tooling. John-Paul started as a Java developer, transitioned to "DevOps" engineer when he realized he could manage servers as cattle [not pets], then cloud engineer which brought him to Southwest Airlines where he later moved into leadership.<br><br>His path with DevOpsDays started in 2015 when he attended both Dallas and Austin, and has continued every year since. He volunteered for DevOpsDays DFW the first time in 2019, was an organizer for DevOpsDays Texas 2021, and returns as an organizer for this year''s DFW event.<br><br>John-Paul is based in Dallas and has a CSE degree from Southern Methodist University. In his off time he enjoys playing soccer, listening to music, running a homelab, reading tech books, and working on projects in his garage.'
     twitter: "thedailyherold"
     linkedin: "https://www.linkedin.com/in/johnpaulherold/"
     image: "herold.jpg"
@@ -127,9 +125,20 @@ team_members: # Name is the only required field for team members.
     website: "https://MikeRosTX.me"
 
   - name: Najwan Abdul Wahab
-    bio:  "Najwan Abdul Wahab has over 15 years professional experience spanning 12 in Financial Services in the United States across Operations Management, Data & Analytics, Enterprise Transformation and Digital Product Management; and 3 in Oil & Gas specializing in Offshore Engineering in the United Arab Emirates. She started her DevOps journey volunteering for the DevOpsDays Dallas conference in 2022 and is now joining the team as a local organizer for 2023 (and beyond)."
+    employer: "JP Morgan Chase"
+    bio: "Najwan Abdul Wahab has over 15 years professional experience spanning 12 in Financial Services in the United States across Operations Management, Data & Analytics, Enterprise Transformation and Digital Product Management; and 3 in Oil & Gas specializing in Offshore Engineering in the United Arab Emirates. She started her DevOps journey volunteering for the DevOpsDays Dallas conference in 2022 and is now joining the team as a local organizer for 2023 (and beyond)."
     linkedin: "https://www.linkedin.com/in/najwan-a-b789b924/"
     image: "najwan.png"
+
+  - name: "Paula Lipnick"
+    employer: "JP Morgan Chase"
+    bio: ""
+    image: ""
+
+  - name: "Rachel Goniwiecha"
+    employer: "TPS Talent"
+    bio: ""
+    image: ""
 
   - name: "Roger Servey"
     employer: "Charter Communications"
@@ -165,18 +174,18 @@ team_members: # Name is the only required field for team members.
 #   facebook:
 #   website: ""
 #   github: ""
-#   image: ".jpg"  
+#   image: ".jpg"
 
 organizer_email: "dallas@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-# - id: samplesponsorname
-#  level: gold
-#  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-#  - id: capitalone
-#    level: platinum
+  # - id: samplesponsorname
+  #  level: gold
+  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  #  - id: capitalone
+  #    level: platinum
   # - id: edge-delta
   #   level: happyhour
   # - id: arresteddevops
@@ -187,16 +196,16 @@ sponsors:
     level: community
   - id: addo
     level: community
-#  - id: ansible-dallas
-#    level: community
-#  - id: ansible-fw
-#    level: community
-#  - id: devops-dfw
-#    level: community
-#  - id: dfwpug
-#    level: community
-#  - id: awsdeepdives
-#    level: community
+  #  - id: ansible-dallas
+  #    level: community
+  #  - id: ansible-fw
+  #    level: community
+  #  - id: devops-dfw
+  #    level: community
+  #  - id: dfwpug
+  #    level: community
+  #  - id: awsdeepdives
+  #    level: community
   - id: dfwvmug
     level: community
   - id: dfwhug
@@ -205,9 +214,8 @@ sponsors:
     level: community
   - id: gdgsolake
     level: community
-   
 
-sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted: "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -229,9 +237,9 @@ sponsor_levels:
   - id: coffee
     label: Coffee Bar
     max: 2
-# - id: bronze
-#   label: Bronze
-#   max: 0 # This is the same as omitting the max limit.
+  # - id: bronze
+  #   label: Bronze
+  #   max: 0 # This is the same as omitting the max limit.
   - id: media
     label: Media
     max: 5
@@ -299,7 +307,7 @@ program:
     type: talk
     date: 2023-08-24
     start_time: "13:50"
-    end_time: "14:20"  
+    end_time: "14:20"
   - title: "Open Space - Topic Proposals & Selection"
     type: open-space
     date: 2023-08-24
@@ -360,7 +368,7 @@ program:
     type: custom
     date: 2023-08-25
     start_time: "10:15"
-    end_time: "10:30"  
+    end_time: "10:30"
   - title: "damien-burks"
     type: talk
     date: 2023-08-25
@@ -416,7 +424,7 @@ program:
     type: custom
     date: 2023-08-25
     start_time: "16:15"
-    end_time: "16:20"  
+    end_time: "16:20"
   - title: "Closing, Raffle Giveaway & Farewell"
     type: custom
     date: 2023-08-25
@@ -424,8 +432,8 @@ program:
     end_time: "17:00"
 
 ignites:
-#  - title: "ignite-talks"
-#    date: 2023-08-25
+  #  - title: "ignite-talks"
+  #    date: 2023-08-25
   - title: "christa-meck"
     date: 2023-08-25
   - title: "james-thomas"
@@ -436,5 +444,3 @@ ignites:
     date: 2023-08-25
   - title: "tim-davis"
     date: 2023-08-25
-
-
