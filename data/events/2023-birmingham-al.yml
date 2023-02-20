@@ -217,7 +217,7 @@ program:
     date: 2023-04-21T00:00:00-05:00
     start_time: "08:00"
     end_time: "08:40"
-  - title: "Day 2 Opening - Sponsors"
+  - title: "Day 2 Opening"
     type: custom
     date: 2023-04-21T00:00:00-05:00
     start_time: "08:45"
