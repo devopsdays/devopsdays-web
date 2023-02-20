@@ -130,6 +130,14 @@ sponsors:
     level: gold
   - id: newrelic
     level: platinum 
+  - id: dragondropcloud
+    level: gold
+  - id: vmware-tanzu
+    level: gold
+  - id: transition-technologies-psc
+    level: gold
+  - id: sumologic
+    level: gold
   
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
