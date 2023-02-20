@@ -17,11 +17,16 @@ Description = "Program for DevopsDays Birmingham, AL 2023"
 <div class="col-lg-2 col-md-3 program-element program-talk">General Session</div>
 <div class="col-lg-2 col-md-3 program-element" style="background:#d5c5ef;">Keynote</div>
 <div class="col-lg-2 col-md-3 program-element" style="background:#8ad0d3;">Workshop</div>
-<div class="col-lg-2 col-md-3 program-element program-open-space">Open Space Session</div>
+<div class="col-lg-2 col-md-3 program-element program-open-space">Open Space / Birds of a Feather</div>
 <div class="col-lg-2 col-md-3 program-element program-custom">Break or Other Event</div>
 <br />
 </div>
 
 <div class="program-talk" style="padding: 5px; margin-top: 10px; margin-bottom: 10px;">
-  All sessions take place in the Main Theatre unless otherwise noted.
+  All sessions and keynotes take place in the Main Theatre. 
+
+</div>
+<div style="padding: 5px; margin-top: 10px; margin-bottom: 10px; background:#8ad0d3;">
+  All workshops take place in the Discovery Theatre. 
+
 </div>
