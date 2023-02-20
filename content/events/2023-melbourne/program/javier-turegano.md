@@ -1,7 +1,7 @@
 +++
 Talk_date = "2023-03-17"
-Talk_start_time = "10:20"
-Talk_end_time = "10:59"
+Talk_start_time = "11:30"
+Talk_end_time = "12:00"
 Title = "Sprinkle your Devops platform with product thinking"
 Type = "talk"
 Speakers = ["javier-turegano"]
