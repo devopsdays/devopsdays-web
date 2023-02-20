@@ -81,25 +81,14 @@ Description = "devopsdays Washington, D.C. 2023"
   </div>
 </div>
   
-<!--
-<br>                                        
-<p>Check out the {{< event_link page="program" text="amazing program" >}} we've put together!</p>
+<br>  
+<p>We're excited to announce DevOpsDays DC 2023 on September 13-14, 2023!</p>
 
-<p>{{< event_link page="registration" text="Get your ticket to attend!" >}} The most valuable thing you'll get with your ticket is two days of learning, sharing, and connecting with the speakers and other attendees at the event.
+<p>We'll be at the {{< event_link page="location" text="American Red Cross Headquarters" >}} in Washington, DC. It's an amazing venue with a lot of history.</p>
 
-That's certainly enough, but you'll also get:
+<p>We're planning all the things so check back here for more information on sponsorships, registration, and the CFP.</p>
 
-<ul><li>The DevOpsDays DC 2022 t-shirt and stickers.</li>
-<li>A super cool badge worth keeping. (Like <a href="https://twitter.com/jgallimore/status/1559690617839669249">this one</a> from 2019, but with this year's logo.)
-<li>A copy of the new book, <a href="https://itrevolution.com/investments-unlimited-book/">Investments Unlimited</a>, from <a href="https://itrevolution.com/">IT Revolution</a>, co-authored by <a href="https://twitter.com/botchagalupe">John Willis</a> with a chance to have him sign it. (John is also a co-author for The DevOps Handbook, another of our favorites.)</li>
-<li>Continental breakfast, lunch, and beverages (e.g., coffee, tea, water, soda) each day.</li>
-<li>A happy hour on Thursday, 9/15.</li>
-<li>An N-95 mask and individual bottle of hand sanitizer.</li>
-<li>Opportunity to get whatever neat swag our sponsors brought with them to share with us. (But the real value is in learning more about our sponsors and what they do.)</li></ul>
+Follow us on [Twitter](https://twitter.com/DevOpsDaysDC) or [LinkedIn](https://www.linkedin.com/company/devopsdays-dc/) to get all the latest updates and announcements.
 
-<p>We have an updated {{< event_link page="covid-19-policy" text="COVID-19 policy" >}}. Please read about the measures we're taking to protect the health and safety of everyone who attends DevOpsDays DC 2022.</p>
--->
-
-<!-- Uncomment if you added your city twitter name -->
 {{< event_twitter >}}
 

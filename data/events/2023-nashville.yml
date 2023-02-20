@@ -163,9 +163,19 @@ sponsors:
    level: gold
  - id: regscale
    level: silver
+ - id: cloudbees
+   level: gold
+ - id: ustglobal
+   level: gold
+ - id: netapp
+   level: silver
+ - id: insightfinder
+   level: silver
+ - id: saltworks
+   level: gold
 
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For

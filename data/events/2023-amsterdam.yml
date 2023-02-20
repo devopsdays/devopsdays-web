@@ -131,8 +131,11 @@ organizer_email: "amsterdam@devopsdays.org" # Put your organizer email address h
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-# Gold
+# Coffee
   - id: greater-bv
+    level: coffee
+# Gold
+  - id: github
     level: gold
 # Silver
   - id: wiz
@@ -140,6 +143,8 @@ sponsors:
   - id: circleci
     level: silver
   - id: fullstaq
+    level: silver
+  - id: mkdev
     level: silver
 
 

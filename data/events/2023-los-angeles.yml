@@ -146,8 +146,6 @@ sponsors:
     level: gold
   - id: site24x7
     level: gold
-  - id: saucelabs
-    level: gold
   - id: couchbase
     level: gold
   - id: digitalai
@@ -162,14 +160,16 @@ sponsors:
     level: coffee
   - id: manage-engine
     level: silver
-  - id: opscruise
-    level: silver
   - id: buildkite
     level: silver
   - id: dnsimple
     level: silver
-  - id: stickermule
+  - id: privacy-dynamics
     level: startup
+  - id: tonicai
+    level: gold
+  - id: devcycle
+    level: gold
   - id: scale
     level: community
     url: https://www.socallinuxexpo.org
