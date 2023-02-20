@@ -93,6 +93,7 @@ team_members: # Name is the only required field for team members.
     image: "tomasz_szymanski.jpg"
     bio: "I am a DevOps Engineer with 11 years experience. I am a highly skilled technical engineer within network engineering, systems administration and testing. I have a strong technical knowledge and hands-on experience of DevOps, Automation, Build Engineering and Configuration Management. My goal is automating everything to help deliver much faster software as soon as possible."
   - name: "Paweł Piwosz"
+    employer: "EPAM"
     image: "logo-square.jpg"
   - name: "Paulina Tomaszewska"
     employer: "PROIDEA"
@@ -100,6 +101,13 @@ team_members: # Name is the only required field for team members.
   - name: "Miłosz Skaza"
     employer: "PROIDEA"
     image: "logo-square.jpg"
+  - name: "Edyta Bachowska"
+    employer: "PROIDEA"
+    image: "logo-square.jpg"
+  - name: "Olga Michaliszyn"
+    employer: "PROIDEA"
+    image: "logo-square.jpg"
+
 organizer_email: "krakow@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
