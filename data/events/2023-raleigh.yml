@@ -138,6 +138,276 @@ sponsors:
     level: gold
   - id: sumologic
     level: gold
+    
+    
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2023-04-12
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2023-04-12
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "Keynote Speaker TBD"
+    type: custom
+    date: 2023-04-12
+    start_time: "09:10"
+    end_time: "09:40"
+  - title: "Sponsors"
+    type: custom
+    date: 2023-04-12
+    start_time: "09:40"
+    end_time: "09:50"
+  - title: "Keynote Speaker TBD"
+    type: custom
+    date: 2023-04-12
+    start_time: "09:50"
+    end_time: "10:20"
+  - title: "Break"
+    type: custom
+    date: 2023-04-12
+    start_time: "10:20"
+    end_time: "10:40"
+  - title: "TBD"
+    type: custom
+    date: 2023-04-12
+    start_time: "10:40"
+    end_time: "12:00"
+  - title: "Keynote Speaker TBD"
+    type: custom
+    date: 2023-04-12
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2023-04-12
+    start_time: "11:10"
+    end_time: "11:30"
+  - title: "Keynote Speaker TBD"
+    type: custom
+    date: 2023-04-12
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch"
+    type: custom
+    date: 2023-04-12
+    start_time: "12:00"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: custom
+    date: 2023-04-12
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Ignite Karaoke"
+    type: custom
+    date: 2023-04-12
+    #Continue here
+    start_time: "13:30"
+    end_time: "13:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2022-04-13
+    start_time: "13:45"
+    end_time: "13:55"
+  - title: "jason-davis"
+    type: talk
+    date: 2022-04-13
+    start_time: "13:55"
+    end_time: "14:25"
+  - title: "Break"
+    type: custom
+    date: 2022-04-13
+    start_time: "14:25"
+    end_time: "14:45"
+  - title: "eric-schabell-keynote"
+    type: talk
+    date: 2022-04-13
+    start_time: "14:45"
+    end_time: "15:15"
+  - title: "sonia-clark-and-ballantine-robotics-program"
+    type: talk
+    date: 2022-04-13
+    start_time: "15:15"
+    end_time: "16:15"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2022-04-13
+    start_time: "13:55"
+    end_time: "15:15"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2022-04-13
+    start_time: "13:55"
+    end_time: "14:25"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2022-04-13
+    start_time: "14:45"
+    end_time: "15:15"
+  - title: "Escape Room Experience Afternoon"
+    type: custom
+    date: 2022-04-13
+    start_time: "13:55"
+    end_time: "15:15"
+  - title: "will-mckinley-workshop"
+    type: workshop
+    date: 2022-04-13
+    start_time: "13:55"
+    end_time: "15:15"
+  - title: "lot-santos-workshop"
+    type: workshop
+    date: 2022-04-13
+    start_time: "13:55"
+    end_time: "15:15"
+  - title: "Close Day"
+    type: custom
+    date: 2022-04-13
+    start_time: "16:15"
+    end_time: "16:30"
+  - title: "Evening event - Happy Hour"
+    type: custom
+    date: 2022-04-13
+    start_time: "16:30"
+    end_time: "18:00"
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2022-04-14
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2022-04-14
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "nate-ashford"
+    type: talk
+    date: 2022-04-14
+    start_time: "09:10"
+    end_time: "09:40"
+  - title: "Sponsors"
+    type: custom
+    date: 2022-04-14
+    start_time: "09:40"
+    end_time: "09:50"
+  - title: "bailey-hayes"
+    type: talk
+    date: 2022-04-14
+    start_time: "09:50"
+    end_time: "10:20"
+  - title: "Break"
+    type: custom
+    date: 2022-04-14
+    start_time: "10:20"
+    end_time: "10:40"
+  - title: "carlos-martinez-workshop"
+    type: workshop
+    date: 2022-04-14
+    start_time: "10:40"
+    end_time: "12:00"
+  - title: "Escape Room Experience Morning"
+    type: custom
+    date: 2022-04-14
+    start_time: "10:40"
+    end_time: "12:00"
+  - title: "lesley-cordero"
+    type: talk
+    date: 2022-04-14
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2022-04-14
+    start_time: "11:10"
+    end_time: "11:30"
+  - title: "mandi-walls"
+    type: talk
+    date: 2022-04-14
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch"
+    type: custom
+    date: 2022-04-14
+    start_time: "12:00"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2022-04-14
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Ignite Karaoke"
+    type: custom
+    date: 2022-04-14
+    start_time: "13:30"
+    end_time: "13:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2022-04-14
+    start_time: "13:45"
+    end_time: "13:55"
+  - title: "chris-evich"
+    type: talk
+    date: 2022-04-14
+    start_time: "13:55"
+    end_time: "14:25"
+  - title: "Break"
+    type: custom
+    date: 2022-04-14
+    start_time: "14:25"
+    end_time: "14:45"
+  - title: "andreas-grabner"
+    type: talk
+    date: 2022-04-14
+    start_time: "14:45"
+    end_time: "15:15"
+  - title: "jody-paramore"
+    type: talk
+    date: 2022-04-14
+    start_time: "15:15"
+    end_time: "15:40"
+  - title: "wakeed-stem-ncsu-citizen-science-club"
+    type: talk
+    date: 2022-04-14
+    start_time: "15:40"
+    end_time: "16:05"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2022-04-14
+    start_time: "13:55"
+    end_time: "15:15"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2022-04-14
+    start_time: "13:55"
+    end_time: "14:25"
+  - title: "Open Space #4"
+    type: open-space
+    date: 2022-04-14
+    start_time: "14:45"
+    end_time: "15:15"
+  - title: "Escape Room Experience Afternoon"
+    type: custom
+    date: 2022-04-14
+    start_time: "13:55"
+    end_time: "15:15"
+  - title: "daniel-oh-workshop"
+    type: workshop
+    date: 2022-04-14
+    start_time: "13:55"
+    end_time: "15:15"
+  - title: "lee-faus-workshop"
+    type: workshop
+    date: 2022-04-14
+    start_time: "13:55"
+    end_time: "15:15"
+  - title: "Raffle/Close Day"
+    type: custom
+    date: 2022-04-14
+    start_time: "16:05"
+    end_time: "16:30"
+
   
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
