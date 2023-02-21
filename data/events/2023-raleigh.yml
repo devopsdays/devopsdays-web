@@ -204,72 +204,71 @@ program:
   - title: "Ignite Karaoke"
     type: custom
     date: 2023-04-12
-    #Continue here
     start_time: "13:30"
     end_time: "13:45"
   - title: "Sponsors"
     type: custom
-    date: 2022-04-13
+    date: 2023-04-12
     start_time: "13:45"
     end_time: "13:55"
-  - title: "jason-davis"
-    type: talk
+  - title: "Keynote Speaker TBD"
+    type: custom
     date: 2022-04-13
     start_time: "13:55"
     end_time: "14:25"
   - title: "Break"
     type: custom
-    date: 2022-04-13
+    date: 2023-04-12
     start_time: "14:25"
     end_time: "14:45"
-  - title: "eric-schabell-keynote"
-    type: talk
-    date: 2022-04-13
+  - title: "Keynote Speaker TBD"
+    type: custom
+    date: 2023-04-12
     start_time: "14:45"
     end_time: "15:15"
-  - title: "sonia-clark-and-ballantine-robotics-program"
-    type: talk
-    date: 2022-04-13
+  - title: "SPEAKER TBD"
+    type: custom
+    date: 2023-04-12
     start_time: "15:15"
     end_time: "16:15"
   - title: "Open Space Opening"
-    type: open-space
-    date: 2022-04-13
+    type: custom
+    date: 2023-04-12
     start_time: "13:55"
     end_time: "15:15"
   - title: "Open Space #1"
-    type: open-space
-    date: 2022-04-13
+    type: custom
+    date: 2023-04-12
     start_time: "13:55"
     end_time: "14:25"
   - title: "Open Space #2"
-    type: open-space
-    date: 2022-04-13
+    type: custom
+    date: 2023-04-12
     start_time: "14:45"
     end_time: "15:15"
-  - title: "Escape Room Experience Afternoon"
+  - title: "Activity TBD"
     type: custom
-    date: 2022-04-13
+    date: 2023-04-12
     start_time: "13:55"
     end_time: "15:15"
-  - title: "will-mckinley-workshop"
-    type: workshop
-    date: 2022-04-13
+  - title: "workshop tbd"
+    type: custom
+    date: 2023-04-12
     start_time: "13:55"
     end_time: "15:15"
-  - title: "lot-santos-workshop"
-    type: workshop
+  - title: "workshop tbd"
+    type: custom
     date: 2022-04-13
     start_time: "13:55"
     end_time: "15:15"
   - title: "Close Day"
     type: custom
-    date: 2022-04-13
+    date: 2023-04-12
     start_time: "16:15"
     end_time: "16:30"
   - title: "Evening event - Happy Hour"
     type: custom
-    date: 2022-04-13
+    date: 2023-04-12
     start_time: "16:30"
     end_time: "18:00"
   - title: "Registration, Breakfast, Sponsors"
