@@ -273,56 +273,56 @@ program:
     end_time: "18:00"
   - title: "Registration, Breakfast, Sponsors"
     type: custom
-    date: 2022-04-14
+    date: 2023-04-13
     start_time: "08:00"
     end_time: "09:00"
   - title: "Opening Welcome"
     type: custom
-    date: 2022-04-14
+    date: 2023-04-13
     start_time: "09:00"
     end_time: "09:10"
-  - title: "nate-ashford"
-    type: talk
-    date: 2022-04-14
+  - title: "Keynote Speaker TBD"
+    type: custom
+    date: 2023-04-13
     start_time: "09:10"
     end_time: "09:40"
   - title: "Sponsors"
     type: custom
-    date: 2022-04-14
+    date: 2023-04-13
     start_time: "09:40"
     end_time: "09:50"
-  - title: "bailey-hayes"
-    type: talk
-    date: 2022-04-14
+  - title: "Keynote Speaker TBD"
+    type: custom
+    date: 2023-04-13
     start_time: "09:50"
     end_time: "10:20"
   - title: "Break"
     type: custom
-    date: 2022-04-14
+    date: 2023-04-13
     start_time: "10:20"
     end_time: "10:40"
-  - title: "carlos-martinez-workshop"
-    type: workshop
-    date: 2022-04-14
-    start_time: "10:40"
-    end_time: "12:00"
-  - title: "Escape Room Experience Morning"
+  - title: "workshop"
     type: custom
-    date: 2022-04-14
+    date: 2023-04-13
     start_time: "10:40"
     end_time: "12:00"
-  - title: "lesley-cordero"
-    type: talk
-    date: 2022-04-14
+  - title: "Event TBD"
+    type: custom
+    date: 2023-04-13
+    start_time: "10:40"
+    end_time: "12:00"
+  - title: "Keynote Speaker TBD"
+    type: custom
+    date: 2023-04-13
     start_time: "10:40"
     end_time: "11:10"
   - title: "Sponsors"
     type: custom
-    date: 2022-04-14
+    date: 2023-04-13
     start_time: "11:10"
     end_time: "11:30"
-  - title: "mandi-walls"
-    type: talk
+  - title: "Keynote Speaker TBD"
+    type: custom
     date: 2022-04-14
     start_time: "11:30"
     end_time: "12:00"
