@@ -213,7 +213,7 @@ program:
     end_time: "13:55"
   - title: "Keynote Speaker TBD"
     type: custom
-    date: 2022-04-13
+    date: 2023-04-13
     start_time: "13:55"
     end_time: "14:25"
   - title: "Break"
@@ -258,7 +258,7 @@ program:
     end_time: "15:15"
   - title: "workshop tbd"
     type: custom
-    date: 2022-04-13
+    date: 2023-04-12
     start_time: "13:55"
     end_time: "15:15"
   - title: "Close Day"
