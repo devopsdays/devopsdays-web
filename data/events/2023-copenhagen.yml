@@ -96,6 +96,8 @@ sponsors:
     level: gold
   - id: lego
     level: gold
+  - id: vmware-tanzu
+    level: gold
   - id: contrast_security
     level: silver
   - id: destination-aarhus
