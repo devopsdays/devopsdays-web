@@ -136,6 +136,10 @@ sponsors:
     level: bronze
   - id: redhat
     level: bronze
+  - id: socraft
+    level: bronze
+  - id: f5-nginx
+    level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
