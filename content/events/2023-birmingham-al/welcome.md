@@ -45,14 +45,14 @@ Description = "devopsdays Birmingham, AL 2023"
   </div>
 </div> -->
 
-<!-- <div class = "row">
+ <div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
     View the {{< event_link page="program" text="program." >}}
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -93,4 +93,4 @@ Description = "devopsdays Birmingham, AL 2023"
 
 {{< event_twitter >}} -->
 
- <a rel="me" target="_blank" href="https://hachyderm.io/@devopsdaysbham"><span class="btn btn-sm rounded-pill btn-info"><i class="fab fa-mastodon fa-md" ></i> Follow hachyderm.io/@devopsdaysbham</span></a>
+ <a rel="me" target="_blank" href="https://social.devopsdays.org/@devopsdaysbham"><span class="btn btn-sm rounded-pill btn-info"><i class="fab fa-mastodon fa-md" ></i> Follow @devopsdaysbham@devopsdays.org</span></a>
