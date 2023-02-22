@@ -1,7 +1,7 @@
 +++
 Talk_date = "2023-03-16"
 Talk_start_time = "11:30"
-Talk_end_time = "11:59"
+Talk_end_time = "12:00"
 Title = "Feedback: You don't have to be bad to get better"
 Type = "talk"
 Speakers = ["peter-chestna"]

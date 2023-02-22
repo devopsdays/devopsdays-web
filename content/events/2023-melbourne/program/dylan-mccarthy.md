@@ -1,7 +1,7 @@
 +++
 Talk_date = "2023-03-16"
-Talk_start_time = "10:20"
-Talk_end_time = "10:59"
+Talk_start_time = "10:25"
+Talk_end_time = "10:55"
 Title = "DevEx, what is it and how does it fit into DevOps?"
 Type = "talk"
 Speakers = ["dylan-mccarthy"]

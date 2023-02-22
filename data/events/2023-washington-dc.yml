@@ -178,6 +178,24 @@ team_members: # Name is the only required field for team members.
     website: ""
     linkedin: ""
 
+  - name: "Matthew Cascio"
+    employer: "American Red Cross"
+    twitter: "mattcascio"
+    bio: ""
+    image: "matt-cascio.jpg"
+    github: ""
+    website: ""
+    linkedin: "https://www.linkedin.com/in/mcascio/"
+
+  - name: "Faheem Memon"
+    employer: "FreeWheel"
+    twitter: "faheem"
+    bio: ""
+    image: "kara-burgan.jpg"
+    github: ""
+    website: ""
+    linkedin: "https://www.linkedin.com/in/faheemmemon/"
+
 organizer_email: "washington-dc@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.

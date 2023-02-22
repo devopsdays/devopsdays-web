@@ -1,7 +1,7 @@
 +++
 Talk_date = "2023-03-17"
-Talk_start_time = "10:20"
-Talk_end_time = "10:59"
+Talk_start_time = "10:25"
+Talk_end_time = "10:55"
 Title = "MLOps - DevOps for Machine Learning"
 Type = "talk"
 Speakers = ["damian-brady"]

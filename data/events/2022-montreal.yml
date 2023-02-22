@@ -168,7 +168,7 @@ sponsors:
     url: https://www.f5.com
   - id: elastic
     level: silver
-  - id: appdynamics
+  - id: appdynamics-before-20230221
     level: bronze
   - id: gologic
     level: bronze
