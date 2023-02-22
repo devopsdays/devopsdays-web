@@ -301,7 +301,7 @@ program:
     date: 2023-04-13
     start_time: "10:20"
     end_time: "10:40"
-  - title: "workshop"
+  - title: "workshop tbd"
     type: custom
     date: 2023-04-13
     start_time: "10:40"
@@ -323,87 +323,87 @@ program:
     end_time: "11:30"
   - title: "Keynote Speaker TBD"
     type: custom
-    date: 2022-04-14
+    date: 2023-04-13
     start_time: "11:30"
     end_time: "12:00"
   - title: "Lunch"
     type: custom
-    date: 2022-04-14
+    date: 2023-04-13
     start_time: "12:00"
     end_time: "13:00"
   - title: "Ignites"
-    type: ignite
-    date: 2022-04-14
+    type: custom
+    date: 2023-04-13
     start_time: "13:00"
     end_time: "13:30"
   - title: "Ignite Karaoke"
     type: custom
-    date: 2022-04-14
+    date: 2023-04-13
     start_time: "13:30"
     end_time: "13:45"
   - title: "Sponsors"
     type: custom
-    date: 2022-04-14
+    date: 2023-04-13
     start_time: "13:45"
     end_time: "13:55"
-  - title: "chris-evich"
-    type: talk
-    date: 2022-04-14
+  - title: "Keynote Speaker TBD"
+    type: custom
+    date: 2023-04-13
     start_time: "13:55"
     end_time: "14:25"
   - title: "Break"
     type: custom
-    date: 2022-04-14
+    date: 2023-04-13
     start_time: "14:25"
     end_time: "14:45"
-  - title: "andreas-grabner"
-    type: talk
-    date: 2022-04-14
+  - title: "Keynote Speaker TBD"
+    type: custom
+    date: 2023-04-13
     start_time: "14:45"
     end_time: "15:15"
-  - title: "jody-paramore"
-    type: talk
-    date: 2022-04-14
+  - title: "Keynote Speaker TBD"
+    type: custom
+    date: 2023-04-13
     start_time: "15:15"
     end_time: "15:40"
-  - title: "wakeed-stem-ncsu-citizen-science-club"
-    type: talk
-    date: 2022-04-14
+  - title: "Keynote Speaker TBD"
+    type: custom
+    date: 2023-04-13
     start_time: "15:40"
     end_time: "16:05"
-  - title: "Open Space Opening"
-    type: open-space
-    date: 2022-04-14
+  - title: "Open Space TBD"
+    type: custom
+    date: 2023-04-13
     start_time: "13:55"
     end_time: "15:15"
-  - title: "Open Space #3"
-    type: open-space
-    date: 2022-04-14
+  - title: "Open Space TBD"
+    type: custom
+    date: 2023-04-13
     start_time: "13:55"
     end_time: "14:25"
-  - title: "Open Space #4"
-    type: open-space
-    date: 2022-04-14
+  - title: "Open Space TBD"
+    type: custom
+    date: 2023-04-13
     start_time: "14:45"
     end_time: "15:15"
-  - title: "Escape Room Experience Afternoon"
+  - title: "Event TBD"
     type: custom
-    date: 2022-04-14
+    date: 2023-04-13
     start_time: "13:55"
     end_time: "15:15"
-  - title: "daniel-oh-workshop"
+  - title: "Workshop TBD"
     type: workshop
-    date: 2022-04-14
+    date: 2023-04-13
     start_time: "13:55"
     end_time: "15:15"
-  - title: "lee-faus-workshop"
-    type: workshop
-    date: 2022-04-14
+  - title: "Workshop TBD"
+    type: custom
+    date: 2023-04-13
     start_time: "13:55"
     end_time: "15:15"
   - title: "Raffle/Close Day"
     type: custom
-    date: 2022-04-14
+    date: 2023-04-13
     start_time: "16:05"
     end_time: "16:30"
 
