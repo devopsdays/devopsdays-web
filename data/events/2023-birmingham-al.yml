@@ -285,11 +285,6 @@ program:
     date: 2023-04-21T00:00:00-05:00
     start_time: "14:00"
     end_time: "14:30"
-  - title: "jj-asghar"
-    type: talk
-    date: 2023-04-21T00:00:00-05:00
-    start_time: "14:30"
-    end_time: "15:00"
   - title: "nick-ristuccia"
     type: talk
     date: 2023-04-21T00:00:00-05:00
