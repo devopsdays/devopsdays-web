@@ -1,7 +1,7 @@
 +++
 Title = "Adriano Vieira"
 Twitter = ""
-image = ""
+image = "adriano-vieira.png"
 type = "speaker"
 linktitle = "adriano-vieira"
 
