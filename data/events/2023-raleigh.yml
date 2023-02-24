@@ -37,12 +37,12 @@ location: "McKimmon Conference & Training Center" # Defaults to city, but you ca
 location_address: "1101 Gorman Street, Raleigh, NC 27606" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+  # - name: propose
   - name: location
   - name: registration
     url: "https://www.eventbrite.com/e/devopsdays-raleigh-2023-tickets-328956426527"
  # - name: program
- # - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -124,12 +124,12 @@ sponsors:
     level: platinum
   - id: micro-focus
     level: gold
-  - id: deutsche-bank 
+  - id: deutsche-bank
     level: silver
   - id: cloudbees
     level: gold
   - id: newrelic
-    level: platinum 
+    level: platinum
   - id: dragondropcloud
     level: gold
   - id: vmware-tanzu
@@ -138,7 +138,7 @@ sponsors:
     level: gold
   - id: sumologic
     level: gold
-  
+
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
