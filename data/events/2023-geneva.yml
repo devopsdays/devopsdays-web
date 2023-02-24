@@ -142,6 +142,10 @@ sponsors:
     level: bronze
   - id: wiz
     level: silver
+  - id: swiss-cybersecurity
+    level: community
+  - id: meetup-devops-geneva
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
