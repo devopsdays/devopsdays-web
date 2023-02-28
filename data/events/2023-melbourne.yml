@@ -92,15 +92,17 @@ sponsors:
   - id: anz
     level: gold
     url: https://www.anz.com.au/personal
-  - id: mantelgroup
-    level: silver
-  - id: mantelgroup
-    level: lanyard
   - id: buildkite
     level: bronze
   - id: cipherstash
     level: silver
   - id: circleci
+    level: gold
+  - id: mantelgroup
+    level: silver
+  - id: mantelgroup
+    level: lanyard
+  - id: pagerduty
     level: gold
   - id: zerocube
     level: avproduction
