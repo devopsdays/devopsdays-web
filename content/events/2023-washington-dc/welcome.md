@@ -90,5 +90,12 @@ Description = "devopsdays Washington, D.C. 2023"
 
 Follow us on [Twitter](https://twitter.com/DevOpsDaysDC) or [LinkedIn](https://www.linkedin.com/company/devopsdays-dc/) to get all the latest updates and announcements.
 
+<br>
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_inline_follow_toolbox"></div>
+
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-63fd7f6254ca6a1e"></script>
+
 {{< event_twitter >}}
 
