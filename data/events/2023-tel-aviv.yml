@@ -116,7 +116,7 @@ team_members: # Name is the only required field for team members.
 
   - name: "Julia Shub Vovlovsky" 
     twitter: "juliavolvo"
-    employer: "LawGeex"
+    employer: "Securithings"
     github: "Juliavol"
     linkedin: "https://www.linkedin.com/in/julia-shub-72418842/"
     website: "https://lawgeex.com" 
