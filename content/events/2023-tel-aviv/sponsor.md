@@ -28,10 +28,14 @@ The best thing to do is send engineers to interact with the experts at devopsday
     <h3 style="text-transform: uppercase; color: orange;">Gold Sponsor $9,000 (USD) 
     <br/>~ 32 Available <!-- <span style="font-weight: 800; text-transform: uppercase; color: red; background-color: yellow;">SOLD OUT</span> --></h3>
     <hr />
-    <h3 style="text-transform: uppercase; color: #d95374;">Community Sponsor - By Application Only 
+    <h3 style="text-transform: uppercase; color: #d95374;">Community Sponsor - By Application Only (Please make a note in the form - and someone from the team will get in touch with you to review your application)
     <br/> 4 Available <!-- <span style="font-weight: 800; text-transform: uppercase; color: red; background-color: yellow;">SOLD OUT</span> --></h3>
     <br/>
      <h5 style="text-transform: uppercase; color: #c0d44f;"> **Please note, due to the limited availability of booths, sponsorships are based on the order of the receipt of the signed agreements.**</h5> 
+    <br/>
+    <hr />
+    <h3 style="text-transform: uppercase; color: #blue; font-weight: 900;"><a href="https://forms.gle/zvoeqRtVmegYfUKj8" target="_blank"> >> Request Sponsorship Form</a></h3>
+    <hr />
     <br/>
      <h2>Available Sponsorship Add-Ons</h2><br/>
      <p>Add-Ons will be made available to sponsors first priority by tier and then after sold out to the community.</p>
