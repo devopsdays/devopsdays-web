@@ -4,7 +4,42 @@ Type = "welcome"
 aliases = ["/events/2023-birmingham-al/"]
 Description = "devopsdays Birmingham, AL 2023"
 +++
-
+<style>
+  .welcome-page-masthead {
+    font-size: +1em;
+    color: #fff;
+  }
+  .welcome-page-date {
+    color: #074974;
+    font-weight: 700;
+  }
+  .welcome-page-masthead-venue {
+    color: #eee;
+    font-weight: 600;
+  }
+  .e-summary {
+    color: #074974;
+    font-size: +1em;
+    font-weight: 700;
+  } 
+  a.p-location, a.p-location:hover, a.p-location:active {
+    color: #fff;
+    text-decoration: underline;
+  }
+  .welcome-page-masthead i {
+    color: #fff;
+  }
+  a.jssocials-share-link, a.event-cta-button {
+    background-color: #ee5923;
+  }
+  .content-text {
+    color: #074974;
+  }
+  .content-text a {
+    color: #000;
+    font-weight: 600;
+  }
+</style>
 <div style="text-align:center;">
   {{< event_logo >}}
 </div>
@@ -32,7 +67,7 @@ Description = "devopsdays Birmingham, AL 2023"
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
+   <a href="https://www.eventbrite.com/e/devopsdays-birmingham-al-2023-tickets-397507805547">Register</a> to attend the conference.
   </div>
 </div>
 
