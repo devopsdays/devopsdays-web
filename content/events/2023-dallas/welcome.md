@@ -6,8 +6,9 @@ Description = "devopsdays Dallas 2023"
 +++
 
 <!-- <div class = "row" style="background: #ed0b07; color: #ffffff; padding: 20px; margin: 20px; font-size: 16px"> -->
-<div style="text-align:center;" style="max-width:120%;">
-  <!-- {{< event_logo >}} -->
+<div style="text-align:center;" >
+  {{< event_logo >}}
+  <!-- <p><img alt="DevOpsDays Dallas 2023" src="/events/2023-dallas/logo.png" class="img-fluid"></p> -->
 </div>
 <br>
 <!-- <div class = "row">
