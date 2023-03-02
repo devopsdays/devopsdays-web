@@ -134,14 +134,14 @@ sponsors:
     level: silver
   - id: db1
     level: silver
-  - id: grafanalabs
+  - id: grafanalabsbr
     level: silver
 # Bronze
   - id: chip&cia
     level: bronze
 # Community  
-  - id: novatec
-    level: community
+#  - id: novatec
+#    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
