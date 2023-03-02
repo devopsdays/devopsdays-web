@@ -34,4 +34,32 @@ The ideal listener should have the following prerequisites:
 - Be familiar with Docker (knowledge of the basic commands and concepts such as images and containers)
 - Some expertise in databases
 
+
+The agenda of the workshop will be as follow:
+
+1. Introduction ~15 minutes:
+    1. Theoretical introduction to Test-Driven Development. Which are its three stages? Its rules and constraints. Pros and cons. When and where can it be applied?
+    2. Introduction to tests. Which kind of tests are there? Difference between them.
+    3. What is a clean test? How to write a clean test?
+    4. Code Coverage. What is it? How should it be read?
+    5. Tests in Go. What are the Table-Driven tests? What are mocks? Which packages should we use to write tests?
+2. HTTP ~45 minutes:
+    1. Define the user requirements we have for this section. Define which endpoints and actions we've to expose to be consumed by a web client.
+    2. Build the HTTP handler for the PUT endpoint.
+    3. Introduction to the `httptest` package.
+    4. Write the HTTP handler and its tests.
+3. Database ~45 minutes:
+    1. Define the user requirements we have for this section.
+    2. Design the layer that will talk to the database.
+    3. Introduction to the `sql-mock` package.
+    4. Write the database logic and its tests.
+4. Final ~15 minutes:
+    1. Build the interface that we've to use to inject the database package's functionalities into the HTTP handlers.
+    2. Adjust the written tests to reflect the new layout of our solution.
+    3. Setup of the application's dependencies within the `main.go` file.
+    4. Run the PostgreSQL instance through Docker.
+    5. Create SQL objects in the database and populate them.
+    6. Run the application and test it.
+5. Q&A ~15 minutes
+
 By completing this workshop the learner gains a hands-on experience with the TDD. Furthermore, he'll be ready to use it in his next project.
