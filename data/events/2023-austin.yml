@@ -160,7 +160,11 @@ sponsors:
   - id: site24x7
     level: gold
   - id: cloudbees
-    level: gold  
+    level: gold
+  - id: vmware-tanzu-horiz
+    level: lanyard  
+  - id: tailscale-black
+    level: coffee  
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
