@@ -170,8 +170,8 @@ program:
     date: 2023-04-12
     start_time: "09:00"
     end_time: "09:10"
-  - title: "Keynote Speaker TBD"
-    type: custom
+  - title: "ana-margarita-medina-keynote"
+    type: talk
     date: 2023-04-12
     start_time: "09:10"
     end_time: "09:40"
@@ -180,8 +180,8 @@ program:
     date: 2023-04-12
     start_time: "09:40"
     end_time: "09:50"
-  - title: "Keynote Speaker TBD"
-    type: custom
+  - title: "sarah-morgan-keynote"
+    type: talk
     date: 2023-04-12
     start_time: "09:50"
     end_time: "10:20"
@@ -190,13 +190,8 @@ program:
     date: 2023-04-12
     start_time: "10:20"
     end_time: "10:40"
-  - title: "TBD"
-    type: custom
-    date: 2023-04-12
-    start_time: "10:40"
-    end_time: "12:00"
-  - title: "Keynote Speaker TBD"
-    type: custom
+  - title: "marino-wijay-keynote"
+    type: talk
     date: 2023-04-12
     start_time: "10:40"
     end_time: "11:10"
@@ -204,92 +199,97 @@ program:
     type: custom
     date: 2023-04-12
     start_time: "11:10"
-    end_time: "11:30"
-  - title: "Keynote Speaker TBD"
-    type: custom
+    end_time: "11:20"
+  - title: "cecelia-martinez-keynote"
+    type: talk
     date: 2023-04-12
-    start_time: "11:30"
-    end_time: "12:00"
+    start_time: "11:20"
+    end_time: "11:50"
   - title: "Lunch"
     type: custom
     date: 2023-04-12
-    start_time: "12:00"
+    start_time: "11:50"
     end_time: "13:00"
-  - title: "Ignites"
+  - title: "Welcome Back, Ignite Explanation + Karaoke"
     type: custom
     date: 2023-04-12
     start_time: "13:00"
-    end_time: "13:30"
+    end_time: "13:05"
+  - title: "Ignites"
+    type: ignite
+    date: 2023-04-12
+    start_time: "13:05"
+    end_time: "13:35"
   - title: "Ignite Karaoke"
     type: custom
     date: 2023-04-12
-    start_time: "13:30"
+    start_time: "13:35"
     end_time: "13:45"
-  - title: "Sponsors"
-    type: custom
+  - title: "laura-santamaria-keynote"
+    type: talk
     date: 2023-04-12
     start_time: "13:45"
-    end_time: "13:55"
-  - title: "Keynote Speaker TBD"
-    type: custom
-    date: 2023-04-13
-    start_time: "13:55"
-    end_time: "14:25"
+    end_time: "14:15"
+  - title: "Open Space Explanation + Break"
+    type: open-space
+    date: 2023-04-12
+    start_time: "14:15"
+    end_time: "14:30"
+  - title: "brett-smith-keynote"
+    type: talk
+    date: 2023-04-12
+    start_time: "14:30"
+    end_time: "15:00"
+  - title: "ilya-krutov-keynote"
+    type: talk
+    date: 2023-04-12
+    start_time: "15:00"
+    end_time: "15:30"
   - title: "Break"
     type: custom
     date: 2023-04-12
-    start_time: "14:25"
-    end_time: "14:45"
-  - title: "Keynote Speaker TBD"
-    type: custom
-    date: 2023-04-12
-    start_time: "14:45"
-    end_time: "15:15"
-  - title: "SPEAKER TBD"
-    type: custom
-    date: 2023-04-12
-    start_time: "15:15"
-    end_time: "16:15"
-  - title: "Open Space Opening"
-    type: custom
-    date: 2023-04-12
-    start_time: "13:55"
-    end_time: "15:15"
+    start_time: "15:30"
+    end_time: "15:45"
   - title: "Open Space #1"
-    type: custom
+    type: open-space
     date: 2023-04-12
-    start_time: "13:55"
-    end_time: "14:25"
+    start_time: "15:00"
+    end_time: "15:30"
   - title: "Open Space #2"
-    type: custom
+    type: open-space
     date: 2023-04-12
-    start_time: "14:45"
-    end_time: "15:15"
-  - title: "Activity TBD"
-    type: custom
+    start_time: "15:45"
+    end_time: "16:15"
+  - title: "phil-sautter-workshop"
+    type: workshop
     date: 2023-04-12
-    start_time: "13:55"
-    end_time: "15:15"
-  - title: "workshop tbd"
-    type: custom
+    start_time: "14:30"
+    end_time: "15:45"
+  - title: "alen-haric-workshop"
+    type: workshop
     date: 2023-04-12
-    start_time: "13:55"
-    end_time: "15:15"
-  - title: "workshop tbd"
-    type: custom
+    start_time: "14:30"
+    end_time: "15:45"
+  - title: "peter-chestna-keynote"
+    type: talk
     date: 2023-04-12
-    start_time: "13:55"
-    end_time: "15:15"
+    start_time: "15:45"
+    end_time: "16:15"
+  - title: "monica-tamboli-keynote"
+    type: talk
+    date: 2023-04-12
+    start_time: "16:15"
+    end_time: "16:45"
   - title: "Close Day"
     type: custom
     date: 2023-04-12
-    start_time: "16:15"
-    end_time: "16:30"
+    start_time: "16:45"
+    end_time: "17:00"
   - title: "Evening event - Happy Hour"
     type: custom
     date: 2023-04-12
-    start_time: "16:30"
-    end_time: "18:00"
+    start_time: "17:00"
+    end_time: "18:30"
   - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2023-04-13
@@ -300,18 +300,18 @@ program:
     date: 2023-04-13
     start_time: "09:00"
     end_time: "09:10"
-  - title: "Keynote Speaker TBD"
-    type: custom
+  - title: "micah-almond-keynote"
+    type: talk
     date: 2023-04-13
     start_time: "09:10"
     end_time: "09:40"
-  - title: "Sponsors"
-    type: custom
+  - title: "Sponsors + Open Space Explanation"
+    type: open-space
     date: 2023-04-13
     start_time: "09:40"
     end_time: "09:50"
-  - title: "Keynote Speaker TBD"
-    type: custom
+  - title: "shivay-lamba-keynote"
+    type: talk
     date: 2023-04-13
     start_time: "09:50"
     end_time: "10:20"
@@ -320,18 +320,18 @@ program:
     date: 2023-04-13
     start_time: "10:20"
     end_time: "10:40"
-  - title: "workshop tbd"
-    type: custom
+  - title: "jason-van-brackel-workshop"
+    type: workshop
     date: 2023-04-13
-    start_time: "10:40"
-    end_time: "12:00"
-  - title: "Event TBD"
-    type: custom
+    start_time: "09:50"
+    end_time: "11:10"
+  - title: "ryan-mcelroy-workshop"
+    type: workshop
     date: 2023-04-13
-    start_time: "10:40"
-    end_time: "12:00"
-  - title: "Keynote Speaker TBD"
-    type: custom
+    start_time: "09:50"
+    end_time: "10:40"
+  - title: "tim-becker-keynote"
+    type: talk
     date: 2023-04-13
     start_time: "10:40"
     end_time: "11:10"
@@ -339,89 +339,112 @@ program:
     type: custom
     date: 2023-04-13
     start_time: "11:10"
-    end_time: "11:30"
-  - title: "Keynote Speaker TBD"
-    type: custom
+    end_time: "11:20"
+  - title: "karl-owen-keynote"
+    type: talk
     date: 2023-04-13
-    start_time: "11:30"
-    end_time: "12:00"
+    start_time: "11:20"
+    end_time: "11:50"
   - title: "Lunch"
     type: custom
     date: 2023-04-13
-    start_time: "12:00"
+    start_time: "11:50"
     end_time: "13:00"
-  - title: "Ignites"
+  - title: "Welcome Back, Ignite Explanation + Karaoke"
     type: custom
     date: 2023-04-13
     start_time: "13:00"
-    end_time: "13:30"
-  - title: "Ignite Karaoke"
-    type: custom
+    end_time: "13:05"
+  - title: "Ignites"
+    type: ignite
     date: 2023-04-13
-    start_time: "13:30"
+    start_time: "13:05"
+    end_time: "13:35"
+  - title: "Ignite Karaoke + Open Space Review"
+    type: open-space
+    date: 2023-04-13
+    start_time: "13:35"
     end_time: "13:45"
-  - title: "Sponsors"
-    type: custom
+  - title: "Open Space #3"
+    type: open-space
     date: 2023-04-13
     start_time: "13:45"
-    end_time: "13:55"
-  - title: "Keynote Speaker TBD"
-    type: custom
+    end_time: "14:15"
+  - title: "Open Space #4"
+    type: open-space
     date: 2023-04-13
-    start_time: "13:55"
-    end_time: "14:25"
+    start_time: "14:15"
+    end_time: "14:45"
+  - title: "kai-xin-tai-keynote"
+    type: talk
+    date: 2023-04-13
+    start_time: "13:45"
+    end_time: "14:15"
+  - title: "carlos-santana-keynote"
+    type: talk
+    date: 2023-04-13
+    start_time: "14:15"
+    end_time: "14:45"
+  - title: "praveen-nerellapalli-workshop"
+    type: workshop
+    date: 2023-04-13
+    start_time: "13:45"
+    end_time: "15:00"
   - title: "Break"
     type: custom
     date: 2023-04-13
-    start_time: "14:25"
-    end_time: "14:45"
-  - title: "Keynote Speaker TBD"
-    type: custom
-    date: 2023-04-13
     start_time: "14:45"
-    end_time: "15:15"
-  - title: "Keynote Speaker TBD"
+    end_time: "15:00"
+  - title: "john-willis-keynote"
+    type: talk
+    date: 2023-04-13
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "Break"
     type: custom
     date: 2023-04-13
-    start_time: "15:15"
-    end_time: "15:40"
-  - title: "Keynote Speaker TBD"
-    type: custom
-    date: 2023-04-13
-    start_time: "15:40"
-    end_time: "16:05"
-  - title: "Open Space TBD"
-    type: custom
-    date: 2023-04-13
-    start_time: "13:55"
-    end_time: "15:15"
-  - title: "Open Space TBD"
-    type: custom
-    date: 2023-04-13
-    start_time: "13:55"
-    end_time: "14:25"
-  - title: "Open Space TBD"
-    type: custom
-    date: 2023-04-13
-    start_time: "14:45"
-    end_time: "15:15"
-  - title: "Event TBD"
-    type: custom
-    date: 2023-04-13
-    start_time: "13:55"
-    end_time: "15:15"
-  - title: "Workshop TBD"
-    type: workshop
-    date: 2023-04-13
-    start_time: "13:55"
-    end_time: "15:15"
-  - title: "Workshop TBD"
-    type: custom
-    date: 2023-04-13
-    start_time: "13:55"
-    end_time: "15:15"
+    start_time: "15:45"
+    end_time: "16:15"
   - title: "Raffle/Close Day"
     type: custom
     date: 2023-04-13
-    start_time: "16:05"
+    start_time: "16:15"
     end_time: "16:30"
+
+ignites:
+  - title: "jen-wike-huger-ignite"
+    date: 2023-04-12
+  - title: "brett-smith-ignite"
+    date: 2023-04-12
+  - title: "michael-roberts-ignite"
+    date: 2023-04-12
+  - title: "eric-gregory-ignite"
+    date: 2023-04-12
+  - title: "raghav-gupta-ignite"
+    date: 2023-04-12
+  - title: "drew-piland-ignite"
+    date: 2023-04-12
+  - title: "aaron-suggs-ignite"
+    date: 2023-04-13
+  - title: "katie-riedesel-ignite"
+    date: 2023-04-13
+  - title: "andrew-knight-ignite"
+    date: 2023-04-13
+  - title: "gary-canter-ii-ignite"
+    date: 2023-04-13
+  - title: "jeremy-freeman-ignite"
+    date: 2023-04-13
+  - title: "ignite-placeholder"
+    date: 2023-04-13
+
+
+
+
+
+
+
+
+
+
+
+
