@@ -125,8 +125,8 @@ proposal_email: "aracaju@devopsdays.org" # Put your proposal email address here
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
 # Gold
-#  - id: <company>
-#    level: gold
+  - id: elastic
+    level: gold
 # Silver
   - id: cio-se
     level: silver
@@ -134,6 +134,14 @@ sponsors:
     level: silver
   - id: db1
     level: silver
+  - id: grafanalabs
+    level: silver
+# Bronze
+  - id: chip&cia
+    level: bronze
+# Community  
+  - id: novatec
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -169,3 +177,6 @@ sponsor_levels:
    - id: bronze
      label: Bronze
      max: 5
+   - id: community
+     label: Community
+     max: 10
