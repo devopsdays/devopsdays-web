@@ -120,13 +120,6 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <td></td>
     </tr>
     <tr>
-      <td>Booth space in sponsor area (with chair)</td>
-      <td><img src = "/events/2023-chicago/yak-head.png"></td>
-      <td><img src = "/events/2023-chicago/yak-head.png"></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
       <td>Logo on banner at registration area</td>
       <td><img src = "/events/2023-chicago/yak-head.png"></td>
       <td><img src = "/events/2023-chicago/yak-head.png"></td>
@@ -155,7 +148,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <td><img src = "/events/2023-chicago/yak-head.png"></td>
     </tr>
     <tr>
-      <td>Dedicated sponsor booth in sponsor area (with chair)</td>
+      <td>Dedicated table in sponsor area (with chairs)</td>
       <td><img src = "/events/2023-chicago/yak-head.png"></td>
       <td><img src = "/events/2023-chicago/yak-head.png"></td>
       <td></td>

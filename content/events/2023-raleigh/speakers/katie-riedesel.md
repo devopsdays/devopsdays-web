@@ -5,7 +5,6 @@ linkedin = "https://www.linkedin.com/in/katie-riedesel-5b3b799/"
 image = "katie-riedesel.jpg"
 type = "speaker"
 linktitle = "katie-riedesel"
-
 +++
 
 Katie manages projects and a project management team at Red Hat.

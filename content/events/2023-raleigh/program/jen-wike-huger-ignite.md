@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "How \\*Not\\* to Talk to Your Developers"
+Title = "How Not to Talk to Your Developers"
 Type = "talk"
 Speakers = ["jen-wike-huger"]
 +++

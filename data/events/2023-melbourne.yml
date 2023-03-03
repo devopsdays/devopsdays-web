@@ -104,6 +104,10 @@ sponsors:
     level: lanyard
   - id: pagerduty
     level: gold
+  - id: parallo
+    level: bronze
+  - id: telstrapurple
+    level: bronze
   - id: zerocube
     level: avproduction
 
