@@ -140,8 +140,8 @@ sponsors:
   - id: chip&cia
     level: bronze
 # Community  
-#  - id: novatec
-#    level: community
+  - id: novatec
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
