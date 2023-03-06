@@ -78,6 +78,14 @@ sponsors:
     level: gold
   - id: cloudbees
     level: gold
+  - id: appdynamics
+    level: gold
+  - id: vmware-tanzu
+    level: gold
+  - id: portworx
+    level: silver
+  - id: paloaltonetworks
+    level: silver
   - id: couchbase
     level: silver
   - id: datavail

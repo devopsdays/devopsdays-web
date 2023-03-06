@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Keeping your Product and Engineering Teams Aligned as You Scale From Zero to IPO"
 Type = "talk"
-Speakers = [""]
+Speakers = ["kai-xin-tai"]
 +++
 
 Your leadership expects your product to bring in 1 million in revenue this year. While you're eager to rise to the challenge, you know that there are just a few obstacles: your engineering team is drowning in incidents, you have a growing backlog of features, and user retention is dipping.

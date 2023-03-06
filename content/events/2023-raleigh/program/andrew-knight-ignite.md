@@ -2,16 +2,6 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = ""
-Type = "talk"
-Speakers = [""]
-+++
-
-TALK BIO
-+++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
 Title = "Making Great Waves: 8 Software Testing Convictions"
 Type = "talk"
 Speakers = ["andrew-knight"]
