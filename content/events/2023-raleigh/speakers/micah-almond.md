@@ -2,7 +2,7 @@
 Title = "Micah Almond"
 Twitter = ""
 linkedin = ""
-image = ""
+image = "micah-almond.jpg"
 type = "speaker"
 linktitle = "micah-almond"
 +++

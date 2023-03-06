@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "DevOps \\@ Dell: Bringing Multiple Teams Into a Common DevOps Environment"
+Title = "DevOps at Dell: Bringing Multiple Teams Into a Common DevOps Environment"
 Type = "talk"
 Speakers = ["karl-owen"]
 +++
