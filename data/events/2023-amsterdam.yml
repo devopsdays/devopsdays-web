@@ -140,6 +140,8 @@ sponsors:
 # Gold
   - id: github
     level: gold
+  - id: elastic
+    level: gold
 # Silver
   - id: wiz
     level: silver
