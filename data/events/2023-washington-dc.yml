@@ -20,11 +20,11 @@ enddate: 2023-09-14T19:00:00-04:00
 
 # cfp_link: "https://sessionize.com/devopsdays-dc-2023" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-# registration_date_start: 2023-06-21T00:00:00-04:00
-# registration_date_end: 2023-09-16T23:59:59-04:00
+registration_date_start: 2023-03-02T00:00:00-04:00
+registration_date_end: 2023-09-14T23:59:59-04:00
 
 # registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-# registration_link: "https://www.eventbrite.com/e/devopsdays-dc-2023-tickets-345684861727" 
+registration_link: "https://www.eventbrite.com/e/devopsdays-dc-2023-tickets-553328328927"
 
 # Location
 #
@@ -35,7 +35,7 @@ location_address: "1730 E St NW, Washington, DC 20006"
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
 - name: location
- # - name: registration
+- name: registration
  # - name: program
  # - name: speakers
  # - name: sponsor
@@ -181,7 +181,8 @@ team_members: # Name is the only required field for team members.
   - name: "Matthew Cascio"
     employer: "American Red Cross"
     twitter: "mattcascio"
-    bio: ""
+    bio: "Matthew Cascio leads product teams that go-to-market with award-winning customer experiences for the world's most-recognized brands. For over 20 years, Matt has valued people and relationships first, providing vision, strategy and leadership that drives value at scale. As a thought leader and evangelist, Matt builds trust and leads transformation across complex organizations with a collaborative, outcomes-focused and hands-on style. As an accountable executive, he has demonstrated success commercializing data insights into cloud-native products. 
+    <br><br>Matt serves as Head, Digital Transformation at American Red Cross where increasing adoption of digital products and cloud technologies saves lives. While at Red Cross, Matt founded the award-winning Code4Good program, a first-of-its-kind technical volunteer workforce supporting the Red Cross Mission.  Matt previously led transformation at organizations such as Meda Pharmaceuticals, Volkwagen/Audi of America, Graduate Management Admissions Council, Rosetta Stone, and National Wildlife Federation. Matt is also an independent author, speaker and advisor through his personal brand NaOM Lab, which contributes commentaries to publications such as Fortune Magazine, speaks regularly at open-source events with the Cloud Native Computing Foundation (CNCF) and works with clients to advance their digital transformation initiatives based on his experience with three key pillars of success - accountability, observability and agility. He's an organizer of Kubernetes Community Days in both Washington, DC and Medellín, Colombia."
     image: "matt-cascio.jpg"
     github: ""
     website: ""
@@ -191,7 +192,7 @@ team_members: # Name is the only required field for team members.
     employer: "FreeWheel"
     twitter: "faheem"
     bio: ""
-    image: "kara-burgan.jpg"
+    image: "faheem-memon.jpg"
     github: ""
     website: ""
     linkedin: "https://www.linkedin.com/in/faheemmemon/"

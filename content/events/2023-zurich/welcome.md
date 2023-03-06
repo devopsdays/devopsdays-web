@@ -5,18 +5,6 @@ aliases = ["/events/2023-zurich/"]
 Description = "DevOpsDays Zurich 2023"
 +++
 
-<!-- <div style="text-align:center;">
-  {{< event_logo >}}
-</div> -->
-<!--
-<div class="row">
-  <div class="alert alert-info" role="alert">
-    <h2>COVID-19</h2>
-    We’re aware of the present situation as a consequence of COVID-19 and take it very seriously. <br/>
-<b>Only persons with a valid COVID-Certificate and a valid ID (e.g. driving license or passport) are allowed access to the DevOpsDays Zurich 2023.</b><br/> This means you need to be vaccinated, tested or convalesced from COVID-19 and have a valid COVID-Certificate and a ID.
-  </div>
-</div>
---> 
 <div class = "row">
   <div class = "col-md-6">
     <img src="/events/2023-zurich/logo.png" style="float:center"/>
@@ -51,7 +39,6 @@ Description = "DevOpsDays Zurich 2023"
   </div>
 </div>
 
-<!--
 <div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
@@ -69,7 +56,6 @@ Description = "DevOpsDays Zurich 2023"
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
 </div> 
--->
 
 <div class = "row">
   <div class = "col-md-2">
@@ -91,7 +77,7 @@ Description = "DevOpsDays Zurich 2023"
 </div>
 -->
 
-<!--
+
 <div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
@@ -101,6 +87,7 @@ Description = "DevOpsDays Zurich 2023"
   </div>
 </div> 
 
+<!--
 <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
@@ -109,6 +96,7 @@ Description = "DevOpsDays Zurich 2023"
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
 </div> 
+-->
 
 <div class = "row">
   <div class = "col-md-2">
@@ -118,7 +106,6 @@ Description = "DevOpsDays Zurich 2023"
     {{< event_link page="sponsor" text="Sponsor the conference!" >}}
   </div>
 </div>
--->
 
 <div class = "row">
   <div class = "col-md-2">
@@ -128,17 +115,6 @@ Description = "DevOpsDays Zurich 2023"
     {{< event_link page="diversity" text="We want to create a most diverse conference!" >}}
   </div>
 </div> 
-
-<!--
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>COVID-19</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="covid" text="All information about the Covid-19 measures" >}}
-  </div>
-</div> 
--->
 
 <div class = "row">
   <div class = "col-md-2">

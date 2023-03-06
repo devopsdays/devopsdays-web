@@ -140,7 +140,20 @@ sponsors:
     level: bronze
   - id: f5-nginx
     level: bronze
-
+  - id: wiz
+    level: silver
+  - id: swiss-cybersecurity
+    level: community
+  - id: meetup-devops-geneva
+    level: community
+  - id: agilesuisse
+    level: community
+  - id: e-xpert-solutions
+    level: bronze
+  - id: powerhouse
+    level: community
+  - id: software-crafts-romandie
+    level: community
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.

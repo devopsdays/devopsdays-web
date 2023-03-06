@@ -4,12 +4,6 @@ Type = "event"
 Description = "Registration for devopsdays prague 2023"
 +++
 
-<div style="width:100%; text-align:left;">
-
-Embed registration iframe/link/etc.
-</div></div>
-</div>
-
 <link rel="stylesheet" type="text/css" href="https://tix.devops.foundation/devopsdays-prague/2023/widget/v1.css">
 <script type="text/javascript" src="https://tix.devops.foundation/widget/v1.en.js" async></script>
 

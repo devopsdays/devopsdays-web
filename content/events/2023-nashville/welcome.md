@@ -6,7 +6,9 @@ aliases = [
   "/events/2023-nashville/location/",
   "/events/2023-nashville/propose/",
   "/events/2023-nashville/registration/",
-  "/events/2023-nashville/sponsor/"]
+  "/events/2023-nashville/sponsor/",
+  "/events/2023-nashville/speakers/",
+  "/events/2023-nashville/program/"]
 Description = "DevOpsDays Nashville 2022"
 +++
 
@@ -27,7 +29,7 @@ Description = "DevOpsDays Nashville 2022"
     <br>
     <!-- <h2><p><a href="https://sessionize.com/nashvilledevopsdays2023/">Call for Proposals Now Open!</a></p></h2>
     <p>Do you have a great topic for the community?  Visit our <a href="https://sessionize.com/nashvilledevopsdays2023/">Call for Speakers/Papers</a> site today!  We look forward to hearing from you.</p> -->
-    <p>Call for Proposals is Now Closed!  We will be announcing our sessions around February 1st.  Please check back to see our session list.</p>
+    <h3>Our {{< event_link page="program" text="session" >}} and {{< event_link page="speakers" text="speakers" >}} lists are now live!  Check out the incredible list of speakers and the amazing topics they will be presenting!</h3>
   </div>
 </div>
 
@@ -70,23 +72,23 @@ Description = "DevOpsDays Nashville 2022"
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
     View the {{< event_link page="program" text="program." >}}
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">

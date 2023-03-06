@@ -92,16 +92,24 @@ sponsors:
   - id: anz
     level: gold
     url: https://www.anz.com.au/personal
-  - id: azenix
-    level: silver
-  - id: azenix
-    level: lanyard
   - id: buildkite
     level: bronze
   - id: cipherstash
     level: silver
   - id: circleci
     level: gold
+  - id: mantelgroup
+    level: silver
+  - id: mantelgroup
+    level: lanyard
+  - id: pagerduty
+    level: gold
+  - id: parallo
+    level: bronze
+  - id: telstrapurple
+    level: bronze
+  - id: zerocube
+    level: avproduction
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -125,6 +133,9 @@ sponsor_levels:
     max: 1
   - id: coffeecart
     label: Coffee Cart
+    max: 1
+  - id: avproduction
+    label: A/V Production
     max: 1
     
 program:

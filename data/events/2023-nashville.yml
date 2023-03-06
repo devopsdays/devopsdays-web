@@ -50,8 +50,8 @@ location_address: "201 5th Avenue South, Nashville, TN 37203" #Optional - use th
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: registration
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: location
   - name: contact
   - name: sponsor
@@ -167,7 +167,7 @@ sponsors:
    level: gold
  - id: ustglobal
    level: gold
- - id: netapp
+ - id: spot-by-netapp
    level: silver
  - id: insightfinder
    level: silver

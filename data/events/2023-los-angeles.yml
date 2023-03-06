@@ -144,8 +144,6 @@ sponsors:
     level: gold
   - id: dragondropcloud
     level: gold
-  - id: site24x7
-    level: gold
   - id: couchbase
     level: gold
   - id: digitalai
@@ -162,10 +160,17 @@ sponsors:
     level: silver
   - id: buildkite
     level: silver
+  - id: prisma_cloud
+    level: silver
   - id: dnsimple
     level: silver
   - id: privacy-dynamics
     level: startup
+  - id: arnica
+    level: startup
+  - id: kubiya
+    level: startup
+  - id: 
   - id: tonicai
     level: gold
   - id: devcycle

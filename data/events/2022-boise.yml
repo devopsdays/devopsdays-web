@@ -59,7 +59,7 @@ team_members: # Name is the only required field for team members.
   - name: "Julie Gunderson"
     employer: "Gremlin"
     twitter: "Julie_Gund"
-    linkedin: "https://www.linkedin.com/in/jladamson/"
+    linkedin: "https://www.linkedin.com/in/juliegunderson/"
     image: "julie.png"
   - name: "Tommy Mouser"
     employer: "Cradlepoint"
