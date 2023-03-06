@@ -84,6 +84,8 @@ sponsors:
     level: gold
   - id: newrelic
     level: gold
+  - id: microsoft-teals
+    level: community
 sponsors_accepted : "yes"
 
 # In this section, list the level of sponsorships and the label to use.
@@ -99,6 +101,8 @@ sponsor_levels:
     label: Silver
   - id: bronze
     label: Bronze
+  - id: community
+    label: Community
 
 program:
   - title: "Registration, Breakfast, Visit Sponsors"
