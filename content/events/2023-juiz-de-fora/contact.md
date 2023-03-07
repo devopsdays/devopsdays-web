@@ -1,10 +1,10 @@
 +++
-Title = "Contact"
+Title = "Contato"
 Type = "event"
 Description = "Contact information for DevOpsDays Juiz De Fora 2023"
 +++
 
-If you'd like to contact us by email: {{< email_organizers >}}
+Se você gostaria de entrar em contato conosco por e-mail: {{< email_organizers >}}
 
 **Our local team**
 

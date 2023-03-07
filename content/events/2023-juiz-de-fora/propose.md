@@ -3,33 +3,68 @@ Title = "Propose"
 Type = "event"
 Description = "Propose a talk for DevOpsDays Juiz De Fora 2023"
 +++
-  {{< cfp_dates >}}
+{{< cfp_dates >}}
+
+<h3>Como enviar sua proposta</h3>
+
+Basta acessar e seguir as instruções em [https://www.papercall.io/devopsdaysjuizdefora2023](https://www.papercall.io/devopsdaysjuizdefora2023)
 
 <hr>
 
-There are three ways to propose a topic at devopsdays:
+<h3>Tipos de apresentações</h3>
+
+Há dois tipos de de apresentações no DevOps Days de Juiz de Fora 2023:
 <ol>
-  <li><strong><em>A 30-minute talk</em></strong> presented during the conference, usually in the mornings.</li>
-  <li><strong><em>An Ignite talk</em></strong> presented during the <a href="/pages/ignite-talks-format">Ignite sessions</a> (scheduling varies). These are 5 minutes slots with slides changing every 15 seconds (20 slides total).</li>
-  <li><strong><em>Open Space</em></strong>: If you'd like to lead a group discussion during the attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout sessions, it is not necessary to propose it ahead of time. Those topics are suggested in person at the conference. If you'd like to demo your product or service, you should <a href="../sponsor">sponsor the event</a> and demo it at your table.
+  <li><strong>Palestras:</strong> 30 minutos (25 minutos de palestra + 5 minutos para perguntas) apresentadas durante a conferência.</li>
+  <li><strong>Open Spaces:</strong> Não é necessário propor um tema antes, somente à disponibilidade durante o evento para facilitar a execução. As pessoas participantes do evento serão convidadas a propor temas assim como participar de pequenos grupos para discutir cada tema. Usualmente existe uma pessoa facilitadora que estabelece regras ou normas, mas esta não é uma líder oficial da discussão.</li>
 </ol>
 
 <hr>
 
-Choosing talks is part art, part science; here are some factors we consider when trying to assemble the best possible program for our local audience:
+<h3>Diretrizes Gerais</h3>
 
-- _broad appeal_: How will your talk play out in a room of people with a variety of backgrounds? Technical deep dives need more levels to provide value for the whole room, some of whom might not use your specific tool.
-- _new local presenters_: You are the only one who can tell your story. We are very interested in the challenges and successes being experienced in our local area. We are happy to provide guidance/coaching for new speakers upon request.
-- _under-represented voices_: We want to hear all voices, including those that may speak less frequently at similar events. Whether you're in a field not typically thought of as a technology field, you're in a large, traditional organization, or you're the only person at your organization with your background, we are interested in your unique experience.
-- _original content_: We will consider talks that have already been presented elsewhere, but we prefer talks that the local area isn't likely to have already seen.
-- _no third-party submissions_: This is a small community-driven event, and speakers need to be directly engaged with the organizers and attendees. If a PR firm or your marketing department is proposing the talk, you've already shown that as a speaker you're distant from the process.
-- _no vendor pitches_: As much as we value vendors and sponsors, we are not going to accept a talk that appears to be a pitch for your product.
+- Adicione o máximo de detalhes que puder. Você não precisa escrever toda a palestra em seu resumo, mas forneça detalhes suficientes para que o comitê de seleção tenha uma ideia do que sua palestra incluirá.
+- Múltiplas submissões são bem-vindas, mas, por favor, atenha-se ao tema DevOps e seu ecossistema!
+- Não é necessário falar quem você é, selecionamos com base no conteúdo.
+- Todas as apresentações devem estar em conformidade com o código de conduta.
+- As propostas devem ser enviadas por meio desta plataforma. Se você tiver dúvidas, envie um email para: [{{< email_organizers >}}]
 
 <hr>
 
-<strong>How to submit a proposal:</strong> Send an email to [{{< email_organizers >}}] with the following information
-<ol>
-	<li>Type (presentation, panel discussion, ignite)</li>
-	<li>Proposal Title (can be changed later)</li>
-	<li>Description (several sentences explaining what attendees will learn)</li>
-</ol>
+<h3>Critérios de escolha</h3>
+
+A escolha das palestras é parte arte e parte ciência; aqui estão alguns fatores que consideramos quando ter o melhor programa para nossa audiência local:
+
+- **Grande Apelo**: Como a sua apresentação se mostra para pessoas com diferentes experiências e conhecimentos? Apresentações muito técnicas precisam de mais níveis para fornecer valor para todos, os quais podem não ter o conhecimento específico na ferramenta;
+
+- **Novos Palestrantes Locais**: Você é o único que pode contar sua história. Nós estamos muito interessados nos desafios e experiência de sucessos local. Nós estamos felizes para ajudar/mentorar os novos palestrantes que nos procurarem;
+
+- **Vozes Sub-Representadas**: Nós gostaríamos de ouvir todas as vozes, inclusive aquelas que são menos frequentes em eventos similares. Se você está num campo que não é considerado como um de tecnologia, você está em uma organização grande e tradicional, ou você é a única pessoa em sua organização com seus antecedentes, estamos interessados em sua experiência única;
+
+- **Sem Palestras de Terceiros**: Este é um evento orientado pela comunidade e os palestrantes precisam estar diretamente engajados com os organizadores e atendentes. Se uma empresa de relações públicas ou o departamento está propondo uma palestra, você já deve saber como um palestrante estará distante do processo;
+
+- **Produtos e Serviços**: Por mais que valorizemos vendedores e patrocinadores, não aceitaremos uma palestra que pareça ser uma proposta para seu produto.
+
+<hr>
+
+<h3>Idéias de palestras</h3>
+
+Procuramos sempre pela maior diversidade de assuntos possível, sabemos que isso é fundamental para que tenhamos um evento incrível, por isso lhe encorajamos a “pensar fora da caixa” ao submeter sua palestra, também recomendamos submeter mais de um assunto diferente, estatisticamente falando enviar apenas um assunto pode diminuir as sua chances de sucesso. Para ajudar as idéias fluírem seguem aqui algumas sugestões:
+
+
+- GitOps
+- DevSecOps
+- Microserviços
+- Engenharia do Caos
+- Observabilidade
+- Construindo cultura
+- Diversidade em TI
+- Kubernetes
+- Aprendizado Contínuo, como Dojos
+- Infraestrutura como código
+- Desenvolvimento profissional, ensino, treinamento e mentorias
+- Saúde mental, estresse e esgotamento
+- Aprendendo com as falhas
+- Melhoria contínua
+
+<hr>
