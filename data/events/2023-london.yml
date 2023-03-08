@@ -78,6 +78,7 @@ team_members: # Name is the only required field for team members.
   - name: "Jessica Cregg"
     twitter: "JessicaCregg"
   - name: "Issy Long"
+    pronouns: "they/them"
     twitter: "issyl0"
     github: "issyl0"
     website: "https://issylong.com"
