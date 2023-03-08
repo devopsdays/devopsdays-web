@@ -74,8 +74,6 @@ Description = "DevOpsDays Buffalo is back for another unique conference experien
 </div>
 
 <div class="sidebar">
-<h1>Registration is now open!</h1>
-<p>Get your <a href="https://ti.to/devops-days-buffalo/2023">tickets</a> and join us for some great talks this September!</p>
 <h2>DevOps Days Buffalo is back for our fifth year!</h2>
 <p>In year one we were in a beautiful castle, and then - during the pandemic
 - we shifted to online in order to continue bringing speakers and participants together despite all odds. In year three we
@@ -92,7 +90,7 @@ and more. Additionally, they will be able to take part in group-organized “ope
 any topic selected by the group as a collective.</p>
 
 <h2>Let's Talk About COVID-19</h2>
-<p>Due to anticipated changes to the COVID-19 guidelines, we will be requiring attendees to wear masks and maintain social distancing during the event.</p>
+<p>Due to anticipated changes to the COVID-19 guidelines, we have not finalized COVID-19 related event guidelines. Our final decision will be based on Center for Disease Control and Erie County Department of Health guidelines.</p>
 <p><strong>Related:</strong></p>
 <ul>
   <li><a href="https://www.cdc.gov/coronavirus/2019-ncov/index.html" target="_blank">Center for Disease Control</a></li>
