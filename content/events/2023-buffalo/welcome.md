@@ -74,8 +74,6 @@ Description = "DevOpsDays Buffalo is back for another unique conference experien
 </div>
 
 <div class="sidebar">
-<h1>Registration is now open!</h1>
-<p>Get your <a href="https://ti.to/devops-days-buffalo/2023">tickets</a> and join us for some great talks this September!</p>
 <h2>DevOps Days Buffalo is back for our fifth year!</h2>
 <p>In year one we were in a beautiful castle, and then - during the pandemic
 - we shifted to online in order to continue bringing speakers and participants together despite all odds. In year three we
