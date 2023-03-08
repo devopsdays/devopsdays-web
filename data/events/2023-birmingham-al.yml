@@ -147,17 +147,17 @@ program:
     type: talk
     date: 2023-04-20T00:00:00-05:00
     start_time: "11:15"
-    end_time: "12:15"
+    end_time: "12:30"
     background_color: "#8ad0d3"
-  - title: "Lunch - Education Lobby"
+  - title: "Intro to Microsoft TEALS Program (Main Theater)"
     type: custom
     date: 2023-04-20T00:00:00-05:00
     start_time: "11:45"
-    end_time: "13:10"
-  - title: "Sponsors"
+    end_time: "12:00"
+  - title: "Lunch - Education Lobby"
     type: custom
     date: 2023-04-20T00:00:00-05:00
-    start_time: "13:10"
+    start_time: "12:00"
     end_time: "13:20"
   - title: "cameron-stanley"
     type: talk
