@@ -80,7 +80,7 @@ team_members: # Name is the only required field for team members.
   - name: "Issy Long"
     twitter: "issyl0"
     github: "issyl0"
-    website: "https://issylong.com"
+    mastodon: "https://hachyderm.io/@issyl0"
   - name: "Ethan Sumner"
 
 organizer_email: "london@devopsdays.org" # Put your organizer email address here
