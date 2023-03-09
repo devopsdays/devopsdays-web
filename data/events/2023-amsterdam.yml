@@ -73,12 +73,14 @@ team_members: # Name is the only required field for team members.
     role: "Sponsor Team"
 
   - name: "Yvo van Doorn"
+    pronouns: "he/him"
     linkedin: "https://www.linkedin.com/in/yvovandoorn/"
     twitter: "yvov"
     image: yvo.jpeg
     role: "Finance & Venue Team"
 
   - name: "Daniel Paulus"
+    pronouns: "he/him"
     linkedin: "https://www.linkedin.com/in/danielpaulus/"
     twitter: "dpnl87"
     website: "https://danielpaulus.com"
@@ -86,6 +88,7 @@ team_members: # Name is the only required field for team members.
     role: "Tech Team"
 
   - name: "Floor Drees"
+    pronouns: "she/her"
     linkedin: "https://www.linkedin.com/in/floordrees/"
     twitter: "FloorDrees"
     image: "floor.jpg"
@@ -98,12 +101,14 @@ team_members: # Name is the only required field for team members.
     role: "Finance & Speaker Team"
 
   - name: "Lian Li"
+    pronouns: "she/her"
     linkedin: "https://www.linkedin.com/in/lian-li"
     twitter: "lianmakesthings"
     image: "lian.jpg"
     role: "Speaker Team"
 
   - name: "Jos van Schouten"
+    pronouns: "he/him"
     linkedin: "https://www.linkedin.com/in/josvanschouten/"
     twitter: "josvanschouten"
     image: "jos.png"
