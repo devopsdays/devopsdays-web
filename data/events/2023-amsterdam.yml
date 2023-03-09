@@ -121,12 +121,14 @@ team_members: # Name is the only required field for team members.
     role: "Venue Team"
 
   - name: "Bas den Uijl"
+    pronouns: "he/him"
     linkedin: "https://www.linkedin.com/in/basdenuijl/"
     twitter: "basdenuijl"
     image: "bas.jpeg"
     role: "Sponsor & Marketing Team"
 
   - name: "Chris Lennon"
+    pronouns: "he/him"
     linkedin: "https://www.linkedin.com/in/leapyearboy/"
     image: "chris.jpeg"
     role: "Speaker Team"
