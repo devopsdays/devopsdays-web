@@ -158,9 +158,9 @@ sponsors:
     level: silver
   - id: mkdev
     level: silver
-#Starter
+# Bronze
   - id: raftech
-    level: starter 
+    level: bronze
 
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -194,6 +194,6 @@ sponsor_levels:
   - id: silver
     label: Silver
     max: 8
-  - id: starter
-    label: "Starter/Supporter"
+  - id: bronze
+    label: "Bronze"
     max: 10
