@@ -136,7 +136,7 @@ If Open Space is new to you, you may be interested in <a href="/pages/open-space
         </td>
         <td>
           <div class="program-talk">
-            <a href="4-days-week">
+            <a href="/events/2023-caceres/program/4-days-week">
               <center>
                 <p class="talk-title">How to succeed in a IT start up working only 4 days a week</p>
                 <p class="talk-speakers">Ana Jiménez Valbuena and Juan López (Clevergy)</p>
@@ -163,7 +163,7 @@ Juan López, CTO at Clevergy. He is a Software Engineer with 15 years of experie
         </td>
         <td>
           <div class="program-talk">
-            <a href="lean-ci-cd">
+            <a href="/events/2023-caceres/program/lean-ci-cd">
               <center>
                 <p class="talk-title">Lean CI-CD</p>
                 <p class="talk-speakers">María Isabel Martín Serrano (Thoughtworks)</p>
@@ -198,7 +198,7 @@ I am passionate about Technology, efficiency and effectiveness.</p>
         </td>
         <td>
           <div class="program-talk">
-            <a href="gh-copilot">
+            <a href="/events/2023-caceres/program/gh-copilot">
               <center>
                 <p class="talk-title">Human vs AI: How to ship secure code with GitHub Copilot</p>
                 <p class="talk-speakers">Joseph Katsioloudes (GitHub)</p>
@@ -221,7 +221,7 @@ His most recent contributions include video content made specifically for softwa
         </td>
         <td>
           <div class="program-talk">
-            <a href="why-my-talk">
+            <a href="/events/2023-caceres/program/why-my-talk">
               <center>
                 <p class="talk-title">“Why would anyone want to come to my talk?”</p>
                 <p class="talk-speakers">Diego Coy (Scaleway)</p>
@@ -268,7 +268,7 @@ Google Developer Expert in Web Technologies and Google Maps Platform, passionate
         </td>
         <td>
           <div class="program-talk">
-            <a href="mlops-tracing">
+            <a href="/events/2023-caceres/program/mlops-tracing">
               <center>
                 <p class="talk-title">Running Machine Learning Analytics On Traces</p>
                 <p class="talk-speakers">Fawaz Ghali (Hazelcast)</p>
@@ -315,7 +315,7 @@ Google Developer Expert in Web Technologies and Google Maps Platform, passionate
         </td>
         <td>
           <div class="program-talk">
-            <a href="cdk-cdk8s">
+            <a href="/events/2023-caceres/program/cdk-cdk8s">
               <center>
                 <p class="talk-title">Desplegando contenedores como código: un viaje por AWS CDK y CDK8s</p>
                 <p class="talk-speakers">César Prieto Ballester (AWS)</p>
@@ -338,7 +338,7 @@ Dí adiós a los yaml files y empieza a crear la Infraestructura usando lenguaje
         </td>
         <td>
           <div class="program-talk">
-            <a href="exploratory-testing">
+            <a href="/events/2023-caceres/program/exploratory-testing">
             <center>
               <p class="talk-title">Getting Best Out of Team Exploratory Testing Sessions</p>
               <p class="talk-speakers">Julia Durán (Glofox)</p>
@@ -384,7 +384,7 @@ Dí adiós a los yaml files y empieza a crear la Infraestructura usando lenguaje
         </td>
         <td>
           <div class="program-talk">
-            <a href="autonomous-teams">
+            <a href="/events/2023-caceres/program/autonomous-teams">
               <center>
                 <p class="talk-title">Mas alla del helm templating: equipos autonomos</p>
                 <p class="talk-speakers">Iván Sánchez Frutos (Clarity AI)</p>
