@@ -84,6 +84,10 @@ sponsors:
     level: gold
   - id: newrelic
     level: gold
+  - id: spectrocloud
+    level: gold
+  - id: paloaltonetworks
+    level: silver
 sponsors_accepted : "yes"
 
 # In this section, list the level of sponsorships and the label to use.
