@@ -170,6 +170,8 @@ organizer_email: "chicago@devopsdays.org" # Put your organizer email address her
 sponsors:
   - id: zoho
     level: platinum
+  - id: appdynamics
+    level: gold
   - id: circleci
     level: gold
   - id: dell-technologies
@@ -181,6 +183,8 @@ sponsors:
   - id: sleuth
     level: gold
   - id: temporal
+    level: gold
+  - id: zesty
     level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops

@@ -17,7 +17,6 @@ Description = "DevOpsDays Baltimore 2023"
     <br>
     <h3><p>{{< event_link page="registration" text="Registration is now open!" >}}</p></h3>
     <br>
-    <h3><p>{{< event_link page="propose" text="Topic proposals are now open!" >}}</p></h3>
   </div>
 </div>
 
@@ -33,7 +32,6 @@ Description = "DevOpsDays Baltimore 2023"
   </div>
 </div>
 
-
 <div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
@@ -41,7 +39,7 @@ Description = "DevOpsDays Baltimore 2023"
   <div class = "col-md-8">
     {{< event_link page="registration" text="Register to attend the conference!" >}}
   </div>
-</div> 
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -106,5 +104,4 @@ Description = "DevOpsDays Baltimore 2023"
   </div>
 </div>
 
-{{< event_twitter >}}
---------------------------
+## {{< event_twitter >}}

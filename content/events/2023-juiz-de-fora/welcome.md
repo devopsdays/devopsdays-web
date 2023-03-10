@@ -20,7 +20,7 @@ Description = "DevOpsDays Juiz De Fora 2023"
             <strong>Datas</strong>
           </div>
           <div class = "col-md-8">
-            {{< event_start >}}
+            {{< event_start >}} - {{< event_end >}}
           </div>
         </div>
         <!-- <div class = "row">
@@ -125,7 +125,7 @@ Description = "DevOpsDays Juiz De Fora 2023"
       </div>
     </div>
   </div> 
-  <div style="text-align:center; width: auto;">
+  <!-- <div style="text-align:center; width: auto;">
     {{< event_logo >}}
-  </div>
+  </div> -->
 </div>

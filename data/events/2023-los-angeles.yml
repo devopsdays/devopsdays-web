@@ -130,6 +130,8 @@ sponsors:
     level: gold
   - id: kubeevents
     level: community
+  - id: faun
+    level: community
   - id: trendmicro
     level: gold
   - id: observeinc
