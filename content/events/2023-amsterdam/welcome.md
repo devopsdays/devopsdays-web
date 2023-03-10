@@ -119,17 +119,17 @@ Description = "devopsdays Amsterdam will take place June 21-23, 2023! The group 
         </div>
       </div>
     </div>
-  </div> 
+  </div>
 
   <div class="row">
     <div class="col-12">
-      From fledgling startups to established industry,  The Netherlands is home to a large, vibrant technology community. Amsterdam, in particular, has been a flurry of activity in the past several years, drawing attention from around the globe.
+        From fledgling startups to established industry, The Netherlands is home to a large, vibrant technology community. Amsterdam, in particular, has been a flurry of activity in the past several years, drawing attention from around the globe.
       <br><br>
-      devopsdays Amsterdam brings development, operations, QA, InfoSec, management, and leadership together to discuss the culture and tools to make better organizations and products. The 2023 event will be the manieth time we have held devopsdays Amsterdam, and it should be bigger and better than ever before!
+        Devopsdays Amsterdam brings all disciplines, such as development, operations, QA, InfoSec, management, and leadership, together to discuss culture, tools and skills to make better organizations and products. The 2023 event will be the manieth time we have held devopsdays Amsterdam, and it should be bigger and better than ever before!
       <br><br>
-      We expect 600 people this year and will be holding the event on June 21-23, 2023 at the <a href="/events/2023-amsterdam/location">Pakhuis de Zwijger</a> in the center of Amsterdam.
+        We expect 600 people this year and will be holding the event on June 21-23, 2023 at the <a href="/events/2023-amsterdam/location">Pakhuis de Zwijger</a> in the center of Amsterdam.
       <br><br>
-      The format of devopsdays Amsterdam includes a single track of 30 minute talks in the morning of each event, followed by Ignite talks (5 minute, auto forwarding). We spend the rest of the afternoon in Open Spaces, which are considered a key portion of the event. For those not interested in the Open Spaces, we continue offering the single track around a specific theme (previously around Security and HumanOps).
+        The first day will be a workshop day, focusing on hands-on activities, from coding to cooperation in several parallel tracks in smaller settings. The format of the following 2 days includes a single track of 30-minute talks in the morning, followed by Ignite talks (5-minute, auto forwarding slides). There will be room for Open Spaces in the afternoon, which is considered a vital portion of the event. For those not interested in the Open Spaces, we continue offering the single track around a specific theme (this year around Compliance & Security and Platform Engineering).
     </div>
   </div>
   <div class="row">
