@@ -9,9 +9,11 @@ Description = "Sponsor devopsdays Amsterdam 2023"
 <p><a href="https://assets.devopsdays.org/events/2023/amsterdam/DevopsDays2023_Amsterdam_Prospectus.pdf">A downloadable version of our prospectus is available here.</a></p>
 </h5>
 <hr>
+<!--
 <div style="width:90%" align="center">
 {{< figure src="https://assets.devopsdays.org/events/2023/amsterdam/dodams-2023-sponsorship-packages.png" caption="devopsdays Amsterdam 2023 sponsorship packages" width="65%" link="https://assets.devopsdays.org/events/2023/amsterdam/DevopsDays2023_Amsterdam_Prospectus.pdf" >}}
 </div>
+-->
 <br/>
 
 <hr>
