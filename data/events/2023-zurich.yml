@@ -176,6 +176,8 @@ sponsors:
     level: bronze
   - id: digitaladvisorygroup
     level: bronze
+  - id: glenfis
+    level: bronze
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
