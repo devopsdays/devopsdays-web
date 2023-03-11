@@ -442,7 +442,7 @@ Dí adiós a los yaml files y empieza a crear la Infraestructura usando lenguaje
       <tr>
         <td>
           <div class="time-slot">
-            <center>16:15 - 16:45</center>
+            <center>15:45 - 16:15</center>
           </div>
         </td>
         <td>
@@ -459,7 +459,7 @@ Dí adiós a los yaml files y empieza a crear la Infraestructura usando lenguaje
       <tr style="line-height:8rem;">
         <td>
           <div class="time-slot">
-            <center>16:45 - 17:30</center>
+            <center>16:15 - 17:30</center>
           </div>
         </td>
         <td>
