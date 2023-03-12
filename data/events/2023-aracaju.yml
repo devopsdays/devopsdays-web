@@ -19,7 +19,7 @@ cfp_date_start: "2023-01-23T00:00:00-03:00" #2019-09-17T00:09:00-03:00 # start a
 cfp_date_end:  "2023-03-10T23:59:59-03:00" #2019-10-25T00:09:00-03:00 # close your call for proposals.
 cfp_date_announce: "2023-01-23T00:00:00-03:00" #2019-10-20T00:09:00-03:00 # inform proposers of status
 
-cfp_open: "open"
+cfp_open: "false"
 
 cfp_link: "https://www.papercall.io/dodaju2023" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
