@@ -149,6 +149,11 @@ sponsors:
     level: gold
   - id: elastic
     level: gold
+  - id: kosli
+    level: gold 
+# Lanyard
+  - id: schubergphilis
+    level: lanyard
 # Silver
   - id: wiz
     level: silver
