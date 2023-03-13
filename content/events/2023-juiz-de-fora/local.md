@@ -1,7 +1,7 @@
 +++
 Title = "Local"
 Type = "event"
-Description = "Local para DevOps Days Juiz De Fora 2023"
+Description = "Local para DevOpsDays Juiz De Fora 2023"
 +++
 
 O evento será sediado no UniAcademia.

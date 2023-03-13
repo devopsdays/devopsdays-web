@@ -13,7 +13,7 @@ Basta acessar e seguir as instruções em [https://www.papercall.io/devopsdaysju
 
 <h3>Tipos de apresentações</h3>
 
-Há dois tipos de de apresentações no DevOps Days de Juiz de Fora 2023:
+Há dois tipos de de apresentações no DevOpsDays de Juiz de Fora 2023:
 <ol>
   <li><strong>Palestras:</strong> 30 minutos (25 minutos de palestra + 5 minutos para perguntas) apresentadas durante a conferência.</li>
   <li><strong>Open Spaces:</strong> Não é necessário propor um tema antes, somente à disponibilidade durante o evento para facilitar a execução. As pessoas participantes do evento serão convidadas a propor temas assim como participar de pequenos grupos para discutir cada tema. Usualmente existe uma pessoa facilitadora que estabelece regras ou normas, mas esta não é uma líder oficial da discussão.</li>

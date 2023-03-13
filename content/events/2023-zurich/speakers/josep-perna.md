@@ -1,5 +1,5 @@
 +++
-Title = "Manuel Felipe Hintermayr"
+Title = "Josep Perna"
 image = "josep-perna.jpg"
 linktitle = "josep-perna"
 type = "speaker"

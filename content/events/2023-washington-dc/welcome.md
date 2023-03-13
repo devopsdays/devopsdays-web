@@ -88,6 +88,8 @@ Description = "devopsdays Washington, D.C. 2023"
 
 <p>We're planning all the things so check back here for more information on sponsorships, registration, and the CFP.</p>
 
+We're also excited to be teaming up with Kubernetes Community Day DC who will be hosting their [event on Septemeber 12, 2023](https://community.cncf.io/events/details/cncf-kcd-washington-dc-presents-kubernetes-community-days-washington-dc-2023/)! Whether you are a developer, ops pro, system engineer, or any other IT professional excited about cloud native technologies, Kubernetes Community Days DC (KCD DC) will have something for you. Supported by the Cloud Native Computing Foundation, their 2023 event will be hosted at the historic national headquarters of the American Red Cross. This full-day conference will focus on knowledge sharing, best practices, and new developments in and around Kubernetes.
+
 Follow us on [Twitter](https://twitter.com/DevOpsDaysDC) or [LinkedIn](https://www.linkedin.com/company/devopsdays-dc/) to get all the latest updates and announcements.
 
 <br>

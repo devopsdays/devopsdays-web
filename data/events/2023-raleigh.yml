@@ -402,16 +402,11 @@ program:
     date: 2023-04-13
     start_time: "15:00"
     end_time: "15:45"
-  - title: "Break"
-    type: custom
-    date: 2023-04-13
-    start_time: "15:45"
-    end_time: "16:15"
   - title: "Raffle/Close Day"
     type: custom
     date: 2023-04-13
-    start_time: "16:15"
-    end_time: "16:30"
+    start_time: "15:45"
+    end_time: "16:00"
 
 ignites:
   - title: "jen-wike-huger-ignite"
