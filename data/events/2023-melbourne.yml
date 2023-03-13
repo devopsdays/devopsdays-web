@@ -92,16 +92,24 @@ sponsors:
   - id: anz
     level: gold
     url: https://www.anz.com.au/personal
-  - id: azenix
-    level: silver
-  - id: azenix
-    level: lanyard
   - id: buildkite
     level: bronze
   - id: cipherstash
     level: silver
   - id: circleci
     level: gold
+  - id: mantelgroup
+    level: silver
+  - id: mantelgroup
+    level: lanyard
+  - id: pagerduty
+    level: gold
+  - id: parallo
+    level: bronze
+  - id: telstrapurple
+    level: bronze
+  - id: zerocube
+    level: avproduction
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -126,55 +134,58 @@ sponsor_levels:
   - id: coffeecart
     label: Coffee Cart
     max: 1
+  - id: avproduction
+    label: A/V Production
+    max: 1
     
 program:
   - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2023-03-16T00:00:00+10:00
     start_time: "09:00"
-    end_time: "09:39"
+    end_time: "09:40"
   - title: "Opening Welcome"
     type: custom
     date: 2023-03-16T00:00:00+10:00
     start_time: "09:40"
-    end_time: "09:49"
-  - title: "Presentation 1"
-    type: custom
+    end_time: "09:50"
+  - title: "mirco-hering"
+    type: talk
     date: 2023-03-16T00:00:00+10:00
     start_time: "09:50"
-    end_time: "10:19"
+    end_time: "10:20"
   - title: "dylan-mccarthy"
     type: talk
     date: 2023-03-16T00:00:00+10:00
-    start_time: "10:20"
-    end_time: "10:59"
+    start_time: "10:25"
+    end_time: "10:55"
   - title: "Morning Tea Break"
     type: custom
     date: 2023-03-16T00:00:00+10:00
     start_time: "11:00"
-    end_time: "11:29"
+    end_time: "11:30"
   - title: "peter-chestna"
     type: talk
     date: 2023-03-16T00:00:00+10:00
     start_time: "11:30"
-    end_time: "11:59"
+    end_time: "12:00"
   - title: "Lightning Talk Pitch Sessions"
     type: custom
     date: 2023-03-16T00:00:00+10:00
     start_time: "12:00"
-    end_time: "12:29"
+    end_time: "12:30"
   - title: "Lunch Break"
     type: custom
     date: 2023-03-16T00:00:00+10:00
     start_time: "12:30"
-    end_time: "13:29"
+    end_time: "13:30"
   - title: "Lightning Talks"
     type: custom
     date: 2023-03-16T00:00:00+10:00
     start_time: "13:30"
-    end_time: "13:59"
+    end_time: "14:00"
   - title: "Open Spaces"
-    type: custom
+    type: open-space
     date: 2023-03-16T00:00:00+10:00
     start_time: "14:00"
     end_time: "15:00"
@@ -182,17 +193,17 @@ program:
     type: custom
     date: 2023-03-16T00:00:00+10:00
     start_time: "15:00"
-    end_time: "15:14"
+    end_time: "15:15"
   - title: "Lightning Talks"
     type: custom
     date: 2023-03-16T00:00:00+10:00
     start_time: "15:15"
-    end_time: "15:44"
+    end_time: "15:45"
   - title: "Open Spaces"
-    type: custom
+    type: open-space
     date: 2023-03-16T00:00:00+10:00
     start_time: "15:45"
-    end_time: "16:44"
+    end_time: "16:45"
   - title: "Closing"
     type: custom
     date: 2023-03-16T00:00:00+10:00
@@ -202,49 +213,49 @@ program:
     type: custom
     date: 2023-03-17T00:00:00+10:00
     start_time: "09:00"
-    end_time: "09:39"
+    end_time: "09:40"
   - title: "Opening Welcome"
     type: custom
     date: 2023-03-17T00:00:00+10:00
     start_time: "09:40"
-    end_time: "09:49"
-  - title: "Presentation 1"
-    type: custom
+    end_time: "09:50"
+  - title: "daniel-bradby-and-jane-nguyen"
+    type: talk
     date: 2023-03-17T00:00:00+10:00
     start_time: "09:50"
-    end_time: "10:19"
+    end_time: "10:20"
   - title: "damian-brady"
     type: talk
     date: 2023-03-17T00:00:00+10:00
-    start_time: "10:20"
-    end_time: "10:59"
+    start_time: "10:25"
+    end_time: "10:55"
   - title: "Morning Tea Break"
     type: custom
     date: 2023-03-17T00:00:00+10:00
     start_time: "11:00"
-    end_time: "11:29"
-  - title: "javier-turegano"
+    end_time: "11:30"
+  - title: "javier-turegano-and-leoren-tanyag-tesaluna"
     type: talk
     date: 2023-03-17T00:00:00+10:00
     start_time: "11:30"
-    end_time: "11:59"
+    end_time: "12:00"
   - title: "Lightning Talk Pitch Sessions"
     type: custom
     date: 2023-03-17T00:00:00+10:00
     start_time: "12:00"
-    end_time: "12:29"
+    end_time: "12:30"
   - title: "Lunch Break"
     type: custom
     date: 2023-03-17T00:00:00+10:00
     start_time: "12:30"
-    end_time: "13:29"
+    end_time: "13:30"
   - title: "Lightning Talks"
     type: custom
     date: 2023-03-17T00:00:00+10:00
     start_time: "13:30"
-    end_time: "13:59"
+    end_time: "14:00"
   - title: "Open Spaces"
-    type: custom
+    type: open-space
     date: 2023-03-17T00:00:00+10:00
     start_time: "14:00"
     end_time: "15:00"
@@ -252,17 +263,17 @@ program:
     type: custom
     date: 2023-03-17T00:00:00+10:00
     start_time: "15:00"
-    end_time: "15:14"
+    end_time: "15:15"
   - title: "Lightning Talks"
     type: custom
     date: 2023-03-17T00:00:00+10:00
     start_time: "15:15"
-    end_time: "15:44"
+    end_time: "15:45"
   - title: "Open Spaces"
-    type: custom
+    type: open-space
     date: 2023-03-17T00:00:00+10:00
     start_time: "15:45"
-    end_time: "16:44"
+    end_time: "16:45"
   - title: "Closing"
     type: custom
     date: 2023-03-17T00:00:00+10:00

@@ -70,7 +70,28 @@ organizer_email: "denver@devopsdays.org"
 sponsors_accepted: "yes"
 
 sponsors:
-
+  - id: sleuth
+    level: gold
+  - id: zoho
+    level: gold
+  - id: temporal
+    level: gold
+  - id: cloudbees
+    level: gold
+  - id: appdynamics
+    level: gold
+  - id: vmware-tanzu
+    level: gold
+  - id: portworx
+    level: silver
+  - id: paloaltonetworks
+    level: silver
+  - id: couchbase
+    level: silver
+  - id: datavail
+    level: silver
+  - id: releaseteam
+    level: supporter
 
 sponsor_levels:
   - id: gold

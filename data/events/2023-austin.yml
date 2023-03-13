@@ -27,7 +27,7 @@ registration_date_start: # start accepting registration. Leave blank if registra
 registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.eventbrite.com/e/devopsdays-austin-2023-tickets-528911387197" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -155,8 +155,18 @@ sponsors:
     level: gold
   - id: prosper-ops
     level: gold
+  - id: catchpoint-2023
+    level: gold
+  - id: site24x7
+    level: gold
+  - id: cloudbees
+    level: gold
+  - id: vmware-tanzu-horiz
+    level: lanyard  
+  - id: tailscale-black
+    level: coffee  
 
-sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For

@@ -120,8 +120,11 @@ Description = "DevOpsDays Cáceres 2023"
     <div class="d-flex flex-row">
       <div class="col-md-12">
         <div class="d-flex p-2">
-          <a class="btn btn-secondary btn-block button-secondary" target="_blank" href="https://docs.google.com/forms/d/16So5MiAK1gx67n8030MKQkJcyQQq8rOXcJyuTbbjBXw/edit"> <i class="fa fa-paper-plane-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Call for Papers</a>
+          <a class="btn btn-secondary btn-block button-secondary" target="_blank" href="https://www.eventbrite.es/e/devopsdays-caceres-2023-tickets-536386545597"> <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;BUY TICKETS HERE!</a>
         </div>
+        <!-- <div class="d-flex p-2">
+          <a class="btn btn-secondary btn-block button-secondary" target="_blank" href="https://docs.google.com/forms/d/16So5MiAK1gx67n8030MKQkJcyQQq8rOXcJyuTbbjBXw/edit"> <i class="fa fa-paper-plane-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Call for Papers</a>
+        </div> -->
         <div class="d-flex p-2">
           <a class="btn btn-secondary btn-block button-secondary" href="/events/2023-caceres/sponsor"> <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference</a>
         </div>
@@ -163,14 +166,14 @@ Description = "DevOpsDays Cáceres 2023"
   </div>
 </div>
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     <a target="_blank" href="https://docs.google.com/forms/d/16So5MiAK1gx67n8030MKQkJcyQQq8rOXcJyuTbbjBXw/edit">Propose a talk!</a>
   </div>
-</div>
+</div> -->
 
 <!-- Uncomment if you added your city twitter name -->
 

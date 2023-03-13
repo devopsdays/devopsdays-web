@@ -185,7 +185,7 @@ sponsors:
     level: platinum
   - id: splunk
     level: platinum
-  - id: appdynamics
+  - id: appdynamics-before-20230221
     level: gold
   - id: xmatters
     level: gold

@@ -1,7 +1,7 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_date = "2023-04-20"
+Talk_start_time = "9:10"
+Talk_end_time = "9:55"
 Title = "Modern Governance and the Service Mesh"
 Type = "talk"
 Speakers = ["john-willis"]

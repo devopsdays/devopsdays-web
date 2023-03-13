@@ -30,22 +30,23 @@ cfp_open: "false"
 # registration_date_end: 2023-06-01T01:59:59-06:00     # close registration. Leave blank if registration is not open yet.
 
 # registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-# registration_link: "https://www.slcdevopsdays.org/purchase-tickets/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://slcdevopsdays.org/conference" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
 # coordinates: "40.574494, -111.9022692" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-# location: "Miller Conference Center"  # Defaults to city, but you can make it the venue name.
-#
-# location_address: "9750 S 300 W Sandy UT 84070" # Optional - use the street address of your venue. This will show up on the welcome page if set.
+location: "Conference Center at Miller Campus"  # Defaults to city, but you can make it the venue name.
+location_address: "9750 S 300 W Sandy UT 84070" # Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
 #   - name: slcdevopsdays.org
 #     url: https://www.slcdevopsdays.org
   # - name: propose
   # - name: location
-  # - name: registration
-  # - name: program
+  - name: registration
+    url: https://slcdevopsdays.org/conference
+  - name: program
+    url: https://saltlakecitydevopsdays2023.sched.com/
   # - name: speakers
   # - name: sponsor
   - name: contact
@@ -82,7 +83,7 @@ team_members: # Name is the only required field for team members.
       linkedin: "https://www.linkedin.com/in/claiton-weeks/"
       twitter: "vsc_sre"
     - name: "Alex Bilimoria"
-      employer:  "Vacasa"             # "Senior Software Engineer"
+      employer:  "Quotient Technology"             # "Senior Software Engineer"
       linkedin: "https://www.linkedin.com/in/alex-c-bilimoria/"
     - name: "Andrea Lewis"
       employer: "Domo"                # "Principal Release Manager"

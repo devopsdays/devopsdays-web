@@ -4,7 +4,7 @@ Type = "event"
 Description = "Sponsor DevOpsDays Nashville 2023"
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
+<!--We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}]. -->
 
 <p>
 
@@ -25,19 +25,17 @@ Gold sponsors get a full table and Silver sponsors a shared table where they can
 The best thing to do is send engineers to interact with the experts at devopsdays on their own terms.
 <p>
 
+<!-- 
 <div class = "row">
   <div class = "col-md-12">
     <div class = "row justify-content-center">
       <div class = "d-flex p-2">
           <a class="btn btn-secondary btn-block" href="https://drive.google.com/file/d/1dBnUaT6vLc6Nc_3Dj7QsMoDMtC4Csvw5/view?usp=share_link"> <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Learn more about Sponsorship</a>
       </div>
-      <!-- <div class = "d-flex p-2">
-          <a class="btn btn-secondary btn-block" href="/events/2021-birmingham/sponsor"> <i class="fa fa-envelope fa-lg"></i>&nbsp;&nbsp;&nbsp;Contact about Sponsorship</a>
-      </div> -->
     </div>
   </div>
 </div>
-
+-->
 
 <!-- 
 <hr/>

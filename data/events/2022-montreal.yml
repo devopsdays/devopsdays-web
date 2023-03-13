@@ -19,12 +19,12 @@ cfp_date_start: 2022-02-25T17:00:00-04:00 # start accepting talk proposals.
 cfp_date_end: 2022-04-30T17:00:00-04:00 # close your call for proposals.
 cfp_date_announce: # inform proposers of status
 
-cfp_link: "https://docs.google.com/forms/d/e/1FAIpQLSf4qwC-lcdymPpvd15hUFqR6lVDABvXXcFNZrIwvNeugG7MgQ/viewform" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+#cfp_link: "https://docs.google.com/forms/d/e/1FAIpQLSf4qwC-lcdymPpvd15hUFqR6lVDABvXXcFNZrIwvNeugG7MgQ/viewform" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2022-08-15T00:00:00-04:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 registration_date_end: 2022-10-27T00:00:00-04:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
-registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_closed: "true" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://www.eventbrite.ca/e/billets-devopsdays-montreal-2022-59525692950" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 
@@ -168,7 +168,7 @@ sponsors:
     url: https://www.f5.com
   - id: elastic
     level: silver
-  - id: appdynamics
+  - id: appdynamics-before-20230221
     level: bronze
   - id: gologic
     level: bronze

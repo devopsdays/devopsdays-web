@@ -50,8 +50,8 @@ location_address: "201 5th Avenue South, Nashville, TN 37203" #Optional - use th
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: registration
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: location
   - name: contact
   - name: sponsor
@@ -165,12 +165,17 @@ sponsors:
    level: silver
  - id: cloudbees
    level: gold
-# Uncomment once we get a logo
-#  - id: saltworks
-#    level: gold
+ - id: ustglobal
+   level: gold
+ - id: spot-by-netapp
+   level: silver
+ - id: insightfinder
+   level: silver
+ - id: saltworks
+   level: gold
 
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
