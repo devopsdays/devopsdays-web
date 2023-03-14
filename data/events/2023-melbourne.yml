@@ -35,8 +35,8 @@ location_address: "100 St Kilda Rd, Melbourne VIC 3004" #Optional - use the stre
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
-# - name: propose
-#   url: "https://ti.to/devopsaustralia/melbourne-2023"
+  # - name: propose
+  #   url: "https://ti.to/devopsaustralia/melbourne-2023"
   - name: sponsor
   - name: program
   - name: speakers
@@ -47,7 +47,6 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
-
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
@@ -113,7 +112,7 @@ sponsors:
   - id: zerocube
     level: avproduction
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -139,7 +138,7 @@ sponsor_levels:
   - id: avproduction
     label: A/V Production
     max: 1
-    
+
 program:
   - title: "Registration, Breakfast, Sponsors"
     type: custom
@@ -171,7 +170,7 @@ program:
     date: 2023-03-16T00:00:00+10:00
     start_time: "11:30"
     end_time: "12:00"
-  - title: "Lightning Talk Pitch Sessions"
+  - title: "Open Space Pitch Session"
     type: custom
     date: 2023-03-16T00:00:00+10:00
     start_time: "12:00"
@@ -211,6 +210,11 @@ program:
     date: 2023-03-16T00:00:00+10:00
     start_time: "16:45"
     end_time: "17:00"
+  - title: "Evening Event @ Ballers Clubhouse"
+    type: workshop
+    date: 2023-03-16T00:00:00+10:00
+    start_time: "17:00"
+    end_time: "Late"
   - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2023-03-17T00:00:00+10:00
@@ -241,7 +245,7 @@ program:
     date: 2023-03-17T00:00:00+10:00
     start_time: "11:30"
     end_time: "12:00"
-  - title: "Lightning Talk Pitch Sessions"
+  - title: "Lightning Talk / Open Space Pitch Session"
     type: custom
     date: 2023-03-17T00:00:00+10:00
     start_time: "12:00"
@@ -281,8 +285,3 @@ program:
     date: 2023-03-17T00:00:00+10:00
     start_time: "16:45"
     end_time: "17:00"
-  - title: "Evening Event @ Ballers Clubhouse"
-    type: custom
-    date: 2023-03-17T00:00:00+10:00
-    start_time: "17:00"
-    end_time: "Late"
