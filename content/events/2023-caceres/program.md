@@ -10,36 +10,46 @@ icons = "TRUE"
     color: white;
     background-color: #383838;
   }
-  .time-slot.talk {
+  .time-slot.talk, .time-slot.keynote {
     margin-top: 25%;
   }
   .special-activity {
     background-color: #e9ecef;
   }
-  .program-talk.tbd {
+  .special-activity.keynote p, .special-activity.keynote h5 {
+    color: black;
+  }
+  .program-talk.tbd, .special-activity.tbd {
     margin-top: 8%;
   }
-  .program-talk {
+  .program-talk, .special-activity.keynote {
     margin: 1%;
+  }
+  .special-activity.keynote:hover {
+    cursor: pointer;
+    background-color: lightgrey;
   }
   .program-talk:hover {
     cursor: pointer;
     background-color: #6fb7cd;
   }
-  .program-talk:hover > center {
+  .program-talk:hover > center, .special-activity.keynote:hover > center {
     text-decoration: underline;
   }
-  .program-talk:hover > a > div {
+  .program-talk:hover > a > div, .special-activity.keynote:hover > a > div {
     display: block;
   }
-  .talk-title {
+  .talk-title, .keynote-title {
     font-weight: bold;
   }
   .talk-language-level {
     display: inline-block;
     margin-left: 10px;
   }
-  .talk-details-hover {
+  .keynote-details-hover {
+    margin-top: -1%;
+  }
+  .talk-details-hover, .keynote-details-hover {
     display: none;
     position: absolute;
     z-index: 100;
@@ -107,24 +117,41 @@ If Open Space is new to you, you may be interested in <a href="/pages/open-space
         </td>
         <td>
           <div class="special-activity">
-            <center> </center>
+            <center>Coffee</center>
           </div>
         </td>
       </tr>
       <tr>
         <td>
-          <div class="time-slot">
+          <div class="time-slot keynote">
             <center>9:00 - 9:45</center>
           </div>
         </td>
         <td>
-          <div class="special-activity">
-            <center>Keynote</center>
+          <div class="special-activity tbd">
+            <center>Keynote (TBD)</center>
           </div>
         </td>
         <td>
-          <div class="special-activity">
-            <center>Keynote</center>
+          <div class="special-activity keynote">
+            <a href="/events/2023-caceres/program/keynote-waterfall-drowned">
+              <center>
+                <p>Keynote</p>
+                <p class="keynote-title">Waterfall Drowned my Company: a Story of Queer and DevOps (or the Lack Thereof)</p>
+                <p class="keynote-speakers">Fran Rodríguez Prados</p>
+              </center>
+              <div class="keynote-details-hover">
+                <h5>Talk description</h5>
+                <p>Once upon a time, there was a company that embraced Agilism and DevOps to the bone. But then one day, anti-patterns started popping up like mushrooms. Suddenly, there was a 2-year long waterfall process going on, delivery was stopped and a once flourishing company was one step closer to bankruptcy.
+
+How could this happen? Wasn’t waterfall a thing of the past? How is this all related to Queer Theories and toxic masculinity patterns?
+
+Using this story as a study case, we will review why the DevOps culture not only grants better delivery, but also happier teams, better grounds for diversity, and less anxious alpha males.</p>
+                <hr>
+                <h5>About the speakers</h5>
+                <p>Ente no binario que actualmente hace algo parecido a MLOps. Me encargo de recordar a mis compis que somos sentimientos y tenemos seres humanos. Funciona medio bien.</p>
+              </div>
+            </a>
           </div>
         </td>
       </tr>
@@ -198,9 +225,9 @@ I am passionate about Technology, efficiency and effectiveness.</p>
         </td>
         <td>
           <div class="program-talk">
-            <a href="/events/2023-caceres/program/gh-copilot">
+            <a href="/events/2023-caceres/program/ai-secure-code">
               <center>
-                <p class="talk-title">Human vs AI: How to ship secure code with GitHub Copilot</p>
+                <p class="talk-title">Human vs AI: How to ship secure code</p>
                 <p class="talk-speakers">Joseph Katsioloudes (GitHub)</p>
                 <div>
                   <i class="fa fa-language fa-lg"></i><span class="talk-language-level">English</span>
@@ -209,7 +236,9 @@ I am passionate about Technology, efficiency and effectiveness.</p>
               </center>
               <div class="talk-details-hover">
                 <h5>Talk description</h5>
-                <p>Artificial intelligence is already acting as a copilot in our daily lives, by helping as a digital assistant or by providing personalized experiences. Despite progress in other areas, historically AI has stopped short of improving software development. For the first time in the history of software, GitHub Copilot distills the collective knowledge of the world’s developers into an editor extension that suggests code in real time. This makes the process of building great software easier and faster… but what about more secure? In this session, we’ll show how we can help developers to write more secure code by using GitHub Copilot. We will demo real-world use cases and will provide tips from our lessons learned when experimenting with the tool.</p>
+                <p>Artificial intelligence (AI) is already acting as a copilot in our daily lives, acting as a digital assistant or providing personalized experiences. Despite progress in many other areas, AI has historically stopped short of improving software development practices. Enter GitHub Copilot: the software industry's first artificial intelligence solution that distills the collective knowledge of the world's developers into an editor extension that suggests code in real time. ChatGPT then took the world by storm with its conversational capabilities and public reactions have been quite telling.
+
+This makes the process of building great software easier and faster, but what about more secure? In this session, we'll demonstrate how GitHub Copilot and ChatGPT can help developers write more secure code through real-world use cases. The audience will come away with tips and best practices from the lessons we learned from experimenting with the tools.</p>
                 <hr>
                 <h5>About the speaker</h5>
                 <p>Joseph Katsioloudes and his team at the GitHub Security Lab work at the forefront of Open Source Security that they shape every day through research and education. Joseph chose this career path because from a very young age, security was his own way to provide ethical and dedicated service to organisations and the society as a whole. He holds two engineering degrees, a Bachelors of Engineering in Computing from Imperial College London and a Masters in Cyber Security Engineering from the University of Warwick.
