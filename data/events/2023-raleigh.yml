@@ -142,8 +142,6 @@ sponsors:
     level: gold
   - id: progresschef
     level: gold
-  - id: telemetryhub
-    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
