@@ -317,22 +317,24 @@ Google Developer Expert in Web Technologies and Google Maps Platform, passionate
           </div>
         </td>
         <td>
-          <div class="program-talk tbd">
-            <center>
-              <p class="talk-title"> </p>
-              <p class="talk-speakers">TBD</p>
-              <div style="display:none;">
-                <i class="fa fa-language fa-lg"></i><span class="talk-language-level">English</span>
-                <i class="fa fa-bar-chart fa-lg" style="margin-left: 15px;"></i><span class="talk-language-level">Medium</span>
+          <div class="program-talk">
+            <a href="/events/2023-caceres/program/sre-observability">
+              <center>
+                <p class="talk-title">Overcoming SRE Anti-Pattern Roadblocks: Lack of Observability</p>
+                <p class="talk-speakers">Ricardo Castro (FanDuel)</p>
+                <div>
+                  <i class="fa fa-language fa-lg"></i><span class="talk-language-level">English</span>
+                  <i class="fa fa-bar-chart fa-lg" style="margin-left: 15px;"></i><span class="talk-language-level">Medium</span>
+                </div>
+              </center>
+              <div class="talk-details-hover">
+                <h5>Talk description</h5>
+                <p>This talk will explore the anti-pattern of having poor on inexistent observability. It will go into detail on how the lack of observability and system understanding can hinder SRE practices. It will also go into detail about poor alerting practices, alert fatigue, and burnout.</p>
+                <hr>
+                <h5>About the speaker</h5>
+                <p>Principal Site Reliability Engineer at FanDuel/Blip.pt. MSc in Computer Science by the University of Porto. CK{AD, A, S} by Cloud Native Computing Foundation (CNCF) | Linux Foundation. {Terraform, Consul, Vault} Associate by HashiCorp. Working daily to build high-performance, reliable and scalable systems. DevOps Porto meetup co-organizer and DevOpsDays Portugal co-organizer. A strong believer in culture and teamwork. Open source passionate, martial arts amateur, and metal lover.</p>
               </div>
-            </center>
-            <div class="talk-details-hover">
-              <h5>Talk description</h5>
-              <p>TBD</p>
-              <hr>
-              <h5>About the speaker</h5>
-              <p>TBD</p>
-            </div>
+            </a>
           </div>
         </td>
       </tr>
@@ -393,22 +395,24 @@ Dí adiós a los yaml files y empieza a crear la Infraestructura usando lenguaje
           </div>
         </td>
         <td>
-          <div class="program-talk tbd">
-            <center>
-              <p class="talk-title"> </p>
-              <p class="talk-speakers">TBD</p>
-              <div style="display:none;">
-                <i class="fa fa-language fa-lg"></i><span class="talk-language-level">English</span>
-                <i class="fa fa-bar-chart fa-lg" style="margin-left: 15px;"></i><span class="talk-language-level">Medium</span>
+          <div class="program-talk">
+            <a href="/events/2023-caceres/program/road-to-production">
+              <center>
+                <p class="talk-title">Deployment pipeline as the Road To Production</p>
+                <p class="talk-speakers">Eduardo Piairo (Devoteam)</p>
+                <div>
+                  <i class="fa fa-language fa-lg"></i><span class="talk-language-level">English</span>
+                  <i class="fa fa-bar-chart fa-lg" style="margin-left: 15px;"></i><span class="talk-language-level">Medium</span>
+                </div>
+              </center>
+              <div class="talk-details-hover">
+                <h5>Talk description</h5>
+                <p>What should be the anatomy of my deployment pipeline? How can my deployment pipeline support applications, infrastructure, and data through the road to production? If you thought or have to answer these questions this session is for you. I will share the principles that make a deployment pipeline an effective pipeline covering the different challenges through the different stages of the pipeline: version control, continuous integration, and continuous delivery. The main focus is on the principles instead of on tools, and that's on purpose.</p>
+                <hr>
+                <h5>About the speaker</h5>
+                <p>Principal DevOps Engineer @ Devoteam that enjoys building software, pipelines, and communities. The deployment pipeline is his favorite technical and cultural tool. AnythingOps approach enthusiast.</p>
               </div>
-            </center>
-            <div class="talk-details-hover">
-              <h5>Talk description</h5>
-              <p>TBD</p>
-              <hr>
-              <h5>About the speaker</h5>
-              <p>TBD</p>
-            </div>
+            </a>
           </div>
         </td>
         <td>
