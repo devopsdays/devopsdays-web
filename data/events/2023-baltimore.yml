@@ -108,9 +108,13 @@ sponsors:
     level: media
   - id: bmore_code_and_coffee
     level: community
+  - id: "newrelic"
+    level: happyhour
   - id: "540"
     level: gold
   - id: "clarity"
+    level: gold
+  - id: "newrelic"
     level: gold
   # - id: appdynamics-before-20220714
   #   level: platinum
