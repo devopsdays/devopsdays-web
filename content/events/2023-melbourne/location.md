@@ -14,7 +14,7 @@ We are excited to share with you that devopsdays Melbourne 2023 will take place 
 </p1    >
 <h1>Evening event</h1>
 
-A the conclusion of DevOpsDays Melbourne 2023, the community networking and fun of continues at <a href="https://www.ballersclubhouse.com.au/">Ballers Clubhouse</a>. To get to <a href="https://goo.gl/maps/MX5spQ1Ek4x4FcNF6">Ballers from the Art Centre</a>, hop on any north-bound Tram outside of the Art Centre and exit at the Bourke St Mall stop
+At the conclusion of DevOpsDays Melbourne 2023, the community networking and fun of continues at <a href="https://www.ballersclubhouse.com.au/">Ballers Clubhouse</a>. To get to <a href="https://goo.gl/maps/MX5spQ1Ek4x4FcNF6">Ballers from the Art Centre</a>, hop on any north-bound Tram outside of the Art Centre and exit at the Bourke St Mall stop
 
 <h2>Ballers Clubhouse</h2>
 <b>2 Coverlid Pl, Melbourne VIC 3000</b>
