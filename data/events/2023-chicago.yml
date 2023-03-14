@@ -170,6 +170,8 @@ organizer_email: "chicago@devopsdays.org" # Put your organizer email address her
 sponsors:
   - id: zoho
     level: platinum
+  - id: newrelic
+    level: platinum
   - id: appdynamics
     level: gold
   - id: circleci
