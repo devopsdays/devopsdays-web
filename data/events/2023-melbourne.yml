@@ -106,6 +106,8 @@ sponsors:
     level: gold
   - id: parallo
     level: bronze
+  - id: rea-group
+    level: community
   - id: telstrapurple
     level: bronze
   - id: zerocube
@@ -279,3 +281,8 @@ program:
     date: 2023-03-17T00:00:00+10:00
     start_time: "16:45"
     end_time: "17:00"
+  - title: "Evening Event @ Ballers Clubhouse"
+    type: custom
+    date: 2023-03-17T00:00:00+10:00
+    start_time: "17:00"
+    end_time: "Late"
