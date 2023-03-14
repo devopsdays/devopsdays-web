@@ -2,7 +2,7 @@ name: "2023-caceres" # The name of the event. Four digit year with the city name
 year: "2023" # The year of the event. Make sure it is in quotes.
 city: "Cáceres" # The displayed city name of the event. Capitalize it.
 event_twitter: "DevOpsDaysCC" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "Devopsdays is coming back to Cáceres!" # Edit this to suit your preferences
+description: "DevOpsDays is coming back to Cáceres!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 masthead_background: "welcome-banner.jpg"
 
@@ -37,6 +37,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   # - name: propose
   #   url: https://docs.google.com/forms/d/16So5MiAK1gx67n8030MKQkJcyQQq8rOXcJyuTbbjBXw/edit
   - name: program
+  - name: speakers
   - name: location
   - name: sponsor
   - name: contact
@@ -106,6 +107,8 @@ organizer_email: "caceres@devopsdays.org" # Put your organizer email address her
 sponsors:
   - id: sngular-2023
     level: gold
+  - id: oeste-digital
+    level: silver
   - id: metrika-media
     level: bronze
   - id: worldline
