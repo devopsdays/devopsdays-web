@@ -213,7 +213,7 @@ program:
   - title: "Evening Event @ Ballers Clubhouse"
     type: custom
     date: 2023-03-16T00:00:00+10:00
-    start_time: "17:00"
+    start_time: "18:00"
     end_time: "Late"
   - title: "Registration, Breakfast, Sponsors"
     type: custom
