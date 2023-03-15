@@ -110,12 +110,16 @@ sponsors:
     level: gold
   - id: arresteddevops
     level: community
+  - id: appdynamics
+    level: gold
   - id: azul
     level: gold
   - id: cloudbees
     level: gold
   - id: cprime
     level: platinum
+  - id: cyberark
+    level: gold
   - id: datadog
     level: platinum
   - id: dell-technologies
