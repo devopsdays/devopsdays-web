@@ -140,8 +140,8 @@ program:
   - title: "gene-gotimer"
     type: talk
     date: 2023-04-24T00:00:00-06:00
-    start_time: "10:50"
-    end_time: "11:20"
+    start_time: "10:55"
+    end_time: "11:25"
   - title: "sharon-goldberg"
     type: talk
     date: 2023-04-24T00:00:00-06:00
