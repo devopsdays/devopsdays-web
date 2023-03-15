@@ -396,9 +396,9 @@ Dí adiós a los yaml files y empieza a crear la Infraestructura usando lenguaje
         </td>
         <td>
           <div class="program-talk">
-            <a href="/events/2023-caceres/program/road-to-production">
+            <a href="/events/2023-caceres/program/database-changes">
               <center>
-                <p class="talk-title">Deployment pipeline as the Road To Production</p>
+                <p class="talk-title">Why and how to include database changes in the deployment pipeline</p>
                 <p class="talk-speakers">Eduardo Piairo (Devoteam)</p>
                 <div>
                   <i class="fa fa-language fa-lg"></i><span class="talk-language-level">English</span>
@@ -407,7 +407,9 @@ Dí adiós a los yaml files y empieza a crear la Infraestructura usando lenguaje
               </center>
               <div class="talk-details-hover">
                 <h5>Talk description</h5>
-                <p>What should be the anatomy of my deployment pipeline? How can my deployment pipeline support applications, infrastructure, and data through the road to production? If you thought or have to answer these questions this session is for you. I will share the principles that make a deployment pipeline an effective pipeline covering the different challenges through the different stages of the pipeline: version control, continuous integration, and continuous delivery. The main focus is on the principles instead of on tools, and that's on purpose.</p>
+                <p>In the software development process, the database introduces some challenges when we want to articulate with the application development. When all database changes can be described with scripts, version control can be applied unlocking continuous integration and continuous delivery capabilities.
+
+In this session I will explore the database challenges of each stage of the deployment pipeline, how to use automation to make de deployment pipeline repeatable, reliable and fast, reducing the fear around database changes, and identify the different configurations of the deployment pipeline while articulating database and applications.</p>
                 <hr>
                 <h5>About the speaker</h5>
                 <p>Principal DevOps Engineer @ Devoteam that enjoys building software, pipelines, and communities. The deployment pipeline is his favorite technical and cultural tool. AnythingOps approach enthusiast.</p>
