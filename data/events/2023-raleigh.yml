@@ -106,43 +106,43 @@ sponsors:
   # - id: samplesponsorname
   #   level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: akeyless
+    level: gold
   - id: arresteddevops
     level: community
+  - id: azul
+    level: gold
+  - id: cloudbees
+    level: gold
   - id: cprime
     level: platinum
+  - id: dell-technologies
+    level: platinum
+  - id: deutsche-bank
+    level: silver
   - id: digma
+    level: gold
+  - id: dragondropcloud
     level: gold
   - id: kubecareers
     level: community
   - id: kubeevents
     level: community
-  - id: portworx
-    level: gold
-  - id: azul
-    level: gold
-  - id: dell-technologies
-    level: platinum
   - id: micro-focus
-    level: gold
-  - id: deutsche-bank
-    level: silver
-  - id: cloudbees
     level: gold
   - id: newrelic
     level: platinum
-  - id: dragondropcloud
-    level: gold
-  - id: vmware-tanzu
-    level: gold
-  - id: transition-technologies-psc
-    level: gold
-  - id: sumologic
-    level: gold
-  - id: akeyless
+  - id: portworx
     level: gold
   - id: progresschef
     level: gold
+  - id: sumologic
+    level: gold
   - id: telemetryhub
+    level: gold
+  - id: transition-technologies-psc
+    level: gold
+  - id: vmware-tanzu
     level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
