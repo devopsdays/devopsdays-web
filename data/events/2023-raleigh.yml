@@ -136,8 +136,12 @@ sponsors:
     level: community
   - id: micro-focus
     level: gold
+  - id: nadog
+    level: community
   - id: newrelic
     level: platinum
+  - id: nginx
+    level: community
   - id: portworx
     level: gold
   - id: progresschef
