@@ -82,6 +82,10 @@ sponsors:
     level: gold
   - id: vmware-tanzu
     level: gold
+  - id: elastic
+    level: gold
+  - id: newrelic
+    level: gold
   - id: portworx
     level: silver
   - id: paloaltonetworks
@@ -90,6 +94,16 @@ sponsors:
     level: silver
   - id: datavail
     level: silver
+  - id: ngrok
+    level: silver
+  - id: strategic-security-solutions
+    level: silver
+  - id: britive
+    level: silver
+  - id: tonicai
+    level: silver
+  - id: privacy-dynamics
+    level: supporter
   - id: releaseteam
     level: supporter
 
