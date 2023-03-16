@@ -12,6 +12,11 @@ Description = "devopsdays Denver 2023"
 
 
 {{< event_twitter >}}
+<br>
+<a rel="me" target="_blank" href="https://hachyderm.io/@devopsdaysrox">
+<span class="btn btn-sm rounded-pill btn-info">
+<i class="fab fa-mastodon fa-md" ></i> Follow hachyderm.io/@devopsdaysrox</span></a>
+
 <div class="row">
   <div class="col-md-2">
     <strong>Dates</strong>
