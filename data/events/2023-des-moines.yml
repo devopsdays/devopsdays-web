@@ -35,13 +35,13 @@ location_address: "730 3rd St, Des Moines, IA 50309" #Optional - use the street 
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
- # - name: location
+ - name: location
  # - name: registration
  # - name: program
  # - name: speakers
-  - name: sponsor
-  - name: contact
-  - name: conduct
+ - name: sponsor
+ - name: contact
+ - name: conduct
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -50,35 +50,44 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Paul Beers"
+    image: 'paul-beers.jpg'
     linkedin: "https://www.linkedin.com/in/paul-beers-0058bb78/"
     twitter: "paulrbeers"
   - name: "Tim Gifford"
+    image: "tim-gifford.jpg"
     github: "timgifford"
     linkedin: "https://www.linkedin.com/in/timgifford"
     twitter: "timgifford"
   - name: "Jodi Jones"
+    image: "jodi-jones.jpg"
     github: "jodimj"
     linkedin: "https://linkedin.com/in/jodi-jones-4a50ab17"
     twitter: "jodimj"
   - name: "Amy Lindberg"
+    image: 'amy-lindberg.jpg'
     linkedin: "https://www.linkedin.com/in/amyvanwesten-lindberg"
     twitter: "LindbergAmy"
   - name: "Crystal Newcomb"
+    image: 'crystal-newcomb.png'
     github: "CrystalNewcomb"
     linkedin: "https://www.linkedin.com/in/crystalnewcomb/"
   - name: "Bo Schatzberg"
+    image: 'bo-schatzberg.jpg'
     github: "BoSchatzberg"
     linkedin: "https://www.linkedin.com/in/BoSchatzberg/"
     twitter: "BoSchatzberg"
   - name: "John Sonneville"
+    image: 'john-sonneville.jpg' 
     github: "SonnevilleJ"
     linkedin: "https://www.linkedin.com/in/sonnevillej/"
     twitter: "agile_johnville"
   - name: "Ethan Spoelstra"
+    image: 'ethan-spoelstra.jpg'
     github: "espoelstra"
     linkedin: "https://www.linkedin.com/in/ethanspoelstra"
     twitter: "ewspoelstra"
   - name: "JoAnna Springsteen"
+    image: 'joanna-springsteen.jpg'
     linkedin: "https://www.linkedin.com/in/joannaspringsteen/"
 
 organizer_email: "des-moines@devopsdays.org" # Put your organizer email address here
@@ -87,11 +96,32 @@ organizer_email: "des-moines@devopsdays.org" # Put your organizer email address 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: samplesponsorname
-    level: gold
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  - id: arresteddevops
-    level: community
+#  - id: launch-darkly
+#    level: gold
+#  - id: trility
+#    level: gold
+#  - id: appdynamics-before-20230221
+#    level: gold
+#  - id: mumosystems
+#    level: gold
+#  - id: john-deere
+#    level: gold
+#  - id: emc-ins
+#    level: gold
+#  - id: sonatype
+#    level: gold
+#  - id: redhat
+#    level: gold
+#  - id: sourceallies
+#    level: lanyard
+#  - id: leantechniques
+#    level: book
+#  - id: caseys
+#    level: gold
+#  - id: we-write-code
+#    level: gold
+ - id: sidegarage
+   level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -102,11 +132,13 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Gold
-#    max: 10
-# - id: silver
-#   label: Silver
-#   max: 0 # This is the same as omitting the max limit.
-# - id: bronze
-#   label: Bronze
-# - id: community
-#   label: Community
+    max: 12
+  - id: social
+    label: Social
+    max: 1
+  - id: lanyard
+    label: Lanyard
+    max: 1
+  - id: community
+    label: Community
+    max: 1
