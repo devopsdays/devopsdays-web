@@ -23,8 +23,8 @@ cfp_date_announce: 2023-01-13T00:17:00-05:00 # inform proposers of status
 
 cfp_link: "https://sessionize.com/devopsdays-austin-2023/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: 2023-02-01T00:00:00-05:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2023-05-04T05:00:00-05:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://www.eventbrite.com/e/devopsdays-austin-2023-tickets-528911387197" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -151,8 +151,11 @@ sponsors:
 #     level: community
   - id: reversing-labs
     level: platinum
+  - id: newrelic
+    level: platinum
   - id: dell-technologies
     level: gold
+    url: https://developer.dell.com
   - id: prosper-ops
     level: gold
   - id: catchpoint-2023
@@ -161,10 +164,28 @@ sponsors:
     level: gold
   - id: cloudbees
     level: gold
+  - id: trendmicro
+    level: gold
+  - id: aptible
+    level: gold
+  - id: logz # I know this isn't the logo they sent us, but it's pretty common to leave it if they're sponsoring other conferences.
+    level: gold
+  - id: rackn
+    level: gold
+  - id: tricentis
+    level: gold
+  - id: suse
+    level: gold
+  - id: appdynamics
+    level: gold
+  - id: isovalent
+    level: gold
   - id: vmware-tanzu-horiz
     level: lanyard  
   - id: tailscale-black
-    level: coffee  
+    level: coffee
+  - id: raft
+    level: happyhour
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -173,18 +194,18 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: happyhour
-    label: Happy Hour
-    max: 0
   - id: platinum
     label: Platinum
-    max: 0
+    max: 2
   - id: gold
     label: Gold
-    max: 0
+    max: 16
   - id: lanyard
     label: Lanyard
-    max: 0
+    max: 1
   - id: coffee
     label: Coffee Bar
-    max: 0
+    max: 1
+  - id: happyhour
+    label: Happy Hour
+    max: 4
