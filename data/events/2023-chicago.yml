@@ -170,6 +170,8 @@ organizer_email: "chicago@devopsdays.org" # Put your organizer email address her
 sponsors:
   - id: zoho
     level: platinum
+  - id: newrelic
+    level: platinum
   - id: appdynamics
     level: gold
   - id: circleci
@@ -194,6 +196,8 @@ sponsors:
   - id: awschicago_ugroup
     level: community
   - id: chicago-devops
+    level: community
+  - id: microsoft-teals
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
