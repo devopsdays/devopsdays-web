@@ -135,7 +135,7 @@ sponsors:
   - id: yuccasolutions
     level: bronze
   - id: redhat
-    level: bronze
+    level: silver
   - id: socraft
     level: bronze
   - id: f5-nginx
@@ -158,8 +158,7 @@ sponsors:
     level: bronze
   - id: valueitswiss
     level: bronze
-  - id: redhat
-    level: silver
+
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
