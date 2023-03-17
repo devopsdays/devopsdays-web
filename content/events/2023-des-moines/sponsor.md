@@ -61,13 +61,13 @@ Description = "Sponsor Agile + DevOpsDays Des Moines 2023"
 We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at {{< email_organizers >}}.
 
 <hr>
-devopsdays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
+Agile + DevOpsDays Des Moines is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
 <p>
 Gold sponsors get a full table where they can interact with those interested that come visit during breaks. All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
 <p>
 Sponsors are able to offer raffle prices to capture attendee contact information in exchange for a chance to win a prize. Organizers will work with sponsors to schedule time to hold the raffle and take pictures with the winners.
 <p>
-The best thing to do is send engineers to interact with the experts at devopsdays on their own terms.
+The best thing to do is send engineers to interact with the attendees.
 <p>
 
    <div style="width:80%">

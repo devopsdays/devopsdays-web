@@ -5,7 +5,7 @@ Description = "Location for Agile + DevOpsDays Des Moines 2023"
 +++
 
 
-Devopsdays Des Moines will be returning to the Community Choice Credit Union Convention Center (http://www.iowaeventscenter.com/convention-center) for our event.
+Agile + DevOpsDays Des Moines will be returning to the Community Choice Credit Union Convention Center (http://www.iowaeventscenter.com/convention-center) for our event.
 
 ```
 Iowa Events Center
