@@ -106,44 +106,55 @@ sponsors:
   # - id: samplesponsorname
   #   level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: akeyless
+    level: gold
   - id: arresteddevops
     level: community
+  - id: appdynamics
+    level: gold
+  - id: azul
+    level: gold
+  - id: cloudbees
+    level: gold
   - id: cprime
     level: platinum
+  - id: cyberark
+    level: gold
+  - id: datadog
+    level: platinum
+  - id: dell-technologies
+    level: platinum
+  - id: deutsche-bank
+    level: silver
   - id: digma
+    level: gold
+  - id: dragondropcloud
     level: gold
   - id: kubecareers
     level: community
   - id: kubeevents
     level: community
-  - id: portworx
-    level: gold
-  - id: azul
-    level: gold
-  - id: dell-technologies
-    level: platinum
   - id: micro-focus
     level: gold
-  - id: deutsche-bank
-    level: silver
-  - id: cloudbees
-    level: gold
+  - id: nadog
+    level: community
   - id: newrelic
     level: platinum
-  - id: dragondropcloud
+  - id: nginx
+    level: community
+  - id: portworx
     level: gold
-  - id: vmware-tanzu
+  - id: progresschef
+    level: gold
+  - id: sumologic
+    level: gold
+  - id: telemetryhub
     level: gold
   - id: transition-technologies-psc
     level: gold
-  - id: sumologic
+  - id: vmware-tanzu
     level: gold
-  - id: akeyless
-    level: gold
-  - id: sumologic
-    level: gold
-  
-  
+
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -275,7 +286,7 @@ program:
     date: 2023-04-12
     start_time: "14:30"
     end_time: "15:45"
-  - title: "peter-chestna-keynote"
+  - title: "kai-xin-tai-keynote"
     type: talk
     date: 2023-04-12
     start_time: "15:45"
@@ -380,7 +391,7 @@ program:
     date: 2023-04-13
     start_time: "14:15"
     end_time: "14:45"
-  - title: "kai-xin-tai-keynote"
+  - title: "sharon-goldberg-keynote"
     type: talk
     date: 2023-04-13
     start_time: "13:45"
@@ -434,7 +445,7 @@ ignites:
     date: 2023-04-13
   - title: "jeremy-freeman-ignite"
     date: 2023-04-13
-  - title: "ignite-placeholder"
+  - title: "aaron-williams-ignite"
     date: 2023-04-13
 
 

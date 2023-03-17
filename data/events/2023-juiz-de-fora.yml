@@ -36,7 +36,8 @@ location_address: "R. Halfeld, 1179 - Centro, Juiz de Fora - MG, 36016-000" #Opt
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
   - name: local
-#  - name: registration
+  - name: inscrição
+    url: https://www.sympla.com.br/evento/devopsdays-juiz-de-fora-2023/1912369
 #  - name: program
 #  - name: speakers
 #  - name: sponsor

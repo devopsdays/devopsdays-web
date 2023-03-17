@@ -50,13 +50,13 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Gary Pochron"
-    employer: "Willis Towers Watson"
-    bio: "Gary is currently a Director of Software Engineering at Willis Towers Watson, and has been involved in technology for almost 20 years. His current tech interests are in team leadership, mentorship, DevOps, cloud architecture, and making complex things simple. In his free time you'll likely find him hiking, playing volleyball, or reading something."
+    employer: "Laudio"
+    bio: "Gary is currently VP of Engineering at Laudio, and has been involved in technology for almost 20 years. His current tech interests are in team leadership, mentorship, DevOps, cloud architecture, and machine learning. In his free time you'll likely find him playing sports, traveling, or sleeping."
     twitter: "garypochron"
     image: "gary.jpg"
     linkedin: "https://www.linkedin.com/in/garypochron/"
   - name: "Tyler Poland"
-    bio: "Tyler is an organizer and speaker for the @BuffaloData meetup group. He has almost 20 years experience in Information Technology which is heavily influenced by more than decade focusing on Cloud Operations, Application Support, and Database Technologies."
+    bio: "Lead Database Administrator and an organizer and speaker for the @BuffaloData meetup group. He has over 20 years experience in Information Technology which is heavily influenced by more than decade focusing on Database Technologies, Cloud Operations, Application Support, and Platform Architecture."
     twitter: "tylerpoland"
     linkedin: "https://www.linkedin.com/in/tylerpoland/"
     image: "tylerp.jpg"
