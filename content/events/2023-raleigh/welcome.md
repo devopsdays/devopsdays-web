@@ -82,6 +82,6 @@ Description = "devopsdays raleigh 2023"
 </div>
 
 <!-- Uncomment if you added your city twitter name -->
-<!--
+
 {{< event_twitter >}}
--->
+
