@@ -17,6 +17,7 @@ Description = "DevOpsDays Zurich 2023"
 <div class = "row">
   <div class = "col-md-12">
     <p>
+    <p>The DevOpsDays Zurich 2023 are <font color="red">SOLD OUT</font></p>
     <p>First time here? Check out our last events and get hyped!</p>
     <a href="https://www.devopsdays.org/events/2017-zurich/welcome/">DevOpsDays 2017 - Where it all started</a><br/>
     <a href="https://www.devopsdays.org/events/2018-zurich/welcome/">DevOpsDays 2018 - The Continuation</a><br/>
