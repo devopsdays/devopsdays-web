@@ -20,3 +20,8 @@ DevOpsDays Austin 2023 will be held at the UT Austin Alumni Center from May 4-5,
 ### Prospectus
 
 <a href="https://drive.google.com/file/d/1s4rTR327rorallxa4r8dzn9UADjzjzTK/view?usp=share_link" class="btn btn-primary"><i class="fa fa-folder fa-lg"></i>   View the DevOpsDays Austin 2023 Sponsor Prospectus</a>
+
+<div class="alert alert-info" role="alert">
+  <h2>PLEASE NOTE:</h2>
+    <p>All sponsorships except Happy Hour have sold out. Make sure to reach out via email in November of 2023 if you want to get in on a slot for our 2024 event!</p>
+</div>
