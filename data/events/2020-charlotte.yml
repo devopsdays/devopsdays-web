@@ -83,7 +83,7 @@ sponsors:
     level: gold
   - id: instana
     level: gold
-  - id: newrelic
+  - id: newrelic-before-20220808
     level: gold
   - id: site24x7
     level: gold
@@ -95,7 +95,7 @@ sponsors:
     level: gold
   - id: hcl
     level: silver
-  - id: delphix
+  - id: delphix-before-20220810
     level: silver
   - id: rancher
     level: silver

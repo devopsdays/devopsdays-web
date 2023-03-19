@@ -37,7 +37,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
   - name: registration
   - name: program
-  # - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct-pt-br
@@ -62,6 +62,8 @@ team_members: # Name is the only required field for team members.
     image: "lays-rodrigues.jpg"
   - name: "Eduardo Abreu"
     employer: "M4U"
+  - name: "Willian dos Santos"
+    employer: "AmbevTech"
   - name: "Marcelo Freire"
     image: "marcelo-freire.jpg"
 
@@ -73,15 +75,25 @@ sponsors:
   - id: btg-pactual
     level: platinum
     url: https://www.btgpactualdigital.com/ # Use this if you need to over-ride a sponsor URL.
+  - id: harness
+    level: platinum
+  - id: hurb
+    level: platinum
   - id: linuxtips
     level: gold
     url: https://linuxtips.io # Use this if you need to over-ride a sponsor URL.
   - id: storyblok
     level: gold
+  - id: zivra
+    level: gold
   - id: cisco
     level: gold
+  - id: globotv-before-20230202
+    level: silver
+  - id: postman
+    level: silver
   - id: thoughtworks-services
-    level: bronze
+    level: silver
   - id: tecnogueto
     level: community
   - id: punkdodevops
@@ -89,6 +101,14 @@ sponsors:
   - id: nerdweek
     level: community
   - id: todas-as-letras
+    level: community
+  - id: kubeevents
+    level: community
+  - id: kubecareers
+    level: community
+  - id: novatec
+    level: community
+  - id: wakanda-streamers
     level: community
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -122,13 +142,13 @@ program:
     date: 2022-11-05T08:00:00-03:00
     start_time: "09:00"
     end_time: "09:30"
-  - title: "Keynote"
+  - title: "marylly-araujo"
     type: talk
     date: 2022-11-05T08:00:00-03:00
     start_time: "09:30"
     end_time: "10:00"
     background_color: "#AED6F1"
-  - title: "Palestra"
+  - title: "pooja-mistry"
     type: talk
     date: 2022-11-05T08:00:00-03:00
     start_time: "10:00"
@@ -138,16 +158,17 @@ program:
     date: 2022-11-05T08:00:00-03:00
     start_time: "10:30"
     end_time: "11:00"
-  - title: "Palestra"
+  - title: "alvaro-huanca"
     type: talk
     date: 2022-11-05T08:00:00-03:00
     start_time: "11:00"
     end_time: "11:30"
-  - title: "Keynote"
+  - title: "rodrigo-ribeiro"
     type: talk
     date: 2022-11-05T08:00:00-03:00
     start_time: "11:30"
     end_time: "12:00"
+    background_color: "#AED6F1"
   - title: "Almoço"
     type: custom
     date: 2022-11-05T08:00:00-03:00
@@ -158,22 +179,23 @@ program:
     date: 2022-11-05T08:00:00-03:00
     start_time: "13:30"
     end_time: "13:45"
-  - title: "Palestra"
+  - title: "danielle-monteiro"
     type: talk
     date: 2022-11-05T08:00:00-03:00
     start_time: "13:45"
     end_time: "14:15"
-  - title: "Keynote"
-    type: custom
+    background_color: "#AED6F1"
+  - title: "tainara-almeida"
+    type: talk
     date: 2022-11-05T08:00:00-03:00
     start_time: "14:15"
     end_time: "14:45"
-  - title: "OpenSpace na prática"
-    type: custom
+  - title: "robert-silva"
+    type: talk
     date: 2022-11-05T08:00:00-03:00
     start_time: "14:45"
     end_time: "15:15"
-  - title: "palestra"
+  - title: "bianca-rosa"
     type: talk
     date: 2022-11-05T08:00:00-03:00
     start_time: "15:15"
@@ -183,21 +205,22 @@ program:
     date: 2022-11-05T08:00:00-03:00
     start_time: "15:45"
     end_time: "16:15"
-  - title: "Palestra"
-    type: talk
+  - title: "Open Spaces"
+    type: custom
     date: 2022-11-05T08:00:00-03:00
     start_time: "16:15"
     end_time: "16:45"
-  - title: "Palestra"
-    type: talk
+  - title: "Open Spaces"
+    type: custom
     date: 2022-11-05T08:00:00-03:00
     start_time: "16:45"
     end_time: "17:15"
-  - title: "Keynote"
+  - title: "jeferson-fernando"
     type: talk
     date: 2022-11-05T08:00:00-03:00
     start_time: "17:15"
     end_time: "17:45"
+    background_color: "#AED6F1"
   - title: "Encerramento"
     type: custom
     date: 2022-11-05T08:00:00-03:00

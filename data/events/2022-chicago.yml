@@ -27,6 +27,7 @@ registration_closed: "" #set this to true if you need to manually close registra
 registration_link: "https://www.universe.com/embed2/events/devopsdays-chicago-2022-tickets-chicago-932F4Z" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 masthead_background: "skyline-night.jpg"
+sharing_image: "chi-sharing.png"
 
 # Location
 #
@@ -41,8 +42,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: registration
   - name: program
   - name: speakers
-  - name: sponsor
-  - name: volunteer
+  # - name: volunteer
   - name: contact
   - name: conduct
   - name: COVID 19 Policy
@@ -55,8 +55,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Brian Andersen"
-    employer: "NextCapital"
-    bio: "Brian Andersen is a Senior DevOps Engineer at NextCapital.  Prior to joining NextCapital, he made a living as production support for a large, multinational bank and an Atlassian consultant for a small local firm.  In his free time he plays (possibly) an unhealthy amount of games, both of the video and board variety. He also has really enjoys visiting cities with zoos in them."
+    employer: "Basis"
+    bio: "Brian Andersen is a Senior Systems Engineer at Basis.  In his free time he plays (possibly) an unhealthy amount of games, both of the video and board variety. He also has really enjoys visiting cities with zoos in them."
     linkedin: "https://www.linkedin.com/in/brian-andersen-9a16587"
     image: "brian-andersen.jpg"
   - name: "Albert Cheung"
@@ -161,21 +161,21 @@ sponsors:
     level: community
   - id: weallcode
     level: community
+  - id: packt
+    level: community
     
   # Gold Sponsors
   - id: teleport
     level: gold
   - id: trilio
     level: gold
-  - id: neuvector
+  - id: suse
     level: gold
   - id: solo
     level: gold
   - id: couchbase
     level: gold
   - id: vmware-tanzu
-    level: gold
-  - id: ksoc
     level: gold
   - id: newrelic
     level: gold
@@ -188,8 +188,6 @@ sponsors:
   - id: quali
     level: gold
   - id: pulumi
-    level: gold
-  - id: replicated
     level: gold
   - id: spectrocloud
     level: gold
@@ -204,6 +202,20 @@ sponsors:
   - id: nirmata
     level: gold
     
+   #
+  - id: datadog
+    level: eveningevent
+  - id: harness
+    level: eveningevent
+
+   #lanyard
+  - id: morningstar
+    level: lanyard
+
+   #transcription
+  - id: postman
+    level: transcription
+    
    #Silver Sponsors
   - id: linearb
     level: silver
@@ -215,7 +227,7 @@ sponsors:
     level: silver
   - id: clumio
     level: silver
-  - id: grafanalabs
+  - id: grafanalabs-before-20230308
     level: silver
   - id: moogsoft
     level: silver
@@ -223,7 +235,7 @@ sponsors:
     level: silver
   - id: opscruise
     level: silver
-  - id: trendmicro
+  - id: trendmicro-before-20230130
     level: silver
   - id: spacelift
     level: silver
@@ -233,18 +245,23 @@ sponsors:
     level: silver
   - id: kosli
     level: silver
+  - id: googlecloud
+    level: silver
+  - id: stormforge
+    level: silver
    
    #Bronze Sponsors
   - id: env0
-    level: bronze
-  - id: stormforge
     level: bronze
   - id: 42crunch
     level: bronze
   - id: vivanti
     level: bronze
-  - id: googlecloud
+  - id: grainger
     level: bronze
+  - id: tidelift
+    level: bronze
+
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -256,13 +273,25 @@ sponsor_levels:
   - id: gold
     label: Gold
     max: 1
+  - id: lanyard
+    label: Lanyard
+    max: 1
+  - id: eveningevent
+    label: Evening Event
+    max: 1
   - id: silver
     label: Silver
     max: 1 # This is the same as omitting the max limit.
+  - id: transcription
+    label: Live Transcription
+    max: 1
   - id: bronze
     label: Bronze
   - id: community
     label: Community
+  
+
+
 program:
   - title: "Registration, Breakfast, Sponsors"
     type: custom
@@ -294,7 +323,7 @@ program:
     date: 2022-09-21
     start_time: "10:25"
     end_time: "10:40"
-  - title: "joshua-zimmerman"
+  - title: "angel-rivera"
     type: talk
     date: 2022-09-21
     start_time: "10:40"
@@ -372,8 +401,8 @@ program:
   - title: "Evening event"
     type: custom
     date: 2022-09-21
-    start_time: "19:00"
-    end_time: "late"
+    start_time: "17:00"
+    end_time: "19:00"
   - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2022-09-22
@@ -384,7 +413,7 @@ program:
     date: 2022-09-22
     start_time: "09:00"
     end_time: "09:15"
-  - title: "quintessence-anx"
+  - title: "kat-cosgrove"
     type: talk
     date: 2022-09-22
     start_time: "09:15"

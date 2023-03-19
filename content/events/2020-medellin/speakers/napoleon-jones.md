@@ -1,7 +1,7 @@
 +++
 Title = "Napoleon 'Ike' Jones"
 #Twitter = ""
-image = "Lke-Jones.png"
+image = "lke-jones.png"
 type = "speaker"
 linktitle = "napoleon-jones"
 LinkedIn = "https://www.linkedin.com/in/napoleon-ike-jones-1469a157/"

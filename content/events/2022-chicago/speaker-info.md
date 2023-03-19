@@ -73,7 +73,7 @@ If we're covering your flight, check with the organizers (<chicago@devopsdays.or
 
 ### Hotel
 
-We are currently working on hotel suggestions and will share any discounts or suggested hotels shortly!
+There is no official conference hotel/room block, but we recommend the [Chicago Marriott at the Medical District/UIC](https://www.marriott.com/en-us/hotels/chidm-chicago-marriott-at-medical-district-uic/overview/).
 
 ### Parking
 
@@ -83,9 +83,9 @@ Recommendations for parking can be found at <https://spothero.com/chicago/uic-fo
 
 There is no conference template to use; rejoice! (Optional but recommended: adding your Twitter handle at least at the beginning/end and ideally on each slide makes it easier for people to tweet about your talk - see <https://bridgetkromhout.com/blog/livetweeting-tech-conferences/>). Lots of people will probably want your slides after the fact, and tweeting them with #devopsdays is the best way to distribute them. The conference will link to but will not host them.
 
-We will have a presentation computer to run your talk from, and we will provide a presentation remote for you to advance your slides. If you wish to run your talk from your own laptop, let us know, and we will schedule time with our AV team to test your setup before the start of the day. Our preference is to use our computer to prevent any hardware-specific issues. Ignites will be presented from a common laptop (see the section below for more Ignite talk specifics!)
+We will have a presentation computer to run your talk from, and we will provide a presentation remote for you to advance your slides. If you wish to run your talk from your own laptop, let us know no later than Sept 16 via email to <chicago@devopsdays.org>, and you must check in with A/V at 7:30 AM the day of your talk. *Our preference is to use our computer to prevent any hardware-specific issues*. Ignites will be presented from a common laptop (see the section below for more Ignite talk specifics!)
 
-The presentation computer will have Keynote, Powerpoint, and a web browser as options for presentation software; if you need something other than this, please let us know at <chicago@devopsdays.org> and we will accommodate you!
+The presentation computer will have Keynote, Powerpoint, PDF, or Google Slides as options for presentation software; if you need something other than this, please let us know at <chicago@devopsdays.org> and we will accommodate you! If you are using the conference laptop to present, please provide your slides (and any supporting fonts/files) to <chicago@devopsdays.org> no later than **Monday, Sept 19**.
 
 Your mic choices include a headset microphone (mounted over an ear) or a wireless lav microphone (clipped to your shirt), both of which have a small belt/pocket pack attached. If you prefer to use a wireless handheld mic you'll have this option as well.
 
@@ -160,7 +160,7 @@ During the actual event (days of Sept 21-22) the on-premises contact for speaker
 | Wednesday Sept 21st |                                                                                                                                                                                                 |
 | 8am CDT             | Conference breakfast and sponsors are available.                                                                                                                                                |
 | 9am-5pm CDT         | Conference Day 1 (lunch served)                                                                                                                                                                 |
-| 5pm-8:30pm  CDT     | Evening event (tentatively planned)  If you want to go out, we suggest you go out after the event. Attendance at the evening event is, of course, optional, but we would love to see you there! |
+| 5pm-7pm  CDT     | Evening event (tentatively planned)  If you want to go out, we suggest you go out after the event. Attendance at the evening event is, of course, optional, but we would love to see you there! |
 | Thursday Sept 22nd  |                                                                                                                                                                                                 |
 | 8am  CDT            | Conference breakfast and sponsors are available.                                                                                                                                                |
 | 9am-5pm CDT         | Conference Day 2 (lunch served)                                                                                                                                                                 |

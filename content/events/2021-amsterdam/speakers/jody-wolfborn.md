@@ -1,7 +1,7 @@
 +++
 Title = "Jody Wolfborn"
 Twitter = "joderita"
-image = "Jody_Wolfborn.jpg"
+image = "jody_wolfborn.jpg"
 type = "speaker"
 linktitle = "jody-wolfborn"
 

@@ -1,12 +1,23 @@
 +++
-Title = "devopsdays Los Angeles 2023"
+Title = "DevOpsDays Los Angeles 2023"
 Type = "welcome"
 aliases = ["/events/2023-los-angeles/"]
-Description = "devopsdays Los Angeles 2023"
+Description = "DevOpsDays Los Angeles 2023"
 +++
 
-<!-- <div style="text-align:center;">
+<div style="text-align:center;">
   {{< event_logo >}}
+</div>
+
+<br>
+
+<!-- <div class = "row">
+  <div class = "col-md-2">
+    <strong>COVID-19</strong>
+  </div>
+  <div class = "col-md-8">
+    Please check out the {{< event_link page="covid" text="COVID-19 Policy" >}}
+  </div>
 </div> -->
 
 <div class = "row">
@@ -20,28 +31,12 @@ Description = "devopsdays Los Angeles 2023"
 
 <!-- <div class = "row">
   <div class = "col-md-2">
-    <strong>Location</strong>
+    <strong>Call For Papers</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_location >}}
-  </div>
-</div> -->
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Register</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
-  </div>
-</div> -->
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Propose</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSewxucXuZ5nmZYX-nBitrmnr1ZA-O7oc33kheNvoRw1ufEbgg/viewform">
+      Propose a talk!
+    </a>
   </div>
 </div> -->
 
@@ -81,7 +76,16 @@ Description = "devopsdays Los Angeles 2023"
   </div>
 </div>
 
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>About</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_link page="about" text="About DevOpsDaysLA" >}}
+  </div>
+</div>
+
 <!-- Uncomment if you added your city twitter name -->
-<!--
+
 {{< event_twitter >}}
--->
+

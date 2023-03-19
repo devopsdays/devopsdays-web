@@ -55,7 +55,7 @@ proposal_email: "proposals-portland-2016@devopsdays.org" # Put your proposal ema
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
   - id: pivotal-before-20190307
     level: gold
-  - id: elastic
+  - id: elastic-before-20221004
     level: gold
   - id: chef-before-20160714
     level: gold
@@ -67,7 +67,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: puppet
     level: gold
-  - id: newrelic
+  - id: newrelic-before-20220808-before-20220808
     level: gold
   - id: emc
     level: gold
@@ -85,7 +85,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: microsoft
     level: gold
-  - id: newrelic
+  - id: newrelic-before-20220808-before-20220808
     level: event
   - id: victorops-before-20180823
     level: silver

@@ -43,7 +43,7 @@ proposal_email: "proposals-minneapolis-2015@devopsdays.org" # Put your proposal 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: newrelic
+  - id: newrelic-before-20220808
     level: gold
   - id: sps_commerce
     level: gold
@@ -51,7 +51,7 @@ sponsors:
     level: gold
   - id: 2015-puppetlabs
     level: gold
-  - id: elastic
+  - id: elastic-before-20221004
     level: gold
   - id: pagerduty-before-20190930
     level: gold

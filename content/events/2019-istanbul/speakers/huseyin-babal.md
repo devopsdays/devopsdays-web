@@ -1,7 +1,7 @@
 +++
 Title = "Hüseyin Babal"
 Twitter = "huseyinbabal"
-image = "huseyinBabal.jpg"
+image = "huseyinbabal.jpg"
 type = "speaker"
 linktitle = "huseyin-babal"
 

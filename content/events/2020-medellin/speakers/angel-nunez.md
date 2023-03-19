@@ -1,7 +1,7 @@
 +++
 Title = "Angel Nuñez"
 #Twitter = "Ana_M_Medina"
-image = "Angel-Nunez.png"
+image = "angel-nunez.png"
 type = "speaker"
 linktitle = "angel-nunez"
 LinkedIn = "https://www.linkedin.com/in/angelnunezsalazar/"

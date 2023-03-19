@@ -1,7 +1,7 @@
 +++
 Title = "Aaron Rinehart"
 #Twitter = "Ana_M_Medina"
-image = "Aaron.png"
+image = "aaron.png"
 type = "speaker"
 linktitle = "aaron-rinehart"
 #Github = "AnaMMedina21"

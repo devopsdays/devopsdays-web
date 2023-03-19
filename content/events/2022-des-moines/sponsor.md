@@ -53,6 +53,9 @@ Description = "Sponsor DevOpsDays Des Moines Agile 2022"
         background-color: SKYBLUE;
     }
 
+    .book-sponsor {
+        background-color: LightGray;
+    }
 </style>
 
 We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at {{< email_organizers >}}.
@@ -74,30 +77,36 @@ The best thing to do is send engineers to interact with the experts at devopsday
                 <th>Gold</th>
                 <th>Social Sponsor</th>    
                 <th>Lanyard Sponsor</th>
+                <th>Book Sponsor</th>
             </tr>
             <tr>
                 <td class="label">Sponsorship Remaining (First come first serve)</td>
-                <td>6 of 10</td>
+                <td>0 of 10</td>
                 <td>1 of 1</td>
-                <td>1 of 1</td>
+                <td>0 of 1</td>
+                <td>0 of 1</td>
             </tr>
             <tr>
                 <td class="label">Price</td>
                 <td>6,000 USD</td>
                 <td>6,000 USD</td>
                 <td>3,000 USD</td>
+                <td>
+                    <a href='mailto:des-moines@devopsdays.org?subject=Book Sponsorship'>Contact Us!</a>
+                </td>
             </tr>
             <tr>
                 <td class="label">Pay via Wave</td>
                 <td>
-                    <a href="https://link.waveapps.com/nbxavr-paw8rp" target=”_blank”>
-                      <img src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif"/></a></td>
+                    Sold!</td>
                 <td>
                     <a href="https://link.waveapps.com/dxjea3-kntd3u" target=”_blank”>
                       <img src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif"/></a></td>
                 <td>
-                    <a href="https://link.waveapps.com/wpkdja-3mv7ym" target=”_blank”>
-                      <img src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif"/></a></td>
+                    Sold!</td>
+                </td>
+                <td>
+                    Sold!</td>
                 </td>
             </tr> 
             <tr>
@@ -105,29 +114,34 @@ The best thing to do is send engineers to interact with the experts at devopsday
                 <td>4</td>
                 <td>4</td>
                 <td>2</td>
+                <td>4</td>
             </tr>
             <tr>
                 <td class="label">Logo on event slides</td>
                 <td class="gold">Large</td>
                 <td class="uranium">Large</td>
                 <td class="lanyard">Large</td>
+                <td class="book-sponsor">Large</td>
             </tr>
             <tr>
                 <td class="label">Logo printed on event lanyard</td>
                 <td class=""></td>
                 <td class=""></td>
                 <td class="lanyard"></td>
+                <td class=""></td>
             </tr>
             <tr>
                 <td class="label">Logo on pre-event communication</td>
                 <td class="gold"></td>
                 <td class="uranium"></td>
                 <td class="lanyard"></td>
+                <td class=""></td>
             </tr>
             <tr>
                 <td class="label">Acknowledged during opening and closing ceremonies</td>
                 <td class="gold"></td>
                 <td class="uranium"></td>
+                <td class=""></td>
                 <td class=""></td>
             </tr>
             <tr>
@@ -135,10 +149,12 @@ The best thing to do is send engineers to interact with the experts at devopsday
                 <td class="gold"></td>
                 <td class=""></td>
                 <td class=""></td>
+                <td class="book-sponsor"></td>
             </tr>
             <tr>
                 <td class="label">1 minute pitch to audience (including streaming attendees if applicable)</td>
                 <td class="gold"></td>
+                <td class=""></td>
                 <td class=""></td>
                 <td class=""></td>
             </tr>
@@ -147,11 +163,13 @@ The best thing to do is send engineers to interact with the experts at devopsday
                 <td class=""></td>
                 <td class="uranium"></td>
                 <td class=""></td>
+                <td class=""></td>
             </tr>
             <tr>
                 <td class="label">Roll-up banners displayed at social event</td>
                 <td class=""></td>
                 <td class="uranium"></td>
+                <td class=""></td>
                 <td class=""></td>
             </tr>
         </table>

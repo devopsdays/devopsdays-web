@@ -25,7 +25,7 @@ registration_closed: "" #set this to true if you need to manually close registra
 registration_link: "https://register.socallinuxexpo.org/reg6/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Background
-masthead_background: "DevOpsDayLA_Banner.jpg"
+masthead_background: "devopsdayla_banner.jpg"
 
 # Location
 coordinates: "33.9464565,-118.3816615" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html

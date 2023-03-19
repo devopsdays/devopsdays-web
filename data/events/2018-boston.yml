@@ -166,13 +166,13 @@ sponsors:
     level: gold
   - id: catchpoint-before-20220331
     level: platinum
-  - id: elastic
+  - id: elastic-before-20221004
     level: platinum
   - id: cloudbolt
     level: gold
   - id: verizon
     level: platinum
-  - id: newrelic
+  - id: newrelic-before-20220808
     level: gold
   - id: victorops
     level: platinum

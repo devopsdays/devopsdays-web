@@ -1,7 +1,7 @@
 +++
 Title = "Lucy Wyman"
 Twitter = ""
-image = "Lucy_Wyman.jpg"
+image = "lucy_wyman.jpg"
 type = "speaker"
 linktitle = "lucy-wyman"
 

@@ -14,13 +14,13 @@ startdate: 2022-08-24T00:00:00-05:00 # The start date of your event. Leave blank
 enddate: 2022-08-25T23:59:59-05:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2022-04-22T21:00:00-05:00 # start accepting talk proposals.
-cfp_date_end: 2022-07-01T18:00:00-05:00 # close your call for proposals.
-cfp_date_announce: 2022-07-27T18:00:00-05:00 # inform proposers of status
+# cfp_date_start: 2022-04-22T21:00:00-05:00 # start accepting talk proposals.
+# cfp_date_end: 2022-07-01T18:00:00-05:00 # close your call for proposals.
+# cfp_date_announce: 2022-07-27T18:00:00-05:00 # inform proposers of status
 
-cfp_link: "https://www.papercall.io/dod-dfw-2022" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+# cfp_link: "https://www.papercall.io/dod-dfw-2022" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-masthead_background: "PlanoEventCenter.jpg"
+masthead_background: "planoeventcenter.jpg"
 sharing_image: "dallas2022.png"
 
 registration_date_start:  # start accepting registration. Leave blank if registration is not open yet
@@ -37,9 +37,9 @@ location_address: "2000 East Spring Creek Parkway, Plano, TX 75074" #Optional - 
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
-  - name: propose
-#  - name: program
-  - name: registration
+#  - name: propose
+  - name: program
+#  - name: registration
   - name: speakers
   - name: sponsor
   - name: contact
@@ -185,7 +185,7 @@ sponsors:
     level: platinum
   - id: splunk
     level: platinum
-  - id: appdynamics
+  - id: appdynamics-before-20230221
     level: gold
   - id: xmatters
     level: gold
@@ -195,7 +195,7 @@ sponsors:
     level: gold
   - id: styra
     level: gold
-  - id: sleuth
+  - id: sleuth-before-2023
     level: gold
   - id: roostai
     level: gold
@@ -215,7 +215,7 @@ sponsors:
     level: gold
   - id: bitdefender
     level: gold
-  - id: trendmicro
+  - id: trendmicro-before-20230130
     level: gold
   - id: circleci
     level: gold
@@ -251,9 +251,15 @@ sponsors:
     level: silver
   - id: unskript
     level: silver
-  - id: zoho
+  - id: manage-engine
     level: silver
+  - id: redgate
+    level: silver
+  - id: edge-delta
+    level: happyhour
   - id: arresteddevops
+    level: media
+  - id: dfwlivestream
     level: media
   - id: devopslive
     level: community
@@ -273,6 +279,10 @@ sponsors:
     level: community
   - id: dfwhug
     level: community
+  - id: ntxglug
+    level: community
+  - id: gdgsolake
+    level: community
    
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -291,9 +301,12 @@ sponsor_levels:
   - id: silver
     label: Silver
     max: 10
+  - id: happyhour
+    label: "Happy Hour"
+    max: 2
   - id: coffee
     label: Coffee Bar
-#   max: 3
+    max: 2
 # - id: bronze
 #   label: Bronze
 #   max: 0 # This is the same as omitting the max limit.
@@ -307,200 +320,199 @@ sponsor_levels:
 program:
   - title: "Registration & Breakfast"
     type: custom
-    date: 2019-08-20
+    date: 2022-08-24
     start_time: "08:00"
     end_time: "08:45"
-  - title: "Intro and Code of Conduct - Mark Saum (Organizer)"
+  - title: "Intro and Code of Conduct"
     type: custom
-    date: 2019-08-20
+    date: 2022-08-24
     start_time: "08:45"
     end_time: "09:00"
-  - title: ""
+  - title: "michael-cote"
     type: talk
-    date: 2019-08-20
+    date: 2022-08-24
     start_time: "09:00"
     end_time: "09:45"
-  - title: "damon-edwards"
+  - title: "thomas-j-sweet"
     type: talk
-    date: 2019-08-20
+    date: 2022-08-24
     start_time: "09:45"
     end_time: "10:15"
   - title: "Break"
     type: custom
-    date: 2019-08-20
+    date: 2022-08-24
     start_time: "10:15"
     end_time: "10:25"
-  - title: "quintessence-anx"
+  - title: "paul-grizzaffi"
     type: talk
-    date: 2019-08-20
+    date: 2022-08-24
     start_time: "10:25"
     end_time: "10:55"
   - title: "Sponsors"
     type: custom
-    date: 2019-08-20
+    date: 2022-08-24
     start_time: "10:55"
     end_time: "11:30"
-  - title: "dan-barker"
+  - title: "chris-koehnecke"
     type: talk
-    date: 2019-08-20
+    date: 2022-08-24
     start_time: "11:30"
     end_time: "12:00"
   - title: "Lunch (catered) | Open Space - Overview"
     type: custom
-    date: 2019-08-20
+    date: 2022-08-24
     start_time: "12:00"
     end_time: "12:45"
-  - title: "liz-fong-jones"
+  - title: "ana-medina"
     type: talk
-    date: 2019-08-20
+    date: 2022-08-24
     start_time: "12:45"
     end_time: "13:30"
   - title: "Sponsors"
     type: custom
-    date: 2019-08-20
+    date: 2022-08-24
     start_time: "13:30"
     end_time: "13:50"
-  - title: "vijay-challa"
+  - title: "jessica-clark"
     type: talk
-    date: 2019-08-20
+    date: 2022-08-24
     start_time: "13:50"
     end_time: "14:20"  
   - title: "Open Space - Topic Proposals & Selection"
     type: open-space
-    date: 2019-08-20
+    date: 2022-08-24
     start_time: "14:20"
     end_time: "14:30"
-  - title: "Open Space #1"
+  - title: "Open Space Day 1"
     type: open-space
-    date: 2019-08-20
+    date: 2022-08-24
     start_time: "14:30"
     end_time: "15:15"
   - title: "Break"
     type: custom
-    date: 2019-08-20
+    date: 2022-08-24
     start_time: "15:15"
     end_time: "15:30"
-  - title: "Open Space #2"
-    type: open-space
-    date: 2019-08-20
+  - title: "matthew-brahms"
+    type: talk
+    date: 2022-08-24
     start_time: "15:30"
     end_time: "16:15"
-  - title: "Show & Tell what will be raffled on the 21st."
+  - title: "Show & Tell what will be raffled on the 25th"
     type: custom
-    date: 2019-08-20
+    date: 2022-08-24
     start_time: "16:15"
     end_time: "16:20"
   - title: "Close Day & Logistics"
     type: custom
-    date: 2019-08-20
+    date: 2022-08-24
     start_time: "16:20"
     end_time: "16:30"
   - title: "Social Networking - Happy Hour"
     type: custom
-    date: 2019-08-20
+    date: 2022-08-24
     start_time: "16:30"
     end_time: "19:00"
 
   - title: "Registration & Breakfast"
     type: custom
-    date: 2019-08-21
+    date: 2022-08-25
     start_time: "08:00"
     end_time: "08:45"
-  - title: "Welcome - Mark Andersen (Organizer)"
+  - title: "Welcome"
     type: custom
-    date: 2019-08-21
+    date: 2022-08-25
     start_time: "08:45"
     end_time: "09:00"
-  - title: "ross-clanton"
+  - title: "andrew-john-talk"
     type: talk
-    date: 2019-08-21
+    date: 2022-08-25
     start_time: "09:00"
     end_time: "09:45"
-  - title: "derek-weeks"
+  - title: "nigel-thurlow"
     type: talk
-    date: 2019-08-21
+    date: 2022-08-25
     start_time: "09:45"
     end_time: "10:15"
   - title: "Break"
     type: custom
-    date: 2019-08-21
+    date: 2022-08-25
     start_time: "10:15"
     end_time: "10:30"  
-  - title: "crux-conception"
+  - title: "damien-burks"
     type: talk
-    date: 2019-08-21
+    date: 2022-08-25
     start_time: "10:30"
     end_time: "11:00"
-  - title: "Ignite Talks"
-    type: ignite
-    date: 2019-08-21
+  - title: "Sponsors"
+    type: custom
+    date: 2022-08-25
     start_time: "11:00"
     end_time: "11:30"
-  - title: "dana-finster"
-    type: talk
-    date: 2019-08-21
+  - title: "Ignite Talks"
+    type: ignite
+    date: 2022-08-25
     start_time: "11:30"
     end_time: "12:00"
   - title: "Lunch (catered) | Open Space - Overview"
     type: custom
-    date: 2019-08-21
+    date: 2022-08-25
     start_time: "12:00"
     end_time: "12:45"
-  - title: "michael-nygard"
+  - title: "patrick-debois"
     type: talk
-    date: 2019-08-21
+    date: 2022-08-25
     start_time: "12:45"
     end_time: "13:30"
   - title: "Open Space - Topic Proposals & Selection"
     type: open-space
-    date: 2019-08-21
+    date: 2022-08-25
     start_time: "13:30"
     end_time: "13:45"
-  - title: "Open Space #1"
-    type: open-space
-    date: 2019-08-21
+  - title: "keri-melich"
+    type: talk
+    date: 2022-08-25
     start_time: "13:45"
     end_time: "14:30"
   - title: "Break"
     type: custom
-    date: 2019-08-21
+    date: 2022-08-25
     start_time: "14:30"
     end_time: "14:45"
-  - title: "Open Space #2"
+  - title: "Open Space Day 2"
     type: open-space
-    date: 2019-08-21
+    date: 2022-08-25
     start_time: "14:45"
     end_time: "15:30"
   - title: "SPEAKER DISCUSSION PANEL (Click here for video)"
     type: custom
-    date: 2019-08-21
+    date: 2022-08-25
     start_time: "15:30"
     end_time: "16:15"
-    custom_url: "https://youtu.be/zlwOBFHT4X8"
+    custom_url: "https://youtu.be/CDbYfRHfp3U"
   - title: "Organizers Recognition"
     type: custom
-    date: 2019-08-21
+    date: 2022-08-25
     start_time: "16:15"
     end_time: "16:20"  
-  - title: "Closing, Raffle Giveaway, & Farewell"
+  - title: "Closing, Raffle Giveaway & Farewell"
     type: custom
-    date: 2019-08-21
+    date: 2022-08-25
     start_time: "16:20"
     end_time: "17:00"
 
 ignites:
 #  - title: "ignite-talks"
-#    date: 2019-08-21
-  - title: "jj-asghar"
-    date: 2019-08-21
-  - title: "bjorn-edwin"
-    date: 2019-08-21
-  - title: "ian-holmes"
-    date: 2019-08-21
-  - title: "farrah-campbell"
-    date: 2019-08-21
-  - title: "steve-shangguan"
-    date: 2019-08-21
-  - title: "aaron-mell"
-    date: 2019-08-21
+#    date: 2022-08-25
+  - title: "christa-meck"
+    date: 2022-08-25
+  - title: "james-thomas"
+    date: 2022-08-25
+  - title: "monica-miller"
+    date: 2022-08-25
+  - title: "eric-smalling"
+    date: 2022-08-25
+  - title: "tim-davis"
+    date: 2022-08-25
+
 

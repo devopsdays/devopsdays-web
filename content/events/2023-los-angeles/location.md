@@ -1,7 +1,7 @@
 +++
 Title = "Location"
 Type = "event"
-Description = "Location for devopsdays Los Angeles 2023"
+Description = "Location for DevOpsDays Los Angeles 2023"
 +++
 
 Watch this space for information about the venue including address, map/direction, parking/transit, and any hotel details.

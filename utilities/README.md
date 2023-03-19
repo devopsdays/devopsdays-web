@@ -5,7 +5,7 @@ These scripts help devopsdays organizers manage their events.
 
 The technical details and guidelines for contributing to this repository are outlined in [CONTRIBUTING.md](../CONTRIBUTING.md).
 
-Full reference of all fields and features is located in [REFERENCE.md](https://github.com/devopsdays/devopsdays-web/blob/main/themes/devopsdays-theme/REFERENCE.md) in the currently released theme directory.
+Full reference of all fields and features is located in [reference.md](https://github.com/devopsdays/devopsdays-web/blob/main/themes/devopsdays-theme/reference.md) in the currently released theme directory.
 
 New utilities and updates to existing utilities are welcome, as are suggestions for default content. Add new scripts in [contrib](contrib/).
 
@@ -23,7 +23,9 @@ Use [add_new_event.sh](add_new_event.sh) to add a new event. This is year-specif
 
 ## Google Analytics
 
-If you have set up a Google Analytics account for tracking your specific event, you can enable tracking for your event pages by updating the `ga_tracking_id` field in your `yyyy-city.yml` file. Example: `ga_tracking_id: "UA-74738648-1"`
+If you have set up a Google Analytics v3 or older account for tracking your specific event, you can enable tracking for your event pages by updating the `ga_tracking_id` field in your `yyyy-city.yml` file. Example: `ga_tracking_id: "UA-74738648-1"`
+
+If you have set up a Google Analytics v4 or newer account for tracking your specific event, you can enable tracking for your event pages by updating the `gtm_tracking_id` field in your `yyyy-city.yml` file. Example: `gtm_tracking_id: "G-NCBC4PBEMK"`
 
 ### Event Square Logo
 

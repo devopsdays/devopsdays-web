@@ -1,7 +1,7 @@
 +++
 Title = "Mike Long"
 Twitter = "meekrosoft"
-image = "Mike_Long.jpg"
+image = "mike_long.jpg"
 type = "speaker"
 linktitle = "mike-long"
 

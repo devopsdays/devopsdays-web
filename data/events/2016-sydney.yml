@@ -50,7 +50,7 @@ sponsor_email: "sponsors-sydney-2016@devopsdays.org"
 sponsors:
   - id: microsoft
     level: gold
-  - id: elastic
+  - id: elastic-before-20221004
     level: gold
   - id: github
     level: gold

@@ -144,11 +144,11 @@ sponsors:
     level: platinum
   - id: caddietech
     level: happyhour
-  - id: contrast_security
+  - id: contrast_security-before-20221014
     level: gold
   - id: docker
     level: gold
-  - id: newrelic
+  - id: newrelic-before-20220808
     level: platinum
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
