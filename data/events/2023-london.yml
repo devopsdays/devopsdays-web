@@ -83,6 +83,9 @@ team_members: # Name is the only required field for team members.
     github: "issyl0"
     website: "https://issylong.com"
   - name: "Ethan Sumner"
+    twitter: "SumnerOps"
+    Linkedin: "https://www.linkedin.com/in/ethansumner404/"
+    website: "https://opssumner.dev"
 
 organizer_email: "london@devopsdays.org" # Put your organizer email address here
 
