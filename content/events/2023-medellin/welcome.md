@@ -74,17 +74,17 @@ Description = "Welcome to DevOpsDays Medellín 2023"
             <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Buy your Virtual Tickets Now!
           </a>
         </div> -->
- <!--       <div class="p-2">
+        <div class="p-2">
           <a
             target="_blank"
             class="btn btn-secondary btn-block"
-            href="https://www.papercall.io/dodmed2022"
+            href="https://www.papercall.io/dodmded2023"
             style="background-color:#329cae; border-color:#72c1cd" onMouseOver="this.style.backgroundColor='#23738e'"
             onMouseOut="this.style.backgroundColor='#329cae'"
           >
             <i class="fa fa-calendar fa-lg"></i>&nbsp;&nbsp;&nbsp;Call for Papers
           </a>
-        </div>  -->
+        </div> 
  <!--        <div class="p-2">
           <a
             class="btn btn-secondary btn-block"
