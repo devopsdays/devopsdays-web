@@ -2,7 +2,7 @@
 Title = "devopsdays Des Moines 2023"
 Type = "welcome"
 aliases = ["/events/2023-des-moines/"]
-Description = "devopsdays Des Moines 2023"
+Description = "Agile + DevOpsDays Des Moines 2023"
 +++
 
 <!-- <div style="text-align:center;">
