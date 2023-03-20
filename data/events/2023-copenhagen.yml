@@ -282,8 +282,8 @@ program:
     date: 2022-05-03
     start_time: "14:15"
     end_time: "14:25"
-  - title: "TBD"
-    type: custom
+  - title: "waqas-ali"
+    type: talk
     date: 2022-05-03
     start_time: "14:25"
     end_time: "14:55"
