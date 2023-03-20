@@ -62,7 +62,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/mikhailk/"
     github: "mkoperator"
     mastodon: "https://mastodon.social/@mkoperator"
-    employer: "Datalus"
+    employer: "Hedgehog"
   - name: "Ed McLain"
     linkedin: "https://www.linkedin.com/in/edwardmclain/"
     employer: "Nibuild"
