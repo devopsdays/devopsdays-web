@@ -135,6 +135,8 @@ sponsors:
     level: community
   - id: cacerestech
     level: community
+  - id: smart-open-lab
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
