@@ -264,7 +264,9 @@ His most recent contributions include video content made specifically for softwa
                 <p>Como hemos conseguido ofrecer total autonomia a nuestros equipos de ingenieria para que todos los servicios que operan puedan consumir las distintas capacidades de la plataforma (como monitoring, routing o permisos de AWS) a traves de un sencillo fichero de configuracion.</p>
                 <hr>
                 <h5>About the speaker</h5>
-                <p>TBD</p>
+                <p>Platform Engineer with around 10 years of experience in several startups with very different levels of maturity as well as in other more corporate companies. Formed sysadmin that focuses on empowering the engineering teams to truly own, control and operate the applications they build by providing the needed platform capabilities.
+
+Stop accidental complexity.</p>
               </div>
             </a>
           </div>
