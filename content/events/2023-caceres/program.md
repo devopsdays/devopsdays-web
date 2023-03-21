@@ -250,23 +250,21 @@ His most recent contributions include video content made specifically for softwa
         </td>
         <td>
           <div class="program-talk">
-            <a href="/events/2023-caceres/program/why-my-talk">
+            <a href="/events/2023-caceres/program/autonomous-teams">
               <center>
-                <p class="talk-title">“Why would anyone want to come to my talk?”</p>
-                <p class="talk-speakers">Diego Coy (Scaleway)</p>
+                <p class="talk-title">Mas alla del helm templating: equipos autonomos</p>
+                <p class="talk-speakers">Iván Sánchez Frutos (Clarity AI)</p>
                 <div>
-                  <i class="fa fa-language fa-lg"></i><span class="talk-language-level">English</span>
-                  <i class="fa fa-bar-chart fa-lg" style="margin-left: 15px;"></i><span class="talk-language-level">Medium</span>
+                  <i class="fa fa-language fa-lg"></i><span class="talk-language-level">Spanish</span>
+                  <i class="fa fa-bar-chart fa-lg" style="margin-left: 15px;"></i><span class="talk-language-level">Advanced</span>
                 </div>
               </center>
               <div class="talk-details-hover">
                 <h5>Talk description</h5>
-                <p>With this talk I go over some of the thoughts people have when presented with the idea of sharing their knowledge at a conference, such as “There’s nothing special for me to share” or “Yeah, but surely everyone knows that” or “What I do is boring”.</p>
+                <p>Como hemos conseguido ofrecer total autonomia a nuestros equipos de ingenieria para que todos los servicios que operan puedan consumir las distintas capacidades de la plataforma (como monitoring, routing o permisos de AWS) a traves de un sencillo fichero de configuracion.</p>
                 <hr>
                 <h5>About the speaker</h5>
-                <p>Web developer with over 10 years of experience turned Developer Advocate currently acting as a bridge between technologists and the cloud world.
-
-Google Developer Expert in Web Technologies and Google Maps Platform, passionate about communities and sharing knowledge.</p>
+                <p>TBD</p>
               </div>
             </a>
           </div>
@@ -297,21 +295,23 @@ Google Developer Expert in Web Technologies and Google Maps Platform, passionate
         </td>
         <td>
           <div class="program-talk">
-            <a href="/events/2023-caceres/program/mlops-tracing">
+            <a href="/events/2023-caceres/program/platform-engineering">
               <center>
-                <p class="talk-title">Running Machine Learning Analytics On Traces</p>
-                <p class="talk-speakers">Fawaz Ghali (Hazelcast)</p>
+                <p class="talk-title">DevOps Is Dead! Long Live Platform Engineering! Did We Get Confused?</p>
+                <p class="talk-speakers">Viktor Farcic (Upbound)</p>
                 <div>
                   <i class="fa fa-language fa-lg"></i><span class="talk-language-level">English</span>
-                  <i class="fa fa-bar-chart fa-lg" style="margin-left: 15px;"></i><span class="talk-language-level">Advanced</span>
+                  <i class="fa fa-bar-chart fa-lg" style="margin-left: 15px;"></i><span class="talk-language-level">Beginner</span>
                 </div>
               </center>
               <div class="talk-details-hover">
                 <h5>Talk description</h5>
-                <p>Let’s do things differently. To start with, let us view logs and traces as no different from any other data. The data an application indirectly generates when in use (the logs and traces) is no different from the data an application directly works with (input and output). So let’s keep them all together in a scalable cloud storage repository. Once it is there, it is just like any other big data. We need to analyze and apply intelligent monitoring to detect situations of interest. So we need to apply trained ML models to a stream of such data for immediate alerting when the traces indicate an unwanted behavior occurring or brewing. This talk will show how to harness existing technologies to do just that.</p>
+                <p>"DevOps is dead!" That's a commonly repeated sentence these days. Some might say that Platform Engineering is replacing DevOps. But is DevOps really dead? Is it being replaced by Platform Engineering? Or maybe, we are just confused.
+
+Let's explore what DevOps is in theory, how it was implemented in practice, whether it failed, whether plaform engineering is the replacement, and what we can learn from the past.</p>
                 <hr>
                 <h5>About the speaker</h5>
-                <p>Fawaz Ghali is Principal Developer Advocate at Hazelcast with 20+ years of experience in software development, machine learning and real-time intelligent applications. He holds a PhD in Computer Science and has worked in the private sector as well as Academia as a Researcher and Senior Lecturer. He has published over 46 scientific papers in the fields of machine learning and data science. His strengths and skills lie within the fields of low latency applications, IoT & Edge, distributed systems and cloud technologies.</p>
+                <p>Viktor Farcic is a Developer Advocate at Upbound, a member of the Google Developer Experts, CDF Ambassadors, and GitHub Stars groups, and a published author.</p>
               </div>
             </a>
           </div>
@@ -419,21 +419,23 @@ In this session I will explore the database challenges of each stage of the depl
         </td>
         <td>
           <div class="program-talk">
-            <a href="/events/2023-caceres/program/autonomous-teams">
+            <a href="/events/2023-caceres/program/why-my-talk">
               <center>
-                <p class="talk-title">Mas alla del helm templating: equipos autonomos</p>
-                <p class="talk-speakers">Iván Sánchez Frutos (Clarity AI)</p>
+                <p class="talk-title">“Why would anyone want to come to my talk?”</p>
+                <p class="talk-speakers">Diego Coy (Scaleway)</p>
                 <div>
-                  <i class="fa fa-language fa-lg"></i><span class="talk-language-level">Spanish</span>
-                  <i class="fa fa-bar-chart fa-lg" style="margin-left: 15px;"></i><span class="talk-language-level">Advanced</span>
+                  <i class="fa fa-language fa-lg"></i><span class="talk-language-level">English</span>
+                  <i class="fa fa-bar-chart fa-lg" style="margin-left: 15px;"></i><span class="talk-language-level">Medium</span>
                 </div>
               </center>
               <div class="talk-details-hover">
                 <h5>Talk description</h5>
-                <p>Como hemos conseguido ofrecer total autonomia a nuestros equipos de ingenieria para que todos los servicios que operan puedan consumir las distintas capacidades de la plataforma (como monitoring, routing o permisos de AWS) a traves de un sencillo fichero de configuracion.</p>
+                <p>With this talk I go over some of the thoughts people have when presented with the idea of sharing their knowledge at a conference, such as “There’s nothing special for me to share” or “Yeah, but surely everyone knows that” or “What I do is boring”.</p>
                 <hr>
                 <h5>About the speaker</h5>
-                <p>TBD</p>
+                <p>Web developer with over 10 years of experience turned Developer Advocate currently acting as a bridge between technologists and the cloud world.
+
+Google Developer Expert in Web Technologies and Google Maps Platform, passionate about communities and sharing knowledge.</p>
               </div>
             </a>
           </div>
