@@ -100,7 +100,7 @@ organizer_email: "eindhoven@devopsdays.org" # Put your organizer email address h
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
   # socialevent
-  - id: paloaltonetworks
+  - id: paloaltonetworks-before-20230321
     level: social
   # beer
   - id: contrast_security
