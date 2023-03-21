@@ -88,6 +88,8 @@ sponsors:
     level: gold
   - id: paloaltonetworks
     level: silver
+  - id: smallstep
+    level: silver
   - id: microsoft-teals
     level: community
 sponsors_accepted : "yes"
