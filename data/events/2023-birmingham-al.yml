@@ -250,11 +250,6 @@ program:
     date: 2023-04-21T00:00:00-05:00
     start_time: "10:20"
     end_time: "10:50"
-  - title: "nick-hodges"
-    type: talk
-    date: 2023-04-21T00:00:00-05:00
-    start_time: "10:50"
-    end_time: "11:20"
   - title: "workshop-4"
     type: talk
     date: 2023-04-21T00:00:00-05:00
@@ -297,11 +292,6 @@ program:
     date: 2023-04-21T00:00:00-05:00
     start_time: "14:00"
     end_time: "14:30"
-  - title: "nick-ristuccia"
-    type: talk
-    date: 2023-04-21T00:00:00-05:00
-    start_time: "15:00"
-    end_time: "15:30"
   - title: "Break - Visit Sponsors"
     type: custom
     date: 2023-04-21T00:00:00-05:00
