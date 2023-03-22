@@ -146,11 +146,15 @@ sponsors:
     level: gold
   - id: progresschef
     level: gold
+  - id: servicenow
+    level: community
   - id: sumologic
     level: gold
   - id: telemetryhub
     level: gold
   - id: transition-technologies-psc
+    level: gold
+  - id: trendmicro
     level: gold
   - id: vmware-tanzu
     level: gold
