@@ -2,7 +2,7 @@
 Title = "Kristina Kondrashevich"
 type = "speaker"
 linktitle = "kristina-kondrashevich"
-image = "kristina-kondrashevich.png"
+image = "kristina-kondrashevich.jpg"
 +++
 
 SRE Product Owner at Electrolux
