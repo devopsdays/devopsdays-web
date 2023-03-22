@@ -132,181 +132,181 @@ sponsor_levels:
 program:
   - title: "Registration & Breakfast"
     type: custom
-    date: 2022-05-02
+    date: 2023-05-02
     start_time: "08:30"
     end_time: "09:00"
   - title: "Opening Welcome"
     type: custom
-    date: 2022-05-02
+    date: 2023-05-02
     start_time: "09:00"
     end_time: "09:20"
   - title: "ixchel-ruiz"
     type: talk
-    date: 2022-05-02
+    date: 2023-05-02
     start_time: "09:20"
     end_time: "09:50"
   - title: "Break"
-    date: 2022-05-02
+    date: 2023-05-02
     start_time: "09:50"
     end_time: "10:00"
   - title: "lesley-cordero"
     type: talk
-    date: 2022-05-02
+    date: 2023-05-02
     start_time: "10:00"
     end_time: "10:30"
   - title: "Break"
-    date: 2022-05-02
+    date: 2023-05-02
     start_time: "10:30"
     end_time: "10:40"
   - title: "christina-staun-biangslev"
     type: talk
-    date: 2022-05-02
+    date: 2023-05-02
     start_time: "10:40"
     end_time: "11:15"
   - title: "Break"
-    date: 2022-05-02
+    date: 2023-05-02
     start_time: "11:15"
     end_time: "11:25"
   - title: "rasmus-kromann-larsen"
     type: talk
-    date: 2022-05-02
+    date: 2023-05-02
     start_time: "11:25"
     end_time: "12:00"
   - title: "LUNCH"
     type: custom
-    date: 2022-05-02
+    date: 2023-05-02
     start_time: "12:00"
     end_time: "12:50"
   - title: "Ignite Talks"
     type: ignite
-    date: 2022-05-02
+    date: 2023-05-02
     start_time: "12:50"
     end_time: "13:20"
   - title: "Open Space Opening"
     type: open-space
-    date: 2022-05-02
+    date: 2023-05-02
     start_time: "13:20"
     end_time: "13:50"
   - title: "Open Space Discussions #1"
     type: open-space
-    date: 2022-05-02
+    date: 2023-05-02
     start_time: "14:00"
     end_time: "14:45"
   - title: "Break"
-    date: 2022-05-02
+    date: 2023-05-02
     start_time: "14:45"
     end_time: "15:00"
   - title: "Open Space Discussions #2"
     type: open-space
-    date: 2022-05-02
+    date: 2023-05-02
     start_time: "15:00"
     end_time: "15:45"
   - title: "Break"
-    date: 2022-05-02
+    date: 2023-05-02
     start_time: "15:45"
     end_time: "16:00"
   - title: "joseph-katsioloudes"
     type: talk
-    date: 2022-05-02
+    date: 2023-05-02
     start_time: "16:00"
     end_time: "16:30"
   - title: "Wrap-up of the Day"
     type: custom
-    date: 2022-05-02
+    date: 2023-05-02
     start_time: "16:30"
     end_time: "16:50"
   - title: "Mingle & Drinks"
     type: custom
-    date: 2022-05-02
+    date: 2023-05-02
     start_time: "17:00"
     end_time: "17:45"
   - title: "Dinner & Mingle"
     type: custom
-    date: 2022-05-02
+    date: 2023-05-02
     start_time: "17:45"
     end_time: "21:00"
   - title: "Breakfast"
     type: custom
-    date: 2022-05-03
+    date: 2023-05-03
     start_time: "08:30"
     end_time: "09:00"
   - title: "Welcome"
     type: custom
-    date: 2022-05-03
+    date: 2023-05-03
     start_time: "09:00"
     end_time: "09:15"
   - title: "braedon-gough"
     type: talk
-    date: 2022-05-03
+    date: 2023-05-03
     start_time: "09:15"
     end_time: "09:45"
   - title: "Break"
-    date: 2022-05-03
+    date: 2023-05-03
     start_time: "09:45"
     end_time: "10:00"
   - title: "dan-glavind"
     type: talk
-    date: 2022-05-03
+    date: 2023-05-03
     start_time: "10:00"
     end_time: "10:30"
   - title: "Open Space Opening"
     type: open-space
-    date: 2022-05-03
+    date: 2023-05-03
     start_time: "10:30"
     end_time: "11:00"
   - title: "Open Space Discussions #1"
     type: open-space
-    date: 2022-05-03
+    date: 2023-05-03
     start_time: "11:00"
     end_time: "11:50"
   - title: "LUNCH"
     type: custom
-    date: 2022-05-03
+    date: 2023-05-03
     start_time: "11:50"
     end_time: "12:40"
   - title: "Open Space Discussions #2"
     type: open-space
-    date: 2022-05-03
+    date: 2023-05-03
     start_time: "12:40"
     end_time: "13:25"
   - title: "Break"
-    date: 2022-05-03
+    date: 2023-05-03
     start_time: "13:25"
     end_time: "13:40"
   - title: "jessica-andersson"
     type: talk
-    date: 2022-05-03
+    date: 2023-05-03
     start_time: "13:40"
     end_time: "14:10"
   - title: "Break"
-    date: 2022-05-03
+    date: 2023-05-03
     start_time: "14:15"
     end_time: "14:25"
   - title: "waqas-ali"
     type: talk
-    date: 2022-05-03
+    date: 2023-05-03
     start_time: "14:25"
     end_time: "14:55"
   - title: "Break"
-    date: 2022-05-03
+    date: 2023-05-03
     start_time: "14:55"
     end_time: "15:10"
   - title: "TBD"
     type: custom
-    date: 2022-05-03
+    date: 2023-05-03
     start_time: "15:10"
     end_time: "15:40"
   - title: "Rounding Off"
-    date: 2022-05-03
+    date: 2023-05-03
     start_time: "15:40"
     end_time: "16:00"
 
 ignites:
   - title: "camilla-larsen"
-    date: 2022-05-02
+    date: 2023-05-02
   - title: "sofus-albertsen"
-    date: 2022-05-02
+    date: 2023-05-02
   - title: "kris-buytaert"
-    date: 2022-05-02
+    date: 2023-05-02
   - title: "mike-long"
-    date: 2022-05-02  
+    date: 2023-05-02  
