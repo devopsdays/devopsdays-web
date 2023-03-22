@@ -146,6 +146,8 @@ sponsors:
     level: gold
   - id: progresschef
     level: gold
+  - id: servicenow
+    level: community
   - id: sumologic
     level: gold
   - id: telemetryhub
