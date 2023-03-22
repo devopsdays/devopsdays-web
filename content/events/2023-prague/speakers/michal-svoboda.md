@@ -1,7 +1,7 @@
 +++
 Title = "Michal Svoboda"
 type = "speaker"
-linktitle = "michal-svoboda"
+linktitle = "jakub-sekera"
 image = "michal-svoboda.jpg"
 +++
 
