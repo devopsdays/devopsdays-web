@@ -129,6 +129,8 @@ sponsors:
     level: collaborators
   - id: azuanet
     level: collaborators
+  - id: aws-user-groups-spain
+    level: water-friut
   - id: caceresdevops
     level: community
   - id: girls-in-tech-esp
@@ -136,8 +138,6 @@ sponsors:
   - id: cacerestech
     level: community
   - id: smart-open-lab
-    level: community
-  - id: aws-user-groups-spain
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -160,5 +160,7 @@ sponsor_levels:
     label: Bronze
   - id: collaborators
     label: Collaborators
+  - id: water-friut
+    label: "Water and fruit"
   - id: community
     label: Community
