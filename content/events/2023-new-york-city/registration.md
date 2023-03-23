@@ -8,7 +8,7 @@ Description = "Registration for devopsdays New York City 2023"
 
 <div id=""></div>
 
-<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+<script src="example.com"></script>
 
 <script type="text/javascript">
     var exampleCallback = function() {
