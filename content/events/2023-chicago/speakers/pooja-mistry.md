@@ -1,7 +1,7 @@
 +++
 Title = "Pooja Mistry"
 Twitter = "poojamakes"
-image = ""
+image = "pooja-mistry.jpg"
 type = "speaker"
 linktitle = "pooja-mistry"
 github = "pmmistry"
