@@ -28,7 +28,7 @@ registration_closed: "true" #set this to true if you need to manually close regi
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
-coordinates: "-22.8975426, -43.1824625" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+coordinates: "-22.997961, -43.345923" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "MHS Eventos"
 location_address: "Av. das Américas, 3434 - Barra da Tijuca, Rio de Janeiro" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
