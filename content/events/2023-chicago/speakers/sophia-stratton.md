@@ -1,7 +1,7 @@
 +++
 Title = "Sophia Stratton"
 Twitter = ""
-image = "sophia-stratton.png"
+image = "sophia-stratton.jpg"
 type = "speaker"
 linktitle = "sophia-stratton"
 
