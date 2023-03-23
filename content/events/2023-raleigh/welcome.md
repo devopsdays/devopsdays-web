@@ -82,6 +82,7 @@ Description = "devopsdays raleigh 2023"
 </div>
 
 <!-- Uncomment if you added your city twitter name -->
-<!--
+
 {{< event_twitter >}}
--->
+
+ <a rel="me" target="_blank" href="https://linkedin.com/company/devopsdays-raleigh"><span class="btn btn-sm rounded-pill btn-info"><i class="fab fa-linkedin fa-md" ></i> Follow DevOpsDays Raleigh on LinkedIn</span></a>

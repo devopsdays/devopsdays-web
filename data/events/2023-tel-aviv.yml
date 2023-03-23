@@ -138,6 +138,15 @@ team_members: # Name is the only required field for team members.
     website: "https://wix.com"
     image: "gil-zellner.jpg"
 
+  - name: "John Zenou"
+    twitter: "ZenouJohn"
+    employer: "Windward"
+    github: 
+    linkedin: "https://www.linkedin.com/in/jonathann-zenou-7b384727/"
+    website: "https://windward.ai/"
+    image: "johnathan-zenou.jpg"
+
+
   - name: "In Loving Memory of Ariel Moskovich"
     twitter: "relmos"
     employer: 
@@ -157,7 +166,13 @@ sponsors:
     level: gold
   - id: perfectscale
     level: gold
-    
+  - id: terasky
+    level: gold
+  - id: aerospike
+    level: gold
+  - id: rapid
+    level: gold
+
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community

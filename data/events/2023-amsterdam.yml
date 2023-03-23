@@ -73,12 +73,14 @@ team_members: # Name is the only required field for team members.
     role: "Sponsor Team"
 
   - name: "Yvo van Doorn"
+    pronouns: "he/him"
     linkedin: "https://www.linkedin.com/in/yvovandoorn/"
     twitter: "yvov"
     image: yvo.jpeg
     role: "Finance & Venue Team"
 
   - name: "Daniel Paulus"
+    pronouns: "he/him"
     linkedin: "https://www.linkedin.com/in/danielpaulus/"
     twitter: "dpnl87"
     website: "https://danielpaulus.com"
@@ -86,6 +88,7 @@ team_members: # Name is the only required field for team members.
     role: "Tech Team"
 
   - name: "Floor Drees"
+    pronouns: "she/her"
     linkedin: "https://www.linkedin.com/in/floordrees/"
     twitter: "FloorDrees"
     image: "floor.jpg"
@@ -98,12 +101,14 @@ team_members: # Name is the only required field for team members.
     role: "Finance & Speaker Team"
 
   - name: "Lian Li"
+    pronouns: "she/her"
     linkedin: "https://www.linkedin.com/in/lian-li"
     twitter: "lianmakesthings"
     image: "lian.jpg"
     role: "Speaker Team"
 
   - name: "Jos van Schouten"
+    pronouns: "he/him"
     linkedin: "https://www.linkedin.com/in/josvanschouten/"
     twitter: "josvanschouten"
     image: "jos.png"
@@ -116,12 +121,14 @@ team_members: # Name is the only required field for team members.
     role: "Venue Team"
 
   - name: "Bas den Uijl"
+    pronouns: "he/him"
     linkedin: "https://www.linkedin.com/in/basdenuijl/"
     twitter: "basdenuijl"
     image: "bas.jpeg"
     role: "Sponsor & Marketing Team"
 
   - name: "Chris Lennon"
+    pronouns: "he/him"
     linkedin: "https://www.linkedin.com/in/leapyearboy/"
     image: "chris.jpeg"
     role: "Speaker Team"
@@ -142,6 +149,11 @@ sponsors:
     level: gold
   - id: elastic
     level: gold
+  - id: kosli
+    level: gold 
+# Lanyard
+  - id: schubergphilis
+    level: lanyard
 # Silver
   - id: wiz
     level: silver
@@ -151,9 +163,11 @@ sponsors:
     level: silver
   - id: mkdev
     level: silver
-#Starter
+  - id: working-spirit
+    level: silver
+# Bronze
   - id: raftech
-    level: starter 
+    level: bronze
 
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -187,6 +201,6 @@ sponsor_levels:
   - id: silver
     label: Silver
     max: 8
-  - id: starter
-    label: "Starter/Supporter"
+  - id: bronze
+    label: "Bronze"
     max: 10

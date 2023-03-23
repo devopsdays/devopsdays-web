@@ -19,7 +19,7 @@ Description = "devopsdays Copenhagen 2023"
   locally.</p>
 
   <h3>What you will learn about</h3>
-  <p>The agenda will be packed with a wide range of inspiring talks related to 
+  <p>The {{< event_link page="program" text="program" >}} is packed with a wide range of inspiring talks related to 
   software development and IT Infrastructure. The speakers are not there to sell 
   anything.</p>
   <p>Stay tuned for the announcement of this year’s speakers and talks in 
@@ -52,6 +52,15 @@ Description = "devopsdays Copenhagen 2023"
         2,199 DKK (excl. tax)
         <br />
         <a href="https://www.eventbrite.dk/e/devopsdays-copenhagen-2023-tickets-516510726487" target="_blank">Buy your ticket here!</a> 
+    </div>
+  </div>
+
+  <div class = "row">
+    <div class = "col-md-2">
+      <strong>Program</strong>
+    </div>
+    <div class = "col-md-8">
+      {{< event_link page="program" text="See the full program" >}}
     </div>
   </div>
 

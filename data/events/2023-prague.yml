@@ -34,11 +34,11 @@ location: "Clarion Congress Hotel" # Defaults to city, but you can make it the v
 location_address: "Freyova 33, Prague 9, 190 00" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+#  - name: propose
   - name: location
   - name: registration
  # - name: program
- # - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -91,6 +91,9 @@ sponsors:
   - id: ceskasporitelna
     level: gold
     url: "https://www.csas.cz"
+  - id: cloudbees
+    level: gold
+    url: "https://www.cloudbees.com"
   - id: pure-storage
     level: silver
     url: "https://www.purestorage.com/company/careers/opportunities.html"
@@ -100,12 +103,21 @@ sponsors:
   - id: mastercard
     level: silver
     url: "https://www.mastercardservices.com/en/solutions"
+  - id: showmax
+    level: silver
+    url: "https://www.showmax.com/"  
+  - id: labyrinthlabs
+    level: silver
+    url: "https://lablabs.io" 
   - id: devopsgroup
     level: bronze
     url: "https://www.devopsgroup.eu"
   - id: alicetechnologies
     level: bronze
     url: "https://www.alicetechnologies.com"
+  - id: inuits
+    level: bronze
+    url: "https://inuits.eu/"
   - id: pure-storage
     level: lanyard
     url: "https://www.purestorage.com/company/careers/opportunities.html"

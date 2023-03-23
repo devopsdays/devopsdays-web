@@ -7,6 +7,10 @@ Description = "Propose a talk for devopsdays Chicago 2023"
 
 <hr>
 
+The call for proposals has closed!
+
+<!-- <hr>
+
 There are four ways to propose a topic at devopsdays:
 <ol>
   <li><strong><em>A 30-minute talk</em></strong> presented to the entire conference audience, usually in the mornings.</li>
@@ -77,4 +81,4 @@ Our main criteria to make it to the top selection are:
 
 <hr>
 
-<strong>How to submit a proposal:</strong> How to submit a proposal: Visit our [CFP Site and submit a proposal there](https://chicago-proposals.devopsdays.org/devopsdays-chicago-2023/cfp). If you run into any problems, please don’t hesitate to contact us by email at [{{< email_organizers >}}].
+<strong>How to submit a proposal:</strong> How to submit a proposal: Visit our [CFP Site and submit a proposal there](https://chicago-proposals.devopsdays.org/devopsdays-chicago-2023/cfp). If you run into any problems, please don’t hesitate to contact us by email at [{{< email_organizers >}}]. -->

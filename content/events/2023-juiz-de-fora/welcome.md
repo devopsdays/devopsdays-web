@@ -1,13 +1,13 @@
 +++
-Title = "DevOps Days Juiz De Fora 2023"
+Title = "DevOpsDays Juiz De Fora 2023"
 Type = "welcome"
 aliases = ["/events/2023-juiz-de-fora/"]
-Description = "DevOps Days Juiz De Fora 2023"
+Description = "DevOpsDays Juiz De Fora 2023"
 +++
 
 <div style="padding: 10px;">
   <div style="padding-bottom: 1em;">
-    <h2>DevOps Days Juiz de Fora 2023</h2>
+    <h2>DevOpsDays Juiz de Fora 2023</h2>
   </div>
   <div style="padding-bottom: 1em;">
     <div class = "row">
@@ -69,10 +69,10 @@ Description = "DevOps Days Juiz De Fora 2023"
   
   <div>
     <h4 style="padding-bottom: 1em;">
-      <strong>O DevOps Days vem em Juiz de Fora em 2023!</strong>
+      <strong>O DevOpsDays vem em Juiz de Fora em 2023!</strong>
     </h4>
     <p>
-    Essa será a primeira edição do DevOps Days em Juiz de Fora, queremos que todos tenhamos mais uma excelente oportunidade de compartilhar conhecimento, contar histórias, socializar e fazer novos amigos!
+    Essa será a primeira edição do DevOpsDays em Juiz de Fora, queremos que todos tenhamos mais uma excelente oportunidade de compartilhar conhecimento, contar histórias, socializar e fazer novos amigos!
     </p>
     <p>
     Queremos tornar a cultura DevOps cada vez mais presente, participe e venha contribuir para essa jornada!

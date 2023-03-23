@@ -1,7 +1,7 @@
 +++
 Title = "Cameron Stanley"
 Twitter = ""
-image = ""
+image = "cameron_stanley.jpg"
 type = "speaker"
 linktitle = "cameron-stanley"
 
