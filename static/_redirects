@@ -90,7 +90,7 @@
 /raleigh/*		/events/2023-raleigh/:splat		302
 /recife/*		/events/2022-recife/:splat		302
 /riga/*			/events/2018-riga/:splat		302
-/rio-de-janeiro/*	/events/2022-rio-de-janeiro/:splat	302
+/rio-de-janeiro/*	/events/2023-rio-de-janeiro/:splat	302
 /rome/*			/events/2012-italy/:splat		302
 /saint-louis/*		/events/2020-saint-louis/:splat		302
 /salt-lake-city/*	/events/2020-salt-lake-city/:splat	302
