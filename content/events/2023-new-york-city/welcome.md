@@ -58,14 +58,14 @@ Description = "devopsdays New York City 2023"
         <h4 class="my-3"><small>Our CFP is now closed. Sorry, we can't accept late submissions.</small></h4>
       </div>
     </div> -->
-    <div class = "row">
+    <!-- <div class = "row">
       <div class = "col-md-1 mx-5 px-0">
         <h4 class="my-3"><strong>Sponsors</strong></h4>
       </div>
       <div class = "col-md-9">
         <h4 class="my-3"><small>{{< event_link page="sponsor" text="Sponsor the conference!" >}}</small></h4>
       </div>
-    </div>
+    </div> -->
     <div class = "row">
       <div class = "col-md-1 mx-5 px-0">
         <h4 class="my-3"><strong>Contact</strong></h4>
