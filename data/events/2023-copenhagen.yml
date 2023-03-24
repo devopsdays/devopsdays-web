@@ -118,6 +118,8 @@ sponsors:
     url: https://mule.to/p3mm
   - id: danske-commodities
     level: community
+  - id: kea
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
