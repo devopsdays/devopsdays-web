@@ -77,6 +77,11 @@ team_members: # Name is the only required field for team members.
     github: "Robo-romeski"
     website: "http://romecode.com"
     twitter: "romecode"
+  - name: "Stefana Muller"
+    employer: "2nd Watch"
+    image: "stefana-muller.jpg"
+    linkedin: "https://www.linkedin.com/in/stefanamuller"
+    twitter: "stefanamuller"
   # - name: "Priyanka Rao"
   #   image: "priyanka-rao.jpg"
   #   linkedin: "https://www.linkedin.com/in/priyanka-rao"
@@ -96,11 +101,6 @@ team_members: # Name is the only required field for team members.
   #   linkedin: "https://www.linkedin.com/in/matthew-titmus/"
   #   github: "clockworksoul"
   #   image: "matthew-titmus.jpg"
-  - name: "Stefana Muller"
-    employer: "2nd Watch"
-    image: "stefana-muller.jpg"
-    linkedin: "https://www.linkedin.com/in/stefanamuller"
-    twitter: "stefanamuller"
 
 organizer_email: "new-york-city@devopsdays.org" # Put your organizer email address here
 
