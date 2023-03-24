@@ -15,6 +15,10 @@ Gold sponsors get a full table and Silver sponsors a shared table where they can
 The best thing to do is send engineers to interact with the experts at devopsdays on their own terms.
 <p>
 
+<div style="font-weight: bold; font-size: 2em; text-align: center;">
+  <a href='https://drive.google.com/file/d/1R4lVwN4QdE4WuaORzscVfiXwH4OFCXy3/view?usp=sharing'>Sponsor Prospectus PDF</a>
+</div>
+
 <!--
 <hr/>
 
