@@ -96,21 +96,21 @@
     {{- if isset .Params "twitch" -}}
       {{- if ne .Params.twitch "" -}}
         <a href = "https://twitch.tv/{{ .Params.twitch }}"><i class="fa fa-twitch fa-2x" aria-hidden="true"></i>&nbsp;
-      {{- if $e.speakers_verbose -}}
-        {{ .Params.twitch }}<br />
-      {{- end -}}
-      </a>
-      {{- end -}}
-      {{- if isset .Params "mastodon" -}}
-        {{- if ne .Params.twitch "" -}}
-          <a href = "{{ .Params.mastodon }}"><i class="fab fa-mastodon fa-2x" aria-hidden="true"></i>&nbsp;
-            {{- if $e.speakers_verbose -}}
-              {{ .Params.mastodon }}<br />
-            {{- end -}}
-          </a>
+        {{- if $e.speakers_verbose -}}
+          {{ .Params.twitch }}<br />
         {{- end -}}
+        </a>
       {{- end -}}
+    {{- end -}}
+    {{- if isset .Params "mastodon" -}}
+      {{- if ne .Params.twitch "" -}}
+        <a href = "{{ .Params.mastodon }}"><i class="fab fa-mastodon fa-2x" aria-hidden="true"></i>&nbsp;
+          {{- if $e.speakers_verbose -}}
+            {{ .Params.mastodon }}<br />
+          {{- end -}}
+        </a>
       {{- end -}}
+    {{- end -}}
   </div>
 </div>
 {{ partial "sponsors.html" . }}
