@@ -7,7 +7,7 @@ Description = "devopsdays New York City 2023"
 
 <div class="row">
   <div class="col-lg-5 my-4">
-    <img alt="DevOpsDays NYC 2023" src="/events/2023-new-york-city/logo.jpg" style="display: block; margin: auto; max-width: 400px">
+    <img alt="DevOpsDays NYC 2023" src="/events/2023-new-york-city/logo-square.jpg" style="display: block; margin: auto; max-width: 400px">
   </div>
   <div class="col-lg-7 my-4">
     <div class = "row">
