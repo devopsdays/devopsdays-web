@@ -142,11 +142,13 @@ sponsors:
     level: platinum
   - id: nginx
     level: community
+  - id: paloaltonetworks
+    level: gold
   - id: portworx
     level: gold
   - id: progresschef
     level: gold
-  - id: servicenow
+  - id: lightstep
     level: community
   - id: sumologic
     level: gold
@@ -400,11 +402,6 @@ program:
     date: 2023-04-13
     start_time: "13:45"
     end_time: "14:15"
-  - title: "carlos-santana-keynote"
-    type: talk
-    date: 2023-04-13
-    start_time: "14:15"
-    end_time: "14:45"
   - title: "praveen-nerellapalli-workshop"
     type: workshop
     date: 2023-04-13
@@ -413,7 +410,12 @@ program:
   - title: "Break"
     type: custom
     date: 2023-04-13
-    start_time: "14:45"
+    start_time: "14:15"
+    end_time: "14:30"
+  - title: "carlos-santana-keynote"
+    type: talk
+    date: 2023-04-13
+    start_time: "14:30"
     end_time: "15:00"
   - title: "john-willis-keynote"
     type: talk
