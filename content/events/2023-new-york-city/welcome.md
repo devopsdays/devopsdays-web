@@ -7,7 +7,7 @@ Description = "devopsdays New York City 2023"
 
 <div class="row">
   <div class="col-lg-5 my-4">
-    <img alt="DevOpsDays NYC 2023" src="/events/2023-new-york-city/logo.png" style="display: block; margin: auto; max-width: 400px">
+    <img alt="DevOpsDays NYC 2023" src="/events/2023-new-york-city/logo.jpg" style="display: block; margin: auto; max-width: 400px">
   </div>
   <div class="col-lg-7 my-4">
     <div class = "row">
@@ -55,7 +55,7 @@ Description = "devopsdays New York City 2023"
         <h4 class="my-3"><strong>Propose</strong></h4>
       </div>
       <div class = "col-md-9">
-        <h4 class="my-3"><small>{{< event_link page="propose" text="Propose a talk!" >}}</small></h4>
+        <h4 class="my-3"><small><a href="https://sessionize.com/devopsdays-new-york-city-2023" target="_blank">Submit a talk proposal</a></small></h4>
       </div>
     </div>
     <div class = "row">
