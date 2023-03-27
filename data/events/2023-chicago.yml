@@ -186,10 +186,16 @@ sponsors:
     level: gold
   - id: sleuth
     level: gold
+  - id: sumologic
+    level: gold
   - id: temporal
+    level: gold
+  - id: trendmicro
     level: gold
   - id: zesty
     level: gold
+  - id: honeycomb
+    level: bronze
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
