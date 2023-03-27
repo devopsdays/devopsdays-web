@@ -204,3 +204,153 @@ sponsor_levels:
   - id: bronze
     label: "Bronze"
     max: 10
+
+program:
+  # workshop day
+  - title: "Registration (workshop day)"
+    type: custom
+    date: 2023-06-21
+    start_time: "08:00"
+    end_time: "09:00"
+
+# 2023 Workshops
+# 9:00 to 12:00
+
+  - title: "luben-alexandrov"
+    type: workshop
+    date: 2023-06-21
+    start_time: "09:00"
+    end_time: "11:00"
+    comments: "Expo 1"
+
+  - title: "rene-de-leijer"
+    type: workshop
+    date: 2023-06-21
+    start_time: "09:00"
+    end_time: "10:30"
+    comments: "Expo 2"
+
+  - title: "julia-sullivan"
+    type: workshop
+    date: 2023-06-21
+    start_time: "09:00"
+    end_time: "12:00"
+    comments: "Ij Zaal"
+
+  - title: "andrew-clay-shafer"
+    type: workshop
+    date: 2023-06-21
+    start_time: "09:50"
+    end_time: "11:50"
+    comments: "Studio"
+
+  - title: "derik-evangelista-winna-bridgewate"
+    type: workshop
+    date: 2023-06-21
+    start_time: "10:30"
+    end_time: "12:00"
+    comments: "Expo 2"
+
+  - title: "viktor-farcic-whitney-lee"
+    type: workshop
+    date: 2023-06-21
+    start_time: "11:15"
+    end_time: "12:00"
+    comments: "Expo 1"
+
+ # LUNCH
+  - title: "Lunch Break"
+    type: custom
+    date: 2023-06-21
+    start_time: "12:00"
+    end_time: "13:00"
+
+  # 12:00 to 14:30
+
+  - title: "marino-wijay"
+    type: workshop
+    date: 2023-06-21
+    start_time: "13:00"
+    end_time: "14:30"
+    comments: "Grote Zaal"
+
+  - title: "anais-urlichs"
+    type: workshop
+    date: 2023-06-21
+    start_time: "13:00"
+    end_time: "14:30"
+    comments: "Expo 1"
+
+  - title: "pieter-reekers"
+    type: workshop
+    date: 2023-06-21
+    start_time: "13:00"
+    end_time: "13:45"
+    comments: "Expo 2"
+
+  - title: "andrew-zigler"
+    type: workshop
+    date: 2023-06-21
+    start_time: "13:00"
+    end_time: "13:45"
+    comments: "Studio"
+
+  - title: "dotan-horovits"
+    type: workshop
+    date: 2023-06-21
+    start_time: "13:45"
+    end_time: "14:30"
+    comments: "Expo 2"
+
+  - title: "lutske-de-leeuw"
+    type: workshop
+    date: 2023-06-21
+    start_time: "13:45"
+    end_time: "14:30"
+    comments: "Studio"
+
+  - title: "Mark Heistek"
+    type: workshop
+    date: 2023-06-21
+    start_time: "13:00"
+    end_time: "14:30"
+    comments: "Ij Zaal"
+
+# After Break
+
+  - title: "nathen-harvey-amanda-lewis"
+    type: workshop
+    date: 2023-06-21
+    start_time: "15:00"
+    end_time: "17:00"
+    comments: "Grote Zaal"
+
+  - title: "michael-arenzon"
+    type: workshop
+    date: 2023-06-21
+    start_time: "15:00"
+    end_time: "17:00"
+    comments: "Expo 1"
+
+  - title: "jamie-lee-coleman"
+    type: workshop
+    date: 2023-06-21
+    start_time: "15:00"
+    end_time: "17:00"
+    comments: "Studio"
+
+  - title: "engin-diri"
+    type: workshop
+    date: 2023-06-21
+    start_time: "15:00"
+    end_time: "17:00"
+    comments: "Ij Zaal"    
+
+
+  # end of day
+  - title: "Have a beer on us!"
+    type: custom
+    date: 2023-06-21
+    start_time: "17:00"
+    end_time: "18:30"
+    comments: "Pakhuis de Zwijger bar"
