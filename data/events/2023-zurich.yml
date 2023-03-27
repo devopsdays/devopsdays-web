@@ -180,6 +180,8 @@ sponsors:
     level: bronze
   - id: puresivefilms
     level: community
+  - id: swiss-post
+    level: bronze
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
