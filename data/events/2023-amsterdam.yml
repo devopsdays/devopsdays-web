@@ -151,6 +151,8 @@ sponsors:
     level: gold
   - id: kosli
     level: gold 
+  - id: devoteam
+    level: gold
 # Lanyard
   - id: schubergphilis
     level: lanyard
@@ -164,6 +166,10 @@ sponsors:
   - id: mkdev
     level: silver
   - id: working-spirit
+    level: silver
+  - id: semaphoreci
+    level: silver
+  - id: cert2connect-checkmarx
     level: silver
 # Bronze
   - id: raftech
@@ -315,6 +321,12 @@ program:
     start_time: "13:00"
     end_time: "14:30"
     comments: "Ij Zaal"
+
+  - title: "Break"
+    type: custom
+    date: 2023-06-21T00:00:00+02:00
+    start_time: "14:30"
+    end_time: "15:00"
 
 # After Break
 
