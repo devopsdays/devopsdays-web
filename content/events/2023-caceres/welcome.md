@@ -4,65 +4,8 @@ Type = "welcome"
 aliases = ["/events/2023-caceres/"]
 Description = "DevOpsDays Cáceres 2023"
 +++
-<style>
-  h1, h2 {
-    font-family: futura-bold;
-    font-size: 2rem;
-  }
-  h3 {
-    font-family: futura-bold;
-    font-size: 1.5rem;
-  }
-  .welcome-page-date {
-    font-size: 1.8rem;
-    font-weight: bold;
-    color: #FF965B;
-  }
-  .welcome-page-masthead-venue, .e-summary {
-    color: white;
-  }
-  .welcome-page-masthead-venue {
-    font-size: 1.5rem;
-  }
-  .welcome-page-masthead-link.p-location, .e-summary {
-    font-size: 1.2rem;
-  }
-  .e-summary {
-    line-height: 100px;
-  }
-  .logo {
-    margin-bottom: 5%;
-  }
-  .button-primary {
-    margin-top: 10px;
-    margin-bottom: 10px;
-    background-color: #FF965B;
-    border-color: #FF965B;
-  }
-  .button-primary:hover {
-    background-color: #904300;
-    border-color: #904300;
-  }
-  .button-secondary {
-    background-color: #904300;
-    border-color: #904300;
-  }
-  .button-secondary:hover {
-    background-color: #000428;
-    border-color: #000428;
-  }
-  .welcome-page-masthead:before {
-    opacity: 0.6;
-    background-image: url(/events/2023-caceres/welcome-banner.jpg);
-    background-repeat: no-repeat;
-    background-position: 0 42.5%;
-    -ms-background-size: cover;
-    -o-background-size: cover;
-    -moz-background-size: cover;
-    -webkit-background-size: cover;
-    background-size: cover;
-  }
-</style>
+<link href="/events/2023-caceres/main.css" rel="stylesheet">
+<script src="/events/2023-caceres/main.js"></script>
 
 <div class = "row">
   <div class="col-md-4">
