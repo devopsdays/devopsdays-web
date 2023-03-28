@@ -74,6 +74,9 @@ organizer_email: "devopsdaysrio@gmail.com" # Put your organizer email address he
 sponsors:
   - id: punkdodevops
     level: community
+  - id: harness
+    level: gold
+    url: https://www.harness.io/
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
