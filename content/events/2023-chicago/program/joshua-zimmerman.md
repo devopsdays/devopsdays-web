@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Never Tell Me The Odds"
+Title = "Never Tell Me the Odds: Navigating Organizational Politics"
 Type = "talk"
 Speakers = ["joshua-zimmerman"]
 +++
@@ -14,4 +14,4 @@ In this talk, I’ll discuss:
 
 - How to identify political structures and learn how decisions get made in your organization
 - Common political structures in technical organizations
-- Tools for healthy collective decision-making"
+- Tools for healthy collective decision-making
