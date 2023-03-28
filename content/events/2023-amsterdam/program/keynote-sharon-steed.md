@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "There are no soft skills: making empathy actionable"
+Title = "Keynote - There are no soft skills: making empathy actionable"
 Type = "talk"
 Speakers = ["sharon-steed"]
 +++

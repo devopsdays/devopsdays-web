@@ -3,7 +3,7 @@ Title = "Mike Long"
 Linkedin = "https://www.linkedin.com/in/mikelongoslo/"
 Website = ""
 Twitter = ""
-image = "mike-long"
+image = "mike-long.jpeg"
 type = "speaker"
 linktitle = ""
 +++

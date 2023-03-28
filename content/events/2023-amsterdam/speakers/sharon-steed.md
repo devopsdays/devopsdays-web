@@ -5,7 +5,7 @@ Website = ""
 Twitter = "sharonsteed"
 image = "sharon-steed.jpg"
 type = "speaker"
-linktitle = sharon-steed"
+linktitle = "sharon-steed"
 +++
 Sharon Steed is an international keynote speaker, author and founder of Communilogue, a corporate empathy and communications consultancy. She is a subject matter expert on empathy at work, and she teams organizations the key empathy behaviors necessary to retain top talent and improve individual and team performance. 
 
