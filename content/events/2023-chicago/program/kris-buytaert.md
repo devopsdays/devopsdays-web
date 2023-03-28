@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Nothing has changed,  Everything has changed"
+Title = "Nothing has changed, Everything has changed"
 Type = "talk"
 Speakers = ["kris-buytaert"]
 +++

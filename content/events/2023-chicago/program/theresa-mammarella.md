@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "To the Left, to the Left: All your security shifted to the left"
+Title = "To the Left, to the Left: All Your Security Shifted to the Left"
 Type = "talk"
 Speakers = ["theresa-mammarella"]
 +++

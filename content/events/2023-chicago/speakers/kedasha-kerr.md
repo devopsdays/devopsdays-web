@@ -8,6 +8,7 @@ linkedin = "https://www.linkedin.com/in/kedashakerr/"
 mastodon = "https://hachyderm.io/@itsthatladydev"
 github = "LadyKerr"
 website = "https://itsthatlady.dev/"
+sharing_image = "kedasha-kerr.png"
 +++
 Kedasha is a Developer Advocate at Github where she enjoys sharing the lessons she's learned from her time as an engineer and from her day job talking with other engineers at GitHub and in the wider developer community.
 

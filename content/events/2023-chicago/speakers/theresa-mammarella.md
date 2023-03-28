@@ -7,6 +7,7 @@ linktitle = "theresa-mammarella"
 linkedin = "https://www.linkedin.com/in/tmammarella/"
 mastodon = "https://mastodon.social/@t_mammarella"
 github = "theresa-m"
+sharing_image = "theresa-mammarella.png"
 +++
 Theresa is a software engineer and developer advocate who enjoys helping developers harness the full potential of their tools to create innovative solutions. Theresa has a background as an open source contributor to Java Virtual Machine and compiler projects at IBM and Red Hat. She has now embarked on a new journey into the exciting realm of security and static analysis tooling, advocating for the needs of developers.
 

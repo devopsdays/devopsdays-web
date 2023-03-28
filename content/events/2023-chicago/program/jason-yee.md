@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "How to fail at DevOps the Cloud Native way"
+Title = "How to Fail at DevOps the Cloud Native Way"
 Type = "talk"
 Speakers = ["jason-yee"]
 +++

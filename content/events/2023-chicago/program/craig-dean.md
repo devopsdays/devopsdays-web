@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Transforming Enterprise culture – Discover’s move to a modern software platform"
+Title = "Transforming Enterprise Culture – Discover’s Move to a Modern Software Platform"
 Type = "talk"
 Speakers = ["craig-katz", "dean-parke"]
 +++

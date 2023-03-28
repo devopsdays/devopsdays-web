@@ -6,6 +6,7 @@ type = "speaker"
 linktitle = "tim-banks"
 linkedin = "https://www.linkedin.com/in/timjb/"
 github = "timbanks"
+sharing_image = "tim-banks.png"
 +++
 Tim's tech career spans over 25 years through various sectors. His initial journey into tech started in avionics in the US Marine Corps and then into various government contracting roles. After moving to the private sector, Tim worked both in large corporate environments and in small startups, honing his skills in systems administration, automation, architecture, and operations for large cloud-based datastores.
 

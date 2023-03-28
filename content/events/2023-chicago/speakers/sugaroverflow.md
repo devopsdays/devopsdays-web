@@ -7,7 +7,7 @@ linktitle = "sugaroverflow"
 linkedin = "https://linkedin.com/sugaroverflow"
 mastodon = "https://hachyderm.io/@sugaroverflow"
 github = "sugaroverflow"
-
+sharing_image = "sugaroverflow.png"
 +++
 they say i'm 5'2" with 6'2" energy ✌️
 
