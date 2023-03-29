@@ -3,7 +3,22 @@ Title = "Propose"
 Type = "event"
 Description = "Propose a talk for devopsdays Tel Aviv 2023"
 +++
-  {{< cfp_dates >}}
+  
+
+
+ <div class="box" style="width: 100%;">
+ <h1>CFP Timelines</h1>
+    <ul>
+    <li>CFP Opens: March 30, 2023</li>
+    <li>CFP Closes: May 31, 2023</li>
+    <li>Speaker Notifications: Mid-July</li>
+    <li>Announce Agenda: Mid-August</li>
+    </ul>
+<br/>
+     <p>Like every year, we'd like to request the you have patience during CFP review, as it is very difficult locking down an agenda. If you submitted a talk, we assure you, <strong>you will receive speaker feedback</strong>, as we very much appreciate the time and effort you took to submit.</p>
+</div>
+
+  <h3>Submit your talks on <a href="https://sessionize.com/devopsdays-tel-aviv-2023/" target="_blank">Sessionize</a>.</h3>
 
 <hr>
 
