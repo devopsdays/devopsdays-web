@@ -112,10 +112,10 @@ sponsors:
 #    level: gold
 #  - id: redhat
 #    level: gold
-#  - id: sourceallies
-#    level: lanyard
-#  - id: leantechniques
-#    level: book
+ - id: sourceallies
+   level: gold
+ - id: leantechniques
+   level: gold
 #  - id: caseys
 #    level: gold
 #  - id: we-write-code
@@ -143,4 +143,4 @@ sponsor_levels:
     max: 1
   - id: community
     label: Community
-    max: 1
+    max: 0
