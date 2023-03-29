@@ -103,4 +103,4 @@ Choosing talks is part art, part science; here are some factors we consider when
 
 <hr>
 
-<h1>READY? SUBMIT YOUR PROPOSAL <a href="https://sessionize.com/devopsdays-tel-aviv-2023/" target="_blank"> >> HERE<< </a></h1> 
+<h1>READY? SUBMIT YOUR PROPOSAL <a href="https://sessionize.com/devopsdays-tel-aviv-2023/" target="_blank">&gt;&gt;HERE&lt;&lt;</a></h1> 
