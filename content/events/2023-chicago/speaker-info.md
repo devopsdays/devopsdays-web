@@ -122,7 +122,9 @@ Talks will be recorded and made available on the conference website within a rea
 
 ## Social Media
 
-We love it when our speakers are active on social media! The preferred hashtag for the event is #devopsdays, and the event's Twitter handle is [@devopsdayschi](https://twitter.com/devopsdayschi). <!--We have created social media cards for your use - you can find yours at <https://bit.ly/dodchi-2022-speaker-cards>-->
+We love it when our speakers are active on social media! The preferred hashtag for the event is #devopsdays, and the event's Twitter handle is [@devopsdayschi](https://twitter.com/devopsdayschi) and we are on Mastodon at [hachyderm.io/@devopsdayschi](https://hachyderm.io/@devopsdayschi). 
+
+We have created social media cards for your use - you can find yours at <https://bit.ly/dodchi-2023-speaker-cards>
 
 ## Ignite Speaker Details
 
