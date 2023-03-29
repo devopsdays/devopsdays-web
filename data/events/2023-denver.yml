@@ -168,10 +168,15 @@ program:
     date: 2023-04-24T00:00:00-06:00
     start_time: "12:00"
     end_time: "13:30"
+  - title: "brooke-jamieson"
+    date: 2023-04-24T00:00:00-06:00
+    type: talk
+    start_time: "13:30"
+    end_time: "14:00"
   - title: "Ignites"
     type: ignite
     date: 2023-04-24T00:00:00-06:00
-    start_time: "13:45"
+    start_time: "14:05"
     end_time: "14:30"
   - title: "Open Space Opening"
     type: custom
