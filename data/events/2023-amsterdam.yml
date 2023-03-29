@@ -423,44 +423,45 @@ program:
     type: open-space
     date: 2023-06-22T00:00:00+02:00
     start_time: "14:10"
-    end_time: "15:10"
+    end_time: "15:00"
+    background_color: "#ffb566"
   - title: "open-space-one-day-one"
     type: talk
     date: 2023-06-22T00:00:00+02:00
-    start_time: "15:15"
-    end_time: "15:45"
+    start_time: "15:05"
+    end_time: "15:35"
     background_color: "#ffb566"
-  - title: "john-willis"
+  - title: "stefan-holdermans"
     type: talk
     date: 2023-06-22T00:00:00+02:00
-    start_time: "15:15"
-    end_time: "15:45"
-    comments: "Sec/Compliance Track | Location: Grote Zaal"
+    start_time: "15:05"
+    end_time: "15:35"
+    background_color: "#abebff"
+    comments: "Beyond DevOps Track | Location: Grote Zaal"
   - title: "open-space-two-day-one"
     type: talk
     date: 2023-06-22T00:00:00+02:00
-    start_time: "15:50"
-    end_time: "16:25"
+    start_time: "15:40"
+    end_time: "16:10"
     background_color: "#ffb566"
   - title: "christoph-hartmann"
     type: talk
     date: 2023-06-22T00:00:00+02:00
-    start_time: "15:50"
-    end_time: "16:25"
-    comments: "Sec/Compliance Track | Location: Grote Zaal"
+    start_time: "15:40"
+    end_time: "16:10"
+    comments: "Beyond DevOps Track | Location: Grote Zaal"
   - title: "open-space-three-day-one"
     type: talk
     date: 2023-06-22T00:00:00+02:00
-    start_time: "16:30"
-    end_time: "17:00"
+    start_time: "16:15"
+    end_time: "16:45"
     background_color: "#ffb566"
-  - title: "TO BE SCHEDULED"
-    type: custom
+  - title: "john-willis"
+    type: talk
     date: 2023-06-22T00:00:00+02:00
-    start_time: "16:30"
-    end_time: "17:00"
-    background_color: "#abebff"
-    comments: "Sec/Compliance Track | Location: Grote Zaal"
+    start_time: "16:15"
+    end_time: "16:45"
+    comments: "Beyond DevOps Track | Location: Grote Zaal"
   - title: "BBQ by Smokey Goodness brought to by our potential Platinum Sponsor"
     type: custom
     date: 2023-06-22T00:00:00+02:00
@@ -597,6 +598,8 @@ ignites:
   - title: "ig-ben-madley"
     date: 2023-06-23T00:00:00+02:00
   - title: "ig-jason-yee"
+    date: 2023-06-23T00:00:00+02:00
+  - title: "ig-feu-mourek"
     date: 2023-06-23T00:00:00+02:00
   - title: "ig-kris-buytaert"
     date: 2023-06-23T00:00:00+02:00
