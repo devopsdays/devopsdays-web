@@ -227,7 +227,7 @@ Aiming to enhance the participation of institutions in the event, we organized p
     </tr>
     <tr>
       <td><b>Contribution</b></td>
-      <td><b>US$ 1.00,00</b></td>
+      <td><b>US$ 1.000,00</b></td>
       <td><b>US$ 2.000,00</b></td>
       <td><b>US$ 3.000,00</b></td>
       <td><b>US$ 4.000,00</b></td>
