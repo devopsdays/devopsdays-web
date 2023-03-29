@@ -172,6 +172,8 @@ sponsors:
     level: platinum
   - id: newrelic
     level: platinum
+  - id: discover
+    level: platinum
   - id: appdynamics
     level: gold
   - id: circleci
