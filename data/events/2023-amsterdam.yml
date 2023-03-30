@@ -171,6 +171,8 @@ sponsors:
     level: silver
   - id: cert2connect-checkmarx
     level: silver
+  - id: sysdig
+    level: silver
 # Bronze
   - id: raftech
     level: bronze
@@ -418,7 +420,7 @@ program:
     type: ignite
     date: 2023-06-22T00:00:00+02:00
     start_time: "13:40"
-    end_time: "14:10"
+    end_time: "14:05"
   - title: "Open Space Opening"
     type: open-space
     date: 2023-06-22T00:00:00+02:00
