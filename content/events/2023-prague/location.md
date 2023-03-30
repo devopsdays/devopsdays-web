@@ -4,10 +4,17 @@ Type = "event"
 Description = "Location for devopsdays prague 2023"
 +++
 
-Watch this space for information about the venue including address, map/direction, parking/transit, and any hotel details.
+<br />
+<p>The conference will take place at the Clarion Congress Hotel</p>
+<p>Freyova 33<br />
+190 00, Praha 9</p>
+
+<p>
+Watch this space for information about parking/transit and any hotel details.
+</p>
 
 <!-- Uncomment this only if you have set the coordinates for your location in the config yaml. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html -->
-<!-- {{< event_map >}} -->
+{{< event_map >}}
 
 <!-- Edit and uncomment to let people know what accessibility features you have available -->
 <!-- 

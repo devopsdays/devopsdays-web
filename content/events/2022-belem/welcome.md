@@ -45,7 +45,7 @@ Description = "devopsdays Belém 2022"
     <strong>Inscreva-se</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="registration" text="Inscreva-se e participe!" >}}
+    <a href="https://www.sympla.com.br/devopsdays-belem-2022__1719640" target="_blank">Inscreva-se e participe!</a>
   </div>
 </div>
 

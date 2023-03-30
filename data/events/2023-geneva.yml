@@ -18,9 +18,9 @@ startdate: 2023-04-24T08:00:00+01:00 # The start date of your event. Leave blank
 enddate: 2023-04-25T17:00:00+01:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start:  2022-11-17T11:30:00+01:00 # start accepting talk proposals.
+cfp_date_end:  2023-01-20T23:59:00+01:00 # close your call for proposals.
+cfp_date_announce:  2023-02-10T12:00:00+01:00 # inform proposers of status
 
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
@@ -33,17 +33,17 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 # Location
 #
-coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+coordinates: "46.1758689, 6.1364216" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Geneva" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "Campus de Battelle, Rue de la Tambourine 17, 1227 Carouge" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
-#  - name: location
- # - name: registration
- # - name: program
- # - name: speakers
+#  - name: propose
+  - name: location
+  - name: registration
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: newsletter
   - name: contact
@@ -94,12 +94,70 @@ organizer_email: "geneva@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-#  - id: samplesponsorname
-#    level: gold
-# #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-#  - id: arresteddevops
-#    level: community
-
+  - id: techfirm
+    level: event
+  - id: camptocamp
+    level: gold
+  - id: hidora
+    level: gold
+  - id: pure-storage
+    level: gold
+  - id: feesh
+    level: gold
+  - id: swissdevjobs
+    level: community
+  - id: pictet
+    level: gold
+  - id: dbi-services
+    level: silver
+  - id: exoscale
+    level: gold
+  - id: apalia
+    level: silver
+  - id: webmardi
+    level: community
+  - id: sokube
+    level: silver
+  - id: apwide
+    level: silver
+  - id: secureflag
+    level: silver
+  - id: suse
+    level: silver
+  - id: cisel
+    level: gold
+  - id: globaz
+    level: silver
+  - id: sonarsource
+    level: gold
+  - id: infomaniak
+    level: bronze
+  - id: yuccasolutions
+    level: bronze
+  - id: redhat
+    level: silver
+  - id: socraft
+    level: bronze
+  - id: f5-nginx
+    level: bronze
+  - id: wiz
+    level: silver
+  - id: swiss-cybersecurity
+    level: community
+  - id: meetup-devops-geneva
+    level: community
+  - id: agilesuisse
+    level: community
+  - id: e-xpert-solutions
+    level: bronze
+  - id: powerhouse
+    level: community
+  - id: software-crafts-romandie
+    level: community
+  - id: qiminfo
+    level: bronze
+  - id: valueitswiss
+    level: bronze
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -118,9 +176,291 @@ sponsor_levels:
     max: 8
   - id: bronze
     label: Bronze
-  - id: mug
-    label: Mug
   - id: community
     label: Community
 
+
 program:
+  ##  Day 1
+  # Day 1: welcome
+  - title: Everyone Welcome Coffee & Registration
+    type: custom
+    date: "2023-04-24"
+    start_time: "08:15"
+    end_time: "08:45"
+
+  - title: Welcome Speech
+    type: custom
+    date: "2023-04-24"
+    start_time: "08:45"
+    end_time: "09:10"
+
+    # Day 1: talk 1
+  - title: philippe-morisseau
+    type: talk
+    date: "2023-04-24"
+    start_time: "09:10"
+    end_time: "10:00"
+
+    # Day 1: talk 2
+  - title: natalie-godec
+    type: talk
+    date: "2023-04-24"
+    start_time: "10:00"
+    end_time: "10:50"
+
+    # Day 1: workshop 1
+  - title: alessandro-di-gioia
+    type: workshop
+    date: "2023-04-24"
+    start_time: "9:10"
+    end_time: "10:50"
+
+
+  - title: Morning coffee
+    type: custom
+    date: "2023-04-24"
+    start_time: "10:50"
+    end_time: "11:20"
+
+    # Day 1: talk 3
+  - title: stephanie-fischer-and-nicolas-thomas
+    type: talk
+    date: "2023-04-24"
+    start_time: "11:20"
+    end_time: "12:10"
+
+    # Day 1: talk 4
+  - title: akshata-sawant
+    type: talk
+    date: "2023-04-24"
+    start_time: "12:10"
+    end_time: "13:00"
+
+    # Day 1: workshop 2
+  - title: magali-david-cruz-and-natale-vinto
+    type: workshop
+    date: "2023-04-24"
+    start_time: "11:20"
+    end_time: "13:00"
+
+    # Day 1: workshop 2 bis
+  - title: "Open Space, live topics defined on the day according to your proposals (B2.15)"
+    type: open-space
+    date: "2023-04-24"
+    start_time: "11:20"
+    end_time: "13:00"
+
+  - title: "Lunch"
+    type: custom
+    date: "2023-04-24"
+    start_time: "13:00"
+    end_time: "14:30"
+
+    # Day 1: talk 5
+  - title: arnaud-billion
+    type: talk
+    date: "2023-04-24"
+    start_time: "14:30"
+    end_time: "15:20"
+
+    # Day 1: talk 6
+  - title: guillaume-vial
+    type: talk
+    date: "2023-04-24"
+    start_time: "15:20"
+    end_time: "16:10"
+
+  # Day 1: workshop 3
+  - title: bertrand-thomas
+    type: workshop
+    date: "2023-04-24"
+    start_time: "14:30"
+    end_time: "16:10"
+
+  # Day 1: workshop 3 bis
+  - title: "Open Space, live topics defined on the day according to your proposals (B2.15)"
+    type: open-space
+    date: "2023-04-24"
+    start_time: "14:30"
+    end_time: "16:10"
+
+  - title: Afternoon coffee
+    type: custom
+    date: "2023-04-24"
+    start_time: "16:10"
+    end_time: "16:55"
+
+  #   Day 1: talk 7
+  - title: gal-bashan
+    type: talk
+    date: "2023-04-24"
+    start_time: "16:55"
+    end_time: "17:45"
+
+  #   Day 1: talk 8
+  - title: lucas-galton
+    type: talk
+    date: "2023-04-24"
+    start_time: "17:45"
+    end_time: "18:35"
+
+  #   Day 1: workshop 4
+  - title: laurent-tupin
+    type: workshop
+    date: "2023-04-24"
+    start_time: "16:55"
+    end_time: "18:35"
+
+    #   Day 1: workshop 4 bis
+  - title: "Open Space, live topics defined on the day according to your proposals (B2.15)"
+    type: open-space
+    date: "2023-04-24"
+    start_time: "16:55"
+    end_time: "18:35"
+
+
+  #   Day 1: talk 9
+  - title: kris-buytaert
+    type: talk
+    date: "2023-04-24"
+    start_time: "18:35"
+    end_time: "19:25"
+
+  - title: Cocktail Dinner
+    type: custom
+    date: "2023-04-24"
+    start_time: "19:25"
+    end_time: ""
+
+
+  #Day 2
+  - title: Everyone Welcome Coffee & Registration
+    type: custom
+    date: "2023-04-25"
+    start_time: "08:15"
+    end_time: "08:45"
+
+  - title: Welcome Speech
+    type: custom
+    date: "2023-04-25"
+    start_time: "08:45"
+    end_time: "09:10"
+
+  #   Day 2: talk 1
+  - title: olivier-liechti
+    type: talk
+    date: "2023-04-25"
+    start_time: "09:10"
+    end_time: "10:00"
+
+  #   Day 2: talk 2
+  - title: keerthana-ganesh-and-shubam-patil
+    type: talk
+    date: "2023-04-25"
+    start_time: "10:00"
+    end_time: "10:50"
+
+  ## Day 2 workshop
+  - title: franck-pachot
+    type: workshop
+    date: "2023-04-25"
+    start_time: "09:10"
+    end_time: "10:50"
+
+  - title: "Open Space, live topics defined on the day according to your proposals (B2.15)"
+    type: open-space
+    date: "2023-04-25"
+    start_time: "09:10"
+    end_time: "10:50"
+
+  - title: Morning Coffee
+    type: custom
+    date: "2023-04-25"
+    start_time: "10:50"
+    end_time: "11:20"
+
+  #   Day 2: talk 3
+  - title: marco-consolaro
+    type: talk
+    date: "2023-04-25"
+    start_time: "11:20"
+    end_time: "12:10"
+
+  #   Day 2: talk 4
+  - title: drishti-jain
+    type: talk
+    date: "2023-04-25"
+    start_time: "12:10"
+    end_time: "13:00"
+
+  - title: martin-petersen
+    type: workshop
+    date: "2023-04-25"
+    start_time: "11:20"
+    end_time: "13:00"
+
+  - title: "Open Space, live topics defined on the day according to your proposals (B2.15)"
+    type: open-space
+    date: "2023-04-25"
+    start_time: "11:20"
+    end_time: "13:00"
+
+  - title: Lunch
+    type: custom
+    date: "2023-04-25"
+    start_time: "13:00"
+    end_time: "14:30"
+
+  #   Day 2: talk 5
+  - title: cody-zuschlag
+    type: talk
+    date: "2023-04-25"
+    start_time: "14:30"
+    end_time: "15:20"
+
+  #   Day 2: talk 6
+  - title: daniel-fratte
+    type: talk
+    date: "2023-04-25"
+    start_time: "15:20"
+    end_time: "16:10"
+
+  - title: raphael-pinson
+    type: workshop
+    date: "2023-04-25"
+    start_time: "14:30"
+    end_time: "16:10"
+
+  - title: Afternoon coffee
+    type: custom
+    date: "2023-04-25"
+    start_time: "16:10"
+    end_time: "16:55"
+
+  #   Day 2: talk 7
+  - title: kaviraj-kanagaraj
+    type: talk
+    date: "2023-04-25"
+    start_time: "16:55"
+    end_time: "17:45"
+
+  #   Day 2: talk 8
+  - title: dan-conn
+    type: talk
+    date: "2023-04-25"
+    start_time: "17:45"
+    end_time: "18:35"
+
+  #   Day 2: workshop
+  - title: yohan-varona
+    type: workshop
+    date: "2023-04-25"
+    start_time: "16:55"
+    end_time: "18:35"
+
+  - title: Closing Speech
+    type: custom
+    date: "2023-04-25"
+    start_time: "18:35"
+    end_time: "19:00"

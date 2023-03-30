@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Keep Storing and Carry On"
 Type = "talk"
 Speakers = ["ida-furjesova"]
+Youtube = "sdIdS0y8OJg"
 +++
 
 Refactoring old code is thankless job, but it does add value by increasing code readability and decreasing complexity which enables to build new features.

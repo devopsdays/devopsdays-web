@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "What is resilience engineering"
 Type = "talk"
 Speakers = ["piet-van-dongen"]
+Youtube = "r4BSIdtjBLs"
 +++
 
 The coronavirus pandemic has taught us developers two things: 1) all online systems will fail eventually and 2) they will fail in unpredictable ways. But have no fear, resilience engineering is here!

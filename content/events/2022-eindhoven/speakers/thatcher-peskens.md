@@ -4,7 +4,7 @@ Twitter = "dhr_p"
 image = "thatcher-peskens.jpg"
 type = "speaker"
 linktitle = "thatcher-peskens"
-
+slides = ""
 +++
 
 

@@ -120,7 +120,7 @@ sponsors:
     level: diamond
   - id: 42crunch
     level: diamond
-  - id: trendmicro
+  - id: trendmicro-before-20230130
     level: platinum
   - id: edge-delta
     level: platinum
@@ -146,7 +146,7 @@ sponsors:
     level: swagbag
   - id: moduscreate
     level: gold
-  - id: appdynamics
+  - id: appdynamics-before-20230221
     level: platinum
   - id: reversinglabs
     level: platinum

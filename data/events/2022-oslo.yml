@@ -80,7 +80,14 @@ sponsors:
     level: event
   - id: safespring
     level: event
+    url: https://www.safespring.com/no/
   - id: stoltit
     level: event
   - id: bekk
+    level: event
+  - id: pwc-norge
+    level: event
+  - id: finn
+    level: event
+  - id: microsoft
     level: event

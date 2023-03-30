@@ -1,83 +1,40 @@
 +++
-Title = "Location"
+Title = "Location - DevOpsDays Cáceres 2023"
 Type = "event"
-Description = "Location for devopsdays Cáceres 2020"
+Description = "Location"
 +++
+<link href="/events/2023-caceres/main.css" rel="stylesheet">
+<script src="/events/2023-caceres/main.js"></script>
 
-<h3>The event will take place at <strong>Complejo Cultural San Francisco</strong></h3>
-
-<h4>Ronda de San Francisco, 15, 10002 Cáceres</h4>
-
-<style>
-  .location.row {
-    display: flex;
-    flex-wrap: wrap;
-    padding: 0 4px;
-  }
-  .location.row.two {
-    margin: 5% 0;
-  }
-  .location.column {
-    flex: 25%;
-    padding: 0 4px;
-  }
-  .location.column.four:not(.map) {
-    max-width: 20%;
-  }
-  .location.column.four.map {
-    max-width: 530px;
-  }
-  .location.column.two {
-    text-align: center;
-  }
-  .location.column.two > i {
-    padding: 5%
-  }
-  .location.column > img {
-    margin-top: 8px;
-    vertical-align: middle;
-    width: 100%;
-  }
-  .train-discount {
-    margin: 2% auto;
-    width: 400px;
-  }
-  .logo-wrapper, .discount-content {
-    text-align: center;
-  }
-  .logo-wrapper > img {
-    width: 200px;
-  }
-  .map-wrapper {
-    margin: 1.5% auto 0;
-    width: 500px;
-  }
-</style>
+<div class="info">
+  <p>The event will take place at <strong>Complejo Cultural San Francisco</strong></p>
+  <p>Ronda de San Francisco, 15, 10002 Cáceres</p>
+</div>
 
 <div>
-  <div class="location row one"> 
+  <div class="location row one">
     <div class="location column four">
-      <img src="https://devopsdays.cc/wp-content/uploads/2019/12/devopsdays-san-francisco-jorge-rey-41.jpg"
+      <img src="https://assets.devopsdays.org/events/2023/caceres/venue/devopsdays-san-francisco-jorge-rey-41.jpg"
         alt="Complejo Cultural San Francisco"/>
-      <img src="https://devopsdays.cc/wp-content/uploads/2019/12/devopsdays-san-francisco-jorge-rey-42.jpg"
+      <img src="https://assets.devopsdays.org/events/2023/caceres/venue/devopsdays-san-francisco-jorge-rey-42.jpg"
         alt="Complejo Cultural San Francisco"/>
-      <img src="https://devopsdays.cc/wp-content/uploads/2019/12/devopsdays-san-francisco-jorge-rey-31.jpg"
+      <img src="https://assets.devopsdays.org/events/2023/caceres/venue/devopsdays-san-francisco-jorge-rey-31.jpg"
         alt="Complejo Cultural San Francisco"/>
     </div>
     <div class="location column four">
-      <img src="https://devopsdays.cc/wp-content/uploads/2019/12/devopsdays-san-francisco-jorge-rey-7.jpg"
+      <img src="https://assets.devopsdays.org/events/2023/caceres/venue/devopsdays-san-francisco-jorge-rey-7.jpg"
         alt="Complejo Cultural San Francisco"/>
-      <img src="https://devopsdays.cc/wp-content/uploads/2019/12/devopsdays-san-francisco-jorge-rey-15.jpg"
+      <img src="https://assets.devopsdays.org/events/2023/caceres/venue/devopsdays-san-francisco-jorge-rey-15.jpg"
         alt="Complejo Cultural San Francisco"/>
-      <img src="https://devopsdays.cc/wp-content/uploads/2019/12/devopsdays-san-francisco-jorge-rey-34.jpg"
+      <img src="https://assets.devopsdays.org/events/2023/caceres/venue/devopsdays-san-francisco-jorge-rey-34.jpg"
         alt="Complejo Cultural San Francisco"/>
     </div>
     <div class="location column four">
-      <img src="https://devopsdays.cc/wp-content/uploads/2019/12/devopsdays-san-francisco-jorge-rey-10.jpg"
+      <img src="https://assets.devopsdays.org/events/2023/caceres/venue/devopsdays-san-francisco-jorge-rey-10.jpg"
         alt="Complejo Cultural San Francisco"/>
-      <img src="https://devopsdays.cc/wp-content/uploads/2019/12/devopsdays-san-francisco-jorge-rey-16.jpg"
+      <img src="https://assets.devopsdays.org/events/2023/caceres/venue/devopsdays-san-francisco-jorge-rey-16.jpg"
         alt="Complejo Cultural San Francisco"/>
-      <img src="https://devopsdays.cc/wp-content/uploads/2019/12/devopsdays-san-francisco-jorge-rey-29.jpg"
+      <img src="https://assets.devopsdays.org/events/2023/caceres/venue/devopsdays-san-francisco-jorge-rey-29.jpg"
         alt="Complejo Cultural San Francisco"/>
     </div>
     <div class="location column four map">
@@ -87,20 +44,20 @@ Description = "Location for devopsdays Cáceres 2020"
     </div>
   </div>
   <div class="location row two">
-    <div class="location column two">
+    <div class="location column two info">
       <h1>How To Get There</h1>
-      <h3>There are several <strong>trains</strong> and buses coming from the Spain main capital cities.</h3>
-      <h3>If you want to come by <strong>plane</strong>, you can go to the <strong>Talavera (Badajoz) Airport</strong></h3>
-      <h3>and then come from Badajoz to Cáceres by road using bus, train or a rented car.</h3>
+      <p>There are several <strong>trains</strong> and buses coming from the Spain main capital cities.</p>
+      <p>If you want to come by <strong>plane</strong>, you can go to the <strong>Talavera (Badajoz) Airport</strong></p>
+      <p>and then come from Badajoz to Cáceres by road using bus, train or a rented car.</p>
       <i class="fa fa-train fa-5x"></i>
       <i class="fa fa-bus fa-5x"></i>
       <i class="fa fa-plane fa-5x"></i>
     </div>
-    <div class="location column two">
+    <div class="location column two info">
       <h1>More interesting info</h1>
-      <h3>During your stay in the city maybe you need to make use of other services.</h3>
-      <h3>The <strong>Cáceres City Hall</strong> gives you a complete list of interesting phone numbers,</h3>
-      <h3>including <strong>emergencies</strong>, <strong>firefighters</strong>, <strong>police</strong>, <strong>passports</strong> etc.</h3>
+      <p>During your stay in the city maybe you need to make use of other services.</p>
+      <p>The <strong>Cáceres City Hall</strong> gives you a complete list of interesting phone numbers,</p>
+      <p>including <strong>emergencies</strong>, <strong>firefighters</strong>, <strong>police</strong>, <strong>passports</strong> etc.</p>
       <i class="fa fa-phone fa-5x"></i>
       <i class="fa fa-bed fa-5x"></i>
     </div>

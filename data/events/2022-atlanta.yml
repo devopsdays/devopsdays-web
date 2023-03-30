@@ -82,7 +82,7 @@ sponsors:
     level: gold
   - id: contrast_security
     level: gold
-  - id: appdynamics
+  - id: appdynamics-before-20230221
     level: gold
   - id: vmware-tanzu
     level: gold
@@ -104,7 +104,7 @@ sponsors:
     level: gold
   - id: coralogix
     level: gold
-  - id: granulate
+  - id: granulate-before-20230209
     level: gold
   - id: roostai
     level: gold

@@ -5,9 +5,9 @@ aliases = ["/events/2023-amsterdam/"]
 Description = "devopsdays Amsterdam will take place June 21-23, 2023! The group that brought you devopsdays Amsterdam is back together and planning the 2023 event."
 +++
 
-<!-- <div style="text-align:center;">
+<div style="text-align:center;">
   {{< event_logo >}}
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -29,57 +29,50 @@ Description = "devopsdays Amsterdam will take place June 21-23, 2023! The group 
 
 <!-- <div class = "row">
   <div class = "col-md-2">
-    <strong>Register</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
-  </div>
-</div> -->
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
+    <a href="https://talx.devops.foundation/devopsdays-amsterdam-2023/cfp">
+      Propose a talk!
+    </a>
   </div>
 </div> -->
 
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Program</strong>
-  </div>
-  <div class = "col-md-8">
-    View the {{< event_link page="program" text="program." >}}
-  </div>
-</div> -->
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Speakers</strong>
-  </div>
-  <div class = "col-md-8">
-    Check out the {{< event_link page="speakers" text="speakers!" >}}
-  </div>
-</div> -->
-
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="sponsor" text="Sponsor the conference!" >}}
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
-    <strong>Get a ticket</strong>
+    <strong>Register / Get a ticket</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="registration" text="Buy a ticket to the conference" >}}
+    {{< event_link page="registration" text="Register / buy a ticket to attend the conference!" >}}
   </div>
-</div> -->
+</div>
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Program</strong>
+  </div>
+  <div class = "col-md-8">
+    View the {{< event_link page="program" text="program." >}}
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Speakers</strong>
+  </div>
+  <div class = "col-md-8">
+    Check out the {{< event_link page="speakers" text="speakers!" >}}
+  </div>
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -103,20 +96,20 @@ Description = "devopsdays Amsterdam will take place June 21-23, 2023! The group 
   <div class="row">
     <div class="col-md-12">
       <div class="row justify-content-center">
-        <!-- <div class="d-flex p-2">
+        <div class="d-flex p-2">
           <a class="btn btn-primary btn-block"
             style="margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;"
             href="/events/2023-amsterdam/sponsor">
             <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference
           </a>
-        </div> -->
-        <!-- <div class="d-flex p-2">
+        </div>
+        <div class="d-flex p-2">
           <a class="btn btn-primary btn-block"
             style="margin-top: 10px; margin-bottom: 10px; background-color: #e59049; border-color: #e59049;"
             href="/events/2023-amsterdam/registration">
             <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Buy a ticket
           </a>
-        </div> -->
+        </div>
         <div class="d-flex p-2">
           <a class="btn btn-primary btn-block"
             style="margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;"
@@ -126,17 +119,17 @@ Description = "devopsdays Amsterdam will take place June 21-23, 2023! The group 
         </div>
       </div>
     </div>
-  </div> 
+  </div>
 
   <div class="row">
     <div class="col-12">
-      From fledgling startups to established industry,  The Netherlands is home to a large, vibrant technology community. Amsterdam, in particular, has been a flurry of activity in the past several years, drawing attention from around the globe.
+        From fledgling startups to established industry, The Netherlands is home to a large, vibrant technology community. Amsterdam, in particular, has been a flurry of activity in the past several years, drawing attention from around the globe.
       <br><br>
-      devopsdays Amsterdam brings development, operations, QA, InfoSec, management, and leadership together to discuss the culture and tools to make better organizations and products. The 2023 event will be the manieth time we have held devopsdays Amsterdam, and it should be bigger and better than ever before!
+        Devopsdays Amsterdam brings all disciplines, such as development, operations, QA, InfoSec, management, and leadership, together to discuss culture, tools and skills to make better organizations and products. The 2023 event will be the manieth time we have held devopsdays Amsterdam, and it should be bigger and better than ever before!
       <br><br>
-      We expect 550 people this year and will be holding the event on June 21-23, 2023 at the <a href="/events/2023-amsterdam/location">Pakhuis de Zwijger</a> in the center of Amsterdam.
+        We expect 600 people this year and will be holding the event on June 21-23, 2023 at the <a href="/events/2023-amsterdam/location">Pakhuis de Zwijger</a> in the center of Amsterdam.
       <br><br>
-      The format of devopsdays Amsterdam includes a single track of 30 minute talks in the morning of each event, followed by Ignite talks (5 minute, auto forwarding). We spend the rest of the afternoon in Open Spaces, which are considered a key portion of the event. For those not interested in the Open Spaces, we continue offering the single track around a specific theme (previously around Security and HumanOps).
+        The first day will be a workshop day, focusing on hands-on activities, from coding to cooperation in several parallel tracks in smaller settings. The format of the following 2 days includes a single track of 30-minute talks in the morning, followed by Ignite talks (5-minute, auto forwarding slides). There will be room for Open Spaces in the afternoon, which is considered a vital portion of the event. For those not interested in the Open Spaces, we continue offering the single track around a specific theme (this year around Compliance & Security and Platform Engineering).
     </div>
   </div>
   <div class="row">

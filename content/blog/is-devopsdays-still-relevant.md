@@ -28,7 +28,7 @@ Another discussion topic for the Amsterdam organizers’ retrospective was “Wh
 * Many of us were former attendees who appreciated learning at an event and saw organizing as a way to give back.
 * Many referenced the [open spaces](https://devopsdays.org/open-space-format/) concept as something that they appreciate about devopsdays.
 
-We also agreed that there is no other global, technology-space conference like devopsdays. Sure, there are vendor-specific conferences, and conferences organized by profit-driven event hosting companies that bear the name _DevOps_. But events created by DevOps enthusiasts with a focus on the work and the people? This is the one and only.
+We also agreed that there is no other global, technology-space conference like devopsdays. Sure, there are vendor/technology-specific conferences, and conferences organized by profit-driven event hosting companies that bear the name _DevOps_. But events created by DevOps enthusiasts with a focus on the work and the people? This is the one and only.
 
 devopsdays is a place to learn from and support each other. One organizer told us that at the 2022 conference they spoke to first-time attendees who said they no longer felt alone. One told them, “I’ve learned that what I am feeling has a word: imposter syndrome.”
 
@@ -48,7 +48,7 @@ devopsdays is the only multi-city conference that is a safe space where you can 
 
 Look at the alternatives:
 
-* At vendor conferences, all talks are expected to support or relate to the vendor’s products.
+* At vendor and/or technology specific conferences, all talks are expected to support or relate to the specific technology and/or vendor’s products.
 * At a conference held by a professional event host, the primary goal is to generate profit. (This is forbidden for devopsdays events.)  
 
 Whether it's sharing stories of imposter syndrome, best practices for securing your cloud tenant, or lessons from when your test environment became production, real people share real truths at devopsdays all over the world. I’m privileged to have attended many conferences, but I know that when I attend a devopsdays event, the person standing at the front of the room is sharing something they personally have learned.

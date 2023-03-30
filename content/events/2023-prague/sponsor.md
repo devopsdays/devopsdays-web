@@ -4,7 +4,7 @@ Type = "event"
 Description = "Sponsor devopsdays prague 2023"
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
+We greatly value sponsors for this open event.  If you are interested in sponsoring, please <a href="mailto:sponsors@devopsdays.cz?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Prague%202023">send us an email</a>.
 
 <hr>
 
@@ -15,34 +15,9 @@ Gold sponsors get a full table and Silver sponsors a shared table where they can
 The best thing to do is send engineers to interact with the experts at devopsdays on their own terms.
 <p>
 
+<hr>
+
 <!--
-<hr/>
-
-<div style="width:590px">
-<table border=1 cellspacing=1>
-  <tr>
-    <th><i>packages</i></th>
-    <th><center><b><u>Bronze<br />1000 usd</u></center></b></th>
-    <th><center><b><u>Silver<br />3000 usd</u></center></b></th>
-    <th><center><b><u>Gold<br />5000 usd</u></center></b></th>
-    <th></th>
-  </tr>
-<tr><td>2 included tickets</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on event website</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on shared slide, rotating during breaks</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on all email communication</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on its own slide, rotating during breaks</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>1 minute pitch to full audience (including streaming audience)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr></tr>
-<tr><td>2 additional tickets (4 in total)</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td>4 additional tickets (6 in total)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>shared table for swag</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td>booth/table space</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-</table>
-<hr/>
-There are also opportunities for exclusive special sponsorships. We'll have sponsors for various events with special privileges for the sponsors of these events. If you are interested in special sponsorships or have a creative idea about how you can support the event, send us an email.
-<br/>
-<br/>
-
 <br>
 <br>
 <table border=1 cellspacing=1>
@@ -63,4 +38,233 @@ There are also opportunities for exclusive special sponsorships. We'll have spon
 </div>
 
 -->
+
+<center><h3>Sponsor Packages</h3></center>
+
+<div align="center">
+<table border=1 cellspacing=1 cellpadding=10>
+  <tr>
+    <th></th>
+    <th><center>Community</center></th>
+    <th><center>Bronze</center></th>
+    <th><center>Silver</center></th>
+    <th><center>Gold</center></th>
+    <th><center><s>Lanyard</s><br />SOLD OUT</center></th>
+    <th><center>T-Shirt</center></th>
+    <th><center>Lunch</center></th>
+    <th><center>Social event</center></th>
+  </tr>
+  <tr>
+    <td>Price (excluding VAT)</td>
+    <td><center>FREE</center></td>
+    <td><center>1200&nbsp;EUR</center></td>
+    <td><center>3500&nbsp;EUR</center></td>
+    <td><center>6500&nbsp;EUR</center></td>
+    <td><center>4000&nbsp;EUR</center></td>
+    <td><center>6000&nbsp;EUR</center></td>
+    <td><center>6000&nbsp;EUR</center></td>
+    <td><center>10000&nbsp;EUR</center></td>
+  </tr>
+  <tr>
+    <td>Number available</td>
+    <td bgcolor="#d9ead3">∞</td>
+    <td bgcolor="#d9ead3">∞</td>
+    <td bgcolor="#d9ead3">4 out of 10</td>
+    <td bgcolor="#d9ead3">2 out of 4</td>
+    <td bgcolor="#d9ead3">0 out of 1</td>
+    <td bgcolor="#d9ead3">1 out of 1</td>
+    <td bgcolor="#d9ead3">2 out of 2</td>
+    <td bgcolor="#d9ead3">1 out of 1</td>
+  </tr>
+  <tr>
+    <td>Tickets included</td>
+    <td bgcolor="#d9ead3">1</td>
+    <td bgcolor="#d9ead3">1</td>
+    <td bgcolor="#d9ead3">2</td>
+    <td bgcolor="#d9ead3">5</td>
+    <td bgcolor="#d9ead3">4</td>
+    <td bgcolor="#d9ead3">4</td>
+    <td bgcolor="#d9ead3">4</td>
+    <td bgcolor="#d9ead3">4</td>
+  </tr>
+  <tr>
+    <td>Discount for additional tickets</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Booth</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td bgcolor="#d9ead3">small</td>
+    <td bgcolor="#d9ead3">large</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td bgcolor="#d9ead3">medium</td>
+    <td bgcolor="#d9ead3">large</td>
+  </tr>
+  <tr>
+    <td>Logo on the event page</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Thank you tweet</td>
+    <td>&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Logo in newsletters</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Banners/roll-ups on place (not in the presentation hall)</td>
+    <td bgcolor="#d9ead3">1</td>
+    <td bgcolor="#d9ead3">1</td>
+    <td bgcolor="#d9ead3">2</td>
+    <td bgcolor="#d9ead3">3</td>
+    <td bgcolor="#d9ead3">2</td>
+    <td bgcolor="#d9ead3">2</td>
+    <td bgcolor="#d9ead3">2</td>
+    <td bgcolor="#d9ead3">3</td>
+  </tr>
+  <tr>
+    <td>Extra roll-up in the presentation hall (max 1m width)</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td>On stage pitch</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td bgcolor="#d9ead3">2x1min</td>
+    <td bgcolor="#d9ead3">1x1min</td>
+    <td bgcolor="#d9ead3">1x1min</td>
+    <td bgcolor="#d9ead3">1x1min</td>
+    <td bgcolor="#d9ead3">2x1min</td>
+  </tr>
+  <tr>
+    <td>Logo on a shared slide during breaks</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Logo on a dedicated slide during breaks</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Placement of company logo on social media</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Logo on the badge</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Running a game or lottery</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Promo message in emails (max 25 words)</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Special perk</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td bgcolor="#d9ead3">Logo on Lanyard</td>
+    <td bgcolor="#d9ead3">Logo on T-Shirt</td>
+    <td bgcolor="#d9ead3">Promotion during lunch</td>
+    <td bgcolor="#d9ead3">Promotion during social event</td>
+  </tr>
+  <tr>
+    <td>Swags bag insert</td>
+    <td>&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+  </tr>
+</table>
+</div>
+<hr/>
+
 <hr/>
