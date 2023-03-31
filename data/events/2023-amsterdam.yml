@@ -248,11 +248,11 @@ program:
   - title: "ws-andrew-clay-shafer"
     type: workshop
     date: 2023-06-21T00:00:00+02:00
-    start_time: "09:50"
-    end_time: "11:50"
+    start_time: "10:00"
+    end_time: "12:00"
     comments: "Studio"
 
-  - title: "ws-derik-evangelista-winna-bridgewater"
+  - title: "ws-rushil-sharma"
     type: workshop
     date: 2023-06-21T00:00:00+02:00
     start_time: "10:30"
@@ -345,6 +345,13 @@ program:
     start_time: "15:00"
     end_time: "17:00"
     comments: "Expo 1"
+
+  - title: "ws-derik-evangelista-winna-bridgewater"
+    type: workshop
+    date: 2023-06-21T00:00:00+02:00
+    start_time: "15:00"
+    end_time: "16:30"
+    comments: "Expo 2"
 
   - title: "ws-jamie-lee-coleman"
     type: workshop
