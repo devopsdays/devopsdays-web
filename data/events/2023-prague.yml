@@ -103,12 +103,15 @@ sponsors:
   - id: mastercard
     level: silver
     url: "https://www.mastercardservices.com/en/solutions"
-  - id: showmax
+  - id: sky-showmax
     level: silver
-    url: "https://www.showmax.com/"  
+    url: "https://showmax.engineering"  
   - id: labyrinthlabs
     level: silver
-    url: "https://lablabs.io" 
+    url: "https://lablabs.io"
+  - id: a1
+    level: silver
+    url: "https://www.a1.digital/"
   - id: devopsgroup
     level: bronze
     url: "https://www.devopsgroup.eu"
@@ -129,7 +132,9 @@ sponsors:
   - id: pumpitup
     level: community
     url: "https://pumpitup.cz"
-
+  - id: czechitas
+    level: community
+    url: "https://www.czechitas.cz/en/" 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

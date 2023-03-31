@@ -297,8 +297,8 @@ program:
     date: 2023-05-03
     start_time: "14:55"
     end_time: "15:10"
-  - title: "TBD"
-    type: custom
+  - title: "morten-christensen"
+    type: talk
     date: 2023-05-03
     start_time: "15:10"
     end_time: "15:40"
