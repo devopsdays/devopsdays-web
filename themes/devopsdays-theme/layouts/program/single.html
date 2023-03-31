@@ -59,21 +59,23 @@
       {{- range .Params.speakers -}}
         {{- $.Scratch.Set "speaker_count" (add ($.Scratch.Get "speaker_count") 1) -}}
         {{- $.Scratch.Set "speakername" . -}}
-          {{- range where $.Site.Pages "Type" "speaker" -}}
-            {{- if eq (index (split (.Permalink | relURL) "/") 2) $e.name -}}
-              {{- if eq .File.BaseFileName ($.Scratch.Get "speakername") -}}
-                {{- $.Scratch.Add (printf "%s-speaker" ($.Scratch.Get "base_file_name")) .Title -}}
-                {{- if ne ($.Scratch.Get "speaker_count") ($.Scratch.Get "speaker_len") -}}
-                  {{- $.Scratch.Add (printf "%s-speaker" ($.Scratch.Get "base_file_name")) ", " -}}
+          {{/*  {{- range where $.Site.Pages "Type" "speaker" -}}
+            {{- if eq (index (split (.Permalink | relURL) "/") 2) $e.name -}}  */}}
+            {{ if (where (readDir (printf "content/events/%s/" $e.name)) "Name" "speakers") }}
+              {{ range os.ReadDir (printf "content/events/%s/speakers/" $e.name) }}
+                {{ $filename :=  (printf "/events/%s/speakers/%s" $e.name  .Name) }}
+                {{ with $.Site.GetPage $filename }}
+                  {{- if eq .File.BaseFileName ($.Scratch.Get "speakername") -}}
+                    {{- $.Scratch.Add (printf "%s-speaker" ($.Scratch.Get "base_file_name")) .Title -}}
+                    {{- if ne ($.Scratch.Get "speaker_count") ($.Scratch.Get "speaker_len") -}}
+                      {{- $.Scratch.Add (printf "%s-speaker" ($.Scratch.Get "base_file_name")) ", " -}}
+                    {{- end -}}
+                  {{- end -}}
                 {{- end -}}
               {{- end -}}
             {{- end -}}
-      <!-- end if eq $speaker_slug $e.name -->
-          {{- end -}}
-  <!-- end range where $.Site.Pages "Type" "speaker" -->
-        {{- end -}}
-  <!-- end ranging over speakers -->
-      {{- end -}}
+            {{- end -}}
+            {{- end -}}
   <!-- end if eq $talk_slug $e.name -->
     {{- end -}}
   {{- end -}}
