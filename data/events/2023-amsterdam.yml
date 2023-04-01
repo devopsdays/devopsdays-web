@@ -388,12 +388,13 @@ program:
     date: 2023-06-22T00:00:00+02:00
     start_time: "09:00"
     end_time: "09:15"
-    background_color: "#ACDDDE"
+    background_color: "#DFEFFA"
   - title: "keynote-julia-sullivan"
     type: talk
     date: 2023-06-22T00:00:00+02:00
     start_time: "09:15"
     end_time: "09:55"
+    background_color: "#bfe3b4"
   - title: "busra-koken"
     type: talk
     date: 2023-06-22T00:00:00+02:00
@@ -429,6 +430,7 @@ program:
     date: 2023-06-22T00:00:00+02:00
     start_time: "13:40"
     end_time: "14:05"
+    background_color: "#eef1ff"
   - title: "Open Space Opening"
     type: open-space
     date: 2023-06-22T00:00:00+02:00
@@ -503,12 +505,13 @@ program:
     date: 2023-06-23T00:00:00+02:00
     start_time: "09:00"
     end_time: "09:15"
-    background_color: "#ACDDDE"
+    background_color: "#DFEFFA"
   - title: "keynote-sharon-steed"
     type: talk
     date: 2023-06-23T00:00:00+02:00
     start_time: "09:15"
     end_time: "09:55"
+    background_color: "#bfe3b4"
   - title: "louella-creemers"
     type: talk
     date: 2023-06-23T00:00:00+02:00
@@ -544,6 +547,7 @@ program:
     date: 2023-06-23T00:00:00+02:00
     start_time: "13:40"
     end_time: "14:05"
+    background_color: "#eef1ff"
   - title: "Open Spaces opening, proposals and votes"
     type: open-space
     date: 2023-06-23T00:00:00+02:00
