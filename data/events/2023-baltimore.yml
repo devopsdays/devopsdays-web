@@ -108,6 +108,8 @@ sponsors:
     level: media
   - id: bmore_code_and_coffee
     level: community
+  - id: spark-bmore
+    level: community
   - id: "newrelic"
     level: happyhour
   - id: "540"
@@ -116,6 +118,10 @@ sponsors:
     level: gold
   - id: "newrelic"
     level: gold
+  - id: "gitlab"
+    level: platinum
+  - id: "fearless"
+    level: platinum
   # - id: appdynamics-before-20220714
   #   level: platinum
   ## Gold

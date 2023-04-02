@@ -80,6 +80,8 @@ sharing_image: "sharing_logo.png"
 sponsors:
   - id: fetch
     level: host
+  - id: shipt
+    level: host
   - id: trendmicro
     level: gold
   - id: newrelic
@@ -90,7 +92,15 @@ sponsors:
     level: silver
   - id: smallstep
     level: silver
+  - id: dragondropcloud
+    level: silver
   - id: microsoft-teals
+    level: community
+  - id: digital-motion
+    level: community
+  - id: birmingham-area-software-enthusiasts
+    level: community
+  - id: nibuild
     level: community
 sponsors_accepted : "yes"
 
