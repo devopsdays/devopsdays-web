@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Driving Organizational Change With Open Source (AULA)"
 Type = "talk"
-Speakers = ["cody-zuschlag"]
+Speakers = ["paula-paul"]
 +++
 
 Open source software and communities can drive meaningful change in organizations. What lessons can we take from open source to drive change in our own organizations?
