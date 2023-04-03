@@ -74,6 +74,12 @@ organizer_email: "devopsdaysrio@gmail.com" # Put your organizer email address he
 sponsors:
   - id: punkdodevops
     level: community
+  - id: harness
+    level: gold
+  - id: kubeevents
+    level: community
+  - id: kubecareers
+    level: community
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
