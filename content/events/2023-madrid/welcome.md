@@ -15,7 +15,7 @@ Description = "DevOpsDays Madrid 2023"
     <p>DevOpsDays is a worldwide series of community run technical conferences covering topics of software development, IT infrastructure operations, and the intersection between them. It is run by volunteers from community, for the benefit of the community.
       We are not a commercial conference and we believe that our focus on serving the community creates a truly unique experience for both delegates and sponsors.
     </p>
-    <p>We expect 250 people this year and will be holding the event on October 6th, 2023 at the CEU San Pablo Monteprincipe University.</p>
+    <p>We expect 500 people this year and will be holding the event on October 6th, 2023 at the CEU San Pablo Monteprincipe University.</p>
     <br/>
     <br/>
     <div class="d-flex flex-row">
