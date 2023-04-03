@@ -4,10 +4,12 @@ Type = "event"
 Description = "Location for devopsdays Montreal 2023"
 +++
 
-Watch this space for information about the venue including address, map/direction, parking/transit, and any hotel details.
+This year's event will be held at Centre Mont-Royal https://centremontroyal.com/en/, watch this space for information about the venue.
+
+2200 rue Mansfield, Montréal, Québec, H3A 3R8
 
 <!-- Uncomment this only if you have set the coordinates for your location in the config yaml. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html -->
-<!-- {{< event_map >}} -->
+{{< event_map >}}
 
 <!-- Edit and uncomment to let people know what accessibility features you have available -->
 <!-- 
