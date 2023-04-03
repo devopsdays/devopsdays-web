@@ -11,11 +11,12 @@ Sponsors have recognition on the website and social media before and during the 
 Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers.
 All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.  The best thing to do is send practitioners to interact with their peers at DevOpsDays on their own terms. 
 
-We expect over 270 attendees based on venue capacity and past participation and they will represent the diverse nature of the DC-Maryland-Virginia economy.
+We expect over 270 attendees based on venue capacity and past participation, and they will represent the diverse nature of the DC-Maryland-Virginia economy.
 
 DevOpsDays DC does not share registration information directly with sponsors, but feel free to ask attendees for their contact details. 
 
-**Reserving and paying for your sponsorship**: Please use the PayPal links below, or email the organizers at {{< email_organizers >}} for alternate payment forms, or with any questions we can help you with.
+<!-- **Reserving and paying for your sponsorship**: Please use the PayPal links below, or email the organizers at {{< email_organizers >}} for alternate payment forms, or with any questions. -->
+**Reserving and paying for your sponsorship**: Email the organizers at {{< email_organizers >}} for payment processing, or with any questions.
 
 The following chart outlines our standard sponsorship packages.
 
@@ -95,7 +96,6 @@ The following chart outlines our standard sponsorship packages.
     <td>15 second pitch (scripted) delivered by event M.C.</td>
     <td class="no"> </td>
     <td class="yes">&#9989;</td>
-    <td class="no"> </td>
   <tr>
     <td>Included event tickets</td>
     <td class="yes">4</td>
@@ -127,21 +127,21 @@ Refunds: Full sponsor refunds are available until 6/1/2023. Sponsor refunds betw
 * The "All sponsorhip" benefits
 * 1 minute pitch to full audience <!-- including streaming audience (provided we are able to stream the videos) -->
 * 4 included tickets
-* Full table for swag/marketing/staffing. A/V ability to be determined.
+* Full table for swag/marketing/staffing. (A/V ability TBD).
 
 ### Silver - Price $2,000 USD
 
-* The "All sponsorhip" benefits
+* The "All sponsorship" benefits
 * 1 included ticket
 * 1/3 of shared table for marketing materials
 * Event M.C. pitch and introduction from main stage
   * M.C. will introduce sponsor representatives 
-  * M.C. will deliver sponsor-provided pitch up to 20 seconds long (about 40 words), with sponsor slide
+  * M.C. will deliver sponsor-provided pitch up to 20 seconds (about 40 words), with sponsor slide
 
 
 ## Special Sponsorships
 
-Want to make a distinctive impression? Choose one of our special sponsorship, which build on our standard tier:
+Want to make a distinctive impression? Choose one of our special sponsorships, which build on our standard tier:
 
 ### [Kubernetes Community Days](https://community.cncf.io/events/details/cncf-kcd-washington-dc-presents-kubernetes-community-days-washington-dc-2023/) Featured Sponsor - No additional cost (2 spots)
 
@@ -171,6 +171,6 @@ We also offer community sponsorships. This is not a paid sponsorship. Instead, t
 
 Sponsors are granted one comp ticket, a discount code to promote within their community, Twitter/Fediverse and LinkedIn mentions, and your icon on our website and slides.
 
-We reserve the right to limit the number of community and media sponsorships. Please reach out to {{< email_organizers >}} to set up this relationship. 
+Please reach out to {{< email_organizers >}} to set up this relationship. 
 
 <hr/>
