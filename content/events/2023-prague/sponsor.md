@@ -69,7 +69,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
     <td>Number available</td>
     <td bgcolor="#d9ead3">∞</td>
     <td bgcolor="#d9ead3">∞</td>
-    <td bgcolor="#d9ead3">5 out of 10</td>
+    <td bgcolor="#d9ead3">4 out of 10</td>
     <td bgcolor="#d9ead3">2 out of 4</td>
     <td bgcolor="#d9ead3">0 out of 1</td>
     <td bgcolor="#d9ead3">1 out of 1</td>

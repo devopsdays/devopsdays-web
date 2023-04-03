@@ -61,7 +61,7 @@
 /los-angeles/*		/events/2022-los-angeles/:splat		302
 /macapa/*		/events/2019-macapa/:splat		302
 /madison/*		/events/2020-madison/:splat		302
-/madrid/*		/events/2020-madrid/:splat		302
+/madrid/*		/events/2023-madrid/:splat		302
 /manila/*		/events/2011-manila/:splat		302
 /maringa/*		/events/2018-maringa/:splat		302
 /medellin/*		/events/2022-medellin/:splat		302

@@ -16,7 +16,12 @@
      <h3>{{ .Title }} at {{ $e.city }} {{$e.year}}</h3>
           <ul class="list-group">
             {{- $.Scratch.Set "speaker" .File.BaseFileName -}}
-            {{ range where (where $.Site.Pages "Type" "talk") ".File.Dir" "=" (print "events/" $e.name "/program/") }}
+            {{ if (where (readDir (printf "content/events/%s/" $e.name)) "Name" "program") }}
+            {{ range os.ReadDir (printf "content/events/%s/program/" $e.name) }}
+            {{ $filename :=  (printf "/events/%s/program/%s" $e.name  .Name) }}
+             {{/*  {{ with $.Site.GetPage (printf "content/events/2022-chicago/program/%s" .Name) }}  */}}
+             {{ with $.Site.GetPage $filename }}
+            {{/*  {{ range where (where $.Site.Pages "Type" "talk") ".File.Dir" "=" (print "events/" $e.name "/program/") }}  */}}
                 <!-- Now we can display stuff! -->
                 {{- range .Params.speakers -}}
                   {{- if eq . ($.Scratch.Get "speaker") -}}
@@ -27,6 +32,8 @@
                   <a href = "{{ .Permalink }}" class= "list-group-item list-group-item-action">{{ .Title }}</a>
                   {{ $.Scratch.Set "display" "false" }}
                 {{- end -}}
+              {{- end -}}
+              {{- end -}}
             {{- end -}} <!-- end range where -->
           </ul>
           </div>
