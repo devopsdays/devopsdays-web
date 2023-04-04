@@ -3,72 +3,82 @@
 
   {{ .Content }}
 
+
   {{- $.Scratch.Set "first" "true" -}}
   {{- with .Params.icons -}}
     {{- $.Scratch.Set "icons" (. | upper ) -}}
   {{- end -}}
 
   {{- $e := (index $.Site.Data.events (index (split (.Permalink | relURL) "/") 2)) -}}
-
+ 
   {{- if $e.startdate -}}
-  {{- range where $.Site.Pages "Type" "talk" -}}
+  {{/*  {{- range where $.Site.Pages "Type" "talk" -}}  */}}
+  {{ if (where (readDir (printf "content/events/%s/" $e.name)) "Name" "program") }}
+  {{ range os.ReadDir (printf "content/events/%s/program/" $e.name) }}
+   {{ $filename :=  (printf "/events/%s/program/%s" $e.name  .Name) }}
+    {{/*  {{ with $.Site.GetPage (printf "content/events/2022-chicago/program/%s" .Name) }}  */}}
+    {{ with $.Site.GetPage $filename }}
   {{/* {{- $talk_path := split .File.Path .Site.Params.PathSeparator -}} */}}
-  {{- if eq (index (split (.Permalink | relURL) "/") 2) $e.name -}}
-    {{- $.Scratch.Set "base_file_name" .File.BaseFileName -}}
-    {{- $.Scratch.Set .File.BaseFileName .Title -}}
-    {{- with .Params.vimeo -}}
-      {{- $.Scratch.Set (printf "%s-video_link" ($.Scratch.Get "base_file_name")) (printf "https://player.vimeo.com/video/%s" .) }}
-    {{- end -}}
-    {{- with .Params.youtube -}}
-      {{- $.Scratch.Set (printf "%s-video_link" ($.Scratch.Get "base_file_name")) (printf "https://www.youtube.com/embed/%s" .) }}
-    {{- end -}}
-    {{- with .Params.speakerdeck -}}
-      {{- $.Scratch.Set (printf "%s-slides_link" ($.Scratch.Get "base_file_name")) . }}
-    {{- end -}}
-    {{- with .Params.slideshare -}}
-      {{- $.Scratch.Set (printf "%s-slides_link" ($.Scratch.Get "base_file_name")) . }}
-    {{- end -}}
-    {{- with .Params.googleslides -}}
-      {{- $.Scratch.Set (printf "%s-slides_link" ($.Scratch.Get "base_file_name")) (printf "https://docs.google.com/presentation/d/%s" .) }}
-    {{- end -}}
-    {{- with .Params.pdf -}}
-      {{- $.Scratch.Set (printf "%s-slides_link" ($.Scratch.Get "base_file_name")) . }}
-    {{- end -}}
-    {{- with .Params.notist -}}
-      {{- $.Scratch.Set (printf "%s-slides_link" ($.Scratch.Get "base_file_name")) (printf "https://noti.st/%s" .) }}
-    {{- end -}}
-    {{- with .Params.slideslive -}}
-      {{- $.Scratch.Set (printf "%s-slides_link" ($.Scratch.Get "base_file_name")) (printf "https://slideslive.com/%s" .) }}
-    {{- end -}}
-    {{- with .Params.slides -}}
-      {{- $.Scratch.Set (printf "%s-slides_link" ($.Scratch.Get "base_file_name")) . }}
-    {{- end -}}
-
-    {{- if isset .Params "speakers" -}}
-      {{- if ne .Params.speakers "" -}}
-        {{- $.Scratch.Set "speaker_len" (.Params.speakers | len) -}}
-        {{- $.Scratch.Set "speaker_count" 0 -}}
+    {{- if eq (index (split (.Permalink | relURL) "/") 2) $e.name -}}
+      {{- $.Scratch.Set "base_file_name" .File.BaseFileName -}}
+      {{- $.Scratch.Set .File.BaseFileName .Title -}}
+      {{- with .Params.vimeo -}}
+        {{- $.Scratch.Set (printf "%s-video_link" ($.Scratch.Get "base_file_name")) (printf "https://player.vimeo.com/video/%s" .) }}
       {{- end -}}
-  {{- end -}}
-  {{- range .Params.speakers -}}
-  {{- $.Scratch.Set "speaker_count" (add ($.Scratch.Get "speaker_count") 1) -}}
-  {{- $.Scratch.Set "speakername" . -}}
-  {{- range where $.Site.Pages "Type" "speaker" -}}
-  {{- if eq (index (split (.Permalink | relURL) "/") 2) $e.name -}}
-  {{- if eq .File.BaseFileName ($.Scratch.Get "speakername") -}}
-    {{- $.Scratch.Add (printf "%s-speaker" ($.Scratch.Get "base_file_name")) .Title -}}
-    {{- if ne ($.Scratch.Get "speaker_count") ($.Scratch.Get "speaker_len") -}}
-    {{- $.Scratch.Add (printf "%s-speaker" ($.Scratch.Get "base_file_name")) ", " -}}
+      {{- with .Params.youtube -}}
+        {{- $.Scratch.Set (printf "%s-video_link" ($.Scratch.Get "base_file_name")) (printf "https://www.youtube.com/embed/%s" .) }}
+      {{- end -}}
+      {{- with .Params.speakerdeck -}}
+        {{- $.Scratch.Set (printf "%s-slides_link" ($.Scratch.Get "base_file_name")) . }}
+      {{- end -}}
+      {{- with .Params.slideshare -}}
+        {{- $.Scratch.Set (printf "%s-slides_link" ($.Scratch.Get "base_file_name")) . }}
+      {{- end -}}
+      {{- with .Params.googleslides -}}
+        {{- $.Scratch.Set (printf "%s-slides_link" ($.Scratch.Get "base_file_name")) (printf "https://docs.google.com/presentation/d/%s" .) }}
+      {{- end -}}
+      {{- with .Params.pdf -}}
+        {{- $.Scratch.Set (printf "%s-slides_link" ($.Scratch.Get "base_file_name")) . }}
+      {{- end -}}
+      {{- with .Params.notist -}}
+        {{- $.Scratch.Set (printf "%s-slides_link" ($.Scratch.Get "base_file_name")) (printf "https://noti.st/%s" .) }}
+      {{- end -}}
+      {{- with .Params.slideslive -}}
+        {{- $.Scratch.Set (printf "%s-slides_link" ($.Scratch.Get "base_file_name")) (printf "https://slideslive.com/%s" .) }}
+      {{- end -}}
+      {{- with .Params.slides -}}
+        {{- $.Scratch.Set (printf "%s-slides_link" ($.Scratch.Get "base_file_name")) . }}
+      {{- end -}}
+
+      {{- if isset .Params "speakers" -}}
+        {{- if ne .Params.speakers "" -}}
+          {{- $.Scratch.Set "speaker_len" (.Params.speakers | len) -}}
+          {{- $.Scratch.Set "speaker_count" 0 -}}
+        {{- end -}}
+      {{- end -}}
+      {{- range .Params.speakers -}}
+        {{- $.Scratch.Set "speaker_count" (add ($.Scratch.Get "speaker_count") 1) -}}
+        {{- $.Scratch.Set "speakername" . -}}
+          {{/*  {{- range where $.Site.Pages "Type" "speaker" -}}
+            {{- if eq (index (split (.Permalink | relURL) "/") 2) $e.name -}}  */}}
+            {{ if (where (readDir (printf "content/events/%s/" $e.name)) "Name" "speakers") }}
+              {{ range os.ReadDir (printf "content/events/%s/speakers/" $e.name) }}
+                {{ $filename :=  (printf "/events/%s/speakers/%s" $e.name  .Name) }}
+                {{ with $.Site.GetPage $filename }}
+                  {{- if eq .File.BaseFileName ($.Scratch.Get "speakername") -}}
+                    {{- $.Scratch.Add (printf "%s-speaker" ($.Scratch.Get "base_file_name")) .Title -}}
+                    {{- if ne ($.Scratch.Get "speaker_count") ($.Scratch.Get "speaker_len") -}}
+                      {{- $.Scratch.Add (printf "%s-speaker" ($.Scratch.Get "base_file_name")) ", " -}}
+                    {{- end -}}
+                  {{- end -}}
+                {{- end -}}
+              {{- end -}}
+            {{- end -}}
+            {{- end -}}
+            {{- end -}}
+  <!-- end if eq $talk_slug $e.name -->
     {{- end -}}
   {{- end -}}
-  {{- end -}}
-  <!-- end if eq $speaker_slug $e.name -->
-  {{- end -}}
-  <!-- end range where $.Site.Pages "Type" "speaker" -->
-  {{- end -}}
-  <!-- end ranging over speakers -->
-  {{- end -}}
-  <!-- end if eq $talk_slug $e.name -->
   {{- end -}}
   <!-- end range where $.Site.Pages "Type" "speaker" -->
     <!-- Get the dates for the program -->
