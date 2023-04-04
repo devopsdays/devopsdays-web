@@ -36,15 +36,13 @@ location_address: "Nadwiślańska 6, 30-527 Kraków"
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: registration
     url: "https://eventory.cc/event/devopsdays-krakow-2023"
-  - name: propose
-    url: "https://dodkrakow.pl/call-for-papers-2023/"
   - name: sponsor
-    url: "mailto:olga.michaliszyn@proidea.pl"
+    url: "mailto:krakow@devopsdays.org"
   - name: location
   - name: program
-    url: https://dodkrakow.pl/schedule/
+    url: https://dodkrakow.pl/schedule-2023/
   - name: speakers
-    url: https://dodkrakow.pl/speakers/
+    url: https://dodkrakow.pl/#speakers
   - name: contact
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
