@@ -102,9 +102,15 @@ sponsors:
     level: silver
   - id: tonicai
     level: silver
+  - id: prosper-ops
+    level: silver
   - id: privacy-dynamics
     level: supporter
   - id: releaseteam
+    level: supporter
+  - id: honeycomb
+    level: supporter
+  - id: hyperglance
     level: supporter
 
 sponsor_levels:
