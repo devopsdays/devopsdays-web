@@ -300,3 +300,17 @@ program:
     date: 2023-05-23
     start_time: "17:00"
     end_time: "17:15"
+
+ignites:
+  - title: ""
+    date: 2023-05-22
+  - title: ""
+    date: 2023-05-22
+  - title: ""
+    date: 2023-05-22
+  - title: ""
+    date: 2023-05-23
+  - title: ""
+    date: 2023-05-23
+  - title: ""
+    date: 2023-05-23
