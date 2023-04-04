@@ -383,16 +383,18 @@ program:
     date: 2023-06-22T00:00:00+02:00
     start_time: "08:00"
     end_time: "09:00"
-  - title: "opening-dod-ams-2023"
-    type: talk
+  - title: "Welcome to the 11th edition of devopsdays Amsterdam!"
+    type: custom
     date: 2023-06-22T00:00:00+02:00
     start_time: "09:00"
     end_time: "09:15"
+    background_color: "#DFEFFA"
   - title: "keynote-julia-sullivan"
     type: talk
     date: 2023-06-22T00:00:00+02:00
     start_time: "09:15"
     end_time: "09:55"
+    background_color: "#bfe3b4"
   - title: "busra-koken"
     type: talk
     date: 2023-06-22T00:00:00+02:00
@@ -428,14 +430,15 @@ program:
     date: 2023-06-22T00:00:00+02:00
     start_time: "13:40"
     end_time: "14:05"
+    background_color: "#eef1ff"
   - title: "Open Space Opening"
     type: open-space
     date: 2023-06-22T00:00:00+02:00
     start_time: "14:10"
     end_time: "15:00"
     background_color: "#ffb566"
-  - title: "open-space-one-day-one"
-    type: talk
+  - title: "Open Space Session - Day 1 - #1"
+    type: open-space
     date: 2023-06-22T00:00:00+02:00
     start_time: "15:05"
     end_time: "15:35"
@@ -447,8 +450,8 @@ program:
     end_time: "15:35"
     background_color: "#abebff"
     comments: "Beyond DevOps Track | Location: Grote Zaal"
-  - title: "open-space-two-day-one"
-    type: talk
+  - title: "Open Space Session - Day 1 - #2"
+    type: open-space
     date: 2023-06-22T00:00:00+02:00
     start_time: "15:40"
     end_time: "16:10"
@@ -459,8 +462,8 @@ program:
     start_time: "15:40"
     end_time: "16:10"
     comments: "Beyond DevOps Track | Location: Grote Zaal"
-  - title: "open-space-three-day-one"
-    type: talk
+  - title: "Open Space Session - Day 1 - #3"
+    type: open-space
     date: 2023-06-22T00:00:00+02:00
     start_time: "16:15"
     end_time: "16:45"
@@ -497,16 +500,18 @@ program:
     date: 2023-06-23T00:00:00+02:00
     start_time: "08:00"
     end_time: "09:00"
-  - title: "opening-dod-ams-2023"
-    type: talk
+  - title: "Recap of day 1 and introduction to day 2 of conference!"
+    type: custom
     date: 2023-06-23T00:00:00+02:00
     start_time: "09:00"
     end_time: "09:15"
+    background_color: "#DFEFFA"
   - title: "keynote-sharon-steed"
     type: talk
     date: 2023-06-23T00:00:00+02:00
     start_time: "09:15"
     end_time: "09:55"
+    background_color: "#bfe3b4"
   - title: "louella-creemers"
     type: talk
     date: 2023-06-23T00:00:00+02:00
@@ -542,13 +547,14 @@ program:
     date: 2023-06-23T00:00:00+02:00
     start_time: "13:40"
     end_time: "14:05"
+    background_color: "#eef1ff"
   - title: "Open Spaces opening, proposals and votes"
-    type: custom
+    type: open-space
     date: 2023-06-23T00:00:00+02:00
     start_time: "14:10"
     end_time: "14:55"
-  - title: "open-space-one-day-two"
-    type: talk
+  - title: "Open Space Session - Day 2 - #1"
+    type: open-space
     date: 2023-06-23T00:00:00+02:00
     start_time: "15:00"
     end_time: "15:30"
@@ -559,8 +565,8 @@ program:
     start_time: "15:00"
     end_time: "15:30"
     comments: "Platform Engineering Track | Location: Grote Zaal"
-  - title: "open-space-two-day-two"
-    type: talk
+  - title: "Open Space Session - Day 2 - #2"
+    type: open-space
     date: 2023-06-23T00:00:00+02:00
     start_time: "15:35"
     end_time: "16:05"
@@ -571,8 +577,8 @@ program:
     start_time: "15:35"
     end_time: "16:05"
     comments: "Platform Engineering Track | Location: Grote Zaal"
-  - title: "open-space-three-day-two"
-    type: talk
+  - title: "Open Space Session - Day 2 - #3"
+    type: open-space
     date: 2023-06-23T00:00:00+02:00
     start_time: "16:10"
     end_time: "16:40"

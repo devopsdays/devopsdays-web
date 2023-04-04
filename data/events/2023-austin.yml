@@ -180,6 +180,10 @@ sponsors:
     level: gold
   - id: isovalent
     level: gold
+  - id: armory # reused
+    level: gold
+  - id: ustglobal # reused
+    level: gold
   - id: vmware-tanzu-horiz
     level: lanyard  
   - id: tailscale-black
