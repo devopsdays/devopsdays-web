@@ -103,7 +103,8 @@ sponsors:
     level: platinum
   - id: uniacademia
     level: platinum
-
+  - id: digitalocean
+    level: gifts
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
