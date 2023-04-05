@@ -80,6 +80,8 @@ sharing_image: "sharing_logo.png"
 sponsors:
   - id: fetch
     level: host
+  - id: shipt
+    level: host
   - id: trendmicro
     level: gold
   - id: newrelic
@@ -90,8 +92,18 @@ sponsors:
     level: silver
   - id: smallstep
     level: silver
+  - id: dragondropcloud
+    level: silver
+  - id: core-talent-services
+    level: bronze
   - id: microsoft-teals
     level: community
+  - id: digital-motion
+    level: bronze
+  - id: birmingham-area-software-enthusiasts
+    level: community
+  - id: nibuild
+    level: bronze
 sponsors_accepted : "yes"
 
 # In this section, list the level of sponsorships and the label to use.
@@ -105,6 +117,8 @@ sponsor_levels:
     label: Gold
   - id: silver
     label: Silver
+  - id: bronze
+    label: Bronze
   - id: community
     label: Community
 
