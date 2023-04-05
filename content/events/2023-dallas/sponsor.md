@@ -42,7 +42,7 @@ Please email the organizers at <a href="mailto:dallas@devopsdays.org?subject=Gen
       <td colspan="2">Price</td>
       <td>$15,000</td>
       <td>$10,000</td>
-      <td>$6,000</td>
+      <td>$7,000</td>
     </tr>
     <tr>
       <td colspan="2"></td>
