@@ -244,8 +244,8 @@ program:
   - title: "peter-oneill"
     type: talk
     date: 2023-04-25T23:59:59-06:00
-    start_time: "10:50"
-    end_time: "11:20"
+    start_time: "10:55"
+    end_time: "11:25"
   - title: "tim-rayburn"
     type: talk
     date: 2023-04-25T23:59:59-06:00
