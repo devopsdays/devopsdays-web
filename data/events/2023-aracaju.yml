@@ -32,7 +32,7 @@ registration_link: "https://devopsdaysaracaju.eventize.com.br" # If you have a c
 # Location
 #
 coordinates: ""
-location: "TBD"
+location: "UNIT - Campus Farolândia"
 #
 location_address: ""
 
@@ -42,7 +42,7 @@ masthead_background: "skyline-aju.jpg"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  - name: propose
-#  - name: location
+ - name: location
  - name: registration
  # - name: program
  # - name: speakers
@@ -136,11 +136,19 @@ sponsors:
     level: silver
   - id: grafanalabs
     level: silver
+  - id: spiritsec
+    level: silver
 # Bronze
   - id: chip&cia
     level: bronze
-# Community  
+# Community
+  - id: unit
+    level: community
   - id: novatec
+    level: community
+  - id: guiafoca
+    level: community
+  - id: linuxtips
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
