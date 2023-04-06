@@ -1,7 +1,7 @@
 +++
 Title = "Chris Winslett"
 Twitter = ""
-image = ""
+image = "chris_winslett.jpg"
 type = "speaker"
 linktitle = "chris-winslett"
 

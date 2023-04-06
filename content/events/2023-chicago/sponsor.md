@@ -13,15 +13,14 @@ DevOpsDays Chicago is a self organizing conference for practitioners that depend
 Platinum and Gold sponsors get a full table in the sponsor area where they can interact with those interested to come visit during breaks. All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
 <p>
 The best thing to do is send engineers to interact with the experts at DevOpsDays Chicago on their own terms.
-<p>
-<h3><i>All Platinum, Gold, and Bronze purchases paid before March 31, 2023 receive a $1,000 discount!</i></h3>
+
 <h2>Sponsorship Packages</h2>
 
 <table class="table table-bordered table-hover">
   <thead>
     <tr>
       <th scope="col">THE GOODS</th>
-      <th scope="col">PLATINUM<br>(Limit 3)</th>
+      <th scope="col">PLATINUM</th>
       <th scope="col">GOLD</th>
       <th scope="col">BRONZE</th>
       <th scope="col">COMMUNITY</th>
@@ -30,9 +29,9 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
   <tbody>
     <tr>
       <td>Price</td>
-      <td><del>$15,000</del>&nbsp$14,000</td>
-      <td><del>$9,000</del>&nbsp$8,000</td>
-      <td><del>$2,000</del>&nbsp$1,000</td>
+      <td><strike>$15,000</strike></td>
+      <td>$9,000</td>
+      <td>$2,000</td>
       <td>Free</td>
     </tr>
     <tr>
@@ -46,16 +45,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
     </tr>
     <tr>
       <td></td>
-      <td>
-        <!-- Platinum Paypal button  -->
-        <!-- <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-          <input type="hidden" name="cmd" value="_s-xclick">
-          <input type="hidden" name="hosted_button_id" value="LUSEMWLZ7MKKW">
-          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-          <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-        </form> -->
-        <a href="mailto:chicago-sponsors@devopsdays.org?subject=Interested%20in%20Platinum%20Sponsorship%20DevOpsDays%20Chicago%202023">Contact us</a>
-      </td>
+      <td>SOLD OUT</td>
       <td>
       <!-- Gold Paypal button  -->
         <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -120,13 +110,6 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <td></td>
     </tr>
     <tr>
-      <td>Booth space in sponsor area (with chair)</td>
-      <td><img src = "/events/2023-chicago/yak-head.png"></td>
-      <td><img src = "/events/2023-chicago/yak-head.png"></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
       <td>Logo on banner at registration area</td>
       <td><img src = "/events/2023-chicago/yak-head.png"></td>
       <td><img src = "/events/2023-chicago/yak-head.png"></td>
@@ -155,7 +138,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <td><img src = "/events/2023-chicago/yak-head.png"></td>
     </tr>
     <tr>
-      <td>Dedicated sponsor booth in sponsor area (with chair)</td>
+      <td>Dedicated table in sponsor area (with chairs)</td>
       <td><img src = "/events/2023-chicago/yak-head.png"></td>
       <td><img src = "/events/2023-chicago/yak-head.png"></td>
       <td></td>

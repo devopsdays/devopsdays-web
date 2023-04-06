@@ -7,11 +7,16 @@ Description = "devopsdays Denver 2023"
 
 <div style="text-align:center;">
   <!-- {{< event_logo >}} -->
-  <img src="/events/2023-denver/logo-square.jpg" width="300" />
+  <img src="/events/2023-denver/2023-flatline.png" width="800" />
 </div>
 
 
 {{< event_twitter >}}
+<br>
+<a rel="me" target="_blank" href="https://hachyderm.io/@devopsdaysrox">
+<span class="btn btn-sm rounded-pill btn-info">
+<i class="fab fa-mastodon fa-md" ></i> Follow hachyderm.io/@devopsdaysrox</span></a>
+
 <div class="row">
   <div class="col-md-2">
     <strong>Dates</strong>
@@ -35,7 +40,7 @@ Description = "devopsdays Denver 2023"
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
+    <a href="https://www.eventbrite.com/e/devops-days-rockies-2023-tickets-440622492737">Register to attend the conference!</a>
   </div>
 </div>
 

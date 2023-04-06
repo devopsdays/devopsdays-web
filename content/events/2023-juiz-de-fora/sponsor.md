@@ -6,6 +6,8 @@ Description = "Sponsor DevOpsDays Juiz De Fora 2023"
 
 Valorizamos muito os patrocinadores deste evento aberto. Se você estiver interessado em patrocinar, envie um e-mail para [{{< email_organizers >}}].
 
+
+
 <hr>
 <div>
 <h2>[PT-BR] Proposta de Apoio</h2>
@@ -32,28 +34,28 @@ Visando valorizar a participação de instituições na realização do evento, 
         <th>PLATINA</th>
     </thead>
     <tr>
-      <td>Participação em vídeo final sobre o evento</td>
+      <td>Exibição de vídeo institucional durante o evento (max. 30s)</td>
       <td></td>
       <td></td>
       <td></td>
       <td><i class="fa fa-check"></i></td>
     </tr>
     <tr>
-      <td>Logo nos cordões de crachá</td>
+      <td>Logo nos crachás</td>
       <td></td>
       <td></td>
       <td></td>
       <td><i class="fa fa-check"></i></td>
     </tr>
     <tr>
-      <td>Balcão promocional</td>
+      <td>Balcão/stand promocional</td>
       <td></td>
       <td></td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
     </tr>
     <tr>
-      <td>Logo no fundo de palco</td>
+      <td>Logo no fundo do palco</td>
       <td></td>
       <td></td>
       <td><i class="fa fa-check"></i></td>
@@ -88,7 +90,7 @@ Visando valorizar a participação de instituições na realização do evento, 
       <td>Tamanho 1U</td>
     </tr>
     <tr>
-      <td>Logo no site do evento/releases</td> 
+      <td>Logo no site do evento</td> 
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
@@ -103,24 +105,24 @@ Visando valorizar a participação de instituições na realização do evento, 
     </tr>
     <tr>
       <td>Inscrições para o evento*</td>
-      <td>1</td>
       <td>3</td>
-      <td>5</td>
-      <td>7</td>
+      <td>8</td>
+      <td>10</td>
+      <td>15</td>
     </tr>
     <tr>
       <td><b>Contribuição</b></td>
-      <td><b>R$ 3.000,00</b></td>
+      <td><b>R$ 2.000,00</b></td>
+      <td><b>R$ 4.000,00</b></td>
       <td><b>R$ 5.000,00</b></td>
       <td><b>R$ 7.000,00</b></td>
-      <td><b>R$ 10.000,00</b></td>
     </tr>
   </table>
 </div>
 <div>
   <p><strong>COMUNIDADE:</strong> Apoiadores que contribuiram com algum beneficio para o público ou quantia de
-  até R$ 1.000,00 terão direito à divulgação nas redes sociais e 1 inscrição para o evento.</p>
-    <p style="font-size:18px">Veja mais e nosso mídia kit no documento completo clicando <a href="https://docs.google.com/presentation/d/1IeQko7hihgAiZgezPlW3CkakyV_Vu1OxePiyNDkipBQ/edit?usp=sharing"><i class="fa fa-download" style="font-size:30px"></i></a></p>
+  até R$ 2.000,00 terão direito à divulgação nas redes sociais e 1 inscrição para o evento.</p>
+    <p style="font-size:18px">Veja mais e nosso mídia kit no documento completo clicando <a href="https://docs.google.com/presentation/d/1MzhF2pWpETGvC61k9tpoLmreKbB9yGXGEcv7EWbvLQ0/edit?usp=sharing"><i class="fa fa-download" style="font-size:30px"></i></a></p>
 </div>
 
 <!--EN-->
@@ -149,28 +151,28 @@ Aiming to enhance the participation of institutions in the event, we organized p
         <th>PLATINUM</th>
     </thead>
     <tr>
-      <td>Interview in final video about the event</td>
+      <td>Institutional video exhibition during the event (max. 30s)</td>
       <td></td>
       <td></td>
       <td></td>
       <td><i class="fa fa-check"></i></td>
     </tr>
     <tr>
-      <td>Logo on badge lanyards</td>
+      <td>Logo on badges</td>
       <td></td>
       <td></td>
       <td></td>
       <td><i class="fa fa-check"></i></td>
     </tr>
     <tr>
-      <td>Promotional booth</td>
+      <td>Promotional counter/stand</td>
       <td></td>
       <td></td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
     </tr>
     <tr>
-      <td>Logo on stage</td>
+      <td>Logo at the back of the stage</td>
       <td></td>
       <td></td>
       <td><i class="fa fa-check"></i></td>
@@ -220,22 +222,22 @@ Aiming to enhance the participation of institutions in the event, we organized p
     </tr>
     <tr>
       <td>Tickets*</td>
-      <td>1</td>
       <td>3</td>
-      <td>5</td>
-      <td>7</td>
+      <td>8</td>
+      <td>10</td>
+      <td>15</td>
     </tr>
     <tr>
       <td><b>Contribution</b></td>
-      <td><b>US$ 600,00</b></td>
+      <td><b>US$ 400,00</b></td>
+      <td><b>US$ 800,00</b></td>
       <td><b>US$ 1.000,00</b></td>
-      <td><b>US$ 1.500,00</b></td>
-      <td><b>US$ 2.000,00</b></td>
+      <td><b>US$ 1.400,00</b></td>
     </tr>
   </table>
 </div>
 <div>
 <p><strong>COMMUNITY:</strong> Supporters who have contributed some benefit to the public or amount of
-up to US$ 200,00 receive the right to be publicized on social media and 1 registration for the event.</p>
-    <p style="font-size:18px">You can check more about sponsorship and the benefits here (in portuguese) <a href="https://docs.google.com/presentation/d/1IeQko7hihgAiZgezPlW3CkakyV_Vu1OxePiyNDkipBQ/edit?usp=sharing"><i class="fa fa-download" style="font-size:30px"></i></a></p>
+up to US$ 400,00 receive the right to be publicized on social media and 1 registration for the event.</p>
+    <p style="font-size:18px">You can check more about sponsorship and the benefits here (in portuguese) <a href="https://docs.google.com/presentation/d/1MzhF2pWpETGvC61k9tpoLmreKbB9yGXGEcv7EWbvLQ0/edit?usp=sharing"><i class="fa fa-download" style="font-size:30px"></i></a></p>
 </div>

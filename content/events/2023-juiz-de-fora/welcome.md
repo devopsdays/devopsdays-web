@@ -20,17 +20,25 @@ Description = "DevOpsDays Juiz De Fora 2023"
             <strong>Datas</strong>
           </div>
           <div class = "col-md-8">
-            {{< event_start >}}
+            {{< event_start >}} - {{< event_end >}}
           </div>
         </div>
-        <!-- <div class = "row">
+        <div class="row">
+          <div class="col-md-2">
+            <strong>Patrocinadores</strong>
+          </div>
+          <div class="col-md-6">
+            {{< event_link page="sponsor" text="Apoie o DevOpsDays Juiz de Fora em 2023!" >}}
+          </div>
+        </div>
+        <div class = "row">
           <div class = "col-md-2">
             <strong>Local</strong>
           </div>
           <div class = "col-md-8">
-            {{< event_link page="local" text="CESAR School" title="A ser definido" >}}
+            {{< event_link page="local" text="UniAcademia" title="UniAcademia" >}}
           </div>
-        </div> -->
+        </div>
         <div class = "row">
           <div class = "col-md-2">
             <strong>Contato</strong>
@@ -54,7 +62,7 @@ Description = "DevOpsDays Juiz De Fora 2023"
           <div class="col-md-6">
             {{< event_link page="program" text="Confira a grade do evento!" >}}
           </div>
-        </div>
+        </div> -->
         <div class="row">
           <div class="col-md-2">
             <strong>Ingresso</strong>
@@ -62,7 +70,7 @@ Description = "DevOpsDays Juiz De Fora 2023"
           <div class="col-md-6">
             {{< event_link url-key="registration_link" text="Adquira seu ingresso!" >}}
           </div>
-        </div> -->
+        </div>
       </div>
     </div>
   </div>
@@ -125,7 +133,7 @@ Description = "DevOpsDays Juiz De Fora 2023"
       </div>
     </div>
   </div> 
-  <div style="text-align:center; width: auto;">
+  <!-- <div style="text-align:center; width: auto;">
     {{< event_logo >}}
-  </div>
+  </div> -->
 </div>

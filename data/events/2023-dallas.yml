@@ -14,15 +14,15 @@ startdate: 2023-08-29T00:00:00-05:00 # The start date of your event. Leave blank
 enddate: 2023-08-30T23:59:59-05:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-# cfp_date_start: 2023-04-22T21:00:00-05:00 # start accepting talk proposals.
-# cfp_date_end: 2023-07-01T18:00:00-05:00 # close your call for proposals.
-# cfp_date_announce: 2023-07-27T18:00:00-05:00 # inform proposers of status
+cfp_date_start: 2023-03-17T21:00:00-05:00 # start accepting talk proposals.
+cfp_date_end: 2023-06-14T18:00:00-05:00 # close your call for proposals.
+cfp_date_announce: 2023-07-27T18:00:00-05:00 # inform proposers of status
 
-# cfp_link: "https://www.papercall.io/dod-dfw-2023" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://www.papercall.io/dod-dfw-2023" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-event_logo: "bu_logo_square.png"
+event_logo: "logo.png"
 masthead_background: "planoeventcenter.jpg"
-#sharing_image: "dallas2023.png"
+sharing_image: "dallas2023.png"
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: #close registration. Leave blank if registration is not open yet.
@@ -38,11 +38,11 @@ location_address: "2000 East Spring Creek Parkway, Plano, TX 75074" #Optional - 
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
-  #  - name: propose
+  - name: propose
   #  - name: program
   #  - name: registration
   #  - name: speakers
-  #  - name: sponsor
+  - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
@@ -125,20 +125,22 @@ team_members: # Name is the only required field for team members.
     website: "https://MikeRosTX.me"
 
   - name: Najwan Abdul Wahab
-    employer: "JP Morgan Chase"
+    employer: "Citi"
     bio: "Najwan Abdul Wahab has over 15 years professional experience spanning 12 in Financial Services in the United States across Operations Management, Data & Analytics, Enterprise Transformation and Digital Product Management; and 3 in Oil & Gas specializing in Offshore Engineering in the United Arab Emirates. She started her DevOps journey volunteering for the DevOpsDays Dallas conference in 2022 and is now joining the team as a local organizer for 2023 (and beyond)."
     linkedin: "https://www.linkedin.com/in/najwan-a-b789b924/"
     image: "najwan.png"
 
   - name: "Paula Lipnick"
     employer: "JP Morgan Chase"
-    bio: ""
-    image: ""
+    bio: "Paula has had the opportunity to be a part of innovative organizations for over 10 years, and she enjoys continuously improving processes to increase long-term business value. Currently, Paula is a Product Agility Lead at JP Morgan Chase.\n\nAlso, Paula is a huge fan of the benefits and measurable impacts that are created using DevOps, Agile, and Lean practices. She volunteered at DevOpsDays DFW in 2022, and she is overjoyed to join the Organizer Team for DevOpsDays DFW in 2023. \n\nAlso, Paula holds a Professional Scrum Master Certification, Project Management Professional Certification, MBA with a concentration in Business Intelligence and Accounting, and a Bachelor of Science in Finance. In addition, Paula loves volunteering in the community, hiking, and surfing anytime she is close to the ocean."
+    linkedin: "https://www.linkedin.com/in/paula-lipnick-mba-pmp-psm/"
+    image: "paula.jpg"
 
   - name: "Rachel Goniwiecha"
     employer: "TPS Talent"
-    bio: ""
-    image: ""
+    bio: "Rachel Goniwiecha founded TPS Talent as a boutique, full-service recruitment agency that works closely with clients to find world-class talent for their organizations - no matter what stage of business they are in.<br><br>Over 20 years in the Telecom and IT world, Rachel has fine-tuned her process for finding exceptional talent that reaches well beyond typical job board applicants and is thrilled to be part of the organizing team for DevOps Dallas."
+    linkedin: "https://www.linkedin.com/in/rachel-petschel-goniwiecha-a5541b/"
+    image: "rachel.jpg"
 
   - name: "Roger Servey"
     employer: "Innovar Solutions"

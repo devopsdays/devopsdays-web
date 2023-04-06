@@ -20,11 +20,11 @@ enddate: 2023-09-14T19:00:00-04:00
 
 # cfp_link: "https://sessionize.com/devopsdays-dc-2023" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-# registration_date_start: 2023-06-21T00:00:00-04:00
-# registration_date_end: 2023-09-16T23:59:59-04:00
+registration_date_start: 2023-03-02T00:00:00-04:00
+registration_date_end: 2023-09-14T23:59:59-04:00
 
 # registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-# registration_link: "https://www.eventbrite.com/e/devopsdays-dc-2023-tickets-345684861727" 
+registration_link: "https://www.eventbrite.com/e/devopsdays-dc-2023-tickets-553328328927"
 
 # Location
 #
@@ -35,7 +35,7 @@ location_address: "1730 E St NW, Washington, DC 20006"
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
 - name: location
- # - name: registration
+- name: registration
  # - name: program
  # - name: speakers
  # - name: sponsor
@@ -202,8 +202,8 @@ organizer_email: "washington-dc@devopsdays.org" # Put your organizer email addre
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: tbd
-    level: platinum
+  - id: kcddc
+    level: community
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 

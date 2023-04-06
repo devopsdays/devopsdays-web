@@ -6,8 +6,9 @@ Description = "devopsdays Dallas 2023"
 +++
 
 <!-- <div class = "row" style="background: #ed0b07; color: #ffffff; padding: 20px; margin: 20px; font-size: 16px"> -->
-<div style="text-align:center;" style="max-width:120%;">
-  <!-- {{< event_logo >}} -->
+<div style="text-align:center;" >
+  {{< event_logo >}}
+  <!-- <p><img alt="DevOpsDays Dallas 2023" src="/events/2023-dallas/logo.png" class="img-fluid"></p> -->
 </div>
 <br>
 <!-- <div class = "row">
@@ -46,7 +47,7 @@ Description = "devopsdays Dallas 2023"
   <div class = "col-md-8">
     {{< event_link page="registration" text="Register to attend the conference!" >}}
   </div>
-</div>
+</div> -->
 <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
@@ -54,7 +55,7 @@ Description = "devopsdays Dallas 2023"
   <div class = "col-md-8">
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
-</div> -->
+</div>
 <!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
@@ -70,7 +71,7 @@ Description = "devopsdays Dallas 2023"
   <div class = "col-md-8">
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
-</div>
+</div> -->
 <div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>
@@ -78,7 +79,7 @@ Description = "devopsdays Dallas 2023"
   <div class = "col-md-8">
     {{< event_link page="sponsor" text="Sponsor the conference!" >}}
   </div>
-</div> -->
+</div>
 <div class = "row">
   <div class = "col-md-2">
     <strong>Contact</strong>

@@ -135,7 +135,7 @@ sponsors:
   - id: yuccasolutions
     level: bronze
   - id: redhat
-    level: bronze
+    level: silver
   - id: socraft
     level: bronze
   - id: f5-nginx
@@ -150,7 +150,14 @@ sponsors:
     level: community
   - id: e-xpert-solutions
     level: bronze
-
+  - id: powerhouse
+    level: community
+  - id: software-crafts-romandie
+    level: community
+  - id: qiminfo
+    level: bronze
+  - id: valueitswiss
+    level: bronze
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -251,14 +258,14 @@ program:
     end_time: "14:30"
 
     # Day 1: talk 5
-  - title: arnaud-billion
+  - title: guillaume-vial
     type: talk
     date: "2023-04-24"
     start_time: "14:30"
     end_time: "15:20"
 
     # Day 1: talk 6
-  - title: guillaume-vial
+  - title: arnaud-billion
     type: talk
     date: "2023-04-24"
     start_time: "15:20"
@@ -406,7 +413,7 @@ program:
     end_time: "14:30"
 
   #   Day 2: talk 5
-  - title: cody-zuschlag
+  - title: paula-paul
     type: talk
     date: "2023-04-25"
     start_time: "14:30"

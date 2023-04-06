@@ -7,4 +7,4 @@ type = "speaker"
 linktitle = "first-last"
 +++
 
-Jen has been in tech marketing as an editor and community manager for 10 years at Red Hat and now is the VP of Marketing for a tech security startup.
+Jen is a veteran of tech marketing, spending 10 years at Red Hat shepherding the Opensouce.com editorial and community functions. Since then, she's jumped into start-up-land and is currently the Head of Marketing at AppMap.

@@ -130,6 +130,8 @@ sponsors:
     level: gold
   - id: kubeevents
     level: community
+  - id: faun
+    level: community
   - id: trendmicro
     level: gold
   - id: observeinc
@@ -143,8 +145,6 @@ sponsors:
   - id: 42crunch
     level: gold
   - id: dragondropcloud
-    level: gold
-  - id: site24x7
     level: gold
   - id: couchbase
     level: gold
@@ -162,12 +162,17 @@ sponsors:
     level: silver
   - id: buildkite
     level: silver
+  - id: prisma_cloud
+    level: silver
   - id: dnsimple
     level: silver
   - id: privacy-dynamics
     level: startup
+  - id: arnica
+    level: startup
   - id: kubiya
     level: startup
+  - id: 
   - id: tonicai
     level: gold
   - id: devcycle

@@ -9,10 +9,14 @@ Description = "DevOpsDays Austin 2023"
   <div class="col-md-12">
     <div class="row">
       <div class="col-md-8">
-        <h2>Welcome to the DevOpsDays Austin!</h2>
-        <p>DevOpsDays Austin will be in person, on May 4-5, 2023, in the Etter-Harbin Alumni Center on the University of Texas campus.</p>
+        <h2>Welcome to DevOpsDays Austin 2023!</h2>
+        <p>DevOpsDays Austin will be in person in the Etter-Harbin Alumni Center on the University of Texas campus on May 4-5, 2023.</p>
         <p>This year our theme statement is "Change is in our bones!" We're focusing on what we have learned going through periods of change, whether intense and unexpected or deliberate and thoughtfully planned.</p>
-        <p>We have discount tickets (50%) for anyone that was impacted by the recent lay offs or is a student and wants to come to our conference. Please fill out this <a href="https://forms.gle/h811jJb7cpujwzdV9"> form </a> and we will get back to you. The answers will go to the core organizers (Daria, Laura & Shaun).</p>
+        <p>We have discount tickets (50%) for anyone that was impacted by the recent lay offs or is a student and wants to come to our conference. Please <a href="https://forms.gle/h811jJb7cpujwzdV9">fill out this form </a> and we will get back to you. The answers will go to the core organizers (Daria, Laura, & Shaun).</p>
+        <div class="alert alert-info" role="alert">
+          <h2>COVID-19</h2>
+            <p>We are changing our Health and Safety policies for the event starting 4 May 2023. Masks are still strongly encouraged, but optional. {{< event_link page="covid" text="You can read the updated policy here" >}}. </p>
+        </div>
         <div class="row">
           <div class="col-md-2"></div>
           <div class="col-md-8">
@@ -35,6 +39,10 @@ Description = "DevOpsDays Austin 2023"
             {{< event_location >}}
           </div>
         </div>
+        <!-- <div class="row">
+          <div class="col-md-2"><strong>Schedule</strong></div>
+          <div class="col-md-8">{{< event_link page="schedule" text="View the schedule!" >}}</div>
+        </div> -->
         <div class = "row">
           <div class = "col-md-2">
             <strong>Register</strong>
@@ -45,10 +53,18 @@ Description = "DevOpsDays Austin 2023"
         </div>
         <div class = "row">
           <div class = "col-md-2">
+            <strong>COVID</strong>
+          </div>
+          <div class = "col-md-8">
+            {{< event_link page="covid" text="Masks are strongly encouraged, but optional." >}}
+          </div>
+        </div>
+        <div class = "row">
+          <div class = "col-md-2">
             <strong>Talks</strong>
           </div>
           <div class = "col-md-8">
-            {{< event_link url-key="cfp_link" text="Propose a talk!" >}}
+            {{< event_link url-key="cfp_link" text="Schedule coming soon!" >}}
           </div>
         </div>
         <div class="row">

@@ -32,7 +32,7 @@ registration_closed: "" #set this to true if you need to manually close registra
 registration_link: "https://devopsdaysbaltimore2023.eventbrite.com" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 sharing_image: "sharing.jpg"
 # Custom Links
-slack_link: "http://slack.baltimoretech.org"
+slack_link: "http://baltimoretechslack.com/"
 sponsor_faq_link: "https://docs.google.com/document/d/1luCJTEva87ORuGPPjBBqDecTopI1XqzFkSGk1MMShYI/edit?usp=sharing"
 sponsor_registration_link: "https://forms.gle/snuih7cVnY9cmUJRA"
 
@@ -108,8 +108,20 @@ sponsors:
     level: media
   - id: bmore_code_and_coffee
     level: community
+  - id: spark-bmore
+    level: community
+  - id: "newrelic"
+    level: happyhour
   - id: "540"
     level: gold
+  - id: "clarity"
+    level: gold
+  - id: "newrelic"
+    level: gold
+  - id: "gitlab"
+    level: platinum
+  - id: "fearless"
+    level: platinum
   # - id: appdynamics-before-20220714
   #   level: platinum
   ## Gold
@@ -133,9 +145,6 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: happyhour
-    label: Happy Hour
-    max: 1
   - id: platinum
     label: Platinum
     max: 16
@@ -147,3 +156,6 @@ sponsor_levels:
     label: Media
   - id: community
     label: Community
+  - id: happyhour
+    label: Happy Hour
+    max: 1

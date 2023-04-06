@@ -4,65 +4,8 @@ Type = "welcome"
 aliases = ["/events/2023-caceres/"]
 Description = "DevOpsDays Cáceres 2023"
 +++
-<style>
-  h1, h2 {
-    font-family: futura-bold;
-    font-size: 2rem;
-  }
-  h3 {
-    font-family: futura-bold;
-    font-size: 1.5rem;
-  }
-  .welcome-page-date {
-    font-size: 1.8rem;
-    font-weight: bold;
-    color: #FF965B;
-  }
-  .welcome-page-masthead-venue, .e-summary {
-    color: white;
-  }
-  .welcome-page-masthead-venue {
-    font-size: 1.5rem;
-  }
-  .welcome-page-masthead-link.p-location, .e-summary {
-    font-size: 1.2rem;
-  }
-  .e-summary {
-    line-height: 100px;
-  }
-  .logo {
-    margin-bottom: 5%;
-  }
-  .button-primary {
-    margin-top: 10px;
-    margin-bottom: 10px;
-    background-color: #FF965B;
-    border-color: #FF965B;
-  }
-  .button-primary:hover {
-    background-color: #904300;
-    border-color: #904300;
-  }
-  .button-secondary {
-    background-color: #904300;
-    border-color: #904300;
-  }
-  .button-secondary:hover {
-    background-color: #000428;
-    border-color: #000428;
-  }
-  .welcome-page-masthead:before {
-    opacity: 0.6;
-    background-image: url(/events/2023-caceres/welcome-banner.jpg);
-    background-repeat: no-repeat;
-    background-position: 0 42.5%;
-    -ms-background-size: cover;
-    -o-background-size: cover;
-    -moz-background-size: cover;
-    -webkit-background-size: cover;
-    background-size: cover;
-  }
-</style>
+<link href="/events/2023-caceres/main.css" rel="stylesheet">
+<script src="/events/2023-caceres/main.js"></script>
 
 <div class = "row">
   <div class="col-md-4">
@@ -122,9 +65,9 @@ Description = "DevOpsDays Cáceres 2023"
         <div class="d-flex p-2">
           <a class="btn btn-secondary btn-block button-secondary" target="_blank" href="https://www.eventbrite.es/e/devopsdays-caceres-2023-tickets-536386545597"> <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;BUY TICKETS HERE!</a>
         </div>
-        <div class="d-flex p-2">
+        <!-- <div class="d-flex p-2">
           <a class="btn btn-secondary btn-block button-secondary" target="_blank" href="https://docs.google.com/forms/d/16So5MiAK1gx67n8030MKQkJcyQQq8rOXcJyuTbbjBXw/edit"> <i class="fa fa-paper-plane-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Call for Papers</a>
-        </div>
+        </div> -->
         <div class="d-flex p-2">
           <a class="btn btn-secondary btn-block button-secondary" href="/events/2023-caceres/sponsor"> <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference</a>
         </div>
@@ -166,14 +109,14 @@ Description = "DevOpsDays Cáceres 2023"
   </div>
 </div>
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     <a target="_blank" href="https://docs.google.com/forms/d/16So5MiAK1gx67n8030MKQkJcyQQq8rOXcJyuTbbjBXw/edit">Propose a talk!</a>
   </div>
-</div>
+</div> -->
 
 <!-- Uncomment if you added your city twitter name -->
 
