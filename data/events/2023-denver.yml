@@ -102,9 +102,15 @@ sponsors:
     level: silver
   - id: tonicai
     level: silver
+  - id: prosper-ops
+    level: silver
   - id: privacy-dynamics
     level: supporter
   - id: releaseteam
+    level: supporter
+  - id: honeycomb
+    level: supporter
+  - id: hyperglance
     level: supporter
 
 sponsor_levels:
@@ -244,8 +250,8 @@ program:
   - title: "peter-oneill"
     type: talk
     date: 2023-04-25T23:59:59-06:00
-    start_time: "10:50"
-    end_time: "11:20"
+    start_time: "10:55"
+    end_time: "11:25"
   - title: "tim-rayburn"
     type: talk
     date: 2023-04-25T23:59:59-06:00
@@ -256,16 +262,21 @@ program:
     date: 2023-04-25T23:59:59-06:00
     start_time: "12:00"
     end_time: "13:30"
+  - title: "thomas-haver"
+    type: talk
+    date: 2023-04-25T23:59:59-06:00
+    start_time: "13:35"
+    end_time: "14:05"
   - title: "Open Space Opening"
     type: custom
     date: 2023-04-25T23:59:59-06:00
-    start_time: "13:45"
+    start_time: "14:10"
     end_time: "13:55"
   - title: "Open Space #1"
     type: custom
     date: 2023-04-25T23:59:59-06:00
-    start_time: "14:00"
-    end_time: "14:30"
+    start_time: "14:15"
+    end_time: "14:45"
   - title: "Open Space #2"
     type: custom
     date: 2023-04-25T23:59:59-06:00
@@ -274,13 +285,13 @@ program:
   - title: "Open Space #3"
     type: custom
     date: 2023-04-25T23:59:59-06:00
-    start_time: "15:10"
-    end_time: "15:40"
+    start_time: "15:35"
+    end_time: "16:05"
   - title: "Open Space #4"
     type: custom
     date: 2023-04-25T23:59:59-06:00
-    start_time: "15:45"
-    end_time: "16:15"
+    start_time: "16:05"
+    end_time: "16:20"
   - title: "Sponsor Raffles/Closing"
     type: custom
     date: 2023-04-25T23:59:59-06:00
