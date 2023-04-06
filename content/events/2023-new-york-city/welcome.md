@@ -63,7 +63,7 @@ Description = "devopsdays New York City 2023"
         <h4 class="my-3"><strong>Sponsors</strong></h4>
       </div>
       <div class = "col-md-9">
-        <h4 class="my-3"><small>Sponsorship oppurtunities will be announced soon</small></h4>
+        <h4 class="my-3"><small>{{< event_link page="sponsor" text="Sponsor the event" >}}</small></h4>
       </div>
     </div>
     <div class = "row">
