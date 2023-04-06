@@ -40,7 +40,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: inscrição
     url: https://www.sympla.com.br/evento/devopsdays-juiz-de-fora-2023/1912369
 #  - name: program
-#  - name: speakers
+  - name: palestrantes
+    url: /events/2023-juiz-de-fora/speakers
   - name: patrocínio
     url: /events/2023-juiz-de-fora/sponsor
   - name: contato
@@ -157,11 +158,11 @@ program:
   #   date: 2023-11-05T08:00:00-03:00
   #   start_time: "10:30"
   #   end_time: "11:00"
-  # - title: "alvaro-huanca"
-  #   type: talk
-  #   date: 2023-11-05T08:00:00-03:00
-  #   start_time: "11:00"
-  #   end_time: "11:30"
+  - title: "alex-salgado"
+    type: talk
+    date: 2023-03-04T08:00:00-03:00
+    start_time: "09:30"
+    end_time: "10:00"
   # - title: "rodrigo-ribeiro"
   #   type: talk
   #   date: 2023-11-05T08:00:00-03:00
