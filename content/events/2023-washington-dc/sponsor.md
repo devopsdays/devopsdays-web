@@ -145,9 +145,7 @@ Want to make a distinctive impression? Choose one of our special sponsorships, w
 
 ### [Kubernetes Community Days](https://community.cncf.io/events/details/cncf-kcd-washington-dc-presents-kubernetes-community-days-washington-dc-2023/) Featured Sponsor - No additional cost (2 spots)
 
-* Be a top tier sponsor of our companion conference and we'll recognize your support 
-  * 1 included ticket
-  * Event MC pitch and introduction
+* Be a top tier sponsor of our companion conference and we'll recognize your support at the Silver tier.
 
 ### Closed Captioning Sponsor - Price $4,500 USD (1 spot)
 
