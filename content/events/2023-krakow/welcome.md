@@ -50,8 +50,7 @@ Description = "devopsdays Kraków 2023"
   </div>
   <div class="text">
     <a href="https://eventory.cc/event/devopsdays-krakow-2023" type="button" class="btn btn-danger btn-lg btn-block">REGISTRATION</a>
-    <a href="https://dodkrakow.pl/call-for-papers-2023/" type="button" class="btn btn-danger btn-lg btn-block">PROPOSE</a>
-    <a href="mailto:olga.michaliszyn@proidea.pl " type="button" class="btn btn-danger btn-lg btn-block">SPONSOR</a>
+    <a href="mailto:krakow@devopsdays.org " type="button" class="btn btn-danger btn-lg btn-block">SPONSOR</a>
     <a href="/events/2023-krakow/contact" type="button" class="btn btn-danger btn-lg btn-block">CONTACT</a>
   </div>
 </div>

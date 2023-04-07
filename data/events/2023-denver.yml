@@ -102,9 +102,15 @@ sponsors:
     level: silver
   - id: tonicai
     level: silver
+  - id: prosper-ops
+    level: silver
   - id: privacy-dynamics
     level: supporter
   - id: releaseteam
+    level: supporter
+  - id: honeycomb
+    level: supporter
+  - id: hyperglance
     level: supporter
 
 sponsor_levels:
@@ -244,8 +250,8 @@ program:
   - title: "peter-oneill"
     type: talk
     date: 2023-04-25T23:59:59-06:00
-    start_time: "10:50"
-    end_time: "11:20"
+    start_time: "10:55"
+    end_time: "11:25"
   - title: "tim-rayburn"
     type: talk
     date: 2023-04-25T23:59:59-06:00
