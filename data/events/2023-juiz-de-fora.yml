@@ -104,10 +104,15 @@ sponsors:
     level: platinum
   - id: uniacademia
     level: platinum
+  - id: elastic
+    level: bronze
   - id: cafe-do-programador
     level: gifts
   - id: digitalocean
     level: gifts
+  - id: novatec
+    level: gifts
+    url: https://novatec.com.br
   - id: kubeevents
     level: community
   - id: kubecareers
@@ -160,11 +165,11 @@ program:
   #   date: 2023-11-05T08:00:00-03:00
   #   start_time: "10:30"
   #   end_time: "11:00"
-  - title: "alex-salgado"
-    type: talk
-    date: 2023-03-04T08:00:00-03:00
-    start_time: "09:30"
-    end_time: "10:00"
+  # - title: "alex-salgado"
+  #   type: talk
+  #   date: 2023-03-04T08:00:00-03:00
+  #   start_time: "09:30"
+  #   end_time: "10:00"
   # - title: "rodrigo-ribeiro"
   #   type: talk
   #   date: 2023-11-05T08:00:00-03:00
