@@ -109,9 +109,9 @@ sponsors:
   - id: labyrinthlabs
     level: silver
     url: "https://lablabs.io"
-  - id: a1
+  - id: exoscale
     level: silver
-    url: "https://www.a1.digital/"
+    url: "https://www.exoscale.com"
   - id: devopsgroup
     level: bronze
     url: "https://www.devopsgroup.eu"
@@ -166,12 +166,12 @@ program:
     date: 2023-05-22
     start_time: "09:00"
     end_time: "09:10"
-  - title: ""
+  - title: "paul-bruce"
     type: talk
     date: 2023-05-22
     start_time: "09:10"
     end_time: "09:45"
-  - title: ""
+  - title: "kristina-kondrashevich"
     type: talk
     date: 2023-05-22
     start_time: "09:45"
@@ -181,12 +181,12 @@ program:
     date: 2023-05-22
     start_time: "10:20"
     end_time: "10:45"
-  - title: ""
+  - title: "emrah-samdan"
     type: talk
     date: 2023-05-22
     start_time: "10:45"
     end_time: "11:20"
-  - title: ""
+  - title: "jakub-sekera"
     type: talk
     date: 2023-05-22
     start_time: "11:25"
@@ -241,7 +241,7 @@ program:
     date: 2023-05-23
     start_time: "09:00"
     end_time: "09:10"
-  - title: ""
+  - title: "rotem-refael"
     type: talk
     date: 2023-05-23
     start_time: "09:10"
@@ -261,7 +261,7 @@ program:
     date: 2023-05-23
     start_time: "10:45"
     end_time: "11:20"
-  - title: ""
+  - title: "michael-man"
     type: talk
     date: 2023-05-23
     start_time: "11:25"
@@ -302,11 +302,15 @@ program:
     end_time: "17:15"
 
 ignites:
-  - title: ""
+  - title: "piet-vandongen"
     date: 2023-05-22
-  - title: ""
+  - title: "martyn-kilbryde"
     date: 2023-05-22
-  - title: ""
+  - title: "kris-buytaert"
+    date: 2023-05-22
+  - title: "john-hatton"
+    date: 2023-05-22
+  - title: "jan-kopriva"
     date: 2023-05-22
   - title: ""
     date: 2023-05-23
