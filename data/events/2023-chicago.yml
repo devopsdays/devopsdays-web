@@ -175,13 +175,15 @@ sponsors:
     level: platinum
   - id: discover
     level: platinum
+  - id: acorn
+    level: gold
   - id: appdynamics
     level: gold
   - id: circleci
     level: gold
   - id: dell-technologies
     level: gold
-  - id: transition-technologies
+  - id: launch-darkly
     level: gold
   - id: kosli
     level: gold
@@ -193,11 +195,11 @@ sponsors:
     level: gold
   - id: temporal
     level: gold
+  - id: transition-technologies
+    level: gold
   - id: trendmicro
     level: gold
   - id: zesty
-    level: gold
-  - id: launch-darkly
     level: gold
   - id: honeycomb
     level: bronze
