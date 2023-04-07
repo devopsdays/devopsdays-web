@@ -38,9 +38,9 @@ location_address: "2110 San Jacinto Boulevard, Austin, Texas 78712" #Optional - 
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
-  # - name: schedule
+  - name: schedule
   - name: registration
-  # - name: speakers
+  - name: speakers
   - name: location
   - name: contact
   - name: sponsor
