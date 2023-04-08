@@ -9,7 +9,7 @@ Description = "Welcome to DevOpsDays Medellín 2023"
     <img alt="DevOpsDays Medellin 2023" src="/events/2023-medellin/logo.png" class="img-fluid">
   </div>
   <div class="col-md-7">
-    <h2>Nuestra Conferencia DevOpsDays Medellín vuelve y tendrá lugar el 18 y 19 de mayo de 2023</h2>
+    <h2>Nuestra Conferencia DevOpsDays Medellín vuelve y tendrá lugar el 18 de mayo online y el 19 y 20 de mayo precencial este 2023</h2>
     <p>
       The DevOpsDays conference arrives to Medellín once again, Be part on May 2023!
     </p>
@@ -28,7 +28,7 @@ Description = "Welcome to DevOpsDays Medellín 2023"
     <p>
       <ul>
         <li>
-          Two days of conferences and activities.
+          Three days of conferences and activities.
         </li>
         <li>
           Starting Welcome from the organizers and day overview. 
