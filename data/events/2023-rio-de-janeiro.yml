@@ -103,6 +103,11 @@ team_members: # Name is the only required field for team members.
     employer: "Digisystem"
     linkedin: "https://www.linkedin.com/in/caroline-pinheiro-503118197/"
     image: "carol-pinheiro.jpg"
+  - name: "Igor Guedes Medella"
+    employer: "Departamento de Controle do Espaço Aéreo"
+    twitter: "igormedella"
+    linkedin: "LinkedIn.com/in/igorguedes"
+    image: "igormedella.jpg"
 
 organizer_email: "devopsdaysrio@gmail.com" # Put your organizer email address here
 
