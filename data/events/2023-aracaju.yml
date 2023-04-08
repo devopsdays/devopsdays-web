@@ -142,6 +142,8 @@ sponsors:
 # Community  
   - id: novatec
     level: community
+  - id: liquet
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
