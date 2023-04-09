@@ -1,6 +1,6 @@
 +++
 Title = "Bernardo Lankheet"
-linkedin = "https://www.linkedin.com/in/bernardo-lankheet" 
+linkedin = "https://www.linkedin.com/in/bernardolankheet/" 
 Website = "https://bernardolankheet.com.br/"
 Twitter = "lankheetben"
 image = "bernardo-lankheet.jpg"

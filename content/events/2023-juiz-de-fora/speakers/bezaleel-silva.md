@@ -7,4 +7,4 @@ type = "speaker"
 linktitle = "bezaleel-silva"
 +++
 
-Organizador da comunidade DevOpsGO, DevOpsDays Goiânia, atualmente trabalho como SRE na Globo
+Organizador da comunidade DevOpsGO, DevOpsDays Goiânia, atualmente trabalho como SRE.

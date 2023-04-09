@@ -9,4 +9,4 @@ linktitle = "robert-silva"
 
 +++
 
-Especialista em Docker e Kubernetes, Lider Técnico na JLCP, possuo +10 anos de experiência em TI ajudando equipes a resolver demandas de negócio com o uso da tecnologia.
+Especialista em Docker e Kubernetes, Líder Técnico na JLCP, possuo +10 anos de experiência em TI ajudando equipes a resolver demandas de negócio com o uso da tecnologia.

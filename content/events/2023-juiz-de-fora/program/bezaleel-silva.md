@@ -7,4 +7,4 @@ Type = "talk"
 Speakers = ["bezaleel-silva"]
 +++
 
-Nessa palestra irei falar sobre aspectos da sindrome do impostor e suas consequencias
+Nessa palestra irei falar sobre aspectos da sindrome do impostor e suas consequências.
