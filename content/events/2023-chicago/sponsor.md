@@ -13,8 +13,7 @@ DevOpsDays Chicago is a self organizing conference for practitioners that depend
 Platinum and Gold sponsors get a full table in the sponsor area where they can interact with those interested to come visit during breaks. All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
 <p>
 The best thing to do is send engineers to interact with the experts at DevOpsDays Chicago on their own terms.
-<p>
-<h3><i>All Platinum, Gold, and Bronze purchases paid before March 31, 2023 receive a $1,000 discount!</i></h3>
+
 <h2>Sponsorship Packages</h2>
 
 <table class="table table-bordered table-hover">
@@ -30,9 +29,9 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
   <tbody>
     <tr>
       <td>Price</td>
-      <td><del>$15,000</del>&nbsp$14,000</td>
-      <td><del>$9,000</del>&nbsp$8,000</td>
-      <td><del>$2,000</del>&nbsp$1,000</td>
+      <td><strike>$15,000</strike></td>
+      <td>$9,000</td>
+      <td>$2,000</td>
       <td>Free</td>
     </tr>
     <tr>

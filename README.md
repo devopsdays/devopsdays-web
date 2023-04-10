@@ -1,6 +1,5 @@
-[![Build Status](https://github.com/devopsdays/devopsdays-web/actions/workflows/hugo.yml/badge.svg)
-[![license](https://img.shields.io/github/license/devopsdays/devopsdays-theme.svg)](https://github.com/devopsdays/devopsdays-web/blob/main/LICENSE) [![Greenkeeper badge](https://badges.greenkeeper.io/devopsdays/devopsdays-web.svg)](https://greenkeeper.io/)
-
+![Build Status](https://github.com/devopsdays/devopsdays-web/actions/workflows/hugo.yml/badge.svg)
+[![license](https://img.shields.io/github/license/devopsdays/devopsdays-theme.svg)](https://github.com/devopsdays/devopsdays-web/blob/main/LICENSE)
 
 # devopsdays-web
 
@@ -33,4 +32,3 @@ If you discover a problem with the site that isn't specific to an event's conten
 If there is a feature that you would like to see, please [open an issue](https://github.com/devopsdays/devopsdays-web/issues/new) and prepend the title with `[ENHANCEMENT]`.
 
 If you would like to help prioritize enhancements, please upvote the original issue by [adding a reaction](https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments).
-

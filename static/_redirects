@@ -1,6 +1,6 @@
 /amsterdam/*		/events/2023-amsterdam/:splat		302
 /aracaju/*		/events/2023-aracaju/:splat		302
-/atlanta/*		/events/2022-atlanta/:splat		302
+/atlanta/*		/events/2023-atlanta/:splat		302
 /austin/*		/events/2023-austin/:splat		302
 /baku/*			/events/2019-baku/:splat		302
 /baltimore/*		/events/2023-baltimore/:splat		302
@@ -61,7 +61,7 @@
 /los-angeles/*		/events/2022-los-angeles/:splat		302
 /macapa/*		/events/2019-macapa/:splat		302
 /madison/*		/events/2020-madison/:splat		302
-/madrid/*		/events/2020-madrid/:splat		302
+/madrid/*		/events/2023-madrid/:splat		302
 /manila/*		/events/2011-manila/:splat		302
 /maringa/*		/events/2018-maringa/:splat		302
 /medellin/*		/events/2022-medellin/:splat		302
@@ -90,7 +90,7 @@
 /raleigh/*		/events/2023-raleigh/:splat		302
 /recife/*		/events/2022-recife/:splat		302
 /riga/*			/events/2018-riga/:splat		302
-/rio-de-janeiro/*	/events/2022-rio-de-janeiro/:splat	302
+/rio-de-janeiro/*	/events/2023-rio-de-janeiro/:splat	302
 /rome/*			/events/2012-italy/:splat		302
 /saint-louis/*		/events/2020-saint-louis/:splat		302
 /salt-lake-city/*	/events/2020-salt-lake-city/:splat	302

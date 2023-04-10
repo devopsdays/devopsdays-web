@@ -18,8 +18,7 @@ Our catering will serve meat, vegan, lactose and gluten-free food. Please contac
 </p>
 
 <div style="width:100%; text-align:left;">
-  <link rel="stylesheet" type="text/css" href='https://css.tito.io/v1.1' />
-  <script src='https://js.tito.io/v1' async></script>
+  <script src="https://js.tito.io/v2" async></script>
   <tito-widget event="dod/dodzh2023"></tito-widget>
 </div>
 

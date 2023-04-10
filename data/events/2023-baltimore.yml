@@ -108,6 +108,8 @@ sponsors:
     level: media
   - id: bmore_code_and_coffee
     level: community
+  - id: spark-bmore
+    level: community
   - id: "newrelic"
     level: happyhour
   - id: "540"
@@ -116,6 +118,12 @@ sponsors:
     level: gold
   - id: "newrelic"
     level: gold
+  - id: "gitlab"
+    level: platinum
+  - id: "fearless"
+    level: platinum
+  - id: lightstep
+    level: platinum
   # - id: appdynamics-before-20220714
   #   level: platinum
   ## Gold
@@ -139,9 +147,6 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: happyhour
-    label: Happy Hour
-    max: 1
   - id: platinum
     label: Platinum
     max: 16
@@ -153,3 +158,6 @@ sponsor_levels:
     label: Media
   - id: community
     label: Community
+  - id: happyhour
+    label: Happy Hour
+    max: 1

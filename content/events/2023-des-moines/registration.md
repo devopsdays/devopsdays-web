@@ -1,7 +1,7 @@
 +++
 Title = "Registration"
 Type = "event"
-Description = "Registration for devopsdays Des Moines 2023"
+Description = "Registration for Agile + DevOpsDays Des Moines 2023"
 +++
 
 <div style="width:100%; text-align:left;">

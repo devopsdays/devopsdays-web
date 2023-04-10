@@ -1,7 +1,7 @@
 +++
 Title = "Contact"
 Type = "event"
-Description = "Contact information for devopsdays Des Moines 2023"
+Description = "Contact information for Agile + DevOpsDays Des Moines 2023"
 +++
 
 If you'd like to contact us by email: {{< email_organizers >}}
