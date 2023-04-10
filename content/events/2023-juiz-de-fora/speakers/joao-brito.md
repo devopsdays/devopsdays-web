@@ -3,7 +3,7 @@ Title = "João Brito"
 Linkedin = "https://www.linkedin.com/in/juniorjbn/"
 Website = "https://getup.io/kubicast"
 Twitter = "juniorjbn"
-image = "joao-brito.png"
+image = "joao-brito.jpg"
 type = "speaker"
 linktitle = "joao-brito"
 
