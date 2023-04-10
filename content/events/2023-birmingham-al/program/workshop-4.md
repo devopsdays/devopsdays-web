@@ -2,7 +2,7 @@
 Talk_date = "2023-04-21"
 Talk_start_time = "10:50"
 Talk_end_time = "11:50"
-Title = "Scoring open-source dependencies to detect “weak links” in your software supply chain"
+Title = "Scoring open-source dependencies to detect 'weak links' in your software supply chain"
 Type = "talk"
 Speakers = ["ashish-bijlani"]
 +++
