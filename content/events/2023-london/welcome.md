@@ -45,7 +45,6 @@ Description = "DevOpsDays London 2023"
       We are not a commercial conference and we believe that our focus on serving the community creates a truly unique experience for both delegates and sponsors.
     </p>
     <p>We expect 350 people (depending on COVID-19 guidance) this year and will be holding the event on September 21st-22nd at the QEII Centre in London..</p>
-    <p>For the first time this year we will offer interactive online tickets as well.</p>
     <p>The format of DevOpsDays London includes a single track of 30 minute talks in the morning of each event, followed by Ignite talks (5 minute, auto forwarding). We spend the rest of the afternoon in Open Spaces, which are considered a key portion of the event.
     </p>
     {{< event_twitter >}}
