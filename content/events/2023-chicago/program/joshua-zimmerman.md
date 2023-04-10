@@ -1,10 +1,8 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
 Title = "Never Tell Me the Odds: Navigating Organizational Politics"
 Type = "talk"
 Speakers = ["joshua-zimmerman"]
+sharing_image = "joshua-zimmerman.png"
 +++
 Where there are people, there are politics. Despite negative views many engineers have of office politics, they play an important role in our organizations. Politics is how we, as groups of people, make decisions. If we want to influence decision-making in our organizations, then we need to understand organizational politics.
 
