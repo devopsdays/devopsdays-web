@@ -94,14 +94,21 @@ sponsors:
     level: silver
   - id: dragondropcloud
     level: silver
+  - id: core-talent-services
+    level: bronze
   - id: microsoft-teals
     level: community
   - id: digital-motion
-    level: community
+    level: bronze
   - id: birmingham-area-software-enthusiasts
     level: community
   - id: nibuild
+    level: bronze
+  - id: itac-solutions
+    level: silver
+  - id: babajavacoffee
     level: community
+
 sponsors_accepted : "yes"
 
 # In this section, list the level of sponsorships and the label to use.
@@ -115,6 +122,8 @@ sponsor_levels:
     label: Gold
   - id: silver
     label: Silver
+  - id: bronze
+    label: Bronze
   - id: community
     label: Community
 
@@ -161,7 +170,7 @@ program:
     date: 2023-04-20T00:00:00-05:00
     start_time: "11:15"
     end_time: "11:45"
-  - title: "workshop-2"
+  - title: "workshop-3"
     type: talk
     date: 2023-04-20T00:00:00-05:00
     start_time: "11:15"
@@ -197,12 +206,6 @@ program:
     date: 2023-04-20T00:00:00-05:00
     start_time: "14:50"
     end_time: "15:00"
-  - title: "workshop-3"
-    type: talk
-    date: 2023-04-20T00:00:00-05:00
-    start_time: "15:00"
-    end_time: "15:45"
-    background_color: "#8ad0d3"
   - title: "Open Spaces #1 - Discovery Theatre, Rehearsal Rooms 3,4,5"
     type: "open-space"
     date: 2023-04-20T00:00:00-05:00
@@ -260,28 +263,28 @@ program:
     date: 2023-04-21T00:00:00-05:00
     start_time: "10:20"
     end_time: "10:50"
-  - title: "workshop-4"
+  - title: "workshop-2"
     type: talk
     date: 2023-04-21T00:00:00-05:00
     start_time: "10:50"
     end_time: "11:50"
     background_color: "#8ad0d3"
+  - title: "eric-evans"
+    type: talk
+    date: 2023-04-21T00:00:00-05:00
+    start_time: "10:50"
+    end_time: "11:20"
   - title: "gerie-owen"
     type: talk
     date: 2023-04-21T00:00:00-05:00
     start_time: "11:20"
     end_time: "11:50"
-  - title: "eric-evans"
-    type: talk
-    date: 2023-04-21T00:00:00-05:00
-    start_time: "11:50"
-    end_time: "12:20"
   - title: "Lunch - Education Lobby"
     type: custom
     date: 2023-04-21T00:00:00-05:00
     start_time: "12:20"
     end_time: "13:00"
-  - title: "workshop-5"
+  - title: "workshop-4"
     type: talk
     date: 2023-04-21T00:00:00-05:00
     start_time: "13:00"

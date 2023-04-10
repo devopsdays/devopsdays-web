@@ -7,7 +7,7 @@ Description = "devopsdays Denver 2023"
 
 <div style="text-align:center;">
   <!-- {{< event_logo >}} -->
-  <img src="/events/2023-denver/logo-square.jpg" width="300" />
+  <img src="/events/2023-denver/2023-flatline.png" width="800" />
 </div>
 
 

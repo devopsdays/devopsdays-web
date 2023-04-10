@@ -258,14 +258,14 @@ program:
     end_time: "14:30"
 
     # Day 1: talk 5
-  - title: arnaud-billion
+  - title: guillaume-vial
     type: talk
     date: "2023-04-24"
     start_time: "14:30"
     end_time: "15:20"
 
     # Day 1: talk 6
-  - title: guillaume-vial
+  - title: arnaud-billion
     type: talk
     date: "2023-04-24"
     start_time: "15:20"
@@ -413,7 +413,7 @@ program:
     end_time: "14:30"
 
   #   Day 2: talk 5
-  - title: cody-zuschlag
+  - title: paula-paul
     type: talk
     date: "2023-04-25"
     start_time: "14:30"
