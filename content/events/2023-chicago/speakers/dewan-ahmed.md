@@ -7,7 +7,7 @@ linktitle = "dewan-ahmed"
 linkedin = "https://www.linkedin.com/in/diahmed/"
 github = "dewan-ahmed"
 website = "https://dewanahmed.com/"
-sharing_image = "dewan-ahmed.png"
+sharing_image = "dewan-peter.png"
 +++
 Dewan Ahmed is a Senior Developer Advocate at Aiven, a company that offers a fully managed, open source cloud data platform. Before joining Aiven, he worked at IBM and Red Hat as a developer, QA lead, consultant, and developer advocate.
 

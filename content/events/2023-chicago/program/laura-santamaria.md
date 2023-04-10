@@ -1,10 +1,8 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
 Title = "How DevOps Is like Making Paper Airplanes"
 Type = "talk"
 Speakers = ["laura-santamaria"]
+sharing_image = "laura-santamaria.png"
 +++
 The delight of flying an airplane made from paper that you had on hand is known to nearly everyone. However, there are so many designs and so many processes for making one; the rabbit hole of paper airplane design and science is very deep. From environment to material to techniques, there are so many things to think about. How do you choose which plane to make?
 
