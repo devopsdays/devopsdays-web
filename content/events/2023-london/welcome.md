@@ -20,9 +20,9 @@ Description = "DevOpsDays London 2023"
           <a class="btn btn-secondary btn-block" href="https://forms.gle/iBjCTD5N3abLAcNP8"> <i class="fa fa-microphone fa-lg"></i>&nbsp;&nbsp;
             &nbsp; Propose a talk</a>
         </div>
-        <!-- <div class="p-2">
+        <div class="p-2">
           <a class="btn btn-secondary btn-block" href="https://ti.to/devopsdays-london/2023"> <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Get a ticket</a>
-        </div> -->
+        </div>
         <div class="p-2">
           <a class="btn btn-secondary btn-block" href="https://devopsdays.us18.list-manage.com/subscribe?u=6c07d2ff23793b0dda5929f46&id=7aba07ba8c"> <i class="fa fa-list fa-lg"></i>&nbsp;&nbsp;
             &nbsp; Get the latest announcements</a>
