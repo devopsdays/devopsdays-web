@@ -39,6 +39,7 @@ As a speaker we will provide you with:
 in addition, if you are personally funding your attendance we have some budget to cover reasonable travel and accommodation costs.
 
 <hr>
+
 ### Help with your talk
 
 If you are a first time speaker and/or from an under represented group in technology
