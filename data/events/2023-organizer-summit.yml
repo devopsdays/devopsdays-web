@@ -182,10 +182,6 @@ sponsors:
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
-# In this section, list the level of sponsorships and the label to use.
-# You may optionally include a "max" attribute to limit the number of sponsors per level. For
-# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
-# sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
   - id: community
     label: Community
