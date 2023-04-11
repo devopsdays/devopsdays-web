@@ -146,13 +146,10 @@ sponsors:
     level: community
   - id: novatec
     level: community
-<<<<<<< HEAD
   - id: guiafoca
     level: community
   - id: linuxtips
-=======
   - id: liquet
->>>>>>> 5f67e02abe574184ef34c55f619f7287765cdbd4
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
