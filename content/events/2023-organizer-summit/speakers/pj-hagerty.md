@@ -1,7 +1,7 @@
 +++
 Title = "PJ Hagerty"
 Twitter = ""
-image = ""
+image = "pj-hagerty.jpeg"
 type = "speaker"
 linktitle = "pj-hagerty"
 

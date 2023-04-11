@@ -1,7 +1,7 @@
 +++
 Title = "Laura Wickett"
 Twitter = ""
-image = ""
+image = "laura-wickett.jpg"
 type = "speaker"
 linktitle = "laura-wickett"
 

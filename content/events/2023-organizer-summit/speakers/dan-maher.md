@@ -1,7 +1,7 @@
 +++
 Title = "Dan \"phrawzty\" Maher"
 Twitter = ""
-image = ""
+image = "dan-maher.jpeg"
 type = "speaker"
 linktitle = "dan-maher"
 +++

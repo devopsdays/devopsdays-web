@@ -1,7 +1,7 @@
 +++
 Title = "Laura Santamaria"
 Twitter = ""
-image = ""
+image = "laura-santamaria.jpg"
 type = "speaker"
 linktitle = "laura-santamaria"
 +++

@@ -1,7 +1,7 @@
 +++
 Title = "Paula Kennedy"
 Twitter = ""
-image = ""
+image = "paula-kennedy.jpeg"
 type = "speaker"
 linktitle = "paula-kennedy"
 +++
