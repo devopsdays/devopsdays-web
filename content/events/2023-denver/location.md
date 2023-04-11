@@ -17,6 +17,6 @@ The parking lot is around the building and will only have 150 parking spots. Ple
 We have access to park on location for 150 parking spots and overflow parking is at Mile High Stadium parking lots. We appreciate anyone able to car pool or take public transportation.
 
 ## Hours of Entry
-Doors will open at 8am for breakfast every day of the event and the early-check-in is Sunday April 28th at 5pm-8pm.
+Doors will open at 8am for breakfast every day of the event and the early-check-in is Sunday April 23rd at 3pm-5pm.
 
 * * *
