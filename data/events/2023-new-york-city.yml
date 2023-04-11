@@ -20,7 +20,7 @@ cfp_date_start: 2023-03-25T00:00:00-05:00 # start accepting talk proposals.
 cfp_date_end: 2023-04-23T00:00:00-05:00 # close your call for proposals.
 cfp_date_announce: 2023-05-1T00:00:00-05:00 # inform proposers of status
 
-# cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://sessionize.com/devopsdays-new-york-city-2023"
 
 registration_date_start: 2023-04-01T00:00:00-05:00
 registration_date_end: 2023-06-04T00:00:00-05:00
@@ -37,10 +37,11 @@ location_address: "524 West 59th Street, New York, NY 10019" #Optional - use the
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
+  - name: propose
   # - name: registration
   # - name: program
   # - name: speakers
-  # - name: sponsor
+  - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
@@ -116,8 +117,8 @@ sponsors_accepted: "no" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: social
-    label: Evening Social
+  - id: reception
+    label: Evening Reception
   - id: gold
     label: Gold
   - id: silver
@@ -128,6 +129,8 @@ sponsor_levels:
     label: Video
   - id: captioning
     label: Live Captioning
+  - id: registration
+    label: Registration
   - id: lunch
     label: Lunch
   - id: breakfast

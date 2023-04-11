@@ -7,9 +7,7 @@ Description = "Propose a talk for devopsdays London 2023"
 
 <hr>
 
-<center><h2><a href="https://forms.gle/iBjCTD5N3abLAcNP8">Our CFP is now open</a></h2></center>
-
-Due to the COVID-19 situation we are only looking for speakers who are normally a resident of the UK.
+<center><h2>Our CFP is now open! Use <a href="https://forms.gle/iBjCTD5N3abLAcNP8">this form</a> to propose a talk.</h2></center>
 
 <hr>
 
@@ -41,6 +39,7 @@ As a speaker we will provide you with:
 in addition, if you are personally funding your attendance we have some budget to cover reasonable travel and accommodation costs.
 
 <hr>
+
 ### Help with your talk
 
 If you are a first time speaker and/or from an under represented group in technology

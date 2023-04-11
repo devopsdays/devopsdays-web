@@ -1,10 +1,8 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
 Title = "Your Distributed System is Talking to You: OpenTelemetry"
 Type = "talk"
 Speakers = ["jessica-kerr"]
+sharing_image = "jessica-kerr.png"
 +++
 An app without built-in observability is like a baby: it cries sometimes, and you have to guess what is wrong.
 

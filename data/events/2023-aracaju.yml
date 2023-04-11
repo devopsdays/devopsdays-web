@@ -41,7 +41,7 @@ location_address: ""
 masthead_background: "skyline-aju.jpg"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- - name: propose
+# - name: propose
  - name: location
  - name: registration
  # - name: program
@@ -149,6 +149,7 @@ sponsors:
   - id: guiafoca
     level: community
   - id: linuxtips
+  - id: liquet
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

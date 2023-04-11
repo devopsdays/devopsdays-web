@@ -1,10 +1,8 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
 Title = "An Ode to Technical Debt"
 Type = "talk"
 Speakers = ["sugaroverflow"]
+sharing_image = "sugaroverflow.png"
 +++
 Technical debt is a common challenge in tech, but it can quickly become overwhelming without the right tools and culture. In this talk, I will share my experience maintaining an open-source repository and the valuable lessons I learned along the way.
 

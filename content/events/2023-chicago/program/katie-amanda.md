@@ -1,10 +1,8 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
 Title = "The State of DevOps - Capabilities for Building High-performing Technology Teams"
 Type = "talk"
 Speakers = ["katie-mclaughlin", "amanda-lewis"]
+sharing_image = "amanda-katie.png"
 +++
 Technology drives value and innovation in every organization. At Google Cloud, we have learned a lot about what it takes to build and scale high-performing technology teams. Our own lived experience combined with a multi-year research program led by the DevOps Research and Assessment (DORA) team can be used to help you and your team transform into a high-performing technology team.
 
