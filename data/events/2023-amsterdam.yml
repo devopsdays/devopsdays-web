@@ -153,6 +153,8 @@ sponsors:
     level: gold 
   - id: devoteam
     level: gold
+  - id: isovalent
+    level: gold
 # Lanyard
   - id: schubergphilis
     level: lanyard
