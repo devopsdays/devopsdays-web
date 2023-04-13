@@ -166,7 +166,7 @@ program:
     date: 2023-05-22
     start_time: "09:00"
     end_time: "09:10"
-  - title: "paul-bruce"
+  - title: "jan-devries"
     type: talk
     date: 2023-05-22
     start_time: "09:10"
@@ -246,7 +246,7 @@ program:
     date: 2023-05-23
     start_time: "09:10"
     end_time: "09:45"
-  - title: ""
+  - title: "paul-bruce"
     type: talk
     date: 2023-05-23
     start_time: "09:45"
@@ -256,7 +256,7 @@ program:
     date: 2023-05-23
     start_time: "10:20"
     end_time: "10:45"
-  - title: ""
+  - title: "sowmya-sridharamurthy"
     type: talk
     date: 2023-05-23
     start_time: "10:45"
@@ -312,9 +312,11 @@ ignites:
     date: 2023-05-22
   - title: "jan-kopriva"
     date: 2023-05-22
-  - title: ""
+  - title: "oleksii-kraievyi"
     date: 2023-05-23
-  - title: ""
+  - title: "philipp-krenn"
     date: 2023-05-23
-  - title: ""
+  - title: "tomas-kubica"
+    date: 2023-05-23
+  - title: "wojciech-gawronski"
     date: 2023-05-23
