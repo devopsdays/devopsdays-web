@@ -86,6 +86,8 @@ sponsors:
     level: gold
   - id: newrelic
     level: gold
+  - id: sourcedgroup
+    level: gold
   - id: portworx
     level: silver
   - id: paloaltonetworks
