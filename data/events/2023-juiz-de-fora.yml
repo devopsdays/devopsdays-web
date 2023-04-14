@@ -110,9 +110,9 @@ sponsors:
     level: gifts
   - id: digitalocean
     level: gifts
-  #- id: novatec
-  #  level: gifts
-  #  url: https://novatec.com.br
+  - id: novatec
+    level: gifts
+    url: https://novatec.com.br
   - id: kubeevents
     level: community
   - id: kubecareers
