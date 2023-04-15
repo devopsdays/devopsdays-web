@@ -145,9 +145,13 @@ sponsors:
 # - id: samplesponsorname
 #   level: gold
 #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: harness
+    level: diamond
   - id: devops-colombia
     level: diamond
   - id: 2020-devco
+    level: diamond
+  - id: elastic
     level: diamond
   - id: harness
     level: diamond
@@ -181,6 +185,14 @@ sponsors:
     level: gold
   - id: payucolombia
     level: gold
+  - id: hashicorp
+    level: platinum
+  - id: 2022-paloalto
+    level: platinum
+  - id: ceiba
+    level: platinum
+  - id: javeriana
+    level: platinum
   - id: linux-professional-institute
     level: socialmedia
   - id: intersoftware
@@ -193,6 +205,7 @@ sponsors:
     level: socialmedia
   - id: alcaldiamedellin
     level: socialmedia
+
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.

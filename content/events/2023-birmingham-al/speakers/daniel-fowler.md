@@ -1,7 +1,7 @@
 +++
 Title = "Daniel Fowler"
 Twitter = ""
-image = ""
+image = "daniel_fowler.jpg"
 type = "speaker"
 linktitle = "daniel-fowler"
 

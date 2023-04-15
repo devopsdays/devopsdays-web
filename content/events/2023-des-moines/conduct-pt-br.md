@@ -1,7 +1,7 @@
 +++
 Title = "Conduta"
 Type = "event"
-Description = "Código de conduta do devopsdays Des Moines 2023"
+Description = "Código de conduta do Agile + DevOpsDays Des Moines 2023"
 +++
 
 

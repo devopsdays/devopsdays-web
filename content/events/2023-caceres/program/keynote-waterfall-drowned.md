@@ -6,6 +6,8 @@ Title = "Waterfall Drowned my Company: a Story of Queer and DevOps (or the Lack 
 Type = "talk"
 Speakers = ["fran-rodriguez"]
 +++
+<link href="/events/2023-caceres/main.css" rel="stylesheet">
+<script src="/events/2023-caceres/main.js"></script>
 
 <p>Once upon a time, there was a company that embraced Agilism and DevOps to the bone. But then one day, anti-patterns started popping up like mushrooms. Suddenly, there was a 2-year long waterfall process going on, delivery was stopped and a once flourishing company was one step closer to bankruptcy.
 

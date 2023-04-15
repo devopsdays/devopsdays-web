@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "How to sleep at night while having a cloud serviceHow to sleep at night while having a cloud service"
+Title = "How to sleep at night while having a cloud service"
 Type = "talk"
 Speakers = ["daniel-sada-caraveo"]
 +++

@@ -8,11 +8,10 @@ ga_tracking_id: "UA-137417319-10"
 startdate: "2023-10-16T08:00:00-05:00"
 enddate: "2023-10-17T17:00:00-05:00"
 
-# Uncomment when CFP is published.
-#cfp_date_start: "2023-05-15T00:00:00-00:00"
-#cfp_date_end: "2023-06-30T23:59:00-00:00"
-#cfp_date_announce: "2023-05-15T00:00:00-00:00"
-#cfp_link: "https://www.papercall.io/dodbos22"
+cfp_date_start: "2023-04-03T00:00:00-00:00"
+cfp_date_end: "2023-05-31T23:59:59-00:00"
+cfp_date_announce: "2023-04-03T00:00:00-00:00"
+cfp_link: "https://www.papercall.io/dodbos23"
 
 # Uncomment when registration is opened.
 #registration_date_start: "2023-08-05T00:00:00-00:00"
