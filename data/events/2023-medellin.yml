@@ -161,17 +161,17 @@ sponsors:
     level: diamond
   - id: elastic
     level: platinum
-  - id: hashicorp
+  - id: githublogo
+    level: platinum
+  - id: herzum
+    level: platinum
+  - id: hashicorp 
     level: platinum
   - id: newrelic
     level: platinum
   - id: pragma
     level: platinum
   - id: 2022-paloalto
-    level: platinum
-  - id: githublogo
-    level: platinum
-  - id: herzum
     level: platinum
   - id: os_enterprise
     level: platinum
