@@ -72,7 +72,7 @@ sponsors_accepted: "yes"
 sponsors:
   - id: sleuth
     level: gold
-  - id: zoho
+  - id: site24x7
     level: gold
   - id: temporal
     level: gold
@@ -85,6 +85,8 @@ sponsors:
   - id: elastic
     level: gold
   - id: newrelic
+    level: gold
+  - id: sourcedgroup
     level: gold
   - id: portworx
     level: silver
