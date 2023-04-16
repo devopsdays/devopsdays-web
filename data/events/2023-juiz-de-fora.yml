@@ -34,13 +34,14 @@ location: "UniAcademia"
 location_address: "R. Halfeld, 1179 - Centro, Juiz de Fora - MG, 36016-000" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: Chamadas (CFP)
-    url: https://www.papercall.io/devopsdaysjuizdefora2023
+  #- name: Chamadas (CFP)
+  #  url: https://www.papercall.io/devopsdaysjuizdefora2023
   - name: local
   - name: inscrição
     url: https://www.sympla.com.br/evento/devopsdays-juiz-de-fora-2023/1912369
 #  - name: program
-#  - name: speakers
+  - name: palestrantes
+    url: /events/2023-juiz-de-fora/speakers
   - name: patrocínio
     url: /events/2023-juiz-de-fora/sponsor
   - name: contato
@@ -103,8 +104,15 @@ sponsors:
     level: platinum
   - id: uniacademia
     level: platinum
+  #- id: elastic
+  #  level: bronze
+  - id: cafe-do-programador
+    level: gifts
   - id: digitalocean
     level: gifts
+  - id: novatec
+    level: gifts
+    url: https://novatec.com.br
   - id: kubeevents
     level: community
   - id: kubecareers
@@ -157,11 +165,11 @@ program:
   #   date: 2023-11-05T08:00:00-03:00
   #   start_time: "10:30"
   #   end_time: "11:00"
-  # - title: "alvaro-huanca"
+  # - title: "alex-salgado"
   #   type: talk
-  #   date: 2023-11-05T08:00:00-03:00
-  #   start_time: "11:00"
-  #   end_time: "11:30"
+  #   date: 2023-03-04T08:00:00-03:00
+  #   start_time: "09:30"
+  #   end_time: "10:00"
   # - title: "rodrigo-ribeiro"
   #   type: talk
   #   date: 2023-11-05T08:00:00-03:00

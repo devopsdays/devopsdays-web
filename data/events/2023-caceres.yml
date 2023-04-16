@@ -125,6 +125,8 @@ sponsors:
     level: bronze
   - id: str-sistemas
     level: bronze
+  - id: homeria-by-glovo
+    level: bronze
   - id: kubecareers
     level: collaborators
   - id: kubeevents
@@ -134,6 +136,8 @@ sponsors:
   - id: edd
     level: collaborators
   - id: azuanet
+    level: collaborators
+  - id: tego
     level: collaborators
   - id: voicemod
     level: coffee
@@ -148,6 +152,8 @@ sponsors:
   - id: smart-open-lab
     level: community
   - id: aws-user-groups-spain
+    level: community
+  - id: certiprof
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
