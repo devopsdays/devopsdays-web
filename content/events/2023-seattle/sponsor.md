@@ -40,7 +40,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
       <td colspan="3"><small>
       Note: Paypal payments include 3% service charge.
       <br>
-      <a href="mailto:seattle@devopsdays.org?subject=Interested%20in%20Sponsoring%20by%20check%20DevOpsDays%20Seattle%202022">Email</a> us if you prefer to pay by check
+      <a href="mailto:seattle@devopsdays.org?subject=Interested%20in%20Sponsoring%20by%20check%20DevOpsDays%20Seattle%202023">Email</a> us if you prefer to pay by check
       </small></td>
       <td></td>
     </tr>
@@ -73,7 +73,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
           <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
         </form> -->
       </td>
-      <td><a href="mailto:seattle@devopsdays.org?subject=Interested%20in%20Community%20Sponsorship%20DevOpsDays%20Seattle%202022">Contact us</a>
+      <td><a href="mailto:seattle@devopsdays.org?subject=Interested%20in%20Community%20Sponsorship%20DevOpsDays%20Seattle%202023">Contact us</a>
       </td>
     </tr>
     <tr>
