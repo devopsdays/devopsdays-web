@@ -165,7 +165,7 @@ program:
     date: 2023-05-19T08:00:00-03:00
     start_time: "10:30"
     end_time: "11:00"
-  - title: "matheus-amaral"
+  - title: "felipe-rocha"
     type: talk
     date: 2023-05-19T08:00:00-03:00
     start_time: "11:00"
@@ -186,11 +186,12 @@ program:
     start_time: "13:30"
     end_time: "13:45"
     background_color: "#AED6F1"
-  - title: "felipe-rocha"
-    type: talk
+  - title: "FishBowl"
+    type: fish-bowl
     date: 2023-05-19T08:00:00-03:00
     start_time: "13:45"
     end_time: "14:15"
+    background_color: "#AED6F1"
   - title: "bezaleel-silva"
     type: talk
     date: 2023-05-19T08:00:00-03:00
@@ -312,7 +313,7 @@ program:
     start_time: "16:15"
     end_time: "16:45"
     background_color: "#AED6F1"
-  - title: "Em breve"
+  - title: "matheus-amaral"
     type: talk
     date: 2023-05-20T08:00:00-03:00
     start_time: "16:45"
@@ -325,5 +326,181 @@ program:
   - title: "Happy Hour"
     type: custom
     date: 2023-05-20T08:00:00-03:00
+    start_time: "18:00"
+    end_time: "22:00"
+  - title: "Credenciamento"
+    type: custom
+    date: 2024-05-19T08:00:00-03:00
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Abertura"
+    type: custom
+    date: 2024-05-19T08:00:00-03:00
+    start_time: "09:00"
+    end_time: "09:30"
+  - title: "rafael-gomex"
+    type: talk
+    date: 2024-05-19T08:00:00-03:00
+    start_time: "09:30"
+    end_time: "10:00"
+  - title: "francisco-ferreira-cardoso"
+    type: talk
+    date: 2024-05-19T08:00:00-03:00
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Coffee Break"
+    type: custom
+    date: 2024-05-19T08:00:00-03:00
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "felipe-rocha"
+    type: talk
+    date: 2024-05-19T08:00:00-03:00
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "marcos-diez"
+    type: talk
+    date: 2024-05-19T08:00:00-03:00
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Almoço"
+    type: custom
+    date: 2024-05-19T08:00:00-03:00
+    start_time: "12:00"
+    end_time: "14:00"
+  - title: "Ignite Talks"
+    type: custom
+    date: 2024-05-19T08:00:00-03:00
+    start_time: "14:00"
+    end_time: "14:15"
+    background_color: "#AED6F1"
+  - title: "bezaleel-silva"
+    type: talk
+    date: 2024-05-19T08:00:00-03:00
+    start_time: "14:15"
+    end_time: "14:45"
+  - title: "daniel-rodrigues-da-silva"
+    type: talk
+    date: 2024-05-19T08:00:00-03:00
+    start_time: "14:45"
+    end_time: "15:15"
+  - title: "Coffee Break"
+    type: custom
+    date: 2024-05-19T08:00:00-03:00
+    start_time: "15:15"
+    end_time: "15:45"
+  - title: "Open Spaces"
+    type: custom
+    date: 2024-05-19T08:00:00-03:00
+    start_time: "15:45"
+    end_time: "16:15"
+    background_color: "#AED6F1"
+  - title: "Open Spaces"
+    type: custom
+    date: 2024-05-19T08:00:00-03:00
+    start_time: "16:15"
+    end_time: "16:45"
+    background_color: "#AED6F1"
+  - title: "punk-do-devops"
+    type: talk
+    date: 2024-05-19T08:00:00-03:00
+    start_time: "16:45"
+    end_time: "17:15"
+  - title: "Encerramento"
+    type: custom
+    date: 2024-05-19T08:00:00-03:00
+    start_time: "17:15"
+    end_time: "18:00"
+  - title: "Happy Hour"
+    type: custom
+    date: 2024-05-19T08:00:00-03:00
+    start_time: "18:00"
+    end_time: "22:00"
+  - title: "Credenciamento"
+    type: custom
+    date: 2024-05-20T08:00:00-03:00
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Abertura"
+    type: custom
+    date: 2024-05-20T08:00:00-03:00
+    start_time: "09:00"
+    end_time: "09:30"
+  - title: "joao-brito"
+    type: talk
+    date: 2024-05-20T08:00:00-03:00
+    start_time: "09:30"
+    end_time: "10:00"
+  - title: "stephanie-chaia-bartels"
+    type: talk
+    date: 2024-05-20T08:00:00-03:00
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Coffee Break"
+    type: custom
+    date: 2024-05-20T08:00:00-03:00
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "robert-silva-bernardo-lankheet"
+    type: talk
+    date: 2024-05-20T08:00:00-03:00
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "alex-salgado"
+    type: talk
+    date: 2024-05-20T08:00:00-03:00
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Almoço"
+    type: custom
+    date: 2024-05-20T08:00:00-03:00
+    start_time: "12:00"
+    end_time: "14:00"
+  - title: "Ignite Talks"
+    type: custom
+    date: 2024-05-20T08:00:00-03:00
+    start_time: "14:00"
+    end_time: "14:15"
+    background_color: "#AED6F1"
+  - title: "edson-marques"
+    type: talk
+    date: 2024-05-20T08:00:00-03:00
+    start_time: "14:15"
+    end_time: "14:45"
+  - title: "ruan-oliveira"
+    type: talk
+    date: 2024-05-20T08:00:00-03:00
+    start_time: "14:45"
+    end_time: "15:15"
+  - title: "Coffee Break"
+    type: custom
+    date: 2024-05-20T08:00:00-03:00
+    start_time: "15:15"
+    end_time: "15:45"
+  - title: "Open Spaces"
+    type: custom
+    date: 2024-05-20T08:00:00-03:00
+    start_time: "15:45"
+    end_time: "16:15"
+    background_color: "#AED6F1"
+  - title: "Open Spaces"
+    type: custom
+    date: 2024-05-20T08:00:00-03:00
+    start_time: "16:15"
+    end_time: "16:45"
+    background_color: "#AED6F1"
+  - title: "matheus-amaral"
+    type: talk
+    date: 2024-05-20T08:00:00-03:00
+    start_time: "16:45"
+    end_time: "17:15"
+  - title: "Encerramento"
+    type: custom
+    date: 2024-05-20T08:00:00-03:00
+    start_time: "17:15"
+    end_time: "18:00"
+  - title: "Happy Hour"
+    type: custom
+    date: 2024-05-20T08:00:00-03:00
     start_time: "18:00"
     end_time: "22:00"
