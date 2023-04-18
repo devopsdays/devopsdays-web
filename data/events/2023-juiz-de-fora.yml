@@ -165,7 +165,7 @@ program:
     date: 2023-05-19T08:00:00-03:00
     start_time: "10:30"
     end_time: "11:00"
-  - title: "Em aberto"
+  - title: "matheus-amaral"
     type: talk
     date: 2023-05-19T08:00:00-03:00
     start_time: "11:00"
