@@ -150,7 +150,7 @@ program:
     date: 2023-05-19T08:00:00-03:00
     start_time: "09:00"
     end_time: "09:30"
-  - title: "Em aberto"
+  - title: "rafael-gomex"
     type: talk
     date: 2023-05-19T08:00:00-03:00
     start_time: "09:30"
