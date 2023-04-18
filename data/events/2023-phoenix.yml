@@ -69,11 +69,12 @@ sponsors:
     level: media
   - id: devitjobs
     level: media
-  # - id: samplesponsorname
-  #   level: gold
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  # - id: arresteddevops
-  #   level: community
+  - id: observeinc
+    level: gold
+  - id: acorn
+    level: gold
+  - id: fastly
+    level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
