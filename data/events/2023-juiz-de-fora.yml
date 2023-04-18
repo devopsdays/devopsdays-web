@@ -39,8 +39,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: local
   - name: inscrição
     url: https://www.sympla.com.br/evento/devopsdays-juiz-de-fora-2023/1912369
-  - name: programação
-    url: /events/2023-juiz-de-fora/program
+  #- name: programação
+  #  url: /events/2023-juiz-de-fora/program
   - name: palestrantes
     url: /events/2023-juiz-de-fora/speakers
   - name: patrocínio
