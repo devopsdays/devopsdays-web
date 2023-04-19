@@ -101,6 +101,8 @@ sponsors:
     level: gold
   - id: vmware-tanzu
     level: gold
+  - id: pagerduty
+    level: gold
   - id: contrast_security
     level: silver
   - id: systematic
@@ -114,6 +116,8 @@ sponsors:
   - id: scr
     level: community
   - id: copenhagen-devops
+    level: community
+  - id: pagerduty
     level: community
   - id: stickermule
     level: community

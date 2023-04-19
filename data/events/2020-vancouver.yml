@@ -93,7 +93,7 @@ organizer_email: "vancouver@devopsdays.org" # Put your organizer email address h
 sponsors:
   - id: xmatters
     level: gold
-  - id: site24x7
+  - id: site24x7-before-20230414
     level: gold
   - id: dynatrace
     level: gold
