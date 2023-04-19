@@ -85,7 +85,10 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/sean-sype/"
     image: "sean_simmons.png"
   - name: "Salman Malik"
-    employer: "VMware Tanzu Labs"
+    github: "maliksalman"
+    twitter: "SalmanTheMalik"
+    linkedin: "https://www.linkedin.com/in/salmanthemalik"
+    employer: "VMware"
     image: "white.png"
 
 organizer_email: "detroit@devopsdays.org" # Put your organizer email address here
