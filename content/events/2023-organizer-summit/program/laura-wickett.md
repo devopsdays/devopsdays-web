@@ -1,7 +1,4 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
 Title = "Manage Your Finances So They Don't Manage You"
 Type = "talk"
 Speakers = ["laura-wickett"]
