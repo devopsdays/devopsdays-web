@@ -4,9 +4,9 @@ Type = "event"
 Description = "Location for devopsdays seattle 2023"
 +++
 
-### <a href="https://seattleconventioncenter.com/venues/summit-addition">Seattle Convention Center | Summit Building</a>
+### <a href="https://seattleconventioncenter.com/venues/arch-conference-center">Seattle Convention Center | Arch at 800 Pike Building</a>
 
-900 Pine St, Seattle, WA 98101
+800 Pike St, Seattle, WA 98101
 
 <!-- Uncomment this only if you have set the coordinates for your location in the config yaml. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html -->
 {{< event_map >}}
