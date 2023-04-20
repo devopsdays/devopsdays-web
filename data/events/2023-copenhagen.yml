@@ -101,6 +101,8 @@ sponsors:
     level: gold
   - id: vmware-tanzu
     level: gold
+  - id: pagerduty
+    level: gold
   - id: contrast_security
     level: silver
   - id: systematic
@@ -115,12 +117,16 @@ sponsors:
     level: community
   - id: copenhagen-devops
     level: community
+  - id: pagerduty
+    level: community
   - id: stickermule
     level: community
     url: https://mule.to/p3mm
   - id: danske-commodities
     level: community
   - id: kea
+    level: community
+  - id: dalux
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

@@ -187,6 +187,8 @@ sponsors:
     level: gold
   - id: kosli
     level: gold
+  - id: nobl9
+    level: gold
   - id: postman
     level: gold
   - id: sleuth
@@ -204,6 +206,8 @@ sponsors:
   - id: honeycomb
     level: bronze
   - id: aspire-systems
+    level: bronze
+  - id: redhat
     level: bronze
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops

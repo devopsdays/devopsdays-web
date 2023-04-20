@@ -170,12 +170,6 @@ program:
     date: 2023-04-20T00:00:00-05:00
     start_time: "11:15"
     end_time: "11:45"
-  - title: "workshop-3"
-    type: talk
-    date: 2023-04-20T00:00:00-05:00
-    start_time: "11:15"
-    end_time: "12:30"
-    background_color: "#8ad0d3"
   - title: "Intro to Microsoft TEALS Program (Main Theater)"
     type: custom
     date: 2023-04-20T00:00:00-05:00
@@ -206,6 +200,12 @@ program:
     date: 2023-04-20T00:00:00-05:00
     start_time: "14:50"
     end_time: "15:00"
+  - title: "workshop-3"
+    type: talk
+    date: 2023-04-20T00:00:00-05:00
+    start_time: "15:00"
+    end_time: "16:00"
+    background_color: "#8ad0d3"
   - title: "Open Spaces #1 - Discovery Theatre, Rehearsal Rooms 3,4,5"
     type: "open-space"
     date: 2023-04-20T00:00:00-05:00
@@ -300,28 +300,33 @@ program:
     date: 2023-04-21T00:00:00-05:00
     start_time: "13:30"
     end_time: "14:00"
-  - title: "Break - Visit Sponsors - Bars Open 🍻"
-    type: custom
+  - title: "eamon-bauman"
+    type: talk
     date: 2023-04-21T00:00:00-05:00
     start_time: "14:00"
     end_time: "14:30"
-  - title: "Break - Visit Sponsors"
+  - title: "Main Stage Closing Remarks"
     type: custom
     date: 2023-04-21T00:00:00-05:00
-    start_time: "15:30"
-    end_time: "16:00"
+    start_time: "14:30"
+    end_time: "14:45"
+  - title: "Break - Visit Sponsors - Bars Open 🍻"
+    type: custom
+    date: 2023-04-21T00:00:00-05:00
+    start_time: "14:45"
+    end_time: "15:00"
   - title: "Open Spaces #1 - Discovery Theatre, Rehearsal Rooms 3,4,Donor Lounge"
     type: "open-space"
     date: 2023-04-21T00:00:00-05:00
-    start_time: "16:00"
-    end_time: "16:30"
+    start_time: "15:00"
+    end_time: "15:30"
   - title: "Open Spaces #2 - Discovery Theatre, Rehearsal Rooms 3,4,Donor Lounge"
     type: "open-space"
     date: 2023-04-21T00:00:00-05:00
-    start_time: "16:30"
-    end_time: "17:00"
+    start_time: "15:30"
+    end_time: "16:00"
   - title: "Mixing and Socializing"
     type: custom
     date: 2023-04-21T00:00:00-05:00
-    start_time: "17:00"
+    start_time: "16:00"
     end_time: "17:30"

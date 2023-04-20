@@ -136,12 +136,6 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/paula-lipnick-mba-pmp-psm/"
     image: "paula.jpg"
 
-  - name: "Rachel Goniwiecha"
-    employer: "TPS Talent"
-    bio: "Rachel Goniwiecha founded TPS Talent as a boutique, full-service recruitment agency that works closely with clients to find world-class talent for their organizations - no matter what stage of business they are in.<br><br>Over 20 years in the Telecom and IT world, Rachel has fine-tuned her process for finding exceptional talent that reaches well beyond typical job board applicants and is thrilled to be part of the organizing team for DevOps Dallas."
-    linkedin: "https://www.linkedin.com/in/rachel-petschel-goniwiecha-a5541b/"
-    image: "rachel.jpg"
-
   - name: "Roger Servey"
     employer: "Innovar Solutions"
     bio: "Roger is a 20+ year International  IT Leader experienced with Software delivery for systems delivering multi billion dollar impacts to their Enterprises.  Roger currently leads Verizon's Engineering Practice Transformation Centers - DOJOs - Across the United States, where teams enter to learn new Agile Practices, DevOps Automantions and Cloud Technologies which speed time to value realization, drive efficiency and improve quality.<br><br>Focus Areas for Roger include: DevOps, Agile Development, Continuous Delivery, Lean Development, Software architecture and design, Pricing theory, Product Lifecycle Management, Onshore, Near Shore and Offshore project development (US, LATAM, EMEA, APAC) and Pricing Analytics.<br><br>Roger holds his Bachelors Degree from Southern Methodist University and is a continuous learner.  A Practitioner of constraint management and evangelist for DevOps measurement, speaking at OS Con 2018 and GLUCON 2018 on <strong><i>DevOps Measurement and Enter-Sourcing with Hygieia. That which is measured, improves!</i></strong>. "
@@ -186,6 +180,8 @@ sponsors:
   # - id: samplesponsorname
   #  level: gold
   #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: liatrio
+    level: platinum
   - id: redgate
     level: silver
   - id: devopslive

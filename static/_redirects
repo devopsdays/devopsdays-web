@@ -26,12 +26,12 @@
 /chattanooga/*		/events/2022-chattanooga/:splat		302
 /chicago/*		/events/2023-chicago/:splat		302
 /columbus/*		/events/2020-columbus/:splat		302
-/copenhagen/*		/events/2019-copenhagen/:splat		302
+/copenhagen/*		/events/2023-copenhagen/:splat		302
 /cuba/*			/events/2019-cuba/:splat		302
 /dallas/*		/events/2023-dallas/:splat		302
 /denver/*		/events/2023-denver/:splat		302
 /des-moines/*		/events/2023-des-moines/:splat		302
-/detroit/*		/events/2022-detroit/:splat		302
+/detroit/*		/events/2023-detroit/:splat		302
 /down-under/*		/events/2019-sydney/:splat		302
 /edinburgh/*		/events/2020-edinburgh/:splat		302
 /feira-de-santana/*	/events/2019-feira-de-santana/:splat	302
@@ -164,3 +164,4 @@
 /aarhus/*            /events/2022-aarhus/:splat           302
 /almaty/*            /events/2022-almaty/:splat           302
 /organizer-summit/*            /events/2023-organizer-summit/:splat           302
+/organiser-summit/*            /events/2023-organizer-summit/:splat           302
