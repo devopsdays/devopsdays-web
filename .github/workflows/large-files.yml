@@ -35,5 +35,5 @@ jobs:
         uses: actions/github-script@v5
         with:
           script: |
-            const script = require('../scripts/comment-pr-large-file.js');
+            const script = require('.github/scripts/comment-pr-large-file.js');
             await script({github, context, core});
