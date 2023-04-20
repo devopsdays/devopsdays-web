@@ -30,25 +30,10 @@ jobs:
           done
           echo "HAS_LARGE_FILE=${has_large_file}" >> $GITHUB_ENV
 
-      - name: Comment on PR if PDF or large file is added
+      - name: Comment PR if PDF or large file is added
         if: ${{ env.HAS_LARGE_FILE == 'true' }}
         uses: actions/github-script@v5
         with:
           script: |
-            const pr = context.payload.pull_request;
-            const repo = context.repo;
-            const issueNumber = pr.number;
-            const { data: comments } = await github.issues.listComments({
-              ...repo,
-              issue_number: issueNumber,
-            });
-            const botComment = comments.find((comment) =>
-              comment.body.startsWith(":warning: Warning: This PR contains a PDF or large file");
-            );
-            if (!botComment) {
-              await github.issues.createComment({
-                ...repo,
-                issue_number: issueNumber,
-                body: ":warning: Warning: This PR contains a PDF or large file. In most cases, you want to use the [asset repository](https://github.com/devopsdays/devopsdays-assets/)",
-              });
-            }
+            const script = require('../scripts/comment-pr-large-file.js');
+            await script({github, context, core});
