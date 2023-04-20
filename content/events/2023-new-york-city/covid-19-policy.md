@@ -1,11 +1,11 @@
 +++
 Title = "Health & Safety / COVID-19 Policy"
 Type = "event"
-Description = "Health & Safety Policy for DevOpsDays NYC 2023"
+Description = "Health & Safety Policy for devopsdays NYC 2023"
 aliases = ["/events/2023-newyorkcity/covid"]
 +++
 
-In order to ensure the health and safety of all our attendees, staff, speakers, sponsors, and venue partners, DevOpsDays NYC is instituting the following COVID-19 policy for our 2023 event
+In order to ensure the health and safety of all our attendees, staff, speakers, sponsors, and venue partners, devopsdays NYC is instituting the following COVID-19 policy for our 2023 event
 
 ### Vaccination / Testing
 * For the purposes of this event, we are requiring negative COVID tests (PCR or antigen) from within the last 24 hours for in-person attendance. Specifically, we're asking this of all participants - including sponsors, speakers, staff, and attendees. 
@@ -26,7 +26,7 @@ While we believe vaccination is important, we feel that requiring a test for det
 * We reserve the right to ask any individual presenting symptoms to take another antigen rapid test. (It'll still be allergy season, there may be some people with coughs and sniffles!)
 
 ### Note on Changes To Policy
-We reserve the right to adjust our Health & Safety policy and will be constantly reevaluating this policy between now and the event.  However, the Health & Safety policy will not be made any **less** restrictive 30 days prior to the event. If you have any questions or concerns about your ticket purchase based on our policy, please emailnew-york-city@devopsdays.org
+We reserve the right to adjust our Health & Safety policy and will be constantly reevaluating this policy between now and the event.  However, the Health & Safety policy will not be made any **less** restrictive 30 days prior to the event. If you have any questions or concerns about your ticket purchase based on our policy, please email new-york-city@devopsdays.org
 
 Please note our policies are also subject to change depending on federal, state, and local requirements/guidelines/mandates.
 
