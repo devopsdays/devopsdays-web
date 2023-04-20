@@ -160,6 +160,9 @@ sponsors:
 # Lanyard
   - id: schubergphilis
     level: lanyard
+# Foodtrucks
+  - id: exoscale
+    level: foodtruck
 # Silver
   - id: wiz
     level: silver
@@ -207,7 +210,7 @@ sponsor_levels:
   - id: recharge
     label: "Power recharge"
     max: 1
-  - id: foodtrucks
+  - id: foodtruck
     label: "Food Trucks"
     max: 4
   - id: silver
