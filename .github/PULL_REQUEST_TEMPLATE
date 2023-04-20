@@ -1,3 +1,5 @@
 *Please title your pull request in this format: The event name and year in the title of the PR, along with a description of what is being changed, i.e., `[CHI-2019] Add Bluth Company as a sponsor`*
 
 If you are adding or removing organisers, please email info@devopsdays.org with the details of who is being added and removed, along with the full names and email addresses of the new team, so we can update Slack and the mailing list.
+
+- [ ] Large files have been added to the [asset repository](https://github.com/devopsdays/devopsdays-assets/)
