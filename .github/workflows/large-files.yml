@@ -1,0 +1,61 @@
+name: Check for Large Files
+
+on:
+  pull_request:
+    types:
+      - opened
+      - synchronize
+
+jobs:
+  check_pdf:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Check for PDFs and large files
+        run: |
+          changed_files_with_sizes=$(git diff --numstat origin/main HEAD)
+          has_large_file=false
+          IFS=$'\n'
+          for line in $changed_files_with_sizes; do
+            size=$(echo ${line} | awk '{print $1}')
+            file=$(echo ${line} | awk '{print $1}')
+            # Any file larger than 5MB or PDF
+            if [[ "${size}" -gt $((5 * 1024 * 1024)) ]] || [[ "${file}" == *.pdf ]]; then
+              has_large_file=true
+              break
+            fi
+          done
+          echo "HAS_LARGE_FILE=${has_large_file}" >> $GITHUB_ENV
+
+      - name: Comment on PR if PDF or large file is added
+        if: ${{ env.HAS_LARGE_FILE == 'true' }}
+        uses: actions/github-script@v5
+        with:
+          script: |
+            const { context, github } = require("@actions/github");
+            const pr = context.payload.pull_request;
+            const repo = context.repo;
+            const issueNumber = pr.number;
+
+            async function main() {
+              const { data: comments } = await github.issues.listComments({
+                ...repo,
+                issue_number: issueNumber,
+              });
+
+              const botComment = comments.find((comment) =>
+                comment.body.startsWith("⚠️ Warning: This PR contains a PDF or large file");
+              );
+
+              if (!botComment) {
+                await github.issues.createComment({
+                  ...repo,
+                  issue_number: issueNumber,
+                  body: "⚠️ Warning: This PR contains a PDF or large file. In most cases, you want to use the [asset repository](https://github.com/devopsdays/devopsdays-assets/)",
+                });
+              }
+            }
+
+            main();
