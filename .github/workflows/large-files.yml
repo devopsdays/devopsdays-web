@@ -1,4 +1,4 @@
-name: Check for Large Files
+name: Check for large files
 
 on:
   pull_request:
@@ -22,8 +22,8 @@ jobs:
           for line in $changed_files_with_sizes; do
             size=$(echo "${line}" | awk '{print $1}')
             file=$(echo "${line}" | awk '{print $3}')
-            # Any file larger than 5MB or PDF
-            if [[ ${size} -gt $((5 * 1024 * 1024)) ]] || [[ "${file}" == *.pdf ]]; then
+            # Any file larger than 3MB or PDF
+            if [[ ${size} -gt $((3 * 1024 * 1024)) ]] || [[ "${file}" == *.pdf ]]; then
               has_large_file=true
               break
             fi
