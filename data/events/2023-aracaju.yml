@@ -128,41 +128,24 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-#   - id: BBQ
-#     label: BBQ
-#     max: 1
-#   - id: beer
-#     label: Beer
-#     max: 1
-#   - id: coffee
-#     label: Coffee
-#     max: 1
+   - id: platinum
+     label: Platinum
    - id: gold
      label: Gold
-     max: 8
-#   - id: lanyard
-#     label: Lanyard
-#     max: 1
-#   - id: recharge
-#     label: "Power recharge"
-#     max: 1
-#   - id: foodtrucks
-#     label: "Food Trucks"
-#     max: 4
    - id: silver
      label: Silver
-     max: 8
    - id: bronze
      label: Bronze
-     max: 5
    - id: community
      label: Community
-     max: 10
 
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+# Platinum
+  - id: mulvi
+    level: platinum
 # Gold
   - id: elastic
     level: gold
@@ -179,6 +162,8 @@ sponsors:
     level: silver
 # Bronze
   - id: chip&cia
+    level: bronze
+  - id: qualestecnologia
     level: bronze
 # Community
   - id: unit

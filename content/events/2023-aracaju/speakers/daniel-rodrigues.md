@@ -1,10 +1,9 @@
 +++
-Title = "Bezaleel Silva"
-Twitter = "bezarsnba"
-image = "bezaleel-silva.png"
+Title = "Daniel Rodrigues"
+image = "daniel-rodrigues.png"
 type = "speaker"
-linktitle = "bezaleel-silva"
+linktitle = "daniel-rodrigues"
 
 +++
 
-Organizador da comunidade DevOpsGO, DevOpsDays Goiânia, atualmente trabalho como SRE
+Daniel Rodrigues é um profissional com mais de 5 anos de experiência na área de computação, pós graduado em Engenharia de Software. É apaixonado por tecnologia, padrões de projeto, desenvolvimento de software e pelo universo DevOps. Atualmente atua como Engenheiro de Software na Flash.

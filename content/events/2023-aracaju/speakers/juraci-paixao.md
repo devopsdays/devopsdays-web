@@ -1,7 +1,7 @@
 +++
 Title = "Juraci Paixão Kröhling"
 Twitter = "dosetelemetria"
-image = "bezaleel-silva.png"
+image = "juraci-paixao.png"
 type = "speaker"
 linktitle = "juraci-paixao"
 

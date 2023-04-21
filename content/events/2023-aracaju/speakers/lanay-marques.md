@@ -1,10 +1,12 @@
 +++
-Title = "Bezaleel Silva"
-Twitter = "bezarsnba"
-image = "bezaleel-silva.png"
+Title = "Lanay Marques"
+image = "lanay-marques.png"
 type = "speaker"
-linktitle = "bezaleel-silva"
+linktitle = "lanay-marques"
 
 +++
 
-Organizador da comunidade DevOpsGO, DevOpsDays Goiânia, atualmente trabalho como SRE
+Nordestina, curiosa, comunicativa e cheia de ideias... 
+Com 10 anos de experiência profissional na área de TI. Entusiasta da cultura DevOps e competências SRE e CKA.
+Mestre em ciência da computação na universidade Federal de Sergipe.
+E mãe de dois pets fofinhos, uma gatinha e um furão ✨.
