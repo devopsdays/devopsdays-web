@@ -5,6 +5,7 @@ event_twitter: "dodvilnius" # Change this to the twitter handle for your event s
 description: "Devopsdays is coming to Vilnius!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 event_logo: "logo.jpg"
+masthead_background: "vilnius-head-background.jpg"
 
 # All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00
@@ -15,11 +16,11 @@ startdate: 2023-09-06T00:00:00+03:00 # The start date of your event. Leave blank
 enddate: 2023-09-07T23:59:59+03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2023-05-01T00:00:00+03:00 # start accepting talk proposals.
-cfp_date_end: 2023-06-15T00:00:00+03:00 # close your call for proposals.
-cfp_date_announce: 2023-06-27T00:00:00+03:00 # inform proposers of status
+cfp_date_start: 2023-04-25T00:00:00+03:00 # start accepting talk proposals.
+cfp_date_end: 2023-06-06T00:00:00+03:00 # close your call for proposals.
+cfp_date_announce: 2023-06-15T00:00:00+03:00 # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://www.papercall.io/devopsdays-vilnius" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2023-05-01T00:00:00+03:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 registration_date_end: 2023-09-05T00:00:00+03:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
@@ -34,7 +35,8 @@ location: "Tech Park | Vilnius" # Defaults to city, but you can make it the venu
 location_address: "Antakalnio g. 13, 10312 Vilnius" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
+    url: https://www.papercall.io/devopsdays-vilnius
   - name: location
  # - name: registration
  # - name: program
