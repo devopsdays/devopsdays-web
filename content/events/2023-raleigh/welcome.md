@@ -1,3 +1,7 @@
+Thank you for making DevopsDays Raleigh an amazing event again!
+Keep the DevOpsDays Raleigh conversation going. Follow us on LinkedIn and Twitter!
+
+
 +++
 Title = "devopsdays raleigh 2023"
 Type = "welcome"
