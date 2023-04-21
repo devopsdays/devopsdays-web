@@ -1,7 +1,7 @@
 +++
 Title = "Programação"
 Type = "program"
-Description = "Programação - DevOpsDays Goiânia 2023"
+Description = "Programação - DevOpsDays Aracaju 2023"
 Icons = "false"
 +++
 
