@@ -30,7 +30,7 @@ jobs:
           done
           echo "HAS_LARGE_FILE=${has_large_file}" >> $GITHUB_ENV
 
-      - name: Comment PR if PDF or large file is added
+      - name: Comment PR if large file is added
         if: ${{ env.HAS_LARGE_FILE == 'true' }}
         uses: actions/github-script@v5
         with:
