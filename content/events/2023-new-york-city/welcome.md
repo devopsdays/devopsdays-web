@@ -106,9 +106,9 @@ The organizers of devopsdaysNYC believe that the community is stronger when all 
       <div class = "col-md-3">
         <div class="my-3">{{< event_twitter >}}</div>
       </div>
-      <div class = "col-md-3">
+      <!-- <div class = "col-md-3">
         <div class="my-3"><a href="https://twitter.com/intent/tweet?button_hashtag=devopsdaysnyc&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #devopsdaysnyc</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
-      </div>
+      </div> -->
     </div>
   </div>
 </div>
