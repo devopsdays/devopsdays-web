@@ -10,7 +10,7 @@ Description = "Sponsor devopsdays seattle 2023"
 The deadline for sponsorship is 07/01/2023, this will allow us able time to include sponsor logo's on signs at the venue.
 </b>
 <br>
-We greatly value sponsors for this community event. If you are interested in sponsoring, please check out our <a href="/events/2023-seattle/prospectus-2023.pdf">prospectus</a> or drop us an <a href="mailto:seattle@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Seattle%202023">email</a>.
+We greatly value sponsors for this community event. If you are interested in sponsoring, please check out our <a href="https://assets.devopsdays.org/events/2023/seattle/prospectus.pdf">prospectus</a> or drop us an <a href="mailto:seattle@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Seattle%202023">email</a>.
 </center>
 <hr>
 
