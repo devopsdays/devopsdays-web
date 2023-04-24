@@ -5,7 +5,7 @@ aliases = ["/events/2023-denver/"]
 Description = "devopsdays Denver 2023"
 +++
 
-{{< youtube 93HGVTRAVPs >}}
+{{< youtube xnzndS_7JjU >}}
 
 <div style="text-align:center;">
   <!-- {{< event_logo >}} -->
