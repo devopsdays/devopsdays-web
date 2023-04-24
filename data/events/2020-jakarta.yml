@@ -158,7 +158,7 @@ sponsors:
     level: university
   - id: binanusantara
     level: university
-  - id: securecodewarrior
+  - id: securecodewarrior-before-20230424
     level: tournament
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
