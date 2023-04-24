@@ -1,8 +1,8 @@
 
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_date = "2023-05-20"
+Talk_start_time = "11:00"
+Talk_end_time = "11:30"
 Title = "Do Rancher ao GitOps, melhorando o fluxo dos Devs."
 Type = "talk"
 Speakers = ["robert-silva", "bernardo-lankheet"]

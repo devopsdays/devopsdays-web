@@ -113,7 +113,7 @@ Description = "DevOpsDays Juiz De Fora 2023"
       </h4>
       <div class="d-lg-flex d-sm-flex  d-md-flex flex-row">
         <div style="width: max-content; padding-right: 1em; padding-bottom: 1em;">
-          <a  target="_blank" style="text-align:left;" class="btn btn-secondary btn-block" href="https://www.linkedin.com/company/devopsdays-jf/"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
+          <a  target="_blank" style="text-align:left;" class="btn btn-secondary btn-block" href="https://www.linkedin.com/company/devopsdays-jf/"><i class="fa fa-linkedin fa-fw"></i> Linkedin</a>
         </div>
         <div style="width: max-content; padding-right: 1em; padding-bottom: 1em;">
           <a  target="_blank" style="text-align:left;" class="btn btn-secondary btn-block" href="https://twitter.com/devopsdaysjf/"><i class="fa fa-twitter fa-fw "></i> Twitter </a>
@@ -129,6 +129,9 @@ Description = "DevOpsDays Juiz De Fora 2023"
         </div>
         <div style="width: max-content; padding-right: 1em; padding-bottom: 1em;">
           <a  target="_blank" style="text-align:left;" class="btn btn-secondary btn-block" href="https://t.me/+LbMyYyjmyEA5OGQx"> <i class="fa fa-telegram fa-fw"></i>&nbsp; Telegram</a>
+        </div>
+        <div style="width: max-content; padding-right: 1em; padding-bottom: 1em;">
+          <a  target="_blank" style="text-align:left;" class="btn btn-secondary btn-block" href="https://www.youtube.com/@DevOpsDaysdeJuizdeFora"> <i class="fa fa-youtube fa-fw"></i>&nbsp; YouTube</a>
         </div>
       </div>
     </div>

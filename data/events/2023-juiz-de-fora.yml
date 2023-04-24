@@ -39,8 +39,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: local
   - name: inscrição
     url: https://www.sympla.com.br/evento/devopsdays-juiz-de-fora-2023/1912369
-  #- name: programação
-  #  url: /events/2023-juiz-de-fora/program
+  - name: programação
+    url: /events/2023-juiz-de-fora/program
   - name: palestrantes
     url: /events/2023-juiz-de-fora/speakers
   - name: patrocínio
@@ -105,6 +105,8 @@ sponsors:
     level: platinum
   - id: uniacademia
     level: platinum
+  - id: jack-experts
+    level: bronze
   #- id: elastic
   #  level: bronze
   - id: cafe-do-programador
@@ -143,7 +145,7 @@ program:
   - title: "Credenciamento"
     type: custom
     date: 2023-05-19T08:00:00-03:00
-    start_time: "08:00"
+    start_time: "08:30"
     end_time: "09:00"
   - title: "Abertura"
     type: custom
@@ -225,7 +227,7 @@ program:
   - title: "Credenciamento"
     type: custom
     date: 2023-05-20T08:00:00-03:00
-    start_time: "08:00"
+    start_time: "08:30"
     end_time: "09:00"
   - title: "Abertura"
     type: custom

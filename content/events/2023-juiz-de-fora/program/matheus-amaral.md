@@ -1,7 +1,7 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_date = "2023-05-20"
+Talk_start_time = "16:45"
+Talk_end_time = "17:15"
 Title = "O medo não deve te parar! Explorando os benefícios do conhecimento em T"
 Type = "talk"
 Speakers = ["matheus-amaral"]

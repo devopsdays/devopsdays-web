@@ -1,7 +1,7 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_date = "2023-05-19"
+Talk_start_time = "10:00"
+Talk_end_time = "10:30"
 Title = "Escalando web3 para o céu e além: uma jornada de DevOps"
 Type = "talk"
 Speakers = ["francisco-ferreira-cardoso"]

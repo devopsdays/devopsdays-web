@@ -1,7 +1,7 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_date = "2023-05-20"
+Talk_start_time = "11:00"
+Talk_end_time = "11:30"
 Title = "Configurando pipelines no Github Actions para Terraform"
 Type = "talk"
 Speakers = ["felipe-rocha"]
