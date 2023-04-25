@@ -1,7 +1,7 @@
 +++
 Title = "devopsdays Organizer Summit 2023"
 Type = "welcome"
-aliases = ["/events/2023-organizer-summit/"]
+aliases = ["/events/2023-organizer-summit/","/events/2023-organiser-summit/"]
 Description = "devopsdays Organizer Summit 2023"
 +++
 
@@ -60,14 +60,14 @@ Virtual attendance is available for those who cannot attend in person.
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
     View the {{< event_link page="program" text="program." >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">

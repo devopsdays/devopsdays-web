@@ -180,7 +180,7 @@ sponsors:
     level: gold
   - id: isovalent
     level: gold
-  - id: armory # reused
+  - id: armory-2023
     level: gold
   - id: ustglobal # reused
     level: gold
@@ -193,6 +193,8 @@ sponsors:
   - id: raft
     level: happyhour
   - id: lightstep
+    level: happyhour
+  - id: kong
     level: happyhour
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

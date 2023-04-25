@@ -121,6 +121,9 @@ sponsors:
   - id: inuits
     level: bronze
     url: "https://inuits.eu/"
+  - id: lmc
+    level: bronze
+    url: "https://www.lmc.eu/en/"
   - id: pure-storage
     level: lanyard
     url: "https://www.purestorage.com/company/careers/opportunities.html"
@@ -135,6 +138,9 @@ sponsors:
   - id: czechitas
     level: community
     url: "https://www.czechitas.cz/en/" 
+  - id: talkweb
+    level: community
+    url: "https://talkweb.eu" 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -304,7 +310,7 @@ program:
 ignites:
   - title: "piet-vandongen"
     date: 2023-05-22
-  - title: "martyn-kilbryde"
+  - title: "wojciech-gawronski"
     date: 2023-05-22
   - title: "kris-buytaert"
     date: 2023-05-22
@@ -312,11 +318,15 @@ ignites:
     date: 2023-05-22
   - title: "jan-kopriva"
     date: 2023-05-22
+  - title: "martyn-kilbryde"
+    date: 2023-05-23
   - title: "oleksii-kraievyi"
+    date: 2023-05-23
+  - title: "martin-hauskrecht"
     date: 2023-05-23
   - title: "philipp-krenn"
     date: 2023-05-23
-  - title: "tomas-kubica"
+  - title: "martin-odstrcilik"
     date: 2023-05-23
-  - title: "wojciech-gawronski"
+  - title: "tomas-kubica"
     date: 2023-05-23

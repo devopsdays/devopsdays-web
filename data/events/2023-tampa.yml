@@ -8,8 +8,8 @@ masthead_background: "logo-square.jpg"
 speakers_verbose: "true"
 
 # All dates are in unquoted YYYY-MM-DD or YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T23:59:59+02:00
-startdate: "" # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: "" # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: "2023-09-21" # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: "2023-09-21" # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 
@@ -29,18 +29,18 @@ registration_closed: "" #set this to true if you need to manually close registra
 
 # Location
 #
-coordinates: "27.762802, -82.634803" #  The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+coordinates: "27.961310, -82.463761" #  The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Tampa Bay" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "1910 N Ola Ave, Tampa, FL 33602" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
 #  - name: propose
 #    url: /events/2022-tampa/propose
 #    icon: "book"
-#  - name: location
-#    icon: "map-o"
-#    url: /events/2023-tampa/location
+  - name: location
+    icon: "map-o"
+    url: /events/2023-tampa/location
 #  - name: registration
 #  - name: program
 #  - name: speakers
@@ -54,13 +54,6 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
-  - name: "Keith Sartain"
-    employer: "ConnectWise"
-    facebook: "https://www.facebook.com/kbsartain"
-    linkedin: "https://www.linkedin.com/in/keith-sartain-630b441"
-    website: "http://connectwise.com"
-    image: "keithsartain.jpg"
-    role: "Lead Organizer"
   - name: "James Gress"
     twitter: "jmgress"
     employer: "Accenture"
@@ -84,16 +77,12 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/troykoss/"
     twitter: ""
     role: "Lead Organizer"
-#  - name: "David Neukamm"
-#    employer: "Tential"
-#    website: "http://www.tential.com/"
-#    linkedin: "https://www.linkedin.com/in/davidneukamm/"
-#    image: "davidn.jpg" 
   - name: "Seni Aguiar"
     employer: "infiNetix"
     website: "https://infinetix.io/"
     linkedin: "https://www.linkedin.com/in/seniaguiar/"
     image: "seniguiar.jpg"
+    role: "Lead Organizer"
   - name: "Carly Partington"
     employer: "ZP Group"
     website: "http://zpgroup.com"

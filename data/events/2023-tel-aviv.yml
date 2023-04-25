@@ -145,6 +145,45 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/jonathann-zenou-7b384727/"
     website: "https://windward.ai/"
     image: "johnathan-zenou.jpg"
+  
+  - name: "Boris Cherkasky"
+    twitter: "@cherkaskyb"
+    employer: "Finout"
+    github: 
+    linkedin: ""
+    website: "https://finout.io"
+    image: "boris-cherkasky.jpeg"
+
+  - name: "Michael Zion"
+    twitter: "@mclzion"
+    employer: "MeteorOps"
+    github: 
+    linkedin: ""
+    website: "https://www.meteorops.com/"
+    image: "michael-zion.png"
+
+  - name: "Eti Dahan Noked"
+    twitter: "@etinoked"
+    employer: "Wilco"
+    github: 
+    linkedin: ""
+    website: "https://www.trywilco.com/"
+    image: "eti-noked.png"
+
+  - name: "Or Cohen"
+    twitter: "lightpriest"
+    employer: "Melio Payments"
+    github: 
+    linkedin: ""
+    website: "https://meliopayments.com"
+    image: "or-cohen.png"
+
+  - name: "Robert Barron"
+    twitter: "flyingbarron"
+    employer: "IBM"
+    github: "flyingbarron"
+    linkedin: "https://www.linkedin.com/in/flyingbarron/"
+    image: "robert-barron.jpg"
 
   - name: "In Loving Memory of Ariel Moskovich"
     twitter: "relmos"
@@ -159,6 +198,8 @@ organizer_email: "tel-aviv@devopsdays.org" # Put your organizer email address he
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: linearb
+    level: platinum
   - id: armosec
     level: gold
   - id: komodor
@@ -174,6 +215,14 @@ sponsors:
   - id: akeyless
     level: gold
   - id: okteto
+    level: gold
+  - id: logz
+    level: gold
+  - id: kubiya
+    level: gold
+  - id: quali
+    level: gold
+  - id: groundcover
     level: gold
 
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
@@ -195,13 +244,15 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: platinum
+    label: PLatinum
   - id: gold
     label: Gold
 #    max: 10
-  - id: silver
-    label: Silver
-    max: 0 # This is the same as omitting the max limit.
-  - id: bronze
-    label: Bronze
+#  - id: silver
+#    label: Silver
+#    max: 0 # This is the same as omitting the max limit.
+#  - id: bronze
+#    label: Bronze
   - id: community
     label: Community
