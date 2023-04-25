@@ -1,7 +1,7 @@
 +++
 Title = "Dwayne McDaniel"
 Twitter = "mcdwayne"
-#image = "dwayne-mcdaniel.png"
+image = "dwayne-mcdaniel.jpg"
 type = "speaker"
 linktitle = "dwayne-mcdaniel"
 +++

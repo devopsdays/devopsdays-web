@@ -1,7 +1,7 @@
 +++
 Title = "Andrew Knight"
 Twitter = "AutomationPanda"
-#image = "andrew-knight.png"
+image = "andrew-knight.jpg"
 type = "speaker"
 linktitle = "andrew-knight"
 +++
