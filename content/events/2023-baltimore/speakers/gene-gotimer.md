@@ -1,7 +1,7 @@
 +++
 Title = "Gene Gotimer"
 Twitter = "OtherDevOpsGene"
-#image = "gene-gotimer.png"
+image = "gene-gotimer.jpg"
 type = "speaker"
 linktitle = "gene-gotimer"
 +++

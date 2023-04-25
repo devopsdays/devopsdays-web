@@ -1,7 +1,7 @@
 +++
 Title = "Mandi Walls"
 Twitter = "lnxchk"
-#image = "mandi-walls.png"
+image = "mandi-walls.jpg"
 type = "speaker"
 linktitle = "mandi-walls"
 +++

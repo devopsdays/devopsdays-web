@@ -1,7 +1,7 @@
 +++
 Title = "Leon Fayer"
 Twitter = "papa_fire"
-#image = "leon-fayer.png"
+image = "leon-fayer.jpg"
 type = "speaker"
 linktitle = "leon-fayer"
 +++

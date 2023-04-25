@@ -1,7 +1,7 @@
 +++
 Title = "Jonathan King"
 Twitter = ""
-#image = "jonathan-king.png"
+image = "jonathan-king.jpg"
 type = "speaker"
 linktitle = "jonathan-king"
 +++

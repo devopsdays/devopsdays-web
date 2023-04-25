@@ -1,7 +1,7 @@
 +++
 Title = "Nathen Harvey"
 Twitter = "nathenharvey"
-#image = "nathen-harvey.png"
+image = "nathen-harvey.jpg"
 type = "speaker"
 linktitle = "nathen-harvey"
 +++
