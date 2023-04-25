@@ -130,9 +130,9 @@ Description = "DevOpsDays Juiz De Fora 2023"
         <div style="width: max-content; padding-right: 1em; padding-bottom: 1em;">
           <a  target="_blank" style="text-align:left;" class="btn btn-secondary btn-block" href="https://t.me/+LbMyYyjmyEA5OGQx"> <i class="fa fa-telegram fa-fw"></i>&nbsp; Telegram</a>
         </div>
-        <div style="width: max-content; padding-right: 1em; padding-bottom: 1em;">
+        <!-- <div style="width: max-content; padding-right: 1em; padding-bottom: 1em;">
           <a  target="_blank" style="text-align:left;" class="btn btn-secondary btn-block" href="https://www.youtube.com/@DevOpsDaysdeJuizdeFora"> <i class="fa fa-youtube fa-fw"></i>&nbsp; YouTube</a>
-        </div>
+        </div> -->
       </div>
     </div>
   </div> 
