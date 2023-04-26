@@ -19,7 +19,7 @@ cfp_date_end: 2023-05-25T07:00:00-03:00 # close your call for proposals.
 cfp_date_announce: 2023-07-15T08:00:00-03:00 # inform proposers of status
 
 cfp_open: "true"
-cfp_link: "https://www.papercall.io/devopsdaysfortaleza2023" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://www.papercall.io/devopsdayfortaleza" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2023-06-29 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 registration_date_end: 2023-08-10 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
