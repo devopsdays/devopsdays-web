@@ -149,8 +149,6 @@ sponsors:
 #  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 #   - id: arresteddevops
 #     level: community
-  - id: reversing-labs
-    level: platinum
   - id: newrelic
     level: platinum
   - id: dell-technologies
@@ -186,6 +184,8 @@ sponsors:
     level: gold
   - id: acorn
     level: gold
+  - id: harness
+    level: gold
   - id: vmware-tanzu-horiz
     level: lanyard  
   - id: tailscale-black
@@ -195,6 +195,8 @@ sponsors:
   - id: lightstep
     level: happyhour
   - id: kong
+    level: happyhour
+  - id: civo
     level: happyhour
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
