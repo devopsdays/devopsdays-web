@@ -7,5 +7,5 @@ Description = "Propose a talk for devopsdays Austin 2023"
 
 <hr>
 
-Coming soon!
+Talk submissions have closed!
 
