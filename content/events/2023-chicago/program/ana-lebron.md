@@ -1,10 +1,8 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
-Title = "Finding opportunity in the chaos: How Production Incidents can help engineers (and leaders) grow their career."
+Title = "Finding Ppportunity in the Chaos: How Production Incidents Can Help Engineers (and Leaders) Grow Their Career."
 Type = "talk"
 Speakers = ["ana-lebron"]
+sharing_image = "ana-lebron.png"
 +++
 Production Incidents are scary, stressful and extremely rewarding. If you ask engineers or leaders that have frequently been involved with Production Incidents what they are looking for the most in their day to day work, Production Incidents is probably not their answer.
 

@@ -18,7 +18,7 @@ enddate:  2023-06-16T09:00:00+00:00 # The end date of your event. Leave blank if
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  2022-11-01T09:00:00+00:00 # start accepting talk proposals.
-cfp_date_end:  2023-04-30T09:00:00+00:00 # close your call for proposals.
+cfp_date_end:  2023-03-30T09:00:00+00:00 # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
 
 cfp_link: "https://sessionize.com/devopsdays-birmingham-uk-2023/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
@@ -57,7 +57,7 @@ team_members: # Name is the only required field for team members.
     image: "tom-withers.jpg"
     twitter: "@tomtucka"
   - name: "Alistair Hey"
-    employer: "Independent Consultant"
+    employer: "The StackWizards"
     image: "alistair-hey.jpg"
     twitter: "@alistair_hey"
   - name: "Anaïs Urlichs"
@@ -68,6 +68,15 @@ team_members: # Name is the only required field for team members.
     employer: "Kasten by Veeam"
     image: "michael-cade.jpg"
     twitter: "@MichaelCade1"
+  - name: "Dan Webb"
+    twitter: "dan_webb"
+    github: "damacus"
+    employer: "Independent Consultant"  
+    image: "dan-webb.jpg"
+  - name: "Maria Aveiro"
+    employer: "ManyPets"
+    twitter: "mariamsaveiro"
+    image: "maria-aveiro.jpg"
 
 organizer_email: "birmingham-uk@devopsdays.org" # Put your organizer email address here
 
@@ -84,6 +93,8 @@ sponsors:
     level: community
   - id: fusion
     level: community
+  - id: openuk
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

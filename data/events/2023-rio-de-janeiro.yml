@@ -58,28 +58,92 @@ team_members: # Name is the only required field for team members.
     image: "bernard-alves.jpg"
   - name: "Somatório"
   - name: "Ramon Perez"
-  - name: "Lays"
+    employer: "Stone Co"
+    twitter: "twitter.com/_RamonPerez"
+    github: "github.com/ramonrrp"
+    linkedin: "linkedin.com/in/ramonrrp"
+    image: "ramon-peres.jpg"
+  - name: "Lays Rodrigues"
     image: "lays-rodrigues.jpg"
-  - name: "Eduardo Abreu"
-    employer: "M4U"
-  - name: "Willian dos Santos"
+    employer: "Stone Co"
+    twitter: "lays147"
+    github: "lays147"
+    linkedin: "laysrodrigues147"
+    website: "lays147.dev.br"
+  - name: "Willian dos Santos Oliveira "
     employer: "AmbevTech"
+    twitter: "willepronto"
+    github: "https://github.com/willlsantos"
+    linkedin: "https://br.linkedin.com/in/willian-dos-santos-oliveira"
+    website: "https://willlsantos.github.io/blog/"
+    image: "willian-oliveira.jpg"
   - name: "Marcelo Freire"
     image: "marcelo-freire.jpg"
+  - name: "Mauricio Gomes"
+    employer: "Hurb"
+    twitter: "mauriciogomesrj"
+    github: "mauriciopgomes"
+    linkedin: "https://www.linkedin.com/in/mauriciopgomes/"
+    website: "https://mauriciogomes.com.br"
+    image: "mauricio-gomes.jpg"
+  - name: "Pedro Amaral Moreira"
+    employer: "GAVB"
+    twitter: "predotaku"
+    github: "pedroamaralm"
+    linkedin: "Pedro Moreira"
+    image: "pedro-amorin.jpg"
+  - name: "Giovanni Martins"
+    employer: "Conviso Application Security"
+    twitter: "giovannistultus"
+    github: "giovannism20"
+    linkedin: "Giovanni Martins"
+    website: "https://giovannimartins.dev/"
+    image: "giovanni-martinss.jpg"
+  - name: "Carol Pinheiro"
+    employer: "Digisystem"
+    linkedin: "https://www.linkedin.com/in/caroline-pinheiro-503118197/"
+    image: "carol-pinheiro.jpg"
+  - name: "Igor Guedes Medella"
+    employer: "Departamento de Controle do Espaço Aéreo"
+    twitter: "igormedella"
+    linkedin: "LinkedIn.com/in/igorguedes"
+    image: "igormedella.jpg"
+  - name: "Eduardo Ramos"
+    employer: "Odontoprev"
+    twitter: "eduardo_ramos"
+    github: "eduardosramos"
+    linkedin: "https://www.linkedin.com/in/eduardosramos"
+    website: "https://dev.to/eduardosramos"
+    image: "eduardo-ramos.jpg"
 
 organizer_email: "devopsdaysrio@gmail.com" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
-sponsors:
-  - id: punkdodevops
-    level: community
+sponsors:  
+  #Platinum
+  - id: aws
+    level: platinum
+
+  #Gold 
   - id: harness
     level: gold
+
+  #Silver
+
+  #Bronze
+
+  #Community
+  - id: punkdodevops
+    level: community
   - id: kubeevents
     level: community
   - id: kubecareers
     level: community
+  - id: novatec
+    level: community
+
+
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 

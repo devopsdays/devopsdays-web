@@ -9,7 +9,7 @@ Description = "Welcome to DevOpsDays Medellín 2023"
     <img alt="DevOpsDays Medellin 2023" src="/events/2023-medellin/logo.png" class="img-fluid">
   </div>
   <div class="col-md-7">
-    <h2>Nuestra Conferencia DevOpsDays Medellín vuelve y tendrá lugar el 18 y 19 de mayo de 2023</h2>
+    <h2>Nuestra conferencia DevOpsDays Medellín 2023 vuelve y tendrá lugar el 18 de mayo en formato virtual. Además, el 19 y 20 de mayo de manera presencial desde el Teatro de la Universidad de Medellín</h2>
     <p>
       The DevOpsDays conference arrives to Medellín once again, Be part on May 2023!
     </p>
@@ -28,7 +28,7 @@ Description = "Welcome to DevOpsDays Medellín 2023"
     <p>
       <ul>
         <li>
-          Two days of conferences and activities.
+          Three days of conferences and activities.
         </li>
         <li>
           Starting Welcome from the organizers and day overview. 
@@ -48,20 +48,20 @@ Description = "Welcome to DevOpsDays Medellín 2023"
       </ul>
     </p>
     </br>
- <!--    <div class="d-flex flex-row">
+    <div class="d-flex flex-row">
       <div class="col-md-12">
         <div class="p-2">
           <a
             rel="noopener"
             target="_blank"
             class="btn btn-secondary btn-block"
-            href="https://checkout.wompi.co/shipping"   
+            href="https://latiquetera.com/evento/devopsdays-medellin-2023"   
             style="background-color:#329cae; border-color:#72c1cd" onMouseOver="this.style.backgroundColor='#23738e'"
             onMouseOut="this.style.backgroundColor='#329cae'"
           >
-            <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Buy your On-Site Tickets Now!
+            <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Buy your Tickets Now! - ¡Compra tu entrada ahora!
           </a>
-        </div>
+ <!--        </div>
         <div class="p-2">
           <a
             rel="noopener"
@@ -74,7 +74,7 @@ Description = "Welcome to DevOpsDays Medellín 2023"
             <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Buy your Virtual Tickets Now!
           </a>
         </div> -->
-        <div class="p-2">
+ <!--        <div class="p-2">
           <a
             target="_blank"
             class="btn btn-secondary btn-block"
@@ -84,7 +84,7 @@ Description = "Welcome to DevOpsDays Medellín 2023"
           >
             <i class="fa fa-calendar fa-lg"></i>&nbsp;&nbsp;&nbsp;Call for Papers
           </a>
-        </div> 
+        </div> -->
  <!--        <div class="p-2">
           <a
             class="btn btn-secondary btn-block"

@@ -20,10 +20,7 @@ Description = "devopsdays Copenhagen 2023"
 
   <h3>What you will learn about</h3>
   <p>The {{< event_link page="program" text="program" >}} is packed with a wide range of inspiring talks related to 
-  software development and IT Infrastructure. The speakers are not there to sell 
-  anything.</p>
-  <p>Stay tuned for the announcement of this year’s speakers and talks in 
-  Copenhagen!</p>
+  software development and IT Infrastructure. The speakers are not there to sell anything.</p>
 
   <h3>Format</h3>
   <p>You will be entertained with regular 30-min talks and the funny concept of 

@@ -1,10 +1,8 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
 Title = "Transforming Enterprise Culture – Discover’s Move to a Modern Software Platform"
 Type = "talk"
 Speakers = ["craig-katz", "dean-parke"]
+sharing_image = "craig-dean.png"
 +++
 Over the last few years, Discover Financial Services has been on a journey towards modern software delivery.  At the executive level, there was a desire to attain faster delivery, higher quality, more uptime, lower costs, and greater customer satisfaction.  As those aspirations were cascaded throughout Discover, the entire company was asked to join the journey.
 

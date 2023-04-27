@@ -37,7 +37,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #  - name: propose
   - name: location
   - name: registration
- # - name: program
+  - name: program
   - name: speakers
   - name: sponsor
   - name: contact
@@ -109,9 +109,9 @@ sponsors:
   - id: labyrinthlabs
     level: silver
     url: "https://lablabs.io"
-  - id: a1
+  - id: exoscale
     level: silver
-    url: "https://www.a1.digital/"
+    url: "https://www.exoscale.com"
   - id: devopsgroup
     level: bronze
     url: "https://www.devopsgroup.eu"
@@ -121,6 +121,9 @@ sponsors:
   - id: inuits
     level: bronze
     url: "https://inuits.eu/"
+  - id: lmc
+    level: bronze
+    url: "https://www.lmc.eu/en/"
   - id: pure-storage
     level: lanyard
     url: "https://www.purestorage.com/company/careers/opportunities.html"
@@ -135,6 +138,9 @@ sponsors:
   - id: czechitas
     level: community
     url: "https://www.czechitas.cz/en/" 
+  - id: talkweb
+    level: community
+    url: "https://talkweb.eu" 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -143,14 +149,8 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: social-event
-    label: Social Event
   - id: gold
     label: Gold
-  - id: t-shirt
-    label: T-Shirt
-  - id: lunch
-    label: Lunch
   - id: silver
     label: Silver
   - id: lanyard
@@ -159,3 +159,174 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+
+
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2023-05-22
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2023-05-22
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "jan-devries"
+    type: talk
+    date: 2023-05-22
+    start_time: "09:10"
+    end_time: "09:45"
+  - title: "kristina-kondrashevich"
+    type: talk
+    date: 2023-05-22
+    start_time: "09:45"
+    end_time: "10:20"
+  - title: "Coffee Break"
+    type: custom
+    date: 2023-05-22
+    start_time: "10:20"
+    end_time: "10:45"
+  - title: "emrah-samdan"
+    type: talk
+    date: 2023-05-22
+    start_time: "10:45"
+    end_time: "11:20"
+  - title: "jakub-sekera"
+    type: talk
+    date: 2023-05-22
+    start_time: "11:25"
+    end_time: "12:00"
+  - title: "Lunch"
+    type: custom
+    date: 2023-05-22
+    start_time: "12:00"
+    end_time: "13:15"
+  - type: ignite
+    date: 2023-05-22
+    start_time: "13:15"
+    end_time: "13:45"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2023-05-22
+    start_time: "13:45"
+    end_time: "14:30"
+  - title: "attendee-suggested breakout discussions - Open Space #1"
+    type: open-space
+    date: 2023-05-22
+    start_time: "14:30"
+    end_time: "15:15"
+  - title: "attendee-suggested breakout discussions - Open Space #2"
+    type: open-space
+    date: 2023-05-22
+    start_time: "15:25"
+    end_time: "16:10"
+  - title: "attendee-suggested breakout discussions - Open Space #3"
+    type: open-space
+    date: 2023-05-22
+    start_time: "16:20"
+    end_time: "17:05"
+  - title: "First day summary"
+    type: custom
+    date: 2023-05-22
+    start_time: "17:10"
+    end_time: "17:20"    
+  - title: "Evening event"
+    type: custom
+    date: 2023-05-22
+    start_time: "17:25"
+    end_time: "late"
+
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2023-05-23
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2023-05-23
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "rotem-refael"
+    type: talk
+    date: 2023-05-23
+    start_time: "09:10"
+    end_time: "09:45"
+  - title: "paul-bruce"
+    type: talk
+    date: 2023-05-23
+    start_time: "09:45"
+    end_time: "10:20"
+  - title: "Break"
+    type: custom
+    date: 2023-05-23
+    start_time: "10:20"
+    end_time: "10:45"
+  - title: "sowmya-sridharamurthy"
+    type: talk
+    date: 2023-05-23
+    start_time: "10:45"
+    end_time: "11:20"
+  - title: "michael-man"
+    type: talk
+    date: 2023-05-23
+    start_time: "11:25"
+    end_time: "12:00"
+  - title: "Lunch"
+    type: custom
+    date: 2023-05-23
+    start_time: "12:00"
+    end_time: "13:15"
+  - type: ignite
+    date: 2023-05-23
+    start_time: "13:15"
+    end_time: "13:45"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2023-05-23
+    start_time: "13:45"
+    end_time: "14:20"
+  - title: "attendee-suggested breakout discussions - Open Space #1"
+    type: open-space
+    date: 2023-05-23
+    start_time: "14:20"
+    end_time: "15:05"
+  - title: "attendee-suggested breakout discussions - Open Space #2"
+    type: open-space
+    date: 2023-05-23
+    start_time: "15:15"
+    end_time: "16:00"
+  - title: "attendee-suggested breakout discussions - Open Space #3"
+    type: open-space
+    date: 2023-05-23
+    start_time: "16:10"
+    end_time: "16:55"
+  - title: "Closing Ceremony"
+    type: custom
+    date: 2023-05-23
+    start_time: "17:00"
+    end_time: "17:15"
+
+ignites:
+  - title: "piet-vandongen"
+    date: 2023-05-22
+  - title: "wojciech-gawronski"
+    date: 2023-05-22
+  - title: "kris-buytaert"
+    date: 2023-05-22
+  - title: "john-hatton"
+    date: 2023-05-22
+  - title: "jan-kopriva"
+    date: 2023-05-22
+  - title: "martyn-kilbryde"
+    date: 2023-05-23
+  - title: "oleksii-kraievyi"
+    date: 2023-05-23
+  - title: "martin-hauskrecht"
+    date: 2023-05-23
+  - title: "philipp-krenn"
+    date: 2023-05-23
+  - title: "martin-odstrcilik"
+    date: 2023-05-23
+  - title: "tomas-kubica"
+    date: 2023-05-23

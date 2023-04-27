@@ -11,7 +11,7 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 # Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
 startdate: 2023-05-18T08:00:00-06:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2023-05-19T08:00:00-06:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2023-05-20T08:00:00-06:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  2023-01-23T08:00:00-06:00 # start accepting talk proposals.
@@ -157,6 +157,34 @@ sponsors:
     level: diamond
   - id: fluidattacks
     level: diamond
+  - id: sonatype
+    level: diamond
+  - id: elastic
+    level: platinum
+  - id: githublogo
+    level: platinum
+  - id: herzum
+    level: platinum
+  - id: hashicorp 
+    level: platinum
+  - id: newrelic
+    level: platinum
+  - id: pragma
+    level: platinum
+  - id: 2022-paloalto
+    level: platinum
+  - id: os_enterprise
+    level: platinum
+  - id: ceiba
+    level: gold
+  - id: javeriana
+    level: gold
+  - id: teaminternational
+    level: gold
+  - id: sqasa
+    level: gold
+  - id: payucolombia
+    level: gold
   - id: hashicorp
     level: platinum
   - id: 2022-paloalto
@@ -173,6 +201,10 @@ sponsors:
     level: socialmedia
   - id: devopsinstitute
     level: socialmedia
+  - id: rutan
+    level: socialmedia
+  - id: alcaldiamedellin
+    level: socialmedia
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -185,7 +217,7 @@ sponsor_levels:
     label: Diamond
   - id: platinum
     label: Platinum
-#  - id: gold
-#    label: Gold
+  - id: gold
+    label: Gold
   - id: socialmedia
-    label: Allied
+    label: Social Media

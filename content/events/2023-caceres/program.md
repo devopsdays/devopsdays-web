@@ -77,10 +77,6 @@ If Open Space is new to you, you may be interested in <a href="/pages/open-space
 </div>
 
 <hr />
-<div>
-  <i class="fa fa-warning fa-lg"></i><span style="margin-left: 15px;">Current agenda is provisional, talks can change their slots and times could vary.</span>
-</div>
-<hr />
 
 <div class="table-responsive program-table">
   <table class="table table-bordered table-hover table-responsive-md" style="font-size: 1.2em;">
@@ -128,8 +124,23 @@ If Open Space is new to you, you may be interested in <a href="/pages/open-space
           </div>
         </td>
         <td>
-          <div class="special-activity tbd">
-            <center>Keynote (TBD)</center>
+          <div class="special-activity keynote">
+            <a href="/events/2023-caceres/program/keynote-devops-with-memes">
+              <center>
+                <p>Keynote</p>
+                <p class="keynote-title">Cultura DevOps explicada con memes</p>
+                <p class="keynote-speakers">Sara Vidal</p>
+              </center>
+              <div class="keynote-details-hover">
+                <h5>Talk description</h5>
+                <p>¿Sientes que falta algo en la organización y comunicación de tu empresa? ¿Estás buscando formas de aproximarte a la gente? ¿ O simplemente quieres pasar un buen rato?
+Como buena millenial, traigo dos gemas a las que podemos sacar mucho jugo: los memes y la cultura DevOps.
+Venir a por mí, pero con la cara destapada. Vendo Opel Corsa.</p>
+                <hr>
+                <h5>About the speaker</h5>
+                <p>Ex-CMeO (Chief Meme Officer) en SNGULAR. Soy una desarrolladora fullstack de toda la vida pero ahora me he puesto a tontear un poquito con DevOps y nos estamos conociendo ;) Apasionada de la cultura millenial y del humor malo.</p>
+              </div>
+            </a>
           </div>
         </td>
         <td>
@@ -148,7 +159,7 @@ How could this happen? Wasn’t waterfall a thing of the past? How is this all r
 
 Using this story as a study case, we will review why the DevOps culture not only grants better delivery, but also happier teams, better grounds for diversity, and less anxious alpha males.</p>
                 <hr>
-                <h5>About the speakers</h5>
+                <h5>About the speaker</h5>
                 <p>Ente no binario que actualmente hace algo parecido a MLOps. Me encargo de recordar a mis compis que somos sentimientos y tenemos seres humanos. Funciona medio bien.</p>
               </div>
             </a>

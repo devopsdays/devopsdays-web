@@ -1,10 +1,8 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
 Title = "To the Left, to the Left: All Your Security Shifted to the Left"
 Type = "talk"
 Speakers = ["theresa-mammarella"]
+sharing_image = "theresa-mammarella.png"
 +++
 In 2023, the demand for secure software development skills is at an all-time high. As DevOps professionals, we need to focus on secure CI/CD pipelines, helping developers secure code, and securing supply chains.
 

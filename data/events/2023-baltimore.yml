@@ -47,8 +47,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: propose
   - name: location
   - name: registration
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -118,9 +118,9 @@ sponsors:
     level: gold
   - id: "newrelic"
     level: gold
-  - id: "gitlab"
-    level: platinum
   - id: "fearless"
+    level: platinum
+  - id: lightstep
     level: platinum
   # - id: appdynamics-before-20220714
   #   level: platinum
@@ -159,3 +159,185 @@ sponsor_levels:
   - id: happyhour
     label: Happy Hour
     max: 1
+
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2023-05-23
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2023-05-23
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "cesar-rodriguez"
+    type: talk
+    date: 2023-05-23
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "andrew-knight"
+    type: talk
+    date: 2023-05-23
+    start_time: "09:50"
+    end_time: "10:20"
+  - title: "Morning Break"
+    type: custom
+    date: 2023-05-23
+    start_time: "10:20"
+    end_time: "10:50"
+  - title: "dwayne-mcdaniel"
+    type: talk
+    date: 2023-05-23
+    start_time: "10:50"
+    end_time: "11:20"
+  - title: "jonathan-king"
+    type: talk
+    date: 2023-05-23
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Lunch"
+    type: custom
+    date: 2023-05-23
+    start_time: "11:50"
+    end_time: "13:25"
+  - title: "Welcome Back"
+    type: custom
+    date: 2023-05-23
+    start_time: "13:25"
+    end_time: "13:30"
+  - title: "Ignites"
+    type: ignite
+    date: 2023-05-23
+    start_time: "13:30"
+    end_time: "14:05"
+  - title: "Open Spaces Organization"
+    type: open-space
+    date: 2023-05-23
+    start_time: "14:05"
+    end_time: "14:30"
+  - title: "Open Spaces 1"
+    type: open-space
+    date: 2023-05-23
+    start_time: "14:30"
+    end_time: "15:15"
+  - title: "Open Spaces 2"
+    type: open-space
+    date: 2023-05-23
+    start_time: "15:15"
+    end_time: "16:00"
+  - title: "Open Spaces 3"
+    type: open-space
+    date: 2023-05-23
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Day 1 Close"
+    type: custom
+    date: 2023-05-23
+    start_time: "16:45"
+    end_time: "17:00"
+  - title: "Happy Hour"
+    type: custom
+    date: 2023-05-23
+    start_time: "17:00"
+    end_time: "19:00"
+
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2023-05-24
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Day 2 Welcome"
+    type: custom
+    date: 2023-05-24
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "mike-lanciano"
+    type: talk
+    date: 2023-05-24
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "gene-gotimer"
+    type: talk
+    date: 2023-05-24
+    start_time: "09:50"
+    end_time: "10:20"
+  - title: "Morning Break"
+    type: custom
+    date: 2023-05-24
+    start_time: "10:20"
+    end_time: "10:50"
+  - title: "mandi-walls"
+    type: talk
+    date: 2023-05-24
+    start_time: "10:50"
+    end_time: "11:20"
+  - title: "nathen-harvey"
+    type: talk
+    date: 2023-05-24
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Lunch"
+    type: custom
+    date: 2023-05-24
+    start_time: "11:50"
+    end_time: "13:25"
+  - title: "Welcome Back"
+    type: custom
+    date: 2023-05-24
+    start_time: "13:25"
+    end_time: "13:30"
+  - title: "Ignites"
+    type: ignite
+    date: 2023-05-24
+    start_time: "13:30"
+    end_time: "14:05"
+  - title: "Open Spaces Organization"
+    type: open-space
+    date: 2023-05-24
+    start_time: "14:05"
+    end_time: "14:30"
+  - title: "Open Spaces 1"
+    type: open-space
+    date: 2023-05-24
+    start_time: "14:30"
+    end_time: "15:15"
+  - title: "Open Spaces 2"
+    type: open-space
+    date: 2023-05-24
+    start_time: "15:15"
+    end_time: "16:00"
+  - title: "Open Spaces 3"
+    type: open-space
+    date: 2023-05-24
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Day 2 Close"
+    type: custom
+    date: 2023-05-24
+    start_time: "16:45"
+    end_time: "17:00"
+ignites:
+  - title: "anthony-dutra"
+    date: 2023-05-23
+  - title: "leon-fayer"
+    date: 2023-05-23
+  - title: "jean-remi-beaudoin"
+    date: 2023-05-23
+  - title: "mandi-walls"
+    date: 2023-05-23
+  - title: "scott-mabe"
+    date: 2023-05-23
+  - title: "christopher-pope"
+    date: 2023-05-24
+  - title: "tyler-auerbeck"
+    date: 2023-05-24
+  - title: "john-richards-ii"
+    date: 2023-05-24
+  - title: "michel-schildmeijer"
+    date: 2023-05-24
+  - title: "ignite-karaoke"
+    date: 2023-05-24
+
+
+ 

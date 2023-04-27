@@ -1,12 +1,12 @@
 +++
 Title = "Peter ONeill"
 Twitter = "peteroneilljr"
-image = "peter-oneill.jpg"
+image = "dewan-oneill.jpg"
 type = "speaker"
 linktitle = "peter-oneill"
 linkedin = "https://www.linkedin.com/in/peteroneilljr"
 github = "peteroneilljr"
-sharing_image = "peter-oneill.png"
+sharing_image = "dewan-peter.png"
 +++
 Peter ONeill is a community builder focused on Open Source and Developer Relations. He works with both large and small communities. Currently he is building the Open Policy Agent community, as a dedicated community advocate to the graduated CNCF project he helps to expand the reach and awareness of the project.
 

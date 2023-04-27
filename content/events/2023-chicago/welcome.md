@@ -80,41 +80,23 @@ We recommend moving this block and the preceding CSS link to the HEAD of your HT
             <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Contact the Organizers
           </a>
         </div>
-        <!-- <div class = "d-flex p-2">
+        <div class = "d-flex p-2">
             <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="/events/2022-chicago/program">
               <i class="fa fa-book fa-lg"></i>&nbsp;&nbsp;&nbsp;View the Program
             </a>
-          </div> -->
-       <!-- <div class = "d-flex p-2">
-            <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://chicago-proposals.devopsdays.org/devopsdays-chicago-2023/cfp">
-              <i class="fa fa-microphone fa-lg"></i>&nbsp;&nbsp;&nbsp;Propose a Talk
-            </a>
-          </div> -->
-        </div>
-      </div>
-    </div> <!-- end a content element -->
-    <!-- <div class = "row">
-      <div class = "col-md-12">
-        <div class = "row justify-content-center">
-          <div class = "d-flex p-2">
-            <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="/events/2022-chicago/covid">
-              <i class="fa fa-heartbeat fa-lg"></i>&nbsp;&nbsp;&nbsp;COVID-19 Policy
-            </a>
           </div>
         </div>
-      </div>
-    </div> -->
-    <!-- <div class = "row">
-      <div class = "col-md-12">
-        <div class = "row justify-content-center">
+          <div class = "d-flex p-2">
+            <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="/events/2023-chicago/covid">
+              <i class="fa fa-heartbeat fa-lg"></i>&nbsp;&nbsp;&nbsp;Health & Safety Policy
+            </a>
+          </div>
           <div class = "d-flex p-2">
             <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="/events/2022-chicago/register">
               <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Register for the Conference
             </a>
           </div>
-        </div>
-      </div>
-    </div> -->
+    </div>
 <h2>The DevOps Yak is Back!</h2>
 <img src = "/events/2022-chicago/yak.png" class = "img-fluid">
     <br>

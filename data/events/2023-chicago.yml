@@ -39,7 +39,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #  - name: propose
   - name: location
   - name: registration
- # - name: program
+  - name: program
   - name: speakers
   - name: sponsor
   - name: contact
@@ -175,15 +175,19 @@ sponsors:
     level: platinum
   - id: discover
     level: platinum
+  - id: acorn
+    level: gold
   - id: appdynamics
     level: gold
   - id: circleci
     level: gold
   - id: dell-technologies
     level: gold
-  - id: transition-technologies
+  - id: launch-darkly
     level: gold
   - id: kosli
+    level: gold
+  - id: nobl9
     level: gold
   - id: postman
     level: gold
@@ -193,13 +197,17 @@ sponsors:
     level: gold
   - id: temporal
     level: gold
+  - id: transition-technologies
+    level: gold
   - id: trendmicro
     level: gold
   - id: zesty
     level: gold
-  - id: launch-darkly
-    level: gold
   - id: honeycomb
+    level: bronze
+  - id: aspire-systems
+    level: bronze
+  - id: redhat
     level: bronze
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
@@ -445,8 +453,8 @@ program:
 ignites:
   - title: "hannah-foxwell"
     date: 2023-08-09
-  # - title: "katie-kodes"
-  #   date: 2023-08-09
+  - title: "jacquie-grindrod"
+    date: 2023-08-09
   - title: "tim-banks"
     date: 2023-08-09
   - title: "pooja-mistry"
