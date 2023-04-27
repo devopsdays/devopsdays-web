@@ -187,8 +187,8 @@ program:
     date: 2023-05-06T08:00:00-03:00
     start_time: "08:45"
     end_time: "09:00"
-  - title: "Keynote"
-    type: custom
+  - title: "ana-virginia"
+    type: talk
     date: 2023-05-06T08:00:00-03:00
     start_time: "09:00"
     end_time: "09:40"
