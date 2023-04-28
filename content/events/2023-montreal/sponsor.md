@@ -139,7 +139,7 @@ Our beautiful city is lucky to have an increasingly diverse tech community, and 
 </table>
 
 <div>
-<b>*</b>Shared table! up to 3 at a table. Ideally 2. MMR must be <25k/month, no VC funding except angel under 100k, AND under 10 employees
+<b>*</b>Shared table! up to 3 at a table. Ideally 2. MMR must be &lt;  25k/month, no VC funding except angel under 100k, AND under 10 employees
 </div>
 <div>
 <b>**</b>Non-profits must be registered non-profits, excluding complicated non-profits (eg, Ikea). We reserve the right to reject those types
