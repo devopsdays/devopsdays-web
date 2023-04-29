@@ -18,7 +18,7 @@ Description = "devopsdays New York City 2023"
       The Format: devopsdays NYC starts with a single track of 30 minute talks in the morning of each day, followed by Ignite talks (5 minute lightning talks). We spend the rest of the afternoon in proposed-and-bundled breakout sessions, aka Open Spaces, which are a key part of devopsdays' character.
     </p>
     <p>
-      The organizers of devopsdaysNYC believe that the community is stronger when all can participate, and we are dedicated to making the 2023 event as accessible as possible, including dietary accomodations, live professional captioning for the morning talks, and a clear, enforced Code of Conduct. [Our venue](../location) is accessible as well.  If you have any questions about any specific accommodation you may need in order to attend, please email <a href=mailto:new-york-city@devopsdays.org>new-york-city@devopsdays.org</a>.
+      The organizers of devopsdaysNYC believe that the community is stronger when all can participate, and we are dedicated to making the 2023 event as accessible as possible, including dietary accomodations, live professional captioning for the morning talks, and a clear, enforced Code of Conduct. {{< event_link page="location" text="Our venue" >}} is accessible as well.  If you have any questions about any specific accommodation you may need in order to attend, please email <a href=mailto:new-york-city@devopsdays.org>new-york-city@devopsdays.org</a>.
     </p>
   </div>
 </div>
