@@ -16,7 +16,7 @@ Description = "DevOpsDays Montréal is back for another unique conference experi
   justify-content: center;
   align-items: center;
   /* background-color: #91c0d3; */
-  background-color: #D1D3C4;
+  background-color: #CCC9E7;
   margin: 3em;
   padding: 3em;
   gap: 3em;
@@ -32,7 +32,7 @@ Description = "DevOpsDays Montréal is back for another unique conference experi
 .mtl .showcase button {
   color: #fff;
   /* background-color: #285d72; */
-  background-color: #841515;
+  background-color: #d32041;
   border: none;
   border-radius: 0.5em;
   font-weight: bold;
@@ -69,11 +69,11 @@ Description = "DevOpsDays Montréal is back for another unique conference experi
 /* Thank you New York City */
 
 a.jssocials-share-link, a.event-cta-button {
-  background-color: #841515;
+  background-color: #d32041;
 }
 
 .welcome-page-date {
-  color: #841515;
+  color: #d32041;
   font-weight: 700;
 }
 

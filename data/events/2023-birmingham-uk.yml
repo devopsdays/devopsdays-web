@@ -41,7 +41,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: location
   - name: registration
  # - name: program
- # - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -95,6 +95,10 @@ sponsors:
     level: community
   - id: openuk
     level: silver
+  - id: vonage
+    level: lanyard
+  - id: stackwizards
+    level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -105,15 +109,14 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Gold
-    max: 10
   - id: silver
     label: Silver
-    max: 10
   - id: bronze
     label: Bronze
-    max: 5
   - id: Evening
-    max: 1
     label: Evening Event
   - id: community
     label: Community
+  - id: lanyard
+    label: Lanyard
+    max: 1

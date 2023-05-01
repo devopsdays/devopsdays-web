@@ -162,5 +162,11 @@ sponsor_levels:
   - id: coffee
     label: Coffee
     max: 1
+  - id: startup
+    label: Startup
+    max: 9
+  - id: non-profit
+    label: Non-profit
+    max: 5
   - id: community
     label: Community

@@ -2,6 +2,7 @@ name: "2023-oslo" # The name of the event. Four digit year with the city name in
 year: "2023" # The year of the event. Make sure it is in quotes.
 city: "Oslo" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysoslo" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+event_logo: "logo.jpg"
 description: "Devopsdays is coming to Oslo!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
@@ -13,12 +14,10 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 startdate: 2023-10-11T00:00:00+02:00
 enddate:  2023-10-12T00:00:00+02:00
 
-# Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
-
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_date_start: 2023-04-25T00:00:00+02:00
+cfp_date_end: 2023-08-01T00:00:00+02:00
+cfp_date_announce: 2023-09-01T00:00:00+02:00
+cfp_link: "https://sessionize.com/devopsdays-oslo-2023"
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
@@ -32,8 +31,8 @@ location: "Sentralen"
 location_address: "Øvre Slottsgate 3, 0157 Oslo"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
- # - name: location
+  - name: propose
+  - name: location
  # - name: registration
  # - name: program
  # - name: speakers
@@ -55,7 +54,9 @@ team_members: # Name is the only required field for team members.
     image: "anders-bruvik.jpg"
     employer: "Safespring"
   - name: "Lana Holmen"
+    image: "lana-holmen.jpg"
   - name: "Elin Brusberg"
+    image: "elin-brusberg.jpg"
   - name: "Lars Tobias Skjong-Børsting"
     twitter: "larstobi"
     image: "lars-tobias-skjong-borsting.jpg"

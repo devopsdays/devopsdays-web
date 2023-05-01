@@ -15,7 +15,7 @@ Description = "DevOpsDays Baltimore 2023"
     <h2><p>Welcome to DevOps Days Baltimore 2023!</p></h2>
     <p>We are excited to announce DevOps Days will be coming back in-person to {{< event_location >}} on May 23rd & 24th.</p>
     <br>
-    <h3><p>{{< event_link page="registration" text="Registration is now open!" >}}</p></h3>
+    <h3><p>{{< event_link page="registration" text="Registration is still open" >}} and the {{< event_link page="program" text="Schedule is live!" >}}</p></h3>
     <br>
   </div>
 </div>
@@ -59,23 +59,23 @@ Description = "DevOpsDays Baltimore 2023"
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
     View the {{< event_link page="program" text="program." >}}
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">

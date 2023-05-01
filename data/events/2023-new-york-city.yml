@@ -109,6 +109,12 @@ organizer_email: "new-york-city@devopsdays.org" # Put your organizer email addre
 sponsors:
   - id: arresteddevops
     level: community
+  - id: observeinc
+    level: silver
+  - id: dragondropcloud
+    level: startup
+  - id: elastic
+    level: silver
 
 sponsors_accepted: "no" # Whether you want "Become a XXX Sponsor!" link
 
@@ -125,16 +131,18 @@ sponsor_levels:
     label: Silver
   - id: bronze
     label: Bronze
-  - id: video
-    label: Video
-  - id: captioning
-    label: Live Captioning
-  - id: registration
-    label: Registration
-  - id: lunch
-    label: Lunch
-  - id: breakfast
-    label: Breakfast
+  # - id: video
+  #   label: Video
+  # - id: captioning
+  #   label: Live Captioning
+  # - id: registration
+  #   label: Registration
+  # - id: lunch
+  #   label: Lunch
+  # - id: breakfast
+  #   label: Breakfast
+  - id: startup
+    label: Startup
   - id: community
     label: Community
 
