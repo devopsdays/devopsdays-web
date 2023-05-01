@@ -14,9 +14,9 @@ startdate:  2023-09-27 # The start date of your event. Leave blank if you don't 
 enddate: 2023-09-28 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end: 2019-05-31 # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2023-04-14   # start accepting talk proposals.
+cfp_date_end: 2023-05-31 # close your call for proposals.
+cfp_date_announce: 2023-06-15  # inform proposers of status
 
 cfp_link: "https://sessionize.com/devops-days-buffalo-2023/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
