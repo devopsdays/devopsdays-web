@@ -10,7 +10,7 @@ Description = "Sponsor devopsdays seattle 2023"
 The deadline for sponsorship is 07/01/2023, this will allow us able time to include sponsor logo's on signs at the venue.
 </b>
 <br>
-We greatly value sponsors for this community event. If you are interested in sponsoring, please check out our <a href="/events/2023-seattle/prospectus-2023.pdf">prospectus</a> or drop us an <a href="mailto:seattle@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Seattle%202023">email</a>.
+We greatly value sponsors for this community event. If you are interested in sponsoring, please check out our <a href="https://assets.devopsdays.org/events/2023/seattle/prospectus.pdf">prospectus</a> or drop us an <a href="mailto:seattle@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Seattle%202023">email</a>.
 </center>
 <hr>
 
@@ -54,30 +54,30 @@ The best thing to do is send engineers to interact with the experts at devopsday
       <td>How to Pay</td>
       <td>
         <!-- Gold Paypal button  -->
-        <!-- <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
           <input type="hidden" name="cmd" value="_s-xclick">
-          <input type="hidden" name="hosted_button_id" value="XXXX">
+          <input type="hidden" name="hosted_button_id" value="LDL9YT3DT62DC">
           <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
           <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-        </form> -->
+        </form>
       </td>
       <td>
         <!-- silver Paypal button  -->
-        <!-- <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
           <input type="hidden" name="cmd" value="_s-xclick">
-          <input type="hidden" name="hosted_button_id" value="XXXX">
+          <input type="hidden" name="hosted_button_id" value="XSZA34MYCG3FS">
           <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
           <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-        </form> -->
+        </form>
       </td>
       <td>
         <!-- bronze Paypal button  -->
-        <!-- <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
           <input type="hidden" name="cmd" value="_s-xclick">
-          <input type="hidden" name="hosted_button_id" value="XXXX">
+          <input type="hidden" name="hosted_button_id" value="F24MPPK5RC5Z8">
           <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
           <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-        </form> -->
+        </form>
       </td>
       <td><a href="mailto:seattle@devopsdays.org?subject=Interested%20in%20Community%20Sponsorship%20DevOpsDays%20Seattle%202023">Contact us</a>
       </td>
