@@ -1,7 +1,7 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_date = "2023-05-20"
+Talk_start_time = "11:30"
+Talk_end_time = "12:00"
 Title = "Mindfulness para Devops: Uma ferramenta para trazer-lhe ao centro em meio ao mundo frenético"
 Type = "talk"
 Speakers = ["alex-salgado"]
