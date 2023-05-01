@@ -1,7 +1,7 @@
 +++
 Title = "Jonas Rask"
 Twitter = ""
-image = ""
+image = "jonas-druedahl-rask.png"
 type = "speaker"
 linktitle = "Jonas Rask"
 
