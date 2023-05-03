@@ -173,7 +173,10 @@ sponsors:
   - id: guiafoca
     level: community
   - id: linuxtips
+    level: community
   - id: liquet
+    level: community
+  - id: jlcp
     level: community
 
 program:

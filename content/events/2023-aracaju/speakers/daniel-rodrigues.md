@@ -1,5 +1,5 @@
 +++
-Title = "Daniel Rodrigues"
+Title = "Daniel Rodrigues -"
 image = "daniel-rodrigues.png"
 type = "speaker"
 linktitle = "daniel-rodrigues"

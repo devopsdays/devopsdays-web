@@ -1,5 +1,5 @@
 +++
-Title = "Bezaleel Silva"
+Title = "Bezaleel Silva -"
 Twitter = "bezarsnba"
 image = "bezaleel-silva.png"
 type = "speaker"
