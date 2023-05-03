@@ -60,12 +60,9 @@ team_members: # Name is the only required field for team members.
 
 organizer_email: "boise@devopsdays.org"
 
-# List all of your sponsors here along with what level of sponsorship they have.
-# Check data/sponsors/ to use sponsors already added by others.
-#sponsors:
-#  - id: samplesponsorname
-#    level: gold
-# #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+sponsors:
+  - id: 2023-intimetec
+    level: platinum
 
 sponsors_accepted: "yes"
 
