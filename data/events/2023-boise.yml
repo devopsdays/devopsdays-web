@@ -26,7 +26,7 @@ location: "Boise Centre East"
 location_address: "195 South Capitol Boulevard Boise, ID 83706 United States"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
   - name: location
   - name: registration
  # - name: program
