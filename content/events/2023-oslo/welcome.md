@@ -6,7 +6,7 @@ Description = "devopsdays Oslo 2023"
 +++
 
 <!-- Looked at Austin 2023 and could maybe look at Edinburough 2019 for program and speakers-->
-<!-- <img alt="DevOpsDays Oslo 2023" src="/events/2023-oslo/location.jpg">-->
+<img width="80%" alt="DevOpsDays Oslo 2023" src="/events/2023-oslo/location.jpg">
 <div class="row">
   <div class="col-md-12">
     <div class="row">
