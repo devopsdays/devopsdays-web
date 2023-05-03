@@ -103,6 +103,11 @@ Our beautiful city is lucky to have an increasingly diverse tech community, and 
 
 <h2 class="mtl">Sponsorhip opportunities</h2>
 <div>
+  <div>Download our DevOpsDays Montreal 2023 Sponsor Flyer <a href="https://assets.devopsdays.org/events/2023/montreal/DevOpsDays_Sponsorship_Flyer.pdf">here</a></div>
+  <div>Our payment and cancelation policy can be found <a href="https://assets.devopsdays.org/events/2023/montreal/Montreal_DevOpsDays_Policies.pdf">here</a></div>
+</div>
+<div>
+<br>
 <table class="mtl-sponsor-table">
   <tr>
     <th>Sponsorship</th>
@@ -154,7 +159,6 @@ There are also opportunities for exclusive special sponsorships. We'll have spon
 
 
 <br>
-
 
 <!-- Uncomment when we know the answers -->
 <!-- <table border=1 cellspacing=1>
