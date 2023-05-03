@@ -37,7 +37,7 @@ location_address: "524 West 59th Street, New York, NY 10019" #Optional - use the
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
-  - name: propose
+  # - name: propose
   - name: registration
   # - name: program
   # - name: speakers
