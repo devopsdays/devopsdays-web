@@ -31,7 +31,6 @@ Description = "devopsdays Copenhagen 2023"
   <br />
   The ticket price is 2,199 DKK (excl. tax). <a href="https://www.eventbrite.dk/e/devopsdays-copenhagen-2023-tickets-516510726487" target="_blank">Click here</a> to buy your ticket.</p>
 
-
   <div class = "row">
     <div class = "col-md-2">
       <strong>Dates</strong>
@@ -87,6 +86,16 @@ Description = "devopsdays Copenhagen 2023"
     {{< event_link page="location" text="Docken - Færgehavnsvej 35, 2100 København" >}}
     </div>
   </div>
+
+  <div class="row">
+  <div class="col-md-8">
+    <br />
+    <h3>It's a wrap</h3>
+    <p>Thank you to everyone who’s been a part of making DevOpsDays Copenhagen 2023 so great!
+    <p>It’s been two days filled with exciting talks and lots of networking with like-minded devops enthusiasts, speakers, and of course our sponsors!</p>
+    <p><a href="https://nguyenstudio.pic-time.com/-devopsdayscph2023/login?&redirect_back=%2f-devopsdayscph2023%2fgallery">Click here</a> to access all the photos from the conference days.</p>
+  </div>
+</div>
 
   </div>
   <div class="col-md-6">
