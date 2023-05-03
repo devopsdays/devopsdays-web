@@ -86,6 +86,12 @@ organizer_email: "vilnius@devopsdays.org" # Put your organizer email address her
 sponsors:
   - id: techzity
     level: community
+  - id: kubeevents
+    level: community
+  - id: kubecareers
+    level: community
+  - id: devopsinshorts
+    level: community
 #   - id: samplesponsorname
 #     level: gold
 #  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
