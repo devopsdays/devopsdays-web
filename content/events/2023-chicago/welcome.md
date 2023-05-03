@@ -81,7 +81,7 @@ We recommend moving this block and the preceding CSS link to the HEAD of your HT
           </a>
         </div>
         <div class = "d-flex p-2">
-            <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="/events/2022-chicago/program">
+            <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="/events/2023-chicago/program">
               <i class="fa fa-book fa-lg"></i>&nbsp;&nbsp;&nbsp;View the Program
             </a>
           </div>
@@ -92,7 +92,7 @@ We recommend moving this block and the preceding CSS link to the HEAD of your HT
             </a>
           </div>
           <div class = "d-flex p-2">
-            <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="/events/2022-chicago/register">
+            <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="/events/2023-chicago/register">
               <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Register for the Conference
             </a>
           </div>

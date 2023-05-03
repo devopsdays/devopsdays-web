@@ -35,7 +35,7 @@ location: "Phoenix" # Defaults to city, but you can make it the venue name.
 location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+  # - name: propose
  # - name: location
   - name: registration
  # - name: program
@@ -75,6 +75,10 @@ sponsors:
     level: gold
   - id: fastly
     level: bronze
+  - id: phoenixnap_intel
+    level: gold
+  - id: americanairlines
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

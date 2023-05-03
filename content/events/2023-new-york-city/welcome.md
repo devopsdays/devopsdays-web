@@ -60,22 +60,22 @@ Description = "devopsdays New York City 2023"
         <h4 class="my-3"><small>{{< event_location >}}
       </div>
     </div>
-    <!-- <div class = "row">
+    <div class = "row">
       <div class = "col-md-1 mx-5 px-0">
         <h4 class="my-3"><strong>Register</strong></h4>
       </div>
       <div class = "col-md-9">
         <h4 class="my-3"><small>{{< event_link page="registration" text="Tickets are on sale now!" >}}</small></h4>
       </div>
-    </div> -->
-    <div class = "row">
+    </div>
+    <!-- <div class = "row">
       <div class = "col-md-1 mx-5 px-0">
         <h4 class="my-3"><strong>Propose</strong></h4>
       </div>
       <div class = "col-md-9">
         <h4 class="my-3"><small><a href="https://sessionize.com/devopsdays-new-york-city-2023" target="_blank">Submit a talk proposal</a></small></h4>
       </div>
-    </div>
+    </div> -->
     <div class = "row">
       <div class = "col-md-1 mx-5 px-0">
         <h4 class="my-3"><strong>Sponsors</strong></h4>
