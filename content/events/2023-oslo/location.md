@@ -4,10 +4,11 @@ Type = "event"
 Description = "Location for devopsdays Oslo 2023"
 +++
 
-Watch this space for information about the venue including address, map/direction, parking/transit, and any hotel details.
+We are happy to announce that our venue this year will be Sentralen.
+Being back at Sentralen is a bit like coming home for us, and we are excited to share Marmorsalen and its special ambience with you.
 
 <!-- Uncomment this only if you have set the coordinates for your location in the config yaml. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html -->
-<!-- {{< event_map >}} -->
+{{< event_map >}}
 
 <!-- Edit and uncomment to let people know what accessibility features you have available -->
 <!-- 
