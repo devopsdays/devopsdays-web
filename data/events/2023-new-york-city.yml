@@ -37,8 +37,8 @@ location_address: "524 West 59th Street, New York, NY 10019" #Optional - use the
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
-  - name: propose
-  # - name: registration
+  # - name: propose
+  - name: registration
   # - name: program
   # - name: speakers
   - name: sponsor
@@ -113,6 +113,8 @@ sponsors:
     level: silver
   - id: dragondropcloud
     level: startup
+  - id: elastic
+    level: silver
 
 sponsors_accepted: "no" # Whether you want "Become a XXX Sponsor!" link
 

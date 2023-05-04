@@ -1,5 +1,5 @@
 +++
-Title = "Finding Ppportunity in the Chaos: How Production Incidents Can Help Engineers (and Leaders) Grow Their Career."
+Title = "Finding Opportunity in the Chaos: How Production Incidents Can Help Engineers (and Leaders) Grow Their Career."
 Type = "talk"
 Speakers = ["ana-lebron"]
 sharing_image = "ana-lebron.png"

@@ -1,7 +1,7 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_date = "2023-05-19"
+Talk_start_time = "14:45"
+Talk_end_time = "15:15"
 Title = "Escalabilidade de uma aplicação: Principais desafios, como escalar e importância"
 Type = "talk"
 Speakers = ["daniel-rodrigues-da-silva"]

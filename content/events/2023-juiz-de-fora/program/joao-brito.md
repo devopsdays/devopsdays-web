@@ -1,7 +1,7 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_date = "2023-05-20"
+Talk_start_time = "09:30"
+Talk_end_time = "10:00"
 Title = "Conheça seus clusters Kubernetes como a palma de sua mão"
 Type = "talk"
 Speakers = ["joao-brito"]
