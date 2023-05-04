@@ -124,6 +124,8 @@ sponsors:
   #Platinum
   - id: aws
     level: platinum
+  - id: vmware
+    level: platinum
 
   #Gold 
   - id: harness
@@ -141,6 +143,8 @@ sponsors:
   - id: kubecareers
     level: community
   - id: novatec
+    level: community
+  - id: docker-rio
     level: community
 
 
