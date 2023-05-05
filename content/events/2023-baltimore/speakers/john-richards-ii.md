@@ -1,7 +1,7 @@
 +++
 Title = "John Richards II"
 Twitter = "JRastaban"
-#image = "john-richards-ii.png"
+image = "john-richards-ii.jpg"
 type = "speaker"
 linktitle = "john-richards-ii"
 +++
