@@ -1,5 +1,5 @@
 +++
-Title = "Ana Virgínia"
+Title = "Ana Virgínia -"
 image = "ana-virginia.png"
 type = "speaker"
 linktitle = "ana-virginia"

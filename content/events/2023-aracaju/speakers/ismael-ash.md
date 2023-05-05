@@ -1,5 +1,5 @@
 +++
-Title = "Ismael Ash"
+Title = "Ismael Ash -"
 image = "ismael-ash.png"
 type = "speaker"
 linktitle = "ismael-ash"

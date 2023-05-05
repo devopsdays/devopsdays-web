@@ -1,5 +1,5 @@
 +++
-Title = "Juraci Paixão Kröhling"
+Title = "Juraci Paixão Kröhling -"
 Twitter = "dosetelemetria"
 image = "juraci-paixao.png"
 type = "speaker"
