@@ -15,8 +15,8 @@ We expect over 270 attendees based on venue capacity and past participation, and
 
 DevOpsDays DC does not share registration information directly with sponsors, but feel free to ask attendees for their contact details. 
 
-<!-- **Reserving and paying for your sponsorship**: Please use the PayPal links below, or email the organizers at {{< email_organizers >}} for alternate payment forms, or with any questions. -->
-**Reserving and paying for your sponsorship**: Email the organizers at {{< email_organizers >}} for payment processing, or with any questions.
+<!-- **Reserving and paying for your sponsorship**: Please use the PayPal links below, or email the organizers at sponsors@devopsdaysdc.org for alternate payment forms, or with any questions. -->
+**Reserving and paying for your sponsorship**: Email the organizers at sponsors@devopsdaysdc.org for payment processing, or with any questions.
 
 The following chart outlines our standard sponsorship packages.
 
@@ -223,6 +223,6 @@ We also offer community sponsorships. This is not a paid sponsorship. Instead, t
 
 Sponsors are granted one comp ticket, a discount code to promote within their community, Twitter/Fediverse and LinkedIn mentions, and your icon on our website and slides.
 
-Please reach out to {{< email_organizers >}} to set up this relationship. 
+Please reach out to sponsors@devopsdaysdc.org to set up this relationship. 
 
 <hr/>
