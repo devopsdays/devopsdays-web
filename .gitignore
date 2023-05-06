@@ -73,6 +73,7 @@ increase_ulimit.sh
 # Visual Studio Code
 .vscode/
 .Ulysses-Group.plist
+.vs/*
 
 # test files
 2017-canterlot/

@@ -1,5 +1,5 @@
 +++
-Title = "Edson Ferreira"
+Title = "Edson Ferreira -"
 image = "edson-ferreira.png"
 type = "speaker"
 linktitle = "edson-ferreira"

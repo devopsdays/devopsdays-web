@@ -103,6 +103,11 @@ Our beautiful city is lucky to have an increasingly diverse tech community, and 
 
 <h2 class="mtl">Sponsorhip opportunities</h2>
 <div>
+  <div>Download our DevOpsDays Montreal 2023 Sponsor Flyer <a href="https://assets.devopsdays.org/events/2023/montreal/DevOpsDays_Sponsorship_Flyer.pdf">here</a></div>
+  <div>Our payment and cancellation policy can be found <a href="https://assets.devopsdays.org/events/2023/montreal/Montreal_DevOpsDays_Policies.pdf">here</a></div>
+</div>
+<div>
+<br>
 <table class="mtl-sponsor-table">
   <tr>
     <th>Sponsorship</th>
@@ -119,14 +124,16 @@ Our beautiful city is lucky to have an increasingly diverse tech community, and 
   </tr>
   <tr><td class="regular">Price (USD)</td><td>$5,000</td><td>$5,000</td><td>$4,000</td><td>$2,500</td><td>$4,000</td><td>$6,500</td><td>$9,000</td><td>$12,000</td><td>$2,000</td><td>$2,000</td></tr>
   <tr><td class="regular">Available</td><td>2</td><td>1</td><td>1</td><td>2</td><td>9</td><td>11</td><td>7</td><td>2</td><td>9</td><td>5</td></tr>
-  <tr><td class="regular">Tickets</td><td>3</td><td>3</td><td>1</td><td>1</td><td>2</td><td>3</td><td>5</td><td>8</td><td>2</td><td>2</td></tr>
+  <tr><td class="regular">Tickets</td><td>3</td><td>3</td><td>1</td><td>1</td><td>2</td><td>3</td><td>5</td><td>8</td><td>1</td><td>2</td></tr>
   <tr><td class="regular">Logo on slides</td><td></td><td></td><td></td><td></td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
   <tr><td class="regular">Logo on banner</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
   <tr><td class="regular">Provide item for official "giveaway"</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
   <tr><td class="regular">Mention by MC (Day 1)</td><td></td><td></td><td></td><td></td><td></td><td>X</td><td>X</td><td>X</td><td></td><td></td></tr>
   <tr><td class="regular">Mention by MC (Day 2)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>X</td><td></td><td></td></tr>
   <tr><td class="regular">Pitch</td><td></td><td></td><td></td><td></td><td></td><td>30 sec.</td><td>2 min.</td><td>5 min.</td><td></td><td></td></tr>
-  <!-- <tr><td class="regular">Speaker/sponsor/organizer dinner</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>2</td><td>2</td><td>3</td><td>1</td><td>1</td></tr> -->
+  <!-- 
+  <tr><td class="regular">Speaker/sponsor/organizer dinner</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>2</td><td>2</td><td>3</td><td>1</td><td>1</td></tr> 
+  -->
   <tr><td class="regular">Job board access</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
   <tr><td class="regular">Logo on podium</td><td></td><td></td><td></td><td></td><td></td><td></td><td>X</td><td>X</td><td></td><td></td></tr>
   <tr><td class="regular">Logo on website</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
@@ -152,7 +159,6 @@ There are also opportunities for exclusive special sponsorships. We'll have spon
 
 
 <br>
-
 
 <!-- Uncomment when we know the answers -->
 <!-- <table border=1 cellspacing=1>

@@ -1,5 +1,5 @@
 +++
-Title = "Lanay Marques"
+Title = "Lanay Marques -"
 image = "lanay-marques.png"
 type = "speaker"
 linktitle = "lanay-marques"

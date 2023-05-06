@@ -1,5 +1,5 @@
 +++
-Title = "João Brito"
+Title = "João Brito -"
 Twitter = "juniorjbn"
 image = "joao-brito.png"
 type = "speaker"

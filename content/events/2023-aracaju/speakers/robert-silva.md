@@ -1,5 +1,5 @@
 +++
-Title = "Robert Silva e Bernardo Lankheet"
+Title = "Robert Silva e Bernardo Lankheet -"
 image = "robert-silva.png"
 type = "speaker"
 linktitle = "robert-silva"

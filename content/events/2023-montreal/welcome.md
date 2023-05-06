@@ -73,7 +73,7 @@ a.jssocials-share-link, a.event-cta-button {
 }
 
 .welcome-page-date {
-  color: #d32041;
+  color: #FFFFFF;
   font-weight: 700;
 }
 
