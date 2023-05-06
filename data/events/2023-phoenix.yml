@@ -38,7 +38,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   # - name: propose
  # - name: location
   - name: registration
- # - name: program
+  - name: program
   # - name: speakers
   - name: sponsor
   - name: contact
@@ -46,7 +46,6 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
-
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
@@ -99,3 +98,117 @@ sponsor_levels:
     label: Community
   - id: media
     label: Media
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2023-05-25
+    start_time: "08:00"
+    end_time: "09:00"
+
+  - title: "Opening Welcome"
+    type: custom
+    date: 2023-05-25
+    start_time: "09:00"
+    end_time: "09:15"
+
+  - title: "andrew-shafer"
+    type: talk
+    date: 2023-05-25
+    start_time: "09:15"
+    end_time: "10:00"
+
+  - title: "ginger-grant"
+    type: talk
+    date: 2023-05-25
+    start_time: "10:00"
+    end_time: "10:45"
+
+  - title: "Sponsors"
+    type: custom
+    date: 2023-05-25
+    start_time: "10:45"
+    end_time: "10:50"
+
+  - title: "Break & Sponsor Hall"
+    type: custom
+    date: 2023-05-25
+    start_time: "10:50"
+    end_time: "11:10"
+
+  - title: "karl-haworth"
+    type: talk
+    date: 2023-05-25
+    start_time: "11:10"
+    end_time: "11:25"
+
+  - title: "victor-hernandez"
+    type: talk
+    date: 2023-05-25
+    start_time: "11:25"
+    end_time: "11:40"
+
+  - title: "Sponsors"
+    type: custom
+    date: 2023-05-25
+    start_time: "11:40"
+    end_time: "11:45"
+
+  - title: "Recap/Afternoon plan"
+    type: custom
+    date: 2023-05-25
+    start_time: "11:45"
+    end_time: "12:00"
+
+  - title: "Lunch & Sponsor Hall"
+    type: custom
+    date: 2023-05-25
+    start_time: "12:00"
+    end_time: "13:00"
+
+  - title: "kishore-jalleda"
+    type: talk
+    date: 2023-05-25
+    start_time: "13:00"
+    end_time: "13:45"
+
+  - title: "barush-sadogursky"
+    type: talk
+    date: 2023-05-25
+    start_time: "13:45"
+    end_time: "14:00"
+
+  - title: "anthony-baer"
+    type: talk
+    date: 2023-05-25
+    start_time: "14:00"
+    end_time: "14:15"
+
+  - title: "Break & Sponsor Hall"
+    type: custom
+    date: 2023-05-25
+    start_time: "14:15"
+    end_time: "14:35"
+
+  - title: "Open Space Opening"
+    type: custom
+    date: 2023-05-25
+    start_time: "14:35"
+    end_time: "15:00"
+
+  - title: "Open Space #1"
+    type: open-space
+    date: 2023-05-25
+    start_time: "15:00"
+    end_time: "15:30"
+
+  - title: "Open Space #2"
+    type: open-space
+    date: 2023-05-25
+    start_time: "15:30"
+    end_time: "16:00"
+  
+  - title: "Open Space #3"
+    type: open-space
+    date: 2023-05-25
+    start_time: "16:00"
+    end_time: "16:30"
