@@ -18,15 +18,15 @@ The best thing to do is send engineers to interact with the experts at devopsday
 <p>
     <h2>Sponsor the Event - View the <a href="https://drive.google.com/file/d/10Yglr9iSCQIC1XmaB4nT8sQCU3Dh0k47/view?usp=share_link" target="_blank">Prospectus</a></h2>
        <br/>
-        <h3 style="text-transform: uppercase; color: turquoise;">Diamond Sponsor $30,000 (USD)<!-- <span style="text-transform: uppercase; font-weight: 800; color: red; background-color: yellow;">SOLD OUT</span> -->
-    <br/> 1 Available<!-- - <span style="text-transform: uppercase; color: red; background-color: yellow;">SOLD OUT</span> --></h3>      
+        <h3 style="text-transform: uppercase; color: turquoise;"><strike>Diamond Sponsor $30,000 (USD)<!-- <span style="text-transform: uppercase; font-weight: 800; color: red; background-color: yellow;">SOLD OUT</span> -->
+    <br/> 1 Available</h3></strike> &nbsp;<span style="text-transform: uppercase; color: red; background-color: yellow; font-size: 22px; font-weight: 800px;">SOLD OUT</span>     
       <hr />
        <br/>
      <h3 style="text-transform: uppercase; color: #c0d44f;">Platinum Sponsor $15,000 (USD)<!-- <span style="text-transform: uppercase; font-weight: 800; color: red; background-color: yellow;">SOLD OUT</span> -->
-    <br/> Up to 6 Available<!-- - <span style="text-transform: uppercase; color: red; background-color: yellow;">SOLD OUT</span> --></h3>      
+    <br/> <strike>Up to 6</strike>   4 Available<!-- - <span style="text-transform: uppercase; color: red; background-color: yellow;">SOLD OUT</span> --></h3>      
       <hr />
     <h3 style="text-transform: uppercase; color: orange;">Gold Sponsor $9,000 (USD) 
-    <br/>~ 32 Available <!-- <span style="font-weight: 800; text-transform: uppercase; color: red; background-color: yellow;">SOLD OUT</span> --></h3>
+    <br/><strike> ~32 </strike> 16 Available <!-- <span style="font-weight: 800; text-transform: uppercase; color: red; background-color: yellow;">SOLD OUT</span> --></h3>
     <hr />
     <h3 style="text-transform: uppercase; color: #d95374;">Community Sponsor - By Application Only (Please make a note in the form - and someone from the team will get in touch with you to review your application)
     <br/> 4 Available <!-- <span style="font-weight: 800; text-transform: uppercase; color: red; background-color: yellow;">SOLD OUT</span> --></h3>
@@ -42,8 +42,8 @@ The best thing to do is send engineers to interact with the experts at devopsday
      <ul>
      <li> <span style="text-transform: uppercase; color: #c0d44f; font-weight: 700;">Demo Theater</span> - 10-minute demo in the dedicated demo theater - $2500 USD (Limited Availability - Based on Agenda)</li>
      <li><span style="text-transform: uppercase; color: orange; font-weight: 700;">T-Shirt Sponsor</span> - ~1200 TShirts - In Kind (Cost of t-shirts / ~35-40ILS/Each) - 1 Available &nbsp; <!-- <strong style="text-transform: uppercase; color: red;">SOLD OUT</strong> --></li>
-     <li><span style="text-transform: uppercase; color: #a472d4; font-weight: 700;">Swag Bag Sponsor</span> - ~1200 Bags - In Kind (Cost of swag bag / ~10ILS Bag) - 1 Available&nbsp; <!-- <strong style="text-transform: uppercase; color: red;">SOLD OUT</strong> --></li>
-     <li><span style="text-transform: uppercase; color: #d95374; font-weight: 700;">Lanyard Sponsor</span> - In Kind (Cost of lanyard branding) - 1 Available&nbsp; <!--<strong style="text-transform: uppercase; color: red;">SOLD OUT</strong>--></li>
+     <li><span style="text-transform: uppercase; color: #a472d4; font-weight: 700;"><strike>Swag Bag Sponsor</span> - ~1200 Bags - In Kind (Cost of swag bag / ~10ILS Bag) - 1 Available</strike>&nbsp; <strong style="text-transform: uppercase; color: red;">SOLD OUT</strong></li>
+     <li><span style="text-transform: uppercase; color: #d95374; font-weight: 700;"><strike>Lanyard Sponsor</span> - In Kind (Cost of lanyard branding) - 1 Available</strike>&nbsp; <strong style="text-transform: uppercase; color: red;">SOLD OUT</strong></li>
      <li><span style="text-transform: uppercase; color: turquoise; font-weight: 700;">Other Swag Sponsor (E.g. Hoodies / Water Bottles)</span> - In Kind (Cost of swag)</li>
      <li><span style="text-transform: uppercase; color: #c0d44f; font-weight: 700;">Food Sponsorship (Breakfast / Lunch)</span> Includes branding of food stations - $2000USD - 1 Day / $3000USD - 2 Days</li>
      <li><span style="text-transform: uppercase; color: #a472d4; font-weight: 700;">Cloud Native & OSS T-Shirt Sponsor</span> ~200 TShirts - In Kind (Cost of t-shirts / ~35-40ILS/Each)</li>
