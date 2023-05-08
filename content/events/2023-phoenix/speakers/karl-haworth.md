@@ -1,7 +1,7 @@
 +++
 Title = "Karl Haworth"
 Twitter = ""
-image = ""
+image = "karl-haworth.jpeg"
 type = "speaker"
 linktitle = "karl-haworth"
 website = "https://karlhaworth.com"

@@ -1,7 +1,7 @@
 +++
 Title = "Baruch Sadogursky"
 Twitter = "jbaruch"
-image = ""
+image = "baruch.jpeg"
 type = "speaker"
 linktitle = "baruch-sadogursky"
 

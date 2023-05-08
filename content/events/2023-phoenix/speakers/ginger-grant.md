@@ -1,7 +1,7 @@
 +++
 Title = "Ginger Grant"
 Twitter = "desertislesql"
-image = ""
+image = "ginger.jpeg"
 type = "speaker"
 linktitle = "ginger-grant"
 website = "https://www.desertislesql.com/"

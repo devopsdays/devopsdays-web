@@ -1,7 +1,7 @@
 +++
 Title = "Victor Hernandez"
 Twitter = "vhernandez"
-image = ""
+image = "victor-hernandez.jpeg"
 type = "speaker"
 linktitle = "victor-hernandez"
 linkedin = "https://www.linkedin.com/in/victorehernandez/"

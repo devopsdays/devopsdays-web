@@ -1,7 +1,7 @@
 +++
 Title = "Anthony Baer"
 Twitter = "abaer1234"
-image = ""
+image = "anthony-baer.jpeg"
 type = "speaker"
 linktitle = "anthony-baer"
 linkedin = "https://www.linkedin.com/in/anthony-baer-022b76"

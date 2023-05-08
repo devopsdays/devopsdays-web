@@ -1,7 +1,7 @@
 +++
 Title = "Kishore Jalleda"
 Twitter = "KishoreJalleda"
-image = ""
+image = "kishore.jpeg"
 type = "speaker"
 linktitle = "kishore-jalleda"
 website = "https://www.unstructai.com/"
