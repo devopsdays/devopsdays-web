@@ -32,7 +32,7 @@ nav_elements:
 #  - name: propose
 #  - name: registration
 #  - name: speakers
-#  - name: sponsor
+  - name: sponsor
 
 team_members:
   - name: "Michael Thomas Clark"
@@ -70,17 +70,13 @@ sponsors:
 #  - id: foo
 #    level: bar
 
-sponsors_accepted : "no"
+sponsors_accepted : "yes"
 
 sponsor_levels:
   - id: platinum
     label: Platinum
-  - id: lanyard
-    label: Lanyard
-    max: 1
-  - id: coffee
-    label: Coffee
-    max: 1
+  - id: alacarte
+    label: A la Carte
   - id: startupalley
     label: Startup Alley
 
