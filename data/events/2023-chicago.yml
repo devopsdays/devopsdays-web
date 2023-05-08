@@ -169,7 +169,7 @@ organizer_email: "chicago@devopsdays.org" # Put your organizer email address her
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: zoho
+  - id: site24x7
     level: platinum
   - id: newrelic
     level: platinum
