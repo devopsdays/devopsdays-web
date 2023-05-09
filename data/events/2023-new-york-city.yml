@@ -23,10 +23,10 @@ cfp_date_announce: 2023-05-1T00:00:00-05:00 # inform proposers of status
 cfp_link: "https://sessionize.com/devopsdays-new-york-city-2023"
 
 registration_date_start: 2023-04-01T00:00:00-05:00
-registration_date_end: 2023-06-04T00:00:00-05:00
+registration_date_end: 2023-06-05T00:00:00-05:00
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.eventbrite.com/e/devopsdays-nyc-2023-tickets-622123206257" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -115,8 +115,10 @@ sponsors:
     level: startup
   - id: elastic
     level: silver
+  - id: meshiq
+    level: silver
 
-sponsors_accepted: "no" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
