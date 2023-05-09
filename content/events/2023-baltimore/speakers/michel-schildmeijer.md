@@ -1,7 +1,7 @@
 +++
 Title = "Michel Schildmeijer"
 Twitter = "MNEMONIC01"
-#image = "michel-schildmeijer.png"
+image = "michel-schildmeijer.jpg"
 type = "speaker"
 linktitle = "michel-schildmeijer"
 +++
