@@ -98,6 +98,8 @@ sponsors:
     level: community
   - id: newrelic
     level: platinum
+  - id: smallstep
+    level: alacarte
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
