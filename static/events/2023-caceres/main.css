@@ -1,0 +1,117 @@
+h1, h2 {
+  font-family: futura-bold;
+  font-size: 2rem;
+}
+h3 {
+  font-family: futura-bold;
+  font-size: 1.5rem;
+}
+.info {
+  font-size: 1.4rem;
+}
+.welcome-page-date {
+  font-size: 1.8rem;
+  font-weight: bold;
+  color: #FF965B;
+}
+.welcome-page-masthead-venue, .e-summary {
+  color: white;
+}
+.welcome-page-masthead-venue {
+  font-size: 1.5rem;
+}
+.welcome-page-masthead-link.p-location, .e-summary {
+  font-size: 1.2rem;
+}
+.e-summary {
+  line-height: 100px;
+}
+.logo {
+  margin-bottom: 5%;
+}
+.button-primary {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: #FF965B;
+  border-color: #FF965B;
+}
+.button-primary:hover {
+  background-color: #904300;
+  border-color: #904300;
+}
+.button-secondary {
+  background-color: #904300;
+  border-color: #904300;
+}
+.button-secondary:hover {
+  background-color: #000428;
+  border-color: #000428;
+}
+.welcome-page-masthead:before {
+  opacity: 0.6;
+  background-image: url(/events/2023-caceres/welcome-banner.jpg);
+  background-repeat: no-repeat;
+  background-position: 0 42.5%;
+  -ms-background-size: cover;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+.location.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+.location.row.two {
+  margin: 5% 0;
+}
+.location.column {
+  flex: 25%;
+  padding: 0 4px;
+}
+.location.column.four:not(.map) {
+  max-width: 20%;
+}
+.location.column.four.map {
+  max-width: 530px;
+}
+.location.column.two {
+  text-align: center;
+}
+.location.column.two > i {
+  padding: 5%
+}
+.location.column > img {
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 100%;
+}
+.train-discount {
+  margin: 2% auto;
+  width: 400px;
+}
+.logo-wrapper, .discount-content {
+  text-align: center;
+}
+.logo-wrapper > img {
+  width: 200px;
+}
+.map-wrapper {
+  margin: 1.5% auto 0;
+  width: 500px;
+}
+.sponsor-row > div {
+  margin: 1%;
+}
+.card-header > h3 {
+  line-height: 2rem;
+  min-height: 55px;
+}
+.card-block {
+  padding: 0 4%;
+  padding-bottom: 4%;
+}
+.card-block > a {
+  padding: 2%;
+}

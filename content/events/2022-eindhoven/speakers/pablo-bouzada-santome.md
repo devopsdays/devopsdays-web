@@ -4,7 +4,7 @@ Twitter = "pbousan"
 image = "pablo-bouzada-santome.png"
 type = "speaker"
 linktitle = "pablo-bouzada-santome"
-
+slides = "https://assets.devopsdays.org/events/2022/eindhoven/slides/pablo-bouzada.pdf"
 +++
 
 Engineering Manager at Viaplay. 

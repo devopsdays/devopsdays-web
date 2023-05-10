@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Transitioning Ops to the Cloud, adding Dev skills to the mix"
 Type = "talk"
 Speakers = ["esther-barthel"]
+Youtube = "g4oSDr9k9C4"
 +++
 
 This session offers tips and tricks to add core Developer skills to your skillset, so you can transition from (on-premises) Operations to a Cloud DevOps role. This session will zoom in on some basic knowledge and terminology that will make it easier to understand the shift in work and competences for DevOps engineers.

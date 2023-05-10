@@ -100,7 +100,7 @@ organizer_email: "eindhoven@devopsdays.org" # Put your organizer email address h
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
   # socialevent
-  - id: paloaltonetworks
+  - id: paloaltonetworks-before-20230321
     level: social
   # beer
   - id: contrast_security
@@ -108,13 +108,15 @@ sponsors:
   # gold
   - id: kabisa
     level: gold
-  - id: cert2connect
+  - id: cert2connect-checkmarx
     level: gold
   - id: sysdig
     level: gold
   - id: ministerievandefensie
     level: gold
   - id: cegeka
+    level: gold
+  - id: stormforge
     level: gold
   # lunch
   - id: wemanity
@@ -129,6 +131,10 @@ sponsors:
     level: silver
   - id: cloudshapers
     level: silver
+  - id: cyso
+    level: silver
+  - id: microsoft
+    level: silver
   # bronze
   - id: o11y
     level: bronze
@@ -138,8 +144,12 @@ sponsors:
     level: bronze
   - id: stream
     level: bronze
+  - id: itility
+    level: bronze
+  - id: software-improvement-group
+    level: bronze
 
-sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted: "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -220,11 +230,15 @@ program:
     date: 2022-10-20T00:00:00+02:00
     start_time: "12:30"
     end_time: "13:30"
+
+  # Ignites day one
   - title: "Ignites"
-    type: custom
+    type: ignite
     date: 2022-10-20T00:00:00+02:00
     start_time: "13:30"
     end_time: "14:00"
+    block: ignite-1
+
   - title: "Open Space Opening"
     type: custom
     date: 2022-10-20T00:00:00+02:00
@@ -240,7 +254,7 @@ program:
     date: 2022-10-20T00:00:00+02:00
     start_time: "14:45"
     end_time: "15:10"
-  - title: "rachid-kherrazi"
+  - title: "federico-fregosi"
     type: talk
     date: 2022-10-20T00:00:00+02:00
     start_time: "14:45"
@@ -265,12 +279,7 @@ program:
     date: 2022-10-20T00:00:00+02:00
     start_time: "16:00"
     end_time: "16:25"
-  - title: "anne-jan-brouwer"
-    type: talk
-    date: 2022-10-20T00:00:00+02:00
-    start_time: "16:00"
-    end_time: "16:25"
-  - title: "federico-fregosi"
+  - title: "anneke-keller"
     type: talk
     date: 2022-10-20T00:00:00+02:00
     start_time: "16:30"
@@ -302,7 +311,7 @@ program:
     date: 2022-10-21T00:00:00+02:00
     start_time: "09:15"
     end_time: "09:45"
-  - title: "brian-finster"
+  - title: "anne-jan-brouwer"
     type: talk
     date: 2022-10-21T00:00:00+02:00
     start_time: "09:45"
@@ -317,7 +326,7 @@ program:
     date: 2022-10-21T00:00:00+02:00
     start_time: "10:45"
     end_time: "11:00"
-  - title: "radu-vunvulea"
+  - title: "esther-barthel"
     type: talk
     date: 2022-10-21T00:00:00+02:00
     start_time: "11:00"
@@ -327,7 +336,7 @@ program:
     date: 2022-10-21T00:00:00+02:00
     start_time: "11:30"
     end_time: "12:00"
-  - title: "mirza-dautbegovic"
+  - title: "ivan-milchev"
     type: talk
     date: 2022-10-21T00:00:00+02:00
     start_time: "12:00"
@@ -357,18 +366,13 @@ program:
     date: 2022-10-21T00:00:00+02:00
     start_time: "14:45"
     end_time: "15:10"
-  - title: "esther-barthel"
+  - title: "ida-furjesova"
     type: talk
     date: 2022-10-21T00:00:00+02:00
     start_time: "14:45"
     end_time: "15:10"
   - title: "Open Space #2"
     type: custom
-    date: 2022-10-21T00:00:00+02:00
-    start_time: "15:10"
-    end_time: "15:45"
-  - title: "ida-furjesova"
-    type: talk
     date: 2022-10-21T00:00:00+02:00
     start_time: "15:10"
     end_time: "15:45"
@@ -382,12 +386,7 @@ program:
     date: 2022-10-21T00:00:00+02:00
     start_time: "16:00"
     end_time: "16:25"
-  - title: "ivan-milchev"
-    type: talk
-    date: 2022-10-21T00:00:00+02:00
-    start_time: "16:00"
-    end_time: "16:25"
-  - title: "anneke-keller"
+  - title: "brian-finster"
     type: talk
     date: 2022-10-21T00:00:00+02:00
     start_time: "16:30"
@@ -397,3 +396,47 @@ program:
     date: 2022-10-21T00:00:00+02:00
     start_time: "17:00"
     end_time: "17:15"
+
+ignites:
+  - title: "joost-saanen"
+    date: 2022-10-20T00:00:00+02:00
+    block: ignite-1
+  - title: "esther-barthel-i"
+    date: 2022-10-20T00:00:00+02:00
+    block: ignite-1
+  - title: "piet-van-dongen"
+    date: 2022-10-20T00:00:00+02:00
+    block: ignite-1
+  - title: "pieter-lange"
+    date: 2022-10-20T00:00:00+02:00
+    block: ignite-1
+  - title: "toshaan-bharvani"
+    date: 2022-10-20T00:00:00+02:00
+    block: ignite-1
+
+
+#   - title: "Joost Saanen - Happy DevOps teams"
+#     type: ignite
+#     date: 2022-10-20T00:00:00+02:00
+#     start_time: "13:30"
+#     end_time: "13:35"
+#   - title: "Aman Sharma - Keep it simple stupid devops for startups"
+#     type: ignite
+#     date: 2022-10-20T00:00:00+02:00
+#     start_time: "13:35"
+#     end_time: "13:40"
+#   - title: "Piet van Dongen - What is resilience engineering?"
+#     type: ignite
+#     date: 2022-10-20T00:00:00+02:00
+#     start_time: "13:45"
+#     end_time: "13:50"
+#   - title: "Ignote Slot TBD"
+#     type: ignite
+#     date: 2022-10-20T00:00:00+02:00
+#     start_time: "13:50"
+#     end_time: "13:55"
+#   - title: "Ignote Slot TBD"
+#     type: ignite
+#     date: 2022-10-20T00:00:00+02:00
+#     start_time: "13:55"
+#     end_time: "14:00"

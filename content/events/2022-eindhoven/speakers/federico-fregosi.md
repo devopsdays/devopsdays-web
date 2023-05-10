@@ -4,7 +4,7 @@ Twitter = ""
 image = "federico-fregosi.jpg"
 type = "speaker"
 linktitle = "federico-fregosi"
-
+slides = ""
 +++
 
 Experienced engineering leader with a strong interest in distributed, highly-scalable and cloud-based systems.

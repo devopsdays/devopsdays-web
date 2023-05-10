@@ -4,6 +4,8 @@ Type = "event"
 Description = "Sponsor devopsdays Chicago 2022"
 +++
 
+<h2>Looking to sponsor devopsdays? Please <A href = "/chicago">check out this year's event</a>!</h2>
+
 We greatly value sponsors for this community event. If you are interested in sponsoring, please check out our <a href="https://assets.devopsdays.org/events/2022/chicago/2022-chicago-devopsdays-prospectus.pdf" target="_blank">prospectus</a> or <a href="mailto:chicago-sponsors@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Chicago%202022">send us an email</a>.
 We greatly value sponsors for this community event. If you are interested in sponsoring, please  <a href="mailto:chicago-sponsors@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Chicago%202022">send us an email</a>.
 <hr>
@@ -47,33 +49,13 @@ The best thing to do is send engineers to interact with the experts at devopsday
     <tr>
       <td></td>
       <td>
-        <!-- Gold Paypal button  -->
-        <!-- <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-          <input type="hidden" name="cmd" value="_s-xclick">
-          <input type="hidden" name="hosted_button_id" value="S9SCLZP3USU7L">
-          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-          <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-        </form> -->
-        SOLD OUT
+        <a href = "https://devopsdays.org/chicago">See 2023 event!</a>
       </td>
       <td>
-        <!-- silver Paypal button  -->
-        <!-- <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-          <input type="hidden" name="cmd" value="_s-xclick">
-          <input type="hidden" name="hosted_button_id" value="LUSEMWLZ7MKKW">
-          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-          <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-        </form> -->
-        SOLD OUT
+        <a href = "https://devopsdays.org/chicago">See 2023 event!</a>
       </td>
       <td>
-        <!-- bronze Paypal button  -->
-        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-          <input type="hidden" name="cmd" value="_s-xclick">
-          <input type="hidden" name="hosted_button_id" value="DDXAP9S3324DC">
-          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-          <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-        </form>
+       <a href = "https://devopsdays.org/chicago">See 2023 event!</a>
       </td>
       <td><a href="mailto:chicago-sponsors@devopsdays.org?subject=Interested%20in%20Community%20Sponsorship%20DevOpsDays%20Chicago%202022">Contact us</a>
       </td>

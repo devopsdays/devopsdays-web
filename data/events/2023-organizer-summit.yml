@@ -1,0 +1,288 @@
+name: "2023-organizer-summit" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2023" # The year of the event. Make sure it is in quotes.
+city: "Global Organizer Summit" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdays" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "devopsdays Global Organizer Summit taking place on August 8, 2023 in Chicago!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2023-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2023-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2023-08-08T00:00:00-05:00
+enddate: 2023-08-08T00:00:00-05:00
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2023-01-09T00:00:00-05:00 # start accepting talk proposals.
+cfp_date_end: 2023-03-17T00:00:00-05:00 # close your call for proposals.
+cfp_date_announce: 2023-03-27T00:00:00-05:00 # inform proposers of status
+
+cfp_link: "https://organizers-summit-proposals.devopsdays.org/organizers-summit-2023/cfp" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: 2023-02-07T00:00:00-05:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2023-08-09T00:00:00-05:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Chicago, IL, USA" # Defaults to city, but you can make it the venue name.
+#
+location_address: "233 S Wacker Dr, Chicago, IL 60606" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+ # - name: propose
+  #  url: https://organizers-summit-proposals.devopsdays.org/organizers-summit-2023/cfp
+  - name: location
+  - name: registration
+  - name: program
+ # - name: speakers
+ # - name: sponsor
+  - name: contact
+  - name: conduct
+  - name: Health and Safety Policy
+    url: /events/2023-chicago/covid
+  - name: financial assistance
+    url: /events/2023-organizer-summit/financial-help
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Yvo van Doorn"
+    role: "Amsterdam, Eindhoven, Ghent, Core"
+    linkedin: "https://www.linkedin.com/in/yvovandoorn/"
+    twitter: "yvov"
+    image: yvo.jpeg
+  - name: "Floor Drees"
+    role: "Amsterdam, Eindhoven, Core"
+    linkedin: "https://www.linkedin.com/in/floordrees/"
+    twitter: "FloorDrees"
+    image: "floor.jpg"
+  - name: "Matty Stratton"
+    role: "Chicago, Core"
+    image: "matty-stratton.png"
+    twitter: "mattstratton"
+    website: "https://www.mattstratton.com"
+    linkedin: "https://www.linkedin.com/in/mattstratton"
+    github: "mattstratton"
+  - name: "Rex Roof"
+    role: "Detroit"
+    twitter: "rexroof"
+    image: "rex-roof.jpeg"
+    linkedin: "https://www.linkedin.com/in/rex-roof-79754a116/"
+    github: "rexroof"
+  - name: "Kevin Reedy"
+    role: "Chicago"
+    image: "kevin-reedy.jpg"
+    mastodon: "https://hachyderm.io/@kevinreedy"
+    twitter: "kevinreedy"
+    website: "https://kevinreedy.net"
+    linkedin: "https://www.linkedin.com/in/kevinreedy"
+    github: "kevinreedy"
+  - name: "Brian Andersen"
+    role: "Chicago"
+    linkedin: "https://www.linkedin.com/in/brian-andersen-9a16587"
+    image: "brian-andersen.jpg"
+  - name: "Joshua Goldman"
+    role: "Chicago"
+    image: "josh-goldman.jpg"
+    github: "macgyverops"
+    linkedin: "https://www.linkedin.com/in/joshuamgoldman"
+  - name: "Chris Read"
+    role: "Chicago"
+    image: "chris-read.jpg"
+    linkedin: "https://www.linkedin.com/in/devopscread/"
+    twitter: "cread"
+    github: "cread"
+  - name: "Christian Herro"
+    role: "Madison, Chicago"
+    twitter: "christianherro"
+    image: "christian-herro.jpg"
+    twitter: "christianherro"
+    linkedin: "https://www.linkedin.com/in/christianherro/"
+    github : "christianherro"
+  - name: "Margaret Valtierra"
+    role: "Chicago"
+    image: "margaret-valtie.jpg"
+    twitter: "margaretvaltie"
+    linkedin: "https://www.linkedin.com/in/margaretvaltierra/"
+    github: "margaretvaltie"
+  - name: "Sasha Rosenbaum"
+    role: "Chicago"
+    image: "sasha-rosenbaum.jpg"
+    twitter: "DivineOps"
+    website: "https://www.sasharosenbaum.com/"
+    linkedin: "https://www.linkedin.com/in/sasha-rosenbaum"
+    github: "DivineOps"
+  - name: "Hari Vedam"
+    role: "Chicago"
+    image: "hari-vedam.jpg"
+    linkedin: "https://www.linkedin.com/in/hariv82"
+    twitter: "HariVedam"
+    github: "harushimo"
+  - name: "Russell Kaehler"
+    role: "New York City"
+    image: "russ-kaehler.jpg"
+    linkedin: "https://www.linkedin.com/in/russ-kaehler-514187110"
+  - name: "JJ Asghar"
+    role: "Austin, Houston, Texas"
+    twitter: "jjasghar"
+    github: "jjasghar"
+    image: "jj.jpg"
+  - name: "Jos van Schouten"
+    role: "Amsterdam, Eindhoven"
+    linkedin: "https://www.linkedin.com/in/josvanschouten/"
+    twitter: "josvanschouten"
+    image: "jos.png"
+  - name: "Jodi Jones"
+    role: "Des Moines"
+    github: "jodimj"
+    linkedin: "https://linkedin.com/in/jodi-jones-4a50ab17"
+    twitter: "jodimj"
+    image: "jjones.jpeg"
+  - name: "Jason Yee"
+    twitter: "gitbisect"
+    image: "jason-yee.jpg"
+    role: "Portland OR, Core"
+  - name: "Kris Buytaert"
+    role: "Ghent, Core"
+    twitter: "KrisBuytaert"
+    github: "KrisBuytaert"
+    linkedin: "https://www.linkedin.com/in/krisbuytaert"
+    image: "kris-buytaert.jpeg"
+
+organizer_email: "organizer-summit@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+ #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: devopsdays-amsterdam
+    level: community
+  - id: devopsdays-austin
+    level: community
+  - id: devopsdays-chicago
+    level: community
+  - id: devopsdays-dallas
+    level: community
+  - id: devopsdays-ghent
+    level: community
+  - id: devopsdays-eindhoven
+    level: community
+  - id: devopsdays-nyc
+    level: community
+  - id: devopsdays-zurich
+    level: community
+
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
+
+sponsor_levels:
+  - id: community
+    label: Community
+program:
+  - title: "Registration and Breakfast"
+    type: custom
+    date: 2023-08-08T00:00:00-05:00
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2023-08-08T00:00:00-05:00
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "katie-yvo-dan"
+    type: talk
+    date: 2023-08-08T00:00:00-05:00
+    start_time: "09:15"
+    end_time: "09:35"
+  - title: "laura-santamaria"
+    type: talk
+    date: 2023-08-08T00:00:00-05:00
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "yvo-van-doorn"
+    type: talk
+    date: 2023-08-08T00:00:00-05:00
+    start_time: "10:05"
+    end_time: "10:15"
+  - title: "pj-floor"
+    type: talk
+    date: 2023-08-08T00:00:00-05:00
+    start_time: "10:25"
+    end_time: "10:35"
+  - title: "matty-stratton"
+    type: talk
+    date: 2023-08-08T00:00:00-05:00
+    start_time: "10:45"
+    end_time: "10:50"
+  - title: "Break + Group Photo + Collection of Open Spaces topics & voting"
+    type: custom
+    date: 2023-08-08T00:00:00-05:00
+    start_time: "11:00"
+    end_time: "11:45"
+  - title: "hannah-paula"
+    type: talk
+    date: 2023-08-08T00:00:00-05:00
+    start_time: "11:45"
+    end_time: "11:55"
+  - title: "laura-wickett"
+    type: talk
+    date: 2023-08-08T00:00:00-05:00
+    start_time: "12:05"
+    end_time: "12:15"
+  - title: "joep-piscaer"
+    type: talk
+    date: 2023-08-08T00:00:00-05:00
+    start_time: "12:25"
+    end_time: "12:35"
+  - title: "aaron-blythe"
+    type: talk
+    date: 2023-08-08T00:00:00-05:00
+    start_time: "12:45"
+    end_time: "12:55"
+  - title: "Lunch"
+    type: custom
+    date: 2023-08-08T00:00:00-05:00
+    start_time: "13:00"
+    end_time: "14:00"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2023-08-08T00:00:00-05:00
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2023-08-08T00:00:00-05:00
+    start_time: "14:40"
+    end_time: "15:10"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2023-08-08T00:00:00-05:00
+    start_time: "15:20"
+    end_time: "15:50"
+  - title: "Open Space #4"
+    type: open-space
+    date: 2023-08-08T00:00:00-05:00
+    start_time: "16:00"
+    end_time: "16:30"
+  - title: "Community Recognitions"
+    type: custom
+    date: 2023-08-08T00:00:00-05:00
+    start_time: "16:40"
+    end_time: "17:10"
+  - title: "Closing Words"
+    type: custom
+    date: 2023-08-08T00:00:00-05:00
+    start_time: "17:15"
+    end_time: "17:30"
+  - title: "Evening Event"
+    type: custom
+    date: 2023-08-08T00:00:00-05:00
+    start_time: "18:30"
+    end_time: "21:00"

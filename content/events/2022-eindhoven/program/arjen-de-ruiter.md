@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Beat the curve - how to stay fast at scale"
 Type = "talk"
 Speakers = ["arjen-de-ruiter"]
+Youtube = "zcIQfM9cX8E"
 +++
 
 We grew from 10 people to 20, but we are not twice as fast!

@@ -147,14 +147,14 @@ sponsors:
   - id: ogd
     level: lanyard
   # recharge
-  - id: trendmicro
+  - id: trendmicro-before-20230130-before-20230130
     level: recharge
   # foodtrucks
   - id: thefactory
     level: foodtrucks
   - id: adyen
     level: foodtrucks
-  - id: trendmicro
+  - id: trendmicro-before-20230130-before-20230130
     level: foodtrucks
   - id: dept
     level: foodtrucks

@@ -4,7 +4,7 @@ Twitter = "arjenderuiter"
 image = "arjen-de-ruiter.jpg"
 type = "speaker"
 linktitle = "arjen-de-ruiter"
-
+slides = "https://assets.devopsdays.org/events/2022/eindhoven/slides/arjen-de-ruiter.pdf"
 +++
 
 Independent tech leader - interim manager - consultant. 

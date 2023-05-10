@@ -205,9 +205,9 @@ organizer_email: "austin@devopsdays.org" # Put your organizer email address here
 sponsors:
   - id: chaossearch
     level: platinum
-  - id: site24x7
+  - id: site24x7-before-20230414
     level: platinum
-  - id: contrast_security
+  - id: contrast_security-before-20221014
     level: platinum
   - id: codefresh
     level: platinum

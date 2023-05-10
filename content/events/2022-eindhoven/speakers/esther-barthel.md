@@ -4,7 +4,7 @@ Twitter = "virtuES_IT"
 image = "esther-barthel.jpg"
 type = "speaker"
 linktitle = "esther-barthel"
-
+slides = ""
 +++
 
 Esther Barthel has worked in different roles and functions as an IT consultant after she finished her Master’s degree in Computer Science in 1997. She soon discovered that End User Computing combined servers, desktops, and user experience technologies into one and specialized in virtualization solutions, like Microsoft Remote Desktop Services and Citrix Virtual Apps & Desktops.

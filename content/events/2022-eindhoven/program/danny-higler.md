@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Why DevOps is like firefighting at sea"
 Type = "talk"
 Speakers = ["danny-higler"]
+Youtube = "7Xea5c1dA6E"
 +++
 
 October 1993, 08:30 pm, somewhere at the Atlantic.

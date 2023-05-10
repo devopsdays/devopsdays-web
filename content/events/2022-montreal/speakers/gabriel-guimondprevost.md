@@ -1,6 +1,6 @@
 +++
 Title = "Gabriel Guimond-Prevost"
-image = ""
+image = "gabriel-guimondprevost.jpg"
 type = "speaker"
 linktitle = "gabriel-guimondprevost"
 Website = ""

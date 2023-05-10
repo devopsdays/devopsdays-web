@@ -19,13 +19,17 @@ cfp_date_start: 2022-02-25T17:00:00-04:00 # start accepting talk proposals.
 cfp_date_end: 2022-04-30T17:00:00-04:00 # close your call for proposals.
 cfp_date_announce: # inform proposers of status
 
-cfp_link: "https://docs.google.com/forms/d/e/1FAIpQLSf4qwC-lcdymPpvd15hUFqR6lVDABvXXcFNZrIwvNeugG7MgQ/viewform" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+#cfp_link: "https://docs.google.com/forms/d/e/1FAIpQLSf4qwC-lcdymPpvd15hUFqR6lVDABvXXcFNZrIwvNeugG7MgQ/viewform" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2022-08-15T00:00:00-04:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: 2022-10-28T00:00:00-04:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_end: 2022-10-27T00:00:00-04:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
-registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_closed: "true" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://www.eventbrite.ca/e/billets-devopsdays-montreal-2022-59525692950" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+
+masthead_background: "montreal-background.jpg"
+sharing_image: "montreal-sharing.png"
 
 # Location
 #
@@ -36,13 +40,13 @@ location_address: "1001 Pl. Jean-Paul-Riopelle, Montreal, Quebec H2Z 1H5" #Optio
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
- # - name: location
-  - name: registration
+  - name: location
+#  - name: registration
   - name: program
   - name: speakers
   - name: sponsor
-  - name: Become a sponsor
-    url: https://assets.devopsdays.org/events/2022/montreal/SponsorshipDeck2022pdf.pdf
+  # - name: Become a sponsor
+  #   url: https://assets.devopsdays.org/events/2022/montreal/SponsorshipDeck2022pdf.pdf
   - name: contact
   - name: conduct
 # - name: Call for Proposals
@@ -64,13 +68,13 @@ team_members: # Name is the only required field for team members.
     twitter: "chris_di_maio"
     linkedin: "https://www.linkedin.com/in/christinadimaio/"
   - name: "Ian Crosby"
-    image: ""
-    bio: ""
+    image: "ian.jpg"
+    bio: "Previous developer, manager, cloud engineer, CTO. Enjoys solving difficult problems with interesting technology. Or interesting problems with difficult technology. Can usually be found in a meeting asking 'What is the problem we're trying to solve here?'"
     role: ""
-    employer: "Container Solutions"
+    employer: "Fictiv"
     github: "idcrosby"
     twitter: "IanDCrosby"
-    linkedin: ""
+    linkedin: "https://www.linkedin.com/in/iandcrosby/"
   - name: "Joost Polley"
     image: ""
     bio: ""
@@ -79,24 +83,16 @@ team_members: # Name is the only required field for team members.
     github: ""
     twitter: ""
     linkedin: ""
-  - name: "Julia Simon"
-    image: ""
-    bio: ""
-    role: ""
-    employer: ""
-    github: ""
-    twitter: "JuliaSimon14"
-    linkedin: "https://www.linkedin.com/in/jsimon14"
   - name: "Lise-Andrée Duperré"
-    image: ""
-    bio: ""
+    image: "lise.jpg"
+    bio: "As marketing manager, I have been bringing my energy and determination to Gologic’s DevOps community for over 6 years. I am involved in a number of initiatives to boost sales and build our brand, including lead generation strategies, social media and event planning. Alongside this exciting career, I am an outdoors enthusiast and enjoy running. Oh, and I forgot—I love chocolate. :)"
     role: ""
     employer: "Gologic"
     github: ""
     twitter: ""
     linkedin: "https://www.linkedin.com/in/liseandreeduperre/"
   - name: "Michael McCliment"
-    image: ""
+    image: "michael-mccliment.jpg"
     bio: ""
     role: ""
     employer: "Ubisoft"
@@ -104,8 +100,8 @@ team_members: # Name is the only required field for team members.
     twitter: "cornazano"
     linkedin: "https://www.linkedin.com/in/michael-mccliment-77b8939b"
   - name: "Sydney Pagliuca"
-    image: ""
-    bio: ""
+    image: "sydney-pagliuca.jpg"
+    bio: "I am a student at McGill University enrolled in the Bachelor of Education program. As I progress through my degree, work, and teaching experiences, so does my love for education.I consider myself to be a kind, reliable, patient, and personable individual with a strong motivation to succeed. I enjoy working on projects, learning new things, making new mistakes, and teaching others. I have a particular and keen interest in space and technology, and am always questioning and exploring, with a lot to still to learn - I 💜 🍫"
     role: ""
     employer: ""
     github: ""
@@ -120,8 +116,8 @@ team_members: # Name is the only required field for team members.
     twitter: ""
     linkedin: "https://www.linkedin.com/in/pierrelucbisaillon/"
   - name: "Donald Donovan"
-    image: ""
-    bio: ""
+    image: "donald-donovan.png"
+    bio: "I'm a seasoned technologically promiscuous janitor with a unique set of industry experiences in several key technology, communications, and business areas having the greatest impact on most organizations today. I have an overactive interest in data, practical technology applications, and their effects on human behavior, human society, and people's interactions as they continue to change due to new technologies and communication mediums. I'm a dedicated father of two, an INTP, and have a long list of successful (and failed) projects in both individual contributor and leadership roles. I do not like chocolate."
     role: ""
     employer: ""
     github: ""
@@ -161,21 +157,24 @@ sponsors:
     level: gold
   - id: cloudbees
     level: gold
-  - id: isaac-instruments
-    level: gold
   - id: containersolutions
     level: silver
   - id: sherweb
     level: silver
   - id: slalom
     level: silver
-  - id: f5
+  - id: f5-nginx
     level: silver
+    url: https://www.f5.com
   - id: elastic
     level: silver
-  - id: appdynamics
+  - id: appdynamics-before-20230221
     level: bronze
   - id: gologic
+    level: bronze
+  - id: prisma-cloud
+    level: bronze
+  - id: harness
     level: bronze
   - id: desjardins
     level: lunch
@@ -183,12 +182,12 @@ sponsors:
     level: cocktail
   - id: morgan-stanley
     level: lanyard
-  - id: arresteddevops
-    level: community
+  - id: cloudops
+    level: coffee
   - id: "agile-montreal"
     level: community
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -259,7 +258,7 @@ program:
     date: 2022-10-26
     start_time: "10:55"
     end_time: "11:20"
-  - title: "sarjeel-yusuf"
+  - title: "thierry-madkaud"
     type: talk
     date: 2022-10-26
     start_time: "11:25"
@@ -284,7 +283,7 @@ program:
     date: 2022-10-26
     start_time: "13:25"
     end_time: "13:50"
-  - title: "samira-barouti"
+  - title: "sebastian-gomez"
     type: talk
     date: 2022-10-26
     start_time: "13:55"
@@ -328,8 +327,6 @@ program:
     start_time: "17:15"
     end_time: "19:30"
 
-
-
 # date: 2022-10-27
   - title: "Sponsor Setup"
     type: custom
@@ -362,7 +359,7 @@ program:
     start_time: "10:25"
     end_time: "10:55"
   - title: "Ignites"
-    type: custom
+    type: ignite
     date: 2022-10-27
     start_time: "10:55"
     end_time: "11:20"
@@ -391,7 +388,7 @@ program:
     date: 2022-10-27
     start_time: "13:25"
     end_time: "13:50"
-  - title: "stan-malinowski"
+  - title: "deniz-onur"
     type: talk
     date: 2022-10-27
     start_time: "13:55"
@@ -440,3 +437,11 @@ program:
     date: 2022-10-27
     start_time: "16:55"
     end_time: "17:15"
+
+ignites:
+  - title: "aries-youssefian"
+    date: 2022-10-27
+  - title: "julien-dort"
+    date: 2022-10-27
+  - title: "françois-rouxel"
+    date: 2022-10-27

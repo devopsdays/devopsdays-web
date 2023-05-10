@@ -80,7 +80,7 @@ sponsors:
     level: bronze
   - id: courier
     level: gold
-  - id: sleuth
+  - id: sleuth-before-2023
     level: gold
   - id: pulumi
     level: silver
@@ -122,7 +122,7 @@ sponsors:
     level: gold
   - id: aws
     level: gold
-  - id: trendmicro
+  - id: trendmicro-before-20230130
     level: gold
   - id: spacelift
     level: silver
@@ -146,7 +146,7 @@ sponsors:
     level: gold
   - id: garden
     level: gold
-  - id: site24x7
+  - id: site24x7-before-20230414
     level: silver
   - id: cockroachlabs
     level: silver

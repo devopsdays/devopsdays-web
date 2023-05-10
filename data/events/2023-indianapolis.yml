@@ -1,9 +1,10 @@
 name: "2023-indianapolis" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2023" # The year of the event. Make sure it is in quotes.
-city: "indianapolis" # The displayed city name of the event. Capitalize it.
+city: "Indianapolis" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysindy" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "Devopsdays is coming to indianapolis!" # Edit this to suit your preferences
 ga_tracking_id: "UA-109430778-1" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+event_logo: "logo-square.jpg"
 
 # All dates are in unquoted 2023-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00
@@ -14,17 +15,19 @@ startdate: 2023-10-05T08:00:00-04:00
 enddate: 2023-10-06T17:00:00-04:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start:  2022-12-19T08:00:00-04:00 # start accepting talk proposals.
+cfp_date_end:  2023-06-01T11:59:00-04:00   # close your call for proposals.
+cfp_date_announce:  2023-06-15T11:59:00-04:00 # inform proposers of status
 
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: 2023-03-21T14:00:00-04:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end:   2023-11-06T17:00:00-04:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.eventbrite.com/e/595987603967/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+masthead_background: indy_banner.jpg
 
 # Location
 #
@@ -37,9 +40,10 @@ location: "indianapolis" # Defaults to city, but you can make it the venue name.
 location_address: "1201 Central Avenue, Indianapolis, IN 46202"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
+  - name: volunteer
   - name: location
- # - name: registration
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -66,7 +70,10 @@ team_members: # Name is the only required field for team members.
     image: "andrew-poland.jpg"
 
   - name: "Matt Barton"
-    employer: ""
+    employer: "ActiveCampaign"
+    linkedin: "https://www.linkedin.com/in/ind317/"
+    mastodon: "leopardboy@netmonkey.xyz"
+    image: "matt-barton.jpg"
 
   - name: "Napoleon \"Ike\" Jones"
     website: "https://ikethe.dev/"
@@ -83,8 +90,14 @@ organizer_email: "indianapolis@devopsdays.org" # Put your organizer email addres
 sponsors:
   - id: tailored-automation
     level: gold
+  - id: appdynamics
+    level: gold
   - id: arresteddevops
     level: community
+  - id: learnk8s
+    level: community
+  - id: newrelic
+    level: platinum
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

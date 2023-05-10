@@ -1,7 +1,7 @@
 +++
 Title = "Mounia Elqortobi"
 Twitter = ""
-image = ""
+image = "mounia-elqortobi.jpg"
 type = "speaker"
 linktitle = "mounia-elqortobi"
 

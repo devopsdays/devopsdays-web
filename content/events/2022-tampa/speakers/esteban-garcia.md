@@ -1,6 +1,6 @@
 +++
 Title = "Esteban Garcia"
-Twitter = ""
+Twitter = "EstebanFGarcia"
 image = "esteban-garcia.png"
 type = "speaker"
 linktitle = "esteban-garcia"

@@ -33,7 +33,7 @@ devopsdays is a self-organizing conference for practitioners that depends on spo
 <tr><td style="text-align: left;">Full table for product demo or recruiting</td><td>&nbsp;</td><td>&nbsp;</td><td>&#10003;</td><td>&#10003;</td></tr>
 <tr><td style="text-align: left;">logo on its own slide, rotating during breaks</td><td>&nbsp;</td><td>&nbsp;</td><td>&#10003;</td><td>&#10003;</td></tr>
 <tr><td style="text-align: left;">3 to 5 minute pitch to full audience</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&#10003;</td></tr>
-<tr><td style="text-align: left;">Branding on Enterance</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&#10003;</td></tr>
+<tr><td style="text-align: left;">Branding on Entrance</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&#10003;</td></tr>
 </table>
 </div>
 <hr />

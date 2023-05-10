@@ -42,7 +42,6 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: registration
   - name: program
   - name: speakers
-  - name: sponsor
   # - name: volunteer
   - name: contact
   - name: conduct
@@ -228,7 +227,7 @@ sponsors:
     level: silver
   - id: clumio
     level: silver
-  - id: grafanalabs
+  - id: grafanalabs-before-20230308
     level: silver
   - id: moogsoft
     level: silver
@@ -236,7 +235,7 @@ sponsors:
     level: silver
   - id: opscruise
     level: silver
-  - id: trendmicro
+  - id: trendmicro-before-20230130
     level: silver
   - id: spacelift
     level: silver

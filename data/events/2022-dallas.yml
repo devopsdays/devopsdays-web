@@ -185,7 +185,7 @@ sponsors:
     level: platinum
   - id: splunk
     level: platinum
-  - id: appdynamics
+  - id: appdynamics-before-20230221
     level: gold
   - id: xmatters
     level: gold
@@ -195,7 +195,7 @@ sponsors:
     level: gold
   - id: styra
     level: gold
-  - id: sleuth
+  - id: sleuth-before-2023
     level: gold
   - id: roostai
     level: gold
@@ -215,7 +215,7 @@ sponsors:
     level: gold
   - id: bitdefender
     level: gold
-  - id: trendmicro
+  - id: trendmicro-before-20230130
     level: gold
   - id: circleci
     level: gold

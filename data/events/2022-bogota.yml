@@ -37,8 +37,10 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: propose
  # - name: location
  # - name: registration
- # - name: program
- # - name: speakers
+  - name: program
+    url: https://devopsdaysbogota.org/programa
+  - name: speakers
+    url: https://devopsdaysbogota.org/ponentes
   - name: sponsor
   - name: contact
   - name: conduct
@@ -73,9 +75,21 @@ sponsors:
     level: diamond
   - id: sigitat
     level: diamond
+  - id: softtek
+    level: diamond
   - id: stratusgrid
     level: diamond
+  - id: softserve
+    level: diamond
+  - id: tsoft
+    level: diamond
   - id: harness
+    level: platinum
+  - id: bancolombia
+    level: platinum
+  - id: endava
+    level: platinum
+  - id: manage-engine
     level: platinum
   - id: herzum
     level: gold
@@ -92,7 +106,7 @@ sponsors:
   - id: fedesoft
     level: community
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  - id: arresteddevops
+  - id: learnk8s
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

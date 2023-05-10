@@ -20,4 +20,4 @@ In this workshop, here are the questions that we will discuss together:
 - What mean the 99.999% reliability?
 
 Audience: DevOps, Dev, Ops, SRE, CloudOps.
-
+Technologies: Grafana, Prometheus, Kubernetes, Istio, NGINX, Micrometer.

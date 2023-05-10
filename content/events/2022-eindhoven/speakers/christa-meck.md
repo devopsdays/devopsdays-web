@@ -4,7 +4,7 @@ Twitter = "christameck"
 image = "christa-meck.jpg"
 type = "speaker"
 linktitle = "christa-meck"
-
+slides = ""
 +++
 
 Cloud Engineering Manager at Contrast Security. 

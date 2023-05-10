@@ -11,13 +11,13 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2021-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate:  2021-06-08T20:00:00-03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  2021-06-10T23:00:00-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2021-06-08T20:00:00-03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2021-06-10T23:00:00-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  2021-04-13T12:00:00-03:00 # start accepting talk proposals.
-cfp_date_end:  2021-05-15T23:59:00-03:00 # close your call for proposals.
-cfp_date_announce:  2021-05-22T12:00:00-03:00 # inform proposers of status
+cfp_date_start: 2021-04-13T12:00:00-03:00 # start accepting talk proposals.
+cfp_date_end: 2021-05-15T23:59:00-03:00 # close your call for proposals.
+cfp_date_announce: 2021-05-22T12:00:00-03:00 # inform proposers of status
 
 cfp_open: "false"
 cfp_link: "https://www.papercall.io/devopsdaysrio2021" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
@@ -45,12 +45,12 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: Palestrantes
     icon: "microphone"
     url: /events/2021-rio-de-janeiro/speakers
- # - name: location
+  # - name: location
   - name: Inscreva-se
     icon: "user-plus"
     url: /events/2021-rio-de-janeiro/registration
- # - name: program
- # - name: speakers
+  # - name: program
+  # - name: speakers
   - name: Patrocinadores
     icon: "money"
     url: /events/2021-rio-de-janeiro/sponsor
@@ -59,11 +59,10 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     url: /events/2021-rio-de-janeiro/contact
   - name: Código de conduta
     icon: "handshake-o"
-    url: /events/2021-rio-de-janeiro/conduct 
+    url: /events/2021-rio-de-janeiro/conduct
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
-
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
@@ -97,7 +96,7 @@ organizer_email: "devopsdaysrio@gmail.com" # Put your organizer email address he
 #   - id: arresteddevops
 #     level: community
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -111,7 +110,7 @@ sponsors:
     level: community
   - id: punkdodevops
     level: community
-  - id: globotv
+  - id: globotv-before-20230202
     level: gold
   - id: f5-nginx-before-20220324
     level: gold
@@ -135,7 +134,7 @@ sponsors:
 sponsor_levels:
   - id: gold
     label: Gold
-#    max: 10
+  #    max: 10
   - id: silver
     label: Silver
     max: 0 # This is the same as omitting the max limit.
@@ -147,7 +146,6 @@ sponsor_levels:
     label: Community
 
 program:
-
   - title: "monique-oliveira"
     type: talk
     date: "2021-06-08"
@@ -206,7 +204,7 @@ program:
     start_time: "21:30"
     end_time: "21:40"
 
-#9
+  #9
 
   - title: "Abertura"
     type: custom
@@ -253,7 +251,7 @@ program:
     start_time: "21:30"
     end_time: "21:40"
 
-#10
+  #10
 
   - title: "monique-oliveira"
     type: talk

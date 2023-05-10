@@ -17,9 +17,9 @@ enddate:  2022-11-14T18:00:00-04:00 # The end date of your event. Leave blank if
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2022-08-08T12:00:00-04:00 # start accepting talk proposals.
 cfp_date_end: 2022-09-07T00:00:00-04:00 # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_announce:  2022-09-30T12:00:00-04:00 # inform proposers of status
 
-cfp_link: "https://sessionize.com/chattanooga-devopsdays-2022/" # if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link:  # if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2022-07-26T00:00:00-05:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
@@ -103,6 +103,14 @@ sponsors:
     level: media
   - id: stratusgrid
     level: gold
+  - id: nanovms
+    level: silver
+  - id: teksystems
+    level: silver
+  - id: sumologic
+    level: silver
+  - id: redhat-silex
+    level: silver
 
 
 

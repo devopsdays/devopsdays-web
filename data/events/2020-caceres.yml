@@ -40,8 +40,6 @@ location: "Complejo Cultural San Francisco" # Defaults to city, but you can make
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
   - name: location
-  - name: registration
-    url: https://www.conferize.com/devopsdays-caceres/2020/p/tickets
   - name: program
   - name: speakers
   - name: sponsor

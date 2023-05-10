@@ -1,9 +1,11 @@
 {{ partial "google_analytics.html" . }}
+{{ partial "google_tag_manager.html" . }}
 <link href="{{ "/css/site.css" }}" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400,700" rel="stylesheet">
 {{- if eq .Type "speaking" -}}
   <link href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css" rel="stylesheet">
 {{- end -}}
+<script src="https://kit.fontawesome.com/f6f25dc1e1.js" crossorigin="anonymous"></script>
 
 <link rel="apple-touch-icon" sizes="57x57" href="{{"/apple-icon-57x57.png" }}">
 <link rel="apple-touch-icon" sizes="60x60" href="{{"/apple-icon-60x60.png" }}">

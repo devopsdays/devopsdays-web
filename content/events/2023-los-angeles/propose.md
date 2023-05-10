@@ -1,9 +1,9 @@
 +++
 Title = "Propose"
 Type = "event"
-Description = "Propose a talk for devopsdays Los Angeles 2023"
+Description = "Propose a talk for DevOpsDays Los Angeles 2023"
 +++
-  {{< cfp_dates >}}
+  <!-- {{< cfp_dates >}} -->
 
 <hr>
 
@@ -26,10 +26,11 @@ Choosing talks is part art, part science; here are some factors we consider when
 - _no vendor pitches_: As much as we value vendors and sponsors, we are not going to accept a talk that appears to be a pitch for your product.
 
 <hr>
+<br>
+<strong>
+<div style="text-align: center">
+  <a href="https://www.socallinuxexpo.org/scale/20x/cfp" style="font-size: 42px;">Submit a proposal</a>
+</div>
+</strong>
 
-<strong>How to submit a proposal:</strong> Send an email to [{{< email_organizers >}}] with the following information
-<ol>
-	<li>Type (presentation, panel discussion, ignite)</li>
-	<li>Proposal Title (can be changed later)</li>
-	<li>Description (several sentences explaining what attendees will learn)</li>
-</ol>
+<br>

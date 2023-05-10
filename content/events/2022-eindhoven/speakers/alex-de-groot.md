@@ -4,7 +4,7 @@ Twitter = "alexdegroot"
 image = "alex-de-groot.png"
 type = "speaker"
 linktitle = "alex-de-groot"
-
+slides = ""
 +++
 
 Alex is a highly enthusiastic person with 15+ years’ experience creating successful (SaaS) software. A contagious source of positive energy mixed with a curious mind makes him a fast learner and smart speaking partner. You can wake him up to test one of the latest technical innovations, but you will hit his main interest when technology is used in an intelligent way to achieve business goals. He’s always up for a challenge. When the stakes are high, constraints are big, and there’s little room to maneuver, he is at his best.

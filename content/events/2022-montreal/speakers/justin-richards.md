@@ -1,6 +1,6 @@
 +++
 Title = "Justin Richards"
-image = ""
+image = "justin-richards.jpg"
 type = "speaker"
 linktitle = "justin-richards"
 Website = "https://github.com/jrich902/resume"

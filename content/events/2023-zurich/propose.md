@@ -1,7 +1,7 @@
 +++
 Title = "Propose"
 Type = "event"
-Description = "Propose a talk for DevOpsDays Zurich 2022"
+Description = "Propose a talk for DevOpsDays Zurich 2023"
 +++
   {{< cfp_dates >}}
 
@@ -40,4 +40,4 @@ Our criteria for selection include (but are not limited to):
 </ul>
 
 <strong>How to submit a proposal:</strong>
-<a href="https://sessionize.com/devopsdays-zurich-2022">Propose your session in sessionize </a>
+<a href="https://sessionize.com/devopsdays-zurich-2023/">Propose your session in sessionize </a>

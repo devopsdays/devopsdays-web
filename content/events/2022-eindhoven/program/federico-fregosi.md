@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Why Developer Platforms and a curated Dev Experience are a must-have when scaling up fast"
 Type = "talk"
 Speakers = ["federico-fregosi"]
+Youtube = "ZDecHecNhdw"
 +++
 
 Big Tech has long understood that first-class infrastructure, platforms, and a great developer experience are essential to achieve business outcomes at scale. But, instead, growing companies and established enterprises face conflicts making the appropriate investment and, as a result, struggle to scale their engineering teams and processes.

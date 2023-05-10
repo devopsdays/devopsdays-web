@@ -95,13 +95,13 @@ sponsors:
     level: platinum
   - id:  f5
     level: platinum
-  - id:  grafanalabs
+  - id: grafanalabs-before-20230308
     level: platinum
   - id:  jagoanhosting
     level: platinum
   - id:  shopee
     level: gold
-  - id:  securecodewarrior
+  - id: securecodewarrior-before-20230424
     level: gold
   - id: devops-institute
     level: community

@@ -1,10 +1,10 @@
 +++
 Title = "Registration"
 Type = "event"
-Description = "Registration for DevOpsDays Zurich 2022"
+Description = "Registration for DevOpsDays Zurich 2023"
 +++
 
-<h3>Registration for DevOpsDays Zurich 2022 is open.</h3> 
+<h3>Registration for DevOpsDays Zurich 2023 is open.</h3> 
 
 <p>
 With the ticket you get: 
@@ -18,13 +18,12 @@ Our catering will serve meat, vegan, lactose and gluten-free food. Please contac
 </p>
 
 <div style="width:100%; text-align:left;">
-  <link rel="stylesheet" type="text/css" href='https://css.tito.io/v1.1' />
-  <script src='https://js.tito.io/v1' async></script>
-  <tito-widget event="dod/dodzh2022"></tito-widget>
+  <script src="https://js.tito.io/v2" async></script>
+  <tito-widget event="dod/dodzh2023"></tito-widget>
 </div>
 
 <p>
-If this doesn't work for you, registration can also be done here: <a href="https://ti.to/dod/dodzh2022">https://ti.to/dod/dodzh2022</a>
+If this doesn't work for you, registration can also be done here: <a href="https://ti.to/dod/dodzh2023">https://ti.to/dod/dodzh2023</a>
 </p>
 
 <p>

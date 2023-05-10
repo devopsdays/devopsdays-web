@@ -152,7 +152,7 @@ sponsors:
     level: silver
   - id: xmatters
     level: silver
-  - id: site24x7
+  - id: site24x7-before-20230414
     level: silver
   - id: honeycomb
     level: silver
@@ -174,7 +174,7 @@ sponsors:
     level: silver
   - id: circleci
     level: social
-  - id: paloaltonetworks
+  - id: paloaltonetworks-before-20230321
     level: social
   - id: redis-labs
     level: silver

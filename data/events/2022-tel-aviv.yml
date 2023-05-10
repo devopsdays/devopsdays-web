@@ -26,6 +26,8 @@ registration_date_end: 2022-12-15T00:00:01+02:00  # close registration. Leave bl
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://bit.ly/DEVOPSDAYS-2022-TIX" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
+program_link: "https://tlvcommunity.dev/devopsdays/agenda-2022"
+
 # Location
 #
 coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
@@ -36,13 +38,14 @@ location_address: "Expo Tel Aviv - 101 Rokach Blvd, Tel Aviv" #Optional - use th
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: location
  # - name: propose
- # - name: program
+  - name: program
  # - name: speakers
   - name: sponsor
   - name: registration
   - name: contact
   - name: conduct
-# - name: example
+  - name: TLVCommunity Site
+    url: "https://tlvcommunity.dev/devopsdays"
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
 
@@ -195,13 +198,13 @@ sponsors:
     level: platinum
   - id: coralogix
     level: platinum
-  - id: granulate
+  - id: granulate-before-20230209
     level: platinum
   - id: jit
     level: platinum
   - id: ermetic
     level: platinum
-  - id: paloaltonetworks
+  - id: paloaltonetworks-before-20230321
     level: platinum
   - id: microsoft
     level: platinum
@@ -261,7 +264,9 @@ sponsors:
     level: gold
   - id: silverfort
     level: gold
-  - id: netapp
+  - id: spot-by-netapp
+    level: gold
+  - id: quali
     level: gold
   - id: spectralops
     level: media
@@ -270,6 +275,10 @@ sponsors:
   - id: velocitytech
     level: media
   - id: cloudify
+    level: media
+  - id: pitango
+    level: media
+  - id: pagerduty
     level: media
   - id: statscraft
     level: media
@@ -300,7 +309,7 @@ sponsor_levels:
     label: Gold
 #    max: 10
 # - id: community
-    label: Community
+#   label: Community
     max: 0 # This is the same as omitting the max limit.
   - id: media
     label: Media & Community Partner

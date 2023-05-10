@@ -130,7 +130,7 @@ sponsors:
     level: silver
   - id: albert-heijn
     level: silver
-  - id: contrast_security
+  - id: contrast_security-before-20221014
     level: silver
   - id: splunk-before-20220426
     level: silver
@@ -143,7 +143,7 @@ sponsors:
     level: bronze
   - id: stream
     level: bronze
-  - id: paloaltonetworks
+  - id: paloaltonetworks-before-20230321
     level: bronze
   - id: cloudpirates
     level: bronze

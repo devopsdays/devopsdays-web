@@ -15,24 +15,24 @@ startdate: 2023-03-03T08:00:00-03:00 # The start date of your event. Leave blank
 enddate: 2023-03-04T18:00:00-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: # start accepting talk proposals.
-cfp_date_end: # close your call for proposals.
-cfp_date_announce: # inform proposers of status
+cfp_date_start: 2022-12-01T00:00:00-03:00 # start accepting talk proposals.
+cfp_date_end: 2023-01-29T23:59:59-03:00 # close your call for proposals.
+cfp_date_announce: 2023-02-03T21:00:00-03:00 # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://www.papercall.io/devopsdaysgyn2023" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.sympla.com.br/devopsdays-goiania-2023__1836174" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
-coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Goiânia" # Defaults to city, but you can make it the venue name.
+coordinates: "-16.66297068140222, -49.25176208347601" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "FIEG - Casa Da Indústria" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "Rua 200-C - Setor Leste Vila Nova, Goiânia - GO, 74055-235" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: Chamadas (CFP)
@@ -45,7 +45,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
   - name: inscrições
     icon: "ticket"
-    url: /events/2023-goiania/registration
+    url: https://www.sympla.com.br/devopsdays-goiania-2023__1836174
+    #url: /events/2023-goiania/registration
 
   - name: programação
     icon: "calendar"
@@ -85,8 +86,8 @@ team_members: # Name is the only required field for team members.
     image: "franzwagner-ternus.jpg"
 
   - name: "Juliana Gaioso"
-    employer: "Z1"
-    bio: "Cybersecurity engineer"
+    employer: "Swap"
+    bio: "Information Security Architect"
     github: "juligaioso"
     twitter: "juligaioso"
     linkedin: "https://www.linkedin.com/in/juligaioso"
@@ -101,8 +102,8 @@ team_members: # Name is the only required field for team members.
     image: "marcelo-paiva.jpg"
 
   - name: "Rafael Sobreira Braga"
-    employer: "Pottencial Seguradora"
-    bio: "Arquiteto Cloud/DevOps/SRE"
+    employer: "Bexs"
+    bio: "DevOps Engineer"
     github: "rafaelsobreirabraga"
     twitter: "braga_sobreira"
     linkedin: "https://www.linkedin.com/in/rafaelsobreirabraga"
@@ -113,11 +114,47 @@ organizer_email: "goiania@devopsdays.org" # Put your organizer email address her
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: samplesponsorname
-    level: gold
-  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  - id: arresteddevops
+  - id: 4linux
     level: community
+  - id: aws-user-group-goiania
+    level: community
+  - id: devopsgo
+    level: community
+  - id: docker-goiania
+    level: community
+  - id: elastic
+    level: gold
+  - id: globotv
+    level: gold
+  - id: grafanalabs
+    level: bronze
+  - id: iel-go
+    level: community
+  - id: infomach
+    level: platinum
+  - id: jack-experts
+    level: silver
+  - id: jlcp
+    level: community
+  - id: kubecareers
+    level: community
+  - id: kubeevents
+    level: community
+  - id: lpi
+    level: bronze
+  - id: muralis-tecnologia
+    level: silver
+  - id: novatec
+    level: community
+  - id: override
+    level: community
+  - id: senai-go-70
+    level: community
+  - id: stone
+    level: gold
+  - id: zg-solucoes
+    level: silver
+  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -126,9 +163,12 @@ sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: platinum
+    label: Platinum
+    max: 1
   - id: gold
     label: Gold
-  #    max: 10
+    max: 4
   - id: silver
     label: Silver
     max: 0 # This is the same as omitting the max limit.
@@ -136,3 +176,202 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+
+program:
+  - title: "Credenciamento"
+    type: custom
+    date: 2023-03-03T08:00:00-03:00
+    start_time: "08:00"
+    end_time: "08:30"
+  - title: "Abertura"
+    type: custom
+    date: 2023-03-03T08:00:00-03:00
+    start_time: "08:30"
+    end_time: "09:00"
+    background_color: "#0082AB"
+  - title: "cesar-brod"
+    type: talk
+    date: 2023-03-03T08:00:00-03:00
+    start_time: "09:00"
+    end_time: "09:30"
+    background_color: "#FF8300"
+  - title: "andre-brandao"
+    type: talk
+    date: 2023-03-03T08:00:00-03:00
+    start_time: "09:30"
+    end_time: "10:00"
+  - title: "tainara-almeida"
+    type: talk
+    date: 2023-03-03T08:00:00-03:00
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Coffee Break"
+    type: custom
+    date: 2023-03-03T08:00:00-03:00
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "adriano-vieira"
+    type: talk
+    date: 2023-03-03T08:00:00-03:00
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "marcelo-paiva"
+    type: talk
+    date: 2023-03-03T08:00:00-03:00
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch"
+    type: custom
+    date: 2023-03-03T08:00:00-03:00
+    start_time: "12:00"
+    end_time: "13:30"
+  - title: "Open Space"
+    type: open-space
+    date: 2023-03-03T08:00:00-03:00
+    start_time: "13:30"
+    end_time: "14:15"
+  - title: "leonardo-lima"
+    type: talk
+    date: 2023-03-03T08:00:00-03:00
+    start_time: "14:15"
+    end_time: "14:45"
+  - title: "joao-freire"
+    type: talk
+    date: 2023-03-03T08:00:00-03:00
+    start_time: "14:45"
+    end_time: "15:15"
+  - title: "Break"
+    type: custom
+    date: 2023-03-03T08:00:00-03:00
+    start_time: "15:15"
+    end_time: "15:30"
+  - title: "thiago-rodrigues"
+    type: talk
+    date: 2023-03-03T08:00:00-03:00
+    start_time: "15:30"
+    end_time: "16:00"
+  - title: "felipe-rocha"
+    type: talk
+    date: 2023-03-03T08:00:00-03:00
+    start_time: "16:00"
+    end_time: "16:30"
+  - title: "Coffee Break"
+    type: custom
+    date: 2023-03-03T08:00:00-03:00
+    start_time: "16:30"
+    end_time: "17:00"
+  - title: "daniel-rodrigues-da-silva"
+    type: talk
+    date: 2023-03-03T08:00:00-03:00
+    start_time: "17:00"
+    end_time: "17:30"
+  - title: "juliana-gaioso"
+    type: talk
+    date: 2023-03-03T08:00:00-03:00
+    start_time: "17:30"
+    end_time: "18:00"
+    background_color: "#FF8300"
+  - title: "Encerramento"
+    type: custom
+    date: 2023-03-03T08:00:00-03:00
+    start_time: "18:00"
+    end_time: "18:30"
+
+  - title: "Credenciamento"
+    type: custom
+    date: 2023-03-04T08:00:00-03:00
+    start_time: "08:00"
+    end_time: "08:30"
+  - title: "Abertura"
+    type: custom
+    date: 2023-03-04T08:00:00-03:00
+    start_time: "08:30"
+    end_time: "09:00"
+    background_color: "#0082AB"
+  - title: "punk-do-devops"
+    type: talk
+    date: 2023-03-04T08:00:00-03:00
+    start_time: "09:00"
+    end_time: "09:30"
+    background_color: "#FF8300"
+  - title: "alex-salgado"
+    type: talk
+    date: 2023-03-04T08:00:00-03:00
+    start_time: "09:30"
+    end_time: "10:00"
+  - title: "rodrigo-cardoso"
+    type: talk
+    date: 2023-03-04T08:00:00-03:00
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Coffee Break"
+    type: custom
+    date: 2023-03-04T08:00:00-03:00
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "alison-duarte"
+    type: talk
+    date: 2023-03-04T08:00:00-03:00
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "bezaleel-silva"
+    type: talk
+    date: 2023-03-04T08:00:00-03:00
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch"
+    type: custom
+    date: 2023-03-04T08:00:00-03:00
+    start_time: "12:00"
+    end_time: "13:30"
+  - title: "Open Space"
+    type: open-space
+    date: 2023-03-04T08:00:00-03:00
+    start_time: "13:30"
+    end_time: "14:15"
+  - title: "wilson-junior"
+    type: talk
+    date: 2023-03-04T08:00:00-03:00
+    start_time: "14:15"
+    end_time: "14:45"
+  - title: "joao-brito"
+    type: talk
+    date: 2023-03-04T08:00:00-03:00
+    start_time: "14:45"
+    end_time: "15:15"
+  - title: "Break"
+    type: custom
+    date: 2023-03-04T08:00:00-03:00
+    start_time: "15:15"
+    end_time: "15:30"
+  - title: "joao-paulo-oliveira"
+    type: talk
+    date: 2023-03-04T08:00:00-03:00
+    start_time: "15:30"
+    end_time: "16:00"
+  - title: "luiz-machado"
+    type: talk
+    date: 2023-03-04T08:00:00-03:00
+    start_time: "16:00"
+    end_time: "16:30"
+  - title: "Coffee Break"
+    type: custom
+    date: 2023-03-04T08:00:00-03:00
+    start_time: "16:30"
+    end_time: "17:00"
+  - title: "adriano-tanaka"
+    type: talk
+    date: 2023-03-04T08:00:00-03:00
+    start_time: "17:00"
+    end_time: "17:30"
+  - title: "dan-rezende"
+    type: talk
+    date: 2023-03-04T08:00:00-03:00
+    start_time: "17:30"
+    end_time: "18:00"
+    background_color: "#FF8300"
+  - title: "Encerramento"
+    type: custom
+    date: 2023-03-04T08:00:00-03:00
+    start_time: "18:00"
+    end_time: "18:30"
