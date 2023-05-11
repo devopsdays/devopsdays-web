@@ -99,6 +99,8 @@ sponsors:
     level: lanyard
   - id: stackwizards
     level: bronze
+  - id: spinks
+    level: talent-solutions
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -119,4 +121,7 @@ sponsor_levels:
     label: Community
   - id: lanyard
     label: Lanyard
+    max: 1
+  - id: talent-solutions
+    label: Talent Solutions
     max: 1
