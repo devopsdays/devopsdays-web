@@ -23,10 +23,10 @@ cfp_date_announce: 2023-06-15T00:00:00+03:00 # inform proposers of status
 cfp_link: "https://www.papercall.io/devopsdays-vilnius" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2023-05-10T00:00:00+03:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: 2023-09-05T00:00:00+03:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_end: 2023-09-05T23:59:59+03:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://fienta.com/devopsdays-vilnius-2023" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -38,7 +38,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: propose
     url: https://www.papercall.io/devopsdays-vilnius
   - name: location
- # - name: registration
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -91,6 +91,8 @@ sponsors:
   - id: kubecareers
     level: community
   - id: devopsinshorts
+    level: community
+  - id: jetbrains
     level: community
 #   - id: samplesponsorname
 #     level: gold

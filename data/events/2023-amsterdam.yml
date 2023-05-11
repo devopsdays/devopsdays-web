@@ -138,32 +138,34 @@ organizer_email: "amsterdam@devopsdays.org" # Put your organizer email address h
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-# Beer
+  # Beer
   - id: contrast_security
     level: beer
-# Coffee
+  # Coffee
   - id: greater-bv
     level: coffee
-# Gold
+  # Gold
   - id: github
     level: gold
   - id: elastic
     level: gold
   - id: kosli
-    level: gold 
+    level: gold
   - id: devoteam
     level: gold
   - id: isovalent
     level: gold
   - id: zesty
     level: gold
-# Lanyard
+  - id: luminis
+    level: gold
+  # Lanyard
   - id: schubergphilis
     level: lanyard
-# Foodtrucks
+  # Foodtrucks
   - id: exoscale
     level: foodtruck
-# Silver
+  # Silver
   - id: wiz
     level: silver
   - id: circleci
@@ -180,10 +182,9 @@ sponsors:
     level: silver
   - id: sysdig
     level: silver
-# Bronze
+  # Bronze
   - id: raftech
     level: bronze
-
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -192,7 +193,7 @@ sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id:  platinum
+  - id: platinum
     label: Platinum
     max: 1
   - id: beer
@@ -228,8 +229,8 @@ program:
     start_time: "08:00"
     end_time: "09:00"
 
-# 2023 Workshops
-# 9:00 to 12:00
+  # 2023 Workshops
+  # 9:00 to 12:00
 
   - title: "ws-luben-alexandrov"
     type: workshop
@@ -273,7 +274,7 @@ program:
     end_time: "12:00"
     comments: "Expo 1"
 
- # LUNCH
+  # LUNCH
   - title: "Lunch Break"
     type: custom
     date: 2023-06-21T00:00:00+02:00
@@ -337,7 +338,7 @@ program:
     start_time: "14:30"
     end_time: "15:00"
 
-# After Break
+  # After Break
 
   - title: "ws-nathen-harvey-amanda-lewis"
     type: workshop
@@ -372,8 +373,7 @@ program:
     date: 2023-06-21T00:00:00+02:00
     start_time: "15:00"
     end_time: "17:00"
-    comments: "Ij Zaal"    
-
+    comments: "Ij Zaal"
 
   # end of day
   - title: "Have a beer on us!"
@@ -383,7 +383,7 @@ program:
     end_time: "18:30"
     comments: "Pakhuis de Zwijger bar"
 
-# DAY 1
+  # DAY 1
 
   - title: "Registration - Welcome!"
     type: custom
@@ -500,8 +500,7 @@ program:
     end_time: "23:00"
     comments: "Location: Grote Zaal"
 
-
-# DAY 2
+  # DAY 2
   - title: "Registration, Breakfast, and Sponsor Booths Open"
     type: custom
     date: 2023-06-23T00:00:00+02:00

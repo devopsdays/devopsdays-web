@@ -95,6 +95,8 @@ sponsors:
   #  level: gold
   # silver sponsors
   #- id: checkmarx
+  - id: mkdev
+    level: silver
   #  level: silver
   # bronze sponsors
   #- id: armakuni
