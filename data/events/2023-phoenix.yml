@@ -78,6 +78,10 @@ sponsors:
     level: gold
   - id: americanairlines
     level: gold
+  - id: gitlab
+    level: silver
+  - id: harness
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
