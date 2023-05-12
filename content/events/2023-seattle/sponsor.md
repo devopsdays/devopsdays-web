@@ -84,9 +84,9 @@ The best thing to do is send engineers to interact with the experts at devopsday
           <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
         </form>
       </td>
-      <td><a href="mailto:seattle@devopsdays.org?subject=Interested%20in%20Community%20Sponsorship%20DevOpsDays%20Seattle%202023">Contact us</a></td>
-      <td><a href="mailto:seattle@devopsdays.org?subject=Interested%20in%20Community%20Sponsorship%20DevOpsDays%20Seattle%202023">Contact us</a></td>
-      <td><a href="mailto:seattle@devopsdays.org?subject=Interested%20in%20Community%20Sponsorship%20DevOpsDays%20Seattle%202023">Contact us</a></td>
+      <td><a href="mailto:seattle@devopsdays.org?subject=Interested%20in%20HappyHour%20Sponsorship%20DevOpsDays%20Seattle%202023">Contact us</a></td>
+      <td><a href="mailto:seattle@devopsdays.org?subject=Interested%20in%20Lanyards%20Sponsorship%20DevOpsDays%20Seattle%202023">Contact us</a></td>
+      <td><a href="mailto:seattle@devopsdays.org?subject=Interested%20in%20CloseCaptioning%20Sponsorship%20DevOpsDays%20Seattle%202023">Contact us</a></td>
       <td><a href="mailto:seattle@devopsdays.org?subject=Interested%20in%20Community%20Sponsorship%20DevOpsDays%20Seattle%202023">Contact us</a></td>
     </tr>
     <tr>
