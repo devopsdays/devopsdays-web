@@ -8,7 +8,7 @@ The <a href="https://vilniustechpark.com/">Vilnius Tech Park </a> will host devo
 
 ### <b>Conference location:</b>
 ### Vilnius Tech Park <br>
-[Antakalnio g. 13, 10312 Vilnius](https://goo.gl/maps/HYXd49xCTXbLTpQE8)
+[Antakalnio g. 17, 10312 Vilnius](https://goo.gl/maps/HYXd49xCTXbLTpQE8)
 
 
 {{< event_map >}}
