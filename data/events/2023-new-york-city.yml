@@ -39,11 +39,13 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
   # - name: propose
   - name: registration
-  # - name: program
-  # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
+  - name: Health and Safety Policy
+    url: /events/2023-new-york-city/covid
 # - name: example
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
 
@@ -149,5 +151,186 @@ sponsor_levels:
     label: Community
 
 program:
+  - title: "Registration, Breakfast, Sponsor Booths Open"
+    type: custom
+    date: "2023-06-06"
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Welcome"
+    type: custom
+    date: "2023-06-06"
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "laura-maguire"
+    type: talk
+    date: "2023-06-06"
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "josh-lee"
+    type: talk
+    date: "2023-06-06"
+    start_time: "9:45"
+    end_time: "10:15"
+  - title: "Coffee"
+    type: custom
+    date: "2023-06-06"
+    start_time: "10:15"
+    end_time: "10:45"
+  - title: "rosemary-wang"
+    type: talk
+    date: "2023-06-06"
+    start_time: "10:45"
+    end_time: "11:15"
+  - title: "Ignites - To Be Announced"
+    type: custom
+    date: "2023-06-06"
+    start_time: "11:15"
+    end_time: "11:45"
+  - title: "Open Space (Attendee Led Breakout Session) Organizing"
+    type: open-space
+    date: "2023-06-06"
+    start_time: "11:45"
+    end_time: "12:15"
+  - title: "Lunch"
+    type: custom
+    date: "2023-06-06"
+    start_time: "12:15"
+    end_time: "13:45"
+  - title: "Open Space (Attendee Led Breakout Session) #1"
+    type: open-space
+    date: "2023-06-06"
+    start_time: "13:45"
+    end_time: "14:15"
+  - title: "Open Space (Attendee Led Breakout Session) Break"
+    type: custom
+    date: "2023-06-06"
+    start_time: "14:15"
+    end_time: "14:20"
+  - title: "Open Space (Attendee Led Breakout Session) #2"
+    type: open-space
+    date: "2023-06-06"
+    start_time: "14:20"
+    end_time: "14:50"
+  - title: "Open Space (Attendee Led Breakout Session) Break"
+    type: custom
+    date: "2023-06-06"
+    start_time: "14:50"
+    end_time: "14:55"
+  - title: "Open Space (Attendee Led Breakout Session) #3"
+    type: open-space
+    date: "2023-06-06"
+    start_time: "14:55"
+    end_time: "15:25"
+  - title: "Afternoon Break"
+    type: custom
+    date: "2023-06-06"
+    start_time: "15:25"
+    end_time: "15:55"
+  - title: "salvatore-furino"
+    type: talk
+    date: "2023-06-06"
+    start_time: "15:55"
+    end_time: "16:25"
+  - title: "Sponsors"
+    type: custom
+    date: "2023-06-06"
+    start_time: "16:25"
+    end_time: "16:30"
+  - title: "julie-gunderson-ana-margarita-medina"
+    type: talk
+    date: "2023-06-06"
+    start_time: "16:30"
+    end_time: "17:00"
+  - title: "Evening Social Event"
+    type: custom
+    date: "2023-06-06"
+    start_time: "17:00"
+    end_time: "19:00"
 
-ignites:
+  - title: "Registration, Breakfast, Sponsor Booths Open"
+    type: custom
+    date: "2023-06-07"
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "charity-majors"
+    type: talk
+    date: "2023-06-07"
+    start_time: "09:00"
+    end_time: "09:30"
+  - title: "daniel-golant"
+    type: talk
+    date: "2023-06-07"
+    start_time: "09:30"
+    end_time: "10:00"
+  - title: "Coffee"
+    type: custom
+    date: "2023-06-07"
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "ramon-huidobro"
+    type: talk
+    date: "2023-06-07"
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "Ignites - To Be Announced"
+    type: custom
+    date: "2023-06-07"
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "Open Space (Attendee Led Breakout Session) Organizing"
+    type: open-space
+    date: "2023-06-07"
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch"
+    type: custom
+    date: "2023-06-07"
+    start_time: "12:00"
+    end_time: "13:30"
+  - title: "Open Space (Attendee Led Breakout Session) #1"
+    type: open-space
+    date: "2023-06-07"
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space (Attendee Led Breakout Session) Break"
+    type: custom
+    date: "2023-06-07"
+    start_time: "14:00"
+    end_time: "14:05"
+  - title: "Open Space (Attendee Led Breakout Session) #2"
+    type: open-space
+    date: "2023-06-07"
+    start_time: "14:05"
+    end_time: "14:35"
+  - title: "Open Space (Attendee Led Breakout Session) Break"
+    type: custom
+    date: "2023-06-07"
+    start_time: "14:35"
+    end_time: "14:40"
+  - title: "Open Space(Attendee Led Breakout Session) #3"
+    type: open-space
+    date: "2023-06-07"
+    start_time: "14:40"
+    end_time: "15:10"
+  - title: "Afternoon Break"
+    type: custom
+    date: "2023-06-07"
+    start_time: "15:10"
+    end_time: "15:40"
+  - title: "tiffany-jernigan"
+    type: talk
+    date: "2023-06-07"
+    start_time: "15:40"
+    end_time: "16:10"
+  - title: "Sponsor Raffles"
+    type: custom
+    date: "2023-06-07"
+    start_time: "16:10"
+    end_time: "16:25"
+  - title: "todd-baert"
+    type: talk
+    date: "2023-06-07"
+    start_time: "16:25"
+    end_time: "16:55"
+
+# ignites:
