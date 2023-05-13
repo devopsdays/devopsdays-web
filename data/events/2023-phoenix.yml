@@ -83,8 +83,6 @@ sponsors:
   - id: harness
     level: silver
   - id: fastly
-    level: lunch
-  - id: fastly
     level: coffee
   - id: harness
     level: snack
@@ -108,8 +106,6 @@ sponsor_levels:
     label: Community
   - id: media
     label: Media
-  - id: lunch
-    label: Lunch
   - id: coffee
     label: All Day Coffee
   - id: snack
