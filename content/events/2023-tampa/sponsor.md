@@ -40,4 +40,56 @@ Description = "Sponsor DevOpsDays Tampa Bay 2023"
       <p>Interested in sponsoring? please drop us an email at [{{< email_organizers >}}].</p>
 </div>
 
+<b>Lanyard SPONSOR</b>
+Everyone at the event will be wearing a lanyard and this represents a great opportunity to get your name (logo) in front of all attendees.
+The lanyard will be printed with your branding on it. There is only a single sponsorship available and it is $4,000.
+
+<b>SWAG BAG SPONSOR (sold)</b>
+Provide branded swag bag for all attendees with your name (logo). There is only a single sponsorship avaiable $4,000.
+
+<table border="1">
+  <tbody>
+    <tr>
+      <td></td>
+      </td>
+      <td style="padding: 5px" align="center" valign="top"><b>Gold</b><br>20 Left<br><br><br>
+</td>
+      <td style="padding: 5px" align="center" valign="top"><b>Platinum</b><br>10 Left<br><br><br>
+</td>
+      <td style="padding: 5px" align="center" valign="top"><b>Diamond</b><br>2 Left<br><br><br>
+</td>
+    </tr>
+    <tr>
+      <td>Price</td>
+      <td style="padding: 5px" align="center">$750</td>
+      <td style="padding: 5px" align="center">$5,000</td>
+      <td style="padding: 5px" align="center">$7,500</td> 
+    </tr>
+    <tr>
+      <td>Included Tickets</td>
+      <td style="padding: 5px" align="center">4</td>
+      <td style="padding: 5px" align="center">10</td>
+      <td style="padding: 5px" align="center">20</td>
+    </tr>
+    <tr>
+      <td>Promotion (logo) on web site</td>
+      <td style="padding: 5px" align="center"><img width="25" src="/img/checkmark.png"></td>
+      <td style="padding: 5px" align="center"><img width="25" src="/img/checkmark.png"></td>
+      <td style="padding: 5px" align="center"><img width="25" src="/img/checkmark.png"></td>
+    </tr>
+    <td>Table</td>
+      <td style="padding: 5px" align="center"></td>
+      <td style="padding: 5px" align="center"><img width="25" src="/img/checkmark.png"></td>
+      <td style="padding: 5px" align="center"><img width="25" src="/img/checkmark.png"></td>
+    </tr>
+    <tr>
+      <td>Sponsor Pitch 3 Minutes</td>
+      <td style="padding: 5px"> </td>
+      <td style="padding: 5px"> </td>
+      <td style="padding: 5px" align="center"><img width="25" src="/img/checkmark.png"></td>
+    </tr>
+  </tbody>
+</table>
+
+<br/><br/>
 
