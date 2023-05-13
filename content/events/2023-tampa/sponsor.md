@@ -93,8 +93,8 @@ Description = "Sponsor DevOpsDays Tampa Bay 2023"
 <br>
 </div>
 <div style="flex: 1; margin-left: 10px; max-width: 50%; display: flex; align-items: flex-start;">
-<a href="http://jamesgress.com/wp-content/uploads/2023/05/2023-Prospectus.pdf">
-   <img src="http://jamesgress.com/wp-content/uploads/2023/05/tbdop.png" alt="Download PDF" width="200" height="400" style="border: 3px solid black;">
+<a href="https://jamesgress.com/wp-content/uploads/2023/05/2023-Prospectus.pdf">
+   <img src="https://jamesgress.com/wp-content/uploads/2023/05/tbdop.png" alt="Download PDF" width="200" height="400" style="border: 3px solid black;">
 </a>
 </div>
 </div>
