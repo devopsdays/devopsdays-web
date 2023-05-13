@@ -1,9 +1,9 @@
 name: "2023-fortaleza" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2023" # The year of the event. Make sure it is in quotes.
 city: "Fortaleza" # The displayed city name of the event. Capitalize it.
-event_twitter: "devopsdaysce" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+event_twitter: "devopsdayce" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "Devopsdays is coming to Fortaleza!" # Edit this to suit your preferences
-ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+ga_tracking_id: "G-V6NPDB4RM8" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2023-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00
@@ -64,7 +64,7 @@ team_members: # Name is the only required field for team members.
 
   - name: "Ana Carla"
     twitter: ""
-    employer: "Hash"
+    employer: "AmbevTech"
     bio: "mother, wife, professional and curious. Currently supports a team of SREs in the product engineering area. Loves technology, communities and people. Believes that the union of technology and people create innovative scenarios.Master's student in Artificial Intelligence and Data Science. Currently supports the two projects Pyladies Fortaleza and DevOps Day Fortaleza."
     github: ""
     facebook: ""
@@ -197,9 +197,9 @@ sponsors:
   - id: unifor
     level: platinum
     url: https://unifor.br/
-  # - id: quode
-  #   level: platinum
-  #   url: https://www.quodeproject.com.br/  
+  - id: trustdsolutions
+    level: bronze
+    url: https://trustd.solutions/ 
   # - id: elevenworks
   #   level: platinum
   #   url: https://elven.works/
