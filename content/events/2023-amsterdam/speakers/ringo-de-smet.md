@@ -2,7 +2,7 @@
 Title = "Ringo de Smet"
 Linkedin = "https://www.linkedin.com/in/ringodesmet/"
 Website = ""
-Twitter = "https://twitter.com/ringods"
+Twitter = "ringods"
 image = "ringo-de-smet.jpg"
 type = "speaker"
 linktitle = "ringo-de-smet"

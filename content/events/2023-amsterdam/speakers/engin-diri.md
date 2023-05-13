@@ -2,7 +2,7 @@
 Title = "Engin Diri"
 Linkedin = ""
 Website = ""
-Twitter = "https://twitter.com/_ediri"
+Twitter = "_ediri"
 image = "engin-diri.jpeg"
 type = "speaker"
 linktitle = "engin-diri"

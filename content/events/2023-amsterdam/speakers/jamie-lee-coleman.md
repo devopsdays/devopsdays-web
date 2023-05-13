@@ -2,7 +2,7 @@
 Title = "Jamie Lee Coleman"
 Linkedin = "https://www.linkedin.com/in/jamie-coleman/"
 Website = ""
-Twitter = "https://twitter.com/Jamie_Lee_C"
+Twitter = "Jamie_Lee_C"
 image = "jamie-lee-coleman.png"
 type = "speaker"
 linktitle = "jamie-lee-coleman"
