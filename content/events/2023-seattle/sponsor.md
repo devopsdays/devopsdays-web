@@ -109,3 +109,4 @@ The best thing to do is send engineers to interact with the experts at devopsday
   Sponsors are responsible for providing high-res logos for use on the website and in promotional materials.  The preferred file formats are EPS or AI.
   <br/><br/>
 </div>
+</div>
