@@ -73,7 +73,7 @@ sponsors:
   - id: acorn
     level: gold
   - id: fastly
-    level: bronze
+    level: gold
   - id: phoenixnap_intel
     level: gold
   - id: americanairlines
@@ -82,6 +82,10 @@ sponsors:
     level: silver
   - id: harness
     level: silver
+  - id: fastly
+    level: coffee
+  - id: harness
+    level: snack
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -102,6 +106,10 @@ sponsor_levels:
     label: Community
   - id: media
     label: Media
+  - id: coffee
+    label: All Day Coffee
+  - id: snack
+    label: Snacks
 program:
   - title: "Registration, Breakfast, Sponsors"
     type: custom
