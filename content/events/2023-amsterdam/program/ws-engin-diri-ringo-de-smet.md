@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "How To Build A Production Ready Kubernetes"
 Type = "talk"
-Speakers = ["engin-diri"]
+Speakers = ["engin-diri", "ringo-de-smet"]
 +++
 Let's Build A Production Ready Kubernetes!
 
