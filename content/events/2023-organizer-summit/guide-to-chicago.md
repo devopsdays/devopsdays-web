@@ -91,6 +91,7 @@ Tavern style - This is what "true" Chicago folks like for their pizza. It’s th
 Hotdogs - Mustard, onions, neon green relish, pickle, tomato, peppers, and celery salt… oh, and there is a hotdog in there somewhere. Just don’t ask for or add ketchup! Pro-tip: If you feel like the condiment to hotdog ratio isn’t to your liking, many places can put 2 hotdogs in the bun.
 
 Devil Dawgs - They do a solid Chicago-style hotdog, but they also offer it with their namesake devil dawg (a spicier hot dog)
+
 Portillo’s - a Chicago institution, locations everywhere.
 
 Polish sausage - Chicago has historically had an amazing community of Polish immigrants and they make amazing sausages. Unlike the Chicago-style hotdog, Polish are typically served simply with mustard and grilled onions.
