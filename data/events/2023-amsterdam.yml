@@ -144,6 +144,9 @@ sponsors:
   # Coffee
   - id: greater-bv
     level: coffee
+  # Tshirt
+  - id: googlecloud
+    level: tshirt
   # Gold
   - id: github
     level: gold
@@ -158,6 +161,8 @@ sponsors:
   - id: zesty
     level: gold
   - id: luminis
+    level: gold
+  - id: cegeka
     level: gold
   # Lanyard
   - id: schubergphilis
@@ -182,6 +187,8 @@ sponsors:
     level: silver
   - id: sysdig
     level: silver
+  - id: appvia
+    level: silver
   # Bronze
   - id: raftech
     level: bronze
@@ -201,6 +208,9 @@ sponsor_levels:
     max: 1
   - id: coffee
     label: Coffee
+    max: 1
+  - id: tshirt
+    label: T-Shirt
     max: 1
   - id: gold
     label: Gold
@@ -368,7 +378,7 @@ program:
     end_time: "17:00"
     comments: "Studio"
 
-  - title: "ws-engin-diri"
+  - title: "ws-engin-diri-ringo-de-smet"
     type: workshop
     date: 2023-06-21T00:00:00+02:00
     start_time: "15:00"

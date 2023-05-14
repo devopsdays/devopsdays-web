@@ -2,7 +2,7 @@
 Title = "Andrew Zigler"
 Linkedin = "https://www.linkedin.com/in/andrewzigler/"
 Website = ""
-Twitter = "https://twitter.com/andrewzigler"
+Twitter = "andrewzigler"
 image = "andrew-zigler.jpeg"
 type = "speaker"
 linktitle = "andrew-zigler"

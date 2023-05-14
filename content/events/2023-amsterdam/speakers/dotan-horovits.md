@@ -2,7 +2,7 @@
 Title = "Dotan Horovits"
 Linkedin = "https://www.linkedin.com/in/horovits/"
 Website = ""
-Twitter = "https://twitter.com/horovits"
+Twitter = "horovits"
 image = "dotan-horovits.jpg"
 type = "speaker"
 linktitle = "dotan-horovits"
