@@ -7,6 +7,9 @@ Description = "Sponsor DevOpsDays Indianapolis 2023"
 We greatly value sponsors for this open event. If you are interested in
 sponsoring, please drop us an email at [{{< email_organizers >}}].
 
+Please see [this sponsor prospectus](https://assets.devopsdays.org/events/2023/indianapolis/prospectus.pdf)
+for details about sponsoring.
+
 <hr>
 
 DevOpsDays Indianapolis is a self-organizing conference for

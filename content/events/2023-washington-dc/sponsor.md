@@ -15,8 +15,8 @@ We expect over 270 attendees based on venue capacity and past participation, and
 
 DevOpsDays DC does not share registration information directly with sponsors, but feel free to ask attendees for their contact details. 
 
-<!-- **Reserving and paying for your sponsorship**: Please use the PayPal links below, or email the organizers at {{< email_organizers >}} for alternate payment forms, or with any questions. -->
-**Reserving and paying for your sponsorship**: Email the organizers at {{< email_organizers >}} for payment processing, or with any questions.
+<!-- **Reserving and paying for your sponsorship**: Please use the PayPal links below, or email the organizers at sponsors@devopsdaysdc.org for alternate payment forms, or with any questions. -->
+**Reserving and paying for your sponsorship**: Email the organizers at sponsors@devopsdaysdc.org for payment processing, or with any questions.
 
 The following chart outlines our standard sponsorship packages.
 
@@ -48,6 +48,7 @@ The following chart outlines our standard sponsorship packages.
   <tr class="hed1">
     <td><strong>Packages</strong></td>
     <td><strong>Platinum</strong></td>
+    <td><strong>Gold</strong></td>
     <td><strong>Silver</strong></td>
   </tr>
   <tr class="hed2">
@@ -62,6 +63,15 @@ The following chart outlines our standard sponsorship packages.
         <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
         <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
       </form>
+    </td>
+    <td><strong>$3,500 USD</strong>
+      <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+        <input type="hidden" name="cmd" value="_s-xclick">
+        <input type="hidden" name="hosted_button_id" value="WCG86MGP8GJCU">
+        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+       <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+      </form>
+    </td>
       <td><strong>$2,000 USD</strong>
       <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
         <input type="hidden" name="cmd" value="_s-xclick">
@@ -73,11 +83,13 @@ The following chart outlines our standard sponsorship packages.
   </tr>
     <tr>
     <td>Available sponsorships</td>
-      <td class="yes"><strong>12</strong></td>
+      <td class="yes"><strong>10</strong></td>
+      <td class="yes"><strong>4</strong></td>
       <td class="yes"><strong>6</strong></td>
   </tr>
   <tr>
     <td>Logo on shared slide, rotating during breaks</td>
+    <td class="yes">&#9989;</td>
     <td class="yes">&#9989;</td>
     <td class="yes">&#9989;</td>
   </tr>
@@ -85,33 +97,53 @@ The following chart outlines our standard sponsorship packages.
     <td>Logo on DevOpsDays DC 2023 event website</td>
     <td class="yes">&#9989;</td>
     <td class="yes">&#9989;</td>
+    <td class="yes">&#9989;</td>
   </tr>
   <tr>
     <td>Mentioned on all email communication</td>
     <td class="yes">&#9989;</td>
     <td class="yes">&#9989;</td>
+    <td class="yes">&#9989;</td>
+  </tr>
+  <tr>
+    <td>Full table for swag/marketing during conference (3 seats)</td>
+    <td class="yes">&#9989;</td>
+    <td class="no"> </td>
+    <td class="no"> </td>
+  </tr>
+  <tr>
+    <td>Table shared with one other Gold sponsors</td>
+    <td class="no"> </td>
+    <td class="yes">&#9989;</td>
+    <td class="no"> </td>
   </tr>
   <tr>
     <td>Shared table for swag/marketing during conference (no seat)</td>
     <td class="no"> </td>
-    <td class="yes">&#9989;</td>
-  </tr>
-    <td>Full table for swag/marketing during conference (3 seats)</td>
-    <td class="yes">&#9989;</td>
     <td class="no"> </td>
+    <td class="yes">&#9989;</td>
   </tr>
   <tr>
     <td>1 minute personal pitch to full audience</td>
+    <td class="yes">&#9989;</td>
+    <td class="no"> </td>
+    <td class="no"> </td>
+  </tr>
+  <tr>
+    <td>1/2 minute personal pitch to full audience</td>
+    <td class="no"> </td>
     <td class="yes">&#9989;</td>
     <td class="no"> </td>
   </tr>
   <tr>
     <td>15 second pitch (scripted) delivered by event M.C.</td>
     <td class="no"> </td>
+    <td class="no"> </td>
     <td class="yes">&#9989;</td>
   <tr>
     <td>Included event tickets</td>
     <td class="yes">4</td>
+    <td class="yes">2</td>
     <td class="yes">1</td>
   </tr>
   </tbody>
@@ -141,6 +173,15 @@ Refunds: Full sponsor refunds are available until 6/1/2023. Sponsor refunds betw
 * 1 minute pitch to full audience <!-- including streaming audience (provided we are able to stream the videos) -->
 * 4 included tickets
 * Full table for swag/marketing/staffing. (A/V ability TBD).
+
+### Gold - Price $3,500 USD
+
+* The "All sponsorhip" benefits
+* 1/2 minute pitch to full audience <!-- including streaming audience (provided we are able to stream the videos) -->
+* 2 included tickets
+* Table shared with another sponsor
+  * Please let us know if you want help "matchmaking" with another Gold sponsor
+  * Due to space limitations, we can only accept sponsor pairs at this tier
 
 ### Silver - Price $2,000 USD
 
@@ -182,6 +223,6 @@ We also offer community sponsorships. This is not a paid sponsorship. Instead, t
 
 Sponsors are granted one comp ticket, a discount code to promote within their community, Twitter/Fediverse and LinkedIn mentions, and your icon on our website and slides.
 
-Please reach out to {{< email_organizers >}} to set up this relationship. 
+Please reach out to sponsors@devopsdaysdc.org to set up this relationship. 
 
 <hr/>

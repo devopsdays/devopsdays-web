@@ -75,7 +75,7 @@
 /new-york-city/*	/events/2021-new-york-city/:splat	302
 /new-zealand/*		/events/2019-auckland/:splat		302
 /newcastle/*		/events/2018-newcastle/:splat		302
-/oslo/*			/events/2022-oslo/:splat		302
+/oslo/*			/events/2023-oslo/:splat		302
 /paris/*		/events/2021-paris/:splat		302
 /philadelphia/*		/events/2020-philadelphia/:splat	302
 /phoenix/*		/events/2023-phoenix/:splat		302
@@ -114,6 +114,7 @@
 /vancouver/*		/events/2020-vancouver/:splat		302
 /victoria/*		/events/2019-victoria/:splat		302
 /vitoria/*		/events/2022-vitoria/:splat		302
+/vilnius/*            /events/2023-vilnius/:splat           302
 /warsaw/*		/events/2022-warsaw/:splat		302
 /washington-dc/*	/events/2022-washington-dc/:splat	302
 /zaragoza/*		/events/2020-zaragoza/:splat		302

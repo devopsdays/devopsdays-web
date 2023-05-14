@@ -6,7 +6,7 @@ Description = "Sponsor devopsdays Buffalo 2023"
 
 We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at {{< email_organizers >}}.
 <p>
-<b>Check out our <a href="/events/2022-buffalo/prospectus.pdf" target="_blank">prospectus</a> for sponsorship options! </b>
+<b>Check out our <a href="https://assets.devopsdays.org/events/2023/buffalo/BuffaloDoDProspectus23.pdf" target="_blank">prospectus</a> for sponsorship options! </b>
 <p>
 
 <hr>

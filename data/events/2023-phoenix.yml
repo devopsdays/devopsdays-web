@@ -35,18 +35,17 @@ location: "Phoenix" # Defaults to city, but you can make it the venue name.
 location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+  # - name: propose
  # - name: location
   - name: registration
- # - name: program
-  # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
-
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
@@ -74,7 +73,19 @@ sponsors:
   - id: acorn
     level: gold
   - id: fastly
-    level: bronze
+    level: gold
+  - id: phoenixnap_intel
+    level: gold
+  - id: americanairlines
+    level: gold
+  - id: gitlab
+    level: silver
+  - id: harness
+    level: silver
+  - id: fastly
+    level: coffee
+  - id: harness
+    level: snack
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -95,3 +106,121 @@ sponsor_levels:
     label: Community
   - id: media
     label: Media
+  - id: coffee
+    label: All Day Coffee
+  - id: snack
+    label: Snacks
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2023-05-25
+    start_time: "08:00"
+    end_time: "09:00"
+
+  - title: "Opening Welcome"
+    type: custom
+    date: 2023-05-25
+    start_time: "09:00"
+    end_time: "09:15"
+
+  - title: "andrew-clay-shafer"
+    type: talk
+    date: 2023-05-25
+    start_time: "09:15"
+    end_time: "10:00"
+
+  - title: "ginger-grant"
+    type: talk
+    date: 2023-05-25
+    start_time: "10:00"
+    end_time: "10:45"
+
+  - title: "Sponsors"
+    type: custom
+    date: 2023-05-25
+    start_time: "10:45"
+    end_time: "10:50"
+
+  - title: "Break & Sponsor Hall"
+    type: custom
+    date: 2023-05-25
+    start_time: "10:50"
+    end_time: "11:10"
+
+  - title: "karl-haworth"
+    type: talk
+    date: 2023-05-25
+    start_time: "11:10"
+    end_time: "11:25"
+
+  - title: "victor-hernandez"
+    type: talk
+    date: 2023-05-25
+    start_time: "11:25"
+    end_time: "11:40"
+
+  - title: "Sponsors"
+    type: custom
+    date: 2023-05-25
+    start_time: "11:40"
+    end_time: "11:45"
+
+  - title: "Recap/Afternoon plan"
+    type: custom
+    date: 2023-05-25
+    start_time: "11:45"
+    end_time: "12:00"
+
+  - title: "Lunch & Sponsor Hall"
+    type: custom
+    date: 2023-05-25
+    start_time: "12:00"
+    end_time: "13:00"
+
+  - title: "kishore-jalleda"
+    type: talk
+    date: 2023-05-25
+    start_time: "13:00"
+    end_time: "13:45"
+
+  - title: "baruch-sadogursky"
+    type: talk
+    date: 2023-05-25
+    start_time: "13:45"
+    end_time: "14:00"
+
+  - title: "anthony-baer"
+    type: talk
+    date: 2023-05-25
+    start_time: "14:00"
+    end_time: "14:15"
+
+  - title: "Break & Sponsor Hall"
+    type: custom
+    date: 2023-05-25
+    start_time: "14:15"
+    end_time: "14:35"
+
+  - title: "Open Space Opening"
+    type: custom
+    date: 2023-05-25
+    start_time: "14:35"
+    end_time: "15:00"
+
+  - title: "Open Space #1"
+    type: open-space
+    date: 2023-05-25
+    start_time: "15:00"
+    end_time: "15:30"
+
+  - title: "Open Space #2"
+    type: open-space
+    date: 2023-05-25
+    start_time: "15:30"
+    end_time: "16:00"
+  
+  - title: "Open Space #3"
+    type: open-space
+    date: 2023-05-25
+    start_time: "16:00"
+    end_time: "16:30"

@@ -1,7 +1,7 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_date = "2023-05-20"
+Talk_start_time = "14:15"
+Talk_end_time = "14:45"
 Title = "Engenharia do Caos com o AWS FIS"
 Type = "talk"
 Speakers = ["edson-marques"]

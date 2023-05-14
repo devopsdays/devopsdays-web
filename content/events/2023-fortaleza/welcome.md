@@ -44,9 +44,9 @@ Description = "devopsdays Fortaleza 2023"
       <div class="col-md-2">
         <strong>Sponsors</strong>
       </div>
-      <!-- <div class="col-md-6">
-        {{< event_link page="sponsor" text="Apoiei o Devopsdays Fortaleza 2023!" >}}
-      </div> -->
+      <div class="col-md-6">
+        {{< event_link page="sponsor" text="Apoie o Devopsdays Fortaleza 2023!" >}}
+      </div>
     </div>
     <div class="row">
       <div class="col-md-2">

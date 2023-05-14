@@ -5,6 +5,12 @@ aliases = ["/events/2023-indianapolis/"]
 Description = "devopsdays indianapolis 2023"
 +++
 
+<div style="text-align: center;">
+  <h4>
+    <a href="/events/2023-indianapolis/propose">CFP Deadline has been extended to June 1st!  Please send us your talk proposal! </a>
+  </h4>
+</div>
+
 <div style="text-align:center;">
   {{< event_logo >}}
 </div> 

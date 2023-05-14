@@ -121,6 +121,9 @@ sponsors:
   - id: inuits
     level: bronze
     url: "https://inuits.eu/"
+  - id: lmc
+    level: bronze
+    url: "https://www.lmc.eu/en/"
   - id: pure-storage
     level: lanyard
     url: "https://www.purestorage.com/company/careers/opportunities.html"
@@ -135,6 +138,12 @@ sponsors:
   - id: czechitas
     level: community
     url: "https://www.czechitas.cz/en/" 
+  - id: talkweb
+    level: community
+    url: "https://talkweb.eu" 
+  - id: purple_technology
+    level: community
+    url: "https://www.purple-technology.com" 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -213,23 +222,23 @@ program:
   - title: "attendee-suggested breakout discussions - Open Space #2"
     type: open-space
     date: 2023-05-22
-    start_time: "15:25"
-    end_time: "16:10"
+    start_time: "15:20"
+    end_time: "16:05"
   - title: "attendee-suggested breakout discussions - Open Space #3"
     type: open-space
     date: 2023-05-22
-    start_time: "16:20"
-    end_time: "17:05"
+    start_time: "16:10"
+    end_time: "16:55"
   - title: "First day summary"
     type: custom
     date: 2023-05-22
-    start_time: "17:10"
-    end_time: "17:20"    
+    start_time: "17:00"
+    end_time: "17:10"    
   - title: "Evening event"
     type: custom
     date: 2023-05-22
-    start_time: "17:25"
-    end_time: "late"
+    start_time: "17:10"
+    end_time: "?"
 
   - title: "Registration, Breakfast, Sponsors"
     type: custom
@@ -279,32 +288,32 @@ program:
     type: open-space
     date: 2023-05-23
     start_time: "13:45"
-    end_time: "14:20"
+    end_time: "14:15"
   - title: "attendee-suggested breakout discussions - Open Space #1"
     type: open-space
     date: 2023-05-23
-    start_time: "14:20"
-    end_time: "15:05"
+    start_time: "14:15"
+    end_time: "15:00"
   - title: "attendee-suggested breakout discussions - Open Space #2"
     type: open-space
     date: 2023-05-23
-    start_time: "15:15"
-    end_time: "16:00"
+    start_time: "15:05"
+    end_time: "15:50"
   - title: "attendee-suggested breakout discussions - Open Space #3"
     type: open-space
     date: 2023-05-23
-    start_time: "16:10"
-    end_time: "16:55"
+    start_time: "15:55"
+    end_time: "16:40"
   - title: "Closing Ceremony"
     type: custom
     date: 2023-05-23
-    start_time: "17:00"
-    end_time: "17:15"
+    start_time: "16:45"
+    end_time: "17:00"
 
 ignites:
   - title: "piet-vandongen"
     date: 2023-05-22
-  - title: "martyn-kilbryde"
+  - title: "wojciech-gawronski"
     date: 2023-05-22
   - title: "kris-buytaert"
     date: 2023-05-22
@@ -312,11 +321,15 @@ ignites:
     date: 2023-05-22
   - title: "jan-kopriva"
     date: 2023-05-22
+  - title: "martyn-kilbryde"
+    date: 2023-05-23
   - title: "oleksii-kraievyi"
+    date: 2023-05-23
+  - title: "martin-hauskrecht"
     date: 2023-05-23
   - title: "philipp-krenn"
     date: 2023-05-23
-  - title: "tomas-kubica"
+  - title: "martin-odstrcilik"
     date: 2023-05-23
-  - title: "wojciech-gawronski"
+  - title: "tomas-kubica"
     date: 2023-05-23
