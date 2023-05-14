@@ -203,9 +203,9 @@ sponsors:
   # - id: elevenworks
   #   level: platinum
   #   url: https://elven.works/
-  # - id: linuxtips
-  #   level: silver
-  #   url: https://www.linuxtips.io/
+  - id: linuxtips
+    level: community
+    url: https://www.linuxtips.io/
   # - id: forja
   #   level: silver
   #   url: https://techleadership.rocks
