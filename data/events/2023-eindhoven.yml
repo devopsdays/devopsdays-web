@@ -75,6 +75,12 @@ team_members: # Name is the only required field for team members.
     github: "imilchev"
     image: "ivan.jpeg"
 
+  - name: "Niek Palm"
+    linkedin: "https://www.linkedin.com/in/niekpalm/"
+    github: "npalm"
+    website: "https://040code.github.io"
+    image: "niekpalm.jpeg"
+
   # not-local to Eindhoven but also helping Eindhoven.
   - name: "Harm Boertien"
     twitter: "Harm_Ops"
