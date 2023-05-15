@@ -1,5 +1,5 @@
 +++
-Title = "Dr. Tapabrata (Topo) Pal"
+Title = "Dr. Tapabrata \"Topo\" Pal"
 Twitter = "TopoPal"
 Linkedin = "https://www.linkedin.com/in/tapabratapal/"
 Github = "tabladrum"
@@ -8,4 +8,4 @@ type = "speaker"
 linktitle = "topo-pal"
 +++
 
-Dr. Tapabrata (Topo) Pal is a thought leader, and evangelist in the areas of DevSecOps, Continuous Delivery, Cloud Computing, Open Source Adoption and Digital Transformation. He is a hands-on developer and Open Source contributor. Topo has been leading and contributing to industry initiatives around automated governance in DevOps practices. Topo resides in Richmond, Virginia with his wife and two children.
+Tapabrata "Topo" Pal is a thought leader, keynote speaker, evangelist in the areas of DevSecOps, Continuous Delivery, Cloud Computing, Open Source Adoption and Digital Transformation. Topo is currently a Vice President of Architecture at Fidelity Investments. Prior to joining Fidelity, Topo spent 10 years at Capital One where he was a key player in the company’s DevOps and Cloud journey. Topo is a programming committee member of DevOps Enterprise Summit (US, EU). Topo is also a co-author of Investments Unlimited: A Novel About DevOps, Security, Audit Compliance, and Thriving in the Digital Age published by ITRevolution.
