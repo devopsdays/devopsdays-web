@@ -1,9 +1,9 @@
 +++
 City = "Eindhoven"
-Year = "2022"
+Year = "2023"
 Title = "Location"
 Type = "event"
-Description = "Location for devopsdays Eindhoven 2022"
+Description = "Location for devopsdays Eindhoven 2023"
 +++
 
 ### Conference Location

@@ -1,9 +1,9 @@
 +++
 Title = "Registration"
 Type = "event"
-Description = "Registration for devopsdays Eindhoven 2022"
+Description = "Registration for devopsdays Eindhoven 2023"
 +++
-<link rel="stylesheet" type="text/css" href="https://tix.devops.foundation/devopsdays-eindhoven/2022/widget/v1.css">
+<link rel="stylesheet" type="text/css" href="https://tix.devops.foundation/devopsdays-eindhoven/2023/widget/v1.css">
 <script type="text/javascript" src="https://tix.devops.foundation/widget/v1.en.js" async></script>
 
 <div style="width:100%; text-align:left;">
@@ -13,11 +13,11 @@ Description = "Registration for devopsdays Eindhoven 2022"
 </div>
 <br>
 <br>
-<pretix-widget event="https://tix.devops.foundation/devopsdays-eindhoven/2022/"></pretix-widget>
+<pretix-widget event="https://tix.devops.foundation/devopsdays-eindhoven/2023/"></pretix-widget>
 <noscript>
    <div class="pretix-widget">
         <div class="pretix-widget-info-message">
-            JavaScript is disabled in your browser. To access our ticket shop without JavaScript, please <a target="_blank" rel="noopener" href="https://tix.devops.foundation/devopsdays-eindhoven/2022/">click here</a>.
+            JavaScript is disabled in your browser. To access our ticket shop without JavaScript, please <a target="_blank" rel="noopener" href="https://tix.devops.foundation/devopsdays-eindhoven/2023/">click here</a>.
         </div>
     </div>
 </noscript>

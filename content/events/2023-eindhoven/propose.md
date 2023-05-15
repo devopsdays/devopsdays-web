@@ -1,13 +1,13 @@
 +++
 Title = "Propose"
 Type = "event"
-Description = "Propose a talk for devopsdays Eindhoven 2022"
+Description = "Propose a talk for devopsdays Eindhoven 2023"
 +++
   {{< cfp_dates >}}
 
 <hr>
 
-<strong>Submit a proposal via <a href="https://sessionize.com/devopsdays-eindhoven-2022/">Sessionize</a> @ https://sessionize.com/devopsdays-eindhoven-2022/</strong> 
+<!-- <strong>Submit a proposal via <a href="https://sessionize.com/devopsdays-eindhoven-2022/">Sessionize</a> @ https://sessionize.com/devopsdays-eindhoven-2022/</strong> 
 
 <hr>
 
@@ -31,4 +31,4 @@ Choosing talks is part art, part science; here are some factors we consider when
 
 <hr>
 
-<strong>Submit a proposal via <a href="https://sessionize.com/devopsdays-eindhoven-2022/">Sessionize</a> @ https://sessionize.com/devopsdays-eindhoven-2022/</strong> 
+<strong>Submit a proposal via <a href="https://sessionize.com/devopsdays-eindhoven-2023/">Sessionize</a> @ https://sessionize.com/devopsdays-eindhoven-2022/</strong>  -->

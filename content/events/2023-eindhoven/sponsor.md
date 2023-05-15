@@ -1,12 +1,12 @@
 +++
 Title = "Sponsor"
 Type = "event"
-Description = "Sponsor devopsdays Eindhoven 2022"
+Description = "Sponsor devopsdays Eindhoven 2023"
 +++
 
 <h5>
 <p>devopsdays is made possible by our sponsors. If you are interested in joining our band of supporters, please drop us an email at [{{< email_organizers >}}].</p>
-<p><a href="https://assets.devopsdays.org/events/2022/eindhoven/2022_prospectus_eindhoven.pdf">A downloadable version of our prospectus is available here.</a></p>
+<p><a href="https://assets.devopsdays.org/events/2023/eindhoven/2023_prospectus_eindhoven.pdf">A downloadable version of our prospectus is available here.</a></p>
 </h5>
 
 <hr>

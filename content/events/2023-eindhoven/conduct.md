@@ -1,7 +1,7 @@
 +++
 Title = "Conduct"
 Type = "event"
-Description = "Code of conduct for devopsdays Eindhoven 2022"
+Description = "Code of conduct for devopsdays Eindhoven 2023"
 +++
 
 All attendees, speakers, sponsors, and volunteers at devopsdays Eindhoven 2022 are required to agree with the following code of conduct. Organizers will enforce this code throughout the event. We're expecting cooperation from all participants to help ensure a safe environment for everybody.
@@ -27,4 +27,4 @@ We're happy to help participants contact hotel/venue security or local law enfor
 
 We expect participants to follow these rules at conference and workshop venues and conference-related social events.
 
-_The devopsdays Eindhoven 2022 Code of Conduct is based on [confcodeofconduct.com](https://confcodeofconduct.com)._ 
+_The devopsdays Eindhoven 2023 Code of Conduct is based on [confcodeofconduct.com](https://confcodeofconduct.com)._ 

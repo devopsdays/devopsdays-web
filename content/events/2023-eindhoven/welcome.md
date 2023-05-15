@@ -1,8 +1,8 @@
 +++
-Title = "devopsdays Eindhoven 2022"
+Title = "devopsdays Eindhoven 2023"
 Type = "welcome"
-aliases = ["/events/2022-eindhoven/"]
-Description = "devopsdays Eindhoven 2022 will take place October 20-21, 2022"
+aliases = ["/events/2023-eindhoven/"]
+Description = "devopsdays Eindhoven 2023 will take place October 11-12, 2023"
 +++
 
 <div style="text-align:center;">
@@ -81,41 +81,41 @@ Description = "devopsdays Eindhoven 2022 will take place October 20-21, 2022"
   </div>
 </div>
 
-<div class="container">
+<!-- <div class="container">
   <div class="row">
     <div class="col-md-12">
       <div class="row justify-content-center">
         <div class="d-flex p-2">
           <a class="btn btn-primary btn-block"
             style="margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;"
-            href="/events/2022-eindhoven/sponsor">
+            href="/events/2023-eindhoven/sponsor">
             <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference
           </a>
         </div>
         <div class="d-flex p-2">
           <a class="btn btn-primary btn-block"
             style="margin-top: 10px; margin-bottom: 10px; background-color: #e59049; border-color: #e59049;"
-            href="/events/2022-eindhoven/registration">
+            href="/events/2023-eindhoven/registration">
             <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Buy a ticket
           </a>
         </div>
         <div class="d-flex p-2">
           <a class="btn btn-primary btn-block"
             style="margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;"
-            href="/events/2022-eindhoven/contact">
+            href="/events/2023-eindhoven/contact">
             <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Contact the Organizers
           </a>
         </div>
       </div>
     </div>
-  </div>
+  </div> -->
   <div class="row">
     <div class="col-12">
       From fledgling startups to established industry, The Netherlands is home to a large, vibrant technology community. Eindhoven, in particular, has been a flurry of activity in the past several years, drawing attention from around the globe.
       <br><br>
       devopsdays Eindhoven brings development, operations, QA, InfoSec, management, and leadership together to discuss the culture and tools to make better organizations and products. 
       <br><br>
-      We expect 250 people this year and will be holding the event on October 20-21, 2022 at the <a href="/events/2022-Eindhoven/location">High Tech Campus Eindhoven</a>. Attendees will be required to follow local government policies & mandates regarding vaccination status & ability to attend.
+      We expect 250 people this year and will be holding the event on October 11-12, 2023 at the <a href="/events/2023-Eindhoven/location">High Tech Campus Eindhoven</a>. Attendees will be required to follow local government policies & mandates regarding vaccination status & ability to attend.
       <br><br>
       The format of devopsdays Eindhoven includes a single track of 30 minute talks in the morning of each event, followed by Ignite talks (5 minute, auto forwarding). We spend the rest of the afternoon in Open Spaces, which are considered a key portion of the event. For those not interested in the Open Spaces, we continue offering the single track around a specific theme (previously around Security and HumanOps).
     </div>
