@@ -2,7 +2,7 @@
 Title = "Dr. Tapabrata (Topo) Pal"
 Twitter = "TopoPal"
 Linkedin = "https://www.linkedin.com/in/tapabratapal/"
-Github = "github.com/tabladrum"
+Github = "tabladrum"
 image = "topo-pal.jpg"
 type = "speaker"
 linktitle = "topo-pal"
