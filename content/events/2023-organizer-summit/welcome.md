@@ -97,11 +97,11 @@ Virtual attendance is available for those who cannot attend in person.
   </div>
 </div>
 <hr>
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-12">
-    <h2>FAQs</h2<>
+    <h2><A href = "/events/2023-organizer-summit/guide-to-chicago">Guide to Chicago</a></h2<>
   </div>
-</div> -->
+</div>
 
 <!-- Uncomment if you added your city twitter name -->
 <!--
