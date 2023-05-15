@@ -61,6 +61,7 @@ team_members: # Name is the only required field for team members.
     image: "joep.png"
 
   - name: "Jos van Schouten"
+    pronouns: "he/him"
     linkedin: "https://www.linkedin.com/in/josvanschouten"
     twitter: "josvanschouten"
     image: "jos.png"
@@ -89,6 +90,7 @@ team_members: # Name is the only required field for team members.
     image: harm.jpeg
 
   - name: "Daniel Paulus"
+    pronouns: "he/him"
     linkedin: "https://www.linkedin.com/in/danielpaulus/"
     twitter: "PaulusTM"
     github: "PaulusTM"
@@ -96,6 +98,7 @@ team_members: # Name is the only required field for team members.
     image: "daniel.jpg"
 
   - name: "Floor Drees"
+    pronouns: "she/her"
     linkedin: "https://www.linkedin.com/in/floordrees/"
     twitter: "FloorDrees"
     github: "FloorD"
