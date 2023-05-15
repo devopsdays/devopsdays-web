@@ -1,13 +1,21 @@
 +++
+City = "Eindhoven"
+Year = "2022"
 Title = "Location"
 Type = "event"
-Description = "Location for devopsdays Eindhoven 2023"
+Description = "Location for devopsdays Eindhoven 2022"
 +++
 
-Watch this space for information about the venue including address, map/direction, parking/transit, and any hotel details.
+### Conference Location
 
-<!-- Uncomment this only if you have set the coordinates for your location in the config yaml. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html -->
-<!-- {{< event_map >}} -->
+The conference is located at [High Tech Campus](https://www.hightechcampus.com/ "Website of High Tech Campus")
+
+High Tech Campus 1b
+5656 AE Eindhoven
+The Netherlands
+
+<!-- Uncomment this only if you have set the coordinates for your location in the config yaml. Get Latitude and Longitude of a Point: https://www.latlong.net/ -->
+{{< event_map >}}
 
 <!-- Edit and uncomment to let people know what accessibility features you have available -->
 <!-- 
