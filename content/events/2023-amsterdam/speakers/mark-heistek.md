@@ -2,7 +2,7 @@
 Title = "Mark Heistek"
 Linkedin = "https://www.linkedin.com/in/markheistek/"
 Website = ""
-Twitter = "https://twitter.com/MarkHeistek"
+Twitter = "MarkHeistek"
 image = "mark-heistek.jpg"
 type = "speaker"
 linktitle = "mark-heistek"

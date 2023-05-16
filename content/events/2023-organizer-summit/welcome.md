@@ -18,6 +18,12 @@ Description = "devopsdays Organizer Summit 2023"
     </div>
  </div>
 
+ <div class = "row">
+  <div class = "col-md-6 push-md-6">
+   <img src = "../banner.png">
+  </div>
+</div>
+
 The devopsdays Organizer Summit 2023 is a one-day event for organizers of devopsdays events. It is a chance to meet other organizers, share ideas, and learn from each other. It takes place the day before [devopsdays Chicago](https://devopsdays.org/chicago), and the ticket is a free add-on to registration for that event.
 
 We will spend the day with short talks from other organizers, Open Spaces, and more!
@@ -97,11 +103,11 @@ Virtual attendance is available for those who cannot attend in person.
   </div>
 </div>
 <hr>
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-12">
-    <h2>FAQs</h2<>
+    <h2><A href = "/events/2023-organizer-summit/guide-to-chicago">Guide to Chicago</a></h2<>
   </div>
-</div> -->
+</div>
 
 <!-- Uncomment if you added your city twitter name -->
 <!--

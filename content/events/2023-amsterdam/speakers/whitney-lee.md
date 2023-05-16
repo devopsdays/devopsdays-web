@@ -2,7 +2,7 @@
 Title = "Whitney Lee"
 Linkedin = "https://www.linkedin.com/in/whitneylee/"
 Website = ""
-Twitter = "https://twitter.com/wiggitywhitney"
+Twitter = "wiggitywhitney"
 image = "whitney-lee.jpg"
 type = "speaker"
 linktitle = "whitney-lee"
