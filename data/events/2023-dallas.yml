@@ -182,6 +182,8 @@ sponsors:
   #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: liatrio
     level: platinum
+  - id: zealit
+    level: gold
   - id: redgate
     level: silver
   - id: devopslive
