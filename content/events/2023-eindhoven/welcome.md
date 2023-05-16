@@ -27,14 +27,14 @@ Description = "devopsdays Eindhoven 2023 will take place October 11-12, 2023"
   </div>
 </div>
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="registration" text="Register to attend the conference!" >}}
   </div>
-</div>
+</div> -->
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -45,7 +45,7 @@ Description = "devopsdays Eindhoven 2023 will take place October 11-12, 2023"
   </div>
 </div> -->
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
   </div>
@@ -70,7 +70,7 @@ Description = "devopsdays Eindhoven 2023 will take place October 11-12, 2023"
   <div class = "col-md-8">
     {{< event_link page="sponsor" text="Sponsor the conference!" >}}
   </div>
-</div>
+</div> -->
 
 <div class = "row">
   <div class = "col-md-2">
@@ -122,7 +122,7 @@ Description = "devopsdays Eindhoven 2023 will take place October 11-12, 2023"
   </div>
 </div>
 
-<div class="row">
+<!-- <div class="row">
   <div class="col-md-12">
     <div class="row">
       <div class="alert alert-secondary" role="alert">
@@ -132,7 +132,7 @@ Description = "devopsdays Eindhoven 2023 will take place October 11-12, 2023"
       </div>
     </div>
   </div>
-</div>
+</div> -->
 
 
 <!-- Uncomment if you added your city twitter name -->
