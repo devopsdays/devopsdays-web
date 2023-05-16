@@ -44,6 +44,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: sponsor
   - name: contact
   - name: conduct
+  - name: volunteer
   - name: Health and Safety Policy
     url: /events/2023-chicago/covid
   - name: Guide to Chicago
