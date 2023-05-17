@@ -32,7 +32,7 @@ Description = "devopsdays Recife 2023"
         <strong>Contato</strong>
       </div>
       <div class = "col-md-6">
-        {{< event_link page="contato" text="Entre em contato com os organizadores" >}}
+        {{< event_link page="contact" text="Entre em contato com os organizadores" >}}
       </div>
     </div>
     <div class="row">
