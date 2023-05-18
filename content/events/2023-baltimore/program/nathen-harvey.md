@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "The State of DevOps - Capabilities for Building High-performing Technology Teams"
 Type = "talk"
-Speakers = ["nathen-harvey"]
+Speakers = ["nathen-harvey","nate-avery"]
 
 +++
 
