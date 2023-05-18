@@ -82,6 +82,12 @@ team_members: # Name is the only required field for team members.
     website: "https://040code.github.io"
     image: "niekpalm.jpeg"
 
+  - name: "Niek Heezemans"
+    linkedin: "https://www.linkedin.com/in/niek-heezemans/"
+    github: "niekheezemans"
+    website: "https://foreside.nl"
+    image: "niekheezemans.jpeg"
+
   # not-local to Eindhoven but also helping Eindhoven.
   - name: "Harm Boertien"
     twitter: "Harm_Ops"
@@ -109,6 +115,12 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/vikingops/"
     twitter: "vikingopsio"
     image: thomas.png
+
+  - name: "Bas den Uijl"
+    pronouns: "he/him"
+    linkedin: "https://www.linkedin.com/in/basdenuijl/"
+    twitter: "basdenuijl"
+    image: "bas.jpeg"
 
 organizer_email: "eindhoven@devopsdays.org" # Put your organizer email address here
 
