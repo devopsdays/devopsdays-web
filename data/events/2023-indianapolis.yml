@@ -45,7 +45,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
   - name: registration
  # - name: program
- # - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -98,6 +98,8 @@ sponsors:
     level: community
   - id: newrelic
     level: platinum
+  - id: smallstep
+    level: alacarte
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

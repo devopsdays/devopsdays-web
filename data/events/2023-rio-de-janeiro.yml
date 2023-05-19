@@ -124,14 +124,20 @@ sponsors:
   #Platinum
   - id: aws
     level: platinum
+  - id: vmware
+    level: platinum
 
   #Gold 
   - id: harness
+    level: gold
+  - id: elastic
     level: gold
 
   #Silver
 
   #Bronze
+  - id: grafanalabs
+    level: bronze
 
   #Community
   - id: punkdodevops
@@ -141,6 +147,12 @@ sponsors:
   - id: kubecareers
     level: community
   - id: novatec
+    level: community
+  - id: docker-rio
+    level: community
+  - id: linux-professional-institute
+    level: community
+  - id: nerdweek
     level: community
 
 

@@ -2,7 +2,7 @@
 Title = "Anais Urlichs"
 Linkedin = "https://www.linkedin.com/in/urlichsanais/"
 Website = ""
-Twitter = "https://twitter.com/urlichsanais"
+Twitter = "urlichsanais"
 image = "anais-urlichs.png"
 type = "speaker"
 linktitle = "anais-urlichs"

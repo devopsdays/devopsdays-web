@@ -410,7 +410,7 @@ program:
   type: workshop
   date: 2023-05-04
   start_time: '15:00'
-  end_time: '17:00'
+  end_time: '17:15'
 
 - title: olivier-liechti
   type: workshop
@@ -422,7 +422,7 @@ program:
   type: workshop
   date: 2023-05-04
   start_time: '15:00'
-  end_time: '16:30'
+  end_time: '17:15'
 
 - title: Raffle & Closing Day 2
   type: custom

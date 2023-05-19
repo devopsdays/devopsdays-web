@@ -198,7 +198,11 @@ organizer_email: "tel-aviv@devopsdays.org" # Put your organizer email address he
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: scylladb
+    level: diamond
   - id: linearb
+    level: platinum
+  - id: couchbase
     level: platinum
   - id: armosec
     level: gold
@@ -209,8 +213,6 @@ sponsors:
   - id: terasky
     level: gold
   - id: aerospike
-    level: gold
-  - id: rapid
     level: gold
   - id: akeyless
     level: gold
@@ -223,6 +225,12 @@ sponsors:
   - id: quali
     level: gold
   - id: groundcover
+    level: gold
+  - id: circleci
+    level: gold
+  - id: env0
+    level: gold
+  - id: cloudbeat
     level: gold
 
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
@@ -244,14 +252,15 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: diamond
+    label: Diamond
+    max: 1 # This is the same as omitting the max limit.
   - id: platinum
     label: PLatinum
   - id: gold
     label: Gold
 #    max: 10
-#  - id: silver
-#    label: Silver
-#    max: 0 # This is the same as omitting the max limit.
+  #    max: 0 # This is the same as omitting the max limit.
 #  - id: bronze
 #    label: Bronze
   - id: community

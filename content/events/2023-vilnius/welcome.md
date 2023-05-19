@@ -38,6 +38,14 @@ Description = "devopsdays Vilnius 2023"
                 </div>
                 <div class="row">
                     <div class="col-md-2">
+                        <strong>Registration</strong>
+                    </div>
+                    <div class="col-md-8">
+                        <a href="https://fienta.com/devopsdays-vilnius-2023">Register to attend the event</a>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-2">
                         <strong>Sponsors</strong>
                     </div>
                     <div class="col-md-8">

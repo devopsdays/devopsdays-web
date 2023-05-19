@@ -82,6 +82,6 @@ Description = "DevOpsDays Aracaju 2023 will take place May 6, 2023!"
 Participe da 2ª Edição do DevOpsDays Aracaju!
 ===
 
-DevOpsDays acontecerá em Aracaju, na Universidade Tiradentes - Bloco D - auditório Padre Arnóbio, no dia 6 de Maio de 2023! <!--em seu segundo ano! -->
+DevOpsDays acontecerá em Aracaju, na Universidade Tiradentes - Bloco G - Auditório A, no dia 6 de Maio de 2023! <!--em seu segundo ano! -->
 
 <!-- Em breve atualizaremos o portal com datas de submissão de talks e propostas de patrocínio. -->

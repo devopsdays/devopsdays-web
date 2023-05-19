@@ -5,6 +5,7 @@ event_twitter: "devopsdaysjf" # Change this to the twitter handle for your event
 description: "DevOpsDays em Juiz de Fora!" # Edit this to suit your preferences
 ga_tracking_id: "G-1V0NPCCBJS" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 event_logo: "/events/2023-juiz-de-fora/logo.png"
+masthead_background: "vista_do_centro_de_juiz_de_fora-mg.jpeg"
 
 # All dates are in unquoted 2023-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00
@@ -107,11 +108,17 @@ sponsors:
     level: platinum
   - id: jack-experts
     level: bronze
-  #- id: elastic
-  #  level: bronze
+  - id: elastic
+    level: bronze
+  - id: deltaops
+    level: bronze
   - id: cafe-do-programador
     level: gifts
   - id: digitalocean
+    level: gifts
+  - id: redhat
+    level: gifts
+  - id: baroesct
     level: gifts
   - id: novatec
     level: gifts

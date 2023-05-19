@@ -1,7 +1,7 @@
 +++
 Title = "Scott Mabe"
 Twitter = "MabeInTheCloud"
-#image = "scott-mabe.png"
+image = "scott-mabe.png"
 type = "speaker"
 linktitle = "scott-mabe"
 +++

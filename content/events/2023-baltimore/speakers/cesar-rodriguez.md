@@ -1,7 +1,7 @@
 +++
 Title = "Cesar Rodriguez"
 Twitter = ""
-#image = "cesar-rodriguez.png"
+image = "cesar-rodriguez.jpg"
 type = "speaker"
 linktitle = "cesar-rodriguez"
 +++
