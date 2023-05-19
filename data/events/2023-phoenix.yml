@@ -86,6 +86,8 @@ sponsors:
     level: coffee
   - id: harness
     level: snack
+  - id: fastly-aws
+    level: lunch
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -102,14 +104,17 @@ sponsor_levels:
     max: 0 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
+  - id: lunch
+    label: Lunch
+  - id: snack 
+    label: Snacks
+  - id: coffee
+    label: All Day Coffee
   - id: community
     label: Community
   - id: media
     label: Media
-  - id: coffee
-    label: All Day Coffee
-  - id: snack
-    label: Snacks
+  
 program:
   - title: "Registration, Breakfast, Sponsors"
     type: custom
