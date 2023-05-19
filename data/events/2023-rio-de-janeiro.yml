@@ -136,6 +136,8 @@ sponsors:
   #Silver
 
   #Bronze
+  - id: grafanalabs
+    level: bronze
 
   #Community
   - id: punkdodevops
