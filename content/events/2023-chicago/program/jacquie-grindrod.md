@@ -2,7 +2,7 @@
 Title = "Navigating DevOps & ADHD"
 Type = "talk"
 Speakers = ["jacquie-grindrod"]
-#sharing_image = "sophia-stratton.png"
+sharing_image = "jacquie-grindrod.png"
 +++
 What do DevOps & ADHD have in common? The way you navigate them!
 
