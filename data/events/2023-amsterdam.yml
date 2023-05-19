@@ -138,6 +138,9 @@ organizer_email: "amsterdam@devopsdays.org" # Put your organizer email address h
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  # Platinum
+  - id: portworx
+    level: platinum
   # Beer
   - id: contrast_security
     level: beer
