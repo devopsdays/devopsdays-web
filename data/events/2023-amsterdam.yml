@@ -221,9 +221,6 @@ sponsor_levels:
   - id: lanyard
     label: Lanyard
     max: 1
-  - id: recharge
-    label: "Power recharge"
-    max: 1
   - id: foodtruck
     label: "Food Trucks"
     max: 4
