@@ -198,6 +198,8 @@ sponsors:
     level: community
   - id: gdgsolake
     level: community
+  - id: awsdfw
+    level: community
 
 sponsors_accepted: "no" # Whether you want "Become a XXX Sponsor!" link
 
