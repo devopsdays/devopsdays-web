@@ -125,6 +125,9 @@ sponsors:
   - id: purple_technology
     level: community
     url: "https://www.purple-technology.com" 
+  - id: cloudnativeprg
+    level: community
+    url: "https://community.cncf.io/cloud-native-prague/" 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
