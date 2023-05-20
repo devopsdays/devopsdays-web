@@ -16,7 +16,7 @@ jobs:
       - name: Check for PDFs and large files
         run: |
           git fetch origin main
-          changed_files_with_sizes=$(git diff --numstat origin/main HEAD)
+          changed_files_with_sizes=$(git diff --numstat origin/main...HEAD)
           has_large_file=false
           IFS=$'\n'
           for line in $changed_files_with_sizes; do
