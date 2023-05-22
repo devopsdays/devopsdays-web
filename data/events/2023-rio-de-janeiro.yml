@@ -203,8 +203,10 @@ program:
     comments: "Sala: Deploy"
 
   #Keynote-1
-  - title: "juliana-dias"
-    type: talk
+  # - title: "juliana-dias"
+  #   type: talk
+  - title: "TBA"
+    type: custom
     date: 2023-08-19
     start_time: "10:00"
     end_time: "10:30"
@@ -215,14 +217,18 @@ program:
   - title: "Sessão 1"
     type: custom
     date: 2023-08-19
-  - title: "stephanie-chaia-bartels"
-    type: talk
+  # - title: "stephanie-chaia-bartels"
+  #   type: talk
+  - title: "TBA"
+    type: custom
     date: 2023-08-19
     start_time: "10:30"
     end_time: "11:00"
     comments: "Trilha Iniciante - Sala: Deploy"
-  - title: "diego-morales"
-    type: talk
+  # - title: "diego-morales"
+  #   type: talk
+  - title: "TBA"
+    type: custom
     date: 2023-08-19
     start_time: "10:30"
     end_time: "11:00"
@@ -232,22 +238,28 @@ program:
   - title: "Sessão 2"
     type: custom
     date: 2023-08-19
-  - title: "paloma-lataliza"
-    type: talk
+  # - title: "paloma-lataliza"
+  #   type: talk
+  - title: "TBA"
+    type: custom
     date: 2023-08-19
     start_time: "11:00"
     end_time: "11:30"
     comments: "Trilha Iniciante - Sala: Deploy"
-  - title: "julia-nunes-pedrosa"
-    type: talk
+  # - title: "julia-nunes-pedrosa"
+  #   type: talk
+  - title: "TBA"
+    type: custom
     date: 2023-08-19
     start_time: "11:00"
     end_time: "11:30"
     comments: "Trilha Avançada - Sala: Rollback"
 
   #Keynote-2
-  - title: "carol-valenca"
-    type: talk
+  # - title: "carol-valenca"
+  #   type: talk
+  - title: "TBA"
+    type: custom
     date: 2023-08-19
     start_time: "11:30"
     end_time: "12:00"
@@ -270,8 +282,10 @@ program:
     comments: "Sala: Deploy"
 
   #Keynote-3
-  - title: "carol-valenca"
-    type: talk
+  # - title: "carol-valenca"
+  #   type: talk
+  - title: "TBA"
+    type: custom
     date: 2023-08-19
     start_time: "13:45"
     end_time: "14:15"
@@ -282,14 +296,18 @@ program:
   - title: "Sessão 3"
     type: custom
     date: 2023-08-19
-  - title: "brendo"
-    type: talk
+  # - title: "brendo"
+  #   type: talk
+  - title: "TBA"
+    type: custom
     date: 2023-08-19
     start_time: "14:15"
     end_time: "14:45"
     comments: "Trilha Iniciante - Sala: Deploy"
-  - title: "tatiane-paya"
-    type: talk
+  # - title: "tatiane-paya"
+  #   type: talk
+  - title: "TBA"
+    type: custom
     date: 2023-08-19
     start_time: "14:15"
     end_time: "14:45"
@@ -299,14 +317,18 @@ program:
   - title: "Sessão 4"
     type: custom
     date: 2023-08-19
-  - title: "bernardo"
-    type: talk
+  # - title: "bernardo"
+  #   type: talk
+  - title: "TBA"
+    type: custom
     date: 2023-08-19
     start_time: "14:45"
     end_time: "15:15"
     comments: "Trilha Iniciante - Sala: Deploy"
-  - title: "juliana-hellen"
-    type: talk
+  # - title: "juliana-hellen"
+  #   type: talk
+  - title: "TBA"
+    type: custom
     date: 2023-08-19
     start_time: "14:45"
     end_time: "15:15"
@@ -316,14 +338,18 @@ program:
   - title: "Sessão 5"
     type: custom
     date: 2023-08-19
-  - title: "marcos-souza"
-    type: talk
+  # - title: "marcos-souza"
+  #   type: talk
+  - title: "TBA"
+    type: custom
     date: 2023-08-19
     start_time: "15:15"
     end_time: "15:45"
     comments: "Trilha Iniciante - Sala: Deploy"
-  - title: "giovana-do-nascimento-pena"
-    type: talk
+  # - title: "giovana-do-nascimento-pena"
+  #   type: talk
+  - title: "TBA"
+    type: custom
     date: 2023-08-19
     start_time: "15:15"
     end_time: "15:45"
@@ -353,8 +379,10 @@ program:
     comments: "Sala: Deploy"
 
   #Keynote-4
-  - title: "nina-da-hora"
-    type: talk
+  # - title: "nina-da-hora"
+  #   type: talk
+  - title: "TBA"
+    type: custom
     date: 2023-08-19
     start_time: "17:15"
     end_time: "17:45"
