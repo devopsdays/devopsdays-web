@@ -14,8 +14,8 @@ startdate: 2023-10-11T00:00:00+02:00 # The start date of your event. Leave blank
 enddate: 2023-10-12T00:00:00+02:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: # start accepting talk proposals.
-cfp_date_end: # close your call for proposals.
+cfp_date_start: 2023-05-22T00:00:00+02:00 # start accepting talk proposals.
+cfp_date_end: 2023-07-31T00:00:00+02:00 # close your call for proposals.
 cfp_date_announce: # inform proposers of status
 
 cfp_link: "https://talx.devops.foundation/devopsdays-eindhoven-2023/cfp" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
