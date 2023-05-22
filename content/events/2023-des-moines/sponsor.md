@@ -80,7 +80,7 @@ The best thing to do is send engineers to interact with the attendees.
             </tr>
             <tr>
                 <td class="label">Sponsorship Remaining (First come first serve)</td>
-                <td>9 of 12</td>
+                <td>8 of 12</td>
                 <td>1 of 1</td>
                 <td>1 of 1</td>
             </tr>
