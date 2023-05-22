@@ -225,6 +225,7 @@ program:
     start_time: "10:30"
     end_time: "11:00"
     comments: "Trilha Iniciante - Sala: Deploy"
+    background_color: "005f73005f73"
   # - title: "diego-morales"
   #   type: talk
   - title: "TBA"
@@ -233,6 +234,7 @@ program:
     start_time: "10:30"
     end_time: "11:00"
     comments: "Trilha Avançada - Sala: Rollback"
+    background_color: "#0a9396"
 
   #Session-2
   - title: "Sessão 2"
