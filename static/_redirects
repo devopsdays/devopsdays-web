@@ -154,7 +154,7 @@
 /presentations/2011-goteborg/* http://legacy.devopsdays.org/presentations/2011-goteborg/:splat     301!
 /presentations/2009-ghent/* http://legacy.devopsdays.org/presentations/2009-ghent/:splat     301!
 /ciudad-mexico/*            /events/2020-ciudad-mexico/:splat           302
-/eindhoven/*            /events/2022-eindhoven/:splat           302
+/eindhoven/*            /events/2023-eindhoven/:splat           302
 /miami/*            /events/2020-miami/:splat           302
 /luanda/*            /events/2020-luanda/:splat           302
 /criciuma/*            /events/2020-criciuma/:splat           302
