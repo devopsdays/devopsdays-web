@@ -209,6 +209,7 @@ program:
     start_time: "10:00"
     end_time: "10:30"
     comments: "Keynote - Sala: Deploy"
+    background_color: "#FFFA99"
 
   #Session-1
   - title: "Sessão 1"
@@ -251,6 +252,7 @@ program:
     start_time: "11:30"
     end_time: "12:00"
     comments: "Keynote - Sala: Deploy"
+    background_color: "#FFFA99"
 
   #Lunch
   - title: "Almoço"
@@ -261,7 +263,7 @@ program:
 
   #Ignite Talks
   - title: "Ignite Talks"
-    type: custom
+    type: ignite
     date: 2023-08-19
     start_time: "13:30"
     end_time: "13:45"
@@ -274,6 +276,7 @@ program:
     start_time: "13:45"
     end_time: "14:15"
     comments: "Keynote - Sala: Deploy"
+    background_color: "#FFFA99"
 
   #Session-3
   - title: "Sessão 3"
@@ -335,7 +338,7 @@ program:
 
   #OpenSpace-1
   - title: "Open Space - 1"
-    type: custom
+    type: open-space
     date: 2023-08-19
     start_time: "16:15"
     end_time: "16:45"
@@ -343,7 +346,7 @@ program:
 
   #OpenSpace-2
   - title: "Open Space - 2"
-    type: custom
+    type: open-space
     date: 2023-08-19
     start_time: "16:45"
     end_time: "17:15"
@@ -356,6 +359,7 @@ program:
     start_time: "17:15"
     end_time: "17:45"
     comments: "Keynote - Sala: Deploy"
+    background_color: "#FFFA99"
   
   #Closing
   - title: "Encerramento"
