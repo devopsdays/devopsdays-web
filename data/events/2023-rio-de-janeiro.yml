@@ -225,7 +225,7 @@ program:
     start_time: "10:30"
     end_time: "11:00"
     comments: "Trilha Iniciante - Sala: Deploy"
-    background_color: "005f73005f73"
+    background_color: "#fdf0d5"
   # - title: "diego-morales"
   #   type: talk
   - title: "TBA"
