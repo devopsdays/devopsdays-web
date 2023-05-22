@@ -324,26 +324,21 @@ program:
     start_time: "16:45"
     end_time: "17:00"
 ignites:
-  - title: "anthony-dutra"
-    date: 2023-05-23
   - title: "leon-fayer"
     date: 2023-05-23
-  - title: "jean-remi-beaudoin"
-    date: 2023-05-23
-  - title: "mandi-walls"
+  - title: "michel-schildmeijer"
     date: 2023-05-23
   - title: "scott-mabe"
     date: 2023-05-23
+  - title: "donald-lilley"
+    date: 2023-05-23
   - title: "christopher-pope"
+    date: 2023-05-24
+  - title: "aaron-brooks"
     date: 2023-05-24
   - title: "tyler-auerbeck"
     date: 2023-05-24
   - title: "john-richards-ii"
     date: 2023-05-24
-  - title: "michel-schildmeijer"
-    date: 2023-05-24
   - title: "ignite-karaoke"
     date: 2023-05-24
-
-
- 
