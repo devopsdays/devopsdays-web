@@ -261,7 +261,7 @@ program:
 
   #Ignite Talks
   - title: "Ignite Talks"
-    type: ignite
+    type: custom
     date: 2023-08-19
     start_time: "13:30"
     end_time: "13:45"
@@ -335,7 +335,7 @@ program:
 
   #OpenSpace-1
   - title: "Open Space - 1"
-    type: talk
+    type: custom
     date: 2023-08-19
     start_time: "16:15"
     end_time: "16:45"
@@ -343,7 +343,7 @@ program:
 
   #OpenSpace-2
   - title: "Open Space - 2"
-    type: talk
+    type: custom
     date: 2023-08-19
     start_time: "16:45"
     end_time: "17:15"
