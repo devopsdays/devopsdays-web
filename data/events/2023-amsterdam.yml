@@ -138,12 +138,18 @@ organizer_email: "amsterdam@devopsdays.org" # Put your organizer email address h
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  # Platinum
+  - id: portworx
+    level: platinum
   # Beer
   - id: contrast_security
     level: beer
   # Coffee
   - id: greater-bv
     level: coffee
+  # Tshirt
+  - id: googlecloud
+    level: tshirt
   # Gold
   - id: github
     level: gold
@@ -158,6 +164,8 @@ sponsors:
   - id: zesty
     level: gold
   - id: luminis
+    level: gold
+  - id: cegeka
     level: gold
   # Lanyard
   - id: schubergphilis
@@ -182,8 +190,18 @@ sponsors:
     level: silver
   - id: sysdig
     level: silver
+  - id: appvia
+    level: silver
   # Bronze
   - id: raftech
+    level: bronze
+  - id: itility
+    level: bronze
+  - id: inuits
+    level: bronze
+  - id: kabisa
+    level: bronze
+  - id: atcomputing
     level: bronze
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -202,14 +220,14 @@ sponsor_levels:
   - id: coffee
     label: Coffee
     max: 1
+  - id: tshirt
+    label: T-Shirt
+    max: 1
   - id: gold
     label: Gold
     max: 8
   - id: lanyard
     label: Lanyard
-    max: 1
-  - id: recharge
-    label: "Power recharge"
     max: 1
   - id: foodtruck
     label: "Food Trucks"
@@ -368,7 +386,7 @@ program:
     end_time: "17:00"
     comments: "Studio"
 
-  - title: "ws-engin-diri"
+  - title: "ws-engin-diri-ringo-de-smet"
     type: workshop
     date: 2023-06-21T00:00:00+02:00
     start_time: "15:00"

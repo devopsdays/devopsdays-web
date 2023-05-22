@@ -99,7 +99,19 @@ sponsors:
     level: lanyard
   - id: stackwizards
     level: bronze
+  - id: spinks
+    level: talent-solutions
 
+  - id: bjss
+    level: silver
+  - id: akeyless
+    level: gold
+  - id: elastic
+    level: silver
+  - id: jump24
+    level: silver
+  - id: many-pets
+    level: bronze
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -119,4 +131,7 @@ sponsor_levels:
     label: Community
   - id: lanyard
     label: Lanyard
+    max: 1
+  - id: talent-solutions
+    label: Talent Solutions
     max: 1

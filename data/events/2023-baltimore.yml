@@ -44,7 +44,7 @@ location_address: "701 E Pratt St., Baltimore, MD 21202"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: welcome
-  - name: propose
+  #- name: propose
   - name: location
   - name: registration
   - name: program
@@ -118,12 +118,16 @@ sponsors:
     level: gold
   - id: "newrelic"
     level: gold
+  - id: "harness"
+    level: gold
   - id: "fearless"
     level: platinum
   - id: lightstep
     level: platinum
   - id: digital-services-coalition
     level: community
+  - id: booker-dimaio
+    level: silver
   # - id: appdynamics-before-20220714
   #   level: platinum
   ## Gold
@@ -320,26 +324,21 @@ program:
     start_time: "16:45"
     end_time: "17:00"
 ignites:
-  - title: "anthony-dutra"
-    date: 2023-05-23
   - title: "leon-fayer"
     date: 2023-05-23
-  - title: "jean-remi-beaudoin"
-    date: 2023-05-23
-  - title: "mandi-walls"
+  - title: "michel-schildmeijer"
     date: 2023-05-23
   - title: "scott-mabe"
     date: 2023-05-23
+  - title: "donald-lilley"
+    date: 2023-05-23
   - title: "christopher-pope"
+    date: 2023-05-24
+  - title: "aaron-brooks"
     date: 2023-05-24
   - title: "tyler-auerbeck"
     date: 2023-05-24
   - title: "john-richards-ii"
     date: 2023-05-24
-  - title: "michel-schildmeijer"
-    date: 2023-05-24
   - title: "ignite-karaoke"
     date: 2023-05-24
-
-
- 

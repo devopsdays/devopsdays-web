@@ -2,7 +2,7 @@ name: "2023-phoenix" # The name of the event. Four digit year with the city name
 year: "2023" # The year of the event. Make sure it is in quotes.
 city: "Phoenix" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysphx" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "Devopsdays is coming to Phoenix!" # Edit this to suit your preferences
+description: "Devopsdays is <b>BACK</b> in Phoenix!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2023-MM-DDTHH:MM:SS+TZ:TZ, like this:
@@ -30,13 +30,13 @@ registration_link: "https://www.eventbrite.com/e/devopsdays-phoenix-2023-tickets
 # Location
 #
 coordinates: "33.43188356883474, -111.87816867467428" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Phoenix" # Defaults to city, but you can make it the venue name.
+location: "Sheraton Mesa Hotel at Wrigleyville" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "860 N Riverview, Mesa, AZ 85201" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   # - name: propose
- # - name: location
+  - name: location
   - name: registration
   - name: program
   - name: speakers
@@ -73,11 +73,21 @@ sponsors:
   - id: acorn
     level: gold
   - id: fastly
-    level: bronze
+    level: gold
   - id: phoenixnap_intel
     level: gold
   - id: americanairlines
     level: gold
+  - id: gitlab
+    level: silver
+  - id: harness
+    level: silver
+  - id: fastly
+    level: coffee
+  - id: harness
+    level: snack
+  - id: fastly-aws
+    level: lunch
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -94,10 +104,17 @@ sponsor_levels:
     max: 0 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
+  - id: lunch
+    label: Lunch
+  - id: snack 
+    label: Snacks
+  - id: coffee
+    label: All Day Coffee
   - id: community
     label: Community
   - id: media
     label: Media
+  
 program:
   - title: "Registration, Breakfast, Sponsors"
     type: custom

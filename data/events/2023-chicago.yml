@@ -44,8 +44,11 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: sponsor
   - name: contact
   - name: conduct
+  - name: volunteer
   - name: Health and Safety Policy
     url: /events/2023-chicago/covid
+  - name: Guide to Chicago
+    url: /events/2023-organizer-summit/guide-to-chicago
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site

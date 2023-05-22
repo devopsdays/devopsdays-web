@@ -1,7 +1,7 @@
 +++
 Title = "Mike Lanciano"
 Twitter = ""
-#image = "mike-lanciano.png"
+image = "mike-lanciano.jpg"
 type = "speaker"
 linktitle = "mike-lanciano"
 +++
