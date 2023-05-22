@@ -63,6 +63,9 @@ team_members:
     bio: "Kate works as a Site Reliability Engineer II for edx, a edtech company in the Boston area looking to expand education past the boundaries of traditional education. She has a passion for all things infrastructure and application security, and using emojis to get things done. While not at work, she’s working on a farm, playing with her dog, or biking through the streets of Massachusetts."
     image: "kateruh.jpg"
 
+  - name: "Josh"
+    bio: "Not much is known about Josh, other than he tends to show up, support the mission, not say much, and disappear into the night when no longer required."
+
 organizer_email: "boston@devopsdays.org"
 
 # Uncomment when opening for sponsorships.

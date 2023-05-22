@@ -132,10 +132,14 @@ sponsors:
     level: gold
   - id: elastic
     level: gold
+  - id: stone
+    level: gold
 
   #Silver
 
   #Bronze
+  - id: grafanalabs
+    level: bronze
 
   #Community
   - id: punkdodevops

@@ -4,14 +4,24 @@ Type = "event"
 Description = "Location for devopsdays Phoenix 2023"
 +++
 
-Watch this space for information about the venue including address, map/direction, parking/transit, and any hotel details.
 
 <!-- Uncomment this only if you have set the coordinates for your location in the config yaml. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html -->
-<!-- {{< event_map >}} -->
+{{< event_map >}}
 
 <!-- Edit and uncomment to let people know what accessibility features you have available -->
-<!-- 
-    Example from Minneapolis 2020
 
-    We offer wheelchair-designated spaces, chairs, and standing options (with tall tables) in the mainstage session room; a quiet room; bathrooms labeled according to the facilities they contain; professional live captioning of mainstage sessions; ingredient labeling (based on data provided when registering); and private space (upon request) for those nursing. We'd also be happy to accommodate any other accessibility needs upon request: {{< email_organizers >}}    
--->
+We'll be at the Sheraton Mesa Hotel at Wrigleyville
+
+### Address:
+
+860 N Riverview
+Mesa, AZ 85201
+
+[Google Maps Link](https://goo.gl/maps/HuqfBK95SbaJZ6Zj6)
+
+This location is about 12 minutes from Sky Harbor Airport, about 10 minutes from Tempe Town Lake, and conveniently off the intersection of Loop 101 and 202 in Mesa
+
+### Parking
+
+The location has plenty of parking for the event with no charge to DevOps Days event goers.
+
