@@ -9,9 +9,9 @@ Are you coming to join us for the Global Organizer Summit and it's your first ti
 
 Chicago has two airports O’Hare International Airport (ORD) and Midway International Airport (MDW). Travelers are able to get to downtown from both airports via Chicago ‘L’ (elevated)  transportation system via Blue Line or Orange Line.
 
-Public Transportation is operated by the Chicago Transit Authority (CTA) and is the fourth largest public transportation system in the United States. We recommend purchasing an unlimited pass to conveniently get to/from spots on the CTA buses/train.
+Public Transportation is operated by the [Chicago Transit Authority (CTA)](https://www.transitchicago.com/) and is the fourth largest public transportation system in the United States. We recommend purchasing an unlimited pass to conveniently get to/from spots on the CTA buses/train.
 
-Commuter rails that take commuters to and from the suburbs of Chicago are operated by the Metra.
+Commuter rails that take commuters to and from the suburbs of Chicago are operated by the [Metra](https://metra.com/).
 
 ### Rideshare
 
@@ -84,7 +84,7 @@ The usuals - [Lou Malnati’s](https://www.loumalnatis.com/), [Giordano’s](htt
 
 [Pequod’s](https://pequodspizza.com/) - The pizza here is baked with a ring of cheese around the crust that gets crispy and caramelized. It’s a Matty favorite!
 
-Tavern style - This is what "true" Chicago folks like for their pizza. It’s thin crust and cut into squares. It’s also delicious. Try INSERT PLACES HERE.
+[Tavern style](https://www.esquire.com/food-drink/restaurants/a43366499/best-tavern-style-pizza-us/) - This is what "true" Chicago folks like for their pizza. It’s thin crust and cut into squares. It’s also delicious. Try [Marie's](https://mariespizzachicago.com/), [Pat's](https://pats-pizzeria-chicago.securebrygid.com/zgrid/themes/13142/intro/index.jsp), or [Phil's](https://phils-pizza.business.site/) (note: most of these places are not that close to the venue). Honorable mention to Matty's favorite place in the suburbs, [Dan's](https://www.danspizza.net/)!
 
 ### Hotdogs, Polish sausages, and Italian beef
 
