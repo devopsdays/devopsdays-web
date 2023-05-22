@@ -280,6 +280,7 @@ program:
     start_time: "13:30"
     end_time: "13:45"
     comments: "Sala: Deploy"
+    background_color: "#C3FFD7"
 
   #Keynote-3
   # - title: "carol-valenca"
@@ -369,6 +370,7 @@ program:
     start_time: "16:15"
     end_time: "16:45"
     comments: "Sala: Deploy"
+    background_color: #FFB566
 
   #OpenSpace-2
   - title: "Open Space - 2"
@@ -377,6 +379,7 @@ program:
     start_time: "16:45"
     end_time: "17:15"
     comments: "Sala: Deploy"
+    background_color: #FFB566
 
   #Keynote-4
   # - title: "nina-da-hora"
