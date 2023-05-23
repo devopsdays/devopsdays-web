@@ -45,8 +45,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   #   icon: "sign-in"
   # - name: program
   # - name: speakers
-  # - name: sponsor
-  #   icon: "money"
+  - name: sponsor
+    icon: "money"
   - name: contact
     icon: "comment"
   - name: conduct
@@ -134,6 +134,18 @@ organizer_email: "eindhoven@devopsdays.org" # Put your organizer email address h
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  # social
+  # beer
+  # gold
+  - id: cegeka
+    level: gold
+  # lanyard
+  # lunch
+  # recharge
+  # silver
+  # bronze
+  - id: inuits
+    level: bronze
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -142,3 +154,27 @@ sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: social
+    label: social
+    max: 1
+  - id: beer
+    label: Beer
+    max: 1
+  - id: gold
+    label: Gold
+    max: 7
+  - id: lanyard
+    label: Lanyard
+    max: 1
+  - id: lunch
+    label: "Lunch"
+    max: 2
+  - id: recharge
+    label: "Recharge"
+    max: 1
+  - id: silver
+    label: Silver
+    max: 4
+  - id: bronze
+    label: "Bronze"
+    max: 6
