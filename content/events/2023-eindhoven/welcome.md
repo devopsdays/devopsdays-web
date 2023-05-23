@@ -158,6 +158,6 @@ Description = "devopsdays Eindhoven 2023 will take place October 11-12, 2023"
 
 
 <!-- Uncomment if you added your city twitter name -->
-
+<!--
 {{< event_twitter >}}
-
+-->
