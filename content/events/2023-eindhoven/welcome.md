@@ -36,14 +36,14 @@ Description = "devopsdays Eindhoven 2023 will take place October 11-12, 2023"
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -62,6 +62,7 @@ Description = "devopsdays Eindhoven 2023 will take place October 11-12, 2023"
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
 </div>
+-->
 
 <div class = "row">
   <div class = "col-md-2">
@@ -70,7 +71,7 @@ Description = "devopsdays Eindhoven 2023 will take place October 11-12, 2023"
   <div class = "col-md-8">
     {{< event_link page="sponsor" text="Sponsor the conference!" >}}
   </div>
-</div> -->
+</div> 
 
 <div class = "row">
   <div class = "col-md-2">
@@ -81,7 +82,7 @@ Description = "devopsdays Eindhoven 2023 will take place October 11-12, 2023"
   </div>
 </div>
 
-<!-- <div class="container">
+<div class="container">
   <div class="row">
     <div class="col-md-12">
       <div class="row justify-content-center">
@@ -92,13 +93,13 @@ Description = "devopsdays Eindhoven 2023 will take place October 11-12, 2023"
             <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference
           </a>
         </div>
-        <div class="d-flex p-2">
+        <!-- <div class="d-flex p-2">
           <a class="btn btn-primary btn-block"
             style="margin-top: 10px; margin-bottom: 10px; background-color: #e59049; border-color: #e59049;"
             href="/events/2023-eindhoven/registration">
             <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Buy a ticket
           </a>
-        </div>
+        </div> -->
         <div class="d-flex p-2">
           <a class="btn btn-primary btn-block"
             style="margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;"
@@ -108,7 +109,7 @@ Description = "devopsdays Eindhoven 2023 will take place October 11-12, 2023"
         </div>
       </div>
     </div>
-  </div> -->
+  </div>
   <div class="row">
     <div class="col-12">
       From fledgling startups to established industry, The Netherlands is home to a large, vibrant technology community. Eindhoven, in particular, has been a flurry of activity in the past several years, drawing attention from around the globe.
@@ -118,6 +119,27 @@ Description = "devopsdays Eindhoven 2023 will take place October 11-12, 2023"
       We expect 250 people this year and will be holding the event on October 11-12, 2023 at the <a href="/events/2023-Eindhoven/location">High Tech Campus Eindhoven</a>. Attendees will be required to follow local government policies & mandates regarding vaccination status & ability to attend.
       <br><br>
       The format of devopsdays Eindhoven includes a single track of 30 minute talks in the morning of each event, followed by Ignite talks (5 minute, auto forwarding). We spend the rest of the afternoon in Open Spaces, which are considered a key portion of the event. For those not interested in the Open Spaces, we continue offering the single track around a specific theme (previously around Security and HumanOps).
+    </div>
+  </div>
+  <div class="row">
+    <!-- begin a content element -->
+    <div class="col-md-12">
+      <div class="row justify-content-center">
+        <div class="d-flex p-2">
+          <a class="btn btn-primary btn-block"
+            style="margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;"
+            href="https://twitter.com/devopsdaysehv/">
+            <i class="fa fa-twitter fa-lg"></i>&nbsp;&nbsp;&nbsp;Follow Us On Twitter
+          </a>
+        </div>
+        <div class="d-flex p-2">
+          <a class="btn btn-primary btn-block"
+            style="margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;"
+            href="https://www.meetup.com/DevOpsAmsterdam/">
+            <i class="fa fa-meetup fa-lg"></i>&nbsp;&nbsp;&nbsp;Join Us On Meetup
+          </a>
+        </div>
+      </div>
     </div>
   </div>
 </div>
