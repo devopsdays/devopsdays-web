@@ -121,9 +121,30 @@ Description = "devopsdays Eindhoven 2023 will take place October 11-12, 2023"
       The format of devopsdays Eindhoven includes a single track of 30 minute talks in the morning of each event, followed by Ignite talks (5 minute, auto forwarding). We spend the rest of the afternoon in Open Spaces, which are considered a key portion of the event. For those not interested in the Open Spaces, we continue offering the single track around a specific theme (previously around Security and HumanOps).
     </div>
   </div>
+  <div class="row">
+    <!-- begin a content element -->
+    <div class="col-md-12">
+      <div class="row justify-content-center">
+        <div class="d-flex p-2">
+          <a class="btn btn-primary btn-block"
+            style="margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;"
+            href="https://twitter.com/devopsdaysehv/">
+            <i class="fa fa-twitter fa-lg"></i>&nbsp;&nbsp;&nbsp;Follow Us On Twitter
+          </a>
+        </div>
+        <div class="d-flex p-2">
+          <a class="btn btn-primary btn-block"
+            style="margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;"
+            href="https://www.meetup.com/DevOpsAmsterdam/">
+            <i class="fa fa-meetup fa-lg"></i>&nbsp;&nbsp;&nbsp;Join Us On Meetup
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
 
-<div class="row">
+<!-- <div class="row">
   <div class="col-md-12">
     <div class="row">
       <div class="alert alert-secondary" role="alert">
@@ -133,7 +154,7 @@ Description = "devopsdays Eindhoven 2023 will take place October 11-12, 2023"
       </div>
     </div>
   </div>
-</div>
+</div> -->
 
 
 <!-- Uncomment if you added your city twitter name -->
