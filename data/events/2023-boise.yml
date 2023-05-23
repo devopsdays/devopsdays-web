@@ -63,6 +63,8 @@ organizer_email: "boise@devopsdays.org"
 sponsors:
   - id: 2023-intimetec
     level: platinum
+  - id: fastly
+    level: gold
 
 sponsors_accepted: "yes"
 
