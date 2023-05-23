@@ -158,6 +158,6 @@ education, government, and consulting.</p>
     </div>
     </div>
     <div class="col-md-3 col-sm-12">
-      <a target="_blank" href="/events/2023-madrid/madridsponsorship.pdf"><img style='border:1px solid #000000' src="/events/2023-madrid/sponsor-thumbnail.jpg" class="img-fluid"></a>
+      <a target="_blank" href="https://assets.devopsdays.org/events/2023/madrid/madridsponsorship.pdf"><img style='border:1px solid #000000' src="/events/2023-madrid/sponsor-thumbnail.jpg" class="img-fluid"></a>
     </div>
   </div>
