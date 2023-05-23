@@ -15,8 +15,8 @@ Description = "Program for for devopsdays Rio 2023"
 <div>
   <b>Legenda:</b>
   <div class="col-lg-3 col-md-3 program-element program-workshop">Keynote</div>
-  <div style="background-color:#fdf0d5">Sala Deploy - Iniciante</div>
-  <div style="background-color:#0a9396">Sala Rollback - Avançado</div>
+  <div class="col-lg-3 col-md-3" style="background-color:#fdf0d5">Sala Deploy - Iniciante</div>
+  <div class="col-lg-3 col-md-3" style="background-color:#81b29a">Sala Rollback - Avançado</div>
   <div class="col-lg-3 col-md-3 program-element program-ignite">Ignite</div>
   <div class="col-lg-3 col-md-3 program-element program-open-space">Open Space</div>
   <br>
