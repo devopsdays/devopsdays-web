@@ -178,3 +178,241 @@ sponsor_levels:
     label: Gifts
   - id: community
     label: Community
+
+program:
+  #Registration
+  - title: "Credenciamento"
+    type: custom
+    date: 2023-08-19
+    start_time: "08:00"
+    end_time: "09:00"
+
+  #CoffeeBreak-1
+  - title: "Coffee Break"
+    type: custom
+    date: 2023-08-19
+    start_time: "09:00"
+    end_time: "09:30"
+
+  #Opening
+  - title: "Abertura"
+    type: custom
+    date: 2023-08-19
+    start_time: "09:30"
+    end_time: "10:00"
+    comments: "Sala: Deploy"
+
+  #Keynote-1
+  # - title: "juliana-dias"
+  #   type: talk
+  - title: "TBA"
+    type: custom
+    date: 2023-08-19
+    start_time: "10:00"
+    end_time: "10:30"
+    comments: "Keynote - Sala: Deploy"
+    background_color: "#FFFA99"
+
+  #Session-1
+  - title: "Sessão 1"
+    type: custom
+    date: 2023-08-19
+  # - title: "stephanie-chaia-bartels"
+  #   type: talk
+  - title: "TBA"
+    type: custom
+    date: 2023-08-19
+    start_time: "10:30"
+    end_time: "11:00"
+    comments: "Trilha Iniciante - Sala: Deploy"
+    background_color: "#fdf0d5"
+  # - title: "diego-morales"
+  #   type: talk
+  - title: "TBA"
+    type: custom
+    date: 2023-08-19
+    start_time: "10:30"
+    end_time: "11:00"
+    comments: "Trilha Avançada - Sala: Rollback"
+    background_color: "#81b29a"
+
+  #Session-2
+  - title: "Sessão 2"
+    type: custom
+    date: 2023-08-19
+  # - title: "paloma-lataliza"
+  #   type: talk
+  - title: "TBA"
+    type: custom
+    date: 2023-08-19
+    start_time: "11:00"
+    end_time: "11:30"
+    comments: "Trilha Iniciante - Sala: Deploy"
+    background_color: "#fdf0d5"
+  # - title: "julia-nunes-pedrosa"
+  #   type: talk
+  - title: "TBA"
+    type: custom
+    date: 2023-08-19
+    start_time: "11:00"
+    end_time: "11:30"
+    comments: "Trilha Avançada - Sala: Rollback"
+    background_color: "#81b29a"
+
+  #Keynote-2
+  # - title: "carol-valenca"
+  #   type: talk
+  - title: "TBA"
+    type: custom
+    date: 2023-08-19
+    start_time: "11:30"
+    end_time: "12:00"
+    comments: "Keynote - Sala: Deploy"
+    background_color: "#FFFA99"
+
+  #Lunch
+  - title: "Almoço"
+    type: custom
+    date: 2023-08-19
+    start_time: "12:00"
+    end_time: "13:30"
+
+  #Ignite Talks
+  - title: "Ignite Talks"
+    type: custom
+    date: 2023-08-19
+    start_time: "13:30"
+    end_time: "13:45"
+    comments: "Sala: Deploy"
+    background_color: "#C3FFD7"
+
+  #Keynote-3
+  # - title: "carol-valenca"
+  #   type: talk
+  - title: "TBA"
+    type: custom
+    date: 2023-08-19
+    start_time: "13:45"
+    end_time: "14:15"
+    comments: "Keynote - Sala: Deploy"
+    background_color: "#FFFA99"
+
+  #Session-3
+  - title: "Sessão 3"
+    type: custom
+    date: 2023-08-19
+  # - title: "brendo"
+  #   type: talk
+  - title: "TBA"
+    type: custom
+    date: 2023-08-19
+    start_time: "14:15"
+    end_time: "14:45"
+    comments: "Trilha Iniciante - Sala: Deploy"
+    background_color: "#fdf0d5"
+  # - title: "tatiane-paya"
+  #   type: talk
+  - title: "TBA"
+    type: custom
+    date: 2023-08-19
+    start_time: "14:15"
+    end_time: "14:45"
+    comments: "Trilha Avançada - Sala: Rollback"
+    background_color: "#81b29a"
+
+  #Session-4
+  - title: "Sessão 4"
+    type: custom
+    date: 2023-08-19
+  # - title: "bernardo"
+  #   type: talk
+  - title: "TBA"
+    type: custom
+    date: 2023-08-19
+    start_time: "14:45"
+    end_time: "15:15"
+    comments: "Trilha Iniciante - Sala: Deploy"
+    background_color: "#fdf0d5"
+  # - title: "juliana-hellen"
+  #   type: talk
+  - title: "TBA"
+    type: custom
+    date: 2023-08-19
+    start_time: "14:45"
+    end_time: "15:15"
+    comments: "Trilha Avançada - Sala: Rollback"
+    background_color: "#81b29a"
+
+    #Session-5
+  - title: "Sessão 5"
+    type: custom
+    date: 2023-08-19
+  # - title: "marcos-souza"
+  #   type: talk
+  - title: "TBA"
+    type: custom
+    date: 2023-08-19
+    start_time: "15:15"
+    end_time: "15:45"
+    comments: "Trilha Iniciante - Sala: Deploy"
+    background_color: "#fdf0d5"
+  # - title: "giovana-do-nascimento-pena"
+  #   type: talk
+  - title: "TBA"
+    type: custom
+    date: 2023-08-19
+    start_time: "15:15"
+    end_time: "15:45"
+    comments: "Trilha Avançada - Sala: Rollback"
+    background_color: "#81b29a"
+
+  #CoffeeBreak-2
+  - title: "Coffee Break"
+    type: custom
+    date: 2023-08-19
+    start_time: "15:45"
+    end_time: "16:15"
+
+  #OpenSpace-1
+  - title: "Open Space - 1"
+    type: custom
+    date: 2023-08-19
+    start_time: "16:15"
+    end_time: "16:45"
+    comments: "Sala: Deploy"
+    background_color: #FFB566
+
+  #OpenSpace-2
+  - title: "Open Space - 2"
+    type: custom
+    date: 2023-08-19
+    start_time: "16:45"
+    end_time: "17:15"
+    comments: "Sala: Deploy"
+    background_color: #FFB566
+
+  #Keynote-4
+  # - title: "nina-da-hora"
+  #   type: talk
+  - title: "TBA"
+    type: custom
+    date: 2023-08-19
+    start_time: "17:15"
+    end_time: "17:45"
+    comments: "Keynote - Sala: Deploy"
+    background_color: "#FFFA99"
+  
+  #Closing
+  - title: "Encerramento"
+    type: custom
+    date: 2023-08-19
+    start_time: "17:45"
+    end_time: "18:15"
+    comments: "Sala: Deploy"
+
+  #HappyHour
+  - title: "Happy Hour"
+    type: custom
+    date: 2023-08-19
+    start_time: "18:15"
+    end_time: "22:00"
