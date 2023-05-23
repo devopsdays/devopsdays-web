@@ -198,6 +198,8 @@ sponsors:
     level: gold
   - id: sumologic
     level: gold
+  - id: tailscale
+    level: gold
   - id: temporal
     level: gold
   - id: transition-technologies
