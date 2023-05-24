@@ -1,0 +1,122 @@
+name: "2024-baltimore" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2024" # The year of the event. Make sure it is in quotes.
+city: "Baltimore" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaysbmore" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays is coming back to Baltimore!" # Edit this to suit your preferences
+gtm_tracking_id: "G-354CWBXNWF" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+masthead_background: "bmore_skyline_inner_harbor.jpg"
+
+# All dates are in unquoted 2024-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2024-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2024-05-21T08:00:00-04:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2024-05-22T16:00:00-04:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start:  # start accepting talk proposals.
+cfp_date_end:  # close your call for proposals.
+cfp_date_announce:  # inform proposers of status
+
+cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+sharing_image: "sharing.jpg"
+
+# Custom Links
+slack_link: "http://baltimoretechslack.com/"
+sponsor_faq_link: "https://docs.google.com/document/d/1luCJTEva87ORuGPPjBBqDecTopI1XqzFkSGk1MMShYI/edit?usp=sharing"
+sponsor_registration_link: "https://forms.gle/snuih7cVnY9cmUJRA"
+
+# Location
+#
+coordinates: "39.286400, -76.605606"
+location: "Rita Rossi Colwell Center (Formerly Columbus Center)"
+location_address: "701 E Pratt St., Baltimore, MD 21202"
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+ # - name: propose
+  - name: location
+ # - name: registration
+ # - name: program
+ # - name: speakers
+ # - name: sponsor
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Meghan Butler"
+    github: "megbutler"
+    linkedin: "https://www.linkedin.com/in/meghancbutler/"
+    twitter: "_mcbee13"
+    image: "meghan-butler.jpg"
+  - name: "Jon Aumann"
+    employer: "Placemakr"
+    github: "jaumann"
+    linkedin: "https://www.linkedin.com/in/jaumann/"
+    twitter: "jaumann"
+    image: "jon-aumann.jpg"
+  - name: "Charles Bushong"
+    employer: "Fearless"
+    twitter: "totalnerd"
+    github: "bushong1"
+    linkedin: "https://www.linkedin.com/in/charles-bushong"
+    image: "charles-bushong.jpg"
+  - name: "Dave Sueltenfuss"
+    employer: "Fearless"
+    github: "dsueltenfuss"
+    linkedin: "https://www.linkedin.com/in/dsueltenfuss/"
+    image: "dave-sueltenfuss.jpg"
+  - name: "JP Hechter"
+    employer: "Fearless"
+    github: "jphechter"
+    linkedin: "https://www.linkedin.com/in/jp-hechter/"
+    image: "jp-hechter.png"
+  - name: "Chase Farmer"
+    employer: "Fearless"
+    github: "chasefarmer2808"
+    linkedin: "https://www.linkedin.com/in/chase-farmer-236b82115/"
+    image: "chase-farmer.jpg"
+
+organizer_email: "baltimore@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  # - id: samplesponsorname
+  #   level: gold
+ #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: arresteddevops
+    level: community
+
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: platinum
+    label: Platinum
+    max: 16
+  - id: gold
+    label: Gold
+  - id: silver
+    label: Silver
+  - id: media
+    label: Media
+  - id: community
+    label: Community
+  - id: happyhour
+    label: Happy Hour
+    max: 1
