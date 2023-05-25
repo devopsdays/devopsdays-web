@@ -24,18 +24,6 @@ The organizers of DevOpsDays Chicago believe that the community is stronger when
 <br><br>
 <div class = "row">
   <div class = "col-md-12">
-  <div class = "row justify-content-center">
-    <div class = "d-flex p-2">
-      <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://www.linkedin.com/groups/7052023/">
-        <i class="fa fa-linkedin-square fa-lg"></i>&nbsp;&nbsp;&nbsp;Join Our LinkedIn Group
-      </a>
-    </div>
-    <div class = "d-flex p-2">
-      <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://www.instagram.com/devopsdayschi/">
-        <i class="fa fa-instagram fa-lg"></i>&nbsp;&nbsp;&nbsp;Follow Us On Instagram
-      </a>
-    </div>
-    </div>
     <div class = "row">
   <div class = "col-md-6">
   
@@ -67,15 +55,14 @@ We recommend moving this block and the preceding CSS link to the HEAD of your HT
 
   </div>
   <div class = "col-md-6 pull-md-6">
-              <div class = "d-flex p-2">
+    <div class = "row"><!-- begin a content element -->
+      <div class = "col-md-12">
+      <div class = "d-flex p-2">
             <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: red; border-color: red;" href="/events/2023-chicago/register">
               <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Register for the Conference
             </a>
           </div>
-    <div class = "row"><!-- begin a content element -->
-      <div class = "col-md-12">
       <div class = "row justify-content-center">
-
         <div class = "d-flex p-2">
             <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="/events/2023-chicago/program">
               <i class="fa fa-book fa-lg"></i>&nbsp;&nbsp;&nbsp;View the Program
@@ -85,11 +72,10 @@ We recommend moving this block and the preceding CSS link to the HEAD of your HT
     </div>
 <h2>The DevOps Yak is Back!</h2>
 <img src = "/events/2022-chicago/yak.png" class = "img-fluid">
-    <br>
-    <a rel="me" href="https://hachyderm.io/@devopsdayschi">Mastodon</a>
-
+  
   </div>
 
 </div>
 
-<p class="font-italic">Header image By King of Hearts (Own work) [<a href="http://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a> or <a href="http://www.gnu.org/copyleft/fdl.html">GFDL</a>], <a href="https://commons.wikimedia.org/wiki/File%3AChicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg">via Wikimedia Commons</a></p>
+<p class="font-italic">Header image By King of Hearts (Own work) [<a href="http://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a> or <a href="http://www.gnu.org/copyleft/fdl.html">GFDL</a>], <a href="https://commons.wikimedia.org/wiki/File%3AChicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg">via Wikimedia Commons</a><br><Br>
+    <a rel="me" href="https://hachyderm.io/@devopsdayschi">Mastodon</a></p>
