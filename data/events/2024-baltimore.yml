@@ -96,7 +96,7 @@ sponsors:
   # - id: samplesponsorname
   #   level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  - id: arresteddevops
+  - id: bmore_code_and_coffee
     level: community
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
