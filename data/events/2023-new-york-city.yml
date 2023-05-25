@@ -127,6 +127,10 @@ sponsors:
     level: startup
   - id: doxnyc
     level: community
+  - id: glassbox
+    level: silver
+  - id: sym
+    level: registration
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -147,8 +151,8 @@ sponsor_levels:
   #   label: Video
   # - id: captioning
   #   label: Live Captioning
-  # - id: registration
-  #   label: Registration
+  - id: registration
+    label: Registration
   # - id: lunch
   #   label: Lunch
   # - id: breakfast
