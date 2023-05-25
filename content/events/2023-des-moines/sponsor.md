@@ -98,9 +98,7 @@ The best thing to do is send engineers to interact with the attendees.
                 <td>
                     <a href="https://link.waveapps.com/gqjgtg-nqd2wd" target=”_blank”>
                       <img src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif"/></a></td>
-                <td>
-                    <a href="https://link.waveapps.com/yfeszx-hx6wga" target=”_blank”>
-                      <img src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif"/></a></td>
+                <td></td>
             </tr> 
             <tr>
                 <td class="label">Included tickets</td>
