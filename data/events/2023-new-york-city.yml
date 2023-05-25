@@ -125,6 +125,8 @@ sponsors:
     level: bronze
   - id: log-store
     level: startup
+  - id: doxnyc
+    level: community
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
