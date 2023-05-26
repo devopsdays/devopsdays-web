@@ -100,6 +100,8 @@ sponsors:
     level: platinum
   - id: smallstep
     level: alacarte
+  - id: blacksintechnology
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -150,4 +152,6 @@ ignites:
   - title: "ed-legault"
     date: 2023-10-05
   - title: "jon-fazzaro"
+    date: 2023-10-05
+  - title: "greg-greenlee"
     date: 2023-10-05
