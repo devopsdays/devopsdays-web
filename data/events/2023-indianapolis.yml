@@ -100,6 +100,8 @@ sponsors:
     level: platinum
   - id: smallstep
     level: alacarte
+  - id: blacksintechnology
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
