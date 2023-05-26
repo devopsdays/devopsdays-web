@@ -129,6 +129,7 @@ sponsors:
     level: community
   - id: glassbox
     level: silver
+    url: https://www.glassbox.com/solutions/engineering-devops/?utm_medium=referral&utm_source=devopsdays&utm_campaign=tradeshow-devops-days-nyc-2023-q2&lsd=Tradeshow-DevOps-Days-NYC
   - id: sym
     level: registration
 
