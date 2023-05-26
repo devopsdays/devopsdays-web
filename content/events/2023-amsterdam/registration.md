@@ -9,9 +9,10 @@ Description = "Registration for devopsdays Amsterdam 2023"
 <div style="width:100%; text-align:left;">
 
 <div class = "col-md-12">
-  We have a number of tickets reserved at the price of catering (€73) for scholarship applicants. If you're a student, currently unemployed, or looking to change into Tech from a different field, please send an email with your motivation to <a href="mailto:amsterdam@devopsdays.org?subject=devopsdays%20AMS%202023%20-%20Scholarship%20Request">amsterdam@devopsdays.org</a>.
-  
-  If you or your company is interested in paying us directly via an invoice for a bulk ticket order, please contact us by sending us an email at <a href="mailto:amsterdam@devopsdays.org?subject=devopsdays%20AMS%202023%20-%20Pay%20Direct%20with%20Invoice">amsterdam@devopsdays.org</a>. 
+  We have a number of tickets reserved at the price of €20 for the two day conference or €30 for the conference plus workshop day for scholarship applicants. If you're a student, currently unemployed, or looking to change into Tech from a different field, please send an email with your motivation to <a href="mailto:amsterdam@devopsdays.org?subject=devopsdays%20AMS%202023%20-%20Scholarship%20Request">amsterdam@devopsdays.org</a>.
+  <br />
+  If you or your company is interested in paying us directly via an invoice for a bulk ticket order, please contact us by sending us an email at <a href="mailto:amsterdam@devopsdays.org?subject=devopsdays%20AMS%202023%20-%20Pay%20Direct%20with%20Invoice">amsterdam@devopsdays.org</a>.
+  <br />
 </div>
 
 <pretix-widget event="https://tix.devops.foundation/devopsdays-amsterdam/2023/"></pretix-widget>
