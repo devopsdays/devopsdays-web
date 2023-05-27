@@ -44,7 +44,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: volunteer
   - name: location
   - name: registration
- # - name: program
+  - name: program
   - name: speakers
   - name: sponsor
   - name: contact
@@ -100,6 +100,8 @@ sponsors:
     level: platinum
   - id: smallstep
     level: alacarte
+  - id: blacksintechnology
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -120,3 +122,36 @@ sponsor_levels:
     label: Alacarte
   - id: community
     label: Community
+
+program:
+  - title: "Preview of speakers - times will change"
+    type: custom
+    date: 2023-10-05
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "jj-asghar"
+    type: talk
+    date: 2023-10-05
+    start_time: "09:15"
+    end_time: "09:16"
+  - title: "jason-yee"
+    type: talk
+    date: 2023-10-05
+    start_time: "09:21"
+    end_time: "09:22"
+  - title: "Ignites"
+    type: ignite
+    date: 2023-10-05
+    start_time: "9:25"
+    end_time: "13:50"
+ignites:
+  - title: "jj-asghar-ignite"
+    date: 2023-10-05
+  - title: "dwayne-mcdaniel"
+    date: 2023-10-05
+  - title: "ed-legault"
+    date: 2023-10-05
+  - title: "jon-fazzaro"
+    date: 2023-10-05
+  - title: "greg-greenlee"
+    date: 2023-10-05

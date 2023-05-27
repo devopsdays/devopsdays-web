@@ -7,4 +7,4 @@ linktitle = "daniel-golant"
 
 +++
 
-When companies scale at massive speed, constant re-orgs can mean ownership often gets muddied. Without Ownership, it becomes difficult to establish Objectives for individual teams, and SLOs slip out of your grasp. Come learn how Dan and his team tackled this challenge as Better.com went from 40 engineers to 250+.
+Daniel Golant is a software developer based in New York City with an interest in how observability can increase engineering leverage. When not speaking you can find him watching tech talks on the treadmill or playing dominoes on the Lower East Side.

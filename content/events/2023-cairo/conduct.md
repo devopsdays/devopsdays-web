@@ -25,4 +25,6 @@ Conference staff can be identified by distinct staff badges. Conference staff wi
 
 We expect participants to follow these rules at conference and workshop venues and conference-related social events.
 
+All the above rules apply in compliance with the Egyptian constitution.
+
 _The devopsdays Cairo 2023 Code of Conduct is based on [confcodeofconduct.com](https://confcodeofconduct.com)._ 

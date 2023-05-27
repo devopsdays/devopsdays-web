@@ -128,6 +128,8 @@ sponsors:
     level: community
   - id: booker-dimaio
     level: silver
+  - id: latimer-ventures
+    level: silver
   # - id: appdynamics-before-20220714
   #   level: platinum
   ## Gold
@@ -287,63 +289,58 @@ program:
     type: custom
     date: 2023-05-24
     start_time: "11:50"
-    end_time: "13:25"
-  - title: "Welcome Back"
+    end_time: "13:00"
+  - title: "Welcome Back, Passport Drawings"
     type: custom
     date: 2023-05-24
-    start_time: "13:25"
-    end_time: "13:30"
+    start_time: "13:00"
+    end_time: "13:10"
   - title: "Ignites"
     type: ignite
     date: 2023-05-24
-    start_time: "13:30"
-    end_time: "14:05"
+    start_time: "13:10"
+    end_time: "13:45"
   - title: "Open Spaces Organization"
     type: open-space
     date: 2023-05-24
-    start_time: "14:05"
-    end_time: "14:30"
+    start_time: "13:45"
+    end_time: "14:10"
   - title: "Open Spaces 1"
     type: open-space
     date: 2023-05-24
-    start_time: "14:30"
-    end_time: "15:15"
+    start_time: "14:10"
+    end_time: "14:45"
   - title: "Open Spaces 2"
     type: open-space
     date: 2023-05-24
-    start_time: "15:15"
-    end_time: "16:00"
+    start_time: "14:45"
+    end_time: "15:20"
   - title: "Open Spaces 3"
     type: open-space
     date: 2023-05-24
-    start_time: "16:00"
-    end_time: "16:45"
+    start_time: "15:20"
+    end_time: "15:55"
   - title: "Day 2 Close"
     type: custom
     date: 2023-05-24
-    start_time: "16:45"
-    end_time: "17:00"
+    start_time: "15:55"
+    end_time: "15:59"
 ignites:
-  - title: "anthony-dutra"
-    date: 2023-05-23
   - title: "leon-fayer"
     date: 2023-05-23
-  - title: "jean-remi-beaudoin"
-    date: 2023-05-23
-  - title: "mandi-walls"
+  - title: "michel-schildmeijer"
     date: 2023-05-23
   - title: "scott-mabe"
     date: 2023-05-23
+  - title: "donald-lilley"
+    date: 2023-05-23
   - title: "christopher-pope"
+    date: 2023-05-24
+  - title: "aaron-brooks"
     date: 2023-05-24
   - title: "tyler-auerbeck"
     date: 2023-05-24
   - title: "john-richards-ii"
     date: 2023-05-24
-  - title: "michel-schildmeijer"
-    date: 2023-05-24
   - title: "ignite-karaoke"
     date: 2023-05-24
-
-
- 
