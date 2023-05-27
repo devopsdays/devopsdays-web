@@ -123,6 +123,15 @@ sponsors:
     level: silver
   - id: sourcegraph
     level: bronze
+  - id: log-store
+    level: startup
+  - id: doxnyc
+    level: community
+  - id: glassbox
+    level: silver
+    url: https://www.glassbox.com/solutions/engineering-devops/?utm_medium=referral&utm_source=devopsdays&utm_campaign=tradeshow-devops-days-nyc-2023-q2&lsd=Tradeshow-DevOps-Days-NYC
+  - id: sym
+    level: registration
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -143,8 +152,8 @@ sponsor_levels:
   #   label: Video
   # - id: captioning
   #   label: Live Captioning
-  # - id: registration
-  #   label: Registration
+  - id: registration
+    label: Registration
   # - id: lunch
   #   label: Lunch
   # - id: breakfast
@@ -185,8 +194,8 @@ program:
     date: "2023-06-06"
     start_time: "10:45"
     end_time: "11:15"
-  - title: "Ignites - To Be Announced"
-    type: custom
+  - title: "Ignite Talks:"
+    type: ignite
     date: "2023-06-06"
     start_time: "11:15"
     end_time: "11:45"
@@ -276,8 +285,8 @@ program:
     date: "2023-06-07"
     start_time: "10:30"
     end_time: "11:00"
-  - title: "Ignites - To Be Announced"
-    type: custom
+  - title: "Ignite Talks:"
+    type: ignite
     date: "2023-06-07"
     start_time: "11:00"
     end_time: "11:30"
@@ -337,4 +346,18 @@ program:
     start_time: "16:25"
     end_time: "16:55"
 
-# ignites:
+ignites:
+  - title: "tim-banks"
+    date: "2023-06-06"
+  - title: "peter-oneill"
+    date: "2023-06-06"
+  - title: "sharon-goldberg"
+    date: "2023-06-06"
+  - title: "deepak-goel"
+    date: "2023-06-06"
+  - title: "mandi-walls"
+    date: "2023-06-07"
+  - title: "dave-stanke"
+    date: "2023-06-07"
+  - title: "jocelyn-harper"
+    date: "2023-06-07"

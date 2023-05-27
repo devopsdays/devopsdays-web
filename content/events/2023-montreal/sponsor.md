@@ -3,7 +3,15 @@ Title = "Sponsor"
 Type = "event"
 Description = "Sponsor devopsdays Montreal 2023"
 +++
+<script src="https://www.paypal.com/sdk/js?client-id=AalWoER4UBvQMoucGnwf6akLiuwwSYaySMZIv0sUFy3DHf8yyRf8HXas26JwrlRCs6JVVrNp1i75HZ3M&components=buttons&disable-funding=credit,card">
+</script>
+
+
 <style type="text/css">
+
+.paypal-btn{
+  padding: 10px;
+}
 
 .mtl{
   color: #d32041 
@@ -123,6 +131,7 @@ Our beautiful city is lucky to have an increasingly diverse tech community, and 
     <th class="bronze-silver">Non-profit**</th>
   </tr>
   <tr><td class="regular">Price (USD)</td><td>$5,000</td><td>$5,000</td><td>$4,000</td><td>$2,500</td><td>$4,000</td><td>$6,500</td><td>$9,000</td><td>$12,000</td><td>$2,000</td><td>$2,000</td></tr>
+  <tr><td class="regular">Buy now!</td><td><div id="paypal-button-lunch" class="paypal-btn"></div></td><td><div id="paypal-button-cocktail" class="paypal-btn"></div></td><td><div id="paypal-button-lanyard" class="paypal-btn"></div></td><td><div id="paypal-button-coffee" class="paypal-btn"></div></td><td><div id="paypal-button-bronze" class="paypal-btn"></div></td><td><div id="paypal-button-silver" class="paypal-btn"></div></td><td><div id="paypal-button-gold" class="paypal-btn"></div></td><td><div id="paypal-button-platinum" class="paypal-btn"></div></td><td><div id="paypal-button-startup" class="paypal-btn"></div></td><td><div id="paypal-button-nonprofit" class="paypal-btn"></div></td></tr>
   <tr><td class="regular">Available</td><td>2</td><td>1</td><td>1</td><td>2</td><td>9</td><td>11</td><td>7</td><td>2</td><td>9</td><td>5</td></tr>
   <tr><td class="regular">Tickets</td><td>3</td><td>3</td><td>1</td><td>1</td><td>2</td><td>3</td><td>5</td><td>8</td><td>1</td><td>2</td></tr>
   <tr><td class="regular">Logo on slides</td><td></td><td></td><td></td><td></td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
@@ -177,6 +186,44 @@ There are also opportunities for exclusive special sponsorships. We'll have spon
 </table> -->
 
 </div>
+
+<script>
+  function createButtons(dict) {
+    for (const [key, value] of Object.entries(dict)) {
+      paypal.Buttons({
+        style: {
+            shape: 'pill',
+            height: 25,
+            width: 75
+        },
+        createOrder: function(data, actions) {
+          return actions.order.create({
+            purchase_units: [{
+              amount: {
+                value: value
+              }
+            }]
+          });
+        },
+      }).render(`#${key}`);
+    }
+  }
+
+  const dict = {
+    "paypal-button-lunch": "5000.00",
+    "paypal-button-cocktail": "5000.00",
+    "paypal-button-lanyard": "4000.00",
+    "paypal-button-coffee": "2500.00",
+    "paypal-button-bronze": "4000.00",
+    "paypal-button-silver": "6500.00",
+    "paypal-button-gold": "9000.00",
+    "paypal-button-platinum": "12000.00",
+    "paypal-button-startup": "2000.00",
+    "paypal-button-nonprofit": "2000.00",
+  };
+
+  createButtons(dict);
+</script>
 
 
 <hr/>
