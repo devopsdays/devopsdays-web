@@ -100,10 +100,10 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: platinum
     label: Platinum
-    max: 3
+    max: 5
   - id: gold
     label: Gold
-    max: 5
+    max: 10
   - id: silver
     label: Silver
     max: 0 # This is the same as omitting the max limit.
