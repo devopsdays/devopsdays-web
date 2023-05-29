@@ -50,18 +50,18 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Ivan Zupancic"
-    image: "sally-fields.jpg"
     linkedin: "https://www.linkedin.com/in/ivan-zupancic-21b56325"
   - name: "Marko Zabreznik"
     employer: "Povio inc"
     website: "https://povio.com"
-    image: "sally-fields.jpg"
     linkedin: "https://www.linkedin.com/in/zabreznik"
+  - name: "Kim Gomiljsek"
+    employer: "Povio inc"
+    linkedin: "https://www.linkedin.com/in/kim-gomilsek/"
   - name: "Luka Topolovec"
     employer: "nChain"
     linkedin: "https://www.linkedin.com/company/nchain/"
     website: "https://nchain.com"
-    image: "sally-fields.jpg"
 
 organizer_email: "ljubljana@devopsdays.org" # Put your organizer email address here
 
