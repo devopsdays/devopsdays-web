@@ -10,7 +10,7 @@ Description = "DevOpsDays Zurich 2024"
     <img src="/events/2024-zurich/logo.png" style="float:center"/>
   </div>
   <div class = "col-md-3">
-    <iframe src="https://player.vimeo.com/video/723447694?h=935e4fa3fe?autoplay=1&muted=1" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen  style="float:bottom"></iframe>
+    <iframe src="https://player.vimeo.com/video/831240524?h=935e4fa3fe?autoplay=1&muted=1" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen  style="float:bottom"></iframe>
     Impressions from 2022
   </div>  
 </div>
