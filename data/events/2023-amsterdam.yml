@@ -264,7 +264,7 @@ program:
     end_time: "10:30"
     comments: "Expo 2"
     
-   - title: "ws-andrew-zigler"
+  - title: "ws-andrew-zigler"
     type: workshop
     date: 2023-06-21T00:00:00+02:00
     start_time: "09:00"
