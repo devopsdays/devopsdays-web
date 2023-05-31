@@ -263,6 +263,13 @@ program:
     start_time: "09:00"
     end_time: "10:30"
     comments: "Expo 2"
+    
+   - title: "ws-andrew-zigler"
+    type: workshop
+    date: 2023-06-21T00:00:00+02:00
+    start_time: "09:00"
+    end_time: "09:45"
+    comments: "Studio"
 
   - title: "ws-julia-sullivan"
     type: workshop
@@ -321,27 +328,20 @@ program:
     start_time: "13:00"
     end_time: "13:45"
     comments: "Expo 2"
-
-  - title: "ws-andrew-zigler"
+    
+  - title: "ws-andrew-hill"
     type: workshop
     date: 2023-06-21T00:00:00+02:00
     start_time: "13:00"
-    end_time: "13:45"
+    end_time: "14:30"
     comments: "Studio"
 
   - title: "ws-dotan-horovits"
     type: workshop
     date: 2023-06-21T00:00:00+02:00
-    start_time: "13:45"
-    end_time: "14:30"
+    start_time: "13:50"
+    end_time: "14:33"
     comments: "Expo 2"
-
-  - title: "ws-lutske-de-leeuw"
-    type: workshop
-    date: 2023-06-21T00:00:00+02:00
-    start_time: "13:45"
-    end_time: "14:30"
-    comments: "Studio"
 
   - title: "ws-mark-heistek"
     type: workshop
@@ -353,51 +353,58 @@ program:
   - title: "Break"
     type: custom
     date: 2023-06-21T00:00:00+02:00
-    start_time: "14:30"
-    end_time: "15:00"
+    start_time: "14:35"
+    end_time: "15:05"
 
   # After Break
 
   - title: "ws-nathen-harvey-amanda-lewis"
     type: workshop
     date: 2023-06-21T00:00:00+02:00
-    start_time: "15:00"
-    end_time: "17:00"
+    start_time: "15:10"
+    end_time: "17:10"
     comments: "Grote Zaal"
 
   - title: "ws-michael-arenzon"
     type: workshop
     date: 2023-06-21T00:00:00+02:00
-    start_time: "15:00"
-    end_time: "17:00"
+    start_time: "15:10"
+    end_time: "17:10"
     comments: "Expo 1"
 
   - title: "ws-derik-evangelista-winna-bridgewater"
     type: workshop
     date: 2023-06-21T00:00:00+02:00
-    start_time: "15:00"
-    end_time: "16:30"
+    start_time: "15:10"
+    end_time: "16:40"
     comments: "Expo 2"
 
   - title: "ws-jamie-lee-coleman"
     type: workshop
     date: 2023-06-21T00:00:00+02:00
-    start_time: "15:00"
-    end_time: "17:00"
+    start_time: "15:10"
+    end_time: "17:10"
     comments: "Studio"
 
   - title: "ws-engin-diri-ringo-de-smet"
     type: workshop
     date: 2023-06-21T00:00:00+02:00
-    start_time: "15:00"
-    end_time: "17:00"
+    start_time: "15:10"
+    end_time: "17:10"
     comments: "Ij Zaal"
+ 
+  - title: "ws-lutske-de-leeuw"
+    type: workshop
+    date: 2023-06-21T00:00:00+02:00
+    start_time: "16:45"
+    end_time: "17:30"
+    comments: "Expo 2"
 
   # end of day
   - title: "Have a beer on us!"
     type: custom
     date: 2023-06-21T00:00:00+02:00
-    start_time: "17:00"
+    start_time: "17:30"
     end_time: "18:30"
     comments: "Pakhuis de Zwijger bar"
 
