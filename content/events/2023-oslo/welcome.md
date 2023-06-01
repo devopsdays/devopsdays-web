@@ -46,7 +46,9 @@ Description = "devopsdays Oslo 2023"
             <strong>Register</strong>
           </div>
           <div class = "col-md-8">
-           Registration opening soon
+<a href=https://ti.to/devopsdaysoslo/2023/>Tickets at ti.to</a>
+<script src="https://js.tito.io/v2" async></script>
+<tito-widget event="devopsdaysoslo/2023"></tito-widget>
           </div>
         </div>
         <div class = "row">
@@ -62,7 +64,7 @@ Description = "devopsdays Oslo 2023"
             <strong>Speakers</strong>
           </div>
           <div class = "col-md-8">
-            Speakers TBA
+              {{< event_link page="speakers" text="Speakers" >}}
           </div>
         </div>
         <div class="row">
