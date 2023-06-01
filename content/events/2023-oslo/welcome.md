@@ -61,6 +61,14 @@ Description = "devopsdays Oslo 2023"
         </div>
         <div class = "row">
           <div class = "col-md-2">
+            <strong>Propose/CFP</strong>
+          </div>
+          <div class = "col-md-8">
+              {{< event_link page="propose" text="Propose a talk / Call For Proposals" >}}
+          </div>
+        </div>
+        <div class = "row">
+          <div class = "col-md-2">
             <strong>Speakers</strong>
           </div>
           <div class = "col-md-8">
