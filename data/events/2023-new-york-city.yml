@@ -132,6 +132,14 @@ sponsors:
     url: https://www.glassbox.com/solutions/engineering-devops/?utm_medium=referral&utm_source=devopsdays&utm_campaign=tradeshow-devops-days-nyc-2023-q2&lsd=Tradeshow-DevOps-Days-NYC
   - id: sym
     level: registration
+  - id: pagerduty
+    level: gold
+  - id: pagerduty
+    level: lunch
+  - id: cloudbees
+    level: silver
+  - id: nobl9
+    level: silver
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -154,8 +162,8 @@ sponsor_levels:
   #   label: Live Captioning
   - id: registration
     label: Registration
-  # - id: lunch
-  #   label: Lunch
+  - id: lunch
+    label: Lunch
   # - id: breakfast
   #   label: Breakfast
   - id: startup

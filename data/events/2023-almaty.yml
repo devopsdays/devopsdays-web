@@ -1,8 +1,8 @@
-name: "2023-atlanta" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+name: "2023-almaty" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2023" # The year of the event. Make sure it is in quotes.
-city: "Atlanta" # The displayed city name of the event. Capitalize it.
-event_twitter: "devopsdaysATL" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "Devopsdays is coming to Atlanta!" # Edit this to suit your preferences
+city: "Almaty" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdays" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "DevOpsDays in Almaty again!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2023-MM-DDTHH:MM:SS+TZ:TZ, like this:
@@ -10,15 +10,15 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2023-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: 2023-09-18T00:00:00+02:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2023-09-19T23:59:59+02:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate:  2023-09-08T09:00:00+06:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  2023-09-08T18:00:00+06:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2023-03-14T00:00:00+02:00 # start accepting talk proposals.
-cfp_date_end: 2023-07-10T16:54:00+00:00 # close your call for proposals.
+cfp_date_start: 2023-05-15T09:00:00+06:00  # start accepting talk proposals.
+cfp_date_end:  2023-08-15T09:00:00+06:00 # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
 
-cfp_link: "https://www.papercall.io/devopsdaysatl2023" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://docs.google.com/forms/d/e/1FAIpQLSeaZvy3CnAUCMhE-rBL7eZIAoCdauGzuqU2dxr9GleFdflsYQ/viewform" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
@@ -29,13 +29,13 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 # Location
 #
 coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "The Historic Academy of Medicine" # Defaults to city, but you can make it the venue name.
+location: "Almaty" # Defaults to city, but you can make it the venue name.
 #
-location_address: "875 W Peachtree St NW, Atlanta, GA 30309" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "Event Space, Forum, Seifullin st., 617" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
- # - name: location
+  - name: location
  # - name: registration
  # - name: program
  # - name: speakers
@@ -49,41 +49,18 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
-  - name: "Chris Corriere"
-    image: "chris-corriere.jpg"
-    twitter: "ecology_chris"
+  - name: "Tamerlan Abu"
+    linkedin: "https://www.linkedin.com/in/tamerlan-abu-8442191b1/"
+  - name: "Rustem Uspanov"
+    linkedin: "https://www.linkedin.com/in/ruspanov/"
+  - name: "Nurbek Sadykov"
+    linkedin: "https://www.linkedin.com/in/nurbeksadykov/"
 
-  - name: "John Dyer"
-    image: "john-dyer.jpg"
-    twitter: "thedyers"
-
-  - name: "Andre Thenot"
-    image: "andre-thenot.jpg"
-    twitter: "athenot"
-
-  - name: "Claire Moss"
-    image: "claire-moss.jpg"
-    twitter: "aclairefication"
-
-  - name: "Brandy Griffin"
-    image: "brandy-griffin.jpg"
-
-  - name: "Ajuna Kyaruzi"
-    image: "ajuna-kyaruzi.jpg"
-
-  - name: "Savannah Champion"
-    image: "savannah-champion.jpg"
-
-organizer_email: "atlanta@devopsdays.org" # Put your organizer email address here
+organizer_email: "almaty@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
- # - id: samplesponsorname
- #   level: gold
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  - id: arresteddevops
-    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -92,12 +69,9 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: platinum
-    label: Platinum
-    max: 1
   - id: gold
     label: Gold
-    max: 10
+#    max: 10
   - id: silver
     label: Silver
     max: 0 # This is the same as omitting the max limit.

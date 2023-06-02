@@ -1,22 +1,22 @@
 +++
-Title = "devopsdays Atlanta 2023"
+Title = "devopsdays Ljubljana 2023"
 Type = "welcome"
-aliases = ["/events/2023-atlanta/"]
-Description = "devopsdays Atlanta 2023"
+aliases = ["/events/2023-ljubljana/"]
+Description = "devopsdays Ljubljana 2023"
 +++
 
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Dates</strong>
   </div>
   <div class = "col-md-8">
     {{< event_start >}} - {{< event_end >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">

@@ -8,7 +8,7 @@ aliases = ["/events/2023-chicago/covid"]
 In order to ensure the health and safety of all our attendees, staff, speakers, sponsors, and venue partners, DevOpsDays Chicago is instituting the following COVID-19 policy for our 2023 event
 
 ### Vaccination / Testing
-* We are requiring vaccination or a negative test (PCR or antigen) within the last 24 hours for in-person attendance. If you are not able to show proof of vaccination or a negative test, you are invited to participate online. Specifically, all in-person participants - including sponsors, speakers, staff, and attendees - must have completed a full COVID-19 vaccination at least two (2) weeks prior to this event, by **July 26, 2023**. 
+* We are requiring vaccination *or* a negative test (PCR or antigen) within the last 24 hours for in-person attendance. If you are not able to show proof of vaccination or a negative test, you are invited to participate online. Specifically, all in-person participants - including sponsors, speakers, staff, and attendees - must have completed a full COVID-19 vaccination at least two (2) weeks prior to this event, by **July 26, 2023** or provide a negative test (see details below). 
 * We will require proof of vaccination – original card, legible photo of card (front and back), or government-compliant digital vaccination verification app (such as Clear or VaxYes) – plus matching ID for badge pickup.
 * We will require proof of a negative COVID test within the last 24 hours if proof of vaccination is not available. Acceptable proof of testing includes the original PCR test printout or email, a negative antigen test result or a photo of a negative antigen test result with something reflecting the date in it. A **limited** number of antigen tests will be available on-site.
 
@@ -30,6 +30,4 @@ We reserve the right to change our Health & Safety policy and will be constantly
 Please note our policies are also subject to change depending on federal, state, and local requirements/guidelines/mandates.
 
 ### International Travelers
-* All non-U.S. citizens whose immigration status is nonimmigrant in order to enter the United States are required to show proof of vaccination at ports of departure when entering the United States.  Please visit the Department of Homeland Security website [here](https://www.dhs.gov/news/2021/10/29/frequently-asked-questions-guidance-travelers-enter-us) or the CDC website [here](https://www.cdc.gov/coronavirus/2019-ncov/travelers/proof-of-vaccination.html) for additional guidance. 
-* Additionally you can also check with your flight carrier as they may have updated information.
-* We welcome travelers from outside of the US, but do not necessarily have expertise in validating non-CDC-issued vaccine cards. Please reach out to us at chicago@devopsdays.org ahead of the conference, so that we can ensure that we’re prepared to validate your vaccine card.
+* We welcome travelers from outside of the US, but do not necessarily have expertise in validating non-CDC-issued vaccine cards. Please reach out to us at chicago@devopsdays.org ahead of the conference, so that we can ensure that we’re prepared to validate your vaccine card. Alternatively, you are welcome to provide a negative test in lieu of a vaccindation card.

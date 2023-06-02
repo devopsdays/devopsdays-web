@@ -207,6 +207,9 @@ sponsors:
   - id: linuxtips
     level: community
     url: https://www.linuxtips.io/
+  - id: mundo-sem-fio
+    level: community
+    url: http://mundosemfio.com.br/
   # - id: forja
   #   level: silver
   #   url: https://techleadership.rocks
@@ -216,9 +219,9 @@ sponsors:
   # - id: urbanostreet
   #   level: community
   #   url: https://www.instagram.com/urbano.street/
-  # - id: grafanabr
-  #   level: community
-  #   url: https://grafana.com/
+  - id: grafanabr
+    level: bronze
+    url: https://grafana.com/
   # - id: servix
   #   level: community
   #   url: https://servix.com/

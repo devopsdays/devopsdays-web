@@ -1,14 +1,11 @@
 +++
-Title = "Propose a talk"
+Title = "Propose"
 Type = "event"
-Description = "Propose a talk for devopsdays Oslo 2023"
+Description = "Propose a talk for devopsdays Almaty 2023"
 +++
   {{< cfp_dates >}}
 
 <hr>
-
-<strong>Go to https://sessionize.com/devopsdays-oslo-2023 to submit your proposal.</strong> 
-
 
 There are three ways to propose a topic at devopsdays:
 <ol>
@@ -30,6 +27,9 @@ Choosing talks is part art, part science; here are some factors we consider when
 
 <hr>
 
-<strong>Go to https://sessionize.com/devopsdays-oslo-2023 to submit your proposal.</strong> 
-
-Send an email to [{{< email_organizers >}}] for any questions.
+<strong>How to submit a proposal:</strong> Send an email to [{{< email_organizers >}}] with the following information
+<ol>
+	<li>Type (presentation, panel discussion, ignite)</li>
+	<li>Proposal Title (can be changed later)</li>
+	<li>Description (several sentences explaining what attendees will learn)</li>
+</ol>
