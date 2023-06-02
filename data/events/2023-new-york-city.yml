@@ -297,11 +297,11 @@ program:
     type: ignite
     date: "2023-06-07"
     start_time: "11:00"
-    end_time: "11:30"
+    end_time: "11:25"
   - title: "Sponsors"
     type: custom
     date: "2023-06-07"
-    start_time: "11:30"
+    start_time: "11:25"
     end_time: "11:35"
   - title: "Open Space (Attendee Led Breakout Session) Organizing"
     type: open-space
