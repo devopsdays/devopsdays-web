@@ -70,6 +70,8 @@ organizer_email: "boston@devopsdays.org"
 
 # Uncomment when opening for sponsorships.
 sponsors:
+  - id: elastic
+    level: platinum
 #  - id: foo
 #    level: bar
 
