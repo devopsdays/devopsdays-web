@@ -40,7 +40,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: propose
  # - name: location
   - name: registration
- # - name: program
+  - name: program
   - name: speakers
   - name: sponsor
   - name: contact
@@ -101,7 +101,6 @@ sponsors:
     level: bronze
   - id: spinks
     level: talent-solutions
-
   - id: bjss
     level: silver
   - id: akeyless
@@ -135,3 +134,315 @@ sponsor_levels:
   - id: talent-solutions
     label: Talent Solutions
     max: 1
+
+
+program:
+  - title: "Pre-conference Social at Tilt - Birmingham"
+    type: custom
+    date: 2023-06-14T19:30:00+00:00
+    start_time: "19:30"
+    end_time: "23:00"
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2023-06-15T09:00:00+00:00
+    start_time: "08:00"
+    end_time: "08:50"
+  - title: "Opening Welcome - Both Tracks"
+    type: custom
+    date: 2023-06-15T09:00:00+00:00
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "leon-adato"
+    type: talk
+    date: 2023-06-15T09:00:00+00:00
+    start_time: "09:20"
+    end_time: "09:50"
+  - title: "hannah-mitchell"
+    type: talk
+    date: 2023-06-15T09:00:00+00:00
+    start_time: "09:20"
+    end_time: "09:50"
+    background_color: "#8ad0d3"
+  - title: "salma-alam-naylor"
+    type: talk
+    date: 2023-06-15T09:00:00+00:00
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "fawaz-ghali"
+    type: talk
+    date: 2023-06-15T09:00:00+00:00
+    start_time: "09:55"
+    end_time: "10:25"
+    background_color: "#8ad0d3"
+  - title: "Morning Break"
+    type: custom
+    date: 2023-06-15T09:00:00+00:00
+    start_time: "10:25"
+    end_time: "10:45"
+  - title: "viktor-farcic"
+    type: talk
+    date: 2023-06-15T09:00:00+00:00
+    start_time: "10:50"
+    end_time: "11:20"
+  - title: "omar-qureshi"
+    type: talk
+    date: 2023-06-15T09:00:00+00:00
+    start_time: "10:50"
+    end_time: "11:20"
+    background_color: "#8ad0d3"
+  - title: "kat-samperi"
+    type: talk
+    date: 2023-06-15T09:00:00+00:00
+    start_time: "11:25"
+    end_time: "11:55"
+  - title: "elizabeth-lawel"
+    type: talk
+    date: 2023-06-15T09:00:00+00:00
+    start_time: "11:25"
+    end_time: "11:55"
+    background_color: "#8ad0d3"
+  - title: "Ignite talks"
+    type: custom
+    date: 2023-06-15T09:00:00+00:00
+    start_time: "12:00"
+    end_time: "12:30"
+    background_color: "#abebff"
+  - title: "carly-richmond"
+    type: talk
+    date: 2023-06-15T09:00:00+00:00
+    start_time: "12:00"
+    end_time: "12:30"
+    background_color: "#8ad0d3"
+  - title: "Open Space Opening - Both Tracks"
+    type: custom
+    date: 2023-06-15T09:00:00+00:00
+    start_time: "12:35"
+    end_time: "12:45"
+  - title: "Lunch"
+    type: custom
+    date: 2023-06-15T09:00:00+00:00
+    start_time: "12:45"
+    end_time: "13:45"
+  - title: "Afternoon Introduction - Auditorium"
+    type: custom
+    date: 2023-06-15T09:00:00+00:00
+    start_time: "13:50"
+    end_time: "14:05"
+    background_color: "#abebff"
+  - title: "Open Space Planning - ThinkTank"
+    type: custom
+    date: 2023-06-15T09:00:00+00:00
+    start_time: "13:50"
+    end_time: "14:05"
+    background_color: "#8ad0d3"
+  - title: "craig-box"
+    type: talk
+    date: 2023-06-15T09:00:00+00:00
+    start_time: "14:10"
+    end_time: "14:40"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2023-06-15T09:00:00+00:00
+    start_time: "14:10"
+    end_time: "14:40"
+    background_color: "#8ad0d3"
+  - title: "amanda-brock"
+    type: talk
+    date: 2023-06-15T09:00:00+00:00
+    start_time: "14:40"
+    end_time: "15:10"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2023-06-15T09:00:00+00:00
+    start_time: "14:40"
+    end_time: "15:10"
+    background_color: "#8ad0d3"
+  - title: "Afternoon Break"
+    type: custom
+    date: 2023-06-15T09:00:00+00:00
+    start_time: "15:10"
+    end_time: "15:30"
+  - title: "kris-buytaert"
+    type: talk
+    date: 2023-06-15T09:00:00+00:00
+    start_time: "15:30"
+    end_time: "16:00"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2023-06-15T09:00:00+00:00
+    start_time: "15:30"
+    end_time: "16:00"
+    background_color: "#8ad0d3"
+  - title: "joanna-suau"
+    type: talk
+    date: 2023-06-15T09:00:00+00:00
+    start_time: "16:00"
+    end_time: "16:30"
+  - title: "Open Space #4"
+    type: open-space
+    date: 2023-06-15T09:00:00+00:00
+    start_time: "16:00"
+    end_time: "16:30"
+    background_color: "#8ad0d3"
+  - title: "Close Day - Audoitorium"
+    type: custom
+    date: 2023-06-15T09:00:00+00:00
+    start_time: "16:30"
+    end_time: "16:40"
+    background_color: "#abebff"
+  - title: "Evening event @ Luna Springs"
+    type: custom
+    date: 2023-06-15T09:00:00+00:00
+    start_time: "17:30"
+    end_time: "late"
+    custom_url: "https://www.lunasprings.co.uk/"
+
+  # TODO day 2
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2023-06-16T09:00:00+00:00
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome - Both Tracks"
+    type: custom
+    date: 2023-06-16T09:00:00+00:00
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "kat-cosgrove"
+    type: talk
+    date: 2023-06-16T09:00:00+00:00
+    start_time: "09:20"
+    end_time: "09:50"
+  - title: "lin-sun"
+    type: talk
+    date: 2023-06-16T09:00:00+00:00
+    start_time: "09:20"
+    end_time: "09:50"
+    background_color: "#8ad0d3"
+  - title: "stuart-langridge"
+    type: talk
+    date: 2023-06-16T09:00:00+00:00
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "simon-gurney"
+    type: talk
+    date: 2023-06-16T09:00:00+00:00
+    start_time: "09:55"
+    end_time: "10:25"
+    background_color: "#8ad0d3"
+  - title: "Break"
+    type: custom
+    date: 2023-06-16T09:00:00+00:00
+    start_time: "10:25"
+    end_time: "10:45"
+  - title: "zakariya-mohummed"
+    type: talk
+    date: 2023-06-16T09:00:00+00:00
+    start_time: "10:50"
+    end_time: "11:20"
+  - title: "esther-barthel"
+    type: talk
+    date: 2023-06-16T09:00:00+00:00
+    start_time: "10:50"
+    end_time: "11:20"
+    background_color: "#8ad0d3"
+  - title: "baruch-sadogursky"
+    type: talk
+    date: 2023-06-16T09:00:00+00:00
+    start_time: "11:25"
+    end_time: "11:55"
+  - title: "steve-heyes"
+    type: talk
+    date: 2023-06-16T09:00:00+00:00
+    start_time: "11:25"
+    end_time: "11:55"
+    background_color: "#8ad0d3"
+  - title: "Ignites day 2"
+    type: custom
+    date: 2023-06-16T09:00:00+00:00
+    start_time: "12:00"
+    end_time: "12:30"
+    background_color: "#abebff"
+  - title: "andy-burgin"
+    type: talk
+    date: 2023-06-16T09:00:00+00:00
+    start_time: "12:00"
+    end_time: "12:30"
+    background_color: "#8ad0d3"
+  - title: "Open Space Introduction - Both Tracks"
+    type: custom
+    date: 2023-06-16T09:00:00+00:00
+    start_time: "12:35"
+    end_time: "12:45"
+  - title: "Lunch"
+    type: custom
+    date: 2023-06-16T09:00:00+00:00
+    start_time: "12:45"
+    end_time: "13:45"
+  - title: "Afternoon Introduction - Auditorium"
+    type: custom
+    date: 2023-06-16T09:00:00+00:00
+    start_time: "13:50"
+    end_time: "14:05"
+    background_color: "#abebff"
+  - title: "Open Space Planning- ThinkTank"
+    type: custom
+    date: 2023-06-16T09:00:00+00:00
+    start_time: "13:50"
+    end_time: "14:05"
+    background_color: "#8ad0d3"
+  - title: "hila-fish"
+    type: talk
+    date: 2023-06-16T09:00:00+00:00
+    start_time: "14:10"
+    end_time: "14:40"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2023-06-16T09:00:00+00:00
+    start_time: "14:10"
+    end_time: "14:40"
+    background_color: "#8ad0d3"
+  - title: "eli-holderness"
+    type: talk
+    date: 2023-06-16T09:00:00+00:00
+    start_time: "14:40"
+    end_time: "15:10"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2023-06-16T09:00:00+00:00
+    start_time: "14:40"
+    end_time: "15:10"
+    background_color: "#8ad0d3"
+  - title: "Afternoon Break"
+    type: custom
+    date: 2023-06-16T09:00:00+00:00
+    start_time: "15:10"
+    end_time: "15:30"
+  - title: "krisztian-fekete"
+    type: talk
+    date: 2023-06-16T09:00:00+00:00
+    start_time: "15:30"
+    end_time: "16:00"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2023-06-16T09:00:00+00:00
+    start_time: "15:30"
+    end_time: "16:00"
+    background_color: "#8ad0d3"
+  - title: "max-woolf"
+    type: talk
+    date: 2023-06-16T09:00:00+00:00
+    start_time: "16:00"
+    end_time: "16:30"
+  - title: "Open Space #4"
+    type: open-space
+    date: 2023-06-16T09:00:00+00:00
+    start_time: "16:00"
+    end_time: "16:30"
+    background_color: "#8ad0d3"
+  - title: "Close Day - Auditorium"
+    type: custom
+    date: 2023-06-16T09:00:00+00:00
+    start_time: "16:30"
+    end_time: "16:40"
+    background_color: "#abebff"
