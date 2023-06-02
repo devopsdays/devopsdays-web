@@ -1,11 +1,14 @@
 +++
-Title = "Propose"
+Title = "Propose a talk"
 Type = "event"
 Description = "Propose a talk for devopsdays Oslo 2023"
 +++
   {{< cfp_dates >}}
 
 <hr>
+
+<strong>Go to https://sessionize.com/devopsdays-oslo-2023 to submit your proposal.</strong> 
+
 
 There are three ways to propose a topic at devopsdays:
 <ol>
