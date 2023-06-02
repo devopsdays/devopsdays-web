@@ -21,11 +21,11 @@ cfp_open: "false"
 cfp_link: "https://sessionize.com/devopsdays-tampa-bay-2023/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 #cfp_link: ""
 
-registration_date_start: ""# start accepting registration. Leave blank if registration is not open yet
-registration_date_end: ""# close registration. Leave blank if registration is not open yet.
+registration_date_start: "2023-06-01"# start accepting registration. Leave blank if registration is not open yet
+registration_date_end: "2023-09-21"# close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-#registration_link: "https://www.eventbrite.com/e/devopsdays-tampa-bay-2022-tickets-403152729667?aff=devopsdayswebsite" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.eventbrite.com/e/devopsdays-tampa-bay-2023-tickets-635898929817" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -39,7 +39,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
     icon: "map-o"
     url: /events/2023-tampa/location
-#  - name: registration
+  - name: registration
 #  - name: program
 #  - name: speakers
   - name: sponsor
