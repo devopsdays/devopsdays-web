@@ -99,6 +99,13 @@ team_members: # Name is the only required field for team members.
     website: "https://foreside.nl"
     image: "niekheezemans.jpeg"
 
+  - name: "Mona Shivdasani"
+    pronouns: "she/her"
+    linkedin: "https://www.linkedin.com/in/monashivdasani/"
+    twitter: "TrilandsBV"
+    github: "MonaShivdasani"
+    image: "mona.jpeg"
+
   # not-local to Eindhoven but also helping Eindhoven.
   - name: "Harm Boertien"
     twitter: "Harm_Ops"
