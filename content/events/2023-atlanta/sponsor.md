@@ -11,8 +11,7 @@ We greatly value sponsors for this open event.  If you are interested in sponsor
 <p>devopsdays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.</p>
 <p>The best thing to do is send engineers to interact with the experts at devopsdays on their own terms.</p>
 
-<p>For more information about the sponsorship opportunities available, see our [Sponsorship Prospectus](https://assets.devopsdays.org/events/2023/atlanta/devopsdays-atlanta-2023-prospectus.pdf).</p>
-
+<p>For more information about the sponsorship opportunities available, see our <a href="https://assets.devopsdays.org/events/2023/atlanta/devopsdays-atlanta-2023-prospectus.pdf">Sponsorship Prospectus</a>.</p>
 
 
 <hr/>
