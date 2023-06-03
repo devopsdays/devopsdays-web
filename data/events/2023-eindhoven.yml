@@ -106,6 +106,12 @@ team_members: # Name is the only required field for team members.
     github: "MonaShivdasani"
     image: "mona.jpeg"
 
+  - name: "Kris Buytaert"
+    twitter: "KrisBuytaert"
+    github: "KrisBuytaert"
+    linkedin: "https://www.linkedin.com/in/krisbuytaert"
+    image: "kris-buytaert.jpeg"
+
   # not-local to Eindhoven but also helping Eindhoven.
   - name: "Harm Boertien"
     twitter: "Harm_Ops"
