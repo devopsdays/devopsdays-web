@@ -170,7 +170,7 @@ sponsors:
   # Lanyard
   - id: schubergphilis
     level: lanyard
-  # Foodtrucks
+  # Foodtruck
   - id: exoscale
     level: foodtruck
   # Silver
@@ -231,8 +231,8 @@ sponsor_levels:
     label: Lanyard
     max: 1
   - id: foodtruck
-    label: "Food Trucks"
-    max: 4
+    label: "Food Truck"
+    max: 1
   - id: silver
     label: Silver
     max: 8
@@ -264,7 +264,7 @@ program:
     start_time: "09:00"
     end_time: "10:30"
     comments: "Expo 2"
-    
+
   - title: "ws-andrew-zigler"
     type: workshop
     date: 2023-06-21T00:00:00+02:00
@@ -336,7 +336,7 @@ program:
     start_time: "13:00"
     end_time: "13:45"
     comments: "Expo 2"
-    
+
   - title: "ws-andrew-hill"
     type: workshop
     date: 2023-06-21T00:00:00+02:00
@@ -400,7 +400,7 @@ program:
     start_time: "15:10"
     end_time: "17:10"
     comments: "Ij Zaal"
- 
+
   - title: "ws-lutske-de-leeuw"
     type: workshop
     date: 2023-06-21T00:00:00+02:00
