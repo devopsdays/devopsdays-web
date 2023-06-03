@@ -206,16 +206,16 @@ program:
     type: ignite
     date: "2023-06-06"
     start_time: "11:15"
-    end_time: "11:45"
+    end_time: "11:40"
   - title: "Open Space (Attendee Led Breakout Session) Organizing"
     type: open-space
     date: "2023-06-06"
-    start_time: "11:45"
-    end_time: "12:15"
+    start_time: "11:40"
+    end_time: "11:50"
   - title: "Lunch"
     type: custom
     date: "2023-06-06"
-    start_time: "12:15"
+    start_time: "11:50"
     end_time: "13:45"
   - title: "Open Space (Attendee Led Breakout Session) #1"
     type: open-space
@@ -297,16 +297,21 @@ program:
     type: ignite
     date: "2023-06-07"
     start_time: "11:00"
-    end_time: "11:30"
+    end_time: "11:25"
+  - title: "Sponsors"
+    type: custom
+    date: "2023-06-07"
+    start_time: "11:25"
+    end_time: "11:35"
   - title: "Open Space (Attendee Led Breakout Session) Organizing"
     type: open-space
     date: "2023-06-07"
-    start_time: "11:30"
-    end_time: "12:00"
+    start_time: "11:35"
+    end_time: "11:45"
   - title: "Lunch"
     type: custom
     date: "2023-06-07"
-    start_time: "12:00"
+    start_time: "11:45"
     end_time: "13:30"
   - title: "Open Space (Attendee Led Breakout Session) #1"
     type: open-space
