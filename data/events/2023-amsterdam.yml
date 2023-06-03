@@ -293,6 +293,13 @@ program:
     end_time: "12:00"
     comments: "Expo 2"
 
+  - title: "ws-jessica-rose-ritah-nabukalu"
+    type: workshop
+    date: 2023-06-21T00:00:00+02:00
+    start_time: "11:15"
+    end_time: "12:00"
+    comments: "Grote Zaal"
+
   - title: "ws-viktor-farcic-whitney-lee"
     type: workshop
     date: 2023-06-21T00:00:00+02:00
@@ -337,19 +344,19 @@ program:
     end_time: "14:30"
     comments: "Studio"
 
-  - title: "ws-dotan-horovits"
-    type: workshop
-    date: 2023-06-21T00:00:00+02:00
-    start_time: "13:50"
-    end_time: "14:33"
-    comments: "Expo 2"
-
   - title: "ws-mark-heistek"
     type: workshop
     date: 2023-06-21T00:00:00+02:00
     start_time: "13:00"
     end_time: "14:30"
     comments: "Ij Zaal"
+
+  - title: "ws-dotan-horovits"
+    type: workshop
+    date: 2023-06-21T00:00:00+02:00
+    start_time: "13:50"
+    end_time: "14:33"
+    comments: "Expo 2"
 
   - title: "Break"
     type: custom
