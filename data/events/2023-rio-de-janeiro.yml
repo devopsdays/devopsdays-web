@@ -221,10 +221,8 @@ program:
     date: 2023-08-19
     start_time: "10:30"
     end_time: "11:00"
-  # - title: "stephanie-chaia-bartels"
-  #   type: talk
-  - title: "TBA"
-    type: custom
+  - title: "stephanie-bartels"
+    type: talk
     date: 2023-08-19
     start_time: "10:30"
     end_time: "11:00"
@@ -253,10 +251,8 @@ program:
     end_time: "11:30"
     comments: "Trilha Iniciante - Sala: Deploy"
     background_color: "#fdf0d5"
-  # - title: "julia-nunes-pedrosa"
-  #   type: talk
-  - title: "TBA"
-    type: custom
+  - title: "julia-nunes-pedrosa"
+    type: talk
     date: 2023-08-19
     start_time: "11:00"
     end_time: "11:30"
