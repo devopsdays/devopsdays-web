@@ -140,6 +140,8 @@ sponsors:
   #Bronze
   - id: grafanalabs
     level: bronze
+  - id: impulso
+    level: bronze
 
   #Community
   - id: punkdodevops
