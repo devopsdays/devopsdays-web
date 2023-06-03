@@ -246,10 +246,8 @@ program:
     date: 2023-08-19
     start_time: "11:00"
     end_time: "11:30"
-  # - title: "paloma-lataliza"
-  #   type: talk
-  - title: "TBA"
-    type: custom
+  - title: "paloma-lataliza"
+    type: talk
     date: 2023-08-19
     start_time: "11:00"
     end_time: "11:30"
