@@ -366,10 +366,8 @@ program:
     end_time: "15:45"
     comments: "Trilha Iniciante - Sala: Deploy"
     background_color: "#fdf0d5"
-  # - title: "giovana-do-nascimento-pena"
-  #   type: talk
-  - title: "TBA"
-    type: custom
+  - title: "giovana-nascimento"
+    type: talk
     date: 2023-08-19
     start_time: "15:15"
     end_time: "15:45"
