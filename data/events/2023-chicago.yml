@@ -186,9 +186,13 @@ sponsors:
     level: gold
   - id: dell-technologies
     level: gold
+  - id: googlecloud
+    level: gold
   - id: launch-darkly
     level: gold
   - id: kosli
+    level: gold
+  - id: mezmo
     level: gold
   - id: nobl9
     level: gold
@@ -226,6 +230,8 @@ sponsors:
   - id: chicago-devops
     level: community
   - id: microsoft-teals
+    level: community
+  - id: bit-chicago
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -437,7 +443,7 @@ program:
     date: 2023-08-10
     start_time: "15:15"
     end_time: "16:00"
-  - title: "theresa-mammarella"
+  - title: "eddie-knight"
     type: workshop
     date: 2023-08-10
     start_time: "15:15"

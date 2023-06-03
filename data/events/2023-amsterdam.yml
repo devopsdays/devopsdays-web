@@ -200,6 +200,7 @@ sponsors:
   - id: inuits
     level: bronze
   - id: kabisa
+    url: https://cloudlegends.nl/
     level: bronze
   - id: atcomputing
     level: bronze
@@ -263,6 +264,13 @@ program:
     start_time: "09:00"
     end_time: "10:30"
     comments: "Expo 2"
+    
+  - title: "ws-andrew-zigler"
+    type: workshop
+    date: 2023-06-21T00:00:00+02:00
+    start_time: "09:00"
+    end_time: "09:45"
+    comments: "Studio"
 
   - title: "ws-julia-sullivan"
     type: workshop
@@ -284,6 +292,13 @@ program:
     start_time: "10:30"
     end_time: "12:00"
     comments: "Expo 2"
+
+  - title: "ws-jessica-rose-ritah-nabukalu"
+    type: workshop
+    date: 2023-06-21T00:00:00+02:00
+    start_time: "11:15"
+    end_time: "12:00"
+    comments: "Grote Zaal"
 
   - title: "ws-viktor-farcic-whitney-lee"
     type: workshop
@@ -321,25 +336,11 @@ program:
     start_time: "13:00"
     end_time: "13:45"
     comments: "Expo 2"
-
-  - title: "ws-andrew-zigler"
+    
+  - title: "ws-andrew-hill"
     type: workshop
     date: 2023-06-21T00:00:00+02:00
     start_time: "13:00"
-    end_time: "13:45"
-    comments: "Studio"
-
-  - title: "ws-dotan-horovits"
-    type: workshop
-    date: 2023-06-21T00:00:00+02:00
-    start_time: "13:45"
-    end_time: "14:30"
-    comments: "Expo 2"
-
-  - title: "ws-lutske-de-leeuw"
-    type: workshop
-    date: 2023-06-21T00:00:00+02:00
-    start_time: "13:45"
     end_time: "14:30"
     comments: "Studio"
 
@@ -350,54 +351,68 @@ program:
     end_time: "14:30"
     comments: "Ij Zaal"
 
+  - title: "ws-dotan-horovits"
+    type: workshop
+    date: 2023-06-21T00:00:00+02:00
+    start_time: "13:50"
+    end_time: "14:33"
+    comments: "Expo 2"
+
   - title: "Break"
     type: custom
     date: 2023-06-21T00:00:00+02:00
-    start_time: "14:30"
-    end_time: "15:00"
+    start_time: "14:35"
+    end_time: "15:05"
 
   # After Break
 
   - title: "ws-nathen-harvey-amanda-lewis"
     type: workshop
     date: 2023-06-21T00:00:00+02:00
-    start_time: "15:00"
-    end_time: "17:00"
+    start_time: "15:10"
+    end_time: "17:10"
     comments: "Grote Zaal"
 
   - title: "ws-michael-arenzon"
     type: workshop
     date: 2023-06-21T00:00:00+02:00
-    start_time: "15:00"
-    end_time: "17:00"
+    start_time: "15:10"
+    end_time: "17:10"
     comments: "Expo 1"
 
   - title: "ws-derik-evangelista-winna-bridgewater"
     type: workshop
     date: 2023-06-21T00:00:00+02:00
-    start_time: "15:00"
-    end_time: "16:30"
+    start_time: "15:10"
+    end_time: "16:40"
     comments: "Expo 2"
 
   - title: "ws-jamie-lee-coleman"
     type: workshop
     date: 2023-06-21T00:00:00+02:00
-    start_time: "15:00"
-    end_time: "17:00"
+    start_time: "15:10"
+    end_time: "17:10"
     comments: "Studio"
 
   - title: "ws-engin-diri-ringo-de-smet"
     type: workshop
     date: 2023-06-21T00:00:00+02:00
-    start_time: "15:00"
-    end_time: "17:00"
+    start_time: "15:10"
+    end_time: "17:10"
     comments: "Ij Zaal"
+ 
+  - title: "ws-lutske-de-leeuw"
+    type: workshop
+    date: 2023-06-21T00:00:00+02:00
+    start_time: "16:45"
+    end_time: "17:30"
+    comments: "Expo 2"
 
   # end of day
   - title: "Have a beer on us!"
     type: custom
     date: 2023-06-21T00:00:00+02:00
-    start_time: "17:00"
+    start_time: "17:30"
     end_time: "18:30"
     comments: "Pakhuis de Zwijger bar"
 
@@ -499,12 +514,12 @@ program:
     start_time: "16:15"
     end_time: "16:45"
     comments: "Beyond DevOps Track | Location: Grote Zaal"
-  - title: "BBQ by Smokey Goodness brought to by our potential Platinum Sponsor"
+  - title: "BBQ by Smokey Goodness brought to by our Platinum sponsor Portworx by Pure Storage"
     type: custom
     date: 2023-06-22T00:00:00+02:00
     start_time: "17:00"
     end_time: "19:00"
-    comments: "Location: Outside, in front of venue"
+    comments: "Location: Outside, in front of venue brought to by our Platinum sponsor Portworx by Pure Storage"
   - title: "Musical Surprise"
     type: custom
     date: 2023-06-22T00:00:00+02:00
@@ -516,7 +531,7 @@ program:
     date: 2023-06-22T00:00:00+02:00
     start_time: "19:30"
     end_time: "23:00"
-    comments: "Location: Grote Zaal"
+    comments: "Location: Grote Zaal brought to by our Platinum sponsor Portworx by Pure Storage"
 
   # DAY 2
   - title: "Registration, Breakfast, and Sponsor Booths Open"

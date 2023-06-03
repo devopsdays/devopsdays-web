@@ -177,11 +177,15 @@ sponsors:
     level: community
   - id: devopsdays-des-moines
     level: community
+  - id: devopsdays-geneva
+    level: community
   - id: devopsdays-ghent
     level: community
   - id: devopsdays-eindhoven
     level: community
   - id: devopsdays-nyc
+    level: community
+  - id: devopsdays-seattle
     level: community
   - id: devopsdays-zurich
     level: community
