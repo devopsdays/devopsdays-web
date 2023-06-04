@@ -2,13 +2,10 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Stress Management for Developers"
+Title = "Learning Driven (Personal) Development"
 Type = "talk"
 Speakers = ["jessica-rose", "ritah-nabukalu"]
 +++
 
-Join our empowering workshop, "Stress Management for Developers," and discover powerful strategies to thrive in the fast-paced world of coding. Uncover effective stress management techniques tailored for developers, enabling you to boost productivity and well-being. 
+Keeping up with everything you’re “supposed” to know in tech can be exhausting. In this workshop we’ll explore some of the concrete fundamental concepts of how we learn, before looking at some great, flexible ways to plan how you’re going to approach your learning. We’ll cover some key concepts relevant to beginner technologists, before moving on to look at how developers further in their career can continue their learning journey. We’ll include a number of concrete tips designed to address a range of learning styles. At the end of this workshop you should have templates for how you might want to plan your learning moving forward, as well as the foundational knowledge needed to make the most of your learning sessions.
 
-Learn mindfulness practices to find calm amidst deadlines and demands. Explore practical time management skills to streamline your workflow and enhance focus. Build a supportive community of fellow developers and master communication techniques. Embrace stress as a catalyst for growth and innovation. 
-
-Don't miss this opportunity to conquer stress and unlock your full potential as a developer.
