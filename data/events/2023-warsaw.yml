@@ -1,5 +1,5 @@
-name: "2022-warsaw" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
-year: "2022" # The year of the event. Make sure it is in quotes.
+name: "2023-warsaw" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2023" # The year of the event. Make sure it is in quotes.
 city: "Warsaw" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdayswaw" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 event_logo: "" # TBD
