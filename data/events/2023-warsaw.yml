@@ -91,7 +91,7 @@ team_members: # Name is the only required field for team members.
     image: "placeholder.jpg"
     employer: "PROIDEA"
   - name: "Karolina Ochlik"
-    image: "placeholder.jpg"
+    image: "karolina.jpg"
   - name: "Paweł Piwosz"
     employer: "Spacelift"
     image: "piwosz.jpg"
