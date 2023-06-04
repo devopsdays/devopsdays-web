@@ -41,7 +41,7 @@ Description = "devopsdays Eindhoven 2023 will take place October 11-12, 2023"
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
+    <a href="https://talx.devops.foundation/devopsdays-eindhoven-2023/cfp">Propose a talk!</a>
   </div>
 </div>
 
@@ -135,7 +135,7 @@ Description = "devopsdays Eindhoven 2023 will take place October 11-12, 2023"
         <div class="d-flex p-2">
           <a class="btn btn-primary btn-block"
             style="margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;"
-            href="https://www.meetup.com/DevOpsAmsterdam/">
+            href="https://www.meetup.com/devops-eindhoven/">
             <i class="fa fa-meetup fa-lg"></i>&nbsp;&nbsp;&nbsp;Join Us On Meetup
           </a>
         </div>
