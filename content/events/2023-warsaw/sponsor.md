@@ -4,7 +4,7 @@ Type = "event"
 Description = "Sponsor devopsdays Warsaw 2023"
 +++
 
-We greatly value sponsors for this open event. If you are interested in sponsoring, please contact us via email: [{{< email_organizers >}}]
+We greatly value sponsors for this open event. If you are interested in sponsoring, please contact us via email: {{< email_organizers >}}
 
 <hr>
 
