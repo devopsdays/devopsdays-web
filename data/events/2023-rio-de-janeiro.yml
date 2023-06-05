@@ -140,6 +140,8 @@ sponsors:
   #Bronze
   - id: grafanalabs
     level: bronze
+  - id: impulso-2023
+    level: bronze
 
   #Community
   - id: punkdodevops
@@ -217,10 +219,10 @@ program:
   - title: "Sessão 1"
     type: custom
     date: 2023-08-19
-  # - title: "stephanie-chaia-bartels"
-  #   type: talk
-  - title: "TBA"
-    type: custom
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "stephanie-bartels"
+    type: talk
     date: 2023-08-19
     start_time: "10:30"
     end_time: "11:00"
@@ -240,19 +242,17 @@ program:
   - title: "Sessão 2"
     type: custom
     date: 2023-08-19
-  # - title: "paloma-lataliza"
-  #   type: talk
-  - title: "TBA"
-    type: custom
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "paloma-lataliza"
+    type: talk
     date: 2023-08-19
     start_time: "11:00"
     end_time: "11:30"
     comments: "Trilha Iniciante - Sala: Deploy"
     background_color: "#fdf0d5"
-  # - title: "julia-nunes-pedrosa"
-  #   type: talk
-  - title: "TBA"
-    type: custom
+  - title: "julia-nunes-pedrosa"
+    type: talk
     date: 2023-08-19
     start_time: "11:00"
     end_time: "11:30"
@@ -301,10 +301,10 @@ program:
   - title: "Sessão 3"
     type: custom
     date: 2023-08-19
-  # - title: "brendo"
-  #   type: talk
-  - title: "TBA"
-    type: custom
+    start_time: "14:15"
+    end_time: "14:45"
+  - title: "brendo-freitas"
+    type: talk
     date: 2023-08-19
     start_time: "14:15"
     end_time: "14:45"
@@ -324,6 +324,8 @@ program:
   - title: "Sessão 4"
     type: custom
     date: 2023-08-19
+    start_time: "14:45"
+    end_time: "15:15"
   # - title: "bernardo"
   #   type: talk
   - title: "TBA"
@@ -347,6 +349,8 @@ program:
   - title: "Sessão 5"
     type: custom
     date: 2023-08-19
+    start_time: "15:15"
+    end_time: "15:45"
   # - title: "marcos-souza"
   #   type: talk
   - title: "TBA"
@@ -356,10 +360,8 @@ program:
     end_time: "15:45"
     comments: "Trilha Iniciante - Sala: Deploy"
     background_color: "#fdf0d5"
-  # - title: "giovana-do-nascimento-pena"
-  #   type: talk
-  - title: "TBA"
-    type: custom
+  - title: "giovana-nascimento"
+    type: talk
     date: 2023-08-19
     start_time: "15:15"
     end_time: "15:45"
@@ -375,21 +377,21 @@ program:
 
   #OpenSpace-1
   - title: "Open Space - 1"
-    type: custom
+    type: open-space
     date: 2023-08-19
     start_time: "16:15"
     end_time: "16:45"
     comments: "Sala: Deploy"
-    background_color: #FFB566
+    # background_color: #FFB566
 
   #OpenSpace-2
   - title: "Open Space - 2"
-    type: custom
+    type: open-space
     date: 2023-08-19
     start_time: "16:45"
     end_time: "17:15"
     comments: "Sala: Deploy"
-    background_color: #FFB566
+    # background_color: #FFB566
 
   #Keynote-4
   # - title: "nina-da-hora"
