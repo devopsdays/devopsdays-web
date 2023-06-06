@@ -27,7 +27,7 @@ registration_date_start: 2023-06-03T00:00:00+02:00
 registration_date_end: 2023-11-07T23:59:59+02:00
 
 registration_closed: "" # set this to true if you need to manually close registration before your registration end date
-registration_link: "" # To be created
+registration_link: "https://eventory.cc/event/devopsdays-warsaw-2023/tickets" # To be created
 
 # Location
 
