@@ -94,14 +94,14 @@ team_members: # Name is the only required field for team members.
     website: "http://somatorio.org"
     image: "marco-junior.jpeg"
 
-  - name: "Antonio Pedro aka apsferreira"
-    employer: "Picpay"
-    twitter: "apsferreira_"
+ # - name: "Antonio Pedro aka apsferreira"
+ #   employer: "Picpay"
+ #   twitter: "apsferreira_"
     #github: "somatorio"
     #  facebook: "https://facebook.com/osomatorio"
-    linkedin: "https://www.linkedin.com/in/apsferreira/"
-    website: "http://antoniopedro.com.br"
-    image: "antonio-pedro.jpg"
+ #   linkedin: "https://www.linkedin.com/in/apsferreira/"
+ #   website: "http://antoniopedro.com.br"
+ #   image: "antonio-pedro.jpg"
 
 organizer_email: "salvador@devopsdays.org" # Put your organizer email address here
 
