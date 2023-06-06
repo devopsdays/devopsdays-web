@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "How to secure your CICD pipeline in 2023"
 Type = "talk"
-Speakers = ["sharon-goldberg"]
+Speakers = ["athanasios-filippidis"]
 +++
 
 In January, CircleCI was breached. Many teams spent a large part of January rotating secrets and looking for indicators of compromise (IoCs). I think this breach is a really big deal, because
