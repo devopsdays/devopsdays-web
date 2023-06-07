@@ -101,8 +101,8 @@ organizer_email: "des-moines@devopsdays.org" # Put your organizer email address 
 sponsors:
 #  - id: launch-darkly
 #    level: gold
-#  - id: trility
-#    level: gold
+ - id: trility
+   level: gold
 #  - id: appdynamics-before-20230221
 #    level: gold
  - id: mumosystems
