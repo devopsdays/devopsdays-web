@@ -204,6 +204,8 @@ sponsors:
     level: bronze
   - id: atcomputing
     level: bronze
+  - id: wemanity
+    level: bronze
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
