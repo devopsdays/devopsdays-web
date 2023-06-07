@@ -40,7 +40,7 @@ location: "indianapolis" # Defaults to city, but you can make it the venue name.
 location_address: "1201 Central Avenue, Indianapolis, IN 46202"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+#  - name: propose
   - name: volunteer
   - name: location
   - name: registration
