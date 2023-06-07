@@ -102,6 +102,8 @@ sponsors:
     level: alacarte
   - id: blacksintechnology
     level: community
+  - id: e-gineering
+    level: alacarte
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
