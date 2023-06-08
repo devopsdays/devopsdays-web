@@ -281,7 +281,7 @@ program:
     start_time: "15:30"
     end_time: "16:00"
     background_color: "#8ad0d3"
-  - title: "joanna-suau"
+  - title: "max-woolf"
     type: talk
     date: 2023-06-15T09:00:00+00:00
     start_time: "16:00"
@@ -437,7 +437,7 @@ program:
     start_time: "15:30"
     end_time: "16:00"
     background_color: "#8ad0d3"
-  - title: "max-woolf"
+  - title: "joanna-suau"
     type: talk
     date: 2023-06-16T09:00:00+00:00
     start_time: "16:00"
