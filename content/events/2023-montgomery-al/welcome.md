@@ -1,7 +1,7 @@
 +++
 Title = "devopsdays Montgomery Alabama 2023"
 Type = "welcome"
-aliases = ["/events/2023-atlanta/"]
+aliases = ["/events/2023-montgomery-al/"]
 Description = "devopsdays Montgomery Alabama 2023"
 +++
 
