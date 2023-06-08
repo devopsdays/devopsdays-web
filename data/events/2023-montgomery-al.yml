@@ -4,8 +4,8 @@ city: "Montgomery Alabama" # The displayed city name of the event. Capitalize it
 event_twitter:  # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "Devopsdays is coming to Montgomery Alabama!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
-event_logo: "logo-square.jpg"
 
+masthead_background: "logo-square.jpg"
 # All dates are in unquoted 2023-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00
 #   variable: 2019-01-05T23:59:59+02:00
