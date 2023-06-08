@@ -82,7 +82,7 @@ team_members: # Name is the only required field for team members.
   - name: "Daniel Paulus"
     pronouns: "he/him"
     linkedin: "https://www.linkedin.com/in/danielpaulus/"
-    twitter: "dpnl87"
+    twitter: "PaulusTM"
     website: "https://danielpaulus.com"
     image: "daniel.jpg"
     role: "Tech Team"
@@ -203,6 +203,8 @@ sponsors:
     url: https://cloudlegends.nl/
     level: bronze
   - id: atcomputing
+    level: bronze
+  - id: wemanity
     level: bronze
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -445,6 +447,12 @@ program:
     date: 2023-06-22T00:00:00+02:00
     start_time: "10:30"
     end_time: "10:45"
+  - title: "Online: Interview with Julia Sullivan"
+    type: custom
+    date: 2023-06-22T00:00:00+02:00
+    start_time: "10:30"
+    end_time: "10:45"
+    background_color: "#8ad0d3"
   - title: "andrew-clay-shafer"
     type: talk
     date: 2023-06-22T00:00:00+02:00
@@ -460,6 +468,12 @@ program:
     date: 2023-06-22T00:00:00+02:00
     start_time: "12:00"
     end_time: "13:00"
+  - title: "Online: Interviews with Derik Evangelista, Winna Bridgewater, Jurgen Allewijn, Dinant Paardenkoper, Viktor Farcic, and Whitney Lee"
+    type: custom
+    date: 2023-06-22T00:00:00+02:00
+    start_time: "12:00"
+    end_time: "13:00"
+    background_color: "#8ad0d3"
   - title: "iris-de-haas"
     type: talk
     date: 2023-06-22T00:00:00+02:00
@@ -561,6 +575,12 @@ program:
     date: 2023-06-23T00:00:00+02:00
     start_time: "10:30"
     end_time: "10:45"
+  - title: "Online: Interview Sharon Steed"
+    type: custom
+    date: 2023-06-23T00:00:00+02:00
+    start_time: "10:30"
+    end_time: "10:45"
+    background_color: "#8ad0d3"
   - title: "julie-starling"
     type: talk
     date: 2023-06-23T00:00:00+02:00
@@ -576,6 +596,12 @@ program:
     date: 2023-06-23T00:00:00+02:00
     start_time: "12:00"
     end_time: "13:00"
+  - title: "Online: Interview Nathen Harvey, Dan Maher, Feu Mourek, and Ivan Milchev"
+    type: custom
+    date: 2023-06-23T00:00:00+02:00
+    start_time: "12:00"
+    end_time: "13:00"
+    background_color: "#8ad0d3"
   - title: "lesley-cordero"
     type: talk
     date: 2023-06-23T00:00:00+02:00
@@ -592,6 +618,12 @@ program:
     date: 2023-06-23T00:00:00+02:00
     start_time: "14:10"
     end_time: "14:55"
+  - title: "Online: Interview with Lesley Cordero, Thiago de Faria, and Andrew Zigler"
+    type: open-space
+    date: 2023-06-23T00:00:00+02:00
+    start_time: "14:10"
+    end_time: "14:55"
+    background_color: "#8ad0d3"
   - title: "Open Space Session - Day 2 - #1"
     type: open-space
     date: 2023-06-23T00:00:00+02:00
