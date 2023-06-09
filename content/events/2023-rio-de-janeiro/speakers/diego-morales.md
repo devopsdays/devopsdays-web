@@ -1,14 +1,11 @@
 +++
-Title = "Brendo Freitas"
-linkedin = "https://www.linkedin.com/in/brendo-f-00b75416a/" 
-Twitter = "_brendinho1"
-image = "brendo-freitas.jpg"
+Title = "Diego Morales"
+linkedin = "https://www.linkedin.com/in/dgmorales80/" 
+Twitter = "dgmorales"
+image = "diego-morales.jpg"
 type = "speaker"
-linktitle = "brendo-freitas"
+linktitle = "diego-morales"
 
 +++
 
-Desenvolvedor C#
-Formado em Analise e desenvolvimento de sistemas.
-Se formando em Engenharia de Software.
-5 Anos de carreira de T.I
+Platform Engineer na Stone.Co. Pendulando entre gestão e liderança técnica há alguns anos. Um cara que veio de infra linux lá nos anos 2000 e que ama programar. Aprendiz de Golang. Pai da Julia. Com alguma habilidade para fazer churrascos e pizzas.
