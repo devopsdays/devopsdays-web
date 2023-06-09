@@ -1,7 +1,7 @@
 +++
 Title = "Marcos Souza"
-<!-- linkedin = ""  -->
-<!-- Twitter = "" -->
+linkedin = "" 
+Twitter = ""
 image = "marcos-souza.jpg"
 type = "speaker"
 linktitle = "marcos-souza"
