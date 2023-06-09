@@ -1,8 +1,8 @@
 +++
-Title = "devopsdays seattle 2023"
+Title = "devopsdays Salvador 2023"
 Type = "welcome"
-aliases = ["/events/2023-seattle/"]
-Description = "devopsdays seattle 2023"
+aliases = ["/events/2023-salvador/"]
+Description = "devopsdays Salvador 2023"
 +++
 
 <!-- <div style="text-align:center;">
@@ -18,59 +18,59 @@ Description = "devopsdays seattle 2023"
   </div>
 </div>
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div>
+</div> -->
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    <a href="https://www.accelevents.com/e/devops-days-seattle-2023"> Register to attend the conference!</a>
+    {{< event_link page="registration" text="Register to attend the conference!" >}}
   </div>
-</div>
+</div> -->
 
 <!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    <a href="https://sessionize.com/devopsdays-seattle-2023/"> Propose a talk in Sessionize</a>
+    {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
 </div> -->
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
     View the {{< event_link page="program" text="program." >}}
   </div>
-</div>
+</div> -->
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
-</div>
+</div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="sponsor" text="Sponsor the conference!" >}}
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -81,11 +81,7 @@ Description = "devopsdays seattle 2023"
   </div>
 </div>
 
+<!-- Uncomment if you added your city twitter name -->
+<!--
 {{< event_twitter >}}
-<div class = "row">
-  <div class = "col-md-2">
-    <strong><a href="https://social.devopsdays.org/@seattle"><img src="/events/2023-seattle/mastodon_logo.svg" alt="Mastodon" style="width:25px;height:25px;"> Follow @seattle</a></strong>
-  </div>
-
-</div>
-
+-->
