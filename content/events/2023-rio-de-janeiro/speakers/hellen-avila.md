@@ -1,14 +1,10 @@
 +++
-Title = "Brendo Freitas"
-linkedin = "https://www.linkedin.com/in/brendo-f-00b75416a/" 
-Twitter = "_brendinho1"
-image = "brendo-freitas.jpg"
+Title = "Hellen Avila"
+linkedin = "https://www.linkedin.com/in/hellenavilarosa/" 
+image = "hellen-avila.jpg"
 type = "speaker"
-linktitle = "brendo-freitas"
+linktitle = "hellen-avila"
 
 +++
 
-Desenvolvedor C#
-Formado em Analise e desenvolvimento de sistemas.
-Se formando em Engenharia de Software.
-5 Anos de carreira de T.I
+Hellen Avila Rosa é Arquiteta de Soluções na AWS, focada em clientes que nasceram na nuvem, auxiliando eles a contruir arquiteturas baseadas nas boas práticas. Hellen é apaixonada por containers, cultura DevOps, aprender novas tecnologias e adora compartilhar conhecimento. Hellen é formada em Engenharia Eletrônica e anteriormente trabalhou com DevOps na General Electric.

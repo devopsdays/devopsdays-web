@@ -330,7 +330,7 @@ program:
     end_time: "15:15"
     comments: "Trilha Iniciante - Sala: Deploy"
     background_color: "#fdf0d5"
-  - title: "juliana-hellen"
+  - title: "juliana-wisniewski"
     type: talk
     date: 2023-08-19
     start_time: "14:45"

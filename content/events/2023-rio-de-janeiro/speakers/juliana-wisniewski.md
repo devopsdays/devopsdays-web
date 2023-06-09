@@ -1,14 +1,10 @@
 +++
-Title = "Brendo Freitas"
-linkedin = "https://www.linkedin.com/in/brendo-f-00b75416a/" 
-Twitter = "_brendinho1"
-image = "brendo-freitas.jpg"
+Title = "Juliana Wisniewski Gonçalves"
+linkedin = "https://www.linkedin.com/in/juliana-wisniewski/" 
+image = "juliana-wisniewski.jpg"
 type = "speaker"
-linktitle = "brendo-freitas"
+linktitle = "juliana-wisniewski"
 
 +++
 
-Desenvolvedor C#
-Formado em Analise e desenvolvimento de sistemas.
-Se formando em Engenharia de Software.
-5 Anos de carreira de T.I
+Juliana Wisniewski Gonçalves é Arquiteta de Soluções Senior do time Latam de Startups na AWS. Com mais de 15 anos de experiência em TI, Juliana é fascinada por novas tecnologias e entusiasta de Cloud Native e da Cultura DevOps. Na AWS, auxilia Startups, especialmente Fintechs, a construir arquiteturas seguras e escaláveis com excelência operacional utilizando as melhores práticas ágeis de engenharia de software. Juliana possui formação em Ciência da Computação e MBA em Arquitetura de Soluções, e já trabalhou em diferentes empresas, como Grupo Boticário, Rede (Itaú), Ciclic e Loggi.
