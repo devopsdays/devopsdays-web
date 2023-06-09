@@ -2,8 +2,8 @@
 Title = "Marcos Souza"
 <!-- linkedin = ""  -->
 <!-- Twitter = "" -->
-<!-- image = ".jpg" -->
-<!-- type = "speaker" -->
+image = "marcos-souza.jpg"
+type = "speaker"
 linktitle = "marcos-souza"
 
 +++
