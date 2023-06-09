@@ -141,6 +141,8 @@ sponsors:
     level: gold
 
   #Silver
+  - id: jack-experts
+    level: silver
 
   #Bronze
   - id: grafanalabs
