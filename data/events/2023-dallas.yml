@@ -214,6 +214,10 @@ sponsors:
     level: community
   - id: awsdfw
     level: community
+  - id: npusa
+    level: npo
+  - id: shpedfw
+    level: npo
 
 sponsors_accepted: "no" # Whether you want "Become a XXX Sponsor!" link
 
