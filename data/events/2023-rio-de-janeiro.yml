@@ -115,6 +115,11 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/eduardosramos"
     website: "https://dev.to/eduardosramos"
     image: "eduardo-ramos.jpg"
+  - name: "Renan Castro"
+    employer: "FutParódias"
+    twitter: "Rccastrox"
+    linkedin: "https://www.linkedin.com/in/renan-castro-84966076/"
+    image: "renan-castro.jpg"
 
 organizer_email: "devopsdaysrio@gmail.com" # Put your organizer email address here
 
