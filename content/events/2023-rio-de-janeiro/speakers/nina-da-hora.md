@@ -1,5 +1,5 @@
 +++
-Title = "nina-da-hora"
+Title = "Nina da Hora"
 linkedin = "https://www.linkedin.com/in/ninadahora/" 
 image = ".jpg"
 type = "speaker"
