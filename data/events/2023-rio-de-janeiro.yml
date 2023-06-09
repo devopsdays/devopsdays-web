@@ -261,7 +261,7 @@ program:
     background_color: "#81b29a"
 
   #Keynote-2
-  - title: "carol-valenca"
+  - title: "carol-valencia"
     type: talk
     date: 2023-08-19
     start_time: "11:30"
