@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Red Risk Experiment facilitated by John Willis"
+Title = "Red Risk Experiment"
 Type = "talk"
 Speakers = ["john-willis"]
 +++
