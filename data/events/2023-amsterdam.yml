@@ -173,6 +173,8 @@ sponsors:
   # Foodtruck
   - id: exoscale
     level: foodtruck
+  - id: cloudflare
+    level: foodtruck
   # Silver
   - id: wiz
     level: silver
@@ -294,13 +296,6 @@ program:
     start_time: "10:30"
     end_time: "12:00"
     comments: "Expo 2"
-
-  - title: "ws-jessica-rose-ritah-nabukalu"
-    type: workshop
-    date: 2023-06-21T00:00:00+02:00
-    start_time: "11:15"
-    end_time: "12:00"
-    comments: "Grote Zaal"
 
   - title: "ws-viktor-farcic-whitney-lee"
     type: workshop
