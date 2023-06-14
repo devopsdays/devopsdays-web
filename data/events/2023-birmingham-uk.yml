@@ -147,9 +147,9 @@ sponsor_levels:
 program:
   - title: "Pre-conference Social @ Tilt Birmingham"
     type: custom
-    date: 2023-06-14T19:30:00+00:00
-    start_time: "19:30"
-    end_time: "23:00"
+    date: 2023-06-14T18:00:00+00:00
+    start_time: "18:00"
+    end_time: "21:00"
     custom_url: "https://www.tiltbrum.com/"
   - title: "Registration, Breakfast, Sponsors"
     type: custom
