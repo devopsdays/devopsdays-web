@@ -145,11 +145,12 @@ sponsor_levels:
     max: 1
 
 program:
-  - title: "Pre-conference Social at Tilt - Birmingham"
+  - title: "Pre-conference Social @ Tilt Birmingham"
     type: custom
     date: 2023-06-14T19:30:00+00:00
     start_time: "19:30"
     end_time: "23:00"
+    custom_url: "https://www.tiltbrum.com/"
   - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2023-06-15T09:00:00+00:00
@@ -281,7 +282,7 @@ program:
     start_time: "15:30"
     end_time: "16:00"
     background_color: "#8ad0d3"
-  - title: "joanna-suau"
+  - title: "max-woolf"
     type: talk
     date: 2023-06-15T09:00:00+00:00
     start_time: "16:00"
@@ -298,12 +299,12 @@ program:
     start_time: "16:30"
     end_time: "16:40"
     background_color: "#abebff"
-  - title: "Evening event @ Luna Springs"
+  - title: "Evening event @ Hockley Social Club"
     type: custom
     date: 2023-06-15T09:00:00+00:00
     start_time: "17:30"
     end_time: "late"
-    custom_url: "https://www.lunasprings.co.uk/"
+    custom_url: "http://hockleysocialclub.com/"
 
   # TODO day 2
   - title: "Registration, Breakfast, Sponsors"
@@ -437,7 +438,7 @@ program:
     start_time: "15:30"
     end_time: "16:00"
     background_color: "#8ad0d3"
-  - title: "max-woolf"
+  - title: "joanna-suau"
     type: talk
     date: 2023-06-16T09:00:00+00:00
     start_time: "16:00"

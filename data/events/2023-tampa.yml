@@ -36,6 +36,7 @@ location_address: "1910 N Ola Ave, Tampa, FL 33602" #Optional - use the street a
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
+
   - name: location
     icon: "map-o"
     url: /events/2023-tampa/location
@@ -97,6 +98,9 @@ sponsors:
     level: community
   - id: tampadevs
     level: community
+  - id: xebiaxpirit
+    level: platinum
+
     
 #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 # - id: arresteddevops
