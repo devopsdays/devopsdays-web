@@ -150,6 +150,7 @@ sponsors:
   # Tshirt
   - id: googlecloud
     level: tshirt
+    url: https://cloud.google.com/developers/devopsdaysamsterdam
   # Gold
   - id: github
     level: gold
