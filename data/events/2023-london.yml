@@ -102,6 +102,8 @@ sponsors:
   # bronze sponsors
   - id: dxw
     level: bronze
+  - id: github
+    level: bronze
   - id: gitlab
     level: bronze
   - id: helloself
