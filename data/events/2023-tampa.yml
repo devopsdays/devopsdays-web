@@ -120,7 +120,7 @@ sponsor_levels:
     max: 2
   - id: platinum
     label: Platinum
-    max: 10 # This is the same as omitting the max limit.
+    max: 9 # This is the same as omitting the max limit.
   - id: gold
     label: Gold
   - id: community
