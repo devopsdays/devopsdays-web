@@ -372,7 +372,7 @@ program:
     start_time: "12:00"
     end_time: "12:30"
     background_color: "#abebff"
-  - title: "andy-burgin"
+  - title: "louise-paling"
     type: talk
     date: 2023-06-16T09:00:00+00:00
     start_time: "12:00"
@@ -411,7 +411,7 @@ program:
     start_time: "14:10"
     end_time: "14:40"
     background_color: "#8ad0d3"
-  - title: "amanda-brock"
+  - title: "andy-burgin"
     type: talk
     date: 2023-06-16T09:00:00+00:00
     start_time: "14:40"
