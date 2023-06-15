@@ -173,7 +173,7 @@ program:
     date: 2023-08-01
     start_time: "12:00"
     end_time: "13:10"
-  - title: "zoe-steinkamp"
+  - title: "kendra-ash"
     type: talk
     date: 2023-08-01
     start_time: "13:10"
@@ -266,7 +266,7 @@ program:
     date: 2023-08-02
     start_time: "10:35"
     end_time: "10:50"
-  - title: "kendra-ash"
+  - title: "zoe-steinkamp"
     type: talk
     date: 2023-08-02
     start_time: "10:50"
