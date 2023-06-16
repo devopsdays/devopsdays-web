@@ -72,6 +72,8 @@ organizer_email: "boston@devopsdays.org"
 sponsors:
   - id: elastic
     level: platinum
+  - id: dragondropcloud
+    level: startupalley
 #  - id: foo
 #    level: bar
 
