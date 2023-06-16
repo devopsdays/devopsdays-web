@@ -198,10 +198,18 @@ sponsors:
   #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: liatrio
     level: platinum
+  - id: newrelic
+    level: platinum
   - id: zealit
     level: gold
+  #- id: cloudbees
+  # level: gold
+  #- id: nobl9
+  # level: gold
   - id: redgate
     level: silver
+  #- id: improving
+  # level: silver
   - id: devopslive
     level: community
   - id: addo
@@ -214,9 +222,15 @@ sponsors:
     level: community
   - id: awsdfw
     level: community
+  - id: women-who-code-dfw
+    level: community
+  - id: redhatmug
+    level: community
   - id: npusa
     level: npo
   - id: shpedfw
+    level: npo
+  - id: twc
     level: npo
 
 sponsors_accepted: "no" # Whether you want "Become a XXX Sponsor!" link

@@ -145,11 +145,12 @@ sponsor_levels:
     max: 1
 
 program:
-  - title: "Pre-conference Social at Tilt - Birmingham"
+  - title: "Pre-conference Social @ Tilt Birmingham"
     type: custom
-    date: 2023-06-14T19:30:00+00:00
-    start_time: "19:30"
-    end_time: "23:00"
+    date: 2023-06-14T18:00:00+00:00
+    start_time: "18:00"
+    end_time: "21:00"
+    custom_url: "https://www.tiltbrum.com/"
   - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2023-06-15T09:00:00+00:00
@@ -298,12 +299,12 @@ program:
     start_time: "16:30"
     end_time: "16:40"
     background_color: "#abebff"
-  - title: "Evening event @ Luna Springs"
+  - title: "Evening event @ Hockley Social Club"
     type: custom
     date: 2023-06-15T09:00:00+00:00
     start_time: "17:30"
     end_time: "late"
-    custom_url: "https://www.lunasprings.co.uk/"
+    custom_url: "http://hockleysocialclub.com/"
 
   # TODO day 2
   - title: "Registration, Breakfast, Sponsors"
@@ -371,7 +372,7 @@ program:
     start_time: "12:00"
     end_time: "12:30"
     background_color: "#abebff"
-  - title: "andy-burgin"
+  - title: "louise-paling"
     type: talk
     date: 2023-06-16T09:00:00+00:00
     start_time: "12:00"
@@ -410,7 +411,7 @@ program:
     start_time: "14:10"
     end_time: "14:40"
     background_color: "#8ad0d3"
-  - title: "amanda-brock"
+  - title: "andy-burgin"
     type: talk
     date: 2023-06-16T09:00:00+00:00
     start_time: "14:40"

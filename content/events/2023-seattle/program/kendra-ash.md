@@ -1,7 +1,7 @@
 +++
-Talk_date = "2023-08-02"
-Talk_start_time = "10:50"
-Talk_end_time = "11:20"
+Talk_date = "2023-08-01"
+Talk_start_time = "13:10"
+Talk_end_time = "13:40"
 Title = "The Cinderella of Security - Combining forces with compliance for better security outcomes"
 Type = "talk"
 Speakers = ["kendra-ash"]
