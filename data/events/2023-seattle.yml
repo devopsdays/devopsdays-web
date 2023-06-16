@@ -87,6 +87,8 @@ sponsors:
     level: silver
   - id: pure-storage
     level: silver
+  - id: puppet
+    level: silver
 # Bronze Sponsors
   # - id: samplesponsorname
   #   level: bronze
