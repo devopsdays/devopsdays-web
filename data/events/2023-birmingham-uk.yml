@@ -333,7 +333,7 @@ program:
     date: 2023-06-16T09:00:00+00:00
     start_time: "09:55"
     end_time: "10:25"
-  - title: "daniel-oates-lee"
+  - title: "louise-paling"
     type: talk
     date: 2023-06-16T09:00:00+00:00
     start_time: "09:55"
@@ -372,7 +372,7 @@ program:
     start_time: "12:00"
     end_time: "12:30"
     background_color: "#abebff"
-  - title: "louise-paling"
+  - title: "daniel-oates-lee"
     type: talk
     date: 2023-06-16T09:00:00+00:00
     start_time: "12:00"
