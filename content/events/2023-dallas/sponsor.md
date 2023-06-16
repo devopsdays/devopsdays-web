@@ -180,15 +180,17 @@ All Media / Community sponsors are entities we value as pillars of continuous le
     </tr>
     <tr>
       <td align="center"><i class="fa fa-handshake-o fa-4x"></td>
-      <td>Community</td>
+      <td>Community & Non-Profit (NPO)</td>
+        <br><br>
+        <img src = "/events/2023-dallas/not_available.png">
       <td>$0.00</td>
-      <td>The community sponsorship is ideal for local meetups, co-working spaces, and other non-commercial communities who support DevOps. This sponsorship is free, but we ask that you share information about DevOpsDays Dallas 2023 with your members in order to become a Community Sponsor.
+      <td>The community and non-profit (NPO) sponsorships is ideal for local meetups, co-working spaces, and other non-commercial communities who support DevOps. These sponsorships are free, but we ask that you share information about DevOpsDays Dallas 2023 with your members in order to become a Community Sponsor.
           <ul class="fa-ul">
             <li><i class="fa-li fa fa-check-square"></i>One (1) ticket included.</li>
             <li><i class="fa-li fa fa-check-square"></i>10% discount code for ten (10) tickets to share with your audience.</li>
             <li><i class="fa-li fa fa-check-square"></i>Logo on a shared slide, rotating during breaks.</li>
             <li><i class="fa-li fa fa-check-square"></i>Logo on the DevOpsDays Dallas 2023 event website.</li>
-      <td>10</td>
+      <td>~~10~~</td>
     </tr>
   </tbody>
 </table>
