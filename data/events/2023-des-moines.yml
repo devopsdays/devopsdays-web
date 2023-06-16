@@ -99,34 +99,36 @@ organizer_email: "des-moines@devopsdays.org" # Put your organizer email address 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-#  - id: launch-darkly
-#    level: gold
-#  - id: trility
-#    level: gold
 #  - id: appdynamics-before-20230221
 #    level: gold
- - id: mumosystems
-   level: gold
-#  - id: john-deere
+#  - id: caseys
 #    level: gold
 #  - id: emc-ins
 #    level: gold
-#  - id: sonatype
-#    level: gold
-#  - id: redhat
-#    level: gold
- - id: sourceallies
+ - id: jetbrains
+   level: community
+ - id: john-deere
    level: gold
+#  - id: launch-darkly
+#    level: gold
  - id: leantechniques
    level: gold
-#  - id: caseys
-#    level: gold
-#  - id: we-write-code
+ - id: mumosystems
+   level: gold
+#  - id: redhat
 #    level: gold
  - id: sidegarage
    level: community
- - id: jetbrains
-   level: community
+#  - id: sonatype
+#    level: gold
+ - id: sourceallies
+   level: gold
+ - id: trility
+   level: gold
+ - id: turnberry
+   level: lanyard
+#  - id: we-write-code
+#    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -146,4 +148,4 @@ sponsor_levels:
     max: 1
   - id: community
     label: Community
-    max: 0
+    max: 2

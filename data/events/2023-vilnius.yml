@@ -96,6 +96,14 @@ sponsors:
     level: community
   - id: lv-devops-com
     level: community
+  - id: centriclt
+    level: bronze
+  - id: cognizantlt
+    level: gold
+  - id: devoteam
+    level: bronze
+  - id: hyperops
+    level: silver 
 #   - id: samplesponsorname
 #     level: gold
 #  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.

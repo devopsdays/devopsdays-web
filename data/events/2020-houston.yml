@@ -10,13 +10,13 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2020-01-05T23:59:59+02:00
 # Note: we allow 2020-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate:  
-enddate:  
+startdate:
+enddate:
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  
-cfp_date_end:  
-cfp_date_announce:  
+cfp_date_start:
+cfp_date_end:
+cfp_date_announce:
 
 cancel: "true"
 
@@ -26,13 +26,13 @@ cfp_link: "https://www.papercall.io/devopsdayshouston2020" #if you have a custom
 registration_date_start: "2019-09-15T00:00:00-06:00" # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: "2020-08-18T00:00:00-05:00" # close registration. Leave blank if registration is not open yet.
 
-registration_closed: 
-registration_link: 
+registration_closed:
+registration_link:
 sharing_image: "sharing.jpg"
 # Location
 #
-coordinates: 
-location: 
+coordinates:
+location:
 #
 location_address: "816 Town and Country Blvd #210, Houston, TX 77024" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
@@ -104,7 +104,7 @@ sponsors:
     level: gold
   - id: launch-darkly-before-20200828
     level: gold
-  - id: twosigma
+  - id: twosigma-before-20230603
     level: gold
   - id: abs
     level: corporate
@@ -120,7 +120,7 @@ sponsors:
     level: bronze
   - id: arundo
     level: corporate
-  - id: improving  
+  - id: improving
     level: gold
   - id: corva
     level: corporate
@@ -149,7 +149,7 @@ sponsors:
     level: gold
   - id: dynatrace
     level: gold
-    
+
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -165,12 +165,12 @@ sponsor_levels:
     max: 15
   - id: silver
     label: Silver
-    max: 4 
+    max: 4
   - id: bronze
     label: Bronze
     max: 0 # This is the same as omitting the max limit.
   - id: corporate
-    label: Corporate 
+    label: Corporate
   - id: community
     label: Community
 program:
@@ -371,7 +371,7 @@ program:
     start_time: "17:10"
     end_time: "17:20"
     background_color: "#D0D0D0"
-    
+
 ignites:
   - title: "tommy-adams"
     date: "2020-08-18"
@@ -388,9 +388,9 @@ ignites:
   - title: "mathew-joshua"
     date: "2020-08-18"
   - title: "mark-hahn"
-    date: "2020-08-18"  
+    date: "2020-08-18"
 
-  
-  
 
-    
+
+
+

@@ -9,8 +9,6 @@ Description = "devopsdays Atlanta 2023"
   {{< event_logo >}}
 </div> -->
 
-**We are rescheduling Devopsdays Atlanta to September, 2023. Exact dates will be available soon. We apologize for any inconvenience and hope to see you at the event!**
-
 <!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Dates</strong>

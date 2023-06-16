@@ -20,13 +20,13 @@ cfp_date_start:  2023-02-13T08:00:00-08:00 # start accepting talk proposals.
 cfp_date_end:  2023-03-19T23:59:59-07:00 # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
 
-cfp_link: "https://sessionize.com/devopsdays-seattle-2023/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+# cfp_link: "https://sessionize.com/devopsdays-seattle-2023/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.accelevents.com/e/devops-days-seattle-2023" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -38,9 +38,9 @@ location_address: "800 Pike St, Seattle, WA 98101" #Optional - use the street ad
 nav_elements: # List of pages you want to show up in the navigation of your page.
   # - name: propose
   - name: location
- # - name: registration
- # - name: program
- # - name: speakers
+  - name: registration
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -79,12 +79,16 @@ organizer_email: "seattle@devopsdays.org" # Put your organizer email address her
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-# Gold Sponsors
-  # - id: samplesponsorname
-  #   level: gold
+# Gold Sponsors 
+  - id: fastly
+    level: gold
 # Silver Sponsors
-  # - id: samplesponsorname
-  #   level: silver
+  - id: dragondropcloud
+    level: silver
+  - id: pure-storage
+    level: silver
+  - id: puppet
+    level: silver
 # Bronze Sponsors
   # - id: samplesponsorname
   #   level: bronze
@@ -118,3 +122,259 @@ sponsor_levels:
   - id: community
     label: Community
     max: 0
+    
+program:
+  # Day 1
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2023-08-01
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Welcome"
+    type: custom
+    date: 2023-08-01
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "corey-quinn"
+    type: talk
+    date: 2023-08-01
+    start_time: "09:15"
+    end_time: "09:55"
+  - title: "Sponsors"
+    type: custom
+    date: 2023-08-01
+    start_time: "9:55"
+    end_time: "10:05"
+  - title: "jen-evans"
+    type: talk
+    date: 2023-08-01
+    start_time: "10:05"
+    end_time: "10:35"
+  - title: "BREAK"
+    type: custom
+    date: 2023-08-01
+    start_time: "10:35"
+    end_time: "10:50"
+  - title: "ana-margarita-medina"
+    type: talk
+    date: 2023-08-01
+    start_time: "10:50"
+    end_time: "11:20"
+  - title: "Sponsors"
+    type: custom
+    date: 2023-08-01
+    start_time: "11:20"
+    end_time: "11:30"
+  - title: "ritika-kanade"
+    type: talk
+    date: 2023-08-01
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch"
+    type: custom
+    date: 2023-08-01
+    start_time: "12:00"
+    end_time: "13:10"
+  - title: "kendra-ash"
+    type: talk
+    date: 2023-08-01
+    start_time: "13:10"
+    end_time: "13:40"
+  - title: "Ignites"
+    type: ignite
+    date: 2023-08-01
+    start_time: "13:40"
+    end_time: "14:10"
+    block: ignite-1
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2023-08-01
+    start_time: "14:10"
+    end_time: "14:40"
+  - title: "attendee-suggested breakout discussions - Open Space #1"
+    type: open-space
+    date: 2023-08-01
+    start_time: "14:50"
+    end_time: "15:20"
+  - title: "shubham-patil"
+    type: talk
+    date: 2023-08-01
+    start_time: "14:50"
+    end_time: "15:20"
+  - title: "BREAK"
+    type: custom
+    date: 2023-08-01
+    start_time: "15:20"
+    end_time: "15:35"
+  - title: "attendee-suggested breakout discussions - Open Space #2"
+    type: open-space
+    date: 2023-08-01
+    start_time: "15:35"
+    end_time: "16:05"
+  - title: "tiffany-jernigan"
+    type: talk
+    date: 2023-08-01
+    start_time: "15:35"
+    end_time: "16:05"
+  - title: "attendee-suggested breakout discussions - Open Space #3"
+    type: open-space
+    date: 2023-08-01
+    start_time: "16:15"
+    end_time: "16:45"
+  - title: "mandi-walls"
+    type: talk
+    date: 2023-08-01
+    start_time: "16:15"
+    end_time: "16:45"
+  - title: "Close Day"
+    type: custom
+    date: 2023-08-01
+    start_time: "16:50"
+    end_time: "17:05"
+  - title: "Evening Reception"
+    type: custom
+    date: 2023-08-01
+    start_time: "17:05"
+    end_time: "19:30"
+
+  # Day 2
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2023-08-02
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Welcome"
+    type: custom
+    date: 2023-08-02
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "guinevere-saenger"
+    type: talk
+    date: 2023-08-02
+    start_time: "09:15"
+    end_time: "09:55"
+  - title: "Sponsors"
+    type: custom
+    date: 2023-08-02
+    start_time: "9:55"
+    end_time: "10:05"
+  - title: "sarah-c-young"
+    type: talk
+    date: 2023-08-02
+    start_time: "10:05"
+    end_time: "10:35"
+  - title: "BREAK"
+    type: custom
+    date: 2023-08-02
+    start_time: "10:35"
+    end_time: "10:50"
+  - title: "zoe-steinkamp"
+    type: talk
+    date: 2023-08-02
+    start_time: "10:50"
+    end_time: "11:20"
+  - title: "Sponsors"
+    type: custom
+    date: 2023-08-02
+    start_time: "11:20"
+    end_time: "11:30"
+  - title: "sheela-shankar"
+    type: talk
+    date: 2023-08-02
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch"
+    type: custom
+    date: 2023-08-02
+    start_time: "12:00"
+    end_time: "13:05"
+  # - title: "Vendor give aways #1"
+  #   type: custom
+  #   date: 2023-08-02
+  #   start_time: "13:05"
+  #   end_time: "13:10"
+  - title: "chris-short"
+    type: talk
+    date: 2023-08-02
+    start_time: "13:10"
+    end_time: "13:40"
+  - title: "Ignites"
+    type: ignite
+    date: 2023-08-02
+    start_time: "13:40"
+    end_time: "14:10"
+    block: ignite-2
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2023-08-02
+    start_time: "14:10"
+    end_time: "14:40"
+  - title: "attendee-suggested breakout discussions - Open Space #1"
+    type: open-space
+    date: 2023-08-02
+    start_time: "14:50"
+    end_time: "15:20"
+  - title: "fatima-taj"
+    type: talk
+    date: 2023-08-02
+    start_time: "14:50"
+    end_time: "15:20"
+  - title: "BREAK"
+    type: custom
+    date: 2023-08-02
+    start_time: "15:20"
+    end_time: "15:35"
+  - title: "attendee-suggested breakout discussions - Open Space #2"
+    type: open-space
+    date: 2023-08-02
+    start_time: "15:35"
+    end_time: "16:05"
+  - title: "frances-zhaoperez"
+    type: talk
+    date: 2023-08-02
+    start_time: "15:35"
+    end_time: "16:05"
+  - title: "attendee-suggested breakout discussions - Open Space #3"
+    type: open-space
+    date: 2023-08-02
+    start_time: "16:15"
+    end_time: "16:45"
+  - title: "laura-maguire"
+    type: talk
+    date: 2023-08-02
+    start_time: "16:15"
+    end_time: "16:45"
+  - title: "Close Day"
+    type: custom
+    date: 2023-08-02
+    start_time: "16:50"
+    end_time: "17:05"
+  - title: "Evening Reception"
+    type: custom
+    date: 2023-08-02
+    start_time: "17:05"
+    end_time: "19:30"
+
+ignites:
+
+  - title: "heidi-waterhouse"
+    date: 2023-08-01
+    block: ignite-1
+  - title: "chuck-reeves"
+    date: 2023-08-01
+    block: ignite-1
+  - title: "steve-martinelli"
+    date: 2023-08-01
+    block: ignite-1
+  - title: "dwayne-mcdaniel"
+    date: 2023-08-02
+    block: ignite-2
+  - title: "jeremy-meiss"
+    date: 2023-08-02
+    block: ignite-2
+  - title: "vishal-pallerla"
+    date: 2023-08-02
+    block: ignite-2
+  - title: "arpit-chaudhary"
+    date: 2023-08-02
+    block: ignite-2
