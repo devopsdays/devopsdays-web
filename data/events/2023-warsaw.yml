@@ -78,13 +78,13 @@ team_members: # Name is the only required field for team members.
     image: "koltermann.jpg"
     bio: "Docker Certified Associate and Docker Community Leader in Warsaw. Senior Software Engineer at GOG.com. Team DevOps, active everywhere where developers and IT meet, like development environment, deploy pipelines or Kubernetes. Master of Science in Computer Networking. Active Docker and Kubernetes advocate, performing lectures and trainings."
   - name: "Jakub Kozioł"
-    image: "placeholder.jpg"
+    image: "jakub-koziol.jpg"
     employer: "PROIDEA"
   - name: "Oliwia Kozioł"
-    image: "placeholder.jpg"
+    image: "oliwia-koziol.jpg"
     employer: "PROIDEA"
   - name: "Joanna Matusiak"
-    image: "placeholder.jpg"
+    image: "joanna-matusiak.jpg"
     employer: "PROIDEA"
   - name: "Olga Michaliszyn"
     image: "placeholder.jpg"
@@ -100,7 +100,7 @@ team_members: # Name is the only required field for team members.
     description: "DevOps Institute Ambassador. CD.Foundation Ambassador. AWS Community Builder. Engineer, leader, mentor, speaker. My focus is on CALMS. I am building better understanding of DevOps as driver for the organization. I am devoted to Serverless and CI/CD. I authored the framework for design the CI/CD - www.cicd.run. Host of Last Week In IT and DevOps In Agile Way podcasts."
   - name: "Paulina Tomaszewska"
     employer: "PROIDEA"
-    image: "placeholder.jpg"
+    image: "paulina-tomaszewska.jpg"
 
 organizer_email: "warsaw@devopsdays.org" # Put your organizer email address here
 
