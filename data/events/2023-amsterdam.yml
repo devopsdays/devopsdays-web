@@ -524,6 +524,12 @@ program:
     start_time: "16:15"
     end_time: "16:45"
     comments: "Beyond DevOps Track | Location: Grote Zaal"
+  - title: "Close Day / Wrap Up"
+    type: custom
+    date: 2023-06-22T00:00:00+02:00
+    start_time: "16:45"
+    end_time: "17:00"
+    comments: "Location: Grote Zaal"
   - title: "BBQ by Smokey Goodness brought to by our Platinum sponsor Portworx by Pure Storage"
     type: custom
     date: 2023-06-22T00:00:00+02:00
