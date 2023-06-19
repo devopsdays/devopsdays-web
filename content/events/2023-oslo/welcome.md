@@ -4,9 +4,12 @@ Type = "welcome"
 aliases = ["/events/2023-oslo/"]
 Description = "devopsdays Oslo 2023"
 +++
-
-<!-- Looked at Austin 2023 and could maybe look at Edinburough 2019 for program and speakers-->
-<img width="80%" alt="DevOpsDays Oslo 2023" src="/events/2023-oslo/location.jpg">
+<div style="width: 100%; display: inline-block; text-align: left; padding-bottom: 30px;"  class="row">
+  <img  style="width: 100%; display: inline-block; text-align: left;"  width="100%" alt="DevOpsDays Oslo 2023" src="/events/2023-oslo/location.jpg">
+  <div style="width: 20%; display: inline-block; text-align: left; padding-top: 20px; padding-right: 20px;" ><img width="100%" alt="Mark Burgess" src="/events/2023-oslo/speakers/mark-burgess.png">Mark Burgess is a theoretician and practitioner in information systems</div>
+  <div style="width: 20%; display: inline-block; text-align: left; padding-top: 20px; padding-right: 20px;"><img width="100%" alt="Nora Jones" src="/events/2023-oslo/speakers/nora-jones.jpg">Nora Jones is the founder and CEO of Jeli and a software engineer</div>
+  <div style="width: 20%; display: inline-block; text-align: left; padding-top: 20px; padding-right: 20px;"><img width="100%" alt="Matthew Skelton" src="/events/2023-oslo/speakers/matthew-skelton.jpg">Matthew is the co-author of Team Topologies book</div>
+</div>
 <div class="row">
   <div class="col-md-12">
     <div class="row">
