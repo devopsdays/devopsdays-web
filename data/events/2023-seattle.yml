@@ -79,7 +79,7 @@ organizer_email: "seattle@devopsdays.org" # Put your organizer email address her
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-# Gold Sponsors
+# Gold Sponsors 
   - id: fastly
     level: gold
 # Silver Sponsors
