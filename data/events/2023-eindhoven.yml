@@ -20,11 +20,11 @@ cfp_date_announce: # inform proposers of status
 
 cfp_link: "https://talx.devops.foundation/devopsdays-eindhoven-2023/cfp" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: 2023-06-19T00:00:00+02:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2023-10-11T00:00:00+02:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+#registration_link: "https://tix.devops.foundation/devopsdays-eindhoven/2023/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -41,8 +41,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     url: https://talx.devops.foundation/devopsdays-eindhoven-2023/cfp
   - name: location
     icon: "map"
-  # - name: registration
-  #   icon: "sign-in"
+  - name: registration
+    icon: "sign-in"
   # - name: program
   # - name: speakers
   - name: sponsor
