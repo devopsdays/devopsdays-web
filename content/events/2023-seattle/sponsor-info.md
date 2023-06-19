@@ -1,5 +1,5 @@
 +++
-date = "2016-09-20T21:46:51+01:00"
+date = "2023-06-18T21:46:51+01:00"
 title = "Sponsor Information"
 type = "event"
 
@@ -21,14 +21,14 @@ You’ll receive a registration code to be given to people who will be attending
 
 ### Venue Location
 
-<a href="https://seattleconventioncenter.com/venues/summit-addition">Seattle Convention Center | Summit Building</a><br>
-900 Pine Street<br>
+<a href="https://seattleconventioncenter.com/venues/arch-conference-center">Arch at 800 Pike </a><br>
+800 Pike Street<br>
 Seattle, WA 98101<br>
 <a href="https://seattleconventioncenter.com/parking-garage-information">Directions and Parking</a>
 
 ### Dates and Times
 
-This year’s event is on August 1st and 2nd, 2023. A detailed program can be found at <http://www.devopsdays.org/events/2023-seattle/program/>. Please note the speaker schedule is subject to change.
+This year’s event is on August 1st and 2nd, 2022. A detailed program can be found at <http://www.devopsdays.org/events/2023-seattle/program/>. Please note the speaker schedule is subject to change.
 
 * Booth set up - 1:00PM till 7:00PM July 31st
 * Registration opens - 8:00AM August 1st (Sponsors can come in starting 7a on 1st and 2nd)
@@ -36,12 +36,12 @@ This year’s event is on August 1st and 2nd, 2023. A detailed program can be fo
 
 ### Sponsor Pitch Schedule
 
-TBD 
-<!-- Gold sponsors have 1 minute for a pitch to the full audience. This time will be strictly enforced to make
+Gold sponsors have 1 minute for a pitch to the full audience. This time will be strictly enforced to make
 sure we stay on schedule!
 
+TBD
 
-<iframe width=525 height=385 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRjfgjnGgeisCIzN9VbniccFZ8a3PRdfqLnGa2oZSyTHzuIkC-9j4BYDB-U61qjNBcgsSAOrhlI7DRz/pubhtml?widget=true&amp;headers=false"></iframe> -->
+<!-- <iframe width=525 height=385 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRjfgjnGgeisCIzN9VbniccFZ8a3PRdfqLnGa2oZSyTHzuIkC-9j4BYDB-U61qjNBcgsSAOrhlI7DRz/pubhtml?widget=true&amp;headers=false"></iframe> -->
 
 ## Who to send
 
@@ -65,14 +65,13 @@ be to the attendees.
 
 ### Shipping
 
-
-There is no shipping directly to the venue, so we will contract a drayage company for the event. Check back here for more information once a drayage company is selected.
+There is no shipping directly to the venue, so we are working on a drayage company for the event.
 
 **Sponsors are responsible for any charges from using this third party vendor. Please follow their instructions carefully to make sure there are no issues.**
 
- <!-- Email <a href='mailto:sdugger@fernexpo.com?subject=2023 DevOpsDays Seattle'>FernExpo</a> for further information and pricing. -->
+ <!-- Email <a href='mailto:sdugger@fernexpo.com?subject=2022 DevOpsDays Seattle'>FernExpo</a> for further information and pricing. -->
 
-For outbound shipping only, there is a FedEx Office location about 3 blocks from the venue. Unlike some FedEx locations, this location does **not** offer a hold for pickup service so you should not send any incoming shipments there.
+For outbound shipping only, there is a FedEx Office location across the street from the venue. Unlike some FedEx locations, this location does **not** offer a hold for pickup service so you should not send any incoming shipments there.
 
 <!-- ### Loading / Unloading at venue
 
@@ -84,7 +83,7 @@ not allowed in either the alley or at the Loading Dock.
 
 ### Sponsor Tables
 
-Gold sponsors will be able to choose the location in the venue of your sponsor table. Once we have finalized the layout in the first week of July we will send out emails to sponsors in batches of 5 per day in the order the sponsorship was paid for. The email will contain a link to a page where you can choose your sponsor table. It's very important that you choose your table as soon as you receive this email for the best choice.
+Gold sponsors will be able to choose the location in the venue of your sponsor table. Once we have finalized the layout in the last week of  July we will send out emails to sponsors in batches of 5 per day in the order the sponsorship was paid for. The email will contain a link to a page where you can choose your sponsor table. It's very important that you choose your table as soon as you receive this email for the best choice.
 
 With that said, we've been told that we have one of the most welcoming sponsor areas of any DevOpsDays event and will do everything in our power to make sure there's no such thing as a "bad table spot".
 
@@ -93,19 +92,17 @@ With that said, we've been told that we have one of the most welcoming sponsor a
 
 #### Gold Sponsors
 
-**TBD**
-<!-- * 6 foot table with two chairs
+* 6 foot table with two chairs
 * Power available at table
 * WiFi is shared with the conference attendees, bandwidth heavy demos are not
-recommended -->
+recommended
 
 #### Silver Sponsors
 
-**TBD**
-<!-- * Share a 6 foot table with another sponsor
+* Share a 6 foot table with another sponsor
 * Power available at table
 * WiFi is shared with the conference attendees, bandwidth heavy demos are not
-recommended -->
+recommended
 
 The sponsor area will be set up to encourage people to hang out and enjoy coffee breaks and meals. It isn’t designed like a big trade show with aisles of booths. You should bring retractable banners instead of traditional trade show booths.
 
@@ -113,8 +110,7 @@ The sponsor area will be set up to encourage people to hang out and enjoy coffee
 
 ### A/V Rental<a id="av_rental">
 
-A/V rental is available directly from the venue. All tables will have power and access to the shared wireless service. 
-<!-- Anything else you require can be ordered with <a href="https://assets.devopsdays.org/events/2022/seattle/Devopsdays_Seattle_2022_072010SE_SCC_Exhibitor_Kit.pdf">this form</a>. -->
+A/V rental is available directly from the venue. All tables will have power and access to the shared wireless service. Anything else you require can be ordered with <a href="https://assets.devopsdays.org/events/2023/seattle/DoDSsea-exhibitor-services-kit.pdf">this form</a>.
 
 ### Lead Collection
 
