@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Come and play! Learn how to deal with resistance!"
 Type = "talk"
-Speakers = ["mark-heistek"]
+Speakers = ["mark-heistek", "stephan-heistek"]
 +++
 Resistance is everywhere. It's within your team, it's with your manager, it's within your relationship, and everywhere you look, there's always some kind of resistance.
 Now, this isn't perse a bad thing, resistance is just one phase of change. Insecurity, resistance, anger, joy, and happiness are all part of the change. 
