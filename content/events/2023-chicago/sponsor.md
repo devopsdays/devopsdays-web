@@ -179,13 +179,6 @@ All special sponsors will have their logo displayed on the DevOpsDays Chicago we
   </thead>
   <tbody>
     <tr>
-      <td>Evening Event</td>
-      <td>$15,000</td>
-      <td>Gold sponsorship included, plus dedicated space during the evening event and a 3-minute pitch speech before the evening event.</td>
-      <td>4</td>
-      <td>2</td>
-    </tr>
-    <tr>
       <td>Lanyard</td>
       <td>$7,000</td>
       <td>Your logo and colors around every attendee's credential</td>
