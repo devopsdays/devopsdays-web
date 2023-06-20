@@ -209,6 +209,8 @@ sponsors:
     level: bronze
   - id: wemanity
     level: bronze
+  - id: gitlab
+    level: bronze
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -524,6 +526,12 @@ program:
     start_time: "16:15"
     end_time: "16:45"
     comments: "Beyond DevOps Track | Location: Grote Zaal"
+  - title: "Close Day / Wrap Up"
+    type: custom
+    date: 2023-06-22T00:00:00+02:00
+    start_time: "16:45"
+    end_time: "17:00"
+    comments: "Location: Grote Zaal"
   - title: "BBQ by Smokey Goodness brought to by our Platinum sponsor Portworx by Pure Storage"
     type: custom
     date: 2023-06-22T00:00:00+02:00
@@ -614,7 +622,7 @@ program:
     date: 2023-06-23T00:00:00+02:00
     start_time: "14:10"
     end_time: "14:55"
-  - title: "Online: Interview with Lesley Cordero, Thiago de Faria, and Andrew Zigler"
+  - title: "Online: Interview with Lesley Cordero, Lou Creemers and Andrew Zigler"
     type: open-space
     date: 2023-06-23T00:00:00+02:00
     start_time: "14:10"
