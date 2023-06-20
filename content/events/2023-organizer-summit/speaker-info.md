@@ -47,7 +47,8 @@ You'll be able to check in starting at 8am on Tuesday, at the summit location.
 
 ### Attendance
 
-We can learn so much from eachother! We hope to see you participate in all sessions, ask questions, suggest open spaces, during the Organizers Summit, as well as during Devopsdays Chicago.
+We can learn so much from each other! We hope to see you participate in all sessions, ask questions, suggest open spaces, during the Organizers Summit, as well as during Devopsdays Chicago.
+
 
 ## Travel and Lodging
 
