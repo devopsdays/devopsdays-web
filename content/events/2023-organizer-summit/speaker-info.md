@@ -42,7 +42,8 @@ A participants are invited to join for an evening reception/party Tuesday, Augus
 
 ### Check-in
 
-You'll be able to register from 8am on Tuesday, at the summit location.
+You'll be able to check in starting at 8am on Tuesday, at the summit location.
+
 
 ### Attendance
 
