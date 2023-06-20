@@ -209,6 +209,8 @@ sponsors:
     level: bronze
   - id: wemanity
     level: bronze
+  - id: gitlab
+    level: bronze
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
