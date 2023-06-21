@@ -12,7 +12,6 @@ h1.welcome-page { text-transform: initial; }
 
 <div style="height:20px"></div>
 
-## Our CFP is open until May 31st! [Submit a talk on Papercall!](https://papercall.io/dodbos23)
 <div style="height:20px"></div>
 
 
