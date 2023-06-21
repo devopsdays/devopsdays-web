@@ -198,6 +198,9 @@ sponsors:
   - id: unifor
     level: platinum
     url: https://unifor.br/
+  - id: elastic
+    level: gold
+    url: https://www.elastic.co  
   - id: csi-tech
     level: platinum
     url: https://csitech.csilocacoes.com.br/ 
@@ -221,7 +224,10 @@ sponsors:
     url: https://novatec.com.br  
   - id: jack-experts
     level: community
-    url: https://jackexperts.com/  
+    url: https://jackexperts.com/
+  - id: crowdsec
+    level: community
+    url: https://crowdsec.net/ 
   - id: grafanabr
     level: bronze
     url: https://grafana.com/
