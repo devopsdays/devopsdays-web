@@ -11,7 +11,7 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 # Note: we allow 2023-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
 startdate: 2023-08-11T00:00:00+08:00  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2023-08-11T23:59:59+08:00  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2023-08-12T23:59:59+08:00  # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2023-06-13T00:00:00+08:00 # start accepting talk proposals.
@@ -29,9 +29,9 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 # Location
 #
 coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Pullman Beijing South Hotel" # Defaults to city, but you can make it the venue name.
+location: " Zpark Plaza(Beijing Zhongguancun Ruanjianyuan Guoji Huiyi Fuwu Zhongxin)" # Defaults to city, but you can make it the venue name.
 #
-location_address: "12 Ronghua South Road, Beijing Economic Technological, Development Area,Yizhuang, 100176 BEIJING, China" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "No. 4 Building Z Park Plaza 8 Dong Be,Dong Bei Wang West Road, Haidian District , Beijing , China" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
