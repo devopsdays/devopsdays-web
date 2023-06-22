@@ -284,7 +284,7 @@ program:
     date: 2023-06-21T00:00:00+02:00
     start_time: "09:00"
     end_time: "12:00"
-    comments: "Ij Zaal"
+    comments: "Ij Zaal - 30 active attendee maximum"
 
   - title: "ws-andrew-clay-shafer"
     type: workshop
@@ -305,7 +305,7 @@ program:
     date: 2023-06-21T00:00:00+02:00
     start_time: "11:15"
     end_time: "12:00"
-    comments: "Expo 1"
+    comments: "Workspace"
 
   # LUNCH
   - title: "Lunch Break"
@@ -328,7 +328,7 @@ program:
     date: 2023-06-21T00:00:00+02:00
     start_time: "13:00"
     end_time: "14:30"
-    comments: "Expo 1"
+    comments: "Outside"
 
   - title: "ws-pieter-reekers"
     type: workshop
@@ -378,7 +378,7 @@ program:
     date: 2023-06-21T00:00:00+02:00
     start_time: "15:10"
     end_time: "17:10"
-    comments: "Expo 1"
+    comments: "Outside"
 
   - title: "ws-derik-evangelista-winna-bridgewater"
     type: workshop

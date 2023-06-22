@@ -13,3 +13,5 @@ Why do some people get noticed as high potentials and why do others not? What ma
 Many people view charisma, personal leadership and people skills as something you were either born with or not. But that’s not true. In this workshop you will become acquainted with the 5 aspects that make a charismatic leader. Each aspect contains a specific series of skills, and in the workshop you will find out that anyone who is interested can learn and master them. 
 
 In this interactive and thought-provoking 3 hour workshop you will learn how to capture the attention of the person or people you are talking to so they see you as a serious partner.
+
+**Note Only 30 people can __participate__ in this event**
