@@ -80,7 +80,7 @@ team_members: # Name is the only required field for team members.
   - name: "Marcelo Freire"
     image: "marcelo-freire.jpg"
   - name: "Mauricio Gomes"
-    employer: "Hurb"
+    employer: "Banco Original"
     twitter: "mauriciogomesrj"
     github: "mauriciopgomes"
     linkedin: "https://www.linkedin.com/in/mauriciopgomes/"
