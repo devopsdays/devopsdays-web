@@ -600,7 +600,7 @@ program:
     date: 2023-06-23T00:00:00+02:00
     start_time: "12:00"
     end_time: "13:00"
-  - title: "Online: Interview Nathen Harvey & Amanda Lewis, Dotan Horovits, Daniel Maher, Rushil Sharma, Feu Mourek, Lutske de Leeuw and Ivan Milchev"
+  - title: "Online: Interview Nathen Harvey & Amanda Lewis, Dotan Horovits, Daniel Maher, Kris Buytaert, Feu Mourek, Lutske de Leeuw and Ivan Milchev"
     type: custom
     date: 2023-06-23T00:00:00+02:00
     start_time: "12:00"
@@ -622,7 +622,7 @@ program:
     date: 2023-06-23T00:00:00+02:00
     start_time: "14:10"
     end_time: "14:55"
-  - title: "Online: Interview with Lesley Cordero, Pieter Reekers, Lou Creemers, Kris Buytaert and Andrew Zigler"
+  - title: "Online: Interview with Lesley Cordero, Pieter Reekers, Lou Creemers, Rushil Sharma and Andrew Zigler"
     type: open-space
     date: 2023-06-23T00:00:00+02:00
     start_time: "14:10"
@@ -690,6 +690,4 @@ ignites:
   - title: "ig-jason-yee"
     date: 2023-06-23T00:00:00+02:00
   - title: "ig-feu-mourek"
-    date: 2023-06-23T00:00:00+02:00
-  - title: "ig-kris-buytaert"
     date: 2023-06-23T00:00:00+02:00
