@@ -30,10 +30,10 @@ Description = "devopsdays Vilnius 2023"
                 </div>
                 <div class="row">
                     <div class="col-md-2">
-                        <strong>CFP</strong>
+                        <strong>Ignite submission</strong>
                     </div>
                     <div class="col-md-8">
-                        <a href="https://www.papercall.io/devopsdays-vilnius">Propose a talk</a>
+                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfeb1MsCAALmzaZ-LvAUw51W4QbtY_RqtwA9_1fjeg_eZWGDg/viewform">Propose Ignite talk</a>
                     </div>
                 </div>
                 <div class="row">
