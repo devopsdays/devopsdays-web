@@ -77,7 +77,7 @@ Description = "DevOpsDays Juiz De Fora 2024"
   
   <div>
     <h4 style="padding-bottom: 1em;">
-      <strong>O DevOpsDays em Juiz de Fora em 2024!</strong>
+      <strong>O DevOpsDays Juiz de Fora em 2024!</strong>
     </h4>
     <p>
     Essa será a segunda edição, de muitas que estão por vir :), do DevOpsDays em Juiz de Fora, queremos que todos tenhamos mais uma excelente oportunidade de compartilhar conhecimento, contar histórias, socializar e fazer novos amigos!
