@@ -21,8 +21,8 @@ You’ll receive a registration code to be given to people who will be attending
 
 ### Venue Location
 
-<a href="https://seattleconventioncenter.com/venues/summit-addition">Seattle Convention Center | Summit Building</a><br>
-900 Pine Street<br>
+<a href="https://seattleconventioncenter.com/venues/summit-addition">Seattle Convention Center | Arch at 800 Pike</a><br>
+800 Pike Street<br>
 Seattle, WA 98101<br>
 <a href="https://seattleconventioncenter.com/parking-garage-information">Directions and Parking</a>
 
@@ -36,12 +36,13 @@ This year’s event is on August 1st and 2nd, 2023. A detailed program can be fo
 
 ### Sponsor Pitch Schedule
 
-TBD 
-<!-- Gold sponsors have 1 minute for a pitch to the full audience. This time will be strictly enforced to make
+
+Gold sponsors have 1 minute for a pitch to the full audience. This time will be strictly enforced to make
 sure we stay on schedule!
 
+Schedule: TBD
 
-<iframe width=525 height=385 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRjfgjnGgeisCIzN9VbniccFZ8a3PRdfqLnGa2oZSyTHzuIkC-9j4BYDB-U61qjNBcgsSAOrhlI7DRz/pubhtml?widget=true&amp;headers=false"></iframe> -->
+<!-- <iframe width=525 height=385 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRjfgjnGgeisCIzN9VbniccFZ8a3PRdfqLnGa2oZSyTHzuIkC-9j4BYDB-U61qjNBcgsSAOrhlI7DRz/pubhtml?widget=true&amp;headers=false"></iframe> -->
 
 ## Who to send
 
@@ -88,33 +89,32 @@ Gold sponsors will be able to choose the location in the venue of your sponsor t
 
 With that said, we've been told that we have one of the most welcoming sponsor areas of any DevOpsDays event and will do everything in our power to make sure there's no such thing as a "bad table spot".
 
-<!-- Floor Plan<br>
-<a href="/events/2019-seattle/2019-floor-plan.png"><img style="max-width: 500px; padding: 0px 20px 20px 0px" src="/events/2019-seattle/2019-floor-plan.png"></a> -->
+Floor Plan<br>
+ <a href="https://assets.devopsdays.org/events/2023/seattle/sponsor-tables.pdf">Floor Plan</a>
 
 #### Gold Sponsors
 
-**TBD**
-<!-- * 6 foot table with two chairs
+* 6 foot table with two chairs
 * Power available at table
 * WiFi is shared with the conference attendees, bandwidth heavy demos are not
-recommended -->
+recommended
 
 #### Silver Sponsors
 
-**TBD**
-<!-- * Share a 6 foot table with another sponsor
+* Share a 6 foot table with another sponsor
 * Power available at table
 * WiFi is shared with the conference attendees, bandwidth heavy demos are not
-recommended -->
+recommended
 
 The sponsor area will be set up to encourage people to hang out and enjoy coffee breaks and meals. It isn’t designed like a big trade show with aisles of booths. You should bring retractable banners instead of traditional trade show booths.
 
 <img style="max-width: 500px; padding: 0px 20px 20px 0px" src="/events/2017-seattle/banner_styles.png">
 
+
 ### A/V Rental<a id="av_rental">
 
 A/V rental is available directly from the venue. All tables will have power and access to the shared wireless service. 
-<!-- Anything else you require can be ordered with <a href="https://assets.devopsdays.org/events/2022/seattle/Devopsdays_Seattle_2022_072010SE_SCC_Exhibitor_Kit.pdf">this form</a>. -->
+Anything else you require can be ordered with <a href="https://assets.devopsdays.org/events/2023/seattle/DoDSsea-exhibitor-services-kit.pdf">this form</a>.
 
 ### Lead Collection
 
@@ -141,4 +141,4 @@ or otherwise create a sexualized environment.
 
 ### Social Networks
 
-We have the twitter handle @DevOpsDaysSEA, but people will most likely use the #DevOpsDays hashtag.
+We have the twitter handle @DevOpsDaysSEA and Mastodon handle , but people will most likely use the #DevOpsDays hashtag.
