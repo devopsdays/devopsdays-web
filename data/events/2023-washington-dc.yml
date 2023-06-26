@@ -204,6 +204,8 @@ organizer_email: "washington-dc@devopsdays.org" # Put your organizer email addre
 sponsors:
   - id: tremolo
     level: silver
+  - id: raft
+    level: silver
   - id: kcddc
     level: community
 
