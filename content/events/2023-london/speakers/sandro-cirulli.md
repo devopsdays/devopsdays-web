@@ -1,7 +1,7 @@
 +++
 Title = "Sandro Cirulli"
 pronouns = "he/him"
-image = ""
+image = "sandro-cirulli.png"
 type = "speaker"
 linktitle = "sandro-cirulli"
 

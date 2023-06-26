@@ -2,7 +2,7 @@
 Title = "Lian Li"
 Twitter = "lianmakesthings"
 pronouns = "she/her"
-image = ""
+image = "lian-li.png"
 type = "speaker"
 linktitle = "lian-li"
 

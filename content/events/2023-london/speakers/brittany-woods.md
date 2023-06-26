@@ -2,7 +2,7 @@
 Title = "Brittany Woods"
 Twitter = "bnwoods2008"
 pronouns = "she/her"
-image = ""
+image = "brittany-woods.png"
 type = "speaker"
 linktitle = "brittany-woods"
 

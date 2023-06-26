@@ -2,7 +2,7 @@
 Title = "Abby Bangser"
 Twitter = "a_bangser"
 pronouns = "she/her"
-image = ""
+image = "abby-bangser.png"
 type = "speaker"
 linktitle = "abby-bangser"
 

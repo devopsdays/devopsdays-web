@@ -2,7 +2,7 @@
 Title = "Lesley Cordero"
 Twitter = "clesleycode"
 pronouns = "she/her"
-image = ""
+image = "lesley-cordero.png"
 type = "speaker"
 linktitle = "lesley-cordero"
 
