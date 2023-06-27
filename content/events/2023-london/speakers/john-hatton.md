@@ -4,7 +4,7 @@ Twitter = ""
 pronouns = "he/him"
 image = ""
 type = "speaker"
-linktitle = "john-hatton"
+linktitle = "john-hatton-and-rich-house"
 
 +++
 
