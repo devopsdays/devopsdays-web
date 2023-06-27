@@ -1,7 +1,7 @@
 +++
 Title = "Kat Samperi"
 Twitter = "EldritchCafe"
-Mastodon = "@kizzie@eldritch.cafe"
+Mastodon = "https://eldritch.cafe/@kizzie"
 pronouns = "she/her"
 image = "kat-samperi.png"
 type = "speaker"

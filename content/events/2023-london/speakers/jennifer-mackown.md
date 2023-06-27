@@ -1,7 +1,7 @@
 +++
 Title = "Jennifer Mackown"
 Twitter = "@__jcmc__"
-Mastodon = "@jen@social.lol"
+Mastodon = "https://social.lol/@jen"
 pronouns = "she/her"
 image = "jennifer-mackown.png"
 type = "speaker"
