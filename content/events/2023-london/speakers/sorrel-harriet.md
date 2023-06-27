@@ -1,5 +1,5 @@
 +++
-Title = ""
+Title = "Sorrel Harriet"
 Twitter = ""
 pronouns = "she/her"
 image = "sorrel-harriet.png"
