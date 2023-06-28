@@ -39,8 +39,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     url: https://docs.google.com/forms/d/e/1FAIpQLSfeb1MsCAALmzaZ-LvAUw51W4QbtY_RqtwA9_1fjeg_eZWGDg/viewform
   - name: location
   - name: registration
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -125,3 +125,172 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+
+program:
+  # Day 1
+  - title: "Registration"
+    type: custom
+    date: 2023-09-06
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: Opening Welcome"
+    type: custom
+    date: 2023-09-06
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "yossi-sassi"
+    type: talk
+    date: 2023-09-06
+    start_time: "09:10"
+    end_time: "09:45"
+  - title: "edgaras-apsega"
+    type: talk
+    date: 2023-09-06
+    start_time: "09:45"
+    end_time: "10:20"
+  - title: "Break"
+    type: custom
+    date: 2023-09-06
+    start_time: "10:20"
+    end_time: "10:45"
+  - title: "mary-fesenko"
+    type: talk
+    date: 2023-09-06
+    start_time: "10:45"
+    end_time: "11:20"
+  - title: "fabio-alessandro-locati"
+    type: talk
+    date: 2023-09-06
+    start_time: "11:25"
+    end_time: "12:00"
+  - title: "Lunch"
+    type: custom
+    date: 2023-09-06
+    start_time: "12:00"
+    end_time: "13:15"
+  - title: "Ignites TBA"
+    type: ignite
+    date: 2023-09-06
+    start_time: "13:15"
+    end_time: "14:00"
+    block: ignite-1
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2023-09-06
+    start_time: "14:00"
+    end_time: "14:45"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2023-09-06
+    start_time: "14:45"
+    end_time: "15:30"
+  - title: "Break"
+    type: custom
+    date: 2023-09-06
+    start_time: "15:30"
+    end_time: "15:45"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2023-09-06
+    start_time: "15:45"
+    end_time: "16:30"
+  - title: "Break"
+    type: custom
+    date: 2023-09-06
+    start_time: "16:30"
+    end_time: "16:45"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2023-09-06
+    start_time: "16:45"
+    end_time: "17:30"
+  - title: "First day summary"
+    type: custom
+    date: 2023-09-06
+    start_time: "17:30"
+    end_time: "17:35"
+  - title: "Evening happening"
+    type: custom
+    date: 2023-09-06
+    start_time: "19:00"
+  #Day 2
+  - title: "Registration"
+    type: custom
+    date: 2023-09-07
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: Opening Welcome again"
+    type: custom
+    date: 2023-09-07
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "joshua-fox"
+    type: talk
+    date: 2023-09-07
+    start_time: "09:10"
+    end_time: "09:45"
+  - title: "matas-tvarijonas"
+    type: talk
+    date: 2023-09-07
+    start_time: "09:45"
+    end_time: "10:20"
+  - title: "Break"
+    type: custom
+    date: 2023-09-07
+    start_time: "10:20"
+    end_time: "10:45"
+  - title: "kerim-satirli"
+    type: talk
+    date: 2023-09-07
+    start_time: "10:45"
+    end_time: "11:20"
+  - title: "timur-bublik"
+    type: talk
+    date: 2023-09-07
+    start_time: "11:25"
+    end_time: "12:00"
+  - title: "Lunch"
+    type: custom
+    date: 2023-09-07
+    start_time: "12:00"
+    end_time: "13:15"
+  - title: "Ignites TBA"
+    type: ignite
+    date: 2023-09-07
+    start_time: "13:15"
+    end_time: "14:00"
+    block: ignite-1
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2023-09-07
+    start_time: "14:00"
+    end_time: "14:20"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2023-09-07
+    start_time: "14:20"
+    end_time: "15:05"
+  - title: "Break"
+    type: custom
+    date: 2023-09-07
+    start_time: "15:05"
+    end_time: "15:15"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2023-09-07
+    start_time: "15:15"
+    end_time: "16:00"
+  - title: "Break"
+    type: custom
+    date: 2023-09-07
+    start_time: "16:00"
+    end_time: "16:10"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2023-09-07
+    start_time: "16:10"
+    end_time: "16:55"
+  - title: "Closing"
+    type: custom
+    date: 2023-09-07
+    start_time: "16:55"
