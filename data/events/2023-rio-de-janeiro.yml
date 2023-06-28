@@ -212,7 +212,7 @@ program:
     comments: "Sala: Deploy"
 
   #Keynote-1
-  - title: "juliana-dias"
+  - title: "roze-cardoso"
     type: talk
     date: 2023-08-19
     start_time: "10:00"
