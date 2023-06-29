@@ -143,6 +143,8 @@ sponsors:
   #Silver
   - id: jack-experts
     level: silver
+  - id: globo
+    level: silver
 
   #Bronze
   - id: grafanalabs
