@@ -2,7 +2,7 @@
 Title = "John Hatton"
 Twitter = ""
 pronouns = "he/him"
-image = ""
+image = "john-hatton.png"
 type = "speaker"
 linktitle = "john-hatton-and-rich-house"
 
