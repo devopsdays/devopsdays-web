@@ -112,6 +112,9 @@ sponsors:
     level: bronze
   - id: snyk
     level: bronze
+  # community sponsors
+  - id: devops-exchange
+    level: community
 
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -132,6 +135,9 @@ sponsor_levels:
     max: 10
   - id: bronze
     label: Bronze
+    max: 10
+  - id: community
+    label: Community
     max: 10
 
 program:
