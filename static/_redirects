@@ -8,7 +8,7 @@
 /beijing/*		/events/2023-beijing/:splat		302
 /belem/*		/events/2019-belem/:splat		302
 /belo-horizonte/*	/events/2019-belo-horizonte/:splat	302
-/bengaluru/*		/events/2022-bengaluru/:splat		302
+/bengaluru/*		/events/2023-bengaluru/:splat		302
 /berlin/*		/events/2022-berlin/:splat		302
 /birmingham-al/*	/events/2023-birmingham-al/:splat		302
 /birmingham-uk/*		/events/2023-birmingham-uk/:splat		302
