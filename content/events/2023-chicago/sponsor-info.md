@@ -82,17 +82,15 @@ LinkedIn: <https://www.devopsdayschi.org/linkedin> 
 
 Instagram: <https://www.instagram.com/devopsdayschi>    
 
-There will be WiFi provided for the conference attendees. Remember, WiFi is a shared resource, so please be considerate of your fellow participants!
-
 ### <a name='NotetosponsorsaboutsocialmediaandDiscord'></a>Note to sponsors about social media and Discord
 
 Please note that sponsors are responsible for collecting their own leads and contact information for participants. If a sponsor abuses the social media and/or Discord at the event to harvest contact information, the organizers have the right to ban the organization from future events.
 
 ## <a name='Venue'></a>Venue
 
-Willis Tower - Convene
-233 S Wacker Dr
-Chicago, IL 60606
+Willis Tower - Convene<br>
+233 S Wacker Dr<br>
+Chicago, IL 60606<br>
 
 ### <a name='Shipping'></a>Shipping
 
@@ -134,10 +132,10 @@ We will have a label printer (4 x 6 inches) available for use.
 
 You must schedule the pickup yourself, using any of these numbers:
 
-FedEx: 800-463-3339
-UPS: 800-742-5877
-USPS: 800-275-8777
-DHL: 800-225-5345
+FedEx: 800-463-3339<br>
+UPS: 800-742-5877<br>
+USPS: 800-275-8777<br>
+DHL: 800-225-5345<br>
 
 ### <a name='Internet'></a>Internet
 
@@ -201,38 +199,38 @@ This is a simple verbal pitch. No slides, banners, or other materials. We will d
 *Sponsor pitch times will be updated here as they are finalized.*
 
 <!-- sponsor pitch schedule goes here -->
-Other FAQs
-==========
 
-How many people will be attending the conference?
+## Evening Events
+## Other FAQs
 
-We are expecting 550-600 people at the conference. This year we are capping total attendance to allow for spacing out as needed.
+**How many people will be attending the conference?**
 
-What are the demographics of the attendees?
+We are expecting 550-600 people at the conference.
+
+**What are the demographics of the attendees?**
 
 DevOpsDays conferences typically attract software, operations, infosec, QA, and build engineers, as well as architects and technology managers. From voluntary attendee data, 22% had VP or Director-level titles, 17% had senior level titles, and over 85% had technical roles.
 
 These folks are attending to learn and to share learnings about the DevOps movement. They most appreciate sponsors who engage with them with that in mind.
 
-Will sponsors get an email list of attendees? Do we get a dedicated email blast?
+**Will sponsors get an email list of attendees? Do we get a dedicated email blast?**
 
-No, we will not be sending out a formalized list. 
+No, we will not be sending out a formalized list.
 
-Gold and Silver sponsors will have their logos in all conference emails to participants. We cannot send out emails on behalf of sponsors and will not share contact information or lists of attendee names.
+Platinum and Gold sponsors will have their logos in all conference emails to participants. We cannot send out emails on behalf of sponsors and will not share contact information or lists of attendee names.
 
-When can we pick our booth spot?
+**When can we pick our booth spot?**
 
 Booths are assigned accordingly to sponsor level, then prioritized by when payment was received. We try not to place competitors next to each other and try to accommodate any requests.
 
-What is the booth set up? Can we bring 1m roll-up as our back wall?
+**What is the booth set up? Can we bring 1m roll-up as our back wall?**
 
 Booths are long tables ( 72" x 30") with a black tablecloth and power strip and 2 chairs. We recommend bringing/shipping: signage, handouts, pop-up banners, giveaways, etc. Banners must fit behind your booth.
 
 ![](https://lh5.googleusercontent.com/pU38uEVRNU9Wq04VneeKNddlHgu76VC7-XkhTlL6KksQe46Rv5pyj9M-Sk3fBMfvB6xj84rL5F5h72r1iJPYe9siuOLYnCQaTEBaMR7t_mO7rLJZkVwFx4a27vW1pNNoDK8UcyLWPf8UipObrX7zrdk)
+*A Gold sponsor table from 2019*
 
-A Gold sponsor table from 2019
-
-How many scanners (and which type) do we get?
+**How many scanners (and which type) do we get?**
 
 This is not your typical conference. The booth is a place to interact with people during breaks.
 
@@ -240,30 +238,30 @@ Sponsors​ ​benefit​​ ​most​ ​when​ ​they actively​ ​partic
 
 You are responsible for collecting any information in person. Raffles with a business card draw work well. Just let us know and we will give time on Day 2 to announce raffle winners between talks and lunch. We have seen that sponsors benefit the most when they bring engineers to the conference, attend talks, and actively participate in open space sessions with the other attendees.
 
-What is the 20% off code for additional sponsorship tickets?
+**What is the 20% off code for additional sponsorship tickets?**
 
-SPONSOR-2023-H5P2
+[SPONSOR-2023-H5P2](https://chicago-tickets.devopsdays.org/2023/redeem?voucher=SPONSOR-2023-H5P2) (click to register directly)
 
-Who should staff the booth? What are expo hours?
+**Who should staff the booth? What are expo hours?**
 
 If your goal is recruiting, consider sending engineering managers. If you are a vendor, send your sales engineers as well as your technical product marketing, and even some engineers. DevOpsDays are about quality, not quantity - it's about active participation!
 
-Can we do a giveaway on stage?
+**Can we do a giveaway on stage?**
 
 Yes. If you want to do a giveaway, you will need to collect your own information (e.g. business cards, entry slips, etc.) for whatever drawing mechanism you want to use. After the ignites on the second day, we will give you a short time slot on stage for your giveaway activity. Just let us know.
 
-Can I sponsor a talk? 
+**Can I sponsor a talk?**
 
 Absolutely not. Devopsdays does not sell conference speaking slots; sponsors' employees are welcome to submit talk proposals.
 
-Can I get a discount for sponsoring multiple DevOpsDays? 
+**Can I get a discount for sponsoring multiple DevOpsDays?**
 
 All DevOpsDays events are independently organized, so no multi-city sponsorships are available.
 
-Who organizes DevOpsDays Chicago? 
+**Who organizes DevOpsDays Chicago?**
 
-Your DevOpsDays Chicago organizers are Chicago-based technology folks who volunteer their time for this event.
+Your [DevOpsDays Chicago organizers](https://devopsdays.org/chicago/contact) are Chicago-based technology folks who volunteer their time for this event.
 
 All money collected from sponsors goes towards the conference and its related expenses. We are not a non-profit, so sponsorships are not tax deductible. Contact us at chicago-sponsors@devopsdays.org  to get our W9.
 
-For any questions, email all of us at <chicago@devopsdays.org>
+For any other questions, email all of us at <chicago@devopsdays.org>
