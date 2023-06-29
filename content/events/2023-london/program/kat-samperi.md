@@ -1,12 +1,10 @@
-
 +++
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "TBA"
+Title = "TBC"
 Type = "talk"
-Speakers = ["juliana-dias"]
-
+Speakers = ["kat-samperi"]
 +++
 
-TBA
+TBC
