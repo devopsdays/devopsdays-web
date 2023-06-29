@@ -212,6 +212,8 @@ sponsors:
     level: silver
   - id: improving
     level: silver
+  - id: swa
+    level: silver
   - id: devopslive
     level: community
   - id: addo
