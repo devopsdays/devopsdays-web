@@ -202,8 +202,8 @@ sponsors:
     level: platinum
   - id: zealit
     level: gold
-  #- id: cloudbees
-  # level: gold
+  - id: cloudbees
+    level: gold
   #- id: nobl9
   # level: gold
   - id: redgate
