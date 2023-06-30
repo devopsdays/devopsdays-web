@@ -201,6 +201,9 @@ This is a simple verbal pitch. No slides, banners, or other materials. We will d
 <!-- sponsor pitch schedule goes here -->
 
 ## Evening Events
+
+There is no official conference evening event; however, if you are planning to host a party or happy hour, etc after either day of the conference, please let us know the details! We will include this information in communications to attendees. Please send the details to chicago-sponsors@devopsdays.org
+
 ## Other FAQs
 
 **How many people will be attending the conference?**
@@ -227,7 +230,7 @@ Booths are assigned accordingly to sponsor level, then prioritized by when payme
 
 Booths are long tables ( 72" x 30") with a black tablecloth and power strip and 2 chairs. We recommend bringing/shipping: signage, handouts, pop-up banners, giveaways, etc. Banners must fit behind your booth.
 
-![](/events/2023-chicago/booth.png)
+![](/events/2023-chicago/booth.png)<br>
 *A Gold sponsor table from 2019*
 
 **How many scanners (and which type) do we get?**
