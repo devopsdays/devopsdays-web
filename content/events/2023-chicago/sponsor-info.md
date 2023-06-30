@@ -28,6 +28,8 @@ Thank you for sponsoring DevOpsDays Chicago 2023! The organizing committee is ex
 	* [AV Rentals](#AVRentals)
 		* [Equipment Rental Form](#EquipmentRentalForm)
 * [Sponsor Pitch](#SponsorPitch)
+* [Evening Events](#EveningEvents)
+* [Other FAQs](#OtherFAQs)
 
 <!-- vscode-markdown-toc-config
 	numbering=false
@@ -200,11 +202,11 @@ This is a simple verbal pitch. No slides, banners, or other materials. We will d
 
 <!-- sponsor pitch schedule goes here -->
 
-## Evening Events
+## <a name='EveningEvents'></a>Evening Events
 
 There is no official conference evening event; however, if you are planning to host a party or happy hour, etc after either day of the conference, please let us know the details! We will include this information in communications to attendees. Please send the details to chicago-sponsors@devopsdays.org
 
-## Other FAQs
+## <a name='OtherFAQs'></a>Other FAQs
 
 **How many people will be attending the conference?**
 
