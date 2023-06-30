@@ -227,7 +227,7 @@ Booths are assigned accordingly to sponsor level, then prioritized by when payme
 
 Booths are long tables ( 72" x 30") with a black tablecloth and power strip and 2 chairs. We recommend bringing/shipping: signage, handouts, pop-up banners, giveaways, etc. Banners must fit behind your booth.
 
-![](https://lh5.googleusercontent.com/pU38uEVRNU9Wq04VneeKNddlHgu76VC7-XkhTlL6KksQe46Rv5pyj9M-Sk3fBMfvB6xj84rL5F5h72r1iJPYe9siuOLYnCQaTEBaMR7t_mO7rLJZkVwFx4a27vW1pNNoDK8UcyLWPf8UipObrX7zrdk)
+![](/events/2023-chicago/booth.png)
 *A Gold sponsor table from 2019*
 
 **How many scanners (and which type) do we get?**
