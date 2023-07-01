@@ -131,6 +131,8 @@ sponsors:
     level: platinum
   - id: vmware
     level: platinum
+  - id: vertigo
+    level: platinum
 
   #Gold 
   - id: harness
@@ -139,11 +141,13 @@ sponsors:
     level: gold
   - id: stone
     level: gold
+  - id: proxify
+    level: gold
 
   #Silver
   - id: jack-experts
     level: silver
-  - id: globo
+  - id: globotv
     level: silver
 
   #Bronze
