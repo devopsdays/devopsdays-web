@@ -102,7 +102,13 @@ sponsors:
     level: platinum
   - id: sonobi
     level: gold
-
+  - id: tampaawsug
+    level: community
+  - id: hightechconnect
+    level: community
+  - id: womeninlinux
+    level: community
+  
     
 #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 # - id: arresteddevops
