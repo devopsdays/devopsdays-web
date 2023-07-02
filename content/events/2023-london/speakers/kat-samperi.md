@@ -14,3 +14,4 @@ Kat has been coding since she was 8 years old, and hated repeatedly typing the s
 Since then, Kat has achieved a PhD in AI and Robotics, followed by a drop into the world of DevSecOps and Automation. Working across various consultancies, government, energy and journalism, Kat has developed solid Build and Deployment pipelines over the years, with a keen focus on ensuring safety, security and reliability when releasing to production.
 
 Her favourite dinosaur is the Triceratops.
+
