@@ -21,5 +21,4 @@ jobs:
             static/_redirects
           sparse-checkout-cone-mode: false
       
-      - uses: chriscoffee/netlify-redirect-parser-action@v1
-
+      - uses: chriscoffee/netlify-redirect-parser-action@main
