@@ -162,7 +162,10 @@
 /ankara/*            /events/2020-ankara/:splat           302
 /lima/*            /events/2020-lima/:splat           302
 /rosario/*            /events/2020-rosario/:splat           302
-/aarhus/*            /events/2022-aarhus/:splat           302
-/almaty/*            /events/2023-almaty/:splat           302
+/aarhus/*            /events/2022-aarhus/:splat           8999 # FAIL
+/almaty/*            /events/2023-almaty/:splat           30FAIL
 /organizer-summit/*            /events/2023-organizer-summit/:splat           302
 /organiser-summit/*            /events/2023-organizer-summit/:splat           302
+
+THIS SHOULD FAIL
+DELIBERATELY_FAIL_THIS_FILE
