@@ -1,0 +1,25 @@
+name: Verify _redirects file
+
+on:
+  push: # Whilst we test the action
+
+  pull_request:
+    paths:
+        - static/_redirects
+
+  workflow_dispatch:
+
+jobs:
+  verify:
+    name: Check _redirects file for errors
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          sparse-checkout: |
+            static/_redirects
+          sparse-checkout-cone-mode: false
+      
+      - uses: chriscoffee/netlify-redirect-parser-action@v1
+
