@@ -50,7 +50,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Aimme Keener"
-    employer: "Autonomic"
+    employer: "Ford"
     linkedin: "https://www.linkedin.com/in/aimmekeener/"
     image: "white.png"
   - name: "Allison Green"
@@ -109,14 +109,15 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Gold
-#    max: 10
+    max: 16
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    max: 4
   - id: bronze
     label: Bronze
   - id: community
     label: Community
+    max: 2
   - id: AV
     label: AV
     max: 1
