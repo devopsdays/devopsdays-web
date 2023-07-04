@@ -23,7 +23,7 @@ People in all stages of their career will be present from university students, t
 <p>
 Being a sponsor of this conference is of mutual benefit to sponsor and attendee. Not only are attendees able to enjoy the
 variety of products and services offered by sponsors, but sponsors also get the opportunity to interact with their audience in
-a friendly environment. devopsdays Detroit 2019 attracted over 300 attendees, a 20% increase from the previous year. in 2023, as 
+a friendly environment. devopsdays Detroit 2019 attracted over 300 attendees, a 20% increase from the previous year. In 2023, as 
 we restart our conference in the post-covid era, our goal is to have 250+ attendees.
 
 <h3>Community Sponsorships</h3>
