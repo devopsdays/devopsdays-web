@@ -210,6 +210,8 @@ sponsors:
     level: gold
   - id: sleuth
     level: gold
+  - id: spot-by-netapp
+    level: gold
   - id: sumologic
     level: gold
   - id: tailscale
