@@ -36,14 +36,14 @@ Description = "devopsdays New York City 2023"
         <h4 class="my-3"><small>{{< event_start >}} - {{< event_end >}}</small></h4>
       </div>
     </div>
-    <!-- <div class = "row">
+    <div class = "row">
       <div class = "col-md-1 mx-5 px-0">
         <h4 class="my-3"><strong>Program</strong></h4>
       </div>
       <div class = "col-md-9">
         <h4 class="my-3"><small>View the {{< event_link page="program" text="Event Schedule." >}}</small></h4>
       </div>
-    </div> -->
+    </div>
     <!-- <div class = "row">
       <div class = "col-md-1 mx-5 px-0">
         <h4 class="my-3"><strong>Open Space</strong></h4>

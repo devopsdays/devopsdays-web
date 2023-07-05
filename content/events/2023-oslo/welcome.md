@@ -4,9 +4,27 @@ Type = "welcome"
 aliases = ["/events/2023-oslo/"]
 Description = "devopsdays Oslo 2023"
 +++
-
-<!-- Looked at Austin 2023 and could maybe look at Edinburough 2019 for program and speakers-->
-<img width="80%" alt="DevOpsDays Oslo 2023" src="/events/2023-oslo/location.jpg">
+<div style="width: 100%; display: inline-block; text-align: left; padding-bottom: 30px;"  class="row">
+  <img  style="width: 100%; display: inline-block; text-align: left;"  width="100%" alt="DevOpsDays Oslo 2023" src="/events/2023-oslo/location.jpg">
+  <div  style="margin: auto; width: 20%; display: inline-block; text-align: left; padding-top: 20px; padding-right: 20px;" >
+    <a href="/events/2023-oslo/speakers/mark-burgess/">
+      <img width="100%" alt="Mark Burgess" src="/events/2023-oslo/speakers/mark-burgess.png"/>
+      Mark Burgess
+    </a>
+  </div>
+  <div style="margin: auto; width: 20%; display: inline-block; text-align: left; padding-top: 20px; padding-right: 20px;">
+    <a href="/events/2023-oslo/speakers/nora-jones/">
+      <img width="100%" alt="Nora Jones" src="/events/2023-oslo/speakers/nora-jones.jpg"/>
+      Nora Jones
+    </a>
+  </div>
+  <div style="margin: auto; width: 20%; display: inline-block; text-align: left; padding-top: 20px; padding-right: 20px;">
+    <a href="/events/2023-oslo/speakers/matthew-skelton/">
+      <img width="100%" alt="Matthew Skelton" src="/events/2023-oslo/speakers/matthew-skelton.jpg"/>
+      Matthew Skelton
+    </a>
+  </div>
+</div>
 <div class="row">
   <div class="col-md-12">
     <div class="row">
@@ -46,7 +64,9 @@ Description = "devopsdays Oslo 2023"
             <strong>Register</strong>
           </div>
           <div class = "col-md-8">
-           Registration opening soon
+<a href=https://ti.to/devopsdaysoslo/2023/>Tickets at ti.to</a>
+<script src="https://js.tito.io/v2" async></script>
+<tito-widget event="devopsdaysoslo/2023"></tito-widget>
           </div>
         </div>
         <div class = "row">
@@ -59,10 +79,18 @@ Description = "devopsdays Oslo 2023"
         </div>
         <div class = "row">
           <div class = "col-md-2">
+            <strong>Propose/CFP</strong>
+          </div>
+          <div class = "col-md-8">
+              {{< event_link page="propose" text="Propose a talk / Call For Proposals" >}}
+          </div>
+        </div>
+        <div class = "row">
+          <div class = "col-md-2">
             <strong>Speakers</strong>
           </div>
           <div class = "col-md-8">
-            Speakers TBA
+              {{< event_link page="speakers" text="Speakers" >}}
           </div>
         </div>
         <div class="row">

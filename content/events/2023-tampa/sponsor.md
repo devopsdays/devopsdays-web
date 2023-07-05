@@ -11,8 +11,8 @@ Description = "Sponsor DevOpsDays Tampa Bay 2023"
     <div class="d-flex flex-row">
       <div class="col-md-12">
         <div class="p-2">
-          <a class="btn btn-secondary btn-block" href="https://www.linkedin.com/company/40652911"> <i class="fa fa-linkedin fa-lg"></i>&nbsp;&nbsp;
-            &nbsp; Follow us on LinkedIn</a>
+          <a target="_blank" class="btn btn-secondary btn-block" href="https://www.eventbrite.com/e/devopsdays-tampa-bay-2023-tickets-635898929817"> <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;
+            &nbsp; Purchase a Ticket</a>
         </div>
         <div class="p-2">
           <a class="btn btn-secondary btn-block" href="/events/2023-tampa/sponsor"> <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference</a>
@@ -21,10 +21,17 @@ Description = "Sponsor DevOpsDays Tampa Bay 2023"
           <a class="btn btn-secondary btn-block" href="/events/2023-tampa/contact"> <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;
             &nbsp; Contact the Organizers</a>
         </div>
+        <div class="p-2">
+          <a class="btn btn-secondary btn-block" href="https://www.linkedin.com/company/40652911"> <i class="fa fa-linkedin fa-lg"></i>&nbsp;&nbsp;
+            &nbsp; Follow us on LinkedIn</a>
+        </div>
+        <div class="p-2">
+          <a class="btn btn-secondary btn-block" href="https://twitter.com/intent/follow?original_referer=http%3A%2F%2Flocalhost%3A1313%2F&ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Efollow%7Ctwgr%5Edevopsdaystb&region=follow_link&screen_name=devopsdaystb"> <i class="fa fa-twitter fa-lg"></i>&nbsp;&nbsp;
+            &nbsp; Follow us on Twitter</a>
+        </div>
       </div>
     </div>
   </div>
-
 
   <div class="col-md-7">
     <div class="alert alert-info" role="alert">
@@ -40,12 +47,18 @@ Description = "Sponsor DevOpsDays Tampa Bay 2023"
       <p>Interested in sponsoring? please drop us an email at [{{< email_organizers >}}].</p>
 </div>
 
-<b>Lanyard SPONSOR</b>
-  Everyone at the event will be wearing a lanyard and this represents a great opportunity to get your name (logo) in front of all attendees.
-  The lanyard will be printed with your branding on it. There is only a single sponsorship available and it is $4,000.
+<b>Lanyard SPONSOR
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HUH8WC4WGGV6U" target="_blank">Buy Now</a>
+</b>
+<br/>
+Everyone at the event will be wearing a lanyard and this represents a great opportunity to get your name (logo) in front of all attendees.
+The lanyard will be printed with your branding on it. There is only a single sponsorship available and it is $4,000.
 
-<b>SWAG BAG SPONSOR</b>
-  Provide branded swag bag for all attendees with your name (logo). There is only a single sponsorship avaiable $4,000.
+<b>SWAG BAG SPONSOR
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=N4FEAGCR5974Y" target="_blank">Buy Now</a>
+</b>
+<br/>
+Provide branded swag bag for all attendees with your name (logo). There is only a single sponsorship available $4,000.
 
 <br>
 <div style="display: flex;">
@@ -55,9 +68,15 @@ Description = "Sponsor DevOpsDays Tampa Bay 2023"
       <tr>
         <td></td>
         </td>
-        <td style="padding: 5px" align="center" valign="top"><b>Gold</b><br>20 Left<br><br><br></td>
-        <td style="padding: 5px" align="center" valign="top"><b>Platinum</b><br>10 Left<br><br><br></td>
-        <td style="padding: 5px" align="center" valign="top"><b>Diamond</b><br>2 Left<br><br><br></td>
+        <td style="padding: 5px" align="center" valign="top"><b>Gold</b><br>19 Left<br><br><br>
+        <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MBTAQC3R6XBFN" target="_blank">Buy Now</a>
+        </td>
+        <td style="padding: 5px" align="center" valign="top"><b>Platinum</b><br>10 Left<br><br><br>
+        <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=D32495ZH962JU" target="_blank">Buy Now</a>
+        </td>
+        <td style="padding: 5px" align="center" valign="top"><b>Diamond</b><br>1 Left<br><br><br>
+        <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZWF76TZ9RUZ8E" target="_blank">Buy Now</a>
+        </td>
       </tr>
       <tr>
         <td>Price</td>
@@ -99,12 +118,4 @@ Description = "Sponsor DevOpsDays Tampa Bay 2023"
 </div>
 </div>
 
-
-
-
-
-
-
-
 <br/><br/>
-

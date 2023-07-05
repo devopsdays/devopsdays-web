@@ -18,7 +18,6 @@ Description = "Propose a talk for devopsdays Tel Aviv 2023"
      <p>Like every year, we'd like to request the you have patience during CFP review, as it is very difficult locking down an agenda. If you submitted a talk, we assure you, <strong>you will receive speaker feedback</strong>, as we very much appreciate the time and effort you took to submit.</p>
 </div>
 
-  <h3>Submit your talks on <a href="https://sessionize.com/devopsdays-tel-aviv-2023/" target="_blank">Sessionize</a>.</h3>
 
 <hr>
 
