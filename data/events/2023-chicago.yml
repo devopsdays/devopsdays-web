@@ -266,7 +266,7 @@ sponsor_levels:
   - id: community
     label: Community
   - id: transcription
-    label: Live Transcription
+    label: "Live Transcription"
     max: 1
 
 program:
