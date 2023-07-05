@@ -70,8 +70,8 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/davidgrizzanti/"
     role: "Organizer"
 
-organizer_email: "organizers-philadelphia-2019@devopsdays.org"
-proposal_email: "proposals-philadelphia-2019@devopsdays.org"
+organizer_email: "organizers-philadelphia@devopsdays.org"
+proposal_email: "proposals-philadelphia@devopsdays.org"
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
