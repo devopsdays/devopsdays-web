@@ -41,7 +41,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: registration
     url: https://devopsdaysce.eventize.com.br
  # - name: program
-  # - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct-pt-br
@@ -198,66 +198,37 @@ sponsors:
   - id: unifor
     level: platinum
     url: https://unifor.br/
+  - id: elastic
+    level: gold
+    url: https://www.elastic.co  
+  - id: csi-tech
+    level: platinum
+    url: https://csitech.csilocacoes.com.br/ 
   - id: trustdsolutions
     level: bronze
     url: https://trustd.solutions/ 
-  # - id: elevenworks
-  #   level: platinum
-  #   url: https://elven.works/
   - id: linuxtips
     level: community
     url: https://www.linuxtips.io/
   - id: mundo-sem-fio
     level: community
     url: http://mundosemfio.com.br/
-  # - id: forja
-  #   level: silver
-  #   url: https://techleadership.rocks
-  # - id: novatec
-  #   level: community
-  #   url: https://novatec.com.br
-  # - id: urbanostreet
-  #   level: community
-  #   url: https://www.instagram.com/urbano.street/
+  - id: formacao-aws
+    level: community
+    url: https://instagram.com/henryllemaia  
+  - id: novatec
+    level: community
+    url: https://novatec.com.br
+  - id: fortbrasil
+    level: community
+    url: https://novatec.com.br  
+  - id: jack-experts
+    level: community
+    url: https://jackexperts.com/
+  - id: crowdsec
+    level: community
+    url: https://crowdsec.net/ 
   - id: grafanabr
     level: bronze
     url: https://grafana.com/
-  # - id: servix
-  #   level: community
-  #   url: https://servix.com/
-  # - id: elastic
-  #   level: bronze
-  #   url: https://www.elastic.co/
-  # - id: atlantico
-  #   level: gold
-  #   url: https://www.atlantico.com.br/
-  # - id: aws-user-group-ce
-  #   level: community
-  #   url: https://www.meetup.com/pt-BR/AWS-Users-Group-CE/
-  # - id: energy-telecom
-  #   level: community
-  #   url: https://www.energytelecom.com.br/
-  # - id: globoofficial
-  #   level: silver
-  #   url: https://www.globo.com/
-  # - id: inflor
-  #   level: bronze
-  #   url: https://www.inflor.com.br/   
-  # - id: quanto
-  #   level: platinum
-  #   url: https://quan.to/   
-  # - id: globalsys
-  #   level: gold
-  #   url: https://www.globalsys.com.br/  
-  # - id: sauter
-  #   level: platinum
-  #   url: https://sauter.digital/ 
-  # - id: olist
-  #   level: silver
-  #   url: https://olist.com/pt-br/
-  # - id: autoglass
-  #   level: gold
-  #   url: https://www.autoglass.com.br/
-  # - id: quadritech
-  #   level: bronze
-  #   url: https://www.autoglass.com.br/
+  

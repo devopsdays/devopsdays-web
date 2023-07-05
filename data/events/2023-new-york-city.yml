@@ -140,6 +140,12 @@ sponsors:
     level: silver
   - id: nobl9
     level: silver
+  - id: brillio
+    level: silver
+  - id: kusari
+    level: startup
+  - id: twosigma
+    level: bronze
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -364,13 +370,11 @@ ignites:
     date: "2023-06-06"
   - title: "peter-oneill"
     date: "2023-06-06"
-  - title: "sharon-goldberg"
+  - title: "athanasios-filippidis"
     date: "2023-06-06"
   - title: "deepak-goel"
     date: "2023-06-06"
   - title: "mandi-walls"
     date: "2023-06-07"
   - title: "dave-stanke"
-    date: "2023-06-07"
-  - title: "jocelyn-harper"
     date: "2023-06-07"

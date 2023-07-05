@@ -72,6 +72,10 @@ organizer_email: "boston@devopsdays.org"
 sponsors:
   - id: elastic
     level: platinum
+  - id: dragondropcloud
+    level: startupalley
+  - id: dell-technologies
+    level: platinum
 #  - id: foo
 #    level: bar
 
@@ -80,10 +84,10 @@ sponsors_accepted : "yes"
 sponsor_levels:
   - id: platinum
     label: Platinum
-  - id: alacarte
-    label: A la Carte
   - id: startupalley
     label: Startup Alley
+  - id: alacarte
+    label: A la Carte
 
 # Uncomment when publishing the schedule.
 program:

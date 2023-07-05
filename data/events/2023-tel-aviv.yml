@@ -232,9 +232,16 @@ sponsors:
     level: gold
   - id: cloudbeat
     level: gold
-
+  - id: elastic
+    level: gold
+  - id: hetz
+    level: gold
+  - id: bigpanda
+    level: gold
+  - id: esl-cloudbees
+    level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  - id: arresteddevops
+  - id: velocitytech
     level: community
   - id: statscraft
     level: community
