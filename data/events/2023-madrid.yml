@@ -33,7 +33,7 @@ location: "CEU San Pablo Monteprincipe University" # Defaults to city, but you c
 location_address: "Av. de Montepríncipe, Km. 5, 300, 28668 Monteprincipe, Madrid" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-#  - name: registration
+  - name: registration
   - name: location
 #  - name: speakers
 #  - name: program
