@@ -2,7 +2,7 @@
 Title = "Gamified Chaos Testing - KubeDoom Workshop"
 Type = "talk"
 Speakers = ["tj-randall"]
-# sharing_image = "sean-carolan.png"
+sharing_image = "tj-randall.png"
 +++
 Learn about Kubernetes internals while you fight demons and test the resilience of your k8s cluster.
 
