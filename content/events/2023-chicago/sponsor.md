@@ -47,13 +47,14 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <td></td>
       <td>SOLD OUT</td>
       <td>
+      <a href="mailto:chicago-sponsors@devopsdays.org?subject=Interested%20in%20Gold%20Sponsorship%20DevOpsDays%20Chicago%202023">Contact us</a>
       <!-- Gold Paypal button  -->
-        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+        <!-- <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
           <input type="hidden" name="cmd" value="_s-xclick">
           <input type="hidden" name="hosted_button_id" value="S9SCLZP3USU7L">
           <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
           <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-        </form>
+        </form> -->
       </td>
       <td>
         <!-- bronze Paypal button  -->
@@ -190,7 +191,7 @@ All special sponsors will have their logo displayed on the DevOpsDays Chicago we
       <td>$3,000</td>
       <td>Your logo by the screen where talks are transcribed</td>
       <td>2</td>
-      <td>1</td>
+      <td>SOLD OUT</td>
     </tr>
     <tr>
       <td>Scholarships</td>
