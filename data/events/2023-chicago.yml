@@ -245,6 +245,8 @@ sponsors:
     level: community
   - id: bit-chicago
     level: community
+  - id: sym
+    level: transcription
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -263,6 +265,9 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+  - id: transcription
+    label: Live Transcription
+    max: 1
 
 program:
   - title: "Registration, Breakfast, Sponsors"
