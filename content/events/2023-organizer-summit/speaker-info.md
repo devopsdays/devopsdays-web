@@ -37,7 +37,7 @@ Directions [from ORD](https://goo.gl/maps/2rHBu57LMsCLbyacA) or [from MDW](https
 
 The event takes place on Tuesday, August 8, 2023. The detailed schedule for the day can be found at <https://devopsdays.org/events/2023-organizer-summit/program>.
 
-A participants are invited to join for an evening reception/party Tuesday, August 8. Details are still being worked out, and more information will be shared as soon as available. Save the date!
+All participants are invited to join for an evening reception/party Tuesday, August 8. This will take place at [Franklin Tap](https://www.franklintap.com/) at 6:30 PM.
 
 
 ### Check-in
