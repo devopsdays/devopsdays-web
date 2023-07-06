@@ -7,7 +7,12 @@ Talk_end_time = ""
 Type = "talk"
 +++
 
+### Elevator Pitch
+
 How we reduced our build time from 1 hour and 17 minutes to less than 10 minutes.
+
+
+### Description
 
 Our software engineer has just finished submitting a pull request to the core repository to update their product's package version. The pull request will run a verification job in which one of the tasks is to makes sure the application can be built—our software engineer needs to wait for at least 1 hour and 17 minutes.
 
