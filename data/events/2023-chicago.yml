@@ -245,6 +245,8 @@ sponsors:
     level: community
   - id: bit-chicago
     level: community
+  - id: nixos
+    level: community
   - id: sym
     level: transcription
 
