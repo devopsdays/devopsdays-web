@@ -6,4 +6,4 @@ Twitter = ""
 type = "speaker"
 +++
 
-TBD
+Just trying to help teams learn and make their work easier
