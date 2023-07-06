@@ -108,6 +108,23 @@ organizer_email: "madrid@devopsdays.org" # Put your organizer email address here
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
 
+ - id: madriddevops
+   level: community
+ - id: githublogo
+   level: community
+ - id: gdg-madrid
+   level: community
+ - id: crossdvlup
+   level: community
+ - id: ceu
+   level: community
+ - id: girls-in-tech-esp
+   level: community
+ - id: keepcoding
+   level: community
+ - id: apiaddicts
+   level: community
+
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
