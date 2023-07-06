@@ -71,58 +71,57 @@ Description = "Speakers, sessions, ignites, meals"
                         <td class="col-time">10:15 - 11:00</td>
                         <td>
                             <div class="col-lg-4">
-                                <a href="/events/2023-des-moines/speakers/akrem-saed/">
-                                    <img class="img img-circle" src="/events/2023-des-moines/speakers/akrem-saed.png" height="60px"
+                                <a href="/events/2023-des-moines/speakers/micheal-feathers/">
+                                    <img class="img img-circle" src="/events/2023-des-moines/speakers/michael-feathers.png" height="60px"
                                         width="60px" alt="">
                                 </a>
-                                <h4>Akrem Saed</h4>
-                            </div>
-                            <div class="col-lg-4">
-                                <a href="/events/2023-des-moines/speakers/matt-vincent/">
-                                    <img class="img img-circle" src="/events/2023-des-moines/speakers/matt-vincent.png" height="60px"
-                                        width="60px" alt="">
-                                </a>
-                                <h4>Matt Vincent</h4>
+                                <h4>Micheal Feathers</h4>
                             </div>
                             <div class="col-lg-8">
-                                <a href="/events/2023-des-moines/program/ai-roadmap/">AI: It’s on our roadmaps, but what’s the
-                                    simplest way to start?</a>
+                                <a href="/events/2023-des-moines/program/michael-feathers/">DevOps, Development Cadence and the Product Life Cycle</a>
                             </div>
                         </td>
                         <td>
                             <div class="col-lg-4">
-                                <a href="/events/2023-des-moines/speakers/timothy-reaves/">
-                                    <img class="img img-circle" src="/img/speaker-default.jpg" height="60px"
+                                <a href="/events/2023-des-moines/speakers/matt-ring/">
+                                    <img class="img img-circle" src="/events/2023-des-moines/speakers/matt-ring.png" height="60px"
                                         width="60px" alt="">
                                 </a>
-                                <h4>Timothy Reaves</h4>
+                                <h4>Matt Ring</h4>
+                            </div>
+                            <div class="col-lg-4">
+                                <a href="/events/2023-des-moines/speakers/amy-willard/">
+                                    <img class="img img-circle" src="/events/2023-des-moines/speakers/amy-willard.png" height="60px"
+                                        width="60px" alt="">
+                                </a>
+                                <h4>Amy Willard</h4>
                             </div>
                             <div class="col-lg-8">
-                                <a href="/events/2023-des-moines/program/timothy-reaves/">Escaping the Mire of Software Environments</a>
+                                <a href="/events/2023-des-moines/program/matt-ring/">Helping Life Leap Forward - Creating our Agile Operating Model at John Deere</a>
                             </div>
                         </td>
                         <td>
                             <div class="col-lg-4">
-                                <a href="/events/2023-des-moines/speakers/kevin-sutherland/">
-                                    <img class="img img-circle" src="/events/2023-des-moines/speakers/kevin-sutherland.png" height="60px"
+                                <a href="/events/2023-des-moines/speakers/kristen-cross/">
+                                    <img class="img img-circle" src="/events/2023-des-moines/speakers/kristen-cross.png" height="60px"
                                         width="60px" alt="">
                                 </a>
-                                <h4>Kevin Sutherland</h4>
+                                <h4>Kristen Cross</h4>
                             </div>
                             <div class="col-lg-8">
-                                <a href="/events/2023-des-moines/program/kevin-sutherland/">How do we bring agility to large government organizations? Seriously…how do we?</a>
+                                <a href="/events/2023-des-moines/program/kristen-cross/">Unleashing the Power of Self-Organizing Teams: Balancing Autonomy and Constraints</a>
                             </div>
                         </td>
                   <td>
                         <div class="col-lg-4">
-                            <a href="/events/2023-des-moines/speakers/matt-barcomb/">
-                                <img class="img img-circle" src="/events/2023-des-moines/speakers/matt-barcomb.png" height="60px"
+                            <a href="/events/2023-des-moines/speakers/elle-oflaherty/">
+                                <img class="img img-circle" src="/events/2023-des-moines/speakers/elle-oflaherty.png" height="60px"
                                     width="60px" alt="">
                             </a>
-                            <h4>TBD</h4>
+                            <h4>Elle O'Flaherty</h4>
                         </div>
                         <div class="col-lg-8">
-                            <a href="/events/2023-des-moines/program/matt-barcomb/">TITLE</a>
+                            <a href="/events/2023-des-moines/program/elle-oflaherty/">Networking at This Conference: Build Your Connections and Advance Your Career Today (Literally)</a>
                         </div>
                     </td>
                     </tr>

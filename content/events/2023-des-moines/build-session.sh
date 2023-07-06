@@ -1,5 +1,5 @@
-FILE_NAME="pete-anderson"
-REAL_NAME="Pete Anderson"
+FILE_NAME="ted-wallace"
+REAL_NAME="Ted Wallace"
 
 cp ./speakers/_template.md ./speakers/$FILE_NAME.md && cp ./program/_template.md ./program/$FILE_NAME.md
 

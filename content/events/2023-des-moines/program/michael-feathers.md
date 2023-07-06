@@ -1,6 +1,6 @@
 +++
 Title = "DevOps, Development Cadence and the Product Life Cycle"
-Speakers = ["micheal-feathers"]
+Speakers = ["michael-feathers"]
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
