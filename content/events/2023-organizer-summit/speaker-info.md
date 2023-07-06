@@ -62,9 +62,9 @@ Recommendations for parking can be found at [SpotHero](https://spothero.com/sear
 
 There is no conference template to use; rejoice! People will probably want your slides after the fact, hosting them in a way that you can easily share them is useful.
 
-**We will have a presentation computer to run your talk from, and we will provide a presentation remote for you to advance your slides.** 
+**We will have a presentation computer to run your talk from, and we will provide a presentation remote for you to advance your slides.** If you'd like to make use of this opportunity, send your slides to `organizer-summit@devopsdays.org` before August 4, EOD.
 
-The presentation computer will have Keynote, Powerpoint, PDF, or a web browser as options for presentation software. But you're welcome to use your own device as well.
+The presentation computer will have Keynote, Powerpoint, PDF, or a web browser as options for presentation software - and will be thoroughly tech-checked. But you're welcome to use your own device as well.
 
 You will have two confidence monitors in your line of sight. One will mirror the display being shown to the audience and the other will show any speaker notes if you have them. 
 
