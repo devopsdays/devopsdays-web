@@ -52,11 +52,11 @@ We can learn so much from each other! We hope to see you participate in all sess
 
 ## Travel and Lodging
 
-You should have already sorted your travel and lodging, but if you have any questions, please contact us at <chicago@devopsdays.org>.
+You should have already sorted your travel and lodging, but if you have any questions, please contact us at <organizer-summit@devopsdays.org>.
 
 ### Parking
 
-Recommendations for parking can be found at [SpotHero](https://spothero.com/search?kind=destination&id=400). If you pay for parking, please provide the receipts to <chicago@devopsdays.org> and we will reimburse you!
+Recommendations for parking can be found at [SpotHero](https://spothero.com/search?kind=destination&id=400). If you pay for parking, please provide the receipts to <organizer-summit@devopsdays.org> and we will reimburse you!
 
 ## A/V
 
@@ -82,4 +82,4 @@ Talks will be recorded and made available on the conference website within a rea
 
 ## Contact Information
 
-If you have general questions about the event, please feel free to email <chicago@devopsdays.org> at any time! 
+If you have general questions about the event, please feel free to email <organizer-summit@devopsdays.org> at any time! 
