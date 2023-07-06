@@ -46,7 +46,7 @@ Directions [from ORD](https://goo.gl/maps/2rHBu57LMsCLbyacA) or [from MDW](https
 
 The event takes place on Wednesday and Thursday, August 9-10, 2023. The detailed schedule for the two days can be found at <https://devopsdays.org/chicago/program>. There is also a high-level schedule at the end of this document.
 
-As a part of the [Global DevOpsDays Organizer Summit](/organizer-summit), all DevOpsDays Chicago speakers are invited to join for an evening reception/party the evening of Tuesday, August 8. Details are still being worked out, and more information will be shared as soon as available. Save the date!
+As a part of the [Global DevOpsDays Organizer Summit](/organizer-summit), all DevOpsDays Chicago speakers are invited to join for an evening reception/party the evening of Tuesday, August 8. This will take place at [Franklin Tap](https://www.franklintap.com/) at 6:30 PM. You should have received a calendar invite with more details!
 
 
 ### Check-in
