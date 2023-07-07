@@ -98,7 +98,8 @@ sponsors:
   #- id: checkmarx
   - id: mkdev
     level: silver
-  #  level: silver
+  - id: doit
+    level: silver
   # bronze sponsors
   - id: dxw
     level: bronze
