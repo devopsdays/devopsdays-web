@@ -82,12 +82,22 @@ sponsors:
 # Gold Sponsors 
   - id: fastly
     level: gold
+  - id: elastic
+    level: gold
+  - id: tailscale
+    level: gold
+  - id: britive
+    level: gold
+  - id: observeinc
+    level: gold
 # Silver Sponsors
   - id: dragondropcloud
     level: silver
   - id: pure-storage
     level: silver
   - id: puppet
+    level: silver
+  - id: hanselltierney
     level: silver
 # Bronze Sponsors
   # - id: samplesponsorname
@@ -363,7 +373,7 @@ ignites:
   - title: "chuck-reeves"
     date: 2023-08-01
     block: ignite-1
-  - title: "steve-martinelli"
+  - title: "cassie-achzenick"
     date: 2023-08-01
     block: ignite-1
   - title: "dwayne-mcdaniel"
