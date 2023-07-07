@@ -41,7 +41,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: speakers
   - name: sponsor
   - name: organizadores
-  - name: codigo-de-conduta
+  - name: código de conduta
+    url: /events/2024-nova-lima/conduta 
   - name: sobre-as-talks
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
@@ -65,7 +66,7 @@ team_members: # Name is the only required field for team members.
   - name: "Victor Parreira"
     employer: "Infrastructure Analyst at Quality Digital"
     linkedin: "https://www.linkedin.com/in/victorparreira/"
-    bio: "Um cara de humanas que descobriu em tech sua maior paixão. Gosto de misturar tudo aquilo que aprendi na minha carreira até agora para trazer uma nova visão sobre o mundo de cloud e suas ferramentas."
+    bio: "Um cara de humanas que descobriu em tech sua maior paixão. Gosto de misturar tudo aquilo que aprendi na minha carreira até agora para trazer uma nova visão sobre o mundo de cloud e suas ferramentas.  <br> <br> <br> <br> <br>"
     image: "victor.jpg" 
 
 organizer_email: "nova-lima@devopsdays.org" # Put your organizer email address here
