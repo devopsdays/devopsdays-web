@@ -97,11 +97,12 @@ sponsors:
     level: silver
   - id: puppet
     level: silver
-  - id: hanselltierney
-    level: silver
+
 # Bronze Sponsors
   # - id: samplesponsorname
   #   level: bronze
+  - id: hanselltierney
+    level: bronze
 # Community Sponsors
   - id: seattle-coffeeops
     level: community
