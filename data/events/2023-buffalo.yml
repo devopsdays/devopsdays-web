@@ -82,6 +82,13 @@ organizer_email: "buffalo@devopsdays.org" # Put your organizer email address her
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: bestpractical
+    level: bronze
+  - id: elastic
+    level: silver
+  - id: infosec716
+    level: community
+
 #  - id: samplesponsorname
 #    level: gold
 #    url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
@@ -95,10 +102,12 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Gold
-#    max: 10
+    max: 5
   - id: silver
     label: Silver
+    max: 5
   - id: bronze
     label: Bronze
+    max: 5
   - id: community
     label: Community

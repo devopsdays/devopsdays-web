@@ -202,16 +202,18 @@ sponsors:
     level: platinum
   - id: zealit
     level: gold
-  #- id: cloudbees
-  # level: gold
+  - id: cloudbees
+    level: gold
   #- id: nobl9
   # level: gold
   - id: redgate
     level: silver
   - id: clickhouse
     level: silver
-  #- id: improving
-  # level: silver
+  - id: improving
+    level: silver
+  - id: swa
+    level: silver
   - id: devopslive
     level: community
   - id: addo

@@ -76,6 +76,8 @@ sponsors:
     level: startupalley
   - id: dell-technologies
     level: platinum
+  - id: tailscale
+    level: platinum
 #  - id: foo
 #    level: bar
 
