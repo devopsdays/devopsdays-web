@@ -164,7 +164,7 @@ Sponsors will be located in the foyer of the main ballroom (see the floor plan a
 ### <a name='Table'></a>Table
 
 - Total "booth" space will be an 8' x 6' area.
-- Gold sponsors will be provided a 72" x 30" table with a black tablecloth, two chairs, and a power strip access.
+- Platinum and Gold sponsors will be provided a 72" x 30" table with a black tablecloth, two chairs, and a power strip access.
 - Sponsors will be allowed into the venue at 7:00 am on Wednesday August 9th
 - Doors open at 8:00am for attendees; talks start at 9:00am.
 - Teardown must be complete by 5:45 pm on Thursday, August 10th
@@ -196,7 +196,9 @@ All monitor rental requests must be made by **Monday July 24th**  to ensure ava
 
 Each Platinum Sponsor will have five minutes, and each Gold Sponsor will have one minute to address the main hall and the listening audience during scheduled blocks between talks. Please ensure that the content of your pitch adheres to the [Code of Conduct](http://devopsdays.org/events/2018-chicago/conduct/).
 
-This is a simple verbal pitch. No slides, banners, or other materials. We will display your company logo on the main screen during your pitch. Most folks mention their job openings/company overview rather than a product pitch.  Here's an example from 2017 (start at 1hr11min) : <https://youtu.be/w1sZrtaSp4s?t=1h11m34s>
+This is a simple verbal pitch. No slides (except for Platinum sponsors), banners, or other materials. We will display your company logo on the main screen during your pitch. Most folks mention their job openings/company overview rather than a product pitch. 
+
+Platinum sponsors may provide a slide deck which will be presented during their pitch (we'll give you the clicker for it!) Please send your slides (in PowerPoint, Keynote, or PDF form) to chicago@devopsdays.org no later than Friday, August 4.
 
 *Sponsor pitch times will be updated here as they are finalized.*
 

@@ -42,7 +42,7 @@ Description = "devopsdays Tampa Bay 2023"
     </p>
     <p>
     <a target="_blank" href="https://www.eventbrite.com/e/devopsdays-tampa-bay-2023-tickets-635898929817">
-      <img src="https://media.licdn.com/dms/image/D4E22AQH44c2ITnLycA/feedshare-shrink_800/0/1686331432940?e=1689206400&v=beta&t=KgfMcDAf-5rFga8Q5Um8UabBUe1a8qtmfD_kYXbP4wM" alt="Buy ticket" width="400" height="400" style="border: 3px solid black;">
+      <img src="https://media.licdn.com/dms/image/D4E22AQEW6s0BlOJdgQ/feedshare-shrink_800/0/1688572382934?e=1691625600&v=beta&t=HNfe4QpB4wxtwamVFUJKCEK_fA6shixTXetepuKC448" alt="Buy ticket" width="400" height="400" style="border: 3px solid black;">
     </a>
     </p>
     {{< event_twitter >}}
