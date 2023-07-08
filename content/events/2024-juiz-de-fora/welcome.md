@@ -31,14 +31,14 @@ Description = "DevOpsDays Juiz De Fora 2024"
             {{< event_link page="sponsor" text="Apoie o DevOpsDays Juiz de Fora em 2024!" >}}
           </div>
         </div>
-        <div class = "row">
+        <!-- <div class = "row">
           <div class = "col-md-2">
             <strong>Local</strong>
           </div>
           <div class = "col-md-8">
             {{< event_link page="local" text="UniAcademia" title="UniAcademia" >}}
           </div>
-        </div>
+        </div> -->
         <div class = "row">
           <div class = "col-md-2">
             <strong>Contato</strong>

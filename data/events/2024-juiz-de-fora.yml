@@ -30,14 +30,14 @@ cfp_open: "false"
 #-- registration_link: "https://www.sympla.com.br/evento/devopsdays-juiz-de-fora-2024/1912369" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
-coordinates: "-21.762058, -43.352624" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "UniAcademia"
-location_address: "R. Halfeld, 1179 - Centro, Juiz de Fora - MG, 36016-000" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+#-- coordinates: "-21.762058, -43.352624" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+#-- location: "UniAcademia"
+#-- location_address: "R. Halfeld, 1179 - Centro, Juiz de Fora - MG, 36016-000" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   #- name: Chamadas (CFP)
   #  url: https://www.papercall.io/devopsdaysjuizdefora2024
-  - name: local
+  # - name: local
   #- name: inscrição
   #  url: https://www.sympla.com.br/evento/devopsdays-juiz-de-fora-2024/1912369
   #- name: programação
@@ -109,8 +109,8 @@ organizer_email: "juiz-de-fora@devopsdays.org" # Put your organizer email addres
 sponsors:
   - id: rubeus
     level: platinum
-  - id: uniacademia
-    level: platinum
+  # - id: uniacademia
+  #  level: platinum
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
