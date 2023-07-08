@@ -343,6 +343,20 @@ Description = "Speakers, sessions, ignites, meals"
                             <h4>Josh Angolano</h4>
                         </div>
                         <div class="col-lg-8">
+                            <a href="/events/2023-des-moines/speakers/tim-andersen/">
+                                <img class="img rounded-circle" src="/events/2023-des-moines/speakers/tim-andersen.png" height="60px"
+                                    width="60px" alt="">
+                            </a>
+                            <h4>Tim Andersen</h4>
+                        </div>
+                        <div class="col-lg-8">
+                            <a href="/events/2023-des-moines/speakers/tom-cavanaugh/">
+                                <img class="img rounded-circle" src="/events/2023-des-moines/speakers/tom-cavanaugh.png" height="60px"
+                                    width="60px" alt="">
+                            </a>
+                            <h4>Tom Cavanaugh</h4>
+                        </div>                    
+                        <div class="col-lg-8">
                             <a href="/events/2023-des-moines/program/josh-angolano/">How Principal Catapulted to the Cloud</a>
                         </div>
                     </td>
