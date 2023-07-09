@@ -129,7 +129,7 @@ Description = "devopsdays Amsterdam will take place June 19-21, 2024! The group 
       <br><br>
         We expect 600 people this year and will be holding the event on June 19-21, 2024 at the <a href="/events/2024-amsterdam/location">Pakhuis de Zwijger</a> in the center of Amsterdam.
       <br><br>
-        The first day will be a workshop day, focusing on hands-on activities, from coding to cooperation in several parallel tracks in smaller settings. The format of the following 2 days includes a single track of 30-minute talks in the morning, followed by Ignite talks (5-minute, auto forwarding slides). There will be room for Open Spaces in the afternoon, which is considered a vital portion of the event. For those not interested in the Open Spaces, we continue offering the single track around a specific theme (this year around Compliance & Security and Platform Engineering).
+        The first day will be a workshop day, focusing on hands-on activities, from coding to cooperation in several parallel tracks in smaller settings. The format of the following 2 days includes a single track of 30-minute talks in the morning, followed by Ignite talks (5-minute, auto forwarding slides). There will be room for Open Spaces in the afternoon, which is considered a vital portion of the event. For those not interested in the Open Spaces, we continue offering the single track around a specific theme.
     </div>
   </div>
   <div class="row">
