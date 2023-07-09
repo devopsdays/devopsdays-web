@@ -166,6 +166,7 @@
 /almaty/*            /events/2023-almaty/:splat           302
 /organizer-summit/*            /events/2023-organizer-summit/:splat           302
 /organiser-summit/*            /events/2023-organizer-summit/:splat           302
+/nova-lima/*            /events/2024-nova-lima/:splat           302
 
 # 10822: Migrate PDFs within static/ to assets.devopsdays.org
 /events/2023-new-york-city/dodnyc-23-sponsor-prospectus.pdf                             https://assets.devopsdays.org/events/2023/new-york-city/dodnyc-23-sponsor-prospectus.pdf                           301
