@@ -26,7 +26,9 @@ More information can be obtained by using the [GVB](http://en.gvb.nl/) or [9292]
 
 ##### A note to out of towners in in regards to obtaining a reloadable card for public transportation.
 
-You can purchase an "OV chipkaart" at Amsterdam Centraal and most large metro stations (including Schiphol). Note that the unattended machines don't handle non-EU issued (for example Chip+Signature) cards well. Some U.S. Credit Unions now offer Chip+Pin technology on their *debit* card (note: not *credit* card). If your card doesn't work or want to use Euros (other than coins), there is a customer service center located on the "IJ side" of Amsterdam Centraal where you can purchase a chipkaart in person at the [Service Office](https://www.nsinternational.com/en/tickets-services/opening-hours-ticket-and-service-shops "Link to NS International Service Office"). If you're arriving via Schiphol - a similar service is offered in the main train hall
+In previous years you had to purchase something called a "OV chipkaart" and/or separate tickets from the [NS](https://www.nl.nl) in order to access the Public Transportation in the Netherlands. As of this year (2023) this is no longer required! 
+
+The Dutch have leapfrogged into 2020s by allowing you to check-in & check-out with your **contactless** debit or credit card, in addition to allowing payment via Apple Pay or Google Pay. Just remember to check in and out using the same method of payment (including which card is active on your mobile) -- otherwise you'll pay full fare twice! More information at [OVPay](https://www.ovpay.nl/en).
 
 #### Alternative methods of transportation
 - [Taxis](https://www.iamsterdam.com/en/plan-your-trip/getting-around/taxis)

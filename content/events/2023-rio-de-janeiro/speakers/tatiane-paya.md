@@ -1,7 +1,6 @@
 +++
 Title = "Tatiane Paya"
-linkedin = "https://www.linkedin.com/in/bernardo-lopes-pereira/" 
-Twitter = ""
+linkedin = "https://www.linkedin.com/in/tatypaya/" 
 image = "tatiana-paya.jpg"
 type = "speaker"
 linktitle = "tatiana-paya"

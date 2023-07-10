@@ -209,6 +209,8 @@ sponsors:
     level: bronze
   - id: wemanity
     level: bronze
+  - id: gitlab
+    level: bronze
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -282,7 +284,7 @@ program:
     date: 2023-06-21T00:00:00+02:00
     start_time: "09:00"
     end_time: "12:00"
-    comments: "Ij Zaal"
+    comments: "Ij Zaal - 30 active attendee maximum"
 
   - title: "ws-andrew-clay-shafer"
     type: workshop
@@ -303,7 +305,7 @@ program:
     date: 2023-06-21T00:00:00+02:00
     start_time: "11:15"
     end_time: "12:00"
-    comments: "Expo 1"
+    comments: "Workspace"
 
   # LUNCH
   - title: "Lunch Break"
@@ -326,7 +328,7 @@ program:
     date: 2023-06-21T00:00:00+02:00
     start_time: "13:00"
     end_time: "14:30"
-    comments: "Expo 1"
+    comments: "Outside"
 
   - title: "ws-pieter-reekers"
     type: workshop
@@ -376,7 +378,7 @@ program:
     date: 2023-06-21T00:00:00+02:00
     start_time: "15:10"
     end_time: "17:10"
-    comments: "Expo 1"
+    comments: "Outside"
 
   - title: "ws-derik-evangelista-winna-bridgewater"
     type: workshop
@@ -464,7 +466,7 @@ program:
     date: 2023-06-22T00:00:00+02:00
     start_time: "12:00"
     end_time: "13:00"
-  - title: "Online: Interviews with Derik Evangelista, Winna Bridgewater, Jurgen Allewijn, Dinant Paardenkoper, Viktor Farcic, and Whitney Lee"
+  - title: "Online: Interviews with Derik Evangelista & Winna Bridgewater, Jason Yee, Jurgen Allewijn & Dinant Paardenkoper, Daniel Bodky, and Viktor Farcic & Whitney Lee"
     type: custom
     date: 2023-06-22T00:00:00+02:00
     start_time: "12:00"
@@ -524,6 +526,12 @@ program:
     start_time: "16:15"
     end_time: "16:45"
     comments: "Beyond DevOps Track | Location: Grote Zaal"
+  - title: "Close Day / Wrap Up"
+    type: custom
+    date: 2023-06-22T00:00:00+02:00
+    start_time: "16:45"
+    end_time: "17:00"
+    comments: "Location: Grote Zaal"
   - title: "BBQ by Smokey Goodness brought to by our Platinum sponsor Portworx by Pure Storage"
     type: custom
     date: 2023-06-22T00:00:00+02:00
@@ -592,7 +600,7 @@ program:
     date: 2023-06-23T00:00:00+02:00
     start_time: "12:00"
     end_time: "13:00"
-  - title: "Online: Interview Nathen Harvey, Dan Maher, Feu Mourek, and Ivan Milchev"
+  - title: "Online: Interview Nathen Harvey & Amanda Lewis, Dotan Horovits, Daniel Maher, Kris Buytaert, Feu Mourek, Lutske de Leeuw and Ivan Milchev"
     type: custom
     date: 2023-06-23T00:00:00+02:00
     start_time: "12:00"
@@ -614,7 +622,7 @@ program:
     date: 2023-06-23T00:00:00+02:00
     start_time: "14:10"
     end_time: "14:55"
-  - title: "Online: Interview with Lesley Cordero, Thiago de Faria, and Andrew Zigler"
+  - title: "Online: Interview with Lesley Cordero, Pieter Reekers, Lou Creemers, Rushil Sharma and Andrew Zigler"
     type: open-space
     date: 2023-06-23T00:00:00+02:00
     start_time: "14:10"
@@ -682,6 +690,4 @@ ignites:
   - title: "ig-jason-yee"
     date: 2023-06-23T00:00:00+02:00
   - title: "ig-feu-mourek"
-    date: 2023-06-23T00:00:00+02:00
-  - title: "ig-kris-buytaert"
     date: 2023-06-23T00:00:00+02:00

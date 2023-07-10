@@ -14,8 +14,8 @@ Description = "Location for devopsdayss Tampa Bay 2023"
     <div class="d-flex flex-row">
       <div class="col-md-12">
         <div class="p-2">
-          <a class="btn btn-secondary btn-block" href="https://www.linkedin.com/company/40652911"> <i class="fa fa-linkedin fa-lg"></i>&nbsp;&nbsp;
-            &nbsp; Follow us on LinkedIn</a>
+          <a target="_blank" class="btn btn-secondary btn-block" href="https://www.eventbrite.com/e/devopsdays-tampa-bay-2023-tickets-635898929817"> <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;
+            &nbsp; Purchase a Ticket</a>
         </div>
         <div class="p-2">
           <a class="btn btn-secondary btn-block" href="/events/2023-tampa/sponsor"> <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference</a>
@@ -23,6 +23,14 @@ Description = "Location for devopsdayss Tampa Bay 2023"
         <div class="p-2">
           <a class="btn btn-secondary btn-block" href="/events/2023-tampa/contact"> <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;
             &nbsp; Contact the Organizers</a>
+        </div>
+        <div class="p-2">
+          <a class="btn btn-secondary btn-block" href="https://www.linkedin.com/company/40652911"> <i class="fa fa-linkedin fa-lg"></i>&nbsp;&nbsp;
+            &nbsp; Follow us on LinkedIn</a>
+        </div>
+        <div class="p-2">
+          <a class="btn btn-secondary btn-block" href="https://twitter.com/intent/follow?original_referer=http%3A%2F%2Flocalhost%3A1313%2F&ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Efollow%7Ctwgr%5Edevopsdaystb&region=follow_link&screen_name=devopsdaystb"> <i class="fa fa-twitter fa-lg"></i>&nbsp;&nbsp;
+            &nbsp; Follow us on Twitter</a>
         </div>
       </div>
     </div>

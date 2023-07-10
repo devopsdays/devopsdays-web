@@ -9,7 +9,6 @@ Speakers = ["julia-pedrosa"]
 
 +++
 
-Como escalamos a entrega de Infraestrutura em uma Consultoria de Cloud com Terraform
 Entrei numa Consultoria de Cloud com um grande desafio na mesa: Adotar o IAC de forma esturturada, e prover um novo padrão para que todo o time de Implantação pudesse adotar.
 
 No início nós enfrentávamos um grande problema na entrega de infraestrutura para nossos clientes, pois enquanto alguns usavam Terraform individualmente e de forma quase que descartável, outros ainda dependiam muito do ClickOps, o que é comprovadamente a cause de muito retrabalho e sucetibilidade a erros.

@@ -20,8 +20,8 @@ cfp_date_announce: 2023-08-01T00:00:00+01:00 # inform proposers of status
 
 cfp_link: "https://koliseo.com/devopsdaysmad/devopsdays-madrid-2023/sessions" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: 2023-05-06T00:00:00+01:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2023-10-05T23:59:00+01:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -33,7 +33,7 @@ location: "CEU San Pablo Monteprincipe University" # Defaults to city, but you c
 location_address: "Av. de Montepríncipe, Km. 5, 300, 28668 Monteprincipe, Madrid" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-#  - name: registration
+  - name: registration
   - name: location
 #  - name: speakers
 #  - name: program
@@ -107,6 +107,25 @@ organizer_email: "madrid@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+
+ - id: madriddevops
+   level: community
+ - id: githublogo
+   level: community
+ - id: gdg-madrid
+   level: community
+ - id: crossdvlup
+   level: community
+ - id: ceu
+   level: community
+ - id: girls-in-tech-esp
+   level: community
+ - id: keepcoding
+   level: community
+ - id: apiaddicts
+   level: community
+ - id: awscommspain
+   level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

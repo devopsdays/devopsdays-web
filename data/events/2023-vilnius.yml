@@ -16,11 +16,11 @@ startdate: 2023-09-06T00:00:00+03:00 # The start date of your event. Leave blank
 enddate: 2023-09-07T23:59:59+03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2023-04-25T00:00:00+03:00 # start accepting talk proposals.
-cfp_date_end: 2023-06-06T00:00:00+03:00 # close your call for proposals.
-cfp_date_announce: 2023-06-15T00:00:00+03:00 # inform proposers of status
+#cfp_date_start: 2023-04-25T00:00:00+03:00 # start accepting talk proposals.
+#cfp_date_end: 2023-06-06T00:00:00+03:00 # close your call for proposals.
+#cfp_date_announce: 2023-06-15T00:00:00+03:00 # inform proposers of status
 
-cfp_link: "https://www.papercall.io/devopsdays-vilnius" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+#cfp_link: "https://www.papercall.io/devopsdays-vilnius" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2023-05-10T00:00:00+03:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 registration_date_end: 2023-09-05T23:59:59+03:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
@@ -36,11 +36,11 @@ location_address: "Antakalnio g. 17, 10312 Vilnius" #Optional - use the street a
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
-    url: https://www.papercall.io/devopsdays-vilnius
+    url: https://docs.google.com/forms/d/e/1FAIpQLSfeb1MsCAALmzaZ-LvAUw51W4QbtY_RqtwA9_1fjeg_eZWGDg/viewform
   - name: location
   - name: registration
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -104,6 +104,8 @@ sponsors:
     level: bronze
   - id: hyperops
     level: silver 
+  - id: oxylabs
+    level: silver 
 #   - id: samplesponsorname
 #     level: gold
 #  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
@@ -123,3 +125,172 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+
+program:
+  # Day 1
+  - title: "Registration"
+    type: custom
+    date: 2023-09-06
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: Opening Welcome"
+    type: custom
+    date: 2023-09-06
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "yossi-sassi"
+    type: talk
+    date: 2023-09-06
+    start_time: "09:10"
+    end_time: "09:45"
+  - title: "edgaras-apsega"
+    type: talk
+    date: 2023-09-06
+    start_time: "09:45"
+    end_time: "10:20"
+  - title: "Break"
+    type: custom
+    date: 2023-09-06
+    start_time: "10:20"
+    end_time: "10:45"
+  - title: "mary-fesenko"
+    type: talk
+    date: 2023-09-06
+    start_time: "10:45"
+    end_time: "11:20"
+  - title: "fabio-alessandro-locati"
+    type: talk
+    date: 2023-09-06
+    start_time: "11:25"
+    end_time: "12:00"
+  - title: "Lunch"
+    type: custom
+    date: 2023-09-06
+    start_time: "12:00"
+    end_time: "13:15"
+  - title: "Ignites TBA"
+    type: ignite
+    date: 2023-09-06
+    start_time: "13:15"
+    end_time: "14:00"
+    block: ignite-1
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2023-09-06
+    start_time: "14:00"
+    end_time: "14:45"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2023-09-06
+    start_time: "14:45"
+    end_time: "15:30"
+  - title: "Break"
+    type: custom
+    date: 2023-09-06
+    start_time: "15:30"
+    end_time: "15:45"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2023-09-06
+    start_time: "15:45"
+    end_time: "16:30"
+  - title: "Break"
+    type: custom
+    date: 2023-09-06
+    start_time: "16:30"
+    end_time: "16:45"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2023-09-06
+    start_time: "16:45"
+    end_time: "17:30"
+  - title: "First day summary"
+    type: custom
+    date: 2023-09-06
+    start_time: "17:30"
+    end_time: "17:35"
+  - title: "Evening happening"
+    type: custom
+    date: 2023-09-06
+    start_time: "19:00"
+  #Day 2
+  - title: "Registration"
+    type: custom
+    date: 2023-09-07
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: Opening Welcome again"
+    type: custom
+    date: 2023-09-07
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "joshua-fox"
+    type: talk
+    date: 2023-09-07
+    start_time: "09:10"
+    end_time: "09:45"
+  - title: "matas-tvarijonas"
+    type: talk
+    date: 2023-09-07
+    start_time: "09:45"
+    end_time: "10:20"
+  - title: "Break"
+    type: custom
+    date: 2023-09-07
+    start_time: "10:20"
+    end_time: "10:45"
+  - title: "kerim-satirli"
+    type: talk
+    date: 2023-09-07
+    start_time: "10:45"
+    end_time: "11:20"
+  - title: "timur-bublik"
+    type: talk
+    date: 2023-09-07
+    start_time: "11:25"
+    end_time: "12:00"
+  - title: "Lunch"
+    type: custom
+    date: 2023-09-07
+    start_time: "12:00"
+    end_time: "13:15"
+  - title: "Ignites TBA"
+    type: ignite
+    date: 2023-09-07
+    start_time: "13:15"
+    end_time: "14:00"
+    block: ignite-1
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2023-09-07
+    start_time: "14:00"
+    end_time: "14:20"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2023-09-07
+    start_time: "14:20"
+    end_time: "15:05"
+  - title: "Break"
+    type: custom
+    date: 2023-09-07
+    start_time: "15:05"
+    end_time: "15:15"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2023-09-07
+    start_time: "15:15"
+    end_time: "16:00"
+  - title: "Break"
+    type: custom
+    date: 2023-09-07
+    start_time: "16:00"
+    end_time: "16:10"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2023-09-07
+    start_time: "16:10"
+    end_time: "16:55"
+  - title: "Closing"
+    type: custom
+    date: 2023-09-07
+    start_time: "16:55"

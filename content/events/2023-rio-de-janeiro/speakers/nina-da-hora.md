@@ -1,7 +1,7 @@
 +++
 Title = "Nina da Hora"
 linkedin = "https://www.linkedin.com/in/ninadahora/" 
-image = ".jpg"
+image = "nina-da-hora.jpg"
 type = "speaker"
 linktitle = "nina-da-hora"
 

@@ -31,6 +31,7 @@ In a city like Chicago, there are a lot of accomodation options! Here is a list 
 - Hilton Garden Inn Chicago Central Loop
 - Canopy by Hilton Chicago Central Loop
 - W Chicago City Center
+- [Central Loop Hotel](https://www.centralloophotel.com/)
 
 The following hotels are a little further away, but still within reasonable distance of the venue. 
 
