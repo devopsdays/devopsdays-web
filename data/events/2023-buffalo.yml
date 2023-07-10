@@ -35,11 +35,11 @@ location_address: "1 Seneca St Buffalo, NY 14203" #Optional - use the street add
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
- # - name: location
+  - name: location
   - name: registration
     url: "https://ti.to/devops-days-buffalo/2022"
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -111,3 +111,173 @@ sponsor_levels:
     max: 5
   - id: community
     label: Community
+
+program:
+  - title: "Welcome / Arrival / Check-in / Breakfast"
+    type: custom
+    date: 2023-09-27
+    start_time: "08:00"
+    end_time: "08:45"
+  - title: "welcome"
+    type: talk
+    date: 2023-09-27
+    start_time: "08:45"
+    end_time: "09:00"
+  - title: "fen-aldrich"
+    type: talk
+    date: 2023-09-27
+    start_time: "09:00"
+    end_time: "09:40"
+  - title: "matt-williams"
+    type: talk
+    date: 2023-09-27
+    start_time: "09:45"
+    end_time: "10:15"
+  - title: "jj-asghar"
+    type: talk
+    date: 2023-09-27
+    start_time: "10:20"
+    end_time: "10:50"
+  - title: "Sponsors"
+    type: custom
+    date: 2023-09-27
+    start_time: "10:50"
+    end_time: "11:00"
+  - title: "aman-sardana"
+    type: talk
+    date: 2023-09-27
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "sarah-morgan"
+    type: talk
+    date: 2023-09-27
+    start_time: "11:35"
+    end_time: "12:05"
+  - title: "LUNCH"
+    type: custom
+    date: 2023-09-27
+    start_time: "12:05"
+    end_time: "13:15"
+  - title: "Sponsors"
+    type: custom
+    date: 2023-09-27
+    start_time: "13:15"
+    end_time: "13:30"
+  - title: "Ignites"
+    type: ignite
+    date: 2023-09-27
+    start_time: "13:30"
+    end_time: "14:00"
+    block: "ignite"
+  - title: "Open Spaces"
+    type: open-space
+    date: 2023-09-27
+    start_time: "14:05"
+    end_time: "15:35"
+  - title: "adam-furmanek"
+    type: talk
+    date: 2023-09-27
+    start_time: "15:40"
+    end_time: "16:10"
+  - title: "rajith-attupattu"
+    type: talk
+    date: 2023-09-27
+    start_time: "16:15"
+    end_time: "16:45"
+  - title: "Closing Remarks"
+    type: custom
+    date: 2023-09-27
+    start_time: "16:45"
+    end_time: "17:00"
+  - title: "Welcome / Arrival / Check-in / Breakfast"
+    type: custom
+    date: 2023-09-28
+    start_time: "08:00"
+    end_time: "08:45"
+  - title: "welcome"
+    type: talk
+    date: 2023-09-28
+    start_time: "08:45"
+    end_time: "09:00"
+  - title: "jessica-kerr"
+    type: talk
+    date: 2023-09-28
+    start_time: "09:00"
+    end_time: "09:40"
+  - title: "baruch-sadogursky"
+    type: talk
+    date: 2023-09-28
+    start_time: "09:45"
+    end_time: "10:15"
+  - title: "becky-gandillion"
+    type: talk
+    date: 2023-09-28
+    start_time: "10:20"
+    end_time: "10:50"
+  - title: "Sponsors"
+    type: custom
+    date: 2023-09-28
+    start_time: "10:50"
+    end_time: "11:00"
+  - title: "richard-goforth"
+    type: talk
+    date: 2023-09-28
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "tejas-chopra"
+    type: talk
+    date: 2023-09-28
+    start_time: "11:35"
+    end_time: "12:05"
+  - title: "LUNCH"
+    type: custom
+    date: 2023-09-28
+    start_time: "12:05"
+    end_time: "13:15"
+  - title: "Sponsors"
+    type: custom
+    date: 2023-09-28
+    start_time: "13:15"
+    end_time: "13:30"
+  - title: "josh-lee"
+    type: talk
+    date: 2023-09-28
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Spaces"
+    type: open-space
+    date: 2023-09-28
+    start_time: "14:05"
+    end_time: "15:35"
+  - title: "ken-de-souza"
+    type: talk
+    date: 2023-09-28
+    start_time: "15:40"
+    end_time: "16:10"
+  - title: "vino-duraisamy"
+    type: talk
+    date: 2023-09-28
+    start_time: "16:15"
+    end_time: "16:45"
+  - title: "Closing Remarks + Prize Drawing"
+    type: custom
+    date: 2023-09-28
+    start_time: "16:45"
+    end_time: "17:00"
+
+ignites:
+  - title: "jj-asghar-1"
+    date: 2023-09-27
+    block: "ignite"
+  - title: "fen-aldrich-1"
+    date: 2023-09-27
+    block: "ignite"
+  - title: "steve-martinelli"
+    date: 2023-09-27
+    block: "ignite"
+  - title: "jeremy-meiss"
+    date: 2023-09-27
+    block: "ignite"
+  - title: "david-hope"
+    date: 2023-09-27
+    block: "ignite"
