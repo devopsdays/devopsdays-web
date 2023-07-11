@@ -76,11 +76,11 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/mattjoyyhz"
   - name: "Nahrin Jalal"
     image: "nahrin-jalal.jpeg"
-    bio: "TBA"
-    role: "TBA"
+    bio: "Nahrin Jalal has led Developer Relations teams in startup environments and contributed to the growth of a publicly-traded enterprise. She is deeply passionate about building inclusive communities, inspiring developers to address real-world needs with pragmatic software solutions, and creating technical content that is accessible to all skill levels."
+    role: "Developer Relations and Outreach Strategy"
     employer: "TBA"
     github: "NJalal7"
-    twitter: "TBA"
+    twitter: "NahrinJalal"
     linkedin: "https://www.linkedin.com/in/nahrin-jalal/"
 
 organizer_email: "halifax@devopsdays.org" # Put your organizer email address here
