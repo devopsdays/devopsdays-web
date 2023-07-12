@@ -149,8 +149,5 @@ Description = "Sponsor DevOpsDays London 2023"
       <p>This year we expect approximately 400 attendees (depending on COVID-19 guidance).</p>
       <p>Location: DevOpsDays London will be returning to the QEII Centre in London.</p>
     </div>
-    <!-- <div class="col-md-3 col-sm-12"> -->
-    <!--   <a href="https://assets.devopsdays.org/events/2023/london/devopsdays-london-2023-sponsorship-brochure.pdf">Get the sponsorship brochure</a> -->
-    <!-- </div> -->
   </div>
 </div>
