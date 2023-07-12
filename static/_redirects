@@ -1,4 +1,4 @@
-/amsterdam/*		/events/2023-amsterdam/:splat		302
+/amsterdam/*		/events/2024-amsterdam/:splat		302
 /aracaju/*		/events/2023-aracaju/:splat		302
 /atlanta/*		/events/2023-atlanta/:splat		302
 /austin/*		/events/2023-austin/:splat		302
@@ -8,7 +8,7 @@
 /beijing/*		/events/2023-beijing/:splat		302
 /belem/*		/events/2019-belem/:splat		302
 /belo-horizonte/*	/events/2019-belo-horizonte/:splat	302
-/bengaluru/*		/events/2022-bengaluru/:splat		302
+/bengaluru/*		/events/2023-bengaluru/:splat		302
 /berlin/*		/events/2022-berlin/:splat		302
 /birmingham-al/*	/events/2023-birmingham-al/:splat		302
 /birmingham-uk/*		/events/2023-birmingham-uk/:splat		302
@@ -166,6 +166,7 @@
 /almaty/*            /events/2023-almaty/:splat           302
 /organizer-summit/*            /events/2023-organizer-summit/:splat           302
 /organiser-summit/*            /events/2023-organizer-summit/:splat           302
+/nova-lima/*            /events/2024-nova-lima/:splat           302
 
 # 10822: Migrate PDFs within static/ to assets.devopsdays.org
 /events/2023-new-york-city/dodnyc-23-sponsor-prospectus.pdf                             https://assets.devopsdays.org/events/2023/new-york-city/dodnyc-23-sponsor-prospectus.pdf                           301
