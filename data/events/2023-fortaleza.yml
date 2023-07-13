@@ -106,7 +106,7 @@ team_members: # Name is the only required field for team members.
   - name: "Ezzio Moreira"
     twitter: ""
     employer: "Pagar.me"
-    bio: "Graduated in Computer Networks, certified AWS Solutions Architect Associate, and Terraform Associate. I love technology and DevOps culture. I am a member of the Mentoring IaC community where I can learn and cultivate the philosophy of knowledge sharing. I'm learning about Gitops, Kubernetes, and coding in golang.In my spare time, I like to drink craft beer, play video games and ride a bike."
+    bio: "Graduated in Computer Networks, CKA certified, AWS SAA, 2x Datadog and Terraform Associate. Currently, I'm part of the SRE team at Pagar.me, I'm one of the moderate DevOps mentors, I'm part of the DevOps Ceará community meetups organization. I'm learning about Observability and Python. In my spare time, I enjoy drinking craft beer, playing video games, and riding my bike."
     github: "ezzioMoreira"
     facebook: ""
     linkedin: "https://www.linkedin.com/in/ezzio-moreira-89587898/"
@@ -136,7 +136,7 @@ team_members: # Name is the only required field for team members.
   - name: "Rafael Camelo"
     twitter: ""
     employer: "RCN&BS"
-    bio: "My name is Rafael, I have a Degree in Computer Networks and a Post Graduate in Information Security, I am currently studying the Devops culture and I intend to use the solutions provided by it. I am living in Fortaleza, Ceará Brazil. Currently I work in a company that provides solutions service related to technology, my position currently is, infrastructure analyst. I love to play sports like judo and Crossfit, I really like to read things not related to IT"
+    bio: "My name is Rafael, and I hold a Degree in Computer Networks as well as a Post Graduate degree in Information Security. Currently, I am immersing myself in studying the DevOps culture and its associated solutions. I reside in Fortaleza, Ceará, Brazil. I am employed at a technology-focused company where I work as an infrastructure analyst, providing solutions and services. In addition to my professional pursuits, I have a passion for sports such as judo and Crossfit. Furthermore, I enjoy reading about topics unrelated to IT."
     github: "rafaelm93"
     facebook: ""
     linkedin: "https://www.linkedin.com/in/rafael-camelo-98120b93/"
@@ -153,16 +153,15 @@ team_members: # Name is the only required field for team members.
     website: ""
     image: "pedro-azevedo.png"
 
-  - name: "Joab Rocha"
+  - name: "Victoria Farias"
     twitter: ""
     employer: "Software Engineer"
-    bio: "Student of Industrial Mathematics at the Federal University of Ceará, I am an enthusiast in web development that seeks to improve more and more in the new technologies that are emerging. I have 2 years of experience developing Back-End systems for the Web, with some knowledge in Docker and Deploy, and about 5 years with programming in general."
-    github: "Joab-S"
+    bio: "I am a Computer Networks Technician and currently pursuing a degree in Computer Networks Technology. I am absolutely passionate about technology and all the new possibilities for knowledge that come into my life. Currently, I work as a Junior IT Analyst, and in my free time, I am passionate about soccer."
+    github: ""
     facebook: ""
-    linkedin: "https://www.linkedin.com/in/joabdsr/"
+    linkedin: "https://www.linkedin.com/in/victoria-farias24/"
     website: ""
-    image: "joab.rocha.jpeg"  
-
+    image: "vitoria-farias.png"
  
 
 organizer_email: "fortaleza@devopsdays.org" # Put your organizer email address here
