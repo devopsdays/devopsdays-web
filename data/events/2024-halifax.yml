@@ -22,7 +22,7 @@ registration_date_end: # close registration. Leave blank if registration is not 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
-masthead_background: "halifax-background.jpg"
+masthead_background: "halifax-background.png"
 sharing_image: "halifax-sharing.png"
 
 # Location
