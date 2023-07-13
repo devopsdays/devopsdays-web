@@ -10,7 +10,7 @@ Description = "Location for devopsdays Eindhoven 2023"
 
 The conference is located at [High Tech Campus](https://www.hightechcampus.com/ "Website of High Tech Campus")
 
-High Tech Campus 1b
+High Tech Campus 1-E
 5656 AE Eindhoven
 The Netherlands
 
