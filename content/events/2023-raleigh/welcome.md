@@ -5,6 +5,10 @@ aliases = ["/events/2023-raleigh/"]
 Description = "devopsdays raleigh 2023"
 +++
 
+# Thank you for making DevopsDays Raleigh an amazing event again!
+
+## Keep the DevOpsDays Raleigh conversation going. Follow us on LinkedIn and Twitter!
+
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
 </div> -->

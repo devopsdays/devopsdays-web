@@ -1,7 +1,7 @@
 +++
 Title = "Tricia Broderick"
 Twitter = ""
-image = "tricia-broderick.jpg"
+image = "tricia-broderick.png"
 type = "speaker"
 linktitle = "tricia-broderick"
 +++

@@ -44,8 +44,11 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: sponsor
   - name: contact
   - name: conduct
+#  - name: volunteer
   - name: Health and Safety Policy
     url: /events/2023-chicago/covid
+  - name: Guide to Chicago
+    url: /events/2023-organizer-summit/guide-to-chicago
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -169,7 +172,7 @@ organizer_email: "chicago@devopsdays.org" # Put your organizer email address her
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: zoho
+  - id: site24x7
     level: platinum
   - id: newrelic
     level: platinum
@@ -181,17 +184,37 @@ sponsors:
     level: gold
   - id: circleci
     level: gold
+  - id: cloudbees
+    level: gold
   - id: dell-technologies
+    level: gold
+  - id: gitlab
+    level: gold
+  - id: googlecloud
     level: gold
   - id: launch-darkly
     level: gold
   - id: kosli
     level: gold
+  - id: mezmo
+    level: gold
+  - id: nobl9
+    level: gold
+  - id: observeinc
+    level: gold
   - id: postman
+    level: gold
+  - id: puppet-by-perforce
+    level: gold
+  - id: roostai
     level: gold
   - id: sleuth
     level: gold
+  - id: spot-by-netapp
+    level: gold
   - id: sumologic
+    level: gold
+  - id: tailscale
     level: gold
   - id: temporal
     level: gold
@@ -205,6 +228,10 @@ sponsors:
     level: bronze
   - id: aspire-systems
     level: bronze
+  - id: redhat
+    level: bronze
+  - id: clickhouse
+    level: bronze
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
@@ -216,6 +243,12 @@ sponsors:
     level: community
   - id: microsoft-teals
     level: community
+  - id: bit-chicago
+    level: community
+  - id: nixos
+    level: community
+  - id: sym
+    level: transcription
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -234,6 +267,9 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+  - id: transcription
+    label: "Live Transcription"
+    max: 1
 
 program:
   - title: "Registration, Breakfast, Sponsors"
@@ -241,7 +277,7 @@ program:
     date: 2023-08-09
     start_time: "08:00"
     end_time: "09:00"
-#   - title: "Opening Welcome"
+  - title: "Opening Welcome"
     type: custom
     date: 2023-08-09
     start_time: "09:00"
@@ -328,11 +364,6 @@ program:
     end_time: "16:00"
   - title: "Open Space #3"
     type: open-space
-    date: 2023-08-09
-    start_time: "16:00"
-    end_time: "16:45"
-  - title: "sean-carolan"
-    type: workshop
     date: 2023-08-09
     start_time: "16:00"
     end_time: "16:45"
@@ -426,7 +457,7 @@ program:
     date: 2023-08-10
     start_time: "15:15"
     end_time: "16:00"
-  - title: "theresa-mammarella"
+  - title: "eddie-knight"
     type: workshop
     date: 2023-08-10
     start_time: "15:15"
@@ -449,9 +480,7 @@ program:
 ignites:
   - title: "hannah-foxwell"
     date: 2023-08-09
-  # - title: "katie-kodes"
-  #   date: 2023-08-09
-  - title: "tim-banks"
+  - title: "jacquie-grindrod"
     date: 2023-08-09
   - title: "pooja-mistry"
     date: 2023-08-09

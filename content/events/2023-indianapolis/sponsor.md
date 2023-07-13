@@ -7,6 +7,9 @@ Description = "Sponsor DevOpsDays Indianapolis 2023"
 We greatly value sponsors for this open event. If you are interested in
 sponsoring, please drop us an email at [{{< email_organizers >}}].
 
+Please see [this sponsor prospectus](https://assets.devopsdays.org/events/2023/indianapolis/prospectus.pdf)
+for details about sponsoring.
+
 <hr>
 
 DevOpsDays Indianapolis is a self-organizing conference for
@@ -205,8 +208,8 @@ would like to put together a custom package, let us know.
       <td style="padding: 5px" align="center">$1,000</td>
     </tr>
     <tr>
-      <td style="padding: 5px" aling="left">Coffee station (both days) - Signage provided</td>
-      <td style="padding: 5px" align="center">$500</td>
+      <td style="padding: 5px" aling="left"><strike>Coffee station (both days) - Signage provided</strike></td>
+      <td style="padding: 5px" align="center"><strike>$500</strike></td>
     </tr>
     <tr>
       <td style="padding: 5px" aling="left">Breakfast buffet (both days) - Signage provided</td>
@@ -221,8 +224,8 @@ would like to put together a custom package, let us know.
       <td style="padding: 5px" align="center">$500</td>
     </tr>
     <tr>
-      <td style="padding: 5px" aling="left">Day 1 Lunch - Signage provided, 3 minute pitch and video loop (no audio) during lunch</td>
-      <td style="padding: 5px" align="center">$1,000</td>
+      <td style="padding: 5px" aling="left"><strike>Day 1 Lunch - Signage provided, 3 minute pitch and video loop (no audio) during lunch</strike></td>
+      <td style="padding: 5px" align="center"><strike>$1,000</strike></td>
     </tr>
     <tr>
       <td style="padding: 5px" aling="left">Day 2 Lunch - Signage provided, 3 minute pitch and video loop (no audio) during lunch</td>

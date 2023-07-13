@@ -37,12 +37,12 @@ location_address: "Kia Oval, Kennington, London SE11 5SS"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   # - name: propose
-  - name: registration
+  # - name: registration
   - name: program
   - name: speakers
   - name: location
   - name: accessibility
-  - name: sponsor
+  # - name: sponsor
   - name: contact
   - name: conduct
   - name: subscribe
@@ -114,11 +114,11 @@ sponsors:
     level: silver
   - id: cortex
     level: silver
-  - id: doit
+  - id: doit-before-2023-07-07
     level: silver
   - id: firehydrant
     level: silver
-  - id: googlecloud
+  - id: googlecloud-before-20230502
     level: silver    
   - id: harness
     level: silver
@@ -150,7 +150,7 @@ sponsors:
   - id: syntasso
     level: bronze
 
-sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted: "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For

@@ -1,7 +1,7 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_date = "2023-05-19"
+Talk_start_time = "16:45"
+Talk_end_time = "17:15"
 Title = "DevOps para o exterior: o que tem sido diferente?"
 Type = "talk"
 Speakers = ["punk-do-devops"]

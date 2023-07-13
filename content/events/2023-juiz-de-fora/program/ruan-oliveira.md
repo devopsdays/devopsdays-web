@@ -1,7 +1,7 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_date = "2023-05-20"
+Talk_start_time = "14:45"
+Talk_end_time = "15:15"
 Title = "Helm: como começar, possibilidades e self-service de aplicações para Kubernetes."
 Type = "talk"
 Speakers = ["ruan-oliveira"]

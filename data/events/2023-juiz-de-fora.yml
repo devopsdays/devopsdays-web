@@ -5,6 +5,7 @@ event_twitter: "devopsdaysjf" # Change this to the twitter handle for your event
 description: "DevOpsDays em Juiz de Fora!" # Edit this to suit your preferences
 ga_tracking_id: "G-1V0NPCCBJS" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 event_logo: "/events/2023-juiz-de-fora/logo.png"
+masthead_background: "vista_do_centro_de_juiz_de_fora-mg.jpeg"
 
 # All dates are in unquoted 2023-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00
@@ -39,7 +40,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: local
   - name: inscrição
     url: https://www.sympla.com.br/evento/devopsdays-juiz-de-fora-2023/1912369
-#  - name: program
+  - name: programação
+    url: /events/2023-juiz-de-fora/program
   - name: palestrantes
     url: /events/2023-juiz-de-fora/speakers
   - name: patrocínio
@@ -104,11 +106,19 @@ sponsors:
     level: platinum
   - id: uniacademia
     level: platinum
-  #- id: elastic
-  #  level: bronze
+  - id: jack-experts
+    level: bronze
+  - id: elastic
+    level: bronze
+  - id: deltaops
+    level: bronze
   - id: cafe-do-programador
     level: gifts
   - id: digitalocean
+    level: gifts
+  - id: redhat
+    level: gifts
+  - id: baroesct
     level: gifts
   - id: novatec
     level: gifts
@@ -139,102 +149,167 @@ sponsor_levels:
     label: Community
 
 program:
-  # - title: "Credenciamento"
-  #   type: custom
-  #   date: 2023-11-05T08:00:00-03:00
-  #   start_time: "08:00"
-  #   end_time: "09:00"
-  # - title: "Abertura"
-  #   type: custom
-  #   date: 2023-11-05T08:00:00-03:00
-  #   start_time: "09:00"
-  #   end_time: "09:30"
-  # - title: "marylly-araujo"
-  #   type: talk
-  #   date: 2023-11-05T08:00:00-03:00
-  #   start_time: "09:30"
-  #   end_time: "10:00"
-  #   background_color: "#AED6F1"
-  # - title: "pooja-mistry"
-  #   type: talk
-  #   date: 2023-11-05T08:00:00-03:00
-  #   start_time: "10:00"
-  #   end_time: "10:30"
-  # - title: "Coffee Break"
-  #   type: custom
-  #   date: 2023-11-05T08:00:00-03:00
-  #   start_time: "10:30"
-  #   end_time: "11:00"
-  # - title: "alex-salgado"
-  #   type: talk
-  #   date: 2023-03-04T08:00:00-03:00
-  #   start_time: "09:30"
-  #   end_time: "10:00"
-  # - title: "rodrigo-ribeiro"
-  #   type: talk
-  #   date: 2023-11-05T08:00:00-03:00
-  #   start_time: "11:30"
-  #   end_time: "12:00"
-  #   background_color: "#AED6F1"
-  # - title: "Almoço"
-  #   type: custom
-  #   date: 2023-11-05T08:00:00-03:00
-  #   start_time: "12:00"
-  #   end_time: "13:30"
-  # - title: "Ignite Talks"
-  #   type: custom
-  #   date: 2023-11-05T08:00:00-03:00
-  #   start_time: "13:30"
-  #   end_time: "13:45"
-  # - title: "danielle-monteiro"
-  #   type: talk
-  #   date: 2023-11-05T08:00:00-03:00
-  #   start_time: "13:45"
-  #   end_time: "14:15"
-  #   background_color: "#AED6F1"
-  # - title: "tainara-almeida"
-  #   type: talk
-  #   date: 2023-11-05T08:00:00-03:00
-  #   start_time: "14:15"
-  #   end_time: "14:45"
-  # - title: "robert-silva"
-  #   type: talk
-  #   date: 2023-11-05T08:00:00-03:00
-  #   start_time: "14:45"
-  #   end_time: "15:15"
-  # - title: "bianca-rosa"
-  #   type: talk
-  #   date: 2023-11-05T08:00:00-03:00
-  #   start_time: "15:15"
-  #   end_time: "15:45"
-  # - title: "Coffee Break"
-  #   type: custom
-  #   date: 2023-11-05T08:00:00-03:00
-  #   start_time: "15:45"
-  #   end_time: "16:15"
-  # - title: "Open Spaces"
-  #   type: custom
-  #   date: 2023-11-05T08:00:00-03:00
-  #   start_time: "16:15"
-  #   end_time: "16:45"
-  # - title: "Open Spaces"
-  #   type: custom
-  #   date: 2023-11-05T08:00:00-03:00
-  #   start_time: "16:45"
-  #   end_time: "17:15"
-  # - title: "jeferson-fernando"
-  #   type: talk
-  #   date: 2023-11-05T08:00:00-03:00
-  #   start_time: "17:15"
-  #   end_time: "17:45"
-  #   background_color: "#AED6F1"
-  # - title: "Encerramento"
-  #   type: custom
-  #   date: 2023-11-05T08:00:00-03:00
-  #   start_time: "17:45"
-  #   end_time: "18:30"
-  # - title: "Happy Hour"
-  #   type: custom
-  #   date: 2023-11-05T08:00:00-03:00
-  #   start_time: "18:30"
-  #   end_time: "22:00"
+  - title: "Credenciamento"
+    type: custom
+    date: 2023-05-19T08:00:00-03:00
+    start_time: "08:30"
+    end_time: "09:00"
+  - title: "Abertura"
+    type: custom
+    date: 2023-05-19T08:00:00-03:00
+    start_time: "09:00"
+    end_time: "09:30"
+  - title: "rafael-gomex"
+    type: talk
+    date: 2023-05-19T08:00:00-03:00
+    start_time: "09:30"
+    end_time: "10:00"
+  - title: "francisco-ferreira-cardoso"
+    type: talk
+    date: 2023-05-19T08:00:00-03:00
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Coffee Break"
+    type: custom
+    date: 2023-05-19T08:00:00-03:00
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "felipe-rocha"
+    type: talk
+    date: 2023-05-19T08:00:00-03:00
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "marcos-diez"
+    type: talk
+    date: 2023-05-19T08:00:00-03:00
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Almoço"
+    type: custom
+    date: 2023-05-19T08:00:00-03:00
+    start_time: "12:00"
+    end_time: "14:00"
+  - title: "Ignite Talks"
+    type: custom
+    date: 2023-05-19T08:00:00-03:00
+    start_time: "14:00"
+    end_time: "14:15"
+    background_color: "#AED6F1"
+  - title: "bezaleel-silva"
+    type: talk
+    date: 2023-05-19T08:00:00-03:00
+    start_time: "14:15"
+    end_time: "14:45"
+  - title: "daniel-rodrigues-da-silva"
+    type: talk
+    date: 2023-05-19T08:00:00-03:00
+    start_time: "14:45"
+    end_time: "15:15"
+  - title: "Coffee Break"
+    type: custom
+    date: 2023-05-19T08:00:00-03:00
+    start_time: "15:15"
+    end_time: "15:45"
+  - title: "Open Spaces"
+    type: custom
+    date: 2023-05-19T08:00:00-03:00
+    start_time: "15:45"
+    end_time: "16:45"
+    background_color: "#AED6F1"
+  - title: "punk-do-devops"
+    type: talk
+    date: 2023-05-19T08:00:00-03:00
+    start_time: "16:45"
+    end_time: "17:15"
+  - title: "Encerramento"
+    type: custom
+    date: 2023-05-19T08:00:00-03:00
+    start_time: "17:15"
+    end_time: "18:00"
+  - title: "Happy Hour"
+    type: custom
+    date: 2023-05-19T08:00:00-03:00
+    start_time: "18:00"
+    end_time: "22:00"
+  - title: "Credenciamento"
+    type: custom
+    date: 2023-05-20T08:00:00-03:00
+    start_time: "08:30"
+    end_time: "09:00"
+  - title: "Abertura"
+    type: custom
+    date: 2023-05-20T08:00:00-03:00
+    start_time: "09:00"
+    end_time: "09:30"
+  - title: "joao-brito"
+    type: talk
+    date: 2023-05-20T08:00:00-03:00
+    start_time: "09:30"
+    end_time: "10:00"
+  - title: "stephanie-chaia-bartels"
+    type: talk
+    date: 2023-05-20T08:00:00-03:00
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Coffee Break"
+    type: custom
+    date: 2023-05-20T08:00:00-03:00
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "robert-silva-bernardo-lankheet"
+    type: talk
+    date: 2023-05-20T08:00:00-03:00
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "alex-salgado"
+    type: talk
+    date: 2023-05-20T08:00:00-03:00
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Almoço"
+    type: custom
+    date: 2023-05-20T08:00:00-03:00
+    start_time: "12:00"
+    end_time: "14:00"
+  - title: "Ignite Talks"
+    type: custom
+    date: 2023-05-20T08:00:00-03:00
+    start_time: "14:00"
+    end_time: "14:15"
+    background_color: "#AED6F1"
+  - title: "edson-marques"
+    type: talk
+    date: 2023-05-20T08:00:00-03:00
+    start_time: "14:15"
+    end_time: "14:45"
+  - title: "ruan-oliveira"
+    type: talk
+    date: 2023-05-20T08:00:00-03:00
+    start_time: "14:45"
+    end_time: "15:15"
+  - title: "Coffee Break"
+    type: custom
+    date: 2023-05-20T08:00:00-03:00
+    start_time: "15:15"
+    end_time: "15:45"
+  - title: "Open Spaces"
+    type: custom
+    date: 2023-05-20T08:00:00-03:00
+    start_time: "15:45"
+    end_time: "16:45"
+    background_color: "#AED6F1"
+  - title: "matheus-amaral"
+    type: talk
+    date: 2023-05-20T08:00:00-03:00
+    start_time: "16:45"
+    end_time: "17:15"
+  - title: "Encerramento"
+    type: custom
+    date: 2023-05-20T08:00:00-03:00
+    start_time: "17:15"
+    end_time: "18:00"
+  - title: "Happy Hour"
+    type: custom
+    date: 2023-05-20T08:00:00-03:00
+    start_time: "18:00"
+    end_time: "22:00"

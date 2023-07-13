@@ -14,11 +14,11 @@ startdate: 2023-09-13T07:00:00-04:00
 enddate: 2023-09-14T19:00:00-04:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-# cfp_date_start: 2023-05-09T00:00:00-04:00 # start accepting talk proposals.
-# cfp_date_end:  2023-07-11T00:00:00-04:00 # close your call for proposals.
-# cfp_date_announce:  2023-08-01T00:00:00-04:00 # inform proposers of status
+cfp_date_start: 2023-05-01T00:00:00-04:00 # start accepting talk proposals.
+cfp_date_end: 2023-06-26T00:00:00-04:00 # close your call for proposals.
+cfp_date_announce: 2023-07-24T00:00:00-04:00 # inform proposers of status
 
-# cfp_link: "https://sessionize.com/devopsdays-dc-2023" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://sessionize.com/devopsdays-dc-2023" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2023-03-02T00:00:00-04:00
 registration_date_end: 2023-09-14T23:59:59-04:00
@@ -33,7 +33,7 @@ location: "American Red Cross, Washington, D.C."
 location_address: "1730 E St NW, Washington, DC 20006"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+- name: propose
 - name: location
 - name: registration
  # - name: program
@@ -202,6 +202,10 @@ organizer_email: "washington-dc@devopsdays.org" # Put your organizer email addre
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: tremolo
+    level: silver
+  - id: raft
+    level: silver
   - id: kcddc
     level: community
 
