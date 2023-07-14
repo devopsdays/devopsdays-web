@@ -20,8 +20,8 @@ cfp_date_announce:  # inform proposers of status
 
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: 2023-07-13T00:00:00+04:00
+registration_date_end: 2023-10-02T00:00:00+04:00
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -33,14 +33,14 @@ location: "A. Alfred Taubman Center for Design Education, College for Creative S
 location_address: "460 W Baltimore St, Detroit, MI 48202" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
- # - name: location
- # - name: registration
- # - name: program
- # - name: speakers
+  - name: registration
   - name: sponsor
   - name: contact
   - name: conduct
+ # - name: propose
+ # - name: location
+ # - name: program
+ # - name: speakers
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
