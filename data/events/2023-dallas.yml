@@ -204,6 +204,8 @@ sponsors:
     level: gold
   - id: cloudbees
     level: gold
+  - id: launch-darkly
+    level: gold
   #- id: nobl9
   # level: gold
   - id: redgate
