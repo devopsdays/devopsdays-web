@@ -2,7 +2,7 @@ name: "2023-seattle" # The name of the event. Four digit year with the city name
 year: "2023" # The year of the event. Make sure it is in quotes.
 city: "seattle" # The displayed city name of the event. Capitalize it.
 event_twitter: "DevOpsDaysSEA" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "Devopsdays Seattle Returns the summer of 2023!" # Edit this to suit your preferences
+description: "It is with great sadness that we share the organizing team’s decision to cancel DevOpsDays Seattle 2023." # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 event_logo: "logo.jpg"
 masthead_background: "seattle-skyline.jpg"
@@ -30,20 +30,20 @@ registration_link: "https://www.accelevents.com/e/devops-days-seattle-2023" # If
 
 # Location
 #
-coordinates: "47.61214828491211,-122.33201599121094" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Seattle Convention Center | Arch at 800 Pike Building" # Defaults to city, but you can make it the venue name.
-#
-location_address: "800 Pike St, Seattle, WA 98101" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+# coordinates: "47.61214828491211,-122.33201599121094" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+# location: "Seattle Convention Center | Arch at 800 Pike Building" # Defaults to city, but you can make it the venue name.
+# #
+# location_address: "800 Pike St, Seattle, WA 98101" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   # - name: propose
-  - name: location
-  - name: registration
-  - name: program
-  - name: speakers
-  - name: sponsor
-  - name: contact
-  - name: conduct
+  # - name: location
+  # - name: registration
+  # - name: program
+  # - name: speakers
+  # - name: sponsor
+  # - name: contact
+  # - name: conduct
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
