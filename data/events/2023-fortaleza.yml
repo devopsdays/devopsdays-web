@@ -155,14 +155,43 @@ team_members: # Name is the only required field for team members.
 
   - name: "Victoria Farias"
     twitter: ""
-    employer: "Software Engineer"
+    employer: "FortBrasil"
     bio: "I am a Computer Networks Technician and currently pursuing a degree in Computer Networks Technology. I am absolutely passionate about technology and all the new possibilities for knowledge that come into my life. Currently, I work as a Junior IT Analyst, and in my free time, I am passionate about soccer."
     github: ""
     facebook: ""
     linkedin: "https://www.linkedin.com/in/victoria-farias24/"
     website: ""
     image: "vitoria-farias.png"
- 
+  
+  - name: "Alesson Viana"
+    twitter: ""
+    employer: "Grupo GFT"
+    bio: "I'm passionate about Technology, working with process automation, and extracting the best technologies cloud computing offers. I love learning and implementing methodologies and applications that make sense for the project's growth. I've been working with IT since 2012, but since 2020 I've been trying to focus more on automation tools and cloud computing technologies."
+    github: "https://github.com/alessonviana/"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/alesson-viana/"
+    website: "https://alessonviana.tech/"
+    image: "alesson-viana.jpeg"
+
+  - name: "Carlos Veras"
+    twitter: ""
+    employer: "FortBrasil"
+    bio: "I hold a degree in Software Development and have been actively working in the IT industry since 2006. Throughout my career, I have gained experience in various roles, ranging from software development to IT management. I am constantly amazed by the power of technology and how it can drive businesses forward and positively transform people's lives. Presently, I hold the esteemed position of Supervisor in Governance and Information Security at Fortbrasil, a leading fintech company located in Fortaleza, Brazil. In this role, I oversee critical aspects of governance and information security to ensure the highest level of standards for our organization."
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/carlos-alberto-veras-cavalcanti-54a99312b/"
+    website: ""
+    image: "carlos.veras.png" 
+
+  - name: "Rafael Silva"
+    twitter: "https://twitter.com/rafaotetra"
+    employer: "FortBrasil"
+    bio: "I am a quadriplegic DevOps Engineer graduated in Computer Networks from the Federal University of Ceará - Campus Quixadá. Guided by the principles of Stoic philosophy, I find inspiration in music, books and sports. I am an enthusiast of the DevOps culture and the Open Source movement, I bring extensive expertise in cost management (FinOps) in AWS environments. My recent focus is on infrastructure as code (IaC) using Terraform, orchestration with Docker, ECS Fargate and Kubernetes. In addition, I have been exploring OpenTelemetry, Prometheus, Python and AI tools."
+    github: "https://github.com/rafaotetra"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/rafaotetra/"
+    website: ""
+    image: "rafael.silva.jpg"
 
 organizer_email: "fortaleza@devopsdays.org" # Put your organizer email address here
 
