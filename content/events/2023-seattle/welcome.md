@@ -2,12 +2,12 @@
 Title = "devopsdays seattle 2023"
 Type = "welcome"
 aliases = ["/events/2023-seattle/",
-"/events/2020-seattle/location/",
-"/events/2020-seattle/propose/",
-"/events/2020-seattle/registration/",
-"/events/2020-seattle/sponsor/",
-"/events/2020-seattle/program/",
-"/events/2020-seattle/speakers/",
+"/events/2023-seattle/location/",
+"/events/2023-seattle/propose/",
+"/events/2023-seattle/registration/",
+"/events/2023-seattle/sponsor/",
+"/events/2023-seattle/program/",
+"/events/2023-seattle/speakers/",
 ]
 Description = "devopsdays seattle 2023"
 +++
