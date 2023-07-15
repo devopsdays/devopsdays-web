@@ -50,6 +50,7 @@
 /indianapolis/*		/events/2023-indianapolis/:splat	302
 /istanbul/*		/events/2021-istanbul/:splat		302
 /jakarta/*		/events/2022-jakarta/:splat		302
+/juiz-de-fora/*		/events/2024-juiz-de-fora/:splat		302
 /kansas-city/*		/events/2019-kansas-city/:splat		302
 /kazan/*		/events/2018-kazan/:splat		302
 /kiel/*			/events/2018-kiel/:splat		302
