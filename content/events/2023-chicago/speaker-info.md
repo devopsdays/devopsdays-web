@@ -17,6 +17,7 @@ description = "Speaker information for DevOpsDays Chicago 2023"
   - [Hotel](#hotel)
   - [Parking](#parking)
 - [A/V](#av)
+  - [Practice Feedback](#practice-feedback)
   - [Tech check](#tech-check)
   - [Save Q&A for Open Spaces](#save-qa-for-open-spaces)
   - [Sharing Slides](#sharing-slides)
@@ -95,7 +96,13 @@ There will be conference wifi but we strongly recommend not having any dependenc
 
 If you need anything not mentioned above (like audio from your laptop, presenting from multiple laptops, etc), do let us know ahead of time; we can likely accommodate whatever you need, but we'll need to test any such setup ahead of time.
 
-Please also remember to disable your screensaver and desktop notifications during your presentation. Make sure your laptop is unlocked PRIOR to hooking up to video display, so everyone doesn't watch you type in your password..
+Please also remember to disable your screensaver and desktop notifications during your presentation. Make sure your laptop is unlocked PRIOR to hooking up to video display, so everyone doesn't watch you type in your password.
+
+### Practice Feedback
+
+New this year!
+
+If you're interested in practicing a portion of your presentation, we have a limited number of time slots available for you to present and receive feedback from one of the organizers of DevOpsDays Chicago. Sign up here: https://calendar.app.google/bxfiqUZ2A4Lpcn8D8 
 
 ### Tech check
 
