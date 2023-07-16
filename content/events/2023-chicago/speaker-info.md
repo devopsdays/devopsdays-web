@@ -100,7 +100,7 @@ There is no conference template to use; rejoice! (Optional but recommended: addi
 
 **We will have a presentation computer to run your talk from, and we will provide a presentation remote for you to advance your slides.** If you wish to run your talk from your own laptop, let us know no later than August 4 via email to <chicago@devopsdays.org>, and you must check in with A/V at 7:30 AM the day of your talk. *Our preference is to use our computer to prevent any hardware-specific issues*. Ignites will be presented from a common laptop (see the section below for more Ignite talk specifics!)
 
-The presentation computer will have Keynote, Powerpoint, PDF, or a web browser as options for presentation software; if you need something other than this, please let us know at <chicago@devopsdays.org> and we will accommodate you! If you are using the conference laptop to present, please provide your slides (and any supporting fonts/files) to <chicago@devopsdays.org> no later than **Friday, August 7th**.
+The presentation computer will have Keynote, Powerpoint, PDF, or a web browser as options for presentation software; if you need something other than this, please let us know at <chicago@devopsdays.org> and we will accommodate you! If you are using the conference laptop to present, please provide your slides (and any supporting fonts/files) to <chicago@devopsdays.org> no later than **Friday, August 4th**.
 
 You will have two confidence monitors in your line of sight. One will mirror the display being shown to the audience and the other will show any speaker notes if you have them. For ignites - you will NOT have speaker notes available, so if you need notes, you'll need to put them on cards or printed on paper.
 
