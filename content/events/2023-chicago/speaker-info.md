@@ -22,12 +22,12 @@ description = "Speaker information for DevOpsDays Chicago 2023"
   - [Save Q&A for Open Spaces](#save-qa-for-open-spaces)
   - [Sharing Slides](#sharing-slides)
   - [Captioning](#captioning)
-  - [Stage Details](#stage-details)
+  <!--- [Stage Details](#stage-details)-->
   - [Recording](#recording)
 - [Social Media](#social-media)
 - [Ignite Speaker Details](#ignite-speaker-details)
 - [Contact Information](#contact-information)
-<!-- - [DevOpsDays Chicago 2022 Schedule](#devopsdays-chicago-2022-schedule)-->
+- [DevOpsDays Chicago 2022 Schedule](#devopsdays-chicago-2023-schedule)
 
 <!-- /TOC -->
 
@@ -47,7 +47,7 @@ Directions [from ORD](https://goo.gl/maps/2rHBu57LMsCLbyacA) or [from MDW](https
 
 The event takes place on Wednesday and Thursday, August 9-10, 2023. The detailed schedule for the two days can be found at <https://devopsdays.org/chicago/program>. There is also a high-level schedule at the end of this document.
 
-As a part of the [Global DevOpsDays Organizer Summit](/organizer-summit), all DevOpsDays Chicago speakers are invited to join for an evening reception/party the evening of Tuesday, August 8. This will take place at [Franklin Tap](https://www.franklintap.com/) at 6:30 PM. You should have received a calendar invite with more details!
+As a part of the [Global DevOpsDays Organizer Summit](/organizer-summit), all DevOpsDays Chicago speakers are invited to join for an evening reception/party the evening of Tuesday, August 8. This will take place at [Franklin Tap](https://www.franklintap.com/) at 6:00 PM. You should have received a calendar invite with more details!
 
 
 ### Check-in
@@ -68,13 +68,27 @@ If you are coming in from out of town and your employer does not cover your trav
 
 ### Flight information
 
-If you haven't been to Chicago before, there are two airports - O'Hare (ORD) and Midway (MDW). We will arrange a car service to pick you up from the airport if you'd like (you'll be on your own to get to the airport, though!). Make sure that <chicago@devopsdays.org> has been notified of your flight number, airline, arrival time, and airport, and we will confirm the car service for you. Both airports are accessible via public transportation if you prefer.
+If you haven't been to Chicago before, there are two airports - O'Hare (ORD) and Midway (MDW). We will arrange a car service to pick you up from the airport if you'd like (you'll be on your own to get to the airport, though!). Make sure that <chicago@devopsdays.org> has been notified of your flight number, airline, arrival time, airport, and drop-off location and we will confirm the car service for you. Both airports are accessible via public transportation if you prefer.
 
 If we're covering your flight, check with the organizers (<chicago@devopsdays.org>) before you book the cheapest possible thing - we should ensure your arrival/departure times work well (ideally, you'd arrive Tuesday before 3 pm and depart Friday morning or Thursday night if necessary) and we'll reimburse direct flights on your preferred airline.
 
 ### Hotel
 
-We are currently working on hotel suggestions and will share any discounts or suggested hotels shortly!
+a city like Chicago, there are a lot of accomodation options! Here is a list of a few hotels based on proximity to the venue.
+
+Loop (closest to the venue)
+
+- Kimpton Gray Hotel
+- Silversmith Hotel Chicago Downtown
+- Hilton Garden Inn Chicago Central Loop
+- Canopy by Hilton Chicago Central Loop
+- W Chicago City Center
+- [Central Loop Hotel](https://www.centralloophotel.com/)
+
+The following hotels are a little further away, but still within reasonable distance of the venue.
+
+- Aloft Chicago Downtown River North
+- Crowne Plaza West Loop
 
 ### Parking
 
@@ -86,7 +100,7 @@ There is no conference template to use; rejoice! (Optional but recommended: addi
 
 **We will have a presentation computer to run your talk from, and we will provide a presentation remote for you to advance your slides.** If you wish to run your talk from your own laptop, let us know no later than August 4 via email to <chicago@devopsdays.org>, and you must check in with A/V at 7:30 AM the day of your talk. *Our preference is to use our computer to prevent any hardware-specific issues*. Ignites will be presented from a common laptop (see the section below for more Ignite talk specifics!)
 
-The presentation computer will have Keynote, Powerpoint, PDF, or a web browser as options for presentation software; if you need something other than this, please let us know at <chicago@devopsdays.org> and we will accommodate you! If you are using the conference laptop to present, please provide your slides (and any supporting fonts/files) to <chicago@devopsdays.org> no later than **Monday, August 7th (by noon Chicago time)**.
+The presentation computer will have Keynote, Powerpoint, PDF, or a web browser as options for presentation software; if you need something other than this, please let us know at <chicago@devopsdays.org> and we will accommodate you! If you are using the conference laptop to present, please provide your slides (and any supporting fonts/files) to <chicago@devopsdays.org> no later than **Friday, August 7th**.
 
 You will have two confidence monitors in your line of sight. One will mirror the display being shown to the audience and the other will show any speaker notes if you have them. For ignites - you will NOT have speaker notes available, so if you need notes, you'll need to put them on cards or printed on paper.
 
@@ -151,22 +165,20 @@ Please send your slides (in PDF format) to <chicago@devopsdays.org> no later tha
 
 If you have general questions about the event, please feel free to email <chicago@devopsdays.org> at any time! The main contact for speaker coordination is Christian Herro - <christian@devopsdayschi.org>.
 
-During the actual event (days of August 9-10) the on-premises contact for speaker questions or issues will be Matty Stratton - <matt@devopsdayschi.org> or (312) 361-7611.
+During the actual event (days of August 9-10) the on-premises contact for speaker questions or issues will be Corey Ward - corey@devopsdayschi.org or (773) 255-8664.
 
-<!--
 ## DevOpsDays Chicago 2023 Schedule
 
 [(detailed program)](https://devopsdays.org/chicago/program)
 
 | Tuesday, Sept 20th  |                                                                                                                                                                                                 |
 |---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 6pm-9pm CDT         | Tentative plans for Speaker Event                                                                                                                                                               |
+| 6pm-9pm CDT         | Speaker/Organizer Party at [Franklin Tap](https://www.franklintap.com/)                                                                                                                                                              |
 | Wednesday Sept 21st |                                                                                                                                                                                                 |
 | 8am CDT             | Conference breakfast and sponsors are available.                                                                                                                                                |
 | 9am-5pm CDT         | Conference Day 1 (lunch served)                                                                                                                                                                 |
-| 5pm-7pm  CDT     | Evening event (tentatively planned)  If you want to go out, we suggest you go out after the event. Attendance at the evening event is, of course, optional, but we would love to see you there! |
+| 5pm-??  CDT         | There are no official activities Wednesday after 5pm CDT. Some sponsors may be hosting happy hour events!                              |
 | Thursday Sept 22nd  |                                                                                                                                                                                                 |
 | 8am  CDT            | Conference breakfast and sponsors are available.                                                                                                                                                |
 | 9am-5pm CDT         | Conference Day 2 (lunch served)                                                                                                                                                                 |
-| 5pm-??  CDT         | There are no official activities Wednesday after 5pm CDT. Some sponsors may be hosting happy hour events, but they are not promoted or endorsed by the conference.                              |
--->
+| 5pm-??  CDT         | There are no official activities Wednesday after 5pm CDT.                               |
