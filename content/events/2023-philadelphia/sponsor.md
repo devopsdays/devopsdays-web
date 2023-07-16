@@ -5,7 +5,7 @@ Description = "Sponsor DevOpsDays Philadelphia 2023"
 +++
 
 We greatly value sponsors for this open event. If you are interested in sponsoring, please drop us an email
-at [{{< email_organizers >}}].
+at {{< email_organizers >}}.
 
 <hr>
 
@@ -120,8 +120,7 @@ attendees as peers. Any attendee also has the opportunity to demo products/proje
         <td scope="col">Day</td>
         <td scope="col">Amount</td>
         <td scope="col">Slots</td>
-        <td scope="col" Description
-        </td>
+        <td scope="col">Description</td>
     </tr>
     </thead>
     <tr>
