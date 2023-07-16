@@ -68,13 +68,27 @@ If you are coming in from out of town and your employer does not cover your trav
 
 ### Flight information
 
-If you haven't been to Chicago before, there are two airports - O'Hare (ORD) and Midway (MDW). We will arrange a car service to pick you up from the airport if you'd like (you'll be on your own to get to the airport, though!). Make sure that <chicago@devopsdays.org> has been notified of your flight number, airline, arrival time, and airport, and we will confirm the car service for you. Both airports are accessible via public transportation if you prefer.
+If you haven't been to Chicago before, there are two airports - O'Hare (ORD) and Midway (MDW). We will arrange a car service to pick you up from the airport if you'd like (you'll be on your own to get to the airport, though!). Make sure that <chicago@devopsdays.org> has been notified of your flight number, airline, arrival time, airport, and drop-off location and we will confirm the car service for you. Both airports are accessible via public transportation if you prefer.
 
 If we're covering your flight, check with the organizers (<chicago@devopsdays.org>) before you book the cheapest possible thing - we should ensure your arrival/departure times work well (ideally, you'd arrive Tuesday before 3 pm and depart Friday morning or Thursday night if necessary) and we'll reimburse direct flights on your preferred airline.
 
 ### Hotel
 
-We are currently working on hotel suggestions and will share any discounts or suggested hotels shortly!
+a city like Chicago, there are a lot of accomodation options! Here is a list of a few hotels based on proximity to the venue.
+
+Loop (closest to the venue)
+
+- Kimpton Gray Hotel
+- Silversmith Hotel Chicago Downtown
+- Hilton Garden Inn Chicago Central Loop
+- Canopy by Hilton Chicago Central Loop
+- W Chicago City Center
+- [Central Loop Hotel](https://www.centralloophotel.com/)
+
+The following hotels are a little further away, but still within reasonable distance of the venue.
+
+- Aloft Chicago Downtown River North
+- Crowne Plaza West Loop
 
 ### Parking
 
@@ -86,7 +100,7 @@ There is no conference template to use; rejoice! (Optional but recommended: addi
 
 **We will have a presentation computer to run your talk from, and we will provide a presentation remote for you to advance your slides.** If you wish to run your talk from your own laptop, let us know no later than August 4 via email to <chicago@devopsdays.org>, and you must check in with A/V at 7:30 AM the day of your talk. *Our preference is to use our computer to prevent any hardware-specific issues*. Ignites will be presented from a common laptop (see the section below for more Ignite talk specifics!)
 
-The presentation computer will have Keynote, Powerpoint, PDF, or a web browser as options for presentation software; if you need something other than this, please let us know at <chicago@devopsdays.org> and we will accommodate you! If you are using the conference laptop to present, please provide your slides (and any supporting fonts/files) to <chicago@devopsdays.org> no later than **Monday, August 7th (by noon Chicago time)**.
+The presentation computer will have Keynote, Powerpoint, PDF, or a web browser as options for presentation software; if you need something other than this, please let us know at <chicago@devopsdays.org> and we will accommodate you! If you are using the conference laptop to present, please provide your slides (and any supporting fonts/files) to <chicago@devopsdays.org> no later than **Friday, August 7th**.
 
 You will have two confidence monitors in your line of sight. One will mirror the display being shown to the audience and the other will show any speaker notes if you have them. For ignites - you will NOT have speaker notes available, so if you need notes, you'll need to put them on cards or printed on paper.
 
@@ -151,7 +165,7 @@ Please send your slides (in PDF format) to <chicago@devopsdays.org> no later tha
 
 If you have general questions about the event, please feel free to email <chicago@devopsdays.org> at any time! The main contact for speaker coordination is Christian Herro - <christian@devopsdayschi.org>.
 
-During the actual event (days of August 9-10) the on-premises contact for speaker questions or issues will be Matty Stratton - <matt@devopsdayschi.org> or (312) 361-7611.
+During the actual event (days of August 9-10) the on-premises contact for speaker questions or issues will be Corey Ward - corey@devopsdayschi.org or (773) 255-8664.
 
 <!--
 ## DevOpsDays Chicago 2023 Schedule
