@@ -22,12 +22,12 @@ description = "Speaker information for DevOpsDays Chicago 2023"
   - [Save Q&A for Open Spaces](#save-qa-for-open-spaces)
   - [Sharing Slides](#sharing-slides)
   - [Captioning](#captioning)
-  - [Stage Details](#stage-details)
+  <!--- [Stage Details](#stage-details)-->
   - [Recording](#recording)
 - [Social Media](#social-media)
 - [Ignite Speaker Details](#ignite-speaker-details)
 - [Contact Information](#contact-information)
-<!-- - [DevOpsDays Chicago 2022 Schedule](#devopsdays-chicago-2022-schedule)-->
+- [DevOpsDays Chicago 2022 Schedule](#devopsdays-chicago-2023-schedule)
 
 <!-- /TOC -->
 
@@ -47,7 +47,7 @@ Directions [from ORD](https://goo.gl/maps/2rHBu57LMsCLbyacA) or [from MDW](https
 
 The event takes place on Wednesday and Thursday, August 9-10, 2023. The detailed schedule for the two days can be found at <https://devopsdays.org/chicago/program>. There is also a high-level schedule at the end of this document.
 
-As a part of the [Global DevOpsDays Organizer Summit](/organizer-summit), all DevOpsDays Chicago speakers are invited to join for an evening reception/party the evening of Tuesday, August 8. This will take place at [Franklin Tap](https://www.franklintap.com/) at 6:30 PM. You should have received a calendar invite with more details!
+As a part of the [Global DevOpsDays Organizer Summit](/organizer-summit), all DevOpsDays Chicago speakers are invited to join for an evening reception/party the evening of Tuesday, August 8. This will take place at [Franklin Tap](https://www.franklintap.com/) at 6:00 PM. You should have received a calendar invite with more details!
 
 
 ### Check-in
@@ -167,20 +167,18 @@ If you have general questions about the event, please feel free to email <chicag
 
 During the actual event (days of August 9-10) the on-premises contact for speaker questions or issues will be Corey Ward - corey@devopsdayschi.org or (773) 255-8664.
 
-<!--
 ## DevOpsDays Chicago 2023 Schedule
 
 [(detailed program)](https://devopsdays.org/chicago/program)
 
 | Tuesday, Sept 20th  |                                                                                                                                                                                                 |
 |---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 6pm-9pm CDT         | Tentative plans for Speaker Event                                                                                                                                                               |
+| 6pm-9pm CDT         | Speaker/Organizer Party at [Franklin Tap](https://www.franklintap.com/)                                                                                                                                                              |
 | Wednesday Sept 21st |                                                                                                                                                                                                 |
 | 8am CDT             | Conference breakfast and sponsors are available.                                                                                                                                                |
 | 9am-5pm CDT         | Conference Day 1 (lunch served)                                                                                                                                                                 |
-| 5pm-7pm  CDT     | Evening event (tentatively planned)  If you want to go out, we suggest you go out after the event. Attendance at the evening event is, of course, optional, but we would love to see you there! |
+| 5pm-??  CDT         | There are no official activities Wednesday after 5pm CDT. Some sponsors may be hosting happy hour events!                              |
 | Thursday Sept 22nd  |                                                                                                                                                                                                 |
 | 8am  CDT            | Conference breakfast and sponsors are available.                                                                                                                                                |
 | 9am-5pm CDT         | Conference Day 2 (lunch served)                                                                                                                                                                 |
-| 5pm-??  CDT         | There are no official activities Wednesday after 5pm CDT. Some sponsors may be hosting happy hour events, but they are not promoted or endorsed by the conference.                              |
--->
+| 5pm-??  CDT         | There are no official activities Wednesday after 5pm CDT.                               |
