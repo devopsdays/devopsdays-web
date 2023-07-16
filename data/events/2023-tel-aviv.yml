@@ -248,11 +248,19 @@ sponsors:
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: velocitytech
     level: community
+  - id: hetz
+    level: community
+  - id: aerospike
+    level: community
+  - id: tlvpartners
+    level: community
   - id: statscraft
     level: community
   - id: opsschool
     level: community
   - id: barvazgumi
+    level: community
+  - id: devinterrupted
     level: community
   - id: cloudnativeil
     level: community
@@ -276,4 +284,4 @@ sponsor_levels:
 #  - id: bronze
 #    label: Bronze
   - id: community
-    label: Community
+    label: Community | Happy Hour | Swag | Food
