@@ -171,14 +171,17 @@ During the actual event (days of August 9-10) the on-premises contact for speake
 
 [(detailed program)](https://devopsdays.org/chicago/program)
 
-| Tuesday, August 8th  |                                                                                                                                                                                                 |
-|---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 6pm-9pm CDT         | Speaker/Organizer Party at [Franklin Tap](https://www.franklintap.com/)                                                                                                                                                              |
-| Wednesday August 9th |                                                                                                                                                                                                 |
-| 8am CDT             | Conference breakfast and sponsors are available.                                                                                                                                                |
-| 9am-5pm CDT         | Conference Day 1 (lunch served)                                                                                                                                                                 |
-| 5pm-??  CDT         | There are no official activities Wednesday after 5pm CDT. Some sponsors may be hosting happy hour events!                              |
-| Thursday August 10th  |                                                                                                                                                                                                 |
-| 8am  CDT            | Conference breakfast and sponsors are available.                                                                                                                                                |
-| 9am-5pm CDT         | Conference Day 2 (lunch served)                                                                                                                                                                 |
-| 5pm-??  CDT         | There are no official activities Wednesday after 5pm CDT.                               |
+| **Tuesday, August 8th**  |                                                                                                           |
+|--------------------------|-----------------------------------------------------------------------------------------------------------|
+|                          |                                                                                                           |
+| 6pm-9pm CDT              | Speaker/Organizer Party at [Franklin Tap](https://www.franklintap.com/)                                   |
+|                          |                                                                                                           |
+| **Wednesday August 9th** |                                                                                                           |
+| 8am CDT                  | Conference breakfast and sponsors are available.                                                          |
+| 9am-5pm CDT              | Conference Day 1 (lunch served)                                                                           |
+| 5pm-??  CDT              | There are no official activities Wednesday after 5pm CDT. Some sponsors may be hosting happy hour events! |
+|                          |                                                                                                           |
+| **Thursday August 10th** |                                                                                                           |
+| 8am  CDT                 | Conference breakfast and sponsors are available.                                                          |
+| 9am-5pm CDT              | Conference Day 2 (lunch served)                                                                           |
+| 5pm-??  CDT              | There are no official activities Wednesday after 5pm CDT.                                                 |
