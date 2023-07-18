@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Flying Blind - Accessibility in Monitoring"
 Type = "talk"
 Speakers = ["feu-mourek"]
+Youtube = "aj6g0h3yPXc"
 +++
 Do you know what it feels like to navigate as someone who can’t distinguish between green and red - looking at those badges that tell you whether something is broken or a-okay? I’ll give you a quick look into what it feels like with some examples from the monitoring tool Icinga Web 2.
 
