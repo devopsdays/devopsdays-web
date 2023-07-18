@@ -14,9 +14,9 @@ startdate:  2023-10-18T00:00:00+04:00 # The start date of your event. Leave blan
 enddate:  2023-10-19T00:00:00+04:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2023-07-07T00:00:00+04:00 # start accepting talk proposals.
+cfp_date_end: 2023-08-15T00:00:00+04:00   # close your call for proposals.
+cfp_date_announce: 2023-09-01T00:00:00+04:00 # inform proposers of status
 
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
@@ -37,8 +37,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: sponsor
   - name: contact
   - name: conduct
- # - name: propose
- # - name: location
+  - name: propose
+  - name: location
  # - name: program
  # - name: speakers
 # - name: example
