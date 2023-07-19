@@ -177,7 +177,7 @@ We will be using the provided logos as shown on the conference website. If you w
 | Jackson-17   | Britive                 |
 | Jackson-18   | Observe                 |
 | Jackson-19   | Tailscale               |
-| Jackson-20   | Community Booth         |
+| Jackson-20   | Blacks in Technology    |
 | Jackson-21   | Relativity              |
 | Jackson-22   | Spot by NetApp          |
 | Jackson-23   | Roost.ai                |
@@ -197,7 +197,7 @@ We will be using the provided logos as shown on the conference website. If you w
 | Britive                 | Jackson-17   |
 | CircleCI                | Franklin-16  |
 | Cloudbees               | Jackson-27   |
-| Community Booth         | Jackson-20   |
+| Blacks in Technology    | Jackson-20   |
 | Dell                    | Franklin-12  |
 | Discover                | Franklin-15  |
 | GitLab                  | Jackson-24   |
