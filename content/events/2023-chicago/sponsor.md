@@ -30,7 +30,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
     <tr>
       <td>Price</td>
       <td><strike>$15,000</strike></td>
-      <td>$9,000</td>
+      <td><strike>$9,000</strike></td>
       <td>$2,000</td>
       <td>Free</td>
     </tr>
@@ -46,8 +46,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
     <tr>
       <td></td>
       <td>SOLD OUT</td>
-      <td>
-      <a href="mailto:chicago-sponsors@devopsdays.org?subject=Interested%20in%20Gold%20Sponsorship%20DevOpsDays%20Chicago%202023">Contact us</a>
+      <td>SOLD OUT
       <!-- Gold Paypal button  -->
         <!-- <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
           <input type="hidden" name="cmd" value="_s-xclick">
