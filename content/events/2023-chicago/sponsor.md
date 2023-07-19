@@ -110,13 +110,6 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <td></td>
     </tr>
     <tr>
-      <td>Logo on banner at registration area</td>
-      <td><img src = "/events/2023-chicago/yak-head.png"></td>
-      <td><img src = "/events/2023-chicago/yak-head.png"></td>
-      <td><img src = "/events/2023-chicago/yak-head.png"></td>
-      <td><img src = "/events/2023-chicago/yak-head.png"></td>
-    </tr>
-    <tr>
       <td>Shout-out from MC's at kickoff and again at breaks</td>
       <td><img src = "/events/2023-chicago/yak-head.png"></td>
       <td><img src = "/events/2023-chicago/yak-head.png"></td>
@@ -178,15 +171,6 @@ All special sponsors will have their logo displayed on the DevOpsDays Chicago we
     </tr>
   </thead>
   <tbody>
-    <!—-
-    <tr>
-      <td>Lanyard</td>
-      <td>$7,000</td>
-      <td>Your logo and colors around every attendee's credential</td>
-      <td>2</td>
-      <td>1</td>
-    </tr>
-    —->
     <tr>
       <td>Live Transcription</td>
       <td>$3,000</td>
