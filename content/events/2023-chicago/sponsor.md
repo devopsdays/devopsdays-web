@@ -178,6 +178,7 @@ All special sponsors will have their logo displayed on the DevOpsDays Chicago we
     </tr>
   </thead>
   <tbody>
+    <!—-
     <tr>
       <td>Lanyard</td>
       <td>$7,000</td>
@@ -185,6 +186,7 @@ All special sponsors will have their logo displayed on the DevOpsDays Chicago we
       <td>2</td>
       <td>1</td>
     </tr>
+    —->
     <tr>
       <td>Live Transcription</td>
       <td>$3,000</td>
