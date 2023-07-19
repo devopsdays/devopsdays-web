@@ -5,18 +5,18 @@ event_twitter: "devopsdaystokyo" # Change this to the twitter handle for your ev
 description: "Devopsdays is coming to Tokyo!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
-# All dates are in unquoted 2023-MM-DDTHH:MM:SS+TZ:TZ, like this:
+# All dates are in unquoted 2024-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00
 #   variable: 2019-01-05T23:59:59+02:00
-# Note: we allow 2023-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+# Note: we allow 2024-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
 startdate: 2024-04-16T00:00:00+09:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
 enddate: 2024-04-17T23:59:59+09:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2023-01-01T00:00:00+09:00  # start accepting talk proposals.
-cfp_date_end: 2023-02-28T15:00:00+09:00  # close your call for proposals.
-cfp_date_announce: 2023-03-15T00:00:00+09:00 # inform proposers of status
+cfp_date_start: 2024-01-01T00:00:00+09:00  # start accepting talk proposals.
+cfp_date_end: 2024-02-28T15:00:00+09:00  # close your call for proposals.
+cfp_date_announce: 2024-03-15T00:00:00+09:00 # inform proposers of status
 
 cfp_link: "https://www.devopsdaystokyo.org/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
