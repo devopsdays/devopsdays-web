@@ -1,7 +1,7 @@
 +++
 Title = "Location"
 Type = "event"
-Description = "Location for devopsdays Tokyo 2023"
+Description = "Location for devopsdays Tokyo 2024"
 +++
 
 [大崎ブライトコアホール (Osaki Bright Core Hall)](http://osaki-hall.jp/)  

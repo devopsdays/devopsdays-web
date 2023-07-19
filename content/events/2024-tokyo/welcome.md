@@ -1,8 +1,8 @@
 +++
-Title = "devopsdays Tokyo 2023"
+Title = "devopsdays Tokyo 2024"
 Type = "welcome"
-aliases = ["/events/2023-tokyo/"]
-Description = "devopsdays Tokyo 2023"
+aliases = ["/events/2024-tokyo/"]
+Description = "devopsdays Tokyo 2024"
 +++
 
 <!-- <div style="text-align:center;">
@@ -32,7 +32,7 @@ Description = "devopsdays Tokyo 2023"
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    <!-- <a href="https://www.eventbrite.com/e/devopsdays-tokyo-2023-tickets-207757417027">Register to attend the conference!</a> -->
+    <!-- <a href="https://www.eventbrite.com/e/devopsdays-tokyo-2024-tickets-207757417027">Register to attend the conference!</a> -->
     Coming soon, please visit <a href="https://www.devopsdaystokyo.org">devopsdaystokyo.org</a> for ticket sale dates/infos.
   </div>
 </div>
@@ -42,7 +42,7 @@ Description = "devopsdays Tokyo 2023"
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    <!-- <a href="https://confengine.com/devopsdays-tokyo-2023/proposal/new">Propose a talk!</a> -->
+    <!-- <a href="https://confengine.com/devopsdays-tokyo-2024/proposal/new">Propose a talk!</a> -->
     Coming soon, please visit <a href="https://www.devopsdaystokyo.org">devopsdaystokyo.org</a> for CFP dates/infos.
   </div>
 </div>
