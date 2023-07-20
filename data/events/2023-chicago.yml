@@ -453,6 +453,11 @@ program:
     date: 2023-08-10
     start_time: "14:15"
     end_time: "15:00"
+  - title: "eddie-knight"
+    type: workshop
+    date: 2023-08-10
+    start_time: "14:15"
+    end_time: "16:00"
   - title: "Break"
     type: custom
     date: 2023-08-10
@@ -460,11 +465,6 @@ program:
     end_time: "15:15"
   - title: "Open Space #2"
     type: open-space
-    date: 2023-08-10
-    start_time: "15:15"
-    end_time: "16:00"
-  - title: "eddie-knight"
-    type: workshop
     date: 2023-08-10
     start_time: "15:15"
     end_time: "16:00"
