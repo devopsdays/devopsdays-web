@@ -23,10 +23,10 @@ The best thing to do is send engineers to interact with the experts at devopsday
       <hr />
        <br/>
      <h3 style="text-transform: uppercase; color: #c0d44f;">Platinum Sponsor $15,000 (USD)<!-- <span style="text-transform: uppercase; font-weight: 800; color: red; background-color: yellow;">SOLD OUT</span> -->
-    <br/> <strike>Up to 6</strike>   4 Available<!-- - <span style="text-transform: uppercase; color: red; background-color: yellow;">SOLD OUT</span> --></h3>      
+    <br/> <strike>Up to 6</strike>   2 Available<!-- - <span style="text-transform: uppercase; color: red; background-color: yellow;">SOLD OUT</span> --></h3>      
       <hr />
     <h3 style="text-transform: uppercase; color: orange;">Gold Sponsor $9,000 (USD) 
-    <br/><strike> ~32 </strike> 16 Available <!-- <span style="font-weight: 800; text-transform: uppercase; color: red; background-color: yellow;">SOLD OUT</span> --></h3>
+    <br/><strike> ~32 </strike> <span style="font-weight: 800; text-transform: uppercase; color: red; background-color: yellow;">SOLD OUT</span></h3>
     <hr />
     <h3 style="text-transform: uppercase; color: #d95374;">Community Sponsor - By Application Only (Please make a note in the form - and someone from the team will get in touch with you to review your application)
     <br/> 4 Available <!-- <span style="font-weight: 800; text-transform: uppercase; color: red; background-color: yellow;">SOLD OUT</span> --></h3>
