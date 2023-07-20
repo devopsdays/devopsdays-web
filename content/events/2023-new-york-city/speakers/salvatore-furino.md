@@ -1,9 +1,9 @@
 +++
-Title = "Salvatore Furino"
+Title = "Sal Furino"
 Twitter = ""
-image = ""
+image = "sal-furino.jpg"
 type = "speaker"
-linktitle = ""
+linktitle = "sal-furino"
 
 +++
 

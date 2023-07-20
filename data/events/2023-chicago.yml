@@ -44,6 +44,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: sponsor
   - name: contact
   - name: conduct
+#  - name: volunteer
   - name: Health and Safety Policy
     url: /events/2023-chicago/covid
   - name: Guide to Chicago
@@ -181,21 +182,43 @@ sponsors:
     level: gold
   - id: appdynamics
     level: gold
+  - id: britive
+    level: gold
   - id: circleci
     level: gold
+  - id: cloudbees
+    level: gold
   - id: dell-technologies
+    level: gold
+  - id: gitlab
+    level: gold
+  - id: googlecloud
     level: gold
   - id: launch-darkly
     level: gold
   - id: kosli
     level: gold
+  - id: mezmo
+    level: gold
   - id: nobl9
+    level: gold
+  - id: observeinc
     level: gold
   - id: postman
     level: gold
+  - id: puppet-by-perforce
+    level: gold
+  - id: relativity
+    level: gold
+  - id: roostai
+    level: gold
   - id: sleuth
     level: gold
+  - id: spot-by-netapp
+    level: gold
   - id: sumologic
+    level: gold
+  - id: tailscale
     level: gold
   - id: temporal
     level: gold
@@ -211,6 +234,10 @@ sponsors:
     level: bronze
   - id: redhat
     level: bronze
+  - id: clickhouse
+    level: bronze
+  - id: webriot
+    level: bronze
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
@@ -222,6 +249,12 @@ sponsors:
     level: community
   - id: microsoft-teals
     level: community
+  - id: bit-chicago
+    level: community
+  - id: nixos
+    level: community
+  - id: sym
+    level: transcription
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -240,6 +273,9 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+  - id: transcription
+    label: "Live Transcription"
+    max: 1
 
 program:
   - title: "Registration, Breakfast, Sponsors"
@@ -247,7 +283,7 @@ program:
     date: 2023-08-09
     start_time: "08:00"
     end_time: "09:00"
-#   - title: "Opening Welcome"
+  - title: "Opening Welcome"
     type: custom
     date: 2023-08-09
     start_time: "09:00"
@@ -334,11 +370,6 @@ program:
     end_time: "16:00"
   - title: "Open Space #3"
     type: open-space
-    date: 2023-08-09
-    start_time: "16:00"
-    end_time: "16:45"
-  - title: "sean-carolan"
-    type: workshop
     date: 2023-08-09
     start_time: "16:00"
     end_time: "16:45"
@@ -432,7 +463,7 @@ program:
     date: 2023-08-10
     start_time: "15:15"
     end_time: "16:00"
-  - title: "theresa-mammarella"
+  - title: "eddie-knight"
     type: workshop
     date: 2023-08-10
     start_time: "15:15"
@@ -456,8 +487,6 @@ ignites:
   - title: "hannah-foxwell"
     date: 2023-08-09
   - title: "jacquie-grindrod"
-    date: 2023-08-09
-  - title: "tim-banks"
     date: 2023-08-09
   - title: "pooja-mistry"
     date: 2023-08-09

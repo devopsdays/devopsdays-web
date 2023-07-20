@@ -1,9 +1,9 @@
 +++
-Title = "Victor Farcic"
+Title = "Viktor Farcic"
 Twitter = "vfarcic"
 Image = "viktor-farcic.jpg"
 type = "speaker"
-linktitle = "Victor Farcic"
+linktitle = "Viktor Farcic"
 
 +++
 

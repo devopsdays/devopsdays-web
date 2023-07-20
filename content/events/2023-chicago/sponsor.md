@@ -30,7 +30,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
     <tr>
       <td>Price</td>
       <td><strike>$15,000</strike></td>
-      <td>$9,000</td>
+      <td><strike>$9,000</strike></td>
       <td>$2,000</td>
       <td>Free</td>
     </tr>
@@ -46,14 +46,14 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
     <tr>
       <td></td>
       <td>SOLD OUT</td>
-      <td>
+      <td>SOLD OUT
       <!-- Gold Paypal button  -->
-        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+        <!-- <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
           <input type="hidden" name="cmd" value="_s-xclick">
           <input type="hidden" name="hosted_button_id" value="S9SCLZP3USU7L">
           <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
           <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-        </form>
+        </form> -->
       </td>
       <td>
         <!-- bronze Paypal button  -->
@@ -108,13 +108,6 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <td><img src = "/events/2023-chicago/yak-head.png"></td>
       <td><img src = "/events/2023-chicago/yak-head.png"></td>
       <td></td>
-    </tr>
-    <tr>
-      <td>Logo on banner at registration area</td>
-      <td><img src = "/events/2023-chicago/yak-head.png"></td>
-      <td><img src = "/events/2023-chicago/yak-head.png"></td>
-      <td><img src = "/events/2023-chicago/yak-head.png"></td>
-      <td><img src = "/events/2023-chicago/yak-head.png"></td>
     </tr>
     <tr>
       <td>Shout-out from MC's at kickoff and again at breaks</td>
@@ -179,25 +172,11 @@ All special sponsors will have their logo displayed on the DevOpsDays Chicago we
   </thead>
   <tbody>
     <tr>
-      <td>Evening Event</td>
-      <td>$15,000</td>
-      <td>Gold sponsorship included, plus dedicated space during the evening event and a 3-minute pitch speech before the evening event.</td>
-      <td>4</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>Lanyard</td>
-      <td>$7,000</td>
-      <td>Your logo and colors around every attendee's credential</td>
-      <td>2</td>
-      <td>1</td>
-    </tr>
-    <tr>
       <td>Live Transcription</td>
       <td>$3,000</td>
       <td>Your logo by the screen where talks are transcribed</td>
       <td>2</td>
-      <td>1</td>
+      <td>SOLD OUT</td>
     </tr>
     <tr>
       <td>Scholarships</td>

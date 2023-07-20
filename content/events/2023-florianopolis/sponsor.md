@@ -3,64 +3,80 @@ Title = "Sponsor"
 Type = "event"
 Description = "Sponsor devopsdays Florianópolis 2023"
 +++
-
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
+O devopsdays é uma conferência auto organizada que depende de patrocinadores. Nós valorizamos muito os patrocinadores deste evento, caso esteja interessado em alguma cota ou outra forma de patrocínio, nos envie um email: {{< email_organizers >}}.
+Provavelmente a melhor coisa a se fazer é enviar seus especialistas técnicos para interagir com os participantes do evento.
 
 <hr>
-
-devopsdays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
+<div>
+<h2>[PT-BR] Proposta de Apoio</h2>
 <p>
-Gold sponsors get a full table and Silver sponsors a shared table where they can interact with those interested to come visit during breaks. All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
+Os nossos parceiros são encorajados a assumirem uma postura de participação ativa, se engajarem com os participantes e a sugerirem temas para os open spaces, sessões auto-organizadas abertas para discussões revelantes. <strong>Queremos que nossos parceiros se envolvam no evento!</strong>
+</p>
 <p>
-The best thing to do is send engineers to interact with the experts at devopsdays on their own terms.
+Entendemos que uma maior quantidade de parceirias é benéfica para o evento, proporcionando uma ótima oportunidade para "mergulhar" mais fundo no mundo DevOps, assim como fazer networking e afins, por conta disso optamos por trabalhar com cotas com valores mais acessíveis para esse evento.
+</p>
 <p>
-
-<!--
-<hr/>
-
-<div style="width:590px">
-<table border=1 cellspacing=1>
-  <tr>
-    <th><i>packages</i></th>
-    <th><center><b><u>Bronze<br />1000 usd</u></center></b></th>
-    <th><center><b><u>Silver<br />3000 usd</u></center></b></th>
-    <th><center><b><u>Gold<br />5000 usd</u></center></b></th>
-    <th></th>
-  </tr>
-<tr><td>2 included tickets</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on event website</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on shared slide, rotating during breaks</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on all email communication</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on its own slide, rotating during breaks</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>1 minute pitch to full audience (including streaming audience)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr></tr>
-<tr><td>2 additional tickets (4 in total)</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td>4 additional tickets (6 in total)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>shared table for swag</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td>booth/table space</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-</table>
-<hr/>
-There are also opportunities for exclusive special sponsorships. We'll have sponsors for various events with special privileges for the sponsors of these events. If you are interested in special sponsorships or have a creative idea about how you can support the event, send us an email.
-<br/>
-<br/>
-
-<br>
-<br>
-<table border=1 cellspacing=1>
-  <tr>
-    <th><i>Sponsor FAQ</i></th>
-    <th><center><b>Answers to questions frequently asked by sponsors&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</center></b></th>
-    <th></th>
-  </tr>
-<tr><td>What dates/times can we set up and tear down?</td><td></td></tr>
-<tr><td>How do we ship to the venue?</td><td></td></tr>
-<tr><td>How do we ship from the venue?</td><td></td></tr>
-<tr><td>Whom should we send?</td><td></td></tr>
-<tr><td>What should we expect regarding electricity? (how much, any fees, etc)</td><td></td></tr>
-<tr><td>What should we expect regarding WiFi? (how much, any fees, etc)</td><td></td></tr>
-<tr><td>How do we order additional A/V equipment?</td><td></td></tr>
-<tr><td>Additional important details</td><td></td></tr>
-</table>
+Visando valorizar a participação de instituições na realização do evento, foram organizados grupos de parcerias. Cada grupo proporciona uma série de vantagens aos parceiros oficiais, com os requisitos definidos e a contrapartida correspondente, conforme demonstado na tabela abaixo.
+</p>
 </div>
+<br>
 
--->
-<hr/>
+<div class="table-responsive text-center">
+
+  <table class="table table-bordered table-hover table-responsive-md">
+    <thead class="thead-light">
+      <th>BENEFÍCIOS</th>
+        <th>PRATA</th>
+        <th>OURO</th>
+        <th>PLATINA</th>
+    </thead>
+    <tr>
+      <td>Veiculação marca materiais evento/mídias</td>
+      <td><i class="fa fa-check"></td>
+      <td><i class="fa fa-check"></td>
+      <td><i class="fa fa-check"></td>
+    </tr>
+    <tr>
+      <td>Máximo de patrocinadores</td>
+      <td>4</td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>Estande/mesa</td>
+      <td></td>
+      <td></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Distribuição de brindes nas pastas dos participantes</td>
+      <td></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Espaço em boas vindas do evento (palco)</td>
+      <td></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Envio de e-mail e/ou ativação em redes sociais</td>
+      <td></td>
+      <td>1</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>Inscrições para o evento*</td>
+      <td>2</td>
+      <td>3</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td><b>Contribuição</b></td>
+      <td><b>R$ 2.500,00</b></td>
+      <td><b>R$ 4.000,00</b></td>
+      <td><b>R$ 8.000,00</b></td>
+    </tr>
+  </table>
+</div>

@@ -10,21 +10,21 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2023-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: # 2023-05-16T00:00:00+02:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: # 2023-05-17T23:59:59+02:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2023-09-18T00:00:00+02:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2023-09-19T23:59:59+02:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  2023-03-14T00:00:00+02:00 # start accepting talk proposals.
-cfp_date_end: # 2023-04-03T00:00:00+02:00 # close your call for proposals.
+cfp_date_start: 2023-03-14T00:00:00+02:00 # start accepting talk proposals.
+cfp_date_end: 2023-07-10T16:54:00+00:00 # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
 
 cfp_link: "https://www.papercall.io/devopsdaysatl2023" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: 2023-03-14T00:00:00+02:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2023-09-18T00:00:00+02:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://devopsdaysatl2023.eventbrite.com/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -36,7 +36,7 @@ location_address: "875 W Peachtree St NW, Atlanta, GA 30309" #Optional - use the
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
  # - name: location
- # - name: registration
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -79,8 +79,8 @@ organizer_email: "atlanta@devopsdays.org" # Put your organizer email address her
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: samplesponsorname
-    level: gold
+ # - id: samplesponsorname
+ #   level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
@@ -92,9 +92,12 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: platinum
+    label: Platinum
+    max: 1
   - id: gold
     label: Gold
-#    max: 10
+    max: 10
   - id: silver
     label: Silver
     max: 0 # This is the same as omitting the max limit.

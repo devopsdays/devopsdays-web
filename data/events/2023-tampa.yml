@@ -18,14 +18,14 @@ cfp_date_end: "2023-07-01" # close your call for proposals.
 cfp_date_announce: "" # inform proposers of status
 
 cfp_open: "false"
-#cfp_link: "https://www.papercall.io/dodtampabay" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
-cfp_link: ""
+cfp_link: "https://sessionize.com/devopsdays-tampa-bay-2023/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+#cfp_link: ""
 
-registration_date_start: ""# start accepting registration. Leave blank if registration is not open yet
-registration_date_end: ""# close registration. Leave blank if registration is not open yet.
+registration_date_start: "2023-06-01"# start accepting registration. Leave blank if registration is not open yet
+registration_date_end: "2023-09-21"# close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-#registration_link: "https://www.eventbrite.com/e/devopsdays-tampa-bay-2022-tickets-403152729667?aff=devopsdayswebsite" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.eventbrite.com/e/devopsdays-tampa-bay-2023-tickets-635898929817" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -36,12 +36,11 @@ location_address: "1910 N Ola Ave, Tampa, FL 33602" #Optional - use the street a
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
-    url: https://sessionize.com/devopsdays-tampa-bay-2023/
-    icon: "book"
+
   - name: location
     icon: "map-o"
     url: /events/2023-tampa/location
-#  - name: registration
+  - name: registration
 #  - name: program
 #  - name: speakers
   - name: sponsor
@@ -99,6 +98,28 @@ sponsors:
     level: community
   - id: tampadevs
     level: community
+  - id: xebiaxpirit
+    level: platinum
+  - id: sonobi
+    level: gold
+  - id: tampaawsug
+    level: community
+  - id: hightechconnect
+    level: community
+  - id: womeninlinux
+    level: community
+  - id: tampabayai
+    level: community
+  - id: tampabayapple
+    level: community
+  - id: tampaccc
+    level: community
+  - id: tampagai
+    level: community
+  - id: tampajug
+    level: community
+  - id: tampabaytech
+    level: community
     
 #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 # - id: arresteddevops
@@ -116,7 +137,7 @@ sponsor_levels:
     max: 2
   - id: platinum
     label: Platinum
-    max: 10 # This is the same as omitting the max limit.
+    max: 9 # This is the same as omitting the max limit.
   - id: gold
     label: Gold
   - id: community

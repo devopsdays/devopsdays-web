@@ -18,10 +18,14 @@ Description = "devopsdays Tel Aviv 2023"
 
 
 <div style="text-align:center; width:700;">
+  <p style="text-align:center"><img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/DevOpsDays%20Horror%20Logo.png?raw=true" width="70%"></p>
              <h1><span style="text-transform: uppercase; text-align: center;">JOIN US FOR A</span> <span style="text-transform: uppercase; color: orange; text-align: center; font family: creepster">SPOOKY </span>DEVOPSDAYS TLV </h1>
-             <h3> We're coming back October 30-31, 2023 and what better way to celebrate Halloween than with the best of your worst DevOps horror shows?!  <br/>Join us and share your stories - <a href="https://sessionize.com/devopsdays-tel-aviv-2023/" target="_blank">CFP is open</a> from: <strong style="color: orange;">March 30-May 31, 2023</strong></h3>
-      <p style="text-align:center"><img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/DevOpsDays%20Horror%20Logo.png?raw=true" width="70%"></p>
+             <h4> We're coming back October 29-30, 2023 and what better way to celebrate Halloween than with the best of your worst DevOps horror shows?! </h4>        
+            <p>It has come to our attention that October 31st is a BANK HOLIDAY (municipal elections), and we didn't want our community to have to choose between DevOps and Democracy––so we have moved the event up a day to October 29th.</p><h3>EARLY BIRD TICKET ARE NOW ON SALE UNTIL AUGUST 15TH 👉🏽 <a href="https://tlvcommunity.dev/devopsdays#register" target="_blank">REGISTER HERE!</a></h3>
 </div> 
+
+<hr/>
+
 <div class="box" style="width: 100%; text-align: center;">
 
    <span style="text-align: center;">

@@ -178,7 +178,7 @@ sponsors:
     level: social
   - id: redis-labs
     level: silver
-  - id: twosigma
+  - id: twosigma-before-20230603
     level: captioning
   - id: lightstep
     level: silver

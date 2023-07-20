@@ -14,12 +14,12 @@ event_group: "Birmingham, UK"
 # Note: we allow 2023-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
 startdate: 2023-06-15T09:00:00+00:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  2023-06-16T09:00:00+00:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2023-06-16T09:00:00+00:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  2022-11-01T09:00:00+00:00 # start accepting talk proposals.
-cfp_date_end:  2023-03-30T09:00:00+00:00 # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2022-11-01T09:00:00+00:00 # start accepting talk proposals.
+cfp_date_end: 2023-03-30T09:00:00+00:00 # close your call for proposals.
+cfp_date_announce: # inform proposers of status
 
 cfp_link: "https://sessionize.com/devopsdays-birmingham-uk-2023/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
@@ -37,10 +37,10 @@ location: "Millennium Point" # Defaults to city, but you can make it the venue n
 location_address: "Millennium Point, Curzon Street, Birmingham" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
- # - name: location
+  # - name: propose
+  # - name: location
   - name: registration
- # - name: program
+  - name: program
   - name: speakers
   - name: sponsor
   - name: contact
@@ -48,7 +48,6 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
-
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
@@ -71,7 +70,7 @@ team_members: # Name is the only required field for team members.
   - name: "Dan Webb"
     twitter: "dan_webb"
     github: "damacus"
-    employer: "Independent Consultant"  
+    employer: "Independent Consultant"
     image: "dan-webb.jpg"
   - name: "Maria Aveiro"
     employer: "ManyPets"
@@ -101,14 +100,33 @@ sponsors:
     level: bronze
   - id: spinks
     level: talent-solutions
-
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+  - id: bjss
+    level: silver
+  - id: akeyless
+    level: gold
+  - id: elastic
+    level: silver
+  - id: jump24
+    level: silver
+  - id: many-pets
+    level: bronze
+  - id: aqua_sec
+    level: silver
+  - id: newrelic
+    level: silver
+  - id: school_of_code
+    level: community
+  - id: bluetel
+    level: platinum
+sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: platinum
+    label: Platinum
   - id: gold
     label: Gold
   - id: silver
@@ -125,3 +143,315 @@ sponsor_levels:
   - id: talent-solutions
     label: Talent Solutions
     max: 1
+
+program:
+  - title: "Pre-conference Social @ Tilt Birmingham"
+    type: custom
+    date: 2023-06-14T18:00:00+00:00
+    start_time: "18:00"
+    end_time: "21:00"
+    custom_url: "https://www.tiltbrum.com/"
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2023-06-15T09:00:00+00:00
+    start_time: "08:00"
+    end_time: "08:50"
+  - title: "Opening Welcome - Both Tracks"
+    type: custom
+    date: 2023-06-15T09:00:00+00:00
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "leon-adato"
+    type: talk
+    date: 2023-06-15T09:00:00+00:00
+    start_time: "09:20"
+    end_time: "09:50"
+  - title: "hannah-mitchell"
+    type: talk
+    date: 2023-06-15T09:00:00+00:00
+    start_time: "09:20"
+    end_time: "09:50"
+    background_color: "#8ad0d3"
+  - title: "salma-alam-naylor"
+    type: talk
+    date: 2023-06-15T09:00:00+00:00
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "fawaz-ghali"
+    type: talk
+    date: 2023-06-15T09:00:00+00:00
+    start_time: "09:55"
+    end_time: "10:25"
+    background_color: "#8ad0d3"
+  - title: "Morning Break"
+    type: custom
+    date: 2023-06-15T09:00:00+00:00
+    start_time: "10:25"
+    end_time: "10:45"
+  - title: "viktor-farcic"
+    type: talk
+    date: 2023-06-15T09:00:00+00:00
+    start_time: "10:50"
+    end_time: "11:20"
+  - title: "omar-qureshi"
+    type: talk
+    date: 2023-06-15T09:00:00+00:00
+    start_time: "10:50"
+    end_time: "11:20"
+    background_color: "#8ad0d3"
+  - title: "kat-samperi"
+    type: talk
+    date: 2023-06-15T09:00:00+00:00
+    start_time: "11:25"
+    end_time: "11:55"
+  - title: "elizabeth-lawel"
+    type: talk
+    date: 2023-06-15T09:00:00+00:00
+    start_time: "11:25"
+    end_time: "11:55"
+    background_color: "#8ad0d3"
+  - title: "Ignite talks"
+    type: custom
+    date: 2023-06-15T09:00:00+00:00
+    start_time: "12:00"
+    end_time: "12:30"
+    background_color: "#abebff"
+  - title: "carly-richmond"
+    type: talk
+    date: 2023-06-15T09:00:00+00:00
+    start_time: "12:00"
+    end_time: "12:30"
+    background_color: "#8ad0d3"
+  - title: "Open Space Opening - Both Tracks"
+    type: custom
+    date: 2023-06-15T09:00:00+00:00
+    start_time: "12:35"
+    end_time: "12:45"
+  - title: "Lunch"
+    type: custom
+    date: 2023-06-15T09:00:00+00:00
+    start_time: "12:45"
+    end_time: "13:45"
+  - title: "Afternoon Introduction - Auditorium"
+    type: custom
+    date: 2023-06-15T09:00:00+00:00
+    start_time: "13:50"
+    end_time: "14:05"
+    background_color: "#abebff"
+  - title: "Open Space Planning - ThinkTank"
+    type: custom
+    date: 2023-06-15T09:00:00+00:00
+    start_time: "13:50"
+    end_time: "14:05"
+    background_color: "#8ad0d3"
+  - title: "craig-box"
+    type: talk
+    date: 2023-06-15T09:00:00+00:00
+    start_time: "14:10"
+    end_time: "14:40"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2023-06-15T09:00:00+00:00
+    start_time: "14:10"
+    end_time: "14:40"
+    background_color: "#8ad0d3"
+  - title: "eli-holderness"
+    type: talk
+    date: 2023-06-15T09:00:00+00:00
+    start_time: "14:40"
+    end_time: "15:10"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2023-06-15T09:00:00+00:00
+    start_time: "14:40"
+    end_time: "15:10"
+    background_color: "#8ad0d3"
+  - title: "Afternoon Break"
+    type: custom
+    date: 2023-06-15T09:00:00+00:00
+    start_time: "15:10"
+    end_time: "15:30"
+  - title: "kris-buytaert"
+    type: talk
+    date: 2023-06-15T09:00:00+00:00
+    start_time: "15:30"
+    end_time: "16:00"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2023-06-15T09:00:00+00:00
+    start_time: "15:30"
+    end_time: "16:00"
+    background_color: "#8ad0d3"
+  - title: "max-woolf"
+    type: talk
+    date: 2023-06-15T09:00:00+00:00
+    start_time: "16:00"
+    end_time: "16:30"
+  - title: "Open Space #4"
+    type: open-space
+    date: 2023-06-15T09:00:00+00:00
+    start_time: "16:00"
+    end_time: "16:30"
+    background_color: "#8ad0d3"
+  - title: "Close Day - Audoitorium"
+    type: custom
+    date: 2023-06-15T09:00:00+00:00
+    start_time: "16:30"
+    end_time: "16:40"
+    background_color: "#abebff"
+  - title: "Evening event @ Hockley Social Club"
+    type: custom
+    date: 2023-06-15T09:00:00+00:00
+    start_time: "17:30"
+    end_time: "late"
+    custom_url: "http://hockleysocialclub.com/"
+
+  # TODO day 2
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2023-06-16T09:00:00+00:00
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome - Both Tracks"
+    type: custom
+    date: 2023-06-16T09:00:00+00:00
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "kat-cosgrove"
+    type: talk
+    date: 2023-06-16T09:00:00+00:00
+    start_time: "09:20"
+    end_time: "09:50"
+  - title: "lin-sun"
+    type: talk
+    date: 2023-06-16T09:00:00+00:00
+    start_time: "09:20"
+    end_time: "09:50"
+    background_color: "#8ad0d3"
+  - title: "stuart-langridge"
+    type: talk
+    date: 2023-06-16T09:00:00+00:00
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "louise-paling"
+    type: talk
+    date: 2023-06-16T09:00:00+00:00
+    start_time: "09:55"
+    end_time: "10:25"
+    background_color: "#8ad0d3"
+  - title: "Break"
+    type: custom
+    date: 2023-06-16T09:00:00+00:00
+    start_time: "10:25"
+    end_time: "10:45"
+  - title: "zakariya-mohummed"
+    type: talk
+    date: 2023-06-16T09:00:00+00:00
+    start_time: "10:50"
+    end_time: "11:20"
+  - title: "esther-barthel"
+    type: talk
+    date: 2023-06-16T09:00:00+00:00
+    start_time: "10:50"
+    end_time: "11:20"
+    background_color: "#8ad0d3"
+  - title: "baruch-sadogursky"
+    type: talk
+    date: 2023-06-16T09:00:00+00:00
+    start_time: "11:25"
+    end_time: "11:55"
+  - title: "steve-heyes"
+    type: talk
+    date: 2023-06-16T09:00:00+00:00
+    start_time: "11:25"
+    end_time: "11:55"
+    background_color: "#8ad0d3"
+  - title: "Ignites day 2"
+    type: custom
+    date: 2023-06-16T09:00:00+00:00
+    start_time: "12:00"
+    end_time: "12:30"
+    background_color: "#abebff"
+  - title: "daniel-oates-lee"
+    type: talk
+    date: 2023-06-16T09:00:00+00:00
+    start_time: "12:00"
+    end_time: "12:30"
+    background_color: "#8ad0d3"
+  - title: "Open Space Introduction - Both Tracks"
+    type: custom
+    date: 2023-06-16T09:00:00+00:00
+    start_time: "12:35"
+    end_time: "12:45"
+  - title: "Lunch"
+    type: custom
+    date: 2023-06-16T09:00:00+00:00
+    start_time: "12:45"
+    end_time: "13:45"
+  - title: "Afternoon Introduction - Auditorium"
+    type: custom
+    date: 2023-06-16T09:00:00+00:00
+    start_time: "13:50"
+    end_time: "14:05"
+    background_color: "#abebff"
+  - title: "Open Space Planning- ThinkTank"
+    type: custom
+    date: 2023-06-16T09:00:00+00:00
+    start_time: "13:50"
+    end_time: "14:05"
+    background_color: "#8ad0d3"
+  - title: "hila-fish"
+    type: talk
+    date: 2023-06-16T09:00:00+00:00
+    start_time: "14:10"
+    end_time: "14:40"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2023-06-16T09:00:00+00:00
+    start_time: "14:10"
+    end_time: "14:40"
+    background_color: "#8ad0d3"
+  - title: "andy-burgin"
+    type: talk
+    date: 2023-06-16T09:00:00+00:00
+    start_time: "14:40"
+    end_time: "15:10"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2023-06-16T09:00:00+00:00
+    start_time: "14:40"
+    end_time: "15:10"
+    background_color: "#8ad0d3"
+  - title: "Afternoon Break"
+    type: custom
+    date: 2023-06-16T09:00:00+00:00
+    start_time: "15:10"
+    end_time: "15:30"
+  - title: "krisztian-fekete"
+    type: talk
+    date: 2023-06-16T09:00:00+00:00
+    start_time: "15:30"
+    end_time: "16:00"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2023-06-16T09:00:00+00:00
+    start_time: "15:30"
+    end_time: "16:00"
+    background_color: "#8ad0d3"
+  - title: "joanna-suau"
+    type: talk
+    date: 2023-06-16T09:00:00+00:00
+    start_time: "16:00"
+    end_time: "16:30"
+  - title: "Open Space #4"
+    type: open-space
+    date: 2023-06-16T09:00:00+00:00
+    start_time: "16:00"
+    end_time: "16:30"
+    background_color: "#8ad0d3"
+  - title: "Close Day - Auditorium"
+    type: custom
+    date: 2023-06-16T09:00:00+00:00
+    start_time: "16:30"
+    end_time: "16:40"
+    background_color: "#abebff"

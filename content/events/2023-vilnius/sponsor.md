@@ -63,13 +63,13 @@ Description = "Sponsor DevOpsDays Vilnius 2023"
                     <tr>
                         <th scope="row">Number available</th>
                         <td>
-                            <center>2</center>
+                            <center>1/2</center>
                         </td>
                         <td>
-                            <center>5</center>
+                            <center>2/5</center>
                         </td>
                         <td>
-                            <center>7</center>
+                            <center>5/7</center>
                         </td>
                     </tr>
                     <tr>

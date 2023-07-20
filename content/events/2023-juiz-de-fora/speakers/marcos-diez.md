@@ -1,7 +1,7 @@
 +++
 Title = "Marcos Diez"
 Twitter = ""
-github = "anandtiwarics"
+github = "marcosdiez"
 image = "marcos-diez.png"
 type = "speaker"
 linktitle = "marcos-diez"
