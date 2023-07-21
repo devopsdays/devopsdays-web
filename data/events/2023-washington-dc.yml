@@ -202,6 +202,10 @@ organizer_email: "washington-dc@devopsdays.org" # Put your organizer email addre
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: launch-darkly
+    level: platinum
+  - id: datadog
+    level: platinum
   - id: tremolo
     level: silver
   - id: raft
