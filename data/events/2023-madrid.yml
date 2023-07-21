@@ -107,7 +107,10 @@ organizer_email: "madrid@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-
+# Bronze
+ - id: speedyrails
+   level: bronze
+# Community
  - id: madriddevops
    level: community
  - id: githublogo
