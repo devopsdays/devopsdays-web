@@ -19,7 +19,7 @@ Thank you for sponsoring DevOpsDays Chicago 2023! The organizing committee is ex
 		* [From the Event](#FromtheEvent)
 	* [Internet](#Internet)
 * [Logo for Banners and Slideshow](#LogoforBannersandSlideshow)
-* [Floor Plan (waiting for venue)](#FloorPlanwaitingforvenue)
+* [Floor Plan](#FloorPlan)
 * [Sponsor Tables](#SponsorTables)
 	* [By Table Number](#ByTableNumber)
 	* [By Sponsor Name](#BySponsorName)
@@ -28,6 +28,7 @@ Thank you for sponsoring DevOpsDays Chicago 2023! The organizing committee is ex
 	* [AV Rentals](#AVRentals)
 		* [Equipment Rental Form](#EquipmentRentalForm)
 * [Sponsor Pitch](#SponsorPitch)
+	* [Sponsor Pitch Schedule](#SponsorPitchSchedule)
 * [Evening Events](#EveningEvents)
 * [Other FAQs](#OtherFAQs)
 
@@ -147,16 +148,81 @@ Sponsors will have access to the same free wireless access points as the attende
 
 We will be using the provided logos as shown on the conference website. If you would like any changes made please contact <chicago-sponsors@devopsdays.org>
 
-<!--
-## <a name='FloorPlanwaitingforvenue'></a>Floor Plan (waiting for venue)
+## <a name='FloorPlan'></a>Floor Plan
 
+<a href = "/events/2023-chicago/sponsor-floor.png"><img src = "/events/2023-chicago/sponsor-floor-small.png" alt = "Floor Plan"></a>
+<br>
+*Click on the floorplan for a larger version*
 ## <a name='SponsorTables'></a>Sponsor Tables
 
 ### <a name='ByTableNumber'></a>By Table Number
-
+| Table Number | Sponsor                 |
+|--------------|-------------------------|
+| Franklin-01  | Sleuth.io               |
+| Franklin-02  | Acorn Labs              |
+| Franklin-03  | LaunchDarkly            |
+| Franklin-04  | Trend Micro             |
+| Franklin-05  | Sumo Logic              |
+| Franklin-06  | Postman                 |
+| Franklin-07  | Zesty                   |
+| Franklin-08  | Temporal                |
+| Franklin-09  | Kosli                   |
+| Franklin-10  | AppDynamics             |
+| Franklin-11  | Transition Technologies |
+| Franklin-12  | Dell                    |
+| Franklin-13  | New Relic               |
+| Franklin-14  | Site 24x7               |
+| Franklin-15  | Discover                |
+| Franklin-16  | CircleCI                |
+| Jackson-17   | Britive                 |
+| Jackson-18   | Observe                 |
+| Jackson-19   | Tailscale               |
+| Jackson-20   | Blacks in Technology    |
+| Jackson-21   | Relativity              |
+| Jackson-22   | Spot by NetApp          |
+| Jackson-23   | Roost.ai                |
+| Jackson-24   | GitLab                  |
+| Jackson-25   | Mezmo                   |
+| Jackson-26   | Virtana/CloudEQ         |
+| Jackson-27   | Cloudbees               |
+| Jackson-28   | Puppet by Perforce      |
+| Jackson-29   | Google                  |
+| Jackson-30   | Nobl9                   |
+<br><br>
 ### <a name='BySponsorName'></a>By Sponsor Name
--->
-
+| Sponsor                 | Table Number |
+|-------------------------|--------------|
+| Acorn Labs              | Franklin-02  |
+| AppDynamics             | Franklin-10  |
+| Britive                 | Jackson-17   |
+| CircleCI                | Franklin-16  |
+| Cloudbees               | Jackson-27   |
+| Blacks in Technology    | Jackson-20   |
+| Dell                    | Franklin-12  |
+| Discover                | Franklin-15  |
+| GitLab                  | Jackson-24   |
+| Google                  | Jackson-29   |
+| Kosli                   | Franklin-09  |
+| LaunchDarkly            | Franklin-03  |
+| Mezmo                   | Jackson-25   |
+| New Relic               | Franklin-13  |
+| Nobl9                   | Jackson-30   |
+| Observe                 | Jackson-18   |
+| Postman                 | Franklin-06  |
+| Puppet by Perforce      | Jackson-28   |
+| Relativity              | Jackson-21   |
+| Roost.ai                | Jackson-23   |
+| Site 24x7               | Franklin-14  |
+| Sleuth.io               | Franklin-01  |
+| Spot by NetApp          | Jackson-22   |
+| Sumo Logic              | Franklin-05  |
+| Tailscale               | Jackson-19   |
+| Temporal                | Franklin-08  |
+| Transition Technologies | Franklin-11  |
+| Trend Micro             | Franklin-04  |
+| Virtana/CloudEQ         | Jackson-26   |
+| Zesty                   | Franklin-07  |
+<br><br>
 ## <a name='TablesandAV'></a>Tables and AV
 
 Sponsors will be located in the foyer of the main ballroom (see the floor plan above). Coffee and snacks will be served in the sponsor area.
@@ -164,7 +230,7 @@ Sponsors will be located in the foyer of the main ballroom (see the floor plan a
 ### <a name='Table'></a>Table
 
 - Total "booth" space will be an 8' x 6' area.
-- Gold sponsors will be provided a 72" x 30" table with a black tablecloth, two chairs, and a power strip access.
+- Platinum and Gold sponsors will be provided a 72" x 30" table with a black tablecloth, two chairs, and a power strip access.
 - Sponsors will be allowed into the venue at 7:00 am on Wednesday August 9th
 - Doors open at 8:00am for attendees; talks start at 9:00am.
 - Teardown must be complete by 5:45 pm on Thursday, August 10th
@@ -196,12 +262,52 @@ All monitor rental requests must be made by **Monday July 24th**  to ensure ava
 
 Each Platinum Sponsor will have five minutes, and each Gold Sponsor will have one minute to address the main hall and the listening audience during scheduled blocks between talks. Please ensure that the content of your pitch adheres to the [Code of Conduct](http://devopsdays.org/events/2018-chicago/conduct/).
 
-This is a simple verbal pitch. No slides, banners, or other materials. We will display your company logo on the main screen during your pitch. Most folks mention their job openings/company overview rather than a product pitch.  Here's an example from 2017 (start at 1hr11min) : <https://youtu.be/w1sZrtaSp4s?t=1h11m34s>
+This is a simple verbal pitch. No slides (except for Platinum sponsors), banners, or other materials. We will display your company logo on the main screen during your pitch. Most folks mention their job openings/company overview rather than a product pitch. 
 
-*Sponsor pitch times will be updated here as they are finalized.*
+Platinum sponsors may provide a slide deck which will be presented during their pitch (we'll give you the clicker for it!) Please send your slides (in PowerPoint, Keynote, or PDF form) to chicago@devopsdays.org no later than **Friday, August 4**.
 
-<!-- sponsor pitch schedule goes here -->
+### <a name='SponsorPitchSchedule'></a>Sponsor Pitch Schedule
 
+| Day       | Time (10 min slot) | Sponsors                |
+|-----------|--------------------|-------------------------|
+| Wednesday | 9:45:00 AM         | New Relic               |
+|           |                    | CircleCI                |
+|           |                    | Dell                    |
+|           |                    |                         |
+| Wednesday | 11:10 AM           | Transition Technologies |
+|           |                    | AppDynamics             |
+|           |                    | Kosli                   |
+|           |                    | Temporal                |
+|           |                    | Zesty                   |
+|           |                    |                         |
+| Wednesday | 11:50 AM           | Postman                 |
+|           |                    | Sumo Logic              |
+|           |                    | Trend Micro             |
+|           |                    | LaunchDarkly            |
+|           |                    | Acorn Labs              |
+|           |                    |                         |
+| Wednesday | 1:30 PM            | Site 24x7               |
+|           |                    | Sleuth.io               |
+|           |                    | Britive                 |
+|           |                    |                         |
+| Thursday  | 9:45 AM            | Discover                |
+|           |                    | Observe                 |
+|           |                    | Tailscale               |
+|           |                    |                         |
+| Thursday  | 11:10 AM           | Nobl9                   |
+|           |                    | Google                  |
+|           |                    | Puppet                  |
+|           |                    | Cloudbees               |
+|           |                    | Virtana                 |
+|           |                    |                         |
+| Thursday  | 11:50 AM           | Mezmo           |
+|           |                    | GitLab                  |
+|           |                    | Roost.ai                |
+|           |                    | Spot by NetApp          |
+|           |                    | Relativity              |
+|           |                    |                         |
+| Thursday  | 1:30 PM            | Sponsor giveaways       |
+<br><br>
 ## <a name='EveningEvents'></a>Evening Events
 
 There is no official conference evening event; however, if you are planning to host a party or happy hour, etc after either day of the conference, please let us know the details! We will include this information in communications to attendees. Please send the details to chicago-sponsors@devopsdays.org

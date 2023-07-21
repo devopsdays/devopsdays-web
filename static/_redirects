@@ -1,4 +1,4 @@
-/amsterdam/*		/events/2023-amsterdam/:splat		302
+/amsterdam/*		/events/2024-amsterdam/:splat		302
 /aracaju/*		/events/2023-aracaju/:splat		302
 /atlanta/*		/events/2023-atlanta/:splat		302
 /austin/*		/events/2023-austin/:splat		302
@@ -8,9 +8,9 @@
 /beijing/*		/events/2023-beijing/:splat		302
 /belem/*		/events/2019-belem/:splat		302
 /belo-horizonte/*	/events/2019-belo-horizonte/:splat	302
-/bengaluru/*		/events/2022-bengaluru/:splat		302
+/bengaluru/*		/events/2023-bengaluru/:splat		302
 /berlin/*		/events/2022-berlin/:splat		302
-/birmingham-al/*	/events/2023-birmingham-al/:splat		302
+/birmingham-al/*	/events/2024-birmingham-al/:splat		302
 /birmingham-uk/*		/events/2023-birmingham-uk/:splat		302
 /bogota/*		/events/2023-bogota/:splat		302
 /boise/*		/events/2023-boise/:splat		302
@@ -29,7 +29,7 @@
 /copenhagen/*		/events/2023-copenhagen/:splat		302
 /cuba/*			/events/2019-cuba/:splat		302
 /dallas/*		/events/2023-dallas/:splat		302
-/denver/*		/events/2023-denver/:splat		302
+/denver/*		/events/2024-denver/:splat		302
 /des-moines/*		/events/2023-des-moines/:splat		302
 /detroit/*		/events/2023-detroit/:splat		302
 /down-under/*		/events/2019-sydney/:splat		302
@@ -50,6 +50,7 @@
 /indianapolis/*		/events/2023-indianapolis/:splat	302
 /istanbul/*		/events/2021-istanbul/:splat		302
 /jakarta/*		/events/2022-jakarta/:splat		302
+/juiz-de-fora/*		/events/2024-juiz-de-fora/:splat		302
 /kansas-city/*		/events/2019-kansas-city/:splat		302
 /kazan/*		/events/2018-kazan/:splat		302
 /kiel/*			/events/2018-kiel/:splat		302
@@ -166,6 +167,7 @@
 /almaty/*            /events/2023-almaty/:splat           302
 /organizer-summit/*            /events/2023-organizer-summit/:splat           302
 /organiser-summit/*            /events/2023-organizer-summit/:splat           302
+/nova-lima/*            /events/2024-nova-lima/:splat           302
 
 # 10822: Migrate PDFs within static/ to assets.devopsdays.org
 /events/2023-new-york-city/dodnyc-23-sponsor-prospectus.pdf                             https://assets.devopsdays.org/events/2023/new-york-city/dodnyc-23-sponsor-prospectus.pdf                           301

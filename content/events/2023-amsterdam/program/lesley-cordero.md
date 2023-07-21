@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Psychologically Safe Reliability Management"
 Type = "talk"
 Speakers = ["lesley-cordero"]
+Youtube = "b_AhUm1Pdh"
 +++
 Psychological safety is particularly important for teams that manage service reliability. The vulnerability that comes with mitigating failures in production requires principles of trust, transparency, and inclusion that can only come from cultures that minimize harm and enable empowerment.
 

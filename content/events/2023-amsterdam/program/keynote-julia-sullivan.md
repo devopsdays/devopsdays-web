@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Keynote - Long live the imposter syndrome!"
 Type = "talk"
 Speakers = ["julia-sullivan"]
+Youtube = "Q9RHqU0UcEw"
 +++
 
 It's time to rethink the imposter syndrome, urges Julia Sullivan, author of Geeks Guide To Work*, because it has wrongly been given a bad name.  

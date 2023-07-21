@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "AKS unlighted, but what about Compliancy, cost and Multi-tenancy?"
 Type = "talk"
 Speakers = ["dinant-paardenkooper", "jurgen-allewijn"]
+Youtube = "beBclDfvfvk"
 +++
 The business case from City of Amsterdam is to overcome the challenges in setting up Azure Kubernetes Service (AKS) in such a way that it is secure, cost control, multi-tenant and compliant with the local government regulations. The goal is to empower the workload teams with the latest technology and the DevOps way of working. On their journey, the Cloud-Ops and Workload teams concluded that it isn’t just enabling “AKS”. It also requires a lot of management and Kubernetes knowledge, which is currently not present by most of the workload teams.
 
