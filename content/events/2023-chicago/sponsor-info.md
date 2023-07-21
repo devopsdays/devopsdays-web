@@ -300,7 +300,7 @@ Platinum sponsors may provide a slide deck which will be presented during their 
 |           |                    | Cloudbees               |
 |           |                    | Virtana                 |
 |           |                    |                         |
-| Thursday  | 11:50 AM           | Mezmo - o11yn           |
+| Thursday  | 11:50 AM           | Mezmo           |
 |           |                    | GitLab                  |
 |           |                    | Roost.ai                |
 |           |                    | Spot by NetApp          |
