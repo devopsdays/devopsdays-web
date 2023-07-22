@@ -206,8 +206,10 @@ sponsors:
     level: gold
   - id: launch-darkly
     level: gold
-  #- id: nobl9
-  # level: gold
+  - id: britive
+    level: gold
+  - id: datadog
+    level: gold
   - id: redgate
     level: silver
   - id: clickhouse
