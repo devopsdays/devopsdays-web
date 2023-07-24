@@ -87,7 +87,7 @@ a.jssocials-share-link, a.event-cta-button {
 <p><a href="https://www.papercall.io/devopsdaysnovalima"><button>SUBMENTA SUA TALK</button></a></p>
 <p><a href="" onclick="alert('EM BREVE!'); return false"><button>INSCREVA-SE</button></a></p>
 <p><a href="../sponsor/"><button>SEJA UM SPONSOR</button></a></p>
-<p><a href="http://localhost:1313/events/2024-nova-lima/organizadores"><button>CONTATO</button></a></p>
+<p><a href="https://devopsdays.org/events/2024-nova-lima/organizadores"><button>CONTATO</button></a></p>
 <p><a href="" onclick="alert('EM BREVE!'); return false"><button>LOCALIZAÇÃO</button></a></p>
 </div>
 
