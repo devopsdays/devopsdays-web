@@ -17,7 +17,7 @@ DevOpsDaysLA, now in its 13th year, is Southern California's only annual confere
 <h3>DevOpsDaysLA Conference Profile</h3> 
 
 - 500 to 800 Attendees (Our 2024 goal is 800-1000 attendees) - Typically composed of developers, experienced engineers, curious business leaders, students, and educators
-- 8 Speakers ( 5 Long Form Talks, 3 Lightning Talks)
+- 8 Speakers (5 Long Form Talks, 3 Lightning Talks)
   - 33% of Speakers are typically women 
   - 18 Sponsors (90% gold packages + exclusives such as after-party, lunch, etc)
 
