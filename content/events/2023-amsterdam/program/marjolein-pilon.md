@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Planet Earth as our Stakeholder"
 Type = "talk"
 Speakers = ["marjolein-pilon"]
+Youtube = "iB-q_aJ-e0Q"
 +++
 **Objectives**
 

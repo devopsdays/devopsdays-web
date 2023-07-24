@@ -158,15 +158,15 @@ We will be using the provided logos as shown on the conference website. If you w
 ### <a name='ByTableNumber'></a>By Table Number
 | Table Number | Sponsor                 |
 |--------------|-------------------------|
-| Franklin-1   | Sleuth.io               |
-| Franklin-2   | Acorn Labs              |
-| Franklin-3   | LaunchDarkly            |
-| Franklin-4   | Trend Micro             |
-| Franklin-5   | Sumo Logic              |
-| Franklin-6   | Postman                 |
-| Franklin-7   | Zesty                   |
-| Franklin-8   | Temporal                |
-| Franklin-9   | Kosli                   |
+| Franklin-01  | Sleuth.io               |
+| Franklin-02  | Acorn Labs              |
+| Franklin-03  | LaunchDarkly            |
+| Franklin-04  | Trend Micro             |
+| Franklin-05  | Sumo Logic              |
+| Franklin-06  | Postman                 |
+| Franklin-07  | Zesty                   |
+| Franklin-08  | Temporal                |
+| Franklin-09  | Kosli                   |
 | Franklin-10  | AppDynamics             |
 | Franklin-11  | Transition Technologies |
 | Franklin-12  | Dell                    |
@@ -174,54 +174,54 @@ We will be using the provided logos as shown on the conference website. If you w
 | Franklin-14  | Site 24x7               |
 | Franklin-15  | Discover                |
 | Franklin-16  | CircleCI                |
-| Jackson-1    | Britive                 |
-| Jackson-2    | Observe                 |
-| Jackson-3    | Tailscale               |
-| Jackson-4    | Nobl9                   |
-| Jackson-5    | Google                  |
-| Jackson-6    | Puppet by Perforce      |
-| Jackson-7    | Cloudbees               |
-| Jackson-8    | Virtana/CloudEQ                       |
-| Jackson-9    | Mezmo                   |
-| Jackson-10   | GitLab                  |
-| Jackson-11   | Roost.ai                |
-| Jackson-12   | Spot by NetApp          |
-| Jackson-13   | Relativity              |
-| Jackson-14   | Community Booth         |
+| Jackson-17   | Britive                 |
+| Jackson-18   | Observe                 |
+| Jackson-19   | Tailscale               |
+| Jackson-20   | Blacks in Technology    |
+| Jackson-21   | Relativity              |
+| Jackson-22   | Spot by NetApp          |
+| Jackson-23   | Roost.ai                |
+| Jackson-24   | GitLab                  |
+| Jackson-25   | Mezmo                   |
+| Jackson-26   | Virtana/CloudEQ         |
+| Jackson-27   | Cloudbees               |
+| Jackson-28   | Puppet by Perforce      |
+| Jackson-29   | Google                  |
+| Jackson-30   | Nobl9                   |
 <br><br>
 ### <a name='BySponsorName'></a>By Sponsor Name
 | Sponsor                 | Table Number |
 |-------------------------|--------------|
-| Acorn Labs              | Franklin-2   |
+| Acorn Labs              | Franklin-02  |
 | AppDynamics             | Franklin-10  |
+| Britive                 | Jackson-17   |
 | CircleCI                | Franklin-16  |
-| Cloudbees               | Jackson-7    |
-| Community Booth         | Jackson-14   |
+| Cloudbees               | Jackson-27   |
+| Blacks in Technology    | Jackson-20   |
 | Dell                    | Franklin-12  |
 | Discover                | Franklin-15  |
-| GitLab                  | Jackson-10   |
-| Google                  | Jackson-5    |
-| Kosli                   | Franklin-9   |
-| LaunchDarkly            | Franklin-3   |
-| Mezmo                   | Jackson-9    |
+| GitLab                  | Jackson-24   |
+| Google                  | Jackson-29   |
+| Kosli                   | Franklin-09  |
+| LaunchDarkly            | Franklin-03  |
+| Mezmo                   | Jackson-25   |
 | New Relic               | Franklin-13  |
-| Nobl9                   | Jackson-4    |
-| Observe                 | Jackson-2    |
-| Postman                 | Franklin-6   |
-| Puppet by Perforce      | Jackson-6    |
-| Relativity              | Jackson-13   |
-| Roost.ai                | Jackson-11   |
+| Nobl9                   | Jackson-30   |
+| Observe                 | Jackson-18   |
+| Postman                 | Franklin-06  |
+| Puppet by Perforce      | Jackson-28   |
+| Relativity              | Jackson-21   |
+| Roost.ai                | Jackson-23   |
 | Site 24x7               | Franklin-14  |
-| Sleuth.io               | Franklin-1   |
-| Spot by NetApp          | Jackson-12   |
-| Sumo Logic              | Franklin-5   |
-| Tailscale               | Jackson-3    |
-| Temporal                | Franklin-8   |
+| Sleuth.io               | Franklin-01  |
+| Spot by NetApp          | Jackson-22   |
+| Sumo Logic              | Franklin-05  |
+| Tailscale               | Jackson-19   |
+| Temporal                | Franklin-08  |
 | Transition Technologies | Franklin-11  |
-| Trend Micro             | Franklin-4   |
-| Britive                 | Jackson-1    |
-| Virtana/CloudEQ         | Jackson-8    |
-| Zesty                   | Franklin-7   |
+| Trend Micro             | Franklin-04  |
+| Virtana/CloudEQ         | Jackson-26   |
+| Zesty                   | Franklin-07  |
 <br><br>
 ## <a name='TablesandAV'></a>Tables and AV
 
@@ -300,7 +300,7 @@ Platinum sponsors may provide a slide deck which will be presented during their 
 |           |                    | Cloudbees               |
 |           |                    | Virtana                 |
 |           |                    |                         |
-| Thursday  | 11:50 AM           | Mezmo - o11yn           |
+| Thursday  | 11:50 AM           | Mezmo           |
 |           |                    | GitLab                  |
 |           |                    | Roost.ai                |
 |           |                    | Spot by NetApp          |
