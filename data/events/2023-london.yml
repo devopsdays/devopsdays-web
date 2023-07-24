@@ -94,6 +94,8 @@ sponsors:
   # gold sponsors
   #- id: delphix
   #  level: gold
+  - id: adaptavist
+    level: gold
   # silver sponsors
   #- id: checkmarx
   - id: mkdev
