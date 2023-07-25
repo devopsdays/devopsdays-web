@@ -1,6 +1,6 @@
 # Global Organizer Summit and DevOpsDays Chicago 2023 are finally here!
 
-The conference starts with the Global Organizer Summit on Tuesday, August 8th and continues with DevOpsDays Chicago itself Wednesday, August 9th, and continues Thursday, August 10th. Please note that your tickets might refer to the event dates as August 9-10, but remember that the Organizer Summit is on August 8! Registration, breakfast, and sponsor tables will be open daily at 8AM. The organizers are excited to welcome you! Here are a few details you’ll want to review before the event.
+The conference starts with the Global Organizer Summit on Tuesday, August 8th and continues with DevOpsDays Chicago itself Wednesday, August 9th, and continues Thursday, August 10th. *Please note that your tickets might refer to the event dates as August 9-10, but remember that the Organizer Summit is on August 8!* Registration, breakfast, and sponsor tables will be open daily at 8AM. The organizers are excited to welcome you! Here are a few details you’ll want to review before the event.
 
 ## Code of Conduct
 
@@ -28,7 +28,7 @@ DevOpsDays Global Organizer Summit and DevOpsDays Chicago 2023 are being held at
 1. Take the stairs up to the 2nd floor following the signs for ‘Convene’
 1. Continue to follow the signs for ‘Convene’ until you reach the stairs/elevator for the third floor.
 1. Please have your ticket (on paper or on your phone) and proof of vaccination/negative test ready in order to speed up registration. We can also look you up by name if you do not have your ticket. We also have a limited supply of Covid tests available.
-5.You will need to visibly wear your badge while in the conference space.
+1. You will need to visibly wear your badge while in the conference space.
 
 Please note: No items larger than a rolling suitcase are permitted through the lobby. There will be no bag or coat check available.
 
