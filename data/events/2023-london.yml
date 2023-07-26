@@ -209,7 +209,7 @@ program:
     start_time: 16:00
     end_time: 16:15
   - title: "10 Years of DevOpsDays London - Panel Discussion"
-    type: open-space
+    type: talk
     date: 2023-09-21T00:00:00+01:00
     start_time: "16:15"
     end_time: "17:00"
