@@ -28,7 +28,7 @@ DevOpsDays Chicago 2023 is being held at Convene in the Willis (Sears) Tower at 
 1. Take the stairs up to the 2nd floor following the signs for ‘Convene’
 1. Continue to follow the signs for ‘Convene’ until you reach the stairs/elevator for the third floor.
 1. Please have your ticket (on paper or on your phone) and proof of vaccination/negative test ready in order to speed up registration. We can also look you up by name if you do not have your ticket. We also have a limited supply of Covid tests available.
-5.You will need to visibly wear your badge while in the conference space.
+1. You will need to visibly wear your badge while in the conference space.
 
 Please note: No items larger than a rolling suitcase are permitted through the lobby. There will be no bag or coat check available.
 
