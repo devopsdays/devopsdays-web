@@ -10,11 +10,11 @@ Additionally we are using [CallOfConduct](https://www.callofconduct.com/) to hel
 
 ## Health and Safety
 
-Our [Health and Safety policy](https://devopsdays.org/events/2023-chicago/covid-19-policy) requires all participants to show proof of vaccination or provide a negative COVID test. If you cannot comply with these requirements, you may participate virtually by watching our livestream and interacting online.
+Our [Health and Safety policy](https://devopsdays.org/events/2023-chicago/covid-19-policy) requires all participants to show **proof of vaccination or provide a negative COVID test**. If you cannot comply with these requirements, you may participate virtually by watching our livestream and interacting online.
 
 It is highly recommended that you confirm the availability of your Covid 19 vaccination record before you leave home, as many countries and locations  have shut down their vaccination proof apps.
 
-Please reach out to us at chicago@devopsdays.org if you have questions on vaccination proof methods; generally speaking if you have a card/document certifies that you have been vaccinated you should be fine.  In the worst case scenario, we will be providing tests on-site as an alternative.
+Please reach out to us at chicago@devopsdays.org if you have questions on vaccination proof methods; generally speaking if you have a card/document certifies that you have been vaccinated you should be fine.  We will be providing tests on-site as an alternative.
 
 ## Location
 
@@ -30,13 +30,14 @@ DevOpsDays Chicago 2023 is being held at Convene in the Willis (Sears) Tower at 
 1. Please have your ticket (on paper or on your phone) and proof of vaccination/negative test ready in order to speed up registration. We can also look you up by name if you do not have your ticket. We also have a limited supply of Covid tests available.
 1. You will need to visibly wear your badge while in the conference space.
 
-Please note: No items larger than a rolling suitcase are permitted through the lobby. There will be no bag or coat check available.
+Please note: *No items larger than a rolling suitcase are permitted through the lobby.* There will be no bag or coat check available.
 
 ## Evening Events
 
 **No official conference events planned for Wednesday or Thursday nights, but here are some that you might want to take part in - please support them!**
 
-*Wednesday, August 9*<br>
+### Wednesday, August 9
+
 Open Source Data Infrastructure Meetup at Discover at 6:30 PM<br>
 https://www.meetup.com/chicago-open-source-data-infrastructure-meetup/events/294067714<br>
 Must register prior to August 2!
@@ -45,7 +46,7 @@ flox Happy Hour - https://lu.ma/flox-dodchi23<br>
 5:30PM - 8:00PM | ​​O'Neil's on Wells - 411 S Wells St, Chicago, IL 60607 (Map)<br>
 All are welcome - but space is limited - so register early!
 
-*Thursday, August 10*<br>
+### Thursday, August 10
 Happy Hour hosted by Temporal<br>
 5:30 PM at Revival Food Hall, 125 S Clark St (RSVP at https://events.temporal.io/TemporalHappyHour)
 
@@ -55,7 +56,7 @@ We have an amazing program planned for the conference. Please take a look at the
 
 Consider what topics you’d like to propose for [Open Space self-organizing discussions](https://www.devopsdays.org/open-space-format/) in the afternoons; many people find that to be their most valuable time at DevOpsDays.
 
-This year, we will also offer workshops in the afternoon of each day.
+We will also offer workshops in the afternoon of each day.
 
 All the talks will be simultaneously transcribed to accommodate those with hearing issues (or who just like to turn the subtitles on during movies). Attendees can also follow the transcription on their own devices (phone, tablet, laptop). The link for the transcription stream will also be available on [the program page](https://www.devopsdays.org/events/2023-chicago/program/).
 
