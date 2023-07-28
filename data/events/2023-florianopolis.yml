@@ -102,6 +102,10 @@ sponsors:
     level: platinum
   - id: softplan
     level: platinum
+  - id: avalia
+    level: platinum
+  - id: grafanabr
+    level: silver
     # - id: samplesponsorname
     #   level: gold
     #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
