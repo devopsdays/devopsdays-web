@@ -130,11 +130,6 @@ team_members: # Name is the only required field for team members.
     website: "https://floord.github.io/"
     image: "floor.jpg"
 
-  - name: "Thomas Krag"
-    linkedin: "https://www.linkedin.com/in/vikingops/"
-    twitter: "vikingopsio"
-    image: thomas.png
-
   - name: "Bas den Uijl"
     pronouns: "he/him"
     linkedin: "https://www.linkedin.com/in/basdenuijl/"
