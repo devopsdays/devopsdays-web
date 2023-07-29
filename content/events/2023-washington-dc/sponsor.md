@@ -83,9 +83,9 @@ The following chart outlines our standard sponsorship packages.
   </tr>
     <tr>
     <td>Available sponsorships</td>
-      <td class="yes"><strong>7</strong></td>
-      <td class="yes"><strong>3</strong></td>
-      <td class="yes"><strong>4</strong></td>
+      <td class="yes"><s>10</s><strong>7</strong></td>
+      <td class="yes"><s>4</s><strong>3</strong></td>
+      <td class="yes"><s>6</s><strong>4</strong></td>
   </tr>
   <tr>
     <td>Logo on shared slide, rotating during breaks</td>
