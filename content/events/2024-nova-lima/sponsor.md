@@ -4,16 +4,16 @@ Type = "event"
 Description = "Sponsor devopsdays Nova Lima 2024"
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
+Valorizamos muito os patrocinadores para este evento aberto. Se você estiver interessado em patrocinar, envie-nos um e-mail para [{{< email_organizers >}}].
 
 <hr>
 
-devopsdays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
-<p>
+devopsdays é uma conferência auto-organizada para praticantes que depende de patrocínios. Não temos estandes de fornecedores, não vendemos apresentações de produtos nem distribuímos listas de contatos de participantes. Os patrocinadores têm a oportunidade de fazer apresentações curtas durante o programa e obterão reconhecimento no site e nas mídias sociais antes, durante e depois do evento. Os patrocinadores são incentivados a se representar participando ativamente e se envolvendo com os participantes como colegas. Qualquer participante também tem a oportunidade de demonstrar produtos/projetos como parte de uma sessão open space.
+<!-- <p>
 Gold sponsors get a full table and Silver sponsors a shared table where they can interact with those interested to come visit during breaks. All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
 <p>
 The best thing to do is send engineers to interact with the experts at devopsdays on their own terms.
-<p>
+<p> -->
 
 <!--
 <hr/>

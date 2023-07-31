@@ -40,7 +40,7 @@ Visando valorizar a participação de instituições na realização do evento, 
       <td>Máximo de patrocinadores</td>
       <td>4</td>
       <td>2</td>
-      <td>2</td>
+      <td>3</td>
     </tr>
     <tr>
       <td>Estande/mesa</td>

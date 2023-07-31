@@ -206,9 +206,15 @@ sponsors:
     level: platinum
   - id: datadog
     level: platinum
+  - id: vmware-tanzu
+    level: platinum
+  - id: scout
+    level: gold
   - id: tremolo
     level: silver
   - id: raft
+    level: silver
+  - id: excella
     level: silver
   - id: kcddc
     level: community
