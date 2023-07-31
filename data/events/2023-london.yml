@@ -163,6 +163,11 @@ program:
     date: 2023-09-21T00:00:00+01:00
     start_time: "10:35"
     end_time: "11:05"
+  - title: "Coffee break"
+    type: custom
+    date: 2023-09-21T00:00:00+01:00
+    start_time: "11:05"
+    end_time: "11:25"
   - title: "lian-li"
     type: talk
     date: 2023-09-21T00:00:00+01:00
@@ -183,15 +188,40 @@ program:
     date: 2023-09-21T00:00:00+01:00
     start_time: "13:05"
     end_time: "14:05"
-  - title: "Open Spaces Day 1"
+  - title: "Open Spaces Planning"
     type: open-space
     date: 2023-09-21T00:00:00+01:00
     start_time: "14:05"
+    end_time: "14:30"
+  - title: "Open Spaces Session 1"
+    type: open-space
+    date: 2023-09-21T00:00:00+01:00
+    start_time: "14:30"
+    end_time: "15:15"
+  - title: "Open Spaces Session 2"
+    type: open-space
+    date: 2023-09-21T00:00:00+01:00
+    start_time: 15:15
+    end_time: 16:00
+  - title: "Coffee break"
+    type: custom
+    date: 2023-09-21T00:00:00+01:00
+    start_time: 16:00
+    end_time: 16:15
+  - title: "10 Years of DevOpsDays London - Discussion"
+    type: custom
+    date: 2023-09-21T00:00:00+01:00
+    start_time: "16:15"
     end_time: "17:00"
-  - title: "Evening Reception"
+  - title: "Day 1 Closing Remarks & Sponsor Raffle Giveaways"
     type: custom
     date: 2023-09-21T00:00:00+01:00
     start_time: "17:00"
+    end_time: "17:10"
+  - title: "Evening Reception - TBC"
+    type: custom
+    date: 2023-09-21T00:00:00+01:00
+    start_time: "17:10"
     end_time: "Onwards"
   - title: "Breakfast"
     type: custom
@@ -208,6 +238,11 @@ program:
     date: 2023-09-22T23:59:59+01:00
     start_time: "10:35"
     end_time: "11:05"
+  - title: "Coffee break"
+    type: custom
+    date: 2023-09-22T23:59:59+01:00
+    start_time: "11:05"
+    end_time: "11:25"
   - title: "alvaro-santos-andres"
     type: talk
     date: 2023-09-22T23:59:59+01:00
@@ -228,10 +263,30 @@ program:
     date: 2023-09-22T23:59:59+01:00
     start_time: "13:05"
     end_time: "14:05"
-  - title: "Open Spaces Day 2"
+  - title: "Open Spaces Planning"
     type: open-space
     date: 2023-09-22T23:59:59+01:00
     start_time: "14:05"
+    end_time: "14:30"
+  - title: "Open Spaces Session 1"
+    type: open-space
+    date: 2023-09-22T23:59:59+01:00
+    start_time: "14:30"
+    end_time: "15:15"
+  - title: "Open Spaces Session 2"
+    type: open-space
+    date: 2023-09-22T23:59:59+01:00
+    start_time: 15:15
+    end_time: 16:00
+  - title: "Coffee Break & Sponsor Raffle Giveaways"
+    type: custom
+    date: 2023-09-22T23:59:59+01:00
+    start_time: 16:00
+    end_time: 16:15
+  - title: "Open Spaces Session 3"
+    type: open-space
+    date: 2023-09-22T23:59:59+01:00
+    start_time: "16:15"
     end_time: "17:00"
 
 ignites:
@@ -255,4 +310,3 @@ ignites:
     date: 2023-09-22T23:59:59+01:00
   - title: "edvinas-janusevicius"
     date: 2023-09-22T23:59:59+01:00
-
