@@ -32,7 +32,7 @@ registration_link: "https://fienta.com/devopsdays-vilnius-2023" # If you have a 
 #
 coordinates: "54.698331, 25.310857" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Tech Park | Vilnius" # Defaults to city, but you can make it the venue name.
-location_address: "Antakalnio g. 17, 10312 Vilnius" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "Antakalnio g. 13, 10312 Vilnius" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
@@ -86,6 +86,8 @@ organizer_email: "vilnius@devopsdays.org" # Put your organizer email address her
 sponsors:
   - id: techzity
     level: community
+  - id: cloudnativelithuania
+    level: community
   - id: kubeevents
     level: community
   - id: kubecareers
@@ -108,6 +110,7 @@ sponsors:
     level: silver 
   - id: nordsecurity
     level: silver 
+
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
