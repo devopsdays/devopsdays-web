@@ -85,6 +85,8 @@ sponsors:
     level: platinum
   - id: observeinc
     level: platinum
+  - id: wescaleout
+    level: captioning
 
 sponsors_accepted : "yes"
 
@@ -93,8 +95,12 @@ sponsor_levels:
     label: Platinum
   - id: startupalley
     label: Startup Alley
-  - id: alacarte
-    label: A la Carte
+  - id: captioning
+    label: Captioning
+    max: 1
+  - id: badges
+    label: Badges and Lanyards
+    max: 1
 
 program:
 # Day 1
