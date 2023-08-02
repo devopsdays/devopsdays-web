@@ -8,7 +8,7 @@ Description = "DevOpsDays Singapore will take place at Fort Canning! We're encou
 <div class="row">
 <div class="col-md-4">
   <p><img alt="DevOpsDays Singapore 2023" src="/events/2023-singapore/logo.png" class="img-fluid"></p>
-  <p><strong>DevOpsDays</strong> is a network of local, practitioner-focused, not-for-profit event covering topics of software development, IT infrastructure operations, and the intersection between them.  DevOpsDays Singapore is in its fifth year, and will be held on <strong>24-25 October</strong>, at the <a href="../location">Fort Canning Hotel</a> in Singapore. We expect <strong>over 300 attendees</strong> this year.</p>
+  <p><strong>DevOpsDays</strong> is a network of local, practitioner-focused, not-for-profit event covering topics of software development, IT infrastructure operations, and the intersection between them.  DevOpsDays Singapore is in its fifth year, and will be held on <strong>23th & 24th October</strong>, at the <a href="../location">Fort Canning Hotel</a> in Singapore. We expect <strong>over 300 attendees</strong> this year.</p>
   <p><a href="../contact">Contact the Organizers</a></p>
   <p><a href="../location">Look for Nearby Hotels</a></p>
   <p><a href="../program">Look for our Program</a></p>
