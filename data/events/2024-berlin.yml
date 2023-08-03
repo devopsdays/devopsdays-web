@@ -14,8 +14,8 @@ masthead_background: "berlin-masthead.png"
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2024-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate:  2024-06-18T00:00:00+02:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  2024-06-19T23:59:59+02:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate:  2024-05-07T00:00:00+02:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  2024-05-08T23:59:59+02:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  # start accepting talk proposals.
