@@ -57,9 +57,9 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 team_members: # Name is the only required field for team members.
   - name: "Christina Di Maio"
     image: "christina-di-maio.png"
-    bio: "Event Manager at OVHcloud by day, my friends and family keep my head out of the clouds to plan all their special events when I’m not working. Marketing and event planning are my passions, I also bake a pretty mean macaron!  With a Bachelor’s degree in business from HEC Montréal I’ve always worked in B2B marketing and tried to bring different ideas to life while sharing the tech industry through my eyes.  After all, you can put glitter on anything!"
-    role: ""
-    employer: "OVHcloud"
+    bio: "Community Management and Strategic Planning, all these words to say that I'm responsible for making sure my colleagues in the Data & Analytics team at BRP are engaged and having fun and that our processes and strategies are clear to our team members and stakeholders. Marketing and event planning are my passions, I also bake a pretty mean macaron!  With a Bachelor's degree in Marketing from HEC Montréal I’ve always worked in marketing and spent most of my carreer in IT , I do my best to bring different ideas to life while sharing the tech industry through my eyes. After all, you can put glitter on anything!"
+    role: "Event Manager"
+    employer: "BRP"
     github: ""
     twitter: "chris_di_maio"
     linkedin: "https://www.linkedin.com/in/christinadimaio/"
