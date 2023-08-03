@@ -247,6 +247,14 @@ sponsors:
     level: gold
   - id: appsflyer
     level: gold
+  - id: coralogix
+    level: gold
+  - id: doit
+    level: gold
+  - id: jfrog
+    level: gold
+  - id: apono
+    level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: velocitytech
     level: community
