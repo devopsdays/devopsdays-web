@@ -104,6 +104,8 @@ sponsors:
     level: community
   - id: e-gineering
     level: alacarte
+  - id: vmware-tanzu-2023
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
