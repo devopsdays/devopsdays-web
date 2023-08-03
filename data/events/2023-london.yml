@@ -89,12 +89,12 @@ organizer_email: "london@devopsdays.org" # Put your organizer email address here
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
   # platinum sponsors
-  #- id: coralogix
-  #  level: platinum
   # gold sponsors
   #- id: delphix
   #  level: gold
   - id: adaptavist
+    level: gold
+  - id: coralogix
     level: gold
   # silver sponsors
   #- id: checkmarx
@@ -116,6 +116,8 @@ sponsors:
   - id: syntasso
     level: bronze
   - id: snyk
+    level: bronze
+  - id: clearbank
     level: bronze
   # community sponsors
   - id: doxlon

@@ -2,7 +2,7 @@
 Title = "Chris Cooney"
 Twitter = "chris_cooney"
 pronouns = "he/him"
-image = ""
+image = "chris-cooney.png"
 type = "speaker"
 linktitle = "chris-cooney"
 
