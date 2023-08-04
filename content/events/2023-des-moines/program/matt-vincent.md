@@ -1,5 +1,5 @@
 +++
-Title = "Software Engineering Best Practices in the AI Era: Adopting AI without Compromising Quality"
+Title = "Avoiding the AI Abyss: Preserving Engineering Best Practices"
 Speakers = ["matt-vincent"]
 Talk_date = ""
 Talk_start_time = ""

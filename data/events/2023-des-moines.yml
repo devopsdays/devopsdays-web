@@ -101,8 +101,8 @@ organizer_email: "des-moines@devopsdays.org" # Put your organizer email address 
 sponsors:
 #  - id: appdynamics-before-20230221
 #    level: gold
-#  - id: caseys
-#    level: gold
+ - id: caseys
+   level: gold
  - id: emc-ins
    level: gold
  - id: jetbrains

@@ -78,7 +78,7 @@ Description = "Speakers, sessions, ignites, meals"
                                 <h4>Matt Vincent</h4>
                             </div>
                             <div class="col-lg-8">
-                                <a href="/events/2023-des-moines/program/matt-vincent/">Software Engineering Best Practices in the AI Era: Adopting AI without Compromising Quality</a>
+                                <a href="/events/2023-des-moines/program/matt-vincent/">Avoiding the AI Abyss: Preserving Engineering Best Practices</a>
                             </div>
                         </td>
                         <td>
