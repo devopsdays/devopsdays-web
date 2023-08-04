@@ -7,6 +7,8 @@ Description = "Sponsor DevOpsDays Philadelphia 2023"
 We greatly value sponsors for this open event. If you are interested in sponsoring, please drop us an email
 at {{< email_organizers >}}.
 
+<a href="/events/2023-philadelphia/dod-philly-sponsor-prospectus.pdf">A downloadable version of our prospectus is available here.</a>
+
 <hr>
 
 DevOpsDays Philadelphia is a self-organizing conference for practitioners that depends on sponsorships. We do not have
