@@ -1,4 +1,4 @@
-# DevOpsDays Chicago 2023 is finally here!
+# Important Information for DevOpsDays Chicago 2023 Attendees
 
 The conference starts Wednesday, August 9th and continues Thursday, August 10th. Registration, breakfast, and sponsor tables will be open daily at 8AM. The organizers are excited to welcome you! Here are a few details you’ll want to review before the event.
 

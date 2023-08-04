@@ -29,6 +29,7 @@ Thank you for sponsoring DevOpsDays Chicago 2023! The organizing committee is ex
 		* [Equipment Rental Form](#EquipmentRentalForm)
 * [Sponsor Pitch](#SponsorPitch)
 	* [Sponsor Pitch Schedule](#SponsorPitchSchedule)
+* [Thursday Afternoon Raffle](#ThursdayAfternoonRaffle)
 * [Evening Events](#EveningEvents)
 * [Other FAQs](#OtherFAQs)
 
@@ -308,6 +309,14 @@ Platinum sponsors may provide a slide deck which will be presented during their 
 |           |                    |                         |
 | Thursday  | 1:30 PM            | Sponsor giveaways       |
 <br><br>
+
+## <a name='ThursdayAfternoonRaffle'></a>Thursday Afternoon Raffle
+
+At 1:30 pm on Thursday we have time allotted for you to give away any raffle/prizes on stage in front of everyone! Please be lined up on the side of the stage starting at 1:20pm. To move things along please follow these guidelines:
+
+* You should already have the names of your winner(s) selected before coming on stage. If the person must be present to win, please have a few alternate names to go through if they aren’t here!
+* After announcing your winner(s), proceed to the other end of the stage where you can have a photo taken with your winner(s) alongside the DevOpsDays Yak mascot!
+
 ## <a name='EveningEvents'></a>Evening Events
 
 There is no official conference evening event; however, if you are planning to host a party or happy hour, etc after either day of the conference, please let us know the details! We will include this information in communications to attendees. Please send the details to chicago-sponsors@devopsdays.org
