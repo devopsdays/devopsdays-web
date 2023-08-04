@@ -5,6 +5,7 @@ Linkedin = "https://www.linkedin.com/in/noelleai/"
 image = "noelle-russell.jpg"
 type = "speaker"
 linktitle = "noelle-russell"
+website = "http://noellerussell.ai/"
 +++
 
 Noelle Russell is a globally recognized technologist, entrepreneur, and expert advisor on emerging technology, generative AI, and large language models. She currently serves as the Global AI Solutions Lead and the Global Industry Lead for Generative AI at Accenture.
