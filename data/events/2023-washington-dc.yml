@@ -36,7 +36,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 - name: propose
 - name: location
 - name: registration
- # - name: program
+- name: program
  # - name: speakers
 - name: sponsor
 - name: contact
@@ -202,9 +202,19 @@ organizer_email: "washington-dc@devopsdays.org" # Put your organizer email addre
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: launch-darkly
+    level: platinum
+  - id: datadog
+    level: platinum
+  - id: vmware-tanzu
+    level: platinum
+  - id: scout
+    level: gold
   - id: tremolo
     level: silver
   - id: raft
+    level: silver
+  - id: excella
     level: silver
   - id: kcddc
     level: community

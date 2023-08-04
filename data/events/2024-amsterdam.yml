@@ -39,7 +39,7 @@ masthead_background: "backdrop.png"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   # - name: propose
-  # - name: location
+  - name: location
   # - name: registration
   # - name: program
   # - name: speakers
@@ -52,11 +52,6 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
-  - name: "Harm Boertien"
-    linkedin: "https://www.linkedin.com/in/harmboertien/"
-    twitter: "Harm_Ops"
-    image: harm.jpeg
-
   - name: "Daniel Paulus"
     pronouns: "he/him"
     linkedin: "https://www.linkedin.com/in/danielpaulus/"
@@ -86,6 +81,12 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/josvanschouten/"
     twitter: "josvanschouten"
     image: "jos.png"
+
+  - name: "Suzanne Daniels"
+    pronouns: "she/her"
+    linkedin: "https://www.linkedin.com/in/suzannedaniels/"
+    twitter: "suushier"
+    image: "suus.jpg"
 
   - name: "Chris Lennon"
     pronouns: "he/him"
