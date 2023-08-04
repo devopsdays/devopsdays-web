@@ -71,14 +71,14 @@ Description = "Speakers, sessions, ignites, meals"
                         <td class="col-time">10:15 - 11:00</td>
                         <td>
                             <div class="col-lg-8">
-                                <a href="/events/2023-des-moines/speakers/micheal-feathers/">
-                                    <img class="img rounded-circle" src="/events/2023-des-moines/speakers/michael-feathers.png" height="60px"
+                                <a href="/events/2023-des-moines/speakers/matt-vincent/">
+                                    <img class="img rounded-circle" src="/events/2023-des-moines/speakers/matt-vincent.png" height="60px"
                                         width="60px" alt="">
                                 </a>
-                                <h4>Micheal Feathers</h4>
+                                <h4>Matt Vincent</h4>
                             </div>
                             <div class="col-lg-8">
-                                <a href="/events/2023-des-moines/program/michael-feathers/">DevOps, Development Cadence and the Product Life Cycle</a>
+                                <a href="/events/2023-des-moines/program/matt-vincent/">Avoiding the AI Abyss: Preserving Engineering Best Practices</a>
                             </div>
                         </td>
                         <td>

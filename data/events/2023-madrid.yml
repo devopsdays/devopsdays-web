@@ -35,7 +35,7 @@ location_address: "Av. de Montepríncipe, Km. 5, 300, 28668 Monteprincipe, Madri
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: registration
   - name: location
-#  - name: speakers
+  - name: speakers
 #  - name: program
   - name: sponsor
   - name: propose
@@ -111,6 +111,8 @@ sponsors:
  - id: autentia
    level: gold
  - id: str-sistemas
+   level: gold
+ - id: adaptavist
    level: gold
 # Bronze
  - id: speedyrails
