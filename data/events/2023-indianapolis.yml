@@ -75,6 +75,12 @@ team_members: # Name is the only required field for team members.
     twitter: "ikethedev"
     image: "ike-jones.jpg"
 
+  - name: "Melissa Thomas"
+    employer: "GitHub"
+    linkedin: "http://linkedin.com/in/melissa-harristhomas"
+    github: "melithom"
+    image: "melissa-thomas.png"
+
 organizer_email: "indianapolis@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
@@ -98,6 +104,8 @@ sponsors:
     level: community
   - id: e-gineering
     level: alacarte
+  - id: vmware-tanzu-2023
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -120,6 +128,16 @@ sponsor_levels:
     label: Community
 
 program:
+  - title: "Registration and Breakfast"
+    type: custom
+    date: 2023-10-05
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2023-10-05
+    start_time: "09:00"
+    end_time: "09:15"
   - title: "Preview of speakers - times will change"
     type: custom
     date: 2023-10-05
@@ -129,17 +147,182 @@ program:
     type: talk
     date: 2023-10-05
     start_time: "09:15"
-    end_time: "09:16"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2023-10-05
+    start_time: "09:45"
+    end_time: "09:55"
   - title: "jason-yee"
     type: talk
     date: 2023-10-05
-    start_time: "09:21"
-    end_time: "09:22"
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2023-10-05
+    start_time: "10:25"
+    end_time: "10:40"
+  - title: "rohit-mishra"
+    type: talk
+    date: 2023-10-05
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "sarah-morgan"
+    type: talk
+    date: 2023-10-05
+    start_time: "11:10"
+    end_time: "11:40"
+  - title: "Lunch"
+    type: custom
+    date: 2023-10-05
+    start_time: "11:40"
+    end_time: "12:50"
+  - title: "melissa-thomas"
+    type: talk
+    date: 2023-10-05
+    start_time: "12:50"
+    end_time: "13:20"
   - title: "Ignites"
     type: ignite
     date: 2023-10-05
-    start_time: "9:25"
+    start_time: "13:20"
     end_time: "13:50"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2023-10-05
+    start_time: "13:50"
+    end_time: "14:20"
+  - title: "Break"
+    type: custom
+    date: 2023-10-05
+    start_time: "14:20"
+    end_time: "14:30"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2023-10-05
+    start_time: "14:30"
+    end_time: "15:00"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2023-10-05
+    start_time: "15:05"
+    end_time: "15:35"
+  - title: "Break - Afternoon snack in Expo Hall"
+    type: custom
+    date: 2023-10-05
+    start_time: "15:35"
+    end_time: "16:15"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2023-10-05
+    start_time: "16:15"
+    end_time: "16:45"
+  - title: "Close Day"
+    type: custom
+    date: 2023-10-05
+    start_time: "16:45"
+    end_time: "17:00"
+  - title: "Fun Stuff Party Time"
+    type: custom
+    date: 2023-10-05
+    start_time: "18:00"
+    end_time: "late"
+  - title: "Registration and Breakfast"
+    type: custom
+    date: 2023-10-06
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2023-10-06
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "Preview of speakers - times will change"
+    type: custom
+    date: 2023-10-06
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "aaron-soellinger"
+    type: talk
+    date: 2023-10-06
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2023-10-06
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "robert-clawson"
+    type: talk
+    date: 2023-10-06
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2023-10-06
+    start_time: "10:25"
+    end_time: "10:40"
+  - title: "brian-sweeney"
+    type: talk
+    date: 2023-10-06
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "baruch-sadogursky"
+    type: talk
+    date: 2023-10-06
+    start_time: "11:10"
+    end_time: "11:40"
+  - title: "Lunch"
+    type: custom
+    date: 2023-10-06
+    start_time: "11:40"
+    end_time: "12:50"
+  - title: "kendra-ash"
+    type: talk
+    date: 2023-10-06
+    start_time: "12:50"
+    end_time: "13:20"
+  - title: "Ignites"
+    type: ignite
+    date: 2023-10-06
+    start_time: "13:20"
+    end_time: "13:50"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2023-10-06
+    start_time: "13:50"
+    end_time: "14:20"
+  - title: "Break"
+    type: custom
+    date: 2023-10-06
+    start_time: "14:20"
+    end_time: "14:30"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2023-10-06
+    start_time: "14:30"
+    end_time: "15:00"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2023-10-06
+    start_time: "15:05"
+    end_time: "15:35"
+  - title: "Break - Afternoon snack in Expo Hall"
+    type: custom
+    date: 2023-10-06
+    start_time: "15:35"
+    end_time: "16:15"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2023-10-06
+    start_time: "16:15"
+    end_time: "16:45"
+  - title: "Close Day"
+    type: custom
+    date: 2023-10-06
+    start_time: "16:45"
+    end_time: "17:00"
 ignites:
   - title: "jj-asghar-ignite"
     date: 2023-10-05
@@ -151,3 +334,11 @@ ignites:
     date: 2023-10-05
   - title: "greg-greenlee"
     date: 2023-10-05
+  - title: "trip-longworth"
+    date: 2023-10-06
+  - title: "mykel-alvis"
+    date: 2023-10-06
+  - title: "daniel-ward"
+    date: 2023-10-06
+  - title: "darren-mills"
+    date: 2023-10-06

@@ -24,7 +24,7 @@ registration_date_start: # start accepting registration. Leave blank if registra
 registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.sympla.com.br/evento/devopsdays-florianopolis-2023/2063939?_gl=1*1xtjeeu*_ga*Mjc4MTE1NTI5LjE2ODg2ODA4NTc.*_ga_KXH10SQTZF*MTY4OTAwODExNS4zLjEuMTY4OTAwOTI4NS4wLjAuMA&share_id=copiarlink" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -56,7 +56,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 team_members: # Name is the only required field for team members.
   - name: "Thalita Lanusse"
     twitter: "lanussemorais"
-    employer: "Itaú"
+    employer: "Nubank"
     linkedin: "https://www.linkedin.com/in/thalita-lanusse/"
     github: "lanussemorais"
     image: "thalita-lanusse.jpg"
@@ -100,6 +100,12 @@ organizer_email: "florianopolis@devopsdays.org"
 sponsors:
   - id: elastic
     level: platinum
+  - id: softplan
+    level: platinum
+  - id: avalia
+    level: platinum
+  - id: grafanabr
+    level: silver
     # - id: samplesponsorname
     #   level: gold
     #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.

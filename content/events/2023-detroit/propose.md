@@ -14,6 +14,8 @@ There are three ways to propose a topic at devopsdays:
   <li><strong><em>Open Space</em></strong>: If you'd like to lead a group discussion during the attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout sessions, it is not necessary to propose it ahead of time. Those topics are suggested in person at the conference. If you'd like to demo your product or service, you should <a href="../sponsor">sponsor the event</a> and demo it at your table.
 </ol>
 
+# [Submit your proposal!](https://sessionize.com/devopsdays-detroit-2023)
+
 <hr>
 
 Choosing talks is part art, part science; here are some factors we consider when trying to assemble the best possible program for our local audience:
@@ -27,9 +29,4 @@ Choosing talks is part art, part science; here are some factors we consider when
 
 <hr>
 
-<strong>How to submit a proposal:</strong> Send an email to [{{< email_organizers >}}] with the following information
-<ol>
-	<li>Type (presentation, panel discussion, ignite)</li>
-	<li>Proposal Title (can be changed later)</li>
-	<li>Description (several sentences explaining what attendees will learn)</li>
-</ol>
+# [Submit your proposal!](https://sessionize.com/devopsdays-detroit-2023)

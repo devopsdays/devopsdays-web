@@ -10,21 +10,21 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2023-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: 2023-10-30T00:00:00+02:00
-enddate:  2023-10-31T23:59:59+02:00
+startdate: 2023-10-29T00:00:00+02:00
+enddate:  2023-10-30T23:59:59+02:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2023-03-30T00:00:00+02:00
-cfp_date_end: 2023-05-31T23:59:59+02:00
+cfp_date_start: 2023-03-29T00:00:00+02:00
+cfp_date_end: 2023-05-30T23:59:59+02:00
 cfp_date_announce:  # inform proposers of status
 
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: 2023-07-10T00:00:00+02:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2023-10-31T12:00:00+02:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://tlvcommunity.dev/devopsdays#register" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -34,9 +34,10 @@ location: "Tel Aviv" # Defaults to city, but you can make it the venue name.
 location_address: "Expo Tel Aviv, Pavillion 10 (Bitan 10) - 101 Rokach Blvd, Tel Aviv" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+ # - name: propose
  # - name: location
- # - name: registration
+  - name: registration
+    url: "https://tlvcommunity.dev/devopsdays#register"
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -240,14 +241,38 @@ sponsors:
     level: gold
   - id: esl-cloudbees
     level: gold
+  - id: coralogix
+    level: gold
+  - id: directeam
+    level: gold
+  - id: appsflyer
+    level: gold
+  - id: coralogix
+    level: gold
+  - id: doit
+    level: gold
+  - id: jfrog
+    level: gold
+  - id: apono
+    level: gold
+  - id: spotinst
+    level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: velocitytech
+    level: community
+  - id: hetz
+    level: community
+  - id: aerospike
+    level: community
+  - id: tlvpartners
     level: community
   - id: statscraft
     level: community
   - id: opsschool
     level: community
   - id: barvazgumi
+    level: community
+  - id: devinterrupted
     level: community
   - id: cloudnativeil
     level: community
@@ -271,4 +296,4 @@ sponsor_levels:
 #  - id: bronze
 #    label: Bronze
   - id: community
-    label: Community
+    label: Community | Happy Hour | Swag | Food

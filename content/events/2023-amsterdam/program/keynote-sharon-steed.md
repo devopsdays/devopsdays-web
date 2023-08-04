@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Keynote - There are no soft skills: making empathy actionable"
 Type = "talk"
 Speakers = ["sharon-steed"]
+Youtube = "4uiAYsB_XdE"
 +++
 Communicating confidently and effectively; working collaboratively; solving complex problems; time management - all of these are considered soft skills, and none of them come naturally. Excelling at any of these "soft" skills could taking courses to learn more about the tools, asking a mentor to guide you when you feel overwhelmed, and engaging in a ton of trial and error when it matters the most.
 
