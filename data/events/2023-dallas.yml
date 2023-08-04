@@ -39,7 +39,7 @@ location_address: "2000 East Spring Creek Parkway, Plano, TX 75074" #Optional - 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
   - name: propose
-  #  - name: program
+  - name: program
   - name: registration
   - name: speakers
   - name: sponsor
@@ -279,197 +279,197 @@ sponsor_levels:
 program:
   - title: "Registration & Breakfast"
     type: custom
-    date: 2023-08-24
+    date: 2023-08-29
     start_time: "08:00"
     end_time: "08:45"
   - title: "Intro and Code of Conduct"
     type: custom
-    date: 2023-08-24
+    date: 2023-08-29
     start_time: "08:45"
     end_time: "09:00"
-  - title: "michael-cote"
+  - title: "anne-johnston"
     type: talk
-    date: 2023-08-24
+    date: 2023-08-29
     start_time: "09:00"
     end_time: "09:45"
-  - title: "thomas-j-sweet"
+  - title: "brad-taylor"
     type: talk
-    date: 2023-08-24
+    date: 2023-08-29
     start_time: "09:45"
     end_time: "10:15"
   - title: "Break"
     type: custom
-    date: 2023-08-24
+    date: 2023-08-29
     start_time: "10:15"
-    end_time: "10:25"
-  - title: "paul-grizzaffi"
+    end_time: "10:30"
+  - title: "paula-lipnick"
     type: talk
-    date: 2023-08-24
-    start_time: "10:25"
-    end_time: "10:55"
+    date: 2023-08-29
+    start_time: "10:30"
+    end_time: "11:00"
   - title: "Sponsors"
     type: custom
-    date: 2023-08-24
-    start_time: "10:55"
+    date: 2023-08-29
+    start_time: "11:00"
     end_time: "11:30"
-  - title: "chris-koehnecke"
-    type: talk
-    date: 2023-08-24
+  - title: "TBD"
+    type: custom
+    date: 2023-08-29
     start_time: "11:30"
     end_time: "12:00"
   - title: "Lunch (catered) | Open Space - Overview"
     type: custom
-    date: 2023-08-24
+    date: 2023-08-29
     start_time: "12:00"
     end_time: "12:45"
-  - title: "ana-medina"
+  - title: "farrah-campbell"
     type: talk
-    date: 2023-08-24
+    date: 2023-08-29
     start_time: "12:45"
     end_time: "13:30"
   - title: "Sponsors"
     type: custom
-    date: 2023-08-24
+    date: 2023-08-29
     start_time: "13:30"
     end_time: "13:50"
-  - title: "jessica-clark"
+  - title: "lee-barnes"
     type: talk
-    date: 2023-08-24
+    date: 2023-08-29
     start_time: "13:50"
     end_time: "14:20"
   - title: "Open Space - Topic Proposals & Selection"
     type: open-space
-    date: 2023-08-24
+    date: 2023-08-29
     start_time: "14:20"
     end_time: "14:30"
   - title: "Open Space Day 1"
     type: open-space
-    date: 2023-08-24
+    date: 2023-08-29
     start_time: "14:30"
     end_time: "15:15"
   - title: "Break"
     type: custom
-    date: 2023-08-24
+    date: 2023-08-29
     start_time: "15:15"
     end_time: "15:30"
-  - title: "matthew-brahms"
+  - title: "tonya-guadiz"
     type: talk
-    date: 2023-08-24
+    date: 2023-08-29
     start_time: "15:30"
     end_time: "16:15"
-  - title: "Show & Tell what will be raffled on the 25th"
+  - title: "Show & Tell what will be raffled on the 30th"
     type: custom
-    date: 2023-08-24
+    date: 2023-08-29
     start_time: "16:15"
     end_time: "16:20"
   - title: "Close Day & Logistics"
     type: custom
-    date: 2023-08-24
+    date: 2023-08-29
     start_time: "16:20"
     end_time: "16:30"
   - title: "Social Networking - Happy Hour"
     type: custom
-    date: 2023-08-24
+    date: 2023-08-29
     start_time: "16:30"
     end_time: "19:00"
 
   - title: "Registration & Breakfast"
     type: custom
-    date: 2023-08-25
+    date: 2023-08-30
     start_time: "08:00"
     end_time: "08:45"
   - title: "Welcome"
     type: custom
-    date: 2023-08-25
+    date: 2023-08-30
     start_time: "08:45"
     end_time: "09:00"
-  - title: "andrew-john-talk"
+  - title: "noelle-russell"
     type: talk
-    date: 2023-08-25
+    date: 2023-08-30
     start_time: "09:00"
     end_time: "09:45"
-  - title: "nigel-thurlow"
+  - title: "seth-eliot"
     type: talk
-    date: 2023-08-25
+    date: 2023-08-30
     start_time: "09:45"
     end_time: "10:15"
   - title: "Break"
     type: custom
-    date: 2023-08-25
+    date: 2023-08-30
     start_time: "10:15"
     end_time: "10:30"
-  - title: "damien-burks"
+  - title: "don-mike"
     type: talk
-    date: 2023-08-25
+    date: 2023-08-30
     start_time: "10:30"
     end_time: "11:00"
   - title: "Sponsors"
     type: custom
-    date: 2023-08-25
+    date: 2023-08-30
     start_time: "11:00"
     end_time: "11:30"
   - title: "Ignite Talks"
     type: ignite
-    date: 2023-08-25
+    date: 2023-08-30
     start_time: "11:30"
     end_time: "12:00"
   - title: "Lunch (catered) | Open Space - Overview"
     type: custom
-    date: 2023-08-25
+    date: 2023-08-30
     start_time: "12:00"
     end_time: "12:45"
-  - title: "patrick-debois"
+  - title: "topo-pal"
     type: talk
-    date: 2023-08-25
+    date: 2023-08-30
     start_time: "12:45"
     end_time: "13:30"
   - title: "Open Space - Topic Proposals & Selection"
     type: open-space
-    date: 2023-08-25
+    date: 2023-08-30
     start_time: "13:30"
     end_time: "13:45"
-  - title: "keri-melich"
+  - title: "ben-burbank"
     type: talk
-    date: 2023-08-25
+    date: 2023-08-30
     start_time: "13:45"
     end_time: "14:30"
   - title: "Break"
     type: custom
-    date: 2023-08-25
+    date: 2023-08-30
     start_time: "14:30"
     end_time: "14:45"
   - title: "Open Space Day 2"
     type: open-space
-    date: 2023-08-25
+    date: 2023-08-30
     start_time: "14:45"
     end_time: "15:30"
-  - title: "SPEAKER DISCUSSION PANEL (Click here for video)"
+  - title: "SPEAKER DISCUSSION PANEL"
     type: custom
-    date: 2023-08-25
+    date: 2023-08-30
     start_time: "15:30"
     end_time: "16:15"
-    custom_url: "https://youtu.be/CDbYfRHfp3U"
+    # custom_url: "https://youtu.be/CDbYfRHfp3U"
   - title: "Organizers Recognition"
     type: custom
-    date: 2023-08-25
+    date: 2023-08-30
     start_time: "16:15"
     end_time: "16:20"
   - title: "Closing, Raffle Giveaway & Farewell"
     type: custom
-    date: 2023-08-25
+    date: 2023-08-30
     start_time: "16:20"
     end_time: "17:00"
 
 ignites:
   #  - title: "ignite-talks"
-  #    date: 2023-08-25
-  - title: "christa-meck"
-    date: 2023-08-25
+  #    date: 2023-08-30
+  - title: "karl-katzke"
+    date: 2023-08-30
   - title: "james-thomas"
-    date: 2023-08-25
-  - title: "monica-miller"
-    date: 2023-08-25
-  - title: "eric-smalling"
-    date: 2023-08-25
-  - title: "tim-davis"
-    date: 2023-08-25
+    date: 2023-08-30
+  - title: "aly-ibrahim"
+    date: 2023-08-30
+  - title: "john-paul-herold"
+    date: 2023-08-30
+  - title: "laura-santamaria"
+    date: 2023-08-30
