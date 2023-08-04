@@ -87,8 +87,8 @@ attendees as peers. Any attendee also has the opportunity to demo products/proje
             <br>Any additional desired tickets beyondthe included tickets must be purchased.
         </td>
         <td>4</td>
-        <td>2</td>
-        <td>1</td>
+        <td>4</td>
+        <td>3</td>
     </tr>
     <tr>
         <td>Full table</td>
