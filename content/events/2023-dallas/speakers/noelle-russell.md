@@ -7,6 +7,8 @@ type = "speaker"
 linktitle = "noelle-russell"
 +++
 
-Noelle Russell is a multi-award-winning technologist with an entrepreneurial spirit who specializes in helping companies with emerging technology, cloud, AI and Web 3.0. She has led teams at NPR, Microsoft, IBM, AWS and Amazon Alexa, and is a consistent champion for Data and AI literacy.
+Noelle Russell is a globally recognized technologist, entrepreneur, and expert advisor on emerging technology, generative AI, and large language models. She currently serves as the Global AI Solutions Lead and the Global Industry Lead for Generative AI at Accenture.
 
-In the last year, she was awarded the Microsoft Most Valuable Professional (MVP) award for Artificial Intelligence (for the 2nd year) as well as VentureBeat’s Women in AI Responsibility and Ethics award. 
+Noelle has held significant leadership roles at major companies including NPR, Microsoft, IBM, and Amazon Alexa. She is renowned for her proactive advocacy for AI literacy and ethical AI use, influenced by her experiences in building some of the world’s largest AI models.
+
+As the founder of the AI Leadership Institute, she continues her commitment to drive innovation and knowledge in the AI sphere. Her influential contributions have earned her prestigious awards including the Microsoft Most Valuable Professional award for Artificial Intelligence and VentureBeat’s Women in AI Responsibility and Ethics award.
