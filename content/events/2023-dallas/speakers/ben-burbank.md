@@ -2,7 +2,7 @@
 Title = "Ben Burbank"
 image = "ben-burbank.jpg"
 type = "speaker"
-linktitle = "ben-burbank"
+linktitle = "ben-tim"
 linkedin = "https://www.linkedin.com/in/benburbank/"
 twitter = "benburbank"
 +++
