@@ -45,6 +45,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: sponsor
   - name: contact
   - name: conduct
+  - name: Donate
+    url: https://www.devopsdays.com.ua/charity
   - name: devopsdays.com.ua
     url: https://devopsdays.com.ua/
 # - name: example
