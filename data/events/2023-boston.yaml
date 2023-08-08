@@ -87,6 +87,8 @@ sponsors:
     level: platinum
   - id: wescaleout
     level: captioning
+  - id: endorlabs
+    level: startupalley
 
 sponsors_accepted : "yes"
 
@@ -226,8 +228,8 @@ program:
     date: 2023-10-17
     start_time: "11:10"
     end_time: "11:45"
-  - title: "Coming Soon!"
-    type: custom
+  - title: "neil-davies"
+    type: talk
     date: 2023-10-17
     start_time: "11:45"
     end_time: "12:20"
