@@ -11,7 +11,7 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 # Note: we allow 2023-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
 startdate: 2023-08-08T00:00:00-05:00
-enddate: 2023-08-08T00:00:00-05:00
+enddate: 2023-08-08T20:00:00-05:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2023-01-09T00:00:00-05:00 # start accepting talk proposals.
@@ -23,7 +23,7 @@ cfp_link: "https://organizers-summit-proposals.devopsdays.org/organizers-summit-
 registration_date_start: 2023-02-07T00:00:00-05:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 registration_date_end: 2023-08-09T00:00:00-05:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
-registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_closed: "true" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
@@ -37,7 +37,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: propose
   #  url: https://organizers-summit-proposals.devopsdays.org/organizers-summit-2023/cfp
   - name: location
-  - name: registration
+  #- name: registration
   - name: program
  # - name: speakers
  # - name: sponsor
@@ -286,16 +286,11 @@ program:
     date: 2023-08-08T00:00:00-05:00
     start_time: "16:30"
     end_time: "17:00"
-  - title: "Community Recognitions"
-    type: custom
-    date: 2023-08-08T00:00:00-05:00
-    start_time: "17:10"
-    end_time: "17:30"
   - title: "Closing Words"
     type: custom
     date: 2023-08-08T00:00:00-05:00
-    start_time: "17:40"
-    end_time: "17:50"
+    start_time: "17:10"
+    end_time: "17:20"
   - title: "Evening Event"
     type: custom
     date: 2023-08-08T00:00:00-05:00
