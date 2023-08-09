@@ -96,13 +96,16 @@ sponsors:
     level: gold
   - id: coralogix
     level: gold
+  - id: elastic
+    level: gold
   # silver sponsors
-  #- id: checkmarx
   - id: mkdev
     level: silver
   - id: doit
     level: silver
   - id: checkly
+    level: silver
+  - id: gitea
     level: silver
   # bronze sponsors
   - id: dxw

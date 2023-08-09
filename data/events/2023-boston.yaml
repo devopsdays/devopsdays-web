@@ -30,6 +30,8 @@ nav_elements:
   - name: registration
   - name: speakers
   - name: sponsor
+  - name: Health and Safety
+    url: /events/2023-boston/health-and-safety
 
 team_members:
   - name: "Michael Thomas Clark"
