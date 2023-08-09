@@ -69,7 +69,7 @@ Description = "Sponsor DevOpsDays Vilnius 2023"
                             <center>2/5</center>
                         </td>
                         <td>
-                            <center>5/7</center>
+                            <center>4/7</center>
                         </td>
                     </tr>
                     <tr>
