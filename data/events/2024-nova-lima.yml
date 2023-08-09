@@ -56,20 +56,27 @@ team_members: # Name is the only required field for team members.
   - name: "Arthur Gomes"
     employer: "Consultor DevOps na Arkhi Business Agility"
     linkedin: "https://www.linkedin.com/in/arthur-faria-97b676144/"
-    bio: "Consultor sênior de DevOps em horário comercial, Barista amador em horário de lazer, e eterno estudante de Engenharia de Sistemas na UFMG nos intervalos! Com uma grande paixão por otimizar o tempo e uma predileção pelo universo DevOps (tanto a cultura quanto as ferramentas), eu vivo pelo lema: 'Se é preciso fazer mais de uma vez, é melhor automatizar'"
+    bio: "Consultor sênior de DevOps em horário comercial, Barista amador em horário de lazer, e eterno estudante de Engenharia de Sistemas na UFMG nos intervalos! Com uma grande paixão por otimizar o tempo e uma predileção pelo universo DevOps (tanto a cultura quanto as ferramentas), eu vivo pelo lema: 'Se é preciso fazer mais de uma vez, é melhor automatizar' <br> <br>"
     image: "arthur.jpeg" 
 
   - name: "Paloma Lataliza"
     employer: "Cloud Engineer at Claro Brasil"
     twitter: "shescloud_"
-    bio: "Apaixonada por tecnologia, entusiasta em cloud, fã de cavaleiros do zodíaco e que ama compartilhar conhecimento. Graduada em Ciência da Computação pela Universidade FUMEC e pós graduanda em Cloud Computing pela PUC Minas. Sou uma AWS Community Builder, umas das Líderes do AWS User Group MG e Co-Fundadora do Mulheres na Nuvem MG."
+    bio: "Apaixonada por tecnologia, entusiasta em cloud, fã de cavaleiros do zodíaco e que ama compartilhar conhecimento. Graduada em Ciência da Computação pela Universidade FUMEC e pós graduanda em Cloud Computing pela PUC Minas. Sou uma AWS Community Builder, umas das Líderes do AWS User Group MG e Co-Fundadora do Mulheres na Nuvem MG.<br> <br>"
     image: "paloma.jpg" 
 
   - name: "Victor Parreira"
     employer: "Infrastructure Analyst at Quality Digital"
     linkedin: "https://www.linkedin.com/in/victorparreira/"
-    bio: "Um cara de humanas que descobriu em tech sua maior paixão. Gosto de misturar tudo aquilo que aprendi na minha carreira até agora para trazer uma nova visão sobre o mundo de cloud e suas ferramentas.  <br> <br> <br> <br> <br>"
+    bio: "Um cara de humanas que descobriu em tech sua maior paixão. Gosto de misturar tudo aquilo que aprendi na minha carreira até agora para trazer uma nova visão sobre o mundo de cloud e suas ferramentas.  <br> <br> <br> <br> <br> <br>"
     image: "victor.jpg" 
+    
+  - name: "Rafaela Vidotti"
+    employer: "Infrastructure Analyst at Hotmart"
+    linkedin: "https://www.linkedin.com/in/rafaela-vidotti-5741ba111/"
+    bio: "Apaixonada por sair dos padrões e conquistar tudo que diziam improváveos para as mulheres, ama uma rede social, e não tem medo de ser a blogueirinha dançando no Tiktok. Graduada em Redes de Computadores na Fumec, cursando MBA em Cloud Computing na XPE Educação. Recem chegada no mundo das comunidades como Líder na AWS User Group MG e Co-Fundadora do Mulheres na Nuvem MG."
+    image: "rafa.jpeg" 
+  
 
 organizer_email: "devopsdaysnovalima@gmail.com" # Put your organizer email address here
 

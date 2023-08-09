@@ -8,59 +8,236 @@ Valorizamos muito os patrocinadores para este evento aberto. Se você estiver in
 
 <hr>
 
-devopsdays é uma conferência auto-organizada para praticantes que depende de patrocínios. Não temos estandes de fornecedores, não vendemos apresentações de produtos nem distribuímos listas de contatos de participantes. Os patrocinadores têm a oportunidade de fazer apresentações curtas durante o programa e obterão reconhecimento no site e nas mídias sociais antes, durante e depois do evento. Os patrocinadores são incentivados a se representar participando ativamente e se envolvendo com os participantes como colegas. Qualquer participante também tem a oportunidade de demonstrar produtos/projetos como parte de uma sessão open space.
-<!-- <p>
-Gold sponsors get a full table and Silver sponsors a shared table where they can interact with those interested to come visit during breaks. All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
+<hr>
+<div>
+<h2>[PT-BR] Proposta de Apoio</h2>
 <p>
-The best thing to do is send engineers to interact with the experts at devopsdays on their own terms.
-<p> -->
-
-<!--
-<hr/>
-
-<div style="width:590px">
-<table border=1 cellspacing=1>
-  <tr>
-    <th><i>packages</i></th>
-    <th><center><b><u>Bronze<br />1000 usd</u></center></b></th>
-    <th><center><b><u>Silver<br />3000 usd</u></center></b></th>
-    <th><center><b><u>Gold<br />5000 usd</u></center></b></th>
-    <th></th>
-  </tr>
-<tr><td>2 included tickets</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on event website</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on shared slide, rotating during breaks</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on all email communication</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on its own slide, rotating during breaks</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>1 minute pitch to full audience (including streaming audience)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr></tr>
-<tr><td>2 additional tickets (4 in total)</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td>4 additional tickets (6 in total)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>shared table for swag</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td>booth/table space</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-</table>
-<hr/>
-There are also opportunities for exclusive special sponsorships. We'll have sponsors for various events with special privileges for the sponsors of these events. If you are interested in special sponsorships or have a creative idea about how you can support the event, send us an email.
-<br/>
-<br/>
-
+Os nossos parceiros são encorajados a assumirem uma postura de participação ativa, se engajarem com os participantes e a sugerirem temas para os open spaces, sessões auto-organizadas abertas para discussões revelantes. <strong>Queremos que nossos parceiros se envolvam no evento!</strong>
+</p>
+<p>
+Entendemos que uma maior quantidade de parceirias é benéfica para o evento, proporcionando uma ótima oportunidade para "mergulhar" mais fundo no mundo DevOps, assim como fazer networking e afins, por conta disso optamos por trabalhar com cotas com valores mais acessíveis para esse evento.
+</p>
+<p>
+Visando valorizar a participação de instituições na realização do evento, foram organizados grupos de parcerias. Cada grupo proporciona uma série de vantagens aos parceiros oficiais, com os requisitos definidos e a contrapartida correspondente, conforme demonstado na tabela abaixo.
+</p>
+</div>
 <br>
-<br>
-<table border=1 cellspacing=1>
-  <tr>
-    <th><i>Sponsor FAQ</i></th>
-    <th><center><b>Answers to questions frequently asked by sponsors&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</center></b></th>
-    <th></th>
-  </tr>
-<tr><td>What dates/times can we set up and tear down?</td><td></td></tr>
-<tr><td>How do we ship to the venue?</td><td></td></tr>
-<tr><td>How do we ship from the venue?</td><td></td></tr>
-<tr><td>Whom should we send?</td><td></td></tr>
-<tr><td>What should we expect regarding electricity? (how much, any fees, etc)</td><td></td></tr>
-<tr><td>What should we expect regarding WiFi? (how much, any fees, etc)</td><td></td></tr>
-<tr><td>How do we order additional A/V equipment?</td><td></td></tr>
-<tr><td>Additional important details</td><td></td></tr>
-</table>
+
+<div class="table-responsive text-center">
+
+  <table class="table table-bordered table-hover table-responsive-md">
+    <thead class="thead-light">
+      <th>BENEFÍCIOS</th>
+        <th>BRONZE</th>
+        <th>PRATA</th>
+        <th>OURO</th>
+        <th>PLATINA</th>
+    </thead>
+    <tr>
+      <td>Vídeo Institucional (30 segundos)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Logo nos cordões de crachá</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Balcão promocional</td>
+      <td></td>
+      <td></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Logo no fundo de palco</td>
+      <td></td>
+      <td></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Logo nos materiais de marketing</td>
+      <td></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Distribuição de brindes nas pastas dos participantes</td>
+      <td></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Ação de marketing nas redes sociais</td>
+      <td></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Destaque nos banners físicos</td>
+      <td></td>
+      <td>Tamanho ½U</td>
+      <td>Tamanho ¾U</td>
+      <td>Tamanho 1U</td>
+    </tr>
+    <tr>
+      <td>Logo no site do evento/releases</td> 
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Divulgação nas redes sociais</td> 
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Inscrições para o evento*</td>
+      <td>2</td>
+      <td>4</td>
+      <td>6</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td><b>Contribuição</b></td>
+      <td><b>R$ 3.500,00</b></td>
+      <td><b>R$ 5.500,00</b></td>
+      <td><b>R$ 8.000,00</b></td>
+      <td><b>R$ 11.500,00</b></td>
+    </tr>
+  </table>
+</div>
+<div>
+  <p><strong>COMUNIDADE:</strong> Apoiadores que contribuiram com algum beneficio para o público ou quantia de
+  até R$ 2.000,00 terão direito à divulgação nas redes sociais e 1 inscrição para o evento.</p>
+    <p style="font-size:18px">Veja mais e nosso mídia kit no documento completo clicando <a href="https://docs.google.com/presentation/d/1iaO7P6ZtFT9fipjGFI5kAmy8Ov2tAlxMh-5e7E96Z5s/edit#slide=id.g1348ef322d5_0_183"><i class="fa fa-download" style="font-size:30px"></i></a></p>
 </div>
 
--->
-<hr/>
+
+
+<!--EN-->
+<div>
+<h2>[EN] Sponsorship Proposal</h2>
+<p>
+Our partners are encouraged to take an active participation, to engage with participants and to suggest themes for open spaces, which are self-organized sessions open to meaninful discussions. <strong>We want our partners to get involved in the event!</strong>
+</p>
+<p>
+We understand that a greater number of partnerships is beneficial to the event, providing a great opportunity to deep-dive in the DevOps world, to have a better networking and so on and so forth, so we chose to work at quotas with more accessible values for this event.
+</p>
+<p>
+Aiming to enhance the participation of institutions in the event, we organized partnership groups. Each one provides a set of benefits to official partners, according to established requirements meeting the corresponding counterpart defined as shown in the table bellow.
+</p>
+</div>
+<div class="table-responsive text-center">
+
+  <table class="table table-bordered table-hover table-responsive-md">
+    <thead class="thead-light">
+      <th>BENEFITS</th>
+        <th>BRONZE</th>
+        <th>SILVER</th>
+        <th>GOLD</th>
+        <th>PLATINUM</th>
+    </thead>
+    <tr>
+      <td>Institutional Video (30 seconds)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Logo on badge lanyards</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Promotional booth</td>
+      <td></td>
+      <td></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Logo on stage</td>
+      <td></td>
+      <td></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Logo on marketing materials</td>
+      <td></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Swags distributed inside the participant's folders</td>
+      <td></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Social media action</td>
+      <td></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Featured physical banners</td>
+      <td></td>
+      <td>Size ½U</td>
+      <td>Size ¾U</td>
+      <td>Size 1U</td>
+    </tr>
+    <tr>
+      <td>Logo on the event/releases</td> 
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Social media release</td> 
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Tickets*</td>
+      <td>2</td>
+      <td>4</td>
+      <td>6</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td><b>Contribution</b></td>
+      <td><b>US$ 750.00</b></td>
+      <td><b>US$ 1,200.00</b></td>
+      <td><b>US$ 1,700.00</b></td>
+      <td><b>US$ 2,250.00</b></td>
+    </tr>
+  </table>
+</div>
+<div>
+<p><strong>COMMUNITY:</strong> Supporters who have contributed some benefit to the public or amount of
+up to US$ 200,00 receive the right to be publicized on social media and 1 registration for the event.</p>
+    <p style="font-size:18px">You can check more about sponsorship and the benefits here <a href="https://docs.google.com/presentation/d/1gQ-qrxTNvyIj17JbJdchdbCc9DT6_vtt7ioivHAui5I/edit?usp=sharing"><i class="fa fa-download" style="font-size:30px"></i></a></p>
+</div>
