@@ -24,9 +24,9 @@ The best thing to do is send engineers to interact with the experts at devopsday
 <table border=1 cellspacing=1>
   <tr>
     <th>Packages</th>
-    <th><center><b><u>Silver<br />1000 EUR</u></center></b></th>
-    <th><center><b><u>Gold<br />3000 EUR</u></center></b></th>
-    <th><center><b><u>Platinum<br />5000 EUR</u></center></b></th>
+    <th><center><b><u>Silver<br />1500 EUR</u></center></b></th>
+    <th><center><b><u>Gold<br />3500 EUR</u></center></b></th>
+    <th><center><b><u>Platinum<br />6500 EUR</u></center></b></th>
   </tr>
 <tr><td>2 included tickets</td><td bgcolor="#1581AB"">&nbsp;</td><td bgcolor="#1581AB"">&nbsp;</td><td bgcolor="#1581AB"">&nbsp;</td></tr>
 <tr><td>logo on event website</td><td bgcolor="#1581AB"">&nbsp;</td><td bgcolor="#1581AB"">&nbsp;</td><td bgcolor="#1581AB"">&nbsp;</td></tr>
