@@ -107,6 +107,8 @@ sponsors:
     level: silver
   - id: gitea
     level: silver
+  - id: pulumi
+    level: silver
   # bronze sponsors
   - id: dxw
     level: bronze
