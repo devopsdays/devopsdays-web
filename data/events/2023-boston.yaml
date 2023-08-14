@@ -91,6 +91,8 @@ sponsors:
     level: captioning
   - id: endorlabs
     level: startupalley
+  - id: squaredup
+    level: platinum
 
 sponsors_accepted : "yes"
 
@@ -127,6 +129,11 @@ program:
     type: talk
     date: 2023-10-16
     start_time: "10:20"
+    end_time: "10:55"
+  - title: "talia-nassi"
+    type: workshop
+    date: 2023-10-16
+    start_time: "9:45"
     end_time: "10:55"
   - title: "Break"
     type: custom
@@ -215,7 +222,17 @@ program:
     date: 2023-10-17
     start_time: "9:45"
     end_time: "10:20"
+  - title: "matt-surabian"
+    type: talk
+    date: 2023-10-17
+    start_time: "9:45"
+    end_time: "10:20"
   - title: "jeff-brainerd"
+    type: talk
+    date: 2023-10-17
+    start_time: "10:20"
+    end_time: "10:55"
+  - title: "kyle-benson"
     type: talk
     date: 2023-10-17
     start_time: "10:20"
