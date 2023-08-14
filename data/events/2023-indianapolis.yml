@@ -142,12 +142,7 @@ program:
     date: 2023-10-05
     start_time: "09:00"
     end_time: "09:15"
-  - title: "Preview of speakers - times will change"
-    type: custom
-    date: 2023-10-05
-    start_time: "09:00"
-    end_time: "09:15"
-  - title: "jj-asghar"
+  - title: "jason-yee"
     type: talk
     date: 2023-10-05
     start_time: "09:15"
@@ -157,7 +152,7 @@ program:
     date: 2023-10-05
     start_time: "09:45"
     end_time: "09:55"
-  - title: "jason-yee"
+  - title: "jj-asghar"
     type: talk
     date: 2023-10-05
     start_time: "09:55"
@@ -167,12 +162,12 @@ program:
     date: 2023-10-05
     start_time: "10:25"
     end_time: "10:40"
-  - title: "rohit-mishra"
+  - title: "melissa-thomas"
     type: talk
     date: 2023-10-05
     start_time: "10:40"
     end_time: "11:10"
-  - title: "sarah-morgan"
+  - title: "brian-sweeney"
     type: talk
     date: 2023-10-05
     start_time: "11:10"
@@ -182,7 +177,7 @@ program:
     date: 2023-10-05
     start_time: "11:40"
     end_time: "12:50"
-  - title: "melissa-thomas"
+  - title: "aaron-soellinger"
     type: talk
     date: 2023-10-05
     start_time: "12:50"
@@ -242,12 +237,7 @@ program:
     date: 2023-10-06
     start_time: "09:00"
     end_time: "09:15"
-  - title: "Preview of speakers - times will change"
-    type: custom
-    date: 2023-10-06
-    start_time: "09:00"
-    end_time: "09:15"
-  - title: "aaron-soellinger"
+  - title: "baruch-sadogursky"
     type: talk
     date: 2023-10-06
     start_time: "09:15"
@@ -257,7 +247,7 @@ program:
     date: 2023-10-06
     start_time: "09:45"
     end_time: "09:55"
-  - title: "robert-clawson"
+  - title: "kendra-ash"
     type: talk
     date: 2023-10-06
     start_time: "09:55"
@@ -267,12 +257,12 @@ program:
     date: 2023-10-06
     start_time: "10:25"
     end_time: "10:40"
-  - title: "brian-sweeney"
+  - title: "rohit-mishra"
     type: talk
     date: 2023-10-06
     start_time: "10:40"
     end_time: "11:10"
-  - title: "baruch-sadogursky"
+  - title: "robert-clawson"
     type: talk
     date: 2023-10-06
     start_time: "11:10"
@@ -282,7 +272,7 @@ program:
     date: 2023-10-06
     start_time: "11:40"
     end_time: "12:50"
-  - title: "kendra-ash"
+  - title: "sarah-morgan"
     type: talk
     date: 2023-10-06
     start_time: "12:50"
