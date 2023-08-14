@@ -222,10 +222,10 @@ program:
     date: 2023-10-05
     start_time: "16:45"
     end_time: "17:00"
-  - title: "Fun Stuff Party Time"
+  - title: "After Party at Silo Auto Club"
     type: custom
     date: 2023-10-05
-    start_time: "18:00"
+    start_time: "17:15"
     end_time: "late"
   - title: "Registration and Breakfast"
     type: custom
@@ -318,21 +318,21 @@ program:
     start_time: "16:45"
     end_time: "17:00"
 ignites:
+  - title: "mykel-alvis"
+    date: 2023-10-05
   - title: "jj-asghar-ignite"
     date: 2023-10-05
-  - title: "dwayne-mcdaniel"
+  - title: "daniel-ward"
     date: 2023-10-05
-  - title: "ed-legault"
-    date: 2023-10-05
-  - title: "jon-fazzaro"
-    date: 2023-10-05
-  - title: "greg-greenlee"
+  - title: "darren-mills"
     date: 2023-10-05
   - title: "trip-longworth"
+    date: 2023-10-05
+  - title: "ed-legault"
     date: 2023-10-06
-  - title: "mykel-alvis"
+  - title: "dwayne-mcdaniel"
     date: 2023-10-06
-  - title: "daniel-ward"
+  - title: "jon-fazzaro"
     date: 2023-10-06
-  - title: "darren-mills"
+  - title: "greg-greenlee"
     date: 2023-10-06
