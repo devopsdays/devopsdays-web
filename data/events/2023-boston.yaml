@@ -230,6 +230,11 @@ program:
     date: 2023-10-17
     start_time: "10:20"
     end_time: "10:55"
+  - title: "kyle-benson"
+    type: talk
+    date: 2023-10-17
+    start_time: "10:20"
+    end_time: "10:55"
   - title: "Break"
     type: custom
     date: 2023-10-17
