@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "utus and Tech: A Ballet-Inspired Guide to Distributed Computing"
+Title = "Tutus and Tech: A Ballet-Inspired Guide to Distributed Computing"
 Type = "talk"
 Speakers = ["rain-leander"]
 +++
