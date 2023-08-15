@@ -4,6 +4,7 @@ Type = "event"
 Description = "Sponsor DevOpsDays Los Angeles 2024"
 +++
 <br>
+<hr>
 <h3>Become A Sponsor</h3>
 
 <p>
@@ -42,3 +43,4 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
 
 <hr/> -->
 
+<hr>
