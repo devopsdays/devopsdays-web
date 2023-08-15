@@ -249,11 +249,11 @@ Description = "Speakers, sessions, ignites, meals"
                                 <h4>Bex Streeper</h4>
                             </div>
                             <div class="col-lg-8">
-                                <a href="/events/2023-des-moines/speakers/pallavi-dulles/">
-                                    <img class="img rounded-circle" src="/events/2023-des-moines/speakers/pallavi-dulles.png" height="60px"
+                                <a href="/events/2023-des-moines/speakers/pallavi-dukle/">
+                                    <img class="img rounded-circle" src="/events/2023-des-moines/speakers/pallavi-dukle.png" height="60px"
                                         width="60px" alt="">
                                 </a>
-                                <h4>Pallavi Dulles</h4>
+                                <h4>Pallavi Dukle</h4>
                             </div>
                             <div class="col-lg-8">
                                 <a href="/events/2023-des-moines/program/amy-lindberg">Panel: The Value of Diversity in Tech</a>
