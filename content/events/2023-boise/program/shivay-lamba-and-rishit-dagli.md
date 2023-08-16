@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Effective Observability for MLOps Pipelines at Scale "
 Type = "talk"
-Speakers = ["shivay-lamba"]
+Speakers = ["shivay-lamba", "rishit-dagli"]
 +++
 
 With the advent of LLMs, deployment, and monitoring of such models is paramount. This talk gives an intro about how ML deployments should be monitored.
