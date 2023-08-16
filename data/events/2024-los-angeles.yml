@@ -44,7 +44,9 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   # - name: CFP
   #   url: https://www.socallinuxexpo.org/scale/21x/cfp
   # - name: program
-  # - name: speakers  
+  # - name: speakers
+  - name: propose
+  - name: registration
   - name: volunteer
   - name: sponsor
   - name: contact
