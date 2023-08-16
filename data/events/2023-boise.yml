@@ -63,6 +63,14 @@ organizer_email: "boise@devopsdays.org"
 sponsors:
   - id: 2023-intimetec
     level: platinum
+  - id: devopsdays-austin
+    level: bronze
+  - id: devopsdays-denver
+    level: bronze
+  - id: devopsdays-nyc
+    level: bronze
+  - id: devopsdays-seattle
+    level: bronze
   - id: fastly
     level: gold
   - id: idahotechcouncil
