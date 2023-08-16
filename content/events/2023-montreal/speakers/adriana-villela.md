@@ -1,6 +1,7 @@
 +++
 Title = "Adriana Villela"
 Twitter = "adrianamvillela"
+linkedin = "https://www.linkedin.com/in/adrianavillela/"
 image = "adriana-villela.png"
 type = "speaker"
 linktitle = "adriana-villela"

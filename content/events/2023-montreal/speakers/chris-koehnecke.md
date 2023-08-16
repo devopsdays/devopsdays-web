@@ -1,6 +1,7 @@
 +++
 Title = "Chris Koehnecke"
 Twitter = "chriskoehnecke"
+linkedin = "https://www.linkedin.com/in/chris-koehnecke-3619333/"
 image = "chris-koehnecke.jpeg"
 type = "speaker"
 linktitle = "chris-koehnecke"

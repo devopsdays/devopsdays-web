@@ -1,6 +1,7 @@
 +++
 Title = "Alexis de Talhouët"
 Twitter = "adetalhouet"
+linkedin = "https://www.linkedin.com/in/adetalhouet/"
 image = "alexis-de-talhouet.png"
 type = "speaker"
 linktitle = "alexis-de-talhout"

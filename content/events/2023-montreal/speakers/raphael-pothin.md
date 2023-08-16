@@ -1,6 +1,7 @@
 +++
 Title = "Raphael Pothin"
 Twitter = "RaphaelPothin"
+linkedin = "https://www.linkedin.com/in/raphael-pothin-642bb657/"
 image = "raphael-pothin.jpg"
 type = "speaker"
 linktitle = "raphael-pothin"
