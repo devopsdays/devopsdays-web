@@ -1,6 +1,7 @@
 +++
 Title = "Alexis Roberson"
 Twitter = "AlexisRoberson_"
+linkedin = "https://www.linkedin.com/in/alexisrobersondevrel/"
 image = "alexis-roberson.jpg"
 type = "speaker"
 linktitle = "alexis-roberson"

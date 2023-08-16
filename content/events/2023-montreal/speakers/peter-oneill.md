@@ -1,6 +1,7 @@
 +++
 Title = "Peter ONeill"
 Twitter = "peteroneilljr"
+linkedin = "https://www.linkedin.com/in/peteroneilljr"
 image = "peter-oneill.png"
 type = "speaker"
 linktitle = "peter-oneill"

@@ -1,6 +1,7 @@
 +++
 Title = "Rain Leander"
 Twitter = "rainleander"
+linkedin = "https://www.linkedin.com/in/rainleander/"
 image = "rain-leander.png"
 type = "speaker"
 linktitle = "rain-leander"

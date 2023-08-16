@@ -1,6 +1,7 @@
 +++
 Title = "Chuck Reeves"
 Twitter = "manchuck"
+linkedin = ""
 image = "chuck-reeves.png"
 type = "speaker"
 linktitle = "chuck-reeves"
