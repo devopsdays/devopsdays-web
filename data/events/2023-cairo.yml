@@ -15,7 +15,7 @@ enddate: 2023-09-27T23:59:59+02:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2023-05-10T00:00:00+02:00 # start accepting talk proposals.
-cfp_date_end: 2023-08-01T00:00:00+02:00 # close your call for proposals.
+cfp_date_end: 2023-08-17T00:00:00+02:00 # close your call for proposals.
 cfp_date_announce: # inform proposers of status
 
 cfp_open: "true"
@@ -88,6 +88,20 @@ sponsors:
    level: community
  - id: gizasystems2
    level: platinum
+ - id: digitalai-grafene
+   level: platinum
+ - id: kites
+   level: gold
+ - id: auc
+   level: community
+ - id: eui
+   level: community
+ - id: kaferelshiekh-uni
+   level: community
+ - id: nileuni
+   level: community
+ - id: akhbarelyoum-academy
+   level: community
  - id: tekcaffe
    level: silver
    
@@ -113,4 +127,4 @@ sponsor_levels:
     max: 0 # This is the same as omitting the max limit.
   - id: community
     label: Community
-    max: 4
+    max: 0
