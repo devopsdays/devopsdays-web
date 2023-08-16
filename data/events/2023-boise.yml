@@ -65,6 +65,12 @@ sponsors:
     level: platinum
   - id: fastly
     level: gold
+  - id: idahotechcouncil
+    level: gold
+  - id: simplot
+    level: bronze
+  - id: trailhead
+    level: gold
 
 sponsors_accepted: "yes"
 
