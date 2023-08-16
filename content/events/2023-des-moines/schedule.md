@@ -232,7 +232,28 @@ Description = "Speakers, sessions, ignites, meals"
                                     <img class="img rounded-circle" src="/events/2023-des-moines/speakers/amy-lindberg.png" height="60px"
                                         width="60px" alt="">
                                 </a>
-                                <h4>Amy Lindberg & Panel</h4>
+                                <h4>Amy Lindberg</h4>
+                            </div>
+                            <div class="col-lg-8">
+                                <a href="/events/2023-des-moines/speakers/barry-closser/">
+                                    <img class="img rounded-circle" src="/events/2023-des-moines/speakers/barry-closser.png" height="60px"
+                                        width="60px" alt="">
+                                </a>
+                                <h4>Barry Closser</h4>
+                            </div>
+                            <div class="col-lg-8">
+                                <a href="/events/2023-des-moines/speakers/bex-streeper/">
+                                    <img class="img rounded-circle" src="/events/2023-des-moines/speakers/bex-streeper.png" height="60px"
+                                        width="60px" alt="">
+                                </a>
+                                <h4>Bex Streeper</h4>
+                            </div>
+                            <div class="col-lg-8">
+                                <a href="/events/2023-des-moines/speakers/pallavi-dukle/">
+                                    <img class="img rounded-circle" src="/events/2023-des-moines/speakers/pallavi-dukle.png" height="60px"
+                                        width="60px" alt="">
+                                </a>
+                                <h4>Pallavi Dukle</h4>
                             </div>
                             <div class="col-lg-8">
                                 <a href="/events/2023-des-moines/program/amy-lindberg">Panel: The Value of Diversity in Tech</a>

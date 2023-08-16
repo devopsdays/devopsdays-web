@@ -4,14 +4,15 @@ city: "Salvador" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysssa" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "Devopsdays is coming to Salvador!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+event_logo: "logo-square.jpg"
 
 # All dates are in unquoted 2023-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2023-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2023-12-16T09:00:00-03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  2023-12-16T18:00:00-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  # start accepting talk proposals.
@@ -50,67 +51,27 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
 
-  - name: "Marcelo Santos aka marceleza"
-    employer: "DAREDE"
-    #  github: "devopsdays"
-    #  facebook: "https://www.facebook.com/sally.fields"
-    linkedin: "https://www.linkedin.com/in/marcelosantos"
-    twitter: "marcelezacom"
-    #  website: "https://mattstratton.com"
-    image: "marcelo-santos.jpg"
-
-  - name: "Roze Anne Cardoso aka medusadevops"
-    employer: "SWAP"
-    #  github: "devopsdays"
-    #  facebook: "https://www.facebook.com/sally.fields"
-    linkedin: "https://www.linkedin.com/in/ravcardoso"
-    twitter: "medusadevops"
-    #  website: "https://mattstratton.com"
-    image: "roze-anne.jpeg"
-
   - name: "Camila Martins aka punkdodevops"
     employer: "StoryBlok"
-    #  github: "devopsdays"
-    #  facebook: "https://www.facebook.com/sally.fields"
     linkedin: "https://www.linkedin.com/in/camilla-martins-603344115"
     twitter: "punkdodevops"
     website: "https://punkdodevops.com"
     image: "camilamartins.jpeg"
-
-      #- name: "Matheus Andrade"
-      # employer: "iDojo"
-      #  github: "devopsdays"
-      #  facebook: "https://www.facebook.com/sally.fields"
-      #linkedin: "https://www.linkedin.com/in/matheuslao"
-      #twitter: "matheuslao"
-      #  website: "https://matheuslao.dev"
-      #image: "matheus_lao.jpg"
 
   - name: "Rafael Gomes aka gomex"
     employer: "DNSFILTER"
     github: "gomex"
     linkedin: "https://www.linkedin.com/in/rbgomes"
     twitter: "gomex"
-    #  website: "https://matheuslao.dev"
     image: "rafael-gomex.jpg"
 
   - name: "Marco Júnior aka somatorio"
     employer: "Wunderman Thompson Commerce"
     twitter: "somatorio"
     github: "somatorio"
-    #  facebook: "https://facebook.com/osomatorio"
     linkedin: "https://www.linkedin.com/in/somatorio/"
     website: "http://somatorio.org"
     image: "marco-junior.jpeg"
-
- # - name: "Antonio Pedro aka apsferreira"
- #   employer: "Picpay"
- #   twitter: "apsferreira_"
-    #github: "somatorio"
-    #  facebook: "https://facebook.com/osomatorio"
- #   linkedin: "https://www.linkedin.com/in/apsferreira/"
- #   website: "http://antoniopedro.com.br"
- #   image: "antonio-pedro.jpg"
 
 organizer_email: "salvador@devopsdays.org" # Put your organizer email address here
 

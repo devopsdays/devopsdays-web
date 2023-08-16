@@ -65,6 +65,13 @@ team_members: # Name is the only required field for team members.
   - name: "Melissa Phillips"
     employer: "ChaTech"
     image: "melissa-phillips.jpg"
+  - name: "Matthew Corven"
+    linkedin: "https://www.linkedin.com/in/matthew-corven"
+    website: "https://alt-tab.io"
+    image: "matthew-corven.jpg"
+  - name: "Mike Conrad"
+    linkedin: "https://www.linkedin.com/in/mikeenxo/"
+    image: "mike-conrad.jpg"
 
 organizer_email: "chattanooga@devopsdays.org" # Put your organizer email address here
 

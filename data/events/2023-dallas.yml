@@ -210,6 +210,8 @@ sponsors:
     level: gold
   - id: datadog
     level: gold
+  - id: progresschef
+    level: gold
   - id: redgate
     level: silver
   - id: clickhouse
@@ -217,6 +219,8 @@ sponsors:
   - id: improving
     level: silver
   - id: swa
+    level: silver
+  - id: capitalone
     level: silver
   - id: devopslive
     level: community
@@ -312,8 +316,8 @@ program:
     date: 2023-08-29
     start_time: "11:00"
     end_time: "11:30"
-  - title: "TBD"
-    type: custom
+  - title: "tyler-mcvety"
+    type: talk
     date: 2023-08-29
     start_time: "11:30"
     end_time: "12:00"
