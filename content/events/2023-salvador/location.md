@@ -4,7 +4,10 @@ Type = "event"
 Description = "Location for devopsdays Salvador 2023"
 +++
 
-Watch this space for information about the venue including address, map/direction, parking/transit, and any hotel details.
+O evento será sediado no auditório do instituto de matemática da Universidade Federal da Bahia.
+
+<br>
+Endereço: <a href="https://goo.gl/maps/tBdSVFftg418PJeeA">Av. Milton Santos, s/n - Ondina, Salvador - BA, 40170-110</a>
 
 <!-- Uncomment this only if you have set the coordinates for your location in the config yaml. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html -->
 <!-- {{< event_map >}} -->
