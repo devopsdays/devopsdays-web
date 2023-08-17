@@ -442,7 +442,7 @@ program:
     date: 2023-08-30
     start_time: "14:30"
     end_time: "14:45"
-  - title: "Break"
+  - title: "Break Sponsor's Raffle Giveaway"
     type: custom
     date: 2023-08-30
     start_time: "14:45"
@@ -458,7 +458,7 @@ program:
     date: 2023-08-30
     start_time: "16:15"
     end_time: "16:20"
-  - title: "Closing, Raffle Giveaway & Farewell"
+  - title: "Closing, Organizer's Raffle Giveaway & Farewell"
     type: custom
     date: 2023-08-30
     start_time: "16:20"
