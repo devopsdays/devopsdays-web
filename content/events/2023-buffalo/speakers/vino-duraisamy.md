@@ -1,7 +1,7 @@
 +++
 Title = "Vino Duraisamy"
 Twitter = "vinodhini_sd"
-image = ""
+image = "vino-duraisamy.png"
 type = "speaker"
 linktitle = "vino-duraisamy"
 

@@ -94,6 +94,8 @@ sponsors:
     level: gold
   - id: techbuffalo
     level: badge
+  - id: osmi
+    level: bronze
 
 #  - id: samplesponsorname
 #    level: gold
