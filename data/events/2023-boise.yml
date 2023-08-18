@@ -190,7 +190,7 @@ sponsors:
     level: bronze
   - id: fastly
     level: gold
- - id: idahotechcouncil
+  - id: idahotechcouncil
     level: gold
   - id: simplot
     level: bronze
