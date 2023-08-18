@@ -2,9 +2,9 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Session to be announced"
-Type = "ignite"
+Title = "Glow, Grow, and How"
+Type = "talk"
 Speakers = ["clara-freeman"]
 +++
 
-Content to be announced.
+How to give kind and actionable feedback with empathy
