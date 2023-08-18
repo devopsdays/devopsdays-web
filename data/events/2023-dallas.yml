@@ -427,15 +427,15 @@ program:
     date: 2023-08-30
     start_time: "12:45"
     end_time: "13:30"
-  - title: "ben-tim"
-    type: talk
-    date: 2023-08-30
-    start_time: "13:30"
-    end_time: "14:15"
   - title: "Sponsors"
     type: custom
     date: 2023-08-30
-    start_time: "14:15"
+    start_time: "13:30"
+    end_time: "13:45"
+  - title: "ben-tim"
+    type: talk
+    date: 2023-08-30
+    start_time: "13:45"
     end_time: "14:30"
   - title: "Open Space - Topic Proposals & Selection"
     type: open-space
