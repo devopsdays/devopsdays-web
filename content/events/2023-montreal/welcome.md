@@ -86,10 +86,11 @@ a.jssocials-share-link, a.event-cta-button {
 {{< event_logo >}}
 <!-- <img src="/events/2023-montreal/logo-square.jpg"> -->
 <p></p>
-<p><a href="https://sessionize.com/devopsdays-montreal-2023/"><button>Propose your talk!</button></a></p>
+<!-- <p><a href="https://sessionize.com/devopsdays-montreal-2023/"><button>Propose your talk!</button></a></p> -->
 <p><a href="https://www.eventbrite.ca/e/devopsdays-montreal-2023-tickets-643838146227"><button>Register</button></a></p>
 <p><a href="../location/"><button>Get venue info</button></a></p>
 <p><a href="../sponsor/"><button>Sponsor</button></a></p>
+<p><a href="../speakers/"><button>Check out our awesome lineup</button></a></p>
 <p><a href="../contact/"><button>Contact</button></a></p>
 </div>
 
