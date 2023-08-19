@@ -82,6 +82,9 @@ team_members: # Name is the only required field for team members.
     github: "omargohan"
     twitter: "omargohan"
     linkedin: "https://www.linkedin.com/in/omar-alva-60237919/"
+  - name: "Sharif Nassar"
+    github: "mrwacky42"
+    linkedin: "https://www.linkedin.com/in/sharifnassar42/"
 
 organizer_email: "los-angeles@devopsdays.org" # Put your organizer email address here
 
