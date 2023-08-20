@@ -96,14 +96,14 @@ sponsors:
     level: gold
   - id: coralogix
     level: gold
+  - id: doit
+    level: gold
   - id: elastic
     level: gold
   - id: puppet
     level: gold
   # silver sponsors
   - id: mkdev
-    level: silver
-  - id: doit
     level: silver
   - id: checkly
     level: silver
@@ -131,7 +131,6 @@ sponsors:
   # community sponsors
   - id: doxlon
     level: community
-
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
