@@ -7,9 +7,11 @@ Description = "DevOpsDays Cairo 2023"
 <p style="text-align: left">DevOpsDays Cairo is a one-day event.<br />
   For the 6<sup>th</sup> consecutive year, SECC/ITIDA is organizing DevOpsDays Cairo 2023 in cooperation with ATOS, DXC Technology and Orange Labs.</p>
 <p>Under the theme: <STRONG>AI for DevOps Transformation!</STRONG></p>
-<p>
-  Call For Proposals is <a href="https://www.papercall.io/cairo2023">NOW OPEN!</a>
-</p>
+<p><strong>Date &amp; Time:</strong><strong>&nbsp; </strong>Wednesday, Sep 27, 2023</p>
+<p><strong>Location</strong>: Creativa Innovation Hub, Giza</p>
+
+<p><a href="https://secc.org.eg/English/Pages/Event_Registration.aspx">REGISTER Now</a> to attend</p>
+
 <p>Follow us, adjust your calendar notifications and stay tuned!</p>
 
 
@@ -35,14 +37,14 @@ Description = "DevOpsDays Cairo 2023"
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="registration" text="Register to attend the conference!" >}}
   </div>
-</div> -->
+</div>
 
 <!-- div class = "row">
   <div class = "col-md-2">
