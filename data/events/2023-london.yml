@@ -133,6 +133,12 @@ sponsors:
   # community sponsors
   - id: doxlon
     level: community
+  - id: young-devops
+    level: community
+  - id: yorkshire-devops
+    level: community
+  - id: yorkshire-azure-user-group
+    level: community
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
