@@ -30,17 +30,17 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 # Location
 
 
-coordinates: "30.0890196,31.3299377" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Sultan Hussein Kamel Palace" # Defaults to city, but you can make it the venue name.
+coordinates: "30.02844,31.201696" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Creativa Innovation Hub, Giza" # Defaults to city, but you can make it the venue name.
 
-location_address: "Sultan Hussein Kamel Palace, Heliopolis" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "Creativa Innovation Hub, Giza" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
 #  - name: location
 #  - name: local
-#  - name: registration
-#    url: https://secc.org.eg/English/Pages/Event_Registration.aspx
+  - name: registration
+    url: https://secc.org.eg/English/Pages/Event_Registration.aspx
 #  - name: agenda
 #    url: https://secc.org.eg/English/MediaCenter/Events/Documents/DevOpDays-Cairo-2022-Conference-Program.pdf
 #  - name: speakers
