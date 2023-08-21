@@ -119,6 +119,9 @@ sponsors:
    level: gold
  - id: the-workshop
    level: gold
+# Silver
+ - id: cloudappi
+   level: silver
 # Bronze
  - id: speedyrails
    level: bronze
