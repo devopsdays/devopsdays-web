@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "udification du développement de carrière: Notre stratégie pour faire évoluer les compétences DevOps"
+Title = "Ludification du développement de carrière: Notre stratégie pour faire évoluer les compétences DevOps"
 Type = "talk"
 Speakers = ["marielaurence-hamelin", "julien-dort"]
 +++
