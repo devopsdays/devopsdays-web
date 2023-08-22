@@ -112,6 +112,8 @@ sponsors:
     level: silver 
   - id: inkodus
     level: bronze
+  - id: vilniustechfusion
+    level: community
   - id: s3
     level: bronze
 
