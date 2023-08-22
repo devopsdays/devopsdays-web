@@ -15,7 +15,7 @@ enddate: 2023-09-27T23:59:59+02:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2023-05-10T00:00:00+02:00 # start accepting talk proposals.
-cfp_date_end: 2023-08-01T00:00:00+02:00 # close your call for proposals.
+cfp_date_end: 2023-08-17T00:00:00+02:00 # close your call for proposals.
 cfp_date_announce: # inform proposers of status
 
 cfp_open: "true"
@@ -30,17 +30,17 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 # Location
 
 
-coordinates: "30.0890196,31.3299377" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Sultan Hussein Kamel Palace" # Defaults to city, but you can make it the venue name.
+coordinates: "30.02844,31.201696" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Creativa Innovation Hub, Giza" # Defaults to city, but you can make it the venue name.
 
-location_address: "Sultan Hussein Kamel Palace, Heliopolis" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "Creativa Innovation Hub, Giza" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
 #  - name: location
 #  - name: local
-#  - name: registration
-#    url: https://secc.org.eg/English/Pages/Event_Registration.aspx
+  - name: registration
+    url: https://secc.org.eg/English/Pages/Event_Registration.aspx
 #  - name: agenda
 #    url: https://secc.org.eg/English/MediaCenter/Events/Documents/DevOpDays-Cairo-2022-Conference-Program.pdf
 #  - name: speakers
@@ -88,6 +88,20 @@ sponsors:
    level: community
  - id: gizasystems2
    level: platinum
+ - id: digitalai-grafene
+   level: platinum
+ - id: kites
+   level: gold
+ - id: auc
+   level: community
+ - id: eui
+   level: community
+ - id: kaferelshiekh-uni
+   level: community
+ - id: nileuni
+   level: community
+ - id: akhbarelyoum-academy
+   level: community
  - id: tekcaffe
    level: silver
    
@@ -113,4 +127,4 @@ sponsor_levels:
     max: 0 # This is the same as omitting the max limit.
   - id: community
     label: Community
-    max: 4
+    max: 0

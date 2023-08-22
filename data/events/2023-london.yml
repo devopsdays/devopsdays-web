@@ -90,28 +90,34 @@ organizer_email: "london@devopsdays.org" # Put your organizer email address here
 sponsors:
   # platinum sponsors
   # gold sponsors
-  #- id: delphix
-  #  level: gold
   - id: adaptavist
     level: gold
   - id: coralogix
+    level: gold
+  - id: doit
     level: gold
   - id: elastic
     level: gold
   - id: puppet
     level: gold
   # silver sponsors
-  - id: mkdev
-    level: silver
-  - id: doit
-    level: silver
   - id: checkly
     level: silver
   - id: gitea
     level: silver
+  - id: mkdev
+    level: silver
   - id: pulumi
     level: silver
+  - id: snyk
+    level: silver
+  - id: wmpromus
+    level: silver
   # bronze sponsors
+  - id: clearbank
+    level: bronze
+  - id: contino
+    level: bronze
   - id: dxw
     level: bronze
   - id: github
@@ -122,16 +128,17 @@ sponsors:
     level: bronze
   - id: syntasso
     level: bronze
-  - id: snyk
-    level: bronze
-  - id: clearbank
-    level: bronze
-  - id: contino
-    level: bronze
   # community sponsors
   - id: doxlon
     level: community
-
+  - id: packt
+    level: community
+  - id: yorkshire-azure-user-group
+    level: community
+  - id: yorkshire-devops
+    level: community
+  - id: young-devops
+    level: community
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 

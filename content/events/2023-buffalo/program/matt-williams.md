@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = ""
+Title = "Agile and Sustainable: A Pragmatic Approach to Sustainable Tech"
 Type = "talk"
 Speakers = ["matt-williams"]
 +++
