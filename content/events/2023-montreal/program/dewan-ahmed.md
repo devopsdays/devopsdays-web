@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Enforce fine-grained policy control across your data infrastructure."
 Type = "workshop"
-Speakers = ["dewan-ahmed", "peter-oneill"]
+Speakers = ["dewan-ahmed"]
 +++
 
 Deployment is **hard**. Enforcing policy on how the resources can be deployed is even harder. In this workshop, Dewan Ahmed (Aiven) and Peter ONeill (Styra) will leverage two popular open-source tools, [Terraform](https://terraform.io/) and [Open Policy Agent](https://www.openpolicyagent.org/), to show you step-by-step how to enforce fine-grained control on large-scale deployments across environments for data-related services.
