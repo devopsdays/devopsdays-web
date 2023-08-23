@@ -91,6 +91,18 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
+
+
+sponsors:
+  - id: cloudbees
+    level: gold
+  - id: observeinc
+    level: gold
+  - id: pagerduty
+    level: gold
+  - id: vmware
+    level: gold
+  
 sponsor_levels:
   - id: platinum
     label: Platinum
