@@ -229,6 +229,9 @@ sponsors:
   - id: trust-control
     level: platinum
     url: https://www.trustcontrol.com.br/
+  - id: paloalto
+    level: platinum
+    url: https://www.paloaltonetworks.com/
   - id: elastic
     level: gold
     url: https://www.elastic.co  
