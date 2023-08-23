@@ -212,6 +212,8 @@ sponsors:
     level: gold
   - id: progresschef
     level: gold
+  - id: vmware-tanzu-2023
+    level: gold
   - id: redgate
     level: silver
   - id: clickhouse
