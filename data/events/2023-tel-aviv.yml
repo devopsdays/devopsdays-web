@@ -38,8 +38,10 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: location
   - name: registration
     url: "https://tlvcommunity.dev/devopsdays#register"
- # - name: program
- # - name: speakers
+  - name: program
+    url: "https://tlvcommunity.dev/devopsdays/agenda-2023"
+  - name: speakers
+    url: "https://tlvcommunity.dev/devopsdays/speakers-2023"
   - name: sponsor
   - name: contact
   - name: conduct
