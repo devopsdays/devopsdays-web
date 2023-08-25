@@ -4,7 +4,8 @@ Twitter = ""
 image = "becky-gandillion.png"
 type = "speaker"
 linktitle = "becky-gandillion"
-
+linkedin = "https://www.linkedin.com/in/becky-gandillon/"
+website = "https://touringplans.com/blog/author/bgandillon/"
 +++
 
 ##### Data strategist, storyteller, and mom

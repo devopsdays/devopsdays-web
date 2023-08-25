@@ -4,7 +4,8 @@ Twitter = "matt_k_williams"
 image = "matt-williams.png"
 type = "speaker"
 linktitle = "matt-williams"
-
+linkedin = "https://www.linkedin.com/in/mattkwilliams/"
+website = "http://matthewkwilliams.com/"
 +++
 
 ##### Renaissance Person in Training
