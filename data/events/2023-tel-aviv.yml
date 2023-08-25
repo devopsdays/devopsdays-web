@@ -38,8 +38,10 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: location
   - name: registration
     url: "https://tlvcommunity.dev/devopsdays#register"
- # - name: program
- # - name: speakers
+  - name: program
+    url: "https://tlvcommunity.dev/devopsdays/agenda-2023"
+  - name: speakers
+    url: "https://tlvcommunity.dev/devopsdays/speakers-2023"
   - name: sponsor
   - name: contact
   - name: conduct
@@ -205,6 +207,10 @@ sponsors:
     level: platinum
   - id: couchbase
     level: platinum
+  - id: pulumi
+    level: platinum
+  - id: nebius
+    level: platinum
   - id: armosec
     level: gold
   - id: komodor
@@ -237,8 +243,6 @@ sponsors:
     level: gold
   - id: hetz
     level: gold
-  - id: bigpanda
-    level: gold
   - id: esl-cloudbees
     level: gold
   - id: coralogix
@@ -246,8 +250,6 @@ sponsors:
   - id: directeam
     level: gold
   - id: appsflyer
-    level: gold
-  - id: coralogix
     level: gold
   - id: doit
     level: gold
@@ -257,6 +259,12 @@ sponsors:
     level: gold
   - id: spotinst
     level: gold
+  - id: redhat
+    level: gold
+  - id: slimai
+    level: gold
+  - id: hyperspace
+    level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: velocitytech
     level: community
@@ -264,17 +272,23 @@ sponsors:
     level: community
   - id: aerospike
     level: community
+  - id: apono
+    level: community
   - id: tlvpartners
     level: community
   - id: statscraft
     level: community
   - id: opsschool
     level: community
-  - id: barvazgumi
-    level: community
   - id: devinterrupted
     level: community
   - id: cloudnativeil
+    level: community
+  - id: owasp
+    level: community
+  - id: appleseeds
+    level: community
+  - id: hamakor
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

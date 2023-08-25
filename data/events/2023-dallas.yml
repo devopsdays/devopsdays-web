@@ -212,6 +212,10 @@ sponsors:
     level: gold
   - id: progresschef
     level: gold
+  - id: vmware-tanzu-2023
+    level: gold
+#  - id: mirantis
+#    level: gold
   - id: redgate
     level: silver
   - id: clickhouse
@@ -326,7 +330,7 @@ program:
     date: 2023-08-29
     start_time: "12:00"
     end_time: "12:45"
-  - title: "farrah-campbell"
+  - title: "noelle-russell"
     type: talk
     date: 2023-08-29
     start_time: "12:45"
@@ -387,7 +391,7 @@ program:
     date: 2023-08-30
     start_time: "08:45"
     end_time: "09:00"
-  - title: "noelle-russell"
+  - title: "farrah-campbell"
     type: talk
     date: 2023-08-30
     start_time: "09:00"
