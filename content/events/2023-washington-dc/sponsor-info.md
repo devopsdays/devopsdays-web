@@ -11,6 +11,7 @@ Thank you for sponsoring DevOpsDays DC 2023! The organizing committee is excited
 	- [Important Dates](#important-dates)
 	- [Happy Hour](#happy-hour)
 	- [Registration](#registration)
+	- [Hotel Block](#hotel-block)
 	- [Ticket Donations](#ticket-donations)
 	- [Code of Conduct](#code-of-conduct)
 	- [Social Media](#social-media)
@@ -74,9 +75,9 @@ hour, 5:00 pm - 6:30 pm,  will feature mocktails and appetizers.
 If you (or with another sponsor) wish to host a happy hour either evening, you have options:
 
 - Tonic @ Quigleys, 0.5 miles away, packages start at $1,750, still available as of August 25.
-    - Email: <events.tonic@gmail.com>,  Phone: +1-202-296-0211
+  - Email: <events.tonic@gmail.com>,  Phone: +1-202-296-0211
 - Blackfinn DC, 0.6 miles awaw, packages start at $2,000.
-    - Phone: +1-202-429-4350
+  - Phone: +1-202-429-4350
 
 If you are planning to host a party or happy hour, etc after either day of the conference, please let us know the details! We will include this information in communications to attendees. Please send the details to <sponsors@devopsdaysdc.org>.
 
@@ -86,6 +87,10 @@ All attendees, including sponsor exhibitors, are required to register for this e
 
 <!-- All attendees must adhere to the event's 
 [Health and Safety policy](https://devopsdays.org/events/2023-chicago/covid-19-policy/). -->
+
+## <a name='hotel-block'></a>Hotel Block
+
+For 2023, we do not have a hotel block.
 
 ## <a name='TicketDonations'></a>Ticket Donations
 
@@ -283,6 +288,7 @@ Coffee and snacks will be served in the sponsor area, as will the Wednesday even
 Rentals are from the event A/V provider, items are priced for the event:
 
 Monitors:
+
 - 32”        $300
 - 42”        $400
 - 50”        $500
@@ -369,19 +375,21 @@ If you are planning to host a party or happy hour, etc after either day of the c
 
 **How many people will be attending the conference?**
 
-We are expecting 550-600 people at the conference.
+We are expecting 300 - 350 people at the conference.
 
 **What are the demographics of the attendees?**
 
-DevOpsDays conferences typically attract software, operations, infosec, QA, and build engineers, as well as architects and technology managers. From voluntary attendee data, 22% had VP or Director-level titles, 17% had senior level titles, and over 85% had technical roles.
+DevOpsDays conferences typically attract software, operations, infosec, QA, and build engineers, as well as architects and technology managers. 
 
-These folks are attending to learn and to share learnings about the DevOps movement. They most appreciate sponsors who engage with them with that in mind.
+These folks are attending to your learn and to share learnings about the DevOps movement. They most appreciate sponsors who engage with them with that in mind.
 
 **Will sponsors get an email list of attendees? Do we get a dedicated email blast?**
 
 No, we will not be sending out a formalized list.
 
-Platinum and Gold sponsors will have their logos in all conference emails to participants. We cannot send out emails on behalf of sponsors and will not share contact information or lists of attendee names.
+Sponsors will have their logos in all conference emails to participants. We cannot send out emails on behalf of sponsors and will not share contact information or lists of attendee names.
+
+We are considering follow-up email to our attendees after the event. If you are interested in have a Sponsor Blurb/Update in that newsletter, please discuss with us at the event.
 
 **When can we pick our booth spot?**
 
@@ -391,12 +399,14 @@ Booths are assigned accordingly to sponsor level, then prioritized by when payme
 
 Booths are long tables ( 72" x 30") with a black tablecloth and power strip and 2 chairs. We recommend bringing/shipping: signage, handouts, pop-up banners, giveaways, etc. Banners must fit behind your booth.
 
+<!--
 ![](/events/2023-chicago/booth.png)<br>
 *A Gold sponsor table from 2019*
+-->
 
 **How many scanners (and which type) do we get?**
 
-This is not your typical conference. The booth is a place to interact with people during breaks.
+We do not provide scanners. This is not your typical conference. The booth is a place to interact with people during breaks.
 
 Sponsors​ ​benefit​​ ​most​ ​when​ ​they actively​ ​participate​.
 
@@ -404,7 +414,7 @@ You are responsible for collecting any information in person. Raffles with a bus
 
 **What is the 20% off code for additional sponsorship tickets?**
 
-[SPONSOR-2023-H5P2](https://chicago-tickets.devopsdays.org/2023/redeem?voucher=SPONSOR-2023-H5P2) (click to register directly)
+You should have received custom discount codes in your welcome email. Please contact us if you have not.
 
 **Who should staff the booth? What are expo hours?**
 
@@ -416,16 +426,21 @@ Yes. If you want to do a giveaway, you will need to collect your own information
 
 **Can I sponsor a talk?**
 
-Absolutely not. Devopsdays does not sell conference speaking slots; sponsors' employees are welcome to submit talk proposals.
+Absolutely not. Devopsdays does not sell conference speaking slots; sponsors' employees are welcome to submit talk proposals. You _can_, as a participant, suggest an Open space topic within your problem space. 
 
 **Can I get a discount for sponsoring multiple DevOpsDays?**
 
 All DevOpsDays events are independently organized, so no multi-city sponsorships are available.
 
-**Who organizes DevOpsDays Chicago?**
+**Who organizes DevOpsDays DC?**
 
-Your [DevOpsDays Chicago organizers](https://devopsdays.org/chicago/contact) are Chicago-based technology folks who volunteer their time for this event.
+Your [DevOpsDays DC organizers](https://devopsdays.org/washington-dc/contact) are DC-based technology folks who volunteer their time for this event.
 
-All money collected from sponsors goes towards the conference and its related expenses. We are not a non-profit, so sponsorships are not tax deductible. Contact us at chicago-sponsors@devopsdays.org  to get our W9.
+All money collected from sponsors goes towards the conference and its related expenses. Contact us at sponsors@devopsdaysdc.org  to get our W9.
 
-For any other questions, email all of us at <chicago@devopsdays.org>
+For any other questions, email all of us at <washington-dc@devopsdays.org>
+
+**Version Information**:
+
+- 2023-08-25 v0.9 - First cut at copying over from Google Doc FAQ, with help from Chicago's sponsor-info
+
