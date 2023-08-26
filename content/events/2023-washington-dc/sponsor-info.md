@@ -112,7 +112,7 @@ Join us: 
 
 Twitter: [@devopsdaysdc](https://twitter.com/devopsdaysdc)
 
-Mastodon: [@devopsdaysdc@hachyderm.io](https://hachyderm.io/@devopsdaysdc>
+Mastodon: [@devopsdaysdc@hachyderm.io](https://hachyderm.io/@devopsdaysdc]
 
 LinkedIn: <https://www.linkedin.com/company/devopsdays-dc>
 
@@ -152,7 +152,7 @@ Number of boxes: ____ of _____**
 
 Items can arrive any time after September 1.
 
-Items cannot be received earlier than **Aug 3** or held past **Aug 15**.
+<!-- Items cannot be received earlier than **Aug 3** or held past **Aug 15**. -->
 
 Please also email the tracking number for your shipment to us at <sponsors@devopsdaysdc.org>.
 
@@ -296,7 +296,7 @@ Monitors:
 - 70”        $750
 - Laptop  ($300)
 
-Please submit a completed [order form](./media/AAV_Exhibitor_Order_Form_2023.pdf)
+Please submit a completed [order form](./media/aav_exhibitor-_order-_form-_2023.pdf)
 to <sales@americanav.com> by September 5. Please use the contact information on the form if you have any questions.
 
 ## <a name='SponsorPitch'></a>Sponsor Pitch
