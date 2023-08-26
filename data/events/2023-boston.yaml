@@ -93,6 +93,16 @@ sponsors:
     level: startupalley
   - id: squaredup
     level: platinum
+  - id: spot-by-netapp
+    level: platinum
+  - id: redgate
+    level: platinum
+  - id: vmware-tanzu
+    level: platinum
+  - id: britive
+    level: platinum
+  - id: logz
+    level: platinum
 
 sponsors_accepted : "yes"
 
@@ -131,6 +141,7 @@ program:
     start_time: "10:20"
     end_time: "10:55"
   - title: "talia-nassi"
+    background_color: "#fffa99"
     type: workshop
     date: 2023-10-16
     start_time: "9:45"
@@ -223,6 +234,7 @@ program:
     start_time: "9:45"
     end_time: "10:20"
   - title: "matt-surabian"
+    background_color: "#fffa99"
     type: talk
     date: 2023-10-17
     start_time: "9:45"
@@ -233,6 +245,7 @@ program:
     start_time: "10:20"
     end_time: "10:55"
   - title: "kyle-benson"
+    background_color: "#fffa99"
     type: talk
     date: 2023-10-17
     start_time: "10:20"
