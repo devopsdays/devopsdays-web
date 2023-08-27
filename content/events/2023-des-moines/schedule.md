@@ -191,8 +191,27 @@ Description = "Speakers, sessions, ignites, meals"
                     <!-- Break Row -->
                     <tr class="col-all">
                         <td class="col-time">1:30 - 2:00</td>
-                        <td colspan="5"><h4>Ignite Talks</h4>
-                        <div class="col-lg-12 program-page-desc">Location: Ballroom</div></td>
+                        <td colspan="1"><h4>Ignite Talks</h4>
+                        <div class="col-lg-8 program-page-desc">Location: Ballroom<br/>
+                                    <img class="img rounded-circle" src="/events/2023-des-moines/organizers/tim-gifford.jpg" height="60px"
+                                        width="60px" alt="">
+                                <h4>Tim Gifford</h4>
+                            </div>
+                        </td>
+                        <td colspan="1"><h4>&nbsp;</h4>
+                        <div class="col-lg-8 program-page-desc">&nbsp;<br/>
+                                    <img class="img rounded-circle" src="/events/2023-des-moines/speakers/brian-gerhards.png" height="60px"
+                                        width="60px" alt="">
+                                <h4>Brian Gerhards</h4>
+                            </div>
+                        </td>
+                        <td colspan="1"><h4>&nbsp;</h4>
+                        <div class="col-lg-8 program-page-desc">&nbsp;<br/>
+                                    <img class="img rounded-circle" src="/events/2023-des-moines/speakers/jack-viers.png" height="60px"
+                                        width="60px" alt="">
+                                <h4>Jack Viers</h4>
+                            </div>
+                        </td>
                     </tr>
                     <!-- Break Row -->
                     <tr class="col-all">
@@ -472,9 +491,28 @@ Description = "Speakers, sessions, ignites, meals"
                 <!-- Break Row -->
                 <tr class="col-all">
                     <td class="col-time">1:30 - 2:00</td>
-                    <td colspan="5"><h4>Ignite Talks</h4>
-                    <div class="col-lg-12 program-page-desc">Location: Ballroom</div></td>
-                </tr>
+                        <td colspan="1"><h4>Ignite Talks</h4>
+                        <div class="col-lg-8 program-page-desc">Location: Ballroom<br/>
+                                    <img class="img rounded-circle" src="/events/2023-des-moines/organizers/jodi-jones.jpg" height="60px"
+                                        width="60px" alt="">
+                                <h4>Jodi Jones</h4>
+                            </div>
+                        </td>
+                        <td colspan="1"><h4>&nbsp;</h4>
+                        <div class="col-lg-8 program-page-desc">&nbsp;<br/>
+                                    <img class="img rounded-circle" src="/events/2023-des-moines/speakers/ted-wallace.png" height="60px"
+                                        width="60px" alt="">
+                                <h4>Ted Wallace</h4>
+                            </div>
+                        </td>
+                        <td colspan="1"><h4>&nbsp;</h4>
+                        <div class="col-lg-8 program-page-desc">&nbsp;<br/>
+                                    <img class="img rounded-circle" src="/events/2023-des-moines/organizers/paul-beers.jpg" height="60px"
+                                        width="60px" alt="">
+                                <h4>Paul Beers</h4>
+                            </div>
+                        </td>
+                    </tr>
                 <!-- Break Row -->
                 <tr class="col-all">
                     <td class="col-time">2:00 - 2:15</td>

@@ -212,6 +212,10 @@ sponsors:
     level: platinum
   - id: spectrocloud
     level: platinum
+  - id: puppet-by-perforce
+    level: platinum
+  - id: cloudbees
+    level: platinum
   - id: scout
     level: gold
   - id: tremolo
@@ -219,6 +223,8 @@ sponsors:
   - id: raft
     level: silver
   - id: excella
+    level: silver
+  - id: eastbanc
     level: silver
   - id: kcddc
     level: community

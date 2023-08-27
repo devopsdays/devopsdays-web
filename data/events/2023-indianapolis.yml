@@ -110,6 +110,8 @@ sponsors:
     level: community
   - id: indyaws
     level: community
+  - id: cinlug
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -272,7 +274,7 @@ program:
     date: 2023-10-06
     start_time: "11:40"
     end_time: "12:50"
-  - title: "sarah-morgan"
+  - title: "john-willis"
     type: talk
     date: 2023-10-06
     start_time: "12:50"

@@ -137,6 +137,10 @@ sponsors:
     level: gold
   - id: morgan-stanley
     level: lunch
+  - id: elastic
+    level: bronze
+  - id: sherweb
+    level: bronze
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
