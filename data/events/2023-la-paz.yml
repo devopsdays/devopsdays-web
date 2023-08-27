@@ -36,7 +36,7 @@ location: "Universidad del Valle La Paz, Torre Innovación" # Defaults to city, 
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
 # - name: locatiion
-  - name: program
+#  - name: program
   - name: speakers
   - name: sponsor
   - name: contact
@@ -94,12 +94,13 @@ sponsors:
   - id: univallelapaz
     level: plata
     url: http://190.104.30.135/?page_id=454  # Use this if you need to over-ride a sponsor URL.
+  - id: segurisk
+    level: plata
+    url: https://segurisk.com.bo/
   - id: agiletalentclub
     level: plata
     url: https://agiletalent.club/
-  - id: SEGURISK SRL
-    level: plata
-    url: https://segurisk.com.bo/
 
-program:
+
+#program:
 # date: 2022-10-26 (Talks)
