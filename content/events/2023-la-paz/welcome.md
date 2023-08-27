@@ -1,15 +1,15 @@
 +++
-Title = "devopsdays La Paz 2022"
+Title = "devopsdays La Paz 2023"
 Type = "welcome"
-aliases = ["/events/2022-la-paz/"]
-Description = "Bienvenido a devopsdays La Paz 2022"
+aliases = ["/events/2023-la-paz/"]
+Description = "Bienvenido a devopsdays La Paz 2023"
 +++
 <div class = "row">
   <div class="col-md-4">
-    <img alt="DevOpsDays La Paz 2022" src="/events/2022-la-paz/lapazlogo.png" class="img-fluid">
+    <img alt="DevOpsDays La Paz 2022" src="/events/2023-la-paz/lapazlogo.png" class="img-fluid">
   </div>
   <div class="col-md-7">
-    <h2>devopsdays se realiza por primera vez en La Paz el día 15 de octubre de 2022</h2>
+    <h2>devopsdays se realizara en La Paz el día 28 de octubre de 2023</h2>
     <p>
       En este primer evento esperamos reunir a todos los interesados en el area. Este primer año el evento sera presencial.
     </p>
@@ -62,7 +62,7 @@ Description = "Bienvenido a devopsdays La Paz 2022"
         <div class="p-2">
           <a
             class="btn btn-secondary btn-block"
-            href="/events/2022-la-paz/contact"
+            href="/events/2023-la-paz/contact"
             style="background-color:#329cae; border-color:#72c1cd" onMouseOver="this.style.backgroundColor='#23738e'"
             onMouseOut="this.style.backgroundColor='#329cae'"
           >

@@ -1,7 +1,7 @@
 +++
 Title = "Contact"
 Type = "event"
-Description = "Contact information for devopsdays La Paz 2022."
+Description = "Contact information for devopsdays La Paz 2023."
 +++
 
 If you'd like to contact us by email: {{< email_organizers >}}

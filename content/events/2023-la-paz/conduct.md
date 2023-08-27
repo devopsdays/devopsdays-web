@@ -1,10 +1,10 @@
 +++
 Title = "Conduct"
 Type = "event"
-Description = "Code of conduct for devopsdays La Paz 2022"
+Description = "Code of conduct for devopsdays La Paz 2023"
 +++
 
-Todos los asistentes, expositores, auspiciadores, voluntarios que asistan al Devopsdays La Paz 2022, aceptan el siguietne codigo de con conducta. Esperamos la cooperación de todos para para tener un evento positivo.
+Todos los asistentes, expositores, auspiciadores, voluntarios que asistan al Devopsdays La Paz 2023, aceptan el siguietne codigo de con conducta. Esperamos la cooperación de todos para para tener un evento positivo.
 
 ### Código de conducta
 
