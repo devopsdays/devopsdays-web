@@ -1,16 +1,16 @@
 +++
 Title = "Llamado a trabajos"
 Type = "event"
-Description = "Envia tu propuesta para participar de devopsdays La Paz 2022"
+Description = "Envia tu propuesta para participar de devopsdays La Paz 2023"
 +++
   {{< cfp_dates >}}
 <hr>
-DevOpsDays es un evento internacional de conferencias técnicas sobre temas de desarrollo de software, operaciones de infraestructura de TI y la intersección entre ellas. Este año esta conferencia de referencia mundial sobre DevOps, se realiza por primera vez en La Paz el sábado 15 de octubre.
+DevOpsDays es un evento internacional de conferencias técnicas sobre temas de desarrollo de software, operaciones de infraestructura de TI y la intersección entre ellas. Este año esta conferencia de referencia mundial sobre DevOps, se realizara en La Paz el sábado 28 de octubre.
 
 Los eventos de DevOpsDays presentan una combinación de charlas y contenido de espacio abierto auto-organizado. Los temas a menudo incluyen Pipelines de Integración y Despliegue Continuo (CI/CD), Automatización de Pruebas, Seguridad, Lean y Cultura Organizacional, entre otros. Por eso te invitamos a que participes del evento compartiendo con los asistentes.
 
 <hr>
-Para este primer año pensamos 2 tipos de charlas:
+Puedes postular dos tipos de charlas:
 <br>
 <ol>
   <li><strong><em>Conferencias - 30 Minutos</em></strong> presentada durante el evento de forma presencial</li>
@@ -31,9 +31,9 @@ El comite organizador eligira las ponencias deacuerdo a la cantidad recibida y l
 <hr>
 Considera las siguientes fechas importantes:
 <ul>
-<li>Fecha de Cierre de CFP: 15 septiembre 2022</li>
-<li>Fecha de Anuncio Ponentes: 30 de septiembre 2022</li>
-<li>Publicación de la Agenda: 1 de octubre de 2022</li>
+<li>Fecha de Cierre de CFP: 30 septiembre 2023</li>
+<li>Fecha de Anuncio Ponentes: 2 de octubre 2023</li>
+<li>Publicación de la Agenda: 10 de octubre de 2023</li>
 </ul>
 <strong>Como enviar tu ponencia:</strong>
 Llena el siguiente formulario
