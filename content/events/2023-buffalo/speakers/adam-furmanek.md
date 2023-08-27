@@ -4,7 +4,7 @@ Twitter = "furmanekadam"
 image = "adam-furmanek.png"
 type = "speaker"
 linktitle = "adam-furmanek"
-
+website = "https://www.metisdata.io/"
 +++
 
 ##### DevRel at Metis
