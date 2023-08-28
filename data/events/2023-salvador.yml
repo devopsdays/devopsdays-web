@@ -27,16 +27,19 @@ registration_date_end: # close registration. Leave blank if registration is not 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
+masthead_background: "bg-dodssa.jpg"
+sharing_image: "ssa-sharing.jpg"
+
 # Location
 #
-coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Salvador" # Defaults to city, but you can make it the venue name.
+coordinates: "-13.001165387618936, -38.50737829061367" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Salvador, BA, BR" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "Instituto de Matemática e Estatística da UFBA - Auditório - R. Barão de Jeremoabo, s/n - Ondina, Salvador - BA, 40170-115" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
- # - name: location
+  - name: location
  # - name: registration
  # - name: program
  # - name: speakers
