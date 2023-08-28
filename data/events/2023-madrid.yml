@@ -119,6 +119,10 @@ sponsors:
    level: gold
  - id: the-workshop
    level: gold
+ - id: redhat
+   level: gold
+ - id: intelygenz
+   level: gold
 # Silver
  - id: cloudappi
    level: silver

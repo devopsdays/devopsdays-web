@@ -96,6 +96,8 @@ sponsors:
     level: badge
   - id: osmi
     level: bronze
+  - id: scout
+    level: silver
 
 #  - id: samplesponsorname
 #    level: gold
@@ -286,7 +288,7 @@ ignites:
   - title: "steve-martinelli"
     date: 2023-09-27
     block: "ignite"
-  - title: "jeremy-meiss"
+  - title: "christopher-johnson"
     date: 2023-09-27
     block: "ignite"
   - title: "david-hope"
