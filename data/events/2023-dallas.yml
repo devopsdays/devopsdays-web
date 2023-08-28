@@ -250,7 +250,7 @@ sponsors:
     level: npo
   - id: dfwlivestream
     level: media
-    - id: slido
+  - id: slido
     level: media
 
 sponsors_accepted: "no" # Whether you want "Become a XXX Sponsor!" link
