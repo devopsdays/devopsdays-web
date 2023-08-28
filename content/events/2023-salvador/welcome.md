@@ -7,7 +7,7 @@ Description = "devopsdays Salvador 2023"
 
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
