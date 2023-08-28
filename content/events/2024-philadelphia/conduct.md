@@ -1,11 +1,11 @@
 +++
 Title = "Conduct"
 Type = "event"
-Description = "Code of conduct for devopsdays Philadelphia 2023"
+Description = "Code of conduct for devopsdays Philadelphia 2024"
 +++
 
 
-All attendees, speakers, sponsors, and volunteers at devopsdays Philadelphia 2023 are required to agree with the following code of conduct. Organizers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensure a safe environment for everybody.
+All attendees, speakers, sponsors, and volunteers at devopsdays Philadelphia 2024 are required to agree with the following code of conduct. Organizers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensure a safe environment for everybody.
 
 ### The Quick Version
 
@@ -25,4 +25,4 @@ Conference staff can be identified by distinct staff badges. Conference staff wi
 
 We expect participants to follow these rules at conference and workshop venues and conference-related social events.
 
-_The devopsdays Philadelphia 2023 Code of Conduct is based on [confcodeofconduct.com](https://confcodeofconduct.com)._ 
+_The devopsdays Philadelphia 2024 Code of Conduct is based on [confcodeofconduct.com](https://confcodeofconduct.com)._ 

@@ -1,24 +1,24 @@
-name: "2023-philadelphia" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
-year: "2023" # The year of the event. Make sure it is in quotes.
+name: "2024-philadelphia" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2024" # The year of the event. Make sure it is in quotes.
 city: "Philadelphia" # The displayed city name of the event. Capitalize it.
 event_twitter: "DevOpsDaysPHL" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "Devopsdays returns to Philadelphia in 2024!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
-# All dates are in unquoted 2023-MM-DDTHH:MM:SS+TZ:TZ, like this:
+# All dates are in unquoted 2024-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00
 #   variable: 2019-01-05T23:59:59+02:00
-# Note: we allow 2023-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+# Note: we allow 2024-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
 startdate: 2024-05-14T00:00:00+02:00
 enddate:  2024-05-15T00:00:00+02:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-#cfp_date_start: 2023-07-01T00:00:00+02:00
-#cfp_date_end:  2023-08-05T00:00:00+02:00
+#cfp_date_start: 2024-07-01T00:00:00+02:00
+#cfp_date_end:  2024-08-05T00:00:00+02:00
 cfp_date_announce:  # inform proposers of status
 
-cfp_link: "https://sessionize.com/devopsdays-philly-2023"
+#cfp_link: "https://sessionize.com/devopsdays-philly-2023"
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
@@ -36,7 +36,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: program
  # - name: speakers
   - name: registration
-  - name: propose
+ # - name: propose
   - name: sponsor
   - name: contact
   - name: conduct

@@ -1,13 +1,13 @@
 +++
 Title = "Sponsor"
 Type = "event"
-Description = "Sponsor DevOpsDays Philadelphia 2023"
+Description = "Sponsor DevOpsDays Philadelphia 2024"
 +++
 
 We greatly value sponsors for this open event. If you are interested in sponsoring, please drop us an email
 at {{< email_organizers >}}.
 
-<a href="https://assets.devopsdays.org/events/2023/philadelphia/dod-philly-sponsor-prospectus.pdf">A downloadable version of our prospectus is available here.</a>
+<a href="https://assets.devopsdays.org/events/2024/philadelphia/dod-philly-sponsor-prospectus.pdf">A downloadable version of our prospectus is available here.</a>
 
 <hr>
 
@@ -39,7 +39,7 @@ attendees as peers. Any attendee also has the opportunity to demo products/proje
         <td colspan="3"><small>
             Note: Paypal payments include 3% service charge.
             <br>
-            <a href="mailto:philadelphia@devopsdays.org?subject=DevOpsDays%20Philadelphia%202023%20Sponsorship">Email
+            <a href="mailto:philadelphia@devopsdays.org?subject=DevOpsDays%20Philadelphia%202024%20Sponsorship">Email
                 us</a> if you prefer to pay by check
         </small></td>
     </tr>
@@ -94,52 +94,52 @@ attendees as peers. Any attendee also has the opportunity to demo products/proje
     </tr>
     <tr>
         <td>Full table</td>
-        <td><img src="/events/2023-philadelphia/liberty-bell.png"></td>
-        <td><img src="/events/2023-philadelphia/liberty-bell.png"></td>
-        <td><img src="/events/2023-philadelphia/liberty-bell.png"></td>
+        <td><img src="/events/2024-philadelphia/logo.png"></td>
+        <td><img src="/events/2024-philadelphia/logo.png"></td>
+        <td><img src="/events/2024-philadelphia/logo.png"></td>
     </tr>
     <tr>
         <td>Logo on devopsdays Philadelphia website, main room signage, and email communication</td>
-        <td><img src="/events/2023-philadelphia/liberty-bell.png"></td>
-        <td><img src="/events/2023-philadelphia/liberty-bell.png"></td>
-        <td><img src="/events/2023-philadelphia/liberty-bell.png"></td>
+        <td><img src="/events/2024-philadelphia/logo.png"></td>
+        <td><img src="/events/2024-philadelphia/logo.png"></td>
+        <td><img src="/events/2024-philadelphia/logo.png"></td>
     </tr>
     <tr>
         <td>Logo on shared slide during breaks
         </td>
         <td></td>
-        <td><img src="/events/2023-philadelphia/liberty-bell.png"></td>
-        <td><img src="/events/2023-philadelphia/liberty-bell.png"></td>
+        <td><img src="/events/2024-philadelphia/logo.png"></td>
+        <td><img src="/events/2024-philadelphia/logo.png"></td>
     </tr>
     <tr>
         <td>Logo on dedicated slide during breaks
         </td>
-        <td><img src="/events/2023-philadelphia/liberty-bell.png"></td>
+        <td><img src="/events/2024-philadelphia/logo.png"></td>
         <td></td>
         <td></td>
     <tr>
         <td>Logo on shared slide in recorded video pre-rolls</td>
         <td></td>
-        <td><img src="/events/2023-philadelphia/liberty-bell.png"></td>
-        <td><img src="/events/2023-philadelphia/liberty-bell.png"></td>
+        <td><img src="/events/2024-philadelphia/logo.png"></td>
+        <td><img src="/events/2024-philadelphia/logo.png"></td>
         <td></td>
         <td></td>
     </tr>
     <tr>
         <td>Logo on dedicated slide in recorded video pre-rolls</td>
-        <td><img src="/events/2023-philadelphia/liberty-bell.png"></td>
+        <td><img src="/events/2024-philadelphia/logo.png"></td>
         <td></td>
         <td></td>
     </tr>
     <tr>
         <td>1-minute pitch to the full audience (including streaming if applicable)</td>
         <td></td>
-        <td><img src="/events/2023-philadelphia/liberty-bell.png"></td>
+        <td><img src="/events/2024-philadelphia/logo.png"></td>
         <td></td>
     </tr>
     <tr>
         <td>3-minute pitch in optimal timeslot to the full audience (including streaming if applicable)</td>
-        <td><img src="/events/2023-philadelphia/liberty-bell.png"></td>
+        <td><img src="/events/2024-philadelphia/logo.png"></td>
         <td></td>
         <td></td>
     </tr>
