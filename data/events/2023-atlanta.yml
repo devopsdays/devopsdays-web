@@ -88,10 +88,15 @@ sponsors:
     level: gold
   - id: pagerduty
     level: gold
-  - id: vmware
+  - id: vmware-tanzu
     level: gold
+  - id: devnexus
+    level: bronze
+  - id: dockerATL
+    level: community
   - id: arresteddevops
     level: community
+
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -99,18 +104,6 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
-
-
-sponsors:
-  - id: cloudbees
-    level: gold
-  - id: observeinc
-    level: gold
-  - id: pagerduty
-    level: gold
-  - id: vmware
-    level: gold
-  
 sponsor_levels:
   - id: platinum
     label: Platinum
@@ -202,6 +195,11 @@ program:
     date: 2023-09-18
     start_time: "14:15"
     end_time: "15:00"
+  - title: "MVP AI Hackathon"
+    type: open-space
+    date: 2023-09-18
+    start_time: "14:15"
+    end_time: "15:00"
   - title: "Break"
     type: custom
     date: 2023-09-18
@@ -212,7 +210,17 @@ program:
     date: 2023-09-18
     start_time: "15:15"
     end_time: "16:00"
+  - title: "MVP AI Hackathon"
+    type: open-space
+    date: 2023-09-18
+    start_time: "15:15"
+    end_time: "16:00"
   - title: "Open Space #3"
+    type: open-space
+    date: 2023-09-18
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "MVP AI Hackathon"
     type: open-space
     date: 2023-09-18
     start_time: "16:00"
@@ -297,6 +305,11 @@ program:
     date: 2023-09-19
     start_time: "14:15"
     end_time: "15:00"
+  - title: "MVP AI Hackathon"
+    type: open-space
+    date: 2023-09-19
+    start_time: "14:15"
+    end_time: "15:00"
   - title: "Break"
     type: custom
     date: 2023-09-19
@@ -307,7 +320,17 @@ program:
     date: 2023-09-19
     start_time: "15:15"
     end_time: "16:00"
+  - title: "MVP AI Hackathon"
+    type: open-space
+    date: 2023-09-19
+    start_time: "15:15"
+    end_time: "16:00"
   - title: "Open Space #3"
+    type: open-space
+    date: 2023-09-19
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "MVP AI Hackathon"
     type: open-space
     date: 2023-09-19
     start_time: "16:00"
