@@ -176,7 +176,7 @@ program:
     start_time: "12:00"
     end_time: "13:00"
   - title: "Ignites"
-    type: custom
+    type: ignite
     date: 2023-09-18
     start_time: "13:00"
     end_time: "13:30"
@@ -286,7 +286,7 @@ program:
     start_time: "12:00"
     end_time: "13:00"
   - title: "Ignites"
-    type: custom
+    type: ignite
     date: 2023-09-19
     start_time: "13:00"
     end_time: "13:30"
@@ -340,3 +340,10 @@ program:
     date: 2023-09-19
     start_time: "16:45"
     end_time: "17:00"
+ignites:
+  - title: "chris-stone"
+    date: 2023-09-18
+  - title: "ajuna-kyaruzi"
+    date: 2023-09-18
+  - title: "chris-corriere"
+    date: 2023-09-18
