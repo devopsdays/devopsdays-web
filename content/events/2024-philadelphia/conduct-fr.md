@@ -1,10 +1,10 @@
 +++
 Title = "Conduct"
 Type = "event"
-Description = "Code de conduite devopsdays Philadelphia 2023"
+Description = "Code de conduite devopsdays Philadelphia 2024"
 +++
 
-Tous les participants, conférenciers, sponsors et volontaires à devopsdays Philadelphia 2023 doivent accepter le code d'éthique et de déontologie, ou « code de conduite » suivant. Les organisateurs s’attacheront à faire respecter ce code durant l’événement. Nous attendons la coopération de chacun‧e pour assurer un environnement sain pour tous.
+Tous les participants, conférenciers, sponsors et volontaires à devopsdays Philadelphia 2024 doivent accepter le code d'éthique et de déontologie, ou « code de conduite » suivant. Les organisateurs s’attacheront à faire respecter ce code durant l’événement. Nous attendons la coopération de chacun‧e pour assurer un environnement sain pour tous.
 
 
 ### La Version Rapide
@@ -32,6 +32,4 @@ Les membres de l'organisation sont facilement identifiables grâce à un badge "
 
 Nous attendons de chacun‧e le respect de ces règles dans le bâtiment des conférences et des ateliers, ainsi que pendant les événements sociaux relatifs à la conférence.
 
-
-
-Le code de conduite devopsdays Philadelphia 2023 est basé sur [fr.confcodeofconduct.com](https://fr.confcodeofconduct.com)._ 
+Le code de conduite devopsdays Philadelphia 2024 est basé sur [fr.confcodeofconduct.com](https://fr.confcodeofconduct.com)._ 

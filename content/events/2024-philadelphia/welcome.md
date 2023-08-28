@@ -1,13 +1,17 @@
 +++
-Title = "devopsdays Philadelphia 2023"
+Title = "devopsdays Philadelphia 2024"
 Type = "welcome"
-aliases = ["/events/2023-philadelphia/"]
-Description = "devopsdays Philadelphia 2023"
+aliases = ["/events/2024-philadelphia/"]
+Description = "devopsdays Philadelphia 2024"
 +++
 
-<!-- <div style="text-align:center;">
+<div style="text-align:center;">
   {{< event_logo >}}
-</div> -->
+</div>
+
+<div class = "row" style="background: #ed0b07; color: #ffffff; padding: 20px; margin: 20px; font-size: 20px">
+<p>UPDATE: We have decided to postpone our event to Spring 2024. Our new dates are May 14th-15th 2024.
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -32,18 +36,18 @@ Description = "devopsdays Philadelphia 2023"
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    <a href="https://www.eventbrite.com/e/devopsdays-philadelphia-2023-tickets-692571328487">Register for the conference!</a>
+    <a href="https://www.eventbrite.com/e/devopsdays-philadelphia-2024-tickets-692571328487">Register for the conference!</a>
   </div>
 </div>
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    <a href="https://sessionize.com/devopsdays-philly-2023">Propose a talk!</a>
+    <a href="https://sessionize.com/devopsdays-philly-2024">Propose a talk!</a>
   </div>
-</div>
+</div> -->
 
 <!-- <div class = "row">
   <div class = "col-md-2">

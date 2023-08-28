@@ -4,7 +4,8 @@ Twitter = "ScoutAPM"
 image = "sarah-morgan.png"
 type = "speaker"
 linktitle = "sarah-morgan"
-
+linkedin = "https://www.linkedin.com/in/sarahgmorgan/"
+website = "https://www.telemetryhub.com/"
 +++
 
 ##### Senior Product Manager, TelemetryHub

@@ -4,7 +4,8 @@ Twitter = "ladymeyy"
 image = "mey-beisaron.png"
 type = "speaker"
 linktitle = "mey-beisaron"
-
+linkedin = "https://www.linkedin.com/in/ladymey/"
+website = "https://www.facebook.com/mey.akiva"
 +++
 
 ### Platform Engineer at Forter
