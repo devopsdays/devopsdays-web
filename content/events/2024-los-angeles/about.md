@@ -7,7 +7,7 @@ Description = "About DevOpsDays Los Angeles 2024"
 <hr>
 <h3>About Us</h3>
 <p>
-We are proud to announce the 13th Annual DevOpsDaysLA will be held Friday, March 15th, 2024. DevOpsDaysLA is an anual event held in Southern California. The conference is volunteer-organized and dedicated to the DevOps community. DevOpsDaysLA is presented in cooperation with the Southern California Linux Expo (SCALE).
+We are proud to announce the 13th Annual DevOpsDaysLA will be held Friday, March 15th, 2024. DevOpsDaysLA is an annual event held in Southern California. The conference is volunteer-organized and dedicated to the DevOps community. DevOpsDaysLA is presented in cooperation with the Southern California Linux Expo (SCALE).
 <br>
 <br>
 <img alt="DevOps" src="/events/2024-los-angeles/devops-loop.svg" style="width:35%">
@@ -18,3 +18,8 @@ We are proud to announce the 13th Annual DevOpsDaysLA will be held Friday, March
 
 <br>
 <hr>
+<style>
+  p {
+    text-align: justify;
+  }
+</style>
