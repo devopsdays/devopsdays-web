@@ -324,7 +324,7 @@ program:
     date: 2023-08-29
     start_time: "11:00"
     end_time: "11:30"
-  - title: "tyler-mcvety"
+  - title: "topo-pal"
     type: talk
     date: 2023-08-29
     start_time: "11:30"
@@ -430,7 +430,7 @@ program:
     date: 2023-08-30
     start_time: "12:00"
     end_time: "12:45"
-  - title: "topo-pal"
+  - title: "TBD"
     type: talk
     date: 2023-08-30
     start_time: "12:45"
