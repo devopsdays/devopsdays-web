@@ -4,7 +4,8 @@ Twitter = "chopra_tejas"
 image = "tejas-chopra.png"
 type = "speaker"
 linktitle = "tejas-chopra"
-
+linkedin = "https://www.linkedin.com/in/chopratejas"
+website = "https://www.netflix.com/"
 +++
 
 ##### Senior Software Engineer, Netflix

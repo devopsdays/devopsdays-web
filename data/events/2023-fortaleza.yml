@@ -135,7 +135,7 @@ team_members: # Name is the only required field for team members.
 
   - name: "Rafael Camelo"
     twitter: ""
-    employer: "RCN&BS"
+    employer: "Pague Menos"
     bio: "My name is Rafael, and I hold a Degree in Computer Networks as well as a Post Graduate degree in Information Security. Currently, I am immersing myself in studying the DevOps culture and its associated solutions. I reside in Fortaleza, Ceará, Brazil. I am employed at a technology-focused company where I work as an infrastructure analyst, providing solutions and services. In addition to my professional pursuits, I have a passion for sports such as judo and Crossfit. Furthermore, I enjoy reading about topics unrelated to IT."
     github: "rafaelm93"
     facebook: ""
@@ -185,7 +185,7 @@ team_members: # Name is the only required field for team members.
 
   - name: "Rafael Silva"
     twitter: "https://twitter.com/rafaotetra"
-    employer: "FortBrasil"
+    employer: "Dell Lead"
     bio: "I am a quadriplegic DevOps Engineer graduated in Computer Networks from the Federal University of Ceará - Campus Quixadá. Guided by the principles of Stoic philosophy, I find inspiration in music, books and sports. I am an enthusiast of the DevOps culture and the Open Source movement, I bring extensive expertise in cost management (FinOps) in AWS environments. My recent focus is on infrastructure as code (IaC) using Terraform, orchestration with Docker, ECS Fargate and Kubernetes. In addition, I have been exploring OpenTelemetry, Prometheus, Python and AI tools."
     github: "https://github.com/rafaotetra"
     facebook: ""
@@ -226,9 +226,15 @@ sponsors:
   - id: unifor
     level: platinum
     url: https://unifor.br/
+  - id: redhat
+    level: platinum
+    url: https://www.redhat.com/
   - id: trust-control
     level: platinum
     url: https://www.trustcontrol.com.br/
+  - id: paloalto
+    level: platinum
+    url: https://www.paloaltonetworks.com/
   - id: elastic
     level: gold
     url: https://www.elastic.co  

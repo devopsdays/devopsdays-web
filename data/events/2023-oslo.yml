@@ -79,10 +79,14 @@ organizer_email: "oslo@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: event
-    label: gold
-  - id: community
-    level: community
+  - id: redpill-linpro
+    level: gold
+  - id: vitec-software-group
+    level: gold
+  - id: kosli
+    level: gold
+  - id: coralogix
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

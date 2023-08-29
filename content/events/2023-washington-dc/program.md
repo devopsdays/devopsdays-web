@@ -14,3 +14,5 @@ Icons = "false"
   </div>
 </div>
 <script type="text/javascript" src="https://sessionize.com/api/v2/n7alb9up/view/GridSmart"></script>
+<div class = "row"></div>
+<script type="text/javascript" src="https://sessionize.com/api/v2/n7alb9up/view/SpeakerWall"></script>

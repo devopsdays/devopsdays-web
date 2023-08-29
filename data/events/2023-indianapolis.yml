@@ -110,6 +110,10 @@ sponsors:
     level: community
   - id: indyaws
     level: community
+  - id: cinlug
+    level: community
+  - id: puppet-by-perforce
+    level: alacarte
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -142,12 +146,7 @@ program:
     date: 2023-10-05
     start_time: "09:00"
     end_time: "09:15"
-  - title: "Preview of speakers - times will change"
-    type: custom
-    date: 2023-10-05
-    start_time: "09:00"
-    end_time: "09:15"
-  - title: "jj-asghar"
+  - title: "jason-yee"
     type: talk
     date: 2023-10-05
     start_time: "09:15"
@@ -157,7 +156,7 @@ program:
     date: 2023-10-05
     start_time: "09:45"
     end_time: "09:55"
-  - title: "jason-yee"
+  - title: "jj-asghar"
     type: talk
     date: 2023-10-05
     start_time: "09:55"
@@ -167,12 +166,12 @@ program:
     date: 2023-10-05
     start_time: "10:25"
     end_time: "10:40"
-  - title: "rohit-mishra"
+  - title: "melissa-thomas"
     type: talk
     date: 2023-10-05
     start_time: "10:40"
     end_time: "11:10"
-  - title: "sarah-morgan"
+  - title: "brian-sweeney"
     type: talk
     date: 2023-10-05
     start_time: "11:10"
@@ -182,7 +181,7 @@ program:
     date: 2023-10-05
     start_time: "11:40"
     end_time: "12:50"
-  - title: "melissa-thomas"
+  - title: "aaron-soellinger"
     type: talk
     date: 2023-10-05
     start_time: "12:50"
@@ -227,10 +226,10 @@ program:
     date: 2023-10-05
     start_time: "16:45"
     end_time: "17:00"
-  - title: "Fun Stuff Party Time"
+  - title: "After Party at Silo Auto Club"
     type: custom
     date: 2023-10-05
-    start_time: "18:00"
+    start_time: "17:15"
     end_time: "late"
   - title: "Registration and Breakfast"
     type: custom
@@ -242,12 +241,7 @@ program:
     date: 2023-10-06
     start_time: "09:00"
     end_time: "09:15"
-  - title: "Preview of speakers - times will change"
-    type: custom
-    date: 2023-10-06
-    start_time: "09:00"
-    end_time: "09:15"
-  - title: "aaron-soellinger"
+  - title: "baruch-sadogursky"
     type: talk
     date: 2023-10-06
     start_time: "09:15"
@@ -257,7 +251,7 @@ program:
     date: 2023-10-06
     start_time: "09:45"
     end_time: "09:55"
-  - title: "robert-clawson"
+  - title: "kendra-ash"
     type: talk
     date: 2023-10-06
     start_time: "09:55"
@@ -267,12 +261,12 @@ program:
     date: 2023-10-06
     start_time: "10:25"
     end_time: "10:40"
-  - title: "brian-sweeney"
+  - title: "rohit-mishra"
     type: talk
     date: 2023-10-06
     start_time: "10:40"
     end_time: "11:10"
-  - title: "baruch-sadogursky"
+  - title: "robert-clawson"
     type: talk
     date: 2023-10-06
     start_time: "11:10"
@@ -282,7 +276,7 @@ program:
     date: 2023-10-06
     start_time: "11:40"
     end_time: "12:50"
-  - title: "kendra-ash"
+  - title: "john-willis"
     type: talk
     date: 2023-10-06
     start_time: "12:50"
@@ -328,21 +322,21 @@ program:
     start_time: "16:45"
     end_time: "17:00"
 ignites:
+  - title: "mykel-alvis"
+    date: 2023-10-05
   - title: "jj-asghar-ignite"
     date: 2023-10-05
-  - title: "dwayne-mcdaniel"
+  - title: "daniel-ward"
     date: 2023-10-05
-  - title: "ed-legault"
-    date: 2023-10-05
-  - title: "jon-fazzaro"
-    date: 2023-10-05
-  - title: "greg-greenlee"
+  - title: "darren-mills"
     date: 2023-10-05
   - title: "trip-longworth"
+    date: 2023-10-05
+  - title: "ed-legault"
     date: 2023-10-06
-  - title: "mykel-alvis"
+  - title: "dwayne-mcdaniel"
     date: 2023-10-06
-  - title: "daniel-ward"
+  - title: "jon-fazzaro"
     date: 2023-10-06
-  - title: "darren-mills"
+  - title: "greg-greenlee"
     date: 2023-10-06

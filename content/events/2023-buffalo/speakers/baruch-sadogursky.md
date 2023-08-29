@@ -4,7 +4,7 @@ Twitter = "jbaruch"
 image = "baruch-sadogursky.png"
 type = "speaker"
 linktitle = "baruch-sadogursky"
-
+linkedin = "https://www.linkedin.com/in/jbaruch/"
 +++
 
 ##### Principal Developer Productivity Engineering Advocate, Gradle

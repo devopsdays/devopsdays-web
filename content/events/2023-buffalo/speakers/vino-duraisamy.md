@@ -1,10 +1,11 @@
 +++
 Title = "Vino Duraisamy"
 Twitter = "vinodhini_sd"
-image = ""
+image = "vino-duraisamy.png"
 type = "speaker"
 linktitle = "vino-duraisamy"
-
+linkedin = "https://www.linkedin.com/in/vinodhini-sd/"
+website = "https://vinodhini-sd.medium.com/"
 +++
 
 ##### Developer Advocate, Treeverse

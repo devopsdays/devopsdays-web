@@ -44,7 +44,9 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   # - name: CFP
   #   url: https://www.socallinuxexpo.org/scale/21x/cfp
   # - name: program
-  # - name: speakers  
+  # - name: speakers
+  - name: propose
+  - name: registration
   - name: volunteer
   - name: sponsor
   - name: contact
@@ -60,26 +62,35 @@ team_members: # Name is the only required field for team members.
   - name: "Bryna Kirzner"
     employer: ""
     twitter: "brynak"
-    bio: "Co-Chair DevOpsDayLA"
+    bio: "Co-founder and Co-Chair DevOpsDayLA"
     github: "brynak"
+    image: "bryna.jpg"
     linkedin: "https://www.linkedin.com/in/brynak"
   - name: "Murriel Perez-McCabe"
     employer: "Google"
+    github: "murriel"
+    image: "murriel.jpg"
     linkedin: "https://www.linkedin.com/in/murrielperez/"
     twitter: "xmurriel"
   - name: "Jordan Schwartz"
-  - name: "Carlos Meza"
-    github: "cmeza99"
-    linkedin: "https://www.linkedin.com/in/cmeza99"
+    twitter: "jordan247"
+    image: "jordan.jpg"
+    linkedin: "https://www.linkedin.com/in/jordan-schwartz-3770991/"
   - name: "Ilan Rabinovitch"
     twitter: "irabinovitch"
     github: "irabinovitch"
+    image: "ilan.jpg"
     employer: "Datadog"
     linkedin: "https://www.linkedin.com/in/irabinovitch/"
   - name: "Omar Alva"
     github: "omargohan"
     twitter: "omargohan"
+    employer: "MunichRE"
+    image: "omar.jpg"
     linkedin: "https://www.linkedin.com/in/omar-alva-60237919/"
+  - name: "Sharif Nassar"
+    github: "mrwacky42"
+    linkedin: "https://www.linkedin.com/in/sharifnassar42/"
 
 organizer_email: "los-angeles@devopsdays.org" # Put your organizer email address here
 

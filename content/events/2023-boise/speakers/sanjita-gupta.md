@@ -1,7 +1,7 @@
 +++
 Title = "Sanjita Gupta"
 Twitter = "SanjitaGupta07"
-image = ""
+image = "sanjita-gupta.jpg"
 type = "speaker"
 linktitle = "sanjita-gupta"
 

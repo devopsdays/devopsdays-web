@@ -74,7 +74,7 @@
 /nairobi/*		/events/2014-nairobi/:splat		302
 /nashville/*		/events/2023-nashville/:splat		302
 /natal/*		/events/2020-natal/:splat		302
-/new-york-city/*	/events/2021-new-york-city/:splat	302
+/new-york-city/*	/events/2023-new-york-city/:splat	302
 /new-zealand/*		/events/2019-auckland/:splat		302
 /newcastle/*		/events/2018-newcastle/:splat		302
 /oslo/*			/events/2023-oslo/:splat		302

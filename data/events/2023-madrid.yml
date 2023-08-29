@@ -36,7 +36,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: registration
   - name: location
   - name: speakers
-#  - name: program
+  - name: program
   - name: sponsor
   - name: propose
   - name: contact
@@ -119,6 +119,13 @@ sponsors:
    level: gold
  - id: the-workshop
    level: gold
+ - id: redhat
+   level: gold
+ - id: intelygenz
+   level: gold
+# Silver
+ - id: cloudappi
+   level: silver
 # Bronze
  - id: speedyrails
    level: bronze
