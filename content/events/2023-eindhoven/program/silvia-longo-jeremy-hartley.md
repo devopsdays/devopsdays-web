@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "How to Increase Developer Productivity and Happiness"
 Type = "talk"
-Speakers = ["silvia-longo"]
+Speakers = ["silvia-longo","jeremy-hartley"]
 +++
 
 You’re having that sinking feeling again; you have worked super hard all week long, and the end of the sprint is approaching but none of your stories are anywhere close to being merged. You feel like you have got nothing meaningful done. Where did your time go? Meetings, Slack, urgent requests… context switch, context switch, context switch….. 
