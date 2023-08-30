@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "Platform Engineering: Delivering Infrastructure as a Product with Terraform"
-Type = "workshop"
+Type = "talk"
 Speakers = ["jeferson-fernando"]
 +++
 

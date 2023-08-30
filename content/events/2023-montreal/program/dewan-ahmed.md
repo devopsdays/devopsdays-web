@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "Enforce fine-grained policy control across your data infrastructure."
-Type = "workshop"
+Type = "talk"
 Speakers = ["dewan-ahmed"]
 +++
 
