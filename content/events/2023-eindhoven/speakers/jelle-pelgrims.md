@@ -1,6 +1,6 @@
 +++
 Title = "Jelle Pelgrims"
-Twitter = "SPEAKERTWITTER"
+Twitter = ""
 image = "jelle-pelgrims.null"
 type = "speaker"
 linktitle = "jelle-pelgrims"

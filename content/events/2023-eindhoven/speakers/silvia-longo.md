@@ -1,9 +1,9 @@
 +++
-Title = "Silvia"
-Twitter = "SPEAKERTWITTER"
-image = "silvia.jpg"
+Title = "Silvia Longo"
+Twitter = ""
+image = "silvia-longo.jpg"
 type = "speaker"
-linktitle = "silvia"
+linktitle = "silvia-longo"
 
 +++
 

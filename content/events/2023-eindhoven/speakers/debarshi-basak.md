@@ -1,6 +1,6 @@
 +++
 Title = "Debarshi Basak"
-Twitter = "SPEAKERTWITTER"
+Twitter = ""
 image = "debarshi-basak.jpeg"
 type = "speaker"
 linktitle = "debarshi-basak"

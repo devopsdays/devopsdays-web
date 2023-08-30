@@ -1,6 +1,6 @@
 +++
 Title = "Phani Bhushan"
-Twitter = "SPEAKERTWITTER"
+Twitter = ""
 image = "phani-bhushan.jpg"
 type = "speaker"
 linktitle = "phani-bhushan"

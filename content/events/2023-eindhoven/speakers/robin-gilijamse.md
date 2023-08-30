@@ -1,6 +1,6 @@
 +++
 Title = "Robin Gilijamse"
-Twitter = "SPEAKERTWITTER"
+Twitter = ""
 image = "robin-gilijamse.jpg"
 type = "speaker"
 linktitle = "robin-gilijamse"

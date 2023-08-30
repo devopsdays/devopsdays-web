@@ -1,6 +1,6 @@
 +++
 Title = "Popoff Michka"
-Twitter = "SPEAKERTWITTER"
+Twitter = ""
 image = "popoff-michka.jpeg"
 type = "speaker"
 linktitle = "popoff-michka"

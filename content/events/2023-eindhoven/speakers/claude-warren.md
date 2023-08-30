@@ -1,6 +1,6 @@
 +++
 Title = "Claude Warren"
-Twitter = "SPEAKERTWITTER"
+Twitter = ""
 image = "claude-warren.png"
 type = "speaker"
 linktitle = "claude-warren"

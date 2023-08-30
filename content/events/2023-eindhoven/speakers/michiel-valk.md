@@ -1,6 +1,6 @@
 +++
 Title = "Michiel Valk"
-Twitter = "SPEAKERTWITTER"
+Twitter = ""
 image = "michiel-valk.jpg"
 type = "speaker"
 linktitle = "michiel-valk"

@@ -1,6 +1,6 @@
 +++
 Title = "Alessandro Vozza"
-Twitter = "SPEAKERTWITTER"
+Twitter = "bongo"
 image = "alessandro-vozza.png"
 type = "speaker"
 linktitle = "alessandro-vozza"

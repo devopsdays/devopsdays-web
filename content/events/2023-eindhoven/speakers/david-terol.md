@@ -1,6 +1,6 @@
 +++
 Title = "David Terol"
-Twitter = "SPEAKERTWITTER"
+Twitter = ""
 image = "david-terol.png"
 type = "speaker"
 linktitle = "david-terol"

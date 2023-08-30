@@ -1,6 +1,6 @@
 +++
 Title = "Stefan Holdermans"
-Twitter = "SPEAKERTWITTER"
+Twitter = ""
 image = "stefan-holdermans.jpg"
 type = "speaker"
 linktitle = "stefan-holdermans"

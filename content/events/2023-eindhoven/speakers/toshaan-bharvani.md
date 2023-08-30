@@ -1,6 +1,6 @@
 +++
 Title = "Toshaan Bharvani"
-Twitter = "SPEAKERTWITTER"
+Twitter = "toshywoshy"
 image = "toshaan-bharvani.jpg"
 type = "speaker"
 linktitle = "toshaan-bharvani"

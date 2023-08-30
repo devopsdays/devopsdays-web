@@ -1,6 +1,6 @@
 +++
 Title = "Hannah Paine"
-Twitter = "SPEAKERTWITTER"
+Twitter = ""
 image = "hannah-paine.jpg"
 type = "speaker"
 linktitle = "hannah-paine"

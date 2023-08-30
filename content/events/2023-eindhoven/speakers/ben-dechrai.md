@@ -1,6 +1,6 @@
 +++
 Title = "Ben Dechrai"
-Twitter = "SPEAKERTWITTER"
+Twitter = "bendechrai"
 image = "ben-dechrai.jpeg"
 type = "speaker"
 linktitle = "ben-dechrai"

@@ -1,6 +1,6 @@
 +++
 Title = "Dominik de Smit"
-Twitter = "SPEAKERTWITTER"
+Twitter = ""
 image = "dominik-de-smit.jpg"
 type = "speaker"
 linktitle = "dominik-de-smit"
