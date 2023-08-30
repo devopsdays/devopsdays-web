@@ -199,7 +199,7 @@ program:
     start_time: "09:00"
     end_time: "09:15"
   - title: "Keynote TBA"
-    type: talk
+    type: custom
     date: 2023-10-11T00:00:00+02:00
     start_time: "09:15"
     end_time: "09:40"
@@ -310,7 +310,7 @@ program:
     start_time: "09:00"
     end_time: "09:15"
   - title: "Keynote TBA"
-    type: talk
+    type: custom
     date: 2023-10-11T00:00:00+02:00
     start_time: "09:15"
     end_time: "09:40"
@@ -340,7 +340,7 @@ program:
     start_time: "11:30"
     end_time: "11:55"
   - title: "TBA"
-    type: talk
+    type: custom
     date: 2023-10-11T00:00:00+02:00
     start_time: "12:00"
     end_time: "12:25"
@@ -422,7 +422,7 @@ ignites:
   - title: "claude-warren"
     date: 2023-10-11T00:00:00+02:00
     block: ignite-2
-  - title: "daniel-maher"
+  - title: "daniel-phrawzty-maher"
     date: 2023-10-11T00:00:00+02:00
     block: ignite-2
   - title: "hannah-paine"
