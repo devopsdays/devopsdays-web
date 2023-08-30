@@ -114,6 +114,9 @@ sponsors:
     level: community
   - id: puppet-by-perforce
     level: alacarte
+  - id: silo-auto-club
+    level: alacarte
+
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -230,7 +233,7 @@ program:
     type: custom
     date: 2023-10-05
     start_time: "17:15"
-    end_time: "late"
+    end_time: "21:00"
   - title: "Registration and Breakfast"
     type: custom
     date: 2023-10-06
