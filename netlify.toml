@@ -14,6 +14,9 @@
   publish = "public/"
   skip_processing = true
 
+[build.processing]
+  skip_processing = true
+
 [context.production.environment]
    HUGO_VERSION = "0.102.3"
 
