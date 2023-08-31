@@ -36,15 +36,15 @@ masthead_background: "eindhoven-bg.jpeg"
 sharing_image: "logo-rectangle.png"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
-    icon: "bullhorn"
-    url: https://talx.devops.foundation/devopsdays-eindhoven-2023/cfp
+  # - name: propose
+  #   icon: "bullhorn"
+  #   url: https://talx.devops.foundation/devopsdays-eindhoven-2023/cfp
   - name: location
     icon: "map"
   - name: registration
     icon: "sign-in"
-  # - name: program
-  # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
     icon: "money"
   - name: contact
