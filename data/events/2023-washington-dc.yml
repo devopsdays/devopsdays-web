@@ -220,6 +220,8 @@ sponsors:
     level: platinum
   - id: scout
     level: gold
+  - id: coveros
+    level: gold
   - id: tremolo
     level: silver
   - id: raft
@@ -227,6 +229,8 @@ sponsors:
   - id: excella
     level: silver
   - id: eastbanc
+    level: silver
+  - id: configure8
     level: silver
   - id: kcddc
     level: community
