@@ -87,6 +87,14 @@ Description = "devopsdays Oslo 2023"
         </div>
         <div class = "row">
           <div class = "col-md-2">
+            <strong>Program</strong>
+          </div>
+          <div class = "col-md-8">
+              {{< event_link page="program" text="Program" >}}
+          </div>
+        </div>
+        <div class = "row">
+          <div class = "col-md-2">
             <strong>Speakers</strong>
           </div>
           <div class = "col-md-8">
