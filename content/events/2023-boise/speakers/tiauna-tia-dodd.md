@@ -1,7 +1,7 @@
 +++
 Title = "TiAuna (Tia) Dodd"
 Twitter = ""
-image = ""
+image = "tiauna-tia-dodd.jpg"
 type = "speaker"
 linktitle = "tiauna-tia-dodd"
 
