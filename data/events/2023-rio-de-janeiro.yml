@@ -80,7 +80,7 @@ team_members: # Name is the only required field for team members.
   - name: "Marcelo Freire"
     image: "marcelo-freire.jpg"
   - name: "Mauricio Gomes"
-    employer: "Hurb"
+    employer: "Banco Original"
     twitter: "mauriciogomesrj"
     github: "mauriciopgomes"
     linkedin: "https://www.linkedin.com/in/mauriciopgomes/"
@@ -115,6 +115,11 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/eduardosramos"
     website: "https://dev.to/eduardosramos"
     image: "eduardo-ramos.jpg"
+  - name: "Renan Castro"
+    employer: "FutParódias"
+    twitter: "Rccastrox"
+    linkedin: "https://www.linkedin.com/in/renan-castro-84966076/"
+    image: "renan-castro.jpg"
 
 organizer_email: "devopsdaysrio@gmail.com" # Put your organizer email address here
 
@@ -126,6 +131,8 @@ sponsors:
     level: platinum
   - id: vmware
     level: platinum
+  - id: vertigo
+    level: platinum
 
   #Gold 
   - id: harness
@@ -134,8 +141,14 @@ sponsors:
     level: gold
   - id: stone
     level: gold
+  - id: proxify
+    level: gold
 
   #Silver
+  - id: jack-experts
+    level: silver
+  - id: globotv
+    level: silver
 
   #Bronze
   - id: grafanalabs
@@ -205,10 +218,8 @@ program:
     comments: "Sala: Deploy"
 
   #Keynote-1
-  # - title: "juliana-dias"
-  #   type: talk
-  - title: "TBA"
-    type: custom
+  - title: "roze-cardoso"
+    type: talk
     date: 2023-08-19
     start_time: "10:00"
     end_time: "10:30"
@@ -228,10 +239,8 @@ program:
     end_time: "11:00"
     comments: "Trilha Iniciante - Sala: Deploy"
     background_color: "#fdf0d5"
-  # - title: "diego-morales"
-  #   type: talk
-  - title: "TBA"
-    type: custom
+  - title: "diego-morales"
+    type: talk
     date: 2023-08-19
     start_time: "10:30"
     end_time: "11:00"
@@ -251,7 +260,7 @@ program:
     end_time: "11:30"
     comments: "Trilha Iniciante - Sala: Deploy"
     background_color: "#fdf0d5"
-  - title: "julia-nunes-pedrosa"
+  - title: "julia-pedrosa"
     type: talk
     date: 2023-08-19
     start_time: "11:00"
@@ -260,10 +269,8 @@ program:
     background_color: "#81b29a"
 
   #Keynote-2
-  # - title: "carol-valenca"
-  #   type: talk
-  - title: "TBA"
-    type: custom
+  - title: "carol-valencia"
+    type: talk
     date: 2023-08-19
     start_time: "11:30"
     end_time: "12:00"
@@ -287,10 +294,8 @@ program:
     background_color: "#C3FFD7"
 
   #Keynote-3
-  # - title: "carol-valenca"
-  #   type: talk
-  - title: "TBA"
-    type: custom
+  - title: "danielle-monteiro"
+    type: talk
     date: 2023-08-19
     start_time: "13:45"
     end_time: "14:15"
@@ -310,10 +315,8 @@ program:
     end_time: "14:45"
     comments: "Trilha Iniciante - Sala: Deploy"
     background_color: "#fdf0d5"
-  # - title: "tatiane-paya"
-  #   type: talk
-  - title: "TBA"
-    type: custom
+  - title: "tatiane-paya"
+    type: talk
     date: 2023-08-19
     start_time: "14:15"
     end_time: "14:45"
@@ -326,19 +329,15 @@ program:
     date: 2023-08-19
     start_time: "14:45"
     end_time: "15:15"
-  # - title: "bernardo"
-  #   type: talk
-  - title: "TBA"
-    type: custom
+  - title: "bernardo-lopes"
+    type: talk
     date: 2023-08-19
     start_time: "14:45"
     end_time: "15:15"
     comments: "Trilha Iniciante - Sala: Deploy"
     background_color: "#fdf0d5"
-  # - title: "juliana-hellen"
-  #   type: talk
-  - title: "TBA"
-    type: custom
+  - title: "juliana-wisniewski"
+    type: talk
     date: 2023-08-19
     start_time: "14:45"
     end_time: "15:15"
@@ -351,10 +350,8 @@ program:
     date: 2023-08-19
     start_time: "15:15"
     end_time: "15:45"
-  # - title: "marcos-souza"
-  #   type: talk
-  - title: "TBA"
-    type: custom
+  - title: "marcos-souza"
+    type: talk
     date: 2023-08-19
     start_time: "15:15"
     end_time: "15:45"
@@ -394,10 +391,8 @@ program:
     # background_color: #FFB566
 
   #Keynote-4
-  # - title: "nina-da-hora"
-  #   type: talk
-  - title: "TBA"
-    type: custom
+  - title: "nina-da-hora"
+    type: talk
     date: 2023-08-19
     start_time: "17:15"
     end_time: "17:45"

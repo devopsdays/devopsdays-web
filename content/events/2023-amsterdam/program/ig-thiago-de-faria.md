@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Circling back to the foundation - from CALMS to KALMS"
 Type = "talk"
 Speakers = ["thiago-de-faria"]
+Youtube = "5U1q71gl7BE"
 +++
 One of the most overlooked advantages of the devops movement is its cultural aspects. Blameless, joint ownership, knowledge-sharing... things we all consider common-sense.
 

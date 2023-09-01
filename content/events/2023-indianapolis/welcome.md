@@ -5,89 +5,19 @@ aliases = ["/events/2023-indianapolis/"]
 Description = "devopsdays indianapolis 2023"
 +++
 
-<div style="text-align: center;">
-  <h4>
-    <a href="/events/2023-indianapolis/propose">CFP Deadline has been extended to June 1st!  Please send us your talk proposal! </a>
-  </h4>
-</div>
+<h2>{{< event_start >}} - {{< event_end >}}</h2>
 
-<div style="text-align:center;">
-  {{< event_logo >}}
-</div> 
+<img style="float: center; max-width: 500px; padding: 0px 20px 20px 0px" src="/events/2023-indianapolis/logo-square.jpg"></img>
 
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Dates</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_start >}} - {{< event_end >}}
-  </div>
-</div>
+Follow us on <a href="https://www.linkedin.com/company/devopsdaysindy/">LinkedIn</a>, <a href="https://twitter.com/devopsdaysindy">Twitter</a>, <a href="https://www.facebook.com/devopsdaysindy/">Facebook</a> and <a href="https://www.instagram.com/devopsdaysindy/">Instagram</a>.
+<br/>
+<br/>
 
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Location</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_location >}}
-  </div>
-</div> -->
+<h3><b>After party, October 5th</b></h3>
+<img style="float: center; max-width: 800px; padding: 0px 20px 20px 0px" src="/events/2023-indianapolis/silo_party.jpg"></img>
+<img style="float: center; max-width: 800px; padding: 0px 20px 20px 0px" src="/events/2023-indianapolis/racecar_sims.png"></img>
+<p>
+Join us at <a href="https://siloautoclub.com/">Silo Auto Club</a> after the conference on October 5th, at 5:15pm. We will have food, drinks and race car simulators surrounded by a large auto collection.
 
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Register</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
-  </div>
-</div> -->
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Propose</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
-  </div>
-</div> -->
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Program</strong>
-  </div>
-  <div class = "col-md-8">
-    View the {{< event_link page="program" text="program." >}}
-  </div>
-</div> -->
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Speakers</strong>
-  </div>
-  <div class = "col-md-8">
-    Check out the {{< event_link page="speakers" text="speakers!" >}}
-  </div>
-</div> -->
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Sponsors</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="sponsor" text="Sponsor the conference!" >}}
-  </div>
-</div>
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Contact</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="contact" text="Get in touch with the organizers" >}}
-  </div>
-</div>
-
-<!-- Uncomment if you added your city twitter name -->
-<!--
-{{< event_twitter >}}
--->
+The <a href="https://goo.gl/maps/v8E5HT1CFsPrnCSU6">address</a> is 644 E Washington Street, Indianapolis, IN 46204.
+</p>

@@ -14,12 +14,12 @@ event_group: "Birmingham, UK"
 # Note: we allow 2023-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
 startdate: 2023-06-15T09:00:00+00:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  2023-06-16T09:00:00+00:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2023-06-16T09:00:00+00:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  2022-11-01T09:00:00+00:00 # start accepting talk proposals.
-cfp_date_end:  2023-03-30T09:00:00+00:00 # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2022-11-01T09:00:00+00:00 # start accepting talk proposals.
+cfp_date_end: 2023-03-30T09:00:00+00:00 # close your call for proposals.
+cfp_date_announce: # inform proposers of status
 
 cfp_link: "https://sessionize.com/devopsdays-birmingham-uk-2023/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
@@ -37,8 +37,8 @@ location: "Millennium Point" # Defaults to city, but you can make it the venue n
 location_address: "Millennium Point, Curzon Street, Birmingham" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
- # - name: location
+  # - name: propose
+  # - name: location
   - name: registration
   - name: program
   - name: speakers
@@ -48,7 +48,6 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
-
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
@@ -71,7 +70,7 @@ team_members: # Name is the only required field for team members.
   - name: "Dan Webb"
     twitter: "dan_webb"
     github: "damacus"
-    employer: "Independent Consultant"  
+    employer: "Independent Consultant"
     image: "dan-webb.jpg"
   - name: "Maria Aveiro"
     employer: "ManyPets"
@@ -111,13 +110,23 @@ sponsors:
     level: silver
   - id: many-pets
     level: bronze
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+  - id: aqua_sec
+    level: silver
+  - id: newrelic
+    level: silver
+  - id: school_of_code
+    level: community
+  - id: bluetel
+    level: platinum
+sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: platinum
+    label: Platinum
   - id: gold
     label: Gold
   - id: silver
@@ -135,13 +144,13 @@ sponsor_levels:
     label: Talent Solutions
     max: 1
 
-
 program:
-  - title: "Pre-conference Social at Tilt - Birmingham"
+  - title: "Pre-conference Social @ Tilt Birmingham"
     type: custom
-    date: 2023-06-14T19:30:00+00:00
-    start_time: "19:30"
-    end_time: "23:00"
+    date: 2023-06-14T18:00:00+00:00
+    start_time: "18:00"
+    end_time: "21:00"
+    custom_url: "https://www.tiltbrum.com/"
   - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2023-06-15T09:00:00+00:00
@@ -246,7 +255,7 @@ program:
     start_time: "14:10"
     end_time: "14:40"
     background_color: "#8ad0d3"
-  - title: "amanda-brock"
+  - title: "eli-holderness"
     type: talk
     date: 2023-06-15T09:00:00+00:00
     start_time: "14:40"
@@ -273,7 +282,7 @@ program:
     start_time: "15:30"
     end_time: "16:00"
     background_color: "#8ad0d3"
-  - title: "joanna-suau"
+  - title: "max-woolf"
     type: talk
     date: 2023-06-15T09:00:00+00:00
     start_time: "16:00"
@@ -290,12 +299,12 @@ program:
     start_time: "16:30"
     end_time: "16:40"
     background_color: "#abebff"
-  - title: "Evening event @ Luna Springs"
+  - title: "Evening event @ Hockley Social Club"
     type: custom
     date: 2023-06-15T09:00:00+00:00
     start_time: "17:30"
     end_time: "late"
-    custom_url: "https://www.lunasprings.co.uk/"
+    custom_url: "http://hockleysocialclub.com/"
 
   # TODO day 2
   - title: "Registration, Breakfast, Sponsors"
@@ -324,7 +333,7 @@ program:
     date: 2023-06-16T09:00:00+00:00
     start_time: "09:55"
     end_time: "10:25"
-  - title: "simon-gurney"
+  - title: "louise-paling"
     type: talk
     date: 2023-06-16T09:00:00+00:00
     start_time: "09:55"
@@ -363,7 +372,7 @@ program:
     start_time: "12:00"
     end_time: "12:30"
     background_color: "#abebff"
-  - title: "andy-burgin"
+  - title: "daniel-oates-lee"
     type: talk
     date: 2023-06-16T09:00:00+00:00
     start_time: "12:00"
@@ -402,7 +411,7 @@ program:
     start_time: "14:10"
     end_time: "14:40"
     background_color: "#8ad0d3"
-  - title: "eli-holderness"
+  - title: "andy-burgin"
     type: talk
     date: 2023-06-16T09:00:00+00:00
     start_time: "14:40"
@@ -429,7 +438,7 @@ program:
     start_time: "15:30"
     end_time: "16:00"
     background_color: "#8ad0d3"
-  - title: "max-woolf"
+  - title: "joanna-suau"
     type: talk
     date: 2023-06-16T09:00:00+00:00
     start_time: "16:00"

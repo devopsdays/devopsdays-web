@@ -18,8 +18,8 @@ enddate: 2023-11-08T23:59:59+02:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2023-06-01T00:00:00+02:00
-cfp_date_end: 2023-09-05T23:59:59+02:00
-cfp_date_announce: 2023-09-15T00:00:00+02:00
+cfp_date_end: 2023-09-15T23:59:59+02:00
+cfp_date_announce: 2023-09-22T00:00:00+02:00
 
 cfp_link: "https://devopsdays.pl/call-for-papers-2023/"
 
@@ -78,18 +78,18 @@ team_members: # Name is the only required field for team members.
     image: "koltermann.jpg"
     bio: "Docker Certified Associate and Docker Community Leader in Warsaw. Senior Software Engineer at GOG.com. Team DevOps, active everywhere where developers and IT meet, like development environment, deploy pipelines or Kubernetes. Master of Science in Computer Networking. Active Docker and Kubernetes advocate, performing lectures and trainings."
   - name: "Jakub Kozioł"
-    image: "placeholder.jpg"
+    image: "jakub-koziol.jpg"
     employer: "PROIDEA"
-  - name: "Oliwia Kozioł"
-    image: "placeholder.jpg"
-    employer: "PROIDEA"
-  - name: "Rafał Małanij"
-    image: "malanij.jpg"
-    bio: "Tech guy, business guy, organizer, IT enthusiast, data lover. For the past 10 years of his professional experience he was doing tech positions working with loads of data, then managing projects, managing people and finally conducting visions and customer needs to succesful delivery as a business developer. Always willing to learn, open to new ideas, especially in the Tech industry. Right now focusing on his startup projects and organizing meetup – PyData Warsaw and Genomics and Bioinformatics meetup."
-    linkedin: "https://www.linkedin.com/in/kozlowski-adam/"
   - name: "Joanna Matusiak"
+    image: "joanna-matusiak.jpg"
+    employer: "PROIDEA"
+  - name: "Olga Michaliszyn"
     image: "placeholder.jpg"
     employer: "PROIDEA"
+  - name: "Aleksandra Michalska"
+    image: "aleksandra-michalska.jpg"
+    employer: "PROIDEA"
+    bio: "Communication, connecting the community, talking about IT from a non-tech perspective. Aleksandra is the invisible voice of the conference, making sure everyone feels well-informed and gets answers to all questions."
   - name: "Karolina Ochlik"
     image: "karolina.jpg"
     employer: "AstraZeneca"
@@ -98,9 +98,10 @@ team_members: # Name is the only required field for team members.
   - name: "Paweł Piwosz"
     employer: "Spacelift"
     image: "piwosz.jpg"
+    description: "DevOps Institute Ambassador. CD.Foundation Ambassador. AWS Community Builder. Engineer, leader, mentor, speaker. My focus is on CALMS. I am building better understanding of DevOps as driver for the organization. I am devoted to Serverless and CI/CD. I authored the framework for design the CI/CD - www.cicd.run. Host of Last Week In IT and DevOps In Agile Way podcasts."
   - name: "Paulina Tomaszewska"
     employer: "PROIDEA"
-    image: "placeholder.jpg"
+    image: "paulina-tomaszewska.jpg"
 
 organizer_email: "warsaw@devopsdays.org" # Put your organizer email address here
 

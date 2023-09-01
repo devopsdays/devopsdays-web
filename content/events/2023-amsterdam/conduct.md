@@ -23,7 +23,7 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 Conference staff can be identified by distinct staff badges. Our Code of Conduct team members are:
 - Floor Drees (organizer), she/her, NL/DE/EN, `floordrees@gmail.com`, `floordrees` on Telegram
-- Jos van Schouten (organizer), he/his, EN/NL, `jos.vanschouten@gmail.com`
+- Jos van Schouten (organizer), he/his, EN/NL, `jos.vanschouten@gmail.com`, `josvanschouten` on Telegram
 - Feu Mourek (external), they/them, EN/DE, `devopsdays_coc@feu-mourek.de`, `devopsdays_coc_feu` on Telegram
 
 We're happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.

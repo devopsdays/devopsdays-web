@@ -11,7 +11,7 @@ Sponsors have recognition on the website and social media before and during the 
 Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers.
 All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.  The best thing to do is send practitioners to interact with their peers at DevOpsDays on their own terms. 
 
-We expect over 270 attendees based on venue capacity and past participation, and they will represent the diverse nature of the DC-Maryland-Virginia economy.
+We expect over 300 attendees based on venue capacity and past participation, and they will represent the diverse nature of the DC-Maryland-Virginia economy.
 
 DevOpsDays DC does not share registration information directly with sponsors, but feel free to ask attendees for their contact details. 
 
@@ -64,14 +64,7 @@ The following chart outlines our standard sponsorship packages.
         <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
       </form>
     </td>
-    <td><strong>$3,500 USD</strong>
-      <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-        <input type="hidden" name="cmd" value="_s-xclick">
-        <input type="hidden" name="hosted_button_id" value="WCG86MGP8GJCU">
-        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-       <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-      </form>
-    </td>
+    <td><strong class="stamp">SOLD OUT</strong></td> 
       <td><strong>$2,000 USD</strong>
       <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
         <input type="hidden" name="cmd" value="_s-xclick">
@@ -83,9 +76,9 @@ The following chart outlines our standard sponsorship packages.
   </tr>
     <tr>
     <td>Available sponsorships</td>
-      <td class="yes"><strong>10</strong></td>
-      <td class="yes"><strong>4</strong></td>
-      <td class="yes"><strong>6</strong></td>
+      <td class="yes"><s>10</s><strong>1</strong></td>
+      <td class="yes"><s>4</s><strong>0</strong></td>
+      <td class="yes"><s>6</s><strong>1</strong></td>
   </tr>
   <tr>
     <td>Logo on shared slide, rotating during breaks</td>

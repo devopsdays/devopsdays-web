@@ -14,31 +14,31 @@ startdate:  2023-10-20T08:00:00-05:00 # The start date of your event. Leave blan
 enddate:  2023-10-20T19:00:00-05:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2023-01-12T17:30:00-05:00  # start accepting talk proposals.
+cfp_date_end: 2023-09-01T23:59:00-05:00  # close your call for proposals.
+cfp_date_announce: 2023-09-13T23:59:00-05:00  # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://www.papercall.io/devopsdaysbogota2023" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: 2023-03-01T17:30:00-06:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2023-10-01T17:30:00-06:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://devopsdaysbogota.org/entradas/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
-coordinates: "4.66138889, -74.10055556" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Hotel Casa Dann Carlton" # Defaults to city, but you can make it the venue name.
+coordinates: "4.660115, -74.108950" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Hotel Sheraton Bogotá" # Defaults to city, but you can make it the venue name.
 #
-location_address: "Cl. 93b #19-44, Bogotá, Cundinamarca"  #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "Cl. 25B #Nº 69 C-80, Fontibón, Bogotá, Cundinamarca"  #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: Spanish
     url: "https://devopsdaysbogota.org"  
- # - name: propose
- # - name: location
- # - name: registration
+  - name: propose
+  - name: location
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -71,12 +71,36 @@ organizer_email: "bogota@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
- # - id: samplesponsorname
- #  level: gold
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
- # - id: arresteddevops
- #   level: community
-
+  - id: devops-latam
+    level: diamond
+  - id: sigitat
+    level: diamond
+  - id: harness
+    level: platinum
+  - id: manage-engine
+    level: gold
+  - id: herzum
+    level: platinum
+  - id: devco
+    level: gold
+  - id: fluidattacks
+    level: diamond
+  - id: certiprof
+    level: community
+  - id: certjoin
+    level: community  
+  - id: ingram-micro
+    level: diamond
+  - id: krav
+    level: gold
+  - id: lugapel
+    level: gold
+  - id: elastic
+    level: gold
+  - id: iteraprocess
+    level: gold
+  - id: quind
+    level: platinum  
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.

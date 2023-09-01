@@ -208,8 +208,8 @@ would like to put together a custom package, let us know.
       <td style="padding: 5px" align="center">$1,000</td>
     </tr>
     <tr>
-      <td style="padding: 5px" aling="left">Coffee station (both days) - Signage provided</td>
-      <td style="padding: 5px" align="center">$500</td>
+      <td style="padding: 5px" aling="left"><strike>Coffee station (both days) - Signage provided</strike></td>
+      <td style="padding: 5px" align="center"><strike>$500</strike></td>
     </tr>
     <tr>
       <td style="padding: 5px" aling="left">Breakfast buffet (both days) - Signage provided</td>
@@ -228,8 +228,8 @@ would like to put together a custom package, let us know.
       <td style="padding: 5px" align="center"><strike>$1,000</strike></td>
     </tr>
     <tr>
-      <td style="padding: 5px" aling="left">Day 2 Lunch - Signage provided, 3 minute pitch and video loop (no audio) during lunch</td>
-      <td style="padding: 5px" align="center">$1,000</td>
+      <td style="padding: 5px" aling="left"><strike>Day 2 Lunch - Signage provided, 3 minute pitch and video loop (no audio) during lunch</strike></td>
+      <td style="padding: 5px" align="center"><strike>$1,000</strike></td>
     </tr>
     <tr>
       <td style="padding: 5px" aling="left">After party - Premium Banner placement on stage, multiple pitches and extra drink tickets</td>

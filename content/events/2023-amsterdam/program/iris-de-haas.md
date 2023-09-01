@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "The Next Generation of IT: Harnessing the Potential of Trainees"
 Type = "talk"
 Speakers = ["iris-de-haas"]
+Youtube = "_QZwtDFH0M8"
 +++
 Does your organization aim to increase productivity, decrease time to market and become more efficient? Then you need engineers with the right skills to improve productivity and strengthen the engineering culture. However, it can be difficult to find experienced engineers to fill the gaps. Over the past few years, we at ING have found that hiring (external) trainees with little to no IT experience and investing in their development is a great way of meeting our talent needs.
 

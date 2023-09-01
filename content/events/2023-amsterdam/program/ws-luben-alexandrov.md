@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Peer Code Review Best Practices"
+Title = "Efficient Peer Code Review"
 Type = "talk"
 Speakers = ["luben-alexandrov"]
 +++

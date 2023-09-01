@@ -40,11 +40,15 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: location
   - name: registration
  # - name: program
- # - name: speakers
- #   url: https://devopsdays.com.ua/#speakers
+  - name: speakers
+    url: https://www.devopsdays.com.ua/#speakers
   - name: sponsor
   - name: contact
   - name: conduct
+  - name: Donate
+    url: https://www.devopsdays.com.ua/charity
+  - name: devopsdays.com.ua
+    url: https://devopsdays.com.ua/
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -106,6 +110,10 @@ organizer_email: "kyiv@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: kubecon-2023
+    level: platinum
+  - id: squad
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

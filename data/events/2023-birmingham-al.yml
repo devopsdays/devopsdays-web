@@ -24,7 +24,7 @@ cfp_link: "" #if you have a custom link for submitting proposals, add it here. T
 registration_date_start: 2022-08-07T13:00:00-05:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 registration_date_end: 2023-04-20T08:30:00-05:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
-registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_closed: true #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://www.eventbrite.com/e/devopsdays-birmingham-al-2023-tickets-397507805547" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location

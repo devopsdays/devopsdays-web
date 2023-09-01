@@ -26,11 +26,11 @@ location: "Boise Centre East"
 location_address: "195 South Capitol Boulevard Boise, ID 83706 United States"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+  #- name: propose
   - name: location
   - name: registration
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -60,10 +60,141 @@ team_members: # Name is the only required field for team members.
 
 organizer_email: "boise@devopsdays.org"
 
+program:
+  - title: "Attendee Registration and Badge Pickup"
+    type: custom
+    date: 2023-09-12T08:00:00-07:00
+    start_time: "08:00 AM"
+    end_time: "09:00 AM"
+  - title: "Opening Remarks"
+    type: custom
+    date: 2023-09-12T08:00:00-07:00
+    start_time: "09:00 AM"
+    end_time: "09:30 AM"
+  - title: "emily-freeman"
+    type: talk
+    date: 2023-09-12T08:00:00-07:00
+    start_time: "09:30 AM"
+    end_time: "10:00 AM"
+  - title: "Sponsors"
+    type: custom
+    date: 2023-09-12T08:00:00-07:00
+    start_time: "10:00 AM"
+    end_time: "10:05 AM"
+  - title: "jason-yee"
+    type: talk
+    date: 2023-09-12T08:00:00-07:00
+    start_time: "10:05 AM"
+    end_time: "10:35 AM"
+  - title: "Sponsors"
+    type: custom
+    date: 2023-09-12T08:00:00-07:00
+    start_time: "10:35 AM"
+    end_time: "10:40 AM"
+  - title: "brooke-jamieson"
+    type: talk
+    date: 2023-09-12T08:00:00-07:00
+    start_time: "10:40 AM"
+    end_time: "11:10 AM"
+  - title: "Break"
+    type: custom
+    date: 2023-09-12T08:00:00-07:00
+    start_time: "11:10 AM"
+    end_time: "11:20 AM"
+  - title: "kendra-ash"
+    type: talk
+    date: 2023-09-12T08:00:00-07:00
+    start_time: "11:20 AM"
+    end_time: "11:50 AM"
+  - title: "Sponsors"
+    type: custom
+    date: 2023-09-12T08:00:00-07:00
+    start_time: "11:50 AM"
+    end_time: "11:55 AM"
+  - title: "clara-freeman"
+    type: talk
+    date: 2023-09-12T08:00:00-07:00
+    start_time: "11:55 AM"
+    end_time: "12:00 PM"
+  - title: "john-willis"
+    type: talk
+    date: 2023-09-12T08:00:00-07:00
+    start_time: "12:00 PM"
+    end_time: "12:30 PM"
+  - title: "Lunch"
+    type: custom
+    date: 2023-09-12T08:00:00-07:00
+    start_time: "12:30 PM"
+    end_time: "01:30 PM"
+  - title: "Welcome Back"
+    type: custom
+    date: 2023-09-12T08:00:00-07:00
+    start_time: "01:30 PM"
+    end_time: "01:45 PM"
+  - title: "Open Spaces: Introduction and Voting"
+    type: open-space
+    date: 2023-09-12T08:00:00-07:00
+    start_time: "01:45 PM"
+    end_time: "02:00 PM"
+  - title: "Open Spaces: Round #1"
+    type: open-space
+    date: 2023-09-12T08:00:00-07:00
+    start_time: "02:00 PM"
+    end_time: "02:25 PM"
+  - title: "Open Spaces: Round #2"
+    type: open-space
+    date: 2023-09-12T08:00:00-07:00
+    start_time: "02:30 PM"
+    end_time: "02:55 PM"
+  - title: "Open Spaces: Round #3"
+    type: open-space
+    date: 2023-09-12T08:00:00-07:00
+    start_time: "03:00 PM"
+    end_time: "03:25 PM"
+  - title: "Open Spaces: Round #4"
+    type: open-space
+    date: 2023-09-12T08:00:00-07:00
+    start_time: "03:30 PM"
+    end_time: "03:55 PM"
+  - title: "Sponsors"
+    type: custom
+    date: 2023-09-12T08:00:00-07:00
+    start_time: "03:55 PM"
+    end_time: "04:00 PM"
+  - title: "Break"
+    type: custom
+    date: 2023-09-12T08:00:00-07:00
+    start_time: "04:00 PM"
+    end_time: "04:10 PM"
+  - title: "tiauna-tia-dodd"
+    type: talk
+    date: 2023-09-12T19:00:00-07:00
+    start_time: "04:10 PM"
+    end_time: "04:40 PM"
+  - title: "Closing Remarks"
+    type: custom
+    date: 2023-09-12T08:00:00-07:00
+    start_time: "04:45 PM"
+    end_time: "05:00 PM"
+
 sponsors:
   - id: 2023-intimetec
     level: platinum
+  - id: devopsdays-austin
+    level: bronze
+  - id: devopsdays-denver
+    level: bronze
+  - id: devopsdays-nyc
+    level: bronze
+  - id: devopsdays-seattle
+    level: bronze
   - id: fastly
+    level: gold
+  - id: idahotechcouncil
+    level: gold
+  - id: simplot
+    level: bronze
+  - id: trailhead
     level: gold
 
 sponsors_accepted: "yes"
