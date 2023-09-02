@@ -265,6 +265,9 @@ sponsors:
   - id: crowdsec
     level: community
     url: https://crowdsec.net/ 
+  - id: clear-it
+    level: community
+    url: https://clearit.com.br/  
   - id: grafanabr
     level: bronze
     url: https://grafana.com/
