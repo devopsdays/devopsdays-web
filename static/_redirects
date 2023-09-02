@@ -79,7 +79,7 @@
 /newcastle/*		/events/2018-newcastle/:splat		302
 /oslo/*			/events/2023-oslo/:splat		302
 /paris/*		/events/2021-paris/:splat		302
-/philadelphia/*		/events/2023-philadelphia/:splat	302
+/philadelphia/*		/events/2024-philadelphia/:splat	302
 /phoenix/*		/events/2023-phoenix/:splat		302
 /pittsburgh/*		/events/2015-pittsburgh/:splat		302
 /portland-me/*		/events/2020-portland-me/:splat		302
@@ -169,6 +169,10 @@
 /organizer-summit/*            /events/2023-organizer-summit/:splat           302
 /organiser-summit/*            /events/2023-organizer-summit/:splat           302
 /nova-lima/*            /events/2024-nova-lima/:splat           302
+
+
+# migrate rescheduled event
+/events/2023-philadelphia/* /events/2024-philadelphia/:splat	302
 
 # 10822: Migrate PDFs within static/ to assets.devopsdays.org
 /events/2023-new-york-city/dodnyc-23-sponsor-prospectus.pdf                             https://assets.devopsdays.org/events/2023/new-york-city/dodnyc-23-sponsor-prospectus.pdf                           301
