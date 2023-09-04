@@ -39,14 +39,6 @@ Description = "devopsdays Vilnius 2023"
                         <a href="https://fienta.com/devopsdays-vilnius-2023">Register / Buy your ticket here!</a>
                     </div>
                 </div>
-                <div class="row">
-                    <div class="col-md-2">
-                        <strong>Ignite submission</strong>
-                    </div>
-                    <div class="col-md-8">
-                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfeb1MsCAALmzaZ-LvAUw51W4QbtY_RqtwA9_1fjeg_eZWGDg/viewform">Propose Ignite talk</a>
-                    </div>
-                </div>
                 <div class = "row">
                   <div class = "col-md-2">
                     <strong>Program</strong>
@@ -62,14 +54,6 @@ Description = "devopsdays Vilnius 2023"
                   <div class = "col-md-8">
                     Check out the {{< event_link page="speakers" text="speakers" >}}
                   </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-2">
-                        <strong>Sponsors</strong>
-                    </div>
-                    <div class="col-md-8">
-                        {{< event_link page="sponsor" text="Sponsor the conference">}}
-                    </div>
                 </div>
                 <div class="row">
                     <div class="col-md-2">
