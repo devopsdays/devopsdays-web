@@ -143,13 +143,23 @@ organizer_email: "eindhoven@devopsdays.org" # Put your organizer email address h
 sponsors:
   # social
   # beer
+  - id: contrast_security
+    level: beer
   # gold
   - id: cegeka
+    level: gold
+  - id: jumbo
+    level: gold
+  - id: innvolve
     level: gold
   # lanyard
   # lunch
   # recharge
   # silver
+  - id: raftech
+    level: silver
+  - id: enterprisedb
+    level: silver
   # bronze
   - id: inuits
     level: bronze
