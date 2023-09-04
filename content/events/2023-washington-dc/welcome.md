@@ -27,14 +27,14 @@ Description = "devopsdays Washington, D.C. 2023"
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    <a href="https://www.eventbrite.com/e/devopsdays-dc-2022-tickets-345684861727">Register to attend the conference!</a>
+    <a href="https://www.eventbrite.com/e/devopsdays-dc-2023-tickets-553328328927">Register to attend the conference!</a>
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -54,21 +54,21 @@ Description = "devopsdays Washington, D.C. 2023"
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
-    Check out the {{< event_link page="speakers" text="speakers!" >}}
+    {{< event_link page="speakers" text="Check out the speakers!" >}}
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="sponsor" text="Sponsor the conference!" >}}
+    {{< event_link page="sponsor" text="SOLD OUT" >}}
   </div>
 </div>
 
