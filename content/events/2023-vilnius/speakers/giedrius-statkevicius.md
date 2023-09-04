@@ -2,6 +2,7 @@
 Title = "Giedrius Statkevičius"
 type = "speaker"
 linktitle = "giedrius-statkevicius"
+image = "giedrius-statkevicius.jpg"
 linkedin = "https://www.linkedin.com/in/giedrius-statkevi%C4%8Dius-3aa997110/"
 website = "https://giedrius.blog"
 Twitter = "@GiedriusS"
