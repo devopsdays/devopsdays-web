@@ -29,3 +29,8 @@ The conference will provide volunteers with breakfast, lunch, and snacks through
 </div>
 
 <hr>
+<style>
+  p {
+    text-align: justify;
+  }
+</style>

@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "JULIE: Modern Application Debugging: An Intro to OpenTelemetry"
+Title = "Modern Application Debugging: An Intro to OpenTelemetry"
 Type = "talk"
 Speakers = ["josh-lee"]
 +++

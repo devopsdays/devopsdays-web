@@ -4,7 +4,7 @@ Twitter = ""
 image = "david-hope.png"
 type = "speaker"
 linktitle = "david-hope"
-
+linkedin = "https://www.linkedin.com/in/davidgeorgehope/"
 +++
 
 ##### Director, Observability Product Marketing at Elastic

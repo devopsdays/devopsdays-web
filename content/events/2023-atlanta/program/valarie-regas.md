@@ -1,5 +1,5 @@
 +++
-Title = "Thiving in Minimum Viability: The Adaptive Approach"
+Title = "The Product Doesn't Develop Itself: A Business Case for Taking Care of Engineers"
 Type = "talk"
 Speakers = ["valarie-regas"]
 sharing_image = "valarie-regas.jpg"
