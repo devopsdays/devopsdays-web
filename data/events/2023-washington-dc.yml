@@ -27,6 +27,7 @@ registration_date_end: 2023-09-14T23:59:59-04:00
 registration_link: "https://www.eventbrite.com/e/devopsdays-dc-2023-tickets-553328328927"
 
 masthead_background: "uscapitol.jpg"
+sharing_image: "dc-sharing.png"
 
 # Location
 #
@@ -234,7 +235,11 @@ sponsors:
     level: silver
   - id: configure8
     level: silver
+  - id: googlecloud
+    level: silver
   - id: kcddc
+    level: community
+  - id: devopsdc-meetup
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
