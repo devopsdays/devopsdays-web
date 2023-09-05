@@ -122,6 +122,12 @@ sponsors:
     level: community
   - id: vmware-tanzu
     level: platinum
+  - id: nobl9
+    level: platinum
+  - id: digitalcharter
+    level: inkind
+  - id: teksystems
+    level: inkind
     
 #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 # - id: arresteddevops
@@ -139,9 +145,11 @@ sponsor_levels:
     max: 2
   - id: platinum
     label: Platinum
-    max: 9 # This is the same as omitting the max limit.
+    max: 8 # This is the same as omitting the max limit.
   - id: gold
     label: Gold
+  - id: inkind
+    label: In-Kind
   - id: community
     label: Community
 

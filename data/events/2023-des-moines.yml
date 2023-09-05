@@ -103,6 +103,8 @@ sponsors:
 #    level: gold
  - id: caseys
    level: gold
+ - id: circleci
+   level: gold
  - id: emc-ins
    level: gold
  - id: jetbrains
