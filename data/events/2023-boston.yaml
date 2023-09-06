@@ -65,6 +65,12 @@ team_members:
   - name: "Josh"
     bio: "Not much is known about Josh, other than he tends to show up, support the mission, not say much, and disappear into the night when no longer required."
 
+  - name: "Val Charry"
+    bio: "Val works as a Software Engineer at Dell Technologies. Primarily doing Advanced Research Development under the CTIO but recently working under a new product team. She has a lot of experience leveraging Open Source projects in order to deliver rapid PoCs spanning many technology domains. When she's not working, she's listening to podcasts while walking around Boston, traveling abroad, or crafting whatever art project she's into at the time."
+    linkedin: "https://www.linkedin.com/in/valerie-charry"
+    github: "valcharry"
+    image: "valcharry.jpg"
+
 organizer_email: "boston@devopsdays.org"
 
 # Uncomment when opening for sponsorships.
