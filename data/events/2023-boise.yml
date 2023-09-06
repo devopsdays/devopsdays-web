@@ -111,11 +111,6 @@ program:
     date: 2023-09-12T08:00:00-07:00
     start_time: "10:50 AM"
     end_time: "11:20 AM"
-  - title: "aman-sardana-and-bhargav-nachegari"
-    type: talk
-    date: 2023-09-12T08:00:00-07:00
-    start_time: "10:50 AM"
-    end_time: "11:20 AM"
   - title: "Break"
     type: custom
     date: 2023-09-12T08:00:00-07:00

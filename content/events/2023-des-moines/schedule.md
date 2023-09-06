@@ -421,7 +421,7 @@ Description = "Speakers, sessions, ignites, meals"
                             <h4>Dustin Thostenson</h4>
                         </div>
                         <div class="col-lg-8">
-                            <a href="/events/2023-des-moines/program/dustin-thostenson/">Sphere of Control: From Helpless to Hero </a>
+                            <a href="/events/2023-des-moines/program/dustin-thostenson/">Sphere of Control: Techniques to Tackle Tech Debt Today </a>
                         </div>
                     </td>
                 </tr>
@@ -510,6 +510,13 @@ Description = "Speakers, sessions, ignites, meals"
                                     <img class="img rounded-circle" src="/events/2023-des-moines/organizers/paul-beers.jpg" height="60px"
                                         width="60px" alt="">
                                 <h4>Paul Beers</h4>
+                            </div>
+                        </td>
+                        <td colspan="1"><h4>&nbsp;</h4>
+                        <div class="col-lg-8 program-page-desc">&nbsp;<br/>
+                                    <img class="img rounded-circle" src="/events/2023-des-moines/speakers/alec-harrison.png" height="60px"
+                                        width="60px" alt="">
+                                <h4>Alec Harrison</h4>
                             </div>
                         </td>
                     </tr>

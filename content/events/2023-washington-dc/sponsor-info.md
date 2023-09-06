@@ -23,6 +23,7 @@ Thank you for sponsoring DevOpsDays DC 2023! The organizing committee is excited
 		- [Internet](#internet)
 	- [Logos for  Slideshow](#logos-for--slideshow)
 	- [Floor Plan](#floor-plan)
+	- [Sponsor Tables](#sponsor-tables)
 	- [Sponsor passports](#sponsor-passports)
 	- [Tables and AV](#tables-and-av)
 		- [Table](#table)
@@ -30,7 +31,9 @@ Thank you for sponsoring DevOpsDays DC 2023! The organizing committee is excited
 	- [Sponsor Pitch](#sponsor-pitch)
 		- [Sponsor Pitch Schedule](#sponsor-pitch-schedule)
 	- [Thursday Afternoon Raffle](#thursday-afternoon-raffle)
+	- [Evening Events](#evening-events)
 	- [Other FAQs](#other-faqs)
+
 
 <!-- vscode-markdown-toc-config
 	numbering=false
@@ -41,7 +44,7 @@ Thank you for sponsoring DevOpsDays DC 2023! The organizing committee is excited
 
 # Sponsor Information
 
-## <a name='Contact'></a>Contact
+## <a name='contact'></a>Contact
 
 Email: <sponsors@devopsdaysdc.org> 
 
@@ -49,7 +52,7 @@ Please use the above email address for all pre-event contact. One of the organiz
 
 If a matter is particularly urgent, you can call Google Voice for Peter Burkholder at +1-240-696-2545
 
-## <a name='ImportantDates'></a>Important Dates
+## <a name='important-dates'></a>Important Dates
 
 August 30: Last day to register for the event and get badge with name printed
 
@@ -67,7 +70,7 @@ September 13-14: [DevOpsDays DC 2023](https://devopsdays.org/events/2023-washing
 
 <!-- August 15:  Last day to send outbound packages -->
 
-## <a name="HappyHour"></a>Happy Hour
+## <a name="happy-hour"></a>Happy Hour
 
 The American Red Cross venue is alcohol-free, so our evening social 
 hour, 5:00 pm - 6:30 pm,  will feature mocktails and appetizers.
@@ -81,7 +84,7 @@ If you (or with another sponsor) wish to host a happy hour either evening, you h
 
 If you are planning to host a party or happy hour, etc after either day of the conference, please let us know the details! We will include this information in communications to attendees. Please send the details to <sponsors@devopsdaysdc.org>.
 
-## <a name='Registration'></a>Registration
+## <a name='registration'></a>Registration
 
 All attendees, including sponsor exhibitors, are required to register for this event and wear the conference badge while in conference space. All sponsors should have received a coupon code that can be used to register your attendees. If you did not receive this code, please contact <sponsors@devopsdaysdc.org>.
 
@@ -92,11 +95,11 @@ All attendees, including sponsor exhibitors, are required to register for this e
 
 For 2023, we do not have a hotel block.
 
-## <a name='TicketDonations'></a>Ticket Donations
+## <a name='ticket-donations'></a>Ticket Donations
 
 Please notify the conference organizers if you will not be using all of your allotted tickets. We will donate unused tickets to underrepresented and marginalized groups in technology.
 
-## <a name='CodeofConduct'></a>Code of Conduct
+## <a name='code-of-conduct'></a>Code of Conduct
 
 Respect and empathy are core DevOps values. All sponsors and attendees are required to abide by the [Code of Conduct](https://devopsdays.org/events/2023-washington-dc/conduct)
 listed on our website. If at any time a member of the organizing committee finds that any attendee (associated with a sponsor or not) has violated the Code of Conduct, the organizing committee has the sole discretion to take any appropriate action up to and including asking that attendee to leave without a refund.
@@ -104,7 +107,7 @@ listed on our website. If at any time a member of the organizing committee finds
 Please ensure all marketing materials and swag are appropriate and in line with our [Code of Conduct](https://devopsdays.org/events/2023-washington-dc/conduct)
 Sponsors with handouts, prizes, or other swag that organizers find in violation of our Code of Conduct will be asked to remove those items immediately.
 
-## <a name='SocialMedia'></a>Social Media
+## <a name='social-media'></a>Social Media
 
 The conference Twitter hashtag will be #devopsdays. Please tweet, blog, and otherwise share what you learn with everyone who isn't able to attend but could benefit from your experience! 
 
@@ -183,90 +186,33 @@ Please provide the high-resolution logo for a white background 16x9 aspect ratio
 
 ## <a name='FloorPlan'></a>Floor Plan
 
-**Still under development**: We will email all sponsors when we have this information.
 
-
-<!--
-<a href = "/events/2023-chicago/sponsor-floor.png"><img src = "/events/2023-chicago/sponsor-floor-small.png" alt = "Floor Plan"></a>
+<a href="./media/sponsor-floor.png"><img src="./media/sponsor-floor-small.png" alt="Floor Plan">
 <br>
 *Click on the floorplan for a larger version*
+
 ## <a name='SponsorTables'></a>Sponsor Tables
 
-### <a name='ByTableNumber'></a>By Table Number
-| Table Number | Sponsor                 |
-|--------------|-------------------------|
-| Franklin-01  | Sleuth.io               |
-| Franklin-02  | Acorn Labs              |
-| Franklin-03  | LaunchDarkly            |
-| Franklin-04  | Trend Micro             |
-| Franklin-05  | Sumo Logic              |
-| Franklin-06  | Postman                 |
-| Franklin-07  | Zesty                   |
-| Franklin-08  | Temporal                |
-| Franklin-09  | Kosli                   |
-| Franklin-10  | AppDynamics             |
-| Franklin-11  | Transition Technologies |
-| Franklin-12  | Dell                    |
-| Franklin-13  | New Relic               |
-| Franklin-14  | Site 24x7               |
-| Franklin-15  | Discover                |
-| Franklin-16  | CircleCI                |
-| Jackson-17   | Britive                 |
-| Jackson-18   | Observe                 |
-| Jackson-19   | Tailscale               |
-| Jackson-20   | Blacks in Technology    |
-| Jackson-21   | Relativity              |
-| Jackson-22   | Spot by NetApp          |
-| Jackson-23   | Roost.ai                |
-| Jackson-24   | GitLab                  |
-| Jackson-25   | Mezmo                   |
-| Jackson-26   | Virtana/CloudEQ         |
-| Jackson-27   | Cloudbees               |
-| Jackson-28   | Puppet by Perforce      |
-| Jackson-29   | Google                  |
-| Jackson-30   | Nobl9                   |
-<br><br>
-### <a name='BySponsorName'></a>By Sponsor Name
-| Sponsor                 | Table Number |
-|-------------------------|--------------|
-| Acorn Labs              | Franklin-02  |
-| AppDynamics             | Franklin-10  |
-| Britive                 | Jackson-17   |
-| CircleCI                | Franklin-16  |
-| Cloudbees               | Jackson-27   |
-| Blacks in Technology    | Jackson-20   |
-| Dell                    | Franklin-12  |
-| Discover                | Franklin-15  |
-| GitLab                  | Jackson-24   |
-| Google                  | Jackson-29   |
-| Kosli                   | Franklin-09  |
-| LaunchDarkly            | Franklin-03  |
-| Mezmo                   | Jackson-25   |
-| New Relic               | Franklin-13  |
-| Nobl9                   | Jackson-30   |
-| Observe                 | Jackson-18   |
-| Postman                 | Franklin-06  |
-| Puppet by Perforce      | Jackson-28   |
-| Relativity              | Jackson-21   |
-| Roost.ai                | Jackson-23   |
-| Site 24x7               | Franklin-14  |
-| Sleuth.io               | Franklin-01  |
-| Spot by NetApp          | Jackson-22   |
-| Sumo Logic              | Franklin-05  |
-| Tailscale               | Jackson-19   |
-| Temporal                | Franklin-08  |
-| Transition Technologies | Franklin-11  |
-| Trend Micro             | Franklin-04  |
-| Virtana/CloudEQ         | Jackson-26   |
-| Zesty                   | Franklin-07  |
-<br><br>
--->
+| Sponsor            | Table # | Table Rank |
+| ------------------ | ------- | ------------ |
+| Silver Sponsors    | S1      | 10           |
+| VMware Tanzu       | S2      | 3            |
+| Spectrocloud       | S3      | 4            |
+| Puppet by Perforce | S4      | 5            |
+| LaunchDarkly       | S5      | 1            |
+| DataDog            | S6      | 2            |
+| CloudBees          | S7      | 6            |
+| GitLab             | S8      | 7            |
+| Progress Chef      | S9      | 8            |
+| ScoutAPM / Coveros | S10     | 9            |
 
-## <a name='sponsor-passports'>Sponsor passports
+**Table allocation note**: We have assigned tables based on the order in which sponsorships were secured, and sponsorship tier (Table Rank). We have assigned LaunchDarkly and Datadog  (\#1 and \#2) to tables S5 and S6 near the entrance/exit. The other tables seem mostly equally desirable, but if you feel your table assignment is not in line with your Table Rank, let us know.
+
+**Silver Sponsor note**: The first day we will have 1/6th table allocated for your marketing materials to accommodate registration, then 1/3rd table the second day. We regret that we don't have sufficient table space the first day.
+
+## <a name='sponsor-passports'></a>Sponsor passports
  
-We will run a raffle for participants who complete their "Sponsor Passport". Each sponsor will have a roll 
-of uniquely colored stickers. If someone visits your table, put a sticker on the back of the person's badge.  
-Those that get stickers from all vendors can enter themselves into the raffle.
+We have re-configured our sponsor and social spaces to ensure sufficient booth traffic, and we don't think a Sponsor Passport is needed. The Sponsor Passport raffle mentioned in August will not be held.
 
 ## <a name='TablesandAV'></a>Tables and AV
 
@@ -363,13 +309,11 @@ At 1:30 pm on Thursday we have time allotted for you to give away any raffle/pri
 * After announcing your winner(s), proceed to the other end of the stage where you can have a photo taken with your winner(s)
 
 
-<!-- >
 ## <a name='EveningEvents'></a>Evening Events
 
 The first evening will have a social hour from 5:00 pm until 6:30 pm in the Tiffany Circle Hall.
 If you are planning to host a party or happy hour, etc after either day of the conference, please let us know the details! We will include this information in communications to attendees. Please send the details to <sponsors@devopsdaysdc.org>.
 
--->
 
 ## <a name='OtherFAQs'></a>Other FAQs
 
