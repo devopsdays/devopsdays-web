@@ -135,6 +135,8 @@ sponsors:
    level: bronze
  - id: ambassadorlabs
    level: bronze
+ - id: plainconcepts
+   level: bronze
 # Community
  - id: madriddevops
    level: community
