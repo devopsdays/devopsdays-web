@@ -74,7 +74,7 @@ sedcmd "s,SPEAKERLINKEDIN,$linkedin,g" $speakerfile
 # bio
 read -p "Enter speaker bio (return for none): " bio
 [ -z "${bio}" ] && bio=''
-sedcmd "s/SPEAKERBIO/$bio/" $speakerfile
+sedcmd "s_SPEAKERBIO_${bio}_" $speakerfile
 
 ####################
 # Populate talk file
@@ -87,25 +87,34 @@ sedcmd "s/SPEAKERSLUG/$speaker_slug/" $talkfile
 # talk title
 read -p "Enter speaker talk title (return for none): " title
 [ -z "${title}" ] && title=''
-sedcmd "s/TALKTITLE/$title/" $talkfile
+sedcmd "s_TALKTITLE_${title}_" $talkfile
 
 # talk description
 read -p "Enter speaker talk description (return for none): " abstract
 [ -z "${abstract}" ] && abstract=''
-sedcmd "s/ABSTRACT/$abstract/" $talkfile
+sedcmd "s_ABSTRACT_${abstract}_" $talkfile
 
 #######################
 # Set speaker image
 #######################
+#
 
-read -p "Enter path to speaker image PNG: " speakerimage
-[ -z "${speakerimage}" ] && speakerimage=''
-
-if [ $speakerimage ]; then
-  cp "$speakerimage" ../static/events/$event_slug/speakers/$speaker_slug.png
+# if speaker image is already in expected location as .png
+if [[ -f "../static/events/$event_slug/speakers/$speaker_slug.png" ]] ; then
   sedcmd "s/image = \"\"/image = \"$speaker_slug.png\"/" $speakerfile
+  echo "found $speaker_slug.png, using"
 else
-  echo "Put speaker image at ../static/events/$event_slug/speakers/$speaker_slug.png before creating the pull request, if desired."
+  read -p "Enter path to speaker image PNG: " speakerimage
+  if [[ -n "${speakerimage}" ]] && [[ -f "${speakerimage}" ]] ; then
+    cp -v "${speakerimage}" "../static/events/${event_slug}/speakers/${speaker_slug}.png"
+    sedcmd "s/image = \"\"/image = \"$speaker_slug.png\"/" $speakerfile
+  else
+    echo "no image used.   If desired:
+      1. Copy PNG into ../static/events/${event_slug}/speakers/${speaker_slug}.png
+      2. update ${speakerfile}, changing image = \"${speaker_slug}.png\"
+      before creating your Pull Request.
+      "
+  fi
 fi
 
 done
