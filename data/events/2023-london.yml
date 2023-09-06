@@ -101,7 +101,11 @@ sponsors:
   - id: puppet
     level: gold
   # silver sponsors
+  - id: chainguard
+    level: silver
   - id: checkly
+    level: silver
+  - id: contrast_security
     level: silver
   - id: gitea
     level: silver
@@ -115,6 +119,8 @@ sponsors:
     level: silver
   # bronze sponsors
   - id: clearbank
+    level: bronze
+  - id: commify
     level: bronze
   - id: contino
     level: bronze
