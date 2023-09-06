@@ -84,57 +84,87 @@ program:
   - title: "jason-yee"
     type: talk
     date: 2023-09-12T08:00:00-07:00
-    start_time: "10:05 AM"
-    end_time: "10:35 AM"
-  - title: "Sponsors"
-    type: custom
-    date: 2023-09-12T08:00:00-07:00
-    start_time: "10:35 AM"
+    start_time: "10:10 AM"
     end_time: "10:40 AM"
-  - title: "brooke-jamieson"
+  - title: "tyler-langlois"
     type: talk
     date: 2023-09-12T08:00:00-07:00
-    start_time: "10:40 AM"
-    end_time: "11:10 AM"
+    start_time: "10:10 AM"
+    end_time: "10:40 AM"
+  - title: "dwayne-mcdaniel"
+    type: talk
+    date: 2023-09-12T08:00:00-07:00
+    start_time: "10:10 AM"
+    end_time: "10:40 AM"
   - title: "Break"
     type: custom
     date: 2023-09-12T08:00:00-07:00
-    start_time: "11:10 AM"
+    start_time: "10:40 AM"
+    end_time: "10:50 AM"
+  - title: "brooke-jamieson"
+    type: talk
+    date: 2023-09-12T08:00:00-07:00
+    start_time: "10:50 AM"
     end_time: "11:20 AM"
+  - title: "chris-koehnecke-and-matt-rowland"
+    type: talk
+    date: 2023-09-12T08:00:00-07:00
+    start_time: "10:50 AM"
+    end_time: "11:20 AM"
+  - title: "Break"
+    type: custom
+    date: 2023-09-12T08:00:00-07:00
+    start_time: "11:20 AM"
+    end_time: "11:30 AM"
   - title: "kendra-ash"
     type: talk
     date: 2023-09-12T08:00:00-07:00
-    start_time: "11:20 AM"
-    end_time: "11:50 AM"
-  - title: "Sponsors"
-    type: custom
+    start_time: "11:30 AM"
+    end_time: "12:00 PM"
+  - title: "shivay-lamba-and-rishit-dagli"
+    type: talk
     date: 2023-09-12T08:00:00-07:00
-    start_time: "11:50 AM"
-    end_time: "11:55 AM"
+    start_time: "11:30 AM"
+    end_time: "12:00 PM"
+  - title: "josh-lee"
+    type: talk
+    date: 2023-09-12T08:00:00-07:00
+    start_time: "11:30 AM"
+    end_time: "12:00 PM"
   - title: "clara-freeman"
     type: talk
     date: 2023-09-12T08:00:00-07:00
-    start_time: "11:55 AM"
-    end_time: "12:00 PM"
+    start_time: "12:05 PM"
+    end_time: "12:10 PM"
   - title: "john-willis"
     type: talk
     date: 2023-09-12T08:00:00-07:00
-    start_time: "12:00 PM"
-    end_time: "12:30 PM"
+    start_time: "12:15 PM"
+    end_time: "12:45 PM"
+  - title: "peter-chestna"
+    type: talk
+    date: 2023-09-12T08:00:00-07:00
+    start_time: "12:15 PM"
+    end_time: "12:45 PM"
+  - title: "phil-sautter"
+    type: talk
+    date: 2023-09-12T08:00:00-07:00
+    start_time: "12:15 PM"
+    end_time: "12:45 PM"
   - title: "Lunch"
     type: custom
     date: 2023-09-12T08:00:00-07:00
-    start_time: "12:30 PM"
-    end_time: "01:30 PM"
+    start_time: "12:45 PM"
+    end_time: "01:45 PM"
   - title: "Welcome Back"
     type: custom
     date: 2023-09-12T08:00:00-07:00
-    start_time: "01:30 PM"
-    end_time: "01:45 PM"
+    start_time: "01:45 PM"
+    end_time: "01:50 PM"
   - title: "Open Spaces: Introduction and Voting"
     type: open-space
     date: 2023-09-12T08:00:00-07:00
-    start_time: "01:45 PM"
+    start_time: "01:50 PM"
     end_time: "02:00 PM"
   - title: "Open Spaces: Round #1"
     type: open-space
@@ -156,21 +186,21 @@ program:
     date: 2023-09-12T08:00:00-07:00
     start_time: "03:30 PM"
     end_time: "03:55 PM"
-  - title: "Sponsors"
-    type: custom
-    date: 2023-09-12T08:00:00-07:00
-    start_time: "03:55 PM"
-    end_time: "04:00 PM"
   - title: "Break"
     type: custom
     date: 2023-09-12T08:00:00-07:00
-    start_time: "04:00 PM"
+    start_time: "03:55 PM"
     end_time: "04:10 PM"
+  - title: "Sponsors"
+    type: custom
+    date: 2023-09-12T08:00:00-07:00
+    start_time: "04:10 PM"
+    end_time: "04:15 PM"
   - title: "tiauna-tia-dodd"
     type: talk
-    date: 2023-09-12T19:00:00-07:00
-    start_time: "04:10 PM"
-    end_time: "04:40 PM"
+    date: 2023-09-12T08:00:00-07:00
+    start_time: "04:15 PM"
+    end_time: "04:45 PM"
   - title: "Closing Remarks"
     type: custom
     date: 2023-09-12T08:00:00-07:00
@@ -184,6 +214,8 @@ sponsors:
     level: bronze
   - id: devopsdays-denver
     level: bronze
+  - id: devopsdays-hartford
+    level: bronze
   - id: devopsdays-nyc
     level: bronze
   - id: devopsdays-seattle
@@ -194,8 +226,6 @@ sponsors:
     level: gold
   - id: simplot
     level: bronze
-  - id: trailhead
-    level: gold
 
 sponsors_accepted: "yes"
 
@@ -204,9 +234,9 @@ sponsor_levels:
     label: Platinum
   - id: gold
     label: Gold
-  - id: silver
-    label: Silver
+#  - id: silver
+#    label: Silver
   - id: bronze
     label: Bronze
-  - id: community
-    label: Community
+#  - id: community
+#    label: Community

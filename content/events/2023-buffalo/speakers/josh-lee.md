@@ -4,7 +4,9 @@ Twitter = "joshleecreates"
 image = "josh-lee.png"
 type = "speaker"
 linktitle = "josh-lee"
-
+linkedin = "https://www.linkedin.com/in/joshuamlee/"
+matodon = "https://hachyderm.io/@joshleecreates"
+website = "https://joshuamlee.com/"
 +++
 
 ##### Developer Advocate @ Instana
