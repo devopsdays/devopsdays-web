@@ -115,6 +115,8 @@ sponsors:
     level: community
   - id: s3
     level: bronze
+  - id: castai
+    level: icecream
 
 #sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -129,8 +131,11 @@ sponsor_levels:
     label: Silver
   - id: bronze
     label: Bronze
+  - id: icecream
+    label: Ice cream
   - id: community
     label: Community
+
 
 program:
   # Day 1
@@ -214,7 +219,7 @@ program:
     date: 2023-09-06
     start_time: "17:30"
     end_time: "17:35"
-  - title: "Evening happening"
+  - title: "Evening happening - BeerHouse & Craft Kitchen (Mėsinių g. 4)"
     type: custom
     date: 2023-09-06
     start_time: "19:00"

@@ -278,52 +278,52 @@ program:
     type: custom
     date: 2023-10-06
     start_time: "11:40"
-    end_time: "12:50"
+    end_time: "12:45"
   - title: "john-willis"
     type: talk
     date: 2023-10-06
-    start_time: "12:50"
-    end_time: "13:20"
+    start_time: "12:45"
+    end_time: "13:15"
   - title: "Ignites"
     type: ignite
     date: 2023-10-06
-    start_time: "13:20"
-    end_time: "13:50"
+    start_time: "13:15"
+    end_time: "13:45"
   - title: "Open Space Opening"
     type: open-space
     date: 2023-10-06
-    start_time: "13:50"
-    end_time: "14:20"
+    start_time: "13:45"
+    end_time: "14:05"
   - title: "Break"
     type: custom
     date: 2023-10-06
-    start_time: "14:20"
-    end_time: "14:30"
+    start_time: "14:05"
+    end_time: "14:15"
   - title: "Open Space #1"
     type: open-space
     date: 2023-10-06
-    start_time: "14:30"
-    end_time: "15:00"
+    start_time: "14:15"
+    end_time: "14:45"
   - title: "Open Space #2"
     type: open-space
     date: 2023-10-06
-    start_time: "15:05"
-    end_time: "15:35"
+    start_time: "14:50"
+    end_time: "15:20"
   - title: "Break - Afternoon snack in Expo Hall"
     type: custom
     date: 2023-10-06
-    start_time: "15:35"
-    end_time: "16:15"
+    start_time: "15:20"
+    end_time: "16:00"
   - title: "Open Space #3"
     type: open-space
     date: 2023-10-06
-    start_time: "16:15"
-    end_time: "16:45"
+    start_time: "16:00"
+    end_time: "16:30"
   - title: "Close Day"
     type: custom
     date: 2023-10-06
-    start_time: "16:45"
-    end_time: "17:00"
+    start_time: "16:30"
+    end_time: "16:45"
 ignites:
   - title: "kat-higgins"
     date: 2023-10-05

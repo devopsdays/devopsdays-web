@@ -110,10 +110,14 @@ organizer_email: "kyiv@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: kubecon-2023
+  - id: cncf
     level: platinum
   - id: squad
     level: gold
+  - id: kingfisher
+    level: platinum
+  - id: innoq-2023
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
