@@ -421,7 +421,7 @@ Description = "Speakers, sessions, ignites, meals"
                             <h4>Dustin Thostenson</h4>
                         </div>
                         <div class="col-lg-8">
-                            <a href="/events/2023-des-moines/program/dustin-thostenson/">Sphere of Control: From Helpless to Hero </a>
+                            <a href="/events/2023-des-moines/program/dustin-thostenson/">Sphere of Control: Techniques to Tackle Tech Debt Today </a>
                         </div>
                     </td>
                 </tr>
