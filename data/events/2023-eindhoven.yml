@@ -204,8 +204,8 @@ program:
     date: 2023-10-11T00:00:00+02:00
     start_time: "09:00"
     end_time: "09:15"
-  - title: "marjolein-pilon"
-    type: talk
+  - title: "Keynote TBA"
+    type: custom
     date: 2023-10-11T00:00:00+02:00
     start_time: "09:15"
     end_time: "09:40"
@@ -315,8 +315,8 @@ program:
     date: 2023-10-12T00:00:00+02:00
     start_time: "09:00"
     end_time: "09:15"
-  - title: "Keynote TBA"
-    type: custom
+  - title: "marjolein-pilon"
+    type: talk
     date: 2023-10-12T00:00:00+02:00
     start_time: "09:15"
     end_time: "09:40"
