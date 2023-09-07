@@ -2,6 +2,7 @@
 title: "Fifteen Years of Excess Has Lead to the DevOps Hangover"
 Type: "talk"
 Speakers: ["pete-cheslock"]
+sharing_image: "pete-cheslock.jpg"
 ---
 
 Engineering and development teams, from startups to large corporations, have faced hard economic events over the last 12 months. Large-scale layoffs and company restructuring have forced teams to “do more with less” while building, scaling, and operating large-scale systems. Yet progress still needs to be made, and value still needs to be shown higher up the chain.
