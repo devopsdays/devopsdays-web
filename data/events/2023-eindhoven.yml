@@ -130,12 +130,6 @@ team_members: # Name is the only required field for team members.
     website: "https://floord.github.io/"
     image: "floor.jpg"
 
-  - name: "Bas den Uijl"
-    pronouns: "he/him"
-    linkedin: "https://www.linkedin.com/in/basdenuijl/"
-    twitter: "basdenuijl"
-    image: "bas.jpeg"
-
 organizer_email: "eindhoven@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
