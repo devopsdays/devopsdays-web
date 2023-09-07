@@ -158,6 +158,8 @@ sponsors:
    level: community
  - id: devopsdays-caceres
    level: community
+ - id: codemotion
+   level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
