@@ -2,6 +2,7 @@
 title: "Metrics as a Shared Language"
 Type: "talk"
 Speakers: ["caito-scherr"]
+sharing_image: "caito-scherr.jpg"
 ---
 
 Building a software system that has complex integration points with other teams, or just trying to avoid miscommunications with your boss and coworkers, especially while working remotely... in a pandemic... or all of the above: that's tough.

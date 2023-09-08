@@ -2,6 +2,7 @@
 title: "Platform Health: A team model of platform evolution for startups"
 Type: "talk"
 Speakers: ["jeff-brainerd"]
+sharing_image: "jeff-brainerd.jpg"
 ---
 
 Platform teams are indeed rising. When we talk about such teams it is often in the context of larger organizations. But how might a platform team evolve in the context of a fast growing startup?
