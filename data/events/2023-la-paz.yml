@@ -15,11 +15,11 @@ startdate: 2023-10-28T09:00:00-04:00 # The start date of your event. Leave blank
 enddate: 2023-10-28T18:00:00-04:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  2023-08-26T08:00:00-04:00 # start accepting talk proposals.
-cfp_date_end:  2023-09-15T08:00:00-04:00 # close your call for proposals.
-cfp_date_announce: 2023-10-01T08:00:00-04:00 # inform proposers of status
+cfp_date_start:  2023-09-07T08:00:00-04:00 # start accepting talk proposals.
+cfp_date_end:  2023-09-30T08:00:00-04:00 # close your call for proposals.
+cfp_date_announce: 2023-10-05T08:00:00-04:00 # inform proposers of status
 
-cfp_link: "https://docs.google.com/forms/d/e/1FAIpQLSeo2BXHz6BjJvn-grGU8SARYTcFN4cZVJJOh9z1ElzrlHoUdA/viewform?usp=sf_link"
+cfp_link: ""
 
 registration_date_start:  # start accepting registration. Leave blank if registration is not open yet
 registration_date_end:  # close registration. Leave blank if registration is not open yet.
