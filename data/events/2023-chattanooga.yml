@@ -72,6 +72,8 @@ team_members: # Name is the only required field for team members.
   - name: "Mike Conrad"
     linkedin: "https://www.linkedin.com/in/mikeenxo/"
     image: "mike-conrad.jpg"
+  - name: "Heather Hawkins"
+    image: "heather-hawkins.jpg"
 
 organizer_email: "chattanooga@devopsdays.org" # Put your organizer email address here
 
