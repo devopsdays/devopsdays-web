@@ -85,6 +85,8 @@ organizer_email: "chattanooga@devopsdays.org" # Put your organizer email address
 sponsors:
   - id: arresteddevops
     level: community
+  - id: chatech
+    level: gold
   - id: teksystems
     level: silver
 
