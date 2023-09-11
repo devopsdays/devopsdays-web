@@ -209,6 +209,7 @@ program:
     date: 2023-10-11T00:00:00+02:00
     start_time: "09:15"
     end_time: "09:40"
+    background_color: "#bfe3b4"
   - title: "robin-gilijamse"
     type: talk
     date: 2023-10-11T00:00:00+02:00
@@ -320,6 +321,7 @@ program:
     date: 2023-10-12T00:00:00+02:00
     start_time: "09:15"
     end_time: "09:40"
+    background_color: "#bfe3b4"
   - title: "silvia-longo-jeremy-hartley"
     type: talk
     date: 2023-10-12T00:00:00+02:00

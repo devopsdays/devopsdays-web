@@ -12,3 +12,12 @@ Icons = "false"
     <hr />
   </div>
 </div>
+<div>
+    <b>Color Keys:</b>
+    <div class="col-lg-3 col-md-6 program-element" style="background:#bfe3b4;">Keynote</div>
+    <div class="col-lg-3 col-md-6 program-element program-talk">Talk</div>
+    <div class="col-lg-3 col-md-6 program-element program-open-space">Open Space</div>
+    <div class="col-lg-3 col-md-6 program-element program-ignite">Ignite</div>
+    <div class="col-lg-3 col-md-6 program-element program-custom">Break or other event</div>
+    <br />
+</div>
