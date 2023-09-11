@@ -14,7 +14,7 @@ Description = "DevOpsDays Montréal is back for another unique conference experi
   flex-direction: row;
   flex-wrap: nowrap;
   justify-content: center;
-  align-items: center;
+  /* align-items: center; */
   /* background-color: #91c0d3; */
   background-color: #CCC9E7;
   margin: 3em;
@@ -85,17 +85,79 @@ a.jssocials-share-link, a.event-cta-button {
 <div class="showcase">
 {{< event_logo >}}
 <!-- <img src="/events/2023-montreal/logo-square.jpg"> -->
-<p></p>
+<!-- <p></p> -->
 <!-- <p><a href="https://sessionize.com/devopsdays-montreal-2023/"><button>Propose your talk!</button></a></p> -->
+<!--
 <p><a href="https://www.eventbrite.ca/e/devopsdays-montreal-2023-tickets-643838146227"><button>Register</button></a></p>
 <p><a href="../location/"><button>Get venue info</button></a></p>
 <p><a href="../sponsor/"><button>Sponsor</button></a></p>
 <p><a href="../speakers/"><button>Check out our awesome lineup</button></a></p>
-<p><a href="../contact/"><button>Contact</button></a></p>
+<p><a href="../contact/"><button>Contact</button></a></p> 
+-->
 </div>
 
 <div class="sidebar">
-<h2>DevOps Days Montréal 2023!</h2>
+<h2>DevOps Days Montréal 2023 has been canceled! 😢</h2>
+
+<b>English version *** <i>La version française suit </i>***</b>
+
+Apologies for the bad news, but we are moving the Devopsdays Nov 1/2 event to Q2 2024. We are negotiating with the venue for precise dates, but expect the new date to be May 27th and 28th, and will confirm asap once these dates are confirmed.
+
+<h4>Here is what we are doing:</h4>
+
+<ul>
+<li>Sponsors who have already paid will have the option to move the funds to the 2024 event*, or be reimbursed.</li>
+<li>We will work with speakers individually for any personal costs they may have incurred.</li>
+<li>We will offer anyone who purchased a ticket the option to refund or move the ticket to 2024 as-is, and will throw in a +1 swag item as a thank you for anyone who moves the tickets.</li>
+</ul>
+
+*We will offer any sponsors who stay committed to the event, or new sponsors who commit by the original event dates of Nov 1/2 a free upgrade to the next tier. eg. If you paid for Silver, you become a Gold sponsor. Any sponsors who opt for a refund and rejoin us in 2024 would not benefit from this upgrade. 
+
+For Platinum there is no upgrade, but we will offer an additional option (eg, lunch, dinner sponsor, etc as per availability).
+
+<h4>Why are we moving the event?</h4>
+
+Though we could have held the event, it would have strained financial resources, not just for the Daysopsdays Montreal event but the sponsors, including the type of tables they could set up. We received feedback from too many sponsors that Q4 2023 was "locked" for travel, but that their budgets were flexible in 2024. 
+
+So though we might have secured enough sponsorships to safely run the event, and we do have a financial buffer, it would have been less enjoyable to many sponsors and attendees. Moving the event early also allowed us to keep our (substantial) deposits, so no money has been lost.
+
+To that end, what we will do is move the event to May. Right now we are negotiating with the venue to move the dates to May 27th/28th, these dates should be confirmed shortly.
+
+Devopsdays committee
+
+<b>Version française *** <i>The English version precedes</i> ***</b>
+
+À tous les commanditaires,
+
+Nous sommes désolés de devoir vous annoncer cette mauvaise nouvelle, mais nous déplaçons l'événement DevOpsDays prévu les 1er et 2 novembre vers le deuxième trimestre de 2024.
+
+Nous sommes en processus de négociation pour les dates exactes avec le lieu, mais nous prévoyons que les nouvelles dates soient le 27 et 28 mai prochains. Nous vous confirmerons dès que ces dates seront officielles.
+
+<h4>Voici ce que nous prévoyons faire :</h4>
+
+<ul>
+<li>Les commanditaires qui ont déjà payé auront la possibilité de transférer les fonds vers l'événement de 2024* ou être remboursés.</li>
+<li>Nous travaillerons individuellement avec les intervenants pour couvrir les coûts personnels qu'ils auraient pu engagés.</li>
+<li>Nous offrirons à toute personne ayant acheté un billet la possibilité de demander un remboursement ou de transférer leur billet tel quel pour l'événement de 2024, et nous offrirons en prime un article promotionnel supplémentaire en guise de remerciement pour ceux qui choisiront de reporter leur billet.</li>
+</ul>
+
+*Nous offrirons aux commanditaires qui restent engagés pour l'événement, ainsi qu'aux nouveaux commanditaires qui s'engagent aux dates initiales de l'événement les 1er et 2 novembre, une mise à niveau gratuite vers le niveau supérieur. 
+
+Par exemple, si vous avez payé pour le niveau Argent, vous deviendrez un commanditaire Or. Les commanditaires qui optent pour un remboursement et reviennent en 2024 ne bénéficieront pas de cette mise à niveau. Pour le niveau Platine, il n'y aura pas de mise à niveau, mais nous offrirons une option supplémentaire (par exemple, commanditaire du déjeuner, du dîner, etc., selon la disponibilité).
+
+<h4>Pourquoi déplaçons-nous l'événement ?</h4>
+
+Bien que nous aurions pu maintenir l'événement, cela aurait mis à rude épreuve nos ressources financières, non seulement pour l'événement DevOpsDays de Montréal, mais aussi pour les commanditaires, y compris le type de kiosque qu'ils pourraient installer. Nous avons reçu des retours de trop nombreux commanditaires indiquant que le quatrième trimestre de 2023 était "bloqué" pour les déplacements, mais que leurs budgets étaient flexibles en 2024. 
+
+Donc, bien que nous aurions pu obtenir suffisamment de parrainages pour organiser l'événement en toute sécurité, et que nous disposions d'une marge financière, cela aurait été moins agréable pour de nombreux commanditaires et participants. Le déplacement précoce de l'événement nous a également permis de conserver nos dépôts substantiels, de sorte qu'aucun argent n'a été perdu.
+
+Dans cette optique, nous prévoyons de déplacer l'événement en mai. En ce moment, nous sommes en train de négocier avec le lieu pour les dates du 27 et 28 mai. Ces dates devraient être confirmées sous peu.
+
+Veuillez nous excuser pour les désagréments occasionnés.
+
+Le comité Devopsdays Montréal
+
+<!-- 
 <p>
 DevOpsDays is a series of technical conferences focused on the topics of software development, IT infrastructure operations, and the intersection between them. Our events bring together professionals from across the industry to discuss the latest trends, best practices, and challenges facing the DevOps community.
 </p>
@@ -110,7 +172,7 @@ You'll have the chance to learn from experts in the field, share your own experi
 </p>
 <p>
 Whether you're a seasoned veteran or just starting to explore the world of DevOps, there's a place for you at DevOpsDays Montreal. Thanks for your interest, and we look forward to seeing you on November 1 and 2!
-</p>
+</p> -->
 
 </div>
 </div>

@@ -212,6 +212,10 @@ sponsors:
     level: gold
   - id: progresschef
     level: gold
+  - id: vmware-tanzu-2023
+    level: gold
+  - id: mirantis-lens
+    level: gold
   - id: redgate
     level: silver
   - id: clickhouse
@@ -244,6 +248,10 @@ sponsors:
     level: npo
   - id: twc
     level: npo
+  - id: dfwlivestream
+    level: media
+  - id: slido
+    level: media
 
 sponsors_accepted: "no" # Whether you want "Become a XXX Sponsor!" link
 
@@ -316,7 +324,7 @@ program:
     date: 2023-08-29
     start_time: "11:00"
     end_time: "11:30"
-  - title: "tyler-mcvety"
+  - title: "topo-pal"
     type: talk
     date: 2023-08-29
     start_time: "11:30"
@@ -326,7 +334,7 @@ program:
     date: 2023-08-29
     start_time: "12:00"
     end_time: "12:45"
-  - title: "farrah-campbell"
+  - title: "noelle-russell"
     type: talk
     date: 2023-08-29
     start_time: "12:45"
@@ -387,7 +395,7 @@ program:
     date: 2023-08-30
     start_time: "08:45"
     end_time: "09:00"
-  - title: "noelle-russell"
+  - title: "farrah-campbell"
     type: talk
     date: 2023-08-30
     start_time: "09:00"
@@ -422,7 +430,7 @@ program:
     date: 2023-08-30
     start_time: "12:00"
     end_time: "12:45"
-  - title: "topo-pal"
+  - title: "john-willis"
     type: talk
     date: 2023-08-30
     start_time: "12:45"

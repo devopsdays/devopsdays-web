@@ -27,16 +27,19 @@ registration_date_end: # close registration. Leave blank if registration is not 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
+masthead_background: "bg-dodssa.jpg"
+sharing_image: "ssa-sharing.jpg"
+
 # Location
 #
-coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Salvador" # Defaults to city, but you can make it the venue name.
+coordinates: "-13.001165387618936, -38.50737829061367" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Salvador, BA, BR" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "Instituto de Matemática e Estatística da UFBA - Auditório - R. Barão de Jeremoabo, s/n - Ondina, Salvador - BA, 40170-115" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
- # - name: location
+  - name: location
  # - name: registration
  # - name: program
  # - name: speakers
@@ -51,7 +54,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
 
-  - name: "Camila Martins aka punkdodevops"
+  - name: "Camilla Martins aka punkdodevops"
     employer: "StoryBlok"
     linkedin: "https://www.linkedin.com/in/camilla-martins-603344115"
     twitter: "punkdodevops"
@@ -72,6 +75,22 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/somatorio/"
     website: "http://somatorio.org"
     image: "marco-junior.jpeg"
+
+  - name: "Marcelo Santos aka marceleza"
+    employer: "DAREDE"
+    linkedin: "https://www.linkedin.com/in/marcelosantos"
+    twitter: "marcelezacom"
+    image: "marcelo-santos.png"
+
+  - name: "Adenn Tumba aka Adenn"
+    employer: "Weni"
+    linkedin: "https://www.linkedin.com/in/adenntumba"
+    image: "adenn-tumba.png"
+
+  - name: "Igor Bahia aka Igor"
+    employer: "Prosa Com Nath Souza"
+    linkedin: "https://www.linkedin.com/in/igor-bahia-31b7b06b/"
+    image: "igor-bahia.png"
 
 organizer_email: "salvador@devopsdays.org" # Put your organizer email address here
 

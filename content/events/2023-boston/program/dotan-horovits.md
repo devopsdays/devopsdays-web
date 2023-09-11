@@ -2,6 +2,7 @@
 title: "Observability? It's a Data Analytics Problem, You Fool!"
 Type: "talk"
 Speakers: ["dotan-horovits"]
+sharing_image: "dotan-horovits.jpg"
 ---
 
 We all know logs, metrics and traces, the “three pillars of observability”. We’ve been told that by collecting them we’d gain observability into our systems, right? WRONG!

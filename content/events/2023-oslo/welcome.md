@@ -7,19 +7,19 @@ Description = "devopsdays Oslo 2023"
 <div style="width: 100%; display: inline-block; text-align: left; padding-bottom: 30px;"  class="row">
   <img  style="width: 100%; display: inline-block; text-align: left;"  width="100%" alt="DevOpsDays Oslo 2023" src="/events/2023-oslo/location.jpg">
   <div  style="margin: auto; width: 20%; display: inline-block; text-align: left; padding-top: 20px; padding-right: 20px;" >
-    <a href="/events/2023-oslo/speakers/mark-burgess/">
+    <a href="/events/2023-oslo/speakers/">
       <img width="100%" alt="Mark Burgess" src="/events/2023-oslo/speakers/mark-burgess.png"/>
       Mark Burgess
     </a>
   </div>
   <div style="margin: auto; width: 20%; display: inline-block; text-align: left; padding-top: 20px; padding-right: 20px;">
-    <a href="/events/2023-oslo/speakers/nora-jones/">
+    <a href="/events/2023-oslo/speakers/">
       <img width="100%" alt="Nora Jones" src="/events/2023-oslo/speakers/nora-jones.jpg"/>
       Nora Jones
     </a>
   </div>
   <div style="margin: auto; width: 20%; display: inline-block; text-align: left; padding-top: 20px; padding-right: 20px;">
-    <a href="/events/2023-oslo/speakers/matthew-skelton/">
+    <a href="/events/2023-oslo/speakers/">
       <img width="100%" alt="Matthew Skelton" src="/events/2023-oslo/speakers/matthew-skelton.jpg"/>
       Matthew Skelton
     </a>
@@ -83,6 +83,14 @@ Description = "devopsdays Oslo 2023"
           </div>
           <div class = "col-md-8">
               {{< event_link page="propose" text="Propose a talk / Call For Proposals" >}}
+          </div>
+        </div>
+        <div class = "row">
+          <div class = "col-md-2">
+            <strong>Program</strong>
+          </div>
+          <div class = "col-md-8">
+              {{< event_link page="program" text="Program" >}}
           </div>
         </div>
         <div class = "row">

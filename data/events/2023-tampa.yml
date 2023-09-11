@@ -11,7 +11,7 @@ speakers_verbose: "true"
 startdate: "2023-09-21" # The start date of your event. Leave blank if you don't have a venue reserved yet.
 enddate: "2023-09-21" # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
-# Leave CFP dates blank if you don't know yet, or set all three at once.
+# Leave CFP dates blank if you don't know yet, or set all three at once
 
 cfp_date_start: "2023-05-12" # start accepting talk proposals.
 cfp_date_end: "2023-07-01" # close your call for proposals.
@@ -35,14 +35,14 @@ location: "Tampa Bay" # Defaults to city, but you can make it the venue name.
 location_address: "1910 N Ola Ave, Tampa, FL 33602" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+#  - name: propose
 
   - name: location
     icon: "map-o"
     url: /events/2023-tampa/location
   - name: registration
-#  - name: program
-#  - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -120,6 +120,16 @@ sponsors:
     level: community
   - id: tampabaytech
     level: community
+  - id: vmware-tanzu
+    level: platinum
+  - id: nobl9
+    level: platinum
+  - id: digitalcharter
+    level: inkind
+  - id: teksystems
+    level: inkind
+  - id: appdynamics
+    level: platinum
     
 #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 # - id: arresteddevops
@@ -137,9 +147,11 @@ sponsor_levels:
     max: 2
   - id: platinum
     label: Platinum
-    max: 9 # This is the same as omitting the max limit.
+    max: 8 # This is the same as omitting the max limit.
   - id: gold
     label: Gold
+  - id: inkind
+    label: In-Kind
   - id: community
     label: Community
 

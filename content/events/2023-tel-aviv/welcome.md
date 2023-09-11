@@ -21,7 +21,7 @@ Description = "devopsdays Tel Aviv 2023"
   <p style="text-align:center"><img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/DevOpsDays%20Horror%20Logo.png?raw=true" width="70%"></p>
              <h1><span style="text-transform: uppercase; text-align: center;">JOIN US FOR A</span> <span style="text-transform: uppercase; color: orange; text-align: center; font family: creepster">SPOOKY </span>DEVOPSDAYS TLV </h1>
              <h4> We're coming back October 29-30, 2023 and what better way to celebrate Halloween than with the best of your worst DevOps horror shows?! </h4>        
-            <p>It has come to our attention that October 31st is a BANK HOLIDAY (municipal elections), and we didn't want our community to have to choose between DevOps and Democracy––so we have moved the event up a day to October 29th.</p><h3>EARLY BIRD TICKET ARE NOW ON SALE UNTIL AUGUST 15TH 👉🏽 <a href="https://tlvcommunity.dev/devopsdays#register" target="_blank">REGISTER HERE!</a></h3>
+            <p>It has come to our attention that October 31st is a BANK HOLIDAY (municipal elections), and we didn't want our community to have to choose between DevOps and Democracy––so we have moved the event up a day to October 29th.</p><h3>TICKETS ARE NOW ON SALE 👉🏽 <a href="https://tlvcommunity.dev/devopsdays#register" target="_blank">REGISTER HERE!</a></h3>
 </div> 
 
 <hr/>

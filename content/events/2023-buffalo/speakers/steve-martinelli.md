@@ -4,7 +4,8 @@ Twitter = "stevebot"
 image = "steve-martinelli.png"
 type = "speaker"
 linktitle = "steve-martinelli"
-
+linkedin = "https://www.linkedin.com/in/stevemar"
+website = "https://www.stevemar.net/"
 +++
 
 ##### Director of Developer Advocacy @ Equinix

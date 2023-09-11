@@ -2,6 +2,7 @@
 title: "DevSecOps Ain't That Hard, a Framework"
 Type: "talk"
 Speakers: ["alexandre-pauwels"]
+sharing_image: "alexandre-pauwels.jpg"
 ---
 
 #### Intro

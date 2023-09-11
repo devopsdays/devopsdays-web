@@ -16,4 +16,7 @@ Gold sponsors get a full table where they can interact with those interested to 
 <p>
 The best thing to do is send engineers to interact with the experts at devopsdays on their own terms.
 </p>
+<p>
+You can look at our sponsor prospectus <a href="https://docs.google.com/presentation/d/10UDGm2HVq3J3Whwe28lmBnT5W6Eswo9jUssN3iBRMWI/">here</a>.
+</p>
 </hr>

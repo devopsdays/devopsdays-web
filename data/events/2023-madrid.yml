@@ -119,6 +119,12 @@ sponsors:
    level: gold
  - id: the-workshop
    level: gold
+ - id: redhat
+   level: gold
+ - id: intelygenz
+   level: gold
+ - id: enterprisedb
+   level: gold
 # Silver
  - id: cloudappi
    level: silver
@@ -126,6 +132,10 @@ sponsors:
  - id: speedyrails
    level: bronze
  - id: panel
+   level: bronze
+ - id: ambassadorlabs
+   level: bronze
+ - id: plainconcepts
    level: bronze
 # Community
  - id: madriddevops
@@ -147,6 +157,8 @@ sponsors:
  - id: awscommspain
    level: community
  - id: devopsdays-caceres
+   level: community
+ - id: codemotion
    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
