@@ -90,7 +90,7 @@ organizer_email: "london@devopsdays.org" # Put your organizer email address here
 sponsors:
   # platinum sponsors
   # gold sponsors
-  - id: adaptavist
+  - id: theadaptavistgroup
     level: gold
   - id: coralogix
     level: gold
