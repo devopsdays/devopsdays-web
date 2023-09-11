@@ -65,6 +65,12 @@ read -p "Enter speaker twitter handle (return for none): " twitter
 twitter=$(echo $twitter | sed 's/@//')
 sedcmd "s/SPEAKERTWITTER/$twitter/" $speakerfile
 
+#linkedin profile
+read -p "Enter speaker linkedin profile (return for none): " linkedin
+[ -z "${linkedin}" ] && linkedin=''
+sedcmd "s,SPEAKERLINKEDIN,$linkedin,g" $speakerfile
+
+
 # bio
 read -p "Enter speaker bio (return for none): " bio
 [ -z "${bio}" ] && bio=''
