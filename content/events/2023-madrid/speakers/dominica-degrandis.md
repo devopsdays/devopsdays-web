@@ -6,4 +6,4 @@ linktitle = "dominica-degrandis"
 Website = "https://www.linkedin.com/in/dominicadeg/"
 +++
 
-A huge fan of using visual cues to inspire change, I help organizations make work visible to improve the flow of work across value streams. Obsessed with flow metrics & systems thinking, I advise customers on Value Stream Management, measuring trends, and adopting new ways of working to improve performance.
+A huge fan of using visual cues to inspire change, Dominica DeGrandis, author of Making Work Visible - Exposing Time Theft to Optimize Work & Flow, and Principal Flow Advisor at Planview, helps organizations make work visible to improve workflow. Obsessed with useful metrics & influencing change, Dominica advises customers on flow metrics, value stream management and how to effect change.
