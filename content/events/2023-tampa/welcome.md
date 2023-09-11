@@ -41,8 +41,7 @@ Description = "devopsdays Tampa Bay 2023"
     <p>DevOpsDays is a worldwide series of community run technical conferences covering topics of software development, IT infrastructure operations, and the intersection between them. It is run by volunteers from community, for the benefit of the community.  We are not a commercial conference and we believe that our focus on serving the community creates a truly unique experience for both delegates and sponsors.
     </p>
     <p>
-    <a target="_blank" href="https://www.eventbrite.com/e/devopsdays-tampa-bay-2023-tickets-635898929817">
-      <img src="https://jamesgress.com/wp-content/uploads/2023/09/1693418115284.jpg" alt="Buy ticket" width="400" style="border: 3px solid black;">
+    <a target="_blank" href="http://jamesgress.com/wp-content/uploads/2023/09/Angry-Bird.jpeg" alt="Buy ticket" width="400" style="border: 3px solid black;">
     </a>
     </p>
     {{< event_twitter >}}
