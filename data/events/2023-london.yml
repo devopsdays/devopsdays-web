@@ -115,6 +115,8 @@ sponsors:
     level: silver
   - id: snyk
     level: silver
+  - id: spot-by-netapp
+    level: silver
   - id: wmpromus
     level: silver
   # bronze sponsors
