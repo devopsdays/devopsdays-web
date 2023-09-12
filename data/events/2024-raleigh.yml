@@ -1,0 +1,108 @@
+name: "2024-raleigh" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2024" # The year of the event. Make sure it is in quotes.
+city: "raleigh" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaysrdu" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "The Best DevOps Conference in the Triangle!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2023-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2023-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2023-04-12  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2023-04-13 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2023-11-01  # start accepting talk proposals.
+cfp_date_end: 2024-01-27  # close your call for proposals.
+cfp_date_announce:  # inform proposers of status
+
+cfp_link: "https://docs.google.com/forms/d/e/1FAIpQLScM9ki8DOJqmcRSKhXVgk_pb5dXfFra5ECsN1tlXO-UcF3xNQ/viewform?usp=sf_link" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: 2023-04-13 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2024-04-11 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://www.eventbrite.com/e/devopsdays-raleigh-2024-tickets-615268222817?aff=ebdsoporgprofile" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Background
+masthead_background: "raleigh_skyline_sunset.jpg"
+
+# Location
+#
+coordinates: "35.782780, -78.685187" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "McKimmon Conference & Training Center" # Defaults to city, but you can make it the venue name.
+#
+location_address: "1101 Gorman Street, Raleigh, NC 27606" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  # - name: propose
+  - name: location
+  - name: registration
+    url: "https://www.eventbrite.com/e/devopsdays-raleigh-2024-tickets-615268222817?aff=ebdsoporgprofile"
+  - name: program
+  - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Chris Knotts"
+    employer: "Cprime"
+    linkedin: "https://www.linkedin.com/in/chris-knotts/"
+    image: "chris-knotts.jpg"
+  - name: "Josh Atwell"
+    twitter: "Josh_Atwell"
+    image: "josh-atwell.jpg"
+  - name: "Nirmal Mehta"
+    twitter: "normalfaults"
+    github: "normalfaults"
+    website: "https://nirmal.io"
+    linkedin: "https://www.linkedin.com/in/nirmalkmehta"
+    image: "nirmal-mehta.jpg"
+  - name: "Katie Cothran"
+    twitter: "k_cothran"
+    employer: "Cprime"
+    linkedin: "https://www.linkedin.com/in/kathleencothran/"
+    image: "katie-cothran.jpg"
+  - name: "Craig Cook"
+    twitter: "CraigCookIT"
+    website: "https://www.linkedin.com/in/craigcookit/"
+    employer: "IBM"
+    image: "craig-cook.jpg"
+  - name: "Michael Roberts"
+    twitter: "MichaelRoberts0"
+    website: "https://www.spkaa.com"
+    employer: "SPK and Associates"
+    linkedin: "https://www.linkedin.com/in/michael-roberts-5a72032/"
+    image: "michael-roberts.jpg"
+  - name: "Shane Kirk"
+    website: "https://www.shanekirk.me/"
+    github: "shanedroid"
+    linkedin: "https://www.linkedin.com/in/shanek1rk/"
+    image: "shane-kirk.jpg"
+  - name: "Jeremy Neff"
+    gitlab: "n3ff"
+    github: "JRN00"
+    twitter: "GitDevOps"
+    image: "jeremy-neff.png"
+    linkedin: "https://www.linkedin.com/in/jeremy-r-neff/"
+  - name: "Alex Malich"
+    linkedin: "https://www.linkedin.com/in/coldsv"
+    website: "https://www.meetup.com/triangletechtalks/"
+    image: "alex-malich.jpg"
+
+organizer_email: "raleigh@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  # - id: samplesponsorname
+  #   level: gold
+ #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
