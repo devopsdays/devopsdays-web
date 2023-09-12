@@ -130,6 +130,12 @@ sponsors:
     level: inkind
   - id: appdynamics
     level: platinum
+  - id: accenture-es
+    level: inkind
+  - id: capitalone
+    level: inkind
+  - id: elitesource
+    level: gold
     
 #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 # - id: arresteddevops
@@ -152,6 +158,7 @@ sponsor_levels:
     label: Gold
   - id: inkind
     label: In-Kind
+    max: 4
   - id: community
     label: Community
 
