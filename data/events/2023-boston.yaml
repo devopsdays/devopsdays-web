@@ -113,6 +113,10 @@ sponsors:
     level: coffee
   - id: legit-security
     level: startupalley
+  - id: dazz
+    level: startupalley
+  - id: gitguardian
+    level: platinum
 
 sponsors_accepted : "yes"
 
