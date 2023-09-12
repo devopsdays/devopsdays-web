@@ -49,7 +49,7 @@
 /houston/*		/events/2022-houston/:splat		302
 /halifax/*		/events/2024-halifax/:splat		302
 /indianapolis/*		/events/2023-indianapolis/:splat	302
-/istanbul/*		/events/2021-istanbul/:splat		302
+/istanbul/*		/events/2024-istanbul/:splat		302
 /jakarta/*		/events/2022-jakarta/:splat		302
 /juiz-de-fora/*		/events/2024-juiz-de-fora/:splat		302
 /kansas-city/*		/events/2024-kansas-city/:splat		302
