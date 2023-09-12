@@ -157,8 +157,8 @@ program:
     background_color: "#fffa99"
     type: workshop
     date: 2023-10-16
-    start_time: "9:45"
-    end_time: "10:55"
+    start_time: "10:20"
+    end_time: "11:45"
   - title: "Break"
     type: custom
     date: 2023-10-16
@@ -246,18 +246,12 @@ program:
     date: 2023-10-17
     start_time: "9:45"
     end_time: "10:20"
-  - title: "matt-surabian"
-    background_color: "#fffa99"
-    type: talk
-    date: 2023-10-17
-    start_time: "9:45"
-    end_time: "10:20"
   - title: "jeff-brainerd"
     type: talk
     date: 2023-10-17
     start_time: "10:20"
     end_time: "10:55"
-  - title: "kyle-benson"
+  - title: "matt-surabian"
     background_color: "#fffa99"
     type: talk
     date: 2023-10-17
@@ -269,6 +263,12 @@ program:
     start_time: "10:55"
     end_time: "11:10"
   - title: "jon-bass"
+    type: talk
+    date: 2023-10-17
+    start_time: "11:10"
+    end_time: "11:45"
+  - title: "kyle-benson"
+    background_color: "#fffa99"
     type: talk
     date: 2023-10-17
     start_time: "11:10"
