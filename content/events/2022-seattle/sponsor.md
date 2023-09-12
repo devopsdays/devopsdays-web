@@ -21,7 +21,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
   <thead>
     <tr>
       <th scope="col">THE GOODS</th>
-      <th scope="col">SILVER</th>
+      <th scope="col">SILVER</th> 
       <th scope="col">BRONZE</th>
       <th scope="col">COMMUNITY</th>
     </tr>

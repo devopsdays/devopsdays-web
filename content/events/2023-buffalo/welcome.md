@@ -67,7 +67,7 @@ Description = "DevOpsDays Buffalo is back for another unique conference experien
 
 <div class="showcase">
 <img src="/events/2023-buffalo/sharing/showcase.png">
-<p><a href="https://ti.to/devops-days-buffalo/2023"><button>Register</button></a></p>
+<p><a href="https://ti.to/devops-days-buffalo/devops-days-buffalo-2023"><button>Register</button></a></p>
 <p><a href="../location/"><button>Get venue info</button></a></p>
 <p><a href="../sponsor/"><button>Sponsor</button></a></p>
 <p><a href="../contact/"><button>Contact</button></a></p>
@@ -94,7 +94,7 @@ any topic selected by the group as a collective.</p>
 <p><strong>Related:</strong></p>
 <ul>
   <li><a href="https://www.cdc.gov/coronavirus/2019-ncov/index.html" target="_blank">Center for Disease Control</a></li>
-  <li><a href="http://www2.erie.gov/health/index.php?q=coronavirus" target="_blank">Erie County Department of Health</a></li>
+  <li><a href="https://www3.erie.gov/covid/" target="_blank">Erie County Department of Health</a></li>
 </ul>
 </div>
 </div>

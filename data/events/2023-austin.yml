@@ -37,10 +37,10 @@ location: "Etter-Harbin Alumni Center" # Defaults to city, but you can make it t
 location_address: "2110 San Jacinto Boulevard, Austin, Texas 78712" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
-  # - name: schedule
+  # - name: propose
+  - name: schedule
   - name: registration
-  # - name: speakers
+  - name: speakers
   - name: location
   - name: contact
   - name: sponsor
@@ -149,8 +149,6 @@ sponsors:
 #  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 #   - id: arresteddevops
 #     level: community
-  - id: reversing-labs
-    level: platinum
   - id: newrelic
     level: platinum
   - id: dell-technologies
@@ -168,7 +166,7 @@ sponsors:
     level: gold
   - id: aptible
     level: gold
-  - id: logz # I know this isn't the logo they sent us, but it's pretty common to leave it if they're sponsoring other conferences.
+  - id: logz-2023 # I know this isn't the logo they sent us, but it's pretty common to leave it if they're sponsoring other conferences.
     level: gold
   - id: rackn
     level: gold
@@ -180,15 +178,25 @@ sponsors:
     level: gold
   - id: isovalent
     level: gold
-  - id: armory # reused
+  - id: armory-2023
     level: gold
   - id: ustglobal # reused
+    level: gold
+  - id: acorn
+    level: gold
+  - id: harness
     level: gold
   - id: vmware-tanzu-horiz
     level: lanyard  
   - id: tailscale-black
     level: coffee
   - id: raft
+    level: happyhour
+  - id: lightstep
+    level: happyhour
+  - id: kong
+    level: happyhour
+  - id: civo
     level: happyhour
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

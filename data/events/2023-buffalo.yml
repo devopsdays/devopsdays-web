@@ -2,7 +2,7 @@ name: "2023-buffalo" # The name of the event. Four digit year with the city name
 year: "2023" # The year of the event. Make sure it is in quotes.
 city: "Buffalo" # The displayed city name of the event. Capitalize it.
 event_twitter: "DevOpsDaysBUF" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "DevOps Days is coming to Buffalo!" # Edit this to suit your preferences
+description: "DevOps Days is coming back to Buffalo!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2023-MM-DDTHH:MM:SS+TZ:TZ, like this:
@@ -10,35 +10,36 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2023-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate:  2023-09-27 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2023-09-28 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2023-04-14   # start accepting talk proposals.
+cfp_date_end: 2023-05-31 # close your call for proposals.
+cfp_date_announce: 2023-06-15  # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://sessionize.com/devops-days-buffalo-2023/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: 2023-06-01
+registration_date_end: 2023-09-26
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://ti.to/devops-days-buffalo/devops-days-buffalo-2023" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
 coordinates: "42.8797755,-78.8763309" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Buffalo" # Defaults to city, but you can make it the venue name.
+location: "Seneca One" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "1 Seneca St Buffalo, NY 14203" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
- # - name: location
- # - name: registration
- # - name: program
- # - name: speakers
+  - name: location
+  - name: registration
+    url: "https://ti.to/devops-days-buffalo/2022"
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -63,20 +64,41 @@ team_members: # Name is the only required field for team members.
   - name: "Ryan Scott Brown"
     twitter: ryan_sb
     bio: "Ryan is an operations nerd at heart with a potentially unhealthy dose of software engineering. From humble beginnings learning why the problem always seems to be DNS, he's been a Principal Engineer at multiple developer tools companies like Ansible and Vendia."
-  - name: "Katie Volz"
-    bio: "Katie is a Western New York native who's been a Bills fan all her life.  She currently works in the Technology Development Program at M&T Bank in Buffalo.  Her hobbies include streaming, game development, and telling anyone who will listen that PHP isn't just for web development."
-    image: "katie-volz.png"
+    image: "ryan.jpg"
   - name: "Zack Glick"
     twitter: z1g1
     image: "zack-glick.jpg"
     linkedin: "https://www.linkedin.com/in/zglick/"
     bio: "Born in San Francisco, grown in Buffalo, educated in Syracuse, and living back in Buffalo after trips thru Rhode Island, North Virginia, and Washington state. Work experience includes for New Relic, AWS Security, Dell Secureworks, and the Syracuse City School District. Zack works as a Principal Security Engineer in cloud security on the defensive side with experience in product security, coordinated vulnerability disclosure, incident response, and threat modeling."
+  - name: "PJ Hagerty"
+    employer: "Spotify"
+    bio: "PJ is a Senior Developer Advocate at Spotify, founder of DevRelate.io, creator of CallofConduct.com, and a board member of Open Sourcing Mental Illness (OSMHhelp.org). He has been an organizer of DevOps Days Buffalo, CodeDaze, and ElixirDaze. Additionally, PJ is a developer, writer, speaker, and musician. He is known to travel the world speaking about programming and the way people think and interact. He is also known for wearing hats."
+    twitter: "aspleenic"
+    image: "pj.jpg"
+    linkedin: "https://www.linkedin.com/in/pjhagerty/"
 
 organizer_email: "buffalo@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: bestpractical
+    level: bronze
+  - id: elastic
+    level: silver
+  - id: infosec716
+    level: community
+  - id: dragondropcloud
+    level: silver
+  - id: mandtbank
+    level: gold
+  - id: techbuffalo
+    level: badge
+  - id: osmi
+    level: bronze
+  - id: scout
+    level: silver
+
 #  - id: samplesponsorname
 #    level: gold
 #    url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
@@ -90,10 +112,185 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Gold
-#    max: 10
+    max: 5
   - id: silver
     label: Silver
+    max: 5
   - id: bronze
     label: Bronze
+    max: 5
+  - id: badge
+    label: Badge
+    max: 1
   - id: community
     label: Community
+
+program:
+  - title: "Welcome / Arrival / Check-in / Breakfast"
+    type: custom
+    date: 2023-09-27
+    start_time: "08:00"
+    end_time: "08:45"
+  - title: "welcome"
+    type: talk
+    date: 2023-09-27
+    start_time: "08:45"
+    end_time: "09:00"
+  - title: "fen-aldrich"
+    type: talk
+    date: 2023-09-27
+    start_time: "09:00"
+    end_time: "09:40"
+  - title: "matt-williams"
+    type: talk
+    date: 2023-09-27
+    start_time: "09:45"
+    end_time: "10:15"
+  - title: "jj-asghar"
+    type: talk
+    date: 2023-09-27
+    start_time: "10:20"
+    end_time: "10:50"
+  - title: "Sponsors"
+    type: custom
+    date: 2023-09-27
+    start_time: "10:50"
+    end_time: "11:00"
+  - title: "mey-beisaron"
+    type: talk
+    date: 2023-09-27
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "sarah-morgan"
+    type: talk
+    date: 2023-09-27
+    start_time: "11:35"
+    end_time: "12:05"
+  - title: "LUNCH"
+    type: custom
+    date: 2023-09-27
+    start_time: "12:05"
+    end_time: "13:15"
+  - title: "Sponsors"
+    type: custom
+    date: 2023-09-27
+    start_time: "13:15"
+    end_time: "13:30"
+  - title: "Ignites"
+    type: ignite
+    date: 2023-09-27
+    start_time: "13:30"
+    end_time: "14:00"
+    block: "ignite"
+  - title: "Open Spaces"
+    type: open-space
+    date: 2023-09-27
+    start_time: "14:05"
+    end_time: "15:35"
+  - title: "adam-furmanek"
+    type: talk
+    date: 2023-09-27
+    start_time: "15:40"
+    end_time: "16:10"
+  - title: "rajith-attupattu"
+    type: talk
+    date: 2023-09-27
+    start_time: "16:15"
+    end_time: "16:45"
+  - title: "Closing Remarks"
+    type: custom
+    date: 2023-09-27
+    start_time: "16:45"
+    end_time: "17:00"
+  - title: "Welcome / Arrival / Check-in / Breakfast"
+    type: custom
+    date: 2023-09-28
+    start_time: "08:00"
+    end_time: "08:45"
+  - title: "welcome"
+    type: talk
+    date: 2023-09-28
+    start_time: "08:45"
+    end_time: "09:00"
+  - title: "jessica-kerr"
+    type: talk
+    date: 2023-09-28
+    start_time: "09:00"
+    end_time: "09:40"
+  - title: "baruch-sadogursky"
+    type: talk
+    date: 2023-09-28
+    start_time: "09:45"
+    end_time: "10:15"
+  - title: "becky-gandillion"
+    type: talk
+    date: 2023-09-28
+    start_time: "10:20"
+    end_time: "10:50"
+  - title: "Sponsors"
+    type: custom
+    date: 2023-09-28
+    start_time: "10:50"
+    end_time: "11:00"
+  - title: "richard-goforth"
+    type: talk
+    date: 2023-09-28
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "tejas-chopra"
+    type: talk
+    date: 2023-09-28
+    start_time: "11:35"
+    end_time: "12:05"
+  - title: "LUNCH"
+    type: custom
+    date: 2023-09-28
+    start_time: "12:05"
+    end_time: "13:15"
+  - title: "Sponsors"
+    type: custom
+    date: 2023-09-28
+    start_time: "13:15"
+    end_time: "13:30"
+  - title: "josh-lee"
+    type: talk
+    date: 2023-09-28
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Spaces"
+    type: open-space
+    date: 2023-09-28
+    start_time: "14:05"
+    end_time: "15:35"
+  - title: "ken-de-souza"
+    type: talk
+    date: 2023-09-28
+    start_time: "15:40"
+    end_time: "16:10"
+  - title: "vino-duraisamy"
+    type: talk
+    date: 2023-09-28
+    start_time: "16:15"
+    end_time: "16:45"
+  - title: "Closing Remarks + Prize Drawing"
+    type: custom
+    date: 2023-09-28
+    start_time: "16:45"
+    end_time: "17:00"
+
+ignites:
+  - title: "jj-asghar-1"
+    date: 2023-09-27
+    block: "ignite"
+  - title: "fen-aldrich-1"
+    date: 2023-09-27
+    block: "ignite"
+  - title: "steve-martinelli"
+    date: 2023-09-27
+    block: "ignite"
+  - title: "christopher-johnson"
+    date: 2023-09-27
+    block: "ignite"
+  - title: "david-hope"
+    date: 2023-09-27
+    block: "ignite"

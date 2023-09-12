@@ -14,15 +14,8 @@ Description = "Location for devopsdayss Tampa Bay 2023"
     <div class="d-flex flex-row">
       <div class="col-md-12">
         <div class="p-2">
-          <a class="btn btn-secondary btn-block" href="/events/2023-tampa/program"> <i class="fa fa-tasks fa-lg"></i>&nbsp;&nbsp;
-            &nbsp; Program</a>
-        </div>
-        <div class="p-2">
-          <a class="btn btn-secondary btn-block" href="/events/2023-tampa/registration"> <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Get a ticket</a>
-        </div>
-        <div class="p-2">
-          <a class="btn btn-secondary btn-block" href="https://www.linkedin.com/company/40652911"> <i class="fa fa-linkedin fa-lg"></i>&nbsp;&nbsp;
-            &nbsp; Follow us on LinkedIn</a>
+          <a target="_blank" class="btn btn-secondary btn-block" href="https://www.eventbrite.com/e/devopsdays-tampa-bay-2023-tickets-635898929817"> <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;
+            &nbsp; Purchase a Ticket</a>
         </div>
         <div class="p-2">
           <a class="btn btn-secondary btn-block" href="/events/2023-tampa/sponsor"> <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference</a>
@@ -31,6 +24,14 @@ Description = "Location for devopsdayss Tampa Bay 2023"
           <a class="btn btn-secondary btn-block" href="/events/2023-tampa/contact"> <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;
             &nbsp; Contact the Organizers</a>
         </div>
+        <div class="p-2">
+          <a class="btn btn-secondary btn-block" href="https://www.linkedin.com/company/40652911"> <i class="fa fa-linkedin fa-lg"></i>&nbsp;&nbsp;
+            &nbsp; Follow us on LinkedIn</a>
+        </div>
+        <div class="p-2">
+          <a class="btn btn-secondary btn-block" href="https://twitter.com/intent/follow?original_referer=http%3A%2F%2Flocalhost%3A1313%2F&ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Efollow%7Ctwgr%5Edevopsdaystb&region=follow_link&screen_name=devopsdaystb"> <i class="fa fa-twitter fa-lg"></i>&nbsp;&nbsp;
+            &nbsp; Follow us on Twitter</a>
+        </div>
       </div>
     </div>
   </div>
@@ -38,19 +39,18 @@ Description = "Location for devopsdayss Tampa Bay 2023"
   <div class="col-md-7">
     <div class="alert alert-info" role="alert">
       <h4 class="alert-heading">Event Location</h4>
-      <p>DevOpsDays Tampa Bay 2023 will be in the Grand Ball room at <a href="https://app.cloudpano.com/tours/hMYG0PWk4j" target="_blank">USF Saint Petersburg Campus</a></p>
-      <br> University Student Center 
-      <br> 200 6th Avenue South 
-      <br> St. Petersburg, FL 33701</p>
+      <p>DevOpsDays Tampa Bay 2023 will be at <a href="https://armatureworks.com/" target="_blank">Armatureworks</a></p> 
+      <br> 1910 N Ola Avenue
+      <br> Tampa, FL 33602</p>
       {{< event_map >}}
     </div>
     <div class="alert alert-info" role="alert">
-      <h4 class="alert-heading">Parking Address</h4>
-      <p>Parking is right across the street from the event at 5th Avenue South Parking Facility</p>
+      <h4 class="alert-heading">Parking</h4>
+      <p>There are 4 guest parking lots surrounding Armature works. All Armature Works lots, excluding the 220 lot offer free parking Monday through Friday until 4pm. Parking during special events and holidays vary.</p>
     </div>
     <div class="alert alert-info" role="alert">
       <h4 class="alert-heading">Hotel Recomendation</h4>
-      <p>Hotel Recommendation: <a href="https://www.hilton.com/en/hotels/sptshhf-hilton-st-petersburg-bayfront/" target="_blank">Hilton St. Petersburg Bayfront Downtown</a></p>
+      <p>TBD</p>
     </div>
   </div>
 </div>

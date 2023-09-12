@@ -33,8 +33,6 @@ You can register for DevOpsDays Austin beginning **February 15th** using <a href
     });
 </script>
 
-We have discount tickets (50%) for anyone that was impacted by the recent lay offs or is a student and wants to come to our conference. Please fill out the Google form linked below & we will get back to you. The answers will go to the core organizers (Daria, Laura & Shaun).
-
-<a href="https://forms.gle/h811jJb7cpujwzdV9" class="btn btn-primary">Ticket for DevOpsDays Austin 2023</a>
+<p>We have discounted tickets available for Austin locals - particularly students, people who are unemployed or have income constraints, and members of communities which are under-represented at tech events. <a href="https://forms.gle/h811jJb7cpujwzdV9">Please fill out this form</a> (available until the evening of May 3rd, if it's down submissions are closed). Your submission will go to the Austin core organizers (Daria, Laura, & Shaun) and we'll respond as quickly as we're able.</p>
 
 If your employer needs a little extra encouragement to approve your participation, you can use this [justification letter](https://docs.google.com/document/d/1jm5HNaSTBtSZhA5mvbJPtimqrbkfBawXTt0mnvpiLX4/edit?usp=sharing) as a template.

@@ -39,9 +39,6 @@ Description = "Devopsdays Birmingham, uk 2023"
           <a class="btn btn-secondary btn-block" href="https://ti.to/tech-events-birmingham/devopsdays-birmingham-uk-2023" rel="noopener"> <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Buy a ticket</a>
         </div>
         <div class="p-2">
-          <a class="btn btn-secondary btn-block" href="https://sessionize.com/devopsdays-birmingham-uk-2023/" > <i class="fa fa-question fa-lg"></i>&nbsp;&nbsp;&nbsp;Submit to Our CFP!</a>
-        </div>
-        <div class="p-2">
           <a class="btn btn-secondary btn-block" href="/events/2023-birmingham-uk/contact"> <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Contact the Organizers</a>
         </div>
         <div class="p-2">

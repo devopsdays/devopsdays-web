@@ -1,10 +1,8 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
-Title = "Enforce fine-grained policy control across development and production environments"
+Title = "Enforce Fine-Grained Policy Control Across Development and Production Environments"
 Type = "talk"
 Speakers = ["dewan-ahmed","peter-oneill"]
+sharing_image = "dewan-peter.png"
 +++
 Deployment is **hard**. Enforcing policy on how the resources can be deployed is even harder. In this workshop, I'll leverage two popular open-source tools, [Terraform](https://terraform.io/) and [Open Policy Agent](https://www.openpolicyagent.org/), to show you step-by-step how to enforce fine-grained control on large-scale deployments across environments for data-related services.
 

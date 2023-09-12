@@ -1,31 +1,32 @@
 name: "2023-fortaleza" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2023" # The year of the event. Make sure it is in quotes.
 city: "Fortaleza" # The displayed city name of the event. Capitalize it.
-event_twitter: "devopsdaysce" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+event_twitter: "devopsdayce" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "Devopsdays is coming to Fortaleza!" # Edit this to suit your preferences
-ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+#ga_tracking_id: "G-V6NPDB4RM8" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+gtm_tracking_id: "G-V6NPDB4RM8" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2023-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2023-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate:  2023-09-23T08:00:00-03:00  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  2023-09-23T17:00:00-03:00  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate:  2023-09-02T08:00:00-03:00  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  2023-09-02T17:00:00-03:00  # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2023-04-14T10:00:00-03:00 # start accepting talk proposals.
-cfp_date_end: 2023-06-15T07:00:00-03:00 # close your call for proposals.
-cfp_date_announce: 2023-07-14T08:00:00-03:00 # inform proposers of status
+cfp_date_start: 2023-04-25T10:00:00-03:00 # start accepting talk proposals.
+cfp_date_end: 2023-05-25T07:00:00-03:00 # close your call for proposals.
+cfp_date_announce: 2023-07-15T08:00:00-03:00 # inform proposers of status
 
-cfp_open: "false"
-cfp_link: "https://www.papercall.io/devopsdaysfortaleza2023" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_open: "true"
+cfp_link: "https://www.papercall.io/devopsdayfortaleza" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2023-06-29 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 registration_date_end: 2023-08-10 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "https://devopsdaysce.eventize.com.br" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.eventbrite.com.br/e/devops-days-fortaleza-tickets-638733989557" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -39,8 +40,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
   - name: registration
     url: https://devopsdaysce.eventize.com.br
- # - name: program
-  # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct-pt-br
@@ -64,7 +65,7 @@ team_members: # Name is the only required field for team members.
 
   - name: "Ana Carla"
     twitter: ""
-    employer: "Hash"
+    employer: "AmbevTech"
     bio: "mother, wife, professional and curious. Currently supports a team of SREs in the product engineering area. Loves technology, communities and people. Believes that the union of technology and people create innovative scenarios.Master's student in Artificial Intelligence and Data Science. Currently supports the two projects Pyladies Fortaleza and DevOps Day Fortaleza."
     github: ""
     facebook: ""
@@ -75,7 +76,7 @@ team_members: # Name is the only required field for team members.
   - name: "Ana Mendes"
     twitter: ""
     employer: "TJCE"
-    bio: "Graduated in systems analysis and development and graduate student in Software Engineering,DevOps and Cloud Computing. Certified GitLab and Oracle Cloud Foundations 2021. At the moment I work as a DevOps at TJCE and I've been looking to follow a path of studies about this amazing culture and its tools. Currently supports the two projects: Pyladies Fortaleza and DevOps Day Fortaleza."
+    bio: "Graduated in systems analysis and development and postgraduate in Software Engineering, DevOps and Cloud Computing. Certified GitLab and Oracle Cloud Foundations 2021. At the moment I work as a DevOps at TJCE and I teach in the basic DevOps track in the IT Talent program. I have sought to follow a path of studies about this amazing culture and its tools. Currently supports the two projects: Pyladies Fortaleza and DevOps Day Fortaleza."
     github: ""
     facebook: ""
     linkedin: "https://www.linkedin.com/in/ana-mdo/"
@@ -105,7 +106,7 @@ team_members: # Name is the only required field for team members.
   - name: "Ezzio Moreira"
     twitter: ""
     employer: "Pagar.me"
-    bio: "Graduated in Computer Networks, certified AWS Solutions Architect Associate, and Terraform Associate. I love technology and DevOps culture. I am a member of the Mentoring IaC community where I can learn and cultivate the philosophy of knowledge sharing. I'm learning about Gitops, Kubernetes, and coding in golang.In my spare time, I like to drink craft beer, play video games and ride a bike."
+    bio: "Graduated in Computer Networks, CKA certified, AWS SAA, 2x Datadog and Terraform Associate. Currently, I'm part of the SRE team at Pagar.me, I'm one of the moderate DevOps mentors, I'm part of the DevOps Ceará community meetups organization. I'm learning about Observability and Python. In my spare time, I enjoy drinking craft beer, playing video games, and riding my bike."
     github: "ezzioMoreira"
     facebook: ""
     linkedin: "https://www.linkedin.com/in/ezzio-moreira-89587898/"
@@ -134,8 +135,8 @@ team_members: # Name is the only required field for team members.
 
   - name: "Rafael Camelo"
     twitter: ""
-    employer: "RCN&BS"
-    bio: "My name is Rafael, I have a Degree in Computer Networks and a Post Graduate in Information Security, I am currently studying the Devops culture and I intend to use the solutions provided by it. I am living in Fortaleza, Ceará Brazil. Currently I work in a company that provides solutions service related to technology, my position currently is, infrastructure analyst. I love to play sports like judo and Crossfit, I really like to read things not related to IT"
+    employer: "Pague Menos"
+    bio: "My name is Rafael, and I hold a Degree in Computer Networks as well as a Post Graduate degree in Information Security. Currently, I am immersing myself in studying the DevOps culture and its associated solutions. I reside in Fortaleza, Ceará, Brazil. I am employed at a technology-focused company where I work as an infrastructure analyst, providing solutions and services. In addition to my professional pursuits, I have a passion for sports such as judo and Crossfit. Furthermore, I enjoy reading about topics unrelated to IT."
     github: "rafaelm93"
     facebook: ""
     linkedin: "https://www.linkedin.com/in/rafael-camelo-98120b93/"
@@ -152,17 +153,45 @@ team_members: # Name is the only required field for team members.
     website: ""
     image: "pedro-azevedo.png"
 
-  - name: "Joab Rocha"
+  - name: "Victoria Farias"
     twitter: ""
-    employer: "Software Engineer"
-    bio: "Student of Industrial Mathematics at the Federal University of Ceará, I am an enthusiast in web development that seeks to improve more and more in the new technologies that are emerging. I have 2 years of experience developing Back-End systems for the Web, with some knowledge in Docker and Deploy, and about 5 years with programming in general."
-    github: "Joab-S"
+    employer: "FortBrasil"
+    bio: "I am a Computer Networks Technician and currently pursuing a degree in Computer Networks Technology. I am absolutely passionate about technology and all the new possibilities for knowledge that come into my life. Currently, I work as a Junior IT Analyst, and in my free time, I am passionate about soccer."
+    github: ""
     facebook: ""
-    linkedin: "https://www.linkedin.com/in/joabdsr/"
+    linkedin: "https://www.linkedin.com/in/victoria-farias24/"
     website: ""
-    image: "joab.rocha.jpeg"  
+    image: "vitoria-farias.png"
+  
+  - name: "Alesson Viana"
+    twitter: ""
+    employer: "Grupo GFT"
+    bio: "I'm passionate about Technology, working with process automation, and extracting the best technologies cloud computing offers. I love learning and implementing methodologies and applications that make sense for the project's growth. I've been working with IT since 2012, but since 2020 I've been trying to focus more on automation tools and cloud computing technologies."
+    github: "https://github.com/alessonviana/"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/alesson-viana/"
+    website: "https://alessonviana.tech/"
+    image: "alesson-viana.jpeg"
 
- 
+  - name: "Carlos Veras"
+    twitter: ""
+    employer: "FortBrasil"
+    bio: "I hold a degree in Software Development and have been actively working in the IT industry since 2006. Throughout my career, I have gained experience in various roles, ranging from software development to IT management. I am constantly amazed by the power of technology and how it can drive businesses forward and positively transform people's lives. Presently, I hold the esteemed position of Supervisor in Governance and Information Security at Fortbrasil, a leading fintech company located in Fortaleza, Brazil. In this role, I oversee critical aspects of governance and information security to ensure the highest level of standards for our organization."
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/carlos-alberto-veras-cavalcanti-54a99312b/"
+    website: ""
+    image: "carlos.veras.png" 
+
+  - name: "Rafael Silva"
+    twitter: "https://twitter.com/rafaotetra"
+    employer: "Dell Lead"
+    bio: "I am a quadriplegic DevOps Engineer graduated in Computer Networks from the Federal University of Ceará - Campus Quixadá. Guided by the principles of Stoic philosophy, I find inspiration in music, books and sports. I am an enthusiast of the DevOps culture and the Open Source movement, I bring extensive expertise in cost management (FinOps) in AWS environments. My recent focus is on infrastructure as code (IaC) using Terraform, orchestration with Docker, ECS Fargate and Kubernetes. In addition, I have been exploring OpenTelemetry, Prometheus, Python and AI tools."
+    github: "https://github.com/rafaotetra"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/rafaotetra/"
+    website: ""
+    image: "rafael.silva.jpg"
 
 organizer_email: "fortaleza@devopsdays.org" # Put your organizer email address here
 
@@ -197,63 +226,146 @@ sponsors:
   - id: unifor
     level: platinum
     url: https://unifor.br/
-  # - id: quode
-  #   level: platinum
-  #   url: https://www.quodeproject.com.br/  
-  # - id: elevenworks
-  #   level: platinum
-  #   url: https://elven.works/
-  # - id: linuxtips
-  #   level: silver
-  #   url: https://www.linuxtips.io/
-  # - id: forja
-  #   level: silver
-  #   url: https://techleadership.rocks
-  # - id: novatec
-  #   level: community
-  #   url: https://novatec.com.br
-  # - id: urbanostreet
-  #   level: community
-  #   url: https://www.instagram.com/urbano.street/
-  # - id: grafanabr
-  #   level: community
-  #   url: https://grafana.com/
-  # - id: servix
-  #   level: community
-  #   url: https://servix.com/
-  # - id: elastic
-  #   level: bronze
-  #   url: https://www.elastic.co/
-  # - id: atlantico
-  #   level: gold
-  #   url: https://www.atlantico.com.br/
-  # - id: aws-user-group-ce
-  #   level: community
-  #   url: https://www.meetup.com/pt-BR/AWS-Users-Group-CE/
-  # - id: energy-telecom
-  #   level: community
-  #   url: https://www.energytelecom.com.br/
-  # - id: globoofficial
-  #   level: silver
-  #   url: https://www.globo.com/
-  # - id: inflor
-  #   level: bronze
-  #   url: https://www.inflor.com.br/   
-  # - id: quanto
-  #   level: platinum
-  #   url: https://quan.to/   
-  # - id: globalsys
-  #   level: gold
-  #   url: https://www.globalsys.com.br/  
-  # - id: sauter
-  #   level: platinum
-  #   url: https://sauter.digital/ 
-  # - id: olist
-  #   level: silver
-  #   url: https://olist.com/pt-br/
-  # - id: autoglass
-  #   level: gold
-  #   url: https://www.autoglass.com.br/
-  # - id: quadritech
-  #   level: bronze
-  #   url: https://www.autoglass.com.br/
+  - id: redhat
+    level: platinum
+    url: https://www.redhat.com/
+  - id: trust-control
+    level: platinum
+    url: https://www.trustcontrol.com.br/
+  - id: paloalto
+    level: platinum
+    url: https://www.paloaltonetworks.com/
+  - id: elastic
+    level: gold
+    url: https://www.elastic.co  
+  - id: csi-tech
+    level: platinum
+    url: https://csitech.csilocacoes.com.br/ 
+  - id: trustdsolutions
+    level: bronze
+    url: https://trustd.solutions/ 
+  - id: linuxtips
+    level: community
+    url: https://www.linuxtips.io/
+  - id: mundo-sem-fio
+    level: community
+    url: http://mundosemfio.com.br/
+  - id: formacao-aws
+    level: community
+    url: https://instagram.com/henryllemaia  
+  - id: novatec
+    level: community
+    url: https://novatec.com.br
+  - id: fortbrasil
+    level: community
+    url: https://novatec.com.br  
+  - id: jack-experts
+    level: community
+    url: https://jackexperts.com/
+  - id: crowdsec
+    level: community
+    url: https://crowdsec.net/ 
+  - id: clear-it
+    level: community
+    url: https://clearit.com.br/  
+  - id: grafanabr
+    level: bronze
+    url: https://grafana.com/
+  - id: alura
+    level: bronze
+    url: https://www.alura.com.br/
+
+program:
+  - title: "Credenciamento e Coffee Break"
+    type: custom
+    date: 2023-09-02T07:45:00-03:00
+    start_time: "07:45"
+    end_time: "08:30"
+  - title: "Abertura"
+    type: custom
+    date: 2023-09-02T07:45:00-03:00
+    start_time: "08:30"
+    end_time: "09:00"
+  - title: "nelson-abu"
+    type: talk
+    date: 2023-09-02T07:45:00-03:00
+    start_time: "09:00"
+    end_time: "09:25"
+    background_color: "#AED6F1"
+  - title: "marcus-lima"
+    type: talk
+    date: 2023-09-02T07:45:00-03:00
+    start_time: "09:30"
+    end_time: "09:55"
+  - title: "stephanie-chaia"
+    type: talk
+    date: 2023-09-02T07:45:00-03:00
+    start_time: "10:00"
+    end_time: "10:25"
+  - title: "juliana-wisniewski"
+    type: talk
+    date: 2023-09-02T07:45:00-03:00
+    start_time: "10:30"
+    end_time: "10:55"
+  - title: "Sorteio de Brindes"
+    type: custom
+    date: 2023-09-02T07:45:00-03:00
+    start_time: "11:00"
+    end_time: "11:30"
+    background_color: "#40E0D0"
+  - title: "Almoço"
+    type: custom
+    date: 2023-09-02T07:45:00-03:00
+    start_time: "11:30"
+    end_time: "12:30"
+    background_color: "#EDDB39"
+  - title: "lanay-marques"
+    type: talk
+    date: 2023-09-02T07:45:00-03:00
+    start_time: "12:30"
+    end_time: "12:55"
+    background_color: "#AED6F1"
+  - title: "cristiano-santos"
+    type: talk
+    date: 2023-09-02T07:45:00-03:00
+    start_time: "13:00"
+    end_time: "13:25"
+  - title: "elena-giuli"
+    type: talk
+    date: 2023-09-02T07:45:00-03:00
+    start_time: "13:30"
+    end_time: "13:55"
+  - title: "Coffee Break"
+    type: custom
+    date: 2023-09-02T07:45:00-03:00
+    start_time: "14:00"
+    end_time: "14:20"
+    background_color: "#EDDB39"
+  - title: "luiz-aoqui"
+    type: talk
+    date: 2023-09-02T07:45:00-03:00
+    start_time: "14:20"
+    end_time: "14:45"
+    background_color: "#AED6F1"
+  - title: "edson-ferreira"
+    type: talk
+    date: 2023-09-02T07:45:00-03:00
+    start_time: "14:50"
+    end_time: "15:15"
+  - title: "marylia-gutierrez"
+    type: talk
+    date: 2023-09-02T07:45:00-03:00
+    start_time: "15:20"
+    end_time: "15:45"
+  - title: "Sorteio de Brindes"
+    type: custom
+    date: 2023-09-02T07:45:00-03:00
+    start_time: "15:50"
+    end_time: "16:20"
+    background_color: "#40E0D0"
+  - title: "Encerramento"
+    type: custom
+    date: 2023-09-02T07:45:00-03:00
+    start_time: "16:20"
+    end_time: "16:50"
+    background_color: "#40E0D0"

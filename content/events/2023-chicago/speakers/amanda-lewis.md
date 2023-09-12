@@ -4,7 +4,7 @@ Twitter = "swansama"
 image = "amanda-lewis.jpg"
 type = "speaker"
 linktitle = "amanda-lewis"
-sharing_image = "amanda-lewis.png"
+sharing_image = "amanda-katie.png"
 
 +++
 Amanda Lewis is the DORA.community Development Lead and a developer advocate with Google Cloud, focused on DORA, DevOps, and Developer Productivity.

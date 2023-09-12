@@ -1,9 +1,12 @@
 +++
 Title = "devopsdays Organizer Summit 2023"
 Type = "welcome"
-aliases = ["/events/2023-organizer-summit/"]
+aliases = ["/events/2023-organizer-summit/","/events/2023-organiser-summit/"]
 Description = "devopsdays Organizer Summit 2023"
 +++
+{{< youtube 8eAEy3O3gYw >}}
+<br><br>
+or <a href = "https://www.youtube.com/watch?v=8eAEy3O3gYw">go directly to the stream on YouTube!</a>
 
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
@@ -17,6 +20,12 @@ Description = "devopsdays Organizer Summit 2023"
               <!-- <p>While we are making every attempt to hold an in-person event in 2023, we recognize that the ongoing pandemic may affect this plan. The health and well-being of our attendees is of paramount importance, so we reserve the right to apply reasonable attendance requirements in accordance with local or federal guidance. {{< event_link page="covid-19-policy" text="You can read our 2022 COVID-19 policy here" >}}. We also reserve the right to cancel completely, or change to a virtual event, if the in-person event cannot be held safely.</p> -->
     </div>
  </div>
+
+ <div class = "row">
+  <div class = "col-md-6 push-md-6">
+   <img src = "../banner.png">
+  </div>
+</div>
 
 The devopsdays Organizer Summit 2023 is a one-day event for organizers of devopsdays events. It is a chance to meet other organizers, share ideas, and learn from each other. It takes place the day before [devopsdays Chicago](https://devopsdays.org/chicago), and the ticket is a free add-on to registration for that event.
 
@@ -60,14 +69,14 @@ Virtual attendance is available for those who cannot attend in person.
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
     View the {{< event_link page="program" text="program." >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -97,11 +106,11 @@ Virtual attendance is available for those who cannot attend in person.
   </div>
 </div>
 <hr>
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-12">
-    <h2>FAQs</h2<>
+    <h2><A href = "/events/2023-organizer-summit/guide-to-chicago">Guide to Chicago</a></h2<>
   </div>
-</div> -->
+</div>
 
 <!-- Uncomment if you added your city twitter name -->
 <!--

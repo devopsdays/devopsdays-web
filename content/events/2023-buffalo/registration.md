@@ -5,7 +5,5 @@ Description = "Registration for devopsdays Buffalo 2023"
 +++
 
 <div style="width:100%; text-align:left;">
-The registration is not yet open. Please check back at a later date for more details.
-<!-- https://ti.to/devops-days-buffalo/2023 -->
-</div></div>
+<p>Register now on <a href="https://ti.to/devops-days-buffalo/devops-days-buffalo-2023">ti.to</a></p>
 </div>

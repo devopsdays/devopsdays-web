@@ -14,17 +14,20 @@ startdate: 2023-09-13T07:00:00-04:00
 enddate: 2023-09-14T19:00:00-04:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-# cfp_date_start: 2023-05-09T00:00:00-04:00 # start accepting talk proposals.
-# cfp_date_end:  2023-07-11T00:00:00-04:00 # close your call for proposals.
-# cfp_date_announce:  2023-08-01T00:00:00-04:00 # inform proposers of status
+cfp_date_start: 2023-05-01T00:00:00-04:00 # start accepting talk proposals.
+cfp_date_end: 2023-06-26T00:00:00-04:00 # close your call for proposals.
+cfp_date_announce: 2023-07-24T00:00:00-04:00 # inform proposers of status
 
-# cfp_link: "https://sessionize.com/devopsdays-dc-2023" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://sessionize.com/devopsdays-dc-2023" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2023-03-02T00:00:00-04:00
 registration_date_end: 2023-09-14T23:59:59-04:00
 
 # registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://www.eventbrite.com/e/devopsdays-dc-2023-tickets-553328328927"
+
+masthead_background: "uscapitol.jpg"
+sharing_image: "dc-sharing.png"
 
 # Location
 #
@@ -36,9 +39,9 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: propose
 - name: location
 - name: registration
- # - name: program
- # - name: speakers
- # - name: sponsor
+- name: program
+- name: speakers
+- name: sponsor
 - name: contact
 - name: conduct
  # - name: covid-19-policy
@@ -63,7 +66,7 @@ team_members: # Name is the only required field for team members.
   - name: "Jeff Gallimore"
     employer: "Excella"
     twitter: "jgallimore"
-    bio: "I'm the Chief Technology and Innovation Officer and Co-founder at Excella, a mid-tier technology consulting firm based in Arlington, VA. Since I turned to the dark side by going into management, I live vicariously through other engineers and have fond memories of spending my time in code and command lines rather than Outlook and Excel. I'm active in the DevOps community with DevOpsDays DC and as an advisor to IT Revolution. I have a passion for how technology can be used to help organizations win with their mission and people find joy in their work."
+    bio: "I'm the Chief Technology and Innovation Officer and Co-founder at Excella, a mid-sized technology services firm based in Arlington, VA. Since I turned to the dark side by going into management, I live vicariously through other engineers and have fond memories of spending my time in code and command lines rather than Outlook and Excel. I'm active in the DevOps community with DevOpsDays DC and as an advisor to IT Revolution. I have a passion for how technology can be used to help organizations win with their mission and people find joy in their work."
     image: "jeff-gallimore.jpg"
     github: "https://github.com/gallimorej"
     linkedin: "https://www.linkedin.com/in/jgallimore/"
@@ -202,10 +205,46 @@ organizer_email: "washington-dc@devopsdays.org" # Put your organizer email addre
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: launch-darkly
+    level: platinum
+  - id: datadog
+    level: platinum
+  - id: vmware-tanzu
+    level: platinum
+  - id: spectrocloud
+    level: platinum
+  - id: puppet-by-perforce
+    level: platinum
+  - id: cloudbees
+    level: platinum
+  - id: gitlab
+    level: platinum
+  - id: progresschef
+    level: platinum
+  - id: scout
+    level: gold
+  - id: coveros
+    level: gold
+  - id: tremolo
+    level: silver
+  - id: raft
+    level: silver
+  - id: excella
+    level: silver
+  - id: eastbanc
+    level: silver
+  - id: configure8
+    level: silver
+  - id: googlecloud
+    level: silver
   - id: kcddc
     level: community
+  - id: devopsdc-meetup
+    level: community
+  - id: devitjobs
+    level: community
 
-sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -214,14 +253,14 @@ sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: platinum
     label: Platinum
-    max: 15
+    max: 12
   - id: gold
     label: Gold
-    max: 5
+    max: 6
   - id: silver
     label: Silver
-    max: 5
+    max: 6
     #max: 0 # This is the same as omitting the max limit.
   - id: community
     label: Community
-    max: 0
+    max: 3

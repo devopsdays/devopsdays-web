@@ -1,10 +1,8 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
 Title = "Automating Away SRE Toil"
 Type = "talk"
 Speakers = ["doug-sillars"]
+sharing_image = "doug-sillars.png"
 +++
 SREs and CloudOps professionals spend as much as 55% of their time on Application Support and Operations.  Spending a majority of your time playing "catch up" is a prime cause of burn out, and it means that new operational work isn't being completed.  What if we could automate away the Support and Operational toil that your SREs are facing?
 
