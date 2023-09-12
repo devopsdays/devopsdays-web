@@ -128,6 +128,8 @@ sponsors:
 # Silver
  - id: cloudappi
    level: silver
+ - id: checkly
+   level: silver
 # Bronze
  - id: speedyrails
    level: bronze
@@ -136,6 +138,8 @@ sponsors:
  - id: ambassadorlabs
    level: bronze
  - id: plainconcepts
+   level: bronze
+ - id: scalefactory
    level: bronze
 # Community
  - id: madriddevops
