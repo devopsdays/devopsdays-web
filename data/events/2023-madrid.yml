@@ -125,6 +125,8 @@ sponsors:
    level: gold
  - id: enterprisedb
    level: gold
+ - id: ryanair
+   level: gold
 # Silver
  - id: cloudappi
    level: silver
