@@ -67,8 +67,7 @@ string_replace "SPEAKERTWITTER" "${twitter}" "${speakerfile}"
 #linkedin profile
 read -p "Enter speaker linkedin profile (return for none): " linkedin
 [ -z "${linkedin}" ] && linkedin=''
-sedcmd "s,SPEAKERLINKEDIN,$linkedin,g" $speakerfile
-
+string_replace "SPEAKERLINKEDIN" "${linkedin}" "${speakerfile}"
 
 # bio
 read -p "Enter speaker bio (return for none): " bio
