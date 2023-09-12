@@ -1,11 +1,11 @@
 +++
-Title = "devopsdays raleigh 2023"
+Title = "devopsdays raleigh 2024"
 Type = "welcome"
-aliases = ["/events/2023-raleigh/"]
-Description = "devopsdays raleigh 2023"
+aliases = ["/events/2024-raleigh/"]
+Description = "devopsdays raleigh 2024"
 +++
 
-# Thank you for making DevopsDays Raleigh an amazing event again!
+# DevOps Days Raleigh is back for 2024!
 
 ## Keep the DevOpsDays Raleigh conversation going. Follow us on LinkedIn and Twitter!
 
