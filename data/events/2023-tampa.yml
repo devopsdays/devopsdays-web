@@ -130,9 +130,9 @@ sponsors:
     level: inkind
   - id: appdynamics
     level: platinum
-  - id: accenture-es
-    level: inkind
   - id: capitalone
+    level: inkind
+  - id: accenture-es
     level: inkind
   - id: elitesource
     level: gold
