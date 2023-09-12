@@ -132,6 +132,8 @@ sponsors:
    level: silver
  - id: checkly
    level: silver
+ - id: arigaio
+   level: silver
 # Bronze
  - id: speedyrails
    level: bronze
@@ -142,6 +144,10 @@ sponsors:
  - id: plainconcepts
    level: bronze
  - id: scalefactory
+   level: bronze
+ - id: vvalley
+   level: bronze
+ - id: xygeni
    level: bronze
 # Community
  - id: madriddevops
