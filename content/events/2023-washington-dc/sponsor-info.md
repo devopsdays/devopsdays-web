@@ -197,11 +197,11 @@ Please provide the high-resolution logo for a white background 16x9 aspect ratio
 | ------------------ | ------- | ------------ |
 | Silver Sponsors    | S1      | 10           |
 | VMware Tanzu       | S2      | 3            |
-| Spectrocloud       | S3      | 4            |
+| CloudBees          | S3      | 6            |
 | Puppet by Perforce | S4      | 5            |
 | LaunchDarkly       | S5      | 1            |
 | DataDog            | S6      | 2            |
-| CloudBees          | S7      | 6            |
+| Spectrocloud       | S7      | 4            |
 | GitLab             | S8      | 7            |
 | Progress Chef      | S9      | 8            |
 | ScoutAPM / Coveros | S10     | 9            |
@@ -256,50 +256,24 @@ For each Silver Sponsor, the M.C. will introduce sponsor representatives and del
 
 ### <a name='SponsorPitchSchedule'></a>Sponsor Pitch Schedule
 
-**Still under developoment**: 
 
-<!-- 
 | Day       | Time (10 min slot) | Sponsors                |
 |-----------|--------------------|-------------------------|
-| Wednesday | 9:45:00 AM         | New Relic               |
-|           |                    | CircleCI                |
-|           |                    | Dell                    |
+| Wednesday | 9:45 AM            | DataDog  |
+|           |                    | LaunchDarkly | 
+|           |                    | VMWare Tanzu |
+|           |                    | SpectoCloud  |
+|           |                    | Scout APM, Coveros |
+| Wednesday | 1:30 PM (5 min)     | All Silver Sponsors  |
+|           |                    | (No stage time, have rep |
+|           |                    | present for shout-out)
 |           |                    |                         |
-| Wednesday | 11:10 AM           | Transition Technologies |
-|           |                    | AppDynamics             |
-|           |                    | Kosli                   |
-|           |                    | Temporal                |
-|           |                    | Zesty                   |
-|           |                    |                         |
-| Wednesday | 11:50 AM           | Postman                 |
-|           |                    | Sumo Logic              |
-|           |                    | Trend Micro             |
-|           |                    | LaunchDarkly            |
-|           |                    | Acorn Labs              |
-|           |                    |                         |
-| Wednesday | 1:30 PM            | Site 24x7               |
-|           |                    | Sleuth.io               |
-|           |                    | Britive                 |
-|           |                    |                         |
-| Thursday  | 9:45 AM            | Discover                |
-|           |                    | Observe                 |
-|           |                    | Tailscale               |
-|           |                    |                         |
-| Thursday  | 11:10 AM           | Nobl9                   |
-|           |                    | Google                  |
-|           |                    | Puppet                  |
-|           |                    | Cloudbees               |
-|           |                    | Virtana                 |
-|           |                    |                         |
-| Thursday  | 11:50 AM           | Mezmo           |
-|           |                    | GitLab                  |
-|           |                    | Roost.ai                |
-|           |                    | Spot by NetApp          |
-|           |                    | Relativity              |
-|           |                    |                         |
+| Thursday  | 9:45 AM            | Puppet by Progress |
+|           |                    | CloudBees  |
+|           |                    | GitLab  |
+|           |                    | Chef |
 | Thursday  | 1:30 PM            | Sponsor giveaways       |
 <br><br>
--->
 
 ## <a name='ThursdayAfternoonRaffle'></a>Thursday Afternoon Raffle
 
@@ -386,5 +360,5 @@ For any other questions, email all of us at <washington-dc@devopsdays.org>
 
 **Version Information**:
 
-- 2023-08-25 v0.9 - First cut at copying over from Google Doc FAQ, with help from Chicago's sponsor-info
-
+- 2023-08-25 v0.9 - First cut at copying over from Google Doc FAQ, with help from Chicago's sponsor-info-
+- 2023-09-12 v1.1 - Fix table assignments, add  sponsor pitch  times.
