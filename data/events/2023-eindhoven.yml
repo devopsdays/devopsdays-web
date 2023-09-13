@@ -215,8 +215,8 @@ program:
     date: 2023-10-11T00:00:00+02:00
     start_time: "09:45"
     end_time: "10:10"
-  - title: "TBA"
-    type: custom
+  - title: "jelle-pelgrims"
+    type: talk
     date: 2023-10-11T00:00:00+02:00
     start_time: "10:15"
     end_time: "10:40"
@@ -225,17 +225,17 @@ program:
     date: 2023-10-11T00:00:00+02:00
     start_time: "10:45"
     end_time: "11:00"
-  - title: "jelle-pelgrims"
+  - title: "david-terol"
     type: talk
     date: 2023-10-11T00:00:00+02:00
     start_time: "11:00"
     end_time: "11:25"
-  - title: "david-terol"
+  - title: "phani-bhushan-tom-slenders"
     type: talk
     date: 2023-10-11T00:00:00+02:00
     start_time: "11:30"
     end_time: "11:55"
-  - title: "phani-bhushan-tom-slenders"
+  - title: "lian-li"
     type: talk
     date: 2023-10-11T00:00:00+02:00
     start_time: "12:00"
@@ -327,7 +327,7 @@ program:
     date: 2023-10-12T00:00:00+02:00
     start_time: "09:45"
     end_time: "10:10"
-  - title: "claude-warren"
+  - title: "claude-warren2"
     type: talk
     date: 2023-10-12T00:00:00+02:00
     start_time: "10:15"
@@ -342,7 +342,7 @@ program:
     date: 2023-10-12T00:00:00+02:00
     start_time: "11:00"
     end_time: "11:25"
-  - title: "TBA"
+  - title: "lesley-cordero"
     type: custom
     date: 2023-10-12T00:00:00+02:00
     start_time: "11:30"
@@ -401,11 +401,6 @@ program:
     date: 2023-10-12T00:00:00+02:00
     start_time: "16:00"
     end_time: "16:25"
-  - title: "lesley-cordero"
-    type: talk
-    date: 2023-10-12T00:00:00+02:00
-    start_time: "16:00"
-    end_time: "16:25"
   - title: "Close Day"
     type: custom
     date: 2023-10-12T00:00:00+02:00
@@ -421,9 +416,6 @@ ignites:
     date: 2023-10-11T00:00:00+02:00
     block: ignite-1
   - title: "alessandro-vozza"
-    date: 2023-10-11T00:00:00+02:00
-    block: ignite-1
-  - title: "lian-li"
     date: 2023-10-11T00:00:00+02:00
     block: ignite-1
   # Day two
