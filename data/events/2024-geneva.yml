@@ -78,9 +78,9 @@ team_members: # Name is the only required field for team members.
   - name: "Tim Izzo"
     employer: "Octree"
     linkedin: "https://www.linkedin.com/in/tim-izzo/"
-    twitter: 5ika_
     website: "https://octree.ch/"
     image: tim.jpg
+    bio: "Tim Izzo is a versatile professional, seamlessly straddling the realms of operations and development. With a deep-rooted commitment to Open-Source and Libre technologies, he is a co-founder of Octree, a dynamic startup studio focused on creating digital commons that drive innovation in circular economy, mobility and CivicTech domains. Tim's expertise extends to educating others in development and the intricacies of DevOps, both as an instructor at CREA Genève and occasionally at Réalise."
   - name: "Gaelle Delesderrier"
     employer:  M.I.C.E. spirit
     website: https://mice-spirit.com
