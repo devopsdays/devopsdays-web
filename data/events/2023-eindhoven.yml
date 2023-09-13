@@ -155,8 +155,6 @@ sponsors:
   - id: enterprisedb
     level: silver
   # bronze
-  - id: inuits
-    level: bronze
   - id: foreside-it
     level: bronze
 
