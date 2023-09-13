@@ -6,7 +6,7 @@ event_logo: "logo-square.png"
 #masthead_background: "banner.png"
 sharing_image: "logo-square.png"
 
-description: "Devopsdays is coming to geneva!" # Edit this to suit your preferences
+description: "Devopsdays is coming to Geneva!" # Edit this to suit your preferences
 ga_tracking_id: "UA-85366825-4" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2023-MM-DDTHH:MM:SS+TZ:TZ, like this:
