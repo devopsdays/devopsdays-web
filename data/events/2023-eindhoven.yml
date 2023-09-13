@@ -146,7 +146,6 @@ sponsors:
     level: gold
   - id: innvolve
     level: gold
-  # lanyard
   # lunch
   # recharge
   # silver
@@ -174,9 +173,6 @@ sponsor_levels:
   - id: gold
     label: Gold
     max: 7
-  - id: lanyard
-    label: Lanyard
-    max: 1
   - id: lunch
     label: "Lunch"
     max: 2
