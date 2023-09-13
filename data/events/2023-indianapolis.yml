@@ -118,7 +118,8 @@ sponsors:
     level: alacarte
   - id: agileindy
     level: community
-
+  - id: indyhackers
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
