@@ -205,7 +205,7 @@ program:
     start_time: "09:00"
     end_time: "09:15"
   - title: "marjolein-pilon"
-    type: custom
+    type: talk
     date: 2023-10-11T00:00:00+02:00
     start_time: "09:15"
     end_time: "09:40"
