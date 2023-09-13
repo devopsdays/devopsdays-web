@@ -90,13 +90,15 @@ organizer_email: "london@devopsdays.org" # Put your organizer email address here
 sponsors:
   # platinum sponsors
   # gold sponsors
-  - id: adaptavist
+  - id: theadaptavistgroup
     level: gold
   - id: coralogix
     level: gold
   - id: doit
     level: gold
   - id: elastic
+    level: gold
+  - id: googlecloud
     level: gold
   - id: puppet
     level: gold
@@ -114,6 +116,8 @@ sponsors:
   - id: pulumi
     level: silver
   - id: snyk
+    level: silver
+  - id: spot-by-netapp
     level: silver
   - id: wmpromus
     level: silver
@@ -236,8 +240,8 @@ program:
     date: 2023-09-21T00:00:00+01:00
     start_time: 16:00
     end_time: 16:15
-  - title: "10 Years of DevOpsDays London - Discussion"
-    type: custom
+  - title: "ten-years-of-dodl"
+    type: talk
     date: 2023-09-21T00:00:00+01:00
     start_time: "16:15"
     end_time: "17:00"
@@ -246,10 +250,15 @@ program:
     date: 2023-09-21T00:00:00+01:00
     start_time: "17:00"
     end_time: "17:10"
-  - title: "Evening Reception - TBC"
+  - title: "Drinks Reception in the Sponsor Hall"
     type: custom
     date: 2023-09-21T00:00:00+01:00
     start_time: "17:10"
+    end_time: "18:10"
+  - title: "Evening event hosted by DOXLON, Adaptavist and GitLab!"
+    type: custom
+    date: 2023-09-21T00:00:00+01:00
+    start_time: "18:30"
     end_time: "Onwards"
   - title: "Breakfast"
     type: custom

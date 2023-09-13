@@ -12,8 +12,8 @@ Description = "DevOpsDays Belém 2023"
 <div>
     <div style="padding-left: 10px">
       <p>O DevOpsDays Belém vai acontecer e será no dia <b>11 de Novembro de 2023</b>!</p>
-      <p>Nessa quarta edição do DevOpsDays Belém esperamos repetir o sucesso dos eventos anteriores e continuar espalhando a cultura do compartilhamento e das conexões entre os profissionais de tecnologia da nossa região!</p>
-      <p>Se você não participou das últimas edições não perca essa oportunidade de trocar experiências valiosas para sua carreira, levar dicas importantes para seu dia a dia, conhecer novas pessoas e quem sabe futuros colegas de trabalho. Você é o nosso diferencial, então não deixe de participar desse grande encontra da comunidade de tecnologia!</p>
+      <p>Nessa quarta edição do DevOpsDays Belém esperamos repetir o sucesso dos eventos anteriores e continuar espalhando a cultura do compartilhamento e das conexões entre os profissionais de tecnologia da nossa região.</p>
+      <p>Se você não participou das últimas edições não perca essa oportunidade de trocar experiências valiosas para sua carreira, levar dicas importantes para seu dia a dia, conhecer novas pessoas e quem sabe futuros colegas de trabalho. Você é o nosso diferencial, então não deixe de participar desse grande encontra da comunidade de tecnologia.</p>
       <p>Os links abaixo tem outras informações, e algumas serão atualizadas a medida que fomos fechando a chamada de palestras pra compor a programação.</p>
       <p>Estamos contanto com você para fazer dessa edição um grande sucesso!</p>
     </div>
@@ -46,7 +46,7 @@ Description = "DevOpsDays Belém 2023"
     <strong>Inscreva-se</strong>
   </div>
   <div class = "col-md-8">
-    <a href="#">Em breve!</a>
+    <a href="https://www.sympla.com.br/evento/devopsdays-belem-2023/2156296" target="_blank">Link para Inscrição</a>
   </div>
 </div>
 

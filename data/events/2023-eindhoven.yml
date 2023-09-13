@@ -24,7 +24,7 @@ registration_date_start: 2023-06-19T00:00:00+02:00 # start accepting registratio
 registration_date_end: 2023-10-11T00:00:00+02:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-#registration_link: "https://tix.devops.foundation/devopsdays-eindhoven/2023/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+#registration_link: "https://tickets.devopsdays.org/devopsdays-eindhoven/2023/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -204,8 +204,8 @@ program:
     date: 2023-10-11T00:00:00+02:00
     start_time: "09:00"
     end_time: "09:15"
-  - title: "Keynote TBA"
-    type: custom
+  - title: "marjolein-pilon"
+    type: talk
     date: 2023-10-11T00:00:00+02:00
     start_time: "09:15"
     end_time: "09:40"
@@ -215,7 +215,7 @@ program:
     date: 2023-10-11T00:00:00+02:00
     start_time: "09:45"
     end_time: "10:10"
-  - title: "michiel-valk"
+  - title: "jelle-pelgrims"
     type: talk
     date: 2023-10-11T00:00:00+02:00
     start_time: "10:15"
@@ -225,17 +225,17 @@ program:
     date: 2023-10-11T00:00:00+02:00
     start_time: "10:45"
     end_time: "11:00"
-  - title: "jelle-pelgrims"
+  - title: "david-terol"
     type: talk
     date: 2023-10-11T00:00:00+02:00
     start_time: "11:00"
     end_time: "11:25"
-  - title: "david-terol"
+  - title: "phani-bhushan-tom-slenders"
     type: talk
     date: 2023-10-11T00:00:00+02:00
     start_time: "11:30"
     end_time: "11:55"
-  - title: "phani-bhushan-tom-slenders"
+  - title: "lian-li"
     type: talk
     date: 2023-10-11T00:00:00+02:00
     start_time: "12:00"
@@ -316,7 +316,7 @@ program:
     date: 2023-10-12T00:00:00+02:00
     start_time: "09:00"
     end_time: "09:15"
-  - title: "marjolein-pilon"
+  - title: "jo-an-kamp"
     type: talk
     date: 2023-10-12T00:00:00+02:00
     start_time: "09:15"
@@ -327,7 +327,7 @@ program:
     date: 2023-10-12T00:00:00+02:00
     start_time: "09:45"
     end_time: "10:10"
-  - title: "claude-warren"
+  - title: "claude-warren2"
     type: talk
     date: 2023-10-12T00:00:00+02:00
     start_time: "10:15"
@@ -342,13 +342,13 @@ program:
     date: 2023-10-12T00:00:00+02:00
     start_time: "11:00"
     end_time: "11:25"
-  - title: "michela-bertaina"
+  - title: "lesley-cordero"
     type: talk
     date: 2023-10-12T00:00:00+02:00
     start_time: "11:30"
     end_time: "11:55"
-  - title: "TBA"
-    type: custom
+  - title: "michiel-valk"
+    type: talk
     date: 2023-10-12T00:00:00+02:00
     start_time: "12:00"
     end_time: "12:25"
@@ -401,11 +401,6 @@ program:
     date: 2023-10-12T00:00:00+02:00
     start_time: "16:00"
     end_time: "16:25"
-  - title: "lesley-cordero"
-    type: talk
-    date: 2023-10-12T00:00:00+02:00
-    start_time: "16:00"
-    end_time: "16:25"
   - title: "Close Day"
     type: custom
     date: 2023-10-12T00:00:00+02:00
@@ -421,9 +416,6 @@ ignites:
     date: 2023-10-11T00:00:00+02:00
     block: ignite-1
   - title: "alessandro-vozza"
-    date: 2023-10-11T00:00:00+02:00
-    block: ignite-1
-  - title: "lian-li"
     date: 2023-10-11T00:00:00+02:00
     block: ignite-1
   # Day two

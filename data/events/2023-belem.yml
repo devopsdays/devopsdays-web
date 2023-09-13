@@ -15,8 +15,8 @@ enddate: 2023-11-11T23:59:59-03:00 # The end date of your event. Leave blank if 
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2023-09-11T00:00:00-03:00 # start accepting talk proposals.
-cfp_date_end: 2023-10-16T23:59:59-03:00 # close your call for proposals.
-cfp_date_announce: 2023-11-04T23:59:59-03:00 # inform proposers of status
+cfp_date_end: 2023-10-09T23:59:59-03:00 # close your call for proposals.
+cfp_date_announce: 2023-10-16T23:59:59-03:00 # inform proposers of status
 
 cfp_open: "true"
 cfp_link: "https://www.papercall.io/devopsdaysbelem2023" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
@@ -36,7 +36,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: Local
     url: /events/2023-belem/local
   - name: Inscreva-se
-    url: /events/2023-belem/
+    url: https://www.sympla.com.br/evento/devopsdays-belem-2023/2156296
   - name: Palestre (CFP)
     url: /events/2023-belem/programa
   # - name: Palestrantes
@@ -57,7 +57,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/pigodinho/"
 
   - name: "Fábio Figueiredo"
-    employer: "Agile.Inc"
+    employer: "SysMap"
     image: "fabio-figueiredo.jpg"
     twitter: "fabiolimaf"
     linkedin: "https://www.linkedin.com/in/fabiolimaf/"
@@ -69,7 +69,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/felipe-iketani-a8a10326/"
 
   - name: "Iago Cavalcante"
-    employer: "Idopter Labs"
+    employer: "Zarv"
     image: "iago-cavalcante.jpg"
     twitter: "iagoangelimc"
     linkedin: "https://www.linkedin.com/in/iago-a-cavalcante/"
@@ -93,6 +93,9 @@ sponsors:
 
   - id: idopterlabs
     level: platinum
+
+  - id: devsnorte
+    level: community
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 

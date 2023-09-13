@@ -125,8 +125,14 @@ sponsors:
    level: gold
  - id: enterprisedb
    level: gold
+ - id: ryanair
+   level: gold
 # Silver
  - id: cloudappi
+   level: silver
+ - id: checkly
+   level: silver
+ - id: arigaio
    level: silver
 # Bronze
  - id: speedyrails
@@ -136,6 +142,12 @@ sponsors:
  - id: ambassadorlabs
    level: bronze
  - id: plainconcepts
+   level: bronze
+ - id: scalefactory
+   level: bronze
+ - id: vvalley
+   level: bronze
+ - id: xygeni
    level: bronze
 # Community
  - id: madriddevops

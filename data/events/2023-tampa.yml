@@ -11,7 +11,7 @@ speakers_verbose: "true"
 startdate: "2023-09-21" # The start date of your event. Leave blank if you don't have a venue reserved yet.
 enddate: "2023-09-21" # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
-# Leave CFP dates blank if you don't know yet, or set all three at once.
+# Leave CFP dates blank if you don't know yet, or set all three at once
 
 cfp_date_start: "2023-05-12" # start accepting talk proposals.
 cfp_date_end: "2023-07-01" # close your call for proposals.
@@ -128,6 +128,14 @@ sponsors:
     level: inkind
   - id: teksystems
     level: inkind
+  - id: appdynamics
+    level: platinum
+  - id: capitalone
+    level: inkind
+  - id: accenture-es
+    level: inkind
+  - id: elitesource
+    level: gold
     
 #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 # - id: arresteddevops
@@ -150,6 +158,7 @@ sponsor_levels:
     label: Gold
   - id: inkind
     label: In-Kind
+    max: 4
   - id: community
     label: Community
 

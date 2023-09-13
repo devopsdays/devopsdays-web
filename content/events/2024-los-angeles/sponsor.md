@@ -31,7 +31,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
 
 <strong>Note:</strong> We do not share attendee lists.
 
-<h3><a href="/events/2024-los-angeles/devopsdayla2024_sponsor.pdf">Sponsor Prospectus</a></h3>
+<div style="text-align: center"><a href="/events/2024-los-angeles/devopsdayla2024_sponsor.pdf" style="font-size: 42px;">➡️ Download Our Sponsor Prospectus PDF ⬅️</a></div>
 
 <h3>Exclusive Sponsorships</h3>
 
@@ -41,7 +41,6 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
 
 <img alt="Exclusive Sponsorships" src="/events/2024-los-angeles/sponsorship_packages.jpg" style="width:60%">
 
-<hr/> -->
 
 <hr>
 <style>
