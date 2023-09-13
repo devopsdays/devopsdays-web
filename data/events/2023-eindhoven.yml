@@ -24,7 +24,7 @@ registration_date_start: 2023-06-19T00:00:00+02:00 # start accepting registratio
 registration_date_end: 2023-10-11T00:00:00+02:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-#registration_link: "https://tix.devops.foundation/devopsdays-eindhoven/2023/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+#registration_link: "https://tickets.devopsdays.org/devopsdays-eindhoven/2023/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
