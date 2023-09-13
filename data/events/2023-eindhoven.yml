@@ -204,8 +204,8 @@ program:
     date: 2023-10-11T00:00:00+02:00
     start_time: "09:00"
     end_time: "09:15"
-  - title: "Keynote TBA"
-    type: custom
+  - title: "marjolein-pilon"
+    type: talk
     date: 2023-10-11T00:00:00+02:00
     start_time: "09:15"
     end_time: "09:40"
@@ -215,8 +215,8 @@ program:
     date: 2023-10-11T00:00:00+02:00
     start_time: "09:45"
     end_time: "10:10"
-  - title: "michiel-valk"
-    type: talk
+  - title: "TBA"
+    type: custom
     date: 2023-10-11T00:00:00+02:00
     start_time: "10:15"
     end_time: "10:40"
@@ -316,7 +316,7 @@ program:
     date: 2023-10-12T00:00:00+02:00
     start_time: "09:00"
     end_time: "09:15"
-  - title: "marjolein-pilon"
+  - title: "jo-an-kamp"
     type: talk
     date: 2023-10-12T00:00:00+02:00
     start_time: "09:15"
@@ -342,13 +342,13 @@ program:
     date: 2023-10-12T00:00:00+02:00
     start_time: "11:00"
     end_time: "11:25"
-  - title: "michela-bertaina"
-    type: talk
+  - title: "TBA"
+    type: custom
     date: 2023-10-12T00:00:00+02:00
     start_time: "11:30"
     end_time: "11:55"
-  - title: "TBA"
-    type: custom
+  - title: "michiel-valk"
+    type: talk
     date: 2023-10-12T00:00:00+02:00
     start_time: "12:00"
     end_time: "12:25"
