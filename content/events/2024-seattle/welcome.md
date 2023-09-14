@@ -84,4 +84,9 @@ Description = "devopsdays seattle 2024"
 <!-- Uncomment if you added your city twitter name -->
 
 {{< event_twitter >}}
+<div class = "row">
+  <div class = "col-md-2">
+    <strong><a href="https://social.devopsdays.org/@seattle"><img src="/events/2024-seattle/mastodon_logo.svg" alt="Mastodon" style="width:25px;height:25px;"> Follow @seattle</a></strong>
+  </div>
 
+</div>
