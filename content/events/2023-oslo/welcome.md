@@ -30,7 +30,7 @@ Description = "devopsdays Oslo 2023"
     <div class="row">
       <div class="col-md-8">
         <h2>Welcome to DevOpsDays Oslo 2023!</h2>
-        <p>We are excited to welcome you to this years event, that will be bigger and better than ever. We are still deciding on the program, but we promise to blow you away with a good mix of fun, useful and geeky talks.</p>
+        <p>We are excited to welcome you to this years event, that will be bigger and better than ever.</p>
         <p>We are still looking for sponsors, so hurry up and be a part of this great grass root event! 
         Do you have a pitch for a talk? We are open for ideas on pretty much anything, this is your chance to shine!</p>
         <div class="row">
