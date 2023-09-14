@@ -146,17 +146,14 @@ sponsors:
     level: gold
   - id: innvolve
     level: gold
-  # lanyard
   # lunch
   # recharge
   # silver
-  - id: raftech
+  - id: raftech-orca
     level: silver
   - id: enterprisedb
     level: silver
   # bronze
-  - id: inuits
-    level: bronze
   - id: foreside-it
     level: bronze
 
@@ -176,9 +173,6 @@ sponsor_levels:
   - id: gold
     label: Gold
     max: 7
-  - id: lanyard
-    label: Lanyard
-    max: 1
   - id: lunch
     label: "Lunch"
     max: 2
