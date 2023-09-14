@@ -10,36 +10,38 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2023-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  # The end date date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2023-11-11T00:00:00-03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2023-11-11T23:59:59-03:00 # The end date date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2023-10-06T00:00:00-03:00 # start accepting talk proposals.
+cfp_date_end: 2023-08-05T00:00:00-03:00 # close your call for proposals.
+cfp_date_announce: # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://www.papercall.io/devopsdays-fln-2023" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.sympla.com.br/evento/devopsdays-florianopolis-2023/2063939?_gl=1*1xtjeeu*_ga*Mjc4MTE1NTI5LjE2ODg2ODA4NTc.*_ga_KXH10SQTZF*MTY4OTAwODExNS4zLjEuMTY4OTAwOTI4NS4wLjAuMA&share_id=copiarlink" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
-coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Florianópolis" # Defaults to city, but you can make it the venue name.
-#
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+coordinates: "-27.54433253602623, -48.500123084657844" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "ACATE | Centro de Inovação" # Defaults to city, but you can make it the venue name.
+location_address: "Rodovia SC 401, 4100 - Km4 - Saco Grande, Florianópolis - SC, 88032-005" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
- # - name: location
- # - name: registration
- # - name: program
- # - name: speakers
- # - name: sponsor
+  # - name: propose
+  # - name: location
+  # - name: registration
+  # - name: program
+  # - name: speakers
+  # - name: sponsor
+  # - name: localização
+  #   icon: "envelope-o"
+  #   url: /events/2023-florianopolis/location
   - name: organização
     icon: "envelope-o"
     url: /events/2023-florianopolis/contact
@@ -50,12 +52,11 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
 
-
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Thalita Lanusse"
     twitter: "lanussemorais"
-    employer: "Itaú"
+    employer: "Nubank"
     linkedin: "https://www.linkedin.com/in/thalita-lanusse/"
     github: "lanussemorais"
     image: "thalita-lanusse.jpg"
@@ -91,24 +92,39 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/jhonatancmorais/"
     twitter: "jhonatancmorais"
 
-organizer_email: "devopsdaysfloripa@gmail.com"
+# organizer_email: "devopsdaysfloripa@gmail.com"
+organizer_email: "florianopolis@devopsdays.org"
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
- # - id: samplesponsorname
- #   level: gold
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
- # - id: arresteddevops
- #   level: community
+  - id: elastic
+    level: platinum
+  - id: softplan
+    level: platinum
+  - id: avalia
+    level: platinum
+  - id: grafanabr
+    level: silver
+    # - id: samplesponsorname
+    #   level: gold
+    #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+    # - id: arresteddevops
+    #   level: community
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: platinum
+    label: Platinum
+  - id: gold
+    label: Gold
+  - id: silver
+    label: Silver
   #- id: gold
   #  label: Gold
   #    max: 10

@@ -23,14 +23,22 @@ Description = "DevOpsDays Juiz De Fora 2023"
             {{< event_start >}} - {{< event_end >}}
           </div>
         </div>
-        <!-- <div class = "row">
+        <div class="row">
+          <div class="col-md-2">
+            <strong>Patrocinadores</strong>
+          </div>
+          <div class="col-md-6">
+            {{< event_link page="sponsor" text="Apoie o DevOpsDays Juiz de Fora em 2023!" >}}
+          </div>
+        </div>
+        <div class = "row">
           <div class = "col-md-2">
             <strong>Local</strong>
           </div>
           <div class = "col-md-8">
-            {{< event_link page="local" text="CESAR School" title="A ser definido" >}}
+            {{< event_link page="local" text="UniAcademia" title="UniAcademia" >}}
           </div>
-        </div> -->
+        </div>
         <div class = "row">
           <div class = "col-md-2">
             <strong>Contato</strong>
@@ -54,7 +62,7 @@ Description = "DevOpsDays Juiz De Fora 2023"
           <div class="col-md-6">
             {{< event_link page="program" text="Confira a grade do evento!" >}}
           </div>
-        </div>
+        </div> -->
         <div class="row">
           <div class="col-md-2">
             <strong>Ingresso</strong>
@@ -62,7 +70,7 @@ Description = "DevOpsDays Juiz De Fora 2023"
           <div class="col-md-6">
             {{< event_link url-key="registration_link" text="Adquira seu ingresso!" >}}
           </div>
-        </div> -->
+        </div>
       </div>
     </div>
   </div>
@@ -105,7 +113,7 @@ Description = "DevOpsDays Juiz De Fora 2023"
       </h4>
       <div class="d-lg-flex d-sm-flex  d-md-flex flex-row">
         <div style="width: max-content; padding-right: 1em; padding-bottom: 1em;">
-          <a  target="_blank" style="text-align:left;" class="btn btn-secondary btn-block" href="https://www.linkedin.com/company/devopsdays-jf/"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
+          <a  target="_blank" style="text-align:left;" class="btn btn-secondary btn-block" href="https://www.linkedin.com/company/devopsdays-jf/"><i class="fa fa-linkedin fa-fw"></i> Linkedin</a>
         </div>
         <div style="width: max-content; padding-right: 1em; padding-bottom: 1em;">
           <a  target="_blank" style="text-align:left;" class="btn btn-secondary btn-block" href="https://twitter.com/devopsdaysjf/"><i class="fa fa-twitter fa-fw "></i> Twitter </a>
@@ -122,6 +130,9 @@ Description = "DevOpsDays Juiz De Fora 2023"
         <div style="width: max-content; padding-right: 1em; padding-bottom: 1em;">
           <a  target="_blank" style="text-align:left;" class="btn btn-secondary btn-block" href="https://t.me/+LbMyYyjmyEA5OGQx"> <i class="fa fa-telegram fa-fw"></i>&nbsp; Telegram</a>
         </div>
+        <!-- <div style="width: max-content; padding-right: 1em; padding-bottom: 1em;">
+          <a  target="_blank" style="text-align:left;" class="btn btn-secondary btn-block" href="https://www.youtube.com/@DevOpsDaysdeJuizdeFora"> <i class="fa fa-youtube fa-fw"></i>&nbsp; YouTube</a>
+        </div> -->
       </div>
     </div>
   </div> 

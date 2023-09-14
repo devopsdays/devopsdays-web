@@ -101,17 +101,26 @@ sponsors:
     level: gold
   - id: vmware-tanzu
     level: gold
+  - id: pagerduty
+    level: gold
   - id: contrast_security
     level: silver
   - id: systematic
     level: silver
   - id: arrow
     level: silver
+<<<<<<< HEAD
+=======
+  - id: securecodewarrior
+    level: silver
+>>>>>>> 5a155acf6381c2d77e122969f580d0a0df9575f3
   - id: destination-aarhus
     level: community
   - id: scr
     level: community
   - id: copenhagen-devops
+    level: community
+  - id: pagerduty
     level: community
   - id: stickermule
     level: community
@@ -120,6 +129,11 @@ sponsors:
     level: community
   - id: kea
     level: community
+<<<<<<< HEAD
+=======
+  - id: dalux
+    level: community
+>>>>>>> 5a155acf6381c2d77e122969f580d0a0df9575f3
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -297,8 +311,8 @@ program:
     date: 2023-05-03
     start_time: "14:55"
     end_time: "15:10"
-  - title: "TBD"
-    type: custom
+  - title: "morten-christensen"
+    type: talk
     date: 2023-05-03
     start_time: "15:10"
     end_time: "15:40"

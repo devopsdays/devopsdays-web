@@ -140,7 +140,7 @@ sponsors:
     level: silver
   - id: swisscom
     level: gold
-  - id: exoscale
+  - id: exoscale-aquasec
     level: gold
   - id: adnovum
     level: event
@@ -180,6 +180,10 @@ sponsors:
     level: bronze
   - id: puresivefilms
     level: community
+  - id: swiss-post
+    level: bronze
+  - id: ciklum
+    level: bronze
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
@@ -285,25 +289,25 @@ program:
   type: open-space
   date: 2023-05-03
   start_time: '14:45'
-  end_time: '17:00'
+  end_time: '16:45'
 
 - title: thomas-krag
   type: workshop
   date: 2023-05-03
   start_time: '14:45'
-  end_time: '17:00'
+  end_time: '16:45'
 
 - title: mark-heistek
   type: workshop
   date: 2023-05-03
   start_time: '14:45'
-  end_time: '17:00'
+  end_time: '16:45'
 
 - title: alessandra-patti
   type: workshop
   date: 2023-05-03
   start_time: '14:45'
-  end_time: '17:00'
+  end_time: '16:45'
 
 - title: martin-wechsler
   type: talk
@@ -406,7 +410,7 @@ program:
   type: workshop
   date: 2023-05-04
   start_time: '15:00'
-  end_time: '17:00'
+  end_time: '17:15'
 
 - title: olivier-liechti
   type: workshop
@@ -418,7 +422,7 @@ program:
   type: workshop
   date: 2023-05-04
   start_time: '15:00'
-  end_time: '16:30'
+  end_time: '17:15'
 
 - title: Raffle & Closing Day 2
   type: custom

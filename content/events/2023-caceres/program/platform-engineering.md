@@ -6,6 +6,8 @@ Title = "DevOps Is Dead! Long Live Platform Engineering! Did We Get Confused?"
 Type = "talk"
 Speakers = ["viktor-farcic"]
 +++
+<link href="/events/2023-caceres/main.css" rel="stylesheet">
+<script src="/events/2023-caceres/main.js"></script>
 
 <i class="fa fa-language fa-lg"></i><span class="talk-language-level">English</span>
 <i class="fa fa-bar-chart fa-lg" style="margin-left: 15px;"></i><span class="talk-language-level">Beginner</span>

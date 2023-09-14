@@ -6,29 +6,8 @@ Description = "COVID Policy for devopsdays Austin 2023"
 
 ### COVID Policy
 
-All attendees, sponsors, and everyone on site must:
+We wanted to make you aware that we are changing our Health and Safety policies for the event starting 4 May 2023. Masks are still strongly encouraged, but now we will not be enforcing masking at DevOpsDays Austin 2023. We still expect people to either be up to date on their vaccinations for COVID-19 or have tested negative within 72 hours of the event, though. We will also trust in each others' commitment to the health of our community, and we will not be checking test results or vaccination cards at registration.
 
-* Wear a mask/face covering
-* Have proof of a negative COVID test within 72 hours of the event **OR** have proof of at least 2 COVID vaccine shots, with the last dose performed at least two weeks prior to the event
-
-We ask that anyone sick with COVID or with recent exposure to COVID-positive individuals not attend. Should DevOpsDays Austin 2023 be cancelled due to COVID, we will not move to an online format. This policy is subject to change up to and including during the conference. However, no relaxation of the policy will be implemented within 30 days of the event. 
+To make it clear that we want people to feel comfortable coming either with or without a mask, we consider any form of harassment, including commentary, about someone else's masking decision to be a violation of the Code of Conduct, and we reserve the right to act on any violation up to and including expelling the offender from the conference immediately.
 
 Please direct questions or concerns by email to: **{{< email_organizers >}}**.
-
-### FAQ
-
-##### Where do masks need to be worn? 
-
-Indoors. Masks are optional outdoors and may be removed while eating.
-
-##### Will speakers have to wear masks during their talk?
-
-No, it is optional for the active speaker.
-
-##### How will you be verifying tests and vaccines? Is a certain kind of test or vaccine OK?
-
-We will not be verifying testing or vaccines on site, you are on your honor per our Code of Conduct. Home tests are fine.
-
-##### Will volunteers be having to enforce vaccinations and masking?
-
-As a volunteer, you will not have to ask about vaccinations or testing; we will remind people at checkin of the requirement but are not verifying it. If someone isn't wearing a mask either upon entry or later during the conference, please remind them and offer one of our free masks we'll have on hand. If they refuse or are argumentative just go find an organizer, we will involve the venue and have them ejected, ain't nobody got time for that.

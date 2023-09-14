@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Les machines à gouverner: développement, opérations et contrepartie du techno politique (AULA)"
+Title = "L’IA, une machine à gouverner ? Développement, opérations et contreparties (AULA)"
 Type = "talk"
 Speakers = ["arnaud-billion"]
 +++

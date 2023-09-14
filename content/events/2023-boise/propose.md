@@ -24,3 +24,5 @@ Choosing talks is part art, part science; here are some factors we consider when
 - _original content_: We will consider talks that have already been presented elsewhere, but we prefer talks that the local area isn't likely to have already seen.
 - _no third-party submissions_: This is a small community-driven event, and speakers need to be directly engaged with the organizers and attendees. If a PR firm or your marketing department is proposing the talk, you've already shown that as a speaker you're distant from the process.
 - _no vendor pitches_: As much as we value vendors and sponsors, we are not going to accept a talk that appears to be a pitch for your product.
+
+<strong><a href="https://www.papercall.io/devopsdaysboise23">Submit your talk on PaperCall!</a></strong>

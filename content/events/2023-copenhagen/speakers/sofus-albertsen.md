@@ -1,7 +1,7 @@
 +++
 Title = "Sofus Albertsen"
 Twitter = ""
-image = ""
+image = "sofus-albertsen.jpg"
 type = "speaker"
 linktitle = "sofus-albertsen"
 

@@ -116,7 +116,7 @@ sponsors:
     level: alacarte
   - id: indypy
     level: community
-  - id: indyaws
+  - id: indyaws-before-20230808
     level: community
   - id: datadog
     level: silver

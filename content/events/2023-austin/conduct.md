@@ -21,9 +21,9 @@ If a participant engages in harassing behavior, the conference organizers may ta
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately.
 
-**Health and Safety Note:** Attendees will be required to adhere to COVID specific safety measures determined by DevOpsDays Austin, which will involve wearing masks and other measures as the pandemic level dictates as the event nears, which will be communicated to all attendees. Failure to comply with these measures, disruption related to them, or harassing conference staff or organizers about them will be grounds for immediate expulsion from the conference venue without refund. See also {{< event_link page="covid" text="COVID Policy" >}}.
+**Health and Safety Note:** Attendees will be required to adhere to COVID specific policies and/or measures determined by DevOpsDays Austin. This does not currently involve wearing masks. However, as the event nears, any updated measures as the pandemic level dictates will be communicated to all attendees. Failure to comply with these measures, disruption related to them, or harassing conference staff or organizers about them will be grounds for immediate expulsion from the conference venue without refund. See also {{< event_link page="covid" text="COVID Policy" >}}.
 
-Conference staff can be identified by distinct staff badges. Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
+Conference staff can be identified by distinct staff shirts. Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
 
 We expect participants to follow these rules at conference and workshop venues and conference-related social events.
 

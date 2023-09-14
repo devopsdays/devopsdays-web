@@ -47,8 +47,6 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
 
-masthead_background: "background.png"
-
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Andy Burgin"
@@ -86,7 +84,7 @@ sponsors:
     level: community
   - id: meetup-mates
     level: community
-  - id: doxlon
+  - id: doxlon-before-20230821
     level: community
   - id: belfast-devops
     level: community
@@ -111,7 +109,7 @@ sponsors:
   # Silver
   # - id: logz
   #   level: silver
-  # - id: site24x7
+  # - id: site24x7-before-20230414
   #   level: silver
   # Gold
   # - id: circleci

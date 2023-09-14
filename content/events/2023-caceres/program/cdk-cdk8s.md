@@ -6,6 +6,8 @@ Title = "Desplegando contenedores como código: un viaje por AWS CDK y CDK8s"
 Type = "talk"
 Speakers = ["cesar-prieto"]
 +++
+<link href="/events/2023-caceres/main.css" rel="stylesheet">
+<script src="/events/2023-caceres/main.js"></script>
 
 <i class="fa fa-language fa-lg"></i><span class="talk-language-level">Spanish</span>
 <i class="fa fa-bar-chart fa-lg" style="margin-left: 15px;"></i><span class="talk-language-level">Medium</span>

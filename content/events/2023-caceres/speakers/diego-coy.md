@@ -6,6 +6,8 @@ linktitle = "diego-coy"
 Twitter = "unjavascripter"
 Linkedin = "https://www.linkedin.com/in/diegocoy/"
 +++
+<link href="/events/2023-caceres/main.css" rel="stylesheet">
+<script src="/events/2023-caceres/main.js"></script>
 
 Web developer with over 10 years of experience turned Developer Advocate currently acting as a bridge between technologists and the cloud world.
 

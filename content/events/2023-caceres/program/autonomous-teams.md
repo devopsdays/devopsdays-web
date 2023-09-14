@@ -6,6 +6,8 @@ Title = "Mas alla del helm templating: equipos autonomos"
 Type = "talk"
 Speakers = ["ivan-sanchez"]
 +++
+<link href="/events/2023-caceres/main.css" rel="stylesheet">
+<script src="/events/2023-caceres/main.js"></script>
 
 <i class="fa fa-language fa-lg"></i><span class="talk-language-level">Spanish</span>
 <i class="fa fa-bar-chart fa-lg" style="margin-left: 15px;"></i><span class="talk-language-level">Advanced</span>

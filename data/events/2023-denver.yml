@@ -66,15 +66,13 @@ team_members: # Name is the only required field for team members.
     employer: "Splunk"
   - name: "Jason Sharp"
     twitter: "1971hemicuda"
-  - name: "Hailey Massingale"
-    employer: "Uplevel"
 organizer_email: "denver@devopsdays.org"
 sponsors_accepted: "yes"
 
 sponsors:
   - id: sleuth
     level: gold
-  - id: zoho
+  - id: site24x7
     level: gold
   - id: temporal
     level: gold
@@ -87,6 +85,8 @@ sponsors:
   - id: elastic
     level: gold
   - id: newrelic
+    level: gold
+  - id: sourcedgroup
     level: gold
   - id: portworx
     level: silver
@@ -104,9 +104,15 @@ sponsors:
     level: silver
   - id: tonicai
     level: silver
+  - id: prosper-ops
+    level: silver
   - id: privacy-dynamics
     level: supporter
   - id: releaseteam
+    level: supporter
+  - id: honeycomb
+    level: supporter
+  - id: hyperglance
     level: supporter
 
 sponsor_levels:
@@ -168,10 +174,15 @@ program:
     date: 2023-04-24T00:00:00-06:00
     start_time: "12:00"
     end_time: "13:30"
+  - title: "brooke-jamieson"
+    date: 2023-04-24T00:00:00-06:00
+    type: talk
+    start_time: "13:35"
+    end_time: "14:05"
   - title: "Ignites"
     type: ignite
     date: 2023-04-24T00:00:00-06:00
-    start_time: "13:45"
+    start_time: "14:05"
     end_time: "14:30"
   - title: "Open Space Opening"
     type: custom
@@ -241,8 +252,8 @@ program:
   - title: "peter-oneill"
     type: talk
     date: 2023-04-25T23:59:59-06:00
-    start_time: "10:50"
-    end_time: "11:20"
+    start_time: "10:55"
+    end_time: "11:25"
   - title: "tim-rayburn"
     type: talk
     date: 2023-04-25T23:59:59-06:00
@@ -253,39 +264,42 @@ program:
     date: 2023-04-25T23:59:59-06:00
     start_time: "12:00"
     end_time: "13:30"
+  - title: "thomas-haver"
+    type: talk
+    date: 2023-04-25T23:59:59-06:00
+    start_time: "13:35"
+    end_time: "14:05"
+  - title: "daniel-sada-caraveo"
+    type: talk
+    date: 2023-04-25T23:59:59-06:00
+    start_time: "14:05"
+    end_time: "14:35"
   - title: "Open Space Opening"
     type: custom
     date: 2023-04-25T23:59:59-06:00
-    start_time: "13:45"
-    end_time: "13:55"
+    start_time: "14:40"
+    end_time: "14:50"
   - title: "Open Space #1"
     type: custom
     date: 2023-04-25T23:59:59-06:00
-    start_time: "14:00"
-    end_time: "14:30"
+    start_time: "15:00"
+    end_time: "15:30"
   - title: "Open Space #2"
     type: custom
     date: 2023-04-25T23:59:59-06:00
-    start_time: "14:35"
-    end_time: "15:05"
+    start_time: "15:35"
+    end_time: "16:05"
   - title: "Open Space #3"
     type: custom
     date: 2023-04-25T23:59:59-06:00
-    start_time: "15:10"
-    end_time: "15:40"
-  - title: "Open Space #4"
-    type: custom
-    date: 2023-04-25T23:59:59-06:00
-    start_time: "15:45"
-    end_time: "16:15"
+    start_time: "16:10"
+    end_time: "16:25"
   - title: "Sponsor Raffles/Closing"
     type: custom
     date: 2023-04-25T23:59:59-06:00
-    start_time: "16:20"
-    end_time: "17:45"
+    start_time: "16:30"
+    end_time: "17:30"
 
 ignites:
   - title: "tyler-helmuth"
-    date: 2023-04-24T00:00:00-06:00
-  - title: "daniel-sada-caraveo"
     date: 2023-04-24T00:00:00-06:00

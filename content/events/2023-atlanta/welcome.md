@@ -9,14 +9,14 @@ Description = "devopsdays Atlanta 2023"
   {{< event_logo >}}
 </div> -->
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Dates</strong>
   </div>
   <div class = "col-md-8">
     {{< event_start >}} - {{< event_end >}}
   </div>
-</div>
+</div> -->
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -79,6 +79,18 @@ Description = "devopsdays Atlanta 2023"
   <div class = "col-md-8">
     {{< event_link page="contact" text="Get in touch with the organizers" >}}
   </div>
+  <hr>
+ <div style="text-align:center;">
+  {{< event_logo >}}
+ <h5>devopsdays Atlanta 2023: Minimum Viability</h5>
+ <div style="text-align:left;width:80%;margin: auto;">
+  <p>After two years as a 3-track conference at the Georgia Aquarium, devopsdays Atlanta is returning to The Historic Academy of Medicine for a minimally viable single track conference!</p>
+  <p>This year's opening keynote, <a href="/events/2023-atlanta/program/eb-ikonne/">Thiving in Minimum Viability: The Adaptive Approach</a>, from Eb Ikonne, will set a backdrop to our dialogue on how we can adapt to shifts in technologies both locally in Atlanta &amp; as broader international communities.</p>
+  <p>Our theme continues into the afternoon where we're hosting an <b>MVP AI Hackathon</b> in parallel to our traditional open spaces. This hackathon aims to introduce individuals to capabilities required to successfully operationalize generative AI technologies both as individuals &amp; as teams within organizations. Please stay tuned for more details as our event approaches!
+  </div>
+</div> 
+
+
 </div>
 
 <!-- Uncomment if you added your city twitter name -->

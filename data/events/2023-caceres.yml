@@ -109,6 +109,10 @@ sponsors:
     level: gold
   - id: oeste-digital
     level: silver
+  - id: kyndryl
+    level: silver
+  - id: voicemod
+    level: silver
   - id: metrika-media
     level: bronze
   - id: worldline
@@ -118,6 +122,10 @@ sponsors:
   - id: viewnext
     level: bronze
   - id: 2023-gloin
+    level: bronze
+  - id: str-sistemas
+    level: bronze
+  - id: homeria-by-glovo
     level: bronze
   - id: kubecareers
     level: collaborators
@@ -129,6 +137,10 @@ sponsors:
     level: collaborators
   - id: azuanet
     level: collaborators
+  - id: tego
+    level: collaborators
+  - id: voicemod
+    level: coffee
   - id: aws-user-groups-spain
     level: water-friut
   - id: caceresdevops
@@ -138,6 +150,10 @@ sponsors:
   - id: cacerestech
     level: community
   - id: smart-open-lab
+    level: community
+  - id: aws-user-groups-spain
+    level: community
+  - id: certiprof
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -158,9 +174,11 @@ sponsor_levels:
     max: 15
   - id: bronze
     label: Bronze
-  - id: collaborators
-    label: Collaborators
+  - id: coffee
+    label: "Coffee"
   - id: water-friut
     label: "Water and fruit"
+  - id: collaborators
+    label: Collaborators
   - id: community
     label: Community

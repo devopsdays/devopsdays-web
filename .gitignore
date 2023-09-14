@@ -73,12 +73,14 @@ increase_ulimit.sh
 # Visual Studio Code
 .vscode/
 .Ulysses-Group.plist
+.vs/*
 
 # test files
 2017-canterlot/
 2017-ponyville/
 /themes/devopsdays-theme/config.codekit3
 /themes/devopsdays-theme/bower_components
+hugo.log
 
 # we don't use yarn
 yarn.lock

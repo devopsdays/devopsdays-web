@@ -2,7 +2,7 @@ name: "2023-phoenix" # The name of the event. Four digit year with the city name
 year: "2023" # The year of the event. Make sure it is in quotes.
 city: "Phoenix" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysphx" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "Devopsdays is coming to Phoenix!" # Edit this to suit your preferences
+description: "Devopsdays is <b>BACK</b> in Phoenix!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2023-MM-DDTHH:MM:SS+TZ:TZ, like this:
@@ -30,23 +30,30 @@ registration_link: "https://www.eventbrite.com/e/devopsdays-phoenix-2023-tickets
 # Location
 #
 coordinates: "33.43188356883474, -111.87816867467428" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Phoenix" # Defaults to city, but you can make it the venue name.
+location: "Sheraton Mesa Hotel at Wrigleyville" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "860 N Riverview, Mesa, AZ 85201" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
+<<<<<<< HEAD
   - name: propose
  # - name: location
   - name: registration
  # - name: program
   # - name: speakers
+=======
+  # - name: propose
+  - name: location
+  - name: registration
+  - name: program
+  - name: speakers
+>>>>>>> 5a155acf6381c2d77e122969f580d0a0df9575f3
   - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
-
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
@@ -63,11 +70,32 @@ proposal_email: "phoenix@devopsdays.org"
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  # - id: samplesponsorname
-  #   level: gold
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  # - id: arresteddevops
-  #   level: community
+  - id: kubeevents
+    level: media
+  - id: kubecareers
+    level: media
+  - id: devitjobs
+    level: media
+  - id: observeinc
+    level: gold
+  - id: acorn
+    level: gold
+  - id: fastly
+    level: gold
+  - id: phoenixnap_intel
+    level: gold
+  - id: americanairlines
+    level: gold
+  - id: gitlab
+    level: silver
+  - id: harness
+    level: silver
+  - id: fastly
+    level: coffee
+  - id: harness
+    level: snack
+  - id: fastly-aws
+    level: lunch
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -84,5 +112,128 @@ sponsor_levels:
     max: 0 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
+  - id: lunch
+    label: Lunch
+  - id: snack 
+    label: Snacks
+  - id: coffee
+    label: All Day Coffee
   - id: community
     label: Community
+  - id: media
+    label: Media
+  
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2023-05-25
+    start_time: "08:00"
+    end_time: "09:00"
+
+  - title: "Opening Welcome"
+    type: custom
+    date: 2023-05-25
+    start_time: "09:00"
+    end_time: "09:15"
+
+  - title: "andrew-clay-shafer"
+    type: talk
+    date: 2023-05-25
+    start_time: "09:15"
+    end_time: "10:00"
+
+  - title: "ginger-grant"
+    type: talk
+    date: 2023-05-25
+    start_time: "10:00"
+    end_time: "10:45"
+
+  - title: "Sponsors"
+    type: custom
+    date: 2023-05-25
+    start_time: "10:45"
+    end_time: "10:50"
+
+  - title: "Break & Sponsor Hall"
+    type: custom
+    date: 2023-05-25
+    start_time: "10:50"
+    end_time: "11:10"
+
+  - title: "karl-haworth"
+    type: talk
+    date: 2023-05-25
+    start_time: "11:10"
+    end_time: "11:25"
+
+  - title: "victor-hernandez"
+    type: talk
+    date: 2023-05-25
+    start_time: "11:25"
+    end_time: "11:40"
+
+  - title: "Sponsors"
+    type: custom
+    date: 2023-05-25
+    start_time: "11:40"
+    end_time: "11:45"
+
+  - title: "Recap/Afternoon plan"
+    type: custom
+    date: 2023-05-25
+    start_time: "11:45"
+    end_time: "12:00"
+
+  - title: "Lunch & Sponsor Hall"
+    type: custom
+    date: 2023-05-25
+    start_time: "12:00"
+    end_time: "13:00"
+
+  - title: "kishore-jalleda"
+    type: talk
+    date: 2023-05-25
+    start_time: "13:00"
+    end_time: "13:45"
+
+  - title: "baruch-sadogursky"
+    type: talk
+    date: 2023-05-25
+    start_time: "13:45"
+    end_time: "14:00"
+
+  - title: "anthony-baer"
+    type: talk
+    date: 2023-05-25
+    start_time: "14:00"
+    end_time: "14:15"
+
+  - title: "Break & Sponsor Hall"
+    type: custom
+    date: 2023-05-25
+    start_time: "14:15"
+    end_time: "14:35"
+
+  - title: "Open Space Opening"
+    type: custom
+    date: 2023-05-25
+    start_time: "14:35"
+    end_time: "15:00"
+
+  - title: "Open Space #1"
+    type: open-space
+    date: 2023-05-25
+    start_time: "15:00"
+    end_time: "15:30"
+
+  - title: "Open Space #2"
+    type: open-space
+    date: 2023-05-25
+    start_time: "15:30"
+    end_time: "16:00"
+  
+  - title: "Open Space #3"
+    type: open-space
+    date: 2023-05-25
+    start_time: "16:00"
+    end_time: "16:30"

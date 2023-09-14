@@ -1,0 +1,135 @@
+name: "2024-juiz-de-fora" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2024" # The year of the event. Make sure it is in quotes.
+city: "Juiz de Fora" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaysjf" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "DevOpsDays em Juiz de Fora!" # Edit this to suit your preferences
+ga_tracking_id: "G-1V0NPCCBJS" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+event_logo: "/events/2024-juiz-de-fora/logo.png"
+masthead_background: "vista_do_centro_de_juiz_de_fora-mg.jpeg"
+
+# All dates are in unquoted 2024-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2024-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+#-- startdate: 2024-05-19T08:00:00-03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+#-- enddate: 2024-05-20T18:00:00-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+#-- cfp_date_start: 2024-03-01T09:00:00-03:00 # start accepting talk proposals.
+#-- cfp_date_end: 2024-04-03T02:59:00-03:00 # close your call for proposals.
+#-- cfp_date_announce: 2024-04-11T03:00:00-03:00 # inform proposers of status
+
+cfp_open: "false"
+#-- cfp_link: "https://www.papercall.io/devopsdaysjuizdefora2024"
+
+#-- registration_date_start: 2024-07-31T00:00:00-03:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+#-- registration_date_end: 2024-11-05T23:59:59-03:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+
+#-- registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+#-- registration_link: "https://www.sympla.com.br/evento/devopsdays-juiz-de-fora-2024/1912369" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#-- coordinates: "-21.762058, -43.352624" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+#-- location: "UniAcademia"
+#-- location_address: "R. Halfeld, 1179 - Centro, Juiz de Fora - MG, 36016-000" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  #- name: Chamadas (CFP)
+  #  url: https://www.papercall.io/devopsdaysjuizdefora2024
+  # - name: local
+  #- name: inscrição
+  #  url: https://www.sympla.com.br/evento/devopsdays-juiz-de-fora-2024/1912369
+  #- name: programação
+  #  url: /events/2024-juiz-de-fora/program
+  #- name: palestrantes
+  #  url: /events/2024-juiz-de-fora/speakers
+  - name: patrocínio
+    url: /events/2024-juiz-de-fora/sponsor
+  - name: contato
+    url: /events/2024-juiz-de-fora/contact
+  - name: código de conduta
+    url: /events/2024-juiz-de-fora/conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Bruno Pacheco"
+    role: "Organizer"
+    employer: "Fundação Caed"
+    linkedin: "https://www.linkedin.com/in/bruno-pacheco-da-silva/"
+    image: "bruno-pacheco.jpg"
+  - name: "Daniel Sobrinho"
+    role: "Organizer"
+    employer: "Unimed Juiz de Fora"
+    github: "danielsobrinho"
+    linkedin: "https://www.linkedin.com/in/dsobrinho/"
+    image: "daniel-sobrinho.jpg"
+  - name: "Guilherme Ferraz"
+    role: "Organizer"
+    employer: "Rubeus"
+    github: "guilherme-ferraz"
+    linkedin: "https://www.linkedin.com/in/guilhermeaugustoferraz/"
+    image: "guilherme-ferraz.jpg"
+  - name: "José Geraldo"
+    role: "Organizer"
+    employer: "Rubeus"
+    twitter: "JgtJoseGeraldo"
+    github: "jgt-josegeraldo"
+    linkedin: "https://www.linkedin.com/in/josegeraldocosta/"
+    image: "jose-geraldo.jpg"
+    bio: "Nascido em Rosário da Limeira"
+    facebook: "https://www.facebook.com/josegeraldo.costa.129"
+  - name: "Matheus Amaral"
+    role: "Organizer"
+    employer: "Rubeus"
+    github: "matheusamaral"
+    linkedin: "https://www.linkedin.com/in/matheusaamaral/"
+    image: "matheus-amaral.jpg"
+  - name: "William Corrêa"
+    role: "Organizer"
+    employer: "Co-fundador da Libre Code"
+    twitter: "wilcorrea"
+    github: "wilcorrea"
+    image: "william-correa.jpg"
+    website: "https://wilcorrea.dev/?l=en_US"
+  - name: "William Silva"
+    role: "Organizer"
+    employer: "Raro Labs"
+    github: "WilliamSf"
+    linkedin: "https://www.linkedin.com/in/william-silva-aa5692119/"
+    image: "william-silva.jpeg"
+
+organizer_email: "juiz-de-fora@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: rubeus
+    level: platinum
+  # - id: uniacademia
+  #  level: platinum
+
+sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: platinum
+    label: Platinum
+  - id: gold
+    label: Gold
+  - id: silver
+    label: Silver
+  - id: bronze
+    label: Bronze
+  - id: gifts
+    label: Gifts
+  - id: community
+    label: Community
+
+program:

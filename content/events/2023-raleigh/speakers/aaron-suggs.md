@@ -7,4 +7,4 @@ type = "speaker"
 linktitle = "aaron-suggs"
 +++
 
-Aaron Suggs is an engineering leader, formerly at Glossier and Kickstarter. His is always surprised when tests pass on the first try.
+Aaron Suggs is an engineering leader at Instructure, formerly at Glossier and Kickstarter. He is always surprised when tests pass on the first try.

@@ -32,7 +32,11 @@ Visando valorizar a participação de instituições na realização do evento, 
         <th>PLATINA</th>
     </thead>
     <tr>
+<<<<<<< HEAD
       <td>Vídeo Institucional</td>
+=======
+      <td>Vídeo Institucional (30 segundos)</td>
+>>>>>>> 5a155acf6381c2d77e122969f580d0a0df9575f3
       <td></td>
       <td></td>
       <td></td>
@@ -112,15 +116,24 @@ Visando valorizar a participação de instituições na realização do evento, 
       <td><b>Contribuição</b></td>
       <td><b>R$ 4.000,00</b></td>
       <td><b>R$ 6.000,00</b></td>
+<<<<<<< HEAD
       <td><b>R$ 9.000,00</b></td>
       <td><b>R$ 12.000,00</b></td>
+=======
+      <td><b>R$ 10.000,00</b></td>
+      <td><b>R$ 15.000,00</b></td>
+>>>>>>> 5a155acf6381c2d77e122969f580d0a0df9575f3
     </tr>
   </table>
 </div>
 <div>
   <p><strong>COMUNIDADE:</strong> Apoiadores que contribuiram com algum beneficio para o público ou quantia de
   até R$ 2.000,00 terão direito à divulgação nas redes sociais e 1 inscrição para o evento.</p>
+<<<<<<< HEAD
     <p style="font-size:18px">Veja mais e nosso mídia kit no documento completo clicando <a href="https://docs.google.com/presentation/d/1IeQko7hihgAiZgezPlW3CkakyV_Vu1OxePiyNDkipBQ/edit?usp=sharing"><i class="fa fa-download" style="font-size:30px"></i></a></p>
+=======
+    <p style="font-size:18px">Veja mais e nosso mídia kit no documento completo clicando <a href="https://docs.google.com/presentation/d/1iaO7P6ZtFT9fipjGFI5kAmy8Ov2tAlxMh-5e7E96Z5s/edit#slide=id.g1348ef322d5_0_183"><i class="fa fa-download" style="font-size:30px"></i></a></p>
+>>>>>>> 5a155acf6381c2d77e122969f580d0a0df9575f3
 </div>
 
 <!--EN-->
@@ -149,7 +162,11 @@ Aiming to enhance the participation of institutions in the event, we organized p
         <th>PLATINUM</th>
     </thead>
     <tr>
+<<<<<<< HEAD
       <td>Interview in final video about the event</td>
+=======
+      <td>Institutional Video (30 seconds)</td>
+>>>>>>> 5a155acf6381c2d77e122969f580d0a0df9575f3
       <td></td>
       <td></td>
       <td></td>
@@ -220,6 +237,7 @@ Aiming to enhance the participation of institutions in the event, we organized p
     </tr>
     <tr>
       <td>Tickets*</td>
+<<<<<<< HEAD
       <td>1</td>
       <td>3</td>
       <td>5</td>
@@ -231,11 +249,28 @@ Aiming to enhance the participation of institutions in the event, we organized p
       <td><b>US$ 1.000,00</b></td>
       <td><b>US$ 1.500,00</b></td>
       <td><b>US$ 2.000,00</b></td>
+=======
+      <td>2</td>
+      <td>4</td>
+      <td>6</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td><b>Contribution</b></td>
+      <td><b>US$ 1.000,00</b></td>
+      <td><b>US$ 2.000,00</b></td>
+      <td><b>US$ 3.000,00</b></td>
+      <td><b>US$ 4.000,00</b></td>
+>>>>>>> 5a155acf6381c2d77e122969f580d0a0df9575f3
     </tr>
   </table>
 </div>
 <div>
 <p><strong>COMMUNITY:</strong> Supporters who have contributed some benefit to the public or amount of
 up to US$ 200,00 receive the right to be publicized on social media and 1 registration for the event.</p>
+<<<<<<< HEAD
     <p style="font-size:18px">You can check more about sponsorship and the benefits here (in portuguese) <a href="https://docs.google.com/presentation/d/1IeQko7hihgAiZgezPlW3CkakyV_Vu1OxePiyNDkipBQ/edit?usp=sharing"><i class="fa fa-download" style="font-size:30px"></i></a></p>
+=======
+    <p style="font-size:18px">You can check more about sponsorship and the benefits here <a href="https://docs.google.com/presentation/d/1gQ-qrxTNvyIj17JbJdchdbCc9DT6_vtt7ioivHAui5I/edit?usp=sharing"><i class="fa fa-download" style="font-size:30px"></i></a></p>
+>>>>>>> 5a155acf6381c2d77e122969f580d0a0df9575f3
 </div>

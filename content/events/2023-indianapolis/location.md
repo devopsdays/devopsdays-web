@@ -13,7 +13,12 @@ This historic venue is ADA compliant for attendees.
 
 {{< event_map >}}
 
-### After party will be held nearby on Thursday evening
+### After party will be held Thursday evening directly after the conference ends at [Silo Auto Club](https://siloautoclub.com/).
 
-More details to come...
+<img style="float: center; max-width: 600px; padding: 0px 20px 20px 0px" src="/events/2023-indianapolis/silo_party.jpg"></img>
+<br/>
+<img style="float: center; max-width: 600px; padding: 0px 20px 20px 0px" src="/events/2023-indianapolis/racecar_sims.png"></img>
 
+Join us at [Silo Auto Club](https://siloautoclub.com/) after the conference on October 5th, at 5:15pm. We will have food, drinks and race car simulators surrounded by a large auto collection.
+
+The [address](https://goo.gl/maps/v8E5HT1CFsPrnCSU6) is 644 E Washington Street, Indianapolis, IN 46204.

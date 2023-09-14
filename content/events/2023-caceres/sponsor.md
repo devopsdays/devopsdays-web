@@ -3,19 +3,8 @@ Title = "Sponsor - DevOpsDays Cáceres 2023"
 Type = "event"
 Description = "Sponsor"
 +++
-<style>
-  h1, h2 {
-    font-family: futura-bold;
-    font-size: 2rem;
-  }
-  h3 {
-    font-family: futura-bold;
-    font-size: 1.5rem;
-  }
-  .info {
-    font-size: 1.4rem;
-  }
-</style>
+<link href="/events/2023-caceres/main.css" rel="stylesheet">
+<script src="/events/2023-caceres/main.js"></script>
 
 <hr>
 <div class="container-fluid">
@@ -310,7 +299,7 @@ Description = "Sponsor"
               </tr>
               <tr>
                 <td style="text-align: right; border-right: 2px solid #525252;">
-                  Logo on perticipant emails
+                  Logo on participant emails
                 </td>
                 <td style="border-left: transparent; border-right: transparent;">
                   <center><i class="fa fa-check fa-lg"></i></center>

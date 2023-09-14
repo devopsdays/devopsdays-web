@@ -120,8 +120,6 @@ sponsors:
     level: platinum
   - id: cyberark
     level: gold
-  - id: datadog
-    level: platinum
   - id: dell-technologies
     level: platinum
   - id: deutsche-bank
@@ -129,6 +127,8 @@ sponsors:
   - id: digma
     level: gold
   - id: dragondropcloud
+    level: gold
+  - id: insightfinder
     level: gold
   - id: kubecareers
     level: community
