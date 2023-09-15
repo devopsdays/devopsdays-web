@@ -31,7 +31,6 @@ location: "Sentralen"
 location_address: "Øvre Slottsgate 3, 0157 Oslo"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
   - name: location
   - name: registration
   - name: program
