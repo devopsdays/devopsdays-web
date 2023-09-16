@@ -100,12 +100,16 @@ sponsors:
     level: gold
   - id: googlecloud
     level: gold
+  - id: pagerduty
+    level: gold
   - id: puppet
     level: gold
   # silver sponsors
   - id: chainguard
     level: silver
   - id: checkly
+    level: silver
+  - id: circleci
     level: silver
   - id: contrast_security
     level: silver
