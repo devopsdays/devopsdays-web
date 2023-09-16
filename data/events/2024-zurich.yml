@@ -116,13 +116,14 @@ team_members: # Name is the only required field for team members.
     github: ""
     linkedin: "https://www.linkedin.com/in/nadinebroghammer"
     image: "nadine-broghammer.jpg"
-  - name: "Alina Ehrle"
-    bio: "<p>Digital Media Designer from Zürich</p>"
-    employer: "Stoz Werbeagentur"
+  - name: "Isabel Schacher"
+    bio: "<p>I'm all about exceptional user experiences, having a background in UX engineering, interaction design, and even game design – because software should be fun, right? Crafting inclusive interfaces in interdisciplinary teams, that work seamlessly and bring smiles to users - that's my jam!
+Beyond work, I'm a passionate saxophonist. I'm looking forward contributing my skills to the media team of this year's DevOpsDays, ensuring every visitor leaves with a smile.</p>"
+    employer: "Zühlke Engineering AG"
     github: ""
     facebook: ""
-    linkedin: "https://www.linkedin.com/in/alina-ehrle-bb6a2876/"
-    image: "alina-ehrle.jpg"
+    linkedin: "https://www.linkedin.com/in/isabelschacher/"
+    image: "isabel-schacher.jpg"
 organizer_email: "zurich@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.

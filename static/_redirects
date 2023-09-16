@@ -85,7 +85,7 @@
 /portland-me/*		/events/2020-portland-me/:splat		302
 /portland-or/*		/events/2022-portland-or/:splat		302
 /events/2021-portland/* /events/2021-portland-or/:splat 302
-/porto-alegre/*		/events/2021-porto-alegre/:splat	302
+/porto-alegre/*		/events/2023-porto-alegre/:splat	302
 /portugal/*		/events/2023-portugal/:splat		302
 /poznan/*		/events/2020-poznan/:splat		302
 /prague/*		/events/2023-prague/:splat		302
@@ -100,7 +100,7 @@
 /santa-maria/*		/events/2018-santa-maria/:splat		302
 /santiago/*		/events/2020-santiago/:splat		302
 /sao-paulo/*		/events/2020-sao-paulo/:splat		302
-/seattle/*		/events/2023-seattle/:splat		302
+/seattle/*		/events/2024-seattle/:splat		302
 /shanghai/*		/events/2020-shanghai/:splat		302
 /shenzhen/*		/events/2018-shenzhen/:splat		302
 /silicon-valley/*	/events/2018-silicon-valley/:splat	302
