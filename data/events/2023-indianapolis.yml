@@ -293,22 +293,22 @@ program:
     type: ignite
     date: 2023-10-06
     start_time: "13:15"
-    end_time: "13:45"
+    end_time: "13:50"
   - title: "Open Space Opening"
     type: open-space
     date: 2023-10-06
-    start_time: "13:45"
-    end_time: "14:05"
+    start_time: "13:50"
+    end_time: "14:10"
   - title: "Break"
     type: custom
     date: 2023-10-06
-    start_time: "14:05"
-    end_time: "14:15"
+    start_time: "14:10"
+    end_time: "14:20"
   - title: "Open Space #1"
     type: open-space
     date: 2023-10-06
-    start_time: "14:15"
-    end_time: "14:45"
+    start_time: "14:20"
+    end_time: "14:50"
   - title: "Open Space #2"
     type: open-space
     date: 2023-10-06
@@ -346,6 +346,8 @@ ignites:
   - title: "ed-legault"
     date: 2023-10-06
   - title: "geoffrey-rodgers"
+    date: 2023-10-06
+  - title: "dave-dozier"
     date: 2023-10-06
   - title: "greg-greenlee"
     date: 2023-10-06
