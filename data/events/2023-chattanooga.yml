@@ -91,7 +91,8 @@ sponsors:
     level: silver
   - id: chattanooga-area-chamber
     level: community
-
+  - id: the-company-lab
+    level: community
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
