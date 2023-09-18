@@ -65,6 +65,12 @@ team_members:
   - name: "Josh"
     bio: "Not much is known about Josh, other than he tends to show up, support the mission, not say much, and disappear into the night when no longer required."
 
+  - name: "Val Charry"
+    bio: "Val works as a Software Engineer at Dell Technologies. Primarily doing Advanced Research Development under the CTIO but recently working under a new product team. She has a lot of experience leveraging Open Source projects in order to deliver rapid PoCs spanning many technology domains. When she's not working, she's listening to podcasts while walking around Boston, traveling abroad, or crafting whatever art project she's into at the time."
+    linkedin: "https://www.linkedin.com/in/valerie-charry"
+    github: "valcharry"
+    image: "valcharry.jpg"
+
 organizer_email: "boston@devopsdays.org"
 
 # Uncomment when opening for sponsorships.
@@ -93,6 +99,24 @@ sponsors:
     level: startupalley
   - id: squaredup
     level: platinum
+  - id: spot-by-netapp
+    level: platinum
+  - id: redgate
+    level: platinum
+  - id: vmware-tanzu
+    level: platinum
+  - id: britive
+    level: platinum
+  - id: logz
+    level: platinum
+  - id: atomiccoffeeroasters
+    level: coffee
+  - id: legit-security
+    level: startupalley
+  - id: dazz
+    level: startupalley
+  - id: gitguardian
+    level: platinum
 
 sponsors_accepted : "yes"
 
@@ -103,6 +127,9 @@ sponsor_levels:
     label: Startup Alley
   - id: captioning
     label: Captioning
+    max: 1
+  - id: coffee
+    label: Coffee
     max: 1
   - id: badges
     label: Badges and Lanyards
@@ -131,10 +158,11 @@ program:
     start_time: "10:20"
     end_time: "10:55"
   - title: "talia-nassi"
+    background_color: "#fffa99"
     type: workshop
     date: 2023-10-16
-    start_time: "9:45"
-    end_time: "10:55"
+    start_time: "10:20"
+    end_time: "11:45"
   - title: "Break"
     type: custom
     date: 2023-10-16
@@ -222,17 +250,13 @@ program:
     date: 2023-10-17
     start_time: "9:45"
     end_time: "10:20"
-  - title: "matt-surabian"
-    type: talk
-    date: 2023-10-17
-    start_time: "9:45"
-    end_time: "10:20"
   - title: "jeff-brainerd"
     type: talk
     date: 2023-10-17
     start_time: "10:20"
     end_time: "10:55"
-  - title: "kyle-benson"
+  - title: "matt-surabian"
+    background_color: "#fffa99"
     type: talk
     date: 2023-10-17
     start_time: "10:20"
@@ -243,6 +267,12 @@ program:
     start_time: "10:55"
     end_time: "11:10"
   - title: "jon-bass"
+    type: talk
+    date: 2023-10-17
+    start_time: "11:10"
+    end_time: "11:45"
+  - title: "kyle-benson"
+    background_color: "#fffa99"
     type: talk
     date: 2023-10-17
     start_time: "11:10"

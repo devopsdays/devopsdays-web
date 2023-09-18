@@ -2,6 +2,7 @@
 title: "Least Privilege In The Age of Thinking Machines"
 Type: "talk"
 Speakers: ["jon-bass"]
+sharing_image: "jon-bass.jpg"
 ---
 
 The concept of least privilege isn’t hard, but the execution sure is.

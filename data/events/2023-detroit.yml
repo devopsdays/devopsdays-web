@@ -37,10 +37,10 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: sponsor
   - name: contact
   - name: conduct
-  - name: propose
+# - name: propose
   - name: location
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -87,12 +87,13 @@ organizer_email: "detroit@devopsdays.org" # Put your organizer email address her
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
-# sponsors:
-#    - id: samplesponsorname
-#      level: gold
-#      url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-#    - id: arresteddevops
-#      level: community
+sponsors:
+   - id: russellvideo
+     level: AV
+   - id: rightbrain-2023
+     level: silver
+   - id: vmware-tanzu-2023
+     level: platinum
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -118,3 +119,154 @@ sponsor_levels:
   - id: AV
     label: AV
     max: 1
+program:
+  - title: "Registration, Breakfast"
+    type: custom
+    date: 2023-10-18T00:00:00+04:00
+    start_time: "08:30"
+    end_time: "09:30"
+  - title: "ell-marquez"
+    type: talk
+    date: 2023-10-18T00:00:00+04:00
+    start_time: "09:30"
+    end_time: "10:15"
+  - title: "Sponsors"
+    type: custom
+    date: 2023-10-18T00:00:00+04:00
+    start_time: "10:15"
+    end_time: "10:30"
+  - title: "Break"
+    type: custom
+    date: 2023-10-18T00:00:00+04:00
+    start_time: "10:30"
+    end_time: "10:45"
+  - title: "ajuna-kyaruzi"
+    type: talk
+    date: 2023-10-18T00:00:00+04:00
+    start_time: "10:45"
+    end_time: "11:15"
+  - title: "chris-short"
+    type: talk
+    date: 2023-10-18T00:00:00+04:00
+    start_time: "11:15"
+    end_time: "11:45"
+  - title: "Lunch"
+    type: custom
+    date: 2023-10-18T00:00:00+04:00
+    start_time: "11:45"
+    end_time: "12:30"
+  - title: "dave-stanke"
+    type: talk
+    date: 2023-10-18T00:00:00+04:00
+    start_time: "12:30"
+    end_time: "13:00"
+  - title: "Sponsors"
+    type: custom
+    date: 2023-10-18T00:00:00+04:00
+    start_time: "13:00"
+    end_time: "13:15"
+  - title: "randy-pagels"
+    type: talk
+    date: 2023-10-18T00:00:00+04:00
+    start_time: "13:15"
+    end_time: "13:45"
+  - title: "Break"
+    type: custom
+    date: 2023-10-18T00:00:00+04:00
+    start_time: "13:45"
+    end_time: "14:00"
+  - title: "Ignite Presentations"
+    type: custom
+    date: 2023-10-18T00:00:00+04:00
+    start_time: "14:00"
+    end_time: "14:20"
+  - title: "Open Space Planning"
+    type: custom
+    date: 2023-10-18T00:00:00+04:00
+    start_time: "14:20"
+    end_time: "14:50"
+  - title: "Open Spaces"
+    type: custom
+    date: 2023-10-18T00:00:00+04:00
+    start_time: "14:20"
+    end_time: "17:00"
+  - title: "Closing Remarks"
+    type: custom
+    date: 2023-10-18T00:00:00+04:00
+    start_time: "17:00"
+    end_time: "17:10"
+  - title: "Afterparty"
+    type: custom
+    date: 2023-10-18T00:00:00+04:00
+    start_time: "17:10"
+    end_time: "20:00"
+  - title: "Registration, Breakfast"
+    type: custom
+    date: 2023-10-19T00:00:00+04:00
+    start_time: "08:30"
+    end_time: "09:30"
+  - title: "rain-leander"
+    type: talk
+    date: 2023-10-19T00:00:00+04:00
+    start_time: "09:30"
+    end_time: "10:00"
+  - title: "Sponsors"
+    type: custom
+    date: 2023-10-19T00:00:00+04:00
+    start_time: "10:00"
+    end_time: "10:15"
+  - title: "Break"
+    type: custom
+    date: 2023-10-19T00:00:00+04:00
+    start_time: "10:15"
+    end_time: "10:30"
+  - title: "jim-barton"
+    type: talk
+    date: 2023-10-19T00:00:00+04:00
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "michael-shen"
+    type: talk
+    date: 2023-10-19T00:00:00+04:00
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "Sponsors"
+    type: custom
+    date: 2023-10-19T00:00:00+04:00
+    start_time: "11:30"
+    end_time: "11:45"
+  - title: "Lunch"
+    type: custom
+    date: 2023-10-19T00:00:00+04:00
+    start_time: "11:45"
+    end_time: "12:30"
+  - title: "manish-sharma"
+    type: talk
+    date: 2023-10-19T00:00:00+04:00
+    start_time: "12:30"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: custom
+    date: 2023-10-19T00:00:00+04:00
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Open Space Planning"
+    type: custom
+    date: 2023-10-19T00:00:00+04:00
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Break"
+    type: custom
+    date: 2023-10-19T00:00:00+04:00
+    start_time: "14:00"
+    end_time: "14:15"
+  - title: "Open Spaces"
+    type: custom
+    date: 2023-10-19T00:00:00+04:00
+    start_time: "14:15"
+    end_time: "16:30"
+  - title: "Closing & Sponsor Raffle"
+    type: custom
+    date: 2023-10-19T00:00:00+04:00
+    start_time: "16:30"
+    end_time: "17:00"

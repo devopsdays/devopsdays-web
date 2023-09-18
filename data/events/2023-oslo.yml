@@ -31,10 +31,10 @@ location: "Sentralen"
 location_address: "Øvre Slottsgate 3, 0157 Oslo"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
   - name: location
   - name: registration
- # - name: program
+  - name: program
+  - name: workshop
   - name: speakers
   - name: sponsor
   - name: contact
@@ -87,6 +87,10 @@ sponsors:
     level: gold
   - id: coralogix
     level: gold
+  - id: pwc-norge
+    level: gold
+  - id: comparativeagility
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

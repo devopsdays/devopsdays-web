@@ -4,41 +4,54 @@ Type = "event"
 Description = "Propose a talk for DevOpsDays Los Angeles 2024"
 +++
 <br>
-{{< cfp_dates >}}
 <hr>
+<center><h3>Important Dates for DevOpsDaysLA 2024</h3></center>
 <br>
-Calling all SoCal DevOps enthusiasts and practitioners! DevOpsDayLA is your platform to share and learn. This event celebrates the collaboration between Dev and Ops, a critical alliance for high-quality solutions. 
-<br><br>
-We invite you to submit your presentations on how the human factor enables, enhances, and optimizes automation, testing, security, platform engineering, reliability, organizational culture, CI/CD, DevOps practices, and career development. Be a part of the global DevOpsDays series and contribute to the vibrant SoCal tech community. Your voice matters, and we can't wait to hear it!
-(Friday)
-<br><br>
-How to Submit a Proposal
+{{< cfp_dates >}}
+<center><strong>DevOpsDaysLA 2024 Conference: 15 March 2024</strong></center>
+<hr>
+<p>
+Calling all SoCal DevOps enthusiasts and practitioners! DevOpsDaysLA is your platform to share and learn. 
 
-If you have a SCaLE CFP tool login from speaking at a previous SCaLE event, you can re-use your login. You don’t need to sign up for a new one.
+There are three ways to propose a topic at DevOpsDaysLA: 
+<p>
 
-Visit https://www.socallinuxexpo.org/user/ to log in or create a login if necessary. To create your login, enter details in the form such as name, bio, email address of the speaker, etc. Please ensure that the personal biography is not more than 1000 characters; focus on relevant experience to your proposal topic and write from the third-person perspective. Note that the contact email-address is the one that will be used to confirm the login creation and speaker registration.
+- <strong>Conference Talk</strong>: A detailed 30-40 minute talk during the main event.
+- <strong>Lightning Talk</strong>: A quick, impactful 10-minute talk.
+- <strong>Open Space</strong>: If you'd like to lead or participate in a group discussion during the attendee-suggested Open Space lunch session, it is not necessary to propose it ahead of time. Those topics are suggested in person at the conference.
 
-Once registration is complete, an email will be automatically sent to the email address to set the password for subsequent access.
+If you'd like to demo your product or service, you should sponsor the event and demo it at your table.
 
-To submit a talk, please go to the link labeled Submit a presentation: (You need to log in first to see the Submit link) Enter the title for the talk, the intended audience and <strong>the proposed track for this talk</strong>(in this case please indicate <strong>DevOpsDays LA</strong>). Then provide a brief description of the main points to be presented. Include additional details in the space provided. Also, include the names of all speakers that will present this session. Each speaker must have a login in the system before they can be entered in the ”speaker” field.
+We invite you to submit your presentations on how the human factor enables, enhances, and optimizes various processes, such as:
 
-Once the talk has been submitted, further edits to the submission can be made, if necessary, up to the CFP closing date by logging into the account with the credentials provided during login creation. Be sure to include an email for the primary contact for the presentation. Important information will be sent to that address.
+- Automation
+- Testing
+- Security
+- Platform Engineering
+- Reliability
+- Organizational Culture
+- CI/CD
+- DevOps Practices
+- Career Development in SoCal
 
-For submitting multiple talks for the same speaker, the step above may be repeated; note that you don’t need to create another speaker login.
+Our longstanding tradition continues, thanks to the SCaLE 21x team, who graciously donate the Pasadena Convention Center venue space, as well as their Call for Presenters submission process for our community's use.
 
-Please notify us if the presentation will require a special technical set-up. The setup provided will include:
+Be a part of the global DevOpsDays series and contribute to the vibrant SoCal tech community. Your voice matters, and we can't wait to hear it! 
 
-- One microphone
-- A digital projector with HDMI cable
+Choosing talks is part art, part science; here are some factors we consider when trying to assemble the best possible program for our local audience:
+<p>
 
-Proposal abstracts are reviewed by an expert committee and evaluated solely on merit. Given the number of high quality submissions received every year, we request that submission dates be strictly honored in order to provide the committee enough time to choose the best set of proposals. In case you run into any problems during the submission process, please email cfp@socallinuxexpo.org for help.
+- <strong>Broad appeal</strong>: How will your talk play out in a room of people with a variety of backgrounds? Technical deep dives need more levels to provide value for the whole room, some of whom might not use your specific tool.
 
-Notes for Speakers
-Presentations will be allotted a time slot of about 45 minutes (except workshops and upSCaLE talks).
-Please ensure that presentations are done in an open non-proprietary format.
-All SCaLE speakers are in-person. We do not have the capability to support virtual presentations.
-Please indicate in the “Message to the reviewers” field if you need any additional accommodation in order to give your presentation effectively.
-Please indicate in the “Message to the reviewers” field if you have a significant financial constraint. We have a limited budget for sponsorship of speakers who are selected but cannot join us without financial support.
+- <strong>New local presenters</strong>: You are the only one who can tell your story. We are very interested in the challenges and successes being experienced in our local area. We are happy to provide guidance/coaching for new speakers upon request.
+
+- <strong>Under-represented voices</strong>: We want to hear all voices, including those that may speak less frequently at similar events. Whether you’re in a field not typically thought of as a technology field, you’re in a large, traditional organization, or you’re the only person at your organization with your background, we are interested in your unique experience.
+original content: We will consider talks that have already been presented elsewhere, but we prefer talks that the local area isn’t likely to have already seen.
+
+- <strong>No third-party submissions</strong>: This is a community-driven event, and speakers need to be directly engaged with the organizers and attendees. If a PR firm or your marketing department is proposing the talk, you’ve already shown that as a speaker, you’re distant from the process.
+
+- <strong>No vendor pitches</strong>: As much as we value vendors and sponsors, we will not accept a talk that appears to be a pitch for your product.
+</p>
 <strong>
 <br>
 <hr>
@@ -48,3 +61,8 @@ Please indicate in the “Message to the reviewers” field if you have a signif
 </strong>
 <br>
 <hr>
+<style>
+  p {
+    text-align: justify;
+  }
+</style>
