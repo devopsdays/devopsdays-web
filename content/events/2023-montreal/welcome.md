@@ -97,7 +97,7 @@ a.jssocials-share-link, a.event-cta-button {
 </div>
 
 <div class="sidebar">
-<h2>DevOps Days Montréal 2023 has been canceled! 😢</h2>
+<h2>DevOps Days Montréal 2023 has been rescheduled! 😢</h2>
 
 <b>English version *** <i>La version française suit </i>***</b>
 

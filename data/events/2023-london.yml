@@ -90,7 +90,7 @@ organizer_email: "london@devopsdays.org" # Put your organizer email address here
 sponsors:
   # platinum sponsors
   # gold sponsors
-  - id: adaptavist
+  - id: theadaptavistgroup
     level: gold
   - id: coralogix
     level: gold
@@ -98,12 +98,18 @@ sponsors:
     level: gold
   - id: elastic
     level: gold
+  - id: googlecloud
+    level: gold
+  - id: pagerduty
+    level: gold
   - id: puppet
     level: gold
   # silver sponsors
   - id: chainguard
     level: silver
   - id: checkly
+    level: silver
+  - id: circleci
     level: silver
   - id: contrast_security
     level: silver
@@ -114,6 +120,8 @@ sponsors:
   - id: pulumi
     level: silver
   - id: snyk
+    level: silver
+  - id: spot-by-netapp
     level: silver
   - id: wmpromus
     level: silver
