@@ -92,10 +92,16 @@ sponsors:
    level: platinum
  - id: mhe
    level: platinum
+ - id: inspire
+   level: platinum
  - id: cegedim
    level: platinum
  - id: kites
    level: gold
+ - id: creativa
+   level: community
+ - id: guc
+   level: community
  - id: auc
    level: community
  - id: eui
