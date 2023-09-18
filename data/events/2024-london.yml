@@ -1,0 +1,293 @@
+name: "2024-london" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2024" # The year of the event. Make sure it is in quotes.
+city: "London" # The displayed city name of the event. Capitalize it.
+event_twitter: "DevOpsDaysLDN" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "DevOpsDays returns to London in 2024!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+sharing_image: "twitter.png"
+masthead_background: "background.png"
+
+# All dates are in unquoted 2022-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2022-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+# startdate: 2023-09-21T00:00:00+01:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+# enddate: 2023-09-22T00:00:00+01:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+# cfp_date_start: 2023-01-31T00:00:00+01:00 # start accepting talk proposals.
+# cfp_date_end: 2023-05-20T23:59:59+01:00 # close your call for proposals.
+# cfp_date_announce: 2023-06-20T23:59:59+01:00 # inform proposers of status
+
+# cfp_link: "https://forms.gle/iBjCTD5N3abLAcNP8"
+
+# registration_date_start: 2023-01-31T00:00:00+01:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+# registration_date_end: 2023-09-15T23:59:59+01:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+
+#registration_closed: "true"
+# registration_link: "https://ti.to/devopsdays-london/2023"
+
+# Location
+#
+# coordinates: "51.4999205, -0.1284255" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "London" # Defaults to city, but you can make it the venue name.
+
+# location_address: "QEII Centre, Broad Sanctuary, Westminster"
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  # - name: registration
+# - name: propose
+  # - name: program
+  # - name: speakers
+  # - name: location
+#  - name: accessibility
+  # - name: sponsor
+  - name: contact
+  - name: conduct
+#  - name: subscribe
+#    url: "https://devopsdays.us18.list-manage.com/subscribe?u=6c07d2ff23793b0dda5929f46&id=7aba07ba8c"
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Andy Burgin"
+    twitter: "andyburgin"
+  - name: "bob walker"
+    twitter: "rjw1"
+    website: "https://randomness.org.uk"
+  - name: "Chris Mills"
+    github: "chriscoffee"
+    pronouns: "he/him"
+  - name: "Dominique Top"
+    twitter: "devopsdomi"
+  - name: "Ethan Sumner"
+    twitter: "SumnerOps"
+    linkedin: "https://www.linkedin.com/in/ethansumner404/"
+    website: "https://opssumner.dev"
+  - name: "Hannah Foxwell"
+    twitter: "HannahFoxwell"
+  - name: "Issy Long"
+    pronouns: "they/them"
+    mastodon: "https://hachyderm.io/@issyl0"
+    twitter: "issyl0"
+    github: "issyl0"
+  - name: "Jessica Cregg"
+    twitter: "JessicaCregg"
+  - name: "Louise Paling"
+    twitter: "short_louise"
+  - name: "Paula Kennedy"
+    twitter: "PaulaLKennedy"
+  - name: "Sophie Weston"
+    twitter: "srwestons"
+
+organizer_email: "london@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  # platinum sponsors
+  # gold sponsors
+  # silver sponsors
+  # bronze sponsors
+  # community sponsors
+
+sponsors_accepted: "no" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: platinum
+    label: Platinum
+    max: 1
+  - id: gold
+    label: Gold
+    max: 10
+  - id: silver
+    label: Silver
+    max: 10
+  - id: bronze
+    label: Bronze
+    max: 10
+  - id: community
+    label: Community
+    max: 10
+
+program:
+  # day one
+  # - title: "Registration, Breakfast"
+  #   type: custom
+  #   date: 2023-09-21T00:00:00+01:00
+  #   start_time: "09:00"
+  #   end_time: "09:45"
+  # - title: "Welcome"
+  #   type: custom
+  #   date: 2023-09-21T00:00:00+01:00
+  #   start_time: "09:45"
+  #   end_time: "10:00"
+  # - title: "brittany-woods"
+  #   type: talk
+  #   date: 2023-09-21T00:00:00+01:00
+  #   start_time: "10:00"
+  #   end_time: "10:35"
+  # - title: "chris-cooney"
+  #   type: talk
+  #   date: 2023-09-21T00:00:00+01:00
+  #   start_time: "10:35"
+  #   end_time: "11:05"
+  # - title: "Coffee break"
+  #   type: custom
+  #   date: 2023-09-21T00:00:00+01:00
+  #   start_time: "11:05"
+  #   end_time: "11:25"
+  # - title: "lian-li"
+  #   type: talk
+  #   date: 2023-09-21T00:00:00+01:00
+  #   start_time: "11:25"
+  #   end_time: "12:00"
+  # - title: "sandro-cirulli"
+  #   type: talk
+  #   date: 2023-09-21T00:00:00+01:00
+  #   start_time: "12:00"
+  #   end_time: "12:35"
+  # - title: "Ignites Day 1"
+  #   type: ignite
+  #   date: 2023-09-21T00:00:00+01:00
+  #   start_time: "12:35"
+  #   end_time: "13:05"
+  # - title: "Lunch"
+  #   type: custom
+  #   date: 2023-09-21T00:00:00+01:00
+  #   start_time: "13:05"
+  #   end_time: "14:05"
+  # - title: "Open Spaces Planning"
+  #   type: open-space
+  #   date: 2023-09-21T00:00:00+01:00
+  #   start_time: "14:05"
+  #   end_time: "14:30"
+  # - title: "Open Spaces Session 1"
+  #   type: open-space
+  #   date: 2023-09-21T00:00:00+01:00
+  #   start_time: "14:30"
+  #   end_time: "15:15"
+  # - title: "Open Spaces Session 2"
+  #   type: open-space
+  #   date: 2023-09-21T00:00:00+01:00
+  #   start_time: 15:15
+  #   end_time: 16:00
+  # - title: "Coffee break"
+  #   type: custom
+  #   date: 2023-09-21T00:00:00+01:00
+  #   start_time: 16:00
+  #   end_time: 16:15
+  # - title: "ten-years-of-dodl"
+  #   type: talk
+  #   date: 2023-09-21T00:00:00+01:00
+  #   start_time: "16:15"
+  #   end_time: "17:00"
+  # - title: "Day 1 Closing Remarks & Sponsor Raffle Giveaways"
+  #   type: custom
+  #   date: 2023-09-21T00:00:00+01:00
+  #   start_time: "17:00"
+  #   end_time: "17:10"
+  # - title: "Drinks Reception in the Sponsor Hall"
+  #   type: custom
+  #   date: 2023-09-21T00:00:00+01:00
+  #   start_time: "17:10"
+  #   end_time: "18:10"
+  # - title: "Evening event hosted by DOXLON, Adaptavist and GitLab!"
+  #   type: custom
+  #   date: 2023-09-21T00:00:00+01:00
+  #   start_time: "18:30"
+  #   end_time: "Onwards"
+  # - title: "Breakfast"
+  #   type: custom
+  #   date: 2023-09-22T23:59:59+01:00
+  #   start_time: "09:00"
+  #   end_time: "09:45"
+  # - title: "abby-bangser"
+  #   type: talk
+  #   date: 2023-09-22T23:59:59+01:00
+  #   start_time: "10:00"
+  #   end_time: "10:35"
+  # - title: "richard-towers"
+  #   type: talk
+  #   date: 2023-09-22T23:59:59+01:00
+  #   start_time: "10:35"
+  #   end_time: "11:05"
+  # - title: "Coffee break"
+  #   type: custom
+  #   date: 2023-09-22T23:59:59+01:00
+  #   start_time: "11:05"
+  #   end_time: "11:25"
+  # - title: "alvaro-santos-andres"
+  #   type: talk
+  #   date: 2023-09-22T23:59:59+01:00
+  #   start_time: "11:25"
+  #   end_time: "12:00"
+  # - title: "lesley-cordero"
+  #   type: talk
+  #   date: 2023-09-22T23:59:59+01:00
+  #   start_time: "12:00"
+  #   end_time: "12:35"
+  # - title: "Ignites Day 2"
+  #   type: ignite
+  #   date: 2023-09-22T23:59:59+01:00
+  #   start_time: "12:35"
+  #   end_time: "13:05"
+  # - title: "Lunch"
+  #   type: custom
+  #   date: 2023-09-22T23:59:59+01:00
+  #   start_time: "13:05"
+  #   end_time: "14:05"
+  # - title: "Open Spaces Planning"
+  #   type: open-space
+  #   date: 2023-09-22T23:59:59+01:00
+  #   start_time: "14:05"
+  #   end_time: "14:30"
+  # - title: "Open Spaces Session 1"
+  #   type: open-space
+  #   date: 2023-09-22T23:59:59+01:00
+  #   start_time: "14:30"
+  #   end_time: "15:15"
+  # - title: "Open Spaces Session 2"
+  #   type: open-space
+  #   date: 2023-09-22T23:59:59+01:00
+  #   start_time: 15:15
+  #   end_time: 16:00
+  # - title: "Coffee Break & Sponsor Raffle Giveaways"
+  #   type: custom
+  #   date: 2023-09-22T23:59:59+01:00
+  #   start_time: 16:00
+  #   end_time: 16:15
+  # - title: "Open Spaces Session 3"
+  #   type: open-space
+  #   date: 2023-09-22T23:59:59+01:00
+  #   start_time: "16:15"
+  #   end_time: "17:00"
+
+ignites:
+  # - title: "sorrel-harriet"
+  #   date: 2023-09-21T00:00:00+01:00
+  # - title: "jamie-tanna"
+  #   date: 2023-09-21T00:00:00+01:00
+  # - title: "jennifer-mackown"
+  #   date: 2023-09-21T00:00:00+01:00
+  # - title: "jack-mead"
+  #   date: 2023-09-21T00:00:00+01:00
+  # - title: "becky-pauley"
+  #   date: 2023-09-21T00:00:00+01:00
+  # - title: "autumn-skerritt"
+  #   date: 2023-09-22T23:59:59+01:00
+  # - title: "john-hatton-and-rich-house"
+  #   date: 2023-09-22T23:59:59+01:00
+  # - title: "aakansha-priya"
+  #   date: 2023-09-22T23:59:59+01:00
+  # - title: "kat-samperi"
+  #   date: 2023-09-22T23:59:59+01:00
+  # - title: "edvinas-janusevicius"
+  #   date: 2023-09-22T23:59:59+01:00
