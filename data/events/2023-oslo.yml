@@ -29,12 +29,13 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 coordinates: "59.911187,10.740312"
 location: "Sentralen"
 location_address: "Øvre Slottsgate 3, 0157 Oslo"
+masthead_background: "location.jpg"
+sharing_image: "social.jpg"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
   - name: registration
   - name: program
-  - name: workshop
   - name: speakers
   - name: sponsor
   - name: contact
