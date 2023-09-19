@@ -109,6 +109,8 @@ sponsor_levels:
     max: 0 # This is the same as omitting the max limit.
   - id: startup
     label: Startup
+  - id: media
+    label: Media
   - id: lunch
     label: Lunch
   - id: reception
@@ -122,4 +124,9 @@ sponsors:
   - id: scale
     level: community
     url: https://www.socallinuxexpo.org
-
+  - id: kubecareers
+    level: media
+    url: https://kube.careers/
+  - id: kubeevents
+    level: media
+    url: https://kube.events/
