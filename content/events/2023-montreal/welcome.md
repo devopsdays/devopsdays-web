@@ -97,11 +97,11 @@ a.jssocials-share-link, a.event-cta-button {
 </div>
 
 <div class="sidebar">
-<h2>DevOps Days Montréal 2023 has been rescheduled! 😢</h2>
+<h2>DevOpsDays Montréal 2023 has been rescheduled! 😢</h2>
 
 <b>English version *** <i>La version française suit </i>***</b>
 
-Apologies for the bad news, but we are moving the Devopsdays Nov 1/2 event to Q2 2024. We are negotiating with the venue for precise dates, but expect the new date to be May 27th and 28th, and will confirm asap once these dates are confirmed.
+Apologies for the bad news, but we are moving the DevOpsDays Nov 1/2 event to Q2 2024. We are negotiating with the venue for precise dates, but expect the new date to be May 27th and 28th, and will confirm asap once these dates are confirmed.
 
 <h4>Here is what we are doing:</h4>
 
@@ -117,13 +117,13 @@ For Platinum there is no upgrade, but we will offer an additional option (eg, lu
 
 <h4>Why are we moving the event?</h4>
 
-Though we could have held the event, it would have strained financial resources, not just for the Daysopsdays Montreal event but the sponsors, including the type of tables they could set up. We received feedback from too many sponsors that Q4 2023 was "locked" for travel, but that their budgets were flexible in 2024. 
+Though we could have held the event, it would have strained financial resources, not just for the DevOpsDays Montreal event but the sponsors, including the type of tables they could set up. We received feedback from too many sponsors that Q4 2023 was "locked" for travel, but that their budgets were flexible in 2024.
 
 So though we might have secured enough sponsorships to safely run the event, and we do have a financial buffer, it would have been less enjoyable to many sponsors and attendees. Moving the event early also allowed us to keep our (substantial) deposits, so no money has been lost.
 
 To that end, what we will do is move the event to May. Right now we are negotiating with the venue to move the dates to May 27th/28th, these dates should be confirmed shortly.
 
-Devopsdays committee
+DevOpsDays Montreal committee
 
 <b>Version française *** <i>The English version precedes</i> ***</b>
 
@@ -155,7 +155,7 @@ Dans cette optique, nous prévoyons de déplacer l'événement en mai. En ce mom
 
 Veuillez nous excuser pour les désagréments occasionnés.
 
-Le comité Devopsdays Montréal
+Le comité DevOpsDays Montréal
 
 <!-- 
 <p>
