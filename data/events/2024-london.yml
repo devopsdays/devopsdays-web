@@ -12,8 +12,8 @@ masthead_background: "background.png"
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2022-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-# startdate: 2023-09-21T00:00:00+01:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-# enddate: 2023-09-22T00:00:00+01:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2024-09-26T00:00:00+01:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2024-09-27T00:00:00+01:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 # cfp_date_start: 2023-01-31T00:00:00+01:00 # start accepting talk proposals.
@@ -42,7 +42,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   # - name: speakers
   # - name: location
 #  - name: accessibility
-  # - name: sponsor
+  - name: sponsor
   - name: contact
   - name: conduct
 #  - name: subscribe
@@ -94,7 +94,7 @@ sponsors:
   # bronze sponsors
   # community sponsors
 
-sponsors_accepted: "no" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
