@@ -50,11 +50,13 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Mike Murray"
+    image: "mike-murray.jpg"
     employer: "Operativa"
     twitter: "Mike__Murray__"
     bio: ""
 
   - name: "Henrick Tissink"
+    image: "henrick-tissink.jpg"
     employer: "DVT Eastern Europe"
     twitter: ""
     bio: ""
@@ -71,36 +73,43 @@ team_members: # Name is the only required field for team members.
     bio: "Adrian is a Systems Engineer at SalesLoft. He is involved with the DevOps scene in Cape Town, organises meetups and is active on the local ZATech slack group."
 
   - name: "Rose Allen-Richards"
+    image: "rose-allenrichards.jpg"
     employer: "DVT South Africa"
     twitter: "RoseAllenJhb"
     bio: ""
 
   - name: "Gareth King"
+    image: "gareth-king.jpg"
     employer: "DVT South Africa"
     twitter: ""
     bio: ""
 
   - name: "Jake De Villiers"
+    image: "jake-de-villiers.jpg"
     employer: "DVT South Africa"
     twitter: "jakedevill"
     bio: ""
 
   - name: "Rey Strydom"
+    image: "rey-strydom.jpg"
     employer: "DVT South Africa"
     twitter: ""
     bio: "Rey is the Chapter Head of DVT's Design & UX Practice - an analytical thinker with a passion for making tech safe, meaningful and enjoyable for humans."
 
   - name: "Saurabh Agrawal"
+    image: "saurabh-agrawal.jpg"
     employer: "DVT South Africa"
     twitter: "saurabhcode"
     bio: "Saurabh Agrawal is the Practice & Engineering Lead for backend open-source, Java, and AWS cloud solutions at DVT. He holds multiple certifications as a Java, Redhat, and VMWare/Pivotal Spring engineer. Saurabh earned his Computer Science and Engineering degree from KIIT India and graduated cum laude with a MBA in Information Management from Grantham University in Kansas City, USA. As a passionate technologist, Saurabh enjoys sharing his ideas, experiences, and knowledge with others. He has presented on various platforms advocating for open-source software and its benefits. Notably, he showcased a scaled-down self-driving car using open-source hardware and software technologies at DevConf 2019. In 2021, Saurabh represented the EMEA region at Microsoft Ignite, where he discussed Azure Spring Cloud. He also co-presented on building Cloud Native and Serverless applications on Microsoft Azure using RedHat Quarkus opensource framework during Microsoft Loves OpenSource event in partnership with Redhat in Johannesburg"
 
   - name: "Thomas Peters"
+    image: "thomas-peters.jpg"
     employer: "DVT South Africa"
     twitter: ""
     bio: ""
 
   - name: "Walther Smulders"
+    image: "walther-smulders.jpg"
     employer: "DVT South Africa"
     twitter: ""
     bio: "Walther is currently working at DVT, with a focus on Java backend systems (Spring Framework) and AWS Cloud technologies. He’s passionate about AWS Cloud Services, Software Architecture, Cloud Architecture, and almost anything code/tech related."
