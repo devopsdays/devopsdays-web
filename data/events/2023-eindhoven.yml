@@ -148,6 +148,8 @@ sponsors:
     level: gold
   # lunch
   # recharge
+  - id: essent
+    level: recharge
   # silver
   - id: raftech-orca
     level: silver
