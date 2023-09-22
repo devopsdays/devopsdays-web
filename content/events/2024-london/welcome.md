@@ -17,6 +17,10 @@ Description = "DevOpsDays London 2024"
           <a class="btn btn-secondary btn-block" href="/events/2024-london/sponsor"> <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference</a>
         </div>
         <div class="p-2">
+          <a class="btn btn-secondary btn-block" href="https://docs.google.com/forms/d/e/1FAIpQLSdUK4VNyhpfpqhrm8BY7KmAvSNQHIuL49YOabkYDInbnyKD1g/viewform"> <i class="fa fa-microphone fa-lg"></i>&nbsp;&nbsp;
+            &nbsp; Propose a talk</a>
+        </div>
+        <div class="p-2">
           <a class="btn btn-secondary btn-block" href="https://ti.to/devopsdays-london/2024"> <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Get a ticket</a>
         </div>
         <div class="p-2">
