@@ -7,7 +7,7 @@ Description = "Propose a talk for devopsdays London 2024"
 
 <hr>
 
-<center><h2>Our CFP is now open! Use <a href="">this form</a> to propose a talk.</h2></center>
+<center><h2>Our CFP is now open! Use <a href="https://docs.google.com/forms/d/e/1FAIpQLSdUK4VNyhpfpqhrm8BY7KmAvSNQHIuL49YOabkYDInbnyKD1g/viewform">this form</a> to propose a talk.</h2></center>
 
 <hr>
 

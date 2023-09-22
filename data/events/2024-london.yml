@@ -20,7 +20,7 @@ cfp_date_start: 2023-09-22T00:00:00+01:00 # start accepting talk proposals.
 cfp_date_end: 2024-05-24T23:59:59+01:00 # close your call for proposals.
 cfp_date_announce: 2024-06-26T23:59:59+01:00 # inform proposers of status
 
-cfp_link: ""
+cfp_link: "https://docs.google.com/forms/d/e/1FAIpQLSdUK4VNyhpfpqhrm8BY7KmAvSNQHIuL49YOabkYDInbnyKD1g/viewform"
 
 # registration_date_start: 2023-01-31T00:00:00+01:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 # registration_date_end: 2023-09-15T23:59:59+01:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
@@ -37,7 +37,7 @@ location_address: "QEII Centre, Broad Sanctuary, Westminster"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   # - name: registration
-# - name: propose
+  - name: propose
   # - name: program
   # - name: speakers
   - name: location
