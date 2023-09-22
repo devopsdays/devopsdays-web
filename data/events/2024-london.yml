@@ -16,11 +16,11 @@ startdate: 2024-09-26T00:00:00+01:00 # The start date of your event. Leave blank
 enddate: 2024-09-27T00:00:00+01:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-# cfp_date_start: 2023-01-31T00:00:00+01:00 # start accepting talk proposals.
-# cfp_date_end: 2023-05-20T23:59:59+01:00 # close your call for proposals.
-# cfp_date_announce: 2023-06-20T23:59:59+01:00 # inform proposers of status
+cfp_date_start: 2023-09-22T00:00:00+01:00 # start accepting talk proposals.
+cfp_date_end: 2024-05-24T23:59:59+01:00 # close your call for proposals.
+cfp_date_announce: 2024-06-26T23:59:59+01:00 # inform proposers of status
 
-# cfp_link: "https://forms.gle/iBjCTD5N3abLAcNP8"
+cfp_link: ""
 
 # registration_date_start: 2023-01-31T00:00:00+01:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 # registration_date_end: 2023-09-15T23:59:59+01:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
@@ -30,18 +30,18 @@ enddate: 2024-09-27T00:00:00+01:00 # The end date of your event. Leave blank if 
 
 # Location
 #
-# coordinates: "51.4999205, -0.1284255" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+coordinates: "51.4999205, -0.1284255" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "London" # Defaults to city, but you can make it the venue name.
 
-# location_address: "QEII Centre, Broad Sanctuary, Westminster"
+location_address: "QEII Centre, Broad Sanctuary, Westminster"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   # - name: registration
 # - name: propose
   # - name: program
   # - name: speakers
-  # - name: location
-#  - name: accessibility
+  - name: location
+  - name: accessibility
   - name: sponsor
   - name: contact
   - name: conduct
