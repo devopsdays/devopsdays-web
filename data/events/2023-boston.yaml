@@ -17,6 +17,9 @@ registration_date_start: "2023-07-16T00:00:00-00:00"
 registration_date_end: "2023-10-18T00:00:00-00:00"
 registration_link: "https://ti.to/devopsdaysbos/2023?source=devopsdaysdotorg"
 
+masthead_background: "skyline-2023a.jpg"
+sharing_image: "bos-sharing.jpg"
+
 coordinates: "42.344447, -71.071291"
 location: "The Cyclorama at the Boston Center for the Arts"
 location_address: "539 Tremont St, Boston, MA 02116"
