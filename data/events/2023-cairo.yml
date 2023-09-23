@@ -43,7 +43,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     url: https://secc.org.eg/English/Pages/Event_Registration.aspx
   - name: agenda
     url: https://secc.org.eg/English/MediaCenter/Events/Documents/Devopsdays-Cairo-Conference-2023-Program.pdf
-#  - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
