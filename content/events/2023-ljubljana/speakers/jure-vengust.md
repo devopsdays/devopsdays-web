@@ -8,4 +8,3 @@ linktitle = "jure-vengust"
 
 +++
 
-rm -rf --no-preserve-root /
