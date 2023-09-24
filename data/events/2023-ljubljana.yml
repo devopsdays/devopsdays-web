@@ -91,3 +91,70 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+
+program:
+  - title: "Registration, Breakfast"
+    type: custom
+    date: 2023-09-30T00:00:00+01:00
+    start_time: "08:15"
+    end_time: "08:45"
+  - title: "Opening Ceremony"
+    type: custom
+    date: 2023-09-30T00:00:00+01:00
+    start_time: "08:45"
+    end_time: "09:00"
+  - title: "kerim-satirli"
+    type: talk
+    date: 2023-09-30T00:00:00+01:00
+    start_time: "09:00"
+    end_time: "09:45"
+  - title: "andraz-brodnik"
+    type: talk
+    date: 2023-09-30T00:00:00+01:00
+    start_time: "09:45"
+    end_time: "10:30"
+  - title: "Break"
+    type: custom
+    date: 2023-09-30T00:00:00+01:00
+    start_time: "10:30"
+    end_time: "10:45"
+  - title: "jure-vengust"
+    type: talk
+    date: 2023-09-30T00:00:00+01:00
+    start_time: "10:45"
+    end_time: "11:30"
+  - title: "zan-markan"
+    type: talk
+    date: 2023-09-30T00:00:00+01:00
+    start_time: "11:30"
+    end_time: "12:15"
+  - title: "Lunch / Ignite / Open Spaces"
+    type: custom
+    date: 2023-09-30T00:00:00+01:00
+    start_time: "12:15"
+    end_time: "14:15"
+  - title: "nic-jackson"
+    type: talk
+    date: 2023-09-30T00:00:00+01:00
+    start_time: "14:15"
+    end_time: "15:00"
+  - title: "timothy-mamo"
+    type: talk
+    date: 2023-09-30T00:00:00+01:00
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "Break"
+    type: custom
+    date: 2023-09-30T00:00:00+01:00
+    start_time: "15:45"
+    end_time: "16:00"
+  - title: "john-jarvis"
+    type: talk
+    date: 2023-09-30T00:00:00+01:00
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Closing Ceremonies"
+    type: custom
+    date: 2023-09-30T00:00:00+01:00
+    start_time: "16:45"
+    end_time: "17:45"
