@@ -179,7 +179,7 @@ program:
     date: 2023-10-05
     start_time: "10:25"
     end_time: "10:40"
-  - title: "melissa-thomas"
+  - title: "kendra-ash"
     type: talk
     date: 2023-10-05
     start_time: "10:40"
@@ -194,7 +194,7 @@ program:
     date: 2023-10-05
     start_time: "11:40"
     end_time: "12:45"
-  - title: "aaron-soellinger"
+  - title: "ronen-hilewicz"
     type: talk
     date: 2023-10-05
     start_time: "12:45"
@@ -264,7 +264,7 @@ program:
     date: 2023-10-06
     start_time: "09:45"
     end_time: "09:55"
-  - title: "kendra-ash"
+  - title: "rohit-mishra"
     type: talk
     date: 2023-10-06
     start_time: "09:55"
@@ -274,12 +274,12 @@ program:
     date: 2023-10-06
     start_time: "10:25"
     end_time: "10:40"
-  - title: "rohit-mishra"
+  - title: "robert-clawson"
     type: talk
     date: 2023-10-06
     start_time: "10:40"
     end_time: "11:10"
-  - title: "robert-clawson"
+  - title: "aaron-soellinger"
     type: talk
     date: 2023-10-06
     start_time: "11:10"
