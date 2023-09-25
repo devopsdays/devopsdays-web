@@ -1,15 +1,11 @@
 +++
-Title = "DevOpsDays Nashville 2023"
+Title = "DevOpsDays Nashville 2024"
 Type = "welcome"
 aliases = [
-  "/events/2023-nashville/",
-  "/events/2023-nashville/location/",
-  "/events/2023-nashville/propose/",
-  "/events/2023-nashville/registration/",
-  "/events/2023-nashville/sponsor/",
-  "/events/2023-nashville/speakers/",
-  "/events/2023-nashville/program/"]
-Description = "DevOpsDays Nashville 2022"
+  "/events/2024-nashville/",
+  "/events/2024-nashville/location/",
+  "/events/2024-nashville/sponsor/"]
+Description = "DevOpsDays Nashville 2024"
 +++
 
 <!-- <div class="alert alert-danger" role="alert">
@@ -31,7 +27,6 @@ Description = "DevOpsDays Nashville 2022"
     <!-- <h2><p><a href="https://sessionize.com/nashvilledevopsdays2023/">Call for Proposals Now Open!</a></p></h2>
     <p>Do you have a great topic for the community?  Visit our <a href="https://sessionize.com/nashvilledevopsdays2023/">Call for Speakers/Papers</a> site today!  We look forward to hearing from you.</p> -->
   
-    <!-- <h3>Our {{< event_link page="program" text="session" >}} and {{< event_link page="speakers" text="speakers" >}} lists are now live!  Check out the incredible list of speakers and the amazing topics they will be presenting!</h3> -->
   </div>
 </div>
 

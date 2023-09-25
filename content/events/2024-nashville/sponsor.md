@@ -1,7 +1,7 @@
 +++
 Title = "Become a Sponsor"
 Type = "event"
-Description = "Sponsor DevOpsDays Nashville 2023"
+Description = "Sponsor DevOpsDays Nashville 2024"
 +++
 
 We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
