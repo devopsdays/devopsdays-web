@@ -90,10 +90,16 @@ sponsors:
     level: gold
   - id: vmware-tanzu
     level: gold
+  - id: xmatters
+    level: gold
   - id: devnexus
     level: bronze
   - id: dockeratl
-    level: community
+    level: bronze
+  - id: techstronggroup
+    level: bronze
+  - id: inspire11
+    level: bronze
   - id: arresteddevops
     level: community
 

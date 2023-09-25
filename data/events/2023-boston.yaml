@@ -17,6 +17,9 @@ registration_date_start: "2023-07-16T00:00:00-00:00"
 registration_date_end: "2023-10-18T00:00:00-00:00"
 registration_link: "https://ti.to/devopsdaysbos/2023?source=devopsdaysdotorg"
 
+masthead_background: "skyline-2023a.jpg"
+sharing_image: "bos-sharing.jpg"
+
 coordinates: "42.344447, -71.071291"
 location: "The Cyclorama at the Boston Center for the Arts"
 location_address: "539 Tremont St, Boston, MA 02116"
@@ -113,6 +116,10 @@ sponsors:
     level: coffee
   - id: legit-security
     level: startupalley
+  - id: dazz
+    level: startupalley
+  - id: gitguardian
+    level: platinum
 
 sponsors_accepted : "yes"
 
@@ -157,8 +164,8 @@ program:
     background_color: "#fffa99"
     type: workshop
     date: 2023-10-16
-    start_time: "9:45"
-    end_time: "10:55"
+    start_time: "10:20"
+    end_time: "11:45"
   - title: "Break"
     type: custom
     date: 2023-10-16
@@ -246,18 +253,12 @@ program:
     date: 2023-10-17
     start_time: "9:45"
     end_time: "10:20"
-  - title: "matt-surabian"
-    background_color: "#fffa99"
-    type: talk
-    date: 2023-10-17
-    start_time: "9:45"
-    end_time: "10:20"
   - title: "jeff-brainerd"
     type: talk
     date: 2023-10-17
     start_time: "10:20"
     end_time: "10:55"
-  - title: "kyle-benson"
+  - title: "matt-surabian"
     background_color: "#fffa99"
     type: talk
     date: 2023-10-17
@@ -269,6 +270,12 @@ program:
     start_time: "10:55"
     end_time: "11:10"
   - title: "jon-bass"
+    type: talk
+    date: 2023-10-17
+    start_time: "11:10"
+    end_time: "11:45"
+  - title: "kyle-benson"
+    background_color: "#fffa99"
     type: talk
     date: 2023-10-17
     start_time: "11:10"

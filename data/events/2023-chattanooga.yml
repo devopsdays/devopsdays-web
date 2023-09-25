@@ -20,11 +20,11 @@ cfp_date_announce: 2023-09-15 # inform proposers of status
 
 cfp_link: "https://sessionize.com/chattanooga-devopsdays-2023/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: 2023-09-07 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2023-11-15 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://go.chatech.org/secure/cause_pdetails/MTg4MTA0" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -36,7 +36,7 @@ location_address: "407 Chestnut Street, Chattanooga, TN 37402" #Optional - use t
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
   - name: location
- # - name: registration
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -72,6 +72,11 @@ team_members: # Name is the only required field for team members.
   - name: "Mike Conrad"
     linkedin: "https://www.linkedin.com/in/mikeenxo/"
     image: "mike-conrad.jpg"
+  - name: "Heather Hawkins"
+    image: "heather-hawkins.jpg"
+  - name: "Brayton Finch"
+  - name: "Kaitlyn Poulakis"
+  - name: "Rachel Grundy"
 
 organizer_email: "chattanooga@devopsdays.org" # Put your organizer email address here
 
@@ -80,7 +85,14 @@ organizer_email: "chattanooga@devopsdays.org" # Put your organizer email address
 sponsors:
   - id: arresteddevops
     level: community
-
+  - id: chatech
+    level: gold
+  - id: teksystems
+    level: silver
+  - id: chattanooga-area-chamber
+    level: community
+  - id: the-company-lab
+    level: community
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
