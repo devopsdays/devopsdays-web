@@ -46,7 +46,7 @@ Description = "DevOpsDays Belém 2023"
     <strong>Inscreva-se</strong>
   </div>
   <div class = "col-md-8">
-    <a href="#">Em breve!</a>
+    <a href="https://www.sympla.com.br/evento/devopsdays-belem-2023/2156296" target="_blank">Link para Inscrição</a>
   </div>
 </div>
 

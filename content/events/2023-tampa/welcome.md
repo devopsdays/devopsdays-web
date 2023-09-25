@@ -42,7 +42,7 @@ Description = "devopsdays Tampa Bay 2023"
     </p>
     <p>
     <a target="_blank" href="https://www.eventbrite.com/e/devopsdays-tampa-bay-2023-tickets-635898929817">
-      <img src="https://jamesgress.com/wp-content/uploads/2023/09/1693418115284.jpg" alt="Buy ticket" width="400" style="border: 3px solid black;">
+      <img src="https://jamesgress.com/wp-content/uploads/2023/09/Angry-Bird.jpeg" alt="Buy ticket" width="400" style="border: 3px solid black;">
     </a>
     </p>
     {{< event_twitter >}}
