@@ -36,13 +36,13 @@ location: "London" # Defaults to city, but you can make it the venue name.
 location_address: "QEII Centre, Broad Sanctuary, Westminster"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: registration
+  # - name: registration
 # - name: propose
   - name: program
   - name: speakers
   - name: location
 #  - name: accessibility
-  - name: sponsor
+  # - name: sponsor
   - name: contact
   - name: conduct
 #  - name: subscribe
