@@ -146,6 +146,8 @@ sponsors:
     level: gold
   - id: innvolve
     level: gold
+  - id: aqua-sec
+    level: gold
   # lunch
   # recharge
   - id: essent
@@ -157,6 +159,8 @@ sponsors:
     level: silver
   # bronze
   - id: foreside-it
+    level: bronze
+  - id: kcd-utrecht
     level: bronze
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -300,6 +304,11 @@ program:
     date: 2023-10-11T00:00:00+02:00
     start_time: "17:00"
     end_time: "17:10"
+  - title: "Dinner, DevHops, Bingo & board games"
+    type: custom
+    date: 2023-10-11T00:00:00+02:00
+    start_time: "17:10"
+    end_time: "22:00"
 
   # Day two
   - title: "Registration, Breakfast, Sponsors"
