@@ -274,7 +274,7 @@ program:
     date: 2023-10-17
     start_time: "11:10"
     end_time: "11:45"
-  - title: "kyle-benson"
+  - title: "jose-andrade"
     background_color: "#fffa99"
     type: talk
     date: 2023-10-17
@@ -290,8 +290,8 @@ program:
     date: 2023-10-17
     start_time: "12:20"
     end_time: "13:30"
-  - title: "caito-scherr"
-    type: talk
+  - title: "Lightning Talks (Coming Soon!)"
+    type: custom
     date: 2023-10-17
     start_time: "13:30"
     end_time: "14:05"
