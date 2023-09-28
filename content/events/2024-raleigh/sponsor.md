@@ -6,7 +6,6 @@ Description = "Sponsor devopsdays raleigh 2024"
 
 We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
 
-For more information, please view our full prospectus. Sponsor package details are here : [Sponsorship Package](https://assets.devopsdays.org/events/2023/raleigh/devopsdaysraleigh2023sponsorshippacket.pdf)
 
 <hr>
 
