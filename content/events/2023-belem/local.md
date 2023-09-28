@@ -1,7 +1,6 @@
 +++
 Title = "Local"
 Type = "event"
-<<<<<<< HEAD
 Description = "UNAMA - Universidade da Amazônia - Av. Alcindo Cacela, 287 - Umarizal, Belém - PA"
 +++
 
@@ -11,15 +10,5 @@ Description = "UNAMA - Universidade da Amazônia - Av. Alcindo Cacela, 287 - Uma
   Esse ano o DevOpsDays Belém será realizado na UNAMA - Universidade da Amazônia, que vai abrir as portas para receber a comunidade de tecnologia para esse dia enriquecedor.
 </p>
 <p>Endereço: <b>Av. Alcindo Cacela, 287 - Umarizal, Belém - PA</b>.</p>
-=======
-Description = "Em breve"
-+++
-
-<hr/>
-<h3><b>NÃO CONFIRMADO</b></h3>
-<p>
-  Esse ano o DevOpsDays Belém será realizado ...
-</p>
->>>>>>> 5a5896136e ([BEL-2023] Add devopsdays belem 2023)
 
 {{< event_map >}}
