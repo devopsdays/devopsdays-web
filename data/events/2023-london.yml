@@ -36,13 +36,13 @@ location: "London" # Defaults to city, but you can make it the venue name.
 location_address: "QEII Centre, Broad Sanctuary, Westminster"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: registration
+  # - name: registration
 # - name: propose
   - name: program
   - name: speakers
   - name: location
 #  - name: accessibility
-  - name: sponsor
+  # - name: sponsor
   - name: contact
   - name: conduct
 #  - name: subscribe
@@ -189,7 +189,7 @@ program:
     date: 2023-09-21T00:00:00+01:00
     start_time: "09:45"
     end_time: "10:00"
-  - title: "brittany-woods"
+  - title: "abby-bangser"
     type: talk
     date: 2023-09-21T00:00:00+01:00
     start_time: "10:00"
@@ -269,7 +269,7 @@ program:
     date: 2023-09-22T23:59:59+01:00
     start_time: "09:00"
     end_time: "09:45"
-  - title: "abby-bangser"
+  - title: "sam-hepburn"
     type: talk
     date: 2023-09-22T23:59:59+01:00
     start_time: "10:00"
@@ -341,8 +341,6 @@ ignites:
     date: 2023-09-21T00:00:00+01:00
   - title: "becky-pauley"
     date: 2023-09-21T00:00:00+01:00
-  - title: "autumn-skerritt"
-    date: 2023-09-22T23:59:59+01:00
   - title: "john-hatton-and-rich-house"
     date: 2023-09-22T23:59:59+01:00
   - title: "aakansha-priya"

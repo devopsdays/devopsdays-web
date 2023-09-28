@@ -98,6 +98,10 @@ sponsors:
     level: bronze
   - id: scout
     level: silver
+  - id: microsoftazure
+    level: silver
+  - id: honeycomb
+    level: silver
 
 #  - id: samplesponsorname
 #    level: gold
@@ -187,7 +191,7 @@ program:
     date: 2023-09-27
     start_time: "14:05"
     end_time: "15:35"
-  - title: "adam-furmanek"
+  - title: "baruch-sadogursky"
     type: talk
     date: 2023-09-27
     start_time: "15:40"
@@ -212,13 +216,13 @@ program:
     date: 2023-09-28
     start_time: "08:45"
     end_time: "09:00"
-  - title: "jessica-kerr"
+  - title: "jason-harley"
     type: talk
     date: 2023-09-28
     start_time: "09:00"
     end_time: "09:40"
-  - title: "baruch-sadogursky"
-    type: talk
+  - title: "Sponsor Showcase and Hallway Track"
+    type: custom
     date: 2023-09-28
     start_time: "09:45"
     end_time: "10:15"
@@ -262,12 +266,12 @@ program:
     date: 2023-09-28
     start_time: "14:05"
     end_time: "15:35"
-  - title: "ken-de-souza"
+  - title: "zack-glick"
     type: talk
     date: 2023-09-28
     start_time: "15:40"
     end_time: "16:10"
-  - title: "vino-duraisamy"
+  - title: "ken-de-souza"
     type: talk
     date: 2023-09-28
     start_time: "16:15"

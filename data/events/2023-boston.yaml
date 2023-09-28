@@ -17,6 +17,9 @@ registration_date_start: "2023-07-16T00:00:00-00:00"
 registration_date_end: "2023-10-18T00:00:00-00:00"
 registration_link: "https://ti.to/devopsdaysbos/2023?source=devopsdaysdotorg"
 
+masthead_background: "skyline-2023a.jpg"
+sharing_image: "bos-sharing.jpg"
+
 coordinates: "42.344447, -71.071291"
 location: "The Cyclorama at the Boston Center for the Arts"
 location_address: "539 Tremont St, Boston, MA 02116"
@@ -116,6 +119,10 @@ sponsors:
   - id: dazz
     level: startupalley
   - id: gitguardian
+    level: platinum
+  - id: sym
+    level: badges
+  - id: nobl9
     level: platinum
 
 sponsors_accepted : "yes"
@@ -271,7 +278,7 @@ program:
     date: 2023-10-17
     start_time: "11:10"
     end_time: "11:45"
-  - title: "kyle-benson"
+  - title: "jose-andrade"
     background_color: "#fffa99"
     type: talk
     date: 2023-10-17
@@ -287,8 +294,8 @@ program:
     date: 2023-10-17
     start_time: "12:20"
     end_time: "13:30"
-  - title: "caito-scherr"
-    type: talk
+  - title: "Lightning Talks (Coming Soon!)"
+    type: custom
     date: 2023-10-17
     start_time: "13:30"
     end_time: "14:05"

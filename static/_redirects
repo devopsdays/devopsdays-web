@@ -49,7 +49,7 @@
 /houston/*		/events/2022-houston/:splat		302
 /halifax/*		/events/2024-halifax/:splat		302
 /indianapolis/*		/events/2023-indianapolis/:splat	302
-/istanbul/*		/events/2021-istanbul/:splat		302
+/istanbul/*		/events/2024-istanbul/:splat		302
 /jakarta/*		/events/2022-jakarta/:splat		302
 /juiz-de-fora/*		/events/2024-juiz-de-fora/:splat		302
 /kansas-city/*		/events/2024-kansas-city/:splat		302
@@ -72,7 +72,7 @@
 /montreal/*		/events/2023-montreal/:splat		302
 /moscow/*		/events/2020-moscow/:splat		302
 /nairobi/*		/events/2014-nairobi/:splat		302
-/nashville/*		/events/2023-nashville/:splat		302
+/nashville/*		/events/2024-nashville/:splat		302
 /natal/*		/events/2020-natal/:splat		302
 /new-york-city/*	/events/2023-new-york-city/:splat	302
 /new-zealand/*		/events/2019-auckland/:splat		302
