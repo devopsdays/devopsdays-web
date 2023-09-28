@@ -1,13 +1,13 @@
 +++
 Title = "Location"
 Type = "event"
-Description = "Location for devopsdays Nashville 2022"
+Description = "Location for devopsdays Nashville 2024"
 +++
 
-We are thrilled to be back at the Music City Center in the heart of downtown Nashville. Watch this space for information about the venue including address, map/direction, parking/transit, and any hotel details.
+We are currently working on a location for DevOps Days Nashville 2024, check back soon for more information.
 
 <!-- Uncomment this only if you have set the coordinates for your location in the config yaml. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html -->
-{{< event_map >}}
+<!-- {{< event_map >}} -->
 
 <!-- Edit and uncomment to let people know what accessibility features you have available -->
 <!-- 
