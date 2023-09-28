@@ -10,18 +10,18 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2023-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: 2024-04-10  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2024-04-11 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2024-04-10T08:00:00-04:00  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2024-04-11T18:00:00-04:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2023-11-01  # start accepting talk proposals.
-cfp_date_end: 2024-01-27  # close your call for proposals.
+cfp_date_start: 2023-11-01T00:00:00-04:00  # start accepting talk proposals.
+cfp_date_end: 2024-01-27T00:00:00-04:00  # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
 
 cfp_link: "https://docs.google.com/forms/d/e/1FAIpQLScM9ki8DOJqmcRSKhXVgk_pb5dXfFra5ECsN1tlXO-UcF3xNQ/viewform?usp=sf_link" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: 2023-04-13 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: 2024-04-11 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: 2023-04-10T08:00:00-04:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2024-04-10T08:00:00-04:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://www.eventbrite.com/e/devopsdays-raleigh-2024-tickets-615268222817?aff=ebdsoporgprofile" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -41,8 +41,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
   - name: registration
     url: "https://www.eventbrite.com/e/devopsdays-raleigh-2024-tickets-615268222817?aff=ebdsoporgprofile"
-  - name: program
-  - name: speakers
+  # - name: program
+  # - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
