@@ -120,6 +120,10 @@ sponsors:
     level: startupalley
   - id: gitguardian
     level: platinum
+  - id: sym
+    level: badges
+  - id: nobl9
+    level: platinum
 
 sponsors_accepted : "yes"
 
