@@ -28,9 +28,9 @@ registration_closed: "true" #set this to true if you need to manually close regi
 registration_link: "/events/2023-belem/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
-# coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Em breve!" # Defaults to city, but you can make it the venue name.
-# location_address: "Av. Alcindo Cacela, 287 - Umarizal, Belém - PA, 66060-902" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+coordinates: "-1.4380065672307099, -48.4784484" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Auditório David Mufarrej - UNAMA Alcindo Cacela" # Defaults to city, but you can make it the venue name.
+location_address: "Av. Alcindo Cacela, 287 - Umarizal, Belém - PA, 66060-902" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: Local
@@ -90,9 +90,22 @@ sponsors:
 
   - id: tasafo
     level: community
-
   - id: idopterlabs
     level: platinum
+  - id: devsnorte
+    level: community
+  - id: paratic
+    level: community
+  - id: jambu
+    level: safo
+  - id: unama
+    level: platinum
+  - id: kubecareers
+    level: support
+  - id: kubeevents
+    level: support
+  - id: agenda-ti
+    level: support
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
