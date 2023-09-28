@@ -123,13 +123,31 @@ sponsors:
    level: gold
  - id: intelygenz
    level: gold
+ - id: enterprisedb
+   level: gold
+ - id: ryanair
+   level: gold
 # Silver
  - id: cloudappi
+   level: silver
+ - id: checkly
+   level: silver
+ - id: arigaio
    level: silver
 # Bronze
  - id: speedyrails
    level: bronze
  - id: panel
+   level: bronze
+ - id: ambassadorlabs
+   level: bronze
+ - id: plainconcepts
+   level: bronze
+ - id: scalefactory
+   level: bronze
+ - id: vvalley
+   level: bronze
+ - id: xygeni
    level: bronze
 # Community
  - id: madriddevops
@@ -151,6 +169,8 @@ sponsors:
  - id: awscommspain
    level: community
  - id: devopsdays-caceres
+   level: community
+ - id: codemotion
    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

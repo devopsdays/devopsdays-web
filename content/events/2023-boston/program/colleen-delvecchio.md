@@ -2,6 +2,7 @@
 title: "Banishing Burnout: It's Time to Thrive at Your Workplace!"
 Type: "talk"
 Speakers: ["colleen-delvecchio"]
+sharing_image: "colleen-delvecchio.jpg"
 ---
 
 Thriving Teams: Preventing and Banishing) Burnout for your Team

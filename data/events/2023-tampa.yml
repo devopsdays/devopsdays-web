@@ -11,7 +11,7 @@ speakers_verbose: "true"
 startdate: "2023-09-21" # The start date of your event. Leave blank if you don't have a venue reserved yet.
 enddate: "2023-09-21" # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
-# Leave CFP dates blank if you don't know yet, or set all three at once.
+# Leave CFP dates blank if you don't know yet, or set all three at once
 
 cfp_date_start: "2023-05-12" # start accepting talk proposals.
 cfp_date_end: "2023-07-01" # close your call for proposals.
@@ -94,6 +94,12 @@ organizer_email: "tampa@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: accenture-es
+    level: inkind
+  - id: microsoft
+    level: inkind
+  - id: capitalone
+    level: inkind
   - id: devopstampabay
     level: community
   - id: tampadevs
@@ -122,6 +128,17 @@ sponsors:
     level: community
   - id: vmware-tanzu
     level: platinum
+  - id: nobl9
+    level: platinum
+  - id: digitalcharter
+    level: inkind
+  - id: teksystems
+    level: inkind
+  - id: appdynamics
+    level: platinum
+  - id: elitesource
+    level: gold
+
     
 #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 # - id: arresteddevops
@@ -139,9 +156,12 @@ sponsor_levels:
     max: 2
   - id: platinum
     label: Platinum
-    max: 9 # This is the same as omitting the max limit.
+    max: 8 # This is the same as omitting the max limit.
   - id: gold
     label: Gold
+  - id: inkind
+    label: In-Kind
+    max: 4
   - id: community
     label: Community
 

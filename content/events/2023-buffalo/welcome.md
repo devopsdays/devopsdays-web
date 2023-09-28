@@ -88,14 +88,6 @@ development and IT operations (and everything in between). Throughout this time,
 to listen to a series of curated talks and ignites regarding automation, testing, security, organizational culture,
 and more. Additionally, they will be able to take part in group-organized “open spaces” that will allow them to discuss
 any topic selected by the group as a collective.</p>
-
-<h2>Let's Talk About COVID-19</h2>
-<p>Due to anticipated changes to the COVID-19 guidelines, we have not finalized COVID-19 related event guidelines. Our final decision will be based on Center for Disease Control and Erie County Department of Health guidelines.</p>
-<p><strong>Related:</strong></p>
-<ul>
-  <li><a href="https://www.cdc.gov/coronavirus/2019-ncov/index.html" target="_blank">Center for Disease Control</a></li>
-  <li><a href="https://www3.erie.gov/covid/" target="_blank">Erie County Department of Health</a></li>
-</ul>
 </div>
 </div>
 

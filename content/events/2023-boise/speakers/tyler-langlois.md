@@ -1,7 +1,7 @@
 +++
 Title = "Tyler Langlois"
 Twitter = "leothrix"
-image = ""
+image = "tyler-langlois.jpg"
 type = "speaker"
 linktitle = "tyler-langlois"
 
