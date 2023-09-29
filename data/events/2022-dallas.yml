@@ -219,7 +219,7 @@ sponsors:
     level: gold
   - id: circleci
     level: gold
-  - id: nobl9
+  - id: nobl9-before-20230929
     level: gold
   - id: octopus-deploy
     level: gold
