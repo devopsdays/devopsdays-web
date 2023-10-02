@@ -5,7 +5,7 @@ Description = "Sponsor DevOpsDays Baltimore 2024"
 +++
 
 DevOps Days is a self-organizing conference for DevOps practitioners that depends on your sponsorships. DevOpsDays Baltimore does not have vendor booths, sell product presentations, or distribute attendee contact lists.
-Sponsors have the opportunity to have short elevator pitches during the program and get recognition on this website and via social media before and during the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. We recommend sending practitioners to interact with their peers on their own terms.
+Sponsors have the opportunity to have short elevator pitches during the program and get recognition on this website and via LinkedIn before and during the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. We recommend sending practitioners to interact with their peers on their own terms.
 All attendees are welcome to propose any subject they want during the Open Space sessions. All attendees have the opportunity to suggest a product or project demonstration as part of an Open Space session, including sponsor attendees. Keep in mind: DevOpsDays Baltimore is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
 
 ## {{< event_link url-key="sponsor_registration_link" text="Become A Sponsor For DevOpsDays Baltimore 2024 Now!" >}}
@@ -129,7 +129,7 @@ members in order to become a Community Sponsor.
 - Discount code to share with your Community members (10% off General Admission
   tickets)
 - 1 Complementary ticket to the conference (redeemable after sharing about
-  DevOpsDays on at least one medium: social media, email, Meetup.com, etc.)
+  DevOpsDays on at least one medium: LinkedIn, email, Meetup.com, etc.)
 - Logo on shared slide, rotating during breaks
 - Logo on DevOpsDays Baltimore event website
 - [**Become a Community Sponsor**](<https://docs.google.com/forms/d/e/1FAIpQLSdSBhQyWBEyoOSy9OLox6iwWZPnVTDETqVFNjkxoGcHjGo-Hw/viewform?usp=pp_url&entry.510613015=Community+-+Free&entry.890344597=N/A+(Community/Media)>).
@@ -144,7 +144,7 @@ Media Sponsor.
 - Discount code to share with your Audience members (10% off General Admission
   tickets)
 - 1 Complementary ticket to the conference (redeemable after sharing about
-  DevOpsDays on at least one medium: social media, email, Meetup.com, etc.)
+  DevOpsDays on at least one medium: LinkedIn, email, Meetup.com, etc.)
 - Logo on shared slide, rotating during breaks
 - Logo on DevOpsDays Baltimore event website
 - [**Become a Media Sponsor**](<https://docs.google.com/forms/d/e/1FAIpQLSdSBhQyWBEyoOSy9OLox6iwWZPnVTDETqVFNjkxoGcHjGo-Hw/viewform?usp=pp_url&entry.510613015=Media+-+Free&entry.890344597=N/A+(Community/Media)>).
