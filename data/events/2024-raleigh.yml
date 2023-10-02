@@ -91,7 +91,7 @@ team_members: # Name is the only required field for team members.
     gitlab: "n3ff"
     github: "JRN00"
     twitter: "GitDevOps"
-    image: "jeremy-neff.png"
+    image: "jeremy-neff.jpg"
     linkedin: "https://www.linkedin.com/in/jeremy-r-neff/"
   - name: "Alex Malich"
     linkedin: "https://www.linkedin.com/in/coldsv"
