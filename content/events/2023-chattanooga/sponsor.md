@@ -4,7 +4,7 @@ Type = "event"
 Description = "Sponsor devopsdays Chattanooga 2023"
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
+We greatly value sponsors for this open event. If you are interested in sponsoring, see our <a href="https://www.canva.com/design/DAFp8jtjfAc/GeJrcn8yPJagiXMn0jTkMg/view">prospectus</a> for sponsorship levels and details. To lock in your sponsorship or if you have additional questions, please email us at [{{< email_organizers >}}].
 
 <hr>
 
