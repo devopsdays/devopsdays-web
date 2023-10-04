@@ -232,3 +232,4 @@
 /events/2016-kansascity/sponsorshipprospectusv2016.pdf                                  https://assets.devopsdays.org/events/2016/kansascity/sponsorshipprospectusv2016.pdf                                301 
 /events/2016-dallas/devopsdays_dallas_sponsor_prospectus_v0.5.pdf                       https://assets.devopsdays.org/events/2016/dallas/devopsdays_dallas_sponsor_prospectus_v0.5.pdf                     301
 /events/2016-chicago/devopsdays-chicago-2016-prospectus.pdf                             https://assets.devopsdays.org/events/2016/chicago/devopsdays-chicago-2016-prospectus.pdf                           301
+/johannesburg/*            /events/2024-johannesburg/:splat           302
