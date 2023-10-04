@@ -4,12 +4,9 @@ Type = "welcome"
 aliases = ["/events/2024-baltimore/"]
 Description = "devopsdays Baltimore 2024"
 +++
+
 <div>
   {{< event_logo >}}
-  <div style='float:right; padding-left:20px;'>
-    <a class="twitter-timeline" data-width="400" data-height="400" data-theme="light" href="https://twitter.com/DevOpsDaysBmore">Tweets by DevOpsDaysBmore</a>
-    <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-  </div>
  <div class = "col-md-6">
     <h2><p>Welcome to DevOps Days Baltimore 2024!</p></h2>
     <br>
@@ -101,5 +98,3 @@ Description = "devopsdays Baltimore 2024"
     {{< event_link url-key="slack_link" text="Join our slack for pre-event communication and Volunteering opportunities" >}}
   </div>
 </div>
-
-## {{< event_twitter >}}

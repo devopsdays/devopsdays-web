@@ -127,6 +127,8 @@ sponsors:
     level: community
   - id: cloudtruth
     level: alacarte
+  - id: cleanslate
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -164,22 +166,22 @@ program:
     date: 2023-10-05
     start_time: "09:15"
     end_time: "09:45"
-  - title: "Sponsors"
-    type: custom
-    date: 2023-10-05
-    start_time: "09:45"
-    end_time: "09:55"
   - title: "jj-asghar"
     type: talk
     date: 2023-10-05
-    start_time: "09:55"
+    start_time: "09:45"
+    end_time: "10:15"
+  - title: "Sponsors"
+    type: custom
+    date: 2023-10-05
+    start_time: "10:15"
     end_time: "10:25"
   - title: "Break"
     type: custom
     date: 2023-10-05
     start_time: "10:25"
     end_time: "10:40"
-  - title: "melissa-thomas"
+  - title: "kendra-ash"
     type: talk
     date: 2023-10-05
     start_time: "10:40"
@@ -194,7 +196,7 @@ program:
     date: 2023-10-05
     start_time: "11:40"
     end_time: "12:45"
-  - title: "aaron-soellinger"
+  - title: "ronen-hilewicz"
     type: talk
     date: 2023-10-05
     start_time: "12:45"
@@ -259,27 +261,27 @@ program:
     date: 2023-10-06
     start_time: "09:15"
     end_time: "09:45"
+  - title: "rohit-mishra"
+    type: talk
+    date: 2023-10-06
+    start_time: "09:45"
+    end_time: "10:15"
   - title: "Sponsors"
     type: custom
     date: 2023-10-06
-    start_time: "09:45"
-    end_time: "09:55"
-  - title: "kendra-ash"
-    type: talk
-    date: 2023-10-06
-    start_time: "09:55"
+    start_time: "10:15"
     end_time: "10:25"
   - title: "Break"
     type: custom
     date: 2023-10-06
     start_time: "10:25"
     end_time: "10:40"
-  - title: "rohit-mishra"
+  - title: "robert-clawson"
     type: talk
     date: 2023-10-06
     start_time: "10:40"
     end_time: "11:10"
-  - title: "robert-clawson"
+  - title: "aaron-soellinger"
     type: talk
     date: 2023-10-06
     start_time: "11:10"
@@ -335,19 +337,21 @@ program:
     start_time: "16:30"
     end_time: "16:45"
 ignites:
-  - title: "kat-higgins"
-    date: 2023-10-05
-  - title: "mykel-alvis"
-    date: 2023-10-05
   - title: "jj-asghar-ignite"
     date: 2023-10-05
   - title: "daniel-ward"
+    date: 2023-10-05
+  - title: "mykel-alvis"
     date: 2023-10-05
   - title: "darren-mills"
     date: 2023-10-05
   - title: "trip-longworth"
     date: 2023-10-05
+  - title: "jon-fazzaro"
+    date: 2023-10-05
 
+  - title: "kat-higgins"
+    date: 2023-10-06
   - title: "ed-legault"
     date: 2023-10-06
   - title: "geoffrey-rodgers"
@@ -357,6 +361,4 @@ ignites:
   - title: "greg-greenlee"
     date: 2023-10-06
   - title: "dwayne-mcdaniel"
-    date: 2023-10-06
-  - title: "jon-fazzaro"
     date: 2023-10-06
