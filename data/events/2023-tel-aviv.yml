@@ -85,14 +85,6 @@ team_members: # Name is the only required field for team members.
     website: "https://terasky.com"
     image: "lev-andelman.jpg"
 
-  - name: "Michael Arenzon"
-    twitter: ""
-    employer: "Null"
-    github: ""
-    linkedin: ""
-    website: ""
-    image: "michael-arenzon.png"
-
   - name: "Andrei Burd"
     twitter: "burdandrei"
     employer: "Hashicorp"
