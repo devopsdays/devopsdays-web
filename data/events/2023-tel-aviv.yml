@@ -276,6 +276,10 @@ sponsors:
     level: community
   - id: tlvpartners
     level: community
+  - id: bigdataboutique
+    level: community
+  - id: lunardev
+    level: community
   - id: statscraft
     level: community
   - id: opsschool
@@ -289,6 +293,8 @@ sponsors:
   - id: appleseeds
     level: community
   - id: hamakor
+    level: community
+  - id: womenindevops
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
