@@ -135,10 +135,10 @@ team_members: # Name is the only required field for team members.
 
   - name: "Gil Zellner"
     twitter: "heathenaspargus"
-    employer: "HourOne"
-    github: gilzellner"
+    employer: "Google"
+    github: gilzellner
     linkedin: "https://www.linkedin.com/in/gilzellner/"
-    website: "https://wix.com"
+    website: "https://www.linkedin.com/in/gilzellner/"
     image: "gil-zellner.jpg"
 
   - name: "John Zenou"
@@ -276,6 +276,10 @@ sponsors:
     level: community
   - id: tlvpartners
     level: community
+  - id: 2023-bigdataboutique
+    level: community
+  - id: 2023-lunardev
+    level: community
   - id: statscraft
     level: community
   - id: opsschool
@@ -289,6 +293,8 @@ sponsors:
   - id: appleseeds
     level: community
   - id: hamakor
+    level: community
+  - id: 2023-womenindevopsil
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
