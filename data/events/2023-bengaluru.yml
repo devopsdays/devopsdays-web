@@ -28,19 +28,19 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 # Location
 #
-coordinates: "12.950187, 77.698982" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Radisson Blu Bengaluru Outer Ring Road" # Defaults to city, but you can make it the venue name.
+coordinates: "12.96016649687932, 77.64496060337798" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Hotel Royal Orchid, Bengaluru" # Defaults to city, but you can make it the venue name.
 #
-location_address: "Radisson Blu Bengaluru Outer Ring Road, Bengaluru, Karnataka 560037" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "No 1, Golf Avenue, Adjoining KGA Golf Course, HAL Old Airport Rd, Domlur, Bengaluru, Karnataka 560008" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: location
  # - name: registration
- # - name: program
  # - name: speakers
   - name: sponsor
-  - name: propose
-    url: https://sessionize.com/devopsdays-blr-2023/
+  # - name: propose
+  #   url: https://sessionize.com/devopsdays-blr-2023/
+  - name: program
   - name: register
     url: https://konfhub.com/devopsdays-blr-2023
   - name: contact
@@ -72,8 +72,12 @@ organizer_email: "bengaluru@devopsdays.org" # Put your organizer email address h
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-#  - id: samplesponsorname
-#    level: gold
+ - id: manage-engine
+   level: platinum
+ - id: newrelic
+   level: platinum
+ - id: elastic
+   level: silver
 # #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 #  - id: arresteddevops
 #    level: community
