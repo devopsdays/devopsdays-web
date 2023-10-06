@@ -78,6 +78,10 @@ sponsors:
    level: platinum
  - id: elastic
    level: silver
+ - id: indiafoss
+   level: community
+ - id: kubesimplify
+   level: community
 # #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 #  - id: arresteddevops
 #    level: community
@@ -113,3 +117,5 @@ sponsor_levels:
   - id: swag
     label: Swag
     max: 1
+  - id: community
+    label: Community
