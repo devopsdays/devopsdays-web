@@ -37,7 +37,7 @@ Description = "DevOpsDays Belém 2023"
     <strong>Localização</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="local" text="Em breve!" >}}
+    {{< event_link page="local" text="UNAMA Alcindo Cacela" >}}
   </div>
 </div>
 
