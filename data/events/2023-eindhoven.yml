@@ -276,7 +276,7 @@ program:
     date: 2023-10-11T00:00:00+02:00
     start_time: "15:30"
     end_time: "15:55"
-  - title: "gal-bashan"
+  - title: "popoff-michka"
     type: talk
     date: 2023-10-11T00:00:00+02:00
     start_time: "15:30"
@@ -288,11 +288,6 @@ program:
     end_time: "16:20"
   - title: "Open Space #3"
     type: custom
-    date: 2023-10-11T00:00:00+02:00
-    start_time: "16:20"
-    end_time: "16:55"
-  - title: "popoff-michka"
-    type: talk
     date: 2023-10-11T00:00:00+02:00
     start_time: "16:20"
     end_time: "16:55"
