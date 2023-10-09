@@ -92,6 +92,11 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/igor-bahia-31b7b06b/"
     image: "igor-bahia.png"
 
+  - name: "Elayne Lemos"
+    linkedin: "https://www.linkedin.com/in/elaynelemos"
+    image: "elayne-lemos.jpg"
+  
+
 organizer_email: "salvador@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
@@ -100,6 +105,8 @@ sponsors:
   - id: samplesponsorname
     level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: kubeevents
+    level: community
   - id: arresteddevops
     level: community
 
