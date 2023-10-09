@@ -88,6 +88,7 @@ team_members: # Name is the only required field for team members.
     image: "adenn-tumba.png"
 
   - name: "Igor Bahia aka Igor"
+    employer: "Prosa Com Nath Souza"
     linkedin: "https://www.linkedin.com/in/igor-bahia-31b7b06b/"
     image: "igor-bahia.png"
 
