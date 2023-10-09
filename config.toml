@@ -9,7 +9,7 @@ dataDir = "data"
 archetypedir = "archetypes"
 PaginatePath = "blog"
 buildDrafts = false
-disableKinds = ["taxonomy"]
+disableKinds = ["taxonomy", "taxonomyTerm"]
 enableEmoji = true
 
 [markup]
