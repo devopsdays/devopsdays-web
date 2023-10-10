@@ -108,6 +108,12 @@ sponsors:
     level: support
   - id: gol-software
     level: safo
+  - id: w3as
+    level: platinum
+  - id: vibe
+    level: platinum
+  - id: terras
+    level: gold
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
