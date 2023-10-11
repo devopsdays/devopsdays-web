@@ -87,6 +87,8 @@ sponsors:
      level: silver
    - id: vmware-tanzu-2023
      level: platinum
+   - id: may-mobility
+     level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
