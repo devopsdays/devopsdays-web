@@ -132,7 +132,7 @@ members in order to become a Community Sponsor.
   DevOpsDays on at least one medium: LinkedIn, email, Meetup.com, etc.)
 - Logo on shared slide, rotating during breaks
 - Logo on DevOpsDays Baltimore event website
-- [**Become a Community Sponsor**](<https://docs.google.com/forms/d/e/1FAIpQLSdSBhQyWBEyoOSy9OLox6iwWZPnVTDETqVFNjkxoGcHjGo-Hw/viewform?usp=pp_url&entry.510613015=Community+-+Free&entry.890344597=N/A+(Community/Media)>).
+- [**Become a Community Sponsor**](<https://docs.google.com/forms/d/e/1FAIpQLSc_RbXagxmoh-Yfp28ytvBH-AAwCp-MT4xXD7u_ZuIvU9H6wQ/viewform?usp=sf_link)>).
 
 ### Media Sponsors
 
