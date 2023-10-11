@@ -124,6 +124,8 @@ sponsors:
     level: badges
   - id: nobl9
     level: platinum
+  - id: highlight
+    level: startupalley
 
 sponsors_accepted : "yes"
 
