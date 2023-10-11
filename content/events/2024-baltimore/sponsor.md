@@ -147,14 +147,14 @@ Media Sponsor.
   DevOpsDays on at least one medium: LinkedIn, email, Meetup.com, etc.)
 - Logo on shared slide, rotating during breaks
 - Logo on DevOpsDays Baltimore event website
-- [**Become a Media Sponsor**](<https://docs.google.com/forms/d/e/1FAIpQLSdSBhQyWBEyoOSy9OLox6iwWZPnVTDETqVFNjkxoGcHjGo-Hw/viewform?usp=pp_url&entry.510613015=Media+-+Free&entry.890344597=N/A+(Community/Media)>).
+- [**Become a Media Sponsor**](https://docs.google.com/forms/d/e/1FAIpQLSc_RbXagxmoh-Yfp28ytvBH-AAwCp-MT4xXD7u_ZuIvU9H6wQ/viewform?usp=sf_link).
 
 ### Silver Sponsors
 
 - 2 Complementary tickets to the conference
 - Logo on shared slide, rotating during breaks
 - Logo on DevOpsDays Baltimore event website
-- [**Become a Silver Sponsor**](https://docs.google.com/forms/d/e/1FAIpQLSdSBhQyWBEyoOSy9OLox6iwWZPnVTDETqVFNjkxoGcHjGo-Hw/viewform?usp=pp_url&entry.510613015=Silver+-+$1,200).
+- [**Become a Silver Sponsor**](https://docs.google.com/forms/d/e/1FAIpQLSc_RbXagxmoh-Yfp28ytvBH-AAwCp-MT4xXD7u_ZuIvU9H6wQ/viewform?usp=sf_link).
 
 ### Gold Sponsors
 
@@ -162,7 +162,7 @@ Media Sponsor.
 - Logo on all email communication
 - 1 additional ticket, 3 in total
 - Shared table for Swag and Marketing (shared with another Gold Sponsor)
-- [**Become a Gold Sponsor**](https://docs.google.com/forms/d/e/1FAIpQLSdSBhQyWBEyoOSy9OLox6iwWZPnVTDETqVFNjkxoGcHjGo-Hw/viewform?usp=pp_url&entry.510613015=Gold+-+$3,200).
+- [**Become a Gold Sponsor**](https://docs.google.com/forms/d/e/1FAIpQLSc_RbXagxmoh-Yfp28ytvBH-AAwCp-MT4xXD7u_ZuIvU9H6wQ/viewform?usp=sf_link).
 
 ### Platinum Sponsors
 
@@ -170,7 +170,7 @@ Media Sponsor.
 - 1 minute pitch to full conference audience
 - 2 additional tickets, 5 in total
 - Full table for swag/marketing/staffing
-- [**Become a Platinum Sponsor**](https://docs.google.com/forms/d/e/1FAIpQLSdSBhQyWBEyoOSy9OLox6iwWZPnVTDETqVFNjkxoGcHjGo-Hw/viewform?usp=pp_url&entry.510613015=Platinum+-+$5,500).
+- [**Become a Platinum Sponsor**](https://docs.google.com/forms/d/e/1FAIpQLSc_RbXagxmoh-Yfp28ytvBH-AAwCp-MT4xXD7u_ZuIvU9H6wQ/viewform?usp=sf_link).
 
 ### Happy Hour (Add-On - 1 Available)
 
