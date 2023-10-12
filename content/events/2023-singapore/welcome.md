@@ -5,6 +5,8 @@ aliases = ["/events/2023-singapore/"]
 Description = "DevOpsDays Singapore will take place at Fort Canning! We're encouraged by the feedback from previous year's events and are determined to bring an improved experience and continue the DevOps conversation for 2023 in Singapore."
 +++
 
+<p style="background:#ff0000; color:#ffffff; font-weight:bold; padding:10px;">Note from the Devopsdays Core Team: The status of this event is uncertain, but it is likely postponed or cancelled. We advise potential sponsors, speakers, and attendees to seek confirmation from the organizers before participating in this event.</p>
+
 <div class="row">
 <div class="col-md-4">
   <p><img alt="DevOpsDays Singapore 2023" src="/events/2023-singapore/logo.png" class="img-fluid"></p>

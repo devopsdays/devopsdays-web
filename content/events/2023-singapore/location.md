@@ -4,6 +4,8 @@ Type = "event"
 Description = "Location for devopsdays Singapore 2023"
 +++
 
+<p style="background:#ff0000; color:#ffffff; font-weight:bold; padding:10px;">Note from the Devopsdays Core Team: The status of this event is uncertain, but it is likely postponed or cancelled. We advise potential sponsors, speakers, and attendees to seek confirmation from the organizers before participating in this event.</p>
+
 <address>
 Hotel Fort Canning<br>
 11 Canning Walk, Singapore 178881<br>

@@ -4,6 +4,8 @@ Type = "event"
 Description = "Sponsor devopsdays singapore 2023"
 +++
 
+<p style="background:#ff0000; color:#ffffff; font-weight:bold; padding:10px;">Note from the Devopsdays Core Team: The status of this event is uncertain, but it is likely postponed or cancelled. We advise potential sponsors, speakers, and attendees to seek confirmation from the organizers before participating in this event.</p>
+
 We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
 
 DevOpsDays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute the attendee contact lists.

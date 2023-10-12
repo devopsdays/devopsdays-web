@@ -5,6 +5,8 @@ description = "Sign up to volunteer at devopsdays Singapore 2023!"
 
 +++
 
+<p style="background:#ff0000; color:#ffffff; font-weight:bold; padding:10px;">Note from the Devopsdays Core Team: The status of this event is uncertain, but it is likely postponed or cancelled. We advise potential sponsors, speakers, and attendees to seek confirmation from the organizers before participating in this event.</p>
+
 Thank you for considering to volunteer at DevOpsDays Singapore 2023! If you choose to volunteer at the conference we ask that you commit to three 1.5 to 1 hour shifts. The volunteer duties involve a generous amount of social interaction as our volunteers are asked to help our attendees with the conference experience.
 
 Roles include but are not limited to:
