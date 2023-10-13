@@ -104,7 +104,7 @@
 /shanghai/*		/events/2020-shanghai/:splat		302
 /shenzhen/*		/events/2018-shenzhen/:splat		302
 /silicon-valley/*	/events/2018-silicon-valley/:splat	302
-/singapore/*		/events/2023-singapore/:splat		302
+/singapore/*		/events/2024-singapore/:splat		302
 /stockholm/*		/events/2020-stockholm/:splat		302
 /taipei/*		/events/2022-taipei/:splat		302
 /tampa/*		/events/2023-tampa/:splat		302

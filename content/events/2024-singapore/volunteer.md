@@ -1,11 +1,11 @@
 +++
 title = "volunteer"
 type = "event"
-description = "Sign up to volunteer at devopsdays Singapore 2023!"
+description = "Sign up to volunteer at devopsdays Singapore 2024!"
 
 +++
 
-Thank you for considering to volunteer at DevOpsDays Singapore 2023! If you choose to volunteer at the conference we ask that you commit to three 1.5 to 1 hour shifts. The volunteer duties involve a generous amount of social interaction as our volunteers are asked to help our attendees with the conference experience.
+Thank you for considering to volunteer at DevOpsDays Singapore 2024! If you choose to volunteer at the conference we ask that you commit to three 1.5 to 1 hour shifts. The volunteer duties involve a generous amount of social interaction as our volunteers are asked to help our attendees with the conference experience.
 
 Roles include but are not limited to:
 

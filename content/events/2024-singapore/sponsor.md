@@ -1,7 +1,7 @@
 +++
 Title = "Sponsor"
 Type = "event"
-Description = "Sponsor devopsdays singapore 2023"
+Description = "Sponsor devopsdays singapore 2024"
 +++
 
 We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
@@ -24,7 +24,7 @@ Sponsoring DevOpsDays Singapore connects your company to some of the greatest te
 
 ## The Venue
 
-DevOpsDays Singapore 2023 venue will be [Hotel Fort Canning](http://devopsdays.org/events/2023-singapore/location/) located 11 Canning Walk, Singapore 178881
+DevOpsDays Singapore 2024 venue will be [Hotel Fort Canning](http://devopsdays.org/events/2024-singapore/location/) located 11 Canning Walk, Singapore 178881
 
 Many attractions are within walking distance and the location is well connected with public transport ([map](https://goo.gl/maps/A9HUqLBiCXJCg2Ua7)).
 
@@ -172,7 +172,7 @@ You must bring your own signage and all signage must either fit on or behind the
 
 ### Do we get any sponsored talks
 
-No, but you are welcome to submit a proposal for consideration through <a href="http://devopsdays.org/events/2023-singapore/propose/">our CfP form</a>.
+No, but you are welcome to submit a proposal for consideration through our [CFP Site](https://www.papercall.io/dodsin23)
 
 ### How many talk tracks do you have
 
