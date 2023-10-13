@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Jeferson Fernando (Keynote) - Transformando vidas através do Kubernetes: Educação inclusiva e oportunidades na era Cloud Native"
+Title = "Keynote - Transformando vidas através do Kubernetes: Educação inclusiva e oportunidades na era Cloud Native"
 Type = "talk"
 Speakers = ["jeferson-fernando"]
 aliases = ["/events/2023-florianopolis/program/jeferson-fernando/"]

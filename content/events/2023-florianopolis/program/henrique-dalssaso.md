@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Henrique Dalssaso - Criando sua própria distribuição de Kubernetes"
+Title = "Criando sua própria distribuição de Kubernetes"
 Type = "talk"
 Speakers = ["henrique-dalssaso"]
 aliases = ["/events/2023-florianopolis/program/henrique-dalssaso/"]
