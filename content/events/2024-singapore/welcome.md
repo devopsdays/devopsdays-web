@@ -1,14 +1,14 @@
 +++
-Title = "devopsdays singapore 2023"
+Title = "devopsdays singapore 2024"
 Type = "welcome"
-aliases = ["/events/2023-singapore/"]
-Description = "DevOpsDays Singapore will take place at Fort Canning! We're encouraged by the feedback from previous year's events and are determined to bring an improved experience and continue the DevOps conversation for 2023 in Singapore."
+aliases = ["/events/2024-singapore/"]
+Description = "DevOpsDays Singapore will take place at Fort Canning! We're encouraged by the feedback from previous year's events and are determined to bring an improved experience and continue the DevOps conversation for 2024 in Singapore."
 +++
 
 <div class="row">
 <div class="col-md-4">
-  <p><img alt="DevOpsDays Singapore 2023" src="/events/2023-singapore/logo.png" class="img-fluid"></p>
-  <p><strong>DevOpsDays</strong> is a network of local, practitioner-focused, not-for-profit event covering topics of software development, IT infrastructure operations, and the intersection between them.  DevOpsDays Singapore is in its fifth year, and will be held on <strong>23th & 24th October</strong>, at the <a href="../location">Fort Canning Hotel</a> in Singapore. We expect <strong>over 300 attendees</strong> this year.</p>
+  <p><img alt="DevOpsDays Singapore 2024" src="/events/2024-singapore/logo.png" class="img-fluid"></p>
+  <p><strong>DevOpsDays</strong> is a network of local, practitioner-focused, not-for-profit event covering topics of software development, IT infrastructure operations, and the intersection between them.  DevOpsDays Singapore is in its fifth year, and will be held on <strong>21th & 22th March</strong>, at the <a href="../location">Fort Canning Hotel</a> in Singapore. We expect <strong>over 300 attendees</strong> this year.</p>
   <p><a href="../contact">Contact the Organizers</a></p>
   <p><a href="../location">Look for Nearby Hotels</a></p>
   <p><a href="../program">Look for our Program</a></p>
@@ -26,7 +26,7 @@ Description = "DevOpsDays Singapore will take place at Fort Canning! We're encou
 </div>
 <div class="col-md-4">
   <h3>What to expect from DevOpsDays Singapore</h3>
-  <p>While you're waiting for the 2023 event to arrive, enjoy some prior DevOpsDays Singapore content.</p>
+  <p>While you're waiting for the 2024 event to arrive, enjoy some prior DevOpsDays Singapore content.</p>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/s71OD4zG9pc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <!-- View the {{< event_link page="program" text="program." >}} -->
   <p>More DevOpsDays Singapore videos:</p>
