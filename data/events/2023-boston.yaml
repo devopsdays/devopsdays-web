@@ -237,11 +237,11 @@ program:
     date: 2023-10-16
     start_time: "16:35"
     end_time: "17:00"
-  - title: "After-Event - Location TBD"
+  - title: "After-Event - See above"
     type: custom
     date: 2023-10-16
     start_time: "17:00"
-    end_time: "19:00"
+    end_time: "20:00"
 
 # Day 2
   - title: "Registration & Breakfast"
