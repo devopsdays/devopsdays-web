@@ -10,7 +10,7 @@ Description = "DevOpsDays Poznań 2023"
 **DevOpsDays is coming to Poznań in 2023, Poland again! More info coming soon!**
 
 <p>We're currently collecting topics for presentations and once we get few interesting ones, we will update the page with event dates and details.</p>
-<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSeaelybJuUpcNmculGycoEKQsshIfp5evZuKGcNsmH-klNizg/viewform" target="_blank">Prpose your talk!</a></p>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSeaelybJuUpcNmculGycoEKQsshIfp5evZuKGcNsmH-klNizg/viewform" target="_blank">Propose your talk!</a></p>
 
 
 <div class="row">
