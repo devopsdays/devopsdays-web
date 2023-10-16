@@ -106,3 +106,25 @@ sponsors:
   # - id: samplesponsorname
   #   level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+ - id: arresteddevops
+    level: community
+    
+ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: platinum
+    label: Platinum
+  - id: gold
+    label: Gold
+    # max: 10
+  - id: silver
+    label: Silver
+    # max: 0 # This is the same as omitting the max limit.
+  - id: community
+    label: Community
+  - id: happyhour
+    label: "Happy Hour Sponsor"
