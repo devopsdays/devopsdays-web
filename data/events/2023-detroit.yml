@@ -120,17 +120,17 @@ program:
     date: 2023-10-18
     start_time: "08:30"
     end_time: "09:30"
+  - title: "Opening Remarks"
+    type: custom
+    date: 2023-10-18
+    start_time: "09:30"
+    end_time: "09:45"
   - title: "ell-marquez"
     type: talk
     date: 2023-10-18
-    start_time: "09:30"
-    end_time: "10:15"
-  - title: "Sponsors"
-    type: custom
-    date: 2023-10-18
-    start_time: "10:15"
+    start_time: "09:45"
     end_time: "10:30"
-  - title: "Break"
+  - title: "Sponsors"
     type: custom
     date: 2023-10-18
     start_time: "10:30"
@@ -150,40 +150,40 @@ program:
     date: 2023-10-18
     start_time: "11:45"
     end_time: "12:30"
-  - title: "dave-stanke"
-    type: talk
-    date: 2023-10-18
-    start_time: "12:30"
-    end_time: "13:00"
   - title: "Sponsors"
     type: custom
     date: 2023-10-18
-    start_time: "13:00"
-    end_time: "13:15"
+    start_time: "12:30"
+    end_time: "12:45"
   - title: "mark-peters"
     type: talk
     date: 2023-10-18
-    start_time: "13:15"
-    end_time: "13:45"
-  - title: "Break"
-    type: custom
-    date: 2023-10-18
-    start_time: "13:45"
-    end_time: "14:00"
+    start_time: "12:45"
+    end_time: "13:15"
   - title: "Ignites"
     type: ignite
     date: 2023-10-18
-    start_time: "14:00"
-    end_time: "14:24"
+    start_time: "13:15"
+    end_time: "13:45"
   - title: "Open Space Planning"
-    type: custom
+    type: open-space
     date: 2023-10-18
-    start_time: "14:24"
+    start_time: "13:45"
+    end_time: "14:15"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2023-10-19
+    start_time: "14:15"
     end_time: "14:50"
-  - title: "Open Spaces"
-    type: custom
-    date: 2023-10-18
-    start_time: "14:20"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2023-10-19
+    start_time: "14:50"
+    end_time: "15:25"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2023-10-19
+    start_time: "15:25"
     end_time: "17:00"
   - title: "Closing Remarks"
     type: custom
@@ -200,67 +200,82 @@ program:
     date: 2023-10-19
     start_time: "08:30"
     end_time: "09:30"
+  - title: "Opening Remarks"
+    type: custom
+    date: 2023-10-19
+    start_time: "09:30"
+    end_time: "09:45"
   - title: "rain-leander"
     type: talk
     date: 2023-10-19
-    start_time: "09:30"
-    end_time: "10:00"
-  - title: "Sponsors"
-    type: custom
-    date: 2023-10-19
-    start_time: "10:00"
+    start_time: "09:45"
     end_time: "10:15"
   - title: "Break"
     type: custom
     date: 2023-10-19
     start_time: "10:15"
     end_time: "10:30"
-  - title: "jim-barton"
-    type: talk
-    date: 2023-10-19
-    start_time: "10:30"
-    end_time: "11:00"
-  - title: "michael-shen"
-    type: talk
-    date: 2023-10-19
-    start_time: "11:00"
-    end_time: "11:30"
   - title: "Sponsors"
     type: custom
     date: 2023-10-19
-    start_time: "11:30"
+    start_time: "10:30"
+    end_time: "10:45"
+  - title: "jim-barton"
+    type: talk
+    date: 2023-10-19
+    start_time: "10:45"
+    end_time: "11:15"
+  - title: "michael-shen"
+    type: talk
+    date: 2023-10-19
+    start_time: "11:15"
     end_time: "11:45"
   - title: "Lunch"
     type: custom
     date: 2023-10-19
     start_time: "11:45"
     end_time: "12:30"
+  - title: "Sponsors"
+    type: custom
+    date: 2023-10-19
+    start_time: "12:30"
+    end_time: "12:45"
+  - title: "dave-stanke"
+    type: talk
+    date: 2023-10-19
+    start_time: "12:45"
+    end_time: "13:15"
   - title: "manish-sharma"
     type: talk
     date: 2023-10-19
-    start_time: "12:30"
-    end_time: "13:00"
+    start_time: "13:15"
+    end_time: "13:45"
   - title: "Ignites"
     type: ignite
     date: 2023-10-19
-    start_time: "13:00"
-    end_time: "13:30"
-  - title: "Open Space Planning"
-    type: custom
-    date: 2023-10-19
-    start_time: "13:30"
-    end_time: "14:00"
-  - title: "Break"
-    type: custom
-    date: 2023-10-19
-    start_time: "14:00"
+    start_time: "13:45"
     end_time: "14:15"
-  - title: "Open Spaces"
-    type: custom
+  - title: "Open Space Planning"
+    type: open-space
     date: 2023-10-19
     start_time: "14:15"
+    end_time: "14:45"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2023-10-19
+    start_time: "14:45"
+    end_time: "15:20"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2023-10-19
+    start_time: "15:20"
+    end_time: "15:55"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2023-10-19
+    start_time: "15:55"
     end_time: "16:30"
-  - title: "Closing & Sponsor Raffle"
+  - title: "Sponsor Raffle & Closing Remarks"
     type: custom
     date: 2023-10-19
     start_time: "16:30"
@@ -279,8 +294,6 @@ ignites:
   - title: "walt-ribeiro"
     date: 2023-10-19
   - title: "ajuna-kyaruzi-ig"
-    date: 2023-10-19
-  - title: "manish-sharma"
     date: 2023-10-19
   - title: "jr-beaudoin"
     date: 2023-10-19
