@@ -22,5 +22,5 @@ She has spoken and presented at the global Agile 2019 conference, Agile
 India 2020, Agile Marketing, Agile Indy, Agile Games West, Agile
 Portland, Agile Marketing Indy and various events in Chicago, Ohio, New
 Orleans, New York City, and Victoria, BC. She has served as Women in
-Agile Regional Chair, Agile Marketing Indianapolis Chairperson, and many
-others.
+Agile Regional Representative, Agile Marketing Indianapolis Board
+Member, and many others.

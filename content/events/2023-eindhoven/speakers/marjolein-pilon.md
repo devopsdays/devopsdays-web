@@ -7,4 +7,4 @@ image = "marjolein-pilon.jpg"
 type = "speaker"
 linktitle = "marjolein-pilon"
 +++
-Marjolein is a freelance Scrum Master from the Netherlands, currently serving three teams at Rabobank. She loves to inspire other agile enthusiasts and writes blogs about creative team sessions she facilitates for her teams. She's also passionate about planet earth (our most important stakeholder!) and is raising awareness in the scrum community to become more carbon efficient.
+Marjolein Pilon is an enthusiastic, full-of-ideas and energizing Scrum Master, currently serving 2 teams at Alliander. She is also passionate about Planet Earth (our most important stakeholder!) and is raising climate awareness in the IT and Agile community by giving trainings, workshops and talks about reducing the carbon footprint of IT.

@@ -212,8 +212,8 @@ would like to put together a custom package, let us know.
       <td style="padding: 5px" align="center"><strike>$500</strike></td>
     </tr>
     <tr>
-      <td style="padding: 5px" aling="left">Breakfast buffet (both days) - Signage provided</td>
-      <td style="padding: 5px" align="center">$500</td>
+      <td style="padding: 5px" aling="left"><strike>Breakfast buffet (both days) - Signage provided</strike></td>
+      <td style="padding: 5px" align="center"><strike>$500</strike></td>
     </tr>
     <tr>
       <td style="padding: 5px" aling="left">Day 1 Afternoon snack in expo hall - Signage provided</td>

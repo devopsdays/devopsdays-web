@@ -7,9 +7,13 @@ Description = "devopsdays indianapolis 2023"
 
 <h2>{{< event_start >}} - {{< event_end >}}</h2>
 
-<img style="float: center; max-width: 500px; padding: 0px 20px 20px 0px" src="/events/2023-indianapolis/logo-square.jpg"></img>
+<img style="float: center; max-width: 600px; padding: 0px 20px 20px 0px" src="/events/2023-indianapolis/logo-square.jpg"></img>
 
 Follow us on <a href="https://www.linkedin.com/company/devopsdaysindy/">LinkedIn</a>, <a href="https://twitter.com/devopsdaysindy">Twitter</a>, <a href="https://www.facebook.com/devopsdaysindy/">Facebook</a> and <a href="https://www.instagram.com/devopsdaysindy/">Instagram</a>.
+<br/>
+Join us on <a href="https://slack.indyhackers.org/">IndyHackers slack</a> in #devopsdaysindy.
+<br/>
+
 <br/>
 <br/>
 

@@ -15,17 +15,17 @@ startdate: 2023-12-16T09:00:00-03:00 # The start date of your event. Leave blank
 enddate:  2023-12-16T18:00:00-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
+cfp_date_start:  2023-09-01T09:00:00-03:00
+cfp_date_end:  2023-10-29T00:00:00-03:00
 cfp_date_announce:  # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://www.papercall.io/dodssa2023" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: 2023-09-01T09:00:00-03:00
+registration_date_end: 2023-12-01T09:00:00-03:00
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://dodssa2023.eventize.com.br" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 masthead_background: "bg-dodssa.jpg"
 sharing_image: "ssa-sharing.jpg"
@@ -38,9 +38,9 @@ location: "Salvador, BA, BR" # Defaults to city, but you can make it the venue n
 location_address: "Instituto de Matemática e Estatística da UFBA - Auditório - R. Barão de Jeremoabo, s/n - Ondina, Salvador - BA, 40170-115" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
   - name: location
- # - name: registration
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -92,6 +92,11 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/igor-bahia-31b7b06b/"
     image: "igor-bahia.png"
 
+  - name: "Elayne Lemos"
+    linkedin: "https://www.linkedin.com/in/elaynelemos"
+    image: "elayne-lemos.jpg"
+  
+
 organizer_email: "salvador@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
@@ -100,6 +105,8 @@ sponsors:
   - id: samplesponsorname
     level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: kubeevents
+    level: community
   - id: arresteddevops
     level: community
 
