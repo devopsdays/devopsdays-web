@@ -73,6 +73,20 @@ Description = "Sponsor devopsdays Montreal 2023"
   color: white;
 }
 
+.sold-out:before {
+  content: "SOLD OUT!";
+}
+
+.sold-out{
+  color: #d32041;
+  font-size: 10px;
+  font-weight: bold;
+  border-color: #d32041;
+  border-width: thin;
+  border-style: solid;
+  border-radius: 15px;
+}
+
 
 </style>
 
@@ -131,7 +145,7 @@ Our beautiful city is lucky to have an increasingly diverse tech community, and 
     <th class="bronze-silver">Non-profit**</th>
   </tr>
   <tr><td class="regular">Price (USD)</td><td>$5,000</td><td>$5,000</td><td>$4,000</td><td>$2,500</td><td>$4,000</td><td>$6,500</td><td>$9,000</td><td>$12,000</td><td>$2,000</td><td>$2,000</td></tr>
-  <tr><td class="regular">Buy now!</td><td><div id="paypal-button-lunch" class="paypal-btn"></div></td><td><div id="paypal-button-cocktail" class="paypal-btn"></div></td><td><div id="paypal-button-lanyard" class="paypal-btn"></div></td><td><div id="paypal-button-coffee" class="paypal-btn"></div></td><td><div id="paypal-button-bronze" class="paypal-btn"></div></td><td><div id="paypal-button-silver" class="paypal-btn"></div></td><td><div id="paypal-button-gold" class="paypal-btn"></div></td><td><div id="paypal-button-platinum" class="paypal-btn"></div></td><td><div id="paypal-button-startup" class="paypal-btn"></div></td><td><div id="paypal-button-nonprofit" class="paypal-btn"></div></td></tr>
+  <tr><td class="regular">Buy now!</td><td><div id="paypal-button-lunch" class="paypal-btn"></div></td><td><div class="sold-out"></div></td><td><div id="paypal-button-lanyard" class="paypal-btn"></div></td><td><div id="paypal-button-coffee" class="paypal-btn"></div></td><td><div id="paypal-button-bronze" class="paypal-btn"></div></td><td><div id="paypal-button-silver" class="paypal-btn"></div></td><td><div id="paypal-button-gold" class="paypal-btn"></div></td><td><div id="paypal-button-platinum" class="paypal-btn"></div></td><td><div id="paypal-button-startup" class="paypal-btn"></div></td><td><div id="paypal-button-nonprofit" class="paypal-btn"></div></td></tr>
   <tr><td class="regular">Available</td><td>2</td><td>1</td><td>1</td><td>2</td><td>9</td><td>11</td><td>7</td><td>2</td><td>9</td><td>5</td></tr>
   <tr><td class="regular">Tickets</td><td>3</td><td>3</td><td>1</td><td>1</td><td>2</td><td>3</td><td>5</td><td>8</td><td>1</td><td>2</td></tr>
   <tr><td class="regular">Logo on slides</td><td></td><td></td><td></td><td></td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>

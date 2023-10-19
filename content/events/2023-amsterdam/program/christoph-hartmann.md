@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Security vs. Dev Experience:  Threat … or Opportunity?"
 Type = "talk"
 Speakers = ["christoph-hartmann"]
+Youtube = "XAd647tPXLU"
 +++
 As companies grow, they face the challenge of balancing security and developer experience (DX) while building platforms. There is often a conflict of priorities between developers and security. While platform engineers focus on building a secure foundation for future work, product engineers are closer to customer-facing deadlines and feel the need to cut corners on things like testing and security to meet deadlines. This can negatively impact the application, platform or business security.
 

@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "The common fallacies on platform building"
 Type = "talk"
 Speakers = ["derik-evangelista", "winna-bridgewater"]
+Youtube = "beBclDfvfvk"
 +++
 A fallacy is a kind of error in reasoning that should not be persuasive, but often are. Fallacies may be created unintentionally, or they may be created intentionally in order to deceive other people. The vast majority of the commonly identified fallacies involve arguments, although some involve explanations, or definitions, or other products of reasoning. Sometimes the term "fallacy" is used even more broadly to indicate any false belief or cause of a false belief. 
 

@@ -10,7 +10,10 @@ Description = "devopsdays Vilnius 2023"
         <div class="row">
             <div class="col-md-8">
                 <h2>Welcome to DevOpsDays Vilnius 2023!</h2>
-                <p>First DevOpsDays Vilnius will be in person event held in the Vilnius Tech Park on September 6-7, 2023
+                <p>First DevOpsDays Vilnius will be in person event held in the Vilnius Tech Park on September 6-7, 2023. We expect around 200 people this year.
+                </p>
+                <p>
+                The format includes a single track of 30-minute talks in the morning, followed by Ignite talks (5-minute, auto forwarding slides). There will be Open Spaces sessions in the late afternoon, which is considered a vital portion of the event.
                 </p>
                 <div class="row">
                     <div class="col-md-2">
@@ -30,27 +33,27 @@ Description = "devopsdays Vilnius 2023"
                 </div>
                 <div class="row">
                     <div class="col-md-2">
-                        <strong>Ignite submission</strong>
-                    </div>
-                    <div class="col-md-8">
-                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfeb1MsCAALmzaZ-LvAUw51W4QbtY_RqtwA9_1fjeg_eZWGDg/viewform">Propose Ignite talk</a>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-2">
                         <strong>Registration</strong>
                     </div>
                     <div class="col-md-8">
-                        <a href="https://fienta.com/devopsdays-vilnius-2023">Register to attend the event</a>
+                        <a href="https://fienta.com/devopsdays-vilnius-2023">Register / Buy your ticket here!</a>
                     </div>
                 </div>
-                <div class="row">
-                    <div class="col-md-2">
-                        <strong>Sponsors</strong>
-                    </div>
-                    <div class="col-md-8">
-                        {{< event_link page="sponsor" text="Sponsor the conference">}}
-                    </div>
+                <div class = "row">
+                  <div class = "col-md-2">
+                    <strong>Program</strong>
+                  </div>
+                  <div class = "col-md-8">
+                    Check out the {{< event_link page="program" text="program" >}}
+                  </div>
+                </div>
+                <div class = "row">
+                  <div class = "col-md-2">
+                    <strong>Speakers</strong>
+                  </div>
+                  <div class = "col-md-8">
+                    Check out the {{< event_link page="speakers" text="speakers" >}}
+                  </div>
                 </div>
                 <div class="row">
                     <div class="col-md-2">

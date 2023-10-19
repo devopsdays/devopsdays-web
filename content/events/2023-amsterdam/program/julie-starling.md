@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "How we use Data to Ignite Action"
 Type = "talk"
 Speakers = ["julie-starling"]
+Youtube = "91l3rtL81xs"
 +++
 Are you tired of having the same conversations, delivering “late” and being put under pressure to hit unachievable deadlines? In this session, I’ll walk through how we managed to change the conversation in a highly regulated, risk-averse, financial institution by introducing probabilistic forecasting and flow metrics as well as ditching wasteful estimations. 
 

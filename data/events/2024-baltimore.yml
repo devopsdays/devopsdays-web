@@ -31,7 +31,7 @@ sharing_image: "sharing.jpg"
 # Custom Links
 slack_link: "http://baltimoretechslack.com/"
 sponsor_faq_link: "https://docs.google.com/document/d/1luCJTEva87ORuGPPjBBqDecTopI1XqzFkSGk1MMShYI/edit?usp=sharing"
-sponsor_registration_link: "https://forms.gle/snuih7cVnY9cmUJRA"
+sponsor_registration_link: "https://forms.gle/sjdEgWhLQ5gxAw7Y6"
 
 # Location
 #
@@ -45,7 +45,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: registration
  # - name: program
  # - name: speakers
- # - name: sponsor
+  - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
