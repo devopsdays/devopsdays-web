@@ -1,0 +1,185 @@
+name: "2024-nashville" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2024" # The year of the event. Make sure it is in quotes.
+city: "Nashville" # The displayed city name of the event. Capitalize it.
+event_twitter: "nashvilledevops" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "DevOpsDays Nashville" # Edit this to suit your preferences
+ga_tracking_id: "UA-136135566-2" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2021-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2021-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+# startdate: 2023-04-06T00:00:00-06:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+# enddate: 2023-04-07T00:00:00-06:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate:
+enddate: 
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+# cfp_date_start: 2022-09-01T00:00:00-12:59 # start accepting talk proposals.
+# cfp_date_end: 2023-01-15T00:00:00-12:59 # close your call for proposals.
+# cfp_date_announce: 2023-02-01T00:00:00-12:59   # inform proposers of status
+cfp_date_start:
+cfp_date_end:
+cfp_date_announce:
+# cfp_link: "https://sessionize.com/nashvilledevopsdays2023/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+# registration_date_start: 2023-01-01T23:59:59-06:00   # start accepting registration. Leave blank if registration is not open yet
+# registration_date_end:     # close registration. Leave blank if registration is not open yet.
+registration_date_start:
+registration_date_end:
+
+# registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+# registration_link: "https://www.eventbrite.com/e/125517206343/"   # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# cancel: "true"
+masthead_background: "nashville-skyline.jpg"
+
+# sharing_image: "sharing.png"
+
+# ###########################
+#
+#   Location
+#
+# ###########################
+
+# coordinates: "36.157195,-86.776516" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+# location: "Music City Center, Nashville, TN" # Defaults to city, but you can make it the venue name.
+# location_address: "201 5th Avenue South, Nashville, TN 37203" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+# coordinates:  # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+
+# ###########################
+#
+#   Navigation / Pages
+#
+# ###########################
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  # - name: registration
+  # - name: program
+  # - name: speakers
+  - name: location
+  - name: contact
+  - name: sponsor
+ # - name: propose
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+# ###########################
+#
+#   Team / Organizers
+#
+# ###########################
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Don Bauer"
+    image: "don-bauer.jpg"
+    employer: "S&P Global"
+    github: "lordgnu"
+    twitter: "devopsdon"
+    linkedin: "https://www.linkedin.com/in/devopsdon"
+    bio: "Don Bauer started his career fourteen years ago in a metrics analyst and systems engineering role with Charter Communications. Since then, he has held roles in development, infrastructure, architecture and operations for both enterprise corporations and startups. He immediately recognized a common thread in each role that allowed him to focus on enabling teams and companies to succeed through standardization, simplification, and automation. Don believes companies and teams succeed through transparency and experimentation without the fear of failure. In his current role, Don operates with one simple principle: to automate himself out of a job. Currently, Don is the Director of DevOps Engineering at IHS Markit. He primarily focuses on automating the integration and delivery of software and services, and he supports innovation using technologies like Docker and Kubernetes. Don is also a Docker captain and community leader and organizes several local meetups."
+  # - name: "Jason Greathouse"
+  #   image: "jason-greathouse.jpg"
+  #   twitter: "usrbinjgreat"
+  #   github: "jgreat"
+  # - name: "Chris Gundersen"
+  #   twitter: "techometry"
+  #   website: "https://techometry.com"
+  #   linkedin: "http://linkedin.com/in/techometry"
+  #   image: "place-holder.jpg"
+  #   github: "chrisgundersen"
+  #   employer: "Velocity Risk Underwriters"
+  #   bio: "Chris Gundersen, known as Gunny by friends and law enforcement, is the Head of Technology at Velocity Risk Underwriters based in Green Hills. As a pragmatic polyglot he has been fortunate to have been a part of many fantastic teams that have built loads of awesome things in the last 20+ years. That last part makes him feel old. His favorite piece of recorded music is either Op. 92 from Beethoven's 7th symphony or Jump Around by House of Pain."
+  - name: "Geoff Craig"
+    employer: "Velocity Risk Underwriters"
+    github: "GeoffCraig"
+    image: "geoff-craig.jpg"
+    twitter: "GeoffCraig74"
+    linkedin: "https://www.linkedin.com/in/geoff-craig-7582b71/"
+    bio: "Geoff Craig is the Director of DevOps for Velocity Risk Underwriters and an excited first time organizer for DevOps Days Nashville.  In his free time you can usually find him behind a book, in a strange new city, or behind a guitar playing very badly.  His favorite opening liner is,  'I like long walks on the beach…  and bourbon.'"
+  - name: "Mike Noe"
+    image: "place-holder.jpg"
+    linkedin: "https://www.linkedin.com/in/mike-noe-62777718"
+    bio: "Mike Noe is a 20 year veteran in IT. Including a stint in the US Army as a military intelligence systems maintainer. For the last 12 years or so he has been focused on the Ops side of DevOps, constantly working to bring the practices of Deming, Ohno, Goldratt and more to the forefront of software development and delivery."
+  - name: "Josh Lester"
+    employer: "S&P Global"
+    github: "jslester14"
+    image: "place-holder.jpg"
+    linkedin: "https://www.linkedin.com/in/jslester/"
+
+
+organizer_email: "nashville@devopsdays.org" # Put your organizer email address here
+
+# ###########################
+#
+#   Sponsors / Sponsorships
+#
+# ###########################
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+#  - id: samplesponsorname
+#    level: gold
+#    url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+#  - id: arresteddevops
+#    level: community
+#  - id: aws
+#    level: platinum
+#  - id: morpheus
+#    level: bronze
+#  - id: 2021-cta
+#    level: silver
+#  - id: teleport
+#    level: gold
+#  - id: gitlab
+#    level: gold
+#  - id: instana
+#    level: silver
+#  - id: trendmicro
+#    level: gold
+#  - id: redhat
+#    level: silver
+#  - id: influxdata
+#    level: gold
+#  - id: granulate
+#    level: gold
+#  - id: regscale
+#    level: silver
+#  - id: cloudbees
+#    level: gold
+#  - id: ustglobal
+#    level: gold
+#  - id: spot-by-netapp
+#    level: silver
+#  - id: insightfinder
+#    level: silver
+#  - id: saltworks
+#    level: gold
+
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+# Platinum was removed because we had already sold the Platinum level.
+sponsor_levels:
+  - id: platinum
+    label: Platinum
+    max: 2
+  - id: gold
+    label: Gold
+    max: 0
+  - id: silver
+    label: Silver
+    max: 0 # This is the same as omitting the max limit.
+  - id: bronze
+    label: Bronze
+    max: 2
+  - id: communivty
+    label: Bronze
+    max: 0

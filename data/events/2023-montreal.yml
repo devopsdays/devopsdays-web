@@ -2,7 +2,7 @@ name: "2023-montreal" # The name of the event. Four digit year with the city nam
 year: "2023" # The year of the event. Make sure it is in quotes.
 city: "Montréal" # The displayed city name of the event. Capitalize it.
 event_twitter: "DevOpsDaysMTL" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "DevOpsDays Montreal is coming to the Centre Mont-Royal Nov 1-2. Stay tuned for more info!" # Edit this to suit your preferences
+description: "DevOpsDays Montreal 2023 has been rescheduled :(" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 event_group: "Montréal"
 
@@ -24,7 +24,7 @@ cfp_link: "" # "https://sessionize.com/devopsdays-montreal-2023/" #if you have a
 registration_date_start: 2023-08-07T00:00:00-04:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
-registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_closed: "true" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://www.eventbrite.ca/e/devopsdays-montreal-2023-tickets-643838146227" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 
@@ -40,11 +40,11 @@ location_address: "2200 rue Mansfield, Montréal, Québec, H3A 3R8" #Optional - 
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
-  - name: location
-  - name: registration
+ # - name: location
+ # - name: registration
  # - name: program
-  - name: speakers
-  - name: sponsor
+ # - name: speakers
+ # - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
@@ -133,19 +133,19 @@ organizer_email: "montreal@devopsdays.org" # Put your organizer email address he
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: suse
-    level: gold
-  - id: morgan-stanley
-    level: lunch
-  - id: elastic
-    level: bronze
-  - id: sherweb
-    level: bronze
+  # - id: suse
+  #   level: gold
+  # - id: morgan-stanley
+  #   level: lunch
+  # - id: elastic
+  #   level: bronze
+  # - id: sherweb
+  #   level: bronze
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For

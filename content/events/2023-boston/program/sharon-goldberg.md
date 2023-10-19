@@ -2,6 +2,7 @@
 title: "Securing your CICD Pipeline"
 Type: "talk"
 Speakers: ["sharon-goldberg"]
+sharing_image: "sharon-goldberg.jpg"
 ---
 
 In January, CircleCI was breached. Many teams spent a large part of January rotating secrets and looking for indicators of compromise (IoCs). I think this breach is a really big deal, because it is really exposing the (often massive) attack surface created by our CICD pipelines. I think it’s time that we, as a community, sit down and think through how we want to architect and secure our CICD pipelines. Because this isn’t just about CircleCI. The fundamental problem is that a CICD pipeline needs the power to deploy code into your infrastructure. (After all, the D in CICD is for Deploy!) And deployment requires a high level of privilege, so if your CICD pipeline gets compromised, all those privileges fall into the hands of an adversary.

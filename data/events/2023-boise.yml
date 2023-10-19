@@ -106,12 +106,12 @@ program:
     date: 2023-09-12T08:00:00-07:00
     start_time: "10:50 AM"
     end_time: "11:20 AM"
-  - title: "chris-koehnecke-and-matt-rowland"
+  - title: "peter-chestna"
     type: talk
     date: 2023-09-12T08:00:00-07:00
     start_time: "10:50 AM"
     end_time: "11:20 AM"
-  - title: "aman-sardana-and-bhargav-nachegari"
+  - title: "chris-koehnecke-and-matt-rowland"
     type: talk
     date: 2023-09-12T08:00:00-07:00
     start_time: "10:50 AM"
@@ -126,7 +126,7 @@ program:
     date: 2023-09-12T08:00:00-07:00
     start_time: "11:30 AM"
     end_time: "12:00 PM"
-  - title: "shivay-lamba-and-rishit-dagli"
+  - title: "phil-sautter"
     type: talk
     date: 2023-09-12T08:00:00-07:00
     start_time: "11:30 AM"
@@ -136,6 +136,11 @@ program:
     date: 2023-09-12T08:00:00-07:00
     start_time: "11:30 AM"
     end_time: "12:00 PM"
+  - title: "Break"
+    type: custom
+    date: 2023-09-12T08:00:00-07:00
+    start_time: "12:00 AM"
+    end_time: "12:05 AM"
   - title: "clara-freeman"
     type: talk
     date: 2023-09-12T08:00:00-07:00
@@ -146,12 +151,7 @@ program:
     date: 2023-09-12T08:00:00-07:00
     start_time: "12:15 PM"
     end_time: "12:45 PM"
-  - title: "peter-chestna"
-    type: talk
-    date: 2023-09-12T08:00:00-07:00
-    start_time: "12:15 PM"
-    end_time: "12:45 PM"
-  - title: "phil-sautter"
+  - title: "shivay-lamba-and-rishit-dagli"
     type: talk
     date: 2023-09-12T08:00:00-07:00
     start_time: "12:15 PM"

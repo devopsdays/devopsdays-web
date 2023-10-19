@@ -37,14 +37,13 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: sponsor
   - name: contact
   - name: conduct
-  - name: propose
   - name: location
   - name: program
   - name: speakers
+# - name: propose
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
-
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
@@ -55,15 +54,9 @@ team_members: # Name is the only required field for team members.
   - name: "Allison Green"
     employer: "Michigan Coalition Against Homelessness"
     image: "white.png"
-  - name: "Dave Barnett"
-    employer: "Blameless"
-    linkedin: "https://www.linkedin.com/in/davebarnett1"
-    image: "white.png"
   - name: "Derek DeJonghe"
     github: "dejonghe"
     linkedin: "https://www.linkedin.com/in/derekdejonghe/"
-    image: "white.png"
-  - name: "Hugo Gayosso"
     image: "white.png"
   - name: "Rex Roof"
     employer: "May Mobility"
@@ -87,12 +80,15 @@ organizer_email: "detroit@devopsdays.org" # Put your organizer email address her
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
-# sponsors:
-#    - id: samplesponsorname
-#      level: gold
-#      url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-#    - id: arresteddevops
-#      level: community
+sponsors:
+   - id: russellvideo
+     level: AV
+   - id: rightbrain-2023
+     level: silver
+   - id: vmware-tanzu-2023
+     level: platinum
+   - id: may-mobility
+     level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -121,151 +117,183 @@ sponsor_levels:
 program:
   - title: "Registration, Breakfast"
     type: custom
-    date: 2023-10-18T00:00:00+04:00
+    date: 2023-10-18
     start_time: "08:30"
     end_time: "09:30"
+  - title: "Opening Remarks"
+    type: custom
+    date: 2023-10-18
+    start_time: "09:30"
+    end_time: "09:45"
   - title: "ell-marquez"
     type: talk
-    date: 2023-10-18T00:00:00+04:00
-    start_time: "09:30"
-    end_time: "10:15"
+    date: 2023-10-18
+    start_time: "09:45"
+    end_time: "10:30"
   - title: "Sponsors"
     type: custom
-    date: 2023-10-18T00:00:00+04:00
-    start_time: "10:15"
-    end_time: "10:30"
-  - title: "Break"
-    type: custom
-    date: 2023-10-18T00:00:00+04:00
+    date: 2023-10-18
     start_time: "10:30"
     end_time: "10:45"
   - title: "ajuna-kyaruzi"
     type: talk
-    date: 2023-10-18T00:00:00+04:00
+    date: 2023-10-18
     start_time: "10:45"
     end_time: "11:15"
   - title: "chris-short"
     type: talk
-    date: 2023-10-18T00:00:00+04:00
+    date: 2023-10-18
     start_time: "11:15"
     end_time: "11:45"
   - title: "Lunch"
     type: custom
-    date: 2023-10-18T00:00:00+04:00
+    date: 2023-10-18
     start_time: "11:45"
     end_time: "12:30"
-  - title: "dave-stanke"
-    type: talk
-    date: 2023-10-18T00:00:00+04:00
-    start_time: "12:30"
-    end_time: "13:00"
   - title: "Sponsors"
     type: custom
-    date: 2023-10-18T00:00:00+04:00
-    start_time: "13:00"
-    end_time: "13:15"
-  - title: "randy-pagels"
+    date: 2023-10-18
+    start_time: "12:30"
+    end_time: "12:45"
+  - title: "mark-peters"
     type: talk
-    date: 2023-10-18T00:00:00+04:00
+    date: 2023-10-18
+    start_time: "12:45"
+    end_time: "13:15"
+  - title: "Ignites"
+    type: ignite
+    date: 2023-10-18
     start_time: "13:15"
     end_time: "13:45"
-  - title: "Break"
-    type: custom
-    date: 2023-10-18T00:00:00+04:00
-    start_time: "13:45"
-    end_time: "14:00"
-  - title: "Ignite Presentations"
-    type: custom
-    date: 2023-10-18T00:00:00+04:00
-    start_time: "14:00"
-    end_time: "14:20"
   - title: "Open Space Planning"
-    type: custom
-    date: 2023-10-18T00:00:00+04:00
-    start_time: "14:20"
+    type: open-space
+    date: 2023-10-18
+    start_time: "13:45"
+    end_time: "14:15"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2023-10-18
+    start_time: "14:15"
     end_time: "14:50"
-  - title: "Open Spaces"
-    type: custom
-    date: 2023-10-18T00:00:00+04:00
-    start_time: "14:20"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2023-10-18
+    start_time: "14:50"
+    end_time: "15:25"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2023-10-18
+    start_time: "15:25"
     end_time: "17:00"
   - title: "Closing Remarks"
     type: custom
-    date: 2023-10-18T00:00:00+04:00
+    date: 2023-10-18
     start_time: "17:00"
     end_time: "17:10"
   - title: "Afterparty"
     type: custom
-    date: 2023-10-18T00:00:00+04:00
+    date: 2023-10-18
     start_time: "17:10"
     end_time: "20:00"
   - title: "Registration, Breakfast"
     type: custom
-    date: 2023-10-19T00:00:00+04:00
+    date: 2023-10-19
     start_time: "08:30"
     end_time: "09:30"
+  - title: "Opening Remarks"
+    type: custom
+    date: 2023-10-19
+    start_time: "09:30"
+    end_time: "09:45"
   - title: "rain-leander"
     type: talk
-    date: 2023-10-19T00:00:00+04:00
-    start_time: "09:30"
-    end_time: "10:00"
-  - title: "Sponsors"
-    type: custom
-    date: 2023-10-19T00:00:00+04:00
-    start_time: "10:00"
+    date: 2023-10-19
+    start_time: "09:45"
     end_time: "10:15"
   - title: "Break"
     type: custom
-    date: 2023-10-19T00:00:00+04:00
+    date: 2023-10-19
     start_time: "10:15"
     end_time: "10:30"
-  - title: "jim-barton"
-    type: talk
-    date: 2023-10-19T00:00:00+04:00
-    start_time: "10:30"
-    end_time: "11:00"
-  - title: "michael-shen"
-    type: talk
-    date: 2023-10-19T00:00:00+04:00
-    start_time: "11:00"
-    end_time: "11:30"
   - title: "Sponsors"
     type: custom
-    date: 2023-10-19T00:00:00+04:00
-    start_time: "11:30"
+    date: 2023-10-19
+    start_time: "10:30"
+    end_time: "10:45"
+  - title: "jim-barton"
+    type: talk
+    date: 2023-10-19
+    start_time: "10:45"
+    end_time: "11:15"
+  - title: "michael-shen"
+    type: talk
+    date: 2023-10-19
+    start_time: "11:15"
     end_time: "11:45"
   - title: "Lunch"
     type: custom
-    date: 2023-10-19T00:00:00+04:00
+    date: 2023-10-19
     start_time: "11:45"
     end_time: "12:30"
+  - title: "Sponsors"
+    type: custom
+    date: 2023-10-19
+    start_time: "12:30"
+    end_time: "12:45"
+  - title: "dave-stanke"
+    type: talk
+    date: 2023-10-19
+    start_time: "12:45"
+    end_time: "13:15"
   - title: "manish-sharma"
     type: talk
-    date: 2023-10-19T00:00:00+04:00
-    start_time: "12:30"
-    end_time: "13:00"
+    date: 2023-10-19
+    start_time: "13:15"
+    end_time: "13:45"
   - title: "Ignites"
-    type: custom
-    date: 2023-10-19T00:00:00+04:00
-    start_time: "13:00"
-    end_time: "13:30"
-  - title: "Open Space Planning"
-    type: custom
-    date: 2023-10-19T00:00:00+04:00
-    start_time: "13:30"
-    end_time: "14:00"
-  - title: "Break"
-    type: custom
-    date: 2023-10-19T00:00:00+04:00
-    start_time: "14:00"
+    type: ignite
+    date: 2023-10-19
+    start_time: "13:45"
     end_time: "14:15"
-  - title: "Open Spaces"
-    type: custom
-    date: 2023-10-19T00:00:00+04:00
+  - title: "Open Space Planning"
+    type: open-space
+    date: 2023-10-19
     start_time: "14:15"
+    end_time: "14:45"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2023-10-19
+    start_time: "14:45"
+    end_time: "15:20"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2023-10-19
+    start_time: "15:20"
+    end_time: "15:55"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2023-10-19
+    start_time: "15:55"
     end_time: "16:30"
-  - title: "Closing & Sponsor Raffle"
+  - title: "Sponsor Raffle & Closing Remarks"
     type: custom
-    date: 2023-10-19T00:00:00+04:00
+    date: 2023-10-19
     start_time: "16:30"
     end_time: "17:00"
+ignites:
+  - title: "ray-welker"
+    date: 2023-10-18
+  - title: "richard-boyd-ii"
+    date: 2023-10-18
+  - title: "greg-lind"
+    date: 2023-10-18
+  - title: "josh-klein"
+    date: 2023-10-18
+  - title: "ram-iyengar"
+    date: 2023-10-19
+  - title: "walt-ribeiro"
+    date: 2023-10-19
+  - title: "ajuna-kyaruzi-ig"
+    date: 2023-10-19
+  - title: "jr-beaudoin"
+    date: 2023-10-19
