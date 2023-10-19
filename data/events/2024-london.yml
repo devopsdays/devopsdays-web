@@ -73,7 +73,7 @@ team_members: # Name is the only required field for team members.
   - name: "Henti Smith"
   - name: "Issy Long"
     pronouns: "they/them"
-    mastodon: "https://hachyderm.io/@issyl0"
+    mastodon: "https://strangeobject.space/@issy"
     twitter: "issyl0"
     github: "issyl0"
   - name: "Louise Paling"
