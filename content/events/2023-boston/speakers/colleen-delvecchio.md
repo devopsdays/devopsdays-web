@@ -2,6 +2,7 @@
 Title = "Colleen DelVecchio"
 type = "speaker"
 image = "colleen-delvecchio.jpg"
+sharing_image = "colleen-delvecchio.jpg"
 +++
 
 Colleen is the Chief Strategist and Owner at Maxady LLC with a passion for empowering individuals and businesses to leverage their strengths, increase equity & inclusion, and navigate increasingly complex business environments. She is a certified Gallup CliftonStrengths Coach, engagement consultant, keynote speaker, and career coach.

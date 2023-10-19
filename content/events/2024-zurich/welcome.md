@@ -78,7 +78,7 @@ Description = "DevOpsDays Zurich 2024"
     Do you need a {{< event_link page="hotel" text="hotel" >}} ?
   </div>
 </div>
-
+-->
 <div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
@@ -105,7 +105,6 @@ Description = "DevOpsDays Zurich 2024"
     {{< event_link page="sponsor" text="Sponsor the conference!" >}}
   </div>
 </div>
--->
 
 <div class = "row">
   <div class = "col-md-2">

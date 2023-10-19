@@ -14,8 +14,8 @@
   publish = "public/"
   skip_processing = true
   
-[build.processing]
-  skip_processing = true
+#[build.processing]
+# skip_processing = true
 
 [context.production.environment]
    HUGO_VERSION = "0.102.3"
@@ -37,5 +37,5 @@
     Access-Control-Allow-Origin = "*"
     
     
-[[plugins]]
- package = "netlify-plugin-hashfiles"
+#[[plugins]]
+# package = "netlify-plugin-hashfiles"
