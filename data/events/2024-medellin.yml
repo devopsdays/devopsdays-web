@@ -1,0 +1,213 @@
+name: "2024-medellin" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2024" # The year of the event. Make sure it is in quotes.
+city: "Medellín" # The displayed city name of the event. Capitalize it.
+event_twitter: "DevopsdaysMed" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "DevOpsDays is returning to Medellín.  More updates will be available soon." # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2024-04-27T08:00:00-06:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2024-04-28T08:00:00-06:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start:  2023-01-24T08:00:00-06:00 # start accepting talk proposals.
+cfp_date_end:  2023-02-18T08:00:00-06:00 # close your call for proposals.
+cfp_date_announce: 2023-04-18T08:00:00-06:00 # inform proposers of status
+
+cfp_link: ""
+
+registration_date_start:  # start accepting registration. Leave blank if registration is not open yet
+registration_date_end:  # close registration. Leave blank if registration is not open yet.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: #  "https://www.ticketopolis.com/medellindevopsdays2020/tickets.aspx" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "6.2339363,-75.5887074" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "¡Conferencia Virtual!" # Defaults to city, but you can make it the venue name.
+#
+# location_address: "Carrera 43A (Av. El Poblado) con Calle 30, Medellín, Antioquia, Colombia" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: Spanish
+    url: "https://devopsdays.io/"
+ # - name: location
+ # - name: propose
+ #   url: "https://www.papercall.io/dodmded2023"
+#  - name: registration
+#    url: "https://www.ticketopolis.com/devopsdaysmdev2020"
+#  - name: program
+#    url: "https://devopsdays.io/agenda-2"
+ # - name: speakers
+  - name: sponsor
+#  - name: speakers
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+# - name: ""
+#   employer: ""
+#   role: ""
+#   bio: ""
+#   twitter: ""
+#   linkedin: "https://"
+#   facebook: ""
+#   website: ""
+#   github: ""
+#   image: ""  
+  - name: "Carlos Zapata"
+    employer: "Rockwell Automation"
+    linkedin: "https://www.linkedin.com/in/carlos-zapata-96479275/"
+#   bio: "Ingeniero electrónico con una experiencia laboral de más de 20 años en el sector tecnológico y en Gestión de Proyectos. Formador en marcos, técnicas y prácticas de la transformación ágil organizacional, forjando estrategias de crecimiento orgánico en áreas de TI, innovación, diseño, implementacion de sistemas, riesgos, transformación digital, entre otros." 
+    image: "zapata.png"    
+ 
+  - name: "Miguelangel Pineda"
+    employer: "Walmart Chile"
+    image: "miguelangel.png"
+    linkedin: "https://www.linkedin.com/in/miguelangel-pineda-garcia/"  
+#   role: ""
+  - name: "Camila Gallego"
+    employer: "Agile & Consulting Group Co"
+    image: "camila.png"  
+#   bio: ""
+#   twitter: ""
+  - name: "Alejandra Pérez"
+    employer: "Devops Colombia"
+    image: "alejandra.png"  
+#   linkedin: "https://"
+#   facebook: ""
+#   website: ""
+#   github: ""
+  - name: "Chrstian Gómez"
+    employer: "Olimpia IT"
+    image: "christian.png"
+    linkedin: "https://www.linkedin.com/in/chrisgpz/" 
+#  - name: "Camila Gallego"
+#    employer: "Agile Consulting"
+#    image: "camila.png" 
+#   role: ""
+#   bio: ""
+#   twitter: ""
+#   linkedin: "https://"
+#   facebook: ""
+#   website: ""
+#   github: "" 
+#  - name: "Tomás Arismendy"
+#    employer: "Bancolombia"
+#    image: "tomas.png"  
+#   role: ""
+#   bio: ""
+#   twitter: ""
+#   linkedin: "https://"
+#   facebook: ""
+#   website: ""
+#   github: ""
+#   image: ".jpg"  
+#  - name: "Miguel Teheran"
+#    employer: "Globant"
+#    image: "miguel.png" 
+#    twitter: "Mteheran"
+#    linkedin: "https://www.linkedin.com/in/miguel-angel-teheran-garcia-1a034525/"
+#   facebook: ""
+#   website: ""
+#   github: ""  
+#   role: ""
+#   bio: ""
+#   twitter: ""
+#   linkedin: "https://"
+#   facebook: ""
+#   website: ""
+#   github: ""
+#   role: ""
+#   bio: ""
+#   twitter: ""
+#   linkedin: "https://"
+#   facebook: ""
+#   website: ""
+#   github: ""
+#   image: ""  
+
+organizer_email: "medellin@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+# - id: samplesponsorname
+#   level: gold
+#  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+#  - id: harness
+#    level: diamond
+#  - id: devops-colombia
+#    level: diamond
+#  - id: 2020-devco
+#    level: diamond
+#  - id: harness
+#    level: diamond
+#  - id: fluidattacks
+#    level: diamond
+#  - id: sonatype
+#    level: diamond
+#  - id: elastic
+#    level: platinum
+#  - id: githublogo
+#    level: platinum
+#  - id: herzum
+#    level: platinum
+#  - id: hashicorp 
+#    level: platinum
+#  - id: newrelic
+#    level: platinum
+#  - id: pragma
+#    level: platinum
+#  - id: os_enterprise
+#    level: platinum
+#  - id: ceiba
+#    level: gold
+#  - id: teaminternational
+#    level: gold
+#  - id: sqasa
+#    level: gold
+#  - id: payucolombia
+#    level: platinum
+#  - id: 2022-paloalto
+#    level: platinum
+#  - id: javeriana
+#    level: platinum
+#  - id: linux-professional-institute
+#    level: socialmedia
+#  - id: intersoftware
+#    level: socialmedia
+#  - id: certiprof
+#    level: socialmedia
+#  - id: devopsinstitute
+#    level: socialmedia
+#  - id: rutan
+#    level: socialmedia
+#  - id: alcaldiamedellin
+#    level: socialmedia
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: diamond
+    label: Diamond
+  - id: platinum
+    label: Platinum
+  - id: gold
+    label: Gold
+  - id: socialmedia
+    label: Social Media
