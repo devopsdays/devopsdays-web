@@ -141,7 +141,7 @@ sponsors:
     level: event
   - id: infomaniak
     level: gold
-  - id: infometis_mibex
+  - id: infometismibex
     level: silver
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
