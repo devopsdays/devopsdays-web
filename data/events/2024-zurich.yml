@@ -19,7 +19,7 @@ cfp_date_start:  2023-11-01T00:00:00+02:00 # start accepting talk proposals.
 cfp_date_end:  2023-01-31T23:59:59+02:00 # close your call for proposals.
 cfp_date_announce: 2023-11-01T00:00:00+02:00 # inform proposers of status
 
-cfp_open: "false"
+cfp_open: "true"
 cfp_link: "https://sessionize.com/devopsdays-zurich-2024/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2023-11-08T00:00:00+02:00
@@ -36,12 +36,12 @@ location: "Alte Kaserne Winterthur" # Defaults to city, but you can make it the 
 location_address: "Technikumstrasse 8, 8400 Winterthur, Switzerland" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-#  - name: propose
+  - name: propose
 #  - name: program
 #  - name: speakers
   - name: location
 #  - name: registration
-#  - name: sponsor
+  - name: sponsor
   - name: diversity
   - name: contact
   - name: conduct
@@ -133,6 +133,16 @@ sponsors:
     level: community
   - id: puresivefilms
     level: community
+  - id: zhlke
+    level: event
+  - id: avega
+    level: event
+  - id: adnovum
+    level: event
+  - id: infomaniak
+    level: gold
+  - id: infometismibex
+    level: silver
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
