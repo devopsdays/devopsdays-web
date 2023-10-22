@@ -133,6 +133,16 @@ sponsors:
     level: community
   - id: puresivefilms
     level: community
+  - id: zhlke
+    level: event
+  - id: avega
+    level: event
+  - id: adnovum
+    level: event
+  - id: infomaniak
+    level: gold
+  - id: infometismibex
+    level: silver
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 

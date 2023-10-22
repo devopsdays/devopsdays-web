@@ -124,6 +124,11 @@ sponsors:
     level: safo
   - id: enter
     level: safo
+  - id: interceleri
+    level: safo
+  - id: aws
+    level: support
+
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -192,20 +197,20 @@ program:
     end_time: "13:00"
     background_color: "#EDBB99"
 
-  - title: "Aguardando Confirmação"
-    type: custom
+  - title: "wolnei"
+    type: talk
     date: 2022-11-11
     start_time: "13:00"
     end_time: "13:25"
 
-  - title: "Aguardando Confirmação"
-    type: custom
+  - title: "carlos-macapuna"
+    type: talk
     date: 2022-11-11
     start_time: "13:30"
     end_time: "13:55"
 
-  - title: "Aguardando Confirmação"
-    type: custom
+  - title: "carlos-oeiras"
+    type: talk
     date: 2022-11-11
     start_time: "14:00"
     end_time: "14:25"
@@ -229,8 +234,8 @@ program:
     start_time: "15:40"
     end_time: "16:30"
 
-  - title: "Keynote de Encerramento"
-    type: custom
+  - title: "marcelo-palladino"
+    type: talk
     date: 2022-11-11
     start_time: "16:30"
     end_time: "17:15"
