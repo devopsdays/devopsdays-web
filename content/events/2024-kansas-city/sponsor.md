@@ -68,29 +68,29 @@ The best thing to do is send engineers to interact with the experts at devopsday
     </tr>
      <tr>
       <td>Social media shout-out</td>
-      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png"><br/>x4</td>
-      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png"><br/>x3</td>
-      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png"><br/>x1</td>
-      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png"><br/>x1</td>
+      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png" width="50"><br/>x4</td>
+      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png" width="50"><br/>x3</td>
+      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png" width="50"><br/>x1</td>
+      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png" width="50"><br/>x1</td>
     </tr>
      <tr>
       <td>Logo on devopsdays KC website</td>
-      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png"></td>
-      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png"></td>
-      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png"></td>
-      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png"></td>
+      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png" width="50"></td>
+      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png" width="50"></td>
+      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png" width="50"></td>
+      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png" width="50"></td>
     </tr>
      <tr>
       <td>Logo on marketing materials</td>
-      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png"></td>
-      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png"></td>
-      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png"></td>
+      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png" width="50"></td>
+      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png" width="50"></td>
+      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png" width="50"></td>
       <td align="center"></td>
     </tr>
      <tr>
       <td>Logo on dedicated slide during breaks</td>
-      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png"></td>
-      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png"></td>
+      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png" width="50"></td>
+      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png" width="50"></td>
       <td align="center"></td>
       <td align="center"></td>
     </tr>
@@ -98,47 +98,47 @@ The best thing to do is send engineers to interact with the experts at devopsday
       <td>Logo on shared slides during breaks</td>
       <td align="center"></td>
       <td align="center"></td>
-      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png"></td>
-      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png"></td>
+      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png" width="50"></td>
+      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png" width="50"></td>
     </tr>
      <tr>
       <td>Logo on participant emails</td>
-      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png"></td>
-      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png"></td>
-      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png"></td>
+      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png" width="50"></td>
+      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png" width="50"></td>
+      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png" width="50"></td>
       <td align="center"></td>
     </tr>
      <tr>
       <td>Dedicated table in sponsor area (w/ 2 chairs)</td>
-      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png"><br/><small>prominent<br/>placement</small></td>
-      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png"></td>
+      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png" width="50"><br/><small>prominent placement</small></td>
+      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png" width="50"></td>
       <td align="center"></td>
       <td align="center"></td>
     </tr>
      <tr>
       <td>Shout-out from MCs at kickoff and breaks</td>
-      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png"><br/></td>
-      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png"></td>
+      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png" width="50"><br/></td>
+      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png" width="50"></td>
       <td align="center"></td>
       <td align="center"></td>
     </tr>
       <tr>
       <td>Dedicated logo slide during breaks</td>
-      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png"></td>
-      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png"></td>
+      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png" width="50"></td>
+      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png" width="50"></td>
       <td align="center"></td>
       <td align="center"></td>
     </tr>
      <tr>
       <td>One-minute pitch between talks</td>
       <td align="center"></td>
-      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png"></td>
+      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png" width="50"></td>
       <td align="center"></td>
       <td align="center"></td>
     </tr>
      <tr>
       <td>Five-minute pitch between talks</td>
-      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png"></td>
+      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png" width="50"></td>
       <td align="center"></td>
       <td align="center"></td>
       <td align="center"></td>
