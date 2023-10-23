@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Dealing with drag"
 Type = "talk"
 Speakers = ["stefan-holdermans"]
+Youtube = "2c9SouZ1t7s"
 +++
 
 Drag is the opposite of flow. Flow is what we want in software development: it is the smooth and uninterrupted movement of work through the development process, all the way into production. It is a state where work progresses steadily and efficiently, without delays, bottlenecks, or excessive interruptions.
