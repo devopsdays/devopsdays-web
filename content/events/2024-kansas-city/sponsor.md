@@ -4,63 +4,226 @@ Type = "event"
 Description = "Sponsor devopsdays Kansas City 2024"
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
-
+We greatly value sponsors for this open event.  If you are interested in sponsoring, please check out our <a href="https://assets.devopsdays.org/events/2024/kansas-city/2024-kansas-city-devopsdays-prospectus.pdf" target="_blank">prospectus</a> or <a href="mailto:kansas-city@devopsdays.org?subject=Interested%20in%20Sponsoring%20devopsdays%20KC%202024">drop us an email</a>.
 <hr>
 
 devopsdays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
 <p>
-Gold sponsors get a full table and Silver sponsors a shared table where they can interact with those interested to come visit during breaks. All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
+Platinum and Gold sponsors get a full table in the sponsor area where they can interact with those interested to come visit during breaks. All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
 <p>
-The best thing to do is send engineers to interact with the experts at devopsdays on their own terms.
-<p>
+The best thing to do is send engineers to interact with the experts at devopsdays KC on their own terms.
 
-<!--
-<hr/>
+<h2>Sponsorship Packages</h2>
 
-<div style="width:590px">
-<table border=1 cellspacing=1>
-  <tr>
-    <th><i>packages</i></th>
-    <th><center><b><u>Bronze<br />1000 usd</u></center></b></th>
-    <th><center><b><u>Silver<br />3000 usd</u></center></b></th>
-    <th><center><b><u>Gold<br />5000 usd</u></center></b></th>
-    <th></th>
-  </tr>
-<tr><td>2 included tickets</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on event website</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on shared slide, rotating during breaks</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on all email communication</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on its own slide, rotating during breaks</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>1 minute pitch to full audience (including streaming audience)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr></tr>
-<tr><td>2 additional tickets (4 in total)</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td>4 additional tickets (6 in total)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>shared table for swag</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td>booth/table space</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
+<table class="table table-bordered table-hover">
+  <thead>
+    <tr>
+      <th scope="col">BENEFITS</th>
+      <th scope="col">PLATINUM</th>
+      <th scope="col">GOLD</th>
+      <th scope="col">BRONZE</th>
+      <th scope="col">COMMUNITY</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Price</td>
+      <td>$12,000<br/><em>2 available</em></td>
+      <td>$9,000<br/><em>6 available</em></td>
+      <td>$3,000<br/><em>unlimited</em></td>
+      <td>Free<br/><em>unlimited</em></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td colspan="3" align="center"><small>
+      Note: Paypal payments include 3% service charge.
+      <br>
+      <a href="mailto:kansas-city@devopsdays.org?subject=devopsdays%20KC%202024%20Sponsorship">Email us</a> if you prefer to pay by check
+      </small></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        <!-- Gold Paypal button  -->
+      PAYPAL BUTTON
+      </td>
+      <td>
+        <!-- Gold Paypal button  -->
+      PAYPAL BUTTON
+      </td>
+      <td>
+        <!-- bronze Paypal button  -->
+      PAYPAL BUTTON
+      </td>
+      <td><a href="mailto:kansas-city@devopsdays.org?subject=Interested%20in%20Community%20Sponsorship%20devopsdays%20KC%202024">Contact us</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Tickets Included</td>
+      <td align="center">6</td>
+      <td align="center">4</td>
+      <td align="center">2</td>
+      <td align="center">2</td>
+    </tr>
+     <tr>
+      <td>Social media shout-out</td>
+      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png"><br/>x4</td>
+      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png"><br/>x3</td>
+      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png"><br/>x1</td>
+      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png"><br/>x1</td>
+    </tr>
+     <tr>
+      <td>Logo on devopsdays KC website</td>
+      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png"></td>
+      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png"></td>
+      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png"></td>
+      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png"></td>
+    </tr>
+     <tr>
+      <td>Logo on marketing materials</td>
+      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png"></td>
+      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png"></td>
+      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png"></td>
+      <td align="center"></td>
+    </tr>
+     <tr>
+      <td>Logo on dedicated slide during breaks</td>
+      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png"></td>
+      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+     <tr>
+      <td>Logo on shared slides during breaks</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png"></td>
+      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png"></td>
+    </tr>
+     <tr>
+      <td>Logo on participant emails</td>
+      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png"></td>
+      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png"></td>
+      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png"></td>
+      <td align="center"></td>
+    </tr>
+     <tr>
+      <td>Dedicated table in sponsor area (w/ 2 chairs)</td>
+      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png"><br/><small>prominent<br/>placement</small></td>
+      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+     <tr>
+      <td>Shout-out from MCs at kickoff and breaks</td>
+      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png"><br/></td>
+      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+      <tr>
+      <td>Dedicated logo slide during breaks</td>
+      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png"></td>
+      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+     <tr>
+      <td>One-minute pitch between talks</td>
+      <td align="center"></td>
+      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+     <tr>
+      <td>Five-minute pitch between talks</td>
+      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+  </tbody>
 </table>
-<hr/>
-There are also opportunities for exclusive special sponsorships. We'll have sponsors for various events with special privileges for the sponsors of these events. If you are interested in special sponsorships or have a creative idea about how you can support the event, send us an email.
-<br/>
-<br/>
 
-<br>
-<br>
-<table border=1 cellspacing=1>
-  <tr>
-    <th><i>Sponsor FAQ</i></th>
-    <th><center><b>Answers to questions frequently asked by sponsors&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</center></b></th>
-    <th></th>
-  </tr>
-<tr><td>What dates/times can we set up and tear down?</td><td></td></tr>
-<tr><td>How do we ship to the venue?</td><td></td></tr>
-<tr><td>How do we ship from the venue?</td><td></td></tr>
-<tr><td>Whom should we send?</td><td></td></tr>
-<tr><td>What should we expect regarding electricity? (how much, any fees, etc)</td><td></td></tr>
-<tr><td>What should we expect regarding WiFi? (how much, any fees, etc)</td><td></td></tr>
-<tr><td>How do we order additional A/V equipment?</td><td></td></tr>
-<tr><td>Additional important details</td><td></td></tr>
+<h2>Special Sponsorships</h2>
+
+There are also opportunities for exclusive special sponsorships. We'll have sponsors for various events with special privileges for the sponsors of these events. If you are interested in special sponsorships or have a creative idea about how you can support the event, <a href="mailto:kansas-city@devopsdays.org">send us an email</a>.
+
+All special sponsors will have their logo displayed on the devopsdays Kansas CIty website, a tweet before the conference, and a thank you during the conference. We do have some flexibility with these sponsorships, so just ask! 
+
+<table class="table table-bordered table-hover">
+  <thead>
+    <tr>
+      <th scope="col">SPONSORSHIP</th>
+      <th scope="col">PRICE</th>
+      <th scope="col">DESCRIPTION</th>
+      <th scope="col"># AVAIL</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Lanyards (incl 1 ticket)</td>
+      <td align="center">$3,000</td>
+      <td>Your logo worn by every attendee</td>
+      <td align="center">1</td>
+    </tr>
+    <tr>
+      <td>Coffee/drink sponsor (incl 1 ticket)</td>
+      <td align="center">$3,500</td>
+      <td>Make sure attendees are hydrated and have coffee</td>
+      <td align="center">2</td>
+    </tr>
+    <tr>
+      <td>Live transcription (incl 1 ticket)</td>
+      <td align="center">$5,000</td>
+      <td>Your logo by the screen where talks are transcribed</td>
+      <td align="center">1</td>
+    </tr>
+    <tr>
+      <td>Breakfast sponsor (incl 1 ticket)</td>
+      <td align="center">$5,000</td>
+      <td>Get the day started right for the attendees</td>
+      <td align="center">2</td>
+    </tr>
+    <tr>
+      <td>Lunch sponsor (incl 1 ticket)</td>
+      <td align="center">$6,000</td>
+      <td>Ensure everyone has the energy for the rest of the day</td>
+      <td align="center">2</td>
+    </tr>
+    <tr>
+      <td>Workshop (incl 2 tickets)<br/>**REQUIRES BRONZE AND ABOVE SPONSORSHIP**</td>
+      <td align="center">$7,500</td>
+      <td>Offer a 4hr workshop on Day One to help attendees learn about your product and how to use it. **The product MUST utilize a FREE version as part of the workshop**</td>
+      <td align="center">1</td>
+    </tr>
+    <tr>
+      <td>Happy Hour / Evening social<br/>(incl 1 ticket)</td>
+      <td align="center">Contact Us</td>
+      <td>A great way to network with attendees after each day, and get your name out there</td>
+      <td align="center">1 or 2</td>
+    </tr>
+    <tr>
+      <td>Scholarships</td>
+      <td align="center">Adhoc</td>
+      <td>Provide tickets to under-indexed groups to attend</td>
+      <td align="center">Unlim</td>
+  </tbody>
 </table>
+
+<div class = "row">
+<div class = "col-12">
+  <br/>
+  <br/>
+  Sponsors are responsible for providing high-res logos for use on the website and in promotional materials.  The preferred file formats are EPS or AI.
+  <br/><br/>
+  <b>All sponsors attendees must be registered to attend</b>. We offer sponsors 20% off all additional registrations.
+<br><br>
+</div>
+</div>
 </div>
 
--->
-<hr/>
+</div>
+</div>
+</div>
