@@ -7,4 +7,4 @@ type = "speaker"
 linktitle = "luiz-sanches"
 
 +++
-Desenvolvedor de sistemas e poeta de boteco
+Envolvedor de sistemas e poeta de boteco
