@@ -40,7 +40,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: Programação
     url: /events/2023-belem/programa
   # - name: Palestrantes
-  #   url: /events/2022-belem/speakers
+  #   url: /events/2023-belem/speakers
   - name: Patrocínio
     url: /events/2023-belem/sponsor
   - name: Código de Conduta
@@ -158,95 +158,95 @@ sponsor_levels:
 program:
   - title: "Credenciamento / Café da Manhã ☕️"
     type: custom
-    date: 2022-11-11
+    date: 2023-11-11
     start_time: "09:00"
     end_time: "09:30"
     background_color: "#FDF2E9"
 
   - title: "Abertura"
     type: custom
-    date: 2022-11-11
+    date: 2023-11-11
     start_time: "09:30"
     end_time: "09:45"
 
   - title: "andre-gusmao"
     type: talk
-    date: 2022-11-11
+    date: 2023-11-11
     start_time: "09:45"
     end_time: "10:30"
     background_color: "#AED6F1"
 
   - title: "joao-ferreira"
     type: talk
-    date: 2022-11-11
+    date: 2023-11-11
     start_time: "10:35"
     end_time: "11:00"
 
   - title: "tiago-danin"
     type: talk
-    date: 2022-11-11
+    date: 2023-11-11
     start_time: "11:05"
     end_time: "11:30"
 
   - title: "daniel-silva"
     type: talk
-    date: 2022-11-11
+    date: 2023-11-11
     start_time: "11:35"
     end_time: "12:00"
 
   - title: "Intervalo para almoço"
     type: custom
-    date: 2022-11-11
+    date: 2023-11-11
     start_time: "12:00"
     end_time: "13:00"
     background_color: "#EDBB99"
 
   - title: "wolnei"
     type: talk
-    date: 2022-11-11
+    date: 2023-11-11
     start_time: "13:00"
     end_time: "13:25"
 
   - title: "carlos-macapuna"
     type: talk
-    date: 2022-11-11
+    date: 2023-11-11
     start_time: "13:30"
     end_time: "13:55"
 
   - title: "carlos-oeiras"
     type: talk
-    date: 2022-11-11
+    date: 2023-11-11
     start_time: "14:00"
     end_time: "14:25"
 
   - title: "luiz-sanches"
     type: talk
-    date: 2022-11-11
+    date: 2023-11-11
     start_time: "14:30"
     end_time: "14:55"
 
   - title: "Coffee-break ☕️"
     type: custom
-    date: 2022-11-11
+    date: 2023-11-11
     start_time: "15:00"
     end_time: "15:40"
     background_color: "#FDF2E9"
 
   - title: "FishBowl"
     type: fish-bowl
-    date: 2022-11-11
+    date: 2023-11-11
     start_time: "15:40"
     end_time: "16:30"
 
   - title: "marcelo-palladino"
     type: talk
-    date: 2022-11-11
+    date: 2023-11-11
     start_time: "16:30"
     end_time: "17:15"
     background_color: "#AED6F1"
 
   - title: "Encerramento e Sorteios"
     type: custom
-    date: 2022-11-11
+    date: 2023-11-11
     start_time: "17:20"
     end_time: "18:00"
