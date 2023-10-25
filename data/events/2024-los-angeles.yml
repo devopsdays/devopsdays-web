@@ -127,6 +127,8 @@ sponsors:
   - id: faun
     level: community
     url: https://faun.dev/join/?utm_source=partner&utm_medium=DevOpsDaysLA&utm_campaign=2023
+  - id: nadog
+    level: community
   - id: kubecareers
     level: media
     url: https://kube.careers/
