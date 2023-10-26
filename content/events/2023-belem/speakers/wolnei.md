@@ -1,7 +1,7 @@
 +++
 Title = "Wolnei"
 Twitter = "fedoraproject"
-linkedin = "https://fedoraproject.org/wiki/User:wolnei"
+linkedin = "https://www.linkedin.com/in/wolnei/"
 #image = "wolnei.jpg"
 type = "speaker"
 linktitle = "wolnei"
