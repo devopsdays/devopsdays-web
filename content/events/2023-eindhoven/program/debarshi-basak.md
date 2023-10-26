@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Scalable Infrastrucutre Access Management"
 Type = "talk"
 Speakers = ["debarshi-basak"]
+Youtube = "QQP9NngnJ-Y"
 +++
 
 Collaboration between Developers, DevOps, and SRE is difficult without concrete infrastructure access management. Sharing credentials for VMs, Kubernetes, databases, etc. in a zero-trust, secure, and compliant way is painful and leaky. As compliance frameworks like SOC2, GDPR, and NIST 800-53 start becoming the norm in organizations, tools for auditable logical access management to software, infrastructure, etc. become very important.

@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "From grey goo to grandma's napalm: the ethics of AI and what you can't do with it"
 Type = "talk"
 Speakers = ["ben-gamble"]
+Youtube = "KyHxCvs4Hnc"
 +++
 
 For the last 10 years AI has been listed in one of the top ten things likely to end the world. Its also been listed as the answer to some of the hardest problems that are out there, from protein folding to Nuclear fusion.
