@@ -2,7 +2,7 @@ name: "2023-montreal" # The name of the event. Four digit year with the city nam
 year: "2023" # The year of the event. Make sure it is in quotes.
 city: "Montréal" # The displayed city name of the event. Capitalize it.
 event_twitter: "DevOpsDaysMTL" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "DevOpsDays Montreal is coming to the Centre Mont-Royal Nov 1-2. Stay tuned for more info!" # Edit this to suit your preferences
+description: "DevOpsDays Montreal 2023 has been rescheduled :(" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 event_group: "Montréal"
 
@@ -17,15 +17,15 @@ enddate:  2023-11-02T18:00:00-04:00 # The end date of your event. Leave blank if
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2023-04-02T00:00:00-04:00 # start accepting talk proposals.
 cfp_date_end:  2023-07-02T23:59:59-04:00 # close your call for proposals.
-cfp_date_announce: 2023-08-01T09:00:00-04:00 # inform proposers of status
+cfp_date_announce: 2023-08-14T09:00:00-04:00 # inform proposers of status
 
-cfp_link: "https://sessionize.com/devopsdays-montreal-2023/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "" # "https://sessionize.com/devopsdays-montreal-2023/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_start: 2023-08-07T00:00:00-04:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
-registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_closed: "true" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://www.eventbrite.ca/e/devopsdays-montreal-2023-tickets-643838146227" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 
 masthead_background: "montreal-background.jpg"
@@ -39,12 +39,12 @@ location: "Centre Mont-Royal" # Defaults to city, but you can make it the venue 
 location_address: "2200 rue Mansfield, Montréal, Québec, H3A 3R8" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
-  - name: location
+ # - name: propose
+ # - name: location
  # - name: registration
  # - name: program
  # - name: speakers
-  - name: sponsor
+ # - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
@@ -57,24 +57,24 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 team_members: # Name is the only required field for team members.
   - name: "Christina Di Maio"
     image: "christina-di-maio.png"
-    bio: "Event Manager at OVHcloud by day, my friends and family keep my head out of the clouds to plan all their special events when I’m not working. Marketing and event planning are my passions, I also bake a pretty mean macaron!  With a Bachelor’s degree in business from HEC Montréal I’ve always worked in B2B marketing and tried to bring different ideas to life while sharing the tech industry through my eyes.  After all, you can put glitter on anything!"
-    role: ""
-    employer: "OVHcloud"
+    bio: "Community Management and Strategic Planning, all these words to say that I'm responsible for making sure my colleagues in the Data & Analytics team at BRP are engaged and having fun and that our processes and strategies are clear to our team members and stakeholders. Marketing and event planning are my passions, I also bake a pretty mean macaron!  With a Bachelor's degree in Marketing from HEC Montréal I’ve always worked in marketing and spent most of my carreer in IT , I do my best to bring different ideas to life while sharing the tech industry through my eyes. After all, you can put glitter on anything!"
+    role: "Event Manager"
+    employer: "BRP"
     github: ""
     twitter: "chris_di_maio"
     linkedin: "https://www.linkedin.com/in/christinadimaio/"
   - name: "Ian Crosby"
     image: "ian.jpg"
     bio: "Previous developer, manager, cloud engineer, CTO. Enjoys solving difficult problems with interesting technology. Or interesting problems with difficult technology. Can usually be found in a meeting asking 'What is the problem we're trying to solve here?'"
-    role: ""
-    employer: "Fictiv"
+    role: "CFP, Open Spaces + Social Media"
+    employer: "CloudOps"
     github: "idcrosby"
     twitter: "IanDCrosby"
     linkedin: "https://www.linkedin.com/in/iandcrosby/"
   - name: "Joost Polley"
     image: ""
     bio: ""
-    role: ""
+    role: "SWAG Organizer, CWO"
     employer: ""
     github: ""
     twitter: ""
@@ -82,7 +82,7 @@ team_members: # Name is the only required field for team members.
   - name: "Lise-Andrée Duperré"
     image: "lise.jpg"
     bio: "As marketing manager, I have been bringing my energy and determination to Gologic’s DevOps community for over 6 years. I am involved in a number of initiatives to boost sales and build our brand, including lead generation strategies, social media and event planning. Alongside this exciting career, I am an outdoors enthusiast and enjoy running. Oh, and I forgot—I love chocolate. :)"
-    role: ""
+    role: "Venue, Sponshorship liaison + Speaker liaison"
     employer: "Gologic"
     github: ""
     twitter: ""
@@ -111,10 +111,18 @@ team_members: # Name is the only required field for team members.
     github: ""
     twitter: ""
     linkedin: "https://www.linkedin.com/in/donalddonovan"
+  - name: "Franck Clerget"
+    image: "franck.jpg"
+    bio: "A passionate leader with almost a decade of experience in technology. Marrying modern technologies and practices with developing a strong employee's culture is recognized as a pillar in leading a competitive industry. Always reaching for the best in class, I have sharpened my skills to enable organizational transformation to better serve their customers and to distinguish their offers in a highly competitive market."
+    role: ""
+    employer: ""
+    github: ""
+    twitter: ""
+    linkedin: "https://www.linkedin.com/in/franck-clerget/"
   - name: "Sebastián Gómez"
     image: "seb.png"
     bio: "CI/CD plumber by day, father of three by night, I've been in the IT industry for almost 20 years. It all started with a `echo Hello World` on my mom’s computer’s AUTOEXEC.BAT. I now help companies of all sizes transition into the Cloud Native world, as painless as possible."
-    role: "Speakers & website"
+    role: "CFP, Speaker liaison + Website"
     employer: "Ubisoft"
     github: "sebagomez"
     twitter: "sebagomez"
@@ -125,13 +133,19 @@ organizer_email: "montreal@devopsdays.org" # Put your organizer email address he
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: samplesponsorname
-    level: gold
+  # - id: suse
+  #   level: gold
+  # - id: morgan-stanley
+  #   level: lunch
+  # - id: elastic
+  #   level: bronze
+  # - id: sherweb
+  #   level: bronze
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -162,5 +176,11 @@ sponsor_levels:
   - id: coffee
     label: Coffee
     max: 1
+  - id: startup
+    label: Startup
+    max: 9
+  - id: non-profit
+    label: Non-profit
+    max: 5
   - id: community
     label: Community

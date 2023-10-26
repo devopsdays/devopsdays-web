@@ -2,7 +2,7 @@
 Title = "Luben Alexandrov"
 Linkedin = "https://www.linkedin.com/in/luben-alexandrov-b3902971/"
 Website = ""
-Twitter = "https://twitter.com/LubenAlexandrov"
+Twitter = "LubenAlexandrov"
 image = "luben-alexandrov.jpg"
 type = "speaker"
 linktitle = "luben-alexandrov"

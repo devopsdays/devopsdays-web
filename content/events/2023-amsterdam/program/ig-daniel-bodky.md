@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "SOS, please someone help me!"
 Type = "talk"
 Speakers = ["daniel-bodky"]
+Youtube = "zuR9NkPCOpA"
 +++
 [From Wikipedia](https://en.wikipedia.org/wiki/Shiny_object_syndrome): "Shiny object syndrome is the situation where people focus undue attention on an idea that is new and trendy, yet drop this as soon as something new takes its place."
 

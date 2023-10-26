@@ -22,7 +22,16 @@ Description = "devopsdays Dallas 2023"
   </div>
 </div>
 <br> -->
-<h5>The same group of seasoned organizers that brought you DevOpsDays DFW several years in a row are back again another year in 2023 to celebrate our 6th Anniversary. We were encouraged and motivated by the feedback received from previous year's events, which is why they are determined to bring an even better experience this year and improve the DevOps conversation throughout the DFW Metroplex.</h5>
+The same group of seasoned organizers that brought you DevOpsDays DFW several years in a row are back again another year in 2023 to celebrate our 6th Anniversary. We were encouraged and motivated by the feedback received from previous year's events, which is why they are determined to bring an even better experience this year and improve the DevOps conversation throughout the DFW Metroplex.<br>
+<br>
+<h5>AWESOME NEWS 📰❗<br>
+We are going to have a HYBRID event❗<br>
+<br>
+Today our event will be going LIVE like last year.<br>
+Thanks to <a href="https://www.dfwlivestream.com/">DFW Live Stream</a>❗<br>
+<a href="https://www.dfwlivestream.com/devops"><strong>https://www.dfwlivestream.com/devops</STRONG></a><br>
+<br>
+But what will make our event HYBRID and give our remote audience the closest to best experience possible other than in-person will be the ability to interactively communicate back and forth with our remote audience using Slido by scanning or clicking on this QR code on the LIVE website.</h5>
 <br>
 <div class = "row">
   <div class = "col-md-2">

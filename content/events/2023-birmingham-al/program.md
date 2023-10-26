@@ -23,10 +23,10 @@ Description = "Program for DevopsDays Birmingham, AL 2023"
 </div>
 
 <div class="program-talk" style="padding: 5px; margin-top: 10px; margin-bottom: 10px;">
-  All talks and keynotes take place in the Main Theatre. 
+  All talks and keynotes take place in the <b>Main Theatre</b>. 
 
 </div>
 <div style="padding: 5px; margin-top: 10px; margin-bottom: 10px; background:#8ad0d3;">
-  All workshops take place in the Discovery Theatre. 
+  All workshops take place in the <b>Discovery Theatre</b>. 
 
 </div>

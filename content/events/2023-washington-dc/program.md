@@ -1,7 +1,7 @@
 +++
 Title = "Program"
 Type = "program"
-Description = "Program for devopsdays DC 2022"
+Description = "Program for devopsdays DC 2023"
 Icons = "false"
 +++
 
@@ -13,4 +13,6 @@ Icons = "false"
     <i>All times are in US Eastern Time</i>
   </div>
 </div>
-<script type="text/javascript" src="https://sessionize.com/api/v2/aqm2ijyd/view/GridSmart"></script>
+<script type="text/javascript" src="https://sessionize.com/api/v2/n7alb9up/view/GridSmart"></script>
+<div class = "row"></div>
+<script type="text/javascript" src="https://sessionize.com/api/v2/n7alb9up/view/SpeakerWall"></script>

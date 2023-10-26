@@ -8,42 +8,41 @@ masthead_background: "logo-square.jpg"
 speakers_verbose: "true"
 
 # All dates are in unquoted YYYY-MM-DD or YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T23:59:59+02:00
-startdate: "" # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: "" # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: "2023-09-21" # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: "2023-09-21" # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
-# Leave CFP dates blank if you don't know yet, or set all three at once.
+# Leave CFP dates blank if you don't know yet, or set all three at once
 
-cfp_date_start: "" # start accepting talk proposals.
-cfp_date_end: "" # close your call for proposals.
+cfp_date_start: "2023-05-12" # start accepting talk proposals.
+cfp_date_end: "2023-07-01" # close your call for proposals.
 cfp_date_announce: "" # inform proposers of status
 
 cfp_open: "false"
-#cfp_link: "https://www.papercall.io/dodtampabay" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
-cfp_link: ""
+cfp_link: "https://sessionize.com/devopsdays-tampa-bay-2023/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+#cfp_link: ""
 
-registration_date_start: ""# start accepting registration. Leave blank if registration is not open yet
-registration_date_end: ""# close registration. Leave blank if registration is not open yet.
+registration_date_start: "2023-06-01"# start accepting registration. Leave blank if registration is not open yet
+registration_date_end: "2023-09-21"# close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-#registration_link: "https://www.eventbrite.com/e/devopsdays-tampa-bay-2022-tickets-403152729667?aff=devopsdayswebsite" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.eventbrite.com/e/devopsdays-tampa-bay-2023-tickets-635898929817" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
-coordinates: "27.762802, -82.634803" #  The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+coordinates: "27.961310, -82.463761" #  The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Tampa Bay" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "1910 N Ola Ave, Tampa, FL 33602" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
 #  - name: propose
-#    url: /events/2022-tampa/propose
-#    icon: "book"
-#  - name: location
-#    icon: "map-o"
-#    url: /events/2023-tampa/location
-#  - name: registration
-#  - name: program
-#  - name: speakers
+
+  - name: location
+    icon: "map-o"
+    url: /events/2023-tampa/location
+  - name: registration
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -54,13 +53,6 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
-  - name: "Keith Sartain"
-    employer: "ConnectWise"
-    facebook: "https://www.facebook.com/kbsartain"
-    linkedin: "https://www.linkedin.com/in/keith-sartain-630b441"
-    website: "http://connectwise.com"
-    image: "keithsartain.jpg"
-    role: "Lead Organizer"
   - name: "James Gress"
     twitter: "jmgress"
     employer: "Accenture"
@@ -84,16 +76,12 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/troykoss/"
     twitter: ""
     role: "Lead Organizer"
-#  - name: "David Neukamm"
-#    employer: "Tential"
-#    website: "http://www.tential.com/"
-#    linkedin: "https://www.linkedin.com/in/davidneukamm/"
-#    image: "davidn.jpg" 
   - name: "Seni Aguiar"
     employer: "infiNetix"
     website: "https://infinetix.io/"
     linkedin: "https://www.linkedin.com/in/seniaguiar/"
     image: "seniguiar.jpg"
+    role: "Lead Organizer"
   - name: "Carly Partington"
     employer: "ZP Group"
     website: "http://zpgroup.com"
@@ -106,8 +94,51 @@ organizer_email: "tampa@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: accenture-es
+    level: inkind
+  - id: microsoft
+    level: inkind
+  - id: capitalone
+    level: inkind
   - id: devopstampabay
     level: community
+  - id: tampadevs
+    level: community
+  - id: xebiaxpirit
+    level: platinum
+  - id: sonobi
+    level: gold
+  - id: tampaawsug
+    level: community
+  - id: hightechconnect
+    level: community
+  - id: womeninlinux
+    level: community
+  - id: tampabayai
+    level: community
+  - id: tampabayapple
+    level: community
+  - id: tampaccc
+    level: community
+  - id: tampagai
+    level: community
+  - id: tampajug
+    level: community
+  - id: tampabaytech
+    level: community
+  - id: vmware-tanzu
+    level: platinum
+  - id: nobl9
+    level: platinum
+  - id: digitalcharter
+    level: inkind
+  - id: teksystems
+    level: inkind
+  - id: appdynamics
+    level: platinum
+  - id: elitesource
+    level: gold
+
     
 #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 # - id: arresteddevops
@@ -125,9 +156,12 @@ sponsor_levels:
     max: 2
   - id: platinum
     label: Platinum
-    max: 10 # This is the same as omitting the max limit.
+    max: 8 # This is the same as omitting the max limit.
   - id: gold
     label: Gold
+  - id: inkind
+    label: In-Kind
+    max: 4
   - id: community
     label: Community
 

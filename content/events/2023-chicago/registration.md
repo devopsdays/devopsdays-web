@@ -2,6 +2,7 @@
 Title = "Registration"
 Type = "event"
 Description = "Registration for devopsdays Chicago 2023"
+aliases = ["/events/2023-chicago/register"]
 +++
 <link rel="stylesheet" type="text/css" href="https://chicago-tickets.devopsdays.org/2023/widget/v1.css">
 <script type="text/javascript" src="https://chicago-tickets.devopsdays.org/widget/v1.en.js" async></script>

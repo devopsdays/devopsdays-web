@@ -140,7 +140,7 @@ organizer_email: "texas@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: twosigma
+  - id: twosigma-before-20230603
     level: bronze
   - id: bridgecrew
     level: gold
@@ -152,7 +152,7 @@ sponsors:
     level: gold
   - id: buurst-inc
     level: bronze
-  - id: site24x7
+  - id: site24x7-before-20230414
     level: gold
   - id: arresteddevops
     level: community

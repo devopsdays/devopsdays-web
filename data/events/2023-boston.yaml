@@ -13,10 +13,12 @@ cfp_date_end: "2023-05-31T23:59:59-00:00"
 cfp_date_announce: "2023-04-03T00:00:00-00:00"
 cfp_link: "https://www.papercall.io/dodbos23"
 
-# Uncomment when registration is opened.
-#registration_date_start: "2023-08-05T00:00:00-00:00"
-#registration_date_end: "2023-09-11T00:00:00-00:00"
-#registration_link: "https://ti.to/devopsdaysbos/2023"
+registration_date_start: "2023-07-16T00:00:00-00:00"
+registration_date_end: "2023-10-18T00:00:00-00:00"
+registration_link: "https://ti.to/devopsdaysbos/2023?source=devopsdaysdotorg"
+
+masthead_background: "skyline-2023a.jpg"
+sharing_image: "bos-sharing.jpg"
 
 coordinates: "42.344447, -71.071291"
 location: "The Cyclorama at the Boston Center for the Arts"
@@ -26,13 +28,13 @@ location_address: "539 Tremont St, Boston, MA 02116"
 nav_elements:
   - name: conduct
   - name: contact
-#  - name: covid
   - name: location
-#  - name: program
-#  - name: propose
-#  - name: registration
-#  - name: speakers
-#  - name: sponsor
+  - name: program
+  - name: registration
+  - name: speakers
+  - name: sponsor
+  - name: Health and Safety
+    url: /events/2023-boston/health-and-safety
 
 team_members:
   - name: "Michael Thomas Clark"
@@ -63,39 +65,279 @@ team_members:
     bio: "Kate works as a Site Reliability Engineer II for edx, a edtech company in the Boston area looking to expand education past the boundaries of traditional education. She has a passion for all things infrastructure and application security, and using emojis to get things done. While not at work, she’s working on a farm, playing with her dog, or biking through the streets of Massachusetts."
     image: "kateruh.jpg"
 
+  - name: "Josh"
+    bio: "Not much is known about Josh, other than he tends to show up, support the mission, not say much, and disappear into the night when no longer required."
+
+  - name: "Val Charry"
+    bio: "Val works as a Software Engineer at Dell Technologies. Primarily doing Advanced Research Development under the CTIO but recently working under a new product team. She has a lot of experience leveraging Open Source projects in order to deliver rapid PoCs spanning many technology domains. When she's not working, she's listening to podcasts while walking around Boston, traveling abroad, or crafting whatever art project she's into at the time."
+    linkedin: "https://www.linkedin.com/in/valerie-charry"
+    github: "valcharry"
+    image: "valcharry.jpg"
+
 organizer_email: "boston@devopsdays.org"
 
 # Uncomment when opening for sponsorships.
 sponsors:
-#  - id: foo
-#    level: bar
+  - id: elastic
+    level: platinum
+  - id: dragondropcloud
+    level: startupalley
+  - id: dell-technologies
+    level: platinum
+  - id: tailscale
+    level: platinum
+  - id: checkly
+    level: platinum
+  - id: cloudbees
+    level: platinum
+  - id: launch-darkly
+    level: platinum
+  - id: klaviyo
+    level: platinum
+  - id: observeinc
+    level: platinum
+  - id: wescaleout
+    level: captioning
+  - id: endorlabs
+    level: startupalley
+  - id: squaredup
+    level: platinum
+  - id: spot-by-netapp
+    level: platinum
+  - id: redgate
+    level: platinum
+  - id: vmware-tanzu
+    level: platinum
+  - id: britive
+    level: platinum
+  - id: logz
+    level: platinum
+  - id: atomiccoffeeroasters
+    level: coffee
+  - id: legit-security
+    level: startupalley
+  - id: dazz
+    level: startupalley
+  - id: gitguardian
+    level: platinum
+  - id: sym
+    level: badges
+  - id: nobl9
+    level: platinum
+  - id: highlight
+    level: startupalley
 
-sponsors_accepted : "no"
+sponsors_accepted : "yes"
 
 sponsor_levels:
   - id: platinum
     label: Platinum
-  - id: lanyard
-    label: Lanyard
+  - id: startupalley
+    label: Startup Alley
+  - id: captioning
+    label: Captioning
     max: 1
   - id: coffee
     label: Coffee
     max: 1
-  - id: startupalley
-    label: Startup Alley
+  - id: badges
+    label: Badges and Lanyards
+    max: 1
 
-# Uncomment when publishing the schedule.
 program:
 # Day 1
-#  - title: "Registration & Breakfast (Remember your ID and vaccine card!)"
-#    type: custom
-#    date: 2023-10-16
-#    start_time: "07:30"
-#    end_time: "09:00"
+  - title: "Registration & Breakfast"
+    type: custom
+    date: 2023-10-16
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Introduction"
+    type: custom
+    date: 2023-10-16
+    start_time: "09:30"
+    end_time: "09:45"
+  - title: "pete-cheslock"
+    type: talk
+    date: 2023-10-16
+    start_time: "9:45"
+    end_time: "10:20"
+  - title: "sharon-goldberg"
+    type: talk
+    date: 2023-10-16
+    start_time: "10:20"
+    end_time: "10:55"
+  - title: "talia-nassi"
+    background_color: "#fffa99"
+    type: workshop
+    date: 2023-10-16
+    start_time: "10:20"
+    end_time: "11:45"
+  - title: "Break"
+    type: custom
+    date: 2023-10-16
+    start_time: "10:55"
+    end_time: "11:10"
+  - title: "chris-gallivan"
+    type: talk
+    date: 2023-10-16
+    start_time: "11:10"
+    end_time: "11:45"
+  - title: "dotan-horovits"
+    type: talk
+    date: 2023-10-16
+    start_time: "11:45"
+    end_time: "12:20"
+  - title: Lunch
+    type: custom
+    date: 2023-10-16
+    start_time: "12:20"
+    end_time: "13:30"
+  - title: "alexandre-pauwels"
+    type: talk
+    date: 2023-10-16
+    start_time: "13:30"
+    end_time: "14:05"
+  - title: "Open Space Proposals"
+    type: custom
+    date: 2023-10-16
+    start_time: "14:05"
+    end_time: "14:35"
+  - title: "Break"
+    type: custom
+    date: 2023-10-16
+    start_time: "14:35"
+    end_time: "14:45"
+  - title: "Open Spaces - Block 1"
+    type: custom
+    date: 2023-10-16
+    start_time: "14:45"
+    end_time: "15:15"
+  - title: "Break"
+    type: custom
+    date: 2023-10-16
+    start_time: "15:15"
+    end_time: "15:25"
+  - title: "Open Spaces - Block 2"
+    type: custom
+    date: 2023-10-16
+    start_time: "15:25"
+    end_time: "15:55"
+  - title: "Break"
+    type: custom
+    date: 2023-10-16
+    start_time: "15:55"
+    end_time: "16:05"
+  - title: "Open Spaces - Block 3"
+    type: custom
+    date: 2023-10-16
+    start_time: "16:05"
+    end_time: "16:35"
+  - title: "Day 1 Wrap-Up"
+    type: custom
+    date: 2023-10-16
+    start_time: "16:35"
+    end_time: "17:00"
+  - title: "After-Event - See above"
+    type: custom
+    date: 2023-10-16
+    start_time: "17:00"
+    end_time: "20:00"
 
 # Day 2
-#  - title: "Registration & Breakfast (Remember your ID and vaccine card!)"
-#    type: custom
-#    date: 2023-10-17
-#    start_time: "07:30"
-#    end_time: "09:00"
+  - title: "Registration & Breakfast"
+    type: custom
+    date: 2023-10-17
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Day 2 Kickoff"
+    type: custom
+    date: 2023-10-17
+    start_time: "09:30"
+    end_time: "09:45"
+  - title: "colleen-delvecchio"
+    type: talk
+    date: 2023-10-17
+    start_time: "9:45"
+    end_time: "10:20"
+  - title: "jeff-brainerd"
+    type: talk
+    date: 2023-10-17
+    start_time: "10:20"
+    end_time: "10:55"
+  - title: "matt-surabian"
+    background_color: "#fffa99"
+    type: talk
+    date: 2023-10-17
+    start_time: "10:20"
+    end_time: "10:55"
+  - title: "Break"
+    type: custom
+    date: 2023-10-17
+    start_time: "10:55"
+    end_time: "11:10"
+  - title: "jon-bass"
+    type: talk
+    date: 2023-10-17
+    start_time: "11:10"
+    end_time: "11:45"
+  - title: "jose-andrade"
+    background_color: "#fffa99"
+    type: talk
+    date: 2023-10-17
+    start_time: "11:10"
+    end_time: "11:45"
+  - title: "neil-davies"
+    type: talk
+    date: 2023-10-17
+    start_time: "11:45"
+    end_time: "12:20"
+  - title: Lunch
+    type: custom
+    date: 2023-10-17
+    start_time: "12:20"
+    end_time: "13:30"
+  - title: "Lightning Talks (Coming Soon!)"
+    type: custom
+    date: 2023-10-17
+    start_time: "13:30"
+    end_time: "14:05"
+  - title: "Open Space Proposals"
+    type: custom
+    date: 2023-10-17
+    start_time: "14:05"
+    end_time: "14:35"
+  - title: "Break"
+    type: custom
+    date: 2023-10-17
+    start_time: "14:35"
+    end_time: "14:45"
+  - title: "Open Spaces - Block 4"
+    type: custom
+    date: 2023-10-17
+    start_time: "14:45"
+    end_time: "15:15"
+  - title: "Break"
+    type: custom
+    date: 2023-10-17
+    start_time: "15:15"
+    end_time: "15:25"
+  - title: "Open Spaces - Block 5"
+    type: custom
+    date: 2023-10-17
+    start_time: "15:25"
+    end_time: "15:55"
+  - title: "Break"
+    type: custom
+    date: 2023-10-17
+    start_time: "15:55"
+    end_time: "16:05"
+  - title: "Open Spaces - Block 6"
+    type: custom
+    date: 2023-10-17
+    start_time: "16:05"
+    end_time: "16:35"
+  - title: "Day 2 Wrap-Up"
+    type: custom
+    date: 2023-10-17
+    start_time: "16:35"
+    end_time: "17:00"
