@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Cultural Relativism: a Prism for Constructing Communities"
 Type = "talk"
 Speakers = ["claude-warren2"]
+Youtube = "bZwaN5A1Nmo"
 +++
 
 Cross cultural teams bring a special set of pitfalls that are not present in mono cultural teams; from hidden misunderstandings to perceived hostility or indifference.   This talk introduces the anthropological concept of cultural relativism, explores how it can be used to uncover potential conflicts that arise out of cultural differences, and presents culturally sensitive strategies for addressing them.
