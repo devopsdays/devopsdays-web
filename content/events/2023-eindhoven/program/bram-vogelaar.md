@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "a pint sized introduction to SLO"
 Type = "talk"
 Speakers = ["bram-vogelaar"]
+Youtube = "W7DfU8jek0M"
 +++
 
 Athletes, Firemen and Doctors train everyday to be the best at their chosen profession. As engineers we spend much of our time getting stuff to production and making sure our infrastructure doesn’t burn down out right. We however spend very little time learning to understand and respond to outages. Does our platform degrade in a graceful way or what does a high CPU load really mean? What can we learn from level 1 outages to be able to run our platforms more reliably.

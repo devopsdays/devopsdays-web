@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "The Planet as Our Stakeholder - Finding ways to a green future"
 Type = "talk"
 Speakers = ["marjolein-pilon"]
+Youtube = "FuRUnvC2bZc"
 +++
 
 In the past year I have been on a journey of raising climate awareness in the IT and Agile community. In this talk I will share my learnings and invite you to join me in pursuing a green future.
