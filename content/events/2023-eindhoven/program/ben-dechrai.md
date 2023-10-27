@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Legacy Codebases are a DevOps Issue"
 Type = "talk"
 Speakers = ["ben-dechrai"]
+Youtube = "4RJcTL_SBpY"
 +++
 
 Inheriting a legacy codebase can be a daunting challenge for developers. The complex, convoluted code can feel like a labyrinth with hidden traps and mysteries waiting to be unravelled. However, taking control of a legacy codebase is not only possible but also empowering. 

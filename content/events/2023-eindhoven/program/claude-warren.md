@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "The Cathedral, The Bazaar and the Coffee House"
 Type = "talk"
 Speakers = ["claude-warren"]
+Youtube = "1QNvApMPxf8"
 +++
 
 An exposition on open source risk and a strategy to mitigate it. If the Log4J issues kept you up at night, if the Elasticsearch licence change caused you headaches, if lack of response from open source projects is driving you to insanity, then this is the talk for you.
