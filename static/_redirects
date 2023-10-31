@@ -89,7 +89,7 @@
 /portugal/*		/events/2023-portugal/:splat		302
 /poznan/*		/events/2020-poznan/:splat		302
 /prague/*		/events/2023-prague/:splat		302
-/raleigh/*		/events/2023-raleigh/:splat		302
+/raleigh/*		/events/2024-raleigh/:splat		302
 /recife/*		/events/2023-recife/:splat		302
 /riga/*			/events/2018-riga/:splat		302
 /rio-de-janeiro/*	/events/2023-rio-de-janeiro/:splat	302
@@ -229,7 +229,7 @@
 /events/2016-minneapolis/sponsor/devopsdaysmsp2016-prospectus.pdf                       https://assets.devopsdays.org/events/2016/minneapolis/devopsdaysmsp2016-prospectus.pdf                             301
 /events/2016-madison/devopsdays_madison_2016_prospectus.pdf                             https://assets.devopsdays.org/events/2016/madison/devopsdays_madison_2016_prospectus.pdf                           301
 /events/2016-kiel/location/devopsdays-kiel-2016-hotel-booking.pdf                       https://assets.devopsdays.org/events/2016/kiel/devopsdays-kiel-2016-hotel-booking.pdf                              301
-/events/2016-kansascity/sponsorshipprospectusv2016.pdf                                  https://assets.devopsdays.org/events/2016/kansascity/sponsorshipprospectusv2016.pdf                                301 
+/events/2016-kansascity/sponsorshipprospectusv2016.pdf                                  https://assets.devopsdays.org/events/2016/kansascity/sponsorshipprospectusv2016.pdf                                301
 /events/2016-dallas/devopsdays_dallas_sponsor_prospectus_v0.5.pdf                       https://assets.devopsdays.org/events/2016/dallas/devopsdays_dallas_sponsor_prospectus_v0.5.pdf                     301
 /events/2016-chicago/devopsdays-chicago-2016-prospectus.pdf                             https://assets.devopsdays.org/events/2016/chicago/devopsdays-chicago-2016-prospectus.pdf                           301
 /johannesburg/*            /events/2024-johannesburg/:splat           302
