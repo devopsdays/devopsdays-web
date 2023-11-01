@@ -47,4 +47,4 @@ Career Development
 
 Selected proposals will be announced on Feb 16th 2024
 
-<strong>How to submit a proposal:</strong> Please submit your talk using the following form at <a href="https://talks.devopsdays.org/devopsdays-denver-2024/cfp)">Pretalx</a>
+<strong>How to submit a proposal:</strong> Please submit your talk using the following form at <a href="https://talks.devopsdays.org/devopsdays-denver-2024/cfp">Pretalx</a>
