@@ -5,9 +5,14 @@ aliases = ["/events/2024-denver/"]
 Description = "devopsdays Denver 2024"
 +++
 
-<!-- <div style="text-align:center;">
-  {{< event_logo >}}
-</div> -->
+<div style="text-align:center;">
+  <!-- {{< event_logo >}} -->
+  <img src="/events/2024-denver/dod24-transparent.png" width="600" />
+</div>
+
+<br>
+{{< event_twitter >}}
+<br>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -18,14 +23,13 @@ Description = "devopsdays Denver 2024"
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div> -->
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -36,14 +40,14 @@ Description = "devopsdays Denver 2024"
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
