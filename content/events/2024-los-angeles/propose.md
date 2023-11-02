@@ -56,7 +56,7 @@ original content: We will consider talks that have already been presented elsewh
 <br>
 <hr>
 <div style="text-align: center">
-  <a href="https://www.socallinuxexpo.org/scale/21x/cfp" style="font-size: 42px;">Submit a proposal</a>
+  <a href="https://www.socallinuxexpo.org/scale/21x/cfp" style="font-size: 42px;">CFP is officially closed, thank you!</a>
 </div>
 </strong>
 <br>
