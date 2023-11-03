@@ -39,7 +39,7 @@ Description = "Diversity for devopsdays zurich 2024"
     </p>
     <p>&nbsp;</p>
     <p>
-      We are committed for the integration of diverse perspectives in tech and innovation. DevOpsDays Zurich is proud to collaborate with Be Like Grace, a network dedicated to fostering inclusion and diversity in Bern's tech scene. By empowering women and embracing varied backgrounds, languages, and cultures, we support Be Like Grace's commitment to enriching workplace discussions, enhancing decision-making, and creating more enjoyable work environments. This partnership reflects our shared belief that diversity not only brings more excitement and fun to our daily work but also drives the creation of superior products and services. <br> <a href="https://www.belikegrace.ch/"><img src="/events/2024-zurich/belikegrace.png"/></a>
+      We are committed for the integration of diverse perspectives in tech and innovation. DevOpsDays Zurich is proud to collaborate with Be Like Grace, a network dedicated to fostering inclusion and diversity in Bern's tech scene. By empowering women and embracing varied backgrounds, languages, and cultures, we support Be Like Grace's commitment to enriching workplace discussions, enhancing decision-making, and creating more enjoyable work environments. This partnership reflects our shared belief that diversity not only brings more excitement and fun to our daily work but also drives the creation of superior products and services. <br> <a href="https://www.belikegrace.ch/"><img src="/events/2024-zurich/belikegrace.png" width="200"/></a>
     </p>
   </div>
 </div>
