@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Driving Sustainability with Platform Engineering"
 Type = "talk"
 Speakers = ["lesley-cordero"]
+Youtube = "rAV4tdKOMao"
 +++
 
 Engineering organizations often face the consequences of building software in a way that prioritizes short-term gains over long-term ones. This has a lot of sociotechnical consequences, including tech debt, retention issues, and, ultimately, business risk. This talk focuses on how Platform Engineering can drive sustainability through its DevOps based principles, strong support system, and standardized shared architecture.

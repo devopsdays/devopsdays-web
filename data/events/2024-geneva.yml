@@ -44,7 +44,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #  - name: registration
 #  - name: program
 #  - name: speakers
-#  - name: sponsor
+  - name: sponsor
   - name: newsletter
   - name: contact
   - name: conduct
@@ -121,6 +121,12 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+  - id: speakers
+    label: Speakers
+    max: 1
+  - id: mic
+    label: Mic
+    max: 1
 
 
 program:
