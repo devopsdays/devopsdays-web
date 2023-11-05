@@ -17,3 +17,5 @@ package.json    @devopsdays/build-infra
 /bin/   @devopsdays/build-infra
 /.github/   @devopsdays/build-infra
 /static/robots.txt @devopsdays/build-infra
+.gitpod.yml @devopsdays/build-infra
+/.github/workflow/ @devopsdays/build-infra

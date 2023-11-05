@@ -7,33 +7,37 @@ Description = "devopsdays bengaluru 2023"
 
 <div class="row">
   <div class="col-md-4">
-    <img alt="DevOpsDays Bengaluru 2023" src="/bengaluru/logo.png" class="img-fluid">
-    <div class="d-flex flex-row">
-      <div class="col-md-12">
-        <div class="p-2">
-          <a class="btn btn-secondary btn-block" href="/bengaluru/sponsor"> <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference</a>
-        </div>
-        <!--<div class="p-2">
-          <a class="btn btn-secondary btn-block" href="https://forms.gle/LmCGgZse3Lp4XNgz9"> <i class="fa fa-microphone fa-lg"></i>&nbsp;&nbsp;
-            &nbsp; Propose a talk</a>
-        </div>-->
-        <div class="p-2">
-          <a class="btn btn-secondary btn-block" href="/bengaluru/contact"> <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;
-            &nbsp; Contact the Organizers</a>
-        </div>
-      </div>
-    </div>
+    <img alt="DevOpsDays Bengaluru 2023" class="rounded mx-auto d-block"  src="/bengaluru/logo.png" style="max-width: 50%">
   </div>
-
-  <div class="col-md-7">
-    <p>The first DevOpsDays was held in Ghent, Belgium in 2009. Since then, DevOpsDays events have multiplied and expanded globally with over 55 events in for 2018.</p>
-    <p>DevOpsDays is a worldwide series of community run technical conferences covering topics of software development, IT infrastructure operations, and the intersection between them. It is run by volunteers from community, for the benefit of the community.
-      We are not a commercial conference and we believe that our focus on serving the community creates a truly unique experience for both delegates and sponsors.
-    </p>
-    <p>We expect 400 people (depending on COVID-19 guidance) this year and will be holding the event on November 18-19th at the
-      Radisson Blu, Marathahalli, Bengaluru.</p>
-    <p>The format of DevOpsDays Bengaluru includes a single track of 40 minute talks, followed by Ignite talks (5 minute, auto forwarding). We spend the rest of the evening in Open Spaces, which are considered a key portion of the event.
-    </p>
-    {{< event_twitter >}}
+  <div class="col-md-8">
+            <div style="text-align: justify">
+                <p>DevOpsDays Bengaluru is a conference for DevOps practitioners. It brings together development, operations, QA, Security, management, and leadership together to collaborate and learn from each other. It is both a technical conference and a conference focusing on culture, processes, and structure within organisations. We encourage both technologists and business people to attend, learn and share experiences.</p>
+                <p>This year we will have a two-day event with a mix of 30-minutes presentations,  presentations, and open spaces. </p>
+                <p>A great opportunity for networking, mingling, and having a good time. </p>
+                {{< event_twitter >}}
+            </div>
+            <div class="d-flex flex-row">
+                <div class="col-md-4">
+                    <div class="p-2">
+                      <a class="btn btn-secondary btn-block" href="/bengaluru/sponsor"> <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference</a>
+                    </div>
+                    <div class="p-2">
+                      <a class="btn btn-secondary btn-block" href="https://sessionize.com/devopsdays-blr-2023/"> <i class="fa fa-microphone fa-lg"></i>&nbsp;&nbsp;
+                        &nbsp; Propose a talk</a>
+                    </div>
+                    <div class="p-2">
+                      <a class="btn btn-secondary btn-block" href="https://konfhub.com/devopsdays-blr-2023"> <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;
+                        &nbsp; Register</a>
+                    </div>
+                    <div class="p-2">
+                      <a class="btn btn-secondary btn-block" href="/events/2023-bengaluru/program"> <i class="fa fa-calendar fa-lg"></i>&nbsp;&nbsp;
+                        &nbsp; Schedule</a>
+                    </div>
+                    <div class="p-2">
+                      <a class="btn btn-secondary btn-block" href="/bengaluru/contact"> <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;
+                        &nbsp; Contact the Organizers</a>
+                    </div>
+                </div>
+            </div>
   </div>
 </div>

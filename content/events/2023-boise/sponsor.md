@@ -4,9 +4,9 @@ Type = "event"
 Description = "Sponsor devopsdays Boise 2023"
 +++
 
-devopsdays is a self-organizing conference for practitioners that depends on sponsorships.
+devopsdays is a self-organizing conference for practitioners that depends on [sponsorships](https://assets.devopsdays.org/events/2023/boise/2023-boise-devopsdays-prospectus.pdf).
 
-We do not have vendor booths, sell product presentations, or distribute attendee contact lists.
+We do not sell product presentations or distribute attendee contact lists.
 
 Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event.
 
@@ -14,7 +14,7 @@ Sponsors are encouraged to represent themselves by actively participating and en
 
 Any attendee also has the opportunity to demo products/projects as part of an open space session.
 
-If you are interested in sponsoring, please check out our <a href="https://assets.devopsdays.org/events/2023/boise/2023-boise-devopsdays-prospectus.pdf" target="_blank">prospectus</a> or <a href="mailto:boise-sponsors@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Boise%202023">send us an email</a>.
+If you are interested in sponsoring, please check out our [Sponsorship Prospectus](https://assets.devopsdays.org/events/2023/boise/2023-boise-devopsdays-prospectus.pdf) or <a href="mailto:boise-sponsors@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Boise%202023">send us an email</a>.
 
 <hr>
 
@@ -43,7 +43,7 @@ If you are interested in sponsoring, please check out our <a href="https://asset
     <tr>
       <td></td>
       <td colspan="4">
-        <small>Note: Paypal payments include 3% service charge.</small>
+        <small>Note: PayPal payments include 3% service charge.</small>
       </td>
     </tr>
     <tr>
@@ -80,6 +80,13 @@ If you are interested in sponsoring, please check out our <a href="https://asset
       <td>included</td>
       <td>included</td>
       <td>included</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Sponsor table display</td>
+      <td>6-ft table display</td>
+      <td>6-ft table display</td>
+      <td>6-ft table display</td>
       <td></td>
     </tr>
     <tr>

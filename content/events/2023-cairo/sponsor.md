@@ -8,212 +8,163 @@ Description = "Sponsor devopsdays Cairo 2023"
 <p>We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].</p>
 <p class="MsoNormalM">&nbsp;</p>
 <div style="width: 100%;">
-<table border="0" cellspacing="0" cellpadding="0" align="left" style="border-collapse: collapse; margin-left: 6.75pt; margin-right: 6.75pt; width: 100%;">
-	<tbody>
-		<tr>
-			<td width="504" valign="top" style="width:377.7pt;border:solid #FFD966 1.0pt;
-			padding:0in 5.4pt 0in 5.4pt">
-			<p align="center" style="text-align:center"><b><span style="color:black">&nbsp;</span></b></p>
-			<p align="center" style="text-align:center"><b><span style="color:black">Benefits</span></b></p>
-			</td>
-			<td width="126" valign="top" style="width:94.5pt;border:solid #FFD966 1.0pt;
-			border-left:none;padding:0in 5.4pt 0in 5.4pt">
-			<p align="center" style="text-align:center"><b><span style="color:black">Silver</span></b></p>
-			<p align="center" style="text-align:center"><b><span style="color:black">EGP 5,000</span></b></p>
-			<p align="center" style="text-align:center"><b><span style="color:black">(no limit)</span></b></p>
-			</td>
-			<td width="138" valign="top" style="width:103.5pt;border:solid #FFD966 1.0pt;
-			border-left:none;padding:0in 5.4pt 0in 5.4pt">
-			<p align="center" style="text-align:center"><b><span style="color:black">Gold</span></b></p>
-			<p align="center" style="text-align:center"><b><span style="color:black">EGP&nbsp;10,000</span></b></p>
-			<p align="center" style="text-align:center"><b><span style="color:black">(10 sponsors only)</span></b></p>
-			</td>
-			<td width="150" valign="top" style="width:112.5pt;border:solid #FFD966 1.0pt;
-			border-left:none;padding:0in 5.4pt 0in 5.4pt">
-			<p align="center" style="text-align:center"><b><span style="color:black">Platinum</span></b></p>
-			<p align="center" style="text-align:center"><b><span style="color:black">EGP 15,000</span></b></p>
-			<p align="center" style="text-align:center"><b><span style="color:black">(5 sponsors only)</span></b></p>
-			</td>
-		</tr>
-		<tr>
-			<td width="504" valign="top" style="width:377.7pt;border:solid #FFD966 1.0pt;
-			border-top:none;padding:0in 5.4pt 0in 5.4pt">
-			<p><span style="color:black">Displaying 3 minutes Promo <span style=" font-size: 14px">video&nbsp;</span>about your company between event talks	</span></p>
-			</td>
-			<td width="126" valign="top" style="width:94.5pt;border-top:none;border-left:
-			none;border-bottom:solid #FFD966 1.0pt;border-right:solid #FFD966 1.0pt;
-			padding:0in 5.4pt 0in 5.4pt">
-			<p align="center" style="text-align:center"><span style="color:black"></span></p>
-			</td>
-			<td width="138" valign="top" style="width:103.5pt;border-top:none;border-left:
-			none;border-bottom:solid #FFD966 1.0pt;border-right:solid #FFD966 1.0pt;
-			padding:0in 5.4pt 0in 5.4pt">
-			<p align="center" style="text-align:center"><span style="color:black"></span></p>
-			</td>
-			<td width="150" valign="top" style="width:112.5pt;border-top:none;border-left:
-			none;border-bottom:solid #FFD966 1.0pt;border-right:solid #FFD966 1.0pt;
-			padding:0in 5.4pt 0in 5.4pt">
-			<p align="center" style="text-align:center"><span style="color:black">√</span></p>
-			</td>
-		</tr>
-		<tr>
-			<td width="504" valign="top" style="width:377.7pt;border:solid #FFD966 1.0pt;
-			border-top:none;background:#FFF2CC;padding:0in 5.4pt 0in 5.4pt">
-			<p><span style="color:black">Placing company’s
-			logo on Devopsdays Cairo page &amp; SECC website</span></p>
-			</td>
-			<td width="126" valign="top" style="width:94.5pt;border-top:none;border-left:
-			none;border-bottom:solid #FFD966 1.0pt;border-right:solid #FFD966 1.0pt;
-			background:#FFF2CC;padding:0in 5.4pt 0in 5.4pt">
-			<p align="center" style="text-align:center"><span style="color:black">√</span></p>
-			</td>
-			<td width="138" valign="top" style="width:103.5pt;border-top:none;border-left:
-			none;border-bottom:solid #FFD966 1.0pt;border-right:solid #FFD966 1.0pt;
-			background:#FFF2CC;padding:0in 5.4pt 0in 5.4pt">
-			<p align="center" style="text-align:center"><span style="color:black">√</span></p>
-			</td>
-			<td width="150" valign="top" style="width:112.5pt;border-top:none;border-left:
-			none;border-bottom:solid #FFD966 1.0pt;border-right:solid #FFD966 1.0pt;
-			background:#FFF2CC;padding:0in 5.4pt 0in 5.4pt">
-			<p align="center" style="text-align:center"><span style="color:black">√</span></p>
-			</td>
-		</tr>
-		<tr>
-			<td width="504" valign="top" style="width:377.7pt;border:solid #FFD966 1.0pt;
-			border-top:none;padding:0in 5.4pt 0in 5.4pt">
-			<p><span style="color:black">Promoting sponsor
-			in Conference’s campaigns</span></p>
-			</td>
-			<td width="126" valign="top" style="width:94.5pt;border-top:none;border-left:
-			none;border-bottom:solid #FFD966 1.0pt;border-right:solid #FFD966 1.0pt;
-			padding:0in 5.4pt 0in 5.4pt">
-			<p align="center" style="text-align:center"><span style="color:black">&nbsp;√</span></p>
-			</td>
-			<td width="138" valign="top" style="width:103.5pt;border-top:none;border-left:
-			none;border-bottom:solid #FFD966 1.0pt;border-right:solid #FFD966 1.0pt;
-			padding:0in 5.4pt 0in 5.4pt">
-			<p align="center" style="text-align:center"><span style="color:black">&nbsp;√</span></p>
-			</td>
-			<td width="150" valign="top" style="width:112.5pt;border-top:none;border-left:
-			none;border-bottom:solid #FFD966 1.0pt;border-right:solid #FFD966 1.0pt;
-			padding:0in 5.4pt 0in 5.4pt">
-			<p align="center" style="text-align:center"><span style="color:black">&nbsp;√</span></p>
-			</td>
-		</tr>
-		<tr>
-			<td width="504" valign="top" style="width:377.7pt;border:solid #FFD966 1.0pt;
-			border-top:none;background:#FFF2CC;padding:0in 5.4pt 0in 5.4pt">
-			<p><span style="color:black">Certificate of
-			recognition</span></p>
-			</td>
-			<td width="126" valign="top" style="width:94.5pt;border-top:none;border-left:
-			none;border-bottom:solid #FFD966 1.0pt;border-right:solid #FFD966 1.0pt;
-			background:#FFF2CC;padding:0in 5.4pt 0in 5.4pt">
-			<p align="center" style="text-align:center"><span style="color:black">&nbsp;√</span></p>
-			</td>
-			<td width="138" valign="top" style="width:103.5pt;border-top:none;border-left:
-			none;border-bottom:solid #FFD966 1.0pt;border-right:solid #FFD966 1.0pt;
-			background:#FFF2CC;padding:0in 5.4pt 0in 5.4pt">
-			<p align="center" style="text-align:center"><span style="color:black">&nbsp;√</span></p>
-			</td>
-			<td width="150" valign="top" style="width:112.5pt;border-top:none;border-left:
-			none;border-bottom:solid #FFD966 1.0pt;border-right:solid #FFD966 1.0pt;
-			background:#FFF2CC;padding:0in 5.4pt 0in 5.4pt">
-			<p align="center" style="text-align:center"><span style="color:black">&nbsp;√</span></p>
-			</td>
-		</tr>
-		<tr>
-			<td width="504" valign="top" style="width:377.7pt;border:solid #FFD966 1.0pt;
-			border-top:none;padding:0in 5.4pt 0in 5.4pt">
-			<p><span style="color:black">Placing “Thank You
-			Note’ banner for sponsor on SECC website with link to company’s website
-			(pre-event and post-event for 1 month)</span></p>
-			</td>
-			<td width="126" valign="top" style="width:94.5pt;border-top:none;border-left:
-			none;border-bottom:solid #FFD966 1.0pt;border-right:solid #FFD966 1.0pt;
-			padding:0in 5.4pt 0in 5.4pt">
-			<p align="center" style="text-align:center"><span style="color:black">&nbsp;</span></p>
-			</td>
-			<td width="138" valign="top" style="width:103.5pt;border-top:none;border-left:
-			none;border-bottom:solid #FFD966 1.0pt;border-right:solid #FFD966 1.0pt;
-			padding:0in 5.4pt 0in 5.4pt">
-			<p align="center" style="text-align:center"><span style="color:black">&nbsp;√</span></p>
-			</td>
-			<td width="150" valign="top" style="width:112.5pt;border-top:none;border-left:
-			none;border-bottom:solid #FFD966 1.0pt;border-right:solid #FFD966 1.0pt;
-			padding:0in 5.4pt 0in 5.4pt">
-			<p align="center" style="text-align:center"><span style="color:black">&nbsp;√</span></p>
-			</td>
-		</tr>
-		<tr>
-			<td width="504" valign="top" style="width:377.7pt;border:solid #FFD966 1.0pt;
-			border-top:none;background:#FFF2CC;padding:0in 5.4pt 0in 5.4pt">
-			<p><span style="color:black">1 free visit by an
-			expert from SECC to assess company’s pain areas and propose best solutions</span></p>
-			</td>
-			<td width="126" valign="top" style="width:94.5pt;border-top:none;border-left:
-			none;border-bottom:solid #FFD966 1.0pt;border-right:solid #FFD966 1.0pt;
-			background:#FFF2CC;padding:0in 5.4pt 0in 5.4pt">
-			<p><span style="color:black">&nbsp;</span></p>
-			</td>
-			<td width="138" valign="top" style="width:103.5pt;border-top:none;border-left:
-			none;border-bottom:solid #FFD966 1.0pt;border-right:solid #FFD966 1.0pt;
-			background:#FFF2CC;padding:0in 5.4pt 0in 5.4pt">
-			<p align="center" style="text-align:center"><span style="color:black">&nbsp;√</span></p>
-			</td>
-			<td width="150" valign="top" style="width:112.5pt;border-top:none;border-left:
-			none;border-bottom:solid #FFD966 1.0pt;border-right:solid #FFD966 1.0pt;
-			background:#FFF2CC;padding:0in 5.4pt 0in 5.4pt">
-			<p align="center" style="text-align:center"><span style="color:black">&nbsp;√</span></p>
-			</td>
-		</tr>
-		<tr>
-			<td width="504" valign="top" style="width:377.7pt;border:solid #FFD966 1.0pt;
-			border-top:none;padding:0in 5.4pt 0in 5.4pt">
-			<p><span style="color:black">Free training seats
-			at SECC courses (except CMMI, COBIT, TOGAF, ITIL)</span></p>
-			</td>
-			<td width="126" valign="top" style="width:94.5pt;border-top:none;border-left:
-			none;border-bottom:solid #FFD966 1.0pt;border-right:solid #FFD966 1.0pt;
-			padding:0in 5.4pt 0in 5.4pt">
-			<p><span style="color:black">&nbsp;</span></p>
-			</td>
-			<td width="138" valign="top" style="width:103.5pt;border-top:none;border-left:
-			none;border-bottom:solid #FFD966 1.0pt;border-right:solid #FFD966 1.0pt;
-			padding:0in 5.4pt 0in 5.4pt">
-			<p align="center" style="text-align:center"><span style="color:black">&nbsp;√ (1 training seat)</span></p>
-			</td>
-			<td width="150" valign="top" style="width:112.5pt;border-top:none;border-left:
-			none;border-bottom:solid #FFD966 1.0pt;border-right:solid #FFD966 1.0pt;
-			padding:0in 5.4pt 0in 5.4pt">
-			<p align="center" style="text-align:center"><span style="color:black">√ (2 training seats)</span></p>
-			</td>
-		</tr>
-		<tr>
-			<td width="504" valign="top" style="width:377.7pt;border:solid #FFD966 1.0pt;
-			border-top:none;background:#FFF2CC;padding:0in 5.4pt 0in 5.4pt">
-			<p><span style="color:black">Free ISTQB Advance
-			exam seat</span></p>
-			</td>
-			<td width="126" valign="top" style="width:94.5pt;border-top:none;border-left:
-			none;border-bottom:solid #FFD966 1.0pt;border-right:solid #FFD966 1.0pt;
-			background:#FFF2CC;padding:0in 5.4pt 0in 5.4pt">
-			<p><span style="color:black">√ &nbsp;(1 exam
-			seat)</span></p>
-			</td>
-			<td width="138" valign="top" style="width:103.5pt;border-top:none;border-left:
-			none;border-bottom:solid #FFD966 1.0pt;border-right:solid #FFD966 1.0pt;
-			background:#FFF2CC;padding:0in 5.4pt 0in 5.4pt">
-			<p><span style="color:black">√ &nbsp;(1 exam
-			seat)</span></p>
-			</td>
-			<td width="150" valign="top" style="width:112.5pt;border-top:none;border-left:
-			none;border-bottom:solid #FFD966 1.0pt;border-right:solid #FFD966 1.0pt;
-			background:#FFF2CC;padding:0in 5.4pt 0in 5.4pt">
-			<p align="center" style="text-align:center"><span style="color:black">√ &nbsp;(2 exam seats)</span></p>
-			</td>
-		</tr>
-	</tbody>
-</table>
 
+
+<table style="width: 90%; border-style: solid;" border="1" width="90%" cellspacing="5" cellpadding="5">
+<tbody>
+<tr>
+<td style="width: 28.5714%; border-style: solid;" width="575">
+<p><strong>&nbsp;</strong></p>
+<p><strong>Benefits</strong></p>
+</td>
+<td style="width: 11.1111%; border-style: solid;" width="126">
+<p><strong>Silver</strong></p>
+<p><strong>EGP 5,000</strong></p>
+<p><strong>(no limit)</strong></p>
+</td>
+<td style="width: 20.2381%; border-style: solid;" width="150">
+<p><strong>Gold</strong></p>
+<p><strong>EGP&nbsp;10,000</strong></p>
+<p><strong>(10 sponsors only)</strong></p>
+</td>
+<td style="width: 16.2698%; border-style: solid;" width="174">
+<p><strong>Platinum</strong></p>
+<p><strong>EGP 15,000</strong></p>
+<p><strong>(5 sponsors only)</strong></p>
+</td>
+<td style="width: 17.8571%; border-style: solid;" width="294">
+<p><strong>Foreign Sponsors</strong></p>
+<p><strong>USD 1,000</strong></p>
+<p><strong>(no limit)</strong></p>
+</td>
+</tr>
+<tr>
+<td style="width: 28.5714%; border-style: solid;" width="575">
+<p>Displaying 3 minutes Promo&nbsp;video&nbsp;about your company between event talks</p>
+</td>
+<td style="width: 11.1111%; border-style: solid;" width="126">&nbsp;</td>
+<td style="width: 20.2381%; border-style: solid;" width="150">&nbsp;</td>
+<td style="width: 16.2698%; border-style: solid;" width="174">
+<p>&radic;</p>
+</td>
+<td style="width: 17.8571%; border-style: solid;" width="294">
+<p>&radic;</p>
+</td>
+</tr>
+<tr>
+<td style="width: 28.5714%; border-style: solid;" width="575">
+<p>Placing company&rsquo;s logo on Devopsdays Cairo page &amp; SECC website</p>
+</td>
+<td style="width: 11.1111%; border-style: solid;" width="126">
+<p>&radic;</p>
+</td>
+<td style="width: 20.2381%; border-style: solid;" width="150">
+<p>&radic;</p>
+</td>
+<td style="width: 16.2698%; border-style: solid;" width="174">
+<p>&radic;</p>
+</td>
+<td style="width: 17.8571%; border-style: solid;" width="294">
+<p>&radic;</p>
+</td>
+</tr>
+<tr>
+<td style="width: 28.5714%; border-style: solid;" width="575">
+<p>Promoting sponsor in Conference&rsquo;s campaigns</p>
+</td>
+<td style="width: 11.1111%; border-style: solid;" width="126">
+<p>&nbsp;&radic;</p>
+</td>
+<td style="width: 20.2381%; border-style: solid;" width="150">
+<p>&nbsp;&radic;</p>
+</td>
+<td style="width: 16.2698%; border-style: solid;" width="174">
+<p>&nbsp;&radic;</p>
+</td>
+<td style="width: 17.8571%; border-style: solid;" width="294">
+<p>&nbsp;&radic;</p>
+</td>
+</tr>
+<tr>
+<td style="width: 28.5714%; border-style: solid;" width="575">
+<p>Certificate of recognition</p>
+</td>
+<td style="width: 11.1111%; border-style: solid;" width="126">
+<p>&nbsp;&radic;</p>
+</td>
+<td style="width: 20.2381%; border-style: solid;" width="150">
+<p>&nbsp;&radic;</p>
+</td>
+<td style="width: 16.2698%; border-style: solid;" width="174">
+<p>&nbsp;&radic;</p>
+</td>
+<td style="width: 17.8571%; border-style: solid;" width="294">
+<p>&nbsp;&radic;</p>
+</td>
+</tr>
+<tr>
+<td style="width: 28.5714%; border-style: solid;" width="575">
+<p>Placing &ldquo;Thank You Note&rsquo; banner for sponsor on SECC website with link to company&rsquo;s website (pre-event and post-event for 1 month)</p>
+</td>
+<td style="width: 11.1111%; border-style: solid;" width="126">
+<p>&nbsp;</p>
+</td>
+<td style="width: 20.2381%; border-style: solid;" width="150">
+<p>&nbsp;&radic;</p>
+</td>
+<td style="width: 16.2698%; border-style: solid;" width="174">
+<p>&nbsp;&radic;</p>
+</td>
+<td style="width: 17.8571%; border-style: solid;" width="294">
+<p>&nbsp;&radic;</p>
+</td>
+</tr>
+<tr>
+<td style="width: 28.5714%; border-style: solid;" width="575">
+<p>1 free visit by an expert from SECC to assess company&rsquo;s pain areas and propose best solutions</p>
+</td>
+<td style="width: 11.1111%; border-style: solid;" width="126">
+<p>&nbsp;</p>
+</td>
+<td style="width: 20.2381%; border-style: solid;" width="150">
+<p>&nbsp;&radic;</p>
+</td>
+<td style="width: 16.2698%; border-style: solid;" width="174">
+<p>&nbsp;&radic;</p>
+</td>
+<td style="width: 17.8571%; border-style: solid;" rowspan="3" width="294">
+<p>&nbsp;These benefits are substituted by:</p>
+<p>&radic; (5 training seats at online courses &nbsp;except CMMI, COBIT, TOGAF, ITIL)</p>
+</td>
+</tr>
+<tr>
+<td style="width: 28.5714%; border-style: solid;" width="575">
+<p>Free training seats at SECC courses (except CMMI, COBIT, TOGAF, ITIL)</p>
+</td>
+<td style="width: 11.1111%; border-style: solid;" width="126">
+<p>&nbsp;</p>
+</td>
+<td style="width: 20.2381%; border-style: solid;" width="150">
+<p>&nbsp;&radic; (1 training seat)</p>
+</td>
+<td style="width: 16.2698%; border-style: solid;" width="174">
+<p>&radic; (2 training seats)</p>
+</td>
+</tr>
+<tr>
+<td style="width: 28.5714%; border-style: solid;" width="575">
+<p>Free ISTQB Advance exam seat</p>
+</td>
+<td style="width: 11.1111%; border-style: solid;" width="126">
+<p>&radic; &nbsp;(1 exam seat)</p>
+</td>
+<td style="width: 20.2381%; border-style: solid;" width="150">
+<p>&radic; &nbsp;(1 exam seat)</p>
+</td>
+<td style="width: 16.2698%; border-style: solid; borderWidth: thin;" width="174">
+<p>&radic; &nbsp;(2 exam seats)</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
