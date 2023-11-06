@@ -24,7 +24,7 @@ Description = "devopsdays Recife 2023"
         <strong>Local</strong>
       </div>
       <div class = "col-md-8">
-        {{< event_link page="local" text="CESAR School" title="Local" >}}
+        {{< event_link page="local" text="ETE Porto Digital" title="Local" >}}
       </div>
     </div>
     <div class = "row">
