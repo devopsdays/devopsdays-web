@@ -2,7 +2,7 @@
 Categories = []
 Description = ""
 Tags = []
-date = "2015-11-22T01:21:47-06:00"
+date = "2023-11-06T23:40:47-06:00"
 title = "Devopsdays - Organizing Guide"
 aliases = ["/pages/organizing/", "/pages/organising/", "/organising/"]
 +++
@@ -62,7 +62,7 @@ We'll also invite all your organizers to the global devopsdays organizer Slack t
 
 ### Code of Conduct
 
-A well-defined Code of Conduct (CoC) is essential for every event. It sets the behavioral expectations and ensures a safe environment for all participants. Adhering to and enforcing the CoC is non-negotiable. You can use or adapt [the provided template](https://github.com/devopsdays/devopsdays-web/blob/master/utilities/examples/content/events/yyyy-city/conduct.md) as desired.
+A well-defined Code of Conduct (CoC) is essential for every event. It sets the behavioral expectations and ensures a safe environment for all participants. Adhering to and enforcing the CoC is non-negotiable. You can use or adapt [the provided template](https://github.com/devopsdays/devopsdays-web/blob/master/utilities/examples/content/events/yyyy-city/conduct.md) as desired. **Note: You will need to have a code of conduct for each event before your initial pull request will be merged.**
 
 The code of conduct must include the following:
 
@@ -74,6 +74,40 @@ The code of conduct must include the following:
   
 - **Post-Event Review**: After the event, review any CoC violations and assess how they were handled. This review can provide insights for future events.
 
+---
+
+## Important Dates
+
+* **T-12 Months to Event:** Kick off venue search, if needed
+  - Why: Venues book out in advance, and in fact, larger venues book out years in advance.
+* **T-10 Months to Event:** Kick off budget discussions
+  - Why: Helps determine sponsorships (and the cost for each) needed and the ticket price. See [Finances](#handling-finances) and [Budgeting](#budgeting) for more information.
+* **T-9.5 Months to Event:** Pick venue
+  - Why: See above, but its good to get this locked in. Check out [Selecting a Venue](#selecting-a-venue) for more information.
+* **T-9 Months to Event:** Confirm organizers
+  - Why: Start formulating and start [distributing the work](#distributing-the-work)
+* **T-8 Months to Event:** Start org dinner
+  - Why: "Breaking bread" with your fellow organizers is a good way to kick things off. Organizing will have its ups and downs, start it off strong. 
+* **T-8 Months to Event:** Ensure sponsor prospectus goes out.
+  - Why: Sponsors, especially larger companies, lock in budgets the financial year prior. It is best to get on their radar now instead of after your program has gone live. See [Finding & Handling Sponsors](#findinghandling-sponsors) for more information.
+* **T-7.5 Months to Event:** Ensure CFP goes out
+  - Why: If you're trying to draw in the most content possible, having your CFP open for maximum duration draws the most abstracts. It allows your team to also set a good program. See [Call for Proposals](#call-for-proposals) for more information.
+* **T-7.5 Months to Event:** Kick off semimonthly meetings
+  - Why: It is good to establish a healthy cadence with check-in points and being able to get visibility on how ticket, sponsorship and submissions are going. 
+* **T-7 Months to Event:** Ensure marketing is off and running
+  - Why: Marketing is tricky, especially as a new event in a world where social media is quickly changing. Be sure to check out the [Visibility](#visibility) section for some tips and tricks.
+* **T-6.5 Months to Event:** Ensure registration opens
+  - Why: The more time the registration is open, the more potential visibility it gets. Be sure to checkout the [Setting Up Registration](#setting-up-registration) section for more information.
+* **T-4.5 months before Event:** Initiate voting of submissions with the organizers
+  - Why: Certain speakers submit to multiple events, require notice to their employers and/or require (international) travel. Getting voting done, on time, and in advance, allows those individuals to arrange the needful. Visit [Setting Your Program](#setting-your-program) for more information. 
+* **T-3.5 months before Event:** Launch the program
+  - Why: Your program absolutely drives [visibility](#visibility) of your event. Your speakers can help market the event and at the same time would-be buyers might be waiting on your program before purchasing a ticket. 
+* **T-3.5 months before Event:** Ensure early bird closes
+  - Why: Often paired with launching the program, you should close early bird. Reward those that made an investment to purchase a ticket to an event without a program and encourage your population next year to do the same. 
+* **One Month before Event:** Check on volunteers
+  - Why: The team has been organizing, but you might need day of volunteers to help out. Check with your friends, family, colleagues, meetup participants, etc to see who can help in exchange for access to the event.
+* **Month of Event:** Host
+  - Why: Time to review the [Running the event itself](#running-the-event-itself) section for some guidance on the days of. GOOD LUCK, YOU GOT THIS!
 
 ---
 
@@ -225,7 +259,7 @@ The DevOpsDays logo, characterized by gears in the brain, has become an emblemat
   
 - [Cape Town 2016](https://www.devopsdays.org/events/2016-capetown/logo.png): Incorporates the distinctive Table Mountain skyline with the gears.
 
-- [Amsterdam 2022](https://devopsdays.org/events/2022-amsterdam/logo.png): Incorprates the venue that the conference has used for all of the editions with the gears in the background. 
+- [Amsterdam 2022](https://devopsdays.org/events/2022-amsterdam/logo.png): Incorporates the venue that the conference has used for all of the editions with the gears in the background. 
 
 ### Design Exercise:
 
@@ -244,7 +278,7 @@ Update your data file for your event to add your start & end dates; this adds yo
 
 ### Visibility
 
-With the dispersal of tech communities from Twitter, a lot of community events are struggling to reach people. If you’ve been in the organizing community for a while or came from not-tech like me, a lot of these following tips will be very familiar to you.
+With the dispersal of tech communities from Twitter, a lot of community events are struggling to reach people. If you’ve been in the organizing community for a while or come from outside the tech world like some of us, a lot of these following tips will be very familiar to you.
 
 - **Mailing Lists**:
   - Use your mailing list to announce ticket availability, early bird offers, agenda releases, and event countdowns. Keep emails informative and limit their frequency to maintain engagement.
@@ -276,7 +310,9 @@ Effective delegation is key to ensuring the smooth organization of your event. I
 - **Ignite Proposals**: Delegate someone to handle ignite talk submissions.
   
 - **Website Updates**: Designate a person or a pair to maintain and update the event's website.
-  
+
+- **Speakers**: Designate a person or pair to handle all speaker communications, so speakers have a clear point of contact ensuring that all their details are in place.
+
 - **Sponsorships**: Assign responsibilities for liaising with sponsors, managing agreements, and ensuring deliverables.
   
 - **Registration & Invoicing**: Designate someone to oversee attendee registrations, handle invoicing, and respond to related queries.
@@ -412,7 +448,7 @@ Even with the [rules](#essential-rules-for-organizing) and guidance above, we st
 
 We want to ensure that anyone who's interested in attending a devopsdays is able to, and that price is not a barrier. So, you'll want to keep your prices relatively low compared to many industry conferences.
 
-Remember that the goal is building and maintaining a community, so as long as there are talks that people value and you aren’t breaking your budget holding it (NO PERSONAL MONEY. I’m serious.), make it easy for people to be there and let the rest fall where it falls. 
+Remember that the goal is building and maintaining a community, so as long as there are talks that people value and your event can be run within your budgetary constraints, make it easy for people to be there and let the rest fall where it falls. Finally, a good reminder to avoid using your personal finances to back the event.
 
 ### Free registration
 
@@ -472,7 +508,7 @@ So, when should you get worried considering how the last two weeks are often the
 - Did we get a spike during the first ticket sales week? Was there a initial interest to know that we’ve got an audience.
 - Did we sell a good bit of early bird tickets? What to look for is probably 15% of the expected ticket sales (e.g., of 400, 60 early birds). Again, this shows an audience and interest.
 - Did the speaker/agenda announcement gain another decent spike (\~10% of expected sales)? This percentage will be spread out, and you can track it a bit if you use a specific ticket link or code for the posts that you and speakers send out for awareness.
-- Did we hit about 40-50% of expected ticket sales **minus sponsors, speakers, organizers, and volunteers** by a month or so out? This percentage is a bit fluffy as it depends on how well you’ve been utilizing the [visibility tools](#visibility). If you forgot to send emails out or announced your agenda late, you probably are closer to 25-30% at this point. Go start leaning on those tools!!! Your percentage may also be different if you’re hitting a weird point between fiscal quarters, so keep that in mind as my current percentage comes from late April/early May community events.
+- Did we hit about 40-50% of expected ticket sales **minus sponsors, speakers, organizers, and volunteers** by a month or so out? This percentage is a bit fluffy as it depends on how well you’ve been utilizing the [visibility tools](#visibility). If you forgot to send emails out or announced your agenda late, you probably are closer to 25-30% at this point. Go start leaning on those tools!!! Percentage may also be different if you’re hitting a point between fiscal quarters.
 
 In addition, these numbers have shifted since the shift after lockdowns and the fractures in social media audiences; they may shift again!
 
