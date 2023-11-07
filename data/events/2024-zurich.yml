@@ -99,7 +99,7 @@ team_members: # Name is the only required field for team members.
   - name: "Flavio Monigatti"
     twitter: "monfla00"
     employer: "Inspify Pte Ltd"
-    bio: "Flavio is the co-founder and the tech brain behind INSPIFY. As he discovered his natural talent for technology and sciences from a very young age, Flavio began a path of a highly-acclaimed academic career – where he completed his Masters and Doctorate Degree at the University of Basel, Switzerland, majoring in Biosciences and Bioinformatics. After which, he pursued his Postdoctoral Research Studies at the Boston Children’s Hospital and Harvard Medical School. After working in various nations within the tech industry, Flavio then branched out and co-founded INSPIFY, with an aim to revolutionise the luxury retail landscape."
+    bio: "Flavio is a passionate advocate for DevOps and MLOps (DevOps for Machine Learning), bringing with him a dynamic enthusiasm for these transformative methodologies. With a rich background in engineering, Flavio is also deeply involved in the practical application of these principles, helping customers realize the benefits of how DevOps and MLOps revolutionizes the way we think about and execute software development and operations."
     linkedin: "https://www.linkedin.com/in/flavio-monigatti-5065076/"
     image: "flavio-monigatti.jpg"
   - name: "Zoltan Vitus"
