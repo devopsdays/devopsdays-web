@@ -6,8 +6,8 @@ description: "Devopsdays is coming to Halifax!, Stay tuned for more info!" # Edi
 # ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 event_group: "Halifax"
 
-startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate:  2024-08-21
+enddate:  2024-08-22
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  # start accepting talk proposals.
@@ -27,14 +27,14 @@ sharing_image: "halifax-sharing.png"
 
 # Location
 #
-coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Halifax" # Defaults to city, but you can make it the venue name.
+coordinates: "44.63908640544563, -63.58961385789781" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Marion McCain Arts and Social Sciences Building, Dalhousie University, Halifax, NS, Canada" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "6135 University Ave, Halifax, NS B3H 4P9, Canada" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
- # - name: location
+  - name: location
  # - name: registration
  # - name: program
  # - name: speakers
@@ -52,9 +52,9 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 team_members: # Name is the only required field for team members.
   - name: "Dewan Ahmed"
     image: "dewan-ahmed.jpg"
-    bio: "Dewan Ahmed is a Senior Developer Advocate at Aiven, a company that offers a fully managed, open source cloud data platform. Before joining Aiven, he worked at IBM and Red Hat as a developer, QA lead, consultant, and developer advocate. For the last nine years, Dewan has worked to solve DevOps and infrastructure problems for small startups, large enterprises, and governments. Starting his public speaking at a toastmaster in 2016, he has been speaking at tech conferences and meetups for the last six years. His work is fueled by a passion for open-source and a deep respect for the tech community."
-    role: "Senior Developer Advocate"
-    employer: "Aiven"
+    bio: "Dewan Ahmed serves as a Principal Developer Advocate at Harness, leveraging his decade-long experience tackling DevOps challenges across startups, corporates, and governments. With past roles at IBM, Red Hat, and Aiven, he is a seasoned developer relations professional.  A tech speaker since 2016, he champions open-source and values community engagement."
+    role: "Principal Developer Advocate"
+    employer: "Harness"
     github: "dewan-ahmed"
     twitter: "DewanAhmed"
     linkedin: "https://www.linkedin.com/in/diahmed/"
