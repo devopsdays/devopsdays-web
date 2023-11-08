@@ -2,7 +2,7 @@
 Title = "Augusto Ribeiro"
 Twitter = "gutobrutus"
 linkedin = "https://www.linkedin.com/in/augusto-ribeiro-b884002a/"
-#image = "wolnei.jpg"
+image = "augusto-ribeiro.jpeg"
 type = "speaker"
 linktitle = "augusto-ribeiro"
 
