@@ -4,7 +4,7 @@ city: "Poznań" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdayspoz" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 event_linkedin: "https://www.linkedin.com/company/devopsdayspoznan/"
 description: "DevOpsDays is coming to Poznań!" # Edit this to suit your preferences
-# ga_tracking_id: "52.4064, 16.9252" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+ga_tracking_id: "G-3HMCE4P51Z" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 event_group: "Poznań"
 
 # All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
@@ -12,40 +12,40 @@ event_group: "Poznań"
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2023-12-07T18:00:00+01:00  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  2023-12-07T21:00:00+01:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 
-cfp_date_start:  2023-10-10T00:00:00+02:00 # start accepting talk proposals.
-cfp_date_end:  2023-12-31T23:59:59+02:00 # close your call for proposals.
+cfp_date_start:  2023-11-01T00:00:00+02:00 # start accepting talk proposals.
+cfp_date_end:  2023-12-06T23:59:59+02:00 # close your call for proposals.
 # cfp_date_announce:  2020-02-28T00:00:00+02:00 # announce speakers.
 
 cfp_open: "true"
 cfp_link: "https://docs.google.com/forms/d/e/1FAIpQLSeaelybJuUpcNmculGycoEKQsshIfp5evZuKGcNsmH-klNizg/viewform?usp=sf_link" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start:  # start accepting registration. Leave blank if registration is not open yet
-registration_date_end:  # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2023-11-01T00:00:00+02:00  # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2023-12-06T23:59:59+02:00 # close registration. Leave blank if registration is not open yet.
 
 #registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link:  # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
-coordinates: "52.40418436826719, 16.921568955355454" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+coordinates: "52.40109620791233, 16.91983545333972" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Poznań" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "Allegro, Nowy Rynek, Przemysłowa 3, 61-579 Poznań" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 #location_address: "Poznań Supercomputing and Networking Center, Jana Pawła II 10, 61-139 Poznań" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 # sharing_image: "sharing.jpg"
 nav_elements: # List of pages you want to show up in the navigation of your page.
-#  - name: location
+  - name: location
   - name: propose
 #  - name: registration
-#  - name: program
-#  - name: speakers
-#  - name: sponsor
+  - name: program
+  - name: speakers
+  - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
@@ -57,7 +57,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 team_members: # Name is the only required field for team members.
 
   - name: "Łukasz Przybył"
-    employer: "Sphera"
+    employer: "Formiq"
     linkedin: "https://www.linkedin.com/in/lukasz-przybyl/"
     twitter: "luprzybyl"
     image: lukasz-przybyl.jpg
@@ -86,9 +86,9 @@ organizer_email: "poznan@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  # - id: psnc
-  #   level: organizing
-  #   url: https://www.psnc.pl/
+  - id: allegro
+    level: partner
+    url: https://www.allegro.pl/
   # - id: trecom
   #   level: organizing
   #   url: https://www.trecom.pl/en/trecom-develop-and-optimize-your-it-system/
@@ -118,7 +118,7 @@ sponsors:
 #  - id: olx
 #    level: workshop
 
-sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -129,36 +129,36 @@ sponsor_levels:
     label: Partner
   - id: organizing
     label: Organizing
-    max: 100
+    max: 3
 #  - id: workshop
 #    label: Workshop
 
-# program:
-#   - title: "Registration"
-#     type: custom
-#     date: 2021-10-04
-#     start_time: "09:00"
-#     end_time: "10:00"
-#   - title: "Opening ceremony"
-#     type: custom
-#     date: 2021-10-04
-#     start_time: "10:00"
-#     end_time: "10:15"
-#   - title: "manuel-pais"
-#     type: talk
-#     date: 2021-10-04
-#     start_time: "10:15"
-#     end_time: "10:50"
-#   - title: "Coffee break"
-#     type: custom
-#     date: 2021-10-04
-#     start_time: "11:25"
-#     end_time: "11:45"
-#   - title: "Ignite talks"
-#     type: ignite
-#     date: 2021-10-04
-#     start_time: "11:45"
-#     end_time: "12:20"
+program:
+  - title: "Opening"
+    type: custom
+    date: 2023-12-07
+    start_time: "18:00"
+    end_time: "18:15"
+  - title: "building-ai-chatbot"
+    type: talk
+    date: 2023-12-07
+    start_time: "18:15"
+    end_time: "19:00"
+  - title: "Coffee break"
+    type: custom
+    date: 2021-12-07
+    start_time: "19:00"
+    end_time: "19:30"
+  - title: "Ignite talks"
+    type: ignite
+    date: 2021-12-07
+    start_time: "19:30"
+    end_time: "20:00"
+  - title: "Pizza and networking"
+    type: custom
+    date: 2023-12-07
+    start_time: "20:00"
+    end_time: "21:00"
 
 # ignites:
 #    - title: "pawel-sztromwasser"
