@@ -28,7 +28,7 @@ registration_date_start: 2023-11-01T00:00:00+02:00  # start accepting registrati
 registration_date_end: 2023-12-06T23:59:59+02:00 # close registration. Leave blank if registration is not open yet.
 
 #registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link:  # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: https://www.meetup.com/devopspoznan/events/297243440  # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -42,7 +42,7 @@ location_address: "Allegro, Nowy Rynek, Przemysłowa 3, 61-579 Poznań" #Optiona
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
   - name: propose
-#  - name: registration
+  - name: registration
   - name: program
   - name: speakers
   - name: sponsor
@@ -87,7 +87,7 @@ organizer_email: "poznan@devopsdays.org" # Put your organizer email address here
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
   - id: allegro
-    level: partner
+    level: organizing
     url: https://www.allegro.pl/
   # - id: trecom
   #   level: organizing
@@ -125,8 +125,6 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: partner
-    label: Partner
   - id: organizing
     label: Organizing
     max: 3
@@ -144,22 +142,24 @@ program:
     date: 2023-12-07
     start_time: "18:15"
     end_time: "19:00"
-  - title: "Coffee break"
+  - title: "Break"
     type: custom
-    date: 2021-12-07
+    date: 2023-12-07
     start_time: "19:00"
     end_time: "19:30"
-  - title: "Ignite talks"
+  - title: "Lightning talks"
     type: ignite
-    date: 2021-12-07
+    date: 2023-12-07
     start_time: "19:30"
     end_time: "20:00"
-  - title: "Pizza and networking"
+  - title: "Pizza, networking, OpenSpace"
     type: custom
     date: 2023-12-07
     start_time: "20:00"
     end_time: "21:00"
 
-# ignites:
-#    - title: "pawel-sztromwasser"
-#      date: 2021-10-04
+ignites:
+   - title: "vault-k8s"
+     date: 2023-12-07
+   - title: "mateusz-g"
+     date: 2023-12-07

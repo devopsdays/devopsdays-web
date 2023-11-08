@@ -7,9 +7,9 @@ Description = "DevOpsDays Poznań 2023"
 
 <h3> {{< event_start >}} </h3>
 
-**DevOpsDays is coming to Poznań in 2023, Poland again! More info coming soon!**
+**DevOpsDays is coming to Poznań in 2023, Poland again!**
 
-<p>We're currently collecting topics for presentations and once we get few interesting ones, we will update the page with event dates and details.</p>
+<p>While our agenda fills up, we're still collecting topics for presentations. Go ahead and submit a proposal. If you won't be chosen for this edition we will very likely contact you while organizing next ones!.</p>
 <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSeaelybJuUpcNmculGycoEKQsshIfp5evZuKGcNsmH-klNizg/viewform" target="_blank">Propose your talk!</a></p>
 
 
