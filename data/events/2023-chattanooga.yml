@@ -77,6 +77,7 @@ team_members: # Name is the only required field for team members.
   - name: "Brayton Finch"
   - name: "Kaitlyn Poulakis"
   - name: "Rachel Grundy"
+    image: "rachel-grundy.jpg"
 
 organizer_email: "chattanooga@devopsdays.org" # Put your organizer email address here
 
@@ -95,6 +96,12 @@ sponsors:
     level: community
   - id: unum
     level: gold
+  - id: harness
+    level: bronze
+  - id: aptible
+    level: silver
+  - id: engineerkit
+    level: community
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.

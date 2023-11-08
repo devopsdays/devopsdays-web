@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "DevOps Adoption Patterns at ASML IT: Stimulating a DevOps Mindset and Fostering Best Practices."
 Type = "talk"
 Speakers = ["phani-bhushan","tom-slenders"]
+Youtube = "Mx7OmSVeO24"
 +++
 
 Our presentation will explore the diverse approaches we are implementing within ASML IT to stimulate a DevOps mindset and foster the adoption of various DevOps practices. We believe our insights will provide valuable learnings and inspiration to the DevOps community attending the DevOps Days.

@@ -36,7 +36,7 @@ location: "Universidad del Valle La Paz, Torre Innovación" # Defaults to city, 
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
 # - name: locatiion
-#  - name: program
+  - name: program
   - name: speakers
   - name: sponsor
   - name: contact
@@ -101,6 +101,83 @@ sponsors:
     level: plata
     url: https://agiletalent.club/
 
+program:
+#date: 2023-10-28 (Talks)
+  - title: "pablo-pacheco"
+    type: talk
+    date: 2023-10-28T00:00:00-04:00
+    start_time: "09:00"
+    end_time: "09:45"
+  - title: "rodolfo-justiniano"
+    type: talk
+    date: 2023-10-28T00:00:00-04:00
+    start_time: "09:45"
+    end_time: "10:30"
+  - title: "milton-hilara"
+    type: talk
+    date: 2023-10-28T00:00:00-04:00
+    start_time: "10:30"
+    end_time: "11:15"
+  - title: "sthepanie-saavedra"
+    type: talk
+    date: 2023-10-28T00:00:00-04:00
+    start_time: "11:15"
+    end_time: "12:00"
+  - title: "fernando-iquiza"
+    type: talk
+    date: 2023-10-28T00:00:00-04:00
+    start_time: "12:00"
+    end_time: "12:45"
+  - title: "break"
+    type: custom
+    date: 2023-10-28T00:00:00-04:00
+    start_time: "12:45"
+    end_time: "14:00"
+  - title: "luis-mita"
+    type: talk
+    date: 2023-10-28T00:00:00-04:00
+    start_time: "14:00"
+    end_time: "14:45"
+  - title: "esteban-saavedra"
+    type: talk
+    date: 2023-10-28T00:00:00-04:00
+    start_time: "14:45"
+    end_time: "15:30"
+  - title: "ibar-vasquez"
+    type: talk
+    date: 2023-10-28T00:00:00-04:00
+    start_time: "15:30"
+    end_time: "16:15"
 
-#program:
-# date: 2022-10-26 (Talks)
+# date: 2023-10-28 (Workshops)
+# Auditorio 2
+  - title: "arturo-hernandez"
+    type: talk
+    date: 2023-10-28
+    start_time: "09:00"
+    end_time: "09:45"
+  - title: "daniel-vargas"
+    type: workshop
+    date: 2023-10-28
+    start_time: "09:45"
+    end_time: "11:15"
+  - title: "anthony-flores"
+    type: workshop
+    date: 2023-10-28
+    start_time: "11:15"
+    end_time: "12:45"
+  - title: "break"
+    type: custom
+    date: 2023-10-28
+    start_time: "12:45"
+    end_time: "14:00"
+  - title: "esteban-lima"
+    type: workshop
+    date: 2023-10-28
+    start_time: "14:00"
+    end_time: "14:45"
+  - title: "jose-arroyo"
+    type: talk
+    date: 2023-10-28
+    start_time: "14:45"
+    end_time: "15:30"
