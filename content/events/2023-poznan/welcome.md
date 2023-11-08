@@ -41,7 +41,7 @@ Description = "DevOpsDays Poznań 2023"
     </div>
     <div class="row">
       <div class="col-md-2"><strong>LinkedIn</strong></div>
-      <div class="col-md-8"><a href=" " target="blank">Subscribe to our LinkedIn Page for Updates!</a></div>
+      <div class="col-md-8"><a href="https://www.linkedin.com/company/devopsdayspoznan/" target="_blank">Subscribe to our LinkedIn Page for Updates!</a></div>
     </div>
     <div class="row">
       <div class="col-md-2"><strong>Twitter</strong></div>
