@@ -1,6 +1,6 @@
 +++
-Talk_date = "2022-11-11"
-Talk_start_time = "13:30"
+Talk_date = "2023-11-11"
+Talk_start_time = "13:00"
 Talk_end_time = "13:25"
 Title = "Helm e Django: Escrevendo configurações com Segurança"
 Type = "talk"
