@@ -194,7 +194,7 @@ program:
     date: 2023-11-11
     start_time: "13:50"
     end_time: "13:55"
-  - title: "tiago-temporin"
+  - title: "rodney-reis"
     type: talk
     date: 2023-11-11
     start_time: "13:55"
@@ -219,7 +219,7 @@ program:
     date: 2023-11-11
     start_time: "16:15"
     end_time: "16:50"
-  - title: "anderson-soffa"
+  - title: "tiago-temporin"
     type: talk
     date: 2023-11-11
     start_time: "16:50"
