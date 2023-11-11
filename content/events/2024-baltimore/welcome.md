@@ -11,6 +11,10 @@ Description = "devopsdays Baltimore 2024"
   </div>
   <div class = "row justify-content-center">
     <h2><p>Welcome to DevOps Days Baltimore 2024!</p></h2>
+    <br>
+    <h4>
+      <p>DevOpsDays Baltimore, happening on May 21-22, is a concise, content-rich event for Central Maryland DevOps professionals. It features back-to-back 30-minute keynotes on topical issues and innovations in the field. The program also includes 5-minute ignite talks for rapid-fire knowledge and idea-sharing. Every afternoon will also include an Open Spaces portion, where any and every attendee can propose their own topic, and break into small groups to discuss it with anyone interested. DevOpsDays Baltimore is an opportunity to connect with peers and gain insights relevant to modern DevOps challenges and solutions.</p>
+    </h4>
   </div>
 </div>
 
@@ -95,5 +99,14 @@ Description = "devopsdays Baltimore 2024"
   </div>
   <div class = "col-md-8">
     {{< event_link url-key="slack_link" text="Join our slack for pre-event communication and Volunteering opportunities" >}}
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>LinkedIn</strong>
+  </div>
+  <div class = "col-md-8">
+    <a rel="me" target="_blank" href="https://www.linkedin.com/company/devopsdays-baltimore"><span class="btn btn-sm rounded-pill btn-info"><i class="fab fa-linkedin fa-md" ></i> Follow DevOpsDays Baltimore on LinkedIn</span></a>
   </div>
 </div>
