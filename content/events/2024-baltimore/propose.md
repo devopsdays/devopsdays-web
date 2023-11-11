@@ -7,6 +7,8 @@ Description = "Propose a talk for devopsdays Baltimore 2024"
 
 <hr>
 
+<h2>{{< event_link url-key="cfp_link" text="Propose a talk, now!" >}}</h2>
+
 There are three ways to propose a topic at devopsdays:
 <ol>
   <li><strong><em>A 30-minute talk</em></strong> presented during the conference, usually in the mornings.</li>
@@ -25,11 +27,6 @@ Choosing talks is part art, part science; here are some factors we consider when
 - _no third-party submissions_: This is a small community-driven event, and speakers need to be directly engaged with the organizers and attendees. If a PR firm or your marketing department is proposing the talk, you've already shown that as a speaker you're distant from the process.
 - _no vendor pitches_: As much as we value vendors and sponsors, we are not going to accept a talk that appears to be a pitch for your product.
 
+If you have any questions about the process, contact the organizaers by email: {{< email_organizers >}}
 <hr>
 
-<strong>How to submit a proposal:</strong> Send an email to [{{< email_organizers >}}] with the following information
-<ol>
-	<li>Type (presentation, panel discussion, ignite)</li>
-	<li>Proposal Title (can be changed later)</li>
-	<li>Description (several sentences explaining what attendees will learn)</li>
-</ol>

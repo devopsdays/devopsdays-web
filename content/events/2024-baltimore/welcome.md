@@ -35,14 +35,14 @@ Description = "devopsdays Baltimore 2024"
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
+    <strong>{{< event_link url-key="cfp_link" text="Propose a talk, now!" >}}</strong>
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
