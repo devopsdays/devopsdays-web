@@ -88,6 +88,20 @@ sponsors:
     level: silver
   - id: infosec716
     level: community
+  - id: dragondropcloud
+    level: silver
+  - id: mandtbank
+    level: gold
+  - id: techbuffalo
+    level: badge
+  - id: osmi
+    level: bronze
+  - id: scout
+    level: silver
+  - id: microsoftazure
+    level: silver
+  - id: honeycomb
+    level: silver
 
 #  - id: samplesponsorname
 #    level: gold
@@ -109,6 +123,9 @@ sponsor_levels:
   - id: bronze
     label: Bronze
     max: 5
+  - id: badge
+    label: Badge
+    max: 1
   - id: community
     label: Community
 
@@ -143,7 +160,7 @@ program:
     date: 2023-09-27
     start_time: "10:50"
     end_time: "11:00"
-  - title: "aman-sardana"
+  - title: "mey-beisaron"
     type: talk
     date: 2023-09-27
     start_time: "11:00"
@@ -174,7 +191,7 @@ program:
     date: 2023-09-27
     start_time: "14:05"
     end_time: "15:35"
-  - title: "adam-furmanek"
+  - title: "baruch-sadogursky"
     type: talk
     date: 2023-09-27
     start_time: "15:40"
@@ -199,13 +216,13 @@ program:
     date: 2023-09-28
     start_time: "08:45"
     end_time: "09:00"
-  - title: "jessica-kerr"
+  - title: "jason-harley"
     type: talk
     date: 2023-09-28
     start_time: "09:00"
     end_time: "09:40"
-  - title: "baruch-sadogursky"
-    type: talk
+  - title: "Sponsor Showcase and Hallway Track"
+    type: custom
     date: 2023-09-28
     start_time: "09:45"
     end_time: "10:15"
@@ -249,12 +266,12 @@ program:
     date: 2023-09-28
     start_time: "14:05"
     end_time: "15:35"
-  - title: "ken-de-souza"
+  - title: "zack-glick"
     type: talk
     date: 2023-09-28
     start_time: "15:40"
     end_time: "16:10"
-  - title: "vino-duraisamy"
+  - title: "ken-de-souza"
     type: talk
     date: 2023-09-28
     start_time: "16:15"
@@ -275,7 +292,7 @@ ignites:
   - title: "steve-martinelli"
     date: 2023-09-27
     block: "ignite"
-  - title: "jeremy-meiss"
+  - title: "christopher-johnson"
     date: 2023-09-27
     block: "ignite"
   - title: "david-hope"

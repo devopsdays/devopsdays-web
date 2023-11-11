@@ -22,10 +22,10 @@ Description = "Speakers, sessions, ignites, meals"
                 <thead>
                     <tr>
                         <th class="col-time">Schedule</th>
-                        <th><div>DevOps Track 1</div></th>
-                        <th><div>DevOps Track 2</div></th>
-                        <th><div>Agile Track 1</div></th>
-                        <th><div>Agile Track 2</div></th>
+                        <th><div>DevOps Track 1 - 302/303</div></th>
+                        <th><div>DevOps Track 2 - 304/305</div></th>
+                        <th><div>Agile Track 1 - 306/307</div></th>
+                        <th><div>Agile Track 2 -308/309</div></th>
                     </tr>
                 </thead>
                 <tbody>
@@ -71,14 +71,14 @@ Description = "Speakers, sessions, ignites, meals"
                         <td class="col-time">10:15 - 11:00</td>
                         <td>
                             <div class="col-lg-8">
-                                <a href="/events/2023-des-moines/speakers/micheal-feathers/">
-                                    <img class="img rounded-circle" src="/events/2023-des-moines/speakers/michael-feathers.png" height="60px"
+                                <a href="/events/2023-des-moines/speakers/matt-vincent/">
+                                    <img class="img rounded-circle" src="/events/2023-des-moines/speakers/matt-vincent.png" height="60px"
                                         width="60px" alt="">
                                 </a>
-                                <h4>Micheal Feathers</h4>
+                                <h4>Matt Vincent</h4>
                             </div>
                             <div class="col-lg-8">
-                                <a href="/events/2023-des-moines/program/michael-feathers/">DevOps, Development Cadence and the Product Life Cycle</a>
+                                <a href="/events/2023-des-moines/program/matt-vincent/">Avoiding the AI Abyss: Preserving Engineering Best Practices</a>
                             </div>
                         </td>
                         <td>
@@ -191,8 +191,27 @@ Description = "Speakers, sessions, ignites, meals"
                     <!-- Break Row -->
                     <tr class="col-all">
                         <td class="col-time">1:30 - 2:00</td>
-                        <td colspan="5"><h4>Ignite Talks</h4>
-                        <div class="col-lg-12 program-page-desc">Location: Ballroom</div></td>
+                        <td colspan="1"><h4>Ignite Talks</h4>
+                        <div class="col-lg-8 program-page-desc">Location: Ballroom<br/>
+                                    <img class="img rounded-circle" src="/events/2023-des-moines/organizers/tim-gifford.jpg" height="60px"
+                                        width="60px" alt="">
+                                <h4>Tim Gifford</h4>
+                            </div>
+                        </td>
+                        <td colspan="1"><h4>&nbsp;</h4>
+                        <div class="col-lg-8 program-page-desc">&nbsp;<br/>
+                                    <img class="img rounded-circle" src="/events/2023-des-moines/speakers/brian-gerhards.png" height="60px"
+                                        width="60px" alt="">
+                                <h4>Brian Gerhards</h4>
+                            </div>
+                        </td>
+                        <td colspan="1"><h4>&nbsp;</h4>
+                        <div class="col-lg-8 program-page-desc">&nbsp;<br/>
+                                    <img class="img rounded-circle" src="/events/2023-des-moines/speakers/jack-viers.png" height="60px"
+                                        width="60px" alt="">
+                                <h4>Jack Viers</h4>
+                            </div>
+                        </td>
                     </tr>
                     <!-- Break Row -->
                     <tr class="col-all">
@@ -232,7 +251,28 @@ Description = "Speakers, sessions, ignites, meals"
                                     <img class="img rounded-circle" src="/events/2023-des-moines/speakers/amy-lindberg.png" height="60px"
                                         width="60px" alt="">
                                 </a>
-                                <h4>Amy Lindberg & Panel</h4>
+                                <h4>Amy Lindberg</h4>
+                            </div>
+                            <div class="col-lg-8">
+                                <a href="/events/2023-des-moines/speakers/barry-closser/">
+                                    <img class="img rounded-circle" src="/events/2023-des-moines/speakers/barry-closser.png" height="60px"
+                                        width="60px" alt="">
+                                </a>
+                                <h4>Barry Closser</h4>
+                            </div>
+                            <div class="col-lg-8">
+                                <a href="/events/2023-des-moines/speakers/bex-streeper/">
+                                    <img class="img rounded-circle" src="/events/2023-des-moines/speakers/bex-streeper.png" height="60px"
+                                        width="60px" alt="">
+                                </a>
+                                <h4>Bex Streeper</h4>
+                            </div>
+                            <div class="col-lg-8">
+                                <a href="/events/2023-des-moines/speakers/pallavi-dukle/">
+                                    <img class="img rounded-circle" src="/events/2023-des-moines/speakers/pallavi-dukle.png" height="60px"
+                                        width="60px" alt="">
+                                </a>
+                                <h4>Pallavi Dukle</h4>
                             </div>
                             <div class="col-lg-8">
                                 <a href="/events/2023-des-moines/program/amy-lindberg">Panel: The Value of Diversity in Tech</a>
@@ -274,11 +314,11 @@ Description = "Speakers, sessions, ignites, meals"
         <table class="table">
             <thead>
                 <tr>
-                    <th class="col-time">Schedule</th>
-                    <th>DevOps Track 1</th>
-                    <th>DevOps Track 2</th>
-                    <th>Agile Track 1</th>
-                    <th>Agile Track 2</th>
+                        <th class="col-time">Schedule</th>
+                        <th><div>DevOps Track 1 - 302/303</div></th>
+                        <th><div>DevOps Track 2 - 304/305</div></th>
+                        <th><div>Agile Track 1 - 306/307</div></th>
+                        <th><div>Agile Track 2 -308/309</div></th>
                 </tr>
             </thead>
             <tbody>
@@ -381,7 +421,7 @@ Description = "Speakers, sessions, ignites, meals"
                             <h4>Dustin Thostenson</h4>
                         </div>
                         <div class="col-lg-8">
-                            <a href="/events/2023-des-moines/program/dustin-thostenson/">Sphere of Control: From Helpless to Hero </a>
+                            <a href="/events/2023-des-moines/program/dustin-thostenson/">Sphere of Control: Techniques to Tackle Tech Debt Today </a>
                         </div>
                     </td>
                 </tr>
@@ -451,9 +491,35 @@ Description = "Speakers, sessions, ignites, meals"
                 <!-- Break Row -->
                 <tr class="col-all">
                     <td class="col-time">1:30 - 2:00</td>
-                    <td colspan="5"><h4>Ignite Talks</h4>
-                    <div class="col-lg-12 program-page-desc">Location: Ballroom</div></td>
-                </tr>
+                        <td colspan="1"><h4>Ignite Talks</h4>
+                        <div class="col-lg-8 program-page-desc">Location: Ballroom<br/>
+                                    <img class="img rounded-circle" src="/events/2023-des-moines/organizers/jodi-jones.jpg" height="60px"
+                                        width="60px" alt="">
+                                <h4>Jodi Jones</h4>
+                            </div>
+                        </td>
+                        <td colspan="1"><h4>&nbsp;</h4>
+                        <div class="col-lg-8 program-page-desc">&nbsp;<br/>
+                                    <img class="img rounded-circle" src="/events/2023-des-moines/speakers/ted-wallace.png" height="60px"
+                                        width="60px" alt="">
+                                <h4>Ted Wallace</h4>
+                            </div>
+                        </td>
+                        <td colspan="1"><h4>&nbsp;</h4>
+                        <div class="col-lg-8 program-page-desc">&nbsp;<br/>
+                                    <img class="img rounded-circle" src="/events/2023-des-moines/organizers/paul-beers.jpg" height="60px"
+                                        width="60px" alt="">
+                                <h4>Paul Beers</h4>
+                            </div>
+                        </td>
+                        <td colspan="1"><h4>&nbsp;</h4>
+                        <div class="col-lg-8 program-page-desc">&nbsp;<br/>
+                                    <img class="img rounded-circle" src="/events/2023-des-moines/speakers/alec-harrison.png" height="60px"
+                                        width="60px" alt="">
+                                <h4>Alec Harrison</h4>
+                            </div>
+                        </td>
+                    </tr>
                 <!-- Break Row -->
                 <tr class="col-all">
                     <td class="col-time">2:00 - 2:15</td>

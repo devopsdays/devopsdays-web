@@ -4,6 +4,9 @@ Type = "welcome"
 aliases = ["/events/2023-organizer-summit/","/events/2023-organiser-summit/"]
 Description = "devopsdays Organizer Summit 2023"
 +++
+{{< youtube 8eAEy3O3gYw >}}
+<br><br>
+or <a href = "https://www.youtube.com/watch?v=8eAEy3O3gYw">go directly to the stream on YouTube!</a>
 
 <!-- <div style="text-align:center;">
   {{< event_logo >}}

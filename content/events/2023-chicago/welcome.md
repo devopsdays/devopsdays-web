@@ -4,6 +4,9 @@ Type = "welcome"
 aliases = ["/events/2023-chicago/"]
 Description = "DevOpsDays Chicago is coming back in 2023! The group that brought you DevOpsDays Chicago 2014-2022 is back together and planning the 2023 event.  We're encouraged by the feedback from previous year's events and are determined to bring an improved experience and continue the DevOps conversation for 2023 in Chicago."
 +++
+{{< youtube avEQjr4Ye1I >}}
+<br><br>
+or <a href = "https://www.youtube.com/watch?v=avEQjr4Ye1I">go directly to the stream on YouTube!</a>
 <div class = "row" id = "main-row">
   <div class = "col-md-6 push-md-6" id = "left-col">
    <div class="row" id = "covid-row">

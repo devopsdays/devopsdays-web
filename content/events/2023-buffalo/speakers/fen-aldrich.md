@@ -1,10 +1,12 @@
 +++
 Title = "Fen Aldrich"
 Twitter = "crayzeigh"
-image = ""
+image = "fen-aldrich.png"
 type = "speaker"
 linktitle = "fen-aldrich"
-
+twitter = "crayzeigh"
+linkedin = "https://www.linkedin.com/in/fenaldrich/"
+website = "https://speaking.crayzeigh.com/"
 +++
 
 ##### Developer Advocate @ Equinix Metal

@@ -135,4 +135,3 @@ General inquiries and sponorships:  [{{< email_organizers >}}]
     <td style="text-align: right; color: #636363;" colspan=5>Online payments include a service charge.  <a href="mailto:detroit@devopsdays.org?subject=DevOpsDays%20Detroit%202023%20Sponsorship">Email us</a> for alternative payment information.</td>
   </tr>
 </table>
-

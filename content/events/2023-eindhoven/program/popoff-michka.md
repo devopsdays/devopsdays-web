@@ -1,0 +1,17 @@
++++
+Talk_date = ""
+Talk_start_time = ""
+Talk_end_time = ""
+Title = "Organising a fast-growing DevOps team: a real life use case"
+Type = "talk"
+Speakers = ["popoff-michka"]
+Youtube = "h0G106s2Hgw"
++++
+
+WayKonect (a subsidiary company of TotalEnergies) is developing products for professional mobility. We develop software to accompany our customers towards their ecological transition. WayKonect has grown from 20 to more than 80 collaborators over the last 4 years. We are based in Lille and Paris (France) and Phoenix (Mauritius).
+
+In 2022 WayKonect made the choice to stop outsourcing the development and operations of our tech projects. This meant building a new DevOps team from scratch. The knowledge transfer from the previous offshore team to the newly created team was done over the summer of 2022. We quickly learned that keeping the production running while deploying new features in our infrastructure was quite challenging. It took us more than 6 months to recover from the initial daily firefighting. The DevOps team also went through multiple transformations to be able to support the ambitions of the company.
+
+Over less than one year, more than 15 people joined the newly created DevOps team. We experimented with two different team structures: first as a "service center" with an unique entry point for tickets and prioritization, and then a more decentralized version of the team, which brought the DevOps closer to the feature teams. Both structures have advantages and disadvantages.
+
+I would like to highlight some issues we faced in organizing the team and what we did to fix it. I will also highlight some challenges that arise when running a team over two timezones. As our team is quite heterogeneous (DevOps, SysOps, DBAs, Monitoring experts, SREs …), we had to find ways to communicate together, especially when working on the production infrastructure. I thus will give some insights of the rules and rituals we have setup in the team to make sure the information is circulating between team members.
