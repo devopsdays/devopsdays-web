@@ -149,6 +149,10 @@ sponsors:
     level: silver
   - id: swisscom
     level: silver
+  - id: eficode
+    level: bronze
+  - id: elastic
+    level: gold
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
