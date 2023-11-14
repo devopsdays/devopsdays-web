@@ -104,6 +104,14 @@ sponsors:
     level: community
   - id: aws
     level: nickel
+  - id: tva
+    level: gold
+  - id: bcbst
+    level: silver
+  - id: stratusgrid
+    level: bronze
+  - id: datably
+    level: nickel
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
