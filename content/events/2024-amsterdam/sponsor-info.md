@@ -127,5 +127,3 @@ description = "Sponsor information for devopsdays Amsterdam 2024!"
 - **How do we get our stuff back?**
     
     It is the responsibility of each sponsor to remove everything that they brought to the conference. Please arrange to remove all the material you bring with you by the close of the event.
-    
-- **Is there a different way to reach out to you besides email?**
