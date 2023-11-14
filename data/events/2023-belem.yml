@@ -203,7 +203,7 @@ program:
     end_time: "13:00"
     background_color: "#EDBB99"
 
-  - title: "wolnei"
+  - title: "augusto-ribeiro"
     type: talk
     date: 2023-11-11
     start_time: "13:00"
