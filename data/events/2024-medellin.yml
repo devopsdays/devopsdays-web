@@ -14,9 +14,9 @@ startdate: 2024-04-27T08:00:00-06:00 # The start date of your event. Leave blank
 enddate: 2024-04-28T08:00:00-06:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  2023-01-24T08:00:00-06:00 # start accepting talk proposals.
-cfp_date_end:  2023-02-18T08:00:00-06:00 # close your call for proposals.
-cfp_date_announce: 2023-04-18T08:00:00-06:00 # inform proposers of status
+cfp_date_start:  2024-01-24T08:00:00-06:00 # start accepting talk proposals.
+cfp_date_end:  2024-02-18T08:00:00-06:00 # close your call for proposals.
+cfp_date_announce: 2024-04-18T08:00:00-06:00 # inform proposers of status
 
 cfp_link: ""
 
@@ -38,7 +38,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     url: "https://devopsdays.io/"
  # - name: location
  # - name: propose
- #   url: "https://www.papercall.io/dodmded2023"
+ #   url: "https://www.papercall.io/dodmded2024"
 #  - name: registration
 #    url: "https://www.ticketopolis.com/devopsdaysmdev2020"
 #  - name: program

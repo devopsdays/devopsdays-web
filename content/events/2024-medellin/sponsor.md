@@ -1,7 +1,7 @@
 +++
 Title = "Sponsor"
 Type = "event"
-Description = "Sponsor devopsdays Medellin 2021"
+Description = "Sponsor devopsdays Medellin 2024"
 +++
 <div class="container-fluid">
   <div class="row justify-content-start"                 >
