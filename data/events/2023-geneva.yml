@@ -158,6 +158,11 @@ sponsors:
     level: bronze
   - id: valueitswiss
     level: bronze
+  - id: positivethinking
+    level: bronze
+  - id: heg-geneva
+    level: community
+
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -189,7 +194,7 @@ program:
     start_time: "08:15"
     end_time: "08:45"
 
-  - title: Welcome Speech
+  - title: Welcome Speech M&Ms
     type: custom
     date: "2023-04-24"
     start_time: "08:45"
@@ -341,7 +346,7 @@ program:
     start_time: "08:15"
     end_time: "08:45"
 
-  - title: Welcome Speech
+  - title: Welcome Speech M&Ms
     type: custom
     date: "2023-04-25"
     start_time: "08:45"
@@ -413,7 +418,7 @@ program:
     end_time: "14:30"
 
   #   Day 2: talk 5
-  - title: paula-paul
+  - title: dan-conn
     type: talk
     date: "2023-04-25"
     start_time: "14:30"
@@ -445,18 +450,18 @@ program:
     start_time: "16:55"
     end_time: "17:45"
 
-  #   Day 2: talk 8
-  - title: dan-conn
-    type: talk
-    date: "2023-04-25"
-    start_time: "17:45"
-    end_time: "18:35"
-
   #   Day 2: workshop
   - title: yohan-varona
     type: workshop
     date: "2023-04-25"
     start_time: "16:55"
+    end_time: "18:35"
+
+  #   Day 2: openspace
+  - title: "Open Space DevOpsDays (AULA)"
+    type: open-space
+    date: "2023-04-25"
+    start_time: "17:45"
     end_time: "18:35"
 
   - title: Closing Speech

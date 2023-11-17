@@ -36,13 +36,13 @@ location: "London" # Defaults to city, but you can make it the venue name.
 location_address: "QEII Centre, Broad Sanctuary, Westminster"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: registration
-  - name: propose
-#  - name: program
-#  - name: speakers
+  # - name: registration
+# - name: propose
+  - name: program
+  - name: speakers
   - name: location
 #  - name: accessibility
-  - name: sponsor
+  # - name: sponsor
   - name: contact
   - name: conduct
 #  - name: subscribe
@@ -60,6 +60,7 @@ team_members: # Name is the only required field for team members.
     website: "https://randomness.org.uk"
   - name: "Chris Mills"
     github: "chriscoffee"
+    pronouns: "he/him"
   - name: "Dominique Top"
     twitter: "devopsdomi"
   - name: "Ethan Sumner"
@@ -88,18 +89,70 @@ organizer_email: "london@devopsdays.org" # Put your organizer email address here
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
   # platinum sponsors
-  #- id: coralogix
-  #  level: platinum
   # gold sponsors
-  #- id: delphix
-  #  level: gold
+  - id: theadaptavistgroup
+    level: gold
+  - id: coralogix
+    level: gold
+  - id: doit
+    level: gold
+  - id: elastic
+    level: gold
+  - id: googlecloud
+    level: gold
+  - id: pagerduty
+    level: gold
+  - id: puppet
+    level: gold
   # silver sponsors
-  #- id: checkmarx
-  #  level: silver
+  - id: chainguard
+    level: silver
+  - id: checkly
+    level: silver
+  - id: circleci
+    level: silver
+  - id: contrast_security
+    level: silver
+  - id: gitea
+    level: silver
+  - id: mkdev
+    level: silver
+  - id: pulumi
+    level: silver
+  - id: snyk
+    level: silver
+  - id: spot-by-netapp
+    level: silver
+  - id: wmpromus
+    level: silver
   # bronze sponsors
-  #- id: armakuni
-  #  level: bronze  
-
+  - id: clearbank
+    level: bronze
+  - id: commify
+    level: bronze
+  - id: contino
+    level: bronze
+  - id: dxw
+    level: bronze
+  - id: github
+    level: bronze
+  - id: gitlab
+    level: bronze
+  - id: helloself
+    level: bronze
+  - id: syntasso
+    level: bronze
+  # community sponsors
+  - id: doxlon
+    level: community
+  - id: packt
+    level: community
+  - id: yorkshire-azure-user-group
+    level: community
+  - id: yorkshire-devops
+    level: community
+  - id: young-devops
+    level: community
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -120,6 +173,9 @@ sponsor_levels:
   - id: bronze
     label: Bronze
     max: 10
+  - id: community
+    label: Community
+    max: 10
 
 program:
   # day one
@@ -133,22 +189,27 @@ program:
     date: 2023-09-21T00:00:00+01:00
     start_time: "09:45"
     end_time: "10:00"
-  - title: "speaker"
+  - title: "abby-bangser"
     type: talk
     date: 2023-09-21T00:00:00+01:00
     start_time: "10:00"
     end_time: "10:35"
-  - title: "speaker"
+  - title: "chris-cooney"
     type: talk
     date: 2023-09-21T00:00:00+01:00
     start_time: "10:35"
     end_time: "11:05"
-  - title: "speaker"
+  - title: "Coffee break"
+    type: custom
+    date: 2023-09-21T00:00:00+01:00
+    start_time: "11:05"
+    end_time: "11:25"
+  - title: "lian-li"
     type: talk
     date: 2023-09-21T00:00:00+01:00
     start_time: "11:25"
     end_time: "12:00"
-  - title: "speaker"
+  - title: "sandro-cirulli"
     type: talk
     date: 2023-09-21T00:00:00+01:00
     start_time: "12:00"
@@ -163,37 +224,72 @@ program:
     date: 2023-09-21T00:00:00+01:00
     start_time: "13:05"
     end_time: "14:05"
-  - title: "Open Spaces Day 1"
+  - title: "Open Spaces Planning"
     type: open-space
     date: 2023-09-21T00:00:00+01:00
     start_time: "14:05"
+    end_time: "14:30"
+  - title: "Open Spaces Session 1"
+    type: open-space
+    date: 2023-09-21T00:00:00+01:00
+    start_time: "14:30"
+    end_time: "15:15"
+  - title: "Open Spaces Session 2"
+    type: open-space
+    date: 2023-09-21T00:00:00+01:00
+    start_time: 15:15
+    end_time: 16:00
+  - title: "Coffee break"
+    type: custom
+    date: 2023-09-21T00:00:00+01:00
+    start_time: 16:00
+    end_time: 16:15
+  - title: "ten-years-of-dodl"
+    type: talk
+    date: 2023-09-21T00:00:00+01:00
+    start_time: "16:15"
     end_time: "17:00"
-  - title: "Evening Reception and Booth Crawl in Jardine"
+  - title: "Day 1 Closing Remarks & Sponsor Raffle Giveaways"
     type: custom
     date: 2023-09-21T00:00:00+01:00
     start_time: "17:00"
+    end_time: "17:10"
+  - title: "Drinks Reception in the Sponsor Hall"
+    type: custom
+    date: 2023-09-21T00:00:00+01:00
+    start_time: "17:10"
+    end_time: "18:10"
+  - title: "Evening event hosted by DOXLON, Adaptavist and GitLab!"
+    type: custom
+    date: 2023-09-21T00:00:00+01:00
+    start_time: "18:30"
     end_time: "Onwards"
   - title: "Breakfast"
     type: custom
     date: 2023-09-22T23:59:59+01:00
     start_time: "09:00"
     end_time: "09:45"
-  - title: "speaker"
+  - title: "sam-hepburn"
     type: talk
-    date: 2023-09-2T23:59:59+01:00
+    date: 2023-09-22T23:59:59+01:00
     start_time: "10:00"
     end_time: "10:35"
-  - title: "speaker"
+  - title: "richard-towers"
     type: talk
     date: 2023-09-22T23:59:59+01:00
     start_time: "10:35"
     end_time: "11:05"
-  - title: "speaker"
+  - title: "Coffee break"
+    type: custom
+    date: 2023-09-22T23:59:59+01:00
+    start_time: "11:05"
+    end_time: "11:25"
+  - title: "alvaro-santos-andres"
     type: talk
     date: 2023-09-22T23:59:59+01:00
     start_time: "11:25"
     end_time: "12:00"
-  - title: "speaker"
+  - title: "lesley-cordero"
     type: talk
     date: 2023-09-22T23:59:59+01:00
     start_time: "12:00"
@@ -208,11 +304,48 @@ program:
     date: 2023-09-22T23:59:59+01:00
     start_time: "13:05"
     end_time: "14:05"
-  - title: "Open Spaces Day 2"
+  - title: "Open Spaces Planning"
     type: open-space
-    date: 2023-09-30T23:59:59+01:00
+    date: 2023-09-22T23:59:59+01:00
     start_time: "14:05"
+    end_time: "14:30"
+  - title: "Open Spaces Session 1"
+    type: open-space
+    date: 2023-09-22T23:59:59+01:00
+    start_time: "14:30"
+    end_time: "15:15"
+  - title: "Open Spaces Session 2"
+    type: open-space
+    date: 2023-09-22T23:59:59+01:00
+    start_time: 15:15
+    end_time: 16:00
+  - title: "Coffee Break & Sponsor Raffle Giveaways"
+    type: custom
+    date: 2023-09-22T23:59:59+01:00
+    start_time: 16:00
+    end_time: 16:15
+  - title: "Open Spaces Session 3"
+    type: open-space
+    date: 2023-09-22T23:59:59+01:00
+    start_time: "16:15"
     end_time: "17:00"
 
 ignites:
-
+  - title: "sorrel-harriet"
+    date: 2023-09-21T00:00:00+01:00
+  - title: "jamie-tanna"
+    date: 2023-09-21T00:00:00+01:00
+  - title: "jennifer-mackown"
+    date: 2023-09-21T00:00:00+01:00
+  - title: "jack-mead"
+    date: 2023-09-21T00:00:00+01:00
+  - title: "becky-pauley"
+    date: 2023-09-21T00:00:00+01:00
+  - title: "john-hatton-and-rich-house"
+    date: 2023-09-22T23:59:59+01:00
+  - title: "aakansha-priya"
+    date: 2023-09-22T23:59:59+01:00
+  - title: "kat-samperi"
+    date: 2023-09-22T23:59:59+01:00
+  - title: "edvinas-janusevicius"
+    date: 2023-09-22T23:59:59+01:00

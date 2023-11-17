@@ -14,14 +14,14 @@ startdate: 2023-10-06T00:00:00+01:00 # The start date of your event. Leave blank
 enddate:  2023-10-06T23:59:59+01:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2023-05-06T00:00:00+01:00 # start accepting talk proposals.
+cfp_date_end: 2023-07-31T00:00:00+01:00 # close your call for proposals.
+cfp_date_announce: 2023-08-15T00:00:00+01:00 # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://koliseo.com/devopsdaysmad/devopsdays-madrid-2023/sessions" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: 2023-05-06T00:00:00+01:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2023-10-05T23:59:00+01:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -33,28 +33,27 @@ location: "CEU San Pablo Monteprincipe University" # Defaults to city, but you c
 location_address: "Av. de Montepríncipe, Km. 5, 300, 28668 Monteprincipe, Madrid" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-#  - name: registration
+  - name: registration
   - name: location
-#  - name: speakers
-#  - name: program
-#  - name: sponsor
-#  - name: propose
+  - name: speakers
+  - name: program
+  - name: sponsor
+  - name: propose
   - name: contact
   - name: conduct
 
-# These are the same people you have on the mailing list and Slack channel.
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Xavier Portilla"
     employer: "Voiceflow"
     twitter: "xavidop"
-    website: "https://xavierportillaedo.github.io/"
+    website: "https://xavidop.me/"
     linkedin: "https://www.linkedin.com/in/xavierportillaedo/"
     image: xavi.jpg
     bio: "He works as a software engineer at top global companies. He have more than 10 years of experience with coding with a focus on Java, DevOps, Q&A and microservices. In his spare time, he enjoys music, beer and friends."
 
   - name: "Christian Melendez"
-    employer: "Equinix"
+    employer: "Amazon Web Services"
     twitter: "christianhxc"
     website: "https://cmelendeztech.com/"
     linkedin: "https://www.linkedin.com/in/christian-melendez-6174454a/?originalSubdomain=gt"
@@ -62,12 +61,12 @@ team_members: # Name is the only required field for team members.
     bio: "He is a technologist that started as a software developer and has more recently become a cloud architect focused on helping companies to implement continuous delivery pipelines. Christian's also a technical writer for topics around Kubernetes, containers, cloud, and DevOps. He's contributed to the community and specific companies with talks and workshops too."
 
   - name: "Juan Vicente Herrera"
-    employer: "Orange"
+    employer: "Red Hat"
     twitter: "jvicenteherrera"
     website: "https://www.juanvicenteherrera.es/"
     linkedin: "https://www.linkedin.com/in/jvherrera/"
-    image: juanvi.jpg
-    bio: "Computer engineer and coordinator of the Madrid Devops group, his professional career has been developed mostly in the world of administration and systems architecture in all types of companies such as BBVA, Colt Telecom, Logtrust and currently in Orange. Specializing in automation, immutable infrastructure, virtual containers and cloud computing, in his career as a teacher he has years of experience in the subject of Cloud computing and in various subjects on automation and virtual containers."
+    image: juanvi.jpeg
+    bio: "Computer engineer and coordinator of the Madrid Devops group, his professional career has been developed mostly in the world of administration and systems architecture in all types of companies such as BBVA, Colt Telecom, Devo(Logtrust), Orange and currently in Red Hat. Specializing in automation, immutable infrastructure, containers, hardening and cloud computing, in his career as a teacher he has years of experience in the subject of Cloud computing and in various subjects on automation and containers."
 
   - name: "Txetxu Velayos"
     employer: "STR Sistemas"
@@ -78,15 +77,15 @@ team_members: # Name is the only required field for team members.
     bio: "Passionate about technology since he was a child. He enjoys working at STR Sistemas every day where he try to do all those things that he loves related to cloud systems and architectures mainly on Linux environments and that were not viable in consulting world. Learning and innovating every day."
 
   - name: "Sergio Hernandez"
-    employer: "Encamina"
+    employer: "National Nederlanden"
     twitter: "shmancebo"
     website: "https://mvp.microsoft.com/en-us/PublicProfile/5003193?fullName=Sergio%20%20Hern%C3%A1ndez%20Mancebo"
     linkedin: "https://www.linkedin.com/in/sergio-hernandez-mancebo-369b6560/"
     image: sergio.jpg
-    bio: "Technical Engineer in Computer Science from the Complutense University of Madrid. Principal Team Leader team at Encamina. He define and improve the work methodology and monitor the status of the projects. He also has extensive experience leading projects as a Team Leader, software project development in Microsoft cloud environments on Azure and SharePoint 0365"
+    bio: "Technical Engineer in Computer Science from the Complutense University of Madrid. Head of API, He define and improve the work methodology and monitor the status of the projects. He also has extensive experience leading projects as a Team Leader, software project development in Microsoft cloud environments on Azure and SharePoint 365"
 
   - name: "Antonio Peña"
-    employer: "Orbital Critical Systems"
+    employer: "Nexthink"
     twitter: "apenav"
     website: "https://about.me/apenav"
     linkedin: "https://www.linkedin.com/in/apenav/"
@@ -108,6 +107,71 @@ organizer_email: "madrid@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+# Platinum
+ - id: nationale-nederlanden
+   level: platinum
+# Gold
+ - id: autentia
+   level: gold
+ - id: str-sistemas
+   level: gold
+ - id: adaptavist
+   level: gold
+ - id: the-workshop
+   level: gold
+ - id: redhat
+   level: gold
+ - id: intelygenz
+   level: gold
+ - id: enterprisedb
+   level: gold
+ - id: ryanair
+   level: gold
+# Silver
+ - id: cloudappi
+   level: silver
+ - id: checkly
+   level: silver
+ - id: arigaio
+   level: silver
+# Bronze
+ - id: speedyrails
+   level: bronze
+ - id: panel
+   level: bronze
+ - id: ambassadorlabs
+   level: bronze
+ - id: plainconcepts
+   level: bronze
+ - id: scalefactory
+   level: bronze
+ - id: vvalley
+   level: bronze
+ - id: xygeni
+   level: bronze
+# Community
+ - id: madriddevops
+   level: community
+ - id: githublogo
+   level: community
+ - id: gdg-madrid
+   level: community
+ - id: crossdvlup
+   level: community
+ - id: ceu
+   level: community
+ - id: girls-in-tech-esp
+   level: community
+ - id: keepcoding
+   level: community
+ - id: apiaddicts
+   level: community
+ - id: awscommspain
+   level: community
+ - id: devopsdays-caceres
+   level: community
+ - id: codemotion
+   level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -118,15 +182,14 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: platinum
     label: Platinum
-    max: 1
+    max: 2
   - id: gold
     label: Gold
-    max: 2
+    max: 6
   - id: silver
     label: Silver
-    max: 3 # This is the same as omitting the max limit.
+    max: 6 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
-    max: 5
   - id: community
     label: Community

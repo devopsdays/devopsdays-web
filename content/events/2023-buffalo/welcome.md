@@ -67,7 +67,7 @@ Description = "DevOpsDays Buffalo is back for another unique conference experien
 
 <div class="showcase">
 <img src="/events/2023-buffalo/sharing/showcase.png">
-<p><a href="https://ti.to/devops-days-buffalo/2023"><button>Register</button></a></p>
+<p><a href="https://ti.to/devops-days-buffalo/devops-days-buffalo-2023"><button>Register</button></a></p>
 <p><a href="../location/"><button>Get venue info</button></a></p>
 <p><a href="../sponsor/"><button>Sponsor</button></a></p>
 <p><a href="../contact/"><button>Contact</button></a></p>
@@ -88,14 +88,6 @@ development and IT operations (and everything in between). Throughout this time,
 to listen to a series of curated talks and ignites regarding automation, testing, security, organizational culture,
 and more. Additionally, they will be able to take part in group-organized “open spaces” that will allow them to discuss
 any topic selected by the group as a collective.</p>
-
-<h2>Let's Talk About COVID-19</h2>
-<p>Due to anticipated changes to the COVID-19 guidelines, we have not finalized COVID-19 related event guidelines. Our final decision will be based on Center for Disease Control and Erie County Department of Health guidelines.</p>
-<p><strong>Related:</strong></p>
-<ul>
-  <li><a href="https://www.cdc.gov/coronavirus/2019-ncov/index.html" target="_blank">Center for Disease Control</a></li>
-  <li><a href="http://www2.erie.gov/health/index.php?q=coronavirus" target="_blank">Erie County Department of Health</a></li>
-</ul>
 </div>
 </div>
 

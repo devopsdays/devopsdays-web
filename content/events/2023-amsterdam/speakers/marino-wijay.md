@@ -2,7 +2,7 @@
 Title = "Marino Wijay"
 Linkedin = "https://www.linkedin.com/in/mwijay/"
 Website = ""
-Twitter = "https://twitter.com/virtualized6ix"
+Twitter = "virtualized6ix"
 image = "marino-wijay.png"
 type = "speaker"
 linktitle = "marino-wijay"

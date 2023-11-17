@@ -7,12 +7,13 @@ image = "thiago-de-faria.jpg"
 type = "speaker"
 linktitle = "thiago-de-faria"
 +++
-Thiago leads the Early Stage Startup Solutions Architecture team at Amazon Web Services (AWS) EMEA. 
 
-Proud dad of two, working "computering stuff" for 13+ years, crazy about musical theater and passionate about #people #ML #AI #Data #devops #community.
+Thiago is a Hands-on AI/ML Cloud Architect with 15+ years of experience. Enough for him to remember when SVMs were the hot stuff, data science was not a thing, and we called AI/ML "statistical learning".
 
-Thiago wakes up every day with one goal: be kind with his team and startups so that we can all learn and grow.
+After leading the Early Stage Startup Solutions Architecture team at Amazon Web Services (AWS) EMEA, he decided to freelance and advise startups while trying to ensure we are surrounded by kindness.
 
-He is an active part of the Amsterdam startup community, married to someone smarter than him, open-source enthusiast, and knowledge-sharer.
+He is an active part of the Amsterdam startup community, a proud dad of two, an open-source enthusiast, a knowledge-sharer, crazy about musical theater, and passionate about #people #ML #AI #Data #devops #community.
 
-Also, win his utmost attention by talking about Hamilton, Spalamot and Harry Potter! :-D
+Thiago wakes up daily with one goal: to be kind so we can all smile, learn and grow.
+
+Also, win his utmost attention by talking about Hamilton, Spalamot, and Harry Potter! :-D

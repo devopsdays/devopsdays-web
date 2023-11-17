@@ -2,7 +2,7 @@
 Title = "René de Leijer"
 Linkedin = "https://www.linkedin.com/in/ren%C3%A9-de-leijer-bb324712/"
 Website = ""
-Twitter = "https://twitter.com/rene_dl"
+Twitter = "rene_dl"
 image = "rene-de-leijer.png"
 type = "speaker"
 linktitle = "rene-de-leijer"

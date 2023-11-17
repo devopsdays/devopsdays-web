@@ -1,0 +1,126 @@
+name: "2024-london" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2024" # The year of the event. Make sure it is in quotes.
+city: "London" # The displayed city name of the event. Capitalize it.
+event_twitter: "DevOpsDaysLDN" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "DevOpsDays returns to London in 2024!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+sharing_image: "twitter.png"
+masthead_background: "background.png"
+
+# All dates are in unquoted 2022-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2022-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2024-09-26T00:00:00+01:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2024-09-27T00:00:00+01:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2023-09-22T00:00:00+01:00 # start accepting talk proposals.
+cfp_date_end: 2024-05-24T23:59:59+01:00 # close your call for proposals.
+cfp_date_announce: 2024-06-26T23:59:59+01:00 # inform proposers of status
+
+cfp_link: "https://docs.google.com/forms/d/e/1FAIpQLSdUK4VNyhpfpqhrm8BY7KmAvSNQHIuL49YOabkYDInbnyKD1g/viewform"
+
+# registration_date_start: 2023-01-31T00:00:00+01:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+# registration_date_end: 2023-09-15T23:59:59+01:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+
+#registration_closed: "true"
+# registration_link: "https://ti.to/devopsdays-london/2023"
+
+# Location
+#
+coordinates: "51.4999205, -0.1284255" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "London" # Defaults to city, but you can make it the venue name.
+
+location_address: "QEII Centre, Broad Sanctuary, Westminster"
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  # - name: registration
+  - name: propose
+  # - name: program
+  # - name: speakers
+  - name: location
+  - name: accessibility
+  - name: sponsor
+  - name: contact
+  - name: conduct
+#  - name: subscribe
+#    url: "https://devopsdays.us18.list-manage.com/subscribe?u=6c07d2ff23793b0dda5929f46&id=7aba07ba8c"
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Andy Burgin"
+    twitter: "andyburgin"
+  - name: "bob walker"
+    twitter: "rjw1"
+    website: "https://randomness.org.uk"
+  - name: "Chris Mills"
+    pronouns: "he/him"
+    github: "chriscoffee"
+  - name: "David Collom"
+  - name: "Dominique Top"
+    twitter: "devopsdomi"
+  - name: "Ethan Sumner"
+    twitter: "SumnerOps"
+    linkedin: "https://www.linkedin.com/in/ethansumner404/"
+    website: "https://opssumner.dev"
+  - name: "Hannah Foxwell"
+    twitter: "HannahFoxwell"
+  - name: "Henti Smith"
+  - name: "Issy Long"
+    pronouns: "they/them"
+    mastodon: "https://strangeobject.space/@issy"
+    twitter: "issyl0"
+    github: "issyl0"
+  - name: "Louise Paling"
+    pronouns: "she/her"
+    twitter: "short_louise"
+  - name: "Mica Bell"
+  - name: "Paula Kennedy"
+    twitter: "PaulaLKennedy"
+  - name: "Rekha Aucklah"
+  - name: "Sam Smith"
+  - name: "Sophie Weston"
+    pronouns: "she/her"
+    twitter: "soph_weston"
+
+organizer_email: "london@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  # platinum sponsors
+  # gold sponsors
+  # silver sponsors
+  # bronze sponsors
+  # community sponsors
+
+sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: platinum
+    label: Platinum
+    max: 1
+  - id: gold
+    label: Gold
+    max: 10
+  - id: silver
+    label: Silver
+    max: 10
+  - id: bronze
+    label: Bronze
+    max: 10
+  - id: community
+    label: Community
+    max: 10
+
+program:
+ignites:
