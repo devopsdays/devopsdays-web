@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "New Age Of Reality - How To Use Your Imagination To Smash Your Goals"
 Type = "talk"
 Speakers = ["lena-thompson"]
+Youtube = "BNVXEKHA96s"
 +++
 
 Imagination is the force with which we create our lives; whether or not we realise it, we have always been creating our lives with our imagination.

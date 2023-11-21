@@ -129,6 +129,9 @@ sponsors:
     url: https://faun.dev/join/?utm_source=partner&utm_medium=DevOpsDaysLA&utm_campaign=2023
   - id: nadog
     level: community
+    url: https://www.nadog.com
+  - id: victoriametrics
+    level: startup
   - id: kubecareers
     level: media
     url: https://kube.careers/
