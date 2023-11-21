@@ -1,10 +1,9 @@
 +++
 Title = "JJ Asghar"
 Twitter = "jjasghar"
-image = ""
+image = "jj-asghar.png"
 type = "speaker"
 linktitle = "jj-asghar"
-
 +++
 
 ##### Developer Advocate for the IBM cloud

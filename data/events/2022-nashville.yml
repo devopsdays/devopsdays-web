@@ -10,12 +10,12 @@ ga_tracking_id: "UA-136135566-2" # If you have your own Google Analytics trackin
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2021-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: # 2022-05-05T00:00:00-06:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: # 2022-05-06T00:00:00-06:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2021-09-05T00:00:00-12:59 # start accepting talk proposals.
-cfp_date_end: 2022-01-10T00:00:00-12:59 # close your call for proposals.
+cfp_date_start:  # start accepting talk proposals.
+cfp_date_end:  # close your call for proposals.
 cfp_date_announce:   # inform proposers of status
 
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
@@ -26,7 +26,7 @@ registration_date_end:     # close registration. Leave blank if registration is 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: ""   # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
-# cancel: "true"
+cancel: "true"
 masthead_background: "nashville-skyline.jpg"
 
 # sharing_image: "sharing.png"
@@ -37,7 +37,7 @@ masthead_background: "nashville-skyline.jpg"
 #
 # ###########################
 
-coordinates: "36.157195,-86.776516" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+coordinates:  # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 #location: "Music City Center, Nashville, TN" # Defaults to city, but you can make it the venue name.
 #location_address: "201 5th Avenue South, Nashville, TN 37203" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 coordinates:  # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
@@ -158,7 +158,7 @@ sponsors:
    level: gold
 
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For

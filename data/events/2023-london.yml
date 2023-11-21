@@ -36,13 +36,13 @@ location: "London" # Defaults to city, but you can make it the venue name.
 location_address: "QEII Centre, Broad Sanctuary, Westminster"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: registration
+  # - name: registration
 # - name: propose
   - name: program
   - name: speakers
   - name: location
 #  - name: accessibility
-  - name: sponsor
+  # - name: sponsor
   - name: contact
   - name: conduct
 #  - name: subscribe
@@ -90,26 +90,48 @@ organizer_email: "london@devopsdays.org" # Put your organizer email address here
 sponsors:
   # platinum sponsors
   # gold sponsors
-  #- id: delphix
-  #  level: gold
-  - id: adaptavist
+  - id: theadaptavistgroup
     level: gold
   - id: coralogix
     level: gold
+  - id: doit
+    level: gold
   - id: elastic
     level: gold
+  - id: googlecloud
+    level: gold
+  - id: pagerduty
+    level: gold
+  - id: puppet
+    level: gold
   # silver sponsors
-  - id: mkdev
-    level: silver
-  - id: doit
+  - id: chainguard
     level: silver
   - id: checkly
     level: silver
+  - id: circleci
+    level: silver
+  - id: contrast_security
+    level: silver
   - id: gitea
+    level: silver
+  - id: mkdev
     level: silver
   - id: pulumi
     level: silver
+  - id: snyk
+    level: silver
+  - id: spot-by-netapp
+    level: silver
+  - id: wmpromus
+    level: silver
   # bronze sponsors
+  - id: clearbank
+    level: bronze
+  - id: commify
+    level: bronze
+  - id: contino
+    level: bronze
   - id: dxw
     level: bronze
   - id: github
@@ -120,14 +142,17 @@ sponsors:
     level: bronze
   - id: syntasso
     level: bronze
-  - id: snyk
-    level: bronze
-  - id: clearbank
-    level: bronze
   # community sponsors
   - id: doxlon
     level: community
-
+  - id: packt
+    level: community
+  - id: yorkshire-azure-user-group
+    level: community
+  - id: yorkshire-devops
+    level: community
+  - id: young-devops
+    level: community
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -164,7 +189,7 @@ program:
     date: 2023-09-21T00:00:00+01:00
     start_time: "09:45"
     end_time: "10:00"
-  - title: "brittany-woods"
+  - title: "abby-bangser"
     type: talk
     date: 2023-09-21T00:00:00+01:00
     start_time: "10:00"
@@ -219,8 +244,8 @@ program:
     date: 2023-09-21T00:00:00+01:00
     start_time: 16:00
     end_time: 16:15
-  - title: "10 Years of DevOpsDays London - Discussion"
-    type: custom
+  - title: "ten-years-of-dodl"
+    type: talk
     date: 2023-09-21T00:00:00+01:00
     start_time: "16:15"
     end_time: "17:00"
@@ -229,17 +254,22 @@ program:
     date: 2023-09-21T00:00:00+01:00
     start_time: "17:00"
     end_time: "17:10"
-  - title: "Evening Reception - TBC"
+  - title: "Drinks Reception in the Sponsor Hall"
     type: custom
     date: 2023-09-21T00:00:00+01:00
     start_time: "17:10"
+    end_time: "18:10"
+  - title: "Evening event hosted by DOXLON, Adaptavist and GitLab!"
+    type: custom
+    date: 2023-09-21T00:00:00+01:00
+    start_time: "18:30"
     end_time: "Onwards"
   - title: "Breakfast"
     type: custom
     date: 2023-09-22T23:59:59+01:00
     start_time: "09:00"
     end_time: "09:45"
-  - title: "abby-bangser"
+  - title: "sam-hepburn"
     type: talk
     date: 2023-09-22T23:59:59+01:00
     start_time: "10:00"
@@ -311,8 +341,6 @@ ignites:
     date: 2023-09-21T00:00:00+01:00
   - title: "becky-pauley"
     date: 2023-09-21T00:00:00+01:00
-  - title: "autumn-skerritt"
-    date: 2023-09-22T23:59:59+01:00
   - title: "john-hatton-and-rich-house"
     date: 2023-09-22T23:59:59+01:00
   - title: "aakansha-priya"

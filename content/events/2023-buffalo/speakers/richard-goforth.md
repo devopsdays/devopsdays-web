@@ -4,7 +4,8 @@ Twitter = "RichGoforth"
 image = "richard-goforth.png"
 type = "speaker"
 linktitle = "richard-goforth"
-
+linkedin = "https://www.linkedin.com/in/richgoforth/"
+website = "https://github.com/"
 +++
 
 ##### Senior Solutions Engineer at GitHub

@@ -1,0 +1,248 @@
+name: "2023-belem" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2023" # The year of the event. Make sure it is in quotes.
+city: "Belém" # The displayed city name of the event. Capitalize it.
+event_twitter: "tasafo" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2023-11-11T00:00:00-03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2023-11-11T23:59:59-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2023-09-11T00:00:00-03:00 # start accepting talk proposals.
+cfp_date_end: 2023-10-09T23:59:59-03:00 # close your call for proposals.
+cfp_date_announce: 2023-10-16T23:59:59-03:00 # inform proposers of status
+
+cfp_open: "true"
+cfp_link: "https://www.papercall.io/devopsdaysbelem2023" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: 2023-09-11T00:00:00-03:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2023-11-11T23:59:59-03:00 # close registration. Leave blank if registration is not open yet.
+
+registration_closed: "true" #set this to true if you need to manually close registration before your registration end date
+registration_link: "/events/2023-belem/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+coordinates: "-1.4380065672307099, -48.4784484" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Auditório David Mufarrej - UNAMA Alcindo Cacela" # Defaults to city, but you can make it the venue name.
+location_address: "Av. Alcindo Cacela, 287 - Umarizal, Belém - PA, 66060-902" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: Local
+    url: /events/2023-belem/local
+  - name: Inscreva-se
+    url: https://www.sympla.com.br/evento/devopsdays-belem-2023/2156296
+  - name: Programação
+    url: /events/2023-belem/programa
+  # - name: Palestrantes
+  #   url: /events/2022-belem/speakers
+  - name: Patrocínio
+    url: /events/2023-belem/sponsor
+  - name: Código de Conduta
+    url: /events/2023-belem/conduta-pt-br
+  - name: Contato
+    url: /events/2023-belem/contato
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Paulo Igor"
+    employer: "Idopter Labs"
+    image: "paulo-igor.jpg"
+    twitter: "pigodinho"
+    linkedin: "https://www.linkedin.com/in/pigodinho/"
+
+  - name: "Fábio Figueiredo"
+    employer: "SysMap"
+    image: "fabio-figueiredo.jpg"
+    twitter: "fabiolimaf"
+    linkedin: "https://www.linkedin.com/in/fabiolimaf/"
+
+  - name: "Felipe Iketani"
+    employer: "Gistia Labs"
+    image: "felipe-iketani.jpg"
+    twitter: "felipe_ik"
+    linkedin: "https://www.linkedin.com/in/felipe-iketani-a8a10326/"
+
+  - name: "Iago Cavalcante"
+    employer: "Zarv"
+    image: "iago-cavalcante.jpg"
+    twitter: "iagoangelimc"
+    linkedin: "https://www.linkedin.com/in/iago-a-cavalcante/"
+
+  - name: "Ricardo Casseb"
+    employer: "Idopter Labs"
+    image: "ricardo-casseb.jpg"
+    linkedin: "https://www.linkedin.com/in/ricardocasseb/"
+
+organizer_email: "belem@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  # - id: samplesponsorname
+  #   level: gold
+  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+
+  - id: tasafo
+    level: community
+  - id: idopterlabs
+    level: platinum
+  - id: devsnorte
+    level: community
+  - id: paratic
+    level: community
+  - id: jambu
+    level: safo
+  - id: unama
+    level: platinum
+  - id: kubecareers
+    level: support
+  - id: kubeevents
+    level: support
+  - id: agenda-ti
+    level: support
+  - id: gol-software
+    level: safo
+  - id: w3as
+    level: safo
+  - id: vibe
+    level: platinum
+  - id: terras
+    level: gold
+  - id: easygestor
+    level: safo
+  - id: ebi
+    level: safo
+  - id: equilibrium
+    level: safo
+  - id: conecta
+    level: safo
+  - id: enter
+    level: safo
+  - id: interceleri
+    level: safo
+  - id: aws
+    level: support
+
+sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: platinum
+    label: Platina
+  - id: gold
+    label: Ouro
+  - id: silver
+    label: Prata
+  - id: bronze
+    label: Bronze
+  - id: safo
+    label: Safo
+  - id: community
+    label: Comunidade
+  - id: support
+    label: Apoio
+
+program:
+  - title: "Credenciamento / Café da Manhã ☕️"
+    type: custom
+    date: 2022-11-11
+    start_time: "09:00"
+    end_time: "09:30"
+    background_color: "#FDF2E9"
+
+  - title: "Abertura"
+    type: custom
+    date: 2022-11-11
+    start_time: "09:30"
+    end_time: "09:45"
+
+  - title: "andre-gusmao"
+    type: talk
+    date: 2022-11-11
+    start_time: "09:45"
+    end_time: "10:30"
+    background_color: "#AED6F1"
+
+  - title: "joao-ferreira"
+    type: talk
+    date: 2022-11-11
+    start_time: "10:35"
+    end_time: "11:00"
+
+  - title: "tiago-danin"
+    type: talk
+    date: 2022-11-11
+    start_time: "11:05"
+    end_time: "11:30"
+
+  - title: "daniel-silva"
+    type: talk
+    date: 2022-11-11
+    start_time: "11:35"
+    end_time: "12:00"
+
+  - title: "Intervalo para almoço"
+    type: custom
+    date: 2022-11-11
+    start_time: "12:00"
+    end_time: "13:00"
+    background_color: "#EDBB99"
+
+  - title: "wolnei"
+    type: talk
+    date: 2022-11-11
+    start_time: "13:00"
+    end_time: "13:25"
+
+  - title: "carlos-macapuna"
+    type: talk
+    date: 2022-11-11
+    start_time: "13:30"
+    end_time: "13:55"
+
+  - title: "carlos-oeiras"
+    type: talk
+    date: 2022-11-11
+    start_time: "14:00"
+    end_time: "14:25"
+
+  - title: "luiz-sanches"
+    type: talk
+    date: 2022-11-11
+    start_time: "14:30"
+    end_time: "14:55"
+
+  - title: "Coffee-break ☕️"
+    type: custom
+    date: 2022-11-11
+    start_time: "15:00"
+    end_time: "15:40"
+    background_color: "#FDF2E9"
+
+  - title: "FishBowl"
+    type: fish-bowl
+    date: 2022-11-11
+    start_time: "15:40"
+    end_time: "16:30"
+
+  - title: "marcelo-palladino"
+    type: talk
+    date: 2022-11-11
+    start_time: "16:30"
+    end_time: "17:15"
+    background_color: "#AED6F1"
+
+  - title: "Encerramento e Sorteios"
+    type: custom
+    date: 2022-11-11
+    start_time: "17:20"
+    end_time: "18:00"

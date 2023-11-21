@@ -110,7 +110,7 @@ organizer_email: "tampa@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: nobl9
+  - id: nobl9-before-20230929
     level: platinum
   - id: dynatrace
     level: platinum

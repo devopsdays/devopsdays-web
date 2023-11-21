@@ -4,6 +4,7 @@ Type = "event"
 Description = "About DevOpsDays Los Angeles 2024"
 +++
 <br>
+<hr>
 <h3>Become A Volunteer</h3>
 
 <p>
@@ -26,3 +27,10 @@ The conference will provide volunteers with breakfast, lunch, and snacks through
   If you are interested in volunteering, please contact the DevOpsDaysLA organizers at {{< email_organizers >}}
   </div>
 </div>
+
+<hr>
+<style>
+  p {
+    text-align: justify;
+  }
+</style>

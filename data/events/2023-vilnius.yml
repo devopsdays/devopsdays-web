@@ -32,16 +32,15 @@ registration_link: "https://fienta.com/devopsdays-vilnius-2023" # If you have a 
 #
 coordinates: "54.698331, 25.310857" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Tech Park | Vilnius" # Defaults to city, but you can make it the venue name.
-location_address: "Antakalnio g. 13, 10312 Vilnius" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "Antakalnio g. 17, 10312 Vilnius" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
-    url: https://docs.google.com/forms/d/e/1FAIpQLSfeb1MsCAALmzaZ-LvAUw51W4QbtY_RqtwA9_1fjeg_eZWGDg/viewform
+  #- name: propose
   - name: location
   - name: registration
   - name: program
   - name: speakers
-  - name: sponsor
+  #- name: sponsor
   - name: contact
   - name: conduct
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
@@ -112,9 +111,14 @@ sponsors:
     level: silver 
   - id: inkodus
     level: bronze
+  - id: vilniustechfusion
+    level: community
+  - id: s3
+    level: bronze
+  - id: castai
+    level: icecream
 
-
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+#sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -127,8 +131,11 @@ sponsor_levels:
     label: Silver
   - id: bronze
     label: Bronze
+  - id: icecream
+    label: Ice cream
   - id: community
     label: Community
+
 
 program:
   # Day 1
@@ -157,7 +164,7 @@ program:
     date: 2023-09-06
     start_time: "10:20"
     end_time: "10:45"
-  - title: "mary-fesenko"
+  - title: "giedrius-statkevicius"
     type: talk
     date: 2023-09-06
     start_time: "10:45"
@@ -172,12 +179,11 @@ program:
     date: 2023-09-06
     start_time: "12:00"
     end_time: "13:15"
-  - title: "Ignites TBA"
+  - title: "Ignites"
     type: ignite
     date: 2023-09-06
     start_time: "13:15"
     end_time: "14:00"
-    block: ignite-1
   - title: "Open Space Opening"
     type: open-space
     date: 2023-09-06
@@ -213,7 +219,7 @@ program:
     date: 2023-09-06
     start_time: "17:30"
     end_time: "17:35"
-  - title: "Evening happening"
+  - title: "Evening happening - BeerHouse & Craft Kitchen (Mėsinių g. 4)"
     type: custom
     date: 2023-09-06
     start_time: "19:00"
@@ -258,12 +264,11 @@ program:
     date: 2023-09-07
     start_time: "12:00"
     end_time: "13:15"
-  - title: "Ignites TBA"
+  - title: "Ignites"
     type: ignite
     date: 2023-09-07
     start_time: "13:15"
     end_time: "14:00"
-    block: ignite-1
   - title: "Open Space Opening"
     type: open-space
     date: 2023-09-07
@@ -298,3 +303,24 @@ program:
     type: custom
     date: 2023-09-07
     start_time: "16:55"
+ignites:
+  - title: "uldis-karlovs-karlovskis"
+    date: 2023-09-06
+  - title: "mangirdas-judeikis"
+    date: 2023-09-06
+  - title: "janis-orlovs"
+    date: 2023-09-06
+  - title: "timothy-mamo"
+    date: 2023-09-06
+  - title: "laurynas-stasys"
+    date: 2023-09-06
+  - title: "yossi-sassi-ignite"
+    date: 2023-09-07
+  - title: "darius-sabaliauskas"
+    date: 2023-09-07
+  - title: "joshua-fox-ignite"
+    date: 2023-09-07
+  - title: "dovle-bilkevice"
+    date: 2023-09-07
+  - title: "dmytro-prekrasnyi"
+    date: 2023-09-07
