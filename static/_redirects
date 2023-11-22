@@ -1,7 +1,7 @@
 /amsterdam/*		/events/2024-amsterdam/:splat		302
 /aracaju/*		/events/2023-aracaju/:splat		302
 /atlanta/*		/events/2023-atlanta/:splat		302
-/austin/*		/events/2023-austin/:splat		302
+/austin/*		/events/2024-austin/:splat		302
 /baku/*			/events/2019-baku/:splat		302
 /baltimore/*		/events/2024-baltimore/:splat		302
 /barcelona/*		/events/2013-barcelona/:splat		302
@@ -99,7 +99,7 @@
 /salvador/*		/events/2023-salvador/:splat		302
 /santa-maria/*		/events/2018-santa-maria/:splat		302
 /santiago/*		/events/2020-santiago/:splat		302
-/sao-paulo/*		/events/2020-sao-paulo/:splat		302
+/sao-paulo/*		/events/2024-sao-paulo/:splat		302
 /seattle/*		/events/2024-seattle/:splat		302
 /shanghai/*		/events/2020-shanghai/:splat		302
 /shenzhen/*		/events/2018-shenzhen/:splat		302

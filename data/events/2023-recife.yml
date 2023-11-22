@@ -32,9 +32,9 @@ registration_link: "https://www.sympla.com.br/devopsdays-recife-2023__2204025" #
 
 # Location
 #
-coordinates: -8.059486118315728, -34.872439804877146 # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "CESAR School" # Defaults to city, but you can make it the venue name.
-location_address: "Avenida Cais do Apolo, 77 - Recife, Pernambuco" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+coordinates: -8.062790, -34.873370 # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "ETE Porto Digital" # Defaults to city, but you can make it the venue name.
+location_address: "Av. Rio Branco, 193 - Recife, Pernambuco" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
@@ -123,9 +123,7 @@ sponsor_levels:
     label: Media
 
 sponsors:
-  - id: cesar-school
-    level: platinum
-  - id: cesar
-    level: platinum
+  - id: espaco-cloud
+    level: gold
 
 program:
