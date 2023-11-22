@@ -79,6 +79,13 @@ team_members: # Name is the only required field for team members.
     github: "tbplayer7"
     image: "jeff-stephens.jpg"
     bio: "Jeff has worked as a Linux Systems Administrator for the last 13 years. His current focus is cloud application platforms. Beyond work, he is an avid baseball fan, and spends his free time as a musician and photographer."
+  - name: "Ben Dechrai"
+    employer: "Sonar"
+    bio: "Ben Dechrai is a technologist with a strong focus on security and privacy. At 11 years old he wrote software to stop his parents from breaking the family PC, and now he works as a developer advocate at Sonar, helping developers avoid breaking the internet through better security and coding practices. He enjoys helping others find the joy of problem-solving and experimentation."
+    twitter: "https://ben.sc/twitter"
+    linkedin: "https://ben.sc/linkedin"
+    github: "https://ben.sc/github"
+    image: "ben-dechrai.png"
 
 organizer_email: "kansas-city@devopsdays.org" # Put your organizer email address here
 
