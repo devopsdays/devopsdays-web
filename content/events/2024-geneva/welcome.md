@@ -52,7 +52,7 @@ Description = "DevopsDays Geneva 2024"
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-        <a href="https://tickets.devopsdays.org/devopsdays-geneva/2024/">Register to attend the conference!</a>
+    {{< event_link page="registration" text="Register to attend the conference!" >}}
   </div>
 </div>
 
