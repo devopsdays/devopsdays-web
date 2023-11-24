@@ -1,0 +1,182 @@
+name: "2024-montreal" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2024" # The year of the event. Make sure it is in quotes.
+city: "Montréal" # The displayed city name of the event. Capitalize it.
+event_twitter: "DevOpsDaysMTL" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "DevOpsDays is coming back to Montreal!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+event_group: "Montréal"
+
+# All dates are in unquoted 2024-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2024-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2024-05-27T09:00:00-04:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2024-05-28T18:00:00-04:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2023-12-01T00:00:00-05:00 # start accepting talk proposals.
+cfp_date_end:  2024-01-31T23:59:59-05:00 # close your call for proposals.
+cfp_date_announce: 2024-03-01T00:00:00-05:00 # inform proposers of status
+
+cfp_link: "" # "https://sessionize.com/devopsdays-montreal-2023/" if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+
+registration_closed: "true" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+masthead_background: "montreal-background.jpg"
+sharing_image: "montreal-sharing.png"
+
+# Location
+#
+coordinates: "45.50282497056757, -73.57478724385084" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Centre Mont-Royal" # Defaults to city, but you can make it the venue name.
+#
+location_address: "2200 rue Mansfield, Montréal, Québec, H3A 3R8" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+ # - name: propose
+  - name: location
+ # - name: registration
+ # - name: program
+ # - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+# The images should be placed in the `static/events/2022-montreal/organizers` directory (which the `add_organizers.sh` script will do).
+team_members: # Name is the only required field for team members.
+  - name: "Christina Di Maio"
+    image: "christina-di-maio.png"
+    bio: "Community Management and Strategic Planning, all these words to say that I'm responsible for making sure my colleagues in the Data & Analytics team at BRP are engaged and having fun and that our processes and strategies are clear to our team members and stakeholders. Marketing and event planning are my passions, I also bake a pretty mean macaron!  With a Bachelor's degree in Marketing from HEC Montréal I’ve always worked in marketing and spent most of my carreer in IT , I do my best to bring different ideas to life while sharing the tech industry through my eyes. After all, you can put glitter on anything!"
+    role: "Event Manager"
+    employer: "BRP"
+    github: ""
+    twitter: "chris_di_maio"
+    linkedin: "https://www.linkedin.com/in/christinadimaio/"
+  - name: "Ian Crosby"
+    image: "ian.jpg"
+    bio: "Previous developer, manager, cloud engineer, CTO. Enjoys solving difficult problems with interesting technology. Or interesting problems with difficult technology. Can usually be found in a meeting asking 'What is the problem we're trying to solve here?'"
+    role: "CFP, Open Spaces + Social Media"
+    employer: "CloudOps"
+    github: "idcrosby"
+    twitter: "IanDCrosby"
+    linkedin: "https://www.linkedin.com/in/iandcrosby/"
+  - name: "Joost Polley"
+    image: ""
+    bio: ""
+    role: "SWAG Organizer, CWO"
+    employer: ""
+    github: ""
+    twitter: ""
+    linkedin: ""
+  - name: "Lise-Andrée Duperré"
+    image: "lise.jpg"
+    bio: "As marketing manager, I have been bringing my energy and determination to Gologic’s DevOps community for over 6 years. I am involved in a number of initiatives to boost sales and build our brand, including lead generation strategies, social media and event planning. Alongside this exciting career, I am an outdoors enthusiast and enjoy running. Oh, and I forgot—I love chocolate. :)"
+    role: "Venue, Sponshorship liaison + Speaker liaison"
+    employer: "Gologic"
+    github: ""
+    twitter: ""
+    linkedin: "https://www.linkedin.com/in/liseandreeduperre/"
+  - name: "Michael McCliment"
+    image: "michael-mccliment.jpg"
+    bio: ""
+    role: ""
+    employer: "Ubisoft"
+    github: "cornazano"
+    twitter: "cornazano"
+    linkedin: "https://www.linkedin.com/in/michael-mccliment-77b8939b"
+  - name: "Sydney Pagliuca"
+    image: "sydney-pagliuca.jpg"
+    bio: "I am a student at McGill University enrolled in the Bachelor of Education program. As I progress through my degree, work, and teaching experiences, so does my love for education.I consider myself to be a kind, reliable, patient, and personable individual with a strong motivation to succeed. I enjoy working on projects, learning new things, making new mistakes, and teaching others. I have a particular and keen interest in space and technology, and am always questioning and exploring, with a lot to still to learn - I 💜 🍫"
+    role: ""
+    employer: ""
+    github: ""
+    twitter: ""
+    linkedin: "https://www.linkedin.com/in/sydneypagliuca"
+  - name: "Donald Donovan"
+    image: "donald-donovan.png"
+    bio: "I'm a seasoned technologically promiscuous janitor with a unique set of industry experiences in several key technology, communications, and business areas having the greatest impact on most organizations today. I have an overactive interest in data, practical technology applications, and their effects on human behavior, human society, and people's interactions as they continue to change due to new technologies and communication mediums. I'm a dedicated father of two, an INTP, and have a long list of successful (and failed) projects in both individual contributor and leadership roles. I do not like chocolate."
+    role: ""
+    employer: ""
+    github: ""
+    twitter: ""
+    linkedin: "https://www.linkedin.com/in/donalddonovan"
+  - name: "Franck Clerget"
+    image: "franck.jpg"
+    bio: "A passionate leader with almost a decade of experience in technology. Marrying modern technologies and practices with developing a strong employee's culture is recognized as a pillar in leading a competitive industry. Always reaching for the best in class, I have sharpened my skills to enable organizational transformation to better serve their customers and to distinguish their offers in a highly competitive market."
+    role: ""
+    employer: ""
+    github: ""
+    twitter: ""
+    linkedin: "https://www.linkedin.com/in/franck-clerget/"
+  - name: "Sebastián Gómez"
+    image: "seb.jpg"
+    bio: "CI/CD plumber by day, father of three by night, I've been in the IT industry for almost 20 years. It all started with a `echo Hello World` on my mom’s computer’s AUTOEXEC.BAT. I now help companies of all sizes transition into the Cloud Native world, as painless as possible."
+    role: "CFP, Speaker liaison + Website"
+    employer: "Ubisoft"
+    github: "sebagomez"
+    twitter: "sebagomez"
+    linkedin: "https://www.linkedin.com/in/sebagomez/"
+
+organizer_email: "montreal@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: suse
+    level: platinum
+  - id: gologic
+    level: gold
+  - id: zentelia
+    level: bronze
+ #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: arresteddevops
+    level: community
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: platinum
+    label: Platinum
+    max: 2
+  - id: gold
+    label: Gold
+    max: 5
+  - id: silver
+    label: Silver
+    max: 9
+  - id: bronze
+    label: Bronze
+    max: 7
+  - id: lunch
+    label: Lunch
+    max: 2
+  - id: cocktail
+    label: Cocktail
+    max: 1
+  - id: lanyard
+    label: Lanyard
+    max: 1
+  - id: coffee
+    label: Coffee
+    max: 1
+  - id: startup
+    label: Startup
+    max: 9
+  - id: non-profit
+    label: Non-profit
+    max: 5
+  - id: community
+    label: Community
