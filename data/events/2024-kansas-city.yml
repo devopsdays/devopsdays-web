@@ -10,8 +10,8 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2024-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2024-05-15T08:00:00-05:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2024-05-16T17:00:00-05:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  # start accepting talk proposals.
@@ -28,14 +28,14 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 # Location
 #
-coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Kansas City, MO" # Defaults to city, but you can make it the venue name.
+coordinates: "39.058170,-94.586258" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "The Madrid Theatre, Kansas City, MO" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "3810 Main St, Kansas City, MO 64111" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
- # - name: location
+  - name: location
  # - name: registration
  # - name: program
  # - name: speakers
@@ -48,6 +48,19 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 
 # These are the same people you have on the mailing list and Slack channel.
+# Available stubs for team members are:
+#   - name: ""
+#     employer: ""
+#     bio: ""
+#     twitter: ""
+#     linkedin: ""
+#     facebook: ""
+#     website: ""
+#     github: ""
+#     gitlab: ""
+#     mastodon: ""
+#     image: ""
+
 team_members: # Name is the only required field for team members.
   - name: "Aaron Blythe"
     employer: "Google Cloud"
@@ -68,10 +81,11 @@ team_members: # Name is the only required field for team members.
     employer: "Unaffiliated"
     twitter: "IAmJerdog"
     linkedin: "https://www.linkedin.com/in/jeremymeiss/"
+    mastodon: "https://hachyderm.io/@jerdog"
     github: "jerdog"
     website: "https://jmeiss.me"
     image: "jeremy-meiss.jpg"
-    bio: "Jeremy is a Developer Relations and Community professional with almost 30 years in Tech. He's is active in the DevRel and DevOps communities, and is a co-creator of DevOpsPartyGames.com. A lover of all things coffee, community, open source, and tech, he’s a husband and father, and is also house-broken, and (generally) plays well with others."
+    bio: "Jeremy is an experienced Developer Relations and Community leader with almost 30 years in Tech. He's is active in the DevRel and DevOps communities, and is a co-creator of DevOpsPartyGames.com. A lover of all things coffee, community, open source, and tech, he is a husband and father, and is also house-broken, and (generally) plays well with others."
   - name: "Jeff Stephens"
     employer: "C2FO"
     twitter: "tbplayer7"
@@ -86,6 +100,61 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://ben.sc/linkedin"
     github: "https://ben.sc/github"
     image: "ben-dechrai.png"
+  - name: "Heather Downing"
+    employer: ""
+    twitter: "quorralyne"
+    bio: "Software dev & speaker. Developer Advocate & Microsoft MVP. #dotNET/APIs/identity/drones. Technical, curious and traveling often from KC, Missouri. @kc_dc crew"
+    image: "heather-downing.jpg"
+  - name: "Eric Lee"
+    employer: "AWS"
+    bio: ""
+    twitter: ""
+    linkedin: ""
+    facebook: ""
+    website: ""
+    github: ""
+    gitlab: ""
+    mastodon: ""
+    image: ""
+  - name: "Kayla Harmon"
+    employer: "N/A"
+    bio: ""
+    twitter: ""
+    linkedin: "https://www.linkedin.com/in/kaylacrowder/"
+    facebook: ""
+    website: ""
+    github: ""
+    gitlab: ""
+    mastodon: ""
+    image: ""
+  - name: "CJ Obermaier"
+    employer: "Hashicorp"
+    bio: "CJ has been involved in devopsdays KC since the first conference in 2016. He enjoys coaching high school soccer and spending time with his wife and dog."
+    linkedin: "https://www.linkedin.com/in/cj-obermaier"
+    image: "cj-obermaier.jpg"
+  - name: "Ben Clayton"
+    employer: ""
+    bio: ""
+    twitter: ""
+    linkedin: ""
+    facebook: ""
+    website: ""
+    github: ""
+    gitlab: ""
+    mastodon: ""
+    image: ""
+  - name: "DaShaun Carter"
+    employer: "VMWare"
+    bio: ""
+    twitter: ""
+    linkedin: ""
+    facebook: ""
+    website: ""
+    github: ""
+    gitlab: ""
+    mastodon: ""
+    image: ""
+
 
 organizer_email: "kansas-city@devopsdays.org" # Put your organizer email address here
 
