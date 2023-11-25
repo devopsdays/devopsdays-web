@@ -19,30 +19,29 @@ The best thing to do is send engineers to interact with the experts at devopsday
   <thead>
     <tr>
       <th scope="col">BENEFITS</th>
-      <th scope="col">PLATINUM</th>
-      <th scope="col">GOLD</th>
-      <th scope="col">BRONZE</th>
-      <th scope="col">COMMUNITY</th>
+      <th scope="col" style="text-align: center;">PLATINUM</th>
+      <th scope="col" style="text-align: center;">GOLD</th>
+      <th scope="col" style="text-align: center;">BRONZE</th>
+      <th scope="col" style="text-align: center;">COMMUNITY</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>Price</td>
-      <td>$12,000<br/><em>2 available</em></td>
-      <td>$9,000<br/><em>6 available</em></td>
-      <td>$3,000<br/><em>unlimited</em></td>
-      <td>Free<br/><em>unlimited</em></td>
+      <td align="center"><strong>$12,000</strong><br/><em>2 available</em></td>
+      <td align="center"><strong>$9,000</strong><br/><em>8 available</em></td>
+      <td align="center"><strong>$4,000</strong><br/><em>unlimited</em></td>
+      <td align="center"><strong>Free</strong><br/><em>unlimited</em></td>
     </tr>
-    <tr>
+    <tr style="text-align: center;">
       <td></td>
-      <td colspan="3" align="center"><small>
+      <td colspan="3"><small>
       Note: Paypal payments include 3% service charge.
       <br>
-      <a href="mailto:kansas-city@devopsdays.org?subject=devopsdays%20KC%202024%20Sponsorship">Email us</a> if you prefer to pay by check
-      </small></td>
+      <a href="mailto:kansas-city@devopsdays.org?subject=devopsdays%20KC%202024%20Sponsorship">Email us</a> if you prefer to pay by check</small></td>
       <td></td>
     </tr>
-    <tr>
+    <tr style="text-align: center;">
       <td></td>
       <td>
         <!-- Gold Paypal button  -->
@@ -56,24 +55,25 @@ The best thing to do is send engineers to interact with the experts at devopsday
         <!-- bronze Paypal button  -->
       PAYPAL BUTTON
       </td>
-      <td><a href="mailto:kansas-city@devopsdays.org?subject=Interested%20in%20Community%20Sponsorship%20devopsdays%20KC%202024">Contact us</a>
+      <td>
+        <strong><a href="mailto:kansas-city@devopsdays.org?subject=Interested%20in%20Community%20Sponsorship%20devopsdays%20KC%202024">Contact us</a></strong>
       </td>
     </tr>
     <tr>
       <td>Tickets Included</td>
-      <td align="center">6</td>
       <td align="center">4</td>
       <td align="center">2</td>
+      <td align="center">1</td>
       <td align="center">2</td>
     </tr>
-     <tr>
+    <tr>
       <td>Social media shout-out</td>
       <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png" width="25"><br/>x4</td>
       <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png" width="25"><br/>x3</td>
       <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png" width="25"><br/>x1</td>
       <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png" width="25"><br/>x1</td>
     </tr>
-     <tr>
+    <tr>
       <td>Logo on devopsdays KC website</td>
       <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png" width="25"></td>
       <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png" width="25"></td>
@@ -94,49 +94,49 @@ The best thing to do is send engineers to interact with the experts at devopsday
       <td align="center"></td>
       <td align="center"></td>
     </tr>
-     <tr>
+    <tr>
       <td>Logo on shared slides during breaks</td>
       <td align="center"></td>
       <td align="center"></td>
       <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png" width="25"></td>
       <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png" width="25"></td>
     </tr>
-     <tr>
+    <tr>
       <td>Logo on participant emails</td>
       <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png" width="25"></td>
       <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png" width="25"></td>
       <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png" width="25"></td>
       <td align="center"></td>
     </tr>
-     <tr>
+    <tr>
       <td>Dedicated table in sponsor area (w/ 2 chairs)</td>
       <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png" width="25"><br/><small>prominent, high-profile<br/> placement, 8' table</small></td>
       <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png" width="25"><br/><small>high traffic,<br/>6' table</small></td>
       <td align="center"></td>
       <td align="center"></td>
     </tr>
-     <tr>
+    <tr>
       <td>Shout-out from MCs at kickoff and breaks</td>
       <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png" width="25"><br/></td>
       <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png" width="25"></td>
       <td align="center"></td>
       <td align="center"></td>
     </tr>
-      <tr>
+    <tr>
       <td>Dedicated logo slide during breaks</td>
       <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png" width="25"></td>
       <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png" width="25"></td>
       <td align="center"></td>
       <td align="center"></td>
     </tr>
-     <tr>
+    <tr>
       <td>One-minute pitch between talks</td>
       <td align="center"></td>
       <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png" width="25"></td>
       <td align="center"></td>
       <td align="center"></td>
     </tr>
-     <tr>
+    <tr>
       <td>Five-minute pitch between talks</td>
       <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png" width="25"></td>
       <td align="center"></td>
@@ -164,7 +164,7 @@ All special sponsors will have their logo displayed on the devopsdays Kansas CIt
   <tbody>
     <tr>
       <td>Lanyards (incl 1 ticket)</td>
-      <td align="center">$3,000</td>
+      <td align="center">$2,500</td>
       <td>Your logo worn by every attendee</td>
       <td align="center">1</td>
     </tr>
@@ -188,15 +188,9 @@ All special sponsors will have their logo displayed on the devopsdays Kansas CIt
     </tr>
     <tr>
       <td>Lunch sponsor (incl 1 ticket)</td>
-      <td align="center">$6,000</td>
+      <td align="center">$8,000</td>
       <td>Ensure everyone has the energy for the rest of the day</td>
       <td align="center">2</td>
-    </tr>
-    <tr>
-      <td>Workshop (incl 2 tickets)<br/>**REQUIRES BRONZE AND ABOVE SPONSORSHIP**</td>
-      <td align="center">$7,500</td>
-      <td>Offer a 4hr workshop on Day One to help attendees learn about your product and how to use it. **The product MUST utilize a FREE version as part of the workshop**</td>
-      <td align="center">1</td>
     </tr>
     <tr>
       <td>Happy Hour / Evening social<br/>(incl 1 ticket)</td>
