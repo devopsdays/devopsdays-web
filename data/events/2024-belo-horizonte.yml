@@ -1,0 +1,95 @@
+name: "2024-belo-horizonte" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2024" # The year of the event. Make sure it is in quotes.
+city: "Belo Horizonte" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaysbh" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays is returning to Belo Horizonte!" # Edit this to suit your preferences
+ga_tracking_id: "UA-124055941-1" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+#event_logo: "events/2024-belo-horizonte/logo.jpg"
+masthead_background: "background.png"
+startdate:  2024-09-28T00:00:00-03:00
+enddate:   2024-09-28T00:00:00-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+cfp_open: "false"
+coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+#location: "Nova Lima" # Defaults to city, but you can make it the venue name.
+#
+location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+
+# Location
+#
+#coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+#location: "TBD" # Defaults to city, but you can make it the venue name.
+#location_address: "TBD" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: sponsor
+  - name: contato
+    url: /events/2024-belo-horizonte/contact
+  - name: código de conduta
+    url: /events/2024-belo-horizonte/conduct
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Zandler Oliveira"
+    role: "Organizer"
+    linkedin: "https://www.linkedin.com/in/zandler-oliveira/"
+    bio: "Pessoa arquiteta de arquiteturas"
+    twitter: "zandler"
+    image: "zandler-oliveira.jpg"
+  - name: "André Almar"
+    linkedin: "https://www.linkedin.com/in/andrealmar/"
+    bio: ""
+    role: "Organizer"
+    image: "andre-almar.jpg"
+  - name: "Amanda Pinto"
+    linkedin: "https://www.linkedin.com/in/amanda-pinto-b4217a42/"
+    bio: ""
+    image: "amanda-pinto.jpg"
+    role: "Organizer"  
+  - name: "Ana Cláudia Grossi"
+    linkedin: "https://www.linkedin.com/in/ana-grossi-b8092019/"
+    image: "ana-claudia-grossi.jpg"
+    bio: ""
+    role: "Organizer"
+  - name: "Daniel Reis"
+    linkedin: "https://www.linkedin.com/in/danielreisp/"
+    bio: ""
+    role: "Organizer"
+    image: "daniel-reis.jpg"
+  - name: "Gustavo Fagundes"
+    linkedin: "https://www.linkedin.com/in/gustavofagundes/"
+    image: "gustavo-fagundes.jpg"
+    role: "Organizer"
+    bio: ""
+  - name: "Luiz Henrique G. Jr."
+    linkedin: "https://www.linkedin.com/in/luiz-henrique-g-jr-0725241a/"
+    image: "luiz-henrique.jpg"
+    role: "Organizer"
+    bio: ""
+
+organizer_email: "organizers-belo-horizonte-2019@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: devopsbootcamp
+    level: community
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: gold
+    label: Gold
+  - id: silver
+    label: Silver
+  - id: community
+    label: Community
+  
+  
