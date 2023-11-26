@@ -4,7 +4,7 @@ Type = "event"
 Description = "Sponsor devopsdays Kansas City 2024"
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please check out our <a href="https://assets.devopsdays.org/events/2024/kansas-city/2024-kansas-city-devopsdays-prospectus.pdf" target="_blank">prospectus</a> or <a href="mailto:kansas-city@devopsdays.org?subject=Interested%20in%20Sponsoring%20devopsdays%20KC%202024">drop us an email</a>.
+We greatly value sponsors for this open event.  If you are interested in sponsoring, please check out our <a href="https://assets.devopsdays.org/events/2024/kansas-city/devopsdays-KC-2024-Sponsorship-Prospectus.pdf" target="_blank">prospectus</a> or <a href="mailto:sponsors@devopsdayskc.org?subject=Interested%20in%20Sponsoring%20devopsdays%20KC%202024">drop us an email</a>.
 <hr>
 
 devopsdays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
@@ -38,7 +38,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
       <td colspan="3"><small>
       Note: Paypal payments include 3% service charge.
       <br>
-      <a href="mailto:kansas-city@devopsdays.org?subject=devopsdays%20KC%202024%20Sponsorship">Email us</a> if you prefer to pay by check</small></td>
+      <a href="mailto:sponsors@devopsdayskc.org?subject=devopsdays%20KC%202024%20Sponsorship">Email us</a> if you prefer to pay by check</small></td>
       <td></td>
     </tr>
     <tr style="text-align: center;">
@@ -56,7 +56,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
       PAYPAL BUTTON
       </td>
       <td>
-        <strong><a href="mailto:kansas-city@devopsdays.org?subject=Interested%20in%20Community%20Sponsorship%20devopsdays%20KC%202024">Contact us</a></strong>
+        <strong><a href="mailto:sponsors@devopsdayskc.org?subject=Interested%20in%20Community%20Sponsorship%20devopsdays%20KC%202024">Contact us</a></strong>
       </td>
     </tr>
     <tr>
