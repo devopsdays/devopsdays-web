@@ -29,7 +29,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
     <tr>
       <td>Price</td>
       <td align="center"><strong>$12,000</strong><br/><em>2 available</em></td>
-      <td align="center"><strong>$9,000</strong><br/><em>8 available</em></td>
+      <td align="center"><strong>$9,000</strong><br/><em>6 available</em></td>
       <td align="center"><strong>$4,000</strong><br/><em>unlimited</em></td>
       <td align="center"><strong>Free</strong><br/><em>unlimited</em></td>
     </tr>
