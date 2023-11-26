@@ -139,15 +139,14 @@ team_members: # Name is the only required field for team members.
     image: "ben-clayton.jpg"
   - name: "DaShaun Carter"
     employer: "VMWare"
-    bio: ""
-    twitter: ""
-    linkedin: ""
-    facebook: ""
-    website: ""
-    github: ""
-    gitlab: ""
-    mastodon: ""
-    image: ""
+    bio: "DaShaun is a husband, father of four, youth coach, struggling triathlete, Raspberry Pi enthusiast, former professional cheerleader, and Spring Developer Advocate at VMware Tanzu. Deliberately practicing to build, run, and manage, better software, faster."
+    twitter: "dashaun"
+    linkedin: "https://www.linkedin.com/in/dashaun/"
+    website: "https://dashaun.com"
+    github: "dashaun"
+    gitlab: "dashaun"
+    mastodon: "https://vmst.io/@dashaun"
+    image: "dashaun-carter.jpg"
 
 
 organizer_email: "kansas-city@devopsdays.org" # Put your organizer email address here
