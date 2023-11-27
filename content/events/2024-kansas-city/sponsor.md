@@ -1,17 +1,17 @@
 +++
 Title = "Sponsor"
 Type = "event"
-Description = "Sponsor devopsdays Kansas City 2024"
+Description = "Sponsor DevOpsDays Kansas City 2024"
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please check out our <a href="https://assets.devopsdays.org/events/2024/kansas-city/devopsdays-KC-2024-Sponsorship-Prospectus.pdf" target="_blank">prospectus</a> or <a href="mailto:sponsors@devopsdayskc.org?subject=Interested%20in%20Sponsoring%20devopsdays%20KC%202024">drop us an email</a>.
+We greatly value sponsors for this open event.  If you are interested in sponsoring, please check out our <a href="https://assets.devopsdays.org/events/2024/kansas-city/devopsdays-KC-2024-Sponsorship-Prospectus.pdf" target="_blank">prospectus</a> or <a href="mailto:sponsors@devopsdayskc.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20KC%202024">drop us an email</a>.
 <hr>
 
-devopsdays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
+DevOpsDays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
 <p>
 Platinum and Gold sponsors get a full table in the sponsor area where they can interact with those interested to come visit during breaks. All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
 <p>
-The best thing to do is send engineers to interact with the experts at devopsdays KC on their own terms.
+The best thing to do is send engineers to interact with the experts at DevOpsDays KC on their own terms.
 
 <h2>Sponsorship Packages</h2>
 
@@ -38,7 +38,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
       <td colspan="3"><small>
       Note: Paypal payments include 3% service charge.
       <br>
-      <a href="mailto:sponsors@devopsdayskc.org?subject=devopsdays%20KC%202024%20Sponsorship">Email us</a> if you prefer to pay by check</small></td>
+      <a href="mailto:sponsors@devopsdayskc.org?subject=DevOpsDays%20KC%202024%20Sponsorship">Email us</a> if you prefer to pay by check</small></td>
       <td></td>
     </tr>
     <tr style="text-align: center;">
@@ -71,7 +71,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
         </form>
       </td>
       <td>
-        <strong><a href="mailto:sponsors@devopsdayskc.org?subject=Interested%20in%20Community%20Sponsorship%20devopsdays%20KC%202024">Contact us</a></strong>
+        <strong><a href="mailto:sponsors@devopsdayskc.org?subject=Interested%20in%20Community%20Sponsorship%20DevOpsDays%20KC%202024">Contact us</a></strong>
       </td>
     </tr>
     <tr>
@@ -79,7 +79,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
       <td align="center">4</td>
       <td align="center">2</td>
       <td align="center">1</td>
-      <td align="center">2</td>
+      <td align="center">1</td>
     </tr>
     <tr>
       <td>Social media shout-out</td>
@@ -89,7 +89,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
       <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png" width="25"><br/>x1</td>
     </tr>
     <tr>
-      <td>Logo on devopsdays KC website</td>
+      <td>Logo on DevOpsDays KC website</td>
       <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png" width="25"></td>
       <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png" width="25"></td>
       <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png" width="25"></td>
@@ -158,7 +158,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
 
 There are also opportunities for exclusive special sponsorships. We'll have sponsors for various events with special privileges for the sponsors of these events. If you are interested in special sponsorships or have a creative idea about how you can support the event, <a href="mailto:kansas-city@devopsdays.org">send us an email</a>.
 
-All special sponsors will have their logo displayed on the devopsdays Kansas CIty website, a tweet before the conference, and a thank you during the conference. We do have some flexibility with these sponsorships, so just ask! 
+All special sponsors will have their logo displayed on the DevOpsDays Kansas CIty website, a tweet before the conference, and a thank you during the conference. We do have some flexibility with these sponsorships, so just ask! 
 
 <table class="table table-bordered table-hover">
   <thead>
@@ -215,7 +215,7 @@ All special sponsors will have their logo displayed on the devopsdays Kansas CIt
 </table>
 
 ### Community sponsorships
-Community sponsors are entities in our local tech community who provide opportunities for learning and connection. If you would like to discuss these sponsorships with us, shoot us <a href="mailto:sponsors@devopsdayskc.org?subject=Interested%20in%20Community%20Sponsorship%20devopsdays%20KC%202024">an email</a>.  
+Community sponsors are entities in our local tech community who provide opportunities for learning and connection. If you would like to discuss these sponsorships with us, shoot us <a href="mailto:sponsors@devopsdayskc.org?subject=Interested%20in%20Community%20Sponsorship%20DevOpsDays%20KC%202024">an email</a>.  
 
 
 <div class = "row">
