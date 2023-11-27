@@ -44,16 +44,31 @@ The best thing to do is send engineers to interact with the experts at devopsday
     <tr style="text-align: center;">
       <td></td>
       <td>
-        <!-- Gold Paypal button  -->
-      PAYPAL BUTTON
+        <!-- Platinum Paypal button  -->
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+          <input type="hidden" name="cmd" value="_s-xclick" />
+          <input type="hidden" name="hosted_button_id" value="KUJUTPDCQ3MXS" />
+          <input type="hidden" name="currency_code" value="USD" />
+          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Buy Now" />
+        </form>
       </td>
       <td>
         <!-- Gold Paypal button  -->
-      PAYPAL BUTTON
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+          <input type="hidden" name="cmd" value="_s-xclick" />
+          <input type="hidden" name="hosted_button_id" value="Y8EN9MRUGTZE4" />
+          <input type="hidden" name="currency_code" value="USD" />
+          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Buy Now" />
+        </form>
       </td>
       <td>
         <!-- bronze Paypal button  -->
-      PAYPAL BUTTON
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+          <input type="hidden" name="cmd" value="_s-xclick" />
+          <input type="hidden" name="hosted_button_id" value="WJ3T6Q3RA9DMW" />
+          <input type="hidden" name="currency_code" value="USD" />
+          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Buy Now" />
+        </form>
       </td>
       <td>
         <strong><a href="mailto:sponsors@devopsdayskc.org?subject=Interested%20in%20Community%20Sponsorship%20devopsdays%20KC%202024">Contact us</a></strong>
