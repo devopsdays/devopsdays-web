@@ -123,21 +123,14 @@ The best thing to do is send engineers to interact with the experts at devopsday
       <td align="center"></td>
     </tr>
     <tr>
-      <td>Dedicated logo slide during breaks</td>
-      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png" width="25"></td>
-      <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png" width="25"></td>
-      <td align="center"></td>
-      <td align="center"></td>
-    </tr>
-    <tr>
-      <td>One-minute pitch between talks</td>
+      <td>One, 1-minute pitch during Program</td>
       <td align="center"></td>
       <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png" width="25"></td>
       <td align="center"></td>
       <td align="center"></td>
     </tr>
     <tr>
-      <td>Five-minute pitch between talks</td>
+      <td>One, 5-minute pitch during Program</td>
       <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png" width="25"></td>
       <td align="center"></td>
       <td align="center"></td>
@@ -205,6 +198,10 @@ All special sponsors will have their logo displayed on the devopsdays Kansas CIt
       <td align="center">Unlim</td>
   </tbody>
 </table>
+
+### Community sponsorships
+Community sponsors are entities in our local tech community who provide opportunities for learning and connection. If you would like to discuss these sponsorships with us, shoot us <a href="mailto:sponsors@devopsdayskc.org?subject=Interested%20in%20Community%20Sponsorship%20devopsdays%20KC%202024">an email</a>.  
+
 
 <div class = "row">
 <div class = "col-12">
