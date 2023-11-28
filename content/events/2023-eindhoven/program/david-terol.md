@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "InnerSource at scale: Let's innovate together!"
 Type = "talk"
 Speakers = ["david-terol"]
+Youtube = "Q0mY5_fgZCc"
 +++
 
 Philips has transformed to become a focused health technology leader. From connected, smart oral care to informatics, precision diagnostics, and image-guided therapy solutions.

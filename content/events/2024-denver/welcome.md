@@ -5,45 +5,50 @@ aliases = ["/events/2024-denver/"]
 Description = "devopsdays Denver 2024"
 +++
 
-<!-- <div style="text-align:center;">
-  {{< event_logo >}}
-</div> -->
+<div style="text-align:center;">
+  <!-- {{< event_logo >}} -->
+  <img src="/events/2024-denver/dod24-transparent.png" width="600" />
+</div>
 
-<div class = "row">
-  <div class = "col-md-2">
+<br>
+{{< event_twitter >}}
+<br>
+
+<div class="row">
+  <div class="col-md-2">
     <strong>Dates</strong>
   </div>
-  <div class = "col-md-8">
+  <div class="col-md-7">
     {{< event_start >}} - {{< event_end >}}
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
+    <a href="https://www.eventbrite.com/e/devops-days-rockies-2023-tickets-440622492737">Register to attend the conference!</a>
   </div>
-</div> -->
+</div>-->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -63,25 +68,22 @@ Description = "devopsdays Denver 2024"
   </div>
 </div> -->
 
-<div class = "row">
-  <div class = "col-md-2">
+<div class="row">
+  <div class="col-md-2">
     <strong>Sponsors</strong>
   </div>
-  <div class = "col-md-8">
+  <div class="col-md-4">
     {{< event_link page="sponsor" text="Sponsor the conference!" >}}
   </div>
 </div>
 
-<div class = "row">
-  <div class = "col-md-2">
+<div class="row">
+  <div class="col-md-2">
     <strong>Contact</strong>
   </div>
-  <div class = "col-md-8">
+  <div class="col-md-4">
     {{< event_link page="contact" text="Get in touch with the organizers" >}}
   </div>
 </div>
 
-<!-- Uncomment if you added your city twitter name -->
-<!--
-{{< event_twitter >}}
--->
+<hr/>

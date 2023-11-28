@@ -83,7 +83,6 @@ Description = "DevopsDays Geneva 2024"
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
 </div>-->
-<!--
 <div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>
@@ -91,7 +90,7 @@ Description = "DevopsDays Geneva 2024"
   <div class = "col-md-8">
     {{< event_link page="sponsor" text="Sponsor the conference!" >}}
   </div>
-</div>-->
+</div>
 <div class = "row">
   <div class = "col-md-2">
     <strong>Newsletter</strong>

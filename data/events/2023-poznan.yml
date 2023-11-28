@@ -1,0 +1,165 @@
+name: "2023-poznan" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2023" # The year of the event. Make sure it is in quotes.
+city: "Poznań" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdayspoz" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+event_linkedin: "https://www.linkedin.com/company/devopsdayspoznan/"
+description: "DevOpsDays is coming to Poznań!" # Edit this to suit your preferences
+ga_tracking_id: "G-3HMCE4P51Z" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+event_group: "Poznań"
+
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2023-12-07T18:00:00+01:00  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  2023-12-07T21:00:00+01:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+
+cfp_date_start:  2023-11-01T00:00:00+02:00 # start accepting talk proposals.
+cfp_date_end:  2023-12-06T23:59:59+02:00 # close your call for proposals.
+# cfp_date_announce:  2020-02-28T00:00:00+02:00 # announce speakers.
+
+cfp_open: "true"
+cfp_link: "https://docs.google.com/forms/d/e/1FAIpQLSeaelybJuUpcNmculGycoEKQsshIfp5evZuKGcNsmH-klNizg/viewform?usp=sf_link" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: 2023-11-01T00:00:00+02:00  # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2023-12-06T23:59:59+02:00 # close registration. Leave blank if registration is not open yet.
+
+#registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: https://www.meetup.com/devopspoznan/events/297243440  # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "52.40109620791233, 16.91983545333972" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Poznań" # Defaults to city, but you can make it the venue name.
+#
+location_address: "Allegro, Nowy Rynek, Przemysłowa 3, 61-579 Poznań" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+#location_address: "Poznań Supercomputing and Networking Center, Jana Pawła II 10, 61-139 Poznań" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+# sharing_image: "sharing.jpg"
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: location
+  - name: propose
+  - name: registration
+  - name: program
+  - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+
+  - name: "Łukasz Przybył"
+    employer: "Formiq"
+    linkedin: "https://www.linkedin.com/in/lukasz-przybyl/"
+    twitter: "luprzybyl"
+    image: lukasz-przybyl.jpg
+  - name: "Jakub Jakubik"
+    employer: "Dealfront"
+    linkedin: "https://www.linkedin.com/in/jakubjakubik/"
+    image: "jakub-jakubik.jpg"
+  - name: "Marcin Mazurek"
+    employer: "Allegro.pl"
+    linkedin: "https://www.linkedin.com/in/mmazurek/"
+    twitter: "mazuchna"
+    image: marcin-mazurek.jpg
+  - name: "Daniel Pijanowski"
+    employer: "Allegro.pl"
+    linkedin: "https://www.linkedin.com/in/dpijanowski/"
+    image: "daniel-pijanowski.jpg"
+  - name: "Kacper Szczepanek"
+    employer: "Nordcloud"
+    twitter: "KacSzczepanek"
+    linkedin: "https://www.linkedin.com/in/kacper-szczepanek/"
+    image: kacper-szczepanek.jpg
+
+organizer_email: "poznan@devopsdays.org" # Put your organizer email address here
+#proposal_email: "proposals-poznan-2019@devopsdays.org" # Put your proposal email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: allegro
+    level: organizing
+    url: https://www.allegro.pl/
+  # - id: trecom
+  #   level: organizing
+  #   url: https://www.trecom.pl/en/trecom-develop-and-optimize-your-it-system/
+  # - id: riskmethods
+  #   level: partner
+  # - id: merixstudio
+  #   level: partner
+  # - id: egnyte
+  #   level: partner
+  # - id: glaxosmithkline
+  #   level: partner
+#  - id: holidaycheck
+#    level: bronze
+  # - id: allegro
+  #   level: bronze
+#  - id: mirantis
+#    level: bronze
+#  - id: letsmanageit
+#    level: community
+#  - id: containersolutions
+#    level: community
+#  - id: poznan
+#    level: community
+    #url: https://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+#  - id: splunk-before-20220426
+#    level: socialevent
+#  - id: olx
+#    level: workshop
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: organizing
+    label: Organizing
+    max: 3
+#  - id: workshop
+#    label: Workshop
+
+program:
+  - title: "Opening"
+    type: custom
+    date: 2023-12-07
+    start_time: "18:00"
+    end_time: "18:15"
+  - title: "building-ai-chatbot"
+    type: talk
+    date: 2023-12-07
+    start_time: "18:15"
+    end_time: "19:00"
+  - title: "Break"
+    type: custom
+    date: 2023-12-07
+    start_time: "19:00"
+    end_time: "19:30"
+  - title: "Lightning talks"
+    type: ignite
+    date: 2023-12-07
+    start_time: "19:30"
+    end_time: "20:00"
+  - title: "Pizza, networking, OpenSpace"
+    type: custom
+    date: 2023-12-07
+    start_time: "20:00"
+    end_time: "21:00"
+
+ignites:
+   - title: "vault-k8s"
+     date: 2023-12-07
+   - title: "mateusz-g"
+     date: 2023-12-07

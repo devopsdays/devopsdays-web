@@ -95,6 +95,8 @@ organizer_email: "berlin@devopsdays.org" # Put your organizer email address here
 sponsors:
   - id: netways
     level: partner
+  - id: cloudsmith
+    level: platinum
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

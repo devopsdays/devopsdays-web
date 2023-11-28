@@ -162,77 +162,77 @@ program:
     type: talk
     date: 2023-11-11
     start_time: "09:20"
-    end_time: "09:55"
+    end_time: "10:10"
     background_color: "#cc99ff"
   - title: "Coffee break matutino"
     type: custom
     date: 2023-11-11
-    start_time: "9:55"
-    end_time: "10:30"
+    start_time: "10:10"
+    end_time: "10:45"
   - title: "arthur-sens"
     type: talk
     date: 2023-11-11
-    start_time: "10:30"
-    end_time: "11:05"
+    start_time: "10:45"
+    end_time: "11:20"
   - title: "henrique-dalssaso"
     type: talk
     date: 2023-11-11
-    start_time: "11:05"
-    end_time: "11:40"
+    start_time: "11:20"
+    end_time: "11:55"
   - title: "paulo-henrique"
     type: talk
     date: 2023-11-11
-    start_time: "11:40"
-    end_time: "12:05"
+    start_time: "11:55"
+    end_time: "12:30"
   - title: "Almoço"
     type: custom
     date: 2023-11-11
-    start_time: "12:15"
-    end_time: "13:35"
+    start_time: "12:30"
+    end_time: "13:50"
   - title: "Retorno almoço / Reabertura do evento"
     type: custom
     date: 2023-11-11
-    start_time: "13:35"
-    end_time: "13:40"
-  - title: "tiago-temporin"
+    start_time: "13:50"
+    end_time: "13:55"
+  - title: "rodney-reis"
     type: talk
     date: 2023-11-11
-    start_time: "13:40"
+    start_time: "13:55"
     end_time: "14:30"
   - title: "camilla-martins"
     type: talk
     date: 2023-11-11
     start_time: "14:30"
     end_time: "15:05"
-  - title: "Coffee break vespertino"
-    type: custom
-    date: 2023-11-11
-    start_time: "15:05"
-    end_time: "15:40"
   - title: "luccas-quadros"
     type: talk
     date: 2023-11-11
+    start_time: "15:05"
+    end_time: "15:40"
+  - title: "Coffee break vespertino"
+    type: custom
+    date: 2023-11-11
     start_time: "15:40"
-    end_time: "16:30"
+    end_time: "16:15"
   - title: "juliana-gaioso"
     type: talk
     date: 2023-11-11
-    start_time: "16:30"
-    end_time: "17:05"
-  - title: "anderson-soffa"
+    start_time: "16:15"
+    end_time: "16:50"
+  - title: "tiago-temporin"
     type: talk
     date: 2023-11-11
-    start_time: "17:05"
-    end_time: "17:40"
+    start_time: "16:50"
+    end_time: "17:25"
   - title: "Lightning Talks"
     type: custom
     date: 2023-11-11
-    start_time: "17:40"
-    end_time: "18:15"
-  - title: "Encerramento"
+    start_time: "17:25"
+    end_time: "18:00"
+  - title: "Encerramento com sorteios"
     type: custom
     date: 2023-11-11
-    start_time: "18:20"
+    start_time: "18:00"
     end_time: "18:30"
 
   

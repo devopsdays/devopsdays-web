@@ -24,25 +24,25 @@ cfp_date_announce: "2023-08-28T00:00:00-03:00" #2019-10-20T00:09:00-03:00 # info
 cfp_open: "true"
 cfp_link: "https://www.papercall.io/dodrec23" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: "" #2022-10-01T00:09:00-03:00 # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: "" #2022-10-31T00:09:00-03:00 # close registration. Leave blank if registration is not open yet.
+registration_date_start: "2023-10-29T00:10:00-03:00" #2022-10-01T00:09:00-03:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: "2023-12-01T00:10:00-03:00" #2022-10-31T00:09:00-03:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.sympla.com.br/devopsdays-recife-2023__2204025" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
-coordinates: -8.059486118315728, -34.872439804877146 # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "CESAR School" # Defaults to city, but you can make it the venue name.
-location_address: "Avenida Cais do Apolo, 77 - Recife, Pernambuco" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+coordinates: -8.062790, -34.873370 # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "ETE Porto Digital" # Defaults to city, but you can make it the venue name.
+location_address: "Av. Rio Branco, 193 - Recife, Pernambuco" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
 #   icon: "" deprecated - This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
  - name: local
    url: /events/2023-recife/local
-#  - name: inscricao
-#    url: ""
+ - name: inscricao
+   url: "https://www.sympla.com.br/devopsdays-recife-2023__2204025"
  - name: código de conduta
    url: /events/2023-recife/conduct
  - name: contato
@@ -123,9 +123,7 @@ sponsor_levels:
     label: Media
 
 sponsors:
-  - id: cesar-school
-    level: platinum
-  - id: cesar
-    level: platinum
+  - id: espaco-cloud
+    level: gold
 
 program:

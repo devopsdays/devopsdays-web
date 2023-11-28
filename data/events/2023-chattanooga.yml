@@ -100,6 +100,18 @@ sponsors:
     level: bronze
   - id: aptible
     level: silver
+  - id: engineerkit
+    level: community
+  - id: aws
+    level: nickel
+  - id: tva
+    level: gold
+  - id: bcbst
+    level: silver
+  - id: stratusgrid
+    level: bronze
+  - id: datably
+    level: nickel
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -107,9 +119,6 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: platinum
-    label: Platinum
-    max: 1
   - id: gold
     label: Gold
     max: 8
@@ -118,44 +127,7 @@ sponsor_levels:
     max: 10
   - id: bronze
     label: Bronze
+  - id: nickel
+    label: Nickel
   - id: community
     label: Community
-  - id: lunch
-    label: Lunch
-    max: 1
-  - id: coffee
-    label: Coffee + Snack
-    max: 1
-  - id: breakfast
-    label: Breakfast
-    max: 1
-  - id: speakerdinner
-    label: Speaker Dinner
-    max: 1
-  - id: happyhour
-    label: Happy Hour
-    max: 1
-  - id: swagbag
-    label: Swag Bag
-    max: 1
-  - id: lanyard
-    label: Lanyard
-    max: 1
-  - id: wifi
-    label: WiFi
-    max: 1
-  - id: rubberduck
-    label: Rubber Duck
-    max: 1
-  - id: parking
-    label: Parking
-    max: 1
-  - id: photobooth
-    label: Photo Booth
-    max: 1
-  - id: livestream
-    label: Livestream
-    max: 1
-  - id: mm
-    label: M&M
-    max: 1

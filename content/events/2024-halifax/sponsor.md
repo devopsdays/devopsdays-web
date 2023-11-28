@@ -13,6 +13,8 @@ Platinum and Gold sponsors get a full table in the sponsor area where they can i
 <p>
 The best thing to do is send engineers to interact with the experts at DevOpsDays Halifax on their own terms.
 
+## [Download Our Prospectus Here!](https://drive.google.com/file/d/1lOO12QTfEGpOEBWOg7oiQnVvzrfLuxSN/view?usp=sharing)
+
 <h2>Sponsorship Packages</h2>
 
 <table class="table table-bordered table-hover">
