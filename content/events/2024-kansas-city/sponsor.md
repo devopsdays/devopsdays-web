@@ -145,7 +145,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <td align="center"></td>
     </tr>
     <tr>
-      <td>One, 5-minute pitch during Program</td>
+      <td>One, 2-minute pitch during Program</td>
       <td align="center"><img src = "/events/2024-kansas-city/kclogo-250px.png" width="25"></td>
       <td align="center"></td>
       <td align="center"></td>
