@@ -69,12 +69,6 @@ read -p "Enter speaker linkedin profile (return for none): " linkedin
 [ -z "${linkedin}" ] && linkedin=''
 string_replace "SPEAKERLINKEDIN" "${linkedin}" "${speakerfile}"
 
-#linkedin profile
-read -p "Enter speaker linkedin profile (return for none): " linkedin
-[ -z "${linkedin}" ] && linkedin=''
-sedcmd "s,SPEAKERLINKEDIN,$linkedin,g" $speakerfile
-
-
 # bio
 read -p "Enter speaker bio (return for none): " bio
 [ -z "${bio}" ] && bio=''
