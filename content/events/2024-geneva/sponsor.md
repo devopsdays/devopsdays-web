@@ -39,7 +39,7 @@ Description = "Sponsor DevOpsDays Geneva 2024"
 
 Sponsors are crucial for the success of the event, and we will show you our love better than ever :heart_eyes:
 
-You can find all sponsor information the sponsor pack ([downloadable PDF here](https://drive.google.com/file/d/1-oGWRxQUSK96Nfk-P1iLK_rRjvHY_Mz9/view?usp=sharing))
+You can find all sponsor information the sponsor pack ([downloadable PDF here](https://drive.google.com/file/d/1-oGWRxQUSK96Nfk-P1iLK_rRjvHY_Mz9/view))
 
 If you want to sponsor this year edition, please fill in [this form](https://forms.clickup.com/36866802/f/1352qj-5848/54BQACFB408CKCH7N1) and if the sponsoring level you chose is still available we will quickly confirm and send you the corresponding invoice.
 
