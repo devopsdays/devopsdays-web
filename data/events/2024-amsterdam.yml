@@ -15,11 +15,11 @@ startdate: 2024-06-19T00:00:00+02:00 # The start date of your event. Leave blank
 enddate: 2024-06-21T00:00:00+02:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: # start accepting talk proposals.
-cfp_date_end: # close your call for proposals.
+cfp_date_start: 2023-12-01T00:00:00+02:00 # start accepting talk proposals.
+cfp_date_end: 2024-02-01T00:00:00+02:00 # close your call for proposals.
 cfp_date_announce: # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://talks.devopsdays.org/devopsdays-amsterdam-2024/cfp" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
@@ -87,6 +87,12 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/suzannedaniels/"
     twitter: "suushier"
     image: "suus.jpg"
+  
+  - name: "Tim Mamo"
+    pronouns: "he/him"
+    linkedin: "https://www.linkedin.com/in/timothymamo/"
+    twitter: "timothymamo"
+    image: "tim.jpg"
 
   - name: "Chris Lennon"
     pronouns: "he/him"
