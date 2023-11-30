@@ -102,6 +102,12 @@ organizer_email: "geneva@devopsdays.org" # Put your organizer email address here
 sponsors:
   - id: veeam
     level: silver
+  - id: infomaniak
+    level: gold
+  - id: hidora
+    level: gold
+  - id: techfirm
+    level: gold
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
