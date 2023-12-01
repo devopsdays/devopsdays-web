@@ -159,6 +159,10 @@ sponsors:
     level: gold
   - id: ciklum
     level: bronze
+  - id: bit
+    level: bronze
+  - id: cloudscalech
+    level: event
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
