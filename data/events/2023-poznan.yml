@@ -89,36 +89,9 @@ sponsors:
   - id: allegro
     level: organizing
     url: https://www.allegro.pl/
-  # - id: trecom
-  #   level: organizing
-  #   url: https://www.trecom.pl/en/trecom-develop-and-optimize-your-it-system/
-  # - id: riskmethods
-  #   level: partner
-  # - id: merixstudio
-  #   level: partner
-  # - id: egnyte
-  #   level: partner
-  # - id: glaxosmithkline
-  #   level: partner
-#  - id: holidaycheck
-#    level: bronze
-  # - id: allegro
-  #   level: bronze
-#  - id: mirantis
-#    level: bronze
-#  - id: letsmanageit
-#    level: community
-#  - id: containersolutions
-#    level: community
-#  - id: poznan
-#    level: community
-    #url: https://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-#  - id: splunk-before-20220426
-#    level: socialevent
-#  - id: olx
-#    level: workshop
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+sponsors_accepted : "No" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -161,5 +134,7 @@ program:
 ignites:
    - title: "vault-k8s"
      date: 2023-12-07
-   - title: "mateusz-g"
+   - title: "hard-path-to-cloud"
+     date: 2023-12-07
+   - title: "jacek-smolak"
      date: 2023-12-07
