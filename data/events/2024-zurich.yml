@@ -99,7 +99,7 @@ team_members: # Name is the only required field for team members.
   - name: "Flavio Monigatti"
     twitter: "monfla00"
     employer: "Inspify Pte Ltd"
-    bio: "Flavio is the co-founder and the tech brain behind INSPIFY. As he discovered his natural talent for technology and sciences from a very young age, Flavio began a path of a highly-acclaimed academic career – where he completed his Masters and Doctorate Degree at the University of Basel, Switzerland, majoring in Biosciences and Bioinformatics. After which, he pursued his Postdoctoral Research Studies at the Boston Children’s Hospital and Harvard Medical School. After working in various nations within the tech industry, Flavio then branched out and co-founded INSPIFY, with an aim to revolutionise the luxury retail landscape."
+    bio: "Flavio is a passionate advocate for DevOps and MLOps (DevOps for Machine Learning), bringing with him a dynamic enthusiasm for these transformative methodologies. With a rich background in engineering, Flavio is also deeply involved in the practical application of these principles, helping customers realize the benefits of how DevOps and MLOps revolutionizes the way we think about and execute software development and operations."
     linkedin: "https://www.linkedin.com/in/flavio-monigatti-5065076/"
     image: "flavio-monigatti.jpg"
   - name: "Zoltan Vitus"
@@ -124,7 +124,7 @@ Beyond work, I'm a passionate saxophonist. I'm looking forward contributing my s
     linkedin: "https://www.linkedin.com/in/isabelschacher/"
     image: "isabel-schacher.jpg"
   - name: "Peter Schwaar"
-    bio: "<p>A charismatic leader, who has achieved notable success within world leading IT organizations (Digital Equipment Corporation, EMC Computer Systems, Brocade Communications Systems and Hewlett Packard Enterprise). Having held senior management positions (services and commercial) in both large multinational and smaller international companies.</p>"
+    bio: "<p>When I started my career in the mid-80s after studying computer science, waterfall methods with long and cumbersome requirement specifications, concept and implementation phases were common in software development. Unfortunately, at the end, customers and users were often not very satisfied with the solutions delivered! Therefore, I was definitely thrilled, when I came across the Scrum method in the early 90s and further, when I read beginning of 2010 several articles about the DevOps and SAFe. For me, these methodologies and principles closed the last methodology gaps within the entire software life cycle! Since over ten years now, I have successfully managed various medium and large DevOps-oriented software development projects as well as transformations of organizations into the agile world. In my current role as an “Independent Consultant” I am supporting and coaching Swiss customers in the transformation of their project and ICT organizations into the agile and DevOps-oriented world.</p>"
     employer: "Independent Consultant"
     github: ""
     facebook: ""
@@ -149,8 +149,22 @@ sponsors:
     level: silver
   - id: swisscom
     level: silver
+  - id: eficode
+    level: bronze
+  - id: elastic
+    level: gold
+  - id: cloudscale
+    level: event
+  - id: exoscale
+    level: gold
+  - id: ciklum
+    level: bronze
+  - id: bit
+    level: bronze
+  - id: cloudscalech
+    level: event
 
-sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For

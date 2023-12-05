@@ -41,7 +41,7 @@ location_address: "Campus de Battelle, Rue de la Tambourine 17, 1227 Carouge" #O
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
   - name: location
-#  - name: registration
+  - name: registration
 #  - name: program
 #  - name: speakers
   - name: sponsor
@@ -100,7 +100,14 @@ organizer_email: "geneva@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-
+  - id: veeam
+    level: silver
+  - id: infomaniak
+    level: gold
+  - id: hidora
+    level: gold
+  - id: techfirm
+    level: gold
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
