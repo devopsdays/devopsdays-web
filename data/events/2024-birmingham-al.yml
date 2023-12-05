@@ -10,21 +10,21 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2024-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: 2024-04-18T17:00:00-05:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2024-04-17T08:00:00-05:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2024-04-17T08:00:00-17:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2024-04-18T08:00:00-17:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2023-07-20T00:00:00-05:00 # start accepting talk proposals.
-cfp_date_end: 2023-12-01T00:00:00-06:00 # close your call for proposals.
-cfp_date_announce: 2023-12-10T00:00:00-06:00 # inform proposers of status
+cfp_date_end: 2023-12-31T00:00:00-06:00 # close your call for proposals.
+cfp_date_announce: 2024-01-30T00:00:00-06:00 # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://talks.devopsdays.org/devopsdays-birmingham-al-2024/cfp" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2023-07-20T00:00:00-05:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 registration_date_end: 2024-04-18T10:00:00-05:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "https://www.eventbrite.com/e/devopsdays-birmingham-al-2024-tickets-680078040727" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://tickets.devopsdays.org/devopsdays-birmingham-al/2024/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
