@@ -194,8 +194,6 @@ sponsors:
     level: platinum
   - id: pulumi
     level: platinum
-  - id: nebius
-    level: platinum
   - id: armosec
     level: gold
   - id: komodor
@@ -217,8 +215,6 @@ sponsors:
   - id: quali
     level: gold
   - id: groundcover
-    level: gold
-  - id: circleci
     level: gold
   - id: env0
     level: gold

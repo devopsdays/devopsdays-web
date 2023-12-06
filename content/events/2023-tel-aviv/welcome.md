@@ -18,10 +18,12 @@ Description = "devopsdays Tel Aviv 2023"
 
 
 <div style="text-align:center; width:700;">
-  <p style="text-align:center"><img src="https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,quality=75,width=960,height=480/event-covers/zy/5e297355-a1df-4b0a-8bbe-0d2cfa503b2f" width="70%"></p>
-             <h1><span style="text-transform: uppercase; text-align: center;">JOIN US FOR A</span> <span style="text-transform: uppercase; color: orange; text-align: center; font family: creepster">SPOOKY </span>DEVOPSDAYS TLV </h1>
-             <h4> We're coming back October 29-30, 2023 and what better way to celebrate Halloween than with the best of your worst DevOps horror shows?! </h4>        
-            <p>It has come to our attention that October 31st is a BANK HOLIDAY (municipal elections), and we didn't want our community to have to choose between DevOps and Democracy––so we have moved the event up a day to October 29th.</p><h3>TICKETS ARE NOW ON SALE 👉🏽 <a href="https://tlvcommunity.dev/devopsdays#register" target="_blank">REGISTER HERE!</a></h3>
+ <!--  <p style="text-align:center"><img src="https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,quality=75,width=960,height=480/event-covers/zy/5e297355-a1df-4b0a-8bbe-0d2cfa503b2f" width="70%"></p>
+             <h1><span style="text-transform: uppercase; text-align: center;">JOIN US FOR A</span> <span style="text-transform: uppercase; color: orange; text-align: center; font family: creepster">SPOOKY </span>DEVOPSDAYS TLV </h1> -->
+             <h4> In light of the current situation in Israel we are continuing to monitor the status, and will be making changes to event dates accordingly.  <br/>
+             NOTE: The current January dates may be subject to change, and we will be sure to update all of our community members with any event changes. </h4>        
+            <p>You are still welcome to purchase tickets here, and <em>we will refund</em> any tickets to those who are no longer able to attend 👉🏽 <a href="https://tlvcommunity.dev/devopsdays#register" target="_blank">REGISTER HERE!</a></h3>
+            <p> We update our community via our social media channels and newsletter - you can follow or subscribe for updates to stay informed.<br/> <strong>Find all of our links <a href="https://linktr.ee/tlvcommunity" target="_blank">HERE</a></strong>.</p>
 </div> 
 
 <hr/>
