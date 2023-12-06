@@ -51,7 +51,7 @@ description = "Sponsor information for devopsdays Amsterdam 2024!"
     
 - **Do we get any sponsored talks?**
     
-    No, but you are welcome to submit a talk proposal for consideration. See [this link](https://talx.devops.foundation/devopsdays-amsterdam-2024/cfp) for more information.
+    No, but you are welcome to submit a talk proposal for consideration. See [this link](https://talks.devopsdays.org/devopsdays-amsterdam-2024/cfp) for more information.
     
 - **What does the one minute pitch consist of?**
     
