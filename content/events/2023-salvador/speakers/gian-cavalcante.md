@@ -2,7 +2,7 @@
 Title = "Gian Cavalcante"
 Twitter = "giancl"
 linkedin = ""
-image = "gian-cavalcante.png"
+image = "gian-cavalcante.jpg"
 type = "speaker"
 linktitle = ""
 website = ""
