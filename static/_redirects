@@ -71,7 +71,7 @@
 /montevideo/*		/events/2019-montevideo/:splat		302
 /montreal/*		/events/2024-montreal/:splat		302
 /moscow/*		/events/2020-moscow/:splat		302
-/nairobi/*		/events/2014-nairobi/:splat		302
+/nairobi/*		/events/2024-nairobi/:splat		302
 /nashville/*		/events/2024-nashville/:splat		302
 /natal/*		/events/2020-natal/:splat		302
 /new-york-city/*	/events/2023-new-york-city/:splat	302
