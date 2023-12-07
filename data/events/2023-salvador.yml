@@ -115,6 +115,10 @@ sponsors:
     level: gold
   - id: grafanalabs
     level: silver
+  - id: malta
+    level: bronze
+  - id: jusbrasil
+    level: silver
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -151,7 +155,7 @@ program:
     start_time: "09:20"
     end_time: "09:50"
     background_color: "#bfe3b4"
-  - title: "talk-cfp"
+  - title: "giovana-nascimento"
     type: talk
     date: 2023-12-16T09:00:00-03:00
     start_time: "09:55"
@@ -161,12 +165,12 @@ program:
     date: 2023-12-16T09:00:00-03:00
     start_time: "10:20"
     end_time: "11:00"
-  - title: "talk-cfp"
+  - title: "lanay-cardoso"
     type: talk
     date: 2023-12-16T09:00:00-03:00
     start_time: "11:05"
     end_time: "11:25"
-  - title: "talk-cfp"
+  - title: "antonio-ferreira"
     type: talk
     date: 2023-12-16T09:00:00-03:00
     start_time: "11:30"
@@ -182,7 +186,7 @@ program:
     start_time: "14:05"
     end_time: "14:35"
     background_color: "#c3ffd7"
-  - title: "talk-cfp"
+  - title: "gian-cavalcante"
     type: talk
     date: 2023-12-16T09:00:00-03:00
     start_time: "14:40"
@@ -192,7 +196,7 @@ program:
     date: 2023-12-16T09:00:00-03:00
     start_time: "15:00"
     end_time: "15:30"
-  - title: "talk-cfp"
+  - title: "carlos-magalhaes"
     type: talk
     date: 2023-12-16T09:00:00-03:00
     start_time: "15:30"
