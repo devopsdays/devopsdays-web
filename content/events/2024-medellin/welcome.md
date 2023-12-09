@@ -28,7 +28,7 @@ Description = "Welcome to DevOpsDays Medellín 2024"
     <p>
       <ul>
         <li>
-          Three days of conferences and activities.
+          Two days of conferences and activities.
         </li>
         <li>
           Starting Welcome from the organizers and day overview. 
