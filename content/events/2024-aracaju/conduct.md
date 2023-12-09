@@ -5,7 +5,7 @@ Description = "Código de conduta do devopsdays Aracaju 2024"
 +++
 
 
-Participantes, palestrantes, representantes de empresas e pessoas voluntárias no devopsdays Aracaju 2023 são requeridos a concordar com o seguinte código de conduta. A organização irá aplicar este código pelo evento. Nós esperamos cooperação de todas as pessoas participando para garantir um ambiente seguro para todas as pessoas.
+Participantes, palestrantes, representantes de empresas e pessoas voluntárias no devopsdays Aracaju 2024 são requeridos a concordar com o seguinte código de conduta. A organização irá aplicar este código pelo evento. Nós esperamos cooperação de todas as pessoas participando para garantir um ambiente seguro para todas as pessoas.
 
 ### A versão rápida
 
