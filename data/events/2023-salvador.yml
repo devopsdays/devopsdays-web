@@ -85,7 +85,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/elaynelemos"
     image: "elayne-lemos.jpg"
   
-  - name: "Elayne Lemos"
+  - name: "Wesley Araújo"
     linkedin: "https://br.linkedin.com/in/wesley-ara%C3%BAjo-87496a204"
     image: "wesley-araujo.jpeg"
   
