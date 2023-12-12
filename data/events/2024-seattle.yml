@@ -4,7 +4,7 @@ city: "Seattle" # The displayed city name of the event. Capitalize it.
 event_twitter: "DevOpsDaysSEA" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "Devopsdays Seattle is back for 2024!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
-event_logo: "logo.jpg"
+event_logo: "logo-square.png"
 masthead_background: "seattle-skyline.jpg"
 # All dates are in unquoted 2024-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00
@@ -69,9 +69,6 @@ organizer_email: "seattle@devopsdays.org" # Put your organizer email address her
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: samplesponsorname
-    level: gold
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: seattle-coffeeops
     level: community
   - id: seagl
@@ -84,13 +81,14 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: platinum
+    label: Platinum
+    max: 2
   - id: gold
     label: Gold
-#    max: 10
+    max: 13
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
-  - id: bronze
-    label: Bronze
+    max: 30 # This is the same as omitting the max limit.
   - id: community
     label: Community
