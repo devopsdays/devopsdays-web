@@ -38,23 +38,23 @@ Description = "devopsdays Amsterdam will take place June 19-21, 2024! The group 
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="sponsor" text="Sponsor the conference!" >}}
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Register / Get a ticket</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="registration" text="Register / buy a ticket to attend the conference!" >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -96,24 +96,24 @@ Description = "devopsdays Amsterdam will take place June 19-21, 2024! The group 
   <div class="row">
     <div class="col-md-12">
       <div class="row justify-content-center">
-        <!-- <div class="d-flex p-2">
-          <a class="btn btn-primary btn-block"
-            style="margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;"
-            href="/events/2023-amsterdam/sponsor">
-            <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference
-          </a>
-        </div> -->
-        <!-- <div class="d-flex p-2">
-          <a class="btn btn-primary btn-block"
-            style="margin-top: 10px; margin-bottom: 10px; background-color: #e59049; border-color: #e59049;"
-            href="/events/2023-amsterdam/registration">
-            <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Buy a ticket
-          </a>
-        </div> -->
         <div class="d-flex p-2">
           <a class="btn btn-primary btn-block"
             style="margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;"
-            href="/events/2023-amsterdam/contact">
+            href="/events/2024-amsterdam/sponsor">
+            <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference
+          </a>
+        </div>
+        <div class="d-flex p-2">
+          <a class="btn btn-primary btn-block"
+            style="margin-top: 10px; margin-bottom: 10px; background-color: #e59049; border-color: #e59049;"
+            href="/events/2024-amsterdam/registration">
+            <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Buy a ticket
+          </a>
+        </div>
+        <div class="d-flex p-2">
+          <a class="btn btn-primary btn-block"
+            style="margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;"
+            href="/events/2024-amsterdam/contact">
             <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Contact the Organizers
           </a>
         </div>
