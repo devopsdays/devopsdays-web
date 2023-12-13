@@ -92,7 +92,8 @@ team_members: # Name is the only required field for team members.
     image: "piwosz.jpg"
     description: "DevOps Institute Ambassador. CD.Foundation Ambassador. AWS Community Builder. Engineer, leader, mentor, speaker. My focus is on CALMS. I am building better understanding of DevOps as driver for the organization. I am devoted to Serverless and CI/CD. I authored the framework for design the CI/CD - www.cicd.run. Host of Last Week In IT and DevOps In Agile Way podcasts."
   - name: "Natalia Stawarz"
-    image: "placeholder.jpg"
+    image: "natalia_stawarz.jpg"
+    description: "DevOps Lead and Engineer from Lodz with nearly 4 years of dedicated experience in the field, has become a seasoned professional specializing in AWS Cloud computing and infrastructure. Certified AWS Solution Architect Associate & AWS Security Specialty. Started pretty late with Kubernetes yet caching up very quickly so really keen on discussing different approaches in k8s world. Experienced in teaching and onboarding not tech-savvy people into AWS Cloud and DevOps world. Big fan of Terraform and Github Actions, not so great into Jenkins and Helm. Enthusiast of holistic and KISS approach as much as in DevOPs field and in real live, especially physical activities and sports."
 
 organizer_email: "krakow@devopsdays.org" # Put your organizer email address here
 
