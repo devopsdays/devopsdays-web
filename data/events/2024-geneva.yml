@@ -109,11 +109,11 @@ sponsors:
   - id: techfirm
     level: gold
   - id: e-xpert-solutions
-    level: sivler
+    level: silver
   - id: dbi-services
-    level: sivler
+    level: silver
   - id: camptocamp
-    level: sivler
+    level: silver
   - id: meetup-devops-geneva
     level: community
   - id: agilesuisse
