@@ -96,7 +96,7 @@ organizer_email: "geneva@devopsdays.org" # Put your organizer email address here
 sponsors:
   - id: techfirm
     level: event
-  - id: camptocamp
+  - id: camptocamp-before-20231214
     level: gold
   - id: hidora
     level: gold
