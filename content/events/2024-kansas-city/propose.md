@@ -33,4 +33,4 @@ Choosing talks is part art, part science; here are some factors we consider when
 
 <hr>
 
-<strong>You can submit a proposal [here]("/kansas-city/cfp").</strong>
+<strong><a href="/kansas-city/cfp" type="button" class="btn btn-secondary btn-lg btn-block">CLICK HERE TO PROPOSE</a></strong>
