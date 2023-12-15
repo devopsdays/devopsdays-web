@@ -15,16 +15,16 @@ startdate: 2024-04-20T00:00:00-03:00 # The start date of your event. Leave blank
 enddate: 2024-04-20T23:59:59-03:00  # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: "2024-01-01T00:00:00-03:00" #2019-09-17T00:09:00-03:00 # start accepting talk proposals.
-cfp_date_end:  "2024-03-10T23:59:59-03:00" #2019-10-25T00:09:00-03:00 # close your call for proposals.
-cfp_date_announce: "2024-01-23T00:00:00-03:00" #2019-10-20T00:09:00-03:00 # inform proposers of status
+cfp_date_start: "" #2019-09-17T00:09:00-03:00 # start accepting talk proposals.
+cfp_date_end:  "" #2019-10-25T00:09:00-03:00 # close your call for proposals.
+cfp_date_announce: "2024-01-15T00:00:00-03:00" #2019-10-20T00:09:00-03:00 # inform proposers of status
 
 cfp_open: "false"
 
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: "" #2022-10-01T00:09:00-03:00 # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: "" #2022-10-31T00:09:00-03:00 # close registration. Leave blank if registration is not open yet.
+registration_date_start: "2024-01-15T00:00:00-03:00" #2022-10-01T00:09:00-03:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: "2024-04-19T23:59:59-03:00" #2022-10-31T00:09:00-03:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" # set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -43,8 +43,8 @@ masthead_background: "skyline-aju.jpg"
 nav_elements: # List of pages you want to show up in the navigation of your page.
 # - name: propose
  - name: location
- - name: registration
- - name: program
+ #- name: registration
+ #- name: program
  # - name: speakers
  - name: sponsor
  - name: contact
