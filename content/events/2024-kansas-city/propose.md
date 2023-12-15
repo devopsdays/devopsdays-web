@@ -33,4 +33,4 @@ Choosing talks is part art, part science; here are some factors we consider when
 
 <hr>
 
-<strong>You can submit a proposal [here]("https://devopsdays.org/kansas-city/cfp").</strong>
+<strong>You can submit a proposal [here]("/kansas-city/cfp").</strong>
