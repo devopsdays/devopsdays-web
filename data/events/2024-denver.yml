@@ -92,6 +92,8 @@ sponsors:
     level: gold
   - id: elastic
     level: gold
+  - id: webriot
+    level: supporter
   - id: kubecareers
     level: community
   - id: kubeevents
