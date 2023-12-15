@@ -16,6 +16,12 @@ There are three ways to propose a topic at devopsdays:
 
 <hr>
 
+As DevOpsDays KC is returning for the first time in 5 years, and with DevOps essentially turning 15, we would love to see submissions which take the following questions into account:
+
+- With DevOps being 15 years old, have we truly learned anything? Are we cooperating yet?
+- What has DevOps done for corporate teams, for open source, for communities?
+- What does the next 15 years look like for DevOps?
+
 Choosing talks is part art, part science; here are some factors we consider when trying to assemble the best possible program for our local audience:
 
 - _broad appeal_: How will your talk play out in a room of people with a variety of backgrounds? Technical deep dives need more levels to provide value for the whole room, some of whom might not use your specific tool.
@@ -27,4 +33,4 @@ Choosing talks is part art, part science; here are some factors we consider when
 
 <hr>
 
-<strong>The Call for Proposals will be opening soon!</strong>
+<strong>You can submit a proposal [here]("https://devopsdays.org/kansas-city/cfp").</strong>
