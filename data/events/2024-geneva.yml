@@ -108,6 +108,19 @@ sponsors:
     level: gold
   - id: techfirm
     level: gold
+  - id: e-xpert-solutions
+    level: silver
+  - id: dbi-services
+    level: silver
+  - id: camptocamp
+    level: silver
+  - id: meetup-devops-geneva
+    level: community
+  - id: agilesuisse
+    level: community
+  - id: swissitcompanies
+    level: community
+
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.

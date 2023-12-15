@@ -8,6 +8,7 @@ Speakers = ["gian-cavalcante"]
 youtube = ""
 slideshare = ""
 slides = ""
+twitter = "gianlcl"
 +++
 
 O que é RBAC? Como ele funciona? Como exportar e usar uma credencial? E dicas de como escrever suas Roles no Kubernetes. Essas e outras perguntas vão ser respondidas durante a palestra. O apelo da palestra é como usar o kubectl para descobrir os nomes dos recursos e seus verbos direto da API interna

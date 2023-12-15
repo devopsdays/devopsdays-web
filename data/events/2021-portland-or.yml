@@ -74,7 +74,7 @@ organizer_email: "portland-or@devopsdays.org" # Put your organizer email address
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: cloudsmith
+  - id: cloudsmith-before-20231212
     level: gold
   - id: stackhawk
     level: silver

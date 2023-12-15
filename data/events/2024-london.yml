@@ -95,8 +95,12 @@ organizer_email: "london@devopsdays.org" # Put your organizer email address here
 sponsors:
   # platinum sponsors
   # gold sponsors
+  - id: cloudsmith
+    level: gold
   # silver sponsors
   # bronze sponsors
+  - id: commify
+    level: bronze
   # community sponsors
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
