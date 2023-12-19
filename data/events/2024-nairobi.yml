@@ -1,7 +1,7 @@
-name: "2024-nairobi" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+name: "devopsdaysnairobi2024" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2024" # The year of the event. Make sure it is in quotes.
-city: "Nairobi" # The displayed city name of the event. Capitalize it.
-event_twitter: "devopsdays" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+city: "NAIROBI" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaysnairobi" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "Devopsdays is coming to Nairobi!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
@@ -65,7 +65,7 @@ team_members: # Name is the only required field for team members.
     github: ""
     linkedin: "https://www.linkedin.com/in/emma-nyakio/"
     image: ""
-  - name: "Lawrence JUma" 
+  - name: "Lawrence Juma" 
     github: ""
     linkedin: ""
     image: ""
@@ -79,8 +79,8 @@ organizer_email: "nairobi@devopsdays.org" # Put your organizer email address her
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: samplesponsorname
-    level: gold
+  - id: #
+    level: #
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
