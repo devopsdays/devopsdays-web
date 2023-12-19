@@ -37,8 +37,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  - name: propose
  - name: location
  - name: registration
- # - name: program
- # - name: speakers
+ - name: schedule
+ - name: speakers
  - name: sponsor
  - name: contact
  - name: conduct
@@ -99,36 +99,44 @@ organizer_email: "des-moines@devopsdays.org" # Put your organizer email address 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-#  - id: launch-darkly
-#    level: gold
-#  - id: trility
-#    level: gold
 #  - id: appdynamics-before-20230221
 #    level: gold
- - id: mumosystems
+ - id: caseys
    level: gold
+ - id: circleci
+   level: gold
+ - id: emc-ins
+   level: gold
+ - id: jetbrains
+   level: community
  - id: john-deere
    level: gold
-#  - id: emc-ins
+#  - id: launch-darkly
 #    level: gold
-#  - id: sonatype
-#    level: gold
-#  - id: redhat
-#    level: gold
- - id: sourceallies
-   level: gold
  - id: leantechniques
    level: gold
-#  - id: caseys
-#    level: gold
-#  - id: we-write-code
+ - id: mongodb
+   level: gold
+ - id: mumosystems
+   level: gold
+ - id: principal
+   level: gold
+#  - id: redhat
 #    level: gold
  - id: sidegarage
    level: community
- - id: jetbrains
-   level: community
+#  - id: sonatype
+#    level: gold
+ - id: sourceallies
+   level: gold
+ - id: trility
+   level: gold
  - id: turnberry
    level: lanyard
+#  - id: we-write-code
+#    level: gold
+ - id: vmware
+   level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

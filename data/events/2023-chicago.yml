@@ -11,7 +11,7 @@ ga_tracking_id: "UA-74738648-1" # If you have your own Google Analytics tracking
 # Note: we allow 2023-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
 startdate: 2023-08-09T00:00:00-05:00
-enddate: 2023-08-10T00:00:00-05:00
+enddate: 2023-08-10T17:00:00-05:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2023-01-09T00:00:00-05:00 # start accepting talk proposals.
@@ -44,7 +44,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: sponsor
   - name: contact
   - name: conduct
-  - name: volunteer
+#  - name: volunteer
   - name: Health and Safety Policy
     url: /events/2023-chicago/covid
   - name: Guide to Chicago
@@ -182,19 +182,39 @@ sponsors:
     level: gold
   - id: appdynamics
     level: gold
+  - id: britive
+    level: gold
   - id: circleci
     level: gold
+  - id: cloudbees
+    level: gold
   - id: dell-technologies
+    level: gold
+  - id: gitlab
+    level: gold
+  - id: googlecloud
     level: gold
   - id: launch-darkly
     level: gold
   - id: kosli
     level: gold
+  - id: mezmo
+    level: gold
   - id: nobl9
+    level: gold
+  - id: observeinc
     level: gold
   - id: postman
     level: gold
+  - id: puppet-by-perforce
+    level: gold
+  - id: relativity
+    level: gold
+  - id: roostai
+    level: gold
   - id: sleuth
+    level: gold
+  - id: spot-by-netapp
     level: gold
   - id: sumologic
     level: gold
@@ -208,6 +228,8 @@ sponsors:
     level: gold
   - id: zesty
     level: gold
+  - id: cloudeq-virtana
+    level: gold
   - id: honeycomb
     level: bronze
   - id: aspire-systems
@@ -215,6 +237,8 @@ sponsors:
   - id: redhat
     level: bronze
   - id: clickhouse
+    level: bronze
+  - id: webriot
     level: bronze
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
@@ -229,8 +253,12 @@ sponsors:
     level: community
   - id: bit-chicago
     level: community
+  - id: nixos
+    level: community
+  - id: sym
+    level: transcription
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" lin
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -242,11 +270,15 @@ sponsor_levels:
     max: 2
   - id: gold
     label: Gold
-    max: 0 # This is the same as omitting the max limit.
+    max: 10 # This is the same as omitting the max limit
   - id: bronze
     label: Bronze
+    max: 1
   - id: community
     label: Community
+  - id: transcription
+    label: "Live Transcription"
+    max: 1
 
 program:
   - title: "Registration, Breakfast, Sponsors"
@@ -254,7 +286,7 @@ program:
     date: 2023-08-09
     start_time: "08:00"
     end_time: "09:00"
-#   - title: "Opening Welcome"
+  - title: "Opening Welcome"
     type: custom
     date: 2023-08-09
     start_time: "09:00"
@@ -289,7 +321,7 @@ program:
     date: 2023-08-09
     start_time: "11:10"
     end_time: "11:20"
-  - title: "joshua-zimmerman"
+  - title: "jeremy-tanner"
     type: talk
     date: 2023-08-09
     start_time: "11:20"
@@ -324,6 +356,11 @@ program:
     date: 2023-08-09
     start_time: "14:15"
     end_time: "15:00"
+  - title: "doug-sillars"
+    type: workshop
+    date: 2023-08-09
+    start_time: "14:15"
+    end_time: "15:00"
   - title: "Break"
     type: custom
     date: 2023-08-09
@@ -341,11 +378,6 @@ program:
     end_time: "16:00"
   - title: "Open Space #3"
     type: open-space
-    date: 2023-08-09
-    start_time: "16:00"
-    end_time: "16:45"
-  - title: "sean-carolan"
-    type: workshop
     date: 2023-08-09
     start_time: "16:00"
     end_time: "16:45"
@@ -394,7 +426,7 @@ program:
     date: 2023-08-10
     start_time: "11:10"
     end_time: "11:20"
-  - title: "ell-marquez"
+  - title: "joshua-zimmerman"
     type: talk
     date: 2023-08-10
     start_time: "11:20"
@@ -429,6 +461,11 @@ program:
     date: 2023-08-10
     start_time: "14:15"
     end_time: "15:00"
+  - title: "eddie-knight"
+    type: workshop
+    date: 2023-08-10
+    start_time: "14:15"
+    end_time: "16:00"
   - title: "Break"
     type: custom
     date: 2023-08-10
@@ -439,18 +476,8 @@ program:
     date: 2023-08-10
     start_time: "15:15"
     end_time: "16:00"
-  - title: "eddie-knight"
-    type: workshop
-    date: 2023-08-10
-    start_time: "15:15"
-    end_time: "16:00"
   - title: "Open Space #3"
     type: open-space
-    date: 2023-08-10
-    start_time: "16:00"
-    end_time: "16:45"
-  - title: "doug-sillars"
-    type: workshop
     date: 2023-08-10
     start_time: "16:00"
     end_time: "16:45"
@@ -460,11 +487,9 @@ program:
     start_time: "16:45"
     end_time: "17:00"
 ignites:
-  - title: "hannah-foxwell"
-    date: 2023-08-09
   - title: "jacquie-grindrod"
     date: 2023-08-09
-  - title: "tim-banks"
+  - title: "hannah-foxwell"
     date: 2023-08-09
   - title: "pooja-mistry"
     date: 2023-08-09
@@ -474,9 +499,9 @@ ignites:
     date: 2023-08-10
   - title: "kedasha-kerr"
     date: 2023-08-10
-  - title: "jason-yee"
+  - title: "john-willis"
     date: 2023-08-10
-  - title: "kris-buytaert"
+  - title: "jason-yee"
     date: 2023-08-10
   - title: "laura-santamaria"
     date: 2023-08-10

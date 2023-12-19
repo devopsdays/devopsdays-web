@@ -4,15 +4,18 @@ Type = "welcome"
 aliases = ["/events/2023-chicago/"]
 Description = "DevOpsDays Chicago is coming back in 2023! The group that brought you DevOpsDays Chicago 2014-2022 is back together and planning the 2023 event.  We're encouraged by the feedback from previous year's events and are determined to bring an improved experience and continue the DevOps conversation for 2023 in Chicago."
 +++
-<div class = "row">
-  <div class = "col-md-6 push-md-6">
-   <div class="row">
-    <div class="alert alert-info" role="alert">
+{{< youtube avEQjr4Ye1I >}}
+<br><br>
+or <a href = "https://www.youtube.com/watch?v=avEQjr4Ye1I">go directly to the stream on YouTube!</a>
+<div class = "row" id = "main-row">
+  <div class = "col-md-6 push-md-6" id = "left-col">
+   <div class="row" id = "covid-row">
+    <div class="alert alert-info" role="alert" id = "covid-alert">
        <h2>COVID-19</h2>
        <p>While we are making every attempt to hold an in-person event in 2023, we recognize that the ongoing pandemic may affect this plan. The health and well-being of our attendees is of paramount importance, so we reserve the right to apply reasonable attendance requirements in accordance with local or federal guidance. {{< event_link page="covid-19-policy" text="You can read our 2023 COVID-19 policy here" >}}. We also reserve the right to cancel completely, or change to a virtual event, if the in-person event cannot be held safely.</p>
               <!-- <p>While we are making every attempt to hold an in-person event in 2023, we recognize that the ongoing pandemic may affect this plan. The health and well-being of our attendees is of paramount importance, so we reserve the right to apply reasonable attendance requirements in accordance with local or federal guidance. {{< event_link page="covid-19-policy" text="You can read our 2022 COVID-19 policy here" >}}. We also reserve the right to cancel completely, or change to a virtual event, if the in-person event cannot be held safely.</p> -->
-    </div>
- </div>
+      </div> <!-- end covid-alert -->
+  </div><!-- end covid-row -->
 
 From fledgling startups to established industry, the Midwest is home to a large, vibrant technology community. Chicago, in particular, has been a flurry of activity in the past several years, drawing attention from around the globe.
 <br><br>
@@ -54,22 +57,7 @@ We recommend moving this block and the preceding CSS link to the HEAD of your HT
 </div>
 
   </div>
-  <div class = "col-md-6 pull-md-6">
-    <div class = "row"><!-- begin a content element -->
-      <div class = "col-md-12">
-      <div class = "d-flex p-2">
-            <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: red; border-color: red;" href="/events/2023-chicago/register">
-              <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Register for the Conference
-            </a>
-          </div>
-      <div class = "row justify-content-center">
-        <div class = "d-flex p-2">
-            <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="/events/2023-chicago/program">
-              <i class="fa fa-book fa-lg"></i>&nbsp;&nbsp;&nbsp;View the Program
-            </a>
-          </div>
-        </div>
-    </div>
+  <div class = "col-md-6 pull-md-6" id = "right-col">
 <h2>The DevOps Yak is Back!</h2>
 <img src = "/events/2022-chicago/yak.png" class = "img-fluid">
   

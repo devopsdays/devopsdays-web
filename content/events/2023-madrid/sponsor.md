@@ -152,7 +152,7 @@ Description = "Sponsor DevopsDays Madrid 2023"
 from companies of all sizes and industries including retail, banking, manufacturing, medical technology,
 education, government, and consulting.</p>
 <p>If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].</p>
-<p>To ensure that your logo is included on our banners during the event we have a deadline for payment of the 31st of November 2019 for your sponsorship</p>
+<p>To ensure that your logo is included on our banners during the event we have a deadline for payment of the 15th of September 2023 for your sponsorship</p>
 <p>Location: DevOpsDays Madrid will be held at the CEU San Pablo Monteprincipe University.</p>
 </div>
     </div>

@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Three value-inhibiting dysfunctions of enterprise software development"
 Type = "talk"
 Speakers = ["stefan-holdermans"]
+Youtube = "QesCRz8jfsI"
 +++
 Have you ever been part of a corporate software undertaking that, on paper, ticked all the right boxes, but somehow never was able to make a dent in the world?
 

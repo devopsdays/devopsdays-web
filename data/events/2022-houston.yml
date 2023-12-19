@@ -87,9 +87,9 @@ team_members: # Name is the only required field for team members.
     employer: "Allied Reliability"
     linkedin: "https://www.linkedin.com/in/marcuserickson/"
     image: "marcus-erickson.jpg"
-    bio: "Marcus Erikson has been active in the Houston software development community for 30+ years. He has worn many hats over the years, including 
-    developer, architect, product manager, and manager at startups as well as large companies. He is currently the Vice President of Products at 
-    Allied Reliability where he drives the creation of the products to help customers optimize production through increasing reliability and uptime of their 
+    bio: "Marcus Erikson has been active in the Houston software development community for 30+ years. He has worn many hats over the years, including
+    developer, architect, product manager, and manager at startups as well as large companies. He is currently the Vice President of Products at
+    Allied Reliability where he drives the creation of the products to help customers optimize production through increasing reliability and uptime of their
     equipment. He is passionate about creating successful products and teams as well as helping others do the same. When not behind the computer, he
     is most likely to be found on a local disc golf course honing his skills."
   - name: "Max Day"
@@ -103,7 +103,7 @@ team_members: # Name is the only required field for team members.
     github: "skryukova"
     image: "svetlana-kryukova.jpg"
     bio: "Svetlana is a software development leader with over 20 years of experience in enterprise software. Passionate about building teams, creating new products and solving problems. Co-organizer of Houston DevOps Meetup since June 2018."
-    
+
 organizer_email: "houston@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
@@ -118,7 +118,7 @@ sponsors:
   - id: diamanti
     level: gold
   - id: datadog
-    level: gold    
+    level: gold
   - id: improving
     level: silver
   - id: stormforge
@@ -150,13 +150,13 @@ sponsors:
     level: gold
   - id: opslevel
     level: gold
-  - id: nobl9
+  - id: nobl9-before-20230929
     level: gold
   - id: opscruise
     level: silver
   - id: reversinglabs
     level: platinum
-  - id: twosigma
+  - id: twosigma-before-20230603
     level: gold
     url: https://twosigma.avature.net/eventsignup/eventDetail/Houston-Texas-United-States-DevOps-Days-Houston-October-4th-October-5th/11503
   - id: gdg-houston
@@ -177,7 +177,7 @@ sponsor_levels:
     max: 10
   - id: silver
     label: Silver
-    max: 7 
+    max: 7
   - id: startup
     label: Startup Corner
     max: 10
@@ -208,7 +208,7 @@ program:
     date: 2022-10-04
     start_time: "09:45"
     end_time: "10:00"
-    background_color: "#D0D0D0"    
+    background_color: "#D0D0D0"
   - title: "paul-novarese"
     type: talk
     date: 2022-10-04
@@ -224,7 +224,7 @@ program:
     type: workshop
     date: 2022-10-04
     start_time: "10:45"
-    end_time: "12:00"   
+    end_time: "12:00"
     comments: "&nbsp; &nbsp; *Where*: Room 30-31 on the lower level"
   - title: "sean-odell"
     type: talk
@@ -240,7 +240,7 @@ program:
     type: custom
     date: 2022-10-04
     start_time: "12:10"
-    end_time: "13:00"  
+    end_time: "13:00"
   - title: "daniel-watrous"
     type: talk
     date: 2022-10-04
@@ -255,24 +255,24 @@ program:
     type: custom
     date: 2022-10-04
     start_time: "14:00"
-    end_time: "14:30"    
+    end_time: "14:30"
   - title: "jim-barton"
     # "Workshop: Cloud-Native Foundations: An Interactive Envoy Proxy Workshop"
     type: workshop
     date: 2022-10-04
     start_time: "14:15"
-    end_time: "15:30"  
+    end_time: "15:30"
     comments: "&nbsp; &nbsp; *Where*: Room 30-31 on the lower level"
   - title: "matthew-brahms"
     type: talk
     date: 2022-10-04
     start_time: "14:30"
-    end_time: "15:00" 
+    end_time: "15:00"
   - title: "roni-dover"
     type: talk
     date: 2022-10-04
     start_time: "15:10"
-    end_time: "15:40" 
+    end_time: "15:40"
   - title: "Open Space (Attendee Led Breakout Session) Break"
     type: custom
     date: 2022-10-04
@@ -292,19 +292,19 @@ program:
     type: open-space
     date: 2022-10-04
     start_time: "16:30"
-    end_time: "17:00"    
+    end_time: "17:00"
   - title: "Closing"
     type: custom
     date: 2022-10-04
     start_time: "17:00"
-    end_time: "17:15"    
+    end_time: "17:15"
   - title: "Happy Hour"
     type: custom
     date: 2022-10-04
     start_time: "17:15"
     end_time: "20:00"
     background_color: "#C6E0B4"
-    
+
   - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2022-10-05
@@ -335,33 +335,33 @@ program:
     type: custom
     date: 2022-10-05
     start_time: "10:30"
-    end_time: "11:00"   
+    end_time: "11:00"
   - title: "sagar-kewalramani"
     type: workshop
     date: 2022-10-05
-    start_time: "10:45"    
-    end_time: "12:00"   
+    start_time: "10:45"
+    end_time: "12:00"
     comments: "&nbsp; &nbsp; *Where*: Room 30-31 on the lower level"
   - title: "tim-rayburn"
     type: talk
     date: 2022-10-05
-    start_time: "11:00"    
-    end_time: "11:30"   
+    start_time: "11:00"
+    end_time: "11:30"
   - title: "david-stokes"
     type: talk
     date: 2022-10-05
-    start_time: "11:40"    
-    end_time: "12:10"   
+    start_time: "11:40"
+    end_time: "12:10"
   - title: "Lunch, Visit Sponsor Booths"
     type: custom
     date: 2022-10-05
     start_time: "12:10"
-    end_time: "13:00"  
+    end_time: "13:00"
   - title: "peter-chestna"
     type: talk
     date: 2022-10-05
-    start_time: "13:00"    
-    end_time: "13:30"   
+    start_time: "13:00"
+    end_time: "13:30"
   - title: "Open Space (Attendee Led Breakout Session) Organizing"
     type: custom
     date: 2022-10-05
@@ -371,18 +371,18 @@ program:
     type: custom
     date: 2022-10-05
     start_time: "14:00"
-    end_time: "14:30"    
+    end_time: "14:30"
   - title: "mark-freydl"
     type: workshop
     date: 2022-10-05
     start_time: "14:15"
-    end_time: "15:30"   
+    end_time: "15:30"
     comments: "&nbsp; &nbsp; *Where*: Room 30-31 on the lower level"
   - title: "angel-rivera"
     type: talk
     date: 2022-10-05
     start_time: "14:30"
-    end_time: "15:00"   
+    end_time: "15:00"
   - title: "daniel-kim"
     type: talk
     date: 2022-10-05
@@ -407,9 +407,9 @@ program:
     type: open-space
     date: 2022-10-05
     start_time: "16:30"
-    end_time: "17:00"    
+    end_time: "17:00"
   - title: "Closing"
     type: custom
     date: 2022-10-05
     start_time: "17:00"
-    end_time: "17:15"    
+    end_time: "17:15"

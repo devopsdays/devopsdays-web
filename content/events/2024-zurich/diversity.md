@@ -31,11 +31,15 @@ Description = "Diversity for devopsdays zurich 2024"
     </p>
     <p>&nbsp;</p>
     <p>
-      We believe in promoting equal opportunities for diverse talents in the IT industry. DevOpsDays Zurich supports the empowering of refugees & migrants for an IT career with a partnership with powercoders.<a href="https://www.powercoders.ch"><img src="/events/2024-zurich/community_powercoders.png"/></a>
+      We believe in promoting equal opportunities for diverse talents in the IT industry. DevOpsDays Zurich supports the empowering of refugees & migrants for an IT career with a partnership with powercoders. <br> <a href="https://www.powercoders.ch"><img src="/events/2024-zurich/community_powercoders.png"/></a>
     </p>
     <p>&nbsp;</p>
     <p>
-      We encourage girls to discover coding and explore a career in tech. DevOpsDays Zurich supports GirlsCodeToo, a non-profit organization, sparking talent and curiosity by introducing girls to software tools, different coding languages and processes that are used to build apps, games, websites, and robots.<a href="https://girlscodetoo.ch"><img src="/events/2024-zurich/girls_code_too.png"/></a>
+      We encourage girls to discover coding and explore a career in tech. DevOpsDays Zurich supports GirlsCodeToo, a non-profit organization, sparking talent and curiosity by introducing girls to software tools, different coding languages and processes that are used to build apps, games, websites, and robots. <br> <a href="https://girlscodetoo.ch"><img src="/events/2024-zurich/girls_code_too.png"/></a>
+    </p>
+    <p>&nbsp;</p>
+    <p>
+      We are committed for the integration of diverse perspectives in tech and innovation. DevOpsDays Zurich is proud to collaborate with Be Like Grace, a network dedicated to fostering inclusion and diversity in Bern's tech scene. By empowering women and embracing varied backgrounds, languages, and cultures, we support Be Like Grace's commitment to enriching workplace discussions, enhancing decision-making, and creating more enjoyable work environments. This partnership reflects our shared belief that diversity not only brings more excitement and fun to our daily work but also drives the creation of superior products and services. <br> <a href="https://www.belikegrace.ch/"><img src="/events/2024-zurich/belikegrace.png" width="200"/></a>
     </p>
   </div>
 </div>
