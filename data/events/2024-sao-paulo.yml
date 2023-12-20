@@ -1,4 +1,4 @@
-name: "2024-saopaulo" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+name: "2024-sao-paulo" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2024" # The year of the event. Make sure it is in quotes.
 city: "São Paulo" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysp" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
@@ -35,15 +35,47 @@ location: "Teatro Gazeta" # Defaults to city, but you can make it the venue name
 location_address: "Teatro Gazeta, Av. Paulista, 900 - Bela Vista, São Paulo - SP, 01310-100" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  # - name: propose
-  - name: location
-  #  - name: registration
-  # - name: program
-  # - name: speakers
-  # - name: sponsor
-  - name: contact
-  - name: conduct-pt-br
-  # - name: zeroday
+  - name: local
+    icon: "map-o"
+    url: /events/2024-sao-paulo/location
+
+  - name: Chamadas (CFP)
+    icon: "paper-plane-o"
+    url: https://talks.devopsdays.org/devopsdays-sao-paulo-2024/cfp
+    #url: /events/2024-sao-paulo/propose
+
+  # - name: inscrições
+  #   icon: "ticket"
+  #   url: /events/2024-sao-paulo/registration
+
+  # - name: programação
+  #   icon: "calendar"
+  #   url: /events/2024-sao-paulo/program
+
+  # - name: palestrantes
+  #   icon: "microphone"
+  #   url: /events/2024-sao-paulo/speakers
+
+  - name: patrocínio
+    icon: "money"
+    url: /events/2024-sao-paulo/sponsor
+
+  - name: código de conduta
+    icon: "handshake-o"
+    url: /events/2024-sao-paulo/conduct-pt-br
+
+  - name: contato
+    icon: "envelope-o"
+    url: /events/2024-sao-paulo/contact
+  # # - name: propose
+  # - name: location
+  # #  - name: registration
+  # # - name: program
+  # # - name: speakers
+  # # - name: sponsor
+  # - name: contact
+  # - name: conduct-pt-br
+  # # - name: zeroday
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -257,4 +289,3 @@ sponsor_levels:
 
 sponsors:
 program:
-
