@@ -12,7 +12,7 @@ Description = "DevOpsDays Ahmedabad 2024"
   <div class="col-md-8">
             <div style="text-align: justify">
                 <p>DevOpsDays Ahmedabad is a conference for DevOps practitioners. It brings together development, operations, QA, Security, management, and leadership together to collaborate and learn from each other. It is both a technical conference and a conference focusing on culture, processes, and structure within organisations. We encourage both technologists and business people to attend, learn and share experiences.</p>
-                <p>This year we will have a two-day event with a mix of 30-minutes presentations,  presentations, and open spaces. </p>
+                <p>This year we will have a one-day event with a mix of 30-minutes presentations, lightning talks, and open spaces. </p>
                 <p>A great opportunity for networking, mingling, and having a good time. </p>
                 {{< event_twitter >}}
             </div>
