@@ -1,13 +1,13 @@
 +++
 Title = "Propose"
 Type = "event"
-Description = "Propose a talk for devopsdays São Paulo 2024"
+Description = "Propose a talk for DevOpsDays São Paulo 2024"
 +++
   {{< cfp_dates >}}
 
 <hr>
 
-There are three ways to propose a topic at devopsdays:
+There are three ways to propose a topic at DevOpsDays:
 <ol>
   <li><strong><em>A 30-minute talk</em></strong> presented during the conference, usually in the mornings.</li>
   <li><strong><em>An Ignite talk</em></strong> presented during the <a href="/pages/ignite-talks-format">Ignite sessions</a> (scheduling varies). These are 5 minutes slots with slides changing every 15 seconds (20 slides total).</li>
