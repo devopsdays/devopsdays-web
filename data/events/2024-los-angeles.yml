@@ -130,6 +130,12 @@ sponsors:
   - id: nadog
     level: community
     url: https://www.nadog.com
+  - id: doppler
+    level: gold
+  - id: semaphoreci
+    level: gold
+  - id: solarwinds
+    level: gold
   - id: victoriametrics
     level: startup
   - id: kubecareers

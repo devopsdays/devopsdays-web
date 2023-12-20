@@ -67,7 +67,7 @@ Description = "devopsdays Birmingham, AL 2024"
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-   <a href="https://www.eventbrite.com/e/devopsdays-birmingham-al-2024-tickets-680078040727">Register</a> to attend the conference.
+   <a href="https://tickets.devopsdays.org/devopsdays-birmingham-al/2024/">Register</a> to attend the conference.
   </div>
 </div>
 

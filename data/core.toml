@@ -1,31 +1,31 @@
 active = [
-"Dan Maher (co-chair)",
+"Daniel Maher (co-chair)",
 "Katie McLaughlin (co-chair)",
-"Yvo van Doorn (co-chair)",
-"Serhat Can",
+"Jason Yee (co-chair)",
 "Floor Drees",
-"Bernd Erk",
 "Rafael Gomes",
 "Marco Júnior",
 "Camilla Martins",
 "Adrian Moisey",
 "Michelle Ribeiro",
-"Matty Stratton",
-"Jason Yee",
 "Sharone Zitzman"
 ]
 
 advisory = [
 "Kris Buytaert",
+"Serhat Can",
 "Jennifer Davis",
 "Patrick Debois (founder, 2009-2014 lead)",
 "Nathen Harvey",
 "Bridget Kromhout (2015-2020 lead)",
 "Ken Mugrage",
+"Matty Stratton",
+"Yvo van Doorn"
 ]
 
 emeritus = [
 "Damon Edwards",
+"Bernd Erk",
 "Anthony Goddard",
 "Lindsay Holmwood",
 "Gildas Le Nadan",

@@ -38,10 +38,10 @@ location: "Salvador, BA, BR" # Defaults to city, but you can make it the venue n
 location_address: "Instituto de Matemática e Estatística da UFBA - Auditório - R. Barão de Jeremoabo, s/n - Ondina, Salvador - BA, 40170-115" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+  # - name: propose
   - name: location
   - name: registration
- # - name: program
+  - name: program
  # - name: speakers
   - name: sponsor
   - name: contact
@@ -76,17 +76,6 @@ team_members: # Name is the only required field for team members.
     website: "http://somatorio.org"
     image: "marco-junior.jpeg"
 
-  - name: "Marcelo Santos aka marceleza"
-    employer: "DAREDE"
-    linkedin: "https://www.linkedin.com/in/marcelosantos"
-    twitter: "marcelezacom"
-    image: "marcelo-santos.png"
-
-  - name: "Adenn Tumba aka Adenn"
-    employer: "Weni"
-    linkedin: "https://www.linkedin.com/in/adenntumba"
-    image: "adenn-tumba.png"
-
   - name: "Igor Bahia aka Igor"
     employer: "Prosa Com Nath Souza"
     linkedin: "https://www.linkedin.com/in/igor-bahia-31b7b06b/"
@@ -95,6 +84,10 @@ team_members: # Name is the only required field for team members.
   - name: "Elayne Lemos"
     linkedin: "https://www.linkedin.com/in/elaynelemos"
     image: "elayne-lemos.jpg"
+  
+  - name: "Wesley Araújo"
+    linkedin: "https://br.linkedin.com/in/wesley-ara%C3%BAjo-87496a204"
+    image: "wesley-araujo.jpeg"
   
 
 organizer_email: "salvador@devopsdays.org" # Put your organizer email address here
@@ -109,7 +102,16 @@ sponsors:
     level: community
   - id: arresteddevops
     level: community
-
+  - id: cloudwalk
+    level: platinum
+  - id: elastic
+    level: gold
+  - id: grafanalabs
+    level: silver
+  - id: malta
+    level: bronze
+  - id: jusbrasil
+    level: silver
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -117,6 +119,8 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: platinum
+    label: Platinum
   - id: gold
     label: Gold
 #    max: 10
@@ -127,3 +131,93 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+program:
+  - title: "Entrada participantes"
+    type: custom
+    date: 2023-12-16T09:00:00-03:00
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Abertura"
+    type: custom
+    date: 2023-12-16T09:00:00-03:00
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "jess-felix"
+    type: talk
+    date: 2023-12-16T09:00:00-03:00
+    start_time: "09:20"
+    end_time: "09:50"
+    background_color: "#bfe3b4"
+  - title: "giovana-nascimento"
+    type: talk
+    date: 2023-12-16T09:00:00-03:00
+    start_time: "09:55"
+    end_time: "10:15"
+  - title: "Coffee Break"
+    type: custom
+    date: 2023-12-16T09:00:00-03:00
+    start_time: "10:20"
+    end_time: "11:00"
+  - title: "lanay-cardoso"
+    type: talk
+    date: 2023-12-16T09:00:00-03:00
+    start_time: "11:05"
+    end_time: "11:25"
+  - title: "antonio-ferreira"
+    type: talk
+    date: 2023-12-16T09:00:00-03:00
+    start_time: "11:30"
+    end_time: "11:50"
+  - title: "Almoço"
+    type: custom
+    date: 2023-12-16T09:00:00-03:00
+    start_time: "11:50"
+    end_time: "14:00"
+  - title: "Ignite Karaoke"
+    type: custom
+    date: 2023-12-16T09:00:00-03:00
+    start_time: "14:05"
+    end_time: "14:35"
+    background_color: "#c3ffd7"
+  - title: "gian-cavalcante"
+    type: talk
+    date: 2023-12-16T09:00:00-03:00
+    start_time: "14:40"
+    end_time: "15:00"
+  - title: "Coffee Break"
+    type: custom
+    date: 2023-12-16T09:00:00-03:00
+    start_time: "15:00"
+    end_time: "15:30"
+  - title: "carlos-magalhaes"
+    type: talk
+    date: 2023-12-16T09:00:00-03:00
+    start_time: "15:30"
+    end_time: "15:50"
+  - title: "hugo-marques"
+    type: talk
+    date: 2023-12-16T09:00:00-03:00
+    start_time: "15:55"
+    end_time: "16:25"
+    background_color: "#bfe3b4"
+  - title: "hanna-camelo"
+    type: talk
+    date: 2023-12-16T09:00:00-03:00
+    start_time: "16:25"
+    end_time: "16:55"
+    background_color: "#bfe3b4"
+  - title: "Open Spaces"
+    type: open-space
+    date: 2023-12-16T09:00:00-03:00
+    start_time: "17:00"
+    end_time: "17:45"
+  - title: "Encerramento"
+    type: custom
+    date: 2023-12-16T09:00:00-03:00
+    start_time: "17:50"
+    end_time: "18:00"
+  - title: "Happy Hour"
+    type: custom
+    date: 2023-12-16T09:00:00-03:00
+    start_time: "18:00"
+    end_time: "Tarde 😛"
