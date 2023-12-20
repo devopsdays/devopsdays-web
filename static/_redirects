@@ -236,3 +236,4 @@
 /events/2016-chicago/devopsdays-chicago-2016-prospectus.pdf                             https://assets.devopsdays.org/events/2016/chicago/devopsdays-chicago-2016-prospectus.pdf                           301
 /johannesburg/*            /events/2024-johannesburg/:splat           302
 /ahmedabad/*            /events/2024-ahmedabad/:splat           302
+events/2024-ahmedabad/sponsorship-prospectus.pdf https://assets.devopsdays.org/events/2024/ahmedabad/sponsorship-prospectus.pdf
