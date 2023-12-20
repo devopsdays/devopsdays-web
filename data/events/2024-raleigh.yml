@@ -91,6 +91,9 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/coldsv"
     website: "https://www.meetup.com/triangletechtalks/"
     image: "alex-malich.jpg"
+  - name: Felipe Fernandez
+    linkedin: "https://www.linkedin.com/in/felipe-fernandes-21901b5a/"
+    image: "felipe-fernandez.jpg"
 
 organizer_email: "raleigh@devopsdays.org" # Put your organizer email address here
 
