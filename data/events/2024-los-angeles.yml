@@ -132,6 +132,8 @@ sponsors:
     url: https://www.nadog.com
   - id: doppler
     level: gold
+  - id: honeycomb
+    level: gold
   - id: semaphoreci
     level: gold
   - id: solarwinds
