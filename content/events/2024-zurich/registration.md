@@ -19,7 +19,7 @@ With the ticket you get:
 
 <div style="width:100%; text-align:left;">
   <script src="https://js.tito.io/v2" async></script>
-  <tito-widget event="dod/dodzh2023"></tito-widget>
+  <tito-widget event="dod/dodzh2024"></tito-widget>
 </div>
 
 <p>
