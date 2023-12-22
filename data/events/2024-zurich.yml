@@ -163,6 +163,10 @@ sponsors:
     level: bronze
   - id: cloudscalech
     level: event
+  - id: zkb
+    level: gold
+  - id: axians
+    level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
