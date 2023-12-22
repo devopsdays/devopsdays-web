@@ -1,7 +1,7 @@
 +++
 Title = "Registration"
 Type = "event"
-Description = "Registration for DevOpsDays Zurich 2023"
+Description = "Registration for DevOpsDays Zurich 2024"
 +++
 
 <h3>Early bird registration for DevOpsDays Zurich 2024 will start on Monday, Jan 01, 2024.</h3> 
