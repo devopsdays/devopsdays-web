@@ -21,7 +21,7 @@ cfp_date_end:  "2023-10-31T00:00:00-03:00" #2019-10-25T00:09:00-03:00 # close yo
 cfp_date_announce: "2023-08-28T00:00:00-03:00" #2019-10-20T00:09:00-03:00 # inform proposers of status
 
 
-cfp_open: "true"
+cfp_open: "false"
 cfp_link: "https://www.papercall.io/dodrec23" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: "2023-10-29T00:10:00-03:00" #2022-10-01T00:09:00-03:00 # start accepting registration. Leave blank if registration is not open yet
@@ -32,8 +32,13 @@ registration_link: "https://www.sympla.com.br/devopsdays-recife-2023__2204025" #
 
 # Location
 #
+<<<<<<< HEAD
 coordinates: -8.062790, -34.873370 # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "ETE Porto Digital" # Defaults to city, but you can make it the venue name.
+=======
+coordinates: -8.0626963, -34.8732911 # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Escola Técnica Estadual Porto Digital" # Defaults to city, but you can make it the venue name.
+>>>>>>> 06d20ee6e3 (Updating sponsors, venue, program, speakers and details.)
 location_address: "Av. Rio Branco, 193 - Recife, Pernambuco" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 
@@ -101,7 +106,7 @@ organizer_email: "recife@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -123,7 +128,101 @@ sponsor_levels:
     label: Media
 
 sponsors:
+<<<<<<< HEAD
   - id: espaco-cloud
     level: gold
+=======
+  - id: elastic
+    level: platinum
+  - id: governo-pernambuco
+    level: platinum
+  - id: espaco-cloud
+    level: gold
+  - id: novatec
+    level: community
+>>>>>>> 06d20ee6e3 (Updating sponsors, venue, program, speakers and details.)
 
 program:
+  - title: "Credenciamento"
+    type: custom
+    date: 2023-12-02T00:08:30-03:00
+    start_time: "08:30"
+    end_time: "09:30"
+
+  - title: "helter-silva"
+    type: talk
+    date: 2023-12-02T00:09:30-03:00
+    start_time: "09:30"
+    end_time: "10:00"
+
+  - title: "camila-martins"
+    type: talk
+    date: 2023-12-02T00:10:00-03:00
+    start_time: "10:00"
+    end_time: "10:30"
+
+  - title: "cris-apolinario"
+    type: talk
+    date: 2023-12-02T00:10:30-03:00
+    start_time: "10:45"
+    end_time: "11:15"
+
+  - title: "marcelo-fernandes"
+    type: talk
+    date: 2023-12-02T00:11:15-03:00
+    start_time: "11:15"
+    end_time: "11:45"
+
+  - title: "daniel-rodrigues"
+    type: talk
+    date: 2023-12-02T00:11:45-03:00
+    start_time: "11:45"
+    end_time: "12:15"
+
+  - title: "Almoço 🍽️"
+    type: custom
+    date: 2023-12-02T00:12:00-03:00
+    start_time: "12:15"
+    end_time: "14:00"
+
+  - title: "Open Spaces 💬"
+    type: open-space
+    date: 2023-12-02T00:14:00-03:00
+    start_time: "14:00"
+    end_time: "15:30"
+
+  - title: "mateus-lira"
+    type: talk
+    date: 2023-12-02T00:15:30-03:00
+    start_time: "15:30"
+    end_time: "16:00"
+
+  - title: "Cofee Break ☕️"
+    type: open-space
+    date: 2023-12-02T00:16:00-03:00
+    start_time: "16:00"
+    end_time: "16:30"
+
+  - title: "mayara-araujo"
+    type: talk
+    date: 2023-12-02T00:16:30-03:00
+    start_time: "16:30"
+    end_time: "17:00"
+
+  - title: "matheus-moreira"
+    type: talk
+    date: 2023-12-02T00:17:00-03:00
+    start_time: "17:00"
+    end_time: "17:30"
+
+  - title: "pedro-melo"
+    type: talk
+    date: 2023-12-02T00:17:30-03:00
+    start_time: "17:30"
+    end_time: "18:00"
+
+  - title: "Encerramento + Happy Hour 🍻"
+    type: custom
+    date: 2023-12-02T00:18:00-03:00
+    start_time: "18:00"
+    end_time: "22:00"
