@@ -1,13 +1,13 @@
 +++
-Title = "devopsdays São Paulo 2024"
+Title = "DevOpsDays São Paulo 2024"
 Type = "welcome"
-aliases = ["/events/2024-saopaulo/"]
-Description = "devopsdays São Paulo 2024"
+aliases = ["/events/2024-sao-paulo/"]
+Description = "DevOpsDays São Paulo 2024"
 +++
 
 <div class="row">
   <div class="col-md-2">
-      <img alt="DevOpsDays saopaulo 2024" src="/events/2024-saopaulo/logo.png" style="width:100%">
+      <img alt="DevOpsDays sao-paulo 2024" src="/events/2024-sao-paulo/logo.png" style="width:100%">
       <hr>
       <a href="https://twitter.com/sp_devopsdays" target="_blank">
           <i class="fa fa-twitter fa-lg"></i> Twitter DoD-SP
@@ -47,6 +47,6 @@ Description = "devopsdays São Paulo 2024"
     </div>
   </div>
   <div class="col-md-4 embed-responsive">
-    <iframe width="853" height="480" src="https://www.youtube.com/embed/QAKEmwCleYg" title="DevOpsDays São Paulo 2019 - Intro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/QAKEmwCleYg" title="DevOpsDays São Paulo 2019 - Intro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   </div>
 </div>

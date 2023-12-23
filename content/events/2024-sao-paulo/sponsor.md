@@ -1,7 +1,7 @@
 +++
 Title = "Sponsor"
 Type = "event"
-Description = "Sponsor devopsdays São Paulo 2024"
+Description = "Sponsor DevOpsDays São Paulo 2024"
 +++
 
 Valorizamos muito os patrocinadores deste evento aberto. Se você estiver interessado em patrocinar, envie um e-mail para [{{< email_organizers >}}].
@@ -88,14 +88,14 @@ Visando valorizar a participação de instituições na realização do evento, 
       <td>Tamanho 1U</td>
     </tr>
     <tr>
-      <td>Logo no site do evento/releases</td> 
+      <td>Logo no site do evento/releases</td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
     </tr>
     <tr>
-      <td>Divulgação nas redes sociais</td> 
+      <td>Divulgação nas redes sociais</td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
@@ -205,14 +205,14 @@ Aiming to enhance the participation of institutions in the event, we organized p
       <td>Size 1U</td>
     </tr>
     <tr>
-      <td>Logo on the event/releases</td> 
+      <td>Logo on the event/releases</td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
     </tr>
     <tr>
-      <td>Social media release</td> 
+      <td>Social media release</td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
