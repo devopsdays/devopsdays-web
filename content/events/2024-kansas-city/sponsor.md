@@ -194,11 +194,11 @@ All special sponsors will have their logo displayed on the DevOpsDays Kansas CIt
       <td>Get the day started right for the attendees</td>
       <td align="center">2</td>
     </tr>
-    <tr>
+    <tr style="text-decoration:line-through;">
       <td>Lunch sponsor (incl 1 ticket)</td>
       <td align="center">$8,000</td>
       <td>Ensure everyone has the energy for the rest of the day</td>
-      <td align="center">2</td>
+      <td align="center">0</td>
     </tr>
     <tr>
       <td>Happy Hour / Evening social<br/>(incl 1 ticket)</td>
