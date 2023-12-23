@@ -101,8 +101,8 @@
 /salvador/*		/events/2023-salvador/:splat		302
 /santa-maria/*		/events/2018-santa-maria/:splat		302
 /santiago/*		/events/2020-santiago/:splat		302
-/sao-paulo/*		/events/2024-sao-paulo/:splat		302
 /sao-paulo/cfp		https://talks.devopsdays.org/devopsdays-sao-paulo-2024/cfp 302
+/sao-paulo/*		/events/2024-sao-paulo/:splat		302
 /seattle/*		/events/2024-seattle/:splat		302
 /shanghai/*		/events/2020-shanghai/:splat		302
 /shenzhen/*		/events/2018-shenzhen/:splat		302
