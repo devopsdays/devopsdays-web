@@ -41,8 +41,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     icon: "map"
   - name: registration
     icon: "ticket"
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
     icon: "money"
   - name: contact
@@ -122,3 +122,210 @@ sponsor_levels:
     label: Community
   - id: travel
     label: Travel
+
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2024-03-21
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2024-03-21
+    start_time: "09:00"
+    end_time: "09:15"
+    background_color: "#D0D0D0"
+  - title: "scott-shaw"
+    type: talk
+    date: 2024-03-21
+    start_time: "09:15"
+    end_time: "09:55"
+    background_color: "#B4C6E7"
+  - title: "Sponsors"
+    type: custom
+    date: 2024-03-21
+    start_time: "09:55"
+    end_time: "10:00"
+    background_color: "#D0D0D0"
+  - title: "lawrence-crowther"
+    type: talk
+    date: 2024-03-21
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Break, Visit Sponsor Booth"
+    type: custom
+    date: 2024-03-21
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "talia-nassi"
+    type: talk
+    date: 2024-03-21
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "rotem-tamir"
+    type: talk
+    date: 2024-03-21
+    start_time: "11:40"
+    end_time: "12:10"
+  - title: "Lunch, Visit Sponsor Booths"
+    type: custom
+    date: 2024-03-21
+    start_time: "12:10"
+    end_time: "13:00"
+  - title: "daniel-hui"
+    type: talk
+    date: 2024-03-21
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Sponsors"
+    type: custom
+    date: 2024-03-21
+    start_time: "13:30"
+    end_time: "13:35"
+    background_color: "#D0D0D0"
+  - title: "Panel Discussion"
+    type: custom
+    date: 2024-03-21
+    start_time: "13:35"
+    end_time: "14:15"
+    background_color: "#D0D0D0"    
+  - title: "Break, Visit Sponsor Booth"
+    type: custom
+    date: 2024-03-21
+    start_time: "14:15"
+    end_time: "14:45"
+  - title: "Ignites TBC"
+    type: custom
+    date: 2024-03-21
+    start_time: "14:45"
+    end_time: "15:30"
+  - title: "Open Space (Attendee Led Breakout Session) Break"
+    type: custom
+    date: 2024-03-21
+    start_time: "15:30"
+    end_time: "15:40"
+  - title: "Open Space (Attendee Led Breakout Session) #1"
+    type: open-space
+    date: 2024-03-21
+    start_time: "15:40"
+    end_time: "16:20"
+  - title: "Open Space (Attendee Led Breakout Session) Break"
+    type: custom
+    date: 2024-03-21
+    start_time: "16:20"
+    end_time: "16:30"
+  - title: "Open Space (Attendee Led Breakout Session) #2"
+    type: open-space
+    date: 2024-03-21
+    start_time: "16:30"
+    end_time: "17:15"
+  - title: "Closing"
+    type: custom
+    date: 2024-03-21
+    start_time: "17:15"
+    end_time: "17:25"
+  - title: "Happy Hour"
+    type: custom
+    date: 2024-03-21
+    start_time: "17:25"
+    end_time: "19:30"
+    background_color: "#C6E0B4"
+
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2024-03-22
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2024-03-22
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "srivatsan-ta"
+    type: talk
+    date: 2024-03-22
+    start_time: "09:15"
+    end_time: "09:55"
+    background_color: "#B4C6E7"
+  - title: "Sponsors"
+    type: custom
+    date: 2024-03-22
+    start_time: "09:55"
+    end_time: "10:00"
+  - title: "peter-chestna"
+    type: talk
+    date: 2024-03-22
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Break, Visit Sponsor Booth"
+    type: custom
+    date: 2024-03-22
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "donnie-prakoso"
+    type: talk
+    date: 2024-03-22
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "jamie-lee-coleman"
+    type: talk
+    date: 2024-03-22
+    start_time: "11:40"
+    end_time: "12:10"
+  - title: "Lunch, Visit Sponsor Booths"
+    type: custom
+    date: 2024-03-22
+    start_time: "12:10"
+    end_time: "13:00"
+  - title: "ahmad-syafiq"
+    type: talk
+    date: 2024-03-22
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Sponsors"
+    type: custom
+    date: 2024-03-21
+    start_time: "13:30"
+    end_time: "13:35"
+    background_color: "#D0D0D0"
+  - title: "Panel Discussion"
+    type: custom
+    date: 2024-03-22
+    start_time: "13:35"
+    end_time: "14:15"
+    background_color: "#D0D0D0"
+  - title: "Break, Visit Sponsor Booth"
+    type: custom
+    date: 2024-03-22
+    start_time: "14:15"
+    end_time: "14:45"
+  - title: "Ignites TBC"
+    type: custom
+    date: 2024-03-22
+    start_time: "14:45"
+    end_time: "15:30"
+  - title: "Open Space (Attendee Led Breakout Session) Break"
+    type: custom
+    date: 2024-03-22
+    start_time: "15:30"
+    end_time: "15:40"
+  - title: "Open Space (Attendee Led Breakout Session) #3"
+    type: open-space
+    date: 2024-03-22
+    start_time: "15:40"
+    end_time: "16:20"
+  - title: "Open Space (Attendee Led Breakout Session) Break"
+    type: custom
+    date: 2024-03-22
+    start_time: "16:20"
+    end_time: "16:30"
+  - title: "Open Space (Attendee Led Breakout Session) #4"
+    type: open-space
+    date: 2024-03-22
+    start_time: "16:30"
+    end_time: "17:15"
+  - title: "Closing"
+    type: custom
+    date: 2024-03-22
+    start_time: "17:15"
+    end_time: "17:25"
