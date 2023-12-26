@@ -5,6 +5,9 @@ Description = "Propose a talk for devopsdays singapore 2024"
 +++
   {{< cfp_dates >}}
 
+The general CFP is closed; however, we are still accepting ignite proposals.
+
+[CFP Site](https://forms.gle/pn49ToeEfSsh3e4E7)
 <hr>
 
 There are three ways to propose a topic at devopsdays:
@@ -28,7 +31,7 @@ Choosing talks is part art, part science; here are some factors we consider when
 <hr>
 
 <strong>How to submit a proposal:</strong>
-Visit our [CFP Site](https://www.papercall.io/dodsin23) and submit a proposal there.
+Visit our [CFP Site](https://forms.gle/pn49ToeEfSsh3e4E7) and submit a proposal there.
 If you run into any problems, please don't hesitate to contact us by email at [{{< email_organizers >}}] with the following information:
 <ol>
 	<li>Type (presentation, panel discussion, ignite)</li>

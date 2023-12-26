@@ -284,7 +284,7 @@ program:
     end_time: "13:30"
   - title: "Sponsors"
     type: custom
-    date: 2024-03-21
+    date: 2024-03-22
     start_time: "13:30"
     end_time: "13:35"
     background_color: "#D0D0D0"
