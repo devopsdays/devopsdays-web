@@ -1,8 +1,8 @@
 +++
-Title = "devopsdays Tel Aviv 2023"
+Title = "devopsdays Tel Aviv 2024"
 Type = "welcome"
-aliases = ["/events/2023-tel-aviv/"]
-Description = "devopsdays Tel Aviv 2023"
+aliases = ["/events/2024-tel-aviv/"]
+Description = "devopsdays Tel Aviv 2024"
 +++
 
 <!-- <div style="text-align:center;">
