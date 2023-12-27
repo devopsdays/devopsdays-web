@@ -1,11 +1,11 @@
 +++
-Title = "Conduta"
+Title = "Código de Conduta"
 Type = "event"
-Description = "Código de conduta do devopsdays São Paulo 2024"
+Description = "Código de conduta do DevOpsDays São Paulo 2024"
 +++
 
 
-Participantes, palestrantes, representantes de empresas e pessoas voluntárias no devopsdays São Paulo 2024 são requeridos a concordar com o seguinte código de conduta. A organização irá aplicar este código pelo evento. Nós esperamos cooperação de todas as pessoas participando para garantir um ambiente seguro para todas as pessoas.
+Participantes, palestrantes, representantes de empresas e pessoas voluntárias no DevOpsDays São Paulo 2024 são requeridos a concordar com o seguinte código de conduta. A organização irá aplicar este código pelo evento. Nós esperamos cooperação de todas as pessoas participando para garantir um ambiente seguro para todas as pessoas.
 
 ### A versão rápida
 
@@ -25,7 +25,7 @@ As pessoas da equipe da conferência podem ser identificadas por crachás distin
 
 Esperamos que todas as pessoas participantes sigam estas regras em salas de apresentação e workshops da conferência, além de eventos sociais relacionados.
 
-Prevenção ao Covid-19 é um requisito para que tenhamos um bom evento. Uso de mascara 
+Prevenção ao Covid-19 é um requisito para que tenhamos um bom evento. Uso de mascara
 será obrigatório para a entrada do evento junto ao comprovante de vacinação. Mascaras obrigatórias pro evento são: Cirurgicas descartável ou PFF2 ou N95. Teremos alcool disponível em vários locais do evento e no kit de boas vindas.
 
-_O código de conduta do devopsdays São Paulo 2024 é baseado em [confcodeofconduct.com](https://confcodeofconduct.com/index-pt-br.html)._
+_O código de conduta do DevOpsDays São Paulo 2024 é baseado em [confcodeofconduct.com](https://confcodeofconduct.com/index-pt-br.html)._
