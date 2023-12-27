@@ -1,5 +1,5 @@
-name: "2023-tel-aviv" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
-year: "2023" # The year of the event. Make sure it is in quotes.
+name: "2024-tel-aviv" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2024" # The year of the event. Make sure it is in quotes.
 city: "Tel Aviv" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaystlv" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "Devopsdays is coming to Tel Aviv!" # Edit this to suit your preferences
