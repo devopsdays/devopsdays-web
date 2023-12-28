@@ -40,7 +40,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
   - name: registration
     url: https://devopsdaysce.eventize.com.br
- # - name: program
+  - name: program
   - name: speakers
   - name: sponsor
   - name: contact
@@ -135,7 +135,7 @@ team_members: # Name is the only required field for team members.
 
   - name: "Rafael Camelo"
     twitter: ""
-    employer: "RCN&BS"
+    employer: "Pague Menos"
     bio: "My name is Rafael, and I hold a Degree in Computer Networks as well as a Post Graduate degree in Information Security. Currently, I am immersing myself in studying the DevOps culture and its associated solutions. I reside in Fortaleza, Ceará, Brazil. I am employed at a technology-focused company where I work as an infrastructure analyst, providing solutions and services. In addition to my professional pursuits, I have a passion for sports such as judo and Crossfit. Furthermore, I enjoy reading about topics unrelated to IT."
     github: "rafaelm93"
     facebook: ""
@@ -185,7 +185,7 @@ team_members: # Name is the only required field for team members.
 
   - name: "Rafael Silva"
     twitter: "https://twitter.com/rafaotetra"
-    employer: "FortBrasil"
+    employer: "Dell Lead"
     bio: "I am a quadriplegic DevOps Engineer graduated in Computer Networks from the Federal University of Ceará - Campus Quixadá. Guided by the principles of Stoic philosophy, I find inspiration in music, books and sports. I am an enthusiast of the DevOps culture and the Open Source movement, I bring extensive expertise in cost management (FinOps) in AWS environments. My recent focus is on infrastructure as code (IaC) using Terraform, orchestration with Docker, ECS Fargate and Kubernetes. In addition, I have been exploring OpenTelemetry, Prometheus, Python and AI tools."
     github: "https://github.com/rafaotetra"
     facebook: ""
@@ -226,6 +226,15 @@ sponsors:
   - id: unifor
     level: platinum
     url: https://unifor.br/
+  - id: redhat
+    level: platinum
+    url: https://www.redhat.com/
+  - id: trust-control
+    level: platinum
+    url: https://www.trustcontrol.com.br/
+  - id: paloalto
+    level: platinum
+    url: https://www.paloaltonetworks.com/
   - id: elastic
     level: gold
     url: https://www.elastic.co  
@@ -256,9 +265,107 @@ sponsors:
   - id: crowdsec
     level: community
     url: https://crowdsec.net/ 
+  - id: clear-it
+    level: community
+    url: https://clearit.com.br/  
   - id: grafanabr
     level: bronze
     url: https://grafana.com/
   - id: alura
     level: bronze
     url: https://www.alura.com.br/
+
+program:
+  - title: "Credenciamento e Coffee Break"
+    type: custom
+    date: 2023-09-02T07:45:00-03:00
+    start_time: "07:45"
+    end_time: "08:30"
+  - title: "Abertura"
+    type: custom
+    date: 2023-09-02T07:45:00-03:00
+    start_time: "08:30"
+    end_time: "09:00"
+  - title: "nelson-abu"
+    type: talk
+    date: 2023-09-02T07:45:00-03:00
+    start_time: "09:00"
+    end_time: "09:25"
+    background_color: "#AED6F1"
+  - title: "marcus-lima"
+    type: talk
+    date: 2023-09-02T07:45:00-03:00
+    start_time: "09:30"
+    end_time: "09:55"
+  - title: "stephanie-chaia"
+    type: talk
+    date: 2023-09-02T07:45:00-03:00
+    start_time: "10:00"
+    end_time: "10:25"
+  - title: "juliana-wisniewski"
+    type: talk
+    date: 2023-09-02T07:45:00-03:00
+    start_time: "10:30"
+    end_time: "10:55"
+  - title: "Sorteio de Brindes"
+    type: custom
+    date: 2023-09-02T07:45:00-03:00
+    start_time: "11:00"
+    end_time: "11:30"
+    background_color: "#40E0D0"
+  - title: "Almoço"
+    type: custom
+    date: 2023-09-02T07:45:00-03:00
+    start_time: "11:30"
+    end_time: "12:30"
+    background_color: "#EDDB39"
+  - title: "lanay-marques"
+    type: talk
+    date: 2023-09-02T07:45:00-03:00
+    start_time: "12:30"
+    end_time: "12:55"
+    background_color: "#AED6F1"
+  - title: "cristiano-santos"
+    type: talk
+    date: 2023-09-02T07:45:00-03:00
+    start_time: "13:00"
+    end_time: "13:25"
+  - title: "elena-giuli"
+    type: talk
+    date: 2023-09-02T07:45:00-03:00
+    start_time: "13:30"
+    end_time: "13:55"
+  - title: "Coffee Break"
+    type: custom
+    date: 2023-09-02T07:45:00-03:00
+    start_time: "14:00"
+    end_time: "14:20"
+    background_color: "#EDDB39"
+  - title: "luiz-aoqui"
+    type: talk
+    date: 2023-09-02T07:45:00-03:00
+    start_time: "14:20"
+    end_time: "14:45"
+    background_color: "#AED6F1"
+  - title: "edson-ferreira"
+    type: talk
+    date: 2023-09-02T07:45:00-03:00
+    start_time: "14:50"
+    end_time: "15:15"
+  - title: "marylia-gutierrez"
+    type: talk
+    date: 2023-09-02T07:45:00-03:00
+    start_time: "15:20"
+    end_time: "15:45"
+  - title: "Sorteio de Brindes"
+    type: custom
+    date: 2023-09-02T07:45:00-03:00
+    start_time: "15:50"
+    end_time: "16:20"
+    background_color: "#40E0D0"
+  - title: "Encerramento"
+    type: custom
+    date: 2023-09-02T07:45:00-03:00
+    start_time: "16:20"
+    end_time: "16:50"
+    background_color: "#40E0D0"

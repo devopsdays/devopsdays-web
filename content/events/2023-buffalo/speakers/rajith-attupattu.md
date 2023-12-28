@@ -4,7 +4,8 @@ Twitter = "rajith_a"
 image = "rajith-attupattu.png"
 type = "speaker"
 linktitle = "rajith-attupattu"
-
+linkedin = "https://www.linkedin.com/in/rajith-muditha-attapattu/"
+website = "https://medium.com/@rajith.attapattu"
 +++
 
 ##### CTO & Founder @ Randoli

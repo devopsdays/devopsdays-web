@@ -12,37 +12,37 @@ masthead_background: "background.jpg"
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: #2023-12-09T00:10:00-03:00
-enddate: #2023-12-09T18:00:00-03:00
+startdate: 2023-12-02T00:10:00-03:00
+enddate: 2023-12-02T18:00:00-03:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: "2023-07-29T00:00:00-03:00" #2019-09-17T00:09:00-03:00 # start accepting talk proposals.
-cfp_date_end:  "2023-08-31T00:00:00-03:00" #2019-10-25T00:09:00-03:00 # close your call for proposals.
-cfp_date_announce: "2023-09-01T00:00:00-03:00" #2019-10-20T00:09:00-03:00 # inform proposers of status
+cfp_date_start: "2023-08-28T00:00:00-03:00" #2019-09-17T00:09:00-03:00 # start accepting talk proposals.
+cfp_date_end:  "2023-10-31T00:00:00-03:00" #2019-10-25T00:09:00-03:00 # close your call for proposals.
+cfp_date_announce: "2023-08-28T00:00:00-03:00" #2019-10-20T00:09:00-03:00 # inform proposers of status
 
 
 cfp_open: "false"
-cfp_link: "https://www.papercall.io/devopsdays-recife-2023" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://www.papercall.io/dodrec23" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: "2023-09-19T00:00:00-03:00" #2022-10-01T00:09:00-03:00 # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: "2023-12-08T00:00:00-03:00" #2022-10-31T00:09:00-03:00 # close registration. Leave blank if registration is not open yet.
+registration_date_start: "2023-10-29T00:10:00-03:00" #2022-10-01T00:09:00-03:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: "2023-12-01T00:10:00-03:00" #2022-10-31T00:09:00-03:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "https://www.sympla.com.br/devopsdays-recife-2022__1715449" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.sympla.com.br/devopsdays-recife-2023__2204025" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
-coordinates: -8.059486118315728, -34.872439804877146 # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "" # Defaults to city, but you can make it the venue name.
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+coordinates: -8.0626963, -34.8732911 # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Escola Técnica Estadual Porto Digital" # Defaults to city, but you can make it the venue name.
+location_address: "Av. Rio Branco, 193 - Recife, Pernambuco" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
 #   icon: "" deprecated - This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
  - name: local
    url: /events/2023-recife/local
-#  - name: inscricao
-#    url: ""
+ - name: inscricao
+   url: "https://www.sympla.com.br/devopsdays-recife-2023__2204025"
  - name: código de conduta
    url: /events/2023-recife/conduct
  - name: contato
@@ -53,37 +53,18 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
 
-  - name: "Yago Nobre"
-    employer: "Loft"
-    image: "yago-nobre.jpg" 
-    twitter: "yagoyns"
-    bio: ""
-    linkedin: "https://www.linkedin.com/in/yagonobre"
-
-  - name: "Fabio Correia"
-    employer: "CESAR - Centro de Estudos e Sistemas Avançados do Recife"
-    image: "fabio-correia.jpg" 
-    twitter: "fabioqcorreia"
-    bio: ""
-    linkedin: "https://www.linkedin.com/in/fabioqcorreia"
-
   - name: "Antonio Silva"
     employer: "CESAR - Centro de Estudos e Sistemas Avançados do Recife"
     image: "antonio-silva.jpg"
     bio: ""
     linkedin: "https://www.linkedin.com/in/silvacantonio/"
 
-  - name: "Shenia Andrade"
-    employer: "Neon"
-    image: "shenia-andrade.jpg"
+  - name: "Fabio Correia"
+    employer: "SALVA"
+    image: "fabio-correia.jpg" 
+    twitter: "fabioqcorreia"
     bio: ""
-    linkedin: "https://www.linkedin.com/in/shenia-tamires-andrade/"
-
-  - name: "Marcos Magalhães"
-    employer: "Ustore"
-    image: "marcos-magalhaes.jpg"
-    bio: ""
-    linkedin: "https://www.linkedin.com/in/mmagalha/"
+    linkedin: "https://www.linkedin.com/in/fabioqcorreia"
 
   - name: "Lucas Assad"
     employer: "Ustore"
@@ -91,11 +72,36 @@ team_members: # Name is the only required field for team members.
     bio: ""
     linkedin: "https://www.linkedin.com/in/lucas-assad/"
 
+  - name: "Marcos Magalhães"
+    employer: "Ustore"
+    image: "marcos-magalhaes.jpg"
+    bio: ""
+    linkedin: "https://www.linkedin.com/in/mmagalha/"
+
+  - name: "Marília Angela"
+    employer: "Itaú"
+    image: "marilia-angela.jpg" 
+    bio: ""
+    linkedin: "https://www.linkedin.com/in/mariliaangela/"
+
+  - name: "Shenia Andrade"
+    employer: "Neon"
+    image: "shenia-andrade.jpg"
+    bio: ""
+    linkedin: "https://www.linkedin.com/in/shenia-tamires-andrade/"
+
+  - name: "Yago Nobre"
+    employer: "Nubank"
+    image: "yago-nobre.jpg" 
+    twitter: "yagoyns"
+    bio: ""
+    linkedin: "https://www.linkedin.com/in/yagonobre"
+
 organizer_email: "recife@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -117,6 +123,96 @@ sponsor_levels:
     label: Media
 
 sponsors:
-
+  - id: elastic
+    level: platinum
+  - id: governo-pernambuco
+    level: platinum
+  - id: espaco-cloud
+    level: gold
+  - id: novatec
+    level: community
 
 program:
+  - title: "Credenciamento"
+    type: custom
+    date: 2023-12-02T00:08:30-03:00
+    start_time: "08:30"
+    end_time: "09:30"
+
+  - title: "helter-silva"
+    type: talk
+    date: 2023-12-02T00:09:30-03:00
+    start_time: "09:30"
+    end_time: "10:00"
+
+  - title: "camila-martins"
+    type: talk
+    date: 2023-12-02T00:10:00-03:00
+    start_time: "10:00"
+    end_time: "10:30"
+
+  - title: "cris-apolinario"
+    type: talk
+    date: 2023-12-02T00:10:30-03:00
+    start_time: "10:45"
+    end_time: "11:15"
+
+  - title: "marcelo-fernandes"
+    type: talk
+    date: 2023-12-02T00:11:15-03:00
+    start_time: "11:15"
+    end_time: "11:45"
+
+  - title: "daniel-rodrigues"
+    type: talk
+    date: 2023-12-02T00:11:45-03:00
+    start_time: "11:45"
+    end_time: "12:15"
+
+  - title: "Almoço 🍽️"
+    type: custom
+    date: 2023-12-02T00:12:00-03:00
+    start_time: "12:15"
+    end_time: "14:00"
+
+  - title: "Open Spaces 💬"
+    type: open-space
+    date: 2023-12-02T00:14:00-03:00
+    start_time: "14:00"
+    end_time: "15:30"
+
+  - title: "mateus-lira"
+    type: talk
+    date: 2023-12-02T00:15:30-03:00
+    start_time: "15:30"
+    end_time: "16:00"
+
+  - title: "Cofee Break ☕️"
+    type: open-space
+    date: 2023-12-02T00:16:00-03:00
+    start_time: "16:00"
+    end_time: "16:30"
+
+  - title: "mayara-araujo"
+    type: talk
+    date: 2023-12-02T00:16:30-03:00
+    start_time: "16:30"
+    end_time: "17:00"
+
+  - title: "matheus-moreira"
+    type: talk
+    date: 2023-12-02T00:17:00-03:00
+    start_time: "17:00"
+    end_time: "17:30"
+
+  - title: "pedro-melo"
+    type: talk
+    date: 2023-12-02T00:17:30-03:00
+    start_time: "17:30"
+    end_time: "18:00"
+
+  - title: "Encerramento + Happy Hour 🍻"
+    type: custom
+    date: 2023-12-02T00:18:00-03:00
+    start_time: "18:00"
+    end_time: "22:00"

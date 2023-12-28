@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Home Lab for fun & profit?"
 Type = "talk"
 Speakers = ["carlos-leon"]
+Youtube = "nWrEqTGroOk"
 +++
 Back in 2021, as my work & personal laptop was giving up on me and the prospects of going back to the office were nowhere to be seen, I decided to built a desktop for about the same budget that a top-of-the-line work laptop would get me. I ended up with a mean development machine that I could also game on.
 

@@ -33,12 +33,11 @@ mkdir -p ../static/events/$event_slug/speakers
 # Create empty speakers page file (will be auto-filled for display)
 speakerspage="../content/events/$event_slug/speakers.md"
 cp examples/templates/speakers.md $speakerspage
-sedcmd "s/CITY/$city/" $speakerspage
-sedcmd "s/YYYY/$year/" $speakerspage
+string_replace "CITY" "${city}" "${speakerspage}"
+string_replace "YYYY" "${year}" "${speakerspage}"
 
 # uncomment link to speakers page
-sedcmd "s/#  - name: speakers/  - name: speakers/" ../data/events/$event_slug.yml
-
+string_replace "#  - name: speakers" "  - name: speakers" "../data/events/${event_slug}.yml"
 
 # Prompt for inputting speakers
 while [ 1 ]
@@ -55,20 +54,25 @@ speaker_slug=$(echo $speakername | tr -dc '[:alpha:][:blank:]' | tr '[:upper:]' 
 speakerfile="../content/events/$event_slug/speakers/$speaker_slug.md"
 cp examples/templates/speakers-speaker-full-name.md $speakerfile
 
-sedcmd "s/SPEAKERNAME/$speakername/" $speakerfile
-sedcmd "s/SPEAKERSLUG/$speaker_slug/" $speakerfile
+string_replace "SPEAKERNAME" "${speakername}" "${speakerfile}"
+string_replace "SPEAKERSLUG" "${speaker_slug}" "${speakerfile}"
 
 # twitter handle
 read -p "Enter speaker twitter handle (return for none): " twitter
 [ -z "${twitter}" ] && twitter=''
 # remove @ if they added it
 twitter=$(echo $twitter | sed 's/@//')
-sedcmd "s/SPEAKERTWITTER/$twitter/" $speakerfile
+string_replace "SPEAKERTWITTER" "${twitter}" "${speakerfile}"
+
+#linkedin profile
+read -p "Enter speaker linkedin profile (return for none): " linkedin
+[ -z "${linkedin}" ] && linkedin=''
+string_replace "SPEAKERLINKEDIN" "${linkedin}" "${speakerfile}"
 
 # bio
 read -p "Enter speaker bio (return for none): " bio
 [ -z "${bio}" ] && bio=''
-sedcmd "s/SPEAKERBIO/$bio/" $speakerfile
+string_replace "SPEAKERBIO" "${bio}" "${speakerfile}"
 
 ####################
 # Populate talk file
@@ -76,30 +80,39 @@ sedcmd "s/SPEAKERBIO/$bio/" $speakerfile
 talkfile="../content/events/$event_slug/program/$speaker_slug.md"
 cp examples/templates/program-speaker-full-name.md $talkfile
 
-sedcmd "s/SPEAKERSLUG/$speaker_slug/" $talkfile
+string_replace "SPEAKERSLUG" "${speaker_slug}" "${talkfile}"
 
 # talk title
 read -p "Enter speaker talk title (return for none): " title
 [ -z "${title}" ] && title=''
-sedcmd "s/TALKTITLE/$title/" $talkfile
+string_replace "TALKTITLE" "${title}" "${talkfile}"
 
 # talk description
 read -p "Enter speaker talk description (return for none): " abstract
 [ -z "${abstract}" ] && abstract=''
-sedcmd "s/ABSTRACT/$abstract/" $talkfile
+string_replace "ABSTRACT" "${abstract}" "${talkfile}"
 
 #######################
 # Set speaker image
 #######################
+#
 
-read -p "Enter path to speaker image PNG: " speakerimage
-[ -z "${speakerimage}" ] && speakerimage=''
-
-if [ $speakerimage ]; then
-  cp "$speakerimage" ../static/events/$event_slug/speakers/$speaker_slug.png
-  sedcmd "s/image = \"\"/image = \"$speaker_slug.png\"/" $speakerfile
+# if speaker image is already in expected location
+if [[ -f "../static/events/$event_slug/speakers/$speaker_slug.png" ]] ; then
+  string_replace "image = \"\"" "image = \"${speaker_slug}.png\"" "${speakerfile}"
+  echo "found ${speaker_slug}.png, using"
 else
-  echo "Put speaker image at ../static/events/$event_slug/speakers/$speaker_slug.png before creating the pull request, if desired."
+  read -p "Enter path to speaker image PNG: " speakerimage
+  if [[ -n "${speakerimage}" ]] && [[ -f "${speakerimage}" ]] ; then
+    cp -v "${speakerimage}" "../static/events/${event_slug}/speakers/${speaker_slug}.png"
+    string_replace "image = \"\"" "image = \"${speaker_slug}.png\"" "${speakerfile}"
+  else
+    echo "no image used.   If desired:
+      1. Copy PNG into ../static/events/${event_slug}/speakers/${speaker_slug}.png
+      2. update ${speakerfile}, changing image = \"${speaker_slug}.png\"
+      before creating your Pull Request.
+      "
+  fi
 fi
 
 done

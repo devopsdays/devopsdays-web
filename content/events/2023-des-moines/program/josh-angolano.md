@@ -1,5 +1,5 @@
 +++
-Title = "How Principal Catapulted to the Cloud"
+Title = "How Principal® Catapulted to the Cloud"
 Speakers = ["josh-angolano", "tom-cavanaugh", "tim-andersen"]
 Talk_date = ""
 Talk_start_time = ""

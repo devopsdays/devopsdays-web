@@ -3,7 +3,6 @@ date = "2016-10-17T08:26:34-05:00"
 title = "Speaker Information"
 type = "event"
 description = "Speaker information for DevOpsDays Chicago 2023"
-
 +++
 <!-- TOC -->
 
@@ -49,10 +48,11 @@ The event takes place on Wednesday and Thursday, August 9-10, 2023. The detailed
 
 As a part of the [Global DevOpsDays Organizer Summit](/organizer-summit), all DevOpsDays Chicago speakers are invited to join for an evening reception/party the evening of Tuesday, August 8. This will take place at [Franklin Tap](https://www.franklintap.com/) at 6:00 PM. You should have received a calendar invite with more details!
 
-
 ### Check-in
 
-If you attend the Organizer Summit Party Event, we will give you your badge and check you in there. This would allow you to skip the registration line at the event. Just make sure to wear your badge to gain admission to the conference!
+If you attend the Organizer Summit Party Event, we will give you your badge and check you in there. This would allow you to skip the registration line at the event. Just make sure to wear your badge to gain admission to the conference! 
+
+*Even with your badge, you will still need to go through the Covid-19 check (show your vaccination card or negative test result) and get a sticker for your badge. If you are speaking on Wednesday, please to identify yourself as as to a person in a red volunteer/organizer shirt and we will bump you up to the front of the line!*
 
 If you do not attend the Tuesday night event, you will need to check in at the registration desk. Make sure to let them know you are a speaker.
 
@@ -171,14 +171,17 @@ During the actual event (days of August 9-10) the on-premises contact for speake
 
 [(detailed program)](https://devopsdays.org/chicago/program)
 
-| Tuesday, Sept 20th  |                                                                                                                                                                                                 |
-|---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 6pm-9pm CDT         | Speaker/Organizer Party at [Franklin Tap](https://www.franklintap.com/)                                                                                                                                                              |
-| Wednesday Sept 21st |                                                                                                                                                                                                 |
-| 8am CDT             | Conference breakfast and sponsors are available.                                                                                                                                                |
-| 9am-5pm CDT         | Conference Day 1 (lunch served)                                                                                                                                                                 |
-| 5pm-??  CDT         | There are no official activities Wednesday after 5pm CDT. Some sponsors may be hosting happy hour events!                              |
-| Thursday Sept 22nd  |                                                                                                                                                                                                 |
-| 8am  CDT            | Conference breakfast and sponsors are available.                                                                                                                                                |
-| 9am-5pm CDT         | Conference Day 2 (lunch served)                                                                                                                                                                 |
-| 5pm-??  CDT         | There are no official activities Wednesday after 5pm CDT.                               |
+| **Tuesday, August 8th**  |                                                                                                           |
+|--------------------------|-----------------------------------------------------------------------------------------------------------|
+|                          |                                                                                                           |
+| 6pm-9pm CDT              | Speaker/Organizer Party at [Franklin Tap](https://www.franklintap.com/)                                   |
+|                          |                                                                                                           |
+| **Wednesday August 9th** |                                                                                                           |
+| 8am CDT                  | Conference breakfast and sponsors are available.                                                          |
+| 9am-5pm CDT              | Conference Day 1 (lunch served)                                                                           |
+| 5pm-??  CDT              | There are no official activities Wednesday after 5pm CDT. Some sponsors may be hosting happy hour events! |
+|                          |                                                                                                           |
+| **Thursday August 10th** |                                                                                                           |
+| 8am  CDT                 | Conference breakfast and sponsors are available.                                                          |
+| 9am-5pm CDT              | Conference Day 2 (lunch served)                                                                           |
+| 5pm-??  CDT              | There are no official activities Wednesday after 5pm CDT.                                                 |

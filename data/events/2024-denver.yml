@@ -1,0 +1,123 @@
+name: "2024-denver" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2024" # The year of the event. Make sure it is in quotes.
+city: "Denver" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaysrox" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays is coming to Denver!" # Edit this to suit your preferences
+ga_tracking_id: "G-9SR9GD94E0" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2024-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2024-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate:  2024-04-29 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  2024-04-30 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2023-10-31T23:59:59-06:00 # start accepting talk proposals.
+cfp_date_end:  2024-01-12T23:59:59-06:00 # close your call for proposals.
+cfp_date_announce:  2024-02-16T23:59:59-06:00 # inform proposers of status
+
+cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "39.740050, -105.016551" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Mile High Station and Iron Works" # Defaults to city, but you can make it the venue name.
+#
+location_address: "2027 W Colfax Ave, Denver, CO 80204" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: propose
+  - name: location
+ # - name: registration
+ # - name: program
+ # - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Tavis Aitken"
+    twitter: "tavisto"
+    employer: "Splunk"
+    mastodon: "https://hachyderm.io/@tavisto"
+  - name: "Beau Christensen"
+    twitter: "beauchristensen"
+    mastodon: "https://hachyderm.io/@e30m3"
+    employer: "Rivian"
+  - name: "Nick Huanca"
+    twitter: "NickHuanca"
+  - name: "Carla Murray"
+    employer: "Splunk"
+    twitter: "carlajmurray"
+  - name: "Matt Knox"
+    twitter: "mknox42"
+    employer: "Splunk"
+  - name: "Jason Sharp"
+    twitter: "1971hemicuda"
+  - name: "Keri Melich"
+    twitter: "themightymuppet"
+  - name: "David Morse"
+    employer: "Parry Labs"
+    twitter: "ds_morse"
+  - name: "Peter ONeil Jr"
+    employer: "WebRiot"
+    twitter: "peteroneilljr"
+  - name: "Leigh Capili"
+    employer: "VMware Tanzu"
+    twitter: "capileigh"
+  - name: "Mary Goodheart"
+    employer: "VelocityGlobal"
+  - name: "Ed Schaefer"
+    employer: "Agile Ideation Coaching & Consulting"
+    twitter: "agileideation"
+organizer_email: "denver@devopsdays.org"
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: aptible
+    level: gold
+  - id: elastic
+    level: gold
+  - id: skylounge
+    level: supporter
+  - id: webriot
+    level: supporter
+  - id: kubecareers
+    level: community
+  - id: kubeevents
+    level: community
+  - id: nadog
+    level: community
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: gold
+    label: Gold
+    max: 10
+  - id: silver
+    label: Silver
+    max: 9
+  - id: supporter
+    label: Supporter
+    max: 4
+  - id: community
+    label: Community

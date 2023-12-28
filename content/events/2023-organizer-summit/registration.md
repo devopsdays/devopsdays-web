@@ -3,8 +3,8 @@ Title = "Registration"
 Type = "event"
 Description = "Registration for DevOpsDays Organizer Summit 2023"
 +++
-<link rel="stylesheet" type="text/css" href="https://tix.devops.foundation/devopsdays-chicago/2023/widget/v1.css">
-<script type="text/javascript" src="https://tix.devops.foundation/widget/v1.en.js" async></script>
+<link rel="stylesheet" type="text/css" href="https://tickets.devopsdays.org/devopsdays-chicago/2023/widget/v1.css">
+<script type="text/javascript" src="https://tickets.devopsdays.org/widget/v1.en.js" async></script>
 
 <div style="width:100%; text-align:left;">
 
