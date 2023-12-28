@@ -1,7 +1,7 @@
 +++
 Title = "Registration"
 Type = "event"
-Description = "Registration for DevOpsDays Zurich 2023"
+Description = "Registration for DevOpsDays Zurich 2024"
 +++
 
 <h3>Early bird registration for DevOpsDays Zurich 2024 will start on Monday, Jan 01, 2024.</h3> 
@@ -14,6 +14,16 @@ With the ticket you get:
   <li>access to evening event</li>
   <li>the t-shirt</li>
 </ul>
+</p>
+
+
+<div style="width:100%; text-align:left;">
+  <script src="https://js.tito.io/v2" async></script>
+  <tito-widget event="dod/dodzh2024"></tito-widget>
+</div>
+
+<p>
+If this doesn't work for you, registration can also be done here: <a href="https://ti.to/dod/dodzh2024">https://ti.to/dod/dodzh2024</a>
 </p>
 
 <p>

@@ -25,6 +25,7 @@
 /cape-town/*		/events/2020-cape-town/:splat		302
 /charlotte/*		/events/2022-charlotte/:splat		302
 /chattanooga/*		/events/2023-chattanooga/:splat		302
+/chicago/cfp    https://talks.devopsdays.org/devopsdays-chicago-2024/cfp 302
 /chicago/*		/events/2024-chicago/:splat		302
 /columbus/*		/events/2020-columbus/:splat		302
 /copenhagen/*		/events/2023-copenhagen/:splat		302
@@ -101,6 +102,7 @@
 /salvador/*		/events/2023-salvador/:splat		302
 /santa-maria/*		/events/2018-santa-maria/:splat		302
 /santiago/*		/events/2020-santiago/:splat		302
+/sao-paulo/cfp		https://talks.devopsdays.org/devopsdays-sao-paulo-2024/cfp 302
 /sao-paulo/*		/events/2024-sao-paulo/:splat		302
 /seattle/*		/events/2024-seattle/:splat		302
 /shanghai/*		/events/2020-shanghai/:splat		302
@@ -235,3 +237,5 @@
 /events/2016-dallas/devopsdays_dallas_sponsor_prospectus_v0.5.pdf                       https://assets.devopsdays.org/events/2016/dallas/devopsdays_dallas_sponsor_prospectus_v0.5.pdf                     301
 /events/2016-chicago/devopsdays-chicago-2016-prospectus.pdf                             https://assets.devopsdays.org/events/2016/chicago/devopsdays-chicago-2016-prospectus.pdf                           301
 /johannesburg/*            /events/2024-johannesburg/:splat           302
+/ahmedabad/*            /events/2024-ahmedabad/:splat           302
+events/2024-ahmedabad/sponsorship-prospectus.pdf https://assets.devopsdays.org/events/2024/ahmedabad/sponsorship-prospectus.pdf
