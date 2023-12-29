@@ -15,11 +15,11 @@ startdate: 2024-05-02T07:00:00-05:00 # The start date of your event. Leave blank
 enddate: 2024-05-03T06:00:00-05:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2023-12-15T13:00:00-05:00 # start accepting talk proposals.
+cfp_date_end: 2024-03-29T14:00:00-05:00 # close your call for proposals.
+cfp_date_announce: 2024-04-05T12:00:00-05:00 # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://talks.devopsdays.org/devopsdays-austin-2024/cfp" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
@@ -35,12 +35,12 @@ location: "Etter-Harbin Alumni Center" # Defaults to city, but you can make it t
 location_address: "2110 San Jacinto Boulevard, Austin, Texas 78712" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
   - name: location
  # - name: registration
  # - name: program
  # - name: speakers
- # - name: sponsor
+  - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
@@ -85,6 +85,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/oeikenberry/"
     image: "oliver.jpg"
   - name: "Stephanie Engel"
+  - name: "Daniel Hagen"
   - name: "Boyd Hemphill"
     twitter: "behemphi"
     github: "behemphi"
@@ -142,26 +143,28 @@ organizer_email: "austin@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-#  - id: samplesponsorname
-#    level: gold
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-#  - id: arresteddevops
-#    level: community
+  - id: aptible
+    level: gold
 
-sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-#  - id: gold
-#    label: Gold
-#    max: 10
-#  - id: silver
-#    label: Silver
-#    max: 0 # This is the same as omitting the max limit.
-#  - id: bronze
-#    label: Bronze
-#  - id: community
-#    label: Community
+  - id: platinum
+    label: Platinum
+    max: 2
+  - id: gold
+    label: Gold
+    max: 12
+  - id: lanyard
+    label: Lanyard
+    max: 1
+  - id: coffee
+    label: Coffee Bar
+    max: 1
+  - id: happyhour
+    label: Happy Hour
+    max: 2
