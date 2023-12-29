@@ -1,4 +1,4 @@
-name: "devopsdaysnairobi2024" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+name: "2024-nairobi" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2024" # The year of the event. Make sure it is in quotes.
 city: "NAIROBI" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysnairobi" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
@@ -10,8 +10,8 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2024-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate:  June 1 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  June 1 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate:  2024-06-01T08:00:00+00:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  2024-06-01T18:00:00+00:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  # start accepting talk proposals.
