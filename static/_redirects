@@ -117,8 +117,13 @@
 /texas/*		/events/2021-texas/:splat		302
 /tokyo/*		/events/2022-tokyo/:splat		302
 /toronto/*		/events/2020-toronto/:splat		302
+<<<<<<< Updated upstream
 /ukraine/*		/events/2023-kyiv/:splat		302
 /vancouver/*		/events/2020-vancouver/:splat		302
+=======
+/ukraine/*			/events/2023-kyiv/:splat		302
+/vancouver/*		/events/2024-vancouver/:splat		302
+>>>>>>> Stashed changes
 /victoria/*		/events/2019-victoria/:splat		302
 /vitoria/*		/events/2022-vitoria/:splat		302
 /vilnius/*            	/events/2023-vilnius/:splat             302
