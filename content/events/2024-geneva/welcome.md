@@ -24,7 +24,7 @@ Description = "DevopsDays Geneva 2024"
   }
   
   div.sponsor-row img.img-fluid{
-    max-height: 80px;
+    max-height: 70px;
   }
 </style>
 
