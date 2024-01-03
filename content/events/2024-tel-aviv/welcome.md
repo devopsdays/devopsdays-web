@@ -1,8 +1,8 @@
 +++
-Title = "devopsdays Tel Aviv 2023"
+Title = "devopsdays Tel Aviv 2024"
 Type = "welcome"
-aliases = ["/events/2023-tel-aviv/"]
-Description = "devopsdays Tel Aviv 2023"
+aliases = ["/events/2024-tel-aviv/"]
+Description = "devopsdays Tel Aviv 2024"
 +++
 
 <!-- <div style="text-align:center;">
@@ -18,12 +18,12 @@ Description = "devopsdays Tel Aviv 2023"
 
 
 <div style="text-align:center; width:700;">
- <!--  <p style="text-align:center"><img src="https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,quality=75,width=960,height=480/event-covers/zy/5e297355-a1df-4b0a-8bbe-0d2cfa503b2f" width="70%"></p>
-             <h1><span style="text-transform: uppercase; text-align: center;">JOIN US FOR A</span> <span style="text-transform: uppercase; color: orange; text-align: center; font family: creepster">SPOOKY </span>DEVOPSDAYS TLV </h1> -->
-             <h4> In light of the current situation in Israel we are continuing to monitor the status, and will be making changes to event dates accordingly.  <br/>
-             NOTE: The current January dates may be subject to change, and we will be sure to update all of our community members with any event changes. </h4>        
-            <p>You are still welcome to purchase tickets here, and <em>we will refund</em> any tickets to those who are no longer able to attend 👉🏽 <a href="https://tlvcommunity.dev/devopsdays#register" target="_blank">REGISTER HERE!</a></h3>
-            <p> We update our community via our social media channels and newsletter - you can follow or subscribe for updates to stay informed.<br/> <strong>Find all of our links <a href="https://linktr.ee/tlvcommunity" target="_blank">HERE</a></strong>.</p>
+           <!--  <h1><span style="text-transform: uppercase; text-align: center;">JOIN US FOR A</span> <span style="text-transform: uppercase; color: orange; text-align: center; font family: creepster">SPOOKY </span>DEVOPSDAYS TLV </h1> -->
+             <h4> In light of the current situation in Israel we have decided to CANCEL THE 2023 EVENT, and push the event to the same dates in 2024.  <br/>JOIN US OCTOBER 30-31, 2024 AT EXPO TLV</h4>        
+            <p>You are still welcome to purchase tickets here, and <em>we will refund until December 25th</em> any tickets for those who are no longer able to attend 👉🏽 <a href="https://tlvcommunity.dev/devopsdays#register" target="_blank">REGISTER HERE!</a></h3>
+            <p> We will update our community via our social media channels and newsletter if there are any other planned changes - you can follow or subscribe for updates to stay informed.<br/> <strong>Find all of our links <a href="https://linktr.ee/tlvcommunity" target="_blank">HERE</a></strong>.</p>
+            <h2>LOOKING FORWARD TO SEEING YOU AT OUR SPOOKY HALLOWEEN & 10TH ANNIVERSARY CELEBRATION!</h2>
+             <p style="text-align:center"><img src="https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,quality=75,width=960,height=480/event-covers/zy/5e297355-a1df-4b0a-8bbe-0d2cfa503b2f" width="80%"></p>
 </div> 
 
 <hr/>

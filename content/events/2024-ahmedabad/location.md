@@ -1,7 +1,7 @@
 +++
 Title = "Location"
 Type = "event"
-Description = "Location for devopsdays Tel Aviv 2023"
+Description = "Location for DevOpsDays Ahmedabad 2024"
 +++
 
 Watch this space for information about the venue including address, map/direction, parking/transit, and any hotel details.
