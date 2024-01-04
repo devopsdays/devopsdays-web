@@ -9,10 +9,6 @@ Description = "devopsdays Philadelphia 2024"
   {{< event_logo >}}
 </div>
 
-<div class = "row" style="background: #ed0b07; color: #ffffff; padding: 20px; margin: 20px; font-size: 20px">
-<p>UPDATE: We have decided to postpone our event to Spring 2024. Our new dates are May 14th-15th 2024.
-</div>
-
 <div class = "row">
   <div class = "col-md-2">
     <strong>Dates</strong>
