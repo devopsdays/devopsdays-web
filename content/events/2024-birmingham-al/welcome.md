@@ -75,7 +75,7 @@ Description = "devopsdays Birmingham, AL 2024"
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-   <a href="https://talks.devopsdays.org/devopsdays-birmingham-al-2024/cfp">Propose a talk!</a>
+    {{< event_link url-key="cfp_link" text="Propose a talk!" >}}
   </div>
 </div>
 
