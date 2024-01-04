@@ -3,7 +3,11 @@ Title = "Conduct"
 Type = "event"
 Description = "Code of conduct for DevopsDays Geneva 2024"
 +++
-
+<style type="text/css">
+ div.sponsor-row img.img-fluid{
+    max-height: 70px;
+  }
+</style>
 
 All attendees, speakers, sponsors, and volunteers at devopsdays geneva 2024 are required to agree with the following code of conduct. Organizers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensure a safe environment for everybody.
 

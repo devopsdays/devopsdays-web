@@ -120,6 +120,18 @@ sponsors:
     level: community
   - id: swissitcompanies
     level: community
+  - id: netdata
+    level: speakers
+  - id: klanik
+    level: silver
+  - id: apwide
+    level: silver
+  - id: exoscale
+    level: silver
+  - id: feesh
+    level: gold
+  - id: redhat
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
