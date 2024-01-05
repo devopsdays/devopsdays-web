@@ -94,6 +94,16 @@ team_members: # Name is the only required field for team members.
   - name: Felipe Fernandez
     linkedin: "https://www.linkedin.com/in/felipe-fernandes-21901b5a/"
     image: "felipe-fernandez.jpg"
+  - name: Mel Cone
+    linkedin: "https://www.linkedin.com/in/melmaliacone/"
+    image: "mel-cone.jpg"
+    github: "melmaliacone"
+    twitter: "melmaliacone"
+  - name: Jason Hibbets
+    linkedin: "https://www.linkedin.com/in/jasonhibbets/"
+    image: "jason-hibbets.jpg"
+    twitter: "jhibbets"
+    github: "jhibbets"
 
 organizer_email: "raleigh@devopsdays.org" # Put your organizer email address here
 
