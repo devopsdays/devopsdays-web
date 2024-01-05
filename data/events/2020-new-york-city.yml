@@ -140,7 +140,7 @@ sponsors:
     level: gold
   - id: instana
     level: silver
-  - id: solarwinds
+  - id: solarwinds-before-20240105
     level: gold
   - id: appdynamics-before-20220714
     level: gold

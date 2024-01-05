@@ -8,7 +8,15 @@ Icons = "false"
 <div class = "row">
   <div class = "col">
     <hr />
-    If Open Space is new to you, you may be interested in <a href="/pages/open-space-format">more details about Open Space</a>. Check out some talks from previous years on <a href="https://www.youtube.com/channel/UCvKd52G5RaLAWVugTdY4pBA">YouTube</a> or follow us at <a href="https://speakerdeck.com/devopsdaysSG">@DevOpsDaysSG on speaker deck</a>.
+    If Open Space is new to you, you may be interested in <a href="/pages/open-space-format">more details about Open Space</a>.
+    <hr />
+    <i>All times are in Singapore Time </i>
     <hr />
   </div>
+</div>
+<div>
+<b>Color Keys:</b>
+<div class="col-lg-2 col-md-2 program-element program-talk">Talk</div>
+<div class="col-lg-2 col-md-2 program-element program-ignite">Ignite</div>
+<div class="col-lg-2 col-md-2 program-element program-open-space">Open Space</div>
 </div>

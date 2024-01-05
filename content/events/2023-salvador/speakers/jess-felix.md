@@ -1,8 +1,8 @@
 +++
 Title = "Jess Felix"
-Twitter = ""
-linkedin = ""
-image = ""
+Twitter = "jessilyneh"
+linkedin = "jessilyneh"
+image = "jess-felix.jpg"
 type = "speaker"
 linktitle = ""
 website = ""

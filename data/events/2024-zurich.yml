@@ -16,7 +16,7 @@ enddate:  2024-04-17T23:59:59+02:00 # The end date of your event. Leave blank if
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  2023-11-01T00:00:00+02:00 # start accepting talk proposals.
-cfp_date_end:  2024-01-31T23:59:59+02:00 # close your call for proposals.
+cfp_date_end:  2024-01-15T23:59:59+02:00 # close your call for proposals.
 cfp_date_announce: 2023-11-01T00:00:00+02:00 # inform proposers of status
 
 cfp_link: "https://sessionize.com/devopsdays-zurich-2024/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
@@ -39,7 +39,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #  - name: program
 #  - name: speakers
   - name: location
-#  - name: registration
+  - name: registration
   - name: sponsor
   - name: diversity
   - name: contact
@@ -163,6 +163,10 @@ sponsors:
     level: bronze
   - id: cloudscalech
     level: event
+  - id: zkb
+    level: gold
+  - id: axians
+    level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

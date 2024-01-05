@@ -1,6 +1,8 @@
+/tel-aviv/*		/events/2024-tel-aviv/:splat		302
 /amsterdam/*		/events/2024-amsterdam/:splat		302
 /aracaju/*		/events/2023-aracaju/:splat		302
 /atlanta/*		/events/2023-atlanta/:splat		302
+/austin/cfp		https://talks.devopsdays.org/devopsdays-austin-2024/cfp 302
 /austin/*		/events/2024-austin/:splat		302
 /baku/*			/events/2019-baku/:splat		302
 /baltimore/*		/events/2024-baltimore/:splat		302
@@ -10,8 +12,8 @@
 /belo-horizonte/*	/events/2019-belo-horizonte/:splat	302
 /bengaluru/*		/events/2023-bengaluru/:splat		302
 /berlin/*		/events/2022-berlin/:splat		302
-/birmingham-al/*	/events/2024-birmingham-al/:splat		302
-/birmingham-uk/*		/events/2023-birmingham-uk/:splat		302
+/birmingham-al/*	/events/2024-birmingham-al/:splat	302
+/birmingham-uk/*	/events/2023-birmingham-uk/:splat	302
 /bogota/*		/events/2023-bogota/:splat		302
 /boise/*		/events/2023-boise/:splat		302
 /boston/*		/events/2023-boston/:splat		302
@@ -24,7 +26,8 @@
 /cape-town/*		/events/2020-cape-town/:splat		302
 /charlotte/*		/events/2022-charlotte/:splat		302
 /chattanooga/*		/events/2023-chattanooga/:splat		302
-/chicago/*		/events/2023-chicago/:splat		302
+/chicago/cfp    https://talks.devopsdays.org/devopsdays-chicago-2024/cfp 302
+/chicago/*		/events/2024-chicago/:splat		302
 /columbus/*		/events/2020-columbus/:splat		302
 /copenhagen/*		/events/2023-copenhagen/:splat		302
 /cuba/*			/events/2019-cuba/:splat		302
@@ -40,7 +43,8 @@
 /galway/*		/events/2019-galway/:splat		302
 /geneva/*		/events/2023-geneva/:splat		302
 /ghent/*		/events/2019-ghent/:splat		302
-/goiania/*		/events/2023-goiania/:splat		302
+/goiania/cfp		https://talks.devopsdays.org/devopsdays-goiania-2024/ 302
+/goiania/*		/events/2024-goiania/:splat		302
 /goteborg/*		/events/2011-goteborg/:splat		302
 /guadalajara/*		/events/2021-guadalajara/:splat		302
 /hamburg/*		/events/2010-europe/:splat		302
@@ -52,6 +56,7 @@
 /istanbul/*		/events/2024-istanbul/:splat		302
 /jakarta/*		/events/2022-jakarta/:splat		302
 /juiz-de-fora/*		/events/2024-juiz-de-fora/:splat		302
+/kansas-city/cfp    https://talks.devopsdays.org/devopsdays-kc-2024/    302
 /kansas-city/*		/events/2024-kansas-city/:splat		302
 /kazan/*		/events/2018-kazan/:splat		302
 /kiel/*			/events/2018-kiel/:splat		302
@@ -84,7 +89,7 @@
 /pittsburgh/*		/events/2015-pittsburgh/:splat		302
 /portland-me/*		/events/2020-portland-me/:splat		302
 /portland-or/*		/events/2022-portland-or/:splat		302
-/events/2021-portland/* /events/2021-portland-or/:splat 302
+/events/2021-portland/* /events/2021-portland-or/:splat 	302
 /porto-alegre/*		/events/2023-porto-alegre/:splat	302
 /portugal/*		/events/2023-portugal/:splat		302
 /poznan/*		/events/2023-poznan/:splat		302
@@ -95,10 +100,11 @@
 /rio-de-janeiro/*	/events/2023-rio-de-janeiro/:splat	302
 /rome/*			/events/2012-italy/:splat		302
 /saint-louis/*		/events/2020-saint-louis/:splat		302
-/salt-lake-city/*	/events/2020-salt-lake-city/:splat	302
+/salt-lake-city/*	/events/2024-salt-lake-city/:splat	302
 /salvador/*		/events/2023-salvador/:splat		302
 /santa-maria/*		/events/2018-santa-maria/:splat		302
 /santiago/*		/events/2020-santiago/:splat		302
+/sao-paulo/cfp		https://talks.devopsdays.org/devopsdays-sao-paulo-2024/cfp 302
 /sao-paulo/*		/events/2024-sao-paulo/:splat		302
 /seattle/*		/events/2024-seattle/:splat		302
 /shanghai/*		/events/2020-shanghai/:splat		302
@@ -112,11 +118,11 @@
 /texas/*		/events/2021-texas/:splat		302
 /tokyo/*		/events/2022-tokyo/:splat		302
 /toronto/*		/events/2020-toronto/:splat		302
-/ukraine/*			/events/2023-kyiv/:splat		302
+/ukraine/*		/events/2023-kyiv/:splat		302
 /vancouver/*		/events/2020-vancouver/:splat		302
 /victoria/*		/events/2019-victoria/:splat		302
 /vitoria/*		/events/2022-vitoria/:splat		302
-/vilnius/*            /events/2023-vilnius/:splat           302
+/vilnius/*            	/events/2023-vilnius/:splat             302
 /warsaw/*		/events/2022-warsaw/:splat		302
 /washington-dc/*	/events/2022-washington-dc/:splat	302
 /zaragoza/*		/events/2020-zaragoza/:splat		302
@@ -172,6 +178,7 @@
 
 
 # migrate rescheduled event
+/events/2023-tel-aviv/* /events/2024-tel-aviv/:splat	302
 /events/2023-philadelphia/* /events/2024-philadelphia/:splat	302
 
 # 10822: Migrate PDFs within static/ to assets.devopsdays.org
@@ -233,3 +240,5 @@
 /events/2016-dallas/devopsdays_dallas_sponsor_prospectus_v0.5.pdf                       https://assets.devopsdays.org/events/2016/dallas/devopsdays_dallas_sponsor_prospectus_v0.5.pdf                     301
 /events/2016-chicago/devopsdays-chicago-2016-prospectus.pdf                             https://assets.devopsdays.org/events/2016/chicago/devopsdays-chicago-2016-prospectus.pdf                           301
 /johannesburg/*            /events/2024-johannesburg/:splat           302
+/ahmedabad/*            /events/2024-ahmedabad/:splat           302
+events/2024-ahmedabad/sponsorship-prospectus.pdf https://assets.devopsdays.org/events/2024/ahmedabad/sponsorship-prospectus.pdf
