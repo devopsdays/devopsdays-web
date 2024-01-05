@@ -68,7 +68,7 @@ team_members: # Name is the only required field for team members.
     employer: "Cprime"
     linkedin: "https://www.linkedin.com/in/kathleencothran/"
     image: "katie-cothran.jpg"
-  - name: "Craig Cook"
+  - name: "Craig Cook (Emeritus)"
     image: "craig-cook.jpg"
   - name: "Michael Roberts"
     twitter: "MichaelRoberts0"
