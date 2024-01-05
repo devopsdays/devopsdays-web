@@ -154,6 +154,10 @@ sponsors:
 #    level: community
   - id: kcdc
     level: lunches
+  - id: kcwit
+    level: community
+  - id: kubeevents
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -174,4 +178,4 @@ sponsor_levels:
     label: Lunches
     max: 1
   - id: community
-    label: Community
+    label: Community & Media

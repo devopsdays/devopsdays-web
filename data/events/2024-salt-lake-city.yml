@@ -1,5 +1,5 @@
-name: "2023-salt-lake-city" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
-year: "2023" # The year of the event. Make sure it is in quotes.
+name: "2024-salt-lake-city" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2024" # The year of the event. Make sure it is in quotes.
 city: "Salt Lake City" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysslc" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 event_logo: "logo-square.jpg"
@@ -15,25 +15,22 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 
 # startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
 # enddate:   # The end date of your event. Leave blank if you don't have a venue reserved yet.
-startdate: 2023-03-14T08:00:00-06:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2023-03-15T18:00:00-06:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2024-03-13T08:00:00-06:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2024-03-14T18:00:00-06:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-# cfp_date_start: 2022-08-30T07:01:00-06:00  # start accepting talk proposals.
-# cfp_date_end: 2023-01-07T07:01:00-06:00 # close your call for proposals.
-# cfp_date_announce:  2023-03-04T07:01:00-06:00 # inform proposers of status
-
+cfp_date_start: 2023-09-02T00:00:00-06:00  # start accepting talk proposals.
+cfp_date_end: 2023-11-06T23:59:59-06:00 # close your call for proposals.
+cfp_date_announce: 2024-01-08T07:00:00-06:00 # inform proposers of status
 cfp_open: "false"
-#cfp_link: "https://www.papercall.io/slcdod2023" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://sessionize.com/slcdod2024/"   #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 # registration_date_start: 2023-01-28T07:01:00-06:00   # start accepting registration. Leave blank if registration is not open yet
 # registration_date_end: 2023-06-01T01:59:59-06:00     # close registration. Leave blank if registration is not open yet.
-
 # registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://slcdevopsdays.org/conference" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
-#
 # coordinates: "40.574494, -111.9022692" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Conference Center at Miller Campus"  # Defaults to city, but you can make it the venue name.
 location_address: "9750 S 300 W Sandy UT 84070" # Optional - use the street address of your venue. This will show up on the welcome page if set.
@@ -41,14 +38,14 @@ location_address: "9750 S 300 W Sandy UT 84070" # Optional - use the street addr
 nav_elements: # List of pages you want to show up in the navigation of your page.
 #   - name: slcdevopsdays.org
 #     url: https://www.slcdevopsdays.org
-  # - name: propose
-  # - name: location
+  - name: propose
+  - name: location
   - name: registration
-    url: https://slcdevopsdays.org/conference
-  - name: program
-    url: https://saltlakecitydevopsdays2023.sched.com/
+    # url: https://slcdevopsdays.org/conference
+  # - name: program
+    # url: https://saltlakecitydevopsdays2023.sched.com/
   # - name: speakers
-  # - name: sponsor
+  - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
@@ -59,20 +56,16 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
     - name: "Randall Mawhinnie"
-      employer: "Virtustream, A Dell Technologies Business"
+      employer: "Bentley Systems"
       twitter: "rmawhinnie"
       linkedin: "https://www.linkedin.com/in/rmawhinnie/"
-    - name: "Trent Cameron"
-      twitter: "tvc123"
-      employer: "Truemark"
-      linkedin: "https://www.linkedin.com/in/trentoncameron"
     - name: "Brett Palmer"
       twitter: "brettgpalmer"
       employer: "Department of Workforce Services"
       linkedin: "http://www.linkedin.com/in/brett-palmer-161177"
       # image: "brett-palmer.jpg"
     - name: "Maria Bates"
-      employer: "Fidelity Investments"
+      employer: "Mastercard"
       linkedin: "http://linkedin.com/in/mesbates"
     - name: "Claiton Weeks"
       employer: "Intermountain Healthcare"
@@ -81,10 +74,6 @@ team_members: # Name is the only required field for team members.
     - name: "Alex Bilimoria"
       employer:  "Quotient Technology"             # "Senior Software Engineer"
       linkedin: "https://www.linkedin.com/in/alex-c-bilimoria/"
-    - name: "Andrea Lewis"
-      employer: "Domo"                # "Principal Release Manager"
-      linkedin: "https://www.linkedin.com/in/lewis-andrea/"
-      twitter: "AndreasiweL"
     - name: "Katrina Brinkley"
       employer: "Utah State Board of Education"   # Chief Product Owner and Program Manager for USIMS"
       linkedin: "https://www.linkedin.com/in/katrinabrinkley/"
@@ -126,8 +115,8 @@ organizer_email: "salt-lake-city@devopsdays.org" # Put your organizer email addr
   #  level: community
   #  url: "https://www.sponsorsurl.com/" # Use this if you need to over-ride a sponsor URL.
 
-# sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
-sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+# sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
