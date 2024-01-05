@@ -87,10 +87,6 @@ team_members: # Name is the only required field for team members.
     twitter: "GitDevOps"
     image: "jeremy-neff.jpg"
     linkedin: "https://www.linkedin.com/in/jeremy-r-neff/"
-  - name: "Alex Malich"
-    linkedin: "https://www.linkedin.com/in/coldsv"
-    website: "https://www.meetup.com/triangletechtalks/"
-    image: "alex-malich.jpg"
   - name: Felipe Fernandez
     linkedin: "https://www.linkedin.com/in/felipe-fernandes-21901b5a/"
     image: "felipe-fernandez.jpg"
