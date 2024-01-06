@@ -1,7 +1,7 @@
 +++
-Title = "Program"
+Title = "Programação"
 Type = "program"
-Description = "Program for devopsdays Tel Aviv 2023"
+Description = "Programação - DevOpsDays Aracaju 2024"
 Icons = "false"
 +++
 
