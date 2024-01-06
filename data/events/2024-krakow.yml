@@ -52,7 +52,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Kuba Barć"
-    image: "jakub_barc.png"
+    image: "jakub_barc.jpg"
     linkedin: "https://www.linkedin.com/in/jakub-bar%C4%87-a235662a"
     bio: "SRE with Splunk, trying to get Splunk Monitoring (a.k.a SignalFx) to scale properly. 10+ years of experience with companies like IBM, UBS, Splunk and Facebook. Not a fan of Jenkins"
   - name: "Piotr Godowski"
