@@ -35,10 +35,8 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
     </tr>
     <tr style="text-align: center;">
       <td></td>
-      <td colspan="3"><small>
-      Note: Paypal payments include 3% service charge.
-      <br>
-      <a href="mailto:sponsors@devopsdayskc.org?subject=DevOpsDays%20KC%202024%20Sponsorship">Email us</a> if you prefer to pay by check</small></td>
+      <td colspan="3">
+      <a href="mailto:sponsors@devopsdayskc.org?subject=DevOpsDays%20KC%202024%20Sponsorship">Email us</a> if you prefer to pay by check or Quickbooks invoice.</td>
       <td></td>
     </tr>
     <tr style="text-align: center;">
