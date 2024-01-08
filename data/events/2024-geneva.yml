@@ -3,7 +3,7 @@ year: "2024" # The year of the event. Make sure it is in quotes.
 city: "geneva" # The displayed city name of the event. Capitalize it.
 event_twitter: "DevopsdaysGe" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 event_logo: "logo-square.png"
-#masthead_background: "banner.png"
+masthead_background: "geneva-banner.jpg"
 sharing_image: "logo-square.png"
 
 description: "Devopsdays is coming to Geneva!" # Edit this to suit your preferences
@@ -132,6 +132,16 @@ sponsors:
     level: gold
   - id: redhat
     level: gold
+  - id: swiss-cybersecurity
+    level: community
+  - id: heg-geneva
+    level: community
+  - id: powerhouse
+    level: community
+  - id: webmardi
+    level: community
+  - id: wejob
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -146,19 +156,19 @@ sponsor_levels:
   - id: gold
     label: Gold
     max: 8
+  - id: speakers
+    label: Speakers
+    max: 1
   - id: silver
     label: Silver
     max: 8
   - id: bronze
     label: Bronze
-  - id: community
-    label: Community
-  - id: speakers
-    label: Speakers
     max: 1
   - id: mic
     label: Mic
     max: 1
-
+  - id: community
+    label: Community
 
 program:
