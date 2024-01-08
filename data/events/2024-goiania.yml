@@ -47,8 +47,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
   - name: inscrições
     icon: "ticket"
-    #url: https://www.sympla.com.br/devopsdays-goiania-2024__1836174
-    url: /events/2024-goiania/registration
+    url: https://www.sympla.com.br/evento/devopsdays-goiania-2024/2292376
+    #url: /events/2024-goiania/registration
 
   - name: programação
     icon: "calendar"
