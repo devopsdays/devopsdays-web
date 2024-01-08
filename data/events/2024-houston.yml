@@ -77,6 +77,9 @@ team_members: # Name is the only required field for team members.
     image: "julia-ito.jpg"
     bio: "Julia is a Product Manager and technology passionate, who loves delivering solutions that matter faster and better."
   - name: "Mark Baumstein"
+    employer: "Petroleum Geo-Services"
+  - name: "David Varela"
+    employer: "Blue People"
 organizer_email: "houston@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
