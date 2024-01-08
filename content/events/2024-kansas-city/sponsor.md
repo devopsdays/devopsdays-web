@@ -21,7 +21,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <th scope="col">BENEFITS</th>
       <th scope="col" style="text-align: center;">PLATINUM</th>
       <th scope="col" style="text-align: center;">GOLD</th>
-      <th scope="col" style="text-align: center;">BRONZE</th>
+      <th scope="col" style="text-align: center;">SILVER</th>
       <th scope="col" style="text-align: center;">COMMUNITY</th>
     </tr>
   </thead>
@@ -60,7 +60,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
         </form>
       </td>
       <td>
-        <!-- bronze Paypal button  -->
+        <!-- Silver Paypal button  -->
         <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
           <input type="hidden" name="cmd" value="_s-xclick" />
           <input type="hidden" name="hosted_button_id" value="WJ3T6Q3RA9DMW" />

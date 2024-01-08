@@ -172,10 +172,13 @@ sponsor_levels:
   - id: gold
     label: Gold
     max: 6
-  - id: bronze
-    label: Bronze
+  - id: silver
+    label: Silver
+  - id: community
+    label: Community & Media
   - id: lunches
     label: Lunches
     max: 1
-  - id: community
-    label: Community & Media
+  - id: social-event
+    label: Social Event
+    max: 1
