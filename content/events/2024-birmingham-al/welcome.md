@@ -70,15 +70,15 @@ Description = "devopsdays Birmingham, AL 2024"
    <a href="https://tickets.devopsdays.org/devopsdays-birmingham-al/2024/">Register</a> to attend the conference.
   </div>
 </div>
-
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
+    {{< event_link url-key="cfp_link" text="Propose a talk!" >}}
   </div>
-</div> -->
+</div>
+
 <!-- 
  <div class = "row">
   <div class = "col-md-2">
@@ -124,9 +124,15 @@ Description = "devopsdays Birmingham, AL 2024"
     {{< event_link page="contact" text="Get in touch with the organizers" >}}
   </div>
 </div>
-
-<!-- Uncomment if you added your city twitter name 
-
-{{< event_twitter >}} -->
-
- <a rel="me" target="_blank" href="https://social.devopsdays.org/@devopsdaysbham"><span class="btn btn-sm rounded-pill btn-info"><i class="fab fa-mastodon fa-md" ></i> Follow @devopsdaysbham@devopsdays.org</span></a>
+<div class = "row" style="padding-top: 10px">
+  <div class = "col-md-3">
+    <a rel="me" target="_blank" href="https://social.devopsdays.org/@devopsdaysbham"><span class="btn btn-sm rounded-pill btn-info" style="background-color: #605FEE"><i class="fab fa-mastodon fa-md" ></i> Follow @devopsdaysbham@devopsdays.org</span></a>    
+  </div>
+  <div class = "col-md-2">
+    <a rel="me" target="_blank" class="twitter-follow-button" href="https://twitter.com/devopsdaysbham" data-size="large">Follow @devopsdaysbham</a>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+  </div>
+  <div class = "col-md-6">
+    &nbsp;
+  </div>
+</div>

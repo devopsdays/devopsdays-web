@@ -71,9 +71,9 @@ team_members: # Name is the only required field for team members.
     image: "aaron-blythe.jpg"
     bio: "Father, husband, hacker, software architect, genuinely interested in understanding things and making them better."
   - name: "Erin Crise"
-    employer: "VMLY&R"
+    employer: "TekSystems"
     bio: "Graphic designer and self taught coder who developed a love for software testing. Erin’s a creative professional with a passion for software quality and a champion for inclusion."
-    twitter: "erincr"
+    twitter: "queentester"
     image: "erin-crise.jpg"
     linkedin: "https://linkedin.com/in/erin-crise"
     website: "https://medium.com/@erin-crise"
@@ -154,6 +154,10 @@ sponsors:
 #    level: community
   - id: kcdc
     level: lunches
+  - id: kcwit
+    level: community
+  - id: kubeevents
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -168,10 +172,13 @@ sponsor_levels:
   - id: gold
     label: Gold
     max: 6
-  - id: bronze
-    label: Bronze
+  - id: silver
+    label: Silver
+  - id: community
+    label: Community & Media
   - id: lunches
     label: Lunches
     max: 1
-  - id: community
-    label: Community
+  - id: social-event
+    label: Social Event
+    max: 1

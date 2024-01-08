@@ -50,7 +50,7 @@
 /hamburg/*		/events/2010-europe/:splat		302
 /hartford/*		/events/2019-hartford/:splat		302
 /helsinki/*		/events/2014-helsinki/:splat		302
-/houston/*		/events/2022-houston/:splat		302
+/houston/*		/events/2024-houston/:splat		302
 /halifax/*		/events/2024-halifax/:splat		302
 /indianapolis/*		/events/2023-indianapolis/:splat	302
 /istanbul/*		/events/2024-istanbul/:splat		302
@@ -100,7 +100,7 @@
 /rio-de-janeiro/*	/events/2023-rio-de-janeiro/:splat	302
 /rome/*			/events/2012-italy/:splat		302
 /saint-louis/*		/events/2020-saint-louis/:splat		302
-/salt-lake-city/*	/events/2020-salt-lake-city/:splat	302
+/salt-lake-city/*	/events/2024-salt-lake-city/:splat	302
 /salvador/*		/events/2023-salvador/:splat		302
 /santa-maria/*		/events/2018-santa-maria/:splat		302
 /santiago/*		/events/2020-santiago/:splat		302
@@ -119,7 +119,7 @@
 /tokyo/*		/events/2022-tokyo/:splat		302
 /toronto/*		/events/2020-toronto/:splat		302
 /ukraine/*		/events/2023-kyiv/:splat		302
-/vancouver/*		/events/2020-vancouver/:splat		302
+/vancouver/*		/events/2024-vancouver/:splat		302
 /victoria/*		/events/2019-victoria/:splat		302
 /vitoria/*		/events/2022-vitoria/:splat		302
 /vilnius/*            	/events/2023-vilnius/:splat             302
