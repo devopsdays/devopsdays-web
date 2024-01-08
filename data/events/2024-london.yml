@@ -76,6 +76,7 @@ team_members: # Name is the only required field for team members.
     mastodon: "https://strangeobject.space/@issy"
     twitter: "issyl0"
     github: "issyl0"
+  - name: "Jen Mackown"
   - name: "Louise Paling"
     pronouns: "she/her"
     twitter: "short_louise"
