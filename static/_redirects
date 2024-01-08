@@ -50,7 +50,7 @@
 /hamburg/*		/events/2010-europe/:splat		302
 /hartford/*		/events/2019-hartford/:splat		302
 /helsinki/*		/events/2014-helsinki/:splat		302
-/houston/*		/events/2022-houston/:splat		302
+/houston/*		/events/2024-houston/:splat		302
 /halifax/*		/events/2024-halifax/:splat		302
 /indianapolis/*		/events/2023-indianapolis/:splat	302
 /istanbul/*		/events/2024-istanbul/:splat		302
