@@ -3,7 +3,7 @@ year: "2024" # The year of the event. Make sure it is in quotes.
 city: "geneva" # The displayed city name of the event. Capitalize it.
 event_twitter: "DevopsdaysGe" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 event_logo: "logo-square.png"
-masthead_background: "geneva-banner.jpg"
+masthead_background: "geneva-banner.png"
 sharing_image: "logo-square.png"
 
 description: "Devopsdays is coming to Geneva!" # Edit this to suit your preferences

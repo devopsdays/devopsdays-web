@@ -22,6 +22,9 @@ Description = "DevopsDays Geneva 2024"
     font-weight: 600;
     color: #fff;
   }
+  a.jssocials-share-link, a.event-cta-button {
+    background-color: #8e44b3;
+  }
 
   .content-text {
     width: 100%;
