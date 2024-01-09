@@ -12,12 +12,12 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2021-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: 2024-03-12T00:00:00+02:00
-enddate: 2024-03-13T23:59:59+02:00
+startdate: 2024-03-18T00:00:00+02:00
+enddate: 2024-03-19T23:59:59+02:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2023-12-01T00:00:00+02:00
-cfp_date_end: 2024-01-31T23:59:59+02:00
+cfp_date_end: 2024-02-12T23:59:59+02:00
 cfp_date_announce:
 
 cfp_link: "https://dodkrakow.pl/call-for-papers-2024/"
@@ -26,12 +26,12 @@ registration_date_start: 2023-12-01T00:00:00+02:00
 registration_date_end: 2024-03-13T23:59:59+02:00
 
 registration_closed: "" # set this to true if you need to manually close registration before your registration end date
-registration_link: "https://eventory.cc/event/devopsdays-krakow-2024"
+registration_link: "https://eventory.cc/event/devopsdays-krakow-2024/tickets"
 
 # Location
-coordinates: "50.0502531, 19.966613"
-location: "Klaster Innowacji Społeczno-Gospodarczych Zabłocie 20.22"
-location_address: "Zabłocie 22, 30-001 Kraków"
+coordinates: "50.012602303720385, 19.92386198919149"
+location: "Metropolo Krakow"
+location_address: "Orzechowa 11, 30-422 Kraków"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: registration
