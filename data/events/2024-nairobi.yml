@@ -1,7 +1,7 @@
 name: "2024-nairobi" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2024" # The year of the event. Make sure it is in quotes.
-city: "NAIROBI" # The displayed city name of the event. Capitalize it.
-event_twitter: "devopsdaysnairobi" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+city: "Nairobi" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaysNRB" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "Devopsdays is coming to Nairobi!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
@@ -50,19 +50,19 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Maamun Bwanakombo"
-    github: "https://github.com/Nabhany"
+    github: "Nabhany"
     linkedin: "https://www.linkedin.com/in/maamun-bwanakombo-58849b141/"
     image: ""
   - name: "Kadima Samuel"
-    github: "https://github.com/kadimasum"
+    github: "kadimasum"
     linkedin: "https://www.linkedin.com/in/kadima-samuel-804103bb/"
     image: ""
   - name: "Mercyline Nyansarola"
-    github: ""
+    github: "MercylineMochama"
     linkedin: "https://www.linkedin.com/in/mercyline-nyansarola/"
     image: ""
   - name: "Emma Nyakio"
-    github: ""
+    github: "elsie-dev"
     linkedin: "https://www.linkedin.com/in/emma-nyakio/"
     image: ""
   - name: "Lawrence Juma" 
@@ -70,7 +70,7 @@ team_members: # Name is the only required field for team members.
     linkedin: ""
     image: ""
   - name: "Ivy Jeptoo"
-    github: "devopsdays"
+    github: ""
     linkedin: "https://www.linkedin.com/in/ivyjeptoo/"
     image: ""
 
