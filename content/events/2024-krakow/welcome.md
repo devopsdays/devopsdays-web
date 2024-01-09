@@ -50,6 +50,7 @@ Description = "devopsdays Kraków 2024"
   </div>
   <div class="text">
     <a href="https://eventory.cc/event/devopsdays-krakow-2024" type="button" class="btn btn-danger btn-lg btn-block">REGISTRATION</a>
+    <a href="https://dodkrakow.pl/call-for-papers-2024/" type="button" class="btn btn-danger btn-lg btn-block">CALL FOR PROPOSALS</a>
     <a href="mailto:krakow@devopsdays.org " type="button" class="btn btn-danger btn-lg btn-block">SPONSOR</a>
     <a href="/events/2024-krakow/contact" type="button" class="btn btn-danger btn-lg btn-block">CONTACT</a>
   </div>
