@@ -32,14 +32,14 @@ Description = "devopsdays Denver 2024"
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    <a href="https://www.eventbrite.com/e/devops-days-rockies-2023-tickets-440622492737">Register to attend the conference!</a>
+    <a href="https://tickets.devopsdays.org/devopsdays-denver/2024/">Register to attend the conference!</a>
   </div>
-</div>-->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
