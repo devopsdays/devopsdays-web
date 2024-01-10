@@ -34,12 +34,13 @@ location: "Mile High Station and Iron Works" # Defaults to city, but you can mak
 location_address: "2027 W Colfax Ave, Denver, CO 80204" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
   - name: location
- # - name: registration
+  - name: register
+    url: https://tickets.devopsdays.org/devopsdays-denver/2024/
  # - name: program
  # - name: speakers
   - name: sponsor
+  - name: propose
   - name: contact
   - name: conduct
 # - name: example
