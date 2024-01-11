@@ -77,7 +77,7 @@ team_members: # Name is the only required field for team members.
     employer: "WebRiot"
     twitter: "peteroneilljr"
   - name: "Leigh Capili"
-    employer: "VMware Tanzu"
+    employer: "Tanzu by Broadcom"
     twitter: "capileigh"
   - name: "Mary Goodheart"
     employer: "VelocityGlobal"
@@ -93,6 +93,10 @@ sponsors:
     level: gold
   - id: elastic
     level: gold
+  - id: parrylabs
+    level: supporter
+  - id: pax8
+    level: supporter
   - id: skylounge
     level: supporter
   - id: webriot
