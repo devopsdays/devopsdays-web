@@ -17,6 +17,7 @@ enddate: 2024-03-15T22:00:00-08:00 # The end date of your event. Leave blank if 
 cfp_date_start: 2023-08-01T00:00:00-08:00  # start accepting talk proposals.
 cfp_date_end:  2023-11-01T00:00:00-08:00 # close your call for proposals.
 cfp_date_announce:  2023-12-01T00:00:00-08:00 # inform proposers of status
+cfp_open: "false"
 
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
