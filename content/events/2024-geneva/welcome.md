@@ -105,7 +105,7 @@ Description = "DevopsDays Geneva 2024"
   </div>
 </div>
 
-
+<!--
 <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
@@ -114,7 +114,7 @@ Description = "DevopsDays Geneva 2024"
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
 </div>
-
+-->
 <!--
 <div class = "row">
   <div class = "col-md-2">
