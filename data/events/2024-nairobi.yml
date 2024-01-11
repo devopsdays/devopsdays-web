@@ -70,8 +70,12 @@ team_members: # Name is the only required field for team members.
     linkedin: ""
     image: ""
   - name: "Ivy Jeptoo"
-    github: ""
+    github: "IvyJeptoo"
     linkedin: "https://www.linkedin.com/in/ivyjeptoo/"
+    image: ""
+  - name: "Ian Kiprotoch"
+    github: "onai254"
+    linkedin: "https://www.linkedin.com/in/iankiprotich-k8s-guru"
     image: ""
 
 organizer_email: "nairobi@devopsdays.org" # Put your organizer email address here
