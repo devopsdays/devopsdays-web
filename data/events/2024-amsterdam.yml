@@ -38,9 +38,9 @@ sharing_image: "doda-coverbanner-1200x600.png"
 masthead_background: "backdrop.png"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  # - name: propose
   - name: location
   - name: registration
+  - name: propose
   # - name: program
   # - name: speakers
   - name: sponsor
@@ -110,6 +110,22 @@ organizer_email: "amsterdam@devopsdays.org" # Put your organizer email address h
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+sponsors:
+  # Platinum
+  # Beer
+  # Coffee
+  - id: greater-bv
+    level: coffee
+  # Captioning
+  - id: raftech
+    level: captioning
+  # Gold
+  # Lanyard
+  # Foodtruck
+  # Silver
+  # Bronze
+  - id: devleaps
+    level: bronze
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -118,3 +134,30 @@ sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: platinum
+    label: Platinum
+    max: 1
+  - id: beer
+    label: Beer
+    max: 1
+  - id: coffee
+    label: Coffee
+    max: 1
+  - id: captioning
+    label: Captioning
+    max: 1
+  - id: gold
+    label: Gold
+    max: 8
+  - id: lanyard
+    label: Lanyard
+    max: 1
+  - id: foodtruck
+    label: "Food Truck"
+    max: 4
+  - id: silver
+    label: Silver
+    max: 8
+  - id: bronze
+    label: "Bronze"
+    max: 10
