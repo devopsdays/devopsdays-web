@@ -13,12 +13,29 @@
   command = "bin/netlify.sh"
   publish = "public/"
   skip_processing = true
+  
+#[build.processing]
+# skip_processing = true
 
 [context.production.environment]
-   HUGO_VERSION = "0.92.0"
+   HUGO_VERSION = "0.102.3"
 
 [context.deploy-preview.environment]
-  HUGO_VERSION = "0.92.0"
+  HUGO_VERSION = "0.102.3"
 
 [context.branch-deploy.environment]
-  HUGO_VERSION = "0.92.0"
+  HUGO_VERSION = "0.102.3"
+
+# Mastodon Configuration
+[[redirects]]
+  from = "/.well-known/webfinger/*"
+  to = "https://social.devopsdays.org/:splat"
+  status = 301
+[[headers]]
+  for = "/.well-known/webfinger/*"
+    [headers.values]
+    Access-Control-Allow-Origin = "*"
+    
+    
+#[[plugins]]
+# package = "netlify-plugin-hashfiles"

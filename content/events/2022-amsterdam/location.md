@@ -19,14 +19,14 @@ The Netherlands
 ### Transportation
 
 Amsterdam has a fantastic public transportation system.
-- Buses [48](http://maps.gvb.nl/en/lijnen/48), [246](http://maps.gvb.nl/en/lijnen/246) and [759](http://maps.gvb.nl/en/lijnen/759) stop right in front of the conference.
+- Buses [43](http://maps.gvb.nl/en/lijnen/43), [246](http://maps.gvb.nl/en/lijnen/246) and [759](http://maps.gvb.nl/en/lijnen/759) stop right in front of the conference.
 - Tram [26](http://maps.gvb.nl/en/lijnen/26), departing from Amsterdam Centraal Station (main train station in the city).
 
 More information can be obtained by using the [GVB](http://en.gvb.nl/) or [9292](http://9292.nl/en) websites. Both have excellent apps in the iOS and Google Play store. Other apps (like Google Maps) have great integration as well.
 
 ##### A note to out of towners in in regards to obtaining a reloadable card for public transportation.
 
-You can purchase an "OV chipkaart" at Amsterdam Centraal and most large metro stations (including Schiphol). Note that the unattended machines do not handle non-EU issued (e.g. Chip+Signature) cards well. Some U.S. Credit Unions now offer Chip+Pin technology on their *debit* card (note: not *credit* card). If your card doesn't work or want to use Euros (other than coins), there is a customer service center located on the "IJ side" of Amsterdam Centraal where you can purchase a chipkaart in person at the [Service Office](https://www.nsinternational.com/en/tickets-services/opening-hours-ticket-and-service-shops "Link to NS International Service Office"). If you're arriving via Schiphol - a similar service is offered in the main train hall
+You can purchase an "OV chipkaart" at Amsterdam Centraal and most large metro stations (including Schiphol). Note that the unattended machines don't handle non-EU issued (for example Chip+Signature) cards well. Some U.S. Credit Unions now offer Chip+Pin technology on their *debit* card (note: not *credit* card). If your card doesn't work or want to use Euros (other than coins), there is a customer service center located on the "IJ side" of Amsterdam Centraal where you can purchase a chipkaart in person at the [Service Office](https://www.nsinternational.com/en/tickets-services/opening-hours-ticket-and-service-shops "Link to NS International Service Office"). If you're arriving via Schiphol - a similar service is offered in the main train hall
 
 #### Alternative methods of transportation
 - [Taxis](https://www.iamsterdam.com/en/plan-your-trip/getting-around/taxis)

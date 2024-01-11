@@ -14,17 +14,19 @@ startdate: 2022-12-14T00:00:00+02:00
 enddate:  2022-12-15T23:59:59+02:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
+cfp_date_start:  2022-05-31T00:00:00+02:00
+cfp_date_end:  2022-08-31T23:59:59+02:00
 cfp_date_announce:  # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://sessionize.com/devopsdays-tel-aviv-2022/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: 2022-09-01T00:00:00+02:00  # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2022-12-15T00:00:01+02:00  # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://bit.ly/DEVOPSDAYS-2022-TIX" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+program_link: "https://tlvcommunity.dev/devopsdays/agenda-2022"
 
 # Location
 #
@@ -34,15 +36,16 @@ location: "Tel Aviv" # Defaults to city, but you can make it the venue name.
 location_address: "Expo Tel Aviv - 101 Rokach Blvd, Tel Aviv" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
  # - name: location
- # - name: registration
- # - name: program
+ # - name: propose
+  - name: program
  # - name: speakers
   - name: sponsor
+  - name: registration
   - name: contact
   - name: conduct
-# - name: example
+  - name: TLVCommunity Site
+    url: "https://tlvcommunity.dev/devopsdays"
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
 
@@ -195,13 +198,15 @@ sponsors:
     level: platinum
   - id: coralogix
     level: platinum
-  - id: granulate
+  - id: granulate-before-20230209
     level: platinum
   - id: jit
     level: platinum
   - id: ermetic
     level: platinum
-  - id: paloaltonetworks
+  - id: paloaltonetworks-before-20230321
+    level: platinum
+  - id: microsoft
     level: platinum
   - id: armosec
     level: gold
@@ -211,7 +216,7 @@ sponsors:
     level: gold
   - id: env0
     level: gold
-  - id: replicated
+  - id: logz
     level: gold
   - id: circleci
     level: gold
@@ -229,10 +234,60 @@ sponsors:
     level: gold
   - id: kaltura
     level: gold
+  - id: singular
+    level: gold
+  - id: bigpanda
+    level: gold
+  - id: aerospike
+    level: gold
+  - id: akeyless
+    level: gold
+  - id: wizards
+    level: gold
+  - id: hetz
+    level: gold
+  - id: wix
+    level: gold
+  - id: snyk
+    level: gold
+  - id: jfrog
+    level: gold
+  - id: esl-cloudbees
+    level: gold
+  - id: googlecloud-before-20230502
+    level: gold
+  - id: newrelic
+    level: gold
+  - id: esl-sonatype
+    level: gold
+  - id: elastic
+    level: gold
+  - id: silverfort
+    level: gold
+  - id: spot-by-netapp
+    level: gold
+  - id: quali
+    level: gold
+  - id: spectralops
+    level: media
+  - id: doit-before-2023-07-07
+    level: media
+  - id: velocitytech
+    level: media
+  - id: cloudify
+    level: media
+  - id: pitango
+    level: media
+  - id: pagerduty
+    level: media
   - id: statscraft
+    level: media
+  - id: iod
     level: media
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: barvazgumi
+    level: media
+  - id: opsschool
     level: media
   #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 
@@ -254,7 +309,7 @@ sponsor_levels:
     label: Gold
 #    max: 10
 # - id: community
-    label: Community
+#   label: Community
     max: 0 # This is the same as omitting the max limit.
   - id: media
     label: Media & Community Partner

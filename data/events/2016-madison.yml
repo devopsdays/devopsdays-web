@@ -75,7 +75,7 @@ sponsors:
     level: bronze
   - id: ipswitch
     level: silver
-  - id: elastic
+  - id: elastic-before-20221004
     level: gold
   - id: columnpuppet
     level: gold

@@ -14,9 +14,9 @@ The best thing to do is send practitioners to interact with their peers at DevOp
 
 In 2019 we had 458 registered attendees and 91% showed up for at least a portion of the event. Of the attendees, 11% were government employees, the rest from a range of industries representing the diverse nature of the DC-Maryland-Virginia economy. DevOpsDays DC does not share registration information directly with sponsors, but feel free to ask attendees for their contact details. 
 
-Please email the organizers at {{< email_organizers >}} for information on **reserving and paying for your sponsorship**, or for any questions you may have.
+**Reserving and paying for your sponsorship**: Please use the PayPal links below, or email the organizers at {{< email_organizers >}} for alternate payment forms, or with any questions we can help you with.
 
-The following chart outlines our sponsorship packages.
+The following chart outlines our paid sponsorship packages.
 
 <style>
   table.sponsorship            { border-collapse: collapse; }
@@ -55,21 +55,17 @@ The following chart outlines our sponsorship packages.
     -->
   </tr>
   <tr class="hed2">
-    <td></td>
-    <td><strong>$1,500 USD</strong></td>
-    <td><strong>$4,000 USD</strong></td>
-    <td><strong>$6,000 USD</strong></td>
-    <!--
-    <td><strong class="stamp">TBD</strong></td>
-    <td><strong class="stamp">TBD</strong></td>
-    <td><strong class="stamp">TBD</strong></td>
-    -->
+    <td></td> 
+    <td><strong class="stamp">CLOSED</strong></td>
+    <td><strong class="stamp">SOLD OUT</strong></td>
+    <td><strong class="stamp">SOLD OUT</strong></td>
+
   </tr>
     <tr>
     <td>Available sponsorships</td>
-    <td class="yes">5</td>
-    <td class="yes">5</td>
-    <td class="yes">15</td>
+      <td class="yes"><s>5</s> <strong>3</strong></td>
+      <td class="yes"><s>6</s> <strong>0</strong></td>
+      <td class="yes"><s>15</s> <strong>0</strong></td>
   </tr>
   <tr>
     <td>Logo on shared slide, rotating during breaks</td>
@@ -177,6 +173,8 @@ The following chart outlines our sponsorship packages.
   </tbody>
 </table>
 
+Refunds: Full sponsor refunds are available until 6/1/2022. Sponsor refunds between 6/2/2022 and 7/15/2022 will be at 90%. Between 7/15/2002 and 9/1/2022, sponsors can downgrade one sponsor tier and receive the difference (e.g. from Platinum to Gold for $2,000), but table space will not be available.
+
 <hr/>
 
 ### Silver - Price $1,500 USD
@@ -186,16 +184,12 @@ The following chart outlines our sponsorship packages.
 * Logo on shared slide, rotating during breaks
 * Logo on DevOpsDays DC 2022 event website
 
-Registration coming soon!
-
 ### Gold - Price $4,000 USD
 
 * All benefits of Silver sponsors
 * Mentioned on all email communication
 * 1 additional ticket, 2 in total
 * Shared table for swag/marketing/staffing
-
-Registration coming soon!
 
 ### Platinum - Price $6,000 USD
 
@@ -204,6 +198,16 @@ Registration coming soon!
 * 2 additional tickets, 4 in total
 * Full table for swag/marketing/staffing
 
-Registration coming soon!
+### Community Sponsorship
+
+We are excited to offer community sponsorships. This is not a paid sponsorship. Instead, this sponsorship is extended to conferences, media and meetups who wish to exchange a spot on our banner for a spot on their own, and for cross-promotion on social media. Building community in the area is a worthwhile goal and we're all in this together! Community sponsors must be:
+* Part of the mission to help promote technology and/or technology education in DC, Maryland and Virginia, OR
+  * A not-for-profit organization in the DevOps space that shares the above interests & values
+* Willing to help promote, in kind, DevOpsDays DC.
+* Willing to adhere to our code of conduct
+
+Sponsors are granted one comp ticket, a discount code to promote within their community, Twitter and LinkedIn mentions, and your icon on our website and slides.
+
+We reserve the right to limit the number of community and media sponsorships. Please reach out to {{< email_organizers >}} to set up this relationship. 
 
 <hr/>

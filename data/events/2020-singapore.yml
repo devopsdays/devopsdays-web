@@ -96,7 +96,7 @@ proposal_email: "singapore@devopsdays.org" # Put your proposal email address her
 sponsors:
   - id: cldcvr
     level: gold
-  - id: elastic
+  - id: elastic-before-20221004
     level: gold
   - id: singapore-devops-community
     level: community

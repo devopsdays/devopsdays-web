@@ -77,15 +77,15 @@ sponsors:
   level: gold
 - id: armory
   level: gold
-- id: appdynamics
+- id: appdynamics-before-20230221
   level: gold
-- id: hashicorp
+- id: hashicorp-before-20220811
   level: gold
 - id: neuvector
   level: gold
 - id: solo
   level: gold
-- id: mondoo
+- id: mondoo-before-20220615
   level: silver
 - id: fairwinds
   level: gold

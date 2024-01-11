@@ -85,13 +85,13 @@ sponsors:
     level: community
   - id: hays
     level: gold
-  - id: contrast_security
+  - id: contrast_security-before-20221014
     level: gold
   - id: pivotal-before-20190307
     level: platinum
   - id: dzone
     level: community
-  - id: influxdata
+  - id: influxdata-before-20220629
     level: gold
   - id: sonatype-before-20190121
     level: gold

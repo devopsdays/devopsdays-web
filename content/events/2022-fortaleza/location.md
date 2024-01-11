@@ -4,9 +4,9 @@ Type = "event"
 Description = "Location for devopsdays Fortaleza 2022"
 +++
 
-O evento será sediado na Uni 7 - Centro Universitário 7 de Setembro.
+O evento será sediado na UNIFOR - Universidade de Fortaleza.
 <br>
-Endereço: <a href="https://www.google.com/maps/place/Uni+7+-+Centro+Universit%C3%A1rio+7+de+Setembro/@-3.7710272,-38.4836495,15z/data=!4m2!3m1!1s0x0:0x3d5127cdeb3dde1d?sa=X&ved=2ahUKEwiHgu_asMT3AhWAkZUCHfi7BRoQ_BJ6BAhLEAU">Av. Almirante Maximiniano da Fonseca, 1395 - Luciano Cavalcante, Fortaleza - CE, 60811-020</a>
+Endereço: <a href="https://www.google.com/maps/place/UNIFOR+-+Universidade+de+Fortaleza/@-3.7697702,-38.4799603,17z/data=!4m9!1m2!2m1!1sunifor!3m5!1s0x7c745fe9c03245d:0xd435fd5a6bfbbe44!8m2!3d-3.7687753!4d-38.478061!15sCgZ1bmlmb3IiA4gBAZIBEnByaXZhdGVfdW5pdmVyc2l0eQ">Av. Washington Soares, 1321 - Edson Queiroz, Fortaleza - CE, 60811-905</a>
 <!-- Uncomment this only if you have set the coordinates for your location in the config yaml. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html -->
 {{< event_map >}}
 

@@ -14,12 +14,12 @@ startdate: 2022-09-22T00:00:00+02:00
 enddate: 2022-09-22T23:59:59+02:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2021-05-24T00:00:00+02:00 # start accepting talk proposals.
-cfp_date_end: 2021-07-31T00:00:00+02:00 # close your call for proposals.
+cfp_date_start: 2022-06-14T00:00:00+02:00 # start accepting talk proposals.
+cfp_date_end: 2022-08-20T00:00:00+02:00 # close your call for proposals.
 cfp_date_announce: # inform proposers of status
 
 cfp_open: "false"
-cfp_link: "https://www.papercall.io/cairo2021" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://www.papercall.io/cairo2022" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: # close registration. Leave blank if registration is not open yet.
@@ -30,21 +30,20 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 # Location
 
 
-coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "" # Defaults to city, but you can make it the venue name.
+coordinates: "30.0890196,31.3299377" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Sultan Hussein Kamel Palace" # Defaults to city, but you can make it the venue name.
 
-
-location_address: "Online Event! Stay Safe!" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "Sultan Hussein Kamel Palace, Heliopolis" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
 #  - name: propose
 #  - name: location
 #  - name: local
-#  - name: registration
-#    url: https://www.secc.org.eg/Event_Registration.asp
-#  - name: agenda
-#    url: https://assets.devopsdays.org/events/2020/cairo/DevopsDays-Cairo-2020-Agenda.pdf
-#  - name: speakers
+  - name: registration
+    url: https://secc.org.eg/English/Pages/Event_Registration.aspx
+  - name: agenda
+    url: https://secc.org.eg/English/MediaCenter/Events/Documents/DevOpDays-Cairo-2022-Conference-Program.pdf
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -82,12 +81,32 @@ organizer_email: "cairo@devopsdays.org" # Put your organizer email address here
 sponsors:
  - id: foss
    level: community
+   url: #
  - id: egyptinnovate
    level: community
  - id: tiec
    level: community
- - id: amecse
-   level: community
+ - id: innotech
+   level: silver
+ - id: fekra
+   level: silver
+ - id: accflex
+   level: gold
+ - id: bluecloud
+   level: gold
+ - id: ntsal
+   level: gold
+ - id: meemdev
+   level: gold
+ - id: eps
+   level: gold
+   url: #
+ - id: cegedim
+   level: platinum
+ - id: trufla
+   level: platinum
+ - id: effvision
+   level: platinum
    
  #- id: egyptinnovate
  #  level: community

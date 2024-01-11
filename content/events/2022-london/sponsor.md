@@ -58,13 +58,13 @@ Description = "Sponsor DevOpsDays London 2022"
                 <center><span class="badge badge-success">Available</span></center>
               </th>
               <th>
-                <center><span class="badge badge-success">Available</span></center>
+                <center><span class="badge badge-warning">Not Available</span></center>
               </th>
               <th>
-                <center><span class="badge badge-success">Available</span></center>
+                <center><span class="badge badge-warning">Not Available</span></center>
               </th>
               <th>
-                <center><span class="badge badge-success">Available</span></center>
+                <center><span class="badge badge-warning">Not Available</span></center>
               </th>
             </tr>
             <tr>

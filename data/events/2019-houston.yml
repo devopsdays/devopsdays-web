@@ -87,7 +87,7 @@ team_members: # Name is the only required field for team members.
     image: "reginald-davis.jpg"
     linkedin: "https://www.linkedin.com/in/reginald-j-davis/"
     bio: "Reggie is a self-taught programmer turned cloud engineer who has a passion for designing cloud architecture, increasing developer efficiency through the practice of DevOps, and improving the culture of technology by creating highly collaborative environments. Co-founder of the meetup group, 'Tech for the Culture' and co-organizer of Ng-Houston."
-  - name: "Ryan Hillard" 
+  - name: "Ryan Hillard"
     employer: "U.S. Small Business Administration"
     linkedin: "https://www.linkedin.com/in/ryanhillard/"
     github: "rchillard"
@@ -117,11 +117,11 @@ sponsors:
     level: platinum
   - id: dynatrace
     level: platinum
-  - id: twosigma
+  - id: twosigma-before-20230603
     level: gold
   - id: datadog
     level: gold
-  - id: influxdata
+  - id: influxdata-before-20220629
     level: gold
   - id: mongodb
     level: gold
@@ -131,7 +131,7 @@ sponsors:
     level: gold
   - id: cloudbees-before-20210804
     level: gold
-  - id: elastic
+  - id: elastic-before-20221004
     level: gold
   - id: microsoft
     level: gold
@@ -169,7 +169,7 @@ sponsor_levels:
     max: 10
   - id: silver
     label: Silver
-    max: 4 
+    max: 4
   - id: bronze
     label: Bronze
     max: 5
@@ -213,7 +213,7 @@ program:
     date: 2019-04-16
     start_time: "10:45"
     end_time: "12:00"
-    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill<br/>  
+    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill<br/>
       &nbsp; &nbsp; *Required*: Laptop, and accounts on GitHub, CircleCI, DockerHub."
   - title: "aaron-aldrich"
     type: talk
@@ -250,7 +250,7 @@ program:
     date: 2019-04-16
     start_time: "14:15"
     end_time: "15:30"
-    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill<br/>  
+    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill<br/>
       &nbsp; &nbsp; *Required*: Laptop and AWS account"
   - title: "sagar-karmarkar"
     type: talk
@@ -335,7 +335,7 @@ program:
     date: 2019-04-17
     start_time: "10:45"
     end_time: "12:00"
-    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill<br/>  
+    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill<br/>
       &nbsp; &nbsp; *Required*: Laptop with RDP"
   - title: "shaun-ladewig"
     type: talk
@@ -372,7 +372,7 @@ program:
     date: 2019-04-17
     start_time: "14:15"
     end_time: "15:30"
-    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill<br/>  
+    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill<br/>
       &nbsp; &nbsp; *Required*: Laptop with Kubernetes, kubectl, Helm, and accounts on GCP, Azure, AWS, or DO"
   - title: "john-esser"
     type: talk
@@ -434,4 +434,4 @@ ignites:
     date: "2019-04-16"
   - title: "dan-kirkpatrick"
     date: "2019-04-16"
-    
+

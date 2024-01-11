@@ -1,7 +1,7 @@
 +++
 Title = "Christian Camilo Gómez"
 #Twitter = "Ana_M_Medina"
-image = "Christian-Camilo-Gomez.png"
+image = "christian-camilo-gomez.png"
 type = "speaker"
 linktitle = "christian-gomez"
 LinkedIn = "https://www.linkedin.com/in/chrisgpz/"

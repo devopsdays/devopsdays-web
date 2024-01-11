@@ -1,7 +1,7 @@
 +++
 Title = "JJ Álvarez"
 #Twitter = ""
-image = "JJ-Alvarez.png"
+image = "jj-alvarez.png"
 type = "speaker"
 linktitle = "jj-alvarez"
 

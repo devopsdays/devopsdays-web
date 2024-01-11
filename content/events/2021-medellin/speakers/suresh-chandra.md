@@ -1,7 +1,7 @@
 +++
 Title = "Suresh Chandra Bose G"
 #Twitter = "Ana_M_Medina"
-image = "Suresh-Chandra.png"
+image = "suresh-chandra.png"
 type = "speaker"
 linktitle = "Suresh-Chandra"
 LinkedIn = "www.linkedin.com/in/gsubose/"

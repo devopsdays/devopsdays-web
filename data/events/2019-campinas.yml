@@ -101,7 +101,7 @@ sponsors:
     level: gold
   - id: signalfx
     level: gold
-  - id: newrelic
+  - id: newrelic-before-20220808
     level: gold
   - id: dextra
     level: gold
@@ -113,7 +113,7 @@ sponsors:
     level: community
   - id: devcamp
     level: community
-  - id: elastic
+  - id: elastic-before-20221004
     level: bronze
   - id: netbr
     level: gold

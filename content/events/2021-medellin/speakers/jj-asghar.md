@@ -1,7 +1,7 @@
 +++
 Title = "JJ Asghar"
 Twitter = "twitter.com/jjasghar"
-image = "JJ-Asghar.png"
+image = "jj-asghar.png"
 type = "speaker"
 linktitle = "JJ-Asghar"
 #Website = "https://robrich.org/presentations"

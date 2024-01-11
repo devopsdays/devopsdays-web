@@ -52,7 +52,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: silver
   - id: netapp
     level: silver
-  - id: elastic
+  - id: elastic-before-20221004
     level: silver
   - id: sonatype-before-20190121
     level: bronze

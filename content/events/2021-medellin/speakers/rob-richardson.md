@@ -1,7 +1,7 @@
 +++
 Title = "Rob Richardson"
 Twitter = "@rob_rich"
-image = "Rob-Richardson.png"
+image = "rob-richardson.png"
 type = "speaker"
 linktitle = "rob-richardson"
 Website = "https://robrich.org/presentations"

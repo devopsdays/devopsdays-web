@@ -85,7 +85,7 @@ organizer_email: "los-angeles@devopsdays.org" # Put your organizer email address
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: appdynamics
+  - id: appdynamics-before-20220714
     level: gold
   - id: confluent-before-20220426
     level: gold
@@ -103,7 +103,7 @@ sponsors:
     level: gold
   - id: harness
     level: gold
-  - id: influxdata
+  - id: influxdata-before-20220629
     level: gold
   - id: launch-darkly-before-20200828
     level: gold
@@ -115,7 +115,7 @@ sponsors:
     level: gold
   - id: scout-before-20210622
     level: gold
-  - id: site24x7
+  - id: site24x7-before-20230414
     level: gold
   - id: sonatype
     level: gold

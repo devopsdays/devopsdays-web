@@ -3,12 +3,6 @@ Title = "Location"
 Type = "event"
 Description = "Location for devopsdays Buffalo 2022"
 +++
-
-## <a name="virtual">Virtual:
-
-For the virtual part of this conference, we will communicate using the DevOpsDays Buffalo Discord server and will be streaming the talks via YouTube. The link to the server will be provided to attendees via their registration email a few days prior to the event.
-
-Whether you purchased a ticket to the physical or the virtual-only event, the first half of the day - on both days - will begin with a virtual portion. 
 ## <a name="seneca-one"></a>Seneca One Tower:
 
 After two years of pandemic conference planning, we are looking forward to returning to a more traditional event. To kick things off right, we wanted to select a venue that focused around tech and innovation, as well as highlight some of the exciting investment and development happenings across the Buffalo region. We wanted to find an option that felt closer to the action and that could help showcase the region’s rebirth.

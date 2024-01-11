@@ -122,7 +122,7 @@ sponsors:
     level: silver
   - id: akeyless
     level: silver
-  - id: contino
+  - id: contino-before-20230823
     level: silver
   - id: datadog
     level: gold
@@ -140,9 +140,9 @@ sponsors:
     level: gold
   - id: instana
     level: silver
-  - id: solarwinds
+  - id: solarwinds-before-20240105
     level: gold
-  - id: appdynamics
+  - id: appdynamics-before-20220714
     level: gold
   - id: stackrox
     level: silver
@@ -152,7 +152,7 @@ sponsors:
     level: silver
   - id: xmatters
     level: silver
-  - id: site24x7
+  - id: site24x7-before-20230414
     level: silver
   - id: honeycomb
     level: silver
@@ -168,17 +168,17 @@ sponsors:
     level: silver
   - id: vmware-tanzu
     level: gold
-  - id: googlecloud
+  - id: googlecloud-before-20220526
     level: silver
   - id: fastly
     level: silver
   - id: circleci
     level: social
-  - id: paloaltonetworks
+  - id: paloaltonetworks-before-20230321
     level: social
   - id: redis-labs
     level: silver
-  - id: twosigma
+  - id: twosigma-before-20230603
     level: captioning
   - id: lightstep
     level: silver

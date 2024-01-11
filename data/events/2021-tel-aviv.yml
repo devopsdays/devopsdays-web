@@ -191,7 +191,7 @@ sponsors:
     level: community
   - id: env0
     level: community
-  - id: elastic
+  - id: elastic-before-20221004
     level: community
   - id: soluto
     level: community
@@ -239,7 +239,7 @@ sponsors:
     level: other
   - id: soluto
     level: other
-  - id: hashicorp
+  - id: hashicorp-before-20220811
     level: other
   - id: kaltura
     level: other

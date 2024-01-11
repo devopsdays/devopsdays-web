@@ -75,27 +75,27 @@ sponsors:
     level: gold
   - id: virtru
     level: gold
-  - id: influxdata
+  - id: influxdata-before-20220629
     level: gold
-  - id: appdynamics
+  - id: appdynamics-before-20220714
     level: gold
   - id: gitlab-before-20220516
     level: gold
   - id: instana
     level: gold
-  - id: newrelic
+  - id: newrelic-before-20220808
     level: gold
-  - id: site24x7
+  - id: site24x7-before-20230414
     level: gold
   - id: sonatype
     level: gold
-  - id: paloaltonetworks
+  - id: paloaltonetworks-before-20230321
     level: gold
   - id: mattermost
     level: gold
   - id: hcl
     level: silver
-  - id: delphix
+  - id: delphix-before-20220810
     level: silver
   - id: rancher
     level: silver

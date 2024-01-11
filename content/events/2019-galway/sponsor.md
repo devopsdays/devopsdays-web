@@ -103,7 +103,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
       </div>
     </div>
     <div class="col-md-3 col-sm-12">
-      <a href="https://assets.devopsdays.org/events/2019/galway/2019_DevOps_Days_Galway_Pitch_OnePager.pdf"><img src="/events/2019-galway/2019_DevOps_Days_Galway_Pitch_OnePager.png" class="img-fluid"></a>
+      <a href="https://assets.devopsdays.org/events/2019/galway/2019_DevOps_Days_Galway_Pitch_OnePager.pdf"><img src="/events/2019-galway/2019_devops_days_galway_pitch_onepager.png" class="img-fluid"></a>
     </div>
   </div>
 </div>

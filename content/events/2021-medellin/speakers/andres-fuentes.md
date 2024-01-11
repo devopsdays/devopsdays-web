@@ -1,7 +1,7 @@
 +++
 Title = "Andres Fuentes"
 #Twitter = "http://twitter.com/thedavedev"
-image = "Andres-Fuentes.png"
+image = "andres-fuentes.png"
 type = "speaker"
 linktitle = "Andres-Fuentes"
 LinkedIn = "https://www.linkedin.com/in/andresfuentes"

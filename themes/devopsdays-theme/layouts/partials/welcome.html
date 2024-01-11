@@ -89,37 +89,35 @@
 
         {{- if $e.city -}}
           {{- $.Scratch.Set "past-counter" 0 -}}
-          {{- range sort $.Site.Data.events "startdate" -}}
-          {{- if .startdate -}}
-          {{- if ne .cancel "true" -}}
-
-            {{- if $e.event_group -}}
-              {{- if eq .event_group $e.event_group -}}
-                  {{- if and (ne .startdate $e.startdate) (ne ($.Scratch.Get "past-counter") 1 ) -}}
-                    <i>Other {{ $e.event_group }} Events</i><br />
-                    {{- $.Scratch.Set "past-counter" 1 -}}
-                  {{- end -}}
-                  {{- if ne .startdate $e.startdate -}}
-                    <a href = "{{ (printf "/events/%s" .name) }}" class="welcome-page-masthead-link">{{ dateFormat "2006" .startdate }}</a> &nbsp;&nbsp;
-                  {{- end -}}
-              {{- end -}}
-            {{- else -}}
-
-              {{- if eq (lower .city) (lower $e.city) -}}
-                {{- if and (ne .startdate $e.startdate) (ne ($.Scratch.Get "past-counter") 1 ) -}}
-                  <i>Other {{ $e.city }} Events</i><br />
-                  {{- $.Scratch.Set "past-counter" 1 -}}
+          
+          {{/* Determine if city name our event group name will be used for matching to build the "other X events" list*/}}
+          {{ $otherTitle := $e.city}}
+          {{- if $e.event_group -}}
+            {{ $otherTitle = $e.event_group}}
+          {{- end -}}
+          
+          {{/* Filter events on city or event_group name to build "other X events" list*/}}
+          {{ $other := slice }}
+          {{- range $.Site.Data.events -}}
+            {{- if ne .cancel "true" -}}
+              {{- if and (.startdate) (ne .startdate $e.startdate) -}}
+                {{- if or (eq (lower .city) (lower $otherTitle)) (eq (lower .event_group) (lower $otherTitle)) -}}
+                  {{ $other = append . $other  }}
                 {{- end -}}
-                {{- if ne .startdate $e.startdate -}}
-                  <a href = "{{ (printf "/events/%s" .name) }}" class="welcome-page-masthead-link">{{ dateFormat "2006" .startdate }}</a> &nbsp;&nbsp;
-                {{- end -}}
-              {{- end -}}
-              {{- end -}}
-            {{- end -}}
+              {{- end -}}              
             {{- end -}}
           {{- end -}}
-          <br /><br />
-        {{- end -}}
+
+          {{- if ne (len $other) 0 -}}
+            <i>Other {{ $otherTitle }} Events</i><br />
+            {{- range sort $other "startdate" -}}
+              <a href = "{{ (printf "/events/%s" .name) }}" class="welcome-page-masthead-link">{{ dateFormat "2006" .startdate }}</a> &nbsp;&nbsp;
+            {{- end -}}
+          {{- end -}}
+
+        {{- end -}}        
+        <br /><br />
+      
 </div>
 
  <div class="col-xs-12 col-md-4">

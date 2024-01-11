@@ -1,7 +1,7 @@
 +++
 Title = "Alberto Dominguez"
 #Twitter = "Ana_M_Medina"
-image = "Alberto-Domiinguez.png"
+image = "alberto-domiinguez.png"
 type = "speaker"
 linktitle = "alberto-dominguez"
 LinkedIn = "https://www.linkedin.com/in/albertodominguezs/"

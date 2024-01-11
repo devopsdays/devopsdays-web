@@ -48,7 +48,7 @@ sponsors:
     level: sponsor
   - id: cloudbolt
     level: sponsor
-  - id: contrast_security
+  - id: contrast_security-before-20221014
     level: sponsor
   - id: cyberark-before-20180816
     level: sponsor
@@ -58,7 +58,7 @@ sponsors:
     level: startup
   - id: dynatrace
     level: sponsor
-  - id: influxdata
+  - id: influxdata-before-20220629
     level: sponsor
   - id: kaizenops-before-20181008
     level: sponsor
@@ -66,9 +66,9 @@ sponsors:
     level: sponsor
   - id: microsoft
     level: sponsor
-  - id: newrelic
+  - id: newrelic-before-20220808
     level: sponsor
-  - id: portworx
+  - id: portworx-before-20220630
     level: sponsor
   - id: scalyr
     level: sponsor

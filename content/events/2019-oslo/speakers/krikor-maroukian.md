@@ -1,7 +1,7 @@
 +++
 Title = "Krikor Maroukian"
 Twitter = ""
-image = "Krikor_Maroukian.png"
+image = "krikor_maroukian.png"
 type = "speaker"
 linktitle = "krikor-maroukian"
 

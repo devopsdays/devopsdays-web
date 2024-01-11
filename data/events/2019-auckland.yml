@@ -132,7 +132,7 @@ proposal_email:   "proposals-auckland-2019@devopsdays.org" # Put your proposal e
 sponsors:
   - id: 2019-nz-sumologic
     level: platinum
-  - id: googlecloud
+  - id: googlecloud-before-20220526
     level: platinum
   - id: microsoftnz
     level: platinum
@@ -142,7 +142,7 @@ sponsors:
     level: gold
   - id: rancher
     level: gold
-  - id: hashicorp
+  - id: hashicorp-before-20220811
     level: gold
   - id: pagerduty
     level: gold

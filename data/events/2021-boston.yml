@@ -114,7 +114,7 @@ organizer_email: "boston@devopsdays.org" # Put your organizer email address here
 sponsors:
   - id: styra
     level: platinum
-  - id: solo
+  - id: solo-before-20220919
     level: platinum
   - id: vmware-tanzu
     level: platinum
@@ -122,7 +122,7 @@ sponsors:
     level: platinum
   - id: capitalone
     level: platinum
-  - id: chef
+  - id: chef-before-20220901
     level: platinum
   - id: cloudtruth
     level: platinum

@@ -109,13 +109,13 @@ organizer_email: "houston@devopsdays.org" # Put your organizer email address her
 sponsors:
   - id: launch-darkly
     level: gold
-  - id: twosigma
+  - id: twosigma-before-20230603
     level: gold
   - id: abs
     level: corporate
-  - id: influxdata
+  - id: influxdata-before-20220629
     level: platinum
-  - id: appdynamics
+  - id: appdynamics-before-20220714
     level: gold
   - id: datadog
     level: gold
@@ -125,7 +125,7 @@ sponsors:
     level: bronze
   - id: arundo
     level: corporate
-  - id: improving  
+  - id: improving
     level: gold
   - id: corva
     level: corporate
@@ -135,9 +135,9 @@ sponsors:
     level: community
   - id: decisiohealth
     level: silver
-  - id: elastic
+  - id: elastic-before-20221004
     level: gold
-  - id: contrast_security
+  - id: contrast_security-before-20221014
     level: platinum
   - id: houston-devops-meetup
     level: community
@@ -177,7 +177,7 @@ sponsors:
     level: bronze
   - id: circleci
     level: bronze
-    
+
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -193,12 +193,12 @@ sponsor_levels:
     max: 15
   - id: silver
     label: Silver
-    max: 4 
+    max: 4
   - id: bronze
     label: Bronze
     max: 0 # This is the same as omitting the max limit.
   - id: corporate
-    label: Corporate 
+    label: Corporate
   - id: community
     label: Community
   - id: lunch
@@ -207,7 +207,7 @@ sponsor_levels:
   - id: breakfast
     label: Breakfast
     max: 2
-    
+
 program:
   - title: "Registration, Breakfast, Sponsor Booths Open"
     type: custom
@@ -331,7 +331,7 @@ program:
     date: 2021-09-22
     start_time: "10:00"
     end_time: "10:20"
-    background_color: "#D0D0D0"   
+    background_color: "#D0D0D0"
   - title: "austin-king"
     type: talk
     date: 2021-09-22
@@ -416,8 +416,8 @@ program:
     date: 2021-09-22
     start_time: "17:15"
     end_time: "17:25"
-    background_color: "#D0D0D0"   
-    
+    background_color: "#D0D0D0"
+
 ignites:
   - title: "veer-muchandi"
     date: "2021-09-21"

@@ -20,7 +20,7 @@ cfp_date_announce: 2019-07-15T12:00:00-05:00 # inform proposers of status
 
 cfp_link: "https://www.papercall.io/dod-dfw-2019" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-masthead_background: "PlanoEventCenter.jpg"
+masthead_background: "planoeventcenter.jpg"
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: # close registration. Leave blank if registration is not open yet.
@@ -236,7 +236,7 @@ sponsors:
     level: platinum
   - id: statefarm
     level: platinum
-  - id: securecodewarrior
+  - id: securecodewarrior-before-20230424
     level: gold
   - id: pagerduty-before-20190930
     level: silver
@@ -258,7 +258,7 @@ sponsors:
     level: gold
   - id: splitio
     level: gold    
-  - id: newrelic
+  - id: newrelic-before-20220808
     level: gold
   - id: beyondsoft
     level: gold    

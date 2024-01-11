@@ -75,7 +75,7 @@ sponsors:
    level: silver
  - id: lighthouselabs
    level: silver
- - id: hashicorp
+ - id: hashicorp-before-20220811
    level: bronze
  - id: semaphore
    level: bronze

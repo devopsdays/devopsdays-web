@@ -14,17 +14,17 @@ startdate:  2022-10-04T00:00:00-06:00 # The start date of your event. Leave blan
 enddate:  2022-10-05T00:00:00-06:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2022-06-01T00:00:00-06:00 # start accepting talk proposals.
-cfp_date_end:  2022-07-15T00:00:00-06:00 # close your call for proposals.
+cfp_date_start: 2022-05-27T00:00:00-06:00 # start accepting talk proposals.
+cfp_date_end:  2022-07-23T00:00:00-06:00 # close your call for proposals.
 cfp_date_announce: 2022-08-15T00:00:00-06:00 # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://www.papercall.io/devopsdayshouston2022" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: 2022-07-23T00:00:00-05:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2022-10-04T00:00:00-05:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.eventbrite.com/e/devopsdays-houston-2022-tickets-389887382657?aff=devopsdayswebsite" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 sharing_image: "sharing.jpg"
 
@@ -36,13 +36,14 @@ location: "The Ion, Houston" # Defaults to city, but you can make it the venue n
 location_address: "4201 Main St, Houston, TX 77002" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+ # - name: propose
   - name: location
- # - name: registration
- # - name: program
- # - name: speakers
+  - name: registration
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
+  - name: faq
   - name: conduct
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
@@ -55,6 +56,12 @@ team_members: # Name is the only required field for team members.
     employer: "Blue People"
     linkedin: "https://www.linkedin.com/in/alberto-pimentel-945a4321a/"
     image: "alberto-pimentel.jpg"
+    bio: "Alberto Pimentel is the Sales and Marketing Director for Blue People. He has been an active member of the IT ecosystem since 2018, considerably increasing the level of business collaboration among software enterprises and promoting the region's business process skills. He participated in the creation and the execution of several initiatives focused on expanding a higher level of capacity for large IT projects for the international markets. Agile, Scrum, Kanban among other quality models and approaches, have given him extensive knowledge and experience."
+  - name: "Alex Zhanov"
+    employer: "Two Sigma Solutions"
+    linkedin: "https://www.linkedin.com/in/alex-zhanov/"
+    bio: "Alex Zhanov is an experienced technologist with over 25 years in the industry. He has been a software engineer, team lead and an architect, building distributed system solutions in the energy and financial sectors. For all this time he has been a resident of Houston, TX. "
+    image: "alex-zhanov.jpg"
   - name: "Binh Chau"
     employer: "Cloud Partners"
     twitter: ""
@@ -64,6 +71,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/jamie-esker/"
     employer: "Appfire"
     image: "jamie-esker.jpg"
+    bio: "Jamie has worked in sales enablement and marketing for over 12 years within various tech companies. She is currently the Product Marketing Manager for the Developer Tools Category at Appfire, where she promotes Atlassian apps built for DevOps teams."
   - name: "Julia Ito"
     employer: "Appfire"
     linkedin: "https://www.linkedin.com/in/julia-ito-9983721/"
@@ -79,17 +87,23 @@ team_members: # Name is the only required field for team members.
     employer: "Allied Reliability"
     linkedin: "https://www.linkedin.com/in/marcuserickson/"
     image: "marcus-erickson.jpg"
+    bio: "Marcus Erikson has been active in the Houston software development community for 30+ years. He has worn many hats over the years, including
+    developer, architect, product manager, and manager at startups as well as large companies. He is currently the Vice President of Products at
+    Allied Reliability where he drives the creation of the products to help customers optimize production through increasing reliability and uptime of their
+    equipment. He is passionate about creating successful products and teams as well as helping others do the same. When not behind the computer, he
+    is most likely to be found on a local disc golf course honing his skills."
   - name: "Max Day"
     employer: "Improving"
     linkedin: "https://www.linkedin.com/in/maxoday/"
     image: "max-day.jpg"
+    bio: "Max Day is a husband, father of three amazing children, outdoorsy, and loves to serve. He has 20+ years’ achievements in organizational growth, cultivating highly motivated and skilled teams, to achieve organizational goals. Creating high trust relationships, nurturing accounts and providing customized attention to maximize the value to all stakeholders."
   - name: "Svetlana Kryukova"
     employer: "Two Sigma Solutions"
     linkedin: "https://www.linkedin.com/in/svetlana-kryukova/"
     github: "skryukova"
     image: "svetlana-kryukova.jpg"
     bio: "Svetlana is a software development leader with over 20 years of experience in enterprise software. Passionate about building teams, creating new products and solving problems. Co-organizer of Houston DevOps Meetup since June 2018."
-    
+
 organizer_email: "houston@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
@@ -101,8 +115,51 @@ sponsors:
     level: gold
   - id: stackhawk
     level: gold
+  - id: diamanti
+    level: gold
+  - id: datadog
+    level: gold
+  - id: improving
+    level: silver
+  - id: stormforge
+    level: silver
+  - id: edge-delta
+    level: platinum
+  - id: zerto
+    level: platinum
+  - id: codiac
+    level: startup
+  - id: nanovms
+    level: silver
+  - id: outsystems
+    level: silver
+  - id: anjuna
+    level: silver
+  - id: site24x7-before-20230414
+    level: gold
+  - id: redhat
+    level: silver
+  - id: stack-overflow
+    level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
+    level: community
+  - id: solarwinds-before-20240105
+    level: platinum
+  - id: blue-people
+    level: gold
+  - id: opslevel
+    level: gold
+  - id: nobl9-before-20230929
+    level: gold
+  - id: opscruise
+    level: silver
+  - id: reversinglabs
+    level: platinum
+  - id: twosigma-before-20230603
+    level: gold
+    url: https://twosigma.avature.net/eventsignup/eventDetail/Houston-Texas-United-States-DevOps-Days-Houston-October-4th-October-5th/11503
+  - id: gdg-houston
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -112,13 +169,247 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: platinum
+    label: Platinum
+    max: 4
   - id: gold
     label: Gold
-#    max: 10
+    max: 10
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
-  - id: bronze
-    label: Bronze
+    max: 7
+  - id: startup
+    label: Startup Corner
+    max: 10
   - id: community
     label: Community
+
+
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2022-10-04
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2022-10-04
+    start_time: "09:00"
+    end_time: "09:15"
+    background_color: "#D0D0D0"
+  - title: "laura-santamaria"
+    type: talk
+    date: 2022-10-04
+    start_time: "09:15"
+    end_time: "09:45"
+    background_color: "#B4C6E7"
+  - title: "Sponsors"
+    type: custom
+    date: 2022-10-04
+    start_time: "09:45"
+    end_time: "10:00"
+    background_color: "#D0D0D0"
+  - title: "paul-novarese"
+    type: talk
+    date: 2022-10-04
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Break, Visit Sponsor Booth"
+    type: custom
+    date: 2022-10-04
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "dan-kirkpatrick"
+    # "Workshop: Building a K8s Internal Developer Platform"
+    type: workshop
+    date: 2022-10-04
+    start_time: "10:45"
+    end_time: "12:00"
+    comments: "&nbsp; &nbsp; *Where*: Room 30-31 on the lower level"
+  - title: "sean-odell"
+    type: talk
+    date: 2022-10-04
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "monica-miller"
+    type: talk
+    date: 2022-10-04
+    start_time: "11:40"
+    end_time: "12:10"
+  - title: "Lunch, Visit Sponsor Booths"
+    type: custom
+    date: 2022-10-04
+    start_time: "12:10"
+    end_time: "13:00"
+  - title: "daniel-watrous"
+    type: talk
+    date: 2022-10-04
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Open Space (Attendee Led Breakout Session) Organizing"
+    type: custom
+    date: 2022-10-04
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Break, Visit Sponsor Booth"
+    type: custom
+    date: 2022-10-04
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: "jim-barton"
+    # "Workshop: Cloud-Native Foundations: An Interactive Envoy Proxy Workshop"
+    type: workshop
+    date: 2022-10-04
+    start_time: "14:15"
+    end_time: "15:30"
+    comments: "&nbsp; &nbsp; *Where*: Room 30-31 on the lower level"
+  - title: "matthew-brahms"
+    type: talk
+    date: 2022-10-04
+    start_time: "14:30"
+    end_time: "15:00"
+  - title: "roni-dover"
+    type: talk
+    date: 2022-10-04
+    start_time: "15:10"
+    end_time: "15:40"
+  - title: "Open Space (Attendee Led Breakout Session) Break"
+    type: custom
+    date: 2022-10-04
+    start_time: "15:40"
+    end_time: "15:50"
+  - title: "Open Space (Attendee Led Breakout Session) #1"
+    type: open-space
+    date: 2022-10-04
+    start_time: "15:50"
+    end_time: "16:20"
+  - title: "Open Space (Attendee Led Breakout Session) Break"
+    type: custom
+    date: 2022-10-04
+    start_time: "16:20"
+    end_time: "16:30"
+  - title: "Open Space (Attendee Led Breakout Session) #2"
+    type: open-space
+    date: 2022-10-04
+    start_time: "16:30"
+    end_time: "17:00"
+  - title: "Closing"
+    type: custom
+    date: 2022-10-04
+    start_time: "17:00"
+    end_time: "17:15"
+  - title: "Happy Hour"
+    type: custom
+    date: 2022-10-04
+    start_time: "17:15"
+    end_time: "20:00"
+    background_color: "#C6E0B4"
+
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2022-10-05
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2022-10-05
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "kim-hales"
+    type: talk
+    date: 2022-10-05
+    start_time: "09:15"
+    end_time: "09:45"
+    background_color: "#B4C6E7"
+  - title: "Sponsors"
+    type: custom
+    date: 2022-10-05
+    start_time: "09:45"
+    end_time: "10:00"
+  - title: "mark-peters"
+    type: talk
+    date: 2022-10-05
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Break, Visit Sponsor Booth"
+    type: custom
+    date: 2022-10-05
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "sagar-kewalramani"
+    type: workshop
+    date: 2022-10-05
+    start_time: "10:45"
+    end_time: "12:00"
+    comments: "&nbsp; &nbsp; *Where*: Room 30-31 on the lower level"
+  - title: "tim-rayburn"
+    type: talk
+    date: 2022-10-05
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "david-stokes"
+    type: talk
+    date: 2022-10-05
+    start_time: "11:40"
+    end_time: "12:10"
+  - title: "Lunch, Visit Sponsor Booths"
+    type: custom
+    date: 2022-10-05
+    start_time: "12:10"
+    end_time: "13:00"
+  - title: "peter-chestna"
+    type: talk
+    date: 2022-10-05
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Open Space (Attendee Led Breakout Session) Organizing"
+    type: custom
+    date: 2022-10-05
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Break, Visit Sponsor Booth"
+    type: custom
+    date: 2022-10-05
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: "mark-freydl"
+    type: workshop
+    date: 2022-10-05
+    start_time: "14:15"
+    end_time: "15:30"
+    comments: "&nbsp; &nbsp; *Where*: Room 30-31 on the lower level"
+  - title: "angel-rivera"
+    type: talk
+    date: 2022-10-05
+    start_time: "14:30"
+    end_time: "15:00"
+  - title: "daniel-kim"
+    type: talk
+    date: 2022-10-05
+    start_time: "15:10"
+    end_time: "15:40"
+  - title: "Open Space (Attendee Led Breakout Session) Break"
+    type: custom
+    date: 2022-10-05
+    start_time: "15:40"
+    end_time: "15:50"
+  - title: "Open Space (Attendee Led Breakout Session) #3"
+    type: open-space
+    date: 2022-10-05
+    start_time: "15:50"
+    end_time: "16:20"
+  - title: "Open Space (Attendee Led Breakout Session) Break"
+    type: custom
+    date: 2022-10-05
+    start_time: "16:20"
+    end_time: "16:30"
+  - title: "Open Space (Attendee Led Breakout Session) #4"
+    type: open-space
+    date: 2022-10-05
+    start_time: "16:30"
+    end_time: "17:00"
+  - title: "Closing"
+    type: custom
+    date: 2022-10-05
+    start_time: "17:00"
+    end_time: "17:15"

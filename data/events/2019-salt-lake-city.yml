@@ -107,7 +107,7 @@ proposal_email: "proposals-salt-lake-city-2019@devopsdays.org"
 sponsors:
     - id: accela
       level: gold
-    - id: appdynamics
+    - id: appdynamics-before-20220714
       level: gold
     - id: chef-before-20210112
       level: gold
@@ -115,11 +115,11 @@ sponsors:
       level: gold
     - id: dynatrace
       level: gold
-    - id: influxdata
+    - id: influxdata-before-20220629
       level: gold
     - id: instana-before-20200127
       level: gold
-    - id: newrelic
+    - id: newrelic-before-20220808
       level: gold
     - id: rundeck-before-20220308
       level: gold

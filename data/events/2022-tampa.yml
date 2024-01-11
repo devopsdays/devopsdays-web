@@ -2,10 +2,10 @@ name: "2022-tampa" # The name of the event. Four digit year with the city name i
 year: "2022" # The year of the event. Make sure it is in quotes.
 city: "Tampa Bay" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaystb" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "Devopsdays is coming to Tampa Bay in 2022!" # Edit this to suit your preferences
+description: "Devopsdays Tampa Bay 2022 on October 21st Register Today!" # Edit this to suit your preferences
 ga_tracking_id: "UA-127670911-1" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 masthead_background: "logo-square.jpg"
-speakers_verbose: "false"
+speakers_verbose: "true"
 
 # All dates are in unquoted YYYY-MM-DD or YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T23:59:59+02:00
 startdate: "2022-10-21" # The start date of your event. Leave blank if you don't have a venue reserved yet.
@@ -21,29 +21,29 @@ cfp_open: "false"
 #cfp_link: "https://www.papercall.io/dodtampabay" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 cfp_link: "https://www.papercall.io/tampadod"
 
-registration_date_start: "" # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: "" # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2022-08-14T00:00:00-05:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2022-10-21T23:59:59-04:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+#registration_link: "https://www.eventbrite.com/e/devopsdays-tampa-bay-2022-tickets-403152729667?aff=devopsdayswebsite" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
-coordinates: "" #  The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+coordinates: "27.762802, -82.634803" #  The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Tampa Bay" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "USF University Student Center 200 6th Ave S St. Petersburg, FL 33701" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
-    url: /events/2022-tampa/propose
-    icon: "book"
+#  - name: propose
+#    url: /events/2022-tampa/propose
+#    icon: "book"
   - name: location
     icon: "map-o"
-#    url: /events/2019-tampa/location
-#  - name: registration
-#  - name: program
-#  - name: speakers
+    url: /events/2022-tampa/location
+  - name: registration
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -54,6 +54,13 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
+  - name: "Keith Sartain"
+    employer: "ConnectWise"
+    facebook: "https://www.facebook.com/kbsartain"
+    linkedin: "https://www.linkedin.com/in/keith-sartain-630b441"
+    website: "http://connectwise.com"
+    image: "keithsartain.jpg"
+    role: "Lead Organizer"
   - name: "James Gress"
     twitter: "jmgress"
     employer: "Accenture"
@@ -62,40 +69,95 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/jamesgress"
     website: "http://accenture.com"
     image: "jamesgress.jpg"
-  - name: "Keith Sartain"
-    employer: "ConnectWise"
-    facebook: "https://www.facebook.com/kbsartain"
-    linkedin: "https://www.linkedin.com/in/keith-sartain-630b441"
-    website: "http://connectwise.com"
-    image: "keithsartain.jpg"
-  - name: "David Neukamm"
-    employer: "Tential"
-    website: "http://www.tential.com/"
-    linkedin: "https://www.linkedin.com/in/davidneukamm/"
-    image: "davidn.jpg" 
+    role: "Lead Organizer"
+  - name: "Chris Ayers"
+    employer: "Microsoft"
+    image: "chrisayers.jpg"
+    twitter: "@Chris_L_Ayers"
+    github: "codebytes"
+    linkedin: "https://www.linkedin.com/in/chris-l-ayers"
+    website: "http://chrislayers.com"
+    role: "Lead Organizer"
   - name: "Troy Koss"
     employer: "Capital One"
     image: "troy-koss.jpg"
+    linkedin: "https://www.linkedin.com/in/troykoss/"
     twitter: ""
-    bio: ""
+    role: "Lead Organizer"
+#  - name: "David Neukamm"
+#    employer: "Tential"
+#    website: "http://www.tential.com/"
+#    linkedin: "https://www.linkedin.com/in/davidneukamm/"
+#    image: "davidn.jpg" 
+  - name: "Seni Aguiar"
+    employer: "infiNetix"
+    website: "https://infinetix.io/"
+    linkedin: "https://www.linkedin.com/in/seniaguiar/"
+    image: "seniguiar.jpg"
+  - name: "Carly Partington"
+    employer: "ZP Group"
+    website: "http://zpgroup.com"
+    linkedin: "https://www.linkedin.com/in/carly-partington-9470b53b/"
+    image: "carlypartington.jpg"
+  - name: "Bjorn Edwin"
+    employer: "Liatrio"
+    website: "https://www.liatrio.com/insights"
+    linkedin: "https://www.linkedin.com/in/bjornedwin/"
+    image: "bjornedwin.jpg"
 
 organizer_email: "tampa@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: nobl9
+  - id: nobl9-before-20230929
     level: platinum
   - id: dynatrace
     level: platinum
-  - id: clumio
-    level: platinum
   - id: env0
-    level: platinum
+    level: lanyard
   - id: spectrocloud
     level: diamond
+  - id: 42crunch
+    level: diamond
+  - id: trendmicro-before-20230130
+    level: platinum
+  - id: edge-delta
+    level: platinum
+  - id: datadog
+    level: platinum
+  - id: sysdig
+    level: platinum
+  - id: diamanti
+    level: platinum
   - id: devopstampabay
     level: community
+  - id: googletampabay
+    level: community
+  - id: tampadevs
+    level: community  
+  - id: site24x7-before-20230414
+    level: platinum  
+  - id: harrisonclarke
+    level: gold
+  - id: xpirit
+    level: gold 
+  - id: xpirit
+    level: swagbag
+  - id: moduscreate
+    level: gold
+  - id: appdynamics-before-20230221
+    level: platinum
+  - id: reversinglabs
+    level: platinum
+  - id: gehtsoft
+    level: gold
+  - id: tampaawsug
+    level: community
+  - id: womeninlinux
+    level: community
+  - id: misource
+    level: gold
     
 #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 # - id: arresteddevops
@@ -113,10 +175,186 @@ sponsor_levels:
     max: 2
   - id: platinum
     label: Platinum
-    max: 6 # This is the same as omitting the max limit.
+    max: 11 # This is the same as omitting the max limit.
+  - id: swagbag
+    label: Swag Bag
+    max: 1
+  - id: lanyard
+    label: Lanyard
+    max: 1
   - id: gold
     label: Gold
   - id: community
     label: Community
 
+program:
+  - title: "Breakfast"
+    type: custom
+    date: 2022-10-21
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Registration"
+    type: custom
+    date: 2022-10-21
+    start_time: "08:00"
+    end_time: "08:30"
+  - title: "Opening"
+    type: custom
+    date: 2022-10-21
+    start_time: "08:50"
+    end_time: "09:00"
+
+  - title: "aaron-rinehart-kn"
+    type: talk
+    date: 2022-10-21
+    background_color: "#FFFA99"
+    start_time: "09:00"
+    end_time: "09:50"
+    comments: "Location: Main Hall"
+
+    
+  - title: "Session 1"
+    type: custom
+    date: 2022-10-21
+  - title: "adarsh-shah-t1"
+    type: talk
+    date: 2022-10-21
+    start_time: "10:10"
+    end_time: "10:50"
+    comments: "Location: The Platform"
+  - title: "gabriel-liechtman-manor-t1"
+    type: talk
+    date: 2022-10-21
+    start_time: "10:10"
+    end_time: "10:50"
+    comments: "Location: The Vault"
+
+  - title: "Session 2"
+    type: custom
+    date: 2022-10-21
+  - title: "marino-wijay-t1"
+    type: talk
+    date: 2022-10-21
+    start_time: "10:55"
+    end_time: "11:35"
+    comments: "Location: The Platform"
+  - title: "jim-barton-t1"
+    type: talk
+    date: 2022-10-21
+    start_time: "10:55"
+    end_time: "11:35"
+    comments: "Location: The Vault"
+
+  - title: "Lightning Talks"
+    type: custom
+    date: 2022-10-21
+  - title: "Ignites DevOps"
+    type: ignite
+    date: 2022-10-21
+    start_time: "11:40"
+    end_time: "12:20"
+    block: ignite-1
+    comments: "Location: The Platform"
+  - title: "Ignites DevSecOps"
+    type: ignite
+    date: 2022-10-21
+    start_time: "11:45"
+    end_time: "12:20"
+    block: ignite-2
+    comments: "Location: The Vault"
+
+  - title: "Lunch"
+    type: custom
+    date: 2022-10-21
+    start_time: "12:20"
+    end_time: "13:10"
+    comments: "Location: Main Hall"
+
+  - title: "Session 3"
+    type: custom
+    date: 2022-10-21
+  - title: "thomas-haver-t1"
+    type: talk
+    date: 2022-10-21
+    start_time: "13:10"
+    end_time: "13:50"
+    comments: "Location: The Platform"
+  - title: "esteban-garcia-t1"
+    type: talk
+    date: 2022-10-21
+    start_time: "13:10"
+    end_time: "13:55"
+    comments: "Location: The Vault"
+
+  - title: "Session 4"
+    type: custom
+    date: 2022-10-21
+  - title: "gerie-owen-t1"
+    type: talk
+    date: 2022-10-21
+    start_time: "14:00"
+    end_time: "14:40"
+    comments: "Location: The Platform"
+  - title: "bill-bensing-t1"
+    type: talk
+    date: 2022-10-21
+    start_time: "14:00"
+    end_time: "14:40"
+    comments: "Location: The Vault"
+
+  - title: "Open Spaces"
+    type: custom
+    date: 2022-10-21
+  - title: "Open Spaces DevOps"
+    type: open-space
+    date: 2022-10-21
+    start_time: "14:45"
+    end_time: "15:20"
+  - title: "Open Spaces Security"
+    type: open-space
+    date: 2022-10-21
+    start_time: "14:45"
+    end_time: "15:20"
+
+  - title: "Session 5"
+    type: custom
+    date: 2022-10-21
+  - title: "marcos-diez-t1"
+    type: talk
+    date: 2022-10-21
+    start_time: "15:25"
+    end_time: "16:05"
+    comments: "Location: The Platform"
+  - title: "jessica-gonser-t1"
+    type: talk
+    date: 2022-10-21
+    start_time: "15:25"
+    end_time: "16:05"
+    comments: "Location: The Vault"
+  - title: "Closing"
+    type: custom
+    date: 2022-10-21
+    start_time: "16:15"
+    end_time: "16:40"
+    comments: "Location: Main Hall"
+
+ignites:
+  - title: "ismet-handzic-t1"
+    date: 2022-10-21
+    block: ignite-1
+  - title: "richard-lewis-t1"
+    date: 2022-10-21
+    block: ignite-1
+  - title: "alex-brewers-t1"
+    date: 2022-10-21
+    block: ignite-1
+  - title: "santosh-hari-t1"
+    date: 2022-10-21
+    block: ignite-2
+  - title: "bradley-ball-t1"
+    date: 2022-10-21
+    block: ignite-2
+  - title: "waldo-g-t1"
+    date: 2022-10-21
+    block: ignite-2
 

@@ -12,7 +12,7 @@ This talk will dive into some of the findings of the DORA research program inclu
 
 1. The highest performers are growing and continue
 2. SRE and DevOps are complementary philosophies.
-3, More teams are leveraging the cloud and see significant benefits from doing so.
+3. More teams are leveraging the cloud and see significant benefits from doing so.
 4. A secure software supply chain is both essential and drives performance.
 5. Good documentation is foundational for successfully implementing DevOps capabilities.
 6. A healthy team culture mitigates burnout during challenging circumstances.

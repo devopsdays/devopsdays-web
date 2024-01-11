@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Scaling DevOps practices with QA"
 Type = "talk"
 Speakers = ["stephen-weinberg"]
+sharing_image = "stephen-weinberg.png"
 +++
 Individual teams are making strides to have a better approach to software development that is in line with DevOps philosophy. But at a larger scale there are still many teams stuck under a backlog of work or in front of a fire hose of new expectations. One of the solutions we found is to mobilize the QA Engineers to help expand the capacity for cultural and process change.
 

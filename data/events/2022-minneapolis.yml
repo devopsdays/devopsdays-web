@@ -36,10 +36,10 @@ location_address: "1001 Marquette Avenue South, Minneapolis, Minnesota, 55403-24
 nav_elements: # List of pages you want to show up in the navigation of your page.
 #  - name: propose
   - name: location
-  - name: registration
-#  - name: program
-#  - name: speakers
-  - name: sponsor
+#  - name: registration
+  - name: program
+  - name: speakers
+#  - name: sponsor
   - name: contact
   - name: conduct
   - name: covid-19-policy
@@ -116,6 +116,50 @@ sponsors:
     level: gold
   - id: cloudbees
     level: silver
+  - id: replicated
+    level: silver
+  - id: planetscale
+    level: gold
+  - id: spacelift
+    level: gold
+  - id: mezmo 
+    level: silver
+  - id: influxdata
+    level: gold
+  - id: medtronic
+    level: silver
+  - id: sonatype
+    level: gold
+  - id: microsoftazure
+    level: gold
+  - id: microsoftazure
+    level: alacarte
+  - id: octopus-deploy
+    level: silver
+  - id: sps_commerce
+    level: platinum
+  - id: datadog
+    level: silver
+  - id: snyk
+    level: gold
+  - id: couchbase
+    level: silver
+  - id: launch-darkly
+    level: silver
+  - id: improving-confluent
+    level: silver
+  - id: herzum
+    level: silver
+  - id: harness
+    level: silver
+  - id: delphix-before-20220810
+    level: silver
+  - id: target
+    level: silver
+  - id: hackthegap
+    level: community
+  - id: splunk
+    level: platinum
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -141,3 +185,193 @@ sponsor_levels:
     max: 6
 
 
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2022-08-01
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2022-08-01
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "kelsey-hightower"
+    type: talk
+    date: 2022-08-01
+    start_time: "09:10"
+    end_time: "09:40"
+  - title: "Sponsors"
+    type: custom
+    date: 2022-08-01
+    start_time: "09:40"
+    end_time: "09:50"
+  - title: "michelle-dhanani"
+    type: talk
+    date: 2022-08-01
+    start_time: "09:50"
+    end_time: "10:20"
+  - title: "Break"
+    type: custom
+    date: 2022-08-01
+    start_time: "10:20"
+    end_time: "10:50"
+  - title: "noelle-notermann"
+    type: talk
+    date: 2022-08-01
+    start_time: "10:50"
+    end_time: "11:20"
+  - title: "Sponsors"
+    type: custom
+    date: 2022-08-01
+    start_time: "11:20"
+    end_time: "11:30"
+  - title: "keith-mattix"
+    type: talk
+    date: 2022-08-01
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch"
+    type: custom
+    date: 2022-08-01
+    start_time: "12:00"
+    end_time: "13:30"
+
+  - title: "Open Space Opening"
+    type: custom
+    date: 2022-08-01
+    start_time: "13:30"
+    end_time: "14:30"
+  - title: "attendee-suggested breakout discussions - Open Space #1"
+    type: custom
+    date: 2022-08-01
+    start_time: "14:30"
+    end_time: "15:15"
+  - title: "attendee-suggested breakout discussions - Open Space #2"
+    type: custom
+    date: 2022-08-01
+    start_time: "15:15"
+    end_time: "16:00"
+  - title: "attendee-suggested breakout discussions - Open Space #3"
+    type: custom
+    date: 2022-08-01
+    start_time: "16:00"
+    end_time: "16:45"
+
+  - title: "Sponsor Happy Hour"
+    type: custom
+    date: 2022-08-01
+    start_time: "17:00"
+    end_time: "18:00"
+
+  - title: "Evening Program & Ignites"
+    type: ignite
+    date: 2022-08-01
+    start_time: "18:00"
+    end_time: "19:30"
+
+
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2022-08-02
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2022-08-02
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "ian-malpass"
+    type: talk
+    date: 2022-08-02
+    start_time: "09:10"
+    end_time: "09:40"
+  - title: "Sponsors"
+    type: custom
+    date: 2022-08-02
+    start_time: "09:40"
+    end_time: "09:50"
+  - title: "rukia-sheikh-mohamed"
+    type: talk
+    date: 2022-08-02
+    start_time: "09:50"
+    end_time: "10:20"
+  - title: "Break"
+    type: custom
+    date: 2022-08-02
+    start_time: "10:20"
+    end_time: "10:50"
+  - title: "marino-wijay"
+    type: talk
+    date: 2022-08-02
+    start_time: "10:50"
+    end_time: "11:20"
+  - title: "nocnica-mellifera"
+    type: talk
+    date: 2022-08-02
+    start_time: "11:25"
+    end_time: "11:55"
+  - title: "Lunch"
+    type: custom
+    date: 2022-08-02
+    start_time: "11:55"
+    end_time: "12:45"
+
+  - title: "Open Space Opening"
+    type: custom
+    date: 2022-08-02
+    start_time: "12:45"
+    end_time: "13:20"
+
+  - title: "sigstore"
+    type: workshop
+    date: 2022-08-02
+    start_time: "13:30"
+    end_time: "15:00"
+
+  - title: "attendee-suggested breakout discussions - Open Space #1"
+    type: custom
+    date: 2022-08-02
+    start_time: "13:30"
+    end_time: "14:10"
+
+  - title: "attendee-suggested breakout discussions - Open Space #2"
+    type: custom
+    date: 2022-08-02
+    start_time: "14:10"
+    end_time: "14:45"
+
+  - title: "Afternoon Break"
+    type: custom
+    date: 2022-08-02
+    start_time: "14:45"
+    end_time: "15:15"
+
+  - title: "Sponsor Giveaway Raffle"
+    type: custom
+    date: 2022-08-02
+    start_time: "15:15"
+    end_time: "16:00"
+
+  - title: "attendee-suggested breakout discussions - Open Space #3"
+    type: custom
+    date: 2022-08-02
+    start_time: "16:00"
+    end_time: "16:45"
+
+
+ignites:
+  - title: "dormain-drewitz"
+    date: 2022-08-01
+  - title: "taylor-barnett"
+    date: 2022-08-01
+  - title: "dylan-miracle"
+    date: 2022-08-01
+  - title: "anusha-malledi"
+    date: 2022-08-01
+  - title: "trip-longworth"
+    date: 2022-08-01
+  - title: "xander-grzywinski"
+    date: 2022-08-01
+  - title: "sophia-stratton"
+    date: 2022-08-01

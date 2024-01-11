@@ -51,7 +51,7 @@ sponsors:
     level: gold
   - id: solvinity
     level: gold
-  - id: stackstate
+  - id: stackstate-before-22062022
     level: gold
   - id: thoughtworks-products-before-20160908
     level: gold
@@ -106,22 +106,22 @@ sponsors:
 sponsor_levels:
   - id: bbq
     label: BBQ
-    max: "1"
+    max: 1
   - id: preevent
     label: "Pre Event"
-    max: "1"
+    max: 1
   - id: beer
     label: Beer
-    max: "1"
+    max: 1
   - id: gold
     label: Gold
-    max: "8"
+    max: 8
   - id: silver
     label: Silver
-    max: "4"
+    max: 4
   - id: bronze
     label: Bronze
-    max: "4"
+    max: 4
   - id: community
     label: Community
 

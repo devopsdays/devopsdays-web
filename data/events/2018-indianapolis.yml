@@ -92,7 +92,7 @@ proposal_email: "proposals-indianapolis-2018@devopsdays.org" # Put your proposal
 sponsors:
   - id: aws
     level: gold
-  - id: influxdata
+  - id: influxdata-before-20220629
     level: gold
   - id: pivotal-before-20190307
     level: gold
@@ -116,7 +116,7 @@ sponsors:
     level: alacarte
   - id: indypy
     level: community
-  - id: indyaws
+  - id: indyaws-before-20230808
     level: community
   - id: datadog
     level: silver
@@ -134,7 +134,7 @@ sponsors:
     level: silver
   - id: mongodb
     level: gold
-  - id: elastic
+  - id: elastic-before-20221004
     level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

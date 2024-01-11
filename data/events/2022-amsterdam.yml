@@ -126,7 +126,7 @@ sponsors:
     level: gold
   - id: solo
     level: gold
-  - id: merkely
+  - id: kosli
     level: gold
   - id: mondoo
     level: gold
@@ -147,14 +147,16 @@ sponsors:
   - id: ogd
     level: lanyard
   # recharge
-  - id: trendmicro
+  - id: trendmicro-before-20230130-before-20230130
     level: recharge
   # foodtrucks
   - id: thefactory
     level: foodtrucks
   - id: adyen
     level: foodtrucks
-  - id: trendmicro
+  - id: trendmicro-before-20230130-before-20230130
+    level: foodtrucks
+  - id: dept
     level: foodtrucks
   # silver
   - id: fullstaq
@@ -163,7 +165,7 @@ sponsors:
     level: silver
   - id: working-spirit
     level: silver
-  - id: googlecloud
+  - id: googlecloud-before-20230502
     level: silver
   - id: devoteam
     level: silver
@@ -171,10 +173,22 @@ sponsors:
     level: silver
   - id: 42crunch
     level: silver
+  - id: trilio
+    level: silver
   # bronze
   - id: stream
     level: bronze
   - id: o11y
+    level: bronze
+  - id: sudoconsultancy
+    level: bronze
+  - id: containersolutions
+    level: bronze
+  - id: ministerievandefensie
+    level: bronze
+  - id: albert-heijn
+    level: bronze
+  - id: stackstate
     level: bronze
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -186,34 +200,34 @@ sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: BBQ
     label: BBQ
-    max: "1"
+    max: 1
   - id: beer
     label: Beer
-    max: "1"
+    max: 1
   - id: coffee
     label: Coffee
-    max: "1"
+    max: 1
   - id: tshirt
     label: T-Shirt
-    max: "1"
+    max: 1
   - id: gold
     label: Gold
-    max: "8"
+    max: 8
   - id: lanyard
     label: Lanyard
-    max: "1"
+    max: 1
   - id: recharge
     label: "Power recharge"
-    max: "1"
-  - id: silver
-    label: Silver
-    max: "8"
+    max: 1
   - id: foodtrucks
     label: "Food Trucks"
-    max: "4"
+    max: 4
+  - id: silver
+    label: Silver
+    max: 8
   - id: bronze
     label: Bronze
-    max: "10"
+    max: 5
 program:
   # Workshop Day
   - title: "Registration, Breakfast, Sponsors"
@@ -234,18 +248,18 @@ program:
     start_time: "09:00"
     end_time: "12:15"
     comments: "Location: Studio (note: 3 hours)"
-  - title: "ws-glenn-anderson"
-    type: workshop
-    date: 2022-06-22T00:00:00+02:00
-    start_time: "09:00"
-    end_time: "12:15"
-    comments: "Location: Meetingroom (note: 3 hours)"
   - title: "ws-pierrick-prevert"
     type: workshop
     date: 2022-06-22T00:00:00+02:00
     start_time: "09:00"
     end_time: "10:30"
     comments: "Location: Grote Zaal"
+  - title: "ws-floor-drees"
+    type: workshop
+    date: 2022-06-22T00:00:00+02:00
+    start_time: "09:00"
+    end_time: "10:30"
+    comments: "Location: Expo"
   # Break
   - title: "Break"
     type: custom
@@ -259,11 +273,11 @@ program:
     start_time: "10:45"
     end_time: "12:15"
     comments: "Location: Grote Zaal"
-  - title: "ws-david-flanagan"
+  - title: "ws-wolter-kamphuis"
     type: workshop
     date: 2022-06-22T00:00:00+02:00
     start_time: "10:45"
-    end_time: "12:15"
+    end_time: "11:30"
     comments: "Location: IJzaal"
   - title: "ws-gabriela-roa"
     type: workshop
@@ -317,12 +331,6 @@ program:
     end_time: "14:30"
     comments: "Location: Expo"
   # 14:30 start
-  - title: "ws-joseph-katsioloudes"
-    type: workshop
-    date: 2022-06-22T00:00:00+02:00
-    start_time: "14:30"
-    end_time: "15:15"
-    comments: "Location: Grote Zaal"
   - title: "ws-christina-aldan"
     type: workshop
     date: 2022-06-22T00:00:00+02:00
@@ -335,6 +343,12 @@ program:
     start_time: "14:30"
     end_time: "15:15"
     comments: "Location: IJzaal"
+  - title: "ws-joseph-katsioloudes"
+    type: workshop
+    date: 2022-06-22T00:00:00+02:00
+    start_time: "14:30"
+    end_time: "15:15"
+    comments: "Location: Grote Zaal"
   # Break
   - title: "Break"
     type: custom
@@ -354,12 +368,6 @@ program:
     start_time: "15:30"
     end_time: "17:00"
     comments: "Location: Studio"
-  - title: "ws-esther-barthel"
-    type: workshop
-    date: 2022-06-22T00:00:00+02:00
-    start_time: "15:30"
-    end_time: "16:15"
-    comments: "Location: Grote Zaal"
   # Celebration time!
   - title: "Drinks and snacks"
     type: custom
@@ -407,12 +415,12 @@ program:
     date: 2022-06-23T00:00:00+02:00
     start_time: "11:00"
     end_time: "11:25"
-  - title: "sarjeel-yusuf"
+  - title: "piet-van-dongen"
     type: talk
     date: 2022-06-23T00:00:00+02:00
     start_time: "11:30"
     end_time: "11:55"
-  - title: "bram-vogelaar"
+  - title: "amber-vanderburg"
     type: talk
     date: 2022-06-23T00:00:00+02:00
     start_time: "12:00"
@@ -457,8 +465,13 @@ program:
     start_time: "14:30"
     end_time: "14:45"
   # Back to our wonderful speakers
-  - title: "lian-li"
+  - title: "bram-vogelaar"
     type: talk
+    date: 2022-06-23T00:00:00+02:00
+    start_time: "14:45"
+    end_time: "15:10"
+  - title: "Open Space Session 1"
+    type: custom
     date: 2022-06-23T00:00:00+02:00
     start_time: "14:45"
     end_time: "15:10"
@@ -467,13 +480,28 @@ program:
     date: 2022-06-23T00:00:00+02:00
     start_time: "15:15"
     end_time: "15:40"
-  - title: "matt-stratton"
+  - title: "Open Space Session 2"
+    type: custom
+    date: 2022-06-23T00:00:00+02:00
+    start_time: "15:15"
+    end_time: "15:40"
+  - title: "marcel-britsch"
     type: talk
     date: 2022-06-23T00:00:00+02:00
     start_time: "15:45"
     end_time: "16:10"
-  - title: "piet-van-dongen"
+  - title: "Open Space Session 3"
+    type: custom
+    date: 2022-06-23T00:00:00+02:00
+    start_time: "15:45"
+    end_time: "16:10"
+  - title: "sarjeel-yusuf"
     type: talk
+    date: 2022-06-23T00:00:00+02:00
+    start_time: "16:15"
+    end_time: "16:40"
+  - title: "Open Space Session 4"
+    type: custom
     date: 2022-06-23T00:00:00+02:00
     start_time: "16:15"
     end_time: "16:40"
@@ -494,7 +522,7 @@ program:
     type: custom
     date: 2022-06-23T00:00:00+02:00
     start_time: "17:45"
-    end_time: "20:00"
+    end_time: "23:00"
 
   # And before you can even miss us, we're back!
   # Day 3!
@@ -509,7 +537,7 @@ program:
     start_time: "09:15"
     end_time: "09:45"
     background_color: "#FF8633"
-  - title: "farah-chabchoub"
+  - title: "stacy-cashmore"
     type: talk
     date: 2022-06-24T00:00:00+02:00
     start_time: "09:45"
@@ -527,7 +555,7 @@ program:
     start_time: "10:45"
     end_time: "11:00"
   # Talks time!
-  - title: "marcel-britsch"
+  - title: "lian-li"
     type: talk
     date: 2022-06-24T00:00:00+02:00
     start_time: "11:00"
@@ -537,7 +565,7 @@ program:
     date: 2022-06-24T00:00:00+02:00
     start_time: "11:30"
     end_time: "11:55"
-  - title: "ricardo-castro"
+  - title: "matt-stratton"
     type: talk
     date: 2022-06-24T00:00:00+02:00
     start_time: "12:00"
@@ -586,8 +614,18 @@ program:
     date: 2022-06-24T00:00:00+02:00
     start_time: "14:45"
     end_time: "15:10"
-  - title: "stacy-cashmore"
+  - title: "Open Space Session 1"
+    type: custom
+    date: 2022-06-24T00:00:00+02:00
+    start_time: "14:45"
+    end_time: "15:10"
+  - title: "farah-chabchoub"
     type: talk
+    date: 2022-06-24T00:00:00+02:00
+    start_time: "15:15"
+    end_time: "15:40"
+  - title: "Open Space Session 2"
+    type: custom
     date: 2022-06-24T00:00:00+02:00
     start_time: "15:15"
     end_time: "15:40"
@@ -596,18 +634,28 @@ program:
     date: 2022-06-24T00:00:00+02:00
     start_time: "15:45"
     end_time: "16:10"
-  - title: "amber-vanderburg"
+  - title: "Open Space Session 3"
+    type: custom
+    date: 2022-06-24T00:00:00+02:00
+    start_time: "15:45"
+    end_time: "16:10"
+  - title: "ricardo-castro"
     type: talk
     date: 2022-06-24T00:00:00+02:00
     start_time: "16:15"
     end_time: "16:40"
-  - title: "Closing Keynote Amsterdam 2022 - Announced soon!"
+  - title: "Open Space Session 4"
     type: custom
     date: 2022-06-24T00:00:00+02:00
+    start_time: "16:15"
+    end_time: "16:40"
+  - title: "stacy-cashmore"
+    type: talk
+    date: 2022-06-24T00:00:00+02:00
     start_time: "16:45"
-    end_time: "17:30"
+    end_time: "17:20"
   - title: "Conference close"
     type: custom
     date: 2022-06-24T00:00:00+02:00
-    start_time: "17:30"
-    end_time: "17:45"
+    start_time: "17:20"
+    end_time: "17:30"

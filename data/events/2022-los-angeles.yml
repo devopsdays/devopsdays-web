@@ -25,7 +25,7 @@ registration_closed: "" #set this to true if you need to manually close registra
 registration_link: "https://register.socallinuxexpo.org/reg6/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Background
-masthead_background: "DevOpsDayLA_Banner.jpg"
+masthead_background: "devopsdayla_banner.jpg"
 
 # Location
 coordinates: "33.9464565,-118.3816615" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
@@ -35,14 +35,17 @@ location_address: "Hilton Los Angeles Airport 5711 W Century Blvd, Los Angeles, 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   # - name: program
   # - name: speakers
+  - name: covid
   - name: venue
     url: https://www.socallinuxexpo.org/scale/19x/venue
   - name: registration
     url: https://register.socallinuxexpo.org/reg6/
-  - name: CFP
-    url: https://docs.google.com/forms/d/e/1FAIpQLSewxucXuZ5nmZYX-nBitrmnr1ZA-O7oc33kheNvoRw1ufEbgg/viewform
-  - name: sponsor
+  # - name: CFP
+  #   url: https://docs.google.com/forms/d/e/1FAIpQLSewxucXuZ5nmZYX-nBitrmnr1ZA-O7oc33kheNvoRw1ufEbgg/viewform
+  - name: program
+  - name: speakers
   - name: volunteer
+  - name: sponsor
   - name: contact
   - name: conduct
   - name: about
@@ -92,7 +95,7 @@ organizer_email: "los-angeles@devopsdays.org" # Put your organizer email address
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: atlasauthority
+  - id: moduscreate
     level: gold
   - id: circleci
     level: gold
@@ -108,7 +111,7 @@ sponsors:
     level: gold
   - id: era
     level: gold
-  - id: gitlab
+  - id: gitlab_about
     level: gold
   - id: gremlin
     level: gold
@@ -132,8 +135,6 @@ sponsors:
     level: gold
   - id: squaredup
     level: gold
-  - id: whitesource
-    level: gold
   - id: blameless
     level: silver
   - id: buildkite
@@ -142,6 +143,14 @@ sponsors:
     level: silver
   - id: sonatype
     level: gold
+  - id: stormforge
+    level: bronze
+  - id: macstadium
+    level: bronze
+  - id: firehydrant
+    level: bronze
+  - id: snyk
+    level: bronze
   - id: scale
     level: community
     url: https://www.socallinuxexpo.org/scale/19x
@@ -161,5 +170,69 @@ sponsor_levels:
     max: 0 # This is the same as omitting the max limit.
   - id: bronze
     label: Startup
+  - id: coffee
+    label: Coffee Break
   - id: community
     label: Community
+
+program:
+  - title: "Workshop canceled due to COVID"
+    type: custom
+    date: 2022-07-28T23:59:59-08:00
+    start_time: "10:00"
+    end_time: "13:00"
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2022-07-29T00:00:00-08:00
+    start_time: "09:00"
+    end_time: "10:00"
+  - title: "matty-stratton"
+    type: talk
+    date: 2022-07-29T00:00:00-08:00
+    start_time: "10:00"
+    end_time: "10:45"
+  - title: "hannah-henderson"
+    type: talk
+    date: 2022-07-29T00:00:00-08:00
+    start_time: "11:00"
+    end_time: "11:45"
+  - title: "Lunch"
+    type: custom
+    date: 2022-07-29T00:00:00-08:00
+    start_time: "12:00"
+    end_time: "13:15"
+  - title: "jeremy-meiss"
+    type: talk
+    date: 2022-07-29T00:00:00-08:00
+    start_time: "13:15"
+    end_time: "13:45"
+  - title: "dan-lines"
+    type: talk
+    date: 2022-07-29T00:00:00-08:00
+    start_time: "13:45"
+    end_time: "14:00"
+  - title: "tony-fatouros"
+    type: talk
+    date: 2022-07-29T00:00:00-08:00
+    start_time: "14:00"
+    end_time: "14:15"
+  - title: "brian-scott"
+    type: talk
+    date: 2022-07-29T00:00:00-08:00
+    start_time: "14:30"
+    end_time: "15:15"
+  - title: "steve-pereira"
+    type: talk
+    date: 2022-07-29T00:00:00-08:00
+    start_time: "15:30"
+    end_time: "16:15"
+  - title: "tony-loehr"
+    type: talk
+    date: 2022-07-29T00:00:00-08:00
+    start_time: "16:30"
+    end_time: "17:15"
+  - title: "Planning Retrospective"
+    type: custom
+    date: 2022-07-29T00:00:00-08:00
+    start_time: "17:30"
+    end_time: "17:45"

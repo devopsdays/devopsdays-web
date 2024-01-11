@@ -1,7 +1,7 @@
 +++
 Title = "Endy Gomez"
 #Twitter = ""
-image = "Endy-Gomez.png"
+image = "endy-gomez.png"
 type = "speaker"
 linktitle = "endy-gomez"
 LinkedIn = "https://www.linkedin.com/in/gomezendy/"

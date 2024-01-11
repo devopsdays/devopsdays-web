@@ -99,9 +99,9 @@ sponsors:
     level: silver
   - id: instana-before-20200127
     level: silver
-  - id: newrelic
+  - id: newrelic-before-20220808
     level: silver
-  - id: portworx
+  - id: portworx-before-20220630
     level: silver
   - id: thoughtworks-gocd-before-20190213
     level: silver

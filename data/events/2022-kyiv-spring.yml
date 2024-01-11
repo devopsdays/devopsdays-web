@@ -1,0 +1,201 @@
+name: "2022-kyiv-spring" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2022" # The year of the event. Make sure it is in quotes.
+city: "Ukraine (Spring)" # The displayed city name of the event. Capitalize it.
+event_group: "Kyiv"
+event_twitter: "devopsdays_kyiv" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "DevOps life in crisis mode" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2022-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2022-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2022-05-17T00:00:00+03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2022-05-18T23:59:59+03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2021-12-07T00:00:00+03:00 # start accepting talk proposals.
+cfp_date_end: 2022-04-15T23:59:59+03:00 # close your call for proposals.
+cfp_date_announce:  # inform proposers of status
+
+cfp_open: "true"
+cfp_link: "https://docs.google.com/forms/d/e/1FAIpQLSdKMc1pLHKB8vqZSn_lnPuu1qjJz-uBiMjAxzlysqutKuXhxQ/viewform" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: 2022-01-01T00:00:00+03:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2022-05-17T23:59:59+03:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://www.eventbrite.co.uk/e/devopsdays-ukraine-registration-313740856347" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "50.449379,30.5209386" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Ukraine" # Defaults to city, but you can make it the venue name.
+#
+location_address:
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+ # - name: propose
+ # - name: location
+  - name: registration
+ # - name: program
+  - name: speakers
+    url: https://devopsdays.com.ua/#speakers
+  - name: donate
+    url: https://devopsdays.com.ua/#donation
+  - name: sponsor
+  - name: contact
+  - name: conduct
+  - name: devopsdays.com.ua
+    url: https://devopsdays.com.ua/
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+
+  - name: "Paul Czarkowski"
+    employer: "Red Hat"
+    bio: "Paul Czarkowski is a long time practitioner of the dark arts of Devops. Hailing from Australia he moved to Austin Texas to help build and run one of the largest and most successful online games. Paul is a Senior Principal Cloud Services Black Belt at Red Hat where he works to accelerate customer's ability to deploy software to public cloud through using Kubernetes, OpenShift and the greater CNCF landscape."
+    image: "paul.jpg"
+    github: "paulczar"
+
+  - name: "Mykola Marzhan"
+    employer: "Canonical"
+    twitter: ""
+    bio: "Mykola has been shorting “Time-to-market” in software companies more than fifteen years. Most of his career he has been focused on the automation of release procedures, and on the development of monitoring, update and deployment systems."
+    github: "delgod"
+    linkedin: "https://www.linkedin.com/in/delgod/"
+    image: "mykola-marzhan.jpg"
+
+  - name: "Oleg Mykolaichenko"
+    employer: "SQUAD"
+    twitter: ""
+    bio: "Head of Infrastructure at SQUAD. Leading distributed DevOps team, adopting CNCF + HashiCorp Stack for complex infrastructures. Kyiv DevOps Community Co-Founder, runs the largest Telegram channel about DevOps in Ukraine and DevOps digests on DOU.UA."
+    linkedin: "https://www.linkedin.com/in/oleg-mykolaichenko-763ab699/"
+    image: "oleg-mykolaichenko.jpg"
+
+  - name: "Yurii Rochniak"
+    employer: "N26"
+    twitter: "grem11n"
+    github: "grem11n"
+    linkedin: "https://linkedin.com/in/yrochnyak/"
+    bio: "Yurii Rochniak is currently an Senior SRE at N26 neobank where he's working on creating an internal self-service platform for engineers. Through his career, he was focusing on infra development and CI/CD topics in the companies of various sizes.
+Yurii is a creator and administrator of CatOps Telegram channel with more than 5k subscribers and an initiator of HashiCorp User Group Kyiv.
+Yurii is originally from Kyiv, but currently located in Berlin. He's into biking and stand up paddleboarding, when the weather allows it."
+    image: "yurii-rochniak.jpg"
+
+  - name: "Sasha Rosenbaum"
+    image: "sasha-rosenbaum.jpg"
+    employer: "Red Hat"
+    twitter: "DivineOps"
+    website: "https://www.sasharosenbaum.com/"
+    linkedin: "https://www.linkedin.com/in/sasha-rosenbaum"
+    bio: "Sasha is a Director on the Cloud Services Black Belts team at Red Hat, where she is helping enterprise customers successfully migrate to managed OpenShift on customers’ favorite public cloud. In her career, Sasha has worked in development, operations, consulting, and cloud architecture. Sasha is an organizer of DevOpsDays Chicago, a chair of DeliveryConf, and a published author."
+
+  - name: "Margaret Valtierra"
+    image: "margaret-valtie.jpg"
+    employer: "Morningstar"
+    twitter: "margaretvaltie"
+    linkedin: "https://www.linkedin.com/in/margaretvaltierra/"
+    github: "margaretvaltie"
+    bio: "Margaret Valtierra is a Program Manager at Morningstar. She runs the AWS Chicago user group, AWS Community Day Midwest, and is a global core organizer for the AWS Community Days. When not at work she can usually be found at the dog park with her dog, Peanut."
+
+organizer_email: "kyiv@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: devopsdaysaustin
+    level: community
+  - id: devopsdayschi
+    level: community
+  - id: vmware-tanzu
+    level: platinum
+  - id: icinga
+    level: silver
+  - id: buildkite
+    level: community
+  - id: teamtopologiesacademy
+    level: platinum
+  - id: kubecon-2022
+    level: platinum
+  - id: cncf
+    level: platinum
+  - id: devinsider
+    level: media
+  - id: itrevolution
+    level: media
+  - id: devopsinstitute
+    level: media
+  - id: dna325
+    level: media
+  - id: happymonday
+    level: media
+  - id: zone3000
+    level: media
+  - id: sysopspolska
+    level: media
+  - id: azure_digest
+    level: media
+  - id: devopsdaysboise
+    level: community
+  - id: devopsdaysportland-or
+    level: community
+  - id: pulumi
+    level: platinum
+  - id: swiss-re
+    level: platinum
+  - id: twilio
+    level: gold
+  - id: github
+    level: gold
+  - id: gitlab
+    level: silver
+  - id: innoq
+    level: silver
+  - id: env0
+    level: silver
+  - id: merkely
+    level: community
+  - id: fusion-auth
+    level: community
+  - id: rootly
+    level: community
+  - id: fwdays
+    level: media
+  - id: devopsdotcom
+    level: media
+  - id: aws
+    level: platinum
+  - id: redhat
+    level: platinum
+  - id: betajob
+    level: community
+  - id: women-in-technology-poland
+    level: media
+  - id: itukraine
+    level: media
+  - id: devopsdaysbirmingham-al
+    level: community
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: platinum
+    label: Platinum
+  - id: gold
+    label: Gold
+  - id: silver
+    label: Silver
+  - id: community
+    label: Supporter
+  - id: media
+    label: Media

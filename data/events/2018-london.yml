@@ -95,9 +95,9 @@ sponsors:
     level: silver
   - id: district4
     level: silver
-  - id: dxw
+  - id: dxw-before-20220811
     level: silver
-  - id: elastic
+  - id: elastic-before-20221004
     level: silver
   - id: engineerbetter
     level: silver
@@ -129,7 +129,7 @@ sponsors:
     level: community
   - id: manc-devops
     level: community
-  - id: doxlon
+  - id: doxlon-before-20230821
     level: community
   - id: belfast-devops
     level: community

@@ -7,6 +7,8 @@ description: "Salt Lake City DevOpsDays" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 cancel: "true"
 
+# event_group: "Salt Lake City"
+# masthead_background: slc-skyline.jpg
 # All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2020-01-04T00:00:00+02:00
 #   variable: 2020-01-05T23:59:59+02:00
@@ -21,30 +23,30 @@ cfp_date_end: 2020-01-07T07:01:00-06:00 # close your call for proposals.
 cfp_date_announce:  2020-03-04T07:01:00-06:00 # inform proposers of status
 
 cfp_open: "false"
-cfp_link:  #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://www.papercall.io/slcdod2020" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start:    # start accepting registration. Leave blank if registration is not open yet
-registration_date_end:     # close registration. Leave blank if registration is not open yet.
+# registration_date_start: 2020-01-28T07:01:00-06:00   # start accepting registration. Leave blank if registration is not open yet
+# registration_date_end: 2020-06-01T01:59:59-06:00     # close registration. Leave blank if registration is not open yet.
 
-registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link:  # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+# registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+# registration_link: "https://www.slcdevopsdays.org/purchase-tickets/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
-coordinates: "40.574494, -111.9022692" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Miller Conference Center"  # Defaults to city, but you can make it the venue name.
+# coordinates: "40.574494, -111.9022692" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+# location: "Miller Conference Center"  # Defaults to city, but you can make it the venue name.
 #
-location_address: "9750 S 300 W Sandy UT 84070" # Optional - use the street address of your venue. This will show up on the welcome page if set.
+# location_address: "9750 S 300 W Sandy UT 84070" # Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: slcdevopsdays.org
     url: https://www.slcdevopsdays.org
-  - name: propose
-  - name: location
- # - name: registration
- # - name: program
- # - name: speakers
- # - name: sponsor
+  # - name: propose
+  # - name: location
+  # - name: registration
+  # - name: program
+  # - name: speakers
+  # - name: sponsor
   - name: contact
   - name: conduct
     url: https://www.slcdevopsdays.org/code-of-conduct/
@@ -122,11 +124,11 @@ sponsors:
     #   level: gold
     # - id: dynatrace
     #   level: gold
-    # - id: influxdata
+    # - id: influxdata-before-20220629
     #   level: gold
     # - id: instana
     #   level: gold
-    # - id: newrelic
+    # - id: newrelic-before-20220808
     #   level: gold
     # - id: rundeck-before-20220308
     #   level: gold
@@ -142,27 +144,28 @@ sponsors:
   #  level: community
   #  url: "https://www.sponsorsurl.com/" # Use this if you need to over-ride a sponsor URL.
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+# sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
-sponsor_levels:
-  - id: platinum
-    label: Platinum
-    max: 1
-  - id: gold
-    label: Gold
-    max: 10 # This is the same as omitting the max limit.
-  - id: silver
-    label: Silver
-    max: 6
-  - id: lanyard
-    label: Lanyard
-    max: 1
-  - id: community
-    label: Community
+# sponsor_levels:
+#   - id: platinum
+#     label: Platinum
+#     max: 1
+#   - id: gold
+#     label: Gold
+#     max: 10 # This is the same as omitting the max limit.
+#   - id: silver
+#     label: Silver
+#     max: 6
+#   - id: lanyard
+#     label: Lanyard
+#     max: 1
+#   - id: community
+#     label: Community
 
 # program:
 #   # Day 1

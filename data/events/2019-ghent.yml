@@ -113,7 +113,7 @@ sponsors:
   # gold
   - id: pagerduty
     level: gold
-  - id: googlecloud
+  - id: googlecloud-before-20220526
     level: gold
   - id: hpe
     level: gold
@@ -121,7 +121,7 @@ sponsors:
     level: gold
   - id: sentia
     level: gold
-  - id: elastic
+  - id: elastic-before-20221004
     level: gold
   - id: chef-before-20210112
     level: gold
@@ -149,7 +149,7 @@ sponsors:
     level: silver
   - id: logz-before-20200211
     level: silver
-  - id: hashicorp
+  - id: hashicorp-before-20220811
     level: silver
   - id: pulumi-before-20220422
     level: silver

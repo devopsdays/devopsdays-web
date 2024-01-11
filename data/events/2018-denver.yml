@@ -83,7 +83,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: bronze
   - id: waffleio
     level: alt
-  - id: elastic
+  - id: elastic-before-20221004
     level: gold
   - id: cloudbees-before-20210804
     level: social

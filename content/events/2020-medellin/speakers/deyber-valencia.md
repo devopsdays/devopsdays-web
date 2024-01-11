@@ -1,7 +1,7 @@
 +++
 Title = "Deyber Valencia"
 #Twitter = ""
-image = "Deyber.png"
+image = "deyber.png"
 type = "speaker"
 linktitle = "deyber-valencia"
 LinkedIn = "https://www.linkedin.com/in/deyber-arley-valencia-g%C3%B3mez-a2691458/"

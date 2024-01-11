@@ -1,7 +1,7 @@
 +++
 Title = "Arturo García"
 #Twitter = ""
-image = "Arturo-Garcia.png"
+image = "arturo-garcia.png"
 type = "speaker"
 linktitle = "arturo-garcia"
 LinkedIn = "https://www.linkedin.com/in/ptoarturogarcia"

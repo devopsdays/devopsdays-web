@@ -93,7 +93,7 @@ sponsors:
     level: gold
   - id: catchpoint
     level: gold
-  - id: mondoo
+  - id: mondoo-before-20220615
     level: silver
   - id: brumjs
     level: community

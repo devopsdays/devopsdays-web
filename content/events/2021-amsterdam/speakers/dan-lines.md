@@ -1,7 +1,7 @@
 +++
 Title = "Dan Lines"
 Twitter = "linknfg182"
-image = "Dan_Lines.jpg"
+image = "dan_lines.jpg"
 type = "speaker"
 linktitle = "dan-lines"
 

@@ -1,7 +1,7 @@
 +++
 Title = "Santiago Montoya Varela"
 #Twitter = "http://twitter.com/thedavedev"
-image = "Santiago-Montoya.png"
+image = "santiago-montoya.png"
 type = "speaker"
 linktitle = "Santiago-Montoya"
 LinkedIn = "https://www.linkedin.com/in/santiago-montoya-b31191a4/"

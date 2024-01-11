@@ -18,7 +18,7 @@ cfp_date_start: 2021-11-01  # start accepting talk proposals.
 cfp_date_end: 2022-01-30 # close your call for proposals.
 cfp_date_announce: 2021-11-22 # inform proposers of status
 
-cfp_link: "https://www.papercall.io/devopsdays-2022-birmingham-al" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2022-03-01 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 registration_date_end: 2022-04-19 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
@@ -36,7 +36,6 @@ location_address: "1600 3rd Ave S, Birmingham, AL 35233" #Optional - use the str
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
   - name: location
-  - name: registration
   - name: program
   - name: speakers
   - name: sponsor
@@ -80,7 +79,7 @@ sponsors:
     level: host
   - id: adtrav
     level: bronze
-  - id: stratusgrid
+  - id: stratusgrid-before-20231114
     level: bronze
   - id: digital-motion
     level: bronze
@@ -92,11 +91,12 @@ sponsors:
     level: silver
   - id: tailored-automation
     level: coffee
-  - id: trendmicro
+  - id: trendmicro-before-20230130
     level: silver
   - id: shipt
     level: host
-
+  - id: circleci
+    level: drinks
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -119,6 +119,9 @@ sponsor_levels:
   - id: coffee
     max: 1
     label: Coffee
+  - id: drinks
+    max: 1
+    label: Drinks
 
 program:
   - title: "Registration, Breakfast, Visit Sponsors"

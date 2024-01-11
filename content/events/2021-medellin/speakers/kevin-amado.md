@@ -1,7 +1,7 @@
 +++
 Title = "Kevin Amado"
 #Twitter = "http://twitter.com/thedavedev"
-image = "Kevin-Amado.png"
+image = "kevin-amado.png"
 type = "speaker"
 linktitle = "Kevin-Amado"
 LinkedIn = "https://www.linkedin.com/in/kamadorueda/"

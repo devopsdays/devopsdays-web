@@ -5,7 +5,7 @@ Description = "Sponsor devopsdays Amsterdam 2022"
 +++
 
 <h5>
-<p>devopsdays is made possible by our sponsors. If you are interested in joining our band of supporters, please drop us an email at [{{< email_organizers >}}].</p>
+<p>devopsdays is made possible by our sponsors. This year again we have sold out all our sponsor packages. Please consider sponsoring another devopsdays event like <a href="https://devopsdays.org/events/2022-eindhoven/sponsor">devopsdays Eindhoven</a>.</p>
 <p><a href="https://assets.devopsdays.org/events/2022/amsterdam/2022_prospectus_amsterdam.pdf">A downloadable version of our prospectus is available here.</a></p>
 </h5>
 

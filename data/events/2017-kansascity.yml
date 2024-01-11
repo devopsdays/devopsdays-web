@@ -156,7 +156,7 @@ sponsors:
     level: silver
   - id: teksystems
     level: bronze
-  - id: newrelic
+  - id: newrelic-before-20220808
     level: gold
   - id: messenger-coffee
     level: community

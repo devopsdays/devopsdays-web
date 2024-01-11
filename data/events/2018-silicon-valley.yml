@@ -87,11 +87,11 @@ sponsors:
     level: gold
   - id: treasuredata
     level: gold
-  - id: contrast_security
+  - id: contrast_security-before-20221014
     level: gold
   - id: appdynamics-before-20190121
     level: gold
-  - id: gcp
+  - id: gcp-before-20220712
     level: gold
   - id: kaizenops-before-20181008
     level: silver

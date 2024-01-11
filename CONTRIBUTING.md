@@ -10,19 +10,37 @@ If you'd like to edit a specific devopsdays event site (and/or contribute code),
 
 ### Quick Overview
 
-1. Install [Hugo](http://gohugo.io). Use the Hugo version that we use in [.circleci/config.yml](https://github.com/devopsdays/devopsdays-web/blob/main/.circleci/config.yml) file. [(Quick Install)](https://gohugo.io/getting-started/installing#binary-cross-platform)
-Examples of hugo installation with a version:  
- - maxOS: `brew install hugo@0.67.1`
- - linux: `brew install hugo@0.67.1`
- - windows: `choco install hugo -confirm --version 0.67.1 --allow-downgrade`
-  
-2. [Fork](https://help.github.com/articles/fork-a-repo/) this repo and clone a copy locally.
+1. Have the ability to run Hugo. This can be done locally or through
+   Docker.
+1. [Fork](https://help.github.com/articles/fork-a-repo/) this repo and clone a copy locally.
+
+#### Run Hugo with Docker (Recommended)
+
+1. Start docker
+1. Run `./hugoserver.sh` from the root of this repo.
+
+#### Run Hugo locally
+
+  1. Install [Hugo](http://gohugo.io). Use the Hugo version that we use in [.github/workflows/hugo.yml](https://github.com/devopsdays/devopsdays-web/blob/main/.github/workflows/hugo.yml) file. [(Quick Install)](https://gohugo.io/getting-started/installing#binary-cross-platform)
+Examples of hugo installation with a version:
+   - maxOS: `brew install hugo@0.67.1`
+   - linux: `brew install hugo@0.67.1`
+   - windows: `choco install hugo -confirm --version 0.67.1 --allow-downgrade`
+
 
 ### View site locally
 
 To watch for changes and rebuild on the fly, open a new terminal, change directories to your fork of the repo, and execute the following:
 
 ```
+# Run through Docker (recommended)
+./hugoserver.sh
+```
+
+or
+
+```
+# Run with your local Hugo installation
 hugo server -w --baseUrl="http://localhost:1313"
 ```
 
@@ -133,8 +151,7 @@ If you have permissions to merge PRs on this repo, here are a few guidelines to 
 
 The following tests run when a PR is submitted:
 
-1. [CircleCI](https://circleci.com/gh/devopsdays/devopsdays-web) - this test confirms that the site can be built with Hugo on linux, and it runs an `html-min` gulp task which will identify if there is any invalid HTML in the site. This protects the final build, so if the CircleCI build or test jobs fail, please take a look as to why they failed.
-1. [Appveyor](https://ci.appveyor.com/project/DevOpsDays/devopsdays-web) - this test builds Hugo on Windows, to ensure that no Windows-incompatible files have been included. If Appveyor tests fail, merge at your own discretion, based upon the failure reason.
+1. [GitHub Actions](https://github.com/devopsdays/devopsdays-web/actions) - a set of tests that confirm that all files are lowercase (in order to be friendly among all platforms people may use), that the site can be built with Hugo on Linux (ubuntu-latest) and Windows (windows-latest). There is also a test in which gulp will run html-min in order to identity if there is any invalid HTML. All three jobs (lint, build on Linux, and build on Windows) are required in order to deploy with Netlify -- regardless if the Netlify test passed or not.  
 1. [Netlify](https://app.netlify.com/sites/devopsdays-web) - this test builds the site, and hosts an ephemeral preview version of it (viewable by clicking on the "details" link next to the test once it has turned green). It's a good idea to view this "deploy preview" if the PR has changed anything significant (adding a sponsor, etc, probably not...but changing content in a large way? Yes.)
 
 ## Local Previews

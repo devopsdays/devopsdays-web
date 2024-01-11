@@ -1,7 +1,7 @@
 +++
 Title = "Josua Castro Vicente"
 #Twitter = "http://twitter.com/thedavedev"
-image = "Josua-Castro.png"
+image = "josua-castro.png"
 type = "speaker"
 linktitle = "Josua-Castro"
 LinkedIn = "https://www.linkedin.com/in/josuacvga/"

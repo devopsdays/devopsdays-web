@@ -100,9 +100,9 @@ proposal_email: "proposals-moscow-2018@devopsdays.org" # Put your proposal email
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: Logrocon
+  - id: logrocon
     level: organizational
-  - id: YEx
+  - id: yex
     level: organizational  
   - id: holiday-inn-sokolniki
     level: venuesponsor

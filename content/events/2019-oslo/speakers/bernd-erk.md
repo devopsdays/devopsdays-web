@@ -1,7 +1,7 @@
 +++
 Title = "Bernd Erk"
 Twitter = "gethash"
-image = "Bernd_Erk.jpg"
+image = "bernd_erk.jpg"
 type = "speaker"
 linktitle = "bernd-erk"
 +++

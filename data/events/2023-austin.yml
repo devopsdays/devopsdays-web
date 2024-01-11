@@ -1,0 +1,224 @@
+name: "2023-austin" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2023" # The year of the event. Make sure it is in quotes.
+city: "Austin" # The displayed city name of the event. Capitalize it.
+event_twitter: "DoDAustin" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "DevOpsDays Austin" # Edit this to suit your preferences
+
+masthead_background: "tx-state-capitol-bw.jpg"
+
+ga_tracking_id: "UA-335242-8" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2022-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2022-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2023-05-04T00:00:00-05:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2023-05-05T00:00:00-05:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2023-01-13T00:17:00-05:00
+cfp_date_end: 2023-02-26T00:23:59-05:00
+cfp_date_announce: 2023-01-13T00:17:00-05:00 # inform proposers of status
+
+cfp_link: "https://sessionize.com/devopsdays-austin-2023/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: 2023-02-01T00:00:00-05:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2023-05-04T05:00:00-05:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://www.eventbrite.com/e/devopsdays-austin-2023-tickets-528911387197" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "30.283975,-97.734504" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Etter-Harbin Alumni Center" # Defaults to city, but you can make it the venue name.
+#
+location_address: "2110 San Jacinto Boulevard, Austin, Texas 78712" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  # - name: propose
+  - name: schedule
+  - name: registration
+  - name: speakers
+  - name: location
+  - name: contact
+  - name: sponsor
+  - name: conduct
+  - name: covid
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Dan Zentgraf"
+    twitter: "danzentgraf"
+    linkedin: "https://www.linkedin.com/in/zentgraf/"
+    image: "dan.jpg"
+  - name: "Boyd Hemphill"
+    twitter: "behemphi"
+    github: "behemphi"
+    linkedin: "https://www.linkedin.com/in/boydhemphill/"
+    image: "boyd.jpg"
+  - name: "Richard Boyd"
+    twitter: "richardboydii"
+    github: "richardboydii"
+    linkedin: "https://www.linkedin.com/in/richardboydii/"
+    image: "rich.jpg"
+  - name: "Daria Ilic"
+    twitter: "dariailic"
+    linkedin: "https://www.linkedin.com/in/dariailic/"
+    image: "daria.png"
+  - name: "JJ Asghar"
+    twitter: "jjasghar"
+    github: "jjasghar"
+    facebook: ""
+    linkedin: ""
+    image: "jj.jpg"
+  - name: "Asif Ahmad"
+    twitter: "dabrownkid84"
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/asifahmad1/"
+    image: "asif.jpg"
+  - name: "Laura Wickett"
+    twitter: "conference_ops"
+    linkedin: "https://www.linkedin.com/in/laurawickett/"
+    image: "laura.jpg"
+  - name: "Shaun Mouton"
+    twitter: "sdmouton"
+    github: "moutons"
+    facebook: "http://tirefi.re/facebook/"
+    linkedin: "https://www.linkedin.com/in/sdmouton/"
+    image: "shaun.jpg"
+  - name: "Marisa Sawatphadungkij"
+    linkedin: "https://www.linkedin.com/in/mar1sa/"
+    image: "marisa.jpg"
+  - name: "Laura Santamaria"
+    twitter: "nimbinatus"
+    github: "nimbinatus"
+    website: "https://linktr.ee/nimbinatus"
+    image: "laura-santamaria.jpg"
+  - name: "Nigel Brown"
+    github: "pnbrown"
+    linkedin: "https://www.linkedin.com/in/pnigelbrown/"
+    image: "nigel.jpg"
+  - name: "Oliver Eikenberry"
+    linkedin: "https://www.linkedin.com/in/oeikenberry/"
+    image: "oliver.jpg"
+  - name: "Tracy P Holmes"
+    twitter: "tracypholmes"
+    linkedin: "https://www.linkedin.com/in/tracypholmes/"
+    image: "tracy.jpg"
+  - name: "Chris Blumentritt"
+    twitter: "cblument"
+    github: "cblument"
+    linkedin: "https://www.linkedin.com/in/chrisblumentritt/"
+    image: "chris-b.jpg"
+  - name: "Tim Banks"
+    twitter: "elchefe"
+    github: "timbanks"
+    linkedin: "https://www.linkedin.com/in/timjb/"
+    image: "tim.jpeg"
+  - name: "Karl Katzke"
+    github: "karlkatzke"
+    linkedin: "https://www.linkedin.com/in/karlkatzke"
+    image: "karl.jpg"
+  - name: "Jeremy Tanner"
+    twitter: "penguin"
+    github: "jeremytanner"
+    linkedin: "https://www.linkedin.com/in/jeremytanner"
+    image: "jeremy.jpg"
+  - name: "Julie Coleman"
+    github: "julielaursen"
+    linkedin: "https://www.linkedin.com/in/julie-coleman-laursen-79b7a83/"
+    image: "julie.jpg"
+  - name: "Rudy McComb"
+    twitter: "rudymccomb"
+    github: "rudymccomb"
+    linkedin: "https://www.linkedin.com/in/rudymccomb"
+    image: "rudy.jpg"
+
+organizer_email: "austin@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+#  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+#   - id: arresteddevops
+#     level: community
+  - id: newrelic
+    level: platinum
+  - id: dell-technologies
+    level: gold
+    url: https://developer.dell.com
+  - id: prosper-ops
+    level: gold
+  - id: catchpoint-2023
+    level: gold
+  - id: site24x7
+    level: gold
+  - id: cloudbees
+    level: gold
+  - id: trendmicro
+    level: gold
+  - id: aptible
+    level: gold
+  - id: logz-2023 # I know this isn't the logo they sent us, but it's pretty common to leave it if they're sponsoring other conferences.
+    level: gold
+  - id: rackn
+    level: gold
+  - id: tricentis
+    level: gold
+  - id: suse
+    level: gold
+  - id: appdynamics
+    level: gold
+  - id: isovalent
+    level: gold
+  - id: armory-2023
+    level: gold
+  - id: ustglobal # reused
+    level: gold
+  - id: acorn
+    level: gold
+  - id: harness
+    level: gold
+  - id: vmware-tanzu-horiz
+    level: lanyard  
+  - id: tailscale-black
+    level: coffee
+  - id: raft
+    level: happyhour
+  - id: lightstep
+    level: happyhour
+  - id: kong
+    level: happyhour
+  - id: civo
+    level: happyhour
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: platinum
+    label: Platinum
+    max: 2
+  - id: gold
+    label: Gold
+    max: 16
+  - id: lanyard
+    label: Lanyard
+    max: 1
+  - id: coffee
+    label: Coffee Bar
+    max: 1
+  - id: happyhour
+    label: Happy Hour
+    max: 4
+

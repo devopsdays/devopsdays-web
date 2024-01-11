@@ -71,7 +71,7 @@ organizer_email: "toronto@devopsdays.org" # Put your organizer email address her
 sponsors:
   - id: pagerduty
     level: gold
-  - id: trendmicro
+  - id: trendmicro-before-20230130
     level: gold
   - id: cyberark
     level: gold
@@ -85,7 +85,7 @@ sponsors:
     level: lanyard
   - id: scotiabank
     level: gold
-  - id: appdynamics
+  - id: appdynamics-before-20220714
     level: gold
   - id: codefresh
     level: gold
@@ -95,9 +95,9 @@ sponsors:
     level: gold
   - id: logz
     level: silver
-  - id: elastic
+  - id: elastic-before-20221004
     level: gold
-  - id: googlecloud
+  - id: googlecloud-before-20220526
     level: gold
   - id: chef-before-20210112
     level: gold
@@ -105,7 +105,7 @@ sponsors:
     level: gold
   - id: vmware
     level: gold
-  - id: newrelic
+  - id: newrelic-before-20220808
     level: silver
   - id: redhat
     level: gold
@@ -123,7 +123,7 @@ sponsors:
     level: chargingstation
   - id: deloitte
     level: gold
-  - id: hashicorp
+  - id: hashicorp-before-20220811
     level: gold
 
 

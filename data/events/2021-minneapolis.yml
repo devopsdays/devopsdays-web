@@ -112,7 +112,7 @@ organizer_email: "minneapolis@devopsdays.org" # Put your organizer email address
 sponsors:
   - id: arresteddevops
     level: community
-  - id: hackthegap
+  - id: hackthegap-before-20220707
     level: community
   - id: softwaredefinedtalk
     level: community
@@ -120,11 +120,11 @@ sponsors:
     level: community
   - id: technovation-mn
     level: community
-  - id: appdynamics
+  - id: appdynamics-before-20220714
     level: gold
   - id: redhat
     level: silver
-  - id: hashicorp
+  - id: hashicorp-before-20220811
     level: gold
   - id: mattermost
     level: silver
@@ -160,7 +160,7 @@ sponsors:
     level: silver
   - id: kong
     level: silver
-  - id: chef
+  - id: chef-before-20220901
     level: gold
   - id: dynatrace
     level: gold
@@ -168,7 +168,7 @@ sponsors:
     level: gold
   - id: accurics
     level: gold
-  - id: influxdata
+  - id: influxdata-before-20220629
     level: gold
   - id: datadog
     level: silver

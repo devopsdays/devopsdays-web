@@ -128,7 +128,7 @@ proposal_email: "proposals-boston-2018@devopsdays.org" # Put your proposal email
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: klaviyo
+  - id: klaviyo-before-20230929
     level: gold
   - id: mesosphere
     level: gold
@@ -166,13 +166,13 @@ sponsors:
     level: gold
   - id: catchpoint-before-20220331
     level: platinum
-  - id: elastic
+  - id: elastic-before-20221004
     level: platinum
   - id: cloudbolt
     level: gold
   - id: verizon
     level: platinum
-  - id: newrelic
+  - id: newrelic-before-20220808
     level: gold
   - id: victorops
     level: platinum

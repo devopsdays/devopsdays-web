@@ -1,7 +1,7 @@
 +++
 Title = "Rain Leander"
 Twitter = "rainleander"
-image = "Rain_Leander.jpeg"
+image = "rain_leander.jpeg"
 type = "speaker"
 linktitle = "rain-leander"
 

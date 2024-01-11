@@ -4,8 +4,18 @@ Type = "event"
 Description = "Registration for devopsdays Charlotte 2022"
 +++
 
-<div style="width:100%; text-align:left;">
+<div id="eventbrite-widget-container-346283171287"></div>
 
-Embed registration iframe/link/etc.
-</div></div>
-</div>
+<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+
+<script type="text/javascript">
+    window.EBWidgets.createWidget({
+        // Required
+        widgetType: 'checkout',
+        eventId: '346283171287',
+        iframeContainerId: 'eventbrite-widget-container-346283171287',
+
+        // Optional
+        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+    });
+</script>

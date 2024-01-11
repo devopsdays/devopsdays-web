@@ -84,7 +84,7 @@ team_members: # Name is the only required field for team members.
   - name: "Jarrod Lombardo"
     role: "Organizer"
     twitter: "jaberwocky"
-    image: "Jarrod-square.jpg"
+    image: "jarrod-square.jpg"
   - name: "Kelly Shkuratoff"
     twitter: "kshkuratoff"
     image: "kelly-shkuratoff.png"

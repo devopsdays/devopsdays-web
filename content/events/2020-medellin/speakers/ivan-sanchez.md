@@ -1,7 +1,7 @@
 +++
 Title = "Ivan Sanchez"
 #Twitter = ""
-image = "Ivan-Sanchez.png"
+image = "ivan-sanchez.png"
 type = "speaker"
 linktitle = "ivan-sanchez"
 LinkedIn = "https://www.linkedin.com/in/idsanchezf/"

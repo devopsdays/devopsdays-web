@@ -84,7 +84,7 @@ sponsors:
     level: bluesquare
   - id: logz-before-20170613
     level: blackdiamond
-  - id: newrelic
+  - id: newrelic-before-20220808
     level: blackdiamond
   - id: pivotal-before-20190307
     level: blackdiamond
@@ -95,7 +95,7 @@ sponsors:
     url: http://www.opsgenie.com/?utm_source=Events&utm_campaign=DevOpsDays_SLC_%20May&utm_medium=banner
   - id: pure-storage-before-20190114
     level: bluesquare
-  - id: elastic
+  - id: elastic-before-20221004
     level: blackdiamond
   - id: netapp
     level: blackdiamond

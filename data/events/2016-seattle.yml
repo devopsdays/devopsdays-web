@@ -38,7 +38,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: capitalone
     level: gold
-  - id: newrelic
+  - id: newrelic-before-20220808
     level: gold
   - id: datadog
     level: gold

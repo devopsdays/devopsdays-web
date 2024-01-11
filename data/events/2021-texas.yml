@@ -140,7 +140,7 @@ organizer_email: "texas@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: twosigma
+  - id: twosigma-before-20230603
     level: bronze
   - id: bridgecrew
     level: gold
@@ -148,11 +148,11 @@ sponsors:
   - id: env0
     level: gold
     url: "https://www.env0.com/?utm_campaign=devopsdays-texas&utm_source=devopsdays-texas&utm_medium=sponsorship"
-  - id: chef
+  - id: chef-before-20220901
     level: gold
   - id: buurst-inc
     level: bronze
-  - id: site24x7
+  - id: site24x7-before-20230414
     level: gold
   - id: arresteddevops
     level: community
@@ -169,7 +169,7 @@ sponsors:
   - id: statefarm
     level: caption
     url:  https://jobs.statefarm.com/main/career-areas/technology-and-user-experience-careers
-   
+
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -188,7 +188,7 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
-    
+
 # program:
   # - title: "Hallway time"
     # type: custom
@@ -400,7 +400,7 @@ sponsor_levels:
     # date: 2021-03-03T16:59:59+05:00
     # start_time: "16:55"
     # end_time: "17:00"
-    
+
 # ignites:
   # - title: "matt-stratton"
     # date: "2021-03-02T08:00:00+05:00"

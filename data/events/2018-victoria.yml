@@ -74,7 +74,7 @@ sponsors:
    level: silver
  - id: stembolt
    level: bronze
- - id: hashicorp
+ - id: hashicorp-before-20220811
    level: bronze
  - id: brainhunter
    level: bronze

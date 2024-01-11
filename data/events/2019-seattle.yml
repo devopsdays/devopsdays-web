@@ -82,11 +82,11 @@ proposal_email: "proposals-seattle-2019@devopsdays.org" # Put your proposal emai
 sponsors:
   - id: thoughtworks-gocd
     level: gold
-  - id: influxdata
+  - id: influxdata-before-20220629
     level: gold
   - id: f5
     level: gold
-  - id: appdynamics
+  - id: appdynamics-before-20220714
     level: gold
   - id: datadog
     level: gold
@@ -104,7 +104,7 @@ sponsors:
     level: gold
   - id: codefresh
     level: gold
-  - id: newrelic
+  - id: newrelic-before-20220808
     level: gold
   - id: catchpoint-before-20220331
     level: gold
@@ -126,7 +126,7 @@ sponsors:
     level: gold
   - id: pagerduty-before-20190930
     level: gold
-  - id: site24x7
+  - id: site24x7-before-20230414
     level: gold
   - id: split-software
     level: gold

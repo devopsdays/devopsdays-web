@@ -175,7 +175,7 @@ sponsors:
     level: premium
   - id: dynatrace
     level: premium
-  - id: contrast_security
+  - id: contrast_security-before-20221014
     level: premium
   - id: chef-before-20210112
     level: premium
@@ -201,7 +201,7 @@ sponsors:
     level: premium
   - id: new-context
     level: social
-  - id: newrelic
+  - id: newrelic-before-20220808
     level: premium
   - id: hrblock
     level: supporting
@@ -215,15 +215,15 @@ sponsors:
     level: supporting
   - id: kairos
     level: supporting
-  - id: appdynamics
+  - id: appdynamics-before-20220714
     level: premium
-  - id: googlecloud
+  - id: googlecloud-before-20220526
     level: premium
   - id: signalfx
     level: premium
   - id: stackrox
     level: premium
-  - id: googlecloud
+  - id: googlecloud-before-20220526
     level: coffee
   - id: equipmentshare
     level: lunch

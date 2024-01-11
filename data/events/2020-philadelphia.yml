@@ -84,7 +84,7 @@ organizer_email: "philadelphia@devopsdays.org" # Put your organizer email addres
 sponsors:
   - id: gitlab-before-20220516
     level: silver
-  - id: appdynamics
+  - id: appdynamics-before-20220714
     level: silver
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops

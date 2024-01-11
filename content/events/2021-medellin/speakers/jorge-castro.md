@@ -1,7 +1,7 @@
 +++
 Title = "Jorge Luis Castro Toribio"
 #Twitter = "twitter.com/arapulido"
-image = "Jorge-Castro.png"
+image = "jorge-castro.png"
 type = "speaker"
 linktitle = "Jorge-Castro"
 LinkedIn = "https://www.linkedin.com/in/jorgeluiscastrotoribio/"

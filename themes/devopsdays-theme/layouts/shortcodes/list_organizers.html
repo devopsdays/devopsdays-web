@@ -5,7 +5,7 @@
         <div class="col-xl-3 col-lg-4 col-md-6 organizer-card">
           <div class = "card h-100" style="max-width: 300px;padding-left:0px;padding-right:0px">
             <div class = "card-header">
-              <h3>{{ .name }}</h3>
+              <h3>{{ .name }}{{- if .pronouns }} ({{ .pronouns }}){{- end }}</h3>
               {{- if .role -}}
                 <h4> {{ .role }}</h4>
               {{- else -}}
@@ -43,6 +43,9 @@
                 {{- if .gitlab -}}
                     <a href = "https://gitlab.com/{{ .gitlab}}"><i class="fa fa-gitlab fa-2x" aria-hidden="true"></i></a>&nbsp;
                 {{- end -}}
+                {{- if .mastodon -}}
+                    <a href = "{{ .mastodon }}"><i class="fab fa-mastodon fa-2x" aria-hidden="true"></i></a>&nbsp;
+                    {{- end -}}
             </div>
           </div>
         </div>

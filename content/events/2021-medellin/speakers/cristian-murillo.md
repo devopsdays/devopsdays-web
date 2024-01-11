@@ -1,7 +1,7 @@
 +++
 Title = "Cristian Murillo Villegas"
 #Twitter = "http://twitter.com/thedavedev"
-image = "Cristian-Murillo.png"
+image = "cristian-murillo.png"
 type = "speaker"
 linktitle = "Cristian-Murillo-Villegas"
 LinkedIn = "https://co.linkedin.com/in/cristianmurillovillegas"

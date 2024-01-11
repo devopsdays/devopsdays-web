@@ -80,7 +80,7 @@ proposal_email: "proposals-chattanooga-2019@devopsdays.org" # Put your proposal 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: appdynamics
+  - id: appdynamics-before-20220714
     level: gold
   - id: tva
     level: gold

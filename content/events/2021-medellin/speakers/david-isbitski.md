@@ -1,7 +1,7 @@
 +++
 Title = "David Isbitski"
 Twitter = "http://twitter.com/thedavedev"
-image = "David-Isbitski.png"
+image = "david-isbitski.png"
 type = "speaker"
 linktitle = "David-Isbitski"
 LinkedIn = "https://www.linkedin.com/in/davidisbitski/"

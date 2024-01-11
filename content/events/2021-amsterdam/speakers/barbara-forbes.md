@@ -1,7 +1,7 @@
 +++
 Title = "Barbara Forbes"
 Twitter = "Ba4bes"
-image = "Barbara_Forbes.jpg"
+image = "barbara_forbes.jpg"
 type = "speaker"
 linktitle = "barbara-forbes"
 

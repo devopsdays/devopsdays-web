@@ -1,7 +1,7 @@
 +++
 Title = "Bridget Kromhout"
 Twitter = "bridgetkromhout"
-image = "Bridget_Kromhout.png"
+image = "bridget_kromhout.png"
 type = "speaker"
 linktitle = "bridget-kromhout"
 +++

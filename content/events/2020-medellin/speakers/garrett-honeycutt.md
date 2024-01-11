@@ -1,7 +1,7 @@
 +++
 Title = "Garrett Honeycutt"
 #Twitter = ""
-image = "Garrett.png"
+image = "garrett.png"
 type = "speaker"
 linktitle = "garrett-honeycutt"
 LinkedIn = "https://www.linkedin.com/in/garretthoneycutt/"

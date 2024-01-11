@@ -1,7 +1,7 @@
 +++
 Title = "Carlos Andrés Cardona"
 #Twitter = "Ana_M_Medina"
-image = "Carlos-Cardona.png"
+image = "carlos-cardona.png"
 type = "speaker"
 linktitle = "Carlos-Cardona"
 LinkedIn = "https://www.linkedin.com/in/candres0819/"

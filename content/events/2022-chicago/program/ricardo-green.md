@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "How Officiating Football Prepared me for DevSecOps"
 Type = "talk"
 Speakers = ["ricardo-green"]
+sharing_image = "ricardo-green.png"
 +++
 My fall avocation for the last 17 years has been officiating football. For the last 10 years, on every Saturday in the fall, you could find me at a college stadium somewhere in the Northeast part of the country. I've had the privilege of working with a multitude of officials, all with differing opinions on what they might consider holding, but all with the unifying attitude of working the best game we've ever worked for the 2 teams that are playing that day. In college football officiating we are a 7 man team, all with specific responsibilities, all dependent on each other to work together as a unit.
 

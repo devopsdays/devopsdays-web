@@ -1,7 +1,7 @@
 +++
 Title = "Evelyn van Kelle"
 Twitter = "EvelynvanKelle"
-image = "Evelyn_Van_Kelle.jpg"
+image = "evelyn_van_kelle.jpg"
 type = "speaker"
 linktitle = "evelyn-van-kelle"
 

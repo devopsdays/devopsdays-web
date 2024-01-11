@@ -1,7 +1,7 @@
 +++
 Title = "Amber Vanderburg"
 #Twitter = ""
-image = "Amber.png"
+image = "amber.png"
 type = "speaker"
 linktitle = "amber-vanderburg"
 LinkedIn = "https://www.linkedin.com/in/amber-vanderburg-86817833/"

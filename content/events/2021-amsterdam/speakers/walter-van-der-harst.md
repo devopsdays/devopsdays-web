@@ -1,7 +1,7 @@
 +++
 Title = "Walter van der Harst"
 Twitter = ""
-image = "Walter_van_der_Harst.jpeg"
+image = "walter_van_der_harst.jpeg"
 type = "speaker"
 linktitle = "walter-van-der-harst"
 +++

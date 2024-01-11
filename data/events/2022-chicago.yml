@@ -27,6 +27,7 @@ registration_closed: "" #set this to true if you need to manually close registra
 registration_link: "https://www.universe.com/embed2/events/devopsdays-chicago-2022-tickets-chicago-932F4Z" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 masthead_background: "skyline-night.jpg"
+sharing_image: "chi-sharing.png"
 
 # Location
 #
@@ -39,11 +40,13 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: propose
   - name: location
   - name: registration
- # - name: program
+  - name: program
   - name: speakers
-  - name: sponsor
+  # - name: volunteer
   - name: contact
   - name: conduct
+  - name: COVID 19 Policy
+    url: /events/2022-chicago/covid
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -52,8 +55,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Brian Andersen"
-    employer: "NextCapital"
-    bio: "Brian Andersen is a Senior DevOps Engineer at NextCapital.  Prior to joining NextCapital, he made a living as production support for a large, multinational bank and an Atlassian consultant for a small local firm.  In his free time he plays (possibly) an unhealthy amount of games, both of the video and board variety. He also has really enjoys visiting cities with zoos in them."
+    employer: "Basis"
+    bio: "Brian Andersen is a Senior Systems Engineer at Basis.  In his free time he plays (possibly) an unhealthy amount of games, both of the video and board variety. He also has really enjoys visiting cities with zoos in them."
     linkedin: "https://www.linkedin.com/in/brian-andersen-9a16587"
     image: "brian-andersen.jpg"
   - name: "Albert Cheung"
@@ -103,16 +106,15 @@ team_members: # Name is the only required field for team members.
     twitter: "DivineOps"
     website: "https://www.sasharosenbaum.com/"
     linkedin: "https://www.linkedin.com/in/sasha-rosenbaum"
-    bio: "Sasha is a Sr. Manager on the Managed OpenShift Black Belt (MOBB) team at Red Hat, where she is helping enterprise customers successfully migrate to managed OpenShift on customers’ favorite public cloud. In her career, Sasha has worked in development, operations, consulting, and cloud architecture. Sasha is an organizer of DevOpsDays Chicago, a chair of DeliveryConf, and a published author."
+    bio: "Sasha is a Sr. Manager on the Managed OpenShift Black Belt (MOBB) team at Red Hat, where she is helping enterprise customers successfully migrate to managed OpenShift on customers' favorite public cloud. In her career, Sasha has worked in development, operations, consulting, and cloud architecture. Sasha is an organizer of DevOpsDays Chicago, a chair of DeliveryConf, and a published author."
     github: "DivineOps"
   - name: "Matt Stratton"
     image: "matt-stratton.jpg"
     twitter: "mattstratton"
-    employer: "Pulumi"
     website: "https://www.mattstratton.com"
     linkedin: "https://www.linkedin.com/in/mattstratton"
     github: "mattstratton"
-    bio: "Matt Stratton is a Staff Developer Advocate at Pulumi, founder and co-host of the popular [Arrested DevOps](https://www.arresteddevops.com/) podcast, and the global chair of the [DevOpsDays](https://www.devopsdays.org/)  set of conferences. Matt has over 20 years of experience in IT operations and  is a sought-after speaker internationally, presenting at Agile, DevOps, and cloud engineering focused events worldwide. Demonstrating his keen insight into the changing landscape of technology, he recently changed his license plate from `DEVOPS` to `KUBECTL`. He lives in Chicago and has three awesome kids, whom he loves just a little bit more than he loves Diet Coke. Matt is the keeper of the Thought Leaderboard for the [DevOps Party Games](https://devopspartygames.com) online game show and  you can find him on Twitter at [@mattstratton](https://twitter.com/mattstratton)."
+    bio: "Matt Stratton is the founder and co-host of the popular [Arrested DevOps](https://www.arresteddevops.com/) podcast and the global chair of the [DevOpsDays](https://www.devopsdays.org/) set of conferences. Matt has over 20 years of experience in IT operations and  is a sought-after speaker internationally, presenting at Agile, DevOps, and cloud engineering focused events worldwide. Demonstrating his keen insight into the changing landscape of technology, he recently changed his license plate from `DEVOPS` to `KUBECTL`. He lives in Chicago and has three awesome kids, whom he loves just a little bit more than he loves Diet Coke. Matt is the keeper of the Thought Leaderboard for the [DevOps Party Games](https://devopspartygames.com) online game show and  you can find him on Twitter at [@mattstratton](https://twitter.com/mattstratton)."
   - name: "Margaret Valtierra"
     image: "margaret-valtie.jpg"
     employer: "Morningstar"
@@ -131,9 +133,9 @@ team_members: # Name is the only required field for team members.
     employer: "Centro"
     bio: "Jeff Smith has been in the technology industry for over 20 years, oscillating between management and individual contributor. Jeff currently serves as the Director of Production Operations for Centro, an advertising software company headquartered in Chicago, Illinois. Before that he served as the Manager of Site Reliability Engineering at Grubhub.
       
-      Jeff is passionate about DevOps transformations in organizations large and small, with a particular interest in the psychological aspects of problems in companies. He lives in Chicago with his wife Stephanie and their two kids Ella and Xander.
+    Jeff is passionate about DevOps transformations in organizations large and small, with a particular interest in the psychological aspects of problems in companies. He lives in Chicago with his wife Stephanie and their two kids Ella and Xander.
       
-      Jeff is the author of the Manning publishing book, *Operational Anti-Patterns with DevOps Solutions*. He is also the chapter president of Blacks in Technology, where he strives to introduce the community to the different opportunities in the technology field."
+    Jeff is the author of the Manning publishing book, *Operational Anti-Patterns with DevOps Solutions*. He is also the chapter president of Blacks in Technology, where he strives to introduce the community to the different opportunities in the technology field."
     image: "jeff-smith.jpg"
     twitter: "darkandnerdy"
     website: "http://www.allthingsdork.com/"
@@ -157,21 +159,23 @@ sponsors:
     level: community
   - id: thatconference
     level: community
+  - id: weallcode
+    level: community
+  - id: packt
+    level: community
     
   # Gold Sponsors
   - id: teleport
     level: gold
   - id: trilio
     level: gold
-  - id: neuvector
+  - id: suse
     level: gold
   - id: solo
     level: gold
   - id: couchbase
     level: gold
   - id: vmware-tanzu
-    level: gold
-  - id: ksoc
     level: gold
   - id: newrelic
     level: gold
@@ -185,8 +189,6 @@ sponsors:
     level: gold
   - id: pulumi
     level: gold
-  - id: replicated
-    level: gold
   - id: spectrocloud
     level: gold
   - id: circleci
@@ -197,10 +199,24 @@ sponsors:
     level: gold
   - id: gitlab
     level: gold
+  - id: nirmata
+    level: gold
+    
+   #
+  - id: datadog
+    level: eveningevent
+  - id: harness
+    level: eveningevent
+
+   #lanyard
+  - id: morningstar
+    level: lanyard
+
+   #transcription
+  - id: postman
+    level: transcription
     
    #Silver Sponsors
-  - id: medtronic
-    level: silver
   - id: linearb
     level: silver
   - id: blameless
@@ -211,17 +227,39 @@ sponsors:
     level: silver
   - id: clumio
     level: silver
-  - id: grafanalabs
+  - id: grafanalabs-before-20230308
     level: silver
   - id: moogsoft
     level: silver
+  - id: phoenixnap
+    level: silver
   - id: opscruise
+    level: silver
+  - id: trendmicro-before-20230130
+    level: silver
+  - id: spacelift
+    level: silver
+  - id: stackhawk
+    level: silver
+  - id: cloudbees
+    level: silver
+  - id: kosli
+    level: silver
+  - id: googlecloud-before-20230502
+    level: silver
+  - id: stormforge
     level: silver
    
    #Bronze Sponsors
   - id: env0
     level: bronze
-  - id: spacelift
+  - id: 42crunch
+    level: bronze
+  - id: vivanti
+    level: bronze
+  - id: grainger
+    level: bronze
+  - id: tidelift
     level: bronze
 
 
@@ -234,11 +272,258 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Gold
-#    max: 10
+    max: 1
+  - id: lanyard
+    label: Lanyard
+    max: 1
+  - id: eveningevent
+    label: Evening Event
+    max: 1
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    max: 1 # This is the same as omitting the max limit.
+  - id: transcription
+    label: Live Transcription
+    max: 1
   - id: bronze
     label: Bronze
   - id: community
     label: Community
+  
+
+
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2022-09-21
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2022-09-21
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "ricardo-green"
+    type: talk
+    date: 2022-09-21
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2022-09-21
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "lesley-cordero"
+    type: talk
+    date: 2022-09-21
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2022-09-21
+    start_time: "10:25"
+    end_time: "10:40"
+  - title: "angel-rivera"
+    type: talk
+    date: 2022-09-21
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2022-09-21
+    start_time: "11:10"
+    end_time: "11:20"
+  - title: "aakash-shah"
+    type: talk
+    date: 2022-09-21
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Sponsors"
+    type: custom
+    date: 2022-09-21
+    start_time: "11:50"
+    end_time: "12:00"
+  - title: "Lunch"
+    type: custom
+    date: 2022-09-21
+    start_time: "12:00"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2022-09-21
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Sponsors"
+    type: custom
+    date: 2022-09-21
+    start_time: "13:30"
+    end_time: "13:40"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2022-09-21
+    start_time: "13:40"
+    end_time: "14:15"
+  - title: "Open Space #1"
+    type: custom
+    date: 2022-09-21
+    start_time: "14:15"
+    end_time: "15:00"
+  - title: "Break"
+    type: custom
+    date: 2022-09-21
+    start_time: "15:00"
+    end_time: "15:15"
+  - title: "Open Space #2"
+    type: custom
+    date: 2022-09-21
+    start_time: "15:15"
+    end_time: "16:00"
+  - title: "dwayne-mcdaniel"
+    type: workshop
+    date: 2022-09-21
+    start_time: "15:15"
+    end_time: "16:00"
+  - title: "Open Space #3"
+    type: custom
+    date: 2022-09-21
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "eric-smalling"
+    type: workshop
+    date: 2022-09-21
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Close Day"
+    type: custom
+    date: 2022-09-21
+    start_time: "16:45"
+    end_time: "17:00"
+  - title: "Evening event"
+    type: custom
+    date: 2022-09-21
+    start_time: "17:00"
+    end_time: "19:00"
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2022-09-22
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2022-09-22
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "kat-cosgrove"
+    type: talk
+    date: 2022-09-22
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2022-09-22
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "daniel-kim"
+    type: talk
+    date: 2022-09-22
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2022-09-22
+    start_time: "10:25"
+    end_time: "10:40"
+  - title: "vanessa-huerta-granda"
+    type: talk
+    date: 2022-09-22
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2022-09-22
+    start_time: "11:10"
+    end_time: "11:20"
+  - title: "dave-stanke"
+    type: talk
+    date: 2022-09-22
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Sponsors"
+    type: custom
+    date: 2022-09-22
+    start_time: "11:50"
+    end_time: "12:00"
+  - title: "Lunch"
+    type: custom
+    date: 2022-09-22
+    start_time: "12:00"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2022-09-22
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Sponsor Giveaways"
+    type: custom
+    date: 2022-09-22
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2022-09-22
+    start_time: "14:00"
+    end_time: "14:15"
+  - title: "Open Space #1"
+    type: custom
+    date: 2022-09-22
+    start_time: "14:15"
+    end_time: "15:00"
+  - title: "Break"
+    type: custom
+    date: 2022-09-22
+    start_time: "15:00"
+    end_time: "15:15"
+  - title: "Open Space #2"
+    type: custom
+    date: 2022-09-22
+    start_time: "15:15"
+    end_time: "16:00"
+  - title: "crux-conception"
+    type: workshop
+    date: 2022-09-22
+    start_time: "15:15"
+    end_time: "16:00"
+  - title: "Open Space #3"
+    type: custom
+    date: 2022-09-22
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "dexter-horthy"
+    type: workshop
+    date: 2022-09-22
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Closing"
+    type: custom
+    date: 2022-09-22
+    start_time: "16:45"
+    end_time: "17:00"
+ignites:
+  - title: "angela-trego"
+    date: 2022-09-21
+  - title: "jason-yee"
+    date: 2022-09-21
+  - title: "stephen-weinberg"
+    date: 2022-09-21
+  - title: "hannah-sutor"
+    date: 2022-09-21
+  - title: "pj-metz"
+    date: 2022-09-21
+  - title: "jacquie-grindrod"
+    date: 2022-09-22
+  - title: "ashina-sipiora"
+    date: 2022-09-22
+  - title: "abby-allen"
+    date: 2022-09-22
+  - title: "richard-lewis"
+    date: 2022-09-22

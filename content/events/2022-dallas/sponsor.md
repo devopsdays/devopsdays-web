@@ -11,7 +11,11 @@ description = "Interested in sponsoring DevOpsDays Dallas 2022? We greatly value
 <div class = "col-md-8 col-sm-12">
 <br><br>
 We greatly value sponsors for this community event. If you are interested in sponsoring, please check out our prospectus below. If you need a soft copy of our prospectus, click here to <a href="https://assets.devopsdays.org/events/2022/dallas/DevOpsDaysDallas2022Sponsorships.pdf" target="_blank"><strong>download PDF</strong></a> or <a href="mailto:dallas@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Dallas%202022"><strong>send us an email</strong></a>.
+<br>
+<hr>
+<h4><a href="https://assets.devopsdays.org/events/2022/dallas/DevOpsDaysDallasSponsorGuide2022.pdf" target="_blank">Sponsor Guide 2022</a></h4>
 
+<h4><a href="https://assets.devopsdays.org/events/2022/dallas/DevOpsDaysDallasSponsorFAQ2022.pdf" target="_blank">Sponsors FAQ 2022</a></h4>
 <hr>
 
 DevOpsDays is a self-organizing conference for DevOps practitioners that depends on your sponsorships. We do not have a traditional trade show conference floor, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during, and after the event. Sponsors are encouraged to participate and engage with the attendees as peers.
@@ -49,8 +53,8 @@ Please email the organizers at <a href="mailto:dallas@devopsdays.org?subject=Gen
     </tr>
     <tr>
       <td colspan="2"></td>
-      <td>
-        <!-- platinum Paypal button --> 
+      <td><img src = "/events/2022-dallas/not_available.png">
+        <!-- platinum Paypal button
         <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
           <input type="hidden" name="cmd" value="_s-xclick">
           <input type="hidden" name="hosted_button_id" value="GNR4HVH2BR4UA">
@@ -60,8 +64,9 @@ Please email the organizers at <a href="mailto:dallas@devopsdays.org?subject=Gen
         <!-- <a href="mailto:dallas@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Dallas%202022">Contact us</a> -->
       </td>
       <td>
+        <img src = "/events/2022-dallas/not_available.png">
         <!-- gold Paypal button -->
-        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+        <!--- <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
           <input type="hidden" name="cmd" value="_s-xclick">
           <input type="hidden" name="hosted_button_id" value="QGEFGDR6XFRP2">
           <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
@@ -70,13 +75,14 @@ Please email the organizers at <a href="mailto:dallas@devopsdays.org?subject=Gen
         <!-- <a href="mailto:dallas@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20dDallas%202020">Contact us</a> -->
       </td>
       <td>
+      <img src = "/events/2022-dallas/not_available.png">
         <!-- silver Paypal button -->
-        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+        <!-- <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
           <input type="hidden" name="cmd" value="_s-xclick">
           <input type="hidden" name="hosted_button_id" value="MCC6ADNWPHTGC">
           <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
           <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-        </form> 
+        </form> -->
       </td>
     <tr>
       <td colspan="2">Tickets Included</td>
@@ -208,12 +214,13 @@ All Media / Community sponsors are entities we value as pillars of continuous le
       <td>Happy Hour</td>
       <td align="center">$10,000
         <br><br>
-        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+         <img src = "/events/2022-dallas/not_available.png">
+        <!-- <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
             <input type="hidden" name="cmd" value="_s-xclick">
             <input type="hidden" name="hosted_button_id" value="7N7YJXNS9X9JS">
             <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
             <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-          </form> 
+          </form> -->
       </td>
       <td>Happy Hour will be held both evenings of the event. All conference attendees will be invited to a happy hour. The Happy Hour sponsorship includes some special perks not listed in the table above.
           <ul class="fa-ul">
@@ -230,12 +237,13 @@ All Media / Community sponsors are entities we value as pillars of continuous le
       <td>Lanyards</td>
       <td align="center">$5,000
       <br><br>
-        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+        <img src = "/events/2022-dallas/not_available.png">
+        <!-- <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
             <input type="hidden" name="cmd" value="_s-xclick">
             <input type="hidden" name="hosted_button_id" value="9WSW86ACTY3JW">
             <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
             <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-          </form> 
+          </form> -->
       </td>
       <td>
           <ul class="fa-ul">
@@ -252,12 +260,13 @@ All Media / Community sponsors are entities we value as pillars of continuous le
       <td>Coffee Bar</td>
       <td align="center">$5,000
       <br><br>
-        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+        <img src = "/events/2022-dallas/not_available.png">
+        <!-- <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
             <input type="hidden" name="cmd" value="_s-xclick">
             <input type="hidden" name="hosted_button_id" value="6A439ZJ9AC5U4">
             <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
             <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-          </form> 
+          </form> -->
       </td>
       <td>A custom high-end coffee bar will be available in a large lounge area during the event. All conference attendees will be invited to receive a coffee. The attendees must get a ticket by interacting with a vendor to receive a free coffee.
           <ul class="fa-ul">

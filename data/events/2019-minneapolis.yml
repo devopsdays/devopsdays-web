@@ -111,7 +111,7 @@ sponsors:
     level: gold
   - id: f5
     level: alacarte
-  - id: appdynamics
+  - id: appdynamics-before-20220714
     level: gold
   - id: circleci
     level: gold
@@ -119,7 +119,7 @@ sponsors:
     level: silver
   - id: infinitecampus
     level: silver
-  - id: hackthegap
+  - id: hackthegap-before-20220707
     level: community
   - id: softwaredefinedtalk
     level: community
@@ -149,7 +149,7 @@ sponsors:
     level: alacarte
   - id: solutiondesign
     level: silver
-  - id: influxdata
+  - id: influxdata-before-20220629
     level: gold
   - id: pivotal
     level: gold
@@ -185,9 +185,9 @@ sponsors:
     level: silver
   - id: codefresh
     level: gold
-  - id: googlecloud
+  - id: googlecloud-before-20220526
     level: gold
-  - id: googlecloud
+  - id: googlecloud-before-20220526
     level: alacarte
   - id: cargill
     level: alacarte
@@ -195,7 +195,7 @@ sponsors:
     level: silver
   - id: xmatters
     level: silver
-  - id: contrast_security
+  - id: contrast_security-before-20221014
     level: silver
   - id: target
     level: gold
@@ -211,9 +211,9 @@ sponsors:
     level: gold
   - id: mnclude
     level: community
-  - id: newrelic
+  - id: newrelic-before-20220808-before-20220808
     level: gold
-  - id: newrelic
+  - id: newrelic-before-20220808-before-20220808
     level: alacarte
   - id: atomist
     level: silver

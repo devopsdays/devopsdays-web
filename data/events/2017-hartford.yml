@@ -80,7 +80,7 @@ sponsors:
     level: bronze
   - id: checkmarx-before-20190621
     level: bronze
-  - id: newrelic
+  - id: newrelic-before-20220808
     level: bronze
   - id: stickermule
     level: stickers

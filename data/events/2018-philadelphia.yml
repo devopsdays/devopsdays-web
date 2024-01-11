@@ -81,13 +81,13 @@ proposal_email: "proposals-philadelphia-2018@devopsdays.org" # Put your proposal
 sponsors:
   - id: dynatrace
     level: gold
-  - id: influxdata
+  - id: influxdata-before-20220629
     level: gold
   - id: appdynamics-before-20190121
     level: gold
   - id: mesosphere
     level: gold
-  - id: elastic
+  - id: elastic-before-20221004
     level: gold
   - id: cloudbolt
     level: gold
@@ -95,7 +95,7 @@ sponsors:
     level: gold
   - id: googlecloud-before-20190402
     level: gold
-  - id: newrelic
+  - id: newrelic-before-20220808
     level: gold
   - id: chef-before-20210112
     level: gold

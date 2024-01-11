@@ -22,11 +22,11 @@ cfp_date_announce: 2022-07-03T23:59:59+01:00 # inform proposers of status
 
 cfp_link: "https://forms.gle/CpCsWWH5pT9NgZma7"
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: 2022-05-30T00:00:00+01:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2022-09-22T23:59:59+01:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
-registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+egistration_closed: ""
+registration_link: "https://ti.to/devopsdays-london/2022"
 
 # Location
 #
@@ -36,10 +36,13 @@ location: "London" # Defaults to city, but you can make it the venue name.
 location_address: "Kia Oval, Kennington, London SE11 5SS"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+  # - name: propose
+  # - name: registration
+  - name: program
+  - name: speakers
   - name: location
   - name: accessibility
-  - name: sponsor
+  # - name: sponsor
   - name: contact
   - name: conduct
   - name: subscribe
@@ -59,7 +62,7 @@ team_members: # Name is the only required field for team members.
     github: "chriscoffee"
   - name: "Dan Webb"
     twitter: "dan_webb"
-    github: damacus
+    github: "damacus"
   - name: "Dominique Top"
     twitter: "devopsdom"
   - name: "Hannah Foxwell"
@@ -80,13 +83,74 @@ organizer_email: "london@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  # platinum sponsors
+  - id: coralogix
+    level: platinum
+  # gold sponsors
+  - id: delphix
+    level: gold
+  - id : github
+    level: gold
+  - id: humio
+    level: gold
+  - id: kosli
+    level: gold
+  - id: launch-darkly
+    level: gold
   - id: chef
     level: gold
-  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  # - id: arresteddevops
-  #   level: community
+  - id: spacelift
+    level: gold
+  - id: teleport
+    level: gold
+  # silver sponsors
+  - id: checkmarx
+    level: silver
+  - id: circleci
+    level: silver
+  - id: civo
+    level: silver
+  - id: cloudbees
+    level: silver
+  - id: cortex
+    level: silver
+  - id: doit-before-2023-07-07
+    level: silver
+  - id: firehydrant
+    level: silver
+  - id: googlecloud-before-20230502
+    level: silver    
+  - id: harness
+    level: silver
+  - id: lightstep
+    level: silver    
+  - id: microsoft
+    level: silver
+  - id: postman
+    level: silver
+  - id: pulumi
+    level: silver
+  - id: spectrocloud
+    level: silver
+  - id: squaredup
+    level: silver
+  - id: stormforge
+    level: silver
+  - id: vmware-tanzu
+    level: silver    
+  # bronze sponsors
+  - id: armakuni
+    level: bronze  
+  - id: conflux
+    level: bronze
+  - id: dxw
+    level: bronze
+  - id: hashicorp
+    level: bronze
+  - id: syntasso
+    level: bronze
 
-sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted: "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -105,3 +169,117 @@ sponsor_levels:
   - id: bronze
     label: Bronze
     max: 10
+
+program:
+  # day one
+  - title: "Registration, Breakfast"
+    type: custom
+    date: 2022-09-29T00:00:00+01:00
+    start_time: "09:00"
+    end_time: "09:45"
+  - title: "Welcome"
+    type: custom
+    date: 2022-09-29T00:00:00+01:00
+    start_time: "09:45"
+    end_time: "10:00"
+  - title: "jemma-bolland"
+    type: talk
+    date: 2022-09-29T00:00:00+01:00
+    start_time: "10:00"
+    end_time: "10:35"
+  - title: "domenico-musto"
+    type: talk
+    date: 2022-09-29T00:00:00+01:00
+    start_time: "10:35"
+    end_time: "11:05"
+  - title: "divya-mohan"
+    type: talk
+    date: 2022-09-29T00:00:00+01:00
+    start_time: "11:25"
+    end_time: "12:00"
+  - title: "kief-morris"
+    type: talk
+    date: 2022-09-29T00:00:00+01:00
+    start_time: "12:00"
+    end_time: "12:35"
+  - title: "Ignites Day 1"
+    type: ignite
+    date: 2022-09-29T00:00:00+01:00
+    start_time: "12:35"
+    end_time: "13:05"
+  - title: "Lunch"
+    type: custom
+    date: 2022-09-29T00:00:00+01:00
+    start_time: "13:05"
+    end_time: "14:05"
+  - title: "Open Spaces Day 1"
+    type: open-space
+    date: 2022-09-29T00:00:00+01:00
+    start_time: "14:05"
+    end_time: "17:00"
+  - title: "Evening Reception and Booth Crawl in Jardine"
+    type: custom
+    date: 2022-09-29T00:00:00+01:00
+    start_time: "17:00"
+    end_time: "Onwards"
+  - title: "Breakfast"
+    type: custom
+    date: 2022-09-30T23:59:59+01:00
+    start_time: "09:00"
+    end_time: "09:45"
+  - title: "matty-stratton"
+    type: talk
+    date: 2022-09-30T23:59:59+01:00
+    start_time: "10:00"
+    end_time: "10:35"
+  - title: "floor-drees"
+    type: talk
+    date: 2022-09-30T23:59:59+01:00
+    start_time: "10:35"
+    end_time: "11:05"
+  - title: "oliver-leaver-smith"
+    type: talk
+    date: 2022-09-30T23:59:59+01:00
+    start_time: "11:25"
+    end_time: "12:00"
+  - title: "billie-thompson"
+    type: talk
+    date: 2022-09-30T23:59:59+01:00
+    start_time: "12:00"
+    end_time: "12:35"
+  - title: "Ignites Day 2"
+    type: ignite
+    date: 2022-09-30T23:59:59+01:00
+    start_time: "12:35"
+    end_time: "13:05"
+  - title: "Lunch"
+    type: custom
+    date: 2022-09-30T23:59:59+01:00
+    start_time: "13:05"
+    end_time: "14:05"
+  - title: "Open Spaces Day 2"
+    type: open-space
+    date: 2022-09-30T23:59:59+01:00
+    start_time: "14:05"
+    end_time: "17:00"
+
+ignites:
+  - title: "ben-madley"
+    date: 2022-09-29T00:00:00+01:00
+  - title: "sara-mazer"
+    date: 2022-09-29T00:00:00+01:00
+  - title: "gavin-campbell"
+    date: 2022-09-29T00:00:00+01:00
+  - title: "elora-walmisley"
+    date: 2022-09-29T00:00:00+01:00
+  - title: "marino-wijay"
+    date: 2022-09-29T00:00:00+01:00
+  - title: "marcus-noble"
+    date: 2022-09-30T23:59:59+01:00
+  - title: "temi-olukoko"
+    date: 2022-09-30T23:59:59+01:00
+  - title: "jennifer-mackown"
+    date: 2022-09-30T23:59:59+01:00
+  - title: "salman-iqbal"
+    date: 2022-09-30T23:59:59+01:00
+

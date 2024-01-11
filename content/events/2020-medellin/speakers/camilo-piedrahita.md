@@ -1,7 +1,7 @@
 +++
 Title = "Camilo Piedrahita"
 #Twitter = ""
-image = "Camilo.png"
+image = "camilo.png"
 type = "speaker"
 linktitle = "camilo-piedrahita"
 LinkedIn = "https://www.linkedin.com/in/camilo-piedrahita-mac%C3%ADas/"

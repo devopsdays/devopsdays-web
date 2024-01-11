@@ -105,9 +105,9 @@ sponsors:
     level: gold
   - id: indypy
     level: community
-  - id: indyaws
+  - id: indyaws-before-20230808
     level: community
-  - id: appdynamics
+  - id: appdynamics-before-20220714
     level: gold
   - id: thoughtworks-gocd
     level: silver
@@ -133,7 +133,7 @@ sponsors:
     level: silver
   - id: sonatype
     level: silver
-  - id: newrelic
+  - id: newrelic-before-20220808
     level: platinum
   - id: kerauno
     level: silver

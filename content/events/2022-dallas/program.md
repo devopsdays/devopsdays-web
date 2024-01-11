@@ -4,7 +4,7 @@ Type = "program"
 Description = "Program for devopsdays Dallas 2022" 
 icons = "true"
 +++
-<img alt="Work In Progress" src="/events/2022-dallas/wip.gif" style="max-width: 15%;">
+<!-- <img alt="Work In Progress" src="/events/2022-dallas/wip.gif" style="max-width: 15%;"> -->
 <div class = "row">
   <div class = "col">
     <hr /> 
@@ -14,7 +14,7 @@ Our <img alt="DoDDFW Slack" src="/events/2022-dallas/slack.png" style="max-width
 Click <strong><a href="https://www.youtube.com/c/DevOpsDaysDFW/playlists"> here</a></strong> to see the<a href="https://www.youtube.com/c/DevOpsDaysDFW/playlists"><img alt="DoDDFW YouTube Playlists" src="/events/2022-dallas/youtube.png" style="max-width: 50%;">YouTube</a> video playlists for DevOpsDays DFW.<br>
 <!-- B4CON Photo Gallery - click <strong><a href="https://photos.app.goo.gl/2jXp7dpkvmnQjUad9">here</a></strong> to see pictures.<br>
 Leadership Summit Photo Gallery - click <strong><a href="https://photos.app.goo.gl/V4yBoeq9aaHD1okG7">here</a></strong> to see pictures.<br> -->
-DevOpsDays DFW Photo Gallery - click <strong><a href="https://photos.app.goo.gl/vvG5EDPyFkrq7ESK6">here</a></strong> to see pictures.</h5><hr />
+DevOpsDays DFW Photo Gallery - click <strong><a href="https://photos.app.goo.gl/mXYhvM4sY94CExmXA">here</a></strong> to see pictures.</h5><hr />
   </div>
 </div>
 <div>

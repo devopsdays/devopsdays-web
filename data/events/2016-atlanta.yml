@@ -50,7 +50,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: pindrop
     level: gold
-  - id: newrelic
+  - id: newrelic-before-20220808
     level: gold
   - id: datalex
     level: gold

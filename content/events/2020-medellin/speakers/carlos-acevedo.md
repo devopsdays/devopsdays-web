@@ -1,7 +1,7 @@
 +++
 Title = "Carlos Acevedo"
 #Twitter = "Ana_M_Medina"
-image = "Carlos-Acevedo.png"
+image = "carlos-acevedo.png"
 type = "speaker"
 linktitle = "carlos-acevedo"
 LinkedIn = "https://www.linkedin.com/in/carlos-eduardo-acevedo-duque-6b6a52126/"

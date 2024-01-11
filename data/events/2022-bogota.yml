@@ -29,16 +29,18 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 # Location
 #
 coordinates: "4.66138889, -74.10055556" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Centro de Convenciones Compensar" # Defaults to city, but you can make it the venue name.
+location: "Hotel Casa Dann Carlton" # Defaults to city, but you can make it the venue name.
 #
-location_address: "Ak 68 ## 49A - 47, Bogotá, Cundinamarca" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "Cl. 93b #19-44, Bogotá, Cundinamarca" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
  # - name: location
  # - name: registration
- # - name: program
- # - name: speakers
+  - name: program
+    url: https://devopsdaysbogota.org/programa
+  - name: speakers
+    url: https://devopsdaysbogota.org/ponentes
   - name: sponsor
   - name: contact
   - name: conduct
@@ -61,7 +63,7 @@ team_members: # Name is the only required field for team members.
     twitter: "@rafaelMartAng"
   - name: "Maximiliano Lerin"
     employer: "Rise Interactive"
-    image: "max.JPG"
+    image: "max.jpg"
     bio: "Devops Lider, con experiencia en metodologías ágiles, entornos de operaciones e infraestructura a gran escala, experto en tecnologías de Microsoft, con varios años de experiencia en coaching y liderazgo llevando equipos y clientes hacia el éxito. Este año hará parte del equipo organizador DevOpsDays Bogotá 2021."
     twitter: ""
 organizer_email: "bogota@devopsdays.org" # Put your organizer email address here
@@ -69,10 +71,42 @@ organizer_email: "bogota@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: samplesponsorname
+  - id: devops-latam
+    level: diamond
+  - id: sigitat
+    level: diamond
+  - id: softtek
+    level: diamond
+  - id: stratusgrid-before-20231114
+    level: diamond
+  - id: softserve
+    level: diamond
+  - id: tsoft
+    level: diamond
+  - id: harness
+    level: platinum
+  - id: bancolombia
+    level: platinum
+  - id: endava
+    level: platinum
+  - id: manage-engine
+    level: platinum
+  - id: herzum
     level: gold
+  - id: devco
+    level: gold
+  - id: epam
+    level: gold
+  - id: fluidattacks
+    level: silver
+  - id: oreilly
+    level: community
+  - id: certiprof
+    level: community
+  - id: fedesoft
+    level: community
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  - id: arresteddevops
+  - id: learnk8s
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -82,13 +116,15 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: diamond
+    label: Diamond
+#    max: 10
+  - id: platinum
+    label: Platinum
+    max: 0 # This is the same as omitting the max limit.
   - id: gold
     label: Gold
-#    max: 10
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
-  - id: bronze
-    label: Bronze
   - id: community
     label: Community

@@ -1,7 +1,7 @@
 +++
 Title = "Filipi Pires"
 #Twitter = "https://twitter.com/iamjerdog"
-image = "Filipi-Pires.png"
+image = "filipi-pires.png"
 type = "speaker"
 linktitle = "Filipi-Pires"
 Linkedin = "https://www.linkedin.com/in/filipipires/"

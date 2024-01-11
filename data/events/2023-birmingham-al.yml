@@ -1,0 +1,332 @@
+name: "2023-birmingham-al" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2023" # The year of the event. Make sure it is in quotes.
+city: "Birmingham, AL" # The displayed city name of the event. Capitalize it.
+event_twitter: "DevOpsDaysBham" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays is back for a second year!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2023-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2023-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2023-04-20T08:30:00-05:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2023-04-21T17:30:00-05:00  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2022-08-05T13:00:00-05:00  # start accepting talk proposals.
+cfp_date_end:  2022-12-01T13:00:00-05:00  # start accepting talk proposals.
+
+cfp_date_announce: 2022-12-10T13:00:00-05:00 # inform proposers of status
+
+cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: 2022-08-07T13:00:00-05:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2023-04-20T08:30:00-05:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+
+registration_closed: true #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://www.eventbrite.com/e/devopsdays-birmingham-al-2023-tickets-397507805547" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "33.507931,-86.807925" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Red Mountain Theatre Arts Campus" # Defaults to city, but you can make it the venue name.
+#
+location_address: "1600 3rd Ave S, Birmingham, AL 35233" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+ # - name: propose
+  - name: location
+  - name: registration
+  - name: volunteer
+  - name: program
+  - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Mykel Alvis"
+    twitter: "mykelalvis"
+    linkedin: "https://www.linkedin.com/in/mykelalvis/"
+    employer: "Array Consulting"
+    github: "mykelalvis"
+    mastodon: "https://mastodon.social/@mykelalvis@hachyderm.io"
+  - name: "Mikhail Kozorovitskiy"
+    twitter: "MKOperator"
+    linkedin: "https://www.linkedin.com/in/mikhailk/"
+    github: "mkoperator"
+    mastodon: "https://mastodon.social/@mkoperator"
+    employer: "Hedgehog"
+  - name: "Ed McLain"
+    linkedin: "https://www.linkedin.com/in/edwardmclain/"
+    employer: "Nibuild"
+    twitter: "zonywhoop"
+    github: "zonywhoop"
+
+organizer_email: "birmingham-al@devopsdays.org" # Put your organizer email address here
+
+# background image
+masthead_background: "birmingham_skyline.jpg"
+
+sharing_image: "sharing_logo.png"
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: fetch
+    level: host
+  - id: shipt
+    level: host
+  - id: trendmicro
+    level: gold
+  - id: newrelic
+    level: gold
+  - id: spectrocloud
+    level: gold
+  - id: paloaltonetworks
+    level: silver
+  - id: smallstep
+    level: silver
+  - id: dragondropcloud
+    level: silver
+  - id: core-talent-services
+    level: bronze
+  - id: microsoft-teals
+    level: community
+  - id: digital-motion
+    level: bronze
+  - id: birmingham-area-software-enthusiasts
+    level: community
+  - id: nibuild
+    level: bronze
+  - id: itac-solutions
+    level: silver
+  - id: babajavacoffee
+    level: community
+
+sponsors_accepted : "yes"
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: host
+    label: Host
+  - id: gold
+    label: Gold
+  - id: silver
+    label: Silver
+  - id: bronze
+    label: Bronze
+  - id: community
+    label: Community
+
+program:
+  - title: "Registration, Breakfast, Visit Sponsors"
+    type: custom
+    date: 2023-04-20T00:00:00-05:00
+    start_time: "08:00"
+    end_time: "08:40"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2023-04-20T00:00:00-05:00
+    start_time: "08:45"
+    end_time: "09:00"
+  - title: "From our Sponsors"
+    type: custom
+    date: 2023-04-20T00:00:00-05:00
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "justin-reock"
+    type: talk
+    date: 2023-04-20T00:00:00-05:00
+    start_time: "09:10"
+    end_time: "09:55"
+    background_color: "#d5c5ef"
+  - title: "workshop-1"
+    type: talk
+    date: 2023-04-20T00:00:00-05:00
+    start_time: "10:15"
+    end_time: "11:15"
+    background_color: "#8ad0d3"
+  - title: "brandon-yates"
+    type: talk
+    date: 2023-04-20T00:00:00-05:00
+    start_time: "10:15"
+    end_time: "10:45"
+  - title: "ajuna-kyaruzi"
+    type: talk
+    date: 2023-04-20T00:00:00-05:00
+    start_time: "10:45"
+    end_time: "11:15"
+  - title: "butch-mayhew"
+    type: talk
+    date: 2023-04-20T00:00:00-05:00
+    start_time: "11:15"
+    end_time: "11:45"
+  - title: "Intro to Microsoft TEALS Program (Main Theater)"
+    type: custom
+    date: 2023-04-20T00:00:00-05:00
+    start_time: "11:45"
+    end_time: "12:00"
+  - title: "Lunch - Education Lobby"
+    type: custom
+    date: 2023-04-20T00:00:00-05:00
+    start_time: "12:00"
+    end_time: "13:20"
+  - title: "cameron-stanley"
+    type: talk
+    date: 2023-04-20T00:00:00-05:00
+    start_time: "13:20"
+    end_time: "13:50"
+  - title: "chad-mcelligott"
+    type: talk
+    date: 2023-04-20T00:00:00-05:00
+    start_time: "13:50"
+    end_time: "14:20"
+  - title: "elizabeth-anderson"
+    type: talk
+    date: 2023-04-20T00:00:00-05:00
+    start_time: "14:20"
+    end_time: "14:50"
+  - title: "Break - Visit Sponsors - Bars Open 🍻"
+    type: custom
+    date: 2023-04-20T00:00:00-05:00
+    start_time: "14:50"
+    end_time: "15:00"
+  - title: "workshop-3"
+    type: talk
+    date: 2023-04-20T00:00:00-05:00
+    start_time: "15:00"
+    end_time: "16:00"
+    background_color: "#8ad0d3"
+  - title: "Open Spaces #1 - Discovery Theatre, Rehearsal Rooms 3,4,5"
+    type: "open-space"
+    date: 2023-04-20T00:00:00-05:00
+    start_time: "15:00"
+    end_time: "15:30"
+  - title: "Open Spaces #2 - Discovery Theatre, Rehearsal Rooms 3,4,5"
+    type: "open-space"
+    date: 2023-04-20T00:00:00-05:00
+    start_time: "15:30"
+    end_time: "16:00"
+  - title: "Break - Visit Sponsors"
+    type: custom
+    date: 2023-04-20T00:00:00-05:00
+    start_time: "16:00"
+    end_time: "16:30"
+  - title: "vadim-uchitel"
+    type: talk
+    date: 2023-04-20T00:00:00-05:00
+    start_time: "16:30"
+    end_time: "17:00"
+  - title: "chris-winslett"
+    type: talk
+    date: 2023-04-20T00:00:00-05:00
+    start_time: "17:00"
+    end_time: "17:30"
+  - title: "Mingling / Sponsor Socializing / Drinking"
+    type: custom
+    date: 2023-04-20T00:00:00-05:00
+    start_time: "17:30"
+    end_time: "18:00"
+
+  - title: "Registration, Breakfast, Visit Sponsors"
+    type: custom
+    date: 2023-04-21T00:00:00-05:00
+    start_time: "08:00"
+    end_time: "08:40"
+  - title: "Day 2 Opening"
+    type: custom
+    date: 2023-04-21T00:00:00-05:00
+    start_time: "08:45"
+    end_time: "09:00"
+  - title: "john-willis"
+    type: talk
+    date: 2023-04-21T00:00:00-05:00
+    start_time: "09:00"
+    end_time: "09:45"
+    background_color: "#d5c5ef"
+  - title: "Break - Visit Sponsors"
+    type: custom
+    date: 2023-04-21T00:00:00-05:00
+    start_time: "10:00"
+    end_time: "10:20"
+  - title: "mohamed-wali"
+    type: talk
+    date: 2023-04-21T00:00:00-05:00
+    start_time: "10:20"
+    end_time: "10:50"
+  - title: "workshop-2"
+    type: talk
+    date: 2023-04-21T00:00:00-05:00
+    start_time: "10:50"
+    end_time: "11:50"
+    background_color: "#8ad0d3"
+  - title: "eric-evans"
+    type: talk
+    date: 2023-04-21T00:00:00-05:00
+    start_time: "10:50"
+    end_time: "11:20"
+  - title: "gerie-owen"
+    type: talk
+    date: 2023-04-21T00:00:00-05:00
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Lunch - Education Lobby"
+    type: custom
+    date: 2023-04-21T00:00:00-05:00
+    start_time: "12:20"
+    end_time: "13:00"
+  - title: "workshop-4"
+    type: talk
+    date: 2023-04-21T00:00:00-05:00
+    start_time: "13:00"
+    end_time: "14:00"
+    background_color: "#8ad0d3"
+  - title: "daniel-fowler"
+    type: talk
+    date: 2023-04-21T00:00:00-05:00
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "chris-sims"
+    type: talk
+    date: 2023-04-21T00:00:00-05:00
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "eamon-bauman"
+    type: talk
+    date: 2023-04-21T00:00:00-05:00
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: "Main Stage Closing Remarks"
+    type: custom
+    date: 2023-04-21T00:00:00-05:00
+    start_time: "14:30"
+    end_time: "14:45"
+  - title: "Break - Visit Sponsors - Bars Open 🍻"
+    type: custom
+    date: 2023-04-21T00:00:00-05:00
+    start_time: "14:45"
+    end_time: "15:00"
+  - title: "Open Spaces #1 - Discovery Theatre, Rehearsal Rooms 3,4,Donor Lounge"
+    type: "open-space"
+    date: 2023-04-21T00:00:00-05:00
+    start_time: "15:00"
+    end_time: "15:30"
+  - title: "Open Spaces #2 - Discovery Theatre, Rehearsal Rooms 3,4,Donor Lounge"
+    type: "open-space"
+    date: 2023-04-21T00:00:00-05:00
+    start_time: "15:30"
+    end_time: "16:00"
+  - title: "Mixing and Socializing"
+    type: custom
+    date: 2023-04-21T00:00:00-05:00
+    start_time: "16:00"
+    end_time: "17:30"

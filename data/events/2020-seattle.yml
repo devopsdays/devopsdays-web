@@ -115,7 +115,7 @@ sponsors:
   #  level: community
   - id: launch-darkly-before-20200828
     level: gold
-  - id: influxdata
+  - id: influxdata-before-20220629
     level: gold
   - id: microsoft
     level: gold
@@ -141,7 +141,7 @@ sponsors:
     level: gold
   - id: vmware-tanzu
     level: gold
-  - id: appdynamics
+  - id: appdynamics-before-20220714
     level: gold
   - id: stackrox
     level: gold

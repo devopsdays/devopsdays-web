@@ -1,7 +1,7 @@
 +++
 Title = "Jeremy Meiss"
 Twitter = "https://twitter.com/iamjerdog"
-image = "Jeremy-Meiss.png"
+image = "jeremy-meiss.png"
 type = "speaker"
 linktitle = "Jeremy-Meiss"
 #Linkedin = "https://www.linkedin.com/in/juan-felipe-becerra-ospina-44b638173/"

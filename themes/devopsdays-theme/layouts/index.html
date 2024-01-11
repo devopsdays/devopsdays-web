@@ -3,8 +3,18 @@
 
     {{- $.Scratch.Add "i" 1 -}}
 
+    {{ $upcoming := slice }}
+    {{- range $.Site.Data.events -}}
+        {{- if .startdate -}}
+            {{- if ne .cancel "true" -}}
+                {{- if gt (time .enddate) now -}}
+                    {{ $upcoming = append . $upcoming  }}
+                {{- end -}} 
+            {{- end -}}
+        {{- end -}}
+    {{- end -}} 
     <div class="row">
-        {{- range sort $.Site.Data.events "startdate" -}}
+        {{- range sort $upcoming "startdate" -}}
             {{- if .startdate -}}
                 {{- if ne .cancel "true" -}}
             <!-- Subtracting a day is a patch for https://github.com/devopsdays/devopsdays-theme/issues/656 -->

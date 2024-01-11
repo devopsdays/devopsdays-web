@@ -82,13 +82,13 @@ proposal_email: "proposals-vancouver-2019@devopsdays.org" # Put your proposal em
 sponsors:
   - id: armtreasuredata
     level: platinum
-  - id: appdynamics
+  - id: appdynamics-before-20220714
     level: gold
   - id: codefresh
     level: gold
   - id: dynatrace
     level: gold
-  - id: influxdata
+  - id: influxdata-before-20220629
     level: gold 
   - id: launch-darkly-before-20200828
     level: gold

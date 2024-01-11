@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Capture the Flag - Kubernetes Edition"
 Type = "talk"
-Speakers = ["andrew-martin"]
+Speakers = ["francesco-beltramini", "james-cleverly-prance" ]
 +++
 
 Delve deeper into the dark and mysterious world of Kubernetes security! Exploit a supply chain attack and start your journey deep inside the target infrastructure, exploit your position to hunt and collect the flags, and hopefully learn something new and wryly amusing along the way!

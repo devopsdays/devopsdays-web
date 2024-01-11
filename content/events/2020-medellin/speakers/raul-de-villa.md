@@ -1,7 +1,7 @@
 +++
 Title = "Raul A. De Villa Cano"
 Twitter = ""
-image = "Raul.png"
+image = "raul.png"
 type = "speaker"
 linktitle = "raul-de-villa"
 LinkedIn = "https://www.linkedin.com/in/raul-de-villa/"

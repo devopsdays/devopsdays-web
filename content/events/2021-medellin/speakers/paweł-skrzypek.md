@@ -1,7 +1,7 @@
 +++
 Title = "Paweł Skrzypek"
 #Twitter = "twitter.com/jjasghar"
-image = "Paweł-Skrzypek.png"
+image = "paweł-skrzypek.png"
 type = "speaker"
 linktitle = "Paweł-Skrzypek"
 #Website = "https://robrich.org/presentations"

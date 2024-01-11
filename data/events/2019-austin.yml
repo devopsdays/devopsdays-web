@@ -1,4 +1,4 @@
-name: "2019-austin" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+name: "2018-austin" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2019" # The year of the event. Make sure it is in quotes.
 city: "Austin" # The displayed city name of the event. Capitalize it.
 event_twitter: "DoDAustin" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
@@ -134,7 +134,7 @@ sponsors:
     level: happyhour
   - id: ciscodevnet
     level: happyhour
-  - id: newrelic
+  - id: newrelic-before-20220808
     level: platinum
   - id: codefresh
     level: platinum
@@ -156,11 +156,11 @@ sponsors:
     level: gold
   - id: dell
     level: gold
-  - id: influxdata
+  - id: influxdata-before-20220629
     level: gold
   - id: nvisium
     level: gold
-  - id: contrast_security
+  - id: contrast_security-before-20221014
     level: gold
   - id: chaossearch-before-20200120
     level: gold
@@ -183,7 +183,7 @@ sponsors:
     level: gold
   - id: roguewave
     level: gold
-  - id: googlecloud
+  - id: googlecloud-before-20220526
     level: gold
   - id: victorops
     level: gold

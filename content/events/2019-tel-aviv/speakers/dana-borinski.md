@@ -1,7 +1,7 @@
 +++
 Title = "Dana Borinski"
 Twitter = ""
-image = "Dana_Borinski.jpg"
+image = "dana_borinski.jpg"
 type = "speaker"
 linktitle = "dana-borinski"
 

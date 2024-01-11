@@ -149,11 +149,11 @@ sponsors:
 #    level: gold
 #  - id: instana
 #    level: silver
-#  - id: trendmicro
+#  - id: trendmicro-before-20230130
 #    level: gold
 #  - id: redhat
 #    level: bronze
-#  - id: influxdata
+#  - id: influxdata-before-20220629
 #    level: gold
 
 

@@ -202,6 +202,6 @@ All special sponsors will have their logo displayed on the DevOpsDays Columbus w
 </div>
 </div>
 <div class = "col-md-4 col-sm-12">
-<a href = "https://docs.google.com/presentation/d/1TxnL6EMcEjuruwyCldL5b3RYybg_p2waPC9T9SQK4FI" target="_blank"><img src = "/events/2019-columbus/2019_Columbus_Promo_Flyer.png" class="img-fluid""></a>
+<a href = "https://docs.google.com/presentation/d/1TxnL6EMcEjuruwyCldL5b3RYybg_p2waPC9T9SQK4FI" target="_blank"><img src = "/events/2019-columbus/2019_columbus_promo_flyer.png" class="img-fluid""></a>
 </div>
 </div>

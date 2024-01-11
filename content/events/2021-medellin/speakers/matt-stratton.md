@@ -2,7 +2,7 @@
 Title = "Matt Stratton"
 Twitter = "@mattstratton"
 Website = "https://devopspartygames.com/"
-image = "Matt-Stratton.png"
+image = "matt-stratton.png"
 type = "speaker"
 linktitle = "matt-stratton"
 

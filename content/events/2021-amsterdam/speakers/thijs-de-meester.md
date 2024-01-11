@@ -1,7 +1,7 @@
 +++
 Title = "Thijs de Meester"
 Twitter = "demeesterdev"
-image = "Thijs_De_Meester.jpg"
+image = "thijs_de_meester.jpg"
 type = "speaker"
 linktitle = "thijs-de-meester"
 

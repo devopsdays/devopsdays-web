@@ -14,7 +14,7 @@ masthead_background: "berlin-masthead.png"
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2022-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: 2022-09-21T00:00:00+02:00 
+startdate: 2022-09-21T00:00:00+02:00
 enddate:  2022-09-22T23:59:59+02:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
@@ -22,6 +22,7 @@ cfp_date_start: 2022-05-01T00:00:00+02:00
 cfp_date_end: 2022-06-30T23:59:59+02:00
 cfp_date_announce: 2022-08-02T00:00:00+02:00
 
+cfp_open: false
 cfp_link: "https://cfp.devopsdays.berlin/2022/cfp"
 
 registration_date_start: 2022-04-25T00:00:00+02:00
@@ -38,11 +39,11 @@ location: "GLS Campus Berlin" # Defaults to city, but you can make it the venue 
 location_address: "Kastanienallee 82, 10435 Berlin" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+# - name: propose
   - name: location
   - name: registration
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -88,7 +89,7 @@ team_members: # Name is the only required field for team members.
   - name: "Carlos Tadeu Panato Jr"
     twitter: "comedordexis"
     github: "cpanato"
-    employer: "Mattermost"
+    employer: "Chainguard"
 
 organizer_email: "berlin@devopsdays.org" # Put your organizer email address here
 
@@ -97,6 +98,26 @@ organizer_email: "berlin@devopsdays.org" # Put your organizer email address here
 sponsors:
   - id: netways
     level: partner
+  - id: linuxmagazin
+    level: partner
+  - id: exoscale
+    level: platinum
+  - id: circleci
+    level: platinum
+  - id: polarsquad
+    level: platinum
+  - id: elastic
+    level: platinum
+  - id: cloudbees
+    level: platinum
+  - id: fiberplane
+    level: platinum
+  - id: emnify
+    level: gold
+  - id: redgate
+    level: gold
+  - id: forto
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -107,7 +128,7 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: platinum
     label: Platinum
-    max: 9
+    max: 6
   - id: gold
     label: Gold
     max: 0 # This is the same as omitting the max limit.
@@ -117,3 +138,178 @@ sponsor_levels:
   - id: partner
     label: Partner
     max: 3
+
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2022-09-21
+    start_time: "08:30"
+    end_time: "09:30"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2022-09-21
+    start_time: "09:30"
+    end_time: "09:40"
+  - title: "christian-hueser"
+    type: talk
+    date: 2022-09-21
+    start_time: "09:40"
+    end_time: "10:10"
+  - title: "schlomo-schapiro-2"
+    type: talk
+    date: 2022-09-21
+    start_time: "10:10"
+    end_time: "10:40"
+  - title: "Break"
+    type: custom
+    date: 2022-09-21
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "areti-panou"
+    type: talk
+    date: 2022-09-21
+    start_time: "11:10"
+    end_time: "11:40"
+  - title: "Sponsors"
+    type: custom
+    date: 2022-09-21
+    start_time: "11:40"
+    end_time: "11:45"
+  - title: "ewelina-wilkosz"
+    type: talk
+    date: 2022-09-21
+    start_time: "11:45"
+    end_time: "12:15"
+  - title: "Open Space: Explained"
+    type: open-space
+    date: 2022-09-21
+    start_time: "12:15"
+    end_time: "12:45"
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2022-09-21
+    start_time: "12:45"
+    end_time: "14:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2022-09-21
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: "Open Space Topics"
+    type: open-space
+    date: 2022-09-21
+    start_time: "14:30"
+    end_time: "15:00"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2022-09-21
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2022-09-21
+    start_time: "16:00"
+    end_time:  "16:45"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2022-09-21
+    start_time: "17:00"
+    end_time: "17:45"
+  - title: "Evening event"
+    type: custom
+    date: 2022-09-21
+    start_time: "18:00"
+    end_time: "late"
+    comments: "To be Discussed / Announced"
+
+    # Day 2
+
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2022-09-22
+    start_time: "08:30"
+    end_time: "09:30"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2022-09-22
+    start_time: "09:30"
+    end_time: "09:40"
+  - title: "marcel-britsch"
+    type: talk
+    date: 2022-09-22
+    start_time: "09:40"
+    end_time: "10:10"
+  - title: "radovan-bacovic"
+    type: talk
+    date: 2022-09-22
+    start_time: "10:10"
+    end_time: "10:40"
+  - title: "Break"
+    type: custom
+    date: 2022-09-22
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "jemma-bolland"
+    type: talk
+    date: 2022-09-22
+    start_time: "11:10"
+    end_time: "11:40"
+  - title: "Sponsors"
+    type: custom
+    date: 2022-09-22
+    start_time: "11:40"
+    end_time: "11:45"
+  - title: "yair-etziony"
+    type: talk
+    date: 2022-09-22
+    start_time: "11:45"
+    end_time: "12:15"
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2022-09-22
+    start_time: "12:15"
+    end_time: "13:30"
+  - title: "Ignites"
+    type: ignite
+    date: 2022-09-22
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space Topics"
+    type: open-space
+    date: 2022-09-22
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2022-09-22
+    start_time: "14:30"
+    end_time: "15:15"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2022-09-22
+    start_time: "15:30"
+    end_time: "16:10"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2022-09-22
+    start_time: "16:30"
+    end_time: "17:00"
+ignites:
+  - title: "schlomo-schapiro"
+    date: 2022-09-21
+  - title: "kris-buytaert"
+    date: 2022-09-21
+  - title: "philipp-krenn"
+    date: 2022-09-21
+  - title: "to-be-announced-ignite"
+    date: 2022-09-21
+  - title: "iris-hunkeler"
+    date: 2022-09-22
+  - title: "jorge-castro"
+    date: 2022-09-22
+  - title: "ivan-merrill"
+    date: 2022-09-22
+  - title: "andriy-bilous"
+    date: 2022-09-22
+  - title: "to-be-announced-ignite"
+    date: 2022-09-22

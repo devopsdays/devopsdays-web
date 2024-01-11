@@ -1,7 +1,7 @@
 +++
 Title = "Alicja Reniewicz"
 #Twitter = "http://twitter.com/thedavedev"
-image = "Alicja-Reniewicz.png"
+image = "alicja-reniewicz.png"
 type = "speaker"
 linktitle = "Alicja-Reniewicz"
 LinkedIn = "https://www.linkedin.com/in/alicja-reniewicz-834b321bb/"

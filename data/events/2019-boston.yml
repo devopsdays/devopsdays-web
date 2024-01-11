@@ -100,9 +100,9 @@ sponsors:
     level: platinum
   - id: victorops
     level: platinum
-  - id: influxdata
+  - id: influxdata-before-20220629
     level: platinum
-  - id: klaviyo
+  - id: klaviyo-before-20230929
     level: platinum
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: pegasystems
@@ -111,9 +111,9 @@ sponsors:
     level: gold
   - id: arresteddevops
     level: community
-  - id: googlecloud
+  - id: googlecloud-before-20220526
     level: platinum
-  - id: appdynamics
+  - id: appdynamics-before-20220714
     level: platinum
   - id: cloudbees-before-20210804
     level: platinum
@@ -157,7 +157,7 @@ sponsors:
     level: alacarte
   - id: stackrox
     level: gold
-  - id: klaviyo
+  - id: klaviyo-before-20230929
     level: alacarte
   - id: dtonomy
     level: startup

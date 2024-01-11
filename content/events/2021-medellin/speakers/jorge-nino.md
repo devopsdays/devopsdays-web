@@ -1,7 +1,7 @@
 +++
 Title = "Jorge Niño"
 #Twitter = "http://twitter.com/thedavedev"
-image = "Jorge-Nino.png"
+image = "jorge-nino.png"
 type = "speaker"
 linktitle = "Jorge-Nino"
 LinkedIn = "https://www.linkedin.com/in/jorge-ni%C3%B1o-villalba-4131bb46/"

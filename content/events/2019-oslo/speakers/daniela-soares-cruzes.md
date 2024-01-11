@@ -1,7 +1,7 @@
 +++
 Title = "Daniela Soares Cruzes"
 Twitter = ""
-image = "Daniela_Soares_Cruzes.jpeg"
+image = "daniela_soares_cruzes.jpeg"
 type = "speaker"
 linktitle = "daniela-soares-cruzes"
 

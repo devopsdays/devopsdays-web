@@ -1,7 +1,7 @@
 +++
 Title = "Edwin Moedano"
 #Twitter = ""
-image = "Edwin-Moedano.png"
+image = "edwin-moedano.png"
 type = "speaker"
 linktitle = "edwin-moedano"
 LinkedIn = "https://www.linkedin.com/in/edwinmoedano/"

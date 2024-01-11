@@ -1,7 +1,7 @@
 +++
 Title = "Luis Felipe Mejía"
 #Twitter = ""
-image = "Luis-Felipe-Mejia.png"
+image = "luis-felipe-mejia.png"
 type = "speaker"
 linktitle = "luis-felipe-mejia"
 

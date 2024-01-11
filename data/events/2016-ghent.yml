@@ -48,7 +48,7 @@ proposal_email: "proposals-belgium-2016@devopsdays.org" # Put your proposal emai
 sponsors:
   - id: chef-before-20210112
     level: gold
-  - id: cegeka
+  - id: cegeka-before-20220929
     level: gold
   - id: showpad-before-20190923
     level: gold

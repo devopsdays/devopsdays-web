@@ -19,27 +19,28 @@ cfp_date_end: 2021-11-15T07:00:00-03:00 # close your call for proposals.
 cfp_date_announce: 2021-10-14T08:00:00-03:00 # inform proposers of status
 
 cfp_open: "false"
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://www.papercall.io/devopsdaysfortaleza2022" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: 2021-10-18 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: 2022-01-10 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: 2022-06-29 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2022-08-10 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://devopsdaysce.eventize.com.br" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
-coordinates: "-3.7710272, -38.4858382" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Local: Centro Universitário 7 de Setembro - Fortaleza/CE" # Defaults to city, but you can make it the venue name.
+coordinates: "3.7697702, -38.4799603" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Local: UNIFOR - Universidade de Fortaleza - Fortaleza/CE" # Defaults to city, but you can make it the venue name.
 #
-location_address: "Av. Almirante Maximiniano da Fonseca, 1395 - Eng. Luciano Cavalcante" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "Av. Washington Soares, 1321 - Edson Queiroz" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
   - name: location
-#  - name: registration
+  - name: registration
+    url: https://devopsdaysce.eventize.com.br
  # - name: program
-#  - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct-pt-br
@@ -71,11 +72,31 @@ team_members: # Name is the only required field for team members.
     website: ""
     image: "anacarla.jpeg"
 
+  - name: "Ana Mendes"
+    twitter: ""
+    employer: "TJCE"
+    bio: "Graduated in systems analysis and development and graduate student in Software Engineering,DevOps and Cloud Computing. Certified GitLab and Oracle Cloud Foundations 2021. At the moment I work as a DevOps at TJCE and I've been looking to follow a path of studies about this amazing culture and its tools. Currently supports the two projects: Pyladies Fortaleza and DevOps Day Fortaleza."
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/ana-mdo/"
+    website: ""
+    image: "ana-mendes.jpeg"    
+
+  - name: "Cecília Câmara"
+    twitter: ""
+    employer: "FortBrasil"
+    bio: "Computer Science student at the Federal University of Ceará. I'm a new data professional who loves Python and is very curious. This allowed me to have vast experience of projects in the technology area in the areas of Data Science, Dev Back-End, Testing (V&V) and games. After these experiences, I found myself in the Data Science area and I don't intend to leave anymore."
+    github: "CeciliaHelen"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/cec%C3%ADlia-c%C3%A2mara-400303181/"
+    website: ""
+    image: "cecilia.camara.jpeg"
+
   - name: "Ana Aguilar"
     twitter: ""
     employer: "QuintoAndar"
-    bio: "mother, wife, professional and curious. Currently supports a team of SREs in the product engineering area. Loves technology, communities and people. Believes that the union of technology and people create innovative scenarios.Master's student in Artificial Intelligence and Data Science. Currently supports the two projects Pyladies Fortaleza and DevOps Day Fortaleza."
-    github: ""
+    bio: "Graduated in network of computers with specialization in security information .I am working on IT are since 2012. And as DevOps engineer with over 5 years of working. Loves to automate boring tasks. Facilitating continuous development, continuous testing, and continuous integration, thus ensuring high quality and on-time delivery."
+    github: "ana-aguilar7"
     facebook: ""
     linkedin: ""
     website: ""
@@ -90,16 +111,57 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/ezzio-moreira-89587898/"
     website: ""
     image: "ezzio.moreira.jpeg"
-    
+
+  - name: "Henrique Oliveira"
+    twitter: ""
+    employer: "GreenMile"
+    bio: "I am Black Guy Fortalezense, that love music, arts, movies/tv and books. I work for an international company with DevOps/SRE Role Position. By the way, I support many causes, humanity causes. I am happying for support this cause too, because we help many people in entire world."
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/henrikoliveira/"
+    website: ""
+    image: "henrique-oliveira.png"
+
+  - name: "Nathália Lira"
+    twitter: ""
+    employer: "FortBrasil"
+    bio: "Graduated in network of computers with specialization in security information and IT Governance. I love technology and I am working on IT are since 2010. I work for an Fintech with IT operations and governance manager."
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/nathalialira8/"
+    website: ""
+    image: "nathalia-lira.jpg"
+
+  - name: "Rafael Camelo"
+    twitter: ""
+    employer: "RCN&BS"
+    bio: "My name is Rafael, I have a Degree in Computer Networks and a Post Graduate in Information Security, I am currently studying the Devops culture and I intend to use the solutions provided by it. I am living in Fortaleza, Ceará Brazil. Currently I work in a company that provides solutions service related to technology, my position currently is, infrastructure analyst. I love to play sports like judo and Crossfit, I really like to read things not related to IT"
+    github: "rafaelm93"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/rafael-camelo-98120b93/"
+    website: ""
+    image: "rafael-camelo.jpg"
+
   - name: "Pedro Azevedo"
     twitter: ""
-    employer: "Systems Developer"
-    bio: "Sysadmin for almost a decade! Focused on open source solutions, working for datacenter providers. I worked with Backup, Network, Webhosting, Dabatases, all top virtualizers, it’s hard to say how many techonologies I’ve been working with among the years. I’m a python fan, DevOps enthusiastic, automation fanatic and I seek for contribute and evolve our local community, difunding kwownledge and organizating meetups every month for experience sharing."
+    employer: "Software Engineer"
+    bio: "Sysadmin for over a decade! I have huge experience on open source solutions, working for many amazing companies. I've been working with public cloud providers over those last years, helping companies to keep their business always on. I’m a python fan, DevOps Culture afictioned, automation fanatic. I seek for contribute and evolve our local community, difunding kwownledge and sharing whatever I learn on the daily challenges. My main goal is to be the best husband, father, friend I can be."
     github: "phwebcloud"
     facebook: ""
     linkedin: "https://www.linkedin.com/in/phlimaazevedo/"
     website: ""
-    image: ""     
+    image: "pedro-azevedo.png"
+
+  - name: "Joab Rocha"
+    twitter: ""
+    employer: "Software Engineer"
+    bio: "Student of Industrial Mathematics at the Federal University of Ceará, I am an enthusiast in web development that seeks to improve more and more in the new technologies that are emerging. I have 2 years of experience developing Back-End systems for the Web, with some knowledge in Docker and Deploy, and about 5 years with programming in general."
+    github: "Joab-S"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/joabdsr/"
+    website: ""
+    image: "joab.rocha.jpeg"  
+
  
 
 organizer_email: "fortaleza@devopsdays.org" # Put your organizer email address here
@@ -128,23 +190,49 @@ sponsor_levels:
     label: Silver
   - id: bronze
     label: Bronze
+  - id: community
+    label: Community  
 
 sponsors:
-  - id: Uni7
+  - id: unifor
+    level: platinum
+    url: https://unifor.br/
+  - id: quode
+    level: platinum
+    url: https://www.quodeproject.com.br/  
+  - id: elevenworks
+    level: platinum
+    url: https://elven.works/
+  - id: linuxtips
+    level: silver
+    url: https://www.linuxtips.io/
+  - id: forja
+    level: silver
+    url: https://techleadership.rocks
+  - id: novatec
+    level: community
+    url: https://novatec.com.br
+  - id: urbanostreet
+    level: community
+    url: https://www.instagram.com/urbano.street/
+  - id: grafanabr
+    level: community
+    url: https://grafana.com/
+  - id: servix
+    level: community
+    url: https://servix.com/
+  - id: elastic
+    level: bronze
+    url: https://www.elastic.co/
+  - id: atlantico
     level: gold
-    url: https://www.uni7.edu.br/
-  # - id: flexa
-  #   level: platinum
-  #   url: https://flexa.cloud/
-  # - id: linuxtips
-  #   level: gold
-  #   url: https://www.linuxtips.io/
-  # - id: spiritsec
-  #   level: gold
-  #   url: https://www.spiritsec.com/
-  # - id: LPI
-  #   level: gold
-  #   url: https://www.lpi.org/
+    url: https://www.atlantico.com.br/
+  - id: aws-user-group-ce
+    level: community
+    url: https://www.meetup.com/pt-BR/AWS-Users-Group-CE/
+  - id: energy-telecom
+    level: community
+    url: https://www.energytelecom.com.br/
   # - id: globoofficial
   #   level: silver
   #   url: https://www.globo.com/

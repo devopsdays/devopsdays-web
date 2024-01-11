@@ -13,9 +13,19 @@ This year's event will happen at <a href="https://www.ionhouston.com/">The Ion H
 
 {{< event_map >}}
 
-<!-- Edit and uncomment to let people know what accessibility features you have available -->
-<!-- 
-    Example from Minneapolis 2020
 
-    We offer wheelchair-designated spaces, chairs, and standing options (with tall tables) in the mainstage session room; a quiet room; bathrooms labeled according to the facilities they contain; professional live captioning of mainstage sessions; ingredient labeling (based on data provided when registering); and private space (upon request) for those nursing. We'd also be happy to accommodate any other accessibility needs upon request: {{< email_organizers >}}    
--->
+<h2>Parking</h2>
+
+Attendees may use the Visitor Parking lot or the Contractor Parking lot in the case of overflow. We recommend using Contractor Parking lot, as the Visitor Parking lot has very limited space.
+<br/>
+
+<b>Contractor Parking Instructions</b>: Enter 4203 Fannin Street into your GPS for directions directly to this parking lot, located across the street from The Ion building. 
+<br/>
+ 
+Please see the map below for location of parking lots and entrances:
+
+<img style="float: center-justified" src="/events/2022-houston/ion-parking.jpg">
+
+
+
+ <br/>

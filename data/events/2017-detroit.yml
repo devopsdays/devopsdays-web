@@ -75,7 +75,7 @@ sponsors:
     level: gold
   - id: appdynamics-before-20180316
     level: gold
-  - id: newrelic
+  - id: newrelic-before-20220808
     level: gold
   - id: cengage
     level: gold
@@ -87,7 +87,7 @@ sponsors:
     level: gold
   - id: servicenow-before-20180620
     level: silver
-  - id: delphix
+  - id: delphix-before-20220810
     level: silver
   - id: microsoft
     level: silver

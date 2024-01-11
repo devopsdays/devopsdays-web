@@ -1,6 +1,5 @@
-[![Build Status](https://circleci.com/gh/devopsdays/devopsdays-web.svg?branch=main)](https://circleci.com/gh/devopsdays/devopsdays-web) [![Build status](https://ci.appveyor.com/api/projects/status/3lobrrssphdb20xd?svg=true)](https://ci.appveyor.com/project/DevOpsDays/devopsdays-web)
-[![license](https://img.shields.io/github/license/devopsdays/devopsdays-theme.svg)](https://github.com/devopsdays/devopsdays-web/blob/main/LICENSE) [![Greenkeeper badge](https://badges.greenkeeper.io/devopsdays/devopsdays-web.svg)](https://greenkeeper.io/)
-
+![Build Status](https://github.com/devopsdays/devopsdays-web/actions/workflows/hugo.yml/badge.svg)
+[![license](https://img.shields.io/github/license/devopsdays/devopsdays-theme.svg)](https://github.com/devopsdays/devopsdays-web/blob/main/LICENSE)
 
 # devopsdays-web
 
@@ -22,7 +21,7 @@ In the instance where you might need to cancel an event that is already listed o
 
 ## Site-wide Hugo theme
 
-You may find that you want to improve the site in some way that's not specific to your event. We use a custom Hugo theme, and reference documentation is available in [devopsdays-theme's REFERENCE.md](https://github.com/devopsdays/devopsdays-web/blob/main/themes/devopsdays-theme/REFERENCE.md).
+You may find that you want to improve the site in some way that's not specific to your event. We use a custom Hugo theme, and reference documentation is available in [devopsdays-theme's reference.md](https://github.com/devopsdays/devopsdays-web/blob/main/themes/devopsdays-theme/reference.md).
 
 The technical details for contributing to the site-wide theme's development are covered in [devopsdays-theme's CONTRIBUTING.md](https://github.com/devopsdays/devopsdays-web/blob/main/themes/devopsdays-theme/CONTRIBUTING.md).
 
@@ -33,4 +32,3 @@ If you discover a problem with the site that isn't specific to an event's conten
 If there is a feature that you would like to see, please [open an issue](https://github.com/devopsdays/devopsdays-web/issues/new) and prepend the title with `[ENHANCEMENT]`.
 
 If you would like to help prioritize enhancements, please upvote the original issue by [adding a reaction](https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments).
-

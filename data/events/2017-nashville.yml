@@ -60,7 +60,7 @@ proposal_email: "proposals-nashville-2017@devopsdays.org" # Put your proposal em
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: contino
+  - id: contino-before-20230823
     level: gold
   - id: datablue
     level: gold
@@ -112,7 +112,7 @@ sponsors:
     level: alacarte
   - id: devops-institute
     level: alacarte
-  - id: gcp
+  - id: gcp-before-20220712
     level: alacarte
   - id: juiceanalytics
     level: alacarte

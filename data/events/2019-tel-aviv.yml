@@ -144,7 +144,7 @@ sponsors:
     level: platinum
   - id: facebook
     level: platinum
-  - id: elastic
+  - id: elastic-before-20221004
     level: gold
   - id: bigpanda
     level: gold
@@ -154,9 +154,9 @@ sponsors:
     level: gold
   - id: jfrog
     level: gold
-  - id: newrelic
+  - id: newrelic-before-20220808
     level: gold
-  - id: googlecloud
+  - id: googlecloud-before-20220526
     level: gold
   - id: mondaycom
     level: gold

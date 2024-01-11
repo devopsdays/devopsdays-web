@@ -21,8 +21,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
   <thead>
     <tr>
       <th scope="col">THE GOODS</th>
-      <th scope="col">GOLD</th>
-      <th scope="col">SILVER</th>
+      <th scope="col">SILVER</th> 
       <th scope="col">BRONZE</th>
       <th scope="col">COMMUNITY</th>
     </tr>
@@ -30,7 +29,6 @@ The best thing to do is send engineers to interact with the experts at devopsday
   <tbody>
     <tr>
       <td>Price</td>
-      <td>$7,500</td>
       <td>$4,250</td>
       <td>$1,250</td>
       <td>Free</td>
@@ -46,15 +44,6 @@ The best thing to do is send engineers to interact with the experts at devopsday
     </tr>
     <tr>
       <td></td>
-      <td>
-        <!-- Gold Paypal button  -->
-        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-          <input type="hidden" name="cmd" value="_s-xclick">
-          <input type="hidden" name="hosted_button_id" value="LDL9YT3DT62DC">
-          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-          <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-        </form>
-      </td>
       <td>
         <!-- silver Paypal button  -->
         <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -78,73 +67,9 @@ The best thing to do is send engineers to interact with the experts at devopsday
     </tr>
     <tr>
       <td>Tickets Included</td>
-      <td>4</td>
       <td>2</td>
       <td>1</td>
       <td>0</td>
-  </tbody>
-</table>
-
-<h2>&Agrave; la Carte Sponsorships</h2>
-
-All &Agrave; la Carte sponsorship is for specific a purpose and would be in addition to the above sponsorship levels or completely separate with out a booth. We do have some flexabilities with these sponsorships, so just ask! Email us: <a href="mailto:seattle@devopsdays.org">seattle@devopsdays.org</a>.
-<br/><br/>
-
-<table class="table table-bordered table-hover">
-  <thead>
-    <tr>
-      <th scope="col">Sponsorship</th>
-      <th scope="col">Price</th>
-      <th scope="col">Description</th>
-      <th scope="col">Number Available</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Bag Inserts</td>
-      <td>$1,000</td>
-      <td> a perfect way to give attendees coupons, promos and more </td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td><font color="silver"><strike>Lanyard</strike></font></td>
-      <td><font color="silver"><strike>$2,000</strike></font></td>
-      <td><font color="silver"><strike>Lanyards are prime real estate and kept by attendees for a long time</strike></font></td>
-      <td><font color="silver"><strike>1</strike></font></td>
-    </tr>
-    <tr>
-      <td>Breakfast Sponsor</td>
-      <td>$4,500</td>
-      <td>Everyone needs to fuel up in the morning, make a lasting impression by doing
-so!</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>Refreshments and Snacks</td>
-      <td>$5,000</td>
-      <td>Providing awesome snacks means you’ll become attendees favorite
-sponsor!</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>Lunch</td>
-      <td>$6,500</td>
-      <td>Lunch time is a key part of the experience - sponsor this refueling break! </td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>Social Hour</td>
-      <td>TBD by Sponsor and Organizers.<br><a href="mailto:seattle@devopsdays.org">Contact us</a></td>
-      <td>Sponsor an amazing social hour after Day 1 for everyone to mingle and
-unwind</td>
-      <td>TBD</td>
-    </tr>
-    <tr>
-      <td>Close Caption</td>
-      <td>TBD by Sponsor and Organizers.<br><a href="mailto:seattle@devopsdays.org">Contact us</a></td>
-      <td>Sponsor accessibility!</td>
-      <td>TBD</td>
-    </tr>
   </tbody>
 </table>
 

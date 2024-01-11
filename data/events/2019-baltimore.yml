@@ -157,7 +157,7 @@ sponsor_levels:
     label: Community
 
 sponsors:
-  - id: appdynamics
+  - id: appdappdynamics-before-20220714
     level: platinum
   - id: fearless
     level: platinum
@@ -177,11 +177,11 @@ sponsors:
     level: platinum
   - id: redhat-before-20190528
     level: platinum
-  - id: contrast_security
+  - id: contrast_security-before-20221014
     level: platinum
   - id: cloudbolt
     level: platinum
-  - id: googlecloud
+  - id: googlecloud-before-20220526
     level: platinum
   - id: jfrog
     level: platinum

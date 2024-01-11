@@ -109,28 +109,28 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: venue
     label: Venue
-    max: "1"
+    max: 1
   - id: lunch
     label: Lunch and break
-    max: "1"
+    max: 1
   #- id: party
   #  label: Party
-  #  max: "1"
+  #  max: 1
   #- id: dinners
   #  label: Dinners with speakers
-  #  max: "1"
+  #  max: 1
   #- id: beer
   #  label: Beer
-  #  max: "1"
+  #  max: 1
   - id: platinum
     label: Platinum
-    max: "5"
+    max: 5
   - id: gold
     label: Gold
-    max: "8"
+    max: 8
   - id: silver
     label: Silver
-    max: "12"
+    max: 12
   - id: transport
     label: Official Transport
     max: 1
@@ -138,7 +138,7 @@ sponsor_levels:
   #  label: Student tickets
   #- id: lanyards
   #  label: Lanyards
-  #  max: "1"
+  #  max: 1
   - id: friends
     label: Friends, media partners and other
 

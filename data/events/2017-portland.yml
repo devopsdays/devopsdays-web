@@ -93,7 +93,7 @@ sponsors:
       level: gold
     - id: itmotives
       level: lanyard
-    - id: elastic
+    - id: elastic-before-20221004
       level: gold
     - id: tintri
       level: gold
@@ -131,7 +131,7 @@ sponsors:
       level: silver
     - id: pagerduty-before-20190930
       level: gold
-    - id: newrelic
+    - id: newrelic-before-20220808
       level: gold
     - id: bitnami
       level: bronze

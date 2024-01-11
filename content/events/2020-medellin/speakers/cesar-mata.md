@@ -1,7 +1,7 @@
 +++
 Title = "Cesar Mata"
 #Twitter = ""
-image = "Cesar-Mata.png"
+image = "cesar-mata.png"
 type = "speaker"
 linktitle = "cesar-mata"
 LinkedIn = "https://www.linkedin.com/in/cesar-antonio-mata-de-avila-a89a4153/"

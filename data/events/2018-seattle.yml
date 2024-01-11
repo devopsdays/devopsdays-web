@@ -90,7 +90,7 @@ sponsors:
     level: gold
   - id: slalom
     level: gold
-  - id: influxdata
+  - id: influxdata-before-20220629
     level: gold
   - id: pagerduty-before-20190930
     level: gold
@@ -110,7 +110,7 @@ sponsors:
     level: gold
   - id: mabl
     level: gold
-  - id: portworx
+  - id: portworx-before-20220630
     level: gold
   - id: dellemc
     level: gold
@@ -124,17 +124,17 @@ sponsors:
     level: gold
   - id: jfrog
     level: gold
-  - id: elastic
+  - id: elastic-before-20221004
     level: gold
   - id: dynatrace
     level: gold
-  - id: newrelic
+  - id: newrelic-before-20220808
     level: gold
   - id: techtown-before-20190407
     level: silver
   - id: rightstar-before-20180814
     level: silver
-  - id: contrast_security
+  - id: contrast_security-before-20221014
     level: silver
   - id: cloudbees-before-20210804
     level: silver

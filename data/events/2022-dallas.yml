@@ -14,13 +14,13 @@ startdate: 2022-08-24T00:00:00-05:00 # The start date of your event. Leave blank
 enddate: 2022-08-25T23:59:59-05:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2022-04-22T21:00:00-05:00 # start accepting talk proposals.
-cfp_date_end: 2022-07-01T18:00:00-05:00 # close your call for proposals.
-cfp_date_announce: 2022-07-27T18:00:00-05:00 # inform proposers of status
+# cfp_date_start: 2022-04-22T21:00:00-05:00 # start accepting talk proposals.
+# cfp_date_end: 2022-07-01T18:00:00-05:00 # close your call for proposals.
+# cfp_date_announce: 2022-07-27T18:00:00-05:00 # inform proposers of status
 
-cfp_link: "https://www.papercall.io/dod-dfw-2022" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+# cfp_link: "https://www.papercall.io/dod-dfw-2022" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-masthead_background: "PlanoEventCenter.jpg"
+masthead_background: "planoeventcenter.jpg"
 sharing_image: "dallas2022.png"
 
 registration_date_start:  # start accepting registration. Leave blank if registration is not open yet
@@ -37,10 +37,10 @@ location_address: "2000 East Spring Creek Parkway, Plano, TX 75074" #Optional - 
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
-  - name: propose
-#  - name: program
-  - name: registration
-#  - name: speakers
+#  - name: propose
+  - name: program
+#  - name: registration
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -53,7 +53,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 team_members: # Name is the only required field for team members.
 
   - name: "Gokul Sridharan"
-    employer: "Micro Focus"
+    employer: "Katalon"
     bio: "Gokul Sridharan is a Master’s Degree holder in IT, an entrepreneur by nature and a successful presales management professional at CA Technologies. He has worked there for the past 3 years and successfully managing a business of $10m+ from a technical sales standpoint. Prior to joining CA and pursuing his master’s degree, Gokul started off his career at Accenture as a software developer.<br><br>During that time frame, he also started his own restaurant venture called ‘The Snack Shack’ in India. He loves DevOps concepts and likes to be a part of local meetups. He is also part of the organizing committee in DevOpsDays Dallas, and on in his spare time likes to work on new and innovative ideas."
     twitter: "ConsultGokul_CA"
     linkedin: "https://www.linkedin.com/in/gokul-sridharan-98a12323/"
@@ -112,8 +112,7 @@ team_members: # Name is the only required field for team members.
     image: "mark-andersen.jpg"
 
   - name: "Mark Saum"
-    employer: "Organizer Role - Leadership / Corporate Outreach / Marketing / Social Media"
-    role: "Fidelis Consulting"
+    employer: "Fidelis Consulting"
     bio: "20+ years advising large corporations and fast growth startups in IT architecture and security. <br><br>Mark Saum currently serves as the Chief Information Security Officer of DirectStream, LLC. DirectStream was founded by supercomputing pioneer Seymour Cray and provides a breakthrough supercomputing system and a secure cloud platform. DirectStream's goal is to provide the fastest, most secure computing platform on the planet. In this role, Mr. Saum has overall responsibility for the company’s corporate, hardware and cloud platform security. <br><br>Mr. Saum joined DirectStream from ModoPayments, where he was a co-founder and served as the CIO and CISO.  While at ModoPayments, he was co-inventor of US Patent US20120101887, A System and Method for Managing Merchant-Customer Interactions. He remains as an investor and advisor to ModoPayments. <br><br>Mr. Saum has provided IT consulting through Fidelis Consulting Corporation since 1997. His customers have included IBM, AT&T, General Motors, Sun Microsystems, JPMorganChase, Lucent Technologies, the Intelligence Community, US Cellular, GameStop,  and Verizon Wireless. <br><br>Mr. Saum is an AWS Certified Solutions Architect and holds a B. B. A. in Business Analysis/Management Information Systems from Texas A&M University, College Station."
     twitter: "msaum"
     linkedin: "https://www.linkedin.com/in/marksaum/"
@@ -128,7 +127,7 @@ team_members: # Name is the only required field for team members.
     image: "megan.jpg"
 
   - name: "Mike Rosado"
-    employer: "Consultant"
+    employer: "Airbrake/LogicMonitor"
     bio: "Mike who is a DevOps Enthusiast and Technical Evangelist works as an independent Consultant with customers in the United States and throughout Latin America. Mike enjoys sharing his views as it relates to the cultural movement of DevOps and technologies that contribute to the continuous improvement. He enjoys it so much, that he became one of the integral local organizers of DevOpsDays Dallas, [DevOps Live Meetup](https://www.meetup.com/DevOpsLive/), and active Global Core Organizer of [devopsday.org](https://www.devopsdays.org/about).<br><br>As a recognized leader in the DevOps space with exemplary recommendations in the LinkedIn community groups, Mike’s passion in this field shines as he mentors others and enjoys tackling challenges. Mike's vast experience in helping Enterprise customers for 23+ years at Microsoft in various capacity serves as a base as he continues to evolve in this DevOps journey. "
     twitter: "MikeRosTX"
     linkedin: "https://www.linkedin.com/in/mikerostx/"
@@ -137,18 +136,18 @@ team_members: # Name is the only required field for team members.
     website: "https://MikeRosTX.me"
 
   - name: "Roger Servey"
-    employer: "Verizon"
+    employer: "Charter Communications"
     bio: "Roger is a 20+ year International  IT Leader experienced with Software delivery for systems delivering multi billion dollar impacts to their Enterprises.  Roger currently leads Verizon's Engineering Practice Transformation Centers - DOJOs - Across the United States, where teams enter to learn new Agile Practices, DevOps Automantions and Cloud Technologies which speed time to value realization, drive efficiency and improve quality.<br><br>Focus Areas for Roger include: DevOps, Agile Development, Continuous Delivery, Lean Development, Software architecture and design, Pricing theory, Product Lifecycle Management, Onshore, Near Shore and Offshore project development (US, LATAM, EMEA, APAC) and Pricing Analytics.<br><br>Roger holds his Bachelors Degree from Southern Methodist University and is a continuous learner.  A Practitioner of constraint management and evangelist for DevOps measurement, speaking at OS Con 2018 and GLUCON 2018 on <strong><i>DevOps Measurement and Enter-Sourcing with Hygieia. That which is measured, improves!</i></strong>. "
     image: "roger.jpg"
 
   - name: "Russell W. Black"
-    employer:  "Independent DevOps Consultant"
+    employer: "Elevate"
     bio: "Russell currently serves as Manager of DevOps Engineering where his team encourages Dev Team autonomy for code and infrastructure pipelines. He has over 30 years of IT experience in a variety of technologies and industries. Starting as a Web Application Developer, then moving into IT Leadership Russell was introduced to DevOps in 2015 while managing platform and systems that supported the Verizon Global Website (www.verizon.com). He quickly adopted an agile / cloud-first methodology to improve feature speed and quality to the business.<br><br>Since 2008 Russell has led inclusive and empowered multi-cultural teams responsible for software development and delivery, production support, Operations, and DevOps."
     linkedin: "https://www.linkedin.com/in/russellblack/"
     image: "russell.jpg"
 
   - name: "Scott Purgerson"
-    employer: ""
+    employer: "Tech Mahindra"
     bio: "Scott Purgerson, was previously a Sr. Sales Executive with Automation Anywhere located in Dallas, Texas. Although born in San Jose, CA, he takes great pride in claiming he’s a Texan, as he’s resided there 97% of his life. Scott has over 16 years of professional experience, comprised of sales and management. He’s very passionate about helping and partnering with others in their digital transformation journey. Scott joined as an organizer for Dallas DevOps Days in 2019. In his downtime, Scott enjoys spending time with his wife, Michelle, and their corgi, Winnie, as well being in the woods, hunting."
     twitter: "PurgersonScott"
     linkedin: "https://www.linkedin.com/in/scott-purgerson-5858224"
@@ -180,11 +179,13 @@ sponsors:
 # - id: samplesponsorname
 #  level: gold
 #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-#  - id: solarwinds
+#  - id: solarwinds-before-20240105
 #    level: platinum
   - id: capitalone
     level: platinum
-  - id: appdynamics
+  - id: splunk
+    level: platinum
+  - id: appdynamics-before-20230221
     level: gold
   - id: xmatters
     level: gold
@@ -194,13 +195,43 @@ sponsors:
     level: gold
   - id: styra
     level: gold
-  - id: sleuth
+  - id: sleuth-before-2023
     level: gold
   - id: roostai
     level: gold
   - id: spectrocloud
     level: gold
   - id: cprime
+    level: gold
+  - id: spacelift
+    level: gold
+  - id: 42crunch
+    level: gold
+  - id: azul
+    level: gold
+  - id: nirmata
+    level: gold
+  - id: redhat
+    level: gold
+  - id: bitdefender
+    level: gold
+  - id: trendmicro-before-20230130
+    level: gold
+  - id: circleci
+    level: gold
+  - id: nobl9-before-20230929
+    level: gold
+  - id: octopus-deploy
+    level: gold
+  - id: mattermost
+    level: gold
+  - id: edge-delta
+    level: gold
+  - id: snyk
+    level: gold
+  - id: deepsource
+    level: gold
+  - id: diamanti
     level: gold
   - id: env0
     level: silver
@@ -210,21 +241,47 @@ sponsors:
     level: silver 
   - id: phoenixnap
     level: silver 
+  - id: cloudbees
+    level: silver
+  - id: improving
+    level: silver
+  - id: blameless
+    level: silver
+  - id: particle-41
+    level: silver
+  - id: unskript
+    level: silver
+  - id: manage-engine
+    level: silver
+  - id: redgate
+    level: silver
+  - id: edge-delta
+    level: happyhour
   - id: arresteddevops
+    level: media
+  - id: dfwlivestream
     level: media
   - id: devopslive
     level: community
   - id: addo
     level: community
-  - id: ansible-dallas
+#  - id: ansible-dallas
+#    level: community
+#  - id: ansible-fw
+#    level: community
+#  - id: devops-dfw
+#    level: community
+#  - id: dfwpug
+#    level: community
+#  - id: awsdeepdives
+#    level: community
+  - id: dfwvmug
     level: community
-  - id: ansible-fw
+  - id: dfwhug
     level: community
-  - id: devops-dfw
+  - id: ntxglug
     level: community
-  - id: dfwpug
-    level: community
-  - id: awsdeepdives
+  - id: gdgsolake
     level: community
    
 
@@ -244,9 +301,12 @@ sponsor_levels:
   - id: silver
     label: Silver
     max: 10
+  - id: happyhour
+    label: "Happy Hour"
+    max: 2
   - id: coffee
     label: Coffee Bar
-#   max: 3
+    max: 2
 # - id: bronze
 #   label: Bronze
 #   max: 0 # This is the same as omitting the max limit.
@@ -260,200 +320,199 @@ sponsor_levels:
 program:
   - title: "Registration & Breakfast"
     type: custom
-    date: 2019-08-20
+    date: 2022-08-24
     start_time: "08:00"
     end_time: "08:45"
-  - title: "Intro and Code of Conduct - Mark Saum (Organizer)"
+  - title: "Intro and Code of Conduct"
     type: custom
-    date: 2019-08-20
+    date: 2022-08-24
     start_time: "08:45"
     end_time: "09:00"
-  - title: ""
+  - title: "michael-cote"
     type: talk
-    date: 2019-08-20
+    date: 2022-08-24
     start_time: "09:00"
     end_time: "09:45"
-  - title: "damon-edwards"
+  - title: "thomas-j-sweet"
     type: talk
-    date: 2019-08-20
+    date: 2022-08-24
     start_time: "09:45"
     end_time: "10:15"
   - title: "Break"
     type: custom
-    date: 2019-08-20
+    date: 2022-08-24
     start_time: "10:15"
     end_time: "10:25"
-  - title: "quintessence-anx"
+  - title: "paul-grizzaffi"
     type: talk
-    date: 2019-08-20
+    date: 2022-08-24
     start_time: "10:25"
     end_time: "10:55"
   - title: "Sponsors"
     type: custom
-    date: 2019-08-20
+    date: 2022-08-24
     start_time: "10:55"
     end_time: "11:30"
-  - title: "dan-barker"
+  - title: "chris-koehnecke"
     type: talk
-    date: 2019-08-20
+    date: 2022-08-24
     start_time: "11:30"
     end_time: "12:00"
   - title: "Lunch (catered) | Open Space - Overview"
     type: custom
-    date: 2019-08-20
+    date: 2022-08-24
     start_time: "12:00"
     end_time: "12:45"
-  - title: "liz-fong-jones"
+  - title: "ana-medina"
     type: talk
-    date: 2019-08-20
+    date: 2022-08-24
     start_time: "12:45"
     end_time: "13:30"
   - title: "Sponsors"
     type: custom
-    date: 2019-08-20
+    date: 2022-08-24
     start_time: "13:30"
     end_time: "13:50"
-  - title: "vijay-challa"
+  - title: "jessica-clark"
     type: talk
-    date: 2019-08-20
+    date: 2022-08-24
     start_time: "13:50"
     end_time: "14:20"  
   - title: "Open Space - Topic Proposals & Selection"
     type: open-space
-    date: 2019-08-20
+    date: 2022-08-24
     start_time: "14:20"
     end_time: "14:30"
-  - title: "Open Space #1"
+  - title: "Open Space Day 1"
     type: open-space
-    date: 2019-08-20
+    date: 2022-08-24
     start_time: "14:30"
     end_time: "15:15"
   - title: "Break"
     type: custom
-    date: 2019-08-20
+    date: 2022-08-24
     start_time: "15:15"
     end_time: "15:30"
-  - title: "Open Space #2"
-    type: open-space
-    date: 2019-08-20
+  - title: "matthew-brahms"
+    type: talk
+    date: 2022-08-24
     start_time: "15:30"
     end_time: "16:15"
-  - title: "Show & Tell what will be raffled on the 21st."
+  - title: "Show & Tell what will be raffled on the 25th"
     type: custom
-    date: 2019-08-20
+    date: 2022-08-24
     start_time: "16:15"
     end_time: "16:20"
   - title: "Close Day & Logistics"
     type: custom
-    date: 2019-08-20
+    date: 2022-08-24
     start_time: "16:20"
     end_time: "16:30"
   - title: "Social Networking - Happy Hour"
     type: custom
-    date: 2019-08-20
+    date: 2022-08-24
     start_time: "16:30"
     end_time: "19:00"
 
   - title: "Registration & Breakfast"
     type: custom
-    date: 2019-08-21
+    date: 2022-08-25
     start_time: "08:00"
     end_time: "08:45"
-  - title: "Welcome - Mark Andersen (Organizer)"
+  - title: "Welcome"
     type: custom
-    date: 2019-08-21
+    date: 2022-08-25
     start_time: "08:45"
     end_time: "09:00"
-  - title: "ross-clanton"
+  - title: "andrew-john-talk"
     type: talk
-    date: 2019-08-21
+    date: 2022-08-25
     start_time: "09:00"
     end_time: "09:45"
-  - title: "derek-weeks"
+  - title: "nigel-thurlow"
     type: talk
-    date: 2019-08-21
+    date: 2022-08-25
     start_time: "09:45"
     end_time: "10:15"
   - title: "Break"
     type: custom
-    date: 2019-08-21
+    date: 2022-08-25
     start_time: "10:15"
     end_time: "10:30"  
-  - title: "crux-conception"
+  - title: "damien-burks"
     type: talk
-    date: 2019-08-21
+    date: 2022-08-25
     start_time: "10:30"
     end_time: "11:00"
-  - title: "Ignite Talks"
-    type: ignite
-    date: 2019-08-21
+  - title: "Sponsors"
+    type: custom
+    date: 2022-08-25
     start_time: "11:00"
     end_time: "11:30"
-  - title: "dana-finster"
-    type: talk
-    date: 2019-08-21
+  - title: "Ignite Talks"
+    type: ignite
+    date: 2022-08-25
     start_time: "11:30"
     end_time: "12:00"
   - title: "Lunch (catered) | Open Space - Overview"
     type: custom
-    date: 2019-08-21
+    date: 2022-08-25
     start_time: "12:00"
     end_time: "12:45"
-  - title: "michael-nygard"
+  - title: "patrick-debois"
     type: talk
-    date: 2019-08-21
+    date: 2022-08-25
     start_time: "12:45"
     end_time: "13:30"
   - title: "Open Space - Topic Proposals & Selection"
     type: open-space
-    date: 2019-08-21
+    date: 2022-08-25
     start_time: "13:30"
     end_time: "13:45"
-  - title: "Open Space #1"
-    type: open-space
-    date: 2019-08-21
+  - title: "keri-melich"
+    type: talk
+    date: 2022-08-25
     start_time: "13:45"
     end_time: "14:30"
   - title: "Break"
     type: custom
-    date: 2019-08-21
+    date: 2022-08-25
     start_time: "14:30"
     end_time: "14:45"
-  - title: "Open Space #2"
+  - title: "Open Space Day 2"
     type: open-space
-    date: 2019-08-21
+    date: 2022-08-25
     start_time: "14:45"
     end_time: "15:30"
   - title: "SPEAKER DISCUSSION PANEL (Click here for video)"
     type: custom
-    date: 2019-08-21
+    date: 2022-08-25
     start_time: "15:30"
     end_time: "16:15"
-    custom_url: "https://youtu.be/zlwOBFHT4X8"
+    custom_url: "https://youtu.be/CDbYfRHfp3U"
   - title: "Organizers Recognition"
     type: custom
-    date: 2019-08-21
+    date: 2022-08-25
     start_time: "16:15"
     end_time: "16:20"  
-  - title: "Closing, Raffle Giveaway, & Farewell"
+  - title: "Closing, Raffle Giveaway & Farewell"
     type: custom
-    date: 2019-08-21
+    date: 2022-08-25
     start_time: "16:20"
     end_time: "17:00"
 
 ignites:
 #  - title: "ignite-talks"
-#    date: 2019-08-21
-  - title: "jj-asghar"
-    date: 2019-08-21
-  - title: "bjorn-edwin"
-    date: 2019-08-21
-  - title: "ian-holmes"
-    date: 2019-08-21
-  - title: "farrah-campbell"
-    date: 2019-08-21
-  - title: "steve-shangguan"
-    date: 2019-08-21
-  - title: "aaron-mell"
-    date: 2019-08-21
+#    date: 2022-08-25
+  - title: "christa-meck"
+    date: 2022-08-25
+  - title: "james-thomas"
+    date: 2022-08-25
+  - title: "monica-miller"
+    date: 2022-08-25
+  - title: "eric-smalling"
+    date: 2022-08-25
+  - title: "tim-davis"
+    date: 2022-08-25
+
 

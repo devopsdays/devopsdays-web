@@ -55,7 +55,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: chef-before-20160714
     level: gold
-  - id: elastic
+  - id: elastic-before-20221004
     level: gold
   - id: parasoft
     level: gold
@@ -65,7 +65,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: solarwinds-before-20200114
     level: gold
-  - id: gcp
+  - id: gcp-before-20220712
     level: gold
   - id: 10thmagnitude
     level: gold
@@ -83,7 +83,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: rancher-before-20190812
     level: gold
-  - id: newrelic
+  - id: newrelic-before-20220808
     level: gold
   - id: dell
     level: gold

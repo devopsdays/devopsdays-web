@@ -114,7 +114,7 @@ sponsors:
     level: platinum
   - id:  netpoleon
     level: platinum
-  - id:  elastic
+  - id: elastic-before-20221004
     level: gold
   - id:  dynatrace
     level: gold
@@ -158,7 +158,7 @@ sponsors:
     level: university
   - id: binanusantara
     level: university
-  - id: securecodewarrior
+  - id: securecodewarrior-before-20230424
     level: tournament
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
