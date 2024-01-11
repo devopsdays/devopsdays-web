@@ -99,7 +99,7 @@ team_members: # Name is the only required field for team members.
     image: "pablo-menezes.jpg"
 
   - name: "Paulo Sizino Medeiros Moraes"
-    role: "Security Analist at Morphus Segurança da Informação"
+    role: "Cyber Security Specialist at Accenture Brasil"
     bio: ""
     linkedin: "https://www.linkedin.com/in/paulosizino/"
     website: ""
