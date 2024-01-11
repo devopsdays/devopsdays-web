@@ -278,12 +278,16 @@ sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: platinum
     label: Platinum
+    max: 4
   - id: gold
     label: Gold
+    max: 6
   - id: silver
     label: Silver
-  - id: bronze
-    label: Bronze
+    max: 8
+  - id: startup
+    label: Startup
+    max: 10
   - id: community
     label: Community
 
