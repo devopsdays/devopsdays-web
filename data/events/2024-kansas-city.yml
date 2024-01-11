@@ -144,9 +144,11 @@ team_members: # Name is the only required field for team members.
   - name: "Jenny Tarwater"
     employer: "Blueshift Innovation"
     bio: "Jenny Tarwater is an Enterprise Coach working with large organizations to achieve their business outcomes, generally using agile values, principles, and practices. Her default stance is to put people and culture first and be curious about how they impact the overall system and practices.  Jenny is an international speaker, serial conference organizer, and community advocate."
+    twitter: "JennyKCMO"
     linkedin: "https://www.linkedin.com/in/jennytarwater/"
     facebook: "https://www.facebook.com/jennytarwater/"
     website: "https://www.blueshiftinnovation.com"
+    image: "jenny-tarwater.jpg"
 
 organizer_email: "kansas-city@devopsdays.org" # Put your organizer email address here
 
