@@ -21,6 +21,7 @@ Description = "DevOpsDays Nashville 2024"
   <div class = "col-md-3">
     {{< event_logo >}}
   </div>
+<<<<<<< HEAD
   <div class = "col-md-6" style="box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 10px; padding: 10px; border-radius: 10px">
     <h1><p>Welcome to DevOps Days Nashville 2024</p></h1>
     <p>DevOps Days will be coming back to {{< event_location >}} on July 10th and 11th.</p>
@@ -29,6 +30,15 @@ Description = "DevOpsDays Nashville 2024"
     <h2><p><a href="https://www.papercall.io/devopsdays-nashville-2024" style="color: #C19A6B">Call for Proposals Open Until May 31st</a></p></h2>
     <p>Do you have a great topic for the community?  Visit our <a href="https://www.papercall.io/devopsdays-nashville-2024">Call for Speakers/Papers</a> site today!  We look forward to hearing from you.</p>
     
+=======
+  <div class = "col-md-6">
+    <h2><p>Welcome to DevOps Days Nashville 2024!</p></h2>
+    <p>We are excited to announce DevOps Days will be coming back to {{< event_location >}} on July 10th and 11th.</p>
+    <br>
+    <!-- <h2><p><a href="https://sessionize.com/nashvilledevopsdays2023/">Call for Proposals Now Open!</a></p></h2>
+    <p>Do you have a great topic for the community?  Visit our <a href="https://sessionize.com/nashvilledevopsdays2023/">Call for Speakers/Papers</a> site today!  We look forward to hearing from you.</p> -->
+  
+>>>>>>> e8a458459c (Adds 2024 event information)
   </div>
 </div>
 
@@ -41,7 +51,10 @@ Description = "DevOpsDays Nashville 2024"
     {{< event_start >}} - {{< event_end >}}
   </div>
 </div>
+<<<<<<< HEAD
 
+=======
+>>>>>>> e8a458459c (Adds 2024 event information)
 
 <div class = "row">
   <div class = "col-md-2">
@@ -59,7 +72,11 @@ Description = "DevOpsDays Nashville 2024"
   <div class = "col-md-8">
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
+<<<<<<< HEAD
 </div>
+=======
+</div> -->
+>>>>>>> e8a458459c (Adds 2024 event information)
 
 <div class = "row">
   <div class = "col-md-2">

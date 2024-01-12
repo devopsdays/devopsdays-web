@@ -5,10 +5,17 @@ Description = "Registration for devopsdays Nashville 2024"
 +++
 <hr>
 <div style="width:100%; text-align:left;">
+<<<<<<< HEAD
 <!-- <br>
 We wll be opening up registration very soon.  We look forward to seeing you at DevOpsDays Nashville!
 </div> -->
 
+=======
+<br>
+We wll be opening up registration very soon.  We look forward to seeing you at DevOpsDays Nashville!
+</div>
+<!-- 
+>>>>>>> e8a458459c (Adds 2024 event information)
 <div style="width:100%; text-align:left;">
 <br>
 <h3><a href="https://events.humanitix.com/devopsdays-nashville-2024">Registration is now open!</a></h3>

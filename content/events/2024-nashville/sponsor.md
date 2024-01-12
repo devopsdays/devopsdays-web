@@ -5,6 +5,7 @@ description = "Interested in sponsoring DevOpsDays Nashville 2024? We greatly va
 
 
 +++
+<<<<<<< HEAD
 <div class = "row">
 <div class = "col-md-8 col-sm-12">
 <br><br>
@@ -18,6 +19,39 @@ Any attendee also has the opportunity to demonstrate products or projects as par
 Please email the organizers at <a href="mailto:nashville@devopsdays.org?subject=General%20Questions%20Regarding%20Sponsorship%20of%20DevOpsDays%20Nashville%202024"><strong>nashville@devopsdays.org</strong></a> with any questions you may have about sponsoring the event.
 <br><br>
 <h2>Sponsorship Packages</h2>
+=======
+
+We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].  We have updated our sponsorship levels and have more levels available.  Please click the Learn more About Sponorship links for more details.  
+<p>
+
+DevOpsDays Nashville is a community-led conference for practitioners that depends on sponsorships.
+<p>
+
+From startups to enterprises in all industries including finance, health care, publishing and more, Nashville  is home to an amazing and vibrant tech community.  We’re proud to bring DevOpsDays back to Nashville for at Music City Center in 2023!  DevOpsDays Nashville will bring together 325+ development, operations, security, networking and management professions to discuss the culture, processes and tools to enable better organizations and innovative products.
+
+<p>
+The schedule will consist of a mixture of single-track presentations, ignite talks, and the open spaces format that DevOpsDays is known for.  Ticket prices include breakfast and lunch both days.  We will also have a number of surprises in store for attendees this year!
+The most up-to-date information can always be found at http://www.dodnashville.com 
+
+
+ We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
+<p>
+
+The best thing to do is send engineers to interact with the experts at devopsdays on their own terms.
+<p>
+
+ 
+<div class = "row">
+  <div class = "col-md-12">
+    <div class = "row justify-content-center">
+      <div class = "d-flex p-2">
+          <a class="btn btn-secondary btn-block" href="https://drive.google.com/file/d/1aBktK7EYObordxermyXIHp2TNolniSe7/view?usp=drive_link"> <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Learn more about Sponsorship</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+>>>>>>> e8a458459c (Adds 2024 event information)
 
 <table class="table table-bordered table-hover">
   <thead>

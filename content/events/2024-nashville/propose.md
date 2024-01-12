@@ -6,8 +6,12 @@ Description = "Propose a talk for DevOpsDays Nashville"
   <!-- {{< cfp_dates >}} -->
 
 <hr>
+<<<<<<< HEAD
 <strong>How to submit a proposal:</strong> Visit our <a href="https://www.papercall.io/devopsdays-nashville-2024">call for speakers </a> for more information and to submit your talk.
 <br></br>
+=======
+We will be posting more information soon about how to propose a talk.  We look forward to seeing you at DevOpsDays Nashville!
+>>>>>>> e8a458459c (Adds 2024 event information)
 
 There are three ways to propose a topic for DevOpsDays Nashville:
 <dl>
