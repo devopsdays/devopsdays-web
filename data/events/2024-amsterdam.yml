@@ -122,6 +122,9 @@ sponsors:
   # Gold
   # Lanyard
   # Foodtruck
+  # Recharge
+  - id: schubergphilis
+    level: recharge
   # Silver
   # Bronze
   - id: devleaps
@@ -155,6 +158,9 @@ sponsor_levels:
   - id: foodtruck
     label: "Food Truck"
     max: 4
+  - id: recharge
+    label: "Recharge Station"
+    max: 1
   - id: silver
     label: Silver
     max: 8
