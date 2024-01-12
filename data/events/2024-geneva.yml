@@ -3,7 +3,7 @@ year: "2024" # The year of the event. Make sure it is in quotes.
 city: "geneva" # The displayed city name of the event. Capitalize it.
 event_twitter: "DevopsdaysGe" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 event_logo: "logo-square.png"
-#masthead_background: "banner.png"
+masthead_background: "geneva-banner.png"
 sharing_image: "logo-square.png"
 
 description: "Devopsdays is coming to Geneva!" # Edit this to suit your preferences
@@ -39,7 +39,7 @@ location: "Geneva" # Defaults to city, but you can make it the venue name.
 location_address: "Campus de Battelle, Rue de la Tambourine 17, 1227 Carouge" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+#  - name: propose
   - name: location
   - name: registration
 #  - name: program
@@ -120,6 +120,28 @@ sponsors:
     level: community
   - id: swissitcompanies
     level: community
+  - id: netdata
+    level: speakers
+  - id: klanik
+    level: silver
+  - id: apwide
+    level: silver
+  - id: exoscale
+    level: silver
+  - id: feesh
+    level: gold
+  - id: redhat
+    level: gold
+  - id: swiss-cybersecurity
+    level: community
+  - id: heg-geneva
+    level: community
+  - id: powerhouse
+    level: community
+  - id: webmardi
+    level: community
+  - id: wejob
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -134,19 +156,19 @@ sponsor_levels:
   - id: gold
     label: Gold
     max: 8
+  - id: speakers
+    label: Speakers
+    max: 1
   - id: silver
     label: Silver
     max: 8
   - id: bronze
     label: Bronze
-  - id: community
-    label: Community
-  - id: speakers
-    label: Speakers
     max: 1
   - id: mic
     label: Mic
     max: 1
-
+  - id: community
+    label: Community
 
 program:
