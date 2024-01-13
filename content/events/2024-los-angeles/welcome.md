@@ -4,10 +4,11 @@ Type = "welcome"
 aliases = ["/events/2024-los-angeles/"]
 Description = "DevOpsDays Los Angeles 2024"
 +++
-
-
-
-<br><br>
+<div class = "col-md-12 push-md-12">
+  <h1 style="text-align: center;"><a href="/events/2024-los-angeles/devopsdayla2024_sponsor.pdf" style="font-size: 42px;">Sponsor the conference!</a></h1>
+  <div style="text-align: center"><a href="/events/2024-los-angeles/devopsdayla2024_sponsor.pdf" style="font-size: 42px;">➡️ Download Our Sponsor Prospectus PDF ⬅️</a></div>
+</div>
+<br>
 <div class = "row" id = "main-row">
   <div class = "col-md-6 push-md-8" id = "left-col">
     <h3>What is DevOpsDaysLA?</h3>
