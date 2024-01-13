@@ -17,7 +17,7 @@ enddate:  2024-04-17T23:59:59+02:00 # The end date of your event. Leave blank if
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  2023-11-01T00:00:00+02:00 # start accepting talk proposals.
 cfp_date_end:  2024-01-15T23:59:59+02:00 # close your call for proposals.
-cfp_date_announce: 2023-11-01T00:00:00+02:00 # inform proposers of status
+cfp_date_announce: 2024-01-31T00:00:00+02:00 # inform proposers of status
 
 cfp_link: "https://sessionize.com/devopsdays-zurich-2024/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
@@ -116,8 +116,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/nadinebroghammer"
     image: "nadine-broghammer.jpg"
   - name: "Isabel Schacher"
-    bio: "<p>I'm all about exceptional user experiences, having a background in UX engineering, interaction design, and even game design – because software should be fun, right? Crafting inclusive interfaces in interdisciplinary teams, that work seamlessly and bring smiles to users - that's my jam!
-Beyond work, I'm a passionate saxophonist. I'm looking forward contributing my skills to the media team of this year's DevOpsDays, ensuring every visitor leaves with a smile.</p>"
+    bio: "<p>I'm all about exceptional user experiences, having a background in UX engineering, interaction design, and even game design – because software should be fun, right? Crafting inclusive interfaces in interdisciplinary teams, that work seamlessly and bring smiles to users - that's my jam! Beyond work, I'm a passionate saxophonist. I'm looking forward contributing my skills to the media team of this year's DevOpsDays, ensuring every visitor leaves with a smile.</p>"
     employer: "Zühlke Engineering AG"
     github: ""
     facebook: ""
