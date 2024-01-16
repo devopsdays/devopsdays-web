@@ -104,7 +104,6 @@ All Media / Community sponsors are entities we value as pillars of continuous le
 <table class="table table-bordered table-hover">
   <thead>
     <tr>
-      <th scope="col"></th>
       <th scope="col">Sponsorship</th>
       <th scope="col">Price</th>
       <th scope="col">Description</th>
@@ -113,27 +112,25 @@ All Media / Community sponsors are entities we value as pillars of continuous le
   </thead>
   <tbody>
     <tr>
-      <td align="center"><i class="fa fa-microphone fa-2x"></i></td>
       <td>Media</td>
       <td>$0.00</td>
       <td>The media sponsorship is ideal for podcasts, blogs, news outlets, and other media who support DevOps. This sponsorship is free but we ask that you share information about DevOpsDays Nashville with your audience in order to become a Media Sponsor.
           <ul class="fa-ul">
-            <li><i class="fa-li fa fa-check-square"></i>One (1) ticket included.</li>
-            <li><i class="fa-li fa fa-check-square"></i>20% discount code for ten (10) tickets to share with your audience.</li>
-            <li><i class="fa-li fa fa-check-square"></i>Logo on a shared slide, rotating during breaks.</li>
-            <li><i class="fa-li fa fa-check-square"></i>Logo on the DevOpsDays Nashville 2024 event website.</li>
+            <li>&check; One (1) ticket included.</li>
+            <li>&check; 20% discount code for ten (10) tickets to share with your audience.</li>
+            <li>&check; Logo on a shared slide, rotating during breaks.</li>
+            <li>&check; Logo on the DevOpsDays Nashville 2024 event website.</li>
       <td>3</td>
     </tr>
     <tr>
-      <td align="center"><i class="fa fa-handshake-o fa-2x"></td>
       <td>Community & Non-Profit (NPO)</td>
       <td>$0.00</td>
       <td>The community and non-profit (NPO) sponsorships is ideal for local meetups, co-working spaces, and other non-commercial communities who support DevOps. These sponsorships are free, but we ask that you share information about DevOpsDays Nashville 2024 with your members in order to become a Community Sponsor.
           <ul class="fa-ul">
-            <li><i class="fa-li fa fa-check-square"></i>One (1) ticket included.</li>
-            <li><i class="fa-li fa fa-check-square"></i>20% discount code for twenty (20) tickets to share with your audience.</li>
-            <li><i class="fa-li fa fa-check-square"></i>Logo on a shared slide, rotating during breaks.</li>
-            <li><i class="fa-li fa fa-check-square"></i>Logo on the DevOpsDays Nashville 2024 event website.</li>
+            <li>&check; One (1) ticket included.</li>
+            <li>&check; 20% discount code for twenty (20) tickets to share with your audience.</li>
+            <li>&check; Logo on a shared slide, rotating during breaks.</li>
+            <li>&check; Logo on the DevOpsDays Nashville 2024 event website.</li>
       <td>10</td>
     </tr>
   </tbody>
@@ -147,7 +144,6 @@ All Media / Community sponsors are entities we value as pillars of continuous le
 <table class="table table-bordered table-hover">
   <thead>
     <tr>
-      <th scope="col"></th>
       <th scope="col">Sponsorship</th>
       <th scope="col">Price</th>
       <th scope="col">Description</th>
@@ -156,7 +152,6 @@ All Media / Community sponsors are entities we value as pillars of continuous le
   </thead>
   <tbody>
     <tr>
-      <td align="center"><i class="fa fa-tag fa-2x" aria-hidden="true"></td>
       <td>Laynard Sponsorship</td>
       <td align="center">$1,500
       </td>
@@ -164,7 +159,6 @@ All Media / Community sponsors are entities we value as pillars of continuous le
       <td>1</td>
     </tr>
     <tr>
-      <td align="center"><i class="fa fa-id-badge fa-2x" aria-hidden="true"></i></td>
       <td>Badge Sponsorship</td>
       <td align="center">$1,500
       </td>
@@ -172,7 +166,6 @@ All Media / Community sponsors are entities we value as pillars of continuous le
       <td>1</td>
     </tr>
     <tr>
-      <td align="center"><i class="fa fa-user fa-2x" aria-hidden="true"></i></td>
       <td>T-shirt Sleeve Logo</td>
       <td align="center">$1,500
       </td>
@@ -180,33 +173,29 @@ All Media / Community sponsors are entities we value as pillars of continuous le
       <td>1</td>
     </tr>
     <tr>
-      <td align="center"><i class="fa fa-coffee fa-2x"></i></td>
       <td>Coffee/Snack Sponsorship</td>
       <td align="center">Please contact us</td>
       <td>Signage with your logo by the coffee and snack displays throughout the day.</td>
       <td>2</td>
     </tr>
     <tr>
-      <td align="center"><i class="fa fa-coffee fa-2x" aria-hidden="true"></i></td>
       <td>Breakfast Sponsorship</td>
       <td align="center">Please contact us</td>
       <td>Signage with your logo by the breakfast tables and eating areas in the morning before sessions.</td>
       <td>2</td>
     </tr>
     <tr>
-      <td align="center"><i class="fa fa-cutlery fa-2x" aria-hidden="true"></i></i></td>
       <td>Lunch Sponsorship</td>
       <td align="center">Please contact us</td>
       <td>Signage with your logo by the lunch tables and in the eating area during lunch</td>
       <td>2</td>
     </tr>
     <tr>
-      <td align="center"><i class="fa fa-calendar fa-2x" aria-hidden="true"></i></td>
       <td>Happy Hour Sponsorship</td>
       <td align="center">Please contact us</td>
       <td>Signage with your logo at event and recognition with all Happy Hour announcements
           <ul class="fa-ul">
-            <li><i class="fa-li fa fa-check-square"></i>Must work with organizers to secure venue and communications</li>
+            <li>&check; Must work with organizers to secure venue and communications</li>
       <td>1</td>
     </tr>
   </tbody>
@@ -216,17 +205,17 @@ All Media / Community sponsors are entities we value as pillars of continuous le
 We are excited to have you sponsor our event. We also understand that there are sometimes circumstances that may cause you to need to withdraw that sponsorship. Refunds for sponsorships are available according to the following schedule:
 <br><br>
 <h4>À La Carte sponsorships</h4>
-  <i class="fa-li fa fa-check-square"></i>No refunds are available for À La Carte sponsorships.
+  &check; No refunds are available for À La Carte sponsorships.
  <br>
  <br>
 <h4>All other sponsorship levels</h4>
- <i class="fa-li fa fa-check-square"></i>Before May 1, 2024 - 80% refund is available.<br>
- <i class="fa-li fa fa-check-square"></i>Between May 1, 2024 and June 15, 2024 - 50% refund is available.<br>
- <i class="fa-li fa fa-check-square"></i>After June 15, 2024 - No refund is available.
+ &check; Before May 1, 2024 - 80% refund is available.<br>
+ &check; Between May 1, 2024 and June 15, 2024 - 50% refund is available.<br>
+ &check; After June 15, 2024 - No refund is available.
 <br>
 <br>
 Please email the organizers at <a href="mailto:nashville@devopsdays.org?subject=General%20Questions%20Regarding%20Sponsorship%20of%20DevOpsDays%20Nashville%202024">nashville@devopsdays.org</a> with any questions you may have about sponsoring the event or requesting a refund.
 <br><br>
 Sponsors are responsible for providing high-res logos for use on the website and in promotional materials.  The preferred file formats are PNG, EPS, or AI.
 <br><br>
-<i class="fa-li fa fa-check-square"></i><b>All sponsors attendees must be registered to attend</b>.
+&check; <b>All sponsors attendees must be registered to attend</b>.
