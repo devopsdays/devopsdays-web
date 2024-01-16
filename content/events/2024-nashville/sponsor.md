@@ -48,51 +48,51 @@ Please email the organizers at <a href="mailto:nashville@devopsdays.org?subject=
     </tr>
     <tr>
       <td colspan="2">Dedicated Slide with Logo on Event Slideshow</td>
-      <td><i class="fa fa-check"></i></td>
+      <td>&check;</i></td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td colspan="2">3 Minute "Elevator Pitch" to Full Audience</td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
+      <td>&check;</i></td>
+      <td>&check;</i></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td colspan="2">Booth space (6-foot table with power and table cloth)</td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
+      <td>&check;</i></td>
+      <td>&check;</i></td>
+      <td>&check;</i></td>
       <td></td>
     </tr>
     <tr>
       <td colspan="2">Giveaway Promotions Throughout Event</td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
+      <td>&check;</i></td>
+      <td>&check;</i></td>
+      <td>&check;</i></td>
       <td></td>
     <tr>
       <td colspan="2">Logo on Website, Main Room Signage and E-Mails</td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
+      <td>&check;</i></td>
+      <td>&check;</i></td>
+      <td>&check;</i></td>
+      <td>&check;</i></td>
     </tr>
     <tr>
       <td colspan="2">Social Media Sponsor Shout-Outs</td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
+      <td>&check;</i></td>
+      <td>&check;</i></td>
+      <td>&check;</i></td>
+      <td>&check;</i></td>
     </tr>
     <tr>
       <td colspan="2">20% Discount code for ten (10) tickets to share with your community</td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
+      <td>&check;</i></td>
+      <td>&check;</i></td>
+      <td>&check;</i></td>
+      <td>&check;</i></td>
     </tr>
   </tbody>
 </table>
