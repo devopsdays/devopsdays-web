@@ -37,7 +37,7 @@ Description = "DevOpsDays Vancouver 2024"
         </div>
     </div>
     <div>
-      <p>After a three year hiatus we are back in bussiness.</p>
+      <p>After a two year hiatus we are back in business.</p>
     </div>
   </div>
 </div>
