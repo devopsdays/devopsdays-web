@@ -1,7 +1,7 @@
 +++
 title = "Sponsorship"
 type = "event"
-description = "Interested in sponsoring DevOpsDays Dallas 2023? We greatly value sponsors for this open event."
+description = "Interested in sponsoring DevOpsDays Nashville 2024? We greatly value sponsors for this open event."
 
 
 +++
@@ -48,51 +48,51 @@ Please email the organizers at <a href="mailto:nashville@devopsdays.org?subject=
     </tr>
     <tr>
       <td colspan="2">Dedicated Slide with Logo on Event Slideshow</td>
-      <td><i class="fa fa-check" aria-hidden="true"></i></td>
+      <td><i class="fa fa-check"></i></td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td colspan="2">3 Minute "Elevator Pitch" to Full Audience</td>
-      <td><i class="fa fa-check" aria-hidden="true"></i></td>
-      <td><i class="fa fa-check" aria-hidden="true"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td colspan="2">Booth space (6-foot table with power and table cloth)</td>
-      <td><i class="fa fa-check" aria-hidden="true"></i></td>
-      <td><i class="fa fa-check" aria-hidden="true"></i></td>
-      <td><i class="fa fa-check" aria-hidden="true"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
       <td></td>
     </tr>
     <tr>
       <td colspan="2">Giveaway Promotions Throughout Event</td>
-      <td><i class="fa fa-check" aria-hidden="true"></i></td>
-      <td><i class="fa fa-check" aria-hidden="true"></i></td>
-      <td><i class="fa fa-check" aria-hidden="true"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
       <td></td>
     <tr>
       <td colspan="2">Logo on Website, Main Room Signage and E-Mails</td>
-      <td><i class="fa fa-check" aria-hidden="true"></i></td>
-      <td><i class="fa fa-check" aria-hidden="true"></i></td>
-      <td><i class="fa fa-check" aria-hidden="true"></i></td>
-      <td><i class="fa fa-check" aria-hidden="true"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
     </tr>
     <tr>
       <td colspan="2">Social Media Sponsor Shout-Outs</td>
-      <td><i class="fa fa-check" aria-hidden="true"></i></td>
-      <td><i class="fa fa-check" aria-hidden="true"></i></td>
-      <td><i class="fa fa-check" aria-hidden="true"></i></td>
-      <td><i class="fa fa-check" aria-hidden="true"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
     </tr>
     <tr>
       <td colspan="2">20% Discount code for ten (10) tickets to share with your community</td>
-      <td><i class="fa fa-check" aria-hidden="true"></i></td>
-      <td><i class="fa fa-check" aria-hidden="true"></i></td>
-      <td><i class="fa fa-check" aria-hidden="true"></i></td>
-      <td><i class="fa fa-check" aria-hidden="true"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
     </tr>
   </tbody>
 </table>
@@ -116,7 +116,7 @@ All Media / Community sponsors are entities we value as pillars of continuous le
       <td align="center"><i class="fa fa-microphone fa-2x"></i></td>
       <td>Media</td>
       <td>$0.00</td>
-      <td>The media sponsorship is ideal for podcasts, blogs, news outlets, and other media who support DevOps. This sponsorship is free but we ask that you share information about DevOpsDays Dallas with your audience in order to become a Media Sponsor.
+      <td>The media sponsorship is ideal for podcasts, blogs, news outlets, and other media who support DevOps. This sponsorship is free but we ask that you share information about DevOpsDays Nashville with your audience in order to become a Media Sponsor.
           <ul class="fa-ul">
             <li><i class="fa-li fa fa-check-square"></i>One (1) ticket included.</li>
             <li><i class="fa-li fa fa-check-square"></i>20% discount code for ten (10) tickets to share with your audience.</li>
@@ -128,13 +128,13 @@ All Media / Community sponsors are entities we value as pillars of continuous le
       <td align="center"><i class="fa fa-handshake-o fa-2x"></td>
       <td>Community & Non-Profit (NPO)</td>
       <td>$0.00</td>
-      <td>The community and non-profit (NPO) sponsorships is ideal for local meetups, co-working spaces, and other non-commercial communities who support DevOps. These sponsorships are free, but we ask that you share information about DevOpsDays Dallas 2023 with your members in order to become a Community Sponsor.
+      <td>The community and non-profit (NPO) sponsorships is ideal for local meetups, co-working spaces, and other non-commercial communities who support DevOps. These sponsorships are free, but we ask that you share information about DevOpsDays Nashville 2024 with your members in order to become a Community Sponsor.
           <ul class="fa-ul">
             <li><i class="fa-li fa fa-check-square"></i>One (1) ticket included.</li>
             <li><i class="fa-li fa fa-check-square"></i>20% discount code for twenty (20) tickets to share with your audience.</li>
             <li><i class="fa-li fa fa-check-square"></i>Logo on a shared slide, rotating during breaks.</li>
             <li><i class="fa-li fa fa-check-square"></i>Logo on the DevOpsDays Nashville 2024 event website.</li>
-      <td><s>10</s></td>
+      <td>10</td>
     </tr>
   </tbody>
 </table>
@@ -225,7 +225,7 @@ We are excited to have you sponsor our event. We also understand that there are 
  <i class="fa-li fa fa-check-square"></i>After June 15, 2024 - No refund is available.
 <br>
 <br>
-Please email the organizers at <a href="mailto:nashville@devopsdays.org?subject=General%20Questions%20Regarding%20Sponsorship%20of%20DevOpsDays%20Dallas%202023">nashville@devopsdays.org</a> with any questions you may have about sponsoring the event or requesting a refund.
+Please email the organizers at <a href="mailto:nashville@devopsdays.org?subject=General%20Questions%20Regarding%20Sponsorship%20of%20DevOpsDays%20Nashville%202024">nashville@devopsdays.org</a> with any questions you may have about sponsoring the event or requesting a refund.
 <br><br>
 Sponsors are responsible for providing high-res logos for use on the website and in promotional materials.  The preferred file formats are PNG, EPS, or AI.
 <br><br>
