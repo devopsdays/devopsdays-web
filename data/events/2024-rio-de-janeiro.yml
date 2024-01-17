@@ -79,7 +79,7 @@ team_members: # Name is the only required field for team members.
     image: "mauricio-gomes.jpg"
 
   - name: "Pedro Amaral Moreira"
-    employer: "GAVB"
+    employer: "PagoNxt Merchant Solutions"
     twitter: "predotaku"
     github: "pedroamaralm"
     linkedin: "Pedro Moreira"
