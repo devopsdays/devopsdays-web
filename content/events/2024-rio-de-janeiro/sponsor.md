@@ -4,7 +4,7 @@ Type = "event"
 Description = "Sponsor devopsdays Rio de Janeiro 2023"
 +++
 
-Valorizamos muito os patrocinadores deste evento aberto. Se você estiver interessado em patrocinar, envie um e-mail para [patrocine@devopsdays.org.br].
+Valorizamos muito os patrocinadores deste evento aberto. Se você estiver interessado em patrocinar, envie um e-mail para [<a href="mailto:patrocine@devopsdays.org.br">].
 
 <hr>
 <div>
