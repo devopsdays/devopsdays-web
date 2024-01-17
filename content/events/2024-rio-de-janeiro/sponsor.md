@@ -237,5 +237,5 @@ Aiming to enhance the participation of institutions in the event, we organized p
 <div>
 <p><strong>COMMUNITY:</strong> Supporters who have contributed some benefit to the public or amount of
 up to TBA receive the right to be publicized on social media and 1 registration for the event.</p>
-    <p style="font-size:18px">You can check more about sponsorship and the benefits here <a href="https://docs.google.com/presentation/d/1gQ-qrxTNvyIj17JbJdchdbCc9DT6_vtt7ioivHAui5I/edit?usp=sharing"><i class="fa fa-download" style="font-size:30px"></i></a></p>
+    <!-- <p style="font-size:18px">You can check more about sponsorship and the benefits here <a href="https://docs.google.com/presentation/d/1gQ-qrxTNvyIj17JbJdchdbCc9DT6_vtt7ioivHAui5I/edit?usp=sharing"><i class="fa fa-download" style="font-size:30px"></i></a></p> -->
 </div>
