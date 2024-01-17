@@ -8,7 +8,7 @@ active = [
 "Camilla Martins",
 "Adrian Moisey",
 "Michelle Ribeiro",
-"Sharone Zitzman"
+"Sharone Zitzman",
 ]
 
 advisory = [
@@ -32,7 +32,7 @@ emeritus = [
 "Matthew Jones",
 "Gildas Le Nadan",
 "Stephen Nelson-Smith",
-"Mike Rosado"
+"Mike Rosado",
 "Andrew Clay Shafer",
 "Julian Simpson",
 "Christian Trabold",
