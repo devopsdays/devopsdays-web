@@ -120,7 +120,7 @@ Visando valorizar a participação de instituições na realização do evento, 
 <div>
   <p><strong>COMUNIDADE:</strong> Apoiadores que contribuiram com algum beneficio para o público ou quantia de
   até TBA terão direito à divulgação nas redes sociais e 1 inscrição para o evento.</p>
-    <p style="font-size:18px">Veja mais e nosso mídia kit no documento completo clicando <a href="https://docs.google.com/presentation/d/1iaO7P6ZtFT9fipjGFI5kAmy8Ov2tAlxMh-5e7E96Z5s/edit#slide=id.g1348ef322d5_0_183"><i class="fa fa-download" style="font-size:30px"></i></a></p>
+    <!-- <p style="font-size:18px">Veja mais e nosso mídia kit no documento completo clicando <a href="https://docs.google.com/presentation/d/1iaO7P6ZtFT9fipjGFI5kAmy8Ov2tAlxMh-5e7E96Z5s/edit#slide=id.g1348ef322d5_0_183"><i class="fa fa-download" style="font-size:30px"></i></a></p> -->
 </div>
 
 <!--EN-->
