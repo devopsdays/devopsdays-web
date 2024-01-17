@@ -127,7 +127,7 @@ team_members: # Name is the only required field for team members.
     employer: "TWINT"
     bio: "<p>Jan Moser works since many years in different software architecture positions for national and international companies. With a background in software engineering, he successfully planned, designed and helped implement solutions in various business fields such as defence, automotive, pharma or finance. Jan works at the moment as lead enterprise architect at TWINT and helps to simplify peoples daily payment processes.</p>"
     linkedin: "https://www.linkedin.com/in/moserjan/"
-    image: "jan-moser.jpg"
+    image: "jan-moser.jpeg"
 organizer_email: "zurich@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
