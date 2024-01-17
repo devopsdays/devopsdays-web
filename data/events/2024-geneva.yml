@@ -242,8 +242,7 @@ program:
     start_time: "13:10"
     end_time: "14:40"
 
-    # Day 1: workshop 2 bis
-  - title: "Ignites"
+  - title: "Ignites Day 1"
     type: ignite
     date: "2023-05-13"
     start_time: "14:40"
@@ -373,11 +372,11 @@ program:
 
   - title: "Lunch"
     type: custom
-    date: "2023-05-13"
+    date: "2023-05-14"
     start_time: "12:25"
     end_time: "13:55"
 
-  - title: "Ignites"
+  - title: "Ignites Day 2"
     type: ignite
     date: "2023-05-14"
     start_time: "13:55"
@@ -450,3 +449,8 @@ program:
     start_time: "18:25"
     end_time: "18:40"
 
+ignites:
+  - title: "TBD"
+    date: 2023-05-13
+  - title: "404-documentation-not-found"
+    date: 2023-05-14
