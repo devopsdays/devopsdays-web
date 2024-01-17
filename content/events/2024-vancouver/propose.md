@@ -27,4 +27,5 @@ Choosing talks is part art, part science; here are some factors we consider when
 
 <hr>
 
-<strong>Please submit your proposals [here](https://docs.google.com/forms/d/e/1FAIpQLSf3bFSfuUzkf3guD0gQKfBZ87ifQxczUt8rSnO0KZRCYad4Iw/viewform?usp=sf_link)!</strong>
+<div class="d-flex justify-content-center">
+<a class="btn btn-lg btn-secondary" href="https://docs.google.com/forms/d/e/1FAIpQLSf3bFSfuUzkf3guD0gQKfBZ87ifQxczUt8rSnO0KZRCYad4Iw/viewform?usp=sf_link"><i class="fa fa-microphone fa-lg"></i>&nbsp;&nbsp;&nbsp; Submit a proposal</a></div>
