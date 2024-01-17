@@ -1,7 +1,7 @@
 +++
 Title = "Location"
 Type = "event"
-Description = "Location for devopsdays Rio de Janeiro 2023"
+Description = "Location for DevopsDays Rio de Janeiro 2023"
 +++
 
 O evento será sediado no Business Center Mario Henrique Simonsen, na Barra de Tijuca, próximo ao shopping Village Mall e ao Barra Garden. Há uma estação de BRT bem em frente.

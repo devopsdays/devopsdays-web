@@ -1,7 +1,7 @@
 +++
 Title = "Location"
 Type = "event"
-Description = "Location for devopsdays Rio de Janeiro 2022"
+Description = "Location for DevopsDays Rio de Janeiro 2022"
 +++
 
 O evento será sediado no Centro de Convenções RB1, ao lado do Museu do Amanhã e na região portuária. Acesso pelo Elevador Panorâmico. O local do evento é próximo ao ponto Parada dos Museus do VLT Carioca. O prédio possui estacionamento administrado pela ESTAPAR.
