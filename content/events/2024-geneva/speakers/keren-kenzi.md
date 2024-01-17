@@ -1,6 +1,6 @@
 +++
 Title = "Keren Kenzi"
-image = "keren-kenzi.jpg"
+image = "keren-kenzi.png"
 Linkedin = "https://www.linkedin.com/in/keren-kenzi/"
 type = "speaker"
 linktitle = "keren-kenzi"

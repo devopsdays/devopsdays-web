@@ -202,7 +202,7 @@ program:
 
     # Day 1: talk 3
   - title: the-critical-aspects-of-our-transformations
-    type: workshop
+    type: talk
     date: "2023-05-13"
     start_time: "10:05"
     end_time: "10:40"

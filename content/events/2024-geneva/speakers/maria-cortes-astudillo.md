@@ -1,6 +1,6 @@
 +++
 Title = "Maria Cortés Astudillo"
-image = "maria-cortes-astudillo.png"
+image = "maria-cortes-astudillo.jpg"
 Linkedin = "https://www.linkedin.com/in/maria-cortes-astudillo/"
 type = "speaker"
 linktitle = "maria-cortes-astudillo"

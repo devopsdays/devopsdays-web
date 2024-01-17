@@ -1,6 +1,6 @@
 +++
 Title = "Yohan Varona"
-image = "yohan-varona.png"
+image = "yohan-varona.jpg"
 Linkedin = "https://www.linkedin.com/in/varonayohan-agilecoach"
 type = "speaker"
 linktitle = "yohan-varona"
