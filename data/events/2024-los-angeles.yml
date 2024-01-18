@@ -131,6 +131,8 @@ sponsors:
   - id: nadog
     level: community
     url: https://www.nadog.com
+  - id: dnsimple
+    level: gold
   - id: doppler
     level: gold
   - id: honeycomb
