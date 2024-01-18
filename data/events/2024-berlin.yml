@@ -97,6 +97,8 @@ sponsors:
     level: partner
   - id: cloudsmith
     level: platinum
+  - id: snyk
+    level: platinum
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
