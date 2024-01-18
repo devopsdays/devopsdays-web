@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Transition vers le cloud. Retour d'expérience de la vision à la production"
 Type = "talk"
-Speakers = ["david-barbarin","laurent-prevost","marc-schar","gerald-gauthier"]
+Speakers = ["david-barbarin","gerald-gauthier","laurent-prevost","marc-schar"]
 +++
 
 "Notre objectif est de migrer toute notre infrastructure vers le cloud d'ici 2 à 3 ans" a été le point de départ de ce projet de migration.
