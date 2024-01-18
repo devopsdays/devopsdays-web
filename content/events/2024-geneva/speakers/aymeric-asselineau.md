@@ -1,6 +1,6 @@
 +++
 Title = "Aymeric Asselineau"
-image = "aymeric-asselineau.jpg"
+image = "aymeric-asselineau.png"
 Linkedin = "https://www.linkedin.com/in/aasselineau/"
 type = "speaker"
 linktitle = "aymeric-asselineau"

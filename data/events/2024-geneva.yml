@@ -107,7 +107,7 @@ sponsors:
   - id: hidora
     level: gold
   - id: techfirm
-    level: gold
+    level: event
   - id: e-xpert-solutions
     level: silver
   - id: dbi-services
@@ -142,6 +142,12 @@ sponsors:
     level: community
   - id: wejob
     level: community
+  - id: software-crafts-romandie
+    level: community
+  - id: f5-nginx
+    level: silver
+  - id: collaborationbetterstheworld
+    level: mic
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -450,7 +456,15 @@ program:
     end_time: "18:40"
 
 ignites:
-  - title: "TBD"
+  - title: "kubernetes-birthday"
     date: 2023-05-13
+  - title: "llms-introduction"
+    date: 2023-05-13
+  - title: "preparing-a-new-devopsdays"
+    date: 2023-05-13
+  - title: "simple-things-with-silly-names"
+    date: 2023-05-14
+  - title: "not-ready-for-kubernetes-deploy-in-caas-plateform"
+    date: 2023-05-14
   - title: "404-documentation-not-found"
     date: 2023-05-14

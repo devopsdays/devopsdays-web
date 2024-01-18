@@ -8,3 +8,5 @@ Speakers = ["delphine-pastorel","aymeric-asselineau","john-esplana","frederic-de
 +++
 
 Une revue de l'ensemble de la transformation des projets de l'unité Health du CICR vers le DevOps basé sur une stack full OSS.
+
+Ce talk sera en Français / Anglais
