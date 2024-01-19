@@ -6,6 +6,6 @@ Description = "Registration for devopsdays seattle 2024"
 
 <div style="width:100%; text-align:left;">
 
-Embed registration iframe/link/etc.
+https://www.accelevents.com/e/devops-days-seattle-2024
 </div></div>
 </div>
