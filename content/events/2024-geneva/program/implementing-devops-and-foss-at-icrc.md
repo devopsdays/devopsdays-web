@@ -7,7 +7,7 @@ Type = "talk"
 Speakers = ["delphine-pastorel","aymeric-asselineau","frederic-deniger","john-esplana"]
 +++
 
-This presentation will provide an overview of the ICRC's FOSS-based products and its digital transformation journey, to address end functional, technical, security and data protection requirements, and provide DevOps based on a full stack of opensource solutions, sustainable for ICRC and non-ICRC partners.
+This presentation will provide an overview of the ICRC's FOSS-based products and its digital transformation journey, to address functional, technical, security and data protection requirements, and provide DevOps based on a full stack of opensource solutions, sustainable for ICRC and non-ICRC partners.
 
 The talk will be in French and English
 
