@@ -118,8 +118,6 @@ sponsors:
     level: community
   - id: agilesuisse
     level: community
-  - id: swissitcompanies
-    level: community
   - id: netdata
     level: speakers
   - id: klanik
@@ -150,6 +148,8 @@ sponsors:
     level: mic
   - id: suse
     level: gold
+  - id: les-renverses
+    level: communit
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
