@@ -424,14 +424,14 @@ program:
   - title: "Open Space"
     type: open-space
     date: "2023-05-14"
-    start_time: "14:35"
-    end_time: "15:20"
+    start_time: "16:35"
+    end_time: "17:20"
 
   - title: "Open Space"
     type: open-space
     date: "2023-05-14"
-    start_time: "15:20"
-    end_time: "16:05"
+    start_time: "17:20"
+    end_time: "18:05"
 
   - title: xtrem-tdd-by-example
     type: workshop
