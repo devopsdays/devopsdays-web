@@ -1,7 +1,7 @@
 +++
 Title = "Conduct"
 Type = "event"
-Description = "Code of conduct for DevopsDays Rio de Janeiro 2022"
+Description = "Code of conduct for devopsdays Rio de Janeiro 2022"
 +++
 
 ## Quando algo acontece
@@ -61,7 +61,7 @@ Se espera que participantes solicitados a parar qualquer comportamento de asséd
 
 **Se um participante tiver um comportamento de assédio, os organizadores do evento retém o direito de tomar quaisquer ações necessárias para torná-lo convidativo a todos os participantes.** Isto inclui avisar o ofensor ou a expulsão do evento sem qualquer retorno financeiro (caso se aplique).
 
-Os organizadores podem tomar ações para lidar com qualquer ação designada para (ou com a clara intenção de) interromper o evento ou tornar o ambiente hostil para qualquer participante. Nós esperamos que os participantes sigam essas regras em qualquer local em que os encontros ocorram assim como qualquer atividade social relacionada ao DevopsDays Rio de Janeiro.  
+Os organizadores podem tomar ações para lidar com qualquer ação designada para (ou com a clara intenção de) interromper o evento ou tornar o ambiente hostil para qualquer participante. Nós esperamos que os participantes sigam essas regras em qualquer local em que os encontros ocorram assim como qualquer atividade social relacionada ao devopsdays Rio de Janeiro.  
 De fato achamos que as pessoas devem seguir essas regras mesmo fora das atividades do evento! :)
 
 

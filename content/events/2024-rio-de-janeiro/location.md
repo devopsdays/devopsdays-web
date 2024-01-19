@@ -1,7 +1,7 @@
 +++
 Title = "Location"
 Type = "event"
-Description = "Location for DevopsDays Rio de Janeiro 2024"
+Description = "Location for devopsdays Rio de Janeiro 2024"
 +++
 O evento será sediado no Edificio Bolsa do Rio, no Centro do Rio de Janeiro, próximo a Praça XV Novembro. Há uma estação de VLT bem em frente e Metro e ônibus proximos ao evento.
 

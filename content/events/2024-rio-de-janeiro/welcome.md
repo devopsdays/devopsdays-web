@@ -1,8 +1,8 @@
 +++
-Title = "DevopsDays Rio de Janeiro 2024"
+Title = "devopsdays Rio de Janeiro 2024"
 Type = "welcome"
 aliases = ["/events/2024-rio-de-janeiro/"]
-Description = "DevopsDays Rio de Janeiro 2024"
+Description = "devopsdays Rio de Janeiro 2024"
 +++
 
 <!-- <div style="text-align:center;">
