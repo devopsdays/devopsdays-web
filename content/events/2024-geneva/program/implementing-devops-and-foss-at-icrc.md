@@ -12,6 +12,5 @@ The presentation will provide an overview of digital health products at ICRC, an
 The talk will be in French and English
 
 
-La présentation donnera une vue d’ensemble des produits de santé digitale au CICR et de la transformation digitale que nous avons traversée, afin de répondre aux besoins fonctionnels, techniques, de sécurité et en matière de protection des données, et de fournir un DevOps basé sur des solutions full stack open source, durables pour le CICR et ses partenaires externes.
-
+La présentation donnera une vue d’ensemble des produits de santé digitale au CICR et de la transformation digitale que nous avons traversée, afin de répondre aux besoins fonctionnels, techniques, de sécurité et en matière de protection des données, et de fournir un DevOps basé sur des solutions full stack open source, durables pour le CICR et ses partenaires externes. Nous aborderons également la politique du CICR sur les logiciels libres et open source, créée pour soutenir cette transformation.
 La discussion se déroulera en français et en anglais.
