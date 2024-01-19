@@ -149,7 +149,7 @@ sponsors:
   - id: suse
     level: gold
   - id: les-renverses
-    level: communit
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
