@@ -9,7 +9,7 @@ O evento será sediado no Business Center Mario Henrique Simonsen, na Barra de T
 <br>
 Endereço: <a href="https://www.google.com/maps/place/MHS+Eventos/@-22.9996081,-43.3449226,15z/data=!4m6!3m5!1s0x9bda145b6d9b95:0x17384d1a2b5a08c!8m2!3d-22.9996081!4d-43.3449226!16s%2Fg%2F11ckkwq3dx">Av. das Américas, 3434 - B. da Tijuca, Rio de Janeiro - RJ, 22640-102</a>
 <!-- Uncomment this only if you have set the coordinates for your location in the config yaml. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html -->
-
+{{< event_map >}}
 
 <!-- Edit and uncomment to let people know what accessibility features you have available -->
 <!-- 
