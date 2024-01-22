@@ -42,8 +42,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #  - name: propose
   - name: location
   - name: registration
-#  - name: program
-#  - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: newsletter
   - name: contact
@@ -107,7 +107,7 @@ sponsors:
   - id: hidora
     level: gold
   - id: techfirm
-    level: gold
+    level: event
   - id: e-xpert-solutions
     level: silver
   - id: dbi-services
@@ -117,8 +117,6 @@ sponsors:
   - id: meetup-devops-geneva
     level: community
   - id: agilesuisse
-    level: community
-  - id: swissitcompanies
     level: community
   - id: netdata
     level: speakers
@@ -141,6 +139,16 @@ sponsors:
   - id: webmardi
     level: community
   - id: wejob
+    level: community
+  - id: software-crafts-romandie
+    level: community
+  - id: f5-nginx
+    level: silver
+  - id: collaborationbetterstheworld
+    level: mic
+  - id: suse
+    level: gold
+  - id: les-renverses
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -172,3 +180,293 @@ sponsor_levels:
     label: Community
 
 program:
+  ##  Day 1
+  # Day 1: welcome
+  - title: Everyone Welcome Coffee & Registration
+    type: custom
+    date: "2023-05-13"
+    start_time: "08:00"
+    end_time: "08:45"
+
+  - title: Welcome Speech M&Ms
+    type: custom
+    date: "2023-05-13"
+    start_time: "08:45"
+    end_time: "09:15"
+
+    # Day 1: talk 1
+  - title: keynote
+    type: talk
+    date: "2023-05-13"
+    start_time: "09:15"
+    end_time: "09:30"
+
+    # Day 1: talk 2
+  - title: migros-transition-vers-le-cloud
+    type: talk
+    date: "2023-05-13"
+    start_time: "09:30"
+    end_time: "10:05"
+
+    # Day 1: talk 3
+  - title: the-critical-aspects-of-our-transformations
+    type: talk
+    date: "2023-05-13"
+    start_time: "10:05"
+    end_time: "10:40"
+
+
+  - title: Morning coffee
+    type: custom
+    date: "2023-05-13"
+    start_time: "10:40"
+    end_time: "11:25"
+
+    # Day 1: talk 4
+  - title: evitons-le-chaos-dans-nos-pipelines-grace-a-l-inner-source
+    type: talk
+    date: "2023-05-13"
+    start_time: "11:25"
+    end_time: "12:00"
+
+
+    # Day 1: talk 4
+  - title: diving-through-rcas-a-quest-for-reliability
+    type: talk
+    date: "2023-05-13"
+    start_time: "12:00"
+    end_time: "12:35"
+
+    # Day 1: workshop 2
+  - title: implementing-devops-and-foss-at-icrc
+    type: talk
+    date: "2023-05-13"
+    start_time: "12:35"
+    end_time: "13:10"
+
+  - title: "Lunch"
+    type: custom
+    date: "2023-05-13"
+    start_time: "13:10"
+    end_time: "14:40"
+
+  - title: "Ignites Day 1"
+    type: ignite
+    date: "2023-05-13"
+    start_time: "14:40"
+    end_time: "15:00"
+
+  - title: "Open Space Opening"
+    type: custom
+    date: "2023-05-13"
+    start_time: "15:00"
+    end_time: "15:30"
+
+  # Day 1: openspace 1
+  - title: "Open Spaces"
+    type: open-space
+    date: "2023-05-13"
+    start_time: "15:30"
+    end_time: "16:15"
+
+  - title: "Open Spaces"
+    type: open-space
+    date: "2023-05-13"
+    start_time: "16:15"
+    end_time: "17:00"
+
+    # Day 1: workshop 1
+  - title: accelerating-ml-development-running-locally-or-scaled-out
+    type: workshop
+    date: "2023-05-13"
+    start_time: "15:30"
+    end_time: "17:00"
+  - title: channeling-your-inner-tech-blogger
+    type: workshop
+    date: "2023-05-13"
+    start_time: "15:30"
+    end_time: "17:00"
+
+
+  - title: Afternoon coffee
+    type: custom
+    date: "2023-05-13"
+    start_time: "17:00"
+    end_time: "17:30"
+
+  # Day 1: openspace 2
+  - title: "Open Spaces"
+    type: open-space
+    date: "2023-05-13"
+    start_time: "17:30"
+    end_time: "18:15"
+
+  - title: "Open Spaces"
+    type: open-space
+    date: "2023-05-13"
+    start_time: "18:15"
+    end_time: "19:00"
+
+    # Day 1: workshop 1
+  - title: le-behavior-driven-development-exprimer-le-besoin-par-les-tests
+    type: workshop
+    date: "2023-05-13"
+    start_time: "17:30"
+    end_time: "19:00"
+  - title: practical-kubernetes-hardening-for-everyone
+    type: workshop
+    date: "2023-05-13"
+    start_time: "17:30"
+    end_time: "19:00"
+
+  - title: Cocktail Dinner
+    type: custom
+    date: "2023-05-13"
+    start_time: "19:00"
+    end_time: ""
+
+
+  #Day 2
+  - title: Everyone Welcome Coffee & Registration
+    type: custom
+    date: "2023-05-14"
+    start_time: "08:00"
+    end_time: "08:30"
+
+  - title: Welcome Speech M&Ms
+    type: custom
+    date: "2023-05-14"
+    start_time: "08:30"
+    end_time: "08:45"
+
+  #   Day 2: talk 1
+  - title: systemd-journal
+    type: talk
+    date: "2023-05-14"
+    start_time: "08:45"
+    end_time: "09:20"
+
+  #   Day 2: talk 2
+  - title: the-devops-recipe-when-agility-becomes-key-to-gastronomic-alchemy
+    type: talk
+    date: "2023-05-14"
+    start_time: "09:20"
+    end_time: "09:55"
+
+  - title: Morning Coffee
+    type: custom
+    date: "2023-05-14"
+    start_time: "09:55"
+    end_time: "10:40"
+
+  #   Day 2: talk 3
+  - title: from-hero-to-zero
+    type: talk
+    date: "2023-05-14"
+    start_time: "10:40"
+    end_time: "11:15"
+
+  - title: is-pam-dead
+    type: talk
+    date: "2023-05-14"
+    start_time: "11:15"
+    end_time: "11:50"
+
+  - title: elevating-ux-maturity
+    type: talk
+    date: "2023-05-14"
+    start_time: "11:50"
+    end_time: "12:25"
+
+  - title: "Lunch"
+    type: custom
+    date: "2023-05-14"
+    start_time: "12:25"
+    end_time: "13:55"
+
+  - title: "Ignites Day 2"
+    type: ignite
+    date: "2023-05-14"
+    start_time: "13:55"
+    end_time: "14:15"
+
+  #   Day 2: openspace
+  - title: "Open Space"
+    type: open-space
+    date: "2023-05-14"
+    start_time: "14:35"
+    end_time: "15:20"
+
+  - title: "Open Space"
+    type: open-space
+    date: "2023-05-14"
+    start_time: "15:20"
+    end_time: "16:05"
+
+  - title: mocks-as-code
+    type: workshop
+    date: "2023-05-14"
+    start_time: "14:35"
+    end_time: "16:05"
+
+  - title: make-it-awkward-workshop
+    type: workshop
+    date: "2023-05-14"
+    start_time: "14:35"
+    end_time: "16:05"
+
+  - title: Afternoon coffee
+    type: custom
+    date: "2023-05-14"
+    start_time: "16:05"
+    end_time: "16:35"
+
+  - title: "Open Space"
+    type: open-space
+    date: "2023-05-14"
+    start_time: "16:35"
+    end_time: "17:20"
+
+  - title: "Open Space"
+    type: open-space
+    date: "2023-05-14"
+    start_time: "17:20"
+    end_time: "18:05"
+
+  - title: xtrem-tdd-by-example
+    type: workshop
+    date: "2023-05-14"
+    start_time: "16:35"
+    end_time: "18:05"
+
+  - title: how-kubernetes-cpu-requests-and-limits-impacts-your-application-performance
+    type: workshop
+    date: "2023-05-14"
+    start_time: "16:35"
+    end_time: "18:05"
+
+  - title: Sponsor Gifts
+    type: custom
+    date: "2023-05-14"
+    start_time: "18:05"
+    end_time: "18:25"
+
+  - title: Open Geneva Space
+    type: open-space
+    date: "2023-05-14"
+    start_time: "18:25"
+    end_time: "18:40"
+
+ignites:
+  - title: "kubernetes-birthday"
+    date: 2023-05-13
+  - title: "llms-introduction"
+    date: 2023-05-13
+  - title: "preparing-a-new-devopsdays"
+    date: 2023-05-13
+  - title: "simple-things-with-silly-names"
+    date: 2023-05-14
+  - title: "not-ready-for-kubernetes-deploy-in-caas-plateform"
+    date: 2023-05-14
+  - title: "404-documentation-not-found"
+    date: 2023-05-14
