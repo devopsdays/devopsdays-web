@@ -128,6 +128,6 @@ sponsor_levels:
     max: 9
   - id: supporter
     label: Supporter
-    max: 4
+    max: 9
   - id: community
     label: Community
