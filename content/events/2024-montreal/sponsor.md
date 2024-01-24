@@ -135,7 +135,6 @@ Our beautiful city is lucky to have an increasingly diverse tech community, and 
         <th>Sponsorship</th>
         <th class="regular">Lunch</th>
         <th class="regular">Cocktail</th>
-        <th class="regular">Lanyard</th>
         <th class="regular">Coffee</th>
         <th class="bronze-silver">Bronze</th>
         <th class="bronze-silver">Silver</th>
@@ -148,7 +147,6 @@ Our beautiful city is lucky to have an increasingly diverse tech community, and 
         <td class="regular">Price (USD)</td>
         <td>$5,000</td>
         <td>$5,000</td>
-        <td>$4,000</td>
         <td>$2,500</td>
         <td>$4,000</td>
         <td>$6,500</td>
@@ -164,10 +162,6 @@ Our beautiful city is lucky to have an increasingly diverse tech community, and 
         </td>
         <td>
             <div id="paypal-button-cocktail" class="paypal-btn"></div>
-            </div>
-        </td>
-        <td>
-            <div id="paypal-button-lanyard" class="paypal-btn"></div>
         </td>
         <td>
             <div id="paypal-button-coffee" class="paypal-btn"></div>
@@ -195,7 +189,6 @@ Our beautiful city is lucky to have an increasingly diverse tech community, and 
         <td class="regular">Available</td>
         <td>2</td>
         <td>1</td>
-        <td>1</td>
         <td>2</td>
         <td>9</td>
         <td>11</td>
@@ -209,7 +202,6 @@ Our beautiful city is lucky to have an increasingly diverse tech community, and 
         <td>3</td>
         <td>3</td>
         <td>1</td>
-        <td>1</td>
         <td>2</td>
         <td>3</td>
         <td>5</td>
@@ -219,7 +211,6 @@ Our beautiful city is lucky to have an increasingly diverse tech community, and 
     </tr>
     <tr>
         <td class="regular">Logo on slides</td>
-        <td></td>
         <td></td>
         <td></td>
         <td></td>
@@ -241,7 +232,6 @@ Our beautiful city is lucky to have an increasingly diverse tech community, and 
         <td>X</td>
         <td>X</td>
         <td>X</td>
-        <td>X</td>
     </tr>
     <tr>
         <td class="regular">Provide item for official "giveaway"</td>
@@ -254,11 +244,9 @@ Our beautiful city is lucky to have an increasingly diverse tech community, and 
         <td>X</td>
         <td>X</td>
         <td>X</td>
-        <td>X</td>
     </tr>
     <tr>
         <td class="regular">Mention by MC (Day 1)</td>
-        <td></td>
         <td></td>
         <td></td>
         <td></td>
@@ -277,14 +265,12 @@ Our beautiful city is lucky to have an increasingly diverse tech community, and 
         <td></td>
         <td></td>
         <td></td>
-        <td></td>
         <td>X</td>
         <td></td>
         <td></td>
     </tr>
     <tr>
         <td class="regular">Pitch</td>
-        <td></td>
         <td></td>
         <td></td>
         <td></td>
@@ -309,11 +295,9 @@ Our beautiful city is lucky to have an increasingly diverse tech community, and 
         <td>X</td>
         <td>X</td>
         <td>X</td>
-        <td>X</td>
     </tr>
     <tr>
         <td class="regular">Logo on podium</td>
-        <td></td>
         <td></td>
         <td></td>
         <td></td>
@@ -335,13 +319,11 @@ Our beautiful city is lucky to have an increasingly diverse tech community, and 
         <td>X</td>
         <td>X</td>
         <td>X</td>
-        <td>X</td>
     </tr>
     <tr>
         <td class="regular">Blurb in communication</td>
         <td>X</td>
         <td>X</td>
-        <td></td>
         <td></td>
         <td></td>
         <td></td>
@@ -352,7 +334,6 @@ Our beautiful city is lucky to have an increasingly diverse tech community, and 
     </tr>
     <tr>
         <td class="regular">Table at Expo</td>
-        <td></td>
         <td></td>
         <td></td>
         <td></td>
@@ -374,7 +355,6 @@ Our beautiful city is lucky to have an increasingly diverse tech community, and 
         <td></td>
         <td></td>
         <td></td>
-        <td></td>
     </tr>
     <tr>
         <td class="regular">Special announcement before cocktail</td>
@@ -387,24 +367,9 @@ Our beautiful city is lucky to have an increasingly diverse tech community, and 
         <td></td>
         <td></td>
         <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td class="regular">Branding on lanyard</td>
-        <td></td>
-        <td></td>
-        <td>X</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
     </tr>
     <tr>
         <td class="regular">Branding in coffee area</td>
-        <td></td>
         <td></td>
         <td></td>
         <td>X</td>
