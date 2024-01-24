@@ -28,9 +28,9 @@ registration_closed: "false" #set this to true if you need to manually close reg
 # registration_link: "https://www.sympla.com.br/evento/devopsdays-rio-de-janeiro-2024/1929984" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
-# coordinates: "-22.997961, -43.345923" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-# location: "MHS Eventos"
-# location_address: "Av. das Américas, 3434 - Barra da Tijuca, Rio de Janeiro" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+coordinates: "-22.901811538446633, -43.174462849673525" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Edificio Bolsa do Rio"
+location_address: "Praça Quinze de Novembro, 20 - Centro, Rio de Janeiro - RJ, 20010-010" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
