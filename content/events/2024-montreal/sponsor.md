@@ -131,41 +131,290 @@ Our beautiful city is lucky to have an increasingly diverse tech community, and 
 <div>
 <br>
 <table class="mtl-sponsor-table">
-  <tr>
-    <th>Sponsorship</th>
-    <th class="regular">Lunch</th>
-    <th class="regular">Cocktail</th>
-    <th class="regular">Lanyard</th>
-    <th class="regular">Coffee</th>
-    <th class="bronze-silver">Bronze</th>
-    <th class="bronze-silver">Silver</th>
-    <th class="gold-platinum">Gold</th>
-    <th class="gold-platinum">Platinum</th>
-    <th class="bronze-silver">Startup*</th>
-    <th class="bronze-silver">Non-profit**</th>
-  </tr>
-  <tr><td class="regular">Price (USD)</td><td>$5,000</td><td>$5,000</td><td>$4,000</td><td>$2,500</td><td>$4,000</td><td>$6,500</td><td>$9,000</td><td>$12,000</td><td>$2,000</td><td>$2,000</td></tr>
-  <tr><td class="regular">Buy now!</td><td><div id="paypal-button-lunch" class="paypal-btn"></div></td><td><div id="paypal-button-cocktail" class="paypal-btn"></div></div></td><td><div id="paypal-button-lanyard" class="paypal-btn"></div></td><td><div id="paypal-button-coffee" class="paypal-btn"></div></td><td><div id="paypal-button-bronze" class="paypal-btn"></div></td><td><div id="paypal-button-silver" class="paypal-btn"></div></td><td><div id="paypal-button-gold" class="paypal-btn"></div></td><td><div id="paypal-button-platinum" class="paypal-btn"></div></td><td><div id="paypal-button-startup" class="paypal-btn"></div></td><td><div id="paypal-button-nonprofit" class="paypal-btn"></div></td></tr>
-  <tr><td class="regular">Available</td><td>2</td><td>1</td><td>1</td><td>2</td><td>9</td><td>11</td><td>7</td><td>2</td><td>9</td><td>5</td></tr>
-  <tr><td class="regular">Tickets</td><td>3</td><td>3</td><td>1</td><td>1</td><td>2</td><td>3</td><td>5</td><td>8</td><td>1</td><td>2</td></tr>
-  <tr><td class="regular">Logo on slides</td><td></td><td></td><td></td><td></td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
-  <tr><td class="regular">Logo on banner</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
-  <tr><td class="regular">Provide item for official "giveaway"</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
-  <tr><td class="regular">Mention by MC (Day 1)</td><td></td><td></td><td></td><td></td><td></td><td>X</td><td>X</td><td>X</td><td></td><td></td></tr>
-  <tr><td class="regular">Mention by MC (Day 2)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>X</td><td></td><td></td></tr>
-  <tr><td class="regular">Pitch</td><td></td><td></td><td></td><td></td><td></td><td>30 sec.</td><td>2 min.</td><td>5 min.</td><td></td><td></td></tr>
-  <!-- 
-  <tr><td class="regular">Speaker/sponsor/organizer dinner</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>2</td><td>2</td><td>3</td><td>1</td><td>1</td></tr> 
-  -->
-  <tr><td class="regular">Job board access</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
-  <tr><td class="regular">Logo on podium</td><td></td><td></td><td></td><td></td><td></td><td></td><td>X</td><td>X</td><td></td><td></td></tr>
-  <tr><td class="regular">Logo on website</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
-  <tr><td class="regular">Blurb in communication</td><td>X</td><td>X</td><td></td><td></td><td></td><td></td><td>X</td><td>X</td><td></td><td></td></tr>
-  <tr><td class="regular">Table at Expo</td><td></td><td></td><td></td><td></td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
-  <tr><td class="regular">Special announcement at lunch</td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td class="regular">Special announcement before cocktail</td><td></td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td class="regular">Branding on lanyard</td><td></td><td></td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td class="regular">Branding in coffee area</td><td></td><td></td><td></td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr>
+        <th>Sponsorship</th>
+        <th class="regular">Lunch</th>
+        <th class="regular">Cocktail</th>
+        <th class="regular">Lanyard</th>
+        <th class="regular">Coffee</th>
+        <th class="bronze-silver">Bronze</th>
+        <th class="bronze-silver">Silver</th>
+        <th class="gold-platinum">Gold</th>
+        <th class="gold-platinum">Platinum</th>
+        <th class="bronze-silver">Startup*</th>
+        <th class="bronze-silver">Non-profit**</th>
+    </tr>
+    <tr>
+        <td class="regular">Price (USD)</td>
+        <td>$5,000</td>
+        <td>$5,000</td>
+        <td>$4,000</td>
+        <td>$2,500</td>
+        <td>$4,000</td>
+        <td>$6,500</td>
+        <td>$9,000</td>
+        <td>$12,000</td>
+        <td>$2,000</td>
+        <td>$2,000</td>
+    </tr>
+    <tr>
+        <td class="regular">Buy now!</td>
+        <td>
+            <div id="paypal-button-lunch" class="paypal-btn"></div>
+        </td>
+        <td>
+            <div id="paypal-button-cocktail" class="paypal-btn"></div>
+            </div>
+        </td>
+        <td>
+            <div id="paypal-button-lanyard" class="paypal-btn"></div>
+        </td>
+        <td>
+            <div id="paypal-button-coffee" class="paypal-btn"></div>
+        </td>
+        <td>
+            <div id="paypal-button-bronze" class="paypal-btn"></div>
+        </td>
+        <td>
+            <div id="paypal-button-silver" class="paypal-btn"></div>
+        </td>
+        <td>
+            <div id="paypal-button-gold" class="paypal-btn"></div>
+        </td>
+        <td>
+            <div id="paypal-button-platinum" class="paypal-btn"></div>
+        </td>
+        <td>
+            <div id="paypal-button-startup" class="paypal-btn"></div>
+        </td>
+        <td>
+            <div id="paypal-button-nonprofit" class="paypal-btn"></div>
+        </td>
+    </tr>
+    <tr>
+        <td class="regular">Available</td>
+        <td>2</td>
+        <td>1</td>
+        <td>1</td>
+        <td>2</td>
+        <td>9</td>
+        <td>11</td>
+        <td>7</td>
+        <td>2</td>
+        <td>9</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td class="regular">Tickets</td>
+        <td>3</td>
+        <td>3</td>
+        <td>1</td>
+        <td>1</td>
+        <td>2</td>
+        <td>3</td>
+        <td>5</td>
+        <td>8</td>
+        <td>1</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td class="regular">Logo on slides</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
+    </tr>
+    <tr>
+        <td class="regular">Logo on banner</td>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
+    </tr>
+    <tr>
+        <td class="regular">Provide item for official "giveaway"</td>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
+    </tr>
+    <tr>
+        <td class="regular">Mention by MC (Day 1)</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td class="regular">Mention by MC (Day 2)</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>X</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td class="regular">Pitch</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>30 sec.</td>
+        <td>2 min.</td>
+        <td>5 min.</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <!-- 
+    <tr><td class="regular">Speaker/sponsor/organizer dinner</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>2</td><td>2</td><td>3</td><td>1</td><td>1</td></tr> 
+    -->
+    <tr>
+        <td class="regular">Job board access</td>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
+    </tr>
+    <tr>
+        <td class="regular">Logo on podium</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>X</td>
+        <td>X</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td class="regular">Logo on website</td>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
+    </tr>
+    <tr>
+        <td class="regular">Blurb in communication</td>
+        <td>X</td>
+        <td>X</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>X</td>
+        <td>X</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td class="regular">Table at Expo</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
+    </tr>
+    <tr>
+        <td class="regular">Special announcement at lunch</td>
+        <td>X</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td class="regular">Special announcement before cocktail</td>
+        <td></td>
+        <td>X</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td class="regular">Branding on lanyard</td>
+        <td></td>
+        <td></td>
+        <td>X</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td class="regular">Branding in coffee area</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>X</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
 </table>
 
 <div>
