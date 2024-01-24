@@ -139,6 +139,7 @@ Our beautiful city is lucky to have an increasingly diverse tech community, and 
         <th class="bronze-silver">Bronze</th>
         <th class="bronze-silver">Silver</th>
         <th class="gold-platinum">Gold</th>
+        <th class="gold-platinum">Sustainable swag</th>
         <th class="gold-platinum">Platinum</th>
         <th class="bronze-silver">Startup*</th>
         <th class="bronze-silver">Non-profit**</th>
@@ -151,6 +152,7 @@ Our beautiful city is lucky to have an increasingly diverse tech community, and 
         <td>$4,000</td>
         <td>$6,500</td>
         <td>$9,000</td>
+        <td>$10,000</td>
         <td>$12,000</td>
         <td>$2,000</td>
         <td>$2,000</td>
@@ -176,6 +178,9 @@ Our beautiful city is lucky to have an increasingly diverse tech community, and 
             <div id="paypal-button-gold" class="paypal-btn"></div>
         </td>
         <td>
+            <div id="paypal-button-swag" class="paypal-btn"></div>
+        </td>
+        <td>
             <div id="paypal-button-platinum" class="paypal-btn"></div>
         </td>
         <td>
@@ -193,6 +198,7 @@ Our beautiful city is lucky to have an increasingly diverse tech community, and 
         <td>9</td>
         <td>11</td>
         <td>7</td>
+        <td>1</td>
         <td>2</td>
         <td>9</td>
         <td>5</td>
@@ -205,6 +211,7 @@ Our beautiful city is lucky to have an increasingly diverse tech community, and 
         <td>2</td>
         <td>3</td>
         <td>5</td>
+        <td>6</td>
         <td>8</td>
         <td>1</td>
         <td>2</td>
@@ -220,9 +227,11 @@ Our beautiful city is lucky to have an increasingly diverse tech community, and 
         <td>X</td>
         <td>X</td>
         <td>X</td>
+        <td>X</td>
     </tr>
     <tr>
         <td class="regular">Logo on banner</td>
+        <td>X</td>
         <td>X</td>
         <td>X</td>
         <td>X</td>
@@ -244,6 +253,7 @@ Our beautiful city is lucky to have an increasingly diverse tech community, and 
         <td>X</td>
         <td>X</td>
         <td>X</td>
+        <td>X</td>
     </tr>
     <tr>
         <td class="regular">Mention by MC (Day 1)</td>
@@ -254,11 +264,13 @@ Our beautiful city is lucky to have an increasingly diverse tech community, and 
         <td>X</td>
         <td>X</td>
         <td>X</td>
+        <td>X</td>
         <td></td>
         <td></td>
     </tr>
     <tr>
         <td class="regular">Mention by MC (Day 2)</td>
+        <td></td>
         <td></td>
         <td></td>
         <td></td>
@@ -276,6 +288,7 @@ Our beautiful city is lucky to have an increasingly diverse tech community, and 
         <td></td>
         <td></td>
         <td>30 sec.</td>
+        <td>2 min.</td>
         <td>2 min.</td>
         <td>5 min.</td>
         <td></td>
@@ -295,6 +308,7 @@ Our beautiful city is lucky to have an increasingly diverse tech community, and 
         <td>X</td>
         <td>X</td>
         <td>X</td>
+        <td>X</td>
     </tr>
     <tr>
         <td class="regular">Logo on podium</td>
@@ -304,12 +318,14 @@ Our beautiful city is lucky to have an increasingly diverse tech community, and 
         <td></td>
         <td></td>
         <td>X</td>
+        <td></td>
         <td>X</td>
         <td></td>
         <td></td>
     </tr>
     <tr>
         <td class="regular">Logo on website</td>
+        <td>X</td>
         <td>X</td>
         <td>X</td>
         <td>X</td>
@@ -329,6 +345,7 @@ Our beautiful city is lucky to have an increasingly diverse tech community, and 
         <td></td>
         <td>X</td>
         <td>X</td>
+        <td>X</td>
         <td></td>
         <td></td>
     </tr>
@@ -343,10 +360,12 @@ Our beautiful city is lucky to have an increasingly diverse tech community, and 
         <td>X</td>
         <td>X</td>
         <td>X</td>
+        <td>X</td>
     </tr>
     <tr>
         <td class="regular">Special announcement at lunch</td>
         <td>X</td>
+        <td></td>
         <td></td>
         <td></td>
         <td></td>
@@ -367,12 +386,14 @@ Our beautiful city is lucky to have an increasingly diverse tech community, and 
         <td></td>
         <td></td>
         <td></td>
+        <td></td>
     </tr>
     <tr>
         <td class="regular">Branding in coffee area</td>
         <td></td>
         <td></td>
         <td>X</td>
+        <td></td>
         <td></td>
         <td></td>
         <td></td>
@@ -445,6 +466,7 @@ There are also opportunities for exclusive special sponsorships. We'll have spon
     "paypal-button-bronze": "4000.00",
     "paypal-button-silver": "6500.00",
     "paypal-button-gold": "9000.00",
+    "paypal-button-swag": "10000.00",
     "paypal-button-platinum": "12000.00",
     "paypal-button-startup": "2000.00",
     "paypal-button-nonprofit": "2000.00",
