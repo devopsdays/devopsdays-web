@@ -3,14 +3,6 @@ Title = "Program"
 Type = "program" 
 Description = "Program for for devopsdays Rio 2024" 
 +++
-<div class = "row">
-  <div class = "col">
-   <div class="alert alert-success" role="alert">
-      <h4 class="alert-heading">Novidade!</h4>
-      <p>Teremos <b>Trilhas Iniciante (Sala Deploy)</b> e <b>Trilha Avançada (Sala Rollback)</b>.</p>
-    </div> 
-  </div>
-</div>
 
 <div>
   <b>Legenda:</b>
