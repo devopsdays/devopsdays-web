@@ -14,7 +14,7 @@ Description = "DevOpsDays Los Angeles 2024"
     <h3>🎉 DevOpsDaysLA 2024 Schedule is now live 🎉</h3>
   <hr>
   <p>
-  We are pleased to announce that our <a href="https://devopsdays.org/events/2023-los-angeles/program">schedule</a> for this year is now live.
+  We are pleased to announce that our <a href="https://devopsdays.org/events/2024-los-angeles/program">schedule</a> for this year is now live.
 
   So get ready for an action-packed DevOps conference that promises to deliver a wealth of knowledge and opportunities to connect with industry experts! Our meticulously planned schedule is designed to cater to everyone in the DevOps ecosystem, including practitioners, engineers, computer science professionals, cloud specialists, security experts, and automation gurus.
 
