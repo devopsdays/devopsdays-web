@@ -167,6 +167,10 @@ sponsors:
     level: community
   - id: kubeevents
     level: community
+  - id: hashicorp
+    level: social-event
+  - id: mentalhealthhackers
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
