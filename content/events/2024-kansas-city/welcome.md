@@ -109,6 +109,13 @@ Description = "DevOpsDays Kansas City 2024 will take place May 15-16, 2024!"
             <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Contact the Organizers
           </a>
         </div>
+        <div class="d-flex p-2">
+          <a class="btn btn-primary btn-block"
+            style="margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;"
+            href="https://lists.devopsdays.org/subscription?f=TYbgJMtfqomf8uYARrTHhqAKoinSX763iDCLAvdcUFPDW2aF7J7EY53W1TeVcYoawk">
+            <i class="fa fa-wpforms fa-lg"></i>&nbsp;&nbsp;&nbsp;Join the mailing list
+          </a>
+        </div>
       </div>
     </div>
   </div>
