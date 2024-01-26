@@ -125,7 +125,7 @@
 /vitoria/*		/events/2022-vitoria/:splat		302
 /vilnius/*            	/events/2023-vilnius/:splat             302
 /warsaw/*		/events/2022-warsaw/:splat		302
-/washington-dc/*	/events/2022-washington-dc/:splat	302
+/washington-dc/*	/events/2024-washington-dc/:splat	302
 /zaragoza/*		/events/2020-zaragoza/:splat		302
 /zurich/*		/events/2024-zurich/:splat		302
 /events/2009-ghent/*          http://legacy.devopsdays.org/events/2009-ghent/:splat     301!
