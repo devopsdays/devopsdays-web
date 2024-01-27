@@ -341,13 +341,13 @@ Our beautiful city is lucky to have an increasingly diverse tech community, and 
         <td>X</td>
         <td>X</td>
         <td>X</td>
-        <td></td>
-        <td></td>
-        <td></td>
         <td>X</td>
         <td>X</td>
-        <td></td>
-        <td></td>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
     </tr>
     <tr>
         <td class="regular">Table at Expo</td>
