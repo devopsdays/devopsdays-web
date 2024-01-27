@@ -146,9 +146,9 @@ Our beautiful city is lucky to have an increasingly diverse tech community, and 
     </tr>
     <tr>
         <td class="regular">Price (USD)</td>
-        <td>$5,000</td>
-        <td>$5,000</td>
-        <td>$2,500</td>
+        <td>$6,000</td>
+        <td>$6,500</td>
+        <td>$3,500</td>
         <td>$4,000</td>
         <td>$6,500</td>
         <td>$9,000</td>
@@ -459,10 +459,10 @@ There are also opportunities for exclusive special sponsorships. We'll have spon
   }
 
   const dict = {
-    "paypal-button-lunch": "5000.00",
-    "paypal-button-cocktail": "5000.00",
+    "paypal-button-lunch": "6000.00",
+    "paypal-button-cocktail": "6500.00",
     "paypal-button-lanyard": "4000.00",
-    "paypal-button-coffee": "2500.00",
+    "paypal-button-coffee": "3500.00",
     "paypal-button-bronze": "4000.00",
     "paypal-button-silver": "6500.00",
     "paypal-button-gold": "9000.00",
