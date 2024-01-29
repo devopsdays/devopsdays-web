@@ -127,7 +127,7 @@ Visando valorizar a participação de instituições na realização do evento, 
 <div>
   <p><strong>COMUNIDADE:</strong> Apoiadores que contribuiram com algum beneficio para o público ou quantia de
   até R$ 2.000,00 terão direito à divulgação nas redes sociais e 1 inscrição para o evento.</p>
-  <p style="font-size:18px">Veja mais no documento completo clicando <a href="https://www.canva.com/design/DAFxVDvAbfs/Uuh4VGKRwFUkZO0qyKjL_g"><i class="fa fa-download" style="font-size:30px"></i></a></p>
+  <!-- <p style="font-size:18px">Veja mais no documento completo clicando <a href="https://www.canva.com/design/DAFxVDvAbfs/Uuh4VGKRwFUkZO0qyKjL_g"><i class="fa fa-download" style="font-size:30px"></i></a></p> -->
 </div>
 
 <!--EN-->
@@ -242,14 +242,14 @@ Aiming to enhance the participation of institutions in the event, we organized p
     <tr>
       <td><b>Contribution</b></td>
       <td><b>US$ 2.500,00</b></td>
-      <td><b>US$ 3.500,00</b></td>
-      <td><b>US$ 4.500,00</b></td>
-      <td><b>US$ 5.500,00</b></td>
+      <td><b>US$ 4.000,00</b></td>
+      <td><b>US$ 5.000,00</b></td>
+      <td><b>US$ 6.500,00</b></td>
     </tr>
   </table>
 </div>
 <div>
 <p><strong>COMMUNITY:</strong> Supporters who have contributed some benefit to the public or amount of
 up to US$ 500,00 receive the right to be publicized on social media and 1 registration for the event.</p>
-<p style="font-size:18px">See more in the full document here (in portuguese) <a href="https://www.canva.com/design/DAFxVDvAbfs/Uuh4VGKRwFUkZO0qyKjL_g"><i class="fa fa-download" style="font-size:30px"></i></a></p>
-</div>
+<!-- <p style="font-size:18px">See more in the full document here (in portuguese) <a href="https://www.canva.com/design/DAFxVDvAbfs/Uuh4VGKRwFUkZO0qyKjL_g"><i class="fa fa-download" style="font-size:30px"></i></a></p>
+</div> -->
