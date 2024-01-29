@@ -148,12 +148,12 @@ Our beautiful city is lucky to have an increasingly diverse tech community, and 
         <td class="regular">Price (USD)</td>
         <td>$6,000</td>
         <td>$6,500</td>
-        <td>$12,000</td>
+        <td>$10,000</td>
         <td>$3,500</td>
         <td>$4,000</td>
         <td>$6,500</td>
         <td>$9,000</td>
-        <td>$10,000</td>
+        <td>$12,000</td>
         <td>$2,000</td>
         <td>$2,000</td>
     </tr>
