@@ -97,6 +97,10 @@ sponsors:
     level: partner
   - id: cloudsmith
     level: platinum
+  - id: snyk
+    level: platinum
+  - id: kubeevents
+    level: partner
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

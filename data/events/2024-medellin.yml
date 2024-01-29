@@ -10,8 +10,8 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: 2024-04-27T08:00:00-06:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2024-04-28T08:00:00-06:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2024-05-23T08:00:00-06:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2024-05-24T08:00:00-06:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  2024-01-24T08:00:00-06:00 # start accepting talk proposals.

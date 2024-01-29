@@ -70,7 +70,7 @@ Description = "DevopsDays Geneva 2024"
         <div class="d-flex p-2">
           <a class="btn btn-primary btn-block"
             style="margin-top: 15px; margin-bottom: 15px; background-color: #8e44b3; border-color: #8e44b3;"
-            href="/events/2024-geneva/register">
+            href="/events/2024-geneva/registration">
             <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Register to attend the conference!
           </a>
         </div>
@@ -105,7 +105,7 @@ Description = "DevopsDays Geneva 2024"
   </div>
 </div>
 
-
+<!--
 <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
@@ -114,8 +114,7 @@ Description = "DevopsDays Geneva 2024"
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
 </div>
-
-<!--
+-->
 <div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
@@ -123,8 +122,7 @@ Description = "DevopsDays Geneva 2024"
   <div class = "col-md-8">
     View the {{< event_link page="program" text="program." >}}
   </div>
-</div>-->
-<!--
+</div>
 <div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
@@ -132,7 +130,7 @@ Description = "DevopsDays Geneva 2024"
   <div class = "col-md-8">
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
-</div>-->
+</div>
 <div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>

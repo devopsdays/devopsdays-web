@@ -6,7 +6,7 @@ Description = "Propose a talk for DevOpsDays Nashville"
   <!-- {{< cfp_dates >}} -->
 
 <hr>
-We are currently working on our 2024 dates.  We will be opening submissions for talks soon, please check back often for updates.
+We will be posting more information soon about how to propose a talk.  We look forward to seeing you at DevOpsDays Nashville!
 
 <!-- <hr>
 

@@ -4,8 +4,12 @@ Type = "event"
 Description = "Location for devopsdays houston 2024"
 +++
 
-Watch this space for information about the venue including address, map/direction, parking/transit, and any hotel details.
+This year's event will happen at <a href="https://norriscenters.com/norris-conference-centers-houston-citycentre/">The Norris Conference Center</a>, located at 
+<br/>816 Town and Country Blvd #210
+<br/>Houston, Texas 77024
+<br/>
 
+{{< event_map >}}
 <!-- Uncomment this only if you have set the coordinates for your location in the config yaml. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html -->
 <!-- {{< event_map >}} -->
 

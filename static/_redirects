@@ -31,7 +31,7 @@
 /columbus/*		/events/2020-columbus/:splat		302
 /copenhagen/*		/events/2023-copenhagen/:splat		302
 /cuba/*			/events/2019-cuba/:splat		302
-/dallas/*		/events/2023-dallas/:splat		302
+/dallas/*		/events/2024-dallas/:splat		302
 /denver/*		/events/2024-denver/:splat		302
 /des-moines/*		/events/2023-des-moines/:splat		302
 /detroit/*		/events/2023-detroit/:splat		302
@@ -60,7 +60,7 @@
 /kansas-city/*		/events/2024-kansas-city/:splat		302
 /kazan/*		/events/2018-kazan/:splat		302
 /kiel/*			/events/2018-kiel/:splat		302
-/krakow/*		/events/2020-krakow/:splat		302
+/krakow/*		/events/2023-krakow/:splat		302
 /kiev/*			/events/2023-kyiv/:splat		302
 /kyiv/*			/events/2023-kyiv/:splat		302
 /ljubljana/*		/events/2023-ljubljana/:splat		302
@@ -76,7 +76,7 @@
 /montevideo/*		/events/2019-montevideo/:splat		302
 /montreal/*		/events/2024-montreal/:splat		302
 /moscow/*		/events/2020-moscow/:splat		302
-/nairobi/*		/events/2014-nairobi/:splat		302
+/nairobi/*		/events/2024-nairobi/:splat		302
 /nashville/*		/events/2024-nashville/:splat		302
 /natal/*		/events/2020-natal/:splat		302
 /new-york-city/*	/events/2023-new-york-city/:splat	302
@@ -95,7 +95,8 @@
 /poznan/*		/events/2023-poznan/:splat		302
 /prague/*		/events/2023-prague/:splat		302
 /raleigh/*		/events/2024-raleigh/:splat		302
-/recife/*		/events/2023-recife/:splat		302
+/recife/cfp     https://www.papercall.io/dodrec24    302
+/recife/*		/events/2024-recife/:splat		302
 /riga/*			/events/2018-riga/:splat		302
 /rio-de-janeiro/*	/events/2023-rio-de-janeiro/:splat	302
 /rome/*			/events/2012-italy/:splat		302
@@ -124,7 +125,7 @@
 /vitoria/*		/events/2022-vitoria/:splat		302
 /vilnius/*            	/events/2023-vilnius/:splat             302
 /warsaw/*		/events/2022-warsaw/:splat		302
-/washington-dc/*	/events/2022-washington-dc/:splat	302
+/washington-dc/*	/events/2024-washington-dc/:splat	302
 /zaragoza/*		/events/2020-zaragoza/:splat		302
 /zurich/*		/events/2024-zurich/:splat		302
 /events/2009-ghent/*          http://legacy.devopsdays.org/events/2009-ghent/:splat     301!
