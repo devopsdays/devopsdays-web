@@ -390,6 +390,12 @@ program:
     start_time: "13:55"
     end_time: "14:15"
 
+  - title: "Open Space Opening"
+    type: custom
+    date: "2024-05-14"
+    start_time: "14:15"
+    end_time: "14:35"
+
   #   Day 2: openspace
   - title: "Open Space"
     type: open-space
