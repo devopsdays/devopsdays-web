@@ -42,7 +42,7 @@
 /fortaleza/*		/events/2022-fortaleza/:splat		302
 /galway/*		/events/2019-galway/:splat		302
 /geneva/*		/events/2023-geneva/:splat		302
-/ghent/*		/events/2019-ghent/:splat		302
+/ghent/*		/events/2024-ghent/:splat		302
 /goiania/cfp		https://talks.devopsdays.org/devopsdays-goiania-2024/ 302
 /goiania/*		/events/2024-goiania/:splat		302
 /goteborg/*		/events/2011-goteborg/:splat		302
@@ -173,8 +173,8 @@
 /rosario/*            /events/2020-rosario/:splat           302
 /aarhus/*            /events/2022-aarhus/:splat           302
 /almaty/*            /events/2023-almaty/:splat           302
-/organizer-summit/*            /events/2023-organizer-summit/:splat           302
-/organiser-summit/*            /events/2023-organizer-summit/:splat           302
+/organizer-summit/*            /events/2024-organiser-summit/:splat           302
+/organiser-summit/*            /events/2024-organiser-summit/:splat           302
 /nova-lima/*            /events/2024-nova-lima/:splat           302
 
 
