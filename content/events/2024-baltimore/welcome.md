@@ -17,6 +17,7 @@ Description = "devopsdays Baltimore 2024"
     </h4>
     <br>
     <h2>{{< event_link page="registration" text="Register to attend the conference, tickets on sale now!" >}}</h2>
+  </div>
 </div>
 
 ---
