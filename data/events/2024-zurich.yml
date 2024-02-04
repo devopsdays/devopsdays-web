@@ -38,8 +38,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 - name: propose
 - name: location
   #  - name: program
-  #  - name: speakers
 - name: registration
+  #  - name: speakers
 - name: sponsor
 - name: diversity
 - name: contact
@@ -169,6 +169,8 @@ sponsors:
   level: gold
 - id: digicomp
   level: community
+- id: pure-storage
+  level: silver
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
