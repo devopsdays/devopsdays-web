@@ -89,8 +89,20 @@ sponsors:
     level: gold
   - id: googlecloud
     level: gold
-  - id: postman
+  - id: arigaio
+    level: gold 
+  - id: chef-progress
     level: gold
+  - id: circleci
+    level: gold  
+  - id: elastic
+    level: gold
+  - id: f5-nginx
+    level: gold    
+  - id: snyk
+    level: gold
+  - id: kubeevents
+    level: community
   - id: singapore-devops-community
     level: community
   - id: singapore-devsecops-community
@@ -101,6 +113,8 @@ sponsors:
     level: community
   - id: kubeevents
     level: community
+  - id: akamai
+    level: travel     
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -157,7 +171,7 @@ program:
     date: 2024-03-21
     start_time: "10:30"
     end_time: "11:00"
-  - title: "talia-nassi"
+  - title: "donnie-prakoso"
     type: talk
     date: 2024-03-21
     start_time: "11:00"
@@ -172,7 +186,7 @@ program:
     date: 2024-03-21
     start_time: "12:10"
     end_time: "13:00"
-  - title: "daniel-hui"
+  - title: "danial-hui"
     type: talk
     date: 2024-03-21
     start_time: "13:00"
@@ -194,8 +208,8 @@ program:
     date: 2024-03-21
     start_time: "14:15"
     end_time: "14:45"
-  - title: "Ignites TBC"
-    type: custom
+  - title: "Ignites"
+    type: ignite
     date: 2024-03-21
     start_time: "14:45"
     end_time: "15:30"
@@ -252,7 +266,7 @@ program:
     date: 2024-03-22
     start_time: "09:55"
     end_time: "10:00"
-  - title: "peter-chestna"
+  - title: "talia-nassi"
     type: talk
     date: 2024-03-22
     start_time: "10:00"
@@ -262,7 +276,7 @@ program:
     date: 2024-03-22
     start_time: "10:30"
     end_time: "11:00"
-  - title: "donnie-prakoso"
+  - title: "kunal-dabir"
     type: talk
     date: 2024-03-22
     start_time: "11:00"
@@ -299,8 +313,8 @@ program:
     date: 2024-03-22
     start_time: "14:15"
     end_time: "14:45"
-  - title: "Ignites TBC"
-    type: custom
+  - title: "Ignites"
+    type: ignite
     date: 2024-03-22
     start_time: "14:45"
     end_time: "15:30"
@@ -329,3 +343,20 @@ program:
     date: 2024-03-22
     start_time: "17:15"
     end_time: "17:25"
+
+ignites:
+  - title: "heather-thacker"
+    date: 2024-03-21
+  - title: "shruthi-bhaskar"
+    date: 2024-03-21
+  - title: "michel-schildmeijer"
+    date: 2024-03-21
+
+  - title: "pas-apicella"
+    date: 2024-03-22
+  - title: "sasha-rosenbaum"
+    date: 2024-03-22
+  - title: "abhishek"
+    date: 2024-03-22  
+  - title: "richard-taylor"
+    date: 2024-03-22
