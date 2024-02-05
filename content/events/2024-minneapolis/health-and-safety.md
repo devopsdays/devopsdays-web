@@ -58,4 +58,4 @@ Downtown Minneapolis is generally a safe place and easily walkable. But attendee
 * Follow the advice of venue staff, security personnel and First Responders.
 * Do not put yourself in danger by stopping to collect belongings unless directed by First Responders.
 
-Thanks to the CNCF for [the inspiration](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/health-and-safety/) for these health and safety tips and guidelines
+Thanks to the CNCF for [the inspiration](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/health-and-safety/) for these health and safety tips and guidelines.
