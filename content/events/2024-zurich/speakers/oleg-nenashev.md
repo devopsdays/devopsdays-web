@@ -4,7 +4,7 @@ image = "oleg-nenashev.jpg"
 linktitle = "oleg-nenashev"
 type = "speaker"
 Website = "https://github.com/oleg-nenashev"
-Twitter = "https://twitter.com/oleg_nenashev"
+Twitter = "@oleg_nenashev"
 Linkedin = "https://www.linkedin.com/in/onenashev/"
 +++
 

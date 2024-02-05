@@ -4,7 +4,7 @@ image = "jennifer-petoff.jpg"
 linktitle = "jennifer-petoff"
 type = "speaker"
 Website = "http://www.sidewalksafari.com/"
-Twitter = "http://www.twitter.com/jennski"
+Twitter = "@jennski"
 Linkedin = "https://www.linkedin.com/in/jpetoff/"
 +++
 

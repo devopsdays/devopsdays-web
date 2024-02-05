@@ -4,7 +4,7 @@ image = "tobias-mohr.jpg"
 linktitle = "tobias-mohr"
 type = "speaker"
 Website = "https://software-engineering-strategy.com/"
-Twitter = "https://twitter.com/TobiMoh"
+Twitter = "@TobiMoh"
 Linkedin = "https://www.linkedin.com/in/tobias-mohr-9668294a"
 +++
 

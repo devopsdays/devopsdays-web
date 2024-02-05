@@ -4,7 +4,7 @@ image = "suzanne-daniels.png"
 linktitle = "suzanne-daniels"
 type = "speaker"
 Website = "https://suuu.us/"
-Twitter = "https://twitter.com/suushier"
+Twitter = "@suushier"
 Linkedin = "https://linkedin.com/in/suzannedaniels"
 +++
 

@@ -215,7 +215,7 @@ program:
   start_time: '9:15'
   end_time: '10:00'
 
-- title: julia-gaetjens
+- title: dorota-parad
   type: talk
   date: 2024-04-16
   start_time: '10:00'
@@ -227,19 +227,19 @@ program:
   start_time: '10:30'
   end_time: '11:00'
 
-- title: dominik-gsteiger
+- title: jonas-alder
   type: talk
   date: 2024-04-16
   start_time: '11:00'
   end_time: '11:30'
   
-- title: daniel-aschwanden
+- title: julia-gaetjens
   type: talk
   date: 2024-04-16
   start_time: '11:30'
   end_time: '12:00'
 
-- title: jean-marc-zenklusen
+- title: marlene-roth
   type: talk
   date: 2024-04-16
   start_time: '12:00'
@@ -261,16 +261,22 @@ program:
   type: ignite
   date: 2024-04-16
   start_time: '13:50'
-  end_time: '14:20'
+  end_time: '14:30'
 
 - title: Open Space Voting
   type: custom
   date: 2024-04-16
-  start_time: '14:20'
+  start_time: '14:30'
   end_time: '14:45'
 
 - title: "Open Space"
   type: open-space
+  date: 2024-04-16
+  start_time: '14:45'
+  end_time: '16:45'
+
+- title: larry-maccherone
+  type: workshop
   date: 2024-04-16
   start_time: '14:45'
   end_time: '16:45'
@@ -287,17 +293,17 @@ program:
   start_time: '14:45'
   end_time: '16:45'
 
-- title: rabieh-fashwall
-  type: workshop
+- title: Evening Keynote
+  type: custom
   date: 2024-04-16
-  start_time: '14:45'
-  end_time: '16:45'
+  start_time: '17:00'
+  end_time: '17:45'
 
 - title: Closing Day 1
   type: custom
   date: 2024-04-16
-  start_time: '17:00'
-  end_time: '17:15'
+  start_time: '17:45'
+  end_time: '18:00'
 
 - title: Evening Event
   type: custom
@@ -324,7 +330,7 @@ program:
   start_time: '9:15' 
   end_time: '10:00'
 
-- title: laurent-balmelli
+- title: jean-marc-zenklusen
   type: talk
   date: 2024-04-17
   start_time: '10:00'
@@ -336,19 +342,19 @@ program:
   start_time: '10:30'
   end_time: '11:00'
 
-- title: marlene-roth
+- title: daniel-aschwanden
   type: talk
   date: 2024-04-17
   start_time: '11:00'
   end_time: '11:30'
   
-- title: jonas-alder
+- title: laurent-balmelli
   type: talk
   date: 2024-04-17
   start_time: '11:30'
   end_time: '12:00'
 
-- title: dorota-parad
+- title: dominik-gsteiger
   type: talk
   date: 2024-04-17
   start_time: '12:00'
@@ -370,12 +376,12 @@ program:
   type: ignite
   date: 2024-04-17
   start_time: '14:05'
-  end_time: '14:40'
+  end_time: '14:45'
 
 - title: Open Space Voting
   type: custom
   date: 2024-04-17
-  start_time: '14:40'
+  start_time: '14:45'
   end_time: '15:00'
 
 - title: "Open Space"
@@ -390,7 +396,7 @@ program:
   start_time: '15:00'
   end_time: '17:15'
 
-- title: larry-maccherone
+- title: rabieh-fashwall
   type: workshop
   date: 2024-04-17
   start_time: '15:00'
@@ -409,35 +415,35 @@ program:
   end_time: '17:30'
 
 ignites:
-  - title: "marc-sallin"
+  - title: "suzanne-daniels"
     date: 2024-04-16
   - title: "evelina-rimkute"
     date: 2024-04-16
-  - title: "annie-talvasto"
+  - title: "john-nguyen"
     date: 2024-04-16 
-  - title: "ulrike-eilhauer"
-    date: 2024-04-16
-  - title: "xenia-ioannidou"
-    date: 2024-04-16
   - title: "verena-traub"
     date: 2024-04-16
-  - title: "antonio-alvino"
+  - title: "marc-sallin"
     date: 2024-04-16
-  - title: "mischa-maurer"
+  - title: "annie-talvasto"
     date: 2024-04-16
   - title: "pawel-sucholbiak"
-    date: 2024-04-17
-  - title: "oleg-nenashev"
-    date: 2024-04-17
-  - title: "sebastian-haeni"
-    date: 2024-04-17  
+    date: 2024-04-16
   - title: "thomas-stein"
+    date: 2024-04-17
+  - title: "ulrike-eilhauer"
+    date: 2024-04-17
+  - title: "mischa-maurer"
+    date: 2024-04-17
+  - title: "prasad-lambe"
+    date: 2024-04-17  
+  - title: "xenia-ioannidou"
     date: 2024-04-17   
   - title: "peter-haefliger"
     date: 2024-04-17
-  - title: "suzanne-daniels"
+  - title: "oleg-nenashev"
     date: 2024-04-17 
-  - title: "prasad-lambe"
+  - title: "antonio-alvino"
     date: 2024-04-17 
-  - title: "john-nguyen"
+  - title: "sebastian-haeni"
     date: 2024-04-17 

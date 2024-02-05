@@ -4,7 +4,7 @@ image = "rabieh-fashwall.jpg"
 linktitle = "rabieh-fashwall"
 type = "speaker"
 Website = "https://rabieh-fashwall.me/"
-Twitter = "https://twitter.com/rabieh_fashwall"
+Twitter = "@rabieh_fashwall"
 Linkedin = "https://www.linkedin.com/in/rabieh-fashwall/"
 +++
 

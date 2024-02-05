@@ -4,7 +4,7 @@ image = "manuel-pais.jpg"
 linktitle = "manuel-pais"
 type = "speaker"
 Website = "https://www.manuelpais.net/"
-Twitter = "https://twitter.com/manupaisable"
+Twitter = "@manupaisable"
 Linkedin = "https://www.linkedin.com/in/manuelpais/"
 +++
 

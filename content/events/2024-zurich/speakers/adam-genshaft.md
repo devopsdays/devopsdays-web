@@ -4,7 +4,7 @@ image = "adam-genshaft.jpg"
 linktitle = "adam-genshaft"
 type = "speaker"
 Website = "https://adamgen.com/"
-Twitter = "https://twitter.com/adamgensh"
+Twitter = "@adamgensh"
 Linkedin = "https://www.linkedin.com/in/adamgen/"
 +++
 

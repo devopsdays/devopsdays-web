@@ -4,7 +4,7 @@ image = "marc-sallin.jpg"
 linktitle = "marc-sallin"
 type = "speaker"
 Website = ""
-Twitter = "https://twitter.com/marcsallin"
+Twitter = "@marcsallin"
 Linkedin = "https://www.linkedin.com/in/marcsallin/"
 +++
 

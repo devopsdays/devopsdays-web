@@ -4,7 +4,7 @@ image = "john-nguyen.png"
 linktitle = "john-nguyen"
 type = "speaker"
 Website = "https://blogs.jolo.dev/"
-Twitter = "https://twitter.com/jolodevguru"
+Twitter = "@jolodevguru"
 Linkedin = "https://www.linkedin.com/in/john-long-nguyen-256457111/"
 +++
 

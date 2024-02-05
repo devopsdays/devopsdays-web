@@ -4,7 +4,7 @@ image = "annie-talvasto.jpg"
 linktitle = "annie-talvasto"
 type = "speaker"
 Website = ""
-Twitter = "https://twitter.com/annietalvasto"
+Twitter = "@annietalvasto"
 Linkedin = "https://www.linkedin.com/in/talvasto/"
 +++
 

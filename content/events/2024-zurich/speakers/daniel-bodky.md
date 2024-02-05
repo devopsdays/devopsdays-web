@@ -4,7 +4,7 @@ image = "daniel-bodky.jpg"
 linktitle = "daniel-bodky"
 type = "speaker"
 Website = "https://dbodky.me/"
-Twitter = "https://twitter.com/d_bodky"
+Twitter = "@d_bodky"
 Linkedin = "https://www.linkedin.com/in/daniel-bodky/"
 +++
 
