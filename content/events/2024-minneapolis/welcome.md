@@ -77,7 +77,7 @@ Description = "devopsdays Minneapolis 2024"
     <strong>Health & Safety</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="health-and-safety" text="Health and Safety" >}}
+    {{< event_link page="health-and-safety" text="Health and safety tips and guidelines" >}}
   </div>
 </div>
 
