@@ -74,6 +74,15 @@ Description = "devopsdays Minneapolis 2024"
 
 <div class = "row">
   <div class = "col-md-2">
+    <strong>Health & Safety</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_link page="health-and-safety" text="Health and Safety" >}}
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-2">
     <strong>Contact</strong>
   </div>
   <div class = "col-md-8">
