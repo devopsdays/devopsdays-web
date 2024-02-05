@@ -31,8 +31,9 @@ Stay healthy! Engage in responsible health practices such as avoiding touching e
 ##### FOOD ALLERGIES
 We aim to provide a variety of choices to cater to various dietary restrictions. All food items will be clearly labeled at the event, indicating the ingredients used and any potential allergens present. If you have a food allergy we need to be aware of, please email us at [{{< email_organizers >}}].
 
-### Saftey Tips
-Downtown Minneapolis is generally a safe place and easily walkable. But attendee safety is our top priority and we want to provide you with some tips to follow in and around the event. 
+### Safety Tips
+
+Downtown Minneapolis is generally a safe place and easily walkable. But attendee safety is our top priority and we want to provide you with some tips to follow in and around the event.
 
 ##### GENERAL SAFETY
 
