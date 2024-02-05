@@ -215,7 +215,7 @@ program:
   start_time: '9:00'
   end_time: '9:15'
   
-- title: manuel-pais
+- title: jennifer-petoff
   type: talk
   date: 2024-04-16
   start_time: '9:15'
@@ -330,7 +330,7 @@ program:
   start_time: '9:00'
   end_time: '9:15'
   
-- title: jennifer-petoff
+- title: manuel-pais
   type: talk
   date: 2024-04-17
   start_time: '9:15' 
@@ -436,7 +436,7 @@ ignites:
   - title: "pawel-sucholbiak"
     date: 2024-04-16
   - title: "thomas-stein"
-    date: 2024-04-17
+    date: 2024-04-16
   - title: "ulrike-eilhauer"
     date: 2024-04-17
   - title: "mischa-maurer"
