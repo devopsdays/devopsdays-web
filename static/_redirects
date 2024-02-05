@@ -177,6 +177,20 @@
 /organiser-summit/*            /events/2024-organiser-summit/:splat           302
 /nova-lima/*            /events/2024-nova-lima/:splat           302
 
+# support ghent not being in ghent
+/15year/*		/events/2024-ghent/:splat		302
+/gent/*		/events/2024-ghent/:splat		302
+/gent-oost/*		/events/2024-ghent/:splat		302
+/ghent-east/*		/events/2024-ghent/:splat		302
+/antwerp/*		/events/2024-ghent/:splat		302
+/antwerpen/*		/events/2024-ghent/:splat		302
+/events/15year/*  /events/2024-ghent/:splat  302
+/events/2024-gent/*  /events/2024-ghent/:splat  302
+/events/2024-gent-oost/*  /events/2024-ghent/:splat  302
+/events/2024-ghent-east/*  /events/2024-ghent/:splat  302
+/events/2024-antwerp/*  /events/2024-ghent/:splat  302
+/events/2024-antwerpen/*  /events/2024-ghent/:splat  302
+
 
 # migrate rescheduled event
 /events/2023-tel-aviv/* /events/2024-tel-aviv/:splat	302
