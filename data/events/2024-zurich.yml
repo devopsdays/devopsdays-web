@@ -168,6 +168,12 @@ sponsors:
   level: bronze
 - id: vshn
   level: gold
+- id: digicomp
+  level: community
+- id: pure-storage
+  level: silver
+- id: cognizant
+  level: bronze
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 

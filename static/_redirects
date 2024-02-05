@@ -1,6 +1,6 @@
 /tel-aviv/*		/events/2024-tel-aviv/:splat		302
 /amsterdam/*		/events/2024-amsterdam/:splat		302
-/aracaju/*		/events/2023-aracaju/:splat		302
+/aracaju/*		/events/2024-aracaju/:splat		302
 /atlanta/*		/events/2023-atlanta/:splat		302
 /austin/cfp		https://talks.devopsdays.org/devopsdays-austin-2024/cfp 302
 /austin/*		/events/2024-austin/:splat		302
@@ -98,7 +98,7 @@
 /recife/cfp     https://www.papercall.io/dodrec24    302
 /recife/*		/events/2024-recife/:splat		302
 /riga/*			/events/2018-riga/:splat		302
-/rio-de-janeiro/*	/events/2023-rio-de-janeiro/:splat	302
+/rio-de-janeiro/*	/events/2024-rio-de-janeiro/:splat	302
 /rome/*			/events/2012-italy/:splat		302
 /saint-louis/*		/events/2020-saint-louis/:splat		302
 /salt-lake-city/*	/events/2024-salt-lake-city/:splat	302

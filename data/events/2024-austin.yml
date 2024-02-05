@@ -145,6 +145,10 @@ organizer_email: "austin@devopsdays.org" # Put your organizer email address here
 sponsors:
   - id: aptible
     level: gold
+  - id: tailscale-black
+    level: gold
+  - id: civo
+    level: lanyard
   - id: texasmutual
     level: coffee
 

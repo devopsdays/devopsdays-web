@@ -137,12 +137,16 @@ sponsors:
     level: gold
   - id: honeycomb
     level: gold
+  - id: saucelabs
+    level: gold
   - id: semaphoreci
     level: gold
   - id: siglens
     level: gold
   - id: solarwinds
     level: gold
+  - id: couchbase
+    level: silver
   - id: victoriametrics
     level: startup
   - id: kubecareers
