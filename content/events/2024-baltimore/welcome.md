@@ -16,7 +16,7 @@ Description = "devopsdays Baltimore 2024"
       <p>DevOpsDays Baltimore, happening on May 21-22, is a concise, content-rich event for Central Maryland DevOps professionals. It features back-to-back 30-minute keynotes on topical issues and innovations in the field. The program also includes 5-minute ignite talks for rapid-fire knowledge and idea-sharing. Every afternoon will also include an Open Spaces portion, where any and every attendee can propose their own topic, and break into small groups to discuss it with anyone interested. DevOpsDays Baltimore is an opportunity to connect with peers and gain insights relevant to modern DevOps challenges and solutions.</p>
     </h4>
     <br>
-    <h2>{{< event_link page="registration" text="Register to attend the conference, tickets on sale now!" >}}</h2>
+    <h2>{{< event_link url-key="registration_link" text="Register to attend the conference, tickets on sale now!" >}}</h2>
   </div>
 </div>
 
@@ -36,13 +36,9 @@ Description = "devopsdays Baltimore 2024"
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
-    <div class = "col-auto offset-1 offset-md-0 welcome-page-cta">
-      <a href="https://tickets.devopsdays.org/devopsdays-baltimore/2024/" class="btn jssocials-share-link event-cta-button" role="button" aria-pressed="true">Register Now!</a>
-    </div>
-    Discounted Early Bird tickets available until 2/29
-  <!-- <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
-  </div> -->
+  <div class = "col-md-8">
+    <strong>{{< event_link url-key="registration_link" text="Register to attend the conference!" >}}</strong> <i>[Early bird discounts until 2/29]</i>
+  </div>
 </div>
 
 <div class = "row">
