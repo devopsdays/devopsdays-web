@@ -9,6 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check PR Description Against Template
+        id: prcheck
         run: |
           # Ensure jq is installed
           sudo apt-get install jq
@@ -22,3 +23,11 @@ jobs:
             echo "PR description does not have default text removed"
             exit 1
           fi
+      - name: Comment on PR
+        id: comment
+        if: failure() && steps.prcheck.outcome == 'failure'
+        uses: thollander/actions-comment-pull-request@v2
+        with:
+          message: |
+            Hi ${{ github.event.pull_request.user.login }}! Please remove the default text from the pull request description! 
+            
