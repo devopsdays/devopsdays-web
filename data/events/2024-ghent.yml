@@ -77,6 +77,10 @@ team_members: # Name is the only required field for team members.
     pronouns: "he/him"
     linkedin: "https://www.linkedin.com/in/josvanschouten/"
     twitter: "josvanschouten"
+  - name: "Ringo De Smet"
+    github: "ringods"
+    linkedin: "https://www.linkedin.com/in/ringodesmet/"
+    mastodon: "@ringods@hachyderm.io"
 
 organizer_email: "ghent@devopsdays.org" # Put your organizer email address here
 
