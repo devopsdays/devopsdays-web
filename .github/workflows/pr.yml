@@ -29,5 +29,6 @@ jobs:
         uses: thollander/actions-comment-pull-request@v2
         with:
           message: |
-            Hi @${{ github.event.pull_request.user.login }}! Please remove the default text from the pull request description! 
+            Hi @${{ github.event.pull_request.user.login }}! It looks like you've left the default text in the pull request description. Please replace that text with something meaningful. Thanks!
+
             
