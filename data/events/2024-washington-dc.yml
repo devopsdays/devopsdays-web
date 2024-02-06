@@ -1,0 +1,194 @@
+name: "2024-washington-dc" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2024" # The year of the event. Make sure it is in quotes.
+city: "Washington, D.C." # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaysdc" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "A house divided against itself cannot stand." # Edit this to suit your preferences
+ga_tracking_id: "UA-131045075-1"
+
+masthead_background: "uscapitol.jpg"
+sharing_image: "dc-sharing.png"
+
+# All dates are in unquoted 2024-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2024-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2024-09-25T07:00:00-04:00
+enddate: 2024-09-26T19:00:00-04:00
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start:  # start accepting talk proposals.
+cfp_date_end:  # close your call for proposals.
+cfp_date_announce:  # inform proposers of status
+
+cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "38.89536,-77.04075"
+location: "American Red Cross, Washington, D.C."
+location_address: "1730 E St NW, Washington, DC 20006"
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+ # - name: propose
+  - name: location
+ # - name: registration
+ # - name: program
+ # - name: speakers
+ # - name: sponsor
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Holly Bazemore"
+    employer: "Amazon Web Services"
+    twitter: "https://twitter.com/hfbazemore"
+    bio: "Holly Bazemore leads the AWS Artificial Intelligence and Machine Learning team for government regions. Her team focuses on customer experience, deployments, new feature creation and operations for services like SageMaker and Rekognition.  Holly has over 20 years of technology operations, project management, communications and leadership experience and aims to empower and delight her customers through technology. She is a passionate DevOps advocate and experienced practitioner."
+    image: "holly-bazemore.jpg"
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/hfbazemore/"
+    website: ""
+    role: "Co-chairperson"
+
+  - name: "Jeff Gallimore"
+    employer: "Excella"
+    twitter: "jgallimore"
+    bio: "I'm the Chief Technology and Innovation Officer and Co-founder at Excella, a mid-sized technology services firm based in Arlington, VA. Since I turned to the dark side by going into management, I live vicariously through other engineers and have fond memories of spending my time in code and command lines rather than Outlook and Excel. I'm active in the DevOps community with DevOpsDays DC and as an advisor to IT Revolution. I have a passion for how technology can be used to help organizations win with their mission and people find joy in their work."
+    image: "jeff-gallimore.jpg"
+    github: "https://github.com/gallimorej"
+    linkedin: "https://www.linkedin.com/in/jgallimore/"
+    website: "https://itsanicelife.com/"
+    facebook: ""
+    role: "Co-chairperson"
+
+  - name: "Kara Burgan"
+    employer: "MITRE"
+    twitter: "PsychSafety2"
+    bio: ""
+    image: "kara-burgan.jpg"
+    github: ""
+    website: ""
+    linkedin: ""
+
+  - name: "Peter Burkholder"
+    employer: "US Government"
+    twitter: "@pburkholder"
+    bio: "Geophysicist turned DevOp"
+    image: "peter-burkholder.jpg"
+    github: "https://github.com/pburkholder"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/pburkholder/"
+    website: ""
+
+  - name: "Matthew Cascio"
+    employer: "American Red Cross"
+    twitter: "mattcascio"
+    bio: "Matthew Cascio leads product teams that go-to-market with award-winning customer experiences for the world's most-recognized brands. For over 20 years, Matt has valued people and relationships first, providing vision, strategy and leadership that drives value at scale. As a thought leader and evangelist, Matt builds trust and leads transformation across complex organizations with a collaborative, outcomes-focused and hands-on style. As an accountable executive, he has demonstrated success commercializing data insights into cloud-native products. 
+    <br><br>Matt serves as Head, Digital Transformation at American Red Cross where increasing adoption of digital products and cloud technologies saves lives. While at Red Cross, Matt founded the award-winning Code4Good program, a first-of-its-kind technical volunteer workforce supporting the Red Cross Mission.  Matt previously led transformation at organizations such as Meda Pharmaceuticals, Volkwagen/Audi of America, Graduate Management Admissions Council, Rosetta Stone, and National Wildlife Federation. Matt is also an independent author, speaker and advisor through his personal brand NaOM Lab, which contributes commentaries to publications such as Fortune Magazine, speaks regularly at open-source events with the Cloud Native Computing Foundation (CNCF) and works with clients to advance their digital transformation initiatives based on his experience with three key pillars of success - accountability, observability and agility. He's an organizer of Kubernetes Community Days in both Washington, DC and Medellín, Colombia."
+    image: "matt-cascio.jpg"
+    github: ""
+    website: ""
+    linkedin: "https://www.linkedin.com/in/mcascio/"
+
+  - name: "Patrick Goodwin"
+    employer: ""
+    twitter: ""
+    bio: ""
+    image: "patrick-goodwin.jpg"
+    github: ""
+    facebook: ""
+    website: ""
+    linkedin: "https://www.linkedin.com/in/patrickjgoodwin/"
+
+  - name: "Nathen Harvey"
+    employer: "Google"
+    twitter: "nathenharvey"
+    bio: ""
+    image: "nathen-harvey.jpg"
+    github: "nathenharvey"
+    facebook: "https://www.facebook.com/nathenharvey"
+    linkedin: "https://www.linkedin.com/in/nathen"
+    website: "http://nathenharvey.com"
+    
+  - name: "David Hodge"
+    employer: "Leidos"
+    twitter: "davezen1"
+    bio: ""
+    image: "david-hodge.jpg"
+    github: "davezen1"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/davidyuctanhodge/"
+    website: ""
+
+  - name: "James Martin"
+    employer: ""
+    twitter: ""
+    bio: ""
+    image:  'james-martin.jpg'
+    github: ""
+    facebook: ""
+    website: ""
+    linkedin: ""
+
+  - name: "Karl Peña"
+    employer: "ScientiaMobile"
+    twitter: ""
+    bio: ""
+    image: "karl-pena.jpg"
+    github: ""
+    facebook: ""
+    linkedin: ""
+    website: ""
+
+  - name: "Deanna Stanley"
+    employer: "MITRE"
+    twitter: "PsychSafety1"
+    bio: ""
+    image: "deanna-stanley.jpg"
+    github: ""
+    website: ""
+    linkedin: ""
+
+organizer_email: "washington-dc@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: kcddc
+    level: community
+    #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: devopsdc-meetup
+    level: community
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: platinum
+    label: Platinum
+    max: 12
+  - id: gold
+    label: Gold
+    max: 6
+  - id: silver
+    label: Silver
+    max: 6
+    #max: 0 # This is the same as omitting the max limit.
+  - id: community
+    label: Community
+    max: 3

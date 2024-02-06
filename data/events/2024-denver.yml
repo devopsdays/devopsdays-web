@@ -96,6 +96,8 @@ sponsors:
     level: gold
   - id: elastic
     level: gold
+  - id: observeinc
+    level: gold
   - id: parrylabs
     level: supporter
   - id: pax8
@@ -126,6 +128,6 @@ sponsor_levels:
     max: 9
   - id: supporter
     label: Supporter
-    max: 4
+    max: 9
   - id: community
     label: Community
