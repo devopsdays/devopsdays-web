@@ -1,0 +1,24 @@
+name: Pull Request Description Validation
+
+on:
+  pull_request:
+    types: [opened, edited, reopened]
+
+jobs:
+  validate-pr-description:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check PR Description Against Template
+        run: |
+          # Ensure jq is installed
+          sudo apt-get install jq
+
+          # Fetch PR description using jq
+          PR_DESCRIPTION=$(jq -r ".pull_request.body" "$GITHUB_EVENT_PATH")
+          KEYWORD="Bluth"
+
+          # Check for the required keyword in the PR description
+          if [[ $PR_DESCRIPTION = *"$KEYWORD"* ]]; then
+            echo "PR description does not have default text removed"
+            exit 1
+          fi
