@@ -37,8 +37,8 @@ location_address: "Technikumstrasse 8, 8400 Winterthur, Switzerland" #Optional -
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
 #  - name: propose
-#  - name: program
-#  - name: speakers
+  - name: program
+  - name: speakers
   - name: location
   - name: registration
   - name: sponsor
@@ -273,48 +273,42 @@ program:
   type: custom
   date: 2024-04-16
   start_time: '14:30'
-  end_time: '14:45'
+  end_time: '15:00'
 
 - title: "Open Space"
   type: open-space
   date: 2024-04-16
-  start_time: '14:45'
-  end_time: '16:45'
+  start_time: '15:00'
+  end_time: '17:15'
 
 - title: larry-maccherone
   type: workshop
   date: 2024-04-16
-  start_time: '14:45'
-  end_time: '16:45'
+  start_time: '15:00'
+  end_time: '17:15'
 
 - title: laurence-kozera
   type: workshop
   date: 2024-04-16
-  start_time: '14:45'
-  end_time: '16:45'
+  start_time: '15:00'
+  end_time: '17:15'
 
 - title: adam-genshaft
   type: workshop
   date: 2024-04-16
-  start_time: '14:45'
-  end_time: '16:45'
-
-- title: Evening Keynote
-  type: custom
-  date: 2024-04-16
-  start_time: '17:00'
-  end_time: '17:45'
+  start_time: '15:00'
+  end_time: '17:15'
 
 - title: Closing Day 1
   type: custom
   date: 2024-04-16
-  start_time: '17:45'
-  end_time: '18:00'
+  start_time: '17:15'
+  end_time: '17:30'
 
 - title: Evening Event
   type: custom
   date: 2024-04-16
-  start_time: '18:00'
+  start_time: '17:30'
   end_time: '23:00'
 
 # Day 2
