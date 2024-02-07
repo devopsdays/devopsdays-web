@@ -32,7 +32,7 @@ Visando valorizar a participação de instituições na realização do evento, 
         <th>PLATINA</th>
     </thead>
     <tr>
-      <td>Veinculação de vídeo institucional (30s)</td>
+      <td>Veiculação de vídeo institucional (30s)</td>
       <td></td>
       <td></td>
       <td></td>
