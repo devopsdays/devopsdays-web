@@ -1,8 +1,11 @@
 *Please read and take into consideration the following:*
-- Title your pull request in this format: The event name and year in the title of the PR,
-- Describe what is being changed, i.e., `[CHI-2024] Add Bluth Company as a sponsor`
-- Remove this text and replace with a high level of the changes (e.g. 'Added 10 new speakers, Added 6 sponsors')
+- Title your pull request in this format: The event name and year in the title of the PR.
+- Describe what is being changed, i.e., `[CHI-2024] Add Bluth Company as a sponsor`.
+- Remove this text and replace with a high level of the changes (e.g. 'Added 10 new speakers, Added 6 sponsors').
 
-* If you are adding or removing organi[s/z]ers, please email info@devopsdays.org with the details of who is being added and removed, along with the full names and email addresses of the new team, so we can update Slack and the mailing list.*
+*If you are adding or removing organizers, please email info@devopsdays.org with:*
+- The details of who is being added and removed. 
+- For members being added, please include the full names and email addresses of the new members.
 
-Finally, if you left this text in your PR, then it appears you didn't read it. Please remove this in the PR you are submitting.
+The global team uses the above information to update Slack and the mailing list.
+
