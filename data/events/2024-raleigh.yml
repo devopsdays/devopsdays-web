@@ -109,6 +109,8 @@ sponsors:
   # - id: samplesponsorname
   #   level: gold
   #   url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: observeinc
+    level: gold
   - id: arresteddevops
     level: community
   - id: kubehuddle
