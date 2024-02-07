@@ -44,9 +44,9 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     url: https://talks.devopsdays.org/devopsdays-sao-paulo-2024/cfp
     #url: /events/2024-sao-paulo/propose
 
-  # - name: inscrições
-  #   icon: "ticket"
-  #   url: /events/2024-sao-paulo/registration
+  - name: inscrições
+    icon: "ticket"
+    url: https://www.sympla.com.br/evento/devopsdays-sao-paulo-2024/2326413
 
   # - name: programação
   #   icon: "calendar"
