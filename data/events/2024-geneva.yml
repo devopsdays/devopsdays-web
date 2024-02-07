@@ -150,6 +150,10 @@ sponsors:
     level: gold
   - id: les-renverses
     level: community
+  - id: cisel
+    level: gold
+  - id: swissdevjobs
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
