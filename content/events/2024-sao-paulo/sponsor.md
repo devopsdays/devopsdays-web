@@ -240,15 +240,16 @@ Aiming to enhance the participation of institutions in the event, we organized p
       <td>8</td>
     </tr>
     <tr>
-      <td><b>Contribution</b></td>
-      <td><b>US$ 2.500,00</b></td>
+      <td><b>Contribution*</b></td>
+      <td><b>US$ 2.000,00</b></td>
+      <td><b>US$ 3.000,00</b></td>
       <td><b>US$ 4.000,00</b></td>
       <td><b>US$ 5.000,00</b></td>
-      <td><b>US$ 6.500,00</b></td>
     </tr>
   </table>
 </div>
 <div>
+<p>* Prices in USD are subject to the exchange rate on the day of payment.</p>
 <p><strong>COMMUNITY:</strong> Supporters who have contributed some benefit to the public or amount of
 up to US$ 500,00 receive the right to be publicized on social media and 1 registration for the event.</p>
 <p style="font-size:18px">See more in the full document here (in portuguese) <a href="https://assets.devopsdays.org/events/2024/sao-paulo/DevOpsDays%20São%20Paulo%20-%20Mídia%20Kit.pdf"><i class="fa fa-download" style="font-size:30px"></i></a></p>
