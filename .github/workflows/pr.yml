@@ -1,12 +1,15 @@
 name: Pull Request Description Validation
 
 on:
-  pull_request:
+  pull_request_target:
     types: [opened, edited, reopened]
 
 jobs:
   validate-pr-description:
     runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
     steps:
       - name: Check PR Description Against Template
         id: prcheck
