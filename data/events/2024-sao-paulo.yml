@@ -29,10 +29,10 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 # Location
 #
-coordinates: "-23.5653828, -46.7337782" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Teatro Gazeta" # Defaults to city, but you can make it the venue name.
+coordinates: "-23.5958701, -46.6845086" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Hotel Pullman São Paulo Vila Olímpia" # Defaults to city, but you can make it the venue name.
 #
-location_address: "Teatro Gazeta, Av. Paulista, 900 - Bela Vista, São Paulo - SP, 01310-100" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "Hotel Pullman São Paulo Vila Olímpia, Rua Olimpíadas, 205 - Vila Olímpia, São Paulo - SP, 04551-000" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: local
@@ -44,9 +44,9 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     url: https://talks.devopsdays.org/devopsdays-sao-paulo-2024/cfp
     #url: /events/2024-sao-paulo/propose
 
-  # - name: inscrições
-  #   icon: "ticket"
-  #   url: /events/2024-sao-paulo/registration
+  - name: inscrições
+    icon: "ticket"
+    url: https://www.sympla.com.br/evento/devopsdays-sao-paulo-2024/2326413
 
   # - name: programação
   #   icon: "calendar"
