@@ -10,8 +10,8 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2022-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: 2024-08-17T09:00:00-03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2024-08-17T18:00:00-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2024-08-24T09:00:00-03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2024-08-24T18:00:00-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 # cfp_date_start: 2024-04-01T00:00:00-03:00 # start accepting talk proposals.
@@ -28,9 +28,9 @@ registration_closed: "false" #set this to true if you need to manually close reg
 # registration_link: "https://www.sympla.com.br/evento/devopsdays-rio-de-janeiro-2024/1929984" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
-coordinates: "-22.901811538446633, -43.174462849673525" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Edificio Bolsa do Rio"
-location_address: "Praça Quinze de Novembro, 20 - Centro, Rio de Janeiro - RJ, 20010-010" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+coordinates: "-22.905009256027157, -43.16872311690936" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Espaço Costa Hall"
+location_address: "Praça Mal. Âncora, 15 - Centro, Rio de Janeiro - RJ, 20021-200" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
