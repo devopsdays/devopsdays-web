@@ -3,17 +3,13 @@ Title = "Propose"
 Type = "event"
 Description = "Propose a talk for devopsdays Chicago 2024"
 +++
-  {{< cfp_dates >}}
+{{< cfp_dates >}}
 
 <hr>
 
-The call for proposals has closed!
-
-<!-- <hr>
-
 There are four ways to propose a topic at devopsdays:
 <ol>
-  <li><strong><em>A 30-minute talk</em></strong> presented to the entire conference audience, usually in the mornings.</li>
+  <li><strong><em>A 30-minute talk</em></strong> presented to the entire conference audience, usually in the morning.</li>
   <li><strong><em>An Ignite talk</em></strong> presented during the <a href="/pages/ignite-talks-format">Ignite sessions</a> (scheduling varies). These are 5 minutes talks with slides auto-advancing every 15 seconds (20 slides total).</li>
    <li><strong><em>A Workshop</em></strong> presented during the conference, usually in the afternoon. These are 45 minutes long.</li>
   <li><strong><em>Open Space</em></strong>: If you'd like to lead a group discussion during the attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout sessions, it is not necessary to propose it ahead of time. Those topics are suggested in person at the conference. If you'd like to demo your product or service, you should <a href="../sponsor">sponsor the event</a> and demo it at your table.
@@ -28,7 +24,7 @@ There are four ways to propose a topic at devopsdays:
 - Multiple entries are welcome.
 - Submissions must be made by one of the proposed presenters; **we do not accept proposals submitted on behalf of others**
 - All presentations must conform to the code of conduct.
-- Proposals must be submitted via [our CFP site](https://chicago-proposals.devopsdays.org/devopsdays-chicago-2023/cfp). If you have questions about our CFP process, please email: [{{< email_organizers >}}]
+- Proposals must be submitted via [our CFP site](https://chicago-proposals.devopsdays.org/devopsdays-chicago-2024/cfp). If you have questions about our CFP process, please email: [{{< email_organizers >}}]
 
 ### Ideas
 
@@ -81,4 +77,4 @@ Our main criteria to make it to the top selection are:
 
 <hr>
 
-<strong>How to submit a proposal:</strong> How to submit a proposal: Visit our [CFP Site and submit a proposal there](https://chicago-proposals.devopsdays.org/devopsdays-chicago-2023/cfp). If you run into any problems, please don’t hesitate to contact us by email at [{{< email_organizers >}}]. -->
+<strong>How to submit a proposal:</strong> How to submit a proposal: Visit our [CFP Site and submit a proposal there](https://chicago-proposals.devopsdays.org/devopsdays-chicago-2024/cfp). If you run into any problems, please don’t hesitate to contact us by email at [{{< email_organizers >}}]. We are happy to help you with your proposal.
