@@ -343,7 +343,7 @@ Events usually have 4 30-min talks per day + ignite talks. Open space sessions a
 
 For people to respond to the call for proposals you can use your city@devopsdays.org address, a web form, a third-party CFP tool, etc. 
 
-> 💡 **Pretalx** is an open source event management platform that handles the CFP, review & talk selection, scheduling, and more. The core organizers run an instance of [Pretalx](https://talks.devopsdays.org) that is made _freely available_ to the DevOpsDays community. You're under no obligation to use it—but you can if you want to! Please visit `#conference-services` on the global DevOpsDays Slack for more information. 
+💡 **Pretalx** is an open source event management platform that handles the CFP, review & talk selection, scheduling, and more. The core organizers run an instance of [Pretalx](https://talks.devopsdays.org) that is made _freely available_ to the DevOpsDays community. You're under no obligation to use it—but you can if you want to! Please visit `#conference-services` on the global DevOpsDays Slack for more information. 
 
 Keep in mind that under-represented people in tech are much less likely to respond to your CFP. If you would like to encourage diverse viewpoints from voices other than those you hear the most often, you will need to reach out into those communities and encourage participation.
 
