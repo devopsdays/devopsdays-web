@@ -535,7 +535,7 @@ If you’re struggling to sell tickets, try some of the following ideas:
 
 Once pricing has been decided you're ready to set up registration. 
 
-> 💡 **Pretix** is an open source ticketing and payment management platform that handles registrations, issuing tickets, waitlists, and more. The core organizers make a [Pretix instance](https://tickets.devopsdays.org) freely available to the DevOpsDays community. You're under no obligation to use it—but you can if you want to! Please visit `#conference-services` on the DevOpsDays Slack. 
+💡 **Pretix** is an open source ticketing and payment management platform that handles registrations, issuing tickets, waitlists, and more. The core organizers make a [Pretix instance](https://tickets.devopsdays.org) freely available to the DevOpsDays community. You're under no obligation to use it—but you can if you want to! Please visit `#conference-services` on the DevOpsDays Slack. 
 
 Alternatively, event organizers have had good experiences with [Eventbrite](http://www.eventbrite.com) integrated with [PayPal](http://paypal.com) payments. The Paypal account for payment needs to be linked directly to the company that does the invoicing.
 (Note: if using Eventbrite, use Paypal, not "Eventbrite payment processing", or configure Eventbrite to disperse funds frequently so you don't have to wait until after your event.)
