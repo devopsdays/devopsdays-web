@@ -31,14 +31,6 @@ Description = "devopsdays Vilnius 2023"
                         {{< event_location>}}
                     </div>
                 </div>
-                <div class="row">
-                    <div class="col-md-2">
-                        <strong>Registration</strong>
-                    </div>
-                    <div class="col-md-8">
-                        <a href="https://fienta.com/devopsdays-vilnius-2023">Register / Buy your ticket here!</a>
-                    </div>
-                </div>
                 <div class = "row">
                   <div class = "col-md-2">
                     <strong>Program</strong>

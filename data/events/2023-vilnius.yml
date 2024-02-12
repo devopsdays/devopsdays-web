@@ -35,12 +35,9 @@ location: "Tech Park | Vilnius" # Defaults to city, but you can make it the venu
 location_address: "Antakalnio g. 17, 10312 Vilnius" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  #- name: propose
   - name: location
-  - name: registration
   - name: program
   - name: speakers
-  #- name: sponsor
   - name: contact
   - name: conduct
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
