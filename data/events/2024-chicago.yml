@@ -97,7 +97,7 @@ team_members: # Name is the only required field for team members.
     twitter: "joshugav"
     bio: "Josh has enabled software development and delivery at global enterprises for almost 20 years, serving as product manager and solution architect for several big tech vendors as well as platform and product engineer at end user companies. Today as leader of CNCF's TAG App Delivery Josh daily evaluates emerging delivery projects and tools for CNCF integration - from Kubernetes to Argo to Backstage and Crossplane; and as a solution architect for Red Hat he enables global enterprises to efficiently adopt these both technically and culturally."
   - name: "Schulyer Bishop"
-    image: "schulyer-bishop.jpg"
+    image: "schuyler-bishop.jpg"
     github: "shoeler"
     linkedin: "https://www.linkedin.com/in/schuylerbishop/"
     bio: "Hopeless technology / computer geek with a deep interest in SRE, high-trust teams, moving ops towards devs, and the Oxford comma.  I love moving fast, breaking a few things, and showing how true blameless cultures conquer all preconceived fears of other leaders."
