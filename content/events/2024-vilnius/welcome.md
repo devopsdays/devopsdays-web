@@ -10,23 +10,29 @@ Description = "devopsdays Vilnius 2024"
         <img alt="DevOpsDays Vilnius 2024" src="/events/2024-vilnius/logo.png" class="img-fluid logo">
     </div>
     <div class="col-md-7">
-        <h2>DevOpsDays Vilnius 2024</h2>
+        <h3>DevOpsDays Vilnius 2024</h3>
         <p>
-            Devopsdays Vilnius is self organizing and not a profit-oriented event. At 2023 year event we gathered 200 like-minded IT crowd to learn, share and form our local community.
+            Devopsdays Vilnius is self organizing and not a profit-oriented event. At 2023 year event we gathered 200
+            like-minded IT engineers to learn and share. Whether you're a seasoned Devops enthusiast or just starting
+            your journey, Devopsdays Vilnius 2024 has something for you. Join us and gain valuable insights and build
+            your professional network.
         </p>
-        <h2>Content</h2>
+        <h3>Content</h3>
         <p>
         <ul>
             <li>
-                <strong>Talks</strong> - 30 min presentations each morning set the tone for the day. 8-10 different topics are going to
+                <strong>Talks</strong> - 30 min presentations each morning set the tone for the day. 8-10 different
+                topics are going to
                 be hand picked by a group of engineers.
             </li>
             <li>
-                <strong>Ignites</strong> - 5 minute talks. After lunch, several short talks with with 20 slides that auto-advance. Funny,
+                <strong>Ignites</strong> - 5 minute talks. After lunch, several short talks with with 20 slides that
+                auto-advance. Funny,
                 poignant, insightful, and just right.
             </li>
             <li>
-                <strong>Open Spaces</strong> - Prepare to be surprised. Participants suggest, self-organize, and lead these break-out style
+                <strong>Open Spaces</strong> - Prepare to be surprised. Participants suggest, self-organize, and lead
+                these break-out style
                 meetings immediately after the Ignite talks. The organizers facilitate the rooms and timing to fit each
                 suggestion, but the content is completely participant-driven.
             </li>
