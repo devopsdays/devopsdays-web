@@ -1,8 +1,9 @@
 name: "2024-ghent" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2024" # The year of the event. Make sure it is in quotes.
-city: "Ghent (Antwerp)" # The displayed city name of the event. Capitalize it.
+city: "15 year aniversary celebration : Ghent (Antwerp)" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysghent" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "Devopsdays is coming to Ghent-East aka Antwerp!" # Edit this to suit your preferences
+description: "Devopsdays is coming to Ghent-East aka Antwerp!   We are bringing devopsdays back to the venue where it all started
+  The venue where we got the idea for the event" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2024-MM-DDTHH:MM:SS+TZ:TZ, like this:
@@ -52,9 +53,10 @@ team_members: # Name is the only required field for team members.
   - name: "Kris Buytaert"
     twitter: "KrisBuytaert"
     github: "KrisBuytaert"
+    mastodon: "https://mastodon.social/@krisbuytaert"
     linkedin: "https://www.linkedin.com/in/krisbuytaert"
   - name: "Stefan Goethals"
-    twitter: "zipkid"
+    mastodon: "https://mastodon.social/@zipkid"
     github: "zipkid"
     linkedin: "https://be.linkedin.com/in/zipkid"
   - name: "Yves Hanoulle"
@@ -76,7 +78,7 @@ team_members: # Name is the only required field for team members.
   - name: "Ringo De Smet"
     github: "ringods"
     linkedin: "https://www.linkedin.com/in/ringodesmet/"
-    mastodon: "@ringods@hachyderm.io"
+    mastodon: "https://hachyderm.io/@ringods"
   - name: "Floor Drees"
     pronouns: "she/her"
     linkedin: "https://www.linkedin.com/in/floordrees/"
