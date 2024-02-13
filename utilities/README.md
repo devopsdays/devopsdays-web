@@ -58,9 +58,11 @@ sponsors:
 
 ### Updating a sponsor image or data
 
-If you want to update a sponsor's info, keep in mind that we don't want to retroactively change history for past events. See this [previous discussion](https://github.com/devopsdays/devopsdays-web/pull/503) for guidance. We want to preserve past history before defining a changed default.
+It is normal for sponsors to occasionally update their information or logo every few years. As a matter of policy, we strongly prefer not to retroactively change history for past events. In other words, if there's an old logo used by an event in the past, that shouldn't change. (See this [previous discussion](https://github.com/devopsdays/devopsdays-web/pull/503) for guidance.) 
 
-Determine which sponsor is being discussed. For this example, we'll use Pivotal.
+In the case where your current event is the _only one_ that uses the asset in question, you should just make the modfication and open a PR as normal. If there is historical data however, you should use the `change_sponsor_logo.sh` script.
+
+For this example, we'll use Pivotal as the sponsor.
 
 Run the script `change_sponsor_logo.sh` in the `utilities` subdirectory, giving it the name of the sponsor (`pivotal`) and the **full path** on disk to your new logo:
 ```

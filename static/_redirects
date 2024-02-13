@@ -1,6 +1,6 @@
 /tel-aviv/*		/events/2024-tel-aviv/:splat		302
 /amsterdam/*		/events/2024-amsterdam/:splat		302
-/aracaju/*		/events/2023-aracaju/:splat		302
+/aracaju/*		/events/2024-aracaju/:splat		302
 /atlanta/*		/events/2023-atlanta/:splat		302
 /austin/cfp		https://talks.devopsdays.org/devopsdays-austin-2024/cfp 302
 /austin/*		/events/2024-austin/:splat		302
@@ -31,7 +31,7 @@
 /columbus/*		/events/2020-columbus/:splat		302
 /copenhagen/*		/events/2023-copenhagen/:splat		302
 /cuba/*			/events/2019-cuba/:splat		302
-/dallas/*		/events/2023-dallas/:splat		302
+/dallas/*		/events/2024-dallas/:splat		302
 /denver/*		/events/2024-denver/:splat		302
 /des-moines/*		/events/2023-des-moines/:splat		302
 /detroit/*		/events/2023-detroit/:splat		302
@@ -42,7 +42,7 @@
 /fortaleza/*		/events/2022-fortaleza/:splat		302
 /galway/*		/events/2019-galway/:splat		302
 /geneva/*		/events/2023-geneva/:splat		302
-/ghent/*		/events/2019-ghent/:splat		302
+/ghent/*		/events/2024-ghent/:splat		302
 /goiania/cfp		https://talks.devopsdays.org/devopsdays-goiania-2024/ 302
 /goiania/*		/events/2024-goiania/:splat		302
 /goteborg/*		/events/2011-goteborg/:splat		302
@@ -64,7 +64,7 @@
 /kiev/*			/events/2023-kyiv/:splat		302
 /kyiv/*			/events/2023-kyiv/:splat		302
 /ljubljana/*		/events/2023-ljubljana/:splat		302
-/london/*		/events/2023-london/:splat		302
+/london/*		/events/2024-london/:splat		302
 /los-angeles/*		/events/2022-los-angeles/:splat		302
 /macapa/*		/events/2019-macapa/:splat		302
 /madison/*		/events/2020-madison/:splat		302
@@ -95,9 +95,10 @@
 /poznan/*		/events/2023-poznan/:splat		302
 /prague/*		/events/2023-prague/:splat		302
 /raleigh/*		/events/2024-raleigh/:splat		302
-/recife/*		/events/2023-recife/:splat		302
+/recife/cfp     https://www.papercall.io/dodrec24    302
+/recife/*		/events/2024-recife/:splat		302
 /riga/*			/events/2018-riga/:splat		302
-/rio-de-janeiro/*	/events/2023-rio-de-janeiro/:splat	302
+/rio-de-janeiro/*	/events/2024-rio-de-janeiro/:splat	302
 /rome/*			/events/2012-italy/:splat		302
 /saint-louis/*		/events/2020-saint-louis/:splat		302
 /salt-lake-city/*	/events/2024-salt-lake-city/:splat	302
@@ -122,9 +123,9 @@
 /vancouver/*		/events/2024-vancouver/:splat		302
 /victoria/*		/events/2019-victoria/:splat		302
 /vitoria/*		/events/2022-vitoria/:splat		302
-/vilnius/*            	/events/2023-vilnius/:splat             302
+/vilnius/*            	/events/2024-vilnius/:splat             302
 /warsaw/*		/events/2022-warsaw/:splat		302
-/washington-dc/*	/events/2022-washington-dc/:splat	302
+/washington-dc/*	/events/2024-washington-dc/:splat	302
 /zaragoza/*		/events/2020-zaragoza/:splat		302
 /zurich/*		/events/2024-zurich/:splat		302
 /events/2009-ghent/*          http://legacy.devopsdays.org/events/2009-ghent/:splat     301!
@@ -172,9 +173,23 @@
 /rosario/*            /events/2020-rosario/:splat           302
 /aarhus/*            /events/2022-aarhus/:splat           302
 /almaty/*            /events/2023-almaty/:splat           302
-/organizer-summit/*            /events/2023-organizer-summit/:splat           302
-/organiser-summit/*            /events/2023-organizer-summit/:splat           302
+/organizer-summit/*            /events/2024-organiser-summit/:splat           302
+/organiser-summit/*            /events/2024-organiser-summit/:splat           302
 /nova-lima/*            /events/2024-nova-lima/:splat           302
+
+# support ghent not being in ghent
+/15year/*		/events/2024-ghent/:splat		302
+/gent/*		/events/2024-ghent/:splat		302
+/gent-oost/*		/events/2024-ghent/:splat		302
+/ghent-east/*		/events/2024-ghent/:splat		302
+/antwerp/*		/events/2024-ghent/:splat		302
+/antwerpen/*		/events/2024-ghent/:splat		302
+/events/15year/*  /events/2024-ghent/:splat  302
+/events/2024-gent/*  /events/2024-ghent/:splat  302
+/events/2024-gent-oost/*  /events/2024-ghent/:splat  302
+/events/2024-ghent-east/*  /events/2024-ghent/:splat  302
+/events/2024-antwerp/*  /events/2024-ghent/:splat  302
+/events/2024-antwerpen/*  /events/2024-ghent/:splat  302
 
 
 # migrate rescheduled event

@@ -10,10 +10,9 @@ ga_tracking_id: "UA-136135566-2" # If you have your own Google Analytics trackin
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2021-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-# startdate: 2023-04-06T00:00:00-06:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-# enddate: 2023-04-07T00:00:00-06:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
-startdate:
-enddate: 
+startdate: 2024-07-10T00:00:00-06:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2024-07-11T00:00:00-06:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 # cfp_date_start: 2022-09-01T00:00:00-12:59 # start accepting talk proposals.
 # cfp_date_end: 2023-01-15T00:00:00-12:59 # close your call for proposals.
@@ -42,9 +41,9 @@ masthead_background: "nashville-skyline.jpg"
 #
 # ###########################
 
-# coordinates: "36.157195,-86.776516" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-# location: "Music City Center, Nashville, TN" # Defaults to city, but you can make it the venue name.
-# location_address: "201 5th Avenue South, Nashville, TN 37203" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+coordinates: "36.157195,-86.776516" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Music City Center, Nashville, TN" # Defaults to city, but you can make it the venue name.
+location_address: "201 5th Avenue South, Nashville, TN 37203" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 # coordinates:  # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 
 # ###########################
@@ -179,7 +178,10 @@ sponsor_levels:
     max: 0 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
-    max: 2
-  - id: communivty
-    label: Bronze
+    max: 0
+  - id: community
+    label: Community
+    max: 0
+  - id: media
+    label: Media
     max: 0

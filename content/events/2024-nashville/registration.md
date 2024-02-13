@@ -3,6 +3,11 @@ Title = "Registration"
 Type = "event"
 Description = "Registration for devopsdays Nashville 2024"
 +++
+<hr>
+<div style="width:100%; text-align:left;">
+<br>
+We wll be opening up registration very soon.  We look forward to seeing you at DevOpsDays Nashville!
+</div>
 <!-- 
 <div style="width:100%; text-align:left;">
 <br>
