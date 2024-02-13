@@ -1,7 +1,7 @@
 +++
 Title = "devopsdays Organizer Summit 2024"
 Type = "welcome"
-aliases = ["/events/2024-organizer-summit/"]
+aliases = ["/events/2024-organizer-summit/", "/events/2024-organiser-summit/"]
 Description = "devopsdays Organizer Summit 2024"
 +++
 
