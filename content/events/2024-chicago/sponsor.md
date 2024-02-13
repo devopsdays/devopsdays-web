@@ -39,15 +39,30 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <td colspan="3"><small>
       Note: Paypal payments include 3% service charge.
       <br>
-      <a href="mailto:chicago-sponsors@devopsdays.org?subject=DevOpsDays%20Chicago%202024%20Sponsorship">Email us</a> if you prefer to pay by check
+      <a href="mailto:chicago-sponsors@devopsdays.org?subject=DevOpsDays%20Chicago%202024%20Sponsorship">Email us</a> if you prefer to pay by check or other means.
       </small></td>
       <td></td>
     </tr>
     <tr>
       <td></td>
-      <td>SOLD OUT</td>
-      <td>SOLD OUT</td>
-      <td>SOLD OUT</td>
+      <td><a href="mailto:chicago-sponsors@devopsdays.org?subject=Interested%20in%20Platinum%20Sponsorship%20DevOpsDays%20Chicago%202024">Contact us</a></td>
+      <td>
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+          <input type="hidden" name="cmd" value="_s-xclick" />
+          <input type="hidden" name="hosted_button_id" value="S9SCLZP3USU7L" />
+          <input type="hidden" name="currency_code" value="USD" />
+          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Buy Now" />
+        </form>
+      </td>
+      <td>
+      <!-- bronze Paypal button  -->
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+          <input type="hidden" name="cmd" value="_s-xclick">
+          <input type="hidden" name="hosted_button_id" value="DDXAP9S3324DC">
+          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+          <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+        </form>
+      </td>
       <td><a href="mailto:chicago-sponsors@devopsdays.org?subject=Interested%20in%20Community%20Sponsorship%20DevOpsDays%20Chicago%202024">Contact us</a>
       </td>
     </tr>
@@ -57,6 +72,13 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <td>4</td>
       <td>2</td>
       <td>5</td>
+    </tr>
+    <tr>
+      <td>Exclusive Platinum Sponsor</td>
+      <td><img src = "/events/2024-chicago/yak-head.png"></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Logo on DevOpsDays Chicago website</td>
@@ -77,21 +99,21 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <td><img src = "/events/2024-chicago/yak-head.png"></td>
       <td><img src = "/events/2024-chicago/yak-head.png"></td>
       <td><img src = "/events/2024-chicago/yak-head.png"></td>
-      <td></td>
+      <td><img src = "/events/2024-chicago/yak-head.png"></td>
     </tr>
     <tr>
       <td>Logo on slides at breaks</td>
       <td><img src = "/events/2024-chicago/yak-head.png"></td>
       <td><img src = "/events/2024-chicago/yak-head.png"></td>
       <td><img src = "/events/2024-chicago/yak-head.png"></td>
-      <td></td>
+      <td><img src = "/events/2024-chicago/yak-head.png"></td>
     </tr>
     <tr>
       <td>Logo on participant emails</td>
       <td><img src = "/events/2024-chicago/yak-head.png"></td>
       <td><img src = "/events/2024-chicago/yak-head.png"></td>
       <td><img src = "/events/2024-chicago/yak-head.png"></td>
-      <td></td>
+      <td><img src = "/events/2024-chicago/yak-head.png"></td>
     </tr>
     <tr>
       <td>Shout-out from MC's at kickoff and again at breaks</td>
@@ -122,7 +144,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <td></td>
     </tr>
     <tr>
-      <td>Five-minute pitch between talks (includes live-stream audience)</td>
+      <td>Three-minute pitch between talks (includes live-stream audience)</td>
       <td><img src = "/events/2024-chicago/yak-head.png"></td>
       <td></td>
       <td></td>
@@ -137,7 +159,6 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
     </tr>
   </tbody>
 </table>
-
 
 <h2>Special Sponsorships</h2>
 
