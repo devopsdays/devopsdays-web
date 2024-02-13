@@ -14,17 +14,19 @@ startdate: 2024-06-04T00:00:00-06:00 # The start date of your event. Leave blank
 enddate: 2024-06-05T00:00:00-06:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2024-02-01T00:00:00-06:00  # start accepting talk proposals.
+cfp_date_end: 2024-03-31T23:59:59-06:00 # close your call for proposals.
+cfp_date_announce: 2024-04-15T00:00:00-06:00 # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://talks.devopsdays.org/devopsdays-houston-2024/cfp" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+sharing_image: "sharing.jpg"
 
 # Location
 #
@@ -34,7 +36,7 @@ location: "Norris Conference Center, Houston" # Defaults to city, but you can ma
 location_address: "816 Town and Country Blvd #210, Houston, TX 77024" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
   - name: location
  # - name: registration
  # - name: program
@@ -55,22 +57,17 @@ team_members: # Name is the only required field for team members.
     github: "skryukova"
     image: "svetlana-kryukova.jpg"
     bio: "Svetlana is a software development leader with over 20 years of experience in enterprise software. Passionate about building teams, creating new products and solving problems. Co-organizer of Houston DevOps Meetup since June 2018."
-  - name: "Alberto Pimentel"
-    employer: "Blue People"
-    linkedin: "https://www.linkedin.com/in/alberto-pimentel-945a4321a/"
-    image: "alberto-pimentel.jpg"
-    bio: "Alberto Pimentel is the Sales and Marketing Director for Blue People. He has been an active member of the IT ecosystem since 2018, considerably increasing the level of business collaboration among software enterprises and promoting the region's business process skills. He participated in the creation and the execution of several initiatives focused on expanding a higher level of capacity for large IT projects for the international markets. Agile, Scrum, Kanban among other quality models and approaches, have given him extensive knowledge and experience."
-  - name: "Binh Chau"
-    employer: "Cloud Partners"
-    twitter: ""
-    image: "binh-chau.jpg"
-    bio: "Binh is a proven product leader that have launched a number of innovative products for top-tiered companies.  She has a track record of creating product strategy and actionable roadmaps and translating them into impactful products for consumers and enterprises."
   - name: "Keegan Cotton"
     employer: "Datadog"
     linkedin: "https://www.linkedin.com/in/keegan-cotton-a6602b1/"
     image: "keegan-cotton.jpg"
     twitter: "keegancotton"
     bio: "Keegan is an Senior Account Executive at Datadog.  Both a West Point graduate and London Business School alumnus, Keegan has a 20 year track record as a catalyst for both large and small organizations - helping them grow into new markets across several continents.  Keegan has led organizations both in and out of uniform, and helped those organizations refine and execute on their business technology strategies.  Native Texan.  DevOps enthusiast.  Avid learner.  Proud father and husband."
+  - name: "Binh Chau"
+    employer: "Cloud Partners"
+    twitter: ""
+    image: "binh-chau.jpg"
+    bio: "Binh is a proven product leader that have launched a number of innovative products for top-tiered companies.  She has a track record of creating product strategy and actionable roadmaps and translating them into impactful products for consumers and enterprises."
   - name: "Julia Ito"
     employer: "Appfire"
     linkedin: "https://www.linkedin.com/in/julia-ito-9983721/"
@@ -93,6 +90,8 @@ team_members: # Name is the only required field for team members.
   - name: "Jim Wang"
     employer: "MODE Global"
     image: "jim-wang.jpg"
+    bio: "Jim Wang has built technology products for over 20 years in large corporations and startups. He is highly involved in product design and system architecture while maturing the software development process and leading teams to achieve high delivery expectations. He is passionate about building and delivering products focusing on data-driven design, ML/AI, high performance, and high scalability."
+    linkedin: "https://www.linkedin.com/in/jimzwang/"
 organizer_email: "houston@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
