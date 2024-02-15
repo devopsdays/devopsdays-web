@@ -1,9 +1,9 @@
 +++
-Title = "Heather Thaker"
+Title = "Heather Thacker"
 Type = "speaker"
 Twitter = "hhthacker"
 Linkedin = "https://www.linkedin.com/in/hhthacker"
-image = "heather-thaker.jpg"
+image = "heather-thacker.jpg"
 sharing_image = "singapore2024.png"
 +++
 
