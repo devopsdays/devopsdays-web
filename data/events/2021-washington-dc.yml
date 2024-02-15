@@ -256,7 +256,7 @@ sponsor_levels:
 sponsors:
   - id: excella
     level: platinum
-  - id: chef-progress
+  - id: chef-progress-before-20240101
     level: platinum
   - id: aviatrix
     level: platinum

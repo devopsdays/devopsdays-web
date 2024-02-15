@@ -1,6 +1,6 @@
 name: "2024-singapore" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2024" # The year of the event. Make sure it is in quotes.
-city: "Singapore" # The displayed city name of the event. Capitalize it.
+city: "singapore" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysSG" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "Devopsdays Singapore is on 21-22 March, 2024" # Edit this to suit your preferences
 ga_tracking_id: "UA-157812456-1" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
@@ -36,7 +36,7 @@ location: "Singapore" # Defaults to city, but you can make it the venue name.
 location_address: "Hotel Fort Canning, 11 Canning Walk, Singapore 178881" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+# - name: propose
   - name: location
     icon: "map"
   - name: registration
@@ -87,22 +87,24 @@ proposal_email: "singapore@devopsdays.org" # Put your proposal email address her
 sponsors:
   - id: redhat
     level: gold
-  - id: googlecloud
-    level: gold
   - id: arigaio
     level: gold 
   - id: chef-progress
     level: gold
-  - id: circleci
-    level: gold  
+  - id: site24x7
+    level: gold      
+  - id: snyk
+    level: gold
   - id: elastic
     level: gold
   - id: f5-nginx
-    level: gold    
-  - id: snyk
     level: gold
-  - id: kubeevents
-    level: community
+  - id: circleci
+    level: gold      
+  - id: redis-labs
+    level: gold
+  - id: thales
+    level: gold   
   - id: singapore-devops-community
     level: community
   - id: singapore-devsecops-community
@@ -115,7 +117,11 @@ sponsors:
     level: community
   - id: akamai
     level: travel     
-
+  - id: appcd
+    level: travel  
+  - id: ergonautic
+    level: travel
+  
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -128,7 +134,7 @@ sponsor_levels:
     max: 2
   - id: gold
     label: Gold
-    max: 8
+    max: 9
   - id: silver
     label: Silver
     max: 0 # This is the same as omitting the max limit.
@@ -338,7 +344,7 @@ program:
     date: 2024-03-22
     start_time: "16:30"
     end_time: "17:15"
-  - title: "Closing"
+  - title: "Afternoon Raffle & Closing"
     type: custom
     date: 2024-03-22
     start_time: "17:15"

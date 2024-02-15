@@ -41,9 +41,9 @@ Our sponsorship packages are structured around how you can help be part of the c
   <table class="table table-hover table-condensed">
     <tr>
       <th><i>Packages</i></th>
-      <th><center><b>Silver<br />3,000&nbsp;SGD</center></b></th>
-      <th><center><b>Gold<br />8,000&nbsp;SGD</center></b></th>
-      <th><center><b>Platinum<br />Contact Us</center></b></th>
+      <th style="text-align: center"><b>Silver<br />3,000&nbsp;SGD</b></th>
+      <th style="text-align: center"><b>Gold<br />8,000&nbsp;SGD</b></th>
+      <th style="text-align: center"><b>Platinum<br />Contact Us</b></th>
     </tr>
     <tr>
       <td># available</td>
@@ -51,59 +51,59 @@ Our sponsorship packages are structured around how you can help be part of the c
         <strong>unlimited</strong>
       </td>
       <td style="text-align: center">
-        <strong>8</strong>
         <!--
-        <span style="color: red">SOLD OUT</a>
+        <strong>8</strong>
         -->
+        <span style="color: red">SOLD OUT</span>
       </td>
       <td style="text-align: center">
         <strong>2</strong>
         <!--
-        <span style="color: red">SOLD OUT</a>
+        <span style="color: red">SOLD OUT</span>
         -->
       </td>
     </tr>
     <tr>
       <td>Logo on {{< event_link page="welcome" text="DevOpsDays Singapore" >}} event website</td>
-      <td><center><i class="fa fa-check" aria-hidden="true"></i></center></td>
-      <td><center><i class="fa fa-check" aria-hidden="true"></i></center></td>
-      <td><center><i class="fa fa-check" aria-hidden="true"></i></center></td>
+      <td style="text-align: center"><i class="fa fa-check" aria-hidden="true"></i></td>
+      <td style="text-align: center"><i class="fa fa-check" aria-hidden="true"></i></td>
+      <td style="text-align: center"><i class="fa fa-check" aria-hidden="true"></i></td>
     </tr>
     <tr>
       <td>Logo on <a href="http://www.meetup.com/devops-singapore/" target="_blank">meetup page</a> for event duration</td>
-      <td><center><i class="fa fa-check" aria-hidden="true"></i></center></td>
-      <td><center><i class="fa fa-check" aria-hidden="true"></i></center></td>
-      <td><center><i class="fa fa-check" aria-hidden="true"></i></center></td>
+      <td style="text-align: center"><i class="fa fa-check" aria-hidden="true"></i></td>
+      <td style="text-align: center"><i class="fa fa-check" aria-hidden="true"></i></td>
+      <td style="text-align: center"><i class="fa fa-check" aria-hidden="true"></i></td>
     </tr>
     <tr>
       <td>Complimentary attendee tickets (workshops not included*)</td>
-      <td><center><strong>3</strong></center></td>
-      <td><center><strong>8</strong></center></td>
-      <td><center><strong>16</strong></center></td>
+      <td style="text-align: center"><strong>3</strong></td>
+      <td style="text-align: center"><strong>8</strong></td>
+      <td style="text-align: center"><strong>16</strong></td>
     </tr>
     <tr>
       <td>Logo on shared slide, rotating during breaks</td>
-      <td>&nbsp;</td>
-      <td><center><i class="fa fa-check" aria-hidden="true"></i></center></td>
-      <td><center><i class="fa fa-check" aria-hidden="true"></i></center></td>
+      <td style="text-align: center"><i class="fa fa-check" aria-hidden="true"></i></td>
+      <td style="text-align: center"><i class="fa fa-check" aria-hidden="true"></i></td>
+      <td style="text-align: center"><i class="fa fa-check" aria-hidden="true"></i></td>
     </tr>
     <tr>
       <td>No. of mentions in social media and outgoing material</td>
-      <td><center><strong>1</strong></center></td>
-      <td><center><strong>2</strong></center></td>
-      <td><center><strong>4</strong></center></td>
+      <td style="text-align: center"><strong>1</strong></td>
+      <td style="text-align: center"><strong>2</strong></td>
+      <td style="text-align: center"><strong>4</strong></td>
     </tr>
     <tr>
       <td>Logo size</td>
-      <td>&nbsp;</td>
-      <td><center><strong>Regular</strong></center></td>
-      <td><center><strong>Large</strong></center></td>
+      <td style="text-align: center"><strong>Regular</strong></td>
+      <td style="text-align: center"><strong>Regular</strong></td>
+      <td style="text-align: center"><strong>Large</strong></td>
     </tr>
     <tr>
       <td>Dedicated Booth/table space</td>
       <td>&nbsp;</td>
-      <td><center><i class="fa fa-check" aria-hidden="true"></i></center></td>
-      <td><center><i class="fa fa-check" aria-hidden="true"></i></center></td>
+      <td style="text-align: center"><i class="fa fa-check" aria-hidden="true"></i></td>
+      <td style="text-align: center"><i class="fa fa-check" aria-hidden="true"></i></td>
     </tr>
   </table>
   <small>* Please reach out to us if you would like to purchase workshop passes. We have workshop only special pricing for our sponsors.</small>
@@ -172,7 +172,7 @@ You must bring your own signage and all signage must either fit on or behind the
 
 ### Do we get any sponsored talks
 
-No, but you are welcome to submit a proposal for consideration through our [CFP Site](https://www.papercall.io/dodsin23)
+Absolutely not. Devopsdays does not sell conference speaking slots; sponsors' employees are welcome to submit talk proposals. You _can_, as a participant, suggest an Open space topic within your problem space.  You are welcome to submit a proposal for consideration through our [CFP Site](https://www.papercall.io/dodsin23)
 
 ### How many talk tracks do you have
 
@@ -192,7 +192,7 @@ We will be using the logos that are sent by you (specifications are mentioned in
 
 ### Do we get a dedicated email blast
 
-No, even better: we will give you a Twitter <a href="https://answers.yahoo.com/question/index?qid=20091205132038AA2uqcy">shout out</a>.
+No, even better: we will give you a X <a href="https://help.twitter.com/en/using-x/types-of-posts">post mention</a>.
 
 ### Who should I send
 
@@ -231,3 +231,7 @@ Yes. There is a shared room where you can stash stuff. Please send us an email a
 ### My question is not covered here. What can I do
 
 If you have any questions not answered above, please do not hesitate to send us an email at [{{< email_organizers >}}].
+
+### Can I get a discount for sponsoring multiple DevOpsDays?
+
+All DevOpsDays events are independently organized, so no multi-city sponsorships are available.

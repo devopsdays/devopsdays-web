@@ -9,7 +9,7 @@ Type = "talk"
 Speakers = ["heather-thacker"]
 youtube = ""
 speakerdeck = ""
-sharing_image = "2024-heather-thaker.jpg"
+sharing_image = "2024-heather-thacker.jpg"
 +++
 
 ### Ignite

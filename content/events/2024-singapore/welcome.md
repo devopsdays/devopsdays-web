@@ -8,7 +8,7 @@ Description = "DevOpsDays Singapore will take place at Fort Canning! We're encou
 <div class="row">
 <div class="col-md-4">
   <p><img alt="DevOpsDays Singapore 2024" src="/events/2024-singapore/logo.png" class="img-fluid"></p>
-  <p><strong>DevOpsDays</strong> is a network of local, practitioner-focused, not-for-profit event covering topics of software development, IT infrastructure operations, and the intersection between them.  DevOpsDays Singapore is in its fifth year, and will be held on <strong>21th & 22th March</strong>, at the <a href="../location">Fort Canning Hotel</a> in Singapore. We expect <strong>over 300 attendees</strong> this year.</p>
+  <p><strong>DevOpsDays</strong> is a network of local, practitioner-focused, not-for-profit event covering topics of software development, IT infrastructure operations, and the intersection between them.  DevOpsDays Singapore is in its fifth year, and will be held on <strong>21st & 22nd March</strong>, at the <a href="../location">Fort Canning Hotel</a> in Singapore. We expect <strong>over 300 attendees</strong> this year.</p>
   <p><a href="../contact">Contact the Organizers</a></p>
   <p><a href="../location">Look for Nearby Hotels</a></p>
   <p><a href="../program">Look for our Program</a></p>
@@ -22,7 +22,7 @@ Description = "DevOpsDays Singapore will take place at Fort Canning! We're encou
   </p><p><a href="../registration" class="btn btn-primary btn-block"><i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Register now!</a>
   <p>Expect talks and discussions from diverse voices on topics like developing resilient applications, monitoring and observability, building application security in via continuous integration, culture hacks, kubernetes tips, hiring good engineers, and many other subjects. Check out some talks from previous years on <a href="https://www.youtube.com/channel/UCvKd52G5RaLAWVugTdY4pBA">YouTube</a> or follow us at <a href="https://x.com/DevOpsDaysSG"><i class="fa fa-twitter fa-lg"></i> @DevOpsDaysSG on X</a>. Network and follow our updates on <a href="https://www.linkedin.com/company/devopsdayssp" target="_blank"><i class="fa fa-linkedin fa-lg"></i>DevOpsDays Singapore Linkedin</a>and Check our previous events<a href="https://www.instagram.com/devopsdayssg" target="_blank"><i class="fa fa-instagram fa-lg"></i> on DevOpsDays Instagram</a>
   </p><p>The general <a href="../propose">Program</a> has been announced; however, we are still accepting lighting talk proposals.
-  </p><p><a href="../propose" class="btn btn-primary btn-block"><i class="fa fa-book fa-lg"></i>&nbsp;&nbsp;&nbsp;Propose an Ignite!</a></p>
+  </p><p><a href="https://forms.gle/pn49ToeEfSsh3e4E7" class="btn btn-primary btn-block"><i class="fa fa-book fa-lg"></i>&nbsp;&nbsp;&nbsp;Propose an Ignite!</a></p>
 </div>
 <div class="col-md-4">
   <h3>What to expect from DevOpsDays Singapore</h3>

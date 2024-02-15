@@ -1,7 +1,7 @@
 +++
-Title = "Location"
+Title = "location"
 Type = "event"
-Description = "Location for devopsdays Singapore 2024"
+Description = "Location for Devopsdays Singapore 2024"
 +++
 
 <address>
@@ -41,7 +41,7 @@ Email: contact@hfcsingapore.com
 {{< event_map >}}
 <br>
 
-# After Party
+## <a name='happy-hour'></a>Thursday Happy Hour
 
 Location: TBC
 
