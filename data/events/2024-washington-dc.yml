@@ -132,6 +132,15 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/davidyuctanhodge/"
     website: ""
 
+  - name: "Kevin Long"
+    employer: "MITRE"
+    twitter: ""
+    bio: ""
+    image: "kevin-long.jpg"
+    github: ""
+    website: ""
+    linkedin: "https://www.linkedin.com/in/kevinmichaellong/"
+
   - name: "James Martin"
     employer: ""
     twitter: ""
@@ -141,6 +150,15 @@ team_members: # Name is the only required field for team members.
     facebook: ""
     website: ""
     linkedin: ""
+
+  - name: "Kadi McKean"
+    employer: "Endor Labs"
+    twitter: "KadiGrigg"
+    bio: ""
+    image: "kadi-mckean.jpg"
+    github: ""
+    website: ""
+    linkedin: "https://www.linkedin.com/in/kadi-grigg/"
 
   - name: "Karl Peña"
     employer: "ScientiaMobile"
