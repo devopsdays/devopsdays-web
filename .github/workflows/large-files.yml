@@ -1,10 +1,8 @@
 name: Check for large files
 
 on:
-  pull_request:
-    types:
-      - opened
-      - synchronize
+  pull_request_target:
+    types: [opened, edited, reopened, synchronize]
 
 jobs:
   check_large_files:
@@ -34,11 +32,11 @@ jobs:
           fi
         done
         echo "HAS_LARGE_FILE=${has_large_file}" >> $GITHUB_ENV
-
-    - name: Comment PR if large file is added
-      if: ${{ env.HAS_LARGE_FILE == 'true' }}
-      uses: actions/github-script@v5
+        
+    - name: Comment on PR
+      id: comment
+      if: failure() && steps.prcheck.outcome == 'failure'
+      uses: thollander/actions-comment-pull-request@v2
       with:
-        script: |
-          const script = require('.github/scripts/comment-pr-large-file.js');
-          await script({github, context, core});
+        message: |
+           :warning: Warning: This PR contains a PDF or large file(s). In most cases, you should use the [asset repository](https://github.com/devopsdays/devopsdays-assets/)         
