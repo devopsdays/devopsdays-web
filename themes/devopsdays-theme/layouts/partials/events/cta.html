@@ -1,4 +1,4 @@
-{{- $e := (index $.Site.Data.events (index (split (.Permalink | relURL) "/") 2)) -}}
+{{- $e := index $.Site.Data.events (index (split (.Permalink | relURL) "/") 2) "main" -}}
 
 <div class = "row">
 

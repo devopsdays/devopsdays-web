@@ -1,4 +1,4 @@
-{{- $e := (index $.Site.Data.events (index (split (.Permalink | relURL) "/") 2)) -}}
+{{- $e := index $.Site.Data.events (index (split (.Permalink | relURL) "/") 2) "main" -}}
 {{- $.Scratch.Set "contentdir" (printf "static/events/%s/" $e.name) -}}
 
     {{- if $e.masthead_background -}}
@@ -98,13 +98,17 @@
           
           {{/* Filter events on city or event_group name to build "other X events" list*/}}
           {{ $other := slice }}
-          {{- range $.Site.Data.events -}}
-            {{- if ne .cancel "true" -}}
-              {{- if and (.startdate) (ne .startdate $e.startdate) -}}
-                {{- if or (eq (lower .city) (lower $otherTitle)) (eq (lower .event_group) (lower $otherTitle)) -}}
-                  {{ $other = append . $other  }}
+          {{- range $k, $v := $.Site.Data.events -}}
+            {{ range $ck, $cv := .}}
+              {{ if eq $ck "main" }}
+                {{- if ne .cancel "true" -}}
+                  {{- if and (.startdate) (ne .startdate $e.startdate) -}}
+                    {{- if or (eq (lower .city) (lower $otherTitle)) (eq (lower .event_group) (lower $otherTitle)) -}}
+                      {{ $other = append . $other  }}
+                    {{- end -}}
+                  {{- end -}}              
                 {{- end -}}
-              {{- end -}}              
+              {{- end -}}
             {{- end -}}
           {{- end -}}
 

@@ -1,4 +1,4 @@
-{{- $e := (index $.Site.Data.events (index (split (.Permalink | relURL) "/") 2)) -}}
+{{- $e := index $.Site.Data.events (index (split (.Permalink | relURL) "/") 2) "main" -}}
 <nav class="navbar event-navigation navbar-expand-md navbar-light">
   <a href="{{ (printf "/events/%s" $e.name) }}" class="nav-link">{{ $e.city }}</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar2">

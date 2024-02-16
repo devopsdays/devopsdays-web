@@ -9,7 +9,14 @@
     {{- $.Scratch.Set "icons" (. | upper ) -}}
   {{- end -}}
 
-  {{- $e := (index $.Site.Data.events (index (split (.Permalink | relURL) "/") 2)) -}}
+  {{- $e := index $.Site.Data.events (index (split (.Permalink | relURL) "/") 2) "main" -}}
+
+  {{- $p := index $.Site.Data.events (index (split (.Permalink | relURL) "/") 2) "program" -}}
+
+
+{{ if eq $p nil }}
+  {{ $p = $e }}
+{{ end }}
  
   {{- if $e.startdate -}}
   {{/*  {{- range where $.Site.Pages "Type" "talk" -}}  */}}
@@ -82,7 +89,7 @@
   {{- end -}}
   <!-- end range where $.Site.Pages "Type" "speaker" -->
     <!-- Get the dates for the program -->
-    {{- with $e -}}
+    {{- with $p -}}
       {{- range .program -}}
         {{- $.Scratch.SetInMap "dates" .date .date -}}
       {{- end -}}
@@ -93,7 +100,7 @@
       <div id="accordion" role="tablist" aria-multiselectable="true">
   {{- range ($.Scratch.GetSortedMapValues "dates") -}}
     {{- $.Scratch.Set "date" . -}}
-            {{- with $e -}}
+            {{- with $p -}}
               {{- if .program -}}
               <div class="card">
                 <div class="card-header" role="tab" id="{{printf "headingOne-%s" ($.Scratch.Get "date") }}">
@@ -149,7 +156,7 @@
                               <ul class = "list-unstyled">
                                 {{- if .block -}}
                                   {{- $block := .block -}}
-                                  {{- range $e.ignites -}}
+                                  {{- range $p.ignites -}}
                                     {{- if eq .block $block -}}
                                       <li>
                                         <a href="/events/{{ $e.name }}/program/{{ .title }}">{{ $.Scratch.Get (printf "%s-speaker" .title) }} - {{ $.Scratch.Get .title }}</a>
@@ -162,7 +169,7 @@
                                     {{- end -}}
                                   {{- end -}}
                                 {{- else -}}
-                                  {{- range where $e.ignites "date" ($.Scratch.Get "date") -}}
+                                  {{- range where $p.ignites "date" ($.Scratch.Get "date") -}}
                                     {{- if not .block -}}
                                       <li>
                                         <a href="/events/{{ $e.name }}/program/{{ .title }}">{{ $.Scratch.Get (printf "%s-speaker" .title) }} - {{ $.Scratch.Get .title }}</a>

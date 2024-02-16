@@ -1,19 +1,19 @@
 {{ $upcoming := slice }}
 {{ $tbd := slice }}
 
-{{- range $.Site.Data.events -}}
-  {{- if .startdate -}}
-    {{- if ne .cancel "true" -}}
-      {{- if gt (time .enddate) now -}}
-        {{ $upcoming = append . $upcoming  }}
-      {{- end -}} 
-    {{- end -}}
-    {{- else -}} 
-      {{- if ne .cancel "true" -}}
-        {{ $tbd = append . $tbd  }}
-      {{- end -}}
-  {{- end -}}
-{{- end -}} 
+{{- range $k, $v := $.Site.Data.events -}}
+{{ range $ck, $cv := .}}
+    {{ if eq $ck "main" }}
+        {{- if .startdate -}}
+            {{- if ne .cancel "true" -}}
+                {{- if gt (time .enddate) now -}}
+                    {{ $upcoming = append . $upcoming  }}
+                {{- end -}} 
+            {{- end -}}
+        {{- end -}}
+    {{- end -}} 
+{{- end -}}
+{{- end -}}
 
 {{- range sort $upcoming "startdate" -}}
   {{- if .startdate -}}

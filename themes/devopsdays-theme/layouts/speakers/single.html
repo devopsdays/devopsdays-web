@@ -1,5 +1,5 @@
 {{ define "main" }}
-{{- $e := (index $.Site.Data.events (index (split (.Permalink | relURL) "/") 2)) -}}
+{{- $e := index $.Site.Data.events (index (split (.Permalink | relURL) "/") 2) "main" -}}
 {{- $.Scratch.Set "i" 1 -}}
 <div class = "row">
 {{- range where $.Site.Pages "Type" "speaker" -}}
