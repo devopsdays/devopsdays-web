@@ -50,11 +50,11 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
-- name: "Kris Buytaert"
+  - name: "Kris Buytaert"
     twitter: "KrisBuytaert"
     github: "KrisBuytaert"
     linkedin: "https://www.linkedin.com/in/krisbuytaert"
-    image: "kris-buytaert.jpg"
+    image: "Kris.jpg"
   - name: "Yvo van Doorn"
     twitter: "yvov"
     github: "yvovandoorn"
