@@ -7,7 +7,7 @@ image = "jamie-lee-coleman.jpg"
 type = "speaker"
 linktitle = "jamie-lee-coleman"
 +++
-Jamie is a Developer Advocate for Sonatype formally IBM, based in the UK. He talks about the importance of security in software, improving developer productivity and raising awareness about energy consumption of technology.
+Jamie is a Developer Advocate for Sonatype. He talks about the importance of security in software, improving developer productivity and raising awareness about energy consumption of technology.
 
 Passionate about discovering ways to help reduce developers carbon footprint, he is also a subject matter expert in containerised solutions and build technologies.
 
