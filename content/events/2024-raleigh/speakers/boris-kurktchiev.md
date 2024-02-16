@@ -2,7 +2,7 @@
 Title = "Boris Kurktchiev"
 Twitter = ""
 linkedin = "http://linkedin.com/in/kurktchiev"
-image = ""
+image = "boris-kurktchiev.jpg"
 type = "speaker"
 linktitle = "boris-kurktchiev"
 +++

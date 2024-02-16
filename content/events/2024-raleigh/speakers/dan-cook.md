@@ -1,5 +1,5 @@
 +++
-Title = "dan-cook"
+Title = "Dan Cook"
 Twitter = ""
 linkedin = "https://www.linkedin.com/in/danonthetrail/"
 image = ""

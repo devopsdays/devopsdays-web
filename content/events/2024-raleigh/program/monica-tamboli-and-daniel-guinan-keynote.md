@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Navigating Serverless Java Applications in the Modern DevOps Landscape"
 Type = "talk"
-Speakers = ["monica-tamboli"]
+Speakers = ["monica-tamboli","daniel-guinan"]
 +++
 
 In enterprise environments, maintaining the constant availability of applications for intended traffic is crucial. However, this often results in unnecessary costs and the consumption of precious resources by idle servers, even in the absence of traffic. Is it possible to eliminate the costs associated with idle resources without sacrificing availability?

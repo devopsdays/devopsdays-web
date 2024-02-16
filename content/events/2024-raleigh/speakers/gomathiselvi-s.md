@@ -2,7 +2,7 @@
 Title = "Gomathiselvi S"
 Twitter = ""
 linkedin = "https://www.linkedin.com/in/gomathi-selvi-srinivasan/"
-image = ""
+image = "gomathiselvi-s.jpg"
 type = "speaker"
 linktitle = "gomathiselvi-s"
 +++

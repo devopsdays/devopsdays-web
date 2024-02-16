@@ -130,7 +130,7 @@ sponsors:
     level: bronze
   - id: influxdata
     level: gold
-  - id: portworx
+  - id: portworx-before-20240216
     level: gold
   - id: nirmata
     level: gold

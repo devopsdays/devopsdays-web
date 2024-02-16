@@ -144,7 +144,7 @@ sponsors:
     level: gold
   - id: gitlab
     level: gold
-  - id: portworx
+  - id: portworx-before-20240216
     level: gold
   - id: whole-brain-escape
     level: community

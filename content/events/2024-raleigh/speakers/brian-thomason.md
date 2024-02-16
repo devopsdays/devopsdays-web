@@ -2,7 +2,7 @@
 Title = "Brian Thomason"
 Twitter = ""
 linkedin = "https://www.linkedin.com/in/brianphilipthomason/"
-image = ""
+image = "brian-thomason.jpg"
 type = "speaker"
 linktitle = "brian-thomason"
 +++

@@ -88,7 +88,7 @@ sponsors:
     level: gold
   - id: sourcedgroup
     level: gold
-  - id: portworx
+  - id: portworx-before-20240216
     level: silver
   - id: paloaltonetworks
     level: silver
