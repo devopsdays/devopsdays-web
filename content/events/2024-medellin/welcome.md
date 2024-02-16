@@ -9,7 +9,7 @@ Description = "Welcome to DevOpsDays Medellín 2024"
     <img alt="DevOpsDays Medellin 2024" src="/events/2024-medellin/logo.png" class="img-fluid">
   </div>
   <div class="col-md-7">
-    <h2>Nuestra conferencia DevOpsDays Medellín 2024 vuelve el 27 y 28 de abril de manera presencial desde el Teatro de la Universidad de Medellín</h2>
+    <h2>Nuestra conferencia DevOpsDays Medellín 2024 vuelve el 23 y 24 de mayo de manera presencial desde la Universidad Luis Amigó</h2>
     <p>
       The DevOpsDays conference arrives to Medellín once again, Be part on May 2024!
     </p>

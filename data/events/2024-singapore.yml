@@ -1,6 +1,6 @@
 name: "2024-singapore" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2024" # The year of the event. Make sure it is in quotes.
-city: "Singapore" # The displayed city name of the event. Capitalize it.
+city: "singapore" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysSG" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "Devopsdays Singapore is on 21-22 March, 2024" # Edit this to suit your preferences
 ga_tracking_id: "UA-157812456-1" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
@@ -36,13 +36,13 @@ location: "Singapore" # Defaults to city, but you can make it the venue name.
 location_address: "Hotel Fort Canning, 11 Canning Walk, Singapore 178881" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+# - name: propose
   - name: location
     icon: "map"
   - name: registration
     icon: "ticket"
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
     icon: "money"
   - name: contact
@@ -87,10 +87,24 @@ proposal_email: "singapore@devopsdays.org" # Put your proposal email address her
 sponsors:
   - id: redhat
     level: gold
-  - id: googlecloud
+  - id: arigaio
+    level: gold 
+  - id: chef-progress
     level: gold
-  - id: postman
+  - id: site24x7
+    level: gold      
+  - id: snyk
     level: gold
+  - id: elastic
+    level: gold
+  - id: f5-nginx
+    level: gold
+  - id: circleci
+    level: gold      
+  - id: redis-labs
+    level: gold
+  - id: thales
+    level: gold   
   - id: singapore-devops-community
     level: community
   - id: singapore-devsecops-community
@@ -101,7 +115,13 @@ sponsors:
     level: community
   - id: kubeevents
     level: community
-
+  - id: akamai
+    level: travel     
+  - id: appcd
+    level: travel  
+  - id: ergonautic
+    level: travel
+  
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -114,7 +134,7 @@ sponsor_levels:
     max: 2
   - id: gold
     label: Gold
-    max: 8
+    max: 9
   - id: silver
     label: Silver
     max: 0 # This is the same as omitting the max limit.
@@ -122,3 +142,227 @@ sponsor_levels:
     label: Community
   - id: travel
     label: Travel
+
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2024-03-21
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2024-03-21
+    start_time: "09:00"
+    end_time: "09:15"
+    background_color: "#D0D0D0"
+  - title: "scott-shaw"
+    type: talk
+    date: 2024-03-21
+    start_time: "09:15"
+    end_time: "09:55"
+    background_color: "#B4C6E7"
+  - title: "Sponsors"
+    type: custom
+    date: 2024-03-21
+    start_time: "09:55"
+    end_time: "10:00"
+    background_color: "#D0D0D0"
+  - title: "lawrence-crowther"
+    type: talk
+    date: 2024-03-21
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Break, Visit Sponsor Booth"
+    type: custom
+    date: 2024-03-21
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "donnie-prakoso"
+    type: talk
+    date: 2024-03-21
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "rotem-tamir"
+    type: talk
+    date: 2024-03-21
+    start_time: "11:40"
+    end_time: "12:10"
+  - title: "Lunch, Visit Sponsor Booths"
+    type: custom
+    date: 2024-03-21
+    start_time: "12:10"
+    end_time: "13:00"
+  - title: "danial-hui"
+    type: talk
+    date: 2024-03-21
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Sponsors"
+    type: custom
+    date: 2024-03-21
+    start_time: "13:30"
+    end_time: "13:35"
+    background_color: "#D0D0D0"
+  - title: "Panel Discussion"
+    type: custom
+    date: 2024-03-21
+    start_time: "13:35"
+    end_time: "14:15"
+    background_color: "#D0D0D0"    
+  - title: "Break, Visit Sponsor Booth"
+    type: custom
+    date: 2024-03-21
+    start_time: "14:15"
+    end_time: "14:45"
+  - title: "Ignites"
+    type: ignite
+    date: 2024-03-21
+    start_time: "14:45"
+    end_time: "15:30"
+  - title: "Open Space (Attendee Led Breakout Session) Break"
+    type: custom
+    date: 2024-03-21
+    start_time: "15:30"
+    end_time: "15:40"
+  - title: "Open Space (Attendee Led Breakout Session) #1"
+    type: open-space
+    date: 2024-03-21
+    start_time: "15:40"
+    end_time: "16:20"
+  - title: "Open Space (Attendee Led Breakout Session) Break"
+    type: custom
+    date: 2024-03-21
+    start_time: "16:20"
+    end_time: "16:30"
+  - title: "Open Space (Attendee Led Breakout Session) #2"
+    type: open-space
+    date: 2024-03-21
+    start_time: "16:30"
+    end_time: "17:15"
+  - title: "Closing"
+    type: custom
+    date: 2024-03-21
+    start_time: "17:15"
+    end_time: "17:25"
+  - title: "Happy Hour"
+    type: custom
+    date: 2024-03-21
+    start_time: "17:25"
+    end_time: "19:30"
+    background_color: "#C6E0B4"
+
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2024-03-22
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2024-03-22
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "srivatsan-ta"
+    type: talk
+    date: 2024-03-22
+    start_time: "09:15"
+    end_time: "09:55"
+    background_color: "#B4C6E7"
+  - title: "Sponsors"
+    type: custom
+    date: 2024-03-22
+    start_time: "09:55"
+    end_time: "10:00"
+  - title: "talia-nassi"
+    type: talk
+    date: 2024-03-22
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Break, Visit Sponsor Booth"
+    type: custom
+    date: 2024-03-22
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "kunal-dabir"
+    type: talk
+    date: 2024-03-22
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "jamie-lee-coleman"
+    type: talk
+    date: 2024-03-22
+    start_time: "11:40"
+    end_time: "12:10"
+  - title: "Lunch, Visit Sponsor Booths"
+    type: custom
+    date: 2024-03-22
+    start_time: "12:10"
+    end_time: "13:00"
+  - title: "ahmad-syafiq"
+    type: talk
+    date: 2024-03-22
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Sponsors"
+    type: custom
+    date: 2024-03-22
+    start_time: "13:30"
+    end_time: "13:35"
+    background_color: "#D0D0D0"
+  - title: "Panel Discussion"
+    type: custom
+    date: 2024-03-22
+    start_time: "13:35"
+    end_time: "14:15"
+    background_color: "#D0D0D0"
+  - title: "Break, Visit Sponsor Booth"
+    type: custom
+    date: 2024-03-22
+    start_time: "14:15"
+    end_time: "14:45"
+  - title: "Ignites"
+    type: ignite
+    date: 2024-03-22
+    start_time: "14:45"
+    end_time: "15:30"
+  - title: "Open Space (Attendee Led Breakout Session) Break"
+    type: custom
+    date: 2024-03-22
+    start_time: "15:30"
+    end_time: "15:40"
+  - title: "Open Space (Attendee Led Breakout Session) #3"
+    type: open-space
+    date: 2024-03-22
+    start_time: "15:40"
+    end_time: "16:20"
+  - title: "Open Space (Attendee Led Breakout Session) Break"
+    type: custom
+    date: 2024-03-22
+    start_time: "16:20"
+    end_time: "16:30"
+  - title: "Open Space (Attendee Led Breakout Session) #4"
+    type: open-space
+    date: 2024-03-22
+    start_time: "16:30"
+    end_time: "17:15"
+  - title: "Afternoon Raffle & Closing"
+    type: custom
+    date: 2024-03-22
+    start_time: "17:15"
+    end_time: "17:25"
+
+ignites:
+  - title: "heather-thacker"
+    date: 2024-03-21
+  - title: "shruthi-bhaskar"
+    date: 2024-03-21
+  - title: "michel-schildmeijer"
+    date: 2024-03-21
+
+  - title: "pas-apicella"
+    date: 2024-03-22
+  - title: "sasha-rosenbaum"
+    date: 2024-03-22
+  - title: "abhishek"
+    date: 2024-03-22  
+  - title: "richard-taylor"
+    date: 2024-03-22

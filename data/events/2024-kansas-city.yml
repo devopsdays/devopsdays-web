@@ -10,21 +10,21 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2024-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: 2024-05-15T08:00:00-05:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2024-05-16T17:00:00-05:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2024-05-15T08:00:00-06:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2024-05-16T17:00:00-06:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2023-12-18T00:00:00-05:00 # start accepting talk proposals.
-cfp_date_end: 2024-01-31T23:59:59-05:00 # close your call for proposals.
-cfp_date_announce: 2024-03-15T23:59:59-05:00 # inform proposers of status
+cfp_date_start: 2023-12-18T00:00:00-06:00 # start accepting talk proposals.
+cfp_date_end: 2024-01-31T23:59:59-06:00 # close your call for proposals.
+cfp_date_announce: 2024-03-15T23:59:59-06:00 # inform proposers of status
 
 cfp_link: "/kansas-city/cfp" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: 2024-01-15T08:00:00-06:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2024-05-16T17:00:00-06:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://tickets.devopsdays.org/devopsdays-kansascity/2024/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -34,12 +34,13 @@ location: "The Madrid Theatre, Kansas City, MO" # Defaults to city, but you can 
 location_address: "3810 Main St, Kansas City, MO 64111" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
   - name: location
- # - name: registration
+  - name: register
+    url: https://tickets.devopsdays.org/devopsdays-kansascity/2024/
  # - name: program
  # - name: speakers
   - name: sponsor
+  - name: propose
   - name: contact
   - name: conduct
 # - name: example
@@ -71,9 +72,9 @@ team_members: # Name is the only required field for team members.
     image: "aaron-blythe.jpg"
     bio: "Father, husband, hacker, software architect, genuinely interested in understanding things and making them better."
   - name: "Erin Crise"
-    employer: "VMLY&R"
+    employer: "TekSystems"
     bio: "Graphic designer and self taught coder who developed a love for software testing. Erin’s a creative professional with a passion for software quality and a champion for inclusion."
-    twitter: "erincr"
+    twitter: "queentester"
     image: "erin-crise.jpg"
     linkedin: "https://linkedin.com/in/erin-crise"
     website: "https://medium.com/@erin-crise"
@@ -141,6 +142,14 @@ team_members: # Name is the only required field for team members.
     linkedin: "http://www.linkedin.com/in/cbenclayton"
     website: "https://www.benclayton.tech/"
     image: "ben-clayton.jpg"
+  - name: "Jenny Tarwater"
+    employer: "Blueshift Innovation"
+    bio: "Jenny Tarwater is an Enterprise Coach working with large organizations to achieve their business outcomes, generally using agile values, principles, and practices. Her default stance is to put people and culture first and be curious about how they impact the overall system and practices.  Jenny is an international speaker, serial conference organizer, and community advocate."
+    twitter: "JennyKCMO"
+    linkedin: "https://www.linkedin.com/in/jennytarwater/"
+    facebook: "https://www.facebook.com/jennytarwater/"
+    website: "https://www.blueshiftinnovation.com"
+    image: "jenny-tarwater.jpg"
 
 organizer_email: "kansas-city@devopsdays.org" # Put your organizer email address here
 
@@ -152,6 +161,12 @@ sponsors:
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 #  - id: arresteddevops
 #    level: community
+  - id: kcdc
+    level: lunches
+  - id: kcwit
+    level: community
+  - id: kubeevents
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -160,13 +175,19 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: platinum
+    label: Platinum
+    max: 2
   - id: gold
     label: Gold
-#    max: 10
+    max: 6
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
-  - id: bronze
-    label: Bronze
   - id: community
-    label: Community
+    label: Community & Media
+  - id: lunches
+    label: Lunches
+    max: 1
+  - id: social-event
+    label: Social Event
+    max: 1

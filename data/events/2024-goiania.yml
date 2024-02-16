@@ -14,13 +14,13 @@ ga_tracking_id: "G-TFWCP6ZZET" # If you have your own Google Analytics tracking 
 startdate: 2024-04-06T08:00:00-03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
 enddate: 2024-04-06T18:00:00-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
-cfp_open: "false"
+cfp_open: "true"
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-# cfp_date_start: 2022-12-01T00:00:00-03:00 # start accepting talk proposals.
-# cfp_date_end: 2024-01-29T23:59:59-03:00 # close your call for proposals.
-# cfp_date_announce: 2024-02-03T21:00:00-03:00 # inform proposers of status
+cfp_date_start: 2024-01-02T00:00:00-03:00 # start accepting talk proposals.
+cfp_date_end: 2024-02-11T23:59:59-03:00 # close your call for proposals.
+cfp_date_announce: 2024-02-23T21:00:00-03:00 # inform proposers of status
 
-# cfp_link: "https://www.papercall.io/devopsdaysgyn2024" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://talks.devopsdays.org/devopsdays-goiania-2024/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 # registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 # registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
@@ -36,9 +36,10 @@ location: "Castro's Park Hotel" # Defaults to city, but you can make it the venu
 location_address: "Avenida República do Líbano, 1520 - St. Oeste, Goiânia - GO, 74115-030" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: Chamadas (CFP)
+  - name: Chamada de Trabalhos (CfP)
     icon: "paper-plane-o"
-    url: /events/2024-goiania/propose
+    # url: /events/2024-goiania/propose
+    url: https://talks.devopsdays.org/devopsdays-goiania-2024/
 
   - name: local
     icon: "map-o"
@@ -46,12 +47,12 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
   - name: inscrições
     icon: "ticket"
-    #url: https://www.sympla.com.br/devopsdays-goiania-2024__1836174
-    url: /events/2024-goiania/registration
+    url: https://www.sympla.com.br/evento/devopsdays-goiania-2024/2292376
+    #url: /events/2024-goiania/registration
 
-  # - name: programação
-  #   icon: "calendar"
-  #   url: /events/2024-goiania/program
+  - name: programação
+    icon: "calendar"
+    url: /events/2024-goiania/program
 
   # - name: palestrantes
   #   icon: "microphone"

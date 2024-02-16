@@ -21,7 +21,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <th scope="col">BENEFITS</th>
       <th scope="col" style="text-align: center;">PLATINUM</th>
       <th scope="col" style="text-align: center;">GOLD</th>
-      <th scope="col" style="text-align: center;">BRONZE</th>
+      <th scope="col" style="text-align: center;">SILVER</th>
       <th scope="col" style="text-align: center;">COMMUNITY</th>
     </tr>
   </thead>
@@ -35,10 +35,8 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
     </tr>
     <tr style="text-align: center;">
       <td></td>
-      <td colspan="3"><small>
-      Note: Paypal payments include 3% service charge.
-      <br>
-      <a href="mailto:sponsors@devopsdayskc.org?subject=DevOpsDays%20KC%202024%20Sponsorship">Email us</a> if you prefer to pay by check</small></td>
+      <td colspan="3">
+      <a href="mailto:sponsors@devopsdayskc.org?subject=DevOpsDays%20KC%202024%20Sponsorship">Email us</a> if you prefer to pay by check or Quickbooks invoice.</td>
       <td></td>
     </tr>
     <tr style="text-align: center;">
@@ -62,7 +60,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
         </form>
       </td>
       <td>
-        <!-- bronze Paypal button  -->
+        <!-- Silver Paypal button  -->
         <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
           <input type="hidden" name="cmd" value="_s-xclick" />
           <input type="hidden" name="hosted_button_id" value="WJ3T6Q3RA9DMW" />
@@ -194,11 +192,11 @@ All special sponsors will have their logo displayed on the DevOpsDays Kansas CIt
       <td>Get the day started right for the attendees</td>
       <td align="center">2</td>
     </tr>
-    <tr>
+    <tr style="text-decoration:line-through;">
       <td>Lunch sponsor (incl 1 ticket)</td>
       <td align="center">$8,000</td>
       <td>Ensure everyone has the energy for the rest of the day</td>
-      <td align="center">2</td>
+      <td align="center">0</td>
     </tr>
     <tr>
       <td>Happy Hour / Evening social<br/>(incl 1 ticket)</td>

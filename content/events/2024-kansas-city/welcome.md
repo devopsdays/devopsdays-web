@@ -31,14 +31,14 @@ Description = "DevOpsDays Kansas City 2024 will take place May 15-16, 2024!"
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
+    <a href="https://tickets.devopsdays.org/devopsdays-kansascity/2024/">Register to attend the conference!</a>
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">

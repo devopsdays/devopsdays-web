@@ -144,7 +144,7 @@ sponsors:
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
-  - id: solarwinds
+  - id: solarwinds-before-20240105
     level: platinum
   - id: blue-people
     level: gold

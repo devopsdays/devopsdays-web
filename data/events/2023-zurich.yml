@@ -134,7 +134,7 @@ sponsors:
     level: event
   - id: avega
     level: event
-  - id: cloudscalech
+  - id: cloudscalech-before-20240205
     level: event
   - id: amazeeio
     level: silver
@@ -182,7 +182,7 @@ sponsors:
     level: community
   - id: swiss-post
     level: bronze
-  - id: ciklum
+  - id: ciklum-before-2024-02-04
     level: bronze
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
