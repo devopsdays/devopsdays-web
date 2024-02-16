@@ -95,6 +95,11 @@ team_members: # Name is the only required field for team members.
     bio: "Devops"
     image: "wellington.jpeg"
 
+  - name: "Daniel Rodrigues"
+    employer: "Tech Lead at Flash"
+    linkedin: "https://www.linkedin.com/in/eusouodaniel"
+    bio: "Amplo conhecimento e experiência profissional em desenvolvimento web, com conhecimento em diversas ferramentas e linguagens, facilidade no aprendizado e alto foco. Atualmente atua como Engenheiro de Software, Mentor e Professor."
+    image: "daniel-rodrigues.jpeg"
 
 organizer_email: "" # Put your organizer email address here
 

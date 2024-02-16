@@ -16,7 +16,7 @@ Description = "devopsdays Belo Horizonte 2024"
   flex-wrap: nowrap;
   justify-content: center;
   align-items: center;
-  background-color: #A8C2D7;
+  background-color: #cedde6;
   margin: 3em;
   padding: 3em;
   gap: 3em;
