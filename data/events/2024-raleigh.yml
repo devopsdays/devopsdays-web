@@ -115,8 +115,12 @@ sponsors:
     level: community
   - id: observeinc
     level: gold
+  - id: jit
+    level: gold
   - id: nadog
     level: community
+  - id: portworx
+    level: gold
   - id: triangle-tech-talks
     level: community
   - id: vets-in-devops
