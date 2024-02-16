@@ -9,36 +9,36 @@ on:
 jobs:
   check_large_files:
    permissions:
-        issues: write
-        pull-requests: write
+      issues: write
+      pull-requests: write
    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-        with:
-            fetch-depth: 0
+   steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      with:
+          fetch-depth: 0
 
-      - name: Check for PDFs and large files
-        run: |
-          git fetch origin main
-          changed_files_with_sizes=$(git diff --numstat origin/main...HEAD)
-          has_large_file=false
-          IFS=$'\n'
-          for line in $changed_files_with_sizes; do
-            size=$(echo "${line}" | awk '{print $1}')
-            file=$(echo "${line}" | awk '{print $3}')
-            # Any file larger than 3MB or PDF
-            if [[ ${size} -gt $((3 * 1024 * 1024)) ]] || [[ "${file}" == *.pdf ]]; then
-              has_large_file=true
-              break
-            fi
-          done
-          echo "HAS_LARGE_FILE=${has_large_file}" >> $GITHUB_ENV
+    - name: Check for PDFs and large files
+      run: |
+        git fetch origin main
+        changed_files_with_sizes=$(git diff --numstat origin/main...HEAD)
+        has_large_file=false
+        IFS=$'\n'
+        for line in $changed_files_with_sizes; do
+          size=$(echo "${line}" | awk '{print $1}')
+          file=$(echo "${line}" | awk '{print $3}')
+          # Any file larger than 3MB or PDF
+          if [[ ${size} -gt $((3 * 1024 * 1024)) ]] || [[ "${file}" == *.pdf ]]; then
+            has_large_file=true
+            break
+          fi
+        done
+        echo "HAS_LARGE_FILE=${has_large_file}" >> $GITHUB_ENV
 
-      - name: Comment PR if large file is added
-        if: ${{ env.HAS_LARGE_FILE == 'true' }}
-        uses: actions/github-script@v5
-        with:
-          script: |
-            const script = require('.github/scripts/comment-pr-large-file.js');
-            await script({github, context, core});
+    - name: Comment PR if large file is added
+      if: ${{ env.HAS_LARGE_FILE == 'true' }}
+      uses: actions/github-script@v5
+      with:
+        script: |
+          const script = require('.github/scripts/comment-pr-large-file.js');
+          await script({github, context, core});
