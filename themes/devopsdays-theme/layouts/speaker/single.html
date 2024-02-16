@@ -1,7 +1,7 @@
 {{ define "main" }}
 
-{{- $e := (index $.Site.Data.events (index (split (.Permalink | relURL) "/") 2)) -}}
-
+{{- $e := index $.Site.Data.events (index (split (.Permalink | relURL) "/") 2) "main" -}}
+{{/*  {{- $e := index $.Site.Data.events "2023-chicago" "main" -}}  */}}
 <div class = "row">
   <div class = "col-md-12 offset-md-1">
     <h2 class="speaker-page">{{ .Title }}</h2>
@@ -16,6 +16,9 @@
      <h3>{{ .Title }} at {{ $e.city }} {{$e.year}}</h3>
           <ul class="list-group">
             {{- $.Scratch.Set "speaker" .File.BaseFileName -}}
+            {{ if eq $e.name nil }}
+              {{ errorf "Nil name on %s" .Permalink }}
+            {{ end }}
             {{ if (where (readDir (printf "content/events/%s/" $e.name)) "Name" "program") }}
             {{ range os.ReadDir (printf "content/events/%s/program/" $e.name) }}
             {{ $filename :=  (printf "/events/%s/program/%s" $e.name  .Name) }}
