@@ -35,7 +35,7 @@ jobs:
         
     - name: Comment on PR
       id: comment
-      if: failure() && steps.prcheck.outcome == 'failure'
+      if: ${{ env.HAS_LARGE_FILE == 'true' }}
       uses: thollander/actions-comment-pull-request@v2
       with:
         message: |
