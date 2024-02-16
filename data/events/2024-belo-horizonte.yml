@@ -62,7 +62,7 @@ team_members: # Name is the only required field for team members.
   - name: "Rafaela Vidotti"
     employer: "Project Manager at Bid Broke"
     linkedin: "https://www.linkedin.com/in/rafaelavidotti/"
-    bio: ""
+    bio: "TikToker de Dancinhas e Infraestutura de TI que ama fugir de um padrão, luta diariamente por mais mulheres no ambiente, e para desmistificar “essa tal de TI “ para todos. Recém-palestrante, líder de comunidade AWSUG e fundadora de uma para mulheres."
     image: "rafaela.jpeg"
 
   - name: "Victor Parreira"
