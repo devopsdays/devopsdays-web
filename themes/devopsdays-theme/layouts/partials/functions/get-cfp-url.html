@@ -1,0 +1,6 @@
+<!-- this function takes in an event and determines the CFP url (either the explicitly set one, or a propose page if such exists) -->
+{{ $cfp_url := printf "/events/%s/propose/" .name }}
+{{ if .cfp_link }}
+  {{ $cfp_url = .cfp_link }}
+{{ end }}
+{{ return $cfp_url }}
