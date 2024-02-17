@@ -1,4 +1,4 @@
-{{- $e := index $.Site.Data.events (index (split (.Permalink | relURL) "/") 2) "main" -}}
+{{- $e := partial "functions/get-event-data" . -}}
 
 {{- $.Scratch.Set "contentdir" (printf "static/events/%s/" $e.name) -}}
 

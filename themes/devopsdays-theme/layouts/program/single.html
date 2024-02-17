@@ -9,7 +9,7 @@
     {{- $.Scratch.Set "icons" (. | upper ) -}}
   {{- end -}}
 
-  {{- $e := index $.Site.Data.events (index (split (.Permalink | relURL) "/") 2) "main" -}}
+  {{- $e := partial "functions/get-event-data" . -}}
 
   {{- $p := index $.Site.Data.events (index (split (.Permalink | relURL) "/") 2) "program" -}}
 

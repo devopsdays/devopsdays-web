@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-{{- $e := index $.Site.Data.events (index (split (.Permalink | relURL) "/") 2) "main" -}}
+{{- $e := partial "functions/get-event-data" . -}}
 {{/*  {{- $e := index $.Site.Data.events "2023-chicago" "main" -}}  */}}
 <div class = "row">
   <div class = "col-md-12 offset-md-1">
