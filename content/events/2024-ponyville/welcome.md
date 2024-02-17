@@ -1,6 +1,6 @@
 +++
 Title = "devopsdays Ponyville 2024"
-Type = "welcome"
+Type = "welcome-new"
 aliases = ["/events/2024-ponyville/"]
 Description = "devopsdays Ponyville 2024"
 +++
@@ -14,8 +14,7 @@ Description = "devopsdays Ponyville 2024"
     <strong>Dates</strong>
   </div>
   <div class = "col-md-8">
-    <!-- {{< event_start >}} - {{< event_end >}} -->
-    TBD 2024!
+    {{< event_start >}} - {{< event_end >}}
   </div>
 </div>
 

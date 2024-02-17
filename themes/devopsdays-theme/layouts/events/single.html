@@ -11,24 +11,8 @@
 
 {{ $upcoming := slice }}
 {{ $tbd := slice }}
-
-{{- range $k, $v := $.Site.Data.events -}}
-  {{ range $ck, $cv := .}}
-    {{ if eq $ck "main" }}
-      {{- if .startdate -}}
-        {{- if ne .cancel "true" -}}
-          {{- if gt (time .enddate) now -}}
-            {{ $upcoming = append . $upcoming  }}
-          {{- end -}} 
-        {{- end -}}
-      {{- else -}} 
-        {{- if ne .cancel "true" -}}
-          {{ $tbd = append . $tbd  }}
-        {{- end -}}
-      {{- end -}}
-    {{- end -}}
-  {{- end -}}
-{{- end -}} 
+{{- $upcoming = partial "functions/get-upcoming-events" . -}}
+{{- $tbd = partial "functions/get-tbd-events" . -}}
 
 <div class = "row">
 {{- $.Scratch.Set "close-tag" "false" -}}

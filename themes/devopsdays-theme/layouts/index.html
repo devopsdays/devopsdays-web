@@ -3,21 +3,9 @@
 
     {{- $.Scratch.Add "i" 1 -}}
 
-    {{ $upcoming := slice }}
+    {{- $upcoming := slice -}}
+    {{- $upcoming = partial "functions/get-upcoming-events" . -}}
 
-    {{- range $k, $v := $.Site.Data.events -}}
-        {{ range $ck, $cv := .}}
-            {{ if eq $ck "main" }}
-                {{- if .startdate -}}
-                    {{- if ne .cancel "true" -}}
-                        {{- if gt (time .enddate) now -}}
-                            {{ $upcoming = append . $upcoming  }}
-                        {{- end -}} 
-                    {{- end -}}
-                {{- end -}}
-            {{- end -}} 
-        {{- end -}}
-    {{- end -}}
     <div class="row">
         {{- range sort $upcoming "startdate" -}}
             {{- if .startdate -}}
