@@ -46,8 +46,10 @@ else
   echo "/$city_slug/*            /events/$event_slug/:splat           302" >> "../static/_redirects"
 fi
 
+# Create data directory for the event
+mkdir -p ../data/events/$year/$city_slug
 # Create default event datafile
-eventdatafile="../data/events/$event_slug.yml"
+eventdatafile="../data/events/$year/$city_slug/main.yml"
 cp examples/data/events/yyyy-city.yml $eventdatafile
 
 sedcmd "s/YYYY/$year/" $eventdatafile
