@@ -11,6 +11,17 @@ Description = "DevOpsDays Los Angeles 2024"
 <br>
 <div class = "row" id = "main-row">
   <div class = "col-md-6 push-md-8" id = "left-col">
+    <h3>🎉 DevOpsDaysLA 2024 Schedule is now live 🎉</h3>
+  <hr>
+  <p>
+  We are pleased to announce that our <a href="https://devopsdays.org/events/2024-los-angeles/program">schedule</a> for this year is now live.
+
+  So get ready for an action-packed DevOps conference that promises to deliver a wealth of knowledge and opportunities to connect with industry experts! Our meticulously planned schedule is designed to cater to everyone in the DevOps ecosystem, including practitioners, engineers, computer science professionals, cloud specialists, security experts, and automation gurus.
+
+  Whether you're just starting your DevOps journey or looking to expand your horizons, our conference has something for everyone. With a diverse range of topics, engaging speakers, and interactive workshops, you'll leave with new ideas, practical skills, and a renewed passion for all things DevOps. Don't miss out on this chance to learn, network, and grow in your career - join us at our DevOps conference and be part of the revolution!
+  </p>
+  <!-- </div> -->
+  <!-- <div class = "col-md-6 push-md-8" id = "left-col"> -->
     <h3>What is DevOpsDaysLA?</h3>
   <hr>
   <p>
@@ -27,6 +38,8 @@ Description = "DevOpsDays Los Angeles 2024"
       {{< event_logo >}}
     </div>
   </div>
+
+  
 </div>
 
 <br><br>
@@ -40,14 +53,14 @@ Description = "DevOpsDays Los Angeles 2024"
   </div>
 </div>
 
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>CFP</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="propose" text="Call For Proposals" >}}
-  </div>
-</div>
+<!-- <div class = "row"> -->
+<!--   <div class = "col-md-2"> -->
+<!--     <strong>CFP</strong> -->
+<!--   </div> -->
+<!--   <div class = "col-md-8"> -->
+<!--     {{< event_link page="propose" text="Call For Proposals" >}} -->
+<!--   </div> -->
+<!-- </div> -->
 
 <div class = "row">
   <div class = "col-md-2">

@@ -15,13 +15,13 @@ startdate: 2024-04-20T00:00:00-03:00 # The start date of your event. Leave blank
 enddate: 2024-04-20T23:59:59-03:00  # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: "" #2019-09-17T00:09:00-03:00 # start accepting talk proposals.
-cfp_date_end:  "" #2019-10-25T00:09:00-03:00 # close your call for proposals.
-cfp_date_announce: "2024-01-15T00:00:00-03:00" #2019-10-20T00:09:00-03:00 # inform proposers of status
+cfp_date_start: "2024-01-30T00:00:00-03:00" #2019-09-17T00:09:00-03:00 # start accepting talk proposals.
+cfp_date_end: "2024-02-29T00:00:00-03:00" #2019-10-25T00:09:00-03:00 # close your call for proposals.
+cfp_date_announce: "2024-01-29T00:00:00-03:00" #2019-10-20T00:09:00-03:00 # inform proposers of status
 
-cfp_open: "false"
+cfp_open: "true"
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://www.papercall.io/dodaju2024" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: "2024-01-15T00:00:00-03:00" #2022-10-01T00:09:00-03:00 # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: "2024-04-19T23:59:59-03:00" #2022-10-31T00:09:00-03:00 # close registration. Leave blank if registration is not open yet.

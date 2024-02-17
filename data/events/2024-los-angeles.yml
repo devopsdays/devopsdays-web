@@ -131,14 +131,24 @@ sponsors:
   - id: nadog
     level: community
     url: https://www.nadog.com
+  - id: dnsimple
+    level: gold
   - id: doppler
+    level: gold
+  - id: everbridge
     level: gold
   - id: honeycomb
     level: gold
+  - id: saucelabs
+    level: gold
   - id: semaphoreci
+    level: gold
+  - id: siglens
     level: gold
   - id: solarwinds
     level: gold
+  - id: couchbase
+    level: silver
   - id: victoriametrics
     level: startup
   - id: kubecareers
@@ -209,3 +219,4 @@ program:
     date: 2024-03-15T00:00:00-08:00
     start_time: "17:00"
     end_time: "17:45"
+

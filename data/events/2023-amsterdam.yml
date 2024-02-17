@@ -139,7 +139,7 @@ organizer_email: "amsterdam@devopsdays.org" # Put your organizer email address h
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
   # Platinum
-  - id: portworx
+  - id: portworx-before-20240216
     level: platinum
   # Beer
   - id: contrast_security
