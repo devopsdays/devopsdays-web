@@ -23,11 +23,11 @@ cfp_open: "true"
 
 cfp_link: "https://www.papercall.io/dodaju2024" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: "2024-01-15T00:00:00-03:00" #2022-10-01T00:09:00-03:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_start: "2024-02-06T00:00:00-03:00" #2022-10-01T00:09:00-03:00 # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: "2024-04-19T23:59:59-03:00" #2022-10-31T00:09:00-03:00 # close registration. Leave blank if registration is not open yet.
 
-registration_closed: "" # set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_closed: "false" # set this to true if you need to manually close registration before your registration end date
+registration_link: "https://bit.ly/dodaju2024" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -41,11 +41,11 @@ location_address: "Rua Teixeira de Freitas, 10 - Salgado Filho CEP: 49020-490"
 masthead_background: "skyline-aju.jpg"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-# - name: propose
+ - name: propose
  - name: location
- #- name: registration
+ - name: registration
  #- name: program
- # - name: speakers
+ #- name: speakers
  - name: sponsor
  - name: contact
  - name: conduct
