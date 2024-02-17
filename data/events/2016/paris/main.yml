@@ -1,0 +1,122 @@
+name: "2016-paris" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2016" # The year of the event. Make sure it is in quotes.
+city: "Paris" # The displayed city name of the event. Capitalize it.
+description: # A short blurb of text to describe your event, defaults to common DevOpsDays description
+
+# All dates are in unquoted 2016-MM-DD, like this:   variable: 2016-01-05
+startdate: 2016-11-28 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2016-11-28 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2016-11-28T00:00:00+02:00
+enddate: 2016-11-28T23:59:59+02:00
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start:  # start accepting talk proposals.
+cfp_date_end:  # close your call for proposals.
+cfp_date_announce:  # inform proposers of status
+
+# Location
+#
+coordinates: "48.871047, 2.345704" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Le Grand Rex" # Defaults to city, but you can make it the venue name.
+#
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+ 
+#  - name: program
+#  - name: propose
+#    url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+#  - name: location
+  - name: devopsrex.fr
+    url: https://www.devopsrex.fr/
+#  - name: registration
+#  - name: sponsor
+  - name: contact
+  - name: conduct
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Sébastien Brochet"
+    twitter: "sebbrochet"
+    employer: "Microsoft"
+  - name: "Jonathan Clarke"
+    twitter: "jooooooon42"
+    employer: "Normation"
+  - name: "Stephane Crivisier"
+    twitter: "scrivisier"
+    employer: "ETNA"
+  - name: "Raphaël Dubigny"
+    twitter: "rdubigny"
+    employer: "Theodo"
+  - name: "Brice Figureau"
+    twitter: "_masterzen_"
+    employer: "Days of Wonder"
+  - name: "Stéphane Lahache"
+    employer: "Dailymotion"
+  - name: "Dan Maher"
+    twitter: "phrawzty"
+    employer: "Mozilla"
+  - name: "Valentin Napoli"
+    twitter: "ValentinNAPOLI1"
+    employer: "Normation"
+  - name: "Sylvain Révéreault"
+    twitter: "srevereault"
+    employer: "Zenika"
+  - name: "Alexandre Rodiere"
+    twitter: "alx_rodiere"
+    employer: "Silver Spring"
+  - name: "Maxime Thoonsen"
+    twitter: "maxthoon"
+    employer: "Theodo"
+
+organizer_email: "organizers-paris-2016@devopsdays.org" # Put your organizer email address here
+proposal_email: "hello@devopsrex.fr" # Put your proposal email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: normation
+    level: platinum
+  - id: automic-fr
+    level: platinum
+  - id: atlassian-before-20171216
+    level: gold
+  - id: microsoft
+    level: gold
+  - id: voyages-sncf
+    level: silver
+  - id: theodo
+    level: bronze
+  - id: prologism
+    level: bronze
+  - id: waycom
+    level: bronze
+  - id: developpez
+    level: media
+  - id: frenchweb
+    level: media
+  - id: infodsi
+    level: media
+  - id: lemondeinformatique
+    level: media
+  - id: programmez
+    level: media
+  - id: toolinux
+    level: media
+  
+
+sponsors_accepted: "no" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimitted sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: platinum
+    label: Platinum
+  - id: gold
+    label: Gold
+  - id: silver
+    label: Silver
+  - id: bronze
+    label: Bronze
+  - id: media
+    label: Médias

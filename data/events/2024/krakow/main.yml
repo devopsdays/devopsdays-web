@@ -1,0 +1,112 @@
+name: "2024-krakow" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2024" # The year of the event. Make sure it is in quotes.
+city: "Kraków" # The displayed city name of the event. Capitalize it.
+event_twitter: "dodkrk" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+event_logo: "logo-square.jpg"
+masthead_background: "dodkrakow-banner.jpg"
+description: "5th edition of DevOpsDays in Kraków!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2021-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2021-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2024-03-18T00:00:00+02:00
+enddate: 2024-03-19T23:59:59+02:00
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2023-12-01T00:00:00+02:00
+cfp_date_end: 2024-02-12T23:59:59+02:00
+cfp_date_announce:
+
+cfp_link: "https://dodkrakow.pl/call-for-papers-2024/"
+
+registration_date_start: 2023-12-01T00:00:00+02:00
+registration_date_end: 2024-03-13T23:59:59+02:00
+
+registration_closed: "" # set this to true if you need to manually close registration before your registration end date
+registration_link: "https://eventory.cc/event/devopsdays-krakow-2024/tickets"
+
+# Location
+coordinates: "50.012602303720385, 19.92386198919149"
+location: "Metropolo Krakow"
+location_address: "Orzechowa 11, 30-422 Kraków"
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: registration
+    url: "https://eventory.cc/event/devopsdays-krakow-2024"
+  - name: sponsor
+    url: "mailto:krakow@devopsdays.org"
+  - name: location
+#  - name: program
+#    url: https://dodkrakow.pl/schedule-2024/
+#  - name: speakers
+#    url: https://dodkrakow.pl/#speakers
+  - name: contact
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Kuba Barć"
+    image: "jakub_barc.jpg"
+    linkedin: "https://www.linkedin.com/in/jakub-bar%C4%87-a235662a"
+    bio: "SRE with Splunk, trying to get Splunk Monitoring (a.k.a SignalFx) to scale properly. 10+ years of experience with companies like IBM, UBS, Splunk and Facebook. Not a fan of Jenkins"
+  - name: "Piotr Godowski"
+    image: "pior-godowski.jpg"
+    employer: "IBM"
+    linkedin: "https://www.linkedin.com/in/piotr-godowski-4274091/"
+    bio: "Piotr is a seasoned software architect working at IBM, currently focused on Hybrid Clouds management and software licensing in the containerized world. Passionate of IT technologies, including AI, cyber security, BI, IoT and distributed systems. Member of ISO/IEC Polish National Body, owner of several software patents."
+  - name: "Janusz Kamieński"
+    linkedin: "https://www.linkedin.com/in/jakamienski/"
+    twitter: "jkamienski"
+    employer: "Wix.com"
+    image: "dod_jk.jpg"
+    bio: "Developer, journalist, tabletop RPG Game Master and milkoholic. Active participant of dev communities, co-organizer of meetups and DevOps conferences in Poland. Applies DevOps pattern on tech and business side in all projects he touches. For a dozen of years worked in web technologies. Full-stack developer since 2008. Gains experience and new levels in everyday work at Wix.com, to which office he goes by bike. Founder of Raport Obieżyswiata web tv channel about Fantasy & Sci-Fi."
+  - name: "Oliwia Kozioł"
+    image: "oliwia-koziol.jpg"
+    employer: "PROIDEA"
+  - name: "Marcin Lewandowski"
+    employer: "IBM"
+    image: "marcin-lewandowski-5.jpg"
+    bio: "Marcin is a Senior Software Engineer at IBM Lab in Kraków. He usually works across the stack, including designing and implementing DevOps processes for microservices he and his team owns. Interested in everything that helps do more with less and a huge fan of automating everything. If you talk Kubernetes, Ansible or Gradle Kotlin DSL, we’ll find a common topic, or two."
+  - name: "Paulina Małocha"
+    image: "placeholder.jpg"
+    employer: "PROIDEA"
+  - name: "Joanna Matusiak"
+    image: "joanna-matusiak.jpg"
+    employer: "PROIDEA"
+  - name: "Olga Michaliszyn"
+    image: "placeholder.jpg"
+    employer: "PROIDEA"
+  - name: "Karolina Ochlik"
+    image: "karolina.jpg"
+    employer: "AstraZeneca"
+    bio: "DevOps Consultant that believes in integrating IT and soft skills while bringing DevOps best practices and SRE approach. Leader, tech enthusiast, coder, CKAD, CKA certified and certified communications trainer."
+    linkedin: "https://www.linkedin.com/in/karolina-ochlik/"
+  - name: "Paweł Piwosz"
+    employer: "Spacelift"
+    image: "piwosz.jpg"
+    description: "DevOps Institute Ambassador. CD.Foundation Ambassador. AWS Community Builder. Engineer, leader, mentor, speaker. My focus is on CALMS. I am building better understanding of DevOps as driver for the organization. I am devoted to Serverless and CI/CD. I authored the framework for design the CI/CD - www.cicd.run. Host of Last Week In IT and DevOps In Agile Way podcasts."
+  - name: "Natalia Stawarz"
+    image: "natalia_stawarz.jpg"
+    description: "DevOps Lead and Engineer from Lodz with nearly 4 years of dedicated experience in the field, has become a seasoned professional specializing in AWS Cloud computing and infrastructure. Certified AWS Solution Architect Associate & AWS Security Specialty. Started pretty late with Kubernetes yet caching up very quickly so really keen on discussing different approaches in k8s world. Experienced in teaching and onboarding not tech-savvy people into AWS Cloud and DevOps world. Big fan of Terraform and Github Actions, not so great into Jenkins and Helm. Enthusiast of holistic and KISS approach as much as in DevOPs field and in real live, especially physical activities and sports."
+
+organizer_email: "krakow@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+# sponsor_levels:
+#   - id: sponsor
+#     label: " "

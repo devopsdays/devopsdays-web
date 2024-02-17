@@ -1,0 +1,410 @@
+name: "2020-guadalajara" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2020" # The year of the event. Make sure it is in quotes.
+city: "Guadalajara" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaysgdl" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays is coming to Guadalajara!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+masthead_background: gdl-skyline.jpg
+
+# All dates are in unquoted 2020-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2020-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+startdate: 2020-02-20T08:00:00-06:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  2020-02-21T18:00:00-06:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2019-10-15T00:00:00-05:00 # start accepting talk proposals.
+cfp_date_end: 2019-12-31T00:00:00-05:00 # close your call for proposals.
+cfp_date_announce: 2019-11-11T00:00:00-05:00 # inform proposers of status
+
+cfp_link: "https://www.papercall.io/devopsdays-gdl-2020" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: 2019-12-12T00:00:00-05:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2020-02-17T00:00:00-05:00 # close registration. Leave blank if registration is not open yet.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://ticketcontrol.mx/evento/605" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "20.608639, -103.414017" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "ITESO, Guadalajara" # Defaults to city, but you can make it the venue name.
+#
+location_address: "Anillo Perif. Sur Manuel Gómez Morín 8585, Santa María Tequepexpan, 45604 San Pedro Tlaquepaque, Jal." #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: location
+  # - name: registration
+  #   url: "https://ticketcontrol.mx/evento/605"
+  - name: program
+  - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+  - name: justify
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Esteban Castaño"
+    employer: "Wizeline"
+    twitter: ""
+    bio: ""
+  - name: "Clemente Estrada"
+    employer: "Wizeline"
+    twitter: ""
+    bio: ""
+  - name: "Ricardo Perez"
+    employer: "Wizeline"
+    twitter: ""
+    bio: ""
+  - name: "Alejandro Galvez"
+    employer: "ITESO"
+    twitter: ""
+    bio: ""
+  - name: "Sergio Lopez"
+    employer: "ITESO"
+    twitter: ""
+    bio: ""
+  - name: "Rodrigo Gaos"
+    employer: "IEEE"
+    twitter: ""
+    bio: ""
+  - name: "Raul Esquivel"
+    employer: "Wizeline"
+    twitter: ""
+    bio: ""
+  - name: "Leon Garcia"
+    employer: "Wizeline"
+    twitter: ""
+    bio: ""
+  - name: "Maria Pinedo"
+    employer: "Startup GDL"
+    twitter: ""
+    bio: ""
+  - name: "Juan Bosco"
+    employer: "ITESO"
+    twitter: ""
+    bio: ""
+  - name: "Alfonso Alvarez"
+    employer: "Wizeline"
+    twitter: ""
+    bio: ""
+  - name: "Edwin Moedano"
+    employer: "Wizeline"
+    twitter: ""
+    bio: ""
+
+organizer_email: "guadalajara@devopsdays.org" # Put your organizer email address here
+proposal_email: "guadalajara@devopsdays.org" # Put your proposal email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: newrelic-before-20220808
+    level: platinum
+  - id: experis
+    level: platinum
+  - id: vmware
+    level: platinum
+  - id: elastic-before-20221004
+    level: platinum
+  - id: kueski
+    level: platinum
+  - id: wizeline
+    level: gold
+  - id: iteso-university
+    level: venue
+  - id: startup-gdl
+    level: gold
+  - id: gitlab-before-20220516
+    level: gold
+  - id: terminal
+    level: gold
+  - id: brightcove
+    level: gold
+  - id: redis-labs
+    level: gold
+  - id: logicalis
+    level: gold
+  - id: linux-professional-institute
+    level: silver
+  - id: tinkerwave
+    level: silver
+  - id: bedu
+    level: silver
+  - id: cp-boosters
+    level: silver
+  - id: liferay
+    level: bronze
+  - id: puppet
+    level: bronze
+  - id: meetup-docker-guadalajara
+    level: community
+  - id: itrevolution
+    level: community
+  - id: meetup-docker-mexico-city
+    level: community
+  - id: wizeops
+    level: community
+  - id: software-guru
+    level: community
+  - id: ijalti
+    level: community
+  - id: ieee
+    level: community
+  - id: enchiladas-devops
+    level: community
+  - id: makersgdl
+    level: community
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: venue
+    label: Venue
+    max: 1
+  - id: platinum
+    label: Platinum
+    max: 4
+  - id: gold
+    label: Gold
+#    max: 10
+  - id: silver
+    label: Silver
+  - id: bronze
+    label: Bronze
+    max: 0 # This is the same as omitting the max limit.
+  - id: community
+    label: Community
+
+program:
+  - title: "Registration and Booths Open"
+    type: custom
+    date: "2020-02-20"
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening"
+    type: custom
+    date: "2020-02-20"
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "mike-rosado"
+    type: talk
+    date: "2020-02-20"
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors - Experis, New Relic, and Elastic"
+    type: custom
+    date: "2020-02-20"
+    start_time: "09:45"
+    end_time: "10:00"
+  - title: "Words from Organizers"
+    type: words
+    date: "2020-02-20"
+    start_time: "10:00"
+    end_time: "10:15"
+  - title: "jose-leitao"
+    type: talk
+    date: "2020-02-20"
+    start_time: "10:15"
+    end_time: "10:45"
+  - title: "Break"
+    type: custom
+    date: "2020-02-20"
+    start_time: "10:45"
+    end_time: "11:00"
+  - title: "franchesco-romero"
+    type: talk
+    date: "2020-02-20"
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "Sponsors - ITESO, Wizeline, Startup GDL, and Gitlab"
+    type: custom
+    date: "2020-02-20"
+    start_time: "11:30"
+    end_time: "11:45"
+  - title: "sasha-rosenbaum"
+    type: talk
+    date: "2020-02-20"
+    start_time: "11:45"
+    end_time: "12:15"
+  - title: "Lunch"
+    type: custom
+    date: "2020-02-20"
+    start_time: "12:15"
+    end_time: "13:30"
+  - title: "Ignite Talks:"
+    type: ignite
+    date: "2020-02-20"
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "francisco-rodriguez"
+    type: talk
+    date: "2020-02-20"
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: "Open Space Openning"
+    type: open-space
+    date: "2020-02-20"
+    start_time: "14:30"
+    end_time: "14:45"
+  - title: "Break"
+    type: custom
+    date: "2020-02-20"
+    start_time: "14:45"
+    end_time: "15:00"
+  - title: "Open Space"
+    type: open-space
+    date: "2020-02-20"
+    start_time: "15:00"
+    end_time: "17:00"
+  - title: "Break"
+    type: custom
+    date: "2020-02-20"
+    start_time: "17:00"
+    end_time: "17:30"
+  - title: "napoleon-jones"
+    type: talk
+    date: "2020-02-20"
+    start_time: "17:30"
+    end_time: "18:00"
+  - title: "manuel-gutierrez"
+    type: talk
+    date: "2020-02-20"
+    start_time: "18:00"
+    end_time: "18:30"
+  - title: "Closing"
+    type: custom
+    date: "2020-02-20"
+    start_time: "18:30"
+    end_time: "18:45"
+  - title: "Evening Social Event"
+    type: custom
+    date: "2020-02-20"
+    start_time: "18:45"
+    end_time: "20:00"
+
+  - title: "Registration and Booths Open"
+    type: custom
+    date: "2020-02-21"
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening"
+    type: custom
+    date: "2020-02-21"
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "liz-fong-jones"
+    type: talk
+    date: "2020-02-21"
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors - VMware, Kueski"
+    type: custom
+    date: "2020-02-21"
+    start_time: "09:45"
+    end_time: "10:00"
+  - title: "yury-nino"
+    type: talk
+    date: "2020-02-21"
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Break"
+    type: custom
+    date: "2020-02-21"
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "taylor-thomas"
+    type: talk
+    date: "2020-02-21"
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "Sponsors - Redis Labs, Logicalis, Terminal, and BrightCove"
+    type: custom
+    date: "2020-02-21"
+    start_time: "11:30"
+    end_time: "11:45"
+  - title: "mofizur-rahman"
+    type: talk
+    date: "2020-02-21"
+    start_time: "11:45"
+    end_time: "12:15"
+  - title: "Lunch"
+    type: custom
+    date: "2020-02-21"
+    start_time: "12:15"
+    end_time: "13:30"
+  - title: "Ignite Talks:"
+    type: ignite
+    date: "2020-02-21"
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "jesus-contreras"
+    type: talk
+    date: "2020-02-21"
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: "Open Space Openning"
+    type: open-space
+    date: "2020-02-21"
+    start_time: "14:30"
+    end_time: "14:45"
+  - title: "Break"
+    type: custom
+    date: "2020-02-21"
+    start_time: "14:45"
+    end_time: "15:00"
+  - title: "Open Space"
+    type: open-space
+    date: "2020-02-21"
+    start_time: "15:00"
+    end_time: "17:00"
+  - title: "Break"
+    type: custom
+    date: "2020-02-21"
+    start_time: "17:00"
+    end_time: "17:30"
+  - title: "ra-acosta"
+    type: talk
+    date: "2020-02-21"
+    start_time: "17:30"
+    end_time: "18:00"
+  - title: "cameron-motevasselani"
+    type: talk
+    date: "2020-02-21"
+    start_time: "18:00"
+    end_time: "18:30"
+  - title: "Raffle & Closing"
+    type: custom
+    date: "2020-02-21"
+    start_time: "18:30"
+    end_time: "18:45"
+
+ignites:
+  - title: "rex-roof"
+    date: "2020-02-20"
+  - title: "edwin-moedano"
+    date: "2020-02-20"
+  - title: "daniel-cortes"
+    date: "2020-02-20"
+  - title: "mofizur-rahman-ignite"
+    date: "2020-02-20"
+  - title: "julian-limon"
+    date: "2020-02-21"
+  - title: "jorge-castro"
+    date: "2020-02-21"
+  - title: "salvador-elizarraras"
+    date: "2020-02-21"
+  - title: "thomas-adams"
+    date: "2020-02-21"
+  - title: "leoswaldo-macias"
+    date: "2020-02-21"

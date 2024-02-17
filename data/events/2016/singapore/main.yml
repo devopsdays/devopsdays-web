@@ -1,0 +1,82 @@
+name: 2016-singapore # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2016" # The year of the event. Make sure it is in quotes.
+city: "Singapore" # The city name of the event. Capitalize it.
+friendly: "2016-singapore" # Four digit year and the city name in lower-case. Don't forget the dash!
+status: "past" # Options are "past" or "current".
+startdate: 2016-10-08 # The start date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
+enddate: 2016-10-09 # The end date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
+cfp_date_start: 2016-03-24
+cfp_date_end: 2016-08-15
+cfp_date_announce: 2016-08-29
+coordinates: "1.293396, 103.853462" # The corrodinates of your venue. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Raffles City Convention Centre, Singapore" # The name of your location
+# List of pages you want to show up in the navigation of your page. Remove any that aren't relevent yet.
+newnav: "yes"
+nav_elements:
+ 
+  - name: speakers
+  - name: program
+  - name: location
+  - name: sponsor
+  - name: registration
+    url: https://ti.to/devopsdays-singapore/2016/
+  - name: contact
+  - name: conduct
+
+team_members:
+  - name: "Christian Trabold"
+    twitter: "ctrabold"
+    employer: ""
+  - name: "Satyam Agarwala"
+    twitter: "satyamag"
+    employer: ""
+  - name: "Sergiu Bodiu"
+    twitter: "sergiu_bodiu"
+    employer: ""
+  - name: "Stefan Streichsbier"
+    twitter: "s_streichsbier"
+    employer: ""
+
+organizer_email: "organizers-singapore-2016@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-singapore-2016@devopsdays.org" # Put your proposal email address here
+sponsors: # List all of your sponsors here along with what level of sponsorship they have.
+  - id: thoughtworks-services
+    level: platinum
+  - id: forest_technologies
+    level: gold
+  - id: puppet
+    level: gold
+  - id: 2016-akeles
+    level: gold
+  - id: hired
+    level: gold
+  - id: redhat-before-20190528
+    level: travel
+  - id: chef-before-20210112
+    level: travel
+  - id: agile-singapore
+    level: community
+  - id: singapore-devops-community
+    level: community
+  - id: singapore-devsecops-community
+    level: community
+  - id: singapore-spring-community
+    level: community
+  - id: aspose
+    level: partner
+  - id: automic-singapore
+    level: partner
+
+sponsor_levels: # In this section, list the level of sponsorships and the label to use.
+  - id: platinum
+    label: Platinum
+  - id: gold
+    label: Gold
+  - id: silver
+    label: Silver
+  - id: travel
+    label: Travel
+  - id: community
+    label: Community
+  - id: partner
+    label: Partner

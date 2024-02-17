@@ -1,0 +1,173 @@
+name: 2016-portland # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: 2016 # The year of the event. Make sure it is in quotes.
+city: "Portland" # The city name of the event. Capitalize it.
+event_group: "Portland, OR"
+
+startdate: 2016-08-09T00:00:00-07:00
+enddate: 2016-08-10T23:59:59-07:00
+cfp_date_start: 2016-03-15
+cfp_date_end: 2016-05-23
+cfp_date_announce: 2016-07-01
+coordinates: "45.528562, -122.663028" # The corrodinates of your venue. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "The Oregon Convention Center" # The name of your location
+nav_elements:
+  - name: location
+  - name: registration
+    url: https://devopsdayspdx2016.busyconf.com/bookings/new
+  - name: program
+  - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+team_members:
+  - name: "Bill Weiss"
+    twitter: "billweiss"
+    employer: "Puppet"
+  - name: "Alice Goldfuss"
+    twitter: "alicegoldfuss"
+    employer: "New Relic"
+  - name: "Alastair Drong"
+    twitter: "BitXDeadweight"
+  - name: "Daniel Dreier"
+    twitter: "daniel_dreier"
+    employer: "Puppet"
+  - name: "Jason Yee"
+    twitter: "@gitbisect"
+    employer: "Datadog"
+  - name: "Joe Nuspl"
+    twitter: "joenuspl"
+    employer: "Workday"
+  - name: "Michelle Carroll"
+    twitter: "miiiiiche"
+    employer: "Elastic"
+  - name: "Rich Burroughs"
+    twitter: "richburroughs"
+    employer: "Yesmail"
+  - name: "Spencer Krum"
+    twitter: "nibalizer"
+    employer: "IBM"
+  - name: "Scott Nasello"
+    twitter: "scottnasello"
+    employer: "Columbia Sportswear"
+
+organizer_email: "organizers-portland-2016@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-portland-2016@devopsdays.org" # Put your proposal email address here
+sponsors: # List all of your sponsors here along with what level of sponsorship they have.
+  - id: pivotal-before-20190307
+    level: gold
+  - id: elastic-before-20221004
+    level: gold
+  - id: chef-before-20160714
+    level: gold
+  - id: ca_tech
+    level: gold
+  - id: thoughtworks-products-before-20160908
+    level: gold
+  - id: github
+    level: gold
+  - id: puppet
+    level: gold
+  - id: newrelic-before-20220808-before-20220808
+    level: gold
+  - id: emc
+    level: gold
+  - id: netapp
+    level: gold
+  - id: workday
+    level: gold
+  - id: sumologic-before-20181203
+    level: gold
+  - id: pagerduty-before-20190930
+    level: gold
+  - id: pure-storage-before-20190114
+    level: gold
+  - id: cloudbees-before-20161025
+    level: gold
+  - id: microsoft
+    level: gold
+  - id: newrelic-before-20220808-before-20220808
+    level: event
+  - id: victorops-before-20180823
+    level: silver
+  - id: columbia
+    level: silver
+  - id: simple
+    level: silver
+  - id: 2016-canonical
+    level: silver
+  - id: symantec
+    level: bronze
+  - id: volt
+    level: lanyard
+  - id: arresteddevops
+    level: community
+  - id: recompiler
+    level: community
+  - id: oreilly-before-20190725
+    level: community
+  - id: bsidespdx
+    level: community
+
+sponsor_levels: # In this section, list the level of sponsorships and the label to use.
+  - id: platinum
+    label: Platinum
+  - id: gold
+    label: Gold
+    max: 16
+  - id: event
+    label: Evening Event
+    max: 1
+  - id: silver
+    label: Silver
+    max: 6
+  - id: bronze
+    label: Bronze
+  - id: lanyard
+    label: Lanyard
+    max: 1
+  - id: community
+    label: Community
+
+speakers:
+  - id: "kelsey-hightower"
+    level: talk
+  - id: "nell-shamrell-harrington"
+    level: talk
+  - id: "david-blank-edelman"
+    level: talk
+  - id: "caskey-dickson"
+    level: talk
+  - id: "dan-young"
+    level: talk
+  - id: "josh-berkus"
+    level: talk
+  - id: "matthew-barker"
+    level: talk
+  - id: "jj-asghar"
+    level: talk
+  - id: "ken-mugrage"
+    level: talk
+  - id: "chris-barker"
+    level: talk
+  - id: "adrien-thebo"
+    level: talk
+  - id: "julia-wester"
+    level: talk
+  - id: "ben-hughes"
+    level: talk
+  - id: "jennifer-davis"
+    level: talk
+  - id: "e-dunham"
+    level: talk
+  - id: "aaron-jensen"
+    level: talk
+  - id: "ben-burry"
+    level: talk
+  - id: "eric-passmore"
+    level: talk
+  - id: "terrence-ryan"
+    level: talk
+
+speaker_levels:
+  - id: talk
+    label: Talk

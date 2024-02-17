@@ -1,0 +1,379 @@
+name: "2020-madrid" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2020" # The year of the event. Make sure it is in quotes.
+city: "Madrid" # The displayed city name of the event. Capitalize it.
+event_twitter: "DevOpsDaysMad" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Tickets are now available!" # Edit this to suit your preferences
+ga_tracking_id: "UA-154895431-1" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+masthead_background: "welcome-banner.jpg"
+
+startdate: 2020-02-21T00:00:00+01:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  2020-02-21T23:59:59+01:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2019-08-01T00:00:00+01:00 # start accepting talk proposals.
+cfp_date_end:  2019-11-17T00:00:00+01:00 # close your call for proposals.
+cfp_date_announce: 2019-11-30T00:00:00+01:00 # inform proposers of status
+
+cfp_open: "true"
+cfp_link:  https://www.koliseo.com/devopsdaysmad/dev-ops-days-madrid-2020/r4p/5762382672429056#/proposals/new #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: 2019-12-01T00:00:00+01:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2020-02-21T00:00:00+01:00 # close registration. Leave blank if registration is not open yet.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+# Fawcett Event Center,
+coordinates: "40.3998564,-3.8372811" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "CEU San Pablo Monteprincipe University" # Defaults to city, but you can make it the venue name.
+location_address: "Av. de Montepríncipe, Km. 5, 300, 28668 Monteprincipe, Madrid" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: registration
+  - name: location
+  - name: speakers
+  - name: program
+  - name: sponsor
+  - name: propose
+  - name: contact
+  - name: conduct
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Xavier Portilla"
+    employer: "Ericsson"
+    twitter: "xavidop"
+    website: "https://xavierportillaedo.github.io/"
+    linkedin: "https://www.linkedin.com/in/xavierportillaedo/"
+    image: xavi.jpg
+    bio: "He works as a software engineer at top global companies. He have more than 5 years of experience with coding with a focus on Java, DevOps, Q&A and microservices. In his spare time, he enjoys music, beer and friends."
+
+  - name: "Christian Melendez"
+    employer: "Equinix"
+    twitter: "christianhxc"
+    website: "https://cmelendeztech.com/"
+    linkedin: "https://www.linkedin.com/in/christian-melendez-6174454a/?originalSubdomain=gt"
+    image: christian.jpg
+    bio: "He is a technologist that started as a software developer and has more recently become a cloud architect focused on helping companies to implement continuous delivery pipelines. Christian's also a technical writer for topics around Kubernetes, containers, cloud, and DevOps. He's contributed to the community and specific companies with talks and workshops too."
+
+  - name: "Juan Vicente Herrera"
+    employer: "Orange"
+    twitter: "jvicenteherrera"
+    website: "https://www.juanvicenteherrera.es/"
+    linkedin: "https://www.linkedin.com/in/jvherrera/"
+    image: juanvi.jpg
+    bio: "Computer engineer and coordinator of the Madrid Devops group, his professional career has been developed mostly in the world of administration and systems architecture in all types of companies such as BBVA, Colt Telecom, Logtrust and currently in Orange. Specializing in automation, immutable infrastructure, virtual containers and cloud computing, in his career as a teacher he has years of experience in the subject of Cloud computing and in various subjects on automation and virtual containers."
+
+  - name: "Txetxu Velayos"
+    employer: "STR Sistemas"
+    twitter: "txetxuvel"
+    website: "https://www.meetup.com/es-ES/madrid-devops/"
+    linkedin: "https://www.linkedin.com/in/jesusvelayos/"
+    image: txetxu.jpg
+    bio: "Passionate about technology since he was a child. He enjoys working at STR Sistemas every day where he try to do all those things that he loves related to cloud systems and architectures mainly on Linux environments and that were not viable in consulting world. Learning and innovating every day."
+
+  - name: "Sergio Hernandez"
+    employer: "Encamina"
+    twitter: "shmancebo"
+    website: "https://mvp.microsoft.com/en-us/PublicProfile/5003193?fullName=Sergio%20%20Hern%C3%A1ndez%20Mancebo"
+    linkedin: "https://www.linkedin.com/in/sergio-hernandez-mancebo-369b6560/"
+    image: sergio.jpg
+    bio: "Technical Engineer in Computer Science from the Complutense University of Madrid. Principal Team Leader team at Encamina. He define and improve the work methodology and monitor the status of the projects. He also has extensive experience leading projects as a Team Leader, software project development in Microsoft cloud environments on Azure and SharePoint 0365"
+
+  - name: "Antonio Peña"
+    employer: "Orbital Critical Systems"
+    twitter: "apenav"
+    website: "https://about.me/apenav"
+    linkedin: "https://www.linkedin.com/in/apenav/"
+    image: antonio.jpg
+    bio: "Software engineer, with more than ten years experience in Open Source and system administration (GNU/Linux & FreeBSD), three years on IT management and two years on IT project management. With advanced knowledge on Open Source and Unix related technologies."
+
+  - name: "Alberto Diaz"
+    employer: "Encamina"
+    twitter: "adiazcan"
+    website: "https://adiazcan.github.io/"
+    linkedin: "https://www.linkedin.com/in/albertodiazmartin/"
+    image: alberto.jpg
+    bio: "He has more than 15 years of experience in the IT Industry, all of them working with Microsoft technologies. He is currently Chief Technology Innovation Officer at ENCAMINA, leading the development of software with Microsoft technology, and a member of the Management team."
+
+
+organizer_email: "madrid@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+ - id: nexthink
+   level: gold
+ - id: elastic-before-20221004
+   level: gold
+ - id: encamina
+   level: gold
+ - id: deiser
+   level: gold
+   
+ - id: autentia
+   level: gold-media
+
+ - id: altran
+   level: silver
+ - id: cloudflare
+   level: silver
+ - id: tecnofor
+   level: silver
+ - id: openbank
+   level: silver
+
+ - id: intelygenz
+   level: bronze
+ - id: tokiota
+   level: bronze
+
+ - id: madriddevops
+   level: community
+ - id: commit
+   level: community
+ - id: womenindevopses
+   level: community
+ - id: crossdvlup
+   level: community
+ - id: ceu
+   level: community
+ - id: ironhack
+   level: community
+ - id: malt
+   level: community
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: gold
+    label: Gold
+    max: 5
+
+  - id: gold-media
+    label: Gold (Media)
+    max: 5
+
+  - id: silver
+    label: Silver
+    max: 5
+
+  - id: bronze
+    label: Bronze
+    max: 10
+
+  - id: community
+    label: Community
+
+program:
+  #   Day 1
+  - title: "Registration"
+    type: custom
+    date: "2020-02-21"
+    start_time: "08:00"
+    end_time: "09:00"
+    background_color: "#FFFFFF"
+  - title: "Welcome Speech"
+    type: custom
+    date: "2020-02-21"
+    start_time: "09:00"
+    end_time: "09:15"
+    comments: "Main Track"
+    background_color: "#0082AB"
+  - title: "manuel-pais"
+    type: talk
+    date: "2020-02-21"
+    start_time: "09:15"
+    end_time: "10:00"
+    comments: "Main Track"
+    background_color: "#0082AB"
+
+
+  - title: "nicolas-frankel"
+    type: talk
+    date: "2020-02-21"
+    start_time: "10:15"
+    end_time: "11:00"
+    comments: "Track 1"
+    background_color: "#00C342"
+  - title: "russell-kaehler"
+    type: talk
+    date: "2020-02-21"
+    start_time: "10:15"
+    end_time: "11:00"
+    comments: "Track 2"
+    background_color: "#99E6FF"
+  - title: "paolo-minardi"
+    type: talk
+    date: "2020-02-21"
+    start_time: "10:15"
+    end_time: "11:00"
+    comments: "Track 3"
+    background_color: "#FF8300"
+
+  - title: "Coffee Break"
+    type: custom
+    date: "2020-02-21"
+    start_time: "11:00"
+    end_time: "11:30"
+
+  - title: "paul-stack"
+    type: talk
+    date: "2020-02-21"
+    start_time: "11:30"
+    end_time: "12:15"
+    comments: "Track 1"
+    background_color: "#00C342"
+  - title: "diany-palacios"
+    type: talk
+    date: "2020-02-21"
+    start_time: "11:30"
+    end_time: "12:15"
+    comments: "Track 2"
+    background_color: "#99E6FF"
+  - title: "sergio-navarro"
+    type: talk
+    date: "2020-02-21"
+    start_time: "11:30"
+    end_time: "12:15"
+    comments: "Track 3"
+    background_color: "#FF8300"
+
+  - title: "txetxu-velayos"
+    type: talk
+    date: "2020-02-21"
+    start_time: "12:30"
+    end_time: "13:15"
+    comments: "Track 1"
+    background_color: "#00C342"
+  - title: "thorsten-jakoby"
+    type: talk
+    date: "2020-02-21"
+    start_time: "12:30"
+    end_time: "13:15"
+    comments: "Track 2"
+    background_color: "#99E6FF"
+  - title: "dirk-lehmann"
+    type: talk
+    date: "2020-02-21"
+    start_time: "12:30"
+    end_time: "13:15"
+    comments: "Track 3"
+    background_color: "#FF8300"
+
+  - title: "giacomo-bagnoli"
+    type: talk
+    date: "2020-02-21"
+    start_time: "13:30"
+    end_time: "14:15"
+    comments: "Track 1"
+    background_color: "#00C342"
+  - title: "alejandro-garcia"
+    type: talk
+    date: "2020-02-21"
+    start_time: "13:30"
+    end_time: "14:15"
+    comments: "Track 2"
+    background_color: "#99E6FF"
+  - title: "andrey-devyatkin"
+    type: talk
+    date: "2020-02-21"
+    start_time: "13:30"
+    end_time: "14:15"
+    comments: "Track 3"
+    background_color: "#FF8300"
+
+  - title: "Lunch"
+    type: custom
+    date: "2020-02-21"
+    start_time: "14:15"
+    end_time: "15:00"
+  - title: "jessica-deen"
+    type: talk
+    date: "2020-02-21"
+    start_time: "15:00"
+    end_time: "16:00"
+    comments: "Main Track"
+    background_color: "#0082AB"
+  - title: "Open Spaces"
+    type: custom
+    date: "2020-02-21"
+    start_time: "16:00"
+    end_time: "19:00"
+    comments: "Room for Open Spaces"
+    background_color: "#ff3300"
+
+  - title: "juampy-nr"
+    type: talk
+    date: "2020-02-21"
+    start_time: "16:15"
+    end_time: "17:00"
+    comments: "Track 1"
+    background_color: "#00C342"
+  - title: "veronica-moreno"
+    type: talk
+    date: "2020-02-21"
+    start_time: "16:15"
+    end_time: "17:00"
+    comments: "Track 2"
+    background_color: "#99E6FF"
+  - title: "-"
+    type: custom
+    date: "2020-02-21"
+    start_time: "16:15"
+    end_time: "17:00"
+    comments: "Track 3"
+    background_color: "#FF8300"
+
+  - title: "pablo-chico"
+    type: talk
+    date: "2020-02-21"
+    start_time: "17:15"
+    end_time: "18:00"
+    comments: "Track 1"
+    background_color: "#00C342"
+  - title: "dave-macallister"
+    type: talk
+    date: "2020-02-21"
+    start_time: "17:15"
+    end_time: "18:00"
+    comments: "Track 2"
+    background_color: "#99E6FF"
+  - title: "miguel-angel-garcia"
+    type: talk
+    date: "2020-02-21"
+    start_time: "17:15"
+    end_time: "18:00"
+    comments: "Track 3"
+    background_color: "#FF8300"
+
+  - title: "viktor-farcic"
+    type: talk
+    date: "2020-02-21"
+    start_time: "18:15"
+    end_time: "19:15"
+    comments: "Main Track"
+    background_color: "#0082AB"
+  - title: "Closing"
+    type: custom
+    date: "2020-02-21"
+    start_time: "19:15"
+    end_time: "19:30"
+    comments: "Main Track"
+    background_color: "#0082AB"
+
+ignites:
+#- title: "laura-maguire-ignite"
+#  date: 2018-09-19

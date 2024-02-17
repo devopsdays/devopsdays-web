@@ -1,0 +1,98 @@
+name: "2020-krakow" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2020" # The year of the event. Make sure it is in quotes.
+city: "Kraków" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdays" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+event_logo: "logo-square.jpg"
+masthead_background: "dodkrakow-banner.jpg"
+description: "Devopsdays is coming to Kraków!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+
+# All dates are in unquoted 2020-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2020-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2020-09-03T09:00:00+02:00
+enddate: 2020-09-03T18:00:00+02:00
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start:  2019-12-09T00:00:00+02:00
+cfp_date_end:  2020-02-14T23:59:59+02:00
+cfp_date_announce: 2019-12-09T00:00:00+02:00
+
+cfp_link: "https://dodkrakow.pl/cfp/"
+
+registration_date_start: 2019-12-10T00:00:00+02:00
+registration_date_end: 2020-09-03T18:00:00+02:00
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://evenea.pl/event/dodkrakow2020/"
+
+# Location
+#
+coordinates: "50.056937, 19.963920"
+location: "ONLINE"
+#
+location_address: ""
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: registration
+  - name: sponsor
+    url: "mailto: karolina.murdza@proidea.pl"
+#  - name: location
+  - name: program
+    url: https://dodkrakow.pl/schedule/
+  - name: speakers
+    url: https://dodkrakow.pl/speakers/
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+
+
+team_members: # Name is the only required field for team members.
+  - name: "Jakub Barć"
+  - name: "Piotr Godowski"
+  - name: "Konrad Gądek"
+  - name: "Adam Kozłowski"
+  - name: "Marcin Lewandowski"
+  - name: "Michał Różycki"
+  - name: "Jacek Suchenia"
+  - name: "Tomasz Szymański"
+  - name: "Paulina Tomaszewska"
+  - name: "Sylwia Zając"
+
+organizer_email: "krakow@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: ibm
+    level: sponsor
+  - id: brainly
+    level: swag
+  - id: ccie
+    level: community
+  - id: berlin-baltic-nordic-net
+    level: community
+  - id: sysopspolska
+    level: community
+
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: sponsor
+    label: ""
+  - id: swag
+    label: Swag Partner
+  - id: community
+    label: Community

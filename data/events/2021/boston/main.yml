@@ -1,0 +1,310 @@
+name: "2021-boston" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2021" # The year of the event. Make sure it is in quotes.
+city: "Boston" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaysbos" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "DevOpsDays is returning to Boston!" # Edit this to suit your preferences
+ga_tracking_id: "UA-137417319-4" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2021-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2021-01-04T00:00:00+02:00
+#   variable: 2021-01-05T23:59:59+02:00
+# Note: we allow 2021-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: "2021-09-27T09:00:00-04:00" # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: "2021-09-28T17:00:00-04:00"  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: "2021-02-17T00:00:00Z" # start accepting talk proposals.
+cfp_date_end: "2021-04-02T23:59:00Z" # close your call for proposals.
+cfp_date_announce: "2021-02-17T00:00:00Z" # inform proposers of status
+
+cfp_link: "https://www.papercall.io/dodbos21" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: "2021-06-27T00:00:00Z" # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: "2021-09-28T00:00:00Z" # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://ti.to/devopsdaysbos/2021" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Boston" # Defaults to city, but you can make it the venue name.
+#
+location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+ # - name: propose
+ # - name: location
+ # - name: registration
+  - name: program
+  - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Michael Thomas Clark"
+    linkedin: http://www.linkedin.com/in/michaeltclark
+    twitter: "michaeltclark"
+    bio: "Michael is a veteran systems management professional. He has worked across multiple industry verticals as a software trainer, a front-line technician, a back-office engineer, an enterprise architect, and a manager of large-scale, global computing environments. His passions encompass envisioning, designing, building, and improving business and organizational systems of all varieties and at every scale. He is particularly passionate about helping systems professionals develop better ways to work together, improve the products they deliver, and most importantly, the culture of the workplaces in which we all labor."
+    image: "michaelclark.jpg"
+    employer: "Renaissance Tech & Media"
+
+  - name: "Don Luchini"
+    bio: "Don Luchini is a Boston-based DevOps engineer specializing in infrastructure management and deployment automation pipelines. Over the past ten years, he has acted in the corporate IT, quality assurance, software development, and release engineering spaces, encompassing a number of roles that now fall under the term DevOps. He currently works at SimpliSafe, a Boston-based manufacturer of connected home security systems. In his spare time, he is a martial artist, radio enthusiast, and hobby photographer."
+    github: "don-code"
+    image: "donluchini.jpg"
+
+  - name: "Michael D'Aniello"
+    twitter: "MikeDaniello"
+    linkedin: "http://www.linkedin.com/in/michaeldaniello"
+    bio: "Michael works as a Site Reliability Engineer for Carbon Black, a SaaS security company in the Boston area. He has a passion for all things surrounding cloud design and architecture, building tools with Go, automating infrastructure provisioning, and deployment automation pipelines. While not tinkering with tech he can be found pressing arcade stick buttons, or banging on drums."
+    github: "MichaelDaniello"
+    image: "michaelbio.jpg"
+
+  - name: "Paul Bruce"
+    bio: "Paul Bruce is a DevOps Advisor, helping to transform enterprise software teams and delivery practices. He currently serves in the role of Founder at Growgistics, is a working group member of IEEE P2675, daylights with the Neotys team as Dir. of Customer Engineer, moonlights as a Papa of two, and lives as a friend to all. He loves meat pies, picklebacks, and community work. His technical research wheelhouse includes cloud management, high availability service architecture, API design and experience, continuous testing at scale, and organizational learning frameworks. He writes, listens, and teaches about software delivery patterns in enterprises and key industries and F1000s around the world. You can learn more at: http://paulsbruce.io"
+    website: "http://paulsbruce.io"
+    image: "paulsbruce.jpg"
+
+  - name: "Adam Blackwell"
+    bio: "Adam is a DevOps Engineer at edX, he enjoys combining software and systems engineering to build and run large-scale fault-tolerant environments. Before joining edX, he spent time solving infrastructure and security problems at large and small financial organizations in Boston. When he's not at a laptop he can be found skiing tall mountains or exploring far away oceans."
+    linkedin: http://www.linkedin.com/in/adamblackwell
+    twitter: "adzuci"
+    github: "adzuci"
+    image: "adamblackwell.jpg"
+
+  - name: "Derek Buckley"
+    bio: "Derek is a Linux System Administrator with a passion for reducing waste and toil. With a background as a Lean certified Quality Inspector in manufacturing, he found a way to bring the joy of the Kaizen method to his passion of Linux and technological systems. He now works for PerkinElmer in the BioPharmacuitcal space to help accelerate the Scientists' research through making computational resources easy to obtain and use. Outside of the computer world he can be found doing photography with the Boston Area Photography group, cooking, or listening to a veriety of music."
+    gitlab: "dbuckley"
+    image: "derekbuckley.jpg"
+
+  - name: "Aaron Aldrich"
+    bio: "Aaron Aldrich is creator and host of Tabletop DevOps streaming occaisionally on twitch.tv/desertedislandtv, and an organizer for DevOpsDays Hartford, NYC and Boston. Passionate about Resilience Engineering and Mental Health in the tech industry, they believe that every technology problem is ultimately, when you get right down to it, a people challenge. Find them at crayzeigh.com for thoughts on technology and people or on twitter @CrayZeigh for a potluck of technology, politics and general tomfoolery."
+    twitter: "crayzeigh"
+    github: "crayzeigh"
+    website: "https://speaking.crayzeigh.com/"
+    image: "aaronaldritch.jpg"
+
+  - name: "Emily Zall"
+    bio: "Emily is a DevOps Detective and newly Kubernetes certified with CKA."
+    linkedin: https://www.linkedin.com/in/emily-zall/
+    image: "emilyzall.jpg"
+
+  - name: "Kate Ruh"
+    bio: "Kate works as a Site Reliability Engineer for Stavvy, a fintech company in the Boston area looking to modernize home closings. She has a passion for all things infrastructure and application security, and using emojis to get things done. While not at work, she’s working on a farm, playing with her two dogs, or biking through the streets of Massachusetts."
+    image: "kateruh.jpg"
+
+  - name: "Jirawat Uttayaya"
+    bio: "Jirawat is the DevOps practice lead at Rocket Insights. He started his career as a Java/Perl developer and through happenstance now works in DevOps."
+    image: "jirawat.jpg"
+    linkedin: https://www.linkedin.com/in/jirawat
+    github: "juttayaya"
+
+organizer_email: "boston@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: styra
+    level: platinum
+  - id: solo-before-20220919
+    level: platinum
+  - id: vmware-tanzu
+    level: platinum
+  - id: scout
+    level: platinum
+  - id: capitalone
+    level: platinum
+  - id: chef-before-20220901
+    level: platinum
+  - id: cloudtruth
+    level: platinum
+  - id: coralogix
+    level: platinum
+  - id: launch-darkly
+    level: alacarte
+  - id: river-point-technology
+    level: community
+
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: platinum
+    label: Platinum
+  - id: community
+    label: Community
+  - id: alacarte
+    label: Captioning and Live Graphics
+  - id: academic
+    label: Academic
+
+program:
+  # Day 1
+  - title: "Introduction"
+    type: custom
+    date: 2021-09-27
+    start_time: "09:00"
+    end_time: "09:20"
+  - title: "laura-santamaria"
+    type: talk
+    date: 2021-09-27
+    start_time: "09:20"
+    end_time: "10:00"
+  - title: "Breakout with Laura Santamaria"
+    type: open-space
+    date: 2021-09-27
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Is rolling your own AuthZ as bad as rolling your own Crypto? Breakout with Styra"
+    date: 2021-09-27
+    type: custom
+    start_time: "10:05"
+    end_time: "11:05"
+  - title: "eric-smalling"
+    type: talk
+    date: 2021-09-27
+    start_time: "10:05"
+    end_time: "10:45"
+  - title: "Breakout with Eric Smalling"
+    type: open-space
+    date: 2021-09-27
+    start_time: "10:45"
+    end_time: "11:15"
+  - title: "APM for startups: how do I implement quickly, then prove value just as quickly: Breakout with ScoutAPM"
+    date: 2021-09-27
+    type: custom
+    start_time: "10:50"
+    end_time: "11:50"
+  - title: "shelby-spees"
+    type: talk
+    date: 2021-09-27
+    start_time: "10:50"
+    end_time: "11:30"
+  - title: "Breakout with Shelby Spees"
+    type: open-space
+    date: 2021-09-27
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "CI/CD pipelines that automate manual change orders: Breakout with Capital One"
+    date: 2021-09-27
+    type: custom
+    start_time: "11:35"
+    end_time: "12:35"
+  - title: "mofizur-rahman"
+    type: talk
+    date: 2021-09-27
+    start_time: "11:35"
+    end_time: "12:15"
+  - title: "Breakout with Mofizur Rahman"
+    type: open-space
+    date: 2021-09-27
+    start_time: "12:15"
+    end_time: "12:45"
+  - title: "Breakout with Chef by Progress"
+    date: 2021-09-27
+    type: custom
+    start_time: "12:20"
+    end_time: "13:20"
+  - title: "angel-rivera"
+    type: talk
+    date: 2021-09-27
+    start_time: "12:20"
+    end_time: "13:00"
+  - title: "Breakout with Angel Rivera"
+    type: open-space
+    date: 2021-09-27
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Day 1 Wrap-Up"
+    type: custom
+    date: 2021-09-27
+    start_time: "13:30"
+    end_time: "13:45"
+
+  # Day 2
+  - title: "Introduction"
+    type: custom
+    date: 2021-09-28
+    start_time: "09:00"
+    end_time: "09:20"
+  - title: "michael-miles"
+    type: talk
+    date: 2021-09-28
+    start_time: "09:20"
+    end_time: "10:00"
+  - title: "Breakout with Michael Miles"
+    type: open-space
+    date: 2021-09-28
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "ben-ellerby"
+    type: talk
+    date: 2021-09-28
+    start_time: "10:05"
+    end_time: "10:45"
+  - title: "Breakout with Ben Ellerby"
+    type: open-space
+    date: 2021-09-28
+    start_time: "10:45"
+    end_time: "11:15"
+  - title: "How to Choose a Service Mesh: Breakout with Solo.io"
+    date: 2021-09-28
+    type: custom
+    start_time: "11:20"
+    end_time: "12:20"
+  - title: "chris-riley"
+    type: talk
+    date: 2021-09-28
+    start_time: "10:50"
+    end_time: "11:30"
+  - title: "Breakout with Chris Riley"
+    type: open-space
+    date: 2021-09-28
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Devs should not write Dockerfiles – focusing on the right abstractions: Breakout with VMware Tanzu"
+    date: 2021-09-28
+    type: custom
+    start_time: "11:35"
+    end_time: "12:35"
+  - title: "anurag-gupta"
+    type: talk
+    date: 2021-09-28
+    start_time: "11:35"
+    end_time: "12:15"
+  - title: "Breakout with Anurag Gputa"
+    type: open-space
+    date: 2021-09-28
+    start_time: "12:15"
+    end_time: "12:45"
+  - title: "How to process 500,000 real-time events per second in Kafka: Breakout with Coralogix"
+    date: 2021-09-28
+    type: custom
+    start_time: "12:20"
+    end_time: "13:20"
+  - title: "josh-stella"
+    type: talk
+    date: 2021-09-28
+    start_time: "12:20"
+    end_time: "13:00"
+  - title: "Breakout with Josh Stella"
+    type: open-space
+    date: 2021-09-28
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Day 2 Wrap-Up"
+    type: custom
+    date: 2021-09-28
+    start_time: "13:30"
+    end_time: "13:45"

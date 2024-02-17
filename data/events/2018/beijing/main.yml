@@ -1,0 +1,128 @@
+name: "2018-beijing" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2018" # The year of the event. Make sure it is in quotes.
+city: "Beijing" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdays" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays is coming to Beijing!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
+startdate: 2018-05-04T00:00:00+08:00
+enddate: 2018-05-05T23:59:59+08:00
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2018-01-29T00:00:00+08:00 # start accepting talk proposals.
+cfp_date_end: 2018-04-01T23:59:59+08:00 # close your call for proposals.
+cfp_date_announce: 2018-04-15T00:00:00+08:00 # inform proposers of status
+
+cfp_open: "true"
+cfp_link: "http://exinchina.mikecrm.com/xfAu6Qs" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: 2018-03-09T00:00:00+08:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2018-05-04T23:59:59+08:00 # close registration. Leave blank if registration is not open yet.
+
+registration_closed: false #set this to true if you need to manually close registration before your registration end date
+registration_link: "http://event.31huiyi.com/1281765435/index?c=ibpa" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "39.951406, 116.2793163" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Beijing - Empark Grand Hotel" # Defaults to city, but you can make it the venue name.
+#
+location_address: "69 Banjing Rd, Haidian Qu, China, 100097" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: propose
+  - name: location
+  - name: registration
+ # - name: program
+ # - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+  - name: china
+    url: http://chinadevopsdays.org
+    icon: star-o
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Sun Zhenpeng"
+    image: "sun-zhenpeng.jpg"
+    employer: "EXIN"
+    linkedin: "https://www.linkedin.com/in/sun-zhenpeng-90687311/"
+  - name: "Liu Zheng"
+    twitter: "martinliu"
+    employer: "Nuanix"
+    github: "martinliu"
+    linkedin: "http://www.linkedin.com/in/liuzheng"
+    website: "http://martinliu.cn"
+    image: "liu-zheng.jpg"
+  - name: "Lu Mengchun"
+    image: "lu-mengchun.jpg"
+    linkedin: "https://www.linkedin.com/in/emily-lu-8149a567/"
+  - name: "Wang Jun"
+    image: "wang-jun.jpg"
+    linkedin: "https://www.linkedin.com/in/wang-jun-Arthur"
+  - name: "Xu Feng"
+    linkedin: "https://www.linkedin.com/in/franklinxu/"
+    image: "xu-feng.jpg"
+  - name: "Zhang Le"
+    image: "zhang-le.jpg"
+    linkedin: "https://www.linkedin.com/in/le-zhang-121b256b/"
+    twitter: "overloadzy"
+  - name: "Wang Lijie"
+    image: "wang-lijie.jpg"
+    linkedin: "https://www.linkedin.com/in/lijie-wang-9984aba/"
+  - name: "Yao Dong"
+    #linkedin: "https://www.linkedin.com/in/franklinxu/"
+    image: "yao-dong.jpg"
+  - name: "Lin Weidan"
+    image: "lin-weidan.jpg"
+    linkedin: "https://www.linkedin.com/in/%E4%BC%9F%E4%B8%B9-%E6%9E%97-83175b114"
+    #twitter: "overloadzy"
+organizer_email: "organizers-beijing-2018@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-beijing-2018@devopsdays.org" # Put your proposal email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: alauda
+    level: gold
+  - id: jfrogcn
+    level: gold
+    url: http://www.jfrogchina.com
+  - id: huawei
+    level: gold
+    url: https://www.huaweicloud.com/devcloud/
+ #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: oschina
+    level: community
+  - id: ciotimes
+    level: community
+  - id: ibestpractice
+    level: co-org
+  - id: msup
+    level: co-org
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: gold
+    label: Gold
+    max: 10
+  - id: silver
+    label: Silver
+    max: 10 # This is the same as omitting the max limit.
+  - id: bronze
+    label: Bronze
+    max: 10
+  - id: co-org
+    label: Co-Orgnization
+  - id: community
+    label: Community

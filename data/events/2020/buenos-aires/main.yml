@@ -1,0 +1,105 @@
+name: "2020-buenos-aires" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2020" # The year of the event. Make sure it is in quotes.
+city: "Buenos Aires" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaysbsas" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "1st Edition of DevOpsDays is coming to Buenos Aires!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+cancel: "true"
+
+# All dates are in unquoted 2020-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2020-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: '' # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: '' # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2020-07-17T00:00:00-03:00 # start accepting talk proposals.
+cfp_date_end: 2020-09-01T15:00:00-03:00 # close your call for proposals.
+cfp_date_announce: 2020-09-15T23:59:00-03:00 # inform proposers of status
+
+cfp_link: "https://www.papercall.io/devopsdaysba" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: # close registration. Leave blank if registration is not open yet.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "-34.6093307, -58.4249127" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Online" # Defaults to city, but you can make it the venue name.
+#
+location_address: "TBD" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: location
+ # - name: registration
+ # - name: program
+  - name: propose
+    url: "https://www.papercall.io/devopsdaysba"
+ # - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Carolina Hernandez"
+    employer: "Nerdcube"
+    twitter: "carohernandezc"
+    linkedin: "https://www.linkedin.com/in/carolina-hernandezcorona/"
+  - name: "Diego Woitasen"
+    employer: "flugel.it"
+    twitter: "diegowoitasen"
+    linkedin: "http://www.linkedin.com/in/diegows"
+  - name: "Ernesto Corona"
+    employer: "D-vops"
+    twitter: "rnest"
+    linkedin: "http://www.linkedin.com/in/ecorona"
+  - name: "Guillermo Parodi"
+    employer: "CDT"
+    linkedin: "https://www.linkedin.com/in/guillermo-h%C3%A9ctor-parodi-0174484/"
+  - name: "Hernam Mercado"
+    employer: "CDT"
+    twitter: "hfmercado"
+    linkedin: "https://www.linkedin.com/in/hmercado/"
+  - name: "Jairo Jovanovich"
+    employer: "CDT"
+    twitter: "JovaJa"
+    linkedin: "https://www.linkedin.com/in/jairo-jovanovich-4488112a/"
+  - name: "Romina Lombardi"
+    employer: "Exentia"
+    twitter: "rllombardi"
+    linkedin: "https://www.linkedin.com/in/rlombardi/"
+
+organizer_email: "buenos-aires@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: d-Vops
+    level: silver
+    url: https://www.d-vops.com/
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: diamond
+    label: diamond
+  - id: silver
+    label: Silver
+  - id: bronze
+    label: Bronze
+  - id: community
+    label: Community

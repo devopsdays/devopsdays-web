@@ -1,0 +1,574 @@
+name: "2019-amsterdam" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2019" # The year of the event. Make sure it is in quotes.
+city: "Amsterdam" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsams" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "devopsdays Amsterdam is back for the 7th time!" # Edit this to suit your preferences
+ga_tracking_id: "UA-38891729-3" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2019-06-26T00:00:00+02:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2019-06-28T23:59:59+02:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2019-01-10T00:00:00+01:00 # start accepting talk proposals.
+cfp_date_end: 2019-04-01T23:59:59+02:00 # close your call for proposals.
+cfp_date_announce: 2019-04-14T23:59:59+02:00 # inform proposers of status
+
+cfp_open: "true"
+cfp_link: "https://sessionize.com/dodams2019/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: 2019-01-10T00:00:00+01:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2019-06-25T23:59:59+02:00 # close registration. Leave blank if registration is not open yet.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+# Note: We use the HTML iframe solution to also advertise that we have direct to invoice as an option.
+#registration_link: "https://dodams2019.eventbrite.com" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "52.376862, 4.922078" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Pakhuis de Zwijger - Amsterdam" # Defaults to city, but you can make it the venue name.
+#
+location_address: "Piet Heinkade 179, 1019 HC Amsterdam" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+masthead_background: "skyline-ams.jpg"
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: slack
+    url: http://bit.do/slackdodams
+  - name: propose
+  - name: location
+  - name: registration
+  - name: program
+  - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Thomas Krag"
+    twitter: "vikingopsio"
+  - name: "Harm Boertien"
+    twitter: "Harm_Ops"
+  - name: "Yvo van Doorn"
+    twitter: "yvov"
+  - name: "Gérard de Vos"
+    twitter: "gerardthefox"
+  - name: "Mine Heck"
+    twitter: "Mine_Akman"
+  - name: "Wilco Noordermeer"
+    twitter: "northernlake"
+  - name: "Peter Nijenhuis"
+    twitter: "Peter_Nijenhuis"
+  - name: "Chris Lennon"
+    twitter: "cdlennon"
+  - name: "Daniel Paulus"
+    twitter: "dpnl87"
+  - name: "Greg Trahair"
+    twitter: "geogdog"
+  - name: "Sarah Gruneisen"
+    twitter: "avagasso"
+  - name: "Jonah Meijers"
+    twitter: "stampherr"
+  - name: "Sheela Nistala"
+    twitter: "sheelanistala"
+  - name: "Sean Bovaird"
+    twitter: "srbovaird"
+
+organizer_email: "amsterdam@devopsdays.org" # Put your organizer email address here
+# proposal_email: "proposals-amsterdam-2019@devopsdays.org" # Put your proposal email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  # BBQ
+  - id: schubergphilis-before-20220319
+    level: BBQ
+  # Beer
+  - id: newrelic-before-20220808-before-20220808
+    level: beer
+  # Coffee
+  - id: sentia
+    level: coffee
+  # Golds
+  - id: f5
+    level: gold
+  - id: newrelic-before-20220808-before-20220808
+    level: gold
+  - id: kpn-ict
+    level: gold
+  - id: capgemini
+    level: gold
+  - id: influxdata-before-20220629
+    level: gold
+  - id: pivotal
+    level: gold
+  - id: chef-before-20210112
+    level: gold
+  - id: vmware
+    level: gold
+  - id: googlecloud-before-20220526
+    level: gold
+  - id: microsoft
+    level: gold
+  # Silver
+  - id: valtech
+    level: silver
+  - id: portworx-before-20220630
+    level: silver
+  - id: aqua_sec
+    level: silver
+  - id: saucelabs
+    level: silver
+  - id: devoteam
+    level: silver
+  - id: eficode-before-20211021
+    level: silver
+  - id: cyberark
+    level: silver
+  - id: dasa
+    level: silver
+    # Recharge
+  - id: leaseweb
+    level: recharge
+  # Lanyards
+  - id: developers-nl
+    level: lanyard
+  # foodtrucks
+  - id: f5
+    level: foodtrucks
+  - id: fullstaq
+    level: foodtrucks
+  - id: tergos
+    level: foodtrucks
+  # Wine
+  - id: indigo-amsterdam
+    level: wine
+  # Bronze
+  - id: utilus
+    level: bronze
+  - id: s0l1dheroes
+    level: bronze
+  - id: working-spirit
+    level: bronze
+  - id: inuits
+    level: bronze
+  - id: thoughtworks-services
+    level: bronze
+  - id: eg_innovations
+    level: bronze
+  - id: xebia
+    level: bronze
+  - id: acellere
+    level: bronze
+  - id: jfrog
+    level: bronze
+  - id: monkeyswithbuttons
+    level: bronze
+
+sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: BBQ
+    label: BBQ
+    max: 1
+  - id: beer
+    label: Beer
+    max: 1
+  - id: coffee
+    label: Coffee
+    max: 1
+  - id: gold
+    label: Gold
+    max: 8
+  - id: silver
+    label: Silver
+    max: 7
+  - id: recharge
+    label: "Power recharge"
+    max: 1
+  - id: lanyard
+    label: Lanyard
+    max: 1
+  - id: foodtrucks
+    label: "Food Trucks"
+    max: 3
+  - id: wine
+    label: "Wine"
+    max: 1
+  - id: bronze
+    label: Bronze
+
+program:
+  # workshop day
+  - title: "Registration (workshop day)"
+    type: custom
+    date: 2019-06-26
+    start_time: "08:00"
+    end_time: "09:00"
+
+  #9:00 to 11:30
+  - title: "emile-vanhaaren-susanne-meerdink"
+    type: workshop
+    date: 2019-06-26
+    start_time: "09:00"
+    end_time: "11:30"
+    comments: "Location: Workspace (2nd floor)"
+  - title: "david-mckay"
+    type: workshop
+    date: 2019-06-26
+    start_time: "09:00"
+    end_time: "11:30"
+    comments: "Location: Grote Zaal (2nd floor)"
+  - title: "wim-bonthuis"
+    type: workshop
+    date: 2019-06-26
+    start_time: "09:00"
+    end_time: "11:30"
+    comments: "Location: Expo (1st floor)"
+  - title: "mikhail-advani"
+    type: workshop
+    date: 2019-06-26
+    start_time: "09:00"
+    end_time: "11:30"
+    comments: "Location: Studio (5th floor)"
+  - title: "michael-ducy"
+    type: workshop
+    date: 2019-06-26
+    start_time: "09:00"
+    end_time: "11:30"
+    comments: "Location: Meeting Room (2nd floor)"
+  - title: "nancy-beers"
+    type: workshop
+    date: 2019-06-26
+    start_time: "09:00"
+    end_time: "11:30"
+    comments: "Location: IJ Zaal (5th floor)"
+
+  # Lunch
+  - title: "Lunch Express (Fast) Break"
+    type: custom
+    date: 2019-06-26
+    start_time: "11:30"
+    end_time: "12:00"
+
+  # 12:00 to 14:30
+  - title: "anton-babenko-ws"
+    type: workshop
+    date: 2019-06-26
+    start_time: "12:00"
+    end_time: "14:30"
+    comments: "Location: Grote Zaal (2nd floor)"
+  - title: "nathen-harvey"
+    type: workshop
+    date: 2019-06-26
+    start_time: "12:00"
+    end_time: "14:30"
+    comments: "Location: IJ Zaal (5th floor)"
+  - title: "martijn-vandongen-ws1"
+    type: workshop
+    date: 2019-06-26
+    start_time: "12:00"
+    end_time: "14:30"
+    comments: "Location: Foyer (5th floor)"
+  - title: "phillipp-krenn"
+    type: workshop
+    date: 2019-06-26
+    start_time: "12:00"
+    end_time: "14:30"
+    comments: "Location: Studio (5th floor)"
+  - title: "jude-pereira"
+    type: workshop
+    date: 2019-06-26
+    start_time: "12:00"
+    end_time: "14:30"
+    comments: "Location: Expo (1st floor)"
+  - title: "daniel-maher"
+    type: workshop
+    date: 2019-06-26
+    start_time: "12:00"
+    end_time: "14:30"
+    comments: "Location: Workspace (2nd floor)"
+
+  # break
+  - title: "Break"
+    type: custom
+    date: 2019-06-26
+    start_time: "14:30"
+    end_time: "14:45"
+
+  # 14:45 to 17:15
+  - title: "yan-cui-ws"
+    type: workshop
+    date: 2019-06-26
+    start_time: "14:45"
+    end_time: "17:15"
+    comments: "Location: IJ Zaal (5th floor)"
+  - title: "martijn-vandongen-ws2"
+    type: workshop
+    date: 2019-06-26
+    start_time: "14:45"
+    end_time: "17:15"
+    comments: "Location: Foyer (5th floor)"
+  - title: "jason-yee-ws"
+    type: workshop
+    date: 2019-06-26
+    start_time: "14:45"
+    end_time: "17:15"
+    comments: "Location: Expo (1st floor)"
+  - title: "andrew-martin"
+    type: workshop
+    date: 2019-06-26
+    start_time: "14:45"
+    end_time: "17:15"
+    comments: "Location: Grote Zaal (2nd floor)"
+  - title: "matteo-pierro-nelis-boucke"
+    type: workshop
+    date: 2019-06-26
+    start_time: "14:45"
+    end_time: "17:15"
+    comments: "Location: Studio (5th floor)"
+
+  # end of day
+  - title: "Have a beer on us!"
+    type: custom
+    date: 2019-06-26
+    start_time: "17:15"
+    end_time: "18:30"
+    comments: "Pakhuis de Zwijger bar"
+
+  # conference day 1
+  - title: "Registration"
+    type: custom
+    date: 2019-06-27
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "sheela-nistala"
+    type: talk
+    date: 2019-06-27
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "charity-majors"
+    type: talk
+    date: 2019-06-27
+    start_time: "09:15"
+    end_time: "09:55"
+  - title: "bernd-erk"
+    type: talk
+    date: 2019-06-27
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Break"
+    type: custom
+    date: 2019-06-27
+    start_time: "10:30"
+    end_time: "10:45"
+  - title: "joep-piscaer"
+    type: talk
+    date: 2019-06-27
+    start_time: "10:50"
+    end_time: "11:20"
+  - title: "aras-bilgen"
+    type: talk
+    date: 2019-06-27
+    start_time: "11:25"
+    end_time: "11:55"
+  - title: "Lunch Break"
+    type: custom
+    date: 2019-06-27
+    start_time: "12:00"
+    end_time: "13:00"
+  - title: "yan-cui"
+    type: talk
+    date: 2019-06-27
+    start_time: "13:05"
+    end_time: "13:35"
+  - title: "Ignites Day 1"
+    type: ignite
+    date: 2019-06-27
+    start_time: "13:40"
+    end_time: "14:00"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2019-06-27
+    start_time: "14:00"
+    end_time: "15:00"
+  - title: "open-space-one-day-one"
+    type: talk
+    date: 2019-06-27
+    start_time: "15:00"
+    end_time: "15:30"
+    backgroud_color: "#ffb566"
+  - title: "debra-dejong"
+    type: talk
+    date: 2019-06-27
+    start_time: "15:00"
+    end_time: "15:30"
+    comments: "Security Track | Location: Grote Zaal"
+  - title: "open-space-two-day-one"
+    type: talk
+    date: 2019-06-27
+    start_time: "15:35"
+    end_time: "16:05"
+    backgroud_color: "#ffb566"
+  - title: "seth-vargo-sec"
+    type: talk
+    date: 2019-06-27
+    start_time: "15:35"
+    end_time: "16:05"
+    comments: "Security Track | Location: Grote Zaal"
+  - title: "open-space-three-day-one"
+    type: talk
+    date: 2019-06-27
+    start_time: "16:10"
+    end_time: "16:40"
+    backgroud_color: "#ffb566"
+  - title: "chris-vantuin"
+    type: talk
+    date: 2019-06-27
+    start_time: "16:10"
+    end_time: "16:40"
+    comments: "Security Track | Location: Grote Zaal"
+  - title: "Close Day / Wrap Up"
+    type: custom
+    date: 2019-06-27
+    start_time: "16:45"
+    end_time: "17:00"
+  - title: "BBQ / Evening Event"
+    type: custom
+    date: 2019-06-27
+    start_time: "17:00"
+    end_time: "21:00"
+    comments: "Location: Pakhuis de Zwijger courtyard"
+
+  # day 2
+  - title: "Registration, Breakfast, and Sponsor Booths Open"
+    type: custom
+    date: 2019-06-28
+    start_time: "08:00"
+    end_time: "09:00"
+
+  - title: "Day 2 Welcome"
+    type: custom
+    date: 2019-06-28
+    start_time: "09:00"
+    end_time: "09:15"
+
+  - title: "eric-han"
+    type: talk
+    date: 2019-06-28
+    start_time: "09:15"
+    end_time: "09:55"
+
+  - title: "thiago-defaria"
+    type: talk
+    date: 2019-06-28
+    start_time: "10:00"
+    end_time: "10:30"
+
+  - title: "Break"
+    type: custom
+    date: 2019-06-28
+    start_time: "10:30"
+    end_time: "10:45"
+
+  - title: "tarah-cleveland"
+    type: talk
+    date: 2019-06-28
+    start_time: "10:50"
+    end_time: "11:20"
+
+  - title: "matty-stratton"
+    type: talk
+    date: 2019-06-28
+    start_time: "11:25"
+    end_time: "11:55"
+
+  - title: "Lunch Break"
+    type: custom
+    date: 2019-06-28
+    start_time: "12:00"
+    end_time: "13:00"
+
+  - title: "seth-vargo"
+    type: talk
+    date: 2019-06-28
+    start_time: "13:05"
+    end_time: "13:35"
+
+  - title: "Ignites Day 2"
+    type: ignite
+    date: 2019-06-28
+    start_time: "13:40"
+    end_time: "14:00"
+  - title: "Open Space Planning"
+    type: open-space
+    date: 2019-06-28
+    start_time: "14:05"
+    end_time: "14:45"
+  - title: "open-space-one-day-two"
+    backgroud_color: "#ffb566"
+    type: talk
+    date: 2019-06-28
+    start_time: "15:00"
+    end_time: "15:30"
+  - title: "adam-sandor"
+    type: talk
+    date: 2019-06-28
+    start_time: "15:00"
+    end_time: "15:30"
+    comments: "Tech Track | Location: Grote Zaal"
+  - title: "open-space-two-day-two"
+    backgroud_color: "#ffb566"
+    type: talk
+    date: 2019-06-28
+    start_time: "15:35"
+    end_time: "16:05"
+  - title: "ricardo-castro"
+    type: talk
+    date: 2019-06-28
+    start_time: "15:35"
+    end_time: "16:05"
+    comments: "Tech Track | Location: Grote Zaal"
+  - title: "open-space-three-day-two"
+    backgroud_color: "#ffb566"
+    type: talk
+    date: 2019-06-28
+    start_time: "16:10"
+    end_time: "16:40"
+  - title: "michael-russell"
+    type: talk
+    date: 2019-06-28
+    start_time: "16:10"
+    end_time: "16:40"
+    comments: "Tech Track | Location: Grote Zaal"
+  - title: "Close 6th anniversary of devopsdays Amsterdam"
+    type: custom
+    date: 2019-06-28
+    start_time: "16:45"
+    end_time: "17:00"
+
+ignites:
+  - title: "jason-yee-ig"
+    date: 2019-06-27
+  - title: "anton-babenko-ig"
+    date: 2019-06-27
+  - title: "phillipp-krenn-ig"
+    date: 2019-06-27
+  - title: "michael-cote"
+    date: 2019-06-28
+  - title: "noam-tenne"
+    date: 2019-06-28
+  - title: "alessandro-vozza"
+    date: 2019-06-28

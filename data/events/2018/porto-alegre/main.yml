@@ -1,0 +1,303 @@
+name: "2018-porto-alegre" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2018" # The year of the event. Make sure it is in quotes.
+city: "Porto Alegre" # The displayed city name of the event. Capitalize it.
+event_twitter: "poadevopsday" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "a vida é muito curta pra trabalho manual"
+ga_tracking_id: "UA-85374985-2" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T01:02:03-05:00#
+startdate: 2018-09-15T00:00:00-03:00
+enddate: 2018-09-15T23:59:59-03:00
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2018-04-07T00:00:00-03:00
+cfp_date_end: 2018-07-15T23:59:59-03:00
+cfp_date_announce: 2018-08-01T00:00:00-03:00
+
+cfp_open: "false"
+cfp_link: "https://www.papercall.io/devopsdayspoa2018" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start:
+registration_date_end:
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+masthead_background: "panoramaanoite.jpg"
+
+# Location
+#
+coordinates: "-30.033101,-51.121621" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "UniRitter/FAPA - Porto Alegre" # Defaults to city, but you can make it the venue name.
+#
+location_address: "Av. Manoel Elias, 2001 - Passo das Pedras" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+#  - name: poa.devopsdays.com.br
+#    url: http://poa.devopsdays.com.br/
+#    icon: "sitemap"
+#    url: http://poa.devopsdays.com.br/#informacoes
+  - name: Palestrantes
+    icon: "microphone"
+    url: /events/2018-porto-alegre/speakers
+  - name: Programação
+    icon: "book"
+    url: /events/2018-porto-alegre/program
+  - name: Local
+    icon: "map-o"
+    url: /events/2018-porto-alegre/location
+#  - name: Palestre (CFP)
+#    icon: "microphone"
+#    url: /events/2018-porto-alegre/cfp
+  - name: Conduta
+    icon: "handshake-o"
+    url: /events/2018-porto-alegre/conduta
+  - name: Inscreva-se
+    icon: "user-plus"
+    url: https://devopsdayspoa2018.eventize.com.br/index.php?pagina=4
+  - name: Patrocinio
+    icon: "money"
+    url: /events/2018-porto-alegre/sponsor
+  - name: Contato
+    icon: "envelope-o"
+    url: /events/2018-porto-alegre/contato/
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Marco Antonio Martins Junior"
+    employer: ""
+    twitter: "somatorio"
+    bio: ""
+    image: "marco-junior.jpg"
+
+  - name: "Cristiano Diedrich"
+    employer: ""
+    twitter: "mundodocker"
+    bio: ""
+
+  - name: "Rafael Gomes"
+    employer: ""
+    twitter: "gomex"
+    bio: "Soteropolitano, hacker urbano, pai, consultor de infraestrutura e amante da cidade, formado na Universidade de Salvador no curso de Gestão de Redes.</br>Trabalho atualmente como especialista focado em infraestrutura como código, cultura devops e cloud.</br>[Docker Captain](https://www.docker.com/community/docker-captains)</br>Autor do livro [\"Docker para desenvolvedores\"](https://leanpub.com/dockerparadesenvolvedores)"
+    image: "rafael-gomes.jpg"
+
+  - name: "Guilherme Elias"
+    employer: ""
+    twitter: "guilhermelias"
+    bio: ""
+
+  - name: "Sebastian Webber"
+    employer: ""
+    twitter: "sebawebber"
+    bio: ""
+
+  - name: "Camilla Martins"
+    employer: ""
+    twitter: "bayerndadepress"
+    bio: "Paulista, santista e alucinada pela Marvel. Fundadora da iniciativa NodeGirls e coordenadora do GDG Porto Alegre. Formada em ADS, trabalho como Software Engineer na Umbler e sou desenvolvedora freelancer há mais de 5 anos, atualmente com foco em fullstack development. Nas horas vagas, estou codando (também!) e cuidando de felinos e ratinhos de estimação."
+
+organizer_email: "organizers-porto-alegre-2018@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-porto-alegre-2018@devopsdays.org" # Put your proposal email address here
+
+sponsors:
+  - id: arresteddevops
+    level: community
+  - id: umbler
+    level: bronze
+  - id: afropython
+    level: community
+  - id: docker-porto-alegre
+    level: community
+  - id: nodegirlscode
+    level: community
+  - id: nodejs-porto-alegre
+    level: community
+  - id: interop
+    level: gold
+  - id: kinghost
+    level: community
+  - id: packet
+    level: community
+  - id: accera
+    level: gold
+  - id: pydata-poa
+    level: community
+  - id: neogrid
+    level: silver
+  - id: thoughtworks-services
+    level: silver
+  - id: adp
+    level: silver
+  - id: linuxforall
+    level: community
+  - id: arqti
+    level: community
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: platinum
+    label: Platina
+    max: 1
+#    - id: happy_hour
+#    label: Happy Hour
+#    max: 1
+  - id: gold
+    label: Ouro
+    max: 2
+  - id: silver
+    label: Prata
+    max: 3
+  - id: bronze
+    label: Bronze
+  - id: community
+    label: Comunidade
+
+
+
+
+program:
+  - title: "Credenciamento e coffee"
+    type: custom
+    date: "2018-09-15"
+    start_time: "8:00"
+    end_time: "9:00"
+
+  - title: "Abertura"
+    type: custom
+    date: "2018-09-15"
+    start_time: "9:00"
+    end_time: "9:20"
+
+  - title: "fernando-ike"
+    type: talk
+    date: "2018-09-15"
+    start_time: "9:25"
+    end_time: "9:55"
+
+  - title: "julia-lamenza"
+    type: talk
+    date: "2018-09-15"
+    start_time: "10:00"
+    end_time: "10:15"
+
+  - title: "rodrigo-hurtado"
+    type: talk
+    date: "2018-09-15"
+    start_time: "10:20"
+    end_time: "10:35"
+
+  - title: "wellington-silva"
+    type: talk
+    date: "2018-09-15"
+    start_time: "10:40"
+    end_time: "10:55"
+
+  - title: "natalia-raythz"
+    type: talk
+    date: "2018-09-15"
+    start_time: "11:00"
+    end_time: "11:15"
+
+  - title: "kelvin-ronny"
+    type: talk
+    date: "2018-09-15"
+    start_time: "11:15"
+    end_time: "11:30"
+
+  - title: "Perguntas"
+    type: custom
+    date: "2018-09-15"
+    start_time: "11:30"
+    end_time: "11:45"
+
+  - title: "Almoço"
+    type: custom
+    date: "2018-09-15"
+    start_time: "11:50"
+    end_time: "12:50"
+
+  - title: "carla-souza"
+    type: talk
+    date: "2018-09-15"
+    start_time: "12:55"
+    end_time: "13:25"
+
+  - title: "fernando-silva"
+    type: talk
+    date: "2018-09-15"
+    start_time: "13:30"
+    end_time: "13:45"
+
+  - title: "elias-nogueira"
+    type: talk
+    date: "2018-09-15"
+    start_time: "13:50"
+    end_time: "14:05"
+
+  - title: "jairo-junior"
+    type: talk
+    date: "2018-09-15"
+    start_time: "14:10"
+    end_time: "14:25"
+
+  - title: "Perguntas"
+    type: custom
+    date: "2018-09-15"
+    start_time: "10:20"
+    end_time: "10:35"
+
+  - title: "Coffee Break"
+    type: custom
+    date: "2018-09-15"
+    start_time: "14:45"
+    end_time: "14:55"
+
+  - title: "Ignite Talks"
+    type: ignite
+    date: "2018-09-15"
+    start_time: "15:00"
+    end_time: "15:30"
+
+  - title: "Open Spaces"
+    type: open-space
+    date: "2018-09-15"
+    start_time: "15:30"
+    end_time: "16:10"
+
+  - title: "Fishbowl"
+    type: custom
+    date: "2018-09-15"
+    start_time: "16:15"
+    end_time: "16:55"
+
+  - title: "Encerramento"
+    type: custom
+    date: "2018-09-15"
+    start_time: "17:00"
+    end_time: "17:20"
+
+  - title: "Happy Hour"
+    type: custom
+    date: "2018-09-15"
+    start_time: "17:30"
+    end_time: "22:00"
+
+
+ignites:
+  - title: "marco-junior"
+    date: "2018-09-15"
+
+  - title: "uriel-ricardo"
+    date: "2018-09-15"
+
+  - title: "cassio-almeida"
+    date: "2018-09-15"
+
+  - title: "joao-assis"
+    date: "2018-09-15"

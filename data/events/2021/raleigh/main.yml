@@ -1,0 +1,246 @@
+name: "2021-raleigh" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2021" # The year of the event. Make sure it is in quotes.
+city: "Raleigh" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaysrdu" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays is coming to raleigh!" # Edit this to suit your preferences
+ga_tracking_id: "UA-145344467-1" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2021-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2021-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2021-04-08T08:00:00-04:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2021-04-08T23:59:59-04:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2020-10-14T00:00:00-04:00  # start accepting talk proposals.
+cfp_date_end: 2020-12-19T01:00:00-04:00 # close your call for proposals.
+cfp_date_announce: 2021-01-15T23:59:59-04:00 # inform proposers of status
+
+cfp_link: "https://docs.google.com/forms/d/e/1FAIpQLSeobhePrK8d6t3AcUSaxdHstLaCba3Ey5UFbPV4ego4R11hMQ/viewform?usp=sf_link" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: 2020-10-14T00:00:00-04:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2021-04-08T23:59:59-04:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://www.eventbrite.com/e/devopsdays-raleigh-2021-tickets-124429360567" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "35.782780, -78.685187" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "virtual" # Defaults to city, but you can make it the venue name.
+#
+#location_address: "1101 Gorman Street, Raleigh, NC 27606" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+ # - name: propose
+ #   url: "https://docs.google.com/forms/d/e/1FAIpQLSeobhePrK8d6t3AcUSaxdHstLaCba3Ey5UFbPV4ego4R11hMQ/viewform"
+ # - name: location
+  - name: registration
+    url: "https://www.eventbrite.com/e/devopsdays-raleigh-2021-tickets-124429360567"
+  - name: program
+  - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Chris Knotts"
+    employer: "ASPE"
+    linkedin: "https://www.linkedin.com/in/chris-knotts/"
+    image: "chris-knotts.jpg"
+  - name: "Josh Atwell"
+    twitter: "Josh_Atwell"
+    image: "josh-atwell.jpg"
+  - name: "Nirmal Mehta"
+    twitter: "normalfaults"
+    github: "normalfaults"
+    website: "https://nirmal.io"
+    linkedin: "https://www.linkedin.com/in/nirmalkmehta"
+    image: "nirmal-mehta.jpg"
+  - name: "Katie Cothran"
+    twitter: "k_cothran"
+    employer: "ASPE"
+    linkedin: "https://www.linkedin.com/in/kathleencothran/"
+    image: "katie-cothran.jpg"
+  - name: "Jason Hibbets"
+    twitter: "jhibbets"
+    github: "jhibbets"
+    website: "https://www.redhat.com/sysadmin/"
+    employer: "Red Hat"
+    image: "jason-hibbets.jpg"
+  - name: "Chris Bailey"
+    twitter: "seebails"
+    github: "nonstickzan"
+    image: "chris-bailey.jpg"
+  - name: "Kyle Anderson"
+    employer: "ASPE"
+    image: "kyle-anderson.jpg"
+    linkedin: "https://www.linkedin.com/in/kylewjanderson/"
+  - name: "RJ Williams"
+    linkedin: "https://www.linkedin.com/in/robertwilliamsjunior"
+    employer: "ASPE"
+    image: "rj-williams.jpg"
+  - name: "Craig Cook"
+    twitter: "CraigCookIT"
+    website: "https://www.linkedin.com/in/craigcookit/"
+    employer: "IBM"
+    image: "craig-cook.jpg"
+  - name: "Madeline Streicher"
+    linkedin: "https://www.linkedin.com/in/madelinestreicher"
+    image: "madeline-streicher.jpg"
+  - name: "John Mark Ivey"
+    employer: "Skyline ATS"
+    twitter: "JohnMarkIvey"
+    linkedin: "https://www.linkedin.com/in/johnmarkivey/"
+    website: "https://medium.com/@gkjohnmarkivey"
+    facebook: "https://www.facebook.com/jmivey"
+    image: "johnmark-ivey.jpg"
+
+organizer_email: "raleigh@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: triangledevops
+    level: community
+  - id: cprime
+    level: premiere
+  - id: chaossearch
+    level: premiere
+  - id: trilio
+    level: premiere
+  - id: stackhawk
+    level: exhibitor
+  - id: morpheus
+    level: sponsor
+  - id: citrix
+    level: premiere
+  - id: sonatype
+    level: exhibitor
+    
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: premiere
+    label: Premiere Supporter
+  - id: exhibitor
+    label: Virtual Exhibitor
+#    max: 10
+  - id: sponsor
+    label: Virtual Sponsor
+    # max: 0 # This is the same as omitting the max limit.
+  - id: community
+    label: Community Sponsor
+
+program:
+  - title: "Opening Welcome"
+    type: custom
+    date: 2021-04-08
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "josh-stella"
+    type: talk
+    date: 2021-04-08
+    start_time: "09:10"
+    end_time: "09:40"
+  - title: "ricardo-castro"
+    type: talk
+    date: 2021-04-08
+    start_time: "09:10"
+    end_time: "09:40"
+  - title: "Sponsors"
+    type: custom
+    date: 2021-04-08
+    start_time: "09:40"
+    end_time: "09:50"
+  - title: "jason-yee"
+    type: talk
+    date: 2021-04-08
+    start_time: "09:50"
+    end_time: "10:20"
+  - title: "pj-hagerty"
+    type: talk
+    date: 2021-04-08
+    start_time: "09:50"
+    end_time: "10:20"
+  - title: "Sponsor Remarks"
+    type: custom
+    date: 2021-04-08
+    start_time: "10:20"
+    end_time: "10:30"
+  - title: "alan-koch"
+    type: workshop
+    date: 2021-04-08
+    start_time: "10:30"
+    end_time: "12:00"
+  - title: "kate-wardin"
+    type: talk
+    date: 2021-04-08
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "Break/networking"
+    type: open-space
+    date: 2021-04-08
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "dave-mcallister"
+    type: talk
+    date: 2021-04-08
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch Break"
+    type: custom
+    date: 2021-04-08
+    start_time: "12:00"
+    end_time: "12:30"
+  - title: "Ignites"
+    type: ignite
+    date: 2021-04-08
+    start_time: "12:30"
+    end_time: "13:00"
+  - title: "david-dang"
+    type: workshop
+    date: 2021-04-08
+    start_time: "13:00"
+    end_time: "14:30"
+  - title: "baruch-sadogursky"
+    type: talk
+    date: 2021-04-08
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Break"
+    type: open-space
+    date: 2021-04-08
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "waldo-grunenwald"
+    type: talk
+    date: 2021-04-08
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: "Closing Remarks"
+    type: custom
+    date: 2021-04-08
+    start_time: "14:30"
+    end_time: "14:45"
+
+ignites:
+  - title: "jason-yee-ignite"
+    date: 2021-04-08
+  - title: "mirza-dautbegovic"
+    date: 2021-04-08
+  - title: "nick-kane-ignite"
+    date: 2021-04-08
+  - title: "alan-koch-ignite"
+    date: 2021-04-08

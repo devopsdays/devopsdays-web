@@ -1,0 +1,330 @@
+name: "2021-buffalo" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2021" # The year of the event. Make sure it is in quotes.
+city: "Buffalo" # The displayed city name of the event. Capitalize it.
+event_twitter: "DevOpsDaysBUF" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "DevOpsDays Buffalo is back for another unique conference experience!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2020-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2020-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2021-10-13T00:08:00-04:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2021-10-14T19:00:00-04:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start:  2021-06-01T23:59:59-05:00 # start accepting talk proposals.
+cfp_date_end:  2021-07-31T23:59:59-05:00 # close your call for proposals.
+cfp_date_announce:  2021-06-01T23:59:59-05:00 # inform proposers of status
+
+cfp_link: "https://www.papercall.io/dodbuf2021" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: 2021-06-25T12:00:00-05:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2021-10-13T11:59:59-05:00 # close registration. Leave blank if registration is not open yet.
+
+#registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://ti.to/devops-days-buffalo/devops-days-buffalo-2021" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+masthead_background: "buffalo-skyline.jpg"
+sharing_image: #"sharing.png"
+
+# Location
+#
+location: "Transit Drive-In | Virtual" # Defaults to city, but you can make it the venue name.
+coordinates: "43.1043787,-78.6961697" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location_address: "6655 S Transit Rd, Lockport, NY 14094, USA" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: propose
+  - name: location
+  - name: registration
+  - url: "https://ti.to/devops-days-buffalo/devops-days-buffalo-2021"
+  - name: program
+  - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Quintessence Anx"
+    employer: "PagerDuty"
+    bio: "Quintessence has worked in the IT community for over 10 years, including as a database administrator and a DevOps / Cloud / Infrastructure engineer. She was also a core contributor to Stark & Wayne’s SHIELD project, which adds backup functionality to Cloud Foundry, as well as a technical reviewer for Learning Go Programming published by Packt Publishing. Currently she is a Developer Advocate, focusing on community engagement related to DevOps. Outside of work she is a leader and co-founder of Inclusive Tech Buffalo to help underrepresented groups in tech launch careers in development. Headshot by [Olga Nelioubov](https://www.olganelioubov.com/)"
+    twitter: "QuintessenceAnx"
+    image: "quintessence.jpg"
+    linkedin: "https://www.linkedin.com/in/quintessenceanx/"
+  # - name: "Stephanie Danielsson"
+  #   employer: "Kaleidoscope Ads"
+  #   bio: "Stephanie Danielsson is a Marketing & Communications Consultant who specializes in strategic marketing plans, content marketing & branding. She is passionate about helping people & companies tell their stories in meaningful ways to engage with their communities. She is also a fitness nut & amateur coffee snob."
+  #   twitter: "kaleidoscopeads"
+  #   image: "stephanie.jpg"
+  - name: "Olga Nelioubov"
+    employer: "Willis Towers Watson"
+    bio: "Olga is a Lead Software Engineer at Willis Towers Watson with a prior background in infrastructure. Her current focus is to facilitate solutions to developer and platform needs within her organization. She also mentors and strives to make the tech community more accessible to underserved communities. Furthermore, Olga is a photographer and an aerialist. She likes Star Trek."
+    twitter: "ACPWinitiate"
+    image: "olga.jpg"
+    linkedin: "https://www.linkedin.com/in/olga-nelioubov-b04a0389/"
+  - name: "Aleksandra Patrzalek"
+    employer: "Torch"
+    bio: "Aleksandra is a DevOps / Infrastructure engineer, and has been in the Buffalo tech community for 7 years. She volunteers in her spare time to advocate for underrepresented groups in tech. She is an avid indoor gardener, cultivating and propagating a variety of plants. She also loves hiking in parks, and the Legend of Zelda.  Headshot by [Olga Nelioubov](https://www.olganelioubov.com/)"
+    twitter: "binarytea"
+    image: "aleksandra.jpg"
+    linkedin: "https://www.linkedin.com/in/aleksandrapatrzalek/"
+  - name: "Gary Pochron"
+    employer: "Willis Towers Watson"
+    bio: "Gary is currently a Director of Software Engineering at Willis Towers Watson, and has been involved in technology for almost 20 years. His current tech interests are in team leadership, mentorship, DevOps, cloud architecture, and making complex things simple. In his free time you'll likely find him hiking, playing volleyball, or reading something."
+    twitter: "garypochron"
+    image: "gary.jpg"
+    linkedin: "https://www.linkedin.com/in/garypochron/"
+  - name: "Tyler Poland"
+    employer: "Stark & Wayne"
+    bio: "Technical Director at Stark & Wayne and an organizer and speaker of the @BuffaloData meetup group. He has almost 20 years experience in Information Technology which is heavily influenced by more than decade focusing on Cloud Operations, Application Support, and Database Technologies."
+    twitter: "tylerpoland"
+    image: "tylerp.jpg"
+
+organizer_email: "buffalo@devopsdays.org" # Put your organizer email address here
+
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: devrelate
+    level: community
+  - id: gitlab-before-20220516
+    level: silver
+  - id: pagerduty
+    level: bronze
+  - id: redhat
+    level: bronze
+  - id: torchio
+    level: silver
+  - id: circleci
+    level: silver
+  - id: skycrafters
+    level: silver
+  - id: acv_auctions
+    level: silver
+  - id: starkandwayne
+    level: gold
+  - id: highmarkwny
+    level: gold
+  - id: microsoftazure
+    level: gold
+  - id: scout
+    level: gold
+  - id: aviatrix
+    level: gold
+  - id: mandtbank
+    level: captioning
+  - id: observiq
+    level: snack
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: gold
+    label: Gold
+    max: 5
+  - id: silver
+    label: Silver
+    max: 5
+  - id: captioning
+    label: Captioning
+    max: 1
+  - id: bronze
+    label: Bronze
+    max: 10
+  - id: snack
+    label: Snack
+    max: 1
+  - id: community
+    label: Community
+
+program:
+  - title: "Virtual Arrival and Opening Remarks"
+    type: custom
+    date: 2021-10-13
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "shimon-tolts"
+    type: talk
+    date: 2021-10-13
+    start_time: "14:00"
+    end_time: "14:25"
+  - title: "jerren-every"
+    type: talk
+    date: 2021-10-13
+    start_time: "14:30"
+    end_time: "14:55"
+  - title: "dewan-ahmed"
+    type: talk
+    date: 2021-10-13
+    start_time: "15:00"
+    end_time: "15:25"
+  - title: "josh-stella"
+    type: talk
+    date: 2021-10-13
+    start_time: "15:30"
+    end_time: "15:55"
+  - title: "dan-lines"
+    type: talk
+    date: 2021-10-13
+    start_time: "16:00"
+    end_time: "16:25"
+  - title: "Intermission - Drive time to Transit Drive-In"
+    type: custom
+    date: 2021-10-13
+    start_time: "16:30"
+    end_time: "17:30"
+  - title: "Attendee Arrival, In-person Registration, and Dinner"
+    type: custom
+    date: 2021-10-13
+    start_time: "17:30"
+    end_time: "18:00"
+  - title: "lynn-catalano"
+    type: talk
+    date: 2021-10-13
+    start_time: "18:00"
+    end_time: "18:30"
+    background_color: "#FFCC99"
+  - title: "Open Space Session 1"
+    type: open-space
+    date: 2021-10-13
+    start_time: "18:00"
+    end_time: "18:30"
+    background_color: "#FFCC99"
+  - title: "Open Space Session 2"
+    type: open-space
+    date: 2021-10-13
+    start_time: "18:30"
+    end_time: "19:00"
+    background_color: "#FFCC99"
+  - title: "jason-yee"
+    type: talk
+    date: 2021-10-13
+    start_time: "19:00"
+    end_time: "19:25"
+  - title: "adarsh-shah"
+    type: talk
+    date: 2021-10-13
+    start_time: "19:30"
+    end_time: "19:55"
+  - title: "dave-mcallister"
+    type: talk
+    date: 2021-10-13
+    start_time: "20:00"
+    end_time: "20:25"
+  - title: "thomas-haver"
+    type: talk
+    date: 2021-10-13
+    start_time: "20:30"
+    end_time: "20:55"
+  - title: "aaron-aldrich"
+    type: talk
+    date: 2021-10-13
+    start_time: "21:00"
+    end_time: "21:25"
+  - title: "Networking Event"
+    type: custom
+    date: 2021-10-13
+    start_time: "21:25"
+    end_time: "22:00"
+  - title: "pj-hagerty"
+    type: talk
+    date: 2021-10-14
+    start_time: "14:00"
+    end_time: "14:25"
+  - title: "itiel-shwartz"
+    type: talk
+    date: 2021-10-14
+    start_time: "14:30"
+    end_time: "14:55"
+  - title: "matt-yonkovit"
+    type: talk
+    date: 2021-10-14
+    start_time: "15:00"
+    end_time: "15:25"
+  - title: "ben-greenberg"
+    type: talk
+    date: 2021-10-14
+    start_time: "15:30"
+    end_time: "15:55"
+  - title: "Lightning Talks"
+    type: ignite
+    date: 2021-10-14
+    start_time: "16:00"
+    end_time: "16:25"
+    block: "ignite"
+  - title: "Intermission - Drive time to Transit Drive-In"
+    type: custom
+    date: 2021-10-14
+    start_time: "16:25"
+    end_time: "17:30"
+  - title: "Attendee Arrival, In-person Registration, and Dinner"
+    type: custom
+    date: 2021-10-14
+    start_time: "17:30"
+    end_time: "18:00"
+  - title: "thomas-haver-os"
+    type: talk
+    date: 2021-10-14
+    start_time: "18:00"
+    end_time: "18:30"
+    background_color: "#FFCC99"
+  - title: "Open Space Session 1"
+    type: open-space
+    date: 2021-10-14
+    start_time: "18:00"
+    end_time: "18:30"
+    background_color: "#FFCC99"
+  - title: "Open Space Session 2"
+    type: open-space
+    date: 2021-10-14
+    start_time: "18:30"
+    end_time: "19:00"
+    background_color: "#FFCC99"
+  - title: "angel-rivera"
+    type: talk
+    date: 2021-10-14
+    start_time: "19:00"
+    end_time: "19:25"
+  - title: "jameson-hampton"
+    type: talk
+    date: 2021-10-14
+    start_time: "19:30"
+    end_time: "19:55"
+  - title: "rob-richardson"
+    type: talk
+    date: 2021-10-14
+    start_time: "20:00"
+    end_time: "20:25"
+  - title: "yishai-beeri"
+    type: talk
+    date: 2021-10-14
+    start_time: "20:30"
+    end_time: "20:55"
+  - title: "Closing Thoughts and JAM Session"
+    type: custom
+    date: 2021-10-14
+    start_time: "21:00"
+    end_time: "22:00"
+
+ignites:
+  - title: "denise-yu"
+    date: 2021-10-13
+    block: "ignite"
+  - title: "tim-davis"
+    date: 2021-10-13
+    block: "ignite"
+  - title: "dotan-horovits"
+    date: 2021-10-13
+    block: "ignite"

@@ -1,0 +1,207 @@
+name: "2020-los-angeles" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2020" # The year of the event. Make sure it is in quotes.
+city: "Los Angeles" # The displayed city name of the event. Capitalize it.
+event_twitter: "socaldevops" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "<span style='font-size:2em;'><strong>DevOps Day LA is still on!<br /><br />We are actively monitoring the situation with COVID-19 and will update folks through all channels available if things change.<br /><br />See: <a href='https://www.socallinuxexpo.org/blog/covid-19-and-scale-18x'>https://www.socallinuxexpo.org/blog/covid-19-and-scale-18x</a> for more info and the latest status.</strong></span>" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2020-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2020-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2020-03-06T00:00:00-08:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2020-03-06T23:59:59-08:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2019-09-14T00:00:00-08:00 # start accepting talk proposals.
+cfp_date_end: 2019-11-30T00:00:00-08:00 # close your call for proposals.
+cfp_date_announce: 2020-01-15T00:00:00-08:00 # inform proposers of status
+
+cfp_link: "https://www.socallinuxexpo.org/scale/18x/cfp" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: # close registration. Leave blank if registration is not open yet.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "34.1436537,-118.1452085" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Pasadena Convention Center" # Defaults to city, but you can make it the venue name.
+#
+location_address: "300 E Green St, Pasadena, CA 91101" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+ # - name: propose
+  - name: venue
+    url: https://www.socallinuxexpo.org/scale/18x/venue
+  - name: registration
+    url: https://register.socallinuxexpo.org/reg6/
+  - name: CFP
+    url: https://www.socallinuxexpo.org/scale/18x/cfp
+  - name: program
+  - name: speakers
+  - name: volunteer
+  - name: sponsor
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Carlos Meza"
+    employer: "digitalr00ts"
+    twitter: "digitalr00ts"
+    bio: "Python Developer"
+    image: "carlos-meza.jpg"
+    github: "cmeza99"
+    linkedin: "https://www.linkedin.com/in/cmeza99"
+    website: "https://www.digitalr00ts.com"
+  - name: "Bryna Kirzner"
+    employer: ""
+    twitter: "brynak"
+    bio: "Co-Chair DevOpsDayLA"
+    github: "brynak"
+    linkedin: "https://www.linkedin.com/in/brynak"
+    image: "bryna-kirzner.jpg"
+  - name: "Chris Webber"
+    linkedin: "https://www.linkedin.com/in/cwebberops/"
+    github: "cwebberops"
+    twitter: "cwebber"
+  - name: "Jordan Schwartz"
+  - name: "Ilan Rabinovitch"
+    twitter: "irabinovitch"
+    github: "irabinovitch"
+    employer: "Datadog"
+    linkedin: "https://www.linkedin.com/in/irabinovitch/"
+
+organizer_email: "los-angeles@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: appdynamics-before-20220714
+    level: gold
+  - id: confluent-before-20220426
+    level: gold
+  - id: codefresh
+    level: gold
+  - id: d2iq
+    level: gold
+  - id: datree
+    level: gold
+  - id: effx
+    level: gold
+  - id: eliassen-group
+    level: silver
+  - id: gitlab-before-20220516
+    level: gold
+  - id: harness
+    level: gold
+  - id: influxdata-before-20220629
+    level: gold
+  - id: launch-darkly-before-20200828
+    level: gold
+  - id: logz
+    level: gold  
+  - id: phoenixnap
+    level: gold
+  - id: pulumi-before-20220422
+    level: gold
+  - id: scout-before-20210622
+    level: gold
+  - id: site24x7-before-20230414
+    level: gold
+  - id: sonatype
+    level: gold
+  - id: splunk-before-20220426
+    level: gold
+  - id: spotinst
+    level: gold
+  - id: xmatters
+    level: gold
+  - id: scale
+    level: community
+    url: https://www.socallinuxexpo.org/scale/18x
+ #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+ #  - id: arresteddevops
+ #    level: community
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: gold
+    label: Gold
+#    max: 10
+  - id: silver
+    label: Silver
+    max: 0 # This is the same as omitting the max limit.
+  - id: bronze
+    label: Bronze
+  - id: community
+    label: Community
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2020-03-06T00:00:00-08:00
+    start_time: "09:00"
+    end_time: "10:00"
+  - title: "alvaro-leiva"
+    type: talk
+    date: 2020-03-06T00:00:00-08:00
+    start_time: "10:00"
+    end_time: "10:45"
+  - title: "ell-marquez"
+    type: talk
+    date: 2020-03-06T00:00:00-08:00
+    start_time: "11:00"
+    end_time: "11:45"
+  - title: "Lunch"
+    type: custom
+    date: 2020-03-06T00:00:00-08:00
+    start_time: "12:00"
+    end_time: "13:30"
+  - title: "clint-byrum"
+    type: talk
+    date: 2020-03-06T00:00:00-08:00
+    start_time: "13:30"
+    end_time: "13:50"
+  - title: "francis-potter"
+    type: talk
+    date: 2020-03-06T00:00:00-08:00
+    start_time: "13:50"
+    end_time: "14:10"
+  - title: "julie-gunderson"
+    type: talk
+    date: 2020-03-06T23:59:59-08:00
+    start_time: "14:10"
+    end_time: "14:30"
+  - title: "galen-emery"
+    type: talk
+    date: 2020-03-06T23:59:59-08:00
+    start_time: "14:45"
+    end_time: "15:30"
+  - title: "murriel-perezmccabe"
+    type: talk
+    date: 2020-03-06T23:59:59-08:00
+    start_time: "15:45"
+    end_time: "16:30"
+  - title: "robert-treat"
+    type: talk
+    date: 2020-03-06T23:59:59-08:00
+    start_time: "16:45"
+    end_time: "17:30"
+  - title: "Closing"
+    type: custom
+    date: 2020-03-06T23:59:59-08:00
+    start_time: "17:30"
+    end_time: "17:45"

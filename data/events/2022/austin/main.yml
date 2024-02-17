@@ -1,0 +1,296 @@
+name: "2022-austin" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2022" # The year of the event. Make sure it is in quotes.
+city: "Austin" # The displayed city name of the event. Capitalize it.
+event_twitter: "DoDAustin" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "DevOpsDays Austin: 10 Year Class Reunion" # Edit this to suit your preferences
+
+masthead_background: "tx-state-capitol-bw.jpg"
+
+ga_tracking_id: "UA-335242-8" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2022-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2022-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2022-05-04T00:00:00-05:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2022-05-05T00:00:00-05:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2022-01-24T00:00:00-05:00 # start accepting talk proposals.
+cfp_date_end: 2022-03-04T23:59:59-05:00 # close your call for proposals.
+cfp_date_announce: 2022-03-07T23:59:59-05:00 # inform proposers of status
+
+cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: 2022-02-07T00:00:00-05:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2022-05-04T00:00:00-05:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "30.283975,-97.734504" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Etter-Harbin Alumni Center" # Defaults to city, but you can make it the venue name.
+#
+location_address: "2110 San Jacinto Boulevard, Austin, Texas 78712" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  # - name: propose
+  - name: schedule
+  - name: registration
+  - name: speakers
+  - name: location
+  - name: contact
+  - name: sponsor
+  - name: conduct
+  - name: covid
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Ernest Mueller"
+    twitter: "ernestmueller"
+    # employer: "Precision Autonomy"
+    # bio: "Ernest is Head of Engineering at Precision Autonomy in Austin, TX. He's been in tech for 25 years and organizes various Austin area user groups and conferences. He also authors a series of DevOps courses on LinkedIn Learning."
+    github: "ernestm"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/ernestmueller/"
+    image: "ernest.jpg"
+  - name: "James Wickett"
+    twitter: "wickett"
+    # employer: "Verica"
+    # bio: "James is at Verica (verica.io), a leader in Continuous Verification and Chaos Engineering. You can find out more about James at https://wickett.me"
+    github: "wickett"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/wickett"
+    image: "james.jpg"
+  - name: "Karthik Gaekwad"
+    twitter: "iteration1"
+    # employer: "Oracle"
+    # bio: "Karthik is a Principal Developer Advocate for Oracle Cloud. He's a leader in the cloudnative and devops space, and wants to make Austin a tolerant, inviting tech community."
+    github: "karthequian"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/kgaekwad/"
+    image: "karthik.jpg"
+  - name: "Dan Zentgraf"
+    twitter: "danzentgraf"
+    # employer: "Datical"
+    # bio: "Dan is a technology professional focused on bringing DevOps practices to enterprises. He has over 20 years in the IT space and has served in a variety of capacities including Product Management, Agile/DevOps consulting & coaching, and Solution Engineering. An active member of the Austin technology community, Dan ran the first regular DevOps meetup for the Agile Austin community, and has been an organizer for DevOps Days Austin for most of its nine years."
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/zentgraf/"
+    image: "dan.jpg"
+  - name: "Boyd Hemphill"
+    twitter: "behemphi"
+    # employer: "Contrast Security"
+    # bio: "Paying my karmic debts to the Austin tech community a bit at a time. Supported in those endeavors by my employer and leadership team at Contrast Security."
+    github: "behemphi"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/boydhemphill/"
+    image: "boyd.jpg"
+  - name: "Richard Boyd"
+    twitter: "richardboydii"
+    # employer: "Amazon Web Services"
+    # bio: "Richard is a Senior Solutions Architect for Amazon Web Services in Austin, TX. As a part of the Well-Architected Team, he works with AWS Partners to optimize Workloads according to the Well-Architected Framework. In his spare time he loves organizing technology conferences and Meetups and is always looking for something new to learn from others."
+    github: "richardboydii"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/richardboydii/"
+    image: "rich.jpg"
+  - name: "Scott Baldwin"
+    twitter: "scottsbaldwin"
+    # employer: "LogicMonitor"
+    # bio: "Scott is a Program Manager for the Kubernetes service at Oracle Cloud Infrastructure. He has helped organize DevOpsDays Austin since it started in 2012. He loves teams that care about happiness, vulnerability, and empathy. And he loves tennis."
+    github: "scottsbaldwin"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/scottsbaldwin/"
+    image: "scott.jpg"
+  - name: "Lee Thompson"
+    twitter: "stagr_lee"
+    # employer: "Precision Autonomy"
+    # bio: "CTO Precision Autonomy.  Long time DoD organizer.  Still trying to get DevOps right."
+    github: "stagrlee"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/leewthompson/"
+    image: "lee.jpg"
+  - name: "Daria Ilic"
+    twitter: "dariailic"
+    # employer: "The Zebra"
+    # bio: "Daria is the Lead Technical Recruiter at the Zebra. She is passionate about technology, recruiting & helping people find their dream job."
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/dariailic/"
+    image: "daria.png"
+  - name: "JJ Asghar"
+    twitter: "jjasghar"
+    # employer: "IBM"
+    # bio: "JJ works at IBM on the IBM cloud as a Developer Advocate. He’s focusing on the IBM Kubernetes Service trying to make companies and users have a successful on boarding to the Cloud Native ecosystem."
+    github: "jjasghar"
+    facebook: ""
+    linkedin: ""
+    image: "jj.jpg"
+  - name: "Tom Hall"
+    twitter: "tmhall99"
+    # employer: "Silvercar by Audi"
+    # bio: "Tom was a Novell CNE in the 90's and a VMware VCP in the late 00's. For the past six years he has been doing the Devops, currently at Silvercar by Audi."
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/tmhall99/"
+    image: "tom.jpg"
+  - name: "Ian Richardson"
+    twitter: "@ianrichardson"
+    # employer: "Reflexion Health"
+    # bio: "Ian Richardson is a Director of Engineering at Reflexion Health and has specialized in Healthcare IT for over 12 years. Ian has been a DevOpsDays Austin organizer since 2015. He loves talking about technology, video games, and cars."
+    github: "https://github.com/ianrichardson"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/ianrichardson"
+    image: "ian.jpg"
+  - name: "Chris Casey"
+    twitter: ""
+    # employer: "Solarwinds"
+    # bio: "Chris is SRE Lead for AppOptics at Solarwinds. Organizer since 2013."
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/chris-casey-021a2750/"
+    image: "chris.jpg"
+  - name: "Asif Ahmad"
+    twitter: "dabrownkid84"
+    # employer: "National Instruments"
+    # bio: "Asif is a Cloud Infrastructure Engineer at National Instruments. He has volunteered at numerous conferences around the Austin area and has a passion for making relationships. He also has over 10 years of IT experience and is an individual with a strong desire to keep learning and a strong hunger to eat delicious burgers."
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/asifahmad1/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BkbJM%2BXNLSDu4SlknC%2FPh3A%3D%3D"
+    image: "asif.jpg"
+  - name: "Laura Wickett"
+    twitter: "conference_ops"
+    # employer: "Conference Ops"
+    # bio: "Laura is the founder of Conference Ops, the financial solution partner for community-driven tech conferences"
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/laurawickett/"
+    image: "laura.jpg"
+  - name: "Shaun Mouton"
+    twitter: "sdmouton"
+    # employer: "Chef"
+    # bio: "Shaun isn't a devops but can help sprinkle some on your infrastructure, apps, and/or culture. Friendgineering 4 lyfe, hugops not harm, tirefi.re benevolent underlord."
+    github: "moutons"
+    facebook: "http://tirefi.re/facebook/"
+    linkedin: "https://www.linkedin.com/in/sdmouton/"
+    image: "shaun.jpg"
+  - name: "Bailey Moore"
+    twitter: ""
+    # employer: "Netspend"
+    # bio: "Bailey is a DevSecOps Engineer at Netspend focused on securing automation and automating security."
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/bailey-moore-95120914/"
+    image: "bailey.jpg"
+  - name: "Marisa Sawatphadungkij"
+    twitter: ""
+    # employer: "Enverus"
+    # bio: "Marisa has been in the tech industry for over 20 years. Yes, I'm aging myself but I've had the privilege to develop my leadership and tech skills through various roles. Currently I'm part of HR as the HR Operations Engineer. This gives me an opportunity to bring the DevOps mindset to the HR team."
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/mar1sa/"
+    image: "marisa.jpg"
+  - name: "Peco Karayanev"
+    image: "peco.png"
+  - name: "Laura Santamaria"
+    twitter: "nimbinatus"
+    # employer: "LogDNA"
+    github: "nimbinatus"
+    image: "laura-santamaria.jpg"
+    website: "https://nimbinatus.com"
+    # bio: "As LogDNA’s Developer Advocate, Laura Santamaria loves to learn and explain how things work. She bridges the gap between external developers and SREs and internal engineering teams. In addition, she is the curator for A Minute on the Mic. Apart from work, she co-hosts Austin DevOps, taught Python for Women Who Code Austin for many years, and volunteers with DevOpsDays Austin. Outside of tech, Laura runs, plays with her dogs, throws discs, and watches clouds—the real kind."
+  - name: "William Hackett"
+    twitter: "wchack"
+    # employer: "Verica"
+    # bio: ""
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/william-hackett-4228252/"
+    image: "bill.png"
+
+organizer_email: "austin@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+#   - id: samplesponsorname
+#     level: gold
+#  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+#   - id: arresteddevops
+#     level: community
+sponsors:
+  - id: sixnines
+    level: happyhour
+  - id: spectrocloud
+    level: happyhour
+  - id: codefresh
+    level: happyhour
+  - id: microsoft
+    level: happyhour
+  - id: liatrio
+    level: platinum
+  - id: linearb
+    level: platinum
+  - id: rundeck
+    level: gold
+  - id: couchbase
+    level: gold
+  - id: rackn
+    level: gold
+  - id: containiq
+    level: gold
+  - id: neuvector
+    level: gold
+  - id: tonic
+    level: gold
+  - id: granulate-before-20230209
+    level: gold
+  - id: trilio
+    level: gold
+  - id: vfunction
+    level: gold
+  - id: erasoftware
+    level: gold
+  - id: vmware-tanzu
+    level: gold
+  - id: squaredup
+    level: gold
+  - id: mondoo-before-20220615
+    level: lanyard
+  - id: texasmutual
+    level: coffee
+  - id: techstronggroup
+    level: media
+
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: happyhour
+    label: Happy Hour
+    max: 4
+  - id: platinum
+    label: Platinum
+    max: 2
+  - id: gold
+    label: Gold
+    max: 10
+  - id: lanyard
+    label: Lanyard
+    max: 1
+  - id: coffee
+    label: Coffee Bar
+    max: 1
+  - id: media
+    label: Media
+    max: 1

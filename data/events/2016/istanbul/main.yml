@@ -1,0 +1,75 @@
+name: 2016-istanbul # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: 2016 # The year of the event. Make sure it is in quotes.
+city: "Istanbul" # The city name of the event. Capitalize it.
+friendly: "2016-istanbul" # Four digit year and the city name in lower-case. Don't forget the dash!
+status: "past" # Options are "past" or "current".
+startdate: 2016-06-03 # The start date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
+enddate: 2016-06-04 # The end date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
+cfp_date_start: 2016-02-21
+cfp_date_end: 2016-04-22
+cfp_date_announce: 2016-05-06
+coordinates: "41.110065,29.041329" # The corrodinates of your venue. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Borsa İstanbul Conference Room" # The name of your location
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+ 
+  - name: location
+  - name: program
+  - name: propose
+  - name: proposals
+  - name: registration
+  - name: contact
+  - name: conduct
+  - name: sponsor
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Derya Sezen"
+  - name: "Rommel Tinoco"
+  - name: "Altuğ Bilgin Altıntaş"
+  - name: "Birge Elif Basık"
+  - name: "Zülfikar Karakaya"
+  - name: "Ismail Arslan"
+  - name: "Firat Arig"
+  - name: "Zeldal Özdemir"
+  - name: "Erkan Binici"
+  - name: "Mesut Can Gürle"
+  - name: "Safiye Nur Şimşek"
+  - name: "Mehmet Ali Aydın"
+organizer_email: "organizers-istanbul-2016@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-istanbul-2016@devopsdays.org" # Put your proposal email address here
+sponsors: # List all of your sponsors here along with what level of sponsorship they have.
+  - id: borsaistanbul
+    level: host
+  - id: kalitek
+    level: platinum
+  - id: comparex-tr
+    level: gold
+  - id: hpe-tr
+    level: gold
+  - id: agile42
+    level: silver
+  - id: bilgeadam
+    level: silver
+  - id: iyzico
+    level: silver
+  - id: kloia-before-20170617
+    level: silver
+  - id: vngrs
+    level: silver
+  - id: konsalt
+    level: bronze
+  - id: vmware-tr
+    level: bronze
+
+sponsor_levels: # In this section, list the level of sponsorships and the label to use.
+  - id: host
+    label: Host
+  - id: platinum
+    label: Platinum
+  - id: gold
+    label: Gold
+  - id: silver
+    label: Silver
+  - id: bronze
+    label: Bronze

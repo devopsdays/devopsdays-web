@@ -1,0 +1,103 @@
+name: "2020-philadelphia"
+year: "2020"
+city: "Philadelphia"
+event_twitter: "DevOpsDaysPHL"
+description: "Devopsdays Philadelphia is celebrating its 5th year!"
+ga_tracking_id: "UA-61551732-3"
+
+cancel: "true"
+
+startdate: 2020-10-20T00:00:00-04:00
+enddate: 2020-10-21T23:59:59-04:00
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start:  # start accepting talk proposals.
+cfp_date_end:  # close your call for proposals.
+cfp_date_announce:  # inform proposers of status
+
+cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: # close registration. Leave blank if registration is not open yet.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+# coordinates: "39.9500, -75.1667"
+# location: "Science History Institute"
+# location_address: "315 Chestnut St, Philadelphia, PA 19106"
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+ # - name: propose
+ # - name: location
+ # - name: registration
+ # - name: program
+ # - name: speakers
+ # - name: sponsor
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+team_members:
+  - name: "Peter Shannon"
+    employer: "Instacart"
+    role: "Lead Organizer"
+    twitter: "peterjshan"
+    github: "peterjshan"
+
+  - name: "Sarah Gray"
+    employer: "Linode"
+
+  - name: "Clinton Wolfe"
+    employer: "Chef"
+    role: "Master of Ceremonies"
+    twitter: "clintoncwolfe"
+    github: "clintoncwolfe"
+    linkedin: "https://www.linkedin.com/in/clinton-wolfe-6927784a/"
+    email: "clintoncwolfe@gmail.com"
+
+  - name: "Hilary Muludiang"
+    twitter: "hlmuludiang"
+    linkedin: "http://linkedin.com/in/hlmuludiang"
+    email: "hilary.muludiang@gmail.com"
+
+  - name: "Shaheen Beg"
+    twitter: "shaheenbeg"
+    employer: "Comcast"
+
+  - name: "Damion Waltermeyer"
+    twitter: "Damionw"
+    linkedin: "https://www.linkedin.com/in/damionwaltermeyer/"
+    role: "Organizer"
+
+  - name: "Hannah Ricca"
+    role: "Organizer"
+
+organizer_email: "philadelphia@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: gitlab-before-20220516
+    level: silver
+  - id: appdynamics-before-20220714
+    level: silver
+ #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: arresteddevops
+    level: community
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+sponsor_levels:
+  - id: platinum
+    label: Platinum
+  - id: gold
+    label: Gold
+  - id: silver
+    label: Silver
+  - id: community
+    label: Community

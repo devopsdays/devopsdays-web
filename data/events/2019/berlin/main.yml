@@ -1,0 +1,348 @@
+name: "2019-berlin" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2019" # The year of the event. Make sure it is in quotes.
+city: "Berlin" # The displayed city name of the event. Capitalize it.
+event_twitter: "blndevops" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays is returning to Berlin!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+event_logo: "logo-square.jpg"
+
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2019-11-27T00:00:00+01:00
+enddate: 2019-11-28T23:59:59+01:00
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2019-02-12T00:00:00+01:00
+cfp_date_end: 2019-07-31T23:59:59+02:00
+cfp_date_announce: 2019-08-15T23:59:59+02:00
+
+cfp_open: "false"
+cfp_link: "https://www.papercall.io/2019-berlin" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: 2018-12-01T00:00:00+01:00
+registration_date_end: 2019-11-27T00:00:00+01:00 # close registration. Leave blank if registration is not open yet.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "52.524332,13.389849" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Kalkscheune Berlin" # Defaults to city, but you can make it the venue name.
+#
+location_address: "Johannisstr. 2, 10117 Berlin" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+#  - name: propose
+  - name: conduct
+  - name: location
+#  - name: registration
+  - name: program
+  - name: speakers
+#  - name: sponsor
+  - name: contact
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Bernd Erk"
+    twitter: "gethash"
+    employer: "NETWAYS"
+  - name: "Jessica Ulyate"
+    twitter: "JulyAte"
+  - name: "Markus Neder"
+    twitter: "markusneder"
+    employer: "NETWAYS"
+  - name: "Norman Messtorff"
+    twitter: "nmesstorff"
+    employer: "Deutsche Post IT Services"
+    website: "https://normes.org"
+  - name: "Oliver Seemann"
+    twitter: "oseemann"
+  - name: "Ralph Angenendt"
+    twitter: "lestighaniker"
+    employer: "Scout24"
+    github: "range"
+  - name: "Sabrina Voigt"
+    twitter: "sakiddo"
+  - name: "Travis Theune"
+    twitter: "tenminutesout"
+  - name: "Carlos Tadeu Panato Jr"
+    twitter: "comedordexis"
+    github: "cpanato"
+    employer: "Mattermost"
+
+#  - name: "John Doe"
+#  - name: "Jane Smith"
+#    twitter: "devopsdays"
+#  - name: "Sally Fields"
+#    employer: "Acme Anvil Co."
+#    github: "devopsdays"
+#    facebook: "https://www.facebook.com/sally.fields"
+#    linkedin: "https://www.linkedin.com/in/sallyfields"
+#    website: "https://mattstratton.com"
+#    image: "sally-fields.jpg"
+organizer_email: "organizers-berlin-2019@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-berlin-2019@devopsdays.org" # Put your proposal email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: netways
+    level: partner
+  - id: linuxmagazin
+    level: partner
+  - id: admin-magazine
+    level: partner
+  - id: sparheld
+    level: partner
+  - id: stickermule
+    level: partner
+  - id: olxgroup
+    level: platinum
+  - id: xmatters
+    level: platinum
+  - id: redgate
+    level: platinum
+  - id: oracle-linux
+    level: platinum
+  - id: polarsquad
+    level: platinum
+  - id: 2016-idealo
+    level: platinum
+  - id: talentio
+    level: platinum
+  - id: chef-before-20210112
+    level: gold
+  - id: 2016-norisnetwork
+    level: eveningevent
+
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: eveningevent
+    label: Evening Event
+    max: 1
+  - id: platinum
+    label: Platinum
+    max: 9
+  - id: gold
+    label: Gold
+  - id: silver
+    label: Silver
+  - id: partner
+    label: Partner
+
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2019-11-27
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2019-11-27
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "murali-suriar"
+    type: talk
+    date: 2019-11-27
+    start_time: "09:10"
+    end_time: "09:40"
+  - title: "daniel-loeffelholz"
+    type: talk
+    date: 2019-11-27
+    start_time: "09:40"
+    end_time: "10:10"
+  - title: "Break"
+    type: custom
+    date: 2019-11-27
+    start_time: "10:10"
+    end_time: "10:40"
+  - title: "monica-sarbu"
+    type: talk
+    date: 2019-11-27
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-11-27
+    start_time: "11:10"
+    end_time: "11:15"
+  - title: "yair-etziony"
+    type: talk
+    date: 2019-11-27
+    start_time: "11:15"
+    end_time: "11:45"
+  - title: "Open Space: Explained"
+    type: open-space
+    date: 2019-11-27
+    start_time: "11:45"
+    end_time: "12:15"
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2019-11-27
+    start_time: "12:15"
+    end_time: "13:30"
+  - title: "konstantin-diener"
+    type: talk
+    date: 2019-11-27
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2019-11-27
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: "Open Space Topics"
+    type: open-space
+    date: 2019-11-27
+    start_time: "14:30"
+    end_time: "15:00"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2019-11-27
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "abdessamad-temmar"
+    type: talk
+    date: 2019-11-27
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2019-11-27
+    start_time: "16:00"
+    end_time:  "16:45"
+  - title: "justina-nguyen"
+    type: talk
+    date: 2019-11-27
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2019-11-27
+    start_time: "17:00"
+    end_time: "17:45"
+  - title: "ivan-culjak"
+    type: talk
+    date: 2019-11-27
+    start_time: "17:00"
+    end_time: "17:45"
+  - title: "Evening event"
+    type: custom
+    date: 2019-11-27
+    start_time: "18:00"
+    end_time: "late"
+    comments: "The evening event will take place at [Puro Sky Lounge](https://goo.gl/maps/Xkt2CBwWpYE2) in the Europa Center, Tauentzienstraße 9-12, 10789 Berlin. You can reach it from the venue by taking any [S-Bahn from S-Bahnhof Friedrichstraße that goes west](http://fahrinfo.bvg.de/Fahrinfo/bin/query.bin/dn?SID=A%3D1%40O%3DS%2BU%20Friedrichstr.%20Bhf%20(Berlin)%40X%3D13387149%40Y%3D52520268%40U%3D86%40L%3D900100001%40B%3D1%40p%3D1573128608%40%26to=10789%20Berlin-Charlottenburg,%20Tauentzienstr.%209!%26REQ0JourneyStopsZA1=2%26getstop=1%26)"
+
+    # Day 2
+
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2019-11-28
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2019-11-28
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "lukas-pradel"
+    type: talk
+    date: 2019-11-28
+    start_time: "09:10"
+    end_time: "09:40"
+  - title: "beth-north"
+    type: talk
+    date: 2019-11-28
+    start_time: "09:40"
+    end_time: "10:10"
+  - title: "Break"
+    type: custom
+    date: 2019-11-28
+    start_time: "10:10"
+    end_time: "10:40"
+  - title: "jessica-anderson"
+    type: talk
+    date: 2019-11-28
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-11-28
+    start_time: "11:10"
+    end_time: "11:15"
+  - title: "piyush-verma"
+    type: talk
+    date: 2019-11-28
+    start_time: "11:15"
+    end_time: "11:45"
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2019-11-28
+    start_time: "11:50"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2019-11-28
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Open Space Topics"
+    type: open-space
+    date: 2019-11-28
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2019-11-28
+    start_time: "14:00"
+    end_time: "14:45"
+  - title: "daniel-maher"
+    type: talk
+    date: 2019-11-28
+    start_time: "14:00"
+    end_time: "14:45"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2019-11-28
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "eddie-zaneski"
+    type: talk
+    date: 2019-11-28
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2019-11-28
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "steffen-siering"
+    type: talk
+    date: 2019-11-28
+    start_time: "16:00"
+    end_time: "16:45"
+ignites:
+  - title: "daniel-maher-ignite"
+    date: 2019-11-27
+  - title: "mario-konschake"
+    date: 2019-11-27
+  - title: "emrah-samdan"
+    date: 2019-11-27
+  - title: "stevan-cvetkovic"
+    date: 2019-11-28
+  - title: "toshaan-bharvani"
+    date: 2019-11-28
+  - title: "marius-gebert"
+    date: 2019-11-28

@@ -1,0 +1,167 @@
+name: 2016-washington-dc # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: 2016
+city: "Washington, D.C." # The city name of the event. Capitalize it.
+friendly: "2016-washington-dc" # Four digit year and the city name in lower-case. Don't forget the dash!
+status: "past" # Options are "past" or "current".
+
+startdate:  2016-06-08T00:00:00-04:00
+enddate: 2016-06-09T23:59:59-04:00
+
+cfp_date_start: 2016-04-01
+cfp_date_end: 2016-06-01
+cfp_date_announce: 2016-07-01
+coordinates: "38.8011545,-77.0659376" # The corrodinates of your venue. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "US Patent and Trademark Office" # The name of your location
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: register
+    url: https://devopsdaysdc2016.busyconf.com/bookings/new
+  # - name: propose
+  #   url: https://devopsdaysdc2016.busyconf.com/proposals/new
+  - name: program
+    url: http://devopsdaysdc2016.busyconf.com/schedule
+  - name: location
+  - name: sponsor
+  - name: contact
+  - name: conduct
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Nathen Harvey"
+    twitter: "nathenharvey"
+    employer: "Chef"
+  - name: "Alan Kraft"
+    employer: "United States Patent and Trademark Office (USPTO)"
+  - name: "Michael Barbine"
+    twitter: "BigNerdLoLz"
+    employer: "Excella Consulting"
+  - name: "Laura Barton"
+    twitter: "laurabartondev"
+    employer: "Excella Consulting"
+  - name: "Mark Cornick"
+    twitter: "markcornick"
+    employer: "Cava Grill"
+  - name: "Mike DelNegro"
+    twitter: "radiocats"
+    employer: "Deltek"
+  - name: "Greg Elin"
+    twitter: "gregelin"
+    employer: "GovReady"
+  - name: "Jeff Gallimore"
+    twitter: "jgallimore"
+    employer: "Excella Consulting"
+  - name: "James Martin"
+    twitter: "grepless"
+    employer: "RedHat"
+  - name: "Ramez Mourad"
+    twitter: "ramezjm"
+    employer: "Cvent"
+  - name: "Jason Simpson"
+    twitter: "jfsimpson1"
+    employer: "Netuitive"
+  - name: "Robert Treat"
+    twitter: "robtreat2"
+    employer: "OmniTI"
+  - name: "Jake Vanderdray"
+    twitter: "clumpidy"
+    employer: "CustomInk"
+
+
+organizer_email: "organizers-washington-dc-2016@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-washington-dc-2016@devopsdays.org" # Put your proposal email address here
+sponsors_accepted: "no"
+sponsors: # List all of your sponsors here along with what level of sponsorship they have.
+  - id: uspto
+    level: platinum_and_venue
+  - id: pivotal-before-20190307
+    level: platinum
+  - id: cloudpassage
+    level: platinum
+  - id: netuitive
+    level: platinum
+  - id: capitalone
+    level: platinum
+  - id: eglobaltech
+    level: platinum
+  - id: excella-before-20180314
+    level: platinum
+  - id: solarwinds-before-20200114
+    level: platinum
+  - id: csra
+    level: platinum
+  - id: docker-before-20190926
+    level: platinum
+  - id: chef-before-20210112
+    level: platinum
+  - id: thoughtworks-products-before-20160908
+    level: platinum
+  - id: pagerduty-before-20190930
+    level: platinum
+  - id: github
+    level: platinum
+  - id: customink
+    level: platinum
+  - id: redhat-before-20190528
+    level: platinum
+  - id: ansible
+    level: platinum
+  - id: infozen
+    level: gold
+  - id: dlt
+    level: platinum
+  - id: omniti
+    level: platinum
+  - id: comcast
+    level: gold
+  - id: karsun
+    level: gold
+  - id: harmonia
+    level: gold
+  - id: evident
+    level: gold
+  - id: sonatype-before-20190121
+    level: silver
+  - id: halvik
+    level: silver
+  - id: jhc
+    level: silver
+  - id: stsi
+    level: silver
+  - id: phishme
+    level: silver
+  - id: victorops-before-20180823
+    level: gold
+  - id: cloudbees-before-20161025
+    level: gold
+  - id: aspe-before-20190407
+    level: platinum
+  - id: govready
+    level: silver
+  - id: solidfire
+    level: silver
+  - id: fearless-before-20180801
+    level: silver
+  - id: saucelabs
+    level: platinum
+  - id: ais
+    level: silver
+  - id: fanniemae
+    level: gold
+  - id: opsgenie
+    level: happy_hour
+  - id: aol
+    level: happy_hour
+
+
+sponsor_levels: # In this section, list the level of sponsorships and the label to use.
+  - id: platinum_and_venue
+    label: Platinum & Venue
+  - id: happy_hour
+    label: Happy Hour
+  - id: platinum
+    label: Platinum
+  - id: gold
+    label: Gold
+  - id: silver
+    label: Silver

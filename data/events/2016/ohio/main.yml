@@ -1,0 +1,74 @@
+name: "2016-ohio" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: 2016 # The year of the event. Make sure it is in quotes.
+city: "Ohio" # The city name of the event. Capitalize it.
+friendly: "2016-ohio" # Four digit year and the city name in lower-case. Don't forget the dash!
+status: "past" # Options are "past" or "current".
+event_group: "Columbus"
+
+startdate: 2016-10-31T00:00:00-04:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2016-11-01T23:59:59-04:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+cfp_date_start: 2016-06-10
+cfp_date_end: 2016-08-26
+cfp_date_announce: 2016-09-26
+coordinates: "40.038877, -82.874830" # The corrodinates of your venue. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Shadow Box" # The name of your location
+#navigationelements: ["welcome", "contact", "location", "program", "propose", "proposals", "registration", "conduct", "sponsor"] # List of pages you want to show up in the navigation of your page. Remove any that aren't relevent yet.
+nav_elements: # List of pages you want to show up in the navigation of your page.
+ 
+  - name: videos
+    url: "https://www.youtube.com/channel/UCUOAwmKgK1frEKoa-KOrYxg"
+  - name: contact
+  - name: location
+  - name: program
+  - name: speakers
+  - name: conduct
+  - name: sponsor
+team: ["Ben Blanquera", "Bill Schwanitz", "Dan Sajner", "David Laulusa", "Kyle Jenkins", "John Lusk", "Mark Goodmanson", "Michael Ducy", "Michael Swartzbaugh", "Rob Kinyon", "Warner Moore"]
+organizer_email: "organizers-ohio-2016@devopsdays.org" # Put your organizer email address here
+proposal_email: "organizers-ohio-2016@devopsdays.org" # Put your proposal email address here
+sponsors: # List all of your sponsors here along with what level of sponsorship they have.
+  - id: containership
+    level: gold
+  - id: pivotal-before-20190307
+    level: gold
+  - id: 2015-covermymeds
+    level: gold
+  - id: thoughtworks-products
+    level: gold
+  - id: apprenda
+    level: gold
+  - id: roundtowertechnologies
+    level: gold
+  - id: icc
+    level: gold
+  - id: chef-before-20210112
+    level: gold
+  - id: redhat-before-20190528
+    level: gold
+  - id: ahead-before-20220407
+    level: gold
+  - id: victorops-before-20180823
+    level: silver
+  - id: netapp
+    level: silver
+  - id: elastic-before-20221004
+    level: silver
+  - id: sonatype-before-20190121
+    level: bronze
+  - id: techlifecolumbus
+    level: support
+  - id: zocodesign
+    level: support
+  - id: stickermule
+    level: support
+
+sponsor_levels: # In this section, list the level of sponsorships and the label to use.
+  - id: gold
+    label: Gold
+  - id: silver
+    label: Silver
+  - id: bronze
+    label: Bronze
+  - id: support
+    label: Community and Supporting

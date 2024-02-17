@@ -1,0 +1,134 @@
+name: "2015-amsterdam" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: 2015 # The year of the event. Make sure it is in quotes.
+city: "Amsterdam" # The city name of the event. Capitalize it.
+friendly: "2015-amsterdam" # Four digit year and the city name in lower-case. Don't forget the dash!
+status: "past" # Options are "past" or "current". Use "current" for upcoming.
+
+# All dates are in unquoted 2015-MM-DD, like this:   variable: 2015-01-05
+startdate: 2015-06-24T00:00:00+02:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2015-06-26T23:59:59+02:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2015-02-20 # start accepting talk proposals.
+cfp_date_end: 2015-05-01 # close your call for proposals.
+cfp_date_announce: 2015-01-01 # inform proposers of status
+
+# Location
+#
+coordinates: "41.882219, -87.640530" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Amsterdam" # Defaults to city, but you can make it the venue name.
+#
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+ 
+  - name: program
+#  - name: propose
+#    url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+#  - name: location
+#  - name: registration
+  - name: sponsor
+  - name: conduct
+  - name: contact
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Harm Boertien"
+  - name: "Kris Buytaert"
+  - name: "Arjan Eriks"
+  - name: "Thomas Krag"
+  - name: "Wilco Noordermeer"
+  - name: "Daniel Paulus"
+  - name: "Kerim Satirli"
+  - name: "Gérard de Vos"
+  - name: "Arjen Wolfs"
+organizer_email: "organizers-amsterdam-2015@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-amsterdam-2015@devopsdays.org" # Put your proposal email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: 2015-puppetlabs
+    level: gold
+  - id: 2015-pivotal
+    level: gold
+  - id: 2015-dynatrace
+    level: gold
+  - id: 2015-cloudstack
+    level: gold
+  - id: 2015-sonatype
+    level: gold
+  - id: 2015-xebia
+    level: gold
+  - id: 2015-schuberg-philis
+    level: gold
+  - id: 2015-marktplaats
+    level: gold
+  - id: 2015-exact
+    level: gold
+  - id: 2015-chef
+    level: gold
+  - id: 2015-rackspace
+    level: gold
+  - id: 2015-bitbrains
+    level: gold
+  - id: 2015-bol
+    level: gold
+  - id: 2015-coscale
+    level: gold
+  - id: 2015-elastic
+    level: gold
+  - id: 2015-quint
+    level: gold
+  - id: 2015-ing
+    level: gold
+  - id: 2015-bmc
+    level: gold
+  - id: 2015-container-solutions
+    level: silver
+  - id: 2015-docker
+    level: silver
+  - id: 2015-aws
+    level: silver
+  - id: 2015-redhat
+    level: silver
+  - id: 2015-vmware
+    level: silver
+  - id: 2015-sentia
+    level: silver
+  - id: 2015-sdl
+    level: bronze
+  - id: 2015-inuits
+    level: bronze
+  - id: 2015-github
+    level: bronze
+  - id: 2015-leaseweb
+    level: bronze
+  - id: 2015-devoteam
+    level: bronze
+  - id: 2015-pcextreme
+    level: bronze
+  - id: 2015-do-consultants
+    level: bronze
+  - id: 2015-arista
+    level: bronze
+  - id: 2015-implicit-explicit
+    level: bronze
+  - id: 2015-tellki
+    level: bronze
+  - id: 2015-keycdn
+    level: bronze
+  - id: 2015-startup-amsterdam
+    level: community
+  - id: 2015-oreilly
+    level: media
+
+sponsor_levels: # In this section, list the level of sponsorships and the label to use.
+  - id: gold
+    label: Gold
+  - id: silver
+    label: Silver
+  - id: bronze
+    label: Bronze
+  - id: community
+    label: Community
+  - id: media
+    label: Media
