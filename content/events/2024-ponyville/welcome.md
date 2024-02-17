@@ -1,6 +1,6 @@
 +++
 Title = "devopsdays Ponyville 2024"
-Type = "welcome-new"
+Type = "welcome"
 aliases = ["/events/2024-ponyville/"]
 Description = "devopsdays Ponyville 2024"
 +++
