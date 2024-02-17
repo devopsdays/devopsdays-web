@@ -1,5 +1,8 @@
 <!-- this function takes in an event and determines the CFP url (either the explicitly set one, or a propose page if such exists) -->
-{{ $cfp_url := printf "/events/%s/propose/" .name }}
+{{ $cfp_url := printf "/events/%s" .name }}
+{{ if fileExists (printf "content/events/%s/propose.md" .name) }} {{/* would be better to use GetPage for this check, but it's not working */}}
+  {{ $cfp_url = printf "/events/%s/propose/" .name }}
+{{ end }}
 {{ if .cfp_link }}
   {{ $cfp_url = .cfp_link }}
 {{ end }}
