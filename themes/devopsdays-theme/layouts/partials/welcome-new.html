@@ -1,4 +1,4 @@
-{{- $e := partial "functions/getEventData" . -}}
+{{- $e := partial "functions/get-event-data" . -}}
 
 {{- $.Scratch.Set "contentdir" (printf "static/events/%s/" $e.name) -}}
 
