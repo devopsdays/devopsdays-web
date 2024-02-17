@@ -6,8 +6,11 @@ do
 if [[ "$f" == *\.yml ]]
 then
   fbname=$(basename $f .yml)
-  echo $fbname
-  mkdir ${fbname}
-  mv $f ${fbname}/main.yml
+  year=$(cut -d "-" -f1 <<< $fbname)
+  city=$(cut -d "-" -f2- <<< $fbname)
+  file_path="$year/$city"
+  echo $file_path
+  mkdir -p ${file_path}
+  mv $f ${file_path}/main.yml
 fi
 done
