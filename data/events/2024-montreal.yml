@@ -24,7 +24,7 @@ cfp_link: "https://sessionize.com/devopsdays-montreal-2024/" # if you have a cus
 registration_date_start: 2024-02-16T00:00:00-05:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 registration_date_end: 2024-05-27T00:00:00-05:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
-registration_closed: "true" #set this to true if you need to manually close registration before your registration end date
+registration_closed: #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://www.eventbrite.ca/e/devopsdays-montreal-2024-may-2728-confirmed-tickets-643838146227" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 masthead_background: "montreal-background.jpg"
 sharing_image: "montreal-sharing.png"
@@ -39,7 +39,7 @@ location_address: "2200 rue Mansfield, Montréal, Québec, H3A 3R8" #Optional - 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
   - name: location
- # - name: registration
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
