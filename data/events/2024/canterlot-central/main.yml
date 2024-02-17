@@ -1,0 +1,171 @@
+name: "2024-canterlot-central" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2024" # The year of the event. Make sure it is in quotes.
+city: "Canterlot Central" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdayschi" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays is coming to Canterlot!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2024-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2024-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2024-09-19T00:00:00-05:00
+enddate: 2024-09-19T17:00:00-05:00
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start:  # start accepting talk proposals.
+cfp_date_end:  # close your call for proposals.
+cfp_date_announce:  # inform proposers of status
+
+cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Canterlot" # Defaults to city, but you can make it the venue name.
+#
+location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+ # - name: propose
+ # - name: location
+ # - name: registration
+ # - name: program
+ # - name: speakers
+ # - name: sponsor
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Corey Ward"
+    image: "corey-ward.jpg"
+    employer: "Relativity"
+    twitter: "CoreyWardCS"
+    linkedin: "https://www.linkedin.com/in/corey-ward-508ab63a/"
+    bio: "Corey Ward is a Senior Software Engineer at Relativity. He is a father of two children. He loves talking to people. In his free time, Corey reads fantasy novels, plays Beat Saber and loses in Horizon World's Arena Clash."
+  - name: "Kevin Reedy"
+    image: "kevin-reedy.jpg"
+    twitter: "kevinreedy"
+    website: "https://kevinreedy.net"
+    linkedin: "https://www.linkedin.com/in/kevinreedy"
+    github: "kevinreedy"
+    bio: "Kevin Reedy is engineer from Chicago, currently working for GitHub as a Customer Success Architect. He also founded RecRec, where he uses technology to help build communities in recreation sports groups. In his free time, you'll find him Playing Shuffleboard (the kind you'd expect to see on a cruise ship), Cycling, and Cooking."
+  - name: "Brian Andersen"
+    image: "brian-andersen.jpg"
+    linkedin: "https://www.linkedin.com/in/brian-andersen-9a16587"
+    bio: "Brian Andersen is a Senior Systems Engineer at Basis.  In his free time he plays (possibly) an unhealthy amount of games, both of the video and board variety. He also has really enjoys visiting cities with zoos in them."
+  - name: "Dexter Horthy"
+    image: "dexter-horthy.jpg"
+    linkedin: "https://linkedin.com/in/dexterihorthy"
+    twitter: "dexhorthy"
+    github: "dexhorthy"
+    bio: "Dex has been hacking on cloud native tech at Replicated for over 5 years now. When he's not collaborating with software teams or deploying his blog on Kubernetes, he enjoys overcomplicated dinner prep and running the Chicago lakefront."
+  - name: "Albert Cheung"
+    image: "albert-cheung.jpg"
+    linkedin: "http://www.linkedin.com/in/albcheung"
+    bio: "Albert Cheung works in support for a financial institution dealing with production issues and change management. In his free time, he likes to: sail, play pickleball, visit friends outside of Chicago and brew kombucha."
+  - name: "Richard Lewis"
+    image: "richard-lewis.jpg"
+    employer: "3Cloud Solutions"
+    twitter: "Gogorichie"
+    github: "Gogorichie"
+    facebook: "https://facebook.com/RichardLewisJCI"
+    linkedin: "https://linkedin.com/in/gogorichie"
+    website: "https://www.gogorichie.com/"
+    mastodon: "https://mastodon.world/@gogorichie"
+    bio: "Richard is seasoned DevSecOps Consulting Manager at 3Cloud Solutions, boasts over 20 years of experience combining both operations and software development. He specializes in areas such as DevOps, automation of software delivery, monitoring software performance, and infrastructure management throughout the development cycle. In his free time, Richard is an active volunteer with Junior Chamber International (JCI), also known as the Jaycees, and has served on their executive board for numerous years. He is a frequent speaker and participant in user groups in the Chicago area and enjoys discussing topics such as Observability, Cloud Migration, and experiences from DevOps transformations."
+  - name: "Trevor Hess"
+    twitter: "trevorghess"
+    image: "trevor-hess.jpg"
+  - name: "Josh Gavant"
+    image: "josh-gavant.jpg"
+    linkedin: "https://www.linkedin.com/in/joshgav/"
+    website: "https://blog.joshgav.com/"
+    github: "joshgav"
+    twitter: "joshugav"
+    bio: "Josh has enabled software development and delivery at global enterprises for almost 20 years, serving as product manager and solution architect for several big tech vendors as well as platform and product engineer at end user companies. Today as leader of CNCF's TAG App Delivery Josh daily evaluates emerging delivery projects and tools for CNCF integration - from Kubernetes to Argo to Backstage and Crossplane; and as a solution architect for Red Hat he enables global enterprises to efficiently adopt these both technically and culturally."
+  - name: "Schulyer Bishop"
+    image: "schuyler-bishop.jpg"
+    github: "shoeler"
+    linkedin: "https://www.linkedin.com/in/schuylerbishop/"
+    bio: "Hopeless technology / computer geek with a deep interest in SRE, high-trust teams, moving ops towards devs, and the Oxford comma.  I love moving fast, breaking a few things, and showing how true blameless cultures conquer all preconceived fears of other leaders."
+  - name: "Matty Stratton"
+    image: "matt-stratton.jpg"
+    role: "Advisory"
+    website: "https://www.mattstratton.com"
+    linkedin: "https://www.linkedin.com/in/mattstratton"
+    github: "mattstratton"
+    mastodon: "https://hachyderm.io/@mattstratton"
+    bio: "Matty Stratton is the Director of Developer Relations at [Aiven](https://aiven.io) and the founder and co-host of the popular [Arrested DevOps](https://www.arresteddevops.com/) podcast. Matty has over 20 years of experience in IT operations and is a sought-after speaker internationally, presenting at Agile, DevOps, and cloud engineering focused events worldwide. Demonstrating his keen insight into the changing landscape of technology, he recently changed his license plate from `DEVOPS` to `KUBECTL`. He lives in Chicago and has three awesome kids and two Australian Shepherds, whom he loves just a little bit more than he loves Diet Coke."
+  - name: "Hari Vedam"
+    image: "hari-vedam.jpg"
+    employer: "Discover"
+    bio: "Hari Vedam is a cloud engineer.  He is an avid technologist.    His experience includes IT architecture, front-end development, and public + private cloud. When he is not playing with the cloud, his free time includes cooking, reading, and watching movies, especially Marvel."
+    linkedin: "https://www.linkedin.com/in/hariv82"
+    twitter: "HariVedam"
+    github: "harushimo"
+    role: "Advisory"
+  - name: "Chris Read"
+    image: "chris-read.jpg"
+    role: "Advisory"
+    linkedin: "https://www.linkedin.com/in/devopscread/"
+    twitter: "cread"
+    github: "cread"
+    bio: "I help developers understand the environments they are developing for, and helps infrastructure people build better systems. Specialties are Unix (any flavour), scripting and networking. I've done time as a Developer and as a Sys Admin, but now I am both..."
+  - name: "Margaret Valtierra"
+    image: "margaret-valtie.jpg"
+    employer: "Morningstar"
+    twitter: "margaretvaltie"
+    linkedin: "https://www.linkedin.com/in/margaretvaltierra/"
+    github: "margaretvaltie"
+    bio: "Margaret Valtierra is a Program Manager at Morningstar. She runs the AWS Chicago user group, AWS Community Day Midwest, and is a global core organizer for the AWS Community Days. When not at work she can usually be found at the dog park with her dog, Peanut."
+    role: "Advisory"
+  - name: "Christian Herro"
+    image: "christian-herro.jpg"
+    twitter: "christianherro"
+    image: "christian-herro.jpg"
+    employer: "Morningstar"
+    twitter: "christianherro"
+    linkedin: "https://www.linkedin.com/in/christianherro/"
+    github : "christianherro"
+    bio: "Christian Herro manages an SRE team at Morningstar. He co-founded the Madison WI devops meetup and devopsdays MSN. In his free time (pandemic permitting), he enjoys dancing, board games, live music, eating all of the foods, and spending far too much time thinking about Babylon 5."
+    role: "Advisory"
+organizer_email: "chicago@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+
+ #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: arresteddevops
+    level: community
+
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: gold
+    label: Gold
+#    max: 10
+  - id: silver
+    label: Silver
+    max: 0 # This is the same as omitting the max limit.
+  - id: bronze
+    label: Bronze
+  - id: community
+    label: Community

@@ -1,6 +1,6 @@
 +++
 Title = "devopsdays Canterlot 2024"
-Type = "welcome-new"
+Type = "welcome"
 aliases = ["/events/2024-canterlot-central/"]
 Description = "devopsdays Canterlot 2024"
 +++
