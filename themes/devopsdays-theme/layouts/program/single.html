@@ -110,7 +110,7 @@
                   </h5>
                 </div>
 
-                <div id="{{printf "#collapse-%s" ($.Scratch.Get "date") }}" class="collapse show" role="tabpanel" aria-labelledby="{{printf "headingOne-%s" ($.Scratch.Get "date") }}">
+                <div id='{{printf "#collapse-%s" ($.Scratch.Get "date") }}" class="collapse show" role="tabpanel" aria-labelledby="{{printf "headingOne-%s" ($.Scratch.Get "date") }}'>
                   <div class="card-block">
                     <div class="row">
                       <div class="col-lg-6">
@@ -140,7 +140,7 @@
                               {{- if .custom_url -}}
                                 <a href="{{ .custom_url | safeURL }}">{{ $.Scratch.Get (printf "%s-speaker" .title) }} - {{ $.Scratch.Get .title }}</a><br/>
                               {{- else -}}
-                                <a href="{{ (printf "/events/%s/program/%s" $e.name .title) }}">{{ $.Scratch.Get (printf "%s-speaker" .title) }} - {{ $.Scratch.Get .title }}</a><br/>
+                                <a href='{{ (printf "/events/%s/program/%s" $e.name .title) }}'>{{ $.Scratch.Get (printf "%s-speaker" .title) }} - {{ $.Scratch.Get .title }}</a><br/>
                               {{- end -}}
                               {{- if eq  ($.Scratch.Get "icons")  "TRUE" -}}
                                 {{- with ($.Scratch.Get (printf "%s-video_link" .title)) -}}&nbsp;<a href="{{ . }}"><i class="fa fa-video-camera" aria-hidden="true"></i></a>&nbsp;{{- end -}}
@@ -195,7 +195,7 @@
                                 {{- if .custom_url -}}
                                   <a href="{{ .custom_url | safeURL }}">{{ .title }}</a><br/>
                                 {{- else -}}
-                                  <a href="{{ "/open-space-format/" }}">{{ .title }}</a><br/>
+                                  <a href="/open-space-format/">{{ .title }}</a><br/>
                                 {{- end -}}
                               {{- else -}}
                                 {{ .title }}

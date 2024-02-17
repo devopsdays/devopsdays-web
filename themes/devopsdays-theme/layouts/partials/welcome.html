@@ -111,7 +111,7 @@
           {{- if ne (len $other) 0 -}}
             <i>Other {{ $otherTitle }} Events</i><br />
             {{- range sort $other "startdate" -}}
-              <a href = "{{ (printf "/events/%s" .name) }}" class="welcome-page-masthead-link">{{ dateFormat "2006" .startdate }}</a> &nbsp;&nbsp;
+              <a href = '{{ (printf "/events/%s" .name) }}' class="welcome-page-masthead-link">{{ dateFormat "2006" .startdate }}</a> &nbsp;&nbsp;
             {{- end -}}
           {{- end -}}
 

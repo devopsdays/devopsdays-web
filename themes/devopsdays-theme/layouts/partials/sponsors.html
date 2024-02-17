@@ -24,7 +24,7 @@
                     {{- with $e.sponsor_link -}}
                       <a href = "{{ . }}" class="sponsor-cta">
                     {{- else -}}
-                      <a href = "{{ (printf "/events/%s/sponsor" $e.name) }}" class="sponsor-cta">
+                      <a href = '{{ (printf "/events/%s/sponsor" $e.name) }}' class="sponsor-cta">
                     {{- end -}}
                       <i>Join as {{ $level.label }} Sponsor!</i>
                     </a>
@@ -46,7 +46,7 @@
               {{- end -}}
 
               <div class = "col-lg-1 col-md-2 col-4">
-                <a href = "{{ $.Scratch.Get "SponsorURL" }}"><img src = "/img/sponsors/{{ .id }}.png" alt = "{{ $s.name }}" title = "{{ $s.name }}" class="img-fluid"></a>
+                <a href = '{{ $.Scratch.Get "SponsorURL" }}'><img src = "/img/sponsors/{{ .id }}.png" alt = "{{ $s.name }}" title = "{{ $s.name }}" class="img-fluid"></a>
               </div>
             {{- end -}}
           {{- end -}}

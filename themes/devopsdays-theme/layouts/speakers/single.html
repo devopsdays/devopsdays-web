@@ -12,10 +12,10 @@
       <a href = "{{ .Permalink }}">
         {{- with .Params.image -}}
           {{- if ne . "" -}}
-            <img src = "{{ (printf "/events/%s/speakers/%s" $e.name .) }}" class="speakers-page" alt="{{ $.Title }}"/><br />
+            <img src = '{{ (printf "/events/%s/speakers/%s" $e.name .) }}' class="speakers-page" alt="{{ $.Title }}"/><br />
           {{- end -}}
           {{- else -}}
-            <img src = "{{"/img/speaker-default.jpg" }}" class="speakers-page"  alt="{{ .Title }}"/><br />
+            <img src = "/img/speaker-default.jpg" class="speakers-page"  alt="{{ .Title }}"/><br />
         {{- end -}}
       </a>
 

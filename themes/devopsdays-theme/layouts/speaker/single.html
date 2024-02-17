@@ -1,7 +1,6 @@
 {{ define "main" }}
 
 {{- $e := partial "functions/get-event-data" . -}}
-{{/*  {{- $e := index $.Site.Data.events "2023-chicago" "main" -}}  */}}
 <div class = "row">
   <div class = "col-md-12 offset-md-1">
     <h2 class="speaker-page">{{ .Title }}</h2>
@@ -44,10 +43,10 @@
   <div class = "col-md-3 offset-md-1">
     {{- with .Params.image -}}
       {{- if ne . "" -}}
-        <img src = "{{ (printf "/events/%s/speakers/%s" $e.name .) }}" class="img-fluid" alt="{{ $.Title }}"/><br />
+        <img src = '{{ (printf "/events/%s/speakers/%s" $e.name .) }}' class="img-fluid" alt="{{ $.Title }}"/><br />
       {{- end -}}
       {{- else -}}
-        <img src = {{ "/img/speaker-default.jpg"}} class="img-fluid"  alt="{{ .Title }}"/><br />
+        <img src = "/img/speaker-default.jpg" class="img-fluid" alt="{{ .Title }}"/><br />
     {{- end -}}
     {{- if isset .Params "twitter" -}}
       {{- if ne .Params.twitter "" -}}
