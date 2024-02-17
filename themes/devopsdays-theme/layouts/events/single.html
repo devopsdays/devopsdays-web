@@ -9,8 +9,8 @@
   </div>
 </div>
 
-{{ $upcoming := slice }}
-{{ $tbd := slice }}
+{{- $upcoming := slice -}}
+{{- $tbd := slice -}}
 {{- $upcoming = partial "functions/get-upcoming-events" . -}}
 {{- $tbd = partial "functions/get-tbd-events" . -}}
 
@@ -35,12 +35,12 @@
     {{- $.Scratch.Set "close-tag" "true" -}}
   {{- end -}}
   {{- if or (ne (time .startdate).Month (time .enddate).Month) (ne (time .startdate).Day (time .enddate).Day) -}}
-    <a href = "{{ (printf "/events/%s" .name) }}" class = "events-page-event">
+    <a href = '{{ (printf "/events/%s" .name) }}' class = "events-page-event">
   {{ dateFormat "Jan 2" .startdate }} - {{ dateFormat "2" .enddate }}:
   {{ .city }}
     </a><br />
   {{- else -}}
-  <a href = "{{ (printf "/events/%s" .name) }}" class = "events-page-event">
+  <a href = '{{ (printf "/events/%s" .name) }}' class = "events-page-event">
     {{ dateFormat "Jan 2" .startdate }}:
     {{ .city }}
   </a><br />
@@ -50,7 +50,7 @@
 <div class = "col-md-6 col-lg-3 events-page-col">
 <h4 class="events-page-months">TBD</h4>
 {{- range sort $tbd "city" -}}
-    <a href = "{{ (printf "/events/%s" .name) }}" class = "events-page-event">{{ .city }}</a><br />
+    <a href = '{{ (printf "/events/%s" .name) }}' class = "events-page-event">{{ .city }}</a><br />
 {{- end -}}
 </div>
   </div>

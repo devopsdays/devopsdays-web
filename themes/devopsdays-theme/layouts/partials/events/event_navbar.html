@@ -1,6 +1,6 @@
 {{- $e := partial "functions/get-event-data" . -}}
 <nav class="navbar event-navigation navbar-expand-md navbar-light">
-  <a href="{{ (printf "/events/%s" $e.name) }}" class="nav-link">{{ $e.city }}</a>
+  <a href='{{ (printf "/events/%s" $e.name) }}' class="nav-link">{{ $e.city }}</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar2">
     <span class="navbar-toggler-icon"></span>
 </button>
@@ -28,7 +28,7 @@
                 {{- end -}}
               {{- end -}}
                 <li class="nav-item active">
-                  <a class="nav-link" href="{{$.Scratch.Get "url" }}">{{ .name }}</a>
+                  <a class="nav-link" href='{{$.Scratch.Get "url" }}'>{{ .name }}</a>
                 </li>
             {{- end -}}
           {{- end -}}

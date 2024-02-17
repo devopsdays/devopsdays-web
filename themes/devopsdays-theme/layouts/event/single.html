@@ -7,7 +7,7 @@
           {{- else -}}
             <h1>devopsdays {{ $e.city }} - {{ .Title }}</h1>
             {{ .Content }}
-          {{ end }}
+          {{- end -}}
           <br />
          {{- partialCached "sponsors.html" . .File.Dir -}}
       </div>
