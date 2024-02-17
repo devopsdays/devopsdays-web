@@ -1,5 +1,6 @@
 <!-- this function takes in the permalink of an event and returns the index for the event's data file -->
-{{ $slug := (index (split (.Permalink | relURL) "/") 2) }}
+{{/*  {{ $slug := (index (split (.Permalink | relURL) "/") 2) }}  */}}
+{{ $slug := (index (split ($.Page.Permalink | relURL) "/") 2) }}
 {{ $year := (index (split $slug "-" ) 0) }}
 {{ $city := substr $slug 5 }}
 {{- $e := index $.Site.Data.events $year $city "main" -}}

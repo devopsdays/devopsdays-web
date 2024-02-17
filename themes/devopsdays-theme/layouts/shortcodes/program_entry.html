@@ -1,5 +1,5 @@
 <!-- this div is repeated for each timeslot -->
-{{- $e := (index $.Site.Data.events (index (split ($.Page.Permalink | relURL) "/") 2)) -}}
+{{- $e := partial "functions/get-event-data" . -}}
 
 <div class = "row">
   <div class = "col-md-4">
