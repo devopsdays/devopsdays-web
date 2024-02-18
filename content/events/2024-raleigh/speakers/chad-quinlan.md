@@ -2,7 +2,7 @@
 Title = "Chad Quinlan"
 Twitter = "chadteq"
 linkedin = "https://www.linkedin.com/in/chad-quinlan/"
-image = ""
+image = "chad-quinlan.jpg"
 type = "speaker"
 linktitle = "chad-quinlan"
 +++

@@ -89,6 +89,16 @@ team_members:
     twitter: "andyfleener"
     bio: "Andy Fleener is a technologist with over a decade of experience developing and operating highly available SAAS software for the web. He’s a Humanist, a Systems Thinker, a self proclaimed Safety Nerd, and a Contributor to the O’Reilly Chaos Engineering Book. He is the Director of Platform Technology at Total Expert where he's focused on building and stewarding their developer experience and cloud infrastructure platform."
     image: "andy-fleener.jpg"
+  - name: "Jeffrey Sica"
+    employer: "CNCF"
+    twitter: "jeefy"
+    bio: "Jeffrey is Head of Projects at the CNCF, with a focus on improving community and project automation. Before that, he worked at Red Hat and the University of Michigan focusing on Cloud Native technologies and CICD patterns. Jeffrey has been a contributor to upstream Kubernetes, helping in SIG-Contribex, SIG-Release, and SIG-UI. He passionately advocates for open source development and recognizing and alleviating burnout."
+    image: "jeffrey-sica.png"
+  - name: "Bob Killen"
+    employer: "Google"
+    twitter: "MrBobbyTables"
+    bio: "Bob is a Program Manager at the [Google Open Source Programs Office](https://opensource.google/) with a focus on Cloud Native computing. He serves the [Kubernetes project](https://kubernetes.io/) as a [Steering Committee](https://github.com/kubernetes/community/tree/master/committee-steering) member and is a recently retired chair of the [Contributor Experience](https://github.com/kubernetes/community/tree/master/sig-contributor-experience) Special Interest Group. Bob comes from an academic background, spending 15 years at the University of Michigan with a later focus on computational research. As a [Cloud Native Computing Foundation Ambassador](https://www.cncf.io/people/ambassadors/), Bob has worked towards improving High Performance Computing, Machine Learning, and other research initiatives by integrating them with Cloud Native practices and tooling. He is passionate about Academic Outreach, and is an outspoken advocate of Open Source, Open Science and pets of the furry 4 legged variety."
+    image: "bob-killen.jpeg"
 
 organizer_email: "minneapolis@devopsdays.org" # Put your organizer email address here
 

@@ -1,0 +1,42 @@
+name: Check for large files
+
+on:
+  pull_request_target:
+    types: [opened, edited, reopened, synchronize]
+
+jobs:
+  check_large_files:
+   permissions:
+      issues: write
+      pull-requests: write
+   runs-on: ubuntu-latest
+   steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      with:
+          fetch-depth: 0
+
+    - name: Check for PDFs and large files
+      run: |
+        git fetch origin main
+        changed_files_with_sizes=$(git diff --numstat origin/main...HEAD)
+        has_large_file=false
+        IFS=$'\n'
+        for line in $changed_files_with_sizes; do
+          size=$(echo "${line}" | awk '{print $1}')
+          file=$(echo "${line}" | awk '{print $3}')
+          # Any file larger than 3MB or PDF
+          if [[ ${size} -gt $((3 * 1024 * 1024)) ]] || [[ "${file}" == *.pdf ]]; then
+            has_large_file=true
+            break
+          fi
+        done
+        echo "HAS_LARGE_FILE=${has_large_file}" >> $GITHUB_ENV
+        
+    - name: Comment on PR
+      id: comment
+      if: ${{ env.HAS_LARGE_FILE == 'true' }}
+      uses: thollander/actions-comment-pull-request@v2
+      with:
+        message: |
+           :warning: Warning: This PR contains a PDF or large file(s). In most cases, you should use the [asset repository](https://github.com/devopsdays/devopsdays-assets/)         
