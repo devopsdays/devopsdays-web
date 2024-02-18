@@ -7,13 +7,4 @@ type = "speaker"
 linktitle = "john-willis"
 +++
 
-The IT management experience of John Willis spans over 40 years. He has
-worked as a consultant and evangelist for Red Hat and Docker. Willis
-previously founded Socketplane (sold to Docker) and Enstratius (sold to
-Dell). He was the VP of Training & Services at Chef before joining
-Enstratius, where he formalized the company's training, evangelism, and
-professional services functions. Gulf Breeze Software, an award-winning
-IBM business partner specializing in Tivoli technology deployment, was
-also founded by Willis. He is the co-author of the DevOps Handbook and
-Investments Unlimited. Over the past 40 years, he has written 12 books
-and built 12 startups with three successful exits.
+John Willis has worked in the IT management for over 40 years. He is researching DevOps, DevSecOps, IT risk, modern governance, and audit compliance. Previously, he was an Evangelist at Docker Inc., VP of Solutions for Socketplane (sold to Docker) and Enstratius (sold to Dell), and VP of Training & Services at Opscode, where he formalized the training, evangelism, and professional services functions at the firm. Additionally, Willis founded Gulf Breeze Software, an award-winning IBM business partner specializing in Tivoli technology deployment. As an author, Willis has written six IBM Redbooks on enterprise systems management and four books for IT Revolution, including the DevOps Handbook. He is working on his latest book, The Operational History of Generative AI.

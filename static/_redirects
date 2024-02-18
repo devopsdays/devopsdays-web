@@ -61,8 +61,8 @@
 /kazan/*		/events/2018-kazan/:splat		302
 /kiel/*			/events/2018-kiel/:splat		302
 /krakow/*		/events/2023-krakow/:splat		302
-/kiev/*			/events/2023-kyiv/:splat		302
-/kyiv/*			/events/2023-kyiv/:splat		302
+/kiev/*			/events/2024-kyiv/:splat		302
+/kyiv/*			/events/2024-kyiv/:splat		302
 /ljubljana/*		/events/2023-ljubljana/:splat		302
 /london/*		/events/2024-london/:splat		302
 /los-angeles/*		/events/2022-los-angeles/:splat		302
@@ -119,7 +119,7 @@
 /texas/*		/events/2021-texas/:splat		302
 /tokyo/*		/events/2022-tokyo/:splat		302
 /toronto/*		/events/2020-toronto/:splat		302
-/ukraine/*		/events/2023-kyiv/:splat		302
+/ukraine/*		/events/2024-kyiv/:splat		302
 /vancouver/*		/events/2024-vancouver/:splat		302
 /victoria/*		/events/2019-victoria/:splat		302
 /vitoria/*		/events/2022-vitoria/:splat		302
@@ -176,6 +176,7 @@
 /organizer-summit/*            /events/2024-organiser-summit/:splat           302
 /organiser-summit/*            /events/2024-organiser-summit/:splat           302
 /nova-lima/*            /events/2024-nova-lima/:splat           302
+/belo-horizonte/*	/events/2024-belo-horizonte/:splat	302
 
 # support ghent not being in ghent
 /15year/*		/events/2024-ghent/:splat		302
