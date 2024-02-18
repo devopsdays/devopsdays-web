@@ -135,6 +135,8 @@ sponsors:
   # Silver
   - id: sysdig
     level: silver
+  - id: cinq
+    level: silver
   # Bronze
   - id: devleaps
     level: bronze
