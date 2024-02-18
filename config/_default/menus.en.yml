@@ -1,0 +1,25 @@
+main:
+  - name: events
+    pageRef: /events
+    weight: -150
+    identifier: events
+  - name: blog
+    pageRef: /blog
+    weight: -140
+    identifier: blog
+  - name: sponsor
+    pageRef: /sponsor
+    weight: -130
+    identifier: sponsor
+  - name: speaking
+    pageRef: /speaking
+    weight: -120
+    identifier: speaking
+  - name: organizing
+    pageRef: /organizing
+    weight: -110
+    identifier: organizing
+  - name: about
+    pageRef: /about
+    weight: -100
+    identifier: about
