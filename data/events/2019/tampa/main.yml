@@ -1,0 +1,293 @@
+name: "2019-tampa" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2019" # The year of the event. Make sure it is in quotes.
+city: "Tampa Bay" # The displayed city name of the event. Capitalize it.
+event_twitter: "dodtampabay" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays is coming to Tampa Bay!" # Edit this to suit your preferences
+ga_tracking_id: "UA-127670911-1" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+masthead_background: "logo-square.jpg"
+speakers_verbose: "true"
+
+# All dates are in unquoted YYYY-MM-DD or YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T23:59:59+02:00
+startdate: 2019-06-07T00:00:00-04:00  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2019-06-07T23:59:59-04:00  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+
+cfp_date_start: 2019-03-08  # start accepting talk proposals.
+cfp_date_end: 2019-04-24  # close your call for proposals.
+cfp_date_announce: 2019-05-01  # inform proposers of status
+
+cfp_open: "true"
+#cfp_link: "https://www.papercall.io/dodtampabay" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link:
+
+registration_date_start: 2019-03-11T00:00:00-05:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2019-06-02T23:59:59-04:00 # close registration. Leave blank if registration is not open yet.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "28.047912,-82.655489" #  The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Tampa Bay" # Defaults to city, but you can make it the venue name.
+#
+location_address: "501 Brooker Creek Blvd, Oldsmar, FL 34677" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+#  - name: propose
+#    url: /events/2019-tampa/propose
+#    icon: "book"
+  - name: location
+    icon: "map-o"
+    url: /events/2019-tampa/location
+#  - name: registration
+  - name: program
+  - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+#  - name: contributers
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "James Gress"
+    twitter: "jmgress"
+    employer: "Accenture"
+    github: "jmgress"
+    facebook: "https://www.facebook.com/jamesgress"
+    linkedin: "https://www.linkedin.com/in/jamesgress"
+    website: "http://accenture.com"
+    image: "jamesgress.jpg"
+  - name: "Keith Sartain"
+    employer: "ConnectWise"
+    facebook: "https://www.facebook.com/kbsartain"
+    linkedin: "https://www.linkedin.com/in/keith-sartain-630b441"
+    website: "http://connectwise.com"
+    image: "keithsartain.jpg"
+  - name: "Dhanasekar Chandran"
+    employer: "Nielsen"
+    website: "http://www.nielsen.com/"
+    linkedin: "https://www.linkedin.com/in/dhanasekar-chandran/"
+    image: "dhana.jpg" 
+  - name: "Manny Rodriguez-Perez"
+    employer: "Dell"
+    website: "http://www.dell.com/"
+    image: "mannyrodriguez.jpg"
+  - name: "Nathan Whitley"
+    employer: "Nielsen"
+    website: "http://www.nielsen.com/"
+    linkedin: "https://www.linkedin.com/in/nathan-whitley-24080253/"
+    image: "nathanwhitley.jpg" 
+  - name: "Jess Ladika"
+    employer: "Kforce"
+    image: "jessladika.jpg"
+    website: "http://kforce.com"
+  - name: "Josh Stone"
+    twitter: "stonejoshstone"
+    employer: "Verizon"
+    github: "stonejoshstone"
+    linkedin: "https://www.linkedin.com/in/stonejoshstone"
+    website: "http://verizon.com"
+    image: "joshstone.jpg"   
+  - name: "Karen Whelan"
+    twitter: "corona_flga"
+    employer: "Verizon"
+    linkedin: "https://www.linkedin.com/in/karen-whelan-015914179/"
+    website: "http://verizon.com"
+    image: "kwhelanpic.jpg"
+  - name: "Devon Ford"
+    employer: "TEKsystems"
+    website: "http://www.teksystems.com/en"
+    linkedin: "https://www.linkedin.com/in/devon-ford-997b30bb/"
+    image: "devonford.jpg" 
+
+
+organizer_email: "tampa@devopsdays.org" # Put your organizer email address here
+proposal_email: "tampa@devopsdays.org" # Put your proposal email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: nielsen
+    level: venue
+  - id: dynatrace
+    level: platinum
+  - id: gitlab-before-20220516
+    level: platinum
+  - id: datical
+    level: platinum
+  - id: accenturesiq
+    level: platinum
+  - id: jpmc-before-20200829
+    level: platinum
+  - id: delphix-before-20220810
+    level: platinum
+  - id: techdata
+    level: gold
+  - id: connectwise
+    level: registration
+  - id: insight
+    level: gold
+  - id: aws
+    level: gold
+  - id: agilethought
+    level: gold
+  - id: verizon
+    level: diamond
+  - id: pivotal
+    level: gold
+  - id: ignw
+    level: gold     
+  - id: synopsys
+    level: diamond   
+  - id: clearlyagile
+    level: gold
+  - id: refactr
+    level: gold
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: venue
+    label: Venue
+    max: 1
+  - id: diamond
+    label: Diamond
+    max: 2
+  - id: platinum
+    label: Platinum
+    max: 4 # This is the same as omitting the max limit.
+  - id: registration
+    label: Registration
+  - id: gold
+    label: Gold
+  - id: se
+    label: "Social Event"
+
+program:
+  - title: "Check In & Breakfast"
+    type: custom
+    date: 2019-06-07
+    start_time: "07:30"
+    end_time: "08:30"
+  - title: "Welcome & Opening Remarks"
+    type: custom
+    date: 2019-06-07
+    start_time: "08:30"
+    end_time: "08:40"
+  - title: "andrew-c-shafer"
+    type: talk
+    date: 2019-06-07
+    start_time: "08:40"
+    end_time: "09:20"
+  - title: "michael-fraser"
+    type: talk
+    date: 2019-06-07
+    start_time: "09:25"
+    end_time: "09:50"
+  - title: "gerie-owen"
+    type: talk
+    date: 2019-06-07
+    start_time: "09:55"
+    end_time: "10:20"
+  - title: "Break 1 / Expo / Get More Coffee!"
+    type: custom
+    date: 2019-06-07
+    start_time: "10:20"
+    end_time: "10:50"
+  - title: "shimron-trammell"
+    type: talk
+    date: 2019-06-07
+    start_time: "10:50"
+    end_time: "11:15"     
+  - title: "mofizur-rahman"
+    type: talk
+    date: 2019-06-07
+    start_time: "11:20"
+    end_time: "11:45"   
+  - title: "Lunch Starts"
+    type: custom
+    date: 2019-06-07
+    start_time: "11:50"
+    end_time: "11:50"
+  - title: "Diamond Talks"
+    type: custom
+    date: 2019-06-07
+    start_time: "12:05"
+    end_time: "12:15"
+  - title: "dave-meurer"
+    type: talk
+    date: 2019-06-07
+    start_time: "12:15"
+    end_time: "12:45"
+  - title: "Lunch Ends"
+    type: custom
+    date: 2019-06-07
+    start_time: "12:50"
+    end_time: "12:50"
+  - title: "Open Spaces"
+    type: custom
+    date: 2019-06-07
+    start_time: "13:00"
+    end_time: "14:00"
+  - title: "sarrah-vesselov"
+    type: talk
+    date: 2019-06-07
+    start_time: "14:00" 
+    end_time: "14:40"       
+  - title: "heather-l-cole"
+    type: talk
+    date: 2019-06-07
+    start_time: "14:45" 
+    end_time: "15:10"
+  - title: "Break 2 / Expo / Snack Time!"
+    type: custom
+    date: 2019-06-07
+    start_time: "15:10"
+    end_time: "15:40"
+  - title: "Ignites"
+    type: ignite
+    date: 2019-06-07
+    start_time: "15:40"
+    end_time: "16:40"
+  - title: "frankie-ji"
+    type: talk
+    date: 2019-06-07
+    start_time: "16:40" 
+    end_time: "17:05"   
+  - title: "Closing Remarks"
+    type: custom
+    date: 2019-06-07
+    start_time: "17:05"
+    end_time: "17:15"
+
+ignites:
+  - title: "andrew-martin"
+    date: 2019-06-07
+  - title: "barry-matheney"
+    date: 2019-06-07
+  - title: "karl-weinmeister"
+    date: 2019-06-07
+  - title: "roberto-isla"
+    date: 2019-06-07
+  - title: "suresh-chandra"
+    date: 2019-06-07
+  - title: "william-morgan"
+    date: 2019-06-07
+  - title: "bjorn-edwin"
+    date: 2019-06-07
+  - title: "donna-knapp"
+    date: 2019-06-07
+  - title: "peter-varhol"
+    date: 2019-06-07
+  - title: "timothy-adams"
+    date: 2019-06-07
+  - title: "marklyton-holmes"

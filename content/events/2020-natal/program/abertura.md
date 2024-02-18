@@ -1,5 +1,5 @@
 +++
-Talk_date = "2020-03-28"
+Talk_date = "2020-11-14"
 Talk_start_time = "08:30"
 Talk_end_time = "08:40"
 Title = "Abertura"

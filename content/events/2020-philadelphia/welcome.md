@@ -5,9 +5,13 @@ aliases = ["/events/2020-philadelphia/"]
 Description = "devopsdays philadelphia 2020"
 +++
 
-<!-- <div style="text-align:center;">
+<div style="text-align:center;">
   {{< event_logo >}}
-</div> -->
+</div>
+
+<div class = "row" style="background: #ed0b07; color: #ffffff; padding: 20px; margin: 20px; font-size: 20px">
+<p>UPDATE: Due to COVID-19 we have decided to cancel DevOpsDays Philadelphia for 2020. We will be returning in 2021, please stay tuned. For any questions or concerns, please reach out at philadelphia@devopsdays.org</p>
+</div>
 
 <div class = "row">
   <div class = "col-md-2">

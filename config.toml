@@ -10,6 +10,13 @@ archetypedir = "archetypes"
 PaginatePath = "blog"
 buildDrafts = false
 disableKinds = ["taxonomy", "taxonomyTerm"]
+enableEmoji = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+    unsafe = true
+
 
 [[menu.main]]
   name = "events"

@@ -1,0 +1,158 @@
+name: 2016-minneapolis # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: 2016 # The year of the event. Make sure it is in quotes.
+city: "Minneapolis" # The city name of the event. Capitalize it.
+friendly: "2016-minneapolis" # Four digit year and the city name in lower-case. Don't forget the dash!
+status: "past" # Options are "past" or "current".
+startdate: 2016-07-20T00:00:00-05:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2016-07-21T23:59:59-05:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+cfp_date_start: 2016-01-01
+cfp_date_end: 2016-03-31
+cfp_date_announce: 2016-05-01
+coordinates: "44.972610,-93.272960" # The corrodinates of your venue. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Downtown Minneapolis Hilton" # The name of your location
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+ 
+  - name: program
+  - name: speakers
+  - name: location
+  - name: sponsor
+  - name: contact
+  - name: conduct
+
+team_members: # Name is the only required field for team members.
+  - name: "Bridget Kromhout"
+    twitter: "bridgetkromhout"
+    employer: "Pivotal"
+  - name: "Andy Domeier"
+    twitter: "ajdomie"
+    employer: "SPS Commerce"
+  - name: "Donnie Berkholz"
+    twitter: "dberkholz"
+    employer: "451 Research"
+  - name: "Tony Notto"
+  - name: "Joe Laha"
+    twitter: "joelaha"
+  - name: "Heather Mickman"
+  - name: "Jeff Williams"
+  - name: "Samantha Grumdahl"
+
+organizer_email: "organizers-minneapolis-2016@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-minneapolis-2016@devopsdays.org" # Put your proposal email address here
+sponsors_accepted: "no"
+sponsors: # List all of your sponsors here along with what level of sponsorship they have.
+  - id: pivotal-before-20190307 
+    level: platinum
+  - id: chef-before-20210112
+    level: platinum
+  - id: optum
+    level: platinum
+  - id: thoughtworks-products-before-20160908
+    level: gold
+  - id: signalfx-before-20170602
+    level: silver
+  - id: pantheon
+    level: silver
+  - id: veritas
+    level: silver
+  - id: victorops-before-20180823
+    level: silver
+  - id: ca_tech
+    level: gold
+  - id: elastic-before-20221004
+    level: silver
+  - id: sumologic-before-20181203
+    level: gold
+  - id: govdelivery
+    level: silver
+  - id: logicmonitor
+    level: silver
+  - id: parasoft
+    level: gold
+  - id: cloudbees-before-20161025
+    level: silver
+  - id: target
+    level: gold
+  - id: solidfire
+    level: gold
+  - id: morpheus_data
+    level: silver
+  - id: deis
+    level: silver
+  - id: evident
+    level: gold
+  - id: ubuntu-before-20160929
+    level: silver
+  - id: pagerduty-before-20190930
+    level: gold
+  - id: sps_commerce
+    level: gold
+  - id: appdynamics-before-20170721
+    level: gold
+  - id: saucelabs
+    level: silver
+  - id: newrelic-before-20220808
+    level: gold
+  - id: wheniwork
+    level: silver
+  - id: apprenda
+    level: gold
+  - id: dynatrace
+    level: silver
+  - id: workiva
+    level: gold
+  - id: columnpuppet
+    level: silver
+  - id: merrill
+    level: gold
+  - id: redhat-before-20190528
+    level: silver
+  - id: github
+    level: gold
+  - id: microsoft
+    level: silver
+  - id: arresteddevops
+    level: community
+  - id: oreilly-before-20190725
+    level: community
+  - id: softwaredefinedtalk
+    level: community
+  - id: gitmsp-before-20170629
+    level: community
+  - id: blacksintechnology
+    level: community
+  - id: hackthegap-before-20220707
+    level: community
+
+sponsor_levels: # In this section, list the level of sponsorships and the label to use.
+  - id: platinum
+    label: Platinum
+  - id: gold
+    label: Gold
+  - id: silver
+    label: Silver
+  - id: community
+    label: Community
+
+speakers:
+  - id: "nicole-forsgren"
+    level: talk
+  - id: "megan-carney"
+    level: talk
+  - id: "jamie-riedesel"
+    level: talk
+  - id: "jeff-smith"
+    level: talk
+  - id: "ben-zvan"
+    level: talk
+  - id: "sarah-goff-dupont"
+    level: talk
+  - id: "allan-espinosa"
+    level: talk
+  - id: "charity-majors"
+    level: talk
+
+
+speaker_levels:
+  - id: talk
+    label: Talk

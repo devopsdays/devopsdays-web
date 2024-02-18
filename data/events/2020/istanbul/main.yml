@@ -1,0 +1,91 @@
+name: "2020-istanbul" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2020" # The year of the event. Make sure it is in quotes.
+city: "Istanbul" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaysist" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "DevOpsDays in Turkey (İstanbul and Ankara are teaming up) is going online this year. Check out <a href=\"https://devopsdays.istanbul\"/>devopsdays.istanbul</a> for details."
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2020-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2020-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2020-06-25T00:00:00+03:00
+enddate: 2020-06-25T23:59:59+03:00
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start:  # start accepting talk proposals.
+cfp_date_end:  # close your call for proposals.
+#cfp_date_announce:   # inform proposers of status
+
+cfp_open: "false"
+cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: 2020-05-21T23:59:59+03:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: # close registration. Leave blank if registration is not open yet.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://kommunity.com/devops-turkiye/events/devopsdays-turkiye-online-2020-c0b34c6a" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+location: "Online"
+location_address: ""
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+ # - name: propose
+ # - name: location
+  - name: registration
+ # - name: program
+ # - name: speakers
+ # - name: sponsor
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Derya Sezen"
+  - name: "Mesut Can Gürle"
+  - name: "Serhat Can"
+  - name: "Barbaros Kuz"
+  - name: "Mehmet Ali Aydın"
+  - name: "Mehmet Taşkıner"
+  - name: "Ceren Coşkun"
+  - name: "Salih Emre Sert"
+  - name: "Zeldal Özdemir"
+  - name: "Sedef Kömürcü"
+  - name: "Saha Baygul Ozpinar"
+  - name: "Aybüke Özdemir Kaya"
+  - name: "Tunahan Yediel"
+  - name: "Emrullah Acar"
+  - name: "Ömer Büyükoğlu"
+  - name: "Mert Saygı"
+#  - name: "Barış Şekerciler"
+
+organizer_email: "istanbul@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: devopsturkey
+    level: community
+  - id: serverlessturkey
+    level: community
+  - id: velvet
+    level: community
+  - id: devnot
+    level: community
+
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: community
+    label: Community

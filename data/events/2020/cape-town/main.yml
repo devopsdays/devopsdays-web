@@ -1,0 +1,118 @@
+name: "2020-cape-town" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2020" # The year of the event. Make sure it is in quotes.
+city: "Cape Town" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdayscpt" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "While our 2020 event will no longer happen, we will return in 2021."
+ga_tracking_id: "UA-105986234-1"
+
+# All dates are in unquoted 2020-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2020-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate:
+enddate:
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start:
+cfp_date_end:
+cfp_date_announce:
+
+cancel: "true"
+
+cfp_link: "https://sessionize.com/devopsdays-cape-town-2020" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: # close registration. Leave blank if registration is not open yet.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+coordinates:
+location:
+location_address:
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: contact
+  - name: conduct
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Adrian Moisey"
+    image: "adrian-moisey.jpg"
+    employer: "SalesLoft"
+    twitter: "adrianmoisey"
+    github: "adrianmoisey"
+    gitlab: "adrianmoisey"
+    linkedin: "https://www.linkedin.com/in/adrian-moisey-b6705744"
+    facebook: "https://www.facebook.com/adrianbmoisey"
+    website: "https://adrianmoisey.gitlab.io/"
+    bio: "Adrian is a Systems Engineer at SalesLoft. He is involved with the DevOps scene in Cape Town, organises meetups and is active on the local ZATech slack group."
+  - name: "Cobus Bernard"
+    image: "cobus-bernard.jpg"
+    employer: "Amazon Web Services"
+    twitter: "cobusbernard"
+    github: "cobusbernard"
+    gitlab: "cobusbernard"
+    linkedin: "https://www.linkedin.com/in/cobusbernard/"
+    facebook: "https://www.facebook.com/cobusbernard"
+    website: "http://cobus.io/"
+    bio: "Cobus is the AWS Senior Technical Evangelist for Sub-Saharan Africa. He started the Cape Town DevOps meetups in 2015 and tries to spread the DevOps gospel after spending years in both dev and ops."
+  - name: "Madelein van Niekerk"
+    image: "madelein-van-niekerk.jpg"
+    employer: "OfferZen"
+    #twitter: ""
+    github: "madeleinvanniekerk"
+    linkedin: "https://www.linkedin.com/in/madelein-farrell/"
+    bio: "Madelein believes in the importance of allowing people do what they do best. She is a DevOps engineer at OfferZen and enjoys solving hard problems."
+  - name: "Marije Pierson"
+    image: "marije-pierson.jpg"
+    employer: "AppointmentGuru"
+    #twitter: ""
+    github: "marijep"
+    linkedin: https://www.linkedin.com/in/marije-pierson/"
+    bio: "Marije has experience in operations, organising, consulting, managing, conferencing, admin, customer supporting and streamlining things."    
+  - name: "Tom Bamford"
+    image: "tom-bamford.jpg"
+    employer: "@planet"
+    twitter: "tom_bamford"
+    github: "manicminer"
+    linkedin: "https://www.linkedin.com/in/tombamford"
+    bio: "Tom helps organizations to self-integrate and move faster. Blaster of red tape and pointing/clicking. Mediator by day, automaton by night."
+
+organizer_email: "cape-town@devopsdays.org"
+proposal_email: "cape-town@devopsdays.org"
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: rapiddeploy
+    level: gold
+  - id: zappi
+    level: gold
+  - id: arresteddevops
+    level: community
+  - id: devops-meetup-capetown
+    level: community
+  - id: scaleconf
+    level: community
+
+sponsors_accepted : "no"
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+
+sponsor_levels:
+  - id: platinum
+    label: Platinum
+  - id: gold
+    label: Gold
+  - id: silver
+    label: Silver
+  - id: basic
+    label: Basic
+  - id: community
+    label: Community

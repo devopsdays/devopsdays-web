@@ -18,8 +18,8 @@ Description = "devopsdays Recife 2019"
     <div class="d-flex flex-row">
       <div class="col-md-12">
         <div class="p-2">
-          <a class="btn btn-secondary btn-block" href="https://www.sympla.com.br/devopsdays-recife__660075" target="_blank"> <i
-              class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Faça a sua inscrição!</a>
+          <!-- <a class="btn btn-secondary btn-block" href="https://www.sympla.com.br/devopsdays-recife__660075" target="_blank"> <i -->
+            <!--  class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Faça a sua inscrição!</a> -->
         </div>
         <div class="p-2">
           <a class="btn btn-secondary btn-block" href="/events/2019-recife/contact"> <i

@@ -1,6 +1,6 @@
 # Build Process
 
-When merging to master, things work a little differently. In addition to the `hugo` command that builds the static pages, a few more steps take place. This is a WIP document to hopefully take information out of [@mattstratton](https://www.github.com/mattstratton)'s head and share it somewhere.
+When merging to main, things work a little differently. In addition to the `hugo` command that builds the static pages, a few more steps take place. This is a WIP document to hopefully take information out of [@mattstratton](https://www.github.com/mattstratton)'s head and share it somewhere.
 
 ## `netlify.toml`
 

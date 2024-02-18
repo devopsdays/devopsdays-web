@@ -2,7 +2,7 @@
 Title = "devopsdays Caceres 2020"
 Type = "welcome"
 aliases = ["/events/2020-caceres/"]
-Description = "devopsdays Caceres 2020"
+Description = "devopsdays Cáceres 2020"
 +++
 
 <div class = "row">
@@ -58,20 +58,30 @@ Description = "devopsdays Caceres 2020"
         <li>
           Openspaces in the afternoon.
         </li>
+        <li>
+          Although Spanish will be the primary language of the conference, we will have some of the talks in English.
+        </li>
       </ul>
     </p>
     </br>
     <div class="d-flex flex-row">
       <div class="col-md-12">
-        <div><p style="font-weight: bold; font-size: 1.5em;">Call for talks ends on January 6th</p></div>
         <div class="d-flex p-2">
           <a class="btn btn-secondary btn-block" style= "background-color: #96bfe6; border-color: #96bfe6;" href="/events/2020-caceres/sponsor"> <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference</a>
         </div>
         <div class="d-flex p-2">
-          <a class="btn btn-secondary btn-block" style= "background-color: #96bfe6; border-color: #96bfe6;" href="https://forms.gle/6PJgqZqLbdMB664f8" rel="noopener"> <i class="fa fa-file-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Propose</a>
+          <a class="btn btn-secondary btn-block" style= "background-color: #96bfe6; border-color: #96bfe6;" href="/events/2020-caceres/contact"> <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Contact the Organizers</a>
         </div>
         <div class="d-flex p-2">
-          <a class="btn btn-secondary btn-block" style= "background-color: #96bfe6; border-color: #96bfe6;" href="/events/2020-caceres/contact"> <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Contact the Organizers</a>
+          <a class="btn btn-secondary btn-block" style= "background-color: #96bfe6; border-color: #96bfe6;" href="https://devopsdays.cc" rel="noopener"> <i class="fa fa-file-code-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Link to DevOpsDays Cáceres web</a>
+        </div>
+        <div class="col-md-8">
+          <p></p>
+        </div>
+        <div class="col-md-8">
+          <a href="https://www.meetup.com/es-ES/caceres-devops" target="_blank">
+              <i class="fa fa-meetup fa-lg"></i>&nbsp; Cáceres Devops
+            </a>
         </div>
       </div>
     </div>
@@ -106,14 +116,14 @@ Description = "devopsdays Caceres 2020"
   </div>
 </div> -->
 
-<div class = "row">
+<!--<div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     <a href="https://forms.gle/6PJgqZqLbdMB664f8" rel="noopener">Propose a talk!</a>
   </div>
-</div>
+</div> -->
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -153,5 +163,23 @@ Description = "devopsdays Caceres 2020"
 
 <!-- Uncomment if you added your city twitter name -->
 
-{{< event_twitter >}}
+<div class = "row">
+  <div class = "col-md-12">
+    <div class = "row justify-content-center">
+      <div class = "d-flex p-2">
+        <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px;   background-color: #418ede; border-color: #418ede;" href="https://twitter.com/DevOpsDaysCC">
+        <i class="fa fa-twitter fa-lg"></i>&nbsp;&nbsp;&nbsp;Follow @DevOpsDaysCC</a>
+      </div>
+      <div class = "d-flex p-2">
+        <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #418ede; border-color: #96b418edefe6;" href="https://www.facebook.com/events/478212639473527/">
+        <i class="fa fa-facebook-square fa-lg"></i>&nbsp;&nbsp;&nbsp;Like Us On Facebook</a>
+      </div>
+      <div class = "d-flex p-2">
+        <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #418ede; border-color: #96b418edefe6;" href="https://www.linkedin.com/company/devopsdayscc/">
+        <i class="fa fa-linkedin fa-lg"></i>&nbsp;&nbsp;&nbsp;Like Us On LinkedIn</a>
+      </div>
+    </div>
+  </div>
+</div>
+
 

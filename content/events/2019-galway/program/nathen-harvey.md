@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "SRE - Using Error Budgets to Prioritize Work"
 Type = "talk"
 Speakers = ["nathen-harvey"]
+Slideshare = "https://www.slideshare.net/nathenharvey/using-error-budgets-to-prioritize-work-201878961"
 +++
 
 Site Reliability Engineering (SRE) is a set of principles, practices, and organizational constructs that seek to balance the reliability of a service with the need to continually deliver new features. An error budget is the primary construct used to help balance these seemingly competing goals.

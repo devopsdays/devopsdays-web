@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "DevOps and Legacy Code"
 Type = "talk"
 Speakers = ["oliver-hankeln", "peter-gotz"]
+Youtube = "9SejWRhy2jo"
 +++
 
 Unfortunately we can't all work in startup companies. 

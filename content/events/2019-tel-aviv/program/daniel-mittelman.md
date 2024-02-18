@@ -12,4 +12,3 @@ Albeit being a common industry practice, using the same service provider for net
 This talk will present the process that we've gone through in order migrate our production DNS zone to another provider, starting from the research process of electing a new provider that would suit our needs, through the creation of a playbook with clear checkpoints and a flashing "point-of-no-return" and with the actual execution of that playbook.
 
 We would touch on key topics such as building a process that we can execute with confidence, including how to fully simulate a migration before actually doing it; how to use IaC tooling to manage DNS in a Multi-DNS architecture; how to monitor the progress of DNS propagation; and, what unexpected surprises we encountered along the way and how we solved them.
-~/event sponsors

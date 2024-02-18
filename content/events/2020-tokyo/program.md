@@ -5,14 +5,4 @@ type = "event"
 
 +++
 
-<div class = "row">
-  <div class = "col-md-12">
-    <hr />
-
-    Our Keynote Speakers include Jez Humble!
-    <hr />
-
-    <!-- Check out <a href="https://confengine.com/devopsdays-tokyo-2019/schedule">Program Schedule at Confengine</a> to see our most up-to-date schedule
-    <hr />
-  </div> -->
-</div>
+<h2>devopsdays Tokyo 2020 (previously scheduled for Thursday, Apr 9, 2020 - Friday, Apr 10, 2020) has been cancelled due to COVID-19; please see <a href="https://www.devopsdaystokyo.org/">devopsdaystokyo.org</a> for the latest information.</h2>

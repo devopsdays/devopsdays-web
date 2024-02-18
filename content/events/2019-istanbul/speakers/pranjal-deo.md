@@ -1,7 +1,7 @@
 +++
 Title = "Pranjal Deo"
 Twitter = ""
-image = "pranjalDeo.jpeg"
+image = "pranjaldeo.jpeg"
 type = "speaker"
 linktitle = "pranjal-deo"
 

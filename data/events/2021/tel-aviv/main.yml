@@ -1,0 +1,445 @@
+name: "2021-tel-aviv" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2021" # The year of the event. Make sure it is in quotes.
+city: "Tel Aviv" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaystlv" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays is coming to Tel Aviv!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2021-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2021-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2021-11-24T09:00:00+02:00
+enddate: 2021-11-25T17:30:00+02:00
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2021-06-30T00:00:00+02:00
+cfp_date_end: 2021-08-31T23:59:59+02:00
+cfp_date_announce: 2021-06-30T00:00:00+02:00
+
+cfp_link: "https://www.papercall.io/devopsdays-tlv-2021" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: 2021-10-01T00:00:00+02:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2021-11-25T00:00:00+02:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://tlvcommunity.dev/devopsdays/register" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+coordinates: "32.11091901983046, 34.80388762740464" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Smolarz Auditorium, Tel Aviv University" # Defaults to city, but you can make it the venue name.
+location_address: "Dr George Wise St 24, Tel Aviv-Yafo" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+ # - name: propose
+  - name: location
+ # - name: registration
+  - name: program
+ # - name: speakers
+ # - name: sponsor
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Sharone Zitzman"
+    employer: "RTFM Please Ltd."
+    github: "shar1z"
+    linkedin: "https://www.linkedin.com/in/sharonez"
+    website: "https://rtfmplease.dev"
+    image: "sharone-zitzman.jpg"
+
+  - name: "Avishai Ish Shalom"
+    employer: "ScyllaDB"
+    github: "nukemberg"
+    linkedin: "https://www.linkedin.com/in/nukemberg/"
+    website: "https://scylladb.com"
+    image: "avishai-ishshalom.jpg"
+
+  - name: "Andrei Burd"
+    employer: "Hashicorp"
+    github: "burdandrei"
+    linkedin: "https://www.linkedin.com/in/burdandrei/"
+    website: "https://mattstratton.com"
+    image: "andrei-burd.jpeg"
+
+  - name: "Nati Cohen"
+    employer: "AWS"
+    github: "natict"
+    linkedin: "https://www.linkedin.com/in/natict/"
+    website: "https://aws.com"
+    image: "nati-cohen.jpg"
+
+  - name: "Hila Fish"
+    employer: "Palo Alto Networks"
+    github: "hilafish"
+    linkedin: "https://www.linkedin.com/in/hila-fish-863949a/"
+    website: ""
+    image: "hila-fish.jpg"
+
+  - name: "Gil Zellner"
+    employer: "Wix"
+    github: "gilzellner"
+    linkedin: "https://www.linkedin.com/in/gilzellner/"
+    website: "https://github.com/gilzellner/sessions-and-bio"
+    image: "gil-zellner.jpg"
+
+  - name: "Julia Shub"
+    employer: "Lawgeex"
+    github: "Juliavol"
+    linkedin: "https://www.linkedin.com/in/julia-shub-72418842/"
+    website: ""
+    image: "julia-shub.jpg"
+
+  - name: "Viki Slavin"
+    employer: "Stealth"
+    github: "devopsdays"
+    linkedin: ""
+    website: ""
+    image: "viki-slavin.jpg"
+  
+  - name: "Dan Yelovitch"
+    employer: "Develeap"
+    github: "devopsdays"
+    linkedin: "https://www.linkedin.com/in/dan-yelovitch-15b92036/"
+    website: ""
+    image: "dan-yelovich.jpg"
+  
+  - name: "Jeremy Hess"
+    employer: "Akeyless"
+    github: "yeshess"
+    linkedin: "https://www.linkedin.com/in/jeremyphess/"
+    website: ""
+    image: "jeremy-hess.jpg"
+  
+  - name: "Erik Zaadi"
+    employer: "Salto"
+    github: "erikzaadi"
+    linkedin: "https://www.linkedin.com/in/erikzaadi/"
+    website: ""
+    image: "erik-zaadi.jpg"
+
+  - name: "Jonathan Zenou"
+    employer: "Windward"
+    github: "devopsdays"
+    linkedin: ""
+    website: ""
+    image: "johnathan-zenou.jpg"
+
+  - name: "Lev Andelman"
+    employer: "Terasky"
+    github: ""
+    linkedin: ""
+    website: ""
+    image: "lev-andelman.jpg"
+
+  - name: "Robert Barron"
+    employer: "IBM"
+    github: "flyingbarron"
+    linkedin: "https://www.linkedin.com/in/flyingbarron/"
+    website: ""
+    image: "robert-barron.jpg"
+  
+  - name: "Roman Roberman"
+    employer: "Wix"
+    github: ""
+    linkedin: "https://www.linkedin.com/in/roman-roberman/"
+    website: ""
+    image: "roman-roberman.jpeg"
+
+  - name: "Dotan Horovits"
+    employer: "Logz.io"
+    github: ""
+    linkedin: "https://www.linkedin.com/in/horovits/"
+    website: ""
+    image: "dotan-horovits.jpg"
+
+  - name: "Tal Kimhi"
+    employer: "BigPanda"
+    github: ""
+    linkedin: "https://www.linkedin.com/in/talkimhi/"
+    website: ""
+    image: "tal-kimhi.jpg"
+
+
+organizer_email: "tel-aviv@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: cider-security
+    level: organizer
+    url: http://cidersecurity.io # Use this if you need to over-ride a sponsor URL.
+  - id: ermetic
+    level: community 
+  - id: orbit
+    level: community
+  - id: livecycle
+    level: community
+  - id: terasky
+    level: community
+  - id: doubleverify
+    level: community
+  - id: aerospike
+    level: community
+  - id: riskified
+    level: community
+  - id: env0
+    level: community
+  - id: elastic-before-20221004
+    level: community
+  - id: soluto
+    level: community
+  - id: rookout
+    level: community
+  - id: bigpanda
+    level: community
+  - id: appsflyer
+    level: community
+  - id: wix 
+    level: community
+  - id: linearb 
+    level: community
+  - id: logz 
+    level: community
+  - id: applied-materials
+    level: community
+  - id: microsoft 
+    level: community
+  - id: spot-by-netapp 
+    level: community
+  - id: yotpo
+    level: community
+  - id: snyk
+    level: community
+  - id: jfrog
+    level: community
+  - id: next-insurance
+    level: branding
+  - id: cloudinary
+    level: branding
+  - id: velocitytech
+    level: branding
+  - id: profisea
+    level: branding
+  - id: snappy
+    level: branding
+  - id: livecycle
+    level: other
+  - id: aerospike
+    level: other
+  - id: replicated
+    level: other
+  - id: coralogix
+    level: other
+  - id: soluto
+    level: other
+  - id: hashicorp-before-20220811
+    level: other
+  - id: kaltura
+    level: other
+  - id: quali
+    level: community
+  - id: bridgecrew
+    level: branding
+  - id: harness
+    level: branding
+  - id: neuralegion
+    level: branding
+  - id: icinga
+    level: branding
+  - id: daily-dev
+    level: media
+  - id: barvazgumi
+    level: media
+
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: organizer
+    label: Organizer
+#    max: 10
+  - id: community 
+    label: Community Pillar
+  - id: other 
+    label: Goodies, Food & Swag
+  - id: branding 
+    label: Community Support
+#    max: 10
+  - id: media
+    label: Media Partner
+#program:
+#  - title: "Breakfast Sponsored by Coralogix & Reuniting with Friends in the Hallway Track"
+#    type: custom
+#    date: 2021-11-24T09:00:00+02:00
+#    start_time: "08:30"
+#    end_time: "09:30"
+#  - title: "Opening Welcome"
+#    type: custom
+#    date: 2021-11-24T09:00:00+02:00
+#    start_time: "09:00"
+#    end_time: "09:15"
+#  - title: "test"
+#    type: talk
+#    date: 2021-11-24T09:00:00+02:00
+#    start_time: "09:15"
+#    end_time: "09:45"
+#  - title: "Sponsors"
+#    type: custom
+#    date: 2021-11-24T09:00:00+02:00
+#    start_time: "09:45"
+#    end_time: "09:55"
+#  - title: "test"
+#    type: talk
+#    date: 2021-11-24T09:00:00+02:00
+#    start_time: "09:55"
+#    end_time: "10:25"
+#  - title: "Break"
+#    type: custom
+#    date: 2021-11-24T09:00:00+02:00
+#    start_time: "10:25"
+#    end_time: "10:40"
+#  - title: "test"
+#    type: talk
+#    date: 2021-11-24T09:00:00+02:00
+#    start_time: "10:40"
+#    end_time: "11:10"
+#  - title: "Sponsors"
+#    type: custom
+#    date: 2021-11-24T09:00:00+02:00
+#    start_time: "11:10"
+#    end_time: "11:20"
+#  - title: "test"
+#    type: talk
+#    date: 2021-11-24T09:00:00+02:00
+#    start_time: "11:20"
+#    end_time: "11:50"
+#  - title: "Lunch"
+#    type: custom
+#    date: 2021-11-24T09:00:00+02:00
+#    start_time: "11:50"
+#    end_time: "13:00"
+#  - title: "Ignites"
+#    type: custom
+#    date: 2021-11-24T09:00:00+02:00
+#    start_time: "13:00"
+#    end_time: "13:30"
+#  - title: "Open Space Opening"
+#    type: custom
+#    date: 2021-11-24T09:00:00+02:00
+#    start_time: "13:30"
+#    end_time: "14:00"
+#  - title: "Open Space #1"
+#    type: custom
+#    date: 2021-11-24T09:00:00+02:00
+#    start_time: "14:00"
+#    end_time: "14:45"
+#  - title: "Open Space #2"
+#    type: custom
+#    date: 2021-11-24T09:00:00+02:00
+#    start_time: "15:00"
+#    end_time: "15:45"
+#  - title: "Open Space #3"
+#    type: custom
+#    date: 2021-11-24T09:00:00+02:00
+#    start_time: "16:00"
+#    end_time: "16:45"
+#  - title: "Close Day"
+#    type: custom
+#    date: 2021-11-24T09:00:00+02:00
+#    start_time: "16:45"
+#    end_time: "17:00"
+#  - title: "Evening event"
+#    type: custom
+#    date: 2021-11-24T09:00:00+02:00
+#    start_time: "19:00"
+#    end_time: "late"
+#  - title: "Registration, Breakfast, Sponsors"
+#    type: custom
+#    date: 2021-11-25T17:30:00+02:00
+#    start_time: "08:00"
+#    end_time: "09:00"
+#  - title: "Opening Welcome"
+#    type: custom
+#    date: 2021-11-25T17:30:00+02:00
+#    start_time: "09:00"
+#    end_time: "09:15"
+#  - title: "test"
+#    type: talk
+#    date: 2021-11-25T17:30:00+02:00
+#    start_time: "09:15"
+#    end_time: "09:45"
+#  - title: "Sponsors"
+#    type: custom
+#    date: 2021-11-25T17:30:00+02:00
+#    start_time: "09:45"
+#    end_time: "09:55"
+#  - title: "test"
+#    type: talk
+#    date: 2021-11-25T17:30:00+02:00
+#    start_time: "09:55"
+#    end_time: "10:25"
+#  - title: "Break"
+#    type: custom
+#    date: 2021-11-25T17:30:00+02:00
+#    start_time: "10:25"
+#    end_time: "10:40"
+#  - title: "test"
+#    type: talk
+#    date: 2021-11-25T17:30:00+02:00
+#    start_time: "10:40"
+#    end_time: "11:10"
+#  - title: "Sponsors"
+#    type: custom
+#    date: 2021-11-25T17:30:00+02:00
+#    start_time: "11:10"
+#    end_time: "11:20"
+#  - title: "test"
+#    type: talk
+#    date: 2021-11-25T17:30:00+02:00
+#    start_time: "11:20"
+#    end_time: "11:50"
+#  - title: "Lunch"
+#    type: custom
+#    date: 2021-11-25T17:30:00+02:00
+#    start_time: "11:50"
+#    end_time: "13:00"
+#  - title: "Ignites"
+#    type: custom
+#    date: 2021-11-25T17:30:00+02:00
+#    start_time: "13:00"
+#    end_time: "13:30"
+#  - title: "Open Space Opening"
+#    type: custom
+#    date: 2021-11-25T17:30:00+02:00
+#    start_time: "13:30"
+#    end_time: "14:00"
+#  - title: "Open Space #1"
+#    type: custom
+#    date: 2021-11-25T17:30:00+02:00
+#    start_time: "14:00"
+#    end_time: "14:45"
+#  - title: "Open Space #2"
+#    type: custom
+#    date: 2021-11-25T17:30:00+02:00
+#    start_time: "15:00"
+#    end_time: "15:45"
+#  - title: "Open Space #3"
+#    type: custom
+#    date: 2021-11-25T17:30:00+02:00
+#    start_time: "16:00"
+#    end_time: "16:45"
+#  - title: "Closing"
+#    type: custom
+#    date: 2021-11-25T17:30:00+02:00
+#    start_time: "16:45"
+#    end_time: "17:00"

@@ -1,85 +1,85 @@
 +++
 Title = "Sponsor"
 Type = "event"
-Description = "Sponsor devopsdays austin 2019"
+Description = "Sponsor devopsdays austin 2020"
 +++
 
+<style>
+  thead th:not(:first-child) {
+    padding: 0 2.5rem;
+  }
+  tbody tr {
+    border-top: 1px dashed #BDBDBD;
+  }
+  tbody tr:last-child {
+      border-bottom: 1px dashed #BDBDBD;
+    }
+  tbody td {
+    padding: 0.5rem 0;
+  }
+</style>
 
+### Packages for 2020
 
-### Sponsorship Info Coming Soon
+| Package | Price | Purchase | What You Get |
+| --- | :---: | :---: | --- |
+| Happy Hour | $10,000 | <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VWDJU8D6SF3DC" class="btn btn-success"><i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Pay Now!</a> | The Happy Hour will be at a venue in the Domain within walking distance, with food, drinks, and entertainment. You can brand the Happy Hour event and give a two-minute stage pitch to the full set of attendees. |
+| Platinum | $8,500 | <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=E7JGQEEB6XTRU" class="btn btn-success"><i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Pay Now!</a> | Platinum sponsorships are a high-visibility option that includes premium placement of a 6 foot by 2 foot, 2-person staffed table in the Pre-function Foyer at the heart of the conference venue, and a two-minute stage pitch to the full set of attendees. |
+| Gold | $6,000 | <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZUXRLSZNKH7GG" class="btn btn-success"><i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Pay Now!</a> | Gold sponsorships offer a 6'x2' 2-person staffed table in one of the two Sponsor Hall rooms (Camelia and Verbena) right across from the main hall. These are the rooms where the all-day drink service will be held. |
+| Lanyard | $5,000 | <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NDK4B5PHD99LN" class="btn btn-success"><i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Pay Now!</a> | The Lanyard sponsorship is a consistent favorite, providing your company the opportunity to advertise to all attendees by way of your branding on the badge lanyard provided at registration. |
+| On-call Room | $3,000 | <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MEANYQYT9UBQA" class="btn btn-success"><i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Pay Now!</a> | A separate room at the venue will be allocated for attendees who need a place to work away from the noise of the conference, which will be branded by whomever purchases this sponsorship. |
+| Meal/Snack/Beverage | $2,000 | <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=M8EJUXHNAUMPE" class="btn btn-success"><i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Pay Now!</a> | Purchasing one or more of these visibility sponsorships (individually or as an add-on to another option) ensures that your company gets mentioned and provides branding opportunities associated with the respective meal/snack. |
+| Monitor Rental: TV on Stand | $1,200 | <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TXLGT45Q53RUN" class="btn btn-success"><i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Pay Now!</a> | 60" TV and stand behind your sponsor table. |
+| Monitor Rental: Desktop | $400 | <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EREACY2PS7EDL" class="btn btn-success"><i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Pay Now!</a> | 20" monitor on your sponsor table. |
 
-<!--
-<a href="https://drive.google.com/file/d/136ifKhcqWX8pfKsOryN4Kh4MkNpdYzM-/view" class="btn btn-info">Download the DevOpsDays Austin Summit 2019 Sponsor Prospectus</a>
+<p></p>
 
-Event dates: {{< event_start >}} - {{< event_end >}}
+### Prospectus
 
-Austin hosts one of the leading annual DevOpsDays events, now in its **eighth** year. Every year Austin is one of the best attended and reviewed DevOpsDays events. Sponsoring DevOpsDays connects your company to local technical and business minds who influence decisions in security, monitoring, operations, engineering, quality, and product development.
+<a href="https://docs.google.com/presentation/d/1SHM2hGgWvFeuGxVpoxWiI27vOoXlueUBY5kzo2vKuGA/edit?usp=sharing" class="btn btn-primary"><i class="fa fa-folder fa-lg"></i>&nbsp;&nbsp;&nbsp;View the DevOpsDays Austin 2020 Sponsor Prospectus</a> <a href="https://docs.google.com/document/d/1yL9B4YjECX4nV8tadbyWduQBfgy6gb_M7WtZFhFv724/edit?usp=sharing" class="btn btn-primary"><i class="fa fa-question fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor FAQ</a> <a href="https://docs.google.com/document/d/1TUm_wo7UPyyQ77TRAEjR49n8Z5QGa6sBCVroMSRN6ys/edit?usp=sharing" class="btn btn-primary"><i class="fa fa-info-circle fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsorship Expectations</a>
 
-Feel free to contact us at [{{< email_organizers >}}] with any questions.
+### Sponsorship Package Comparison
 
-![Sponsor Matrix 2019](sponsor-matrix-2019.png "DevOpsDays Austin Sponsor Matrix 2019")
+| Sponsor Packages | Happy Hour<br/>(max 1) | Platinum<br/>(max 10) | Gold<br/>(max 24) | Lanyard<br/>(max 1) | On-call Room<br/>(max 1) |
+| :-------------- | :------------------------: | :-----------------------: | :-------------------: | :---------------------: | :--------------------------: |
+| Price (USD) | $10,000 | $8,500 | $6,000 | $5,000 | $3,000 |
+| Included Tickets | 4 | 4 | 2 | 2 | 2 |
+| Decorate and host activities during Happy Hour | ✔ |   |   |   |   |
+| Staffed display table in Pre-function Foyer |   | ✔ |   |   |   |
+| Staffed display table in Sponsor Hall |   |   | ✔ |   |   |
+| 2 minute pitch to full audience during event | ✔ | ✔ |   |   |   |
+| Logo on the conference badge lanyard |   |   |   | ✔ |   |
+| Company slide in rotation on displays | ✔ | ✔ | ✔ | ✔ | ✔ |
+| Social media promotion | ✔ | ✔ | ✔ | ✔ | ✔ |
+| Logo on DevOpsDays website | ✔ | ✔ | ✔ | ✔ | ✔ |
+| The thanks of the entire Austin tech community! | ✔ | ✔ | ✔ | ✔ | ✔ |
 
-### Happy Hour ($8000)
+<p></p>
 
-**Sold out!**
+Please contact us at {{< email_organizers >}} if you have questions about any of the sponsorship packages.
 
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VWDJU8D6SF3DC" class="btn btn-info" style="display:none">Pay Now to Sponsor the Happy Hour!</a>
+### Meal/Snack/Beverage Options
 
-This year, DevOpsDays Austin is planning a special Happy Hour at the end of Day 1. The Happy Hour event will be hosted on the main level of the event and will have food and alcoholic beverages. We have opportunities for two sponsors to have signage and space specifically dedicated to them for the duration of the happy hour and the opportunity to make announcements at the happy hour.
+Your meal/snack/beverage visibility sponsorship or add-on can be from one of the following offerings (one sponsor per option):
 
-### Platinum Sponsor ($7000)
+| Available Sponsorship Opportunities | $2,000 each |
+| :--- | :---: |
+| Breakfast on Day 1 | ✔ |
+| Lunch on Day 1 | ✔ |
+| Snack on Day 1 | ✔ |
+| Breakfast on Day 2 | ✔ |
+| Lunch on Day 2 | ✔ |
+| Snack on Day 2 | ✔ |
+| Drink/Coffee Stations on Day 1 | ✔ |
+| Drink/Coffee Stations on Day 2 | ✔ |
 
-**Sold out!**
+<p></p>
 
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=E7JGQEEB6XTRU" class="btn btn-info" style="display:none">Pay Now to be a Plantinum Sponsor!</a>
+These sponsorships enable you to have visibility through:
 
-In past years, sponsors have inquired about using the luxury boxes within the venue for discussion areas, consulting / solution areas, and similar uses. This year, we are opening up opportunities for sponsors to utilize the rooms. These boxes are located upstairs of the main stage area - in the same "loft" space as the Open Spaces part of the program. 
+* Signage on or near the service tables
+* Small branded items (e.g. stickers) on or near the service tables
+* Mentions during schedule announcements
+* Ensuring the Austin community's sugar and caffeine MTBH* does not fall too low
 
-The rooms will be set up with tables and chairs. Sponsors can put standup signage around the outside and set up tables for demos / displays. Everything must fit and be free-standing - nothing can go on the walls / ceilings.
-
-Platinum sponsors will have access to the rooms all day on both days and are free to schedule activities at any time during - as long as those events stay within their room and are publicized by sponsors themselves.
-
-Open Spaces events and Happy Hour are scheduled in other rooms in the same upstairs area, but there are no DevOpsDays Austin events scheduled in the upstairs area during keynotes, talks, or meals.
-
-### Lanyard Sponsor ($5000)
-
-**Sold out!**
-
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NDK4B5PHD99LN" class="btn btn-info" style="display:none">Pay Now to Put Your Logo on the Lanyard!</a>
-
-What better way to get your branding in front of attendees than to have everyone carrying it around attached to the one thing they absolutely must have, their badge?  We only have one lanyard sponsor, and they get their logo (co-branded with the DevOpsDays logo) on all the lanyards for the event.  DevOpsDays Austin takes care of making and distributing the lanyard.
-
-Lanyard sponsorships come with two complimentary event tickets.
-
-### Gold Sponsor ($5000)
-
-**Sold out!**
-
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZUXRLSZNKH7GG" class="btn btn-info" style="display:none">Pay Now to be a Gold Sponsor!</a>
-
-Gold packages are the most popular DevOpsDays Austin sponsorship package.This is the package with a table in the vendor area of our event. We locate food service in the sponsor area and otherwise take effort to drive attendee foot traffic into and through the area.
-
-Please be aware these are not full conference booths like at a major tech conference - no backdrops, things fastened to the ceiling, etc. can be accommodated.  You can bring a tablecloth / table cover and will have room behind your table for a couple people and stand-up sign banner or two.  Each table has a power strip to it and a couple chairs. The Gold sponsorship comes with four tickets.
-
-Gold sponsors also get comprehensive branding and shout-outs throughout the show, and have the opportunity to do one minute pitches to the full conference audience between the all-hands sessions.
-
-### Silver Sponsor ($3000)
-
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MEANYQYT9UBQA" class="btn btn-info">Pay Now to be a Silver Sponsor!</a>
-
-Silver sponsorship packages are designed for sponsors who do not want to staff a table, but who would still like to sponsor the event and have prominent branding. The silver sponsorship receives access to put materials on unattended tables shared with the other Silver level sponsors of the event along with brand inclusion on conference slides, signs, website, and social media.
-
-A Silver sponsorship comes with two complimentary event tickets.
-
-### Meal/Snack Add-On (+$1000)
-
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=M8EJUXHNAUMPE" class="btn btn-info" style="display:none">Pay Now for a Meal/Snack Add-On!</a>
-
-The "Meal/Snack" sponsorship options are opportunities to show attendees that you sponsored the event by providing the opportunity to associate your brand with a high-visibility, food-centered activity during the event. There will be signage on the food tables, up-front announcements of these events, social media and website promotion.
-
-View the [sponsor prospectus](https://drive.google.com/file/d/136ifKhcqWX8pfKsOryN4Kh4MkNpdYzM-/view) for more details about the meal/snack add-on.
-
-![Sponsor Add-Ons 2019](sponsor-add-on-2019.png "DevOpsDays Austin Sponsor Add-Ons 2019")
-
-Sponsors can optionally extend their visibility at the event by sponsoring individual meals or snacktimes. These are available to all levels of sponsorship. Please contact us at {{< email_organizers >}} if you are interested.
--->
+*Mean Time Between Hits (Measurement is a pillar of DevOps...)

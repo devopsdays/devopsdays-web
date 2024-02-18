@@ -3,7 +3,7 @@ title = "Monica Sarbu"
 twitter = "monicasarbu"
 linkedin = ""
 website = ""
-image = ""
+image = "monica-sarbu.jpg"
 type = "speaker"
 linktitle = ["monica-sarbu"]
 +++

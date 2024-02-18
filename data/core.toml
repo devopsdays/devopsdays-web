@@ -1,36 +1,42 @@
 active = [
-"Bridget Kromhout (lead)",
-"Serhat Can",
-"Jennifer Davis",
-"Bernd Erk",
+"Daniel Maher (co-chair)",
+"Katie McLaughlin (co-chair)",
+"Jason Yee (co-chair)",
+"Floor Drees",
 "Rafael Gomes",
-"Nathen Harvey",
-"Mine Heck",
-"Dan Maher",
-"Adrian Moisey",
-"Ken Mugrage",
 "Marco Júnior",
-"Mike Rosado",
-"Andrew Clay Shafer",
-"Matt Stratton (web team lead)",
-"Yvo van Doorn",
-"John Willis"
+"Camilla Martins",
+"Adrian Moisey",
+"Michelle Ribeiro",
+"Sharone Zitzman",
+"Yvo van Doorn (2021–2023 co-chair)",
 ]
 
 advisory = [
-"Patrick Debois (founder)",
 "Kris Buytaert",
-"Matthew Jones"
+"Serhat Can",
+"Jennifer Davis",
+"Patrick Debois (founder, 2009–2014 lead)",
+"Nathen Harvey",
+"Bridget Kromhout (2015–2020 lead)",
+"Ken Mugrage",
+"Matty Stratton (2021–2022 co-chair)",
 ]
 
 emeritus = [
 "Damon Edwards",
+"Bernd Erk",
 "Anthony Goddard",
+"Mine Heck",
 "Lindsay Holmwood",
+"Matthew Jones",
 "Gildas Le Nadan",
 "Stephen Nelson-Smith",
+"Mike Rosado",
+"Andrew Clay Shafer",
 "Julian Simpson",
 "Christian Trabold",
 "John Vincent",
-"James Wickett"
+"James Wickett",
+"John Willis",
 ]

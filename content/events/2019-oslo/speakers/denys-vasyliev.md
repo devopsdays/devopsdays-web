@@ -1,7 +1,7 @@
 +++
 Title = "Denys Vasyliev"
 Twitter = ""
-image = "Denys_Vasyliev.jpg"
+image = "denys_vasyliev.jpg"
 type = "speaker"
 linktitle = "denys-vasyliev"
 

@@ -1,0 +1,21 @@
+# This file identifies who needs to review pull requests that touch certain parts of the repo.
+# Each line is a file pattern followed by one or more owners.
+
+.gitignore  @devopsdays/build-infra
+config.toml @devopsdays/code-reviewers
+netlify.toml    @devopsdays/build-infra
+gulpfile.js @devopsdays/build-infra
+hugoserver.sh   @devopsdays/build-infra
+hugoserver.ps1  @devopsdays/build-infra
+package-lock.json   @devopsdays/build-infra
+package.json    @devopsdays/build-infra
+/data/core.toml @devopsdays/code-reviewers
+/utilities/ @devopsdays/code-reviewers
+/themes/devopsdays-theme/   @devopsdays/theme-maintainers
+/content/page/  @devopsdays/code-reviewers
+/.circleci/ @devopsdays/build-infra
+/bin/   @devopsdays/build-infra
+/.github/   @devopsdays/build-infra
+/static/robots.txt @devopsdays/build-infra
+.gitpod.yml @devopsdays/build-infra
+/.github/workflow/ @devopsdays/build-infra

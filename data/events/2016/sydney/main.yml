@@ -1,0 +1,100 @@
+name: "2016-sydney" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2016" # The year of the event. Make sure it is in quotes.
+city: "Sydney" # The displayed city name of the event. Capitalize it.
+event_group: "Down Under"
+
+# All dates are in unquoted 2016-MM-DD, like this:   variable: 2016-01-05
+startdate: 2016-12-01T00:00:00+11:00  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2016-12-02T23:59:59+11:00  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2016-08-29T00:00:00+10:00 # start accepting talk proposals.
+cfp_date_end: 2016-10-23T23:59:59+11:00 # close your call for proposals.
+cfp_date_announce:  2016-10-31T23:59:59+11:00 # inform proposers of status
+
+# Location
+#
+coordinates: "-33.8688,151.2093" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Sydney" # Defaults to city, but you can make it the venue name.
+#
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+ 
+  - name: program
+  - name: speakers
+  #- name: propose
+  - name: location
+  - name: registration
+  - name: sponsor
+  - name: contact
+  - name: conduct
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "François Conil"
+    twitter: "frconil"
+  - name: "Matthew Jones"
+    twitter: "geekle"
+  - name: "Mark Walkom"
+    twitter: "warklom"
+  - name: "Michael Sverdlik"
+    twitter: "m1keil"
+  - name: "Katie McLaughlin"
+    twitter: "glasnt"
+
+organizer_email: "organizers-sydney-2016@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-sydney-2016@devopsdays.org" # Put your proposal email address here
+sponsor_email: "sponsors-sydney-2016@devopsdays.org"
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: microsoft
+    level: gold
+  - id: elastic-before-20221004
+    level: gold
+  - id: github
+    level: gold
+  - id: atlassian-before-20171216
+    level: gold
+  - id: netapp
+    level: gold
+  - id: rea-group
+    level: silver
+  - id: chef-before-20210112
+    level: silver
+  - id: puppet
+    level: silver
+  - id: odecee
+    level: silver
+  - id: actifio
+    level: silver
+  - id: accenture-au
+    level: bronze
+  - id: infoxchange
+    level: bronze
+  - id: arresteddevops
+    level: community
+  - id: sdtp
+    level: community
+  - id: 2016-stickergiant
+    level: sticker
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimitted sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: gold
+    label: Gold
+    max: 10
+  - id: silver
+    label: Silver
+    max: 0 # This is the same as omitting the max limit.
+  - id: bronze
+    label: Bronze
+  - id: community
+    label: Community
+  - id: sticker
+    label: Sticker

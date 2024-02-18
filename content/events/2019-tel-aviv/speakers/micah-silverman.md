@@ -1,7 +1,7 @@
 +++
 Title = "Micah Silverman"
 Twitter = ""
-image = "micah-silverman.jpeg"
+image = "micah-silverman.jpg"
 type = "speaker"
 linktitle = "micah-silverman"
 

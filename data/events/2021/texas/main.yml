@@ -1,0 +1,418 @@
+name: "2021-texas" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2021" # The year of the event. Make sure it is in quotes.
+city: "Texas" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaystexas" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Virtual state-wide Devopsdays is coming to Texas!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2021-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2021-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2021-03-02T08:00:00+05:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2021-03-03T16:59:59+05:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start:  2020-12-11T08:00:00+05:00 # start accepting talk proposals.
+cfp_date_end:  2021-01-31T23:59:00+05:00 # close your call for proposals.
+cfp_date_announce:  2021-02-14T23:59:00+05:00 # inform proposers of status
+
+cfp_link: "https://sessionize.com/devopsdays-texas-2021/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: 2020-12-11T08:00:00+05:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2021-03-02T08:00:00+05:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://www.eventbrite.com/e/devopsdays-texas-tickets-132588572991" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Texas" # Defaults to city, but you can make it the venue name.
+#
+location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: propose
+ # - name: location
+  - name: registration
+  - name: program
+  - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "JJ Asghar"
+    twitter: "jjasghar"
+    employer: "IBM"
+    bio: "JJ works at IBM on the IBM cloud as a Developer Advocate. He’s focusing on the IBM Kubernetes Service trying to make companies and users have a successful on boarding to the Cloud Native ecosystem."
+    github: "jjasghar"
+    facebook: ""
+    linkedin: ""
+    image: "jj.jpg"
+    role: "Co-Founder"
+  - name: "Richard Boyd"
+    twitter: "richardboydii"
+    employer: "Amazon Web Services"
+    bio: "Richard is a Senior Solutions Architect for Amazon Web Services in Austin, TX. As a part of the Well-Architected Team, he works with AWS Partners to optimize Workloads according to the Well-Architected Framework. In his spare time he loves organizing technology conferences and Meetups and is always looking for something new to learn from others."
+    github: "richardboydii"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/richardboydii/"
+    image: "rich.jpg"
+    role: "Co-Founder"
+  - name: "Dan Collins"
+    employer: "American Bureau of Shipping"
+    linkedin: "https://www.linkedin.com/in/thedancollins/"
+    facebook: "https://www.facebook.com/realdancollins"
+    github: "thedancollins"
+    website: "http://thedancollins.com/"
+    twitter: "realdancollins"
+    image: "dan.jpg"
+    bio: "Dan is the founder of DevOpsDays Houston, and a U of H graduate with over 20 years of experience in software and systems development. In the Microsoft-heavy world of Houston IT, he specializes in non-Microsoft technologies with an emphasis on lean methodology and automated software pipelines. Dan is a recovering, former advocate of embedded IT, a blockchain gadfly and has been leading the Houston DevOps Meetup since June 2017. The future is decentralized, distributed, renewable, sustainable and powered by Houston Texas."
+  - name: "Gokul Sridharan"
+    employer: "Micro Focus"
+    bio: "Gokul Sridharan is a Master’s Degree holder in IT, an entrepreneur by nature and a successful presales management professional at CA Technologies. He has worked there for the past 3 years and successfully managing a business of $10m+ from a technical sales standpoint. Prior to joining CA and pursuing his master’s degree, Gokul started off his career at Accenture as a software developer.<br><br>During that time frame, he also started his own restaurant venture called ‘The Snack Shack’ in India. He loves DevOps concepts and likes to be a part of local meetups. He is also part of the organizing committee in DevOpsDays Dallas, and on in his spare time likes to work on new and innovative ideas."
+    twitter: "ConsultGokul_CA"
+    linkedin: "https://www.linkedin.com/in/gokul-sridharan-98a12323/"
+    image: "gokul.jpg"
+  - name: "John-Paul Herold"
+    employer: "Southwest Airlines"
+    bio: "John-Paul Herold is an engineering manager for Southwest Airlines focused on improving their cloud platform, scaling to global operations, and delivering value to happy customers. Previously John-Paul was a Java developer, and transitioned to various 'DevOps' roles as interest in resiliency, observability, and global scale architectures grew.<br><br>His path with DevOpsDays started in 2015 when he attended both Dallas and Austin, and has continued every year since. He volunteered for Dallas the first time in 2019, and was involved as an organzier for 2020...pre-covid.<br><br>John-Paul is based in Dallas and has a CSE degree from Southern Methodist University. In his off time he enjoys playing soccer, listening to music, running a homelab, reading tech books, and working on projects in/around his home."
+    twitter: "thedailyherold"
+    linkedin: "https://www.linkedin.com/in/johnpaulherold/"
+    image: "herold.jpg"
+  - name: "Jessica Sabugo"
+    employer: "Istation"
+    bio: "Jessica is a DevOps engineer. She has a deep interest in the DevOps culture and she keeps continuously learning. Her dream is to travel all over the world. She currently has a DevOps engineer role at Istation."
+    twitter: "jessica_sabugo"
+    linkedin: "https://www.linkedin.com/in/jessica-sabugo-581ab658/"
+    image: "jessica-sabugo.jpg"
+  - name: "Laura Santamaria"
+    twitter: "nimbinatus"
+    employer: "LogDNA"
+    github: "nimbinatus"
+    image: "laura.jpg"
+    website: "https://nimbinatus.com"
+    bio: "As LogDNA’s Developer Advocate, Laura Santamaria loves to learn and explain how things work. She bridges the gap between external developers and SREs and internal engineering teams. In addition, she is the curator for A Minute on the Mic. Apart from work, she co-hosts Austin DevOps, taught Python for Women Who Code Austin for many years, and volunteers with DevOpsDays Austin. Outside of tech, Laura runs, plays with her dogs, throws discs, and watches clouds—the real kind."
+  - name: "Karl Katzke"
+    twitter: "kkatzke"
+    github: "karlkatzke"
+    employer: "VoiceThread"
+    bio: "Karl Katzke is the DevOps team lead at VoiceThread. He has been in the tech industry for 20 years across many roles as both Dev and Ops. While he keeps claiming he'll stop giving culture talks and that he's not good at soft skills, he's usually showing how the DevOps community can borrow things other industries have learned about handling critical moments and designing processes to avoid disaster."
+    image: "karl.png"
+    linkedin: "https://www.linkedin.com/in/karlkatzke/"
+  - name: "Paul Czarkowski"
+    employer: "VMware"
+    bio: "Paul Czarkowski is a long time practitioner of the dark arts of Devops. Hailing from Australia he moved to Austin Texas to help build and run one of the largest and most successful online games. Now at VMware, Paul works to improve the Operator experience by taking Cloud Native software development concepts and applying them to Operations to create platforms that reduce toil and improve software delivery."
+    image: "paul.jpg"
+    github: "paulczar"
+  - name: "Svetlana Kryukova"
+    role: Organizer
+    employer: "Two Sigma Solutions"
+    linkedin: "https://www.linkedin.com/in/svetlana-kryukova/"
+    github: "skryukova"
+    image: "svetlana.jpg"
+    bio: " Svetlana is a software development leader with over 20 years of experience in enterprise software. Passionate about building teams, creating new products and solving problems. Co-organizer of Houston DevOps Meetup and Houston DevOpsDays since June 2018."
+  - name: "Reginald Davis"
+    employer: "Schlumberger"
+    twitter: "coolblknerd"
+    image: "reggie.jpg"
+    linkedin: "https://www.linkedin.com/in/reginald-j-davis/"
+    bio: "Reggie is SRE for Schlumberger who has a passion for cloud-native application development through the use of tools like Kubernetes and Golang, as well as, improving the culture of technology by creating highly collaborative environments. Co-host of 'Coolest Nerds in the Room' podcast and co-founder of the meetup group, 'Tech for the Culture'"
+  - name: "Shaun Mouton"
+    twitter: "sdmouton"
+    employer: "Chef"
+    bio: "Shaun isn't a devops but can help sprinkle some on your infrastructure, apps, and/or culture. Friendgineering 4 lyfe, hugops not harm, tirefi.re benevolent underlord."
+    github: "moutons"
+    facebook: "http://tirefi.re/facebook/"
+    linkedin: "https://www.linkedin.com/in/sdmouton/"
+    image: "shaun.jpg"
+
+
+organizer_email: "texas@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: twosigma-before-20230603
+    level: bronze
+  - id: bridgecrew
+    level: gold
+    url: "https://bridgecrew.io/?utm_medium=sponsoredevents&utm_source=devopsdays&utm_campaign=tx-210302"
+  - id: env0
+    level: gold
+    url: "https://www.env0.com/?utm_campaign=devopsdays-texas&utm_source=devopsdays-texas&utm_medium=sponsorship"
+  - id: chef-before-20220901
+    level: gold
+  - id: buurst-inc
+    level: bronze
+  - id: site24x7-before-20230414
+    level: gold
+  - id: arresteddevops
+    level: community
+  - id: liatrio
+    level: gold
+  - id: stackhawk
+    level: gold
+  - id: transposit
+    level: silver
+  - id: logdna
+    level: gold
+  - id: wellsky
+    level: bronze
+  - id: statefarm
+    level: caption
+    url:  https://jobs.statefarm.com/main/career-areas/technology-and-user-experience-careers
+
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: caption
+    label: Captioning
+    max: 2
+  - id: gold
+    label: Gold
+  - id: silver
+    label: Silver
+  - id: bronze
+    label: Bronze
+  - id: community
+    label: Community
+
+# program:
+  # - title: "Hallway time"
+    # type: custom
+    # date: 2021-03-02T08:00:00+05:00
+    # start_time: "08:00"
+    # end_time: "09:00"
+  # - title: "How-To Open Spaces for the conference"
+    # type: custom
+    # date: 2021-03-02T08:00:00+05:00
+    # start_time: "08:30"
+    # end_time: "09:00"
+  # - title: "Welcome and Directions"
+    # type: custom
+    # date: 2021-03-02T08:00:00+05:00
+    # start_time: "09:00"
+    # end_time: "09:15"
+  # - title: "taylor-barnett"
+    # type: talk
+    # date: 2021-03-02T08:00:00+05:00
+    # start_time: "09:15"
+    # end_time: "09:45"
+  # - title: "Break/Sponsors/Prep"
+    # type: custom
+    # date: 2021-03-02T08:00:00+05:00
+    # start_time: "09:45"
+    # end_time: "10:00"
+  # - title: "dan-zentgraf"
+    # type: talk
+    # date: 2021-03-02T08:00:00+05:00
+    # start_time: "10:00"
+    # end_time: "10:30"
+  # - title: "Break/Prep"
+    # type: custom
+    # date: 2021-03-02T08:00:00+05:00
+    # start_time: "10:30"
+    # end_time: "10:35"
+  # - title: "tracy-p-holmes"
+    # type: talk
+    # date: 2021-03-02T08:00:00+05:00
+    # start_time: "10:35"
+    # end_time: "11:05"
+  # - title: "Break/Prep"
+    # type: custom
+    # date: 2021-03-02T08:00:00+05:00
+    # start_time: "11:05"
+    # end_time: "11:10"
+  # - title: "Ignites"
+    # type: ignite
+    # date: 2021-03-02T08:00:00+05:00
+    # start_time: "11:10"
+    # end_time: "11:45"
+  # - title: "Lunch"
+    # type: custom
+    # date: 2021-03-02T08:00:00+05:00
+    # start_time: "11:45"
+    # end_time: "12:15"
+  # - title: "brittany-woods"
+    # type: talk
+    # date: 2021-03-02T08:00:00+05:00
+    # start_time: "12:15"
+    # end_time: "12:45"
+  # - title: "Open Space Scheduling"
+    # type: open-space
+    # date: 2021-03-02T08:00:00+05:00
+    # start_time: "12:45"
+    # end_time: "13:00"
+  # - title: "Texas DevOps Community Fire Starter Chat"
+    # type: custom
+    # date: 2021-03-02T08:00:00+05:00
+    # start_time: "13:00"
+    # end_time: "13:30"
+  # - title: "Break/Prep"
+    # type: custom
+    # date: 2021-03-02T08:00:00+05:00
+    # start_time: "13:30"
+    # end_time: "13:35"
+  # - title: ""
+    # type: talk
+    # date: 2021-03-02T08:00:00+05:00
+    # start_time: "13:35"
+    # end_time: "14:05"
+  # - title: "Break/Prep"
+    # type: custom
+    # date: 2021-03-02T08:00:00+05:00
+    # start_time: "14:05"
+    # end_time: "14:10"
+  # - title: ""
+    # type: talk
+    # date: 2021-03-02T08:00:00+05:00
+    # start_time: "14:10"
+    # end_time: "14:40"
+  # - title: "Open Spaces"
+    # type: open-space
+    # date: 2021-03-02T08:00:00+05:00
+    # start_time: "14:40"
+    # end_time: "16:20"
+  # - title: "Closing"
+    # type: custom
+    # date: 2021-03-02T08:00:00+05:00
+    # start_time: "16:20"
+    # end_time: "17:00"
+  # - title: "Hallway Track"
+    # type: custom
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "08:00"
+    # end_time: "09:00"
+  # - title: "Day 2 Opening/Welcome"
+    # type: custom
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "09:00"
+    # end_time: "09:15"
+  # - title: ""
+    # type: talk
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "09:15"
+    # end_time: "09:45"
+  # - title: "Break/Prep"
+    # type: custom
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "09:45"
+    # end_time: "09:50"
+  # - title: "Sponsor Break"
+    # type: custom
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "09:50"
+    # end_time: "10:00"
+  # - title: "Break/Prep"
+    # type: custom
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "10:00"
+    # end_time: "10:05"
+  # - title: ""
+    # type: talk
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "10:05"
+    # end_time: "10:35"
+  # - title: "Break/Prep"
+    # type: custom
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "10:35"
+    # end_time: "10:40"
+  # - title: "Ignites"
+    # type: ignite
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "10:40"
+    # end_time: "11:10"
+  # - title: "Break/Prep"
+    # type: custom
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "11:10"
+    # end_time: "11:15"
+  # - title: ""
+    # type: talk
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "11:15"
+    # end_time: "11:45"
+  # - title: "Lunch"
+    # type: custom
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "11:45"
+    # end_time: "12:15"
+  # - title: "Open Space Scheduling"
+    # type: open-space
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "12:15"
+    # end_time: "12:30"
+  # - title: ""
+    # type: talk
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "12:30"
+    # end_time: "13:00"
+  # - title: "Break/Prep"
+    # type: custom
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "13:00"
+    # end_time: "13:05"
+  # - title: "@fsckdpod Fire Starter Chat"
+    # type: custom
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "13:05"
+    # end_time: "13:35"
+  # - title: "Break/Prep"
+    # type: custom
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "13:35"
+    # end_time: "13:40"
+  # - title: "kiran-oliver"
+    # type: talk
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "13:40"
+    # end_time: "14:10"
+  # - title: "Break/Prep"
+    # type: custom
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "14:10"
+    # end_time: "14:15"
+  # - title: "ell-marquez"
+    # type: talk
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "14:15"
+    # end_time: "14:45"
+  # - title: "Open Spaces"
+    # type: open-space
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "14:45"
+    # end_time: "16:55"
+  # - title: "Closing"
+    # type: custom
+    # date: 2021-03-03T16:59:59+05:00
+    # start_time: "16:55"
+    # end_time: "17:00"
+
+# ignites:
+  # - title: "matt-stratton"
+    # date: "2021-03-02T08:00:00+05:00"
+  # - title: "alina-domanov"
+    # date: "2021-03-02T08:00:00+05:00"
+  # - title: "thomas-adams"
+    # date: "2021-03-02T08:00:00+05:00"
+  # - title: "jay-gordon"
+    # date: "2021-03-02T08:00:00+05:00"
+  # - title: "jeremy-meiss"
+    # date: "2021-03-03T16:59:59+05:00"
+  # - title: "quintessence-anx"
+    # date: "2021-03-03T16:59:59+05:00"
+  # - title: "jason-yee"
+    # date: "2021-03-03T16:59:59+05:00"

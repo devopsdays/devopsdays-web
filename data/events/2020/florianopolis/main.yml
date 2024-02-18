@@ -1,0 +1,157 @@
+name: "2020-florianopolis"
+year: "2020"
+city: "Florianópolis"
+event_twitter: "devopsdaysfln"
+description: "A revolução já começou!"
+ga_tracking_id: ""
+cancel: "true"
+
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T01:02:03-05:00
+startdate: # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start:  
+cfp_date_end:  
+cfp_date_announce: 
+
+cfp_link:
+
+registration_date_start: 
+registration_date_end: 
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: ""
+
+# Location
+# The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html.
+coordinates: 
+location: A definir
+location_address: Florianópolis, SC
+
+masthead_background: "header.jpeg"
+nav_elements: # List of pages you want to show up in the navigation of your page.
+#  - name: Chamadas (CFP)
+#    icon: "microphone"
+#    url: /events/2020-florianopolis
+
+  - name: local
+    icon: "map-o"
+    url: /events/2020-florianopolis/location
+
+#  - name: ingressos
+#    url: /events/2020-florianopolis/registration
+
+#  - name: programação
+#    url: /events/2020-florianopolis/program
+
+#  - name: palestrantes
+#    icon: "microphone"
+#    url: /events/2020-florianopolis/speakers
+
+# - name: patrocínio
+#   icon: "money"
+#   url: /events/2020-florianopolis/sponsor
+
+  - name: contato
+    icon: "envelope-o"
+    url: /events/2020-florianopolis/contact
+
+  - name: código de conduta
+    icon: "handshake-o"
+    url: /events/2020-florianopolis/conduct
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Pery Lemke"
+    email: "pery.lemke@gmail.com"
+    twitter: "perylemke"
+    employer: "Nuveo"
+    github: "perylemke"
+    linkedin: "https://www.linkedin.com/in/perylemke"
+    website: "http://www.sudocast.com.br"
+    image: "pery-lemke.jpg"
+
+  - name: "Sérgio Mendonça"
+    email: "sergio.mendonca@gmail.com"
+    employer: "Mettzer"
+    linkedin: "https://www.linkedin.com/in/sergio-mendonca/"
+    image: "sergio-mendonca.jpg"
+
+  - name: "Jhonatan Morais"
+    email: "jhonatancmorais@gmail.com"
+    twitter: "jhonatancmorais"
+    employer: "C6 Bank"
+    linkedin: "https://www.linkedin.com/in/jhonatancmorais/"
+    image: "jhonatan-morais.jpg"
+
+  - name: "Christopher Giese"
+    email: "christopher.giese@gmail.com"
+    employer: "Softplan"
+    linkedin: "https://www.linkedin.com/in/christopher-giese-kblo-aba41917/"
+    image: "christopher-giese.jpg"
+
+  - name: "Evaldo Felipe"
+    email: "contato@evaldofelipe.com"
+    twitter: "evaldofelipe"
+    employer: "Neoway"
+    linkedin: "https://www.linkedin.com/in/evaldofelipe/"
+    image: "evaldo-felipe.jpg"
+
+  - name: "Jean Morais"
+    email: "jeancdemorais@gmail.com"
+    twitter: "jeanmorais"
+    employer: "Neoway"
+    linkedin: "https://www.linkedin.com/in/jean-morais/"
+    github: https://github.com/jeanmorais
+    image: "jean-morais.jpg"
+
+  - name: "Octávio Richter"
+    email: "octaviorichter@gmail.com"
+    twitter: "https://twitter.com/octaviorichter"
+    employer: "37.78"
+    linkedin: "https://br.linkedin.com/in/octavio-richter"
+    image: "octavio-richter.jpg"
+
+organizer_email: "florianopolis@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+# sponsors:
+#
+#   - id: 
+#     level: platinum
+#   - id: 
+#     level: gold
+#   - id: 
+#     level: gold
+#   - id: 
+#     level: silver
+#   - id: 
+#     level: community 
+
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: platinum
+    label: Platinum
+    max: 2
+  - id: gold
+    label: Gold
+    max: 2
+  - id: silver
+    label: Silver
+    max: 3
+  - id: community
+    label: Community
+  - id: support
+    label: Support
+
+  

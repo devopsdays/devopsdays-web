@@ -3,22 +3,9 @@
 set -e
 
 cd `dirname ${0}`
+source common_code
 
 OUT=$(mktemp /tmp/output.XXXXXXXXXX) || { echo "Failed to create temp file"; exit 1; }
-
-
-# Detect OS for correct 'sed' syntax
-OSNAME=`uname`
-GNUSED=$(which sed)
-SEDCMD(){
-  if [[ $OSNAME == 'Linux' ]]; then
-    sed -i "$@"
-  elif [[ $OSNAME == 'Darwin' && $GNUSED == '/usr/local/bin/sed' ]]; then
-    sed -i "$@"
-  else
-    sed -i '' "$@"
-  fi
-}
 
 # Get year
 default_year=$(date +"%Y")
@@ -116,7 +103,7 @@ fi
 	cat "$OUT"
      ;;
      3)
-     echo "Add to ../data/events/$event_slug.yml under team_members: "
+     echo "Add to ../data/events/$year/$city_slug/main.yml under team_members: "
      cat "$OUT"
      break
      ;;

@@ -5,87 +5,74 @@ aliases = ["/events/2020-bogota"]
 Description = "devopsdays Bogotá 2020"
 +++
 
-¡Acompañanos en la segunda versión de este evento global en la ciudad de Bogotá, Colombia 2020! <br> 
-Conoce algunos de los momentos mas interesantes del DevOpsDays Bogotá 2019 desde nuestro canal de YouTube: https://www.youtube.com/channel/UCbOmwD3zXTfGxUIfsvbiwCw
+<div class = "row">
+  <div class = "col-md-6 push-md-6">
+  <p class="btn btn-primary btn-block" style = "margin-top: 10px; margin-bottom: 10px; background-color: #4169E1; border-color: #4169E1;">DevOpsDays Bogotá 2020 será virtual!</p>
 
+  Debido al COVID-19 y los riesgos para la salud en una conferencia presencial, DevOpsDays Bogotá 2020 ahora será un evento virtual que tendrá lugar el 23, 24 y 25 de septiembre de 2020 de 3PM a 7PM hora Colombia (GMT-5).
 
-<!-- <div style="text-align:center;">
-  {{< event_logo >}}
-</div> -->
+<h2 align="center">¡Fuimos el Primer DevOpsDays de Hispanoamérica acompañanos en su version 2.0 virtual!</h2>
+Tenemos grandes expectativas de este evento basadas en nuestra experiencia del año pasado, esperamos la participación de empresas de diferentes países y sectores como:
+<br>- Universidades
+<br>-Comunicaciones
+<br>-Energía
+<br>-Banca
+<br>-Software
+<br>-Gobierno
+<br>-Seguros
+<br><br>
+Sin embargo, hemos ampliado estos anuncios para incluir a más empresas y profesionales del sector público y privado no solo de las regiones de América Latina, sino también de Norte América y Europa para promover y compartir experiencias del movimiento DevOps a nivel global.
+<br><br>
 
 <div class = "row">
-  <div class = "col-md-2">
-    <strong>Dates</strong>
+  <div class = "col-md-12">
+    <div class = "row justify-content-center">
+      <div class = "d-flex p-2">
+        <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #4169E1; border-color: #4169E1;" href="/events/2020-bogota/sponsor">
+          <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Patrocinadores
+        </a>
+      </div>
+      <div class = "d-flex p-2">
+        <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #4169E1; border-color: #4169E1;" href="https://www.papercall.io/devopsdaysbogota2020">
+          <i class="fa fa-user fa-lg"></i>&nbsp;&nbsp;&nbsp;Ponentes
+        </a>
+      </div>
+      <div class = "d-flex p-2">
+        <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #4169E1; border-color: #4169E1;" href="/events/2020-bogota/contact">
+          <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Contactenos
+        </a>
+      </div>
+      <div class = "d-flex p-2">
+        <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #4169E1; border-color: #4169E1;" href="https://www.eventbrite.es/e/entradas-devopsdays-bogota-2020-online-114713017724">
+          <i class="fa fa-user-plus fa-lg"></i>&nbsp;&nbsp;&nbsp;Registro
+        </a>
+      </div>
+    </div>
+
+  <div class = "row">
+  <div class = "col-md-6">
+  
+  
+  <div id="mc_embed_signup">
+  
+  </form>
+
   </div>
-  <div class = "col-md-8">
-    {{< event_start >}} - {{< event_end >}}
+
+  <!--End mc_embed_signup-->
   </div>
 </div>
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Location</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_location >}}
   </div>
 </div> 
 
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Register</strong>
   </div>
-  <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
-  </div>
-</div> -->
+  <div class = "col-md-6 pull-md-6">
+    <div class = "row"><!-- begin a content element -->
+      <div class = "col-md-12">
 
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Propose</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
-  </div>
-</div> 
+<h2 align="center">¡Registrate ahora cupos limitados!</h2>
+<img src = "/events/2020-bogota/live.jpg" class = "img-fluid">
 
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Program</strong>
   </div>
-  <div class = "col-md-8">
-    View the <a href="https://devopsdays.co/programa">program</a>.
-  </div>
+
 </div>
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Speakers</strong>
-  </div>
-  <div class = "col-md-8">
-    Check out the {{< event_link page="speakers" text="speakers!" >}}
-  </div>
-</div> -->
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Sponsors</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="sponsor" text="Sponsor the conference!" >}}
-  </div>
-</div>
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Contact</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="contact" text="Get in touch with the organizers" >}}
-  </div>
-</div>
-
-<!-- Uncomment if you added your city twitter name -->
-<!--
-{{< event_twitter >}}
--->

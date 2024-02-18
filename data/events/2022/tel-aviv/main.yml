@@ -1,0 +1,316 @@
+name: "2022-tel-aviv" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2022" # The year of the event. Make sure it is in quotes.
+city: "Tel Aviv" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaystlv" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays is coming to Tel Aviv!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2022-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2022-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2022-12-14T00:00:00+02:00
+enddate:  2022-12-15T23:59:59+02:00
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start:  2022-05-31T00:00:00+02:00
+cfp_date_end:  2022-08-31T23:59:59+02:00
+cfp_date_announce:  # inform proposers of status
+
+cfp_link: "https://sessionize.com/devopsdays-tel-aviv-2022/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: 2022-09-01T00:00:00+02:00  # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2022-12-15T00:00:01+02:00  # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://bit.ly/DEVOPSDAYS-2022-TIX" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+program_link: "https://tlvcommunity.dev/devopsdays/agenda-2022"
+
+# Location
+#
+coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Tel Aviv" # Defaults to city, but you can make it the venue name.
+#
+location_address: "Expo Tel Aviv - 101 Rokach Blvd, Tel Aviv" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+ # - name: location
+ # - name: propose
+  - name: program
+ # - name: speakers
+  - name: sponsor
+  - name: registration
+  - name: contact
+  - name: conduct
+  - name: TLVCommunity Site
+    url: "https://tlvcommunity.dev/devopsdays"
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Sharone Zitzman"
+    twitter: "shar1z"
+    employer: "RTFM Please Ltd."
+    github: "shar1z"
+    linkedin: "https://www.linkedin.com/in/sharonez/"
+    website: "https://rtfmplease.dev"
+    image: "sharone-zitzman.jpg"
+
+  - name: "Lev Andelman"
+    twitter: "tlvcommunity"
+    employer: "Terasky"
+    linkedin: "https://www.linkedin.com/in/levandelman/"
+    website: "https://terasky.com"
+    image: "lev-andelman.jpg"
+
+  - name: "Michael Arenzon"
+    twitter: ""
+    employer: "Null"
+    github: ""
+    linkedin: ""
+    website: ""
+    image: "michael-arenzon.png"
+
+  - name: "Robert Barron"
+    twitter: "flyingbarron"
+    employer: "IBM"
+    github: "flyingbarron"
+    linkedin: "https://www.linkedin.com/in/flyingbarron/"
+    image: "robert-barron.jpg"
+
+  - name: "Andrei Burd"
+    twitter: "burdandrei"
+    employer: "Hashicorp"
+    github: "burdandrei"
+    linkedin: "https://www.linkedin.com/in/burdandrei/"
+    website: "https://hashicorp.com"
+    image: "andrei-burd.jpeg"
+
+  - name: "Nati Cohen"
+    twitter: "nocoot"
+    employer: "AWS"
+    github: "natict"
+    linkedin: "https://www.linkedin.com/in/natict/"
+    website: "https://aws.com"
+    image: "nati-cohen.jpg"
+
+  - name: "Hila Fish"
+    twitter: "Hilafish1"
+    employer: "Wix"
+    github: "hilafish"
+    linkedin: https://www.linkedin.com/in/hila-fish-863949a/"
+    website: "https://wix.com"
+    image: "hila-fish.jpg"
+
+  - name: "Jeremy Hess"
+    twitter: "jphess2"
+    employer: "Akeyless"
+    github: "yeshess"
+    linkedin: "https://www.linkedin.com/in/sallyfields"
+    website: "https://akeyless.io"
+    image: "jeremy-hess.jpeg"
+
+  - name: "Dotan Horovits"
+    twitter: "horovits"
+    employer: "Logz.io"
+    github: "horovits"
+    linkedin: "https://www.linkedin.com/in/horovits/"
+    website: "https://logz.io"
+    image: "dotan-horovits.jpg"
+
+  - name: "Victoriya Kalmanovich"
+    twitter: "VickiToVictory1"
+    employer: "Aspectiva"
+    github: ""
+    linkedin: "https://www.linkedin.com/in/sallyfields"
+    website: "https://walmart.com"
+    image: "vicky-kalm.jpeg"
+
+  - name: "Tal Kimhi"
+    twitter: "talkimhi"
+    employer: "Big Panda"
+    github: "talkimhi"
+    linkedin: "https://www.linkedin.com/in/talkimhi/"
+    website: "https://bigpanda.io"
+    image: "tal-kimhi.jpg"
+    image: "tal-kimhi.jpg"
+
+  - name: "Roman Roberman" 
+    twitter: "RomiRommm"
+    employer: "Wix"
+    linkedin: "https://www.linkedin.com/in/roman-roberman/"
+    website: "https://wix.com"
+    image: "roman-roberman.jpeg"
+
+  - name: "Julia Shub Vovlovsky" 
+    twitter: "juliavolvo"
+    employer: "LawGeex"
+    github: "Juliavol"
+    linkedin: "https://www.linkedin.com/in/julia-shub-72418842/"
+    website: "https://lawgeex.com" 
+    image: "julia-shub.jpg"
+
+
+  - name: "Viki Slavin"
+    employer: "Irox Data"
+    linkedin: "https://www.linkedin.com/in/sallyfields"
+    website: "https://iroxdata.io"
+    image: "viki-slavin.jpg"
+
+  - name: "Dan Yelovitch"
+    twitter: ""
+    employer: "DeveLeap"
+    github: ""
+    linkedin: "https://www.linkedin.com/in/dan-yelovitch-15b92036/"
+    website: "https://www.develeap.com/"
+    image: "dan-yelovich.jpg"
+
+  - name: "Erik Zaadi"
+    twitter: "erikzaadi"
+    employer: "Salto"
+    github: "erikzaadi"
+    linkedin: "https://www.linkedin.com/in/sallyfields"
+    website: "https://salto.io"
+    image: "erik-zaadi.jpg"
+
+  - name: "Gil Zellner"
+    twitter: "heathenaspargus"
+    employer: "Wix"
+    github: gilzellner"
+    linkedin: "https://www.linkedin.com/in/gilzellner/"
+    website: "https://wix.com"
+    image: "gil-zellner.jpg"
+
+
+
+organizer_email: "tel-aviv@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: cider-security
+    level: organizer
+  - id: linearb
+    level: platinum
+  - id: coralogix
+    level: platinum
+  - id: granulate-before-20230209
+    level: platinum
+  - id: jit
+    level: platinum
+  - id: ermetic
+    level: platinum
+  - id: paloaltonetworks-before-20230321
+    level: platinum
+  - id: microsoft
+    level: platinum
+  - id: armosec
+    level: gold
+  - id: komodor
+    level: gold
+  - id: aeropspike
+    level: gold
+  - id: env0
+    level: gold
+  - id: logz
+    level: gold
+  - id: circleci
+    level: gold
+  - id: permitio
+    level: gold
+  - id: rookout
+    level: gold
+  - id: riskified
+    level: gold
+  - id: slimai
+    level: gold
+  - id: terasky
+    level: gold
+  - id: cybereason
+    level: gold
+  - id: kaltura
+    level: gold
+  - id: singular
+    level: gold
+  - id: bigpanda
+    level: gold
+  - id: aerospike
+    level: gold
+  - id: akeyless
+    level: gold
+  - id: wizards
+    level: gold
+  - id: hetz
+    level: gold
+  - id: wix
+    level: gold
+  - id: snyk
+    level: gold
+  - id: jfrog
+    level: gold
+  - id: esl-cloudbees
+    level: gold
+  - id: googlecloud-before-20230502
+    level: gold
+  - id: newrelic
+    level: gold
+  - id: esl-sonatype
+    level: gold
+  - id: elastic
+    level: gold
+  - id: silverfort
+    level: gold
+  - id: spot-by-netapp
+    level: gold
+  - id: quali
+    level: gold
+  - id: spectralops
+    level: media
+  - id: doit-before-2023-07-07
+    level: media
+  - id: velocitytech
+    level: media
+  - id: cloudify
+    level: media
+  - id: pitango
+    level: media
+  - id: pagerduty
+    level: media
+  - id: statscraft
+    level: media
+  - id: iod
+    level: media
+ #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: barvazgumi
+    level: media
+  - id: opsschool
+    level: media
+  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: organizer
+    label: Event Organizer
+    level: Event Organizer
+  - id: platinum
+    label: Platinum
+#    max: 10
+  - id: gold
+    label: Gold
+#    max: 10
+# - id: community
+#   label: Community
+    max: 0 # This is the same as omitting the max limit.
+  - id: media
+    label: Media & Community Partner
+ 

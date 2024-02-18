@@ -1,0 +1,437 @@
+name: "2022-vitoria" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2022" # The year of the event. Make sure it is in quotes.
+city: "Vitoria" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaysvix" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays is coming to Vitoria!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2022-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2022-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2022-06-24T09:00:00-03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2022-06-25T18:00:00-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2021-10-14T10:00:00-03:00 # start accepting talk proposals.
+cfp_date_end: 2021-11-15T07:00:00-03:00 # close your call for proposals.
+cfp_date_announce: 2021-10-14T08:00:00-03:00 # inform proposers of status
+
+cfp_open: "true"
+cfp_link: "https://www.papercall.io/devopsdaysvitoria2022" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: 2021-10-18 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2022-01-10 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://www.sympla.com.br/devopsdays-vitoria-2022__1375471" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "-20.2927555,-40.3008919" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Local: Grand Hall - Vitória/ES" # Defaults to city, but you can make it the venue name.
+#
+location_address: "R. Dr. João Carlos de Souza - Barro Vermelho, Vitória - ES, 29045-410" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  # - name: propose
+  - name: location
+  #  - name: registration
+  - name: program
+  - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct-pt-br
+  - name: zeroday
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Giovani Balarini"
+    twitter: "GBalarini"
+    employer: "WillBank"
+    bio: "Capixaba da Gema, DevOps Engineer no WillBank, Bacharel em Desenvolvimento de Sistemas porém também SysAdmin Linux :D Nas horas vagas brinco de coda uns trem pela interwebs! "
+    github: "giovanibalarini"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/giovani-balarini-a4a25a86/"
+    website: ""
+    image: "giovanibalarini.jpg"
+  - name: "Michelle Ribeiro"
+    twitter: "michelleribeiro"
+    employer: "SPIRITSEC"
+    bio: "Executive Manager"
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/michelleribeiro"
+    website: ""
+    image: "michellemazioli.jpg"
+  - name: "Gleydson Mazioli"
+    twitter: ""
+    employer: "SPIRITSEC"
+    bio: "Technology Manager"
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/gleydsonmazioli"
+    website: ""
+    image: "gleydsonmazioli.jpg"
+  - name: "Cami Martins"
+    twitter: "punkdodevops"
+    employer: "Storyblok"
+    bio: "Punk, paulista, santista. Docker Community Leader. Sou Senior Site Reliability Engineer e atualmente trabalho na Storyblok, com pós em Forense Computacional e iniciando mestrado em Operação, avaliação e gerenciamento avançado de redes de computadores na Universidade Federal do Estado do Rildy Janeiro hehe. Nas horas vagas, estou codando (também!) e surtando com uma gatinha preta doida chamada Marvel (!) <3 pronous she/they - ele/ela"
+    github: "camilla-m"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/camilla-martins-603344115/"
+    website: "https://punkdodevops.com"
+    image: "camila-martins.jpg"
+  - name: "Sebastian Webber"
+    twitter: "sebawebber"
+    image: "sebastian-webber.jpg"
+  - name: "Marco Antonio Martins Junior (Somatório)"
+    employer: "PicPay"
+    twitter: "somatorio"
+    github: "somatorio"
+    facebook: "https://facebook.com/osomatorio"
+    linkedin: "https://www.linkedin.com/in/somatorio/"
+    website: "http://somatorio.org"
+    bio: "Peão as a Service, entusiasta da cultura DevOps, organizador do meetup DevOps/SRE Porto Alegre, Docker community leader (Porto Alegre), fuçador convicto, roda praticamente tudo em containers, jogador noob sempre que posso."
+    image: "marco-junior.jpg"
+  - name: "Rafael Gomes (Gomex)"
+    employer: "DNSFilter"
+    twitter: "gomex"
+    github: "gomex"
+    linkedin: "https://www.linkedin.com/in/rbgomes/"
+    website: "https://gomex.me"
+    bio: "Soteropolitano, hacker urbano e consultor de infraestrutura."
+    image: "rafael-gomes.jpg"
+  - name: "Cristiano Diedrich"
+    twitter: "omatofino"
+    employer: "uMov.me"
+    bio: "Formado em sistemas de informação, sou SRE na uMov.me, uma plataforma no code para aplicativos B2B, atuo na pesquisa, desenvolvimento e melhorias de soluções para a plataforma. Sou apaixonado por linux e tecnologias open-source, áreas que conheço a muitos anos."
+    github: "csdiedrich"
+    facebook: "https://www.facebook.com/cristiano.diedrich"
+    linkedin: "https://www.linkedin.com/in/cristianodiedrich/"
+    website: ""
+    image: "cristiano-diedrich.jpg"
+  - name: "Gian Lucas Cavalcante de Lima"
+    twitter: "gianlcl"
+    employer: "SPIRITSEC"
+    bio: "Natalense, Potiguar. Engenheiro da Computação. Sou atualmente Analista DevOps na SPIRITSEC. Já fui organizador do ArduinoDay em Natal e ajudei em alguns outros eventos na cidade. Tenho uma paixão por Linux que já vem durando 6 anos e sem expectativa de acabar. Cai de paraquedas no mundo do devops e acabei me identificando de imediato."
+    github: "gianlcl"
+    facebook: ""
+    linkedin: "gian-cavalcante"
+    website: ""
+    image: "gian-cavalcante.jpg"
+  - name: "Roze Cardoso"
+    twitter: "ralvitoria"
+    employer: "CI&T"
+    bio: "Cientista preta da computação, analista devops, futura Robin Hood do conhecimento e maestra de container. Divido os cuidados dos dogs Ada Boulos e Nikola Tesla II com meu companheiro de vida <3 e ainda dou conta de fazer minhas tranças, pequenos consertos em casa e uns freelas (segue o piiiiix ;D)"
+    github: "ravcardoso"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/ravcardoso/"
+    website: ""
+    image: "rozecardoso.jpg"
+  - name: "Igor Leonardo Eloy Macedo"
+    employer: "PicPay"
+    bio: "Devops Engineer no PicPay. Sysadmin por natureza, Devops por destino, sempre antenado e empolgado com novas tecnologias e apaixonado por compartilhar conhecimento!"
+    linkedin: "https://www.linkedin.com/in/igor-macedo/"
+    website: "blog.ilem.me"
+    github: ""
+    twitter: "dodaracaju"
+    image: "igor-macedo.jpg"
+  - name: "Jandson Mendes"
+    employer: "Mytec"
+    bio: "Gosto dos conceitos, entender as abstrações de um problema e colocar no mundo real me interessa mais. Amante de GNU/LINUX, Entendeu que o CHROOT foi uma das bases para o que conhecemos como CONTAINÊR, sabe que um bom ORQUESTRADOR de container é o kubernetes, LEITOR assiduo de PYTHON FLUENTE do mestre luciano ramalho, portanto sabe fazer algumas brincadeiras com python, e por último mas não menos importante gosta de AUTOMAÇÕES."
+    linkedin: "https://www.linkedin.com/in/jandson-oliveira/"
+    website: ""
+    github: "jandsonmendes25"
+    twitter: "jandson_mendes"
+    image: "jandson-mendes.jpg"
+  - name: "Elayne Lemos"
+    employer: "Sysvale"
+    bio: "Analista DevOps na Sysvale Softgroup, bem como voluntária e community staff no Linux Professional Institute. Engenheira de Computação em formação. Apaixonada por desenvolvimento e tecnologias de código aberto. Tendo como áreas de interesse: DevOps, Segurança da Informação e Infraestrutura."
+    linkedin: "https://linkedin.com/in/elaynelemos"
+    website: ""
+    github: "elaynelemos"
+    twitter: "elaynelemos"
+    image: "elaynelemos.jpg"
+  - name: "Rafaella Mazioli"
+    twitter: ""
+    employer: "relationship manager"
+    bio: ""
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/rafaella-mazioli-558bb2111"
+    website: ""
+    image: "rafaelamazioli.jpg"
+
+organizer_email: "vitoria@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+# sponsors:
+#   - id: samplesponsorname
+#     level: gold
+#  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+#   - id: arresteddevops
+#     level: community
+
+sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: platinum
+    label: Platinum
+  - id: gold
+    label: Gold
+  - id: silver
+    label: Silver
+  - id: bronze
+    label: Bronze
+  - id: community
+    label: Community
+
+sponsors:
+  - id: willbank
+    level: platinum
+    url: https://www.willbank.com.br/
+  - id: flexa
+    level: platinum
+    url: https://flexa.cloud/
+  - id: linuxtips
+    level: gold
+    url: https://www.linuxtips.io/
+  - id: spiritsec
+    level: gold
+    url: https://www.spiritsec.com/
+  - id: lpi
+    level: gold
+    url: https://www.lpi.org/
+  - id: globoofficial
+    level: silver
+    url: https://www.globo.com/
+  - id: inflor
+    level: bronze
+    url: https://www.inflor.com.br/
+  - id: globalsys
+    level: gold
+    url: https://www.globalsys.com.br/
+  - id: sauter
+    level: platinum
+    url: https://sauter.digital/
+  - id: olist
+    level: silver
+    url: https://olist.com/pt-br/
+  - id: autoglass
+    level: gold
+    url: https://www.autoglass.com.br/
+  - id: digitalocean
+    level: community
+    url: https://www.digitalocean.com/
+  - id: atmansystems
+    level: platinum
+    url: http://atmansystems.com/
+  - id: harness
+    level: platinum
+    url: https://harness.io/
+  - id: cloudwalk
+    level: gold
+    url: https://cloudwalk.io/
+
+program:
+  - title: "Credenciamento"
+    type: custom
+    date: 2022-06-24T08:00:00-03:00
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Abertura"
+    type: custom
+    date: 2022-06-24T08:00:00-03:00
+    start_time: "09:00"
+    end_time: "09:30"
+  - title: "rafael-gomex"
+    type: talk
+    date: 2022-06-24T08:00:00-03:00
+    start_time: "09:30"
+    end_time: "10:00"
+    background_color: "#AED6F1"
+  - title: "tainara-almeida"
+    type: talk
+    date: 2022-06-24T08:00:00-03:00
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Coffee Break"
+    type: custom
+    date: 2022-06-24T08:00:00-03:00
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "marcelo-freire"
+    type: talk
+    date: 2022-06-24T08:00:00-03:00
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "joao-brito"
+    type: talk
+    date: 2022-06-24T08:00:00-03:00
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Almoço"
+    type: custom
+    date: 2022-06-24T08:00:00-03:00
+    start_time: "12:00"
+    end_time: "13:30"
+  - title: "Ignite Talks"
+    type: custom
+    date: 2022-06-24T08:00:00-03:00
+    start_time: "13:30"
+    end_time: "13:45"
+  - title: "aline-freitas"
+    type: talk
+    date: 2022-06-24T08:00:00-03:00
+    start_time: "13:45"
+    end_time: "14:15"
+  - title: "OpenSpace na prática"
+    type: custom
+    date: 2022-06-24T08:00:00-03:00
+    start_time: "14:15"
+    end_time: "14:45"
+  - title: "OpenSpace na prática"
+    type: custom
+    date: 2022-06-24T08:00:00-03:00
+    start_time: "14:45"
+    end_time: "15:15"
+  - title: "will-oliveira"
+    type: talk
+    date: 2022-06-24T08:00:00-03:00
+    start_time: "15:15"
+    end_time: "15:45"
+  - title: "Coffee Break"
+    type: custom
+    date: 2022-06-24T08:00:00-03:00
+    start_time: "15:45"
+    end_time: "16:15"
+  - title: "luiz-felipe"
+    type: talk
+    date: 2022-06-24T08:00:00-03:00
+    start_time: "16:15"
+    end_time: "16:45"
+  - title: "gilmara-castro"
+    type: talk
+    date: 2022-06-24T08:00:00-03:00
+    start_time: "16:45"
+    end_time: "17:15"
+  - title: "michelle-ribeiro"
+    type: talk
+    date: 2022-06-24T08:00:00-03:00
+    start_time: "17:15"
+    end_time: "17:45"
+  - title: "Encerramento"
+    type: custom
+    date: 2022-06-24T08:00:00-03:00
+    start_time: "17:45"
+    end_time: "18:15"
+  - title: "Happy Hour"
+    type: custom
+    date: 2022-06-24T08:00:00-03:00
+    start_time: "18:15"
+    end_time: "22:00"
+  - title: "Credenciamento"
+    type: custom
+    date: 2022-06-25T08:00:00-03:00
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Abertura"
+    type: custom
+    date: 2022-06-25T08:00:00-03:00
+    start_time: "09:00"
+    end_time: "09:30"
+  - title: "andre-brandao"
+    type: talk
+    date: 2022-06-25T08:00:00-03:00
+    start_time: "09:30"
+    end_time: "10:00"
+    background_color: "#AED6F1"
+  - title: "lobinha"
+    type: talk
+    date: 2022-06-25T08:00:00-03:00
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Coffee Break"
+    type: custom
+    date: 2022-06-25T08:00:00-03:00
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "luana-goncalves"
+    type: talk
+    date: 2022-06-25T08:00:00-03:00
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "fernando-ike"
+    type: talk
+    date: 2022-06-25T08:00:00-03:00
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Almoço"
+    type: custom
+    date: 2022-06-25T08:00:00-03:00
+    start_time: "12:00"
+    end_time: "13:30"
+  - title: "Ignite Talks"
+    type: custom
+    date: 2022-06-25T08:00:00-03:00
+    start_time: "13:30"
+    end_time: "13:45"
+  - title: "camilla-martins"
+    type: talk
+    date: 2022-06-25T08:00:00-03:00
+    start_time: "13:45"
+    end_time: "14:15"
+  - title: "OpenSpace na prática"
+    type: custom
+    date: 2022-06-25T08:00:00-03:00
+    start_time: "14:15"
+    end_time: "14:45"
+  - title: "OpenSpace na prática"
+    type: custom
+    date: 2022-06-25T08:00:00-03:00
+    start_time: "14:45"
+    end_time: "15:15"
+  - title: "marco-antonio"
+    type: talk
+    date: 2022-06-25T08:00:00-03:00
+    start_time: "15:15"
+    end_time: "15:45"
+  - title: "Coffee Break"
+    type: custom
+    date: 2022-06-25T08:00:00-03:00
+    start_time: "15:45"
+    end_time: "16:15"
+  - title: "joao-freire"
+    type: talk
+    date: 2022-06-25T08:00:00-03:00
+    start_time: "16:15"
+    end_time: "16:45"
+  - title: "carol-valencia"
+    type: talk
+    date: 2022-06-25T08:00:00-03:00
+    start_time: "16:45"
+  - title: "jeferson-fernando"
+    type: talk
+    date: 2022-06-25T08:00:00-03:00
+    start_time: "17:15"
+    end_time: "17:45"
+  - title: "Encerramento"
+    type: custom
+    date: 2022-06-25T08:00:00-03:00
+    start_time: "17:45"
+    end_time: "18:15"
+  - title: "Happy Hour"
+    type: custom
+    date: 2022-06-25T08:00:00-03:00
+    start_time: "18:15"
+    end_time: "22:00"

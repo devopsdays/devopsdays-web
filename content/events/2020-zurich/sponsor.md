@@ -1,9 +1,10 @@
 +++
 Title = "Sponsor"
 Type = "event"
-Description = "Sponsor devopsdays zurich 2020"
+Description = "Sponsor DevOpsTuesDays Zürich 2020"
 +++
 
+The sponsors of DevOpsDays Zürich 2021 are also sponsoring the DevOpsTuesDays 2020. <br>
 We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at <a href="mailto:organizer@devopsdays.ch">organizer@devopsdays.ch</a>.
 
 <a href="https://landing.devopsdays.ch/wp-content/uploads/2019/11/Sponsorship-Kit-2020.pdf">Download Sponsoring Kit</a>
@@ -28,28 +29,16 @@ We greatly value sponsors for this open event.  If you are interested in sponsor
     <th bgcolor="#9E005D"><center><font color=white><b>Evening Event<br/></font></center></b></th>
     <th bgcolor="#9E005D"><center><font color=white><b>Meals & Coffee<br/></font></center></b></th>
   </tr>
-
   <tr>
-    <th><b>price in CHF excl. 7,7 % MWST<br/></b></th>
-    <td bgcolor="#FCDEBB"><center>8'000</center></td>
-    <td bgcolor="#FCDEBB"><center>4'000</center></td>
-    <td bgcolor="#FCDEBB"><center>1'000</center></td>
-    <td bgcolor="#B3DEC7"><center>8'000</center></td>
-    <td bgcolor="#B3DEC7"><center>4'000</center></td>
-    <td bgcolor="#B3DEC7"><center>1'000</center></td>
-    <td bgcolor="#E2B3CE"><center>4'000</center></td>
-    <td bgcolor="#E2B3CE"><center>3'000</center></td>
-  </tr>
-  <tr>
-    <th><b>number of packages<br/></b></th>
-    <td bgcolor="#FCDEBB"><center>1</center></td>
+    <th><b># of packages available<br/></b></th>
+    <td bgcolor="#FCDEBB"><center><b><font color=red>SOLD OUT</font></b></center></td>
     <td bgcolor="#FCDEBB"><center>2</center></td>
     <td bgcolor="#FCDEBB"><center>unlimited</center></td>
-    <td bgcolor="#B3DEC7"><center>5</center></td>
+    <td bgcolor="#B3DEC7"><center>4</center></td>
     <td bgcolor="#B3DEC7"><center>3</center></td>
     <td bgcolor="#B3DEC7"><center>unlimited</center></td>
-    <td bgcolor="#E2B3CE"><center>1</center></td>
-    <td bgcolor="#E2B3CE"><center>1</center></td>
+    <td bgcolor="#E2B3CE"><center><b><font color=red>SOLD OUT</font></b></center></td>
+    <td bgcolor="#E2B3CE"><center><b><font color=red>SOLD OUT</font></b></center></td>
   </tr>
   <tr>
     <th><b>mentioning on social media<br/></b></th>
@@ -96,7 +85,7 @@ We greatly value sponsors for this open event.  If you are interested in sponsor
     <td bgcolor="#E2B3CE"><center>x</center></td>
   </tr>
   <tr>
-    <th><b>1‘ pitch on 1st/2nd day<br/></b></th>
+    <th><b>1 min pitch on 1st/2nd day<br/></b></th>
     <td bgcolor="#FCDEBB"><center>x</center></td>
     <td bgcolor="#FCDEBB"><center></center></td>
     <td bgcolor="#FCDEBB"><center></center></td>
@@ -173,7 +162,7 @@ We greatly value sponsors for this open event.  If you are interested in sponsor
     <td bgcolor="#E2B3CE"><center></center></td>
   </tr>
   <tr>
-    <th><b>1‘ pitch before each lunch<br/></b></th>
+    <th><b>1 min pitch before each lunch<br/></b></th>
     <td bgcolor="#FCDEBB"><center></center></td>
     <td bgcolor="#FCDEBB"><center></center></td>
     <td bgcolor="#FCDEBB"><center></center></td>
@@ -195,7 +184,7 @@ We greatly value sponsors for this open event.  If you are interested in sponsor
     <td bgcolor="#E2B3CE"><center>x</center></td>
   </tr>
   <tr>
-    <th><b>5‘ pitch during evening event<br/></b></th>
+    <th><b>5 min pitch during evening event<br/></b></th>
     <td bgcolor="#FCDEBB"><center></center></td>
     <td bgcolor="#FCDEBB"><center></center></td>
     <td bgcolor="#FCDEBB"><center></center></td>
@@ -227,8 +216,18 @@ We greatly value sponsors for this open event.  If you are interested in sponsor
     <td bgcolor="#E2B3CE"><center>5</center></td>
     <td bgcolor="#E2B3CE"><center>3</center></td>
   </tr>
+  <tr>
+    <th><b>price (CHF) (w/o VAT)<br/></b></th>
+    <td bgcolor="#FCDEBB"><center>8'000.-</center></td>
+    <td bgcolor="#FCDEBB"><center>4'000.-</center></td>
+    <td bgcolor="#FCDEBB"><center>1'000.-</center></td>
+    <td bgcolor="#B3DEC7"><center>8'000.-</center></td>
+    <td bgcolor="#B3DEC7"><center>4'000.-</center></td>
+    <td bgcolor="#B3DEC7"><center>1'000.-</center></td>
+    <td bgcolor="#E2B3CE"><center>4'000.-</center></td>
+    <td bgcolor="#E2B3CE"><center>3'000.-</center></td>
+  </tr>
 </table>
-
 <br/>
 
 Please keep in mind, that you accept our Code of Conduct with sponsoring this event: {{< event_link page="conduct" text="Please read the Code of Conduct" >}}

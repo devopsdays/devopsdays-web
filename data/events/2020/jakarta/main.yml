@@ -1,0 +1,192 @@
+name: "2020-jakarta" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2020" # The year of the event. Make sure it is in quotes.
+city: "Jakarta" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdays" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "DevOpsDays is coming to Jakarta!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2020-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2020-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2020-03-11T00:00:00+07:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2020-03-12T00:00:00+07:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+# cfp_date_start: 2019-01-22T00:00:00+07:00 # start accepting talk proposals.
+# cfp_date_end: 2019-02-15T23:59:59+07:00 # close your call for proposals.
+# cfp_date_announce: 2019-02-20T00:00:00+07:00 # inform proposers of status
+
+# cfp_link: "https://bit.ly/DevOps_CallForProposal" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+
+registration_date_start: 2020-01-28T00:00:00+07:00
+registration_date_end: 2020-03-11T00:00:00+07:00 # close registration. Leave blank if registration is not open yet.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://www.devopsdaysjkt.org/copy-of-checkout" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Bank Rakyat Indonesia (BRI) Corporate University" # Defaults to city, but you can make it the venue name.
+#
+location_address: "Bank BRI Corporate University, Jl. Harsono RM No.2 6 7, RT.6/RW.7, Ragunan, Jakarta 12550" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+ # - name: propose
+  - name: location
+ # - name: registration
+ # - name: program
+  - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+  - name: DevOpsDaysJkt.org
+    url: https://www.devopsdaysjkt.org/
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Aulia Malitasari"
+    linkedin: "https://www.linkedin.com/in/aulia-malitasari-32642792"
+    twitter: "callmeaul"
+    image: "aulia_malitasari.jpg"
+  - name: "Ley Suprapto"
+    linkedin: "https://www.linkedin.com/in/ley-suprapto/"
+    image: "ley_suprapto.jpg"
+  - name: "Prasetyani Dwijayati"
+    linkedin: "https://id.linkedin.com/in/prasetyani-dwijayati-10a5ab5a"
+    image: "prasetyani_dwijayati.jpg"
+  - name: "Mia Fauziah"
+    linkedin: "https://www.linkedin.com/in/mia-fauziah-856750170/"
+    image: "mia_fauziah.jpg" 
+  - name: "Gilang Mochammad Husein"
+    linkedin: "https://www.linkedin.com/in/gilangmhusein?originalSubdomain=id"
+    image: "gilang_mochammad_husein.jpg"
+  - name: "Asrin Mitriani"
+    linkedin: "https://www.linkedin.com/in/asrin-mitriani-503801179/"
+    image: "asrin_mitriani.jpg"
+  - name: "Hendi Santika"
+    linkedin: "https://www.linkedin.com/in/hendisantika/"
+    image: "hendi_santika.jpg"
+  - name: "Zen Aufa Bahalwan"
+    linkedin: "https://www.linkedin.com/in/zenaufa/"
+    image: "zen_aufa_bahalwan.jpg"
+  - name: "Hananto Wibowo"
+    role: "Advisor"
+    linkedin: "https://www.linkedin.com/in/hananto-wibowo-soenarto-10a38845"
+    image: "hananto_wibowo.jpg"
+  - name: "Fransiscus Kaurrany"
+    role: "Advisor"
+    linkedin: "https://id.linkedin.com/in/fransiscus-kaurrany-57b25a24"
+    image: "fransiscus_kaurrany.jpg"
+  - name: "Nadira Bajrei"
+    role: "Advisor"
+    linkedin: "https://www.linkedin.com/in/nadira-bajrei-5615bb23/"
+    image: "nadira_bajrei.jpg"
+  - name: "Iwan Teguh Santoso"
+    role: "Advisor"
+    linkedin: "https://id.linkedin.com/in/iwan-teguh-santoso-31a88a54"
+    image: "iwan_teguh_santoso.jpg"
+  - name: "Made Mulia Indrajaya"
+    role: "Advisor"
+    linkedin: "https://www.linkedin.com/in/mademulia/"
+    image: "made_mulia.jpg"
+  - name: "Stefan Streichsbier"
+    role: "Advisor"
+    github: "streichsbaer"
+    twitter: "s_streichsbier"
+    linkedin: "https://www.linkedin.com/in/sstreichsbier"
+    image: "stefan_streichsbier.jpg"
+organizer_email: "jakarta@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id:  bri
+    level: track
+  - id:  naradacode
+    level: platinum
+  - id:  netpoleon
+    level: platinum
+  - id: elastic-before-20221004
+    level: gold
+  - id:  dynatrace
+    level: gold
+  - id:  allianz_in
+    level: gold
+  - id:  pagerduty
+    level: gold
+  - id:  itg
+    level: gold
+  - id:  f5
+    level: gold
+  - id:  shopee
+    level: silver
+  - id:  packet-systems
+    level: silver
+  - id: devops-indonesia
+    level: evening
+  - id: devops-institute
+    level: community
+  - id: devsecopsindonesia
+    level: community
+  - id: jvm
+    level: community
+  - id: meetthecto
+    level: community
+  - id: bncc
+    level: community
+  - id: geekhunter
+    level: community
+  - id: isqa
+    level: community
+  - id: infokomputer
+    level: media
+  - id: filemagz
+    level: media
+  - id: intisari
+    level: media
+  - id: joblike
+    level: media
+  - id: universitasindonesia
+    level: university
+  - id: binanusantara
+    level: university
+  - id: securecodewarrior-before-20230424
+    level: tournament
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: track
+    label: Track
+    max: 1
+  - id: platinum
+    label: Platinum
+    max: 3 
+  - id: gold
+    label: Gold
+    max: 6
+  - id: silver
+    label: Silver
+  - id: evening
+    label: Main Community
+  - id: tournament
+    label: Tournament
+  - id: university
+    label: University
+  - id: media
+    label: Media
+  - id: community
+    label: Community
+    

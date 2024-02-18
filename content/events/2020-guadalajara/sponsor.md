@@ -8,7 +8,7 @@ Description = "Sponsor devopsdays Guadalajara 2020"
     <div class="col-md-9">
       <div>
       <br>
-      <p>We greatly value sponsors for this community event! If you are interested in sponsoring see a <a href="/events/2020-guadalajara/Prospectus.pdf">PDF of our prospectus</a> for more details or please drop us an email at {{< email_organizers >}}.</p>
+      <p>We greatly value sponsors for this community event! If you are interested in sponsoring see a <a href="/events/2020-guadalajara/prospectus.pdf">PDF of our prospectus</a> for more details or please drop us an email at {{< email_organizers >}}.</p>
       <br>
       </div>
       <h3>Sponsorship Packages</h3>
@@ -119,16 +119,16 @@ Description = "Sponsor devopsdays Guadalajara 2020"
             <th scope="row">Price in USD*</th>
             <td></td>
             <td>
-              <center>$500</center>
+              <center>$572</center>
             </td>
             <td>
-              <center>$1,000</center>
+              <center>$1,143</center>
             </td>
             <td>
-              <center>$1,500</center>
+              <center>$1,715</center>
             </td>
             <td>
-              <center>$2,000</center>
+              <center>$2,286</center>
             </td>
           </tr>
           <tr>
@@ -151,11 +151,11 @@ Description = "Sponsor devopsdays Guadalajara 2020"
       </table>
       <small>* Prices in USD may vary due to exchange rate</small>
       <br>
-    </div> 
+    </div>
   </div>
 </div>
 <hr>
-<p>devopsdays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists.</p> 
+<p>devopsdays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists.</p>
 <p>Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.</p>
 <p>Gold sponsors get a full table and Silver sponsors a shared table where they can interact with those interested to come visit during breaks. All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
 The best thing to do is send engineers to interact with the experts at devopsdays on their own terms.</p>

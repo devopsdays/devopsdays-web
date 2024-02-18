@@ -4,7 +4,7 @@ Type = "event"
 Description = "Propose a talk for devopsdays Bogotá 2020"
 +++
   {{< cfp_dates >}}
-
+  <center><strong>Submit proposal at </strong><a href="https://www.papercall.io/devopsdaysbogota2020">Papercall.io</a></center>
 <hr>
 
 There are three ways to propose a topic at devopsdays:
@@ -27,11 +27,4 @@ Choosing talks is part art, part science; here are some factors we consider when
 
 <hr>
 
-<strong>How to submit a proposal:</strong> Go to the following website and follow the instructions on that site. 
-##### <a href="https://www.papercall.io/devopsdaysbogota">devopsdays Bogotá 2019 - PaperCall.io</a><br>
-If you run into any problems, please don't hesitate to contact us by email at [{{< email_organizers >}}].
-<ol>
-	<li>Type (presentation, panel discussion, ignite)</li>
-	<li>Proposal Title (can be changed later)</li>
-	<li>Description (several sentences explaining what attendees will learn)</li>
-</ol>
+<strong>How to submit a proposal:</strong> Submit proposal on papercall.io: <a href="https://www.papercall.io/devopsdaysbogota2020">https://www.papercall.io/devopsdaysbogota2020</a>

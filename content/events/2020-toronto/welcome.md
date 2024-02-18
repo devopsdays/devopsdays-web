@@ -2,7 +2,7 @@
 Title = "DevOpsDays Toronto 2020"
 Type = "welcome"
 aliases = ["/events/2020-toronto/"]
-Description = "DevOpsDays Toronto 2020"
+Description = "We're very sorry to announce that DevOpsDays Toronto 2020 will not be happening in April as planned"
 +++
 
 <div style="text-align:center;">
@@ -11,7 +11,11 @@ Description = "DevOpsDays Toronto 2020"
 
 </br>
 
-DevOpsDays Toronto is back for its seventh year. The conference is April 16 and 17 at {{< event_location >}}. The CFP opens on December 1, 2019.</br>
+We’re very sorry to announce that DevOpsDays Toronto 2020 will not be happening in April as planned.
+
+Due to the outbreak of COVID-19, the WHO pandemic classification, forced travel restrictions and growing concern over the spread of the disease, we have decided not to hold DevOpsDays Toronto on April 16th and 17th. While we are disappointed not to host the event in April, the health and well-being of everyone involved and potentially affected is our top priority.
+
+We are presently researching the feasibility of holding an event in the fall but do not yet have enough information to confirm if or when the event will be rescheduled. We will provide updates via email and social channels by March 30th and appreciate your patience at this time.
 
 <div class = "row">
   <div class = "col-md-2">
@@ -22,14 +26,14 @@ DevOpsDays Toronto is back for its seventh year. The conference is April 16 and 
   </div>
 </div>
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div>
+</div> -->
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -40,14 +44,14 @@ DevOpsDays Toronto is back for its seventh year. The conference is April 16 and 
   </div>
 </div> -->
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
-</div>
+</div> -->
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -67,14 +71,14 @@ DevOpsDays Toronto is back for its seventh year. The conference is April 16 and 
   </div>
 </div> -->
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="sponsor" text="Sponsor the conference!" >}}
   </div>
-</div>
+</div> -->
 
 <div class = "row">
   <div class = "col-md-2">

@@ -1,0 +1,372 @@
+name: "2022-birmingham-uk" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2022" # The year of the event. Make sure it is in quotes.
+city: "Birmingham, UK" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaysbrum" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays is coming to birmingham!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+event_logo: logo.png
+event_group: "Birmingham, UK"
+sharing_image: "logo-square.jpg"
+# All dates are in unquoted 2022-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2022-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2022-05-05T09:00:00+00:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2022-05-06T17:00:00+00:00  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2021-12-01T18:00:00+00:00 # start accepting talk proposals.
+cfp_date_end: 2022-02-20T18:00:00+00:00 # close your call for proposals.
+cfp_date_announce: 2022-02-28T18:00:00+00:00 # inform proposers of status
+
+cfp_link: "https://sessionize.com/devopsdays-birmingham-uk-2022/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://ti.to/tech-events-birmingham/devopsdays-birmingham-uk-2022" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "52.483096,-1.8883369" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Millennium Point" # Defaults to city, but you can make it the venue name.
+#
+location_address: "Millennium Point, Curzon Street, Birmingham" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  # - name: propose
+  # - name: location
+  - name: registration
+  - name: program
+  - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+  - name: covid
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Tom Withers"
+    employer: "Ministry of Justice"
+    image: "tom-withers.jpg"
+    twitter: "@tomtucka"
+  - name: "Alistair Hey"
+    employer: "Independent Consultant"
+    image: "alistair-hey.jpg"
+    twitter: "@alistair_hey"
+  - name: "Anaïs Urlichs"
+    employer: "Civo Cloud"
+    image: "anais-urlichs.jpg"
+    twitter: "@urlichsanais"
+  - name: "Michael Cade"
+    employer: "Kasten by Veeam"
+    image: "michael-cade.jpg"
+    twitter: "@MichaelCade1"
+
+organizer_email: "birmingham-uk@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: buildkite
+    level: silver
+  - id: civo
+    level: silver
+  - id: teleport
+    level: gold
+  - id: progresschef
+    level: gold
+  - id: elastic
+    level: silver
+  - id: circleci
+    level: gold
+  - id: circleci
+    level: Evening
+  - id: harness
+    level: silver
+  - id: kasten-by-veeam
+    level: gold
+  - id: catchpoint
+    level: gold
+  - id: mondoo-before-20220615
+    level: silver
+  - id: brumjs
+    level: community
+  - id: golang-birmingham
+    level: community
+  - id: fusion
+    level: community
+  - id: github
+    level: gold
+  - id: squaredup
+    level: silver
+  - id: pulumi
+    level: bronze
+  - id: devopsnotts
+    level: community
+  - id: vonage
+    level: gold
+  - id: many-pets
+    level: bronze
+  - id: wise
+    level: bronze
+  - id: basis-technologies
+    level: gold
+  - id: rawkode-academy
+    level: community
+
+sponsors_accepted: "no" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: gold
+    label: Gold
+    max: 10
+  - id: silver
+    label: Silver
+    max: 10
+  - id: bronze
+    label: Bronze
+    max: 5
+  - id: Evening
+    max: 1
+    label: Evening Event
+  - id: community
+    label: Community
+
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2022-05-05T09:00:00+00:00
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2022-05-05T09:00:00+00:00
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "marcel-britsch"
+    type: talk
+    date: 2022-05-05T09:00:00+00:00
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "bartłomiej-płotka"
+    type: talk
+    date: 2022-05-05T09:00:00+00:00
+    start_time: "09:45"
+    end_time: "10:15"
+  - title: "david-flanagan"
+    type: talk
+    date: 2022-05-05T09:00:00+00:00
+    start_time: "10:15"
+    end_time: "10:45"
+  - title: "Break"
+    type: custom
+    date: 2022-05-05T09:00:00+00:00
+    start_time: "10:45"
+    end_time: "11:10"
+  - title: "matt-machell"
+    type: talk
+    date: 2022-05-05T09:00:00+00:00
+    start_time: "11:10"
+    end_time: "11:40"
+  - title: "leon-adato"
+    type: talk
+    date: 2022-05-05T09:00:00+00:00
+    start_time: "11:40"
+    end_time: "12:10"
+  - title: "piet-van-dongen"
+    type: talk
+    date: 2022-05-05T09:00:00+00:00
+    start_time: "12:10"
+    end_time: "12:15"
+  - title: "antonio-cobo"
+    type: talk
+    date: 2022-05-05T09:00:00+00:00
+    start_time: "12:15"
+    end_time: "12:20"
+  - title: "anais-urlichs"
+    type: talk
+    date: 2022-05-05T09:00:00+00:00
+    start_time: "12:20"
+    end_time: "12:25"
+  - title: "luigi-zoso"
+    type: talk
+    date: 2022-05-05T09:00:00+00:00
+    start_time: "12:25"
+    end_time: "12:30"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2022-05-05T09:00:00+00:00
+    start_time: "12:30"
+    end_time: "12:45"
+  - title: "Lunch"
+    type: custom
+    date: 2022-05-05T09:00:00+00:00
+    start_time: "12:45"
+    end_time: "13:45"
+  - title: "Open Space Planning"
+    type: custom
+    date: 2022-05-05T09:00:00+00:00
+    start_time: "13:45"
+    end_time: "14:05"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2022-05-05T09:00:00+00:00
+    start_time: "14:15"
+    end_time: "14:35"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2022-05-05T09:00:00+00:00
+    start_time: "14:40"
+    end_time: "15:00"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2022-05-05T09:00:00+00:00
+    start_time: "15:05"
+    end_time: "15:25"
+  - title: "Break"
+    type: custom
+    date: 2022-05-05T09:00:00+00:00
+    start_time: "15:25"
+    end_time: "16:00"
+  - title: "Open Space #4"
+    type: open-space
+    date: 2022-05-05T09:00:00+00:00
+    start_time: "16:00"
+    end_time: "16:20"
+  - title: "Open Space #5"
+    type: open-space
+    date: 2022-05-05T09:00:00+00:00
+    start_time: "16:25"
+    end_time: "16:45"
+  - title: "Close Day"
+    type: custom
+    date: 2022-05-05T09:00:00+00:00
+    start_time: "16:50"
+    end_time: "17:00"
+  - title: "Evening event @ Purecraft bar Birmingham!"
+    type: custom
+    date: 2022-05-05T09:00:00+00:00
+    start_time: "17:45"
+    end_time: "late"
+
+# TODO day 2
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2022-05-06T09:00:00+00:00
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2022-05-06T09:00:00+00:00
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "simon-emms"
+    type: talk
+    date: 2022-05-06T09:00:00+00:00
+    start_time: "09:10"
+    end_time: "09:40"
+  - title: "martin-reynolds"
+    type: talk
+    date: 2022-05-06T09:00:00+00:00
+    start_time: "09:40"
+    end_time: "10:10"
+  - title: "ayelet-sachto"
+    type: talk
+    date: 2022-05-06T09:00:00+00:00
+    start_time: "10:10"
+    end_time: "10:40"
+  - title: "Break"
+    type: custom
+    date: 2022-05-06T09:00:00+00:00
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "angeliki-patsiavou"
+    type: talk
+    date: 2022-05-06T09:00:00+00:00
+    start_time: "11:10"
+    end_time: "11:40"
+  - title: "federico-fregosi"
+    type: talk
+    date: 2022-05-06T09:00:00+00:00
+    start_time: "11:40"
+    end_time: "12:10"
+  - title: "noaa-barki"
+    type: talk
+    date: 2022-05-06T09:00:00+00:00
+    start_time: "12:10"
+    end_time: "12:40"
+  - title: "becky-pauley"
+    type: talk
+    date: 2022-05-06T09:00:00+00:00
+    start_time: "12:40"
+    end_time: "12:45"
+  - title: "matilde-aliffi"
+    type: talk
+    date: 2022-05-06T09:00:00+00:00
+    start_time: "12:45"
+    end_time: "12:50"
+  - title: "Louise Paling - Agile. A Lego star wars Story."
+    type: custom
+    date: 2022-05-06T09:00:00+00:00
+    start_time: "12:50"
+    end_time: "12:55"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2022-05-06T09:00:00+00:00
+    start_time: "12:55"
+    end_time: "13:00"
+  - title: "Lunch"
+    type: custom
+    date: 2022-05-06T09:00:00+00:00
+    start_time: "13:00"
+    end_time: "14:00"
+  - title: "Open Space Planning"
+    type: custom
+    date: 2022-05-06T09:00:00+00:00
+    start_time: "14:00"
+    end_time: "14:20"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2022-05-06T09:00:00+00:00
+    start_time: "14:25"
+    end_time: "14:45"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2022-05-06T09:00:00+00:00
+    start_time: "14:50"
+    end_time: "15:10"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2022-05-06T09:00:00+00:00
+    start_time: "15:15"
+    end_time: "15:35"
+  - title: "Break"
+    type: custom
+    date: 2022-05-06T09:00:00+00:00
+    start_time: "15:35"
+    end_time: "16:00"
+  - title: "Open Space #4"
+    type: open-space
+    date: 2022-05-06T09:00:00+00:00
+    start_time: "16:00"
+    end_time: "16:20"
+  - title: "Open Space #5"
+    type: open-space
+    date: 2022-05-06T09:00:00+00:00
+    start_time: "16:25"
+    end_time: "16:45"
+  - title: "Close Day"
+    type: custom
+    date: 2022-05-06T09:00:00+00:00
+    start_time: "16:45"
+    end_time: "17:00"

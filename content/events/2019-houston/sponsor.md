@@ -49,12 +49,12 @@ The best thing to do is send engineers to interact with the experts at devopsday
     <tr>
         <th style="text-align:left">Pay Now</th>
         <th><center><span class="btn btn-warning btn-sm">2 left</span><br /><br />
-        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+        <!-- <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="7HCW43Y5TXEPG">
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form></center></th>
+</form></center></th> -->
         <th valign="top"><center>
         <span class="btn btn-danger btn-sm">Sold Out</span> <br/>
         </center></th>
@@ -75,7 +75,6 @@ The best thing to do is send engineers to interact with the experts at devopsday
         <td bgcolor="gold"><center>4</center></td>
         <td bgcolor="gold"><center>6</center></td>
     </tr>
-
     <tr>
         <td class="l">Logo on event website</td>
         <td bgcolor="gold">&#x2714;</td>
@@ -83,7 +82,6 @@ The best thing to do is send engineers to interact with the experts at devopsday
         <td bgcolor="gold">&#x2714;</td>
         <td bgcolor="gold">&#x2714;</td>
     </tr>
-
     <tr>
         <td class="l">Logo on main room signage</td>
         <td bgcolor="gold">&#x2714;</td>
@@ -91,15 +89,13 @@ The best thing to do is send engineers to interact with the experts at devopsday
         <td bgcolor="gold">&#x2714;</td>
         <td bgcolor="gold">&#x2714;</td>
     </tr>
-    
     <tr>
         <td class="l">Logo on all email communication</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td bgcolor="gold">&#x2714;</td>
         <td bgcolor="gold">&#x2714;</td>
-    </tr>
-    
+    </tr>   
     <tr>
         <td class="l">Logo on shared slide, rotating during breaks</td>
         <td>&nbsp;</td>
@@ -107,7 +103,6 @@ The best thing to do is send engineers to interact with the experts at devopsday
         <td bgcolor="gold">&#x2714;</td>
         <td>&nbsp;</td>
     </tr>
-
     <tr>
         <td class="l">Logo on dedicated slide, rotating during breaks</td>
         <td>&nbsp;</td>
@@ -115,7 +110,6 @@ The best thing to do is send engineers to interact with the experts at devopsday
         <td>&nbsp;</td>
         <td bgcolor="gold">&#x2714;</td>
     </tr>
-    
     <tr>
         <td class="l">Shared (half) table</td>
         <td>&nbsp;</td>
@@ -123,7 +117,6 @@ The best thing to do is send engineers to interact with the experts at devopsday
         <td>&nbsp;</td>
         <td>&nbsp;</td>
     </tr>
-
     <tr>
         <td class="l">Full table</td>
         <td>&nbsp;</td>
@@ -131,7 +124,6 @@ The best thing to do is send engineers to interact with the experts at devopsday
         <td bgcolor="gold">&#x2714;</td>
         <td bgcolor="gold">&#x2714;</td>
     </tr>
-    
     <tr>
         <td class="l">Choice of table location</td>
         <td>&nbsp;</td>
@@ -139,7 +131,6 @@ The best thing to do is send engineers to interact with the experts at devopsday
         <td>&nbsp;</td>
         <td bgcolor="gold">&#x2714;</td>
     </tr>
-    
     <tr>
         <td class="l">1 minute pitch to full audience</td>
         <td>&nbsp;</td>
@@ -147,7 +138,6 @@ The best thing to do is send engineers to interact with the experts at devopsday
         <td bgcolor="gold">&#x2714;</td>
         <td>&nbsp;</td>
     </tr>
-    
     <tr>
         <td class="l">5 minute pitch to full audience</td>
         <td>&nbsp;</td>

@@ -1,7 +1,7 @@
 +++
 Title = "Daniel Korn"
 Twitter = "korndaniel1"
-image = "daniel-korn.jpeg"
+image = "daniel-korn.jpg"
 type = "speaker"
 linktitle = "daniel-korn"
 

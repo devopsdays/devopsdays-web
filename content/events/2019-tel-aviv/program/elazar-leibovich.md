@@ -16,4 +16,3 @@ It is hence important to understand Linux network fundumentals. From the driver 
 We will first review the theory, and then present useful tools to apply the theory and debug problems in common situations.
 
 We will survey common containers situations and see how packets move from the hardware to the container's veth.
-~/event sponsors

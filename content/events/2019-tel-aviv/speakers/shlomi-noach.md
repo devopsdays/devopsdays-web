@@ -1,7 +1,7 @@
 +++
 Title = "Shlomi Noach"
 Twitter = "shlominoach"
-image = "shlomi_noach.jpeg"
+image = "shlomi_noach.jpg"
 type = "speaker"
 linktitle = "shlomi-noach"
 

@@ -17,7 +17,9 @@ The best thing to do is send engineers to interact with the experts at devopsday
 
 <br>
 <center>
-## [Download Our Prospectus Here!](/events/2020-philadelphia/devopsdays_Philadelphia_2020_prospectus.pdf)
+
+## [Download Our Prospectus Here!](/events/2020-philadelphia/devopsdays_philadelphia_2020_prospectus.pdf)
+
 </center>
 <br>
 

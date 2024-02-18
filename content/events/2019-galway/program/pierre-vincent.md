@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Changing tyres on a moving car: the journey to zero-downtime deployments"
 Type = "talk"
 Speakers = ["pierre-vincent"]
+Slideshare = "https://www.slideshare.net/PierreVincent3/devopsdays-galway-2019-zerodowntime-deployments"
 +++
 
 "Applications built over the years carry historical design assumptions, such as: it is acceptable to take a system out for upgrade maintenance for a few hours every 6 months.

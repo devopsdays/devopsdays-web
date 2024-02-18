@@ -1,0 +1,259 @@
+name: "2022-fortaleza" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2022" # The year of the event. Make sure it is in quotes.
+city: "Fortaleza" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaysce" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays is coming to Fortaleza!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2022-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2022-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate:  2022-10-08T08:00:00-03:00  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  2022-10-08T17:00:00-03:00  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2021-10-14T10:00:00-03:00 # start accepting talk proposals.
+cfp_date_end: 2021-11-15T07:00:00-03:00 # close your call for proposals.
+cfp_date_announce: 2021-10-14T08:00:00-03:00 # inform proposers of status
+
+cfp_open: "false"
+cfp_link: "https://www.papercall.io/devopsdaysfortaleza2022" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: 2022-06-29 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2022-08-10 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://devopsdaysce.eventize.com.br" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "3.7697702, -38.4799603" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Local: UNIFOR - Universidade de Fortaleza - Fortaleza/CE" # Defaults to city, but you can make it the venue name.
+#
+location_address: "Av. Washington Soares, 1321 - Edson Queiroz" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: propose
+  - name: location
+  - name: registration
+    url: https://devopsdaysce.eventize.com.br
+ # - name: program
+  - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct-pt-br
+#  - name: zeroday
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Renato Santos"
+    twitter: "_rsantos"
+    employer: "Wiser Educação"
+    bio: "Graduated in computer networks, passionate about technology and reserved conventional, multitasking, command line, admirer of photography, enthusiastic DevOps. Was in charge of the implementation of the ZABBIX monitoring system in the company M2M Solutions, SindiOnibus, Casas Freitas, Vector Contact Center and CRC , where I had great experience in Java technology using TOMCAT and automating services with the deployable tool Ansible applying the concept of DevOps. Ethical and professional way, I try to be sociable and educated respecting the limits of each one."
+    github: "renat473"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/renatodossantos/"
+    website: ""
+    image: "renato-santos.jpg"
+
+  - name: "Ana Carla"
+    twitter: ""
+    employer: "Hash"
+    bio: "mother, wife, professional and curious. Currently supports a team of SREs in the product engineering area. Loves technology, communities and people. Believes that the union of technology and people create innovative scenarios.Master's student in Artificial Intelligence and Data Science. Currently supports the two projects Pyladies Fortaleza and DevOps Day Fortaleza."
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/anacarlacavalcante/"
+    website: ""
+    image: "anacarla.jpeg"
+
+  - name: "Ana Mendes"
+    twitter: ""
+    employer: "TJCE"
+    bio: "Graduated in systems analysis and development and graduate student in Software Engineering,DevOps and Cloud Computing. Certified GitLab and Oracle Cloud Foundations 2021. At the moment I work as a DevOps at TJCE and I've been looking to follow a path of studies about this amazing culture and its tools. Currently supports the two projects: Pyladies Fortaleza and DevOps Day Fortaleza."
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/ana-mdo/"
+    website: ""
+    image: "ana-mendes.jpeg"    
+
+  - name: "Cecília Câmara"
+    twitter: ""
+    employer: "FortBrasil"
+    bio: "Computer Science student at the Federal University of Ceará. I'm a new data professional who loves Python and is very curious. This allowed me to have vast experience of projects in the technology area in the areas of Data Science, Dev Back-End, Testing (V&V) and games. After these experiences, I found myself in the Data Science area and I don't intend to leave anymore."
+    github: "CeciliaHelen"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/cec%C3%ADlia-c%C3%A2mara-400303181/"
+    website: ""
+    image: "cecilia.camara.jpeg"
+
+  - name: "Ana Aguilar"
+    twitter: ""
+    employer: "QuintoAndar"
+    bio: "Graduated in network of computers with specialization in security information .I am working on IT are since 2012. And as DevOps engineer with over 5 years of working. Loves to automate boring tasks. Facilitating continuous development, continuous testing, and continuous integration, thus ensuring high quality and on-time delivery."
+    github: "ana-aguilar7"
+    facebook: ""
+    linkedin: ""
+    website: ""
+    image: "aguilar.jpg"
+
+  - name: "Ezzio Moreira"
+    twitter: ""
+    employer: "Pagar.me"
+    bio: "Graduated in Computer Networks, certified AWS Solutions Architect Associate, and Terraform Associate. I love technology and DevOps culture. I am a member of the Mentoring IaC community where I can learn and cultivate the philosophy of knowledge sharing. I'm learning about Gitops, Kubernetes, and coding in golang.In my spare time, I like to drink craft beer, play video games and ride a bike."
+    github: "ezzioMoreira"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/ezzio-moreira-89587898/"
+    website: ""
+    image: "ezzio.moreira.jpeg"
+
+  - name: "Henrique Oliveira"
+    twitter: ""
+    employer: "GreenMile"
+    bio: "I am Black Guy Fortalezense, that love music, arts, movies/tv and books. I work for an international company with DevOps/SRE Role Position. By the way, I support many causes, humanity causes. I am happying for support this cause too, because we help many people in entire world."
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/henrikoliveira/"
+    website: ""
+    image: "henrique-oliveira.png"
+
+  - name: "Nathália Lira"
+    twitter: ""
+    employer: "FortBrasil"
+    bio: "Graduated in network of computers with specialization in security information and IT Governance. I love technology and I am working on IT are since 2010. I work for an Fintech with IT operations and governance manager."
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/nathalialira8/"
+    website: ""
+    image: "nathalia-lira.jpg"
+
+  - name: "Rafael Camelo"
+    twitter: ""
+    employer: "RCN&BS"
+    bio: "My name is Rafael, I have a Degree in Computer Networks and a Post Graduate in Information Security, I am currently studying the Devops culture and I intend to use the solutions provided by it. I am living in Fortaleza, Ceará Brazil. Currently I work in a company that provides solutions service related to technology, my position currently is, infrastructure analyst. I love to play sports like judo and Crossfit, I really like to read things not related to IT"
+    github: "rafaelm93"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/rafael-camelo-98120b93/"
+    website: ""
+    image: "rafael-camelo.jpg"
+
+  - name: "Pedro Azevedo"
+    twitter: ""
+    employer: "Software Engineer"
+    bio: "Sysadmin for over a decade! I have huge experience on open source solutions, working for many amazing companies. I've been working with public cloud providers over those last years, helping companies to keep their business always on. I’m a python fan, DevOps Culture afictioned, automation fanatic. I seek for contribute and evolve our local community, difunding kwownledge and sharing whatever I learn on the daily challenges. My main goal is to be the best husband, father, friend I can be."
+    github: "phwebcloud"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/phlimaazevedo/"
+    website: ""
+    image: "pedro-azevedo.png"
+
+  - name: "Joab Rocha"
+    twitter: ""
+    employer: "Software Engineer"
+    bio: "Student of Industrial Mathematics at the Federal University of Ceará, I am an enthusiast in web development that seeks to improve more and more in the new technologies that are emerging. I have 2 years of experience developing Back-End systems for the Web, with some knowledge in Docker and Deploy, and about 5 years with programming in general."
+    github: "Joab-S"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/joabdsr/"
+    website: ""
+    image: "joab.rocha.jpeg"  
+
+ 
+
+organizer_email: "fortaleza@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+# sponsors:
+#   - id: samplesponsorname
+#     level: gold
+#  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+#   - id: arresteddevops
+#     level: community
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: platinum
+    label: Platinum
+  - id: gold
+    label: Gold
+  - id: silver
+    label: Silver
+  - id: bronze
+    label: Bronze
+  - id: community
+    label: Community  
+
+sponsors:
+  - id: unifor
+    level: platinum
+    url: https://unifor.br/
+  - id: quode
+    level: platinum
+    url: https://www.quodeproject.com.br/  
+  - id: elevenworks
+    level: platinum
+    url: https://elven.works/
+  - id: linuxtips
+    level: silver
+    url: https://www.linuxtips.io/
+  - id: forja
+    level: silver
+    url: https://techleadership.rocks
+  - id: novatec
+    level: community
+    url: https://novatec.com.br
+  - id: urbanostreet
+    level: community
+    url: https://www.instagram.com/urbano.street/
+  - id: grafanabr
+    level: community
+    url: https://grafana.com/
+  - id: servix
+    level: community
+    url: https://servix.com/
+  - id: elastic
+    level: bronze
+    url: https://www.elastic.co/
+  - id: atlantico
+    level: gold
+    url: https://www.atlantico.com.br/
+  - id: aws-user-group-ce
+    level: community
+    url: https://www.meetup.com/pt-BR/AWS-Users-Group-CE/
+  - id: energy-telecom
+    level: community
+    url: https://www.energytelecom.com.br/
+  # - id: globoofficial
+  #   level: silver
+  #   url: https://www.globo.com/
+  # - id: inflor
+  #   level: bronze
+  #   url: https://www.inflor.com.br/   
+  # - id: quanto
+  #   level: platinum
+  #   url: https://quan.to/   
+  # - id: globalsys
+  #   level: gold
+  #   url: https://www.globalsys.com.br/  
+  # - id: sauter
+  #   level: platinum
+  #   url: https://sauter.digital/ 
+  # - id: olist
+  #   level: silver
+  #   url: https://olist.com/pt-br/
+  # - id: autoglass
+  #   level: gold
+  #   url: https://www.autoglass.com.br/
+  # - id: quadritech
+  #   level: bronze
+  #   url: https://www.autoglass.com.br/

@@ -5,6 +5,13 @@ aliases = ["/events/2020-kiev", "/events/2020-kyiv"]
 Description = "devopsdays Kyiv 2020"
 +++
 
+# DevOpsDays Kyiv 2020 event moves online
+### Due to the outbreak of COVID-19, we cannot make the offline event this May. Therefore, DevOpsDays Kyiv event will be online on May 14-16. We are still aiming to make an offline event in early September. We want to reassure you that the tickets you bought are 100% valid for the new date.
+
+### Please, join us for the DevOps Days Kyiv 2020 "From Home" edition.
+
+### See you online!
+
 <div style="text-align:center;">
   {{< event_logo >}}
   <p></p>

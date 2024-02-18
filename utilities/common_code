@@ -1,0 +1,42 @@
+# Get the absolute path of the root of the repo
+function gitroot() {
+  git rev-parse --show-toplevel
+}
+
+# Detect OS for correct 'sed' syntax
+function sedcmd() {
+  local osname=`uname`
+  local gnused=$(which sed)
+
+  if [[ $osname == 'Linux' ]]; then
+    sed -i "$@"
+  elif [[ $osname == 'Darwin' && $gnused == '/usr/local/bin/sed' ]]; then
+    sed -i "$@"
+  else
+    sed -i '' "$@"
+  fi
+}
+
+# replace a string in a file, accounting for any special characters
+# based on https://unix.stackexchange.com/a/129063
+string_replace() {
+  # requires 3 arguments
+  if [[ $# -ne 3 ]] ; then
+    echo "string_replace requires 3 arguments:  key to be replaced, string replacement, file"
+    exit 1
+  fi
+
+  # escape our left hand side, and right hand side of sed args
+  escaped_lhs=$(printf '%s\n' "$1" | sed 's:[][\\/.^$*]:\\&:g')
+  escaped_rhs=$(printf '%s\n' "$2" | sed 's:[\\/&]:\\&:g;$!s/$/\\/')
+  file=$3
+
+  if [[ -w "${file}" ]] ; then
+    # sed -i'' should work for macos and linux equally.
+    sed -i'' "s/${escaped_lhs}/${escaped_rhs}/" "${file}"
+  else
+    echo "WARNING: ${file} not writeable"
+    return 1
+  fi
+}
+

@@ -1,7 +1,7 @@
 +++
 Title = "Kamalika Majumder"
 Twitter = ""
-image = "Kamalika-Majumder.png"
+image = "kamalika-majumder.png"
 type = "speaker"
 linktitle = "kamalika-majumder"
 

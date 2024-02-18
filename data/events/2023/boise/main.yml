@@ -1,0 +1,247 @@
+name: "2023-boise" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2023" # The year of the event. Make sure it is in quotes.
+city: "Boise" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaysboise"
+description: "Devopsdays is coming back to Boise in September 2023!"
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+startdate: 2023-09-12T08:00:00-07:00
+enddate: 2023-09-12T19:00:00-07:00
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: "2023-04-01T00:00:00+00:00" # start accepting talk proposals.
+cfp_date_end: "2023-06-30T00:09:00+00:00" # close your call for proposals.
+cfp_date_announce: "2023-04-01T00:00:00+00:00" # inform proposers of status
+
+cfp_link: "https://www.papercall.io/devopsdaysboise23"
+
+registration_date_start: 2023-02-01T00:00:00+00:00
+registration_date_end: 2023-09-13T00:00:00+00:00
+
+registration_closed: "" # set this to true if you need to manually close registration before your registration end date
+registration_link: "https://www.eventbrite.com/e/devopsdays-boise-2023-tickets-528607738977"
+
+coordinates: "43.614828, -116.205104"
+location: "Boise Centre East"
+location_address: "195 South Capitol Boulevard Boise, ID 83706 United States"
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  #- name: propose
+  - name: location
+  - name: registration
+  - name: program
+  - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+
+team_members: # Name is the only required field for team members.
+  - name: "Paul Remeis"
+    employer: "In Time Tec"
+    twitter: "PaulRemeis"
+    linkedin: "https://www.linkedin.com/in/paulremeis/"
+    image: "paul.jpg"
+  - name: "Jessica Adamson"
+    employer: "Gremlin"
+    linkedin: "https://www.linkedin.com/in/jladamson/"
+    twitter: "jl_adamson"
+    image: "jessica.jpg"
+  - name: "Julie Gunderson"
+    employer: "Amazon Web Services"
+    twitter: "Julie_Gund"
+    linkedin: "https://www.linkedin.com/in/juliegunderson/"
+    image: "julie.png"
+  - name: "Kerim Satirli"
+    employer: "HashiCorp"
+    github: "ksatirli"
+    twitter: "ksatirli"
+    linkedin: "https://www.linkedin.com/in/ksatirli/"
+    image: "kerim.jpg"
+
+organizer_email: "boise@devopsdays.org"
+
+program:
+  - title: "Attendee Registration and Badge Pickup"
+    type: custom
+    date: 2023-09-12T08:00:00-07:00
+    start_time: "08:00 AM"
+    end_time: "09:00 AM"
+  - title: "Opening Remarks"
+    type: custom
+    date: 2023-09-12T08:00:00-07:00
+    start_time: "09:00 AM"
+    end_time: "09:30 AM"
+  - title: "emily-freeman"
+    type: talk
+    date: 2023-09-12T08:00:00-07:00
+    start_time: "09:30 AM"
+    end_time: "10:00 AM"
+  - title: "Sponsors"
+    type: custom
+    date: 2023-09-12T08:00:00-07:00
+    start_time: "10:00 AM"
+    end_time: "10:05 AM"
+  - title: "jason-yee"
+    type: talk
+    date: 2023-09-12T08:00:00-07:00
+    start_time: "10:10 AM"
+    end_time: "10:40 AM"
+  - title: "tyler-langlois"
+    type: talk
+    date: 2023-09-12T08:00:00-07:00
+    start_time: "10:10 AM"
+    end_time: "10:40 AM"
+  - title: "dwayne-mcdaniel"
+    type: talk
+    date: 2023-09-12T08:00:00-07:00
+    start_time: "10:10 AM"
+    end_time: "10:40 AM"
+  - title: "Break"
+    type: custom
+    date: 2023-09-12T08:00:00-07:00
+    start_time: "10:40 AM"
+    end_time: "10:50 AM"
+  - title: "brooke-jamieson"
+    type: talk
+    date: 2023-09-12T08:00:00-07:00
+    start_time: "10:50 AM"
+    end_time: "11:20 AM"
+  - title: "peter-chestna"
+    type: talk
+    date: 2023-09-12T08:00:00-07:00
+    start_time: "10:50 AM"
+    end_time: "11:20 AM"
+  - title: "chris-koehnecke-and-matt-rowland"
+    type: talk
+    date: 2023-09-12T08:00:00-07:00
+    start_time: "10:50 AM"
+    end_time: "11:20 AM"
+  - title: "Break"
+    type: custom
+    date: 2023-09-12T08:00:00-07:00
+    start_time: "11:20 AM"
+    end_time: "11:30 AM"
+  - title: "kendra-ash"
+    type: talk
+    date: 2023-09-12T08:00:00-07:00
+    start_time: "11:30 AM"
+    end_time: "12:00 PM"
+  - title: "phil-sautter"
+    type: talk
+    date: 2023-09-12T08:00:00-07:00
+    start_time: "11:30 AM"
+    end_time: "12:00 PM"
+  - title: "josh-lee"
+    type: talk
+    date: 2023-09-12T08:00:00-07:00
+    start_time: "11:30 AM"
+    end_time: "12:00 PM"
+  - title: "Break"
+    type: custom
+    date: 2023-09-12T08:00:00-07:00
+    start_time: "12:00 AM"
+    end_time: "12:05 AM"
+  - title: "clara-freeman"
+    type: talk
+    date: 2023-09-12T08:00:00-07:00
+    start_time: "12:05 PM"
+    end_time: "12:10 PM"
+  - title: "john-willis"
+    type: talk
+    date: 2023-09-12T08:00:00-07:00
+    start_time: "12:15 PM"
+    end_time: "12:45 PM"
+  - title: "shivay-lamba-and-rishit-dagli"
+    type: talk
+    date: 2023-09-12T08:00:00-07:00
+    start_time: "12:15 PM"
+    end_time: "12:45 PM"
+  - title: "Lunch"
+    type: custom
+    date: 2023-09-12T08:00:00-07:00
+    start_time: "12:45 PM"
+    end_time: "01:45 PM"
+  - title: "Welcome Back"
+    type: custom
+    date: 2023-09-12T08:00:00-07:00
+    start_time: "01:45 PM"
+    end_time: "01:50 PM"
+  - title: "Open Spaces: Introduction and Voting"
+    type: open-space
+    date: 2023-09-12T08:00:00-07:00
+    start_time: "01:50 PM"
+    end_time: "02:00 PM"
+  - title: "Open Spaces: Round #1"
+    type: open-space
+    date: 2023-09-12T08:00:00-07:00
+    start_time: "02:00 PM"
+    end_time: "02:25 PM"
+  - title: "Open Spaces: Round #2"
+    type: open-space
+    date: 2023-09-12T08:00:00-07:00
+    start_time: "02:30 PM"
+    end_time: "02:55 PM"
+  - title: "Open Spaces: Round #3"
+    type: open-space
+    date: 2023-09-12T08:00:00-07:00
+    start_time: "03:00 PM"
+    end_time: "03:25 PM"
+  - title: "Open Spaces: Round #4"
+    type: open-space
+    date: 2023-09-12T08:00:00-07:00
+    start_time: "03:30 PM"
+    end_time: "03:55 PM"
+  - title: "Break"
+    type: custom
+    date: 2023-09-12T08:00:00-07:00
+    start_time: "03:55 PM"
+    end_time: "04:10 PM"
+  - title: "Sponsors"
+    type: custom
+    date: 2023-09-12T08:00:00-07:00
+    start_time: "04:10 PM"
+    end_time: "04:15 PM"
+  - title: "tiauna-tia-dodd"
+    type: talk
+    date: 2023-09-12T08:00:00-07:00
+    start_time: "04:15 PM"
+    end_time: "04:45 PM"
+  - title: "Closing Remarks"
+    type: custom
+    date: 2023-09-12T08:00:00-07:00
+    start_time: "04:45 PM"
+    end_time: "05:00 PM"
+
+sponsors:
+  - id: 2023-intimetec
+    level: platinum
+  - id: devopsdays-austin
+    level: bronze
+  - id: devopsdays-denver
+    level: bronze
+  - id: devopsdays-hartford
+    level: bronze
+  - id: devopsdays-nyc
+    level: bronze
+  - id: devopsdays-seattle
+    level: bronze
+  - id: fastly
+    level: gold
+  - id: idahotechcouncil
+    level: gold
+  - id: simplot
+    level: bronze
+
+sponsors_accepted: "yes"
+
+sponsor_levels:
+  - id: platinum
+    label: Platinum
+  - id: gold
+    label: Gold
+#  - id: silver
+#    label: Silver
+  - id: bronze
+    label: Bronze
+#  - id: community
+#    label: Community

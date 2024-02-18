@@ -1,0 +1,128 @@
+name: "2016-telaviv" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2016" # The year of the event. Make sure it is in quotes.
+city: "Tel Aviv" # The city name of the event. Capitalize it.
+friendly: "2016-telaviv" # Four digit year and the city name in lower-case. Don't forget the dash!
+status: "past" # Options are "past" or "current". Use "current" for upcoming.
+
+# All dates are in unquoted 2016-MM-DD, like this:   variable: 2016-01-05
+startdate: "2016-12-12" # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: "2016-12-13" # The end date of your event. Leave blank if you don't have a venue reserved yet.
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: "2016-06-28" # start accepting talk proposals.
+cfp_date_end: "2016-09-08" # close your call for proposals.
+cfp_date_announce: "2016-10-01"# inform proposers of status
+
+# Location
+#
+coordinates: "32.1052681,34.8072141" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Tel Aviv Convention Center" # Defaults to city, but you can make it the venue name.
+#
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+ 
+  - name: program
+  - name: propose
+    # url: http://goo.gl/forms/UBAWiffHptWZENGK2 # The url setting is optional, and only if you want the navigation to link off-site
+  - name: location
+  - name: registration
+  - name: sponsor
+  - name: contact
+  - name: conduct
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Jeremy Hess"
+  - name: "Gil Zellner"
+  - name: "Nati Cohen"
+  - name: "Alon Becker"
+  - name: "Evgeny Zislis"
+  - name: "Sharone Zitzman"
+  - name: "Omer Molcho"
+  - name: "Uzi Krieger"
+  - name: "Asaf Yigal"
+  - name: "Daniel Berman"
+  - name: "Yoav Abrahami"
+  - name: "Uri Cohen"
+  - name: "Dor Laor"
+  - name: "Jonathann Zenou"
+  - name: "Corey Quinn"
+organizer_email: "organizers-telaviv-2016@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-telaviv-2016@devopsdays.org" # Put your proposal email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  # Platinum
+  - id: facebook-before-20170607
+    level: gold
+  - id: chef-before-20210112
+    level: gold
+  # gold
+  - id: wix
+    level: silver
+  - id: similarweb
+    level: silver
+  - id: bigpanda-before-20171017
+    level: silver
+  - id: outbrain
+    level: silver
+  - id: yotpo
+    level: silver
+  - id: redislabs-before-20180508
+    level: silver
+  - id: logz-before-20170613
+    level: silver
+  - id: soluto
+    level: silver
+  - id: inneractive
+    level: silver
+  - id: ness
+    level: silver
+  - id: cloudify-before-20170704
+    level: silver
+  - id: cloudinary-before-20211111
+    level: silver
+  - id: aws-before-20180313
+    level: silver
+  - id: ibm
+    level: silver
+  - id: smartx
+    level: silver
+  # silver
+  - id: appsflyer-before-20180801
+    level: bronze
+  - id: elastic-before-20221004
+    level: bronze
+  - id: gitlab-before-20220516
+    level: bronze
+  # Happy Hour
+  - id: aolil
+    level: happyhour
+  # Coffee
+  - id: via
+    level: coffee
+  # Lunch and Wifi
+  - id: taboola
+    level: lunch_and_wifi
+  # media
+  - id: oreilly-before-20190725
+    level: media
+  - id: igtcloud
+    level: media
+
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
+sponsor_levels: # In this section, list the level of sponsorships and the label to use.
+  - id: gold
+    label: Platinum
+  - id: silver
+    label: Gold
+  - id: bronze
+    label: Silver
+  - id: happyhour
+    label: Happy Hour
+  - id: coffee
+    label: Coffee
+  - id: lunch_and_wifi
+    label: Lunch and Wifi
+  - id: media
+    label: Media

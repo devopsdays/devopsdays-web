@@ -1,7 +1,7 @@
 +++
 Title = "Stephanie Hippo"
 Twitter = "stephhippo"
-image = "Stephanie_Hippo.png"
+image = "stephanie_hippo.png"
 type = "speaker"
 linktitle = "stephanie-hippo"
 +++

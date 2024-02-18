@@ -17,24 +17,26 @@
   },
   "homepage": "https://github.com/devopsdays/devopsdays-web#readme",
   "devDependencies": {
-    "gulp": "~4.0.0",
-    "gulp-clean-css": "^4.2.0",
+    "gulp": "^4.0.2",
     "gulp-concat": "^2.6.1",
     "gulp-htmlmin": "^5.0.1",
     "gulp-hub": "~4.2.0",
-    "gulp-rename": "^1.4.0",
-    "gulp-sass": "^4.0.2",
-    "gulp-sourcemaps": "^2.6.5",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^5.1.0",
+    "gulp-sourcemaps": "^3.0.0",
     "gulp-uglify": "^3.0.2",
-    "node-sass": "^4.12.0",
-    "require-dir": "~1.2.0"
+    "require-dir": "~1.2.0",
+    "sass": "^1.52.3"
   },
   "dependencies": {
-    "netlify-cli": "^2.15.0",
     "bootstrap": "^4.3.1",
-    "font-awesome": "^4.7.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.6.0",
     "jssocials": "^1.5.0",
+    "netlify-cli": "^16.4.2",
     "popper.js": "^1.15.0"
+  },
+  "engines": {
+    "npm": ">=8.0.0",
+    "node": ">=16.0.0"
   }
 }

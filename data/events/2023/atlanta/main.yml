@@ -1,0 +1,355 @@
+name: "2023-atlanta" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2023" # The year of the event. Make sure it is in quotes.
+city: "Atlanta" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaysATL" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays is coming to Atlanta!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2023-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2023-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2023-09-18T00:00:00+02:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2023-09-19T23:59:59+02:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2023-03-14T00:00:00+02:00 # start accepting talk proposals.
+cfp_date_end: 2023-07-10T16:54:00+00:00 # close your call for proposals.
+cfp_date_announce:  # inform proposers of status
+
+cfp_link: "https://www.papercall.io/devopsdaysatl2023" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: 2023-03-14T00:00:00+02:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2023-09-18T00:00:00+02:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://devopsdaysatl2023.eventbrite.com/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "The Historic Academy of Medicine" # Defaults to city, but you can make it the venue name.
+#
+location_address: "875 W Peachtree St NW, Atlanta, GA 30309" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+ # - name: propose
+ # - name: location
+  - name: registration
+  - name: program
+  - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Chris Corriere"
+    image: "chris-corriere.jpg"
+    twitter: "ecology_chris"
+
+  - name: "John Dyer"
+    image: "john-dyer.jpg"
+    twitter: "thedyers"
+
+  - name: "Andre Thenot"
+    image: "andre-thenot.jpg"
+    twitter: "athenot"
+
+  - name: "Claire Moss"
+    image: "claire-moss.jpg"
+    twitter: "aclairefication"
+
+  - name: "Brandy Griffin"
+    image: "brandy-griffin.jpg"
+
+  - name: "Ajuna Kyaruzi"
+    image: "ajuna-kyaruzi.jpg"
+
+  - name: "Savannah Champion"
+    image: "savannah-champion.jpg"
+
+organizer_email: "atlanta@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+ # - id: samplesponsorname
+ #   level: gold
+ #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: cloudbees
+    level: gold
+  - id: observeinc
+    level: gold
+  - id: pagerduty
+    level: gold
+  - id: vmware-tanzu
+    level: gold
+  - id: xmatters
+    level: gold
+  - id: devnexus
+    level: bronze
+  - id: dockeratl
+    level: bronze
+  - id: techstronggroup
+    level: bronze
+  - id: inspire11
+    level: bronze
+  - id: arresteddevops
+    level: community
+
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: platinum
+    label: Platinum
+    max: 1
+  - id: gold
+    label: Gold
+    max: 10
+  - id: silver
+    label: Silver
+    max: 0 # This is the same as omitting the max limit.
+  - id: bronze
+    label: Bronze
+  - id: community
+    label: Community
+
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2023-09-18
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2023-09-18
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "eb-ikonne"
+    type: talk
+    date: 2023-09-18
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2023-09-18
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "justin-reock"
+    type: talk
+    date: 2023-09-18
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2023-09-18
+    start_time: "10:25"
+    end_time: "10:40"
+  - title: "rain-leander"
+    type: talk
+    date: 2023-09-18
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2023-09-18
+    start_time: "11:10"
+    end_time: "11:20"
+  - title: "brandy-griffin"
+    type: talk
+    date: 2023-09-18
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Sponsors"
+    type: custom
+    date: 2023-09-18
+    start_time: "11:50"
+    end_time: "12:00"
+  - title: "Lunch"
+    type: custom
+    date: 2023-09-18
+    start_time: "12:00"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2023-09-18
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Sponsors"
+    type: custom
+    date: 2023-09-18
+    start_time: "13:30"
+    end_time: "13:40"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2023-09-18
+    start_time: "13:40"
+    end_time: "14:15"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2023-09-18
+    start_time: "14:15"
+    end_time: "15:00"
+  - title: "MVP AI Hackathon"
+    type: open-space
+    date: 2023-09-18
+    start_time: "14:15"
+    end_time: "15:00"
+  - title: "Break"
+    type: custom
+    date: 2023-09-18
+    start_time: "15:00"
+    end_time: "15:15"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2023-09-18
+    start_time: "15:15"
+    end_time: "16:00"
+  - title: "MVP AI Hackathon"
+    type: open-space
+    date: 2023-09-18
+    start_time: "15:15"
+    end_time: "16:00"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2023-09-18
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "MVP AI Hackathon"
+    type: open-space
+    date: 2023-09-18
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Close Day"
+    type: custom
+    date: 2023-09-18
+    start_time: "16:45"
+    end_time: "17:00"
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2023-09-19
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2023-09-19
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "valarie-regas"
+    type: talk
+    date: 2023-09-19
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2023-09-19
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "nicholas-eberts"
+    type: talk
+    date: 2023-09-19
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2023-09-19
+    start_time: "10:25"
+    end_time: "10:40"
+  - title: "julie-gunderson"
+    type: talk
+    date: 2023-09-19
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2023-09-19
+    start_time: "11:10"
+    end_time: "11:20"
+  - title: "mike-clement"
+    type: talk
+    date: 2023-09-19
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Sponsors"
+    type: custom
+    date: 2023-09-19
+    start_time: "11:50"
+    end_time: "12:00"
+  - title: "Lunch"
+    type: custom
+    date: 2023-09-19
+    start_time: "12:00"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2023-09-19
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Sponsor Giveaways"
+    type: custom
+    date: 2023-09-19
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2023-09-19
+    start_time: "14:00"
+    end_time: "14:15"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2023-09-19
+    start_time: "14:15"
+    end_time: "15:00"
+  - title: "MVP AI Hackathon"
+    type: open-space
+    date: 2023-09-19
+    start_time: "14:15"
+    end_time: "15:00"
+  - title: "Break"
+    type: custom
+    date: 2023-09-19
+    start_time: "15:00"
+    end_time: "15:15"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2023-09-19
+    start_time: "15:15"
+    end_time: "16:00"
+  - title: "MVP AI Hackathon"
+    type: open-space
+    date: 2023-09-19
+    start_time: "15:15"
+    end_time: "16:00"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2023-09-19
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "MVP AI Hackathon"
+    type: open-space
+    date: 2023-09-19
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Closing"
+    type: custom
+    date: 2023-09-19
+    start_time: "16:45"
+    end_time: "17:00"
+ignites:
+  - title: "chris-stone"
+    date: 2023-09-18
+  - title: "ajuna-kyaruzi"
+    date: 2023-09-18
+  - title: "chris-corriere"
+    date: 2023-09-18

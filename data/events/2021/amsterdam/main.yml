@@ -1,0 +1,454 @@
+name: "2021-amsterdam" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2021" # The year of the event. Make sure it is in quotes.
+city: "Amsterdam" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsams" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays is coming to Amsterdam!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+masthead_background: "skyline-ams.jpg"
+
+# All dates are in unquoted 2021-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2021-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2021-06-29T10:00:00+02:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2021-06-29T15:15:00+02:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2021-03-25T09:00:00+02:00 # start accepting talk proposals.
+cfp_date_end: 2021-05-31T09:00:00+02:00 # close your call for proposals.
+cfp_date_announce: # inform proposers of status
+
+cfp_link: "https://sessionize.com/devopsdays-amsterdam-2021/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: 2021-03-25T09:00:00+02:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2021-06-29T10:00:00+02:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://live.remo.co/e/devopsdays-online-2021/register" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Amsterdam" # Defaults to city, but you can make it the venue name.
+#
+location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  # - name: propose
+  #   url: https://sessionize.com/devopsdays-amsterdam-2021/
+  # - name: location
+  - name: registration
+    url: https://github.com/devopsdays/devopsdays-web/pull/10383
+  - name: program
+  # - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+  # - name: "escape room"
+  #   url: https://docs.google.com/forms/d/e/1FAIpQLScCWuUL8hGx9YPmlTIZTCDjj8W3IVg-iQTgkxvD5ykNeEe0Rg/viewform?usp=sf_link
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Thomas Krag"
+    linkedin: "https://www.linkedin.com/in/vikingops/"
+    twitter: "vikingopsio"
+    image: thomas.png
+
+  - name: "Harm Boertien"
+    linkedin: "https://www.linkedin.com/in/harmboertien/"
+    twitter: "Harm_Ops"
+
+  - name: "Daniel Paulus"
+    linkedin: "https://www.linkedin.com/in/danielpaulus/"
+    twitter: "dpnl87"
+    website: "https://danielpaulus.com"
+    image: "daniel.jpg"
+
+  - name: "Sheela Nistala"
+    linkedin: "https://www.linkedin.com/in/sheelanistala/"
+    twitter: "sheelanistala"
+    image: "sheela.png"
+
+  - name: "Floor Drees"
+    linkedin: "https://www.linkedin.com/in/floordrees/"
+    twitter: "FloorDrees"
+    image: "floor.jpg"
+
+  - name: "Walter Heck"
+    linkedin: "https://www.linkedin.com/in/walterheck/"
+    twitter: "walterheck"
+    image: "walter.jpg"
+
+  - name: "Joep Piscaer"
+    linkedin: "https://www.linkedin.com/in/jpiscaer"
+    twitter: "jpiscaer"
+    image: "joep.png"
+
+  - name: "Jos van Schouten"
+    linkedin: "https://www.linkedin.com/in/josvanschouten/"
+    twitter: "josvanschouten"
+    image: "jos.png"
+
+  - name: "Sarah Gruneisen"
+    linkedin: "https://www.linkedin.com/in/sgruneisen/"
+    twitter: "avagasso"
+    image: "sarah.jpg"
+
+  - name: "Peter Nijenhuis"
+    linkedin: "https://www.linkedin.com/in/peter-nijenhuis-%E2%9C%93-lion-0b83751/"
+    twitter: "Peter_Nijenhuis"
+    image: "peter.jpg"
+
+organizer_email: "amsterdam@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  # Gold
+  - id: schubergphilis-before-20220319
+    level: gold
+  - id: helecloud
+    level: gold
+  - id: microsoft
+    level: gold
+  - id: vmware-tanzu
+    level: gold
+  # Silver
+  - id: fullstaq
+    level: silver
+  - id: kumina
+    level: silver
+  - id: tomtom
+    level: silver
+  - id: bol
+    level: silver
+  - id: redkubes
+    level: silver
+  - id: albert-heijn
+    level: silver
+  - id: contrast_security-before-20221014
+    level: silver
+  - id: splunk-before-20220426
+    level: silver
+  # Bronze
+  - id: technative
+    level: bronze
+  - id: working-spirit
+    level: bronze
+  - id: s0l1dheroes
+    level: bronze
+  - id: stream
+    level: bronze
+  - id: paloaltonetworks-before-20230321
+    level: bronze
+  - id: cloudpirates
+    level: bronze
+
+sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: gold
+    label: Gold
+    max: 3
+  - id: silver
+    label: Silver
+    max: 5
+  - id: bronze
+    label: Bronze
+    max: 4
+
+program:
+  - title: "Emcee opening"
+    type: custom
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "10:00"
+    end_time: "10:10"
+    background_color: "#E3F5FF"
+
+  - title: "kenny-baas"
+    type: talk
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "10:10"
+    end_time: "10:35"
+    background_color: "#FFEBE3"
+
+  - title: "Sponsor Pitches"
+    type: custom
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "10:35"
+    end_time: "10:40"
+    background_color: "#E2E3FF"
+
+  - title: "rain-leander"
+    type: talk
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "10:40"
+    end_time: "11:05"
+    background_color: "#FFE3FF"
+
+  - title: "walter-van-der-harst"
+    type: talk
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "10:40"
+    end_time: "11:05"
+    background_color: "#FFE3FF"
+    comments: "Track 2"
+
+  - title: "julie-gunderson"
+    type: talk
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "10:40"
+    end_time: "11:05"
+    background_color: "#FFE3FF"
+    comments: "Track 3"
+
+  - title: "Open spaces introduction and explanation"
+    type: custom
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "11:05"
+    end_time: "11:15"
+    background_color: "#F3F3F3"
+
+  - title: "Open Spaces round 1"
+    type: open-space
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "11:15"
+    end_time: "11:40"
+    backgroud_color: "#DCF3D9"
+
+  - title: "Open Spaces round 2"
+    type: open-space
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "11:40"
+    end_time: "12:05"
+    backgroud_color: "#DCF3D9"
+
+  - title: "stacy-cashmore"
+    type: talk
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "11:40"
+    end_time: "12:05"
+    comments: "Track 2"
+    background_color: "#FFE3FF"
+
+  - title: "lian-li"
+    type: talk
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "11:40"
+    end_time: "12:05"
+    comments: "Track 3"
+    background_color: "#FFE3FF"
+
+  - title: "quintessence-anx"
+    type: talk
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "12:05"
+    end_time: "12:30"
+    background_color: "#FFE3FF"
+
+  - title: "jj-asghar"
+    type: talk
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "12:05"
+    end_time: "12:30"
+    comments: "Track 2"
+    background_color: "#FFE3FF"
+
+  - title: "john-willis"
+    type: talk
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "12:05"
+    end_time: "12:30"
+    comments: "Track 3"
+    background_color: "#FFE3FF"
+
+  - title: "Lunch Kahoot! with audience interaction, hosted by emcees"
+    type: custom
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "12:30"
+    end_time: "13:00"
+    background_color: "#F3F3F3"
+
+  - title: "Games to boost energy and remote facilitation with Nancy Beers"
+    type: custom
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "12:30"
+    end_time: "13:00"
+    comments: "Track 2"
+    background_color: "#F3F3F3"
+
+  - title: "Sponsor Pitches"
+    type: custom
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "13:00"
+    end_time: "13:05"
+    background_color: "#E2E3FF"
+
+  - title: "Open Spaces round 3"
+    type: open-space
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "13:05"
+    end_time: "13:30"
+    backgroud_color: "#DCF3D9"
+
+  - title: "Open Spaces round 4"
+    type: open-space
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "13:30"
+    end_time: "13:55"
+    backgroud_color: "#DCF3D9"
+
+  - title: "michiel-rook"
+    type: talk
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "13:30"
+    end_time: "13:55"
+    comments: "Track 2"
+    background_color: "#FFE3FF"
+
+  - title: "Fail Café"
+    type: custom
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "13:30"
+    end_time: "13:55"
+    background_color: "#F3F3F3"
+    comments: "Track 3"
+
+  - title: "dotan-horovits"
+    type: workshop
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "13:55"
+    end_time: "14:05"
+
+  - title: "jason-yee"
+    type: workshop
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "13:55"
+    end_time: "14:05"
+    comments: "Track 2"
+
+  - title: "piet-van-dongen"
+    type: workshop
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "14:05"
+    end_time: "14:15"
+
+  - title: "mark-smalley"
+    type: workshop
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "14:05"
+    end_time: "14:15"
+    comments: "Track 2"
+
+  - title: "anders-eknert"
+    type: talk
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "13:55"
+    end_time: "14:15"
+    comments: "Track 3"
+    background_color: "#FFE3FF"
+
+  - title: "noaa-barki"
+    type: talk
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "14:15"
+    end_time: "14:40"
+    background_color: "#FFE3FF"
+
+  - title: "dan-lines"
+    type: talk
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "14:15"
+    end_time: "14:40"
+    comments: "Track 2"
+    background_color: "#FFE3FF"
+
+  - title: "yishai-beeri"
+    type: talk
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "14:15"
+    end_time: "14:40"
+    comments: "Track 3"
+    background_color: "#FFE3FF"
+
+  - title: "Sponsor Pitches"
+    type: custom
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "14:40"
+    end_time: "14:45"
+    background_color: "#E2E3FF"
+
+  - title: "Open Spaces round 5"
+    type: open-space
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "14:45"
+    end_time: "15:10"
+    backgroud_color: "#DCF3D9"
+
+  - title: "Open Spaces round 6"
+    type: open-space
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "15:10"
+    end_time: "15:35"
+    backgroud_color: "#DCF3D9"
+
+  - title: "Fail Café"
+    type: custom
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "15:10"
+    end_time: "15:35"
+    background_color: "#F3F3F3"
+    comments: "Track 3"
+
+  - title: "sabine-wojcieszak"
+    type: talk
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "15:10"
+    end_time: "15:35"
+    comments: "Track 2"
+    background_color: "#FFE3FF"
+
+  - title: "bram-vogelaar"
+    type: talk
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "15:35"
+    end_time: "16:00"
+    background_color: "#FFEBE3"
+
+  - title: "Interactive Virtual Bingo with audience, hosted by emcees, virtual beers"
+    type: custom
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "16:00"
+    end_time: "17:00"
+    background_color: "#F3F3F3"
+
+  - title: "Escape Room"
+    type: custom
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "16:00"
+    end_time: "17:00"
+    comments: "Track 2"
+    background_color: "#F3F3F3"
+
+  - title: "Fail Café"
+    type: custom
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "16:00"
+    end_time: "17:00"
+    background_color: "#F3F3F3"
+    comments: "Track 3"
+
+  - title: "Closing"
+    type: custom
+    date: 2021-06-29T00:00:00+02:00
+    start_time: "17:00"
+    end_time: "17:05"
+    background_color: "#E3F5FF"

@@ -1,7 +1,7 @@
 +++
 Title = "Aras Bilgen"
 Twitter = "arasb"
-image = "arasBilgen.png"
+image = "arasbilgen.png"
 type = "speaker"
 linktitle = "aras-bilgen"
 

@@ -2,7 +2,7 @@
 title = "Izael Effemberg" 
 Twitter = "IzaelEffemberg" 
 linkedin = "" 
-image = "Izael.jpg" 
+image = "izael.jpg" 
 type = "speaker" 
 linktitle = "izael-ffemberg" 
 +++ 

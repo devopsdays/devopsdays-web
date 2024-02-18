@@ -1,7 +1,7 @@
 +++
 Title = "Ryan Lopopolo"
 Twitter = ""
-image = "Ryan_Lopopolo.jpg"
+image = "ryan_lopopolo.jpg"
 type = "speaker"
 linktitle = "ryan-lopopolo"
 +++

@@ -15,52 +15,82 @@ Gold sponsors get a full table and Silver sponsors a shared table where they can
 The best thing to do is send engineers to interact with the experts at devopsdays on their own terms.
 <p>
 
-<!--
-<hr/>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+<style>
+#sponsorship th { text-align: center; }
+#sponsorship td { text-align: center; }
+#sponsorship td:first-child { text-align: left; }
+a.payment:link, a.payment:visited, a.payment:hover, a.payment:active { text-decoration: none !important; }
+</style>
 
-<div style="width:590px">
-<table border=1 cellspacing=1>
+<table class="table table-striped" id="sponsorship">
   <tr>
     <th><i>packages</i></th>
-    <th><center><b><u>Bronze<br />1000 usd</u></center></b></th>
-    <th><center><b><u>Silver<br />3000 usd</u></center></b></th>
-    <th><center><b><u>Gold<br />5000 usd</u></center></b></th>
-    <th></th>
+    <th><b><u>Bronze</u></b></th>
+    <th><b><u>Silver</u></b></th>
+    <th><b><u>Gold</u></b></th>
+    <th><b><u>Platinum</u></b></th>
   </tr>
-<tr><td>2 included tickets</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on event website</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on shared slide, rotating during breaks</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on all email communication</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on its own slide, rotating during breaks</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>1 minute pitch to full audience (including streaming audience)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr></tr>
-<tr><td>2 additional tickets (4 in total)</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td>4 additional tickets (6 in total)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>shared table for swag</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td>booth/table space</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-</table>
-<hr/>
-There are also opportunities for exclusive special sponsorships. We'll have sponsors for various events with special privileges for the sponsors of these events. If you are interested in special sponsorships or have a creative idea about how you can support the event, send us an email.
-<br/>
-<br/>
-
-<br>
-<br>
-<table border=1 cellspacing=1>
   <tr>
-    <th><i>Sponsor FAQ</i></th>
-    <th><center><b>Answers to questions frequently asked by sponsors&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</center></b></th>
-    <th></th>
+    <td>Price (USD)</td>
+    <td>$2,000</td>
+    <td>$4,000</td>
+    <td>$6,000</td>
+    <td>$8,000</td>
   </tr>
-<tr><td>What dates/times can we set up and tear down?</td><td></td></tr>
-<tr><td>How do we ship to the venue?</td><td></td></tr>
-<tr><td>How do we ship from the venue?</td><td></td></tr>
-<tr><td>Whom should we send?</td><td></td></tr>
-<tr><td>What should we expect regarding electricity? (how much, any fees, etc)</td><td></td></tr>
-<tr><td>What should we expect regarding WiFi? (how much, any fees, etc)</td><td></td></tr>
-<tr><td>How do we order additional A/V equipment?</td><td></td></tr>
-<tr><td>Additional important details</td><td></td></tr>
+  <tr>
+    <td>included tickets</td>
+    <td>3</td>
+    <td>3</td>
+    <td>8</td>
+    <td>16</td>
+  </tr>
+  <tr>
+    <td>reserved table seating</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>1</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>logo on event website</td>
+    <td><i class="fa fa-lg fa-check" aria-hidden="true"></i></td>
+    <td><i class="fa fa-lg fa-check" aria-hidden="true"></i></td>
+    <td><i class="fa fa-lg fa-check" aria-hidden="true"></i></td>
+    <td><i class="fa fa-lg fa-check" aria-hidden="true"></i></td>
+  </tr>
+  <tr>
+    <td>logo on emails</td>
+    <td>&nbsp;</td>
+    <td><i class="fa fa-lg fa-check" aria-hidden="true"></i></td>
+    <td><i class="fa fa-lg fa-check" aria-hidden="true"></i></td>
+    <td><i class="fa fa-lg fa-check" aria-hidden="true"></i></td>
+  </tr>
+  <tr>
+    <td>display space</td>
+    <td>&nbsp;</td>
+    <td>8ft table</td>
+    <td>8ft table</td>
+    <td>8ft table</td>
+  </tr>
+  <tr>
+    <td>5 minute pitch</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td><i class="fa fa-lg fa-check" aria-hidden="true"></i></td>
+  </tr>
+  <!-- tr>
+    <td colspan=5><center>Please see the <a href="/events/2018-boise/prospectus.pdf">prospectus</a> for full sponsorship details</center></td>
+  </tr -->
+  <tr>
+    <td>pay online</td>
+    <td><a class="payment" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6R6VW7CB22EVN"><i class="fa fa-lg fa-paypal"></i> <i class="fa fa-lg fa-credit-card"></i></a></td>
+    <td><a class="payment" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HPF2CQF5839TU"><i class="fa fa-lg fa-paypal"></i> <i class="fa fa-lg fa-credit-card"></i></a></td>
+    <td><a class="payment" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HNMFE4QGD3RCN"><i class="fa fa-lg fa-paypal"></i> <i class="fa fa-lg fa-credit-card"></i></a></td>
+    <td><a class="payment" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EMQKJYTCHFHNN"><i class="fa fa-lg fa-paypal"></i> <i class="fa fa-lg fa-credit-card"></i></a></td>
+  </tr -->
 </table>
-</div>
 
--->
 <hr/>
+There are also opportunities for exclusive special sponsorships. We'll have sponsors for various events with special privileges for the sponsors of these events. If you are interested in special sponsorships or have a creative idea about how you can support the event, send us an email at {{< email_organizers >}}!

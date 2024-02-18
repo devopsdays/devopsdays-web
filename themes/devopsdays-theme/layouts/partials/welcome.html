@@ -1,4 +1,4 @@
-{{- $e := (index $.Site.Data.events (index (split (.Permalink | relURL) "/") 2)) -}}
+{{- $e := partial "functions/get-event-data" . -}}
 {{- $.Scratch.Set "contentdir" (printf "static/events/%s/" $e.name) -}}
 
     {{- if $e.masthead_background -}}
@@ -46,20 +46,27 @@
     {{- end -}}
   {{- end -}}
 {{- end -}}
-<div class="row">
+<div class="row h-event">
   <div class = "col-md-12 welcome-page-masthead">
   <div class = "row">
     <div class="col-xs-12 col-md-8">
-      <h1 class = "welcome-page">devopsdays {{$e.city}}</h1>
+      <h1 class = "welcome-page p-name">devopsdays {{$e.city}}</h1>
+      <a class="u-url" href="{{ .Permalink }}"></a>
 
     {{- if $e.startdate -}}
       {{- if or (ne (time $e.startdate).Month (time $e.enddate).Month) (ne (time $e.startdate).Day (time $e.enddate).Day) -}}
+        
+        
             <span class="welcome-page-date">
-            {{ dateFormat "January 2" $e.startdate }} - {{ dateFormat "2, 2006" $e.enddate }}<br />
+                {{- if eq (time $e.startdate).Month (time $e.enddate).Month -}}
+                    <time class="dt-start" datetime="{{ dateFormat "2006-01-02T15:04:05-0700" $e.startdate }}">{{ dateFormat "January 2" $e.startdate }}</time> - <time class="dt-end" datetime="{{ dateFormat "2006-01-02T15:04:05-0700" $e.enddate }}">{{ dateFormat "2, 2006" $e.enddate }}</time><br />
+                {{- else -}}
+                    <time class="dt-start" datetime="{{ dateFormat "2006-01-02T15:04:05-0700" $e.startdate }}">{{ dateFormat "Jan 2" $e.startdate }}</time> - <time class="dt-end" datetime="{{ dateFormat "2006-01-02T15:04:05-0700" $e.enddate }}">{{ dateFormat "Jan 2" $e.enddate }}</time><br />
+                {{- end -}}
             </span>
       {{- else -}}
             <span class="welcome-page-date">
-          {{ dateFormat "January 2, 2006" $e.startdate }}<br />
+          <time class="dt-start" datetime="{{ dateFormat "2006-01-02T15:04:05-0700" $e.startdate }}">{{ dateFormat "January 2, 2006" $e.startdate }}</time><br />
             </span>
       {{- end -}}
     {{- end -}}
@@ -67,50 +74,50 @@
         <br />
 
         {{- if $e.location -}}
-          <span class = "welcome-page-masthead-venue">{{- $e.location -}}</span>
+          <span class = "welcome-page-masthead-venue{{ if not $e.location_address }} p-location{{- end -}}">{{- $e.location -}}</span>
           <br />
           {{- if $e.location_address -}}
-            <span><a href = "http://maps.google.com/?q={{$e.location_address}}" class = "welcome-page-masthead-link">{{ $e.location_address }}</a></span>
+            <span><a href = "http://maps.google.com/?q={{$e.location_address}}" class = "welcome-page-masthead-link p-location">{{ $e.location_address }}</a></span>
                         <br />
           {{- end -}}
         {{- end -}}
 
         {{- if $e.description -}}
-          {{ $e.description | markdownify }}
+          <span class="e-summary">{{ $e.description | markdownify }}</span>
            <br /><br />
         {{- end -}}
 
         {{- if $e.city -}}
           {{- $.Scratch.Set "past-counter" 0 -}}
-          {{- range sort $.Site.Data.events "startdate" -}}
-          {{- if .startdate -}}
+          
+          {{/* Determine if city name our event group name will be used for matching to build the "other X events" list*/}}
+          {{ $otherTitle := $e.city}}
+          {{- if $e.event_group -}}
+            {{ $otherTitle = $e.event_group}}
+          {{- end -}}
+          
+          {{/* Filter events on city or event_group name to build "other X events" list*/}}
+          {{ $other := slice }}
+          {{ $events := slice }}
+          {{- $events = partial "functions/get-all-events" . -}}
+          {{- range sort $events "startdate" -}}
+            {{- if and (.startdate) (ne .startdate $e.startdate) -}}
+              {{- if or (eq (lower .city) (lower $otherTitle)) (eq (lower .event_group) (lower $otherTitle)) -}}
+                {{ $other = append . $other  }}
+              {{- end -}}
+            {{- end -}}              
+          {{- end -}}
 
-            {{- if $e.event_group -}}
-              {{- if eq .event_group $e.event_group -}}
-                  {{- if and (ne .startdate $e.startdate) (ne ($.Scratch.Get "past-counter") 1 ) -}}
-                    <i>Other {{ $e.event_group }} Events</i><br />
-                    {{- $.Scratch.Set "past-counter" 1 -}}
-                  {{- end -}}
-                  {{- if ne .startdate $e.startdate -}}
-                    <a href = "{{ (printf "/events/%s" .name) }}" class="welcome-page-masthead-link">{{ dateFormat "2006" .startdate }}</a> &nbsp;&nbsp;
-                  {{- end -}}
-              {{- end -}}
-            {{- else -}}
-
-              {{- if eq (lower .city) (lower $e.city) -}}
-                {{- if and (ne .startdate $e.startdate) (ne ($.Scratch.Get "past-counter") 1 ) -}}
-                  <i>Other {{ $e.city }} Events</i><br />
-                  {{- $.Scratch.Set "past-counter" 1 -}}
-                {{- end -}}
-                {{- if ne .startdate $e.startdate -}}
-                  <a href = "{{ (printf "/events/%s" .name) }}" class="welcome-page-masthead-link">{{ dateFormat "2006" .startdate }}</a> &nbsp;&nbsp;
-                {{- end -}}
-              {{- end -}}
-              {{- end -}}
+          {{- if ne (len $other) 0 -}}
+            <i>Other {{ $otherTitle }} Events</i><br />
+            {{- range sort $other "startdate" -}}
+              <a href = '{{ (printf "/events/%s" .name) }}' class="welcome-page-masthead-link">{{ dateFormat "2006" .startdate }}</a> &nbsp;&nbsp;
             {{- end -}}
           {{- end -}}
-          <br /><br />
-        {{- end -}}
+
+        {{- end -}}        
+        <br /><br />
+      
 </div>
 
  <div class="col-xs-12 col-md-4">

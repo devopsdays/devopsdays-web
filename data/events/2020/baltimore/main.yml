@@ -1,0 +1,156 @@
+name: "2020-baltimore" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2020" # The year of the event. Make sure it is in quotes.
+city: "Baltimore" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaysbmore" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays is coming back to Baltimore!" # Edit this to suit your preferences
+ga_tracking_id: "UA-158845020-1" # Google Analytics for DevOpsDays Baltimore
+
+masthead_background: "bmore_skyline_inner_harbor.jpg"
+# All dates are in unquoted 2020-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2020-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+cancel: "true"
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2019-12-01T09:00:00-04:00  # start accepting talk proposals.
+cfp_date_end: 2020-02-02T07:33:00-04:00  # close your call for proposals.
+cfp_date_announce: 2019-12-01T09:00:00-04:00  # inform proposers of status
+
+cfp_link: "https://devopsdaysbaltimore2020.busyconf.com/proposals/new" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+
+registration_date_start:  # start accepting registration. Leave blank if registration is not open yet
+registration_date_end:    # close registration. Leave blank if registration is not open yet.
+#registration_date_start: 2019-12-17T00:00:00-04:00 # start accepting registration. Leave blank if registration is not open yet
+#registration_date_end:   2020-04-22T17:00:00-04:00 # close registration. Leave blank if registration is not open yet.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+sharing_image: "sharing.jpg"
+# Custom Links
+slack_link: "http://slack.baltimoretech.org"
+sponsor_faq_link: "https://docs.google.com/document/d/1O7SJsQJ5wRxVFgsN1hkA7M-3gD3IyeFOJdvsHsRx7Lo/edit?usp=sharing"
+#sponsor_registration_link: "https://forms.gle/WxDtvfcauc1ew9999"
+
+# Location
+#
+coordinates: "39.286400, -76.605606"
+location: "Baltimore’s Institute of Marine and Environmental Technology (Columbus Center)"
+location_address: "701 E Pratt St., Baltimore, MD 21202"
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: welcome
+ # - name: propose
+ # - name: location
+ # - name: registration
+ # - name: program
+ # - name: speakers
+ # - name: sponsor
+  - name: contact
+  - name: conduct
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Meghan Butler"
+    role:  "Chairperson"
+    employer: "Fearless Solutions"
+    github: "megbutler"
+    linkedin: "https://www.linkedin.com/in/meghancbutler/"
+    website: "http://fearless.tech"
+    twitter: "_mcbee13"
+    image: "meghan-butler.jpg"
+  - name: "Luke Samuels"
+    role:  "Chairperson"
+    employer: "Fearless"
+    github: "degenerateddevops"
+    linkedin: "https://www.linkedin.com/in/lukesamuels/"
+    twitter: "degeneratedevop"
+    website: "http://fearless.tech"
+    image: "luke-samuels.jpg"
+  - name: "Jon Aumann"
+    employer: "ICX Media"
+    github: "jaumann"
+    linkedin: "https://www.linkedin.com/in/jaumann/"
+    twitter: "jaumann"
+    website: "https://icxmedia.com"
+    image: "jon-aumann.jpg"
+  - name: "Charles Bushong"
+    employer: "Fearless Solutions"
+    twitter: "totalnerd"
+    github: "bushong1"
+    linkedin: "https://www.linkedin.com/in/charles-bushong"
+    image: "charles-bushong.jpg"
+    website: "https://fearless.tech"
+  - name: "Chris Stone"
+  - name: "Robert Treat"
+    employer: "credativ"
+    github: "xzilla"
+    website: "https://www.linkedin.com/company/credativ-llc/"
+    twitter: "robtreat2"
+    linkedin: "https://www.linkedin.com/in/robtreat/"
+    image: "robert-treat.jpg"
+  - name: "Ryan Wetzelberger"
+    employer: "Amobee, Inc"
+    github: "ryanwetzelberger"
+    linkedin: "https://www.linkedin.com/in/ryanwetzelberger/"
+    twitter: "rwetzelberger"
+    website: "https://cloudnetworkjourney.com"
+    image: "ryan-wetzelberger.jpg"
+  - name: "Sameet Nasnodkar"
+    employer: "Northrop Grumman"
+    github: "sameetn"
+    linkedin: "https://www.linkedin.com/in/sameetnasnodkar/"
+    twitter: "sameet"
+
+organizer_email: "baltimore@devopsdays.org"
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  ## Platinum
+  - id: tenable
+    level: platinum
+  - id: appdynamics-before-20220714
+    level: platinum
+  ## Gold
+  ## Silver
+  #- id: plexsolutions ## Awaiting Payment
+  #  level: silver
+  ## Community
+  - id: agilecharm
+    level: community
+  ## Media
+  - id: mastermnd
+    level: media
+ # #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+ #  - id: arresteddevops
+ #    level: community
+
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: happyhour
+    label: Happy Hour
+    max: 2
+  - id: platinum
+    label: Platinum
+    max: 16
+  - id: gold
+    label: Gold
+  - id: silver
+    label: Silver
+  - id: media
+    label: Media
+  - id: community
+    label: Community

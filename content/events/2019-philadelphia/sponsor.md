@@ -17,13 +17,13 @@ The best thing to do is send engineers to interact with the experts at devopsday
 
 <br>
 <center>
-## [Download Our Prospectus Here!](/events/2019-philadelphia/devopsdays_Philadelphia_2019_prospectus.pdf)
+## [Download Our Prospectus Here!](/events/2019-philadelphia/devopsdays_philadelphia_2019_prospectus.pdf)
 </center>
 <br>
 
 <!--
-![Example image](/events/2019-philadelphia/devopsdays_Philadelphia_2019_prospectus_1.jpg)
-![Example image](/events/2019-philadelphia/devopsdays_Philadelphia_2019_prospectus_2.jpg)
+![Example image](/events/2019-philadelphia/devopsdays_philadelphia_2019_prospectus_1.jpg)
+![Example image](/events/2019-philadelphia/devopsdays_philadelphia_2019_prospectus_2.jpg)
 
 <hr/>
 

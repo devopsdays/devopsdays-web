@@ -1,0 +1,447 @@
+name: "2019-auckland" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2019" # The year of the event. Make sure it is in quotes.
+city: "Auckland" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaysnz" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays is returning to Auckland!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+event_group: "New Zealand"
+
+
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2019-10-21T00:00:00+13:00
+enddate:   2019-10-22T23:59:59+13:00
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start:     2019-06-01T00:00:00+12:00
+cfp_date_end:       2019-07-19T23:59:59+12:00
+cfp_date_announce:  2019-08-12T00:00:00+12:00
+
+cfp_open: "true"
+# cfp_link: #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: 2019-06-01T00:00:00+12:00
+registration_date_end:   2019-10-21T00:00:00+13:00
+
+
+#registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+# registration_link: # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# event_logo: "logo.png"
+masthead_background: "auckland-skyline.jpg"
+
+# Location
+#
+coordinates: "-36.851831,174.761512" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Aotea Centre Auckland" # Defaults to city, but you can make it the venue name.
+#
+location_address: "Aotea Centre, 50 Mayoral Dr, Auckland, 1010" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+# - name: propose
+ - name: location
+ - name: registration
+ - name: program
+ - name: speakers
+ - name: sponsor
+ - name: contact
+ - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Reuben Dunn"
+    twitter: "DefSol"
+    image: "reuben-dunn.jpg"
+    bio: "Reuben helps teams and organisations to build new capabilities and is currently working with some amazing people at Hypr (www.hypr.nz). Reuben lives in Auckland's Rural South East with his wife, 4 kids, 9 sheep and 2 dogs. Ngā Puhi/Ngati Pikiao/Tainui."
+    linkedin: "https://www.linkedin.com/in/defsol"
+    github: "DefSol"
+  - name: "Nigel Charman"
+    twitter: "nigel_charman"
+    bio: "Nigel leads Assurity’s DevOps team in Wellington (assurity.nz) and is the lead for the Concordion open-source project (concordion.org). In his spare time, he helps restore native wildlife with the Tanera Gully Restoration Project."
+    linkedin: "https://www.linkedin.com/in/nigelcharman"
+    github: "nigelcharman"
+    image: "nigel-charman.jpg"
+  - name: "Adarsh Jupudi"
+    twitter: "cloudoperator"
+    image: "default-male.jpg"
+    linkedin: "https://www.linkedin.com/in/jcadarsh"
+  - name: "Flavia Machado"
+    twitter: "flaviafmachado"
+    image: "flavia-machado.jpg"
+    bio: "Flavia is a Brazilian that fell in love with NZ, believes that code without test is broken."
+  - name: "BMK"
+    twitter: "lbmkrishna"
+    image: "bmk-lakshminarayanan.jpg"
+    github: "lbmkrishna"
+    linkedin: "https://www.linkedin.com/in/BMKNZ"
+    bio: "Passionate Solutions Architect, experienced DDD, Agile practitioner; love Coffee, CNCF meetup Host"
+  - name: "Judy Marcelo"
+    twitter: "arthriticcoder"
+    image: "judy-marcelo.jpg"
+    bio: "Judy enjoys working with teams do awesome things through sharing and collaboration. An advocate on all things DevOps and Cloud at Countdown. Outside work, she spends her time doing MumOps alongside her wife and their tween boy."
+  - name: "Peter Sellars"
+    twitter: "petersellars"
+    image: "peter-sellars.jpg"
+    github: "petersellars"
+    linkedin: "https://www.linkedin.com/in/petersellars"
+  - name: "Paul Milbank"
+    twitter: "PaulMilbank"
+    image: "paul-milbank.jpg"
+    github: "toyonut"
+    bio: "Paul is an SRE at Pushpay. He is passionate about learning new things in tech and occationally cooking. Dad to two daughters who keep him busy when not working."
+  - name: "Catherine Edwards"
+    twitter: "CathyEdwards86"
+    image: "cathy-edwards.jpg"
+    bio: "Jill of all technologies, mistress of fun. Cathy lives and breathes software development and delivery, and brings her knack for organising and communicating in her MC role for DevOpsDays NZ."
+  - name: "Julian Simpson"
+    twitter: "builddoctor"
+    image: "default-male.jpg"
+  - name: "Nicole Retter"
+    twitter: "FoghornNZ"
+    linkedin: "https://www.linkedin.com/in/nicole-retter"
+    image: "nicole-retter.jpg"
+    bio: "Nicole is a marketing and events specialist delivering cut through campaigns and slick events under the brand Foghorn. Her energy is contagious, and you’ll often hear her before you see her. A passionate zero waster, mum of two and mountain biker."
+  - name: "Stuart Whelan"
+    twitter: "stuartwhelan"
+    linkedin: "https://www.linkedin.com/in/stuart-whelan"
+    image: "stuart-whelan.jpg"
+    bio: "Stuart is a geek dad living his dream of working in a rocket factory at Rocket Lab. Stuart is happiest when he is making someone else's life easier through automation."
+  - name: "Kay Johnson"
+    twitter: "kay_johnsonk"
+    linkedin: "https://www.linkedin.com/in/kayjohnsonagiledevopscloud"
+    image: "default-female.jpg"
+    bio: "Kay is a principal consultant and cloud architect who focuses on helping clients understand the value that Business Agility, Agile and DevOps can bring to their business."
+  - name: "Will Robertson"
+    twitter: "mexisme"
+    linkedin: "https://www.linkedin.com/in/willjr0"
+    github: "mexisme"
+    image: "will-robertson.jpg"
+
+organizer_email:  "organisers-auckland-2019@devopsdays.org" # Put your organizer email address here
+proposal_email:   "proposals-auckland-2019@devopsdays.org" # Put your proposal email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: 2019-nz-sumologic
+    level: platinum
+  - id: googlecloud-before-20220526
+    level: platinum
+  - id: microsoftnz
+    level: platinum
+  - id: buildkite
+    level: platinum
+  - id: section6
+    level: gold
+  - id: rancher
+    level: gold
+  - id: hashicorp-before-20220811
+    level: gold
+  - id: pagerduty
+    level: gold
+  - id: sonatype
+    level: gold
+  - id: assurity
+    level: gold
+  - id: xero
+    level: silver
+  - id: gitlab-before-20220516
+    level: silver
+  - id: countdown
+    level: silver
+  - id: 2019-clearpoint
+    level: gold
+  - id: buildkite
+    level: diversity
+  - id: datacom
+    level: gold
+  - id: iag
+    level: silver
+  - id: workday
+    level: gold
+  - id: redhat
+    level: platinum
+ #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+ # - id: arresteddevops
+ #   level: community platinum gold silver lanyard media community
+
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: platinum
+    label: Platinum
+    max: 0
+  - id: gold
+    label: Gold
+    max: 0
+  - id: silver
+    label: Silver
+    max: 0 # This is the same as omitting the max limit.
+  - id: diversity
+    label: Diversity Ticket
+    max: 1
+  - id: lanyard
+    label: Lanyard
+    max: 1
+  - id: media
+    label: Media
+    max: 1
+  - id: community
+    label: Community
+    max: 1
+
+program:
+  - title: "Registration, Coffee/Tea, and Sponsor Booths Open"
+    type: custom
+    date: 2019-10-21
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2019-10-21
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "brooke-treadgold"
+    type: talk
+    date: 2019-10-21
+    start_time: "09:10"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-10-21
+    start_time: "09:45"
+    end_time: "09:50"
+  - title: "charles-korn"
+    type: talk
+    date: 2019-10-21
+    start_time: "09:50"
+    end_time: "10:25"
+  - title: "Break (catered)"
+    type: custom
+    date: 2019-10-21
+    start_time: "10:25"
+    end_time: "10:50"
+  - title: "kiwi-ingenuity"
+    type: talk
+    date: 2019-10-21
+    start_time: "10:50"
+    end_time: "11:25"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-10-21
+    start_time: "11:25"
+    end_time: "11:30"
+  - title: "craig-box"
+    type: talk
+    date: 2019-10-21
+    start_time: "11:30"
+    end_time: "12:05"
+  - title: "Open Space Intro & Proposals"
+    type: open-space
+    date: 2019-10-21
+    start_time: "12:05"
+    end_time: "12:30"
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2019-10-21
+    start_time: "12:30"
+    end_time: "13:30"
+  - title: "Open space & workshop room assignments"
+    type: open-space
+    date: 2019-10-21
+    start_time: "13:30"
+    end_time: "13:35"
+  - title: "david-white"
+    type: workshop
+    date: 2019-10-21
+    start_time: "13:35"
+    end_time: "14:15"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2019-10-21
+    start_time: "13:35"
+    end_time: "14:15"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2019-10-21
+    start_time: "14:20"
+    end_time: "15:00"
+  - title: "shahid-iqbal"
+    type: workshop
+    date: 2019-10-21
+    start_time: "15:05"
+    end_time: "15:45"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2019-10-21
+    start_time: "15:05"
+    end_time: "15:45"
+  - title: "Break (catered)"
+    type: custom
+    date: 2019-10-21
+    start_time: "15:45"
+    end_time: "16:10"
+  - title: "Ignites"
+    type: ignite
+    date: 2019-10-21
+    start_time: "16:10"
+    end_time: "16:35"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-10-21
+    start_time: "16:35"
+    end_time: "16:40"
+  - title: "julie-gunderson"
+    type: talk
+    date: 2019-10-21
+    start_time: "16:40"
+    end_time: "17:25"
+  - title: "Close Day & Logistics"
+    type: custom
+    date: 2019-10-21
+    start_time: "17:25"
+    end_time: "17:35"
+  - title: "Evening event"
+    type: custom
+    date: 2019-10-21
+    start_time: "17:35"
+    end_time: "21:00"
+    comments: "TBA"
+
+  - title: "Registration, Coffee/Tea, and Sponsor Booths Open"
+    type: custom
+    date: 2019-10-22
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2019-10-22
+    start_time: "09:00"
+    end_time: "09:05"
+  - title: "cath-jones"
+    type: talk
+    date: 2019-10-22
+    start_time: "09:05"
+    end_time: "09:40"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-10-22
+    start_time: "09:40"
+    end_time: "09:45"
+  - title: "katie-mclaughlin"
+    type: talk
+    date: 2019-10-22
+    start_time: "09:45"
+    end_time: "10:20"
+  - title: "Break (catered)"
+    type: custom
+    date: 2019-10-22
+    start_time: "10:20"
+    end_time: "10:45"
+  - title: "diagnose-devops"
+    type: talk
+    date: 2019-10-22
+    start_time: "10:45"
+    end_time: "11:20"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-10-22
+    start_time: "11:20"
+    end_time: "11:25"
+  - title: "cameron-huysmans"
+    type: talk
+    date: 2019-10-22
+    start_time: "11:25"
+    end_time: "12:00"
+  - title: "Open Space Proposals"
+    type: open-space
+    date: 2019-10-22
+    start_time: "12:00"
+    end_time: "12:10"
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2019-10-22
+    start_time: "12:10"
+    end_time: "13:10"
+  - title: "Open space & workshop room assignments"
+    type: open-space
+    date: 2019-10-22
+    start_time: "13:10"
+    end_time: "13:15"
+  - title: "joshua-king-workshop"
+    type: workshop
+    date: 2019-10-22
+    start_time: "13:15"
+    end_time: "13:55"
+  - title: "Open Space #4"
+    type: open-space
+    date: 2019-10-22
+    start_time: "13:15"
+    end_time: "13:55"
+  - title: "Open Space #5"
+    type: open-space
+    date: 2019-10-22
+    start_time: "14:00"
+    end_time: "14:40"
+  - title: "corneile-britz"
+    type: workshop
+    date: 2019-10-22
+    start_time: "14:45"
+    end_time: "15:25"
+  - title: "Open Space #6"
+    type: open-space
+    date: 2019-10-22
+    start_time: "14:45"
+    end_time: "15:25"
+  - title: "Break (catered)"
+    type: custom
+    date: 2019-10-22
+    start_time: "15:25"
+    end_time: "15:50"
+  - title: "Ignites"
+    type: ignite
+    date: 2019-10-22
+    start_time: "15:50"
+    end_time: "16:15"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-10-22
+    start_time: "16:15"
+    end_time: "16:20"
+  - title: "laura-bell"
+    type: talk
+    date: 2019-10-22
+    start_time: "16:20"
+    end_time: "17:05"
+  - title: "Closing Remarks & Giveaways"
+    type: custom
+    date: 2019-10-22
+    start_time: "17:05"
+    end_time: "17:15"
+ignites:
+  - title: "gleidson-nascimento"
+    date: 2019-10-21
+  - title: "joshua-king"
+    date: 2019-10-21
+  - title: "srdan-dukic"
+    date: 2019-10-21
+  - title: "everett-toews"
+    date: 2019-10-22
+  - title: "joel-wiramu-pauling"
+    date: 2019-10-22
+  - title: "steven-ensslen"
+    date: 2019-10-22
+  - title: "mandi-buswell"
+    date: 2019-10-22
+

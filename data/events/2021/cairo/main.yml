@@ -1,0 +1,124 @@
+name: "2021-cairo" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2021" # The year of the event. Make sure it is in quotes.
+city: "Cairo" # The displayed city name of the event. Capitalize it.
+event_twitter: "" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Welcome to DevOpsDays Cairo 2021!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2021-09-29T00:00:00+02:00
+enddate: 2021-09-29T23:59:59+02:00
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2021-05-24T00:00:00+02:00 # start accepting talk proposals.
+cfp_date_end: 2021-07-31T00:00:00+02:00 # close your call for proposals.
+cfp_date_announce: # inform proposers of status
+
+cfp_open: "false"
+cfp_link: "https://www.papercall.io/cairo2021" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: # close registration. Leave blank if registration is not open yet.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+
+
+coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "" # Defaults to city, but you can make it the venue name.
+
+
+location_address: "Online Event! Stay Safe!" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: propose
+#  - name: location
+#  - name: local
+  - name: registration
+    url: https://www.secc.org.eg/Event_Registration.asp
+  - name: agenda
+#    url: https://assets.devopsdays.org/events/2020/cairo/DevopsDays-Cairo-2020-Agenda.pdf
+  - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Ahmed Ameen"
+    employer: "ITIDA - SECC"
+    linkedin: "https://www.linkedin.com/in/aameen79/"
+  - name: "Ghada Soliman"
+    employer: "Orange Labs"
+    linkedin: "https://www.linkedin.com/in/ghada-soliman-2768063/"
+  - name: "Mohamed Fawzy"
+    employer: "DXC Technology"
+    linkedin: "https://www.linkedin.com/in/mobayomie/"
+  - name: "Samar Fadl"
+    employer: "ATOS"
+    linkedin: "https://www.linkedin.com/in/samar-fadl-13767628/"
+  - name: "Reham Saleh"
+    employer: "ITIDA - SECC"
+    linkedin: "https://www.linkedin.com/in/reham-saleh-30405240/"
+  - name: "Sherine FaragAllah"
+    employer: "ITIDA - SECC"
+    linkedin: "https://www.linkedin.com/in/sherine-faragallah-06a998189/"
+
+
+organizer_email: "cairo@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+ - id: foss
+   level: community
+ - id: egyptinnovate
+   level: community
+ - id: tiec
+   level: community
+ - id: gizasystems
+   level: platinum
+ - id: cegedim
+   level: platinum
+ - id: mattermost
+   level: silver
+ - id: espace
+   level: gold
+ - id: ahbs
+   level: gold
+ - id: amecse
+   level: community
+   
+ #- id: egyptinnovate
+ #  level: community
+ #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: platinum
+    label: Platinum
+    max: 3
+  - id: gold
+    label: Gold
+    max: 5
+  - id: silver
+    label: Silver
+    max: 0 # This is the same as omitting the max limit.
+  - id: community
+    label: Community
+    max: 4

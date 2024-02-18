@@ -1,0 +1,112 @@
+name: "2020-columbus" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2020" # The year of the event. Make sure it is in quotes.
+city: "Columbus" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdayscbus" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays is coming to Columbus!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+event_group: "Columbus"
+cancel: "true"
+
+# All dates are in unquoted 2020-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2020-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start:  # start accepting talk proposals.
+cfp_date_end:  # close your call for proposals.
+cfp_date_announce:  # inform proposers of status
+
+cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: # close registration. Leave blank if registration is not open yet.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "40.0103953, -83.0231992" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Fawcett Event Center" # Defaults to city, but you can make it the venue name.
+location_address: "2400 Olentangy River Rd, Columbus, OH 43210" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+ # - name: propose
+ # - name: location
+ # - name: registration
+ # - name: program
+ # - name: speakers
+ # - name: sponsor
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Ben Blanquera"
+  - name: "Bill Schwanitz"
+    bio: "I have over 20 years experience in 'it'. My background is more in the systems admin, devops and platform side of the world.
+    <br/><br/>I have run or been heavily involved in many community related things in the past. My goal as an organizer for the SCODE meetup is to facilitate those interested in the community to create cool stuff, learn, network and put the Smart Columbus to use for public interests.
+    <br/><br/>As of May 2019 I am working at DataRobot as a DevOps Engineer on the Cloud Operations team.
+    <br/><br/>The single most interesting and inspiring reference I could make on how I feel about open source, maker ethos etc is best summed up by Adam Savage in his <a href='https://www.youtube.com/watch?v=8n8ywfqdGyE' target='_blank'>2017 Maker Faire</a> speech followed by his <a href='https://www.youtube.com/watch?v=ER7rhQ7N69k' target='_blank'>10 commandments of making</a> speech. Both I highly recommend ( duh, I put them in my bio! )."
+    linkedin: "https://www.linkedin.com/in/bilsch/"
+    github: "https://github.com/bilsch"
+    twitter: "https://twitter.com/bilschtw"
+  - name: "Carmen Deardo"
+  - name: "David Laulusa"
+    bio: "David has worked at Bell Labs, SAP and whole slew of companies in between. Three years ago when he started working at SAP, his boss handed him The Phoenix Project by Gene Kim and Continuous Delivery by Jez Humble and said, 'Read these and figure out this DevOps thing.' And he hasn’t stopped learning since.
+    <br/><br/>David has been a member of the DevOpsDays Ohio organizing committee since it's inception. He's also Co-Organizer of the DevOps Columbus Meetup."
+    twitter: "dlaulusa"
+    linkedin: "https://www.linkedin.com/in/davidlaulusa/"
+  - name: "Jack Maher"
+  - name: "J.D. Santen"
+    bio: "J.D. Santen is a developer who has been working in the telecommunications industry for over 18 years.  In that time, he’s seen network growth explode and the requirements to support it become more complicated.  J.D. has had a hand in building IT systems that are as resilient as the network they support."
+    linkedin: "https://www.linkedin.com/in/jdsanten"
+  - name: "John Lusk"
+  - name: "Kyle Jenkins"
+    employer: "Improving"
+    bio: "Kyle Jenkins is a full stack developer and consultant with Improving, a software development consulting and training company in Columbus, Ohio. He assists with organizing the DevOpsDays Columbus conference. While working directly with clients to accomplish projects, he always strives to improve the quality of code and life for the team. In his spare time, you may find him at a variety of user groups around town, or online playing video games with friends."
+    linkedin: "https://www.linkedin.com/in/kyle-jenkins"
+    twitter: "kjenkinsdev"
+    github: "kjenkins19"
+  - name: "Michael Ducy"
+  - name: "Michael Swartzbaugh"
+  - name: "Sherry Stebens"
+    bio: "Sherry is an accomplished management professional positioned in the information technology field with a solid reputation as a strong leader. Proven ability to improve processes to gain efficiencies, drive for results and build solid relationships throughout all levels of an organization.  Strong leader with the ability to create and execute new and/or improved processes. Consistently practice and educate the use of Six Sigma techniques and Agile methodologies to problem solve and implement solutions for the betterment of an organization.
+    <br/><br/>Sherry has been a member of the DevOpsDays Columbus organizing committee since 2016."
+
+organizer_email: "columbus@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: samplesponsorname
+    level: gold
+ #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+#  - id: arresteddevops
+#    level: community
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: platinum
+    label: Platinum
+  - id: gold
+    label: Gold
+  - id: silver
+    label: Silver
+  - id: bronze
+    label: Bronze
+  - id: community
+    label: Community

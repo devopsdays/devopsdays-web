@@ -94,6 +94,6 @@ The best thing to do is send engineers to interact with the experts at devopsday
 <p>
 The Friends package is reserved for companies with less that 20 employees.
 <p>
-View the <a href="../SponsorDevOpsDays2019.pdf">sponsor prospectus</a> for more details about sponsorship.
+View the <a href="../sponsordevopsdays2019.pdf">sponsor prospectus</a> for more details about sponsorship.
 
 <hr/>

@@ -1,87 +1,31 @@
 +++
 Title = "DevOpsDays Birmingham 2021"
 Type = "welcome"
-aliases = ["/events/2021-birmingham/"]
+aliases = [
+	"/events/2021-birmingham/",
+	"/events/2021-birmingham/location",
+	"/events/2021-birmingham/propose",
+	"/events/2021-birmingham/registration",
+	"/events/2021-birmingham/sponsor"
+]
+
 Description = "DevOpsDays Birmingham 2021"
+
 +++
 
-<!-- <div style="text-align:center;">
-  {{< event_logo >}}
-</div> -->
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Dates</strong>
+<div class="row">
+  <div class="col-md-4">
+    <img alt="DevOpsDays Birmingham 2021 Logo" src="/events/2021-birmingham/logo.png" class="img-fluid">
   </div>
-  <div class = "col-md-8">
-    {{< event_start >}} - {{< event_end >}}
+
+  <div class="col-md-7">
+    <h1>
+	<p>We have had to cancel our first in-person event in March 2021 due to COVID</p>
+    </h1>
+	<p> Refunds have been issued to ticket holders and we will be aiming for a 2022 relaunch provided the situation allows it!</p>
+	<p>DevOpsDays is a worldwide series of community run technical conferences covering topics of software development, IT infrastructure operations, and the intersection between them. It is run by volunteers from community, for the benefit of the community.
+      We are not a commercial conference and we believe that our focus on serving the community creates a truly unique experience for both delegates and sponsors.
+    </p>
   </div>
 </div>
 
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Location</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_location >}}
-  </div>
-</div> -->
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Register</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
-  </div>
-</div> -->
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Propose</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
-  </div>
-</div> -->
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Program</strong>
-  </div>
-  <div class = "col-md-8">
-    View the {{< event_link page="program" text="program." >}}
-  </div>
-</div> -->
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Speakers</strong>
-  </div>
-  <div class = "col-md-8">
-    Check out the {{< event_link page="speakers" text="speakers!" >}}
-  </div>
-</div> -->
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Sponsors</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="sponsor" text="Sponsor the conference!" >}}
-  </div>
-</div>
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Contact</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="contact" text="Get in touch with the organizers" >}}
-  </div>
-</div>
-
-<!-- Uncomment if you added your city twitter name -->
-<!--
-{{< event_twitter >}}
--->

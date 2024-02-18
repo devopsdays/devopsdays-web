@@ -1,7 +1,7 @@
 +++
 Title = "Ramez Hanna"
 Twitter = "Observability at scale"
-image = "Ramez_Hanna.jpg"
+image = "ramez_hanna.jpg"
 type = "speaker"
 linktitle = "ramez-hanna"
 

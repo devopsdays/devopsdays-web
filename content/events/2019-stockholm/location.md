@@ -8,7 +8,7 @@ Description = "Location for devopsdays Stockholm 2019"
 
 Devopsdays Stockholm 2019 will be held in the *Loke* room at [7A Odenplan](https://7a.se/en/facility/7a-odenplan/) on Odengatan 65 in Stockholm.
 
-[![floor plan](https://jonaseel.se/pics/7A-Odenplan-Planskiss.jpg)](https://7a.se/en/facility/7a-odenplan/)
+[![floor plan](https://jonaseel.se/pics/7a-odenplan-planskiss.jpg)](https://7a.se/en/facility/7a-odenplan/)
 
 ### Public transport
 

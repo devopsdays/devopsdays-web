@@ -1,0 +1,117 @@
+name: "2024-houston" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2024" # The year of the event. Make sure it is in quotes.
+city: "houston" # The displayed city name of the event. Capitalize it.
+event_twitter: "DevOpsDaysHTown" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays is coming to houston!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2024-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2024-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2024-06-04T00:00:00-06:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2024-06-05T00:00:00-06:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2024-02-01T00:00:00-06:00  # start accepting talk proposals.
+cfp_date_end: 2024-03-31T23:59:59-06:00 # close your call for proposals.
+cfp_date_announce: 2024-04-15T00:00:00-06:00 # inform proposers of status
+
+cfp_link: "https://talks.devopsdays.org/devopsdays-houston-2024/cfp" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+sharing_image: "sharing.jpg"
+
+# Location
+#
+coordinates: "29.779130, -95.560560" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Norris Conference Center, Houston" # Defaults to city, but you can make it the venue name.
+#
+location_address: "816 Town and Country Blvd #210, Houston, TX 77024" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: propose
+  - name: location
+ # - name: registration
+ # - name: program
+ # - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Svetlana Kryukova"
+    employer: "Two Sigma Solutions"
+    linkedin: "https://www.linkedin.com/in/svetlana-kryukova/"
+    github: "skryukova"
+    image: "svetlana-kryukova.jpg"
+    bio: "Svetlana is a software development leader with over 20 years of experience in enterprise software. Passionate about building teams, creating new products and solving problems. Co-organizer of Houston DevOps Meetup since June 2018."
+  - name: "Keegan Cotton"
+    employer: "Datadog"
+    linkedin: "https://www.linkedin.com/in/keegan-cotton-a6602b1/"
+    image: "keegan-cotton.jpg"
+    twitter: "keegancotton"
+    bio: "Keegan is an Senior Account Executive at Datadog.  Both a West Point graduate and London Business School alumnus, Keegan has a 20 year track record as a catalyst for both large and small organizations - helping them grow into new markets across several continents.  Keegan has led organizations both in and out of uniform, and helped those organizations refine and execute on their business technology strategies.  Native Texan.  DevOps enthusiast.  Avid learner.  Proud father and husband."
+  - name: "Binh Chau"
+    employer: "Cloud Partners"
+    twitter: ""
+    image: "binh-chau.jpg"
+    bio: "Binh is a proven product leader that have launched a number of innovative products for top-tiered companies.  She has a track record of creating product strategy and actionable roadmaps and translating them into impactful products for consumers and enterprises."
+  - name: "Julia Ito"
+    employer: "Appfire"
+    linkedin: "https://www.linkedin.com/in/julia-ito-9983721/"
+    image: "julia-ito.jpg"
+    bio: "Julia is a Product Manager and technology passionate, who loves delivering solutions that matter faster and better."
+  - name: "Alex Zhanov"
+    employer: "Two Sigma Solutions"
+    linkedin: "https://www.linkedin.com/in/alex-zhanov/"
+    bio: "Alex Zhanov is an experienced technologist with over 25 years in the industry. He has been a software engineer, team lead and an architect, building distributed system solutions in the energy and financial sectors. For all this time he has been a resident of Houston, TX. "
+    image: "alex-zhanov.jpg"
+  - name: "Mark Baumstein"
+    employer: "Petroleum Geo-Services"
+    linkedin: "https://www.linkedin.com/in/markbaumstein/"
+    bio: "Recent Computer Engineering graduate with expertise in full stack development and exposure to High-Performance Computing, Service Design, Enterprise Applications, Enterprise Architecture, and Infrastructure Support."
+  - name: "David Varela"
+    employer: "Blue People"
+    bio: " David Varela serves as the Chief Talent Acquisition Officer (CTAO) at Blue People, bringing over a decade of experience in the IT ecosystem since 2015. As a co-founder of Blue People, David has seamlessly transitioned through diverse roles, guiding teams with a dedicated focus on agile methodologies. His leadership has been instrumental in guiding the company to attain several significant certifications. David is committed to sourcing top-tier IT talent and leading the development of internal products. Upholding a commitment to fostering innovation and excellence, he thrives on cultivating a dynamic and cutting-edge environment within Blue People."
+    image: "david-varela.jpg"
+    linkedin: "https://www.linkedin.com/in/david-varela-4734b3b0/"
+  - name: "Jim Wang"
+    employer: "MODE Global"
+    image: "jim-wang.jpg"
+    bio: "Jim Wang has built technology products for over 20 years in large corporations and startups. He is highly involved in product design and system architecture while maturing the software development process and leading teams to achieve high delivery expectations. He is passionate about building and delivering products focusing on data-driven design, ML/AI, high performance, and high scalability."
+    linkedin: "https://www.linkedin.com/in/jimzwang/"
+organizer_email: "houston@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: gold
+    label: Gold
+#    max: 10
+  - id: silver
+    label: Silver
+    max: 0 # This is the same as omitting the max limit.
+  - id: bronze
+    label: Bronze
+  - id: community
+    label: Community

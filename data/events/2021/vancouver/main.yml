@@ -1,0 +1,232 @@
+name: "2021-vancouver" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2021" # The year of the event. Make sure it is in quotes.
+city: "Vancouver" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaysyvr" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays is coming to Vancouver as an online conference!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2020-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2020-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+cancel: "false"
+
+startdate:  2021-04-23T00:00:00-07:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  2021-04-23T23:59:59-07:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2021-02-16T00:00:00-07:00  # start accepting talk proposals.
+cfp_date_end: 2021-03-20T23:59:00-07:00  # close your call for proposals.
+cfp_date_announce: 2021-04-09T00:00:00-07:00  # inform proposers of status
+
+cfp_link: "https://forms.gle/R2d4gWb4Z8BxGJoT8" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: 2021-03-10T00:00:00-07:00
+registration_date_end: 2021-04-23T00:00:00-07:00
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_open: "true"
+registration_link: "https://www.eventbrite.ca/e/dev-ops-days-vancouver-2021-tickets-145364423905" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+# coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+# location: "Vancouver" # Defaults to city, but you can make it the venue name.
+#
+# location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: sponsor
+  - name: contact
+  - name: conduct
+  - name: registration
+  # - name: livestream
+  - name: program
+  - name: speakers
+  # - name: location 
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Simone Payne"
+    image: "simone-payne.jpg"
+    role: "Primary Organizer"
+  - name: "Kyle Young"
+    role: "Organizer"
+    twitter: "ksgyoung"
+    image: "kyle_young-square.jpg"
+  - name: "Ronald Bow"
+    role: "Organizer"
+    twitter: "rmkbow"
+    image: "ronaldbow-square.png"
+  - name: "Chris Demwell"
+    role: "Organizer"
+    twitter: "cdemwell"
+    image: "chris-demwell.png"
+  - name: "Camille Janicki"
+    role: "Organizer"
+    image: "camille-janicki.jpg"
+  - name: "Ben Rabinovitch"
+    role: "Organizer"
+    image: "ben-rabinovitch.png"
+  - name: "Samantha Toner"
+    role: "Organizer"
+    image: "sam-square.jpg"
+  - name: "Alicja Raszkowska"
+    role: "Organizer"
+    twitter: "mamrotynka"
+    image: "alicja.jpg"
+  - name: "Jarrod Lombardo"
+    role: "Organizer"
+    twitter: "jaberwocky"
+    image: "jarrod-square.jpg"
+  - name: "Kelly Shkuratoff"
+    twitter: "kshkuratoff"
+    image: "kelly-shkuratoff.png"
+  - name: "Tyler Mauthe"
+    twitter: "tylermauthe"
+    image: "tyler-mauthe.png"
+    #  - name: "John Doe"
+    # - name: "Jane Smith"
+    # twitter: "devopsdays"
+    # - name: "Sally Fields"
+    # employer: "Acme Anvil Co."
+    # github: "devopsdays"
+    # facebook: "https://www.facebook.com/sally.fields"
+    # linkedin: "https://www.linkedin.com/in/sallyfields"
+    # website: "https://mattstratton.com"
+    # image: "sally-fields.jpg"
+
+organizer_email: "vancouver@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: cisco
+    level: gold
+  - id: chime 
+    level: gold
+  - id: hootsuite
+    level: gold
+  - id: pacbio
+    level: silver
+  - id: pilotcore
+    level: bronze
+  - id: safesoftware
+    level: bronze
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: gold
+    label: Gold
+    max: 3
+  - id: silver
+    label: Silver
+    max: 0 # This is the same as omitting the max limit.
+  - id: bronze
+    label: Bronze
+
+program:
+  - title: "Registration, Sponsor Booths"
+    type: custom
+    date: 2021-04-23
+    start_time: "08:00"
+    end_time: "09:05"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2021-04-23
+    start_time: "09:05"
+    end_time: "09:15"
+  - title: "mandi-walls"
+    type: talk
+    date: 2021-04-23
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "filipi-pires"
+    type: talk
+    date: 2021-04-23
+    start_time: "9:50"
+    end_time: "10:20"
+  - title: "Sponsor Talks"
+    type: custom
+    date: 2021-04-23
+    start_time: "10:25"
+    end_time: "10:30"
+  - title: "Break, Sponsor Booths"
+    type: custom
+    date: 2021-04-23
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "xavier-rene-corail"
+    type: talk
+    date: 2021-04-23
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "ori-keren"
+    type: talk
+    date: 2021-04-23
+    start_time: "11:35"
+    end_time: "12:05"
+  - title: "Ignite Talks"
+    type: ignite
+    date: 2021-04-23
+    start_time: "12:10"
+    end_time: "12:30"
+  - title: "Lunch Break"
+    type: custom
+    date: 2021-04-23
+    start_time: "12:30"
+    end_time: "13:50"
+  - title: "anders-wallgren"
+    type: talk
+    date: 2021-04-23
+    start_time: "13:50"
+    end_time: "14:20"
+  - title: "avantika-mathur"
+    type: talk
+    date: 2021-04-23
+    start_time: "14:25"
+    end_time: "14:55"
+  - title: "Break"
+    type: custom
+    date: 2021-04-23
+    start_time: "15:00"
+    end_time: "15:10"
+  - title: "josh-stella"
+    type: talk
+    date: 2021-04-23
+    start_time: "15:10"
+    end_time: "15:40"
+  - title: "thomas-haver"
+    type: talk
+    date: 2021-04-23
+    start_time: "15:45"
+    end_time: "16:15"
+  - title: "Closing Remarks"
+    type: custom
+    date: 2021-04-23
+    start_time: "16:20"
+    end_time: "16:30"
+  - title: "Networking, Sponsor Booths"
+    type: custom
+    date: 2021-04-23
+    start_time: "16:30"
+    end_time: "18:00"
+
+ignites:
+  - title: "jacquie-grindrod"
+    date: 2021-04-23
+  - title: "ryan-maclean"
+    date: 2021-04-23
+  - title: "jeremy-meiss"
+    date: 2021-04-23

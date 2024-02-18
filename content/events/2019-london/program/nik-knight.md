@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Using Coaching Skills to Grow Compassion, Empathy and Kindness in DevOps"
 Type = "talk"
 Speakers = ["nik-knight"]
+Youtube = "DViaVwZVPNQ"
 +++
 
 An increasing number of people within tech are talking about compassion, empathy and kindness as being necessary to build great DevOps teams and solutions - and yet not everyone seems to view these as things that can be learned or taught. As a discipline, coaching uses all three to great advantage - and the good news is that basic coaching skills can be learned by anyone. Not only that, but they can be applied to a wide variety of contexts.

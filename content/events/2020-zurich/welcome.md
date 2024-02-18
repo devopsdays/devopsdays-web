@@ -1,18 +1,26 @@
 +++
-Title = "DevOpsDays Zürich 2020"
+Title = "DevOpsTuesDays Zürich 2020"
 Type = "welcome"
 aliases = ["/events/2020-zurich/"]
-Description = "DevOpsDays Zürich 2020"
+Description = "DevOpsTuesDays Zürich 2020"
 +++
 
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
 </div> -->
 
+<div class="row">
+  <div class="alert alert-info" role="alert">
+    <h2>COVID-19</h2>
+    <p>Due to the current situation, the DevOps Days Zurich 2020 is moved to 2021.
+    <br>However, we will host the online DevOpsTuesDays in September 2020.  </p>
+  </div>
+</div>
+
 <img src="/events/2020-zurich/logo.png" style="float:center"/>
 
 <strong>
-  Harder, Better, Faster, Stronger. <br>Welcome to the fourth round of DevOpsDays 2020!
+  <br>Every Tuesday evening in September 2020 we will hold the online DevOpsTuesDays. More information will follow.
 </strong>
 
 <div class = "row">
@@ -44,14 +52,14 @@ Description = "DevOpsDays Zürich 2020"
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="registration" text="Register to attend the conference!" >}}
   </div>
-</div> -->
+</div> 
 
 <div class = "row">
   <div class = "col-md-2">
@@ -62,23 +70,23 @@ Description = "DevOpsDays Zürich 2020"
   </div>
 </div> 
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
     View the {{< event_link page="program" text="program." >}}
   </div>
-</div> -->
+</div> 
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
-</div> -->
+</div> 
 
 <div class = "row">
   <div class = "col-md-2">
@@ -103,7 +111,7 @@ Description = "DevOpsDays Zürich 2020"
     <strong>Homepage</strong>
   </div>
   <div class = "col-md-8">
-    <a href="https://landing.devopsdays.ch/">DevOpsDays.ch</a>
+    <a href="https://www.devopsdays.ch/">DevOpsDays.ch</a>
   </div>
 </div>
 

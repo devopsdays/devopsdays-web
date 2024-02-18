@@ -1,7 +1,7 @@
 +++
 Title = "Marta Paciorkowska"
 Twitter = "a_meba"
-image = "Marta_Paciorkowska.jpg"
+image = "marta_paciorkowska.jpg"
 type = "speaker"
 linktitle = "marta-paciorkowska"
 

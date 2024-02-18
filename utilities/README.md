@@ -5,11 +5,11 @@ These scripts help devopsdays organizers manage their events.
 
 The technical details and guidelines for contributing to this repository are outlined in [CONTRIBUTING.md](../CONTRIBUTING.md).
 
-Full reference of all fields and features is located in [REFERENCE.md](https://github.com/devopsdays/devopsdays-web/blob/master/themes/devopsdays-theme/REFERENCE.md) in the currently released theme directory.
+Full reference of all fields and features is located in [reference.md](https://github.com/devopsdays/devopsdays-web/blob/main/themes/devopsdays-theme/reference.md) in the currently released theme directory.
 
 New utilities and updates to existing utilities are welcome, as are suggestions for default content. Add new scripts in [contrib](contrib/).
 
-If you want others in your team to be able to preview/approve changes before they are merged, we recommend you follow [this workflow](https://github.com/devopsdays/devopsdays-web/tree/master/utilities/docs/workflow) to work with your own repo prior to submitting a PR.
+If you want others in your team to be able to preview/approve changes before they are merged, we recommend you follow [this workflow](https://github.com/devopsdays/devopsdays-web/tree/main/utilities/docs/workflow) to work with your own repo prior to submitting a PR.
 
 ## Events
 
@@ -19,11 +19,13 @@ Use [add_new_event.sh](add_new_event.sh) to add a new event. This is year-specif
 1. The script will create a data file for your event in `data/events/yyyy-city.yml`. This is where you will configure many of your updates and customizations. In particular, you need to list your local organizer team here.
 1. The script will populate your event directory in `content/events/yyyy-city` with default content. You should edit it as desired.
 1. The script will add or update your entry in `static/_redirects`. This allows you to use the url `https://devopsdays.org/city-name` to point to your current-year event.
-1. Once you have created a logo graphic, place it in `static/events/yyyy-city/logo.png`. (The file MUST be called `logo.png`.) The sample welcome page has a commented-out element to display a logo named in this way. For front-page use, you also need a square version in `static/events/yyyy-city/logo-square.jpg` (url configurable in your datafile).
+1. Once you have created a logo graphic, place it in `static/events/yyyy-city/logo.png`. (The file MUST be called `logo.png`.) The sample welcome page has a commented-out element to display a logo named in this way. For front-page use, you also need a square version in `static/events/yyyy-city/logo-square.jpg`.
 
 ## Google Analytics
 
-If you have set up a Google Analytics account for tracking your specific event, you can enable tracking for your event pages by updating the `ga_tracking_id` field in your `yyyy-city.yml` file. Example: `ga_tracking_id: "UA-74738648-1"`
+If you have set up a Google Analytics v3 or older account for tracking your specific event, you can enable tracking for your event pages by updating the `ga_tracking_id` field in your `yyyy-city.yml` file. Example: `ga_tracking_id: "UA-74738648-1"`
+
+If you have set up a Google Analytics v4 or newer account for tracking your specific event, you can enable tracking for your event pages by updating the `gtm_tracking_id` field in your `yyyy-city.yml` file. Example: `gtm_tracking_id: "G-NCBC4PBEMK"`
 
 ### Event Square Logo
 
@@ -56,46 +58,27 @@ sponsors:
 
 ### Updating a sponsor image or data
 
-If you want to update a sponsor's info, keep in mind that we don't want to retroactively change history for past events. See this [previous discussion](https://github.com/devopsdays/devopsdays-web/pull/503) for guidance. We want to preserve past history before defining a changed default.
+It is normal for sponsors to occasionally update their information or logo every few years. As a matter of policy, we strongly prefer not to retroactively change history for past events. In other words, if there's an old logo used by an event in the past, that shouldn't change. (See this [previous discussion](https://github.com/devopsdays/devopsdays-web/pull/503) for guidance.) 
 
-Determine which sponsor is being discussed. For this example, we'll use Pivotal.
+In the case where your current event is the _only one_ that uses the asset in question, you should just make the modfication and open a PR as normal. If there is historical data however, you should use the `change_sponsor_logo.sh` script.
 
-First, we'll do filename updates. Existing sponsors have an image and a data file:
+For this example, we'll use Pivotal as the sponsor.
 
+Run the script `change_sponsor_logo.sh` in the `utilities` subdirectory, giving it the name of the sponsor (`pivotal`) and the **full path** on disk to your new logo:
 ```
-static/img/sponsors/pivotal.png
-data/sponsors/pivotal.yml
-```
-
-- When a sponsor wants an update to the image, data file, or both, first you copy the current files to a new filename containing the current date:
-
-```
-cp static/img/sponsors/pivotal.png static/img/sponsors/pivotal-before-20190307.png
-cp data/sponsors/pivotal.yml data/sponsors/pivotal-before-20190307.yml
+$ ./change_sponsor_logo.sh pivotal ~/Downloads/pivotal.png
+Modifying 2018-chicago.yml
+Modifying 2019-detroit.yml
+Modifying 2018-chicago/conduct/index.html
+Modifying 2018-chicago/contact/index.html
+...
 ```
 
-Do this even if you're only changing one of them.
-
-Then, make sure all events in the past get the update. Edit the "- id: pivotal" line for any past events:
-
-```
-$ grep "id: pivotal" data/events/*
-[...]
-data/events/2015-minneapolis.yml:  - id: pivotal-before-20190307
-data/events/2016-atlanta.yml:  - id: pivotal-before-20190307
-data/events/2019-minneapolis.yml:  - id: pivotal
-```
-
-It is possible that the previous city has already been archived and static items have already been created. You will have to update the image source for these pages
-
-```
-grep -r "sponsors\/pivotal.png" static/events/*
-[...]
-static/events/2016-chicago/contact/index.html:<img src="/img/sponsors/pivotal.png" alt="Pivotal" title="Pivotal" class="img-fluid">
-```
-:warning: The above will require you to be comfortable with search & replace utilities as you'd potentially be modifying hundreds of files. Please ask for assistance if desired. 
-
-For the current year, you only want to make the edits if the event has already happened.
+Under the hood, the script is:
+1. Copying the existng sponsor files to `sponsor-before-todaysdate.{png,yml}`.
+1. Copying in the new image to `sponsor.png`.
+1. Modifying any events that did _not_ occur this year such that they are sponsored by `sponsor-before-todaysdate`, rather than `sponsor`.
+1. Modifying any archived events such that they are sponsored by `sponsor-before-todaysdate`, rather than `sponsor`.
 
 This means that if a sponsor asks for an update affecting all future events, the shared sponsor entry will be changed for all events without any intervention needed from local organizers who have listed that sponsor. This is a benefit to using the shared sponsor entry.
 
@@ -138,7 +121,7 @@ Any PRs adding a new local organizer will need to be accompanied by an email to 
 
 ## Social sharing image
 
-A sharing image is added to the Open Graph tags for your event pages, to improve the sharing on social networks such as Facebook (or in Slack). This image must be named `sharing.jpg` and located in `static/events/yyyy-city/sharing/`. It should be a minimum 1200px x 630px, and use ratio: 1.91:1.
+A sharing image is added to the Open Graph tags for your event pages, to improve the sharing on social networks such as Facebook (or in Slack). This image must located in `static/events/yyyy-city/sharing/`. It should be a minimum 1200px x 630px, and use ratio: 1.91:1. You must set the `sharing_image` field in `data/events/yyyy-city.yml` (example: `sharing_image: "sharing.jpg"`). You can also override the sharing image by setting `sharing_image` in the frontmatter of a specific page, with the filename of an image in the `static/events/yyyy-city/sharing/` directory. Example: `sharing_image = "jeff-smith.png"`
 
 If no image is provided, then the meta tag will not be created. Facebook might try to infer it, but the links shared will just likely have no images.
 
@@ -175,7 +158,7 @@ If you start working on the program before you have all your speakers, by defaul
 
 ### Speaker Images
 
-The headshots for your speaker images can be either .png or .jpg. They should be square, preferably 600px square. If they are not square, they will be automatically cropped at build time for the production site. (Note: image processing does not occur when running Hugo locally or in a deploy preview.)
+The headshots for your speaker images can be either .png or .jpg. They should be square, preferably 600px square. If they are not square, the page listing all speakers will crop them to square, but the individual speaker and talk pages will not crop the image). 
 
 
 # Adding slides and video

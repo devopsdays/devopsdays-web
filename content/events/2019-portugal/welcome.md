@@ -95,9 +95,7 @@ Description = "devopsdays portugal 2019"
     </div>
     <div class="col-sm-6">
       <p><b>DevOpsDays Portugal 2019 is powered by the  <a href="https://www.meetup.com/pt-BR/DevOps-Lisbon/">DevOps Lisbon</a> &amp; <a href="https://www.meetup.com/devopsporto/">DevOps Porto</a>, the two main meetup groups dedicated to DevOps in Portugal.</b></p>
-
       <p><b>This will be the first DevOpsDays organized in Portugal; we have chosen Lisbon as the first city to host the event, and hope to alternate with Porto (and other cities) each year.</b></p>
-
       <p><b> The conference this year will focus on real world experience reports from diverse organizations in Portugal and abroad. Covered topics will include Culture, Automation, Lean, Measurement, and Sharing (CALMS), and others. </b></p>
     </div>
     <div class="col-sm-6">

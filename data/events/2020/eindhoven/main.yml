@@ -1,0 +1,121 @@
+name: "2020-eindhoven" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2020" # The year of the event. Make sure it is in quotes.
+city: "Eindhoven" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaysEHV" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays is coming to Eindhoven for the FIRST TIME!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+masthead_background: "skyline-eindhoven.jpg"
+sharing_image: "logo-rectangle.png"
+cancel: "true"
+
+
+# All dates are in unquoted 2020-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2020-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:   # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start:    # start accepting talk proposals.
+cfp_date_end:  # close your call for proposals.
+cfp_date_announce:  # inform proposers of status
+
+cfp_open: "false"
+cfp_link: "https://sessionize.com/devopsdays-eindhoven-2020/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start:  # start accepting registration. Leave blank if registration is not open yet
+registration_date_end:  # close registration. Leave blank if registration is not open yet.
+
+registration_closed: "true" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "51.411095, 5.455316" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Eindhoven" # Defaults to city, but you can make it the venue name.
+#
+location_address: "High Tech Campus 1b, 5656 AE Eindhoven, The Netherlands" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+ # - name: propose
+ # - name: location
+ # - name: registration
+ # - name: program
+ # - name: speakers
+ # - name: sponsor
+  - name: cancellation
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+# locals first, sorted by primary last name
+  - name: "Koen Aben"
+    linkedin: "https://www.linkedin.com/in/koenaben/"
+    twitter: "koenusTweets"
+  - name: "Thiago de Faria"
+    github: "thiagoavadore"
+    linkedin: "https://www.linkedin.com/in/thiagoavadore/"
+    twitter: "thiagoavadore"
+  - name: "Jelmer Graafstra"
+    linkedin: "https://www.linkedin.com/in/jelmer-graafstra-083abb4"
+  - name: "Fabian Met"
+    linkedin: "https://www.linkedin.com/in/fabianmet/"
+  - name: "Joep Piscaer"
+    linkedin: "https://www.linkedin.com/in/jpiscaer"
+    twitter: "jpiscaer"
+  - name: "Jos van Schouten"
+    linkedin: "https://www.linkedin.com/in/josvanschouten"
+    twitter: "josvanschouten"
+# not-local to Eindhoven but also helping Eindhoven.
+  - name: "Harm Boertien"
+    twitter: "Harm_Ops"
+    github: "HarmB"
+    linkedin: "https://www.linkedin.com/in/harmboertien"
+  - name: "Rudy Gevaert"
+    twitter: "rgevaert"
+    github: "rgevaert"
+    linkedin: "https://www.linkedin.com/in/rudygevaert/"
+  - name: "Yvo van Doorn"
+    twitter: "yvov"
+    github: "yvovandoorn"
+    linkedin: "https://www.linkedin.com/in/yvovandoorn"
+  - name: "Sarah Gruneisen"
+    twitter: "avagasso"
+  - name: "Peter Nijenhuis"
+    twitter: "Peter_Nijenhuis"
+
+organizer_email: "eindhoven@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+# gold
+# silver
+# lanyard
+# bronze
+# community
+
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: gold
+    label: Gold
+#    max: 10
+  - id: silver
+    label: Silver
+    max: 0 # This is the same as omitting the max limit.
+  - id: bronze
+    label: Bronze
+  - id: community
+    label: Community

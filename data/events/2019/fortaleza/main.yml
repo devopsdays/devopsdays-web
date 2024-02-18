@@ -1,0 +1,306 @@
+name: "2019-fortaleza" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2019" # The year of the event. Make sure it is in quotes.
+city: "Fortaleza" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaysce" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays is coming again to Fortaleza in 2019!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2019-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2019-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+# All dates are in unquoted 2019-MM-DD, like this:   variable: 2016-01-05
+startdate: 2019-09-28T08:00:00-03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2019-09-28T19:00:00-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2019-07-01T00:00:00-03:00 # start accepting talk proposals.
+cfp_date_end: 2019-07-31T23:59:59-03:00 # close your call for proposals.
+cfp_date_announce:  2019-08-07T00:00:00-03:00 # inform proposers of status
+
+cfp_open: "true"
+cfp_link: "https://www.papercall.io/devopsdaysfortaleza2019" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+masthead_background: "uni7-frente.png"
+
+registration_date_start: # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: # close registration. Leave blank if registration is not open yet.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "-3.7710272, -38.4858382" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Centro Universitário 7 de Setembro" # Defaults to city, but you can make it the venue name.
+#
+location_address: "Av. Almirante Maximiniano da Fonseca, 1395 - Eng. Luciano Cavalcante" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: propose
+    url: https://www.papercall.io/devopsdaysfortaleza2019
+  - name: location
+  - name: registration
+    url: https://dodfortaleza2019.eventize.com.br/
+  - name: program
+  - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+# - name: example
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Mayara Gouveia"
+    role: "DevOps Engineer"
+    bio: "DevOps | SysAdmin | Information Security Specialist. CIO on iDevOps. DevOps Professional, Agil Scrum Foundation, Data Cabling System Furukawa Certificate, Fluke Networks, CompTIA Network +, Ethical Hacking Foundation, Fortinet Network Security Essentials 1 and 2. Network Forensics Expert. Guest Speaker in spare times. Mac OSX user. Experience with DevSecOps; AWS Cloud; GNU / Linux; Network routing and switching; Structured Cabling; Virtualization; IT services."
+    linkedin: "https://www.linkedin.com/in/gb8may/"
+    website: "https://idevops.cloud"
+    github: "https://github.com/gb8may"
+    twitter: "devopsdaysce"
+    github: "gb8may"
+    image: "mayara-gouveia.jpg"
+  - name: "Jehnyffen Alves"
+    role: "QA Analyst"
+    bio: "Solutions-focused QA tester with 8+ years with full system development lifecycle experience, including designing, developing and implementing manual and automated test plans, test cases and test processes."
+    linkedin: "https://www.linkedin.com/in/jehnyffen-alves/"
+    website: "http://cantocerto.com.br/"
+    github: "https://github.com/jehny"
+    image: "jehnyffen-alves.jpg"
+  - name: "Ana Carla Cavalcante"
+    role: "Infrastructure Coordinator"
+    bio: "IT Infrastructure Coordinator, with more than 20 years of career. Acted in some of the main outsourcing and technology companies in the country: from occupational health ERP to infrastructural technology in the banking sector, having also worked in the oil, gas, steel, and energy sectors. She graduated in Data Processing with specializations in Strategic Management of Projects and Information Systems. Certified in ITIL Intermediate (RCV, SOA and PPO), ISO 20000, ISO 27002, Human Change Management Professional, Green It Citizen, Scrum and Kanban."
+    linkedin: "https://www.linkedin.com/in/ana-carla-cavalcante-62a40725/"
+    image: "ana-carla.jpg"
+  - name: "Ana Aguilar"
+    role: "DevOps Analyst"
+    bio: "Graduated in network of computers with specialization in security information. Certified in Network security essentials - Watchguard and WatchGuard Threat Detection and Response - TDR. I have a lot of experience working with Linux, Amazon, Zabbix monitoring systems and administration firewall. 5+ years experience of career. Design, develop, and maintain automation systems and tools."
+    image: "ana-aguilar.jpg"
+  - name: "Renato Santos"
+    role: "Infrastructure Analyst"
+    bio: "Graduated in computer networks, passionate about technology and reserved conventional, multitasking, command line, admirer of photography, enthusiastic DevOps. Was in charge of the implementation of the ZABBIX monitoring system in the company M2M Solutions, SindiOnibus, Casas Freitas, Vector Contact Center and CRC , where I had great experience in Java technology using TOMCAT and automating services with the deployable tool Ansible applying the concept of DevOps. Ethical and professional way, I try to be sociable and educated respecting the limits of each one."
+    linkedin: "https://www.linkedin.com/in/renatodossantos/"
+    image: "renato-santos.jpg"
+  - name: "Edson Celio"
+    role: "Systems Developer"
+    bio: "Currently systems developer at Grendene S/A, where he operates in the development of embedded systems and also in the application of improvements within the team (continuous integration, continued delivery and continuous deployment), using mainly Jenkins and Ansible. Enthusiast of DevOps culture, seeking to participate in the communities and events, either as participant, organizer or speaker. In the vacant hours, actively participates in discussions of Internet governance, where he has already been part of fellowship programs for ISOC, LACNIC, ICANN and CGIbr."
+    linkedin: "https://www.linkedin.com/in/edsoncelio/"
+    github: "edsoncelio"
+    twitter: "tuxpilgrim"
+    image: "edson-celio.jpg"
+  - name: "Cassio Moreira"
+    role: "DevOps Engineer"
+    bio: "Sysadmin,  SFCP, DEPC, UEWA. IT Professional with over 2 years of experience with Cloud services. Provide solutions to: Web Hosting; Highly Disponibility/Scalable Servers and Services; Monitoring; Automation tasks; CI/CD. DevOps culture enthusiast and guest speaker at sometimes as well."
+    linkedin: "https://www.linkedin.com/in/cassiomoreira/"
+    website: "https://cassioliveiram.com.br/"
+    github: "cassioliveiram"
+    image: "cassio-moreira.jpg"
+  - name: "Renata Lima"
+    linkedin: "https://www.linkedin.com/in/renata-lima-bb401aa4/"
+    role: "Psychologist"
+    twitter: ""
+    bio: "Psychologist, post graduated in Organizational and Labor Psychology. Professional with over 4 years of experience at a multinational company working as Talent Engagement Analyst and HR Business Partner."
+    image: "renata-lima.jpg"
+  - name: "Marjorie Lima"
+    role: "IT Process Analyst"
+    twitter: ""
+    bio: "IT Process Analyst - Administrative and Quality - Performed functions from management assistance, support and service to internal and external customers, IT training, creation of standard operating procedures. Evolving career in the administrative area in support of contract management aimed at the quality of service provided."
+    image: "marjorie-lima.jpg"
+  - name: "Dennis Braga"
+    role: "Web Developer"
+    linkedin: "https://www.linkedin.com/in/dennis-braga/"
+    github: "bragadennis"
+    bio: "Web developer for over 7 years using mainly PHP/Laravel Framework and Javascript Frameworks, passionate about programming, believes that automation is the key to  empowering teams to build and delivery quality software. Also spends sometime researching Blockchain technology and Neural Networks."
+    image: "dennis-braga.jpg"
+  - name: "Wanderson Lopes"
+    role: "IT Analyst"
+    twitter: ""
+    bio: "Graduated in Systems Analysis and Development, Currently Infrastructure Analyst at CRC, responsible for creating virtualized environments and managing various operating systems, always seeking to innovate and automate processes in IT services."
+    image: "wanderson-lopes.jpg"
+  - name: "Lorena Queiroz"
+    role: "Infrastructure Analyst"
+    linkedin: "https://www.linkedin.com/in/lorena-queiroz-0694aa4b/"
+    bio: "Graduated in Information Systems, Postgraduate in Computer System Administration and Security and Forensic Computing and Digital Expertise. Focus on Infrastructure, Information Security, Servers, Computer Forensics, IT Service Management."
+    image: "lorena-queiroz.jpg"  
+  - name: "Rebecca Farias"
+    role: "QA Analyst"
+    linkedin: "https://www.linkedin.com/in/rebecca-vitoria-598aa5124/"
+    bio: "A mechatronics engineering student that jumped into IT world and fell in love completely. Quality Assurance Analyst at OSF GLobal Services, Certified Tester Foundation Level Professional (CTFL) and a young Padawan on Automated tests. Looking forward to new challenges and always searching for new ways to do things."
+    image: "rebecca-farias.jpg"
+  - name: "Edvaldo Junior"
+    role: "Support Technician"
+    bio: "Graduated in Computer Networks, Itil Foundation, Devops Essentials, Linux enthusiast and opensource world. Responsible for the implementation of Grafana running in docker at ADAGRI (Agência de Defesa Agropecuária do Estado do Ceará)."
+    linkedin: "https://www.linkedin.com/in/edvaldo-junior/"
+    image: "edvaldo-junior.jpg"
+  - name: "Ana Paula Oliveira"
+    role: "QA Analyst"
+    bio: "Graduate in Analysis and systems development. Certified CTFL and ITIL Foundations. Passionate about everything in Technology, with experience in IT Support and now as a Test Analyst."
+    linkedin: "https://www.linkedin.com/in/anaoliveira5/"
+    image: "ana-paula.jpg"
+organizer_email: "fortaleza@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-fortaleza@devopsdays.org" # Put your proposal email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: samplesponsorname
+    level: gold
+ #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+ # - id: arresteddevops
+ #   level: community
+  - id: f13-2019
+    level: silver
+    url: https://www.f13.com.br/ # Use this if you need to over-ride a sponsor URL.
+  - id: idevops
+    level: community
+    url: https://idevops.cloud/ # Use this if you need to over-ride a sponsor URL.
+  - id: uni7
+    level: gold
+    url: https://www.uni7.edu.br/ # Use this if you need to over-ride a sponsor URL.
+  - id: osf
+    level: bronze
+  - id: 4linux
+    level: community
+  - id: aws
+    level: gold
+  - id: hostweb
+    level: silver
+  - id: linuxtips
+    level: community
+  - id: estabilis
+    level: community
+  - id: portfolio
+    level: gold
+  - id: platformbuilders
+    level: silver
+  - id: atlantico
+    level: silver
+  - id: alura
+    level: community
+  - id: redhat
+    level: gold
+  - id: wiser
+    level: bronze
+  - id: elastic-before-20221004
+    level: silver
+  - id: pmgt
+    level: silver
+  - id: edna-nogueira
+    level: community
+
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: gold
+    label: Gold
+#    max: 10
+  - id: silver
+    label: Silver
+    max: 0 # This is the same as omitting the max limit.
+  - id: bronze
+    label: Bronze
+  - id: community
+    label: Community
+program:
+  - title: "Credenciamento, Breakfast e abertura do evento"
+    type: open-space
+    date: 2019-09-28
+    start_time: "08:00"
+    end_time: "08:40"
+  - title: "rafael-gomex"
+    type: talk
+    date: 2019-09-28
+    start_time: "08:40"
+    end_time: "09:05"
+  - title: "virginia-rodrigues"
+    type: talk
+    date: 2019-09-28
+    start_time: "09:10"
+    end_time: "09:35"
+  - title: "valdomiro-bilharvas"
+    type: talk
+    date: 2019-09-28
+    start_time: "09:40"
+    end_time: "10:05"
+  - title: "marcelo-andre"
+    type: talk
+    date: 2019-09-28
+    start_time: "10:10"
+    end_time: "10:45"
+  - title: "diego-cavalcanti"
+    type: talk
+    date: 2019-09-28
+    start_time: "10:50"
+    end_time: "11:15"
+  - title: "tatiane-paya"
+    type: talk
+    date: 2019-09-28
+    start_time: "11:20"
+    end_time: "11:45" 
+  - title: "Almoço"
+    type: open-space
+    date: 2019-09-28
+    start_time: "11:45"
+    end_time: "13:00"
+  - title: "monica-cachoni"
+    type: talk
+    date: 2019-09-28
+    start_time: "13:00"
+    end_time: "13:25"
+  - title: "cicilia-pinto"
+    type: talk
+    date: 2019-09-28
+    start_time: "13:30"
+    end_time: "14:05"
+  - title: "lanay-marques"
+    type: talk
+    date: 2019-09-28
+    start_time: "14:10"
+    end_time: "14:35"
+  - title: "gabriel-policante"
+    type: talk
+    date: 2019-09-28
+    start_time: "14:40"
+    end_time: "15:05"
+  - title: "gabriela-dias"
+    type: talk
+    date: 2019-09-28
+    start_time: "15:10"
+    end_time: "15:45"
+  - title: "Coffee-Break"
+    type: open-space
+    date: 2019-09-28
+    start_time: "15:50"
+    end_time: "16:30"
+  - title: "shara-shami"
+    type: talk
+    date: 2019-09-28
+    start_time: "16:30"
+    end_time: "16:55"
+  - title: "jeremias-araujo"
+    type: talk
+    date: 2019-09-28
+    start_time: "17:00"
+    end_time: "17:25"
+  - title: "eduardo-cavalcanti"
+    type: talk
+    date: 2019-09-28
+    start_time: "17:30"
+    end_time: "17:55"
+  - title: "jeferson-noronha"
+    type: talk
+    date: 2019-09-28
+    start_time: "18:00"
+    end_time: "18:35"
+  - title: "Papo com palestrantes e Encerramento"
+    type: open-space
+    date: 2019-09-28
+    start_time: "18:40"
+    end_time: "19:00"

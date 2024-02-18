@@ -1,0 +1,29 @@
+name: 2009-ghent
+year: 2009
+city: Ghent
+friendly: 2009-ghent
+status: past
+event_group: "Ghent"
+startdate: 2009-10-30T00:00:00+01:00
+enddate: 2009-10-31T23:59:59+01:00
+coordinates: "47.609895, -122.330259"
+navigationelements: ["welcome", "contact","location", "conduct","sponsor"]
+sponsors:
+  - id: chef-before-20160714
+    level: platinum
+  - id: datadog
+    level: gold
+  - id: arresteddevops
+    level: media
+
+sponsor_levels:
+  - id: platinum
+    label: Platinum
+  - id: gold
+    label: Gold
+  - id: silver
+    label: Silver
+  - id: bronze
+    label: Bronze
+  - id: media
+    label: Media

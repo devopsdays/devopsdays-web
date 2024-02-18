@@ -1,7 +1,6 @@
 {{ define "main" }}
 
-{{- $e := (index $.Site.Data.events (index (split (.Permalink | relURL) "/") 2)) -}}
-
+{{- $e := partial "functions/get-event-data" . -}}
 <div class = "row">
   <div class = "col-md-12 offset-md-1">
     <h2 class="speaker-page">{{ .Title }}</h2>
@@ -16,7 +15,15 @@
      <h3>{{ .Title }} at {{ $e.city }} {{$e.year}}</h3>
           <ul class="list-group">
             {{- $.Scratch.Set "speaker" .File.BaseFileName -}}
-            {{ range where (where $.Site.Pages "Type" "talk") ".File.Dir" "=" (print "events/" $e.name "/program/") }}
+            {{ if eq $e.name nil }}
+              {{ errorf "Nil name on %s" .Permalink }}
+            {{ end }}
+            {{ if (where (readDir (printf "content/events/%s/" $e.name)) "Name" "program") }}
+            {{ range os.ReadDir (printf "content/events/%s/program/" $e.name) }}
+            {{ $filename :=  (printf "/events/%s/program/%s" $e.name  .Name) }}
+             {{/*  {{ with $.Site.GetPage (printf "content/events/2022-chicago/program/%s" .Name) }}  */}}
+             {{ with $.Site.GetPage $filename }}
+            {{/*  {{ range where (where $.Site.Pages "Type" "talk") ".File.Dir" "=" (print "events/" $e.name "/program/") }}  */}}
                 <!-- Now we can display stuff! -->
                 {{- range .Params.speakers -}}
                   {{- if eq . ($.Scratch.Get "speaker") -}}
@@ -27,6 +34,8 @@
                   <a href = "{{ .Permalink }}" class= "list-group-item list-group-item-action">{{ .Title }}</a>
                   {{ $.Scratch.Set "display" "false" }}
                 {{- end -}}
+              {{- end -}}
+              {{- end -}}
             {{- end -}} <!-- end range where -->
           </ul>
           </div>
@@ -34,10 +43,10 @@
   <div class = "col-md-3 offset-md-1">
     {{- with .Params.image -}}
       {{- if ne . "" -}}
-        <img src = "{{ (printf "/events/%s/speakers/%s" $e.name .) }}" class="speaker-page" alt="{{ $.Title }}"/><br />
+        <img src = '{{ (printf "/events/%s/speakers/%s" $e.name .) }}' class="img-fluid" alt="{{ $.Title }}"/><br />
       {{- end -}}
       {{- else -}}
-        <img src = {{ "/img/speaker-default.jpg"}} class="speaker-page"  alt="{{ .Title }}"/><br />
+        <img src = "/img/speaker-default.jpg" class="img-fluid" alt="{{ .Title }}"/><br />
     {{- end -}}
     {{- if isset .Params "twitter" -}}
       {{- if ne .Params.twitter "" -}}
@@ -91,6 +100,24 @@
         https://pronoun.is/{{ .Params.pronouns }}<br />
       {{- end -}}
       </a>
+      {{- end -}}
+    {{- end -}}
+    {{- if isset .Params "twitch" -}}
+      {{- if ne .Params.twitch "" -}}
+        <a href = "https://twitch.tv/{{ .Params.twitch }}"><i class="fa fa-twitch fa-2x" aria-hidden="true"></i>&nbsp;
+        {{- if $e.speakers_verbose -}}
+          {{ .Params.twitch }}<br />
+        {{- end -}}
+        </a>
+      {{- end -}}
+    {{- end -}}
+    {{- if isset .Params "mastodon" -}}
+      {{- if ne .Params.twitch "" -}}
+        <a href = "{{ .Params.mastodon }}"><i class="fab fa-mastodon fa-2x" aria-hidden="true"></i>&nbsp;
+          {{- if $e.speakers_verbose -}}
+            {{ .Params.mastodon }}<br />
+          {{- end -}}
+        </a>
       {{- end -}}
     {{- end -}}
   </div>

@@ -1,0 +1,17 @@
+<!-- Google Analytics v4 -->
+{{ if or (eq .Type "welcome") (eq .Type "event") (eq .Type "speaker") (eq .Type "speakers") (eq .Type "talk") (eq .Type "program")}}
+  {{- $e := partial "functions/get-event-data" . -}}
+  {{ if $e.gtm_tracking_id }}
+    {{ if ne $e.gtm_tracking_id "" }}
+      <script async src="https://www.googletagmanager.com/gtag/js?id={{$e.gtm_tracking_id}}"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', '{{$e.gtm_tracking_id}}');
+      </script>
+    {{ end }}
+  {{ end }}
+{{ end }}
+<!-- End Google Analytics v4 -->

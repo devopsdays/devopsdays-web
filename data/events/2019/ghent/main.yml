@@ -1,0 +1,443 @@
+name: "2019-ghent" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2019" # The year of the event. Make sure it is in quotes.
+city: "Ghent" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaysghent" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays is coming BACK to Ghent!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+event_group: "Ghent"
+masthead_background: "skyline-ghent.jpg"
+
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2019-10-28T00:00:00+01:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2019-10-30T23:59:59+01:00  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2019-04-25T00:00:00+01:00 # start accepting talk proposals.
+cfp_date_end: 2019-07-14T23:59:59+01:00 # close your call for proposals.
+cfp_date_announce: 2019-07-31T23:59:59+01:00  # inform proposers of status
+
+cfp_open: "false"
+cfp_link: "https://cfp.devopsdays.gent/2019/cfp" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: 2019-05-01T00:00:00+01:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2019-10-28T23:59:59+01:00 # close registration. Leave blank if registration is not open yet.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "51.047665, 3.728371" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Vooruit" # Defaults to city, but you can make it the venue name.
+#
+location_address: "Sint-Pietersnieuwstraat 23, 9000 Gent" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+#  - name: propose
+  - name: location
+  - name: registration
+  - name: program
+  - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+  - name: pictures
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Kris Buytaert"
+    twitter: "KrisBuytaert"
+    github: "KrisBuytaert"
+    linkedin: "https://www.linkedin.com/in/krisbuytaert"
+  - name: "Patrick Debois"
+    twitter: "patrickdebois"
+    github: "jedi4ever"
+    linkedin: "https://be.linkedin.com/in/patrickdebois"
+  - name: "Rudy Gevaert"
+    twitter: "rgevaert"
+    github: "rgevaert"
+    linkedin: "https://be.linkedin.com/in/rudygevaert/"
+  - name: "Stefan Goethals"
+    twitter: "zipkid"
+    github: "zipkid"
+    linkedin: "https://be.linkedin.com/in/zipkid"
+  - name: "Yves Hanoulle"
+    twitter: "YvesHanoulle"
+    github: "yveshanoulle"
+    linkedin: "https://be.linkedin.com/in/yveshanoulle"
+  - name: "Harm Boertien"
+    twitter: "Harm_Ops"
+    github: "HarmB"
+    linkedin: "https://nl.linkedin.com/in/harmboertien"
+  - name: "Yvo van Doorn"
+    twitter: "yvov"
+    github: "yvovandoorn"
+    linkedin: "https://nl.linkedin.com/in/yvovandoorn"
+  - name: "Mine Heck"
+    twitter: "Mine_Akman"
+    github: "mineheck"
+    linkedin: "https://nl.linkedin.com/in/mine-heck-85a2bb46"
+  - name: "Toshaan Bharvani"
+    twitter: "toshywoshy"
+    github: "toshywoshy"
+    linkedin: "https://www.linkedin.com/in/toshaan"
+
+
+
+organizer_email: "ghent@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-ghent-2019@devopsdays.org" # Put your proposal email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  # platinum
+  - id: redhat
+    level: platinum
+  - id: puppet
+    level: platinum
+  - id: sonatype
+    level: platinum
+  - id: vmware
+    level: platinum
+  - id: nutanix-before-20200127
+    level: platinum
+  # social
+  # gold
+  - id: pagerduty
+    level: gold
+  - id: googlecloud-before-20220526
+    level: gold
+  - id: hpe
+    level: gold
+  - id: rancher
+    level: gold
+  - id: sentia
+    level: gold
+  - id: elastic-before-20221004
+    level: gold
+  - id: chef-before-20210112
+    level: gold
+  - id: atlassian
+    level: gold
+  - id: jfrog
+    level: gold
+  - id: devoteam
+    level: gold
+  # lanyard
+  - id: sysdig-before-20200210
+    level: lanyard
+  # silver
+  - id: dpg-media
+    level: silver
+  - id: gitlab-before-20220516
+    level: silver
+  - id: cloudar
+    level: silver
+  - id: netways
+    level: silver
+  - id: sysdig-before-20200210
+    level: silver
+  - id: showpad
+    level: silver
+  - id: logz-before-20200211
+    level: silver
+  - id: hashicorp-before-20220811
+    level: silver
+  - id: pulumi-before-20220422
+    level: silver
+  # bronze
+  - id: inuits
+    level: bronze
+  - id: s0l1dheroes
+    level: bronze
+  - id: skyscrapers
+    level: bronze
+  - id: olindata
+    level: bronze
+  - id: axxes
+    level: bronze
+  - id: rudder
+    level: bronze
+  # community
+  - id: devops-amsterdam
+    level: community
+  # stickers
+  - id: stickermule
+    level: sticker
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: platinum
+    label: Platinum
+    max: 1
+  - id: gold
+    label: Gold
+    max: 8
+  - id: lanyard
+    label: Lanyard
+    max: 1
+  - id: silver
+    label: Silver
+    max: 8
+  - id: bronze
+    label: Bronze
+    max: 10
+  - id: community
+    label: Community
+  - id: sticker
+    label: Stickers
+
+program:
+# Day 1
+- title: Registration, Check In & Breakfast
+  type: custom
+  date: 2019-10-29
+  start_time: '8:00'
+  end_time: '9:00'
+
+- title: mine-heck-yvo-van-doorn
+  type: talk
+  date: 2019-10-29
+  start_time: '9:00'
+  end_time: '9:15'
+- title: patrick-debois-fun
+  type: talk
+  date: 2019-10-29
+  start_time: '9:15'
+  end_time: '9:30'
+- title: nigel-kersten
+  type: talk
+  date: 2019-10-29
+  start_time: '9:30'
+  end_time: '9:45'
+- title: joshua-zimmerman
+  type: talk
+  date: 2019-10-29
+  start_time: '9:50'
+  end_time: '10:05'
+- title: ken-mugrage-2
+  type: talk
+  date: 2019-10-29
+  start_time: '10:10'
+  end_time: '10:25'
+- title: chris-corriere
+  type: talk
+  date: 2019-10-29
+  start_time: '10:30'
+  end_time: '10:45'
+
+- title: Break
+  type: custom
+  date: 2019-10-29
+  start_time: '10:45'
+  end_time: '11:15'
+
+- title: ramon-van-alteren
+  type: talk
+  date: 2019-10-29
+  start_time: '11:25'
+  end_time: '11:40'
+- title: julie-gunderson
+  type: talk
+  date: 2019-10-29
+  start_time: '11:45'
+  end_time: '12:00'
+- title: daniel-maher
+  type: talk
+  date: 2019-10-29
+  start_time: '12:05'
+  end_time: '12:20'
+- title: sasha-rosenbaum
+  type: talk
+  date: 2019-10-29
+  start_time: '12:25'
+  end_time: '12:40'
+
+- title: Lunch
+  type: custom
+  date: 2019-10-29
+  start_time: '12:40'
+  end_time: '13:35'
+
+- title: matty-stratton
+  background_color: "#C4FFD7"
+  type: talk
+  date: 2019-10-29
+  start_time: '13:40'
+  end_time: '13:45'
+- title: ken-mugrage
+  background_color: "#C4FFD7"
+  type: talk
+  date: 2019-10-29
+  start_time: '13:45'
+  end_time: '13:50'
+- title: emanuil-tolev
+  background_color: "#C4FFD7"
+  type: talk
+  date: 2019-10-29
+  start_time: '13:50'
+  end_time: '13:55'
+- title: ant-stanley
+  background_color: "#C4FFD7"
+  type: talk
+  date: 2019-10-29
+  start_time: '13:55'
+  end_time: '14:00'
+
+- title: "Open Space Planning"
+  type: open-space
+  date: 2019-10-29
+  start_time: "14:00"
+  end_time: "15:00"
+- title: "Open Space Session - Day 1 - #1"
+  type: open-space
+  date: 2019-10-29
+  start_time: "15:00"
+  end_time: "15:30"
+- title: "Open Space Session - Day 1 - #2"
+  type: open-space
+  date: 2019-10-29
+  start_time: "15:35"
+  end_time: "16:05"
+- title: "Open Space Session - Day 1 - #3"
+  type: open-space
+  date: 2019-10-29
+  start_time: "16:10"
+  end_time: "16:40"
+
+- title: "Close Day in Theaterzaal"
+  type: custom
+  date: 2019-10-29
+  start_time: "16:45"
+  end_time: "17:00"
+
+- title: "Walking Dinner (Buffet)"
+  type: custom
+  date: 2019-10-29
+  start_time: "17:30"
+  end_time: "20:00"
+
+
+  # Day 2
+- title: Registration, Check In & Breakfast
+  type: custom
+  date: 2019-10-30
+  start_time: '9:00'
+  end_time: '9:30'
+
+- title: patrick-debois
+  type: talk
+  date: 2019-10-30
+  start_time: '9:30'
+  end_time: '9:45'
+- title: jody-wolfborn-kimball-johnson
+  type: talk
+  date: 2019-10-30
+  start_time: '9:50'
+  end_time: '10:05'
+- title: michael-ducy
+  type: talk
+  date: 2019-10-30
+  start_time: '10:10'
+  end_time: '10:25'
+
+- title: Break
+  type: custom
+  date: 2019-10-30
+  start_time: '10:30'
+  end_time: '11:10'
+
+- title: george-miranda
+  type: talk
+  date: 2019-10-30
+  start_time: '11:10'
+  end_time: '11:25'
+- title: bryan-liles
+  type: talk
+  date: 2019-10-30
+  start_time: '11:30'
+  end_time: '11:45'
+- title: jabe-bloom
+  type: talk
+  date: 2019-10-30
+  start_time: '11:50'
+  end_time: '12:05'
+- title: bridget-kromhout
+  type: talk
+  date: 2019-10-30
+  start_time: '12:10'
+  end_time: '12:25'
+
+- title: Lunch
+  type: custom
+  date: 2019-10-30
+  start_time: '12:30'
+  end_time: '13:25'
+
+- title: jason-yee
+  background_color: "#C4FFD7"
+  type: talk
+  date: 2019-10-30
+  start_time: '13:30'
+  end_time: '13:35'
+- title: blerim-sheqa
+  background_color: "#C4FFD7"
+  type: talk
+  date: 2019-10-30
+  start_time: '13:35'
+  end_time: '13:40'
+- title: eric-keller
+  background_color: "#C4FFD7"
+  type: talk
+  date: 2019-10-30
+  start_time: '13:40'
+  end_time: '13:45'
+- title: jj-asghar
+  background_color: "#C4FFD7"
+  type: talk
+  date: 2019-10-30
+  start_time: '13:45'
+  end_time: '13:50'
+
+
+- title: "Open Space Planning"
+  type: open-space
+  date: 2019-10-30
+  start_time: "14:00"
+  end_time: "15:00"
+- title: "Open Space Session - Day 2 - #1"
+  type: open-space
+  date: 2019-10-30
+  start_time: "15:00"
+  end_time: "15:30"
+- title: "Open Space Session - Day 2 - #2"
+  type: open-space
+  date: 2019-10-30
+  start_time: "15:35"
+  end_time: "16:05"
+- title: "Open Space Session - Day 2 - #3"
+  type: open-space
+  date: 2019-10-30
+  start_time: "16:10"
+  end_time: "16:40"
+
+- title: patrick-debois-andrew-clay-shafer
+  type: talk
+  date: 2019-10-30
+  start_time: '16:45'
+  end_time: '17:00'
+
+

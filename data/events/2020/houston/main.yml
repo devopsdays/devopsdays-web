@@ -1,0 +1,396 @@
+name: "2020-houston" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2020" # The year of the event. Make sure it is in quotes.
+city: "Houston" # The displayed city name of the event. Capitalize it.
+event_twitter: "DevOpsDaysHTown" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "While our 2020 event will no longer happen, we will return in 2021." # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2020-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2020-01-04T00:00:00+02:00
+#   variable: 2020-01-05T23:59:59+02:00
+# Note: we allow 2020-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate:
+enddate:
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start:
+cfp_date_end:
+cfp_date_announce:
+
+cancel: "true"
+
+cfp_open: "true"
+cfp_link: "https://www.papercall.io/devopsdayshouston2020" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: "2019-09-15T00:00:00-06:00" # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: "2020-08-18T00:00:00-05:00" # close registration. Leave blank if registration is not open yet.
+
+registration_closed:
+registration_link:
+sharing_image: "sharing.jpg"
+# Location
+#
+coordinates:
+location:
+#
+location_address: "816 Town and Country Blvd #210, Houston, TX 77024" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Binh Chau"
+    employer: "Cloud Partners"
+    twitter: ""
+    image: "binh.jpg"
+    bio: "Binh is a proven product leader that have launched a number of innovative products for top-tiered companies.  She has a track record of creating product strategy and actionable roadmaps and translating them into impactful products for consumers and enterprises."
+  - name: "Briana Egan"
+    employer: "Agile Leadership Network in Houston"
+    twitter: ""
+    image: "briana-egan.jpg"
+    bio: "Briana Egan is currently the Vice-President of the Agile Leadership Network in Houston (ALN).  When she is not busy with the ALN she is a ScrumMaster for a Cloud Technology DevOps Team.  Briana holds a Masters Degree from the University of Joensuu (joensuun yliopisto) in Finland."
+  - name: "Dan Collins"
+    employer: "American Bureau of Shipping"
+    linkedin: "https://www.linkedin.com/in/thedancollins/"
+    facebook: "https://www.facebook.com/realdancollins"
+    github: "thedancollins"
+    website: "http://thedancollins.com/"
+    twitter: "realdancollins"
+    image: "dan-collins.jpg"
+    bio: "Dan is the founder of DevOpsDays Houston, and a U of H graduate with over 20 years of experience in software and systems development. In the Microsoft-heavy world of Houston IT, he specializes in non-Microsoft technologies with an emphasis on lean methodology and automated software pipelines. Dan is a recovering, former advocate of embedded IT, a blockchain gadfly and has been leading the Houston DevOps Meetup since June 2017. The future is decentralized, distributed, renewable, sustainable and powered by Houston Texas."
+  - name: "Julia Ito"
+    employer: "Endurance Corporation"
+    linkedin: "https://www.linkedin.com/in/julia-ito-9983721/"
+    image: "julia-ito.jpg"
+    bio: "Julia is a Product Manager and technology passionate, who loves delivering solutions that matter faster and better."
+  - name: "Keegan Cotton"
+    employer: "Datadog"
+    linkedin: "https://www.linkedin.com/in/keegan-cotton-a6602b1/"
+    image: "keegan-cotton.jpg"
+    twitter: "keegancotton"
+    bio: "Keegan is an Senior Account Executive at Datadog.  Both a West Point graduate and London Business School alumnus, Keegan has a 20 year track record as a catalyst for both large and small organizations - helping them grow into new markets across several continents.  Keegan has led organizations both in and out of uniform, and helped those organizations refine and execute on their business technology strategies.  Native Texan.  DevOps enthusiast.  Avid learner.  Proud father and husband."
+  - name: "Reggie Davis"
+    employer: "Schlumberger"
+    twitter: "coolblknerd"
+    image: "reginald-davis.jpg"
+    linkedin: "https://www.linkedin.com/in/reginald-j-davis/"
+    bio: "Reggie is SRE for Schlumberger who has a passion for cloud-native application development through the use of tools like Kubernetes and Golang, as well as, improving the culture of technology by creating highly collaborative environments. Co-host of 'Coolest Nerds in the Room' podcast and co-founder of the meetup group, 'Tech for the Culture'"
+  - name: "Sagar Karmarkar"
+    employer: "Centric Consulting"
+    linkedin: "http://www.linkedin.com/in/vnvdevops"
+    twitter: "https://twitter.com/sagarvnvdevops"
+    image: "sagar-karmarkar.jpg"
+    bio: "Sagar Karmarkar is an Enterprise DevOps Evangelist with over 24 years of experience in Software Engineering, Software Change/Release Management, Software Testing, and IT Operations. Sagar has held senior technology roles at large enterprises such as Compuware, GE Healthcare, JP Morgan, Fidelity Investments, Home Depot, JCPenney and AIG. Sagar is currently a DevOps Architect at cPrime. He provides guidance to clients looking to move towards a DevOps or DevSecOps model. He is also a SAFe Program Consultant and provides training and guidance to technology teams around scaling Agile practices. He has lived in Katy, TX for the last 14 years and has two children that keep him on his toes."
+  - name: "Svetlana Kryukova"
+    employer: "Two Sigma Solutions"
+    linkedin: "https://www.linkedin.com/in/svetlana-kryukova/"
+    github: "skryukova"
+    image: "svetlana-kryukova.jpg"
+    bio: "Svetlana is a software development leader with over 20 years of experience in enterprise software. Passionate about building teams, creating new products and solving problems. Co-organizer of Houston DevOps Meetup since June 2018."
+
+organizer_email: "houston@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: gitlab-before-20220516
+    level: gold
+  - id: launch-darkly-before-20200828
+    level: gold
+  - id: twosigma-before-20230603
+    level: gold
+  - id: abs
+    level: corporate
+  - id: influxdata-before-20220629
+    level: platinum
+  - id: appdynamics-before-20220714
+    level: gold
+  - id: datadog
+    level: gold
+  - id: microsoft
+    level: platinum
+  - id: flightaware
+    level: bronze
+  - id: arundo
+    level: corporate
+  - id: improving
+    level: gold
+  - id: corva
+    level: corporate
+  - id: mongodb
+    level: gold
+ #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: arresteddevops
+    level: community
+  - id: solarwinds-before-20240105
+    level: platinum
+  - id: 42lines
+    level: gold
+  - id: decisiohealth
+    level: silver
+  - id: elastic-before-20221004
+    level: gold
+  - id: xmatters
+    level: platinum
+  - id: contrast_security-before-20221014
+    level: platinum
+  - id: houston-devops-meetup
+    level: community
+  - id: redis-labs
+    level: gold
+  - id: vmware-tanzu
+    level: gold
+  - id: dynatrace
+    level: gold
+
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: platinum
+    label: Platinum
+    max: 5
+  - id: gold
+    label: Gold
+    max: 15
+  - id: silver
+    label: Silver
+    max: 4
+  - id: bronze
+    label: Bronze
+    max: 0 # This is the same as omitting the max limit.
+  - id: corporate
+    label: Corporate
+  - id: community
+    label: Community
+program:
+  - title: "Registration, Breakfast, Sponsor Booths Open"
+    type: custom
+    date: 2020-08-18
+    start_time: "08:00"
+    end_time: "08:45"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2020-08-18
+    start_time: "08:45"
+    end_time: "09:15"
+    background_color: "#D0D0D0"
+  - title: "ernest-mueller"
+    type: talk
+    date: 2020-08-18
+    start_time: "09:15"
+    end_time: "10:00"
+  - title: "Sponsors"
+    type: custom
+    date: 2020-08-18
+    start_time: "10:00"
+    end_time: "10:15"
+    background_color: "#D0D0D0"
+  - title: "dan-zentgraf"
+    type: talk
+    date: 2020-08-18
+    start_time: "10:25"
+    end_time: "11:00"
+  - title: "patrick-poulin"
+    type: talk
+    date: 2020-08-18
+    start_time: "11:05"
+    end_time: "11:35"
+  - title: "angel-rivera"
+    type: workshop
+    date: 2020-08-18
+    start_time: "10:25"
+    end_time: "11:25"
+    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill"
+  - title: "Open Spaces Topic Selection"
+    type: open-space
+    date: 2020-08-18
+    start_time: "11:40"
+    end_time: "12:00"
+  - title: "Lunch, Visit Sponsor Booths"
+    type: "custom"
+    date: 2020-08-18
+    start_time: "12:00"
+    end_time: "13:00"
+  - title: "mark-scott"
+    type: talk
+    date: 2020-08-18
+    start_time: "13:00"
+    end_time: "13:35"
+  - title: "dan-lorenc"
+    type: talk
+    date: 2020-08-18
+    start_time: "13:40"
+    end_time: "14:15"
+  - title: "ana-margarita-medina"
+    type: workshop
+    date: 2020-08-18
+    start_time: "13:10"
+    end_time: "14:10"
+    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill"
+  - title: "Open Space Intro"
+    type: open-space
+    date: 2020-08-18
+    start_time: "14:20"
+    end_time: "14:25"
+  - title: "Open Space Session #1"
+    type: open-space
+    date: 2020-08-18
+    start_time: "14:25"
+    end_time: "14:55"
+  - title: "Open Space Session #2"
+    type: open-space
+    date: 2020-08-18
+    start_time: "15:00"
+    end_time: "15:30"
+  - title: "sabine-khan"
+    type: talk
+    date: 2020-08-18
+    start_time: "15:35"
+    end_time: "16:10"
+  - title: "julie-gunderson"
+    type: workshop
+    date: 2020-08-18
+    start_time: "15:35"
+    end_time: "16:35"
+    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill"
+  - title: "Ignite Talks:"
+    type: ignite
+    date: 2020-08-18
+    start_time: "16:45"
+    end_time: "17:15"
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2020-08-19
+    start_time: "08:00"
+    end_time: "08:45"
+  - title: "Opening Welcome Day 2"
+    type: custom
+    date: 2020-08-19
+    start_time: "08:45"
+    end_time: "09:15"
+    background_color: "#D0D0D0"
+  - title: "maria-f-oneill"
+    type: talk
+    date: 2020-08-19
+    start_time: "09:15"
+    end_time: "10:00"
+  - title: "Sponsors"
+    type: custom
+    date: 2020-08-19
+    start_time: "10:00"
+    end_time: "10:15"
+    background_color: "#D0D0D0"
+  - title: "michael-nir"
+    type: talk
+    date: 2020-08-19
+    start_time: "10:25"
+    end_time: "11:00"
+  - title: "jay-gordon"
+    type: workshop
+    date: 2020-08-19
+    start_time: "10:25"
+    end_time: "11:25"
+    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill"
+  - title: "paul-meharg"
+    type: talk
+    date: 2020-08-19
+    start_time: "11:05"
+    end_time: "11:35"
+  - title: "sarjeel-yusuf"
+    type: talk
+    date: 2020-08-19
+    start_time: "11:45"
+    end_time: "12:20"
+  - title: "eduardo-ruela"
+    type: workshop
+    date: 2020-08-19
+    start_time: "11:35"
+    end_time: "12:35"
+    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill"
+  - title: "Open Space Topic Selection"
+    type: open-space
+    date: 2020-08-19
+    start_time: "12:25"
+    end_time: "12:45"
+  - title: "Lunch, Visit Sponsor Booths"
+    type: "custom"
+    date: 2020-08-19
+    start_time: "12:50"
+    end_time: "13:35"
+  - title: "anjuan-simmons"
+    type: talk
+    date: 2020-08-19
+    start_time: "13:35"
+    end_time: "14:10"
+  - title: "jj-asghar"
+    type: talk
+    date: 2020-08-19
+    start_time: "14:10"
+    end_time: "14:40"
+  - title: "john-eldridge"
+    type: workshop
+    date: 2020-08-19
+    start_time: "13:45"
+    end_time: "14:45"
+    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill"
+  - title: "Open Space Intro"
+    type: open-space
+    date: 2020-08-19
+    start_time: "14:55"
+    end_time: "15:00"
+  - title: "Open Space Session #3"
+    type: open-space
+    date: 2020-08-19
+    start_time: "15:00"
+    end_time: "15:30"
+  - title: "Open Space Session #4"
+    type: open-space
+    date: 2020-08-19
+    start_time: "15:35"
+    end_time: "16:05"
+  - title: "jody-wolfborn"
+    type: workshop
+    date: 2020-08-19
+    start_time: "16:10"
+    end_time: "17:10"
+    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill"
+  - title: "Closing"
+    type: custom
+    date: 2020-08-19
+    start_time: "17:10"
+    end_time: "17:20"
+    background_color: "#D0D0D0"
+
+ignites:
+  - title: "tommy-adams"
+    date: "2020-08-18"
+  - title: "jeremy-meiss"
+    date: "2020-08-18"
+  - title: "dave-karow"
+    date: "2020-08-18"
+  - title: "diorge-tavares"
+    date: "2020-08-18"
+  - title: "joshua-kerchner"
+    date: "2020-08-18"
+  - title: "shaun-mouton"
+    date: "2020-08-18"
+  - title: "mathew-joshua"
+    date: "2020-08-18"
+  - title: "mark-hahn"
+    date: "2020-08-18"
+
+
+
+
+

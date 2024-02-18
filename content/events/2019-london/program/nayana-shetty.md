@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Monitoring Decoded, Why What and How? in 5 Ignite minutes"
 Type = "talk"
 Speakers = ["nayana-shetty"]
+Youtube = "L9MZfu7t24g"
 +++
 
 Some of the common question engineers have around monitoring are, “Why should

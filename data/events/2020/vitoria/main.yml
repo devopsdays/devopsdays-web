@@ -1,0 +1,331 @@
+name: "2020-vitoria" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2020" # The year of the event. Make sure it is in quotes.
+city: "Vitoria" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaysvix" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays is coming to Vitoria!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2020-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2020-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate:  2020-02-08T08:00:00-03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  2020-02-08T18:00:00-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2019-08-30T07:00:00-03:00  # start accepting talk proposals.
+cfp_date_end: 2019-11-15T07:24:00-03:00 # close your call for proposals.
+cfp_date_announce:  2020-01-10T12:00:00-03:00 # inform proposers of status
+
+cfp_open: "true"
+cfp_link: "https://www.papercall.io/devopsdaysvix20/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: # close registration. Leave blank if registration is not open yet.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "-20.2923283, -40.3018722" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Vitoria Grand Hall" # Defaults to city, but you can make it the venue name.
+#
+location_address: "R. Dr. João Carlos de Souza, 55 - Santa Luíza, Vitória - ES, 29045-410" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+ # - name: propose
+  - name: location
+ # - name: registration
+  - name: program
+  - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+  - name: meetups
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Giovani Balarini"
+    twitter: "GBalarini"
+    employer: "IT analyst"
+    bio: ""
+    github: ""
+    facebook: ""
+    linkedin: "https://br.linkedin.com/in/giovani-balarini-a4a25a86"
+    website: ""
+    image: "giovanibalarini.jpg"
+  - name: "Michelle Ribeiro"
+    twitter: "michelleribeiro"
+    employer: "Executive Manager"
+    bio: ""
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/michelleribeiro"
+    website: ""
+    image: "michellemazioli.jpg"
+  - name: "Gleydson Mazioli"
+    twitter: ""
+    employer: "Technology Manager"
+    bio: ""
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/gleydsonmazioli"
+    website: ""
+    image: "gleydsonmazioli.jpg"
+  - name: "Luiz Pinon"
+    twitter: "luiz_pinon"
+    employer: "Infrastructure Coordinator"
+    bio: ""
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/luizpinon"
+    website: ""
+    image: "luizpinon.jpg"
+  - name: "Rafaella Mazioli"
+    twitter: ""
+    employer: "relationship manager"
+    bio: ""
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/rafaella-mazioli-558bb2111"
+    website: ""
+    image: "rafaelamazioli.jpg"
+  - name: "Susilea Abreu"
+    twitter: ""
+    employer: "Information Systems and Computer Science Courses Coordinator"
+    bio: ""
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/susil%C3%A9a-abreu-20981124"
+    website: ""
+    image: "susileaabreu.jpg"
+  - name: "Vinicius Camatta"
+    twitter: ""
+    employer: "Head of Innovation at Viprede"
+    bio: ""
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/vinicius-camatta-stein-3a73203a/"
+    website: ""
+    image: "viniciuscamata.jpg"
+  - name: "Jakson Galeti"
+    twitter: "JaksonGaleti"
+    employer: "Head of Cloud Infrastructure"
+    bio: ""
+    github: "jaksongaleti"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/jaksongaleti/"
+    website: ""
+    image: "jacksongaleti.jpg"
+  - name: "João Victor Rocon Maia"
+    twitter: "jvrmaia"
+    employer: "Software Engineer and Informatic Master Degree candidate"
+    bio: ""
+    github: "jvrmaia"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/jvrmaia/"
+    website: ""
+    image: "joaomaia.jpg"
+
+
+organizer_email: "vitoria@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+#  - id: samplesponsorname
+#    level: gold
+# #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: linuxtips
+    level: community
+    url: https://www.linuxtips.io/
+  - id: spiritsec
+    level: gold
+    url: https://www.spiritsec.com/en/
+  - id: autoglass
+    level: gold
+  - id: atmansystems
+    level: gold
+  - id: lpi
+    level: gold
+  - id: redevitoria
+    level: gold
+  - id: guiafoca
+    level: community
+  - id: viprede
+    level: platinum
+  - id: globalsys
+    level: platinum
+  - id: picpay
+    level: platinum
+  - id: msazure
+    level: platinum
+  - id: manning
+    level: community
+  - id: digitalocean
+    level: community
+#  - id: picpay
+#    level: platinum
+#    url: https://www.picpay.com/
+  - id: aws
+    level: silver
+  - id: inflor
+    level: silver
+  - id: flexa
+    level: silver
+  - id: pag
+    level: silver
+  - id: clickativo
+    level: silver
+  - id: wine
+    level: silver
+  - id: globocom
+    level: silver
+#  - id: liftbank
+#    level: silver
+#    url: https://liftbank.com.br/
+#  - id: moveissimonetti
+#    level: community
+#  - id: pag
+#    level: community
+#  - id: uvv
+#    level: community
+#  - id: autoglass
+#    level: community
+#  - id: viprede
+#    level: community
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: platinum
+    label: Platinum
+  - id: gold
+    label: Gold
+##    max: 10
+  - id: silver
+    label: Silver
+#    max: 0 # This is the same as omitting the max limit.
+#  - id: bronze
+#    label: Bronze
+  - id: community
+    label: Community
+program:
+  - title: "Rock at the Beach - Barlavento (evento não oficial. Ingressos e consumação não inclusos no ingresso do DevOpsDays Vitória"
+    type: custom
+    date: 2020-02-07T08:00:00-03:00
+    start_time: "20:00"
+    end_time: "23:00"
+  - title: "Credenciamento"
+    type: custom
+    date: 2020-02-08T08:00:00-03:00
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Abertura"
+    type: custom
+    date: 2020-02-08T08:00:00-03:00
+    start_time: "09:00"
+    end_time: "09:30"
+  - title: "sasha-rosenbaum"
+    type: talk
+    date: 2020-02-08T08:00:00-03:00
+    start_time: "09:30"
+    end_time: "10:00"
+    background_color: "#AED6F1"
+  - title: "fernando-ike"
+    type: talk
+    date: 2020-02-08T08:00:00-03:00
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Coffee Break"
+    type: custom
+    date: 2020-02-08T08:00:00-03:00
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "monica-cachoni"
+    type: talk
+    date: 2020-02-08T08:00:00-03:00
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "camilla-martins"
+    type: talk
+    date: 2020-02-08T08:00:00-03:00
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "gleydson-mazioli"
+    type: talk
+    date: 2020-02-08T08:00:00-03:00
+    start_time: "12:00"
+    end_time: "12:30"
+  - title: "Almoço"
+    type: custom
+    date: 2020-02-08T08:00:00-03:00
+    start_time: "12:30"
+    end_time: "14:00"
+  - title: "marco-junior"
+    type: talk
+    date: 2020-02-08T08:00:00-03:00
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: "OpenSpace na prática"
+    type: custom
+    date: 2020-02-08T08:00:00-03:00
+    start_time: "14:30"
+    end_time: "15:30"
+  - title: "Coffee Break"
+    type: custom
+    date: 2020-02-08T08:00:00-03:00
+    start_time: "15:30"
+    end_time: "16:00"
+  - title: "rafael-gomes-gomex"
+    type: talk
+    date: 2020-02-08T08:00:00-03:00
+    start_time: "16:00"
+    end_time: "16:30"
+    background_color: "#AED6F1"
+  - title: "samanta-santos"
+    type: talk
+    date: 2020-02-08T08:00:00-03:00
+    start_time: "16:30"
+    end_time: "17:00"
+  - title: "yago-nobre"
+    type: talk
+    date: 2020-02-08T08:00:00-03:00
+    start_time: "17:00"
+    end_time: "17:30"
+  - title: "moises-margotto"
+    type: talk
+    date: 2020-02-08T08:00:00-03:00
+    start_time: "17:30"
+    end_time: "18:00"
+  - title: "jeferson-fernando"
+    type: talk
+    date: 2020-02-08T08:00:00-03:00
+    start_time: "18:00"
+    end_time: "18:30"
+    background_color: "#AED6F1"
+  - title: "Closing"
+    type: custom
+    date: 2020-02-08T08:00:00-03:00
+    start_time: "18:30"
+    end_time: "19:30"
+  - title: "Open Party"
+    type: custom
+    date: 2020-02-08T08:00:00-03:00
+    start_time: "20:00"
+    end_time: "22:00"
+  - title: "Praiana (Curva da Sereia, Praia da Costa)"
+    type: custom
+    date: 2020-02-09T08:00:00-03:00
+    start_time: "08:00"
+    end_time: "11:00"

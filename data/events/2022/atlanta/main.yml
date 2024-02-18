@@ -1,0 +1,390 @@
+name: "2022-atlanta" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2022" # The year of the event. Make sure it is in quotes.
+city: "Atlanta" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaysATL" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays is coming to the Georgia Aquarium, again!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2022-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2022-01-04T00:00:00+02:00 
+#   variable: 2022-01-05T23:59:59+02:00
+# Note: we allow 2022-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2022-04-19T08:00:00+02:00  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:   2022-04-20T16:00:00+02:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2021-11-24T08:00:00+02:00  # start accepting talk proposals.
+cfp_date_end: 2021-12-24T08:00:00+02:00  # close your call for proposals.
+cfp_date_announce:  # inform proposers of status
+
+cfp_link: "https://www.papercall.io/devopsdaysatl2022" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start:  2021-11-24T08:00:00+02:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end:  2022-04-15T08:00:00+02:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://devopsdaysatl-2022.eventbrite.com" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "The Georgia Aquarium" # Defaults to city, but you can make it the venue name.
+#
+location_address: "246 Ivan Allen Jr Blvd NW Atlanta, GA 30313" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+ # - name: propose
+  - name: location
+  - name: registration
+  - name: program
+  - name: speakers
+ # - name: sponsor
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "John Dyer"
+    image: "john-dyer.jpg"
+    twitter: "thedyers"
+
+  - name: "Andre Thenot"
+    image: "andre-thenot.jpg"
+    twitter: "athenot"
+
+  - name: "Claire Moss"
+    image: "claire-moss.jpg"
+    twitter: "aclairefication"
+
+  - name: "Ravi Lachhman"
+    image: "ravi-lachhman.jpg"
+    twitter: "ravilach"
+
+organizer_email: "atlanta@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: coxautomotive
+    level: platinum
+  - id: jfrog
+    level: platinum
+  - id: harness
+    level: gold
+  - id: instana
+    level: gold
+  - id: pagerduty
+    level: gold
+  - id: contrast_security
+    level: gold
+  - id: appdynamics-before-20230221
+    level: gold
+  - id: vmware-tanzu
+    level: gold
+  - id: armory
+    level: gold
+  - id: styra
+    level: gold
+  - id: redhat
+    level: gold
+  - id: dynatrace
+    level: gold
+  - id: twingate
+    level: gold
+  - id: env0
+    level: gold
+  - id: aviatrix
+    level: gold
+  - id: erasoftware
+    level: gold
+  - id: coralogix
+    level: gold
+  - id: granulate-before-20230209
+    level: gold
+  - id: roostai
+    level: gold
+  - id: capitalone
+    level: gold
+  - id: progresschef
+    level: gold
+
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: platinum
+    label: Platinum
+  - id: gold
+    label: Gold
+
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2022-04-19
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2022-04-19
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "Sponsors"
+    type: custom
+    date: 2022-04-19
+    start_time: "09:15"
+    end_time: "09:25"
+  - title: "crux-conception"
+    type: talk
+    date: 2022-04-19
+    start_time: "09:25"
+    end_time: "09:55"
+    background_color: "#abebff"
+  - title: "Break - divide room into tracks - visit sponsors"
+    type: custom
+    date: 2022-04-19
+    start_time: "09:55"
+    end_time: "10:25"
+  
+  - title: "noam-salinger"
+    type: talk
+    date: 2022-04-19
+    start_time: "10:25"
+    end_time: "10:55"
+    background_color: "#d5c5ef"
+  - title: "waldo-grunenwald"
+    type: talk
+    date: 2022-04-19
+    start_time: "10:25"
+    end_time: "10:55"
+    background_color: "#fffa99"
+  - title: "lesley-cordero"
+    type: talk
+    date: 2022-04-19
+    start_time: "10:25"
+    end_time: "10:55"
+    background_color: "#8ad0d3"
+  
+  - title: "rishi-yadav"
+    type: talk
+    date: 2022-04-19
+    start_time: "10:55"
+    end_time: "11:25"
+    background_color: "#d5c5ef"
+  - title: "peter-oneill"
+    type: talk
+    date: 2022-04-19
+    start_time: "10:55"
+    end_time: "11:25"
+    background_color: "#fffa99"
+  - title: "jared-jordan"
+    type: talk
+    date: 2022-04-19
+    start_time: "10:55"
+    end_time: "11:25"
+    background_color: "#8ad0d3"
+  
+
+  - title: "Break - rejoin rooms - visit sponsors"
+    type: custom
+    date: 2022-04-19
+    start_time: "11:25"
+    end_time: "11:55"
+  - title: "Sponsors"
+    type: custom
+    date: 2022-04-19
+    start_time: "11:55"
+    end_time: "12:05"
+  - title: "amber-vanderburg"
+    type: talk
+    date: 2022-04-19
+    start_time: "12:05"
+    end_time: "12:35"
+    background_color: "#abebff"
+  - title: "Lunch"
+    type: custom
+    date: 2022-04-19
+    start_time: "12:35"
+    end_time: "13:35"
+  - title: "Ignites"
+    type: ignite
+    date: 2022-04-19
+    start_time: "13:35"
+    end_time: "14:05"
+
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2022-04-19
+    start_time: "14:05"
+    end_time: "14:35"
+    custom_url: "/pages/open-space-format"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2022-04-19
+    start_time: "14:35"
+    end_time: "15:15"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2022-04-19
+    start_time: "15:15"
+    end_time: "15:55"
+  - title: "Open Space #3: Visit the Aquarium"
+    type: open-space
+    date: 2022-04-19
+    start_time: "16:00"
+    end_time: "16:45"
+    custom_url: "https://www.georgiaaquarium.org/wp-content/uploads/2022/02/Email_Brand-Anthem_01.47.mp4"
+  - title: "Evening event at Hudson Grille Downtown"
+    type: custom
+    date: 2022-04-19
+    start_time: "18:00"
+    end_time: "late"
+    custom_url: "https://hudsongrille.com/atlanta-hudson-grille-midtown-locations"
+    
+
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2022-04-20
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2022-04-20
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "Sponsors"
+    type: custom
+    date: 2022-04-20
+    start_time: "09:15"
+    end_time: "09:25"
+  - title: "valarie-regas"
+    type: talk
+    date: 2022-04-20
+    start_time: "09:25"
+    end_time: "09:55"
+    background_color: "#abebff"
+  - title: "Break - divide room into tracks - visit sponsors"
+    type: custom
+    date: 2022-04-20
+    start_time: "09:55"
+    end_time: "10:25"
+
+  - title: "martin-rojas"
+    type: talk
+    date: 2022-04-20
+    start_time: "10:25"
+    end_time: "10:55"
+    background_color: "#d5c5ef"
+  - title: "rob-richardson"
+    type: talk
+    date: 2022-04-20
+    start_time: "10:25"
+    end_time: "10:55"
+    background_color: "#fffa99"
+  - title: "ajuna-kyaruzi"
+    type: talk
+    date: 2022-04-20
+    start_time: "10:25"
+    end_time: "10:55"
+    background_color: "#8ad0d3"
+  
+  
+  - title: "brooks-townsend"
+    type: talk
+    date: 2022-04-20
+    start_time: "10:55"
+    end_time: "11:25"
+    background_color: "#d5c5ef"
+  - title: "brandy-griffin"
+    type: talk
+    date: 2022-04-20
+    start_time: "10:55"
+    end_time: "11:25"
+    background_color: "#fffa99"
+  - title: "rain-leander"
+    type: talk
+    date: 2022-04-20
+    start_time: "10:55"
+    end_time: "11:25"
+    background_color: "#8ad0d3"
+  
+
+  - title: "Break - rejoin rooms - visit sponsors"
+    type: custom
+    date: 2022-04-20
+    start_time: "11:25"
+    end_time: "11:55"
+  - title: "Sponsors"
+    type: custom
+    date: 2022-04-20
+    start_time: "11:55"
+    end_time: "12:05"
+  - title: "david-laribee"
+    type: talk
+    date: 2022-04-20
+    start_time: "12:05"
+    end_time: "12:35"
+    background_color: "#abebff"
+  - title: "Lunch"
+    type: custom
+    date: 2022-04-20
+    start_time: "12:35"
+    end_time: "13:35"
+  - title: "Ignites"
+    type: ignite
+    date: 2022-04-20
+    start_time: "13:35"
+    end_time: "14:05"
+
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2022-04-20
+    start_time: "14:05"
+    end_time: "14:35"
+    custom_url: "/pages/open-space-format"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2022-04-20
+    start_time: "14:35"
+    end_time: "15:15"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2022-04-20
+    start_time: "15:15"
+    end_time: "15:55"
+  - title: "Open Space #3: Visit the Aquarium"
+    type: open-space
+    date: 2022-04-20
+    start_time: "16:00"
+    end_time: "16:45"
+    custom_url: "https://www.georgiaaquarium.org/wp-content/uploads/2019/02/Email_Brand-Anthem_01.47.mp4"
+
+ignites:
+  - title: "ravi-lachhman"
+    date: 2022-04-19
+  - title: "jade-west"
+    date: 2022-04-19
+  - title: "kirti-sanchana"
+    date: 2022-04-19
+  - title: "cassie-parlotto"
+    date: 2022-04-19
+  - title: "waldo-grunenwald-ignite"
+    date: 2022-04-19
+  
+  - title: "amitai-romanelli"
+    date: 2022-04-20
+  - title: "chris-gruel"
+    date: 2022-04-20
+  - title: "rob-gordick"
+    date: 2022-04-20
+  - title: "manjula-subramanian"
+    date: 2022-04-20
+  - title: "tonya-jackson"
+    date: 2022-04-20
