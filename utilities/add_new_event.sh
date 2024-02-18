@@ -50,7 +50,7 @@ fi
 mkdir -p ../data/events/$year/$city_slug
 # Create default event datafile
 eventdatafile="../data/events/$year/$city_slug/main.yml"
-cp examples/data/events/yyyy-city.yml $eventdatafile
+cp examples/data/events/main.yml $eventdatafile
 
 sedcmd "s/YYYY/$year/" $eventdatafile
 sedcmd "s/City/$city/" $eventdatafile
