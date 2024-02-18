@@ -1,2 +1,2 @@
-{{- $e := (index $.Site.Data.events (index (split ($.Page.Permalink | relURL) "/") 2)) -}}
+{{- $e := partial "functions/get-event-data" . -}}
 <a href='mailto:{{ $e.proposal_email }}?subject={{ .Get "subject"}}'>{{ $e.proposal_email }}</a>

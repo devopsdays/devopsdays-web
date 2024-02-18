@@ -72,7 +72,7 @@ else
   echo "Set the sponsor logo at ../static/img/sponsors/$sponsor_slug.png before submitting PR."
 fi
 
-echo "Add this to ../data/events/"$event_slug".yml under sponsors:"
+echo "Add this to ../data/events/"$year"/"$city_slug"/main.yml under sponsors:"
 echo "  - id:" $sponsor_slug
 echo "    level: theirlevel"
 

@@ -1,4 +1,4 @@
-{{- $e := (index $.Site.Data.events (index (split ($.Page.Permalink | relURL) "/") 2)) -}}
+{{- $e := partial "functions/get-event-data" . -}}
 {{- $url := index $e (.Get "url-key") | default (printf "/events/%s/%s" $e.name (.Get "page")) -}}
 {{- $txt := index $e (.Get "text-key") | default (.Get "text") -}}
 

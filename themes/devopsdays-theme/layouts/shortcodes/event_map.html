@@ -1,4 +1,4 @@
-{{- $e := (index $.Site.Data.events (index (split ($.Page.Permalink | relURL) "/") 2)) -}}
+{{- $e := partial "functions/get-event-data" . -}}
 {{- $coords := split $e.coordinates "," -}}
 {{- $lat := index $coords 0 -}}
 {{- $lng := index $coords 1 -}}

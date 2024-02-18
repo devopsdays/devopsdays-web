@@ -1,4 +1,4 @@
-{{- $e := (index $.Site.Data.events (index (split ($.Page.Permalink | relURL) "/") 2)) -}}
+{{- $e := partial "functions/get-event-data" . -}}
   {{- if $e.team_members -}}
 <div class="row" style="width:100%">
       {{- range $e.team_members -}}
@@ -13,7 +13,7 @@
               {{ end }}
             </div>
             {{- if .image -}}
-              <img class="card-img-top organizer-image" src="{{ (printf "/events/%s/organizers/%s" $e.name .image) }}" alt="{{ .name }}">
+              <img class="card-img-top organizer-image" src='{{ (printf "/events/%s/organizers/%s" $e.name .image) }}' alt="{{ .name }}">
             {{- end -}}
             <div class = "card-block">
               {{- if .employer -}}

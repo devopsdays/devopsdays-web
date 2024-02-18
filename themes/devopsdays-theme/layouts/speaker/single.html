@@ -1,7 +1,6 @@
 {{ define "main" }}
 
-{{- $e := (index $.Site.Data.events (index (split (.Permalink | relURL) "/") 2)) -}}
-
+{{- $e := partial "functions/get-event-data" . -}}
 <div class = "row">
   <div class = "col-md-12 offset-md-1">
     <h2 class="speaker-page">{{ .Title }}</h2>
@@ -16,6 +15,9 @@
      <h3>{{ .Title }} at {{ $e.city }} {{$e.year}}</h3>
           <ul class="list-group">
             {{- $.Scratch.Set "speaker" .File.BaseFileName -}}
+            {{ if eq $e.name nil }}
+              {{ errorf "Nil name on %s" .Permalink }}
+            {{ end }}
             {{ if (where (readDir (printf "content/events/%s/" $e.name)) "Name" "program") }}
             {{ range os.ReadDir (printf "content/events/%s/program/" $e.name) }}
             {{ $filename :=  (printf "/events/%s/program/%s" $e.name  .Name) }}
@@ -41,10 +43,10 @@
   <div class = "col-md-3 offset-md-1">
     {{- with .Params.image -}}
       {{- if ne . "" -}}
-        <img src = "{{ (printf "/events/%s/speakers/%s" $e.name .) }}" class="img-fluid" alt="{{ $.Title }}"/><br />
+        <img src = '{{ (printf "/events/%s/speakers/%s" $e.name .) }}' class="img-fluid" alt="{{ $.Title }}"/><br />
       {{- end -}}
       {{- else -}}
-        <img src = {{ "/img/speaker-default.jpg"}} class="img-fluid"  alt="{{ .Title }}"/><br />
+        <img src = "/img/speaker-default.jpg" class="img-fluid" alt="{{ .Title }}"/><br />
     {{- end -}}
     {{- if isset .Params "twitter" -}}
       {{- if ne .Params.twitter "" -}}

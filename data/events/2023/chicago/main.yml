@@ -1,0 +1,192 @@
+name: "2023-chicago" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2023" # The year of the event. Make sure it is in quotes.
+city: "Chicago" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdayschi" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays is coming to Chicago!" # Edit this to suit your preferences
+ga_tracking_id: "UA-74738648-1" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2023-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2023-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2023-08-09T00:00:00-05:00
+enddate: 2023-08-10T17:00:00-05:00
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2023-01-09T00:00:00-05:00 # start accepting talk proposals.
+cfp_date_end: 2023-03-17T00:00:00-05:00 # close your call for proposals.
+cfp_date_announce: 2023-04-14T00:00:00-05:00 # inform proposers of status
+
+cfp_link: "https://chicago-proposals.devopsdays.org/devopsdays-chicago-2023/cfp" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: 2023-02-07T00:00:00-05:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2023-08-09T00:00:00-05:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+masthead_background: "skyline-night.jpg"
+sharing_image: "chi-sharing.png"
+# Location
+#
+coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Chicago" # Defaults to city, but you can make it the venue name.
+#
+location_address: "233 S Wacker Dr, Chicago, IL 60606" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+#  - name: propose
+  - name: location
+  - name: registration
+  - name: program
+  - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+#  - name: volunteer
+  - name: Health and Safety Policy
+    url: /events/2023-chicago/covid
+  - name: Guide to Chicago
+    url: /events/2023-organizer-summit/guide-to-chicago
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Matt Stratton"
+    image: "matt-stratton.jpg"
+    twitter: "mattstratton"
+    website: "https://www.mattstratton.com"
+    linkedin: "https://www.linkedin.com/in/mattstratton"
+    github: "mattstratton"
+    mastodon: "https://hachyderm.io/@mattstratton"
+    bio: "Matt Stratton is the founder and co-host of the popular [Arrested DevOps](https://www.arresteddevops.com/) podcast and the global chair of the [DevOpsDays](https://www.devopsdays.org/) set of conferences. Matt has over 20 years of experience in IT operations and  is a sought-after speaker internationally, presenting at Agile, DevOps, and cloud engineering focused events worldwide. Demonstrating his keen insight into the changing landscape of technology, he recently changed his license plate from `DEVOPS` to `KUBECTL`. He lives in Chicago and has three awesome kids, whom he loves just a little bit more than he loves Diet Coke. Matt is the keeper of the Thought Leaderboard for the [DevOps Party Games](https://devopspartygames.com) online game show and  you can find him on Twitter at [@mattstratton](https://twitter.com/mattstratton)."
+  - name: "Kevin Reedy"
+    image: "kevin-reedy.jpg"
+    twitter: "kevinreedy"
+    website: "https://kevinreedy.net"
+    linkedin: "https://www.linkedin.com/in/kevinreedy"
+    github: "kevinreedy"
+    bio: "Kevin Reedy is engineer from Chicago, currently working for GitHub as a Customer Success Architect. He also founded RecRec, where he uses technology to help build communities in recreation sports groups. In his free time, you'll find him Playing Shuffleboard (the kind you'd expect to see on a cruise ship), Cycling, and Cooking."
+    mastodon: "https://hachyderm.io/@kevinreedy"
+  - name: "Brian Andersen"
+    employer: "Basis"
+    bio: "Brian Andersen is a Senior Systems Engineer at Basis.  In his free time he plays (possibly) an unhealthy amount of games, both of the video and board variety. He also has really enjoys visiting cities with zoos in them."
+    linkedin: "https://www.linkedin.com/in/brian-andersen-9a16587"
+    image: "brian-andersen.jpg"
+  - name: "Albert Cheung"
+    linkedin: "http://www.linkedin.com/in/albcheung"
+    image: "albert-cheung.jpg"
+    bio: "Albert Cheung works in support for a financial institution dealing with production issues and change management. In his free time, he likes to: sail, play pickleball, visit friends outside of Chicago and brew kombucha."
+  - name: "Joshua Goldman"
+    image: "josh-goldman.jpg"
+    bio: "Josh Goldman is a Site Reliability Engineer at Packet Host Inc, a bare metal cloud provider.  He's learning to be a pythonista and a terraform guru.  Previous endeavors include being a Site Reliability Engineer at SecureWorks as well as an SRE Manager, a mid sized Managed Security Service Provider.  In his non work life he volunteers at PAWS Chicago as a Dog Handler and a Adoption Counselor."
+    github: "macgyverops"
+    linkedin: "https://www.linkedin.com/in/joshuamgoldman"
+  - name: "Trevor Hess"
+    twitter: "trevorghess"
+    image: "trevor-hess.jpg"
+    employer: "Chef Software, Inc"
+    bio: "Trevor Hess is a Partner Solution Architect focusing on Microsoft at Chef Software, working with Microsoft to ensure that Chef is delighting customers and prospects on Windows and the many parts inside Azure! Coming from a background in .NET Software Development and consulting, he has worked with several large multinational organizations to help kick start their journey to the cloud and the world of DevOps practices and principals. He is excited to engage in new experiences, and learning opportunities. Trevor enjoys having hearty discussions about DevOps as well organizational change and transformation."
+  - name: "Chris Read"
+    employer: "Aquatic"
+    bio: "I help developers understand the environments they are developing for, and helps infrastructure people build better systems. Specialties are Unix (any flavour), scripting and networking. I've done time as a Developer and as a Sys Admin, but now I am both..."
+    image: "chris-read.jpg"
+    linkedin: "https://www.linkedin.com/in/devopscread/"
+    twitter: "cread"
+    github: "cread"
+    role: "Advisory"
+  - name: "Dexter Horthy"
+    employer: "Replicated"
+    bio: "Dex has been hacking on cloud native tech at Replicated for over 5 years now. When he's not collaborating with software teams or deploying his blog on Kubernetes, he enjoys overcomplicated dinner prep and running the Chicago lakefront."
+    image: "dexter-horthy.jpg"
+    linkedin: "https://linkedin.com/in/dexterihorthy"
+    twitter: "dexhorthy"
+    github: "dexhorthy"
+  - name: "Corey Ward"
+    employer: "Relativity"
+    twitter: "CoreyWardCS"
+    linkedin: "https://www.linkedin.com/in/corey-ward-508ab63a/"
+    bio: "Corey Ward is a Senior Software Engineer at Relativity. He is a father of two children. He loves talking to people. In his free time, Corey reads fantasy novels, plays Beat Saber and loses in Horizon World's Arena Clash."
+    image: "corey-ward.jpg"
+  - name: "Brian Devlin"
+    employer: "Hyatt Hotels"
+    twitter: "nilved"
+    image: "brian-devlin.jpg"
+    bio: "Brian Devlin is (presumably) a human who enjoys activities of various natures. Brian is a father who lives in the suburbs. He enjoys board games and beverages, in no specific order. He may or may not have a shadow Twitter account. He tweets only during warm weather. Once, Brian vaulted over the Chicago River, but that could have been in his imagination. Brian invented DevOps, but not the DevOps you know."
+  - name: "Christian Herro"
+    twitter: "christianherro"
+    image: "christian-herro.jpg"
+    employer: "Morningstar"
+    twitter: "christianherro"
+    linkedin: "https://www.linkedin.com/in/christianherro/"
+    github : "christianherro"
+    bio: "Christian Herro manages an SRE team at Morningstar. He co-founded the Madison WI devops meetup and devopsdays MSN. In his free time (pandemic permitting), he enjoys dancing, board games, live music, eating all of the foods, and spending far too much time thinking about Babylon 5."
+  - name: "Margaret Valtierra"
+    image: "margaret-valtie.jpg"
+    employer: "Morningstar"
+    twitter: "margaretvaltie"
+    linkedin: "https://www.linkedin.com/in/margaretvaltierra/"
+    github: "margaretvaltie"
+    bio: "Margaret Valtierra is a Program Manager at Morningstar. She runs the AWS Chicago user group, AWS Community Day Midwest, and is a global core organizer for the AWS Community Days. When not at work she can usually be found at the dog park with her dog, Peanut."
+    role: "Advisory"
+  - name: "Sasha Rosenbaum"
+    image: "sasha-rosenbaum.jpg"
+    employer: "Red Hat"
+    twitter: "DivineOps"
+    website: "https://www.sasharosenbaum.com/"
+    linkedin: "https://www.linkedin.com/in/sasha-rosenbaum"
+    bio: "Sasha is a Sr. Manager on the Managed OpenShift Black Belt (MOBB) team at Red Hat, where she is helping enterprise customers successfully migrate to managed OpenShift on customers' favorite public cloud. In her career, Sasha has worked in development, operations, consulting, and cloud architecture. Sasha is an organizer of DevOpsDays Chicago, a chair of DeliveryConf, and a published author."
+    github: "DivineOps"
+    role: "Advisory"
+  - name: "Hari Vedam"
+    employer: "Discover"
+    bio: "Hari Vedam is a cloud engineer.  He is an avid technologist.    His experience includes IT architecture, front-end development, and public + private cloud. When he is not playing with the cloud, his free time includes cooking, reading, and watching movies, especially Marvel."
+    image: "hari-vedam.jpg"
+    linkedin: "https://www.linkedin.com/in/hariv82"
+    twitter: "HariVedam"
+    github: "harushimo"
+  - name: "Jerry Cattell"
+    twitter: "jcattell"
+    image: "jerry-cattell.jpg"
+    bio: "Jerry Cattell is the Director of Technical Operations for [Tempus](https://www.tempus.com/) and a co-organizer of the [DevOps Chicago meetup group](http://meetup.com/devops). In his free time, Jerry enjoys traveling, reading, and playing with new technologies."
+    linkedin: "https://www.linkedin.com/in/jerrycattell"
+    role: "Advisory"
+  - name: "Jeff Smith"
+    employer: "Centro"
+    bio: "Jeff Smith has been in the technology industry for over 20 years, oscillating between management and individual contributor. Jeff currently serves as the Director of Production Operations for Centro, an advertising software company headquartered in Chicago, Illinois. Before that he served as the Manager of Site Reliability Engineering at Grubhub.
+      
+    Jeff is passionate about DevOps transformations in organizations large and small, with a particular interest in the psychological aspects of problems in companies. He lives in Chicago with his wife Stephanie and their two kids Ella and Xander.
+      
+    Jeff is the author of the Manning publishing book, *Operational Anti-Patterns with DevOps Solutions*. He is also the chapter president of Blacks in Technology, where he strives to introduce the community to the different opportunities in the technology field."
+    image: "jeff-smith.jpg"
+    twitter: "darkandnerdy"
+    website: "http://www.allthingsdork.com/"
+    role: "Advisory"
+
+organizer_email: "chicago@devopsdays.org" # Put your organizer email address here
+
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" lin
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: platinum
+    label: Platinum
+    max: 2
+  - id: gold
+    label: Gold
+    max: 10 # This is the same as omitting the max limit
+  - id: bronze
+    label: Bronze
+    max: 1
+  - id: community
+    label: Community
+  - id: transcription
+    label: "Live Transcription"
+    max: 1

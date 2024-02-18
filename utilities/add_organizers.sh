@@ -103,7 +103,7 @@ fi
 	cat "$OUT"
      ;;
      3)
-     echo "Add to ../data/events/$event_slug.yml under team_members: "
+     echo "Add to ../data/events/$year/$city_slug/main.yml under team_members: "
      cat "$OUT"
      break
      ;;

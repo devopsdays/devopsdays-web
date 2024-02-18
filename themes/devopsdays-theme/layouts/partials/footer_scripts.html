@@ -7,7 +7,7 @@
 {{- if .IsPage -}}
 
   {{ if eq (index (split (.Permalink | relURL) "/") 1) "events" }}
-    {{- $e := (index $.Site.Data.events (index (split (.Permalink | relURL) "/") 2)) -}}
+    {{- $e := partial "functions/get-event-data" . -}}
     {{- if $e.event_twitter -}}
       {{- if ne $e.event_twitter "" -}}
         {{- $.Scratch.Set "twitter_handle" $e.event_twitter -}}

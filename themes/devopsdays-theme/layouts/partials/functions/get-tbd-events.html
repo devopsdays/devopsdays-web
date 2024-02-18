@@ -1,0 +1,15 @@
+{{ $upcoming := slice }}
+{{- range $k, $v := $.Site.Data.events -}}
+  {{- range $ck, $cv := . -}}
+    {{- range $ck2, $cv2 := . -}}
+        {{ if eq $ck2 "main" }}
+            {{- if not .startdate -}}
+                {{- if ne .cancel "true" -}}
+                    {{ $upcoming = append . $upcoming  }}
+                {{- end -}}
+            {{- end -}}
+        {{- end -}} 
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{ return $upcoming }}

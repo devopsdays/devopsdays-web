@@ -1,0 +1,89 @@
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: site24x7
+    level: platinum
+  - id: newrelic
+    level: platinum
+  - id: discover
+    level: platinum
+  - id: acorn
+    level: gold
+  - id: appdynamics
+    level: gold
+  - id: britive
+    level: gold
+  - id: circleci
+    level: gold
+  - id: cloudbees
+    level: gold
+  - id: dell-technologies
+    level: gold
+  - id: gitlab
+    level: gold
+  - id: googlecloud
+    level: gold
+  - id: launch-darkly
+    level: gold
+  - id: kosli
+    level: gold
+  - id: mezmo
+    level: gold
+  - id: nobl9
+    level: gold
+  - id: observeinc
+    level: gold
+  - id: postman
+    level: gold
+  - id: puppet-by-perforce
+    level: gold
+  - id: relativity
+    level: gold
+  - id: roostai
+    level: gold
+  - id: sleuth
+    level: gold
+  - id: spot-by-netapp
+    level: gold
+  - id: sumologic
+    level: gold
+  - id: tailscale
+    level: gold
+  - id: temporal
+    level: gold
+  - id: transition-technologies
+    level: gold
+  - id: trendmicro
+    level: gold
+  - id: zesty
+    level: gold
+  - id: cloudeq-virtana
+    level: gold
+  - id: honeycomb
+    level: bronze
+  - id: aspire-systems
+    level: bronze
+  - id: redhat
+    level: bronze
+  - id: clickhouse
+    level: bronze
+  - id: webriot
+    level: bronze
+ #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: arresteddevops
+    level: community
+  - id: wemakedevs
+    level: community
+  - id: awschicago_ugroup
+    level: community
+  - id: chicago-devops
+    level: community
+  - id: microsoft-teals
+    level: community
+  - id: bit-chicago
+    level: community
+  - id: nixos
+    level: community
+  - id: sym
+    level: transcription
+    

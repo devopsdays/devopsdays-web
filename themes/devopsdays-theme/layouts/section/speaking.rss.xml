@@ -18,11 +18,12 @@
 <language>en-us</language>
 <copyright>Copyright 2016-2017 devopsdays</copyright>
 <generator>Hugo -- gohugo.io</generator>
-{{- range sort $.Site.Data.events "startdate" -}}
-  {{- if .startdate -}}
-    {{- if ge (time .enddate) now -}}
-      {{ if .cfp_date_end }}
-        {{ if ge (time .cfp_date_end) now }}
+{{- $upcoming := slice -}}
+{{- $upcoming = partial "functions/get-upcoming-events" . -}}
+
+{{- range sort $upcoming "startdate" -}}
+  {{- if (and .cfp_date_end .cfp_date_end) -}}
+    {{- if and (ge now (time .cfp_date_start)) (ge (time .cfp_date_end) now) -}}
         <item>
           <title>devopsdays {{ .city }} {{ .year }}</title>
           <link>{{ (printf "events/%s" .name) }}</link>
@@ -39,9 +40,7 @@
           {{ end }}
 
         </item>
-                {{ end }}
-    {{ end }}
-    {{ end }}
+      {{ end }}
   {{ end }}
 {{ end }}
 
