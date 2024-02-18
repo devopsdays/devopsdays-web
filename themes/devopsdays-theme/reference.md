@@ -410,3 +410,8 @@ Returns the end date of registration for your event
 ```
 {{< registration_end >}}
 ```
+### event_map
+If you have `location_address` set in your datafile, this will return a Google Map of that address
+```
+{{< event_map >}}
+```

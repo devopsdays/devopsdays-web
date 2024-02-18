@@ -3,7 +3,20 @@
 {{- $lat := index $coords 0 -}}
 {{- $lng := index $coords 1 -}}
 
+{{- with $e.location_address -}}
+<iframe
+  width="450"
+  height="250"
+  frameborder="0" style="border:0"
+  referrerpolicy="no-referrer-when-downgrade"
+  src='https://www.google.com/maps/embed/v1/place?key={{ $.Site.Params.GoogleMapsAPI }}&q={{ replace $e.location_address " " "+"}}' allowfullscreen>
+</iframe>
+{{- end -}}
+
+
+<!--
 <div id="map_canvas" style="width: 550px; height: 265px"></div>
+
 
 <script type="text/javascript" language="javascript">
   function initMap() {
@@ -29,3 +42,4 @@
 </script>
 
 <script type="text/javascript" src="https://maps-api-ssl.google.com/maps/api/js?key=AIzaSyC1bvNK9qFJGEhoWNbQuojmJJ1Tg0DoOew"></script>
+-->
