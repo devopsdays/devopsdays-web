@@ -101,6 +101,12 @@ team_members: # Name is the only required field for team members.
     bio: "Amplo conhecimento e experiência profissional em desenvolvimento web, com conhecimento em diversas ferramentas e linguagens, facilidade no aprendizado e alto foco. Atualmente atua como Engenheiro de Software, Mentor e Professor."
     image: "daniel-rodrigues.jpeg"
 
+  - name: "Felipe Rocha"
+    employer: "DevOps Lead at BCG "
+    linkedin: "https://linkedin.com/in/felipefonsecarocha"
+    bio: "Curioso e entusiasta da ciência. Programador por profissão e por hobby. Curtindo a vibe DevOps. Fã de anime. Core goal learn as much as possible!"
+    image: "felipe-rocha.jpeg"
+    
 organizer_email: "belo-horizonte@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
