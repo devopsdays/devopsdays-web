@@ -4,7 +4,7 @@ city: "Detroit" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysdet" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "While our 2022 event will no longer happen, we will return in 2023." # Edit this to suit your preferences
 ga_tracking_id: "UA-94092408-1" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
-cancel: true
+cancel: "true"
 
 # All dates are in unquoted 2022-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00
