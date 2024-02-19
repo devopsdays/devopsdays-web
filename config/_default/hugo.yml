@@ -1,6 +1,7 @@
 theme: devopsdays-theme
 baseURL: https://www.devopsdays.org/
 languageCode: en-us
+defaultContentLanguage: en
 GoogleAnalytics: UA-9713393-1
 title: DevOpsDays
 buildDrafts: false
@@ -19,35 +20,17 @@ languages:
     disabled: false
     languageCode: en-US
     languageDirection: ltr
-    languageName: Englist
+    languageName: English
     weight: 0
-
-# menus:
-#   main:
-#   - name: events
-#     pageRef: /events
-#     weight: -150
-#     identifier: events
-#   - name: blog
-#     pageRef: /blog
-#     weight: -140
-#     identifier: blog
-#   - name: sponsor
-#     pageRef: /sponsor
-#     weight: -130
-#     identifier: sponsor
-#   - name: speaking
-#     pageRef: /speaking
-#     weight: -120
-#     identifier: speaking
-#   - name: organizing
-#     pageRef: /organizing
-#     weight: -110
-#     identifier: organizing
-#   - name: about
-#     pageRef: /about
-#     weight: -100
-#     identifier: about
+  pt-br:
+    disabled: false
+    languageCode: pt-BR
+    languageName: português (Brasil)
+    weight: 1
+  fr:
+    disabled: false
+    languageCode: fr
+    languageName: Français
 
 permalinks:
   page: /:filename/

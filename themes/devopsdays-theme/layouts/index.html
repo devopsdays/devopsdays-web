@@ -5,7 +5,6 @@
 
     {{- $upcoming := slice -}}
     {{- $upcoming = partial "functions/get-upcoming-events" . -}}
-
     <div class="row">
         {{- range sort $upcoming "startdate" -}}
             {{- if .startdate -}}
