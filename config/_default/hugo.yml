@@ -1,0 +1,62 @@
+theme: devopsdays-theme
+baseURL: https://www.devopsdays.org/
+languageCode: en-us
+GoogleAnalytics: UA-9713393-1
+title: DevOpsDays
+buildDrafts: false
+canonifyURLs: false
+dataDir: data
+archetypeDir: archetypes
+disableKinds: ["taxonomy"]
+enableEmoji: true
+paginatePath: blog
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+languages:
+  en:
+    disabled: false
+    languageCode: en-US
+    languageDirection: ltr
+    languageName: Englist
+    weight: 0
+
+# menus:
+#   main:
+#   - name: events
+#     pageRef: /events
+#     weight: -150
+#     identifier: events
+#   - name: blog
+#     pageRef: /blog
+#     weight: -140
+#     identifier: blog
+#   - name: sponsor
+#     pageRef: /sponsor
+#     weight: -130
+#     identifier: sponsor
+#   - name: speaking
+#     pageRef: /speaking
+#     weight: -120
+#     identifier: speaking
+#   - name: organizing
+#     pageRef: /organizing
+#     weight: -110
+#     identifier: organizing
+#   - name: about
+#     pageRef: /about
+#     weight: -100
+#     identifier: about
+
+permalinks:
+  page: /:filename/
+  blog: /blog/:year/:month/:day/:title/
+  speaking: /:filename/
+
+params:
+  Facebook: //www.facebook.com/group.php?gid=106761636771
+  Twitter: http://www.twitter.com/devopsdays
+  Linkedin: http://www.linkedin.com/groups?home=&gid=2445279
+  Groups: http://groups.google.com/group/devopsdays
+  GoogleMapsAPI: AIzaSyA1WhgJirbPSYxMCWRD14IP90A4yLY4vxE
