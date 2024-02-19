@@ -8,7 +8,7 @@ main:
     weight: -140
     identifier: blog
   - name: sponsor
-    pageRef: /sponsor
+    url: /sponsor
     weight: -130
     identifier: sponsor
   - name: speaking
@@ -16,10 +16,10 @@ main:
     weight: -120
     identifier: speaking
   - name: organizing
-    pageRef: /organizing
+    url: /organizing
     weight: -110
     identifier: organizing
   - name: about
-    pageRef: /about
+    url: /about
     weight: -100
     identifier: about
