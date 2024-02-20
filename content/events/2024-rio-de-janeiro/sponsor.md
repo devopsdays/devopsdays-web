@@ -32,6 +32,13 @@ Visando valorizar a participação de instituições na realização do evento, 
         <th>OURO</th>
     </thead>
     <tr>
+      <td>Ingressos para o evento</td>
+      <td>2</td>
+      <td>4</td>
+      <td>6</td>
+      <td>8</td>
+    </tr>
+    <tr>
       <td>Logo no copo</td>
       <td></td>
       <td></td>
