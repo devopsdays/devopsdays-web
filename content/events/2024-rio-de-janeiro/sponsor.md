@@ -26,101 +26,164 @@ Visando valorizar a participação de instituições na realização do evento, 
   <table class="table table-bordered table-hover table-responsive-md">
     <thead class="thead-light">
       <th>BENEFÍCIOS</th>
+        <th>COMUNIDADE</th>
         <th>BRONZE</th>
         <th>PRATA</th>
         <th>OURO</th>
-        <th>PLATINA</th>
     </thead>
     <tr>
-      <td>Vídeo Institucional (30 segundos)</td>
+      <td>Logo no copo</td>
       <td></td>
       <td></td>
       <td></td>
       <td><i class="fa fa-check"></i></td>
     </tr>
     <tr>
-      <td>Logo nos cordões de crachá</td>
+      <td>Logo na cordinha</td>
       <td></td>
       <td></td>
       <td></td>
       <td><i class="fa fa-check"></i></td>
     </tr>
     <tr>
-      <td>Balcão promocional</td>
+      <td>Logo na ecobag</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Logo no crachá</td>
       <td></td>
       <td></td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
     </tr>
     <tr>
-      <td>Logo no fundo de palco</td>
+      <td>Logo nos emails de Marketing</td>
       <td></td>
       <td></td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
     </tr>
     <tr>
-      <td>Logo nos materiais de marketing</td>
+      <td>Logo banner de boas vindas</td>
       <td></td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
     </tr>
     <tr>
-      <td>Distribuição de brindes nas pastas dos participantes</td>
+      <td>Logo banner de boas vindas</td>
       <td></td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
     </tr>
     <tr>
-      <td>Ação de marketing nas redes sociais</td>
+      <td>Logo no pórtico</td>
       <td></td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
     </tr>
     <tr>
-      <td>Destaque nos banners físicos</td>
+      <td>Logo no backdrop de fotos</td>
       <td></td>
-      <td>Tamanho ½U</td>
-      <td>Tamanho ¾U</td>
-      <td>Tamanho 1U</td>
-    </tr>
-    <tr>
-      <td>Logo no site do evento/releases</td> 
-      <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
     </tr>
     <tr>
-      <td>Divulgação nas redes sociais</td> 
+      <td>Logo no site</td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
     </tr>
     <tr>
-      <td>Inscrições para o evento*</td>
-      <td>2</td>
-      <td>4</td>
-      <td>6</td>
-      <td>8</td>
+      <td>Estande do patrocinador(2x2)</td>
+      <td></td>
+      <td></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
     </tr>
     <tr>
-      <td><b>Contribuição</b></td>
-      <td><b>TBA</b></td>
-      <td><b>TBA</b></td>
-      <td><b>TBA</b></td>
-      <td><b>TBA</b></td>
+      <td>Distribuição de brindes na ecobag</td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Agradecimentos nas cerimõnias de abertura e encerramento</td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Post nas redes sociais</td>
+      <td></td>
+      <td>Até 2</td>
+      <td>Até 3</td>
+      <td>Até 4</td>
+    </tr>
+    <tr>
+      <td>Video institucional da marca</td>
+      <td></td>
+      <td></td>
+      <td>Até 30s</td>
+      <td>Até 60s</td>
+    </tr>
+    <tr>
+      <td>Entrevista em redes sociais</td>
+      <td></td>
+      <td></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+        <tr>
+      <td>Entrevista para as redes sociais</td>
+      <td></td>
+      <td></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Criação de conteúdo realtime da equipe de marketing</td>
+      <td></td>
+      <td></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Reposts de menções no Instagram do DOD Rio</td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Espaço exclusivo no OpenSpace</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td><b>Cotas</b></td>
+      <td><b>até R$3.500,00</b></td>
+      <td><b>R$12.000,00</b></td>
+      <td><b>R$18.000,00</b></td>
+      <td><b>R$22.000,00</b></td>
     </tr>
   </table>
 </div>
 <div>
   <p><strong>COMUNIDADE:</strong> Apoiadores que contribuiram com algum beneficio para o público ou quantia de
   até TBA terão direito à divulgação nas redes sociais e 1 inscrição para o evento.</p>
-    <!-- <p style="font-size:18px">Veja mais e nosso mídia kit no documento completo clicando <a href="https://docs.google.com/presentation/d/1iaO7P6ZtFT9fipjGFI5kAmy8Ov2tAlxMh-5e7E96Z5s/edit#slide=id.g1348ef322d5_0_183"><i class="fa fa-download" style="font-size:30px"></i></a></p> -->
+    <p style="font-size:18px">Veja mais e nosso mídia kit no documento completo clicando <a href="https://drive.google.com/file/d/1T4cepqO46MY5izMwek4VSjArQTK6Slss/view?usp=sharing"><i class="fa fa-download" style="font-size:30px"></i></a></p>
 </div>
 
 <!--EN-->
