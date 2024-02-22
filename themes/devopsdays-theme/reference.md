@@ -40,8 +40,8 @@
 <!-- /MDTOC -->
 
 
-## Fields in YYYY-CITY.yml
-The YYYY-CITY.yml file is the main configuration file for your event. This is what each field does.
+## Fields in main.yml
+The `/data/events/YYYY/CITY.main.yml` file is the main configuration file for your event. This is what each field does.
 
 ### General Fields
 
@@ -54,6 +54,7 @@ The YYYY-CITY.yml file is the main configuration file for your event. This is wh
 | `description`    | String | No       | Overall description of your event. Quotation marks need to be escaped.                                | "It's time for more DevOpsDays at Ponyville!" |
 | `ga_tracking_id` | String | No       | If you have your own Google Analytics tracking ID, enter it here.                                     | "UA-74738648-1"                               |
 | `gtm_tracking_id` | String | No       | If you have your own Google Analytics v4 tracking ID, enter it here.                                     | "G-NCBC4PBEMK"                               |
+| `event_group` | String | No     | If you'd like to group different events together (ie, "australia"), set them to the same "event_group"                             | "ponyville"                                        |
 | `speakers_verbose` | String | No     | Set this to "true" if you want verbose speaker attributes (URLs visible).                             | "true"                                        |
 | `cancel`       | String     | No       | If your event must be cancelled, add this field with the value of "true" (case-sensitive). This will keep it from being listed in the "upcoming events" views.                                                                                         | "true"  |                                                                                   |
 
@@ -86,9 +87,9 @@ All dates are in unquoted YYYY-MM-DD, like this: `variable: 2016-01-05`, or like
 
 | Field Name         | Type   | Required | Description                                                                                                                                     | Example                                         |
 |--------------------|--------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
-| `coordinates`      | String | Yes      | The coordinates of your city. [Get Latitude and Longitude of a Point](http://itouchmap.com/latlong.html). Required to display event on the map. | "41.882219, -87.640530"                         |
+| ~~`coordinates`~~      | String | Yes      | The coordinates of your city. [Get Latitude and Longitude of a Point](http://itouchmap.com/latlong.html). DEPRECATED. | "41.882219, -87.640530"                         |
 | `location`         | String | Yes      | The generator scripts will default to the value of `City`, but you can make it the venue name.                                                  | "Chicago Mart West"                             |
-| `location_address` | String | No       | Use the street address of your venue. This will show up on the welcome page if set.                                                             | "350 West Mart Center Drive, Chicago, IL 60654" |
+| `location_address` | String | No       | Use the street address of your venue. This will show up on the welcome page if set. Also used by the `event_map` shortcode.                                              | "350 West Mart Center Drive, Chicago, IL 60654" |
 
 ### Navigation Fields
 These fields are used to control the navigation elements (menu) of your event's page. The syntax for navigation is thus:
@@ -409,4 +410,9 @@ Returns the start date of registration for your event
 Returns the end date of registration for your event
 ```
 {{< registration_end >}}
+```
+### event_map
+If you have `location_address` set in your datafile, this will return a Google Map of that address
+```
+{{< event_map >}}
 ```

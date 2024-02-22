@@ -27,8 +27,8 @@ event_slug=$year-$city_slug
 
 # Get start and end dates
 
-day1=$(grep -h startdate ../data/events/$event_slug.yml | awk '{ print $2 }' )
-day2=$(grep -h enddate ../data/events/$event_slug.yml | awk '{ print $2 }' )
+day1=$(grep -h startdate ../data/events/$year"/"$city_slug"/"main.yml | awk '{ print $2 }' )
+day2=$(grep -h enddate ../data/events/$year"/"$city_slug"/"main.yml | awk '{ print $2 }' )
 
 if [[ $day1 == '' ]]
   then
@@ -38,14 +38,14 @@ fi
 
 
 # uncomment link to program page
-sedcmd "s/#  - name: program/  - name: program/" ../data/events/$event_slug.yml
+sedcmd "s/#  - name: program/  - name: program/" ../data/events/$year"/"$city_slug"/"main.yml
 
 # Append program to datafile
-cat examples/templates/program.yml >> ../data/events/$event_slug.yml
+cat examples/templates/program.yml >> ../data/events/$year"/"$city_slug"/"main.yml
 
 # set correct start and end dates (manual intervention needed for events that aren't two-day)
-sedcmd "s/day1/$day1/g" ../data/events/$event_slug.yml
-sedcmd "s/day2/$day2/g" ../data/events/$event_slug.yml
+sedcmd "s/day1/$day1/g" ../data/events/$year"/"$city_slug"/"main.yml
+sedcmd "s/day2/$day2/g" ../data/events/$year"/"$city_slug"/"main.yml
 
 
 # Display available speakers
@@ -58,7 +58,7 @@ read -p "Enter your number of full-talk speakers (default: 8)): " num
 for talknumber in $(seq 1 $num);
 do
   read -p "Enter speaker $talknumber in firstname-lastname form; use CTRL+C to stop... " speaker_slug
-  sedcmd "s/talk-$talknumber/$speaker_slug/" ../data/events/$event_slug.yml
+  sedcmd "s/talk-$talknumber/$speaker_slug/" ../data/events/$year"/"$city_slug"/"main.yml
 done
 
 # Create empty program page file (will be auto-filled for display)

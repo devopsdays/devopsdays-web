@@ -21,7 +21,7 @@ else
 fi
 
 # You can set HUGO_IMAGE in the env to overwrite or it will default to this version
-HUGO_IMAGE=${HUGO_IMAGE:-cibuilds/hugo:0.102.3}
+HUGO_IMAGE=${HUGO_IMAGE:-cibuilds/hugo:0.121.2}
 
 echo "HUGO_BASEURL: $HUGO_BASEURL"
 docker stop hugo-server 2>/dev/null
@@ -29,8 +29,8 @@ docker rm   hugo-server 2>/dev/null
 
 [[ -f hugo.log ]] && rm hugo.log
 
-docker run -tip 1313:1313 -u $(id -u) -v $(pwd):/home/circleci/project:${MOUNT_OPTION} \
+docker run -tip 1313:1313 -v $(pwd):/home/circleci/project:${MOUNT_OPTION} \
   -e HUGO_THEME=devopsdays-theme \
   --name hugo-server --entrypoint "" \
   ${HUGO_IMAGE} hugo server --watch --bind 0.0.0.0 --baseURL ${HUGO_BASEURL} \
-    --noHTTPCache --logFile hugo.log --verboseLog 
+    --noHTTPCache --logLevel info 
