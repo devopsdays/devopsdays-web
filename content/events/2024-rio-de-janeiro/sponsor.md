@@ -105,6 +105,8 @@ Visando valorizar a participação de instituições na realização do evento, 
       <td>Estande do patrocinador(2x2)</td>
       <td></td>
       <td></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
     </tr>  
     <tr>
       <td>Logo no backdrop de fotos</td>
@@ -242,7 +244,7 @@ Visando valorizar a participação de instituições na realização do evento, 
   </table>
 </div>
 <div>
-    <p style="font-size:18px">Veja mais e nosso mídia kit no documento completo clicando <a href="https://drive.google.com/file/d/1T4cepqO46MY5izMwek4VSjArQTK6Slss/view?usp=sharing"><i class="fa fa-download" style="font-size:30px"></i></a></p>
+    <p style="font-size:18px">Veja mais e nosso mídia kit no documento completo clicando <a href="https://drive.google.com/file/d/1FVrITfnuUksF-ZZfPE0A6x-ZURrq4M-h/view?usp=sharing"><i class="fa fa-download" style="font-size:30px"></i></a></p>
 </div>
 
 <!--EN-->
