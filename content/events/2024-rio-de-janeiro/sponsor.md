@@ -25,7 +25,7 @@ Visando valorizar a participação de instituições na realização do evento, 
 
   <table class="table table-bordered table-hover table-responsive-md">
     <thead class="thead-light">
-      <th>Benefits</th>
+      <th>BENEFÍCIOS</th>
         <th>COMUNIDADE</th>
         <th>BRONZE</th>
         <th>PRATA</th>
