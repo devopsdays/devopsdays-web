@@ -195,7 +195,7 @@ Visando valorizar a participação de instituições na realização do evento, 
     <tr>
       <td>Video institucional da marca</td>
       <td></td>
-      <td></td>
+      <td>Até 15s</td>
       <td>Até 30s</td>
       <td>Até 60s</td>
     </tr>
@@ -373,7 +373,7 @@ Aiming to enhance the participation of institutions in the event, we organized p
     <tr>
       <td>Brand institucional video</td>
       <td></td>
-      <td></td>
+      <td>Up to 15s</td>
       <td>Up to 30s</td>
       <td>Up to 60s</td>
     </tr>
