@@ -152,9 +152,9 @@ at [{{< email_organizers >}}] if interested in this sponsorship tier.
     <dd>We will provide a table 6’x30” with a black tablecloth and a couple of chairs. You are welcome to bring your own tablecloth, table signs, rollup banners, etc. to decorate your space. Please also note that there will be no wall behind your table (to affix or lean anything against). 
 	<br/>
     <dt>What dates/times can we set up and tear down?</dt>
-    <dd> < Details coming in May >  </dd>
+    <dd> &lt Details coming in May &rt  </dd>
     <dt>How do we ship to the venue?</dt>
-    <dd>< Details coming in May ></dd>
+    <dd> &lt Details coming in May &rt </dd>
     <dt>What should we expect regarding electricity? (how much, any fees, etc)</dt>
     <dd>There are no fees. There are a number of power outlets along the walls of the room. However, we suggest that you bring a few extension cords, as there may not be enough power outlets or they may not be close enough to your table to be reachable by a laptop/monitor cable.</dd>
     <dt>What should we expect regarding WiFi? (how much, any fees, etc)</dt>
