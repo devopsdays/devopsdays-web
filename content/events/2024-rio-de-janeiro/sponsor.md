@@ -82,7 +82,6 @@ Visando valorizar a participação de instituições na realização do evento, 
     </tr>
     <tr>
       <td>Logo no pórtico</td>
-      <td>Logo banner de boas vindas</td>
       <td></td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
@@ -90,7 +89,6 @@ Visando valorizar a participação de instituições na realização do evento, 
     </tr>
     <tr>
       <td>Logo no backdrop de fotos</td>
-      <td>Logo no pórtico</td>
       <td></td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
@@ -117,7 +115,6 @@ Visando valorizar a participação de instituições na realização do evento, 
     </tr>
     <tr>
       <td>Distribuição de brindes na ecobag</td>
-      <td>Logo no site</td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
@@ -125,7 +122,6 @@ Visando valorizar a participação de instituições na realização do evento, 
     </tr>
     <tr>
       <td>Agradecimentos nas cerimõnias de abertura e encerramento</td>
-      <td>Estande do patrocinador(2x2)</td>
       <td></td>
       <td></td>
       <td><i class="fa fa-check"></i></td>
