@@ -149,6 +149,8 @@ sponsors:
     level: gold
   - id: couchbase
     level: silver
+  - id: trackit
+    level: startup
   - id: victoriametrics
     level: startup
   - id: kubecareers
