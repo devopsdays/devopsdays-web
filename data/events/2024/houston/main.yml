@@ -92,6 +92,11 @@ team_members: # Name is the only required field for team members.
     image: "jim-wang.jpg"
     bio: "Jim Wang has built technology products for over 20 years in large corporations and startups. He is highly involved in product design and system architecture while maturing the software development process and leading teams to achieve high delivery expectations. He is passionate about building and delivering products focusing on data-driven design, ML/AI, high performance, and high scalability."
     linkedin: "https://www.linkedin.com/in/jimzwang/"
+  - name: "Eric Reeves"
+    bio: "Eric is a Senior Solutions Engineer at HashiCorp.  Over the course of his career, he was a principal engineer for 17 years at a SaaS shop in Houston that scaled from a half-rack of servers to a fully automated multi-region hybrid cloud environment with over 25PB of storage under management.  He is a relentless advocate for end-to-end automation and the organizational alignment required to achieve it. These days, he pulls from his practical experience to have meaningful conversations with both practitioners and leaders as a Solutions Engineer.  He is a recovering musician/DJ, an active audio/video nerd, and a father in his “spare time”."
+    employer: "HashiCorp"
+    linkedin: "https://www.linkedin.com/in/ericmreeves/"
+    image: "eric-reeves.jpg"
 organizer_email: "houston@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
@@ -105,13 +110,15 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: platinum
+    label: Platinum
+    max: 4
   - id: gold
     label: Gold
-#    max: 10
-  - id: silver
-    label: Silver
-    max: 0 # This is the same as omitting the max limit.
-  - id: bronze
-    label: Bronze
+    max: 10
+  - id: startup
+    label: Startup
+    max: 0
   - id: community
     label: Community
+    max: 0

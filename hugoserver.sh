@@ -29,8 +29,8 @@ docker rm   hugo-server 2>/dev/null
 
 [[ -f hugo.log ]] && rm hugo.log
 
-docker run -tip 1313:1313 -u $(id -u) -v $(pwd):/home/circleci/project:${MOUNT_OPTION} \
+docker run -tip 1313:1313 -v $(pwd):/home/circleci/project:${MOUNT_OPTION} \
   -e HUGO_THEME=devopsdays-theme \
   --name hugo-server --entrypoint "" \
   ${HUGO_IMAGE} hugo server --watch --bind 0.0.0.0 --baseURL ${HUGO_BASEURL} \
-    --noHTTPCache --logFile hugo.log --verboseLog 
+    --noHTTPCache --logLevel info 
