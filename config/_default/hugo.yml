@@ -22,15 +22,21 @@ languages:
     languageDirection: ltr
     languageName: English
     weight: 0
+    params:
+      flag: ":us:"
   pt-br:
     disabled: false
     languageCode: pt-BR
     languageName: português (Brasil)
     weight: 1
+    params:
+      flag: ":brazil:"
   fr:
     disabled: false
     languageCode: fr
     languageName: Français
+    params:
+      flag: ":fr:"
 
 permalinks:
   page: /:filename/

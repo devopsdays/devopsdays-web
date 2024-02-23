@@ -6,6 +6,19 @@
             {{- partial "welcome.html" . -}}
           {{- else -}}
             <h1>devopsdays {{ $e.city }} - {{ .Title }}</h1>
+            <!--translations-->
+            <!-- :brazil: -->
+            {{ if .IsTranslated }}
+              <h4>{{ i18n "translations" }}</h4>
+              <ul class="list-group list-group-horizontal">
+                {{ range .Translations }}
+                <li class="list-group-item">
+                  <a href="{{ .RelPermalink }}">{{ .Language.Lang }}: {{ .LinkTitle }} {{ .Language.Params.flag | emojify}}</a>
+                </li>
+                {{ end }}
+              </ul>
+              {{ end }}
+            <!-- end translations -->
             {{ .Content }}
           {{- end -}}
           <br />

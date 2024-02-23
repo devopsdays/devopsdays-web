@@ -5,13 +5,13 @@
 </head>
 <body lang="{{ .Site.Params.Lang }}">
   {{- partialCached "global_navbar.html" . -}}
-  {{- if and (eq (index (split (.Permalink | relURL) "/") 1) "events") (ne .Type "events") -}}
+  {{- if and (or (eq (index (split (.Permalink | relURL) "/") 1) "events") (eq (index (split (.Permalink | relURL) "/") 2) "events")) (ne .Type "events") -}}
     {{- partial "events/event_navbar.html" . -}}
   {{- end -}}
   <div class="container-fluid">
     <div class="row">
       {{- if .IsPage -}}
-        {{- if or (eq (index (split (.Permalink | relURL) "/") 1) "events") (eq .Type "events") -}}
+        {{- if or (or (eq (index (split (.Permalink | relURL) "/") 1) "events") (eq (index (split (.Permalink | relURL) "/") 2) "events")) (eq .Type "events") -}}
           <div class="col-md-12">
             {{- block "main" . }}
         {{- end -}}
