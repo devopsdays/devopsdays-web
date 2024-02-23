@@ -35,8 +35,8 @@ Description = "DevOpsDays Nashville 2024"
     <h2><p>Welcome to DevOps Days Nashville 2024!</p></h2>
     <p>We are excited to announce DevOps Days will be coming back to {{< event_location >}} on July 10th and 11th.</p>
     <br>
-    <!-- <h2><p><a href="https://sessionize.com/nashvilledevopsdays2023/">Call for Proposals Now Open!</a></p></h2>
-    <p>Do you have a great topic for the community?  Visit our <a href="https://sessionize.com/nashvilledevopsdays2023/">Call for Speakers/Papers</a> site today!  We look forward to hearing from you.</p> -->
+    <h2><p><a href="https://www.papercall.io/devopsdays-nashville-2024">Call for Proposals Now Open!</a></p></h2>
+    <p>Do you have a great topic for the community?  Visit our <a href="https://www.papercall.io/devopsdays-nashville-2024">Call for Speakers/Papers</a> site today!  We look forward to hearing from you.</p>
   
 >>>>>>> e8a458459c (Adds 2024 event information)
   </div>
@@ -56,6 +56,7 @@ Description = "DevOpsDays Nashville 2024"
 =======
 >>>>>>> e8a458459c (Adds 2024 event information)
 
+
 <div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
@@ -72,11 +73,7 @@ Description = "DevOpsDays Nashville 2024"
   <div class = "col-md-8">
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
-<<<<<<< HEAD
 </div>
-=======
-</div> -->
->>>>>>> e8a458459c (Adds 2024 event information)
 
 <div class = "row">
   <div class = "col-md-2">

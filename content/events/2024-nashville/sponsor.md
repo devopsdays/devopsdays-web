@@ -13,7 +13,7 @@ We greatly value sponsors for this community event. If you are interested in spo
 <hr>
 DevOpsDays is a self-organizing conference for DevOps practitioners that depends on your sponsorships. We do not have a traditional trade show conference floor, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during, and after the event. Sponsors are encouraged to participate and engage with the attendees as peers.
 <br><br>
-Any attendee also has the opportunity to demonstrate products or projects as part of any of the Open Space sessions.  Platinum sponsors will also have access to a dedicated demo room to provide hands-on demos to individuals or small groups.  Be sure to send technical practitioners to interact with customers and peers at DevOpsDays on their own terms.
+Any attendee also has the opportunity to demonstrate products or projects as part of any of the Open Space sessions.  Be sure to send technical practitioners to interact with customers and peers at DevOpsDays on their own terms.
 <br><br>
 The best thing to do is send engineers to interact with the experts at DevOpsDays on their own terms.
 <br><br>
