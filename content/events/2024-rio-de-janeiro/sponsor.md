@@ -81,13 +81,6 @@ Visando valorizar a participação de instituições na realização do evento, 
       <td><i class="fa fa-check"></i></td>
     </tr>
     <tr>
-      <td>Logo banner de boas vindas</td>
-      <td></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-    </tr>
-    <tr>
       <td>Logo no pórtico</td>
       <td></td>
       <td><i class="fa fa-check"></i></td>
@@ -114,12 +107,75 @@ Visando valorizar a participação de instituições na realização do evento, 
       <td></td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
+    </tr>  
+    <tr>
+      <td>Logo no backdrop de fotos</td>
+      <td></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
     </tr>
     <tr>
       <td>Distribuição de brindes na ecobag</td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Agradecimentos nas cerimõnias de abertura e encerramento</td>
+      <td></td>
+      <td></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Distribuição de brindes na ecobag</td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Post nas redes sociais</td>
+      <td></td>
+      <td>Até 2</td>
+      <td>Até 3</td>
+      <td>Até 4</td>
+    </tr>
+    <tr>
+      <td>Video institucional da marca</td>
+      <td></td>
+      <td></td>
+      <td>Até 30s</td>
+      <td>Até 60s</td>
+    </tr>
+    <tr>
+      <td>Entrevista em redes sociais</td>
+      <td></td>
+      <td></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Criação de conteúdo realtime da equipe de marketing</td>
+      <td></td>
+      <td></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Reposts de menções no Instagram do DOD Rio</td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Espaço exclusivo no OpenSpace</td>
+      <td></td>
+      <td></td>
+      <td></td>
       <td><i class="fa fa-check"></i></td>
     </tr>
     <tr>
@@ -139,7 +195,7 @@ Visando valorizar a participação de instituições na realização do evento, 
     <tr>
       <td>Video institucional da marca</td>
       <td></td>
-      <td></td>
+      <td>Até 15s</td>
       <td>Até 30s</td>
       <td>Até 60s</td>
     </tr>
@@ -188,9 +244,7 @@ Visando valorizar a participação de instituições na realização do evento, 
   </table>
 </div>
 <div>
-  <p><strong>COMUNIDADE:</strong> Apoiadores que contribuiram com algum beneficio para o público ou quantia de
-  até TBA terão direito à divulgação nas redes sociais e 1 inscrição para o evento.</p>
-    <p style="font-size:18px">Veja mais e nosso mídia kit no documento completo clicando <a href="https://drive.google.com/file/d/1T4cepqO46MY5izMwek4VSjArQTK6Slss/view?usp=sharing"><i class="fa fa-download" style="font-size:30px"></i></a></p>
+    <p style="font-size:18px">Veja mais e nosso mídia kit no documento completo clicando <a href="https://drive.google.com/file/d/1FVrITfnuUksF-ZZfPE0A6x-ZURrq4M-h/view?usp=sharing"><i class="fa fa-download" style="font-size:30px"></i></a></p>
 </div>
 
 <!--EN-->
@@ -212,100 +266,154 @@ Aiming to enhance the participation of institutions in the event, we organized p
 
   <table class="table table-bordered table-hover table-responsive-md">
     <thead class="thead-light">
-      <th>BENEFITS</th>
+      <th>Benefits</th>
+        <th>COMUNNITY</th>
         <th>BRONZE</th>
         <th>SILVER</th>
         <th>GOLD</th>
-        <th>PLATINUM</th>
     </thead>
     <tr>
-      <td>Institutional Video (30 seconds)</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td><i class="fa fa-check"></i></td>
-    </tr>
-    <tr>
-      <td>Logo on badge lanyards</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td><i class="fa fa-check"></i></td>
-    </tr>
-    <tr>
-      <td>Promotional booth</td>
-      <td></td>
-      <td></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-    </tr>
-    <tr>
-      <td>Logo on stage</td>
-      <td></td>
-      <td></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-    </tr>
-    <tr>
-      <td>Logo on marketing materials</td>
-      <td></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-    </tr>
-    <tr>
-      <td>Swags distributed inside the participant's folders</td>
-      <td></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-    </tr>
-    <tr>
-      <td>Social media action</td>
-      <td></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-    </tr>
-    <tr>
-      <td>Featured physical banners</td>
-      <td></td>
-      <td>Size ½U</td>
-      <td>Size ¾U</td>
-      <td>Size 1U</td>
-    </tr>
-    <tr>
-      <td>Logo on the event/releases</td> 
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-    </tr>
-    <tr>
-      <td>Social media release</td> 
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-    </tr>
-    <tr>
-      <td>Tickets*</td>
+      <td>Ticket for event</td>
       <td>2</td>
       <td>4</td>
       <td>6</td>
       <td>8</td>
     </tr>
     <tr>
-      <td><b>Contribution</b></td>
-      <td><b>TBA</b></td>
-      <td><b>TBA</b></td>
-      <td><b>TBA</b></td>
-      <td><b>TBA</b></td>
+      <td>Logo in cup</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Logo on badge rope</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Logo in ecobag</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Logo on badge</td>
+      <td></td>
+      <td></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Logo in marketing emails</td>
+      <td></td>
+      <td></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Logo on welcome banner</td>
+      <td></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Logo in the portico</td>
+      <td></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Logo on photo backdrop</td>
+      <td></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Logo in the site</td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Sponsor Booth(2mx2m)</td>
+      <td></td>
+      <td></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Distribuition on gift in participant`s bags</td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Special thanks at the opening and closing cerimony</td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Social media post</td>
+      <td></td>
+      <td>Up to 2</td>
+      <td>Up to 3</td>
+      <td>Up to 4</td>
+    </tr>
+    <tr>
+      <td>Brand institucional video</td>
+      <td></td>
+      <td>Up to 15s</td>
+      <td>Up to 30s</td>
+      <td>Up to 60s</td>
+    </tr>
+    <tr>
+      <td>Interview for social media</td>
+      <td></td>
+      <td></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Realtime content creation Marketing team</td>
+      <td></td>
+      <td></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Repost metions on instagram @devopsdaysrio</td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Exclusive space at the Open Spaces (talks)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td><b>Investment</b></td>
+      <td><b>up to US$720,00</b></td>
+      <td><b>US$2.4500,00</b></td>
+      <td><b>US$3.800,00</b></td>
+      <td><b>US$4.500,00</b></td>
     </tr>
   </table>
 </div>
 <div>
-<p><strong>COMMUNITY:</strong> Supporters who have contributed some benefit to the public or amount of
-up to TBA receive the right to be publicized on social media and 1 registration for the event.</p>
-    <!-- <p style="font-size:18px">You can check more about sponsorship and the benefits here <a href="https://docs.google.com/presentation/d/1gQ-qrxTNvyIj17JbJdchdbCc9DT6_vtt7ioivHAui5I/edit?usp=sharing"><i class="fa fa-download" style="font-size:30px"></i></a></p> -->
+<p style="font-size:18px">You can check more about sponsorship and the benefits here <a href="https://drive.google.com/file/d/1juGPV7s6sU4yD_KLT7RID_ukyNOdlbNX/view?usp=sharing"><i class="fa fa-download" style="font-size:30px"></i></a></p>
 </div>
