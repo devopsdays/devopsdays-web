@@ -15,8 +15,6 @@ DevOpsDays is a self-organizing conference for DevOps practitioners that depends
 <br><br>
 Any attendee also has the opportunity to demonstrate products or projects as part of any of the Open Space sessions.  Be sure to send technical practitioners to interact with customers and peers at DevOpsDays on their own terms.
 <br><br>
-The best thing to do is send engineers to interact with the experts at DevOpsDays on their own terms.
-<br><br>
 Please email the organizers at <a href="mailto:nashville@devopsdays.org?subject=General%20Questions%20Regarding%20Sponsorship%20of%20DevOpsDays%20Nashville%202024"><strong>nashville@devopsdays.org</strong></a> with any questions you may have about sponsoring the event.
 <br><br>
 <h2>Sponsorship Packages</h2>
