@@ -152,7 +152,7 @@ at [{{< email_organizers >}}] if interested in this sponsorship tier.
     <dd>We will provide a table 6’x30” with a black tablecloth and a couple of chairs. You are welcome to bring your own tablecloth, table signs, rollup banners, etc. to decorate your space. Please also note that there will be no wall behind your table (to affix or lean anything against). 
 	<br/>
     <dt>What dates/times can we set up and tear down?</dt>
-    <dd> &lt Details coming in May &rt  </dd>
+    <dd>&lt; Details coming in May &rt;</dd>
     <dt>How do we ship to the venue?</dt>
     <dd> &lt Details coming in May &rt </dd>
     <dt>What should we expect regarding electricity? (how much, any fees, etc)</dt>
