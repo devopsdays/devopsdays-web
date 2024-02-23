@@ -14,18 +14,14 @@ startdate: 2024-07-10T00:00:00-06:00 # The start date of your event. Leave blank
 enddate: 2024-07-11T00:00:00-06:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-# cfp_date_start: 2022-09-01T00:00:00-12:59 # start accepting talk proposals.
-# cfp_date_end: 2023-01-15T00:00:00-12:59 # close your call for proposals.
-# cfp_date_announce: 2023-02-01T00:00:00-12:59   # inform proposers of status
-cfp_date_start:
-cfp_date_end:
-cfp_date_announce:
-# cfp_link: "https://sessionize.com/nashvilledevopsdays2023/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_date_start: 2024-02-21T00:00:00-12:59 # start accepting talk proposals.
+cfp_date_end: 2024-05-31T00:00:00-12:59 # close your call for proposals.
+# cfp_date_announce: 2023-06-01T00:00:00-12:59   # inform proposers of status
+cfp_open: "true"
+#cfp_link: "https://www.papercall.io/devopsdays-nashville-2024" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-# registration_date_start: 2023-01-01T23:59:59-06:00   # start accepting registration. Leave blank if registration is not open yet
-# registration_date_end:     # close registration. Leave blank if registration is not open yet.
-registration_date_start:
-registration_date_end:
+registration_date_start: 2024-02-22T00:00:59-06:00   # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2024-07-09T00:00:59-06:00     # close registration. Leave blank if registration is not open yet.
 
 # registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 # registration_link: "https://www.eventbrite.com/e/125517206343/"   # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -53,13 +49,13 @@ location_address: "201 5th Avenue South, Nashville, TN 37203" #Optional - use th
 # ###########################
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  # - name: registration
+  - name: registration
   # - name: program
   # - name: speakers
   - name: location
   - name: contact
   - name: sponsor
- # - name: propose
+  - name: propose
   - name: conduct
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
