@@ -21,7 +21,7 @@ else
 fi
 
 # You can set HUGO_IMAGE in the env to overwrite or it will default to this version
-HUGO_IMAGE=${HUGO_IMAGE:-cibuilds/hugo:0.121.2}
+HUGO_IMAGE=${HUGO_IMAGE:-cibuilds/hugo:0.123.3}
 
 echo "HUGO_BASEURL: $HUGO_BASEURL"
 docker stop hugo-server 2>/dev/null

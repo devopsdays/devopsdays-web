@@ -18,13 +18,13 @@
 # skip_processing = true
 
 [context.production.environment]
-   HUGO_VERSION = "0.121.2"
+   HUGO_VERSION = "0.123.3"
 
 [context.deploy-preview.environment]
-  HUGO_VERSION = "0.121.2"
+  HUGO_VERSION = "0.123.3"
 
 [context.branch-deploy.environment]
-  HUGO_VERSION = "0.121.2"
+  HUGO_VERSION = "0.123.3"
 
 # Mastodon Configuration
 [[redirects]]
