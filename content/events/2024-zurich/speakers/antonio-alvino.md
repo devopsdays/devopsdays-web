@@ -1,6 +1,6 @@
 +++
 Title = "Antonio Alvino"
-image = "antonio-alvino.jpg"
+image = "antonio-alvino.png"
 linktitle = "antonio-alvino"
 type = "speaker"
 Website = ""
