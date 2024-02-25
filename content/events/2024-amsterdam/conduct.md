@@ -1,5 +1,5 @@
 +++
-Title = "Conduct"
+Title = "Code of Conduct"
 Type = "event"
 Description = "Code of conduct for devopsdays Amsterdam 2024"
 +++
