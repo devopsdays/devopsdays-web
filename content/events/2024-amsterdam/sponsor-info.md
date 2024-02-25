@@ -34,7 +34,7 @@ Thank you for sponsoring devopsdays Amsterdam 2024! The organizing team is exict
 
 
 
-## Contact
+## <a name= 'Contact'></a> Contact
 email: <amsterdam@devopsdays.org>
 
 Please use the above email address for all pre-event contact. One of the organizers will respond promptly.
@@ -64,7 +64,7 @@ We highly encourage using Amsterdam's public transportation system to get to and
 For transport there is a parking garage located directly next to the venue, [APCOA Parking de Loodsen](https://maps.app.goo.gl/7SpfwhJnRHqswB5n9).
 
 ### <a name= 'Shipping'></a> Shipping
-You can ship your materials to our venue if needed. Please note however that materials cannot arrive before **June 13th** since our selected venue simply has not enough space to store items for a longer period. The organizers are **not** responsible if your materials show up before **June 13th**. Materials need to arrive at the venue no later than **June 18th**. Your setup day is June 21st (the workshop day of the event).
+You can ship your materials to our venue if needed. Please note however that materials cannot arrive before **June 13th** since our selected venue simply has not enough space to store items for a longer period. The organizers are **not** responsible if your materials show up before **June 13th**. Materials need to arrive at the venue no later than **June 18th**. Your setup day is June 19 (the workshop day of the event).
 
 **Note:** If you need to ship materials ahead of time to the conference. Please contact the devopsdays sponsorteam at [amsterdam@devopdays.org](mailto:amsterdam@devopdays.org) to arrange this.
 
@@ -116,7 +116,7 @@ As a reminder, there is **no** lead capture assistance available, and do not sha
 
 ### <a name= 'TableSpace'></a> Tablespace for Platinum, Beverage, Gold and Silver sponsors
 
-If you are a silver, gold, platinum or beverage sponsor you are are assigned one of our table spaces. There will be a power strip provided between every two tables.  The venue assures us that there will be plenty, but please don’t hesitate to let us know if you think you will require more outlets.
+If you are a Silver, Gold, Platinum or Beverage sponsor you are are assigned one of our table spaces. There will be a power strip provided between every two tables.  The venue assures us that there will be plenty, but please don’t hesitate to let us know if you think you will require more outlets.
 
 Furthermore, a TV screen (55”) rental is available upon request for €300 plus VAT but will need 3 weeks notice (May 31st) before the event.
 
@@ -128,9 +128,9 @@ Gold sponsors have a table of their own at the event (unless otherwise discussed
 
 ### <a name= 'Pitches'></a> One-Minute Pitch
 
-As a Gold, Platinum, t-shirt, Coffee or Beer sponsor you show commitment to our community and probably want to share a few words with us.  To that end, you have one minute to reach out to the audience. This moment is the perfect bulletin to pitch a relevant product or let people know you are hiring.
+As a Gold, Platinum, Coffee or Beer sponsor you show commitment to our community and probably want to share a few words with us.  To that end, you have one minute to reach out to the audience. This moment is the perfect bulletin to pitch a relevant product or let people know you are hiring.
 
-Sponsor pitches are on both days.  We’ll let you know your time slot the day before the event on June 22nd.  It’s important that each sponsor be available for their time slot.
+Sponsor pitches are on both days.  We’ll let you know your time slot the day before the event on June 18.  It’s important that each sponsor be available for their time slot.
 
 ### <a name= 'Silver'></a> Silver sponsors
 
@@ -140,29 +140,29 @@ For any sponsor, we encourage you to send your engineers to interact with our at
 
 ### <a name= 'Platinum'></a> Platinum sponsorship extras
 
-As the sole platinum sponsor you get a few unique perks. Your logo will be displayed on the outdoor video screens. You are the official sponsor of the social event and BBQ. We will supply napkins with your logo on them during dinner. You are not only free to, but highly encouraged to display your branding with roll-up banners or beach flags during this period in the common area around the outside area. As a platinum sponsor you are also invited to join us for the speaker dinner (2 tickets).
+As the sole Platinum sponsor you get a few unique perks. Your logo will be displayed on the outdoor video screens. You are the official sponsor of the social event and BBQ. We will supply napkins with your logo on them during dinner. You are not only free to, but highly encouraged to display your branding with roll-up banners or beach flags during this period in the common area around the outside area. As a Platinum sponsor you are also invited to join us for the speaker dinner (2 tickets).
 
 ### <a name= 'Beverage'></a> Beverage sponsor
 
-As the beverage sponsor for devopsdays Amsterdam you get a unique perk. Your logo will be printed on our custom DevHops beer labels. Beers will be prominently featured as well during our social event on Thursday as our beer of choice for the social event. The DevHops beers will also be available after the program ends on Wednesday and Friday although no organized program is in-place during those days. 
+As the Beverage sponsor for devopsdays Amsterdam you get a unique perk. Your logo will be printed on our custom DevHops beer labels. Beers will be prominently featured as well during our social event on Thursday as our beer of choice for the social event. The DevHops beers will also be available after the program ends on Wednesday and Friday although no organized program is in-place during those days. 
 
-At the end of the event the beverage sponsor can take away 48 bottles (2 cases) of DevHops to taste with team members wo were not able to attend.
+At the end of the event the Beverage sponsor can take away 48 bottles (2 cases) of DevHops to taste with team members wo were not able to attend.
 
 ### <a name= 'Coffee'></a> Coffee sponsor
 
 As our coffee sponsors for devopsdays Amsterdam your unique perk is your logo on our coffee cups paired with our hired coffee tuk-tuk. The coffee tuk-tuk is on-site between 08:00 and 15:00 *all three days of the event*. During this time you’ll the option to bring up to two roll-up banners or beach flags to place besides the coffee tuk-tuk to enhance your visibility.
 
-During the hours that the coffee tuk-tuk is on-site (between 8:00 and 15:00) we will also supply (weather permitting)* a high standing table outside next to the food truck.
+During the hours that the coffee tuk-tuk is on-site (between 8:00 and 15:00) we will also supply (weather permitting)[^1] a high standing table outside next to the food truck.
 
-* in the event of bad weather (strong winds, heavy rainfall) there limited space outside covered by our outside tent. Depending on space requirements we cannot guarantee you a standing table in this instance. 
+[^1]: In the event of bad weather (strong winds, heavy rainfall) there limited space outside covered by our outside tent. Depending on space requirements we cannot guarantee you a standing table in this instance. 
 
 ### <a name= 'Food-Truck'></a> Food truck sponsors
 
-As a food truck sponsor you are sponsoring one of the 2 food trucks available at the venue that day. Your food truck will be on-site between 11:30 and 15:00. We will supply napkins with your logo on them for your food truck. You are not only free to, but highly encouraged to display your branding with roll-up banners or beach flags during this period in the common area around your food truck.
+As a Food Truck sponsor you are sponsoring one of the 2 food trucks available at the venue that day. Your food truck will be on-site between 11:30 and 15:00. We will supply napkins with your logo on them for your food truck. You are not only free to, but highly encouraged to display your branding with roll-up banners or beach flags during this period in the common area around your food truck.
 
-During the hours that the food truck is on-site (between 11:30 and 15:00) we will also supply (weather permitting)* a high standing table outside next to the food truck.
+During the hours that the food truck is on-site (between 11:30 and 15:00) we will also supply (weather permitting)[^2] a high standing table outside next to the food truck.
 
-* in the event of bad weather (strong winds, heavy rainfall) there limited space outside covered by our outside tent. Depending on space requirements we cannot guarantee you a standing table in this instance.
+ [^2]: In the event of bad weather (strong winds, heavy rainfall) there limited space outside covered by our outside tent. Depending on space requirements we cannot guarantee you a standing table in this instance.
 
 ## <a name= 'Schedule'></a> Event schedule and sponsor activities
 
