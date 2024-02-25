@@ -247,7 +247,7 @@ program:
     date: 2024-04-10
     start_time: "14:40"
     end_time: "15:10"
-  - title: "tanya-bragin-keynote"
+  - title: "cecelia-martinez-keynote"
     type: talk
     date: 2024-04-10
     start_time: "15:10"
@@ -387,7 +387,7 @@ program:
     date: 2024-04-11
     start_time: "15:10"
     end_time: "15:40"
-  - title: "cecelia-martinez-keynote"
+  - title: "tanya-bragin-keynote"
     type: talk
     date: 2024-04-11
     start_time: "15:40"
