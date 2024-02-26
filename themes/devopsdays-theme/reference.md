@@ -412,7 +412,11 @@ Returns the end date of registration for your event
 {{< registration_end >}}
 ```
 ### event_map
-If you have `location_address` set in your datafile, this will return a Google Map of that address
+If you have `location_address` set in your datafile, this will return a Google Map of that address. Takes two optional parameters (`height` and `width`) to set the dimensions of the map. Both parameters are optional. If not set, the map will default to 450px wide and 250px tall.
 ```
 {{< event_map >}}
+```
+or
+```
+{{< event_map width = "600" height="500" >}}
 ```
