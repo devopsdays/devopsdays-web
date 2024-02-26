@@ -39,10 +39,10 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
   - name: location
     icon: "map-o"
-    url: /events/2023-tampa/location
-  - name: registration
-  - name: program
-  - name: speakers
+    url: /events/2024-tampa/location
+#  - name: registration
+#  - name: program
+#  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -82,11 +82,6 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/seniaguiar/"
     image: "seniguiar.jpg"
     role: "Lead Organizer"
-  - name: "Carly Partington"
-    employer: "ZP Group"
-    website: "http://zpgroup.com"
-    linkedin: "https://www.linkedin.com/in/carly-partington-9470b53b/"
-    image: "carlypartington.jpg"
 
 organizer_email: "tampa@devopsdays.org" # Put your organizer email address here
 
@@ -99,10 +94,15 @@ sponsors:
     level: inkind
   - id: capitalone
     level: inkind
+  - id: digitalcharter
+    level: inkind
   - id: devopstampabay
     level: community
   - id: tampadevs
     level: community
+  - id: tampagai
+    level: community
+
 
     
 #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
@@ -116,17 +116,17 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  # - id: diamond
-  #   label: Diamond
-  #   max: 2
-  # - id: platinum
-  #   label: Platinum
-  #   max: 8 # This is the same as omitting the max limit.
-  # - id: gold
-  #   label: Gold
-  # - id: inkind
-  #   label: In-Kind
-  #   max: 4
-  # - id: community
-  #   label: Community
+  - id: diamond
+    label: Diamond
+    max: 2
+  - id: platinum
+    label: Platinum
+    max: 8 # This is the same as omitting the max limit.
+  - id: gold
+    label: Gold
+  - id: inkind
+    label: In-Kind
+    max: 4
+  - id: community
+    label: Community
 
