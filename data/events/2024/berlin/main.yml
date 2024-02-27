@@ -99,6 +99,10 @@ sponsors:
     level: platinum
   - id: snyk
     level: platinum
+  - id: thomas-krenn
+    level: platinum
+  - id: b1-systems
+    level: platinum
   - id: kubeevents
     level: partner
 
