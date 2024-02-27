@@ -1,12 +1,15 @@
 name: Pull Request Description Validation
 
 on:
-  pull_request:
-    types: [opened, edited, reopened]
+  pull_request_target:
+    types: [opened, edited, reopened, synchronize]
 
 jobs:
   validate-pr-description:
     runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
     steps:
       - name: Check PR Description Against Template
         id: prcheck
@@ -29,6 +32,7 @@ jobs:
         uses: thollander/actions-comment-pull-request@v2
         with:
           message: |
-            Hi @${{ github.event.pull_request.user.login }}! It looks like you've left the default text in the pull request description. Please replace that text with something meaningful. Thanks!
+            `en_US`: Hi @${{ github.event.pull_request.user.login }}! It looks like you've left the default text in the pull request description. Please replace that text with something meaningful. Thanks!
+            `pt_BR`: Olá @${{ github.event.pull_request.user.login }}! Parece que você deixou o texto predefinido na descrição da PR. Por favor, substitua esse texto por algo mais relevante. Obrigado!
 
             
