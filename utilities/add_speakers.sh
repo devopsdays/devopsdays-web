@@ -37,7 +37,7 @@ string_replace "CITY" "${city}" "${speakerspage}"
 string_replace "YYYY" "${year}" "${speakerspage}"
 
 # uncomment link to speakers page
-string_replace "#  - name: speakers" "  - name: speakers" "../data/events/${event_slug}.yml"
+string_replace "#  - name: speakers" "  - name: speakers" "../data/events/$year/$city_slug/main.yml"
 
 # Prompt for inputting speakers
 while [ 1 ]
