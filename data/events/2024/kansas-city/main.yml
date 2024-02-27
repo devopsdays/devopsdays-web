@@ -24,7 +24,7 @@ registration_date_start: 2024-01-15T08:00:00-06:00 # start accepting registratio
 registration_date_end: 2024-05-16T17:00:00-06:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "https://tickets.devopsdays.org/devopsdays-kansascity/2024/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://tickets.devopsdays.org/devopsdays-kansascity/2024/c/9X9kZg4vJ/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -36,11 +36,11 @@ location_address: "3810 Main St, Kansas City, MO 64111" #Optional - use the stre
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
   - name: register
-    url: https://tickets.devopsdays.org/devopsdays-kansascity/2024/
+    url: https://tickets.devopsdays.org/devopsdays-kansascity/2024/c/9X9kZg4vJ/
  # - name: program
  # - name: speakers
   - name: sponsor
-  - name: propose
+ # - name: propose
   - name: contact
   - name: conduct
 # - name: example
@@ -79,14 +79,14 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://linkedin.com/in/erin-crise"
     website: "https://medium.com/@erin-crise"
   - name: "Jeremy Meiss"
-    employer: "Unaffiliated"
+    employer: "DevEx Startup"
     twitter: "IAmJerdog"
     linkedin: "https://www.linkedin.com/in/jeremymeiss/"
     mastodon: "https://hachyderm.io/@jerdog"
     github: "jerdog"
     website: "https://jmeiss.me"
     image: "jeremy-meiss.jpg"
-    bio: "Jeremy is an experienced Developer Relations and Community leader with almost 30 years in Tech. He's is active in the DevRel and DevOps communities, and is a co-creator of DevOpsPartyGames.com. A lover of all things coffee, community, open source, and tech, he is a husband and father, and is also house-broken, and (generally) plays well with others."
+    bio: "Jeremy is an experienced Developer Experience and Community leader with almost 30 years in Tech. He's is active in the DevRel and DevOps communities, and is a co-creator of DevOpsPartyGames.com. A lover of all things coffee, community, open source, and tech, he is a husband and father, and is also house-broken, and (generally) plays well with others."
   - name: "Kayla Harmon"
     employer: "Unaffiliated"
     bio: "Kayla Harmon is an IT veteran with over 20 years of experience wrangling servers and herding cats in the KC Metro. She is a polymath intent on absorbing information on myriad subjects. She is just as likely to have deep knowledge of all things IT as she is all things esoteric. She spends her free time building and playing on Minecraft servers, gardening, studying yoga and Ayurveda, and hanging out with various animals."
@@ -167,6 +167,12 @@ sponsors:
     level: community
   - id: kubeevents
     level: community
+  - id: mentalhealthhackers
+    level: community
+  - id: sedai
+    level: silver
+  - id: awskc
+    level: lanyards
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -191,3 +197,5 @@ sponsor_levels:
   - id: social-event
     label: Social Event
     max: 1
+  - id: lanyards
+    label: Lanyards
