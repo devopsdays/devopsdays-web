@@ -25,16 +25,14 @@ Description = "DevOpsDays Vancouver 2024"
   </div>
   <div class="col-md-8">
     <div class="alert alert-secondary" role="alert">
-      <h4 class="alert-heading">DevOpsDays Vancouver is looking for your presentation</h4>
+      <h4 class="alert-heading">CFP submission window is closed now</h4>
       <p>
-        We are currently shouting out for speakers. If you are doing something new and interesting in the DevOps space we want to hear from you! If you have something great to talk about, then we're happy to help you polish and practice your presentation.
+        Thank you for your submissions, we've got a lot of great talks.</br>
+        In the next few weeks we are going to carefully go through all the submissions.
       </p>
       <p>
         {{< cfp_dates >}}
       </p>
-        <div class="d-flex justify-content-center">
-        <a class="btn btn-secondary" href="/events/2024-vancouver/propose/"> <i class="fa fa-microphone fa-lg"></i>&nbsp;&nbsp;&nbsp; Propose a talk</a>
-        </div>
     </div>
     <div>
       <p>After a two year hiatus we are back in business.</p>
