@@ -36,18 +36,18 @@ Description = "DevOpsDays Kansas City 2024 will take place May 15-16, 2024!"
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    <a href="https://tickets.devopsdays.org/devopsdays-kansascity/2024/">Register to attend the conference!</a>
+    <a href="https://tickets.devopsdays.org/devopsdays-kansascity/2024/c/9X9kZg4vJ/">Register to attend the conference!</a>
   </div>
 </div>
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
-</div>
+</div> -->
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -107,6 +107,13 @@ Description = "DevOpsDays Kansas City 2024 will take place May 15-16, 2024!"
             style="margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;"
             href="/events/2024-kansas-city/contact">
             <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Contact the Organizers
+          </a>
+        </div>
+        <div class="d-flex p-2">
+          <a class="btn btn-primary btn-block"
+            style="margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;"
+            href="https://lists.devopsdays.org/subscription?f=TYbgJMtfqomf8uYARrTHhqAKoinSX763iDCLAvdcUFPDW2aF7J7EY53W1TeVcYoawk">
+            <i class="fa fa-wpforms fa-lg"></i>&nbsp;&nbsp;&nbsp;Join the mailing list
           </a>
         </div>
       </div>
