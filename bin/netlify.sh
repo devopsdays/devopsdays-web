@@ -20,6 +20,7 @@ rm -rf dart-sass*;
 echo "List Bin Dir..."
 
 ls $BIN_DIR;
+chmod 700 ${BIN_DIR}/sass
 
 sass --embedded --version
 
