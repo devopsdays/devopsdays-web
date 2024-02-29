@@ -11,9 +11,9 @@
 
  [context.branch-deploy]
   command = """\
-  curl -LJO https://github.com/sass/dart-sass/releases/download/${DART_SASS_VERSION}/dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz && \
-  tar -xf dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz && \
-  rm dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz && \
+  curl -LJO https://github.com/sass/dart-sass/releases/download/1.71.1/dart-sass-1.71.1-linux-x64.tar.gz && \
+  tar -xf dart-sass-1.71.1-linux-x64.tar.gz && \
+  rm dart-sass-1.71.1-linux-x64.tar.gz && \
   export PATH=/opt/build/repo/dart-sass:$PATH && \
   hugo --gc --minify \
   """
