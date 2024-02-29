@@ -1,6 +1,18 @@
 {{ partial "google_analytics.html" . }}
 {{ partial "google_tag_manager.html" . }}
-<link href="/css/site.css" rel="stylesheet">
+<!-- <link href="/css/site.css" rel="stylesheet"> -->
+
+<!-- preload main css file -->
+{{ $styles := partialCached "functions/get-styles-bundle" . }}
+<link rel="preload" href="{{ $styles.Permalink }}" integrity = "{{ $styles.Data.Integrity }}" as="style" crossorigin="anonymous">
+
+<!-- end preload -->
+
+<!-- link main css file -->
+
+<!-- link main css file -->
+<link rel="stylesheet" type="text/css" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" crossorigin="anonymous">
+
 <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400,700" rel="stylesheet">
 {{- if eq .Type "speaking" -}}
   <link href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css" rel="stylesheet">
