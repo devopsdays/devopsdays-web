@@ -12,9 +12,12 @@ mkdir -p $BIN_DIR
 curl -LJO https://github.com/sass/dart-sass/releases/download/1.71.1/dart-sass-1.71.1-linux-x64.tar.gz
 
 tar -xvf dart-sass-1.71.1-linux-x64.tar.gz;
-
+echo "ls after untar"
+ls
 mv dart-sass/sass $BIN_DIR
 
+echo "which sass?"
+which sass
 rm -rf dart-sass*;
 
 echo "List Bin Dir..."
