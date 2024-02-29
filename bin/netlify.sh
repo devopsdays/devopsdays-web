@@ -8,7 +8,7 @@ DARTSASS_VERSION=1.63.4
 
 mkdir -p $BIN_DIR
 
-curl -LJO https://github.com/sass/dart-sass/releases/download/${DARTSASS_VERSION}/dart-sass-${{DARTSASS_VERSION }}-linux-x64.tar.gz
+curl -LJO https://github.com/sass/dart-sass/releases/download/${DARTSASS_VERSION}/dart-sass-${DARTSASS_VERSION}-linux-x64.tar.gz
 
 tar -xvf dart-sass-${DARTSASS_VERSION}-linux-x64.tar.gz;
 
