@@ -1,0 +1,45 @@
+article .article__body nav#toc {
+  background: #f8f9fa;
+  border: 1px solid #a2a9b1;
+  padding: 7px 15px 7px 15px;
+
+  & .toc-heading {
+    margin-bottom: 10px;
+  }
+
+  & .toc {
+    margin-left: 0;
+    margin-bottom: 10px;
+    font-size: 15px;
+    font-weight: 600;
+    list-style: none;
+
+    & ol {
+      list-style: none;
+    }
+
+    & li {
+      margin-top: 15px;
+      line-height: 1.3em;
+      padding: 0;
+
+      & a {
+        display: inline-block;
+      }
+    }
+
+    & li > ol {
+      margin-left: 30px;
+      font-size: inherit;
+    }
+  }
+}
+
+@include media-breakpoint-down(sm) {
+  article .article__body {
+    & .toc {
+      font-size: 13px;
+    }
+  }
+}
+

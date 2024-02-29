@@ -1,4 +1,5 @@
 /public
+/resources
 # General CodeKit files to ignore
 config.codekit
 # config.toml # This is a dangerous file, but we need it not in here.
