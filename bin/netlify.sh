@@ -14,10 +14,8 @@ curl -LJO https://github.com/sass/dart-sass/releases/download/1.71.1/dart-sass-1
 tar -xvf dart-sass-1.71.1-linux-x64.tar.gz;
 echo "ls after untar"
 
-mv dart-sass/sass $BIN_DIR
+mv -R dart-sass/* ${BIN_DIR}/
 
-
-rm -rf dart-sass*;
 
 echo "List Bin Dir..."
 
