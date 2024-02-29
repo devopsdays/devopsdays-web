@@ -10,13 +10,7 @@
   skip_processing = true
 
  [context.branch-deploy]
-  command = """\
-  curl -LJO https://github.com/sass/dart-sass/releases/download/1.71.1/dart-sass-1.71.1-linux-x64.tar.gz && \
-  tar -xf dart-sass-1.71.1-linux-x64.tar.gz && \
-  rm dart-sass-1.71.1-linux-x64.tar.gz && \
-  export PATH=/opt/build/repo/dart-sass:$PATH && \
-  hugo --gc --minify \
-  """
+  command = "bin/netlify.sh"
   publish = "public/"
   skip_processing = true
   
@@ -28,11 +22,9 @@
 
 [context.deploy-preview.environment]
   HUGO_VERSION = "0.123.3"
-  DART_SASS_VERSION = "1.71.1"
 
 [context.branch-deploy.environment]
   HUGO_VERSION = "0.123.3"
-  DART_SASS_VERSION = "1.71.1"
 
 # Mastodon Configuration
 [[redirects]]
@@ -43,3 +35,7 @@
   for = "/.well-known/webfinger/*"
     [headers.values]
     Access-Control-Allow-Origin = "*"
+    
+    
+#[[plugins]]
+# package = "netlify-plugin-hashfiles"
