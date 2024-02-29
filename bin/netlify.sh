@@ -14,13 +14,11 @@ curl -LJO https://github.com/sass/dart-sass/releases/download/1.71.1/dart-sass-1
 tar -xvf dart-sass-1.71.1-linux-x64.tar.gz;
 echo "ls after untar"
 
-mv -R dart-sass/* ${BIN_DIR}/
+cp -r dart-sass/* ${BIN_DIR}/
 
 
 echo "List Bin Dir..."
 
-ls -l $BIN_DIR;
-chmod 700 ${BIN_DIR}/sass
 ls -l $BIN_DIR;
 sass --embedded --version
 
