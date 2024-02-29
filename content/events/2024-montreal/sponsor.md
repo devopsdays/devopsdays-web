@@ -135,7 +135,7 @@ Our beautiful city is lucky to have an increasingly diverse tech community, and 
         <th>Sponsorship</th>
         <th class="regular">Lunch</th>
         <th class="regular">Cocktail</th>
-        <th class="gold-platinum">Sustainable giveaway</th>
+        <th class="gold-platinum">Sustainable giveaway***</th>
         <th class="regular">Coffee</th>
         <th class="bronze-silver">Bronze</th>
         <th class="bronze-silver">Silver</th>
@@ -408,6 +408,9 @@ Our beautiful city is lucky to have an increasingly diverse tech community, and 
 </div>
 <div>
 <b>**</b>Non-profits must be registered non-profits, excluding complicated non-profits (eg, Ikea). We reserve the right to reject those types
+</div>
+<div>
+<b>***</b>Sustainable swag option only available in combination with these sponsorships: Bronze, Silver, Gold or Platinum. Sponsorship prize and benefits will added together.
 </div>
 
 <!-- 
