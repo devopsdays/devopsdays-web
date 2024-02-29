@@ -26,7 +26,7 @@
     "gulp-sourcemaps": "^3.0.0",
     "gulp-uglify": "^3.0.2",
     "require-dir": "~1.2.0",
-    "sass": "^1.52.3"
+    "sass": "^1.71.1"
   },
   "dependencies": {
     "bootstrap": "^4.3.1",
