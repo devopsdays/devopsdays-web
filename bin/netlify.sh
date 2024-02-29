@@ -4,7 +4,7 @@ echo "Install Dart Sass..."
 
 # This is in Netlify's PATH.
 # npm install -g sass
-
+which sass
 echo "Building..."
 
 hugo version
