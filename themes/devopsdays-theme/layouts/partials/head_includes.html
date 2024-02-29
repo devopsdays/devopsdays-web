@@ -2,12 +2,12 @@
 {{ partial "google_tag_manager.html" . }}
 <!-- preload main css file -->
 {{ $styles := partialCached "functions/get-styles-bundle" . }}
-<link rel="preload" href="{{ $styles.Permalink }}" integrity = "{{ $styles.Data.Integrity }}" as="style" crossorigin="anonymous">
+<link rel="preload" href="{{ $styles.RelPermalink }}" integrity = "{{ $styles.Data.Integrity }}" as="style" crossorigin="anonymous">
 
 <!-- end preload -->
 
 <!-- link main css file -->
-<link rel="stylesheet" type="text/css" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" crossorigin="anonymous">
+<link rel="stylesheet" type="text/css" href="{{ $styles.RelPermalink }}" integrity="{{ $styles.Data.Integrity }}" crossorigin="anonymous">
 
 <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400,700" rel="stylesheet">
 {{- if eq .Type "speaking" -}}
