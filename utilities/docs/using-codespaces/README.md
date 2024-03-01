@@ -70,3 +70,5 @@ When you are not using your Codespace, you want to be sure to stop it, so you ar
 Free, personal GitHub accounts have 120 core-hours per month of Codespaces usage.
 
 In order to build the devopsdays-web site, you will need a "machine type" of 4 cores and 16 GB of RAM. So this means you can use the Codespace for 30 hours per month. If you are using the Codespace for other projects, you will need to be mindful of your usage.
+
+If you'd like to see how much of your allocated core-hours you have used, visit your [GitHub Billing Summary](https://github.com/settings/billing/summary)
