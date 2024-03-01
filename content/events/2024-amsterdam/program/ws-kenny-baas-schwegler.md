@@ -1,0 +1,12 @@
++++
+Talk_date = ""
+Talk_start_time = ""
+Talk_end_time = ""
+Title = "Collaborative software design for team cognitive load"
+Type = "talk"
+Speakers = ["kenny-baas-schwegler"]
++++
+When navigating the complexities of software design and development, new ideas and future requests frequently cross software and team boundaries. The most effective approach to these design challenges is through collaborative modelling sessions, where teams are directly involved in crafting the software design. Yet, this approach leads us to a critical dilemma: What happens when new capabilities increase the cognitive load on a team, hindering their ability to deliver on both new and ongoing business needs? And how do we address situations where these new capabilities clash with our current architecture, leading to necessary changes that don't fit our existing team structures? Our goal is always to create the best architecture for our business challenges, but this depends heavily on our teams' delivery capabilities. This brings us to a fundamental question: If our teams face difficulties in implementing what is ideally the 'best' architecture, can we still consider it the most effective solution?
+
+Join us in this interactive, hands-on session, where you will delve into a real-world software design challenge that intersects both software and team boundaries. Equipped with detailed context and comprehensive software diagrams, you will design in groups two potential software designs. You are free to approach the challenge in any way you prefer, and we will provide a message flow modelling template to help you quickly start addressing your challenge.
+From those initial two designs, we will introduce you to the fundamental principles of Team Topologies, focusing on how cognitive load affects the teams involved and your software design. This understanding of cognitive load will be crucial as we further explore more solutions to the design challenge. Throughout this session, you will gain practical insights into how cognitive load influences your approach to software design. You will learn how to effectively incorporate Team Topologies into your design decisions. By the end of this experience, you will have hands-on software design experience, tackling complex design challenges with a team-first approach.
