@@ -171,7 +171,7 @@
 /ankara/*            /events/2020-ankara/:splat           302
 /lima/*            /events/2020-lima/:splat           302
 /rosario/*            /events/2020-rosario/:splat           302
-/aarhus/*            /events/2022-aarhus/:splat           302
+/aarhus/*            /events/2025-aarhus/:splat           302
 /almaty/*            /events/2023-almaty/:splat           302
 /organizer-summit/*            /events/2024-organiser-summit/:splat           302
 /organiser-summit/cfp          https://talks.devopsdays.org/organiser-summit-2024/cfp           302
