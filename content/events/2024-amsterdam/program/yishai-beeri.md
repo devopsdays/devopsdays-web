@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "How Can Engineering Leaders Measure the Impact of GenAI"
-Type = ""
+Type = "talk"
 Speakers = ["yishai-beeri"]
 +++
 Generative AI has taken the world by storm since its general availability to the public in early 2023. Going from novel technology to commodity in months, this disruptive technology quickly found applications in the software development world - and many engineering organizations are trying to capitalize on the disruptive technology.

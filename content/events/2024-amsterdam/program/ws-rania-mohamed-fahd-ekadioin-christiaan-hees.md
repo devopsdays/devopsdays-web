@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "The future of AI in the Software Development Lifecycle to Enhance Efficiency and Quality"
-Type = "workshop"
+Type = "talk"
 Speakers = ["rania-mohamed","fahd-ekadioin","christiaan-hees"]
 +++
 In this talk, we will explore the potential of AI in revolutionizing the traditional Software Development Lifecycle (SDLC).

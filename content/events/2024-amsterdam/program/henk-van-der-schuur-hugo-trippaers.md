@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "Adding Soul to the System: Our Strive for DevOps Significance"
-Type = ""
+Type = "talk"
 Speakers = ["henk-van-der-schuur","hugo-trippaers"]
 +++
 DevOps has become the de facto standard for teamwork in IT. Yet, it mainly concerns IT, and many teams keep struggling to bridge the gap with Business.

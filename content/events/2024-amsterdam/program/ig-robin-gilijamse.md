@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "A Case Against Automation"
-Type = "ignite"
+Type = "talk"
 Speakers = ["robin-gilijamse"]
 +++
 Automation. Everyone seems to want more of it. It's the A in CALMS, the basic tenets of DevOps. It’s the best way to eliminate all the tedious repetitive tasks that make up so much of our daily operational work. Just automate everything, and all our lives will be better.

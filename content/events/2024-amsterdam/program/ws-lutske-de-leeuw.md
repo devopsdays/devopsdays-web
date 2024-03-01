@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "Machine learning 102: How to deploy to AWS production?"
-Type = "workshop"
+Type = "talk"
 Speakers = ["lutske-de-leeuw"]
 +++
 You've taken your first steps into the exciting world of machine learning, and now you're ready to bring your models to life in a production environment on AWS. Join this session, "Machine Learning 102: Deploying to AWS Production," designed for developers who have dipped their toes into machine learning and are eager to learn the ropes of deploying models in a real-world setting. Whether you're a Python-savvy coder or just starting to explore the possibilities of machine learning, this presentation will guide you through the essential steps of transitioning from model creation to deployment.

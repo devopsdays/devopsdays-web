@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "Leveraging Team Topologies for software evolution"
-Type = "workshop"
+Type = "talk"
 Speakers = ["joao-rosa"]
 +++
 Have you ever faced roadblocks in software development stemming from disjointed team structures or interactions? You’re not alone. Misalignments between software and the domain, siloed teams focusing on discrete tasks, or processes dictating software architecture often culminate in rigid software not resonating with evolving requirements.

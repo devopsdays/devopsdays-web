@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "\"Best do it at a bit of a run if you're nervous\""
-Type = "ignite"
+Type = "talk"
 Speakers = ["daniel-bodky"]
 +++
 ...is what Harry Potter gets told when trying to get to platform 9 3/4 for the first time. And sometimes, going at a higher pace and stop overthinking stuff is a great strategy when we're under stress, uncertain of where we're heading, or just getting started with new things.

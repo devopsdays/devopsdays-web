@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "Cloud-native warehouse automation: how Picnic pushes the boundaries of the cloud"
-Type = ""
+Type = "talk"
 Speakers = ["gijs-van-der-voort"]
 +++
 In 2022 Picnic opened its first fully automated warehouse. Groceries whiz by at a dazzling speed on conveyor belts, robot shuttles, and other automation components. Initially Picnic's own warehouse control system ran on-premise, since low-latency responses and stability are key to running a stable operation.

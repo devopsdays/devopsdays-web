@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "How the world ends"
-Type = "ignite"
+Type = "talk"
 Speakers = ["marcel-britsch"]
 +++
 Join me in this dark but also inspirational exploration of existential risks and what they mean for us working in technology.

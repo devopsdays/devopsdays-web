@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "Escaping Legacy"
-Type = "workshop"
+Type = "talk"
 Speakers = ["wouter-lagerweij","suzanne-lagerweij"]
 +++
 Escaping legacy is hard. You have a product in the hands of users, but delivery gets slow, defects are common, and when you want to build a new feature no one can say how long it’s going to take. Engineering is talking about a rewrite, but you can’t just stop and wait.

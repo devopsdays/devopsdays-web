@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "Innovation Incubator - Our DevOps Training Blueprint"
-Type = ""
+Type = "talk"
 Speakers = ["feu-mourek"]
 +++
 Join me at DevOpsDays for a chat on how we prepare trainees for roles in tech in our organisation in a fun and engaging way.

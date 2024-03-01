@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "Let's Improve - Leverage DORA to Improve Your Team's Software Delivery and Operations Performance"
-Type = "workshop"
+Type = "talk"
 Speakers = ["nathen-harvey","amanda-lewis"]
 +++
 Technology drives value and innovation in every organization. At Google Cloud, we have learned a lot about what it takes to build and scale high-performing technology teams. Our own lived experience combined with a multi-year research program by the DORA team can be used to help you and your team transform into a high-performing technology team.

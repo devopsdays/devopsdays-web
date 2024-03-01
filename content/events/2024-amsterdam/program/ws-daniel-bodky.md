@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "ArgoCD Odyssey: Navigating from Basics to Brilliance"
-Type = "workshop"
+Type = "talk"
 Speakers = ["daniel-bodky"]
 +++
 GitOps has been around for a few years now, and available tools have matured. With ArgoCD, a single CNCF-graduated project provides a UI, CLI, and many advanced features for templating, customizations, and multi-cluster operations.

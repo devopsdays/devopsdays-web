@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "Failing to Learn vs Learning to Fail"
-Type = "keynote"
+Type = "talk"
 Speakers = ["sasha-rosenbaum"]
 +++
 In todays tech environment, both people and organizations must continuously learn and adapt to be successful. Yet study after study shows that learning is difficult for most organizations.

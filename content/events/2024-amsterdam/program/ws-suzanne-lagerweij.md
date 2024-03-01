@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "Influence without Power - Why Empathy is your Best Friend"
-Type = "workshop"
+Type = "talk"
 Speakers = ["suzanne-lagerweij"]
 +++
 Let’s talk about powerful conversations! We all know how to lead a constructive conversation, right? Then why is it so difficult to have those conversations with people at work, especially those in powerful positions that show resistance to change?

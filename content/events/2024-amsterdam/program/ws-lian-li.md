@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "Owning the Stage"
-Type = "workshop"
+Type = "talk"
 Speakers = ["lian-li"]
 +++
 Have you ever wanted to be on stage, but feel uncomfortable in front of many people? Or are you already a speaker and would like to improve your stage presence? Then this is the workshop for you!
