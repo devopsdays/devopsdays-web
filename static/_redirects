@@ -174,7 +174,7 @@
 /aarhus/*            /events/2022-aarhus/:splat           302
 /almaty/*            /events/2023-almaty/:splat           302
 /organizer-summit/*            /events/2024-organiser-summit/:splat           302
-/organiser-summit/*            /events/2024-organiser-summit/:splat           302
+/organiser-summit/cfp          https://talks.devopsdays.org/organiser-summit-2024/cfp           302
 /nova-lima/*            /events/2024-nova-lima/:splat           302
 /belo-horizonte/*	/events/2024-belo-horizonte/:splat	302
 
@@ -258,3 +258,4 @@
 /johannesburg/*            /events/2024-johannesburg/:splat           302
 /ahmedabad/*            /events/2024-ahmedabad/:splat           302
 events/2024-ahmedabad/sponsorship-prospectus.pdf https://assets.devopsdays.org/events/2024/ahmedabad/sponsorship-prospectus.pdf
+/curitiba/*            /events/2024-curitiba/:splat           302

@@ -41,7 +41,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
   - name: registration
  # - name: program
- # - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -137,8 +137,10 @@ sponsors:
     level: gold
   - id: sherweb
     level: silver
-  - id: zentelia
+  - id: creasavia
     level: bronze
+  - id: desjardins
+    level: coffee
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
