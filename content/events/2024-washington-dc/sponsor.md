@@ -4,31 +4,31 @@ Type = "event"
 Description = "Sponsor devopsdays Washington, D.C. 2024"
 +++
 
-DevOpsDays is a self-organizing conference for DevOps practitioners that depends on your sponsorships. We value
-sponsor/attendee interaction, so we introduce all sponsors to attendees, include sponsors in
-all conference activities, and maintain a low attendee to sponsor ratio (about 18 attendees per sponsor).
+DevOpsDays is a volunteer-organized conference for DevOps practitioners that depends on your sponsorships. We value sponsor/attendee interaction, so we:
 
-<!-- We do not have vendor booths, sell product presentations, or distribute attendee contact lists. -->
-Sponsors have recognition on the website and social media before and during the event, and the
-opportunity for short elevator pitches during the program.
+* introduce all sponsors to attendees,
+* include sponsors in all conference activities, and
+*  maintain a low attendee to sponsor ratio (about 18 attendees per sponsor).
 
-Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers.
-All attendees are welcome to propose any subject they want during the open spaces, but this is a 
-community-focused conference, so heavy marketing will probably work against you when trying to 
-make a good impression on the attendees.  The best thing to do is send practitioners to interact with their peers at DevOpsDays on their own terms.
+Sponsors have recognition on the website and social media before and during the event, and the opportunity for short elevator pitches during the program.
 
-We expect over 300 attendees based on venue capacity and past participation, and they will represent the diverse nature of the DC-Maryland-Virginia economy.
+Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against making a good impression. We suggest sending practitioners to interact with their peers at DevOpsDays on their own terms.
 
+We expect over 300 attendees based on venue capacity and past participation, and they will represent the diverse nature of the DC-Maryland-Virginia economy, including government,  government contractor, private sector, non-profit, and international NGO participants.
 DevOpsDays DC does not share registration information directly with sponsors, but feel free to ask attendees for their contact details.
+
+DevOpsDays DC does not share registration information directly with sponsors, but feel free to ask attendees for their contact details. We do not have vendor booths, sell product presentations, or distribute attendee contact lists.
 
 ## Kubernetes Days DC 2024 Co-Sponsorship Opportunities
 
-Stretch your sponsorship time and dollars! Sponsor us and Kubernetes Community Day DC 2024 (site launching March 2024) and:
+Kubernetes Days DC (site launching March 2024) is a one-day event on Tuesday, September 23, also at the American Red Cross headquarters.
 
-* Reach two conferences at one venue over three consecutive days
-* Earn a 10% discount by sponsoring both events
+Sponsor both events and:
 
-KDC expects about 150 attendees for their one-day event on Tuesday, September 23, also at the American Red Cross headquarters.
+* Reach **two conferences** at **one venue** over three consecutive days
+* Earn a **10% discount** by sponsoring both events
+
+KDC expects about 150 attendees for their event.
 
  **Reserving and paying for your sponsorship**: Please use the PayPal links below, or email the organizers at sponsors@devopsdaysdc.org for alternate payment forms, or with any questions. 
 <!-- **Reserving and paying for your sponsorship**: Email the organizers at sponsors@devopsdaysdc.org for payment processing, or with any questions. -->
@@ -145,8 +145,7 @@ KDC expects about 150 attendees for their one-day event on Tuesday, September 23
   </tr>
   </tbody>
 </table>
-Refunds: Full sponsor refunds are available until 6/1/2023. Sponsor refunds between 6/2/2023 and 7/15/2023 will be at 90%. Between 7/15/2023 and 9/1/2023, sponsors can downgrade one sponsor tier and receive the difference (e.g. from Platinum to Silver for $4,500), but table space will not be available.
-
+Refunds: Full sponsor refunds are available until 6/1/2024. Sponsor refunds between 6/2/2024 and 7/15/2024 will be at 75%. No refunds after 7/15/2024.
 <hr/>
 
 ### All Sponsorships
@@ -163,7 +162,7 @@ Refunds: Full sponsor refunds are available until 6/1/2023. Sponsor refunds betw
 
 ### Platinum - Price $7,000 USD ($6,500 early bird)
 
-* The "All sponsorhip" benefits
+* The "All sponsorship" benefits
 * 1 minute pitch to full audience <!-- including streaming audience (provided we are able to stream the videos) -->
 * 4 included tickets
 * Full table for swag/marketing/staffing. (A/V ability TBD).
@@ -186,9 +185,7 @@ Refunds: Full sponsor refunds are available until 6/1/2023. Sponsor refunds betw
   * M.C. will introduce sponsor representatives 
   * M.C. will deliver sponsor-provided pitch up to 20 seconds (about 40 words), with sponsor slide
 
-
 ## Special Sponsorships
-
 
 ### Closed Captioning Sponsor - Price $4,500 USD (1 spot)
 
@@ -206,12 +203,13 @@ Refunds: Full sponsor refunds are available until 6/1/2023. Sponsor refunds betw
 
 We also offer community sponsorships. This is not a paid sponsorship. Instead, this sponsorship is extended to regional
 conferences, media and meetups who wish to exchange a spot on our banner for a spot on their own, and for cross-promotion on social media. Building community in the area is a worthwhile goal and we're all in this together! Community sponsors must be:
+
 * Part of the mission to help promote technology and/or technology education in DC, Maryland and Virginia
 * Willing to help promote, in kind, DevOpsDays DC.
 * Willing to adhere to our code of conduct
 
 Sponsors are granted one comp ticket, a discount code to promote within their community, Twitter/Fediverse and LinkedIn mentions, and your icon on our website and slides.
 
-Please reach out to sponsors@devopsdaysdc.org to set up this relationship. 
+Please reach out to sponsors@devopsdaysdc.org to set up this relationship.
 
 <hr/>
