@@ -2,7 +2,7 @@
 Title = "Dan Cook"
 Twitter = ""
 linkedin = "https://www.linkedin.com/in/danonthetrail/"
-image = ""
+image = "dan-cook.jpg"
 type = "speaker"
 linktitle = "dan-cook"
 +++

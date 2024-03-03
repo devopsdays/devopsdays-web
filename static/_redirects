@@ -33,7 +33,7 @@
 /cuba/*			/events/2019-cuba/:splat		302
 /dallas/*		/events/2024-dallas/:splat		302
 /denver/*		/events/2024-denver/:splat		302
-/des-moines/*		/events/2023-des-moines/:splat		302
+/des-moines/*		/events/2024-des-moines/:splat		302
 /detroit/*		/events/2023-detroit/:splat		302
 /down-under/*		/events/2019-sydney/:splat		302
 /edinburgh/*		/events/2020-edinburgh/:splat		302
@@ -114,7 +114,7 @@
 /singapore/*		/events/2024-singapore/:splat		302
 /stockholm/*		/events/2020-stockholm/:splat		302
 /taipei/*		/events/2022-taipei/:splat		302
-/tampa/*		/events/2023-tampa/:splat		302
+/tampa/*		/events/2024-tampa/:splat		302
 /tel-aviv/*		/events/2023-tel-aviv/:splat		302
 /texas/*		/events/2021-texas/:splat		302
 /tokyo/*		/events/2022-tokyo/:splat		302
@@ -171,10 +171,10 @@
 /ankara/*            /events/2020-ankara/:splat           302
 /lima/*            /events/2020-lima/:splat           302
 /rosario/*            /events/2020-rosario/:splat           302
-/aarhus/*            /events/2022-aarhus/:splat           302
+/aarhus/*            /events/2025-aarhus/:splat           302
 /almaty/*            /events/2023-almaty/:splat           302
 /organizer-summit/*            /events/2024-organiser-summit/:splat           302
-/organiser-summit/*            /events/2024-organiser-summit/:splat           302
+/organiser-summit/cfp          https://talks.devopsdays.org/organiser-summit-2024/cfp           302
 /nova-lima/*            /events/2024-nova-lima/:splat           302
 /belo-horizonte/*	/events/2024-belo-horizonte/:splat	302
 
@@ -258,3 +258,4 @@
 /johannesburg/*            /events/2024-johannesburg/:splat           302
 /ahmedabad/*            /events/2024-ahmedabad/:splat           302
 events/2024-ahmedabad/sponsorship-prospectus.pdf https://assets.devopsdays.org/events/2024/ahmedabad/sponsorship-prospectus.pdf
+/curitiba/*            /events/2024-curitiba/:splat           302

@@ -1,12 +1,21 @@
+{{- $width := "450" -}}
+{{- $height := "250" -}}
+{{- with (.Get "width") -}}
+  {{- $width = . -}}
+{{- end -}}
+{{- with (.Get "height") -}}
+  {{- $height = . -}} 
+{{- end -}}
 {{- $e := partial "functions/get-event-data" . -}}
 {{- $coords := split $e.coordinates "," -}}
 {{- $lat := index $coords 0 -}}
 {{- $lng := index $coords 1 -}}
 
+
 {{- with $e.location_address -}}
 <iframe
-  width="450"
-  height="250"
+    width="{{ $width }}"
+    height="{{ $height }}"
   frameborder="0" style="border:0"
   referrerpolicy="no-referrer-when-downgrade"
   src='https://www.google.com/maps/embed/v1/place?key={{ $.Site.Params.GoogleMapsAPI }}&q={{ replace $e.location_address " " "+"}}' allowfullscreen>
