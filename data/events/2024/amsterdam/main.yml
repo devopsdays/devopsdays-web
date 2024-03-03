@@ -229,12 +229,12 @@ program:
     end_time: "12:00"
     comments: "Studio"
 
-  # - title: "ws-john-willis"
-  #   type: workshop
-  #   date: 2024-06-19T00:00:00+02:00
-  #   start_time: "09:00"
-  #   end_time: "12:00"
-  #   comments: "IJ Zaal"
+  - title: "ws-john-willis"
+    type: workshop
+    date: 2024-06-19T00:00:00+02:00
+    start_time: "09:00"
+    end_time: "12:00"
+    comments: "IJ Zaal"
 
   # BREAK
   - title: "Break"
@@ -292,12 +292,12 @@ program:
     start_time: "14:30"
     end_time: "14:45"
 
-  # - title: "ws-mike-kotsur"
-  #   type: workshop
-  #   date: 2024-06-19T00:00:00+02:00
-  #   start_time: "14:45"
-  #   end_time: "16:45"
-  #   comments: "Expo 1"
+  - title: "ws-mike-kotsur"
+    type: workshop
+    date: 2024-06-19T00:00:00+02:00
+    start_time: "14:45"
+    end_time: "16:45"
+    comments: "Expo 1"
 
   # BREAK
   - title: "Break"
@@ -593,11 +593,11 @@ program:
     end_time: "14:50"
     background_color: "#ffb566"
 
-  # - title: "katie-schilling"
-  #   type: talk
-  #   date: 2024-06-21T00:00:00+02:00
-  #   start_time: "14:20"
-  #   end_time: "14:50"
+  - title: "katie-schilling"
+    type: talk
+    date: 2024-06-21T00:00:00+02:00
+    start_time: "14:20"
+    end_time: "14:50"
 
   - title: "Open Space Session - Day 2 - #5"
     type: open-space
