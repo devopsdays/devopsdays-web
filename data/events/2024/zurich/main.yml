@@ -37,14 +37,14 @@ location_address: "Technikumstrasse 8, 8400 Winterthur, Switzerland" #Optional -
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
 #  - name: propose
-  - name: program
-  - name: speakers
-  - name: location
-  - name: registration
-  - name: sponsor
-  - name: diversity
-  - name: contact
-  - name: conduct
+- name: program
+- name: speakers
+- name: location
+- name: registration
+- name: sponsor
+- name: diversity
+- name: contact
+- name: conduct
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -172,6 +172,8 @@ sponsors:
   level: silver
 - id: cognizant
   level: bronze
+- id: swiss-digital-network
+  level: bronze
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -207,12 +209,12 @@ program:
   start_time: '8:00'
   end_time: '9:00'
 
-- title: Opening 
+- title: Opening
   type: custom
   date: 2024-04-16
   start_time: '9:00'
   end_time: '9:15'
-  
+
 - title: jennifer-petoff
   type: talk
   date: 2024-04-16
@@ -236,7 +238,7 @@ program:
   date: 2024-04-16
   start_time: '11:00'
   end_time: '11:30'
-  
+
 - title: julia-gaetjens
   type: talk
   date: 2024-04-16
@@ -321,11 +323,11 @@ program:
   date: 2024-04-17
   start_time: '9:00'
   end_time: '9:15'
-  
+
 - title: manuel-pais
   type: talk
   date: 2024-04-17
-  start_time: '9:15' 
+  start_time: '9:15'
   end_time: '10:00'
 
 - title: jean-marc-zenklusen
@@ -345,7 +347,7 @@ program:
   date: 2024-04-17
   start_time: '11:00'
   end_time: '11:30'
-  
+
 - title: laurent-balmelli
   type: talk
   date: 2024-04-17
@@ -413,35 +415,35 @@ program:
   end_time: '17:30'
 
 ignites:
-  - title: "suzanne-daniels"
-    date: 2024-04-16
-  - title: "evelina-rimkute"
-    date: 2024-04-16
-  - title: "john-nguyen"
-    date: 2024-04-16 
-  - title: "verena-traub"
-    date: 2024-04-16
-  - title: "marc-sallin"
-    date: 2024-04-16
-  - title: "annie-talvasto"
-    date: 2024-04-16
-  - title: "pawel-sucholbiak"
-    date: 2024-04-16
-  - title: "thomas-stein"
-    date: 2024-04-16
-  - title: "ulrike-eilhauer"
-    date: 2024-04-17
-  - title: "mischa-maurer"
-    date: 2024-04-17
-  - title: "prasad-lambe"
-    date: 2024-04-17  
-  - title: "xenia-ioannidou"
-    date: 2024-04-17   
-  - title: "peter-haefliger"
-    date: 2024-04-17
-  - title: "oleg-nenashev"
-    date: 2024-04-17 
-  - title: "antonio-alvino"
-    date: 2024-04-17 
-  - title: "sebastian-haeni"
-    date: 2024-04-17 
+- title: "suzanne-daniels"
+  date: 2024-04-16
+- title: "evelina-rimkute"
+  date: 2024-04-16
+- title: "john-nguyen"
+  date: 2024-04-16
+- title: "verena-traub"
+  date: 2024-04-16
+- title: "marc-sallin"
+  date: 2024-04-16
+- title: "annie-talvasto"
+  date: 2024-04-16
+- title: "pawel-sucholbiak"
+  date: 2024-04-16
+- title: "thomas-stein"
+  date: 2024-04-16
+- title: "ulrike-eilhauer"
+  date: 2024-04-17
+- title: "mischa-maurer"
+  date: 2024-04-17
+- title: "prasad-lambe"
+  date: 2024-04-17
+- title: "xenia-ioannidou"
+  date: 2024-04-17
+- title: "peter-haefliger"
+  date: 2024-04-17
+- title: "oleg-nenashev"
+  date: 2024-04-17
+- title: "antonio-alvino"
+  date: 2024-04-17
+- title: "sebastian-haeni"
+  date: 2024-04-17
