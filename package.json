@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/devopsdays/devopsdays-web#readme",
   "devDependencies": {
+    "@gethinode/netlify-plugin-dartsass": "^0.3.0",
     "gulp": "^4.0.2",
     "gulp-concat": "^2.6.1",
     "gulp-htmlmin": "^5.0.1",
@@ -26,7 +27,7 @@
     "gulp-sourcemaps": "^3.0.0",
     "gulp-uglify": "^3.0.2",
     "require-dir": "~1.2.0",
-    "sass": "^1.52.3"
+    "sass": "^1.71.1"
   },
   "dependencies": {
     "bootstrap": "^4.3.1",

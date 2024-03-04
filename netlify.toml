@@ -19,12 +19,15 @@
 
 [context.production.environment]
    HUGO_VERSION = "0.123.6"
+   DART_SASS_VERSION = "1.71.1" 
 
 [context.deploy-preview.environment]
   HUGO_VERSION = "0.123.6"
+  DART_SASS_VERSION = "1.71.1" 
 
 [context.branch-deploy.environment]
   HUGO_VERSION = "0.123.6"
+  DART_SASS_VERSION = "1.71.1" 
 
 # Mastodon Configuration
 [[redirects]]
@@ -37,5 +40,5 @@
     Access-Control-Allow-Origin = "*"
     
     
-#[[plugins]]
-# package = "netlify-plugin-hashfiles"
+[[plugins]]
+  package = "netlify-plugin-dartsass"
