@@ -37,8 +37,7 @@
 [[headers]]
   for = "/.well-known/webfinger/*"
     [headers.values]
-    Access-Control-Allow-Origin = "*"
-    
-    
+      Access-Control-Allow-Origin = "*"
+
 [[plugins]]
   package = "netlify-plugin-dartsass"
