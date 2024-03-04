@@ -40,4 +40,4 @@
       Access-Control-Allow-Origin = "*"
 
 [[plugins]]
-  package = "netlify-plugin-dartsass"
+  package = "@gethinode/netlify-plugin-dartsass"
