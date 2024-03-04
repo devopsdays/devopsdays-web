@@ -10,9 +10,8 @@ If you'd like to edit a specific devopsdays event site (and/or contribute code),
 
 ### Quick Overview
 
-1. Have the ability to run Hugo. This can be done locally or through
-   Docker.
-1. [Fork](https://help.github.com/articles/fork-a-repo/) this repo and clone a copy locally.
+1. Have the ability to run Hugo. This can be done with a local installation of Hugo, via Docker, or via [GitLab](./utilities/docs/using-gitpod/README.md) or [GitHub](./utilities/docs/using-gitpod/README.md) Codespaces.
+1. [Fork](https://help.github.com/articles/fork-a-repo/) this repo and clone a copy locally (if not using GitPod or GitHub Codespaces).
 
 #### Run Hugo with Docker (Recommended)
 
@@ -23,23 +22,29 @@ If you'd like to edit a specific devopsdays event site (and/or contribute code),
 
   1. Install [Hugo](http://gohugo.io). Use the Hugo version that we use in [.github/workflows/hugo.yml](https://github.com/devopsdays/devopsdays-web/blob/main/.github/workflows/hugo.yml) file. [(Quick Install)](https://gohugo.io/getting-started/installing#binary-cross-platform)
 Examples of hugo installation with a version:
-   - maxOS: `brew install hugo@0.67.1`
-   - linux: `brew install hugo@0.67.1`
-   - windows: `choco install hugo -confirm --version 0.67.1 --allow-downgrade`
 
+- macOS: `brew install hugo@0.67.1`
+- linux: `brew install hugo@0.67.1`
+- windows: `choco install hugo -confirm --version 0.67.1 --allow-downgrade`
+
+2. Install Dart Sass (this is needed for the build)
+
+- macOS: `brew install sass/sass/sass`
+- Linux: `brew install sass/sass/sass` or `sudo snap install dart-sass`
+- Windows: `choco install sass` or `scoop install sass`
 
 ### View site locally
 
 To watch for changes and rebuild on the fly, open a new terminal, change directories to your fork of the repo, and execute the following:
 
-```
+``` shell
 # Run through Docker (recommended)
 ./hugoserver.sh
 ```
 
 or
 
-```
+``` shell
 # Run with your local Hugo installation
 hugo server -w --baseUrl="http://localhost:1313"
 ```
@@ -50,7 +55,7 @@ Now open `http://localhost:1313` in a browser and navigate to the content that y
 
 When running the `hugo server -w` command listed above, you may get an error about "too many open files" or "fatal error: pipe failed". To solve this, run the following commands in your terminal:
 
-```
+``` shell
 sudo launchctl limit maxfiles 65535 200000
 ulimit -n 65535
 sudo sysctl -w kern.maxfiles=100000
@@ -67,45 +72,45 @@ Make your own [fork](https://help.github.com/articles/fork-a-repo/) of the `devo
 
 Add the source repository as a [remote called "upstream"](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/configuring-a-remote-for-a-fork):
 
-```
+```shell
 git remote add upstream git@github.com:devopsdays/devopsdays-web.git
 ```
+
 or
-```
+
+```shell
 git remote add upstream https://github.com/devopsdays/devopsdays-web.git
 ```
 
 You only need to create your fork once, as long as you don't delete it.
 
-
 ### Editing your site
 
 1. Before starting any new change, it is essential that you `rebase` your local repository from the upstream. You may think that working from your fork is enough, but sometimes upstream changes will affect your work in ways you may not anticipate, so you'll want to stay current. Issue these commands:
 
-
- - `git checkout main`
- - `git pull upstream main --rebase`
-
+- `git checkout main`
+- `git pull upstream main --rebase`
 
 This confirms you are on the main branch locally, and then applies the changes from the upstream to your copy.
 
-
 2. Create a new local [branch](https://help.github.com/articles/about-branches/) for your changes. This helps to keep things tidy!
 
-  ```
-  $ git checkout -b fix_that_thing
-  ```
-  (Replace `fix_that_thing` with a quick description of your *actual* change.)
+```shell
+  git checkout -b fix_that_thing
+```
 
+  (Replace `fix_that_thing` with a quick description of your *actual* change.)
 
 3. Make your changes, test them locally (see above - the `watch` command sometimes needs a restart), then push that branch up to `origin` on your fork.
 
-  ```
-  $ git push origin fix_that_thing
-  ```
+```shell
+  git push origin fix_that_thing
+```
 
 4. Submit a [Pull Request](https://help.github.com/articles/using-pull-requests/) for the branch you just pushed. Please title the pull request according to the event affected, i.e., `[CHI-2017] Add Bluth Company as a sponsor`
+
 5. Optionally, open your [pull request](https://github.com/devopsdays/devopsdays-web/pulls) in a browser and look at the preview that `Netlify` (a build tool) built.
+
 6. You can mention on devopsdays Slack's #website if you'd like a PR merged quickly. (Availability of maintainers varies.)
 7. When a commit is merged to `main` on GitHub, Netlify will automatically build the site and publish it to [https://www.devopsdays.org](https://www.devopsdays.org).
 
@@ -114,9 +119,10 @@ This confirms you are on the main branch locally, and then applies the changes f
 1. Code changes for [devopsdays-theme](https://github.com/devopsdays/devopsdays-web/blob/main/themes/devopsdays-theme/) should be made in a different PR from event content updates.
 1. We use [github issues](https://github.com/devopsdays/devopsdays-web/issues) to track work, so feel free to create new issues if you like (or read/comment/work on existing ones).
 1. If you are proposing a change that affects the overall site, and is not tied to an existing issue, please open a [new issue](https://github.com/devopsdays/devopsdays-web/issues) so that it can be discussed by the team, prior to submitting a pull request.
-1. If you're using CRLF line terminators (like on Windows), the site won't build correctly if the first `+++` line of frontmatter in speaker and program files ends in a space like `+++ `. The [workaround](https://github.com/devopsdays/devopsdays-theme/issues/652) is to remove the trailing space.
+1. If you're using CRLF line terminators (like on Windows), the site won't build correctly if the first `+++` line of frontmatter in speaker and program files ends in a space like `+++`. The [workaround](https://github.com/devopsdays/devopsdays-theme/issues/652) is to remove the trailing space.
 
 #### How Changes are Merged
+
 - A maintainer will merge the PR if it is mergable, as soon as the checks pass.
 - If you do not want your PR merged immediately, in most cases you should not open the PR.
 - Our [workflow guide](https://github.com/devopsdays/devopsdays-web/blob/main/utilities/docs/workflow/README.md) provides solutions to most `WIP` use cases without opening a PR.
@@ -131,11 +137,10 @@ This confirms you are on the main branch locally, and then applies the changes f
 
 Generally speaking, you should avoid storing any files other than logos or small images inside the repo itself (out of consideration for your fellow devopsdays organizers who have to pull down this repo). Please follow these guidelines:
 
-* Do not upload presentations or other artifacts from your event into this repo. Either link to the presentation on Speakerdeck/Slideshare from the presenter, or even better, create a Speakerdeck account for your event and put the presos there.
-* Small web images are fine (logos, etc). If you have high-resolution versions of your logo to share with others, please do not host them on the devopsdays-web repo.
-* It is acceptable to add in a single PDF for your sponsor prospectus if you desire (in `static/events/YYYY-city`), but please keep this file under 3 MB. It is better to host it on Google Drive or something similar, and then link to it from your site.
-* OPTIONAL - you can host your PDFs for prospectus, etc, in the repo at [devopsdays/devopsdays-assets](https://github.com/devopsdays/devopsdays-assets) and then link to them from there. Files in that repo are presented under their relative URL at https://assets.devopsdays.org. For example, the file located at `static/events/2016/chicago/devopsdays-chicago-2016-prospectus.pdf` in the `devopsdays/devopsdays-assets` repo will be presented at `https://assets.devopsdays.org/events/2016/chicago/devopsdays-chicago-2016-prospectus.pdf`
-
+- Do not upload presentations or other artifacts from your event into this repo. Either link to the presentation on Speakerdeck/Slideshare from the presenter, or even better, create a Speakerdeck account for your event and put the presos there.
+- Small web images are fine (logos, etc). If you have high-resolution versions of your logo to share with others, please do not host them on the devopsdays-web repo.
+- It is acceptable to add in a single PDF for your sponsor prospectus if you desire (in `static/events/YYYY-city`), but please keep this file under 3 MB. It is better to host it on Google Drive or something similar, and then link to it from your site.
+- OPTIONAL - you can host your PDFs for prospectus, etc, in the repo at [devopsdays/devopsdays-assets](https://github.com/devopsdays/devopsdays-assets) and then link to them from there. Files in that repo are presented under their relative URL at https://assets.devopsdays.org. For example, the file located at `static/events/2016/chicago/devopsdays-chicago-2016-prospectus.pdf` in the `devopsdays/devopsdays-assets` repo will be presented at `https://assets.devopsdays.org/events/2016/chicago/devopsdays-chicago-2016-prospectus.pdf`
 
 ## Maintainer Guidelines
 
@@ -162,19 +167,19 @@ If you wish to show someone else your local changes without creating a pull requ
 
 Firstly make sure `netlify dev` is installed
 
-```
+```shell
 npm install netlify-cli -g
 ```
 
 If you're not authenticated with netlify, do so with the following command. Note that you may need an account.
 
-```
+```shell
 netlify login
 ```
 
 Now use `netlify dev` to share your local changes
 
-```
+```shell
 netlify dev --live
 ```
 
