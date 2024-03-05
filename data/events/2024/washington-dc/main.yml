@@ -206,8 +206,9 @@ sponsors:
   - id: kcddc
     level: community
     #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  - id: devopsdc-meetup
+  - id: devopsdaysbaltimore
     level: community
+  
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -218,10 +219,10 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: platinum
     label: Platinum
-    max: 12
+    max: 6
   - id: gold
     label: Gold
-    max: 6
+    max: 4
   - id: silver
     label: Silver
     max: 6
