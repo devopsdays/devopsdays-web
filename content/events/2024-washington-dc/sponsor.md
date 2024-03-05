@@ -29,7 +29,7 @@ Sponsor both events and:
 
 KDC expects about 150 attendees for their event.
 
- **Reserving and paying for your sponsorship**: Please use the PayPal links below, or email the organizers at [{{< email_organizers >}}] for alternate payment forms, or with any questions. 
+ **Reserving and paying for your sponsorship**: Please use the PayPal links below, or email the organizers at {{< email_organizers >}} for alternate payment forms, or with any questions. 
 <!-- **Reserving and paying for your sponsorship**: Email the organizers at sponsors@devopsdaysdc.org for payment processing, or with any questions. -->
 
 
@@ -66,14 +66,28 @@ KDC expects about 150 attendees for their event.
   </tr>
   <tr class="hed2">
     <td></td> 
-    <td><strong>$6,500<br>early bird thru 7/22</strong></td> 
-    <td><strong>$3,500<br>early bird thru 7/22</strong></td> 
-      <td><strong>$2,000 USD</strong>
+    <td><strong>$6,500<br>early bird thru 7/22</strong>
       <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-        <input type="hidden" name="cmd" value="_s-xclick">
-        <input type="hidden" name="hosted_button_id" value="BNM7NTBBCZH3Q">
-        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-        <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+        <input type="hidden" name="cmd" value="_s-xclick" />
+        <input type="hidden" name="hosted_button_id" value="PEDRK9AVKZ5S2" />
+        <input type="hidden" name="currency_code" value="USD" />
+        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Buy Now" />
+      </form>
+    </td>
+    <td><strong>$3,500<br>early bird thru 7/22</strong> 
+      <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+        <input type="hidden" name="cmd" value="_s-xclick" />
+        <input type="hidden" name="hosted_button_id" value="A9X83ACGMRN4C" />
+        <input type="hidden" name="currency_code" value="USD" />
+        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Buy Now" />
+      </form>
+    </td>
+    <td><strong>$2,000 USD</strong>
+      <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+        <input type="hidden" name="cmd" value="_s-xclick" />
+        <input type="hidden" name="hosted_button_id" value="83R84BT56NRDG" />
+        <input type="hidden" name="currency_code" value="USD" />
+        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Buy Now" />
       </form>
     </td>
   </tr>
@@ -195,7 +209,7 @@ Refunds: Full sponsor refunds are available until 6/1/2024. Sponsor refunds betw
 
 The American Red Cross is an alcohol-free facility. If you would like to sponsor
 (or co-sponsor) a social event at a local venue after the event Social Hour, we
-are ready to help you. Please contact [{{< email_organizers >}}].
+are ready to help you. Please contact {{< email_organizers >}}.
 
 ### Closed Captioning Sponsor - Price $4,500 USD (1 spot)
 
@@ -220,6 +234,6 @@ conferences, media and meetups who wish to exchange a spot on our banner for a s
 
 Sponsors are granted one comp ticket, a discount code to promote within their community, Twitter/Fediverse and LinkedIn mentions, and your icon on our website and slides.
 
-Please reach out to [{{< email_organizers >}}] to set up this relationship.
+Please reach out to {{< email_organizers >}} to set up this relationship.
 
 <hr/>
