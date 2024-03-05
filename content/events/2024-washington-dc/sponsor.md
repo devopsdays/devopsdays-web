@@ -1,7 +1,7 @@
 +++
 Title = "Sponsor"
 Type = "event"
-Description = "Sponsor devopsdays Washington, D.C. 2024"
+Description = "Sponsor DevOpsDays Washington, D.C. 2024"
 +++
 
 DevOpsDays is a volunteer-organized conference for DevOps practitioners that depends on your sponsorships. We value sponsor/attendee interaction, so we:
@@ -10,14 +10,13 @@ DevOpsDays is a volunteer-organized conference for DevOps practitioners that dep
 * include sponsors in all conference activities, and
 * maintain a low attendee to sponsor ratio (about 18 attendees per sponsor).
 
-Sponsors have recognition on the website and social media before and during the event, and the opportunity for short elevator pitches during the program.
+Sponsors have recognition on the website and social media before and during the event, and the opportunity for short pitches during the program.
 
 Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against making a good impression. We suggest sending practitioners to interact with their peers at DevOpsDays on their own terms.
 
 We expect over 300 attendees based on venue capacity and past participation, and they will represent the diverse nature of the DC-Maryland-Virginia economy, including government,  government contractor, private sector, non-profit, and international NGO participants.
-DevOpsDays DC does not share registration information directly with sponsors, but feel free to ask attendees for their contact details.
 
-DevOpsDays DC does not share registration information directly with sponsors, but feel free to ask attendees for their contact details. We do not have vendor booths, sell product presentations, or distribute attendee contact lists.
+DevOpsDays DC does not share registration information directly with sponsors, but feel free to ask attendees for their contact details.
 
 ## Kubernetes Days DC 2024 Co-Sponsorship Opportunities
 
@@ -30,7 +29,7 @@ Sponsor both events and:
 
 KDC expects about 150 attendees for their event.
 
- **Reserving and paying for your sponsorship**: Please use the PayPal links below, or email the organizers at sponsors@devopsdaysdc.org for alternate payment forms, or with any questions. 
+ **Reserving and paying for your sponsorship**: Please use the PayPal links below, or email the organizers at [{{< email_organizers >}}] for alternate payment forms, or with any questions. 
 <!-- **Reserving and paying for your sponsorship**: Email the organizers at sponsors@devopsdaysdc.org for payment processing, or with any questions. -->
 
 
@@ -150,7 +149,7 @@ Refunds: Full sponsor refunds are available until 6/1/2024. Sponsor refunds betw
 
 ### All Sponsorships
 
-* Social media mentions on Linked, Twitter, Fediverse…
+* Social media mentions on Linked, Twitter, Fediverse
   * Upon securing sponsorship (when payment is confirmed)
   * Two weeks before the conference
   * During the conference
@@ -196,7 +195,7 @@ Refunds: Full sponsor refunds are available until 6/1/2024. Sponsor refunds betw
 
 The American Red Cross is an alcohol-free facility. If you would like to sponsor
 (or co-sponsor) a social event at a local venue after the event Social Hour, we
-are ready to help you. Please contact 
+are ready to help you. Please contact [{{< email_organizers >}}].
 
 ### Closed Captioning Sponsor - Price $4,500 USD (1 spot)
 
@@ -221,6 +220,6 @@ conferences, media and meetups who wish to exchange a spot on our banner for a s
 
 Sponsors are granted one comp ticket, a discount code to promote within their community, Twitter/Fediverse and LinkedIn mentions, and your icon on our website and slides.
 
-Please reach out to sponsors@devopsdaysdc.org to set up this relationship.
+Please reach out to [{{< email_organizers >}}] to set up this relationship.
 
 <hr/>
