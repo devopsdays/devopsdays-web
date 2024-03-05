@@ -6,9 +6,9 @@ Description = "Sponsor devopsdays Washington, D.C. 2024"
 
 DevOpsDays is a volunteer-organized conference for DevOps practitioners that depends on your sponsorships. We value sponsor/attendee interaction, so we:
 
-* introduce all sponsors to attendees,
+* introduce all sponsors to attendees from the main stage,
 * include sponsors in all conference activities, and
-*  maintain a low attendee to sponsor ratio (about 18 attendees per sponsor).
+* maintain a low attendee to sponsor ratio (about 18 attendees per sponsor).
 
 Sponsors have recognition on the website and social media before and during the event, and the opportunity for short elevator pitches during the program.
 
@@ -186,6 +186,17 @@ Refunds: Full sponsor refunds are available until 6/1/2024. Sponsor refunds betw
   * M.C. will deliver sponsor-provided pitch up to 20 seconds (about 40 words), with sponsor slide
 
 ## Special Sponsorships
+
+### Hands-on Workshop - Price $2,000 (1 spot - Platinum sponsors only)
+
+* Dedicated room and 60-minute time slot for up to 30 participants
+* Available only to Platinum-level sponsors
+
+### Happy Hour sponsorship
+
+The American Red Cross is an alcohol-free facility. If you would like to sponsor
+(or co-sponsor) a social event at a local venue after the event Social Hour, we
+are ready to help you. Please contact 
 
 ### Closed Captioning Sponsor - Price $4,500 USD (1 spot)
 
