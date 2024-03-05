@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Collaborative software design for team cognitive load"
 Type = "talk"
-Speakers = ["kenny-baas-schwegler"]
+Speakers = ["kenny-baas-schwegler","sjoerd-westerhof"]
 +++
 When navigating the complexities of software design and development, new ideas and future requests frequently cross software and team boundaries. The most effective approach to these design challenges is through collaborative modelling sessions, where teams are directly involved in crafting the software design. Yet, this approach leads us to a critical dilemma: What happens when new capabilities increase the cognitive load on a team, hindering their ability to deliver on both new and ongoing business needs? And how do we address situations where these new capabilities clash with our current architecture, leading to necessary changes that don't fit our existing team structures? Our goal is always to create the best architecture for our business challenges, but this depends heavily on our teams' delivery capabilities. This brings us to a fundamental question: If our teams face difficulties in implementing what is ideally the 'best' architecture, can we still consider it the most effective solution?
 
