@@ -3,9 +3,7 @@
 - Remove _this default text_ from the PR description, and replace it with a summary of the changes (e.g. 'Added 10 new speakers, Added 6 sponsors, Added emojis to CFP page').
 
 *If you are adding or removing organizers, please email info@devopsdays.org with:*
-- The details of who is being added and removed. 
-- For members being added, please include the full names and email addresses of the new members.
-
-The global team uses the above information to update Slack and the mailing list.
+- Include the full names, email addresses, and organizations the added/removed persons represent.
+- (The global team uses this information to maintain your mailing list as well as the Slack.)
 
 Up to date guidelines for pull requests can be found in the [contributing guide](https://github.com/devopsdays/devopsdays-web/blob/main/CONTRIBUTING.md#guidelines).
