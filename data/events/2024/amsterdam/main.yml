@@ -66,7 +66,7 @@ team_members: # Name is the only required field for team members.
   - name: "Floor Drees"
     pronouns: "she/her"
     linkedin: "https://www.linkedin.com/in/floordrees/"
-    twitter: "FloorDrees"
+    twitter: "DevOpsBarbie"
     image: "floor.jpg"
 
   - name: "Suzanne Daniels"
@@ -136,10 +136,10 @@ sponsors:
   - id: stackstate
     level: gold
   # Lanyard
+  - id: schubergphilis
+    level: lanyard
   # Foodtruck
   # Recharge
-  - id: schubergphilis
-    level: recharge
   # Silver
   - id: sysdig
     level: silver
