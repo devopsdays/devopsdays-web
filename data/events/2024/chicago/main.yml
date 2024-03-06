@@ -15,8 +15,8 @@ enddate: 2024-09-19T17:00:00-05:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2024-02-26T00:00:00-05:00  # start accepting talk proposals.
-cfp_date_end: 2024-04-12T00:23:00-05:00  # close your call for proposals.
-cfp_date_announce: 2024-04-22T00:00:00-05:00 # inform proposers of status
+cfp_date_end: 2024-05-03T00:23:00-05:00  # close your call for proposals.
+cfp_date_announce: 2024-05-10T00:00:00-05:00 # inform proposers of status
 
 cfp_link: "https://chicago-proposals.devopsdays.org/devopsdays-chicago-2024/cfp" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
