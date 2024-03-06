@@ -48,9 +48,9 @@ _Ticket Donation_: please notify the conference organizers if you will not be us
 
 ## <a name='code-of-conduct'></a>Code of Conduct
 
-Respect and empathy are core DevOps values. All sponsors and attendees are required to abide by the [Code of Conduct][1] listed on our website. If at any time a member of the organizing committee finds that any attendee (associated with a sponsor or not) has violated the Code of Conduct, the organizing committee has the sole discretion to take any appropriate action up to and including asking that attendee to leave without a refund.
+Respect and empathy are core DevOps values. All sponsors and attendees are required to abide by the [Code of Conduct](https://devopsdays.org/events/2024-singapore/conduct) listed on our website. If at any time a member of the organizing committee finds that any attendee (associated with a sponsor or not) has violated the __Code of Conduct__, the organizing committee has the sole discretion to take any appropriate action up to and including asking that attendee to leave without a refund.
 
-Please ensure all marketing materials and swag are appropriate and in line with our [Code of Conduct][1] Sponsors with handouts, prizes, or other swag that organizers find in violation of our Code of Conduct will be asked to remove those items immediately.
+Please ensure all marketing materials and swag are appropriate and in line with our __Code of Conduct__ Sponsors with handouts, prizes, or other swag that organizers find in violation of our Code of Conduct will be asked to remove those items immediately.
 
 ## <a name='social-media'></a>Social Media
 
@@ -158,7 +158,7 @@ For each Silver Sponsor, the M.C. will introduce sponsor representatives and del
 
 # <a name='happy-hour'></a>Thursday Happy Hour
 
-The first evening will have a [social hour][2] from 5:25 pm until 7:30 pm.
+The first evening will have a [social hour](https://devopsdays.org/events/2024-singapore/location/#happy-hour) from 5:25 pm until 7:30 pm.
 If you are planning to host a party or happy hour, etc after either day of the conference, please let us know the details! We will include this information in communications to attendees. Please send the details to [{{< email_organizers >}}]
 
 # <a name='afternoon-raffle'></a>Friday Afternoon Raffle
@@ -196,10 +196,6 @@ Yes. If you want to do a giveaway, you will need to collect your own information
 
 **Who organizes DevOpsDays Singapore?**
 
-Your [DevOpsDays Singapore organizers][3] are Singapore-based technology folks who volunteer their time for this event.
+Your [DevOpsDays Singapore organizers](https://devopsdays.org/events/2024-singapore/contact) are Singapore-based technology folks who volunteer their time for this event.
 
 For any other questions, email at [{{< email_organizers >}}]
-
-[1]: (https://devopsdays.org/events/2024-singapore/conduct)
-[2]: (https://devopsdays.org/events/2024-singapore/location/#happy-hour)
-[3]: (https://devopsdays.org/events/2024-singapore/contact)
