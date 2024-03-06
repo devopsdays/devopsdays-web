@@ -48,9 +48,9 @@ _Ticket Donation_: please notify the conference organizers if you will not be us
 
 ## <a name='code-of-conduct'></a>Code of Conduct
 
-Respect and empathy are core DevOps values. All sponsors and attendees are required to abide by the [Code of Conduct](../conduct) listed on our website. If at any time a member of the organizing committee finds that any attendee (associated with a sponsor or not) has violated the Code of Conduct, the organizing committee has the sole discretion to take any appropriate action up to and including asking that attendee to leave without a refund.
+Respect and empathy are core DevOps values. All sponsors and attendees are required to abide by the [Code of Conduct][1] listed on our website. If at any time a member of the organizing committee finds that any attendee (associated with a sponsor or not) has violated the Code of Conduct, the organizing committee has the sole discretion to take any appropriate action up to and including asking that attendee to leave without a refund.
 
-Please ensure all marketing materials and swag are appropriate and in line with our [Code of Conduct](../conduct) Sponsors with handouts, prizes, or other swag that organizers find in violation of our Code of Conduct will be asked to remove those items immediately.
+Please ensure all marketing materials and swag are appropriate and in line with our [Code of Conduct][1] Sponsors with handouts, prizes, or other swag that organizers find in violation of our Code of Conduct will be asked to remove those items immediately.
 
 ## <a name='social-media'></a>Social Media
 
@@ -69,7 +69,7 @@ Please note that sponsors are responsible for collecting their own leads and con
 ## <a name='location'></a>Location
 
 <address>
-<a href="../location">Hotel Fort Canning</a><br>
+<a href="https://devopsdays.org/events/2024-singapore/location">Hotel Fort Canning</a><br>
 11 Canning Walk,<br>
 Singapore 178881<br>
 </address>
@@ -91,7 +91,7 @@ __*Strictly no delivery of goods is allowed through the Lobby or Front Entrance 
 
 ## <a name='floor-plan'></a>Floor Plan
 
-<a href="./media/sponsor-floor.jpg"><img src="./media/sponsor-floor-small.jpg" alt="Floor Plan">
+<a href="https://devopsdays.org/events/2024-singapore/media/sponsor-floor.jpg"><img src="https://devopsdays.org/events/2024-singapore/media/sponsor-floor-small.jpg" alt="Floor Plan">
 <br>
 *Click on the floorplan for a larger version*
 
@@ -125,10 +125,6 @@ Sponsors will have access to the same free wireless access points as the attende
 - Doors open at 8:00am for attendees; talks start at 9:00am.
 - Teardown must be complete by 4:45 pm on Friday, March 22.
 
-| Sponsor            | Table # | Table Rank |
-| ------------------ | ------- | ------------ |
-| TBC Sponsor        | TBC     | TBC |
-
 ## <a name='sponsor-stamps'></a>Sponsor Stamps
 
 Attendees will be given 1 game card upon Registration
@@ -139,7 +135,7 @@ Upon Completion of game card, Attendees can submit them at Registration Counter 
 
 ## <a name='sponsor-pitch-schedule'></a>Sponsor Pitch Schedule
 
-Please send us the pitch by March 15. Each Platinum Sponsor will have three minutes (max three slides) and each Gold Sponsor will have one minute (one slide to be displayed during the pitch) to address the main hall and the listening audience during scheduled blocks between talks. Please ensure that the content of your pitch adheres to the [Code of Conduct](../conduct/).
+Please send us the pitch by March 15. Each Platinum Sponsor will have three minutes (max three slides) and each Gold Sponsor will have one minute (one slide to be displayed during the pitch) to address the main hall and the listening audience during scheduled blocks between talks. Please ensure that the content of your pitch adheres to the [Code of Conduct][1].
 
 We will display your slide deck or your company logo on the main screen during your pitch.
 
@@ -147,22 +143,22 @@ For each Silver Sponsor, the M.C. will introduce sponsor representatives and del
 
 | Day       | Time (5 min slot) | Sponsors                |
 |-----------|-------------------|-------------------------|
-| **Thursday** | 9:45 AM            | Platinum #1 (3min) |
-| 		   |                    | Gold #1 (1min) |
-|          | 1:30 PM            | Gold #3  |
-|          |                    | Gold #5  |
+| **Thursday** | 9:45 AM        | Gold #1 (1min) |
+| 		   |                    | Gold #3  |
+|          | 1:30 PM            | Gold #5  |
 |          |                    | Gold #7  |
-| **Friday**   | 9:45 AM            | Platinum #2 (3min) |
-| 		   |                    | Gold #2 (1min) |
-|          | 1:30 PM            | Gold #4  |
-|          |                    | Gold #6  |
+|          |                    | Gold #9  |
+| **Friday**   | 9:45 AM        | Gold #2 (1min) |
+| 		   |                    | Gold #4  |
+|          | 1:30 PM            | Gold #6  |
 |          |                    | Gold #8  |
+|          |                    | Gold #10  |
 | 		   | 5:15 PM            | Sponsor giveaways       |
 <br><br>
 
 # <a name='happy-hour'></a>Thursday Happy Hour
 
-The first evening will have a <a href="../location/#happy-hour">social hour</a> from 5:25 pm until 7:30 pm.
+The first evening will have a [social hour][2] from 5:25 pm until 7:30 pm.
 If you are planning to host a party or happy hour, etc after either day of the conference, please let us know the details! We will include this information in communications to attendees. Please send the details to [{{< email_organizers >}}]
 
 # <a name='afternoon-raffle'></a>Friday Afternoon Raffle
@@ -200,6 +196,10 @@ Yes. If you want to do a giveaway, you will need to collect your own information
 
 **Who organizes DevOpsDays Singapore?**
 
-Your [DevOpsDays Singapore organizers](../contact) are Singapore-based technology folks who volunteer their time for this event.
+Your [DevOpsDays Singapore organizers][3] are Singapore-based technology folks who volunteer their time for this event.
 
 For any other questions, email at [{{< email_organizers >}}]
+
+[1]: (https://devopsdays.org/events/2024-singapore/conduct)
+[2]: (https://devopsdays.org/events/2024-singapore/location/#happy-hour)
+[3]: (https://devopsdays.org/events/2024-singapore/contact)

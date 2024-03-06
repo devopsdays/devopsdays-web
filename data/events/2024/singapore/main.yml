@@ -43,13 +43,13 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     icon: "ticket"
   - name: program
   - name: speakers
-  - name: sponsor
-    icon: "money"
+#  - name: sponsor
+#    icon: "money"
   - name: contact
     icon: "comment"
   - name: conduct
     icon: universal-access
-  - name: volunteer
+#  - name: volunteer
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -77,6 +77,7 @@ team_members: # Name is the only required field for team members.
     employer: "NCS"
 
   - name: "Lin Ling"
+    twitter: "tamara_draguta"
     employer: "Bank of America"
 
 organizer_email: "singapore@devopsdays.org" # Put your organizer email address here
@@ -85,26 +86,28 @@ proposal_email: "singapore@devopsdays.org" # Put your proposal email address her
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: redhat
-    level: gold
   - id: arigaio
     level: gold 
   - id: chef-progress
     level: gold
   - id: site24x7
-    level: gold      
+    level: gold    
   - id: snyk
-    level: gold
-  - id: elastic
     level: gold
   - id: f5-nginx
     level: gold
   - id: circleci
     level: gold      
-  - id: redis-labs
+  - id: redis
     level: gold
   - id: thales
-    level: gold   
+    level: gold
+  - id: redhat
+    level: gold
+  - id: elastic
+    level: gold
+  - id: cloudopslab
+    level: silver    
   - id: singapore-devops-community
     level: community
   - id: singapore-devsecops-community
@@ -115,26 +118,23 @@ sponsors:
     level: community
   - id: kubeevents
     level: community
-  - id: akamai
-    level: travel     
+  - id: sonatype
+    level: community   
   - id: appcd
     level: travel  
   - id: ergonautic
     level: travel
-  
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: platinum
-    label: Platinum
-    max: 2
   - id: gold
     label: Gold
-    max: 9
+    max: 10
   - id: silver
     label: Silver
     max: 0 # This is the same as omitting the max limit.
@@ -272,7 +272,7 @@ program:
     date: 2024-03-22
     start_time: "09:55"
     end_time: "10:00"
-  - title: "talia-nassi"
+  - title: "heather"
     type: talk
     date: 2024-03-22
     start_time: "10:00"
@@ -356,13 +356,31 @@ ignites:
   - title: "shruthi-bhaskar"
     date: 2024-03-21
   - title: "michel-schildmeijer"
+    date: 2024-03-21  
+  - title: "minh-nguyen"
     date: 2024-03-21
+  - title: "ronak-banka"
+    date: 2024-03-21
+  - title: "jeff-salleh"
+    date: 2024-03-21
+  - title: "salma-shaik"
+    date: 2024-03-21
+  - title: "aniket-rao"
+    date: 2024-03-21  
 
   - title: "pas-apicella"
     date: 2024-03-22
   - title: "sasha-rosenbaum"
     date: 2024-03-22
   - title: "abhishek"
-    date: 2024-03-22  
-  - title: "richard-taylor"
+    date: 2024-03-22
+  - title: "ned-lowe"
+    date: 2024-03-22 
+  - title: "harish-pillay"
+    date: 2024-03-22
+  - title: "stefan-streichsbier"  
+    date: 2024-03-22
+  - title: "sunil-mavadia"
+    date: 2024-03-22
+  - title: "keith-strini"
     date: 2024-03-22
