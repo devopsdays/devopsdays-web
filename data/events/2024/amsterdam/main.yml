@@ -66,7 +66,7 @@ team_members: # Name is the only required field for team members.
   - name: "Floor Drees"
     pronouns: "she/her"
     linkedin: "https://www.linkedin.com/in/floordrees/"
-    twitter: "FloorDrees"
+    twitter: "DevOpsBarbie"
     image: "floor.jpg"
 
   - name: "Suzanne Daniels"
@@ -136,10 +136,10 @@ sponsors:
   - id: stackstate
     level: gold
   # Lanyard
+  - id: schubergphilis
+    level: lanyard
   # Foodtruck
   # Recharge
-  - id: schubergphilis
-    level: recharge
   # Silver
   - id: sysdig
     level: silver
@@ -222,7 +222,7 @@ program:
     end_time: "12:00"
     comments: "Grote Zaal"
   
-  - title: "ws-kenny-baas-schwegler"
+  - title: "ws-kenny-baas-schwegler-sjoerd-westerhof"
     type: workshop
     date: 2024-06-19T00:00:00+02:00
     start_time: "09:00"
@@ -320,19 +320,12 @@ program:
     end_time: "17:00"
     comments: "Grote Zaal"
 
-  # - title: "ws-alireza-chegini"
-  #   type: workshop
-  #   date: 2024-06-19T00:00:00+02:00
-  #   start_time: "16:15"
-  #   end_time: "17:00"
-  #   comments: "Ij Zaal"
-
   - title: "ws-rania-mohamed-fahd-ekadioin-christiaan-hees"
     type: workshop
     date: 2024-06-19T00:00:00+02:00
-    start_time: "16:45"
-    end_time: "17:30"
-    comments: "Expo 1"
+    start_time: "16:15"
+    end_time: "17:00"
+    comments: "Ij Zaal"
 
   # end of day
   - title: "Have a beer on us!"
