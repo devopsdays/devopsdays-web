@@ -1,0 +1,137 @@
+name: "2024-belo-horizonte" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2024" # The year of the event. Make sure it is in quotes.
+city: "Belo Horizonte" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaysbh" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+#description: "Em breve!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2024-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2024-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2024-09-28T00:00:00-03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2024-09-28T23:59:59-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+  
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start:  # start accepting talk proposals.
+cfp_date_end:  # close your call for proposals.
+cfp_date_announce:  # inform proposers of status
+
+cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# masthead_background: "bh.png"
+# Location
+#
+coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+#location: "Nova Lima" # Defaults to city, but you can make it the venue name.
+#
+location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+ # - name: propose
+ # - name: location
+ # - name: registration
+ # - name: program
+ # - name: speakers
+  - name: sponsor
+  - name: organizadores
+  - name: código de conduta
+    url: /events/2024-belo-horizonte/conduta 
+  # - name: requisitos para as palestras
+  #   url: /events/2024-belo-horizonte/propose 
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Paloma Lataliza"
+    employer: "Cloud Engineer at Claro Brasil"
+    twitter: "shescloud_"
+    bio: "Apaixonada por tecnologia, entusiasta em cloud, fã de cavaleiros do zodíaco e que ama compartilhar conhecimento. Graduada em Ciência da Computação pela Universidade FUMEC e pós graduanda em Cloud Computing pela PUC Minas. Sou uma AWS Community Builder, umas das Líderes do AWS User Group MG e Co-Fundadora do Mulheres na Nuvem MG."
+    image: "paloma.jpg"
+
+  - name: "Rafaela Vidotti"
+    employer: "Project Manager at Bid Broke"
+    linkedin: "https://www.linkedin.com/in/rafaelavidotti/"
+    bio: "TikToker de Dancinhas e Infraestutura de TI que ama fugir de um padrão, luta diariamente por mais mulheres no ambiente, e para desmistificar “essa tal de TI “ para todos. Recém-palestrante, líder de comunidade AWSUG e fundadora de uma para mulheres."
+    image: "rafaela.jpeg"
+
+  - name: "Victor Parreira"
+    employer: "Infrastructure Analyst at Quality Digital"
+    linkedin: "https://www.linkedin.com/in/victorparreira/"
+    bio: "Um cara de humanas que descobriu em tech sua maior paixão. Gosto de misturar tudo aquilo que aprendi na minha carreira até agora para trazer uma nova visão sobre o mundo de cloud e suas ferramentas.  <br> <br> <br> <br> <br>"
+    image: "victor.jpg" 
+
+  - name: "Arthur Gomes"
+    employer: "Consultor DevOps na Arkhi Business Agility"
+    linkedin: "https://www.linkedin.com/in/arthur-faria-97b676144/"
+    bio: "Consultor sênior de DevOps em horário comercial, Barista amador em horário de lazer, e eterno estudante de Engenharia de Sistemas na UFMG nos intervalos! Com uma grande paixão por otimizar o tempo e uma predileção pelo universo DevOps (tanto a cultura quanto as ferramentas), eu vivo pelo lema: 'Se é preciso fazer mais de uma vez, é melhor automatizar'"
+    image: "arthur.jpeg"  
+  
+  - name: "Zandler Oliveira"
+    twitter: "zandler"
+    linkedin: "https://www.linkedin.com/in/zandler-oliveira/"
+    bio: ""
+    image: "zandler-oliveira.jpg"
+
+  - name: "Bernardo Machado"
+    instagram: "bmachado_devops"
+    linkedin: "https://www.linkedin.com/in/bernardo-machado-68096960"
+    bio: "Devsecops"
+    image: "bernardo.jpeg"
+
+  - name: "Wellington Brandão"
+    instagram: "wnbrandao"
+    linkedin: " http://linkedin.com/in/wnbrandao"
+    bio: "Devops"
+    image: "wellington.jpeg"
+
+  - name: "Daniel Rodrigues"
+    employer: "Tech Lead at Flash"
+    linkedin: "https://www.linkedin.com/in/eusouodaniel"
+    bio: "Amplo conhecimento e experiência profissional em desenvolvimento web, com conhecimento em diversas ferramentas e linguagens, facilidade no aprendizado e alto foco. Atualmente atua como Engenheiro de Software, Mentor e Professor."
+    image: "daniel-rodrigues.jpeg"
+
+  - name: "Felipe Rocha"
+    employer: "DevOps Lead at BCG "
+    linkedin: "https://linkedin.com/in/felipefonsecarocha"
+    bio: "Curioso e entusiasta da ciência. Programador por profissão e por hobby. Curtindo a vibe DevOps. Fã de anime. Core goal learn as much as possible!"
+    image: "felipe-rocha.jpeg"
+    
+organizer_email: "belo-horizonte@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: samplesponsorname
+    level: gold
+ #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: arresteddevops
+    level: community
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: gold
+    label: Gold
+#    max: 10
+  - id: silver
+    label: Silver
+    max: 0 # This is the same as omitting the max limit.
+  - id: bronze
+    label: Bronze
+  - id: community
+    label: Community

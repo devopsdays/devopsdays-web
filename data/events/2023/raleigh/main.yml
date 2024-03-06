@@ -1,0 +1,455 @@
+name: "2023-raleigh" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2023" # The year of the event. Make sure it is in quotes.
+city: "raleigh" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaysrdu" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays is coming to raleigh!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2023-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2023-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2023-04-12  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2023-04-13 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2022-10-01  # start accepting talk proposals.
+cfp_date_end: 2023-01-27  # close your call for proposals.
+cfp_date_announce:  # inform proposers of status
+
+cfp_link: "https://docs.google.com/forms/d/e/1FAIpQLScM9ki8DOJqmcRSKhXVgk_pb5dXfFra5ECsN1tlXO-UcF3xNQ/viewform?usp=sf_link" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: 2022-11-24 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2022-04-13 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://www.eventbrite.com/e/devopsdays-raleigh-2023-tickets-328956426527" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Background
+masthead_background: "raleigh_skyline_sunset.jpg"
+
+# Location
+#
+coordinates: "35.782780, -78.685187" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "McKimmon Conference & Training Center" # Defaults to city, but you can make it the venue name.
+#
+location_address: "1101 Gorman Street, Raleigh, NC 27606" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  # - name: propose
+  - name: location
+  - name: registration
+    url: "https://www.eventbrite.com/e/devopsdays-raleigh-2023-tickets-328956426527"
+  - name: program
+  - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Chris Knotts"
+    employer: "Cprime"
+    linkedin: "https://www.linkedin.com/in/chris-knotts/"
+    image: "chris-knotts.jpg"
+  - name: "Josh Atwell"
+    twitter: "Josh_Atwell"
+    image: "josh-atwell.jpg"
+  - name: "Nirmal Mehta"
+    twitter: "normalfaults"
+    github: "normalfaults"
+    website: "https://nirmal.io"
+    linkedin: "https://www.linkedin.com/in/nirmalkmehta"
+    image: "nirmal-mehta.jpg"
+  - name: "Katie Cothran"
+    twitter: "k_cothran"
+    employer: "Cprime"
+    linkedin: "https://www.linkedin.com/in/kathleencothran/"
+    image: "katie-cothran.jpg"
+  - name: "Craig Cook"
+    twitter: "CraigCookIT"
+    website: "https://www.linkedin.com/in/craigcookit/"
+    employer: "IBM"
+    image: "craig-cook.jpg"
+  - name: "Michael Roberts"
+    twitter: "MichaelRoberts0"
+    website: "https://www.spkaa.com"
+    employer: "SPK and Associates"
+    linkedin: "https://www.linkedin.com/in/michael-roberts-5a72032/"
+    image: "michael-roberts.jpg"
+  - name: "Shane Kirk"
+    website: "https://www.shanekirk.me/"
+    github: "shanedroid"
+    linkedin: "https://www.linkedin.com/in/shanek1rk/"
+    image: "shane-kirk.jpg"
+  - name: "Jeremy Neff"
+    gitlab: "n3ff"
+    github: "JRN00"
+    twitter: "whiskeytuna"
+    image: "jeremy-neff.png"
+    linkedin: "https://www.linkedin.com/in/jeremy-r-neff/"
+  - name: "Alex Malich"
+    linkedin: "https://www.linkedin.com/in/coldsv"
+    website: "https://www.meetup.com/triangletechtalks/"
+    image: "alex-malich.jpg"
+
+organizer_email: "raleigh@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  # - id: samplesponsorname
+  #   level: gold
+ #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: akeyless
+    level: gold
+  - id: arresteddevops
+    level: community
+  - id: appdynamics
+    level: gold
+  - id: azul
+    level: gold
+  - id: cloudbees
+    level: gold
+  - id: cprime
+    level: platinum
+  - id: cyberark
+    level: gold
+  - id: dell-technologies
+    level: platinum
+  - id: deutsche-bank
+    level: silver
+  - id: digma
+    level: gold
+  - id: dragondropcloud
+    level: gold
+  - id: insightfinder
+    level: gold
+  - id: kubecareers
+    level: community
+  - id: kubeevents
+    level: community
+  - id: micro-focus
+    level: gold
+  - id: nadog
+    level: community
+  - id: newrelic
+    level: platinum
+  - id: nginx
+    level: community
+  - id: paloaltonetworks
+    level: gold
+  - id: portworx-before-20240216
+    level: gold
+  - id: progresschef
+    level: gold
+  - id: lightstep
+    level: community
+  - id: sumologic
+    level: gold
+  - id: telemetryhub
+    level: gold
+  - id: transition-technologies-psc
+    level: gold
+  - id: trendmicro
+    level: gold
+  - id: vmware-tanzu
+    level: gold
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: platinum
+    label: Platinum
+  - id: gold
+    label: Gold
+#    max: 10
+  - id: silver
+    label: Silver
+    #max: 0 # This is the same as omitting the max limit.
+  - id: community
+    label: Community
+  - id: happyhour
+    label: "Happy Hour Sponsor"
+
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2023-04-12
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2023-04-12
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "ana-margarita-medina-keynote"
+    type: talk
+    date: 2023-04-12
+    start_time: "09:10"
+    end_time: "09:40"
+  - title: "Sponsors"
+    type: custom
+    date: 2023-04-12
+    start_time: "09:40"
+    end_time: "09:50"
+  - title: "sarah-morgan-keynote"
+    type: talk
+    date: 2023-04-12
+    start_time: "09:50"
+    end_time: "10:20"
+  - title: "Break"
+    type: custom
+    date: 2023-04-12
+    start_time: "10:20"
+    end_time: "10:40"
+  - title: "marino-wijay-keynote"
+    type: talk
+    date: 2023-04-12
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2023-04-12
+    start_time: "11:10"
+    end_time: "11:20"
+  - title: "cecelia-martinez-keynote"
+    type: talk
+    date: 2023-04-12
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Lunch"
+    type: custom
+    date: 2023-04-12
+    start_time: "11:50"
+    end_time: "13:00"
+  - title: "Welcome Back, Ignite Explanation + Karaoke"
+    type: custom
+    date: 2023-04-12
+    start_time: "13:00"
+    end_time: "13:05"
+  - title: "Ignites"
+    type: ignite
+    date: 2023-04-12
+    start_time: "13:05"
+    end_time: "13:35"
+  - title: "Ignite Karaoke"
+    type: custom
+    date: 2023-04-12
+    start_time: "13:35"
+    end_time: "13:45"
+  - title: "laura-santamaria-keynote"
+    type: talk
+    date: 2023-04-12
+    start_time: "13:45"
+    end_time: "14:15"
+  - title: "Open Space Explanation + Break"
+    type: open-space
+    date: 2023-04-12
+    start_time: "14:15"
+    end_time: "14:30"
+  - title: "brett-smith-keynote"
+    type: talk
+    date: 2023-04-12
+    start_time: "14:30"
+    end_time: "15:00"
+  - title: "ilya-krutov-keynote"
+    type: talk
+    date: 2023-04-12
+    start_time: "15:00"
+    end_time: "15:30"
+  - title: "Break"
+    type: custom
+    date: 2023-04-12
+    start_time: "15:30"
+    end_time: "15:45"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2023-04-12
+    start_time: "15:00"
+    end_time: "15:30"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2023-04-12
+    start_time: "15:45"
+    end_time: "16:15"
+  - title: "phil-sautter-workshop"
+    type: workshop
+    date: 2023-04-12
+    start_time: "14:30"
+    end_time: "15:45"
+  - title: "alen-haric-workshop"
+    type: workshop
+    date: 2023-04-12
+    start_time: "14:30"
+    end_time: "15:45"
+  - title: "kai-xin-tai-keynote"
+    type: talk
+    date: 2023-04-12
+    start_time: "15:45"
+    end_time: "16:15"
+  - title: "monica-tamboli-keynote"
+    type: talk
+    date: 2023-04-12
+    start_time: "16:15"
+    end_time: "16:45"
+  - title: "Close Day"
+    type: custom
+    date: 2023-04-12
+    start_time: "16:45"
+    end_time: "17:00"
+  - title: "Evening event - Happy Hour"
+    type: custom
+    date: 2023-04-12
+    start_time: "17:00"
+    end_time: "18:30"
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2023-04-13
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2023-04-13
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "micah-almond-keynote"
+    type: talk
+    date: 2023-04-13
+    start_time: "09:10"
+    end_time: "09:40"
+  - title: "Sponsors + Open Space Explanation"
+    type: open-space
+    date: 2023-04-13
+    start_time: "09:40"
+    end_time: "09:50"
+  - title: "shivay-lamba-keynote"
+    type: talk
+    date: 2023-04-13
+    start_time: "09:50"
+    end_time: "10:20"
+  - title: "Break"
+    type: custom
+    date: 2023-04-13
+    start_time: "10:20"
+    end_time: "10:40"
+  - title: "jason-van-brackel-workshop"
+    type: workshop
+    date: 2023-04-13
+    start_time: "09:50"
+    end_time: "11:10"
+  - title: "ryan-mcelroy-workshop"
+    type: workshop
+    date: 2023-04-13
+    start_time: "09:50"
+    end_time: "10:40"
+  - title: "tim-becker-keynote"
+    type: talk
+    date: 2023-04-13
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2023-04-13
+    start_time: "11:10"
+    end_time: "11:20"
+  - title: "karl-owen-keynote"
+    type: talk
+    date: 2023-04-13
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Lunch"
+    type: custom
+    date: 2023-04-13
+    start_time: "11:50"
+    end_time: "13:00"
+  - title: "Welcome Back, Ignite Explanation + Karaoke"
+    type: custom
+    date: 2023-04-13
+    start_time: "13:00"
+    end_time: "13:05"
+  - title: "Ignites"
+    type: ignite
+    date: 2023-04-13
+    start_time: "13:05"
+    end_time: "13:35"
+  - title: "Ignite Karaoke + Open Space Review"
+    type: open-space
+    date: 2023-04-13
+    start_time: "13:35"
+    end_time: "13:45"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2023-04-13
+    start_time: "13:45"
+    end_time: "14:15"
+  - title: "Open Space #4"
+    type: open-space
+    date: 2023-04-13
+    start_time: "14:15"
+    end_time: "14:45"
+  - title: "sharon-goldberg-keynote"
+    type: talk
+    date: 2023-04-13
+    start_time: "13:45"
+    end_time: "14:15"
+  - title: "praveen-nerellapalli-workshop"
+    type: workshop
+    date: 2023-04-13
+    start_time: "13:45"
+    end_time: "15:00"
+  - title: "Break"
+    type: custom
+    date: 2023-04-13
+    start_time: "14:15"
+    end_time: "14:30"
+  - title: "carlos-santana-keynote"
+    type: talk
+    date: 2023-04-13
+    start_time: "14:30"
+    end_time: "15:00"
+  - title: "john-willis-keynote"
+    type: talk
+    date: 2023-04-13
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "Raffle/Close Day"
+    type: custom
+    date: 2023-04-13
+    start_time: "15:45"
+    end_time: "16:00"
+
+ignites:
+  - title: "jen-wike-huger-ignite"
+    date: 2023-04-12
+  - title: "brett-smith-ignite"
+    date: 2023-04-12
+  - title: "michael-roberts-ignite"
+    date: 2023-04-12
+  - title: "eric-gregory-ignite"
+    date: 2023-04-12
+  - title: "raghav-gupta-ignite"
+    date: 2023-04-12
+  - title: "drew-piland-ignite"
+    date: 2023-04-12
+  - title: "aaron-suggs-ignite"
+    date: 2023-04-13
+  - title: "katie-riedesel-ignite"
+    date: 2023-04-13
+  - title: "andrew-knight-ignite"
+    date: 2023-04-13
+  - title: "gary-canter-ii-ignite"
+    date: 2023-04-13
+  - title: "jeremy-freeman-ignite"
+    date: 2023-04-13
+  - title: "aaron-williams-ignite"
+    date: 2023-04-13

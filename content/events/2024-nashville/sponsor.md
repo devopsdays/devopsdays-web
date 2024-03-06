@@ -1,129 +1,219 @@
 +++
-Title = "Become a Sponsor"
-Type = "event"
-Description = "Sponsor DevOpsDays Nashville 2024"
+title = "Sponsorship"
+type = "event"
+description = "Interested in sponsoring DevOpsDays Nashville 2024? We greatly value sponsors for this open event."
+
+
 +++
-
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
-<!-- 
-<p>
-
-DevOpsDays Nashville is a community-led conference for practitioners that depends on sponsorships.
-<p>
-
-From startups to enterprises in all industries including finance, health care, publishing and more, Nashville  is home to an amazing and vibrant tech community.  We’re proud to bring DevOpsDays back to Nashville for at Music City Center in 2023!  DevOpsDays Nashville will bring together 325+ development, operations, security, networking and management professions to discuss the culture, processes and tools to enable better organizations and innovative products.
-
-<p>
-The schedule will consist of a mixture of single-track presentations, ignite talks, and the open spaces format that DevOpsDays is known for.  Ticket prices include breakfast and lunch both days.  We will also have a number of surprises in store for attendees this year!
-The most up-to-date information can always be found at http://www.dodnashville.com 
-
-
- We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
-<p>
-Gold sponsors get a full table and Silver sponsors a shared table where they can interact with those interested to come visit during breaks. All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
-<p>
-The best thing to do is send engineers to interact with the experts at devopsdays on their own terms.
-<p>
-
-<!-- 
 <div class = "row">
-  <div class = "col-md-12">
-    <div class = "row justify-content-center">
-      <div class = "d-flex p-2">
-          <a class="btn btn-secondary btn-block" href="https://drive.google.com/file/d/1dBnUaT6vLc6Nc_3Dj7QsMoDMtC4Csvw5/view?usp=share_link"> <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Learn more about Sponsorship</a>
-      </div>
-    </div>
-  </div>
-</div>
--->
+<div class = "col-md-8 col-sm-12">
+<br><br>
+We greatly value sponsors for this community event. If you are interested in sponsoring, please check out our prospectus below. If you need a soft copy of our prospectus, click here to <a href="https://assets.devopsdays.org/events/2024/nashville/Nashville_2024_Sponsor_Prospectus.pdf" target="_blank"><strong>download PDF</strong></a> or <a href="mailto:nashville@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Nashville%202024"><strong>send us an email</strong></a>.
+<br>
+<hr>
+DevOpsDays is a self-organizing conference for DevOps practitioners that depends on your sponsorships. We do not have a traditional trade show conference floor, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during, and after the event. Sponsors are encouraged to participate and engage with the attendees as peers.
+<br><br>
+Any attendee also has the opportunity to demonstrate products or projects as part of any of the Open Space sessions.  Be sure to send technical practitioners to interact with customers and peers at DevOpsDays on their own terms.
+<br><br>
+Please email the organizers at <a href="mailto:nashville@devopsdays.org?subject=General%20Questions%20Regarding%20Sponsorship%20of%20DevOpsDays%20Nashville%202024"><strong>nashville@devopsdays.org</strong></a> with any questions you may have about sponsoring the event.
+<br><br>
+<h2>Sponsorship Packages</h2>
 
-<!-- 
-<hr/>
-<h2>Platinum </h2>
-<p>There is a limit of one platinum sponsor</p>
-<ul>
-    <li>6 tickets to the DevOpsDays Nashville conference</li>
-    <li>Dedicated slide featuring your logo and sponsorship level throughout the conference</li>
-    <li>BIGGEST logo on event signage</li>
-    <li>All benefits of the Gold Sponsorship package</li>
-</ul>
-<h2>Gold</h2>
-<ul>
-    <li>4 tickets to the DevOpsDays Nashville conference</li>
-    <li>Logo to appear on DevOpsDays Nashville website</li>
-    <li>Logo to appear on all DevOpsDays email communications</li>
-    <li>Logo and sponsorship level to appear on intro to all uploaded conference recordings</li>
-    <li>Logo to appear on DevOpsDays Nashville t-shirts</li>
-    <li>Premier full booth space located near the heaviest foot traffic</li>
-    <li>Bigger logo on event signage</li>
-    <li>Shoutout and sponsorship announcement via Twitter and other social media platforms</li>
-    <li>Giveaways promoted throughout the event</li>
-</ul>
-<h2>Silver</h2>
-<ul>
-    <li>3 tickets to the DevOpsDays Nashville conference</li>
-    <li>Logo to appear on DevOpsDays Nashville website</li>
-    <li>Logo to appear on all DevOpsDays email communications</li>
-    <li>Logo and sponsorship level to appear on intro to all uploaded conference recordings</li>
-    <li>Full booth space</li>
-    <li>Bigger logo on event signage</li>
-    <li>Shoutout and sponsorship announcement via Twitter and other social media platforms</li>
-    <li>Giveaways promoted throughout the event</li>
-</ul>
-<h2>Bronze</h2>
-<ul>
-    <li>2 tickets to the DevOpsDays Nashville conference</li>
-    <li>Logo to appear on DevOpsDays Nashville website</li>
-    <li>Logo to appear on all DevOpsDays email communications</li>
-    <li>Small booth space</li>
-    <li>Logo to appear on event signage</li>
-    <li>Shoutout and sponsorship announcement via Twitter and other social media
-        platforms</li>
-</ul>
-<hr/> -->
-
-<!-- <div style="width:590px">
-<table border=1 cellspacing=1>
-  <tr>
-    <th><i>packages</i></th>
-    <th><center><b><u>Bronze<br />1000 usd</u></center></b></th>
-    <th><center><b><u>Silver<br />3000 usd</u></center></b></th>
-    <th><center><b><u>Gold<br />5000 usd</u></center></b></th>
-    <th></th>
-  </tr>
-<tr><td>2 included tickets</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on event website</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on shared slide, rotating during breaks</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on all email communication</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on its own slide, rotating during breaks</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>1 minute pitch to full audience (including streaming audience)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr></tr>
-<tr><td>2 additional tickets (4 in total)</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td>4 additional tickets (6 in total)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>shared table for swag</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td>booth/table space</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
+<table class="table table-bordered table-hover">
+  <thead>
+    <tr>
+      <th scope="col" colspan="2">THE GOODS</th>
+      <th scope="col">PLATINUM</th>
+      <th scope="col">GOLD</th>
+      <th scope="col">SILVER</th>
+      <th scope="col">BRONZE</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="2">Price</td>
+      <td>$8,000</td>
+      <td>$5,000</td>
+      <td>$3,000</td>
+      <td>$1,000</td>
+    </tr>
+    <tr>
+      <td colspan="2">Tickets Included</td>
+      <td>6</td>
+      <td>4</td>
+      <td>3</td>
+      <td>2</td>      
+    </tr>
+    <tr>
+      <td colspan="2">Dedicated Slide with Logo on Event Slideshow</td>
+      <td>&check;</i></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="2">3 Minute "Elevator Pitch" to Full Audience</td>
+      <td>&check;</i></td>
+      <td>&check;</i></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="2">Booth space (6-foot table with power and table cloth)</td>
+      <td>&check;</i></td>
+      <td>&check;</i></td>
+      <td>&check;</i></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="2">Giveaway Promotions Throughout Event</td>
+      <td>&check;</i></td>
+      <td>&check;</i></td>
+      <td>&check;</i></td>
+      <td></td>
+    <tr>
+      <td colspan="2">Logo on Website, Main Room Signage and E-Mails</td>
+      <td>&check;</i></td>
+      <td>&check;</i></td>
+      <td>&check;</i></td>
+      <td>&check;</i></td>
+    </tr>
+    <tr>
+      <td colspan="2">Social Media Sponsor Shout-Outs</td>
+      <td>&check;</i></td>
+      <td>&check;</i></td>
+      <td>&check;</i></td>
+      <td>&check;</i></td>
+    </tr>
+    <tr>
+      <td colspan="2">20% Discount code for ten (10) tickets to share with your community</td>
+      <td>&check;</i></td>
+      <td>&check;</i></td>
+      <td>&check;</i></td>
+      <td>&check;</i></td>
+    </tr>
+  </tbody>
 </table>
-<hr/>
-There are also opportunities for exclusive special sponsorships. We'll have sponsors for various events with special privileges for the sponsors of these events. If you are interested in special sponsorships or have a creative idea about how you can support the event, send us an email.
 <br/>
+<h2>Media / Community Sponsorships</h2>
+
+All Media / Community sponsors are entities we value as pillars of continuous learning in our community. If you would like to discuss these sponsorships with us, just ask! Email us at: <a href="mailto:nashville@devopsdays.org?subject=General%20Questions%20Regarding%20Sponsorship%20of%20DevOpsDays%20Nashville%202024">nashville@devopsdays.org</a>.
+<br>
+<table class="table table-bordered table-hover">
+  <thead>
+    <tr>
+      <th scope="col">Sponsorship</th>
+      <th scope="col">Price</th>
+      <th scope="col">Description</th>
+      <th scope="col">Number Available</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Media</td>
+      <td>$0.00</td>
+      <td>The media sponsorship is ideal for podcasts, blogs, news outlets, and other media who support DevOps. This sponsorship is free but we ask that you share information about DevOpsDays Nashville with your audience in order to become a Media Sponsor.
+          <ul class="fa-ul">
+            <li>&check; One (1) ticket included.</li>
+            <li>&check; 20% discount code for ten (10) tickets to share with your audience.</li>
+            <li>&check; Logo on a shared slide, rotating during breaks.</li>
+            <li>&check; Logo on the DevOpsDays Nashville 2024 event website.</li>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>Community & Non-Profit (NPO)</td>
+      <td>$0.00</td>
+      <td>The community and non-profit (NPO) sponsorships is ideal for local meetups, co-working spaces, and other non-commercial communities who support DevOps. These sponsorships are free, but we ask that you share information about DevOpsDays Nashville 2024 with your members in order to become a Community Sponsor.
+          <ul class="fa-ul">
+            <li>&check; One (1) ticket included.</li>
+            <li>&check; 20% discount code for twenty (20) tickets to share with your audience.</li>
+            <li>&check; Logo on a shared slide, rotating during breaks.</li>
+            <li>&check; Logo on the DevOpsDays Nashville 2024 event website.</li>
+      <td>10</td>
+    </tr>
+  </tbody>
+</table>
+<br>
+<h2>À La Carte Sponsorships</h2>
+
+ À La Carte sponsorships are available.  We can be creative with these sponsorships, so just ask! Email us: <a href="mailto:nashville@devopsdays.org?subject=General%20Questions%20Regarding%20Sponsorship%20of%20DevOpsDays%20Nashville%202024">nashville@devopsdays.org</a>.
 <br/>
+
+<table class="table table-bordered table-hover">
+  <thead>
+    <tr>
+      <th scope="col">Sponsorship</th>
+      <th scope="col">Price</th>
+      <th scope="col">Description</th>
+      <th scope="col">Number Available</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Laynard Sponsorship</td>
+      <td align="center">$1,500
+      </td>
+      <td>Include your logo on attendees lanyards
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Badge Sponsorship</td>
+      <td align="center">$1,500
+      </td>
+      <td>Include your logo on attendees badges
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>T-shirt Sleeve Logo</td>
+      <td align="center">$1,500
+      </td>
+      <td>Include your logo on the sleeve of the DevOps Days Nashville t-shirts
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Coffee/Snack Sponsorship</td>
+      <td align="center">Please contact us</td>
+      <td>Signage with your logo by the coffee and snack displays throughout the day.</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>Breakfast Sponsorship</td>
+      <td align="center">Please contact us</td>
+      <td>Signage with your logo by the breakfast tables and eating areas in the morning before sessions.</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>Lunch Sponsorship</td>
+      <td align="center">Please contact us</td>
+      <td>Signage with your logo by the lunch tables and in the eating area during lunch</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>Happy Hour Sponsorship</td>
+      <td align="center">Please contact us</td>
+      <td>Signage with your logo at event and recognition with all Happy Hour announcements
+          <ul class="fa-ul">
+            <li>&check; Must work with organizers to secure venue and communications</li>
+      <td>1</td>
+    </tr>
+  </tbody>
+</table>
+  <br/>
+<h2>Refund Policy</h2>
+We are excited to have you sponsor our event. We also understand that there are sometimes circumstances that may cause you to need to withdraw that sponsorship. Refunds for sponsorships are available according to the following schedule:
+<br><br>
+<h4>À La Carte sponsorships</h4>
+  &check; No refunds are available for À La Carte sponsorships.
+ <br>
+ <br>
+<h4>All other sponsorship levels</h4>
+ &check; Before May 1, 2024 - 80% refund is available.<br>
+ &check; Between May 1, 2024 and June 15, 2024 - 50% refund is available.<br>
+ &check; After June 15, 2024 - No refund is available.
 <br>
 <br>
-<table border=1 cellspacing=1>
-  <tr>
-    <th><i>Sponsor FAQ</i></th>
-    <th><center><b>Answers to questions frequently asked by sponsors&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</center></b></th>
-    <th></th>
-  </tr>
-<tr><td>What dates/times can we set up and tear down?</td><td></td></tr>
-<tr><td>How do we ship to the venue?</td><td></td></tr>
-<tr><td>How do we ship from the venue?</td><td></td></tr>
-<tr><td>Whom should we send?</td><td></td></tr>
-<tr><td>What should we expect regarding electricity? (how much, any fees, etc)</td><td></td></tr>
-<tr><td>What should we expect regarding WiFi? (how much, any fees, etc)</td><td></td></tr>
-<tr><td>How do we order additional A/V equipment?</td><td></td></tr>
-<tr><td>Additional important details</td><td></td></tr>
-</table>
-</div> -->
-
-
-<hr/>
+Please email the organizers at <a href="mailto:nashville@devopsdays.org?subject=General%20Questions%20Regarding%20Sponsorship%20of%20DevOpsDays%20Nashville%202024">nashville@devopsdays.org</a> with any questions you may have about sponsoring the event or requesting a refund.
+<br><br>
+Sponsors are responsible for providing high-res logos for use on the website and in promotional materials.  The preferred file formats are PNG, EPS, or AI.
+<br><br>
+&check; <b>All sponsors attendees must be registered to attend</b>.

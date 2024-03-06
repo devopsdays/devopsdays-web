@@ -4,7 +4,9 @@ Type = "welcome"
 aliases = [
   "/events/2024-nashville/",
   "/events/2024-nashville/location/",
-  "/events/2024-nashville/sponsor/"]
+  "/events/2024-nashville/sponsor/",
+  "/events/2024-nashville/propose/",
+  "/events/2024-nashville/registration/"]
 Description = "DevOpsDays Nashville 2024"
 +++
 
@@ -21,16 +23,14 @@ Description = "DevOpsDays Nashville 2024"
   </div>
   <div class = "col-md-6">
     <h2><p>Welcome to DevOps Days Nashville 2024!</p></h2>
-    <!-- <p>We are excited to announce DevOps Days will be coming back to {{< event_location >}} on April 6th & 7th.</p> -->
-    We are currently working on a date for our 2024 event.  Please check back often for updates.
+    <p>We are excited to announce DevOps Days will be coming back to {{< event_location >}} on July 10th and 11th.</p>
     <br>
-    <!-- <h2><p><a href="https://sessionize.com/nashvilledevopsdays2023/">Call for Proposals Now Open!</a></p></h2>
-    <p>Do you have a great topic for the community?  Visit our <a href="https://sessionize.com/nashvilledevopsdays2023/">Call for Speakers/Papers</a> site today!  We look forward to hearing from you.</p> -->
+    <h2><p><a href="https://www.papercall.io/devopsdays-nashville-2024">Call for Proposals Now Open!</a></p></h2>
+    <p>Do you have a great topic for the community?  Visit our <a href="https://www.papercall.io/devopsdays-nashville-2024">Call for Speakers/Papers</a> site today!  We look forward to hearing from you.</p>
   
   </div>
 </div>
 
-<!-- 
 <p>Event Information</p>
 <div class = "row">
   <div class = "col-md-2">
@@ -39,9 +39,9 @@ Description = "DevOpsDays Nashville 2024"
   <div class = "col-md-8">
     {{< event_start >}} - {{< event_end >}}
   </div>
-</div> -->
+</div>
 
-<!-- 
+
 <div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
@@ -49,17 +49,17 @@ Description = "DevOpsDays Nashville 2024"
   <div class = "col-md-8">
     {{< event_link page="registration" text="Register to attend the conference!" >}}
   </div>
-</div>  -->
+</div> 
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
-</div> -->
-<!-- 
+</div>
+
 <div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
@@ -67,7 +67,7 @@ Description = "DevOpsDays Nashville 2024"
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div> -->
+</div>
 <!-- 
 <div class = "row">
   <div class = "col-md-2">
@@ -87,14 +87,14 @@ Description = "DevOpsDays Nashville 2024"
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="sponsor" text="Sponsor the conference!" >}}
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">

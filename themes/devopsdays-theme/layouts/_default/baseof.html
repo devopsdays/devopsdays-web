@@ -5,39 +5,42 @@
 </head>
 <body lang="{{ .Site.Params.Lang }}">
   {{- partialCached "global_navbar.html" . -}}
-  {{ if and (eq (index (split (.Permalink | relURL) "/") 1) "events") (ne .Type "events") }}
+  {{- if and (eq (index (split (.Permalink | relURL) "/") 1) "events") (ne .Type "events") -}}
     {{- partial "events/event_navbar.html" . -}}
-  {{ end }}
+  {{- end -}}
   <div class="container-fluid">
-        <div class="row">
-          {{- if .IsPage -}}
-            {{ if or (eq (index (split (.Permalink | relURL) "/") 1) "events") (eq .Type "events") }}
-              <div class="col-md-12">
-                  {{- block "main" . }} {{- end -}}
-              </div>
-            {{- else if (eq (index (split (.Permalink | relURL) "/") 1) "organizing") -}}
-              <div class="col-md-8 order-md-12">
-                  {{- block "main" . }} {{- end -}}
-              </div>
-               <div class="col-md-2 order-md-1">
-                  <a href = "{{ "/events" }}" class="left-nav-navs">Table of Contents</a><br />
-                  {{- partialCached "toc.html" . -}}
-               </div>
-	    {{- else -}}
+    <div class="row">
+      {{- if .IsPage -}}
+        {{- if or (eq (index (split (.Permalink | relURL) "/") 1) "events") (eq .Type "events") -}}
+          <div class="col-md-12">
+            {{- block "main" . }}
+        {{- end -}}
+          </div><!-- do i show up? -->
+        {{- else if (eq (index (split (.Permalink | relURL) "/") 1) "organizing") -}}
+          <div class="col-md-8 order-md-12">
+            {{- block "main" . }} 
+        {{- end -}}
+          </div>
+          <div class="col-md-2 order-md-1">
+            <a href = '{{ "/events" }}' class="left-nav-navs">Table of Contents</a><br />
+            {{- partialCached "toc.html" . -}}
+          </div>
+	      {{- else -}}
               <div class="col-md-8 order-md-12">
                   {{- block "main" . }} {{- end -}}
               </div>
               <div class="col-md-2 order-md-1">
-                  <a href = "{{ "/events" }}" class="left-nav-navs">ALL EVENTS</a><br />
+                  <a href = '{{ "/events" }}' class="left-nav-navs">ALL EVENTS</a><br />
                   {{- partialCached "future.html" . -}}
               </div>
             {{- end -}}
           {{- else -}}
             <div class="col-md-8 order-md-12">
-                {{- block "main" . }} {{- end -}}
+                {{- block "main" . }} 
+          {{- end -}}
             </div>
             <div class="col-md-2 order-md-1">
-                <a href = "{{ "/events"}}" class="left-nav-navs">ALL EVENTS</a><br />
+                <a href = '{{ "/events" }}' class="left-nav-navs">ALL EVENTS</a><br />
                 {{- partialCached "future.html" . -}}
             </div>
         {{- end -}}

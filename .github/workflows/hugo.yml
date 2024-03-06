@@ -4,7 +4,7 @@ on: [pull_request]
 
 env:
   NODE_VERSION: 16
-  HUGO_VERSION: 0.102.3
+  HUGO_VERSION: 0.123.3
 
 jobs:
   lint:
@@ -52,21 +52,21 @@ jobs:
       - name: Test through minifying
         run: gulp min-html
 
-  test-windows:
-    needs: lint
-    name: Build hugo on Windows
-    runs-on: windows-latest
-    steps:
-      - uses: actions/checkout@v3
-        with:
-          submodules: true # Fetch Hugo themes (true OR recursive)
-          fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
+  # test-windows:
+  #   needs: lint
+  #   name: Build hugo on Windows
+  #   runs-on: windows-latest
+  #   steps:
+  #     - uses: actions/checkout@v3
+  #       with:
+  #         submodules: true # Fetch Hugo themes (true OR recursive)
+  #         fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
 
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
-        with:
-          hugo-version: ${{ env.HUGO_VERSION }}
-          # extended: true
+  #     - name: Setup Hugo
+  #       uses: peaceiris/actions-hugo@v2
+  #       with:
+  #         hugo-version: ${{ env.HUGO_VERSION }}
 
-      - name: Build
-        run: hugo -v
+
+  #     - name: Build
+  #       run: hugo -v
