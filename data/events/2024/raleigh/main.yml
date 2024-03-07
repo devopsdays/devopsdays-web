@@ -117,10 +117,16 @@ sponsors:
     level: gold
   - id: jit
     level: happyhour
-  - id: zohocorp
+  - id: zohosprints
     level: gold
   - id: alignedtechnologygroup
     level: gold
+  - id: siglens
+    level: gold
+  - id: allthingsopen2024
+    level: community
+  - id: cyclelabs
+    level: community
   - id: nadog
     level: community
   - id: portworx
