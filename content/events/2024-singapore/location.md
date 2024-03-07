@@ -43,7 +43,9 @@ Email: contact@hfcsingapore.com
 
 ## <a name='happy-hour'></a>Thursday Happy Hour
 
-Location: TBC
+Location: [Brewerkz Riverside Point](https://brewerkz.com/outlet/riverside-point)
+
+[30 Merchant Rd, #01-07 Riverside Point, Singapore 058282](https://maps.app.goo.gl/tm1qYQ4D8a1qqCcY6)
 
 # Travel Tips
 
