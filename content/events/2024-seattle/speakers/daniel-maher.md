@@ -10,4 +10,4 @@ linktitle = "daniel-maher"
 
 +++
 
-DevOpsDays co-chair and global core member. Currently Head of Developer Relations at Scaleway. Formerly engineering roles at Datadog, Mozilla, and Ubisoft.
+DevOpsDays co-chair and global core member. Really into time zones and open source. Formerly: Scaleway, Datadog, Mozilla, and Ubisoft.
