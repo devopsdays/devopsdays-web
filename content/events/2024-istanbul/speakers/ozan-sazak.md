@@ -2,7 +2,7 @@
 Title = "Ozan Sazak"
 Twitter = "oznszk"
 linkedin = "https://www.linkedin.com/in/ozan-sazak"
-image = ""
+image = "ozan-sazak.png"
 type = "speaker"
 linktitle = "ozan-sazak"
 

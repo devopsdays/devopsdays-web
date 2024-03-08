@@ -2,7 +2,7 @@
 Title = "Koray Oksay"
 Twitter = "korayoksay"
 linkedin = "https://www.linkedin.com/in/korayoksay/"
-image = ""
+image = "koray-oksay.png"
 type = "speaker"
 linktitle = "koray-oksay"
 

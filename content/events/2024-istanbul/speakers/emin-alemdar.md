@@ -2,7 +2,7 @@
 Title = "Emin Alemdar"
 Twitter = "alemdar_emin"
 linkedin = "https://www.linkedin.com/in/eminalemdar"
-image = ""
+image = "emin-alemdar.png"
 type = "speaker"
 linktitle = "emin-alemdar"
 

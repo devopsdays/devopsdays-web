@@ -2,7 +2,7 @@
 Title = "Batuhan Apaydin"
 Twitter = "developerguyba"
 linkedin = "https://www.linkedin.com/in/bthnapydin/"
-image = ""
+image = "batuhan-apaydin.png"
 type = "speaker"
 linktitle = "batuhan-apaydin"
 

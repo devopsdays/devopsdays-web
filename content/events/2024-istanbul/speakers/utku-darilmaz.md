@@ -2,7 +2,7 @@
 Title = "Utku Darilmaz"
 Twitter = "utkudarilmaz"
 linkedin = "https://www.linkedin.com/in/utkudarilmaz/"
-image = ""
+image = "utku-darilmaz.png"
 type = "speaker"
 linktitle = "utku-darilmaz"
 
