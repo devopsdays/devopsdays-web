@@ -48,7 +48,7 @@ Description = "devopsdays Portugal 2024"
     </div>-->
     <div class = "col-md-6">
       <h2>Sponsor</h2>
-      <p>Helps us run the conference bby sponsoring the event. It's a great way to increase your componay and brand's visibility in the community and show you care.</p>
+      <p>Helps us run the conference by sponsoring the event. It's a great way to increase your company and brand's visibility in the community and show that you care.</p>
     </div>
     <div class = "col-md-6">
       <h2>Get In Touch</h2>
