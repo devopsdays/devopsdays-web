@@ -88,8 +88,6 @@ team_members: # Name is the only required field for team members.
   - name: "Louise Paling"
     pronouns: "she/her"
     twitter: "short_louise"
-  - name: "Mica Bell"
-    pronouns:
   - name: "Paula Kennedy"
     twitter: "PaulaLKennedy"
     pronouns: "she/her"
