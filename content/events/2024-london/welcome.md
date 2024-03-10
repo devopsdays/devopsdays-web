@@ -36,16 +36,11 @@ Description = "DevOpsDays London 2024"
   </div>
 
   <div class="col-md-7">
-    <div class="alert alert-secondary" role="alert">
-      <h4 class="alert-heading">Coronavirus (COVID-19) information.</h4>
-      <p>For this year’s event, we’ll be implementing the following safety measures to prevent the spread of COVID-19. We encourage all attendees to wear masks and engage in social distancing in all enclosed spaces throughout the venue. We do not require negative lateral flow tests on entry, but we recommend that you take a test.</p>
-    </div>
-    <p>The first DevOpsDays was held in Ghent, Belgium in 2009. Since then, DevOpsDays events have multiplied and expanded globally with over 50 events in 2022.</p>
-    <p>DevOpsDays is a worldwide series of community run technical conferences covering topics of software development, IT infrastructure operations, and the intersection between them. It is run by volunteers from community, for the benefit of the community.
-      We are not a commercial conference and we believe that our focus on serving the community creates a truly unique experience for both delegates and sponsors.
-    </p>
-    <p>The format of DevOpsDays London includes a single track of 30 minute talks in the morning of each event, followed by Ignite talks (5 minute, auto forwarding). We spend the rest of the afternoon in Open Spaces, which are considered a key portion of the event.
-    </p>
+    <p>DevOpsDays London is proud to be part of the global DevOpsDays community. Over 15 years and through global crises we have built a lasting network of technical conferences organised by the community, for the community.</p>
+    <p>Our 2024 event will occur over two days with a single track of speakers in the morning, followed by Ignite talks (5 minutes, auto forwarding slides every 20 seconds). The afternoons are then given up to <a href="https://devopsdays.org/open-space-format/">Open Spaces</a> which are what makes DevOpsDays events truly special. Open spaces are what allow us to come together as a community and discuss the pressing issues we face. From technical deep dives to driving cultural change, no topic is off the cards, what is important is that the conference decides what it wants to talk about.</p>
+    <p>For attendees and sponsors we offer a unique chance to engage on a significantly more personal level than the larger corporate conferences. With practitioners from across the spectrum on their DevOps journeys we have space to learn from one another in open conversation, building relationships and a community that can help drive forward change together.</p>
+    <p>We would love for you to join us in September whether it is your first ever time at DevOpsDays or if you have been attending since Ghent in 2009, we have Early Bird tickets are available right now at discounted prices. We are committed to making our conference as accessible as possible and offer professional childcare at the event alongside live sign interpreters and pronoun badges, the conference venue is also wheelchair accessible. If you have any specific requirements or questions please feel free to reach out to the organising team.</p>
+    <p>Whilst COVID may no longer be in the headlines, we take the health of our attendees and organisers seriously. If you have purchased a ticket but are feeling unwell on the day of the event please stay home for everyone's safety. All talks at the event are live streamed and you can contact us at info@devopsdays.london for a full refund.</p> 
     {{< event_twitter >}}
   </div>
 </div>
