@@ -2,8 +2,8 @@
 City = "Singapore"
 Year = "2024"
 talk_date = "2024-03-21"
-talk_start_time = "14:55"
-talk_end_time = "13:00"
+talk_start_time = "14:50"
+talk_end_time = "14:55"
 Title = "Harnessing Generative AI in Tech Pipelines"
 Type = "talk"
 Speakers = ["shruthi-bhaskar"]

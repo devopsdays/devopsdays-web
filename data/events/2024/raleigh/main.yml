@@ -90,11 +90,6 @@ team_members: # Name is the only required field for team members.
   - name: Felipe Fernandez
     linkedin: "https://www.linkedin.com/in/felipe-fernandes-21901b5a/"
     image: "felipe-fernandez.jpg"
-  - name: Mel Cone
-    linkedin: "https://www.linkedin.com/in/melmaliacone/"
-    image: "mel-cone.jpg"
-    github: "melmaliacone"
-    twitter: "melmaliacone"
   - name: Jason Hibbets
     linkedin: "https://www.linkedin.com/in/jasonhibbets/"
     image: "jason-hibbets.jpg"
@@ -123,6 +118,10 @@ sponsors:
     level: gold
   - id: siglens
     level: gold
+  - id: allthingsopen2024
+    level: community
+  - id: cyclelabs
+    level: community
   - id: nadog
     level: community
   - id: portworx
@@ -276,7 +275,7 @@ program:
     date: 2024-04-10
     start_time: "16:10"
     end_time: "16:20"
-  - title: "mel-cone-keynote"
+  - title: "elon-bar-evan-keynote"
     type: talk
     date: 2024-04-10
     start_time: "16:20"
