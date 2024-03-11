@@ -7,8 +7,6 @@ Description = "DevOpsDays Kansas City 2024 will take place May 15-16, 2024!"
 
 # After 4 years, DevOpsDays Kansas City is BACK for 2024!
 
-{{< ref "welcome.md#reference" >}}
-
 
 <div style="text-align:center;">
   {{< event_logo >}}
