@@ -6,15 +6,15 @@ Description = "Health and Safety Policy for DevOpsDays KC 2024"
 
 ### General Health Guidelines
 
-There are no vaccine, masking, or testing requirements to attend this event. We do encourage if you are sick to stay home. Please see our Refund Policy. These are subject to change based on local municipality requirements and any changes in COVID-19. If you feel ill while at the event, please take a COVID-19 self-test and isolate as needed.
+There are no vaccine, masking, or testing requirements to attend this event. We do encourage if you are sick to stay home. Please see our [Refund Policy](./welcome.md#Refund_Policy). These are subject to change based on local municipality requirements and any changes in COVID-19. If you feel ill while at the event, please take a COVID-19 self-test and isolate as needed.
 
-We ask that you respect those around you who choose to wear a mask. A limited number of masks will be available upon request at Registration onsite. 
+We ask that you respect those around you who choose to wear a mask. A limited number of masks will be available upon request at Registration onsite.
 
 To make it clear that we want people to feel comfortable coming either with or without a mask, we consider any form of harassment, including commentary, about someone else’s masking decision to be a violation of the Code of Conduct, and we reserve the right to act on any violation up to and including expelling the offender from the conference immediately.
 
 ### Food Allergies
 
-We aim to provide a variety of choices to cater to various dietary restrictions. All food items will be clearly labeled at the event, indicating the ingredients used and any potential allergens present. If you have a food allergy we need to be aware of, please email us at [ kansas-city@devopsdays.org ].
+We aim to provide a variety of choices to cater to various dietary restrictions. All food items will be clearly labeled at the event, indicating the ingredients used and any potential allergens present. If you have a food allergy we need to be aware of, please email us at [organizers@devopsdayskc.org].
 
 ### Safety Tips
 
