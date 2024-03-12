@@ -2,7 +2,7 @@
 Title = "Toshaan Bharvani"
 Linkedin = ""
 Website = ""
-Twitter = ""
+Twitter = "toshywoshy"
 image = "toshaan-bharvani.jpg"
 type = "speaker"
 linktitle = "toshaan-bharvani"

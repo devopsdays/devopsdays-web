@@ -1,6 +1,6 @@
 +++
 Title = "Rushil Sharma"
-Linkedin = ""
+Linkedin = "https://www.linkedin.com/in/rushil-kube/"
 Website = ""
 Twitter = ""
 image = "rushil-sharma.jpg"

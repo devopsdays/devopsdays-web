@@ -1,8 +1,8 @@
 +++
 Title = "Eric D Schabell"
-Linkedin = ""
+Linkedin = "https://www.linkedin.com/in/ericschabell/"
 Website = ""
-Twitter = ""
+Twitter = "ericschabell"
 image = "eric-d-schabell.jpg"
 type = "speaker"
 linktitle = "eric-d-schabell"

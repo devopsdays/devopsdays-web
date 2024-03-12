@@ -2,7 +2,7 @@
 Title = "Feu Mourek"
 Linkedin = ""
 Website = ""
-Twitter = ""
+Twitter = "the_feufeu"
 image = "feu-mourek.jpg"
 type = "speaker"
 linktitle = "feu-mourek"
