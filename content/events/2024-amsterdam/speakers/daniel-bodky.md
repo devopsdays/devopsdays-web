@@ -1,8 +1,8 @@
 +++
 Title = "Daniel Bodky"
-Linkedin = ""
-Website = ""
-Twitter = ""
+Linkedin = "https://www.linkedin.com/in/daniel-bodky/"
+Website = "https://dbodky.me/"
+Twitter = "d_bodky"
 image = "daniel-bodky.jpg"
 type = "speaker"
 linktitle = "daniel-bodky"

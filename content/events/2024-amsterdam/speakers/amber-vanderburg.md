@@ -1,8 +1,8 @@
 +++
 Title = "Amber Vanderburg"
-Linkedin = ""
+Linkedin = "https://www.linkedin.com/in/amber-vanderburg-86817833/"
 Website = ""
-Twitter = ""
+Twitter = "VanderburgAmber"
 image = "amber-vanderburg.png"
 type = "speaker"
 linktitle = "amber-vanderburg"

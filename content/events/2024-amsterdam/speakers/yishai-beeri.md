@@ -1,8 +1,8 @@
 +++
 Title = "Yishai Beeri"
-Linkedin = ""
+Linkedin = "https://www.linkedin.com/in/yishaibeeri"
 Website = ""
-Twitter = ""
+Twitter = "yishaibeeri"
 image = "yishai-beeri.jpg"
 type = "speaker"
 linktitle = "yishai-beeri"

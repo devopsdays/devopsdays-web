@@ -333,9 +333,6 @@ program:
     start_time: "16:45"
     end_time: "17:30"
     comments: "Expo 1"
-    start_time: "16:15"
-    end_time: "17:00"
-    comments: "Ij Zaal"
 
   # end of day
   - title: "Have a beer on us!"

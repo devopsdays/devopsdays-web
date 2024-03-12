@@ -2,7 +2,7 @@
 Title = "Suzanne Lagerweij"
 Linkedin = ""
 Website = ""
-Twitter = ""
+Twitter = "suzylagerweij"
 image = "suzanne-lagerweij.jpg"
 type = "speaker"
 linktitle = "suzanne-lagerweij"
