@@ -14,9 +14,9 @@ startdate: 2024-09-23T00:00:00+01:00 # The start date of your event. Leave blank
 enddate: 2024-09-24T00:00:00+01:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2024-03-18T00:00:00+01:00 # start accepting talk proposals.
+cfp_date_start: 2024-03-15T00:00:00+01:00 # start accepting talk proposals.
 cfp_date_end: 2024-05-05T23:00:00+01:00 # close your call for proposals.
-cfp_date_announce: 2024-05-19T23:00:00+01:00 # inform proposers of status
+cfp_date_announce: 2024-05-31T23:00:00+01:00 # inform proposers of status
 
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
@@ -35,7 +35,7 @@ location: "Portugal" # Defaults to city, but you can make it the venue name.
 location_address: "EDIFÍCIO DA ALFÂNDEGA, R. Nova da Alfândega, 4050-430 Porto" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
   - name: location
  # - name: registration
  # - name: program
@@ -58,7 +58,7 @@ team_members: # Name is the only required field for team members.
     website: ""
     image: diana-martins.jpg
   - name: "Eduardo Piairo"
-    employer: ""
+    employer: "Devoteam"
     linkedin: "linkedin.com/in/eduardopiairo"
     twitter: "EdPiairo"
     github: "eduardopiairo"
@@ -92,13 +92,20 @@ team_members: # Name is the only required field for team members.
     github: "mccricardo"
     website: ""
     image: ricardo-castro.jpg
+  - name: "Pollyanna Rigon"
+    employer: "Docplanner"
+    linkedin: "https://www.linkedin.com/in/pollyannarigon/"
+    twitter: ""
+    github: ""
+    website: ""
+    image: pollyanna-rigon.jpg
   - name: "Somatório"
     employer: "Wunderman Thompson Commerce"
     linkedin: "https://www.linkedin.com/in/somatorio"
     twitter: ""
     github: ""
     website: ""
-    image: somatorio.jpg  
+    image: somatorio.jpg
 
 organizer_email: "portugal@devopsdays.org" # Put your organizer email address here
 
