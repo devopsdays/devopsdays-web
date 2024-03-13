@@ -14,25 +14,30 @@ Thank you for sponsoring DevOpsDays Singapore 2024! The organizing committee is 
 - [Sponsor Logistics](#sponsor-logistics)
 	- [Floor Plan](#floor-plan)
 	- [AV Rentals](#av-rentals)
-	- [Internet](#internet)
 	- [Sponsor Tables](#sponsor-tables)
 	- [Sponsor Stamps](#sponsor-stamps)
 	- [Sponsor Pitch Schedule](#sponsor-pitch-schedule)
+	- [Internet](#internet)
 - [Thursday Happy Hour](#happy-hour)
 - [Friday Afternoon Raffle](#afternoon-raffle)
 - [Other FAQs](#other-faqs)
 
 # Sponsor Information
 
+The event takes place on Thursday and Friday, March 21-22, 2024 at the [Hotel Fort Canning](https://hfcsingapore.com) <br/>
+[11 CANNING WALK, Singapore 178881](https://maps.app.goo.gl/mf93mbJbycDRWbqD8) _You will need to bring your **Photo ID**_
+
+The **detailed schedule** for the two days can be found at [program][1].
+
 Please contact us at [{{< email_organizers >}}] for all pre-event contact. One of the organizers will respond promptly.
 
 ## <a name='important-dates'></a>Important Dates
 
-**March 13**: Last day to register for the event and get badge with name printed
+**March 15**: Last day to register for the event and get badge with name printed
 
 **March 15**: Last day to order A/V equipment
 
-**March 19**: Last day the venue will accept packages for the event
+**March 20**: Last day the venue will accept packages for the event
 
 **March 20**: Pre-event setup, 2pm - 6pm
 
@@ -59,7 +64,7 @@ The conference Twitter hashtag will be #devopsdays. Please tweet, blog, and othe
 {{< event_twitter >}}
 
 Check out some talks from previous years on <a href="https://www.youtube.com/channel/UCvKd52G5RaLAWVugTdY4pBA"><i class="fa fa-youtube fa-lg"></i>&nbsp;YouTube</a> or 
-</br>Network and follow our updates on <a href="https://www.linkedin.com/company/devopsdayssp" target="_blank"><i class="fa fa-linkedin fa-lg"></i>&nbsp;DevOpsDays Singapore Linkedin</a> and 
+</br>Network and follow our updates on <a href="https://www.linkedin.com/company/devopsdays-singapore" target="_blank"><i class="fa fa-linkedin fa-lg"></i>&nbsp;DevOpsDays Singapore Linkedin</a> and 
 </br> Check our previous events <a href="https://www.instagram.com/devopsdayssg" target="_blank"><i class="fa fa-instagram fa-lg"></i>&nbsp;on DevOpsDays Instagram</a>
 
 ### Note to sponsors about social media
@@ -78,14 +83,12 @@ Singapore 178881<br>
 
 Deliveries, Set-up and Procedures:
 
-1. All delivery of goods for hotel functions, exhibitions and restaurants must go through the Loading Bay, as indicated on the map, vehicle access permit would have to be applied prior.
-2. Do note that only vans and lorries are allowed access to loading docks, cars are not permitted.
-3. Goods to be collected after functions or exhibitions must go through the Loading Bay and will be inspected by the hotel Security personnel before goods are allowed to be taken out of the hotel.
-4. No one is allowed to discard any containers, packages or empty boxes in the hotel premises.
-5. There should be no nailing or pasting on the walls, silk screens, wallpaper, etc.
-6. Suppliers will be responsible for any damage caused to the hotel premises during delivery or the set-up of items
-7. Hotel Fort Canning is not responsible for any loss or damage of goods delivered unless a specific written agreement is made with the Management.
-8. If sponsor has applied for a storage room, please ensure that recipient from sponsor will be available to receive the packages. Please email at [{{< email_organizers >}}] for more information.
+1. All delivery of goods for hotel functions, exhibitions and restaurants must go through the Car Park.
+2. No one is allowed to discard any containers, packages or empty boxes in the hotel premises.
+3. There should be no nailing or pasting on the walls, silk screens, wallpaper, etc.
+4. Suppliers will be responsible for any damage caused to the hotel premises during delivery or the set-up of items
+5. Hotel Fort Canning is not responsible for any loss or damage of goods delivered unless a specific written agreement is made with the Management.
+6. If sponsor has applied for a storage room, please ensure that recipient from sponsor will be available to receive the packages. Please email at [{{< email_organizers >}}] for more information.
 
 __*Strictly no delivery of goods is allowed through the Lobby or Front Entrance of the conference.__
 
@@ -111,31 +114,38 @@ Monitors:
 | #7 | 65” TV with floor stand      | $1000.00 |  
 | #8 | Apple iPad 9.7-inch Retina Display | $150 |  
 
-## <a name='internet'></a>Internet
-
-Sponsors will have access to the same free wireless access points as the attendees. No hardwire ethernet connections will be available. We strongly encourage local demos as we will be unable to guarantee speed or function. Login details will be given on the day of the conference.
-
 ## <a name='sponsor-tables'></a>Sponsor Tables
 
 - Total "booth" space will be an 250cm x 180cm area.
-- Platinum sponsors will be provided two 180cm x 75cm tables with a blackor white tablecloth, four chairs, and a power strip access.
 - Gold sponsors will be provided a 180cm x 75cm table with a black tablecloth, one chair, and a power strip access.
-- Sponsors will be allowed into the venue at 2:00 pm to 6:00 pm on Wednesday, March 20.
-- Sponsors will be allowed into the venue at 7:00 am on Thursday, March 21
-- Doors open at 8:00am for attendees; talks start at 9:00am.
-- Teardown must be complete by 4:45 pm on Friday, March 22.
+- SSponsors can inspect the venue and pre-setup at 2:00 pm to 6:00 pm on Wednesday, March 20.
+- Setup starts at 7:00 am on Thursday, March 21
+- Registration starts at 8:00am for attendees; welcome and opening at 9:00am, talks start at 9:15am.
+- The booth has to be cleared by 5.30pm on Friday,  22nd March.
+- Secure storage will be provided overnight between the 21th and 22th of March. Sponsors will need to move their own items into this storage between 5pm and 5:30pm on Thursday March 21st. It is NOT advised to store valuable items.
+- Teardown must be complete by 6:30pm on March 22nd.
 
-## <a name='sponsor-stamps'></a>Sponsor Stamps
+When you arrive, your table will be marked with your company name on it. Gold Sponsor Tables:
+1. Ariga    		
+2. Progress Chef	 
+3. Site24x7 		
+4. Snyk     		
+5. Nginx			 
+6. Redis 			 
+7. Circle CI		
+8. Thales   		
+9. Elastic 			
+10. Red Hat
+
+## <a name='sponsor-stamps'></a>Sponsor Stamps (stickers)
 
 Attendees will be given 1 game card upon Registration
 
-For every visit to a booth area, a booth manager will sign off with a booth stamp
-
-Upon Completion of game card, Attendees can submit them at Registration Counter in exchange for booth swag
+For every visit to a booth area, a booth manager will sign off with a booth sticker. Upon Completion of game card, Attendees can submit them at Registration Counter in exchange for booth swag
 
 ## <a name='sponsor-pitch-schedule'></a>Sponsor Pitch Schedule
 
-Please send us the pitch by March 15. Each Platinum Sponsor will have three minutes (max three slides) and each Gold Sponsor will have one minute (one slide to be displayed during the pitch) to address the main hall and the listening audience during scheduled blocks between talks. Please ensure that the content of your pitch adheres to the [Code of Conduct][1].
+Please send us the pitch by March 15. Each Gold Sponsor will have one minute (one slide to be displayed during the pitch) to address the main hall and the listening audience during scheduled blocks between talks. Please ensure that the content of your pitch adheres to the [Code of Conduct][1].
 
 We will display your slide deck or your company logo on the main screen during your pitch.
 
@@ -143,22 +153,26 @@ For each Silver Sponsor, the M.C. will introduce sponsor representatives and del
 
 | Day       | Time (5 min slot) | Sponsors                |
 |-----------|-------------------|-------------------------|
-| **Thursday** | 9:45 AM        | Gold #1 (1min) |
-| 		   |                    | Gold #3  |
-|          | 1:30 PM            | Gold #5  |
-|          |                    | Gold #7  |
-|          |                    | Gold #9  |
-| **Friday**   | 9:45 AM        | Gold #2 (1min) |
-| 		   |                    | Gold #4  |
-|          | 1:30 PM            | Gold #6  |
-|          |                    | Gold #8  |
-|          |                    | Gold #10  |
-| 		   | 5:15 PM            | Sponsor giveaways       |
+| **Thursday** | 10:25 | Ariga    |
+| 		   |           | Site24x7 |
+|          |           | Red Hat  |
+|          |           | Redis    |
+|          |           | Elastic  |
+| **Friday**   | 10:25 | Progress Chef |
+| 		   |           | Snyk      |
+|          |           | Circle CI |
+|          |           | Thales    |
+|          |           | Nginx  |
+| 		   |  17:00    | Sponsor giveaways       |
 <br><br>
+
+## <a name='internet'></a>Internet
+
+Sponsors will have access to the same free wireless access points as the attendees. No hardwire ethernet connections will be available. We strongly encourage local demos as we will be unable to guarantee speed or function. Login details will be given on the day of the conference.
 
 # <a name='happy-hour'></a>Thursday Happy Hour
 
-The first evening will have a [social hour](https://devopsdays.org/events/2024-singapore/location/#happy-hour) from 5:25 pm until 7:30 pm.
+The first evening will have a [social hour](https://devopsdays.org/events/2024-singapore/location/#happy-hour) from 17:40 until 20:00.
 If you are planning to host a party or happy hour, etc after either day of the conference, please let us know the details! We will include this information in communications to attendees. Please send the details to [{{< email_organizers >}}]
 
 # <a name='afternoon-raffle'></a>Friday Afternoon Raffle
@@ -199,3 +213,5 @@ Yes. If you want to do a giveaway, you will need to collect your own information
 Your [DevOpsDays Singapore organizers](https://devopsdays.org/events/2024-singapore/contact) are Singapore-based technology folks who volunteer their time for this event.
 
 For any other questions, email at [{{< email_organizers >}}]
+
+[1]: https://devopsdays.org/events/2024-singapore/program

@@ -8,14 +8,15 @@ Description = "DevOpsDays Singapore will take place at Fort Canning! We're encou
 <div class="row">
 <div class="col-md-4">
   <p><img alt="DevOpsDays Singapore 2024" src="/events/2024-singapore/logo.png" class="img-fluid"></p>
-  <p><strong>DevOpsDays</strong> is a network of local, practitioner-focused, not-for-profit event covering topics of software development, IT infrastructure operations, and the intersection between them.  DevOpsDays Singapore is in its fifth year, and will be held on <strong>21st & 22nd March</strong>, at the <a href="../location">Fort Canning Hotel</a> in Singapore. We expect <strong>over 300 attendees</strong> this year.</p>
+  <p><strong>DevOpsDays</strong> is a network of local, practitioner-focused, not-for-profit event covering topics of software development, IT infrastructure operations, and the intersection between them. DevOpsDays Singapore is in its fifth edition, and will be held on <strong>21st & 22nd March</strong>, at the <a href="../location">Fort Canning Hotel</a> in Singapore. We expect <strong>over 300 attendees</strong> this year.</p>
   <p><a href="../location">Look for Nearby Hotels</a></p>
-  <p>Expect talks and discussions from diverse voices on topics like developing resilient applications, monitoring and observability, building application security in via continuous integration, culture hacks, kubernetes tips, hiring good engineers, and many other subjects.</p>
+  <p>Expect talks and discussions from experts and entrepreneurs coming together to learn about and share information on DevOps practices. We want to share experiences, new information and learnings  on topics like developing resilient applications, monitoring and observability, building application security in via continuous integration, culture hacks, kubernetes tips, hiring good engineers, and many other subjects.
+  </p>
   <a href="../program" class="btn btn-primary btn-block"><i class="fa fa-book fa-lg"></i>&nbsp;&nbsp;&nbsp;Look for our Program!</a></p>
 </div>
 <div class="col-md-4">
   <h3>Your DevOpsDays Singapore Experience</h3>
-  <p>Each day starts with <strong>two keynotes</strong> and then <strong>three expert talks</strong> in technology and tech culture. After lunch we have a <strong>series of lightning talks</strong> and then self-organize a series of small groups called openspaces. In these openspaces, attendees share and discuss their knowledge on a specific point topic of interest. You’ll find many opportunities to participate, engage, and discuss with your peers at DevOpsDays Singapore!</p>
+  <p>Each day starts with <strong>two keynotes</strong> and <strong>three expert talks</strong> in technology and tech culture. After lunch we have a panel discussion followed by a <strong>series of lightning talks</strong> and then self-organize a series of small groups called openspaces. In these openspaces, attendees share and discuss their knowledge on a specific point topic of interest. You’ll find many opportunities to participate, engage, and discuss with your peers at DevOpsDays Singapore!</p>
    <p><a href="../contact">Contact the Organizers</a></p>
   <p>More DevOpsDays Singapore videos:</p>
   <p><ul>
