@@ -1,8 +1,8 @@
 +++
 Title = "Lian Li"
-Linkedin = ""
+Linkedin = "https://www.linkedin.com/in/lian-li/"
 Website = ""
-Twitter = ""
+Twitter = "lianmakesthings"
 image = "lian-li.png"
 type = "speaker"
 linktitle = "lian-li"

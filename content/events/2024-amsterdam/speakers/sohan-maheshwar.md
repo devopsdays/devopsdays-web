@@ -2,7 +2,7 @@
 Title = "Sohan Maheshwar"
 Linkedin = ""
 Website = ""
-Twitter = ""
+Twitter = "soganmageshwar"
 image = "sohan-maheshwar.jpg"
 type = "speaker"
 linktitle = "sohan-maheshwar"

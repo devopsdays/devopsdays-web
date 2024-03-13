@@ -1,8 +1,8 @@
 +++
 Title = "John Willis"
-Linkedin = ""
+Linkedin = "https://www.linkedin.com/in/johnwillisatlanta/"
 Website = ""
-Twitter = ""
+Twitter = "botchagalupe"
 image = "john-willis.png"
 type = "speaker"
 linktitle = "john-willis"

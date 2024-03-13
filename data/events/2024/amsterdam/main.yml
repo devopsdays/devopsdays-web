@@ -215,7 +215,7 @@ program:
     end_time: "12:00"
     comments: "Workspace"
 
-  - title: "ws-nathen-harvey-amanda-lewis"
+  - title: "ws-nathen-harvey-amanda-lewis-dave-stanke"
     type: workshop
     date: 2024-06-19T00:00:00+02:00
     start_time: "09:00"
@@ -320,12 +320,19 @@ program:
     end_time: "17:00"
     comments: "Grote Zaal"
 
-  - title: "ws-rania-mohamed-fahd-ekadioin-christiaan-hees"
+  - title: "ws-alireza-chegini"
     type: workshop
     date: 2024-06-19T00:00:00+02:00
     start_time: "16:15"
     end_time: "17:00"
     comments: "Ij Zaal"
+
+  - title: "ws-rania-mohamed-fahd-ekadioin-christiaan-hees"
+    type: workshop
+    date: 2024-06-19T00:00:00+02:00
+    start_time: "16:45"
+    end_time: "17:30"
+    comments: "Expo 1"
 
   # end of day
   - title: "Have a beer on us!"
@@ -357,11 +364,11 @@ program:
     end_time: "09:55"
     background_color: "#bfe3b4"
 
-  # - title: "leon-adato"
-  #   type: talk
-  #   date: 2024-06-20T00:00:00+02:00
-  #   start_time: "10:00"
-  #   end_time: "10:30"
+  - title: "onno-ceelen-roy-triesscheijn"
+    type: talk
+    date: 2024-06-20T00:00:00+02:00
+    start_time: "10:00"
+    end_time: "10:30"
 
   - title: "Break"
     type: custom
@@ -662,9 +669,6 @@ ignites:
 
   - title: "ig-toshaan-bharvani"
     date: 2024-06-21T00:00:00+02:00
-
-  # - title: "ig-leon-adato"
-  #   date: 2024-06-21T00:00:00+02:00
 
   - title: "ig-eugene-romero"
     date: 2024-06-21T00:00:00+02:00

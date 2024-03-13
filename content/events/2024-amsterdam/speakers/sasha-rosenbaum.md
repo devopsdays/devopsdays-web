@@ -1,8 +1,8 @@
 +++
 Title = "Sasha Rosenbaum"
-Linkedin = ""
-Website = ""
-Twitter = ""
+Linkedin = "https://www.linkedin.com/in/sasha-rosenbaum/"
+Website = "https://www.sasharosenbaum.com"
+Twitter = "DivineOps"
 image = "sasha-rosenbaum.jpg"
 type = "speaker"
 linktitle = "sasha-rosenbaum"
