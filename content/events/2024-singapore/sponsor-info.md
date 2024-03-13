@@ -130,7 +130,7 @@ When you arrive, your table will be marked with your company name on it. Gold Sp
 2. Progress Chef	 
 3. Site24x7 		
 4. Snyk     		
-5. F5 Nginx			 
+5. Nginx			 
 6. Redis 			 
 7. Circle CI		
 8. Thales   		
@@ -162,7 +162,7 @@ For each Silver Sponsor, the M.C. will introduce sponsor representatives and del
 | 		   |           | Snyk      |
 |          |           | Circle CI |
 |          |           | Thales    |
-|          |           | F5 Nginx  |
+|          |           | Nginx  |
 | 		   |  17:00    | Sponsor giveaways       |
 <br><br>
 
