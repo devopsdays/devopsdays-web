@@ -26,6 +26,8 @@ registration_date_end: # close registration. Leave blank if registration is not 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
+masthead_background: "background.png"
+
 sharing_image: "sharing.jpg"
 
 # Location
@@ -102,6 +104,12 @@ organizer_email: "houston@devopsdays.org" # Put your organizer email address her
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: arresteddevops
+    level: community
+  - id: kubeevents
+    level: community
+  - id: kubecareers
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
