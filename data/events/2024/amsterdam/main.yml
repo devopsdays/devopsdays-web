@@ -147,6 +147,8 @@ sponsors:
     level: silver
   - id: fullstaq
     level: silver
+  - id: cert2connect-checkmarx
+    level: silver
   # Bronze
   - id: devleaps
     level: bronze
