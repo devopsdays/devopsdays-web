@@ -42,28 +42,28 @@ Description = "devopsdays Portugal 2024"
   <hr style="margin:50px 0px"/>
 
   <div class="row">
-    <!--<div class = "col-md-4">
-      <h2>Register</h2>
-      <p>Grab your ticket today and join us for two days of talks, open-spaces and networking.</p>
-    </div>-->
-    <div class = "col-md-6">
+    <div class = "col-md-4">
+      <h2>Propose</h2>
+      <p>This year the conference theme will be “DevOps & Platform Engineering - Bridging the Gap”. Do you want to share your thoughts within the community? Join us by proposing your talk.</p>
+    </div>
+    <div class = "col-md-4">
       <h2>Sponsor</h2>
       <p>Helps us run the conference by sponsoring the event. It's a great way to increase your company and brand's visibility in the community and show that you care.</p>
     </div>
-    <div class = "col-md-6">
+    <div class = "col-md-4">
       <h2>Get In Touch</h2>
       <p>Want to know more or need and help regarding the conference? Reach out to us.</p>
     </div>
   </div>
 
   <div class="row" style="margin-bottom:50px">
-    <!-- <div class = "col-md-4">
-      <a href="/events/2024-portugal/registration" type="button" class="btn btn-primary btn-lg btn-block">Register today!</a>
-    </div>-->
-    <div class = "col-md-6">
+    <div class = "col-md-4">
+      <a href="/events/2024-portugal/propose" type="button" class="btn btn-primary btn-lg btn-block">Propose your talk!</a>
+    </div>
+    <div class = "col-md-4">
       <a href="/events/2024-portugal/sponsor" type="button" class="btn btn-primary btn-lg btn-block">Sponsor the conference!</a>
     </div>
-    <div class = "col-md-6">
+    <div class = "col-md-4">
       <a href="/events/2024-portugal/contact" type="button" class="btn btn-primary btn-lg btn-block">Get in touch with the organizers</a>
     </div>
   </div>
