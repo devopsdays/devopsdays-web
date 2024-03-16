@@ -118,6 +118,8 @@ sponsors:
     level: gold
   - id: siglens
     level: gold
+  - id: groundcover
+    level: gold
   - id: allthingsopen2024
     level: community
   - id: learnk8s
