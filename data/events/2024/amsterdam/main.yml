@@ -149,6 +149,8 @@ sponsors:
     level: silver
   - id: cert2connect-checkmarx
     level: silver
+  - id: hcscompany
+    level: silver
   # Bronze
   - id: devleaps
     level: bronze
