@@ -145,8 +145,10 @@ sponsors:
     #level:
 
 # Bronze
-  #- id:
-    #level:
+- id: chip&cia
+  level: bronze
+- id: qualestecnologia
+  level: bronze  
 
 # Community
   #- id:
