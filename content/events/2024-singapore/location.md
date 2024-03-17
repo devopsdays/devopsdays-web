@@ -1,7 +1,7 @@
 +++
-Title = "Location"
+Title = "location"
 Type = "event"
-Description = "Location for devopsdays Singapore 2024"
+Description = "Location for Devopsdays Singapore 2024"
 +++
 
 <address>
@@ -41,15 +41,80 @@ Email: contact@hfcsingapore.com
 {{< event_map >}}
 <br>
 
-# After Party
+### Food and Beverage Menu
 
-Location: TBC
+We will have two coffee breaks with pastries (one option vegetarian) and we will also have the following lunch menu:
+
+<details open>
+  <summary>THURSDAY Lunch Menu</summary>
+
+**Bakery Section**
+* Soft Roll (V)
+    (served with butter)
+
+**Salad Section**
+* Coral Lettuce, thousand island dressing (V)
+    (olive, gherkin, cherry tomato)
+
+**Soup Section**
+* Pasta Salad (V)
+
+**Main Section**
+* Grilled Cauliflower, herb butter oil (V)
+* Chicken Katsu, mayonnaise, bbq sauce
+* Braised Beef, root vegetable, au jus
+* Penne, mushroom, basil cream sauce (V)
+
+**Dessert Section**
+* Mango Mousse
+* Chocolate Fudge
+* Chilled Cheese Cake
+* Fresh Fruit Platter
+</details>
+
+<details>
+  <summary>FRIDAY Lunch Menu</summary>
+
+**Bakery Section**
+* Focaccia (V)
+(served with butter)
+
+**Salad Section**
+* Mesclun Mixed, balsamic dressing (V)
+(olive, cucumber, cherry tomato)
+
+**Appetizer Section**
+* Sweet Corn, chives, shallot, tabasco cream (V)
+
+**Main Section**
+* Wok-fried Vegetable, lotus root (V)
+* Chicken Curry, potato, tomato, coriander
+* Tandoori Fish, chilli, onion, curry leaves
+* Turmeric Rice, raisin, fried shallot (V)
+
+**Dessert Section**
+* Assorted Nyonya Kueh
+* Bubur Cha Cha 
+* Strawberry Mousse
+* Fresh Fruit Platter
+</details>
+
+## <a name='happy-hour'></a>Thursday Happy Hour
+
+Time: 17:40 - 20:00, 21 March (Bring Registration Badge)
+
+Location: [Brewerkz Riverside Point](https://brewerkz.com/outlet/riverside-point)
+
+[30 Merchant Rd, #01-07 Riverside Point, Singapore 058282](https://maps.app.goo.gl/tm1qYQ4D8a1qqCcY6)
 
 # Travel Tips
 
 First time to Singapore? Or curious to find more exciting places?
 
-A good start is to read <a href="https://www.timeout.com/singapore/things-to-do/the-guide-to-getting-around-singapore-on-public-transport">the advices</a>
+A good start is to read [the advices](https://www.timeout.com/singapore/things-to-do/the-guide-to-getting-around-singapore-on-public-transport).
+
+Goodbye February, hello March! you can read 
+[The best things to do in Singapore this March](https://www.timeout.com/singapore/things-to-do/best-things-to-do-in-singapore-in-march) or if you have plenty of time [The 101 best things to do in Singapore](https://www.timeout.com/singapore/things-to-do/101-things-to-do-in-singapore-sightseeing).
 
 ## About Singapore
 
@@ -61,35 +126,35 @@ If you're local, you already know the diversity of our <a href="https://www.meet
 
 For those coming from out of town, there are flights from just about everywhere to [Singapore](https://www.changiairport.com/), and there are several hotels nearby. More details are on the location page.
 
-Some even say it's the 'easiest place for business,' the 'most liveable city in Asia' and the 'best city in the world to live in for Asia expatriates.'.
+Some even say it's the 'easiest place for business,' the **'most liveable city in Asia'** and the 'best city in the world to live in for Asia expatriates.'.
 
-So here are some more facts about Singapore:
+So here are some more **facts** about Singapore:
 
-## It's going to be HOT!
+### It's going to be HOT!
 
 Singapore is about 137 kilometres (85 mi) north of the equator and thus the DevOpsDays location which is closest to the center of … everything! Expect a diverse culture and temperatures above 30 degree celsius. We are pretty sure to provide you equally hot topics too.
 
 We recommend to add a few more days to explore the beautiful city and try the delicious foods.
 
-## We help you stay cool!
+### We help you stay cool!
 
 The aircon and the lovely staff in our venue will help you to stay cool and relaxed. Expect delicious food and supplies. We took great effort in choosing a premium location which adds benefits like easy transportation and the comfort of an integrated Hotel.
 
-## Indulge
+### Indulge
 
 If it's edible and fits on a plate, bowl, banana leaf or sheet of paper, you'll find it in Singapore! Head to any of the hawker centers in the heartlands to truly sample Singapore’s food culture. There’s a huge variety of stalls there at dirt-cheap prices. Also around the conference venue.
 
-## Green Builds in Garden City
+### Green Builds in Garden City
 
 There's the Botanical Gardens, HortPark, MacRitchie Reservoir, Bukit Timah Nature Reserve which a variety of flora and fauna.
 
 Rows of trees that line roads everywhere, from expressways to suburban streets. Singapore's a champion of environmental initiatives, from the world's largest CNG refueling station to its first Solar Greenlots for electric vehicles.
 
-## Secure Strolling
+### Secure Strolling
 
 Singapore has a crime rate so low, ladies stroll without fear in the wee hours of the night. And contrary to Western opinion, there's no strong police presence poised to cane anyone for spitting, chewing gum or scratching cars.
 
-## Superior Shopping
+### Superior Shopping
 
 Singapore's stretch of malls accommodate the most fickle shoppers. Shop from Wisma Atrium on one end to Suntec City on the other without feeling the sun.
 

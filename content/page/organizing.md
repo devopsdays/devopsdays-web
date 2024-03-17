@@ -341,7 +341,9 @@ Set an official theme if one beyond "devops" is desired. Within the context of t
 
 Events usually have 4 30-min talks per day + ignite talks. Open space sessions are scheduled during the conference, not ahead of time.
 
-For people to respond to the call for proposals you can use your city@devopsdays.org address, a web form, a third-party CFP tool, etc. The core organizers run an instance of [Pretalx](https://talks.devopsdays.org) if you're looking for a free way to run a CFP on a platform. Please visit #conference-services on the global devopsdays Slack for more information. 
+For people to respond to the call for proposals you can use your city@devopsdays.org address, a web form, a third-party CFP tool, etc. 
+
+💡 **Pretalx** is an open source event management platform that handles the CFP, review & talk selection, scheduling, and more. The core organizers run an instance of [Pretalx](https://talks.devopsdays.org) that is made _freely available_ to the DevOpsDays community. You're under no obligation to use it—but you can if you want to! Please visit `#conference-services` on the global DevOpsDays Slack for more information. 
 
 Keep in mind that under-represented people in tech are much less likely to respond to your CFP. If you would like to encourage diverse viewpoints from voices other than those you hear the most often, you will need to reach out into those communities and encourage participation.
 
@@ -533,9 +535,9 @@ If you’re struggling to sell tickets, try some of the following ideas:
 
 Once pricing has been decided you're ready to set up registration. 
 
-The core organizers run a [Pretix instance](https://tickets.devopsdays.org) in order to handle registration. Please visit #conf-services on the devopsdays Slack. Using the Pretix instance is not a requirement, but rather there is a near zero cost to you (very handy if this is your first year). 
+💡 **Pretix** is an open source ticketing and payment management platform that handles registrations, issuing tickets, waitlists, and more. The core organizers make a [Pretix instance](https://tickets.devopsdays.org) freely available to the DevOpsDays community. You're under no obligation to use it—but you can if you want to! Please visit `#conference-services` on the DevOpsDays Slack. 
 
-Alternatively, core organizers have had good experiences with [Eventbrite](http://www.eventbrite.com) integrated with [PayPal](http://paypal.com) payments. The paypal account for payment needs to be linked directly to the company that does the invoicing.
+Alternatively, event organizers have had good experiences with [Eventbrite](http://www.eventbrite.com) integrated with [PayPal](http://paypal.com) payments. The Paypal account for payment needs to be linked directly to the company that does the invoicing.
 (Note: if using Eventbrite, use Paypal, not "Eventbrite payment processing", or configure Eventbrite to disperse funds frequently so you don't have to wait until after your event.)
 
 When setting up an event please consider the following: 

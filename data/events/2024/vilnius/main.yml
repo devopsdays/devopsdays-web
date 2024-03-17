@@ -1,0 +1,104 @@
+name: "2024-vilnius" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2024" # The year of the event. Make sure it is in quotes.
+city: "Vilnius" # The displayed city name of the event. Capitalize it.
+event_twitter: "dodvilnius" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays is coming to Vilnius!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+event_logo: "logo-square.jpg"
+masthead_background: "vilnius-head-background.jpg"
+
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2024-09-11T00:00:00+03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2024-09-12T23:59:59+03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+#cfp_date_start: 2024-04-25T00:00:00+03:00 # start accepting talk proposals.
+#cfp_date_end: 2024-06-06T00:00:00+03:00 # close your call for proposals.
+#cfp_date_announce: 2024-06-15T00:00:00+03:00 # inform proposers of status
+
+
+#registration_date_start: 2024-05-10T00:00:00+03:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+#registration_date_end: 2024-09-09T23:59:59+03:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+
+# Location
+coordinates: "54.673938, 25.270105" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Cyber City | Vilnius" # Defaults to city, but you can make it the venue name.
+location_address: "Švitrigailos 34, 03230 Vilnius" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: location
+  - name: sponsor
+  - name: contact
+  - name: conduct
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Marius Guobys"
+    linkedin: "https://www.linkedin.com/in/marius-g-b291319/"
+    role: "Organizer"
+    image: "marius-guobys.png"
+  - name: "Mantas Lukoševičius"
+    linkedin: "https://www.linkedin.com/in/mantas-lukosevicius-08a46966/"
+    role: "Organizer"
+    image: "mantas-lukosevicus.jpg"
+  - name: "Ignas Poškus"
+    linkedin: "https://www.linkedin.com/in/ignaspo/"
+    role: "Organizer"
+    image: "ignas-poskus.jpg"
+  - name: "Marijus Ravickas"
+    linkedin: "https://www.linkedin.com/in/marijusravickas/"
+    role: "Organizer"
+    image: "marijus-ravickas.jpg"
+  - name: "Artiom Jakubovič"
+    linkedin: "https://www.linkedin.com/in/artiom-jakubovic-7a940239/"
+    role: "Organizer"
+    image: "artiom-jakubovic.jpg"
+  - name: "Povilas Janušas"
+    linkedin: "https://www.linkedin.com/in/povilas-janusas-4b467431/"
+    role: "Organizer"
+    image: "povilas-janusas.jpg"
+  - name: "Lukas Drukteinis"
+    linkedin: "https://www.linkedin.com/in/lukas-drukteinis/"
+    role: "Organizer"
+    image: "lukas-drukteinis.jpg"
+
+organizer_email: "vilnius@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: cloudnativelithuania
+    level: community
+  - id: devopsinshorts
+    level: community
+  - id: nordsecurity
+    level: venue
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: platinum
+    label: Platinum
+  - id: gold
+    label: Gold
+  - id: silver
+    label: Silver
+  - id: bronze
+    label: Bronze
+  - id: venue
+    label: Venue
+  - id: social
+    label: Social
+  - id: community
+    label: Community

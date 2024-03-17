@@ -65,14 +65,14 @@ Description = "DevOpsDays Aracaju 2024 will take place Apr 20, 2024!"
           <div class="col-md-8">{{< event_twitter >}}</div>
           <br>
           <div class="col-md-8">
-              <a href="https://www.youtube.com/c/DevOpsDaysAracaju/" target="_blank">
-                  <i class="fa fa-youtube fa-lg"></i> Canal do Youtube
+              <a href="https://bit.ly/dodaju2024" target="_blank">
+                <img src="/events/2024-aracaju/2lote.jpg" alt="Descrição da Imagem" width="300" height="300">
               </a>
           </div>
         </div>
     </div>
     <div class="col-md-4 embed-responsive">
-       <iframe width="560" height="315" src="https://www.youtube.com/embed/5FTH0Xph_vE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+       <iframe width="560" height="315" src="https://www.youtube.com/watch?v=5FTH0Xph_vE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 </div>
 <hr/>
@@ -81,7 +81,14 @@ Description = "DevOpsDays Aracaju 2024 will take place Apr 20, 2024!"
 
 Participe da 3ª Edição do DevOpsDays Aracaju!
 ===
-
+<section class="qr-code">
+      <h2>As inscrições já estão abertas! Aguardamos vocês...</h2>
+      <p>Escaneie o QR Code abaixo ou acesse o link para mais informações:</p>
+      <img src="/events/2024-aracaju/qrcode.png" alt="QR Code">
+</section>
+<p>
+  <a href="https://bit.ly/dodaju2024">Clique aqui e faça sua inscrição</a>.
+</p>
 DevOpsDays acontecerá em Aracaju, no  Centro Universitário Estácio de Sergipe - Auditório 1, no dia 20 de Abril de 2024! <!--em seu segundo ano! -->
 
 <!-- Em breve atualizaremos o portal com datas de submissão de talks e propostas de patrocínio. -->

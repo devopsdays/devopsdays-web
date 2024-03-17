@@ -1,87 +1,41 @@
 +++
-Title = "devopsdays Vancouver 2024"
+Title = "DevOpsDays Vancouver 2024"
 Type = "welcome"
 aliases = ["/events/2024-vancouver/"]
-Description = "devopsdays Vancouver 2024"
+Description = "DevOpsDays Vancouver 2024"
 +++
 
-<!-- <div style="text-align:center;">
-  {{< event_logo >}}
-</div> -->
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Dates</strong>
+<div class="row">
+    <h1>DevOpsDays is coming back to Vancouver in 2024!</h1>
+</div>
+<div class="row">
+  <div class="col-md-4">
+    <img alt="DevOpsDays Vancouver 2024" src="/events/2024-vancouver/logo.jpg" class="img-fluid">
+    <div class="d-flex flex-row">
+      <div class="col-md-12">
+        <div class="p-2">
+          <a class="btn btn-secondary btn-block" href="/events/2024-vancouver/sponsor"> <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference</a>
+        </div>
+        <div class="p-2">
+          <a class="btn btn-secondary btn-block" href="/events/2024-vancouver/contact"> <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;
+            &nbsp; Contact the Organizers</a>
+        </div>
+      </div>
+    </div>
   </div>
-  <div class = "col-md-8">
-    {{< event_start >}} - {{< event_end >}}
+  <div class="col-md-8">
+    <div class="alert alert-secondary" role="alert">
+      <h4 class="alert-heading">CFP submission window is closed now</h4>
+      <p>
+        Thank you for your submissions, we've got a lot of great talks.</br>
+        In the next few weeks we are going to carefully go through all the submissions.
+      </p>
+      <p>
+        {{< cfp_dates >}}
+      </p>
+    </div>
+    <div>
+      <p>After a two year hiatus we are back in business.</p>
+    </div>
   </div>
 </div>
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Location</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_location >}}
-  </div>
-</div> -->
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Register</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
-  </div>
-</div> -->
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Propose</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
-  </div>
-</div> -->
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Program</strong>
-  </div>
-  <div class = "col-md-8">
-    View the {{< event_link page="program" text="program." >}}
-  </div>
-</div> -->
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Speakers</strong>
-  </div>
-  <div class = "col-md-8">
-    Check out the {{< event_link page="speakers" text="speakers!" >}}
-  </div>
-</div> -->
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Sponsors</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="sponsor" text="Sponsor the conference!" >}}
-  </div>
-</div>
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Contact</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="contact" text="Get in touch with the organizers" >}}
-  </div>
-</div>
-
-<!-- Uncomment if you added your city twitter name -->
-<!--
-{{< event_twitter >}}
--->

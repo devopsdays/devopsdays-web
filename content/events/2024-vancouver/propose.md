@@ -26,5 +26,3 @@ Choosing talks is part art, part science; here are some factors we consider when
 - _no vendor pitches_: As much as we value vendors and sponsors, we are not going to accept a talk that appears to be a pitch for your product.
 
 <hr>
-
-<strong>Please submit your proposals [here](https://docs.google.com/forms/d/e/1FAIpQLSf3bFSfuUzkf3guD0gQKfBZ87ifQxczUt8rSnO0KZRCYad4Iw/viewform?usp=sf_link)!</strong>

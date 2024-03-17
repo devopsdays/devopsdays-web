@@ -1,4 +1,4 @@
-{{- $e := (index $.Site.Data.events (index (split (.Permalink | relURL) "/") 2)) -}}
+{{- $e := partial "functions/get-event-data" . -}}
 {{- $.Scratch.Set "contentdir" (printf "static/events/%s/" $e.name) -}}
 
     {{- if $e.masthead_background -}}
@@ -98,20 +98,20 @@
           
           {{/* Filter events on city or event_group name to build "other X events" list*/}}
           {{ $other := slice }}
-          {{- range $.Site.Data.events -}}
-            {{- if ne .cancel "true" -}}
-              {{- if and (.startdate) (ne .startdate $e.startdate) -}}
-                {{- if or (eq (lower .city) (lower $otherTitle)) (eq (lower .event_group) (lower $otherTitle)) -}}
-                  {{ $other = append . $other  }}
-                {{- end -}}
-              {{- end -}}              
-            {{- end -}}
+          {{ $events := slice }}
+          {{- $events = partial "functions/get-all-events" . -}}
+          {{- range sort $events "startdate" -}}
+            {{- if and (.startdate) (ne .startdate $e.startdate) -}}
+              {{- if or (eq (lower .city) (lower $otherTitle)) (eq (lower .event_group) (lower $otherTitle)) -}}
+                {{ $other = append . $other  }}
+              {{- end -}}
+            {{- end -}}              
           {{- end -}}
 
           {{- if ne (len $other) 0 -}}
             <i>Other {{ $otherTitle }} Events</i><br />
             {{- range sort $other "startdate" -}}
-              <a href = "{{ (printf "/events/%s" .name) }}" class="welcome-page-masthead-link">{{ dateFormat "2006" .startdate }}</a> &nbsp;&nbsp;
+              <a href = '{{ (printf "/events/%s" .name) }}' class="welcome-page-masthead-link">{{ dateFormat "2006" .startdate }}</a> &nbsp;&nbsp;
             {{- end -}}
           {{- end -}}
 

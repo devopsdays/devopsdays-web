@@ -1,11 +1,15 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
+City = "Singapore"
+Year = "2024"
+talk_date = "2024-03-21"
+talk_start_time = "9:15"
+talk_end_time = "9:55"
 Title = "Schema-as-Code: Developer platforms and database schema changes"
 Type = "talk"
 Speakers = ["rotem-tamir"]
-sharing_image = "singapore2024.png"
+youtube = ""
+speakerdeck = ""
+sharing_image = "2024-rotem-tamir.jpg"
 +++
 
 In this talk, we explore the challenges of database schema changes at scale. We will demonstrate ways we can apply modern concepts such as Continuous Integration and Infrastructure-as-Code to build robust developer platforms that can make database changes both safer and faster at the same time.

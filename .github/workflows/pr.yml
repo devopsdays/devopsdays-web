@@ -1,0 +1,42 @@
+name: Pull Request Description Validation
+
+on:
+  pull_request_target:
+    types: [opened, edited, reopened, synchronize]
+
+jobs:
+  validate-pr-description:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+      - name: Check PR Description Against Template
+        id: prcheck
+        run: |
+          # Ensure jq is installed
+          sudo apt-get install jq
+
+          # Fetch PR description using jq
+          PR_DESCRIPTION=$(jq -r ".pull_request.body" "$GITHUB_EVENT_PATH")
+          KEYWORD="Bluth"
+
+          # Check for the required keyword in the PR description
+          if [[ $PR_DESCRIPTION = *"$KEYWORD"* ]]; then
+            echo "PR description does not have default text removed"
+            exit 1
+          fi
+
+          # Check to make sure the description isn't empty
+          if [[ $PR_DESCRIPTION = "null" ]]; then
+            echo "PR description is empty"
+            exit 1
+          fi
+      - name: Comment on PR
+        id: comment
+        if: failure() && steps.prcheck.outcome == 'failure'
+        uses: thollander/actions-comment-pull-request@v2
+        with:
+          message: |
+            `en_US`: Hi @${{ github.event.pull_request.user.login }}! It looks like you've left the default text in the pull request description. Please replace that text with something meaningful. Thanks!
+            `pt_BR`: Olá @${{ github.event.pull_request.user.login }}! Parece que você deixou o texto predefinido na descrição da PR. Por favor, substitua esse texto por algo mais relevante. Obrigado!
