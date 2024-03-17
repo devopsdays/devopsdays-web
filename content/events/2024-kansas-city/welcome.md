@@ -136,7 +136,7 @@ Description = "DevOpsDays Kansas City 2024 will take place May 15-16, 2024!"
             </ul>
             </p>
             <p>
-              Please contact the Organizers at [organizers@devopsdayskc.org] to let us know about any changes to your reservation.
+              Please contact the Organizers at <a href="mailto:organizers@devopsdayskc.org?subject=Changes%to%20my%20Reservation">organizers@devopsdayskc.org</a> to let us know about any changes to your reservation.
             </p>
         </div>
       </div>
