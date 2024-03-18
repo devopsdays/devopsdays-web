@@ -10,6 +10,10 @@ Description = "devopsdays Campinas 2024"
 
 /* Thank you Buffalo */
 
+.content-text {
+  padding: 0;
+}
+
 .mtl {
   display: flex;
   flex-direction: row;
@@ -17,7 +21,7 @@ Description = "devopsdays Campinas 2024"
   justify-content: center;
   align-items: center;
   background-color: #cedde6;
-  margin: 3em;
+  /* margin: 3em; */
   padding: 3em;
   gap: 3em;
   border-radius: 2px;
@@ -53,14 +57,14 @@ Description = "devopsdays Campinas 2024"
   font-size: 1.5em;
   margin-top: 1em;
 }
-@media only screen and (max-width: 760px) {
+@media only screen and (max-width: 1100px) {
   .mtl {
     flex-direction: column;
     margin: 0;
   }
   .mtl .showcase img {
     margin: 0;
-    width: 300%;
+    width: 100%;
   }
 }
 
