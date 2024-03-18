@@ -3,7 +3,7 @@ Title = "Rania Mohamed"
 Linkedin = ""
 Website = ""
 Twitter = ""
-image = ""
+image = "rania-mohamed.jpeg"
 type = "speaker"
 linktitle = "rania-mohamed"
 +++

@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Dialogue-Driven Development: The Human Essence of Platform Engineering"
 Type = "talk"
-Speakers = ["marcy","steph"]
+Speakers = ["marcy","stephane-cusin"]
 +++
 Join Marcy, a dynamic young engineer and product owner, and Stéphane, a technical architect, for an insightful look into Agile Kubernetes Cluster Creation. Witness how a group of talented engineers was transformed into an agile powerhouse through strategic team reorganization. Learn about our journey from one cluster to 1000 secure clusters in just 6 months, a feat achieved not only through technical skills but especially through a renewed focus on agile management and collaborative practices.
 
