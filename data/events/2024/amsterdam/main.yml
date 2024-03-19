@@ -139,6 +139,8 @@ sponsors:
   - id: schubergphilis
     level: lanyard
   # Foodtruck
+  - id: flyio
+    level: foodtruck
   # Recharge
   # Silver
   - id: sysdig
