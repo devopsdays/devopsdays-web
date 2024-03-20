@@ -1,5 +1,5 @@
 +++
-Title = "ethan-thomson"
+Title = "Ethan Thomson"
 Twitter = ""
 linkedin = "https://www.linkedin.com/in/ethan-h-thompson/"
 image = "ethan-thomson.jpg"

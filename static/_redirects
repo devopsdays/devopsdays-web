@@ -22,7 +22,7 @@
 /buffalo/*		/events/2023-buffalo/:splat		302
 /caceres/*		/events/2020-caceres/:splat		302
 /cairo/*		/events/2024-cairo/:splat		302
-/campinas/*		/events/2019-campinas/:splat		302
+/campinas/*		/events/2024-campinas/:splat		302
 /cape-town/*		/events/2020-cape-town/:splat		302
 /charlotte/*		/events/2022-charlotte/:splat		302
 /chattanooga/*		/events/2023-chattanooga/:splat		302
@@ -91,7 +91,7 @@
 /portland-or/*		/events/2022-portland-or/:splat		302
 /events/2021-portland/* /events/2021-portland-or/:splat 	302
 /porto-alegre/*		/events/2023-porto-alegre/:splat	302
-/portugal/*		/events/2023-portugal/:splat		302
+/portugal/*		/events/2024-portugal/:splat		302
 /poznan/*		/events/2023-poznan/:splat		302
 /prague/*		/events/2023-prague/:splat		302
 /raleigh/*		/events/2024-raleigh/:splat		302
@@ -171,7 +171,7 @@
 /ankara/*            /events/2020-ankara/:splat           302
 /lima/*            /events/2020-lima/:splat           302
 /rosario/*            /events/2020-rosario/:splat           302
-/aarhus/*            /events/2022-aarhus/:splat           302
+/aarhus/*            /events/2025-aarhus/:splat           302
 /almaty/*            /events/2023-almaty/:splat           302
 /organizer-summit/*            /events/2024-organiser-summit/:splat           302
 /organiser-summit/cfp          https://talks.devopsdays.org/organiser-summit-2024/cfp           302
@@ -258,3 +258,4 @@
 /johannesburg/*            /events/2024-johannesburg/:splat           302
 /ahmedabad/*            /events/2024-ahmedabad/:splat           302
 events/2024-ahmedabad/sponsorship-prospectus.pdf https://assets.devopsdays.org/events/2024/ahmedabad/sponsorship-prospectus.pdf
+/curitiba/*            /events/2024-curitiba/:splat           302

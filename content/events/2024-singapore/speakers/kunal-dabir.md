@@ -2,8 +2,8 @@
 Title = "Kunal Dabir"
 Type = "speaker"
 Twitter = "kdabir"
-Linkedin = "https://www.linkedin.com/in/pasapicella"
-Github = "https://github.com/kdabir"
+Linkedin = "https://www.linkedin.com/in/kdabir"
+Github = "kdabir"
 image = "kunal-dabir.jpg"
 sharing_image = "singapore2024.png"
 +++

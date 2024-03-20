@@ -1,4 +1,5 @@
 # Utilities
+
 These scripts help devopsdays organizers manage their events.
 
 ## Contributing
@@ -43,6 +44,7 @@ Many sponsors are sponsors for multiple devopsdays. If a sponsor listing already
 The sample datafile has some sponsor levels pre-populated; edit as desired. You will want to decide what's in your sponsor packages before accepting most types of sponsors (other than Community).
 
 #### Sponsor URL override
+
 Sometimes, an existing sponsor will want an event-specific URL for your event. Rather than creating a new sponsor, you can add an optional `url` field to the sponsor in your event data file to override the default URL for that sponsor. For example:
 
 ```
@@ -75,6 +77,7 @@ Modifying 2018-chicago/contact/index.html
 ```
 
 Under the hood, the script is:
+
 1. Copying the existng sponsor files to `sponsor-before-todaysdate.{png,yml}`.
 1. Copying in the new image to `sponsor.png`.
 1. Modifying any events that did _not_ occur this year such that they are sponsored by `sponsor-before-todaysdate`, rather than `sponsor`.
@@ -86,7 +89,6 @@ Finally, make whatever changes are requested to the image and data file.
 
 See [Pivotal logo update](https://github.com/devopsdays/devopsdays-web/pull/6501) for the pull request that inspired this example.
 
-
 ### Adding a new sponsor
 
 Use [add_sponsors.sh](add_sponsors.sh) to easily add new sponsors. (Only do this if the sponsor doesn't already exist.)
@@ -96,7 +98,6 @@ Use [add_sponsors.sh](add_sponsors.sh) to easily add new sponsors. (Only do this
 1. Add the new sponsor to your event's datafile with the appropriate level.
 
 See [contrib/make_sponsors.rb](make_sponsors.rb) for another option.
-
 
 ### Sponsor logos
 
@@ -117,7 +118,6 @@ See the example local organizer team members listed in the generated data file f
 The organizer photo must be in JPG format, and should be a minimum 300px x 300px, but optimally 600px x 600px. These images should be placed in the `static/events/yyyy-city/organizers` directory (which the `add_organizers.sh` script will do).
 
 Any PRs adding a new local organizer will need to be accompanied by an email to `info@devopsdays.org` with their full name and email address. We merge the PR at the same time as adding them to email lists and Slack, so if you aren't ready to send that email, merging your PR will be delayed until we have that info.
-
 
 ## Social sharing image
 
@@ -148,18 +148,15 @@ Speakers = ["rainbow-dash","twilight-sparkle"]
 
 You can also rename the generated program file to include them both: `mv content/events/2017-ponyville/program/rainbow-dash.md content/events/2017-ponyville/program/dash-sparkle.md`. As long as the Speakers line is set correctly, this will work fine.
 
-
 ### Program
 
 Use [add_program.sh](add_program.sh) to add the program for your event. The program template expects 4 full talks each day and lists default times, but you can customize. The program data is stored in the event datafile such as `data/events/2017-ponyville.yml`. You don't need to know any or all of your speakers when adding the sample program, but if you have selected speakers you can list them on the program with this script.
 
 If you start working on the program before you have all your speakers, by default you'll have `talk-1` through `talk-8` and you can replace those with slugs like `rainbow-dash` or `dash-sparkle` as appropriate.
 
-
 ### Speaker Images
 
 The headshots for your speaker images can be either .png or .jpg. They should be square, preferably 600px square. If they are not square, the page listing all speakers will crop them to square, but the individual speaker and talk pages will not crop the image). 
-
 
 # Adding slides and video
 
@@ -174,6 +171,7 @@ slides = ""
 ```
 
 ## Embedding Videos Other than Vimeo or YouTube
+
 You can embed video other than YouTube or Vimeo on talk pages by adding the embed script to a talk file (such as `content/events/2017-ponyville/program/rainbow-dash.md`) and enclosing it into a `<div>` section. Here is an example of embedding a SlidesLive.com video:
 ```
 +++
@@ -190,7 +188,6 @@ You can embed video other than YouTube or Vimeo on talk pages by adding the embe
 </div>
 
 ```
-
 
 # Bash tips:
 

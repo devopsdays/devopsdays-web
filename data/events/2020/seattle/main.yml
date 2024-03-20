@@ -151,7 +151,7 @@ sponsors:
     level: gold
   - id: sonatype
     level: gold
-  - id: tigera
+  - id: tigera-before-20240318
     level: silver
   - id: xmatters
     level: gold

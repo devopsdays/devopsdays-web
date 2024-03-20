@@ -37,7 +37,7 @@ Description = "devopsdays Kraków 2024"
   <div class='text'>
     <p style="font-weight: 800">DevOpsDays Kraków 2024</p>
     <p>
-      Join us for the 5th edition of DevOpsDays Kraków, a renowned conference, in Kraków on March 12th-13th at the Klaster Innowacji Społeczno-Gospodarczych Zabłocie 20.22. Experience insightful lectures on the latest developments in the DevOps field and network with like-minded individuals.
+      Join us for the 5th edition of DevOpsDays Kraków, a renowned conference, in Kraków on March 18th-19th at Metropolo Krakow. Experience insightful lectures on the latest developments in the DevOps field and network with like-minded individuals.
     </p>
     <p style="font-weight: 800">What is DevOpsDays Kraków?</p>
     <p>
@@ -50,7 +50,7 @@ Description = "devopsdays Kraków 2024"
   </div>
   <div class="text">
     <a href="https://eventory.cc/event/devopsdays-krakow-2024" type="button" class="btn btn-danger btn-lg btn-block">REGISTRATION</a>
-    <a href="https://dodkrakow.pl/call-for-papers-2024/" type="button" class="btn btn-danger btn-lg btn-block">CALL FOR PROPOSALS</a>
+    <a href="https://dodkrakow.pl/#schedule" type="button" class="btn btn-danger btn-lg btn-block">SCHEDULE</a>
     <a href="mailto:krakow@devopsdays.org " type="button" class="btn btn-danger btn-lg btn-block">SPONSOR</a>
     <a href="/events/2024-krakow/contact" type="button" class="btn btn-danger btn-lg btn-block">CONTACT</a>
   </div>

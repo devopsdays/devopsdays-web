@@ -173,7 +173,7 @@ sponsors:
     level: silver
   - id: bit
     level: silver
-  - id: vshn
+  - id: vshn-before-20240317
     level: silver
   - id: snyk
     level: gold
