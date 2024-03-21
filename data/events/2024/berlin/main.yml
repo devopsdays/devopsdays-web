@@ -106,6 +106,8 @@ sponsors:
     level: platinum
   - id: jfrog
     level: platinum
+  - id: tigera
+    level: platinum
   - id: kubeevents
     level: partner
   - id: stickermule
