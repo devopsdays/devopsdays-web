@@ -108,6 +108,9 @@ sponsors:
     level: platinum
   - id: kubeevents
     level: partner
+  - id: stickermule
+    level: partner
+    url: https://mule.to/p68i
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
