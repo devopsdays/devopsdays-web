@@ -1,14 +1,14 @@
-name: "2024-chicago" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
-year: "2024" # The year of the event. Make sure it is in quotes.
+name: "2025-chicago" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2025" # The year of the event. Make sure it is in quotes.
 city: "Chicago" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdayschi" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "Devopsdays is coming to Chicago!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
-# All dates are in unquoted 2024-MM-DDTHH:MM:SS+TZ:TZ, like this:
+# All dates are in unquoted 2025-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00
 #   variable: 2019-01-05T23:59:59+02:00
-# Note: we allow 2024-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+# Note: we allow 2025-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
 startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
 enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
