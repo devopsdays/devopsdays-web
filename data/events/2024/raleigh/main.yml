@@ -356,8 +356,8 @@ program:
     date: 2024-04-11
     start_time: "11:40"
     end_time: "12:10"
-  - title: "Meet Guiding Eyes for the Blind Service Dogs in Training (Room 3)"
-    type: custom
+  - title: "guiding-eyes-for-the-blind-workshop"
+    type: workshop
     date: 2024-04-11
     start_time: "09:15"
     end_time: "11:40"
