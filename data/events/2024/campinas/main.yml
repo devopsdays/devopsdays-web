@@ -3,7 +3,7 @@ year: "2024" # The year of the event. Make sure it is in quotes.
 city: "Campinas" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdayscps" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "DevOpsDays está voltando a Campinas!" # Edit this to suit your preferences
-# masthead_background: "background.jpg"
+masthead_background: "background.jpg"
 ga_tracking_id: "G-3X9XBDMGXM" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2024-MM-DDTHH:MM:SS+TZ:TZ, like this:
