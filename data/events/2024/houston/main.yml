@@ -20,11 +20,11 @@ cfp_date_announce: 2024-04-15T00:00:00-06:00 # inform proposers of status
 
 cfp_link: "https://talks.devopsdays.org/devopsdays-houston-2024/cfp" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: 2024-03-15T23:59:59-06:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2024-06-05T00:00:00-06:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
-registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_closed: false #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://tickets.devopsdays.org/devopsdays-houston/2024/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 masthead_background: "background.png"
 
@@ -40,7 +40,7 @@ location_address: "816 Town and Country Blvd #210, Houston, TX 77024" #Optional 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
   - name: location
- # - name: registration
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -75,11 +75,6 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/julia-ito-9983721/"
     image: "julia-ito.jpg"
     bio: "Julia is a Product Manager and technology passionate, who loves delivering solutions that matter faster and better."
-  - name: "Alex Zhanov"
-    employer: "Two Sigma Solutions"
-    linkedin: "https://www.linkedin.com/in/alex-zhanov/"
-    bio: "Alex Zhanov is an experienced technologist with over 25 years in the industry. He has been a software engineer, team lead and an architect, building distributed system solutions in the energy and financial sectors. For all this time he has been a resident of Houston, TX. "
-    image: "alex-zhanov.jpg"
   - name: "Mark Baumstein"
     employer: "Petroleum Geo-Services"
     linkedin: "https://www.linkedin.com/in/markbaumstein/"
@@ -110,6 +105,8 @@ sponsors:
     level: community
   - id: kubecareers
     level: community
+  - id: hashicorp
+    level: platinum
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

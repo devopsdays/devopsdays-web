@@ -40,7 +40,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: propose
   - name: location
   - name: registration
- # - name: program
+  - name: program
   - name: speakers
   - name: sponsor
   - name: contact
@@ -184,3 +184,244 @@ sponsor_levels:
     max: 5
   - id: community
     label: Community
+
+program:
+# 2024-05-27
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2024-05-27
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2024-05-27
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "robin-yeman"
+    type: talk
+    date: 2024-05-27
+    start_time: "09:15"
+    end_time: "09:45"
+    background_color: "#bfe3b4" #keynote
+  - title: "Sponsors"
+    type: custom
+    date: 2024-05-27
+    start_time: "09:45"
+    end_time: "09:50"
+  - title: "timothy-mamo"
+    type: talk
+    date: 2024-05-27
+    start_time: "09:50"
+    end_time: "10:15"
+  - title: "Coffee Break"
+    type: custom
+    date: 2024-05-27
+    start_time: "10:15"
+    end_time: "10:35"
+  - title: "ayesha-bhutto"
+    type: talk
+    date: 2024-05-27
+    start_time: "10:35"
+    end_time: "11:00"
+  - title: "alexis-de-talhout"
+    type: talk
+    date: 2024-05-27
+    start_time: "11:00"
+    end_time: "11:25"
+  - title: "Break/Sponsors"
+    type: custom
+    date: 2024-05-27
+    start_time: "11:25"
+    end_time: "11:40"
+  - title: "kat-gaines"
+    type: talk
+    date: 2024-05-27
+    start_time: "11:40"
+    end_time: "12:05"
+  - title: "Lunch"
+    type: custom
+    date: 2024-05-27
+    start_time: "12:05"
+    end_time: "13:00"
+  - title: "alexandre-walsh"
+    type: talk
+    date: 2024-05-27
+    start_time: "13:00"
+    end_time: "13:25"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2024-05-27
+    start_time: "13:25"
+    end_time: "13:50"
+  - title: "Break"
+    type: custom
+    date: 2024-05-27
+    start_time: "13:50"
+    end_time: "14:05"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2024-05-27
+    start_time: "14:05"
+    end_time: "14:50"
+  - title: "marian-marinov"
+    type: workshop
+    date: 2024-05-27
+    start_time: "14:05"
+    end_time: "16:05"
+  - title: "rebai-hamida"
+    type: workshop
+    date: 2024-05-27
+    start_time: "14:05"
+    end_time: "15:05"
+  - title: "john-poulin"
+    type: workshop
+    date: 2024-05-27
+    start_time: "15:05"
+    end_time: "16:05"   
+  - title: "Open Space #2"
+    type: open-space
+    date: 2024-05-27
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2024-05-27
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Close Day"
+    type: custom
+    date: 2024-05-27
+    start_time: "16:45"
+    end_time: "17:00"
+  - title: "Evening event"
+    type: custom
+    date: 2024-05-27
+    start_time: "19:00"
+    end_time: "late"
+
+# 2024-05-28
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2024-05-28
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2024-05-28
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "josh-reed"
+    type: talk
+    date: 2024-05-28
+    start_time: "09:15"
+    end_time: "09:45"
+    background_color: "#bfe3b4" #keynote
+  - title: "Sponsors"
+    type: custom
+    date: 2024-05-28
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "seth-eliot"
+    type: talk
+    date: 2024-05-28
+    start_time: "09:55"
+    end_time: "10:20"
+  - title: "Coffee Break"
+    type: custom
+    date: 2024-05-28
+    start_time: "10:20"
+    end_time: "10:30"
+  - title: "yishai-beeri"
+    type: talk
+    date: 2024-05-28
+    start_time: "10:30"
+    end_time: "10:55"
+  - title: "leon-adato2"
+    type: talk
+    date: 2024-05-28
+    start_time: "10:55"
+    end_time: "11:20"
+  - title: "Break/Sponsors"
+    type: custom
+    date: 2024-05-28
+    start_time: "11:20"
+    end_time: "11:30"
+  - title: "adriana-villela"
+    type: talk
+    date: 2024-05-28
+    start_time: "11:30"
+    end_time: "11:55"
+  - title: "Lunch"
+    type: custom
+    date: 2024-05-28
+    start_time: "11:55"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2024-05-28
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "sasha-rosenbaum"
+    type: talk
+    date: 2024-05-28
+    start_time: "13:30"
+    end_time: "13:55"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2024-05-28
+    start_time: "13:55"
+    end_time: "14:25"
+  - title: "Break"
+    type: custom
+    date: 2024-05-28
+    start_time: "14:25"
+    end_time: "14:35"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2024-05-28
+    start_time: "14:35"
+    end_time: "15:15"
+  - title: "calin-lupas"
+    type: workshop
+    date: 2024-05-28
+    start_time: "14:30"
+    end_time: "16:30"
+  - title: "ray-kim"
+    type: workshop
+    date: 2024-05-28
+    start_time: "14:30"
+    end_time: "15:30"
+  - title: "marino-wijay"
+    type: workshop
+    date: 2024-05-28
+    start_time: "15:30"
+    end_time: "16:30"   
+  - title: "Open Space #2"
+    type: open-space
+    date: 2024-05-28
+    start_time: "15:15"
+    end_time: "16:00"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2024-05-28
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Closing"
+    type: custom
+    date: 2024-05-28
+    start_time: "16:45"
+    end_time: "17:00"
+
+ignites:
+  - title: "leon-adato"
+    date: 2024-05-28
+  - title: "joyce-lin"
+    date: 2024-05-28
+  - title: "jessica-david"
+    date: 2024-05-28    
+  - title: "blair-drummond"
+    date: 2024-05-28
+  - title: "alexandrexavier-labontlamoureux"
+    date: 2024-05-28
+  - title: "anthony-dahanne"
+    date: 2024-05-28
