@@ -118,6 +118,8 @@ organizer_email: "amsterdam@devopsdays.org" # Put your organizer email address h
 sponsors:
   # Platinum
   # Beer
+  - id: chef
+    level: beer
   # Coffee
   - id: greater-bv
     level: coffee
@@ -168,7 +170,7 @@ sponsor_levels:
     label: Platinum
     max: 1
   - id: beer
-    label: Beer
+    label: Beverage
     max: 1
   - id: coffee
     label: Coffee
