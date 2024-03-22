@@ -110,6 +110,8 @@ sponsors:
     level: community
   - id: observeinc
     level: gold
+  - id: cloudbees
+    level: gold
   - id: jit
     level: happyhour
   - id: zohosprints
