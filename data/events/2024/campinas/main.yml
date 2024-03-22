@@ -101,6 +101,16 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/flaap/?originalSubdomain=br"
     website: "https://campsite.bio/pimenta/"
 
+  - name: "Renne Rocha"
+    role: "Senior Python Engineer"
+    mastodon: "https://chaos.social/@rennerocha"
+    bio: "Renne Rocha é desenvolvedor Python, graduado em Engenharia Elétrica com mais de 10 anos de experiência em desenvolvimento. Ativo na comunidade Python brasileira organizando e apresentando palestras em diversas conferências no mundo todo. Co-fundador do Laboratório Hacker de Campinas, um dos primeiros hackerspaces do Brasil. Nas horas vagas, é aprendiz de marceneiro e cervejeiro caseiro."
+    image: "renne.png"
+    email: "renne@rocha.dev.br"
+    github: "https://github.com/rennerocha"
+    linkedin: "https://www.linkedin.com/in/rennerocha/"
+    website: "https://rennerocha.com/"
+
 organizer_email: "campinas@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
