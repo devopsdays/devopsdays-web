@@ -110,6 +110,8 @@ sponsors:
     level: community
   - id: observeinc
     level: gold
+  - id: cloudbees
+    level: gold
   - id: jit
     level: happyhour
   - id: zohosprints
@@ -118,11 +120,15 @@ sponsors:
     level: gold
   - id: siglens
     level: gold
+  - id: groundcover
+    level: gold
   - id: allthingsopen2024
     level: community
   - id: learnk8s
     level: community
   - id: cyclelabs
+    level: community
+  - id: guiding-eyes-for-the-blind
     level: community
   - id: nadog
     level: community
@@ -352,6 +358,11 @@ program:
     date: 2024-04-11
     start_time: "11:40"
     end_time: "12:10"
+  - title: "guiding-eyes-for-the-blind-workshop"
+    type: workshop
+    date: 2024-04-11
+    start_time: "09:15"
+    end_time: "11:40"
   - title: "Lunch"
     type: custom
     date: 2024-04-11
@@ -418,7 +429,7 @@ ignites:
     date: 2024-04-10
   - title: "ken-robinson-ignite"
     date: 2024-04-10
-  - title: "sheng-sheen-ignite"
+  - title: "karen-hsu-ignite"
     date: 2024-04-10
   - title: "james-ilse-ignite"
     date: 2024-04-10

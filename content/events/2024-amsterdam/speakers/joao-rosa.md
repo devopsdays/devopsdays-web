@@ -1,5 +1,5 @@
 +++
-Title = "Joao Rosa"
+Title = "João Rosa"
 Linkedin = ""
 Website = ""
 Twitter = "joaoasrosa"

@@ -4,6 +4,8 @@ Type = "event"
 Description = "Sponsor DevOpsDays Washington, D.C. 2024"
 +++
 
+**For more information, please view our [sponsor prospectus](http://bit.ly/doddc24-sponsor).**
+
 DevOpsDays is a volunteer-organized conference for DevOps practitioners that depends on your sponsorships. We value sponsor/attendee interaction, so we:
 
 * introduce all sponsors to attendees from the main stage,

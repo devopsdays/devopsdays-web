@@ -1,0 +1,141 @@
+name: "2024-campinas" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2024" # The year of the event. Make sure it is in quotes.
+city: "Campinas" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdayscps" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "DevOpsDays está voltando a Campinas!" # Edit this to suit your preferences
+masthead_background: "background.jpg"
+ga_tracking_id: "G-3X9XBDMGXM" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2024-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2024-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start:  # start accepting talk proposals.
+cfp_date_end:  # close your call for proposals.
+cfp_date_announce:  # inform proposers of status
+
+cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+# coordinates: "" # No longer used
+
+location: "Campinas" # Defaults to city, but you can make it the venue name.
+#
+location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+ # - name: propose
+ # - name: location
+ # - name: registration
+ # - name: program
+ # - name: speakers
+
+  - name: patrocínio
+    icon: "money"
+    url: /events/2024-campinas/sponsor
+
+  - name: contato
+    icon: "envelope-o"
+    url: /events/2024-campinas/contact
+
+  - name: código de conduta
+    icon: "handshake-o"
+    url: /events/2024-campinas/conduct-pt-br
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Giovana do Nascimento Pena"
+    employer: "IBM"
+    twitter: "GiovanaNp1"
+    bio: "Application Developer Fullstack na IBM, Formada de Analise e Desenvolvimento de Sistemas na Universidade UNASP e Pós-graduanda em DevOps pela PUC Minas, Certificada em Developer Profession - Level 2 Experienced e IBM Cloud. Participante do instituto meninas negras, uma das lideres do TLC a comunidade técnica interna da IBM e Líder da comunidade Elastic São Paulo. Além de organizadora do DevOpsDays São Paulo e Campinas"
+    image: "giovana.png"
+    email: "giovana.np1@gmail.com"
+    pronouns: "ela/dela"
+    role: "Fullstack Developer"
+    github: "https://github.com/GiovanaNp1"
+    linkedin: "https://www.linkedin.com/in/giovana-do-nascimento/"
+    website: "https://giovana-nascimento.netlify.app/"
+
+  - name: "Daniele Pishinin"
+    employer: "Conta Simples"
+    twitter: "danipishinin"
+    bio: "Desenvolvedora mobile, mentora na Reprograma, Embaixadora na Google Women Techmakers, faixa amarela no Krav Maga e iniciante no mundo de trekking e academia."
+    pronouns: "ela/dela"
+    role: "Software Engineer"
+    image: "dani.png"
+    linkedin: "https://www.linkedin.com/in/danipishinin/"
+
+  - name: "Raphael Borges"
+    role: "DevOps Engineer"
+    twitter: "RaphaNBorges"
+    bio: "Criador e mantenedor do projeto OKE-FREE: Uma maneira fácil de garantir seu próprio cluster Kubernetes gratuitamente e para sempre na Oracle Cloud Infrastructure (OCI) utilizando OpenTofu. Expert em Container e Kubernetes pelo Programa Intensivo em Containers e Kubernetes (PICK) da Linuxtips. Coautor do livro 'Descomplicando Kubernetes'."
+    image: "raphael.jpg"
+    email: "raphael@r11s.com.br"
+    github: "https://github.com/Rapha-Borges"
+    linkedin: "https://www.linkedin.com/in/raphael-do-nascimento-borges/"
+    website: "https://r11s.com.br/"
+
+  - name: "Flavio Pimenta"
+    role: "Software Engineer"
+    twitter: "pimentaflavio"
+    bio: "Arquiteto de Soluções focado em traduzir necessidades de negócio em soluções técnicas robustas e com alta qualidade de ponta a ponta.."
+    image: "pimenta.jpeg"
+    email: "flaviopimenta@gmail.com"
+    github: "https://github.com/flap"
+    linkedin: "https://www.linkedin.com/in/flaap/?originalSubdomain=br"
+    website: "https://campsite.bio/pimenta/"
+
+  - name: "Renne Rocha"
+    role: "Senior Python Engineer"
+    mastodon: "https://chaos.social/@rennerocha"
+    bio: "Renne Rocha é desenvolvedor Python, graduado em Engenharia Elétrica com mais de 10 anos de experiência em desenvolvimento. Ativo na comunidade Python brasileira organizando e apresentando palestras em diversas conferências no mundo todo. Co-fundador do Laboratório Hacker de Campinas, um dos primeiros hackerspaces do Brasil. Nas horas vagas, é aprendiz de marceneiro e cervejeiro caseiro."
+    image: "renne.png"
+    email: "renne@rocha.dev.br"
+    github: "https://github.com/rennerocha"
+    linkedin: "https://www.linkedin.com/in/rennerocha/"
+    website: "https://rennerocha.com/"
+
+organizer_email: "campinas@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+#   - id: samplesponsorname
+#     level: gold
+#  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+#   - id: arresteddevops
+#     level: community
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: gold
+    label: Gold
+#    max: 10
+  - id: silver
+    label: Silver
+    max: 0 # This is the same as omitting the max limit.
+  - id: bronze
+    label: Bronze
+  - id: community
+    label: Community

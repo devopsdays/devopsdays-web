@@ -10,8 +10,8 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2024-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: 2024-04-17T08:00:00-17:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2024-04-18T08:00:00-17:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2024-08-19T08:00:00-17:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2024-08-21T08:00:00-17:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2023-07-20T00:00:00-05:00 # start accepting talk proposals.
@@ -21,7 +21,7 @@ cfp_date_announce: 2024-01-30T00:00:00-06:00 # inform proposers of status
 cfp_link: "https://talks.devopsdays.org/devopsdays-birmingham-al-2024/cfp" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2023-07-20T00:00:00-05:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: 2024-04-18T10:00:00-05:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_end: 2024-08-21T10:00:00-05:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://tickets.devopsdays.org/devopsdays-birmingham-al/2024/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -37,7 +37,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: propose
   - name: location
   - name: registration
- # - name: program
+  - name: program
  # - name: speakers
   - name: sponsor
   - name: contact
@@ -91,6 +91,8 @@ sponsors:
     level: bronze
   - id: lynker
     level: bronze
+  - id: portworx
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -99,13 +101,206 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: host
+    label: Host
+    max: 2
   - id: gold
     label: Gold
-#    max: 10
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
   - id: community
     label: Community
+
+program:
+ #workshop day
+  - title: "Kick off of Workshops at Innovation Depot"
+    type: custom
+    date: 2024-08-19T00:00:00-05:00
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "Lunch Break"
+    type: custom
+    date: 2024-08-19T00:00:00-05:00
+    start_time: "11:30"
+    end_time: "12:30"
+  - title: "Workshop Closeout"
+    type: custom
+    date: 2024-08-19T00:00:00-05:00
+    start_time: "16:00"
+    end_time: "16:10"
+
+  - title: "Registration, Breakfast, Visit Sponsors"
+    type: custom
+    date: 2024-08-20T00:00:00-05:00
+    start_time: "08:00"
+    end_time: "08:45"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2024-08-20T00:00:00-05:00
+    start_time: "08:45"
+    end_time: "09:00"
+  - title: "From our Sponsors"
+    type: custom
+    date: 2024-08-20T00:00:00-05:00
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "Keynote"
+    type: custom
+    date: 2024-08-20T00:00:00-05:00
+    start_time: "09:10"
+    end_time: "09:55"
+    background_color: "#d5c5ef"
+  - title: "Break - Visit Sponsors"
+    type: custom
+    date: 2024-08-20T00:00:00-05:00
+    start_time: "10:00"
+    end_time: "10:20"
+  - title: "Talk 1"
+    type: custom
+    date: 2024-08-20T00:00:00-05:00
+    start_time: "10:20"
+    end_time: "10:50"
+  - title: "Talk 2"
+    type: custom
+    date: 2024-08-20T00:00:00-05:00
+    start_time: "10:50"
+    end_time: "11:20"
+  - title: "Talk 3"
+    type: custom
+    date: 2024-08-20T00:00:00-05:00
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Lunch - Education Lobby"
+    type: custom
+    date: 2024-08-20T00:00:00-05:00
+    start_time: "11:50"
+    end_time: "13:00"
+  - title: "Ignite Talks"
+    type: custom
+    date: 2024-08-20T00:00:00-05:00
+    start_time: "13:00"
+    end_time: "13:25"
+  - title: "Talk 4"
+    type: custom
+    date: 2024-08-20T00:00:00-05:00
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Talk 5"
+    type: custom
+    date: 2024-08-20T00:00:00-05:00
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: "Break - Visit Sponsors - Bars Open 🍻"
+    type: custom
+    date: 2024-08-20T00:00:00-05:00
+    start_time: "14:30"
+    end_time: "15:00"
+  - title: "Open Spaces #1"
+    type: "open-space"
+    date: 2024-08-20T00:00:00-05:00
+    start_time: "15:00"
+    end_time: "15:30"
+  - title: "Open Spaces #2"
+    type: "open-space"
+    date: 2024-08-20T00:00:00-05:00
+    start_time: "15:30"
+    end_time: "16:00"
+  - title: "Break - Visit Sponsors"
+    type: custom
+    date: 2024-08-20T00:00:00-05:00
+    start_time: "16:00"
+    end_time: "16:30"
+  - title: "Open Spaces #3"
+    type: "open-space"
+    date: 2024-08-20T00:00:00-05:00
+    start_time: "16:30"
+    end_time: "17:00"
+  - title: "Open Spaces #4"
+    type: "open-space"
+    date: 2024-08-20T00:00:00-05:00
+    start_time: "17:00"
+    end_time: "17:30"
+  - title: "Mingling / Sponsor Socializing / Drinking"
+    type: custom
+    date: 2024-08-20T00:00:00-05:00
+    start_time: "17:30"
+    end_time: "18:00"
+
+  - title: "Registration, Breakfast, Visit Sponsors"
+    type: custom
+    date: 2024-08-21T00:00:00-05:00
+    start_time: "08:00"
+    end_time: "08:40"
+  - title: "Day 2 Opening"
+    type: custom
+    date: 2024-08-21T00:00:00-05:00
+    start_time: "08:45"
+    end_time: "09:00"
+  - title: "Keynote"
+    type: custom
+    date: 2024-08-21T00:00:00-05:00
+    start_time: "09:00"
+    end_time: "09:45"
+    background_color: "#d5c5ef"
+  - title: "Break - Visit Sponsors"
+    type: custom
+    date: 2024-08-21T00:00:00-05:00
+    start_time: "10:00"
+    end_time: "10:20"
+  - title: "Talk 6"
+    type: custom
+    date: 2024-08-21T00:00:00-05:00
+    start_time: "10:20"
+    end_time: "10:50"
+  - title: "Talk 7"
+    type: custom
+    date: 2024-08-21T00:00:00-05:00
+    start_time: "10:50"
+    end_time: "11:20"
+  - title: "Talk 8"
+    type: custom
+    date: 2024-08-21T00:00:00-05:00
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Lunch - Education Lobby"
+    type: custom
+    date: 2024-08-21T00:00:00-05:00
+    start_time: "11:50"
+    end_time: "13:00"
+  - title: "Ignite Takls"
+    type: custom
+    date: 2024-08-21T00:00:00-05:00
+    start_time: "13:00"
+    end_time: "13:20"
+  - title: "Talk 9"
+    type: custom
+    date: 2024-08-21T00:00:00-05:00
+    start_time: "13:20"
+    end_time: "13:50"
+  - title: "Main Stage Closing Remarks"
+    type: custom
+    date: 2024-08-21T00:00:00-05:00
+    start_time: "14:00"
+    end_time: "14:45"
+  - title: "Break - Visit Sponsors - Bars Open 🍻"
+    type: custom
+    date: 2024-08-21T00:00:00-05:00
+    start_time: "14:45"
+    end_time: "15:00"
+  - title: "Open Spaces #1"
+    type: "open-space"
+    date: 2024-08-21T00:00:00-05:00
+    start_time: "15:00"
+    end_time: "15:30"
+  - title: "Open Spaces #2"
+    type: "open-space"
+    date: 2024-08-21T00:00:00-05:00
+    start_time: "15:30"
+    end_time: "16:00"
+  - title: "Mixing and Socializing"
+    type: custom
+    date: 2024-08-21T00:00:00-05:00
+    start_time: "16:00"
+    end_time: "17:30"

@@ -1,9 +1,9 @@
 +++
 City = "Singapore"
 Year = "2024"
-talk_date = "2024-03-21"
-talk_start_time = "15:00"
-talk_end_time = "15:05"
+talk_date = "2024-03-22"
+talk_start_time = "14:30"
+talk_end_time = "14:35"
 Title = "Code Strong, Hack-Proof: Elevate DevOps Journey with API Security, Containers, and Traffic!"
 Type = "talk"
 Speakers = ["minh-nguyen"]

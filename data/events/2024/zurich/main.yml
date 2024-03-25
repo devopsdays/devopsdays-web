@@ -134,7 +134,7 @@ organizer_email: "zurich@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-- id: kanbanize
+- id: businessmap
   level: community
 - id: zhlke
   level: event
@@ -162,7 +162,7 @@ sponsors:
   level: event
 - id: zkb
   level: gold
-- id: axians
+- id: amanox
   level: bronze
 - id: vshn
   level: gold
@@ -272,37 +272,37 @@ program:
 - title: Open Space Voting
   type: custom
   date: 2024-04-16
-  start_time: '14:30'
-  end_time: '15:00'
+  start_time: '14:35'
+  end_time: '15:15'
 
 - title: "Open Space"
   type: open-space
   date: 2024-04-16
-  start_time: '15:00'
+  start_time: '15:15'
   end_time: '17:15'
 
 - title: larry-maccherone
   type: workshop
   date: 2024-04-16
-  start_time: '15:00'
+  start_time: '15:15'
   end_time: '17:15'
 
 - title: laurence-kozera
   type: workshop
   date: 2024-04-16
-  start_time: '15:00'
+  start_time: '15:15'
   end_time: '17:15'
 
 - title: adam-genshaft
   type: workshop
   date: 2024-04-16
-  start_time: '15:00'
+  start_time: '15:15'
   end_time: '17:15'
 
 - title: Closing Day 1
   type: custom
   date: 2024-04-16
-  start_time: '17:15'
+  start_time: '17:20'
   end_time: '17:30'
 
 - title: Evening Event
@@ -381,37 +381,37 @@ program:
 - title: Open Space Voting
   type: custom
   date: 2024-04-17
-  start_time: '14:45'
-  end_time: '15:00'
+  start_time: '14:50'
+  end_time: '15:15'
 
 - title: "Open Space"
   type: open-space
   date: 2024-04-17
-  start_time: '15:00'
+  start_time: '15:15'
   end_time: '17:15'
 
 - title: bogdan-doroslovac
   type: workshop
   date: 2024-04-17
-  start_time: '15:00'
+  start_time: '15:15'
   end_time: '17:15'
 
 - title: rabieh-fashwall
   type: workshop
   date: 2024-04-17
-  start_time: '15:00'
+  start_time: '15:15'
   end_time: '17:15'
 
 - title: daniel-bodky
   type: workshop
   date: 2024-04-17
-  start_time: '15:00'
+  start_time: '15:15'
   end_time: '17:15'
 
 - title: Raffle & Closing Day 2
   type: custom
   date: 2024-04-17
-  start_time: '17:15'
+  start_time: '17:20'
   end_time: '17:30'
 
 ignites:
