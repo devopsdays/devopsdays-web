@@ -50,7 +50,7 @@ team_members: # Name is the only required field for team members.
   - name: "Peter Shannon"
     employer: "Instacart"
     role: "Lead Organizer"
-    twitter: "peterjshan"
+    linkedin: "http://linkedin.com/in/peterjshan"
   - name: "Sarah Gray"
     employer: "Comcast"
   - name: "Hilary Muludiang"
