@@ -102,9 +102,9 @@ sponsors:
     level: gold
   - id: thales
     level: gold
-  - id: redhat
-    level: gold
   - id: elastic
+    level: gold
+  - id: redhat
     level: gold
   - id: cloudopslab
     level: silver    
@@ -144,39 +144,39 @@ sponsor_levels:
     label: Travel
 
 program:
-  - title: "Registration, Breakfast, Sponsors"
+  - title: "Registration, Welcome, Sponsors"
     type: custom
     date: 2024-03-21
     start_time: "08:00"
     end_time: "09:00"
+    background_color: "#ffcccb"
   - title: "Opening Welcome"
     type: custom
     date: 2024-03-21
     start_time: "09:00"
     end_time: "09:15"
-    background_color: "#D0D0D0"
   - title: "scott-shaw"
     type: talk
     date: 2024-03-21
     start_time: "09:15"
     end_time: "09:55"
     background_color: "#B4C6E7"
-  - title: "Sponsors"
-    type: custom
-    date: 2024-03-21
-    start_time: "09:55"
-    end_time: "10:00"
-    background_color: "#D0D0D0"
   - title: "lawrence-crowther"
     type: talk
     date: 2024-03-21
-    start_time: "10:00"
+    start_time: "9:55"
+    end_time: "10:25"
+  - title: "Sponsors"
+    type: custom
+    date: 2024-03-21
+    start_time: "10:25"
     end_time: "10:30"
-  - title: "Break, Visit Sponsor Booth"
+  - title: "Tea Break, Visit Sponsor Booth"
     type: custom
     date: 2024-03-21
     start_time: "10:30"
     end_time: "11:00"
+    background_color: "#C6E0B4"   
   - title: "donnie-prakoso"
     type: talk
     date: 2024-03-21
@@ -192,63 +192,59 @@ program:
     date: 2024-03-21
     start_time: "12:10"
     end_time: "13:00"
-  - title: "danial-hui"
-    type: talk
-    date: 2024-03-21
-    start_time: "13:00"
-    end_time: "13:30"
-  - title: "Sponsors"
-    type: custom
-    date: 2024-03-21
-    start_time: "13:30"
-    end_time: "13:35"
-    background_color: "#D0D0D0"
+    background_color: "#C6E0B4"
   - title: "Panel Discussion"
     type: custom
     date: 2024-03-21
-    start_time: "13:35"
-    end_time: "14:15"
-    background_color: "#D0D0D0"    
-  - title: "Break, Visit Sponsor Booth"
-    type: custom
+    start_time: "13:00"
+    end_time: "13:30"   
+  - title: "danial-hui"
+    type: talk
     date: 2024-03-21
-    start_time: "14:15"
-    end_time: "14:45"
+    start_time: "13:30"
+    end_time: "14:00"
   - title: "Ignites"
     type: ignite
     date: 2024-03-21
-    start_time: "14:45"
-    end_time: "15:30"
+    start_time: "14:00"
+    end_time: "14:35"
+  - title: "Tea Break, Visit Sponsor Booth"
+    type: custom
+    date: 2024-03-21
+    start_time: "14:35"
+    end_time: "15:10"
+    background_color: "#C6E0B4"  
   - title: "Open Space (Attendee Led Breakout Session) Break"
     type: custom
     date: 2024-03-21
-    start_time: "15:30"
-    end_time: "15:40"
+    start_time: "15:10"
+    end_time: "15:20"
   - title: "Open Space (Attendee Led Breakout Session) #1"
     type: open-space
     date: 2024-03-21
-    start_time: "15:40"
-    end_time: "16:20"
-  - title: "Open Space (Attendee Led Breakout Session) Break"
+    start_time: "15:20"
+    end_time: "16:10"
+  - title: "Open Space Break, Visit Sponsors Demo"
     type: custom
     date: 2024-03-21
-    start_time: "16:20"
-    end_time: "16:30"
+    start_time: "16:10"
+    end_time: "16:20"
   - title: "Open Space (Attendee Led Breakout Session) #2"
     type: open-space
     date: 2024-03-21
-    start_time: "16:30"
-    end_time: "17:15"
+    start_time: "16:20"
+    end_time: "17:10"
   - title: "Closing"
     type: custom
     date: 2024-03-21
-    start_time: "17:15"
+    start_time: "17:10"
     end_time: "17:25"
+    background_color: "#ffcccb"
   - title: "Happy Hour"
     type: custom
     date: 2024-03-21
-    start_time: "17:25"
-    end_time: "19:30"
+    start_time: "17:40"
+    end_time: "20:00"
     background_color: "#C6E0B4"
 
   - title: "Registration, Breakfast, Sponsors"
@@ -256,6 +252,7 @@ program:
     date: 2024-03-22
     start_time: "08:00"
     end_time: "09:00"
+    background_color: "#ffcccb"   
   - title: "Opening Welcome"
     type: custom
     date: 2024-03-22
@@ -267,21 +264,22 @@ program:
     start_time: "09:15"
     end_time: "09:55"
     background_color: "#B4C6E7"
-  - title: "Sponsors"
-    type: custom
-    date: 2024-03-22
-    start_time: "09:55"
-    end_time: "10:00"
   - title: "heather"
     type: talk
     date: 2024-03-22
-    start_time: "10:00"
+    start_time: "9:55"
+    end_time: "10:25"
+  - title: "Sponsors"
+    type: custom
+    date: 2024-03-22
+    start_time: "10:25"
     end_time: "10:30"
-  - title: "Break, Visit Sponsor Booth"
+  - title: "Tea Break, Visit Sponsor Booth"
     type: custom
     date: 2024-03-22
     start_time: "10:30"
     end_time: "11:00"
+    background_color: "#C6E0B4"   
   - title: "kunal-dabir"
     type: talk
     date: 2024-03-22
@@ -297,58 +295,54 @@ program:
     date: 2024-03-22
     start_time: "12:10"
     end_time: "13:00"
-  - title: "ahmad-syafiq"
-    type: talk
-    date: 2024-03-22
-    start_time: "13:00"
-    end_time: "13:30"
-  - title: "Sponsors"
-    type: custom
-    date: 2024-03-22
-    start_time: "13:30"
-    end_time: "13:35"
-    background_color: "#D0D0D0"
+    background_color: "#C6E0B4"
   - title: "Panel Discussion"
     type: custom
     date: 2024-03-22
-    start_time: "13:35"
-    end_time: "14:15"
-    background_color: "#D0D0D0"
-  - title: "Break, Visit Sponsor Booth"
-    type: custom
+    start_time: "13:00"
+    end_time: "13:30"   
+  - title: "ahmad-syafiq"
+    type: talk
     date: 2024-03-22
-    start_time: "14:15"
-    end_time: "14:45"
+    start_time: "13:30"
+    end_time: "14:00"
   - title: "Ignites"
     type: ignite
     date: 2024-03-22
-    start_time: "14:45"
-    end_time: "15:30"
+    start_time: "14:00"
+    end_time: "14:40"
+  - title: "Tea Break, Visit Sponsor Booth"
+    type: custom
+    date: 2024-03-22
+    start_time: "14:35"
+    end_time: "15:10"
+    background_color: "#C6E0B4"  
   - title: "Open Space (Attendee Led Breakout Session) Break"
     type: custom
     date: 2024-03-22
-    start_time: "15:30"
-    end_time: "15:40"
-  - title: "Open Space (Attendee Led Breakout Session) #3"
+    start_time: "15:10"
+    end_time: "15:20"
+  - title: "Open Space (Attendee Led Breakout Session) #1"
     type: open-space
     date: 2024-03-22
-    start_time: "15:40"
-    end_time: "16:20"
-  - title: "Open Space (Attendee Led Breakout Session) Break"
+    start_time: "15:20"
+    end_time: "16:10"
+  - title: "Open Space Break, Visit Sponsors Demo"
     type: custom
+    date: 2024-03-22
+    start_time: "16:10"
+    end_time: "16:20"
+  - title: "Open Space (Attendee Led Breakout Session) #2"
+    type: open-space
     date: 2024-03-22
     start_time: "16:20"
-    end_time: "16:30"
-  - title: "Open Space (Attendee Led Breakout Session) #4"
-    type: open-space
-    date: 2024-03-22
-    start_time: "16:30"
-    end_time: "17:15"
+    end_time: "17:10"
   - title: "Afternoon Raffle & Closing"
     type: custom
     date: 2024-03-22
-    start_time: "17:15"
+    start_time: "17:10"
     end_time: "17:25"
+    background_color: "#ffcccb"
 
 ignites:
   - title: "heather-thacker"
@@ -357,16 +351,12 @@ ignites:
     date: 2024-03-21
   - title: "michel-schildmeijer"
     date: 2024-03-21  
-  - title: "minh-nguyen"
-    date: 2024-03-21
   - title: "ronak-banka"
     date: 2024-03-21
   - title: "jeff-salleh"
     date: 2024-03-21
   - title: "salma-shaik"
     date: 2024-03-21
-  - title: "aniket-rao"
-    date: 2024-03-21  
 
   - title: "pas-apicella"
     date: 2024-03-22
@@ -380,7 +370,5 @@ ignites:
     date: 2024-03-22
   - title: "stefan-streichsbier"  
     date: 2024-03-22
-  - title: "sunil-mavadia"
-    date: 2024-03-22
-  - title: "keith-strini"
+  - title: "minh-nguyen"
     date: 2024-03-22

@@ -34,7 +34,7 @@ location_address: "315 Chestnut St, Philadelphia, PA 19106"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: program
- # - name: speakers
+  - name: speakers
   - name: registration
  # - name: propose
   - name: sponsor
@@ -77,6 +77,8 @@ sponsors:
   - id: appdynamics
     level: silver
   - id: portworx
+    level: silver
+  - id: redgate
     level: silver
   - id: observeinc
     level: gold

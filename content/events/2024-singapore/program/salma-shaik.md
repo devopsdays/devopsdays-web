@@ -2,8 +2,8 @@
 City = "Singapore"
 Year = "2024"
 talk_date = "2024-03-21"
-talk_start_time = "15:15"
-talk_end_time = "15:20"
+talk_start_time = "14:25"
+talk_end_time = "14:30"
 Title = "AI-driven CloudOps: Transforming Compliance and Configuration Management"
 Type = "talk"
 Speakers = ["salma-shaik"]

@@ -1,6 +1,6 @@
 +++
 Title = "Lutske De Leeuw"
-Linkedin = ""
+Linkedin = "https://www.linkedin.com/in/lutske/"
 Website = ""
 Twitter = ""
 image = "lutske-de-leeuw.jpg"

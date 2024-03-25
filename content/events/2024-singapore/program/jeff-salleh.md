@@ -2,8 +2,8 @@
 City = "Singapore"
 Year = "2024"
 talk_date = "2024-03-21"
-talk_start_time = "15:10"
-talk_end_time = "15:15"
+talk_start_time = "14:20"
+talk_end_time = "14:25"
 Title = "Top 5 things SRE should consider in running the cloud operations"
 Type = "talk"
 Speakers = ["jeff-salleh"]

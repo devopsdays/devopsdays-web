@@ -1,8 +1,8 @@
 +++
-Title = "Joao Rosa"
+Title = "João Rosa"
 Linkedin = ""
 Website = ""
-Twitter = ""
+Twitter = "joaoasrosa"
 image = "joao-rosa.jpg"
 type = "speaker"
 linktitle = "joao-rosa"

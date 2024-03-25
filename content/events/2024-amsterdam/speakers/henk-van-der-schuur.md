@@ -2,7 +2,7 @@
 Title = "Henk van der Schuur"
 Linkedin = ""
 Website = ""
-Twitter = ""
+Twitter = "hwschuur"
 image = "henk-van-der-schuur.jpg"
 type = "speaker"
 linktitle = "henk-van-der-schuur"

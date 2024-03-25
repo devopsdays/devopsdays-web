@@ -1,8 +1,8 @@
 +++
 Title = "Amanda Lewis"
-Linkedin = ""
+Linkedin = "https://www.linkedin.com/in/lewisamanda/"
 Website = ""
-Twitter = ""
+Twitter = "swansama"
 image = "amanda-lewis.jpg"
 type = "speaker"
 linktitle = "amanda-lewis"

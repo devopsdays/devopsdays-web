@@ -118,6 +118,8 @@ organizer_email: "amsterdam@devopsdays.org" # Put your organizer email address h
 sponsors:
   # Platinum
   # Beer
+  - id: chef
+    level: beer
   # Coffee
   - id: greater-bv
     level: coffee
@@ -139,6 +141,8 @@ sponsors:
   - id: schubergphilis
     level: lanyard
   # Foodtruck
+  - id: flyio
+    level: foodtruck
   # Recharge
   # Silver
   - id: sysdig
@@ -146,6 +150,10 @@ sponsors:
   - id: cinq
     level: silver
   - id: fullstaq
+    level: silver
+  - id: cert2connect-checkmarx
+    level: silver
+  - id: hcscompany
     level: silver
   # Bronze
   - id: devleaps
@@ -162,7 +170,7 @@ sponsor_levels:
     label: Platinum
     max: 1
   - id: beer
-    label: Beer
+    label: Beverage
     max: 1
   - id: coffee
     label: Coffee
@@ -206,14 +214,14 @@ program:
     date: 2024-06-19T00:00:00+02:00
     start_time: "09:00"
     end_time: "10:30"
-    comments: "Expo 1"
+    comments: "Workspace"
 
   - title: "ws-joao-rosa"
     type: workshop
     date: 2024-06-19T00:00:00+02:00
     start_time: "09:00"
     end_time: "12:00"
-    comments: "Workspace"
+    comments: "Expo 1"
 
   - title: "ws-nathen-harvey-amanda-lewis-dave-stanke"
     type: workshop
@@ -248,7 +256,7 @@ program:
     date: 2024-06-19T00:00:00+02:00
     start_time: "10:45"
     end_time: "12:15"
-    comments: "Expo 1"
+    comments: "Workspace"
 
   # LUNCH
   - title: "Lunch Break"
@@ -333,9 +341,6 @@ program:
     start_time: "16:45"
     end_time: "17:30"
     comments: "Expo 1"
-    start_time: "16:15"
-    end_time: "17:00"
-    comments: "Ij Zaal"
 
   # end of day
   - title: "Have a beer on us!"
@@ -411,7 +416,7 @@ program:
     end_time: "13:00"
     background_color: "#8ad0d3"
 
-  - title: "marcy-steph"
+  - title: "marcy-stephane-cusin"
     type: talk
     date: 2024-06-20T00:00:00+02:00
     start_time: "13:05"
