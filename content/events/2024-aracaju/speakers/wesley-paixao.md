@@ -1,6 +1,6 @@
 +++
 Title = "Wesley Paixao"
-linkedin = "https://www.linkedin.com/in/palomalataliza/"
+linkedin = "https://www.linkedin.com/in/paixao-wesley"
 image = "wesley-paixao.jpeg"
 type = "speaker"
 linktitle = "wesley-paixao"
