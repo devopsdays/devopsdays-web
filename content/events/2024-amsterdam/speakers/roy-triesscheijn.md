@@ -1,10 +1,11 @@
 +++
 Title = "Roy Triesscheijn"
-Linkedin = ""
-Website = ""
+Linkedin = "https://www.linkedin.com/in/roy-triesscheijn"
+Website = "https://roy-t.nl"
+Mastodon = "https://mastodon.social/@roytries"
 Twitter = ""
 image = "roy-triesscheijn.png"
 type = "speaker"
 linktitle = "roy-triesscheijn"
 +++
-Tech Lead at bol., see: httsp://roy-t.nl
+Tech Lead at bol., see: https://roy-t.nl
