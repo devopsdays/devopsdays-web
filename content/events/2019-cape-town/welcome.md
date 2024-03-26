@@ -6,7 +6,7 @@ Description = "DevOpsDays Cape Town 2019 will take place September 5-6, 2019!"
 +++
 
 <div class="row">
-  <div class = "col-md-6 order-md-12">
+  <div class = "col-md-6 order-md-5">
     As a community-run event, DevOpsDays Cape Town strives to build awareness and spread lean, collaborative practises to organisations and individuals.
     <br><br>
     Cape Town has a thriving technology sector, respected globally, and bringing this international event here helps bridge local specialists with their global counterparts and broaden the community.
