@@ -54,9 +54,9 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     icon: "calendar"
     url: /events/2024-goiania/program
 
-  # - name: palestrantes
-  #   icon: "microphone"
-  #   url: /events/2024-goiania/speakers
+  - name: palestrantes
+    icon: "microphone"
+    url: /events/2024-goiania/speakers
 
   - name: patrocínio
     icon: "money"
@@ -142,3 +142,97 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+
+program:
+  - title: "Credenciamento"
+    type: custom
+    date: 2024-04-06T08:00:00-03:00
+    start_time: "08:00"
+    end_time: "08:30"
+  - title: "Abertura"
+    type: custom
+    date: 2024-04-06T08:00:00-03:00
+    start_time: "08:30"
+    end_time: "09:00"
+    background_color: "#0082AB"
+  - title: "gomex"
+    type: talk
+    date: 2024-04-06T08:00:00-03:00
+    start_time: "09:00"
+    end_time: "09:30"
+    background_color: "#FF8300"
+  - title: "camis-moreira"
+    type: talk
+    date: 2024-04-06T08:00:00-03:00
+    start_time: "09:30"
+    end_time: "10:00"
+  - title: "ruan-oliveira"
+    type: talk
+    date: 2024-04-06T08:00:00-03:00
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Coffee Break"
+    type: custom
+    date: 2024-04-06T08:00:00-03:00
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "wagner-alencar-da-silva"
+    type: talk
+    date: 2024-04-06T08:00:00-03:00
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "andre-brandao"
+    type: talk
+    date: 2024-04-06T08:00:00-03:00
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch"
+    type: custom
+    date: 2024-04-06T08:00:00-03:00
+    start_time: "12:00"
+    end_time: "13:30"
+  - title: "Open Space"
+    type: open-space
+    date: 2024-04-06T08:00:00-03:00
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "joao-neto"
+    type: talk
+    date: 2024-04-06T08:00:00-03:00
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: "carlos-bezerra"
+    type: talk
+    date: 2024-04-06T08:00:00-03:00
+    start_time: "14:30"
+    end_time: "15:00"
+  - title: "raphael-moura"
+    type: talk
+    date: 2024-04-06T08:00:00-03:00
+    start_time: "15:00"
+    end_time: "15:30"
+  - title: "joao-brito"
+    type: talk
+    date: 2024-04-06T08:00:00-03:00
+    start_time: "15:30"
+    end_time: "16:00"
+  - title: "Coffee Break"
+    type: custom
+    date: 2024-04-06T08:00:00-03:00
+    start_time: "16:00"
+    end_time: "16:30"
+  - title: "salviano-ludgrio"
+    type: talk
+    date: 2024-04-06T08:00:00-03:00
+    start_time: "16:30"
+    end_time: "17:00"
+  - title: "paloma-lataliza"
+    type: talk
+    date: 2024-04-06T08:00:00-03:00
+    start_time: "17:00"
+    end_time: "17:30"
+  - title: "Encerramento"
+    type: custom
+    date: 2024-04-06T08:00:00-03:00
+    start_time: "17:30"
+    end_time: "18:00"
