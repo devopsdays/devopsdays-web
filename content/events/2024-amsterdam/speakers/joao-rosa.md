@@ -1,14 +1,13 @@
 +++
 Title = "João Rosa"
-Linkedin = ""
-Website = ""
+Linkedin = "https://www.linkedin.com/in/joaoasrosa/"
+Website = "www.joaorosa.consulting"
+Mastodon = "https://mastodon.social/@joaorosa"
 Twitter = "joaoasrosa"
 image = "joao-rosa.jpg"
 type = "speaker"
 linktitle = "joao-rosa"
 +++
-João is an independent consultant focused on supporting organisations in creating purposeful systems. As part of his consultancy practice, he helps organisations bridge their strategy to execution. He is passionate about the evolution of sociotechnical systems.
+João has experience enabling organizations to transition to fast-flow operating models. As CTO with scale-ups or as a consultant, he supported firms speeding their execution while having a humane approach. He focused on bridging strategy to execution in areas such as alternative funding models or effective use of technology, where teams and organizations can thrive in a complex world.
 
-He is a Team Topologies Valued Practitioner (https://teamtopologies.com/all-ttvp/joao-rosa). He is also one of the authors of the book Software Architecture Metrics (https://www.oreilly.com/library/view/software-architecture-metrics/9781098112226/), the curator of the book Visual Collaboration Tools (https://leanpub.com/visualcollaborationtools/) and the host of the Software Crafts Podcast (https://www.softwarecraftspodcast.com/).
-
-You can find him travelling with his daughter and wife or lying on the beach reading a book when he is not on his duties. João is an amateur cook in his remaining time.
+He is one of the co-authors of Software Architecture Metrics from O’Reilly, curator of Visual Collaboration Tools, and host of the Software Crafts Podcast. He frequently speaks at meetups and conferences. You can find his digital space at www.joaorosa.consulting.
