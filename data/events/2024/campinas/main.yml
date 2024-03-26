@@ -3,8 +3,8 @@ year: "2024" # The year of the event. Make sure it is in quotes.
 city: "Campinas" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdayscps" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "DevOpsDays está voltando a Campinas!" # Edit this to suit your preferences
-# masthead_background: "background.jpg"
-ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+masthead_background: "background.jpg"
+ga_tracking_id: "G-3X9XBDMGXM" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2024-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00
@@ -100,6 +100,16 @@ team_members: # Name is the only required field for team members.
     github: "https://github.com/flap"
     linkedin: "https://www.linkedin.com/in/flaap/?originalSubdomain=br"
     website: "https://campsite.bio/pimenta/"
+
+  - name: "Renne Rocha"
+    role: "Senior Python Engineer"
+    mastodon: "https://chaos.social/@rennerocha"
+    bio: "Renne Rocha é desenvolvedor Python, graduado em Engenharia Elétrica com mais de 10 anos de experiência em desenvolvimento. Ativo na comunidade Python brasileira organizando e apresentando palestras em diversas conferências no mundo todo. Co-fundador do Laboratório Hacker de Campinas, um dos primeiros hackerspaces do Brasil. Nas horas vagas, é aprendiz de marceneiro e cervejeiro caseiro."
+    image: "renne.png"
+    email: "renne@rocha.dev.br"
+    github: "https://github.com/rennerocha"
+    linkedin: "https://www.linkedin.com/in/rennerocha/"
+    website: "https://rennerocha.com/"
 
 organizer_email: "campinas@devopsdays.org" # Put your organizer email address here
 

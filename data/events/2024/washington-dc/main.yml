@@ -160,16 +160,6 @@ team_members: # Name is the only required field for team members.
     website: ""
     linkedin: "https://www.linkedin.com/in/kevinmichaellong/"
 
-  - name: "James Martin"
-    employer: ""
-    twitter: ""
-    bio: ""
-    image:  'james-martin.jpg'
-    github: ""
-    facebook: ""
-    website: ""
-    linkedin: ""
-
   - name: "Kadi McKean"
     employer: "Endor Labs"
     twitter: "KadiGrigg"

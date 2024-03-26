@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Revolutionizing Mobile App Security through DevSecOps"
 Type = "talk"
-Speakers = ["sheng-sheen"]
+Speakers = ["karen-hsu"]
 +++
 
 In the rapidly evolving landscape of mobile applications, ensuring robust security measures is paramount to safeguard user data and maintain the integrity of digital ecosystems. This presentation delves into the transformative realm of DevSecOps within the context of mobile app security, emphasizing the pivotal role played by combining DevOps with automated Mobile Security.
