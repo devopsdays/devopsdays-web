@@ -29,7 +29,7 @@
     "sass": "^1.52.3"
   },
   "dependencies": {
-    "bootstrap": "^4.3.1",
+    "bootstrap": "^5.3.3",
     "jquery": "^3.6.0",
     "jssocials": "^1.5.0",
     "netlify-cli": "^16.4.2",
