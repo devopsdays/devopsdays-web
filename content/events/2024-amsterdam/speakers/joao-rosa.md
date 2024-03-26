@@ -10,4 +10,4 @@ linktitle = "joao-rosa"
 +++
 João has experience enabling organizations to transition to fast-flow operating models. As CTO with scale-ups or as a consultant, he supported firms speeding their execution while having a humane approach. He focused on bridging strategy to execution in areas such as alternative funding models or effective use of technology, where teams and organizations can thrive in a complex world.
 
-He is one of the co-authors of Software Architecture Metrics from O’Reilly, curator of Visual Collaboration Tools, and host of the Software Crafts Podcast. He frequently speaks at meetups and conferences. You can find his digital space at www.joaorosa.consulting.
+He is one of the co-authors of [Software Architecture Metrics](https://www.oreilly.com/library/view/software-architecture-metrics/9781098112226/) from O’Reilly, curator of [Visual Collaboration Tools](https://visualcollaborationtools.com/), and host of the [Software Crafts Podcast](https://softwarecraftspodcast.com/). He frequently speaks at meetups and conferences. You can find his digital space at www.joaorosa.consulting.
