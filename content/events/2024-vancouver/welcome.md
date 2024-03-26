@@ -27,12 +27,11 @@ Description = "DevOpsDays Vancouver 2024"
     <div class="alert alert-secondary" role="alert">
       <h4 class="alert-heading">Tickets are now available!</h4>
       <p>
-        **Two days** of technical talks, food, drinks, an after party for networking and 🍻 awaits you in Vancouver.</br>
+        <strong>Two days</strong> of technical talks, food, drinks, an after party for networking and 🍻 awaits you in Vancouver.</br>
       </p>
-        <h4>[Click here to Get your tickets](https://www.eventbrite.ca/e/devopsdays-vancouver-2024-tickets-864784923987)</h4>
-      <p>
-        {{< cfp_dates >}}
-      </p>
+      <h4>
+        <a href="https://www.eventbrite.ca/e/devopsdays-vancouver-2024-tickets-864784923987">Click here to Get your tickets</a>
+      </h4>
     </div>
     <div>
       <p>After a two year hiatus we are back in business.</p>
