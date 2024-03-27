@@ -220,17 +220,17 @@ program:
     start_time: "08:30"
     end_time: "09:00"
   - title: "Mastering the Fundamentals: Understanding DevOps in today's world"
-    type: talk
+    type: custom
     date: 2024-05-15T08:00:00-06:00
     start_time: "09:00"
     end_time: "09:30"
   - title: "Unblocking Your CI/CD With Ephemeral Environments"
-    type: talk
+    type: custom
     date: 2024-05-15T08:00:00-06:00
     start_time: "09:30"
     end_time: "10:00"
   - title: "The Automation Firehose: Be Strategic and Tactical"
-    type: talk
+    type: custom
     date: 2024-05-15T08:00:00-06:00
     start_time: "10:00"
     end_time: "10:30"
@@ -245,12 +245,12 @@ program:
     start_time: "10:45"
     end_time: "11:00"
   - title: "Getting Good (or Better) at Code Review"
-    type: talk
+    type: custom
     date: 2024-05-15T08:00:00-06:00
     start_time: "11:00"
     end_time: "11:30"
   - title: "Platform ROI: Why should your company invest?"
-    type: talk
+    type: custom
     date: 2024-05-15T08:00:00-06:00
     start_time: "11:30"
     end_time: "12:00"
@@ -295,7 +295,7 @@ program:
     start_time: "15:30"
     end_time: "15:45"
   - title: "Test Driven Development & Pair Programming - Live Coding Demo"
-    type: talk
+    type: custom
     date: 2024-05-15T08:00:00-06:00
     start_time: "15:45"
     end_time: "16:15"
@@ -320,17 +320,17 @@ program:
     start_time: "09:00"
     end_time: "09:15"
   - title: "A Funny Thing Happened On the Way to the Terminal"
-    type: talk
+    type: custom
     date: 2024-05-16T17:00:00-06:00
     start_time: "09:15"
     end_time: "09:45"
   - title: "Embrace the Break: Engineering for Chaos, Without Disruptions"
-    type: talk
+    type: custom
     date: 2024-05-15T08:00:00-06:00
     start_time: "09:45"
     end_time: "10:15"
   - title: "The IaC Tooling Face-off for Modern Cloud Native Ops"
-    type: talk
+    type: custom
     date: 2024-05-15T08:00:00-06:00
     start_time: "10:15"
     end_time: "10:45"
@@ -345,7 +345,7 @@ program:
     start_time: "11:00"
     end_time: "11:15"
   - title: "A Decade with DORA"
-    type: talk
+    type: custom
     date: 2024-05-16T17:00:00-06:00
     start_time: "11:15"
     end_time: "11:45"
@@ -380,7 +380,7 @@ program:
     start_time: "15:15"
     end_time: "15:30"
   - title: "DevOps in the Cloud: Case Studies of Amazon.com teams and their resilient architectures"
-    type: talk
+    type: custom
     date: 2024-05-16T17:00:00-06:00
     start_time: "15:30"
     end_time: "16:00"
