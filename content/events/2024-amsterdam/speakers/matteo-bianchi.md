@@ -1,8 +1,8 @@
 +++
 Title = "Matteo Bianchi"
-Linkedin = ""
-Website = ""
-Twitter = ""
+Linkedin = "https://www.linkedin.com/in/mbianchidev/"
+Website = "https://github.com/mbianchidev"
+Twitter = "https://twitter.com/mbianchidev"
 image = "matteo-bianchi.jpg"
 type = "speaker"
 linktitle = "matteo-bianchi"
