@@ -180,6 +180,8 @@ sponsors:
     level: silver
   - id: hrblockkc
     level: corporate
+  - id: podcast-itguyeric
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
