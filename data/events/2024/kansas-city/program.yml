@@ -9,18 +9,18 @@ program:
     date: 2024-05-15T08:00:00-06:00
     start_time: "08:30"
     end_time: "09:00"
-  - title: "Mastering the Fundamentals: Understanding DevOps in today's world"
-    type: custom
+  - title: "laura-santamaria-talk"
+    type: talk
     date: 2024-05-15T08:00:00-06:00
     start_time: "09:00"
     end_time: "09:30"
-  - title: "Unblocking Your CI/CD With Ephemeral Environments"
-    type: custom
+  - title: "natalie-lunbeck-talk"
+    type: talk
     date: 2024-05-15T08:00:00-06:00
     start_time: "09:30"
     end_time: "10:00"
-  - title: "The Automation Firehose: Be Strategic and Tactical"
-    type: custom
+  - title: "thomas-haver-talk"
+    type: talk
     date: 2024-05-15T08:00:00-06:00
     start_time: "10:00"
     end_time: "10:30"
@@ -34,13 +34,13 @@ program:
     date: 2024-05-15T08:00:00-06:00
     start_time: "10:45"
     end_time: "11:00"
-  - title: "Getting Good (or Better) at Code Review"
-    type: custom
+  - title: "rhia-dixon-talk"
+    type: talk
     date: 2024-05-15T08:00:00-06:00
     start_time: "11:00"
     end_time: "11:30"
-  - title: "Platform ROI: Why should your company invest?"
-    type: custom
+  - title: "jt-perry-talk"
+    type: talk
     date: 2024-05-15T08:00:00-06:00
     start_time: "11:30"
     end_time: "12:00"
@@ -50,12 +50,12 @@ program:
     start_time: "12:00"
     end_time: "13:00"
   - title: "Ignites"
-    type: custom
+    type: ignite
     date: 2024-05-15T08:00:00-06:00
     start_time: "13:00"
     end_time: "13:30"
   - title: "Open Space Opening"
-    type: custom
+    type: open-space
     date: 2024-05-15T08:00:00-06:00
     start_time: "13:30"
     end_time: "14:00"
@@ -65,27 +65,27 @@ program:
     start_time: "14:00"
     end_time: "14:15"
   - title: "Open Space Logistics"
-    type: custom
+    type: open-space
     date: 2024-05-15T08:00:00-06:00
     start_time: "14:15"
     end_time: "14:30"
   - title: "Open Space #1"
-    type: custom
+    type: open-space
     date: 2024-05-15T08:00:00-06:00
     start_time: "14:30"
-    end_time: "14:45"
+    end_time: "15:00"
   - title: "Open Space #2"
-    type: custom
+    type: open-space
     date: 2024-05-15T08:00:00-06:00
-    start_time: "14:45"
+    start_time: "15:00"
     end_time: "15:30"
   - title: "Break"
     type: custom
     date: 2024-05-15T08:00:00-06:00
     start_time: "15:30"
     end_time: "15:45"
-  - title: "Test Driven Development & Pair Programming - Live Coding Demo"
-    type: custom
+  - title: "mark-shead-talk"
+    type: talk
     date: 2024-05-15T08:00:00-06:00
     start_time: "15:45"
     end_time: "16:15"
@@ -101,81 +101,103 @@ program:
     end_time: "late"
   - title: "Registration, Breakfast, Sponsors"
     type: custom
-    date: 2024-05-16T17:00:00-06:00
+    date: 2024-05-16T08:00:00-06:00
     start_time: "07:30"
     end_time: "09:00"
   - title: "Opening Welcome"
     type: custom
-    date: 2024-05-16T17:00:00-06:00
+    date: 2024-05-16T08:00:00-06:00
     start_time: "09:00"
     end_time: "09:15"
-  - title: "A Funny Thing Happened On the Way to the Terminal"
-    type: custom
-    date: 2024-05-16T17:00:00-06:00
+  - title: "chloe-condon-talk"
+    type: talk
+    date: 2024-05-16T08:00:00-06:00
     start_time: "09:15"
     end_time: "09:45"
-  - title: "Embrace the Break: Engineering for Chaos, Without Disruptions"
-    type: custom
-    date: 2024-05-15T08:00:00-06:00
+  - title: "erin-mikail-staples-talk"
+    type: talk
+    date: 2024-05-16T08:00:00-06:00
     start_time: "09:45"
     end_time: "10:15"
-  - title: "The IaC Tooling Face-off for Modern Cloud Native Ops"
-    type: custom
-    date: 2024-05-15T08:00:00-06:00
+  - title: "asaf-blubshtein-talk"
+    type: talk
+    date: 2024-05-16T08:00:00-06:00
     start_time: "10:15"
     end_time: "10:45"
   - title: "Sponsors"
     type: custom
-    date: 2024-05-15T08:00:00-06:00
+    date: 2024-05-16T08:00:00-06:00
     start_time: "10:45"
     end_time: "11:00"
   - title: "Break"
     type: custom
-    date: 2024-05-15T08:00:00-06:00
+    date: 2024-05-16T08:00:00-06:00
     start_time: "11:00"
     end_time: "11:15"
-  - title: "A Decade with DORA"
-    type: custom
-    date: 2024-05-16T17:00:00-06:00
+  - title: "nathen-harvey-talk"
+    type: talk
+    date: 2024-05-16T08:00:00-06:00
     start_time: "11:15"
     end_time: "11:45"
   - title: "Lunch"
     type: custom
-    date: 2024-05-16T17:00:00-06:00
+    date: 2024-05-16T08:00:00-06:00
     start_time: "11:45"
     end_time: "13:00"
   - title: "Ignites"
-    type: custom
-    date: 2024-05-16T17:00:00-06:00
+    type: ignite
+    date: 2024-05-16T08:00:00-06:00
     start_time: "13:00"
     end_time: "13:30"
   - title: "Open Space Opening"
-    type: custom
-    date: 2024-05-15T08:00:00-06:00
+    type: open-space
+    date: 2024-05-16T08:00:00-06:00
     start_time: "13:30"
     end_time: "14:00"
   - title: "Open Space #1"
-    type: custom
-    date: 2024-05-16T17:00:00-06:00
+    type: open-space
+    date: 2024-05-16T08:00:00-06:00
     start_time: "14:00"
     end_time: "14:45"
   - title: "Open Space #2"
-    type: custom
-    date: 2024-05-16T17:00:00-06:00
+    type: open-space
+    date: 2024-05-16T08:00:00-06:00
     start_time: "14:45"
-    end_time: "15:15"
+    end_time: "15:30"
   - title: "Break"
     type: custom
-    date: 2024-05-16T17:00:00-06:00
-    start_time: "15:15"
-    end_time: "15:30"
-  - title: "DevOps in the Cloud: Case Studies of Amazon.com teams and their resilient architectures"
-    type: custom
-    date: 2024-05-16T17:00:00-06:00
+    date: 2024-05-16T08:00:00-06:00
     start_time: "15:30"
     end_time: "16:00"
+  - title: "seth-eliot-talk"
+    type: talk
+    date: 2024-05-16T08:00:00-06:00
+    start_time: "16:00"
+    end_time: "16:30"
   - title: "Closing / Raffle"
     type: custom
-    date: 2024-05-16T17:00:00-06:00
-    start_time: "16:00"
+    date: 2024-05-16T08:00:00-06:00
+    start_time: "16:30"
     end_time: "17:00"
+
+ignites:
+  - title: "jj-asghar-ignite"
+    date: 2024-05-15T08:00:00-06:00
+  - title: "budhaditya-bhattacharya-ignite"
+    date: 2024-05-15T08:00:00-06:00
+  - title: "curtis-blackthorne-ignite"
+    date: 2024-05-15T08:00:00-06:00
+  - title: "eric-lee-ignite"
+    date: 2024-05-15T08:00:00-06:00
+  - title: "duan-lightfoot-ignite"
+    date: 2024-05-15T08:00:00-06:00
+  - title: "laura-santamaria-ignite"
+    date: 2024-05-16T08:00:00-06:00
+  - title: "carl-chesser-ignite"
+    date: 2024-05-16T08:00:00-06:00
+  - title: "rhia-dixon-ignite"
+    date: 2024-05-16T08:00:00-06:00
+  - title: "aj-jester-ignite"
+    date: 2024-05-16T08:00:00-06:00
+  - title: "nathen-harvey-ignite"
+    date: 2024-05-16T08:00:00-06:00
