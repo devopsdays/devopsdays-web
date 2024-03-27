@@ -28,6 +28,12 @@ It wasn’t until 1983 when Victor Patti had the vision of restoring this archit
 
 <br />
 
+## Hotel recommendation
+
+We have secured a block of rooms at the [SpringHill Suites Kansas City Plaza](https://maps.app.goo.gl/g723yzNAb9o6bymQ9) for **$139 per night**. The special room block is available via **[this link](https://www.marriott.com/events/start.mi?id=1711053941374&key=GRP) until Tuesday, April 23, 2024**.
+
+After that date, you can call the hotel at 816-285-4900 to request the room rate using `DevOpsDays` as the promo code, subject to availability.
+
 ## Accessibility features
 
 The main conference space is one level, at street level, and is entirely wheelchair accessible. We will offer wheelchair-designated spaces in the main stage room; bathrooms labeled according to the facilities they contain; and handicapped-designated parking spaces. We'd also be happy to accommodate any other accessibility needs upon request: {{< email_organizers >}}
