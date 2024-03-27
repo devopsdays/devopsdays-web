@@ -24,7 +24,7 @@ registration_date_start: 2024-03-01T00:00:00-08:00 # start accepting registratio
 registration_date_end: 2024-05-17T00:00:00+02:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: https://www.eventbrite.ca/e/devopsdays-vancouver-2024-tickets-864784923987 # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
