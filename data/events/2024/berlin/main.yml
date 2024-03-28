@@ -260,15 +260,15 @@ program:
     date: 2024-05-08
     start_time: "11:45"
     end_time: "12:15"
-  - title: "Lunch (catered)"
-    type: custom
-    date: 2024-05-08
-    start_time: "12:15"
-    end_time: "13:30"
   - title: "Ignites"
     type: ignite
     date: 2024-05-08
-    start_time: "13:30"
+    start_time: "12:15"
+    end_time: "13:15"
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2024-05-08
+    start_time: "13:15"
     end_time: "14:00"
   - title: "Open Space Topics"
     type: open-space
@@ -305,7 +305,7 @@ ignites:
     date: 2024-05-08
   - title: "bill-mulligan"
     date: 2024-05-08
-  - title: "to-be-announced-ignite"
+  - title: "stephan-louis-mousset"
     date: 2024-05-08
   - title: "to-be-announced-ignite"
     date: 2024-05-08
