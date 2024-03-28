@@ -22,11 +22,11 @@ cfp_date_announce: 2024-02-23T21:00:00-03:00 # inform proposers of status
 
 cfp_link: "https://talks.devopsdays.org/devopsdays-goiania-2024/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-# registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-# registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: 2024-01-08T08:00:00-03:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2024-04-05T23:59:59-03:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
-# registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-# registration_link: "https://www.sympla.com.br/devopsdays-goiania-2024__1836174" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://www.sympla.com.br/evento/devopsdays-goiania-2024/2292376" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
