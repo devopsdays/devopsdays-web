@@ -2,7 +2,7 @@
 Title = "Paloma Lataliza"
 Twitter = ""
 linkedin = "https://www.linkedin.com/in/palomalataliza/"
-image = "paloma-latilza.png"
+image = "paloma-lataliza.png"
 type = "speaker"
 linktitle = "paloma-lataliza"
 
