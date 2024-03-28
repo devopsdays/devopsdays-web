@@ -155,18 +155,18 @@ program:
     start_time: "08:30"
     end_time: "09:00"
     background_color: "#0082AB"
-  - title: "gomex"
+  - title: ""
     type: talk
     date: 2024-04-06T08:00:00-03:00
     start_time: "09:00"
     end_time: "09:30"
     background_color: "#FF8300"
-  - title: "camis-moreira"
+  - title: "ruan-oliveira"
     type: talk
     date: 2024-04-06T08:00:00-03:00
     start_time: "09:30"
     end_time: "10:00"
-  - title: "ruan-oliveira"
+  - title: "camis-moreira"
     type: talk
     date: 2024-04-06T08:00:00-03:00
     start_time: "10:00"
@@ -176,7 +176,7 @@ program:
     date: 2024-04-06T08:00:00-03:00
     start_time: "10:30"
     end_time: "11:00"
-  - title: "wagner-alencar-da-silva"
+  - title: "paloma-lataliza"
     type: talk
     date: 2024-04-06T08:00:00-03:00
     start_time: "11:00"
@@ -226,7 +226,7 @@ program:
     date: 2024-04-06T08:00:00-03:00
     start_time: "16:30"
     end_time: "17:00"
-  - title: "paloma-lataliza"
+  - title: "wagner-alencar-da-silva"
     type: talk
     date: 2024-04-06T08:00:00-03:00
     start_time: "17:00"
