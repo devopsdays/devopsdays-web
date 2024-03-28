@@ -2,7 +2,7 @@
 Title = "Wagner Alencar da Silva"
 Twitter = ""
 linkedin = "https://www.linkedin.com/in/wagner-alencar-da-silva/"
-image = ""
+image = "wagner-alencar-da-silva.png"
 type = "speaker"
 linktitle = "wagner-alencar-da-silva"
 

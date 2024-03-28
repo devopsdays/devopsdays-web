@@ -2,7 +2,7 @@
 Title = "João Neto"
 Twitter = ""
 linkedin = "https://www.linkedin.com/in/joão-neto/"
-image = ""
+image = "joao-neto.png"
 type = "speaker"
 linktitle = "joao-neto"
 

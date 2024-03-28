@@ -1,6 +1,6 @@
 +++
 Title = "Camis Moreira"
-image = "bezaleel-silva.png"
+image = "camis-moreira.png"
 type = "speaker"
 linktitle = "camis-moreira"
 Linkedin = "https://www.linkedin.com/in/camismoreira/"

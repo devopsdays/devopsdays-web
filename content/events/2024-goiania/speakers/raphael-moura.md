@@ -2,7 +2,7 @@
 Title = "Raphael Moura"
 Twitter = ""
 linkedin = "https://www.linkedin.com/in/raphamoura/"
-image = ""
+image = "raphael-moura.png"
 type = "speaker"
 linktitle = "raphael-moura"
 

@@ -2,7 +2,7 @@
 Title = "Ruan Oliveira"
 Twitter = ""
 linkedin = "https://www.linkedin.com/in/ruan-sysadmin/"
-image = ""
+image = "ruan-oliveira.png"
 type = "speaker"
 linktitle = "ruan-oliveira"
 

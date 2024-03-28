@@ -2,7 +2,7 @@
 Title = "Carlos Bezerra"
 Twitter = ""
 linkedin = "https://www.linkedin.com/in/carlosdbezerra/"
-image = ""
+image = "carlos-bezerra.png"
 type = "speaker"
 linktitle = "carlos-bezerra"
 

@@ -2,7 +2,7 @@
 Title = "Salviano Ludgério"
 Twitter = ""
 linkedin = "https://www.linkedin.com/in/salvianoo/"
-image = ""
+image = "salviano-ludgrio.png"
 type = "speaker"
 linktitle = "salviano-ludgrio"
 
