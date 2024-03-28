@@ -122,6 +122,10 @@ sponsors:
     level: gold
   - id: groundcover
     level: gold
+  - id: procom
+    level: gold
+  - id: stanza
+    level: gold
   - id: allthingsopen2024
     level: community
   - id: learnk8s

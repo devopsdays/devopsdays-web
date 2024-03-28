@@ -19,6 +19,7 @@ enddate: 2024-09-12T23:59:59+03:00 # The end date of your event. Leave blank if 
 cfp_date_start: 2024-03-18T00:00:00+03:00 # start accepting talk proposals.
 cfp_date_end: 2024-05-13T00:00:00+03:00 # close your call for proposals.
 #cfp_date_announce: 2024-06-15T00:00:00+03:00 # inform proposers of status
+cfp_link: "https://talks.devopsdays.org/devopsdays-vilnius-2024/cfp" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 
 #registration_date_start: 2024-05-10T00:00:00+03:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
@@ -82,7 +83,15 @@ sponsors:
     level: community
   - id: nordsecurity
     level: venue
-
+  - id: oxylabs
+    level: silver 
+  - id: kubeevents
+    level: community
+  - id: kubecareers
+    level: community
+  - id: jetbrains
+    level: community
+    
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
