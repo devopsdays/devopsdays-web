@@ -1,9 +1,9 @@
 +++
-Title = ""
+Title = "TBA"
 Twitter = ""
 linkedin = ""
 Website = ""
 image = ""
 type = "speaker"
-linktitle = ""
+linktitle = "placeholder-speaker"
 +++

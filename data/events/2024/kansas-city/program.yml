@@ -109,7 +109,7 @@ program:
     date: 2024-05-16T08:00:00-06:00
     start_time: "09:00"
     end_time: "09:15"
-  - title: "chloe-condon-talk"
+  - title: "placeholder-talk"
     type: talk
     date: 2024-05-16T08:00:00-06:00
     start_time: "09:15"
