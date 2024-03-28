@@ -137,6 +137,8 @@ sponsors:
     level: gold
   - id: stackstate
     level: gold
+  - id: googlecloud
+    level: gold
   # Lanyard
   - id: schubergphilis
     level: lanyard
