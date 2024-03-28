@@ -37,7 +37,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
   - name: register
     url: https://tickets.devopsdays.org/devopsdays-kansascity/2024/c/9X9kZg4vJ/
- # - name: program
+  - name: program
  # - name: speakers
   - name: sponsor
  # - name: propose
@@ -180,6 +180,10 @@ sponsors:
     level: silver
   - id: hrblockkc
     level: corporate
+  - id: podcast-itguyeric
+    level: community
+  - id: podcast-labeveryday
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -208,3 +212,4 @@ sponsor_levels:
     max: 1
   - id: lanyards
     label: Lanyards
+
