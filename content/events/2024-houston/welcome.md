@@ -5,13 +5,18 @@ aliases = ["/events/2024-houston/"]
 Description = "devopsdays houston 2024"
 +++
 
+
 <div class="row">
-	<div class="col-md-3">
-        <div style="text-align:center;">
-          {{< event_logo >}}
-        </div>
+	<div class="col-md-8">
+  <div>
+  <p>DevOpsDays Houston will be on June 4-5, 2024, at the Norris Conference Center. <strong><a href="https://tickets.devopsdays.org/devopsdays-houston/2024/c/krJsjygHI/">Get your ticket today!</a></strong>. 
+  </p>
+  <p>DevOpsDays is all about building and strengthening our local tech community. This year, <strong>every attendee of DevOpsDays Houston 2024 will get a chance to win a Meta Quest 3</strong> during the conference! In addition, those who help us build our community will increase their chances of winning significantly!
+  <br>For more details refer to the <a href="https://assets.devopsdays.org/events/2024/houston/devopsdays-houston-2024-community-builder-flyer.pdf">Community Builder flyer</a>.
+  </br></p>
+  <p>We have <strong>discounted tickets available</strong> for Houston locals—particularly students, people who are unemployed or have income constraints, and members of communities which are under-represented at tech events. Please reach out to us via email ({{< email_organizers >}}) and we'll respond as quickly as we're able.
+  </p>
   </div>
-	<div class="col-md-6">
   <div class = "row">
     <div class = "col-md-2">
       <strong>Dates</strong>
@@ -35,7 +40,7 @@ Description = "devopsdays houston 2024"
       <strong>Register</strong>
     </div>
     <div class = "col-md-8">
-      <a href="https://tickets.devopsdays.org/devopsdays-houston/2024/">Register to attend the conference!</a>
+      <a href="https://tickets.devopsdays.org/devopsdays-houston/2024/c/krJsjygHI/">Register to attend the conference!</a>
     </div>
   </div>
 
@@ -107,6 +112,9 @@ Description = "devopsdays houston 2024"
     </div>
   </div>
 
+  </div>
+  <div class="col-md-4">
+          {{< event_logo >}}
   </div>
 </div>
 
