@@ -24,7 +24,7 @@ registration_date_start: 2024-03-15T23:59:59-06:00 # start accepting registratio
 registration_date_end: 2024-06-05T00:00:00-06:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: false #set this to true if you need to manually close registration before your registration end date
-registration_link: "https://tickets.devopsdays.org/devopsdays-houston/2024/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://tickets.devopsdays.org/devopsdays-houston/2024/c/krJsjygHI/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 masthead_background: "background.png"
 
@@ -107,6 +107,8 @@ sponsors:
     level: community
   - id: hashicorp
     level: platinum
+  - id: blue-people
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
