@@ -39,7 +39,8 @@ The participants should have the following skills:
 - Familiarity with CI concepts. 
 - Hands-on experience with deploying applications in Kubernetes. 
 
-The following tools will be covered:  Kubectl: The Kubernetes command-line tool for cluster interaction. 
+The following tools will be covered: 
+- Kubectl: The Kubernetes command-line tool for cluster interaction. 
 - Minikube or Kind: Local Kubernetes cluster for those without external cluster access 
 - Docker and Docker hub account: Essential for building and managing container images. 
 - Helm: Package manager for simplifying Kubernetes application deployment. 
