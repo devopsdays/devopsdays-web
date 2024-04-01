@@ -16,6 +16,9 @@ slides = ""
 
 ### Workshop
 
+<strong>Room:</strong> “Malen” / 1st floor 
+
+<strong>Abstract:</strong>
 Stop reinventing the wheel; start riding it! Bash and gnu have many powerful utilities that are re-implemented over and over again in almost every project out there.
 
 By the end of this workshop, you will be able to write bash more efficiently and understand its core principles,
@@ -29,3 +32,9 @@ A few of the things we’ll learn and use:
 4. How to think in bash
 
 Join me to learn the quirks of bash and how powerful they are.
+
+<strong>Prerequisites for this workshop:</strong>
+There are no special prerequisites. The participants should only be interested to learn how easy they can use the powerful utilities of Bash and GNU. 
+
+<strong>Number of participants:</strong>
+25 participants max 
