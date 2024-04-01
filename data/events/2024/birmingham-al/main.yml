@@ -73,7 +73,12 @@ team_members: # Name is the only required field for team members.
     employer: "LunarLab"
     twitter: "EAndersonPM"
     image: "elizabeth-anderson.jpg"
-    
+  - name: "Garrett Honeycutt"
+    twitter: "_ghoneycutt"
+    github: "ghoneycutt"
+    linkedin: "https://www.linkedin.com/in/garretthoneycutt"
+    image: "garrett-honeycutt.jpg"
+
 organizer_email: "birmingham-al@devopsdays.org" # Put your organizer email address here
 
 masthead_background: "birmingham_skyline.jpg"
