@@ -73,27 +73,27 @@ program:
     type: open-space
     date: 2024-05-15T08:00:00-06:00
     start_time: "14:30"
-    end_time: "15:00"
+    end_time: "15:15"
   - title: "Open Space #2"
     type: open-space
     date: 2024-05-15T08:00:00-06:00
-    start_time: "15:00"
-    end_time: "15:30"
+    start_time: "15:15"
+    end_time: "16:00"
   - title: "Break"
     type: custom
     date: 2024-05-15T08:00:00-06:00
-    start_time: "15:30"
-    end_time: "15:45"
+    start_time: "16:00"
+    end_time: "16:15"
   - title: "mark-shead-talk"
     type: talk
     date: 2024-05-15T08:00:00-06:00
-    start_time: "15:45"
-    end_time: "16:15"
+    start_time: "16:15"
+    end_time: "16:45"
   - title: "Close Day"
     type: custom
     date: 2024-05-15T08:00:00-06:00
-    start_time: "16:15"
-    end_time: "16:45"
+    start_time: "16:45"
+    end_time: "17:00"
   - title: "Evening Event"
     type: custom
     date: 2024-05-15T08:00:00-06:00
