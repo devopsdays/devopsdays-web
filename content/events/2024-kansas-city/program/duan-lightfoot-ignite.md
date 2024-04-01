@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "Make it simple, using generative AI to accelerate learning"
-Type = "ignite"
+Type = "talk"
 Speakers = ["duan-lightfoot"]
 +++
 

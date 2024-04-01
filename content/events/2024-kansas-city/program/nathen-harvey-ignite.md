@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "DevOps: A Way of Being"
-Type = "ignite"
+Type = "talk"
 Speakers = ["nathen-harvey"]
 +++
 
