@@ -2,6 +2,7 @@
 Title = "Laura Santamaria"
 Twitter = "nimbinatus"
 linkedin = "https://www.linkedin.com/in/lauraasantamaria"
+Website = "https://linktr.ee/nimbinatus"
 image = "laura-santamaria.jpg"
 type = "speaker"
 linktitle = "laura-santamaria"
