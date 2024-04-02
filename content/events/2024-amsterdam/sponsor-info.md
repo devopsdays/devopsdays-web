@@ -128,7 +128,7 @@ Gold sponsors have a table of their own at the event (unless otherwise discussed
 
 As a Gold, Platinum, Coffee or Beer sponsor you show commitment to our community and probably want to share a few words with us.  To that end, you have one minute to reach out to the audience. This moment is the perfect bulletin to pitch a relevant product or let people know you are hiring.
 
-Sponsor pitches are on both days.  We’ll let you know your time slot the day before the event on June 18.  It’s important that each sponsor be available for their time slot.
+Sponsor pitches are on both days.  We’ll let you know your time slot the day before the event on June 18.  It’s important that each sponsor be available for their time slot.  Please review these examples of 2022 sponsor pitches for inspiration: https://www.youtube.com/watch?v=6vgilIv3UXE 
 
 ### <a name= 'Silver'></a> Silver sponsors
 
