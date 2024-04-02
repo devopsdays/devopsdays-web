@@ -294,6 +294,8 @@ sponsor_levels:
 sponsors:
   - id: redhat
     level: platinum
+  - id: thoughtworks
+    level: platinum
   - id: elastic
     level: gold
 program:
