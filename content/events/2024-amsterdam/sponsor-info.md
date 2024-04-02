@@ -41,39 +41,37 @@ Please use the above email address for all pre-event contact. One of the organiz
 
 
 ## <a name= 'Important-Dates'></a> Important Dates
-May 31st: Last day to order A/V equipment
-May 31st: Last day to register your attendees and receive name printed badges
-June 13th: First day the venue accepts packages
-June 19th: Set up your sponsor area for devopsdays
-June 20th-21st: devopsdays Amsterdam 2024!
+* May 20th: Last day to register your attendees and receive printed name badges
+* May 31st: Last day to order A/V equipment
+* June 13th: First day the venue accepts packages
+* June 19th: Set up your sponsor area for devopsdays
+* June 20th-21st: devopsdays Amsterdam 2024!
 
 
 ## <a name= 'Code-Of-Conduct'></a> Code of Conduct
 Respect and empathy are core DevOps values. Sponsors are required to follow our event’s [Code of Conduct](https://devopsdays.org/amsterdam/conduct). Please familiarize yourself with this document and act accordingly.
 
-Advertising and booths should be non-sexualized. Do not perform activities disruptive to the event or large/noisy events that disrupt conference talks or activities.
+Advertising and booths should be non-sexualized. Do not perform activities disruptive to the event that disrupt conference talks or activities (example: running a raffle while the official program is ongoing).
 
 
 ## <a name= 'Venue-Information'></a> Venue Information
-Pakhuis de Zwijger 
-Piet Heinkade 179
-1019 HC Amsterdam
+Pakhuis de Zwijger, Piet Heinkade 179, 1019 HC Amsterdam.
 
 We highly encourage using Amsterdam's public transportation system to get to and from the event. GVB Bus 43, Bus 246 and Bus N89 stop right in front of the location, as does Tram 26, departing from Amsterdam Centraal Station (main train station in the city). 
 
-For transport there is a parking garage located directly next to the venue, [APCOA Parking de Loodsen](https://maps.app.goo.gl/7SpfwhJnRHqswB5n9).
+For transporting booth assets there is a parking garage located directly next to the venue, [APCOA Parking de Loodsen](https://maps.app.goo.gl/7SpfwhJnRHqswB5n9).
 
 ### <a name= 'Shipping'></a> Shipping
 You can ship your materials to our venue if needed. Please note however that materials cannot arrive before **June 13th** since our selected venue simply has not enough space to store items for a longer period. The organizers are **not** responsible if your materials show up before **June 13th**. Materials need to arrive at the venue no later than **June 18th**. Your setup day is June 19 (the workshop day of the event).
 
-**Note:** If you need to ship materials ahead of time to the conference. Please contact the devopsdays sponsorteam at [amsterdam@devopdays.org](mailto:amsterdam@devopdays.org) to arrange this.
+**Note:** If you need to ship materials ahead of time to the conference please contact the devopsdays sponsorteam at [amsterdam@devopdays.org](mailto:amsterdam@devopdays.org).
 
 
 ## <a name= 'General-Sponsor-Activities'></a> General Sponsor Activities
 
 ### <a name= 'Marketing-Materials'></a> Marketing Materials
 
-***Please*** be incredibly mindful of any materials you plan on shipping or bringing to devopsdays Amsterdam (e.g., “corporate collateral”), that you would like to hand out to attendees or to include on the attendee swag table. The maximum attendance at the conference is 600 people, and not everyone will be looking to take a handout.
+***Please*** be incredibly mindful of any materials you plan on shipping or bringing to devopsdays Amsterdam (e.g., “corporate collateral”), that you would like to hand out to attendees or to include on the attendee swag table. The maximum attendance at the conference is 600 people, and not everyone will be looking to take your printouts.
 
 Every year we are forced to throw away printed material that sponsors have brought with them and do not take away with them, and often these materials are unable to be recycled.  We fully support maximum exposure for your company and brand, but with as minimal a footprint as possible. Please also see the cleanup guidelines below.
 
@@ -116,9 +114,9 @@ As a reminder, there is **no** lead capture assistance available, and do not sha
 
 ### <a name= 'TableSpace'></a> Tablespace for Platinum, Beverage, Gold and Silver sponsors
 
-If you are a Silver, Gold, Platinum or Beverage sponsor you are are assigned one of our table spaces. There will be a power strip provided between every two tables.  The venue assures us that there will be plenty, but please don’t hesitate to let us know if you think you will require more outlets.
+If you are a Silver, Gold, Platinum or Beverage sponsor you are assigned one of our table spaces. There will be a power strip provided between every two tables.  The venue assures us that there will be plenty, but please don’t hesitate to let us know if you think you will require more outlets.
 
-Furthermore, a TV screen (55”) rental is available upon request for €300 plus VAT but will need 3 weeks notice (May 31st) before the event.
+Furthermore, a TV screen (55”) rental is available upon request for €250 plus VAT but will need 3 weeks notice (May 31st) before the event.
 
 ### <a name= 'PlatBeerGold'></a> Platinum, Beer and Gold sponsors
 
@@ -140,17 +138,17 @@ For any sponsor, we encourage you to send your engineers to interact with our at
 
 ### <a name= 'Platinum'></a> Platinum sponsorship extras
 
-As the sole Platinum sponsor you get a few unique perks. Your logo will be displayed on the outdoor video screens. You are the official sponsor of the social event and BBQ. We will supply napkins with your logo on them during dinner. You are not only free to, but highly encouraged to display your branding with roll-up banners or beach flags during this period in the common area around the outside area. As a Platinum sponsor you are also invited to join us for the speaker dinner (2 tickets).
+As the sole Platinum sponsor you get a few unique perks. You are the official sponsor of the social event and BBQ. Your logo will be displayed on the outdoor video screens during the BBQ. We will supply napkins with your logo on them during dinner. You are not only free to, but highly encouraged to display your branding with roll-up banners or beach flags during this period in the common area around the outside area. As a Platinum sponsor you are also invited to join us for the speaker dinner (2 tickets).
 
 ### <a name= 'Beverage'></a> Beverage sponsor
 
 As the Beverage sponsor for devopsdays Amsterdam you get a unique perk. Your logo will be printed on our custom DevHops beer labels. Beers will be prominently featured as well during our social event on Thursday as our beer of choice for the social event. The DevHops beers will also be available after the program ends on Wednesday and Friday although no organized program is in-place during those days. 
 
-At the end of the event the Beverage sponsor can take away 48 bottles (2 cases) of DevHops to taste with team members wo were not able to attend.
+At the end of the event the Beverage sponsor can take away 2 cases of DevHops to taste with team members wo were not able to attend.
 
 ### <a name= 'Coffee'></a> Coffee sponsor
 
-As our coffee sponsors for devopsdays Amsterdam your unique perk is your logo on our coffee cups paired with our hired coffee tuk-tuk. The coffee tuk-tuk is on-site between 08:00 and 15:00 *all three days of the event*. During this time you’ll the option to bring up to two roll-up banners or beach flags to place besides the coffee tuk-tuk to enhance your visibility.
+As our Coffee sponsor for devopsdays Amsterdam your unique perk is your logo on our coffee cups paired with our hired coffee tuk-tuk. The coffee tuk-tuk is on-site between 08:00 and 15:00 *all three days of the event*. During this time you’ll the option to bring up to two roll-up banners or beach flags to place besides the coffee tuk-tuk to enhance your visibility.
 
 During the hours that the coffee tuk-tuk is on-site (between 8:00 and 15:00) we will also supply (weather permitting)[^1] a high standing table outside next to the food truck.
 
@@ -159,10 +157,6 @@ During the hours that the coffee tuk-tuk is on-site (between 8:00 and 15:00) we 
 ### <a name= 'Food-Truck'></a> Food truck sponsors
 
 As a Food Truck sponsor you are sponsoring one of the 2 food trucks available at the venue that day. Your food truck will be on-site between 11:30 and 15:00. We will supply napkins with your logo on them for your food truck. You are not only free to, but highly encouraged to display your branding with roll-up banners or beach flags during this period in the common area around your food truck.
-
-During the hours that the food truck is on-site (between 11:30 and 15:00) we will also supply (weather permitting)[^2] a high standing table outside next to the food truck.
-
- [^2]: In the event of bad weather (strong winds, heavy rainfall) there limited space outside covered by our outside tent. Depending on space requirements we cannot guarantee you a standing table in this instance.
 
 ## <a name= 'Schedule'></a> Event schedule and sponsor activities
 
