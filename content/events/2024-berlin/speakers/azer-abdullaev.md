@@ -2,13 +2,14 @@
 title = "Azer Abdullaev"
 twitter = ""
 linkedin = ""
-website = ""
+website = "https://rcmd.space/"
+github = "https://github.com/reactorcoremeltdown"
 image = ""
 type = "speaker"
 linktitle = ["azer-abdullaev"]
 +++
 
-I'm Azer Abdullaev, a site reliability engineer, currently working at Wayfair, but representing myself and my own projects at DevOpsDays Berlin.
+I'm Azer Abdullaev, a site reliability engineer, currently working at REACTORCOREMELTDOWN, but representing myself and my own projects at DevOpsDays Berlin.
 
 What drives me? 
 

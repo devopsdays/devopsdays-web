@@ -122,9 +122,15 @@ sponsors:
     level: gold
   - id: groundcover
     level: gold
+  - id: procom
+    level: gold
+  - id: stanza
+    level: gold
   - id: allthingsopen2024
     level: community
   - id: learnk8s
+    level: community
+  - id: clickhouse
     level: community
   - id: cyclelabs
     level: community
@@ -146,21 +152,16 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: diamond
-    label: Diamond
-    max: 2
-  - id: platinum
-    label: Platinum
   - id: gold
     label: Gold
     # max: 10
   - id: silver
-    label: Silver
+    label: "Breakfast"
     # max: 0 # This is the same as omitting the max limit.
   - id: community
     label: Community
   - id: happyhour
-    label: "Happy Hour Sponsor"
+    label: "Happy Hour"
 
 program:
   - title: "Registration, Breakfast"
@@ -263,7 +264,7 @@ program:
     date: 2024-04-10
     start_time: "15:10"
     end_time: "15:40"
-  - title: "shivay-lamba-keynote"
+  - title: "tim-becker-keynote"
     type: talk
     date: 2024-04-10
     start_time: "15:40"
@@ -288,16 +289,16 @@ program:
     date: 2024-04-10
     start_time: "16:20"
     end_time: "16:50"
-  - title: "tim-becker-keynote"
-    type: talk
+  - title: "Day One Closing and Sponsor Remarks"
+    type: custom
     date: 2024-04-10
     start_time: "16:50"
-    end_time: "17:20"
+    end_time: "17:00"
   - title: "Happy Hour"
     type: custom
     date: 2024-04-10
-    start_time: "17:20"
-    end_time: "18:20"
+    start_time: "17:00"
+    end_time: "19:00"
   - title: "Registration, Breakfast"
     type: custom
     date: 2024-04-11
