@@ -19,7 +19,7 @@ program:
     date: 2024-05-15T08:00:00-06:00
     start_time: "09:30"
     end_time: "10:00"
-  - title: "thomas-haver-talk"
+  - title: "jt-perry-talk"
     type: talk
     date: 2024-05-15T08:00:00-06:00
     start_time: "10:00"
@@ -39,7 +39,7 @@ program:
     date: 2024-05-15T08:00:00-06:00
     start_time: "11:00"
     end_time: "11:30"
-  - title: "jt-perry-talk"
+  - title: "christina-aldan-talk"
     type: talk
     date: 2024-05-15T08:00:00-06:00
     start_time: "11:30"
@@ -109,12 +109,12 @@ program:
     date: 2024-05-16T08:00:00-06:00
     start_time: "09:00"
     end_time: "09:15"
-  - title: "placeholder-talk"
+  - title: "erin-mikail-staples-talk"
     type: talk
     date: 2024-05-16T08:00:00-06:00
     start_time: "09:15"
     end_time: "09:45"
-  - title: "erin-mikail-staples-talk"
+  - title: "thomas-haver-talk"
     type: talk
     date: 2024-05-16T08:00:00-06:00
     start_time: "09:45"
@@ -187,9 +187,9 @@ ignites:
     date: 2024-05-15T08:00:00-06:00
   - title: "curtis-blackthorne-ignite"
     date: 2024-05-15T08:00:00-06:00
-  - title: "eric-lee-ignite"
-    date: 2024-05-15T08:00:00-06:00
   - title: "duan-lightfoot-ignite"
+    date: 2024-05-15T08:00:00-06:00
+  - title: "eric-lee-ignite"
     date: 2024-05-15T08:00:00-06:00
   - title: "laura-santamaria-ignite"
     date: 2024-05-16T08:00:00-06:00
