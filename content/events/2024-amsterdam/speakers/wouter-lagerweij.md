@@ -1,7 +1,8 @@
 +++
 Title = "Wouter Lagerweij"
-Linkedin = ""
-Website = ""
+Linkedin = "https://linkedin.com/in/lagerweij"
+Website = "https://www.lagerweij.com/"
+Mastodon = "https://mastodon.social/deck/@wouterla"
 Twitter = ""
 image = "wouter-lagerweij.jpg"
 type = "speaker"

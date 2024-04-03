@@ -1,6 +1,6 @@
 +++
 Title = "Alireza Chegini"
-Linkedin = ""
+Linkedin = "https://www.linkedin.com/in/alirezachegini/"
 Website = ""
 Twitter = ""
 image = "alireza-chegini.jpg"

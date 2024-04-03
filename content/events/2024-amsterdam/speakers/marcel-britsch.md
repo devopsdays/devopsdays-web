@@ -1,7 +1,7 @@
 +++
 Title = "Marcel Britsch"
-Linkedin = ""
-Website = ""
+Linkedin = "https://www.linkedin.com/in/marcelbritsch/"
+Website = "https://www.beautifulabstraction.com/"
 Twitter = ""
 image = "marcel-britsch.jpg"
 type = "speaker"

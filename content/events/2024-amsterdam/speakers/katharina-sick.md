@@ -1,6 +1,6 @@
 +++
 Title = "Katharina Sick"
-Linkedin = ""
+Linkedin = "https://www.linkedin.com/in/katharinasick/"
 Website = ""
 Twitter = ""
 image = "katharina-sick.jpg"

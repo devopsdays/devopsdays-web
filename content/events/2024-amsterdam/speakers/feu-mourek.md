@@ -1,6 +1,6 @@
 +++
 Title = "Feu Mourek"
-Linkedin = ""
+Linkedin = "https://www.linkedin.com/in/feu-mourek/"
 Website = ""
 Twitter = "the_feufeu"
 image = "feu-mourek.jpg"

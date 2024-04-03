@@ -1,8 +1,8 @@
 +++
 Title = "Heather Thacker"
-Linkedin = ""
+Linkedin = "https://www.linkedin.com/in/hhthacker/"
 Website = ""
-Twitter = ""
+Twitter = "hhthacker"
 image = "heather-thacker.png"
 type = "speaker"
 linktitle = "heather-thacker"

@@ -1,6 +1,6 @@
 +++
 Title = "JJ Asghar"
-Linkedin = ""
+Linkedin = "https://www.linkedin.com/in/jjasghar/"
 Website = ""
 Twitter = "jjasghar"
 image = "jj-asghar.jpg"
