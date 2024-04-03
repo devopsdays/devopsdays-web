@@ -14,7 +14,7 @@ ga_tracking_id: "G-TFWCP6ZZET" # If you have your own Google Analytics tracking 
 startdate: 2024-04-06T08:00:00-03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
 enddate: 2024-04-06T18:00:00-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
-cfp_open: "true"
+cfp_open: "false"
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2024-01-02T00:00:00-03:00 # start accepting talk proposals.
 cfp_date_end: 2024-02-11T23:59:59-03:00 # close your call for proposals.
@@ -22,11 +22,11 @@ cfp_date_announce: 2024-02-23T21:00:00-03:00 # inform proposers of status
 
 cfp_link: "https://talks.devopsdays.org/devopsdays-goiania-2024/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-# registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-# registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: 2024-01-08T08:00:00-03:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2024-04-05T23:59:59-03:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
-# registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-# registration_link: "https://www.sympla.com.br/devopsdays-goiania-2024__1836174" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://www.sympla.com.br/evento/devopsdays-goiania-2024/2292376" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -54,9 +54,9 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     icon: "calendar"
     url: /events/2024-goiania/program
 
-  # - name: palestrantes
-  #   icon: "microphone"
-  #   url: /events/2024-goiania/speakers
+  - name: palestrantes
+    icon: "microphone"
+    url: /events/2024-goiania/speakers
 
   - name: patrocínio
     icon: "money"
@@ -114,9 +114,15 @@ organizer_email: "goiania@devopsdays.org" # Put your organizer email address her
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: elastic
+    level: gold
+  - id: saveincloud
+    level: gold
   - id: aws-user-group-goiania
     level: community
   - id: devopsgo
+    level: community
+  - id: linuxtips
     level: community
   - id: override
     level: community
@@ -142,3 +148,97 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+
+program:
+  - title: "Credenciamento"
+    type: custom
+    date: 2024-04-06T08:00:00-03:00
+    start_time: "08:00"
+    end_time: "08:30"
+  - title: "Abertura"
+    type: custom
+    date: 2024-04-06T08:00:00-03:00
+    start_time: "08:30"
+    end_time: "09:00"
+    background_color: "#0082AB"
+  - title: "rafael-gomes"
+    type: talk
+    date: 2024-04-06T08:00:00-03:00
+    start_time: "09:00"
+    end_time: "09:30"
+    background_color: "#FF8300"
+  - title: "ruan-oliveira"
+    type: talk
+    date: 2024-04-06T08:00:00-03:00
+    start_time: "09:30"
+    end_time: "10:00"
+  - title: "camis-moreira"
+    type: talk
+    date: 2024-04-06T08:00:00-03:00
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Coffee Break"
+    type: custom
+    date: 2024-04-06T08:00:00-03:00
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "paloma-lataliza"
+    type: talk
+    date: 2024-04-06T08:00:00-03:00
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "andre-brandao"
+    type: talk
+    date: 2024-04-06T08:00:00-03:00
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch"
+    type: custom
+    date: 2024-04-06T08:00:00-03:00
+    start_time: "12:00"
+    end_time: "13:30"
+  - title: "Open Space"
+    type: open-space
+    date: 2024-04-06T08:00:00-03:00
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "joao-neto"
+    type: talk
+    date: 2024-04-06T08:00:00-03:00
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: "carlos-bezerra"
+    type: talk
+    date: 2024-04-06T08:00:00-03:00
+    start_time: "14:30"
+    end_time: "15:00"
+  - title: "raphael-moura"
+    type: talk
+    date: 2024-04-06T08:00:00-03:00
+    start_time: "15:00"
+    end_time: "15:30"
+  - title: "joao-brito"
+    type: talk
+    date: 2024-04-06T08:00:00-03:00
+    start_time: "15:30"
+    end_time: "16:00"
+  - title: "Coffee Break"
+    type: custom
+    date: 2024-04-06T08:00:00-03:00
+    start_time: "16:00"
+    end_time: "16:30"
+  - title: "salviano-ludgrio"
+    type: talk
+    date: 2024-04-06T08:00:00-03:00
+    start_time: "16:30"
+    end_time: "17:00"
+  - title: "wagner-alencar-da-silva"
+    type: talk
+    date: 2024-04-06T08:00:00-03:00
+    start_time: "17:00"
+    end_time: "17:30"
+  - title: "Encerramento"
+    type: custom
+    date: 2024-04-06T08:00:00-03:00
+    start_time: "17:30"
+    end_time: "18:00"

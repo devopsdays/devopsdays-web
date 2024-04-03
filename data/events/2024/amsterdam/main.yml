@@ -137,6 +137,8 @@ sponsors:
     level: gold
   - id: stackstate
     level: gold
+  - id: googlecloud
+    level: gold
   # Lanyard
   - id: schubergphilis
     level: lanyard
@@ -157,6 +159,8 @@ sponsors:
     level: silver
   # Bronze
   - id: devleaps
+    level: bronze
+  - id: atcomputing
     level: bronze
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link

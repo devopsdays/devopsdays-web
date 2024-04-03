@@ -16,6 +16,9 @@ slides = ""
 
 ### Workshop
 
+<strong>Room:</strong> “Seminar” / 1st floor 
+
+<strong>Abstract:</strong>
 Building on the success of last year's conference opening by former Googler and Psychological Safety consultant Laurence Kozera, and engineer-turned-leadership coach Arjanna van der Plas, this talk/workshop will explore the crucial role of fostering open conversations within the DevOps culture.
 
 How likely are you and your colleagues to say the following things during a meeting?
@@ -29,3 +32,9 @@ It’s safe to say that these phrases are too rarely heard in the workplace. And
 Building on the latest research and richly illustrated with real-life examples, Laurence and Arjanna will delve into how creating an environment where all voices are heard and valued is essential for success, emphasizing the importance of active listening as a key tool in nurturing inclusive workplaces.
 
 Join us for a hands-on session and discover how these principles can transform your DevOps team and drive positive change!
+
+<strong>Prerequisites for this workshop:</strong>
+No prerequisites, the workshop is most helpful for people who work in a team setting.
+
+<strong>Number of participants:</strong>
+20 participants max 

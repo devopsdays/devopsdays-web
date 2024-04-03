@@ -1,6 +1,6 @@
 +++
 Title = "Suzanne Lagerweij"
-Linkedin = ""
+Linkedin = "https://www.linkedin.com/in/suzannelagerweij/"
 Website = ""
 Twitter = "suzylagerweij"
 image = "suzanne-lagerweij.jpg"
