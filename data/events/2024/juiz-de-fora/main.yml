@@ -35,8 +35,8 @@ location: "UniAcademia"
 location_address: "R. Halfeld, 1179 - Centro, Juiz de Fora - MG, 36016-000" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  #- name: Chamadas (CFP)
-  #  url: https://www.papercall.io/devopsdaysjuizdefora2024
+  - name: Chamadas (CFP)
+    url: https://www.papercall.io/devopsdaysjuizdefora2024
   - name: local
   #- name: inscrição
   #  url: https://www.sympla.com.br/evento/devopsdays-juiz-de-fora-2024/1912369
