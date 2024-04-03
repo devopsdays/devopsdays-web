@@ -2,10 +2,8 @@
 - Title your pull request in this format: `[PLACE-YEAR] Brief description of the proposed change`. For example: `[CHI-2024] Add Bluth Company as a sponsor`
 - Remove _this default text_ from the PR description, and replace it with a summary of the changes (e.g. 'Added 10 new speakers, Added 6 sponsors, Added emojis to CFP page').
 
-*If you are adding or removing organizers, please email info@devopsdays.org with:*
-- The details of who is being added and removed. 
-- For members being added, please include the full names and email addresses of the new members.
+*If you are adding or removing organizers*, send an email to info@devopsdays.org with the full names, email addresses, and organizations the added/removed persons represent. (The global team uses this information to maintain your mailing list as well as the Slack.)
 
-The global team uses the above information to update Slack and the mailing list.
+Large files should go in https://github.com/devopsdays/devopsdays-assets/ . *If _this_ PR is related to an _assets_ PR*, please include a link to the latter.
 
 Up to date guidelines for pull requests can be found in the [contributing guide](https://github.com/devopsdays/devopsdays-web/blob/main/CONTRIBUTING.md#guidelines).

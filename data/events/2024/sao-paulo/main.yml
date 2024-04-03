@@ -292,4 +292,10 @@ sponsor_levels:
     label: Community
 
 sponsors:
+  - id: redhat
+    level: platinum
+  - id: thoughtworks
+    level: platinum
+  - id: elastic
+    level: gold
 program:

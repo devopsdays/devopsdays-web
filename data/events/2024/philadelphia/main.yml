@@ -34,7 +34,7 @@ location_address: "315 Chestnut St, Philadelphia, PA 19106"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: program
- # - name: speakers
+  - name: speakers
   - name: registration
  # - name: propose
   - name: sponsor
@@ -50,7 +50,7 @@ team_members: # Name is the only required field for team members.
   - name: "Peter Shannon"
     employer: "Instacart"
     role: "Lead Organizer"
-    twitter: "peterjshan"
+    linkedin: "http://linkedin.com/in/peterjshan"
   - name: "Sarah Gray"
     employer: "Comcast"
   - name: "Hilary Muludiang"
@@ -74,13 +74,18 @@ organizer_email: "philadelphia@devopsdays.org"
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: samplesponsorname
-    level: gold
   - id: appdynamics
     level: silver
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: portworx
+    level: silver
+  - id: redgate
+    level: silver
+  - id: observeinc
+    level: gold
   - id: arresteddevops
     level: community
+  - id: technically-philadelphia
+    level: media
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -91,11 +96,12 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Gold
-#    max: 10
   - id: silver
     label: Silver
     max: 0 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
+  - id: media
+    label: Media
   - id: community
     label: Community

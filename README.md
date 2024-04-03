@@ -5,7 +5,9 @@
 
 This is the repo for managing [devopsdays.org](http://www.devopsdays.org).
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/devopsdays/devopsdays-web)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/devopsdays/devopsdays-web)<br>
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/devopsdays/devopsdays-web)<br>
+(See [Using Codespaces](utilities/docs/using-codespaces/README.md) for more information)
 
 ## Managing your event content
 
