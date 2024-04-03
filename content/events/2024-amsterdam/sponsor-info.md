@@ -44,7 +44,7 @@ Please use the above email address for all pre-event contact. One of the organiz
 * May 20th: Last day to register your attendees and receive printed name badges
 * May 31st: Last day to order A/V equipment
 * June 13th: First day the venue accepts packages
-* June 19th: Set up your sponsor area for devopsdays
+* June 19th (after 13:00): Set up your sponsor area for devopsdays
 * June 20th-21st: devopsdays Amsterdam 2024!
 
 
@@ -62,7 +62,7 @@ We highly encourage using Amsterdam's public transportation system to get to and
 For transporting booth assets there is a parking garage located directly next to the venue, [APCOA Parking de Loodsen](https://maps.app.goo.gl/7SpfwhJnRHqswB5n9).
 
 ### <a name= 'Shipping'></a> Shipping
-You can ship your materials to our venue if needed. Please note however that materials cannot arrive before **June 13th** since our selected venue simply has not enough space to store items for a longer period. The organizers are **not** responsible if your materials show up before **June 13th**. Materials need to arrive at the venue no later than **June 18th**. Your setup day is June 19 (the workshop day of the event).
+You can ship your materials to our venue if needed. Please note however that materials cannot arrive before **June 13th** since our selected venue simply has not enough space to store items for a longer period. The organizers are **not** responsible if your materials show up before **June 13th**. Materials need to arrive at the venue no later than **June 18th**. Your setup day is June 19 after 13:00 (the workshop day of the event).
 
 **Note:** If you need to ship materials ahead of time to the conference please contact the devopsdays sponsorteam at [amsterdam@devopdays.org](mailto:amsterdam@devopdays.org).
 

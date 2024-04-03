@@ -1,8 +1,8 @@
 +++
 Title = "Christiaan Hees"
-Linkedin = ""
+Linkedin = "https://www.linkedin.com/in/christiaanhees/"
 Website = ""
-Twitter = ""
+Twitter = "https://twitter.com/christiaanhees"
 image = "christiaan-hees.jpeg"
 type = "speaker"
 linktitle = "christiaan-hees"

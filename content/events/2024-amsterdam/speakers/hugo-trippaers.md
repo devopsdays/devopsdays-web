@@ -1,6 +1,6 @@
 +++
 Title = "Hugo Trippaers"
-Linkedin = ""
+Linkedin = "https://www.linkedin.com/in/hugo-trippaers/"
 Website = ""
 Twitter = ""
 image = "hugo-trippaers.jpg"

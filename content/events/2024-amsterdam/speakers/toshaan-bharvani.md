@@ -1,6 +1,6 @@
 +++
 Title = "Toshaan Bharvani"
-Linkedin = ""
+Linkedin = "https://www.linkedin.com/in/toshaan/"
 Website = ""
 Twitter = "toshywoshy"
 image = "toshaan-bharvani.jpg"

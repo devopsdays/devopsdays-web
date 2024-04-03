@@ -1,8 +1,8 @@
 +++
 Title = "Luc van Donkersgoed"
-Linkedin = ""
-Website = ""
-Twitter = ""
+Linkedin = "https://www.linkedin.com/in/donkersgoed/"
+Website = "https://lucvandonkersgoed.com/"
+Twitter = "donkersgood"
 image = "luc-van-donkersgoed.jpg"
 type = "speaker"
 linktitle = "luc-van-donkersgoed"
