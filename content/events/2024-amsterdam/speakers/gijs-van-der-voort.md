@@ -1,6 +1,6 @@
 +++
 Title = "Gijs van der Voort"
-Linkedin = ""
+Linkedin = "https://www.linkedin.com/in/gijsvandervoort/"
 Website = ""
 Twitter = ""
 image = "gijs-van-der-voort.jpg"

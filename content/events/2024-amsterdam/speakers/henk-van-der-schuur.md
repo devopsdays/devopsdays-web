@@ -1,6 +1,6 @@
 +++
 Title = "Henk van der Schuur"
-Linkedin = ""
+Linkedin = "https://www.linkedin.com/in/hwschuur/"
 Website = ""
 Twitter = "hwschuur"
 image = "henk-van-der-schuur.jpg"

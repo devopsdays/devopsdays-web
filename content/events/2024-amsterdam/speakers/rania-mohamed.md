@@ -1,6 +1,6 @@
 +++
 Title = "Rania Mohamed"
-Linkedin = ""
+Linkedin = "https://www.linkedin.com/in/rania-mohamed-2272963/"
 Website = ""
 Twitter = ""
 image = "rania-mohamed.jpeg"

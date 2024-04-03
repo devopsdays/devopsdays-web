@@ -1,8 +1,8 @@
 +++
 Title = "Coté"
-Linkedin = ""
+Linkedin = "https://www.linkedin.com/in/michaelcote/"
 Website = ""
-Twitter = ""
+Twitter = "cote"
 image = "cote.jpg"
 type = "speaker"
 linktitle = "cote"

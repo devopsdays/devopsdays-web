@@ -1,6 +1,6 @@
 +++
 Title = "Eugene Romero"
-Linkedin = ""
+Linkedin = "https://www.linkedin.com/in/eugeneromero/"
 Website = ""
 Twitter = ""
 image = "eugene-romero.jpg"
