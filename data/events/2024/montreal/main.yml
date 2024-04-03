@@ -141,9 +141,11 @@ sponsors:
     level: bronze
   - id: desjardins
     level: coffee
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: spacelift
+    level: coffee
   - id: arresteddevops
     level: community
+ #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

@@ -161,7 +161,7 @@ program:
     start_time: "08:30"
     end_time: "09:00"
     background_color: "#0082AB"
-  - title: ""
+  - title: "rafael-gomes"
     type: talk
     date: 2024-04-06T08:00:00-03:00
     start_time: "09:00"

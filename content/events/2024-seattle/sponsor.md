@@ -4,7 +4,7 @@ Type = "event"
 Description = "Sponsor devopsdays seattle 2024"
 +++
 
-We greatly value sponsors for this community event. If you are interested in sponsoring, please email us at <a href="mailto:seattle@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Seattle%202024">email</a> - you can view the different levels below, or download our <a href="https://assets.devopsdays.org/events/2024/seattle/DevOpsDays-Seattle-2024-Sponsorship-Prospectus.pdf">2024 prospectus</a> for the full details. The 2024 event will be held at the Seattle Convention Center on {{< event_start >}} - {{< event_end >}}.
+We greatly value sponsors for this community event. If you are interested in sponsoring, please email us at <a href="mailto:sponsors@dodseattle.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Seattle%202024">email</a> - you can view the different levels below, or download our <a href="https://assets.devopsdays.org/events/2024/seattle/DevOpsDays-Seattle-2024-Sponsorship-Prospectus.pdf">2024 prospectus</a> for the full details. The 2024 event will be held at the Seattle Convention Center on {{< event_start >}} - {{< event_end >}}.
 
 <hr>
 
@@ -201,7 +201,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
           <br>
           <a href="mailto:seattle@devopsdays.org?subject=Interested%20in%20Sponsoring%20by%20other%20DevOpsDays%20Seattle%202024">Email us</a> if you prefer to pay by another method.
           <br>
-          <a href="mailto:seattle@devopsdays.org?subject=Interested%20in%20Community%20Sponsorship%20DevOpsDays%20Seattle%202022">Contact us</a>  if you have any other questions.
+          <a href="mailto:sponsors@dodseattle.org?subject=Interested%20in%20Community%20Sponsorship%20DevOpsDays%20Seattle%202022">Contact us</a>  if you have any other questions.
         </small>
       </td>
       <td></td>
