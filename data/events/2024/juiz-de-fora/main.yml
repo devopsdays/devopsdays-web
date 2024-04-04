@@ -20,8 +20,8 @@ enddate: 2024-07-06T18:00:00-03:00 # The end date of your event. Leave blank if 
 #-- cfp_date_end: 2024-04-03T02:59:00-03:00 # close your call for proposals.
 #-- cfp_date_announce: 2024-04-11T03:00:00-03:00 # inform proposers of status
 
-cfp_open: "false"
-#-- cfp_link: "https://www.papercall.io/devopsdaysjuizdefora2024"
+cfp_open: "true"
+cfp_link: "https://www.papercall.io/devopsdaysjuizdefora2024"
 
 #-- registration_date_start: 2024-07-31T00:00:00-03:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 #-- registration_date_end: 2024-11-05T23:59:59-03:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
@@ -35,8 +35,8 @@ location: "UniAcademia"
 location_address: "R. Halfeld, 1179 - Centro, Juiz de Fora - MG, 36016-000" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  #- name: Chamadas (CFP)
-  #  url: https://www.papercall.io/devopsdaysjuizdefora2024
+  - name: Chamadas (CFP)
+    url: https://www.papercall.io/devopsdaysjuizdefora2024
   - name: local
   #- name: inscrição
   #  url: https://www.sympla.com.br/evento/devopsdays-juiz-de-fora-2024/1912369
