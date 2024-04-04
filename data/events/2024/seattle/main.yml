@@ -68,6 +68,24 @@ organizer_email: "organizers@dodseattle.org" # Put your organizer email address 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+# Gold
+  - id: dragonfly
+    level: gold
+  - id: sentry
+    level: gold
+  - id: tigera
+    level: gold
+  - id: everbridge
+    level: gold
+  - id: macstadium
+    level: gold
+  - id: cloudbees
+    level: gold
+# Silver
+  - id: oracle
+    level: silver
+  # - id: codezero
+  #   level: silver
   - id: seattle-coffeeops
     level: community
   - id: seagl
@@ -86,6 +104,9 @@ sponsor_levels:
   - id: gold
     label: Gold
     max: 13
+  - id: silver
+    label: Silver
+    max: 30
   - id: community
     label: Community
 program:
