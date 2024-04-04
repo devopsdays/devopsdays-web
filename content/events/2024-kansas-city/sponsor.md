@@ -4,7 +4,7 @@ Type = "event"
 Description = "Sponsor DevOpsDays Kansas City 2024"
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please check out our <a href="https://docs.google.com/document/d/1i_QxtBFpT1xJn0M6Z3qPgM7BHq2QgxR2yRJNB0uNgOc" target="_blank">prospectus</a> or <a href="mailto:sponsors@devopsdayskc.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20KC%202024">drop us an email</a>.
+We greatly value sponsors for this open event.  If you are interested in sponsoring, please check out our <a href="https://docs.google.com/document/d/e/2PACX-1vSnwEBtIQhAvXEB_SX1iD16UJES_DNNGhmmw78VgvfuhBtl1NMjnTCLTC-IdljXyLRVoB5LGPM3OaSq/pub" target="_blank">prospectus</a> or <a href="mailto:sponsors@devopsdayskc.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20KC%202024">drop us an email</a>.
 <hr>
 
 DevOpsDays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
