@@ -180,7 +180,7 @@ All special sponsors will have their logo displayed on the DevOpsDays Kansas CIt
       <td>Make sure attendees are hydrated and have coffee</td>
       <td align="center">2</td>
     </tr>
-    <tr">
+    <tr>
       <td>Live transcription (incl 1 ticket)</td>
       <td align="center">$5,000</td>
       <td>Your logo by the screen where talks are transcribed</td>
