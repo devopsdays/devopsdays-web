@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "Speedrunning DevOps: What not to do in 5 minutes or less"
-Type = "ignite"
+Type = "talk"
 Speakers = ["laura-santamaria"]
 +++
 

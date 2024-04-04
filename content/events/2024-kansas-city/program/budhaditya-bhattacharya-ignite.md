@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "Three ways to accelerate your API platform maturity"
-Type = "ignite"
+Type = "talk"
 Speakers = ["budhaditya-bhattacharya"]
 +++
 

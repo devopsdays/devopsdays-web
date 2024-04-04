@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "Collaboration is more than a name change"
-Type = "ignite"
+Type = "talk"
 Speakers = ["curtis-blackthorne"]
 +++
 

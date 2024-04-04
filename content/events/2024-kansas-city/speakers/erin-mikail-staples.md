@@ -4,7 +4,7 @@ Twitter = "https://twitter.com/erinmikail"
 linkedin = "https://linkedin.com/in/erinmikail"
 Website = "https://erinmikailstaples.com"
 github = "https://github.com/erinmikailstaples"
-image = "erin-mikail-staples.erin"
+image = "erin-mikail-staples.jpg"
 type = "speaker"
 linktitle = "curtis-blackthorne"
 +++

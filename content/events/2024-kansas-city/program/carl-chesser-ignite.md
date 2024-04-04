@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "Diagramming as Code"
-Type = "ignite"
+Type = "talk"
 Speakers = ["carl-chesser"]
 +++
 
