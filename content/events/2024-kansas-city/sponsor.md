@@ -28,8 +28,8 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
   <tbody>
     <tr>
       <td>Price</td>
-      <td align="center"><strong>$12,000</strong><br/><em>2 available</em></td>
-      <td align="center"><strong>$9,000</strong><br/><em>6 available</em></td>
+      <td align="center"><strong>$10,000</strong><br/><em>2 available</em></td>
+      <td align="center"><strong>$8,000</strong><br/><em>6 available</em></td>
       <td align="center"><strong>$4,000</strong><br/><em>unlimited</em></td>
       <td align="center"><strong>Free</strong><br/><em>unlimited</em></td>
     </tr>
@@ -176,11 +176,11 @@ All special sponsors will have their logo displayed on the DevOpsDays Kansas CIt
     </tr>
     <tr>
       <td>Coffee/drink sponsor (incl 1 ticket)</td>
-      <td align="center">$3,500</td>
+      <td align="center">$1,500</td>
       <td>Make sure attendees are hydrated and have coffee</td>
       <td align="center">2</td>
     </tr>
-    <tr style="text-decoration:line-through;">
+    <tr">
       <td>Live transcription (incl 1 ticket)</td>
       <td align="center">$5,000</td>
       <td>Your logo by the screen where talks are transcribed</td>
@@ -188,7 +188,7 @@ All special sponsors will have their logo displayed on the DevOpsDays Kansas CIt
     </tr>
     <tr>
       <td>Breakfast sponsor (incl 1 ticket)</td>
-      <td align="center">$5,000</td>
+      <td align="center">$2,000</td>
       <td>Get the day started right for the attendees</td>
       <td align="center">2</td>
     </tr>
