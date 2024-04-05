@@ -108,7 +108,7 @@ The sponsor area will be set up to encourage people to hang out and enjoy coffee
 
 ### A/V Rental<a id="av_rental">
 
-A/V rental is available directly from the venue. All tables will have power and access to the shared wireless service. Anything else you require can be ordered <a href="https://scc.ungerboeck.net/prod/app85.cshtml?aat=344a35586768482f365a566d546773504e394958636a6869366637767a39524c6a4365594d71584a7266673d">here</a>.
+A/V rental is available directly from the venue. All tables will have power and access to the shared wireless service. Anything else you require can be ordered <a href="https://assets.devopsdays.org/events/2024/seattle/DevOpsDays_Exhibitor_Kit.pdf">here</a>.
 
 ### Lead Collection
 

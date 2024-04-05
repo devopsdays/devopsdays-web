@@ -25,14 +25,13 @@ Description = "DevOpsDays Vancouver 2024"
   </div>
   <div class="col-md-8">
     <div class="alert alert-secondary" role="alert">
-      <h4 class="alert-heading">CFP submission window is closed now</h4>
+      <h4 class="alert-heading">Tickets are now available!</h4>
       <p>
-        Thank you for your submissions, we've got a lot of great talks.</br>
-        In the next few weeks we are going to carefully go through all the submissions.
+        <strong>Two days</strong> of technical talks, food, drinks, an after party for networking and 🍻 awaits you in Vancouver.</br>
       </p>
-      <p>
-        {{< cfp_dates >}}
-      </p>
+      <h4>
+        <a href="https://www.eventbrite.ca/e/devopsdays-vancouver-2024-tickets-864784923987">Click here to Get your tickets</a>
+      </h4>
     </div>
     <div>
       <p>After a two year hiatus we are back in business.</p>

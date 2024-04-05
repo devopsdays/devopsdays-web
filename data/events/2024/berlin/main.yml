@@ -41,8 +41,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: propose
   - name: location
   - name: registration
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -73,7 +73,6 @@ team_members: # Name is the only required field for team members.
     twitter: "oseemann"
   - name: "Ralph Angenendt"
     mastodon: "https://toot.berlin/@der_mit_ph"
-    employer: "Scout24"
     github: "range"
     image: "ralph-angenendt.png"
   - name: "Ravi Yadav"
@@ -107,8 +106,13 @@ sponsors:
     level: platinum
   - id: jfrog
     level: platinum
+  - id: tigera
+    level: platinum
   - id: kubeevents
     level: partner
+  - id: stickermule
+    level: partner
+    url: https://mule.to/p68i
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -129,3 +133,179 @@ sponsor_levels:
   - id: partner
     label: Partner
     max: 3
+
+    
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2024-05-07
+    start_time: "08:30"
+    end_time: "09:30"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2024-05-07
+    start_time: "09:30"
+    end_time: "09:40"
+  - title: "anja-kunkel"
+    type: talk
+    date: 2024-05-07
+    start_time: "09:40"
+    end_time: "10:10"
+  - title: "schlomo-schapiro"
+    type: talk
+    date: 2024-05-07
+    start_time: "10:10"
+    end_time: "10:40"
+  - title: "Break"
+    type: custom
+    date: 2024-05-07
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "imran-noor-mohamed"
+    type: talk
+    date: 2024-05-07
+    start_time: "11:10"
+    end_time: "11:40"
+  - title: "Sponsors"
+    type: custom
+    date: 2024-05-07
+    start_time: "11:40"
+    end_time: "11:45"
+  - title: "fagani-hajizada"
+    type: talk
+    date: 2024-05-07
+    start_time: "11:45"
+    end_time: "12:15"
+  - title: "Open Space: Explained"
+    type: open-space
+    date: 2024-05-07
+    start_time: "12:15"
+    end_time: "12:45"
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2024-05-07
+    start_time: "12:45"
+    end_time: "14:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2024-05-07
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: "Open Space Topics"
+    type: open-space
+    date: 2024-05-07
+    start_time: "14:30"
+    end_time: "15:00"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2024-05-07
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2024-05-07
+    start_time: "16:00"
+    end_time:  "16:45"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2024-05-07
+    start_time: "17:00"
+    end_time: "17:45"
+  - title: "Evening event"
+    type: custom
+    date: 2024-05-07
+    start_time: "18:00"
+    end_time: "late"
+    comments: "To be Discussed / Announced"
+
+    # Day 2
+
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2024-05-08
+    start_time: "08:30"
+    end_time: "09:30"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2024-05-08
+    start_time: "09:30"
+    end_time: "09:40"
+  - title: "andreia-otto"
+    type: talk
+    date: 2024-05-08
+    start_time: "09:40"
+    end_time: "10:10"
+  - title: "timothy-mamo"
+    type: talk
+    date: 2024-05-08
+    start_time: "10:10"
+    end_time: "10:40"
+  - title: "Break"
+    type: custom
+    date: 2024-05-08
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "verena-traub"
+    type: talk
+    date: 2024-05-08
+    start_time: "11:10"
+    end_time: "11:40"
+  - title: "Sponsors"
+    type: custom
+    date: 2024-05-08
+    start_time: "11:40"
+    end_time: "11:45"
+  - title: "christina-kraus"
+    type: talk
+    date: 2024-05-08
+    start_time: "11:45"
+    end_time: "12:15"
+  - title: "Ignites"
+    type: ignite
+    date: 2024-05-08
+    start_time: "12:15"
+    end_time: "13:15"
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2024-05-08
+    start_time: "13:15"
+    end_time: "14:00"
+  - title: "Open Space Topics"
+    type: open-space
+    date: 2024-05-08
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2024-05-08
+    start_time: "14:30"
+    end_time: "15:15"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2024-05-08
+    start_time: "15:30"
+    end_time: "16:10"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2024-05-08
+    start_time: "16:30"
+    end_time: "17:00"
+ignites:
+  - title: "daiany-palacios"
+    date: 2024-05-07
+  - title: "olimpiu-pop"
+    date: 2024-05-07
+  - title: "azer-abdullaev"
+    date: 2024-05-07
+  - title: "to-be-announced-ignite"
+    date: 2024-05-07
+  - title: "arne-hattendorf"
+    date: 2024-05-08
+  - title: "aj"
+    date: 2024-05-08
+  - title: "bill-mulligan"
+    date: 2024-05-08
+  - title: "stephan-louis-mousset"
+    date: 2024-05-08
+  - title: "to-be-announced-ignite"
+    date: 2024-05-08

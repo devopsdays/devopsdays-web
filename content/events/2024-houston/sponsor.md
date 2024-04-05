@@ -152,9 +152,9 @@ at [{{< email_organizers >}}] if interested in this sponsorship tier.
     <dd>We will provide a table 6’x30” with a black tablecloth and a couple of chairs. You are welcome to bring your own tablecloth, table signs, rollup banners, etc. to decorate your space. Please also note that there will be no wall behind your table (to affix or lean anything against). 
 	<br/>
     <dt>What dates/times can we set up and tear down?</dt>
-    <dd>&lt; Details coming in May &rt;</dd>
+    <dd>&lt; Details coming in May &gt;</dd>
     <dt>How do we ship to the venue?</dt>
-    <dd>&lt; Details coming in May &rt;</dd>
+    <dd>&lt; Details coming in May &gt;</dd>
     <dt>What should we expect regarding electricity? (how much, any fees, etc)</dt>
     <dd>There are no fees. There are a number of power outlets along the walls of the room. However, we suggest that you bring a few extension cords, as there may not be enough power outlets or they may not be close enough to your table to be reachable by a laptop/monitor cable.</dd>
     <dt>What should we expect regarding WiFi? (how much, any fees, etc)</dt>
@@ -168,7 +168,7 @@ at [{{< email_organizers >}}] if interested in this sponsorship tier.
 	<dt>Does our team need to register upon arrival?</dt>
 	<dd>All attendees (including sponsors) must check-in at registration on the morning of the first day of the conference. </dd>
     <dt>How much dedicated time will sponsors have with the attendees?</dt>
-    <dd>The program is almost finalized, please check {{< event_link page="program" text="program" >}} for updates.</dd>
+    <dd>&lt; Details coming in May &gt;</dd>
     <dt>Can we bring small giveaways, stickers, mugs, pens, etc.?</dt>
     <dd>Of course.</dd>
     <dt>Can we raffle off stuff (Lego sets, gift cards, iPads, etc.)?</dt>

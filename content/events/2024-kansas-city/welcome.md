@@ -34,8 +34,11 @@ Description = "DevOpsDays Kansas City 2024 will take place May 15-16, 2024!"
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
-  <div class = "col-md-8">
+  <div class = "col-md-2">
     <a href="https://tickets.devopsdays.org/devopsdays-kansascity/2024/c/9X9kZg4vJ/">Register to attend the conference!</a>
+  </div>
+  <div class = "col-md-2">
+    <strong><a href="https://docs.google.com/document/d/e/2PACX-1vSDeTjAqu-KtzW3-2Hp-HvxxbBiSUjpUCxtN3mGjHd9IFcaSUDTBXuNI4RJ5Z9pabtB6YXPOm8MMGJ-/pub">Convince your boss!</a></strong>
   </div>
 </div>
 
@@ -48,23 +51,23 @@ Description = "DevOpsDays Kansas City 2024 will take place May 15-16, 2024!"
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
     View the {{< event_link page="program" text="program." >}}
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -104,6 +107,13 @@ Description = "DevOpsDays Kansas City 2024 will take place May 15-16, 2024!"
         <div class="d-flex p-2">
           <a class="btn btn-primary btn-block"
             style="margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;"
+            href="https://docs.google.com/document/d/e/2PACX-1vSDeTjAqu-KtzW3-2Hp-HvxxbBiSUjpUCxtN3mGjHd9IFcaSUDTBXuNI4RJ5Z9pabtB6YXPOm8MMGJ-/pub">
+            <i class="fa fa-keyboard fa-lg"></i>&nbsp;&nbsp;&nbsp;Convince your Boss!
+          </a>
+        </div>
+        <div class="d-flex p-2">
+          <a class="btn btn-primary btn-block"
+            style="margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;"
             href="/events/2024-kansas-city/contact">
             <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Contact the Organizers
           </a>
@@ -136,7 +146,7 @@ Description = "DevOpsDays Kansas City 2024 will take place May 15-16, 2024!"
             </ul>
             </p>
             <p>
-              Please contact the Organizers at [organizers@devopsdayskc.org] to let us know about any changes to your reservation.
+              Please contact the Organizers at <a href="mailto:organizers@devopsdayskc.org?subject=Changes%to%20my%20Reservation">organizers@devopsdayskc.org</a> to let us know about any changes to your reservation.
             </p>
         </div>
       </div>

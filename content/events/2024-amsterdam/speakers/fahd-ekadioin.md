@@ -1,8 +1,8 @@
 +++
 Title = "Fahd Ekadioin"
-Linkedin = ""
+Linkedin = "https://www.linkedin.com/in/fahdekadioin/"
 Website = ""
-Twitter = ""
+Twitter = "fahdekadioin"
 image = "fahd-ekadioin.jpg"
 type = "speaker"
 linktitle = "fahd-ekadioin"
