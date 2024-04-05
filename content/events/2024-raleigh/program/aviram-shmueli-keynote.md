@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Why IaC Scanners Alone Won’t Cut It and Welcoming Our AI Overlords"
 Type = "talk"
-Speakers = ["raz-probstein"]
+Speakers = ["aviram-shmueli"]
 +++
 
 The rapid adoption of Infrastructure-as-Code (IaC) in modern DevSecOps practices has brought with it a much-needed way to secure our as-code infrastructure configurations–both from human error and misconfigurations, known vulnerabilities, and even exposures due to poor IAM and GitOps practices.
