@@ -59,8 +59,14 @@ organizer_email: "vancouver@devopsdays.org" # Put your organizer email address h
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-#   - id: samplesponsorname
-#     level: gold
+  - id: sada
+    level: silver
+  - id: codezero
+    level: silver
+  - id: grafana
+    level: bronze
+  - id: grafana
+    level: coffee
 #  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 #   - id: arresteddevops
 #     level: community
@@ -93,12 +99,14 @@ program:
     start_time: "09:00"
     end_time: "09:15"
   - title: "Federico Fregosi (He/Him): The Reality of porting Kubernetes apps across cloud providers"
-    type: talk
+    type: custom
+    background_color: "#abebff"
     date: 2024-05-17T00:00:00-08:00
     start_time: "09:15"
     end_time: "09:45"
   - title: "Kat Gaines (she/her/hers): Documenting Failure: How to Get Incident Communication Right"
-    type: talk
+    type: custom
+    background_color: "#abebff"
     date: 2024-05-17T00:00:00-08:00
     start_time: "09:45"
     end_time: "10:15"
@@ -113,12 +121,14 @@ program:
     start_time: "10:20"
     end_time: "10:30"
   - title: "Talk 3 - Boris Kurktchiev (he/him): Zero Trust in Practice with Istio and Kyverno"
-    type: talk
+    type: custom
+    background_color: "#abebff"
     date: 2024-05-17T00:00:00-08:00
     start_time: "10:30"
     end_time: "11:00"
   - title: "Caleb Schoepp (he/him): What Actually Is WebAssembly: Taking a Look Under the Hood"
-    type: talk
+    type: custom
+    background_color: "#abebff"
     date: 2024-05-17T00:00:00-08:00
     start_time: "11:00"
     end_time: "11:30"
@@ -133,7 +143,8 @@ program:
     start_time: "12:15"
     end_time: "13:00"
   - title: "Dwayne McDaniel (He/Him): Who Goes There? Actively Detecting Intruders With Cyber Deception Tools"
-    type: talk
+    type: custom
+    background_color: "#abebff"
     date: 2024-05-17T00:00:00-08:00
     start_time: "13:00"
     end_time: "13:30"
@@ -173,12 +184,14 @@ program:
     start_time: "09:00"
     end_time: "09:15"
   - title: "Oleksandr Zadorozhnyi (he/his): Scaling beyond Kubernetes"
-    type: talk
+    type: custom
+    background_color: "#abebff"
     date: 2024-05-18T23:59:59-08:00
     start_time: "09:15"
     end_time: "09:45"
   - title: "Zoe Steinkamp (Zoe): A 101 in time series analytics with Apache Arrow, Pandas and Parquet"
-    type: talk
+    type: custom
+    background_color: "#abebff"
     date: 2024-05-18T23:59:59-08:00
     start_time: "09:45"
     end_time: "10:15"
@@ -193,12 +206,14 @@ program:
     start_time: "10:20"
     end_time: "10:30"
   - title: "Henry Prêcheur (no pronouns): MacOS Nodes in Kubernetes: Development, Deployment, and Operation"
-    type: talk
+    type: custom
+    background_color: "#abebff"
     date: 2024-05-18T23:59:59-08:00
     start_time: "10:30"
     end_time: "11:00"
   - title: "Ming Yu Wang (She/Her): How to Optimize Java Workloads in the Cloud Era"
-    type: talk
+    type: custom
+    background_color: "#abebff"
     date: 2024-05-18T23:59:59-08:00
     start_time: "11:00"
     end_time: "11:30"
