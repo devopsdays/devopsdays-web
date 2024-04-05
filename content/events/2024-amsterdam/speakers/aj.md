@@ -1,6 +1,6 @@
 +++
 Title = "AJ"
-Linkedin = ""
+Linkedin = "https://www.linkedin.com/in/aj-jester/"
 Website = ""
 Twitter = ""
 image = "aj.jpg"

@@ -1,6 +1,6 @@
 +++
 Title = "Mike Kotsur"
-Linkedin = ""
+Linkedin = "https://www.linkedin.com/in/mkotsur/"
 Website = ""
 Twitter = ""
 image = "mike-kotsur.jpg"

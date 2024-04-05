@@ -1,6 +1,7 @@
 +++
 Title = "Gerald Benischke"
-Linkedin = ""
+Linkedin = "https://www.linkedin.com/in/gerald-benischke-9811b663/"
+Mastodon = "https://infosec.exchange/@beny23"
 Website = ""
 Twitter = ""
 image = "gerald-benischke.jpg"

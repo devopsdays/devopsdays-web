@@ -1,6 +1,6 @@
 +++
 Title = "Sjoerd Westerhof"
-Linkedin = ""
+Linkedin = "https://www.linkedin.com/in/sjoerd-westerhof-45049920/"
 Website = ""
 Twitter = ""
 image = "sjoerd-westerhof.png"

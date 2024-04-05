@@ -1,8 +1,8 @@
 +++
 Title = "Robin Gilijamse"
-Linkedin = ""
+Linkedin = "https://www.linkedin.com/in/robingilijamse/"
 Website = ""
-Twitter = ""
+Twitter = "RobinGilijamse"
 image = "robin-gilijamse.jpg"
 type = "speaker"
 linktitle = "robin-gilijamse"

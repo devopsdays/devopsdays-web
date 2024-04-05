@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "You say you can exit vim, have you ever tried exiting `ed` instead?"
-Type = "ignite"
+Type = "talk"
 Speakers = ["jj-asghar"]
 +++
 

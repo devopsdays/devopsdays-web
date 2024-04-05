@@ -1,8 +1,9 @@
 +++
 Title = "Kenny Baas-Schwegler"
-Linkedin = ""
-Website = ""
-Twitter = ""
+Linkedin = "https://www.linkedin.com/in/kenny-baas/"
+Website = "https://weave-it.org/"
+Mastodon = "https://mastodon.social/@kenny_baas"
+Twitter = "kenny_baas"
 image = "kenny-baas-schwegler.png"
 type = "speaker"
 linktitle = "kenny-baas-schwegler"

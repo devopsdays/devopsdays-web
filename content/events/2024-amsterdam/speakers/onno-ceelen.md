@@ -1,6 +1,6 @@
 +++
 Title = "Onno Ceelen"
-Linkedin = ""
+Linkedin = "https://www.linkedin.com/in/onnoceelen/"
 Website = ""
 Twitter = ""
 image = "onno-ceelen.jpg"

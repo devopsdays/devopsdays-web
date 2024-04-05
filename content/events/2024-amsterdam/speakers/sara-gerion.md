@@ -1,7 +1,7 @@
 +++
 Title = "Sara Gerion"
-Linkedin = ""
-Website = ""
+Linkedin = "https://www.linkedin.com/in/sara-gerion/"
+Website = "https://www.shesharp.co/"
 Twitter = ""
 image = "sara-gerion.jpg"
 type = "speaker"

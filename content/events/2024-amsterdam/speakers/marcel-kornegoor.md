@@ -1,6 +1,6 @@
 +++
 Title = "Marcel Kornegoor"
-Linkedin = ""
+Linkedin = "https://www.linkedin.com/in/mkornegoor/"
 Website = ""
 Twitter = ""
 image = "marcel-kornegoor.png"

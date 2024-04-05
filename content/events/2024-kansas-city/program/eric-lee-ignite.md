@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "Dealing with Layoffs"
-Type = "ignite"
+Type = "talk"
 Speakers = ["eric-lee"]
 +++
 
