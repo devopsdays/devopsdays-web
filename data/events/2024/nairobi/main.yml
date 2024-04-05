@@ -29,7 +29,7 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 # Location
 #
 coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Nairobi" # Defaults to city, but you can make it the venue name.
+location: "Strathmore University, Nairobi" # Defaults to city, but you can make it the venue name.
 #
 location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
