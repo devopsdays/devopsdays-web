@@ -216,31 +216,37 @@ program:
     date: 2024-05-18T23:59:59-08:00
     start_time: "13:00"
     end_time: "13:05"
+    block: ignite-2
   - title: "Dan phrawzty Maher (he/him/his): The Open Source Baggage We Carry"
     type: ignite
     date: 2024-05-18T23:59:59-08:00
     start_time: "13:00"
     end_time: "13:05"
+    block: ignite-2
   - title: "Ayesha Bhutto	(she/her): Power Tools to Hammer through Conversations"
     type: ignite
     date: 2024-05-18T23:59:59-08:00
     start_time: "13:05"
     end_time: "13:10"
+    block: ignite-2
   - title: "Henry Prêcheur (no pronouns): Cloud API comparison: Amazon, Google, Microsoft, and Oracle"
     type: ignite
     date: 2024-05-18T23:59:59-08:00
     start_time: "13:10"
     end_time: "13:15"
+    block: ignite-2
   - title: "Matti Ranta (he/him): Forget Databases and Application Code, All You Need Is Git"
     type: ignite
     date: 2024-05-18T23:59:59-08:00
     start_time: "13:15"
     end_time: "13:20"
+    block: ignite-2
   - title: "Taylor Stacey (he/him): The Push and Pull of Shipping Software"
     type: ignite
     date: 2024-05-18T23:59:59-08:00
     start_time: "13:25"
     end_time: "13:30"
+    block: ignite-2
   - title: "Open Space Slot #4"
     type: custom
     date: 2024-05-18T23:59:59-08:00
