@@ -37,6 +37,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: sponsor
   - name: contact
   - name: conduct
+  - name: program
 
 
 # These are the same people you have on the mailing list and Slack channel.
