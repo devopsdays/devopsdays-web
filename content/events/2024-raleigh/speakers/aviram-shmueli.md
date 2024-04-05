@@ -1,6 +1,6 @@
 +++
 Title = "Aviram Shmueli"
-Twitter = "AutomationPanda"
+Twitter = "aviramsh"
 linkedin = "https://www.linkedin.com/in/aviramshmueli/"
 image = "aviram-shmueli.jpg"
 type = "speaker"
