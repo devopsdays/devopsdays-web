@@ -5,24 +5,56 @@ Description = "Code of conduct for devopsdays Ghent 2024"
 +++
 
 
-All attendees, speakers, sponsors, and volunteers at devopsdays Ghent 2024 are required to agree with the following code of conduct. Organizers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensure a safe environment for everybody.
+### Purpose
+The organizers of devopsdays Belgium are committed to enabling an event at which everyone can participate in an inclusive, respectful and safe environment. All participants are expected to behave with integrity and respect towards all participants attending or involved with devopsdays Belgium.
 
-### The Quick Version
+### Scope / Applicability 
+The Code of Conduct applies to all devopsdays Belgium events which includes conferences, workshops, meetups, social events and any other event organized by devopsdays Belgium. 
 
-Our conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter, and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.
+The Code of Conduct applies to all participants at a devopsdays Belgium event. Including attendees, speakers, sponsors, volunteers, organizers and guests.
 
-### The Less Quick Version
+### Report contact details
+Our Code of Conduct team members are:
+- To be determined
 
-Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion, technology choices, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. Participants asked to stop any harassing behavior are expected to comply immediately.
+Our Code of Conduct team is available during all official events, including the speaker dinner and the social event(s), and stays sober throughout all events.
 
-Sponsors are also subject to the anti-harassment policy. In particular, sponsors should not use sexualized images, activities, or other material. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.
+### Our standards & values
+Inclusiveness and respect for differences are core DevOps values, and we invite you to help us make this event a place that is welcoming and respectful to all participants. Examples of behavior that contributes to a positive environment for our community include:
 
-If a participant engages in harassing behavior, the conference organizers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.
+- Demonstrating empathy and kindness toward other people;
+- Being respectful of differing opinions, viewpoints, and experiences;
+- Giving and gracefully accepting constructive feedback;
+- Accepting responsibility and apologizing to those affected by our mistakes, and learning from the experience;
+- Focusing on what is best not just for us as individuals, but for the overall community.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately.
+Don't judge and make assumptions just because someone is different whether in some visible way or in their lived experience. We ask everybody to treat each other with respect.
 
-Conference staff can be identified by distinct staff badges. Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
+### Prohibited conduct
+Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion, technology choices, or the choice to wear a protective face mask.
+Examples of unacceptable behavior include:
+- The use of sexualized language, imagery, or clothing, and sexual attention or advances of any kind;
+- Unwelcome touching, including pinching, patting, rubbing or purposefully brushing up against a person;
+- Rating a person’s appearance on a scale of 1-10;
+- Trolling, insulting or derogatory comments, and personal or political attacks;
+- Sustained disruption of talks or other events;
+- Publishing others’ private information, such as a physical or email address, without their explicit permission;
+- Other conduct which could reasonably be considered inappropriate in a professional setting.
 
-We expect participants to follow these rules at conference and workshop venues and conference-related social events.
+Participants asked to stop any harassing behavior are expected to comply immediately.
 
-_The devopsdays Ghent 2024 Code of Conduct is based on [confcodeofconduct.com](https://confcodeofconduct.com)._ 
+### Complaint process
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the conference staff or Code of Conduct team immediately. Conference staff can be identified by distinct staff badges. If a participant engages in harassing behavior, the conference organizers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.
+
+Examples of appropriate action may include, but are not limited to: 
+- Undertaking a fact-finding exercise; 
+- Requesting the offender to immediately stop the offending behavior; 
+- Suspending or terminating the offender’s access to the event;
+- Conveying the complaint to any investigative or disciplinary authority with jurisdiction over the person accused of harassment; 
+- Contacting the offender’s employer for appropriate follow-up action.
+
+We’re happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
+
+### Attribution
+The devopsdays Belgium 2024 Code of Conduct is based on the [Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct.html), version 2.1, and the [UN Code of Conduct](https://indico.un.org/static/plugins/un/assets/un-code-of-conduct.pdf).
+
