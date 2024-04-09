@@ -108,9 +108,13 @@ sponsors:
   # gold sponsors
   - id: cloudsmith
     level: gold
+  - id: elastic
+    level: gold
   # silver sponsors
   # bronze sponsors
   - id: commify
+    level: bronze
+  - id: github
     level: bronze
   # community sponsors
 
