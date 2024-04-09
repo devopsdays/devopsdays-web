@@ -11,8 +11,9 @@ Description = "devopsdays Baltimore 2024"
   </div>
   <div class = "row justify-content-center">
     <h2><p>DevOpsDays Baltimore 2024 Has Been Canceled</p></h2>
-    <br>
-      <p>Bottom Line, Up Front:</p>
+  </div>
+  <div>
+    <h4><p>Bottom Line, Up Front:</p></h4>
       <ul>
         <li>We're cancelling DevOpsDays Baltimore 2024</li>
         <li>All tickets and sponsorships will be refunded in full</li>
