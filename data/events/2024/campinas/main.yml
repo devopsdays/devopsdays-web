@@ -111,6 +111,14 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/rennerocha/"
     website: "https://rennerocha.com/"
 
+  - name: "Julia Katharine Teixeira Silva dos Santos"
+    employer: "CI&T"
+    role: "Site Reliability Engineering"
+    bio: "Site Reliability Engineering na CI&T com foco em observabilidade e monitoramento. Granduanda do ultimo semestre do curso de Analise e Desenvolvimento de Sistemas da FATEC."
+    image: "julia.jpeg"
+    email: "maiajuliadev@gmail.com"
+    linkedin: "https://www.linkedin.com/in/julia-santos22/"
+
 organizer_email: "campinas@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
