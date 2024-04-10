@@ -60,7 +60,7 @@ team_members: # Name is the only required field for team members.
   - name: "Mercyline Nyansarola"
     github: "MercylineMochama"
     linkedin: "https://www.linkedin.com/in/mercyline-nyansarola/"
-    image: "mercyline-nyasarola.jpg"
+    image: "mercyline-nyansarola.jpg"
   - name: "Emma Gachoki"
     github: "elsie-dev"
     linkedin: "https://www.linkedin.com/in/emma-nyakio/"
