@@ -18,6 +18,9 @@ Description = "Location for devopsdayss Tampa Bay 2024"
             &nbsp; Purchase a Ticket</a>
         </div> -->
         <div class="p-2">
+          <a class="btn btn-secondary btn-block" href="https://sessionize.com/devopsdays-tampa-bay-2024"> <i class="fa fa-microphone"></i>&nbsp;&nbsp;&nbsp;Propose a Talk</a>
+        </div>
+        <div class="p-2">
           <a class="btn btn-secondary btn-block" href="/events/2024-tampa/sponsor"> <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference</a>
         </div>
         <div class="p-2">
