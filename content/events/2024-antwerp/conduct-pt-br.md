@@ -1,11 +1,11 @@
 +++
 Title = "Conduta"
 Type = "event"
-Description = "Código de conduta do devopsdays Ghent 2024"
+Description = "Código de conduta do devopsdays Antwerp 2024"
 +++
 
 
-Participantes, palestrantes, representantes de empresas e pessoas voluntárias no devopsdays Ghent 2024 são requeridos a concordar com o seguinte código de conduta. A organização irá aplicar este código pelo evento. Nós esperamos cooperação de todas as pessoas participando para garantir um ambiente seguro para todas as pessoas.
+Participantes, palestrantes, representantes de empresas e pessoas voluntárias no devopsdays Antwerp 2024 são requeridos a concordar com o seguinte código de conduta. A organização irá aplicar este código pelo evento. Nós esperamos cooperação de todas as pessoas participando para garantir um ambiente seguro para todas as pessoas.
 
 ### A versão rápida
 
@@ -25,4 +25,4 @@ As pessoas da equipe da conferência podem ser identificadas por crachás distin
 
 Esperamos que todas as pessoas participantes sigam estas regras em salas de apresentação e workshops da conferência, além de eventos sociais relacionados.
 
-_O código de conduta do devopsdays Ghent 2024 é baseado em [confcodeofconduct.com](https://confcodeofconduct.com/index-pt-br.html)._
+_O código de conduta do devopsdays Antwerp 2024 é baseado em [confcodeofconduct.com](https://confcodeofconduct.com/index-pt-br.html)._
