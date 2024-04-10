@@ -1,8 +1,8 @@
-name: "2024-ghent" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+name: "2024-antwerp" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2024" # The year of the event. Make sure it is in quotes.
-city: "15 year anniversary celebration : Ghent (Antwerp)" # The displayed city name of the event. Capitalize it.
+city: "15 year anniversary celebration: Antwerp" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysghent" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "Devopsdays is coming to Ghent-East aka Antwerp! We are bringing devopsdays back to the venue where it all started; the venue where we got the idea for the event" # Edit this to suit your preferences
+description: "Devopsdays is coming to Antwerp! We are bringing devopsdays back to the country where it all started; where we got the idea for Devopsdays!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2024-MM-DDTHH:MM:SS+TZ:TZ, like this:
@@ -29,7 +29,7 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 # Location
 #
 coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Ghent" # Defaults to city, but you can make it the venue name.
+location: "Antwerp" # Defaults to city, but you can make it the venue name.
 #
 location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
