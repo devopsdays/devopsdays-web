@@ -62,7 +62,7 @@ team_members: # Name is the only required field for team members.
     image: "paloma.jpeg"
 
   - name: "Rafaela Vidotti"
-    employer: "Project Manager at Bid Broke"
+    employer: "DevOps Coordinator at Nuria"
     linkedin: "https://www.linkedin.com/in/rafaelavidotti/"
     bio:  "Segunda mulher a formar em Redes de Computadores na Universidade Fumec, Atuei 7 anos como analista de Infraestrutura de TI em demandas nacionais e internacionais. Certificada AWS, em transição para Cloud atuei como Gerente de Projetos em uma Startup, e atualmente sou Coordenadora Devops em uma Health Tech. Líder da AWSUGMG, Founder Mulheres na Nuvem MG, Organizadora do primeiro AWSomeWomenCommunity Summit Brasil. TikToker de Dancinhas e Infraestutura de TI que ama fugir de um padrão, luta diariamente por mais mulheres no ambiente, e para desmistificar “essa tal de TI “ para todos."
     image: "rafaela.jpeg"
