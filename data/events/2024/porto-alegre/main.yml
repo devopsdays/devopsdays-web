@@ -61,7 +61,6 @@ team_members: # Name is the only required field for team members.
 
   - name: Augusto Sopelsa Klaic
     role: Desenvolvedor de software backend
-    email: gutosopelsa@hotmail.com
     twitter: https://twitter.com/augustosopelsa
     github: https://github.com/AugustoKlaic
     linkedin: https://www.linkedin.com/in/augusto-sopelsa-klaic
@@ -76,13 +75,11 @@ team_members: # Name is the only required field for team members.
     image: camilla-martins.jpg
 
   - name: Gabriela Moraes
-    email: gabriela.omoraes@gmail.com
     linkedin: https://www.linkedin.com/in/gabrielaomoraes/
     image: gabriela-moraes.jpeg
 
   - name: Lucas Mello
     role: Automation Engineer na SAP
-    email: contato@lbmello.net.br
     github: https://github.com/lbmello
     linkedin: https://linkedin.com/in/lbmello
     image: lucas-mello.jpeg
@@ -98,7 +95,6 @@ team_members: # Name is the only required field for team members.
     image: "marco-junior.jpg"
 
   - name: "Rafael Brito Gomes"
-    email: "gomex@devopsdays.org"
     pronouns: "ele/dele"
     role: ""
     employer: "DNSFilter"
@@ -115,7 +111,6 @@ team_members: # Name is the only required field for team members.
     role: "DevOps Engineer"
     twitter: "RaphaNBorges"
     bio: "Criador e mantenedor do projeto OKE-FREE: Uma maneira fácil de garantir seu próprio cluster Kubernetes gratuitamente e para sempre na Oracle Cloud Infrastructure (OCI) utilizando OpenTofu. Expert em Container e Kubernetes pelo Programa Intensivo em Containers e Kubernetes (PICK) da Linuxtips. Coautor do livro 'Descomplicando Kubernetes'."
-    email: "raphael@r11s.com.br"
     github: "https://github.com/Rapha-Borges"
     linkedin: "https://www.linkedin.com/in/raphael-do-nascimento-borges/"
     website: "https://r11s.com.br/"
@@ -123,12 +118,10 @@ team_members: # Name is the only required field for team members.
 
   - name: Rodrigo Ervella da Fonseca
     role: Analista DevSecOps
-    email: ervella5@gmail.com
     linkedin: https://www.linkedin.com/in/rodrigo-ervella-da-fonseca/
     image: rodrigo-ervella.jpeg
 
   - name: Vinicius Ingracio
-    email: viniciusingracio@gmail.com
     github: https://github.com/viniciusingracio
     linkedin: https://www.linkedin.com/in/viniciusingracio/
     image: vinicius-ingracio.jpeg
