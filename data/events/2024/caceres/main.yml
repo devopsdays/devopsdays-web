@@ -67,6 +67,12 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/raulbordallo/"
     image: raul.jpg
 
+  - name: "Daniel Castañera Garrido"
+    twitter: "guldoe"
+    github: "guldoe"
+    linkedin: "https://www.linkedin.com/in/danielcg/"
+    image: daniel.jpg
+
   - name: "Francisco José Hermoso Baños"
     twitter: "fcohermoso"
     github: "fcohermoso"
