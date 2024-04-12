@@ -141,12 +141,10 @@ sponsors:
     #level:
 
 # Silver
- #- id:
-    #level:
+- id: codepusher
+  level: silver
 
 # Bronze
-- id: chip&cia
-  level: bronze
 - id: grafanalabs
   level: bronze  
 

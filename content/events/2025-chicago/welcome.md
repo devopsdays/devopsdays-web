@@ -11,11 +11,10 @@ Description = "devopsdays Chicago 2025"
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Dates</strong>
+    <strong>Date</strong>
   </div>
   <div class = "col-md-8">
-    <!-- {{< event_start >}} - {{< event_end >}} -->
-    TBD 2024!
+    {{< event_start >}}
   </div>
 </div>
 
