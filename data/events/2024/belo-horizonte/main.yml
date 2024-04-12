@@ -81,7 +81,7 @@ team_members: # Name is the only required field for team members.
 
   - name: "Jéssica Coelho"
     employer: "Platform DB Engineer - @MCSA SQL Server"
-    bio: "Especialista em Dados com mais de 10 anos de experiência, MCSA em SQL Server e Azure, Cloud DBA em Azure e AWS e configuração e manutenção para Redshift Clusters.Atualmente atua como consultora de dados, com foco em performance e disponibilidade de ambientes críticos, engenharia e ciência de Dados.Professora de MBA na XP-Educação nos Cursos de Data Engineering e Banco de Dados e AWS Community Builder.
+    bio: "Especialista em Dados com mais de 10 anos de experiência, MCSA em SQL Server e Azure, Cloud DBA em Azure e AWS e configuração e manutenção para Redshift Clusters. Atualmente atua como consultora de dados, com foco em performance e disponibilidade de ambientes críticos, engenharia e ciência de Dados. Professora de MBA nos Cursos de Data Engineering e Banco de Dados e AWS Community Builder.
     Palestrante e host do PodCast de Dados Data Talks Brasil, disponível no Youtube e Spotify."
     linkedin: "https://www.linkedin.com/in/jessicaccoelho/"
     image: "jessica.jpeg"    
