@@ -58,12 +58,73 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
-  - name: Gabriela Moraes
-  - name: Raphael Borges
+
   - name: Augusto Sopelsa Klaic
-  - name: Rodrigo Ervella
-  - name: Vinicius Ingracio
+    role: Desenvolvedor de software backend
+    twitter: https://twitter.com/augustosopelsa
+    github: https://github.com/AugustoKlaic
+    linkedin: https://www.linkedin.com/in/augusto-sopelsa-klaic
+    image: augusto-klaic.jpeg
+  
+  - name: Cami Martins
+    employer: Storyblok
+    twitter: https://twitter.com/punkdodevops
+    github: https://github.com/camilla-m
+    linkedin: https://www.linkedin.com/in/camilla-martins-603344115/
+    website: https://punkdodevops.com/
+    image: camilla-martins.jpg
+
+  - name: Gabriela Moraes
+    linkedin: https://www.linkedin.com/in/gabrielaomoraes/
+    image: gabriela-moraes.jpeg
+
   - name: Lucas Mello
+    role: Automation Engineer na SAP
+    github: https://github.com/lbmello
+    linkedin: https://linkedin.com/in/lbmello
+    image: lucas-mello.jpeg
+
+  - name: "Marco Antonio Martins Junior (Somatório)"
+    employer: "Wunderman Thompson Commerce & Technology"
+    twitter: "somatorio"
+    github: "somatorio"
+    facebook: "https://facebook.com/osomatorio"
+    linkedin: "https://www.linkedin.com/in/somatorio/"
+    website: "http://somatorio.org"
+    bio: "Peão as a Service, entusiasta da cultura DevOps, organizador do meetup DevOps/SRE Porto Alegre, Docker community leader (Porto Alegre), fuçador convicto, roda praticamente tudo em containers, jogador noob sempre que posso."
+    image: "marco-junior.jpg"
+
+  - name: "Rafael Brito Gomes"
+    pronouns: "ele/dele"
+    role: ""
+    employer: "DNSFilter"
+    bio: ""
+    github: "https://github.com/gomex"
+    facebook: ""
+    twitter: "https://twitter.com/gomex"
+    linkedin: ""
+    website: "https://gomex.me"
+    mastodon: ""
+    image: "rafael-gomes.jpg"
+
+  - name: Raphael Borges
+    role: "DevOps Engineer"
+    twitter: "RaphaNBorges"
+    bio: "Criador e mantenedor do projeto OKE-FREE: Uma maneira fácil de garantir seu próprio cluster Kubernetes gratuitamente e para sempre na Oracle Cloud Infrastructure (OCI) utilizando OpenTofu. Expert em Container e Kubernetes pelo Programa Intensivo em Containers e Kubernetes (PICK) da Linuxtips. Coautor do livro 'Descomplicando Kubernetes'."
+    github: "https://github.com/Rapha-Borges"
+    linkedin: "https://www.linkedin.com/in/raphael-do-nascimento-borges/"
+    website: "https://r11s.com.br/"
+    image: "raphael.jpg"
+
+  - name: Rodrigo Ervella da Fonseca
+    role: Analista DevSecOps
+    linkedin: https://www.linkedin.com/in/rodrigo-ervella-da-fonseca/
+    image: rodrigo-ervella.jpeg
+
+  - name: Vinicius Ingracio
+    github: https://github.com/viniciusingracio
+    linkedin: https://www.linkedin.com/in/viniciusingracio/
+    image: vinicius-ingracio.jpeg
 
 organizer_email: "porto-alegre@devopsdays.org" # Put your organizer email address here
 
