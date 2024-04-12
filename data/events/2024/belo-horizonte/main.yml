@@ -40,7 +40,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: registration
  # - name: program
  # - name: speakers
-  - name: sponsor
+  - name: patrocínio
   - name: organizadores
   - name: código de conduta
     url: /events/2024-belo-horizonte/conduta 
