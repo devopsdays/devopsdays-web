@@ -27,7 +27,7 @@ Description = "devopsdays Belo Horizonte 2024"
   flex-grow: 1;
 }
 .mtl .showcase img {
-  max-width: 650px;
+  max-width: 480px;
 }
 .mtl .showcase button {
   color: #fff;
@@ -60,7 +60,7 @@ Description = "devopsdays Belo Horizonte 2024"
   }
   .mtl .showcase img {
     margin: 0;
-    width: 300%;
+    max-width: 350px;
   }
 }
 
