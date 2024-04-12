@@ -17,8 +17,8 @@ cfp_date_start: "2024-04-01" # start accepting talk proposals.
 cfp_date_end: "2024-07-01" # close your call for proposals.
 cfp_date_announce: "" # inform proposers of status
 
-cfp_open: "false"
-# cfp_link: "https://sessionize.com/devopsdays-tampa-bay-2024/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_open: "true"
+cfp_link: "https://sessionize.com/devops-days-tampa-bay-2024/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 #cfp_link: ""
 
 registration_date_start: "2024-05-01"# start accepting registration. Leave blank if registration is not open yet
@@ -40,12 +40,14 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
     icon: "map-o"
     url: /events/2024-tampa/location
+  - name: propose
 #  - name: registration
 #  - name: program
 #  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
+   
 #  - name: contributers
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -103,8 +105,7 @@ sponsors:
   - id: tampagai
     level: community
 
-
-    
+ 
 #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 # - id: arresteddevops
 #  level: community
