@@ -83,8 +83,8 @@ team_members: # Name is the only required field for team members.
   - name: Lucas Mello
     role: Automation Engineer na SAP
     email: contato@lbmello.net.br
-    github: github.com/lbmello
-    linkedin: linkedin.com/in/lbmello
+    github: https://github.com/lbmello
+    linkedin: https://linkedin.com/in/lbmello
     image: lucas-mello.jpeg
 
   - name: "Marco Antonio Martins Junior (Somatório)"
@@ -128,7 +128,7 @@ team_members: # Name is the only required field for team members.
     image: rodrigo-ervella.jpeg
 
   - name: Vinicius Ingracio
-    email: ervella5@gmail.com
+    email: viniciusingracio@gmail.com
     github: https://github.com/viniciusingracio
     linkedin: https://www.linkedin.com/in/viniciusingracio/
     image: vinicius-ingracio.jpeg
