@@ -147,10 +147,12 @@ sponsors:
 # Bronze
 - id: grafanalabs
   level: bronze  
+- id: aws
+  level: bronze
 
 # Community
-  #- id:
-    #level:
+- id: estacio
+  level: community
 
 program:
   - title: "Credenciamento"
