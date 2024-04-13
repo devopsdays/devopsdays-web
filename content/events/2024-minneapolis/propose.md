@@ -7,6 +7,7 @@ Description = "Propose a talk for devopsdays Minneapolis 2024"
 
 <hr>
 
+<div id="cfp-open">
 We are currently accepting proposals for 5-minute Ignites and 30-minute talks, via the form below.
 <ol>
   <li><strong><em>A 30-minute talk</em></strong> presented during the conference.</li>
@@ -29,3 +30,26 @@ Choosing talks is part art, part science; here are some factors we consider when
 <hr>
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeobVqyS1aqmTwo0cI-o3LSP3ggnH5H5GpwC1SKWR467jLE2g/viewform?embedded=true" width="760" height="2500" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+</div>
+
+<div id="cfp-closed" style="display:none">
+Our CFP is closed while we consider our program - thanks for your submissions!
+
+<strong><em>Open Space</em></strong>: If you'd like to lead a group discussion during the attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout sessions, it is not necessary to propose it ahead of time. Those topics are suggested in person at the conference. If you'd like to demo your product or service, you should <a href="../sponsor">sponsor the event</a> and demo it at your table.
+</div>
+
+<script type="text/javascript">
+window.setInterval(function() {
+
+  var current = new Date();
+  var expiry = new Date("May 1, 2024 02:35:00")
+
+  if (current.getTime() > expiry.getTime()) {
+    $('#cfp-open').hide();
+    $('#cfp-closed').show();
+  }
+
+}, 0);
+
+</script>
