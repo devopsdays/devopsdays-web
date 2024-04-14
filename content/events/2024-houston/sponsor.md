@@ -37,14 +37,16 @@ Please see our <a href="https://assets.devopsdays.org/events/2024/houston/devops
    }
 </style>
 <tr>
-	<th style="text-align:left"><i>Packages</i><sup>*</sup></th>
+	<th style="text-align:left"><i>Packages</i><sup>&dagger;</sup></th>
 	<th>HOU Startup Corner*</th>
-	<th>Gold</th>
-	<th>Platinum</th>
+	<th>Recruiting<sup>&dagger;</sup><sup>&sect;</sup></th>
+	<th>Gold<sup>&dagger;</sup></th>
+	<th>Platinum<sup>&dagger;</sup></th>
 </tr>
 <tr>
 	<th style="text-align:left">Pricing</th>
 	<th><center>$500</center></th>
+	<th><center>$1,000</center></th>
 	<th><center>$5,000</center></th>
 	<th><center>$7,500</center></th>
 </tr>
@@ -54,6 +56,14 @@ Please see our <a href="https://assets.devopsdays.org/events/2024/houston/devops
 	<a href="mailto:houston@devopsdays.org"><span class="btn btn-warning btn-sm">Email Us</span></a>
 	</center>
 	</th>
+	<th valign="top"><center>
+		<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+		<input type="hidden" name="cmd" value="_s-xclick">
+		<input type="hidden" name="hosted_button_id" value="HKJNNQ5VEDCPG">
+		<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+		<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+	</form>
+	</center></th>
 	<th valign="top"><center>
 	<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 		<input type="hidden" name="cmd" value="_s-xclick">
@@ -79,6 +89,7 @@ Please see our <a href="https://assets.devopsdays.org/events/2024/houston/devops
 <tr>
 	<td class="l">Included tickets</td>
 	<td bgcolor="gold"><center>1</center></td>
+	<td bgcolor="gold"><center>2</center></td>
 	<td bgcolor="gold"><center>3</center></td>
 	<td bgcolor="gold"><center>4</center></td>
 </tr>
@@ -87,9 +98,11 @@ Please see our <a href="https://assets.devopsdays.org/events/2024/houston/devops
 	<td bgcolor="gold">&#x2714;</td>
 	<td bgcolor="gold">&#x2714;</td>
 	<td bgcolor="gold">&#x2714;</td>
+	<td bgcolor="gold">&#x2714;</td>
 </tr>
 <tr>
 	<td class="l">Logo on room signage</td>
+	<td bgcolor="gold">Small</td>
 	<td bgcolor="gold">Small</td>
 	<td bgcolor="gold">Medium</td>
 	<td bgcolor="gold">Large</td>
@@ -97,11 +110,13 @@ Please see our <a href="https://assets.devopsdays.org/events/2024/houston/devops
 <tr>
 	<td class="l">Logo on all email communication</td>
 	<td>&nbsp;</td>
+	<td>&nbsp;</td>
 	<td bgcolor="gold">&#x2714;</td>
 	<td bgcolor="gold">&#x2714;</td>
 </tr>
 <tr>
 	<td class="l">Logo on shared slide, rotating during breaks</td>
+	<td>&nbsp;</td>
 	<td>&nbsp;</td>
 	<td bgcolor="gold">&#x2714;</td>
 	<td>&nbsp;</td>
@@ -110,16 +125,19 @@ Please see our <a href="https://assets.devopsdays.org/events/2024/houston/devops
 	<td class="l">Logo on dedicated slide, rotating during breaks</td>
 	<td>&nbsp;</td>
 	<td>&nbsp;</td>
+	<td>&nbsp;</td>
 	<td bgcolor="gold">&#x2714;</td>
 </tr>
 <tr>
 	<td class="l">Full 6' table</td>
 	<td bgcolor="gold">&#x2714;</td>
+	<td><strong>&sect;</strong></td>
 	<td bgcolor="gold">&#x2714;</td>
 	<td bgcolor="gold">&#x2714;</td>
 </tr>
 <tr>
 	<td class="l">Choice of table location</td>
+	<td>&nbsp;</td>
 	<td>&nbsp;</td>
 	<td>&nbsp;</td>
 	<td bgcolor="gold">&#x2714;</td>
@@ -128,19 +146,30 @@ Please see our <a href="https://assets.devopsdays.org/events/2024/houston/devops
 	<td class="l">1 minute pitch to full audience</td>
 	<td>&nbsp;</td>
 	<td bgcolor="gold">&#x2714;</td>
+	<td bgcolor="gold">&#x2714;</td>
 	<td>&nbsp;</td>
 </tr>
 <tr>
 	<td class="l">5 minute pitch to full audience</td>
 	<td>&nbsp;</td>
 	<td>&nbsp;</td>
+	<td>&nbsp;</td>
 	<td bgcolor="gold">&#x2714;</td>
 </tr>
+<tr>
+	<td class="l">Other benefits</td>
+	<td>&nbsp;</td>
+	<td><strong>&sect;</strong></td>
+	<td>&nbsp;</td>
+	<td>&nbsp;</td>
+</tr>
 </table>
-<sup>&dagger;</sup>Table space is limited <br/>
-<sup>*</sup>To qualify for HOU Startup Corner tier the company must have fewer than 50 employees, be less
+<strong>&dagger;</strong> Table space is limited <br/>
+<strong>*</strong> To qualify for HOU Startup Corner tier the company must have fewer than 50 employees, be less
 than 3 years old and headquartered in the greater Houston area. Please reach out to the organizers
 at [{{< email_organizers >}}] if interested in this sponsorship tier. 
+<br/>
+<strong>&sect;</strong>  DevOpsDays Houston is a great place to connect with qualified job candidates. Recruiting sponsorship comes with a branded reserved lunch table and regular dedicated LinkedIn posts promoting sponsor’s job openings, in the weeks leading up to the conference.
 <br/>
 <br/>
 </div>
