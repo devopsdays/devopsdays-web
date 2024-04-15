@@ -153,6 +153,8 @@ sponsors:
 # Community
 - id: estacio
   level: community
+- id: 1408web
+  level: community
 
 program:
   - title: "Credenciamento"
