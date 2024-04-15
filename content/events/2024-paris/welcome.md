@@ -80,11 +80,13 @@ Description = "DevOpsDays Paris 2024"
     {{< event_link page="contact" text="Get in touch with the organizers" >}}
   </div>
 </div>
-<br>
-<div>Après une courte pause, DevOpsDays / DevOps REX revient à Paris en 2024 ! Nous serons colocalisés avec <a href="https://www.opensource-experience.com/fr/">Open Source Experience</a> en décembre. Restez à l'écoute pour plus d'informations !</div>
-<br>
-<div><i>(en)</i> After a short hiatus, DevOpsDays / DevOps REX is coming back to Paris in 2024! We'll be colocating with the <a href="https://www.opensource-experience.com/en/">Open Source Experience</a> in December. Stay tuned for more information!</div>
 
 <!-- Uncomment if you added your city twitter name -->
 
 {{< event_twitter >}}
+
+<br>
+<br>
+<div>Après une courte pause, DevOpsDays / DevOps REX revient à Paris en 2024 ! Nous serons colocalisés avec <a href="https://www.opensource-experience.com/fr/">Open Source Experience</a> en décembre. Restez à l'écoute pour plus d'informations !</div>
+<br>
+<div><i>(en)</i> After a short hiatus, DevOpsDays / DevOps REX is coming back to Paris in 2024! We'll be colocating with the <a href="https://www.opensource-experience.com/en/">Open Source Experience</a> in December. Stay tuned for more information!</div>
