@@ -57,13 +57,14 @@ team_members: # Name is the only required field for team members.
     employer: "Swiss Webacademy"
     twitter: "devopsdays"
   - name: "Valentin-Marius Amza "
-    employer: "Acme Anvil Co."
+    employer: "Swiss Webacademy"
     github: "devopsdays"
     facebook: "https://www.facebook.com/sally.fields"
     linkedin: "https://www.linkedin.com/in/sallyfields"
     website: "https://mattstratton.com"
     image: "sally-fields.jpg"
   - name: "Sergiu-Valentin Dilimoț"
+    employer: "Visma Romania"
 
 organizer_email: "sibiu@devopsdays.org" # Put your organizer email address here
 
