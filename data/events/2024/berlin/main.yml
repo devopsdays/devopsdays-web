@@ -108,6 +108,8 @@ sponsors:
     level: platinum
   - id: tigera
     level: platinum
+  - id: splunk
+    level: platinum
   - id: doit
     level: silver
   - id: kubeevents
