@@ -296,6 +296,10 @@ sponsors:
     level: platinum
   - id: thoughtworks
     level: platinum
+  - id: magalu-cloud
+    level: platinum
   - id: elastic
+    level: gold
+  - id: revolut
     level: gold
 program:

@@ -1,5 +1,6 @@
 /tel-aviv/*		/events/2024-tel-aviv/:splat		302
 /amsterdam/*		/events/2024-amsterdam/:splat		302
+/antwerp/*		/events/2024-antwerp/:splat		302
 /aracaju/*		/events/2024-aracaju/:splat		302
 /atlanta/*		/events/2023-atlanta/:splat		302
 /austin/cfp		https://talks.devopsdays.org/devopsdays-austin-2024/cfp 302
@@ -20,7 +21,7 @@
 /brasilia/*		/events/2017-brasilia/:splat		302
 /buenos-aires/*		/events/2020-buenos-aires/:splat	302
 /buffalo/*		/events/2023-buffalo/:splat		302
-/caceres/*		/events/2020-caceres/:splat		302
+/caceres/*		/events/2024-caceres/:splat		302
 /cairo/*		/events/2024-cairo/:splat		302
 /campinas/*		/events/2024-campinas/:splat		302
 /cape-town/*		/events/2020-cape-town/:splat		302
@@ -42,7 +43,7 @@
 /fortaleza/*		/events/2022-fortaleza/:splat		302
 /galway/*		/events/2019-galway/:splat		302
 /geneva/*		/events/2023-geneva/:splat		302
-/ghent/*		/events/2024-ghent/:splat		302
+/ghent/*		/events/2024-antwerp/:splat		302
 /goiania/cfp		https://talks.devopsdays.org/devopsdays-goiania-2024/ 302
 /goiania/*		/events/2024-goiania/:splat		302
 /goteborg/*		/events/2011-goteborg/:splat		302
@@ -83,7 +84,7 @@
 /new-zealand/*		/events/2019-auckland/:splat		302
 /newcastle/*		/events/2018-newcastle/:splat		302
 /oslo/*			/events/2023-oslo/:splat		302
-/paris/*		/events/2021-paris/:splat		302
+/paris/*		/events/2024-paris/:splat		302
 /philadelphia/*		/events/2024-philadelphia/:splat	302
 /phoenix/*		/events/2023-phoenix/:splat		302
 /pittsburgh/*		/events/2015-pittsburgh/:splat		302
@@ -128,6 +129,7 @@
 /washington-dc/*	/events/2024-washington-dc/:splat	302
 /zaragoza/*		/events/2020-zaragoza/:splat		302
 /zurich/*		/events/2024-zurich/:splat		302
+/events/2024-ghent/*      /events/2024-antwerp/:splat     302!
 /events/2009-ghent/*          http://legacy.devopsdays.org/events/2009-ghent/:splat     301!
 /events/2010*                 http://legacy.devopsdays.org/events/2010:splat            301!
 /blog/wp-content/*            http://legacy.devopsdays.org/blog/wp-content/:splat       301!
