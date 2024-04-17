@@ -153,17 +153,23 @@ sponsors:
     level: diamond
   - id: fluidattacks
     level: diamond
+  - id: 2020-devco
+    level: diamond    
   - id: gapss
+    level: platinum
+  - id: tsoft
     level: platinum
   - id: sonatype
     level: platinum
   - id: pragma
     level: platinum
+  - id: veritasautomata
+    level: platinum
   - id: nearsure
     level: platinum
-  - id: quind2024
+  - id: datadog
     level: platinum
-  - id: veritasautomata
+  - id: softserve
     level: platinum
   - id: factoredai
     level: platinum
@@ -171,7 +177,8 @@ sponsors:
     level: platinum
   - id: womenwhocode
     level: socialmedia 
-    
+  - id: dcl
+    level: socialmedia     
 #  - id: sonatype
 #    level: diamond
 #  - id: elastic
@@ -222,7 +229,5 @@ sponsor_levels:
     label: Diamond
   - id: platinum
     label: Platinum
-  - id: gold
-    label: Gold
   - id: socialmedia
     label: Social Media

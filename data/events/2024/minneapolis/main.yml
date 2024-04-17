@@ -15,8 +15,8 @@ enddate: 2024-08-07T17:00:00-05:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  2024-02-03T00:00:00-05:00 # start accepting talk proposals.
-cfp_date_end:  2024-04-15T00:00:00-05:00 # close your call for proposals.
-cfp_date_announce:  2024-05-15T00:00:00-05:00 # inform proposers of status
+cfp_date_end:  2024-04-30T23:59:59-05:00 # close your call for proposals.
+cfp_date_announce:  2024-06-01T00:00:00-05:00 # inform proposers of status
 
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
@@ -64,11 +64,6 @@ team_members:
     twitter: "joelaha"
     bio: "Joe Laha works in event technology, which is a fancy way of saying he's a professional flipchart jockey. He lives in Minneapolis' North Loop neighborhood with his partner Bridget Kromhout, their cats Nimoy & Ripley, too many guitars, and way too much cycling-themed art. Aside from cycling, Joe enjoys cooking, heavy metal guitar, and arguing about sci-fi TV of the 1990s."
     image: "joe-laha.jpg"
-  - name: "Jenn Czeck"
-    employer: "OpenTrons Pandemic Response Lab"
-    twitter: "geekgalgroks"
-    bio: "Jenn is a developer and accessibility advocate who is passionate about mentoring, learning, accessibility, and GIFs. She has been coding and making websites since the mid 1990s. She can easily be spotted at conferences by her bright lipstick, dangly earrings, and various code dresses and t-shirts."
-    image: "jenn-czeck.jpg"
   - name: "Heidi Waterhouse"
     employer: ""
     twitter: "wiredferret"

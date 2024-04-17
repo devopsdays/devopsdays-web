@@ -66,7 +66,7 @@ Description = "DevOpsDays Aracaju 2024 will take place Apr 20, 2024!"
           <br>
           <div class="col-md-8">
               <a href="https://bit.ly/dodaju2024" target="_blank">
-                <img src="/events/2024-aracaju/2lote.jpg" alt="Descrição da Imagem" width="300" height="300">
+                <img src="/events/2024-aracaju/3lote.jpg" alt="Descrição da Imagem" width="300" height="300">
               </a>
           </div>
         </div>

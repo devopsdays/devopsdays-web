@@ -174,6 +174,14 @@ sponsors:
   level: bronze
 - id: swiss-digital-network
   level: bronze
+- id: powercoders
+  level: community
+- id: belikegrace
+  level: community
+- id: pygirls
+  level: community
+- id: girlscodetoo
+  level: community
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -239,7 +247,7 @@ program:
   start_time: '11:00'
   end_time: '11:30'
 
-- title: julia-gaetjens
+- title: bogdan-doroslovac2
   type: talk
   date: 2024-04-16
   start_time: '11:30'
@@ -275,11 +283,23 @@ program:
   start_time: '14:35'
   end_time: '15:15'
 
-- title: "Open Space"
+- title: "Open Space Track 1"
   type: open-space
   date: 2024-04-16
   start_time: '15:15'
-  end_time: '17:15'
+  end_time: '15:50'
+
+- title: "Open Space Track 2"
+  type: open-space
+  date: 2024-04-16
+  start_time: '15:55'
+  end_time: '16:30'
+
+- title: "Open Space Track 3"
+  type: open-space
+  date: 2024-04-16
+  start_time: '16:35'
+  end_time: '17:10'
 
 - title: larry-maccherone
   type: workshop
@@ -384,11 +404,23 @@ program:
   start_time: '14:50'
   end_time: '15:15'
 
-- title: "Open Space"
+- title: "Open Space Track 1"
   type: open-space
   date: 2024-04-17
   start_time: '15:15'
-  end_time: '17:15'
+  end_time: '15:50'
+
+- title: "Open Space Track 2"
+  type: open-space
+  date: 2024-04-17
+  start_time: '15:55'
+  end_time: '16:30'
+
+- title: "Open Space Track 3"
+  type: open-space
+  date: 2024-04-17
+  start_time: '16:35'
+  end_time: '17:10'
 
 - title: bogdan-doroslovac
   type: workshop
@@ -419,7 +451,7 @@ ignites:
   date: 2024-04-16
 - title: "evelina-rimkute"
   date: 2024-04-16
-- title: "john-nguyen"
+- title: "oleg-nenashev"
   date: 2024-04-16
 - title: "verena-traub"
   date: 2024-04-16
@@ -441,7 +473,7 @@ ignites:
   date: 2024-04-17
 - title: "peter-haefliger"
   date: 2024-04-17
-- title: "oleg-nenashev"
+- title: "john-nguyen"
   date: 2024-04-17
 - title: "antonio-alvino"
   date: 2024-04-17

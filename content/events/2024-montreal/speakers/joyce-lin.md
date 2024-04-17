@@ -8,6 +8,6 @@ linktitle = "joyce-lin"
 
 +++
 
-Senior director of developer relations at Postman
+Head of Developer Relations at Viam
 
-Joyce is the senior director of developer relations at Postman, an API platform used by 30M+ people to access bazillions of APIs every month. She is a culinary magician who specializes in tacos.
+Joyce is the head of developer relations at Viam, a robotics platform that connects software with smart machines in the physical world. Based in San Francisco, she is also a Tiktok influencer, dog mom, cat mom, and writer.

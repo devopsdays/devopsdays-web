@@ -1,9 +1,9 @@
 +++
 title = "Bill Mulligan"
 twitter = ""
-linkedin = ""
+linkedin = "https://www.linkedin.com/in/bamulligan/"
 website = ""
-image = ""
+image = "bill-mulligan.jpeg"
 type = "speaker"
 linktitle = ["bill-mulligan"]
 +++
