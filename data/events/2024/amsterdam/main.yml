@@ -162,6 +162,8 @@ sponsors:
     level: bronze
   - id: atcomputing
     level: bronze
+  - id: tilinthecloud
+    level: bronze
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
