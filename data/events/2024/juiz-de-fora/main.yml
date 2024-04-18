@@ -116,6 +116,10 @@ sponsors:
     level: platinum
   - id: uniacademia
     level: platinum
+  - id: kubeevents
+    level: community
+  - id: kubecareers
+    level: community
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
