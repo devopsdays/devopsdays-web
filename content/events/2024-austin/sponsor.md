@@ -20,3 +20,5 @@ DevOpsDays Austin 2024 will be held at the UT Austin Alumni Center from May 2-3,
 ### Prospectus
 
 <a href="https://assets.devopsdays.org/events/2024/austin/DevOpsDays_Austin_2024_Sponsor_Prospectus.pdf" class="btn btn-primary"><i class="fa fa-folder fa-lg"></i>   View the DevOpsDays Austin 2024 Sponsor Prospectus</a>
+
+We are sold out of lanyard, coffee bar, and happy hour. There are still a couple alternative options available!
