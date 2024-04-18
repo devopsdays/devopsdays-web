@@ -45,22 +45,22 @@ Description = "devopsdays Austin 2024"
             {{< event_link page="propose" text="Propose a talk!" >}}
           </div>
         </div>
-        <!-- <div class = "row">
+        <div class = "row">
           <div class = "col-md-2">
-            <strong>Program</strong>
+            <strong>Schedule</strong>
           </div>
           <div class = "col-md-8">
-            View the {{< event_link page="program" text="program." >}}
+            View the {{< event_link page="schedule" text="schedule." >}}
           </div>
-        </div> -->
-        <!-- <div class = "row">
+        </div>
+        <div class = "row">
           <div class = "col-md-2">
             <strong>Speakers</strong>
           </div>
           <div class = "col-md-8">
             Check out the {{< event_link page="speakers" text="speakers!" >}}
           </div>
-        </div> -->
+        </div>
         <div class="row">
           <div class="col-md-2">
             <strong>Sponsors</strong>
