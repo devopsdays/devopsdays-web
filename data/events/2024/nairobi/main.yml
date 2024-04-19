@@ -87,12 +87,12 @@ organizer_email: "nairobi@devopsdays.org" # Put your organizer email address her
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: kube careers
+  - id: kubecareers
     level: media
     url: https://kube.careers/ # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
-  - id: kube events
+  - id: kubeevents
     level: media
     url: https://kube.events/
 
