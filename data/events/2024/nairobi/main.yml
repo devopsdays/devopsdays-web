@@ -87,11 +87,14 @@ organizer_email: "nairobi@devopsdays.org" # Put your organizer email address her
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: #
-    level: #
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: kube careers
+    level: media
+    url: https://kube.careers/ # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
+  - id: kube events
+    level: media
+    url: https://kube.events/
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -108,5 +111,7 @@ sponsor_levels:
     max: 0 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
+  - id: media
+    label: Media
   - id: community
     label: Community
