@@ -141,18 +141,22 @@ sponsors:
     #level:
 
 # Silver
- #- id:
-    #level:
+- id: codepusher
+  level: silver
+- id: infox
+  level: silver
 
 # Bronze
-- id: chip&cia
-  level: bronze
 - id: grafanalabs
   level: bronze  
+- id: aws
+  level: bronze
+- id: 1408web
+  level: bronze
 
 # Community
-  #- id:
-    #level:
+- id: estacio
+  level: community
 
 program:
   - title: "Credenciamento"

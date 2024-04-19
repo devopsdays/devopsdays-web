@@ -31,7 +31,7 @@ By the end of the session, terms like 'projects', 'application sets', or 'app of
 Attendees may take their clusters home with them. 😉
 
 <strong>Prerequisites for this workshop:</strong>
-This workshop is aimed at GitOps beginners: If you bring a notebook  with a web browser (preferably not Safari), you're good to go! 
+This workshop is aimed at GitOps beginners: If you bring a notebook with a GitHub Account, you're good to go!
 However, as ArgoCD builds on top of Kubernetes and Git providers, it would be great if you have a basic understanding of the following tools and/or concepts: 
 - Kubernetes and kubectl 
 - Git 

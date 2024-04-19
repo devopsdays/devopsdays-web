@@ -49,6 +49,8 @@ The following tools will be covered:
 - IDE: VS Code or any other preferred IDE 
 - Gitlab account 
 
+Link to the repository: https://gitlab.com/rfashwal/securing-k8s-workshop 
+
 Bring your laptop! 
 
 <strong>Number of participants:</strong>

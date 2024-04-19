@@ -16,7 +16,7 @@ Description = "devopsdays Belo Horizonte 2024"
   flex-wrap: nowrap;
   justify-content: center;
   align-items: center;
-  background-color: #cedde6;
+  background-color: ;
   margin: 3em;
   padding: 3em;
   gap: 3em;
@@ -27,11 +27,11 @@ Description = "devopsdays Belo Horizonte 2024"
   flex-grow: 1;
 }
 .mtl .showcase img {
-  max-width: 650px;
+  max-width: 480px;
 }
 .mtl .showcase button {
   color: #fff;
-  background-color: #6b8ea1;
+  background-color: #015A6B;
   border: none;
   border-radius: 0.5em;
   font-weight: bold;
@@ -60,7 +60,7 @@ Description = "devopsdays Belo Horizonte 2024"
   }
   .mtl .showcase img {
     margin: 0;
-    width: 300%;
+    max-width: 350px;
   }
 }
 
@@ -82,7 +82,8 @@ a.jssocials-share-link, a.event-cta-button {
 
 <div class="showcase">
 {{< event_logo >}}
-<!-- <img src="/events/2023-montreal/logo-square.jpg"> -->
+
+<br><br>
 <p></p>
 <p><a href="" onclick="alert('EM BREVE!'); return false"><button>SUBMENTA SUA TALK</button></a></p>
 <p><a href="" onclick="alert('EM BREVE!'); return false"><button>INSCREVA-SE</button></a></p>
@@ -92,33 +93,31 @@ a.jssocials-share-link, a.event-cta-button {
 </div>
 
 <div class="sidebar">
-<h2 style ="color:#5C889F">DEVOPSDAYS</h2>
+<h2 style ="color:#015A6B"> O QUE SÃO OS DEVOPSDAYS?</h2>
 <p align="justify">
-DevOps Days é como uma Copa do Mundo para os amantes de tecnologia. É um evento global onde a galera que curte infraestrutura ágil, automação, e qualidade de software se reúne para um papo cabeça. Mas vai além disso: tem também sessões abertas para compartilhar desafios, soluções e até mesmo fracassos. É uma mistura de aprendizado, networking e diversão, um lugar para novos insights, amizades e, quem sabe, até mesmo novas oportunidades de trabalho. E aí, topa entrar nessa?
+Os DevOpsDays são uma série de conferências em todo o mundo, destinadas a profissionais de desenvolvimento (Dev) e operações (Ops), com o foco na cultura e as práticas DevOps. 
+</p>
+
+<p align="justify">
+Esses eventos, que começaram em Ghent, Bélgica, em 2009, promovem a troca de conhecimentos, experiências e as últimas tendências na área de DevOps, reunindo especialistas e entusiastas para discussões, workshops e atividades descontraídas sobre os temas propostos. Podemos resumir que é uma mistura de aprendizado, networking e diversão, um lugar para novos insights, amizades e, quem sabe, até mesmo novas oportunidades de trabalho.
 </p>
 
 <br>
-<h2 style ="color:#5C889F"> DEVOPSDAYS BELO HORIZONTE - 2024</h2>
+<h2 style ="color:#015A6B"> DEVOPSDAYS BELO HORIZONTE - 2024</h2>
 <p align="justify">
-Sacou a pilha de DevOps? Então cola com a gente no DevOpsDays Belo Horizonte! Sim, é isso mesmo, como organizadores estamos aqui pra te chamar pra esse evento tech fodah que vai rolar em março de 2024.
+É com grande entusiasmo que convidamos você para participar do DevOpsDays Belo Horizonte 2024 que acontecerá em setembro.
+ Como organizadores, estamos empolgados em reunir entusiastas, profissionais e especialistas do ecossistema DevOps para um encontro enriquecedor e inspirador.
 </p>
 
 <p align="justify">
-Se você é dev, sysadmin, testador, gerente de produto ou simplesmente um curioso de plantão louco por DevOps, se liga: isso aqui é pra você! O DevOpsDays Belo Horizonte vai ser O LUGAR ideal pra trocar ideias, aprender, se conectar com a galera e curtir muito a vibe da comunidade tech.
+Se você é um desenvolvedor, sysadmin, testador, gerente de produto/projetos, em qualquer área de tecnologia ou simplesmente um curioso, está super convidado! O DevOpsDays Belo Horizonte vai ser O LUGAR ideal pra trocar ideias, aprender, se conectar com a várias pessoas e se aproximar de várias comunidades tech.
 </p>
 
 <p align="justify">
-Você terá a chance de aprender com especialistas da área, compartilhar suas próprias experiências e conhecer profissionais de toda a região que pensam como você. Esperamos que você se junte a nós neste evento incrível e nos ajude a construir uma comunidade DevOps mais forte e vibrante em Minas Gerais.
+Você terá a chance de aprender com especialistas da área, compartilhar suas próprias experiências e conhecer profissionais de toda a região que pensam como você. E. Esperamos que você se junte a nós neste evento para explorar e contribuir para o crescimento da nossa comunidade.
 </p>
 <p>
 <br>
-<h2 style ="color:#5C889F"> SOBRE</h2>
-<p align="justify">
-Prepare-se para uma experiência eletrizante! Nosso evento promete uma variedade de apresentações, discussões e oportunidades de networking, todas centradas nos temas de colaboração, automação, tecnologia e compartilhamento de conhecimento. Também acreditamos que cuidar de nós mesmos e uns dos outros é fundamental para nosso sucesso neste setor, e é por isso que incluiremos sessões focadas em saúde mental e bem-estar.
-
-Seja você um veterano experiente ou apenas começando a explorar o mundo do DevOps, há um lugar para você no DevOpsDays Belo Horizonte. Agradecemos seu interesse e te esperamos em março!
-</p>
-
 </div>
 </div>
   

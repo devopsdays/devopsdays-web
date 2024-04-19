@@ -83,7 +83,7 @@ sponsors:
     level: platinum
   - id: bestcloudforme
     level: platinum
-  - id: resmo
+  - id: jumpcloud
     level: gold
   - id: oobeya
     level: gold
@@ -91,6 +91,10 @@ sponsors:
     level: silver
   - id: appcircle
     level: silver
+  - id: akbank
+    level: platinum
+  - id: sufle
+    level: platinum
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

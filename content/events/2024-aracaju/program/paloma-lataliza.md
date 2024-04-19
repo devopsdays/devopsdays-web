@@ -2,11 +2,11 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Desmistificando o IAM AWS"
+Title = "Como as Comunidades Tech Podem impactar sua jornada"
 Type = "talk"
 Speakers = ["paloma-lataliza"]
 Slides = ""
 
 +++
 
-Sabe aquele monte de senhas, logins e contas que temos que gerenciar no dia a dia? Pois é, o IAM (Identidade e Gerenciamento de Acesso) é fundamental para garantir que só as pessoas autorizadas tenham acesso às nossas informações. Vamos ver como gerenciar tudo com o IAM da AWS.
+Nesta sessão, vamos entender o que define uma comunidade, o papel essencial que as comunidades desempenham e o mais importante, como elas podem influenciar e enriquecer sua jornada. Discutiremos a importância da diversidade, o impacto da rivalidade negativa, e como as redes de apoio funcionam dentro desses grupos. Abordaremos também as etapas para iniciar uma nova comunidade, incluindo a definição de propósitos, objetivos e o que de fato faz uma comunidade ser uma comunidade: pessoas.

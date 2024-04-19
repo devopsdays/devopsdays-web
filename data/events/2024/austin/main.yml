@@ -39,8 +39,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
   - name: register
     url: https://tickets.devopsdays.org/devopsdays-austin/2024/
- # - name: program
- # - name: speakers
+  - name: schedule
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -153,6 +153,8 @@ sponsors:
   - id: vib
     level: gold
   - id: progresschef
+    level: gold
+  - id: tigera
     level: gold
   - id: castai
     level: happyhour
