@@ -49,31 +49,31 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     url: /events/2024-brasilia/program
 
 # These are the same people you have on the mailing list and Slack channel.
-team_members:# Name is the only required field for team members.
-  # - name: "Antonio Silva"
-  #   employer: "CESAR - Centro de Estudos e Sistemas Avançados do Recife"
-  #   image: "antonio-silva.jpg"
-  #   bio: ""
-  #   linkedin: "https://www.linkedin.com/in/silvacantonio/"
+team_members: # Name is the only required field for team members.
+  - name: "Ruan Oliveira"
+    employer: ""
+    image: ""
+    bio: ""
+    linkedin: ""
 
-  # - name: "Fabio Correia"
-  #   employer: "Thoughtworks"
-  #   image: "fabio-correia.jpg"
-  #   twitter: "fabioqcorreia"
-  #   bio: ""
-  #   linkedin: "https://www.linkedin.com/in/fabioqcorreia"
+  - name: "Jorge Santana"
+    employer: ""
+    image: ""
+    twitter: ""
+    bio: ""
+    linkedin: "https://www.linkedin.com/in/jorgesantanadeveloper"
 
-  # - name: "Lucas Assad"
-  #   employer: "Ustore"
-  #   image: "lucas-assad.jpg"
-  #   bio: ""
-  #   linkedin: "https://www.linkedin.com/in/lucas-assad/"
+  - name: "Herberson Miranda"
+    employer: ""
+    image: ""
+    bio: ""
+    linkedin: ""
 
-  # - name: "Marcos Magalhães"
-  #   employer: "Ustore"
-  #   image: "marcos-magalhaes.jpg"
-  #   bio: ""
-  #   linkedin: "https://www.linkedin.com/in/mmagalha/"
+  - name: "Jady Pâmella"
+    employer: "BRB"
+    image: ""
+    bio: ""
+    linkedin: ""
 
   # - name: "Marília Angela"
   #   employer: "Itaú"
