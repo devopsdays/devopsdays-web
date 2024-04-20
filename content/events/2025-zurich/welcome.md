@@ -24,7 +24,7 @@ Description = "DevOpsDays Zurich 2025"
     <a href="https://www.devopsdays.org/events/2020-zurich/welcome/">DevOpsDays 2020 - The DevOpsTuesDays</a><br/>
     <a href="https://www.devopsdays.org/events/2021-zurich/welcome/">DevOpsDays 2021 - DevOpsDays Zurich is stronger than COVID</a><br/>
     <a href="https://www.devopsdays.org/events/2022-zurich/welcome/">DevOpsDays 2022 - Back to normal</a><br/>
-    <a href="https://www.devopsdays.org/events/2023-zurich/welcome/">DevOpsDays 2023 - Together for a Sustainable Future!</a>
+    <a href="https://www.devopsdays.org/events/2023-zurich/welcome/">DevOpsDays 2023 - Together for a Sustainable Future!</a><br/>
     <a href="https://www.devopsdays.org/events/2024-zurich/welcome/">DevOpsDays 2023 - To boldly go where no one has gone before</a>
     </br>
   </div>
