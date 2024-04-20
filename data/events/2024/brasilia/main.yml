@@ -1,0 +1,149 @@
+name: "2024-brasilia" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2024" # The year of the event. Make sure it is in quotes.
+city: "Brasília" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaysbsb" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "DevOpsDays Brasília!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+event_logo: "logo.jpg"
+masthead_background: "background.jpg"
+
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2024-10-05T00:10:00-03:00
+enddate: 2024-10-05T18:00:00-03:00
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: "" #2019-09-17T00:09:00-03:00 # start accepting talk proposals.
+cfp_date_end: "" #2019-10-25T00:09:00-03:00 # close your call for proposals.
+cfp_date_announce: "" #2019-10-20T00:09:00-03:00 # inform proposers of status
+
+cfp_open: "false"
+#cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: "" #2022-10-01T00:09:00-03:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: "" #2022-10-31T00:09:00-03:00 # close registration. Leave blank if registration is not open yet.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "TBA" # Defaults to city, but you can make it the venue name.
+location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  #   icon: "" deprecated - This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+  - name: local
+    url: /events/2024-brasilia/local
+  #  - name: inscricao
+  #    url: ""
+  - name: código de conduta
+    url: /events/2024-brasilia/conduct
+  - name: contato
+    url: /events/2024-brasilia/contact
+  - name: Programação
+    url: /events/2024-brasilia/program
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Antonio Silva"
+    employer: "CESAR - Centro de Estudos e Sistemas Avançados do Recife"
+    image: "antonio-silva.jpg"
+    bio: ""
+    linkedin: "https://www.linkedin.com/in/silvacantonio/"
+
+  - name: "Fabio Correia"
+    employer: "Thoughtworks"
+    image: "fabio-correia.jpg"
+    twitter: "fabioqcorreia"
+    bio: ""
+    linkedin: "https://www.linkedin.com/in/fabioqcorreia"
+
+  - name: "Lucas Assad"
+    employer: "Ustore"
+    image: "lucas-assad.jpg"
+    bio: ""
+    linkedin: "https://www.linkedin.com/in/lucas-assad/"
+
+  - name: "Marcos Magalhães"
+    employer: "Ustore"
+    image: "marcos-magalhaes.jpg"
+    bio: ""
+    linkedin: "https://www.linkedin.com/in/mmagalha/"
+
+  - name: "Marília Angela"
+    employer: "Itaú"
+    image: "marilia-angela.jpg"
+    bio: ""
+    linkedin: "https://www.linkedin.com/in/mariliaangela/"
+
+  - name: "Shenia Andrade"
+    employer: "Neon"
+    image: "shenia-andrade.jpg"
+    bio: ""
+    linkedin: "https://www.linkedin.com/in/shenia-tamires-andrade/"
+
+  - name: "Yago Nobre"
+    employer: "Nubank"
+    image: "yago-nobre.jpg"
+    twitter: "yagoyns"
+    bio: ""
+    linkedin: "https://www.linkedin.com/in/yagonobre"
+
+organizer_email: "brasilia@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: platinum
+    label: Platina
+    max: 6
+  - id: gold
+    label: Gold
+    max: 5
+  - id: silver
+    label: Silver
+    max: 5
+  - id: community
+    label: Comunidade
+  - id: media
+    label: Media
+
+sponsors:
+  # - id: elastic
+  #   level: platinum
+  # - id: governo-pernambuco
+  #   level: platinum
+  # - id: espaco-cloud
+  #   level: gold
+  # - id: novatec
+  #   level: community
+
+program:
+  # - title: "Credenciamento"
+  #   type: custom
+  #   date: 2022-12-10T00:09:00-03:00
+  #   start_time: "08:15"
+  #   end_time: "10:00"
+
+  # - title: "marylia-gutierrez"
+  #   type: talk
+  #   date: 2022-12-10T00:09:00-03:00
+  #   start_time: "09:00"
+  #   end_time: "09:30"
+
+  # - title: "Open Spaces 💬 / Cofee Break ☕️"
+  #   type: open-space
+  #   date: 2022-12-10T00:09:00-03:00
+  #   start_time: "15:00"
+  #   end_time: "15:30"
