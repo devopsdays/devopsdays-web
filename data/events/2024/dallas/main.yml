@@ -39,7 +39,8 @@ location_address: "2000 East Spring Creek Parkway, Plano, TX 75074" #Optional - 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
   - name: location
-  # - name: registration
+  - name: registration
+    url: https://tickets.devopsdays.org/devopsdays-dallas/2024/
   # - name: program
   # - name: speakers
   - name: sponsor
@@ -185,8 +186,8 @@ sponsors:
   #   level: platinum
   # - id: newrelic
   #   level: platinum
-  # - id: zealit
-  #   level: gold
+  - id: rackn
+    level: gold
   # - id: cloudbees
   #   level: gold
   # - id: launch-darkly
