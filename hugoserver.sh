@@ -32,9 +32,9 @@ docker stop hugo-server 2>/dev/null
 docker rm   hugo-server 2>/dev/null
 
 [[ -f hugo.log ]] && rm hugo.log
-echo "mount with ${MOUNT_OPTION}"
+
 docker run -tip 1313:1313 -v $(pwd):/project:${MOUNT_OPTION} \
   -e HUGO_THEME=devopsdays-theme -w /project \
-  --name hugo-server --entrypoint "" --user root:root \
+  --name hugo-server --entrypoint "" --user $CURUSER:$CURGROUP \
   ${HUGO_IMAGE} hugo server --watch --bind 0.0.0.0 --baseURL ${HUGO_BASEURL} \
     --noHTTPCache --logLevel info 
