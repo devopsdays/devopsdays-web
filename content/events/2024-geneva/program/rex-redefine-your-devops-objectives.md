@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "REX: Redefine your DevOps objectives"
 Type = "talk"
-Speakers = ["yannis-martin"]
+Speakers = ["yannis-martin","christophe-baudrier"]
 +++
 
 Despite a short decade of implementation, the basic concepts of DevOps are still not understood or at least poorly understood in businesses.
