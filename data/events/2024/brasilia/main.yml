@@ -45,8 +45,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     url: /events/2024-brasilia/conduct
   - name: contato
     url: /events/2024-brasilia/contact
-  - name: Programação
-    url: /events/2024-brasilia/program
+  # - name: Programação
+  #   url: /events/2024-brasilia/program
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
