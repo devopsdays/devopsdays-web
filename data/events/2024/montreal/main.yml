@@ -139,6 +139,12 @@ sponsors:
     level: silver
   - id: creasavia
     level: bronze
+  - id: artiq
+    level: bronze
+  - id: technologia
+    level: bronze
+  - id: appdynamics
+    level: lunch
   - id: desjardins
     level: coffee
   - id: spacelift
@@ -172,9 +178,9 @@ sponsor_levels:
   - id: cocktail
     label: Cocktail
     max: 1
-  - id: lanyard
-    label: Lanyard
-    max: 1
+  # - id: lanyard
+  #   label: Lanyard
+  #   max: 1
   - id: coffee
     label: Coffee
     max: 1

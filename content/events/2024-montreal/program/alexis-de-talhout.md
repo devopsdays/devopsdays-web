@@ -2,14 +2,13 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Towards a Sustainable Cloud-Native Platform: A Paradigm Shift for Environmental Responsibility"
+Title = "Vers une plateforme cloud-native durable : un changement de paradigme pour la responsabilité environnementale"
 Type = "talk"
 Speakers = ["alexis-de-talhout"]
 +++
 
-In the ever-evolving landscape of cloud-native platforms, sustainability has emerged as a critical consideration. As organizations strive for more efficient and environmentally conscious computing practices, discover the secrets to a sustainable cloud-native platform through OS/Node, Cluster, and System Optimization. Harness power-efficient profiles, intelligent CPU management, and frequency control to reduce consumption while optimizing energy efficiency.
-Take control of resource utilization with smart workload placement, dynamic scaling, and advanced AI/ML prediction capabilities. Reduce network footprint and scale clusters based on real-time resource demands.
+Dans le paysage en constante évolution des plateformes cloud-native, la responsabilité environnementale est maintenant considérée comme critique. Alors que les organisations s’efforcent d’adopter des pratiques informatiques plus efficaces, intégrant une conscience environnementale, découvrez les secrets d’une plateforme cloud-native durable à travers l’optimisation OS/Node, cluster et système. Exploitez des profils écoénergétiques, une gestion intelligente du CPU et un contrôle de fréquence pour réduire la consommation tout en optimisant l’efficacité énergétique. Prenez le contrôle de l’utilisation des ressources avec un placement intelligent des charges de travail, une mise à l’échelle dynamique et des capacités de prévision avancées d’IA/ML. Réduisez l’empreinte réseau et mettez à l’échelle les clusters basés sur les demandes de ressources en temps réel.
 
-This talk will discuss how all the above can be achieved with existing technologies part of CNCF, and the current gap observed in the Kubernetes ecosystem. We will also details some real life scenario where this is applied.
+Cette présentation discutera comment tout cela peut être réalisé avec les technologies existantes faisant partie du CNCF, et l’écart actuel observé dans l’écosystème Kubernetes. Nous détaillerons également certains scénarios réels où ceci est appliqué.
 
-Join the sustainability movement!
+Rejoignez le mouvement de la durabilité !
