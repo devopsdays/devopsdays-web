@@ -105,6 +105,8 @@ sponsors:
     level: platinum
   - id: blue-people
     level: gold
+  - id: kentik
+    level: gold 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
