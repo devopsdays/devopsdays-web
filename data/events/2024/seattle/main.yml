@@ -137,7 +137,7 @@ program:
     date: 2024-05-14T00:00:00-07:00
     start_time: "09:00"
     end_time: "09:15"
-  - title: "ian-coldwater"
+  - title: "ken-mugrage"
     type: talk
     date: 2024-05-14T00:00:00-07:00
     start_time: "09:15"
@@ -238,7 +238,7 @@ program:
     date: 2024-05-15T00:00:00-07:00
     start_time: "09:00"
     end_time: "09:15"
-  - title: "ken-mugrage"
+  - title: "nathen-harvey"
     type: talk
     date: 2024-05-15T00:00:00-07:00
     start_time: "09:15"
