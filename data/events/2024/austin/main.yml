@@ -158,6 +158,12 @@ sponsors:
     level: gold
   - id: pure-storage
     level: gold
+  - id: jfrog
+    level: gold
+  - id: dryrun-security
+    level: gold
+  - id: autoptic
+    level: gold
   - id: castai
     level: happyhour
   - id: tigris-data
@@ -166,6 +172,8 @@ sponsors:
     level: lanyard
   - id: texasmutual
     level: coffee
+  - id: issa-austin
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
