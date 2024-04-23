@@ -156,6 +156,12 @@ sponsors:
     level: community
   - id: swiss-digital-network
     level: gold
+  - id: portworx
+    level: silver
+  - id: keyteo
+    level: silver
+  - id: caroster
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
