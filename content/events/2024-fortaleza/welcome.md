@@ -1,7 +1,7 @@
 +++
 Title = "DevOpsDays Fortaleza 2024"
 Type = "welcome"
-aliases = ["/events/2023-fortaleza/"]
+aliases = ["/events/2024-fortaleza/"]
 Description = "DevOpsDays Fortaleza 2024"
 +++
 
