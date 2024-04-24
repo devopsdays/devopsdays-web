@@ -35,12 +35,12 @@ location: "Etter-Harbin Alumni Center" # Defaults to city, but you can make it t
 location_address: "2110 San Jacinto Boulevard, Austin, Texas 78712" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+  # - name: propose
   - name: location
   - name: register
     url: https://tickets.devopsdays.org/devopsdays-austin/2024/
- # - name: program
- # - name: speakers
+  - name: schedule
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -156,12 +156,24 @@ sponsors:
     level: gold
   - id: tigera
     level: gold
+  - id: pure-storage
+    level: gold
+  - id: jfrog
+    level: gold
+  - id: dryrun-security
+    level: gold
+  - id: autoptic
+    level: gold
   - id: castai
+    level: happyhour
+  - id: tigris-data
     level: happyhour
   - id: civo
     level: lanyard
   - id: texasmutual
     level: coffee
+  - id: issa-austin
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -185,3 +197,6 @@ sponsor_levels:
   - id: happyhour
     label: Happy Hour
     max: 2
+  - id: community
+    label: Local Community Groups
+    max: 3

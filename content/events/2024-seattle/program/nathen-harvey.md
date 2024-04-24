@@ -2,9 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Thinking in Systems"
+Title = "TBD"
 Type = "talk"
-Speakers = ["ian-coldwater"]
+Speakers = ["nathen-harvey"]
 +++
-
-TBD
