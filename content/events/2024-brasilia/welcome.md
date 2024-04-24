@@ -66,7 +66,7 @@ Description = "DevOpsDays Brasília 2024"
   <div>
 
   <div style="padding-top:1em; padding-bottom:1em;" class="d-flex flex-row">
-    <div>
+    <!--div>
       <h4>
         Informações:
       </h4>
@@ -84,8 +84,8 @@ Description = "DevOpsDays Brasília 2024"
           <a target="_blank" style="text-align:left;" class="disabled btn btn-secondary btn-block" href=""> <i class="fa fa-map-marker fa-fw"></i> Local </a>
         </div>
       </div>
-    </div>
-    <div>
+    </div-->
+    <!--div>
       <h4>
         Redes sociais:
       </h4>
@@ -100,7 +100,7 @@ Description = "DevOpsDays Brasília 2024"
           <a target="_blank" style="text-align:left;" class="btn btn-secondary btn-block" href="https://www.instagram.com/devopsdaysrec/"> <i class="fa fa-instagram fa-fw"></i>&nbsp; Instagram</a>
         </div>
       </div>
-    </div>
+    </div-->
   </div> 
   <div style="text-align:center; width: auto;">
     {{< event_logo >}}
