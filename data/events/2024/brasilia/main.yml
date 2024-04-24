@@ -12,8 +12,8 @@ masthead_background: "background.jpg"
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: 2024-10-05T00:10:00-03:00
-enddate: 2024-10-05T18:00:00-03:00
+# startdate: 2024-10-05T00:10:00-03:00
+# enddate: 2024-10-05T18:00:00-03:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: "" #2019-09-17T00:09:00-03:00 # start accepting talk proposals.
@@ -128,22 +128,21 @@ sponsors:
   #   level: gold
   # - id: novatec
   #   level: community
-
 #program:
-  # - title: "Credenciamento"
-  #   type: custom
-  #   date: 2022-12-10T00:09:00-03:00
-  #   start_time: "08:15"
-  #   end_time: "10:00"
+# - title: "Credenciamento"
+#   type: custom
+#   date: 2022-12-10T00:09:00-03:00
+#   start_time: "08:15"
+#   end_time: "10:00"
 
-  # - title: "marylia-gutierrez"
-  #   type: talk
-  #   date: 2022-12-10T00:09:00-03:00
-  #   start_time: "09:00"
-  #   end_time: "09:30"
+# - title: "marylia-gutierrez"
+#   type: talk
+#   date: 2022-12-10T00:09:00-03:00
+#   start_time: "09:00"
+#   end_time: "09:30"
 
-  # - title: "Open Spaces 💬 / Cofee Break ☕️"
-  #   type: open-space
-  #   date: 2022-12-10T00:09:00-03:00
-  #   start_time: "15:00"
-  #   end_time: "15:30"
+# - title: "Open Spaces 💬 / Cofee Break ☕️"
+#   type: open-space
+#   date: 2022-12-10T00:09:00-03:00
+#   start_time: "15:00"
+#   end_time: "15:30"
