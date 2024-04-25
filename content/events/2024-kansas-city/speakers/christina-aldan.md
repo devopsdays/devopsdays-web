@@ -1,10 +1,10 @@
 +++
 Title = "Christina Aldan"
-Twitter = "https://twitter.com/luckygirliegirl"
+Twitter = "luckygirliegirl"
 linkedin = "http://www.linkedin.com/in/luckygirliegirl"
 Website = "https://luckygirliegirl.com"
 image = "christina-aldan.png"
-github = "https://github.com/cchesser"
+github = "cchesser"
 type = "speaker"
 linktitle = "christina-aldan"
 +++

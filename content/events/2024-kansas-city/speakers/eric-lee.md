@@ -1,6 +1,6 @@
 +++
 Title = "Eric Lee"
-Twitter = "https://twitter.com/ericblee6"
+Twitter = "ericblee6"
 linkedin = "https://www.linkedin.com/in/ericblee6/"
 Website = ""
 mastodon = "https://vmst.io/@ericlee"
