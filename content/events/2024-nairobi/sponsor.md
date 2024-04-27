@@ -15,6 +15,113 @@ Gold sponsors get a full table and Silver sponsors a shared table where they can
 The best thing to do is send engineers to interact with the experts at devopsdays on their own terms.
 <p>
 
+
+<h2 data-heading="Sponsorship Packages">Sponsorship Packages</h2>
+<table>
+    <thead>
+    <tr>
+    <th>Goods</th>
+    <th>Platinum</th>
+    <th>Gold</th>
+    <th>Silver</th>
+    <th>Bronze</th>
+    <th>Custom</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+    <td></td>
+    <td>$(5000 and above)</td>
+    <td>$(4000 - 2000)</td>
+    <td>$(2000 - 1000)</td>
+    <td>$(1000 - 500)</td>
+    <td>Talk to us</td>
+    </tr>
+    <tr>
+    <td>Logo on DevOpsDays  website</td>
+    <td><strong>✔️</strong></td>
+    <td><strong>✔️</strong></td>
+    <td><strong>✔️</strong></td>
+    <td><strong>✔️</strong></td>
+    <td><strong>✔️</strong></td>
+    </tr>
+    <tr>
+    <td>Social media shout-out</td>
+    <td><strong>✔️</strong></td>
+    <td><strong>✔️</strong></td>
+    <td><strong>✔️</strong></td>
+    <td><strong>✔️</strong></td>
+    <td><strong>✔️</strong></td>
+    </tr>
+    <tr>
+    <td>Logo on marketing materials</td>
+    <td><strong>✔️</strong></td>
+    <td><strong>✔️</strong></td>
+    <td><strong>✔️</strong></td>
+    <td><strong>✔️</strong></td>
+    <td><strong>✔️</strong></td>
+    </tr>
+    <tr>
+    <td>Logo on slides at breaks</td>
+    <td><strong>✔️</strong></td>
+    <td><strong>✔️</strong></td>
+    <td><strong>✔️</strong></td>
+    <td></td>
+    <td>Talk to us</td>
+    </tr>
+    <tr>
+    <td>Logo on participant emails</td>
+    <td><strong>✔️</strong></td>
+    <td><strong>✔️</strong></td>
+    <td><strong>✔️</strong></td>
+    <td></td>
+    <td>Talk to us</td>
+    </tr>
+    <tr>
+    <td>Dedicated logo slide during breaks</td>
+    <td><strong>✔️</strong></td>
+    <td><strong>✔️</strong></td>
+    <td></td>
+    <td></td>
+    <td>Talk to us</td>
+    </tr>
+    <tr>
+    <td>Dedicated table in sponsor area (with chairs)</td>
+    <td><strong>✔️</strong></td>
+    <td><strong>✔️</strong></td>
+    <td></td>
+    <td></td>
+    <td>Talk to us</td>
+    </tr>
+    <tr>
+    <td>Ten-minutes pitch between talks</td>
+    <td><strong>✔️</strong></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Talk to us</td>
+    </tr>
+    <tr>
+    <td>Five-minute pitch between talks</td>
+    <td></td>
+    <td><strong>✔️</strong></td>
+    <td><strong>✔️</strong></td>
+    <td></td>
+    <td>Talk to us</td>
+    </tr>
+    <tr>
+    <td>Logo on all branded merch</td>
+    <td><strong>✔️</strong></td>
+    <td><strong>✔️</strong></td>
+    <td><strong>✔️</strong></td>
+    <td></td>
+    <td></td>
+    </tr>
+  
+</table>
+    <p>Sponsors are responsible for providing high-res logos for use on the website and in promotional materials.</p></div>
+
+    
 <!--
 <hr/>
 

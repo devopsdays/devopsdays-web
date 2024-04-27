@@ -21,6 +21,9 @@ Get ready to dive into discussions on automation, continuous integration and del
 
 So, without further ado, let's embark on this transformative journey together at DevOpsDays Nairobi. Welcome aboard, and let's pave the way for a future where DevOps excellence knows no bounds!</p>
 
+
+
+
 <div class = "row">
   <div class = "col-md-2">
     <strong>Dates</strong>
