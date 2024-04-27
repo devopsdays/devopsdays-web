@@ -110,6 +110,8 @@ sponsors:
     level: platinum
   - id: splunk
     level: platinum
+  - id: site24x7
+    level: gold
   - id: doit
     level: silver
   - id: kubeevents
