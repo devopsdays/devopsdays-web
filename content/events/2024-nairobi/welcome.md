@@ -99,7 +99,7 @@ So, without further ado, let's embark on this transformative journey together at
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Loction</strong>
+    <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="contact" text="Get in touch with the organizers" >}}
