@@ -1,9 +1,9 @@
 +++
 Title = "Du'An Lightfoot"
-Twitter = "https://twitter.com/labeveryday"
+Twitter = "labeveryday"
 linkedin = "https://www.linkedin.com/in/duanlightfoot/"
 Website = ""
-github = "https://github.com/labeveryday"
+github = "labeveryday"
 image = "duan-lightfoot.png"
 type = "speaker"
 linktitle = "duan-lightfoot"
