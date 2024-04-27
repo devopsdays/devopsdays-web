@@ -4,6 +4,8 @@ image = "danesh-manoharan.jpg"
 type = "speaker"
 linktitle = "danesh-manoharan"
 sharing_image = "danesh-manoharan.png"
+LinkedIn = "https://www.linkedin.com/in/daneshmanoharan/"
+Twitter = "d4n3sh"
 +++
 
 Danesh is a technical lead in HPC DevOps at PGS. He is currently based in Houston, though originally from Malaysia and moved to Houston around five years ago.
