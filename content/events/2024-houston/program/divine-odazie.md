@@ -4,8 +4,8 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Kubernetes at Scale: Going Multi-Cluster with Istio Service Mesh"
 Type = "talk"
-Speakers = ["jubril-oyetunji", "divine-odazie"]
-sharing_image = "jubril-oyetunji.png"
+Speakers = ["divine-odazie", "jubril-oyetunji"]
+sharing_image = "divine-odazie.png"
 +++
 
 Kubernetes changed the way organizations deploy and scale applications. Unlike the traditional methods of configuring infrastructure procedurally, Kubernetes requires operators to define the desired state of their application while it handles the rest.
