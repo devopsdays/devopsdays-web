@@ -3,7 +3,7 @@ Title = "Jubril Oyetunji"
 image = "jubril-oyetunji.jpg"
 type = "speaker"
 linktitle = "jubril-oyetunji"
-sharing_image = "jubril-oyetunji.png"
+sharing_image = "divine-odazie.png"
 Twitter = "s1ntaxe770r"
 +++
 

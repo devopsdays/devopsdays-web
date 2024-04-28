@@ -8,7 +8,7 @@ Icons = "false"
 <div class = "row">
   <div class = "col">
     <hr />
-	<h3>Stay Tuned! The schedule is coming soon, in the meantime please check out out <a href="../speakers">speakers!</a></h3> 
+	<h3>Stay Tuned! The schedule is coming soon, in the meantime please check out out <a href="https://devopsdays.org/events/2024-houston/speakers">speakers!</a></h3> 
     <hr />
     If Open Space is new to you, you may be interested in <a href="/pages/open-space-format">more details about Open Space</a>.
     <hr />
