@@ -1,7 +1,7 @@
 +++
 Title = "Unleashing DevOps Magic In Performance Testing & Analysis Automation Ignited"
 Type = "talk"
-Speakers = ["stephan-louis-mousset"]
+Speakers = ["stephan-mousset"]
 +++
 
 Companies embrace DevOps, working in cross-functional teams that create components that make up the microservice architectures that they live in and deliver value to its customers in. Automation, Observability, Monitoring, Collaboration and CI/CD are the enablers to be successful in this fast pace world in where we expect to deliver meaningful software deliveries multiple times per sprint.

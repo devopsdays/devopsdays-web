@@ -65,25 +65,23 @@ Description = "DevOpsDays Cáceres 2024"
         <!-- <div class="d-flex p-2">
           <a class="btn btn-secondary btn-block button-secondary" target="_blank" href="https://www.eventbrite.es/e/devopsdays-caceres-2024-tickets-536386545597"> <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;BUY TICKETS HERE!</a>
         </div> -->
-        <!-- <div class="d-flex p-2">
-          <a class="btn btn-secondary btn-block button-secondary" target="_blank" href="https://docs.google.com/forms/d/16So5MiAK1gx67n8030MKQkJcyQQq8rOXcJyuTbbjBXw/edit"> <i class="fa fa-paper-plane-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Call for Papers</a>
-        </div> -->
-        <!-- <div class="d-flex p-2">
+        <div class="d-flex p-2 call-for-papers">
+          <a class="btn btn-secondary btn-block button-secondary" target="_blank" href="https://www.papercall.io/devopsdays-caceres-2024"> <i class="fa fa-paper-plane-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Call for Papers</a>
+        </div>
+        <div class="d-flex p-2">
           <a class="btn btn-secondary btn-block button-secondary" href="/events/2024-caceres/sponsor"> <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference</a>
-        </div> -->
+        </div>
         <div class="d-flex p-2">
           <a class="btn btn-secondary btn-block button-secondary" href="/events/2024-caceres/contact"> <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Contact the Organizers</a>
         </div>
         <div class="d-flex p-2">
           <a class="btn btn-secondary btn-block button-secondary" href="https://devopsdays.cc" rel="noopener"> <i class="fa fa-file-code-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Link to DevOpsDays Cáceres web</a>
         </div>
-        <div class="col-md-8">
-          <p></p>
+        <div class="d-flex p-2">
+          <a class="btn btn-secondary btn-block button-secondary" href="https://community.codemotion.com/devopsdays-cceres" rel="noopener"> <i class="fa fa-users fa-lg"></i>&nbsp;&nbsp;&nbsp;Join our community</a>
         </div>
         <div class="col-md-8">
-          <a href="https://www.meetup.com/es-ES/caceres-devops" target="_blank">
-              <i class="fa fa-meetup fa-lg"></i>&nbsp; Cáceres Devops
-            </a>
+          <p></p>
         </div>
       </div>
     </div>
@@ -109,14 +107,14 @@ Description = "DevOpsDays Cáceres 2024"
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row call-for-papers">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    <a target="_blank" href="https://docs.google.com/forms/d/16So5MiAK1gx67n8030MKQkJcyQQq8rOXcJyuTbbjBXw/edit">Propose a talk!</a>
+    <a target="_blank" href="https://www.papercall.io/devopsdays-caceres-2024">Propose a talk!</a>
   </div>
-</div> -->
+</div>
 
 <!-- Uncomment if you added your city twitter name -->
 

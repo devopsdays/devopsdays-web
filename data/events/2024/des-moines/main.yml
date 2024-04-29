@@ -94,16 +94,18 @@ organizer_email: "des-moines@devopsdays.org" # Put your organizer email address 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
- - id: delta3
-   level: silver
- - id: john-deere
-   level: gold
- - id: principal
-   level: gold
- - id: sidegarage
-   level: community
- - id: turnberry
-   level: gold
+  - id: delta3
+    level: silver
+  - id: jetbrains
+    level: community
+  - id: john-deere
+    level: gold
+  - id: principal
+    level: gold
+  - id: sidegarage
+    level: community
+  - id: turnberry
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

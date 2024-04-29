@@ -182,36 +182,8 @@ sponsors:
   # - id: samplesponsorname
   #  level: gold
   #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  # - id: liatrio
-  #   level: platinum
-  # - id: newrelic
-  #   level: platinum
-  - id: rackn
+  - id: launch-darkly
     level: gold
-  # - id: cloudbees
-  #   level: gold
-  # - id: launch-darkly
-  #   level: gold
-  # - id: britive
-  #   level: gold
-  # - id: datadog
-  #   level: gold
-  # - id: progresschef
-  #   level: gold
-  # - id: vmware-tanzu-2023
-  #   level: gold
-  # - id: mirantis-lens
-  #   level: gold
-  # - id: redgate
-  #   level: silver
-  # - id: clickhouse
-  #   level: silver
-  # - id: improving
-  #   level: silver
-  # - id: swa
-  #   level: silver
-  # - id: capitalone
-  #   level: silver
   # - id: devopslive
   #   level: community
   # - id: addo

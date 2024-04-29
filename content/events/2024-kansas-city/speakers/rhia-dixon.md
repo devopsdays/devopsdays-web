@@ -1,6 +1,6 @@
 +++
 Title = "Rhia Dixon"
-Twitter = "https://twitter.com/TheFakeRiRi"
+Twitter = "TheFakeRiRi"
 linkedin = "https://www.linkedin.com/in/rhiadixon/"
 Website = ""
 image = "rhia-dixon.png"
