@@ -3,7 +3,7 @@ Title = "Tyko Kieskamp"
 Linkedin = "https://www.linkedin.com/in/tyko-kieskamp-870aba137/"
 Website = ""
 Twitter = ""
-image = ""
+image = "tyko-kieskamp.jpg"
 type = "speaker"
 linktitle = "tyko-kieskamp"
 +++
