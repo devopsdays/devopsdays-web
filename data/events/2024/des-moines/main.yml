@@ -96,6 +96,8 @@ organizer_email: "des-moines@devopsdays.org" # Put your organizer email address 
 sponsors:
   - id: delta3
     level: silver
+  - id: jetbrains
+    level: community
   - id: john-deere
     level: gold
   - id: principal
