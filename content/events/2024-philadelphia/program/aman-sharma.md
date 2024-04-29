@@ -16,6 +16,6 @@ This comprehensive master class is designed to guide anyone (non-AI and noncoder
 5. LLM Training Essentials: Brief on training and fine-tuning LLMs for custom needs.
 6. Simplifying LLMOps:Introduction to managing LLM applications with a focus on practical tools.
 7. Building Your Application:Key steps to integrate LLMs into your app's front and back end.
-8.Deployment and Testing:Strategies for deploying and testing your application efficiently.
+8. Deployment and Testing:Strategies for deploying and testing your application efficiently.
 9. Monitoring, Maintenance, and Scaling:Tips for keeping your application running smoothly and scaling up.
 10. Wrap-Up: Best practices and ongoing improvements
