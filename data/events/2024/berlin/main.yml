@@ -207,11 +207,16 @@ program:
     date: 2024-05-07
     start_time: "15:00"
     end_time: "15:45"
+  - title: "Break"
+    type: custom
+    date: 2024-05-07
+    start_time: 15:45
+    end_time: 16:15
   - title: "Open Space #2"
     type: open-space
     date: 2024-05-07
-    start_time: "16:00"
-    end_time:  "16:45"
+    start_time: "16:15"
+    end_time:  "17:00"
   - title: "Open Space #3"
     type: open-space
     date: 2024-05-07
@@ -270,11 +275,11 @@ program:
     type: ignite
     date: 2024-05-08
     start_time: "12:15"
-    end_time: "13:15"
+    end_time: "12:45"
   - title: "Lunch (catered)"
     type: custom
     date: 2024-05-08
-    start_time: "13:15"
+    start_time: "12:45"
     end_time: "14:00"
   - title: "Open Space Topics"
     type: open-space
@@ -286,16 +291,21 @@ program:
     date: 2024-05-08
     start_time: "14:30"
     end_time: "15:15"
+  - title: "Break"
+    type: custom
+    date: 2024-05-08
+    start_time: "15:15"
+    end_time: "15:45"
   - title: "Open Space #2"
     type: open-space
     date: 2024-05-08
-    start_time: "15:30"
-    end_time: "16:10"
+    start_time: "15:45"
+    end_time: "16:30"
   - title: "Open Space #3"
     type: open-space
     date: 2024-05-08
     start_time: "16:30"
-    end_time: "17:00"
+    end_time: "17:15"
 ignites:
   - title: "daiany-palacios"
     date: 2024-05-07
