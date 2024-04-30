@@ -12,34 +12,34 @@ masthead_background: "vista_do_centro_de_juiz_de_fora-mg.jpeg"
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2024-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-#-- startdate: 2024-05-19T08:00:00-03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-#-- enddate: 2024-05-20T18:00:00-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2024-07-05T08:00:00-03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2024-07-06T18:00:00-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 #-- cfp_date_start: 2024-03-01T09:00:00-03:00 # start accepting talk proposals.
 #-- cfp_date_end: 2024-04-03T02:59:00-03:00 # close your call for proposals.
 #-- cfp_date_announce: 2024-04-11T03:00:00-03:00 # inform proposers of status
 
-cfp_open: "false"
-#-- cfp_link: "https://www.papercall.io/devopsdaysjuizdefora2024"
+cfp_open: "true"
+cfp_link: "https://www.papercall.io/devopsdaysjuizdefora2024"
 
-#-- registration_date_start: 2024-07-31T00:00:00-03:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-#-- registration_date_end: 2024-11-05T23:59:59-03:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: 2024-04-05T00:00:00-03:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2024-07-05T08:00:00-03:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
-#-- registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-#-- registration_link: "https://www.sympla.com.br/evento/devopsdays-juiz-de-fora-2024/1912369" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+# registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://www.sympla.com.br/evento/devopsdays-juiz-de-fora-2024/2394061" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
-#-- coordinates: "-21.762058, -43.352624" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-#-- location: "UniAcademia"
-#-- location_address: "R. Halfeld, 1179 - Centro, Juiz de Fora - MG, 36016-000" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+coordinates: "-21.762058, -43.352624" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "UniAcademia"
+location_address: "R. Halfeld, 1179 - Centro, Juiz de Fora - MG, 36016-000" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  #- name: Chamadas (CFP)
-  #  url: https://www.papercall.io/devopsdaysjuizdefora2024
-  # - name: local
-  #- name: inscrição
-  #  url: https://www.sympla.com.br/evento/devopsdays-juiz-de-fora-2024/1912369
+  - name: Chamadas (CFP)
+    url: https://www.papercall.io/devopsdaysjuizdefora2024
+  - name: local
+  - name: inscrição
+    url: https://www.sympla.com.br/evento/devopsdays-juiz-de-fora-2024/2394061
   #- name: programação
   #  url: /events/2024-juiz-de-fora/program
   #- name: palestrantes
@@ -114,8 +114,12 @@ organizer_email: "juiz-de-fora@devopsdays.org" # Put your organizer email addres
 sponsors:
   - id: rubeus
     level: platinum
-  # - id: uniacademia
-  #  level: platinum
+  - id: uniacademia
+    level: platinum
+  - id: kubeevents
+    level: community
+  - id: kubecareers
+    level: community
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 

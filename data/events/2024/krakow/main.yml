@@ -39,10 +39,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: sponsor
     url: "mailto:krakow@devopsdays.org"
   - name: location
-#  - name: program
-#    url: https://dodkrakow.pl/schedule-2024/
-#  - name: speakers
-#    url: https://dodkrakow.pl/#speakers
+  - name: program
+    url: https://dodkrakow.pl/#schedule
   - name: contact
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/

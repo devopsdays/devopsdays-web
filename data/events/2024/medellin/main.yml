@@ -145,16 +145,40 @@ sponsors:
 # - id: samplesponsorname
 #   level: gold
 #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-#  - id: harness
-#    level: diamond
-#  - id: devops-colombia
-#    level: diamond
-#  - id: 2020-devco
-#    level: diamond
-#  - id: harness
-#    level: diamond
-#  - id: fluidattacks
-#    level: diamond
+  - id: githublogo
+    level: diamond
+  - id: nttdata
+    level: diamond
+  - id: devops-colombia
+    level: diamond
+  - id: fluidattacks
+    level: diamond
+  - id: 2020-devco
+    level: diamond    
+  - id: gapss
+    level: platinum
+  - id: tsoft
+    level: platinum
+  - id: sonatype
+    level: platinum
+  - id: pragma
+    level: platinum
+  - id: veritasautomata
+    level: platinum
+  - id: nearsure
+    level: platinum
+  - id: datadog
+    level: platinum
+  - id: softserve
+    level: platinum
+  - id: factoredai
+    level: platinum
+  - id: micro-focus
+    level: platinum
+  - id: womenwhocode
+    level: socialmedia 
+  - id: dcl
+    level: socialmedia     
 #  - id: sonatype
 #    level: diamond
 #  - id: elastic
@@ -166,8 +190,6 @@ sponsors:
 #  - id: hashicorp 
 #    level: platinum
 #  - id: newrelic
-#    level: platinum
-#  - id: pragma
 #    level: platinum
 #  - id: os_enterprise
 #    level: platinum
@@ -183,18 +205,18 @@ sponsors:
 #    level: platinum
 #  - id: javeriana
 #    level: platinum
-#  - id: linux-professional-institute
-#    level: socialmedia
+  - id: linux-professional-institute
+    level: socialmedia
 #  - id: intersoftware
 #    level: socialmedia
-#  - id: certiprof
-#    level: socialmedia
+  - id: certiprof
+    level: socialmedia
 #  - id: devopsinstitute
 #    level: socialmedia
-#  - id: rutan
-#    level: socialmedia
-#  - id: alcaldiamedellin
-#    level: socialmedia
+  - id: intersoftware
+    level: socialmedia
+  - id: peoplecert
+    level: socialmedia
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -207,7 +229,5 @@ sponsor_levels:
     label: Diamond
   - id: platinum
     label: Platinum
-  - id: gold
-    label: Gold
   - id: socialmedia
     label: Social Media

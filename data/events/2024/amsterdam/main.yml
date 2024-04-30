@@ -39,13 +39,18 @@ masthead_background: "backdrop.png"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
+    icon: "map"
   - name: registration
+    icon: "sign-in"
   # - name: propose
-  # - name: program
-  # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
+    icon: "money"
   - name: contact
+    icon: "comment"
   - name: conduct
+    icon: universal-access
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -61,7 +66,7 @@ team_members: # Name is the only required field for team members.
   - name: "Floor Drees"
     pronouns: "she/her"
     linkedin: "https://www.linkedin.com/in/floordrees/"
-    twitter: "FloorDrees"
+    twitter: "DevOpsBarbie"
     image: "floor.jpg"
 
   - name: "Suzanne Daniels"
@@ -111,9 +116,10 @@ organizer_email: "amsterdam@devopsdays.org" # Put your organizer email address h
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-sponsors:
   # Platinum
   # Beer
+  - id: chef
+    level: beer
   # Coffee
   - id: greater-bv
     level: coffee
@@ -129,11 +135,17 @@ sponsors:
     level: gold
   - id: exoscale
     level: gold
+  - id: stackstate
+    level: gold
+  - id: googlecloud
+    level: gold
   # Lanyard
-  # Foodtruck
-  # Recharge
   - id: schubergphilis
-    level: recharge
+    level: lanyard
+  # Foodtruck
+  - id: flyio
+    level: foodtruck
+  # Recharge
   # Silver
   - id: sysdig
     level: silver
@@ -141,8 +153,16 @@ sponsors:
     level: silver
   - id: fullstaq
     level: silver
+  - id: cert2connect-checkmarx
+    level: silver
+  - id: hcscompany
+    level: silver
   # Bronze
   - id: devleaps
+    level: bronze
+  - id: atcomputing
+    level: bronze
+  - id: tilinthecloud
     level: bronze
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -156,7 +176,7 @@ sponsor_levels:
     label: Platinum
     max: 1
   - id: beer
-    label: Beer
+    label: Beverage
     max: 1
   - id: coffee
     label: Coffee
@@ -182,3 +202,484 @@ sponsor_levels:
   - id: bronze
     label: "Bronze"
     max: 10
+
+
+program:
+  # workshop day
+  - title: "Registration (workshop day)"
+    type: custom
+    date: 2024-06-19T00:00:00+02:00
+    start_time: "08:00"
+    end_time: "09:00"
+
+  # 2024 Workshops
+  # 9:00 to 12:00
+
+  - title: "ws-suzanne-lagerweij"
+    type: workshop
+    date: 2024-06-19T00:00:00+02:00
+    start_time: "09:00"
+    end_time: "10:30"
+    comments: "Workspace"
+
+  - title: "ws-joao-rosa"
+    type: workshop
+    date: 2024-06-19T00:00:00+02:00
+    start_time: "09:00"
+    end_time: "12:00"
+    comments: "Expo 1"
+
+  - title: "ws-nathen-harvey-amanda-lewis-dave-stanke"
+    type: workshop
+    date: 2024-06-19T00:00:00+02:00
+    start_time: "09:00"
+    end_time: "12:00"
+    comments: "Grote Zaal"
+  
+  - title: "ws-kenny-baas-schwegler-sjoerd-westerhof"
+    type: workshop
+    date: 2024-06-19T00:00:00+02:00
+    start_time: "09:00"
+    end_time: "12:00"
+    comments: "Studio"
+
+  - title: "ws-john-willis"
+    type: workshop
+    date: 2024-06-19T00:00:00+02:00
+    start_time: "09:00"
+    end_time: "12:00"
+    comments: "IJ Zaal"
+
+  # BREAK
+  - title: "Break"
+    type: custom
+    date: 2024-06-19T00:00:00+02:00
+    start_time: "10:30"
+    end_time: "10:45"
+
+  - title: "ws-rushil-sharma"
+    type: workshop
+    date: 2024-06-19T00:00:00+02:00
+    start_time: "10:45"
+    end_time: "12:15"
+    comments: "Workspace"
+
+  # LUNCH
+  - title: "Lunch Break"
+    type: custom
+    date: 2024-06-19T00:00:00+02:00
+    start_time: "12:00"
+    end_time: "13:00"
+
+  - title: "ws-lutske-de-leeuw"
+    type: workshop
+    date: 2024-06-19T00:00:00+02:00
+    start_time: "13:00"
+    end_time: "14:30"
+    comments: "Expo 1"
+
+  - title: "ws-lian-li"
+    type: workshop
+    date: 2024-06-19T00:00:00+02:00
+    start_time: "13:00"
+    end_time: "15:00"
+    comments: "Grote Zaal"
+
+  - title: "ws-wouter-lagerweij-suzanne-lagerweij"
+    type: workshop
+    date: 2024-06-19T00:00:00+02:00
+    start_time: "13:00"
+    end_time: "14:30"
+    comments: "Studio"
+
+  - title: "ws-eric-d-schabell"
+    type: workshop
+    date: 2024-06-19T00:00:00+02:00
+    start_time: "13:00"
+    end_time: "16:00"
+    comments: "IJ Zaal"
+
+  # BREAK
+  - title: "Break"
+    type: custom
+    date: 2024-06-19T00:00:00+02:00
+    start_time: "14:30"
+    end_time: "14:45"
+
+  - title: "ws-mike-kotsur"
+    type: workshop
+    date: 2024-06-19T00:00:00+02:00
+    start_time: "14:45"
+    end_time: "16:45"
+    comments: "Expo 1"
+
+  # BREAK
+  - title: "Break"
+    type: custom
+    date: 2024-06-19T00:00:00+02:00
+    start_time: "15:00"
+    end_time: "15:15"
+
+  - title: "ws-daniel-bodky"
+    type: workshop
+    date: 2024-06-19T00:00:00+02:00
+    start_time: "15:00"
+    end_time: "17:00"
+    comments: "Studio"
+
+  - title: "ws-sohan-maheshwar"
+    type: workshop
+    date: 2024-06-19T00:00:00+02:00
+    start_time: "15:30"
+    end_time: "17:00"
+    comments: "Grote Zaal"
+
+  - title: "ws-alireza-chegini"
+    type: workshop
+    date: 2024-06-19T00:00:00+02:00
+    start_time: "16:15"
+    end_time: "17:00"
+    comments: "Ij Zaal"
+
+  - title: "ws-rania-mohamed-fahd-ekadioin-christiaan-hees"
+    type: workshop
+    date: 2024-06-19T00:00:00+02:00
+    start_time: "16:45"
+    end_time: "17:30"
+    comments: "Expo 1"
+
+  # end of day
+  - title: "Have a beer on us!"
+    type: custom
+    date: 2024-06-19T00:00:00+02:00
+    start_time: "17:30"
+    end_time: "18:30"
+    comments: "Pakhuis de Zwijger bar"
+
+  # DAY 1
+
+  - title: "Registration - Welcome!"
+    type: custom
+    date: 2024-06-20T00:00:00+02:00
+    start_time: "08:00"
+    end_time: "09:00"
+
+  - title: "Welcome to the 12th edition of DevOpsDays Amsterdam!"
+    type: custom
+    date: 2024-06-20T00:00:00+02:00
+    start_time: "09:00"
+    end_time: "09:15"
+    background_color: "#DFEFFA"
+
+  - title: "keynote-sara-gerion"
+    type: talk
+    date: 2024-06-20T00:00:00+02:00
+    start_time: "09:15"
+    end_time: "09:55"
+    background_color: "#bfe3b4"
+
+  - title: "onno-ceelen-roy-triesscheijn"
+    type: talk
+    date: 2024-06-20T00:00:00+02:00
+    start_time: "10:00"
+    end_time: "10:30"
+
+  - title: "Break"
+    type: custom
+    date: 2024-06-20T00:00:00+02:00
+    start_time: "10:30"
+    end_time: "10:45"
+
+  - title: "Online: Interview"
+    type: custom
+    date: 2024-06-20T00:00:00+02:00
+    start_time: "10:30"
+    end_time: "10:45"
+    background_color: "#8ad0d3"
+
+  - title: "katharina-sick"
+    type: talk
+    date: 2024-06-20T00:00:00+02:00
+    start_time: "10:50"
+    end_time: "11:20"
+
+  - title: "cote"
+    type: talk
+    date: 2024-06-20T00:00:00+02:00
+    start_time: "11:25"
+    end_time: "11:55"
+
+  - title: "Lunch"
+    type: custom
+    date: 2024-06-20T00:00:00+02:00
+    start_time: "12:00"
+    end_time: "13:00"
+
+  - title: "Online: Interviews"
+    type: custom
+    date: 2024-06-20T00:00:00+02:00
+    start_time: "12:00"
+    end_time: "13:00"
+    background_color: "#8ad0d3"
+
+  - title: "marcy-stephane-cusin"
+    type: talk
+    date: 2024-06-20T00:00:00+02:00
+    start_time: "13:05"
+    end_time: "13:35"
+
+  - title: "Ignites Day 1"
+    type: ignite
+    date: 2024-06-20T00:00:00+02:00
+    start_time: "13:40"
+    end_time: "14:05"
+
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2024-06-20T00:00:00+02:00
+    start_time: "14:10"
+    end_time: "15:00"
+    background_color: "#ffb566"
+
+  - title: "Open Space Session - Day 1 - #1"
+    type: open-space
+    date: 2024-06-20T00:00:00+02:00
+    start_time: "15:05"
+    end_time: "15:35"
+    background_color: "#ffb566"
+
+  - title: "matteo-bianchi"
+    type: talk
+    date: 2024-06-20T00:00:00+02:00
+    start_time: "15:05"
+    end_time: "15:35"
+
+  - title: "Open Space Session - Day 1 - #2"
+    type: open-space
+    date: 2024-06-20T00:00:00+02:00
+    start_time: "15:40"
+    end_time: "16:10"
+    background_color: "#ffb566"
+
+  - title: "henk-van-der-schuur-hugo-trippaers"
+    type: talk
+    date: 2024-06-20T00:00:00+02:00
+    start_time: "15:40"
+    end_time: "16:10"
+
+  - title: "Open Space Session - Day 1 - #3"
+    type: open-space
+    date: 2024-06-20T00:00:00+02:00
+    start_time: "16:15"
+    end_time: "16:45"
+    background_color: "#ffb566"
+
+  - title: "gerald-benischke"
+    type: talk
+    date: 2024-06-20T00:00:00+02:00
+    start_time: "16:15"
+    end_time: "16:45"
+
+  - title: "Close Day / Wrap Up"
+    type: custom
+    date: 2024-06-20T00:00:00+02:00
+    start_time: "16:45"
+    end_time: "17:00"
+    comments: "Location: Grote Zaal"
+
+  - title: "BBQ"
+    type: custom
+    date: 2024-06-20T00:00:00+02:00
+    start_time: "17:00"
+    end_time: "19:00"
+    comments: "Location: Outside, in front of venue brought to by our Platinum sponsor"
+
+  - title: "Bingo & Karaoke"
+    type: custom
+    date: 2024-06-20T00:00:00+02:00
+    start_time: "19:30"
+    end_time: "23:00"
+    comments: "Location: Grote Zaal brought to by our Platinum sponsor"
+
+  # DAY 2
+  - title: "Registration, Breakfast, and Sponsor Booths Open"
+    type: custom
+    date: 2024-06-21T00:00:00+02:00
+    start_time: "08:00"
+    end_time: "09:00"
+
+  - title: "Recap of day 1 and introduction to day 2 of conference!"
+    type: custom
+    date: 2024-06-21T00:00:00+02:00
+    start_time: "09:00"
+    end_time: "09:15"
+    background_color: "#DFEFFA"
+
+  - title: "keynote-sasha-rosenbaum"
+    type: talk
+    date: 2024-06-21T00:00:00+02:00
+    start_time: "09:15"
+    end_time: "09:55"
+    background_color: "#bfe3b4"
+
+  - title: "feu-mourek"
+    type: talk
+    date: 2024-06-21T00:00:00+02:00
+    start_time: "10:00"
+    end_time: "10:30"
+
+  - title: "Break"
+    type: custom
+    date: 2024-06-21T00:00:00+02:00
+    start_time: "10:30"
+    end_time: "10:45"
+
+  - title: "Online: Interview"
+    type: custom
+    date: 2024-06-21T00:00:00+02:00
+    start_time: "10:30"
+    end_time: "10:45"
+    background_color: "#8ad0d3"
+
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2024-06-21T00:00:00+02:00
+    start_time: "10:45"
+    end_time: "11:30"
+    background_color: "#ffb566"
+
+  - title: "Open Space Session - Day 2 - #1"
+    type: open-space
+    date: 2024-06-21T00:00:00+02:00
+    start_time: "11:35"
+    end_time: "12:05"
+    background_color: "#ffb566"
+
+  - title: "luc-van-donkersgoed"
+    type: talk
+    date: 2024-06-21T00:00:00+02:00
+    start_time: "11:35"
+    end_time: "12:05"
+
+  - title: "Open Space Session - Day 2 - #2"
+    type: open-space
+    date: 2024-06-21T00:00:00+02:00
+    start_time: "12:10"
+    end_time: "12:40"
+    background_color: "#ffb566"
+
+  - title: "Lunch"
+    type: custom
+    date: 2024-06-21T00:00:00+02:00
+    start_time: "12:05"
+    end_time: "13:15"
+
+  - title: "Online: Interviews"
+    type: custom
+    date: 2024-06-21T00:00:00+02:00
+    start_time: "12:05"
+    end_time: "13:15"
+    background_color: "#8ad0d3"
+
+  - title: "Ignites Day 2"
+    type: ignite
+    date: 2024-06-21T00:00:00+02:00
+    start_time: "13:15"
+    end_time: "13:40"
+
+  - title: "Open Space Session - Day 2 - #3"
+    type: open-space
+    date: 2024-06-21T00:00:00+02:00
+    start_time: "13:45"
+    end_time: "14:15"
+    background_color: "#ffb566"
+
+  - title: "marcel-kornegoor"
+    type: talk
+    date: 2024-06-21T00:00:00+02:00
+    start_time: "13:45"
+    end_time: "14:15"
+
+  - title: "Open Space Session - Day 2 - #4"
+    type: open-space
+    date: 2024-06-21T00:00:00+02:00
+    start_time: "14:20"
+    end_time: "14:50"
+    background_color: "#ffb566"
+
+  - title: "katie-schilling"
+    type: talk
+    date: 2024-06-21T00:00:00+02:00
+    start_time: "14:20"
+    end_time: "14:50"
+
+  - title: "Open Space Session - Day 2 - #5"
+    type: open-space
+    date: 2024-06-21T00:00:00+02:00
+    start_time: "14:55"
+    end_time: "15:25"
+    background_color: "#ffb566"
+
+  - title: "yishai-beeri"
+    type: talk
+    date: 2024-06-21T00:00:00+02:00
+    start_time: "14:55"
+    end_time: "15:25"
+
+  - title: "Break"
+    type: custom
+    date: 2024-06-21T00:00:00+02:00
+    start_time: "15:25"
+    end_time: "15:40"
+
+  - title: "Online: Interview"
+    type: custom
+    date: 2024-06-21T00:00:00+02:00
+    start_time: "15:25"
+    end_time: "15:40"
+    background_color: "#8ad0d3"
+
+  - title: "tyko-kieskamp"
+    type: talk
+    date: 2024-06-21T00:00:00+02:00
+    start_time: "15:40"
+    end_time: "16:10"
+
+  - title: "amber-vanderburg"
+    type: talk
+    date: 2024-06-21T00:00:00+02:00
+    start_time: "16:15"
+    end_time: "16:45"
+
+  - title: "Close Day / Wrap Up"
+    type: custom
+    date: 2024-06-21T00:00:00+02:00
+    start_time: "16:45"
+    end_time: "17:00"
+    comments: "Location: Grote Zaal"
+
+# Ignites
+ignites:
+  - title: "ig-robin-gilijamse"
+    date: 2024-06-20T00:00:00+02:00
+
+  - title: "ig-daniel-bodky"
+    date: 2024-06-20T00:00:00+02:00
+
+  - title: "ig-heather-thacker"
+    date: 2024-06-20T00:00:00+02:00
+
+  - title: "ig-marcel-britsch"
+    date: 2024-06-20T00:00:00+02:00
+
+  - title: "ig-nathen-harvey"
+    date: 2024-06-21T00:00:00+02:00
+
+  - title: "ig-aj"
+    date: 2024-06-21T00:00:00+02:00
+
+  - title: "ig-toshaan-bharvani"
+    date: 2024-06-21T00:00:00+02:00
+
+  - title: "ig-eugene-romero"
+    date: 2024-06-21T00:00:00+02:00

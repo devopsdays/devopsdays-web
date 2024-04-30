@@ -54,23 +54,23 @@ Description = "devopsdays Berlin 2024"
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
     View the {{< event_link page="program" text="program." >}}
   </div>
-</div> -->
+</div> 
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -90,5 +90,21 @@ Description = "devopsdays Berlin 2024"
   </div>
 </div>
 
-<!-- Uncomment if you added your city twitter name -->
-{{< event_twitter >}}
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Twitter</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_twitter >}}
+  </div>
+</div>
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Mastodon</strong>
+  </div>
+  <div class = "col-md-8">
+      <a rel="me" href="https://social.devopsdays.org/@berlin">Follow
+      @berlin@social.devopsdays.org</a>
+  </div>
+</div>

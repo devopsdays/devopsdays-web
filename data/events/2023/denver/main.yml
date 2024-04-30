@@ -72,13 +72,13 @@ sponsors_accepted: "yes"
 sponsors:
   - id: sleuth
     level: gold
-  - id: site24x7
+  - id: site24x7-before-20240321
     level: gold
   - id: temporal
     level: gold
   - id: cloudbees
     level: gold
-  - id: appdynamics
+  - id: appdynamics-before-20240418
     level: gold
   - id: vmware-tanzu
     level: gold

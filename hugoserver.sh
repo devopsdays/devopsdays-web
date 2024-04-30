@@ -20,8 +20,12 @@ else
   HUGO_BASEURL="http://localhost:1313"
 fi
 
+# Get the current user/group so we can run hugo as this user/group
+CURUSER=$(id -u)
+CURGROUP=$(id -g)
+
 # You can set HUGO_IMAGE in the env to overwrite or it will default to this version
-HUGO_IMAGE=${HUGO_IMAGE:-cibuilds/hugo:0.121.2}
+HUGO_IMAGE=${HUGO_IMAGE:-cibuilds/hugo:0.123.3}
 
 echo "HUGO_BASEURL: $HUGO_BASEURL"
 docker stop hugo-server 2>/dev/null
@@ -29,8 +33,8 @@ docker rm   hugo-server 2>/dev/null
 
 [[ -f hugo.log ]] && rm hugo.log
 
-docker run -tip 1313:1313 -v $(pwd):/home/circleci/project:${MOUNT_OPTION} \
-  -e HUGO_THEME=devopsdays-theme \
-  --name hugo-server --entrypoint "" \
+docker run -tip 1313:1313 -v $(pwd):/project:${MOUNT_OPTION} \
+  -e HUGO_THEME=devopsdays-theme -w /project \
+  --name hugo-server --entrypoint "" --user $CURUSER:$CURGROUP \
   ${HUGO_IMAGE} hugo server --watch --bind 0.0.0.0 --baseURL ${HUGO_BASEURL} \
     --noHTTPCache --logLevel info 

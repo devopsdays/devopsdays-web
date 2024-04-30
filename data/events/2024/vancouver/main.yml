@@ -2,9 +2,9 @@ name: "2024-vancouver" # The name of the event. Four digit year with the city na
 year: "2024" # The year of the event. Make sure it is in quotes.
 city: "Vancouver" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdays" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "Devopsdays is coming to Vancouver!" # Edit this to suit your preferences
+description: "Devopsdays Vancouver has cancelled due to very low ticket sales." # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
-
+cancel: "true"
 # All dates are in unquoted 2024-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00
 #   variable: 2019-01-05T23:59:59+02:00
@@ -23,8 +23,8 @@ cfp_link: "" #if you have a custom link for submitting proposals, add it here. T
 registration_date_start: 2024-03-01T00:00:00-08:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 registration_date_end: 2024-05-17T00:00:00+02:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
-registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_closed: "true" #set this to true if you need to manually close registration before your registration end date
+registration_link: # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -34,9 +34,9 @@ location: "Vancouver" # Defaults to city, but you can make it the venue name.
 location_address: "800 Robson St, Vancouver, BC V6Z 2E7" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: sponsor
   - name: contact
   - name: conduct
+  - name: program
 
 
 # These are the same people you have on the mailing list and Slack channel.
@@ -58,13 +58,19 @@ organizer_email: "vancouver@devopsdays.org" # Put your organizer email address h
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-#   - id: samplesponsorname
-#     level: gold
+  - id: sada
+    level: silver
+  - id: codezero
+    level: silver
+  - id: grafanalabs
+    level: bronze
+  - id: grafanalabs
+    level: coffee
 #  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 #   - id: arresteddevops
 #     level: community
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -80,3 +86,199 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2024-05-17T00:00:00-08:00
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Introduction"
+    type: custom
+    date: 2024-05-17T00:00:00-08:00
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "Federico Fregosi (He/Him): The Reality of porting Kubernetes apps across cloud providers"
+    type: custom
+    background_color: "#abebff"
+    date: 2024-05-17T00:00:00-08:00
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Kat Gaines (she/her/hers): Documenting Failure: How to Get Incident Communication Right"
+    type: custom
+    background_color: "#abebff"
+    date: 2024-05-17T00:00:00-08:00
+    start_time: "09:45"
+    end_time: "10:15"
+  - title: "Sponsors"
+    type: custom
+    date: 2024-05-17T00:00:00-08:00
+    start_time: "10:15"
+    end_time: "10:20"
+  - title: "Break"
+    type: custom
+    date: 2024-05-17T00:00:00-08:00
+    start_time: "10:20"
+    end_time: "10:30"
+  - title: "Talk 3 - Boris Kurktchiev (he/him): Zero Trust in Practice with Istio and Kyverno"
+    type: custom
+    background_color: "#abebff"
+    date: 2024-05-17T00:00:00-08:00
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "Caleb Schoepp (he/him): What Actually Is WebAssembly: Taking a Look Under the Hood"
+    type: custom
+    background_color: "#abebff"
+    date: 2024-05-17T00:00:00-08:00
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "Open Space Slot Opening and Proposals"
+    type: custom
+    date: 2024-05-17T00:00:00-08:00
+    start_time: "11:30"
+    end_time: "12:15"
+  - title: "Lunch and Open Space Slots Voting"
+    type: custom
+    date: 2024-05-17T00:00:00-08:00
+    start_time: "12:15"
+    end_time: "13:00"
+  - title: "Dwayne McDaniel (He/Him): Who Goes There? Actively Detecting Intruders With Cyber Deception Tools"
+    type: custom
+    background_color: "#abebff"
+    date: 2024-05-17T00:00:00-08:00
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Open Space Slot #1"
+    type: custom
+    date: 2024-05-17T00:00:00-08:00
+    start_time: "13:30"
+    end_time: "14:30"
+  - title: "Open Space Slot #2"
+    type: custom
+    date: 2024-05-17T00:00:00-08:00
+    start_time: "14:30"
+    end_time: "15:30"
+  - title: "Open Space Slot #3"
+    type: custom
+    date: 2024-05-17T00:00:00-08:00
+    start_time: "15:30"
+    end_time: "16:30"
+  - title: "Close Day"
+    type: custom
+    date: 2024-05-17T00:00:00-08:00
+    start_time: "16:30"
+    end_time: "17:00"
+  - title: "Party Starts (Butcher&Bullock, bring your badge)"
+    type: custom
+    date: 2024-05-17T00:00:00-08:00
+    start_time: "17:00"
+    end_time: "20:00"
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2024-05-18T23:59:59-08:00
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2024-05-18T23:59:59-08:00
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "Oleksandr Zadorozhnyi (he/his): Scaling beyond Kubernetes"
+    type: custom
+    background_color: "#abebff"
+    date: 2024-05-18T23:59:59-08:00
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Zoe Steinkamp (Zoe): A 101 in time series analytics with Apache Arrow, Pandas and Parquet"
+    type: custom
+    background_color: "#abebff"
+    date: 2024-05-18T23:59:59-08:00
+    start_time: "09:45"
+    end_time: "10:15"
+  - title: "Sponsors"
+    type: custom
+    date: 2024-05-18T23:59:59-08:00
+    start_time: "10:15"
+    end_time: "10:20"
+  - title: "Break"
+    type: custom
+    date: 2024-05-18T23:59:59-08:00
+    start_time: "10:20"
+    end_time: "10:30"
+  - title: "Henry Prêcheur (no pronouns): MacOS Nodes in Kubernetes: Development, Deployment, and Operation"
+    type: custom
+    background_color: "#abebff"
+    date: 2024-05-18T23:59:59-08:00
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "Ming Yu Wang (She/Her): How to Optimize Java Workloads in the Cloud Era"
+    type: custom
+    background_color: "#abebff"
+    date: 2024-05-18T23:59:59-08:00
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "Open Space Slot Intro and Proposals"
+    type: custom
+    date: 2024-05-18T23:59:59-08:00
+    start_time: "11:30"
+    end_time: "12:15"
+  - title: "Lunch & Open Space Slot Voting"
+    type: custom
+    date: 2024-05-18T23:59:59-08:00
+    start_time: "12:15"
+    end_time: "13:00"
+  - title: "Ignite Opening"
+    type: ignite
+    date: 2024-05-18T23:59:59-08:00
+    start_time: "13:00"
+    end_time: "13:05"
+    block: ignite-2
+  - title: "Dan phrawzty Maher (he/him/his): The Open Source Baggage We Carry"
+    type: ignite
+    date: 2024-05-18T23:59:59-08:00
+    start_time: "13:00"
+    end_time: "13:05"
+    block: ignite-2
+  - title: "Ayesha Bhutto	(she/her): Power Tools to Hammer through Conversations"
+    type: ignite
+    date: 2024-05-18T23:59:59-08:00
+    start_time: "13:05"
+    end_time: "13:10"
+    block: ignite-2
+  - title: "Henry Prêcheur (no pronouns): Cloud API comparison: Amazon, Google, Microsoft, and Oracle"
+    type: ignite
+    date: 2024-05-18T23:59:59-08:00
+    start_time: "13:10"
+    end_time: "13:15"
+    block: ignite-2
+  - title: "Matti Ranta (he/him): Forget Databases and Application Code, All You Need Is Git"
+    type: ignite
+    date: 2024-05-18T23:59:59-08:00
+    start_time: "13:15"
+    end_time: "13:20"
+    block: ignite-2
+  - title: "Taylor Stacey (he/him): The Push and Pull of Shipping Software"
+    type: ignite
+    date: 2024-05-18T23:59:59-08:00
+    start_time: "13:25"
+    end_time: "13:30"
+    block: ignite-2
+  - title: "Open Space Slot #4"
+    type: custom
+    date: 2024-05-18T23:59:59-08:00
+    start_time: "13:30"
+    end_time: "14:30"
+  - title: "Open Space Slot #5"
+    type: custom
+    date: 2024-05-18T23:59:59-08:00
+    start_time: "14:30"
+    end_time: "15:30"
+  - title: "Open Space Slot #6"
+    type: custom
+    date: 2024-05-18T23:59:59-08:00
+    start_time: "15:30"
+    end_time: "16:30"
+  - title: "Closing"
+    type: custom
+    date: 2024-05-18T23:59:59-08:00
+    start_time: "16:30"
+    end_time: "17:00"

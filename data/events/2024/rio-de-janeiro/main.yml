@@ -14,12 +14,12 @@ startdate: 2024-08-24T09:00:00-03:00 # The start date of your event. Leave blank
 enddate: 2024-08-24T18:00:00-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-# cfp_date_start: 2024-04-01T00:00:00-03:00 # start accepting talk proposals.
-# cfp_date_end: 2024-05-01T00:00:00-03:00 # close your call for proposals.
+cfp_date_start: 2024-04-22T00:00:00-03:00 # start accepting talk proposals.
+cfp_date_end: 2024-05-26T00:00:00-03:00 # close your call for proposals.
 # cfp_date_announce: 2024-05-19T00:00:00-03:00 # inform proposers of status
 
-# cfp_open: "true"
-# cfp_link: "https://www.papercall.io/devopsdaysrio2024"
+cfp_open: "true"
+cfp_link: "https://www.papercall.io/devopsdaysrio2024"
 
 # registration_date_start: 2024-04-12T00:00:00-03:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 # registration_date_end: 2024-08-17T00:00:00-03:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
@@ -116,13 +116,13 @@ organizer_email: "contato@devopsdays.rio.br" # Put your organizer email address 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:  
-  #Platinum
-
-
   #Gold 
 
   #Silver
-
+  - id: elastic
+    level: silver
+    url: https://www.elastic.co
+    
   #Bronze
 
   #Community
@@ -130,7 +130,12 @@ sponsors:
     level: community
   - id: docker-rio
     level: community
-
+  - id: linuxtips
+    level: community
+    url: https://linuxtips.io 
+  - id: novatec
+    level: community
+    url: https://novatec.com.br/ 
 
 
 
@@ -141,8 +146,6 @@ sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: platinum
-    label: Platinum
   - id: gold
     label: Gold
   - id: silver

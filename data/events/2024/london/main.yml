@@ -55,36 +55,46 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 team_members: # Name is the only required field for team members.
   - name: "Andy Burgin"
     twitter: "andyburgin"
+    pronouns: "he/him"
   - name: "bob walker"
     twitter: "rjw1"
     website: "https://randomness.org.uk"
+    pronouns: "they/them, he/him"
   - name: "Chris Mills"
     pronouns: "he/him"
     github: "chriscoffee"
   - name: "David Collom"
+    pronouns: "he/him"
   - name: "Dominique Top"
     twitter: "devopsdomi"
+    pronouns: "she/her"
   - name: "Ethan Sumner"
     twitter: "SumnerOps"
     linkedin: "https://www.linkedin.com/in/ethansumner404/"
     website: "https://opssumner.dev"
+    pronouns: "he/him"
   - name: "Hannah Foxwell"
     twitter: "HannahFoxwell"
+    pronouns: "she/her"
   - name: "Henti Smith"
+    pronouns: "he/him"
   - name: "Issy Long"
     pronouns: "they/them"
     mastodon: "https://strangeobject.space/@issy"
     twitter: "issyl0"
     github: "issyl0"
   - name: "Jen Mackown"
+    pronouns: "she/her"
   - name: "Louise Paling"
     pronouns: "she/her"
     twitter: "short_louise"
-  - name: "Mica Bell"
   - name: "Paula Kennedy"
     twitter: "PaulaLKennedy"
+    pronouns: "she/her"
   - name: "Rekha Aucklah"
+    pronouns: "she/her"
   - name: "Sam Smith"
+    pronouns: "he/him"
   - name: "Sophie Weston"
     pronouns: "she/her"
     twitter: "soph_weston"
@@ -98,9 +108,13 @@ sponsors:
   # gold sponsors
   - id: cloudsmith
     level: gold
+  - id: elastic
+    level: gold
   # silver sponsors
   # bronze sponsors
   - id: commify
+    level: bronze
+  - id: github
     level: bronze
   # community sponsors
 

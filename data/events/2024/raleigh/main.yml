@@ -90,11 +90,6 @@ team_members: # Name is the only required field for team members.
   - name: Felipe Fernandez
     linkedin: "https://www.linkedin.com/in/felipe-fernandes-21901b5a/"
     image: "felipe-fernandez.jpg"
-  - name: Mel Cone
-    linkedin: "https://www.linkedin.com/in/melmaliacone/"
-    image: "mel-cone.jpg"
-    github: "melmaliacone"
-    twitter: "melmaliacone"
   - name: Jason Hibbets
     linkedin: "https://www.linkedin.com/in/jasonhibbets/"
     image: "jason-hibbets.jpg"
@@ -115,10 +110,32 @@ sponsors:
     level: community
   - id: observeinc
     level: gold
+  - id: cloudbees
+    level: gold
   - id: jit
     level: happyhour
-  - id: zohocorp
+  - id: zohosprints
     level: gold
+  - id: alignedtechnologygroup
+    level: gold
+  - id: siglens
+    level: gold
+  - id: groundcover
+    level: gold
+  - id: procom
+    level: gold
+  - id: stanza
+    level: gold
+  - id: allthingsopen2024
+    level: community
+  - id: learnk8s
+    level: community
+  - id: clickhouse
+    level: community
+  - id: cyclelabs
+    level: community
+  - id: guiding-eyes-for-the-blind
+    level: community
   - id: nadog
     level: community
   - id: portworx
@@ -135,21 +152,16 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: diamond
-    label: Diamond
-    max: 2
-  - id: platinum
-    label: Platinum
   - id: gold
     label: Gold
     # max: 10
   - id: silver
-    label: Silver
+    label: "Breakfast"
     # max: 0 # This is the same as omitting the max limit.
   - id: community
     label: Community
   - id: happyhour
-    label: "Happy Hour Sponsor"
+    label: "Happy Hour"
 
 program:
   - title: "Registration, Breakfast"
@@ -247,12 +259,12 @@ program:
     date: 2024-04-10
     start_time: "14:40"
     end_time: "15:10"
-  - title: "tanya-bragin-keynote"
+  - title: "cecelia-martinez-keynote"
     type: talk
     date: 2024-04-10
     start_time: "15:10"
     end_time: "15:40"
-  - title: "shivay-lamba-keynote"
+  - title: "tim-becker-keynote"
     type: talk
     date: 2024-04-10
     start_time: "15:40"
@@ -272,21 +284,21 @@ program:
     date: 2024-04-10
     start_time: "16:10"
     end_time: "16:20"
-  - title: "mel-cone-keynote"
+  - title: "elon-bar-evan-keynote"
     type: talk
     date: 2024-04-10
     start_time: "16:20"
     end_time: "16:50"
-  - title: "tim-becker-keynote"
-    type: talk
+  - title: "Day One Closing and Sponsor Remarks"
+    type: custom
     date: 2024-04-10
     start_time: "16:50"
-    end_time: "17:20"
+    end_time: "17:00"
   - title: "Happy Hour"
     type: custom
     date: 2024-04-10
-    start_time: "17:20"
-    end_time: "18:20"
+    start_time: "17:00"
+    end_time: "19:00"
   - title: "Registration, Breakfast"
     type: custom
     date: 2024-04-11
@@ -347,6 +359,11 @@ program:
     date: 2024-04-11
     start_time: "11:40"
     end_time: "12:10"
+  - title: "guiding-eyes-for-the-blind-workshop"
+    type: workshop
+    date: 2024-04-11
+    start_time: "09:15"
+    end_time: "11:40"
   - title: "Lunch"
     type: custom
     date: 2024-04-11
@@ -377,7 +394,7 @@ program:
     date: 2024-04-11
     start_time: "14:30"
     end_time: "14:40"
-  - title: "raz-probstein-keynote"
+  - title: "aviram-shmueli-keynote"
     type: talk
     date: 2024-04-11
     start_time: "14:40"
@@ -387,7 +404,7 @@ program:
     date: 2024-04-11
     start_time: "15:10"
     end_time: "15:40"
-  - title: "cecelia-martinez-keynote"
+  - title: "tanya-bragin-keynote"
     type: talk
     date: 2024-04-11
     start_time: "15:40"
@@ -413,7 +430,7 @@ ignites:
     date: 2024-04-10
   - title: "ken-robinson-ignite"
     date: 2024-04-10
-  - title: "sheng-sheen-ignite"
+  - title: "karen-hsu-ignite"
     date: 2024-04-10
   - title: "james-ilse-ignite"
     date: 2024-04-10
