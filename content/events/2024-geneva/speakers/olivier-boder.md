@@ -1,6 +1,6 @@
 +++
 Title = "Olivier Boder"
-image = "olivier-boder.jpeg"
+image = "olivier-boder.png"
 Linkedin = "https://www.linkedin.com/in/olivier-boder/"
 type = "speaker"
 linktitle = "olivier-boder"
