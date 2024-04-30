@@ -129,6 +129,20 @@ sponsors:
    level: media
  - id: kubeevents
    level: media
+#  - id: aws
+#    level: platinum
+#  - id: morpheus
+#    level: bronze
+#  - id: 2021-cta
+#    level: silver
+#  - id: teleport
+#    level: gold
+ - id: datadog
+   level: platinum
+ - id: kubecareers
+   level: media
+ - id: kubeevents
+   level: media
  - id: netappfsxn
    level: gold
  - id: dynatrace
