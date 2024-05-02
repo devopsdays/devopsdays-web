@@ -181,9 +181,14 @@ at [{{< email_organizers >}}] if interested in this sponsorship tier.
     <dd>We will provide a table 6’x30” with a black tablecloth and a couple of chairs. You are welcome to bring your own tablecloth, table signs, rollup banners, etc. to decorate your space. Please also note that there will be no wall behind your table (to affix or lean anything against). 
 	<br/>
     <dt>What dates/times can we set up and tear down?</dt>
-    <dd>&lt; Details coming in May &gt;</dd>
+    <dd>The venue will be open for set up 8pm-10pm on June 3, 2024, or at 6apm on June 4, 2024.<br/>
+	Tear down should happen by 6pm, on June 5, 2024.
+	</dd>
     <dt>How do we ship to the venue?</dt>
-    <dd>&lt; Details coming in May &gt;</dd>
+    <dd>Please ship to the following address:
+	<div style="padding-left:5px;margin-left:20px;border:0px;border-left:1px;border-style:solid">Norris Conference Center- DevOpsDays Houston<br/>
+	816 Town and Country Blvd. Suite 210<br/>
+	Houston Texas 77024<div></dd>
     <dt>What should we expect regarding electricity? (how much, any fees, etc)</dt>
     <dd>There are no fees. There are a number of power outlets along the walls of the room. However, we suggest that you bring a few extension cords, as there may not be enough power outlets or they may not be close enough to your table to be reachable by a laptop/monitor cable.</dd>
     <dt>What should we expect regarding WiFi? (how much, any fees, etc)</dt>
@@ -197,7 +202,7 @@ at [{{< email_organizers >}}] if interested in this sponsorship tier.
 	<dt>Does our team need to register upon arrival?</dt>
 	<dd>All attendees (including sponsors) must check-in at registration on the morning of the first day of the conference. </dd>
     <dt>How much dedicated time will sponsors have with the attendees?</dt>
-    <dd>&lt; Details coming in May &gt;</dd>
+    <dd>The schedule is coming soon, please check the <a href="/events/2024-houston/program">program page</a></dd>
     <dt>Can we bring small giveaways, stickers, mugs, pens, etc.?</dt>
     <dd>Of course.</dd>
     <dt>Can we raffle off stuff (Lego sets, gift cards, iPads, etc.)?</dt>
@@ -207,7 +212,7 @@ at [{{< email_organizers >}}] if interested in this sponsorship tier.
 	<dt>Will there be any virtual components to the event?</dt>
 	<dd>No. DevOpsDays Houston 2024 will be an in person event. Organizing committee is not planning for any virtual components</dd>
 	<dt>Where can we rent a monitor, monitor stand, etc.?</dt>
-	<dd>The Ion and the DevOpsDays committe are not able to provide anything. Check out the following local places: 
+	<dd>The Ion and the DevOpsDays committee are not able to provide anything. Check out the following local places: 
 		<ul>
 		<li><a href="http://www.houstonelectronicsrental.com/">ABC Computer & Audio Visual Rental</a></li>
 		<li><a href="https://www.houstonavrental.com/product-category/hdtv-monitor-rentals/">Action Computer & AV</a></li>
