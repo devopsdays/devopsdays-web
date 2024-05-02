@@ -153,6 +153,7 @@ sponsors:
     level: bronze
   - id: appdynamics
     level: lunch
+    url: https://www.cisco.com/site/ca/en/solutions/full-stack-observability/index.html
   - id: desjardins
     level: coffee
   - id: spacelift
