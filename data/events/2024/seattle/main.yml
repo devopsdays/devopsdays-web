@@ -319,11 +319,6 @@ program:
     date: 2024-05-15T00:00:00-07:00
     start_time: "15:45"
     end_time: "16:00"
-  - title: "Evening event"
-    type: custom
-    date: 2024-05-15T00:00:00-07:00
-    start_time: "16:00"
-    end_time: "19:00"
 
 ignites:
   - title: aaron-williams
