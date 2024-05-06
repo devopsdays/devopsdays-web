@@ -62,9 +62,9 @@ Description = "DevOpsDays Cáceres 2024"
     </br>
     <div class="d-flex flex-row">
       <div class="col-md-12">
-        <!-- <div class="d-flex p-2">
-          <a class="btn btn-secondary btn-block button-secondary" target="_blank" href="https://www.eventbrite.es/e/devopsdays-caceres-2024-tickets-536386545597"> <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;BUY TICKETS HERE!</a>
-        </div> -->
+        <div class="d-flex p-2">
+          <a class="btn btn-secondary btn-block button-secondary" target="_blank" href="https://www.eventbrite.es/e/devopsdays-caceres-2024-tickets-888206889717"> <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;BUY TICKETS HERE!</a>
+        </div>
         <div class="d-flex p-2 call-for-papers">
           <a class="btn btn-secondary btn-block button-secondary" target="_blank" href="https://www.papercall.io/devopsdays-caceres-2024"> <i class="fa fa-paper-plane-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Call for Papers</a>
         </div>
