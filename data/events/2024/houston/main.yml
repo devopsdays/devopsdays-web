@@ -110,6 +110,8 @@ sponsors:
     level: gold 
   - id: corva
     level: recruiting
+  - id: twosigma
+    level: recruiting
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -255,7 +257,7 @@ program:
     date: 2024-06-05T00:00:00-06:00
     start_time: "10:30"
     end_time: "11:00"
-  - title: ""
+  - title: "sean-casey"
     type: talk
     date: 2024-06-05T00:00:00-06:00
     start_time: "11:00"
