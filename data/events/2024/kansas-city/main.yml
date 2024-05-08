@@ -196,10 +196,6 @@ sponsors:
     level: technology
   - id: virtuesecurity
     level: gold
-  - id: slalom
-    level: social-event
-  - id: tyk
-    level: coffee
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -219,19 +215,16 @@ sponsor_levels:
   - id: technology
     label: Technology
     max: 1
-  - id: social-event
-    label: Social Event
-    max: 1
-  - id: lunches
-    label: Lunches
-    max: 1
-  - id: lanyards
-    label: Lanyards
-    max: 1
-  - id: coffee
-    label: Coffee
-    max: 1
   - id: corporate
     label: Corporate
   - id: community
     label: Community & Media
+  - id: lunches
+    label: Lunches
+    max: 1
+  - id: social-event
+    label: Social Event
+    max: 1
+  - id: lanyards
+    label: Lanyards
+    max: 1
