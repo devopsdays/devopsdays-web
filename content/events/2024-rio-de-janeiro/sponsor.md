@@ -107,20 +107,6 @@ Visando valorizar a participação de instituições na realização do evento, 
       <td></td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
-    </tr>  
-    <tr>
-      <td>Logo no backdrop de fotos</td>
-      <td></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-    </tr>
-    <tr>
-      <td>Distribuição de brindes na ecobag</td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
     </tr>
     <tr>
       <td>Agradecimentos nas cerimõnias de abertura e encerramento</td>
