@@ -15,9 +15,9 @@
 /berlin/*		/events/2022-berlin/:splat		302
 /birmingham-al/*	/events/2024-birmingham-al/:splat	302
 /birmingham-uk/*	/events/2023-birmingham-uk/:splat	302
-/bogota/*		/events/2023-bogota/:splat		302
+/bogota/*		/events/2024-bogota/:splat		302
 /boise/*		/events/2023-boise/:splat		302
-/boston/*		/events/2023-boston/:splat		302
+/boston/*		/events/2024-boston/:splat		302
 /brasilia/*		/events/2017-brasilia/:splat		302
 /buenos-aires/*		/events/2020-buenos-aires/:splat	302
 /buffalo/*		/events/2023-buffalo/:splat		302
@@ -128,7 +128,7 @@
 /warsaw/*		/events/2022-warsaw/:splat		302
 /washington-dc/*	/events/2024-washington-dc/:splat	302
 /zaragoza/*		/events/2020-zaragoza/:splat		302
-/zurich/*		/events/2024-zurich/:splat		302
+/zurich/*		/events/2025-zurich/:splat		302
 /events/2024-ghent/*      /events/2024-antwerp/:splat     302!
 /events/2009-ghent/*          http://legacy.devopsdays.org/events/2009-ghent/:splat     301!
 /events/2010*                 http://legacy.devopsdays.org/events/2010:splat            301!

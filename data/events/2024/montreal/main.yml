@@ -125,6 +125,14 @@ team_members: # Name is the only required field for team members.
     github: "sebagomez"
     twitter: "sebagomez"
     linkedin: "https://www.linkedin.com/in/sebagomez/"
+  - name: "Marian Marinov"
+    image: "marian.jpeg"
+    bio: "Started as a SysAdmin in 96, marian is now the Director of Engineering at Web Hosting Canada. He moved to Canada in 2022. Prior to that, in Bulgaria, he was helping with the organization of various conferences, OpenFest, RailsGirls, LUG-BG, IT Tour and others. In his spare time he was teaching Linux System Administration and Network Security coursea in Sofia University."
+    role: ""
+    employer: "Web Hosting Canada"
+    github: "hackman"
+    twitter: ""
+    linkedin: "https://www.linkedin.com/in/mariandmarinov/"
 
 organizer_email: "montreal@devopsdays.org" # Put your organizer email address here
 
@@ -137,6 +145,8 @@ sponsors:
     level: gold
   - id: sherweb
     level: silver
+  - id: elastic
+    level: silver
   - id: creasavia
     level: bronze
   - id: artiq
@@ -145,6 +155,7 @@ sponsors:
     level: bronze
   - id: appdynamics
     level: lunch
+    url: https://www.cisco.com/site/ca/en/solutions/full-stack-observability/index.html
   - id: desjardins
     level: coffee
   - id: spacelift

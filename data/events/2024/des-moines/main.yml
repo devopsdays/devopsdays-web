@@ -20,11 +20,11 @@ cfp_date_announce:  2024-06-01T00:00:00-00:00
 
 cfp_link: "https://sessionize.com/devops-days-agile-des-moines-2024/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: 2024-05-01T00:00:00-06:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2024-10-10T00:00:00-06:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.eventbrite.com/e/agile-devopsdays-des-moines-2024-tickets-717916055247" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -37,7 +37,7 @@ location_address: "730 3rd St, Des Moines, IA 50309" #Optional - use the street 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
  # - name: location
- # - name: registration
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -94,16 +94,20 @@ organizer_email: "des-moines@devopsdays.org" # Put your organizer email address 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
- - id: delta3
-   level: silver
- - id: john-deere
-   level: gold
- - id: principal
-   level: gold
- - id: sidegarage
-   level: community
- - id: turnberry
-   level: gold
+  - id: delta3
+    level: silver
+  - id: jetbrains
+    level: community
+  - id: john-deere
+    level: gold
+  - id: principal
+    level: gold
+  - id: sidegarage
+    level: community
+  - id: sourceallies
+    level: gold
+  - id: turnberry
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

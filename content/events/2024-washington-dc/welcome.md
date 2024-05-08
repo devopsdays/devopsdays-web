@@ -88,14 +88,31 @@ Description = "devopsdays washington dc 2024"
   We're also excited to be teaming up again with Kubernetes Community Day DC who will be hosting their [event on September 24, 2024](https://community.cncf.io/kcd-washington-dc/)! Whether you are a developer, ops pro, system engineer, or any other IT professional excited about cloud native technologies, Kubernetes Community Days DC (KCD DC) will have something for you. Supported by the Cloud Native Computing Foundation, their 2024 event will also be hosted at the historic national headquarters of the American Red Cross. This full-day conference will focus on knowledge sharing, best practices, and new developments in and around Kubernetes.
 
   Follow us on [Twitter](https://twitter.com/DevOpsDaysDC) or [LinkedIn](https://www.linkedin.com/company/devopsdays-dc/) to get all the latest updates and announcements.
-
   <br>
-
   {{< event_twitter >}}
+
   </div>
+ 
   <div class = "col-md-6 push-md-4" id = "right-col">
       <div style="text-align: center; ">
         {{< event_logo >}}
       </div>
+  </div>
+
+  <div class="col-md-12">
+    <h2>Who has attended?</h2>
+    <p>
+    This is the ninth year for DevOpsDays DC.  You may be wondering who typically attends.  We see a mix of public- (~25%) and private- (~75%) sector professionals.
+    </p>
+    <p>
+      <span style="text-align:left; padding-right:10px;">
+        Job titles include:
+        <a href="/events/2024-washington-dc/devopsdaysdc-titles.png" target="_blank"><img src="/events/2024-washington-dc/devopsdaysdc-titles.png" width="300px;" height="371px;" /></a>
+      </span>
+      <span style="text-align:right; padding-left:10px;">
+        Companies include:
+        <a href="/events/2024-washington-dc/devopsdaysdc-companies.png" target="_blank"><img src="/events/2024-washington-dc/devopsdaysdc-companies.png" width="300px;" height="371px;" /></a>
+      </span>
+    </p> 
   </div>
 </div>

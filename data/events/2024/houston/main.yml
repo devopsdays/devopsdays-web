@@ -1,8 +1,8 @@
 name: "2024-houston" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2024" # The year of the event. Make sure it is in quotes.
-city: "houston" # The displayed city name of the event. Capitalize it.
+city: "Houston" # The displayed city name of the event. Capitalize it.
 event_twitter: "DevOpsDaysHTown" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "Devopsdays is coming to houston!" # Edit this to suit your preferences
+description: "Devopsdays is coming to Houston!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2024-MM-DDTHH:MM:SS+TZ:TZ, like this:
@@ -38,13 +38,14 @@ location: "Norris Conference Center, Houston" # Defaults to city, but you can ma
 location_address: "816 Town and Country Blvd #210, Houston, TX 77024" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+#  - name: propose
   - name: location
   - name: registration
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
+  - name: faq
   - name: conduct
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
@@ -105,6 +106,12 @@ sponsors:
     level: platinum
   - id: blue-people
     level: gold
+  - id: kentik
+    level: gold 
+  - id: corva
+    level: recruiting
+  - id: twosigma
+    level: recruiting
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -128,3 +135,192 @@ sponsor_levels:
   - id: community
     label: Community
     max: 0
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2024-06-04T00:00:00-06:00
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2024-06-04T00:00:00-06:00
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "Kenote"
+    type: custom
+    date: 2024-06-04T00:00:00-06:00
+    start_time: "09:15"
+    end_time: "09:45"
+    background_color: "#B4C6E7"
+  - title: "Sponsors"
+    type: custom
+    date: 2024-06-04T00:00:00-06:00
+    start_time: "09:45"
+    end_time: "10:00"
+  - title: "daniel-watrous"
+    type: talk
+    date: 2024-06-04T00:00:00-06:00
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Break, Sponsors"
+    type: custom
+    date: 2024-06-04T00:00:00-06:00
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "mark-hahn"
+    type: talk
+    date: 2024-06-04T00:00:00-06:00
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "budhaditya-bhattacharya"
+    type: talk
+    date: 2024-06-04T00:00:00-06:00
+    start_time: "11:30"
+    end_time: "11:50"
+  - title: "Lunch, Sponsors"
+    type: custom
+    date: 2024-06-04T00:00:00-06:00
+    start_time: "11:50"
+    end_time: "13:00"
+  - title: "annie-hodgkins"
+    type: talk
+    date: 2024-06-04T00:00:00-06:00
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "michel-schildmeijer"
+    type: talk
+    date: 2024-06-04T00:00:00-06:00
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Break, Sponsors"
+    type: custom
+    date: 2024-06-04T00:00:00-06:00
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: "leon-adato"
+    type: talk
+    date: 2024-06-04T00:00:00-06:00
+    start_time: "14:30"
+    end_time: "15:00"
+  - title: "christopher-pope"
+    type: talk
+    date: 2024-06-04T00:00:00-06:00
+    start_time: "15:00"
+    end_time: "15:30"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2024-06-04T00:00:00-06:00
+    start_time: "15:30"
+    end_time: "16:15"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2024-06-04T00:00:00-06:00
+    start_time: "16:15"
+    end_time: "17:00"    
+  - title: "Close Day"
+    type: custom
+    date: 2024-06-04T00:00:00-06:00
+    start_time: "17:00"
+    end_time: "17:15"
+  - title: "Evening event"
+    type: custom
+    date: 2024-06-04T00:00:00-06:00
+    start_time: "19:00"
+    end_time: "late"
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2024-06-05T00:00:00-06:00
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2024-06-05T00:00:00-06:00
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "lee-barnes"
+    type: talk
+    date: 2024-06-05T00:00:00-06:00
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2024-06-05T00:00:00-06:00
+    start_time: "09:45"
+    end_time: "10:00"
+  - title: "danesh-manoharan"
+    type: talk
+    date: 2024-06-05T00:00:00-06:00
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Break, Sponsors"
+    type: custom
+    date: 2024-06-05T00:00:00-06:00
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "sean-casey"
+    type: talk
+    date: 2024-06-05T00:00:00-06:00
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "asaf-blubshtein"
+    type: talk
+    date: 2024-06-05T00:00:00-06:00
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch, Sponsors"
+    type: custom
+    date: 2024-06-05T00:00:00-06:00
+    start_time: "12:00"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2024-06-05T00:00:00-06:00
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "divine-odazie"
+    type: talk
+    date: 2024-06-05T00:00:00-06:00
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Break, Sponsors"
+    type: custom
+    date: 2024-06-05T00:00:00-06:00
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: "stephen-d-king"
+    type: talk
+    date: 2024-06-05T00:00:00-06:00
+    start_time: "14:30"
+    end_time: "15:00"
+  - title: "ruchir-jha"
+    type: talk
+    date: 2024-06-05T00:00:00-06:00
+    start_time: "15:00"
+    end_time: "15:30"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2024-06-05T00:00:00-06:00
+    start_time: "15:30"
+    end_time: "16:15"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2024-06-05T00:00:00-06:00
+    start_time: "16:15"
+    end_time: "17:00"
+  - title: "Closing"
+    type: custom
+    date: 2024-06-05T00:00:00-06:00
+    start_time: "17:00"
+    end_time: "17:15"
+
+ignites:
+  - title: "hunter-trawick-ignite"
+    date: "2024-06-05T00:00:00-06:00"
+  - title: "mark-hahn-ignite"
+    date: "2024-06-05T00:00:00-06:00"
+  - title: "leon-adato-ignite"
+    date: "2024-06-05T00:00:00-06:00"
+  - title: "budhaditya-bhattacharya-ignite"
+    date: "2024-06-05T00:00:00-06:00"
+  - title: "timothy-banks-ignite"
+    date: "2024-06-05T00:00:00-06:00"    

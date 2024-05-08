@@ -191,6 +191,10 @@ sponsors:
     level: community
   - id: burnsmcd
     level: corporate
+  - id: smartprokc
+    level: technology
+  - id: virtuesecurity
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -207,6 +211,9 @@ sponsor_levels:
     max: 6
   - id: silver
     label: Silver
+  - id: technology
+    label: Technology
+    max: 1
   - id: corporate
     label: Corporate
   - id: community
@@ -219,4 +226,4 @@ sponsor_levels:
     max: 1
   - id: lanyards
     label: Lanyards
-
+    max: 1

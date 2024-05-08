@@ -96,7 +96,7 @@ sponsors:
     level: silver
 # Community
   - id: arresteddevops
-    level: community  
+    level: community
   - id: seattle-coffeeops
     level: community
   - id: seagl
@@ -109,9 +109,6 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: platinum
-    label: Platinum
-    max: 2
   - id: gold
     label: Gold
     max: 13
@@ -137,7 +134,7 @@ program:
     date: 2024-05-14T00:00:00-07:00
     start_time: "09:00"
     end_time: "09:15"
-  - title: "ian-coldwater"
+  - title: "ken-mugrage"
     type: talk
     date: 2024-05-14T00:00:00-07:00
     start_time: "09:15"
@@ -238,7 +235,7 @@ program:
     date: 2024-05-15T00:00:00-07:00
     start_time: "09:00"
     end_time: "09:15"
-  - title: "ken-mugrage"
+  - title: "nathen-harvey"
     type: talk
     date: 2024-05-15T00:00:00-07:00
     start_time: "09:15"
@@ -319,11 +316,6 @@ program:
     date: 2024-05-15T00:00:00-07:00
     start_time: "15:45"
     end_time: "16:00"
-  - title: "Evening event"
-    type: custom
-    date: 2024-05-15T00:00:00-07:00
-    start_time: "16:00"
-    end_time: "19:00"
 
 ignites:
   - title: aaron-williams

@@ -3,7 +3,7 @@ title = "Olimpiu Pop"
 twitter = "olimpiupop"
 linkedin = ""
 website = ""
-image = ""
+image = "olimpiu-pop.jpg"
 type = "speaker"
 linktitle = ["olimpiu-pop"]
 +++
