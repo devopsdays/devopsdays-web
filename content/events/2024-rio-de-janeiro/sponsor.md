@@ -118,7 +118,7 @@ Visando valorizar a participação de instituições na realização do evento, 
     <tr>
       <td>Video institucional da marca</td>
       <td></td>
-      <td></td>
+      <td>Até 15s</td>
       <td>Até 30s</td>
       <td>Até 60s</td>
     </tr>
