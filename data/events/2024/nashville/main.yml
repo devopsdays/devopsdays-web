@@ -131,10 +131,10 @@ sponsors:
    level: media
  - id: netappfsxn
    level: gold
-#  - id: morpheus
-#    level: bronze
-#  - id: 2021-cta
-#    level: silver
+ - id: dynatrace
+   level: gold
+ - id: hasura
+   level: gold
 #  - id: teleport
 #    level: gold
 #  - id: gitlab
