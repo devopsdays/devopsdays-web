@@ -4,6 +4,7 @@ city: "Sibiu" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdays" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "Devopsdays is coming to Sibiu!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+event_logo: "logo.png"
 
 # All dates are in unquoted 2024-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00
@@ -50,18 +51,23 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Mihai Satmarean"
+    image: "mihai.jpg"
     employer: "Nexodus, Skylite Tek"
     linkedin: "https://www.linkedin.com/in/mihai-cristian-satmarean-3465958/"
+    bio: "Mihai Cristian Satmarean works more than 16 years within various fields of the IT industry among them: software tester, developer, embedded systems developer, sysadmin, DevOps pioneer and automation Evangelist.
+For the last 6 years he spends automating small and big environments for various industries like movie VFX company (IT Manager at Trixter) and software company.
+He also acts as a Scrum Master, co-manages the Ansible meet-ups for Munich area and acts as an Ansible Trainer and Coach."
+  - name: "Valentin Oprea"
+    image: "vali.jpg"
+    employer: "General Engineering & Management Solutions"
+    linkedin: "https://www.linkedin.com/in/valioprea/"
+    bio: "Aerospace Engineer and Software Development adept with vast experience in critical industries, leading projects from concept to product."
   - name: "Daniela Chrzanovski"
     employer: "Swiss Webacademy"
     twitter: "devopsdays"
   - name: "Valentin-Marius Amza "
     employer: "Swiss Webacademy"
     github: "devopsdays"
-    facebook: "https://www.facebook.com/sally.fields"
-    linkedin: "https://www.linkedin.com/in/sallyfields"
-    website: "https://mattstratton.com"
-    image: "sally-fields.jpg"
   - name: "Sergiu-Valentin Dilimoț"
     employer: "Visma Romania"
 
@@ -74,6 +80,8 @@ sponsors:
     level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
+    level: community
+  - id: sibiu-it-cluster
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -99,86 +107,91 @@ program:
     date: 2024-06-06T00:00:00+08:00
     start_time: "08:00"
     end_time: "09:00"
-  - title: "Opening Welcome"
-    type: custom
-    date: 2024-06-06T00:00:00+08:00
-    start_time: "09:00"
-    end_time: "09:15"
-  - title: "first-speaker"
-    type: talk
-    date: 2024-06-06T00:00:00+08:00
-    start_time: "09:15"
-    end_time: "09:45"
-  - title: "Sponsors"
-    type: custom
-    date: 2024-06-06T00:00:00+08:00
-    start_time: "09:45"
-    end_time: "09:55"
-  - title: "second-speaker"
-    type: talk
-    date: 2024-06-06T00:00:00+08:00
-    start_time: "09:55"
-    end_time: "10:25"
-  - title: "Break"
-    type: custom
-    date: 2024-06-06T00:00:00+08:00
-    start_time: "10:25"
-    end_time: "10:40"
-  - title: "third-speaker"
-    type: talk
-    date: 2024-06-06T00:00:00+08:00
-    start_time: "10:40"
-    end_time: "11:10"
-  - title: "Sponsors"
-    type: custom
-    date: 2024-06-06T00:00:00+08:00
-    start_time: "11:10"
-    end_time: "11:20"
-  - title: "fourth-speaker"
-    type: talk
-    date: 2024-06-06T00:00:00+08:00
-    start_time: "11:20"
-    end_time: "11:50"
-  - title: "Lunch"
-    type: custom
-    date: 2024-06-06T00:00:00+08:00
-    start_time: "11:50"
-    end_time: "13:00"
-  - title: "Ignites"
-    type: custom
-    date: 2024-06-06T00:00:00+08:00
-    start_time: "13:00"
-    end_time: "13:30"
-  - title: "Open Space Opening"
-    type: custom
-    date: 2024-06-06T00:00:00+08:00
-    start_time: "13:30"
-    end_time: "14:00"
-  - title: "Open Space #1"
-    type: custom
-    date: 2024-06-06T00:00:00+08:00
-    start_time: "14:00"
-    end_time: "14:45"
-  - title: "Open Space #2"
-    type: custom
-    date: 2024-06-06T00:00:00+08:00
-    start_time: "15:00"
-    end_time: "15:45"
-  - title: "Open Space #3"
-    type: custom
-    date: 2024-06-06T00:00:00+08:00
-    start_time: "16:00"
-    end_time: "16:45"
-  - title: "Close Day"
-    type: custom
-    date: 2024-06-06T00:00:00+08:00
-    start_time: "16:45"
-    end_time: "17:00"
-  - title: "Evening event"
-    type: custom
-    date: 2024-06-06T00:00:00+08:00
-    start_time: "19:00"
-    end_time: "late"
+  # - title: "Registration, Breakfast, Sponsors"
+  #   type: custom
+  #   date: 2024-06-06T00:00:00+08:00
+  #   start_time: "08:00"
+  #   end_time: "09:00"
+  # - title: "Opening Welcome"
+  #   type: custom
+  #   date: 2024-06-06T00:00:00+08:00
+  #   start_time: "09:00"
+  #   end_time: "09:15"
+  # - title: "first-speaker"
+  #   type: talk
+  #   date: 2024-06-06T00:00:00+08:00
+  #   start_time: "09:15"
+  #   end_time: "09:45"
+  # - title: "Sponsors"
+  #   type: custom
+  #   date: 2024-06-06T00:00:00+08:00
+  #   start_time: "09:45"
+  #   end_time: "09:55"
+  # - title: "second-speaker"
+  #   type: talk
+  #   date: 2024-06-06T00:00:00+08:00
+  #   start_time: "09:55"
+  #   end_time: "10:25"
+  # - title: "Break"
+  #   type: custom
+  #   date: 2024-06-06T00:00:00+08:00
+  #   start_time: "10:25"
+  #   end_time: "10:40"
+  # - title: "third-speaker"
+  #   type: talk
+  #   date: 2024-06-06T00:00:00+08:00
+  #   start_time: "10:40"
+  #   end_time: "11:10"
+  # - title: "Sponsors"
+  #   type: custom
+  #   date: 2024-06-06T00:00:00+08:00
+  #   start_time: "11:10"
+  #   end_time: "11:20"
+  # - title: "fourth-speaker"
+  #   type: talk
+  #   date: 2024-06-06T00:00:00+08:00
+  #   start_time: "11:20"
+  #   end_time: "11:50"
+  # - title: "Lunch"
+  #   type: custom
+  #   date: 2024-06-06T00:00:00+08:00
+  #   start_time: "11:50"
+  #   end_time: "13:00"
+  # - title: "Ignites"
+  #   type: custom
+  #   date: 2024-06-06T00:00:00+08:00
+  #   start_time: "13:00"
+  #   end_time: "13:30"
+  # - title: "Open Space Opening"
+  #   type: custom
+  #   date: 2024-06-06T00:00:00+08:00
+  #   start_time: "13:30"
+  #   end_time: "14:00"
+  # - title: "Open Space #1"
+  #   type: custom
+  #   date: 2024-06-06T00:00:00+08:00
+  #   start_time: "14:00"
+  #   end_time: "14:45"
+  # - title: "Open Space #2"
+  #   type: custom
+  #   date: 2024-06-06T00:00:00+08:00
+  #   start_time: "15:00"
+  #   end_time: "15:45"
+  # - title: "Open Space #3"
+  #   type: custom
+  #   date: 2024-06-06T00:00:00+08:00
+  #   start_time: "16:00"
+  #   end_time: "16:45"
+  # - title: "Close Day"
+  #   type: custom
+  #   date: 2024-06-06T00:00:00+08:00
+  #   start_time: "16:45"
+  #   end_time: "17:00"
+  # - title: "Evening event"
+  #   type: custom
+  #   date: 2024-06-06T00:00:00+08:00
+  #   start_time: "19:00"
+  #   end_time: "late"
   # - title: "Registration, Breakfast, Sponsors"
   #   type: custom
   #   date: 2024-06-07T00:00:00+08:00
