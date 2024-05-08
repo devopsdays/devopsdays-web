@@ -53,10 +53,10 @@ Description = "DevOpsDays Kansas City 2024 will take place May 15-16, 2024!"
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Program</strong>
+    <strong>Schedule</strong>
   </div>
   <div class = "col-md-8">
-    View the {{< event_link page="program" text="program." >}}
+    View the {{< event_link page="schedule" text="schedule." >}}
   </div>
 </div>
 
