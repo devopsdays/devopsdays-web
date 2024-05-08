@@ -4,7 +4,8 @@ city: "Sibiu" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdays" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "Devopsdays is coming to Sibiu!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
-event_logo: "logo.png"
+event_logo: "logo.png" # TODO: for some reason this does not work
+sharing_image: "logo.png"
 
 # All dates are in unquoted 2024-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00
@@ -107,6 +108,51 @@ program:
     date: 2024-06-06T00:00:00+08:00
     start_time: "08:00"
     end_time: "09:00"
+  - title: "TBA SLOT 1"
+    type: talk
+    date: 2024-06-06T00:00:00+08:00
+    start_time: "09:00"
+    end_time: "10:00"
+  - title: "TBA SLOT 2"
+    type: talk
+    date: 2024-06-06T00:00:00+08:00
+    start_time: "10:00"
+    end_time: "11:00"
+  - title: "TBA SLOT 3"
+    type: open-space
+    date: 2024-06-06T00:00:00+08:00
+    start_time: "10:00"
+    end_time: "11:00"
+  - title: "TBA SLOT 3"
+    type: talk
+    date: 2024-06-06T00:00:00+08:00
+    start_time: "11:00"
+    end_time: "12:00"
+  - title: "Lunch"
+    type: custom
+    date: 2024-06-06T00:00:00+08:00
+    start_time: "12:00"
+    end_time: "13:00"
+  - title: "TBA SLOT 4"
+    type: talk
+    date: 2024-06-06T00:00:00+08:00
+    start_time: "13:00"
+    end_time: "14:00"
+  - title: "TBA SLOT 5"
+    type: talk
+    date: 2024-06-06T00:00:00+08:00
+    start_time: "14:00"
+    end_time: "15:00"
+  - title: "TBA SLOT 6"
+    type: workshop
+    date: 2024-06-06T00:00:00+08:00
+    start_time: "15:00"
+    end_time: "16:00"
+  - title: "TBA SLOT 7"
+    type: open-space
+    date: 2024-06-06T00:00:00+08:00
+    start_time: "16:00"
+    end_time: "17:00"
   # - title: "Registration, Breakfast, Sponsors"
   #   type: custom
   #   date: 2024-06-06T00:00:00+08:00
