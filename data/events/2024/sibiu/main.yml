@@ -33,7 +33,7 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 coordinates: "45.78968869845653, 24.14628034233853" # No longer used
 location: "Sibiu" # Defaults to city, but you can make it the venue name.
 #
-location_address: "Sibiu, jud. Sibiu, Strada Strada Avocat Macelaru Ilie 557260, Visma Sibiu" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
+location_address: "Sibiu, jud. Sibiu, Strada Ștrandului nr. 2B, Sibiu 550068, Visma Sibiu" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
@@ -62,15 +62,34 @@ He also acts as a Scrum Master, co-manages the Ansible meet-ups for Munich area 
     image: "vali.jpg"
     employer: "General Engineering & Management Solutions"
     linkedin: "https://www.linkedin.com/in/valioprea/"
-    bio: "Aerospace Engineer and Software Development adept with vast experience in critical industries, leading projects from concept to product."
+    bio: "Valentin Oprea is an experienced and versatile aerospace engineer with more than 8 years active in various critical industries, ranging from aerospace, automotive, banking and more. Having a diverse and multidisciplinary engineering experience, he was involved in delivering high-tier products using state-of-the-art technologies for OEMs such as Airbus, Boeing, BMWW, Rolls Royce and more.
+Founder of General Engineering & Management Solutions, the mission is to leverage the absolute best industry professionals to aid businesses achieve their maximum market potential in the shortest amount of time given the technology at hand."
   - name: "Daniela Chrzanovski"
+    linkedin: "https://www.linkedin.com/in/daniela-chrzanovski-00859676/"
+    image: "daniela.jpg"
     employer: "Swiss Webacademy"
     twitter: "devopsdays"
+    bio: "Daniela Chrzanovski is an IT engineer. In 2003, she created the first web training center in Romania, a project funded by the Swiss Confederation, training over 1000 specialists in the field of the Web Development over 10 years. She then launched the Swiss Webacademy in Sibiu in partnership with the Haute Ecole d’Ingénieurs Neuchatel, Switzerland, which provides expertise and accreditation for the training programs. For the past 7 years, she has been an associate professor at the University of Franche-Comté in France, teaching Digital Technologies at the IUT Belfort, as well as a course within the Master en Droit du numerique program in Besancon. She also taught the Web Hosting and Referencing course as part of the Web Application Development Master's program at Haute Ecole ARC Ingenierie in Switzerland. She is a promoter of Digital Transformation and, along with her team, supports digital skills courses for companies. She is one of the founders of the Cybersecurity Congress in Romania, organizing 10 editions in Sibiu, a congress supported by the International Telecommunication Union at the UN-Geneva.
+She is the founder and vice president of the Francophone Business Club."
   - name: "Valentin-Marius Amza "
+    image: "amza.jpg"
     employer: "Swiss Webacademy"
     github: "devopsdays"
+    linkedin: "https://www.linkedin.com/in/amza-valentin-marius/"
+    bio: "Marius Amza serves as the Director of Swiss WebBusiness SRL and as the Vice President of the Swiss Webacademy. He holds Swiss certifications as a Web Software Engineer, Web Developer, and Web Designer, and has overseen the coordination and development of numerous international projects within the web domain.
+As an Associate Professor at the Swiss University - Haute École Arc Ingénierie, Marius teaches courses on Software Engineering and Agile Methods as part of the MAS-RAD master's program. Additionally, he has instructed Web Security courses at HEIG-VD - Haute Ecole d’Ingénierie et de Gestion in Switzerland. Furthermore, he has supervised undergraduate internships for Swiss students. With over 10 years of experience as an IT Trainer, Marius has taught courses for both aspiring specialists and numerous private companies and governmental institutions in Romania, focusing on Web Development, OSINT, Cybersecurity, Web Design, Programming, and Information Security.
+For the past 6 years, Marius has also served as an Associate Professor at the University of Franche-Comté (Belfort-Montbéliard), teaching web technology courses.
+Together with the Swiss WebAcademy team, he is actively involved in organizing Cybersecurity Congresses in Romania, Switzerland, and Italy. He contributes to the development of online platforms for these congresses and designs courses tailored to the participants' needs.
+"
   - name: "Sergiu-Valentin Dilimoț"
+    image: "sergiu.jpeg"
     employer: "Visma Romania"
+    linkedin: "https://www.linkedin.com/in/sdilimot/"
+    bio: "IT Services Director with over 19 years of experience in the Information Technology area focusing on helping the organization to grow by: 
+    promoting and implementing Cloud Solutions within the company, supporting technical integrations between Visma companies, attracting, recruiting and developing our colleagues,
+     defining and implementing methodologies and best practices for developing, delivering and operating software, measuring operational performance through our 24/7/365 teams, 
+     actively involved in development of the local IT community and university
+"
 
 organizer_email: "sibiu@devopsdays.org" # Put your organizer email address here
 
@@ -83,6 +102,10 @@ sponsors:
   - id: arresteddevops
     level: community
   - id: sibiu-it-cluster
+    level: community
+  - id: swiss-web-academy
+    level: community
+  - id: sibiu-visma
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
