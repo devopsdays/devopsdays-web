@@ -39,7 +39,7 @@ This year’s event is on May 14th and 15th, 2024. A detailed program can be fou
 Gold sponsors have 1 minute for a pitch to the full audience. This time will be strictly enforced to make
 sure we stay on schedule!
 
-<iframe width=525 height=385 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRD0MZhqSInE1xUfw_2aR5XxvrQhzMUJFTavjLKC24g5TmIRb-tU52M6BBKca3a3rcmtnFL1zas7vkv/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe width=525 height=400 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRD0MZhqSInE1xUfw_2aR5XxvrQhzMUJFTavjLKC24g5TmIRb-tU52M6BBKca3a3rcmtnFL1zas7vkv/pubhtml?widget=true&amp;headers=false"></iframe>
 
 ## Who to send
 
