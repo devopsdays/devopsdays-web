@@ -88,11 +88,13 @@ sponsors:
   - id: pagerduty
     level: lanyard
 # Silver
-  - id: oracle
+  - id: oracle-new-no-solid-background
     level: silver
   - id: codezero
     level: silver
   - id: commitgo
+    level: silver
+  - id: stacklok
     level: silver
 # Community
   - id: arresteddevops
@@ -296,25 +298,25 @@ program:
     date: 2024-05-15T00:00:00-07:00
     start_time: "14:00"
     end_time: "14:30"
-  - title: "chris-short"
-    type: talk
-    date: 2024-05-15T00:00:00-07:00
-    start_time: "14:30"
-    end_time: "15:00"
   - title: "Break"
     type: custom
     date: 2024-05-15T00:00:00-07:00
-    start_time: "15:00"
-    end_time: "15:15"
+    start_time: "14:30"
+    end_time: "14:45"
   - title: "Open Space #2"
     type: open-space
     date: 2024-05-15T00:00:00-07:00
+    start_time: "14:45"
+    end_time: "15:15"
+  - title: "Sponsor Prizes"
+    type: custom
+    date: 2024-05-15T00:00:00-07:00
     start_time: "15:15"
-    end_time: "15:45"
+    end_time: "15:30"
   - title: "Closing"
     type: custom
     date: 2024-05-15T00:00:00-07:00
-    start_time: "15:45"
+    start_time: "15:30"
     end_time: "16:00"
 
 ignites:
