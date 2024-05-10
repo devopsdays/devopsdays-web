@@ -37,8 +37,7 @@ Description = "DevOpsDays Nashville 2024"
     <br>
     <h2><p><a href="https://www.papercall.io/devopsdays-nashville-2024">Call for Proposals Now Open!</a></p></h2>
     <p>Do you have a great topic for the community?  Visit our <a href="https://www.papercall.io/devopsdays-nashville-2024">Call for Speakers/Papers</a> site today!  We look forward to hearing from you.</p>
-  
->>>>>>> e8a458459c (Adds 2024 event information)
+    
   </div>
 </div>
 
