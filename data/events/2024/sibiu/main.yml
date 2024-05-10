@@ -55,15 +55,7 @@ team_members: # Name is the only required field for team members.
     image: "mihai.jpg"
     employer: "Nexodus, Skylite Tek"
     linkedin: "https://www.linkedin.com/in/mihai-cristian-satmarean-3465958/"
-    bio: "Mihai Cristian Satmarean works more than 16 years within various fields of the IT industry among them: software tester, developer, embedded systems developer, sysadmin, DevOps pioneer and automation Evangelist.
-For the last 6 years he spends automating small and big environments for various industries like movie VFX company (IT Manager at Trixter) and software company.
-He also acts as a Scrum Master, co-manages the Ansible meet-ups for Munich area and acts as an Ansible Trainer and Coach."
-  - name: "Valentin Oprea"
-    image: "vali.jpg"
-    employer: "General Engineering & Management Solutions"
-    linkedin: "https://www.linkedin.com/in/valioprea/"
-    bio: "Valentin Oprea is an experienced and versatile aerospace engineer with more than 8 years active in various critical industries, ranging from aerospace, automotive, banking and more. Having a diverse and multidisciplinary engineering experience, he was involved in delivering high-tier products using state-of-the-art technologies for OEMs such as Airbus, Boeing, BMWW, Rolls Royce and more.
-Founder of General Engineering & Management Solutions, the mission is to leverage the absolute best industry professionals to aid businesses achieve their maximum market potential in the shortest amount of time given the technology at hand."
+    bio: "Mihai Cristian Satmarean is a seasoned technologist with over 25 years of experience within various fields of the IT industry among them: software tester, developer, embedded systems developer, sysadmin, DevOps pioneer and automation Evangelist, infrastructure management, and team leadership. Currently serving as a Fractional CTO and Senior DevOps Architect, he provides strategic technology guidance and advisory services to senior management. Recognized as an authority in Ansible, Mihai has contributed to, taught, and shaped its roadmap, fostering a culture of knowledge sharing. His expertise spans across various platforms including Linux, MacOS, Unix, and Windows, with a focus on IT security, network management, UI design, and cloud services optimization. Throughout his career, he has managed large-scale infrastructure automation, handling over 200k servers across 250 global locations. Mihai is proficient in network setup and management, user interface design, resources administration and configuration, backup procedures, disaster recovery, and project, resources, and team management. He is hands-on and up-to-date with technologies and many related DevOps techniques like CI/CD and continuous testing. Mihai is passionate about mentoring and empowering team members to achieve their full potential, contributing to both personal growth and project success. He is always open to exchanging innovative technology ideas and enabling other groups and enterprises to harness the power of automation. He also acts as a Scrum Master, co-manages the Ansible meet-ups for Munich-Germany area and acts as an Ansible Trainer and Coach."
   - name: "Daniela Chrzanovski"
     linkedin: "https://www.linkedin.com/in/daniela-chrzanovski-00859676/"
     image: "daniela.jpg"
@@ -79,8 +71,7 @@ She is the founder and vice president of the Francophone Business Club."
     bio: "Marius Amza serves as the Director of Swiss WebBusiness SRL and as the Vice President of the Swiss Webacademy. He holds Swiss certifications as a Web Software Engineer, Web Developer, and Web Designer, and has overseen the coordination and development of numerous international projects within the web domain.
 As an Associate Professor at the Swiss University - Haute École Arc Ingénierie, Marius teaches courses on Software Engineering and Agile Methods as part of the MAS-RAD master's program. Additionally, he has instructed Web Security courses at HEIG-VD - Haute Ecole d’Ingénierie et de Gestion in Switzerland. Furthermore, he has supervised undergraduate internships for Swiss students. With over 10 years of experience as an IT Trainer, Marius has taught courses for both aspiring specialists and numerous private companies and governmental institutions in Romania, focusing on Web Development, OSINT, Cybersecurity, Web Design, Programming, and Information Security.
 For the past 6 years, Marius has also served as an Associate Professor at the University of Franche-Comté (Belfort-Montbéliard), teaching web technology courses.
-Together with the Swiss WebAcademy team, he is actively involved in organizing Cybersecurity Congresses in Romania, Switzerland, and Italy. He contributes to the development of online platforms for these congresses and designs courses tailored to the participants' needs.
-"
+Together with the Swiss WebAcademy team, he is actively involved in organizing Cybersecurity Congresses in Romania, Switzerland, and Italy. He contributes to the development of online platforms for these congresses and designs courses tailored to the participants' needs."
   - name: "Sergiu-Valentin Dilimoț"
     image: "sergiu.jpeg"
     employer: "Visma Romania"
@@ -88,9 +79,13 @@ Together with the Swiss WebAcademy team, he is actively involved in organizing C
     bio: "IT Services Director with over 19 years of experience in the Information Technology area focusing on helping the organization to grow by: 
     promoting and implementing Cloud Solutions within the company, supporting technical integrations between Visma companies, attracting, recruiting and developing our colleagues,
      defining and implementing methodologies and best practices for developing, delivering and operating software, measuring operational performance through our 24/7/365 teams, 
-     actively involved in development of the local IT community and university
-"
-
+     actively involved in development of the local IT community and university"
+  - name: "Valentin Oprea"
+    image: "vali.jpg"
+    employer: "General Engineering & Management Solutions"
+    linkedin: "https://www.linkedin.com/in/valioprea/"
+    bio: "Valentin Oprea is an experienced and versatile aerospace engineer with more than 8 years active in various critical industries, ranging from aerospace, automotive, banking and more. Having a diverse and multidisciplinary engineering experience, he was involved in delivering high-tier products using state-of-the-art technologies for OEMs such as Airbus, Boeing, BMWW, Rolls Royce and more.
+Founder of General Engineering & Management Solutions, the mission is to leverage the absolute best industry professionals to aid businesses achieve their maximum market potential in the shortest amount of time given the technology at hand."
 organizer_email: "sibiu@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
