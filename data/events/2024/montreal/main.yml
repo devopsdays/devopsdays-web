@@ -145,15 +145,14 @@ sponsors:
     level: gold
   - id: sherweb
     level: silver
+  - id: elastic
+    level: silver
   - id: creasavia
     level: bronze
   - id: artiq
     level: bronze
   - id: technologia
     level: bronze
-  - id: appdynamics
-    level: lunch
-    url: https://www.cisco.com/site/ca/en/solutions/full-stack-observability/index.html
   - id: desjardins
     level: coffee
   - id: spacelift
@@ -408,7 +407,7 @@ sponsor_levels:
 #     date: 2024-05-28
 #     start_time: "14:35"
 #     end_time: "15:35"
-#   - title: "marino-wijay"
+#   - title: ""
 #     type: workshop
 #     date: 2024-05-28
 #     start_time: "15:35"

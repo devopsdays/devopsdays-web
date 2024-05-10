@@ -168,13 +168,13 @@ All special sponsors will have their logo displayed on the DevOpsDays Kansas CIt
     </tr>
   </thead>
   <tbody>
-    <tr style="text-decoration:line-through;"">
+    <tr style="text-decoration:line-through;">
       <td>Lanyards (incl 1 ticket)</td>
       <td align="center">$2,500</td>
       <td>Your logo worn by every attendee</td>
       <td align="center">1</td>
     </tr>
-    <tr>
+    <tr style="text-decoration:line-through;">
       <td>Coffee/drink sponsor (incl 1 ticket)</td>
       <td align="center">$1,500</td>
       <td>Make sure attendees are hydrated and have coffee</td>
