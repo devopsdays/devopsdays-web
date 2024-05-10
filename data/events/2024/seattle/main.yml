@@ -96,6 +96,8 @@ sponsors:
     level: silver
   - id: stacklok
     level: silver
+  - id: octopus-deploy
+    level: silver
 # Community
   - id: arresteddevops
     level: community
