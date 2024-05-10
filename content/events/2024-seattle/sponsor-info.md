@@ -68,7 +68,7 @@ There is no shipping directly to the venue, so we have contracted a drayage comp
 **Sponsors are responsible for any charges from using this third party vendor. Please follow their instructions carefully to make sure there are no issues.**
 
 #### Drayage
-Aliance Expo is providing drayage for this event, please contact the organizers via email to connect you with them.
+Alliance Expo is providing drayage for this event, please contact the organizers via email to connect you with them.
  <!-- Email <a href='mailto:sdugger@fernexpo.com?subject=2022 DevOpsDays Seattle'>FernExpo</a> for further information and pricing. -->
 
 For outbound shipping only, there is a FedEx Office location across the street from the venue. Unlike some FedEx locations, this location does **not** offer a hold for pickup service so you should not send any incoming shipments there.
