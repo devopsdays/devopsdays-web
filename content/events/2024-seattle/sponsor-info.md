@@ -89,7 +89,7 @@ With that said, we've been told that we have one of the most welcoming sponsor a
 
 ### Floor plan and booth allocations
 
-<iframe width=525 height=385 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTlYu_EiKGD4p9nWj0IpocrMCQir1z-p2jXKfdSJf1JpuIyO7YYuMzVV78zHjrMs0Emvmp4oscJfYwP/pubhtml?widget=true&amp;headers=false">
+<iframe width=1460 height=1200 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTlYu_EiKGD4p9nWj0IpocrMCQir1z-p2jXKfdSJf1JpuIyO7YYuMzVV78zHjrMs0Emvmp4oscJfYwP/pubhtml?widget=true&amp;headers=false">
 <!-- Floor Plan<br>
 <a href="/events/2019-seattle/2019-floor-plan.png"><img style="max-width: 500px; padding: 0px 20px 20px 0px" src="/events/2019-seattle/2019-floor-plan.png"></a> -->
 
