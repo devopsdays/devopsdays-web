@@ -37,14 +37,16 @@ Please see our <a href="https://assets.devopsdays.org/events/2024/houston/devops
    }
 </style>
 <tr>
-	<th style="text-align:left"><i>Packages</i><sup>*</sup></th>
+	<th style="text-align:left"><i>Packages</i><sup>&dagger;</sup></th>
 	<th>HOU Startup Corner*</th>
-	<th>Gold</th>
-	<th>Platinum</th>
+	<th>Recruiting<sup>&dagger;</sup><sup>&sect;</sup></th>
+	<th>Gold<sup>&dagger;</sup></th>
+	<th>Platinum<sup>&dagger;</sup></th>
 </tr>
 <tr>
 	<th style="text-align:left">Pricing</th>
 	<th><center>$500</center></th>
+	<th><center>$1,000</center></th>
 	<th><center>$5,000</center></th>
 	<th><center>$7,500</center></th>
 </tr>
@@ -54,6 +56,14 @@ Please see our <a href="https://assets.devopsdays.org/events/2024/houston/devops
 	<a href="mailto:houston@devopsdays.org"><span class="btn btn-warning btn-sm">Email Us</span></a>
 	</center>
 	</th>
+	<th valign="top"><center>
+		<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+		<input type="hidden" name="cmd" value="_s-xclick">
+		<input type="hidden" name="hosted_button_id" value="HKJNNQ5VEDCPG">
+		<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+		<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+	</form>
+	</center></th>
 	<th valign="top"><center>
 	<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 		<input type="hidden" name="cmd" value="_s-xclick">
@@ -79,6 +89,7 @@ Please see our <a href="https://assets.devopsdays.org/events/2024/houston/devops
 <tr>
 	<td class="l">Included tickets</td>
 	<td bgcolor="gold"><center>1</center></td>
+	<td bgcolor="gold"><center>2</center></td>
 	<td bgcolor="gold"><center>3</center></td>
 	<td bgcolor="gold"><center>4</center></td>
 </tr>
@@ -87,9 +98,11 @@ Please see our <a href="https://assets.devopsdays.org/events/2024/houston/devops
 	<td bgcolor="gold">&#x2714;</td>
 	<td bgcolor="gold">&#x2714;</td>
 	<td bgcolor="gold">&#x2714;</td>
+	<td bgcolor="gold">&#x2714;</td>
 </tr>
 <tr>
 	<td class="l">Logo on room signage</td>
+	<td bgcolor="gold">Small</td>
 	<td bgcolor="gold">Small</td>
 	<td bgcolor="gold">Medium</td>
 	<td bgcolor="gold">Large</td>
@@ -97,11 +110,13 @@ Please see our <a href="https://assets.devopsdays.org/events/2024/houston/devops
 <tr>
 	<td class="l">Logo on all email communication</td>
 	<td>&nbsp;</td>
+	<td>&nbsp;</td>
 	<td bgcolor="gold">&#x2714;</td>
 	<td bgcolor="gold">&#x2714;</td>
 </tr>
 <tr>
 	<td class="l">Logo on shared slide, rotating during breaks</td>
+	<td>&nbsp;</td>
 	<td>&nbsp;</td>
 	<td bgcolor="gold">&#x2714;</td>
 	<td>&nbsp;</td>
@@ -110,16 +125,19 @@ Please see our <a href="https://assets.devopsdays.org/events/2024/houston/devops
 	<td class="l">Logo on dedicated slide, rotating during breaks</td>
 	<td>&nbsp;</td>
 	<td>&nbsp;</td>
+	<td>&nbsp;</td>
 	<td bgcolor="gold">&#x2714;</td>
 </tr>
 <tr>
 	<td class="l">Full 6' table</td>
 	<td bgcolor="gold">&#x2714;</td>
+	<td><strong>&sect;</strong></td>
 	<td bgcolor="gold">&#x2714;</td>
 	<td bgcolor="gold">&#x2714;</td>
 </tr>
 <tr>
 	<td class="l">Choice of table location</td>
+	<td>&nbsp;</td>
 	<td>&nbsp;</td>
 	<td>&nbsp;</td>
 	<td bgcolor="gold">&#x2714;</td>
@@ -128,19 +146,30 @@ Please see our <a href="https://assets.devopsdays.org/events/2024/houston/devops
 	<td class="l">1 minute pitch to full audience</td>
 	<td>&nbsp;</td>
 	<td bgcolor="gold">&#x2714;</td>
+	<td bgcolor="gold">&#x2714;</td>
 	<td>&nbsp;</td>
 </tr>
 <tr>
 	<td class="l">5 minute pitch to full audience</td>
 	<td>&nbsp;</td>
 	<td>&nbsp;</td>
+	<td>&nbsp;</td>
 	<td bgcolor="gold">&#x2714;</td>
 </tr>
+<tr>
+	<td class="l">Other benefits</td>
+	<td>&nbsp;</td>
+	<td><strong>&sect;</strong></td>
+	<td>&nbsp;</td>
+	<td>&nbsp;</td>
+</tr>
 </table>
-<sup>&dagger;</sup>Table space is limited <br/>
-<sup>*</sup>To qualify for HOU Startup Corner tier the company must have fewer than 50 employees, be less
+<strong>&dagger;</strong> Table space is limited <br/>
+<strong>*</strong> To qualify for HOU Startup Corner tier the company must have fewer than 50 employees, be less
 than 3 years old and headquartered in the greater Houston area. Please reach out to the organizers
 at [{{< email_organizers >}}] if interested in this sponsorship tier. 
+<br/>
+<strong>&sect;</strong>  DevOpsDays Houston is a great place to connect with qualified job candidates. Recruiting sponsorship comes with a branded reserved lunch table and regular dedicated LinkedIn posts promoting sponsor’s job openings, in the weeks leading up to the conference.
 <br/>
 <br/>
 </div>
@@ -152,9 +181,14 @@ at [{{< email_organizers >}}] if interested in this sponsorship tier.
     <dd>We will provide a table 6’x30” with a black tablecloth and a couple of chairs. You are welcome to bring your own tablecloth, table signs, rollup banners, etc. to decorate your space. Please also note that there will be no wall behind your table (to affix or lean anything against). 
 	<br/>
     <dt>What dates/times can we set up and tear down?</dt>
-    <dd>&lt; Details coming in May &gt;</dd>
+    <dd>The venue will be open for set up 8pm-10pm on June 3, 2024, or at 6apm on June 4, 2024.<br/>
+	Tear down should happen by 6pm, on June 5, 2024.
+	</dd>
     <dt>How do we ship to the venue?</dt>
-    <dd>&lt; Details coming in May &gt;</dd>
+    <dd>Please ship to the following address:
+	<div style="padding-left:5px;margin-left:20px;border:0px;border-left:1px;border-style:solid">Norris Conference Center- DevOpsDays Houston<br/>
+	816 Town and Country Blvd. Suite 210<br/>
+	Houston Texas 77024<div></dd>
     <dt>What should we expect regarding electricity? (how much, any fees, etc)</dt>
     <dd>There are no fees. There are a number of power outlets along the walls of the room. However, we suggest that you bring a few extension cords, as there may not be enough power outlets or they may not be close enough to your table to be reachable by a laptop/monitor cable.</dd>
     <dt>What should we expect regarding WiFi? (how much, any fees, etc)</dt>
@@ -168,7 +202,7 @@ at [{{< email_organizers >}}] if interested in this sponsorship tier.
 	<dt>Does our team need to register upon arrival?</dt>
 	<dd>All attendees (including sponsors) must check-in at registration on the morning of the first day of the conference. </dd>
     <dt>How much dedicated time will sponsors have with the attendees?</dt>
-    <dd>&lt; Details coming in May &gt;</dd>
+    <dd>The schedule is coming soon, please check the <a href="/events/2024-houston/program">program page</a></dd>
     <dt>Can we bring small giveaways, stickers, mugs, pens, etc.?</dt>
     <dd>Of course.</dd>
     <dt>Can we raffle off stuff (Lego sets, gift cards, iPads, etc.)?</dt>
@@ -178,7 +212,7 @@ at [{{< email_organizers >}}] if interested in this sponsorship tier.
 	<dt>Will there be any virtual components to the event?</dt>
 	<dd>No. DevOpsDays Houston 2024 will be an in person event. Organizing committee is not planning for any virtual components</dd>
 	<dt>Where can we rent a monitor, monitor stand, etc.?</dt>
-	<dd>The Ion and the DevOpsDays committe are not able to provide anything. Check out the following local places: 
+	<dd>The Ion and the DevOpsDays committee are not able to provide anything. Check out the following local places: 
 		<ul>
 		<li><a href="http://www.houstonelectronicsrental.com/">ABC Computer & Audio Visual Rental</a></li>
 		<li><a href="https://www.houstonavrental.com/product-category/hdtv-monitor-rentals/">Action Computer & AV</a></li>

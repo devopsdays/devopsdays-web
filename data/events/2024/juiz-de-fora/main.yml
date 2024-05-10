@@ -90,7 +90,7 @@ team_members: # Name is the only required field for team members.
     image: "matheus-amaral.jpg"
   - name: "Paulo Cerqueira"
     role: "Organizer"
-    employer: "Smart NX"
+    employer: "4Linux"
     linkedin: "https://www.linkedin.com/in/phcerqueira/"
     image: "paulo-cerqueira.jpeg"
   - name: "William Corrêa"
@@ -116,6 +116,10 @@ sponsors:
     level: platinum
   - id: uniacademia
     level: platinum
+  - id: kubeevents
+    level: community
+  - id: kubecareers
+    level: community
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 

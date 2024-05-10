@@ -72,9 +72,15 @@ organizer_email: "taipei@devopsdays.org" # Put your organizer email address here
 sponsors:
   - id: extremedata 
     level: platinum
+  - id: gitlab
+    level: platinum
   - id: cm-security
     level: gold
+  - id: shopline
+    level: gold
   - id: sonatype
+    level: gold
+  - id: titansoft
     level: gold
   - id: veracode
     level: gold
@@ -82,6 +88,10 @@ sponsors:
     level: silver
   - id: tsmc
     level: silver
+  - id: tvbs
+    level: silver
+  - id: 104corporation
+    level: bronze
   - id: hackmd
     level: community
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
@@ -103,7 +113,7 @@ sponsor_levels:
   - id: silver
     label: Silver
 #    max: 0 # This is the same as omitting the max limit.
-#  - id: bronze
-#    label: Bronze
+  - id: bronze
+    label: Bronze
   - id: community
     label: Community

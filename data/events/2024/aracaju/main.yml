@@ -143,11 +143,15 @@ sponsors:
 # Silver
 - id: codepusher
   level: silver
+- id: infox
+  level: silver
 
 # Bronze
 - id: grafanalabs
   level: bronze  
 - id: aws
+  level: bronze
+- id: 1408web
   level: bronze
 
 # Community

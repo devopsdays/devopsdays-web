@@ -14,12 +14,12 @@ startdate: 2024-08-24T09:00:00-03:00 # The start date of your event. Leave blank
 enddate: 2024-08-24T18:00:00-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-# cfp_date_start: 2024-04-01T00:00:00-03:00 # start accepting talk proposals.
-# cfp_date_end: 2024-05-01T00:00:00-03:00 # close your call for proposals.
+cfp_date_start: 2024-04-22T00:00:00-03:00 # start accepting talk proposals.
+cfp_date_end: 2024-05-26T00:00:00-03:00 # close your call for proposals.
 # cfp_date_announce: 2024-05-19T00:00:00-03:00 # inform proposers of status
 
-# cfp_open: "true"
-# cfp_link: "https://www.papercall.io/devopsdaysrio2024"
+cfp_open: "true"
+cfp_link: "https://www.papercall.io/devopsdaysrio2024"
 
 # registration_date_start: 2024-04-12T00:00:00-03:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 # registration_date_end: 2024-08-17T00:00:00-03:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
@@ -133,7 +133,9 @@ sponsors:
   - id: linuxtips
     level: community
     url: https://linuxtips.io 
-
+  - id: novatec
+    level: community
+    url: https://novatec.com.br/ 
 
 
 

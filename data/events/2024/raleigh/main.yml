@@ -95,6 +95,10 @@ team_members: # Name is the only required field for team members.
     image: "jason-hibbets.jpg"
     twitter: "jhibbets"
     github: "jhibbets"
+  - name: Andrew McKinnon
+    linkedin: "https://www.linkedin.com/in/andrew-mckinnon/"
+    image: "andrew-mckinnon.jpg"
+    github: "andrewmckinnon2"
 
 organizer_email: "raleigh@devopsdays.org" # Put your organizer email address here
 

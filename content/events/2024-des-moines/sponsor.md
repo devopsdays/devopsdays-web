@@ -61,7 +61,9 @@ Description = "Sponsor Agile + DevOpsDays Des Moines 2024"
     }
 </style>
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at {{< email_organizers subject="Sponsorship info" >}}.
+<p></p>
+
+<h5>We greatly value sponsors for this open event. Please <a href="https://drive.google.com/file/d/1d6t76DDr6-Pj4hllaZkY6qu_qcJYIwpm/view?usp=sharing">click here for our Downloadable Sponsor Prospectus</a> and contact us at {{<email_organizers subject="Sponsorship info">}} for more information on sponsoring.</h5>
 
 <hr/>
 
@@ -85,7 +87,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
       <tr>
           <td class="label">Remaining Sponsorhips (First come first serve)</td>
           <td class="platinum">1 of 1</td>
-          <td class="gold">11 of 11</td>
+          <td class="gold">8 of 11</td>
           <td class="silver">Unlimited</td>
       </tr>
       <tr>

@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Accelerating ML Development: Running Locally or Scaled Out Without Code Changes"
 Type = "talk"
-Speakers = ["dennis-bappert"]
+Speakers = ["dennis-bappert","olivier-boder"]
 +++
 
 
