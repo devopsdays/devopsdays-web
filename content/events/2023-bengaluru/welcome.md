@@ -30,6 +30,10 @@ Description = "devopsdays bengaluru 2023"
                         &nbsp; Register</a>
                     </div>
                     <div class="p-2">
+                      <a class="btn btn-secondary btn-block" href="/events/2023-bengaluru/program"> <i class="fa fa-calendar fa-lg"></i>&nbsp;&nbsp;
+                        &nbsp; Schedule</a>
+                    </div>
+                    <div class="p-2">
                       <a class="btn btn-secondary btn-block" href="/bengaluru/contact"> <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;
                         &nbsp; Contact the Organizers</a>
                     </div>

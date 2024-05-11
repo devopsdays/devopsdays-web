@@ -1,0 +1,244 @@
+name: "2024-goiania" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2024" # The year of the event. Make sure it is in quotes.
+city: "Goiânia" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaysgyn" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "DevOpsDays está voltando a Goiânia!" # Edit this to suit your preferences
+masthead_background: "background.jpg"
+ga_tracking_id: "G-TFWCP6ZZET" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2024-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2024-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2024-04-06T08:00:00-03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2024-04-06T18:00:00-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+cfp_open: "false"
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2024-01-02T00:00:00-03:00 # start accepting talk proposals.
+cfp_date_end: 2024-02-11T23:59:59-03:00 # close your call for proposals.
+cfp_date_announce: 2024-02-23T21:00:00-03:00 # inform proposers of status
+
+cfp_link: "https://talks.devopsdays.org/devopsdays-goiania-2024/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: 2024-01-08T08:00:00-03:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2024-04-05T23:59:59-03:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://www.sympla.com.br/evento/devopsdays-goiania-2024/2292376" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "-16.679462471222827, -49.26766250250689" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Castro's Park Hotel" # Defaults to city, but you can make it the venue name.
+#
+location_address: "Avenida República do Líbano, 1520 - St. Oeste, Goiânia - GO, 74115-030" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: Chamada de Trabalhos (CfP)
+    icon: "paper-plane-o"
+    # url: /events/2024-goiania/propose
+    url: https://talks.devopsdays.org/devopsdays-goiania-2024/
+
+  - name: local
+    icon: "map-o"
+    url: /events/2024-goiania/location
+
+  - name: inscrições
+    icon: "ticket"
+    url: https://www.sympla.com.br/evento/devopsdays-goiania-2024/2292376
+    #url: /events/2024-goiania/registration
+
+  - name: programação
+    icon: "calendar"
+    url: /events/2024-goiania/program
+
+  - name: palestrantes
+    icon: "microphone"
+    url: /events/2024-goiania/speakers
+
+  - name: patrocínio
+    icon: "money"
+    url: /events/2024-goiania/sponsor
+
+  - name: código de conduta
+    icon: "handshake-o"
+    url: /events/2024-goiania/conduct-pt-br
+
+  - name: contato
+    icon: "envelope-o"
+    url: /events/2024-goiania/contact
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Franzwagner Ternus"
+    email: "franzwagner.str@gmail.com"
+    pronouns: "ele/dele"
+    employer: "Stone"
+    bio: "Site Reliability Engineer"
+    github: "strund3r"
+    twitter: "strund3r"
+    linkedin: "https://www.linkedin.com/in/franzwagner-ternus/"
+    image: "franzwagner-ternus.jpg"
+
+  - name: "Beza"
+    employer: "JusBrasil"
+    bio: "Site Reliability Engineer"
+    github: "bezarsnba"
+    twitter: ""
+    linkedin: "https://www.linkedin.com/in/bezarsnba/"
+    web: ""
+    image: "bezaleel-ramos.jpeg"
+
+  - name: "Marcelo Paiva"
+    email: "marcelo@softprime.com.br"
+    employer: "Softprime Soluções"
+    bio: "CTO na Softprime, Microsoft MVP, AWS Community Builder"
+    github: "marcelojpaiva"
+    twitter: "marcelojpaiva"
+    linkedin: "https://www.linkedin.com/in/marcelopaiva"
+    image: "marcelo-paiva.jpg"
+
+  - name: "Waltenne Ferreira"
+    email: "waltenne.ferreira@gmail.com"
+    employer: "Oobj Tecnologia da Informação"
+    bio: "DevOps Analyst"
+    github: "waltenne"
+    twitter: "waltenne"
+    linkedin: "https://www.linkedin.com/in/waltenne/"
+    image: "waltenne-carvalho.jpg"
+
+organizer_email: "goiania@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: elastic
+    level: gold
+  - id: saveincloud
+    level: gold
+  - id: aws-user-group-goiania
+    level: community
+  - id: devopsgo
+    level: community
+  - id: linuxtips
+    level: community
+  - id: override
+    level: community
+  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+
+sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: platinum
+    label: Platinum
+    max: 1
+  - id: gold
+    label: Gold
+    max: 4
+  - id: silver
+    label: Silver
+    max: 0 # This is the same as omitting the max limit.
+  - id: bronze
+    label: Bronze
+  - id: community
+    label: Community
+
+program:
+  - title: "Credenciamento"
+    type: custom
+    date: 2024-04-06T08:00:00-03:00
+    start_time: "08:00"
+    end_time: "08:30"
+  - title: "Abertura"
+    type: custom
+    date: 2024-04-06T08:00:00-03:00
+    start_time: "08:30"
+    end_time: "09:00"
+    background_color: "#0082AB"
+  - title: "rafael-gomes"
+    type: talk
+    date: 2024-04-06T08:00:00-03:00
+    start_time: "09:00"
+    end_time: "09:30"
+    background_color: "#FF8300"
+  - title: "ruan-oliveira"
+    type: talk
+    date: 2024-04-06T08:00:00-03:00
+    start_time: "09:30"
+    end_time: "10:00"
+  - title: "camis-moreira"
+    type: talk
+    date: 2024-04-06T08:00:00-03:00
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Coffee Break"
+    type: custom
+    date: 2024-04-06T08:00:00-03:00
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "paloma-lataliza"
+    type: talk
+    date: 2024-04-06T08:00:00-03:00
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "andre-brandao"
+    type: talk
+    date: 2024-04-06T08:00:00-03:00
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch"
+    type: custom
+    date: 2024-04-06T08:00:00-03:00
+    start_time: "12:00"
+    end_time: "13:30"
+  - title: "Open Space"
+    type: open-space
+    date: 2024-04-06T08:00:00-03:00
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "joao-neto"
+    type: talk
+    date: 2024-04-06T08:00:00-03:00
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: "carlos-bezerra"
+    type: talk
+    date: 2024-04-06T08:00:00-03:00
+    start_time: "14:30"
+    end_time: "15:00"
+  - title: "raphael-moura"
+    type: talk
+    date: 2024-04-06T08:00:00-03:00
+    start_time: "15:00"
+    end_time: "15:30"
+  - title: "nathan-martins"
+    type: talk
+    date: 2024-04-06T08:00:00-03:00
+    start_time: "15:30"
+    end_time: "16:00"
+  - title: "Coffee Break"
+    type: custom
+    date: 2024-04-06T08:00:00-03:00
+    start_time: "16:00"
+    end_time: "16:30"
+  - title: "salviano-ludgrio"
+    type: talk
+    date: 2024-04-06T08:00:00-03:00
+    start_time: "16:30"
+    end_time: "17:00"
+  - title: "wagner-alencar-da-silva"
+    type: talk
+    date: 2024-04-06T08:00:00-03:00
+    start_time: "17:00"
+    end_time: "17:30"
+  - title: "Encerramento"
+    type: custom
+    date: 2024-04-06T08:00:00-03:00
+    start_time: "17:30"
+    end_time: "18:00"

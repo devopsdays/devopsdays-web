@@ -24,7 +24,7 @@ Description = "devopsdays Recife 2023"
         <strong>Local</strong>
       </div>
       <div class = "col-md-8">
-        {{< event_link page="local" text="Em breve!" title="Local" >}}
+        {{< event_link page="local" text="ETE Porto Digital" title="Local" >}}
       </div>
     </div>
     <div class = "row">
@@ -48,7 +48,7 @@ Description = "devopsdays Recife 2023"
         <strong>Ingresso</strong>
       </div>
       <div class="col-md-6">
-        {{< event_link url-key="registration_link" text="Adquira seu ingresso!" >}}
+        {{< event_link url-key="registration_link" text="Se inscreva aqui!" >}}
       </div>
     </div>
   </div>
@@ -72,13 +72,16 @@ Description = "devopsdays Recife 2023"
       </h4>
       <div class="d-flex flex-row">
         <div style="witdh: auto; padding-right: 1em;">
-          <a style="text-align:left;" class="btn btn-secondary btn-block" href="/events/2023-recife/contact"> <i class="fa fa-envelope-o fa-fw"></i> Entre em contato</a>
+          <a style="text-align:left;" class="disabled btn btn-secondary btn-block" href="/events/2023-recife/contact"> <i class="fa fa-envelope-o fa-fw"></i> Entre em contato</a>
         </div>
         <div style="witdh: auto; padding-right: 1em; ">
-          <a style="text-align:left;" class="btn btn-secondary btn-block" href=""> <i class="fa fa-user-plus fa-fw"></i> Inscrições </a>
+          <a target="_blank" style="text-align:left;" class="disabled btn btn-secondary btn-block" href=""> <i class="fa fa-user-plus fa-fw"></i> Inscrições </a>
         </div>
         <div style="witdh: auto; padding-right: 1em;">
-          <a style="text-align:left;" class="btn btn-secondary btn-block" href=""> <i class="fa fa-map-marker fa-fw"></i> Local </a>
+          <a target="_blank" style="text-align:left;" class="disabled btn btn-secondary btn-block" href="https://www.papercall.io/dodrec23"> <i class="fa fa-file-text-o fa-fw"></i> Call for Papers </a>
+        </div>
+        <div style="witdh: auto; padding-right: 1em;">
+          <a target="_blank" style="text-align:left;" class="disabled btn btn-secondary btn-block" href="https://maps.app.goo.gl/WrWrvvcrNzC6kj8NA"> <i class="fa fa-map-marker fa-fw"></i> Local </a>
         </div>
       </div>
     </div>
@@ -88,13 +91,13 @@ Description = "devopsdays Recife 2023"
       </h4>
       <div class="d-flex flex-row">
         <div style="witdh: auto; padding-right: 1em;">
-          <a style="text-align:left;" class="btn btn-secondary btn-block" href="https://www.linkedin.com/company/devopsdaysrec/"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
+          <a target="_blank" style="text-align:left;" class="btn btn-secondary btn-block" href="https://www.linkedin.com/company/devopsdaysrec/"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
         </div>
         <div style="witdh: auto; padding-right: 1em;">
-          <a style="text-align:left;" class="btn btn-secondary btn-block" href="https://twitter.com/devopsdaysrec/"><i class="fa fa-twitter fa-fw "></i> Twitter </a>
+          <a target="_blank" style="text-align:left;" class="btn btn-secondary btn-block" href="https://twitter.com/devopsdaysrec/"><i class="fa fa-twitter fa-fw "></i> Twitter </a>
         </div>
         <div style="witdh: auto; padding-right: 1em;">
-          <a style="text-align:left;" class="btn btn-secondary btn-block" href="https://www.instagram.com/devopsdaysrec/"> <i class="fa fa-instagram fa-fw"></i>&nbsp; Instagram</a>
+          <a target="_blank" style="text-align:left;" class="btn btn-secondary btn-block" href="https://www.instagram.com/devopsdaysrec/"> <i class="fa fa-instagram fa-fw"></i>&nbsp; Instagram</a>
         </div>
       </div>
     </div>

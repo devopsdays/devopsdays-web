@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Organising a fast-growing DevOps team: a real life use case"
 Type = "talk"
 Speakers = ["popoff-michka"]
+Youtube = "h0G106s2Hgw"
 +++
 
 WayKonect (a subsidiary company of TotalEnergies) is developing products for professional mobility. We develop software to accompany our customers towards their ecological transition. WayKonect has grown from 20 to more than 80 collaborators over the last 4 years. We are based in Lille and Paris (France) and Phoenix (Mauritius).

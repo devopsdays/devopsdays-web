@@ -1,0 +1,454 @@
+name: "2021-zurich" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2021" # The year of the event. Make sure it is in quotes.
+city: "Zürich (Winterthur)" # The displayed city name of the event. Capitalize it.
+event_twitter: "DevOpsZH" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "DevOpsDays is coming to Zürich!" # Edit this to suit your preferences
+ga_tracking_id: "UA-174260535-7" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+event_group: "Zürich"
+
+# All dates are in unquoted 2021-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2021-09-08T00:00:00+02:00
+#   variable: 2021-09-09T23:59:59+02:00
+# Note: we allow 2021-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate:  2021-09-07T00:00:00+02:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  2021-09-08T23:59:59+02:00 # The end date of your event. Leave blank if you don't have a venue reserved yet. 
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start:  2021-02-04T00:00:00+02:00 # start accepting talk proposals.
+cfp_date_end:  2021-05-31T23:59:59+02:00 # close your call for proposals.
+cfp_date_announce: 2021-07-01T00:00:00+02:00 # inform proposers of status
+
+cfp_open: "true"
+cfp_link: "https://sessionize.com/devopsdayszh-2021/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: 2021-02-01T00:00:00+02:00
+registration_date_end: 2021-09-06T00:00:00+02:00
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+#registration_link: "https://ti.to/dod/dodzh2020" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "47.497854, 8.731663" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Alte Kaserne Winterthur" # Defaults to city, but you can make it the venue name.
+#
+location_address: "Technikumstrasse 8, 8400 Winterthur, Switzerland" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+#  - name: propose
+  - name: program
+  - name: speakers
+  - name: location
+  - name: registration
+  - name: sponsor
+  - name: diversity
+  - name: covid
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Martin Thalmann"
+    twitter: "martin_thalmann"
+    employer: "Swisscom AG"
+    bio: "I’m a passionate DevOps Enthusiast who strongly believes in the power of this movement. I’m currently helping a Swiss telco operator in adapting DevOps principles in a large enterprise. Beside that I’m co-organizer of the [DevOps Enthusiast Meetup in Zurich](https://www.meetup.com/DevOps-Meetup-Zurich/). I do have a background as a Software Engineer and experience in several Line- and Project-Management positions."
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/martinthalmann/"
+    website: ""
+    image: "martin-thalmann.jpg"
+  - name: "Dirk Lehmann"
+    twitter: "doergn"
+    employer: "SAP"
+    bio: "<p>Dirk is a DevOps evangelist and Continuous Delivery expert at SAP.</p><p>Since 2001 Dirk worked in various roles at SAP including Development and Operations.</br>Together with his former team \"TwoGo by SAP\" he established the first Continuous Delivery implementation at SAP, delivering value daily to their customers.</p><p>In his current role, Dirk is a Cloud Quality Coach at SAP with focus on Continuous Delivery and DevOps practices.</p><p>Dirk is a frequent speaker at international conferences on DevOps and Continuous Delivery.</p>"
+    linkedin: "https://www.linkedin.com/in/dirk-lehmann-7712bb125/"
+    github: ""
+    facebook: ""
+    image: "dirk-lehmann.jpg"
+  - name: "Nadine Biedermann"
+    employer: "Swisscom AG"
+    bio: "<p>Metaphorically, Nadine can conquer the world with her clever quips and her charme. Literally, Nadine's wit and her creativity will enhance your Marketing and Social Media experience of the DevOpsDays 2019.</p>"
+    linkedin: "https://www.linkedin.com/in/nadine-biedermann-46436516b"
+    image: "nadine-biedermann.jpg"
+  - name: "Romano Roth"
+    twitter: "RomanoRoth"
+    employer: "Zühlke Engineering AG"
+    bio: "<p>I'm an experienced software consultant and DevOps enthusiast working at Zühlke. My passion is helping companies bringing people, processes and technology together so that they can deliver continuously value to their customers.</p>"
+    github: "https://github.com/RomanoRoth"
+    facebook: "https://www.facebook.com/romanoroth/"
+    website: "https://www.romanoroth.com"
+    linkedin: "https://www.linkedin.com/in/romanoroth/"
+    image: "romano-roth.jpg"
+  - name: "Carsten Plum"
+    bio: "<p>I am passionate about everything agile and human centered. Having started my career in an old school waterfall environment more than 20 years ago as a software engineer and project manager, I am now happy to enable teams and large organisations to establish agile methods and DevOps. I specifically like the combination (and challenges) of technical and cultural aspects.</p>"
+    Website: https://www.xing.com/profile/Carsten_Plum2/
+    employer: "Federal Office of Information Technology"
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/romanoroth/"
+    image: "carsten-plum.jpg"
+  - name: "Tobias Weinmann"
+    bio: "<p>Having worked as a developer, systems engineer and team lead in IT operations, the ideas and concepts behind DevOps are very close to my heart. As I am passionate about coding since my teenage years, I am fascinated by concepts like Infrastructure as Code, Social Coding, and cloud native technologies trying to get hands-on whenever possible. I enjoy lateral thinking and my basic premise is that we cannot solve our problems with the same thinking we used when we created them (Albert Einstein). In my current role I dedicate all my energy to introducing and spreading DevOps principles and practices in the broader organization.</p>"
+    linkedin: "https://www.linkedin.com/in/tobias-weinmann"
+    twitter: "Wankinobi75"
+    github: "tweinmann"
+    employer: "Swiss Re"
+    image: "tobias-weinmann.jpg"
+  - name: "Lorena Dütsch"
+    employer: "Swisscom AG"
+    bio: "<p>I love to create visual design, UX & UI Design, infographics, pictograms and so on. With my creativity I will participate in marketing and social media for DevOpsDays 2020.</p>"
+    linkedin: "https://www.linkedin.com/in/lorenadütsch"
+    image: "lorena-duetsch.png"
+  - name: "Sebastian Zillessen"
+    bio: "<p>I am a Senior Software Engineer. Since 2016 I am focusing on agile software development processes, clean code, infrastructure as code and DevOps specific development and release processes. My passion lies in Full stack enterprise application development which I approach with an entrepreneurial mindset.</p>"
+    image: "sebastian-zillessen.jpeg"
+    employer: "Zühlke Engineering AG"
+    twitter: "sebzill"
+    linkedin: "https://www.linkedin.com/in/sebastianzillessen/"
+  - name: "Franziska Bühler"
+    bio: "<p>Franziska loves to combine her favorite topics DevOps, IT security and open source software. And that's exactly what she can pursue as an architect at Puzzle ITC! As a former speaker at the DevOpsDays Zurich, organizer of the ModSecurity CRS Meetup Bern and an enthusiastic OWASP member, Franziska also has the opportunity to share her passion with others. When she isn't disassembling highly optimized regexes or automating security, she enjoys spending time with her family.</p>"
+    image: "franziska-buehler.jpeg"
+    employer: "Puzzle ITC"
+    github: "franbuehler"
+    twitter: "@bufrasch"
+    linkedin: "https://www.linkedin.com/in/franziska-buehler-bb037a163/"
+  - name: "Noëmi Kruesi"
+    twitter: ""
+    employer: "Swisscom AG"
+    bio: "<p>It is a well-known fact that girls just wanna have fun. It is also known that companies that incorporate DevOps get more done. How do these two facts relate, you ask?</p>
+<p>Meet Noëmi Krüsi, a girl who gets stuff done. Her strengths and talents lie in design and administration. As a creative allrounder she will be assisting with the design and social media of the DevOpsDays 2018.</p>"
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/noëmi-krüsi-992436127/"
+    website: ""
+    image: "noemi-krusi.jpg"
+  - name: "Tobias Brunner"
+    twitter: "tobruzh"
+    employer: "VSHN AG"
+    bio: "Tobias (aka tobru) is a DevOps Engineer and Partner at VSHN and one of the founding members of VSHN. He loves Open Source and everything about state-of-the-art technologies like Docker, Kubernetes and OpenShift. In his day job he is responsible for the Container Platform team at VSHN, works on the next big thing and brings APPUiO - The Swiss Container Platform - to the next level."
+    github: "tobru"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/tobru/"
+    website: "https://tobru.ch/"
+    image: "tobias-brunner.jpg"
+  - name: "Julia Faust"
+    bio: "<p>Julia loves to communicate and to bring people and solutions together. As a Financial Controller for the IT development department of a Swiss Telco, she accompanies the transformation into an agile setup from the beginning.</p><p>DevOps principles such as \"build it, run it\", autonomy of the team, as well as short and reasonable planning processes motivate her a lot. Julia is thrilled by discussing the basic ideas and causes of agility and to inspire others.</p>"
+    image: "julia-faust.jpg"
+  - name: "David Kilchenmann"
+    twitter: "@DKilchenmann"
+    employer: "Puzzle ITC"
+    bio: "<p>David is Key Account Manager at Puzzle ITC, an open-source IT company based in Bern, Zurich, Basel & Tübingen(DE). He loves how container technologies changed the way software is developed and run, but still sees a lot of potential within other organizations to adopt a DevOps mindset. At Puzzle he is working in the account  management and assists the product development of several open source solutions like Hitobito, APPUiO, PuzzleTime & Liima.  Before Puzzle he was leading the Swisscom Software Day for two iterations and promoting the Swisscom software culture within the company.</p>"
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/david-kilchenmann-004aaa68/"
+    website: ""
+    image: "david-kilchenmann.jpeg"
+  - name: "Selina Reist"
+    employer: "Federal Office of Information Technology"
+    bio: "<p>I am an enthusiast for everything visual:photography, movies and animations, pictograms, infofraphics, visual design, graphical recordings, UX-Design. I also like to combine these skills in crossfunctional teams to enable app development, transformation processes and last but not least communicate and teach DevOps practices in large federal organizations</p>"
+    image: "selina-reist.jpg"
+  - name: "Vittorio Boccone"
+    twitter: "drbokko"
+    employer: "Dectris Ltd."
+    bio: "Vittorio grew up in the a world where hardware and software are in perfect equilibrium. At 8 he started customizing and modifying anything with an engine or a CPU. Curious about the nature of things he later became a detector and accelerator physicist. After 13 years at CERN, he's now often seen at Dectris happily developing Dectris X-ray detectors. He's comfortable with any lab equipment, programming language or particle accelerator."
+    github: "https://github.com/drbokko"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/vittorio-boccone-1998a94/"
+    website: ""
+    image: "vittorio-boccone.jpg"
+organizer_email: "zurich@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: zhlke
+    level: bronze
+  - id: avega
+    level: silver
+  - id: devops-meetup-zurich
+    level: community
+  - id: devops-meetup-bern
+    level: community
+  - id: swiss-cloud-native-day
+    level: community
+  - id: vshn-before-20240317
+    level: bronze
+  - id: sap
+    level: bronze
+  - id: locatee
+    level: bronze  
+  - id: youstream
+    level: partner     
+  - id: swisscom
+    level: gold
+    url: "https://www.swisscom.ch/jobs/"
+  - id: swiss-re
+    level: gold
+  - id: roche
+    level: gold
+  - id: cloudscalech-before-20240205
+    level: silver
+  - id: switch
+    level: bronze
+  - id: checkmarx-before-20211215
+    level: gold
+  - id: basis
+    level: silver
+  - id: wehackpurple
+    level: community
+  - id: swissdevjobs
+    level: partner 
+  - id: cycloid
+    level: silver
+  - id: elastic-before-20221004
+    level: silver
+  - id: cloudbees
+    level: gold
+  - id: jfrog
+    level: gold
+  - id: stacksciences
+    level: bronze   
+  - id: lesswire
+    level: partner  
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: gold
+    label: Enterprise / Plenum 
+    max: 6
+  - id: silver
+    label: Startup / Foyer / Evening Event / Meals & Coffee
+    max: 7
+  - id: bronze
+    label: Jobboard / Friends
+    max: 0
+  - id: community
+    label: Community
+    max: 0
+  - id: partner
+    label: Partner
+    max: 0
+
+program:
+# Day 1
+- title: Registration & Welcome Coffee
+  type: custom
+  date: 2021-09-07
+  start_time: '8:00'
+  end_time: '9:00'
+
+- title: Opening
+  type: custom
+  date: 2021-09-07
+  start_time: '9:00'
+  end_time: '9:15'
+  
+- title: busra-koken
+  type: talk
+  date: 2021-09-07
+  start_time: '9:15'
+  end_time: '10:00'
+
+- title: johan-abildskov
+  type: talk
+  date: 2021-09-07
+  start_time: '10:00'
+  end_time: '10:30'
+
+- title: Break
+  type: custom
+  date: 2021-09-07
+  start_time: '10:30'
+  end_time: '11:00'
+
+- title: stacy-cashmore
+  type: talk
+  date: 2021-09-07
+  start_time: '11:00'
+  end_time: '11:30'
+  
+- title: olowoniwa-gabriel-ayokunle
+  type: talk
+  date: 2021-09-07
+  start_time: '11:30'
+  end_time: '12:00'
+
+- title: pj-hagerty
+  type: talk
+  date: 2021-09-07
+  start_time: '12:00'
+  end_time: '12:30'
+
+- title: Lunch
+  type: custom
+  date: 2021-09-07
+  start_time: '12:30'
+  end_time: '14:00'
+
+- title: Opening Afternoon
+  type: custom
+  date: 2021-09-07
+  start_time: '14:00'
+  end_time: '14:05'
+
+- title: "Ignites"
+  type: ignite
+  date: 2021-09-07
+  start_time: '14:05'
+  end_time: '14:25'
+
+- title: "Open Space"
+  type: open-space
+  date: 2021-09-07
+  start_time: '14:25'
+  end_time: '16:30'
+
+- title: marco-consolaro
+  type: workshop
+  date: 2021-09-07
+  start_time: '14:25'
+  end_time: '16:30'
+
+- title: courtney-heba
+  type: workshop
+  date: 2021-09-07
+  start_time: '15:00'
+  end_time: '16:30'
+
+- title: andrea-giardini 
+  type: workshop
+  date: 2021-09-07
+  start_time: '15:00'
+  end_time: '16:30'
+
+- title: jonathan-smart
+  type: talk
+  date: 2021-09-07
+  start_time: '16:45'
+  end_time: '17:30'
+
+- title: Evening Event
+  type: custom
+  date: 2021-09-07
+  start_time: '17:30'
+  end_time: ''
+
+# Day 2
+- title: Registration & Welcome Coffee
+  type: custom
+  date: 2021-09-08
+  start_time: '8:00'
+  end_time: '9:00'
+
+- title: Opening
+  type: custom
+  date: 2021-09-08
+  start_time: '9:00'
+  end_time: '9:15'
+  
+- title: sebastien-goasguen
+  type: talk
+  date: 2021-09-08
+  start_time: '9:15'
+  end_time: '10:00'
+
+- title: jelena-malic
+  type: talk
+  date: 2021-09-08
+  start_time: '10:00'
+  end_time: '10:30'
+
+- title: Break
+  type: custom
+  date: 2021-09-08
+  start_time: '10:30'
+  end_time: '11:00'
+
+- title: michael-cote 
+  type: talk
+  date: 2021-09-08
+  start_time: '11:00'
+  end_time: '11:30'
+  
+- title: jessica-fields
+  type: talk
+  date: 2021-09-08
+  start_time: '11:30'
+  end_time: '12:00'
+
+- title: quintessence-anx 
+  type: talk
+  date: 2021-09-08
+  start_time: '12:00'
+  end_time: '12:30'
+
+- title: Lunch
+  type: custom
+  date: 2021-09-08
+  start_time: '12:30'
+  end_time: '14:00'
+
+- title: Opening Afternoon
+  type: custom
+  date: 2021-09-08
+  start_time: '14:00'
+  end_time: '14:05'
+
+- title: "Ignites"
+  type: ignite
+  date: 2021-09-08
+  start_time: '14:05'
+  end_time: '14:30'
+
+- title: "Open Space"
+  type: open-space
+  date: 2021-09-08
+  start_time: '14:30'
+  end_time: '17:15'
+
+- title: batel-zohar
+  type: workshop
+  date: 2021-09-08
+  start_time: '15:00'
+  end_time: '17:15'
+
+- title: cosima-laube
+  type: workshop
+  date: 2021-09-08
+  start_time: '15:00'
+  end_time: '17:15'
+
+- title: Award Ceremony
+  type: custom
+  date: 2021-09-08
+  start_time: '17:15'
+  end_time: '17:30'
+
+
+ignites:
+  - title: "christian-jakob"
+    date: 2021-09-07
+  - title: "david-patrick-adam"
+    date: 2021-09-07
+  - title: "tobias-hauk"
+    date: 2021-09-07
+  - title: "daniel-maher"
+    date: 2021-09-07
+  - title: "achim-toeper"
+    date: 2021-09-08
+  - title: "justus-graumann"
+    date: 2021-09-08
+  - title: "ignite-johan-abildskov"
+    date: 2021-09-08
+  - title: "georg-hauzenberger"
+    date: 2021-09-08

@@ -9,24 +9,18 @@ Description = "Registration for DevOpsDays Geneva 2024"
   }
 </style>
 
-<div id="eventbrite-widget-container-465564525027"></div>
+<link rel="stylesheet" type="text/css" href="https://tickets.devopsdays.org/devopsdays-geneva/2024/widget/v1.css">
+<script type="text/javascript" src="https://tickets.devopsdays.org/widget/v1.en.js" async></script>
 
-<script src="https://www.eventbrite.fr/static/widgets/eb_widgets.js"></script>
+<div style="width:100%; text-align:left;">
+<pretix-widget event="https://tickets.devopsdays.org/devopsdays-geneva/2024/" single-item-select="button"></pretix-widget>
+<noscript>
+   <div class="pretix-widget">
+        <div class="pretix-widget-info-message">
+            JavaScript est désactivé dans votre navigateur. Pour accéder à notre billetterie sans JavaScript, veuillez <a target="_blank" rel="noopener" href="https://tickets.devopsdays.org/devopsdays-geneva/2024/">cliquer ic</a>.
+        </div>
+    </div>
+</noscript>
+</div>
 
-<script type="text/javascript">
-    var exampleCallback = function() {
-    };
-
-    window.EBWidgets.createWidget({
-        // Required
-        widgetType: 'checkout',
-        eventId: '465564525027',
-        iframeContainerId: 'eventbrite-widget-container-465564525027',
-
-        // Optional
-        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
-        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
-    });
-</script>
-
-[See the Eventbrite page](https://www.eventbrite.ch/e/devopsdays-geneva-2024-tickets-465564525027?aff=erelexpmlt)
+[Go directly the tickets page](https://tickets.devopsdays.org/devopsdays-geneva/2024/)

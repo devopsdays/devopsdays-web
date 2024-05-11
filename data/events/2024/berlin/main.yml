@@ -1,0 +1,327 @@
+name: "2024-berlin" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2024" # The year of the event. Make sure it is in quotes.
+city: "Berlin" # The displayed city name of the event. Capitalize it.
+event_twitter: "blndevops" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays is coming back to Berlin!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+event_logo: "logo-square.jpg"
+# sharing_image: "2022-sharing-logo-berlin.png"
+masthead_background: "berlin-masthead.png"
+
+# All dates are in unquoted 2024-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2024-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate:  2024-05-07T00:00:00+02:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  2024-05-08T23:59:59+02:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start:  2023-12-15T00:00:00+01:00 # start accepting talk proposals.
+cfp_date_end:  2024-01-31T23:59:59+01:00 # close your call for proposals.
+cfp_date_announce:  2024-02-25T00:00:00+01:00 # inform proposers of status
+
+cfp_link: "https://cfp.devopsdays.berlin/2024/cfp" 
+
+registration_date_start: 2023-08-08T00:00:00+02:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2024-05-08T23:59:59+02:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "52.521173, 13.438183" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Umweltforum Berlin" # Defaults to city, but you can make it the venue name.
+#
+location_address: "Pufendorfstraße 11, 10249 Berlin" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: propose
+  - name: location
+  - name: registration
+  - name: program
+  - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Bernd Erk"
+    twitter: "gethash"
+    employer: "NETWAYS"
+  - name: "Jessica Ulyate"
+    twitter: "JulyAte"
+  - name: "Martin Alfke"
+    twitter: "tuxmea"
+    employer: "Example42"
+  - name: "Markus Neder"
+    twitter: "markusneder"
+    employer: "NETWAYS"
+  - name: "Norman Messtorff"
+    twitter: "nmesstorff"
+    github: "nmesstorff"
+    employer: "Deutsche Post IT Services"
+    website: "https://normes.org"
+  - name: "Oliver Seemann"
+    twitter: "oseemann"
+  - name: "Ralph Angenendt"
+    mastodon: "https://toot.berlin/@der_mit_ph"
+    github: "range"
+    image: "ralph-angenendt.png"
+  - name: "Ravi Yadav"
+    twitter: "ravi_yadav_de"
+  - name: "Sabrina Voigt"
+    twitter: "sakiddo"
+  - name: "Simon Hoenscheid"
+    twitter: "simonhoenscheid"
+  - name: "Travis Theune"
+    twitter: "tenminutesout"
+  - name: "Carlos Tadeu Panato Jr"
+    twitter: "comedordexis"
+    github: "cpanato"
+    employer: "Chainguard"
+organizer_email: "berlin@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: netways
+    level: partner
+  - id: cloudsmith
+    level: platinum
+  - id: snyk
+    level: platinum
+  - id: thomas-krenn
+    level: platinum
+  - id: b1-systems
+    level: platinum
+  - id: osism-tech
+    level: platinum
+  - id: jfrog
+    level: platinum
+  - id: tigera
+    level: platinum
+  - id: splunk
+    level: platinum
+  - id: site24x7
+    level: gold
+  - id: doit
+    level: silver
+  - id: kubeevents
+    level: partner
+  - id: stickermule
+    level: partner
+    url: https://mule.to/p68i
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: platinum
+    label: Platinum
+    max: 6
+  - id: gold
+    label: Gold
+    max: 0 # This is the same as omitting the max limit.
+  - id: silver
+    label: Silver
+    max: 0 # This is the same as omitting the max limit.
+  - id: partner
+    label: Partner
+    max: 3
+
+    
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2024-05-07
+    start_time: "08:30"
+    end_time: "09:30"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2024-05-07
+    start_time: "09:30"
+    end_time: "09:40"
+  - title: "anja-kunkel"
+    type: talk
+    date: 2024-05-07
+    start_time: "09:40"
+    end_time: "10:10"
+  - title: "schlomo-schapiro"
+    type: talk
+    date: 2024-05-07
+    start_time: "10:10"
+    end_time: "10:40"
+  - title: "Break"
+    type: custom
+    date: 2024-05-07
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "imran-noor-mohamed"
+    type: talk
+    date: 2024-05-07
+    start_time: "11:10"
+    end_time: "11:40"
+  - title: "Sponsors"
+    type: custom
+    date: 2024-05-07
+    start_time: "11:40"
+    end_time: "11:45"
+  - title: "fagani-hajizada"
+    type: talk
+    date: 2024-05-07
+    start_time: "11:45"
+    end_time: "12:15"
+  - title: "Open Space: Explained"
+    type: open-space
+    date: 2024-05-07
+    start_time: "12:15"
+    end_time: "12:45"
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2024-05-07
+    start_time: "12:45"
+    end_time: "14:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2024-05-07
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: "Open Space Topics"
+    type: open-space
+    date: 2024-05-07
+    start_time: "14:30"
+    end_time: "15:00"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2024-05-07
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "Break"
+    type: custom
+    date: 2024-05-07
+    start_time: 15:45
+    end_time: 16:15
+  - title: "Open Space #2"
+    type: open-space
+    date: 2024-05-07
+    start_time: "16:15"
+    end_time:  "17:00"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2024-05-07
+    start_time: "17:00"
+    end_time: "17:45"
+  - title: "Sundown Gathering"
+    type: custom
+    date: 2024-05-07
+    start_time: "18:00"
+    end_time: "late"
+    comments: "Socialize, network, enjoy the evening"
+
+    # Day 2
+
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2024-05-08
+    start_time: "08:30"
+    end_time: "09:30"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2024-05-08
+    start_time: "09:30"
+    end_time: "09:40"
+  - title: "andreia-otto"
+    type: talk
+    date: 2024-05-08
+    start_time: "09:40"
+    end_time: "10:10"
+  - title: "timothy-mamo"
+    type: talk
+    date: 2024-05-08
+    start_time: "10:10"
+    end_time: "10:40"
+  - title: "Break"
+    type: custom
+    date: 2024-05-08
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "verena-traub"
+    type: talk
+    date: 2024-05-08
+    start_time: "11:10"
+    end_time: "11:40"
+  - title: "Sponsors"
+    type: custom
+    date: 2024-05-08
+    start_time: "11:40"
+    end_time: "11:45"
+  - title: "christina-kraus"
+    type: talk
+    date: 2024-05-08
+    start_time: "11:45"
+    end_time: "12:15"
+  - title: "Ignites"
+    type: ignite
+    date: 2024-05-08
+    start_time: "12:15"
+    end_time: "12:45"
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2024-05-08
+    start_time: "12:45"
+    end_time: "14:00"
+  - title: "Open Space Topics"
+    type: open-space
+    date: 2024-05-08
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2024-05-08
+    start_time: "14:30"
+    end_time: "15:15"
+  - title: "Break"
+    type: custom
+    date: 2024-05-08
+    start_time: "15:15"
+    end_time: "15:45"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2024-05-08
+    start_time: "15:45"
+    end_time: "16:30"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2024-05-08
+    start_time: "16:30"
+    end_time: "17:15"
+ignites:
+  - title: "daiany-palacios"
+    date: 2024-05-07
+  - title: "olimpiu-pop"
+    date: 2024-05-07
+  - title: "azer-abdullaev"
+    date: 2024-05-07
+  - title: "ahmed-siouani"
+    date: 2024-05-07
+  - title: "arne-hattendorf"
+    date: 2024-05-08
+  - title: "aj"
+    date: 2024-05-08
+  - title: "bill-mulligan"
+    date: 2024-05-08
+  - title: "stephan-mousset"
+    date: 2024-05-08
+  - title: "oliver-leaver-smith"
+    date: 2024-05-08

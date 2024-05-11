@@ -1,0 +1,356 @@
+name: "2022-boston" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2022" # The year of the event. Make sure it is in quotes.
+city: "Boston" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaysbos" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays is coming to Boston!" # Edit this to suit your preferences
+ga_tracking_id: "UA-137417319-10" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2022-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2022-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: "2022-09-12T08:00:00-05:00" # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: "2022-09-13T17:00:00-05:00" # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: "2022-05-15T00:00:00-00:00"  # start accepting talk proposals.
+cfp_date_end: "2022-06-30T23:59:00-00:00"  # close your call for proposals.
+cfp_date_announce: "2022-05-15T00:00:00-00:00"  # inform proposers of status
+
+cfp_link: "https://www.papercall.io/dodbos22" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: "2022-08-05T00:00:00-00:00" # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: "2022-09-11T00:00:00-00:00" # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://ti.to/devopsdaysbos/2022" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "42.344447, -71.071291" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "The Cyclorama at the Boston Center for the Arts" # Defaults to city, but you can make it the venue name.
+#
+location_address: "539 Tremont St, Boston, MA 02116" # Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+ # - name: propose
+  - name: covid
+  - name: location
+  - name: registration
+  - name: program
+  - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+#  - name: covid-19-policy # until next PR based on group discussions
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Michael Thomas Clark"
+    linkedin: http://www.linkedin.com/in/michaeltclark
+    twitter: "michaeltclark"
+    bio: "Michael is a veteran systems management professional. He has worked across multiple industry verticals as a software trainer, a front-line technician, a back-office engineer, an enterprise architect, and a manager of large-scale, global computing environments. His passions encompass envisioning, designing, building, and improving business and organizational systems of all varieties and at every scale. He is particularly passionate about helping systems professionals develop better ways to work together, improve the products they deliver, and most importantly, the culture of the workplaces in which we all labor."
+    image: "michaelclark.jpg"
+    employer: "Renaissance Tech & Media"
+
+  - name: "Don Luchini"
+    bio: "Don Luchini is a Boston-based DevOps engineer specializing in infrastructure management and deployment automation pipelines. Over the past ten years, he has acted in the corporate IT, quality assurance, software development, and release engineering spaces, encompassing a number of roles that now fall under the term DevOps. He currently works at SimpliSafe, a Boston-based manufacturer of connected home security systems. In his spare time, he is a martial artist, radio enthusiast, and hobby photographer."
+    github: "don-code"
+    image: "donluchini.jpg"
+
+  - name: "Michael D'Aniello"
+    twitter: "MikeDaniello"
+    linkedin: "http://www.linkedin.com/in/michaeldaniello"
+    bio: "Michael works as a Site Reliability Engineer for Carbon Black, a SaaS security company in the Boston area. He has a passion for all things surrounding cloud design and architecture, building tools with Go, automating infrastructure provisioning, and deployment automation pipelines. While not tinkering with tech he can be found pressing arcade stick buttons, or banging on drums."
+    github: "MichaelDaniello"
+    image: "michaelbio.jpg"
+
+  - name: "Paul Bruce"
+    bio: "Paul Bruce is a DevOps Advisor, helping to transform enterprise software teams and delivery practices. He currently serves in the role of Founder at Growgistics, is a working group member of IEEE P2675, daylights with the Neotys team as Dir. of Customer Engineer, moonlights as a Papa of two, and lives as a friend to all. He loves meat pies, picklebacks, and community work. His technical research wheelhouse includes cloud management, high availability service architecture, API design and experience, continuous testing at scale, and organizational learning frameworks. He writes, listens, and teaches about software delivery patterns in enterprises and key industries and F1000s around the world. You can learn more at: http://paulsbruce.io"
+    website: "http://paulsbruce.io"
+    image: "paulsbruce.jpg"
+
+  - name: "Derek Buckley"
+    bio: "Derek is a Linux System Administrator with a passion for reducing waste and toil. With a background as a Lean certified Quality Inspector in manufacturing, he found a way to bring the joy of the Kaizen method to his passion of Linux and technological systems. He now works for PerkinElmer in the BioPharmacuitcal space to help accelerate the Scientists' research through making computational resources easy to obtain and use. Outside of the computer world he can be found doing photography with the Boston Area Photography group, cooking, or listening to a veriety of music."
+    gitlab: "dbuckley"
+    image: "derekbuckley.jpg"
+
+  - name: "Aaron Aldrich"
+    bio: "Aaron Aldrich is creator and host of Tabletop DevOps streaming occaisionally on twitch.tv/desertedislandtv, and an organizer for DevOpsDays Hartford, NYC and Boston. Passionate about Resilience Engineering and Mental Health in the tech industry, they believe that every technology problem is ultimately, when you get right down to it, a people challenge. Find them at crayzeigh.com for thoughts on technology and people or on twitter @CrayZeigh for a potluck of technology, politics and general tomfoolery."
+    twitter: "crayzeigh"
+    github: "crayzeigh"
+    website: "https://speaking.crayzeigh.com/"
+    image: "aaronaldritch.jpg"
+
+  - name: "Kate Ruh"
+    bio: "Kate works as a Site Reliability Engineer for Stavvy, a fintech company in the Boston area looking to modernize home closings. She has a passion for all things infrastructure and application security, and using emojis to get things done. While not at work, she’s working on a farm, playing with her two dogs, or biking through the streets of Massachusetts."
+    image: "kateruh.jpg"
+
+  - name: "Jirawat Uttayaya"
+    bio: "Jirawat is the DevOps practice lead at Rocket Insights. He started his career as a Java/Perl developer and through happenstance now works in DevOps."
+    image: "jirawat.jpg"
+    linkedin: https://www.linkedin.com/in/jirawat
+    github: "juttayaya"
+
+organizer_email: "boston@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: teleport
+    level: platinum
+  - id: spectrocloud
+    level: platinum
+  - id: solo
+    level: platinum
+  - id: humio
+    level: platinum
+  - id: fairwinds
+    level: platinum
+  - id: couchbase
+    level: platinum
+  - id: dynatrace
+    level: platinum
+  - id: circleci
+    level: platinum
+  - id: octopus-deploy
+    level: platinum
+  - id: tonic
+    level: platinum
+  - id: vivanti
+    level: startupalley
+  - id: firehydrant
+    level: lanyard
+  - id: atomiccoffeeroasters
+    level: coffee
+  - id: portworx-before-20240216
+    level: platinum
+  - id: cortex-before-20220912
+    level: platinum
+  - id: observeinc
+    level: platinum
+  - id: edge-delta
+    level: platinum
+  - id: mattermost
+    level: platinum
+  - id: opscruise
+    level: startupalley
+  - id: kosli
+    level: platinum
+  - id: cloudbees
+    level: platinum
+  - id: snyk
+    level: platinum
+  - id: splunk
+    level: platinum
+  - id: sonatype
+    level: platinum
+  - id: zerto
+    level: platinum
+  - id: roostai
+    level: platinum
+  - id: 42crunch
+    level: platinum
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: platinum
+    label: Platinum
+  - id: lanyard
+    label: Lanyard
+    max: 1
+  - id: coffee
+    label: Coffee
+    max: 1
+  - id: startupalley
+    label: Startup Alley
+
+program:
+  # Day 1
+  - title: "Registration & Breakfast (Remember your ID and vaccine card!)"
+    type: custom
+    date: 2022-09-12
+    start_time: "07:30"
+    end_time: "09:00"
+  - title: "Introduction"
+    type: custom
+    date: 2022-09-12
+    start_time: "09:30"
+    end_time: "09:45"
+  - title: "malcolm-preston"
+    type: talk
+    date: 2022-09-12
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "steve-mcghee"
+    type: talk
+    date: 2022-09-12
+    start_time: "10:30"
+    end_time: "11:15"
+  - title: "Break"
+    type: custom
+    date: 2022-09-12
+    start_time: "11:15"
+    end_time: "11:25"
+  - title: "daniel-kim"
+    type: talk
+    date: 2022-09-12
+    start_time: "11:25"
+    end_time: "12:00"
+  - title: "kam-lasater"
+    type: talk
+    date: 2022-09-12
+    start_time: "12:00"
+    end_time: "12:35"
+  - title: Lunch
+    type: custom
+    date: 2022-09-12
+    start_time: "12:45"
+    end_time: "13:50"
+  - title: "andreas-grabner"
+    type: talk
+    date: 2022-09-12
+    start_time: "13:50"
+    end_time: "14:25"
+  - title: "Open Space Proposals"
+    type: custom
+    date: 2022-09-12
+    start_time: "14:25"
+    end_time: "14:55"
+  - title: "Break"
+    type: custom
+    date: 2022-09-12
+    start_time: "14:55"
+    end_time: "15:05"
+  - title: "Open Spaces 1-4"
+    type: custom
+    date: 2022-09-12
+    start_time: "15:05"
+    end_time: "15:35"
+  - title: "Break"
+    type: custom
+    date: 2022-09-12
+    start_time: "15:35"
+    end_time: "15:45"
+  - title: "Open Spaces 5-8"
+    type: custom
+    date: 2022-09-12
+    start_time: "15:45"
+    end_time: "16:15"
+  - title: "Break"
+    type: custom
+    date: 2022-09-12
+    start_time: "16:15"
+    end_time: "16:25"
+  - title: "Open Spaces 9-12"
+    type: custom
+    date: 2022-09-12
+    start_time: "16:25"
+    end_time: "16:55"
+  - title: "Wrap-up"
+    type: custom
+    date: 2022-09-12
+    start_time: "16:55"
+    end_time: "17:25"
+  - title: "Evening event: TBD"
+    type: custom
+    date: 2022-09-12
+    start_time: "17:30"
+    end_time: "19:30"
+
+  # Day 2
+  - title: "Registration & Breakfast (Remember your ID and vaccine card!)"
+    type: custom
+    date: 2022-09-13
+    start_time: "07:30"
+    end_time: "09:00"
+  - title: "Introduction"
+    type: custom
+    date: 2022-09-13
+    start_time: "09:30"
+    end_time: "09:45"
+  - title: "peter-chestna"
+    type: talk
+    date: 2022-09-13
+    start_time: "09:45"
+    end_time: "10:20"
+  - title: "gad-salner"
+    type: talk
+    date: 2022-09-13
+    start_time: "10:20"
+    end_time: "10:55"
+  - title: "Break"
+    type: custom
+    date: 2022-09-13
+    start_time: "10:55"
+    end_time: "11:10"
+  - title: "adarsh-shah"
+    type: talk
+    date: 2022-09-13
+    start_time: "11:10"
+    end_time: "11:45"
+  - title: "kavitha-govindarajulu"
+    type: talk
+    date: 2022-09-13
+    start_time: "11:45"
+    end_time: "12:20"
+  - title: "Lunch"
+    type: custom
+    date: 2022-09-13
+    start_time: "12:20"
+    end_time: "13:25"
+  - title: "thomas-stringer"
+    type: talk
+    date: 2022-09-13
+    start_time: "13:25"
+    end_time: "14:00"
+  - title: "Open Space Proposals"
+    type: custom
+    date: 2022-09-13
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: "Break"
+    type: custom
+    date: 2022-09-13
+    start_time: "14:30"
+    end_time: "14:45"
+  - title: "Open Spaces 13-16"
+    type: custom
+    date: 2022-09-13
+    start_time: "14:45"
+    end_time: "15:15"
+  - title: "Break"
+    type: custom
+    date: 2022-09-13
+    start_time: "15:15"
+    end_time: "15:30"
+  - title: "Open Spaces 17-20"
+    type: custom
+    date: 2022-09-13
+    start_time: "15:30"
+    end_time: "16:00"
+  - title: "Break"
+    type: custom
+    date: 2022-09-13
+    start_time: "16:00"
+    end_time: "16:15"
+  - title: "Open Spaces 21-24"
+    type: custom
+    date: 2022-09-13
+    start_time: "16:15"
+    end_time: "16:45"
+  - title: "Wrap-up"
+    type: custom
+    date: 2022-09-13
+    start_time: "16:45"
+    end_time: "17:15"

@@ -7,6 +7,15 @@ Description = "Propose a talk for devopsdays Berlin 2024"
 
 <hr>
 
+<strong>How to submit a proposal:</strong>
+<br>
+<br>
+We're using pretalx for the CfP handling, as it makes communication around your proposal easier for everyone. Just <strong><a href="https://cfp.devopsdays.berlin/2024/cfp">add your proposal here</a></strong>, the tool will lead you through the process. 
+
+See you at the conference (hopefully).
+
+<hr>
+
 There are three ways to propose a topic at devopsdays:
 <ol>
   <li><strong><em>A 30-minute talk</em></strong> presented during the conference, usually in the mornings.</li>
@@ -26,10 +35,3 @@ Choosing talks is part art, part science; here are some factors we consider when
 - _no vendor pitches_: As much as we value vendors and sponsors, we are not going to accept a talk that appears to be a pitch for your product.
 
 <hr>
-
-<strong>How to submit a proposal:</strong> Send an email to [{{< email_organizers >}}] with the following information
-<ol>
-	<li>Type (presentation, panel discussion, ignite)</li>
-	<li>Proposal Title (can be changed later)</li>
-	<li>Description (several sentences explaining what attendees will learn)</li>
-</ol>
