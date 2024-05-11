@@ -712,7 +712,7 @@ Running Ignites can be a challenge: people tend to submit them last minute, or t
 
 [Ignite format page](/ignite-talks-format/)
 
-If you are looking for a way to fill in for more ignites (pad the schedule) or have some fun with volunteers "Ignite Karaoke" is a great way to engage with your audience. The idea is just one minute per volunteer, 4 slides 15 seconds each, with a title and some "funny" pictures. It works extremely well for some laughs and engagement, and people can enjoy it greatly. JJ Asghar has created a tool to help create these slides if you want to experiment with this new way expose more people to the ignite format in a fun manner. [GitHub repo](https://github.com/jjasghar/ignite_karaoke)
+If you're looking for a way to fill in for more ignites (i.e. pad the schedule), or just to have some fun, "Ignite Karaoke" is a great way to engage with your audience. The idea is straightforward: one minute per participant, four slides of 15 seconds each, where each slide has a title and a "funny" picture. It's great for some laughs and engagement—people really enjoy it! JJ Asghar maintains a tool to help create these slides if you want to experiment with this fun ignite format: [GitHub repo](https://github.com/jjasghar/ignite_karaoke)
 
 ---
 
