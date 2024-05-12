@@ -2,7 +2,7 @@
 Title = "Paige Cruz"
 mastodon = "https://hachyderm.io/@paigerduty"
 linkedin = "https://www.linkedin.com/in/paigerduty/"
-website = "https://www.paigerduty.com/"
+website = "https://chronosphere.io/blog-hub/ "
 image = "paige-cruz.png"
 type = "speaker"
 linktitle = "paige-cruz"
