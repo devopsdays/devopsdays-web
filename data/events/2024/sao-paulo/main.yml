@@ -319,7 +319,7 @@ program:
     start_time: "09:30"
     end_time: "09:50"
     background_color: "#0082AB"
-  - title: "kief-morris" # Need add
+  - title: "kief-morris"
     type: talk
     date: 2024-05-18T08:00:00-03:00
     start_time: "09:50"
@@ -345,7 +345,7 @@ program:
     date: 2024-05-18T08:00:00-03:00
     start_time: "11:50"
     end_time: "12:20"
-  - title: "mariana-portela" # Need add
+  - title: "mariana-portela"
     type: talk
     date: 2024-05-18T08:00:00-03:00
     start_time: "12:20"
@@ -371,7 +371,7 @@ program:
     date: 2024-05-18T08:00:00-03:00
     start_time: "15:10"
     end_time: "15:40"
-  - title: "melina-deraldo" # Need add
+  - title: "melina-deraldo"
     type: talk
     date: 2024-05-18T08:00:00-03:00
     start_time: "15:40"
