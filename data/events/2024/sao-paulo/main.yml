@@ -350,7 +350,8 @@ program:
     date: 2024-05-18T08:00:00-03:00
     start_time: "12:20"
     end_time: "12:50"
-  - title: "Lunch"
+    background_color: "#FF8300"
+  - title: "Almoço"
     type: custom
     date: 2024-05-18T08:00:00-03:00
     start_time: "12:50"
@@ -375,6 +376,7 @@ program:
     date: 2024-05-18T08:00:00-03:00
     start_time: "15:40"
     end_time: "16:10"
+    background_color: "#FF8300"
   - title: "Coffee Break"
     type: custom
     date: 2024-05-18T08:00:00-03:00
@@ -400,6 +402,7 @@ program:
     date: 2024-05-18T08:00:00-03:00
     start_time: "18:40"
     end_time: "19:10"
+    background_color: "#FF8300"
   - title: "Encerramento"
     type: custom
     date: 2024-05-18T08:00:00-03:00
