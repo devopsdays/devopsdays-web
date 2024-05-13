@@ -117,6 +117,8 @@ organizer_email: "amsterdam@devopsdays.org" # Put your organizer email address h
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
   # Platinum
+  - id: splunk
+    level: platinum
   # Beer
   - id: chef
     level: beer
@@ -136,6 +138,8 @@ sponsors:
   - id: exoscale
     level: gold
   - id: stackstate
+    level: gold
+  - id: okta
     level: gold
   - id: googlecloud
     level: gold

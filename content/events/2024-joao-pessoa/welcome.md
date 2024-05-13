@@ -1,30 +1,24 @@
 +++
-Title = "Welcome to DevOpsDays Cairo 2024"
+Title = "devopsdays João Pessoa 2024"
 Type = "welcome"
-aliases = ["/events/2024-cairo/"]
-Description = "DevOpsDays Cairo 2024"
+aliases = ["/events/2024-joao-pessoa/"]
+Description = "devopsdays João Pessoa 2024"
 +++
-<p style="text-align: left">DevOpsDays Cairo is a one-day event.<br />
-  For the 7<sup>th</sup> consecutive year, SECC/ITIDA is organizing DevOpsDays Cairo 2024 in cooperation with ATOS, DXC Technology and Orange Labs.</p>
-<p><strong>Date &amp; Time:</strong><strong>&nbsp; </strong>Wednesday, Sep 25, 2024</p>
-<p><strong>Call for Proposals is Now Open!</strong></p>
-<p>Follow us, adjust your calendar notifications and stay tuned!</p>
 
-
-<div style="text-align:center;">
+<!-- <div style="text-align:center;">
   {{< event_logo >}}
-</div>
+</div> -->
 
 <div class = "row">
   <div class = "col-md-2">
     <strong>Dates</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_start >}}
+    {{< event_start >}} - {{< event_end >}}
   </div>
 </div>
 
-<!-- div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
@@ -33,23 +27,23 @@ Description = "DevOpsDays Cairo 2024"
   </div>
 </div> -->
 
-<!-- div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="registration" text="Register to attend the conference!" >}}
   </div>
-</div -->
+</div> -->
 
-<!-- div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
-</div -->
+</div> -->
 
 <!-- <div class = "row">
   <div class = "col-md-2">
