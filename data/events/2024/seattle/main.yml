@@ -88,11 +88,15 @@ sponsors:
   - id: pagerduty
     level: lanyard
 # Silver
-  - id: oracle
+  - id: oracle-new-no-solid-background
     level: silver
   - id: codezero
     level: silver
   - id: commitgo
+    level: silver
+  - id: stacklok
+    level: silver
+  - id: octopus-deploy-2024
     level: silver
 # Community
   - id: arresteddevops
@@ -109,9 +113,6 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: platinum
-    label: Platinum
-    max: 2
   - id: gold
     label: Gold
     max: 13
@@ -299,40 +300,32 @@ program:
     date: 2024-05-15T00:00:00-07:00
     start_time: "14:00"
     end_time: "14:30"
-  - title: "chris-short"
-    type: talk
-    date: 2024-05-15T00:00:00-07:00
-    start_time: "14:30"
-    end_time: "15:00"
   - title: "Break"
     type: custom
     date: 2024-05-15T00:00:00-07:00
-    start_time: "15:00"
-    end_time: "15:15"
+    start_time: "14:30"
+    end_time: "14:45"
   - title: "Open Space #2"
     type: open-space
     date: 2024-05-15T00:00:00-07:00
+    start_time: "14:45"
+    end_time: "15:15"
+  - title: "Sponsor Prizes"
+    type: custom
+    date: 2024-05-15T00:00:00-07:00
     start_time: "15:15"
-    end_time: "15:45"
+    end_time: "15:30"
   - title: "Closing"
     type: custom
     date: 2024-05-15T00:00:00-07:00
-    start_time: "15:45"
+    start_time: "15:30"
     end_time: "16:00"
-  - title: "Evening event"
-    type: custom
-    date: 2024-05-15T00:00:00-07:00
-    start_time: "16:00"
-    end_time: "19:00"
 
 ignites:
   - title: aaron-williams
     date: 2024-05-14
     block: ignite-1
   - title: benjie-de-groot
-    date: 2024-05-14
-    block: ignite-1
-  - title: constantin-kwiatkowski
     date: 2024-05-14
     block: ignite-1
   - title: daniel-maher
