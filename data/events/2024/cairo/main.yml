@@ -88,18 +88,18 @@ sponsors:
    level: community
  - id: creativa
    level: community
- - id: guc
-   level: community
- - id: auc
-   level: community
- - id: eui
-   level: community
- - id: kaferelshiekh-uni
-   level: community
- - id: nileuni
-   level: community
- - id: akhbarelyoum-academy
-   level: community
+ #- id: guc
+ #  level: community
+ #- id: auc
+ #  level: community
+ #- id: eui
+ #  level: community
+ #- id: kaferelshiekh-uni
+ #  level: community
+ #- id: nileuni
+ #  level: community
+ #- id: akhbarelyoum-academy
+ #  level: community
    
  #- id: egyptinnovate
  #  level: community
