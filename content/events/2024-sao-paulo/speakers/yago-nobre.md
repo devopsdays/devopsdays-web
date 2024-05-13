@@ -2,7 +2,7 @@
 Title = "Yago Nobre"
 Twitter = ""
 linkedin = "https://www.linkedin.com/in/yagonobre/"
-image = ""
+image = "yago-nobre.jpg"
 type = "speaker"
 linktitle = "yago-nobre"
 

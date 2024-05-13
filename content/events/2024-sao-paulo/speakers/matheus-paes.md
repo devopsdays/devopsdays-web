@@ -2,7 +2,7 @@
 Title = "Matheus Paes"
 Twitter = ""
 linkedin = "https://www.linkedin.com/in/matheuspaesp/"
-image = ""
+image = "matheus-paes.jpg"
 type = "speaker"
 linktitle = "matheus-paes"
 

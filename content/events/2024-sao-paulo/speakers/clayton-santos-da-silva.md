@@ -2,7 +2,7 @@
 Title = "Clayton Santos da Silva"
 Twitter = ""
 linkedin = "https://www.linkedin.com/in/claytonssilva/"
-image = ""
+image = "clayton-santos-da-silva.jpg"
 type = "speaker"
 linktitle = "clayton-santos-da-silva"
 

@@ -2,7 +2,7 @@
 Title = "Natalia Granato de Assis"
 Twitter = ""
 linkedin = "https://www.linkedin.com/in/nataliagranato"
-image = ""
+image = "natalia-granato-de-assis.jpg"
 type = "speaker"
 linktitle = "natalia-granato-de-assis"
 

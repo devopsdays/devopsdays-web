@@ -2,7 +2,7 @@
 Title = "Stephanie Chaia Bartels"
 Twitter = ""
 linkedin = "https://www.linkedin.com/in/stephanie-chaia-bartels/"
-image = ""
+image = "stephanie-chaia-bartels.jpg"
 type = "speaker"
 linktitle = "stephanie-chaia-bartels"
 

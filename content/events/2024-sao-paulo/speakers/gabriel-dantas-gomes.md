@@ -2,7 +2,7 @@
 Title = "Gabriel Dantas Gomes"
 Twitter = ""
 linkedin = "https://www.linkedin.com/in/gabrieldantasg/"
-image = ""
+image = "gabriel-dantas-gomes.jpg"
 type = "speaker"
 linktitle = "gabriel-dantas-gomes"
 
