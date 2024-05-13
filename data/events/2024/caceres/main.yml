@@ -104,7 +104,15 @@ organizer_email: "caceres@devopsdays.org" # Put your organizer email address her
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: speedyrails
+    level: bronze
+  - id: metrika-media
+    level: bronze
+  - id: speedyrails
+    level: water-friut
   - id: edd
+    level: collaborators
+  - id: diputacioncc
     level: collaborators
   - id: codemotion
     level: media-partner
@@ -139,6 +147,8 @@ sponsor_levels:
     max: 15
   - id: bronze
     label: Bronze
+  - id: water-friut
+    label: "Water and fruit"
   - id: collaborators
     label: Collaborators
   - id: media-partner
