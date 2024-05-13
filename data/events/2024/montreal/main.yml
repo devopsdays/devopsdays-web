@@ -147,6 +147,8 @@ sponsors:
     level: silver
   - id: elastic
     level: silver
+  - id: aptum
+    level: silver
   - id: creasavia
     level: bronze
   - id: artiq
