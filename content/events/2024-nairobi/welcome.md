@@ -42,14 +42,14 @@ So, without further ado, let's embark on this transformative journey together at
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="registration" text="Register to attend the conference!" >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -103,8 +103,10 @@ So, without further ado, let's embark on this transformative journey together at
   </div>
   <div class = "col-md-8">
     {{< event_link page="contact" text="Get in touch with the organizers" >}}
+    
   </div>
 </div>
+
 <!-- Uncomment if you added your city twitter name -->
 <!--
 {{< event_twitter >}}
