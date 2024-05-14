@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Mocks as Code. Modeling Services in Integration Tests and Infrasture-as-Code - All-in-Java Edition"
+Title = "Mocks as Code. Modeling Services in Integration Tests and Infrastructure-as-Code - All-in-Java Edition"
 Type = "talk"
 Speakers = ["oleg-nenashev"]
 +++
