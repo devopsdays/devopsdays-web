@@ -71,10 +71,6 @@ team_members: # Name is the only required field for team members.
     image: 'amy-lindberg.jpg'
     linkedin: "https://www.linkedin.com/in/amyvanwesten-lindberg"
     twitter: "LindbergAmy"
-  - name: "Crystal Newcomb"
-    image: 'crystal-newcomb.png'
-    github: "CrystalNewcomb"
-    linkedin: "https://www.linkedin.com/in/crystalnewcomb/"
   - name: "Bo Schatzberg"
     image: 'bo-schatzberg.jpg'
     github: "BoSchatzberg"
