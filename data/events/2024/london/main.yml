@@ -111,6 +111,8 @@ sponsors:
   - id: elastic
     level: gold
   # silver sponsors
+  - id: macstadium
+    level: silver
   # bronze sponsors
   - id: commify
     level: bronze
