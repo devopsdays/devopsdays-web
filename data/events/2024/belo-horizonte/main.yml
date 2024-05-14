@@ -10,15 +10,15 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2024-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: 2024-09-21T00:00:00-03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2024-09-21T23:59:59-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2024-09-14T00:00:00-03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2024-09-14T23:59:59-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
   
-# Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_open: "true"
+cfp_date_start: 2024-05-13T00:00:00-03:00 # start accepting talk proposals.
+cfp_date_end: 2024-07-30T23:59:59-03:00 # close your call for proposals.
+cfp_date_announce: 2024-05-13T21:00:00-03:00 
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://www.papercall.io/devopsdaysbhz" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
@@ -40,7 +40,10 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: registration
  # - name: program
  # - name: speakers
+  - name: ENVIE SUA PALESTRA (CFP)
+    url: https://www.papercall.io/devopsdaysbhz
   - name: patrocínio
+    url: /events/2024-belo-horizonte/sponsor
   - name: organizadores
   - name: código de conduta
     url: /events/2024-belo-horizonte/conduta 
@@ -58,13 +61,13 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/palomalataliza/"
     github: "shescloud"
     twitter: "shescloud_"
-    bio:  "Entusiasta de containers, fã de Cavaleiros do Zodíaco e apaixonada por compartilhar conhecimento. Com formação em Ciência da Computação pela Universidade FUMEC, atualmente estou aprimorando meus conhecimentos como pós-graduanda em Cloud Computing pela PUC Minas. Sou também uma AWS Community Builder, líder do AWS User Group MG, Docker Captain, Embaixadora do Women Techmakers  e  co-fundadora do projeto Mulheres na Nuvem MG, dedicado a incentivar a presença feminina no setor de tecnologia e nuvem.<br><br>"
+    bio:  "Entusiasta de containers, fã de Cavaleiros do Zodíaco e apaixonada por compartilhar conhecimento. Com formação em Ciência da Computação pela Universidade FUMEC, atualmente estou aprimorando meus conhecimentos como pós-graduanda em Cloud Computing pela PUC Minas. Sou também uma AWS Community Builder, líder do AWS User Group MG, Docker Captain, Embaixadora do Women Techmakers, Organizadora do primeiro AWSomeWomenCommunity Summit Brasil e  co-fundadora do projeto Mulheres na Nuvem MG, dedicado a incentivar a presença feminina no setor de tecnologia e nuvem.<br><br>"
     image: "paloma.jpeg"
 
   - name: "Rafaela Vidotti"
     employer: "DevOps Coordinator at Nuria"
     linkedin: "https://www.linkedin.com/in/rafaelavidotti/"
-    bio:  "Segunda mulher a formar em Redes de Computadores na Universidade Fumec, Atuei 7 anos como analista de Infraestrutura de TI em demandas nacionais e internacionais. Certificada AWS, em transição para Cloud atuei como Gerente de Projetos em uma Startup, e atualmente sou Coordenadora Devops em uma Health Tech. Líder da AWSUGMG, Founder Mulheres na Nuvem MG, Organizadora do primeiro AWSomeWomenCommunity Summit Brasil. TikToker de Dancinhas e Infraestutura de TI que ama fugir de um padrão, luta diariamente por mais mulheres no ambiente, e para desmistificar “essa tal de TI “ para todos."
+    bio:  "Segunda mulher a formar em Redes de Computadores na Universidade Fumec, Atuei 7 anos como analista de Infraestrutura de TI em demandas nacionais e internacionais. Certificada AWS, em transição para Cloud atuei como Gerente de Projetos em uma Startup, e atualmente sou Coordenadora Devops em uma Health Tech. Líder da AWSUGMG, co-fundadora Mulheres na Nuvem MG, Organizadora do primeiro AWSomeWomenCommunity Summit Brasil. TikToker de Dancinhas e Infraestutura de TI que ama fugir de um padrão, luta diariamente por mais mulheres no ambiente, e para desmistificar “essa tal de TI “ para todos."
     image: "rafaela.jpeg"
 
   - name: "Victor Parreira"
@@ -160,14 +163,14 @@ team_members: # Name is the only required field for team members.
 
  
 
-organizer_email: "belo-horizonte@devopsdays.org" # Put your organizer email address here
+organizer_email: "devopsdaysbhz@gmail.com" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: samplesponsorname
+  - id: aws
     level: gold
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+
   - id: awsugmg
     level: community
 
@@ -181,12 +184,15 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: diamond
+    label: Diamond
+    max: 2 # This is the same as omitting the max limit
+  - id: platinum
+    label: Platinum
   - id: gold
     label: Gold
-#    max: 10
   - id: silver
-    label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    label: Silver.
   - id: bronze
     label: Bronze
   - id: community

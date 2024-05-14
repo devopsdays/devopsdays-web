@@ -85,7 +85,7 @@ a.jssocials-share-link, a.event-cta-button {
 
 <br><br>
 <p></p>
-<p><a href="" onclick="alert('EM BREVE!'); return false"><button>SUBMENTA SUA TALK</button></a></p>
+<p><a href="https://www.papercall.io/devopsdaysbhz" target="_blank"><button type="button">ENVIE SUA PALESTRA</button></a></p>
 <p><a href="" onclick="alert('EM BREVE!'); return false"><button>INSCREVA-SE</button></a></p>
 <p><a href="../sponsor/"><button>SEJA UM SPONSOR</button></a></p>
 <p><a href="/events/2024-belo-horizonte/organizadores"><button>CONTATO</button></a></p>
@@ -120,4 +120,5 @@ Você terá a chance de aprender com especialistas da área, compartilhar suas p
 <br>
 </div>
 </div>
+  
   
