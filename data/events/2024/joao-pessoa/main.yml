@@ -15,35 +15,35 @@ startdate: "2024-11-09T08:00:00-03:00" # The start date of your event. Leave bla
 enddate: "2024-11-09T17:00:00-03:00" # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2024-05-15T10:00:00-03:00 # start accepting talk proposals.
+cfp_date_end: 2024-08-02T07:00:00-03:00 # close your call for proposals.
 
-cfp_link: "#" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+#cfp_date_announce: 2024-08-27T08:00:00-03:00 # inform proposers of status
+cfp_open: "true"
+cfp_link: "https://talks.devopsdays.org/devopsdays-jo-o-pessoa-2024/cfp" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+#registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+#registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
-registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+#registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+#registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
 # coordinates: "" # No longer used
 
 location: "João Pessoa" # Defaults to city, but you can make it the venue name.
-#
-location_address: "BR-230, Km 14 - s/n - Morada Nova, Cabedelo - PB, 58109-303" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
+location_address: "Centro Universitário - UNIESP - BR-230, Km 14 - s/n - Morada Nova, Cabedelo - PB, 58109-303" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
- # - name: location
+  - name: propose
+  - name: location
  # - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
   - name: contact
-  - name: conduct
+  - name: conduct-pt-br
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -51,15 +51,37 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
+
+  - name: "Adrieny Dantas"
+    pronouns: "Ela/Dela"
+    employer: "NEON"
+    bio: "Quase 5 anos no mundo de TI e 3 como DevOps, gosto de resolver bugs e amo gatos!"
+    github: “adrienyds”
+    facebook: ""
+    twitter: ""
+    linkedin: "https://www.linkedin.com/in/adrienyds/"
+    website: ""
+    mastodon: ""
+    image: "adrienydantas.jpeg"
+
   - name: "Cauan Cabral"
     employer: ""
     twitter: "cauancabral"
     bio: ""
+    image: "cauan.jpeg"
 
   - name: "Marcelo Freire"
-    employer: ""
+    pronouns: "Ele/Dele"
+    role: ""
+    employer: "Storyblok"
+    bio: "DevOps na Storyblok, ama containers , infraestrutura como código. Corredor Amador, Maratonista, Otaku e Vegano."
+    github: ""
+    facebook: ""
     twitter: "marcelofreire28"
-    bio: ""
+    linkedin: "https://www.linkedin.com/in/marcelofreire88/"
+    website: ""
+    mastodon: ""
+    image: "marcelo-freire.jpg"
 
   - name: "Gian Cavalcante"
     pronouns: "Ele/Dele"
@@ -72,17 +94,54 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/gian-cavalcante/"
     website: ""
     mastodon: "https://bolha.us/@gianlcl"
-    image: ""
+    image: "gian.jpeg"
 
   - name: "Jerson Brito"
     employer: ""
     twitter: ""
     bio: ""
+    image: "jerson-brito.jpeg"
+
 
   - name: "Carlos Bezerra"
-    employer: ""
+    pronouns: "Ele/Dele"
+    role: ""
+    employer: "Conta Simples"
+    bio: "Profissional de TI com mais de 15 anos de experiência, especializado em projetos de Infraestrutura de TI, arquitetura de sistemas, implantação em nuvem, micro serviços, automatização utilizando Phyton, Bash e Powershell, além de experiencia com gerenciamento de times de DevOps/Plataforma e infraestrutura, palestrante, mentor e organizador do DevOpsDays João Pessoa."
+    github: "cdiegoo"
+    facebook: ""
     twitter: "CarlosDiegoB"
-    bio: ""
+    linkedin: "https://www.linkedin.com/in/carlosdbezerra/"
+    website: ""
+    mastodon: ""
+    image: "carlos-bezerra.jpeg"
+
+  - name: "Cinthia Lindolfo"
+    pronomes: "Ela/Dela"
+    função: ""
+    empregador(a): "Estagiária na BRGWeb"
+    bio: "Graduanda em Sistema de Informações pela UFPB campus IV, estou no 7° período, já atuei com Analista de dados no projeto de Extensão - ENEX - Tecnologia Cidadã RT, onde recebi o prêmio pelo projeto, atualmente estou como voluntária no projeto de PIBITI E-bookv - Livro literário pra crianças autodiversas, e também estou estagiando na empresa BRGWeb a 4 meses como Product Owner na área de Gestão de projetos de desenvolvimento. Sou apaixonada em aprender, gosto das áreas de gestão, gerente de projetos, enganharia de software, analise de dados, desenvolviemento de frontend. Gosto de viajar, visitar minha família, maratonar series com minha esposa, amo gatos(as)."
+    github: "https://github.com/cinthialindolfo"
+    facebook: "https://www.facebook.com/Cinthialindolfo/"
+    twitter: "https://twitter.com/CinthiaLindolfo"
+    linkedin: "https://www.linkedin.com/in/cinthia-lindolfo/"
+    website: "X"
+    mastodon: "X"
+    image: "cinthialindolfo.jpeg"
+
+  - name: "Diego Cananea"
+    pronouns: "Ele/Dele"
+    role: ""
+    employer: "TJPB"
+    bio: "Mais de 15 anos trabalhando na área de infraestrutura de TI, apaixonado por software livre e atualmente lider técnico de um time de DevOps. Curto muito surfar e ir a shows de punk rock!"
+    github: "https://github.com/dcna-dev"
+    facebook: ""
+    twitter: "diegocananea  "
+    linkedin: "https://www.linkedin.com/in/dcna/"
+    website: ""
+    mastodon: ""
+    image: "diegocananea.jpeg"
+
 
 organizer_email: "joao-pessoa@devopsdays.org" # Put your organizer email address here
 
