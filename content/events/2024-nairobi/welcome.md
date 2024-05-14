@@ -102,7 +102,7 @@ So, without further ado, let's embark on this transformative journey together at
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="contact" text="Strathmore University | Karen Ole Sangale, Off Langata Road Madaraka Estate" >}} 
+    {{< event_location >}}
   </div>
 </div>
 
