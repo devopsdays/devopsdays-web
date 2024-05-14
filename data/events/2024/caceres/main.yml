@@ -114,6 +114,10 @@ sponsors:
     level: collaborators
   - id: diputacioncc
     level: collaborators
+  - id: kubecareers
+    level: collaborators
+  - id: kubeevents
+    level: collaborators
   - id: codemotion
     level: media-partner
     url: https://codemo.tech/partners
