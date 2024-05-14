@@ -47,7 +47,7 @@ So, without further ado, let's embark on this transformative journey together at
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
+    <a href="https://lu.ma/0442qp0i"> Register to attend the conference!</a>
   </div>
 </div>
 
@@ -102,8 +102,7 @@ So, without further ado, let's embark on this transformative journey together at
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="contact" text="Get in touch with the organizers" >}}
-    
+    {{< event_location >}}
   </div>
 </div>
 
