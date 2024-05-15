@@ -112,6 +112,10 @@ sponsors:
     level: recruiting
   - id: twosigma
     level: recruiting
+  - id: checkmarx
+    level: gold
+  - id: cockroachlabs
+    level: recruiting
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
