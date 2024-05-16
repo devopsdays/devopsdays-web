@@ -30,13 +30,13 @@ registration_link: "https://www.eventbrite.com/e/agile-devopsdays-des-moines-202
 #
 # coordinates: "" # No longer used
 
-location: "Iowa Events Center" # Defaults to city, but you can make it the venue name.
+location: "Community Choice Credit Union Convention Center" # Defaults to city, but you can make it the venue name.
 #
-location_address: "730 3rd St, Des Moines, IA 50309" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "833 5th Ave, Des Moines, IA 50309" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
- # - name: location
+  - name: location
   - name: registration
  # - name: program
  # - name: speakers
