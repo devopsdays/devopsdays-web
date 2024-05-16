@@ -111,23 +111,23 @@ This confirms you are on the main branch locally, and then applies the changes f
 
 ### Guidelines
 
-1. Code changes for [devopsdays-theme](https://github.com/devopsdays/devopsdays-web/blob/main/themes/devopsdays-theme/) should be made in a different PR from event content updates. 
+1. Code changes for [devopsdays-theme](https://github.com/devopsdays/devopsdays-web/blob/main/themes/devopsdays-theme/) should be made in a different PR from event content updates.
 1. We use [github issues](https://github.com/devopsdays/devopsdays-web/issues) to track work, so feel free to create new issues if you like (or read/comment/work on existing ones).
 1. If you are proposing a change that affects the overall site, and is not tied to an existing issue, please open a [new issue](https://github.com/devopsdays/devopsdays-web/issues) so that it can be discussed by the team, prior to submitting a pull request.
 1. If you're using CRLF line terminators (like on Windows), the site won't build correctly if the first `+++` line of frontmatter in speaker and program files ends in a space like `+++ `. The [workaround](https://github.com/devopsdays/devopsdays-theme/issues/652) is to remove the trailing space.
 
-### How Changes are Merged
+#### How Changes are Merged
 - A maintainer will merge the PR if it is mergable, as soon as the checks pass.
 - If you do not want your PR merged immediately, in most cases you should not open the PR.
 - Our [workflow guide](https://github.com/devopsdays/devopsdays-web/blob/main/utilities/docs/workflow/README.md) provides solutions to most `WIP` use cases without opening a PR.
 - Questions about specific cases not covered in the guide can be asked in the #website channel on devopsdays Slack.
 
-### Acceptable changes
+#### Acceptable changes
 
 - In general, only make changes to event content files. "Event content" means anything inside the `/content/...`, `/data/...`, or `/static/...` directories.
 - Changes to event-specific content should be submitted in a separate PR from changes to more general content for the whole site.
 
-### Minimal large files
+#### Minimal large files
 
 Generally speaking, you should avoid storing any files other than logos or small images inside the repo itself (out of consideration for your fellow devopsdays organizers who have to pull down this repo). Please follow these guidelines:
 
@@ -151,7 +151,7 @@ If you have permissions to merge PRs on this repo, here are a few guidelines to 
 
 The following tests run when a PR is submitted:
 
-1. [GitHub Actions](https://github.com/devopsdays/devopsdays-web/actions) - a set of tests that confirm that all files are lowercase (in order to be friendly among all platforms people may use), that the site can be built with Hugo on Linux (ubuntu-latest) and Windows (windows-latest). There is also a test in which gulp will run html-min in order to identity if there is any invalid HTML. All three jobs (lint, build on Linux, and build on Windows) are required in order to deploy with Netlify -- regardless if the Netlify test passed or not.  
+1. [GitHub Actions](https://github.com/devopsdays/devopsdays-web/actions) - a set of tests that confirm that all files are lowercase (in order to be friendly among all platforms people may use), that the site can be built with Hugo on Linux (ubuntu-latest) and Windows (windows-latest). There is also a test in which gulp will run html-min in order to identity if there is any invalid HTML. All three jobs (lint, build on Linux, and build on Windows) are required in order to deploy with Netlify -- regardless if the Netlify test passed or not.
 1. [Netlify](https://app.netlify.com/sites/devopsdays-web) - this test builds the site, and hosts an ephemeral preview version of it (viewable by clicking on the "details" link next to the test once it has turned green). It's a good idea to view this "deploy preview" if the PR has changed anything significant (adding a sponsor, etc, probably not...but changing content in a large way? Yes.)
 
 ## Local Previews

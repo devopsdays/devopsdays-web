@@ -1,0 +1,130 @@
+name: "2024-des-moines" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2024" # The year of the event. Make sure it is in quotes.
+city: "Des Moines" # The displayed city name of the event. Capitalize it.
+# event_twitter: "DevOpsDaysDSM" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays is coming to Des Moines!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2024-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2024-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2024-10-10T00:00:00-06:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2024-10-11T00:00:00-06:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start:  2024-03-01T00:00:00-00:00
+cfp_date_end:  2024-04-30T00:00:00-00:00
+cfp_date_announce:  2024-06-01T00:00:00-00:00
+
+cfp_link: "https://sessionize.com/devops-days-agile-des-moines-2024/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: 2024-05-01T00:00:00-06:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2024-10-10T00:00:00-06:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://www.eventbrite.com/e/agile-devopsdays-des-moines-2024-tickets-717916055247" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+# coordinates: "" # No longer used
+
+location: "Iowa Events Center" # Defaults to city, but you can make it the venue name.
+#
+location_address: "730 3rd St, Des Moines, IA 50309" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: propose
+ # - name: location
+  - name: registration
+ # - name: program
+ # - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Josh Angolano"
+    image: 'josh-angolano.jpg'
+    linkedin: "https://www.linkedin.com/in/joshuaangolano/"
+  - name: "Paul Beers"
+    image: 'paul-beers.jpg'
+    linkedin: "https://www.linkedin.com/in/paul-beers-0058bb78/"
+    twitter: "paulrbeers"
+  - name: "Tim Gifford"
+    image: "tim-gifford.jpg"
+    github: "timgifford"
+    linkedin: "https://www.linkedin.com/in/timgifford"
+    twitter: "timgifford"
+  - name: "Jodi Jones"
+    image: "jodi-jones.jpg"
+    github: "jodimj"
+    linkedin: "https://linkedin.com/in/jodi-jones-4a50ab17"
+    twitter: "jodimj"
+  - name: "Amy Lindberg"
+    image: 'amy-lindberg.jpg'
+    linkedin: "https://www.linkedin.com/in/amyvanwesten-lindberg"
+    twitter: "LindbergAmy"
+  - name: "Crystal Newcomb"
+    image: 'crystal-newcomb.png'
+    github: "CrystalNewcomb"
+    linkedin: "https://www.linkedin.com/in/crystalnewcomb/"
+  - name: "Bo Schatzberg"
+    image: 'bo-schatzberg.jpg'
+    github: "BoSchatzberg"
+    linkedin: "https://www.linkedin.com/in/BoSchatzberg/"
+    twitter: "BoSchatzberg"
+  - name: "John Sonneville"
+    image: 'john-sonneville.jpg' 
+    github: "SonnevilleJ"
+    linkedin: "https://www.linkedin.com/in/sonnevillej/"
+    twitter: "agile_johnville"
+  - name: "JoAnna Springsteen"
+    image: 'joanna-springsteen.jpg'
+    linkedin: "https://www.linkedin.com/in/joannaspringsteen/"
+
+organizer_email: "des-moines@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: delta3
+    level: silver
+  - id: jetbrains
+    level: community
+  - id: john-deere
+    level: gold
+  - id: leantechniques
+    level: gold
+  - id: principal
+    level: gold
+  - id: sidegarage
+    level: community
+  - id: sourceallies
+    level: gold
+  - id: turnberry
+    level: gold
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: platinum
+    label: Platinum
+    max: 1
+  - id: gold
+    label: Gold
+    max: 11
+  - id: silver
+    label: Silver
+  - id: community
+    label: Community

@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-{{- $e := (index $.Site.Data.events (index (split (.Permalink | relURL) "/") 2)) -}}
+{{- $e := partial "functions/get-event-data" . -}}
 
 <div class = "row">
     <div class = "col-md-5 offset-md-1">
@@ -149,12 +149,12 @@
     {{- with $p -}}
        {{- if isset .Params "image" -}}
           {{- if ne .Params.image "" -}}
-            <img src = "{{ (printf "/events/%s/speakers/%s" $e.name .Params.image)  }}" class="img-fluid"  alt="{{ $.Scratch.Get "speakername" }}"/><br /><br />
+            <img src = '{{ (printf "/events/%s/speakers/%s" $e.name .Params.image)  }}' class='img-fluid' alt='{{ $.Scratch.Get "speakername" }}'><br /><br />
           {{- end -}}
           {{- else -}}
-            <img src = "{{"/img/speaker-default.jpg"  }}" class="img-fluid"  alt="{{ $.Scratch.Get "speakername" }}"/><br /><br />
+            <img src = "/img/speaker-default.jpg" class='img-fluid'  alt='{{ $.Scratch.Get "speakername" }}'><br /><br />
         {{- end -}}
-          <h4 class="talk-page"><a href = "{{ (printf "/events/%s/speakers/%s" $e.name ($.Scratch.Get "speakername")) }}">
+          <h4 class="talk-page"><a href = '{{ (printf "/events/%s/speakers/%s" $e.name ($.Scratch.Get "speakername")) }}'}>
             {{ .Title }}
           </a></h4>
         {{- if isset .Params "twitter" -}}
@@ -211,7 +211,7 @@
   {{- if in ($.LinkTitle | urlize) $fname -}}
 <div class="row">
    <div class="col-md-12">
-       <img alt = "{{ $s.name }}" src = "{{ (printf "/events/%s/speakers/%s.jpg" $e.name $fname) }}" class="img-responsive" width = "250px">
+       <img alt = "{{ $s.name }}" src = '{{ (printf "/events/%s/speakers/%s.jpg" $e.name $fname) }}' class="img-responsive" width = "250px">
    </div>
 </div>
 <div class = "row">

@@ -5,6 +5,15 @@ aliases = ["/events/2024-salt-lake-city/"]
 Description = "DevOpsDays SLC 2024"
 +++
 
+<br><br><br>
+<div class = "col-md-12 push-md-12">
+  <h1 style="text-align: center;"><a href="https://slcdevopsdays.org/wp-content/uploads/2024/01/SLC_DevOps_Days_2024_Sponsor_Prospectus.pdf" style="font-size: 42px;">Sponsor the conference!</a></h1>
+  <div style="text-align: center;">We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].</div>
+  <div style="text-align: center"><a href="https://slcdevopsdays.org/wp-content/uploads/2024/01/SLC_DevOps_Days_2024_Sponsor_Prospectus.pdf" style="font-size: 20px;">➡️ Download Our Sponsor Prospectus PDF ⬅️</a></div>
+</div>
+<hr>
+<br><br><br>
+
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
 </div> -->
@@ -15,8 +24,10 @@ Description = "DevOpsDays SLC 2024"
 <span>Every year, we look forward to connecting with our local DevOps community at SLC DevOps Days; Sharing and learning from experts in our community, and working with DevOps thought leaders that visit our event. After several years of uncertainty around large gatherings, we are very excited to bring this event back to the Salt Lake City area and our local technology community. 
 
 More information forthcoming - will update soon!
-
 </span>
+
+
+
 <!-- <h4>Our CFP is now open! Check it out here: https://www.papercall.io/slcdod2024</h4> -->
 <br><hr><br>
 <div class="row">
