@@ -37,17 +37,18 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
   - name: register
     url: https://tickets.devopsdays.org/devopsdays-kansascity/2024/c/9X9kZg4vJ/
-  - name: program
- # - name: speakers
+ # - name: program
+  - name: schedule
+  - name: speakers
   - name: sponsor
  # - name: propose
-  - name: contact
-  - name: conduct
   - name: health-and-safety
   - name: volunteer
     url: https://forms.gle/uxFj5U9kWpjLt15k8
   - name: "convince your boss"
     url: https://docs.google.com/document/d/e/2PACX-1vSDeTjAqu-KtzW3-2Hp-HvxxbBiSUjpUCxtN3mGjHd9IFcaSUDTBXuNI4RJ5Z9pabtB6YXPOm8MMGJ-/pub
+  - name: contact
+  - name: conduct
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -193,6 +194,12 @@ sponsors:
     level: corporate
   - id: smartprokc
     level: technology
+  - id: virtuesecurity
+    level: gold
+  - id: slalom
+    level: social-event
+  - id: tyk
+    level: coffee
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -212,16 +219,19 @@ sponsor_levels:
   - id: technology
     label: Technology
     max: 1
-  - id: corporate
-    label: Corporate
-  - id: community
-    label: Community & Media
-  - id: lunches
-    label: Lunches
-    max: 1
   - id: social-event
     label: Social Event
+    max: 1
+  - id: lunches
+    label: Lunches
     max: 1
   - id: lanyards
     label: Lanyards
     max: 1
+  - id: coffee
+    label: Coffee
+    max: 1
+  - id: corporate
+    label: Corporate
+  - id: community
+    label: Community & Media

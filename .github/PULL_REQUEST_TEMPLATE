@@ -7,3 +7,5 @@
 Large files should go in https://github.com/devopsdays/devopsdays-assets/ . *If _this_ PR is related to an _assets_ PR*, please include a link to the latter.
 
 Up to date guidelines for pull requests can be found in the [contributing guide](https://github.com/devopsdays/devopsdays-web/blob/main/CONTRIBUTING.md#guidelines).
+
+If you are changing sponsor information, be sure you are [following the guidelines](https://github.com/devopsdays/devopsdays-web/blob/main/utilities/README.md#updating-a-sponsor-image-or-data).

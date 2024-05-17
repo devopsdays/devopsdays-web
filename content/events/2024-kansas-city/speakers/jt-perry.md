@@ -1,6 +1,6 @@
 +++
 Title = "JT Perry"
-Twitter = "https://twitter.com/circlejtp"
+Twitter = "circlejtp"
 linkedin = "https://www.linkedin.com/in/jtperry/"
 Website = ""
 image = "jt-perry.jpg"

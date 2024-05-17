@@ -184,6 +184,8 @@ sponsors:
   #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: launch-darkly
     level: gold
+  - id: rackn
+    level: gold
   # - id: devopslive
   #   level: community
   # - id: addo

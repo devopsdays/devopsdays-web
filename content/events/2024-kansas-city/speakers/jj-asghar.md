@@ -2,7 +2,7 @@
 Title = "JJ Asghar"
 Twitter = ""
 Linkedin = ""
-github = "https://github.com/jjasghar"
+github = "jjasghar"
 Website = "https://jjasghar.me"
 image = "jj-asghar.jpg"
 type = "speaker"

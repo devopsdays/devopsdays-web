@@ -3,7 +3,7 @@ title = "Verena Traub"
 twitter = ""
 linkedin = ""
 website = ""
-image = ""
+image = "verena-traub.jpg"
 type = "speaker"
 linktitle = ["verena-traub"]
 +++

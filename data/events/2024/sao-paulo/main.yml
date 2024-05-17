@@ -18,14 +18,14 @@ cfp_date_start: 2023-10-14T10:00:00-03:00 # start accepting talk proposals.
 cfp_date_end: 2024-02-11T03:00:00-03:00 # close your call for proposals.
 cfp_date_announce: 2023-10-14T10:00:00-03:00 # inform proposers of status
 
-cfp_open: "true"
+cfp_open: "false"
 cfp_link: "https://talks.devopsdays.org/devopsdays-sao-paulo-2024/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2024-10-18 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 registration_date_end: 2024-01-10 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.sympla.com.br/evento/devopsdays-sao-paulo-2024/2326413" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -48,13 +48,13 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     icon: "ticket"
     url: https://www.sympla.com.br/evento/devopsdays-sao-paulo-2024/2326413
 
-  # - name: programação
-  #   icon: "calendar"
-  #   url: /events/2024-sao-paulo/program
+  - name: programação
+    icon: "calendar"
+    url: /events/2024-sao-paulo/program
 
-  # - name: palestrantes
-  #   icon: "microphone"
-  #   url: /events/2024-sao-paulo/speakers
+  - name: palestrantes
+    icon: "microphone"
+    url: /events/2024-sao-paulo/speakers
 
   - name: patrocínio
     icon: "money"
@@ -296,10 +296,115 @@ sponsors:
     level: platinum
   - id: thoughtworks
     level: platinum
+  - id: minsait
+    level: platinum
   - id: magalu-cloud
     level: platinum
   - id: elastic
     level: gold
   - id: revolut
     level: gold
+  - id: globotv
+    level: startup
+
 program:
+  - title: "Credenciamento"
+    type: custom
+    date: 2024-05-18T08:00:00-03:00
+    start_time: "09:00"
+    end_time: "09:30"
+  - title: "Abertura"
+    type: custom
+    date: 2024-05-18T08:00:00-03:00
+    start_time: "09:30"
+    end_time: "09:50"
+    background_color: "#0082AB"
+  - title: "kief-morris"
+    type: talk
+    date: 2024-05-18T08:00:00-03:00
+    start_time: "09:50"
+    end_time: "10:20"
+    background_color: "#FF8300"
+  - title: "matheus-paes"
+    type: talk
+    date: 2024-05-18T08:00:00-03:00
+    start_time: "10:20"
+    end_time: "10:50"
+  - title: "Coffee Break"
+    type: custom
+    date: 2024-05-18T08:00:00-03:00
+    start_time: "10:50"
+    end_time: "11:20"
+  - title: "natalia-granato-de-assis"
+    type: talk
+    date: 2024-05-18T08:00:00-03:00
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "bernardo-lankheet"
+    type: talk
+    date: 2024-05-18T08:00:00-03:00
+    start_time: "11:50"
+    end_time: "12:20"
+  - title: "marianna-portela"
+    type: talk
+    date: 2024-05-18T08:00:00-03:00
+    start_time: "12:20"
+    end_time: "12:50"
+    background_color: "#FF8300"
+  - title: "Almoço"
+    type: custom
+    date: 2024-05-18T08:00:00-03:00
+    start_time: "12:50"
+    end_time: "14:20"
+  - title: "Ignite Karaoke"
+    type: open-space
+    date: 2024-05-18T08:00:00-03:00
+    start_time: "14:20"
+    end_time: "14:40"
+  - title: "clayton-santos-da-silva"
+    type: talk
+    date: 2024-05-18T08:00:00-03:00
+    start_time: "14:40"
+    end_time: "15:10"
+  - title: "zandler-de-souza-oliveira"
+    type: talk
+    date: 2024-05-18T08:00:00-03:00
+    start_time: "15:10"
+    end_time: "15:40"
+  - title: "melina-deraldo"
+    type: talk
+    date: 2024-05-18T08:00:00-03:00
+    start_time: "15:40"
+    end_time: "16:10"
+    background_color: "#FF8300"
+  - title: "Coffee Break"
+    type: custom
+    date: 2024-05-18T08:00:00-03:00
+    start_time: "16:10"
+    end_time: "16:40"
+  - title: "Open Spaces"
+    type: open-space
+    date: 2024-05-18T08:00:00-03:00
+    start_time: "16:40"
+    end_time: "17:40"
+  - title: "stephanie-chaia-bartels"
+    type: talk
+    date: 2024-05-18T08:00:00-03:00
+    start_time: "17:40"
+    end_time: "18:10"
+  - title: "gabriel-dantas-gomes"
+    type: talk
+    date: 2024-05-18T08:00:00-03:00
+    start_time: "18:10"
+    end_time: "18:40"
+  - title: "yago-nobre"
+    type: talk
+    date: 2024-05-18T08:00:00-03:00
+    start_time: "18:40"
+    end_time: "19:10"
+    background_color: "#FF8300"
+  - title: "Encerramento"
+    type: custom
+    date: 2024-05-18T08:00:00-03:00
+    start_time: "19:10"
+    end_time: "19:30"

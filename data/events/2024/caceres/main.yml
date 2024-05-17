@@ -15,17 +15,17 @@ startdate: 2024-10-03T00:00:00+01:00   # The start date of your event. Leave bla
 enddate: 2024-10-04T00:00:00+01:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2024-05-01T00:00:00+01:00 # start accepting talk proposals.
+cfp_date_end: 2024-06-30T23:59:59+01:00 # close your call for proposals.
+cfp_date_announce: 2024-07-15T00:00:00+01:00 # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://www.papercall.io/devopsdays-caceres-2024" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: 2024-05-08T12:00:00+01:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2024-10-04T18:00:00+01:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.eventbrite.es/e/devopsdays-caceres-2024-tickets-888206889717" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -36,9 +36,11 @@ location: "Cáceres" # Defaults to city, but you can make it the venue name.
 location_address: "Ronda de San Francisco, 15, 10002 Cáceres" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
+    url: https://www.papercall.io/devopsdays-caceres-2024
   - name: location
- # - name: registration
+  - name: registration
+    url: https://www.eventbrite.es/e/devopsdays-caceres-2024-tickets-888206889717
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -102,6 +104,29 @@ organizer_email: "caceres@devopsdays.org" # Put your organizer email address her
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: speedyrails
+    level: bronze
+  - id: metrika-media
+    level: bronze
+  - id: speedyrails
+    level: water-friut
+  - id: edd
+    level: collaborators
+  - id: diputacioncc
+    level: collaborators
+  - id: kubecareers
+    level: collaborators
+  - id: kubeevents
+    level: collaborators
+  - id: codemotion
+    level: media-partner
+    url: https://codemo.tech/partners
+  - id: caceresdevops
+    level: community
+  - id: cacerestech
+    level: community
+  - id: girls-in-tech-esp
+    level: community
 #   - id: samplesponsorname
 #     level: gold
 #  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
@@ -126,7 +151,11 @@ sponsor_levels:
     max: 15
   - id: bronze
     label: Bronze
+  - id: water-friut
+    label: "Water and fruit"
   - id: collaborators
     label: Collaborators
+  - id: media-partner
+    label: Media partner
   - id: community
     label: Community

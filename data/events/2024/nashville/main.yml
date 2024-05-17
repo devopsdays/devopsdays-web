@@ -103,6 +103,10 @@ team_members: # Name is the only required field for team members.
     github: "jslester14"
     image: "place-holder.jpg"
     linkedin: "https://www.linkedin.com/in/jslester/"
+  - name: "Erica Williamson"
+    employer: "Middle Tennessee State University"
+    image: "erica-williamson.jpg"
+    bio: "Erica is an instructor at Middle Tennessee State University, teaching Business Intelligence/Analytics and Cybersecurity Management for the Information Systems and Analytics department. She has worked for both large and small organizations in different roles, such as DevOps/automation engineering, application development, and software engineering. Her passion is sharing her work experiences and fostering an excitement for DevOps and DevSecOps in her classes."
 
 
 organizer_email: "nashville@devopsdays.org" # Put your organizer email address here
@@ -119,14 +123,18 @@ sponsors:
 #  - id: samplesponsorname
 #    level: gold
 #    url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-#  - id: arresteddevops
-#    level: community
-#  - id: aws
-#    level: platinum
-#  - id: morpheus
-#    level: bronze
-#  - id: 2021-cta
-#    level: silver
+ - id: datadog
+   level: platinum
+ - id: kubecareers
+   level: media
+ - id: kubeevents
+   level: media
+ - id: netappfsxn
+   level: gold
+ - id: dynatrace
+   level: gold
+ - id: hasura
+   level: gold
 #  - id: teleport
 #    level: gold
 #  - id: gitlab

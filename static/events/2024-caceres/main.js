@@ -23,4 +23,17 @@ $(document).ready(function () {
       element.style.minWidth = '200px';
     });
   }
+
+  // Prevent showing call for papers custom links before the opening date
+  const callForPapersOpen = new Date('2024-05-01');
+  const callForPaperDivs = document.querySelectorAll('.call-for-papers');
+  const callForPaperNavBar = document.querySelectorAll('ul.navbar-nav > li:first-child.nav-item.active');
+  if (new Date() < callForPapersOpen) {
+    callForPaperDivs.forEach((element) => {
+      element.classList.add('hard-hidden');
+    });
+    callForPaperNavBar.forEach((element) => {
+      element.classList.add('hard-hidden');
+    });
+  }
 });

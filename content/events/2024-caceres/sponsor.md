@@ -382,7 +382,7 @@ Description = "Sponsor devopsdays Cáceres 2024"
                   Room Names
                 </td>
                 <td style="border-left: transparent; border-right: transparent;">
-                  <center><i class="fa fa-check fa-lg"></i>&nbsp;&nbsp;</center>
+                  <center><i class="fa fa-check fa-lg"></i></center>
                 </td>
                 <td style="border-left: transparent; border-right: transparent;">
                   <center> </center>
@@ -401,9 +401,9 @@ Description = "Sponsor devopsdays Cáceres 2024"
           </table>
         </div>
       </div>
-    <!-- <div class="col-md-3 col-sm-12">
-      <a target="_blank" href="https://devopsdays.cc/wp-content/uploads/sponsorship-dossier-dod2023.pdf">
-        <img style='height: 200px; width: 350px' src="https://assets.devopsdays.org/events/2023/caceres/sponsorship-information.png">
+    <div class="col-md-3 col-sm-12">
+      <a target="_blank" href="https://devopsdays.cc/wp-content/uploads/sponsorship-dossier-dod2024.pdf">
+        <img alt="DevopsDays Cáceres 2024 sponsorship dossier" style='height: 200px; width: 350px' src="https://assets.devopsdays.org/events/2024/caceres/sponsorship-information.png">
       </a>
-    </div> -->
+    </div>
   </div>
