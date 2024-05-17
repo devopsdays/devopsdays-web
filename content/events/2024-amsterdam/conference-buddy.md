@@ -17,8 +17,6 @@ But Conference Buddy isn't just about networking—it's about creating an inclus
 
 Join us at DevOpsDays and be a part of something bigger. Whether you're a veteran looking to pay it forward or a newcomer seeking guidance, Conference Buddy is your ultimate companion for a memorable and rewarding conference experience. Together, let's connect, collaborate, and make DevOpsDays 2024 truly unforgettable.
 
-![Conference Buddy](static/events/2024-amsterdam/confbuddy.png)
-
 ## What matters most
 
 We want to help people to feel more included and welcome in our community. We all have to feel safe to do so! 
