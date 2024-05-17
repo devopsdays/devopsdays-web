@@ -7,7 +7,15 @@ description = "Welcome to the Conference Buddy program"
 
 # What is Conference Buddy?
 
-Do you feel uncomfortable or anxious in social situations, especially when you don't know anyone? Well, a lot of us do and big events can be a real challenge. That’s were Conference Buddy comes in! It provides a buddy system to help people feel more welcome and comfortable at tech events. Conference Buddy is also for all the wonderful folks out there who want to offer that kind of support!
+Are you a seasoned conference-goer eager to share your expertise and expand your network? Or perhaps you're a first-time attendee feeling a bit overwhelmed by the bustling atmosphere? No matter where you fall on the spectrum, Conference Buddy is here to enhance your DevOpsDays experience.
+
+As a veteran conference attendee, joining our program allows you to lend a guiding hand to newcomers, sharing your insights and helping them navigate the conference with ease. By offering your expertise and forging new connections, you not only enrich the experience of others but also deepen your own engagement with the DevOps community.
+
+For those stepping into DevOpsDays for the first time, becoming a part of Conference Buddy opens doors to a wealth of opportunities. It makes it easy to connect with fellow attendees, find like-minded individuals, and engage in meaningful conversations right from the start.
+
+But Conference Buddy isn't just about networking—it's about creating an inclusive environment where everyone feels valued and empowered. Through our program, we aim to foster a sense of community, break down barriers, and ensure that every participant feels seen and heard.
+
+Join us at DevOpsDays and be a part of something bigger. Whether you're a veteran looking to pay it forward or a newcomer seeking guidance, Conference Buddy is your ultimate companion for a memorable and rewarding conference experience. Together, let's connect, collaborate, and make DevOpsDays 2024 truly unforgettable.
 
 ![Conference Buddy](static/events/2024-amsterdam/confbuddy.png)
 
