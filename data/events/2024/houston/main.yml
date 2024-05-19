@@ -154,7 +154,7 @@ program:
     date: 2024-06-04T00:00:00-06:00
     start_time: "09:00"
     end_time: "09:15"
-  - title: "Keynote"
+  - title: "andrew-clay-shafer"
     type: custom
     date: 2024-06-04T00:00:00-06:00
     start_time: "09:15"
