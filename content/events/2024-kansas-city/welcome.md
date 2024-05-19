@@ -2,10 +2,10 @@
 Title = "DevOpsDays Kansas City 2024"
 Type = "welcome"
 aliases = ["/events/2024-kansas-city/"]
-Description = "DevOpsDays Kansas City 2024 will take place May 15-16, 2024!"
+Description = "DevOpsDays Kansas City 2024, May 15-16, 2024!"
 +++
 
-# After 4 years, DevOpsDays Kansas City is BACK for 2024!
+# After 4 years, DevOpsDays Kansas City is May 15-16, 2024!
 
 
 <div style="text-align:center;">
@@ -30,6 +30,7 @@ Description = "DevOpsDays Kansas City 2024 will take place May 15-16, 2024!"
   </div>
 </div>
 
+<!-- Removed after the event
 <div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
@@ -41,15 +42,18 @@ Description = "DevOpsDays Kansas City 2024 will take place May 15-16, 2024!"
     <strong><a href="https://docs.google.com/document/d/e/2PACX-1vSDeTjAqu-KtzW3-2Hp-HvxxbBiSUjpUCxtN3mGjHd9IFcaSUDTBXuNI4RJ5Z9pabtB6YXPOm8MMGJ-/pub">Convince your boss!</a></strong>
   </div>
 </div>
+-->
 
-<!-- <div class = "row">
+<!-- 
+<div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
-</div> -->
+</div> 
+-->
 
 <div class = "row">
   <div class = "col-md-2">
