@@ -15,9 +15,11 @@ Gold sponsors get a full table and Silver sponsors a shared table where they can
 The best thing to do is send engineers to interact with the experts at devopsdays on their own terms.
 <p>
 
-
 <h2 data-heading="Sponsorship Packages">Sponsorship Packages</h2>
-<table>
+
+
+<div style="width:590px">
+  <table border=1 cellspacing=1>
     <thead>
     <tr>
     <th>Goods</th>
@@ -118,10 +120,10 @@ The best thing to do is send engineers to interact with the experts at devopsday
     <td></td>
     </tr>
   
-</table>
+  </table>
+</div>
     <p>Sponsors are responsible for providing high-res logos for use on the website and in promotional materials.</p></div>
 
-    
 <!--
 <hr/>
 
@@ -170,4 +172,4 @@ There are also opportunities for exclusive special sponsorships. We'll have spon
 </div>
 
 -->
-<hr/>
+<!-- <hr/> -->
