@@ -111,13 +111,6 @@ Description = "DevOpsDays Kansas City 2024, May 15-16, 2024!"
         <div class="d-flex p-2">
           <a class="btn btn-primary btn-block"
             style="margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;"
-            href="https://docs.google.com/document/d/e/2PACX-1vSDeTjAqu-KtzW3-2Hp-HvxxbBiSUjpUCxtN3mGjHd9IFcaSUDTBXuNI4RJ5Z9pabtB6YXPOm8MMGJ-/pub">
-            <i class="fa fa-keyboard fa-lg"></i>&nbsp;&nbsp;&nbsp;Convince your Boss!
-          </a>
-        </div>
-        <div class="d-flex p-2">
-          <a class="btn btn-primary btn-block"
-            style="margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;"
             href="/events/2024-kansas-city/contact">
             <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Contact the Organizers
           </a>
@@ -128,30 +121,6 @@ Description = "DevOpsDays Kansas City 2024, May 15-16, 2024!"
             href="https://lists.devopsdays.org/subscription?f=TYbgJMtfqomf8uYARrTHhqAKoinSX763iDCLAvdcUFPDW2aF7J7EY53W1TeVcYoawk">
             <i class="fa fa-wpforms fa-lg"></i>&nbsp;&nbsp;&nbsp;Join the mailing list
           </a>
-        </div>
-      </div>
-      <div class="row col-mid-8 justify-content-center">
-        <div class="alert alert-info" role="alert" style="max-width:75%;">
-          <h2 id="Refund_Policy">Refund Policy</h2>
-            <p>
-            We recognize that making plans can be challenging, and sometimes things come up. If you are unable to attend DevOpsDays KC 2024 for any reason, you have a few options available to you regarding your ticket.
-            <ul>
-              <li>You may transfer your ticket to another individual who can attend in your place, or donate it to the conference and we will make sure to get it to someone who can attend.</li>
-              <li>You may request a refund based on the following criteria:</li>
-            <ul>
-              <li>If before April 15, 2024, you can receive a full refund</li>
-              <li>If before May 1, 2024, you can receive a 50% refund</li>
-              <li>If before May 8, 2024, you can receive a 25% refund</li>
-              <li>If after May 8, 2024, no refunds will be issued</li>
-            </ul>
-            Any applicable refund will be refunded to your original method of payment.
-            <li>If you are sick on the day of the event, please contact the Organizers and we will work with you.</li>
-            <li>If you are attending from outside the country, we will fully refund your ticket.</li>
-            </ul>
-            </p>
-            <p>
-              Please contact the Organizers at <a href="mailto:organizers@devopsdayskc.org?subject=Changes%to%20my%20Reservation">organizers@devopsdayskc.org</a> to let us know about any changes to your reservation.
-            </p>
         </div>
       </div>
     </div>
