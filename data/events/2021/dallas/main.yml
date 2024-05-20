@@ -1,0 +1,439 @@
+name: "2021-dallas" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2021" # The year of the event. Make sure it is in quotes.
+city: "Dallas" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaysdfw" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+cancel: "true"
+
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+# cfp_date_start: 2021-02-22T21:00:00-05:00 # start accepting talk proposals.
+# cfp_date_end: 2021-05-30T18:00:00-05:00 # close your call for proposals.
+# cfp_date_announce: 2021-07-06T18:00:00-05:00 # inform proposers of status
+
+cfp_link: "https://www.papercall.io/dod-dfw-2021" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+masthead_background: "planoeventcenter.jpg"
+sharing_image: "dallas2021.png"
+
+registration_date_start:  # start accepting registration. Leave blank if registration is not open yet
+registration_date_end:  #close registration. Leave blank if registration is not open yet.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "33.0543213, -96.6867001" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Plano Event Center" # Defaults to city, but you can make it the venue name.
+location_address: "2000 East Spring Creek Parkway, Plano, TX 75074" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: location
+#  - name: propose
+#  - name: program
+#  - name: registration
+#  - name: speakers
+#  - name: sponsor
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+
+  - name: "Gokul Sridharan"
+    employer: "Micro Focus"
+    bio: "Gokul Sridharan is a Master’s Degree holder in IT, an entrepreneur by nature and a successful presales management professional at CA Technologies. He has worked there for the past 3 years and successfully managing a business of $10m+ from a technical sales standpoint. Prior to joining CA and pursuing his master’s degree, Gokul started off his career at Accenture as a software developer.<br><br>During that time frame, he also started his own restaurant venture called ‘The Snack Shack’ in India. He loves DevOps concepts and likes to be a part of local meetups. He is also part of the organizing committee in DevOpsDays Dallas, and on in his spare time likes to work on new and innovative ideas."
+    twitter: "ConsultGokul_CA"
+    linkedin: "https://www.linkedin.com/in/gokul-sridharan-98a12323/"
+    image: "gokul.jpg"
+
+  - name: "Jack Teoh"
+    employer: "Vizient, Inc."
+    bio: "Jack Teoh started his DevOps journey by actively volunteering for DevOpsDays Austin since 2015 and participates in multiple user group in the DevOps space. He also started volunteering for DevOpsDays Dallas when it was just starting in 2016, then become one of the core local organizer. He enjoys helping out both at DevOpsDays Austin and DevOpsDays Dallas, because he gets to meet and interact with people who are liked minded sharing a common interest which is DevOps."
+    twitter: "jaxteoh"
+    linkedin: "https://www.linkedin.com/in/jackteoh/"
+    github: "https://github.com/jaxteoh"
+    image: "jack.jpg"
+
+  - name: "Jessica Clark"
+    employer: "Capital One"
+    bio: "Jessica is currently a Scrum Master and Cloud Governance lead at Capital One Auto Finance, where she has spent the past 8 years holding various roles in the technology organization. This is her first year as an organizer for DevOpsDays Dallas."
+    linkedin: "https://www.linkedin.com/in/jessica-clark-7248526/"
+    image: "jessica-clark.jpg"
+
+  - name: "Jessica Sabugo"
+    employer: "Estech Systems, Inc. (ESI)"
+    bio: "Jessica is an automation engineer. She has a deep interest in the DevOps culture and she keeps continuously learning. Her dream is to travel all over the world. She is currently leading the automation and QA team, trying to help her team get involved in the DevOps world."
+    twitter: "jessica_sabugo"
+    linkedin: "https://www.linkedin.com/in/jessica-sabugo-581ab658/"
+    image: "jessica-sabugo.jpg"
+
+  - name: "Jim Baldwin"
+    employer: "Slalom Consulting"
+    bio: "Jim Baldwin has over 20 years in the IT field holding various positions from Systems Administration and Infrastructure Engineering to DevOps and Cloud Computing.  After attending DevOpsDays in Austin in 2015 and becoming DevOps awakened, Jim has spent his time honing his DevOps and Agile skills.  He is an advocate for Agile and Lean technologies and certified in SAFe and ITIL practices. <br><br>
+    Jim is currently a Consultant at Slalom Consulting." 
+    twitter: "BaldwinJim"
+    linkedin: "https://www.linkedin.com/in/jimbaldwin469/"
+    image: "jim.jpg"
+
+  - name: "John-Paul Herold"
+    employer: "Southwest Airlines"
+    bio: "John-Paul Herold is an engineer focusing on cloud architectures, tooling for more frequent deployments, container orchestration, improving observability, and building great teams. John-Paul was previously a Java developer, made the transition to Cloud Engineer 6 years ago, and is currently a Tech Lead for Southwest Airlines.<br><br>His path with DevOpsDays started in 2015 when he attended both Dallas and Austin, and has continued every year since. He volunteered for Dallas the first time in 2019, and Dallas 2020 will be his first time as an organizer. <br><br>John-Paul is based in Dallas and has a CSE degree from Southern Methodist University. In his off time he enjoys playing soccer, listening to music, running a homelab, reading tech books, and working on projects in his garage."
+    twitter: "thedailyherold"
+    linkedin: "https://www.linkedin.com/in/johnpaulherold/"
+    image: "herold.jpg"
+
+  - name: "John Jelinek"
+    employer: "The Container Store"
+    bio: ""
+    twitter: "johnjelinek"
+    linkedin: "https://www.linkedin.com/in/jjelinek/"
+    image: "john.jpg"
+
+  - name: "Lee Herrin"
+    employer: "Dell EMC"
+    bio: "Lee is an experienced technologist with a passion for solving problems. Whether technical, logistical, organizational - in every endeavor, Lee brings with him a high-level of integrity and an effective leadership style. His experience spans multiple disciplines including Employee Engagement, Distribution, IT Solutions Architecture, Virtual and Physical IT Infrastructure, and Cyber-security.<br><br>Lee is a volunteer for DevOpsDays DFW as a result of his passionate interest in DevOps (and DevSecOps) and the associated community of talented professionals.<br><br>Lee works with Ancilla LLC - As a Consultant and Project Director. Ancilla LLC provides consulting services for Cloud, CyberSecurity, Application Security and Organizational Excellence. Providing Organizations with Proven, Documented & Published Outcomes.<br><br>Lee also volunteers his time acting as Prayer Team Chair for the DFW Technology Prayer Breakfast - a local faith-based nonprofit."
+    twitter: "TechnologicaLee"
+    linkedin: "https://www.linkedin.com/in/wtleeherrin/"
+    image: "lee.jpg"
+
+  - name: "Mark Andersen"
+    employer: "Capital One"
+    bio: "Mark loves DevOps and the cloud and has spent the last 2 years with Capital One going all in on DevOps and the Cloud. Mark leads DevOps for Capital One Auto Finance and is the Cloud Lead for public cloud accounts in Plano. Previously Mark has spent 14 years at Southwest Airlines in various software development and leadership roles."
+    twitter: "mandersen94"
+    linkedin: "https://www.linkedin.com/in/markandersen94/"
+    website: "https://www.capitalone.com/"
+    github: "https://github.com/mandersen94/"
+    image: "mark-andersen.jpg"
+
+  - name: "Megan Bohl"
+    employer: "NCR Corporation"
+    bio: "Megan was our Sponsor Liaison for DevOpsDays DFW 2017, and Volunteer for subsequent years.  She is joining the tech community with more than 15 years experience in supply chain operations and marketing in the fashion and consumer goods industries.   Megan has a particular interest in DevOps concepts and is looking forward to expanding her knowledge at DevOpsDays DFW."
+    twitter: "MeganBohl"
+    linkedin: "https://www.linkedin.com/in/megan-bohl/"
+    image: "megan.jpg"
+
+  - name: "Mike Rosado"
+    employer: "Independent Consultant"
+    bio: "Mike who is a DevOps Enthusiast and Technical Evangelist works as an Independent Consultant with customers in the United States and throughout Latin America. Mike enjoys sharing his views as it relates to the cultural movement of DevOps and technologies that contribute to the continuous improvement. He enjoys it so much, that he became one of the integral local organizers of DevOpsDays Dallas, [DevOps Live Meetup](https://www.meetup.com/DevOpsLive/), and active Global Core Organizer of [devopsday.org](https://www.devopsdays.org/about).<br><br>As a recognized leader in the DevOps space with exemplary recommendations in the LinkedIn community groups, Mike’s passion in this field shines as he mentors others and enjoys tackling challenges. Mike's vast experience in helping Enterprise customers for 22+ years at Microsoft in various capacity serves as a base as he continues to evolve in this DevOps journey. "
+    twitter: "MikeRosTX"
+    linkedin: "https://www.linkedin.com/in/mikerostx/"
+    github: "mikerostx"
+    image: "mike.jpg"
+    website: "https://MikeRosTX.me"
+
+  - name: "Ramesh Venkataramiah"
+    employer: "GladePoint Research Group"
+    bio: "Ramesh is a technology expert with over 20 years of experience and demonstrated ability to architect and build differentiating capabilities, solve complex problems, and lead distributed teams towards shared strategic goals. Recently he is primarily focused on developing data products in data science area with specific emphasis on security/privacy and Predictive Modeling with Machine Learning/AI Tools.   Previously, he served as an Enterprise Architect, with multiple roles in Engineering and Product Development throughout matrix organizations, shared services, and collaborative teams among business units.<br><br>He has provided Hadoop/Spark technology advice to Microsoft Azure, Amazon AWS, T-Systems and Fujitsu networks (private cloud) to implement data science/analytics platforms and implemented Cloudera Hadoop platforms and applications on partner infrastructure by employing devops automation tools and services. As partner development architect, he developed reference architectures for deployment and implementation of Hadoop ecosystem services and optimized for better performance.<br><br>Ramesh is based in Dallas-Fort Worth area and has a Ph. D. from Texas A&M University. In his off time enjoys practicing Yoga, Tai Chi and Martial Arts."
+    linkedin: "https://www.linkedin.com/in/ramesh-venkataramiah-359898a3/"
+    image: "rameshv.jpg"
+
+  - name: "Roger Servey"
+    employer: "Verizon"
+    bio: "Roger is a 20+ year International  IT Leader experienced with Software delivery for systems delivering multi billion dollar impacts to their Enterprises.  Roger currently leads Verizon's Engineering Practice Transformation Centers - DOJOs - Across the United States, where teams enter to learn new Agile Practices, DevOps Automantions and Cloud Technologies which speed time to value realization, drive efficiency and improve quality.<br><br>Focus Areas for Roger include: DevOps, Agile Development, Continuous Delivery, Lean Development, Software architecture and design, Pricing theory, Product Lifecycle Management, Onshore, Near Shore and Offshore project development (US, LATAM, EMEA, APAC) and Pricing Analytics.<br><br>Roger holds his Bachelors Degree from Southern Methodist University and is a continuous learner.  A Practitioner of constraint management and evangelist for DevOps measurement, speaking at OS Con 2018 and GLUCON 2018 on <strong><i>DevOps Measurement and Enter-Sourcing with Hygieia. That which is measured, improves!</i></strong>. "
+    image: "roger.jpg"
+
+  - name: "Russell W. Black"
+    employer:  "Independent DevOps Consultant"
+    bio: "Russell has over 25 years of IT experience. Starting as a Web Developer, then moving into IT Leadership Russell was introduced to DevOps 5 years ago while managing platform and systems that ran the Verizon Global Website (www.verizon.com). He learned and adopted Agile and Cloud-First methologies from some of the most knowledgeable DevOps authorities.<br><br>For most of the past 10 years, he has managaged multi-cultural teams responsible for software development and delivery, production support, Operations, and end-user support of startegic enterprise business processes.<br><br>Currently Russell is an Independent Consultant working with IT Leadership of international industry leaders to help them adopt and foster a culture of DevOps; to help them keep their business ahead of the competition."
+    linkedin: "https://www.linkedin.com/in/russellblack/"
+    image: "russell.jpg"
+
+  - name: "Scott Purgerson"
+    employer: ""
+    bio: "Scott Purgerson, was previously a Sr. Sales Executive with Automation Anywhere located in Dallas, Texas. Although born in San Jose, CA, he takes great pride in claiming he’s a Texan, as he’s resided there 97% of his life. Scott has over 16 years of professional experience, comprised of sales and management. He’s very passionate about helping and partnering with others in their digital transformation journey. Scott joined as an organizer for Dallas DevOps Days in 2019. In his downtime, Scott enjoys spending time with his wife, Michelle, and their corgi, Winnie, as well being in the woods, hunting."
+    twitter: "PurgersonScott"
+    linkedin: "https://www.linkedin.com/in/scott-purgerson-5858224"
+    website: ""
+    image: "scott.jpg"
+    
+# - name: ""
+#   employer: "Organizer Role - "
+#   role: ""
+#   bio: ""
+#   twitter: ""
+#   linkedin: "https://"
+#   facebook:
+#   website: ""
+#   github: ""
+#   image: ".jpg"  
+
+
+organizer_email: "dallas@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+# - id: samplesponsorname
+#  level: gold
+#  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+#  - id: solarwinds-before-20240105
+#    level: platinum
+  - id: appdynamics-before-20220714
+    level: gold
+#  - id: chef
+#    level: gold
+#  - id: xmatters
+#    level: gold
+  - id: launch-darkly-before-20200828
+    level: gold
+  - id: arresteddevops
+    level: media
+  - id: devopslive
+    level: community
+  - id: addo
+    level: community
+  - id: ansible-dallas
+    level: community
+  - id: ansible-fw
+    level: community
+  - id: devops-dfw
+    level: community
+  - id: dfwpug
+    level: community
+  - id: awsdeepdives
+    level: community
+   
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: platinum
+    label: Platinum
+    max: 10
+  - id: gold
+    label: Gold
+    max: 10
+  - id: silver
+    label: Silver
+    max: 10
+  - id: coffee
+    label: Coffee Bar
+#   max: 3
+# - id: bronze
+#   label: Bronze
+#   max: 0 # This is the same as omitting the max limit.
+  - id: media
+    label: Media
+    max: 5
+  - id: community
+    label: Community
+    max: 10
+
+program:
+  - title: "Registration & Breakfast"
+    type: custom
+    date: 2019-08-20
+    start_time: "08:00"
+    end_time: "08:45"
+  - title: "Intro and Code of Conduct - Mark Saum (Organizer)"
+    type: custom
+    date: 2019-08-20
+    start_time: "08:45"
+    end_time: "09:00"
+  - title: ""
+    type: talk
+    date: 2019-08-20
+    start_time: "09:00"
+    end_time: "09:45"
+  - title: "damon-edwards"
+    type: talk
+    date: 2019-08-20
+    start_time: "09:45"
+    end_time: "10:15"
+  - title: "Break"
+    type: custom
+    date: 2019-08-20
+    start_time: "10:15"
+    end_time: "10:25"
+  - title: "quintessence-anx"
+    type: talk
+    date: 2019-08-20
+    start_time: "10:25"
+    end_time: "10:55"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-08-20
+    start_time: "10:55"
+    end_time: "11:30"
+  - title: "dan-barker"
+    type: talk
+    date: 2019-08-20
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch (catered) | Open Space - Overview"
+    type: custom
+    date: 2019-08-20
+    start_time: "12:00"
+    end_time: "12:45"
+  - title: "liz-fong-jones"
+    type: talk
+    date: 2019-08-20
+    start_time: "12:45"
+    end_time: "13:30"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-08-20
+    start_time: "13:30"
+    end_time: "13:50"
+  - title: "vijay-challa"
+    type: talk
+    date: 2019-08-20
+    start_time: "13:50"
+    end_time: "14:20"  
+  - title: "Open Space - Topic Proposals & Selection"
+    type: open-space
+    date: 2019-08-20
+    start_time: "14:20"
+    end_time: "14:30"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2019-08-20
+    start_time: "14:30"
+    end_time: "15:15"
+  - title: "Break"
+    type: custom
+    date: 2019-08-20
+    start_time: "15:15"
+    end_time: "15:30"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2019-08-20
+    start_time: "15:30"
+    end_time: "16:15"
+  - title: "Show & Tell what will be raffled on the 21st."
+    type: custom
+    date: 2019-08-20
+    start_time: "16:15"
+    end_time: "16:20"
+  - title: "Close Day & Logistics"
+    type: custom
+    date: 2019-08-20
+    start_time: "16:20"
+    end_time: "16:30"
+  - title: "Social Networking - Happy Hour"
+    type: custom
+    date: 2019-08-20
+    start_time: "16:30"
+    end_time: "19:00"
+
+  - title: "Registration & Breakfast"
+    type: custom
+    date: 2019-08-21
+    start_time: "08:00"
+    end_time: "08:45"
+  - title: "Welcome - Mark Andersen (Organizer)"
+    type: custom
+    date: 2019-08-21
+    start_time: "08:45"
+    end_time: "09:00"
+  - title: "ross-clanton"
+    type: talk
+    date: 2019-08-21
+    start_time: "09:00"
+    end_time: "09:45"
+  - title: "derek-weeks"
+    type: talk
+    date: 2019-08-21
+    start_time: "09:45"
+    end_time: "10:15"
+  - title: "Break"
+    type: custom
+    date: 2019-08-21
+    start_time: "10:15"
+    end_time: "10:30"  
+  - title: "crux-conception"
+    type: talk
+    date: 2019-08-21
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "Ignite Talks"
+    type: ignite
+    date: 2019-08-21
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "dana-finster"
+    type: talk
+    date: 2019-08-21
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch (catered) | Open Space - Overview"
+    type: custom
+    date: 2019-08-21
+    start_time: "12:00"
+    end_time: "12:45"
+  - title: "michael-nygard"
+    type: talk
+    date: 2019-08-21
+    start_time: "12:45"
+    end_time: "13:30"
+  - title: "Open Space - Topic Proposals & Selection"
+    type: open-space
+    date: 2019-08-21
+    start_time: "13:30"
+    end_time: "13:45"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2019-08-21
+    start_time: "13:45"
+    end_time: "14:30"
+  - title: "Break"
+    type: custom
+    date: 2019-08-21
+    start_time: "14:30"
+    end_time: "14:45"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2019-08-21
+    start_time: "14:45"
+    end_time: "15:30"
+  - title: "SPEAKER DISCUSSION PANEL (Click here for video)"
+    type: custom
+    date: 2019-08-21
+    start_time: "15:30"
+    end_time: "16:15"
+    custom_url: "https://youtu.be/zlwOBFHT4X8"
+  - title: "Organizers Recognition"
+    type: custom
+    date: 2019-08-21
+    start_time: "16:15"
+    end_time: "16:20"  
+  - title: "Closing, Raffle Giveaway, & Farewell"
+    type: custom
+    date: 2019-08-21
+    start_time: "16:20"
+    end_time: "17:00"
+
+ignites:
+#  - title: "ignite-talks"
+#    date: 2019-08-21
+  - title: "jj-asghar"
+    date: 2019-08-21
+  - title: "bjorn-edwin"
+    date: 2019-08-21
+  - title: "ian-holmes"
+    date: 2019-08-21
+  - title: "farrah-campbell"
+    date: 2019-08-21
+  - title: "steve-shangguan"
+    date: 2019-08-21
+  - title: "aaron-mell"
+    date: 2019-08-21
+

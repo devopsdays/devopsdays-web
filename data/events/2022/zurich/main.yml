@@ -1,0 +1,455 @@
+name: "2022-zurich" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2022" # The year of the event. Make sure it is in quotes.
+city: "Zurich (Winterthur)" # The displayed city name of the event. Capitalize it.
+event_twitter: "DevOpsZH" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "DevOpsDays is coming to Zurich!" # Edit this to suit your preferences
+ga_tracking_id: "UA-174260535-7" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+event_group: "Zürich"
+
+# All dates are in unquoted 2022-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2022-09-08T00:00:00+02:00
+#   variable: 2022-09-09T23:59:59+02:00
+# Note: we allow 2022-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate:  2022-05-31T00:00:00+02:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  2022-06-01T23:59:59+02:00 # The end date of your event. Leave blank if you don't have a venue reserved yet. 
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start:  2021-12-21T00:00:00+02:00 # start accepting talk proposals.
+cfp_date_end:  2022-02-28T23:59:59+02:00 # close your call for proposals.
+cfp_date_announce: 2022-03-31T00:00:00+02:00 # inform proposers of status
+
+cfp_open: "true"
+cfp_link: "https://sessionize.com/devopsdays-zurich-2022" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: 2021-12-21T00:00:00+02:00
+registration_date_end: 2022-05-30T23:59:59+02:00
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://ti.to/dod/dodzh2022" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "47.497854, 8.731663" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Alte Kaserne Winterthur" # Defaults to city, but you can make it the venue name.
+#
+location_address: "Technikumstrasse 8, 8400 Winterthur, Switzerland" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+#  - name: propose
+  - name: program
+  - name: speakers
+  - name: location
+  - name: registration
+  - name: sponsor
+  - name: diversity
+  - name: covid
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Martin Thalmann"
+    twitter: "martin_thalmann"
+    employer: "monum GmbH"
+    bio: "I’m a passionate DevOps Enthusiast who strongly believes in the power of this movement. As a DevOps and Agile Coach, I support companies in creating more value for their customers. My background as a software developer & project manager as well as my practical experience in different agile roles help me to understand the needs well, find pragmatic solutions and anchor agile principles sustainably.  In addition, I am co-study director at the Lucerne University of Applied Sciences and Arts and co-host of the DevOps Meetup Zurich."
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/martinthalmann/"
+    website: ""
+    image: "martin-thalmann.jpg"
+  - name: "Dirk Lehmann"
+    twitter: "doergn"
+    employer: "SAP"
+    bio: "<p>Dirk is a DevOps evangelist and Continuous Delivery expert at SAP.</p><p>Since 2001 Dirk worked in various roles at SAP including Development and Operations.</br>Together with his former team \"TwoGo by SAP\" he established the first Continuous Delivery implementation at SAP, delivering value daily to their customers.</p><p>Dirk is a frequent speaker at international conferences on DevOps and Continuous Delivery.</p>"
+    linkedin: "https://www.linkedin.com/in/dirk-lehmann-7712bb125/"
+    github: ""
+    facebook: ""
+    image: "dirk-lehmann.jpg"
+  - name: "Romano Roth"
+    twitter: "RomanoRoth"
+    employer: "Zühlke Engineering AG"
+    bio: "<p>I'm a DevOps enthusiast and the Head of DevOps at Zühlke. My passion is helping companies bringing people, processes and technology together so that they can deliver continuously value to their customers.</p>"
+    github: "https://github.com/RomanoRoth"
+    facebook: "https://www.facebook.com/romanoroth/"
+    website: "https://www.romanoroth.com"
+    linkedin: "https://www.linkedin.com/in/romanoroth/"
+    image: "romano-roth.jpg"
+  - name: "Tobias Weinmann"
+    bio: "<p>Having worked as a developer, systems engineer and team lead in IT operations, the ideas and concepts behind DevOps are very close to my heart. As I am passionate about coding since my teenage years, I am fascinated by concepts like Infrastructure as Code, Social Coding, and cloud native technologies trying to get hands-on whenever possible. I enjoy lateral thinking and my basic premise is that we cannot solve our problems with the same thinking we used when we created them (Albert Einstein).</p><p>In my current role I dedicate all my energy to introducing and spreading DevOps principles and practices in the broader organization.</p>"
+    linkedin: "https://www.linkedin.com/in/tobias-weinmann"
+    twitter: "Wankinobi75"
+    github: "tweinmann"
+    employer: "Swiss Re"
+    image: "tobias-weinmann.jpg"
+  - name: "Carsten Plum"
+    bio: "<p>I am passionate about everything agile and human centered. Having started my career in an old school waterfall environment more than 20 years ago as a software engineer and project manager, I am now happy to enable teams and large organisations to establish agile methods and DevOps. I specifically like the combination (and challenges) of technical and cultural aspects.</p>"
+    Website: https://www.xing.com/profile/Carsten_Plum2/
+    employer: "Federal Office of Information Technology"
+    github: ""
+    facebook: ""
+    linkedin: ""
+    image: "carsten-plum.jpg"
+  - name: "Selina Reist"
+    employer: "Federal Office of Information Technology"
+    bio: "<p>I am an enthusiast for everything visual:photography, movies and animations, pictograms, infofraphics, visual design, graphical recordings, UX-Design. I also like to combine these skills in crossfunctional teams to enable app development, transformation processes and last but not least communicate and teach DevOps practices in large federal organizations</p>"
+    linkedin: "https://www.linkedin.com/in/selina-reist-1b7704181/"
+    image: "selina-reist.jpg"
+  - name: "Franziska Bühler"
+    bio: "<p>Franziska loves to combine her favorite topics DevOps, IT security and open source software. And that's exactly what she can pursue as an architect at Puzzle ITC! As a former speaker at the DevOpsDays Zurich, organizer of the ModSecurity CRS Meetup Bern and an enthusiastic OWASP member, Franziska also has the opportunity to share her passion with others. When she isn't disassembling highly optimized regexes or automating security, she enjoys spending time with her family.</p>"
+    image: "franziska-buehler.jpeg"
+    employer: "Puzzle ITC"
+    github: "franbuehler"
+    twitter: "@bufrasch"
+    linkedin: "https://www.linkedin.com/in/franziska-buehler-bb037a163/"
+  - name: "Flavio Monigatti"
+    twitter: "monfla00"
+    employer: "Inspify Pte Ltd"
+    bio: "Flavio is the co-founder and the tech brain behind INSPIFY. As he discovered his natural talent for technology and sciences from a very young age, Flavio began a path of a highly-acclaimed academic career – where he completed his Masters and Doctorate Degree at the University of Basel, Switzerland, majoring in Biosciences and Bioinformatics. After which, he pursued his Postdoctoral Research Studies at the Boston Children’s Hospital and Harvard Medical School. After working in various nations within the tech industry, Flavio then branched out and co-founded INSPIFY, with an aim to revolutionise the luxury retail landscape."
+    linkedin: "https://www.linkedin.com/in/flavio-monigatti-5065076/"
+    image: "flavio-monigatti.jpg"
+  - name: "Zoltan Vitus"
+    twitter: "vituszoli2"
+    employer: "Federal Office of Information Technology"
+    bio: "Experienced agile coach, SAFe Program consultant with a demonstrated history of working in the information technology and services industry. Skilled in agile coaching and leadership, enterprise architecture management, portfolio management and IT strategy."
+    linkedin: "https://www.linkedin.com/in/zoltan-vitus-828abb/"
+    image: "zoltan-vitus.jpg"
+  - name: "Vittorio Boccone"
+    twitter: "drbokko"
+    employer: "Dectris Ltd."
+    bio: "Vittorio grew up in the a world where hardware and software are in perfect equilibrium. At 8 he started customizing and modifying anything with an engine or a CPU. Curious about the nature of things he later became a detector and accelerator physicist. After 13 years at CERN, he's now often seen at Dectris happily developing Dectris X-ray detectors. He's comfortable with any lab equipment, programming language or particle accelerator."
+    github: "https://github.com/drbokko"
+    linkedin: "https://www.linkedin.com/in/vittorio-boccone-1998a94/"
+    image: "vittorio-boccone.jpg"
+  - name: "Nadine Broghammer"
+    twitter: ""
+    employer: "Zühlke Engineering AG"
+    bio: "Nadine Broghammer is an experienced project and delivery manager. After completing her master's degree in business administration and management at the University of Zurich, she continously broadend her knowledge and brings a wide range of expertise in requirements engineering, project and product management and as well as a trainer and coach in agile frameworks and delivery. Her focus industries are healthcare as well as banking and finance. With her direct collaboration style and accessible nature, she ensures a transparent information flow and target focus. Her passion is people relationships and the transformation of corporate practices and strategies."
+    github: ""
+    linkedin: "https://www.linkedin.com/in/nadinebroghammer"
+    image: "nadine-broghammer.jpg"
+organizer_email: "zurich@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: avega
+    level: event
+  - id: devops-meetup-zurich
+    level: community
+  - id: devops-meetup-bern
+    level: community
+  - id: powercoders
+    level: community
+  - id: basis
+    level: gold
+  - id: zhlke
+    level: event
+  - id: suse
+    level: gold
+  - id: fullstacks
+    level: gold
+  - id: checkpoint
+    level: gold
+  - id: swiss-re
+    level: gold
+  - id: cloudbees
+    level: platinum
+  - id: exoscale
+    level: platinum
+  - id: adnovum
+    level: event
+  - id: checkmarx-before-20240519
+    level: silver
+  - id: youstream
+    level: partner
+  - id: cloudscalech-before-20240205
+    level: silver
+  - id: f5-nginx
+    level: silver
+  - id: bit
+    level: silver
+  - id: vshn-before-20240317
+    level: silver
+  - id: snyk
+    level: gold
+  - id: julius-baer
+    level: platinum
+  - id: swisscom
+    level: silver
+  - id: splunk
+    level: silver
+  - id: mulesoft
+    level: silver
+  - id: dynatrace
+    level: silver
+  - id: origoss
+    level: silver
+  - id: cognizant
+    level: silver
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: platinum
+    label: Platinum
+    max: 3
+  - id: gold
+    label: Gold
+    max: 5
+  - id: event
+    label: Evening Event, Coffee, Meal
+    max: 3
+  - id: silver
+    label: Silver
+    max: 0
+  - id: community
+    label: Community
+    max: 0
+  - id: partner
+    label: Partner
+    max: 0
+
+
+program:
+# Day 1
+- title: Registration & Welcome Coffee
+  type: custom
+  date: 2022-05-31
+  start_time: '8:00'
+  end_time: '9:00'
+
+- title: Opening 
+  type: custom
+  date: 2022-05-31
+  start_time: '9:00'
+  end_time: '9:15'
+  
+- title: charity-majors
+  type: talk
+  date: 2022-05-31
+  start_time: '9:15'
+  end_time: '10:00'
+
+- title: lian-li
+  type: talk
+  date: 2022-05-31
+  start_time: '10:00'
+  end_time: '10:30'
+
+- title: Break
+  type: custom
+  date: 2022-05-31
+  start_time: '10:30'
+  end_time: '11:00'
+
+- title: andrew-martin-talk
+  type: talk
+  date: 2022-05-31
+  start_time: '11:00'
+  end_time: '11:30'
+  
+- title: derek-yu
+  type: talk
+  date: 2022-05-31
+  start_time: '11:30'
+  end_time: '12:00'
+
+- title: ramon-lopez-narvaez
+  type: talk
+  date: 2022-05-31
+  start_time: '12:00'
+  end_time: '12:30'
+
+- title: Lunch
+  type: custom
+  date: 2022-05-31
+  start_time: '12:30'
+  end_time: '14:00'
+
+- title: Opening Afternoon
+  type: custom
+  date: 2022-05-31
+  start_time: '14:00'
+  end_time: '14:05'
+
+- title: "Ignites"
+  type: ignite
+  date: 2022-05-31
+  start_time: '14:05'
+  end_time: '14:30'
+
+- title: Open Space Voting
+  type: custom
+  date: 2022-05-31
+  start_time: '14:30'
+  end_time: '15:00'
+
+- title: "Open Space"
+  type: open-space
+  date: 2022-05-31
+  start_time: '15:00'
+  end_time: '17:15'
+
+- title: mark-heistek
+  type: workshop
+  date: 2022-05-31
+  start_time: '15:00'
+  end_time: '16:30'
+
+- title: m-psych
+  type: workshop
+  date: 2022-05-31
+  start_time: '14:45'
+  end_time: '16:45'
+
+- title: joseph-katsioloudes
+  type: workshop
+  date: 2022-05-31
+  start_time: '15:00'
+  end_time: '16:15'
+
+- title: Closing Day 1
+  type: custom
+  date: 2022-05-31
+  start_time: '17:15'
+  end_time: '17:30'
+
+- title: Evening Event
+  type: custom
+  date: 2022-05-31
+  start_time: '17:30'
+  end_time: ''
+
+# Day 2
+- title: Registration & Welcome Coffee
+  type: custom
+  date: 2022-06-01
+  start_time: '8:00'
+  end_time: '9:00'
+
+- title: Opening
+  type: custom
+  date: 2022-06-01
+  start_time: '9:00'
+  end_time: '9:15'
+  
+- title: jan-de-vries
+  type: talk
+  date: 2022-06-01
+  start_time: '9:15' 
+  end_time: '10:00'
+
+- title: oliver-goetz
+  type: talk
+  date: 2022-06-01
+  start_time: '10:00'
+  end_time: '10:30'
+
+- title: Break
+  type: custom
+  date: 2022-06-01
+  start_time: '10:30'
+  end_time: '11:00'
+
+- title: jose-leitao
+  type: talk
+  date: 2022-06-01
+  start_time: '11:00'
+  end_time: '11:30'
+  
+- title: joseph-katsioloudes-talk
+  type: talk
+  date: 2022-06-01
+  start_time: '11:30'
+  end_time: '12:00'
+
+- title: jochen-decker
+  type: talk
+  date: 2022-06-01
+  start_time: '12:00'
+  end_time: '12:30'
+
+- title: Lunch
+  type: custom
+  date: 2022-06-01
+  start_time: '12:30'
+  end_time: '14:00'
+
+- title: Opening Afternoon
+  type: custom
+  date: 2022-06-01
+  start_time: '14:00'
+  end_time: '14:05'
+
+- title: "Ignites"
+  type: ignite
+  date: 2022-06-01
+  start_time: '14:05'
+  end_time: '14:35'
+
+- title: Open Space Voting
+  type: custom
+  date: 2022-06-01
+  start_time: '14:35'
+  end_time: '15:00'
+
+- title: "Open Space"
+  type: open-space
+  date: 2022-06-01
+  start_time: '15:00'
+  end_time: '17:15'
+
+- title: andrew-martin
+  type: workshop
+  date: 2022-06-01
+  start_time: '15:00'
+  end_time: '17:00'
+
+- title: anand-bagmar
+  type: workshop
+  date: 2022-06-01
+  start_time: '15:00'
+  end_time: '17:15'
+
+- title: ricardo-castro
+  type: workshop
+  date: 2022-06-01
+  start_time: '15:00'
+  end_time: '16:30'
+
+- title: Raffle & Closing Day 2
+  type: custom
+  date: 2022-06-01
+  start_time: '17:15'
+  end_time: '17:30'
+
+ignites:
+  - title: "luigi-zoso"
+    date: 2022-05-31
+  - title: "tobias-hauk"
+    date: 2022-05-31
+  - title: "sebastian-mangelkramer"
+    date: 2022-05-31
+  - title: "oleg-nenashev"
+    date: 2022-05-31
+  - title: "achim-toeper"
+    date: 2022-05-31
+  - title: "andriy-bilous"
+    date: 2022-06-01
+  - title: "benjamin-wyss"
+    date: 2022-06-01
+  - title: "daiany-palacios"
+    date: 2022-06-01
+  - title: "yishai-beeri"
+    date: 2022-06-01        
+  - title: "oleg-mayko"
+    date: 2022-06-01        

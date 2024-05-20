@@ -40,8 +40,18 @@ Description = "devopsdays Birmingham, AL 2024"
     font-weight: 600;
   }
 </style>
+
 <div style="text-align:center;">
   {{< event_logo >}}
+</div>
+
+<div class="row" style="margin-top:10px;margin-bottom:10px;padding-left:10px;padding-right:5px;background-color:#f3f3f3">
+<strong>UPDATE!</strong>
+<p>It is with great regret and more than a little bit of embarrassment that the organizers of DevOps Days Birmingham, AL, find ourselves forced to announce that we will be rescheduling our event to <strong>August 19-21, 2024</strong>.  We have tried rather hard to execute on this, but events have conspired to make it impossible to put on an event of the quality that we are dedicated to.  We know that the event is less than a month out at this point, and this decision was made less than an hour ago, so this is the earliest we could inform you.</p>
+
+<p>At the present time, we are moving the schedule to August 19th at Innovation Depot for the Workshops and August 20-21 at Red Mountain Theater for the conference.  We definitely realize that this creates a number of difficulties for everyone, especially our out-of-town speakers and attendees.  For that, we are deeply sorry. </p>
+
+Please accept our apologies, and we hope to see you in August.
 </div>
 
 <div class = "row">
@@ -70,15 +80,15 @@ Description = "devopsdays Birmingham, AL 2024"
    <a href="https://tickets.devopsdays.org/devopsdays-birmingham-al/2024/">Register</a> to attend the conference.
   </div>
 </div>
-
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
+    {{< event_link url-key="cfp_link" text="Propose a talk!" >}}
   </div>
-</div> -->
+</div>
+
 <!-- 
  <div class = "row">
   <div class = "col-md-2">
@@ -124,9 +134,15 @@ Description = "devopsdays Birmingham, AL 2024"
     {{< event_link page="contact" text="Get in touch with the organizers" >}}
   </div>
 </div>
-
-<!-- Uncomment if you added your city twitter name 
-
-{{< event_twitter >}} -->
-
- <a rel="me" target="_blank" href="https://social.devopsdays.org/@devopsdaysbham"><span class="btn btn-sm rounded-pill btn-info"><i class="fab fa-mastodon fa-md" ></i> Follow @devopsdaysbham@devopsdays.org</span></a>
+<div class = "row" style="padding-top: 10px">
+  <div class = "col-md-3">
+    <a rel="me" target="_blank" href="https://social.devopsdays.org/@devopsdaysbham"><span class="btn btn-sm rounded-pill btn-info" style="background-color: #605FEE"><i class="fab fa-mastodon fa-md" ></i> Follow @devopsdaysbham@devopsdays.org</span></a>    
+  </div>
+  <div class = "col-md-2">
+    <a rel="me" target="_blank" class="twitter-follow-button" href="https://twitter.com/devopsdaysbham" data-size="large">Follow @devopsdaysbham</a>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+  </div>
+  <div class = "col-md-6">
+    &nbsp;
+  </div>
+</div>

@@ -49,8 +49,8 @@ We apply the simple rule of “first come firs served” with the order being th
 
 | **SPONSORS PACKS**                                              |      **EVENT**      |      **GOLD**       |    **SPEAKERS**     |     **SILVER**      |  **BRONZE**   |    **MIC**    | **COMMUNITY** |
 |-----------------------------------------------------------------|:-------------------:|:-------------------:|:-------------------:|:-------------------:|:-------------:|:-------------:|:-------------:|
-|                                                                 |   **10'000 CHF**    |    **7'000 CHF**    |    **6'000 CHF**    |    **4'000 CHF**    | **2'000 CHF** | **2'000 CHF** |   **0 CHF**   | 
-| **Number of sponsors**                                          |        **1**        |        **8**        |        **1**        |        **9**        |               |     **1**     |               |
+|                                                                 |   **10'000 CHF**    |    **7'000 CHF**    |    **6'000 CHF**    |    **4'000 CHF**    | **1'500 CHF** | **2'000 CHF** |   **0 CHF**   | 
+| **Number of sponsors**                                          |        **<span style="color:red">Sold Out</span>**        |        **<span style="color:red">Sold Out</span>**        |        **<span style="color:red">Sold Out</span>**        |        **<span style="color:red">Sold Out</span>**        |               |     **<span style="color:red">Sold Out</span>**     |               |
 | **Free tickets** including sponsor team                         |        **8**        |        **5**        |        **4**        |        **3**        |     **1**     |     **2**     |     **0**     |
 | Logo on event **website**, **Posts on Social Network**          |          ✔          |          ✔          |          ✔          |          ✔          |       ✔       |       ✔       |       ✔       |
 | Logo on **dedicated slides**                                    |          ✔          |          ✔          |                     |                     |               |               |               |

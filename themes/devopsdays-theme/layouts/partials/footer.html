@@ -25,15 +25,15 @@
   </div> -->
   <div class="col-md-6 col-lg-4 footer-nav-col">
     <h3 class="footer-nav">CFP OPEN</h3>
-    {{- range sort $.Site.Data.events "startdate" -}}
-    {{- if ne .cancel "true" -}}
-      {{- if .cfp_date_end -}}
+    {{ $upcoming := slice }}
+    {{- $upcoming = partial "functions/get-upcoming-events" . -}}
+    {{- range sort $upcoming "startdate" -}}
+      {{- if (and .cfp_date_end .cfp_date_end) -}}
         {{- if and (ge now (time .cfp_date_start)) (ge (time .cfp_date_end) now) -}}
-          <a href = "{{ (printf "/events/%s" .name) }}" class = "footer-content">{{ .city }}</a><br />
-        {{- end -}} {{/* end: date is now or afterwards */}}
-      {{- end -}} {{/* end: if .cfp_date_end */}}
-      {{- end -}}
-    {{- end -}} {{/* end: range sort $.Site.Data.events "startdate" */}}
+          <a href = '{{ (printf "/events/%s" .name) }}' class = "footer-content">{{ .city }}</a><br />
+        {{- end -}} 
+      {{- end -}} 
+    {{- end -}} 
     <br /><a href="https://devopsdays.org/speaking">Propose a talk</a> at an event near you!<br />
 </div>
   <div class="col-md-6 col-lg-4 footer-nav-col footer-content">
@@ -58,7 +58,7 @@
     <br />
     <br />
     <a href="https://www.netlify.com">
-      <img src="{{ "/img/netlify-light.png" }}" alt="Deploys by Netlify">
+      <img src='{{ "/img/netlify-light.png" }}' alt="Deploys by Netlify">
     </a>
 </div>
     </div>

@@ -1,11 +1,15 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
+City = "Singapore"
+Year = "2024"
+talk_date = "2024-03-21"
+talk_start_time = "10:00"
+talk_end_time = "10:30"
 Title = "AI-Generated Code: Unmasking the Security Pitfalls"
 Type = "talk"
 Speakers = ["lawrence-crowther"]
-sharing_image = "singapore2024.png"
+youtube = ""
+speakerdeck = ""
+sharing_image = "2024-lawrence-crowther.jpg"
 +++
 AI’s influence on programming and software development is undeniable, offering efficiency, automation, and advanced capabilities. Yet, there lies a shadow realm of security challenges, some known and others yet to be discovered.
 

@@ -2,7 +2,7 @@
 # Each line is a file pattern followed by one or more owners.
 
 .gitignore  @devopsdays/build-infra
-config.toml @devopsdays/code-reviewers
+/config/ @devopsdays/code-reviewers
 netlify.toml    @devopsdays/build-infra
 gulpfile.js @devopsdays/build-infra
 hugoserver.sh   @devopsdays/build-infra
@@ -19,3 +19,7 @@ package.json    @devopsdays/build-infra
 /static/robots.txt @devopsdays/build-infra
 .gitpod.yml @devopsdays/build-infra
 /.github/workflow/ @devopsdays/build-infra
+.nvmrc  @devopsdays/build-infra
+/data/events/ @devopsdays/content-reviewers
+/data/sponsors/ @devopsdays/content-reviewers
+/content/events/ @devopsdays/content-reviewers

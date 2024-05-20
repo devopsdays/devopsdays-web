@@ -4,7 +4,7 @@ Type = "event"
 Description = "Sponsor DevOpsDays Kansas City 2024"
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please check out our <a href="https://assets.devopsdays.org/events/2024/kansas-city/devopsdays-KC-2024-Sponsorship-Prospectus.pdf" target="_blank">prospectus</a> or <a href="mailto:sponsors@devopsdayskc.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20KC%202024">drop us an email</a>.
+We greatly value sponsors for this open event.  If you are interested in sponsoring, please check out our <a href="https://docs.google.com/document/d/e/2PACX-1vSnwEBtIQhAvXEB_SX1iD16UJES_DNNGhmmw78VgvfuhBtl1NMjnTCLTC-IdljXyLRVoB5LGPM3OaSq/pub" target="_blank">prospectus</a> or <a href="mailto:sponsors@devopsdayskc.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20KC%202024">drop us an email</a>.
 <hr>
 
 DevOpsDays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
@@ -21,24 +21,22 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <th scope="col">BENEFITS</th>
       <th scope="col" style="text-align: center;">PLATINUM</th>
       <th scope="col" style="text-align: center;">GOLD</th>
-      <th scope="col" style="text-align: center;">BRONZE</th>
+      <th scope="col" style="text-align: center;">SILVER</th>
       <th scope="col" style="text-align: center;">COMMUNITY</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>Price</td>
-      <td align="center"><strong>$12,000</strong><br/><em>2 available</em></td>
-      <td align="center"><strong>$9,000</strong><br/><em>6 available</em></td>
+      <td align="center"><strong>$10,000</strong><br/><em>2 available</em></td>
+      <td align="center"><strong>$8,000</strong><br/><em>6 available</em></td>
       <td align="center"><strong>$4,000</strong><br/><em>unlimited</em></td>
       <td align="center"><strong>Free</strong><br/><em>unlimited</em></td>
     </tr>
     <tr style="text-align: center;">
       <td></td>
-      <td colspan="3"><small>
-      Note: Paypal payments include 3% service charge.
-      <br>
-      <a href="mailto:sponsors@devopsdayskc.org?subject=DevOpsDays%20KC%202024%20Sponsorship">Email us</a> if you prefer to pay by check</small></td>
+      <td colspan="3">
+      <a href="mailto:sponsors@devopsdayskc.org?subject=DevOpsDays%20KC%202024%20Sponsorship">Email us</a> if you prefer to pay by check or Quickbooks invoice.</td>
       <td></td>
     </tr>
     <tr style="text-align: center;">
@@ -62,7 +60,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
         </form>
       </td>
       <td>
-        <!-- bronze Paypal button  -->
+        <!-- Silver Paypal button  -->
         <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
           <input type="hidden" name="cmd" value="_s-xclick" />
           <input type="hidden" name="hosted_button_id" value="WJ3T6Q3RA9DMW" />
@@ -170,15 +168,15 @@ All special sponsors will have their logo displayed on the DevOpsDays Kansas CIt
     </tr>
   </thead>
   <tbody>
-    <tr>
+    <tr style="text-decoration:line-through;">
       <td>Lanyards (incl 1 ticket)</td>
       <td align="center">$2,500</td>
       <td>Your logo worn by every attendee</td>
       <td align="center">1</td>
     </tr>
-    <tr>
+    <tr style="text-decoration:line-through;">
       <td>Coffee/drink sponsor (incl 1 ticket)</td>
-      <td align="center">$3,500</td>
+      <td align="center">$1,500</td>
       <td>Make sure attendees are hydrated and have coffee</td>
       <td align="center">2</td>
     </tr>
@@ -190,7 +188,7 @@ All special sponsors will have their logo displayed on the DevOpsDays Kansas CIt
     </tr>
     <tr>
       <td>Breakfast sponsor (incl 1 ticket)</td>
-      <td align="center">$5,000</td>
+      <td align="center">$2,000</td>
       <td>Get the day started right for the attendees</td>
       <td align="center">2</td>
     </tr>
@@ -200,11 +198,11 @@ All special sponsors will have their logo displayed on the DevOpsDays Kansas CIt
       <td>Ensure everyone has the energy for the rest of the day</td>
       <td align="center">0</td>
     </tr>
-    <tr>
+    <tr style="text-decoration:line-through;">
       <td>Happy Hour / Evening social<br/>(incl 1 ticket)</td>
       <td align="center">Contact Us</td>
       <td>A great way to network with attendees after each day, and get your name out there</td>
-      <td align="center">1 or 2</td>
+      <td align="center">0</td>
     </tr>
     <tr>
       <td>Scholarships</td>

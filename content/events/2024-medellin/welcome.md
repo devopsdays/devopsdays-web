@@ -9,7 +9,7 @@ Description = "Welcome to DevOpsDays Medellín 2024"
     <img alt="DevOpsDays Medellin 2024" src="/events/2024-medellin/logo.png" class="img-fluid">
   </div>
   <div class="col-md-7">
-    <h2>Nuestra conferencia DevOpsDays Medellín 2024 vuelve el 27 y 28 de abril de manera presencial desde el Teatro de la Universidad de Medellín</h2>
+    <h2>Nuestra conferencia DevOpsDays Medellín 2024 vuelve el 23 y 24 de mayo de manera presencial desde la Universidad Luis Amigó</h2>
     <p>
       The DevOpsDays conference arrives to Medellín once again, Be part on May 2024!
     </p>
@@ -48,19 +48,19 @@ Description = "Welcome to DevOpsDays Medellín 2024"
       </ul>
     </p>
     </br>
- <!--     <div class="d-flex flex-row">
+      <div class="d-flex flex-row">
       <div class="col-md-12">
         <div class="p-2">
           <a
             rel="noopener"
             target="_blank"
             class="btn btn-secondary btn-block"
-            href="https://latiquetera.com/evento/devopsdays-medellin-2024"   
+            href="https://devopsdays.io/entradas"   
             style="background-color:#329cae; border-color:#72c1cd" onMouseOver="this.style.backgroundColor='#23738e'"
             onMouseOut="this.style.backgroundColor='#329cae'"
           >
             <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Buy your Tickets Now! - ¡Compra tu entrada ahora!
-          </a>  -->
+          </a>
  <!--        </div>
         <div class="p-2">
           <a
@@ -102,7 +102,7 @@ Description = "Welcome to DevOpsDays Medellín 2024"
             style="background-color:#329cae; border-color:#72c1cd" onMouseOver="this.style.backgroundColor='#23738e'"
             onMouseOut="this.style.backgroundColor='#329cae'"
           >
-            <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Contact the Organizers
+            <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Contact the Organizers   
           </a>
         </div>
       </div>
