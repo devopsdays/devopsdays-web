@@ -87,7 +87,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
       <tr>
           <td class="label">Remaining Sponsorhips (First come first serve)</td>
           <td class="platinum">1 of 1</td>
-          <td class="gold">8 of 11</td>
+          <td class="gold">6 of 11</td>
           <td class="silver">Unlimited</td>
       </tr>
       <tr>

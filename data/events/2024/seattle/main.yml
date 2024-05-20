@@ -96,6 +96,8 @@ sponsors:
     level: silver
   - id: stacklok
     level: silver
+  - id: octopus-deploy-2024
+    level: silver
 # Community
   - id: arresteddevops
     level: community
@@ -171,15 +173,15 @@ program:
     date: 2024-05-14T00:00:00-07:00
     start_time: "11:30"
     end_time: "12:00"
-  - title: "Lunch"
-    type: custom
-    date: 2024-05-14T00:00:00-07:00
-    start_time: "12:00"
-    end_time: "13:10"
   - title: "Open space pitches"
     type: open-space
     date: 2024-05-14T00:00:00-07:00
-    start_time: "13:10"
+    start_time: "12:00"
+    end_time: "12:20"
+  - title: "Lunch"
+    type: custom
+    date: 2024-05-14T00:00:00-07:00
+    start_time: "12:20"
     end_time: "13:30"
   - title: "Ignites"
     type: ignite
@@ -272,15 +274,15 @@ program:
     date: 2024-05-15T00:00:00-07:00
     start_time: "11:30"
     end_time: "12:00"
-  - title: "Lunch"
-    type: custom
-    date: 2024-05-15T00:00:00-07:00
-    start_time: "12:00"
-    end_time: "13:10"
   - title: "Open space pitches"
     type: open-space
     date: 2024-05-15T00:00:00-07:00
-    start_time: "13:10"
+    start_time: "12:00"
+    end_time: "12:20"
+  - title: "Lunch"
+    type: custom
+    date: 2024-05-15T00:00:00-07:00
+    start_time: "12:20"
     end_time: "13:30"
   - title: "Ignites"
     type: ignite

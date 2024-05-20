@@ -89,7 +89,7 @@ organizer_email: "jakarta@devopsdays.org" # Put your organizer email address her
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id:  checkmarx
+  - id:  checkmarx-before-20240519
     level: track
   - id:  naradacode
     level: platinum

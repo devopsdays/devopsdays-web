@@ -51,6 +51,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     icon: "comment"
   - name: conduct
     icon: universal-access
+  - name: conference-buddy
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -117,6 +118,8 @@ organizer_email: "amsterdam@devopsdays.org" # Put your organizer email address h
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
   # Platinum
+  - id: splunk
+    level: platinum
   # Beer
   - id: chef
     level: beer
@@ -148,7 +151,6 @@ sponsors:
   # Foodtruck
   - id: flyio
     level: foodtruck
-  # Recharge
   # Silver
   - id: sysdig
     level: silver
@@ -196,9 +198,6 @@ sponsor_levels:
   - id: foodtruck
     label: "Food Truck"
     max: 4
-  - id: recharge
-    label: "Recharge Station"
-    max: 1
   - id: silver
     label: Silver
     max: 8

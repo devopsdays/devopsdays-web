@@ -112,7 +112,15 @@ sponsors:
     level: recruiting
   - id: twosigma
     level: recruiting
-
+  - id: checkmarx
+    level: gold
+  - id: cockroachlabs
+    level: recruiting
+  - id: mongodb
+    level: recruiting
+  - id: datadog
+    level: gold
+    
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -146,8 +154,8 @@ program:
     date: 2024-06-04T00:00:00-06:00
     start_time: "09:00"
     end_time: "09:15"
-  - title: "Kenote"
-    type: custom
+  - title: "andrew-clay-shafer"
+    type: talk
     date: 2024-06-04T00:00:00-06:00
     start_time: "09:15"
     end_time: "09:45"
