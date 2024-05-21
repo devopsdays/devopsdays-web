@@ -97,11 +97,16 @@ team_members: # Name is the only required field for team members.
     image: "gian.jpeg"
 
   - name: "Jerson Brito"
-    employer: ""
+    pronouns: "Ele/Dele"
+    role: ""
+    employer: "AmbevTech"
+    bio: "Atuo com desenvolvimento de software há 8 anos e essa é minha terceira profissão, as transições de carreira não foram fáceis mas a troca de conhecimento oferecida pelas comunidades técnicas me ajudaram muito, hoje tento devolver ao máximo."
+    github: "jersonb"
+    facebook: ""
     twitter: ""
-    bio: ""
+    linkedin: "https://www.linkedin.com/in/jersonb/"
+    website: "https://jerson.me"
     image: "jerson-brito.jpeg"
-
 
   - name: "Carlos Bezerra"
     pronouns: "Ele/Dele"
