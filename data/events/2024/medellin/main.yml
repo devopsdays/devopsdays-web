@@ -89,7 +89,7 @@ team_members: # Name is the only required field for team members.
 #   website: ""
 #   github: ""
   - name: "Chrstian Gómez"
-    employer: "Olimpia IT"
+    employer: "BBVA"
     image: "christian.png"
     linkedin: "https://www.linkedin.com/in/chrisgpz/" 
 #  - name: "Camila Gallego"
