@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Innovating Software Delivery Harnessing Generative AI in DevOps and DevSecOps"
 Type = "talk"
-Speakers = ["john-willis"]
+Speakers = ["john-willis","patrick-debois"]
 +++
 **Workshop Description:**
 This workshop talk is designed to provide insights into the revolutionary impact of generative AI tools on DevOps and DevSecOps. The presentation will explore how advanced AI technologies like Large Language Models (LLMs), LangChain, LangSmith, and vector databases (RAGs) transform the software delivery and security landscape.
