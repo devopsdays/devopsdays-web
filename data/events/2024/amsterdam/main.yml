@@ -151,7 +151,6 @@ sponsors:
   # Foodtruck
   - id: flyio
     level: foodtruck
-  # Recharge
   # Silver
   - id: sysdig
     level: silver
@@ -169,6 +168,8 @@ sponsors:
   - id: atcomputing
     level: bronze
   - id: tilinthecloud
+    level: bronze
+  - id: essent
     level: bronze
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -199,9 +200,6 @@ sponsor_levels:
   - id: foodtruck
     label: "Food Truck"
     max: 4
-  - id: recharge
-    label: "Recharge Station"
-    max: 1
   - id: silver
     label: Silver
     max: 8
