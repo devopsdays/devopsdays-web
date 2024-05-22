@@ -101,6 +101,9 @@ sponsors:
   - id: cloudkite
     level: bronze
     url: https://cloudkite.io/
+  - id: servercore
+    level: bronze
+    url: https://servercore.com/
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
