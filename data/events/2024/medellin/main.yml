@@ -89,7 +89,7 @@ team_members: # Name is the only required field for team members.
 #   website: ""
 #   github: ""
   - name: "Chrstian Gómez"
-    employer: "Olimpia IT"
+    employer: "BBVA"
     image: "christian.png"
     linkedin: "https://www.linkedin.com/in/chrisgpz/" 
 #  - name: "Camila Gallego"
@@ -154,7 +154,11 @@ sponsors:
   - id: fluidattacks
     level: diamond
   - id: 2020-devco
-    level: diamond    
+    level: diamond
+  - id: oracle
+    level: diamond
+  - id: newrelic
+    level: diamond
   - id: gapss
     level: platinum
   - id: tsoft
@@ -175,10 +179,16 @@ sponsors:
     level: platinum
   - id: micro-focus
     level: platinum
+  - id: pingahla
+    level: platinum
+  - id: couchbase
+    level: platinum
+  - id: dcaballero
+    level: platinum
   - id: womenwhocode
-    level: socialmedia 
+    level: socialmedia
   - id: dcl
-    level: socialmedia     
+    level: socialmedia
 #  - id: sonatype
 #    level: diamond
 #  - id: elastic
@@ -217,7 +227,10 @@ sponsors:
     level: socialmedia
   - id: peoplecert
     level: socialmedia
-
+  - id: tdpsolutions
+    level: socialmedia
+  - id: lynx
+    level: socialmedia
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.

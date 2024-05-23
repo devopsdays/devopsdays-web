@@ -102,6 +102,12 @@ organizer_email: "minneapolis@devopsdays.org" # Put your organizer email address
 sponsors:
   - id: arresteddevops
     level: community
+  - id: thrivent
+    level: silver
+  - id: solarwinds
+    level: gold
+  - id: hackthegap
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

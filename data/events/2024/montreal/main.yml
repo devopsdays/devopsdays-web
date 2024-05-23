@@ -145,20 +145,21 @@ sponsors:
     level: gold
   - id: sherweb
     level: silver
+  - id: elastic
+    level: silver
+  - id: aptum
+    level: silver
   - id: creasavia
     level: bronze
   - id: artiq
     level: bronze
   - id: technologia
     level: bronze
-  - id: appdynamics
-    level: lunch
-    url: https://www.cisco.com/site/ca/en/solutions/full-stack-observability/index.html
   - id: desjardins
     level: coffee
   - id: spacelift
     level: coffee
-  - id: arresteddevops
+  - id: agile-montreal
     level: community
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 
@@ -181,24 +182,24 @@ sponsor_levels:
   - id: bronze
     label: Bronze
     max: 7
-  - id: lunch
-    label: Lunch
-    max: 2
-  - id: cocktail
-    label: Cocktail
-    max: 1
+  # - id: lunch
+  #   label: Lunch
+  #   max: 2
+  # - id: cocktail
+  #   label: Cocktail
+  #   max: 1
   # - id: lanyard
   #   label: Lanyard
   #   max: 1
   - id: coffee
     label: Coffee
     max: 1
-  - id: startup
-    label: Startup
-    max: 9
-  - id: non-profit
-    label: Non-profit
-    max: 5
+  # - id: startup
+  #   label: Startup
+  #   max: 9
+  # - id: non-profit
+  #   label: Non-profit
+  #   max: 5
   - id: community
     label: Community
 
@@ -408,7 +409,7 @@ sponsor_levels:
 #     date: 2024-05-28
 #     start_time: "14:35"
 #     end_time: "15:35"
-#   - title: "marino-wijay"
+#   - title: ""
 #     type: workshop
 #     date: 2024-05-28
 #     start_time: "15:35"

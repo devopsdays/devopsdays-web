@@ -197,6 +197,8 @@ sponsors:
     level: lanyard
   - id: kcddc
     level: community
+  - id: tremolo
+    level: silver
     #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 
   
