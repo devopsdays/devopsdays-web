@@ -1,0 +1,151 @@
+name: "2024-jakarta" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2024" # The year of the event. Make sure it is in quotes.
+city: "Jakarta" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdays" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+event_logo: "logo-square.jpg"
+masthead_background: "jakarta-banner.jpg"
+description: "Lets rock with DevOpsDays Jakarta!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2020-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2020-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2024-07-24T00:00:00+07:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2024-07-25T00:00:00+07:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+registration_date_start: 2024-06-01T00:00:00+07:00
+registration_date_end: 2024-07-25T00:00:00+07:00 # close registration. Leave blank if registration is not open yet.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Menara BRILiaN, 3rd Floor. Jl. Gatot Subroto No. 177A, Jakarta - Indonesia" # Defaults to city, but you can make it the venue name.
+#
+#location_address: "Online conference platform" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+ # - name: propose
+ # - name: location
+  - name: registration
+ # - name: program
+ # - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+  - name: DevOpsDaysJkt.org
+    url: "https://www.devopsdaysjkt.org/"
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Mia Fauziah"
+    linkedin: "https://www.linkedin.com/in/mia-fauziah-856750170/"
+    image: "mia_fauziah.webp" 
+  - name: "Hananto Wibowo"
+    role: "Advisor"
+    linkedin: "https://www.linkedin.com/in/hananto-wibowo-soenarto-10a38845"
+    image: "hananto_wibowo.webp"
+  - name: "Fransiscus Kaurrany"
+    role: "Advisor"
+    linkedin: "https://id.linkedin.com/in/fransiscus-kaurrany-57b25a24"
+    image: "fransiscus_kaurrany.png"
+  - name: "Iwan Teguh Santoso"
+    role: "Advisor"
+    linkedin: "https://id.linkedin.com/in/iwan-teguh-santoso-31a88a54"
+    image: "iwan_teguh_santoso.png"
+  - name: "Hendi Santika"
+    role: "Advisor"
+    linkedin: "https://www.linkedin.com/in/hendisantika/"
+    image: "hendi_santika.png"
+  - name: "Made Mulia Indrajaya"
+    role: "Advisor"
+    linkedin: "https://www.linkedin.com/in/mademulia/"
+    image: "made_mulia.webp"
+organizer_email: "jakarta@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id:  bri
+    level: track
+  - id:  naradacode
+    level: platinum
+  - id:  f5
+    level: platinum
+  - id:  opentext
+    level: platinum
+  - id:  redhat
+    level: platinum
+  - id: grafanalabs-before-20230308
+    level: silver
+  - id: devops-institute
+    level: community
+  - id: itilindonesia
+    level: community
+  - id: asosiasiagileindonesia
+    level: community
+  - id: girlskode
+    level: community
+  - id: androiddevelopernasional
+    level: community
+  - id: golangid
+    level: community
+  - id: dailysocialid
+    level: media
+  - id: mavemagz
+    level: media
+  - id: mysqlindonesia
+    level: community
+  - id: tamankodekode
+    level: community
+  - id: petanikode
+    level: community
+  - id: cakruk
+    level: community
+  - id: androidbandung
+    level: community
+  - id: orangsiber
+    level: community
+  - id: kotlinuserindonesia
+    level: community
+  - id: devsecopsindonesia
+    level: community
+  - id: jvm
+    level: community
+  - id: isqa
+    level: community
+  - id: infokomputer
+    level: media
+  - id: filemagz
+    level: media
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: track
+    label: Ultimate
+    max: 1
+  - id: platinum
+    label: Platinum
+    max: 5 
+  - id: gold
+    label: Gold
+    max: 6
+  - id: silver
+    label: Silver
+    max: 6
+  - id: community
+    label: Community
+  - id: media
+    label: Media
