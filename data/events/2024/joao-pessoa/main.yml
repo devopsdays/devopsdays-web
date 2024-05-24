@@ -1,0 +1,277 @@
+name: "2024-joao-pessoa" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2024" # The year of the event. Make sure it is in quotes.
+city: "João Pessoa" # The displayed city name of the event. Capitalize it.
+event_twitter: "dodjoaopessoa" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays is coming to João Pessoa!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+event_logo: "event-logo-square.png"
+
+# All dates are in unquoted 2024-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2024-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: "2024-11-09T08:00:00-03:00" # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: "2024-11-09T17:00:00-03:00" # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2024-05-15T10:00:00-03:00 # start accepting talk proposals.
+cfp_date_end: 2024-08-02T07:00:00-03:00 # close your call for proposals.
+
+#cfp_date_announce: 2024-08-27T08:00:00-03:00 # inform proposers of status
+cfp_open: "true"
+cfp_link: "https://talks.devopsdays.org/devopsdays-jo-o-pessoa-2024/cfp" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+#registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+#registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+
+#registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+#registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+# coordinates: "" # No longer used
+
+location: "João Pessoa" # Defaults to city, but you can make it the venue name.
+location_address: "Centro Universitário - UNIESP - BR-230, Km 14 - s/n - Morada Nova, Cabedelo - PB, 58109-303" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: propose
+  - name: location
+ # - name: registration
+ # - name: program
+ # - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct-pt-br
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+
+
+  - name: "Adrieny Dantas"
+    pronouns: "Ela/Dela"
+    employer: "NEON"
+    bio: "Quase 5 anos no mundo de TI e 3 como DevOps, gosto de resolver bugs e amo gatos!"
+    github: “adrienyds”
+    facebook: ""
+    twitter: ""
+    linkedin: "https://www.linkedin.com/in/adrienyds/"
+    website: ""
+    mastodon: ""
+    image: "adrienydantas.jpeg"
+
+  - name: "Ailton Macedo"
+    pronouns: "Ele/Dele"
+    role: ""
+    employer: ""
+    bio: "Sou estudante de programação desde 2022, recentemente tomei a decisão de realizar uma mudança significativa em minha carreira, seguindo para área tecnologia e desenvolvimento de software. Completei minha graduação de Analise e Desenvolvimento de sistemas e estou começando MBA em Data Science, Analytics e BI.  "
+    github: "Ailtonbsb"
+    facebook: ""
+    twitter: ""
+    linkedin: "https://www.linkedin.com/in/ailton-macedo/"
+    website: ""
+    mastodon: ""
+    image: "ailton-macedo.jpeg"
+
+  - name: "Carlos Bezerra"
+    pronouns: "Ele/Dele"
+    role: ""
+    employer: "Conta Simples"
+    bio: "Profissional de TI com mais de 15 anos de experiência, especializado em projetos de Infraestrutura de TI, arquitetura de sistemas, implantação em nuvem, micro serviços, automatização utilizando Phyton, Bash e Powershell, além de experiencia com gerenciamento de times de DevOps/Plataforma e infraestrutura, palestrante, mentor e organizador do DevOpsDays João Pessoa."
+    github: "cdiegoo"
+    facebook: ""
+    twitter: "CarlosDiegoB"
+    linkedin: "https://www.linkedin.com/in/carlosdbezerra/"
+    website: ""
+    mastodon: ""
+    image: "carlos-bezerra.jpeg"
+
+  - name: "Cauan Cabral"
+    pronouns: "Ele/Dele"
+    role: ""
+    employer: ""
+    bio: "Estudante de programação desde os anos 2004, entusiasta do movimento software livre e de organização em comunidades. Já fundou e participou de diversos eventos e grupos como PHPMS, FreedomDay MS, Install Fests e outros. Hoje atua como líder técnico em todas as pontas de projetos, com um carinho muito especial por DevOps."
+    github: "cauancabral"
+    facebook: ""
+    twitter: "cauancabral"
+    linkedin: "https://www.linkedin.com/in/cauancabral/"
+    website: ""
+    mastodon: "https://bolha.us/@cauancabral"
+    image: "cauan-cabral.jpeg"
+
+  - name: "Cinthia Lindolfo"
+    pronomes: "Ela/Dela"
+    função: ""
+    empregador(a): "Estagiária na BRGWeb"
+    bio: "Graduanda em Sistema de Informações pela UFPB campus IV, estou no 7° período, já atuei com Analista de dados no projeto de Extensão - ENEX - Tecnologia Cidadã RT, onde recebi o prêmio pelo projeto, atualmente estou como voluntária no projeto de PIBITI E-bookv - Livro literário pra crianças autodiversas, e também estou estagiando na empresa BRGWeb a 4 meses como Product Owner na área de Gestão de projetos de desenvolvimento. Sou apaixonada em aprender, gosto das áreas de gestão, gerente de projetos, enganharia de software, analise de dados, desenvolviemento de frontend. Gosto de viajar, visitar minha família, maratonar series com minha esposa, amo gatos(as)."
+    github: "https://github.com/cinthialindolfo"
+    facebook: "https://www.facebook.com/Cinthialindolfo/"
+    twitter: "https://twitter.com/CinthiaLindolfo"
+    linkedin: "https://www.linkedin.com/in/cinthia-lindolfo/"
+    website: "X"
+    mastodon: "X"
+    image: "cinthialindolfo.jpeg"
+
+  - name: "Diego Cananea"
+    pronouns: "Ele/Dele"
+    role: ""
+    employer: "TJPB"
+    bio: "Mais de 15 anos trabalhando na área de infraestrutura de TI, apaixonado por software livre e atualmente lider técnico de um time de DevOps. Curto muito surfar e ir a shows de punk rock!"
+    github: "https://github.com/dcna-dev"
+    facebook: ""
+    twitter: "diegocananea  "
+    linkedin: "https://www.linkedin.com/in/dcna/"
+    website: ""
+    mastodon: ""
+    image: "diegocananea.jpeg"
+
+  - name: "Erick Araken"
+    pronouns: "Ele/Dele"
+    role: ""
+    employer: ""
+    bio: "Sou programador de software bastante criativo e  inovador. Gosto de empreender na área da tecnologia e compartilhar conhecimento através do   desenvolvimento de aplicações para a sociedade. Por isso, atuo na equipe de   acesso e difusão de informações e conhecimentos sobre o Semiárido   brasileiro no INSA e participei como integrante de um projeto de automação   comercial na DataPay onde desenvolvi minhas habilidades empreendedoras   em um negócio inovador. Sou formado em técnico em informática pelo IFPB e graduando em Ciência da Computação na UFCG e estou atualmente no sétimo período. Durante a graduação fui membro efetivo da empresa júnior CodexJr, palestrante da semana X da CodexJr e participei do Evento que dissemina a cultura OpenSource na UFCG, assim como também competi na maratona de Programação Hacktoberfest OpenDevUFCG"
+    github: "ErickBrth"
+    facebook: ""
+    twitter: ""
+    linkedin: "https://www.linkedin.com/in/erickaraken/"
+    website: ""
+    mastodon: ""
+    image: "erick-araken.jpeg"
+
+  - name: "Fabiana Oliveira"
+    pronouns: "Ela/Dela"
+    role: ""
+    employer: ""
+    bio: "Sou apaixonada por aprender, ensinar e explorar novas áreas, o que me levou a fazer a transição de carreira da advocacia para a tecnologia. Recentemente, concluí o curso de Tecnologia em Sistemas para Internet no Instituto Federal da Paraíba, onde aprofundei meus conhecimentos em desenvolvimento de software e análise de dados. No meu tempo livre, adoro ir à praia e passar tempo com minha família."
+    github: "fabianabeda"
+    facebook: ""
+    twitter: ""
+    linkedin: "https://www.linkedin.com/in/fabiana-o-beda-m/"
+    website: ""
+    mastodon: ""
+    image: "fabiana-oliveira.jpeg"
+
+  - name: "Felipe Targino"
+    pronouns: "Ele/Dele"
+    role: ""
+    employer: ""
+    bio: "Desenvolvedor backend com forte ênfase em gestão de projetos e análise de dados, possuindo habilidades avançadas em desenvolvimento de software e experiência significativa em liderança de equipes. Participo de competições e dedico-me ao ensino de programação, compartilhando conhecimentos e contribuindo para a formação de novos profissionais na área. "
+    github: "targinofelipe1"
+    facebook: ""
+    twitter: ""
+    linkedin: "https://www.linkedin.com/in/felipe-targino/"
+    website: ""
+    mastodon: ""
+    image: "felipe-targino.jpeg"
+
+  - name: "Gian Cavalcante"
+    pronouns: "Ele/Dele"
+    role: ""
+    employer: "SPIRITSEC"
+    bio: "Sou apaixonado por Linux a mais de 10 anos, defensor de software livre e fomentador de comunidades. Trabalho com devops desde 2019 e em 2022 mergulhei de cabeça nos DevOpsDays, fui organizador do devopsdays de Vitória 2022, e atualmente componho as organizações dos DevOpsDays de Natal, Vitória e São Paulo."
+    github: "gianlcl"
+    facebook: ""
+    twitter: "gianlcl"
+    linkedin: "https://www.linkedin.com/in/gian-cavalcante/"
+    website: ""
+    mastodon: "https://bolha.us/@gianlcl"
+    image: "gian.jpeg"
+
+  - name: "Gustavo Sávio"
+    pronouns: "Ele/Dele"
+    role: "Site Reliability Engineer"
+    employer: "Arquivei"
+    bio: "Pai, otaku, curte viajar e praticar esportes! Tech Manager na Arquivei, com foco em inovação, cloud, containers, IaC e security."
+    github: "gustavosavio"
+    facebook: ""
+    twitter: ""
+    linkedin: "https://www.linkedin.com/in/gustavosavio/"
+    website: ""
+    mastodon: ""
+    image: "gustavo-savio.jpeg"
+
+  - name: "Jerson Brito"
+    pronouns: "Ele/Dele"
+    role: ""
+    employer: "AmbevTech"
+    bio: "Atuo com desenvolvimento de software há 8 anos e essa é minha terceira profissão, as transições de carreira não foram fáceis mas a troca de conhecimento oferecida pelas comunidades técnicas me ajudaram muito, hoje tento devolver ao máximo."
+    github: "jersonb"
+    facebook: ""
+    twitter: ""
+    linkedin: "https://www.linkedin.com/in/jersonb/"
+    website: "https://jerson.me"
+    image: "jerson-brito.jpeg"
+
+  - name: "Laíne Cassiano"
+    pronouns: "Ela/Dela"
+    role: ""
+    employer: ""
+    bio: "Sou estudante de  Análise e Desenvolvimento de sistemas, pela UNIESP. Há quase 2 anos interessei na área tecnológia e fiz a transição de carreira de Relações Internacionais para tecnologia. Cedenta por conhecimento foquei na área de Front - end. Em momento livre, gosto de ir a praia e gosto de board games."
+    github: "LaineCassiano"
+    facebook: ""
+    twitter: ""
+    linkedin: "https://www.linkedin.com/in/lainecassiano/"
+    website: ""
+    mastodon: ""
+    image: "laine-cassiano.jpeg"
+
+  - name: "Leandra Oliveira"
+    pronouns: "Ela/Dela"
+    role: "Analista de Software Jr."
+    employer: "Bemobi"
+    bio: "Sou formada no curso de Ciência da Computação na Universidade Federal de Campina Grande ( UFCG ) no Brasil. Atualmente faço parte do Core Team do OpenDevUFCG, organizadora do evento Mulher Tech Sim Senhor da WTM. Desenvolvedora full stack na Bemobi atualmente e ja fui coordenadora da organização Elas@computação por dois anos, monitorei a disciplina de teoria dos grafos e participei de projetos CodeSQ como desenvolvedor frontend no SPLab, analista de dados no projeto IATest no LSD e monitora no projeto InSocialTec no laboratório VIRTUS. Sou completamente apaixonado por desenvolvimento frontend, grafos e também muito interessada em arquitetura de software. Adoro ouvir música  dançar💓 🎶, assistir filmes, séries e compartilhar com meus amigos."
+    github: "LeandraOS"
+    facebook: ""
+    twitter: ""
+    linkedin: "https://www.linkedin.com/in/leandra-osilva"
+    website: ""
+    mastodon: ""
+    image: "leandra-oliveira.jpeg"
+
+  - name: "Marcelo Freire"
+    pronouns: "Ele/Dele"
+    role: ""
+    employer: "Storyblok"
+    bio: "DevOps na Storyblok, ama containers , infraestrutura como código. Corredor Amador, Maratonista, Otaku e Vegano."
+    github: ""
+    facebook: ""
+    twitter: "marcelofreire28"
+    linkedin: "https://www.linkedin.com/in/marcelofreire88/"
+    website: ""
+    mastodon: ""
+    image: "marcelo-freire.jpg"
+
+
+organizer_email: "joao-pessoa@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  # - id: samplesponsorname
+    # level: gold
+ #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  # - id: arresteddevops
+    # level: community
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: gold
+    label: Gold
+#    max: 10
+  - id: silver
+    label: Silver
+    max: 0 # This is the same as omitting the max limit.
+  - id: bronze
+    label: Bronze
+  - id: community
+    label: Community

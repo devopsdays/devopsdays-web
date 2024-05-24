@@ -24,7 +24,7 @@ registration_date_start: # start accepting registration. Leave blank if registra
 registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://lu.ma/0442qp0i" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -36,7 +36,7 @@ location_address: "Karen Ole Sangale Rd, off Langata Road, in Madaraka Estate" #
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
   - name: location
- # - name: registration
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -98,6 +98,12 @@ sponsors:
   - id: strathmore-university
     level: platinum
     url: https://strathmore.edu/
+  - id: cloudkite
+    level: bronze
+    url: https://cloudkite.io/
+  - id: servercore
+    level: bronze
+    url: https://servercore.com/
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

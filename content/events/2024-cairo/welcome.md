@@ -7,7 +7,7 @@ Description = "DevOpsDays Cairo 2024"
 <p style="text-align: left">DevOpsDays Cairo is a one-day event.<br />
   For the 7<sup>th</sup> consecutive year, SECC/ITIDA is organizing DevOpsDays Cairo 2024 in cooperation with ATOS, DXC Technology and Orange Labs.</p>
 <p><strong>Date &amp; Time:</strong><strong>&nbsp; </strong>Wednesday, Sep 25, 2024</p>
-
+<p><strong>Call for Proposals is Now Open!</strong></p>
 <p>Follow us, adjust your calendar notifications and stay tuned!</p>
 
 
