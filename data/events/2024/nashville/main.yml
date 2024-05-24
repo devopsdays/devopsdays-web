@@ -137,8 +137,8 @@ sponsors:
    level: gold
  - id: nashville-data-nerds
    level: community
-#  - id: gitlab
-#    level: gold
+ - id: nss
+   level: community
 #  - id: instana
 #    level: silver
 #  - id: trendmicro
