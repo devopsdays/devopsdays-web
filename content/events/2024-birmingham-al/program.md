@@ -22,11 +22,11 @@ Description = "Program for DevopsDays Birmingham, AL 2024"
 <br />
 </div>
 <div style="padding: 5px; margin-top: 10px; margin-bottom: 10px; background:#8ad0d3;">
-  All workshops are taking place on April 16th at <b>Innovation Depot</b>. 
+  All workshops are taking place on August 19th at <b>Innovation Depot</b>.
 </div>
 
 <div class="program-talk" style="padding: 5px; margin-top: 10px; margin-bottom: 10px;">
-  All talks and keynotes take place in the <b>Main Theatre</b>. 
+  All talks and keynotes take place in the <b>Main Theatre</b> August 20th and 21th.
 </div>
 
 <style>
