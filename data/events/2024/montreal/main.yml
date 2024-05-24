@@ -159,7 +159,7 @@ sponsors:
     level: coffee
   - id: spacelift
     level: coffee
-  - id: arresteddevops
+  - id: agile-montreal
     level: community
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 
@@ -182,24 +182,24 @@ sponsor_levels:
   - id: bronze
     label: Bronze
     max: 7
-  - id: lunch
-    label: Lunch
-    max: 2
-  - id: cocktail
-    label: Cocktail
-    max: 1
+  # - id: lunch
+  #   label: Lunch
+  #   max: 2
+  # - id: cocktail
+  #   label: Cocktail
+  #   max: 1
   # - id: lanyard
   #   label: Lanyard
   #   max: 1
   - id: coffee
     label: Coffee
     max: 1
-  - id: startup
-    label: Startup
-    max: 9
-  - id: non-profit
-    label: Non-profit
-    max: 5
+  # - id: startup
+  #   label: Startup
+  #   max: 9
+  # - id: non-profit
+  #   label: Non-profit
+  #   max: 5
   - id: community
     label: Community
 

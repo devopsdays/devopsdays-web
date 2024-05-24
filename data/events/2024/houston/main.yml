@@ -112,7 +112,15 @@ sponsors:
     level: recruiting
   - id: twosigma
     level: recruiting
-
+  - id: checkmarx
+    level: gold
+  - id: cockroachlabs
+    level: recruiting
+  - id: mongodb
+    level: recruiting
+  - id: datadog
+    level: gold
+    
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -146,8 +154,8 @@ program:
     date: 2024-06-04T00:00:00-06:00
     start_time: "09:00"
     end_time: "09:15"
-  - title: "Kenote"
-    type: custom
+  - title: "andrew-clay-shafer"
+    type: talk
     date: 2024-06-04T00:00:00-06:00
     start_time: "09:15"
     end_time: "09:45"
@@ -222,11 +230,15 @@ program:
     date: 2024-06-04T00:00:00-06:00
     start_time: "17:00"
     end_time: "17:15"
-  - title: "Evening event"
+  - title: "Tech+Tequila Talk @ The Cannon West Houston"
     type: custom
     date: 2024-06-04T00:00:00-06:00
-    start_time: "19:00"
-    end_time: "late"
+    start_time: "17:30"
+    end_time: "20:00"
+    custom_url: "https://www.eventbrite.com/e/techtequila-talk-devops-days-tickets-909969422037"
+    comments: "Evening event at The Cannon West Houston (https://maps.app.goo.gl/qXJLXPjuXAh46DWD8). 
+    Sponsored by the Blue People. 
+    Please register at https://www.eventbrite.com/e/techtequila-talk-devops-days-tickets-909969422037"
   - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2024-06-05T00:00:00-06:00

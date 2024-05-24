@@ -5,9 +5,9 @@ aliases = ["/events/2024-organizer-summit/", "/events/2024-organiser-summit/"]
 Description = "devopsdays Organizer Summit 2024"
 +++
 
-<!-- <div style="text-align:center;">
+<div style="text-align:center;">
   {{< event_logo >}}
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">

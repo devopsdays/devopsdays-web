@@ -1,5 +1,5 @@
 +++
-Title = "Patrocínio"
+Title = "Sponsor"
 Type = "event"
 Description = "Sponsor devopsdays Belo Horizonte 2024"
 +++
@@ -22,7 +22,7 @@ Visando valorizar a participação de instituições na realização do evento, 
 <h3> <b>INFORMAÇÃO IMPORTANTE SOBRE O PATROCÍNIO</b></h3>
 Cada cota de investimento, além dos benefícios abaixo também dá direito a mais um beneficio a sua escolha. 
 Para entender qual benefício você pode escolher, entre em contato no e-mail devopsdaysbhz@gmail.com ou visite nosso midia kit clicando no icone abaixo:</p> 
-<p><a href="https://drive.google.com/file/d/1wT8Xoet8YHI0dmcxgfj8rdU8q5wBNOVI/view?usp=sharing"><i class="fa fa-download" style="font-size:30px"></i></a></p>
+<p><a href="https://drive.google.com/file/d/1qtUfaBgc7pZb9rKXJOYLcPNlpvpBdTSn/view?usp=sharing"><i class="fa fa-download" style="font-size:30px"></i></a></p>
 </div>
 <br>
 
