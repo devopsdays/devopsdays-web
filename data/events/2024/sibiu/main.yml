@@ -40,7 +40,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
  # - name: registration
   - name: program
- # - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -129,7 +129,7 @@ program:
     date: 2024-06-06T00:00:00+08:00
     start_time: "09:00"
     end_time: "10:00"
-  - title: "TBA SLOT 2"
+  - title: "danny-afahounko"
     type: talk
     date: 2024-06-06T00:00:00+08:00
     start_time: "10:00"
