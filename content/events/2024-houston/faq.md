@@ -22,6 +22,7 @@ If you don't see an answer there, please drop us an email at [{{< email_organize
 <li><a href="#Directions">Where is the conference center?</a></li>
 <li><a href="#Parking">Where to park?</a></li>
 <li><a href="#Food">Will food be provided?</a></li>
+<li><a href="#Raffle">How will Community Builder Raffle work?</a></li>
 <li><a href="#Bring">What to bring</a></li>
 <li><a href="#Communications">Communications and Collaboration</a></li>
 </ol>
@@ -46,15 +47,28 @@ The Houston / CityCentre facility is located at the corner of intersection of IH
 Check out <a href="/events/2024-houston/location">Location</a> page for directions and map of the parking lot(s).
 
 <a name="Food"><h3>4. Will food be provided?</h3></a>
-We will provide bagels, cream cheese, and coffee breakfast and hot lunch on both days. There will be all-day beverage service.
+We will provide bagels, cream cheese, and coffee breakfast and hot lunch on both days. There will be all-day beverage service including coffee, tea, juices, and soft drinks (in the afternoon).
 
-<a name="Bring"><h3>5. What to bring</h3></a>
+<a name="Raffle"><h3>5. How will Community Builder Raffle work?</h3></a>
+
+<p>DevOpsDays is all about building and strengthening our local tech community. This year, every attendee of DevOpsDays Houston 2024 will get a chance to win a Meta Quest 3 during the conference! In addition, those who help us build our community will increase their chances of winning significantly!
+For more details refer to the <a href="https://assets.devopsdays.org/events/2024/houston/devopsdays-houston-2024-community-builder-flyer.pdf">Community Builder flyer</a>.
+</p>
+<p>
+When you check-in to the conference and receive your badge, you will also receive a number of numbered raffle tickets based on the type of ticket you purchased for the conference: holders of <i>Community Builder</i> ticket will receive 5 raffle tickets, <i>Early Bird</i> ticket holders will receive 2 raffle tickets, and those with <i>Regular Admission</i> tickets will receive 1 raffle ticket. Additionally, if your friends used your personal <i>Community Builder</i> or <i>Early Bird</i> discount to purchase their tickets, you will be given additional raffle tickets accordingly. 
+</p>
+
+<p>We will call the winning ticket number and hand out the prize, right before Ignite Talks/right after lunch on day 2, June 5, 2024, at approximately 12:50pm. You must be present and show your raffle ticket to win! 
+</p>
+
+
+<a name="Bring"><h3>6. What to bring</h3></a>
 There will be keynote addresses, lightning talks, and open spaces, so make sure you bring your listening ears for talks and bright ideas for open spaces! <br/>
 
 Check the <a href="/events/2024-houston/program/">event program</a>. <br/>
  
 
-<a name="Communications"><h3>6. Communications and Collaboration</h3></a>
+<a name="Communications"><h3>7. Communications and Collaboration</h3></a>
 <h5>Twitter & LinkedIn Announcements</h5>
 Before, during and after the event you can get announcments and stay in touch with us by following us on <a href="https://twitter.com/DevOpsDaysHTown">Twitter</a> or <a href="https://www.linkedin.com/company/devopsdays-houston">LinkedIn</a>.
 <h5>Slack Collaboration</h5>
