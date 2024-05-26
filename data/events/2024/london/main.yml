@@ -118,6 +118,10 @@ sponsors:
     level: bronze
   - id: github
     level: bronze
+  - id: dxw
+    level: bronze
+  - id: syntasso
+    level: bronze
   # community sponsors
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
