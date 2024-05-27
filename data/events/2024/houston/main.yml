@@ -236,7 +236,7 @@ program:
     start_time: "17:30"
     end_time: "20:00"
     custom_url: "https://www.eventbrite.com/e/techtequila-talk-devops-days-tickets-909969422037"
-    comments: "Evening event at The Cannon West Houston (https://maps.app.goo.gl/qXJLXPjuXAh46DWD8). 
+    comments: "Evening event at [The Cannon West Houston](https://maps.app.goo.gl/qXJLXPjuXAh46DWD8). 
     Sponsored by the Blue People. 
     Please register at https://www.eventbrite.com/e/techtequila-talk-devops-days-tickets-909969422037"
   - title: "Registration, Breakfast, Sponsors"
