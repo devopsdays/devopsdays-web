@@ -21,13 +21,14 @@ Description = "DevOpsDays Nashville 2024"
   <div class = "col-md-3">
     {{< event_logo >}}
   </div>
-  <div class = "col-md-6">
-    <h2><p>Welcome to DevOps Days Nashville 2024!</p></h2>
-    <p>We are excited to announce DevOps Days will be coming back to {{< event_location >}} on July 10th and 11th.</p>
-    <br>
-    <h2><p><a href="https://www.papercall.io/devopsdays-nashville-2024">Call for Proposals Now Open!</a></p></h2>
+  <div class = "col-md-6" style="box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 10px; padding: 10px; border-radius: 10px">
+    <h1><p>Welcome to DevOps Days Nashville 2024</p></h1>
+    <p>DevOps Days will be coming back to {{< event_location >}} on July 10th and 11th.</p>
+    <h2 style="color: #C19A6B; display: inline-block;"><p>Guest Keynote Speaker John Willis!</h2>
+    <p>We are happy to announce that <a href="https://itrevolution.com/author/john-willis/" target="_blank">John Willis</a> is our keynote speaker!</p>
+    <h2><p><a href="https://www.papercall.io/devopsdays-nashville-2024" style="color: #C19A6B">Call for Proposals Open Until May 31st</a></p></h2>
     <p>Do you have a great topic for the community?  Visit our <a href="https://www.papercall.io/devopsdays-nashville-2024">Call for Speakers/Papers</a> site today!  We look forward to hearing from you.</p>
-  
+    
   </div>
 </div>
 

@@ -2,7 +2,7 @@ name: "2024-denver" # The name of the event. Four digit year with the city name 
 year: "2024" # The year of the event. Make sure it is in quotes.
 city: "Denver" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysrox" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "Devopsdays is coming to Denver!" # Edit this to suit your preferences
+description: "Devopsdays is coming back to Denver!" # Edit this to suit your preferences
 ga_tracking_id: "G-9SR9GD94E0" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2024-MM-DDTHH:MM:SS+TZ:TZ, like this:
@@ -21,17 +21,17 @@ cfp_date_announce:  2024-06-04T23:59:59-06:00 # inform proposers of status
 cfp_link: "https://talks.devopsdays.org/devopsdays-denver-2024/cfp" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2024-01-01T23:59:59-06:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: 2024-09-14T23:59:59-06:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_end: 2024-09-16T23:59:59-06:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://tickets.devopsdays.org/devopsdays-denver/2024/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
-coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "TBA" # Defaults to city, but you can make it the venue name.
+coordinates: "39.76501182324041, -104.98017114451217" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "14er Brewing & Beer Garden" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "3120 Blake St Ste C, Denver, CO 80205" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
@@ -40,8 +40,6 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: program
  # - name: speakers
   - name: sponsor
-  - name: propose
-    url: https://talks.devopsdays.org/devopsdays-denver-2024/cfp
   - name: contact
   - name: conduct
 # - name: example

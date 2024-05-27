@@ -1,7 +1,7 @@
 +++
 Title = "Sponsor"
 Type = "event"
-Description = "Sponsor DevOpsDays São Paulo 2024"
+Description = "Patrocínio - DevOpsDays São Paulo 2024"
 +++
 
 Valorizamos muito os patrocinadores deste evento aberto. Se você estiver interessado em patrocinar, nos envie uma mensagem: https://wa.me/5527988242641?text=Oi%21+Gostaria+de+obter+informa%C3%A7%C3%B5es+sobre+o+patroc%C3%ADnio+do+DevOpsDays+S%C3%A3o+Paulo.

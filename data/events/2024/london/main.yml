@@ -111,10 +111,16 @@ sponsors:
   - id: elastic
     level: gold
   # silver sponsors
+  - id: macstadium
+    level: silver
   # bronze sponsors
   - id: commify
     level: bronze
   - id: github
+    level: bronze
+  - id: dxw
+    level: bronze
+  - id: syntasso
     level: bronze
   # community sponsors
 
