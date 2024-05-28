@@ -16,12 +16,7 @@ opportunity to highlight a new section we’ve added to the Organizing Guide:
 [Good, Better, Best
 Budget](https://devopsdays.org/organizing#good-better-best-budget).
 
-Historically, global core organizers have not provided any financial support to
-individual city events. This isn’t changing. However, we would like to at least
-help events (especially newer ones who may not have their own processes in place
-for this) consider what would make their event successful, in terms of the
-number of attendees, the facilities offered, and the amount of sponsors that
-takes to happen. 
+This section is all about helping events—especially newer ones who may not have their own processes in place for this—to understand what would make their event financially viable, in terms of the number of attendees, the facilities offered, and the amount of sponsorship necessary to make these things happen. 
 
 Consider how many attendees would make your event “well attended”, and how many
 would be “overcrowded” (and how many your venue would support, keeping in mind
