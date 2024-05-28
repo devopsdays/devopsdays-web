@@ -195,8 +195,8 @@ sponsors:
   #   url: https://www.trustcontrol.com.br/
   # - id: paloalto
   #   level: platinum
-  #   url: https://www.paloaltonetworks.com/
-  - id: SaveInCloud
+  #   url: httpsg://www.paloaltonetworks.com/
+  - id: saveincloud
     level: gold
     url: https://saveincloud.com/ 
   # - id: csi-tech
