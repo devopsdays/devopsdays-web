@@ -17,6 +17,7 @@ Icons = "false"
       <div class="col-lg-3 col-md-3 program-element program-ignite">Ignite</div>
 			<div class="col-lg-3 col-md-3 program-element program-keynote" style="background-color:#B4C6E7">Keynote</div>
 			<div class="col-lg-3 col-md-3 program-element program-open-space">Open Space</div>
+      <div class="col-lg-3 col-md-3 program-element program-custom" style="background-color:#EA9999">Community Builder Raffle</div>
       <div class="col-lg-3 col-md-3 program-element">&nbsp;</div>
 		</div>
 	</div>
