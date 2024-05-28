@@ -98,6 +98,9 @@ team_members: # Name is the only required field for team members.
   - name: "Sophie Weston"
     pronouns: "she/her"
     twitter: "soph_weston"
+  - name: "Matt Slane"
+    pronouns: "he/him"
+    linkedin: "https://www.linkedin.com/in/mjslane/"
 
 organizer_email: "london@devopsdays.org" # Put your organizer email address here
 
