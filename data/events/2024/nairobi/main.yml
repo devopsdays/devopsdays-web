@@ -104,6 +104,12 @@ sponsors:
   - id: servercore
     level: bronze
     url: https://servercore.com/
+  - id: propel
+    level: bronze
+    url: https://www.withpropel.com/
+  - id: moringa
+    level: bronze
+    url: https://moringaschool.com/
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
