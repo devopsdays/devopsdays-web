@@ -20,9 +20,9 @@ We expect over 300 attendees based on venue capacity and past participation, and
 
 DevOpsDays DC does not share registration information directly with sponsors, but feel free to ask attendees for their contact details.
 
-## Kubernetes Days DC 2024 Co-Sponsorship Opportunities
+### Kubernetes Days DC 2024 Co-Sponsorship Opportunities
 
-Kubernetes Days DC (site launching March 2024) is a one-day event on Tuesday, September 23, also at the American Red Cross headquarters.
+Kubernetes Days DC (site launching March 2024) is a one-day event on Tuesday, September 24, also at the American Red Cross headquarters.
 
 Sponsor both events and:
 
@@ -96,7 +96,7 @@ KDC expects about 150 attendees for their event.
     <tr>
     <td>Available sponsorships</td>
       <td class="yes"><strong>6</strong></td>
-      <td class="yes"><strong>4</strong></td>
+      <td class="yes"><strong>3</strong></td>
       <td class="yes"><strong>6</strong></td>
   </tr>
   <tr>
@@ -207,7 +207,7 @@ Refunds: Full sponsor refunds are available until 6/1/2024. Sponsor refunds betw
 * Dedicated room and 60-minute time slot for up to 30 participants
 * Available only to Platinum-level sponsors
 
-### Happy Hour sponsorship
+### Social Hour sponsorship
 
 The American Red Cross is an alcohol-free facility. If you would like to sponsor
 (or co-sponsor) a social event at a local venue after the event Social Hour, we
@@ -216,14 +216,32 @@ are ready to help you. Please contact {{< email_organizers >}}.
 ### Closed Captioning Sponsor - Price $4,500 USD (1 spot)
 
 * Your logo by the screen where talks are transcribed
-  * 1 included ticket
-  * Event MC pitch and introduction
+* 1 included ticket
+* Event MC pitch and introduction
 
-### Lanyard Sponsor - Price $4,500 USD (1 spot)
+### ~~Lanyard Sponsor - Price $4,500 USD (1 spot)~~
 
 * Your logo and colors around every attendee's credential
-  * 1 included ticket
-  * Event MC pitch and introduction
+* 1 included ticket
+* Event MC pitch and introduction
+
+### Breakfast Sponsor - Price $2,000 USD (1 spot)
+
+* Signage with your logo by the breakfast tables during breakfast both days
+* 1 included ticket
+* Event MC pitch and introduction
+
+### Lunch Sponsor - Price $6,000 USD (1 spot)
+
+* Signage with your logo by the lunch tables during lunch both days
+* 2 included tickets
+* Event MC pitch and introduction
+
+### Break Sponsor - Price $3,000 USD (1 spot)
+
+* Signage with your logo by the break tables during morning and afternoon breaks both days
+* 1 included ticket
+* Event MC pitch and introduction
 
 ### Community Sponsorship (3 spots)
 
