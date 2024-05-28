@@ -162,12 +162,16 @@ sponsors:
     level: silver
   - id: hcscompany
     level: silver
+  - id: komodor
+    level: silver
   # Bronze
   - id: devleaps
     level: bronze
   - id: atcomputing
     level: bronze
   - id: tilinthecloud
+    level: bronze
+  - id: essent
     level: bronze
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -245,7 +249,7 @@ program:
     end_time: "12:00"
     comments: "Studio"
 
-  - title: "ws-john-willis"
+  - title: "ws-john-willis-patrick-debois"
     type: workshop
     date: 2024-06-19T00:00:00+02:00
     start_time: "09:00"
