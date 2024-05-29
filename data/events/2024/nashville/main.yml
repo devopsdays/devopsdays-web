@@ -135,26 +135,12 @@ sponsors:
    level: gold
  - id: hasura
    level: gold
-#  - id: teleport
-#    level: gold
- - id: datadog
-   level: platinum
- - id: kubecareers
-   level: media
- - id: kubeevents
-   level: media
- - id: netappfsxn
-   level: gold
- - id: dynatrace
-   level: gold
- - id: hasura
-   level: gold
  - id: nashville-data-nerds
    level: community
-#  - id: gitlab
-#    level: gold
-#  - id: instana
-#    level: silver
+ - id: nss
+   level: community
+ - id: nashville-awsusergroup
+   level: community
 #  - id: trendmicro
 #    level: gold
 #  - id: redhat
