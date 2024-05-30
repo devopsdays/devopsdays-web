@@ -5,6 +5,19 @@ aliases = ["/events/2024-sibiu/"]
 Description = "devopsdays Sibiu 2024"
 +++
 
+<div>
+
+  <div>
+    DevOps Days is a worldwide series of technical conferences covering topics of software development, IT infrastructure operations, and the intersection between them. The first time ever DevOps Days event in Romania is coming to Sibiu and it brings together international and local speakers, blending different experiences and topics.
+  </div>
+
+  <div>
+    The first day of the conference is focused on talks from our guest speakers, while the second day has a more hands on approach, with practical examples and Q&A sessions. The coffee breaks are a great opportunity to network and talk to people who share your interests.
+  </div>
+
+</div>
+
+
 <div style="text-align:center;">
   {{< event_logo >}}
 </div>
