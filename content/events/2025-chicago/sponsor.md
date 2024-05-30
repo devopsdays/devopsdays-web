@@ -1,7 +1,7 @@
 +++
 Title = "Sponsor"
 Type = "event"
-Description = "Sponsor DevOpsDays Chicago 2023"
+Description = "Sponsor DevOpsDays Chicago 2025"
 +++
 
 We greatly value sponsors for this community event. If you are interested in sponsoring, please check out our <a href="https://assets.devopsdays.org/events/2025/chicago/2025-chicago-devopsdays-prospectus.pdf" target="_blank">prospectus</a> or <a href="mailto:chicago-sponsors@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Chicago%202023">send us an email</a>.

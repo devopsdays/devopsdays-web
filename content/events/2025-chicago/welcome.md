@@ -17,7 +17,7 @@ Description = "DevOpsDays Chicago is coming back in 2025! The group that brought
       The format of DevOpsDays Chicago includes a single track of 30 minute talks in the morning, followed by Ignite talks (5 minute lightning talks). We spend the rest of the afternoon in Open Spaces, which are considered a key portion of the event.
     </p>
     <p>
-      The organizers of DevOpsDays Chicago believe that the community is stronger when all can participate, therefore we are dedicated to making the 2024 event as accessible as possible, including captioning for the morning talks. <a href = "../location">Our venue</a> is accessible as well.  If you have any questions about any specific accommodation you may need in order to attend, please email chicago@devopsdays.org.
+      The organizers of DevOpsDays Chicago believe that the community is stronger when all can participate, therefore we are dedicated to making the 2025 event as accessible as possible, including captioning for the morning talks. <a href = "../location">Our venue</a> is accessible as well.  If you have any questions about any specific accommodation you may need in order to attend, please email chicago@devopsdays.org.
     </p>
     <div class = "row" id = "cta-row"> 
       <div class = "col-md-12">
