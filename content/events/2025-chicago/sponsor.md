@@ -166,13 +166,6 @@ All special sponsors will have their logo displayed on the DevOpsDays Chicago we
       <td>1</td>
     </tr>
     <tr>
-      <td>Wifi</td>
-      <td>$5,000</td>
-      <td>Customize the wi-fi hotspot name</td>
-      <td>2</td>
-      <td>1</td>
-    </tr>
-    <tr>
       <td>Scholarships</td>
       <td>Varies</td>
       <td>Provide tickets for under-indexed groups to attend</td>
