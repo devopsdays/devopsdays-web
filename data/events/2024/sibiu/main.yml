@@ -6,7 +6,7 @@ description: "Devopsdays is coming to Sibiu!" # Edit this to suit your preferenc
 ga_tracking_id: "G-TC9288NCSL" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 event_logo: "/events/2024-sibiu/logo-square.jpg" # TODO: for some reason this does not work
 sharing_image: "/events/2024-sibiu/logo.png"
-masthead_background: "logo.png"
+masthead_background: "banner.png"
 
 # All dates are in unquoted 2024-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00
@@ -14,7 +14,7 @@ masthead_background: "logo.png"
 # Note: we allow 2024-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
 startdate: 2024-06-06T00:00:00+08:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2024-06-06T00:00:00+08:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2024-06-07T00:00:00+08:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  # start accepting talk proposals.
@@ -27,7 +27,7 @@ registration_date_start: # start accepting registration. Leave blank if registra
 registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://devops-days-sibiu.eventbrite.com" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -40,6 +40,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: propose
   - name: location
   - name: registration
+    url: "https://devops-days-sibiu.eventbrite.com"
   - name: program
   - name: speakers
   - name: sponsor
@@ -92,15 +93,24 @@ organizer_email: "sibiu@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: samplesponsorname
-    level: gold
+  # - id: samplesponsorname
+  #   level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: sibiu-it-cluster
-    level: community
+    level: gold
   - id: swiss-web-academy
-    level: community
+    level: gold
   - id: sibiu-visma
-    level: community
+    level: gold
+  - id: skylite-tek
+    level: gold
+  - id: agile-network-technologies
+    level: gold
+  - id: agile-freaks
+    level: gold
+  - id: general-engineering--management-solutions
+    level: gold
+  
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -119,219 +129,137 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+
 program:
+# DAY 1
   - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2024-06-06T00:00:00+08:00
-    start_time: "08:00"
-    end_time: "09:00"
-  - title: "TBA SLOT 1"
+    start_time: "09:30"
+    end_time: "10:00"
+
+  - title: "Opening: Catalin Mihalcea, Daniela Chrzanovski"
+    date: 2024-06-06T00:00:00+08:00
+    start_time: "10:00"
+    end_time: "10:15"
+
+  - title: "mihai-satmarean"
     type: talk
     date: 2024-06-06T00:00:00+08:00
-    start_time: "09:00"
-    end_time: "10:00"
+    start_time: "10:15"
+    end_time: "11:00"
+
+  - title: "Coffee Break & Networking"
+    date: 2024-06-06T00:00:00+08:00
+    start_time: "11:00"
+    end_time: "11:15"
+    background_color: "#B4C6E7"
+
   - title: "danny-afahounko"
     type: talk
     date: 2024-06-06T00:00:00+08:00
-    start_time: "10:00"
-    end_time: "11:00"
-  - title: "TBA SLOT 3"
-    type: open-space
-    date: 2024-06-06T00:00:00+08:00
-    start_time: "10:00"
-    end_time: "11:00"
-  - title: "TBA SLOT 3"
-    type: talk
-    date: 2024-06-06T00:00:00+08:00
-    start_time: "11:00"
+    start_time: "11:15"
     end_time: "12:00"
-  - title: "Lunch"
-    type: custom
+
+  - title: "Lunch Break"
     date: 2024-06-06T00:00:00+08:00
     start_time: "12:00"
-    end_time: "13:00"
-  - title: "TBA SLOT 4"
+    end_time: "13:15"
+    background_color: "#B4C6E7"
+
+  - title: "alejandro-betancor"
     type: talk
     date: 2024-06-06T00:00:00+08:00
-    start_time: "13:00"
+    start_time: "13:15"
     end_time: "14:00"
-  - title: "TBA SLOT 5"
-    type: talk
+
+  - title: "Coffee Break & Networking"
     date: 2024-06-06T00:00:00+08:00
     start_time: "14:00"
+    end_time: "14:15"
+    background_color: "#B4C6E7"
+
+  - title: "constantin-adrian-stanila"
+    type: talk
+    date: 2024-06-06T00:00:00+08:00
+    start_time: "14:15"
     end_time: "15:00"
-  - title: "TBA SLOT 6"
-    type: workshop
+
+  - title: "Coffee Break & Networking"
     date: 2024-06-06T00:00:00+08:00
     start_time: "15:00"
-    end_time: "16:00"
-  - title: "TBA SLOT 7"
-    type: open-space
+    end_time: "15:15"
+    background_color: "#B4C6E7"
+
+  - title: "DevOps Panel: Mihai Satmarean, Danny Afahounko, Alejandro Betancor, Adrian Stanila, Viorel Bota"
+    type: custom
     date: 2024-06-06T00:00:00+08:00
-    start_time: "16:00"
-    end_time: "17:00"
-  # - title: "Registration, Breakfast, Sponsors"
-  #   type: custom
-  #   date: 2024-06-06T00:00:00+08:00
-  #   start_time: "08:00"
-  #   end_time: "09:00"
-  # - title: "Opening Welcome"
-  #   type: custom
-  #   date: 2024-06-06T00:00:00+08:00
-  #   start_time: "09:00"
-  #   end_time: "09:15"
-  # - title: "first-speaker"
-  #   type: talk
-  #   date: 2024-06-06T00:00:00+08:00
-  #   start_time: "09:15"
-  #   end_time: "09:45"
-  # - title: "Sponsors"
-  #   type: custom
-  #   date: 2024-06-06T00:00:00+08:00
-  #   start_time: "09:45"
-  #   end_time: "09:55"
-  # - title: "second-speaker"
-  #   type: talk
-  #   date: 2024-06-06T00:00:00+08:00
-  #   start_time: "09:55"
-  #   end_time: "10:25"
-  # - title: "Break"
-  #   type: custom
-  #   date: 2024-06-06T00:00:00+08:00
-  #   start_time: "10:25"
-  #   end_time: "10:40"
-  # - title: "third-speaker"
-  #   type: talk
-  #   date: 2024-06-06T00:00:00+08:00
-  #   start_time: "10:40"
-  #   end_time: "11:10"
-  # - title: "Sponsors"
-  #   type: custom
-  #   date: 2024-06-06T00:00:00+08:00
-  #   start_time: "11:10"
-  #   end_time: "11:20"
-  # - title: "fourth-speaker"
-  #   type: talk
-  #   date: 2024-06-06T00:00:00+08:00
-  #   start_time: "11:20"
-  #   end_time: "11:50"
-  # - title: "Lunch"
-  #   type: custom
-  #   date: 2024-06-06T00:00:00+08:00
-  #   start_time: "11:50"
-  #   end_time: "13:00"
-  # - title: "Ignites"
-  #   type: custom
-  #   date: 2024-06-06T00:00:00+08:00
-  #   start_time: "13:00"
-  #   end_time: "13:30"
-  # - title: "Open Space Opening"
-  #   type: custom
-  #   date: 2024-06-06T00:00:00+08:00
-  #   start_time: "13:30"
-  #   end_time: "14:00"
-  # - title: "Open Space #1"
-  #   type: custom
-  #   date: 2024-06-06T00:00:00+08:00
-  #   start_time: "14:00"
-  #   end_time: "14:45"
-  # - title: "Open Space #2"
-  #   type: custom
-  #   date: 2024-06-06T00:00:00+08:00
-  #   start_time: "15:00"
-  #   end_time: "15:45"
-  # - title: "Open Space #3"
-  #   type: custom
-  #   date: 2024-06-06T00:00:00+08:00
-  #   start_time: "16:00"
-  #   end_time: "16:45"
-  # - title: "Close Day"
-  #   type: custom
-  #   date: 2024-06-06T00:00:00+08:00
-  #   start_time: "16:45"
-  #   end_time: "17:00"
-  # - title: "Evening event"
-  #   type: custom
-  #   date: 2024-06-06T00:00:00+08:00
-  #   start_time: "19:00"
-  #   end_time: "late"
-  # - title: "Registration, Breakfast, Sponsors"
-  #   type: custom
-  #   date: 2024-06-07T00:00:00+08:00
-  #   start_time: "08:00"
-  #   end_time: "09:00"
-  # - title: "Opening Welcome"
-  #   type: custom
-  #   date: 2024-06-07T00:00:00+08:00
-  #   start_time: "09:00"
-  #   end_time: "09:15"
-  # - title: "fifth-speaker"
-  #   type: talk
-  #   date: 2024-06-07T00:00:00+08:00
-  #   start_time: "09:15"
-  #   end_time: "09:45"
-  # - title: "Sponsors"
-  #   type: custom
-  #   date: 2024-06-07T00:00:00+08:00
-  #   start_time: "09:45"
-  #   end_time: "09:55"
-  # - title: "sixth-speaker"
-  #   type: talk
-  #   date: 2024-06-07T00:00:00+08:00
-  #   start_time: "09:55"
-  #   end_time: "10:25"
-  # - title: "Break"
-  #   type: custom
-  #   date: 2024-06-07T00:00:00+08:00
-  #   start_time: "10:25"
-  #   end_time: "10:40"
-  # - title: "seventh-speaker"
-  #   type: talk
-  #   date: 2024-06-07T00:00:00+08:00
-  #   start_time: "10:40"
-  #   end_time: "11:10"
-  # - title: "Sponsors"
-  #   type: custom
-  #   date: 2024-06-07T00:00:00+08:00
-  #   start_time: "11:10"
-  #   end_time: "11:20"
-  # - title: "eighth-speaker"
-  #   type: talk
-  #   date: 2024-06-07T00:00:00+08:00
-  #   start_time: "11:20"
-  #   end_time: "11:50"
-  # - title: "Lunch"
-  #   type: custom
-  #   date: 2024-06-07T00:00:00+08:00
-  #   start_time: "11:50"
-  #   end_time: "13:00"
-  # - title: "Ignites"
-  #   type: custom
-  #   date: 2024-06-07T00:00:00+08:00
-  #   start_time: "13:00"
-  #   end_time: "13:30"
-  # - title: "Open Space Opening"
-  #   type: custom
-  #   date: 2024-06-07T00:00:00+08:00
-  #   start_time: "13:30"
-  #   end_time: "14:00"
-  # - title: "Open Space #1"
-  #   type: custom
-  #   date: 2024-06-07T00:00:00+08:00
-  #   start_time: "14:00"
-  #   end_time: "14:45"
-  # - title: "Open Space #2"
-  #   type: custom
-  #   date: 2024-06-07T00:00:00+08:00
-  #   start_time: "15:00"
-  #   end_time: "15:45"
-  # - title: "Open Space #3"
-  #   type: custom
-  #   date: 2024-06-07T00:00:00+08:00
-  #   start_time: "16:00"
-  #   end_time: "16:45"
-  # - title: "Closing"
-  #   type: custom
-  #   date: 2024-06-07T00:00:00+08:00
-  #   start_time: "16:45"
-  #   end_time: "17:00"
+    start_time: "15:15"
+    end_time: "16:00"
+    background_color: "#ffb566"
+
+# DAY 2
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2024-06-07T00:00:00+08:00
+    start_time: "09:30"
+    end_time: "10:00"
+
+  - title: "Introduction to Ansible & Key Concepts - M. Satmarean"
+    type: custom
+    date: 2024-06-07T00:00:00+08:00
+    start_time: "10:00"
+    end_time: "10:45"
+    background_color: "#b8e9fd"
+
+  - title: "Coffee Break & Networking"
+    date: 2024-06-07T00:00:00+08:00
+    start_time: "10:45"
+    end_time: "11:00"
+    background_color: "#B4C6E7"
+
+  - title: "Interactive Demo Session in Ansible: Danny Afahounko"
+    type: custom
+    date: 2024-06-07T00:00:00+08:00
+    start_time: "11:00"
+    end_time: "11:45"
+    background_color: "#ffb566"
+    
+  - title: "Coffee Break & Networking"
+    date: 2024-06-07T00:00:00+08:00
+    start_time: "11:45"
+    end_time: "12:00"
+    background_color: "#B4C6E7"
+
+  - title: "Ansible Technical Workshop"
+    type: custom
+    date: 2024-06-07T00:00:00+08:00
+    start_time: "12:00"
+    end_time: "12:45"
+    background_color: "#ffb566"
+
+  - title: "Coffee Break & Networking"
+    date: 2024-06-07T00:00:00+08:00
+    start_time: "12:45"
+    end_time: "13:00"
+    background_color: "#B4C6E7"
+
+  - title: "Hands-on Advanced Usage of Ansible: Mihai Satmarean, Danny Afahounko"
+    type: custom
+    date: 2024-06-07T00:00:00+08:00
+    start_time: "13:00"
+    end_time: "13:45"
+    background_color: "#ffb566"
+
+  - title: "Q&A with speakers of the day"
+    type: custom
+    date: 2024-06-07T00:00:00+08:00
+    start_time: "13:45"
+    end_time: "14:15"
+    background_color: "#c3ffd7"
+
+  - title: "Closing Statements: Catalin Mihalcea & Daniela Chrzanovski"
+    type: custom
+    date: 2024-06-07T00:00:00+08:00
+    start_time: "14:15"
+    end_time: "14:30"
