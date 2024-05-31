@@ -162,6 +162,8 @@ sponsors:
     level: silver
   - id: hcscompany
     level: silver
+  - id: komodor
+    level: silver
   # Bronze
   - id: devleaps
     level: bronze

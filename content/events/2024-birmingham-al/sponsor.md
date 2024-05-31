@@ -4,7 +4,12 @@ Type = "event"
 Description = "Sponsor devopsdays Birmingham, AL 2024"
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please fill out the <a href="#sponsorshipform">form below</a> or drop us an email at [{{< email_organizers >}}].
+We greatly value sponsors for this open event.  If you are interested in
+sponsoring, please fill out the <a href="#sponsorshipform">form below</a> or
+drop us an email at [{{< email_organizers >}}].
+
+Please see [this sponsor prospectus](https://assets.devopsdays.org/events/2024/birmingham-al/prospectus.pdf)
+for details about sponsoring.
 
 <hr>
 
