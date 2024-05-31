@@ -141,10 +141,10 @@ sponsors:
    level: community
  - id: nashville-awsusergroup
    level: community
-#  - id: trendmicro
-#    level: gold
-#  - id: redhat
-#    level: silver
+ - id: conexess
+   level: silver
+ - id: mtsu-isa
+   level: community
 #  - id: influxdata
 #    level: gold
 #  - id: granulate
