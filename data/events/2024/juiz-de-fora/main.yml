@@ -118,8 +118,8 @@ sponsors:
     level: platinum
   - id: 4linux
     level: silver
-  - id: stone
-    level: gifts
+  #- id: stone
+  #  level: gifts
   - id: cafe-das-minas
     level: community
   - id: kubeevents
