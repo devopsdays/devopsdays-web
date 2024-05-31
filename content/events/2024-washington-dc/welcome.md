@@ -84,7 +84,7 @@ Description = "devopsdays washington dc 2024"
 <div>
   <h2 class="speaker-page" style="color: #17a2b8; display: inline-block;">{{< event_link page="sponsor" text="Sponsor the conference!" >}}</h2>
   <div style="text-align: left;">We greatly value sponsors for this open event. If you are interested in sponsoring, please drop us an email at {{< email_organizers >}}.</div>
-  <div style="text-align: left"><a href="https://bit.ly/doddc24-sponsor" style="font-size: 20px;">➡️ View Our Sponsor Prospectus ⬅️</a></div>
+  <div style="text-align: left"><a href="https://bit.ly/doddc24-sponsors" style="font-size: 20px;">➡️ View Our Sponsor Prospectus ⬅️</a></div>
 </div>
 <hr>
 <h2 class="speaker-page" style="color: #17a2b8; display: inline-block;">Featured Keynote Speaker!!</h2>
