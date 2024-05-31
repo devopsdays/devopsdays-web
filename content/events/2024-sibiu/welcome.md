@@ -45,7 +45,8 @@ Description = "devopsdays Sibiu 2024"
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
+    <!-- {{< event_link page="registration" text="Register to attend the conference!" >}} -->
+    <a href="https://devops-days-sibiu.eventbrite.com">REGISTER HERE</a>
   </div>
 </div>
 

@@ -14,7 +14,7 @@ masthead_background: "banner.png"
 # Note: we allow 2024-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
 startdate: 2024-06-06T00:00:00+08:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2024-06-06T00:00:00+08:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2024-06-07T00:00:00+08:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  # start accepting talk proposals.
@@ -27,7 +27,7 @@ registration_date_start: # start accepting registration. Leave blank if registra
 registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://devops-days-sibiu.eventbrite.com" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -40,6 +40,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: propose
   - name: location
   - name: registration
+    url: "https://devops-days-sibiu.eventbrite.com"
   - name: program
   - name: speakers
   - name: sponsor
@@ -92,23 +93,23 @@ organizer_email: "sibiu@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: samplesponsorname
-    level: gold
+  # - id: samplesponsorname
+  #   level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: sibiu-it-cluster
-    level: community
+    level: gold
   - id: swiss-web-academy
-    level: community
+    level: gold
   - id: sibiu-visma
-    level: community
+    level: gold
   - id: skylite-tek
-    level: community
+    level: gold
   - id: agile-network-technologies
-    level: community
+    level: gold
   - id: agile-freaks
-    level: community
+    level: gold
   - id: general-engineering--management-solutions
-    level: community
+    level: gold
   
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
