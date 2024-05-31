@@ -18,6 +18,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
 <h2 data-heading="Sponsorship Packages">Sponsorship Packages</h2>
 
 
+<hr>
 <div style="width:590px">
   <table border=1 cellspacing=1>
     <thead>
