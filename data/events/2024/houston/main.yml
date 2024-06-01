@@ -236,7 +236,7 @@ program:
     start_time: "17:30"
     end_time: "20:00"
     custom_url: "https://www.eventbrite.com/e/techtequila-talk-devops-days-tickets-909969422037"
-    comments: "Evening event at The Cannon West Houston (https://maps.app.goo.gl/qXJLXPjuXAh46DWD8). 
+    comments: "Evening event at [The Cannon West Houston](https://maps.app.goo.gl/qXJLXPjuXAh46DWD8). 
     Sponsored by the Blue People. 
     Please register at https://www.eventbrite.com/e/techtequila-talk-devops-days-tickets-909969422037"
   - title: "Registration, Breakfast, Sponsors"
@@ -254,36 +254,38 @@ program:
     date: 2024-06-05T00:00:00-06:00
     start_time: "09:15"
     end_time: "09:45"
-  - title: "Sponsors"
-    type: custom
-    date: 2024-06-05T00:00:00-06:00
-    start_time: "09:45"
-    end_time: "10:00"
   - title: "danesh-manoharan"
     type: talk
     date: 2024-06-05T00:00:00-06:00
-    start_time: "10:00"
-    end_time: "10:30"
+    start_time: "09:45"
+    end_time: "10:15"
   - title: "Break, Sponsors"
     type: custom
     date: 2024-06-05T00:00:00-06:00
-    start_time: "10:30"
-    end_time: "11:00"
+    start_time: "10:15"
+    end_time: "10:45"
   - title: "sean-casey"
     type: talk
     date: 2024-06-05T00:00:00-06:00
-    start_time: "11:00"
-    end_time: "11:30"
+    start_time: "10:45"
+    end_time: "11:15"
   - title: "asaf-blubshtein"
     type: talk
     date: 2024-06-05T00:00:00-06:00
-    start_time: "11:30"
-    end_time: "12:00"
+    start_time: "11:15"
+    end_time: "11:45"
   - title: "Lunch, Sponsors"
     type: custom
     date: 2024-06-05T00:00:00-06:00
-    start_time: "12:00"
-    end_time: "13:00"
+    start_time: "11:45"
+    end_time: "12:50"
+  - title: "Community Builder Meta Quest 3 Raffle!"
+    type: custom
+    date: 2024-06-05T00:00:00-06:00
+    start_time: "12:50"
+    end_time: "13:00"    
+    background_color: "#EA9999"
+    custom_url: "https://assets.devopsdays.org/events/2024/houston/devopsdays-houston-2024-community-builder-flyer.pdf"
   - title: "Ignites"
     type: ignite
     date: 2024-06-05T00:00:00-06:00
