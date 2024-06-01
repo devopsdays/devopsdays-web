@@ -36,7 +36,6 @@ location_address: "Ignacego Prądzyńskiego 12/14, 01-222 Warsaw"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
-    url: https://devopsdays.pl/call-for-papers-2024/
  # - name: location
   - name: registration
  # - name: program
