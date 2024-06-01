@@ -53,7 +53,6 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 team_members: # Name is the only required field for team members.
   - name: "Kuba Barć"
     image: "jakub_barc.jpg"
-    linkedin: "https://www.linkedin.com/in/jakub-bar%C4%87-a235662a"
     bio: "SRE with Splunk, trying to get Splunk Monitoring (a.k.a SignalFx) to scale properly. 10+ years of experience with companies like IBM, UBS, Splunk and Facebook. Not a fan of Jenkins"
   - name: "Piotr Godowski"
     image: "pior-godowski.jpg"
@@ -93,7 +92,6 @@ team_members: # Name is the only required field for team members.
   - name: "Natalia Stawarz"
     image: "natalia_stawarz.jpg"
     bio: "DevOps Lead and Engineer from Lodz with nearly 4 years of dedicated experience in the field, has become a seasoned professional specializing in AWS Cloud computing and infrastructure. Certified AWS Solution Architect Associate & AWS Security Specialty. Started pretty late with Kubernetes yet caching up very quickly so really keen on discussing different approaches in k8s world. Experienced in teaching and onboarding not tech-savvy people into AWS Cloud and DevOps world. Big fan of Terraform and Github Actions, not so great into Jenkins and Helm. Enthusiast of holistic and KISS approach as much as in DevOPs field and in real live, especially physical activities and sports."
-    employer: "xyz"
   - name: "Paulina Tomaszewska"
     employer: "PROIDEA"
     image: "paulina-tomaszewska.jpg"
