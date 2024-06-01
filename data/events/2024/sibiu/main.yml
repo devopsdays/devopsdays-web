@@ -5,7 +5,7 @@ event_twitter: "devopsdays" # Change this to the twitter handle for your event s
 description: "Devopsdays is coming to Sibiu!" # Edit this to suit your preferences
 ga_tracking_id: "G-TC9288NCSL" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 event_logo: "/events/2024-sibiu/logo-square.jpg" # TODO: for some reason this does not work
-sharing_image: "/events/2024-sibiu/logo.png"
+sharing_image: "logo.png"
 masthead_background: "banner.png"
 
 # All dates are in unquoted 2024-MM-DDTHH:MM:SS+TZ:TZ, like this:
