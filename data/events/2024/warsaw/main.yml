@@ -19,7 +19,7 @@ cfp_date_start: 2024-03-31
 cfp_date_end: 2024-08-15
 cfp_date_announce: 2024-03-31
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://devopsdays.pl/call-for-papers-2024/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2024-03-31T09:00:00+02:00
 registration_date_end: 2023-11-06T19:00:00+02:00
