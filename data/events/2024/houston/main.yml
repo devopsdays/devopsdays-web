@@ -220,11 +220,13 @@ program:
     date: 2024-06-04T00:00:00-06:00
     start_time: "15:30"
     end_time: "16:15"
+    custom_url: "https://docs.google.com/spreadsheets/d/152M6FajiWpRJRgHsK1Gjl6T9lYTV9I4j3667rl7uEzc/edit?usp=sharing"
   - title: "Open Space #2"
     type: open-space
     date: 2024-06-04T00:00:00-06:00
     start_time: "16:15"
     end_time: "17:00"    
+    custom_url: "https://docs.google.com/spreadsheets/d/152M6FajiWpRJRgHsK1Gjl6T9lYTV9I4j3667rl7uEzc/edit?usp=sharing"
   - title: "Close Day"
     type: custom
     date: 2024-06-04T00:00:00-06:00
@@ -316,11 +318,13 @@ program:
     date: 2024-06-05T00:00:00-06:00
     start_time: "15:30"
     end_time: "16:15"
+    custom_url: "https://docs.google.com/spreadsheets/d/152M6FajiWpRJRgHsK1Gjl6T9lYTV9I4j3667rl7uEzc/edit?usp=sharing"
   - title: "Open Space #2"
     type: open-space
     date: 2024-06-05T00:00:00-06:00
     start_time: "16:15"
     end_time: "17:00"
+    custom_url: "https://docs.google.com/spreadsheets/d/152M6FajiWpRJRgHsK1Gjl6T9lYTV9I4j3667rl7uEzc/edit?usp=sharing"
   - title: "Closing"
     type: custom
     date: 2024-06-05T00:00:00-06:00
