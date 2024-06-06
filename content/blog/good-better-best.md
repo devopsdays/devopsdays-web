@@ -1,6 +1,6 @@
 +++
 Title = "Good, Better, Best: How to budget for success"
-Date = "2024-05-23T00:00:00-00:00"
+Date = "2024-06-06T00:00:00-00:00"
 Author = "DevOpsDays Global Core Organizers"
 +++
 
