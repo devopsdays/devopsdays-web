@@ -11,7 +11,7 @@ Description = "DevOpsDays Nashville 2024 Topics"
     font-family: Arial, sans-serif;
   }
   table {
-    width: 80%;
+    width: 90%;
     margin: 20px auto;
     border-collapse: collapse;
     box-shadow: 0 2px 15px rgba(0,0,0,0.1);
