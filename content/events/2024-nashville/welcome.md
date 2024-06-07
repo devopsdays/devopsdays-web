@@ -26,11 +26,13 @@ Description = "DevOpsDays Nashville 2024"
     <p>DevOps Days will be coming back to {{< event_location >}} on July 10th and 11th.</p>
     <h2 style="color: #C19A6B; display: inline-block;"><p>Guest Keynote Speaker John Willis!</p></h2>
     <p>We are happy to announce that <a href="https://itrevolution.com/author/john-willis/" target="_blank">John Willis</a> is our keynote speaker!</p>
+    <h2 style="color: #C19A6B; display: inline-block;"><p>Check out our event topics!</a></p></h2>
+    <p>We are busy finalizing the schedule, but we wanted you to see all the amazing {{< event_link page="topics" text="topics!" >}}</p>
     <h2 style="color: #C19A6B; display: inline-block;"><p>DevOps Days Nashville is almost a month away, register now!</a></p></h2>
     <p>July 10th is right around the corner, don't miss out on this opportunity to hear some amazing speakers, learn more about our incredible sponsors, grow your network, and be a part of this awesome community!</p>
     <p><h3><b><a href="https://events.humanitix.com/devopsdays-nashville-2024" target="_blank">Tickets available</a></b></h3></p>
-    <h2 style="color: #C19A6B; display: inline-block;"><p>CFP is closed. Speaker announcements coming soon!</p></h2>
-    <p>We just closed our CFP and now we are going through the over 130 submissions to create the best DevOps Days Nashville yet!</p> 
+    <!-- <h2 style="color: #C19A6B; display: inline-block;"><p>CFP is closed. Speaker announcements coming soon!</p></h2>
+    <p>We just closed our CFP and now we are going through the over 130 submissions to create the best DevOps Days Nashville yet!</p>  -->
     <p>Check back often, or join our <a href="https://www.linkedin.com/company/devopsdays-nashville">LinkedIn page</a>.</p>
     <!-- <h2><p><a href="https://www.papercall.io/devopsdays-nashville-2024" style="color: #C19A6B">Call for Proposals Open Until May 31st</a></p></h2>
     <p>Do you have a great topic for the community?  Visit our <a href="https://www.papercall.io/devopsdays-nashville-2024">Call for Speakers/Papers</a> site today!  We look forward to hearing from you.</p> -->
@@ -52,6 +54,15 @@ Description = "DevOpsDays Nashville 2024"
   </div>
   <div class = "col-md-8">
     {{< event_link page="registration" text="Register to attend the conference!" >}}
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Topics</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_link page="topics" text="Check out our event topics!" >}}
   </div>
 </div> 
 
