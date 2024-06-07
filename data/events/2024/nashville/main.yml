@@ -50,6 +50,7 @@ location_address: "201 5th Avenue South, Nashville, TN 37203" #Optional - use th
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: registration
+  - name: topics
   # - name: program
   # - name: speakers
   - name: location
@@ -57,6 +58,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: sponsor
   # - name: propose
   - name: conduct
+  
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
