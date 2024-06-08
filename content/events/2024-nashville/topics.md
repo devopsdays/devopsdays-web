@@ -101,6 +101,11 @@ Description = "DevOpsDays Nashville 2024 Topics"
     <td>Lightning</td>
   </tr>
   <tr>
+    <td>Drawing Insights: Software Development Lessons from XKCD</td>
+    <td>Dan Cook</td>
+    <td>Lightning</td>
+  </tr>
+  <tr>
     <td>Escaping the Legacy Infrastructure Labyrinth</td>
     <td>Gwyneth Allwright</td>
     <td>Lightning</td>
