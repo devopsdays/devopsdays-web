@@ -1,15 +1,37 @@
 +++
 Title = "DevOpsDays Nashville 2024"
-Type = "welcome"
+Type = "topics"
 aliases = [
-  "/events/2024-nashville/",
-  "/events/2024-nashville/location/",
-  "/events/2024-nashville/sponsor/",
-  "/events/2024-nashville/propose/",
-  "/events/2024-nashville/registration/"]
-Description = "DevOpsDays Nashville 2024"
+  "/events/2024-nashville/topics"
+  ]
+Description = "DevOpsDays Nashville 2024 Topics"
 +++
-
+<style>
+  body {
+    font-family: Arial, sans-serif;
+  }
+  table {
+    width: 90%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    box-shadow: 0 2px 15px rgba(0,0,0,0.1);
+  }
+  th, td {
+    padding: 10px;
+    border: 1px solid #ccc;
+    text-align: left;
+  }
+  th {
+    background-color: #4CAF50;
+    color: white;
+  }
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  tr:hover {
+    background-color: #ddd;
+  }
+</style>
 <!-- <div class="alert alert-danger" role="alert">
   Due to the local situation around COVID-19, devopsdays Nashville has been postponed until May 5-6 2022. Please click <a href="/events/2021-nashville/cancellation" class="alert-link">here for more information</a>.
 </div> -->
@@ -22,21 +44,78 @@ Description = "DevOpsDays Nashville 2024"
     {{< event_logo >}}
   </div>
   <div class = "col-md-6" style="box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 10px; padding: 10px; border-radius: 10px">
-    <h1><p>Welcome to DevOps Days Nashville 2024</p></h1>
-    <p>DevOps Days will be coming back to {{< event_location >}} on July 10th and 11th.</p>
-    <h2 style="color: #C19A6B; display: inline-block;"><p>Guest Keynote Speaker John Willis!</p></h2>
-    <p>We are happy to announce that <a href="https://itrevolution.com/author/john-willis/" target="_blank">John Willis</a> is our keynote speaker!</p>
-    <h2 style="color: #C19A6B; display: inline-block;"><p>Check out our event topics!</a></p></h2>
-    <p>We are busy finalizing the schedule, but we wanted you to see all the amazing list of topics and speakers!</p>
-    <p><h3><b>{{< event_link page="topics" text="Topics and Speakers!" >}}</b></h3></p>
-    <h2 style="color: #C19A6B; display: inline-block;"><p>DevOps Days Nashville is almost a month away, register now!</a></p></h2>
-    <p>July 10th is right around the corner, don't miss out on this opportunity to hear some amazing speakers, learn more about our incredible sponsors, grow your network, and be a part of this awesome community!</p>
-    <p><h3><b><a href="https://events.humanitix.com/devopsdays-nashville-2024" target="_blank">Tickets available</a></b></h3></p>
-    <!-- <h2 style="color: #C19A6B; display: inline-block;"><p>CFP is closed. Speaker announcements coming soon!</p></h2>
-    <p>We just closed our CFP and now we are going through the over 130 submissions to create the best DevOps Days Nashville yet!</p>  -->
+    <h1><p>Current Speaker Topics</p></h1>
+    <h2 style="color: #C19A6B; display: inline-block;"><p>Here are our current topics for the event.</p></h2>
+    <p>We are still working to finalize the schedule, but this is the current list of topics</p>
+    <p><i>This is subject to change as we finalize our program</i></p>
     <p>Check back often, or join our <a href="https://www.linkedin.com/company/devopsdays-nashville">LinkedIn page</a>.</p>
-    <!-- <h2><p><a href="https://www.papercall.io/devopsdays-nashville-2024" style="color: #C19A6B">Call for Proposals Open Until May 31st</a></p></h2>
-    <p>Do you have a great topic for the community?  Visit our <a href="https://www.papercall.io/devopsdays-nashville-2024">Call for Speakers/Papers</a> site today!  We look forward to hearing from you.</p> -->
+    <table>
+  <tr>
+    <th>Session Title</th>
+    <th>Speaker</th>
+    <th>Duration</th>
+  </tr>
+  <tr>
+    <td>Conversations - A Crucial Element to Invigorate your DevOps Practice</td>
+    <td>Victor Hernandez</td>
+    <td>Standard</td>
+  </tr>
+  <tr>
+    <td>DevOps Reframed: Embracing the Path to Developer Productivity Engineering</td>
+    <td>Baruch Sadogursky</td>
+    <td>Standard</td>
+  </tr>
+  <tr>
+    <td>Digital Safeguards: Your Essential Blueprint for Navigating Cyber Threats</td>
+    <td>Elizabeth Stephens</td>
+    <td>Standard</td>
+  </tr>
+  <tr>
+    <td>How to Smoke a Pipeline</td>
+    <td>Tyler Welton</td>
+    <td>Standard</td>
+  </tr>
+  <tr>
+    <td>Lazy Genius DevOps: Innovating Effortless Solutions with Digital Charm</td>
+    <td>Khushi Yadav</td>
+    <td>Standard</td>
+  </tr>
+  <tr>
+    <td>Modern Application Debugging: An Intro to OpenTelemetry</td>
+    <td>Josh Lee</td>
+    <td>Standard</td>
+  </tr>
+  <tr>
+    <td>Navigating the Digital Evolution: A Technologist's Guide to Thriving in the Age of Innovation</td>
+    <td>Shannon C. Ryan</td>
+    <td>Standard</td>
+  </tr>
+  <tr>
+    <td>The Future of DevOps is R&D and DevEx</td>
+    <td>Jurnell Cockhren</td>
+    <td>Standard</td>
+  </tr>
+  <tr>
+    <td>Chaos Engineering in Action: Practical Techniques for Building Fault-Tolerant Systems</td>
+    <td>Hareesh Iyer</td>
+    <td>Lightning</td>
+  </tr>
+  <tr>
+    <td>Drawing Insights: Software Development Lessons from XKCD</td>
+    <td>Dan Cook</td>
+    <td>Lightning</td>
+  </tr>
+  <tr>
+    <td>Escaping the Legacy Infrastructure Labyrinth</td>
+    <td>Gwyneth Allwright</td>
+    <td>Lightning</td>
+  </tr>
+  <tr>
+    <td>Lightning Talk: DevOps, 12-Factor, and Platform Engineering</td>
+    <td>Justin Reock</td>
+    <td>Lightning</td>
+  </tr>
+</table>
 
 <p>Event Information</p>
 <div class = "row">
@@ -55,15 +134,6 @@ Description = "DevOpsDays Nashville 2024"
   </div>
   <div class = "col-md-8">
     {{< event_link page="registration" text="Register to attend the conference!" >}}
-  </div>
-</div>
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Topics</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="topics" text="Check out our event topics!" >}}
   </div>
 </div> 
 
