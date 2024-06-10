@@ -71,6 +71,14 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/lukas-drukteinis/"
     role: "Organizer"
     image: "lukas-drukteinis.jpg"
+  - name: "Leo Muoghara"
+    linkedin: "https://www.linkedin.com/in/leo-muoghara/"
+    role: "Organizer"
+    image: "leo-muoghara.png"
+  - name: "Tomas Stankevičius"
+    linkedin: "https://www.linkedin.com/in/tomas-stankevi%C4%8Dius-b5b898a4/"
+    role: "Organizer"
+    image: "tomas-stankevicius.jpg"
 
 organizer_email: "vilnius@devopsdays.org" # Put your organizer email address here
 
