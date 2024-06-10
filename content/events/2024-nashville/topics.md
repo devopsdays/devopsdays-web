@@ -71,6 +71,11 @@ Description = "DevOpsDays Nashville 2024 Topics"
     <td>Standard</td>
   </tr>
   <tr>
+    <td>How to Showcase Engineering Initiatives to an Executive Audience</td>
+    <td>Annie Garcia Hodgkins</td>
+    <td>Standard</td>
+  </tr>
+  <tr>
     <td>How to Smoke a Pipeline</td>
     <td>Tyler Welton</td>
     <td>Standard</td>
