@@ -55,8 +55,8 @@ We would love to hear more about how cities have been running. In that vein,
 we’re piloting a “post event survey”, where we’re asking events to share nuances
 about their event and how it ran. We know that most if not all devopsdays events
 use the devopsdays.org website, so we can see how many sponsors and speakers
-each event attracted, along with ticket pricing. But often the total number of
-attendees and how the event actually felt on the ground, including attendees,
-sponsors, and organizers. We hope this information will help us tailor guidance
-to other events in the future. 
+each event attracted, along with ticket pricing; but we don't often have visibility
+into the total number of attendees and how the event actually felt on the ground,
+including attendees, sponsors, and organizers. We hope this information will
+help us tailor guidance to other events in the future. 
 
