@@ -36,8 +36,8 @@ location: "London" # Defaults to city, but you can make it the venue name.
 location_address: "QEII Centre, Broad Sanctuary, Westminster"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  # - name: registration
-  - name: propose
+  - name: registration
+  # - name: propose
   # - name: program
   # - name: speakers
   - name: location
@@ -98,6 +98,9 @@ team_members: # Name is the only required field for team members.
   - name: "Sophie Weston"
     pronouns: "she/her"
     twitter: "soph_weston"
+  - name: "Matt Slane"
+    pronouns: "he/him"
+    linkedin: "https://www.linkedin.com/in/mjslane/"
 
 organizer_email: "london@devopsdays.org" # Put your organizer email address here
 
@@ -117,6 +120,10 @@ sponsors:
   - id: commify
     level: bronze
   - id: github
+    level: bronze
+  - id: dxw
+    level: bronze
+  - id: syntasso
     level: bronze
   # community sponsors
 
