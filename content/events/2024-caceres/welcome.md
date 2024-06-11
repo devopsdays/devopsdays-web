@@ -7,6 +7,45 @@ Description = "DevOpsDays Cáceres 2024"
 <link href="/events/2024-caceres/main.css" rel="stylesheet">
 <script src="/events/2024-caceres/main.js"></script>
 
+<style>
+  .early-bird-tickets-banner {
+    background-color: #FF965B;
+    color: white;
+    margin: 0 5% 5% 5%;
+    padding: 2%;
+    text-align: center;
+    border-radius: 40px;
+  }
+  .early-bird-tickets-banner h1 {
+    font-size: 3rem;
+    text-transform: uppercase;
+  }
+  .early-bird-tickets-banner .d-flex.p-2 {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  .early-bird-tickets-banner .d-flex.p-2 a {
+    line-height: 4rem;
+    font-size: 2rem;
+  }
+  .early-bird-tickets-banner .button-secondary {
+    background-color: #000428;
+    border-color: #000428;
+  }
+  .early-bird-tickets-banner .button-secondary:hover {
+    background-color: #904300;
+    border-color: #904300;
+  }
+</style>
+
+<!-- Temporary banner to make early bird tickets on sale more visible -->
+<div class="early-bird-tickets-banner">
+  <h1>Early bird tickets on sale, don't miss them out!</h1>
+  <div class="d-flex p-2">
+    <a class="btn btn-secondary btn-block button-secondary" target="_blank" href="https://www.eventbrite.es/e/devopsdays-caceres-2024-tickets-888206889717"> <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;BUY TICKETS HERE!</a>
+  </div>
+</div>
+
 <div class = "row">
   <div class="col-md-4">
     <img alt="DevOpsDays Cáceres 2024" src="/events/2024-caceres/logo.png" class="img-fluid logo">
