@@ -1,8 +1,8 @@
 +++
-Title = "devopsdays Kerala 2024"
+Title = "DevOpsDays Kerala 2024"
 Type = "welcome"
 aliases = ["/events/2024-kerala/"]
-Description = "Devopsdays Kerala 2024"
+Description = "DevOpsDays Kerala 2024"
 +++
 
 <!-- <div style="text-align:center;">
