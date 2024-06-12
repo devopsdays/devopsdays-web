@@ -10,10 +10,10 @@ In recent years, many organizations have been prioritizing migrating to the clou
 
 Here is the agenda for this session:
 
-•	Cloud Cost Management Challenges 
-•	Azure cost components
-•	Cost analysis tools and techniques 
-•	Practical examples of cost optimization 
-•	Proactive Cost Optimization
+*	Cloud Cost Management Challenges 
+*	Azure cost components
+*	Cost analysis tools and techniques 
+*	Practical examples of cost optimization 
+*	Proactive Cost Optimization
 
 By the end of this session, you’ll be well-equipped to analyze, optimize and control your Azure expenditure. If you are interested in learning about cost optimization on Azure, please join me for this session.
