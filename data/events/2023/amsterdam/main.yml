@@ -191,7 +191,7 @@ sponsors:
     level: silver
   - id: cert2connect-checkmarx
     level: silver
-  - id: sysdig
+  - id: sysdig-before-20240607
     level: silver
   - id: appvia
     level: silver
