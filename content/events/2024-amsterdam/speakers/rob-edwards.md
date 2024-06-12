@@ -2,7 +2,7 @@
 Title = "Rob Edwards"
 Linkedin = "https://www.linkedin.com/in/robedwards/"
 Website = ""
-Twitter = ""
+Twitter = "SapientCoffee"
 image = "rob-edwards.jpg"
 type = "speaker"
 linktitle = "rob-edwards"
