@@ -362,7 +362,7 @@ program:
   - title: "Have a beer on us!"
     type: custom
     date: 2024-06-19T00:00:00+02:00
-    start_time: "17:30"
+    start_time: "17:00"
     end_time: "18:30"
     comments: "Pakhuis de Zwijger bar"
 
@@ -500,8 +500,8 @@ program:
   - title: "BBQ"
     type: custom
     date: 2024-06-20T00:00:00+02:00
-    start_time: "17:00"
-    end_time: "19:00"
+    start_time: "18:00"
+    end_time: "19:30"
     comments: "Location: Outside, in front of venue brought to by our Platinum sponsor"
 
   - title: "Bingo & Social event"
