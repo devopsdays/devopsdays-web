@@ -19,9 +19,30 @@ Description = "DevOpsDays Chicago is coming back in 2025! The group that brought
     <p>
       The organizers of DevOpsDays Chicago believe that the community is stronger when all can participate, therefore we are dedicated to making the 2025 event as accessible as possible, including captioning for the morning talks. <a href = "../location">Our venue</a> is accessible as well.  If you have any questions about any specific accommodation you may need in order to attend, please email chicago@devopsdays.org.
     </p>
-    <div class = "row" id = "cta-row"> 
+        <div class = "row"> <!-- another cta row-->
       <div class = "col-md-12">
         <div class = "row justify-content-center">
+          <div class = "d-flex p-2">
+            <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="/events/2025-chicago/sponsor">
+              <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor
+            </a>
+          </div>
+          <div class = "d-flex p-2">
+            <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="/events/2025-chicago/contact">
+              <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Contact
+            </a>
+          </div>
+        <div class = "d-flex p-2">
+            <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://tickets.devopsdays.org/devopsdays-chicago/2025/">
+              <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Register
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class = "row" id = "cta-row">
+      <div class = "col-md-12">
+        <!-- <div class = "row justify-content-center">
           <div class = "d-flex p-2">
             <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://www.linkedin.com/groups/7052023/">
               <i class="fa fa-linkedin-square fa-lg"></i>&nbsp;&nbsp;&nbsp;Join Our LinkedIn Group
@@ -32,7 +53,7 @@ Description = "DevOpsDays Chicago is coming back in 2025! The group that brought
               <i class="fa fa-instagram fa-lg"></i>&nbsp;&nbsp;&nbsp;Follow Us On Instagram
             </a>
           </div>
-        </div>
+        </div> -->
         <div class = "row">
           <div class = "col-md-12">
             <div class = "row justify-content-center">
@@ -74,35 +95,14 @@ Description = "DevOpsDays Chicago is coming back in 2025! The group that brought
     </div> <!-- cta row end -->
   </div>
   <div class = "col-md-6 pull-md-6" id = "right-col">
-    <div class = "row">
+    <div class = "row"> <!-- sasha/yak row-->
       <div class = "col-md-12">
         <div class = "row justify-content-center">
-          <!-- <div class = "d-flex p-2">
-            <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="/events/2025-chicago/sponsor">
-              <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference
-            </a>
-          </div> -->
-          <div class = "d-flex p-2">
-            <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="/events/2025-chicago/contact">
-              <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Contact the Organizers
-            </a>
-          </div>
+           <h2>The DevOps Yak is Back!</h2>
+          <img src = "/events/2022-chicago/yak.png" class = "img-fluid">
         </div>
       </div>
     </div>
-    <div class = "row">
-      <div class = "col-md-12">
-        <div class = "row justify-content-center">
-          <!-- <div class = "d-flex p-2">
-            <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="/events/2025-chicago/register">
-              <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Register for the Conference
-            </a>
-          </div> -->
-        </div>
-      </div>
-    </div>
-    <h2>The DevOps Yak is Back!</h2>
-    <img src = "/events/2022-chicago/yak.png" class = "img-fluid">
   </div>
 </div>
 
