@@ -110,6 +110,13 @@ sponsors:
     level: community
   - id: minnestar
     level: community
+  - id: sps_commerce
+    level: platinum
+  - id: cloudbees
+    level: silver
+  - id: redgate
+    level: gold
+
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
