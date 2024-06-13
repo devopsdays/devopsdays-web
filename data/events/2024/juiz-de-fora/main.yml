@@ -116,15 +116,19 @@ sponsors:
     level: platinum
   - id: uniacademia
     level: platinum
-  - id: 4linux
+  - id: elastic
     level: silver
-  #- id: stone
-  #  level: gifts
+  - id: 4linux-2024
+    level: silver
+  - id: saveincloud-2024
+    level: gifts
   - id: cafe-das-minas
     level: community
   - id: kubeevents
     level: community
   - id: kubecareers
+    level: community
+  - id: techhubjf
     level: community
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
