@@ -1,7 +1,7 @@
 +++
 Title = "Location"
 Type = "event"
-Description = "Location for devopsdays Antwerp 2024"
+Description = "Location for devopsdays Organiser Summit 2024"
 +++
 
 ### Conference Location 
