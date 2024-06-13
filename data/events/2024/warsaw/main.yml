@@ -128,14 +128,14 @@ sponsor_levels:
   - id: platinum
     label: Platinum
   - id: partner
-    label: Partners
+    label: Partner
 #    max: 10
 #  - id: silver
 #    label: Silver
 #    max: 0 # This is the same as omitting the max limit.
 #  - id: bronze
 #    label: Bronze
+  - id: media
+    label: Media Partner
   - id: community
     label: Community
-  - id: medi
-    label: Media Partner
