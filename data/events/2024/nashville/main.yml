@@ -149,10 +149,10 @@ sponsors:
    level: community
  - id: shadow-soft
    level: bronze
-#  - id: granulate
-#    level: gold
-#  - id: regscale
-#    level: silver
+ - id: nashville-pywonder-usergroup
+   level: community
+ - id: nashdotnet
+   level: community
 #  - id: cloudbees
 #    level: gold
 #  - id: ustglobal
