@@ -41,7 +41,7 @@ or
 
 ```
 # Run with your local Hugo installation
-hugo server -w --baseUrl="http://localhost:1313"
+hugo server -w --baseURL="http://localhost:1313"
 ```
 
 Now open `http://localhost:1313` in a browser and navigate to the content that you're editing - voilà! Note: hugo's `watch` is not going to catch every change, so if you're making structural/file or date changes, consider Control-C and restart of the `watch` command.

@@ -17,7 +17,7 @@
         {{- end -}}
           </div><!-- do i show up? -->
         {{- else if (eq (index (split (.Permalink | relURL) "/") 1) "organizing") -}}
-          <div class="col-md-8 order-md-12">
+          <div class="col-md-8 order-md-5">
             {{- block "main" . }} 
         {{- end -}}
           </div>
@@ -26,7 +26,7 @@
             {{- partialCached "toc.html" . -}}
           </div>
 	      {{- else -}}
-              <div class="col-md-8 order-md-12">
+              <div class="col-md-8 order-md-5">
                   {{- block "main" . }} {{- end -}}
               </div>
               <div class="col-md-2 order-md-1">
@@ -35,7 +35,7 @@
               </div>
             {{- end -}}
           {{- else -}}
-            <div class="col-md-8 order-md-12">
+            <div class="col-md-8 order-md-5">
                 {{- block "main" . }} 
           {{- end -}}
             </div>
