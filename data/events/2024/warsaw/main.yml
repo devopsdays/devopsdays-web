@@ -113,7 +113,10 @@ sponsors:
     url: https://www.elastic.co
   - id: googlecloud
     level: partner
-
+  - id: kubeevents
+    level: media
+  - id: kubecareers
+    level: media
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -124,6 +127,8 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: platinum
     label: Platinum
+  - id: partner
+    label: Partners
 #    max: 10
 #  - id: silver
 #    label: Silver
@@ -132,3 +137,5 @@ sponsor_levels:
 #    label: Bronze
   - id: community
     label: Community
+  - id: medi
+    label: Media Partner
