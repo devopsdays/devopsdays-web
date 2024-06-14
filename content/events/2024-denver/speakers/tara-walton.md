@@ -1,7 +1,7 @@
 +++
 Title = "Tara Walton"
 type = "speaker"
-image = "tara-walton.jpg"
+image = "tara-walton.png"
 sharing_image = "tara-walton.png"
 +++
 

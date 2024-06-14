@@ -1,8 +1,8 @@
 +++
 Title = "Alex Wise"
 type = "speaker"
-image = "alex-wise.jpg"
-sharing_image = "alex-wise.jpg"
+image = "alex-wise.png"
+sharing_image = "alex-wise.png"
 +++
 Alex Wise is a software engineer focused on improving resilience in distributed computer systems.
 

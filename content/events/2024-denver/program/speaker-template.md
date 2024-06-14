@@ -1,6 +1,0 @@
-+++
-Title = ""
-Type = ""
-Speakers = [""]
-+++
-description
