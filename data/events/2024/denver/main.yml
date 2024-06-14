@@ -85,6 +85,8 @@ team_members: # Name is the only required field for team members.
   - name: "Ed Schaefer"
     employer: "Agile Ideation Coaching & Consulting"
     twitter: "agileideation"
+  - name: "Mike Nabhan"
+    employer: "Akamai"
 organizer_email: "denver@devopsdays.org"
 
 # List all of your sponsors here along with what level of sponsorship they have.
