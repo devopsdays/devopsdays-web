@@ -1,11 +1,7 @@
 +++
 Title = "Dan Cook"
 type = "speaker"
-twitter = ""
 linkedin = "https://www.linkedin.com/in/danonthetrail/"
-website = ""
-github = ""
-mastodon = ""
 image = "dan-cook.jpg"
 sharing_image = "dan-cook.jpg"
 +++

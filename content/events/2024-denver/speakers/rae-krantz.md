@@ -1,11 +1,7 @@
 +++
 Title = "Rae Krantz"
 type = "speaker"
-twitter = ""
-linkedin = ""
 website = "https://bsky.app/profile/dassie.bsky.social"
-github = ""
-mastodon = ""
 image = "rae-krantz.jpg"
 sharing_image = "rae-krantz.jpg"
 +++

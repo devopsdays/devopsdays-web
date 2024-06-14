@@ -1,11 +1,7 @@
 +++
 Title = "Joyce Lin"
 type = "speaker"
-twitter = ""
-linkedin = ""
 website = "https://www.tiktok.com/@joycejetson"
-github = ""
-mastodon = ""
 image = "joyce-lin.jpg"
 sharing_image = "joyce-lin.jpg"
 +++

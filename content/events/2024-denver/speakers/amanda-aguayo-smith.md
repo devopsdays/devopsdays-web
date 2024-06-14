@@ -1,11 +1,7 @@
 +++
 Title = "Amanda Aguayo Smith"
 type = "speaker"
-twitter = ""
 linkedin = "http://linkedin.com/in/amanda-aguayo-0b6487ab"
-website = ""
-github = ""
-mastodon = ""
 image = "amanda-aguayo-smith.jpg"
 sharing_image = "amanda-aguayo-smith.jpg"
 +++

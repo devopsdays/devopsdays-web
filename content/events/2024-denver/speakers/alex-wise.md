@@ -2,11 +2,6 @@
 Title = "Alex Wise"
 type = "speaker"
 twitter = "AWS_Snarkitect"
-bluesky = ""
-linkedin = ""
-website = ""
-github = ""
-mastodon = ""
 image = "alex-wise.png"
 sharing_image = "alex-wise.png"
 +++

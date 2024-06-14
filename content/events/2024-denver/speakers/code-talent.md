@@ -4,8 +4,6 @@ type = "workshop"
 twitter = "CodeTechTalent"
 linkedin = "https://www.linkedin.com/company/codetalent/"
 website = "https://www.code-talent.com/"
-github = ""
-mastodon = ""
 image = "code-talent.png"
 sharing_image = "code-talent.png"
 +++

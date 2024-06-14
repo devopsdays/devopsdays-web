@@ -1,11 +1,7 @@
 +++
 Title = "Eloise-Ann-Friedman"
 type = "speaker"
-twitter = ""
 linkedin = "https://www.linkedin.com/in/eloise-ann-friedman-%F0%9F%87%AE%F0%9F%87%B1-741742121/"
-website = ""
-github = ""
-mastodon = ""
 image = "eloise-ann-friedman.png"
 sharing_image = "eloise-ann-friedman.png"
 +++
