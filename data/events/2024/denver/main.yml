@@ -217,7 +217,7 @@ program:
     start_time: "17:15"
     end_time: "17:30"
   - title: "Happy Hour Hosted by Elastic"
-    background_color: "#122a8a"
+    background_color: "#8a6bfa"
     type: custom
     date: 2024-09-16
     start_time: "17:30"
