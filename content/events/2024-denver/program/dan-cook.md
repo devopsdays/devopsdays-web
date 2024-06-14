@@ -1,6 +1,6 @@
 +++
 Title = "Drawing Insights Software Development Lessons from XKCD Comics"
-Type = "talk"
+Type = "ignite"
 Speakers = ["dan-cook"]
 +++
 XKCD is not just "A webcomic of romance, sarcasm, math, and language." XKCD comics are insights into the mind of an engineer trying to make sense of the world and live his best life. These comics have a surprising amount to teach us about building useful software and working with others. In this humorous ignite-style talk, we'll look at how these comics can teach us important lessons about our code, our colleagues, our customers, and even ourselves.
