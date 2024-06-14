@@ -131,3 +131,225 @@ sponsor_levels:
     max: 9
   - id: community
     label: Community
+
+program:
+# Day 1
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2024-09-16T00:00:00-06:00
+    start_time: "08:00"
+    end_time: "08:45"
+  - title: "Day 1 Kickoff"
+    type: custom
+    date: 2024-09-16T00:00:00-06:00
+    start_time: "08:45"
+    end_time: "08:55"
+  - title: "jason-hand"
+    type: talk
+    date: 2024-09-16T00:00:00-06:00
+    start_time: "09:00"
+    end_time: "09:45"
+  - title: "tara-walton"
+    type: talk
+    date: 2024-09-16T00:00:00-06:00
+    start_time: "09:45"
+    end_time: "10:30"
+  - title: "tom-hastings"
+    type: talk
+    date: 2024-09-16T00:00:00-06:00
+    start_time: "10:30"
+    end_time: "11:15"
+  - title: "Break"
+    type: custom
+    date: 2024-09-16T00:00:00-06:00
+    start_time: "11:15"
+    end_time: "11:30"
+  - title: "dan-cook"
+    background_color: "#fffa99"
+    type: ignite
+    date: 2024-09-16T00:00:00-06:00
+    start_time: "11:30"
+    end_time: "11:35"
+  - title: "jessica-garson"
+    background_color: "#fffa99"
+    type: ignite
+    date: 2024-09-16T00:00:00-06:00
+    start_time: "11:35"
+    end_time: "11:40"
+  - title: "devin-wilson"
+    background_color: "#fffa99"
+    type: ignite
+    date: 2024-09-16T00:00:00-06:00
+    start_time: "11:40"
+    end_time: "11:45"
+  - title: "eloise-ann-friedman"
+    background_color: "#fffa99"
+    type: ignite
+    date: 2024-09-16T00:00:00-06:00
+    start_time: "11:45"
+    end_time: "11:50"
+  - title: "Lunch"
+    type: custom
+    date: 2024-09-16T00:00:00-06:00
+    start_time: "12:00"
+    end_time: "13:30"
+  - title: "alex-wise"
+    date: 2024-09-16T00:00:00-06:00
+    type: talk
+    start_time: "13:30"
+    end_time: "14:15"
+  - title: "cory-watson"
+    type: talk
+    date: 2024-09-16T00:00:00-06:00
+    start_time: "14:15"
+    end_time: "15:00"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2024-09-16T00:00:00-06:00
+    start_time: "15:00"
+    end_time: "15:15"
+  - title: "Open Space #1"
+    background_color: "#52d19e"
+    type: custom
+    date: 2024-09-16T00:00:00-06:00
+    start_time: "15:15"
+    end_time: "15:45"
+  - title: "Open Space #2"
+    background_color: "#52d19e"
+    type: custom
+    date: 2024-09-16T00:00:00-06:00
+    start_time: "15:45"
+    end_time: "16:15"
+  - title: "Open Space #3"
+    background_color: "#52d19e"
+    type: custom
+    date: 2024-09-16T00:00:00-06:00
+    start_time: "16:15"
+    end_time: "16:45"
+  - title: "Open Space #4"
+    background_color: "#52d19e"
+    type: custom
+    date: 2024-09-16T00:00:00-06:00
+    start_time: "16:45"
+    end_time: "17:15"
+  - title: "Day 1 Wrap-up"
+    type: custom
+    date: 2024-09-16T00:00:00-06:00
+    start_time: "17:15"
+    end_time: "17:30"
+  - title: "Happy Hour Hosted by Elastic"
+    background_color: "#122a8a"
+    type: custom
+    date: 2024-09-16T00:00:00-06:00
+    start_time: "17:30"
+    end_time: "late"
+
+# Day 2
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2024-09-17T23:59:59-06:00
+    start_time: "08:00"
+    end_time: "08:45"
+  - title: "Day 2 Kickoff"
+    type: custom
+    date: 2024-09-17T23:59:59-06:00
+    start_time: "08:45"
+    end_time: "08:55"
+  - title: "jessica-kerr"
+    type: talk
+    date: 2024-09-17T23:59:59-06:00
+    start_time: "09:00"
+    end_time: "09:45"
+  - title: "matthew-arnow"
+    type: talk
+    date: 2024-09-17T23:59:59-06:00
+    start_time: "09:45"
+    end_time: "10:30"
+  - title: "rae-krantz"
+    type: talk
+    date: 2024-09-17T23:59:59-06:00
+    start_time: "10:30"
+    end_time: "11:15"
+  - title: "Break"
+    type: custom
+    date: 2024-09-17T23:59:59-06:00
+    start_time: "11:15"
+    end_time: "11:30"
+  - title: "gwyneth-allwright"
+    background_color: "#fffa99"
+    type: ignite
+    date: 2024-09-17T23:59:59-06:00
+    start_time: "11:30"
+    end_time: "11:35"
+  - title: "bengie-de-groot"
+    background_color: "#fffa99"
+    type: ignite
+    date: 2024-09-17T23:59:59-06:00
+    start_time: "11:35"
+    end_time: "11:40"
+  - title: "joyce-lin"
+    background_color: "#fffa99"
+    type: ignite
+    date: 2024-09-17T23:59:59-06:00
+    start_time: "11:40"
+    end_time: "11:45"
+  - title: "divine-odazie"
+    background_color: "#fffa99"
+    type: ignite
+    date: 2024-09-17T23:59:59-06:00
+    start_time: "11:45"
+    end_time: "11:50"
+  - title: "Lunch"
+    type: custom
+    date: 2024-09-17T23:59:59-06:00
+    start_time: "12:00"
+    end_time: "13:30"
+  - title: "matt-kuritz"
+    date: 2024-09-17T23:59:59-06:00
+    type: talk
+    start_time: "13:30"
+    end_time: "14:15"
+  - title: "code-talent"
+    type: workshop
+    date: 2024-09-17T23:59:59-06:00
+    start_time: "14:15"
+    end_time: "15:00"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2024-09-17T23:59:59-06:00
+    start_time: "15:00"
+    end_time: "15:15"
+  - title: "Open Space #1"
+    background_color: "#52d19e"
+    type: custom
+    date: 2024-09-17T23:59:59-06:00
+    start_time: "15:15"
+    end_time: "15:45"
+  - title: "Open Space #2"
+    background_color: "#52d19e"
+    type: custom
+    date: 2024-09-17T23:59:59-06:00
+    start_time: "15:45"
+    end_time: "16:15"
+  - title: "Open Space #3"
+    background_color: "#52d19e"
+    type: custom
+    date: 2024-09-17T23:59:59-06:00
+    start_time: "16:15"
+    end_time: "16:45"
+  - title: "Open Space #4"
+    background_color: "#52d19e"
+    type: custom
+    date: 2024-09-17T23:59:59-06:00
+    start_time: "16:45"
+    end_time: "17:15"
+  - title: "Day 2: Wrap-up"
+    type: custom
+    date: 2024-09-17T23:59:59-06:00
+    start_time: "17:15"
+    end_time: "17:30"
+  - title: "Sponsor Raffles/Closing"
+    type: custom
+    date: 2024-09-17T23:59:59-06:00
+    start_time: "17:30"
+    end_time: "18:00"
