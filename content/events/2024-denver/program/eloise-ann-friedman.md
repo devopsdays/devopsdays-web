@@ -1,6 +1,6 @@
 +++
 Title = "Five Fun Facts About Concrete That Will Make Managers Rethink Paradigms"
-Type = "ignite"
+Type = "talk"
 Speakers = ["eloise-ann-friedman"]
 +++
 As managers we love to throw out slogans - challenge yourself outside your comfort zone, or - that engineer doesn't really contribute a lot of work, but he is harmless...

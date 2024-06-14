@@ -1,6 +1,6 @@
 +++
 Title = "The Striking Similarities between Motherhood and Security in 2024"
-Type = "ignite"
+Type = "talk"
 Speakers = ["amanda-aguayo-smith"]
 +++
 Yelling with pounding fists, people trying to tell you how to do your job, opening your eyes to find yet another mess was made. Is this motherhood, security or both? This lightning talk will be an interactive game of motherhood or security. 

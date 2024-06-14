@@ -1,6 +1,6 @@
 +++
 Title = "Filling Knowledge Gaps: Lessons From My Journey to Understanding Database Internals"
-Type = "ignite"
+Type = "talk"
 Speakers = ["divine-odazie"]
 +++
 Prior to early 2022, Divine has been a software engineer for years, and interacted with several databases like Postgres, MySQL and Redis, etc but when he was listening to a conversation on database internals, he was so confused.
