@@ -1,5 +1,5 @@
 +++
-Title = "Job Search Workshop with Rita Povlich & Riley Scardina of Code Talent"
+Title = "Workshop with Rita Povlich & Riley Scardina of Code Talent"
 type = "workshop"
 twitter = "CodeTechTalent"
 linkedin = "https://www.linkedin.com/company/codetalent/"
