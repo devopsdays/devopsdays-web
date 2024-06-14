@@ -166,30 +166,11 @@ program:
     date: 2024-09-16
     start_time: "11:15"
     end_time: "11:30"
-  - title: "dan-cook"
-    background_color: "#fffa99"
+  - title: "Ignites"
     type: ignite
     date: 2024-09-16
     start_time: "11:30"
-    end_time: "11:35"
-  - title: "jessica-garson"
-    background_color: "#fffa99"
-    type: ignite
-    date: 2024-09-16
-    start_time: "11:35"
-    end_time: "11:40"
-  - title: "devin-wilson"
-    background_color: "#fffa99"
-    type: ignite
-    date: 2024-09-16
-    start_time: "11:40"
-    end_time: "11:45"
-  - title: "eloise-ann-friedman"
-    background_color: "#fffa99"
-    type: ignite
-    date: 2024-09-16
-    start_time: "11:45"
-    end_time: "11:50"
+    end_time: "12:00"
   - title: "Lunch"
     type: custom
     date: 2024-09-16
@@ -211,26 +192,22 @@ program:
     start_time: "15:00"
     end_time: "15:15"
   - title: "Open Space #1"
-    background_color: "#52d19e"
-    type: custom
+    type: open-space
     date: 2024-09-16
     start_time: "15:15"
     end_time: "15:45"
   - title: "Open Space #2"
-    background_color: "#52d19e"
-    type: custom
+    type: open-space
     date: 2024-09-16
     start_time: "15:45"
     end_time: "16:15"
   - title: "Open Space #3"
-    background_color: "#52d19e"
-    type: custom
+    type: open-space
     date: 2024-09-16
     start_time: "16:15"
     end_time: "16:45"
   - title: "Open Space #4"
-    background_color: "#52d19e"
-    type: custom
+    type: open-space
     date: 2024-09-16
     start_time: "16:45"
     end_time: "17:15"
@@ -277,30 +254,11 @@ program:
     date: 2024-09-17
     start_time: "11:15"
     end_time: "11:30"
-  - title: "gwyneth-allwright"
-    background_color: "#fffa99"
+  - title: "Ignites"
     type: ignite
     date: 2024-09-17
     start_time: "11:30"
-    end_time: "11:35"
-  - title: "bengie-de-groot"
-    background_color: "#fffa99"
-    type: ignite
-    date: 2024-09-17
-    start_time: "11:35"
-    end_time: "11:40"
-  - title: "joyce-lin"
-    background_color: "#fffa99"
-    type: ignite
-    date: 2024-09-17
-    start_time: "11:40"
-    end_time: "11:45"
-  - title: "divine-odazie"
-    background_color: "#fffa99"
-    type: ignite
-    date: 2024-09-17
-    start_time: "11:45"
-    end_time: "11:50"
+    end_time: "12:00"
   - title: "Lunch"
     type: custom
     date: 2024-09-17
@@ -322,26 +280,22 @@ program:
     start_time: "15:00"
     end_time: "15:15"
   - title: "Open Space #1"
-    background_color: "#52d19e"
-    type: custom
+    type: open-space
     date: 2024-09-17
     start_time: "15:15"
     end_time: "15:45"
   - title: "Open Space #2"
-    background_color: "#52d19e"
-    type: custom
+    type: open-space
     date: 2024-09-17
     start_time: "15:45"
     end_time: "16:15"
   - title: "Open Space #3"
-    background_color: "#52d19e"
-    type: custom
+    type: open-space
     date: 2024-09-17
     start_time: "16:15"
     end_time: "16:45"
   - title: "Open Space #4"
-    background_color: "#52d19e"
-    type: custom
+    type: open-space
     date: 2024-09-17
     start_time: "16:45"
     end_time: "17:15"
@@ -355,4 +309,21 @@ program:
     date: 2024-09-17
     start_time: "17:30"
     end_time: "18:00"
-    
+
+ignites:
+  - title: "dan-cook"
+    date: 2024-09-16
+  - title: "jessica-garson"
+    date: 2024-09-16
+  - title: "devin-wilson"
+    date: 2024-09-16
+  - title: "eloise-ann-friedman"
+    date: 2024-09-16
+  - title: "gwyneth-allwright"
+    date: 2024-09-17
+  - title: "bengie-de-groot"
+    date: 2024-09-17
+  - title: "joyce-lin"
+    date: 2024-09-17
+  - title: "divine-odazie"
+    date: 2024-09-17
