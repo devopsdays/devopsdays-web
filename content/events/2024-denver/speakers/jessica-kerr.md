@@ -1,6 +1,11 @@
 +++
 Title = "Jessica Kerr"
 type = "speaker"
+twitter = "jessitron"
+linkedin = ""
+website = "https://jessitron.com"
+github = "https://github.com/jessitron"
+mastodon = "https://hachyderm.io/@jessitron"
 image = "jessica-kerr.jpg"
 sharing_image = "jessica-kerr.jpg"
 +++

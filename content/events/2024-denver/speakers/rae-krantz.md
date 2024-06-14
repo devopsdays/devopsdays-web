@@ -1,6 +1,12 @@
 +++
 Title = "Rae Krantz"
 type = "speaker"
+twitter = ""
+bluesky = "https://bsky.app/profile/dassie.bsky.social"
+linkedin = ""
+website = ""
+github = ""
+mastodon = ""
 image = "rae-krantz.jpg"
 sharing_image = "rae-krantz.jpg"
 +++

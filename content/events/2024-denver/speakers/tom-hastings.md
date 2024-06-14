@@ -1,6 +1,11 @@
 +++
 Title = "Tom Hastings"
 type = "speaker"
+twitter = "tghastings"
+linkedin = ""
+website = ""
+github = ""
+mastodon = ""
 image = "tom-hastings.jpg"
 sharing_image = "tom-hastings.jpg"
 +++

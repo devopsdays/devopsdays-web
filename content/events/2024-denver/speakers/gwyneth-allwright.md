@@ -1,6 +1,11 @@
 +++
 Title = "Gwyneth Allwright"
 type = "speaker"
+twitter = ""
+linkedin = "https://www.linkedin.com/in/gwynethallwright"
+website = ""
+github = ""
+mastodon = ""
 image = "gwyneth-allwright.jpg"
 sharing_image = "gwyneth-allwright.jpg"
 +++

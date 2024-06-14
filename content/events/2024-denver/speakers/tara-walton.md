@@ -1,6 +1,12 @@
 +++
 Title = "Tara Walton"
 type = "speaker"
+twitter = "TaraWithTiaras"
+bluesky = "https://bsky.app/profile/tarawithtiaras.bsky.social"
+linkedin = "https://www.linkedin.com/in/tarawalton/"
+website = "https://bento.me/tarawalton"
+github = ""
+mastodon = ""
 image = "tara-walton.png"
 sharing_image = "tara-walton.png"
 +++

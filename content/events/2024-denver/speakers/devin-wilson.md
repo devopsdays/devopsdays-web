@@ -1,6 +1,11 @@
 +++
 Title = "Devin Wilson"
 type = "speaker"
+twitter = ""
+linkedin = "https://linkedin.com/in/devinw/"
+website = ""
+github = "https://github.com/dwilson6"
+mastodon = ""
 image = "devin-wilson.png"
 sharing_image = "devin-wilson.png"
 +++
