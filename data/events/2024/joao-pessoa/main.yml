@@ -105,16 +105,16 @@ team_members: # Name is the only required field for team members.
     image: "cauan-cabral.jpeg"
 
   - name: "Cinthia Lindolfo"
-    pronomes: "Ela/Dela"
-    função: ""
-    empregador(a): "Estagiária na BRGWeb"
+    pronouns: "Ela/Dela"
+    role: ""
+    employer: "Estagiária na BRGWeb"
     bio: "Graduanda em Sistema de Informações pela UFPB campus IV, estou no 7° período, já atuei com Analista de dados no projeto de Extensão - ENEX - Tecnologia Cidadã RT, onde recebi o prêmio pelo projeto, atualmente estou como voluntária no projeto de PIBITI E-bookv - Livro literário pra crianças autodiversas, e também estou estagiando na empresa BRGWeb a 4 meses como Product Owner na área de Gestão de projetos de desenvolvimento. Sou apaixonada em aprender, gosto das áreas de gestão, gerente de projetos, enganharia de software, analise de dados, desenvolviemento de frontend. Gosto de viajar, visitar minha família, maratonar series com minha esposa, amo gatos(as)."
-    github: "https://github.com/cinthialindolfo"
+    github: "cinthialindolfo"
     facebook: "https://www.facebook.com/Cinthialindolfo/"
-    twitter: "https://twitter.com/CinthiaLindolfo"
+    twitter: "CinthiaLindolfo"
     linkedin: "https://www.linkedin.com/in/cinthia-lindolfo/"
-    website: "X"
-    mastodon: "X"
+    website: ""
+    mastodon: ""
     image: "cinthialindolfo.jpeg"
 
   - name: "Diego Cananea"
@@ -252,11 +252,9 @@ organizer_email: "joao-pessoa@devopsdays.org" # Put your organizer email address
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  # - id: samplesponsorname
-    # level: gold
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  # - id: arresteddevops
-    # level: community
+  - id: uniesp
+    level: gold
+
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -265,6 +263,8 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: platinum
+    label: Platinum
   - id: gold
     label: Gold
 #    max: 10
@@ -273,5 +273,4 @@ sponsor_levels:
     max: 0 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
-  - id: community
-    label: Community
+

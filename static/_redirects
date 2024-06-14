@@ -125,7 +125,7 @@
 /victoria/*		/events/2019-victoria/:splat		302
 /vitoria/*		/events/2022-vitoria/:splat		302
 /vilnius/*            	/events/2024-vilnius/:splat             302
-/warsaw/*		/events/2022-warsaw/:splat		302
+/warsaw/*		/events/2024-warsaw/:splat		302
 /washington-dc/*	/events/2024-washington-dc/:splat	302
 /zaragoza/*		/events/2020-zaragoza/:splat		302
 /zurich/*		/events/2025-zurich/:splat		302
@@ -262,3 +262,4 @@
 events/2024-ahmedabad/sponsorship-prospectus.pdf https://assets.devopsdays.org/events/2024/ahmedabad/sponsorship-prospectus.pdf
 /curitiba/*            /events/2024-curitiba/:splat           302
 /joao-pessoa/*            /events/2024-joao-pessoa/:splat           302
+/kerala/*            /events/2024-kerala/:splat           302

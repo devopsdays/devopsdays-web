@@ -28,13 +28,16 @@ Description = "devopsdays Vilnius 2024"
             <li>
                 <strong>Ignites</strong> - 5 minute talks. After lunch, several short talks with with 20 slides that
                 auto-advance. Funny,
-                poignant, insightful, and just right.
+                poignant, insightful, and just right. <a href="https://talks.devopsdays.org/devopsdays-vilnius-2024/cfp">Propose now!</a>
             </li>
             <li>
                 <strong>Open Spaces</strong> - Prepare to be surprised. Participants suggest, self-organize, and lead
                 these break-out style
                 meetings immediately after the Ignite talks. The organizers facilitate the rooms and timing to fit each
                 suggestion, but the content is completely participant-driven.
+            </li>
+             <li>
+                <strong>Workshop</strong> - This year we are preparing a small workshop on 10th of September. It will be separate registration with very limited seats available.
             </li>
         </ul>
         </p>
