@@ -112,6 +112,8 @@ sponsors:
     level: community
   - id: kubeevents
     level: community
+  - id: code-talent
+    level: community
   - id: nadog
     level: community
 
@@ -217,7 +219,7 @@ program:
     start_time: "17:15"
     end_time: "17:30"
   - title: "Happy Hour Hosted by Elastic"
-    background_color: "#8a6bfa"
+    background_color: "#b39eff"
     type: custom
     date: 2024-09-16
     start_time: "17:30"
