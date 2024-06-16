@@ -1,6 +1,7 @@
 +++
 Title = "Dan Cook"
 type = "speaker"
+linkedin = "https://www.linkedin.com/in/danonthetrail/"
 image = "dan-cook.jpg"
 sharing_image = "dan-cook.jpg"
 +++

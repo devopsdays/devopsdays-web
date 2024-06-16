@@ -1,6 +1,6 @@
 +++
 Title = "Designing Effective Runbooks"
-Type = "ignite"
+Type = "talk"
 Speakers = ["jessica-garson"]
 +++
 Memorizing every deployment step can be daunting, often leading to fear and mistakes. Deployment runbooks foster an inclusive environment by providing a consistent foundation for all team members. They enable newcomers to integrate and deploy new features quickly, even in unforeseen circumstances.

@@ -1,6 +1,8 @@
 +++
 Title = "Divine Odazie"
 type = "speaker"
+twitter = "https://twitter.com/_odazie"
+linkedin = "https://www.linkedin.com/in/divine-odazie/"
 image = "divine-odazie.png"
 sharing_image = "divine-odazie.png"
 +++

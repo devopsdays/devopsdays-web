@@ -1,6 +1,7 @@
 +++
 Title = "Rae Krantz"
 type = "speaker"
+website = "https://bsky.app/profile/dassie.bsky.social"
 image = "rae-krantz.jpg"
 sharing_image = "rae-krantz.jpg"
 +++

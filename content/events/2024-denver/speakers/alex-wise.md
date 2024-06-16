@@ -1,6 +1,7 @@
 +++
 Title = "Alex Wise"
 type = "speaker"
+twitter = "AWS_Snarkitect"
 image = "alex-wise.png"
 sharing_image = "alex-wise.png"
 +++

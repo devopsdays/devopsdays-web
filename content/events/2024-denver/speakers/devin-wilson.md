@@ -1,6 +1,8 @@
 +++
 Title = "Devin Wilson"
 type = "speaker"
+linkedin = "https://linkedin.com/in/devinw/"
+github = "https://github.com/dwilson6"
 image = "devin-wilson.png"
 sharing_image = "devin-wilson.png"
 +++

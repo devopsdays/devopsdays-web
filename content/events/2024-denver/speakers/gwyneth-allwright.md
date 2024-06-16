@@ -1,6 +1,7 @@
 +++
 Title = "Gwyneth Allwright"
 type = "speaker"
+linkedin = "https://www.linkedin.com/in/gwynethallwright"
 image = "gwyneth-allwright.jpg"
 sharing_image = "gwyneth-allwright.jpg"
 +++

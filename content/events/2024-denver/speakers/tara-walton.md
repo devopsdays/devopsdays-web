@@ -1,6 +1,9 @@
 +++
 Title = "Tara Walton"
 type = "speaker"
+twitter = "TaraWithTiaras"
+linkedin = "https://www.linkedin.com/in/tarawalton/"
+website = "https://bento.me/tarawalton"
 image = "tara-walton.png"
 sharing_image = "tara-walton.png"
 +++
