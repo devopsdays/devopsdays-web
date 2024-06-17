@@ -1,8 +1,9 @@
 +++
 Title = "Jeremy Meiss"
-Linkedin = ""
-Website = ""
-Twitter = ""
+Linkedin = "https://www.linkedin.com/in/jeremymeiss/"
+Website = "https://jmeiss.me"
+Twitter = "IAmJerdog"
+Mastodon = "https://hachyderm.io/@jerdog"
 image = "jeremy-meiss.jpg"
 type = "speaker"
 linktitle = "jeremy-meiss"
