@@ -42,7 +42,7 @@
 /florianopolis/*	/events/2023-florianopolis/:splat	302
 /fortaleza/*		/events/2022-fortaleza/:splat		302
 /galway/*		/events/2019-galway/:splat		302
-/geneva/*		/events/2023-geneva/:splat		302
+/geneva/*		/events/2025-geneva/:splat		302
 /ghent/*		/events/2024-antwerp/:splat		302
 /goiania/cfp		https://talks.devopsdays.org/devopsdays-goiania-2024/ 302
 /goiania/*		/events/2024-goiania/:splat		302
