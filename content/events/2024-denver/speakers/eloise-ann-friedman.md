@@ -1,5 +1,5 @@
 +++
-Title = "Eloise-Ann-Friedman"
+Title = "Eloise Ann Friedman"
 type = "speaker"
 linkedin = "https://www.linkedin.com/in/eloise-ann-friedman-%F0%9F%87%AE%F0%9F%87%B1-741742121/"
 image = "eloise-ann-friedman.png"
