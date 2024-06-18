@@ -149,14 +149,14 @@ sponsors:
    level: community
  - id: shadow-soft
    level: bronze
-#  - id: granulate
-#    level: gold
-#  - id: regscale
-#    level: silver
-#  - id: cloudbees
-#    level: gold
-#  - id: ustglobal
-#    level: gold
+ - id: nashville-pywonder-usergroup
+   level: community
+ - id: nashdotnet
+   level: community
+ - id: zenhub
+   level: gold
+ - id: observeinc
+   level: gold
 #  - id: spot-by-netapp
 #    level: silver
 #  - id: insightfinder

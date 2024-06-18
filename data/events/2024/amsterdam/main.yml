@@ -237,7 +237,7 @@ program:
     date: 2024-06-19T00:00:00+02:00
     start_time: "09:00"
     end_time: "12:00"
-    comments: "Expo 1"
+    comments: "Expo 1 - Max of 30 attendees"
 
   - title: "ws-nathen-harvey-amanda-lewis-dave-stanke"
     type: workshop
@@ -251,7 +251,7 @@ program:
     date: 2024-06-19T00:00:00+02:00
     start_time: "09:00"
     end_time: "12:00"
-    comments: "Studio"
+    comments: "Studio - Max of 30 attendees"
 
   - title: "ws-john-willis-patrick-debois"
     type: workshop
@@ -321,7 +321,7 @@ program:
     date: 2024-06-19T00:00:00+02:00
     start_time: "14:45"
     end_time: "16:45"
-    comments: "Expo 1"
+    comments: "Expo 1 - Max of 30 attendees"
 
   # BREAK
   - title: "Break"
@@ -407,7 +407,7 @@ program:
     end_time: "10:45"
     background_color: "#8ad0d3"
 
-  - title: "katharina-sick"
+  - title: "jeremy-meiss"
     type: talk
     date: 2024-06-20T00:00:00+02:00
     start_time: "10:50"
