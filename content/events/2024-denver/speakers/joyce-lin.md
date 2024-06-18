@@ -2,7 +2,9 @@
 Title = "Joyce Lin"
 type = "speaker"
 website = "https://www.tiktok.com/@joycejetson"
+linkedin = "https://www.linkedin.com/in/joyce-lin/"
+twitter = "PetuniaGray"
 image = "joyce-lin.jpg"
 sharing_image = "joyce-lin.jpg"
 +++
-Joyce is a senior director of developer relations at Postman, an API platform used by 30M+ people to access bazillions of APIs every month. She is a culinary magician who specializes in tacos.
+Joyce Lin is the head of developer relations at Viam, a robotics platform that connects software with smart machines in the physical world. Based in San Francisco, she is also a Tiktok influencer, dog mom, cat mom, and writer.
