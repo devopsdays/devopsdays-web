@@ -153,10 +153,10 @@ sponsors:
    level: community
  - id: nashdotnet
    level: community
-#  - id: cloudbees
-#    level: gold
-#  - id: ustglobal
-#    level: gold
+ - id: zenhub
+   level: gold
+ - id: observeinc
+   level: gold
 #  - id: spot-by-netapp
 #    level: silver
 #  - id: insightfinder
