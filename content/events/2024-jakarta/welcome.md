@@ -23,7 +23,7 @@ Description = "DevOpsDays Jakarta 2024"
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
-    DevOpsDays Jakarta 2024 is the sixth edition of this volunteer-driven worldwide series of events. It will be fully ONSITE on the stage!
+    DevOpsDays Jakarta 2024 is the fifth edition of this volunteer-driven worldwide series of events. It will be fully ONSITE on the stage!
   </div>
 </div> 
 

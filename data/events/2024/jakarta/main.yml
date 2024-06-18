@@ -104,28 +104,36 @@ sponsors:
     level: platinum
   - id:  naradacode
     level: platinum
-  - id: grafanalabs
+  - id: grafanabr
     level: silver
+  - id: itg
+    level: gold
+  - id: aiven
+    level: gold
+  - id: devops-indonesia
+    level: community
+  - id: bncc
+    level: community
+  - id: jvm
+    level: community
   - id: itilindonesia
-    level: community
-  - id: androiddevelopernasional
-    level: community
-  - id: golangid
-    level: community
-  - id: tamankodekode
     level: community
   - id: petanikode
     level: community
   - id: androidbandung
     level: community
-  - id: orangsiber
-    level: community
   - id: kotlinuserindonesia
     level: community
-  - id: devsecopsindonesia
+  - id: iccom
     level: community
-  - id: jvm
+  - id: gdg-bandung
     level: community
+  - id: geekhunter
+    level: media
+  - id: infokomputer
+    level: media
+  - id: girlskode
+    level: media
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -147,3 +155,5 @@ sponsor_levels:
     max: 6
   - id: community
     label: Community
+  - id: media
+    label: Media
