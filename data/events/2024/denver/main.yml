@@ -37,8 +37,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
   - name: register
     url: https://tickets.devopsdays.org/devopsdays-denver/2024/
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -85,6 +85,8 @@ team_members: # Name is the only required field for team members.
   - name: "Ed Schaefer"
     employer: "Agile Ideation Coaching & Consulting"
     twitter: "agileideation"
+  - name: "Mike Nabhan"
+    employer: "Akamai"
 organizer_email: "denver@devopsdays.org"
 
 # List all of your sponsors here along with what level of sponsorship they have.
@@ -110,6 +112,8 @@ sponsors:
     level: community
   - id: kubeevents
     level: community
+  - id: code-talent
+    level: community
   - id: nadog
     level: community
 
@@ -122,12 +126,208 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Gold
-    max: 10
+    max: 0
   - id: silver
     label: Silver
-    max: 9
+    max: 0
   - id: supporter
     label: Supporter
-    max: 9
+    max: 0
   - id: community
     label: Community
+
+program:
+    # Day 1
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2024-09-16
+    start_time: "08:00"
+    end_time: "08:45"
+  - title: "Day 1 Kickoff"
+    type: custom
+    date: 2024-09-16
+    start_time: "08:45"
+    end_time: "08:55"
+  - title: "jason-hand"
+    type: talk
+    date: 2024-09-16
+    start_time: "09:00"
+    end_time: "09:45"
+  - title: "tara-walton"
+    type: talk
+    date: 2024-09-16
+    start_time: "09:45"
+    end_time: "10:30"
+  - title: "tom-hastings"
+    type: talk
+    date: 2024-09-16
+    start_time: "10:30"
+    end_time: "11:15"
+  - title: "Break"
+    type: custom
+    date: 2024-09-16
+    start_time: "11:15"
+    end_time: "11:30"
+  - title: "Ignites"
+    type: ignite
+    date: 2024-09-16
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch"
+    type: custom
+    date: 2024-09-16
+    start_time: "12:00"
+    end_time: "13:30"
+  - title: "alex-wise"
+    date: 2024-09-16
+    type: talk
+    start_time: "13:30"
+    end_time: "14:15"
+  - title: "cory-watson"
+    type: talk
+    date: 2024-09-16
+    start_time: "14:15"
+    end_time: "15:00"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2024-09-16
+    start_time: "15:00"
+    end_time: "15:15"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2024-09-16
+    start_time: "15:15"
+    end_time: "15:45"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2024-09-16
+    start_time: "15:45"
+    end_time: "16:15"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2024-09-16
+    start_time: "16:15"
+    end_time: "16:45"
+  - title: "Open Space #4"
+    type: open-space
+    date: 2024-09-16
+    start_time: "16:45"
+    end_time: "17:15"
+  - title: "Day 1 Wrap-up"
+    type: custom
+    date: 2024-09-16
+    start_time: "17:15"
+    end_time: "17:30"
+  - title: "Happy Hour"
+    background_color: "#b39eff"
+    type: custom
+    date: 2024-09-16
+    start_time: "17:30"
+    end_time: "late"
+
+    # Day 2
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2024-09-17
+    start_time: "08:00"
+    end_time: "08:45"
+  - title: "Day 2 Kickoff"
+    type: custom
+    date: 2024-09-17
+    start_time: "08:45"
+    end_time: "08:55"
+  - title: "jessica-kerr"
+    type: talk
+    date: 2024-09-17
+    start_time: "09:00"
+    end_time: "09:45"
+  - title: "matthew-arnow"
+    type: talk
+    date: 2024-09-17
+    start_time: "09:45"
+    end_time: "10:30"
+  - title: "rae-krantz"
+    type: talk
+    date: 2024-09-17
+    start_time: "10:30"
+    end_time: "11:15"
+  - title: "Break"
+    type: custom
+    date: 2024-09-17
+    start_time: "11:15"
+    end_time: "11:30"
+  - title: "Ignites"
+    type: ignite
+    date: 2024-09-17
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch"
+    type: custom
+    date: 2024-09-17
+    start_time: "12:00"
+    end_time: "13:30"
+  - title: "matt-kuritz"
+    date: 2024-09-17
+    type: talk
+    start_time: "13:30"
+    end_time: "14:15"
+  - title: "code-talent"
+    type: workshop
+    date: 2024-09-17
+    start_time: "14:15"
+    end_time: "15:00"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2024-09-17
+    start_time: "15:00"
+    end_time: "15:15"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2024-09-17
+    start_time: "15:15"
+    end_time: "15:45"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2024-09-17
+    start_time: "15:45"
+    end_time: "16:15"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2024-09-17
+    start_time: "16:15"
+    end_time: "16:45"
+  - title: "Open Space #4"
+    type: open-space
+    date: 2024-09-17
+    start_time: "16:45"
+    end_time: "17:15"
+  - title: "Day 2: Wrap-up"
+    type: custom
+    date: 2024-09-17
+    start_time: "17:15"
+    end_time: "17:30"
+  - title: "Sponsor Raffles/Closing"
+    type: custom
+    date: 2024-09-17
+    start_time: "17:30"
+    end_time: "18:00"
+
+ignites:
+  - title: "dan-cook"
+    date: 2024-09-16
+  - title: "jessica-garson"
+    date: 2024-09-16
+  - title: "amanda-aguayo-smith"
+    date: 2024-09-16
+  - title: "devin-wilson"
+    date: 2024-09-16
+  - title: "eloise-ann-friedman"
+    date: 2024-09-16
+  - title: "gwyneth-allwright"
+    date: 2024-09-17
+  - title: "benjie-de-groot"
+    date: 2024-09-17
+  - title: "joyce-lin"
+    date: 2024-09-17
+  - title: "divine-odazie"
+    date: 2024-09-17
