@@ -1,8 +1,8 @@
 +++
-Title = "DevopsDays Geneva 2024"
+Title = "DevopsDays Geneva 2025"
 Type = "welcome"
-aliases = ["/events/2024-geneva/"]
-Description = "DevopsDays Geneva 2024"
+aliases = ["/events/2025-geneva/"]
+Description = "DevopsDays Geneva 2025"
 +++
 <style>
   .welcome-page-masthead {
@@ -49,37 +49,11 @@ Description = "DevopsDays Geneva 2024"
 </style>
 
 
-<div class="row">
-  <div class="col-md-12">
-    <div class="row justify-content-center">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/mTH_w5VbxcU?si=ecq9OpWR_NEnNdwp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    </div>
-  </div>
+<div style="text-align:center;">
+  {{< event_logo >}}
 </div>
-<div class="row">
-    <div class="col-md-12">
-      <div class="row justify-content-center">
-        <div class="d-flex p-2">
-          <a class="btn btn-primary btn-block"
-            style="margin-top: 15px; margin-bottom: 15px; background-color: #8e44b3; border-color: #8e44b3;"
-            href="https://www.youtube.com/watch?v=mTH_w5VbxcU">
-            <i class="fa fa-video fa-lg"></i>&nbsp;&nbsp;DevOpsDays 2024 Video
-          </a>
-        </div>
-      </div>
-    </div>
-    <div class="col-md-12">
-      <div class="row justify-content-center">
-        <div class="d-flex p-2">
-          <a class="btn btn-primary btn-block"
-            style="margin-top: 15px; margin-bottom: 15px; background-color: #8e44b3; border-color: #8e44b3;"
-            href="https:/events/2025-geneva">
-            <i class="fa fa-hand-point-right fa-lg"></i>&nbsp;&nbsp;DevOpsDays 2025 will come back on the 19th of May !
-          </a>
-        </div>
-      </div>
-    </div>
-</div>
+<br>
+<br>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -90,51 +64,51 @@ Description = "DevopsDays Geneva 2024"
   </div>
 </div>
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div>
+</div> -->
 
-<!--
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="registration" text="Register to attend the conference!" >}}
   </div>
-</div>
+</div> -->
 
-
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
-</div>
--->
-<div class = "row">
+</div> -->
+
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
     View the {{< event_link page="program" text="program." >}}
   </div>
-</div>
-<div class = "row">
+</div> -->
+
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
-</div>
+</div> -->
+
 <div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>
@@ -143,14 +117,7 @@ Description = "DevopsDays Geneva 2024"
     {{< event_link page="sponsor" text="Sponsor the conference!" >}}
   </div>
 </div>
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Newsletter</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="newsletter" text="Subscribe to our newsletter for the next news !" >}}
-  </div>
-</div>
+
 <div class = "row">
   <div class = "col-md-2">
     <strong>Contact</strong>
@@ -160,5 +127,7 @@ Description = "DevopsDays Geneva 2024"
   </div>
 </div>
 
-<br />
+<!-- Uncomment if you added your city twitter name -->
+<!--
 {{< event_twitter >}}
+-->
