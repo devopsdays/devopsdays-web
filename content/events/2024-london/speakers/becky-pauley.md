@@ -8,4 +8,4 @@ linktitle = "becky-pauley"
 
 +++
 
-Working as a primary school teacher, I started learning Python in my spare time- and got hooked on the feeling of solving problems. A few years ago I finally made the leap from teaching into tech! Since then, I've worked in Platform and Cloud Engineering roles- most recently at Venafi Jetstack Consult with a focus on Kubernetes and Cloud Native technologies. As well as all things infrastructure, I’m passionate about ways of working, learning and culture.
+A self-taught engineer and career changer, Becky made the leap from teaching to tech four years ago. She’s since worked in Platform and Cloud Engineering roles, with a focus on Kubernetes best practices and Cost-Optimisation. As well as all things Cloud Native, she’s passionate about ways of working, learning and community. In particular, she loves taking technical concepts and making them simple to understand. Becky also loves a challenge- and outside of work you’ll find her surfing, bouldering or hiking.

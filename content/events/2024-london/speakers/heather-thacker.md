@@ -6,3 +6,5 @@ type = "speaker"
 linktitle = "heather-thacker"
 
 +++
+
+Developer advocate with a background in software engineering.
