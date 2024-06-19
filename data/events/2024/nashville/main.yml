@@ -157,10 +157,10 @@ sponsors:
    level: gold
  - id: observeinc
    level: gold
-#  - id: spot-by-netapp
-#    level: silver
-#  - id: insightfinder
-#    level: silver
+ - id: bit-nash
+   level: community
+ - id: witt-tennessee
+   level: community
 #  - id: saltworks
 #    level: gold
 
