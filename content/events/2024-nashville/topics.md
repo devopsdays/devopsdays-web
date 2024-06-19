@@ -101,6 +101,11 @@ Description = "DevOpsDays Nashville 2024 Topics"
     <td>Standard</td>
   </tr>
   <tr>
+    <td>Troubleshooting Microservice Architectures</td>
+    <td>Peter Zaitsev</td>
+    <td>Standard</td>
+  </tr>
+  <tr>
     <td>Chaos Engineering in Action: Practical Techniques for Building Fault-Tolerant Systems</td>
     <td>Hareesh Iyer</td>
     <td>Lightning</td>
