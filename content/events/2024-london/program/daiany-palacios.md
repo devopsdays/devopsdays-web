@@ -2,12 +2,11 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Platform Engineering to the rescue!"
+Title = "Help! My DevOps team is stuck!"
 Type = "talk"
 Speakers = ["daiany-palacios"]
 +++
 
-You are a new "DevOps" engineer joining my team. We are a small product team in a large engineering organisation. You hear we need to redesign our whole CI/CD pipeline concept, so we can scale. So, you start looking for some company-wide standards we can leverage on, but all you find is that every team seems to be doing its own thing. You have to start from network and firewall configurations for our particular case. So, the application scaling will take longer than expected. Stakeholders are unhappy. We have a problem!
-
-The solution? Platform Engineering to the rescue!
-In this ignite talk I want to advocate for the importance and meaningfulness of the support of a platform engineering team in large engineering organisations, using my own experience as a reference. My goal is to remind the audience how important it is not having to reinvent the wheel each time, for product teams to be able to lift off and deliver as promised.
+About two years ago I was faced with the task of building a team from scratch, to rebuild and redesign an old application into a new one, more modern and flexible to include a lot of new requirements.
+I managed to build a small "DevOps" team which delivered successfully a first version of the new application. Today it is actively used in PROD, and continuously further developed. Leveraging public cloud, the team can cover the whole delivery chain in a "we build it, we own it" fashion.
+So far, so good, until it was time to scale. In this ignite talk I want to tell the story about why my team is stuck in the face of the application scaling that is upcoming. I will be basically making a point of the need for a shared self-service platform approach on a corporate level, so that teams like mine can lift off.
