@@ -4,7 +4,7 @@ Talk_start_time = "10:10"
 Talk_end_time = "10:40"
 Title = "15 years of #devops , but what did we really learn?"
 Type = "talk"
-Speakers = ["kris-buytaer"]
+Speakers = ["kris-buytaert"]
 +++
 
 10 years ago we had the idea to organise a conference in Gent to bridge the gap between developers and the people runing their code. It was the start of a new global movement. We never predicted that #devops would be where #devops is today. The word devops has evolved, the community has evolved.
