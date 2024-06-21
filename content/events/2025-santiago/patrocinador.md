@@ -1,7 +1,7 @@
 +++
-Title = "Sponsor"
+Title = "Patrocinador"
 Type = "event"
-Description = "Sponsor devopsdays Santiago de Chile 2025"
+Description = "Patrocinadores devopsdays Santiago de Chile 2025"
 +++
 
 <div class="container-fluid">
@@ -12,107 +12,121 @@ Description = "Sponsor devopsdays Santiago de Chile 2025"
         <p>¡Valoramos mucho a los patrocinadores de este evento comunitario! Si está interesado en patrocinar, solicite un PDF de nuestro prospecto para obtener más detalles enviándonos un correo electrónico a {{< email_organizers >}}.</p>
         <br>
       </div>
-      <h3>Sponsorship Packages</h3>
+      <h3>Paquetes de Patrocinio</h3>
       <div class="table-responsive">
         <table class="table table-bordered table-hover table-responsive-md">
           <thead class="thead-light">
             <tr>
               <th scope="col"><i>Paquete</i></th>
-              <th scope="col"><center>Gold</center></th>
-              <th scope="col"><center>Platinum</center></th>
-              <th scope="col"><center>Diamond</center></th>			
+              <th scope="col"><center>Blanco</center></th>
+              <th scope="col"><center>Rojo</center></th>
+              <th scope="col"><center>Azul</center></th>
+              <th scope="col"><center>Comunidad</center></th>				
             </tr>
           </thead>
           <tbody>
             <tr>
               <th scope="row">Precio antes de Early Bird, válido hasta el 15 de enero, 2025</th>
-              <td><center>$ 1000 USD + IVA </center></td>
-              <td><center>$ 2000 USD + IVA </center></td>
-              <td><center>$ 3000 USD + IVA </center></td>
+              <td><center>$ 1000 USD </center></td>
+              <td><center>$ 2000 USD </center></td>
+              <td><center>$ 3000 USD </center></td>
+              <td><center>$ 100 USD </center></td>
             </tr>
             <tr>
               <th scope="row">Precio después del 16 de enero, 2025</th>
-              <td><center>$ 1500 USD + IVA </center></td>
-              <td><center>$ 2500 USD + IVA </center></td>
-              <td><center>$ 3500 USD + IVA </center></td>
+              <td><center>$ 2000 USD</center></td>
+              <td><center>$ 3000 USD</center></td>
+              <td><center>$ 4000 USD</center></td>
+              <td><center>$ 500 USD </center></td>
             </tr>
-            <tr>
+            <!--tr>
               <th scope="row">VIP Access</th>
               <td><center></center></td>
               <td><center></center></td>
               <td><center>Yes</center></td>
-            </tr>
+            </tr-->
             <tr>
               <th scope="row">Ticket Evento - Presencial</th>
               <td><center>5</center></td>
               <td><center>16</center></td>
               <td><center>20</center></td>
+              <td><center>1</center></td>
             </tr>
             <tr>
-              <th scope="row">On-site Booth</th>
-              <td><center></center></td>
-              <td><center>Medium</center></td>
-              <td><center>Large</center></td>
+              <th scope="row">Stand fisico los dias del evento</th>
+              <td><center>NO</center></td>
+              <td><center>NO</center></td>
+              <td><center>SI</center></td>
+              <td><center>NO</center></td>
             </tr>
             <tr>
-              <th scope="row">Dedicated Virtual Sponsor Booth at the event*</th>
-              <td><center>Small</center></td>
-              <td><center>Medium</center></td>
-              <td><center>Large</center></td>
+              <th scope="row">Stand Virtual dedicado los dias del evento</th>
+              <td><center>NO</center></td>
+              <td><center>SI</center></td>
+              <td><center>SI</center></td>
+              <td><center>NO</center></td>
             </tr>
             <tr>
               <th scope="row">Logo en diapositivas rotativas durante el evento y descansos</th>
-              <td><center></center></td>
-              <td><center>Shared</center></td>
-              <td><center>Exclusive</center></td>
+              <td><center>Compartida 4</center></td>
+              <td><center>Compartida 2</center></td>
+              <td><center>Exclusiva</center></td>
+              <td><center>NO</center></td>
             </tr>
             <tr>
-              <th scope="row">Presentación a toda la audiencia</th>
+              <th scope="row">Presentación a la toda audiencia</th>
               <td></td>
-              <td><center>2 min</center></td>
               <td><center>5 min</center></td>
+              <td><center>15 min</center></td>
             </tr>
             <tr>
               <th scope="row">Logo en el sitio web del evento y en la sala de conferencias según la categoría de patrocinio</th>
-              <td><center>Yes</center></td>
-              <td><center>Yes</center></td>
-              <td><center>Yes</center></td>
+              <td><center>SI</center></td>
+              <td><center>SI</center></td>
+              <td><center>SI</center></td>
+              <td><center>SOLO WEB</center></td>
             </tr>
             <tr>
               <th scope="row">Posibilidad de patrocinar espacios de networking durante el evento</th>
               <td><center></center></td>
-              <td><center>Yes</center></td>
-              <td><center>Yes</center></td>
+              <td><center>SI</center></td>
+              <td><center>SI</center></td>
+              <td><center>NO</center></td>
             </tr>
             <tr>
               <th scope="row">Oportunidades de networking con perfiles específicos del evento (si el participante lo autoriza)</th>
               <td><center></center></td>
               <td><center></center></td>
-              <td><center>Yes</center></td>
+              <td><center>SI</center></td>
+              <td><center></center></td>
             </tr>
             <tr>
               <th scope="row">Material para promoción en las redes sociales del evento</th>
-              <td><center>Yes</center></td>
-              <td><center>Yes</center></td>
-              <td><center>Yes</center></td>
+              <td><center>SI</center></td>
+              <td><center>Si</center></td>
+              <td><center>SI</center></td>
+              <td><center>SI</center></td>
             </tr>
             <tr>
               <th scope="row">Posibilidad de incluir charlas en salas satélites y promocionarlas en el evento</th>
               <td><center></center></td>
-              <td><center>Yes</center></td>
-              <td><center>Yes</center></td>
+              <td><center>SI</center></td>
+              <td><center>SI</center></td>
+              <td><center>NO</center></td>
             </tr>
             <tr>
               <th scope="row">Posibilidad de proporcionar merchandising a los asistentes de la conferencia</th>
-              <td><center>Yes</center></td>
-              <td><center>Yes</center></td>
-              <td><center>Yes</center></td>
+              <td><center>SI</center></td>
+              <td><center>SI</center></td>
+              <td><center>SI</center></td>
+              <td><center>NO</center></td>
             </tr>
             <tr>
               <th scope="row">Otras oportunidades disponibles a petición</th>
-              <td><center>Yes</center></td>
-              <td><center>Yes</center></td>
-              <td><center>Yes</center></td>
+              <td><center>SI</center></td>
+              <td><center>SI</center></td>
+              <td><center>SI</center></td>
+              <td><center>NO</center></td>
             </tr>
           </tbody>
         </table>

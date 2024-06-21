@@ -1,5 +1,5 @@
 +++
-Title = "Location"
+Title = "Ubicacion"
 Type = "event"
 Description = "Localizacion de DevOpsDays Santiago de Chile 2025 "
 +++
@@ -11,7 +11,7 @@ Aquí le proporcionaremos información sobre el lugar, incluida la dirección, m
 <br><br>
 
 
-### <b>Conference location:</b> 
+### <b>Ubicacion del evento:</b> 
 ### Santiago de Chile<br>
 [Santiago de Chile](https://maps.app.goo.gl/ohaQdn5hKa659bhH7)
 

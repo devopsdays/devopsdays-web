@@ -37,14 +37,14 @@ location: "Santiago de Chile" # Defaults to city, but you can make it the venue 
 location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
-  - name: location
-  - name: registration
-  - name: program
+  - name: propuestas
+  - name: ubicacion
+  - name: registro
+ # - name: program
   #- name: speakers
-  - name: sponsor
-  - name: contact
-  - name: conduct
+  - name: patrocinador
+  - name: contacto
+  - name: conducta
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -149,13 +149,13 @@ sponsors:
 # - id: samplesponsorname
 #   level: gold
 #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  - id: ciisa
-    level: diamond
-    url: https://ciisa.cl
   - id: blanco
-    level: diamond
+    level: blanco
+    
   - id: blanco
-    level: diamond
+    level: blanco
+  - id: blanco
+    level: blanco
   # - id: blanco
   #   level: diamond
   # - id: blanco
@@ -165,9 +165,9 @@ sponsors:
   # - id: blanco
   #   level: diamond
   - id: blanco
-    level: platinum
+    level: rojo
   - id: blanco
-    level: platinum
+    level: rojo
   # - id: blanco
   #   level: platinum
   # - id: blanco
@@ -189,7 +189,7 @@ sponsors:
   # - id: blanco
   #   level: platinum
   - id: blanco
-    level: platinum
+    level: rojo
   - id: blanco
     level: socialmedia
   - id: blanco
@@ -229,13 +229,19 @@ sponsors:
 # #  - id: devopsinstitute
 # #    level: socialmedia
 #   - id: blanco
-#     level: socialmedia
+#     level: socialmedia|
 #   - id: blanco
 #     level: socialmedia
 #   - id: blanco
 #     level: socialmedia
   - id: blanco
-    level: socialmedia
+    level: azul
+  - id: blanco
+    level: Comunidad
+  - id: ciisa
+    level: comunidad
+    url: https://ciisa.cl
+    
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -243,9 +249,11 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: diamond
-    label: Diamond
-  - id: platinum
-    label: Platinum
-  - id: socialmedia
-    label: Social Media
+  - id: blanco
+    label: Blanco
+  - id: rojo
+    label: Rojo
+  - id: azul
+    label: Azul
+  - id: comunidad
+    label: Comunidad
