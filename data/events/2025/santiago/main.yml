@@ -2,7 +2,7 @@ name: "2025-santiago" # The name of the event. Four digit year with the city nam
 year: "2025" # The year of the event. Make sure it is in quotes.
 city: "Santiago de Chile" # The displayed city name of the event. Capitalize it.
 event_logo: "logo-square.png"
-masthead_background: "santiago-banner.png"
+masthead_background: "chileeventcenter.jpg"
 sharing_image: "logo-square.png"
 
 description: "Devopsdays llega a Santiago de Chile!" # Edit this to suit your preferences
@@ -156,38 +156,38 @@ sponsors:
     level: diamond
   - id: blanco
     level: diamond
-  - id: blanco
-    level: diamond
-  - id: blanco
-    level: diamond
-  - id: blanco
-    level: diamond
-  - id: blanco
-    level: diamond
-  - id: blanco
-    level: platinum
+  # - id: blanco
+  #   level: diamond
+  # - id: blanco
+  #   level: diamond
+  # - id: blanco
+  #   level: diamond
+  # - id: blanco
+  #   level: diamond
   - id: blanco
     level: platinum
   - id: blanco
     level: platinum
-  - id: blanco
-    level: platinum
-  - id: blanco
-    level: platinum
-  - id: blanco
-    level: platinum
-  - id: blanco
-    level: platinum
-  - id: blanco
-    level: platinum
-  - id: blanco
-    level: platinum
-  - id: blanco
-    level: platinum
-  - id: blanco
-    level: platinum
-  - id: blanco
-    level: platinum
+  # - id: blanco
+  #   level: platinum
+  # - id: blanco
+  #   level: platinum
+  # - id: blanco
+  #   level: platinum
+  # - id: blanco
+  #   level: platinum
+  # - id: blanco
+  #   level: platinum
+  # - id: blanco
+  #   level: platinum
+  # - id: blanco
+  #   level: platinum
+  # - id: blanco
+  #   level: platinum
+  # - id: blanco
+  #   level: platinum
+  # - id: blanco
+  #   level: platinum
   - id: blanco
     level: platinum
   - id: blanco
@@ -220,20 +220,20 @@ sponsors:
 #    level: platinum
 #  - id: javeriana
 #    level: platinum
-  - id: blanco
-    level: socialmedia
-#  - id: intersoftware
-#    level: socialmedia
-  - id: blanco
-    level: socialmedia
-#  - id: devopsinstitute
-#    level: socialmedia
-  - id: blanco
-    level: socialmedia
-  - id: blanco
-    level: socialmedia
-  - id: blanco
-    level: socialmedia
+#   - id: blanco
+#     level: socialmedia
+# #  - id: intersoftware
+# #    level: socialmedia
+#   - id: blanco
+#     level: socialmedia
+# #  - id: devopsinstitute
+# #    level: socialmedia
+#   - id: blanco
+#     level: socialmedia
+#   - id: blanco
+#     level: socialmedia
+#   - id: blanco
+#     level: socialmedia
   - id: blanco
     level: socialmedia
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

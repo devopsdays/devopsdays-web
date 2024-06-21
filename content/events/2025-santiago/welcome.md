@@ -2,8 +2,9 @@
 Title = "DevOpsDays Santiago 2025"
 Type = "welcome"
 aliases = ["/events/2025-santiago/"]
-Description = "Welcome to DevOpsDays Santiago de Chile 2025"
+Description = "Bienvenidos a DevOpsDays Santiago de Chile 2025 "
 +++
+
 <div class = "row">
   <div class="col-md-4">
     <img alt="DevOpsDays Santiago de Chile 2025" src="/events/2025-santiago/logo.png" class="img-fluid">
@@ -11,20 +12,20 @@ Description = "Welcome to DevOpsDays Santiago de Chile 2025"
   <div class="col-md-7">
     <h2>Nuestra conferencia DevOpsDays Santiago de Chile 2025 tendra lugar en Septiembre del 2025</h2>
     <p>
-      La conferencia DevOpsDays llega a Santiago de Chile, ¡Participa en Septiembre 2025 a este gran evento de tecnologia!
+      La conferencia DevOpsDays llega a Santiago de Chile, ¡Participa en Septiembre 2025!
     </p>
-    <h2>Event Information</h2>
+    <h2>Informacion de Eventos</h2>
     <p>
       <ul>
         <li>
-          <h3>Dates</h3>
+          <h3>Fechas</h3>
         </li>
         <li style="margin-left:15px;">
           <div>{{< event_start >}} - {{< event_end >}}</div>
         </li>  
       </ul>      
     </p>
-    <h2>Conference format</h2>
+    <h2>Formato de evento</h2>
     <p>
       <ul>
         <li>

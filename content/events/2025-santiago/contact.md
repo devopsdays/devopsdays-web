@@ -1,14 +1,13 @@
 +++
-Title = "Contact"
+Title = "Contacto"
 Type = "event"
-Description = "Contact information for devopsdays Santiago 2025."
+Description = "Información de contacto para DevOpsDays Santiago de Chile 2025."
 +++
 
-If you'd like to contact us by email: {{< email_organizers >}}
+Si deseas contactarnos por correo electrónico: [contacto@devopsdayschile.cl](mailto:contacto@devopsdayschile.cl)
 
 **Our local team**
 
 {{< list_organizers >}}
-
 
 {{< list_core >}}
