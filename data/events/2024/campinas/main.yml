@@ -97,7 +97,7 @@ team_members: # Name is the only required field for team members.
     role: "Cloud Architect"
     bio: "Cloud Architect na Ab-Inbev, graduanda em Sistemas da Informação pela UNESA e certificada Microsoft e AWS. Parte do corpo de membros da comunidade FinOps Foundation e WOMCY além de organizadora do DevOps Days Campinas. Fruto de uma transição de carreira de Bióloga e Médica Veterinária especialista em diagnóstico por imagem de animais para Tech, hoje sou participante de iniciativas para inclusão de mulheres em tecnologia pela comunidade Transformar.tech, Mulheres na Nuvem MG e Cloud Women."
     image: "paula.jpg"
-    linkedin: "https://www.linkedin.com/in/paula-santos"
+    linkedin: "https://www.linkedin.com/in/paula-santos-/"
   - name: "Raphael Borges"
     employer: "Dedalus Prime"
     role: "Analista de Operações Cloud Sênior"
