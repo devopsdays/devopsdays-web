@@ -111,13 +111,23 @@ team_members: # Name is the only required field for team members.
     website: "https://www.instagram.com/fluxxoramadesign?igsh=MTBpZDFrbXJpcDcwZQ=="
     image: "cris-cardoso.jpg"
 
+  - name: "Paloma Lataliza"
+    employer: "Claro Brasil"
+    twitter: "shescloud_"
+    linkedin: "https://www.linkedin.com/in/palomalataliza/"
+    website: "https://www.shescloud.me/"
+    image: "paloma-lataliza.jpg"
+
 organizer_email: "contato@devopsdays.rio.br" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:  
   #Gold 
-
+  - id: stone
+    level: gold
+    url: https://www.stone.com.br/
+    
   #Silver
   - id: elastic
     level: silver
@@ -125,12 +135,20 @@ sponsors:
     
   #Bronze
 
+  - id: aws
+    level: bronze
+    url: https://aws.amazon.com
+
+  - id: globotv
+    level: bronze
+    url: https://globo.com
+
   #Community
   - id: punkdodevops
     level: community
   - id: docker-rio
     level: community
-  - id: linuxtips
+  - id: linuxtips2024
     level: community
     url: https://linuxtips.io 
   - id: novatec
