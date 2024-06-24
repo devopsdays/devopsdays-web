@@ -161,8 +161,12 @@ sponsors:
    level: community
  - id: witt-tennessee
    level: community
-#  - id: saltworks
-#    level: gold
+ - id: silexdatasolutions
+   level: silver
+ - id: oodleai
+   level: silver
+ - id: snyk
+   level: gold
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
