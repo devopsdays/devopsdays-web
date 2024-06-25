@@ -37,7 +37,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #  - name: propose
   - name: location
   - name: registration
- # - name: program
+  - name: program
   - name: speakers
   - name: sponsor
   - name: contact
@@ -139,3 +139,4 @@ sponsor_levels:
   - id: community
     label: Community
     max: 6
+

@@ -2,9 +2,9 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "To be announced"
+Title = "Keynote"
 Type = "talk"
 Speakers = ["ian-coldwater"]
 +++
 
-To be announced
+Keynote by Ian Coldwater
