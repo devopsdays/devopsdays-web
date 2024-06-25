@@ -1,7 +1,7 @@
 +++
 Title = "Program"
 Type = "program"
-Description = "Program for DevOpsDays Nashville 2024"
+Description = "Program for devopsdays Minneapolis 2024"
 Icons = "false"
 +++
 
