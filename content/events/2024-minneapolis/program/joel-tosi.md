@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Why doesn't it work - intro to Systems Thinking"
+Title = "Why Doesn't It work? Intro to Systems Thinking"
 Type = "talk"
 Speakers = ["joel-tosi"]
 +++
