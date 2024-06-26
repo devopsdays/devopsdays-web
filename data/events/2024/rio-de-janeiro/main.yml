@@ -25,7 +25,7 @@ cfp_link: "https://www.papercall.io/devopsdaysrio2024"
 # registration_date_end: 2024-08-17T00:00:00-03:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "false" #set this to true if you need to manually close registration before your registration end date
-# registration_link: "https://www.sympla.com.br/evento/devopsdays-rio-de-janeiro-2024/1929984" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.sympla.com.br/evento/devopsdays-rio-de-janeiro-2024/2123232" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 coordinates: "-22.905009256027157, -43.16872311690936" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
