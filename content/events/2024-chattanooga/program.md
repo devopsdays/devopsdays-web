@@ -1,7 +1,7 @@
 +++
 Title = "Program"
 Type = "event"
-Description = "Program for DevOpsDays Chattanooga 2023"
+Description = "Program for DevOpsDays Chattanooga 2024"
 +++
 
 <div class="row">
