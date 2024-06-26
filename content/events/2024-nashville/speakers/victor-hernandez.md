@@ -4,7 +4,7 @@ Twitter = ""
 linkedin = ""
 website = ""
 Github = ""
-image = ""
+image = "victor-hernandez.png"
 type = "speaker"
 linktitle = "victor-hernandez"
 +++
