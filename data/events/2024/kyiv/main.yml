@@ -91,6 +91,12 @@ organizer_email: "kyiv@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: squad
+    level: gold
+  - id: temabit
+    level: gold
+  - id: checkmarx
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -109,7 +115,3 @@ sponsor_levels:
     label: Silver
   - id: bronze
     label: Bronze
-  - id: community
-    label: Community
-  - id: media
-    label: Media

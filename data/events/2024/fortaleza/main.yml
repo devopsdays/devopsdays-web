@@ -26,7 +26,7 @@ cfp_link: "https://www.papercall.io/devopsdaysfortaleza2024" #if you have a cust
 # registration_date_end: 2023-08-10 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-#registration_link: "https://www.eventbrite.com.br/e/devops-days-fortaleza-tickets-638733989557" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.e-inscricao.com/devopsfortaleza/2024" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -41,7 +41,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   # - name: registration
   #   url: https://devopsdaysce.eventize.com.br
   # - name: program
-  # - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct-pt-br
@@ -195,10 +195,10 @@ sponsors:
   #   url: https://www.trustcontrol.com.br/
   # - id: paloalto
   #   level: platinum
-  #   url: https://www.paloaltonetworks.com/
-  # - id: elastic
-  #   level: gold
-  #   url: https://www.elastic.co  
+  #   url: httpsg://www.paloaltonetworks.com/
+  - id: saveincloud
+    level: gold
+    url: https://saveincloud.com/ 
   # - id: csi-tech
   #   level: platinum
   #   url: https://csitech.csilocacoes.com.br/ 
@@ -229,9 +229,12 @@ sponsors:
   # - id: clear-it
   #   level: community
   #   url: https://clearit.com.br/  
-  # - id: grafanabr
-  #   level: bronze
-  #   url: https://grafana.com/
+  - id: grafanabr
+    level: bronze
+    url: https://grafana.com/
+  - id: energy-telecom
+    level: silver
+    url: https://www.energytelecom.com.br/
   # - id: alura
   #   level: bronze
   #   url: https://www.alura.com.br/
