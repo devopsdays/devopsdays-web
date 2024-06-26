@@ -22,7 +22,7 @@ DevOpsDays DC does not share registration information directly with sponsors, bu
 
 ### Kubernetes Days DC 2024 Co-Sponsorship Opportunities
 
-Kubernetes Days DC (site launching March 2024) is a one-day event on Tuesday, September 24, also at the American Red Cross headquarters.
+[Kubernetes Days DC](https://community.cncf.io/events/details/cncf-kcd-washington-dc-presents-kcd-washington-dc-2024/) is a one-day event on Tuesday, September 24, also at the American Red Cross headquarters.
 
 Sponsor both events and:
 

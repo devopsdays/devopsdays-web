@@ -1,5 +1,5 @@
 +++
-Title = "Sasha Czarkwoski (Rosenbaum)"
+Title = "Sasha Czarkowski (Rosenbaum)"
 Linkedin = "https://www.linkedin.com/in/sasha-rosenbaum/"
 Website = "https://www.sasharosenbaum.com"
 Twitter = "DivineOps"

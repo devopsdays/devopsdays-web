@@ -41,7 +41,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
   - name: registration
     url: https://www.eventbrite.es/e/devopsdays-caceres-2024-tickets-888206889717
- # - name: program
+  - name: program
  # - name: speakers
   - name: sponsor
   - name: contact
@@ -104,6 +104,8 @@ organizer_email: "caceres@devopsdays.org" # Put your organizer email address her
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: seventhlab
+    level: silver
   - id: speedyrails
     level: bronze
   - id: metrika-media
@@ -121,11 +123,15 @@ sponsors:
   - id: codemotion
     level: media-partner
     url: https://codemo.tech/partners
+  - id: devopsdays-kyiv
+    level: media-partner
   - id: caceresdevops
     level: community
   - id: cacerestech
     level: community
   - id: girls-in-tech-esp
+    level: community
+  - id: certiprof
     level: community
 #   - id: samplesponsorname
 #     level: gold

@@ -25,7 +25,7 @@ registration_date_start: "2024-05-01"# start accepting registration. Leave blank
 registration_date_end: "2024-09-19"# close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-# registration_link: "https://www.eventbrite.com/e/devopsdays-tampa-bay-2023-tickets-635898929817" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.eventbrite.com/e/devopsdays-tampa-bay-2024-tickets-916773974637" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -104,6 +104,8 @@ sponsors:
     level: community
   - id: tampagai
     level: community
+  - id: dnsimple
+    level: platinum
 
  
 #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.

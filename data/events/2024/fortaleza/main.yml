@@ -41,7 +41,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   # - name: registration
   #   url: https://devopsdaysce.eventize.com.br
   # - name: program
-  # - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct-pt-br
@@ -229,9 +229,12 @@ sponsors:
   # - id: clear-it
   #   level: community
   #   url: https://clearit.com.br/  
-  # - id: grafanabr
-  #   level: bronze
-  #   url: https://grafana.com/
+  - id: grafanabr
+    level: bronze
+    url: https://grafana.com/
+  - id: energy-telecom
+    level: silver
+    url: https://www.energytelecom.com.br/
   # - id: alura
   #   level: bronze
   #   url: https://www.alura.com.br/

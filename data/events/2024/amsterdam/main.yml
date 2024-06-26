@@ -12,7 +12,7 @@ gtm_tracking_id: "G-NCBC4PBEMK"
 # Note: we allow 2024-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
 startdate: 2024-06-19T00:00:00+02:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2024-06-21T00:00:00+02:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2024-06-21T23:00:00+02:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2023-12-01T00:00:00+02:00 # start accepting talk proposals.
@@ -166,6 +166,8 @@ sponsors:
     level: silver
   - id: picnic
     level: silver
+  - id: flox
+    level: silver
   # Bronze
   - id: devleaps
     level: bronze
@@ -235,7 +237,7 @@ program:
     date: 2024-06-19T00:00:00+02:00
     start_time: "09:00"
     end_time: "12:00"
-    comments: "Expo 1"
+    comments: "Expo 1 - Max of 30 attendees"
 
   - title: "ws-nathen-harvey-amanda-lewis-dave-stanke"
     type: workshop
@@ -249,7 +251,7 @@ program:
     date: 2024-06-19T00:00:00+02:00
     start_time: "09:00"
     end_time: "12:00"
-    comments: "Studio"
+    comments: "Studio - Max of 30 attendees"
 
   - title: "ws-john-willis-patrick-debois"
     type: workshop
@@ -319,7 +321,7 @@ program:
     date: 2024-06-19T00:00:00+02:00
     start_time: "14:45"
     end_time: "16:45"
-    comments: "Expo 1"
+    comments: "Expo 1 - Max of 30 attendees"
 
   # BREAK
   - title: "Break"
@@ -360,7 +362,7 @@ program:
   - title: "Have a beer on us!"
     type: custom
     date: 2024-06-19T00:00:00+02:00
-    start_time: "17:30"
+    start_time: "17:00"
     end_time: "18:30"
     comments: "Pakhuis de Zwijger bar"
 
@@ -405,7 +407,7 @@ program:
     end_time: "10:45"
     background_color: "#8ad0d3"
 
-  - title: "katharina-sick"
+  - title: "jeremy-meiss"
     type: talk
     date: 2024-06-20T00:00:00+02:00
     start_time: "10:50"
@@ -498,8 +500,8 @@ program:
   - title: "BBQ"
     type: custom
     date: 2024-06-20T00:00:00+02:00
-    start_time: "17:00"
-    end_time: "19:00"
+    start_time: "18:00"
+    end_time: "19:30"
     comments: "Location: Outside, in front of venue brought to by our Platinum sponsor"
 
   - title: "Bingo & Social event"
@@ -686,7 +688,7 @@ ignites:
   - title: "ig-aj"
     date: 2024-06-21T00:00:00+02:00
 
-  - title: "ig-toshaan-bharvani"
+  - title: "ig-lian-li"
     date: 2024-06-21T00:00:00+02:00
 
   - title: "ig-eugene-romero"

@@ -42,7 +42,7 @@
 /florianopolis/*	/events/2023-florianopolis/:splat	302
 /fortaleza/*		/events/2022-fortaleza/:splat		302
 /galway/*		/events/2019-galway/:splat		302
-/geneva/*		/events/2023-geneva/:splat		302
+/geneva/*		/events/2025-geneva/:splat		302
 /ghent/*		/events/2024-antwerp/:splat		302
 /goiania/cfp		https://talks.devopsdays.org/devopsdays-goiania-2024/ 302
 /goiania/*		/events/2024-goiania/:splat		302
@@ -58,7 +58,7 @@
 /jakarta/*		/events/2022-jakarta/:splat		302
 /juiz-de-fora/*		/events/2024-juiz-de-fora/:splat		302
 /kansas-city/cfp    https://talks.devopsdays.org/devopsdays-kc-2024/    302
-/kansas-city/*		/events/2024-kansas-city/:splat		302
+/kansas-city/*		/events/2025-kansas-city/:splat		302
 /kazan/*		/events/2018-kazan/:splat		302
 /kiel/*			/events/2018-kiel/:splat		302
 /krakow/*		/events/2024-krakow/:splat		302
@@ -262,3 +262,4 @@
 events/2024-ahmedabad/sponsorship-prospectus.pdf https://assets.devopsdays.org/events/2024/ahmedabad/sponsorship-prospectus.pdf
 /curitiba/*            /events/2024-curitiba/:splat           302
 /joao-pessoa/*            /events/2024-joao-pessoa/:splat           302
+/kerala/*            /events/2024-kerala/:splat           302

@@ -1,11 +1,14 @@
 +++
 Title = "Program"
-Type = "event"
+Type = "program"
 Description = "Program for DevOpsDays Nashville 2024"
+Icons = "false"
 +++
 
-<!-- <div class="row">
-    <div class="col-md-12">
-        <script type="text/javascript" src="https://sessionize.com/api/v2/auaql105/view/GridSmart"></script>
-    </div>
-</div> -->
+<div class = "row">
+  <div class = "col">
+    <hr />
+    If Open Space is new to you, you may be interested in <a href="/pages/open-space-format">more details about Open Space</a>.
+    <hr />
+  </div>
+</div>
