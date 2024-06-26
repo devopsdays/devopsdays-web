@@ -82,6 +82,14 @@ team_members: # Name is the only required field for team members.
     employer: "CI&T"
     image: "rafael-martin.jpg"
     linkedin: "https://www.linkedin.com/in/rafaelmaferreira/"
+    github: "rafaelmaferreira"
+    website: "https://rafaelmaferreira.com.br/"
+
+  - name: "Gilmar Moraes"
+    employer: "COMPUPACK"
+    image: "gilmar-moraes.jpg"
+    linkedin: "https://www.linkedin.com/in/gilmarmjunior/"
+    github: "gilmardeoliveira"
 
 organizer_email: "florianopolis@devopsdays.org"
 
