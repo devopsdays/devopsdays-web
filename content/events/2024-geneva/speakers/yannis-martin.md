@@ -3,7 +3,7 @@ Title = "Yannis Martin"
 image = "yannis-martin.jpg"
 type = "speaker"
 linktitle = "yannis-martin"
-
+Linkedin = "https://www.linkedin.com/in/yannismartin/"
 +++
 
 Amazed about new technologies, I was able to evolve in different roles with one aim : See the other side of the picture.

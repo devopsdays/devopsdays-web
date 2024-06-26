@@ -50,28 +50,31 @@ Description = "DevopsDays Geneva 2024"
 
 
 <div class="row">
-    <div class="col-12">
-        The 5th Edition of DevOpsDays event in French-speaking Switzerland will take place on <b>May 13th and 14th 2024</b> in Geneva!
-        <br><br>
-        This 5th DevOpsDays Geneva edition, organised by a team of DevOps enthusiasts, will be held at the Haute Ecole de Gestion in Geneva.
-        The program will be a mix of conferences, workshops and openspaces, led by worldwide DevOps and digital transformation experts.
-        <br><br>
-        Join this event for two days of updates and exchanges with passionate people willing to learn and share their experiences. A unique and intense networking and learning occasion.
-        In the current context of constant evolution and change, companies must adapt and review their strategy and process to gain flexibility and remain competitive. The DevOps culture is a combination of philosophies, methodologies, practices and tools. It is frequently combined with agile methods and when it benefits from the scalability of cloud computing, it allows businesses to accelerate the  delivery of their applications , services or products; hence, to better answer the needs of their customers.
-        <br><br>
-        DevOpsDays Geneva speakers will present not only practical applications of the DevOps culture in business, but also DevOps security integration challenges (DevSecOps) and the necessary change to be driven within teams to ensure the success of these new practices.
-        <br>
+  <div class="col-md-12">
+    <div class="row justify-content-center">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/mTH_w5VbxcU?si=ecq9OpWR_NEnNdwp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
+  </div>
 </div>
-
 <div class="row">
     <div class="col-md-12">
       <div class="row justify-content-center">
         <div class="d-flex p-2">
           <a class="btn btn-primary btn-block"
             style="margin-top: 15px; margin-bottom: 15px; background-color: #8e44b3; border-color: #8e44b3;"
-            href="/events/2024-geneva/registration">
-            <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Register to attend the conference!
+            href="https://www.youtube.com/watch?v=mTH_w5VbxcU">
+            <i class="fa fa-video fa-lg"></i>&nbsp;&nbsp;DevOpsDays 2024 Video
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-12">
+      <div class="row justify-content-center">
+        <div class="d-flex p-2">
+          <a class="btn btn-primary btn-block"
+            style="margin-top: 15px; margin-bottom: 15px; background-color: #8e44b3; border-color: #8e44b3;"
+            href="https:/events/2025-geneva">
+            <i class="fa fa-hand-point-right fa-lg"></i>&nbsp;&nbsp;DevOpsDays 2025 will come back on the 19th of May !
           </a>
         </div>
       </div>
@@ -96,6 +99,7 @@ Description = "DevopsDays Geneva 2024"
   </div>
 </div>
 
+<!--
 <div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
@@ -105,7 +109,7 @@ Description = "DevopsDays Geneva 2024"
   </div>
 </div>
 
-<!--
+
 <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>

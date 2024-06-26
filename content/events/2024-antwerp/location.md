@@ -4,10 +4,31 @@ Type = "event"
 Description = "Location for devopsdays Antwerp 2024"
 +++
 
-Watch this space for information about the venue including address, map/direction, parking/transit, and any hotel details.
+### Conference Location 
 
-<!-- Uncomment this only if you have set the coordinates for your location in the config yaml. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html -->
-<!-- {{< event_map >}} -->
+The conference will take place at [A room with a Zoo](https://www.aroomwithazoo.com/en/)
+We are bringing devopsdays back to where it all started,  In april 2009 Patrick Debois and Kris Buytaert met at a CloudCamp in Antwerp in the Antwerp Zoo.
+The idea to organise a conference which happened later that year in Ghent was born.
+
+15 years later we are going back to that same venue.  
+
+
+{{< event_map >}} 
+
+### Getting There 
+
+The venue is located in the center of Antwerp, right next to the iconic central trainstation.
+Details on parking and other transportation options can be found on the [venue website](https://www.aroomwithazoo.com/en/practical/getting-there/)
+
+
+### Accomodation 
+
+There are plenty of hotels walking distance from the venue.
+
+
+
+
+
 
 <!-- Edit and uncomment to let people know what accessibility features you have available -->
 <!-- 

@@ -20,3 +20,6 @@ package.json    @devopsdays/build-infra
 .gitpod.yml @devopsdays/build-infra
 /.github/workflow/ @devopsdays/build-infra
 .nvmrc  @devopsdays/build-infra
+/data/events/ @devopsdays/content-reviewers
+/data/sponsors/ @devopsdays/content-reviewers
+/content/events/ @devopsdays/content-reviewers

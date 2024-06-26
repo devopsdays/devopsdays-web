@@ -8,6 +8,6 @@ linktitle = "adriana-villela"
 
 +++
 
-Principal of Platform Engineering at Slalom Build
+Manager of Solutions Architecture at 1Password
 
 I was a sysadmin last century and I've been working in Cloud Engineering for 15 years. I'm here to automate all the things and share my hot takes.

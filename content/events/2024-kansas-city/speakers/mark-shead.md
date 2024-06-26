@@ -1,6 +1,6 @@
 +++
 Title = "Mark Shead"
-Twitter = "https://twitter.com/markwshead"
+Twitter = "markwshead"
 linkedin = "https://www.linkedin.com/in/markshead/"
 Website = "https://markshead.com/"
 image = "mark-shead.jpg"

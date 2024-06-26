@@ -3,7 +3,7 @@ title = "Arne Hattendorf"
 twitter = ""
 linkedin = ""
 website = ""
-image = ""
+image = "arne-hattendorf.jpg"
 type = "speaker"
 linktitle = ["arne-hattendorf"]
 +++

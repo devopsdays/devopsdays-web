@@ -193,13 +193,20 @@ organizer_email: "washington-dc@devopsdays.org" # Put your organizer email addre
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: excella
+    level: lanyard
+  - id: mitre
+    level: closedcaptioning
   - id: kcddc
     level: community
-    #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  - id: devopsdaysbaltimore
-    level: community
-  
+  - id: tremolo
+    level: silver
+  - id: hasura
+    level: gold
 
+    #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+
+  
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -210,6 +217,9 @@ sponsor_levels:
   - id: platinum
     label: Platinum
     max: 6
+  - id: lanyard
+    label: Lanyard
+    max: 1
   - id: gold
     label: Gold
     max: 4
@@ -217,6 +227,18 @@ sponsor_levels:
     label: Silver
     max: 6
     #max: 0 # This is the same as omitting the max limit.
+  - id: breakfast
+    label: Breakfast
+    max: 1
+  - id: lunch
+    label: Lunch
+    max: 1
+  - id: break
+    label: Break
+    max: 1
+  - id: closedcaptioning
+    label: Closed Captioning
+    max: 1
   - id: community
     label: Community
     max: 3

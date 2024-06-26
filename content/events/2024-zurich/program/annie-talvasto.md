@@ -8,7 +8,7 @@ title = "MLOps + DevOps = ❤️"
 type = "talk"
 speakers = ["annie-talvasto"]
 youtube = ""
-vimeo = ""
+vimeo = "942923484"
 speakerdeck = ""
 slideshare = ""
 slides = ""

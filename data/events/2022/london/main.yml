@@ -104,7 +104,7 @@ sponsors:
   - id: teleport
     level: gold
   # silver sponsors
-  - id: checkmarx
+  - id: checkmarx-before-20240519
     level: silver
   - id: circleci
     level: silver

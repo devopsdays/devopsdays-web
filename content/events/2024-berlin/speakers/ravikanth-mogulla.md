@@ -3,7 +3,7 @@ title = "Ravikanth Mogulla"
 twitter = ""
 linkedin = ""
 website = ""
-image = ""
+image = "ravikanth-mogulla.jpg"
 type = "speaker"
 linktitle = ["ravikanth-mogulla"]
 +++

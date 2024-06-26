@@ -24,7 +24,7 @@ registration_date_start: # start accepting registration. Leave blank if registra
 registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://tickets.devopsdays.org/devopsdays-chicago/2025/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -35,11 +35,11 @@ location_address: "" #Optional - use the street address of your venue. This will
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
- # - name: location
- # - name: registration
+  - name: location
+  - name: registration
  # - name: program
  # - name: speakers
- # - name: sponsor
+  - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
@@ -71,7 +71,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://linkedin.com/in/dexterihorthy"
     twitter: "dexhorthy"
     github: "dexhorthy"
-    bio: "Dex has been hacking on cloud native tech at Replicated for over 5 years now. When he's not collaborating with software teams or deploying his blog on Kubernetes, he enjoys overcomplicated dinner prep and running the Chicago lakefront."
+    bio: "Dex is the CEO and co-founder of Metalytics.  Before that, he was hacking on cloud native tech at Replicated for almost 6 years. When he's not collaborating with software teams or deploying his blog on Kubernetes, he enjoys overcomplicated dinner prep and running the Chicago lakefront."
   - name: "Albert Cheung"
     image: "albert-cheung.jpg"
     linkedin: "http://www.linkedin.com/in/albcheung"
@@ -145,19 +145,19 @@ sponsors:
   - id: arresteddevops
     level: community
 
-sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: platinum
+    label: Platinum
+    max: 2
   - id: gold
     label: Gold
 #    max: 10
-  - id: silver
-    label: Silver
-    max: 0 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
   - id: community

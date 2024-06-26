@@ -4,7 +4,7 @@ Twitter = ""
 linkedin = "https://linkedin.com/in/carl-chesser"
 Website = "https://che55er.io/"
 image = "carl-chesser.png"
-github = "https://github.com/cchesser"
+github = "cchesser"
 type = "speaker"
 linktitle = "carl-chesser"
 +++

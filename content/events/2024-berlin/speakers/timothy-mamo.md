@@ -1,9 +1,9 @@
 +++
 title = "Timothy Mamo"
 twitter = ""
-linkedin = ""
+linkedin = "https://www.linkedin.com/in/timothymamo/"
 website = ""
-image = ""
+image = "timothy-mamo.jpg"
 type = "speaker"
 linktitle = ["timothy-mamo"]
 +++

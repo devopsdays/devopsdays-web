@@ -15,9 +15,9 @@
 /berlin/*		/events/2022-berlin/:splat		302
 /birmingham-al/*	/events/2024-birmingham-al/:splat	302
 /birmingham-uk/*	/events/2023-birmingham-uk/:splat	302
-/bogota/*		/events/2023-bogota/:splat		302
+/bogota/*		/events/2024-bogota/:splat		302
 /boise/*		/events/2023-boise/:splat		302
-/boston/*		/events/2023-boston/:splat		302
+/boston/*		/events/2024-boston/:splat		302
 /brasilia/*		/events/2017-brasilia/:splat		302
 /buenos-aires/*		/events/2020-buenos-aires/:splat	302
 /buffalo/*		/events/2023-buffalo/:splat		302
@@ -42,7 +42,7 @@
 /florianopolis/*	/events/2023-florianopolis/:splat	302
 /fortaleza/*		/events/2022-fortaleza/:splat		302
 /galway/*		/events/2019-galway/:splat		302
-/geneva/*		/events/2023-geneva/:splat		302
+/geneva/*		/events/2025-geneva/:splat		302
 /ghent/*		/events/2024-antwerp/:splat		302
 /goiania/cfp		https://talks.devopsdays.org/devopsdays-goiania-2024/ 302
 /goiania/*		/events/2024-goiania/:splat		302
@@ -58,7 +58,7 @@
 /jakarta/*		/events/2022-jakarta/:splat		302
 /juiz-de-fora/*		/events/2024-juiz-de-fora/:splat		302
 /kansas-city/cfp    https://talks.devopsdays.org/devopsdays-kc-2024/    302
-/kansas-city/*		/events/2024-kansas-city/:splat		302
+/kansas-city/*		/events/2025-kansas-city/:splat		302
 /kazan/*		/events/2018-kazan/:splat		302
 /kiel/*			/events/2018-kiel/:splat		302
 /krakow/*		/events/2024-krakow/:splat		302
@@ -125,10 +125,10 @@
 /victoria/*		/events/2019-victoria/:splat		302
 /vitoria/*		/events/2022-vitoria/:splat		302
 /vilnius/*            	/events/2024-vilnius/:splat             302
-/warsaw/*		/events/2022-warsaw/:splat		302
+/warsaw/*		/events/2024-warsaw/:splat		302
 /washington-dc/*	/events/2024-washington-dc/:splat	302
 /zaragoza/*		/events/2020-zaragoza/:splat		302
-/zurich/*		/events/2024-zurich/:splat		302
+/zurich/*		/events/2025-zurich/:splat		302
 /events/2024-ghent/*      /events/2024-antwerp/:splat     302!
 /events/2009-ghent/*          http://legacy.devopsdays.org/events/2009-ghent/:splat     301!
 /events/2010*                 http://legacy.devopsdays.org/events/2010:splat            301!
@@ -261,3 +261,5 @@
 /ahmedabad/*            /events/2024-ahmedabad/:splat           302
 events/2024-ahmedabad/sponsorship-prospectus.pdf https://assets.devopsdays.org/events/2024/ahmedabad/sponsorship-prospectus.pdf
 /curitiba/*            /events/2024-curitiba/:splat           302
+/joao-pessoa/*            /events/2024-joao-pessoa/:splat           302
+/kerala/*            /events/2024-kerala/:splat           302

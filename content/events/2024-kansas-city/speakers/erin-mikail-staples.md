@@ -1,9 +1,9 @@
 +++
 Title = "Erin Mikail Staples"
-Twitter = "https://twitter.com/erinmikail"
+Twitter = "erinmikail"
 linkedin = "https://linkedin.com/in/erinmikail"
 Website = "https://erinmikailstaples.com"
-github = "https://github.com/erinmikailstaples"
+github = "erinmikailstaples"
 image = "erin-mikail-staples.jpg"
 type = "speaker"
 linktitle = "curtis-blackthorne"
