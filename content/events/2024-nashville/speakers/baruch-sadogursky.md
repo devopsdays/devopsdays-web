@@ -4,7 +4,7 @@ Twitter = "jbaruch"
 linkedin = "https://www.linkedin.com/in/jbaruch/"
 website = ""
 Github = ""
-image = ""
+image = "baruch-sadogursky.png"
 type = "speaker"
 linktitle = "baruch-sadogursky"
 

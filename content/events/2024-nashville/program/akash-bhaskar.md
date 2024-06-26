@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Zero to Hero - NetDevOps!"
 Type = "talk"
-Speakers = ["akash-bhasakr"]
+Speakers = ["akash-bhaskar"]
 +++
 
 Network operations are tedious than software operations. If something goes wrong with a network device it’s impact radius is wider. To maintain a compliant network infrastructure, engineers continuously update and upgrade configuration and software. With large environments and frequent production pushes the process of applying changes becomes critical. Problems like network outages, security breaches and performance are byproduct of unreliable and slow change management.
