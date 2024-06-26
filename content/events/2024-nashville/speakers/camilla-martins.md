@@ -4,7 +4,7 @@ Twitter = ""
 linkedin = ""
 website = ""
 Github = ""
-image = ""
+image = "camilla-martins.png"
 type = "speaker"
 linktitle = "camilla-martins"
 

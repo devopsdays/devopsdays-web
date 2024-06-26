@@ -4,7 +4,7 @@ Twitter = ""
 linkedin = ""
 website = ""
 Github = ""
-image = ""
+image = "gwyneth-allwright.png"
 type = "speaker"
 linktitle = "gwyneth-allwright"
 
