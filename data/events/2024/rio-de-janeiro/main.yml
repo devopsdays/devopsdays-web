@@ -18,7 +18,7 @@ cfp_date_start: 2024-04-22T00:00:00-03:00 # start accepting talk proposals.
 cfp_date_end: 2024-05-26T00:00:00-03:00 # close your call for proposals.
 # cfp_date_announce: 2024-05-19T00:00:00-03:00 # inform proposers of status
 
-cfp_open: "true"
+cfp_open: "false"
 cfp_link: "https://www.papercall.io/devopsdaysrio2024"
 
 # registration_date_start: 2024-04-12T00:00:00-03:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
@@ -143,18 +143,35 @@ sponsors:
     level: bronze
     url: https://globo.com
 
+  - id: thoughtworks-services
+    level: bronze
+
+  - id: hashicorp
+    level: bronze
+
+  - id: snyk
+    level: bronze
+
+  - id: veecode
+    level: bronze
+
   #Community
   - id: punkdodevops
     level: community
+
   - id: docker-rio
     level: community
+
   - id: linuxtips2024
     level: community
     url: https://linuxtips.io 
+    
   - id: novatec
     level: community
     url: https://novatec.com.br/ 
 
+  - id: etr
+    level: community
 
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
