@@ -115,6 +115,8 @@ sponsors:
     url: https://www.elastic.co
   - id: googlecloud
     level: partner
+  - id: tameshi
+    level: partner
   - id: kubeevents
     level: media
   - id: kubecareers
@@ -128,7 +130,7 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
   - id: platinum
-    label: Platinum
+    label: Platinum Partner
   - id: partner
     label: Partner
 #    max: 10
@@ -140,4 +142,4 @@ sponsor_levels:
   - id: media
     label: Media Partner
   - id: community
-    label: Community
+    label: Community Partner
