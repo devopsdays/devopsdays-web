@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "DevOps in aviation, how DevOps keeps airplanes taking off"
+Title = "DevOps: Supporting aircraft from hanger to take-off"
 Type = "talk"
 Speakers = ["rob-lazzurs"]
 +++
