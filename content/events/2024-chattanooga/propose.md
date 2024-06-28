@@ -1,16 +1,9 @@
 +++
 Title = "Propose"
 Type = "event"
-Description = "Propose a talk for devopsdays portugal 2024"
+Description = "Propose a talk for devopsdays Chattanooga 2024"
 +++
   {{< cfp_dates >}}
-
-<br/>
-<div class="row justify-content-center">
-  <div class="col-4">
-    <a href="https://www.papercall.io/devopsdaysportugal2024" type="button" class="btn btn-primary btn-lg btn-block">CFP is now closed.</a>
-  </div>
-</div>
 
 <hr>
 
@@ -34,4 +27,4 @@ Choosing talks is part art, part science; here are some factors we consider when
 
 <hr>
 
-<strong>How to submit a proposal:</strong> We are using Papercall.io to manage proposals. Please go to <a href="https://www.papercall.io/devopsdaysportugal2024">https://www.papercall.io/devopsdaysportugal2024</a> and fill out the submission form.<br>
+<strong>How to submit a proposal:</strong> Please submit your proposals on <a href="https://sessionize.com/chattanooga-devopsdays-2024/">Sessionize</a>
