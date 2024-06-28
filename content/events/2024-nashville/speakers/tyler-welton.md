@@ -4,7 +4,7 @@ Twitter = ""
 linkedin = ""
 website = ""
 Github = ""
-image = ""
+image = "tyler-welton.png"
 type = "speaker"
 linktitle = "tyler-welton"
 

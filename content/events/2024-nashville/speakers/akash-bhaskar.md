@@ -1,12 +1,12 @@
 +++
-Title = "Akash Bhasakr"
+Title = "Akash Bhaskar"
 Twitter = ""
 linkedin = ""
 website = ""
 Github = ""
 image = ""
 type = "speaker"
-linktitle = "akash-bhasakr"
+linktitle = "akash-bhaskar"
 
 +++
 
