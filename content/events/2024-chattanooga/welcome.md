@@ -1,8 +1,8 @@
 +++
 Title = "devopsdays Chattanooga 2024"
 Type = "welcome"
-aliases = ["/events/2023-chattanooga/"]
-Description = "devopsdays Chattanooga 2023"
+aliases = ["/events/2024-chattanooga/"]
+Description = "devopsdays Chattanooga 2024"
 +++
 
 <div style="text-align:center;">
