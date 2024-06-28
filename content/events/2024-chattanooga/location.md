@@ -4,7 +4,7 @@ Type = "event"
 Description = "Location for devopsdays Chattanooga 2024"
 +++
 
-This year's event will be held at Chattangooa State Community College, Gerald McCormick Center
+This year's event will be held at Chattanooga State Community College, Gerald McCormick Center
 
 4501 Amnicola Hwy
 Chattanooga, TN 37406
