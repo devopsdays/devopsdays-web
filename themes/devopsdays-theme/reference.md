@@ -152,8 +152,8 @@ Each team member is an element of `team_members`.
 
 | Field Name         | Type   | Required | Description             | Example                                    |
 |--------------------|--------|----------|-------------------------|--------------------------------------------|
-| `organizer_email` | String | Yes      | Organizer email address | "organizers-ponyville-2017@devopsdays.org" |
-| `proposal_email`   | String | Yes      | Proposal email address  | "proposals-ponyville-2017@devopsdays.org"  |
+| `organizer_email` | String | Yes      | Organizer email address | "ponyville@devopsdays.org" |
+| `proposal_email`   | String | Yes      | Proposal email address  | "ponyville-proposals@devopsdays.org"  |
 
 ### Sponsor fields
 
