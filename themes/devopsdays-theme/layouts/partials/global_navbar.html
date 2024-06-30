@@ -13,6 +13,14 @@
       {{- range .Site.Menus.main -}}
           <li class="nav-item global-navigation"><a class = "nav-link" href="{{ .URL }}">{{ .Name }}</a></li>
       {{- end -}}
+      <li class="nav-item dropdown global-navigation">
+        <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="" role="button" aria-expanded="false">{{ i18n "languages" }}</a>
+        <div class="dropdown-menu">
+          {{ range $.Site.Home.AllTranslations }}
+            <a class="dropdown-item" href="{{ .RelPermalink }}">{{ .Language.LanguageName }}</a>
+          {{ end }}
+        </div>
+      </li>
     </ul>
   </div>
 </nav>
