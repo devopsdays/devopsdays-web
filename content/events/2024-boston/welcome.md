@@ -36,6 +36,10 @@ h1.welcome-page { text-transform: initial; }
       <div class="col-md-8"><a href="https://ti.to/devopsdaysbos/2024">Register to attend the conference!</a></div>
     </div>
     <div class="row">
+      <div class="col-md-2"><strong>Sponsors</strong></div>
+      <div class="col-md-8">{{< event_link page="sponsor" text="Sponsor the conference!" >}}</div>
+    </div>
+    <div class="row">
       <div class="col-md-2"><strong>Speakers</strong></div>
       <div class="col-md-8"><a href="https://talks.devopsdays.org/devopsdays-boston-2024/cfp">Propose a talk!</a></div>
     </div>
