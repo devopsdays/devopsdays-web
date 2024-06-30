@@ -26,7 +26,7 @@
 /campinas/*		/events/2024-campinas/:splat		302
 /cape-town/*		/events/2020-cape-town/:splat		302
 /charlotte/*		/events/2022-charlotte/:splat		302
-/chattanooga/*		/events/2023-chattanooga/:splat		302
+/chattanooga/*		/events/2024-chattanooga/:splat		302
 /chicago/cfp    https://talks.devopsdays.org/devopsdays-chicago-2025/cfp 302
 /chicago/*		/events/2025-chicago/:splat		302
 /columbus/*		/events/2020-columbus/:splat		302
@@ -42,7 +42,7 @@
 /florianopolis/*	/events/2023-florianopolis/:splat	302
 /fortaleza/*		/events/2022-fortaleza/:splat		302
 /galway/*		/events/2019-galway/:splat		302
-/geneva/*		/events/2023-geneva/:splat		302
+/geneva/*		/events/2025-geneva/:splat		302
 /ghent/*		/events/2024-antwerp/:splat		302
 /goiania/cfp		https://talks.devopsdays.org/devopsdays-goiania-2024/ 302
 /goiania/*		/events/2024-goiania/:splat		302
@@ -58,7 +58,7 @@
 /jakarta/*		/events/2022-jakarta/:splat		302
 /juiz-de-fora/*		/events/2024-juiz-de-fora/:splat		302
 /kansas-city/cfp    https://talks.devopsdays.org/devopsdays-kc-2024/    302
-/kansas-city/*		/events/2024-kansas-city/:splat		302
+/kansas-city/*		/events/2025-kansas-city/:splat		302
 /kazan/*		/events/2018-kazan/:splat		302
 /kiel/*			/events/2018-kiel/:splat		302
 /krakow/*		/events/2024-krakow/:splat		302

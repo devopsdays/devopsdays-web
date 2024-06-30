@@ -6,6 +6,7 @@ Title = "Keynote: DevOps, the Universe and Everything"
 Type = "talk"
 Speakers = ["andrew-clay-shafer"]
 sharing_image = "andrew-clay-shafer.png"
+slideslive="39021186"
 +++
 
 In The Hitchhiker's Guide to the Galaxy, hyper-intelligent pan-dimensional beings demand the Answer to the Ultimate Question of Life, The Universe, and Everything from a supercomputer specifically built for this purpose. This computer, ‘Deep Thought’, calculates the answer ‘42’ after 7.5 million years. Deep Thought then points out the answer is meaningless because the beings who instructed it never knew what the question was.

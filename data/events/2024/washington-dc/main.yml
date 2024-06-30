@@ -195,12 +195,17 @@ organizer_email: "washington-dc@devopsdays.org" # Put your organizer email addre
 sponsors:
   - id: excella
     level: lanyard
+  - id: mitre
+    level: closedcaptioning
   - id: kcddc
     level: community
   - id: tremolo
     level: silver
   - id: hasura
     level: gold
+  - id: flox
+    level: platinum
+
     #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 
   

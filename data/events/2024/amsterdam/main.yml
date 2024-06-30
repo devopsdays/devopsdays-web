@@ -407,7 +407,7 @@ program:
     end_time: "10:45"
     background_color: "#8ad0d3"
 
-  - title: "katharina-sick"
+  - title: "jeremy-meiss"
     type: talk
     date: 2024-06-20T00:00:00+02:00
     start_time: "10:50"
@@ -688,7 +688,7 @@ ignites:
   - title: "ig-aj"
     date: 2024-06-21T00:00:00+02:00
 
-  - title: "ig-toshaan-bharvani"
+  - title: "ig-lian-li"
     date: 2024-06-21T00:00:00+02:00
 
   - title: "ig-eugene-romero"
