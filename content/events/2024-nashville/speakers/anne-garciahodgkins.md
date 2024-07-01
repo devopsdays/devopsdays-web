@@ -4,7 +4,7 @@ Twitter = ""
 linkedin = "https://www.linkedin.com/in/annie-hodgkins-garcia-37a91279/"
 website = ""
 Github = ""
-image = ""
+image = "anne-garciahodgkins.png"
 type = "speaker"
 linktitle = "annie-garciahodgkins"
 
