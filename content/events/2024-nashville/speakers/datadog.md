@@ -1,5 +1,5 @@
 +++
-Title = "DataDog"
+Title = "Datadog"
 Twitter = ""
 linkedin = ""
 website = "https://www.datadoghq.com/"
@@ -10,4 +10,4 @@ linktitle = "datadog"
 
 +++
 
-Please welcome our Platnum Sponsor, DataDog.  They will be presenting their modern monitoring and security platform!
+Please welcome our Platnum Sponsor, Datadog.  They will be presenting their modern monitoring and security platform!
