@@ -5,6 +5,7 @@ aliases = ["/events/2024-halifax/"]
 Description = "DevOpsDays Halifax 2024"
 +++
 
+<!-- Thank you Montreal for this reference -->
 <style type="text/css">
 .hfx {
   display: flex;
