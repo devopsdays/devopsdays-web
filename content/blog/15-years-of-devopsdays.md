@@ -6,7 +6,7 @@ Author = "DevOpsDays Global Core Organizers"
 
 In 2024, the DevOps community celebrates a significant milestone: the 15th anniversary of DevOpsDays. This event, which has grown into a global phenomenon, is returning to its roots in Antwerp, Belgium, where the original idea was conceived by Patrick Debois and Kris Buytaert. 
 The conference began as a humble gathering in Ghent, the site of the first event, but it quickly grew into a worldwide movement, spreading the principles of collaboration, innovation, and continuous improvement in IT and software development practices to dozens of cities across the globe. Mark your calendars for September 4 and 5, 2024, as these dates promise to
- be a landmark occasion in the DevOps community.  For this celebration we are heading back to the exact venue where Patrick and Kris got the idea, we are really going back to the roots of DevOps. 
+ be a landmark occasion in the DevOps community.  For this celebration we are heading back to the exact venue in the Antwerp Zoo, right next to the fantastic Antwerp Central train station , where Patrick and Kris got the idea, we are really going back to the roots of DevOps. 
 
 Reflecting on the journey from that initial spark in Antwerp to today's expansive network of DevOpsDays events, the 15-year mark is not just a celebration but also a testament to the enduring relevance of DevOps principles. 
 Patrick Debois and Kris Buytaert envisioned a space where practitioners could share their experiences, challenges, and solutions, driving the industry towards a culture of shared responsibility and continuous delivery. 
