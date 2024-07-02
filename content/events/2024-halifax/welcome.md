@@ -5,15 +5,14 @@ aliases = ["/events/2024-halifax/"]
 Description = "DevOpsDays Halifax 2024"
 +++
 
-<!-- Thank you Montreal for this reference -->
 <style type="text/css">
 .hfx {
   display: flex;
   flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: center;
+  flex-wrap: nowrap;
+  justify-content: space-between;
   background-color: #EEF3C7;
-  padding: 3em;
+  padding: 2em;
   gap: 2em;
   border-radius: 10px;
 }
@@ -30,7 +29,7 @@ Description = "DevOpsDays Halifax 2024"
   font-weight: bold;
   padding: 1em 2em;
   margin: 1em 0;
-  width: 100%;
+  width: 80%;
   max-width: 200px;
 }
 .hfx .sidebar {
@@ -66,7 +65,7 @@ Description = "DevOpsDays Halifax 2024"
     <p><a href="../location/"><button>Get Venue Info</button></a></p>
     <p><a href="../speakers/"><button>Check Out Our Speakers</button></a></p>
     <p><a href="../sponsor/"><button>Become a Sponsor</button></a></p>
-    <p><a href="../volunteer/"><button>Volunteer With Us</button></a></p>
+    <p><a href="https://bit.ly/4cnEFtu"><button>Volunteer With Us</button></a></p>
     <p><a href="../contact/"><button>Contact Us</button></a></p>
   </div>
 
