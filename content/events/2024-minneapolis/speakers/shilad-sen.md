@@ -1,17 +1,11 @@
 +++
 Title = "Shilad Sen"
 Twitter = ""
-linkedin = ""
-image = "shilad-sen.jpg"
+linkedin = "https://www.linkedin.com/in/shilad/"
+image = "shilad-sen.png"
 type = "speaker"
 linktitle = "shilad-sen-susan-fox"
 
 +++
 
-I'm a Professor at [Macalester College](http://www.macalester.edu/) in St. Paul and a [Principal Scientist at Microsoft](https://www.microsoft.com/en-us/research/group/office-of-applied-research/). As a teacher, I strive to convey the joys of computer science to undergraduates and prepare them for their lives after graduation. As a researcher, I build systems that empower people to be better contributors to online communities.
-
-My research draws on techniques from data-mining, interface design, and social science to encourage members to contribute better content to their communities, and enable communities to identify high-quality contributions from members. I also currently serve as a Principal Scientist for Microsoft Corporation, helping them develop AI systems that advance products such as Microsoft Outlook.
-
-I received my Ph.D. under John Riedl at the University of Minnesota with [GroupLens Research](https://grouplens.org/). Before that, I worked at Sourcelight Technologies, a startup that built movie recommenders for companies like Blockbuster Video and Comcast. I have also worked for Google, IBM Research, Thomson Reuters R & D, and Target Corporation.
-
-When not teaching or researching, I play jazz saxophone, squash, and spend time with my family.
+Shilad is a Professor of Computer Science at Macalester College and an AI Scientist at Indeed. In his industry life, Shilad is a human-centered algorithmic expert who develops AI systems that have supported new and emerging problems for companies like Blockbuster, Google, Target, Microsoft, and Indeed. In his scholarly life, Shilad's work exploring the digital footprints of biases and inequities along dimensions such as race, gender, and geography has received major awards and been featured in venues like The Atlantic and NY Times. In his teaching life (his favorite of these!), Shilad loves learning alongside undergraduate students whose future selves tackle the toughest technology problems facing society.
