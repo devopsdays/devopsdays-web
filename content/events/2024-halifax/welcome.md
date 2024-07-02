@@ -7,7 +7,7 @@ Description = "devopsdays Halifax 2024"
 
 DevOpsDays Halifax is bringing DevOpsDays to the Atlantic Canada for the first time! Our CfP is now closed and we just announced our [three amazing keynote speakers](https://devopsdays.org/events/2024-halifax/speakers). 
 
-Check out the [registration page](https://tickets.devopsdays.org/devopsdays-halifax/2024/) to purchase an early bird ticket.
+Check out the [registration page](https://tickets.devopsdays.org/devopsdays-halifax/2024/) to purchase your ticket.
 
 <div class = "row">
   <div class = "col-md-2">
