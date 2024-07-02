@@ -15,7 +15,12 @@ This year’s event will be held in Downtown Denver at [14er Brewery & Beer Gard
 
 
 ### Parking
-We will have limited parking available for attendees at no additional cost, TBD on the exact location and number of spots available. If possible, we recommend car pooling or take public transportation. 14er is a 10-15 minute walk to numerous stations!
+We will have limited parking available for attendees at no additional cost at the Parkwell Parking Garage on 3500 Blake st. (3 blocks away from the venue.) A QR code will be sent out to attendees the night before the event which can be used for parking entry.
+
+If possible, we recommend car pooling or take public transportation. 14er is a 10-15 minute walk to numerous stations!
+
+### Parking Location
+**Address: [3500 Blake St, Denver, CO 80205](https://maps.app.goo.gl/pXJWtYTo7k81rWo67)**
 
 ### Hours of Entry
 Doors will open at 8am for breakfast every day of the event and the early-check-in is Sunday September 15th at 3pm-5pm.
