@@ -4,6 +4,10 @@ linkedin = "https://www.linkedin.com/in/justinreock/"
 image = "justin-reock.png"
 type = "speaker"
 linktitle = "justin-reock"
+Website = "https://dev.to/jreock"
+Pronouns = "he/him"
+Github = "jreock"
+Twitter = "jreock"
 +++
 
 Justin Reock is the Head of Developer Relations for Cortex.io, and is an
