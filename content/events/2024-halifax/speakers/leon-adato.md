@@ -1,3 +1,4 @@
+<!--
 +++
 Title = "Leon Adato"
 Twitter = "leonadato"
@@ -6,6 +7,7 @@ image = "leon-adato.png"
 type = "speaker"
 linktitle = "leon-adato"
 +++
+-->
 
 In my sordid career, I have been an actor, bug exterminator and wild-animal remover (nothing crazy like pumas or wildebeests. Just skunks, snakes, and raccoons.), electrician, carpenter, stage-combat instructor, ASL interpreter, and Sunday school teacher. Oh, yeah, I've also worked with computers.
 
