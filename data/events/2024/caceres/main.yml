@@ -106,6 +106,10 @@ organizer_email: "caceres@devopsdays.org" # Put your organizer email address her
 sponsors:
   - id: seventhlab
     level: silver
+  - id: worldline
+    level: silver
+  - id: viewnext
+    level: silver
   - id: speedyrails
     level: bronze
   - id: metrika-media
@@ -119,6 +123,8 @@ sponsors:
   - id: kubecareers
     level: collaborators
   - id: kubeevents
+    level: collaborators
+  - id: azuanet
     level: collaborators
   - id: codemotion
     level: media-partner
