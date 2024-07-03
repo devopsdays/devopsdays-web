@@ -104,6 +104,8 @@ sponsors:
     level: platinum
   - id:  couchbase
     level: platinum
+  - id:  aws
+    level: platinum
   - id:  naradacode
     level: platinum
   - id: grafanabr
@@ -115,6 +117,8 @@ sponsors:
   - id: veeam
     level: gold
   - id: snyk
+    level: gold
+  - id: yugabytedb
     level: gold
   - id: devops-indonesia
     level: community
