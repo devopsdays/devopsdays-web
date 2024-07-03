@@ -26,7 +26,9 @@ Description = "DevOpsDays Halifax 2024"
 }
 .hfx .logo {
   flex: 1;
-  max-width: 500px; /* Increase the max-width to make the logo bigger */
+  max-width: 400px; /* Increase the max-width to make the logo bigger */
+  margin: 0; /* Remove any margin */
+  padding: 0; /* Remove any padding */
 }
 .hfx .text {
   flex: 3;
@@ -43,8 +45,9 @@ Description = "DevOpsDays Halifax 2024"
   width: 100%;
 }
 .hfx .buttons a {
-  flex-grow: 1;
-  max-width: 200px;
+  flex: 1 1 200px;
+  display: flex;
+  justify-content: center;
 }
 .hfx button {
   color: #EEF3C7;
@@ -53,7 +56,8 @@ Description = "DevOpsDays Halifax 2024"
   border-radius: 0.5em;
   font-weight: bold;
   padding: 1em 2em;
-  width: 300px; /* Ensure all buttons have the same width */
+  width: 100%;
+  max-width: 200px; /* Ensure all buttons have the same width */
 }
 @media only screen and (max-width: 760px) {
   .hfx .header {
@@ -65,8 +69,13 @@ Description = "DevOpsDays Halifax 2024"
   .hfx .buttons {
     flex-direction: column;
   }
+  .hfx .buttons a {
+    width: 100%;
+    max-width: 200px;
+  }
 }
 </style>
+
 
 <div class="hfx">
   <div class="header">
