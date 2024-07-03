@@ -93,7 +93,7 @@ Description = "DevOpsDays Halifax 2024"
     <a href="../location/"><button>Get Venue Info</button></a>
     <a href="../speakers/"><button>Check Out Our Speakers</button></a>
     <a href="../sponsor/"><button>Become a Sponsor</button></a>
-    <a href="../volunteer/"><button>Volunteer With Us</button></a>
+    <a href="https://bit.ly/4cnEFtu"><button>Volunteer With Us</button></a>
     <a href="../contact/"><button>Contact Us</button></a>
   </div>
 </div>
