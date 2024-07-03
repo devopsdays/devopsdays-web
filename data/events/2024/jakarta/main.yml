@@ -114,6 +114,8 @@ sponsors:
     level: gold
   - id: veeam
     level: gold
+  - id: snyk
+    level: gold
   - id: devops-indonesia
     level: community
   - id: bncc
