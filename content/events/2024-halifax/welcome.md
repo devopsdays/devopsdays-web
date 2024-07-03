@@ -4,7 +4,7 @@ Type = "welcome"
 aliases = ["/events/2024-halifax/"]
 Description = "DevOpsDays Halifax 2024"
 +++
-
+<!-- Thank you Montreaaal -->
 <style type="text/css">
 .hfx {
   display: flex;
@@ -26,7 +26,7 @@ Description = "DevOpsDays Halifax 2024"
 }
 .hfx .logo {
   flex: 1;
-  max-width: 300px;
+  max-width: 500px; /* Increase the max-width to make the logo bigger */
 }
 .hfx .text {
   flex: 3;
@@ -53,7 +53,7 @@ Description = "DevOpsDays Halifax 2024"
   border-radius: 0.5em;
   font-weight: bold;
   padding: 1em 2em;
-  width: 100%;
+  width: 300px; /* Ensure all buttons have the same width */
 }
 @media only screen and (max-width: 760px) {
   .hfx .header {
@@ -75,7 +75,7 @@ Description = "DevOpsDays Halifax 2024"
     </div>
     <div class="text">
       <p>DevOpsDays Halifax is bringing DevOpsDays to the Atlantic Canada for the first time! Our CfP is now closed and we just announced our <a href="https://devopsdays.org/events/2024-halifax/speakers">three amazing keynote speakers</a>. Check out the <a href="https://tickets.devopsdays.org/devopsdays-halifax/2024/">registration page</a> to purchase your ticket.</p>
-      <p>Our event will feature a variety of presentations, discussions, and networking opportunities, all centered around the themes of collaboration, automation, measurement, and sharing. We also believe that taking care of ourselves and each other is critical to our success in this industry, which is why we'll be including sessions focused on mental health and well-being.</p>
+      <p>Our event will feature a variety of presentations, discussions, and networking opportunities, all centered around the themes of collaboration, automation, measurement, and sharing.</p>
       <p>You'll have the chance to learn from experts in the field, share your own experiences, and connect with like-minded professionals from around the region. We hope you'll join us for this exciting event and help us build a stronger, more vibrant DevOps community in Halifax.</p>
       <p>Whether you're a seasoned veteran or just starting to explore the world of DevOps, there's a place for you at DevOpsDays Halifax. Thanks for your interest, and we look forward to seeing you!</p>
     </div>
