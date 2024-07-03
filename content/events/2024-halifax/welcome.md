@@ -71,7 +71,6 @@ Description = "DevOpsDays Halifax 2024"
   }
   .hfx .buttons a {
     width: 100%;
-    max-width: 200px;
   }
 }
 </style>
