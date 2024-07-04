@@ -51,7 +51,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 team_members: # Name is the only required field for team members.
   - name: "Dina Abakkali"
     employer: "Scaleway"
-    pronouns: "sher/her"
+    pronouns: "she/her"
   - name: "Jonathan Clarke"
     employer: "Rudder"
     pronouns: "he/him"
