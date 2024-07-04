@@ -1,5 +1,5 @@
 ---
-Title: "olivier Vernin"
+Title: "Olivier Vernin"
 image: "zt3rpt-img.jpg"
 type: "speaker"
 linktitle: "zt3rpt"
