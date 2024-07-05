@@ -58,13 +58,6 @@ team_members: # Name is the only required field for team members.
     github: "dewan-ahmed"
     twitter: "DewanAhmed"
     linkedin: "https://www.linkedin.com/in/diahmed/"
-  - name: "Marisa Smith"
-    image: "marisa-smith.jpeg"
-    bio: "Marisa had an exciting path that led her to Developer Advocacy. With a background in theoretical and computational physical chemistry, she's run experiments at particle accelerators worldwide. But after finishing her Ph.D., she moved into industry. As Streamlit's first developer advocate, she worked on initiatives throughout the company. After Streamlit's acquisition by Snowflake, she moved on to other opportunities. She has a passion for learning and teaching others. She has been lucky enough to present at several webinars and conferences, ranging in topics from python, deployment, physics and chemistry."
-    role: "Developer Advocate"
-    github: "mesmith027"
-    twitter: "MarisaDataNerd"
-    linkedin: "https://www.linkedin.com/in/marisa-smith-datanerd/"
   - name: "Matt Joy"
     image: "matt-joy.png"
     bio: "Customer Engineer at Google with 13 years of experience in the IT industry. Passionate about technology both personally and professionally. Helping to expand the technology community in Halifax is a passion, and really enjoy sharing what knowledge and experience I’ve gained over the years with others looking to get into tech."
@@ -80,6 +73,13 @@ team_members: # Name is the only required field for team members.
     github: "NJalal7"
     twitter: "NahrinJalal"
     linkedin: "https://www.linkedin.com/in/nahrin-jalal/"
+  - name: "Seif Elbayomi"
+    image: "seif-elbayomi.jpg"
+    bio: "Seif Elbayomi, in his final semester of Computer Science at Dalhousie University, is dedicated to driving digital transformation in Atlantic Canada. As the Career Development and Industry Engagement Student Ambassador, he connects students with valuable career opportunities. Seif's hands-on experience with DevOps and CI/CD at Quest Software and Nokia, combined with his multiple leadership awards, underscores his commitment to tech innovation and community engagement."
+    role: "Career Development and Industry Engagement Student Ambassador"
+    employer: "Faculty of Computer Science at Dalhousie University"
+    github: "SeifElbayomi"
+    linkedin: "https://www.linkedin.com/in/seifelbayomi/"
 
 organizer_email: "halifax@devopsdays.org" # Put your organizer email address here
 
