@@ -98,6 +98,10 @@ sponsors:
     level: community
   - id: actm
     level: community  
+  - id: shiftkey_labs
+    level: community  
+  - id: ictc
+    level: community 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
