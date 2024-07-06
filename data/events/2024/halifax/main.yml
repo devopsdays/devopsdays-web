@@ -37,7 +37,6 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
   - name: registration
   - name: agenda
-    icon:"calendar-days"
     url: "https://talks.devopsdays.org/devopsdays-halifax-2024/schedule/"
  # - name: program
   - name: speakers
