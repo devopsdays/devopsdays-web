@@ -1,5 +1,7 @@
 +++
 Title = "James Wynne"
+LinkedIn = "https://www.linkedin.com/in/jawynne/"
+pronouns = "he/him"
 image = "james-wynne.png"
 type = "speaker"
 linktitle = "james-wynne"

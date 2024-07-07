@@ -1,5 +1,6 @@
 +++
 Title = "Carly Richmond"
+LinkedIn = "https://www.linkedin.com/in/carly-richmond/"
 Twitter = "@CarlyLRichmond"
 pronouns = "she/her"
 image = "carly-richmond.webp"

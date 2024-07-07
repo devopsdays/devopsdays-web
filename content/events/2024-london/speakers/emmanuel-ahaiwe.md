@@ -1,5 +1,6 @@
 +++
 Title = "Emmanuel Ahaiwe"
+LinkedIn = "https://www.linkedin.com/in/emmanuel-ahaiwe-937108111"
 pronouns = "he/him"
 image = "emmanuel-ahaiwe.png"
 type = "speaker"

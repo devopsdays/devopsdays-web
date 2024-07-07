@@ -1,5 +1,6 @@
 +++
 Title = "Patrick Debois"
+LinkedIn = "https://www.linkedin.com/in/patrickdebois/"
 Twitter = "@patrickdebois"
 pronouns = "he/him"
 image = "patrick-debois.jpeg"

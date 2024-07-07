@@ -1,5 +1,6 @@
 +++
 Title = 'Daniel "phrawzty" Maher'
+LinkedIn = "https://www.linkedin.com/in/dan-phrawzty-maher/"
 Twitter = "@phrawzty"
 pronouns = "he/him"
 image = "daniel-maher.jpeg"

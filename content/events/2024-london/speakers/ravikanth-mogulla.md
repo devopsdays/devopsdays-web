@@ -1,5 +1,6 @@
 +++
 Title = "Ravikanth Mogulla"
+LinkedIn = "https://www.linkedin.com/in/ravikanth-mogulla-6b713026/"
 pronouns = "he/him"
 image = "ravikanth-mogulla.jpeg"
 type = "speaker"

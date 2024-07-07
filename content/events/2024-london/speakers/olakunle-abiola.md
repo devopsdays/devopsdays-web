@@ -1,6 +1,6 @@
 +++
 Title = "Olakunle Abiola"
-Twitter = ""
+LinkedIn = "https://www.linkedin.com/in/olakunle-abiola"
 pronouns = "he/him"
 image = "olakunle-abiola.jpeg"
 type = "speaker"

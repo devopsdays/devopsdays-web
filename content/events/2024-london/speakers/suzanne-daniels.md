@@ -1,5 +1,6 @@
 +++
 Title = "Suzanne Daniels"
+LinkedIn = "https://www.linkedin.com/in/suzannedaniels/"
 Twitter = "@suushier"
 pronouns = "she/her"
 image = "suzanne-daniels.png"

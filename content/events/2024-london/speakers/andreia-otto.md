@@ -1,5 +1,6 @@
 +++
 Title = "Andreia Otto"
+LinkedIn = "https://www.linkedin.com/in/andreia-otto/"
 pronouns = "she/her"
 image = "andreia-otto.jpeg"
 type = "speaker"

@@ -1,5 +1,6 @@
 +++
 Title = "Becky Pauley"
+LinkedIn = "https://www.linkedin.com/in/beckypauley"
 Twitter = "@BeckyPauley"
 pronouns = "she/her"
 image = "becky-pauley.jpeg"

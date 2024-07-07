@@ -1,5 +1,7 @@
 +++
 Title = "Mam Joof"
+LinkedIn = "https://www.linkedin.com/in/mam-joof/"
+pronouns = "she/her"
 image = "mam-joof.jpeg"
 type = "speaker"
 linktitle = "mam-joof"

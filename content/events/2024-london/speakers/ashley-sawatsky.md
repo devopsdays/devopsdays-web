@@ -1,5 +1,6 @@
 +++
 Title = "Ashley Sawatsky"
+LinkedIn = "https://www.linkedin.com/in/ashsawatsky/"
 Twitter = "@ashleyoncall"
 pronouns = "she/her"
 image = "ashley-sawatsky.jpeg"

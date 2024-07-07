@@ -1,5 +1,6 @@
 +++
 Title = "Rob Lazzurs"
+LinkedIn = "https://www.linkedin.com/in/lazzurs/"
 Twitter = "@lazzurs"
 pronouns = "he/him"
 image = "rob-lazzurs.png"

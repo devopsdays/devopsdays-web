@@ -1,5 +1,6 @@
 +++
 Title = "Daiany Palacios"
+LinkedIn = "https://www.linkedin.com/in/daiany-palacios/"
 Twitter = "@DaianyMargarita"
 pronouns = "she/her"
 image = "daiany-palacois.webp"

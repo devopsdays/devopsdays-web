@@ -1,5 +1,6 @@
 +++
 Title = "Emily Harrison"
+LinkedIn = "https://www.linkedin.com/in/emilyaharrison/"
 pronouns = "she/her"
 image = "emily-harrison.jpeg"
 type = "speaker"

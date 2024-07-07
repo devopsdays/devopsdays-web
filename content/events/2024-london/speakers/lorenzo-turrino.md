@@ -1,5 +1,6 @@
 +++
 Title = "Lorenzo Turrino"
+LinkedIn = "https://www.linkedin.com/in/lorenzoturrino/"
 image = "lorenzo-turrino.jpeg"
 type = "speaker"
 linktitle = "lorenzo-turrino"

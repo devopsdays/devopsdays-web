@@ -1,5 +1,6 @@
 +++
 Title = "Sasha Rosenbaum"
+LinkedIn = "https://www.linkedin.com/in/sasha-rosenbaum/"
 Twitter = "@DivineOps"
 pronouns = "she/her"
 image = "sasha-rosenbaum.jpeg"

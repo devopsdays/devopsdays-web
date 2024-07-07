@@ -1,6 +1,7 @@
 +++
 Title = "Adrienne Braganza Tacke"
 Twitter = "@AdrienneTacke"
+LinkedIn = "https://www.linkedin.com/in/adriennetacke/"
 pronouns = "she/her"
 image = "adrienne-braganza-tacke.jpeg"
 type = "speaker"

@@ -1,5 +1,6 @@
 +++
 Title = "Matthew Skelton"
+LinkedIn = "https://www.linkedin.com/in/matthewskelton/"
 mastodon = "https://mastodon.social/@matthewskelton"
 pronouns = "he/him"
 image = "matthew-skelton.jpeg"
