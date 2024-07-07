@@ -2,7 +2,7 @@
 Title = "Daiany Palacios"
 Twitter = "@DaianyMargarita"
 pronouns = "she/her"
-image = "daiany-palacios.png"
+image = "daiany-palacois.webp"
 type = "speaker"
 linktitle = "daiany-palacios"
 

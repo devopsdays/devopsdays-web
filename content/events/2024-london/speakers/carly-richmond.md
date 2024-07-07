@@ -2,7 +2,7 @@
 Title = "Carly Richmond"
 Twitter = "@CarlyLRichmond"
 pronouns = "she/her"
-image = "carly-richmond.png"
+image = "carly-richmond.webp"
 type = "speaker"
 linktitle = "carly-richmond"
 

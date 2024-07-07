@@ -1,6 +1,6 @@
 +++
 Title = "Emmanuel Ahaiwe"
-# pronouns = "she/her"
+pronouns = "he/him"
 image = "emmanuel-ahaiwe.png"
 type = "speaker"
 linktitle = "emmanuel-ahaiwe"

@@ -2,7 +2,7 @@
 Title = "Ashley Sawatsky"
 Twitter = "@ashleyoncall"
 pronouns = "she/her"
-image = "ashley-sawatsky.png"
+image = "ashley-sawatsky.jpeg"
 type = "speaker"
 linktitle = "ashley-sawatsky"
 

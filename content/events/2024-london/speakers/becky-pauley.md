@@ -2,7 +2,7 @@
 Title = "Becky Pauley"
 Twitter = "@BeckyPauley"
 pronouns = "she/her"
-image = "becky-pauley.png"
+image = "becky-pauley.jpeg"
 type = "speaker"
 linktitle = "becky-pauley"
 

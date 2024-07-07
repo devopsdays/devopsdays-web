@@ -1,7 +1,7 @@
 +++
 Title = "Emily Harrison"
 pronouns = "she/her"
-image = "emily-harrison.png"
+image = "emily-harrison.jpeg"
 type = "speaker"
 linktitle = "emily-harrison"
 

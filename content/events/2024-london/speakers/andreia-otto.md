@@ -1,7 +1,7 @@
 +++
 Title = "Andreia Otto"
 pronouns = "she/her"
-image = "andreia-otto.png"
+image = "andreia-otto.jpeg"
 type = "speaker"
 linktitle = "andreia-otto"
 

@@ -2,7 +2,7 @@
 Title = "Olakunle Abiola"
 Twitter = ""
 pronouns = "he/him"
-image = "olakunle-abiola.png"
+image = "olakunle-abiola.jpeg"
 type = "speaker"
 linktitle = "olakunle-abiola"
 

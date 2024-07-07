@@ -1,6 +1,6 @@
 +++
 Title = "Mam Joof"
-image = "mam-joof.png"
+image = "mam-joof.jpeg"
 type = "speaker"
 linktitle = "mam-joof"
 

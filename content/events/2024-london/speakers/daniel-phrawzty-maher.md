@@ -2,7 +2,7 @@
 Title = 'Daniel "phrawzty" Maher'
 Twitter = "@phrawzty"
 pronouns = "he/him"
-image = "daniel-maher.png"
+image = "daniel-maher.jpeg"
 type = "speaker"
 linktitle = "daniel-maher"
 

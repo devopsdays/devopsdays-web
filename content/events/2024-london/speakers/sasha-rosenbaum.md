@@ -2,7 +2,7 @@
 Title = "Sasha Rosenbaum"
 Twitter = "@DivineOps"
 pronouns = "she/her"
-image = "sasha-rosenbaum.png"
+image = "sasha-rosenbaum.jpeg"
 type = "speaker"
 linktitle = "sasha-rosenbaum"
 

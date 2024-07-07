@@ -1,6 +1,6 @@
 +++
 Title = "Lorenzo Turrino"
-image = "lorenzo-turrino.png"
+image = "lorenzo-turrino.jpeg"
 type = "speaker"
 linktitle = "lorenzo-turrino"
 

@@ -2,7 +2,7 @@
 Title = "Matthew Skelton"
 mastodon = "https://mastodon.social/@matthewskelton"
 pronouns = "he/him"
-image = "matthew-skelton.png"
+image = "matthew-skelton.jpeg"
 type = "speaker"
 linktitle = "matthew-skelton"
 

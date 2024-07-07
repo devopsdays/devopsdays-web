@@ -2,7 +2,7 @@
 Title = "Patrick Debois"
 Twitter = "@patrickdebois"
 pronouns = "he/him"
-image = "patrick-debois.png"
+image = "patrick-debois.jpeg"
 type = "speaker"
 linktitle = "patrick-debois"
 
