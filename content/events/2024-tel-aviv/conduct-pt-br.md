@@ -25,4 +25,4 @@ As pessoas da equipe da conferência podem ser identificadas por crachás distin
 
 Esperamos que todas as pessoas participantes sigam estas regras em salas de apresentação e workshops da conferência, além de eventos sociais relacionados.
 
-_O código de conduta do devopsdays Tel Aviv 2023 é baseado em [confcodeofconduct.com](https://confcodeofconduct.com/index-pt-br.html)._
+_O código de conduta do devopsdays Tel Aviv 2024 é baseado em [confcodeofconduct.com](https://confcodeofconduct.com/index-pt-br.html)._
