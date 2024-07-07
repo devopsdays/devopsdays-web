@@ -85,4 +85,4 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/seifelbayomi/"
 
 organizer_email: "halifax@devopsdays.org" # Put your organizer email address here
-sponsors: !include sponsors.yml
+!include sponsors.yml
