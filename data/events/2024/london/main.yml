@@ -113,6 +113,8 @@ sponsors:
     level: gold
   - id: elastic
     level: gold
+  - id: contrast_security
+    level: gold
   # silver sponsors
   - id: macstadium
     level: silver
