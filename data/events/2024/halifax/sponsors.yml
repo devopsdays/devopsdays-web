@@ -1,0 +1,49 @@
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: dns
+    level: gold
+ #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: arresteddevops
+    level: community
+  - id: kubecareers
+    level: community 
+  - id: kubeevents
+    level: community
+  - id: actm
+    level: community  
+  - id: shiftkey_labs
+    level: community  
+  - id: ictc
+    level: community 
+  - id: thedevopsguide
+    level: community 
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  #- id: platinum
+  #  label: Platinum
+  #  max: 2
+  - id: gold
+    label: Gold
+    max: 5
+  #- id: bronze
+  #  label: Bronze
+  #  max: 7
+  #- id: lunch
+  #  label: Lunch
+  #  max: 2
+  #- id: lanyard
+  #  label: Lanyard
+  #  max: 1
+  #- id: coffee
+  #  label: Coffee
+  #  max: 1
+  - id: community
+    label: Community
