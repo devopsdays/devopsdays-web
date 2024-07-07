@@ -109,6 +109,10 @@ organizer_email: "belgium@devopsdays.org" # Put your organizer email address her
 sponsors:
   - id: pulumi
     level: gold
+  - id: googlecloud
+    level: gold
+  - id: aikido-dev
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
