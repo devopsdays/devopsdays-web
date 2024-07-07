@@ -48,7 +48,7 @@ Description = "DevOpsDays Nashville 2024 Topics"
     <h2 style="color: #C19A6B; display: inline-block;"><p>Here are our current topics for the event.</p></h2>
     <p>We are still working to finalize the schedule, but this is the current list of topics</p>
     <p><i>This is subject to change as we finalize our program</i></p>
-    <p>Check back often, or join our <a href="https://www.linkedin.com/company/devopsdays-nashville">LinkedIn page</a>.</p>
+    <p>Check back often or join our <a href="https://www.linkedin.com/company/devopsdays-nashville">LinkedIn page</a>.</p>
     <table>
   <tr>
     <th>Session Title</th>
@@ -83,6 +83,11 @@ Description = "DevOpsDays Nashville 2024 Topics"
   <tr>
     <td>Lazy Genius DevOps: Innovating Effortless Solutions with Digital Charm</td>
     <td>Khushi Yadav</td>
+    <td>Standard</td>
+  </tr>
+  <tr>
+    <td>Microservices and Multiple Sources of Truth: It’s Not Your Fault</td>
+    <td>Vijay Ramamurthy</td>
     <td>Standard</td>
   </tr>
   <tr>
@@ -123,6 +128,11 @@ Description = "DevOpsDays Nashville 2024 Topics"
   <tr>
     <td>Lightning Talk: DevOps, 12-Factor, and Platform Engineering</td>
     <td>Justin Reock</td>
+    <td>Lightning</td>
+  </tr>
+  <tr>
+    <td>Zero to Hero - NetDevOps!</td>
+    <td>Akash Bhasakr</td>
     <td>Lightning</td>
   </tr>
 </table>

@@ -96,8 +96,12 @@ sponsors:
     level: gold
   - id: elastic
     level: gold
+  - id: flox
+    level: gold
   - id: observeinc
     level: gold
+  - id: honeycomb
+    level: silver
   - id: kubefirst
     level: silver
   - id: parrylabs

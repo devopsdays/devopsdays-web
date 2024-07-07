@@ -38,7 +38,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
   - name: registration
   - name: program
- # - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -88,6 +88,8 @@ sharing_image: "sharing_logo.png"
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: fetch
+    level: host
   - id: digital-motion
     level: bronze
   - id: birmingham-area-software-enthusiasts
