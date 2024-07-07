@@ -192,8 +192,6 @@ sponsors:
     level: platinum
   - id: couchbase
     level: platinum
-  - id: pulumi
-    level: platinum
   - id: komodor
     level: gold
   - id: aerospike
@@ -225,8 +223,6 @@ sponsors:
   - id: spotinst
     level: gold
   - id: redhat
-    level: gold
-  - id: slimai
     level: gold
   - id: bigdataboutique
     level: gold
