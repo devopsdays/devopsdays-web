@@ -90,8 +90,9 @@ Description = "DevOpsDays Halifax 2024"
   </div>
   <div class="buttons">
     <a href="https://tickets.devopsdays.org/devopsdays-halifax/2024/"><button>Buy Your Tickets Now</button></a>
+    <a href="https://talks.devopsdays.org/devopsdays-halifax-2024/schedule/"><button>Event Schedule</button></a>
     <a href="../location/"><button>Get Venue Info</button></a>
-    <a href="../speakers/"><button>Check Out Our Speakers</button></a>
+    <a href="https://talks.devopsdays.org/devopsdays-halifax-2024/speaker/"><button>Check Out Our Speakers</button></a>
     <a href="../sponsor/"><button>Become a Sponsor</button></a>
     <a href="https://bit.ly/4cnEFtu"><button>Volunteer With Us</button></a>
     <a href="../contact/"><button>Contact Us</button></a>
