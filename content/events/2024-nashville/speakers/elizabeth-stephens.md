@@ -4,7 +4,7 @@ Twitter = ""
 linkedin = ""
 website = "https://dbscyber.com/"
 Github = ""
-image = ""
+image = "elizabeth-stephens.png"
 type = "speaker"
 linktitle = "elizabeth-stephens"
 
