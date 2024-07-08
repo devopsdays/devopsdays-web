@@ -4,14 +4,15 @@ city: "Amsterdam" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsams" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "DevOpsDays is coming BACK to Amsterdam!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+gtm_tracking_id: "G-NCBC4PBEMK"
 
 # All dates are in unquoted 2025-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2025-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: 2024-06-18T00:00:00+02:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2024-06-20T23:00:00+02:0 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2025-06-18T00:00:00+02:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2025-06-20T23:00:00+02:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  # start accepting talk proposals.
