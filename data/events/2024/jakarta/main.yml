@@ -92,8 +92,8 @@ organizer_email: "jakarta@devopsdays.org" # Put your organizer email address her
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id:  bri
-    level: track
+#  - id:  bri
+#    level: track
   - id:  fordigi
     level: supported
   - id:  f5
@@ -146,6 +146,8 @@ sponsors:
     level: media
   - id: girlskode
     level: media
+  - id: event-jakarta
+    level: media
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -153,9 +155,9 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: track
-    label: Ultimate
-    max: 1
+#  - id: track
+#    label: Ultimate
+#    max: 1
   - id: supported
     label: Supported
     max: 1
