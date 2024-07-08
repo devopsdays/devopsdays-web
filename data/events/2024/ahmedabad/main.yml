@@ -66,6 +66,8 @@ team_members: # Name is the only required field for team members.
   - name: "Dharmit Shah"
     linkedin: "https://www.linkedin.com/in/dharmitshah/"
     twitter: "dharm1t"
+  - name: "Omshree Butani"
+    linkedin: "https://www.linkedin.com/in/omshree-butani"
 
 organizer_email: "ahmedabad@devopsdays.org" # Put your organizer email address here
 
