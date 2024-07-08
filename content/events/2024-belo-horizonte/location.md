@@ -1,10 +1,9 @@
 +++
-Title = ""
+Title = "Localização - DevOpsDays Belo Horizonte 2024"
 Type = "Event"
 Description = "Localização Belo Horizonte 2024"
 +++
 
-<h1>Localização do DevOpsDays Belo Horizonte 2024</h1>
 <p>O evento acontecerá no auditório Carandá da UNIBH Buritis, a portaria do evento é a da Líbero Leone. O espaço conta com estacionamento para os participantes, sujeito a quem chegar primeiro no local </p>
 <br>
 <!-- * <a href="https://goo.gl/maps/9jCMpUULWFZjs5wJ8">Map</a> -->
