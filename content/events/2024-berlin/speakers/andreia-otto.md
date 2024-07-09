@@ -3,7 +3,7 @@ title = "Andreia Otto"
 twitter = ""
 linkedin = ""
 website = ""
-image = ""
+image = "andreia-otto.jpg"
 type = "speaker"
 linktitle = ["andreia-otto"]
 +++

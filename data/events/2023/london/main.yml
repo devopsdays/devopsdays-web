@@ -119,7 +119,7 @@ sponsors:
     level: silver
   - id: pulumi
     level: silver
-  - id: snyk
+  - id: snyk-before-20240621
     level: silver
   - id: spot-by-netapp
     level: silver

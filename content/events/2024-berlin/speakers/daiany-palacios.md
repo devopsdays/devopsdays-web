@@ -3,7 +3,7 @@ title = "Daiany Palacios"
 twitter = ""
 linkedin = ""
 website = ""
-image = ""
+image = "daiany-palacios.jpg"
 type = "speaker"
 linktitle = ["daiany-palacios"]
 +++

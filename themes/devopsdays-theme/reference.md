@@ -152,8 +152,8 @@ Each team member is an element of `team_members`.
 
 | Field Name         | Type   | Required | Description             | Example                                    |
 |--------------------|--------|----------|-------------------------|--------------------------------------------|
-| `organizer_email` | String | Yes      | Organizer email address | "organizers-ponyville-2017@devopsdays.org" |
-| `proposal_email`   | String | Yes      | Proposal email address  | "proposals-ponyville-2017@devopsdays.org"  |
+| `organizer_email` | String | Yes      | Organizer email address | "ponyville@devopsdays.org" |
+| `proposal_email`   | String | Yes      | Proposal email address  | "ponyville-proposals@devopsdays.org"  |
 
 ### Sponsor fields
 
@@ -419,4 +419,13 @@ If you have `location_address` set in your datafile, this will return a Google M
 or
 ```
 {{< event_map width = "600" height="500" >}}
+```
+
+### tix
+Embeds the DevOpsDays Pretix ticket and registration system
+This shortcode requires two parameters, city and year, where the city is typically the organiser city and the year the event year.
+Please note this may be differ, please check with in your Pretix for the two names.
+
+```
+{{< tix city="belgium" year="antwerp-2024" >}}
 ```

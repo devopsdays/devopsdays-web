@@ -1,9 +1,9 @@
 +++
 Title = "Seth Eliot"
-Twitter = "https://x.com/setheliot"
+Twitter = "setheliot"
 linkedin = "https://www.linkedin.com/in/setheliot/"
 Website = "https://linktr.ee/setheliot"
-github = "https://github.com/setheliot"
+github = "setheliot"
 image = "seth-eliot.jpg"
 type = "speaker"
 linktitle = "seth-eliot"

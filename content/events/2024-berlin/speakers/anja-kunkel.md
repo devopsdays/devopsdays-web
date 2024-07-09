@@ -3,7 +3,7 @@ title = "Anja Kunkel"
 twitter = ""
 linkedin = ""
 website = ""
-image = ""
+image = "anja-kunkel.png"
 type = "speaker"
 linktitle = ["anja-kunkel"]
 +++

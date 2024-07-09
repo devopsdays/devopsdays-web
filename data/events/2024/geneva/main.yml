@@ -41,7 +41,7 @@ location_address: "Campus de Battelle, Rue de la Tambourine 17, 1227 Carouge" #O
 nav_elements: # List of pages you want to show up in the navigation of your page.
 #  - name: propose
   - name: location
-  - name: registration
+#  - name: registration
   - name: program
   - name: speakers
   - name: sponsor
@@ -156,7 +156,7 @@ sponsors:
     level: community
   - id: swiss-digital-network
     level: gold
-  - id: pure-storage
+  - id: portworx
     level: silver
   - id: keyteo
     level: silver

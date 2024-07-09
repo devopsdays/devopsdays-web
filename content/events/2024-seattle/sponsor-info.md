@@ -39,9 +39,7 @@ This year’s event is on May 14th and 15th, 2024. A detailed program can be fou
 Gold sponsors have 1 minute for a pitch to the full audience. This time will be strictly enforced to make
 sure we stay on schedule!
 
-**TBD**
-
-<!-- <iframe width=525 height=385 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRjfgjnGgeisCIzN9VbniccFZ8a3PRdfqLnGa2oZSyTHzuIkC-9j4BYDB-U61qjNBcgsSAOrhlI7DRz/pubhtml?widget=true&amp;headers=false"></iframe> -->
+<iframe width=525 height=400 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRD0MZhqSInE1xUfw_2aR5XxvrQhzMUJFTavjLKC24g5TmIRb-tU52M6BBKca3a3rcmtnFL1zas7vkv/pubhtml?widget=true&amp;headers=false"></iframe>
 
 ## Who to send
 
@@ -69,7 +67,8 @@ There is no shipping directly to the venue, so we have contracted a drayage comp
 
 **Sponsors are responsible for any charges from using this third party vendor. Please follow their instructions carefully to make sure there are no issues.**
 
-**Drayage TBD**
+#### Drayage
+Alliance Expo is providing drayage for this event, please contact the organizers via email to connect you with them.
  <!-- Email <a href='mailto:sdugger@fernexpo.com?subject=2022 DevOpsDays Seattle'>FernExpo</a> for further information and pricing. -->
 
 For outbound shipping only, there is a FedEx Office location across the street from the venue. Unlike some FedEx locations, this location does **not** offer a hold for pickup service so you should not send any incoming shipments there.
@@ -88,6 +87,9 @@ Gold sponsors will be able to choose the location in the venue of your sponsor t
 
 With that said, we've been told that we have one of the most welcoming sponsor areas of any DevOpsDays event and will do everything in our power to make sure there's no such thing as a "bad table spot".
 
+### Floor plan and booth allocations
+
+<iframe width=1460 height=1200 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTlYu_EiKGD4p9nWj0IpocrMCQir1z-p2jXKfdSJf1JpuIyO7YYuMzVV78zHjrMs0Emvmp4oscJfYwP/pubhtml?widget=true&amp;headers=false">
 <!-- Floor Plan<br>
 <a href="/events/2019-seattle/2019-floor-plan.png"><img style="max-width: 500px; padding: 0px 20px 20px 0px" src="/events/2019-seattle/2019-floor-plan.png"></a> -->
 
@@ -97,14 +99,7 @@ With that said, we've been told that we have one of the most welcoming sponsor a
 * Power available at table
 * WiFi is shared with the conference attendees, bandwidth heavy demos are not recommended
 
-#### Silver Sponsors
-
-* Share a 6 foot table with another sponsor
-* Power available at table
-* WiFi is shared with the conference attendees, bandwidth heavy demos are not recommended
-
 The sponsor area will be set up to encourage people to hang out and enjoy coffee breaks and meals. It isn’t designed like a big trade show with aisles of booths. You should bring retractable banners instead of traditional trade show booths.
-
 
 ### A/V Rental<a id="av_rental">
 

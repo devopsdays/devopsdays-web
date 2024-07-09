@@ -48,14 +48,14 @@ Description = "devopsdays Rio de Janeiro 2024"
         {{< event_link page="sponsor" text="Apoie o Devopsdays Rio em 2024!" >}}
       </div>
     </div>
-    <div class="row">
+<!--     <div class="row">
       <div class="col-md-2">
         <strong>CFP</strong>
       </div>
       <div class="col-md-6">
         {{< event_link url-key="cfp_link" text="Submeta a sua talk!" >}}
       </div>
-    </div>
+    </div> -->
     <div class="row">
       <div class="col-md-2">
         <strong>Grade</strong>
