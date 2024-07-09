@@ -8,12 +8,12 @@ Speakers = ["dillon-courts"]
 +++
 
 GitOps!
+This workshop will explore GitOps as a concept and we will do a practical application utilizing ArgoCD.
 
-This workshop will explore GitOps as a concept and we will do a practical application utilizing ArgoCD as a proof of concept.
-
-All you need is a laptop and access to Github!
+All you need is a laptop with Visual Studio Code, Docker, and a personal Github account!
 
 Prerequisites:
-
 - A laptop
-- Access to GitHub
+- Up to date Visual Studio Code
+- Up to date Docker
+- Personal Github account
