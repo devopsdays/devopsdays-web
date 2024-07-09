@@ -26,7 +26,7 @@ More information can be obtained by using the [GVB](http://en.gvb.nl/) or [9292]
 
 ##### A note to out of towners in in regards to obtaining a reloadable card for public transportation.
 
-In previous years you had to purchase something called a "OV chipkaart" and/or separate tickets from the [NS](https://www.nl.nl) in order to access the Public Transportation in the Netherlands. As of this year (2023) this is no longer required! 
+In previous years you had to purchase something called a "OV chipkaart" and/or separate tickets from the [NS](https://www.nl.nl) in order to access the Public Transportation in the Netherlands. As of 2023 this is no longer required! 
 
 The Dutch have leapfrogged into 2020s by allowing you to check-in & check-out with your **contactless** debit or credit card, in addition to allowing payment via Apple Pay or Google Pay. Just remember to check in and out using the same method of payment (including which card is active on your mobile) -- otherwise you'll pay full fare twice! More information at [OVPay](https://www.ovpay.nl/en).
 
