@@ -4,7 +4,7 @@ Twitter = ""
 linkedin = "https://linkedin.com/in/danonthetrail"
 website = ""
 Github = ""
-image = ""
+image = "dan-cook.png"
 type = "speaker"
 linktitle = "dan-cook"
 

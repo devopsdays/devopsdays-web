@@ -4,7 +4,7 @@ Twitter = "PeterZaitsev"
 linkedin = ""
 website = ""
 Github = ""
-image = ""
+image = "peter-zaitsev.png"
 type = "speaker"
 linktitle = "peter-zaitsev"
 
