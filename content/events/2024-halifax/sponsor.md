@@ -185,16 +185,9 @@ All special sponsors will have their logo displayed on the DevOpsDays Halifax we
       <td>1</td>
     </tr>
     <tr>
-      <td>Scholarships</td>
-      <td>Varies</td>
-      <td>Provide tickets for under-indexed groups to attend</td>
-      <td>4</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>Coffee</td>
-      <td>$2,000</td>
-      <td>Sponsor coffee for the attendees</td>
+      <td>Swag</td>
+      <td>$3,000</td>
+      <td>Sponsor swag for the attendees</td>
       <td>2</td>
       <td>1</td>
     </tr>
@@ -206,11 +199,18 @@ All special sponsors will have their logo displayed on the DevOpsDays Halifax we
       <td>1</td>
     </tr>
     <tr>
-      <td>Swag</td>
-      <td>$3,000</td>
-      <td>Sponsor swag for the attendees</td>
+      <td>Coffee</td>
+      <td>$2,000</td>
+      <td>Sponsor coffee for the attendees</td>
       <td>2</td>
       <td>1</td>
+    </tr>
+    <tr>
+      <td>Scholarships</td>
+      <td>Varies</td>
+      <td>Provide tickets for under-indexed groups to attend</td>
+      <td>4</td>
+      <td>2</td>
     </tr>
   </tbody>
 </table>
