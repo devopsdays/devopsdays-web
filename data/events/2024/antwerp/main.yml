@@ -113,8 +113,13 @@ sponsors:
     level: gold
   - id: aikido-dev
     level: gold
+  - id: puppet-by-perforce
+    level: gold
+  - id: kangaroot
+    level: silver
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
+
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
