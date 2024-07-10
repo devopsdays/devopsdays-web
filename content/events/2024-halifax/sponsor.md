@@ -59,7 +59,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <td>4</td>
       <td>3</td>
       <td>2</td>
-      <td>5</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>Logo on DevOpsDays Halifax website</td>
