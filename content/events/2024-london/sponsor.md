@@ -6,7 +6,7 @@ Description = "Sponsor DevOpsDays London 2024"
 <div class="container-fluid">
   <div class="row justify-content-start">
     <div class="col-md-9">
-        <p>We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].</p>
+        <p>We greatly value sponsors for this open event.  If you are interested in sponsoring, please fill in <a href="https://docs.google.com/forms/d/e/1FAIpQLSeAc6v9AYOWq--A94wwAlrlq-PnkMOIdtiPIZz7MjebrS5h3Q/viewform">the registration form</a>. Drop us an email at [{{< email_organizers >}}] if you have any questions.</p>
         <p><a href="https://assets.devopsdays.org/events/2024/london/devopsdays-london-2024-sponsorship-brochure.pdf">A downloadable version of our prospectus is available here.</a></p>
     </div>
     <div class="col-md-9">
@@ -18,7 +18,7 @@ Description = "Sponsor DevOpsDays London 2024"
         This is a great opportunity to build relationships with key players in the DevOps community and to stay up-to-date on the latest trends and technologies in the field. 
         </p>
       </div>
-      <p>If you are interested in sponsoring, please drop us an email at <a href="mailto:sponsors@devopsdays.london">sponsors@devopsdays.london</a>.</p>
+      <p>If you are interested in sponsoring, please fill in <a href="https://docs.google.com/forms/d/e/1FAIpQLSeAc6v9AYOWq--A94wwAlrlq-PnkMOIdtiPIZz7MjebrS5h3Q/viewform">the registration form</a>.</p>
       <p>Sponsoring DevOpsDays London will expose your brand to practitioners, managers, and executives from companies of all sizes and industries including retail, banking, manufacturing, medical technology,education, government, and consulting. By supporting DevOpsDays you will:</p>
       <ul>
         <li>Increase awareness of your brand with decision makers and practitioners at organisations large
@@ -29,8 +29,7 @@ Description = "Sponsor DevOpsDays London 2024"
         <li>Promote your vacancies to a community of practitioners.</li>
         <li>Enhance your profile within the DevOps, Cloud Native and SRE communities.</li>
       </ul>
-      <!-- <p>If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].</p> -->
-      <p>This year we expect approximately 400 attendees (depending on COVID-19 guidance).</p>
+      <p>This year we expect approximately 400 attendees.</p>
       <p>Location: DevOpsDays London will be returning to the QEII Centre in London.</p>
     </div>
   </div>

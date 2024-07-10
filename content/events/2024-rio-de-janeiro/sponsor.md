@@ -107,6 +107,7 @@ Visando valorizar a participação de instituições na realização do evento, 
       <td></td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
+<<<<<<< HEAD
     </tr>  
     <tr>
       <td>Logo no backdrop de fotos</td>
@@ -114,6 +115,8 @@ Visando valorizar a participação de instituições na realização do evento, 
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
+=======
+>>>>>>> main
     </tr>
     <tr>
       <td>Distribuição de brindes na ecobag</td>
@@ -123,6 +126,7 @@ Visando valorizar a participação de instituições na realização do evento, 
       <td><i class="fa fa-check"></i></td>
     </tr>
     <tr>
+<<<<<<< HEAD
       <td>Agradecimentos nas cerimõnias de abertura e encerramento</td>
       <td></td>
       <td></td>
@@ -193,6 +197,8 @@ Visando valorizar a participação de instituições na realização do evento, 
       <td>Até 4</td>
     </tr>
     <tr>
+=======
+>>>>>>> main
       <td>Video institucional da marca</td>
       <td></td>
       <td>Até 15s</td>
@@ -200,6 +206,7 @@ Visando valorizar a participação de instituições na realização do evento, 
       <td>Até 60s</td>
     </tr>
     <tr>
+<<<<<<< HEAD
       <td>Entrevista em redes sociais</td>
       <td></td>
       <td></td>
@@ -208,13 +215,41 @@ Visando valorizar a participação de instituições na realização do evento, 
     </tr>
         <tr>
       <td>Entrevista para as redes sociais</td>
+=======
+      <td>Criação de conteúdo realtime da equipe de marketing</td>
+>>>>>>> main
       <td></td>
       <td></td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
     </tr>
     <tr>
+<<<<<<< HEAD
       <td>Criação de conteúdo realtime da equipe de marketing</td>
+=======
+      <td>Espaço exclusivo no OpenSpace</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Agradecimentos nas cerimõnias de abertura e encerramento</td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Post nas redes sociais</td>
+      <td></td>
+      <td>Até 2</td>
+      <td>Até 3</td>
+      <td>Até 4</td>
+    </tr>
+    <tr>
+      <td>Entrevista para as redes sociais</td>
+>>>>>>> main
       <td></td>
       <td></td>
       <td><i class="fa fa-check"></i></td>
@@ -228,6 +263,7 @@ Visando valorizar a participação de instituições na realização do evento, 
       <td><i class="fa fa-check"></i></td>
     </tr>
     <tr>
+<<<<<<< HEAD
       <td>Espaço exclusivo no OpenSpace</td>
       <td></td>
       <td></td>
@@ -235,6 +271,8 @@ Visando valorizar a participação de instituições na realização do evento, 
       <td><i class="fa fa-check"></i></td>
     </tr>
     <tr>
+=======
+>>>>>>> main
       <td><b>Cotas</b></td>
       <td><b>até R$3.500,00</b></td>
       <td><b>R$12.000,00</b></td>

@@ -40,8 +40,18 @@ Description = "devopsdays Birmingham, AL 2024"
     font-weight: 600;
   }
 </style>
+
 <div style="text-align:center;">
   {{< event_logo >}}
+</div>
+
+<div class="row" style="margin-top:10px;margin-bottom:10px;padding-left:10px;padding-right:5px;background-color:#f3f3f3">
+<strong>UPDATE!</strong>
+<p>It is with great regret and more than a little bit of embarrassment that the organizers of DevOps Days Birmingham, AL, find ourselves forced to announce that we will be rescheduling our event to <strong>August 19-21, 2024</strong>.  We have tried rather hard to execute on this, but events have conspired to make it impossible to put on an event of the quality that we are dedicated to.  We know that the event is less than a month out at this point, and this decision was made less than an hour ago, so this is the earliest we could inform you.</p>
+
+<p>At the present time, we are moving the schedule to August 19th at Innovation Depot for the Workshops and August 20-21 at Red Mountain Theater for the conference.  We definitely realize that this creates a number of difficulties for everyone, especially our out-of-town speakers and attendees.  For that, we are deeply sorry. </p>
+
+Please accept our apologies, and we hope to see you in August.
 </div>
 
 <div class = "row">

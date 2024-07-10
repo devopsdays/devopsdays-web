@@ -1,3 +1,7 @@
 name: "appcd"
+<<<<<<< HEAD
 url: "appcd.com"
+=======
+url: "https://appcd.com"
+>>>>>>> main
 twitter: "appcd_io"

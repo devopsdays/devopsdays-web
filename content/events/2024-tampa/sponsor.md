@@ -10,10 +10,20 @@ Description = "Sponsor DevOpsDays Tampa Bay 2024"
     <img alt="DevOpsDays Tampa Bay 2024" src="/events/2024-tampa/logo.png" class="img-fluid">
     <div class="d-flex flex-row">
       <div class="col-md-12">
+<<<<<<< HEAD
         <!-- <div class="p-2">
           <a target="_blank" class="btn btn-secondary btn-block" href="https://www.eventbrite.com/e/devopsdays-tampa-bay-2024-tickets-635898929817"> <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;
             &nbsp; Purchase a Ticket</a>
         </div> -->
+=======
+        <div class="p-2">
+          <a target="_blank" class="btn btn-secondary btn-block" href="https://www.eventbrite.com/e/devopsdays-tampa-bay-2024-tickets-916773974637"> <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;
+            &nbsp; Purchase a Ticket</a>
+        </div>
+        <div class="p-2">
+          <a class="btn btn-secondary btn-block" href="https://sessionize.com/devops-days-tampa-bay-2024"> <i class="fa fa-microphone"></i>&nbsp;&nbsp;&nbsp;Propose a Talk</a>
+        </div>
+>>>>>>> main
         <div class="p-2">
           <a class="btn btn-secondary btn-block" href="/events/2024-tampa/sponsor"> <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference</a>
         </div>
@@ -46,13 +56,18 @@ Description = "Sponsor DevOpsDays Tampa Bay 2024"
       <h4 class="alert-heading">Sponsorship Details</h4>
       <p>Interested in sponsoring? please drop us an email at [{{< email_organizers >}}].</p>
 </div>
+<<<<<<< HEAD
 <!-- 
 <b>Lanyard SPONSOR
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HUH8WC4WGGV6U" target="_blank">Buy Now</a>
+=======
+<b>Lanyard SPONSOR
+>>>>>>> main
 </b>
 <br/>
 Everyone at the event will be wearing a lanyard and this represents a great opportunity to get your name (logo) in front of all attendees.
 The lanyard will be printed with your branding on it. There is only a single sponsorship available and it is $2,500.
+<<<<<<< HEAD
 -->
 <!-- 
 <b>SWAG BAG SPONSOR
@@ -62,6 +77,22 @@ The lanyard will be printed with your branding on it. There is only a single spo
 Provide branded swag bag for all attendees with your name (logo). There is only a single sponsorship available $4,000. -->
 
 <!-- <br>
+=======
+
+<b>SWAG BAG SPONSOR
+</b>
+<br/>
+Provide branded swag bag for all attendees with your name (logo). There is only a single sponsorship available $2,500.
+
+<b>Local Only Speical Package
+</b>
+<br/>
+This sponsorship package is exclusively available upon approval and is intended for local organizations within the Tampa Bay area. The sponsorship benefits include 10 event tickets, a social media post, and logo placement on our website.
+
+Please note, this package is not designed for recruiting companies. We aim to tailor our sponsorship opportunities to best align with the interests and goals of our community and attendees.
+
+<br>
+>>>>>>> main
 <div style="display: flex;">
   <div style="flex: 1; max-width: 400px;">
   <table border="1">
@@ -82,8 +113,13 @@ Provide branded swag bag for all attendees with your name (logo). There is only 
       <tr>
         <td>Price</td>
         <td style="padding: 5px" align="center">$750</td>
+<<<<<<< HEAD
         <td style="padding: 5px" align="center">$5,000</td>
         <td style="padding: 5px" align="center">$7,500</td> 
+=======
+        <td style="padding: 5px" align="center">$3,000</td>
+        <td style="padding: 5px" align="center">$5,000</td> 
+>>>>>>> main
       </tr>
       <tr>
         <td>Included Tickets</td>
@@ -92,20 +128,64 @@ Provide branded swag bag for all attendees with your name (logo). There is only 
         <td style="padding: 5px" align="center">20</td>
       </tr>
       <tr>
+<<<<<<< HEAD
         <td>Promotion (logo) on web site</td>
+=======
+        <td>Branded discount code for add tix</td>
+>>>>>>> main
         <td style="padding: 5px" align="center"><img width="25" src="/img/checkmark.png"></td>
         <td style="padding: 5px" align="center"><img width="25" src="/img/checkmark.png"></td>
         <td style="padding: 5px" align="center"><img width="25" src="/img/checkmark.png"></td>
       </tr>
+<<<<<<< HEAD
       <td>Table</td>
+=======
+      <td>Social media shoutout post</td>
+        <td style="padding: 5px" align="center"><img width="25" src="/img/checkmark.png"></td>
+        <td style="padding: 5px" align="center"><img width="25" src="/img/checkmark.png"></td>
+        <td style="padding: 5px" align="center"><img width="25" src="/img/checkmark.png"></td>
+      </tr>
+      <tr>
+        <td>Logo on website, emails, signage</td>
+        <td style="padding: 5px" align="center"><img width="25" src="/img/checkmark.png"></td>
+        <td style="padding: 5px" align="center"><img width="25" src="/img/checkmark.png"></td>
+        <td style="padding: 5px" align="center"><img width="25" src="/img/checkmark.png"></td>
+      </tr>
+      <tr>
+        <td>Logo on shared slide during breaks</td>
+        <td style="padding: 5px" align="center"><img width="25" src="/img/checkmark.png"></td>
+        <td style="padding: 5px" align="center"><img width="25" src="/img/checkmark.png"></td>
+        <td style="padding: 5px" align="center"><img width="25" src="/img/checkmark.png"></td>
+      </tr>
+      <tr>
+        <td>Logo on shirt*</td>
+>>>>>>> main
         <td style="padding: 5px" align="center"></td>
         <td style="padding: 5px" align="center"><img width="25" src="/img/checkmark.png"></td>
         <td style="padding: 5px" align="center"><img width="25" src="/img/checkmark.png"></td>
       </tr>
       <tr>
+<<<<<<< HEAD
         <td>Sponsor Pitch 3 Minutes</td>
         <td style="padding: 5px"> </td>
         <td style="padding: 5px"> </td>
+=======
+        <td>Full table (6ft, 2 chairs, skirted)</td>
+        <td style="padding: 5px" align="center"></td>
+        <td style="padding: 5px" align="center"><img width="25" src="/img/checkmark.png"></td>
+        <td style="padding: 5px" align="center"><img width="25" src="/img/checkmark.png"></td>
+      </tr>
+      <tr>
+        <td>Logo on dedicated slides</td>
+        <td style="padding: 5px" align="center"></td>
+        <td style="padding: 5px" align="center"></td>
+        <td style="padding: 5px" align="center"><img width="25" src="/img/checkmark.png"></td>
+      </tr>
+      <tr>
+        <td>5-minute pitch to full audience</td>
+        <td style="padding: 5px" align="center"></td>
+        <td style="padding: 5px" align="center"></td>
+>>>>>>> main
         <td style="padding: 5px" align="center"><img width="25" src="/img/checkmark.png"></td>
       </tr>
     </tbody>
@@ -113,10 +193,18 @@ Provide branded swag bag for all attendees with your name (logo). There is only 
 <br>
 </div>
 <div style="flex: 1; margin-left: 10px; max-width: 50%; display: flex; align-items: flex-start;">
+<<<<<<< HEAD
 <a href="https://jamesgress.com/wp-content/uploads/2024/05/2024-Prospectus.pdf">
    <img src="https://jamesgress.com/wp-content/uploads/2024/05/tbdop.png" alt="Download PDF" width="200" height="400" style="border: 3px solid black;">
 </a>
 </div>
 </div> -->
+=======
+<a href="http://jamesgress.com/wp-content/uploads/2024/04/2024-DevOpsDays-Tampa-Bay-Prospectus.pdf">
+   <img src="http://jamesgress.com/wp-content/uploads/2024/04/tbdod24.png" alt="Download PDF" width="200" height="400" style="border: 3px solid black;">
+</a>
+</div>
+</div>
+>>>>>>> main
 
 <br/><br/>

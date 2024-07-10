@@ -3,8 +3,8 @@
 City = "Singapore"
 Year = "2024"
 talk_date = "2024-03-22"
-talk_start_time = "14:55"
-talk_end_time = "15:00"
+talk_start_time = "14:10"
+talk_end_time = "14:15"
 Title = "Progressive Delivery with Argo Rollouts: The Future of Deployments"
 Type = "talk"
 Speakers = ["abhishek"]

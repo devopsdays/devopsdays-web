@@ -10,10 +10,20 @@ Description = "devopsdays Tampa Bay 2024"
     <img alt="DevOpsDays Tampa Bay 2024" src="/events/2024-tampa/logo.png" class="img-fluid">
     <div class="d-flex flex-row">
       <div class="col-md-12">
+<<<<<<< HEAD
         <!-- <div class="p-2">
           <a target="_blank" class="btn btn-secondary btn-block" href="https://www.eventbrite.com/e/devopsdays-tampa-bay-2024-tickets-635898929817"> <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;
             &nbsp; Purchase a Ticket</a>
         </div> -->
+=======
+        <div class="p-2">
+          <a target="_blank" class="btn btn-secondary btn-block" href="https://www.eventbrite.com/e/devopsdays-tampa-bay-2024-tickets-916773974637"> <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;
+            &nbsp; Purchase a Ticket</a>
+        </div>
+        <div class="p-2">
+          <a class="btn btn-secondary btn-block" href="https://sessionize.com/devops-days-tampa-bay-2024"> <i class="fa fa-microphone"></i>&nbsp;&nbsp;&nbsp;Propose a Talk</a>
+        </div>
+>>>>>>> main
         <div class="p-2">
           <a class="btn btn-secondary btn-block" href="/events/2024-tampa/sponsor"> <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference</a>
         </div>

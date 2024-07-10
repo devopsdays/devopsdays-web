@@ -113,15 +113,14 @@ Visando valorizar a participação de instituições na realização do evento, 
     <tr>
       <td><b>Contribuição</b></td>
       <td><b>R$ 1.000,00</b></td>
-      <td><b>R$ 2.500,00</b></td>
+      <td><b>R$ 2.000,00</b></td>
+      <td><b>R$ 3.000,00</b></td>
       <td><b>R$ 4.000,00</b></td>
-      <td><b>R$ 5.000,00</b></td>
     </tr>
   </table>
 </div>
 <div>
-  <p><strong>COMUNIDADE:</strong> Apoiadores que contribuiram com algum beneficio para o público ou quantia de
-  até R$ 1.000,00 terão direito à divulgação nas redes sociais e 1 inscrição para o evento.</p>
+  <p><strong>COMUNIDADE:</strong> Apoiadores que contribuiram com algum beneficio para o público ou quantia menor que R$ 1.000,00 terão direito à divulgação nas redes sociais e 1 inscrição para o evento.</p>
     <!-- <p style="font-size:18px">Veja mais e nosso mídia kit no documento completo clicando <a href="https://docs.google.com/presentation/d/1MzhF2pWpETGvC61k9tpoLmreKbB9yGXGEcv7EWbvLQ0/edit?usp=sharing"><i class="fa fa-download" style="font-size:30px"></i></a></p> -->
 </div>
 
@@ -229,15 +228,14 @@ Aiming to enhance the participation of institutions in the event, we organized p
     </tr>
     <tr>
       <td><b>Contribution</b></td>
-      <td><b>US$ 250,00</b></td>
-      <td><b>US$ 550,00</b></td>
-      <td><b>US$ 850,00</b></td>
-      <td><b>US$ 1.050,00</b></td>
+      <td><b>US$ 200,00</b></td>
+      <td><b>US$ 400,00</b></td>
+      <td><b>US$ 600,00</b></td>
+      <td><b>US$ 800,00</b></td>
     </tr>
   </table>
 </div>
 <div>
-<p><strong>COMMUNITY:</strong> Supporters who have contributed some benefit to the public or amount of
-up to US$ 250,00 receive the right to be publicized on social media and 1 registration for the event.</p>
+<p><strong>COMMUNITY:</strong> Supporters who contributed a benefit to the public or an amount less than US$ 200,00 receive the right to be publicized on social media and 1 registration for the event.</p>
 <!--   <p style="font-size:18px">You can check more about sponsorship and the benefits here (in portuguese) <a href="https://docs.google.com/presentation/d/1MzhF2pWpETGvC61k9tpoLmreKbB9yGXGEcv7EWbvLQ0/edit?usp=sharing"><i class="fa fa-download" style="font-size:30px"></i></a></p> -->
 </div>

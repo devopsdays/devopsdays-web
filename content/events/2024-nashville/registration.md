@@ -13,7 +13,11 @@ We wll be opening up registration very soon.  We look forward to seeing you at D
 <br>
 <h3><a href="https://events.humanitix.com/devopsdays-nashville-2024">Registration is now open!</a></h3>
 <br>
+<<<<<<< HEAD
 <h5><i>Early bird pricing will go through April 10th!</i></h5>
+=======
+<!-- <h5><i>Early bird pricing will go through April 10th!</i></h5> -->
+>>>>>>> main
 
 <!-- </div></div> -->
 </div>

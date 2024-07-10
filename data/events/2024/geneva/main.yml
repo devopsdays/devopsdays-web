@@ -41,7 +41,7 @@ location_address: "Campus de Battelle, Rue de la Tambourine 17, 1227 Carouge" #O
 nav_elements: # List of pages you want to show up in the navigation of your page.
 #  - name: propose
   - name: location
-  - name: registration
+#  - name: registration
   - name: program
   - name: speakers
   - name: sponsor
@@ -154,6 +154,17 @@ sponsors:
     level: gold
   - id: swissdevjobs
     level: community
+<<<<<<< HEAD
+=======
+  - id: swiss-digital-network
+    level: gold
+  - id: portworx
+    level: silver
+  - id: keyteo
+    level: silver
+  - id: caroster
+    level: community
+>>>>>>> main
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -470,7 +481,7 @@ program:
 ignites:
   - title: "kubernetes-birthday"
     date: 2024-05-13
-  - title: "llms-introduction"
+  - title: "rex-redefine-your-devops-objectives"
     date: 2024-05-13
   - title: "preparing-a-new-devopsdays"
     date: 2024-05-13

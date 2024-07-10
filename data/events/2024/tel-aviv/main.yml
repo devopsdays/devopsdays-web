@@ -192,8 +192,6 @@ sponsors:
     level: platinum
   - id: couchbase
     level: platinum
-  - id: pulumi
-    level: platinum
   - id: komodor
     level: gold
   - id: aerospike
@@ -226,7 +224,11 @@ sponsors:
     level: gold
   - id: redhat
     level: gold
-  - id: slimai
+  - id: castai
+    level: gold
+  - id: coralogix
+    level: gold
+  - id: bigdataboutique
     level: gold
   #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: velocitytech
@@ -238,8 +240,6 @@ sponsors:
   - id: apono
     level: community
   - id: tlvpartners
-    level: community
-  - id: bigdataboutique
     level: community
   - id: lunardev
     level: community

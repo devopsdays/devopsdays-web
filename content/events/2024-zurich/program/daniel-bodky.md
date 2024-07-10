@@ -16,6 +16,9 @@ slides = ""
 
 ### Workshop
 
+<strong>Room:</strong> “Malen” / 1st floor 
+
+<strong>Abstract:</strong>
 GitOps has been around for a few years now, and available tools have matured. With ArgoCD, a single CNCF-graduated project provides a UI, CLI, and many advanced features for templating, customizations, and multi-cluster operations.
 But which aspects are great, and which are just noise or nice to have?
 
@@ -26,3 +29,15 @@ In bite-sized sections, topics like ArgoCD's architecture and first steps will b
 By the end of the session, terms like 'projects', 'application sets', or 'app of apps' won't be mysterious concepts anymore, but first-hand experiences.
 
 Attendees may take their clusters home with them. 😉
+
+<strong>Prerequisites for this workshop:</strong>
+This workshop is aimed at GitOps beginners: If you bring a notebook with a GitHub Account, you're good to go!
+However, as ArgoCD builds on top of Kubernetes and Git providers, it would be great if you have a basic understanding of the following tools and/or concepts: 
+- Kubernetes and kubectl 
+- Git 
+- the Linux commandline ext  
+
+Bring your laptop! 
+
+<strong>Number of participants:</strong>
+20 participants max 

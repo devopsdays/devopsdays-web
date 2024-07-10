@@ -22,11 +22,19 @@ cfp_date_announce: 2024-06-26T23:59:59+01:00 # inform proposers of status
 
 cfp_link: "https://docs.google.com/forms/d/e/1FAIpQLSdUK4VNyhpfpqhrm8BY7KmAvSNQHIuL49YOabkYDInbnyKD1g/viewform"
 
+<<<<<<< HEAD
 # registration_date_start: 2023-01-31T00:00:00+01:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 # registration_date_end: 2023-09-15T23:59:59+01:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 #registration_closed: "true"
 # registration_link: "https://ti.to/devopsdays-london/2023"
+=======
+registration_date_start: 2024-06-16T00:00:00+01:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2024-09-15T23:59:59+01:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+
+# registration_closed: "true"
+registration_link: "https://ti.to/devopsdays-london/2024"
+>>>>>>> main
 
 # Location
 #
@@ -36,10 +44,17 @@ location: "London" # Defaults to city, but you can make it the venue name.
 location_address: "QEII Centre, Broad Sanctuary, Westminster"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
+<<<<<<< HEAD
   # - name: registration
   - name: propose
   # - name: program
   # - name: speakers
+=======
+  - name: registration
+  # - name: propose
+  - name: program
+  - name: speakers
+>>>>>>> main
   - name: location
   - name: accessibility
   - name: sponsor
@@ -55,28 +70,53 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 team_members: # Name is the only required field for team members.
   - name: "Andy Burgin"
     twitter: "andyburgin"
+<<<<<<< HEAD
   - name: "bob walker"
     twitter: "rjw1"
     website: "https://randomness.org.uk"
+=======
+    pronouns: "he/him"
+  - name: "bob walker"
+    twitter: "rjw1"
+    website: "https://randomness.org.uk"
+    pronouns: "they/them, he/him"
+>>>>>>> main
   - name: "Chris Mills"
     pronouns: "he/him"
     github: "chriscoffee"
   - name: "David Collom"
+<<<<<<< HEAD
   - name: "Dominique Top"
     twitter: "devopsdomi"
+=======
+    pronouns: "he/him"
+  - name: "Dominique Top"
+    twitter: "devopsdomi"
+    pronouns: "she/her"
+>>>>>>> main
   - name: "Ethan Sumner"
     twitter: "SumnerOps"
     linkedin: "https://www.linkedin.com/in/ethansumner404/"
     website: "https://opssumner.dev"
+<<<<<<< HEAD
   - name: "Hannah Foxwell"
     twitter: "HannahFoxwell"
   - name: "Henti Smith"
+=======
+    pronouns: "he/him"
+  - name: "Hannah Foxwell"
+    twitter: "HannahFoxwell"
+    pronouns: "she/her"
+  - name: "Henti Smith"
+    pronouns: "he/him"
+>>>>>>> main
   - name: "Issy Long"
     pronouns: "they/them"
     mastodon: "https://strangeobject.space/@issy"
     twitter: "issyl0"
     github: "issyl0"
   - name: "Jen Mackown"
+<<<<<<< HEAD
   - name: "Louise Paling"
     pronouns: "she/her"
     twitter: "short_louise"
@@ -88,6 +128,25 @@ team_members: # Name is the only required field for team members.
   - name: "Sophie Weston"
     pronouns: "she/her"
     twitter: "soph_weston"
+=======
+    pronouns: "she/her"
+  - name: "Louise Paling"
+    pronouns: "she/her"
+    twitter: "short_louise"
+  - name: "Paula Kennedy"
+    twitter: "PaulaLKennedy"
+    pronouns: "she/her"
+  - name: "Rekha Aucklah"
+    pronouns: "she/her"
+  - name: "Sam Smith"
+    pronouns: "he/him"
+  - name: "Sophie Weston"
+    pronouns: "she/her"
+    twitter: "soph_weston"
+  - name: "Matt Slane"
+    pronouns: "he/him"
+    linkedin: "https://www.linkedin.com/in/mjslane/"
+>>>>>>> main
 
 organizer_email: "london@devopsdays.org" # Put your organizer email address here
 
@@ -98,10 +157,31 @@ sponsors:
   # gold sponsors
   - id: cloudsmith
     level: gold
+<<<<<<< HEAD
   # silver sponsors
   # bronze sponsors
   - id: commify
     level: bronze
+=======
+  - id: elastic
+    level: gold
+  - id: contrast_security
+    level: gold
+  # silver sponsors
+  - id: macstadium
+    level: silver
+  # bronze sponsors
+  - id: commify
+    level: bronze
+  - id: dxw
+    level: bronze
+  - id: github
+    level: bronze
+  - id: oxa
+    level: bronze
+  - id: syntasso
+    level: bronze
+>>>>>>> main
   # community sponsors
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -128,4 +208,221 @@ sponsor_levels:
     max: 10
 
 program:
+<<<<<<< HEAD
 ignites:
+=======
+  # Day one
+  - title: "Registration, Breakfast"
+    type: custom
+    date: 2024-09-26T00:00:00+01:00
+    start_time: "09:00"
+    end_time: "09:45"
+
+  - title: "Welcome"
+    type: custom
+    date: 2024-09-26T00:00:00+01:00
+    start_time: "09:45"
+    end_time: "10:00"
+
+  - title: "patrick-debois"
+    type: talk
+    date: 2024-09-26T00:00:00+01:00
+    start_time: "10:00"
+    end_time: "10:30"
+
+  - title: "heather-thacker"
+    type: talk
+    date: 2024-09-26T00:00:00+01:00
+    start_time: "10:35"
+    end_time: "11:05"
+
+  - title: "Coffee break"
+    type: custom
+    date: 2024-09-26T00:00:00+01:00
+    start_time: "11:05"
+    end_time: "11:25"
+
+  - title: "adrienne-braganza-tacke"
+    type: talk
+    date: 2024-09-26T00:00:00+01:00
+    start_time: "11:25"
+    end_time: "11:55"
+
+  - title: "sasha-rosenbaum"
+    type: talk
+    date: 2024-09-26T00:00:00+01:00
+    start_time: "12:00"
+    end_time: "12:30"
+
+  - title: "Ignites Day 1"
+    type: ignite
+    date: 2024-09-26T00:00:00+01:00
+    start_time: "12:35"
+    end_time: "13:05"
+
+  - title: "Lunch"
+    type: custom
+    date: 2024-09-26T00:00:00+01:00
+    start_time: "13:05"
+    end_time: "14:05"
+
+  - title: "Open Spaces Planning"
+    type: open-space
+    date: 2024-09-26T00:00:00+01:00
+    start_time: "14:05"
+    end_time: "14:30"
+
+  - title: "Open Spaces Session 1"
+    type: open-space
+    date: 2024-09-26T00:00:00+01:00
+    start_time: "14:30"
+    end_time: "15:15"
+
+  - title: "Open Spaces Session 2"
+    type: open-space
+    date: 2024-09-26T00:00:00+01:00
+    start_time: "15:15"
+    end_time: "16:00"
+
+  - title: "Coffee break"
+    type: custom
+    date: 2024-09-26T00:00:00+01:00
+    start_time: "16:00"
+    end_time: "16:15"
+
+  - title: "Open Spaces Session 3"
+    type: open-space
+    date: 2024-09-26T00:00:00+01:00
+    start_time: "16:15"
+    end_time: "17:00"
+
+  - title: "Day 1 Closing Remarks & Sponsor Raffle Giveaways"
+    type: custom
+    date: 2024-09-26T00:00:00+01:00
+    start_time: "17:00"
+    end_time: "17:10"
+
+  - title: "Drinks Reception in the Sponsor Hall"
+    type: custom
+    date: 2024-09-26T00:00:00+01:00
+    start_time: "17:10"
+    end_time: "18:10"
+
+  - title: "Evening event to be announced"
+    type: custom
+    date: 2024-09-26T00:00:00+01:00
+    start_time: "18:30"
+    end_time: "Onwards"
+
+  # Day two
+  - title: "Breakfast"
+    type: custom
+    date: 2024-09-27T23:59:59+01:00
+    start_time: "09:00"
+    end_time: "09:45"
+
+  - title: "Day 1 recap and day 2 introduction"
+    type: custom
+    date: 2024-09-27T23:59:59+01:00
+    start_time: "09:45"
+    end_time: "10:00"
+
+  - title: "andreia-otto"
+    type: talk
+    date: 2024-09-27T23:59:59+01:00
+    start_time: "10:00"
+    end_time: "10:30"
+
+  - title: "rob-lazzurs"
+    type: talk
+    date: 2024-09-27T23:59:59+01:00
+    start_time: "10:35"
+    end_time: "11:05"
+
+  - title: "Coffee break"
+    type: custom
+    date: 2024-09-27T23:59:59+01:00
+    start_time: "11:05"
+    end_time: "11:25"
+
+  - title: "ashley-sawatsky"
+    type: talk
+    date: 2024-09-27T23:59:59+01:00
+    start_time: "11:25"
+    end_time: "11:55"
+
+  - title: "matthew-skelton"
+    type: talk
+    date: 2024-09-27T23:59:59+01:00
+    start_time: "12:00"
+    end_time: "12:30"
+
+  - title: "Ignites Day 2"
+    type: ignite
+    date: 2024-09-27T23:59:59+01:00
+    start_time: "12:35"
+    end_time: "13:05"
+
+  - title: "Lunch"
+    type: custom
+    date: 2024-09-27T23:59:59+01:00
+    start_time: "13:05"
+    end_time: "14:05"
+
+  - title: "Open Spaces Planning"
+    type: open-space
+    date: 2024-09-27T23:59:59+01:00
+    start_time: "14:05"
+    end_time: "14:30"
+
+  - title: "Open Spaces Session 1"
+    type: open-space
+    date: 2024-09-27T23:59:59+01:00
+    start_time: "14:30"
+    end_time: "15:15"
+
+  - title: "Open Spaces Session 2"
+    type: open-space
+    date: 2024-09-27T23:59:59+01:00
+    start_time: "15:15"
+    end_time: "16:00"
+
+  - title: "Coffee Break & Sponsor Raffle Giveaways"
+    type: custom
+    date: 2024-09-27T23:59:59+01:00
+    start_time: "16:00"
+    end_time: "16:15"
+
+  - title: "Open Spaces Session 3"
+    type: open-space
+    date: 2024-09-27T23:59:59+01:00
+    start_time: "16:15"
+    end_time: "17:00"
+
+ignites:
+  # Day one
+  - title: "carly-richmond"
+    date: 2024-09-26T00:00:00+01:00
+  - title: "emmanuel-ahaiwe"
+    date: 2024-09-26T00:00:00+01:00
+  - title: "becky-pauley"
+    date: 2024-09-26T00:00:00+01:00
+  - title: "daniel-phrawzty-maher"
+    date: 2024-09-26T00:00:00+01:00
+  - title: "mam-joof"
+    date: 2024-09-26T00:00:00+01:00
+  - title: "james-wynne"
+    date: 2024-09-26T00:00:00+01:00
+  # Day two
+  - title: "olakunle-abiola"
+    date: 2024-09-27T23:59:59+01:00
+  - title: "emily-harrison"
+    date: 2024-09-27T23:59:59+01:00
+  - title: "lorenzo-turrino"
+    date: 2024-09-27T23:59:59+01:00
+  - title: "suzanne-daniels"
+    date: 2024-09-27T23:59:59+01:00
+  - title: "daiany-palacios"
+    date: 2024-09-27T23:59:59+01:00
+
+>>>>>>> main

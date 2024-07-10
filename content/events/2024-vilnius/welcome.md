@@ -28,7 +28,12 @@ Description = "devopsdays Vilnius 2024"
             <li>
                 <strong>Ignites</strong> - 5 minute talks. After lunch, several short talks with with 20 slides that
                 auto-advance. Funny,
+<<<<<<< HEAD
                 poignant, insightful, and just right.
+=======
+                poignant, insightful, and just right. <a
+                    href="https://talks.devopsdays.org/devopsdays-vilnius-2024/cfp">Propose now!</a>
+>>>>>>> main
             </li>
             <li>
                 <strong>Open Spaces</strong> - Prepare to be surprised. Participants suggest, self-organize, and lead
@@ -36,6 +41,7 @@ Description = "devopsdays Vilnius 2024"
                 meetings immediately after the Ignite talks. The organizers facilitate the rooms and timing to fit each
                 suggestion, but the content is completely participant-driven.
             </li>
+<<<<<<< HEAD
         </ul>
         </p>
         <p>
@@ -45,11 +51,40 @@ Description = "devopsdays Vilnius 2024"
                 allowfullscreen></iframe>
         <p><strong>Moving pictures from Devopsdays Vilnius 2023</strong></p>
         </p>
+=======
+            <li>
+                <strong>Workshop</strong> - This year we are preparing a small workshop on 10th of September. It will be
+                separate registration with very limited seats available.
+            </li>
+        </ul>
+        </p>
+>>>>>>> main
         <div class="d-flex flex-row">
             <div class="col-md-12">
                 <div class="d-flex p-2">
                     <a class="btn btn-secondary btn-block button-secondary"
                         style="background-color: #1bff9f; border-color: #1bff9f; color: #000000 "
+<<<<<<< HEAD
+=======
+                        href="https://www.bilietai.lt/eng/tickets/kita/conference-ticket-devops-days-vilnius-2024-434138/">
+                        <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Register / Get a ticket</a>
+                </div>
+                <div class="d-flex p-2">
+                    <a class="btn btn-secondary btn-block button-secondary"
+                        style="background-color: #1bff9f; border-color: #1bff9f; color: #000000 "
+                        href="https://talks.devopsdays.org/devopsdays-vilnius-2024/cfp"> <i
+                            class="fa fa-bolt fa-lg"></i>&nbsp;&nbsp;&nbsp;Propose Ignite Talk</a>
+                </div>
+                <div class="d-flex p-2">
+                    <a class="btn btn-secondary btn-block button-secondary"
+                        style="background-color: #1bff9f; border-color: #1bff9f; color: #000000 "
+                        href="/events/2024-vilnius/program"> <i
+                            class="fa fa-calendar-alt fa-lg"></i>&nbsp;&nbsp;&nbsp;Program</a>
+                </div>
+                <div class="d-flex p-2">
+                    <a class="btn btn-secondary btn-block button-secondary"
+                        style="background-color: #1bff9f; border-color: #1bff9f; color: #000000 "
+>>>>>>> main
                         href="/events/2024-vilnius/sponsor"> <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor
                         the Conference</a>
                 </div>
@@ -59,6 +94,16 @@ Description = "devopsdays Vilnius 2024"
                         href="/events/2024-vilnius/contact"> <i
                             class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Contact the Organizers</a>
                 </div>
+<<<<<<< HEAD
+=======
+                <p><strong>Moving pictures from Devopsdays Vilnius 2023</strong></p>
+                <p>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/oXKa2en9qHU?si=A4VB0atgcVfg_UzR"
+                        title="YouTube video player" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        allowfullscreen></iframe>
+                </p>
+>>>>>>> main
                 <div class="col-md-8">
                     <p></p>
                 </div>

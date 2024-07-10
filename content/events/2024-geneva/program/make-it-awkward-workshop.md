@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Make It Awkward Workshop"
 Type = "talk"
-Speakers = ["maria-cortes-astudillo"]
+Speakers = ["maria-cortes-astudillo","alexandre-auquier"]
 +++
 
 Do you know that moment when someone says something biased to you, and you struggle to reply? So you don't say anything and when the moment is gone, you think about all the different saucy replies you could have given.

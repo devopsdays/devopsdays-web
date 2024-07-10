@@ -32,9 +32,21 @@ Description = "Sponsor devopsdays Medellin 2024"
         </thead>
         <tbody>
           <tr>
-            <th scope="row">Pricing</th>
+            <th scope="row">Pricing Before Early Bird, until january 15, 2024</th>
             <td>
               <center>$ 1000 USD + IVA </center>
+            </td>
+            <td>
+              <center>$ 2000 USD + IVA </center>
+            </td>
+            <td>
+              <center>$ 3000 USD + IVA </center>
+            </td>
+          </tr>
+          <tr>
+            <th scope="row">Pricing After January 16, 2024</th>
+            <td>
+              <center>$ 2000 USD + IVA </center>
             </td>
             <td>
               <center>$ 3000 USD + IVA </center>
@@ -43,186 +55,163 @@ Description = "Sponsor devopsdays Medellin 2024"
               <center>$ 5000 USD + IVA </center>
             </td>
           </tr>
-            <th scope="row">Boleto de conferencia - Presenciales*</th>
+            <th scope="row">VIP Access</th>
             <td>
-              <center>5</center>
+              <center></center>
             </td>
             <td>
-              <center>8</center>
+              <center></center>
             </td>
             <td>
-              <center>10</center>
+              <center>Yes</center>
             </td>
           </tr>
           <tr>
-            <th scope="row">Boleto de conferencia -  Virtuales</th>
+            <th scope="row">Conference Ticket - Presential (20 % on Additional Tickets)</th>
 			<td>
 			  <center>5</center>
 			</td>
             <td>
-			  <center>8</center>
+			  <center>16</center>
 			</td>
 			<td>
-			  <center>10</center>
+			  <center>20</center>
 			</td>
           </tr>
           <tr>
-            <th scope="row">Stand de patrocinador dedicado en el evento*</th>
+            <th scope="row">On-site Booth</th>
             <td>
-              <center>Mediano</center>
+              <center></center>
             </td>
             <td>
-              <center>Grande</center>
+              <center>Medium</center>
             </td>
             <td>
-              <center>Grande</center>
+              <center>Large</center>
             </td>
           </tr>
           <tr>
-            <th scope="row">Elección de la ubicación de la mesa**</th>
+            <th scope="row">Dedicated Virtual Sponsor Booth at the event*.</th>
             <td>
+              <center>Small</center>
             </td>
             <td>
-              <center>Sí</center>
+              <center>Medium</center>
             </td>
             <td>
-              <center>Sí</center>
+              <center>Large</center>
             </td>
           </tr>		  
           <tr>
-            <th scope="row">Logotipo en diapositiva compartida en diapositivas publicadas</th>
+            <th scope="row">Logo on slides rotating at the event and during breaks</th>
 			<td>
-              <center>Medio</center>
+              <center></center>
             </td>
             <td>
-              <center>Grande</center>
+              <center>Shared</center>
             </td>
             <td>
-              <center>Grande</center>
+              <center>Exclusive</center>
             </td>
           </tr>
           <tr>
-            <th scope="row">Discurso de 5 minutos a toda la audiencia</th>
+            <th scope="row">Presentation to the entire audience</th>
             <td></td>
             <td>
-			  <center>Sí</center>
+			  <center>2 min</center>
 			</td>
             <td>
-			  <center>Sí</center>
+			  <center>5 min</center>
 			</td>
           </tr>
           <tr>
-            <th scope="row">Discurso de 2 minutos a toda la audiencia</th>
+            <th scope="row">Logo on the event website and in the conference room size according to sponsorship category.</th>
             <td>
-              <center>Sí</center>
+              <center>Yes</center>
             </td>
+            <td>
+              <center>Yes</center>
+            </td>
+            <td>
+              <center>Yes</center>
+            </td>
+          </tr>
+          <tr>
+            <th scope="row">Possibility to Sponsor Networking Spaces during the event </th>
+            <td>
+              <center></center>
+            </td>
+            <td>
+              <center>Yes</center>
+            </td>
+            <td>
+              <center>Yes</center>
+            </td>
+          </tr>
+          <tr>
+            <th scope="row">Networking opportunities with specific profiles of the event (as long as the participant authorizes)</th>
             <td>
               <center></center>
             </td>
             <td>
               <center></center>
             </td>
-          </tr>
-          <tr>
-            <th scope="row">Logotipo en el sitio web del evento y en la sala de conferencias Tamaño según categoría de patrocinio.</th>
             <td>
-              <center>Sí</center>
-            </td>
-            <td>
-              <center>Sí</center>
-            </td>
-            <td>
-              <center>Sí</center>
+              <center>Yes</center>
             </td>
           </tr>
           <tr>
-            <th scope="row">Logotipo en su propia diapositiva o video promocional, que gira durante los descansos</th>
+            <th scope="row">Material for promotion on the event's social networks</th>
             <td>
-              <center>Sí</center>
+              <center>Yes</center>
             </td>
             <td>
-              <center>Sí</center>
+              <center>Yes</center>
             </td>
             <td>
-              <center>Sí</center>
-            </td>
-          </tr>
-          <tr>
-            <th scope="row">Promoción en las redes sociales del evento</th>
-            <td>
-              <center>Sí</center>
-            </td>
-            <td>
-              <center>Sí</center>
-            </td>
-            <td>
-              <center>Sí</center>
+              <center>Yes</center>
             </td>
           </tr>
           <tr>
-            <th scope="row">Posibilidad de otorgar premios a los asistentes a la conferencia.</th>
+            <th scope="row">Possibility to include talks in satellite rooms and promote them at the event</th>
             <td>
-              <center>Sí</center>
+              <center></center>
             </td>
             <td>
-              <center>Sí</center>
+              <center>Yes</center>
             </td>
             <td>
-              <center>Sí</center>
+              <center>Yes</center>
             </td>
           </tr>
           <tr>
-            <th scope="row">Logotipo en todas las comunicaciones por correo electrónico</th>
+            <th scope="row">Possibility of providing merchandising to conference attendees</th>
 			      <td>
-              <center>Medio</center>
+              <center>Yes</center>
             </td>
             <td>
-              <center>Grande</center>
+              <center>Yes</center>
             </td>
             <td>
-              <center>Grande</center>
-            </td>
-          </tr>
-          <tr>
-            <th scope="row">Logotipo en las diapositivas de presentación del evento de apertura y cierre.</th>
-            <td>
-              <center></center>
-            </td>
-            <td>
-              <center>Sí</center>
-            </td>
-            <td>
-              <center>Sí</center>
-            </td>
-          </tr>
-          <tr>
-            <th scope="row">Código de descuento del 20% para compartir con su comunidad de clientes</th>
-            <td>
-              <center>10 Tickets</center>
-            </td>
-            <td>
-              <center>10 Tickets</center>
-            </td>
-            <td>
-              <center>20 Tickets</center>
+              <center>Yes</center>
             </td>
           </tr>
 		  <tr>
-            <th scope="row">Otras oportunidades disponibles a pedido</th>
+            <th scope="row">Other opportunities available upon request</th>
             <td>
-              <center>Sí</center>
+              <center>Yes</center>
             </td>
             <td>
-              <center>Sí</center>
+              <center>Yes</center>
             </td>
             <td>
-              <center>Sí</center>
+              <center>Yes</center>
             </td>
           </tr>
         </tbody>
       </table>
       <small><p>* Prices in USD may vary due to exchange rate</p>
-      <p>* Aunque es nuestra expectativa poder hacer un evento híbrido, estaremos sujetos a las disposiciones legales de los entes administrativos Nacionales, Regionales y Municipales. De igual manera, debemos velar por el cumplimiento de los protocolos de bioseguridad pertinentes.  Si la conferencia se cancela por eventos fuera de nuestro control (por ejemplo, cierre de sede o edicto gubernamental) haremos todo lo posible para reembolsar a todos los que podamos; esto depende de obtener un reembolso de nuestro lugar basado en fuerza mayor y no podemos garantizar de manera absoluta que esto pase.  Por favor, si su patrocinio depende de la realización del evento hibrido por favor dejarnos saber antes de realizar el pago del patrocinio.</p>
+      <p>* If the conference is cancelled due to events beyond our control (e.g. venue closure or government edict) we will do our best to reimburse everyone we can; this is dependent on obtaining a refund from our venue based on force majeure and we cannot absolutely guarantee this will happen.  Please let us know if your sponsorship is dependent on the hybrid event taking place before you make your sponsorship payment.</p>
       </small>
       <br>
     </div>

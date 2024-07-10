@@ -2,7 +2,11 @@ name: "2024-organiser-summit" # The name of the event. Four digit year with the 
 year: "2024" # The year of the event. Make sure it is in quotes.
 city: "Global Organiser Summit" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdays" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+<<<<<<< HEAD
 description: "Organiser Summit is coming to Belgium!   We are hosting a day for all the organisers globally the day before the 15 year aniversary devopsdays." # Edit this to suit your preferences
+=======
+description: "Organiser Summit is coming to Belgium!   We are hosting a day for all of the organisers globally the day before the 15 year anniversary of devopsdays." # Edit this to suit your preferences
+>>>>>>> main
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2024-MM-DDTHH:MM:SS+TZ:TZ, like this:
@@ -20,7 +24,11 @@ cfp_date_announce:  2024-02-01T00:00:00+02:00
 
 cfp_link: "https://talks.devopsdays.org/organiser-summit-2024/cfp" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
+<<<<<<< HEAD
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+=======
+registration_date_start: 2024-05-20T23:59:59+02:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+>>>>>>> main
 registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
@@ -28,6 +36,7 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 # Location
 #
+<<<<<<< HEAD
 coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "" # Defaults to city, but you can make it the venue name.
 #
@@ -37,6 +46,17 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: propose
  # - name: location
  # - name: registration
+=======
+coordinates: "51.216300, 4.423500" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+#
+location_address: "A room with a Zoo - Antwerpen" # Defaults to city, but you can make it the venue name.
+location: "Antwerp" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  # - name: propose
+  - name: location
+  - name: registration
+>>>>>>> main
  # - name: program
  # - name: speakers
  # - name: sponsor
@@ -74,21 +94,27 @@ team_members: # Name is the only required field for team members.
     github: "yveshanoulle"
     linkedin: "https://be.linkedin.com/in/yveshanoulle"
     image: "yves.png"
+<<<<<<< HEAD
   - name: "Jos van Schouten"
     pronouns: "he/him"
     linkedin: "https://www.linkedin.com/in/josvanschouten/"
     twitter: "josvanschouten"
     image: "jos.png"
+=======
+>>>>>>> main
   - name: "Ringo De Smet"
     github: "ringods"
     linkedin: "https://www.linkedin.com/in/ringodesmet/"
     mastodon: "https://hachyderm.io/@ringods"
     image: "ringo.png"
+<<<<<<< HEAD
   - name: "Floor Drees"
     pronouns: "she/her"
     linkedin: "https://www.linkedin.com/in/floordrees/"
     twitter: "DevOpsBarbie"
     image: "floor.jpg"
+=======
+>>>>>>> main
   - name: "Norman Meßtorff"
     twitter: "nmesstorff"
     linkedin: "https://www.linkedin.com/in/nmesstorff/"

@@ -169,7 +169,7 @@ Our beautiful city is lucky to have an increasingly diverse tech community, and 
             <div id="paypal-button-swag" class="paypal-btn"></div>
         </td>
         <td>
-            <div id="paypal-button-coffee" class="paypal-btn"></div>
+            <div id="" class="sold-out"></div>
         </td>
         <td>
             <div id="paypal-button-bronze" class="paypal-btn"></div>
