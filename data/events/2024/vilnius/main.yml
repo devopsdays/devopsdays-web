@@ -112,6 +112,8 @@ sponsors:
     level: community
   - id: centriclt
     level: bronze
+  - id: inkodus
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -293,7 +295,7 @@ program:
     start_time: "10:45"
     end_time: "11:20"
 
-  - title: "scott-rosenberg"
+  - title: "nicolas-frankel"
     type: talk
     date: 2024-09-12
     start_time: "11:25"
