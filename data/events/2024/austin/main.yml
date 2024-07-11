@@ -148,6 +148,7 @@ sponsors:
     level: gold
   - id: tailscale-black
     level: gold
+<<<<<<< HEAD:data/events/2024/austin/main.yml
   - id: rackn
     level: gold
 <<<<<<< HEAD
@@ -170,7 +171,16 @@ sponsors:
     level: happyhour
   - id: tigris-data
     level: happyhour
+<<<<<<< HEAD
 >>>>>>> main
+||||||| parent of 53aebad701 (Update organizers and event date)
+=======
+||||||| parent of 251aa021c1 (feat(sponsor): add RackN as gold (#13654)):data/events/2024-austin.yml
+=======
+  - id: rackn
+    level: gold
+>>>>>>> 251aa021c1 (feat(sponsor): add RackN as gold (#13654)):data/events/2024-austin.yml
+>>>>>>> 53aebad701 (Update organizers and event date)
   - id: civo
     level: lanyard
   - id: texasmutual
