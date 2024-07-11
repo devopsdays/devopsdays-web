@@ -8,10 +8,4 @@ type = "speaker"
 linktitle = "andrew-clay-schafer"
 +++
 
-Experienced Cloud Native Immigration and Naturalization Service Provider changing the game with modern automation, architecture, and analytics.
-
-Authentic fascination with high performing organizations optimizing the triple point of people, process and technology.
-
-You haven't learned anything until you change your behavior.
-
-thinker, builder, leader
+Andrew Clay Shafer evangelized DevOps tools and practices before DevOps was a word. Living at the intersection of Software Delivery, Cloud Computing and Open Source with experience in almost every role from support and QA to product and development across two decades, Andrew now focuses on engineering resilient sociotechnical systems and communities as a founder of Ergonautic.
