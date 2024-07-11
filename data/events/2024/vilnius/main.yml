@@ -143,7 +143,7 @@ program:
     start_time: "12:30"
     end_time: "13:00"
     
-  - title: "workshop-sohan-maheshwar"
+  - title: "workshop"
     type: workshop
     date: 2024-09-10
     start_time: "13:00"
@@ -289,8 +289,8 @@ program:
     start_time: "10:20"
     end_time: "10:45"
 
-  - title: "sohan-maheshwar"
-    type: talk
+  - title: "Talk - TBA"
+    type: custom
     date: 2024-09-12
     start_time: "10:45"
     end_time: "11:20"
