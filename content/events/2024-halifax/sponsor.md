@@ -21,6 +21,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <th scope="col">THE GOODS</th>
       <th scope="col">PLATINUM</th>
       <th scope="col">GOLD</th>
+      <th scope="col">SILVER</th>
       <th scope="col">BRONZE</th>
       <th scope="col">COMMUNITY</th>
     </tr>
@@ -30,6 +31,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <td>Price</td>
       <td>$7,500</td>
       <td>$5,000</td>
+      <td>$3,500</td>
       <td>$1,500</td>
       <td>Free</td>
     </tr>
@@ -39,23 +41,29 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <a href="mailto:halifax@devopsdays.org?subject=Interested%20in%20Platinum%20Sponsorship%20DevOpsDays%20Halifax%202024">Contact us</a>
       </td>
       <td>
-      <a href="mailto:halifax@devopsdays.org?subject=Interested%20in%20Gold%20Sponsorship%20DevOpsDays%20Halifax%202023">Contact us</a>
+      <a href="mailto:halifax@devopsdays.org?subject=Interested%20in%20Gold%20Sponsorship%20DevOpsDays%20Halifax%202024">Contact us</a>
       </td>
       <td>
-      <a href="mailto:halifax@devopsdays.org?subject=Interested%20in%20Bronze%20Sponsorship%20DevOpsDays%20Halifax%202023">Contact us</a>
+      <a href="mailto:halifax@devopsdays.org?subject=Interested%20in%20Silver%20Sponsorship%20DevOpsDays%20Halifax%202024">Contact us</a>
       </td>
-      <td><a href="mailto:halifax@devopsdays.org?subject=Interested%20in%20Community%20Sponsorship%20DevOpsDays%20Halifax%202023">Contact us</a>
+      <td>
+      <a href="mailto:halifax@devopsdays.org?subject=Interested%20in%20Bronze%20Sponsorship%20DevOpsDays%20Halifax%202024">Contact us</a>
+      </td>
+      <td>
+      <a href="mailto:halifax@devopsdays.org?subject=Interested%20in%20Community%20Sponsorship%20DevOpsDays%20Halifax%202024">Contact us</a>
       </td>
     </tr>
     <tr>
       <td>Tickets Included</td>
       <td>6</td>
       <td>4</td>
+      <td>3</td>
       <td>2</td>
-      <td>5</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>Logo on DevOpsDays Halifax website</td>
+      <td>Yes</td>
       <td>Yes</td>
       <td>Yes</td>
       <td>Yes</td>
@@ -67,9 +75,11 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <td>Yes</td>
       <td>Yes</td>
       <td>Yes</td>
+      <td>Yes</td>
     </tr>
     <tr>
       <td>Logo on marketing materials</td>
+      <td>Yes</td>
       <td>Yes</td>
       <td>Yes</td>
       <td>Yes</td>
@@ -80,10 +90,12 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <td>Yes</td>
       <td>Yes</td>
       <td>Yes</td>
+      <td>Yes</td>
       <td></td>
     </tr>
     <tr>
       <td>Logo on participant emails</td>
+      <td>Yes</td>
       <td>Yes</td>
       <td>Yes</td>
       <td>Yes</td>
@@ -95,9 +107,11 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <td>Yes</td>
       <td>Yes</td>
       <td>Yes</td>
+      <td>Yes</td>
     </tr>
     <tr>
       <td>Shout-out from MC's at kickoff and again at breaks</td>
+      <td>Yes</td>
       <td>Yes</td>
       <td>Yes</td>
       <td></td>
@@ -107,6 +121,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <td>Dedicated logo slide during breaks</td>
       <td>Yes</td>
       <td>Yes</td>
+      <td>Yes</td>
       <td></td>
       <td></td>
     </tr>
@@ -114,11 +129,13 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <td>Logo on shared slide during breaks</td>
       <td></td>
       <td></td>
+      <td></td>
       <td>Yes</td>
       <td>Yes</td>
     </tr>
     <tr>
       <td>Dedicated table in sponsor area (with chairs)</td>
+      <td>Yes</td>
       <td>Yes</td>
       <td>Yes</td>
       <td></td>
@@ -130,11 +147,13 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>10-minute presentation over lunch hour</td>
       <td></td>
       <td>Yes</td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
@@ -166,16 +185,9 @@ All special sponsors will have their logo displayed on the DevOpsDays Halifax we
       <td>1</td>
     </tr>
     <tr>
-      <td>Scholarships</td>
-      <td>Varies</td>
-      <td>Provide tickets for under-indexed groups to attend</td>
-      <td>4</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>Coffee</td>
-      <td>$2,000</td>
-      <td>Sponsor coffee for the attendees</td>
+      <td>Swag</td>
+      <td>$3,000</td>
+      <td>Sponsor swag for the attendees</td>
       <td>2</td>
       <td>1</td>
     </tr>
@@ -187,11 +199,18 @@ All special sponsors will have their logo displayed on the DevOpsDays Halifax we
       <td>1</td>
     </tr>
     <tr>
-      <td>Swag</td>
-      <td>$3,000</td>
-      <td>Sponsor swag for the attendees</td>
+      <td>Coffee</td>
+      <td>$2,000</td>
+      <td>Sponsor coffee for the attendees</td>
       <td>2</td>
       <td>1</td>
+    </tr>
+    <tr>
+      <td>Scholarships</td>
+      <td>Varies</td>
+      <td>Provide tickets for under-indexed groups to attend</td>
+      <td>4</td>
+      <td>2</td>
     </tr>
   </tbody>
 </table>

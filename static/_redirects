@@ -1,5 +1,5 @@
 /tel-aviv/*		/events/2024-tel-aviv/:splat		302
-/amsterdam/*		/events/2024-amsterdam/:splat		302
+/amsterdam/*		/events/2025-amsterdam/:splat		302
 /antwerp/*		/events/2024-antwerp/:splat		302
 /aracaju/*		/events/2024-aracaju/:splat		302
 /atlanta/*		/events/2023-atlanta/:splat		302
@@ -64,7 +64,7 @@
 /krakow/*		/events/2024-krakow/:splat		302
 /kiev/*			/events/2024-kyiv/:splat		302
 /kyiv/*			/events/2024-kyiv/:splat		302
-/ljubljana/*		/events/2023-ljubljana/:splat		302
+/ljubljana/*		/events/2024-ljubljana/:splat		302
 /london/*		/events/2024-london/:splat		302
 /los-angeles/*		/events/2022-los-angeles/:splat		302
 /macapa/*		/events/2019-macapa/:splat		302
