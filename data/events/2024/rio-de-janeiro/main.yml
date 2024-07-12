@@ -198,6 +198,117 @@ program:
   #Registration
   - title: "Credenciamento"
     type: custom
-    date: 2024-08-17
+    date: 2024-08-24
     start_time: "08:00"
     end_time: "09:00"
+
+  #CoffeeBreak-1
+  - title: "Coffee Break"
+    type: custom
+    date: 2024-08-24
+    start_time: "09:00"
+    end_time: "09:30"
+
+  #Opening
+  - title: "Abertura"
+    type: custom
+    date: 2024-08-24
+    start_time: "09:30"
+    end_time: "10:00"
+
+  #Keynote-1
+  - title: "andreza--"
+    type: talk
+    date: 2024-08-24
+    start_time: "10:00"
+    end_time: "10:30"
+    background_color: "#FFFA99"
+
+  - title: "daniel-nascimento"
+    type: talk
+    date: 2024-08-24
+    start_time: "10:30"
+    end_time: "11:00"
+
+  - title: "elias-santos"
+    type: talk
+    date: 2024-08-24
+    start_time: "11:00"
+    end_time: "11:30"
+
+  - title: "roberta-brandão"
+    type: talk
+    date: 2024-08-24
+    start_time: "11:30"
+    end_time: "12:00"
+
+  - title: "Almoço"
+    type: custom
+    date: 2024-08-24
+    start_time: "12:00"
+    end_time: "13:30"
+
+  #Ignite Talks
+  - title: "Ignite Talks"
+    type: custom
+    date: 2024-08-24
+    start_time: "13:30"
+    end_time: "13:45"
+
+  #Keynote-2
+  - title: "claudia--"
+    type: talk
+    date: 2024-08-24
+    start_time: "13:45"
+    end_time: "14:15"
+
+  - title: "cintia-esteves"
+    type: talk
+    date: 2024-08-24
+    start_time: "14:15"
+    end_time: "14:45"
+
+  - title: "roberta-brandao"
+    type: talk
+    date: 2024-08-24
+    start_time: "14:45"
+    end_time: "15:15"
+
+  - title: "daniel-baptista-dias"
+    type: talk
+    date: 2024-08-24
+    start_time: "15:15"
+    end_time: "15:45"
+
+  #CoffeeBreak-2
+  - title: "Coffee Break"
+    type: custom
+    date: 2024-08-24
+    start_time: "15:45"
+    end_time: "16:15"
+
+  - title: "lanay-marques-cardoso"
+    type: talk
+    date: 2024-08-24
+    start_time: "16:15"
+    end_time: "16:45"
+
+  - title: "bernardo-gomes-lankheet"
+    type: talk
+    date: 2024-08-24
+    start_time: "16:45"
+    end_time: "17:15"
+
+  #OpenSpace
+  - title: "Open Space"
+    type: open-space
+    date: 2024-08-24
+    start_time: "17:15"
+    end_time: "17:45"
+  
+  #Closing
+  - title: "Encerramento"
+    type: custom
+    date: 2024-08-24
+    start_time: "17:45"
+    end_time: "18:15"
