@@ -420,3 +420,12 @@ or
 ```
 {{< event_map width = "600" height="500" >}}
 ```
+
+### tix
+Embeds the DevOpsDays Pretix ticket and registration system
+This shortcode requires two parameters, city and year, where the city is typically the organiser city and the year the event year.
+Please note this may be differ, please check with in your Pretix for the two names.
+
+```
+{{< tix city="belgium" year="antwerp-2024" >}}
+```

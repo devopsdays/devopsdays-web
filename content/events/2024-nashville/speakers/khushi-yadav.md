@@ -4,7 +4,7 @@ Twitter = ""
 linkedin = "https://www.linkedin.com/in/khushiy/"
 website = ""
 Github = ""
-image = ""
+image = "khushi-yadav.png"
 type = "speaker"
 linktitle = "khushi-yadav"
 
