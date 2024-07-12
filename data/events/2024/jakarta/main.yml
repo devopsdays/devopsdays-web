@@ -24,7 +24,7 @@ registration_link: "https://www.devopsdaysjkt.org" # If you have a custom regist
 # Location
 #
 coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Menara BRILiaN, 3rd Floor. Jl. Gatot Subroto No. 177A, Jakarta - Indonesia" # Defaults to city, but you can make it the venue name.
+location: "Hotel Bidakara, Birawa Assembly Hall, Jl. Gatot Subroto No.8 Menteng Dalam, Tebet, Jakarta 12870, Indonesia" # Defaults to city, but you can make it the venue name.
 #
 #location_address: "Online conference platform" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
@@ -92,8 +92,6 @@ organizer_email: "jakarta@devopsdays.org" # Put your organizer email address her
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-#  - id:  bri
-#    level: track
   - id:  fordigi
     level: supported
   - id:  f5
@@ -155,9 +153,6 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-#  - id: track
-#    label: Ultimate
-#    max: 1
   - id: supported
     label: Supported
     max: 1
