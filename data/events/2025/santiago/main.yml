@@ -14,7 +14,7 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 # Note: we allow 2025-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
 startdate: 2025-09-04T00:00:00-06:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2025-09-05T00:00:00-06:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2025-09-04T00:00:00-06:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  # start accepting talk proposals.
@@ -27,7 +27,7 @@ registration_date_start: # start accepting registration. Leave blank if registra
 registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "https://devopsdayschile.cl" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -238,9 +238,9 @@ sponsors:
     level: azul
   - id: blanco
     level: Comunidad
-  - id: ciisa
-    level: comunidad
-    url: https://ciisa.cl
+  #- id: ciisa
+   # level: comunidad
+   # url: https://ciisa.cl
     
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
