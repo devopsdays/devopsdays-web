@@ -166,9 +166,10 @@ Each team member is an element of `sponsors`.
 | `url`      | String | No       | Will override the URL specified in the sponsor file. Useful if you have event-specific URL's for a sponsor. | http://mysponsor.com/?campaign=me |
 
 
-| Field Name          | Type   | Required | Description                                                               | Example |
-|---------------------|--------|----------|---------------------------------------------------------------------------|---------|
-| `sponsors_accepted` | String | No       | Set this to "yes" if you would like the "become a sponsor" link to appear | "yes"   |
+| Field Name           | Type   | Required | Description                                                               | Example |
+|----------------------|--------|----------|---------------------------------------------------------------------------|---------|
+| `sponsors_accepted`  | String | No       | Set this to "yes" if you would like the "become a sponsor" link to appear | "yes"   |
+| `sponsors_showempty` | String | No       | Set this to "no" to hide the sponsor levels without a sponsor             | "no"    |
 
 #### Sponsor Levels
 
