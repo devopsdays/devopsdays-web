@@ -10,9 +10,9 @@ Description = "Bienvenidos a DevOpsDays Santiago de Chile 2025 "
     <img alt="DevOpsDays Santiago de Chile 2025" src="/events/2025-santiago/logo.png" class="img-fluid">
   </div>
   <div class="col-md-7">
-    <h2>Nuestra conferencia DevOpsDays Santiago de Chile 2025 tendra lugar en Septiembre del 2025</h2>
+    <h2>Nuestra conferencia DevOpsDays Santiago de Chile 2025 tendra lugar en 2025</h2>
     <p>
-      La conferencia DevOpsDays llega a Santiago de Chile, ¡Participa en Septiembre 2025!
+      La conferencia DevOpsDays llega a Santiago de Chile, ¡Participa en 2025!
     </p>
     <h2>Informacion de Eventos</h2>
     <p>
@@ -56,7 +56,7 @@ Description = "Bienvenidos a DevOpsDays Santiago de Chile 2025 "
             rel="noopener"
             target="_blank"
             class="btn btn-secondary btn-block"
-            href="https://devopsdayschile.cl/entradas"   
+            href=""   
             style="background-color:#329cae; border-color:#72c1cd" onMouseOver="this.style.backgroundColor='#23738e'"
             onMouseOut="this.style.backgroundColor='#329cae'"
           >

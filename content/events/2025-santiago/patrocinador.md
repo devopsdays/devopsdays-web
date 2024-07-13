@@ -9,7 +9,7 @@ Description = "Patrocinadores devopsdays Santiago de Chile 2025"
     <div class="col-md-9">
       <div>
         <br>
-        <p>¡Valoramos mucho a los patrocinadores de este evento comunitario! Si está interesado en patrocinar, solicite un PDF de nuestro prospecto para obtener más detalles enviándonos un correo electrónico a {{< email_organizers >}}.</p>
+    <!--    <p>¡Valoramos mucho a los patrocinadores de este evento comunitario! Si está interesado en patrocinar, solicite un PDF de nuestro prospecto para obtener más detalles enviándonos un correo electrónico a {{< email_organizers >}}.</p>
         <br>
       </div>
       <h3>Paquetes de Patrocinio</h3>
@@ -44,7 +44,7 @@ Description = "Patrocinadores devopsdays Santiago de Chile 2025"
               <td><center></center></td>
               <td><center></center></td>
               <td><center>Yes</center></td>
-            </tr-->
+            </tr>
             <tr>
               <th scope="row">Ticket Evento - Presencial</th>
               <td><center>5</center></td>
@@ -141,9 +141,9 @@ Description = "Patrocinadores devopsdays Santiago de Chile 2025"
   <hr>
   <hr/>
   <p>Devopsdays es una conferencia autoorganizada para profesionales que depende de patrocinadores. No tenemos stands de proveedores, no vendemos presentaciones de productos ni distribuimos listas de contactos de los asistentes.</p>
-  <p>Los patrocinadores tienen la oportunidad de hacer breves presentaciones durante el programa y recibirán reconocimiento en el sitio web y en las redes sociales antes, durante y después del evento. Se anima a los patrocinadores a representarse a sí mismos participando activamente e interactuando con los asistentes como colegas. Cualquier asistente también tiene la oportunidad de demostrar productos/proyectos como parte de una sesión de espacio abierto.</p>
-  <!--
+  <p>Los patrocinadores tienen la oportunidad de hacer breves presentaciones durante el programa y recibirán reconocimiento en el sitio web y en las redes sociales antes, durante y después del evento. Se anima a los patrocinadores a representarse a sí mismos participando activamente e interactuando con los asistentes como colegas. Cualquier asistente también tiene la oportunidad de demostrar productos/proyectos como parte de una sesión de espacio abierto.</p> -->
+  
   There are also opportunities for exclusive special sponsorships. We'll have sponsors for various events with special privileges for the sponsors of these events. If you are interested in special sponsorships or have a creative idea about how you can support the event, send us an email.
-  -->
+  
   <hr/>
 </div>

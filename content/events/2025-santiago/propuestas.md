@@ -6,7 +6,7 @@ Description = "Propon una charla para DevOpsDays Santiago 2025 "
 
 <hr>
 
-Hay tres maneras de proponer un tema en DevOpsDays:
+<!--Hay tres maneras de proponer un tema en DevOpsDays:
 
 <ol>
   <li><strong><em>Una charla de 30 minutos</em></strong> presentada durante la conferencia, usualmente por las mañanas.</li>
@@ -32,4 +32,4 @@ Elegir las charlas es parte arte, parte ciencia; aquí hay algunos factores que 
   <li>Tipo (presentación, discusión en panel, ignite)</li>
   <li>Título de la propuesta (puede cambiarse más tarde)</li>
   <li>Descripción (varias oraciones explicando lo que los asistentes aprenderán)</li>
-</ol>
+</ol> -->
