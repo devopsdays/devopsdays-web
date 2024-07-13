@@ -29,7 +29,7 @@ Description = "Bienvenidos a DevOpsDays Santiago de Chile 2025 "
     <p>
       <ul>
         <li>
-          Dos dias de conferencias y actividades
+          Conferencias y actividades
         </li>
         <li>
           Bienvenida de organizadores y patrocinadores 
