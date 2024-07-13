@@ -34,11 +34,11 @@ location: "Hilton Minneapolis" # Defaults to city, but you can make it the venue
 location_address: "1001 Marquette Avenue South, Minneapolis, Minnesota, 55403-2440, USA" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+#  - name: propose
   - name: location
   - name: registration
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: health-and-safety
@@ -139,3 +139,4 @@ sponsor_levels:
   - id: community
     label: Community
     max: 6
+

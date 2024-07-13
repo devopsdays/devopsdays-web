@@ -38,8 +38,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
   - name: registration
     icon: "sign-in"
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -75,11 +75,6 @@ team_members: # Name is the only required field for team members.
     github: "yveshanoulle"
     linkedin: "https://be.linkedin.com/in/yveshanoulle"
     image: "yves.png"
-  - name: "Jos van Schouten"
-    pronouns: "he/him"
-    linkedin: "https://www.linkedin.com/in/josvanschouten/"
-    twitter: "josvanschouten"
-    image: "jos.png"
   - name: "Ringo De Smet"
     github: "ringods"
     linkedin: "https://www.linkedin.com/in/ringodesmet/"
@@ -114,8 +109,19 @@ organizer_email: "belgium@devopsdays.org" # Put your organizer email address her
 sponsors:
   - id: pulumi
     level: gold
+  - id: googlecloud
+    level: gold
+  - id: aikido-dev
+    level: gold
+  - id: puppet-by-perforce
+    level: gold
+  - id: kangaroot
+    level: silver
+  - id: github
+    level: gold
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
+
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For

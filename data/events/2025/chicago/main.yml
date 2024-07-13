@@ -4,6 +4,7 @@ city: "Chicago" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdayschi" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "Devopsdays is coming to Chicago!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+sharing_image: "sharing.png"
 
 # All dates are in unquoted 2025-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00
@@ -31,7 +32,7 @@ registration_link: "https://tickets.devopsdays.org/devopsdays-chicago/2025/" # I
 coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Chicago" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "233 S Wacker Dr, Chicago, IL 60606" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
