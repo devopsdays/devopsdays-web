@@ -8,7 +8,7 @@ Description = "Propose a talk for devopsdays portugal 2024"
 <br/>
 <div class="row justify-content-center">
   <div class="col-4">
-    <a href="https://www.papercall.io/devopsdaysportugal2024" type="button" class="btn btn-primary btn-lg btn-block">CFP is open. Propose here!</a>
+    <a href="https://www.papercall.io/devopsdaysportugal2024" type="button" class="btn btn-primary btn-lg btn-block">CFP is now closed.</a>
   </div>
 </div>
 

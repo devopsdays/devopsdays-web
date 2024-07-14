@@ -13,8 +13,6 @@ Platinum and Gold sponsors get a full table in the sponsor area where they can i
 <p>
 The best thing to do is send engineers to interact with the experts at DevOpsDays Halifax on their own terms.
 
-## [Download Our Prospectus Here!](https://drive.google.com/file/d/1lOO12QTfEGpOEBWOg7oiQnVvzrfLuxSN/view?usp=sharing)
-
 <h2>Sponsorship Packages</h2>
 
 <table class="table table-bordered table-hover">
@@ -23,6 +21,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <th scope="col">THE GOODS</th>
       <th scope="col">PLATINUM</th>
       <th scope="col">GOLD</th>
+      <th scope="col">SILVER</th>
       <th scope="col">BRONZE</th>
       <th scope="col">COMMUNITY</th>
     </tr>
@@ -30,8 +29,9 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
   <tbody>
     <tr>
       <td>Price</td>
-      <td>$10,000</td>
+      <td>$7,500</td>
       <td>$5,000</td>
+      <td>$3,500</td>
       <td>$1,500</td>
       <td>Free</td>
     </tr>
@@ -41,23 +41,29 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <a href="mailto:halifax@devopsdays.org?subject=Interested%20in%20Platinum%20Sponsorship%20DevOpsDays%20Halifax%202024">Contact us</a>
       </td>
       <td>
-      <a href="mailto:halifax@devopsdays.org?subject=Interested%20in%20Gold%20Sponsorship%20DevOpsDays%20Halifax%202023">Contact us</a>
+      <a href="mailto:halifax@devopsdays.org?subject=Interested%20in%20Gold%20Sponsorship%20DevOpsDays%20Halifax%202024">Contact us</a>
       </td>
       <td>
-      <a href="mailto:halifax@devopsdays.org?subject=Interested%20in%20Bronze%20Sponsorship%20DevOpsDays%20Halifax%202023">Contact us</a>
+      <a href="mailto:halifax@devopsdays.org?subject=Interested%20in%20Silver%20Sponsorship%20DevOpsDays%20Halifax%202024">Contact us</a>
       </td>
-      <td><a href="mailto:halifax@devopsdays.org?subject=Interested%20in%20Community%20Sponsorship%20DevOpsDays%20Halifax%202023">Contact us</a>
+      <td>
+      <a href="mailto:halifax@devopsdays.org?subject=Interested%20in%20Bronze%20Sponsorship%20DevOpsDays%20Halifax%202024">Contact us</a>
+      </td>
+      <td>
+      <a href="mailto:halifax@devopsdays.org?subject=Interested%20in%20Community%20Sponsorship%20DevOpsDays%20Halifax%202024">Contact us</a>
       </td>
     </tr>
     <tr>
       <td>Tickets Included</td>
       <td>6</td>
       <td>4</td>
+      <td>3</td>
       <td>2</td>
-      <td>5</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>Logo on DevOpsDays Halifax website</td>
+      <td>Yes</td>
       <td>Yes</td>
       <td>Yes</td>
       <td>Yes</td>
@@ -69,9 +75,11 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <td>Yes</td>
       <td>Yes</td>
       <td>Yes</td>
+      <td>Yes</td>
     </tr>
     <tr>
       <td>Logo on marketing materials</td>
+      <td>Yes</td>
       <td>Yes</td>
       <td>Yes</td>
       <td>Yes</td>
@@ -82,10 +90,12 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <td>Yes</td>
       <td>Yes</td>
       <td>Yes</td>
+      <td>Yes</td>
       <td></td>
     </tr>
     <tr>
       <td>Logo on participant emails</td>
+      <td>Yes</td>
       <td>Yes</td>
       <td>Yes</td>
       <td>Yes</td>
@@ -97,9 +107,11 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <td>Yes</td>
       <td>Yes</td>
       <td>Yes</td>
+      <td>Yes</td>
     </tr>
     <tr>
       <td>Shout-out from MC's at kickoff and again at breaks</td>
+      <td>Yes</td>
       <td>Yes</td>
       <td>Yes</td>
       <td></td>
@@ -109,11 +121,13 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <td>Dedicated logo slide during breaks</td>
       <td>Yes</td>
       <td>Yes</td>
+      <td>Yes</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>Logo on shared slide during breaks</td>
+      <td></td>
       <td></td>
       <td></td>
       <td>Yes</td>
@@ -123,20 +137,23 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <td>Dedicated table in sponsor area (with chairs)</td>
       <td>Yes</td>
       <td>Yes</td>
+      <td>Yes</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>Five-minute pitch between talks (includes live-stream audience)</td>
+      <td>15-minute presentation over lunch hour</td>
       <td>Yes</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>One-minute pitch between talks (includes live-stream audience)</td>
+      <td>10-minute presentation over lunch hour</td>
       <td></td>
       <td>Yes</td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
@@ -162,8 +179,29 @@ All special sponsors will have their logo displayed on the DevOpsDays Halifax we
   <tbody>
     <tr>
       <td>Lanyard</td>
-      <td>$7,000</td>
+      <td>$3,000</td>
       <td>Your logo and colors around every attendee's credential</td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Swag</td>
+      <td>$3,000</td>
+      <td>Sponsor swag for the attendees</td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Speaker Dinner</td>
+      <td>$2,500</td>
+      <td>Sponsor the dinner for speakers</td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Coffee</td>
+      <td>$2,000</td>
+      <td>Sponsor coffee for the attendees</td>
       <td>2</td>
       <td>1</td>
     </tr>

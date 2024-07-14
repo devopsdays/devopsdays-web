@@ -205,24 +205,24 @@ sponsors:
   # - id: trustdsolutions
   #   level: bronze
   #   url: https://trustd.solutions/ 
-  # - id: linuxtips
-  #   level: community
-  #   url: https://www.linuxtips.io/
+  - id: linuxtips
+    level: community
+    url: https://www.linuxtips.io/
   # - id: mundo-sem-fio
   #   level: community
   #   url: http://mundosemfio.com.br/
-  # - id: formacao-aws
-  #   level: community
-  #   url: https://instagram.com/henryllemaia  
-  # - id: novatec
-  #   level: community
-  #   url: https://novatec.com.br
-  # - id: fortbrasil
-  #   level: community
-  #   url: https://novatec.com.br  
-  # - id: jack-experts
-  #   level: community
-  #   url: https://jackexperts.com/
+  - id: formacao-aws
+    level: community
+    url: https://instagram.com/henryllemaia  
+  - id: novatec
+    level: community
+    url: https://novatec.com.br
+  - id: avexadopersonalizados
+    level: community
+    url: https://www.instagram.com/avexado.personalizados/
+  - id: elastic
+    level: community
+    url: https://www.elastic.co/
   # - id: crowdsec
   #   level: community
   #   url: https://crowdsec.net/ 
