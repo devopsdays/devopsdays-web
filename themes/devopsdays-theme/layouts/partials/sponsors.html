@@ -1,9 +1,37 @@
 {{- $e := partial "functions/get-event-data" . -}}
 
+{{- $levelcount := dict "none" 0 -}}
+{{- if $e.sponsors -}}
+  {{- range $index, $level := $e.sponsor_levels -}}
+    {{- $count := 0 -}}
+    {{- range where $e.sponsors "level" $level.id -}}
+      {{- $count = add $count 1 -}}
+    {{- end -}}
+    {{- $levelcount = merge $levelcount (dict $level.id $count) -}}
+  {{- end -}}
+{{- end -}}
+
+
+
   {{- if $e.sponsor_levels -}}
     {{- range $index, $level := $e.sponsor_levels -}}
       {{- $.Scratch.Set $level.id 0 -}}
 
+        {{ $show := "yes" }}
+        {{- if (isset $e "sponsors_showempty") -}}
+          {{- if eq $e.sponsors_showempty "no" -}}
+            {{- $show = "no" -}}
+            {{- range $ln, $lc := $levelcount -}}
+              {{- if eq $level.id $ln }}
+                {{- if gt $lc 0 }}
+                  {{ $show = "yes" }}
+                {{- end -}}
+              {{- end -}}
+            {{- end -}}
+          {{- end -}}
+        {{- end -}}
+
+     {{- if eq $show "yes" -}}
       <div class="row cta-row">
           <!--first sponsor row-->
           <div class="col-md-12">
@@ -51,6 +79,8 @@
             {{- end -}}
           {{- end -}}
         </div>
+      {{- end -}}
+
   {{- end -}}
 {{- end -}}
 {{- end -}}

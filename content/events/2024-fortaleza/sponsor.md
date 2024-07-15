@@ -46,13 +46,6 @@ Visando valorizar a participação de instituições na realização do evento, 
       <td>3</td>
     </tr>
     <tr>
-      <td>Logo nos cordões de crachá</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td><i class="fa fa-check"></i></td>
-    </tr>
-    <tr>
       <td>Balcão promocional</td>
       <td></td>
       <td></td>

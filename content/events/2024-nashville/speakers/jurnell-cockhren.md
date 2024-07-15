@@ -4,7 +4,7 @@ Twitter = ""
 linkedin = ""
 website = ""
 Github = ""
-image = ""
+image = "jurnell-cockhren.png"
 type = "speaker"
 linktitle = "jurnell-cockhren"
 

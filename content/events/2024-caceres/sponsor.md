@@ -402,7 +402,7 @@ Description = "Sponsor devopsdays Cáceres 2024"
         </div>
       </div>
     <div class="col-md-3 col-sm-12">
-      <a target="_blank" href="https://devopsdays.cc/wp-content/uploads/sponsorship-dossier-dod2024.pdf">
+      <a target="_blank" href="https://devopsdays.es/wp-content/uploads/sponsorship-dossier-dod2024.pdf">
         <img alt="DevopsDays Cáceres 2024 sponsorship dossier" style='height: 200px; width: 350px' src="https://assets.devopsdays.org/events/2024/caceres/sponsorship-information.png">
       </a>
     </div>

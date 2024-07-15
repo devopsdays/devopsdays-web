@@ -49,18 +49,21 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
+  - name: "Dhaval Shah"
+    linkedin: "https://www.linkedin.com/in/dhavalgshah"
+    twitter: "dhavalgshah"
+  - name: "Shivlal Sharma"
+    linkedin: "https://www.linkedin.com/in/sharma-shivlal-91505a184"
+    twitter: "shiv_ops"
   - name: "Darpan Amre"
-    employer: ""
+    linkedin: "https://www.linkedin.com/in/darpan-ketan-amre-04b27a1a2/"
     twitter: "AmreDarpan"
-    bio: ""
   - name: "Mehul Patel"
-    employer: ""
+    linkedin: "https://www.linkedin.com/in/nomadicmehul"
     twitter: "NomadicMehul"
-    bio: ""
   - name: "Neel Shah"
-    employer: ""
+    linkedin: "https://www.linkedin.com/in/neelcshah/"
     twitter: "shahneel2409"
-    bio: ""
 
 organizer_email: "ahmedabad@devopsdays.org" # Put your organizer email address here
 
