@@ -60,7 +60,7 @@ team_members: # Name is the only required field for team members.
     image: "thalita-lanusse.jpg"
 
   - name: "Pery Lemke"
-    employer: "Thoughtworks"
+    employer: "Medely"
     github: "perylemke"
     image: "pery-lemke.jpg"
     linkedin: "https://www.linkedin.com/in/perylemke"
@@ -74,7 +74,7 @@ team_members: # Name is the only required field for team members.
     twitter: "jhonatancmorais"
 
   - name: "Jean Morais"
-    employer: "unico IDtech"
+    employer: "Unico IDtech"
     image: "jean-morais.jpg"
     linkedin: "https://www.linkedin.com/in/jean-morais/"
 
@@ -86,7 +86,7 @@ team_members: # Name is the only required field for team members.
     website: "https://rafaelmaferreira.com.br/"
 
   - name: "Gilmar Moraes"
-    employer: "COMPUPACK"
+    employer: "Seprol - IT by Experts"
     image: "gilmar-moraes.jpg"
     linkedin: "https://www.linkedin.com/in/gilmarmjunior/"
     github: "gilmardeoliveira"
