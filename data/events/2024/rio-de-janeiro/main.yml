@@ -124,9 +124,9 @@ organizer_email: "contato@devopsdays.rio.br" # Put your organizer email address 
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:  
   #Gold 
-  - id: stone
+  - id: stone-co
     level: gold
-    url: https://www.stone.com.br/
+    url: https://www.stone.co/
     
   #Silver
   - id: elastic
@@ -173,6 +173,8 @@ sponsors:
   - id: etr
     level: community
 
+  - id: impulso
+    level: community
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
