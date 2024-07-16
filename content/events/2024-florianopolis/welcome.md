@@ -28,7 +28,7 @@ Description = "devopsdays Florianópolis 2024"
         <strong>Sponsors</strong>
       </div>
       <div class="col-md-6">
-        <!-- {{< event_link page="sponsor" text="Apoie o Devopsdays Florianópolis 2024!" >}} -->
+        {{< event_link page="sponsor" text="Apoie o Devopsdays Florianópolis 2024!" >}}
       </div>
     </div>
     <div class="row">
@@ -36,7 +36,7 @@ Description = "devopsdays Florianópolis 2024"
         <strong>CFP</strong>
       </div>
       <div class="col-md-6">
-        <!-- {{< event_link url-key="cfp_link" text="Submeta a sua talk!" >}} -->
+        {{< event_link url-key="cfp_link" text="Submeta a sua talk!" >}}
       </div>
     </div>
     <div class="row">
