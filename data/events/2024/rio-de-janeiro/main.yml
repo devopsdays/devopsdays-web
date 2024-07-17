@@ -217,7 +217,7 @@ program:
     end_time: "10:00"
 
   #Keynote-1
-  - title: "andreza--"
+  - title: "andreza-alves-rocha"
     type: talk
     date: 2024-08-24
     start_time: "10:00"
@@ -293,8 +293,8 @@ program:
     start_time: "16:15"
     end_time: "16:45"
 
-  - title: "andre"
-    type: talk
+  - title: "TBA"
+    type: custom
     date: 2024-08-24
     start_time: "16:45"
     end_time: "17:00"
