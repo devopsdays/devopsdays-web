@@ -5,7 +5,7 @@ talk_date: ""
 talk_start_time: ""
 talk_end_time: ""
 speakers:
-  - daniel--maher
+  - daniel-maher
 
 ---
 
