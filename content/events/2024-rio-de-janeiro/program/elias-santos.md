@@ -7,4 +7,4 @@ Type = "talk"
 Speakers = ["elias-santos"]
 +++
 
-Entenda como você pode dar os primeiros passos no DevSecOps, começando pela automação de stages de segurança na pipeline DevOps, entenda os conceitos iniciais e como aplicar Shift Left Security.
+Neste talk, exploraremos como o DevSecOps incorpora segurança na pipeline. Trataremos de alguns conceitos básicos de segurança em pipeline, como integrar testes de segurança e Gestão de Vulnerabilidades em seu ciclo de desenvolvimento. Trataremos de conceitos AST (Automation Security Tests) e Gestão de Vulnerabilidades. E porquê isso torna sua esteira uma esteira DevSecOps.

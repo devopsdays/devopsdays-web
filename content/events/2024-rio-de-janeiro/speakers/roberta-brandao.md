@@ -1,10 +1,10 @@
 +++
-Title = "Robe Brandão"
+Title = "Roberta Brandão"
 Twitter = ""
 linkedin = ""
-image = ""
+image = "roberta-brandao.jpeg"
 type = "speaker"
-linktitle = "robe-brando"
+linktitle = "roberta-brandao"
 
 +++
 
