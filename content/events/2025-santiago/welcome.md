@@ -25,4 +25,16 @@ Description = "Bienvenidos a DevOpsDays Santiago de Chile 2025"
           </li>  
         </ul>      
       </p>
-    
+      <div class="d-flex flex-row">
+        <div class="col-md-12">   
+        <div class="p-2">
+          <a
+            class="btn btn-secondary btn-block"
+            href="/events/2025-santiago/contact"
+            style="background-color:#329cae; border-color:#72c1cd" onMouseOver="this.style.backgroundColor='#23738e'"
+            onMouseOut="this.style.backgroundColor='#329cae'"
+          >
+            <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Contacta a los organizadores   
+          </a>
+        </div>
+      </div>
