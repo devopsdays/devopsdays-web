@@ -50,17 +50,12 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 
 # These are the same people you have on the mailing list and Slack channel.
-#team_members: # Name is the only required field for team members.
-#  - name: "John Doe"
-#  - name: "Jane Smith"
-#    twitter: "devopsdays"
-#  - name: "Sally Fields"
-#    employer: "Acme Anvil Co."
-#    github: "devopsdays"
-#    facebook: "https://www.facebook.com/sally.fields"
-#    linkedin: "https://www.linkedin.com/in/sallyfields"
-#    website: "https://mattstratton.com"
-#    image: "sally-fields.jpg"
+team_members: # Name is the only required field for team members.
+  - name: "Karen Quijada"
+  - name: "Jorge Valenzuela"
+    image: "jorge-valenzuela.jpg"
+  - name: "Caio Medeiros"
+
 
 organizer_email: "santiago@devopsdays.org" # Put your organizer email address here
 
@@ -73,7 +68,7 @@ sponsors:
   - id: arresteddevops
     level: community
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
