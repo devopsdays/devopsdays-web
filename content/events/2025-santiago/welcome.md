@@ -1,87 +1,129 @@
 +++
-Title = "devopsdays santiago 2025"
+Title = "DevOpsDays santiago 2025"
 Type = "welcome"
 aliases = ["/events/2025-santiago/"]
-Description = "devopsdays santiago 2025"
+Description = "Bienvenidos a DevOpsDays Santiago de Chile 2025"
 +++
 
-<!-- <div style="text-align:center;">
-  {{< event_logo >}}
-</div> -->
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Dates</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_start >}} - {{< event_end >}}
+  <div class = "row">
+    <div class="col-md-4">
+      <img alt="DevOpsDays Santiago de Chile 2025" src="/events/2025-santiago/logo.png" class="img-fluid">
+    </div>
+    <div class="col-md-7">
+      <h2>Nuestra conferencia DevOpsDays Santiago de Chile tendra lugar en 2025</h2>
+      <p>
+        La conferencia DevOpsDays llega a Santiago de Chile, ¡Participa en 2025!
+      </p>
+      <h2>Informacion de Eventos</h2>
+      <p>
+        <ul>
+          <li>
+            <h3>Fechas</h3>
+          </li>
+          <li style="margin-left:15px;">
+            <div>{{< event_start >}} - {{< event_end >}}</div>
+          </li>  
+        </ul>      
+      </p>
+      <h2>Formato de evento</h2>
+      <p>
+        <ul>
+          <li>
+            Conferencias y actividades
+          </li>
+          <li>
+            Bienvenida de organizadores y patrocinadores 
+          </li>
+          <li>
+            Charlas de expostirores
+          </li>
+          <li>
+            Talleres y Stand de patrocinadores
+          </li>
+          <li>
+            Charlas y mesas abiertas
+          </li>
+          <li>
+            Espacios para reuniones
+          </li>
+        </ul>
+      </p>
+      </br>
+        <div class="d-flex flex-row">
+        <div class="col-md-12">
+          <div class="p-2">
+            <a
+              rel="noopener"
+              target="_blank"
+              class="btn btn-secondary btn-block"
+              href=""   
+              style="background-color:#329cae; border-color:#72c1cd" onMouseOver="this.style.backgroundColor='#23738e'"
+              onMouseOut="this.style.backgroundColor='#329cae'"
+            >
+              <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;¡Compra tu entrada proximamente!
+            </a>
+  <!--        </div>
+          <div class="p-2">
+            <a
+              rel="noopener"
+              target="_blank"
+              class="btn btn-secondary btn-block"
+              href="https://hopin.com/events/devops-days-medellin-2022/registration"   
+              style="background-color:#329cae; border-color:#72c1cd" onMouseOver="this.style.backgroundColor='#23738e'"
+              onMouseOut="this.style.backgroundColor='#329cae'"
+            >
+              <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Buy your Virtual Tickets Now!
+            </a>
+          </div> -->
+  <!--        <div class="p-2">
+            <a
+              target="_blank"
+              class="btn btn-secondary btn-block"
+              href="https://www.papercall.io/dodmded2024"
+              style="background-color:#329cae; border-color:#72c1cd" onMouseOver="this.style.backgroundColor='#23738e'"
+              onMouseOut="this.style.backgroundColor='#329cae'"
+            >
+              <i class="fa fa-calendar fa-lg"></i>&nbsp;&nbsp;&nbsp;Call for Papers
+            </a>
+          </div> -->
+  <!--        <div class="p-2">
+            <a
+              class="btn btn-secondary btn-block"
+              href="/events/2021-medellin/sponsor"
+              style="background-color:#329cae; border-color:#72c1cd" onMouseOver="this.style.backgroundColor='#23738e'"
+              onMouseOut="this.style.backgroundColor='#329cae'"
+            >
+            <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference
+          </a>
+        </div> -->
+        <div class="p-2">
+          <a
+            class="btn btn-secondary btn-block"
+            href="/events/2025-santiago/contact"
+            style="background-color:#329cae; border-color:#72c1cd" onMouseOver="this.style.backgroundColor='#23738e'"
+            onMouseOut="this.style.backgroundColor='#329cae'"
+          >
+            <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Contacta a los organizadores   
+          </a>
+        </div>
+      </div>
+    </div>
+    </br>
   </div>
 </div>
 
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Location</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_location >}}
-  </div>
-</div> -->
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Register</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
-  </div>
-</div> -->
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Propose</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
-  </div>
-</div> -->
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Program</strong>
-  </div>
-  <div class = "col-md-8">
-    View the {{< event_link page="program" text="program." >}}
-  </div>
-</div> -->
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Speakers</strong>
-  </div>
-  <div class = "col-md-8">
-    Check out the {{< event_link page="speakers" text="speakers!" >}}
-  </div>
-</div> -->
-
+<!-- Social Media Buttons -->
 <div class = "row">
-  <div class = "col-md-2">
-    <strong>Sponsors</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="sponsor" text="Sponsor the conference!" >}}
+  <div class = "col-md-12">
+    <div class = "row justify-content-center">
+      <div class = "d-flex p-2">
+        <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #418ede; border-color: #418ede;" href="https://twitter.com/devopsdayschile" target="_blank">
+        <i class="fa fa-twitter fa-lg"></i>&nbsp;&nbsp;&nbsp;Follow @DevOpsDaysChile</a>
+      </div>
+     <!-- <div class = "d-flex p-2">
+       
+        <i class="fa fa-facebook-square fa-lg"></i>&nbsp;&nbsp;&nbsp;Give Us a Like on Facebook</a>
+      </div> -->
+    </div>
   </div>
 </div>
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Contact</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="contact" text="Get in touch with the organizers" >}}
-  </div>
-</div>
-
-<!-- Uncomment if you added your city twitter name -->
-<!--
-{{< event_twitter >}}
--->
