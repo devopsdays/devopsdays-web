@@ -25,42 +25,4 @@ Description = "Bienvenidos a DevOpsDays Santiago de Chile 2025"
           </li>  
         </ul>      
       </p>
-     <!-- <h2>Formato de evento</h2>
-      <p>
-        <ul>
-          <li>
-            Conferencias y actividades
-          </li>
-          <li>
-            Bienvenida de organizadores y patrocinadores 
-          </li>
-          <li>
-            Charlas de expostirores
-          </li>
-          <li>
-            Talleres y Stand de patrocinadores
-          </li>
-          <li>
-            Charlas y mesas abiertas
-          </li>
-          <li>
-            Espacios para reuniones
-          </li>
-        </ul>
-      </p> -->
- 
-        <div class="p-2">
-          <a
-            class="btn btn-secondary btn-block"
-            href="/events/2025-santiago/contact"
-            style="background-color:#329cae; border-color:#72c1cd" onMouseOver="this.style.backgroundColor='#23738e'"
-            onMouseOut="this.style.backgroundColor='#329cae'"
-          >
-            <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Contacta a los organizadores   
-          </a>
-        </div>
-      </div>
-    </div>
-    </br>
-  </div>
-</div>
+    
