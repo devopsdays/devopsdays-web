@@ -89,6 +89,8 @@ organizer_email: "boston@devopsdays.org" # Put your organizer email address here
 sponsors:
   - id: zestsecurity
     level: startupalley
+  - id: atono
+    level: startupalley
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
