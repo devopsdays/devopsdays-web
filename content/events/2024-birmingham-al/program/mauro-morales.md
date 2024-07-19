@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Creating Immutable Infrastructures with Kairos"
 Type = "talk"
-Speakers = ["oluebube-princess-egbuna", "mauro"]
+Speakers = ["mauro-morales"]
 +++
 
 In this talk, we will introduce Kairos, an open-source project that aims to
