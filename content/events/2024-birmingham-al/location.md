@@ -3,12 +3,20 @@ Title = "Location"
 Type = "event"
 Description = "Location for devopsdays Birmingham, AL 2024"
 +++
-
-<h3>Red Mountain Theatre Arts Campus</h3>
-<p>1600 3rd Ave South<br />
-Birmingham, Alabama 35233</p>
 <hr>
-We are excited to have the second DevOpsDays Birmingham, AL in-person at the beautiful Red Mountain Theatre's Arts Campus. Paid parking is available from the venue and public parking across the street.
+Pre-conference workshops and the conference main sessions will be held in 2 different locations located in downtown Birmingham. The workshops will take place at the Innovation Depot event space on August 19, 2024. The general session, lighting talks, and open spaces will be at the beautiful Red Mountain Theatre's Arts Campus. 
+
+<hr>
+<h3>Workshops - August 19, 2024</h3>
+<h4>Innovation Depot</h4>
+<p>Free parking is available in the Innovation Depot lot. Additional street and paid parking is available around the facility</p>
+<p>1500 1st Ave N<br />Birmingham, AL 35203</p>
+<br />
+<h3>General Sessions - August 20-21, 2024</h3>
+<h4>Red Mountain Theatre Arts Campus</h4>
+<p>Paid parking is available from the venue and public parking across the street.</p>
+<p>1600 3rd Ave South<br />
+Birmingham, Alabama 35233</p
 
 <!-- Uncomment this only if you have set the coordinates for your location in the config yaml. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html -->
 {{< event_map >}}
