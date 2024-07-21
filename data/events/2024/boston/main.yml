@@ -42,6 +42,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: contact
   - name: location
   - name: sponsor
+  - name: "Health and Safety"
+    url: "/events/2024-boston/health-and-safety"
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members:
@@ -88,6 +90,8 @@ organizer_email: "boston@devopsdays.org" # Put your organizer email address here
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
   - id: zestsecurity
+    level: startupalley
+  - id: atono
     level: startupalley
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
