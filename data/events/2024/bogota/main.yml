@@ -10,8 +10,8 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2024-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate:  2024-10-29T08:00:00-05:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  2024-10-29T19:00:00-05:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate:  2024-11-12T08:00:00-05:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  2024-11-12T19:00:00-05:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2024-05-11T17:30:00-05:00  # start accepting talk proposals.
@@ -29,9 +29,9 @@ registration_link: "https://www.eventbrite.es/e/devopsdays-bogota-2024-tickets-8
 # Location
 #
 coordinates: "4.6231126,-74.0780256" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Teatro Colsubsidio" # Defaults to city, but you can make it the venue name.
+location: "El Cubo Colsubsidio" # Defaults to city, but you can make it the venue name.
 #
-location_address: "Av. El Dorado #25-40, Bogotá"  #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "Av. Cra 30 # 52-77 Teusaquillo, Bogotá"  #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: Spanish
@@ -75,6 +75,16 @@ sponsors:
     level: diamond
   - id: sigitat
     level: diamond
+  - id: oracle
+    level: diamond
+  - id: fluidattacks
+    level: diamond
+  - id: certjoin
+    level: community
+  - id: softtek
+    level: platinum
+  - id: elastic
+    level: gold
     
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -83,13 +93,13 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: diamond
+    label: Diamond
+  - id: platinum
+    label: Platinum
   - id: gold
     label: Gold
 #    max: 10
-  - id: platinum
-    label: Platinum
     max: 0 # This is the same as omitting the max limit.
-  - id: diamond
-    label: Diamond
   - id: community
     label: Community
