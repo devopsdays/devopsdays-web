@@ -24,7 +24,7 @@ registration_link: "https://www.devopsdaysjkt.org" # If you have a custom regist
 # Location
 #
 coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Hotel Bidakara, Birawa Assembly Hall, Jl. Gatot Subroto No.8 Menteng Dalam, Tebet, Jakarta 12870, Indonesia" # Defaults to city, but you can make it the venue name.
+location: "Birawa Assembly Hall, Bidakara, Jl. Gatot Subroto No.8 Menteng Dalam, Tebet, Jakarta 12870, Indonesia" # Defaults to city, but you can make it the venue name.
 #
 #location_address: "Online conference platform" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
@@ -108,6 +108,8 @@ sponsors:
     level: platinum
   - id: grafanabr
     level: silver
+  - id: pingcap
+    level: silver
   - id: itg
     level: gold
   - id: aiven
@@ -125,8 +127,6 @@ sponsors:
   - id: bncc
     level: community
   - id: jvm
-    level: community
-  - id: itilindonesia
     level: community
   - id: petanikode
     level: community
