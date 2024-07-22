@@ -82,7 +82,7 @@ Description = "DevOpsDays Halifax 2024"
       {{< event_logo >}}
     </div>
     <div class="text">
-      <p>DevOpsDays Halifax is bringing DevOpsDays to the Atlantic Canada for the first time! Our CfP is now closed and we just announced our <a href="https://devopsdays.org/events/2024-halifax/speakers">three amazing keynote speakers</a>. Check out the <a href="https://tickets.devopsdays.org/devopsdays-halifax/2024/">registration page</a> to purchase your ticket.</p>
+      <p>DevOpsDays Halifax is bringing DevOpsDays to the Atlantic Canada for the first time! Our CfP is now closed and we just announced our <a href="https://talks.devopsdays.org/devopsdays-halifax-2024/speaker/">three amazing keynote speakers</a>. Check out the <a href="https://tickets.devopsdays.org/devopsdays-halifax/2024/">registration page</a> to purchase your ticket.</p>
       <p>Our event will feature a variety of presentations, discussions, and networking opportunities, all centered around the themes of collaboration, automation, measurement, and sharing.</p>
       <p>You'll have the chance to learn from experts in the field, share your own experiences, and connect with like-minded professionals from around the region. We hope you'll join us for this exciting event and help us build a stronger, more vibrant DevOps community in Halifax.</p>
       <p>Whether you're a seasoned veteran or just starting to explore the world of DevOps, there's a place for you at DevOpsDays Halifax. Thanks for your interest, and we look forward to seeing you!</p>
@@ -94,7 +94,6 @@ Description = "DevOpsDays Halifax 2024"
     <a href="../location/"><button>Get Venue Info</button></a>
     <a href="https://talks.devopsdays.org/devopsdays-halifax-2024/speaker/"><button>Check Out Our Speakers</button></a>
     <a href="../sponsor/"><button>Become a Sponsor</button></a>
-    <a href="https://bit.ly/4cnEFtu"><button>Volunteer With Us</button></a>
     <a href="../contact/"><button>Contact Us</button></a>
   </div>
 </div>

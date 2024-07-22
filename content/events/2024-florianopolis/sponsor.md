@@ -26,57 +26,35 @@ Visando valorizar a participação de instituições na realização do evento, 
   <table class="table table-bordered table-hover table-responsive-md">
     <thead class="thead-light">
       <th>BENEFÍCIOS</th>
-        <th>PRATA</th>
-        <th>OURO</th>
         <th>PLATINA</th>
     </thead>
     <tr>
       <td>Veiculação marca materiais evento/mídias</td>
       <td><i class="fa fa-check"></td>
-      <td><i class="fa fa-check"></td>
-      <td><i class="fa fa-check"></td>
     </tr>
     <tr>
       <td>Máximo de patrocinadores</td>
-      <td>4</td>
-      <td>2</td>
       <td>3</td>
     </tr>
     <tr>
       <td>Estande/mesa</td>
-      <td></td>
-      <td></td>
       <td><i class="fa fa-check"></i></td>
     </tr>
     <tr>
       <td>Distribuição de brindes nas pastas dos participantes</td>
-      <td></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-    </tr>
-    <tr>
-      <td>Espaço em boas vindas do evento (palco)</td>
-      <td></td>
-      <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
     </tr>
     <tr>
       <td>Envio de e-mail e/ou ativação em redes sociais</td>
-      <td></td>
-      <td>1</td>
       <td>2</td>
     </tr>
     <tr>
       <td>Inscrições para o evento*</td>
-      <td>2</td>
-      <td>3</td>
       <td>5</td>
     </tr>
     <tr>
       <td><b>Contribuição</b></td>
-      <td><b>R$ 2.500,00</b></td>
-      <td><b>R$ 4.000,00</b></td>
-      <td><b>R$ 8.000,00</b></td>
+      <td><b>R$ 10.000,00</b></td>
     </tr>
   </table>
 </div>

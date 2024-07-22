@@ -82,7 +82,7 @@ team_members: # Name is the only required field for team members.
     employer: "PagoNxt Merchant Solutions"
     twitter: "predotaku"
     github: "pedroamaralm"
-    linkedin: "Pedro Moreira"
+    linkedin: "https://www.linkedin.com/in/pedro-amaral-moreira/"
     image: "pedro-amorin.jpg"
 
   - name: "Giovanni Martins"
@@ -143,7 +143,7 @@ sponsors:
     level: bronze
     url: https://globo.com
 
-  - id: thoughtworks-services
+  - id: thoughtworks-flamingo
     level: bronze
 
   - id: hashicorp
@@ -176,6 +176,9 @@ sponsors:
   - id: impulso
     level: community
 
+  - id: faculdade-vincit
+    level: community
+
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -198,6 +201,132 @@ program:
   #Registration
   - title: "Credenciamento"
     type: custom
-    date: 2024-08-17
+    date: 2024-08-24
     start_time: "08:00"
     end_time: "09:00"
+
+  #CoffeeBreak-1
+  - title: "Coffee Break"
+    type: custom
+    date: 2024-08-24
+    start_time: "09:00"
+    end_time: "09:30"
+
+  #Opening
+  - title: "Abertura"
+    type: custom
+    date: 2024-08-24
+    start_time: "09:30"
+    end_time: "10:00"
+
+  #Keynote-1
+  - title: "andreza-alves-rocha"
+    type: talk
+    date: 2024-08-24
+    start_time: "10:00"
+    end_time: "10:30"
+    background_color: "#FFFA99"
+
+  - title: "daniel-nascimento"
+    type: talk
+    date: 2024-08-24
+    start_time: "10:30"
+    end_time: "11:00"
+
+  - title: "elias-santos"
+    type: talk
+    date: 2024-08-24
+    start_time: "11:00"
+    end_time: "11:30"
+
+  - title: "roberta-brandao"
+    type: talk
+    date: 2024-08-24
+    start_time: "11:30"
+    end_time: "12:00"
+
+  - title: "Almoço"
+    type: custom
+    date: 2024-08-24
+    start_time: "12:00"
+    end_time: "13:30"
+
+  #Ignite Talks
+  - title: "Ignite Talks"
+    type: custom
+    date: 2024-08-24
+    start_time: "13:30"
+    end_time: "13:45"
+
+  #Keynote-2
+  - title: "cintia-esteves"
+    type: talk
+    date: 2024-08-24
+    start_time: "13:45"
+    end_time: "14:15"
+
+  - title: "daniel-baptista-dias"
+    type: talk
+    date: 2024-08-24
+    start_time: "14:15"
+    end_time: "14:45"
+
+  - title: "lanay-marques-cardoso"
+    type: talk
+    date: 2024-08-24
+    start_time: "14:45"
+    end_time: "15:15"
+
+  - title: "bernardo-gomes-lankheet"
+    type: talk
+    date: 2024-08-24
+    start_time: "15:15"
+    end_time: "15:45"
+
+  #CoffeeBreak-2
+  - title: "Coffee Break"
+    type: custom
+    date: 2024-08-24
+    start_time: "15:45"
+    end_time: "16:15"
+
+  - title: "alice-de-nazare-gomes-da-paixao"
+    type: talk
+    date: 2024-08-24
+    start_time: "16:15"
+    end_time: "16:45"
+
+  - title: "TBA"
+    type: custom
+    date: 2024-08-24
+    start_time: "16:45"
+    end_time: "17:00"
+
+  #OpenSpace
+  - title: "Open Space"
+    type: open-space
+    date: 2024-08-24
+    start_time: "17:00"
+    end_time: "17:15"
+
+  #OpenSpace
+  - title: "Open Space"
+    type: open-space
+    date: 2024-08-24
+    start_time: "17:15"
+    end_time: "17:30"
+
+  #Keynote-2
+  - title: "claudia-charro"
+    type: talk
+    date: 2024-08-24
+    start_time: "17:30"
+    end_time: "18:00"
+    background_color: "#FFFA99"
+
+  #Closing
+  - title: "Encerramento e brindes"
+    type: custom
+    date: 2024-08-24
+    start_time: "18:00"
+    end_time: "18:30"

@@ -2,7 +2,7 @@
 Title = "Diana Todea"
 Twitter = ""
 linkedin = "https://www.linkedin.com/in/diana-todea-b2a79968/"
-image = ""
+image = "diana-todea.png"
 type = "speaker"
 linktitle = "diana-todea"
 +++
