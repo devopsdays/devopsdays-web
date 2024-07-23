@@ -114,6 +114,8 @@ organizer_email: "portugal@devopsdays.org" # Put your organizer email address he
 sponsors:
   - id: critical-techworks
     level: gold
+  - id: elastic
+    level: gold
   - id: devopsporto
     level: community
   - id: devopslisbon
