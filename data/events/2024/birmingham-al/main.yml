@@ -95,11 +95,19 @@ sponsors:
   - id: birmingham-area-software-enthusiasts
     level: community
   - id: nibuild
-    level: bronze
+    level: silver
   - id: lynker
     level: bronze
   - id: portworx
     level: silver
+  - id: fleetio
+    level: silver
+  - id: assessivate
+    level: silver
+  # - id: sparkhound
+  #   level: silver
+  # - id: itac
+  #   level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
