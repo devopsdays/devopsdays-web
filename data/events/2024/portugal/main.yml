@@ -116,6 +116,8 @@ sponsors:
     level: gold
   - id: elastic
     level: gold
+  - id: relex
+    level: bronze
   - id: devopsporto
     level: community
   - id: devopslisbon
