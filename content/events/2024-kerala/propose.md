@@ -6,7 +6,11 @@ Description = "Propose a talk for devopsdays Kerala 2024"
   {{< cfp_dates >}}
 
 <hr>
+   <hr>
 
+<center><h2>Our CFP is now open! Use <a href="https://talks.devopsdays.org/devopsdays-kerala-2024/cfp">this form</a> to propose a talk.</h2></center>
+
+<hr>
 There are three ways to propose a topic at devopsdays:
 <ol>
   <li><strong><em>A 30-minute talk</em></strong> presented during the conference, usually in the mornings.</li>
