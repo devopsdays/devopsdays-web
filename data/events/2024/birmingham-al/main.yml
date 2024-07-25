@@ -90,10 +90,6 @@ sharing_image: "sharing_logo.png"
 sponsors:
   - id: fetch
     level: host
-  - id: digital-motion
-    level: bronze
-  - id: birmingham-area-software-enthusiasts
-    level: community
   - id: nibuild
     level: silver
   - id: lynker
@@ -104,10 +100,16 @@ sponsors:
     level: silver
   - id: assessivate
     level: silver
-  # - id: sparkhound
-  #   level: silver
-  # - id: itac
-  #   level: bronze
+  - id: sparkhound
+    level: silver
+  - id: itac-solutions
+    level: bronze
+  - id: digital-motion
+    level: bronze
+  - id: birmingham-area-software-enthusiasts
+    level: community
+  # - id: tailscale
+  #   level: silver  
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -121,10 +123,13 @@ sponsor_levels:
     max: 2
   - id: gold
     label: Gold
+    max: 4
   - id: silver
     label: Silver
+    max: 6
   - id: bronze
     label: Bronze
+    max: 8
   - id: community
     label: Community
 
