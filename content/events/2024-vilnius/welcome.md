@@ -28,8 +28,7 @@ Description = "devopsdays Vilnius 2024"
             <li>
                 <strong>Ignites</strong> - 5 minute talks. After lunch, several short talks with with 20 slides that
                 auto-advance. Funny,
-                poignant, insightful, and just right. <a
-                    href="https://talks.devopsdays.org/devopsdays-vilnius-2024/cfp">Propose now!</a>
+                poignant, insightful, and just right.
             </li>
             <li>
                 <strong>Open Spaces</strong> - Prepare to be surprised. Participants suggest, self-organize, and lead
@@ -50,12 +49,6 @@ Description = "devopsdays Vilnius 2024"
                         style="background-color: #1bff9f; border-color: #1bff9f; color: #000000 "
                         href="https://www.bilietai.lt/eng/tickets/kita/conference-ticket-devops-days-vilnius-2024-434138/">
                         <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Register / Get a ticket</a>
-                </div>
-                <div class="d-flex p-2">
-                    <a class="btn btn-secondary btn-block button-secondary"
-                        style="background-color: #1bff9f; border-color: #1bff9f; color: #000000 "
-                        href="https://talks.devopsdays.org/devopsdays-vilnius-2024/cfp"> <i
-                            class="fa fa-bolt fa-lg"></i>&nbsp;&nbsp;&nbsp;Propose Ignite Talk</a>
                 </div>
                 <div class="d-flex p-2">
                     <a class="btn btn-secondary btn-block button-secondary"

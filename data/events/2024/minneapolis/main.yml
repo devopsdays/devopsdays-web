@@ -116,6 +116,10 @@ sponsors:
     level: silver
   - id: redgate
     level: gold
+  - id: atlassian-community-msp
+    level: community
+  - id: datadog
+    level: gold
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
