@@ -1,18 +1,18 @@
 +++
 Title = "Sponsor"
 Type = "event"
-Description = "Sponsor devopsdays santiago 2025"
+Description = "Sponsor Devopsdays Santiago 2025"
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
+Valoramos enormemente los patrocinadores para este evento abierto. Si está interesado en patrocinar, envíenos un correo electrónico a [{{< email_organizers >}}].
 
 <hr>
 
-devopsdays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
+DevOpsdays es una conferencia autoorganizada para profesionales que depende de los patrocinios. No tenemos cabinas de proveedores, vendemos presentaciones de productos o distribuimos las listas de contactos de los asistentes. Los patrocinadores tienen la oportunidad de tener lanzamientos cortos de elevadores durante el programa y obtendrán reconocimiento en el sitio web y las redes sociales antes, durante y después del evento. Se alienta a los patrocinadores a representarse a sí mismos participando y participando activamente con los asistentes como compañeros. Cualquier asistente también tiene la oportunidad de demostrar productos/proyectos como parte de una sesión de espacio abierto.
 <p>
-Gold sponsors get a full table and Silver sponsors a shared table where they can interact with those interested to come visit during breaks. All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
+Los patrocinadores de oro obtienen una mesa completa y patrocinadores plateados una mesa compartida donde pueden interactuar con los interesados ​​en visitar durante los descansos. Todos los asistentes pueden proponer cualquier tema que deseen durante los espacios abiertos, pero esta es una conferencia centrada en la comunidad, por lo que el marketing pesado probablemente funcionará en su contra cuando intente causar una buena impresión en los asistentes.
 <p>
-The best thing to do is send engineers to interact with the experts at devopsdays on their own terms.
+Lo mejor que puede hacer es enviar ingenieros para interactuar con los expertos en DevOpsdays en sus propios términos.
 <p>
 
 <!--
