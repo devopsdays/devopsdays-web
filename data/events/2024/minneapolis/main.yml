@@ -120,7 +120,12 @@ sponsors:
     level: community
   - id: datadog
     level: gold
-
+  - id: spacelift
+    level: silver
+  - id: komodor
+    level: silver
+  - id: tailscale
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
