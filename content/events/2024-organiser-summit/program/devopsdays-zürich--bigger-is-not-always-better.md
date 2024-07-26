@@ -5,7 +5,9 @@ talk_date: ""
 talk_start_time: ""
 talk_end_time: ""
 speakers:
-  - romano--roth
+  - dirk-lehmann
+
+  - nadine-broghammer
 
 ---
 
