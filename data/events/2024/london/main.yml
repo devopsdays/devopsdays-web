@@ -109,8 +109,6 @@ organizer_email: "london@devopsdays.org" # Put your organizer email address here
 sponsors:
   # platinum sponsors
   # gold sponsors
-  - id: castai
-    level: gold
   - id: cloudsmith
     level: gold
   - id: contrast_security
