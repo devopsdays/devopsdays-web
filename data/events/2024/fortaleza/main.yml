@@ -187,9 +187,9 @@ sponsors:
   - id: estacio
     level: platinum
     url: https://estacio.br/
-  # - id: redhat
-  #   level: platinum
-  #   url: https://www.redhat.com/
+  - id: redhat
+    level: gold
+    url: https://www.redhat.com/
   # - id: trust-control
   #   level: platinum
   #   url: https://www.trustcontrol.com.br/
@@ -223,9 +223,9 @@ sponsors:
   - id: elastic
     level: community
     url: https://www.elastic.co/
-  # - id: crowdsec
-  #   level: community
-  #   url: https://crowdsec.net/ 
+  - id: rapaduratech
+    level: community
+    url: https://rapaduratech.com.br/
   # - id: clear-it
   #   level: community
   #   url: https://clearit.com.br/  
