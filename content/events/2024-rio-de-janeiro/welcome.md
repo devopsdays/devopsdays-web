@@ -11,7 +11,7 @@ Description = "devopsdays Rio de Janeiro 2024"
 
 <div class="row">
   <div class="col-md-2">
-      <img alt="DevOpsDays Rio de Janeiro 2024" src="/events/2024-rio-de-janeiro/logo-square.jpg" style="width:100%">
+      <img alt="DevOpsDays Rio de Janeiro 2024" src="/events/2024-rio-de-janeiro/logo-dod-rj.jpg" style="width:100%">
       {{< event_twitter >}}
       <br>
       <a href="https://t.me/devopsdaysrj" target="_blank">
