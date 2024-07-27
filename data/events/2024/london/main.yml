@@ -118,6 +118,8 @@ sponsors:
   - id: elastic
     level: gold
   # silver sponsors
+  - id: devex-connect
+    level: silver
   - id: honeycomb
     level: silver
   - id: macstadium
