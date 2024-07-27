@@ -106,12 +106,12 @@ sponsors:
     level: community
   - id: dnsimple
     level: platinum
-#  - id: dexian
-#    level: gold
-#  - id: alarmpoint
-#    level: platinum
-#  - id: coder
-#    level: platinum
+  - id: dexian
+    level: gold
+  - id: harness
+    level: platinum
+  - id: coder
+    level: platinum
   
 
  
