@@ -109,11 +109,11 @@ organizer_email: "london@devopsdays.org" # Put your organizer email address here
 sponsors:
   # platinum sponsors
   # gold sponsors
+  - id: eficode
+    level: gold
   - id: cloudsmith
     level: gold
   - id: contrast_security
-    level: gold
-  - id: eficode
     level: gold
   - id: elastic
     level: gold
@@ -123,6 +123,10 @@ sponsors:
   - id: honeycomb
     level: silver
   - id: macstadium
+    level: silver
+  - id: dxc
+    level: silver
+  - id: venafi
     level: silver
   # bronze sponsors
   - id: commify
