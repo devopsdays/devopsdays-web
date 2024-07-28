@@ -29,7 +29,7 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 # Location
 #
-coordinates: "-22.872814354306552, -47.06547022283829" # No longer used
+coordinates: "-22.874486662183347, -47.06509853097971" # No longer used
 location: "Unisal - Campus São José" # Defaults to city, but you can make it the venue name.
 location_address: "Av. Almeida Garret, 267 - Jd. Nossa Senhora Auxiliadora, Campinas - SP" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
 
