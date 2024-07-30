@@ -92,10 +92,10 @@ sponsors:
    level: community
  #- id: guc
  #  level: community
- - id: auc
-   level: community
- - id: eui
-   level: community
+ #- id: auc
+ #  level: community
+ #- id: eui
+ #  level: community
  #- id: kaferelshiekh-uni
  #  level: community
  #- id: nileuni
