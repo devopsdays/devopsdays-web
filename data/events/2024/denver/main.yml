@@ -104,11 +104,13 @@ sponsors:
     level: silver
   - id: kubefirst
     level: silver
+  - id: deviq
+    level: supporter
+  - id: kloudfuse
+    level: supporter
   - id: parrylabs
     level: supporter
   - id: pax8
-    level: supporter
-  - id: deviq
     level: supporter
   - id: webriot
     level: supporter
