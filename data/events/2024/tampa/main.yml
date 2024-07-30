@@ -41,9 +41,9 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     icon: "map-o"
     url: /events/2024-tampa/location
   - name: propose
-#  - name: registration
-#  - name: program
-#  - name: speakers
+  - name: registration
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -106,6 +106,13 @@ sponsors:
     level: community
   - id: dnsimple
     level: platinum
+  - id: dexian
+    level: gold
+  - id: harness
+    level: platinum
+  - id: coder
+    level: platinum
+  
 
  
 #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
