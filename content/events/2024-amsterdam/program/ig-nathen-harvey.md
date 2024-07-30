@@ -15,3 +15,7 @@ The DevOps community has taken lessons and insights from other disciplines.
 Many argue that DevOps isn't a tool or a job title.
 
 Let's take some inspiration from another field and explore the idea that, perhaps, DevOps is a Way of Being.
+
+[Slides](https://drive.google.com/file/d/1RMLjbT6hZFacKX6uHL7ZKDNrX6TGRSof/view?usp=drive_link)
+
+[Video](https://www.youtube.com/watch?v=eP_wP2SOXbY)
