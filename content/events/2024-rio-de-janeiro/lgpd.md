@@ -17,7 +17,7 @@ Description = "Lei Geral de Proteção de Dados Pessoais (LGPD)"
 
 <p>Apenas retemos as informações coletadas pelo tempo necessário para fornecer o serviço solicitado. Quando armazenamos dados, protegemos dentro de meios comercialmente aceitáveis pela legislação atual ​​para evitar perdas e roubos, bem como acesso, divulgação, cópia, uso ou modificação não autorizados.</p>
 
-<p>Não compartilhamos informações de identificação pessoal publicamente.</p>
+<p>Não compartilhamos informações de identificação pessoal publicamente. Porém, os dados coletados poderão ser compartilhados com patrocinadores do evento e os usuários têm a opção de optar por remoção do seu nome ou não compartilhamento de seus dados através do formulário de compra dos ingressos.</p>
 
 <p>O nosso site pode ter links para sites externos que não são operados por nós. Diante disto, não nos responsabilizamos por danos de terceiros. Esteja ciente de que não temos controle sobre o conteúdo e práticas de sites de terceiros e não podemos aceitar responsabilidade por suas respectivas políticas de privacidade.</p>
 
