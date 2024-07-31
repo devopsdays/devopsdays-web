@@ -4,7 +4,7 @@ Type = "workshop"
 Description = "Join the hands-on Cloud Workshop hosted by GDG Halifax and learn Generative AI on Google Cloud."
 +++
 
-## Preconference Workshop - Explore Generative AI with the Vertex AI Gemini API
+## Explore Generative AI with the Vertex AI Gemini API
 
 <img src="https://res.cloudinary.com/startup-grind/image/upload/c_scale,w_2560/c_crop,h_640,w_2560,y_0.38_mul_h_sub_0.38_mul_640/c_crop,h_640,w_2560/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/event_banners/Copy%20of%20Horizontal%20Lockup%20-%20Color_MmVOLmC.jpeg" alt="Workshop Logo" style="width:100%; max-width:600px; margin: 0 auto; display: block;">
 
