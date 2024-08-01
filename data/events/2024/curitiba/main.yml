@@ -56,12 +56,12 @@ team_members: # Name is the only required field for team members.
   - name: "Marcelo Baptista"
     employer: "C6 Bank"
     linkedin: "https://www.linkedin.com/in/marcelocbaptista"
-  - name: "Emerson Saito"
+  - name: "Emerson Sachio Saito"
     employer: "SERPRO"
     linkedin: "https://www.linkedin.com/in/emerson-sachio-saito"
-  - name: "Fabiano"
-    #employer: "Acme Anvil Co."
-    #linkedin:
+  - name: "Fabiano Sardenberg Kuss"
+    employer: "Acme Anvil Co."
+    linkedin: "https://www.linkedin.com/in/fabiano-kuss-37742956/"
     #twitter: "devopsdays"
   - name: "Pedro Alves Batista"
     #employer: "Acme Anvil Co."
@@ -72,14 +72,14 @@ team_members: # Name is the only required field for team members.
     #website: "https://mattstratton.com"
     #image: "sally-fields.jpg"
 
-organizer_email: "curitiba@devopsdays.org" # Put your organizer email address here
+organizer_email: "devopsdayscuritiba@gmail.com" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: samplesponsorname
-    level: gold
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: NimbleEvolution
+    level: Silver
+    url: https://br.nimbleevolution.com
   - id: arresteddevops
     level: community
 
@@ -92,11 +92,12 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Gold
-#    max: 10
+    max: 5
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    max: 10 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
+    max: 20
   - id: community
     label: Community
