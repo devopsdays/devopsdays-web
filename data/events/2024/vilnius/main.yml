@@ -291,8 +291,8 @@ program:
     start_time: "10:20"
     end_time: "10:45"
 
-  - title: "Add WebAssembly workloads in Kubernetes with SpinKube"
-    type: custom
+  - title: "radu-matei"
+    type: talk
     date: 2024-09-12
     start_time: "10:45"
     end_time: "11:20"
