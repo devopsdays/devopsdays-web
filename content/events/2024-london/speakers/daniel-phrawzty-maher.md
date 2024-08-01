@@ -9,4 +9,4 @@ linktitle = "daniel-maher"
 
 +++
 
-Dan is an open source developer, public speaker, occasional voice actor, and lapsed thespian. When not contemplating time zones, he finds time to co-chair the DevOpsDays conference series.
+Dan is an open source developer, public speaker, occasional voice actor, and lapsed thespian. When not contemplating time zones, he finds time to co-chair the DevOpsDays conference series, and to wrangle code at [Cerbos](https://cerbos.dev).
