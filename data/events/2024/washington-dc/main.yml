@@ -205,6 +205,14 @@ sponsors:
     level: gold
   - id: flox
     level: platinum
+  - id: komodor
+    level: silver
+  - id: checkmarx
+    level: gold
+  - id: fairwinds
+    level: silver
+  - id: devopsdc-meetup
+    level: community
 
     #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 
@@ -218,13 +226,13 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: platinum
     label: Platinum
-    max: 6
+    max: 5
   - id: lanyard
     label: Lanyard
     max: 1
   - id: gold
     label: Gold
-    max: 4
+    max: 6
   - id: silver
     label: Silver
     max: 6
