@@ -124,6 +124,12 @@ sponsors:
     level: community
   - id: tampaccc
     level: community
+  - id: tampabaytech
+    level: community
+  - id: tampajug
+    level: community
+  - id: womeninlinux
+    level: community
   
 
  
@@ -143,7 +149,7 @@ sponsor_levels:
     max: 2
   - id: platinum
     label: Platinum
-    max: 8 # This is the same as omitting the max limit.
+    max: 8 
   - id: gold
     label: Gold
   - id: inkind
