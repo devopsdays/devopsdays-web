@@ -112,6 +112,8 @@ sponsors:
     level: supporter
   - id: pax8
     level: supporter
+  - id: releaseteam
+    level: supporter
   - id: tailscale
     level: supporter
   - id: webriot
