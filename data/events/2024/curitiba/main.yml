@@ -37,7 +37,7 @@ location_address: "" #Optional - use the street address of your venue. This will
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
  # - name: location
- # - name: registration
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -53,19 +53,24 @@ team_members: # Name is the only required field for team members.
   - name: "Alex Mazur"
     employer: "ThoughtWorks"
     linkedin: "https://www.linkedin.com/in/alex-mazur"
+    image: "alex.jpeg"	
   - name: "Marcelo Baptista"
     employer: "C6 Bank"
     linkedin: "https://www.linkedin.com/in/marcelocbaptista"
+    image: "marcelo.jpeg"	
   - name: "Emerson Sachio Saito"
     employer: "SERPRO"
     linkedin: "https://www.linkedin.com/in/emerson-sachio-saito"
+    image: "emerson.png"
   - name: "Fabiano Sardenberg Kuss"
-    employer: "Acme Anvil Co."
+    employer: "SERPRO"
     linkedin: "https://www.linkedin.com/in/fabiano-kuss-37742956/"
+    image: "fabiano.jpeg"
     #twitter: "devopsdays"
   - name: "Pedro Alves Batista"
     #employer: "Acme Anvil Co."
     linkedin: "https://www.linkedin.com/in/pedro-alves-batistahq3"
+    image: "pedro.jpeg"
     #github: "devopsdays"
     #facebook: "https://www.facebook.com/sally.fields"
     #linkedin: 
@@ -80,8 +85,9 @@ sponsors:
   - id: NimbleEvolution
     level: Silver
     url: https://br.nimbleevolution.com
-  - id: arresteddevops
-    level: community
+  #- id: NimbleEvolution
+  # level: Silver
+  # url: https://br.nimbleevolution.com
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -92,12 +98,12 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Gold
-    max: 5
+    max: 4
   - id: silver
     label: Silver
-    max: 10 # This is the same as omitting the max limit.
+    max: 6 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
-    max: 20
+    max: 10
   - id: community
     label: Community
