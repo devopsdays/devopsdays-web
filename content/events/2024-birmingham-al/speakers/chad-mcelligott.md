@@ -1,10 +1,11 @@
 +++
 Title = "Chad McElligott"
-Twitter = ""
-linkedin = ""
 image = "chad-mcelligott.png"
 type = "speaker"
 linktitle = "chad-mcelligott"
+Website = "https://chadxz.dev"
+LinkedIn = "https://www.linkedin.com/in/chadmcelligott/"
+GitHub = "chadxz"
 +++
 
 Engineering leader currently on the Individual Contributor track.Engineering
