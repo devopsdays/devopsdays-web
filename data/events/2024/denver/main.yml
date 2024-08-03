@@ -108,9 +108,13 @@ sponsors:
     level: supporter
   - id: kloudfuse
     level: supporter
+  - id: masterpoint
+    level: supporter
   - id: parrylabs
     level: supporter
   - id: pax8
+    level: supporter
+  - id: releaseteam
     level: supporter
   - id: tailscale
     level: supporter
