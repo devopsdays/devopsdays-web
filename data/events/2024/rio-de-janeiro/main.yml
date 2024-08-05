@@ -141,6 +141,9 @@ sponsors:
   - id: veecode
     level: bronze
 
+  - id: grafana
+    level: bronze
+
   #Community
   - id: punkdodevops
     level: community
