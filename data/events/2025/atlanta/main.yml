@@ -36,7 +36,11 @@ location_address: "875 W Peachtree St NW, Atlanta, GA 30309" #Optional - use the
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
+<<<<<<< HEAD
   - name: location
+=======
+ # - name: location
+>>>>>>> a125409e27 (removed pics of non-returning organizers, removed registration open/close dates, changed registration to register)
   - name: register
  # - name: program
  # - name: speakers
