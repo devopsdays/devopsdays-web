@@ -77,7 +77,7 @@ team_members: # Name is the only required field for team members.
     #website: "https://mattstratton.com"
     #image: "sally-fields.jpg"
 
-organizer_email: "devopsdayscuritiba@gmail.com" # Put your organizer email address here
+organizer_email: "curitiba@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
