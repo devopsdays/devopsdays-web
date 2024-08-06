@@ -261,6 +261,12 @@ program:
     start_time: "12:15"
     end_time: "13:45"
 
+  - title: "dillon-courts-argo"
+    type: workshop
+    date: 2024-07-10T00:00:00-06:00
+    start_time: "12:30"
+    end_time: "14:00" 
+
   - title: "khushi-yadav"
     type: talk
     date: 2024-07-10T00:00:00-06:00
@@ -310,6 +316,12 @@ program:
     date: 2024-07-10T00:00:00-06:00
     start_time: "15:55"
     end_time: "16:15"
+
+  - title: "dillon-courts-idp"
+    type: workshop
+    date: 2024-07-10T00:00:00-06:00
+    start_time: "15:55"
+    end_time: "17:25" 
 
   - title: "vijay-ramamurthy"
     type: talk
@@ -362,7 +374,7 @@ program:
     start_time: "10:30"
     end_time: "10:50"
 
-  - title: "annie-garciahodgkins"
+  - title: "anne-garciahodgkins"
     type: talk
     date: 2024-07-11T00:00:00-06:00
     start_time: "10:50"
@@ -380,6 +392,12 @@ program:
     date: 2024-07-11T00:00:00-06:00
     start_time: "11:30"
     end_time: "13:00"
+
+  - title: "datadog-workshop"
+    type: workshop
+    date: 2024-07-11T00:00:00-06:00
+    start_time: "11:45"
+    end_time: "13:15"
 
   - title: "hareesh-iyer"
     type: talk

@@ -29,6 +29,25 @@ Description = "devopsdays Minneapolis 2024"
 
 <div class = "row">
   <div class = "col-md-2">
+    <strong>Livestream</strong>
+  </div>
+  <div class = "col-md-8">
+    <a href="https://www.youtube.com/live/HfxqRQO6F5k">Tuesday August 6th</a>, <a href="https://www.youtube.com/live/ZHaYRJ-G310"> Tuesday Ignite Social</a> & <a href="https://www.youtube.com/live/ciP7J60A1Cs">Wednesday August 7th</a>
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Participate</strong>
+  </div>
+  <div class = "col-md-8">
+    <a href="https://docs.google.com/spreadsheets/d/14-b1f2UE8dMCP0VbbFUct-uwa6ZQVwqhZpLHgM9ZNA0/">Daily Open Spaces Schedule</a>
+  </div>
+</div>
+
+
+<div class = "row">
+  <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">

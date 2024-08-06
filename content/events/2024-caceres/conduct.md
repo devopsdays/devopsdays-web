@@ -3,6 +3,8 @@ Title = "Conduct"
 Type = "event"
 Description = "Code of conduct for devopsdays Cáceres 2024"
 +++
+<link href="/events/2024-caceres/main.css" rel="stylesheet">
+<script src="/events/2024-caceres/main.js"></script>
 
 
 All attendees, speakers, sponsors, and volunteers at devopsdays Cáceres 2024 are required to agree with the following code of conduct. Organizers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensure a safe environment for everybody.

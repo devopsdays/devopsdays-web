@@ -50,7 +50,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: 2016-ns1
     level: gold
-  - id: venafi
+  - id: venafi-before-20240728
     level: gold
   - id: microsoft
     level: gold
