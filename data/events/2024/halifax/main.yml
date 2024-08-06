@@ -34,6 +34,7 @@ location_address: "6135 University Ave, Halifax, NS B3H 4P9, Canada" #Optional -
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
+  - name: workshop
   - name: location
   - name: registration
   - name: Schedule
@@ -112,6 +113,8 @@ sponsors:
     level: community 
   - id: gdg-halifax
     level: community 
+  - id: clc_halifax
+    level: community
   
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

@@ -88,11 +88,11 @@ a.jssocials-share-link, a.event-cta-button {
 {{< event_logo >}}
 <!-- <img src="/events/2023-montreal/logo-square.jpg"> -->
 <p></p>
-<p><a href="" onclick="alert('EM BREVE!'); return false"><button>SUBMENTA SUA TALK</button></a></p>
+<p><a href="https://www.papercall.io/devopsdays-campinas"><button>SUBMENTA SUA TALK</button></a></p>
 <p><a href="" onclick="alert('EM BREVE!'); return false"><button>INSCREVA-SE</button></a></p>
-<p><a href="../sponsor/"><button>SEJA UM SPONSOR</button></a></p>
+<p><a href="../sponsor/"><button>SEJA UM PATROCINADOR</button></a></p>
 <p><a href="/events/2024-campinas/contact"><button>CONTATO</button></a></p>
-<p><a href="" onclick="alert('EM BREVE!'); return false"><button>LOCALIZAÇÃO</button></a></p>
+<p><a href="https://maps.app.goo.gl/VKNVH1sS3K9udGcq6"><button>LOCALIZAÇÃO</button></a></p>
 </div>
 
 <div class="sidebar">
