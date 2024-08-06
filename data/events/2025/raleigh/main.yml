@@ -41,8 +41,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
   # - name: registration
     # url: "https://www.eventbrite.com/e/devopsdays-raleigh-2024-tickets-615268222817?aff=ebdsoporgprofile"
-  - name: program
-  - name: speakers
+  # - name: program
+  # - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
